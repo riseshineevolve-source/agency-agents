@@ -1,6 +1,11 @@
-# RSE AI Agency - CORE + SPECIALISTS
-# Install with:
-# ./scripts/install.sh --tool codex --agents-file rse/agents-all.txt
+# RSE AI Agency - CURATED roster (CORE + preferred specialists)
+# This is NOT the full upstream Agency library.
+# Install this 27-agent curated set with:
+# bash rse/install-codex.sh curated
+#
+# Recommended RSE setup is smart mode, which installs the full source catalog
+# while keeping these CORE/preferred agents as routing priorities:
+# bash rse/install-codex.sh smart
 
 RSE Orchestrator
 Studio Producer
