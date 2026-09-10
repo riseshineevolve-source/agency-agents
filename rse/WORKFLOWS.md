@@ -41,17 +41,17 @@ Use RSE Orchestrator for a Google Play release-readiness workflow. Use Mobile Ap
 ## Research and prioritize a new RSE product
 
 ```text
-Use RSE Orchestrator for product opportunity research. Use Product Trend Researcher and/or Research Synthesist for evidence, Product Manager for the MVP and Studio Producer to compare opportunity cost against the existing RSE portfolio. Finish with Reality Checker. I want a decision, not a brainstorm dump: GO, TEST CHEAPLY, HOLD or DROP, with reasons.
+Use RSE Orchestrator for product opportunity research. Use Trend Researcher and/or Research Synthesist for evidence, Product Manager for the MVP and Studio Producer to compare opportunity cost against the existing RSE portfolio. Finish with Reality Checker. I want a decision, not a brainstorm dump: GO, TEST CHEAPLY, HOLD or DROP, with reasons.
 ```
 
 ## Educational / children's product
 
 ```text
-Use RSE Orchestrator for an educational product. Start from the target child age, learning objective and real user context. Use Research Synthesist and Product Manager, involve Academic Psychologist only where age/development/behavior is genuinely relevant, and use UX/visual specialists as needed. Keep language natural and age-appropriate without making it babyish. Require factual, pedagogical, UX and safety checks before PASS.
+Use RSE Orchestrator for an educational product. Start from the target child age, learning objective and real user context. Use Research Synthesist and Product Manager, involve Psychologist only where age/development/behavior is genuinely relevant, and use UX/visual specialists as needed. Keep language natural and age-appropriate without making it babyish. Require factual, pedagogical, UX and safety checks before PASS.
 ```
 
 ## KDP / book workflow
 
 ```text
-Use RSE Orchestrator for a KDP/product publishing workflow. Validate the niche with Product Trend Researcher or Research Synthesist, define the differentiated product with Product Manager, then use Book Co-Author and Image Prompt Engineer as appropriate. Check consistency, age fit, print usability and commercial differentiation. Finish with Reality Checker before treating the product as final.
+Use RSE Orchestrator for a KDP/product publishing workflow. Validate the niche with Trend Researcher or Research Synthesist, define the differentiated product with Product Manager, then use Book Co-Author and Image Prompt Engineer as appropriate. Check consistency, age fit, print usability and commercial differentiation. Finish with Reality Checker before treating the product as final.
 ```
