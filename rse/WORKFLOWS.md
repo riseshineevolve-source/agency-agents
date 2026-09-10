@@ -1,57 +1,63 @@
 # RSE AI Agency workflows
 
-These are starting commands for Codex. The `RSE Orchestrator` should still inspect the active repository, read its `AGENTS.md` and authoritative specs, and choose only the specialists that materially help.
+These are starting commands for Codex when SMART mode is installed. `RSE Orchestrator` should inspect the active repository, read its `AGENTS.md` and authoritative specs, prefer the CORE team when it is a strong fit, and search the full installed Agency catalog when a specialist can materially improve the result.
 
 ## Take over an existing project
 
 ```text
-Use RSE Orchestrator. Inspect the entire current repository and its recent state. Read AGENTS.md and every authoritative product/specification file it points to. Summarize the current implementation, blockers and risks, then choose the smallest specialist team needed for my request. Work through implementation and QA until you can return PASS, NEEDS WORK or BLOCKED with evidence. Do not widen scope without a concrete reason.
+Use RSE Orchestrator. Inspect the entire current repository and its recent state. Read AGENTS.md and every authoritative product/specification file it points to. Summarize the current implementation, blockers and risks. Prefer the RSE CORE team when it fits, but search the full installed Agency catalog by description for any specialist that materially improves this task. Choose the smallest useful team, work through implementation and QA, and finish with PASS, NEEDS WORK or BLOCKED with evidence. Do not widen scope without a concrete reason.
 ```
 
 ## Build a new app or major feature
 
 ```text
-Use RSE Orchestrator for an end-to-end app workflow. Start with Product Manager and UX Architect, involve Software Architect only for decisions that need architecture, then delegate implementation to the appropriate Frontend Developer, Mobile App Builder and/or Backend Architect. Run automated tests, accessibility review, independent code review and a final Reality Checker gate. Preserve all repository-specific constraints.
+Use RSE Orchestrator for an end-to-end app workflow. Read project rules first. Define the product/UX/architecture needs, then inspect the full Agency catalog for platform- or technology-specific specialists before defaulting to generic implementers. Use only the smallest useful team. Parallelize independent exploration/testing, avoid conflicting parallel edits, run appropriate tests and accessibility/security review, and finish with an independent Reality Checker gate.
 ```
 
 ## Fix one issue and nothing else
 
 ```text
-Use RSE Orchestrator in minimal-change mode. Delegate implementation to Minimal Change Engineer. Fix only the issue I described, preserve unrelated design, behavior, APIs and architecture, run the smallest sufficient regression checks, then have Code Reviewer independently verify the diff.
+Use RSE Orchestrator in minimal-change mode. Fix only the issue I described and preserve unrelated design, behavior, APIs and architecture. Prefer Minimal Change Engineer if available. Search the full specialist catalog only if the issue clearly requires a narrower technology/domain expert. Run the smallest sufficient regression checks and have an independent reviewer verify the diff.
 ```
 
 ## Final UX audit
 
 ```text
-Use RSE Orchestrator for a final UX quality gate. Run UI Finish-Gate Reviewer, Accessibility Auditor and the relevant test agent independently. Consolidate their evidence and send it to Reality Checker. Do not return PASS while a blocker, broken flow, hidden navigation problem, layout defect or unverified claim remains.
+Use RSE Orchestrator for a final UX quality gate. Run UI Finish-Gate Reviewer and Accessibility Auditor, then search the full Agency catalog for any specialist relevant to the actual platform or interaction risk. Run independent checks in parallel where useful, consolidate their evidence, and send it to Reality Checker. Do not return PASS while a blocker, broken flow, hidden navigation problem, layout defect or unverified claim remains.
 ```
 
 ## Security audit of an AI-built app
 
 ```text
-Use RSE Orchestrator for a security pass focused on AI-generated code. Use AI-Generated Code Security Auditor and, when credentials or tracked environment files are involved, Secrets & Credential Hygiene Engineer. Check authentication boundaries, authorization, database/RLS rules, exposed secrets, unsafe client assumptions and data handling. Never print real secret values. Return concrete findings ordered by severity and verify fixes after implementation.
+Use RSE Orchestrator for a security pass focused on AI-generated code. Start with AI-Generated Code Security Auditor, then search the full Security division for narrower specialists that match the actual architecture or findings, for example secrets, AppSec, cloud, compliance, auth or incident expertise. Never print real secret values. Order findings by severity, remediate only confirmed issues, and verify fixes after implementation.
 ```
 
 ## Prepare Android app for Google Play
 
 ```text
-Use RSE Orchestrator for a Google Play release-readiness workflow. Use Mobile App Builder and Mobile Release Engineer for the release candidate, then Accessibility Auditor, Data Privacy Officer and AI-Generated Code Security Auditor. Only after technical readiness, use App Store Optimizer for the listing. Finish with Reality Checker and provide PASS, NEEDS WORK or BLOCKED with evidence.
+Use RSE Orchestrator for Google Play release readiness. Read the app's AGENTS.md/specs first. Search the full Agency catalog for Android/mobile release, accessibility, privacy, security and store-optimization specialists. Build the smallest release team, verify the actual release candidate, and do not start store-listing optimization until technical readiness is credible. Finish with PASS, NEEDS WORK or BLOCKED with evidence.
 ```
 
 ## Research and prioritize a new RSE product
 
 ```text
-Use RSE Orchestrator for product opportunity research. Use Trend Researcher and/or Research Synthesist for evidence, Product Manager for the MVP and Studio Producer to compare opportunity cost against the existing RSE portfolio. Finish with Reality Checker. I want a decision, not a brainstorm dump: GO, TEST CHEAPLY, HOLD or DROP, with reasons.
+Use RSE Orchestrator for product opportunity research. Start with Research Synthesist and/or Trend Researcher when appropriate, then search the full Agency catalog for domain-specific researchers or strategists that can materially improve the decision. Use Product Manager for MVP boundaries and Studio Producer for portfolio tradeoffs. I want a decision, not a brainstorm dump: GO, TEST CHEAPLY, HOLD or DROP, with evidence and reasons.
 ```
 
 ## Educational / children's product
 
 ```text
-Use RSE Orchestrator for an educational product. Start from the target child age, learning objective and real user context. Use Research Synthesist and Product Manager, involve Psychologist only where age/development/behavior is genuinely relevant, and use UX/visual specialists as needed. Keep language natural and age-appropriate without making it babyish. Require factual, pedagogical, UX and safety checks before PASS.
+Use RSE Orchestrator for an educational product. Start from the target child age, learning objective and real user context. Search the Academic, Product, Design, Research and relevant specialist catalog entries for the best-fit experts rather than assuming one generic education role. Keep language natural and age-appropriate without making it babyish. Require factual, pedagogical, UX, privacy and safety checks before PASS.
 ```
 
 ## KDP / book workflow
 
 ```text
-Use RSE Orchestrator for a KDP/product publishing workflow. Validate the niche with Trend Researcher or Research Synthesist, define the differentiated product with Product Manager, then use Book Co-Author and Image Prompt Engineer as appropriate. Check consistency, age fit, print usability and commercial differentiation. Finish with Reality Checker before treating the product as final.
+Use RSE Orchestrator for a KDP/product publishing workflow. Search the full Agency catalog for the best market-research, publishing, content, visual and age-fit specialists for this exact product. Use the fewest agents that cover the real work. Check differentiation, consistency, print usability, factual accuracy and audience fit. Finish with Reality Checker before treating the product as final.
+```
+
+## Unknown or unusual task
+
+```text
+Use RSE Orchestrator. I do not know which Agency agent is best for this. First classify the task, then search ~/.codex/rse/AGENT_CATALOG.md by the concrete domain, technology, deliverable and risk terms. Compare the descriptions of the strongest candidates, choose the smallest useful team, tell me briefly which agents you selected and why, then execute and verify the work.
 ```
