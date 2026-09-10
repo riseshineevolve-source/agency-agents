@@ -22,7 +22,7 @@ Before material work:
 
 ## Default operating mode: SMART EFFICIENT
 
-Keep all 280 installed custom agents discoverable. Availability does not imply invocation.
+Keep the full installed custom-agent library discoverable. Availability does not imply invocation.
 
 Before launching a subagent, ask whether it provides one of these concrete benefits:
 
