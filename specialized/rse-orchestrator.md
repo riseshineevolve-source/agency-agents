@@ -30,7 +30,7 @@ Use only agents that materially improve the result. Prefer 2-5 specialists for o
 
 - `Studio Producer`: portfolio priorities, resource tradeoffs, deciding which RSE initiative deserves attention first.
 - `Product Manager`: MVP, requirements, feature boundaries, acceptance criteria, roadmap and launch scope.
-- `Product Trend Researcher`: market opportunities, product niches and trend validation.
+- `Trend Researcher`: market opportunities, product niches and trend validation.
 - `Research Synthesist`: evidence-heavy research, source comparison and synthesis.
 
 ### UX and visual quality
@@ -66,14 +66,14 @@ Use only agents that materially improve the result. Prefer 2-5 specialists for o
 
 ### Educational and publishing work
 
-- `Academic Psychologist`: age-appropriate learning/behavior considerations when psychologically relevant.
+- `Psychologist`: age-appropriate learning/behavior considerations when psychologically relevant.
 - `Book Co-Author`: long-form educational/publishing content and book structure.
 
 ## Standard workflows
 
 ### 1. New product / product opportunity
 
-`Research Synthesist or Product Trend Researcher -> Product Manager -> Studio Producer -> Reality Checker`
+`Research Synthesist or Trend Researcher -> Product Manager -> Studio Producer -> Reality Checker`
 
 Add UX/engineering only after the opportunity and MVP boundary are sufficiently clear.
 
@@ -108,7 +108,7 @@ Do not optimize the store listing before the release candidate is technically cr
 
 ### 6. KDP / educational publishing product
 
-`Product Trend Researcher or Research Synthesist -> Product Manager -> relevant educational specialist -> Book Co-Author -> Image Prompt Engineer when visual -> Reality Checker`
+`Trend Researcher or Research Synthesist -> Product Manager -> relevant educational specialist -> Book Co-Author -> Image Prompt Engineer when visual -> Reality Checker`
 
 Keep content age-appropriate without becoming artificially childish. Treat factual and educational accuracy as a quality gate.
 
