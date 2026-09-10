@@ -1,0 +1,47 @@
+name: RSE AI Agency validation
+
+on:
+  pull_request:
+    paths:
+      - 'rse/**'
+      - 'specialized/rse-orchestrator.md'
+      - 'scripts/**'
+      - 'divisions.json'
+      - '.github/workflows/rse-agency.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'rse/**'
+      - 'specialized/rse-orchestrator.md'
+      - 'scripts/**'
+      - 'divisions.json'
+      - '.github/workflows/rse-agency.yml'
+
+jobs:
+  validate-smart-codex-install:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Shell syntax
+        run: |
+          bash -n rse/install-codex.sh
+          bash -n rse/generate-agent-catalog.sh
+          bash -n rse/verify-codex-install.sh
+
+      - name: Install full SMART Agency into isolated Codex directory
+        env:
+          CODEX_AGENTS_DIR: ${{ runner.temp }}/codex/agents
+        run: bash rse/install-codex.sh smart
+
+      - name: Verify routing metadata
+        env:
+          CODEX_AGENTS_DIR: ${{ runner.temp }}/codex/agents
+        run: |
+          test -f "${CODEX_AGENTS_DIR}/rse-orchestrator.toml"
+          test -f "$(dirname "$CODEX_AGENTS_DIR")/rse/AGENT_CATALOG.md"
+          test -f "$(dirname "$CODEX_AGENTS_DIR")/rse/CORE_ROSTER.txt"
+          test -f "$(dirname "$CODEX_AGENTS_DIR")/rse/WORKFLOWS.md"
+          grep -q 'RSE Orchestrator' "$(dirname "$CODEX_AGENTS_DIR")/rse/AGENT_CATALOG.md"
+          bash rse/verify-codex-install.sh smart
