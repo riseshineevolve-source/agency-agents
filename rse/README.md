@@ -2,87 +2,18 @@
 
 RSE AI Agency is a Rise.Shine.Evolve routing layer on top of the full `agency-agents` catalog.
 
-The recommended setup is **SMART mode**:
+The recommended setup is **SMART EFFICIENT**:
 
 - install every current Agency custom agent into Codex;
-- keep a compact RSE CORE team as the default preference;
-- let `RSE Orchestrator` discover a non-CORE specialist only when that specialist materially improves the task;
-- keep noisy exploration/review work in bounded subagent threads;
-- require evidence before final `PASS`.
+- keep the 16-agent RSE CORE team as the preferred routing tier;
+- discover non-CORE specialists only when they materially improve the task;
+- minimize duplicated repository reading, repeated tests and unnecessary final gates;
+- scale agent count and verification to task risk;
+- keep evidence strong enough for the requested claim.
 
-Installing the full library does **not** mean running the full library. The agents are an available bench. The Orchestrator should normally choose only a handful.
+The full library is an expert bench, not a default swarm.
 
-## Installation modes
-
-### SMART - recommended
-
-Installs the **entire current source catalog** and generates a searchable local agent index.
-
-```bash
-bash rse/install-codex.sh smart
-```
-
-`smart` is also the default when no mode is supplied:
-
-```bash
-bash rse/install-codex.sh
-```
-
-Use this when you want RSE Orchestrator to be able to discover any useful specialist from the Agency library without you needing to know that specialist exists.
-
-### CORE
-
-Installs only the 16-agent RSE CORE roster:
-
-```bash
-bash rse/install-codex.sh core
-```
-
-Useful for a deliberately small installation, but non-CORE specialists are not available as custom Codex agents.
-
-### CURATED
-
-Installs CORE plus the preferred RSE specialists listed in `rse/agents-all.txt`:
-
-```bash
-bash rse/install-codex.sh curated
-```
-
-This is a middle ground. Despite its historical filename, `agents-all.txt` is the RSE curated list, **not** the entire upstream Agency catalog.
-
-## What SMART mode installs
-
-Codex custom agents are installed to:
-
-```text
-~/.codex/agents/
-```
-
-RSE routing metadata is installed to:
-
-```text
-~/.codex/rse/
-```
-
-including:
-
-- `AGENT_CATALOG.md` - searchable names, slugs, divisions, CORE/SPECIALIST tier and descriptions;
-- `CORE_ROSTER.txt` - the preferred RSE CORE team;
-- `WORKFLOWS.md` - ready-to-use RSE workflow prompts.
-
-The exact total agent count is derived from the source repository at install time. It is intentionally not hardcoded, because upstream can add or remove agents.
-
-## Windows setup
-
-Use Git Bash or WSL for these repository scripts.
-
-For a fresh clone:
-
-```bash
-git clone https://github.com/riseshineevolve-source/agency-agents.git
-cd agency-agents
-bash rse/install-codex.sh smart
-```
+## Recommended installation
 
 For an existing clone:
 
@@ -92,64 +23,123 @@ git pull
 bash rse/install-codex.sh smart
 ```
 
-The conversion step can take a little while because it generates Codex definitions for the full source catalog.
-
-## Automatic verification
-
-A normal non-dry-run installation automatically runs:
+For a fresh clone:
 
 ```bash
-bash rse/verify-codex-install.sh smart
+git clone https://github.com/riseshineevolve-source/agency-agents.git
+cd agency-agents
+bash rse/install-codex.sh smart
 ```
 
-For SMART mode the verifier compares the installed TOML files with every current source agent and checks that `RSE Orchestrator` is present.
+SMART mode installs the entire current source catalog. CORE and CURATED remain available for intentionally smaller installations:
 
-Successful output ends with:
+```bash
+bash rse/install-codex.sh core
+bash rse/install-codex.sh curated
+```
+
+## Installed locations
+
+Custom agents:
 
 ```text
-[PASS] All expected agents are installed, including RSE Orchestrator.
+~/.codex/agents/
 ```
 
-You can rerun verification at any time:
+RSE metadata:
 
-```bash
-bash rse/verify-codex-install.sh smart
+```text
+~/.codex/rse/
 ```
 
-## Dry run
+including:
 
-Preview without installing:
+- `AGENT_CATALOG.md` - searchable full agent index;
+- `CORE_ROSTER.txt` - preferred RSE CORE team;
+- `WORKFLOWS.md` - efficient ready-to-use workflow prompts;
+- `EFFICIENCY_POLICY.md` - detailed routing and usage policy.
 
-```bash
-bash rse/install-codex.sh smart --dry-run
-```
+The agent total is derived from the repository at install time rather than hardcoded.
 
-The conversion step may still regenerate files inside the repository's `integrations/codex/` output directory, but the installer does not copy agents into your Codex configuration during a dry run.
+## SMART EFFICIENT routing
 
-## How routing works
+`Use RSE Orchestrator` defaults to SMART EFFICIENT. The user does not need to select a mode for ordinary work.
 
-RSE Orchestrator follows this order:
+The Orchestrator classifies work into four practical sizes:
 
-1. Read repository `AGENTS.md` and authoritative project specifications.
-2. Understand the user's exact request and what must not change.
-3. Classify the work by domain, technology, lifecycle stage, audience, risk and deliverable.
-4. Prefer a CORE agent when it is already a strong fit.
-5. If there is a real expertise gap, search the full installed custom-agent catalog by description.
-6. Select the smallest useful team.
-7. Parallelize independent/read-heavy work when useful; avoid conflicting parallel code edits.
-8. Require independent verification and a final evidence-based gate for substantial work.
+- **S:** tiny/local task, root only by default;
+- **M:** normal feature/bug/focused research, usually 1 specialist and at most 1 justified reviewer;
+- **L:** substantial cross-cutting work, usually 2-3 specialists with distinct scopes;
+- **XL:** release/security/deep audit, usually 3-5 specialists and only when the task truly requires it.
 
-The searchable catalog is normally available to the local Codex environment at:
+The point is not to minimize agent use at all costs. The point is to avoid paying for agents that repeat work already done by the root thread or another specialist.
+
+## Context economy
+
+The root thread builds a compact project capsule and passes bounded context to specialists. It should not ask every agent to reread the full repository, history and specifications.
+
+Direct source reading is still required when exact authoritative wording matters, omitted detail affects the specialist task, or an independent final audit needs source-level verification.
+
+Repository exploration should start from instructions, affected paths, diffs and targeted search. Expand only when evidence shows the problem crosses boundaries.
+
+## Verification economy
+
+Use the smallest meaningful verification first.
+
+- targeted tests/build/lint for affected behavior;
+- broader checks for cross-cutting, release-sensitive or security-sensitive work;
+- no repeat of the same successful check without a relevant change;
+- full suites when repository instructions require them or at meaningful milestones.
+
+Do not launch every reviewer after every edit. Match the independent gate to the actual risk. `Reality Checker` is intended for milestone/final readiness, not every micro-fix.
+
+## Full-library specialist discovery
+
+CORE is a preference, not a whitelist. Search the full catalog when a non-CORE specialist has a clear advantage in a technology, platform, domain, risk or deliverable.
+
+The catalog is normally available at:
 
 ```text
 ~/.codex/rse/AGENT_CATALOG.md
 ```
 
-RSE Orchestrator is instructed to search it narrowly rather than loading the whole catalog into context.
+Search it narrowly. Do not load the whole catalog into context.
+
+## Model and reasoning policy
+
+RSE Orchestrator does not assume it can change the runtime model. When model/reasoning controls are available, use the least expensive/capable setting that can reliably complete the task:
+
+- efficient/low reasoning for routine navigation, search, simple edits and bounded read-only work;
+- balanced/medium reasoning for normal implementation, debugging and review;
+- high-capability/high reasoning only for genuinely difficult architecture, security-critical reasoning, ambiguous multi-system debugging or failures that remain unresolved.
+
+Escalate because the problem is hard, not merely because it is long.
+
+## Optional user overrides
+
+Ordinary prompt:
+
+```text
+Use RSE Orchestrator.
+```
+
+Maximum economy:
+
+```text
+Use RSE Orchestrator in economy mode.
+```
+
+Broad final assurance:
+
+```text
+Use RSE Orchestrator in deep-audit mode.
+```
+
+Even in deep mode, every agent must have a distinct purpose.
 
 ## RSE CORE team
 
-The 16-agent preferred team is maintained in `rse/agents-core.txt` and currently includes:
+The current 16-agent preferred roster is maintained in `rse/agents-core.txt`:
 
 - RSE Orchestrator
 - Studio Producer
@@ -168,44 +158,36 @@ The 16-agent preferred team is maintained in `rse/agents-core.txt` and currently
 - Accessibility Auditor
 - AI-Generated Code Security Auditor
 
-CORE is a routing preference, not a hard whitelist in SMART mode.
+## Verification
 
-## Example first prompt in Codex
+A normal installation automatically verifies the expected roster and `RSE Orchestrator`.
 
-```text
-Use RSE Orchestrator. Read this repository's AGENTS.md and authoritative specs first. Understand my request, then choose the smallest useful team. Prefer RSE CORE when it is a strong fit, but search the full installed Agency catalog for a better specialist when the task has a real expertise gap. Delegate independent work where useful, avoid conflicting parallel edits, verify the result, and finish with PASS, NEEDS WORK, or BLOCKED with evidence.
+You can rerun it with:
+
+```bash
+bash rse/verify-codex-install.sh smart
 ```
 
-You do not need to know the names of all installed agents. Specialist discovery is part of the Orchestrator's job.
+Successful SMART verification ends with:
+
+```text
+[PASS] All expected agents are installed, including RSE Orchestrator.
+```
 
 ## Repository-specific instructions remain authoritative
 
-Do not replace a project's own `AGENTS.md` with this agency configuration.
+A project's own `AGENTS.md` and linked product specifications remain higher-priority constraints. Do not replace them with RSE guidance.
 
-Repository instructions and linked product specifications remain higher-priority project constraints. This is especially important for products involving children, families, seniors, authentication, uploads, payments, or private user data.
+This is especially important for products involving children, families, seniors, authentication, uploads, payments or private user data.
 
 ## Keeping the fork current
 
 Keep RSE custom files isolated under `rse/` plus `specialized/rse-orchestrator.md` so upstream updates remain easy to merge.
 
-Add the original repository as an upstream remote once:
-
-```bash
-git remote add upstream https://github.com/msitarzewski/agency-agents.git
-```
-
-Refresh later with:
-
-```bash
-git fetch upstream
-git checkout main
-git merge upstream/main
-```
-
-After an upstream refresh, rerun:
+After updating the fork, rerun:
 
 ```bash
 bash rse/install-codex.sh smart
 ```
 
-That regenerates the Codex definitions and agent catalog from the new source roster, then verifies the installation.
+That regenerates custom-agent definitions, refreshes routing metadata and verifies the installed roster.
