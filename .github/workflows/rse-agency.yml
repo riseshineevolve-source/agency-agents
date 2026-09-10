@@ -30,6 +30,16 @@ jobs:
           bash -n rse/generate-agent-catalog.sh
           bash -n rse/verify-codex-install.sh
 
+      - name: Validate efficient routing policy
+        run: |
+          test -f rse/EFFICIENCY_POLICY.md
+          grep -q 'Default mode: SMART EFFICIENT' rse/EFFICIENCY_POLICY.md
+          grep -q 'Class S' rse/EFFICIENCY_POLICY.md
+          grep -q 'Reality Checker is a milestone/final gate' rse/EFFICIENCY_POLICY.md
+          grep -q 'Default operating mode: SMART EFFICIENT' specialized/rse-orchestrator.md
+          grep -q 'Do not make every agent reread the entire repository' specialized/rse-orchestrator.md
+          grep -q 'Reality Checker.*milestone/final gate' specialized/rse-orchestrator.md
+
       - name: Install full SMART Agency into isolated Codex directory
         env:
           CODEX_AGENTS_DIR: ${{ runner.temp }}/codex/agents
@@ -43,5 +53,7 @@ jobs:
           test -f "$(dirname "$CODEX_AGENTS_DIR")/rse/AGENT_CATALOG.md"
           test -f "$(dirname "$CODEX_AGENTS_DIR")/rse/CORE_ROSTER.txt"
           test -f "$(dirname "$CODEX_AGENTS_DIR")/rse/WORKFLOWS.md"
+          test -f "$(dirname "$CODEX_AGENTS_DIR")/rse/EFFICIENCY_POLICY.md"
           grep -q 'RSE Orchestrator' "$(dirname "$CODEX_AGENTS_DIR")/rse/AGENT_CATALOG.md"
+          grep -q 'SMART EFFICIENT' "$(dirname "$CODEX_AGENTS_DIR")/rse/EFFICIENCY_POLICY.md"
           bash rse/verify-codex-install.sh smart
