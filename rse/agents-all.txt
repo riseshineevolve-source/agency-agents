@@ -1,0 +1,31 @@
+# RSE AI Agency - CORE + SPECIALISTS
+# Install with:
+# ./scripts/install.sh --tool codex --agents-file rse/agents-all.txt
+
+RSE Orchestrator
+Studio Producer
+Product Manager
+Research Synthesist
+UX Architect
+UI Designer
+UI Finish-Gate Reviewer
+Software Architect
+Frontend Developer
+Mobile App Builder
+Backend Architect
+Code Reviewer
+Test Automation Engineer
+Reality Checker
+Accessibility Auditor
+AI-Generated Code Security Auditor
+Secrets & Credential Hygiene Engineer
+Minimal Change Engineer
+Mobile Release Engineer
+Internationalization Engineer
+Trend Researcher
+App Store Optimizer
+SEO Specialist
+Data Privacy Officer
+Image Prompt Engineer
+Psychologist
+Book Co-Author

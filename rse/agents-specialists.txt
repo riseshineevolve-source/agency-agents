@@ -1,0 +1,14 @@
+# RSE AI Agency SPECIALISTS
+# Optional agents for specific workflows.
+
+Secrets & Credential Hygiene Engineer
+Minimal Change Engineer
+Mobile Release Engineer
+Internationalization Engineer
+Trend Researcher
+App Store Optimizer
+SEO Specialist
+Data Privacy Officer
+Image Prompt Engineer
+Psychologist
+Book Co-Author
