@@ -42,10 +42,17 @@ To install the full RSE roster instead:
 ./scripts/install.sh --tool codex --agents-file rse/agents-all.txt
 ```
 
+Or use the RSE wrapper:
+
+```bash
+bash rse/install-codex.sh core
+bash rse/install-codex.sh all
+```
+
 To preview without changing anything:
 
 ```bash
-./scripts/install.sh --tool codex --agents-file rse/agents-core.txt --dry-run
+bash rse/install-codex.sh core --dry-run
 ```
 
 ## Verify in Codex
@@ -97,7 +104,7 @@ This prevents a generic specialist profile from overriding project-specific deci
 
 ### KDP / educational product
 
-`Product Trend Researcher or Research Synthesist -> Product Manager -> relevant educational specialist -> Book Co-Author -> Image Prompt Engineer when visual -> Reality Checker`
+`Trend Researcher or Research Synthesist -> Product Manager -> relevant educational specialist -> Book Co-Author -> Image Prompt Engineer when visual -> Reality Checker`
 
 ## Keeping the fork current
 
