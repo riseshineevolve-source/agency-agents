@@ -1,0 +1,34 @@
+{
+  "mode": "structured_integration",
+  "job": {
+    "job_title": "",
+    "company": "",
+    "job_description": "",
+    "job_url": "",
+    "company_url": ""
+  },
+  "cv": {
+    "current_cv_text": "",
+    "template_contract": {
+      "locked_sections": [],
+      "variable_sections": [
+        "headline",
+        "career_highlights",
+        "experience_updates"
+      ]
+    }
+  },
+  "evidence_source": {
+    "type": "master_experience",
+    "content_or_reference": ""
+  },
+  "preferences": {
+    "language": "English",
+    "style": "natural, concise, senior, non-generic",
+    "maximise_job_fit": true,
+    "preserve_role_breadth": true,
+    "avoid_repetition": true,
+    "ask_only_material_clarification_questions": true,
+    "never_fabricate": true
+  }
+}
