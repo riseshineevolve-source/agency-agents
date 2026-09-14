@@ -1,0 +1,54 @@
+{
+  "candidate_profile": {
+    "profile_id": "candidate-001",
+    "preferred_language": "en",
+    "tone": "natural, concise, evidence-based business English",
+    "template_contract": {
+      "locked": [
+        "employer_names",
+        "formal_job_titles_in_chronology",
+        "employment_dates",
+        "education",
+        "languages",
+        "contact_details",
+        "visual_layout",
+        "column_structure",
+        "user_fixed_sidebar_content"
+      ],
+      "variable": [
+        "headline",
+        "career_highlights",
+        "experience_bullet_wording",
+        "experience_bullet_order",
+        "experience_subsection_labels"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "evidence_id": "EXP-001",
+      "employer_or_project": "Example Employer",
+      "formal_role": "Formal Job Title",
+      "dates": "YYYY-MM to YYYY-MM",
+      "fact": "Describe one verified responsibility, achievement, project or result.",
+      "scope": "Optional verified scope, such as team size or business unit size.",
+      "metric": null,
+      "systems_tools": [],
+      "stakeholders": [],
+      "tags": [
+        "example competency"
+      ],
+      "source": "candidate-confirmed",
+      "verified": true,
+      "do_not_claim": []
+    }
+  ],
+  "explicit_gaps": [
+    {
+      "term": "Example Skill Not Held",
+      "rule": "Do not claim or imply this skill unless later explicitly verified by the candidate."
+    }
+  ],
+  "approved_phrasing": [],
+  "rejected_phrasing": []
+}
