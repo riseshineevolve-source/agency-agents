@@ -7,6 +7,7 @@ Claude Code should use the same SMART EFFICIENT operating model as the RSE Codex
 - Register only the RSE CORE roster as Claude Code subagents in `~/.claude/agents/`.
 - Keep the full Agency source library available lazily under `~/.claude/rse/library/`.
 - Keep a searchable full catalog at `~/.claude/rse/AGENT_CATALOG.md`.
+- Keep exact slug/name/source-path lookup data at `~/.claude/rse/LIBRARY_INDEX.tsv`.
 - CORE is a preference, not a whitelist.
 - Search the full catalog only when a non-CORE specialist has a clear material advantage.
 - Read only the selected specialist definition, not the whole lazy library.
@@ -25,7 +26,15 @@ Before delegating, the root thread builds a compact project capsule containing:
 
 Pass bounded context to the selected specialist. Do not ask multiple agents to rediscover the same repository history.
 
-When a non-CORE specialist is needed, locate it through `~/.claude/rse/AGENT_CATALOG.md`, read its matching definition from `~/.claude/rse/library/`, and use that persona/instruction body as the specialist brief for a tightly scoped Claude delegation.
+When a non-CORE specialist is needed:
+
+1. search `~/.claude/rse/AGENT_CATALOG.md` narrowly;
+2. resolve the exact source path from `~/.claude/rse/LIBRARY_INDEX.tsv`;
+3. read that single definition from `~/.claude/rse/library/`;
+4. use its persona/instruction body as the specialist brief for a tightly scoped Claude delegation;
+5. return only the specialist findings needed by the parent task.
+
+Claude Code supports nested subagent delegation. Use it only when the selected specialist itself has a genuinely separable subtask; do not create delegation chains for ordinary work.
 
 ## Agent budget
 
