@@ -1,0 +1,55 @@
+version: 1
+recovered: 2026-09-17
+project_id: level_up_your_brain_interactive
+canonical_product_family: Level Up Your Brain
+status: existing_interactive_derivative_identified
+language: en
+rights_owner: Rise.Shine.Evolve.
+
+repository:
+  repo: riseshineevolve-source/spark-joy-fam
+  current_portfolio_wave: 2
+  origin: lovable_migration
+  current_budget_allowed: false
+
+relationship:
+  source_books:
+    - level_up_your_brain_world_01
+    - level_up_your_brain_world_02
+  derivative_type: interactive_story_and_family_mission_app
+  source_of_truth_rule: published_book_masters_override_app_copy_when_conflicts_exist
+  app_is_not_book_master: true
+
+verified_evidence:
+  content_file: src/data/storyContent.ts
+  declaration: 'Full story content, neuro-coaching console, secret codes, and family missions extracted from The Happy Makers World 01 & World 02 books.'
+  verified_world_01_examples:
+    - 'missionId 1: The After-School Crash'
+    - 'missionId 2: The Ice Cream Tragedy'
+  verified_world_02_examples:
+    - 'missionId 14: The Teflon Shield'
+    - 'missionId 15: The Spaceship Mutiny'
+  data_model:
+    - StoryDialogue
+    - NeuroConsole
+    - Quest
+    - SecretCode
+    - StoryContent
+
+reuse:
+  future_android_product_candidate: true
+  polish_localization_candidate: true
+  shared_content_graph_candidate: true
+  preserve_existing_code_and_assets: true
+
+locks:
+  - do not reclassify the repository as an unrelated generic Lovable prototype
+  - do not rewrite book-derived content before comparing it to the recovered published World 01 and World 02 masters
+  - do not activate Wave 2 engineering budget without owner promotion
+  - future localization should consume structured canonical book content, not silently translate divergent app copy
+
+next_when_promoted:
+  - perform short custody/reproducibility check only
+  - diff interactive story content against canonical World 01 and World 02 sources
+  - separate reusable interaction engine from book-derived content data
+  - define Android/release scope only after owner promotion
