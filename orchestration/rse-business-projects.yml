@@ -1,0 +1,141 @@
+version: 4
+updated: 2026-09-17
+policy:
+  routing: core_first_specialists_on_demand
+  default_max_active_roles: 4
+  source_master_language: en
+  localization_target: pl-PL
+  user_intervention: meaningful_gates_only
+  chat_is_source_of_truth: false
+  technical_state_must_be_reconstructible_without_chat_history: true
+  resume_protocol: orchestration/RESUME_FROM_ZERO.md
+  technical_orchestrator_contract: orchestration/RSE_TECHNICAL_ORCHESTRATOR.md
+  wave_2_may_consume_current_budget: false
+  gifts_may_consume_current_budget: false
+wave_1:
+  - rse_core
+  - polish_engine
+  - detective_academy
+  - happy_me
+  - optical_animals
+  - senior_app
+  - mind_bloom
+  - opinie
+projects:
+  rse_core:
+    name: RSE Core Platform / Website / Business
+    type: platform
+    status: active
+    priority_wave: 1
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    execution_mode: central
+    next_gate: approved_english_strategy_changes
+  polish_engine:
+    name: Polish Localization Engine
+    type: infrastructure
+    status: active_calibration
+    priority_wave: 1
+    repo: riseshineevolve-source/agency-agents
+    branch: rse/polish-localization-engine-v1
+    pr: 6
+    execution_mode: central
+    next_gate: published_book_golden_corpus_regression
+  detective_academy:
+    name: Happy Makers Detective Academy
+    type: book
+    status: active_production
+    priority_wave: 1
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    branch: feature/detective-book-factory
+    pr: 571
+    execution_mode: central_with_specialists
+    next_gate: spatial_map_visual_standard_approval
+    mass_conversion_allowed: false
+  happy_me:
+    name: Happy Me Adventures
+    type: app
+    status: active_rebuild
+    priority_wave: 1
+    repo: riseshineevolve-source/riseshineevolve
+    branch: mobile/mobile-first-rebuild
+    local_root: 'C:\Users\danie\GitHub\happy-me-app'
+    execution_mode: central_with_specialists
+    next_gate: branch_custody_and_fresh_verification
+  optical_animals:
+    name: Optical Animals
+    type: book_production_software
+    status: active_curation_and_automation
+    priority_wave: 1
+    target_repo: riseshineevolve-source/optical-animals-book-creator
+    repo_status: pending_creation
+    bootstrap: orchestration/bootstrap/OPTICAL_ANIMALS_REPO_BOOTSTRAP.md
+    local_root: 'C:\Users\danie\GitHub\optical-animals-book-creator'
+    local_branch: feat/optical-animals-book-creator
+    execution_mode: github_backed_with_asset_curation
+    next_gate: repository_bootstrap_then_final_20_visual_roster_lock
+    final_visual_selection_owner_gated: true
+  senior_app:
+    name: Senior / Hello Today
+    type: app
+    status: active_separate_execution
+    priority_wave: 1
+    execution_mode: dedicated_chat
+    central_sync: milestones_blockers_shared_dependencies
+  mind_bloom:
+    name: Mind Bloom Assistant
+    type: app
+    status: active_separate_execution
+    priority_wave: 1
+    repo: riseshineevolve-source/mind-bloom-assistant
+    execution_mode: dedicated_chat
+    role_boundary: personal_business_chief_of_staff_not_code_source_of_truth
+    central_sync: milestones_blockers_shared_dependencies
+  opinie:
+    name: Opinie Offline Workbench
+    type: offline_first_expert_software
+    status: active_preparation
+    priority_wave: 1
+    target_repo: riseshineevolve-source/opinie-offline-workbench
+    repo_status: pending_creation
+    bootstrap: orchestration/bootstrap/OPINIE_REPO_BOOTSTRAP.md
+    current_local_root: 'C:\Users\danie\AI_LOCAL\opinie'
+    development_mode: github_online_with_synthetic_fixtures
+    production_runtime: local_offline
+    remote_real_case_data_allowed: false
+    next_gate: repository_bootstrap_and_synthetic_end_to_end_pipeline
+wave_2_lovable_apps:
+  happy_makers_quest:
+    repo: riseshineevolve-source/happy-makers-quest
+    status: deferred_second_wave
+    origin: lovable_migration
+  family_mission_control:
+    repo: riseshineevolve-source/family-mission-control
+    status: deferred_second_wave
+    origin: lovable_migration
+  unstoppable_me:
+    repo: riseshineevolve-source/unstoppable-me
+    status: deferred_second_wave
+    origin: lovable_migration
+  night_command:
+    repo: riseshineevolve-source/night-command
+    status: deferred_second_wave
+    origin: lovable_migration
+  family_hearth_stories:
+    repo: riseshineevolve-source/family-hearth-stories
+    status: deferred_second_wave
+    origin: lovable_migration
+  spark_joy_fam:
+    repo: riseshineevolve-source/spark-joy-fam
+    status: deferred_second_wave
+    origin: lovable_migration
+gifts_later:
+  - riseshineevolve-source/word-search-puzzle
+  - riseshineevolve-source/Happy-Makers-Calm-Wheel
+  - riseshineevolve-source/1-minute-challange
+unclassified_hold:
+  - riseshineevolve-source/neon-wonder-world
+outside_business_queue:
+  - Kuratoryjny_MKJA
+  - CV_Tailor
+  - Job_Search_Tooling
+  - Family_Finance

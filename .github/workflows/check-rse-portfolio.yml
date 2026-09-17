@@ -1,0 +1,57 @@
+name: RSE portfolio guardrails
+
+on:
+  pull_request:
+    paths:
+      - 'orchestration/**'
+      - '.github/workflows/check-rse-portfolio.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'orchestration/**'
+      - '.github/workflows/check-rse-portfolio.yml'
+
+jobs:
+  validate-portfolio-policy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Required orchestration files
+        run: |
+          test -f orchestration/RSE_BUSINESS_PORTFOLIO.md
+          test -f orchestration/rse-business-projects.yml
+          test -f orchestration/AUTOPILOT_POLICY.md
+          test -f orchestration/projects/optical-animals.md
+          test -f orchestration/projects/opinie-local.md
+
+      - name: Validate autonomy guardrails
+        run: |
+          grep -q '^### AUTO$' orchestration/AUTOPILOT_POLICY.md
+          grep -q '^### AUTO + VERIFY$' orchestration/AUTOPILOT_POLICY.md
+          grep -q '^### OWNER GATE$' orchestration/AUTOPILOT_POLICY.md
+          grep -q 'Default maximum active roles per milestone: 4' orchestration/AUTOPILOT_POLICY.md
+          grep -q 'Do not burn usage on endless retry loops' orchestration/AUTOPILOT_POLICY.md
+
+      - name: Protect deferred work from Wave 1 budget
+        run: |
+          grep -q 'wave_2_may_consume_current_budget: false' orchestration/rse-business-projects.yml
+          grep -q 'gifts_may_consume_current_budget: false' orchestration/rse-business-projects.yml
+          grep -q 'status: deferred_second_wave' orchestration/rse-business-projects.yml
+
+      - name: Protect Opinie confidentiality boundary
+        run: |
+          grep -q 'remote_real_case_data_allowed: false' orchestration/rse-business-projects.yml
+          grep -q 'No confidential source data online' orchestration/projects/opinie-local.md
+
+      - name: Protect Optical Animals owner gate
+        run: |
+          grep -q 'final_visual_selection_owner_gated: true' orchestration/rse-business-projects.yml
+          grep -q 'No mass regeneration' orchestration/projects/optical-animals.md
+
+      - name: Validate Wave 1 projects are registered
+        run: |
+          for project in rse_core polish_engine detective_academy happy_me optical_animals senior_app mind_bloom opinie; do
+            grep -q "  - ${project}" orchestration/rse-business-projects.yml
+          done

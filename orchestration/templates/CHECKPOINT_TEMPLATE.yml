@@ -1,0 +1,33 @@
+version: 1
+project: project_slug
+updated: YYYY-MM-DDTHH:MM:SSZ
+state: ON_TRACK
+milestone: milestone_slug
+source:
+  repo: owner/repo
+  branch: main
+  head_sha: null
+  pr: null
+verification:
+  build: UNKNOWN
+  tests: UNKNOWN
+  lint: UNKNOWN
+  preflight: UNKNOWN
+last_completed:
+  - item: null
+    evidence: null
+blockers: []
+owner_gate:
+  required: false
+  question: null
+  options: []
+next_autonomous_task:
+  id: null
+  mode: AUTO_VERIFY
+  description: null
+protected:
+  - locked_scope
+budget:
+  codex_priority: normal
+  avoid_duplicate_context: true
+  max_active_roles: 4
