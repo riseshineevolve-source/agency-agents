@@ -1,4 +1,4 @@
-version: 4
+version: 5
 updated: 2026-09-17
 policy:
   routing: core_first_specialists_on_demand
@@ -8,6 +8,8 @@ policy:
   user_intervention: meaningful_gates_only
   chat_is_source_of_truth: false
   technical_state_must_be_reconstructible_without_chat_history: true
+  recovery_index: orchestration/RSE_RECOVERY_INDEX.md
+  recovered_artifact_registry: orchestration/rse-recovered-artifacts.yml
   resume_protocol: orchestration/RESUME_FROM_ZERO.md
   technical_orchestrator_contract: orchestration/RSE_TECHNICAL_ORCHESTRATOR.md
   wave_2_may_consume_current_budget: false
@@ -29,7 +31,7 @@ projects:
     priority_wave: 1
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     execution_mode: central
-    next_gate: approved_english_strategy_changes
+    next_gate: ai_discovery_recrawl_and_index_inspection_issue_584
   polish_engine:
     name: Polish Localization Engine
     type: infrastructure
@@ -39,7 +41,8 @@ projects:
     branch: rse/polish-localization-engine-v1
     pr: 6
     execution_mode: central
-    next_gate: published_book_golden_corpus_regression
+    calibration_round_2: pass
+    next_gate: expand_golden_regression_without_full_book_scaleup
   detective_academy:
     name: Happy Makers Detective Academy
     type: book
@@ -49,36 +52,49 @@ projects:
     branch: feature/detective-book-factory
     pr: 571
     execution_mode: central_with_specialists
+    native_checkpoint_candidates: 20
+    locked_production_spatial_modules: 15
+    source_manifest: tools/detective-book-factory/content/spatial_source_manifest_final.yml
     next_gate: spatial_map_visual_standard_approval
     mass_conversion_allowed: false
   happy_me:
     name: Happy Me Adventures
     type: app
-    status: active_rebuild
+    status: active_release_hardening
     priority_wave: 1
     repo: riseshineevolve-source/riseshineevolve
     branch: mobile/mobile-first-rebuild
     local_root: 'C:\Users\danie\GitHub\happy-me-app'
+    release_matrix: MOBILE_RELEASE_READINESS_MATRIX.md
     execution_mode: central_with_specialists
-    next_gate: branch_custody_and_fresh_verification
+    custody_audit_complete: true
+    shared_device_isolation_machine_gate: pass
+    offline_persistence_machine_gate: pass
+    next_gate: destructive_action_failure_path
   optical_animals:
     name: Optical Animals
     type: book_production_software
     status: active_curation_and_automation
     priority_wave: 1
-    target_repo: riseshineevolve-source/optical-animals-book-creator
-    repo_status: pending_creation
-    bootstrap: orchestration/bootstrap/OPTICAL_ANIMALS_REPO_BOOTSTRAP.md
-    local_root: 'C:\Users\danie\GitHub\optical-animals-book-creator'
-    local_branch: feat/optical-animals-book-creator
+    repo: riseshineevolve-source/riseshineevolve
+    branch: feat/optical-animals-book-creator
+    pr: 14
+    tool_area: tools/optical-book-creator
+    local_art_root: 'C:\Users\danie\Desktop\Asia\KDP\coloring\optical animals'
+    final_source_folder: 01_FINAL_20_SOURCE
+    canonical_manifest: tools/optical-book-creator/config/FINAL20_MANIFEST.json
+    approved_visuals: 12
+    unresolved_visuals: 8
     execution_mode: github_backed_with_asset_curation
-    next_gate: repository_bootstrap_then_final_20_visual_roster_lock
+    next_gate: resolve_8_owner_gated_visual_slots_then_final_20_lock
     final_visual_selection_owner_gated: true
   senior_app:
     name: Senior / Hello Today
     type: app
     status: active_separate_execution
     priority_wave: 1
+    repo: riseshineevolve-source/hello-today-android.
+    related_repo: riseshineevolve-source/Happy-Senior
     execution_mode: dedicated_chat
     central_sync: milestones_blockers_shared_dependencies
   mind_bloom:
@@ -134,6 +150,9 @@ gifts_later:
   - riseshineevolve-source/1-minute-challange
 unclassified_hold:
   - riseshineevolve-source/neon-wonder-world
+support_repositories_preserve:
+  - riseshineevolve-source/monochrome-map-master
+  - riseshineevolve-source/robot-voice-maker
 outside_business_queue:
   - Kuratoryjny_MKJA
   - CV_Tailor
