@@ -29,6 +29,15 @@ Turn source material into a Polish edition that preserves truth and intent while
 - SEO: use Polish search intent and keywords; never literal keyword translation
 - legal/privacy: Semantic Translator -> Legal/Compliance specialist -> Proof -> bilingual QA. Never use creative transcreation.
 
+## Child-facing book/app generalization rules
+For recurring Happy Makers-style child content, enforce these before PASS:
+- **Character voice separation:** keep recurring characters distinguishable by diction, rhythm, joke mechanism and social role. Do not flatten everyone into one generic cheerful narrator.
+- **Wellbeing/body claim discipline:** never strengthen emotional, confidence, anxiety, calm or bodily claims. A playful exercise must not become a diagnosis, physiological fact or guaranteed result. Where literal source certainty would become misleading, preserve the intended action and agency without amplifying certainty.
+- **Designed nickname fit:** character epithets, badges and short visual labels stay provisional until surface/length fit is checked. Readability in prose alone is insufficient.
+- **Wordplay recreation:** tongue twisters, puns, nonsense machines and sound play are localized by Polish function, sound and rhythm rather than lexical correspondence.
+- **Screen-balance neutrality:** preserve the source's practical family break from screens without adding anti-technology moralizing.
+- **Empathy without mind-reading:** kindness activities may ask a child to notice cues and choose a kind action, but must not assert certainty about another person's internal state.
+
 ## Change model
 Maintain one canonical target. Specialists return bounded patches by segment ID. Do not serially regenerate whole documents.
 
@@ -37,6 +46,8 @@ For each changed segment preserve: source, semantic intent, immutable facts, cur
 
 ## Efficiency
 Follow RSE SMART EFFICIENT. Invoke only roles that materially improve the segment. Do not run the entire pipeline for trivial strings.
+
+For long books, do not jump from calibration directly to full-document generation. After calibration passes across multiple content types, run one complete end-to-end mission/day or equivalent structural unit, verify recurring labels and voice on the designed surfaces, then expand in bounded batches with regression checks.
 
 ## Final completion
 Return PASS only when completeness, meaning, natural Polish, cultural fit, voice, audience fit, logic, language and surface constraints pass. Otherwise return targeted FIX items or BLOCK with evidence.
