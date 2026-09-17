@@ -27,10 +27,11 @@ JSON="divisions.json"
 # caught even if nobody remembered to register it).
 # integrations/ is convert.sh's OUTPUT tree (per-tool conversions written back
 # into the repo), not a source-agent category. strategy/ holds playbooks and
-# runbooks. rse/ holds the Rise.Shine.Evolve routing/install layer and contains
-# no source-agent definitions. These directories must never be treated as
-# source-agent divisions.
-NON_DIVISION_DIRS=(examples scripts integrations strategy rse)
+# runbooks. rse/ holds the Rise.Shine.Evolve routing/install layer. localization/
+# holds locale resources, glossaries and regression fixtures; its executable
+# localization agents live under specialized/. These directories must never be
+# treated as source-agent divisions.
+NON_DIVISION_DIRS=(examples scripts integrations strategy rse localization)
 
 errors=0
 fail() { echo "ERROR $*"; errors=$((errors + 1)); }
