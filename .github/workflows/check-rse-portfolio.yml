@@ -42,7 +42,7 @@ jobs:
 
       - name: Protect Opinie confidentiality boundary
         run: |
-          grep -q 'remote_case_data_allowed: false' orchestration/rse-business-projects.yml
+          grep -q 'remote_real_case_data_allowed: false' orchestration/rse-business-projects.yml
           grep -q 'No confidential source data online' orchestration/projects/opinie-local.md
 
       - name: Protect Optical Animals owner gate
