@@ -1,0 +1,51 @@
+version: 1
+purpose: >-
+  Minimal status interface from RSE Technical Orchestrator to Mind Bloom Assistant.
+  Mind Bloom consumes priorities and owner actions without becoming source of truth
+  for repositories, implementation details, or engineering state.
+fields:
+  project:
+    required: true
+    description: Canonical project name.
+  milestone:
+    required: true
+    description: Current meaningful product/technical milestone.
+  state:
+    required: true
+    allowed:
+      - ON_TRACK
+      - OWNER_ACTION
+      - BLOCKED
+      - DONE
+  owner_action:
+    required: false
+    description: One concise decision/action needed from the owner, if any.
+  urgency:
+    required: true
+    allowed:
+      - NOW
+      - THIS_WEEK
+      - LATER
+      - NONE
+  dependency_or_deadline:
+    required: false
+    description: Release dependency or real deadline only.
+  next_move:
+    required: true
+    description: One sentence describing what the Technical Orchestrator will do next.
+  technical_reference:
+    required: false
+    description: PR/issue/checkpoint reference for drill-down; Mind Bloom does not need to ingest its full content.
+forbidden_in_handoff:
+  - raw source code
+  - full repository dumps
+  - verbose CI logs
+  - confidential Opinie case data
+  - real case evidence or personal data
+  - agent transcripts
+  - repeated project history
+rules:
+  - Mind Bloom may help prioritize work after explicit owner direction.
+  - Mind Bloom must not redefine project source of truth.
+  - Mind Bloom must not merge PRs, rewrite implementation scope, or declare technical PASS independently.
+  - Technical Orchestrator owns engineering truth and verification evidence.
