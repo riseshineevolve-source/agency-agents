@@ -1,4 +1,4 @@
-version: 7
+version: 8
 updated: 2026-09-17
 policy:
   routing: core_first_specialists_on_demand
@@ -14,6 +14,7 @@ policy:
   technical_orchestrator_contract: orchestration/RSE_TECHNICAL_ORCHESTRATOR.md
   wave_2_may_consume_current_budget: false
   gifts_may_consume_current_budget: false
+  generated_output_manifest_self_heal: .github/workflows/update-convert-manifest.yml
 wave_1:
   - rse_core
   - polish_engine
@@ -70,7 +71,7 @@ projects:
   happy_me:
     name: Happy Me Adventures
     type: app
-    status: active_release_hardening
+    status: external_and_device_release_gates
     priority_wave: 1
     repo: riseshineevolve-source/riseshineevolve
     branch: mobile/mobile-first-rebuild
@@ -82,10 +83,13 @@ projects:
     offline_persistence_machine_gate: pass
     destructive_action_failure_path_machine_gate: pass
     deep_link_routing_machine_gate: pass
-    deep_link_routing_ci_run: 228
-    privacy_source_inventory_machine_gate: pass_on_web_foundation_run_230
-    privacy_source_inventory_full_run_state: android_job_still_running_at_checkpoint
-    next_gate: finish_current_mobile_quality_run_then_unsigned_release_proof
+    privacy_source_inventory_machine_gate: pass
+    unsigned_release_fail_safe_machine_gate: pass
+    fully_verified_ci_run: 231
+    fully_verified_ci_run_id: 35247886772
+    fully_verified_head: e356262231ec4e9114d93ab341ae8b125c80f7b2
+    source_ci_only_queue_remaining: false
+    next_gate: supabase_play_signing_external_config_then_real_device_internal_track
   optical_animals:
     name: Optical Animals
     type: book_production_software
