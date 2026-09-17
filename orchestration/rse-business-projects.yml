@@ -1,4 +1,4 @@
-version: 5
+version: 6
 updated: 2026-09-17
 policy:
   routing: core_first_specialists_on_demand
@@ -70,7 +70,8 @@ projects:
     custody_audit_complete: true
     shared_device_isolation_machine_gate: pass
     offline_persistence_machine_gate: pass
-    next_gate: destructive_action_failure_path
+    destructive_action_failure_path_machine_gate: pass
+    next_gate: deep_link_routing
   optical_animals:
     name: Optical Animals
     type: book_production_software
@@ -140,14 +141,31 @@ wave_2_lovable_apps:
     repo: riseshineevolve-source/family-hearth-stories
     status: deferred_second_wave
     origin: lovable_migration
+    recovered_role: family_conversation_and_dilemma_app
   spark_joy_fam:
     repo: riseshineevolve-source/spark-joy-fam
     status: deferred_second_wave
     origin: lovable_migration
+    recovered_role: interactive_level_up_your_brain_world_01_and_02_derivative
+    content_source: src/data/storyContent.ts
+    canonical_book_sources:
+      - orchestration/content-sources/level-up-your-brain-world-01.yml
+      - orchestration/content-sources/level-up-your-brain-world-02.yml
+    relationship_manifest: orchestration/content-sources/level-up-your-brain-interactive.yml
+    preserve_for_future_app_rebuild: true
 gifts_later:
-  - riseshineevolve-source/word-search-puzzle
-  - riseshineevolve-source/Happy-Makers-Calm-Wheel
-  - riseshineevolve-source/1-minute-challange
+  word_search_puzzle:
+    repo: riseshineevolve-source/word-search-puzzle
+    status: deferred_gift
+    recovered_role: reusable_word_search_engine_and_grandma_bibi_months_learning_base
+    relationship_manifest: orchestration/content-sources/grandma-bibi-word-search-gift.yml
+    owner_reported_current_quality: needs_redesign_before_release
+  calm_wheel:
+    repo: riseshineevolve-source/Happy-Makers-Calm-Wheel
+    status: deferred_gift
+  one_minute_challenge:
+    repo: riseshineevolve-source/1-minute-challange
+    status: deferred_gift
 unclassified_hold:
   - riseshineevolve-source/neon-wonder-world
 support_repositories_preserve:

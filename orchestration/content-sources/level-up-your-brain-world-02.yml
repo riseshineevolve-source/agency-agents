@@ -1,0 +1,73 @@
+version: 1
+recovered: 2026-09-17
+project_id: level_up_your_brain_world_02
+canonical_product_family: Level Up Your Brain - World 02
+status: published_master_recovered
+language: en
+rights_owner: Rise.Shine.Evolve.
+
+publication:
+  paperback_isbn: '9798249971823'
+  year: 2026
+  interior_pages: 104
+
+sources:
+  - original_filename: 'paperback 10 STORIES WORLD 02 FINAL standard(1).pdf'
+    role: published_print_interior_master
+    storage: private_master_binary
+    sha256: e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76
+    bytes: 66576954
+    pages: 104
+    dimensions_points: '440.88 x 666'
+    translation_authority: visual_layout_master
+  - original_filename: 'ebook 10 STORIES WORLD 02 FINAL standard(1).pdf'
+    role: ebook_pdf_master
+    storage: private_master_binary
+    sha256: 24c93e3f041571cf106783e3a1700b5208e16bb4828baa413593816aa14edf34
+    bytes: 66575501
+    pages: 104
+    dimensions_points: '440.88 x 666'
+    note: 'Distinct from paperback master; preserve separately.'
+  - original_filename: 'world02_full_text_extracted(1).doc'
+    role: extracted_text_source
+    storage: private_master_binary
+    sha256: 07cdb5db20f4c60e9eb499595084c705b090f881f7c498b34736998d55a17a7b
+    bytes: 283648
+    translation_authority: text_working_source_crosscheck_against_pdf
+  - original_filename: 'COVER PAPERBACK world 02 FUN STories(1).pdf'
+    role: paperback_cover_candidate_or_prior_final
+    storage: private_master_binary
+    sha256: c2927aa25843092f98d6fe919dbf5c45b4d993e3707cb071fde67dd793f6758e
+    bytes: 7507794
+    pages: 1
+  - original_filename: 'COVER WORLD 02 NEW final(1).pdf'
+    role: newer_named_cover_candidate
+    storage: private_master_binary
+    sha256: 4a9e6ed223b491960cd29c096f951f7e51d95e95494717ba802514aa2d22d5ae
+    bytes: 7371235
+    pages: 1
+  - original_filename: 'LEVEL UP YOUR BRAIN COVER WORLD 02(1).jpg'
+    role: front_cover_image
+    storage: private_master_binary
+    bytes: 519410
+    dimensions_pixels: '1320 x 2048'
+
+cover_resolution:
+  status: owner_gate
+  note: 'Two distinct final-named PDF covers were recovered. Do not silently choose one as canonical full-wrap cover until owner/project evidence confirms which was published.'
+
+reuse:
+  polish_localization_engine: true
+  future_app_content_graph: true
+  character_universe_source: true
+  direct_binary_commit_to_public_github: false
+
+next_recovery_if_available:
+  - Kindle Create KCB + resources folder or KPF/EPUB export
+  - editable source if different from extracted text DOC
+  - KDP listing metadata / ASIN
+
+locks:
+  - print and ebook PDFs are separate preserved masters
+  - extracted DOC is a translation working source, not stronger than final page images
+  - cover canonicalization remains owner-gated until strongest publishing evidence is identified
