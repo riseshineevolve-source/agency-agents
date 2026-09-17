@@ -10,6 +10,53 @@ This document is the portfolio control layer for RSE business projects that are 
 
 The central Orchestrator coordinates projects. Large execution projects may keep their own specialist chat/workstream, but their status, dependencies and gates are reconciled here.
 
+## Priority model
+
+### WAVE 1 — NOW
+
+Primary execution attention goes to the projects explicitly selected by the owner and linked from their current ChatGPT project conversations:
+
+- RSE Core Platform / Website / Business / AI Discovery
+- Polish Localization Engine
+- Happy Makers Detective Academy
+- Happy Me Adventures
+- Optical Animals
+- Opinie
+- Senior / Hello Today — dedicated execution chat, centrally supervised
+- Mind Bloom Assistant — dedicated execution chat, centrally supervised
+
+These are the projects that may consume current orchestration and specialist-agent capacity.
+
+### WAVE 2 — LOVABLE MIGRATIONS
+
+These are real RSE applications previously built in Lovable and migrated into GitHub. They are part of the commercial product portfolio, but they are intentionally **second wave** and should not consume current build capacity until Wave 1 is stabilized:
+
+- `happy-makers-quest`
+- `family-mission-control`
+- `unstoppable-me`
+- `night-command`
+- `family-hearth-stories`
+- `spark-joy-fam`
+
+Do not treat them as abandoned prototypes. Preserve them as future active apps, but do not audit, redesign, modernize, migrate or agentize them yet unless the owner explicitly promotes a project into Wave 1.
+
+### LATER — RSE GIFTS
+
+Small tools/games published or intended as GIFTS on the main RSE site are legitimate RSE products but are deliberately deferred. They may be improved later, after the key book/app portfolio is under control.
+
+Known examples:
+- `word-search-puzzle`
+- `Happy-Makers-Calm-Wheel`
+- `1-minute-challange`
+
+No current agent budget should be spent on Gifts unless a critical production defect appears or the owner explicitly re-prioritizes them.
+
+### UNCLASSIFIED / HOLD
+
+- `neon-wonder-world`
+
+Keep discoverable in inventory, but do not assign execution resources until its current commercial role is confirmed.
+
 ## Portfolio rules
 
 1. Use the project's `PROJECT_BRIEF.md` as the first source of project context whenever it exists.
@@ -22,8 +69,9 @@ The central Orchestrator coordinates projects. Large execution projects may keep
 8. Do not ask the owner to perform repetitive copy/paste or approval clicks when the connected toolchain can safely do the work.
 9. GitHub/repository checkpoints are preferred over chat-only state.
 10. Confidential local-only data must never be copied into GitHub or remote agent contexts.
+11. Wave 2 and Gifts must not silently consume execution resources while Wave 1 remains active.
 
-## ACTIVE portfolio
+## WAVE 1 ACTIVE PORTFOLIO
 
 ### 1. RSE Core Platform / Website / Business
 
@@ -149,9 +197,9 @@ Agentization target:
 - final human expert review queue.
 First operational gate remains local validation of the privacy/path separation and then a minimal end-to-end case pipeline. Remote orchestration may track only non-confidential status metadata.
 
-## INVENTORY / HOLD
+## WAVE 2 — LOVABLE APPLICATIONS
 
-These are real repositories/products found in the RSE ecosystem but are not automatically reactivated by the portfolio Orchestrator. They require explicit portfolio confirmation or a current `PROJECT_BRIEF.md` before consuming development budget:
+The following six projects are established RSE applications migrated from Lovable to GitHub. Their current status is **second-wave product backlog**, not generic HOLD and not abandoned:
 
 - `happy-makers-quest`
 - `family-mission-control`
@@ -159,12 +207,16 @@ These are real repositories/products found in the RSE ecosystem but are not auto
 - `night-command`
 - `family-hearth-stories`
 - `spark-joy-fam`
-- `neon-wonder-world`
+
+When Wave 2 begins, each project should first receive a short custody audit and `PROJECT_BRIEF.md`, then an agentization plan. Do not run six parallel migrations at once. Promote them one at a time based on business priority and release readiness.
+
+## LATER — GIFTS
+
 - `word-search-puzzle`
 - `Happy-Makers-Calm-Wheel`
 - `1-minute-challange`
 
-The small RSE GIFTS tools historically include experiences such as 1-Minute Challenge, Calm/Energy Wheel and word-search/word-hunt tools. They may remain useful site products, but they are not priorities unless promoted out of HOLD.
+These are deliberately deferred. Improvements are allowed later, but not during the current first-wave push.
 
 ## OUTSIDE CURRENT BUSINESS BUILD QUEUE
 
@@ -209,6 +261,8 @@ Senior and Mind Bloom continue in dedicated execution chats with portfolio-level
 
 Parallel lane E — confidential local system:
 Opinie privacy validation -> minimal local end-to-end workflow -> local agent loop -> human expert review.
+
+Wave 2 begins only after the first-wave execution load is under control. Gifts remain deferred after Wave 2 unless reprioritized.
 
 ## Definition of portfolio health
 
