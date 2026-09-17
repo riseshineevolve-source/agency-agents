@@ -43,7 +43,8 @@ jobs:
       - name: Protect Opinie confidentiality boundary
         run: |
           grep -q 'remote_real_case_data_allowed: false' orchestration/rse-business-projects.yml
-          grep -q 'No confidential source data online' orchestration/projects/opinie-local.md
+          grep -q 'No real confidential data in GitHub or remote agent prompts' orchestration/projects/opinie-local.md
+          grep -q 'Production use is local/offline' orchestration/projects/opinie-local.md
 
       - name: Protect Optical Animals owner gate
         run: |
