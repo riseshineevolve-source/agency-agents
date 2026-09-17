@@ -1,4 +1,4 @@
-version: 2
+version: 3
 updated: 2026-09-17
 policy:
   routing: core_first_specialists_on_demand
@@ -9,6 +9,7 @@ policy:
   chat_is_source_of_truth: false
   wave_2_may_consume_current_budget: false
   gifts_may_consume_current_budget: false
+  technical_state_must_be_reconstructible_without_chat_history: true
 wave_1:
   - rse_core
   - polish_engine
@@ -60,13 +61,15 @@ projects:
     next_gate: branch_custody_and_fresh_verification
   optical_animals:
     name: Optical Animals
-    type: book
-    status: active_curation
+    type: book_production_software
+    status: active_curation_and_automation
     priority_wave: 1
+    target_repo: riseshineevolve-source/optical-animals-book-creator
+    repo_status: pending_creation
     local_root: 'C:\Users\danie\GitHub\optical-animals-book-creator'
-    branch: feat/optical-animals-book-creator
-    execution_mode: local_plus_central_supervision
-    next_gate: final_20_visual_roster_lock
+    local_branch: feat/optical-animals-book-creator
+    execution_mode: github_backed_with_asset_curation
+    next_gate: repository_bootstrap_then_final_20_visual_roster_lock
     final_visual_selection_owner_gated: true
   senior_app:
     name: Senior / Hello Today
@@ -82,16 +85,20 @@ projects:
     priority_wave: 1
     repo: riseshineevolve-source/mind-bloom-assistant
     execution_mode: dedicated_chat
+    role_boundary: personal_business_chief_of_staff_not_code_source_of_truth
     central_sync: milestones_blockers_shared_dependencies
   opinie:
-    name: Opinie
-    type: local_expert_workbench
+    name: Opinie Offline Workbench
+    type: offline_first_expert_software
     status: active_preparation
     priority_wave: 1
-    local_root: 'C:\Users\danie\AI_LOCAL\opinie'
-    execution_mode: local_only_confidential
-    remote_case_data_allowed: false
-    next_gate: local_privacy_boundary_validation
+    target_repo: riseshineevolve-source/opinie-offline-workbench
+    repo_status: pending_creation
+    current_local_root: 'C:\Users\danie\AI_LOCAL\opinie'
+    development_mode: github_online_with_synthetic_fixtures
+    production_runtime: local_offline
+    remote_real_case_data_allowed: false
+    next_gate: repository_bootstrap_and_synthetic_end_to_end_pipeline
 wave_2_lovable_apps:
   happy_makers_quest:
     repo: riseshineevolve-source/happy-makers-quest
