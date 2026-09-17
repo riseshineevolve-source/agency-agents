@@ -1,4 +1,4 @@
-version: 1
+version: 2
 recovered: 2026-09-17
 project_id: confident_mindful_happy_me_adventure
 canonical_product_family: The Confident Mindful & Happy Me Adventure
@@ -45,6 +45,19 @@ sources:
     bytes: 822
     self_contained: false
     note: 'KCB references a sibling resources folder; descriptor alone is not a complete editable ebook project.'
+  - original_filename: 'ebook the confident ostateczny druk rgb OSTATECZNY(1).kpf'
+    role: kindle_create_packaged_project
+    storage: private_master_binary
+    sha256: 899757dfe2de77bc95739ad5b22420d0c75959e6f80c21f8efa8c0d506dfd206
+    bytes: 238805225
+    self_contained_archive: true
+    verified_archive_members:
+      - book.kcb
+      - resources/book.kdf
+      - resources/book.kdf-journal
+      - resources/ManifestFile
+      - resources/res/rsrc8
+    note: 'Recovered KPF is a substantial packaged archive containing the Kindle Create project and resources, so the previously missing Kindle resources dependency is now covered by a durable master binary.'
 
 reuse:
   polish_localization_engine: true
@@ -55,4 +68,4 @@ reuse:
 locks:
   - published English interior is immutable calibration evidence
   - extracted DOCX may support translation but must be reconciled against the published PDF
-  - do not treat the KCB descriptor as a complete ebook package without its resources folder
+  - keep the full KPF as the preferred recoverable Kindle package; do not rely on the tiny KCB descriptor alone
