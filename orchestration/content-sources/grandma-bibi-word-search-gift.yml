@@ -1,0 +1,66 @@
+version: 1
+recovered: 2026-09-17
+project_id: grandma_bibi_months_word_search_gift
+canonical_product_family: Grandma Bibi
+status: prototype_relationship_recovered_needs_future_rebuild
+language: en
+rights_owner: Rise.Shine.Evolve.
+
+portfolio:
+  class: gift
+  current_budget_allowed: false
+  rebuild_quality: low_current_level_owner_reported
+  next_wave: later_unless_owner_promotes
+
+repository_relationship:
+  reusable_engine_repo: riseshineevolve-source/word-search-puzzle
+  relationship: 'Grandma Bibi was conceived as a themed educational Gift using the word-search capability, with month-name learning as a core use case.'
+  exact_grandma_bibi_branded_source_repo: not_yet_verified
+  do_not_conflate_engine_with_final_branded_experience: true
+
+verified_engine_capabilities:
+  source_file: index.html
+  predefined_word_sets:
+    - 'Months of a year: january through december'
+    - 'Days of a Week'
+    - 'Numbers spelling 0-10'
+    - 'Numbers spelling 11-19'
+    - 'Numbers spelling 20,30,40,50,60,70,80,90,100'
+    - 'Custom words, 5-12 words'
+  shapes:
+    - square
+    - circle
+    - hexagon
+    - diamond
+    - heart
+  difficulty_levels:
+    - easy
+    - medium
+    - hard
+  other_features:
+    - interactive word finding
+    - progressive hint
+    - victory animation
+    - printable/PDF puzzle
+    - printable/PDF answers
+
+product_intent:
+  primary_learning_goal: learn_and_reinforce_month_names
+  supporting_mode: word_search_play
+  character_layer: Grandma_Bibi
+  source_engine_should_be_reused_not_discarded: true
+  visual_and_learning_path_should_be_redesigned_before_release: true
+
+locks:
+  - Grandma Bibi is not currently treated as a missing published book master
+  - preserve existing word-search generator logic as reusable prototype evidence
+  - do not publish the current low-level prototype as the final Grandma Bibi product
+  - do not activate Gifts engineering budget without owner promotion
+  - any future rebuild should preserve month-name learning plus multiple difficulty/shape options unless owner changes scope
+
+future_rebuild_outline:
+  - locate any surviving Grandma Bibi-specific art/copy/prototype assets before redesign
+  - define age band and learning progression for month names
+  - wrap the generic generator in a coherent Grandma Bibi narrative/reward loop
+  - retain accessible easy/medium/hard modes and useful shape variety
+  - add deterministic content/tests before release
