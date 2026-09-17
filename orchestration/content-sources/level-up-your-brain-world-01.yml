@@ -1,0 +1,51 @@
+version: 1
+recovered: 2026-09-17
+project_id: level_up_your_brain_world_01
+canonical_product_family: Level Up Your Brain - World 01
+status: published_master_recovered
+language: en
+rights_owner: Rise.Shine.Evolve.
+
+publication:
+  paperback_isbn: '9798247194682'
+  year: 2026
+  interior_pages: 108
+
+sources:
+  - original_filename: 'paperback 10 STORIES WORLD 01 FINAL splaszczony(1).pdf'
+    role: published_print_interior_master
+    storage: private_master_binary
+    sha256: 25d249a8a36f41e0f25177a87fe3fb75357c6b5605089a9eae561dfa2780dca3
+    bytes: 134774279
+    pages: 108
+    dimensions_points: '440.88 x 666'
+    translation_authority: visual_layout_master
+    note: 'Flattened/image-heavy PDF; text extraction is weak, so future localization should use a clean text source when recovered and cross-check against page images.'
+  - original_filename: 'cover ebook(1).jpg'
+    role: ebook_front_cover
+    storage: private_master_binary
+    bytes: 363415
+    dimensions_pixels: '1280 x 2048'
+  - original_filename: 'ebook 10 STORIES WORLD 01 FINAL_KC.kcb'
+    role: kindle_create_project_descriptor
+    storage: private_master_binary
+    sha256: f7f66af732d18cbf6204d9ab7250cde60a317e9a7f9f56f2febd020e817c0d42
+    bytes: 821
+    self_contained: false
+    note: 'KCB references a sibling resources folder; descriptor alone is not a complete editable ebook project.'
+
+reuse:
+  polish_localization_engine: true
+  future_app_content_graph: true
+  character_universe_source: true
+  direct_binary_commit_to_public_github: false
+
+next_recovery_if_available:
+  - clean extracted full text or editable manuscript/source
+  - Kindle Create resources folder or KPF/EPUB export
+  - paperback full-wrap cover master if distinct from available front cover
+
+locks:
+  - preserve the published print master byte-for-byte
+  - do not OCR/normalize the master as a replacement source; derived text must retain provenance
+  - do not treat the KCB descriptor as a complete ebook package without its resources folder
