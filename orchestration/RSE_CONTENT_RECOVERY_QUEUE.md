@@ -13,20 +13,20 @@ Recovered current source set:
 - `Paperback_final_fixed_extracted_text.docx` - clean extracted-text working source for localization, always cross-checked against the PDF.
 - `Paperback cover final.pdf` - paperback cover master.
 - `the  confident HARDCOVER BOOK COVER(1).pdf` - hardcover cover master.
-- `ebook the confident ostateczny druk rgb_KC OSTATECZNY.kcb` - Kindle Create project descriptor.
+- `ebook the confident ostateczny druk rgb_KC OSTATECZNY.kcb` - small Kindle Create project descriptor.
+- `ebook the confident ostateczny druk rgb OSTATECZNY(1).kpf` - recovered full Kindle package, about 239 MB, containing `book.kcb` plus the Kindle Create `resources` payload.
 
-Important: the KCB file is only a small project descriptor that points to a sibling `resources` folder. The KCB alone is not the complete editable ebook project. If the original Kindle Create project folder still exists, the `resources` folder is useful but not urgent because the published PDF and extracted text are already recovered.
+The full KPF now covers the previously missing Kindle resources dependency. Do not spend time hunting the old sibling `resources` directory unless there is a reason to recover a different historical edition.
 
 ### Level Up Your Brain - World 01
 
 Recovered current source set:
-- `paperback 10 STORIES WORLD 01 FINAL splaszczony(1).pdf` - 108-page print master.
+- `Paperback 10 STORIES WORLD 01 FINAL standard.pdf` - 108-page print master with parseable text.
+- earlier flattened 108-page variant preserved as publication evidence.
 - `cover ebook(1).jpg` - ebook/front-cover artwork.
 - `ebook 10 STORIES WORLD 01 FINAL_KC.kcb` - Kindle Create project descriptor.
 
-World 01 remains worth one targeted future recovery if convenient: a clean full-text/editable manuscript source. The flattened print PDF is image-heavy and therefore less efficient as a translation text source.
-
-As with the Confident book, the KCB descriptor is not self-contained. The sibling Kindle Create `resources` folder or a KPF/EPUB export would be useful if it still exists.
+World 01 no longer needs an urgent text recovery because the standard PDF is parseable. A clean editable manuscript or KPF/EPUB remains useful only if it is easy to find.
 
 ### Level Up Your Brain - World 02
 
@@ -47,6 +47,35 @@ If convenient later, useful remaining World 02 material is only:
 - editable source if there is a stronger source than the extracted DOC,
 - KDP listing metadata / ASIN.
 
+### Level Up Your Brain interactive derivative
+
+Repository identified: `riseshineevolve-source/spark-joy-fam`.
+
+This is not an unrelated generic Lovable prototype. Its `src/data/storyContent.ts` explicitly says the full story content, neuro-coaching console, secret codes and family missions were extracted from The Happy Makers World 01 and World 02 books. It already contains structured `StoryContent`, dialogue, Neuro Console, Quest and Secret Code data for an interactive adaptation.
+
+Keep it in Wave 2 for engineering-budget purposes, but preserve its product relationship now. When promoted, compare its content against the recovered published book masters before rebuilding or localizing it.
+
+### Grandma Bibi / word-search Gift
+
+Grandma Bibi is NOT treated as a missing published book master.
+
+Recovered product intent from the owner:
+- Grandma Bibi was a Gift/learning experience intended to teach month names.
+- substantial earlier work existed but is considered low-level and needs a future redesign/rebuild rather than publication as-is.
+- the RSE word-search capability is part of this concept.
+
+Reusable engine identified: `riseshineevolve-source/word-search-puzzle`.
+
+Verified current engine already supports:
+- `Months of a year` with January through December,
+- additional days/numbers/custom word sets,
+- Square, Circle, Hexagon, Diamond and Heart grids,
+- Easy, Medium and Hard difficulty,
+- interactive finding + hints,
+- printable/PDF puzzle and answer versions.
+
+Do not discard this engine. Treat it as reusable prototype infrastructure for a future Grandma Bibi-themed learning experience. The exact Grandma Bibi-branded source/art/copy package is still worth recovering only if it appears naturally while browsing old folders; do not conduct a broad archaeological search now.
+
 ### Detective / Optical / technical workstreams
 
 Already recovered:
@@ -54,7 +83,7 @@ Already recovered:
 - Optical Animals source-manager manifest/scripts plus current Book Creator branch.
 - Senior and Mind Bloom technical handoffs already recovered from Library/GitHub.
 
-## Highest-value missing book masters
+## Highest-value missing book master
 
 ### 24 Gentle Steps to Christmas
 
@@ -69,19 +98,7 @@ Recover if available:
 
 Canonical product name is `24 Gentle Steps to Christmas`; preserve older filenames but do not let generic `Christmas Family Book` override the canonical title.
 
-### Grandma Bibi / Grandma's Bibi Anti-Boredom Club
-
-Priority: HIGH
-
-Recover strongest project/final artifacts first because final canonical title still needs to be anchored to the strongest source.
-
-Useful files:
-- final interior,
-- editable manuscript/source,
-- cover,
-- ebook,
-- KDP listing metadata,
-- character/world bible if one exists.
+Important: the 2026-09-17 upload batch did not contain a file identifiable as the Gentle Steps master. It contained Happy Me / World 01 assets plus the recovered Happy Me KPF. Keep Gentle Steps on the missing-master queue until its actual final file arrives.
 
 ## Medium-priority future app / book assets
 
@@ -89,7 +106,8 @@ Recover only if they exist as clearly final/current versions:
 - Project Unstoppable canonical content/source package beyond the preserved app repository,
 - other published RSE book masters not represented in the current product ledger,
 - final audiobook/script assets if they are intended for future product reuse,
-- authoritative character/universe bibles used across multiple products.
+- authoritative character/universe bibles used across multiple products,
+- Grandma Bibi-specific art/copy/prototype assets if encountered without a broad search.
 
 ## Optical Animals
 
