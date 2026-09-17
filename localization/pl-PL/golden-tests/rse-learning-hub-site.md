@@ -22,10 +22,18 @@ The site combines:
 
 A system that can localize this coherently can then be reused for books and apps.
 
-## Important source-of-truth warning
-Do not begin full Polish localization until the English production source is frozen for the localization pass.
+## Source-of-truth status
+The production website is the localization source of truth for current product messaging. A user-provided current screenshot from 2026-09-17 confirms that the Project Unstoppable page has already been updated to `COMING SOON ON GOOGLE PLAY` / mobile-app positioning and no longer shows Paddle/PWA purchase messaging in the visible production experience.
 
-Current public pages include content that appears to belong to an older product model, including `Project Unstoppable App` language describing a browser-installed PWA, SaaS access, cloud sync, Paddle payment and a 365-day access license. Treat this as `SOURCE_REVIEW_REQUIRED` before translating. Localization must not faithfully polish content that the product team intends to remove or replace.
+External crawlers/search indexes may still return an older cached version containing PWA, SaaS, Paddle, cloud-sync and 365-day license language. Treat those cached copies as stale evidence and never use them to block localization or reintroduce retired product messaging.
+
+For every page where crawler output conflicts with current production evidence, prefer, in order:
+1. current production source/code when accessible;
+2. current user-provided screenshot or browser evidence;
+3. freshly fetched live page content;
+4. cached search/index content only as historical evidence.
+
+Do not begin a page translation from known stale cached copy. Flag only genuine unresolved source conflicts as `SOURCE_REVIEW_REQUIRED`.
 
 ## Required crawl/scope map
 At minimum inspect and segment:
@@ -154,7 +162,7 @@ Use these as calibration examples, not mandatory final wording:
 
 ## Acceptance criteria
 - 100% mapped scope for approved source pages
-- stale/obsolete English source identified before translation
+- stale cached copies excluded from current product truth
 - stable glossary for brand/product/character terms
 - natural Polish, not literal Polish
 - meaning guardian PASS on all published segments
