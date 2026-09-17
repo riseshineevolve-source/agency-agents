@@ -1,4 +1,4 @@
-version: 3
+version: 4
 updated: 2026-09-17
 policy:
   routing: core_first_specialists_on_demand
@@ -7,9 +7,11 @@ policy:
   localization_target: pl-PL
   user_intervention: meaningful_gates_only
   chat_is_source_of_truth: false
+  technical_state_must_be_reconstructible_without_chat_history: true
+  resume_protocol: orchestration/RESUME_FROM_ZERO.md
+  technical_orchestrator_contract: orchestration/RSE_TECHNICAL_ORCHESTRATOR.md
   wave_2_may_consume_current_budget: false
   gifts_may_consume_current_budget: false
-  technical_state_must_be_reconstructible_without_chat_history: true
 wave_1:
   - rse_core
   - polish_engine
@@ -66,6 +68,7 @@ projects:
     priority_wave: 1
     target_repo: riseshineevolve-source/optical-animals-book-creator
     repo_status: pending_creation
+    bootstrap: orchestration/bootstrap/OPTICAL_ANIMALS_REPO_BOOTSTRAP.md
     local_root: 'C:\Users\danie\GitHub\optical-animals-book-creator'
     local_branch: feat/optical-animals-book-creator
     execution_mode: github_backed_with_asset_curation
@@ -94,6 +97,7 @@ projects:
     priority_wave: 1
     target_repo: riseshineevolve-source/opinie-offline-workbench
     repo_status: pending_creation
+    bootstrap: orchestration/bootstrap/OPINIE_REPO_BOOTSTRAP.md
     current_local_root: 'C:\Users\danie\AI_LOCAL\opinie'
     development_mode: github_online_with_synthetic_fixtures
     production_runtime: local_offline
