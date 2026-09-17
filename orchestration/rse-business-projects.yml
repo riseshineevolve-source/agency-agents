@@ -1,4 +1,4 @@
-version: 6
+version: 7
 updated: 2026-09-17
 policy:
   routing: core_first_specialists_on_demand
@@ -27,11 +27,18 @@ projects:
   rse_core:
     name: RSE Core Platform / Website / Business
     type: platform
-    status: active
+    status: active_measurement
     priority_wave: 1
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     execution_mode: central
-    next_gate: ai_discovery_recrawl_and_index_inspection_issue_584
+    ai_discovery_issue: 584
+    c1_guides_gsc_indexed: 4_of_4
+    c1_guides_indexed_verified: 2026-09-17
+    public_search_rerun: reports/ai-discovery/public-search-snapshot-2026-09-17.md
+    app_pages_index_state: crawled_currently_not_indexed
+    cloudflare_crawler_hints_state: unverified_from_current_tool_surface
+    c2_content_authorized: false
+    next_gate: public_search_propagation_and_app_page_indexing_followup
   polish_engine:
     name: Polish Localization Engine
     type: infrastructure
@@ -42,7 +49,10 @@ projects:
     pr: 6
     execution_mode: central
     calibration_round_2: pass
-    next_gate: expand_golden_regression_without_full_book_scaleup
+    calibration_round_3: generalization_candidate_added
+    round_3_file: localization/pl-PL/golden-tests/published-book-calibration-round3.md
+    full_book_scaleup_authorized: false
+    next_gate: round_3_bilingual_naturalness_surface_review_then_single_day_pilot
   detective_academy:
     name: Happy Makers Detective Academy
     type: book
@@ -71,7 +81,11 @@ projects:
     shared_device_isolation_machine_gate: pass
     offline_persistence_machine_gate: pass
     destructive_action_failure_path_machine_gate: pass
-    next_gate: deep_link_routing
+    deep_link_routing_machine_gate: pass
+    deep_link_routing_ci_run: 228
+    privacy_source_inventory_machine_gate: pass_on_web_foundation_run_230
+    privacy_source_inventory_full_run_state: android_job_still_running_at_checkpoint
+    next_gate: finish_current_mobile_quality_run_then_unsigned_release_proof
   optical_animals:
     name: Optical Animals
     type: book_production_software
