@@ -22,6 +22,9 @@ jobs:
           test -f orchestration/RSE_TECHNICAL_ORCHESTRATOR.md
           test -f orchestration/RESUME_FROM_ZERO.md
           test -f orchestration/RSE_BUSINESS_PORTFOLIO.md
+          test -f orchestration/RSE_RECOVERY_INDEX.md
+          test -f orchestration/RSE_PRODUCT_ASSET_RECOVERY.md
+          test -f orchestration/rse-recovered-artifacts.yml
           test -f orchestration/rse-business-projects.yml
           test -f orchestration/templates/PROJECT_BRIEF_TEMPLATE.md
           test -f orchestration/templates/AGENTS_TEMPLATE.md
@@ -33,10 +36,12 @@ jobs:
         run: |
           grep -q 'chat_is_source_of_truth: false' orchestration/rse-business-projects.yml
           grep -q 'technical_state_must_be_reconstructible_without_chat_history: true' orchestration/rse-business-projects.yml
+          grep -q 'recovery_index: orchestration/RSE_RECOVERY_INDEX.md' orchestration/rse-business-projects.yml
           grep -q 'wave_2_may_consume_current_budget: false' orchestration/rse-business-projects.yml
           grep -q 'gifts_may_consume_current_budget: false' orchestration/rse-business-projects.yml
           grep -q 'remote_real_case_data_allowed: false' orchestration/rse-business-projects.yml
-          grep -q 'riseshineevolve-source/optical-animals-book-creator' orchestration/rse-business-projects.yml
+          grep -q 'branch: feat/optical-animals-book-creator' orchestration/rse-business-projects.yml
+          grep -q 'canonical_manifest: tools/optical-book-creator/config/FINAL20_MANIFEST.json' orchestration/rse-business-projects.yml
           grep -q 'riseshineevolve-source/opinie-offline-workbench' orchestration/rse-business-projects.yml
 
       - name: Validate resume protocol
