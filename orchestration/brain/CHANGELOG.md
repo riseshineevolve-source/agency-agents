@@ -61,3 +61,12 @@ Execution ownership updated:
 - `24 Gentle Steps to Christmas` advanced from Round 1 calibration into a full **Days 2–7 Week 1 controlled expansion** using recovered source pages 24–41. Text/source regression checks pass; real-template layout fit remains the next gate.
 - Opinie Offline Workbench no longer waits idle for dedicated-repo creation. A synthetic-only staging seed now exists in `riseshineevolve-source/riseshineevolve`, branch `feat/opinie-offline-workbench-bootstrap`, draft PR #18; synthetic CI run #2 passed. Real case data remains prohibited remotely.
 - Recovery queue ownership language was refreshed so a future session will not send Senior back to a lost dedicated chat.
+
+
+## 2026-09-18 — Opinie provenance/unit hardening + visual gate preparation
+
+- Opinie synthetic pipeline now fails closed on broken provenance links, duplicate source ids, missing/unsupported units and invalid time values.
+- Fresh synthetic CI **run #15 PASS** on head `7935c6fc284e4c40cdc88cbf58a1e3caf0b68700`.
+- Added Opinie `AGENTS.md`, `CHECKPOINT.yml`, privacy-focused `.gitignore` and synthetic fixture boundary tests.
+- Prepared Detective `OWNER_GATE_MAP_FACTORY.md` so the final map decision is limited to the canonical HMDA_02 / HMDA_13 / HMDA_29 pilot system before any 15-case scale-out.
+- Prepared Optical `OWNER_GATE_FINAL20.md` so the 12 approved pages remain locked and only the eight unresolved canonical slots need owner decisions.
