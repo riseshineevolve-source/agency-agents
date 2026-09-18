@@ -1,0 +1,35 @@
+name: Polish Localization Regression
+
+on:
+  pull_request:
+    paths:
+      - "localization/pl-PL/**"
+      - "scripts/validate-polish-localization.py"
+      - ".github/workflows/polish-localization-regression.yml"
+  push:
+    branches:
+      - main
+      - "rse/polish-localization-engine-v1"
+    paths:
+      - "localization/pl-PL/**"
+      - "scripts/validate-polish-localization.py"
+      - ".github/workflows/polish-localization-regression.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate accepted Polish localization fixtures
+        run: python scripts/validate-polish-localization.py
