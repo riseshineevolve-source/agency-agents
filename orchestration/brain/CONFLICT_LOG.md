@@ -29,6 +29,11 @@ Native checkpoint contains 20 candidates.
 Production set is intentionally 15 selected modules.
 Current truth: 15 production + 5 challengers/backups.
 
+### Gentle Steps missing-master state vs later recovered source
+Earlier recovery files correctly recorded `24 Gentle Steps to Christmas` as missing at that time.
+A later owner upload recovered the distinct 104-page paperback interior and hardcover cover.
+Current truth: the missing-master state is SUPERSEDED; ebook/editable/KDP metadata remain optional future recovery.
+
 ## Open / requires future reconciliation
 
 ### Brand positioning phrases
