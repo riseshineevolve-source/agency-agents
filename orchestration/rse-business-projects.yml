@@ -1,4 +1,4 @@
-version: 18
+version: 19
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -239,8 +239,12 @@ projects:
     temporary_staging_branch: feat/opinie-offline-workbench-bootstrap
     temporary_staging_pr: 18
     tool_area: tools/opinie-offline-workbench
-    synthetic_ci_run: 2
+    synthetic_ci_run: 15
+    synthetic_ci_head: 7935c6fc284e4c40cdc88cbf58a1e3caf0b68700
     synthetic_ci_conclusion: success
+    provenance_reference_integrity: pass
+    explicit_unit_fail_closed_calculations: pass
+    privacy_fixture_boundary: pass
     current_local_root: 'C:\Users\danie\AI_LOCAL\opinie'
     development_mode: github_online_with_synthetic_fixtures
     production_runtime: local_offline
