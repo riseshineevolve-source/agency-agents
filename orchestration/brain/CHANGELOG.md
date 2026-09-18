@@ -35,3 +35,20 @@ Central corrections:
 - Chat artifacts are now provenance sources rather than implicit memory.
 
 No product release, pricing, publication, legal, paid-ads, or owner-gated action was authorized by this recovery pass.
+
+## 2026-09-18 — execution proof after Brain rebuild
+
+Concrete deltas after recovery:
+- mapped two inaccessible chat IDs into durable Brain provenance;
+- refreshed Google indexing state for app/Seniors surfaces and checkpointed issue #584;
+- corrected stale Detective launch documentation after verifying the reproducible 30-mission / 141-page master and green build #73;
+- verified Optical FINAL20 contract conflict is already resolved and quality run #4 is green;
+- recovered and registered the 104-page `24 Gentle Steps to Christmas` source, closing a stale missing-master entry;
+- completed direct bilingual/source review of the Christmas calibration and promoted it to one-week controlled expansion;
+- expanded deterministic Polish regression coverage to the second corpus;
+- forced fresh Senior Phase 14H CI on current SHA, repaired real Child Device compile defects in bounded loops, and reached a fresh Firebase Security PASS while Android CI #141 continues.
+
+Execution ownership updated:
+- Mind Bloom remains dedicated-chat implementation.
+- Marketing remains dedicated-chat implementation.
+- Central Orchestrator pushes the remaining portfolio and synchronizes only their cross-project milestones/dependencies.
