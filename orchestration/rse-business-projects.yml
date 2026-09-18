@@ -1,4 +1,4 @@
-version: 14
+version: 15
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -104,6 +104,12 @@ projects:
     native_checkpoint_candidates: 20
     locked_production_spatial_modules: 15
     source_manifest: tools/detective-book-factory/content/spatial_source_manifest_final.yml
+    canonical_master_reproducible: true
+    canonical_master_missions: 30
+    latest_editorial_preview_pages: 141
+    latest_editorial_preflight: pass
+    latest_verified_build_run: 72
+    current_gap: final_spatial_map_assets_15
     next_gate: spatial_map_visual_standard_approval
     mass_conversion_allowed: false
   happy_me:
@@ -144,6 +150,10 @@ projects:
     canonical_manifest: tools/optical-book-creator/config/FINAL20_MANIFEST.json
     approved_visuals: 12
     unresolved_visuals: 8
+    final20_contract_reconciled: true
+    old_roster_conflict_resolved: true
+    latest_quality_run: 4
+    latest_quality_conclusion: success
     execution_mode: github_backed_with_asset_curation
     next_gate: resolve_8_owner_gated_visual_slots_then_final_20_lock
     final_visual_selection_owner_gated: true
