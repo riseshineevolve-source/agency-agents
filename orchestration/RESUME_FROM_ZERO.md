@@ -10,8 +10,9 @@ Read, in order:
 1. `orchestration/rse-business-projects.yml`
 2. `orchestration/RSE_BUSINESS_PORTFOLIO.md`
 3. `orchestration/RSE_TECHNICAL_ORCHESTRATOR.md`
-4. `orchestration/WAVE1_AUTOPILOT_QUEUE.md` if present
-5. current project-specific bootstrap/plan files under `orchestration/projects/` and `orchestration/bootstrap/`
+4. `orchestration/RSE_INTEGRATION_MAP.md`
+5. `orchestration/WAVE1_AUTOPILOT_QUEUE.md` if present
+6. current project-specific bootstrap/plan files under `orchestration/projects/` and `orchestration/bootstrap/`
 
 ## Step 2 — Select one project
 Do not work on all Wave 1 projects at once. Pick the highest-priority project whose next task is AUTO/AUTO+VERIFY and not blocked by an owner gate.
