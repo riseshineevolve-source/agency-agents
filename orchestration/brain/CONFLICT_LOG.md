@@ -36,6 +36,11 @@ Current truth: the missing-master state is SUPERSEDED; ebook/editable/KDP metada
 
 ## Open / requires future reconciliation
 
+### Polish Localization PR #6 merge conflict
+PR `riseshineevolve-source/agency-agents#6` is open and draft but GitHub currently reports `mergeable: false` against `main` after the central Brain rebuild.
+Current handling: treat this as a branch-reconciliation blocker only. Do not discard calibrated localization work, do not force-merge, and do not start full-book scale-out. Reconcile the feature branch with current canonical Brain state before any merge decision.
+Owner decision required: no, unless reconciliation reveals a semantic conflict or reaches an existing owner gate.
+
 ### Brand positioning phrases
 Both:
 - "Real-life skills, made playable."
