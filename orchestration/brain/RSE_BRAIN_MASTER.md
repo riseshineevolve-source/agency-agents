@@ -23,8 +23,10 @@ Central RSE Orchestrator owns:
 - content-source recovery.
 
 Dedicated execution remains separate for:
-- Senior / Hello Today,
-- Mind Bloom Assistant.
+- Mind Bloom Assistant,
+- Marketing Autopilot.
+
+Senior / Hello Today is currently executed directly by the Central Orchestrator, with its production/legal/Play/human gates preserved.
 
 Opinie uses a special split model:
 - sanitized code + synthetic fixtures may be developed in GitHub,
@@ -356,9 +358,9 @@ Current source-manager truth:
 
 ## 13. Senior / Hello Today
 
-Dedicated execution project.
+Current execution owner: Central RSE Orchestrator.
 
-Central Brain stores milestone/blocker/dependency state only.
+The Central Orchestrator may perform bounded implementation/self-repair and checkpointing, but may not cross production/legal/Play/human owner gates.
 
 Current recovered milestone:
 Phase 14H paired CHILD_DEVICE and 6+ UX boundary on PR #77.
