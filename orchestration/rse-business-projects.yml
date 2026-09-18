@@ -1,4 +1,4 @@
-version: 12
+version: 13
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -127,6 +127,21 @@ projects:
     related_repo: riseshineevolve-source/Happy-Senior
     execution_mode: dedicated_chat
     central_sync: milestones_blockers_shared_dependencies
+    current_phase: 14H_paired_child_device_and_6plus_ux_boundary
+    current_pr: 77
+    current_branch: phase14h-paired-child-device-6plus
+    current_pr_mergeable: true
+    child_mode_production_enabled: false
+    production_setup_issue: 66
+    external_gates:
+      - play_console_firebase_play_integrity
+      - google_play_target_audience_families_declarations
+      - launch_jurisdiction_child_privacy_legal_review
+      - final_parental_consent_mechanism
+      - final_data_safety_and_public_legal_resources
+      - real_device_parent_child_pairing_restart_revoke_qa
+      - age_6_8_usability_accessibility_review
+    central_last_synced: 2026-09-18
   mind_bloom:
     name: Mind Bloom Assistant
     type: app
@@ -136,6 +151,18 @@ projects:
     execution_mode: dedicated_chat
     role_boundary: personal_business_chief_of_staff_not_code_source_of_truth
     central_sync: milestones_blockers_shared_dependencies
+    current_pr: 2
+    current_branch: feature/personal-chief-of-staff-foundation
+    current_pr_draft: true
+    current_pr_mergeable: true
+    latest_verified_ci_run: 42
+    latest_verified_ci_conclusion: success
+    active_slice: phase_1G_B_people_memory
+    durable_execution_handoff: docs/personal-chief-of-staff/CURRENT_EXECUTION_HANDOFF.md
+    local_people_work_protection: do_not_reset_clean_overwrite_or_blind_pull
+    remote_supabase_mutation_owner: dedicated_reviewed_chatgpt_action_not_local_codex
+    root_env_on_feature_branch: env_example_only
+    central_last_synced: 2026-09-18
   opinie:
     name: Opinie Offline Workbench
     type: offline_first_expert_software
