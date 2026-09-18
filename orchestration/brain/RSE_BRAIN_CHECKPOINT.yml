@@ -1,4 +1,4 @@
-version: 2
+version: 3
 updated: 2026-09-18
 status: PASS
 checkpoint_type: full_chat_history_reconciliation_and_brain_rebuild
@@ -76,12 +76,22 @@ execution_delta_2026_09_18_late:
     page_count: 104
     canonical_manifest: orchestration/content-sources/24-gentle-steps-to-christmas.yml
     localization_round_1: PASS_FOR_ONE_WEEK_CONTROLLED_EXPANSION
+    gentle_steps_week_1: TEXT_SOURCE_QA_PASS
+    gentle_steps_week_1_source_pages: 24_41
+    gentle_steps_week_1_layout_fit: PENDING_REAL_TEMPLATE
   senior:
     phase: 14H
     self_repair_head: 618063ebde6980f5c7cbcc9c9b5f11d44bf6f027
     firebase_security_run_85: PASS
-    android_ci_run_141: IN_PROGRESS
+    android_ci_run_141: PASS
     production_child_mode: OFF
+  opinie_bootstrap:
+    staging_repo: riseshineevolve-source/riseshineevolve
+    branch: feat/opinie-offline-workbench-bootstrap
+    draft_pr: 18
+    synthetic_ci_run_2: PASS
+    real_case_data_remote_allowed: false
   execution_boundaries:
     mind_bloom: dedicated_chat
     marketing: dedicated_chat
+    senior: central_execution
