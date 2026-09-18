@@ -96,21 +96,18 @@ def extract_final_sections(text: str) -> str:
                 start_level = level
                 continue
 
-            if in_final:
-                if level < start_level:
-                    in_final = False
-                elif level == start_level and any(
-                    stop in title
-                    for stop in (
-                        "qa",
-                        "source functions",
-                        "immutable",
-                        "review",
-                        "engine findings",
-                        "batch regression",
-                    )
-                ):
-                    in_final = False
+            if in_final and level <= start_level and any(
+                stop in title
+                for stop in (
+                    "qa",
+                    "source functions",
+                    "immutable",
+                    "review",
+                    "engine findings",
+                    "batch regression",
+                )
+            ):
+                in_final = False
 
         if in_final:
             out.append(line)
