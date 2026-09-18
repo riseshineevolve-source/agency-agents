@@ -65,7 +65,7 @@ programs:
     approved_visuals: 12
     unresolved_visuals: 8
   senior:
-    status: active_dedicated_execution
+    status: active_central_execution
     repo: riseshineevolve-source/hello-today-android.
     current_pr: 77
     current_phase: 14H
