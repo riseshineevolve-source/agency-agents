@@ -1,0 +1,49 @@
+version: 1
+updated: 2026-09-18
+status: PASS
+checkpoint_type: full_chat_history_reconciliation_and_brain_rebuild
+authority:
+  primary_repo: riseshineevolve-source/agency-agents
+  brain_master: orchestration/brain/RSE_BRAIN_MASTER.md
+  decisions: orchestration/brain/DECISION_LEDGER.md
+  programs: orchestration/brain/PROGRAM_REGISTRY.yml
+  sources: orchestration/brain/SOURCE_REGISTRY.yml
+  conflicts: orchestration/brain/CONFLICT_LOG.md
+  owner_gates: orchestration/brain/OWNER_GATES.md
+  sync_runbook: orchestration/brain/SYNC_RUNBOOK.md
+recovered_domains:
+  - central_orchestration
+  - brand_foundation
+  - business_revenue_engine
+  - ai_discovery_commerce
+  - marketing_automation
+  - polish_localization
+  - detective_academy
+  - happy_me
+  - optical_animals
+  - senior_hello_today
+  - mind_bloom
+  - opinie
+  - content_source_recovery
+gaps_found_and_fixed:
+  - marketing_was_not_first_class_in_central_registry
+  - brand_and_revenue_strategy_were_not_first_class_in_central_registry
+  - recovery_protocol_did_not_read_rse_brain_first
+  - chat_recovery_provenance_was_not_explicitly_indexed_by_domain
+remaining_live_verify_items:
+  - marketing_connector_current_oauth_and_network_state
+  - bing_webmaster_integration
+  - time_sensitive_search_indexing
+  - dedicated_project_current_ci_when_next_action_depends_on_it
+owner_gates:
+  - polish_full_book_scaleout
+  - detective_visual_map_standard
+  - optical_final_20
+  - happy_me_commercial_and_publication
+  - senior_child_mode_release_legal_play_human
+  - paid_marketing_activation
+  - opinie_real_data_cloud_or_release
+next_safe_actions:
+  - maintain_three_times_daily_delta_sync
+  - continue_project_execution_only_below_owner_gates
+  - build_durable_marketing_brain_before_marketing_autopilot_activation
