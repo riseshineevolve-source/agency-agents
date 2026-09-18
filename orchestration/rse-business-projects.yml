@@ -1,4 +1,4 @@
-version: 15
+version: 16
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -48,7 +48,8 @@ projects:
     type: growth_operations
     status: recovered_architecture_pending_bootstrap
     priority_wave: 1
-    execution_mode: central_with_connectors
+    execution_mode: dedicated_chat
+    central_sync: milestones_blockers_shared_dependencies
     planned_agents:
       - RSE_Marketing_Orchestrator
       - RSE_Paid_Growth_Controller
@@ -66,10 +67,17 @@ projects:
     c1_guides_gsc_indexed: 4_of_4
     c1_guides_indexed_verified: 2026-09-18
     public_search_rerun: reports/ai-discovery/public-search-snapshot-2026-09-18.md
-    app_pages_index_state: crawled_currently_not_indexed
+    adventure_app_index_state: crawled_currently_not_indexed
+    adventure_app_last_google_crawl: 2026-06-16
+    unstoppable_app_index_state: crawled_currently_not_indexed
+    unstoppable_app_last_google_crawl: 2026-07-04
+    seniors_index_state: url_unknown_to_google
+    fresh_index_check: 2026-09-18
+    indexnow_key_configured: false
+    bing_webmaster_api_configured: false
     cloudflare_crawler_hints_state: unverified_from_current_tool_surface
     c2_content_authorized: false
-    next_gate: public_search_propagation_and_app_page_indexing_followup
+    next_gate: discovery_recrawl_of_app_and_seniors_surfaces
   polish_engine:
     name: Polish Localization Engine
     type: infrastructure
@@ -90,8 +98,11 @@ projects:
     regression_validator: scripts/validate-polish-localization.py
     regression_workflow: .github/workflows/polish-localization-regression.yml
     segmented_scaleout_plan: localization/pl-PL/PUBLISHED_BOOK_SEGMENTED_SCALEOUT_PLAN.md
+    gentle_steps_source_manifest: orchestration/content-sources/24-gentle-steps-to-christmas.yml
+    gentle_steps_round_1: pass_for_one_week_controlled_expansion
+    gentle_steps_round_1_file: localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md
     full_book_scaleup_authorized: false
-    next_gate: owner_authorization_for_segmented_full_book_scaleout
+    next_gate: one_week_gentle_steps_controlled_expansion_or_owner_authorization_for_main_book_scaleout
   detective_academy:
     name: Happy Makers Detective Academy
     type: book
@@ -108,7 +119,7 @@ projects:
     canonical_master_missions: 30
     latest_editorial_preview_pages: 141
     latest_editorial_preflight: pass
-    latest_verified_build_run: 72
+    latest_verified_build_run: 73
     current_gap: final_spatial_map_assets_15
     next_gate: spatial_map_visual_standard_approval
     mass_conversion_allowed: false
@@ -170,6 +181,16 @@ projects:
     current_pr: 77
     current_branch: phase14h-paired-child-device-6plus
     current_pr_mergeable: true
+    current_head: 618063ebde6980f5c7cbcc9c9b5f11d44bf6f027
+    current_android_ci_run: 141
+    current_android_ci_status: in_progress
+    current_firebase_security_run: 85
+    current_firebase_security_status: in_progress
+    bounded_self_repairs_applied:
+      - child_device_pairing_type_collision
+      - child_device_exception_adapter_compile_error
+      - missing_child_device_localized_resources
+      - persisted_child_experience_routing
     child_mode_production_enabled: false
     production_setup_issue: 66
     external_gates:
