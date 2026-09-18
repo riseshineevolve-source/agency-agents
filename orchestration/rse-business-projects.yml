@@ -1,4 +1,4 @@
-version: 9
+version: 10
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -12,6 +12,7 @@ policy:
   recovered_artifact_registry: orchestration/rse-recovered-artifacts.yml
   resume_protocol: orchestration/RESUME_FROM_ZERO.md
   technical_orchestrator_contract: orchestration/RSE_TECHNICAL_ORCHESTRATOR.md
+  integration_map: orchestration/RSE_INTEGRATION_MAP.md
   wave_2_may_consume_current_budget: false
   gifts_may_consume_current_budget: false
   generated_output_manifest_self_heal: .github/workflows/update-convert-manifest.yml
