@@ -1,4 +1,4 @@
-version: 16
+version: 17
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -171,12 +171,12 @@ projects:
   senior_app:
     name: Senior / Hello Today
     type: app
-    status: active_separate_execution
+    status: active_central_execution
     priority_wave: 1
     repo: riseshineevolve-source/hello-today-android.
     related_repo: riseshineevolve-source/Happy-Senior
-    execution_mode: dedicated_chat
-    central_sync: milestones_blockers_shared_dependencies
+    execution_mode: central_with_specialists
+    central_sync: full_execution_and_checkpointing
     current_phase: 14H_paired_child_device_and_6plus_ux_boundary
     current_pr: 77
     current_branch: phase14h-paired-child-device-6plus
