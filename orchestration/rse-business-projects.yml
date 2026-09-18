@@ -1,5 +1,5 @@
-version: 8
-updated: 2026-09-17
+version: 9
+updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
   default_max_active_roles: 4
@@ -34,8 +34,8 @@ projects:
     execution_mode: central
     ai_discovery_issue: 584
     c1_guides_gsc_indexed: 4_of_4
-    c1_guides_indexed_verified: 2026-09-17
-    public_search_rerun: reports/ai-discovery/public-search-snapshot-2026-09-17.md
+    c1_guides_indexed_verified: 2026-09-18
+    public_search_rerun: reports/ai-discovery/public-search-snapshot-2026-09-18.md
     app_pages_index_state: crawled_currently_not_indexed
     cloudflare_crawler_hints_state: unverified_from_current_tool_surface
     c2_content_authorized: false
@@ -99,6 +99,8 @@ projects:
     branch: feat/optical-animals-book-creator
     pr: 14
     tool_area: tools/optical-book-creator
+    target_repo: riseshineevolve-source/optical-animals-book-creator
+    target_repo_status: pending_creation
     local_art_root: 'C:\Users\danie\Desktop\Asia\KDP\coloring\optical animals'
     final_source_folder: 01_FINAL_20_SOURCE
     canonical_manifest: tools/optical-book-creator/config/FINAL20_MANIFEST.json
@@ -164,7 +166,7 @@ wave_2_lovable_apps:
     repo: riseshineevolve-source/spark-joy-fam
     status: deferred_second_wave
     origin: lovable_migration
-    recovered_role: interactive_level_up_your_brain_world_01_and_02_derivative
+    recovered_role: interactive_level_up_your-brain-world-01_and_02_derivative
     content_source: src/data/storyContent.ts
     canonical_book_sources:
       - orchestration/content-sources/level-up-your-brain-world-01.yml
