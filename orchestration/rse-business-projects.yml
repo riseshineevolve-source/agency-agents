@@ -1,4 +1,4 @@
-version: 11
+version: 12
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -56,8 +56,13 @@ projects:
     round_3_review: localization/pl-PL/golden-tests/published-book-calibration-round3-review-2026-09-18.md
     controlled_pilot_day_11: pass
     controlled_pilot_file: localization/pl-PL/golden-tests/published-book-controlled-pilot-day11.md
+    bounded_batch_days_05_20_25: pass
+    bounded_batch_file: localization/pl-PL/golden-tests/published-book-bounded-batch-days05-20-25.md
+    regression_validator: scripts/validate-polish-localization.py
+    regression_workflow: .github/workflows/polish-localization-regression.yml
+    segmented_scaleout_plan: localization/pl-PL/PUBLISHED_BOOK_SEGMENTED_SCALEOUT_PLAN.md
     full_book_scaleup_authorized: false
-    next_gate: bounded_multi_day_batch_then_regression_review
+    next_gate: owner_authorization_for_segmented_full_book_scaleout
   detective_academy:
     name: Happy Makers Detective Academy
     type: book
