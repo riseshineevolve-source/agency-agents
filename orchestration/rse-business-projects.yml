@@ -1,4 +1,4 @@
-version: 19
+version: 20
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -148,7 +148,11 @@ projects:
     fully_verified_ci_run_id: 35247886772
     fully_verified_head: e356262231ec4e9114d93ab341ae8b125c80f7b2
     source_ci_only_queue_remaining: false
-    next_gate: supabase_play_signing_external_config_then_real_device_internal_track
+    production_supabase_project_id: fgmividxlwmvhlltwabd
+    production_supabase_live_status_2026_09_18: INACTIVE
+    production_supabase_target_verified_from_ci_run: 231
+    supabase_restore_requires_owner_cost_awareness: true
+    next_gate: owner_approval_if_needed_to_restore_supabase_then_auth_play_signing_external_config_and_real_device_internal_track
   optical_animals:
     name: Optical Animals
     type: book_production_software
