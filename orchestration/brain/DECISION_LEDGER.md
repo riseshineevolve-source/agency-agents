@@ -11,7 +11,7 @@ This file records decisions that must not disappear when chats become inaccessib
 - [LOCKED] English master first; Polish localization follows source freeze.
 - [LOCKED] CORE-first, specialists on demand; do not invoke the whole agency.
 - [LOCKED] Maximize automation and minimize owner clicks. Stop mainly at meaningful owner gates.
-- [LOCKED] Senior and Mind Bloom remain separate execution workstreams with central milestone/blocker/dependency sync.
+- [CURRENT] Mind Bloom and Marketing remain separate execution workstreams with central milestone/blocker/dependency sync. Senior / Hello Today is back under central execution unless the owner changes this again.
 - [LOCKED] Wave 2 and Gifts remain deferred unless explicitly promoted.
 - [LOCKED] Do not spend Codex budget on status summaries or work deterministic tools can do.
 
@@ -99,7 +99,7 @@ This file records decisions that must not disappear when chats become inaccessib
 - [LOCKED] Adult credentials never live on child device.
 - [LOCKED] No independent child email/password account.
 - [LOCKED] Child Mode remains off until external/legal/human gates pass.
-- [LOCKED] Central Orchestrator does not duplicate dedicated execution.
+- [CURRENT] Senior / Hello Today may be executed directly by the Central Orchestrator; production/legal/Play/human owner gates remain unchanged.
 
 ## Mind Bloom
 
