@@ -32,8 +32,9 @@ programs:
     canonical_architecture: one_product_entity_truth_many_adapters
     c2_content_authorized: false
   marketing_autopilot:
-    status: architecture_recovered_not_fully_bootstrapped
-    execution_owner: central_orchestrator
+    status: active_dedicated_execution
+    execution_owner: dedicated_marketing_chat
+    central_role: milestones_blockers_shared_dependencies_only
     planned_agents:
       - RSE_Marketing_Orchestrator
       - RSE_Paid_Growth_Controller
@@ -41,10 +42,11 @@ programs:
     live_connector_state: verify_on_use
     next_gate: create_durable_marketing_brain_and_live_verify_publishers
   polish_localization:
-    status: calibrated_owner_gate
+    status: calibrated_with_second_corpus
     branch: rse/polish-localization-engine-v1
     pr: 6
     full_book_scaleout_authorized: false
+    gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
     status: active_production_visual_gate
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
