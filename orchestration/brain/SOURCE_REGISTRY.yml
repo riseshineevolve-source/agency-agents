@@ -100,3 +100,12 @@ private_heavy_sources:
     - artwork_master
     - confidential_local_case_data
   pointer_policy: store_filename_hash_storage_class_provenance_not_binary
+
+chat_id_map:
+  - conversation_id: 6aa25505-d178-83eb-b1dd-d37d46e52184
+    role: original_central_ai_agents_orchestrator_lineage
+    recovery_status: substantially_recovered_from_uploaded_archives_and_durable_github_state
+  - conversation_id: 6aaacfc1-f830-83ed-861b-8a08d7fd4f88
+    title: Senior App CI Watch
+    role: senior_execution_ci_watch
+    recovery_status: identified_in_uploaded_html_and_reconciled_with_senior_pr_77_night_shift_history
