@@ -1,4 +1,4 @@
-version: 17
+version: 18
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -101,8 +101,12 @@ projects:
     gentle_steps_source_manifest: orchestration/content-sources/24-gentle-steps-to-christmas.yml
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
     gentle_steps_round_1_file: localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md
+    gentle_steps_week_1_file: localization/pl-PL/golden-tests/gentle-steps-christmas-week1-controlled-expansion.md
+    gentle_steps_week_1_text_qa: pass
+    gentle_steps_week_1_source_pages_verified: 24_41
+    gentle_steps_week_1_layout_fit: pending_real_template_check
     full_book_scaleup_authorized: false
-    next_gate: one_week_gentle_steps_controlled_expansion_or_owner_authorization_for_main_book_scaleout
+    next_gate: gentle_steps_week_1_layout_fit_then_segmented_scaleout_decision
   detective_academy:
     name: Happy Makers Detective Academy
     type: book
@@ -183,9 +187,9 @@ projects:
     current_pr_mergeable: true
     current_head: 618063ebde6980f5c7cbcc9c9b5f11d44bf6f027
     current_android_ci_run: 141
-    current_android_ci_status: in_progress
+    current_android_ci_status: success
     current_firebase_security_run: 85
-    current_firebase_security_status: in_progress
+    current_firebase_security_status: success
     bounded_self_repairs_applied:
       - child_device_pairing_type_collision
       - child_device_exception_adapter_compile_error
@@ -226,16 +230,22 @@ projects:
   opinie:
     name: Opinie Offline Workbench
     type: offline_first_expert_software
-    status: active_preparation
+    status: active_synthetic_bootstrap
     priority_wave: 1
     target_repo: riseshineevolve-source/opinie-offline-workbench
     repo_status: pending_creation
     bootstrap: orchestration/bootstrap/OPINIE_REPO_BOOTSTRAP.md
+    temporary_staging_repo: riseshineevolve-source/riseshineevolve
+    temporary_staging_branch: feat/opinie-offline-workbench-bootstrap
+    temporary_staging_pr: 18
+    tool_area: tools/opinie-offline-workbench
+    synthetic_ci_run: 2
+    synthetic_ci_conclusion: success
     current_local_root: 'C:\Users\danie\AI_LOCAL\opinie'
     development_mode: github_online_with_synthetic_fixtures
     production_runtime: local_offline
     remote_real_case_data_allowed: false
-    next_gate: repository_bootstrap_and_synthetic_end_to_end_pipeline
+    next_gate: expand_synthetic_provenance_calculation_pipeline_then_migrate_to_dedicated_repo
 wave_2_lovable_apps:
   happy_makers_quest:
     repo: riseshineevolve-source/happy-makers-quest
