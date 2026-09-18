@@ -70,3 +70,11 @@ Execution ownership updated:
 - Added Opinie `AGENTS.md`, `CHECKPOINT.yml`, privacy-focused `.gitignore` and synthetic fixture boundary tests.
 - Prepared Detective `OWNER_GATE_MAP_FACTORY.md` so the final map decision is limited to the canonical HMDA_02 / HMDA_13 / HMDA_29 pilot system before any 15-case scale-out.
 - Prepared Optical `OWNER_GATE_FINAL20.md` so the 12 approved pages remain locked and only the eight unresolved canonical slots need owner decisions.
+
+
+## 2026-09-18 — Happy Me live backend target + Opinie review packet
+
+- Full Happy Me CI run #231 was inspected and confirms the release bundle targets Supabase project `fgmividxlwmvhlltwabd`.
+- Fresh live Supabase read reports that exact project as **INACTIVE**. The release matrix now records backend restoration/activation as a concrete prerequisite before real auth/device testing. Silent restore was not performed because activation may have billing implications.
+- Opinie added a second missing-measurement/conflicting-evidence fixture plus a deterministic human-review support packet that refuses pre-filled final conclusions.
+- Fresh Opinie synthetic CI **run #25 PASS**.
