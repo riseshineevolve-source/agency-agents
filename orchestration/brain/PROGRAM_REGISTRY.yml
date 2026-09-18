@@ -73,7 +73,10 @@ programs:
     status: active_dedicated_execution
     repo: riseshineevolve-source/mind-bloom-assistant
     current_pr: 2
-    active_slice: Phase_1G_B_People_Memory
+    completed_phase: Phase_1G
+    active_slice: Phase_1H_A_Daily_Brief_Attention_Engine_V0
+    people_memory_remote_migration: 20260918160000_add_people_memory_v0
+    remote_schema_state: verified_active
   opinie:
     status: repo_bootstrap_pending
     target_repo: riseshineevolve-source/opinie-offline-workbench
