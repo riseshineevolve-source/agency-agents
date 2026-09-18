@@ -1,4 +1,4 @@
-version: 1
+version: 2
 updated: 2026-09-18
 status: PASS
 checkpoint_type: full_chat_history_reconciliation_and_brain_rebuild
@@ -47,3 +47,41 @@ next_safe_actions:
   - maintain_three_times_daily_delta_sync
   - continue_project_execution_only_below_owner_gates
   - build_durable_marketing_brain_before_marketing_autopilot_activation
+
+execution_delta_2026_09_18_late:
+  inaccessible_chat_mapping:
+    - 6aa25505-d178-83eb-b1dd-d37d46e52184
+    - 6aaacfc1-f830-83ed-861b-8a08d7fd4f88
+  ai_discovery:
+    app_index_check: refreshed
+    adventure_app: crawled_currently_not_indexed
+    unstoppable_app: crawled_currently_not_indexed
+    seniors: url_unknown_to_google
+    c2_content_authorized: false
+  detective:
+    canonical_master_missions: 30
+    editorial_preview_pages: 141
+    editorial_preflight: PASS
+    build_run: 73
+    build_conclusion: success
+    remaining_gate: final_spatial_map_visual_system
+  optical_animals:
+    old_roster_conflict: resolved
+    final20_contract: reconciled
+    quality_run: 4
+    quality_conclusion: success
+    unresolved_owner_visuals: 8
+  gentle_steps:
+    print_master_recovered: true
+    page_count: 104
+    canonical_manifest: orchestration/content-sources/24-gentle-steps-to-christmas.yml
+    localization_round_1: PASS_FOR_ONE_WEEK_CONTROLLED_EXPANSION
+  senior:
+    phase: 14H
+    self_repair_head: 618063ebde6980f5c7cbcc9c9b5f11d44bf6f027
+    firebase_security_run_85: PASS
+    android_ci_run_141: IN_PROGRESS
+    production_child_mode: OFF
+  execution_boundaries:
+    mind_bloom: dedicated_chat
+    marketing: dedicated_chat
