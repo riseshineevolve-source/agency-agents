@@ -1,0 +1,96 @@
+version: 1
+updated: 2026-09-18
+brain_status: canonical
+global:
+  master_brand: Rise.Shine.Evolve.
+  working_positioning: Real-life skills, made playable.
+  primary_acquisition_audience: parents_caregivers_children_6_10
+  source_language: en
+  localization_target: pl-PL
+  routing: core_first_specialists_on_demand
+  default_max_active_roles: 4
+  chat_is_source_of_truth: false
+programs:
+  brand_and_business:
+    status: active_master_strategy
+    execution_owner: central_orchestrator
+    next_gate: reconcile_brand_revenue_website_v2_into_owner_decision_packet
+  revenue_engine:
+    status: strategic_foundation_recovered
+    name: RSE CORE Revenue Engine v1
+    owner_gated:
+      - positioning_changes
+      - new_products
+      - subscriptions
+      - pricing
+      - major_redesign
+      - paid_ads_activation
+  ai_discovery:
+    status: active_measurement
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    issue: 584
+    canonical_architecture: one_product_entity_truth_many_adapters
+    c2_content_authorized: false
+  marketing_autopilot:
+    status: architecture_recovered_not_fully_bootstrapped
+    execution_owner: central_orchestrator
+    planned_agents:
+      - RSE_Marketing_Orchestrator
+      - RSE_Paid_Growth_Controller
+      - RSE_KDP_Ads_Optimizer
+    live_connector_state: verify_on_use
+    next_gate: create_durable_marketing_brain_and_live_verify_publishers
+  polish_localization:
+    status: calibrated_owner_gate
+    branch: rse/polish-localization-engine-v1
+    pr: 6
+    full_book_scaleout_authorized: false
+  detective_academy:
+    status: active_production_visual_gate
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    branch: feature/detective-book-factory
+    pr: 571
+    locked_modules: 15
+  happy_me:
+    status: external_device_release_gates
+    repo: riseshineevolve-source/riseshineevolve
+    branch: mobile/mobile-first-rebuild
+  optical_animals:
+    status: active_curation
+    repo: riseshineevolve-source/riseshineevolve
+    branch: feat/optical-animals-book-creator
+    pr: 14
+    approved_visuals: 12
+    unresolved_visuals: 8
+  senior:
+    status: active_dedicated_execution
+    repo: riseshineevolve-source/hello-today-android.
+    current_pr: 77
+    current_phase: 14H
+  mind_bloom:
+    status: active_dedicated_execution
+    repo: riseshineevolve-source/mind-bloom-assistant
+    current_pr: 2
+    active_slice: Phase_1G_B_People_Memory
+  opinie:
+    status: repo_bootstrap_pending
+    target_repo: riseshineevolve-source/opinie-offline-workbench
+    production_runtime: local_offline
+    real_data_remote_allowed: false
+  content_recovery:
+    status: active
+    policy: orchestration/RSE_CONTENT_SOURCE_POLICY.md
+    queue: orchestration/RSE_CONTENT_RECOVERY_QUEUE.md
+hold:
+  wave_2:
+    - happy-makers-quest
+    - family-mission-control
+    - unstoppable-me
+    - night-command
+    - family-hearth-stories
+    - spark-joy-fam
+    - neon-wonder-world
+  gifts:
+    - word-search-puzzle
+    - Happy-Makers-Calm-Wheel
+    - 1-minute-challange
