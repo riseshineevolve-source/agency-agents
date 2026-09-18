@@ -83,22 +83,30 @@ Already recovered:
 - Optical Animals source-manager manifest/scripts plus current Book Creator branch.
 - Senior and Mind Bloom technical handoffs already recovered from Library/GitHub.
 
-## Highest-value missing book master
+## 24 Gentle Steps to Christmas — recovered print master
 
-### 24 Gentle Steps to Christmas
+Priority: RECOVERED / CURRENT SUPPORT
 
-Priority: HIGH
+Recovered on 2026-09-17 after the earlier mistaken Happy Me upload:
+- `24 Gentle Paperback ok.pdf` — published 104-page English paperback interior used as the current calibration/source reference.
+- `24 Gentle Steps to Christmas COVER HARDCOVER.pdf` — hardcover cover reference.
 
-Recover if available:
-- final print interior PDF,
-- ebook master,
+Canonical product name is `24 Gentle Steps to Christmas`. Do not let generic `Christmas Family Book` or the historical Happy Me / `Gentle Steps to New Year` naming override it.
+
+Verified product framing from the recovered cover:
+- family Advent / Christmas journey,
+- approximately 10 minutes a day,
+- three recurring mini-rituals: `Mindful Moment`, `Fun Spark`, `Family Connection`.
+
+The Polish Localization Engine already uses this source as a second calibration corpus in PR #6.
+
+Still useful if found later, but no longer launch-blocking for source recovery:
+- ebook/KPF/EPUB master,
 - editable source,
-- cover,
-- KDP metadata/identifiers.
+- final paperback wrap if distinct from the recovered hardcover cover,
+- KDP listing metadata / identifiers.
 
-Canonical product name is `24 Gentle Steps to Christmas`; preserve older filenames but do not let generic `Christmas Family Book` override the canonical title.
-
-Important: the 2026-09-17 upload batch did not contain a file identifiable as the Gentle Steps master. It contained Happy Me / World 01 assets plus the recovered Happy Me KPF. Keep Gentle Steps on the missing-master queue until its actual final file arrives.
+Do not search broadly for these unless they appear naturally; the critical missing-master state is closed.
 
 ## Medium-priority future app / book assets
 
