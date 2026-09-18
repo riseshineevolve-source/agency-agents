@@ -15,6 +15,8 @@ Recurring labels remain provisional:
 
 ---
 
+## Final PL candidate — Days 2–7
+
 # DZIEŃ 2
 
 ## SPOKOJNA CHWILA — WSPÓLNY ODDECH
@@ -330,7 +332,7 @@ Cisi bohaterowie się nie chwalą. Dlatego to my musimy skierować na nich świa
 
 ---
 
-# WEEK 1 CONTROLLED QA
+## QA — WEEK 1 CONTROLLED
 
 ## Source fidelity
 
