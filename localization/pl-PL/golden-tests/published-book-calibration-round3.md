@@ -60,13 +60,13 @@ Jego włosy postawione na żel trzymają formę w każdą pogodę, nawet tę, z 
 Kiedy Dilo jest w pobliżu, wszystko jakoś przyspiesza i od razu robi się ciekawiej.
 
 * Łowca goli * Pogromca leveli * Generał stylu *
-* Uparta gwiazda * Dealer smakołyków *
+* Uparta gwiazda * Rozdawca smakołyków *
 
 ### LULI — TWÓRCZY BLASK
 
 LULI łączy kreatywność z elegancją. Uwielbia kryminały, zagadki i każdą książkę, która obiecuje taki zwrot akcji, że trzeba na chwilę odłożyć ją na kolana i powiedzieć: „cooo?”.
 
-Długie czarne włosy, błyszczące kolczyki i mocne kolory sprawiają, że trudno jej nie zauważyć.
+Ma 13 lat, długie czarne włosy, błyszczące kolczyki i mocne kolory, więc trudno jej nie zauważyć.
 
 Ale nie daj się zwieść elegancji. Luli jest silna, wysportowana i potrafi wspiąć się wyżej niż niejeden chłopak zdąży zauważyć, że właśnie zaczęła się rywalizacja.
 
@@ -93,7 +93,7 @@ Mimi nie tylko przeżywa codzienne zamieszanie. Ona je organizuje, poprawia mu f
 
 Ciepła, nie do zatrzymania i naturalnie dowodząca. Serce rodziny i jej silnik na najwyższych obrotach.
 
-* Ninja wielozadaniowości * Tropicielka zgub * Stabilizator nastroju *
+* Ninja wielozadaniowości * Tropicielka zgub * Pogotowie humoru *
 * Zaklinaczka czasu * Żonglerka planami *
 
 ### QA
@@ -141,7 +141,7 @@ Ciężkie ramiona? Powolne nogi?
 Łaskotanie w brzuchu? Uśmiechnięte policzki?
 
 ZIELONY: gdzie czujesz SPOKÓJ?
-Równy oddech? Rozluźnione dłonie?
+Spokojne bicie serca? Rozluźnione dłonie?
 
 ### MAŁY KROK NA DZIŚ
 
@@ -216,11 +216,11 @@ W pierwszej wpisz albo narysuj pytanie, na przykład:
 Podaj książkę komuś z domu i poproś, żeby odpowiedział w drugiej chmurce.
 Jeśli macie ochotę, prowadźcie papierową rozmowę dalej.
 
-Pisanie wiadomości na papierze działa wolniej, ale za to ma zerowy limit baterii.
+Pisanie wiadomości na papierze działa wolniej, ale za to nie potrzebuje nawet baterii.
 
 ## MÓJ CZAT OFFLINE
 
-Jeśli kiedyś trzymasz tablet w ręce, a mimo to brakuje Ci czyjejś obecności, wróć do tej strony. Może przypomnieć Ci, że wspólna rozmowa, śmiech i opowiadanie historii też potrafią dobrze naładować dzień.
+Jeśli kiedyś trzymasz tablet w ręce, a mimo to brakuje Ci czyjejś obecności, wróć do tej strony. Może przypomnieć Ci, że wspólna rozmowa, śmiech i opowiadanie historii też potrafią nieźle podładować baterie.
 
 ### CHWILA NA ODDECH
 
@@ -273,7 +273,7 @@ bo będę musiała Cię połaskotać.
 
 Prawdziwy tajny agent zauważa rzeczy, które łatwo przegapić.
 
-Na następnej stronie narysuj wielkie serce i zamień je w RADAR ŻYCZLIWOŚCI.
+Na następnej stronie narysuj wielkie serce i zamień je w RADAR DOBRA.
 
 Pomyśl o osobach, które dziś spotkałeś.
 Kto wyglądał na zmęczonego?
@@ -285,14 +285,14 @@ Obok każdej zapisz lub narysuj jeden drobny gest, który możesz zrobić: obraz
 
 ### MAŁY KROK NA DZIŚ
 
-Zostań Agentem Dobrych Uczynków.
-Wybierz jedną rzecz ze swojego Radaru Życzliwości i zrób ją bez zdradzania, że to Twoja robota.
+Czas na tajną misję.
+Wybierz jedną rzecz ze swojego Radaru Dobra i zrób ją tak, żeby nikt nie wiedział, że to Twoja robota.
 
 Misja specjalna: NIE DAJ SIĘ ZŁAPAĆ.
 
-## MÓJ RADAR ŻYCZLIWOŚCI
+## MÓJ RADAR DOBRA
 
-Kiedy sam czujesz się trochę niewidzialny albo odsunięty, możesz włączyć swój Radar Życzliwości i rozejrzeć się za małym dobrym uczynkiem. Czasem zrobienie czegoś dla kogoś pomaga przypomnieć sobie, że też masz wpływ na atmosferę wokół siebie.
+Kiedy masz wrażenie, że nikt Cię nie zauważa albo że jesteś trochę z boku, możesz włączyć swój Radar Dobra i rozejrzeć się za małym dobrym uczynkiem. Czasem zrobienie czegoś dla kogoś pomaga przypomnieć sobie, że też masz wpływ na atmosferę wokół siebie.
 
 ### CHWILA NA ODDECH
 
@@ -313,7 +313,7 @@ Powtarzam: MINECRAFT ISTNIEJE NAPRAWDĘ!
 - PASS: noticing others is framed as observation, not mind-reading.
 - PASS: source promise of automatic pride/joy is calibrated into possible experience and agency.
 - PASS: current provisional Dilo label is reused rather than silently mutated.
-- PROVISIONAL: `RADAR ŻYCZLIWOŚCI` should be checked for recurrence before glossary lock.
+- PROVISIONAL: `RADAR DOBRA` should be checked for recurrence before glossary lock.
 
 ---
 
@@ -342,7 +342,7 @@ i absolutnie genialny.
 
 Napisz jedno zmartwienie na małym kawałku papieru.
 Zgnieć kartkę jedną ręką w najmniejszą kulkę, jaką potrafisz.
-Wrzuć ją do kosza. PUNKT!
+Wrzuć ją do kosza. TRAFIONE!
 
 ### TERAZ TY TWORZYSZ!
 
@@ -374,7 +374,7 @@ TAJNA TARCZA: markerowe przebitki nie przejdą dalej!
 
 ALARM WYGIBASÓW NINI
 
-Wyobraź sobie, że właśnie nadepnąłeś na lepką gumę ze zmartwień. Fuj!
+Wyobraź sobie, że do podeszwy przykleiła Ci się lepka guma ze zmartwień. Fuj!
 
 Strząśnij prawą nogę. Teraz lewą.
 Otrzep dłonie, jakby były całe w wodzie.
@@ -392,6 +392,36 @@ START!
 - PROVISIONAL: `MEGA-CHRUP 3000` and `ALARM WYGIBASÓW NINI` require recurrence/visual-fit review before glossary lock.
 
 ---
+
+
+## Round 3 bilingual / naturalness / surface review — 2026-09-18
+
+Review source: published 244-page English master, pages 13–17, 79–83, 91–95, 103–107 and 131–135, including page images.
+
+Status after targeted fixes: **PASS FOR CONTROLLED PILOT**.
+
+Corrections applied during bilingual review:
+- restored Luli's explicit age (13), which had been omitted in the Polish candidate;
+- replaced `Dealer smakołyków` with child-appropriate `Rozdawca smakołyków`;
+- replaced clinical-sounding `Stabilizator nastroju` with `Pogotowie humoru`;
+- restored the source's calm-body example from breath to heart rhythm (`Spokojne bicie serca?`);
+- rebuilt two unnatural screen-related lines into native Polish;
+- shortened `RADAR ŻYCZLIWOŚCI` to the designed-surface-friendly `RADAR DOBRA`;
+- removed gendered direct address from the kindness mission and Nini movement game;
+- replaced awkward `PUNKT!` with neutral game-like `TRAFIONE!`.
+
+Designed-surface review:
+- core recurring section labels remain within the established layout family;
+- `MÓJ RADAR DOBRA` now matches the compact visual role of `MY HEART RADAR` much better;
+- character epithets and micro-tag rows remain provisional and may reflow during typesetting; this is not a glossary lock;
+- no layout-driven shortening is allowed to reintroduce calques or gendered address.
+
+Regression conclusion:
+- no accepted Round 1–2 terminology was changed;
+- claim-strength safeguards remain intact;
+- character voices remain differentiated;
+- Round 3 is cleared for one new complete mission/day end-to-end pilot, followed by bilingual QA before any batch expansion.
+
 
 ## Round 3 engine findings
 
