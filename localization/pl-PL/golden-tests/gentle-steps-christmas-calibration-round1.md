@@ -1,6 +1,6 @@
 # 24 Gentle Steps to Christmas — Polish Calibration Round 1
 
-Status: ACTIVE CALIBRATION CANDIDATE
+Status: PASS FOR ONE-WEEK CONTROLLED EXPANSION
 Source: user-provided published English paperback, 104 pages
 Source title: `24 Gentle Steps to Christmas`
 Audience: shared family reading, with children roughly 7–12 and adults participating
@@ -23,7 +23,7 @@ The book promises roughly 10 minutes a day and uses three repeated daily compone
 2. `Fun Spark`
 3. `Family Connection`
 
-It moves through four weekly arcs and ends with Day 24, a Christmas Eve family ritual, a closing blessing and a letter from the Happy-Makers.
+It moves through four weekly arcs and ends with Day 24, a Christmas Eve family ritual, a post-Christmas reflection, a Family Promise, a closing blessing and a letter from the Happy-Makers.
 
 ## Provisional recurring terminology
 
@@ -192,7 +192,7 @@ Nawet Alio potrafi tu wytrzymać bez ruchu. Imponujące.
 
 ### ISKRA ZABAWY — RZUT KOMPLEMENTEM
 
-Życzliwość działa lepiej, kiedy ją sobie podajemy.
+Zaufanie rośnie, kiedy zamiast krytyki podajemy sobie coś dobrego.
 
 Stańcie w kręgu.
 
@@ -238,11 +238,15 @@ Source functions:
 
 Niech spokój i życzliwość, które rosły przez te dni w Waszym domu, pójdą dziś kawałek dalej.
 
+Niech każdemu trafi się dziś choć mała iskra spokoju.
+
+Wesołych Świąt — po naszemu: spokojnie i naprawdę razem.
+
 Usiądźcie razem w ciszy i złapcie się za ręce.
 
 Oddychając, wyobraźcie sobie wszystkie małe światełka z ostatnich dni: śmiech, rozmowy, wspólne chwile, drobne gesty.
 
-Niech przez minutę tworzą wokół Was ciepły krąg.
+Niech przez minutę tworzą nad Wami ciepły krąg światła.
 
 **Świąteczny szept Mimi:**
 Zostańcie tu jeszcze moment. Właśnie o to w tym wszystkim chodzi.
@@ -251,7 +255,7 @@ Zostańcie tu jeszcze moment. Właśnie o to w tym wszystkim chodzi.
 
 Wybierzcie ulubioną kolędę, świąteczną piosenkę albo zimowy utwór, który wszyscy znacie.
 
-Osoba ubrana dziś najbardziej świątecznie zaczyna pierwszą linijkę. Reszta dołącza.
+Osoba, która ma dziś na sobie najbardziej świąteczny kolor, zaczyna pierwszą linijkę. Reszta dołącza.
 
 Śpiewajcie razem.
 
@@ -307,6 +311,65 @@ To, co zapaliliście przez te grudniowe wieczory, nie musi zgasnąć 24 grudnia.
 - PASS candidate: no `magia`, `więź`, `uważna obecność` filler added merely to sound inspirational.
 
 ---
+
+## Round 1 bilingual / source / surface review — 2026-09-18
+
+Reviewed directly against the recovered 104-page published paperback and page images for:
+- How This Advent Calendar Works (pp. 14–17),
+- Day 1 (pp. 21–23),
+- Day 24 (pp. 93–95),
+- post-Day-24 closing surfaces (pp. 97–104).
+
+Status after targeted fixes: **PASS FOR ONE-WEEK CONTROLLED EXPANSION**.
+
+### Source fidelity corrections made
+
+- Restored the source's trust function in Day 1 instead of replacing it with a generic kindness line.
+- Restored the Day 24 source wishes before the Circle of Light exercise.
+- Restored the source's visual direction that the shared light rises above the family.
+- Restored the Day 24 starter mechanic: the person wearing the most festive **color**, not merely the person dressed "most festively".
+- Corrected the source-structure summary: the book also contains post-Christmas reflection, a Family Promise, a closing blessing and a Happy-Makers letter.
+
+### Source inconsistency detected and contained
+
+The English product uses two related labels:
+- cover/back-cover framing: `Family Connection`,
+- interior How It Works page: `Connection Share`.
+
+This is a source-level naming inconsistency, not a Polish translation defect.
+
+For calibration, `Chwila bliskości` remains the single provisional Polish functional label because it fits both uses naturally. Do **not** glossary-lock it until the one-week layout/recurrence pass confirms that this unification is desirable.
+
+### Claim-strength review
+
+PASS.
+
+The English How It Works copy contains stronger outcome language around emotional regulation, calm, communication, belonging and trust. The Polish candidates deliberately preserve the activity function without turning those outcomes into guarantees.
+
+No new therapeutic, medical or guaranteed wellbeing claim was added.
+
+### Designed-surface review
+
+PASS FOR CONTROLLED EXPANSION.
+
+The three recurring Polish labels remain compact enough for the observed designed surfaces:
+- `Spokojna chwila`
+- `Iskra zabawy`
+- `Chwila bliskości`
+
+Longer day-specific titles must still be checked during the one-week pass. Do not solve overflow by shrinking text below the existing readability hierarchy.
+
+### Character micro-label review
+
+PASS WITH PROVISIONAL WORDING.
+
+Nini, Alio, Dilo, Luli and Mimi retain distinct functions and humor. Their micro-labels should remain character-specific rather than being flattened into one repeated `Uwaga`.
+
+### Promotion decision
+
+Round 1 is promoted from ACTIVE CALIBRATION CANDIDATE to **PASS FOR ONE-WEEK CONTROLLED EXPANSION**.
+
+This authorizes one complete Week 1 calibration tranche only. It does not authorize full 104-page production and does not resolve the final Polish cover title.
 
 # Round 1 promotion rule
 
