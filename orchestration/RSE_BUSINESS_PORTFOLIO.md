@@ -22,8 +22,9 @@ Primary execution attention goes to the projects explicitly selected by the owne
 - Happy Me Adventures
 - Optical Animals
 - Opinie
-- Senior / Hello Today — dedicated execution chat, centrally supervised
+- Senior / Hello Today — central execution, with owner-gated release/legal decisions preserved
 - Mind Bloom Assistant — dedicated execution chat, centrally supervised
+- Marketing Autopilot — dedicated execution chat, centrally supervised
 
 These are the projects that may consume current orchestration and specialist-agent capacity.
 
@@ -166,11 +167,11 @@ Do not mass-regenerate approved images or change species/roster automatically. F
 ### 6. Senior / Hello Today
 
 Product: senior-focused app.
-Execution remains in its dedicated project/chat.
-Portfolio role: centrally supervised dependency/status only.
-Known repositories include `riseshineevolve-source/Happy-Senior` and the active Android work historically associated with `hello-today-android`.
-State: active separate execution.
-Rule: do not merge its detailed implementation conversation into the central RSE chat; only synchronize milestones, blockers, shared brand/localization/store dependencies and release gates.
+Execution owner: Central RSE Orchestrator.
+Portfolio role: active central implementation with specialists on demand.
+Known repositories include `riseshineevolve-source/Happy-Senior` and the active Android repository `riseshineevolve-source/hello-today-android.`.
+State: active central execution.
+Rule: the central orchestrator may perform bounded implementation, CI repair and checkpointing. Production publication, legal/compliance positions, Play/Firebase external launch decisions and required human/device gates remain protected.
 
 ### 7. Mind Bloom Assistant
 
@@ -257,7 +258,7 @@ Optical Animals curation -> final 20 lock -> automated assembly/preflight -> KDP
 
 Parallel lane D — apps:
 Happy Me branch custody/audit -> minimal rebuild completion -> automated verification -> Android release path.
-Senior and Mind Bloom continue in dedicated execution chats with portfolio-level synchronization.
+Senior continues under central execution. Mind Bloom and Marketing continue in dedicated execution chats with portfolio-level synchronization.
 
 Parallel lane E — confidential local system:
 Opinie privacy validation -> minimal local end-to-end workflow -> local agent loop -> human expert review.
