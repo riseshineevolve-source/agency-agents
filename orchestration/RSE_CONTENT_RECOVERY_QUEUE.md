@@ -1,6 +1,6 @@
 # RSE Content Recovery Queue
 
-Last updated: 2026-09-17
+Last updated: 2026-09-18
 
 This queue asks only for assets that materially improve continuity, translation, future app reuse or publication control. Do not re-upload assets already recovered.
 
@@ -133,11 +133,15 @@ Only send a local asset if it is newer than the recovered checkpoint/manifest or
 
 ## Senior / Hello Today
 
-No broad recovery upload needed. Continue in its dedicated execution workstream.
+No broad recovery upload needed. Current implementation is under the Central RSE Orchestrator. Continue from the active GitHub branch/PR/checkpoints; do not depend on the lost Senior chat for recovery.
 
 ## Mind Bloom
 
-No broad recovery upload needed. Continue in its dedicated execution workstream.
+No broad recovery upload needed. Continue in its dedicated execution chat; the Central RSE Orchestrator only synchronizes milestones, blockers and shared dependencies.
+
+## Marketing Autopilot
+
+No broad recovery upload needed from the central chat. Marketing continues in its dedicated execution chat; central orchestration only synchronizes milestones, blockers and shared dependencies.
 
 ## Opinie
 
