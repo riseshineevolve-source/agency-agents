@@ -1,4 +1,4 @@
-version: 10
+version: 11
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -51,10 +51,13 @@ projects:
     pr: 6
     execution_mode: central
     calibration_round_2: pass
-    calibration_round_3: generalization_candidate_added
+    calibration_round_3: pass
     round_3_file: localization/pl-PL/golden-tests/published-book-calibration-round3.md
+    round_3_review: localization/pl-PL/golden-tests/published-book-calibration-round3-review-2026-09-18.md
+    controlled_pilot_day_11: pass
+    controlled_pilot_file: localization/pl-PL/golden-tests/published-book-controlled-pilot-day11.md
     full_book_scaleup_authorized: false
-    next_gate: round_3_bilingual_naturalness_surface_review_then_single_day_pilot
+    next_gate: bounded_multi_day_batch_then_regression_review
   detective_academy:
     name: Happy Makers Detective Academy
     type: book
