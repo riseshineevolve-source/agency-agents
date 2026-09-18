@@ -5,14 +5,22 @@ Use this protocol whenever a new ChatGPT thread, Work session, Codex session or 
 ## Goal
 Resume accurately without relying on prior chat memory.
 
-## Step 1 — Load portfolio truth
+## Step 1 — Load RSE Brain and portfolio truth
 Read, in order:
-1. `orchestration/rse-business-projects.yml`
-2. `orchestration/RSE_BUSINESS_PORTFOLIO.md`
-3. `orchestration/RSE_TECHNICAL_ORCHESTRATOR.md`
-4. `orchestration/RSE_INTEGRATION_MAP.md`
-5. `orchestration/WAVE1_AUTOPILOT_QUEUE.md` if present
-6. current project-specific bootstrap/plan files under `orchestration/projects/` and `orchestration/bootstrap/`
+1. `orchestration/brain/RSE_BRAIN_MASTER.md`
+2. `orchestration/brain/DECISION_LEDGER.md`
+3. `orchestration/brain/PROGRAM_REGISTRY.yml`
+4. `orchestration/brain/SOURCE_REGISTRY.yml`
+5. `orchestration/brain/OWNER_GATES.md`
+6. `orchestration/brain/CONFLICT_LOG.md`
+7. `orchestration/rse-business-projects.yml`
+8. `orchestration/RSE_BUSINESS_PORTFOLIO.md`
+9. `orchestration/RSE_TECHNICAL_ORCHESTRATOR.md`
+10. `orchestration/RSE_INTEGRATION_MAP.md`
+11. `orchestration/WAVE1_AUTOPILOT_QUEUE.md` if present
+12. current project-specific bootstrap/plan files under `orchestration/projects/` and `orchestration/bootstrap/`
+
+If an old chat conflicts with RSE Brain or a fresher repository checkpoint, do not follow the chat. Log the contradiction in `orchestration/brain/CONFLICT_LOG.md`.
 
 ## Step 2 — Select one project
 Do not work on all Wave 1 projects at once. Pick the highest-priority project whose next task is AUTO/AUTO+VERIFY and not blocked by an owner gate.
@@ -50,7 +58,8 @@ Every meaningful milestone ends with:
 - updated `CHECKPOINT.yml` or equivalent issue/PR checkpoint,
 - evidence for PASS/NEEDS WORK/BLOCKED,
 - next autonomous task,
-- next owner gate if any.
+- next owner gate if any,
+- central RSE Brain sync when phase/blocker/source/decision/gate changed.
 
 ## New-chat handoff prompt
 A user should be able to start a fresh technical conversation with:
