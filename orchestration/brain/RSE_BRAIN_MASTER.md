@@ -447,7 +447,7 @@ Recovered book-source work includes:
 - derivatives and reusable engines,
 - content recovery queue.
 
-24 Gentle Steps to Christmas remains a high-value missing-master recovery target unless newer recovery evidence supersedes that state.
+`24 Gentle Steps to Christmas` is now recovered as a verified 104-page English paperback source (`24 Gentle Paperback ok.pdf`) with a hardcover cover reference in the connected Library. The earlier missing-master state is SUPERSEDED. A canonical content-source manifest now lives at `orchestration/content-sources/24-gentle-steps-to-christmas.yml`.
 
 ## 17. Continuity invariant
 
