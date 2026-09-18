@@ -1,0 +1,47 @@
+version: 1
+book_id: gentle-steps-christmas
+canonical_title: 24 Gentle Steps to Christmas
+aliases:
+  - Christmas Family Book
+historical_conflicts:
+  - Gentle Steps to New Year belongs to earlier Happy Me naming and must not override this product
+brand: Rise.Shine.Evolve.
+universe: The Happy-Makers
+source_language: en
+edition:
+  label: published_english_paperback
+  publication_state: published
+  page_count: 104
+source_artifacts:
+  print_master:
+    filename: 24 Gentle Paperback ok.pdf
+    storage_class: connected_library_private_master
+    sha256: null
+    status: verified_source_reference
+  hardcover_cover:
+    filename: 24 Gentle Steps to Christmas COVER HARDCOVER.pdf
+    storage_class: connected_library_private_master
+    sha256: null
+    status: verified_cover_reference
+product_model:
+  format: family_advent_christmas_journey
+  approximate_daily_minutes: 10
+  recurring_rituals:
+    - Mindful Moment
+    - Fun Spark
+    - Family Connection
+localization:
+  pl_PL:
+    engine_repo: riseshineevolve-source/agency-agents
+    branch: rse/polish-localization-engine-v1
+    pr: 6
+    calibration_file: localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md
+    state: calibration_active
+    full_book_scaleout_authorized: false
+provenance:
+  recovered_date: 2026-09-17
+  verified_against_library_content: true
+  notes: >
+    Earlier recovery queue incorrectly treated this master as missing.
+    Later owner upload and direct content verification established the distinct
+    104-page Christmas book and hardcover cover reference.
