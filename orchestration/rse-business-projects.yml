@@ -1,4 +1,4 @@
-version: 13
+version: 14
 updated: 2026-09-18
 policy:
   routing: core_first_specialists_on_demand
@@ -16,6 +16,12 @@ policy:
   wave_2_may_consume_current_budget: false
   gifts_may_consume_current_budget: false
   generated_output_manifest_self_heal: .github/workflows/update-convert-manifest.yml
+  rse_brain_master: orchestration/brain/RSE_BRAIN_MASTER.md
+  rse_brain_decision_ledger: orchestration/brain/DECISION_LEDGER.md
+  rse_brain_program_registry: orchestration/brain/PROGRAM_REGISTRY.yml
+  rse_brain_source_registry: orchestration/brain/SOURCE_REGISTRY.yml
+  rse_brain_checkpoint_protocol: orchestration/brain/CHECKPOINT_PROTOCOL.md
+  brain_sync_cadence: three_times_daily_delta_sync
 wave_1:
   - rse_core
   - polish_engine
@@ -26,6 +32,29 @@ wave_1:
   - mind_bloom
   - opinie
 projects:
+  brand_business:
+    name: RSE Brand + Business Master Strategy
+    type: strategy_program
+    status: recovered_active_master_strategy
+    priority_wave: 1
+    execution_mode: central
+    brain_source: orchestration/brain/RSE_BRAIN_MASTER.md
+    working_positioning: Real-life skills, made playable.
+    primary_acquisition_audience: parents_caregivers_children_6_10
+    revenue_engine: RSE_CORE_Revenue_Engine_v1
+    next_gate: reconcile_brand_revenue_website_v2_into_owner_decision_packet
+  marketing_autopilot:
+    name: RSE Marketing Autopilot
+    type: growth_operations
+    status: recovered_architecture_pending_bootstrap
+    priority_wave: 1
+    execution_mode: central_with_connectors
+    planned_agents:
+      - RSE_Marketing_Orchestrator
+      - RSE_Paid_Growth_Controller
+      - RSE_KDP_Ads_Optimizer
+    connector_state: verify_on_use
+    next_gate: durable_marketing_brain_then_live_connector_verification
   rse_core:
     name: RSE Core Platform / Website / Business
     type: platform
