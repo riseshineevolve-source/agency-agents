@@ -19,6 +19,7 @@ ACCEPTED = [
     ROOT / "localization/pl-PL/golden-tests/published-book-controlled-pilot-day11.md",
     ROOT / "localization/pl-PL/golden-tests/published-book-bounded-batch-days05-20-25.md",
     ROOT / "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md",
+    ROOT / "localization/pl-PL/golden-tests/gentle-steps-christmas-week1-controlled-expansion.md",
 ]
 
 AIISMS = ROOT / "localization/pl-PL/FORBIDDEN_AIISMS_PL.yml"
