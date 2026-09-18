@@ -211,7 +211,7 @@ Misja: CZAT OFFLINE.
 Na następnej stronie narysuj dwie duże chmurki dialogowe.
 
 W pierwszej wpisz albo narysuj pytanie, na przykład:
-„Jaką supermoc najbardziej chciałbyś mieć?”
+„Gdyby można było wybrać dowolną supermoc, co by to było?”
 
 Podaj książkę komuś z domu i poproś, żeby odpowiedział w drugiej chmurce.
 Jeśli macie ochotę, prowadźcie papierową rozmowę dalej.
@@ -275,7 +275,7 @@ Prawdziwy tajny agent zauważa rzeczy, które łatwo przegapić.
 
 Na następnej stronie narysuj wielkie serce i zamień je w RADAR DOBRA.
 
-Pomyśl o osobach, które dziś spotkałeś.
+Pomyśl o osobach z dzisiejszego dnia.
 Kto wyglądał na zmęczonego?
 Kto był wyjątkowo cichy?
 Komu przydałby się uśmiech?
