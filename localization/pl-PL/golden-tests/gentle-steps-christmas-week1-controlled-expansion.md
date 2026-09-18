@@ -35,7 +35,7 @@ Powolny oddech to jedna z niewielu rzeczy, których nigdy nie próbuję przyspie
 ### Source-fidelity note
 Preserves the 4-in / 6-out / one-minute mechanic. The source metaphor of “the room breathing as one” is naturalized rather than translated literally.
 
-## ISKRA ZABAWY — RODZINNA ORKIESTRA DŹWIĘKÓW
+## ISKRA ZABAWY — RODZINNA SYMFONIA DŹWIĘKÓW
 
 Każdy głos się liczy. Nawet ten, który brzmi odrobinę podejrzanie.
 
@@ -52,7 +52,7 @@ Na koniec spróbujcie wykonać całość razem kilka razy.
 **Muzyczna uwaga Dilo:**
 Dodaj swój dźwięk z dumą. Nawet jeśli sam nie jesteś pewien, co właśnie powstało.
 
-## CHWILA BLISKOŚCI — CO LUBIĘ W TYM, ŻE JESTEŚMY „MY”
+## CHWILA BLISKOŚCI — CO LUBIĘ W NASZEJ RODZINIE
 
 Każda osoba kończy zdanie:
 
@@ -202,7 +202,7 @@ Ta wersja działa także przy dwóch osobach.
 **Skupiona uwaga Dilo:**
 Ten zegar nie przyjmuje spóźnień. Ani wymówek.
 
-## CHWILA BLISKOŚCI — DŹWIĘK DOMU, KTÓRY LUBIĘ
+## CHWILA BLISKOŚCI — MÓJ ULUBIONY DŹWIĘK DOMU
 
 Każdy podaje jeden dźwięk, który lubi słyszeć w domu i który kojarzy mu się dobrze.
 
@@ -262,7 +262,7 @@ Grajcie tak długo, jak macie ochotę.
 **Stabilna uwaga Luli:**
 Pochylamy się elegancko. Wielkie dramatyczne upadki zostawiamy na inną okazję.
 
-## CHWILA BLISKOŚCI — SŁOWO, KTÓRE MNIE USPOKAJA
+## CHWILA BLISKOŚCI — SŁOWO NA SPOKÓJ
 
 Każdy podaje jedno konkretne słowo albo krótkie zdanie, które lubi usłyszeć od kogoś z rodziny, kiedy potrzebuje trochę spokoju.
 
@@ -374,13 +374,13 @@ The six days keep different comic functions:
 
 REVIEW REQUIRED, not a blocker for corpus calibration.
 
-Potential long headings to test at real layout size:
-- `RODZINNA ORKIESTRA DŹWIĘKÓW`
-- `CO LUBIĘ W TYM, ŻE JESTEŚMY „MY”`
-- `DŹWIĘK DOMU, KTÓRY LUBIĘ`
-- `SŁOWO, KTÓRE MNIE USPOKAJA`
+The first text-length pass shortened four headings before layout work:
+- `RODZINNA SYMFONIA DŹWIĘKÓW`
+- `CO LUBIĘ W NASZEJ RODZINIE`
+- `MÓJ ULUBIONY DŹWIĘK DOMU`
+- `SŁOWO NA SPOKÓJ`
 
-Do not shrink body text to rescue headings. If needed, shorten the heading while preserving the activity function.
+These are now reasonable candidates for the compact daily surfaces, but final fit must still be checked in the real designed template. Do not shrink body text to rescue a heading.
 
 ## Claim / safety review
 
