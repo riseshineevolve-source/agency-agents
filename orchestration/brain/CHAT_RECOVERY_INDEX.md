@@ -107,3 +107,8 @@ If a recovered statement conflicts with:
 - newer owner instruction,
 
 the newer/stronger source wins and the contradiction goes to `CONFLICT_LOG.md`.
+
+## Explicit inaccessible-chat mapping
+
+- `6aa25505-d178-83eb-b1dd-d37d46e52184` — original central AI AGENTS lineage. Its operating model, project portfolio, localization, recovery and orchestration decisions are substantially represented by the recovered chat exports plus current GitHub state.
+- `6aaacfc1-f830-83ed-861b-8a08d7fd4f88` — **Senior App CI Watch**. The uploaded HTML exposes the conversation ID/title, while current durable Senior truth is PR #77 / Phase 14H plus recovered night-shift checkpoints. Do not rely on reopening this chat for continuation.
