@@ -18,9 +18,16 @@ ACCEPTED = [
     ROOT / "localization/pl-PL/golden-tests/published-book-calibration-round3.md",
     ROOT / "localization/pl-PL/golden-tests/published-book-controlled-pilot-day11.md",
     ROOT / "localization/pl-PL/golden-tests/published-book-bounded-batch-days05-20-25.md",
+    ROOT / "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md",
 ]
 
 AIISMS = ROOT / "localization/pl-PL/FORBIDDEN_AIISMS_PL.yml"
+
+CHRISTMAS_CALIBRATION_LABELS = [
+    "SPOKOJNA CHWILA",
+    "ISKRA ZABAWY",
+    "CHWILA BLISKOŚCI",
+]
 
 REQUIRED_LOCKED_LABELS = [
     "NIEZBĘDNIK",
@@ -80,23 +87,30 @@ def extract_final_sections(text: str) -> str:
             level = len(match.group(1))
             title = match.group(2).strip().lower()
 
-            if "final pl candidate" in title or title == "final pl":
+            if (
+                "final pl candidate" in title
+                or title == "final pl"
+                or title == "pl candidate"
+            ):
                 in_final = True
                 start_level = level
                 continue
 
-            if in_final and level <= start_level and any(
-                stop in title
-                for stop in (
-                    "qa",
-                    "source functions",
-                    "immutable",
-                    "review",
-                    "engine findings",
-                    "batch regression",
-                )
-            ):
-                in_final = False
+            if in_final:
+                if level < start_level:
+                    in_final = False
+                elif level == start_level and any(
+                    stop in title
+                    for stop in (
+                        "qa",
+                        "source functions",
+                        "immutable",
+                        "review",
+                        "engine findings",
+                        "batch regression",
+                    )
+                ):
+                    in_final = False
 
         if in_final:
             out.append(line)
@@ -164,6 +178,10 @@ def main() -> int:
         if label.lower() not in corpus_low:
             errors.append(f"LOCKED label missing from accepted corpus: {label!r}")
 
+    for label in CHRISTMAS_CALIBRATION_LABELS:
+        if label.lower() not in corpus_low:
+            errors.append(f"CHRISTMAS calibration label missing from accepted corpus: {label!r}")
+
     for phrase in load_aiisms():
         if phrase.lower() in corpus_low:
             errors.append(f"FORBIDDEN AI/translationese phrase in accepted corpus: {phrase!r}")
@@ -178,6 +196,7 @@ def main() -> int:
     print(f"Accepted fixtures checked: {len(ACCEPTED)}")
     print(f"Final candidate characters checked: {len(corpus)}")
     print(f"Locked labels verified: {len(REQUIRED_LOCKED_LABELS)}")
+    print(f"Christmas calibration labels verified: {len(CHRISTMAS_CALIBRATION_LABELS)}")
     return 0
 
 
