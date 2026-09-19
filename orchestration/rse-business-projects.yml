@@ -1,5 +1,5 @@
-version: 21
-updated: 2026-09-18
+version: 22
+updated: 2026-09-19
 policy:
   routing: core_first_specialists_on_demand
   default_max_active_roles: 4
@@ -22,6 +22,7 @@ policy:
   rse_brain_source_registry: orchestration/brain/SOURCE_REGISTRY.yml
   rse_brain_checkpoint_protocol: orchestration/brain/CHECKPOINT_PROTOCOL.md
   brain_sync_cadence: three_times_daily_delta_sync
+  day_shift_plan_2026_09_19: orchestration/shifts/2026-09-19-day-shift.md
 wave_1:
   - rse_core
   - polish_engine
@@ -72,7 +73,8 @@ projects:
     unstoppable_app_index_state: crawled_currently_not_indexed
     unstoppable_app_last_google_crawl: 2026-07-04
     seniors_index_state: url_unknown_to_google
-    fresh_index_check: 2026-09-18
+    fresh_index_check: 2026-09-19
+    public_search_rerun_2026_09_19: reports/ai-discovery/public-search-snapshot-2026-09-19.md
     indexnow_key_configured: false
     bing_webmaster_api_configured: false
     cloudflare_crawler_hints_state: unverified_from_current_tool_surface
@@ -243,14 +245,16 @@ projects:
     temporary_staging_branch: feat/opinie-offline-workbench-bootstrap
     temporary_staging_pr: 18
     tool_area: tools/opinie-offline-workbench
-    synthetic_ci_run: 25
-    synthetic_ci_head: 3bff62b9269e3bc1bccec5b6b4a792aac8720ca2
+    synthetic_ci_run: 31
+    synthetic_ci_head: a2fe149ed069b76a86a8f05c7ecb8716b14a5e23
     synthetic_ci_conclusion: success
     provenance_reference_integrity: pass
     explicit_unit_fail_closed_calculations: pass
     privacy_fixture_boundary: pass
     second_missing_measurement_fixture: pass
     review_packet_base_schema: pass
+    structured_source_schema: pass
+    source_immutability_hash_stability: pass
     final_expert_conclusion_automatic: false
     current_local_root: 'C:\Users\danie\AI_LOCAL\opinie'
     development_mode: github_online_with_synthetic_fixtures
