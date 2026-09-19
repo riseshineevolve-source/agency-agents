@@ -93,15 +93,17 @@ programs:
     draft_pr: 18
     production_runtime: local_offline
     real_data_remote_allowed: false
-    latest_live_ci_run: 55
-    latest_live_ci_head: de397dedd1ddfa35e8f9957f290cf7572782610f
+    latest_live_ci_run: 59
+    latest_live_ci_head: db756da31a2eb98533b4e6593fbc6a6c218c3ee9
     latest_live_ci_conclusion: PASS
     explicit_human_review_transitions: pass
     synthetic_evidence_ingest_normalization: pass
     non_json_ingest_payloads: fail_closed
     non_finite_ingest_numbers: fail_closed
+    deterministic_review_packet_serialization: pass
+    review_history_preserved_in_serialization: pass
     final_expert_conclusion_automatic: false
-    next_safe_slice: deterministic_review_packet_serialization
+    next_safe_slice: deterministic_review_packet_schema_roundtrip_hardening
   content_recovery:
     status: active
     policy: orchestration/RSE_CONTENT_SOURCE_POLICY.md
