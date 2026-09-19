@@ -1,4 +1,4 @@
-version: 22
+version: 23
 updated: 2026-09-19
 policy:
   routing: core_first_specialists_on_demand
@@ -211,7 +211,7 @@ projects:
       - final_data_safety_and_public_legal_resources
       - real_device_parent_child_pairing_restart_revoke_qa
       - age_6_8_usability_accessibility_review
-    central_last_synced: 2026-09-18
+    central_last_synced: 2026-09-19
   mind_bloom:
     name: Mind Bloom Assistant
     type: app
@@ -245,9 +245,13 @@ projects:
     temporary_staging_branch: feat/opinie-offline-workbench-bootstrap
     temporary_staging_pr: 18
     tool_area: tools/opinie-offline-workbench
-    synthetic_ci_run: 31
-    synthetic_ci_head: a2fe149ed069b76a86a8f05c7ecb8716b14a5e23
+    synthetic_ci_run: 63
+    synthetic_ci_run_id: 35466748244
+    synthetic_ci_head: b973797697516ec7bbbea6f2d42fbc7381d3a1b8
     synthetic_ci_conclusion: success
+    synthetic_ci_verified: 2026-09-19T20:14:13Z
+    temporary_pr_mergeable: true
+    temporary_pr_draft: true
     provenance_reference_integrity: pass
     explicit_unit_fail_closed_calculations: pass
     privacy_fixture_boundary: pass
@@ -255,12 +259,13 @@ projects:
     review_packet_base_schema: pass
     structured_source_schema: pass
     source_immutability_hash_stability: pass
+    review_packet_roundtrip_validation: pass
     final_expert_conclusion_automatic: false
     current_local_root: 'C:\Users\danie\AI_LOCAL\opinie'
     development_mode: github_online_with_synthetic_fixtures
     production_runtime: local_offline
     remote_real_case_data_allowed: false
-    next_gate: expand_synthetic_provenance_calculation_pipeline_then_migrate_to_dedicated_repo
+    next_gate: preserve_green_human_gated_boundary_then_migrate_to_dedicated_repo_when_creation_is_available
 wave_2_lovable_apps:
   happy_makers_quest:
     repo: riseshineevolve-source/happy-makers-quest
