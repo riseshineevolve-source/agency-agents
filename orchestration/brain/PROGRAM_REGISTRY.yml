@@ -93,8 +93,11 @@ programs:
     draft_pr: 18
     production_runtime: local_offline
     real_data_remote_allowed: false
-    latest_live_ci_run: 33
+    latest_live_ci_run: 47
+    latest_live_ci_head: 5a6475e6c8f3d2342643b1c876b68f3e1a2f1296
     latest_live_ci_conclusion: PASS
+    explicit_human_review_transitions: pass
+    final_expert_conclusion_automatic: false
     next_safe_slice: synthetic_evidence_ingest_normalization
   content_recovery:
     status: active
