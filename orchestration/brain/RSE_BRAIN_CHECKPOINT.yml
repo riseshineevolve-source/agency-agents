@@ -129,8 +129,15 @@ execution_shift_2026_09_19:
     production_supabase_status: INACTIVE
     silent_restore_performed: false
   opinie:
-    synthetic_ci_run_33: PASS
-    live_verified_head: 500e941c80fb5c686f9fe4cd9baa244aa711165b
+    synthetic_ci_run_59: PASS
+    live_verified_head: db756da31a2eb98533b4e6593fbc6a6c218c3ee9
+    draft_pr: 18
+    draft_pr_mergeable: true
     structured_source_schema: PASS
     source_immutability_hash_stability: PASS
-    note: live CI advanced beyond project-local checkpoint run 31; central truth synchronized without touching real data
+    deterministic_calculation_provenance: PASS
+    human_review_state_transitions: PASS
+    deterministic_review_packet_serialization: PASS
+    automatic_final_conclusion: false
+    real_case_data_remote_allowed: false
+    note: live CI and central truth synchronized without touching real data
