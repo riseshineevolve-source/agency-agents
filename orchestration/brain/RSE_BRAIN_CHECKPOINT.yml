@@ -1,5 +1,5 @@
 version: 6
-updated: 2026-09-19
+updated: 2026-09-20
 status: PASS
 checkpoint_type: full_chat_history_reconciliation_and_brain_rebuild
 authority:
@@ -129,8 +129,8 @@ execution_shift_2026_09_19:
     production_supabase_status: INACTIVE
     silent_restore_performed: false
   opinie:
-    synthetic_ci_run_59: PASS
-    live_verified_head: db756da31a2eb98533b4e6593fbc6a6c218c3ee9
+    synthetic_ci_run_63: PASS
+    live_verified_head: b973797697516ec7bbbea6f2d42fbc7381d3a1b8
     draft_pr: 18
     draft_pr_mergeable: true
     structured_source_schema: PASS
@@ -138,6 +138,7 @@ execution_shift_2026_09_19:
     deterministic_calculation_provenance: PASS
     human_review_state_transitions: PASS
     deterministic_review_packet_serialization: PASS
+    review_packet_roundtrip_hardening: PASS
     automatic_final_conclusion: false
     real_case_data_remote_allowed: false
-    note: live CI and central truth synchronized without touching real data
+    note: latest synthetic CI verified 2026-09-19T20:14Z; no real case data touched
