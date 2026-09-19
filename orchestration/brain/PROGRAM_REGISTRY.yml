@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-09-19
+updated: 2026-09-20
 brain_status: canonical
 global:
   master_brand: Rise.Shine.Evolve.
@@ -93,8 +93,8 @@ programs:
     draft_pr: 18
     production_runtime: local_offline
     real_data_remote_allowed: false
-    latest_live_ci_run: 59
-    latest_live_ci_head: db756da31a2eb98533b4e6593fbc6a6c218c3ee9
+    latest_live_ci_run: 63
+    latest_live_ci_head: b973797697516ec7bbbea6f2d42fbc7381d3a1b8
     latest_live_ci_conclusion: PASS
     explicit_human_review_transitions: pass
     synthetic_evidence_ingest_normalization: pass
@@ -102,8 +102,9 @@ programs:
     non_finite_ingest_numbers: fail_closed
     deterministic_review_packet_serialization: pass
     review_history_preserved_in_serialization: pass
+    review_packet_schema_roundtrip_hardening: pass
     final_expert_conclusion_automatic: false
-    next_safe_slice: deterministic_review_packet_schema_roundtrip_hardening
+    next_safe_slice: preserve_green_human_gate_and_avoid_speculative_states
   content_recovery:
     status: active
     policy: orchestration/RSE_CONTENT_SOURCE_POLICY.md
