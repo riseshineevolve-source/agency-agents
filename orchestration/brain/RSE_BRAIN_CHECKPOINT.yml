@@ -129,6 +129,8 @@ execution_shift_2026_09_19:
     production_supabase_status: INACTIVE
     silent_restore_performed: false
   opinie:
-    synthetic_ci_run_31: PASS
+    synthetic_ci_run_33: PASS
+    live_verified_head: 500e941c80fb5c686f9fe4cd9baa244aa711165b
     structured_source_schema: PASS
     source_immutability_hash_stability: PASS
+    note: live CI advanced beyond project-local checkpoint run 31; central truth synchronized without touching real data
