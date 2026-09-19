@@ -73,12 +73,19 @@ programs:
     status: active_dedicated_execution
     repo: riseshineevolve-source/mind-bloom-assistant
     current_pr: 2
-    completed_phase: Phase_1G
-    completed_slice: Phase_1H_A_Daily_Brief_Attention_Engine_V0
-    active_slice: Phase_1H_B_Inbox_to_Life_Admin_Promotion
+    completed_phase: Phase_1H_local_implementation
+    completed_slices:
+      - Phase_1H_A_Daily_Brief_Attention_Engine_V0
+      - Phase_1H_B_Inbox_to_Life_Admin_Promotion
+      - Phase_1H_C_Inbox_to_People_Promotion
+    active_slice: remote_activation_review_for_1H_B_then_1H_C
+    optional_next_local_slice: Phase_1H_D_search_not_started
     people_memory_remote_migration: 20260918160000_add_people_memory_v0
-    remote_schema_state: verified_active
+    remote_schema_state: people_memory_verified_active
     phase_1h_a_remote_sql_required: false
+    phase_1h_b_remote_sql: reviewed_pending_activation
+    phase_1h_c_remote_sql: reviewed_pending_activation_requires_1h_b_first
+    latest_local_verification: 80_files_402_tests_typescript_eslint_build_pass
   opinie:
     status: active_synthetic_bootstrap
     staging_repo: riseshineevolve-source/riseshineevolve
