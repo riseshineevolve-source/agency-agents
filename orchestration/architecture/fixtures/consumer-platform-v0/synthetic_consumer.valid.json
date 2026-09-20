@@ -1,0 +1,79 @@
+{
+  "schema_version": "0.1.0",
+  "accounts": [
+    {
+      "account_id": "00000000-0000-4000-8000-000000000001",
+      "locale": "en"
+    },
+    {
+      "account_id": "00000000-0000-4000-8000-000000000002",
+      "locale": "pl-PL"
+    }
+  ],
+  "profiles": [
+    {
+      "profile_id": "profile-a1",
+      "account_id": "00000000-0000-4000-8000-000000000001",
+      "locale": "en"
+    },
+    {
+      "profile_id": "profile-b1",
+      "account_id": "00000000-0000-4000-8000-000000000002",
+      "locale": "pl-PL"
+    }
+  ],
+  "products": [
+    {
+      "product_id": "world_01"
+    },
+    {
+      "product_id": "world_02"
+    },
+    {
+      "product_id": "gentle_steps_christmas"
+    }
+  ],
+  "progress": [
+    {
+      "profile_id": "profile-a1",
+      "product_id": "world_01",
+      "content_item_id": "mission_001",
+      "state": "completed",
+      "sync_revision": 2
+    },
+    {
+      "profile_id": "profile-a1",
+      "product_id": "world_02",
+      "content_item_id": "mission_001",
+      "state": "not_started",
+      "sync_revision": 0
+    },
+    {
+      "profile_id": "profile-b1",
+      "product_id": "world_02",
+      "content_item_id": "mission_001",
+      "state": "in_progress",
+      "sync_revision": 1
+    }
+  ],
+  "entitlements": [
+    {
+      "account_id": "00000000-0000-4000-8000-000000000001",
+      "product_id": "world_01",
+      "entitlement_type": "full_product",
+      "source": "google_play",
+      "authority": "server_verified",
+      "external_purchase_ref_hash": "synthetic-hash-world01-a",
+      "revoked_at": null
+    },
+    {
+      "account_id": "00000000-0000-4000-8000-000000000002",
+      "product_id": "world_02",
+      "entitlement_type": "full_product",
+      "source": "google_play",
+      "authority": "server_verified",
+      "external_purchase_ref_hash": "synthetic-hash-world02-b",
+      "revoked_at": null
+    }
+  ]
+}
