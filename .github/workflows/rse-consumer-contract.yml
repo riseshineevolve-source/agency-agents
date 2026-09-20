@@ -1,0 +1,35 @@
+name: RSE Consumer Contract
+
+on:
+  push:
+    paths:
+      - 'scripts/validate-rse-consumer-contract.py'
+      - 'scripts/test-rse-consumer-contract.py'
+      - 'orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md'
+      - 'orchestration/architecture/fixtures/consumer-platform-v0/**'
+      - '.github/workflows/rse-consumer-contract.yml'
+  pull_request:
+    paths:
+      - 'scripts/validate-rse-consumer-contract.py'
+      - 'scripts/test-rse-consumer-contract.py'
+      - 'orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md'
+      - 'orchestration/architecture/fixtures/consumer-platform-v0/**'
+
+permissions:
+  contents: read
+
+jobs:
+  validate-consumer-contract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate canonical synthetic consumer fixture
+        run: python scripts/validate-rse-consumer-contract.py orchestration/architecture/fixtures/consumer-platform-v0/synthetic_consumer.valid.json
+      - name: Run identity and entitlement fail-closed tests
+        run: python scripts/test-rse-consumer-contract.py
