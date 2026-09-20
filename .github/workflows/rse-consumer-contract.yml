@@ -7,11 +7,14 @@ on:
       - 'scripts/test-rse-consumer-contract.py'
       - 'scripts/test-rse-consumer-security-boundaries.py'
       - 'scripts/test-rse-consumer-privacy-lifecycle.py'
+      - 'scripts/test-rse-consumer-supabase-policy-contract.py'
       - 'orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md'
       - 'orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md'
       - 'orchestration/architecture/RSE_CONSUMER_AUTHORIZATION_MATRIX_V0.md'
       - 'orchestration/architecture/RSE_OFFLINE_SYNC_CONFLICT_POLICY_V0.md'
       - 'orchestration/architecture/RSE_CONSUMER_PRIVACY_LIFECYCLE_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_SUPABASE_RLS_POLICY_MAP_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_SUPABASE_SQL_TEST_PLAN_V0.md'
       - 'orchestration/architecture/fixtures/consumer-platform-v0/**'
       - '.github/workflows/rse-consumer-contract.yml'
   pull_request:
@@ -20,11 +23,14 @@ on:
       - 'scripts/test-rse-consumer-contract.py'
       - 'scripts/test-rse-consumer-security-boundaries.py'
       - 'scripts/test-rse-consumer-privacy-lifecycle.py'
+      - 'scripts/test-rse-consumer-supabase-policy-contract.py'
       - 'orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md'
       - 'orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md'
       - 'orchestration/architecture/RSE_CONSUMER_AUTHORIZATION_MATRIX_V0.md'
       - 'orchestration/architecture/RSE_OFFLINE_SYNC_CONFLICT_POLICY_V0.md'
       - 'orchestration/architecture/RSE_CONSUMER_PRIVACY_LIFECYCLE_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_SUPABASE_RLS_POLICY_MAP_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_SUPABASE_SQL_TEST_PLAN_V0.md'
       - 'orchestration/architecture/fixtures/consumer-platform-v0/**'
 
 permissions:
@@ -47,3 +53,5 @@ jobs:
         run: python scripts/test-rse-consumer-security-boundaries.py
       - name: Run privacy lifecycle and account-linking tests
         run: python scripts/test-rse-consumer-privacy-lifecycle.py
+      - name: Run Supabase RLS policy-map contract tests
+        run: python scripts/test-rse-consumer-supabase-policy-contract.py
