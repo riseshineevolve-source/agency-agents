@@ -44,7 +44,9 @@ programs:
   polish_localization:
     status: calibrated_with_second_corpus
     branch: rse/polish-localization-engine-v1
-    pr: 6
+    repo: live_verify_required_before_write
+    pr: null
+    registry_note: previous PR 6 mapping was stale and belonged to an unrelated 2025 website copy change; do not use it for localization execution
     full_book_scaleout_authorized: false
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
