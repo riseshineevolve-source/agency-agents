@@ -1,5 +1,5 @@
-version: 23
-updated: 2026-09-19
+version: 24
+updated: 2026-09-20
 policy:
   routing: core_first_specialists_on_demand
   default_max_active_roles: 4
@@ -66,14 +66,15 @@ projects:
     execution_mode: central
     ai_discovery_issue: 584
     c1_guides_gsc_indexed: 4_of_4
-    c1_guides_indexed_verified: 2026-09-18
+    c1_guides_indexed_verified: 2026-09-20
     public_search_rerun: reports/ai-discovery/public-search-snapshot-2026-09-18.md
     adventure_app_index_state: crawled_currently_not_indexed
     adventure_app_last_google_crawl: 2026-06-16
     unstoppable_app_index_state: crawled_currently_not_indexed
     unstoppable_app_last_google_crawl: 2026-07-04
-    seniors_index_state: url_unknown_to_google
-    fresh_index_check: 2026-09-19
+    seniors_index_state: discovered_currently_not_indexed
+    seniors_last_google_crawl: null
+    fresh_index_check: 2026-09-20
     public_search_rerun_2026_09_19: reports/ai-discovery/public-search-snapshot-2026-09-19.md
     indexnow_key_configured: false
     bing_webmaster_api_configured: false
