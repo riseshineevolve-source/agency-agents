@@ -38,6 +38,7 @@ Define the intended systems architecture for bringing RSE public apps online in 
    - products are structured content packs rather than independent codebases where feasible;
    - World 01 is the intended first factory pilot once its source is approved for app conversion;
    - World 02 and 24 Gentle Steps should reuse the proven engine rather than fork it.
+   - versioned content contract: `orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md`.
 
 3. **Localization**
    - one app binary/product listing architecture per product, not separate PL and EN apps by default;
@@ -102,7 +103,9 @@ Never rely on client-provided product ownership without server-side verification
 
 ## Factory content contract direction
 
-A reusable content pack should separate:
+The current synthetic-only v0 contract is `RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md`. It defines the language-neutral envelope, localized-copy separation, asset references, progress direction, entitlement boundary, localization gates, deterministic validator requirements and synthetic acceptance fixtures.
+
+A reusable content pack separates:
 - language-neutral IDs and activity semantics;
 - EN canonical copy;
 - pl-PL approved copy;
@@ -118,7 +121,7 @@ Do not duplicate application business logic merely to localize content.
 
 1. Preserve/finish current Wave 1 apps and external gates.
 2. Specify RSE Consumer identity/progress/entitlement schema using synthetic fixtures only.
-3. Specify Interactive Book Factory content schema and renderer contract.
+3. Specify Interactive Book Factory content schema and renderer contract. **Content contract v0 is now specified; deterministic synthetic validator/fixture implementation remains the next safe factory slice.**
 4. Select/approve World 01 as first conversion pilot.
 5. Build and verify EN pilot offline-first.
 6. Pass stable EN source through Polish Localization Engine and bilingual QA.
