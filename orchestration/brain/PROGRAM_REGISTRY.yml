@@ -1,4 +1,4 @@
-version: 8
+version: 9
 updated: 2026-09-20
 brain_status: canonical
 global:
@@ -29,21 +29,26 @@ programs:
       - major_redesign
       - paid_ads_activation
   consumer_platform:
-    status: privacy_authorization_offline_contracts_verified_green
+    status: supabase_rls_policy_contract_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
     synthetic_data_contract_v0: orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md
     entitlement_model_v0: orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md
     authorization_matrix_v0: orchestration/architecture/RSE_CONSUMER_AUTHORIZATION_MATRIX_V0.md
     offline_sync_policy_v0: orchestration/architecture/RSE_OFFLINE_SYNC_CONFLICT_POLICY_V0.md
     privacy_lifecycle_v0: orchestration/architecture/RSE_CONSUMER_PRIVACY_LIFECYCLE_V0.md
+    supabase_rls_policy_map_v0: orchestration/architecture/RSE_CONSUMER_SUPABASE_RLS_POLICY_MAP_V0.md
+    supabase_sql_test_plan_v0: orchestration/architecture/RSE_CONSUMER_SUPABASE_SQL_TEST_PLAN_V0.md
     synthetic_fixture: orchestration/architecture/fixtures/consumer-platform-v0/synthetic_consumer.valid.json
     validator: scripts/validate-rse-consumer-contract.py
     regression_tests: scripts/test-rse-consumer-contract.py
     security_boundary_tests: scripts/test-rse-consumer-security-boundaries.py
     privacy_lifecycle_tests: scripts/test-rse-consumer-privacy-lifecycle.py
+    supabase_policy_contract_tests: scripts/test-rse-consumer-supabase-policy-contract.py
     contract_ci_run: 35531884239
     contract_ci_conclusion: PASS
-    verified_head: cbbfebe02161c96832ac8aadd5d385be2990ca2e
+    supabase_policy_contract_ci_run: 35535228276
+    supabase_policy_contract_ci_conclusion: PASS
+    verified_head: f6692f0934f0dacaa5504e1948b8a0e2b0ebdce1
     identity_is_not_entitlement: true
     product_scoped_entitlements_required: true
     cross_user_isolation_contract: verified_synthetic
@@ -58,6 +63,8 @@ programs:
     deletion_lifecycle_server_authoritative: true
     email_is_ownership_key: false
     separate_domain_deletion_implicit: false
+    supabase_rls_contract: verified_synthetic
+    supabase_remote_deployment_authorized: false
     shared_backend_candidates:
       - rse_consumer_account_surfaces
       - world_01
@@ -73,7 +80,7 @@ programs:
     no_new_backend_without_justification: true
     paid_project_creation_owner_gated: true
     deployment_authorized: false
-    next_safe_slice: define_backend_neutral_supabase_rls_policy_mapping_and_sql_test_plan_without_deploying_live_resources
+    next_safe_slice: prototype_local_ephemeral_supabase_sql_fixture_without_live_backend_or_real_data
   interactive_book_factory:
     status: synthetic_contract_v0_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
