@@ -1,4 +1,4 @@
-version: 6
+version: 7
 updated: 2026-09-20
 status: PASS
 checkpoint_type: full_chat_history_reconciliation_and_brain_rebuild
@@ -142,3 +142,20 @@ execution_shift_2026_09_19:
     automatic_final_conclusion: false
     real_case_data_remote_allowed: false
     note: latest synthetic CI verified 2026-09-19T20:14Z; no real case data touched
+
+consumer_platform_factory_2026_09_20:
+  architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
+  synthetic_data_contract: orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md
+  entitlement_model: orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md
+  identity_is_not_entitlement: true
+  product_scoped_entitlements_required: true
+  shared_account_does_not_unlock_unpurchased_products: true
+  synthetic_fixture: orchestration/architecture/fixtures/consumer-platform-v0/synthetic_consumer.valid.json
+  consumer_contract_ci_run: 35530744577
+  consumer_contract_ci_conclusion: PASS
+  interactive_book_contract_ci_run: 35525269062
+  interactive_book_contract_ci_conclusion: PASS
+  happy_me_default_boundary: separate_family_child_sensitive_security_domain
+  mind_bloom_commercial_status: private_owner_only
+  deployment_authorized: false
+  next_safe_slice: backend_neutral_rls_authorization_matrix_and_offline_conflict_rules
