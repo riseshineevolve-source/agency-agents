@@ -1,4 +1,4 @@
-version: 6
+version: 7
 updated: 2026-09-20
 brain_status: canonical
 global:
@@ -29,19 +29,21 @@ programs:
       - major_redesign
       - paid_ads_activation
   consumer_platform:
-    status: authorization_and_offline_boundaries_verified_green
+    status: privacy_authorization_offline_contracts_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
     synthetic_data_contract_v0: orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md
     entitlement_model_v0: orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md
     authorization_matrix_v0: orchestration/architecture/RSE_CONSUMER_AUTHORIZATION_MATRIX_V0.md
     offline_sync_policy_v0: orchestration/architecture/RSE_OFFLINE_SYNC_CONFLICT_POLICY_V0.md
+    privacy_lifecycle_v0: orchestration/architecture/RSE_CONSUMER_PRIVACY_LIFECYCLE_V0.md
     synthetic_fixture: orchestration/architecture/fixtures/consumer-platform-v0/synthetic_consumer.valid.json
     validator: scripts/validate-rse-consumer-contract.py
     regression_tests: scripts/test-rse-consumer-contract.py
     security_boundary_tests: scripts/test-rse-consumer-security-boundaries.py
-    contract_ci_run: 35531758753
+    privacy_lifecycle_tests: scripts/test-rse-consumer-privacy-lifecycle.py
+    contract_ci_run: 35531884239
     contract_ci_conclusion: PASS
-    verified_head: 4bfdc92b5c2c8d44faae9c3def72781362ca3be0
+    verified_head: cbbfebe02161c96832ac8aadd5d385be2990ca2e
     identity_is_not_entitlement: true
     product_scoped_entitlements_required: true
     cross_user_isolation_contract: verified_synthetic
@@ -51,6 +53,11 @@ programs:
     offline_progress_merge: monotonic
     generic_last_write_wins: forbidden
     guest_link_grants_entitlement: false
+    guest_link_idempotent: verified_synthetic
+    privacy_export_cross_user_leak: denied_by_contract
+    deletion_lifecycle_server_authoritative: true
+    email_is_ownership_key: false
+    separate_domain_deletion_implicit: false
     shared_backend_candidates:
       - rse_consumer_account_surfaces
       - world_01
@@ -66,7 +73,7 @@ programs:
     no_new_backend_without_justification: true
     paid_project_creation_owner_gated: true
     deployment_authorized: false
-    next_safe_slice: define_backend_neutral_privacy_deletion_export_and_account_linking_contracts_before_any_live_backend
+    next_safe_slice: define_backend_neutral_supabase_rls_policy_mapping_and_sql_test_plan_without_deploying_live_resources
   interactive_book_factory:
     status: synthetic_contract_v0_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
