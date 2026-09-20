@@ -78,3 +78,15 @@ Execution ownership updated:
 - Fresh live Supabase read reports that exact project as **INACTIVE**. The release matrix now records backend restoration/activation as a concrete prerequisite before real auth/device testing. Silent restore was not performed because activation may have billing implications.
 - Opinie added a second missing-measurement/conflicting-evidence fixture plus a deterministic human-review support packet that refuses pre-filled final conclusions.
 - Fresh Opinie synthetic CI **run #25 PASS**.
+
+## 2026-09-20 — RSE Consumer Platform + App Factory locked
+
+- Promoted the shared RSE Consumer Platform + bilingual Interactive Book App Factory into the canonical Brain and Decision Ledger.
+- Locked the security rule **identity != entitlement**: one shared RSE login never grants ownership of every RSE product.
+- Added a product-scoped entitlement contract keyed by account + product; client-side premium claims fail closed.
+- Added synthetic consumer fixture, deterministic validator, fail-closed regression tests and GitHub Actions workflow.
+- Fresh **RSE Consumer Contract run #35530744577 PASS** verifies the shared-account / separate-product-entitlement invariant with synthetic data only.
+- Interactive Book content contract remains independently green on run #35525269062.
+- Happy Me remains a separate family/child-sensitive security domain by default; consolidation requires explicit privacy/security review and owner approval.
+- Mind Bloom remains private owner-only and outside the commercial consumer platform.
+- No backend was created/restored, no paid resource activated, no real users/data migrated, and no real World 01/02/Gentle Steps content converted.
