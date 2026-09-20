@@ -12,9 +12,10 @@ global:
   chat_is_source_of_truth: false
 programs:
   brand_and_business:
-    status: active_master_strategy
+    status: owner_decision_packet_ready
     execution_owner: central_orchestrator
-    next_gate: reconcile_brand_revenue_website_v2_into_owner_decision_packet
+    owner_gate_packet: orchestration/owner-gates/BRAND_REVENUE_WEBSITE_V2_DECISION_PACKET.md
+    next_gate: owner_resolve_D1_D4_before_website_v2_english_freeze
   revenue_engine:
     status: strategic_foundation_recovered
     name: RSE CORE Revenue Engine v1
