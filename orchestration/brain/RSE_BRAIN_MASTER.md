@@ -188,7 +188,39 @@ AI Discovery principles:
 
 Current measurement state is tracked in the central project registry and issue #584.
 
-## 7. Marketing Automation
+## 7. RSE Consumer Platform + Bilingual App Factory
+
+Target public-app architecture:
+- one shared RSE Consumer identity/data platform for ordinary public consumer apps where justified;
+- World 01 is the intended first real factory pilot after source approval;
+- World 02 and 24 Gentle Steps to Christmas should reuse the same proven runtime/content contract;
+- English + Polish live in one product/runtime by default, with language-neutral content IDs;
+- offline-first for core content where feasible;
+- guest-first allowed where account creation is not genuinely required;
+- no new Supabase/Firebase project merely because a new app exists.
+
+Identity and paid access are deliberately separate:
+- authentication answers **who is this account?**
+- entitlement answers **which exact product/content may this account access?**
+- one RSE login never implies ownership of every RSE app;
+- product access is keyed by account + product and must fail closed when the matching server-authoritative entitlement is absent;
+- client-only premium flags are forbidden.
+
+Current durable contracts:
+- `orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md`
+- `orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md`
+- `orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md`
+- `orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md`
+
+Security-domain boundaries:
+- Happy Me remains separate by default because family/child-sensitive profiles, child-device least privilege, consent/safeguarding/media/deletion concerns increase blast-radius and authorization risk;
+- Senior retains its current Firebase-oriented architecture unless explicitly redesigned;
+- Mind Bloom is private owner-only and outside the commercial consumer platform;
+- Opinie real data, Smart CV and Domowe Finanse remain outside the consumer cloud boundary.
+
+Happy Me separation is a risk-control architecture decision, not a claim that shared infrastructure is technically impossible. Consolidation would require an explicit privacy/security review proving equivalent isolation.
+
+## 8. Marketing Automation
 
 Target model:
 
@@ -243,7 +275,7 @@ Historical working budget proposal exists in recovered chat material, but future
 
 Connector status from recovered history is NOT assumed permanently. Metricool / Creative Claw / Windsor state must be live-verified before use.
 
-## 8. Polish Localization Engine
+## 9. Polish Localization Engine
 
 Goal:
 **English original -> Polish native edition**
@@ -281,7 +313,7 @@ Current accepted evidence:
 Core rule:
 fidelity of intent > fidelity of syntax, but meaning/claims are locked.
 
-## 9. Product portfolio
+## 10. Product portfolio
 
 Wave 1:
 - RSE Core / Website / AI Discovery
@@ -313,7 +345,7 @@ Outside current business build queue:
 - Job Search tooling
 - Family Finance
 
-## 10. Detective Academy
+## 11. Detective Academy
 
 Current product source:
 - 20 native Shigai candidates recovered,
@@ -333,7 +365,7 @@ final spatial-map visual standard before mass conversion.
 
 English release candidate first, strict preflight, then Polish.
 
-## 11. Happy Me Adventures
+## 12. Happy Me Adventures
 
 Do not rebuild from scratch.
 
@@ -343,7 +375,7 @@ Source-only gates have been heavily exercised; remaining work depends on externa
 
 Commercial model, pricing, major redesign and store publication remain owner gates.
 
-## 12. Optical Animals
+## 13. Optical Animals
 
 Project mode:
 **CURATION -> FINAL 20 LOCK -> AUTOMATED BOOK CREATION**
@@ -356,7 +388,7 @@ Current source-manager truth:
 - old Book Creator roster containing duck/red panda/chameleon/old slot is superseded.
 - final PDF must use only the canonical final-source folder after owner promotion.
 
-## 13. Senior / Hello Today
+## 14. Senior / Hello Today
 
 Current execution owner: Central RSE Orchestrator.
 
@@ -373,7 +405,7 @@ Hard locks:
 - revoke supported,
 - Child Mode remains production disabled until external/legal/human gates pass.
 
-## 14. Mind Bloom
+## 15. Mind Bloom
 
 Dedicated execution project, single implementation owner.
 
@@ -399,7 +431,7 @@ Security state recovered:
 
 Media recovery history includes reviewed import pipeline and Netflix CSV importer; more import work is staged by the dedicated project.
 
-## 15. Opinie
+## 16. Opinie
 
 Privacy model evolved and must be stated precisely:
 
@@ -426,7 +458,7 @@ Target pipeline:
 
 Final expert conclusion always requires human review.
 
-## 16. Content-source architecture
+## 17. Content-source architecture
 
 GitHub stores the "brain" of books/products:
 - manifests,
@@ -451,7 +483,7 @@ Recovered book-source work includes:
 
 `24 Gentle Steps to Christmas` is now recovered as a verified 104-page English paperback source (`24 Gentle Paperback ok.pdf`) with a hardcover cover reference in the connected Library. The earlier missing-master state is SUPERSEDED. A canonical content-source manifest now lives at `orchestration/content-sources/24-gentle-steps-to-christmas.yml`.
 
-## 17. Continuity invariant
+## 18. Continuity invariant
 
 No RSE project may depend on "remembering which chat had the answer."
 
