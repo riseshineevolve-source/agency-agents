@@ -31,7 +31,7 @@ Excluded domains:
 2. No child email/password identity is required by this contract.
 3. Language-neutral IDs bind EN and pl-PL versions of the same semantic content.
 4. Progress is always product + content-pack scoped.
-5. Paid ownership is never trusted from a client-only flag.
+5. Paid ownership is never trusted from a client-only flag; authentication identity and product entitlement are separate.
 6. Cloud sync is optional; offline progress must remain usable without it.
 7. Deletion/export state must be representable before production auth is enabled.
 8. RLS/authorization tests must prove cross-user and cross-product isolation before deployment.
@@ -121,12 +121,15 @@ Fields:
 - product_id
 - entitlement_type
 - source: e.g. `google_play`
+- authority: `server_verified`
 - external_purchase_ref_hash
 - verified_at
 - valid_until: nullable
 - revoked_at: nullable
 
 Raw purchase credentials/tokens must not be exposed to clients after verification or committed to GitHub fixtures.
+
+A shared RSE login never acts as a wildcard entitlement. Account A may authenticate in multiple RSE apps while holding an entitlement only for World 01. World 02 must remain locked until a separate valid World 02 entitlement exists.
 
 ### sync_state
 Fields:
@@ -163,7 +166,7 @@ No fixture may contain a real email, name, transaction, child detail, CV datum, 
 2. Account A progress for World 01 cannot mutate World 02 progress accidentally.
 3. Guest progress can function locally without creating an auth user.
 4. Linking guest progress to an account is explicit and idempotent.
-5. Client cannot self-grant an entitlement.
+5. Client cannot self-grant an entitlement, and a World 01 entitlement cannot unlock World 02.
 6. Revoked entitlement blocks protected cloud access without destroying legitimate local data unexpectedly.
 7. Deletion request can enumerate all shared-consumer records owned by the account.
 8. Unsupported locale fails safely to canonical EN rather than binding the wrong content ID.
