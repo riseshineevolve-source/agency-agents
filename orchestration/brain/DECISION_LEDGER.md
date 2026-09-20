@@ -1,7 +1,7 @@
 # RSE Decision Ledger
 
 Status: CANONICAL DECISIONS
-Last reconciled: 2026-09-18
+Last reconciled: 2026-09-20
 
 This file records decisions that must not disappear when chats become inaccessible.
 
@@ -47,6 +47,21 @@ This file records decisions that must not disappear when chats become inaccessib
 - [LOCKED] Do not invent Play URLs, prices, dates or badges.
 - [LOCKED] Use Coming Soon until verified store data exists.
 - [LOCKED] Seniors navigation comes after Adults.
+
+## RSE Consumer Platform / App Factory
+
+- [CURRENT] Ordinary public RSE apps should reuse one shared Consumer Platform unless a documented privacy/security/operational reason requires isolation.
+- [LOCKED] A shared RSE account is identity only; successful login does not grant ownership of every product.
+- [LOCKED] Paid/product access is product-scoped and must require a matching server-authoritative entitlement for the exact `account_id + product_id`.
+- [LOCKED] No global account-level `is_premium` flag may unlock unrelated RSE products.
+- [LOCKED] Client-only entitlement claims are never authoritative.
+- [CURRENT] World 01 is the intended first Interactive Book Factory pilot after source approval; World 02 and 24 Gentle Steps to Christmas should reuse the proven runtime/content contract.
+- [CURRENT] Public book/content apps are bilingual EN + pl-PL in one product by default, using language-neutral IDs and separate localized copy.
+- [CURRENT] Offline-first and guest-first are defaults where product/privacy requirements allow them.
+- [LOCKED] No agent creates a new Supabase/Firebase/backend project solely because a new app exists; reuse must be evaluated first.
+- [CURRENT] Happy Me remains a separate family/child-sensitive backend domain by default to reduce authorization blast radius and isolate consent/safeguarding/child-device/media risks.
+- [OWNER GATE] Combining Happy Me with the shared Consumer Platform requires explicit privacy/security review and owner approval.
+- [LOCKED] Mind Bloom remains private owner-only and is not silently converted into a commercial consumer app.
 
 ## AI Discovery
 
