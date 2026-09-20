@@ -1,4 +1,4 @@
-version: 7
+version: 8
 updated: 2026-09-20
 brain_status: canonical
 global:
@@ -152,8 +152,14 @@ programs:
       - Phase_1H_B_Inbox_to_Life_Admin_Promotion
       - Phase_1H_C_Inbox_to_People_Promotion
       - Phase_1H_D_Universal_Chief_of_Staff_Search
-    active_slice: Phase_2A_integration_foundation
-    current_remote_head: 5b365d6eb41572d25a054da9047ad6e18bbad6f1
+      - Phase_2A_0_Integration_Architecture_Threat_Model
+      - Phase_2A_1_Metadata_Only_Integration_Foundation
+    active_slice: Phase_2A_2_reviewed_external_ingestion_contract
+    current_remote_head: 5d4bd43d01c8c0ec26daf1d777698dc4957e672f
+    latest_product_slice_head: f4f691d89b236464daca55b3dc65b18b5ed7628f
+    latest_live_ci_run: 68
+    latest_live_ci_head: 5d4bd43d01c8c0ec26daf1d777698dc4957e672f
+    latest_live_ci_conclusion: failure_before_runner_steps
     latest_verified_ci_run: 65
     latest_verified_ci_conclusion: success
     local_worktree_must_be_inspected_before_reset_pull_rebase: true
@@ -164,7 +170,13 @@ programs:
     phase_1h_c_remote_sql: applied_verified
     phase_1h_d_remote_sql_required: false
     phase_1h_d_verification: 84_files_411_tests_typescript_eslint_build_mobile_edge_fixture_pass
+    phase_2a_0: completed_architecture_and_threat_model
+    phase_2a_1: completed_metadata_only_foundation
+    phase_2a_1_verification: 2_files_14_tests_typescript_scoped_lint_diff_check_pass
+    phase_2a_1_remote_sql: reviewed_pending_chatgpt_apply
+    phase_2a_1_runtime_surface_changed: false
     phase_2a_boundary: architecture_threat_model_metadata_only_state_reviewed_ingestion_contracts_no_external_accounts_or_oauth
+    ci_note: run_68_failed_before_runner_assignment_with_no_job_steps_so_code_regression_not_established
   opinie:
     status: active_synthetic_bootstrap
     staging_repo: riseshineevolve-source/riseshineevolve
