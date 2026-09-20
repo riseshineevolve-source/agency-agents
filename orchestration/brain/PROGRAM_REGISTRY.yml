@@ -139,8 +139,11 @@ programs:
     current_pr: 77
     current_phase: 14H
   mind_bloom:
-    status: active_dedicated_execution
+    status: active_central_execution
     commercial_status: private_owner_only
+    execution_owner: central_orchestrator
+    previous_dedicated_chat: parked_archive_only
+    codex_usage_governor: central_orchestrator
     repo: riseshineevolve-source/mind-bloom-assistant
     current_pr: 2
     completed_phase: Phase_1H_A_B_C_D
@@ -150,6 +153,10 @@ programs:
       - Phase_1H_C_Inbox_to_People_Promotion
       - Phase_1H_D_Universal_Chief_of_Staff_Search
     active_slice: Phase_2A_integration_foundation
+    current_remote_head: 5b365d6eb41572d25a054da9047ad6e18bbad6f1
+    latest_verified_ci_run: 65
+    latest_verified_ci_conclusion: success
+    local_worktree_must_be_inspected_before_reset_pull_rebase: true
     people_memory_remote_migration: 20260918160000_add_people_memory_v0
     remote_schema_state: people_memory_and_1H_B_C_verified_active
     phase_1h_a_remote_sql_required: false
