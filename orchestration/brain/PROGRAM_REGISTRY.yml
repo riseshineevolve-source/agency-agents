@@ -1,4 +1,4 @@
-version: 3
+version: 4
 updated: 2026-09-20
 brain_status: canonical
 global:
@@ -47,15 +47,18 @@ programs:
     paid_project_creation_owner_gated: true
     deployment_authorized: false
   interactive_book_factory:
-    status: target_architecture_registered
+    status: synthetic_contract_v0_specified
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
+    content_contract_v0: orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md
     intended_first_pilot: world_01_after_source_approval
     reuse_candidates:
       - world_02
       - gentle_steps_christmas_app
     bilingual_default: en_plus_pl_in_one_product
     offline_first_default: true
-    implementation_authorized: false
+    real_product_conversion_authorized: false
+    deployment_authorized: false
+    next_safe_slice: deterministic_validator_and_synthetic_fixture_only
   ai_discovery:
     status: active_measurement
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
