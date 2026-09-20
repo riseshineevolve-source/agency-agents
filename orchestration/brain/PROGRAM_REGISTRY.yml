@@ -1,4 +1,4 @@
-version: 4
+version: 5
 updated: 2026-09-20
 brain_status: canonical
 global:
@@ -47,9 +47,14 @@ programs:
     paid_project_creation_owner_gated: true
     deployment_authorized: false
   interactive_book_factory:
-    status: synthetic_contract_v0_specified
+    status: synthetic_contract_v0_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
     content_contract_v0: orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md
+    synthetic_fixture: orchestration/architecture/fixtures/interactive-book-v0/synthetic-world-valid.json
+    validator_ci_run: 35525269062
+    validator_ci_conclusion: PASS
+    verified_head: e9deff5f2d4f8158636730e3d32a22838d947ada
+    fail_closed_tests: PASS
     intended_first_pilot: world_01_after_source_approval
     reuse_candidates:
       - world_02
@@ -58,7 +63,7 @@ programs:
     offline_first_default: true
     real_product_conversion_authorized: false
     deployment_authorized: false
-    next_safe_slice: deterministic_validator_and_synthetic_fixture_only
+    next_gate: owner_source_approval_before_world_01_real_content_conversion
   ai_discovery:
     status: active_measurement
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
