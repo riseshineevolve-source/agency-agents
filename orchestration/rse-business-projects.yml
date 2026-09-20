@@ -216,21 +216,23 @@ projects:
   mind_bloom:
     name: Mind Bloom Assistant
     type: app
-    status: active_separate_execution
+    status: active_central_execution
     priority_wave: 1
     repo: riseshineevolve-source/mind-bloom-assistant
-    execution_mode: dedicated_chat
-    role_boundary: personal_business_chief_of_staff_not_code_source_of_truth
-    central_sync: milestones_blockers_shared_dependencies
+    execution_mode: central_with_codex_usage_governor
+    previous_dedicated_chat: parked_archive_only
+    role_boundary: private_personal_business_chief_of_staff
     current_pr: 2
     current_branch: feature/personal-chief-of-staff-foundation
     current_pr_draft: true
     current_pr_mergeable: true
-    latest_verified_ci_run: 42
+    latest_verified_ci_run: 65
     latest_verified_ci_conclusion: success
-    active_slice: phase_1G_B_people_memory
+    current_remote_head: 5b365d6eb41572d25a054da9047ad6e18bbad6f1
+    active_slice: phase_2A_integration_foundation
     durable_execution_handoff: docs/personal-chief-of-staff/CURRENT_EXECUTION_HANDOFF.md
     local_people_work_protection: do_not_reset_clean_overwrite_or_blind_pull
+    local_phase2a_worktree_protection: inspect_git_status_and_diff_before_pull_reset_rebase
     remote_supabase_mutation_owner: dedicated_reviewed_chatgpt_action_not_local_codex
     root_env_on_feature_branch: env_example_only
     central_last_synced: 2026-09-18
