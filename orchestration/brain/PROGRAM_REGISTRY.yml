@@ -11,13 +11,6 @@ global:
   default_max_active_roles: 4
   chat_is_source_of_truth: false
   target_consumer_architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
-    synthetic_data_contract_v0: orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md
-    entitlement_model_v0: orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md
-    synthetic_fixture: orchestration/architecture/fixtures/consumer-platform-v0/synthetic_consumer.valid.json
-    validator: scripts/validate-rse-consumer-contract.py
-    regression_tests: scripts/test-rse-consumer-contract.py
-    identity_is_not_entitlement: true
-    product_scoped_entitlements_required: true
   backend_creation_policy: reuse_existing_platform_unless_isolation_is_justified
 programs:
   brand_and_business:
@@ -36,8 +29,18 @@ programs:
       - major_redesign
       - paid_ads_activation
   consumer_platform:
-    status: synthetic_identity_entitlement_contract_implemented
+    status: synthetic_identity_entitlement_contract_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
+    synthetic_data_contract_v0: orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md
+    entitlement_model_v0: orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md
+    synthetic_fixture: orchestration/architecture/fixtures/consumer-platform-v0/synthetic_consumer.valid.json
+    validator: scripts/validate-rse-consumer-contract.py
+    regression_tests: scripts/test-rse-consumer-contract.py
+    contract_ci_run: 35530744577
+    contract_ci_conclusion: PASS
+    verified_head: d9d2f053a36efa92f14f84889ef282642dacd91e
+    identity_is_not_entitlement: true
+    product_scoped_entitlements_required: true
     shared_backend_candidates:
       - rse_consumer_account_surfaces
       - world_01
@@ -53,7 +56,7 @@ programs:
     no_new_backend_without_justification: true
     paid_project_creation_owner_gated: true
     deployment_authorized: false
-    next_safe_slice: verify_consumer_contract_ci_then_define_backend_neutral_rls_test_matrix
+    next_safe_slice: define_backend_neutral_rls_authorization_test_matrix_and_offline_conflict_rules
   interactive_book_factory:
     status: synthetic_contract_v0_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
