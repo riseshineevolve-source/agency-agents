@@ -101,6 +101,8 @@ Minimum product-scoped primitives:
 
 Never rely on client-provided product ownership without server-side verification for paid entitlements.
 
+Authentication and entitlement are separate security decisions. A successful shared RSE login identifies the account but does not unlock another product. Protected access must be evaluated against the exact product-scoped entitlement. See `RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md`.
+
 ## Factory content contract direction
 
 The current synthetic-only v0 contract is `RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md`. It defines the language-neutral envelope, localized-copy separation, asset references, progress direction, entitlement boundary, localization gates, deterministic validator requirements and synthetic acceptance fixtures.
@@ -120,8 +122,8 @@ Do not duplicate application business logic merely to localize content.
 ## Candidate rollout sequence
 
 1. Preserve/finish current Wave 1 apps and external gates.
-2. Specify RSE Consumer identity/progress/entitlement schema using synthetic fixtures only.
-3. Specify Interactive Book Factory content schema and renderer contract. **Content contract v0 is now specified; deterministic synthetic validator/fixture implementation remains the next safe factory slice.**
+2. Specify RSE Consumer identity/progress/entitlement schema using synthetic fixtures only. **Synthetic data contract and product-scoped entitlement model are now specified; deterministic contract tests are being added before any live backend work.**
+3. Specify Interactive Book Factory content schema and renderer contract. **Content contract v0 plus deterministic synthetic validator/fixture are implemented and CI-verified; no real product conversion is authorized yet.**
 4. Select/approve World 01 as first conversion pilot.
 5. Build and verify EN pilot offline-first.
 6. Pass stable EN source through Polish Localization Engine and bilingual QA.
