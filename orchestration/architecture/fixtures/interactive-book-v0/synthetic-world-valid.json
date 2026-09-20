@@ -1,0 +1,49 @@
+{
+  "schema_version": "0.1.0",
+  "product_id": "synthetic_world",
+  "content_pack_id": "synthetic_world_core",
+  "content_version": "1.0.0",
+  "canonical_locale": "en",
+  "supported_locales": ["en", "pl-PL"],
+  "minimum_runtime_contract": "0.1.0",
+  "activities": [
+    {
+      "activity_id": "mission_001",
+      "activity_type": "reflection_choice",
+      "sequence": 1,
+      "required": true,
+      "interaction": {"mode": "single_choice", "option_ids": ["option_a", "option_b"]},
+      "progress": {"completion_rule": "submit_once", "unlock_ids": ["mission_002"]},
+      "assets": [],
+      "accessibility": {"requires_audio_alternative": false, "requires_motion_reduction_variant": false}
+    },
+    {
+      "activity_id": "mission_002",
+      "activity_type": "instruction",
+      "sequence": 2,
+      "required": true,
+      "interaction": {"mode": "display_only", "option_ids": []},
+      "progress": {"completion_rule": "submit_once", "unlock_ids": ["mission_003"]},
+      "assets": [{"asset_id": "mission_002_hero", "kind": "image", "bundled_path": "assets/mission_002_hero.txt", "alt_copy_key": "mission_002.hero_alt", "required_offline": true}],
+      "accessibility": {"requires_audio_alternative": true, "requires_motion_reduction_variant": false}
+    },
+    {
+      "activity_id": "mission_003",
+      "activity_type": "checklist",
+      "sequence": 3,
+      "required": false,
+      "interaction": {"mode": "multi_choice", "option_ids": ["step_a", "step_b"]},
+      "progress": {"completion_rule": "submit_once", "unlock_ids": []},
+      "assets": [],
+      "accessibility": {"requires_audio_alternative": false, "requires_motion_reduction_variant": false}
+    }
+  ],
+  "localizations": [
+    {"locale":"en","activity_id":"mission_001","title":"Synthetic mission one","prompt":"Choose one invented option.","options":{"option_a":"Synthetic A","option_b":"Synthetic B"},"accessibility":{"screen_reader_prompt":"Choose one option."}},
+    {"locale":"pl-PL","activity_id":"mission_001","title":"Syntetyczna misja pierwsza","prompt":"Wybierz jedną wymyśloną opcję.","options":{"option_a":"Syntetyczna A","option_b":"Syntetyczna B"},"accessibility":{"screen_reader_prompt":"Wybierz jedną opcję."}},
+    {"locale":"en","activity_id":"mission_002","title":"Synthetic instruction","prompt":"Read the invented instruction.","options":{},"accessibility":{"screen_reader_prompt":"Synthetic image alternative."}},
+    {"locale":"pl-PL","activity_id":"mission_002","title":"Syntetyczna instrukcja","prompt":"Przeczytaj wymyśloną instrukcję.","options":{},"accessibility":{"screen_reader_prompt":"Syntetyczny opis obrazu."}},
+    {"locale":"en","activity_id":"mission_003","title":"Synthetic checklist","prompt":"Pick invented steps.","options":{"step_a":"Step A","step_b":"Step B"},"accessibility":{"screen_reader_prompt":"Choose steps."}},
+    {"locale":"pl-PL","activity_id":"mission_003","title":"Syntetyczna lista","prompt":"Wybierz wymyślone kroki.","options":{"step_a":"Krok A","step_b":"Krok B"},"accessibility":{"screen_reader_prompt":"Wybierz kroki."}}
+  ]
+}
