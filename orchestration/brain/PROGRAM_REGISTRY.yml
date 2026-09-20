@@ -1,4 +1,4 @@
-version: 1
+version: 2
 updated: 2026-09-20
 brain_status: canonical
 global:
@@ -10,6 +10,8 @@ global:
   routing: core_first_specialists_on_demand
   default_max_active_roles: 4
   chat_is_source_of_truth: false
+  target_consumer_architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
+  backend_creation_policy: reuse_existing_platform_unless_isolation_is_justified
 programs:
   brand_and_business:
     status: owner_decision_packet_ready
@@ -26,6 +28,34 @@ programs:
       - pricing
       - major_redesign
       - paid_ads_activation
+  consumer_platform:
+    status: target_architecture_registered
+    architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
+    shared_backend_candidates:
+      - rse_consumer_account_surfaces
+      - world_01
+      - world_02
+      - gentle_steps_christmas_app
+    separate_domains:
+      happy_me: family_child_sensitive_backend
+      senior: retain_existing_firebase_architecture
+      mind_bloom: private_owner_only_not_commercial
+      opinie: real_data_local_offline
+      smart_cv_tailor: local_private
+      domowe_finanse: local_private
+    no_new_backend_without_justification: true
+    paid_project_creation_owner_gated: true
+    deployment_authorized: false
+  interactive_book_factory:
+    status: target_architecture_registered
+    architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
+    intended_first_pilot: world_01_after_source_approval
+    reuse_candidates:
+      - world_02
+      - gentle_steps_christmas_app
+    bilingual_default: en_plus_pl_in_one_product
+    offline_first_default: true
+    implementation_authorized: false
   ai_discovery:
     status: active_measurement
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
@@ -74,6 +104,7 @@ programs:
     current_phase: 14H
   mind_bloom:
     status: active_dedicated_execution
+    commercial_status: private_owner_only
     repo: riseshineevolve-source/mind-bloom-assistant
     current_pr: 2
     completed_phase: Phase_1H_local_implementation
