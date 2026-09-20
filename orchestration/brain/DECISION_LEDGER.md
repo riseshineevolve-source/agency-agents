@@ -11,7 +11,7 @@ This file records decisions that must not disappear when chats become inaccessib
 - [LOCKED] English master first; Polish localization follows source freeze.
 - [LOCKED] CORE-first, specialists on demand; do not invoke the whole agency.
 - [LOCKED] Maximize automation and minimize owner clicks. Stop mainly at meaningful owner gates.
-- [CURRENT] Mind Bloom and Marketing remain separate execution workstreams with central milestone/blocker/dependency sync. Senior / Hello Today is back under central execution unless the owner changes this again.
+- [CURRENT] Marketing remains a separate execution workstream. Mind Bloom and Senior / Hello Today are under central execution so Codex/Work usage can be governed from one orchestrator.
 - [LOCKED] Wave 2 and Gifts remain deferred unless explicitly promoted.
 - [LOCKED] Do not spend Codex budget on status summaries or work deterministic tools can do.
 
@@ -118,10 +118,11 @@ This file records decisions that must not disappear when chats become inaccessib
 
 ## Mind Bloom
 
-- [LOCKED] Dedicated chat is single implementation owner.
-- [LOCKED] Do not reset/clean/overwrite unfinished local People Memory work.
+- [CURRENT] Central RSE Orchestrator is the single implementation owner and Codex prompt/usage governor.
+- [LOCKED] Previous dedicated Mind Bloom chat is parked/archive-only and must not run parallel implementation unless ownership is explicitly transferred back.
+- [LOCKED] Before any pull/reset/rebase/checkout, inspect the local Codex worktree and preserve legitimate uncommitted Phase 2A work.
 - [LOCKED] Remote Supabase mutations are reviewed actions, not casual local-Codex steps.
-- [LOCKED] Central Orchestrator tracks only milestones/blockers/dependencies.
+- [LOCKED] Codex receives bounded slices with explicit scope, acceptance tests, stop conditions and forbidden actions; no broad repo rediscovery when durable checkpoints are sufficient.
 
 ## Opinie
 
