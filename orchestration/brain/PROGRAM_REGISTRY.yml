@@ -161,15 +161,21 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: active_all15_validation
+    status: all15_local_pass_push_pending
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
-    current_head: 2e10406af22a84067a5051e12b04cf579d28deda
+    current_head: 02df9c2c62075a3178efdf52100312852d4d87c8
     locked_modules: 15
+    local_all15_pass: true
+    local_all15_count: 15_of_15
+    local_hardening_commit: d5e1507
+    local_hardening_push_status: pending_safe_remote_reconciliation
+    all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
+    next_execution_mode: safe_remote_reconcile_then_canonical_integration_final_interior_kdp_preflight
+    runtime_blocker: direct_python_missing_pyyaml_existing_renderer_env_available
     hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
     local_dirty_worktree_protection: true
-    next_execution_mode: clean_detached_worktree_all15_validation
     source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
     source_label_two_page_auto_classification: owner_authorized
     hmda_04_source_rooms_0_3_label_state: absent_verified
