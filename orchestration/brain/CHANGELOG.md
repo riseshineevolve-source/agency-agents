@@ -241,3 +241,32 @@ After high-intensity overnight progress, return to efficiency-first model routin
 - reserve Astra for cross-system architecture, difficult ambiguous debugging, high-risk localization/logic reasoning or tasks that stall on lighter models;
 - reserve Ultra reasoning for rare high-leverage tasks only;
 - escalate model/reasoning only after a concrete failure or complexity signal, not by default.
+
+
+## 2026-09-21 — Senior Phase 14H source work exhausted at external gates
+
+Owner-reported Codex sprint result on PR #77:
+- source-side release matrix: 26 source checks PASS / 21 external-owner gates remain;
+- concrete gaps repaired: adult-post gating regression, child activity registration, restart routing, authorization races, technical-account cleanup and release configuration;
+- security/privacy hardened around technical-principal isolation, atomic child attribution, revocation and deletion;
+- paired-child restart/revocation/closed-circle boundaries hardened;
+- accessibility/device automation: 93 tests PASS on API 36 phone + 93 PASS on tablet;
+- local release tooling 43 tests PASS; backend/rules combined 238 tests PASS;
+- Android #144, Device #81 and Firebase #86 PASS;
+- commits `63a87ae`, `6cb2c3e`, `9a84825`, `7df593b` pushed;
+- no further repository-side gap identified in this review; remaining gates are Play/Firebase/Integrity, signing, legal/Families/Data Safety, public resources, editorial and real-device/human QA.
+
+
+## 2026-09-21 — Consumer Platform planned safe slice completed
+
+Owner-reported Codex sprint result:
+- synthetic-only Consumer Platform remains green; no deployment or real data touched;
+- schema/policy drift gate PASS including schema, columns, constraints, indexes, RLS, roles, grants, functions, triggers, entitlement boundaries and domain leakage;
+- disposable PostgreSQL 16 clean migration PASS;
+- cross-user/product isolation, revoked/expired entitlement denial, client mutation denial and trusted-server-only sync PASS;
+- monotonic merge / future-revision rejection PASS;
+- privacy lifecycle owner-scoping PASS;
+- Interactive Book App Factory compatibility preserved; no World 01 real conversion;
+- CI RSE Consumer Advanced Gates run `35655936834` PASS;
+- commits `f3d1e00`, `40dcb3f` pushed to `rse/consumer-ephemeral-candidate-contract-v0`;
+- the previously planned next safe slice is complete; production deployment remains owner-gated and no new speculative slice should be invented.
