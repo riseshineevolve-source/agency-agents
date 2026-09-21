@@ -216,3 +216,28 @@ Owner-reported Codex overnight result:
 - 30 tests PASS and CI green;
 - all 12 approved original hashes preserved unchanged;
 - real blockers remain: 8 owner-pending art selections, print-resolution derivatives, search-token enrollment, final owner lock.
+
+
+## 2026-09-21 — Detective Owner Review V2 PASS
+
+- owner-review V2 head: `e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87`;
+- 141-page corrected English interior ready for owner review;
+- approved modern Detective squad artwork integrated;
+- global typography/opening/onboarding/Detective ID/writing/verdict/map readability/Witness Board/naming/drift audit all reported PASS;
+- all 15 maps use clean white-paper treatment, bold 14–16 pt coordinate rails and readable room/zone labels;
+- all 15 Witness Boards rebuilt;
+- locked-source logic regression PASS;
+- digital KDP preflight PASS;
+- 141 print-scale previews + requested contact sheets produced;
+- Build Detective Academy PDF #96 PASS and SEO Validation #557 PASS on current head;
+- EN remains intentionally NOT FROZEN pending owner visual approval / representative 100% test print;
+- KDP upload/publication, pricing and physical proof remain owner gates.
+
+
+## 2026-09-21 — Codex model cost governor after overnight sprint
+
+After high-intensity overnight progress, return to efficiency-first model routing:
+- use Luna/Terra/Sol at low/medium/high reasoning for deterministic implementation, rendering, tests, packaging, docs and bounded repairs;
+- reserve Astra for cross-system architecture, difficult ambiguous debugging, high-risk localization/logic reasoning or tasks that stall on lighter models;
+- reserve Ultra reasoning for rare high-leverage tasks only;
+- escalate model/reasoning only after a concrete failure or complexity signal, not by default.
