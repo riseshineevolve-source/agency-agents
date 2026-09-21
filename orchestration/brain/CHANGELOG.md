@@ -99,3 +99,18 @@ Execution ownership updated:
 - A recovered local Codex report says Detective has additional unpushed ALL-15 work (7/15 PASS, HMDA_15 next, metadata hygiene local). It is recorded only as provisional recovery context until pushed/checkpointed; local worktree must be inspected before reset/pull/pipeline restart.
 - The active hourly RSE shift already covers day and night; stale legacy Night Shift and Mind Bloom Night Shift remain disabled to prevent duplicate writers and stale ownership assumptions.
 - Updated stale central routing/business/queue prose so new sessions do not reopen frozen Mind Bloom work or reintroduce a superseded Detective visual gate.
+
+
+## 2026-09-21 — Q4 commercial priority stack + Detective gate closure
+
+Owner decisions reconciled into the durable Brain:
+- locked commercial priority order: Detective KDP -> Mind Bloom Private DONE/frozen -> 24 Gentle Steps -> Optical Animals -> Consumer App Factory/Google Play, with Senior/Happy Me/Opinie/AI Discovery continuing safely in parallel;
+- added canonical `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`;
+- locked revenue-first rule: do not wait for Google Play/DUNS to monetize independently shippable KDP products;
+- closed the Detective map-system owner gate as **B — APPROVE WITH SMALL FIXES**;
+- locked white/light map background, larger/bold room and coordinate labels, readable legends/descriptions, pencil space, premium Witness Board and naming direction B (branded/academy/adventure);
+- confirmed no further design owner gate is required for mechanical ALL-15 scaling;
+- remaining Detective owner gates are final cover, physical proof, pricing and KDP publication;
+- preserved canonical Detective marketing positioning in `marketing/detective-academy-kdp-positioning.md` and aligned the Q4 ethical persuasion framework;
+- recorded Mind Bloom Private V1 as frozen after PASS / CI #81;
+- recorded the owner-supplied local Detective checkpoint as provisional 8/15 PASS after HMDA_15, pending classifier regression commit/push before it becomes remote durable implementation truth.
