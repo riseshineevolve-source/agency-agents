@@ -2,6 +2,7 @@
 
 Status: CANONICAL
 Rebuilt: 2026-09-18
+Last reconciled: 2026-09-21
 Primary durable repo: `riseshineevolve-source/agency-agents`
 
 ## 1. Operating model
@@ -19,14 +20,17 @@ Central RSE Orchestrator owns:
 - Detective Academy,
 - Happy Me coordination,
 - Optical Animals coordination,
+- Senior / Hello Today execution,
+- Mind Bloom Assistant execution,
 - marketing architecture,
 - content-source recovery.
 
 Dedicated execution remains separate for:
-- Mind Bloom Assistant,
 - Marketing Autopilot.
 
-Senior / Hello Today is currently executed directly by the Central Orchestrator, with its production/legal/Play/human gates preserved.
+Mind Bloom's previous dedicated execution chat is parked/archive-only. The Central Orchestrator is now the single implementation owner for Mind Bloom and must preserve the project's worktree, reviewed-SQL and external-provider gates.
+
+Senior / Hello Today is executed directly by the Central Orchestrator, with its production/legal/Play/human gates preserved.
 
 Opinie uses a special split model:
 - sanitized code + synthetic fixtures may be developed in GitHub,
@@ -211,6 +215,16 @@ Current durable contracts:
 - `orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md`
 - `orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md`
 - `orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md`
+- `orchestration/architecture/RSE_CONSUMER_SUPABASE_EPHEMERAL_SQL_CHECKPOINT.md`
+- `orchestration/architecture/RSE_CONSUMER_SUPABASE_ADVANCED_GATES_CHECKPOINT.md`
+
+Current verification state:
+- the synthetic PostgreSQL 16 base RLS harness is green;
+- the advanced Gate A-H harness is green on CI run `35541200417` at head `9baf778da210b4c354dcb10e19d452f9524df8e6`;
+- in the advanced model, browser/mobile authenticated roles cannot directly mutate protected progress/sync state;
+- the atomic sync primitive is `SECURITY INVOKER`, executable only by a synthetic trusted-server role and accepts no client premium/entitlement claim;
+- this is still synthetic/local/CI architecture only: no live Supabase project has been created or modified and no production deployment is authorized;
+- next safe slice is a clean-ephemeral candidate migration contract plus deterministic schema/policy drift checks.
 
 Security-domain boundaries:
 - Happy Me remains separate by default because family/child-sensitive profiles, child-device least privilege, consent/safeguarding/media/deletion concerns increase blast-radius and authorization risk;
@@ -229,6 +243,11 @@ Target model:
 and in parallel:
 
 `RSE Paid Growth Controller -> tracking -> paid specialists -> KDP Ads Optimizer -> audit -> budget decisions`
+
+Execution boundary:
+- Marketing Autopilot remains in the dedicated Marketing execution chat;
+- the Central Orchestrator synchronizes milestones, blockers and shared dependencies only;
+- the durable Marketing brain/system-of-record still needs to be created before chat history can stop being a continuity dependency.
 
 Existing specialist capabilities identified:
 - Content Creator
@@ -407,19 +426,47 @@ Hard locks:
 
 ## 15. Mind Bloom
 
-Dedicated execution project, single implementation owner.
+Current execution owner: Central RSE Orchestrator. The previous dedicated Mind Bloom chat is parked/archive-only and must not run a parallel implementation stream.
 
 Current branch:
 `feature/personal-chief-of-staff-foundation`
 
-Current durable domains on branch include:
-Today, Inbox, Tasks, Saved, Projects, Reminders, Media, Life Admin.
+Current remote head:
+`f35b2fc21c464ef3b3b8141090ca46ece9526a12`
 
-Current active slice:
-People Memory.
+Latest pushed product slice:
+`b0435883d97abce52ed72eb4475eab6398f4c4c5`
+
+Current durable domains on branch include:
+Today, Inbox, Tasks, Saved, Projects, Reminders, Media, Life Admin, People Memory, Daily Brief/Attention, reviewed Inbox promotions and Universal Chief-of-Staff Search.
+
+Completed integration foundation:
+- Phase 2A-0 architecture + threat model,
+- Phase 2A-1 metadata-only integration foundation,
+- Phase 2A-2 reviewed external-ingestion contract,
+- integration security regression hardening.
+
+Verification at the latest durable resume point:
+- focused integration security: 4 files / 29 tests PASS,
+- full Vitest: 88 files / 440 tests PASS,
+- TypeScript PASS,
+- scoped lint PASS,
+- diff checks PASS,
+- production build PASS.
+
+Remote database boundary:
+- `PHASE_2A_1_PENDING_REMOTE_SQL.sql` is reviewed but remains pending a separate ChatGPT-applied remote activation;
+- Codex must not contact Supabase or external providers;
+- no external accounts/OAuth/provider implementation has been authorized.
+
+Current next gate:
+**Phase 2B provider selection/security-product decision.** Before any OAuth/provider implementation, the owner must select one provider and approve the least-privilege scopes, token broker/KMS approach, retention, callback/PKCE model, server adapter and remote staging activation.
+
+CI note:
+latest live run #72 on the current head failed before runner assignment with zero executed steps. This is the same pre-runner failure class seen earlier and is not evidence of a code regression. The last verified green GitHub CI checkpoint remains #65.
 
 Important recovery rule:
-do not reset/clean/overwrite local uncommitted People work.
+before any pull/reset/rebase/checkout, inspect `git status` + `git diff` and preserve legitimate local uncommitted work.
 
 Security state recovered:
 - frontend environment cleanup,
@@ -428,8 +475,6 @@ Security state recovered:
 - hardened default privileges,
 - trigger/RPC exposure cleanup,
 - Security Advisor clean at checkpoint.
-
-Media recovery history includes reviewed import pipeline and Netflix CSV importer; more import work is staged by the dedicated project.
 
 ## 16. Opinie
 
