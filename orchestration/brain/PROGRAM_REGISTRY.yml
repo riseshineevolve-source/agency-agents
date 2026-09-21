@@ -189,8 +189,8 @@ programs:
     active_slice: Phase_2B_provider_gate_owner_decision_only
     current_remote_head: bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13
     latest_product_slice_head: b0435883d97abce52ed72eb4475eab6398f4c4c5
-    latest_live_ci_run: 80
-    latest_live_ci_head: ea7ed28b5d3bd9111ee2ca2ce859369558817745
+    latest_live_ci_run: 81
+    latest_live_ci_head: bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13
     latest_live_ci_conclusion: success
     latest_verified_ci_run: 65
     latest_verified_ci_conclusion: success
