@@ -141,11 +141,15 @@ programs:
     full_book_scaleout_authorized: false
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: active_production_visual_gate
+    status: active_all15_validation
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
+    current_head: 2e10406af22a84067a5051e12b04cf579d28deda
     locked_modules: 15
+    hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
+    local_dirty_worktree_protection: true
+    next_execution_mode: clean_detached_worktree_all15_validation
     source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
     source_label_two_page_auto_classification: owner_authorized
     hmda_04_source_rooms_0_3_label_state: absent_verified
