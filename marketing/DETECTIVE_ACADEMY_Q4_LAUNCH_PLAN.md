@@ -34,14 +34,18 @@ Never spoil:
 ## Current product readiness
 
 As of canonical registry 2026-09-21:
+- FINAL ENGLISH INTERIOR = PASS
+- remote head = `6aef8cefdce029413f2cc29e656d5fbad99d546c`
+- 141 pages
+- 141 print-scale previews
 - ALL-15 = 15/15 PASS REMOTE
-- remote head = da0b5b1be09cd5389f67f52219d30913b71a5911
 - canonical 30-mission integration = PASS
-- 15 Witness Board / Live Case Map spreads generated
-- next technical step = existing brand asset sync -> final EN interior -> KDP preflight
+- KDP preflight = PASS
+- Build #93 = PASS
+- SEO #551 = PASS
 - remaining owner gates = final cover, physical proof, pricing, KDP publication
 
-Marketing must be ready before KDP-ready, but must not delay KDP.
+Marketing must now become launch-ready without delaying the owner-controlled release gate.
 
 ## Buyer
 
