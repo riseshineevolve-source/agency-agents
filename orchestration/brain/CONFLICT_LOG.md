@@ -46,7 +46,7 @@ Current truth: the branch-reconciliation blocker is CLOSED. Keep the PR draft un
 
 ### PROGRAM_REGISTRY commercial-priority mirror
 An earlier conflict entry recorded a stale registry mirror with Mind Bloom at commercial priority #2.
-Current `PROGRAM_REGISTRY.yml` v13 is aligned with `COMMERCIAL_PRIORITY_STACK.md`: Detective EN, Detective PL, Gentle Steps, Optical Animals, Consumer App Factory; Mind Bloom Private V1 is frozen outside the active commercial sequence.
+Current `PROGRAM_REGISTRY.yml` v13+ is aligned with `COMMERCIAL_PRIORITY_STACK.md`: Detective EN, Detective PL, Gentle Steps, Optical Animals, Consumer App Factory; Mind Bloom Private V1 is frozen outside the active commercial sequence.
 Current truth: conflict CLOSED.
 
 ### Marketing handoff commercial-priority drift
@@ -55,6 +55,10 @@ Reconciled on 2026-09-21: the Marketing execution spec and handoff now follow th
 Current truth: central commercial stack + current product repo + refreshed Marketing handoff win.
 
 ## Open / requires future reconciliation
+
+### Senior Phase 14H fresh Android/device verification pending
+Senior PR #77 advanced from hardening head `63a87ae9df538d5af1d42d8ab4bdb8707246dc8a` to repair head `6cb2c3ee765a0b5d37d308d247d4f017a25fb893` after Android CI #142 and Device Accessibility #79 failed on the prior head. The project checkpoint identifies an invalid UI-test import caught before device execution; repair loop 1 removes that import and also persists the restricted child route synchronously before starting the pairing claim. Firebase Security CI #86 passed the backend/rules surface.
+Current handling: fresh Android/device evidence is still required on `6cb2c3e...`. Do not substitute older green runs, do not merge/release, and keep all existing Play/legal/Families/real-device owner gates intact. `PROGRAM_REGISTRY.yml` v14 captured the immediately preceding in-progress snapshot; this conflict entry plus the live repo supersede those transient Senior run-state fields until the next settled registry checkpoint.
 
 ### Opinie PR #18 branch conflict
 Synthetic-only Opinie staging PR `riseshineevolve-source/riseshineevolve#18` is still Draft/Open but live GitHub currently reports `mergeable: false` at head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`.
