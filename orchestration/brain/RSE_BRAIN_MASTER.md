@@ -48,6 +48,20 @@ Default agent routing:
 - default max ~4 active roles,
 - deterministic checks before expensive agent/Codex work.
 
+## Commercial priority stack — Q4 2026
+
+Canonical priority file: `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`
+
+Owner-locked order:
+1. **Detective Academy -> KDP** — primary revenue lane; do not wait for Google Play/DUNS.
+2. **Mind Bloom -> Private DONE** — frozen after Private V1 PASS / CI #81; future commercial fork is separate.
+3. **24 Gentle Steps to Christmas** — seasonal Q4 lane.
+4. **Optical Animals** — giftable KDP lane; preserve 12 approved, resolve 8 owner-gated visuals.
+5. **Consumer App Factory / Google Play apps** — strategic, but below shippable KDP revenue while Google/DUNS gates remain.
+6. **Senior / Happy Me / Opinie / AI Discovery / Website** — continue safely in parallel below their gates.
+
+Operational sequence: **Detective EN KDP -> Detective PL KDP -> Gentle Steps seasonal lane -> Optical Animals gift lane -> Google Play acceleration when external gates clear.**
+
 ## 3. Global product/business sequence
 
 ### A. Current production baseline
@@ -379,8 +393,19 @@ one spatial case unit becomes:
 
 Do not squeeze story + all clues + map into one page.
 
-Current owner gate:
-final spatial-map visual standard before mass conversion.
+Map-system owner gate: **CLOSED — owner approved B / APPROVE WITH SMALL FIXES.**
+
+Locked presentation direction:
+- white/light map background,
+- larger + bold room/zone labels,
+- larger + bold row/column coordinates,
+- readable legends/person descriptions at print size,
+- generous pencil space,
+- premium full-page Witness Board with stronger hierarchy and larger/bold names,
+- naming direction B: branded / academy / adventure,
+- aliases are presentation-only and may never alter puzzle identity, clues, topology, answers or solution logic.
+
+No further design owner gate is required for mechanical ALL-15 scale. Remaining owner gates are final cover, physical proof, pricing and KDP publication.
 
 English release candidate first, strict preflight, then Polish.
 
