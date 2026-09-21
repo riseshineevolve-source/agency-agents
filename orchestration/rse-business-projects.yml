@@ -32,6 +32,21 @@ wave_1:
   - senior_app
   - mind_bloom
   - opinie
+commercial_priority_stack_2026_q4:
+  canonical_file: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
+  priority_1: detective_academy_english_kdp
+  priority_2: mind_bloom_private_done_frozen
+  priority_3: gentle_steps_christmas
+  priority_4: optical_animals
+  priority_5: consumer_app_factory_google_play
+  parallel_below_gates:
+    - senior_hello_today
+    - happy_me
+    - opinie
+    - ai_discovery_website
+  revenue_first: true
+  do_not_wait_for_google_play_duns_for_kdp: true
+
 projects:
   brand_business:
     name: RSE Brand + Business Master Strategy
@@ -132,6 +147,11 @@ projects:
     latest_verified_seo_run: 545
     latest_verified_seo_conclusion: success
     pilot_witness_board_status: pass
+    commercial_priority_rank: 1
+    owner_visual_gate_decision: B_APPROVE_WITH_SMALL_FIXES
+    owner_visual_gate_status: closed
+    naming_direction: branded_academy_adventure
+    mechanical_all15_design_gate_required: false
     pilot_cases: HMDA_02_HMDA_13_HMDA_29
     mechanical_all15_scale_allowed: true
     current_gap: all15_validation_book_integration_final_interior_kdp_preflight
