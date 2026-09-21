@@ -39,21 +39,15 @@ Each segment is classified before localization:
 Different routes invoke different specialists. Do not run every agent on every segment.
 
 ## Canonical segment record
-Every localization unit should retain:
+Use the executable [source/target contract](engine/README.md). Source manifests
+hold immutable text, paths, IDs, hashes and logic/fit policy; target records hold
+Polish text and hash-bound review status. [Terminology](engine/terminology.json)
+has one machine-readable authority and a generated human-readable view.
 
-```yaml
-id: HOME-HERO-001
-source: "..."
-content_type: marketing_humor
-semantic_intent: "..."
-immutable_facts: []
-constraints: []
-current_pl: "..."
-change_log: []
-qa_status: pending
-```
-
-Agents patch the canonical record. They do not create uncontrolled full-document rewrites.
+Run `python scripts/test-localization-engine.py` and
+`python scripts/test-localization-fixtures.py` for infrastructure and authorized
+product proof. Deterministic PASS does not close language, owner or real-layout
+gates. Agents patch by stable segment ID.
 
 ## Default pipeline
 

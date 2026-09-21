@@ -5,6 +5,9 @@ on:
     paths:
       - "localization/pl-PL/**"
       - "scripts/validate-polish-localization.py"
+      - "scripts/localization/**"
+      - "scripts/localization-engine.py"
+      - "scripts/test-localization-*.py"
       - ".github/workflows/polish-localization-regression.yml"
   push:
     branches:
@@ -13,6 +16,9 @@ on:
     paths:
       - "localization/pl-PL/**"
       - "scripts/validate-polish-localization.py"
+      - "scripts/localization/**"
+      - "scripts/localization-engine.py"
+      - "scripts/test-localization-*.py"
       - ".github/workflows/polish-localization-regression.yml"
   workflow_dispatch:
 
@@ -31,5 +37,22 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Validate accepted Polish localization fixtures
-        run: python scripts/validate-polish-localization.py
+      - name: Install YAML input support
+        run: python -m pip install -r scripts/localization/requirements.txt
+
+      - name: Validate canonical terminology documentation
+        run: python scripts/localization-engine.py terms-doc --check
+
+      - name: Test localization contracts and adversarial mutations
+        run: python scripts/test-localization-engine.py
+
+      - name: Validate all authorized fixtures and generate QA packages
+        run: python scripts/test-localization-fixtures.py
+
+      - name: Keep bounded fixture QA evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: localization-fixture-proof
+          path: build/localization-proof
+          if-no-files-found: error

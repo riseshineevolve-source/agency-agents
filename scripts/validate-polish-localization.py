@@ -11,6 +11,9 @@ import re
 import sys
 from pathlib import Path
 
+from localization.gates import load_terms
+from localization.io import load
+
 ROOT = Path(__file__).resolve().parents[1]
 
 ACCEPTED = [
@@ -25,20 +28,15 @@ ACCEPTED = [
 
 AIISMS = ROOT / "localization/pl-PL/FORBIDDEN_AIISMS_PL.yml"
 
-CHRISTMAS_CALIBRATION_LABELS = [
-    "SPOKOJNA CHWILA",
-    "ISKRA ZABAWY",
-    "CHWILA BLISKOŚCI",
-]
+TERMINOLOGY = load_terms(load(ROOT / "localization/pl-PL/engine/terminology.json"))
 
-DETECTIVE_CALIBRATION_LABELS = [
-    "TABLICA ZEZNAŃ",
-    "TWOJE ZADANIE",
-    "SEJF PODPOWIEDZI",
-    "ZERO ZAŁOŻEŃ. NAJPIERW FAKTY. POTEM TEORIE.",
-    "TWÓJ WERDYKT",
-    "WSPÓŁRZĘDNA",
-]
+
+def labels(group: str) -> list[str]:
+    return [term["targets"][0] for term in TERMINOLOGY.values() if group in term.get("regression_groups", [])]
+
+
+CHRISTMAS_CALIBRATION_LABELS = labels("gentle")
+DETECTIVE_CALIBRATION_LABELS = labels("detective")
 
 # Bounded semantic anchors for the Detective calibration fixture. These do not
 # freeze English syntax; they protect the deduction operators that must survive
@@ -51,20 +49,7 @@ DETECTIVE_LOGIC_ANCHORS = {
     "exactly one companion": ("sage", "dokładnie jedna osoba", "pomieszczeniu"),
 }
 
-REQUIRED_LOCKED_LABELS = [
-    "NIEZBĘDNIK",
-    "MISJA",
-    "TAJNY PATENT",
-    "MINI-MISJA",
-    "CO TU SIĘ DZIEJE?",
-    "TERAZ TY TWORZYSZ!",
-    "MAŁY KROK NA DZIŚ",
-    "CHWILA NA ODDECH",
-    "STREFA ZABAWY",
-    "INSTRUKCJA BEZ SPINY",
-    "MISJA DNIA",
-    "TAJNA TARCZA",
-]
+REQUIRED_LOCKED_LABELS = labels("core")
 
 ENGLISH_LABELS = [
     "THE GENTLE WHY",
