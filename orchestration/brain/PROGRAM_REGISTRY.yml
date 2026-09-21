@@ -138,18 +138,26 @@ programs:
     canonical_architecture: one_product_entity_truth_many_adapters
     c2_content_authorized: false
   marketing_autopilot:
-    status: active_dedicated_execution
+    status: active_dedicated_execution_durable
     execution_owner: dedicated_marketing_chat
     central_role: milestones_blockers_shared_dependencies_only
-    planned_agents:
+    agents:
       - RSE_Marketing_Orchestrator
       - RSE_Paid_Growth_Controller
       - RSE_KDP_Ads_Optimizer
     live_connector_state: verify_on_use
     strategy_framework: orchestration/marketing/RSE_Q4_ETHICAL_PERSUASION_FRAMEWORK.md
     strategy_framework_status: active_owner_controlled_paid_activation
-    dedicated_handoff_status: strategy_checkpoint_present_full_execution_handoff_not_yet_durable
-    next_gate: create_durable_marketing_brain_and_live_verify_publishers
+    execution_spec: marketing/RSE_MARKETING_AUTOPILOT.md
+    execution_checkpoint: orchestration/marketing/RSE_MARKETING_AUTOPILOT_CHECKPOINT.md
+    private_ops_repo: riseshineevolve-source/riseshineevolve
+    private_marketing_brain: marketing/RSE_MARKETING_BRAIN.md
+    private_ops_merge_pr: 17
+    private_ops_merge_commit: 6476f02a78c0df214940b76119291b30c9179f01
+    central_autopilot_merge_pr: 11
+    central_autopilot_merge_commit: b0855350071d9df7654e0bc87a73ab5098489642
+    dedicated_handoff_status: durable_ready_for_fresh_chat_recovery
+    next_gate: owner_review_first_live_batch_then_routine_organic_autopilot
   polish_localization:
     status: detective_calibrated_second_commercial_priority
     branch: rse/polish-localization-engine-v1
