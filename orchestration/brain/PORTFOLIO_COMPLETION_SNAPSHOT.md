@@ -13,11 +13,11 @@ Percentages estimate progress toward the currently defined DONE for each lane. T
 | **Detective Academy** | **~97%** | Owner-review readability build `71baf0c` exists and preflight passes, but owner review identified incomplete global readability implementation: map/legend/font sizing and detective-squad art still need one focused correction pass. EN is NOT frozen. |
 | **Happy Me** | **82%** | Machine/source gates largely green; remaining external Supabase/Play/signing/real-device/privacy/release gates. |
 | **Senior / Hello Today** | **80%** | Core technically advanced; remaining Play/Firebase/legal/device/human production gates. |
-| **Polish Localization Engine** | **~88%** | Branch reconciled with main at `10b8189`; regression PASS across 7 accepted fixtures. Detective profile/logic gates are ready; full-book PL waits only for explicit EN freeze. |
+| **Polish Localization Engine** | **~94%** | Production infrastructure hardened: 71-term catalog, provenance/segmentation, logic gates, fit system, multi-surface adapters, translation memory and deterministic QA. 55 tests green; Detective PL handoff ready. Full-book PL waits only for explicit EN freeze. |
 | **AI Discovery / Website** | **75%** | Core architecture and indexed surfaces established; recrawl/indexing/stale-snippet and continued AI visibility work remain. |
 | **Brand + Revenue Engine** | **82%** | Major strategy/positioning/funnel architecture is durable; some owner decisions remain before full website/revenue freeze. |
 | **Marketing Autopilot** | **55%** | Architecture/automations/Q4 persuasion and Detective positioning exist; real feedback loop and sales execution are the next maturity step. |
-| **Optical Animals** | **65%** | 12/20 visuals locked; 8 visual slots remain owner-gated; tooling/assembly can continue below that gate. |
+| **Optical Animals** | **~78%** | 12/20 visuals locked; 8 remain owner-gated. Production factory/tooling is now deterministic with release packaging, swap automation, provenance/hashes, seek-and-find generation and 30 green tests. Remaining work is primarily final art, print derivatives, token enrollment and owner proof lock. |
 | **Opinie Offline Workbench** | **55%** | Synthetic deterministic engine is strong; real production stays LOCAL/OFFLINE and human-gated. |
 | **RSE Consumer Platform** | **52%** | Strong contracts/RLS/synthetic gates; no real production deployment yet. |
 | **Interactive Book App Factory** | **32%** | Engine/content contracts exist; World 01 has not yet completed a real production conversion. |
