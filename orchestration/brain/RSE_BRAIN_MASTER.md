@@ -260,9 +260,10 @@ and in parallel:
 `RSE Paid Growth Controller -> tracking -> paid specialists -> KDP Ads Optimizer -> audit -> budget decisions`
 
 Execution boundary:
-- Marketing Autopilot remains in the dedicated Marketing execution chat;
+- Marketing Autopilot remains in a dedicated Marketing execution chat;
 - the Central Orchestrator synchronizes milestones, blockers and shared dependencies only;
-- the durable Marketing brain/system-of-record still needs to be created before chat history can stop being a continuity dependency.
+- chat history is NOT the marketing system of record;
+- the durable Marketing execution layer is established in GitHub, so a fresh dedicated Marketing chat must reconstruct from durable files rather than from the dead/old chat.
 
 Existing specialist capabilities identified:
 - Content Creator
@@ -283,10 +284,19 @@ Existing specialist capabilities identified:
 - Search Query Analyst
 - Tracking & Measurement Specialist
 
-RSE-specific layers planned:
+RSE-specific layers:
 - RSE Marketing Orchestrator
 - RSE Paid Growth Controller
 - RSE KDP Ads Optimizer
+
+Durable Marketing sources:
+- `marketing/RSE_MARKETING_AUTOPILOT.md`
+- `orchestration/marketing/RSE_MARKETING_AUTOPILOT_CHECKPOINT.md`
+- `marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md`
+- `marketing/DETECTIVE_ACADEMY_CONTENT_BANK.md`
+- `marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md`
+- `marketing/PERFORMANCE_MEMORY.yml`
+- private operational marketing brain in `riseshineevolve-source/riseshineevolve/marketing/`.
 
 Marketing system of record should include:
 - brand/voice,
