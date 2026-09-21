@@ -10,7 +10,7 @@ Percentages estimate progress toward the currently defined DONE for each lane. T
 |---|---:|---|
 | **RSE Brain / Orchestrator** | **97%** | Core durable memory/recovery/priority system is in place; remaining work is maintenance, delta sync and checkpoint hygiene. |
 | **Mind Bloom Private V1** | **100%** | Private V1 Source Release Candidate PASS; CI #81 SUCCESS; feature development frozen. Provider integrations and commercial fork are separate future projects. |
-| **Detective Academy** | **~95%** | Primary revenue lane. **ALL-15 = 15/15 PASS REMOTE** at `da0b5b1`; canonical 30-mission integration PASS and 15 paired spreads generated. Existing `sync_brand_assets.py` provides the approved RSE character/squad asset mapping; next: run asset sync -> final English interior -> strict KDP preflight. |
+| **Detective Academy** | **~98%** | Primary revenue lane. Final English interior **PASS** at `6aef8ce`: 141 pages, 141 print-scale previews, KDP preflight PASS, Build #93 PASS. Remaining work is owner visual review, final cover/proof, pricing and KDP upload/publication; then EN freeze and Detective PL sprint. |
 | **Happy Me** | **82%** | Machine/source gates largely green; remaining external Supabase/Play/signing/real-device/privacy/release gates. |
 | **Senior / Hello Today** | **80%** | Core technically advanced; remaining Play/Firebase/legal/device/human production gates. |
 | **Polish Localization Engine** | **82%** | Calibrated and Detective-ready; full Detective PL waits for EN freeze + ALL-15, while bounded prep/QA continues. |
