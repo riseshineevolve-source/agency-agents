@@ -187,8 +187,20 @@ commercial_priority_stack_2026_q4:
     source_hash_geometry_topology_answers_coordinates_occupiable_room_zone_alias_meta: PASS
     local_hardening_commit: d5e1507
     remote_feature_head_seen_by_central_orchestrator: 02df9c2c62075a3178efdf52100312852d4d87c8
-    durable_remote_status: push_pending_safe_reconciliation_remote_advanced
+    durable_remote_status: PASS_REMOTE
+    durable_remote_head: da0b5b1be09cd5389f67f52219d30913b71a5911
     integration_manifest: dist/spatial_assets_all15.yml
-    next_step: canonical_master_spread_generation_then_final_interior_kdp_preflight
-    technical_blocker: direct_runtime_missing_pyyaml_use_existing_renderer_dependency_environment
+    canonical_master_integration: PASS
+    paired_spreads_generated: 15
+    final_interior_status: blocked_before_pdf_by_missing_local_production_asset_sync
+    asset_sync_resolution: existing_scripts_sync_brand_assets_py_maps_canonical_assets_images_to_assets_production
+    canonical_character_sources:
+      bibi: assets/images/Grandma Bibi.png
+      luli: assets/images/Luli.png
+      dilo: assets/images/Dilo.png
+      alio: assets/images/Alio.png
+      nini: assets/images/Nini.png
+      mimi: assets/images/Mimi.png
+      squad: assets/images/Happy Makers floating box.png
+    next_step: run_existing_brand_asset_sync_then_final_interior_then_kdp_preflight
     owner_blocker: false
