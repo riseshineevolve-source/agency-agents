@@ -1,4 +1,4 @@
-version: 11
+version: 12
 updated: 2026-09-21
 brain_status: canonical
 global:
@@ -146,6 +146,9 @@ programs:
       - RSE_Paid_Growth_Controller
       - RSE_KDP_Ads_Optimizer
     live_connector_state: verify_on_use
+    strategy_framework: orchestration/marketing/RSE_Q4_ETHICAL_PERSUASION_FRAMEWORK.md
+    strategy_framework_status: active_owner_controlled_paid_activation
+    dedicated_handoff_status: strategy_checkpoint_present_full_execution_handoff_not_yet_durable
     next_gate: create_durable_marketing_brain_and_live_verify_publishers
   polish_localization:
     status: detective_calibrated_second_commercial_priority
@@ -156,7 +159,9 @@ programs:
     full_book_scaleout_authorized: false
     detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
     detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
-    detective_branch_head: b30a46b86d06558a79bbf00dbd3a3d0e2bb1ea15
+    detective_branch_head: 712791d7374978fc98b35af97cc6b50d19979483
+    detective_regression_ci_run: 13
+    detective_regression_ci_conclusion: PASS
     detective_full_book_gate: english_canonical_master_freeze_plus_all15_pass
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
@@ -171,6 +176,8 @@ programs:
     local_all15_count: 15_of_15
     local_hardening_commit: d5e1507
     local_hardening_push_status: pushed_reconciled_remote_pass
+    latest_build_ci_run: 92
+    latest_build_ci_conclusion: PASS
     all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
     next_execution_mode: sync_canonical_brand_assets_then_final_interior_kdp_preflight
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
