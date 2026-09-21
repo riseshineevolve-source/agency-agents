@@ -18,10 +18,12 @@ Marketing does not redefine product truth. Current product repos and central orc
 ## Current commercial order
 
 1. Happy Makers Detective Academy -> English KDP
-2. Mind Bloom -> private DONE/frozen, no active marketing spend
+2. Happy Makers Detective Academy -> Polish KDP after English source freeze
 3. 24 Gentle Steps to Christmas
 4. Optical Animals
 5. Consumer App Factory / Google Play apps
+
+Mind Bloom Private V1 is source-complete/frozen and is not an active commercial marketing lane.
 
 Do not wait for Google Play/DUNS before monetizing KDP-ready products.
 
@@ -122,6 +124,7 @@ Owner approval remains required for:
 - paid activation/budget
 - price
 - discount/promotion
+- final Detective English interior visual approval/source freeze after the owner-review correction pass
 - final Detective cover
 - KDP publication
 - physical proof
