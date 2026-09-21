@@ -193,3 +193,24 @@ Before final KDP listing:
 
 After listing:
 replace pre-launch CTA with verified listing CTA and log performance by content ID.
+
+
+## Approved visual reference direction — owner input 2026-09-21
+
+Owner supplied a reference image set for Detective Academy marketing.
+
+Use these references for:
+- character energy and expressive storytelling,
+- Academy / case / clue / map / investigation scenes,
+- child-as-active-detective framing,
+- premium mystery-adventure atmosphere.
+
+Modernization rule:
+- do NOT reproduce an old-school / retro detective aesthetic literally,
+- preserve the strongest compositions and narrative beats,
+- modernize interiors, architecture, clothing, props, maps, interfaces and lighting,
+- prefer contemporary premium Academy visuals: dark glass / stone / warm practical light / clean graphic evidence systems / modern cartography,
+- avoid sepia, antique-office styling, vintage detective clichés, dated props and overly traditional school interiors,
+- keep the result cinematic, polished, current and suitable for a premium bestselling kids mystery brand.
+
+These references are approved as marketing visual source material, but every final asset still passes the existing Brand/QA gate.
