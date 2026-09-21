@@ -62,16 +62,22 @@ projects:
   marketing_autopilot:
     name: RSE Marketing Autopilot
     type: growth_operations
-    status: recovered_architecture_pending_bootstrap
+    status: active_durable_bootstrap_detective_prelaunch_ready
     priority_wave: 1
     execution_mode: dedicated_chat
     central_sync: milestones_blockers_shared_dependencies
+    canonical_marketing_spec: marketing/RSE_MARKETING_AUTOPILOT.md
+    detective_launch_plan: marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md
+    detective_content_bank: marketing/DETECTIVE_ACADEMY_CONTENT_BANK.md
+    detective_prelaunch_calendar: marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md
+    performance_memory: marketing/PERFORMANCE_MEMORY.yml
+    checkpoint: orchestration/marketing/RSE_MARKETING_AUTOPILOT_CHECKPOINT.md
     planned_agents:
       - RSE_Marketing_Orchestrator
       - RSE_Paid_Growth_Controller
       - RSE_KDP_Ads_Optimizer
-    connector_state: verify_on_use
-    next_gate: durable_marketing_brain_then_live_connector_verification
+    connector_state: live_verified_2026_09_21
+    next_gate: first_detective_prelaunch_batch_owner_review_then_draft_schedule
   rse_core:
     name: RSE Core Platform / Website / Business
     type: platform
