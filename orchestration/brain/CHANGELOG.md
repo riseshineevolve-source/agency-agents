@@ -155,3 +155,18 @@ Interpretation:
 - the canonical Brain, Polish Detective profile/calibration and Gentle Steps source/checkpoints exist remotely;
 - do not create replacement localization systems, duplicate branches or ZIP-derived shadow sources;
 - first repair or bypass the local Git executable/exec-path so HTTPS fetch works, then resume branch reconciliation and Polish/Gentle Steps execution.
+
+
+## 2026-09-21 — Git HTTPS blocker resolved via system Git for Windows
+
+Owner verified from Git Bash:
+- active Git Bash git: `/mingw64/bin/git`
+- version: `2.53.0.windows.1`
+- exec path: `C:/Program Files/Git/mingw64/libexec/git-core`
+- `git-remote-https.exe`: PRESENT
+
+Interpretation:
+- the previous Codex blocker was caused by Codex using its embedded runtime Git at `C:\Users\danie\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\git\cmd\git.exe`, whose exec path lacked `git-remote-https.exe`;
+- the machine already has a complete Git for Windows installation under `C:\Program Files\Git`;
+- future Codex Git network operations should explicitly use `C:\Program Files\Git\cmd\git.exe` or the equivalent Git Bash executable, not the embedded Codex runtime Git;
+- no reinstall is required.
