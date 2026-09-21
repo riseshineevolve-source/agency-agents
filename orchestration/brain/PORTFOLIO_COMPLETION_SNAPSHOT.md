@@ -13,7 +13,7 @@ Percentages estimate progress toward the currently defined DONE for each lane. T
 | **Detective Academy** | **~98%** | Primary revenue lane. Final English interior **PASS** at `6aef8ce`: 141 pages, 141 print-scale previews, KDP preflight PASS, Build #93 PASS. Remaining work is owner visual review, final cover/proof, pricing and KDP upload/publication; then EN freeze and Detective PL sprint. |
 | **Happy Me** | **82%** | Machine/source gates largely green; remaining external Supabase/Play/signing/real-device/privacy/release gates. |
 | **Senior / Hello Today** | **80%** | Core technically advanced; remaining Play/Firebase/legal/device/human production gates. |
-| **Polish Localization Engine** | **82%** | Calibrated and Detective-ready; full Detective PL waits for EN freeze + ALL-15, while bounded prep/QA continues. |
+| **Polish Localization Engine** | **~88%** | Branch reconciled with main at `10b8189`; regression PASS across 7 accepted fixtures. Detective profile/logic gates are ready; full-book PL waits only for explicit EN freeze. |
 | **AI Discovery / Website** | **75%** | Core architecture and indexed surfaces established; recrawl/indexing/stale-snippet and continued AI visibility work remain. |
 | **Brand + Revenue Engine** | **82%** | Major strategy/positioning/funnel architecture is durable; some owner decisions remain before full website/revenue freeze. |
 | **Marketing Autopilot** | **55%** | Architecture/automations/Q4 persuasion and Detective positioning exist; real feedback loop and sales execution are the next maturity step. |
@@ -21,7 +21,7 @@ Percentages estimate progress toward the currently defined DONE for each lane. T
 | **Opinie Offline Workbench** | **55%** | Synthetic deterministic engine is strong; real production stays LOCAL/OFFLINE and human-gated. |
 | **RSE Consumer Platform** | **52%** | Strong contracts/RLS/synthetic gates; no real production deployment yet. |
 | **Interactive Book App Factory** | **32%** | Engine/content contracts exist; World 01 has not yet completed a real production conversion. |
-| **24 Gentle Steps PL / app** | **30%** | Week 1 text/source QA passed; layout fit and wider localization/app preparation remain. Seasonal priority is now #3. |
+| **24 Gentle Steps PL / app** | **~38%** | Week 1 regression + source-side spot check PASS; only real-template fit of four longest headings remains before Week 1 promotion. Wider segmented localization/app work remains after that gate. |
 | **Smart CV Tailor PRIVATE** | **84%** | Static/import/renderer/matching regression is strong; final real Windows/Ollama/Chrome-Edge regression is owner-local. |
 | **Domowe Finanse 2026 PRIVATE** | **70%** | Code fixes are prepared; final real Windows + Excel COM verification is owner-local. |
 
