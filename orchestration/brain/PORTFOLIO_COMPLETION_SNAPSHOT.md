@@ -10,7 +10,7 @@ Percentages estimate progress toward the currently defined DONE for each lane. T
 |---|---:|---|
 | **RSE Brain / Orchestrator** | **97%** | Core durable memory/recovery/priority system is in place; remaining work is maintenance, delta sync and checkpoint hygiene. |
 | **Mind Bloom Private V1** | **100%** | Private V1 Source Release Candidate PASS; CI #81 SUCCESS; feature development frozen. Provider integrations and commercial fork are separate future projects. |
-| **Detective Academy** | **~88%** | Primary revenue lane. Owner-approved map system B. Local Codex report: **8/15 PASS after HMDA_15**; regression fixes remain provisional until commit/push. Next: remaining ALL-15 -> canonical integration -> final interior -> KDP preflight. |
+| **Detective Academy** | **~92%** | Primary revenue lane. Owner-approved map system B. **ALL-15 = 15/15 PASS locally**; systemic hardening committed locally at `d5e1507`, push pending safe reconciliation with newer remote head. Next: canonical integration -> final interior -> KDP preflight. |
 | **Happy Me** | **82%** | Machine/source gates largely green; remaining external Supabase/Play/signing/real-device/privacy/release gates. |
 | **Senior / Hello Today** | **80%** | Core technically advanced; remaining Play/Firebase/legal/device/human production gates. |
 | **Polish Localization Engine** | **82%** | Calibrated and Detective-ready; full Detective PL waits for EN freeze + ALL-15, while bounded prep/QA continues. |
