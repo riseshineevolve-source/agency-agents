@@ -39,12 +39,23 @@ Older portfolio/integration/queue documents described Mind Bloom as a dedicated 
 Owner decision on 2026-09-20 moved Mind Bloom implementation ownership and Codex usage governance to the Central RSE Orchestrator; the previous dedicated chat is parked/archive-only.
 Current truth: `brain/RSE_BRAIN_MASTER.md`, `brain/DECISION_LEDGER.md`, current Mind Bloom `CURRENT_EXECUTION_HANDOFF.md`, and current repository state win. Do not start a parallel Mind Bloom implementation stream. Preserve the local Phase 2A worktree before any pull/reset/rebase/checkout.
 
+### Polish Localization PR #6 branch reconciliation
+PR `riseshineevolve-source/agency-agents#6` previously had a merge conflict after the central Brain rebuild.
+Live verification on 2026-09-21 now reports `mergeable: true`, `draft: true`, head `0188a9f4b636eef6e17b793a0103d8fe88e31fe1`.
+Current truth: the branch-reconciliation blocker is CLOSED. Keep the PR draft until the localization lane is intentionally promoted; full-book Detective PL remains separately gated by explicit English-source freeze.
+
 ## Open / requires future reconciliation
 
-### Polish Localization PR #6 merge conflict
-PR `riseshineevolve-source/agency-agents#6` is open and draft but GitHub currently reports `mergeable: false` against `main` after the central Brain rebuild.
-Current handling: treat this as a branch-reconciliation blocker only. Do not discard calibrated localization work, do not force-merge, and do not start full-book scale-out. Reconcile the feature branch with current canonical Brain state before any merge decision.
-Owner decision required: no, unless reconciliation reveals a semantic conflict or reaches an existing owner gate.
+### PROGRAM_REGISTRY commercial-priority mirror lags canonical stack
+`orchestration/brain/PROGRAM_REGISTRY.yml` still mirrors `mind_bloom_private_done_frozen` as commercial priority #2.
+Current canonical truth in `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md` is:
+1. Detective Academy EN KDP,
+2. Detective Academy PL KDP,
+3. 24 Gentle Steps,
+4. Optical Animals,
+5. Consumer App Factory / Google Play,
+with Mind Bloom Private V1 frozen outside the active commercial sequence.
+Current handling: `COMMERCIAL_PRIORITY_STACK.md` wins until the next Brain/registry compaction updates the mirror. Do not route new commercial work to Mind Bloom from the stale registry field.
 
 ### Brand positioning phrases
 Both:
