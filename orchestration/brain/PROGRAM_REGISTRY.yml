@@ -1,4 +1,4 @@
-version: 12
+version: 13
 updated: 2026-09-21
 brain_status: canonical
 global:
@@ -15,10 +15,11 @@ global:
 commercial_priority_stack_2026_q4:
   canonical_file: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
   priority_1: detective_academy_english_kdp
-  priority_2: mind_bloom_private_done_frozen
+  priority_2: detective_academy_polish_kdp
   priority_3: gentle_steps_christmas
   priority_4: optical_animals
   priority_5: consumer_app_factory_google_play
+  frozen_nonactive: mind_bloom_private_v1
   parallel_below_gates:
     - senior_hello_today
     - happy_me
@@ -44,7 +45,7 @@ programs:
       - major_redesign
       - paid_ads_activation
   consumer_platform:
-    status: supabase_advanced_ephemeral_gate_A_H_verified_green
+    status: ephemeral_candidate_contract_and_drift_gate_branch_ready
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
     synthetic_data_contract_v0: orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md
     entitlement_model_v0: orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md
@@ -67,6 +68,11 @@ programs:
     supabase_ephemeral_runtime_tests: scripts/test-rse-consumer-supabase-ephemeral.sql
     supabase_advanced_static_tests: scripts/test-rse-consumer-supabase-advanced-static.py
     supabase_advanced_runtime_tests: scripts/test-rse-consumer-supabase-ephemeral-advanced.sql
+    ephemeral_candidate_branch: rse/consumer-ephemeral-candidate-contract-v0
+    ephemeral_candidate_contract: orchestration/architecture/RSE_CONSUMER_EPHEMERAL_CANDIDATE_MIGRATION_CONTRACT_V0.md
+    ephemeral_candidate_drift_test: scripts/test-rse-consumer-schema-policy-drift.py
+    ephemeral_candidate_head: deaff301895f0d23942078e698af59cceece3301
+    ephemeral_candidate_remote_verified: true
     contract_ci_run: 35531884239
     contract_ci_conclusion: PASS
     supabase_policy_contract_ci_run: 35535228276
@@ -112,7 +118,7 @@ programs:
     no_new_backend_without_justification: true
     paid_project_creation_owner_gated: true
     deployment_authorized: false
-    next_safe_slice: consolidate_verified_base_and_advanced_overlays_into_clean_ephemeral_candidate_migration_contract_and_add_deterministic_schema_policy_drift_checks
+    next_safe_slice: execute_ephemeral_candidate_drift_gate_in_deterministic_checkout_then_record_checkpoint_without_live_deployment
   interactive_book_factory:
     status: synthetic_contract_v0_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
@@ -163,11 +169,11 @@ programs:
     branch: rse/polish-localization-engine-v1
     repo: riseshineevolve-source/agency-agents
     pr: 6
-    registry_note: PR 6 is the active Polish Localization Engine v1 draft; branch reconciled with current main at 10b8189 and PR is mergeable
+    registry_note: PR 6 is the active Polish Localization Engine v1 draft; branch reconciled with current main at 10b8189 and later advanced with bounded Gentle Steps fit-gate documentation; full Detective translation remains owner-frozen
     full_book_scaleout_authorized: false
     detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
     detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
-    detective_branch_head: 3c81086556b28241747c32ccd11d88d988cc016f
+    detective_branch_head: 0188a9f4b636eef6e17b793a0103d8fe88e31fe1
     branch_reconcile_commit: 10b8189cd7c589b1f0fa0b281c6b22d0b5f4c436
     branch_reconcile_status: PASS
     regression_local_2026_09_21: PASS_37159_chars_7_fixtures
@@ -175,7 +181,7 @@ programs:
     gentle_steps_layout_gate: four_longest_headings_real_template_fit_only
     detective_regression_ci_run: 13
     detective_regression_ci_conclusion: PASS
-    detective_full_book_gate: english_canonical_master_freeze_plus_all15_pass
+    detective_full_book_gate: explicit_owner_english_canonical_master_freeze
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
@@ -189,7 +195,7 @@ programs:
     local_all15_count: 15_of_15
     local_hardening_commit: d5e1507
     local_hardening_push_status: pushed_reconciled_remote_pass
-    latest_build_ci_run: 92
+    latest_build_ci_run: 93
     latest_build_ci_conclusion: PASS
     all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
     final_english_interior: PASS
@@ -303,6 +309,7 @@ programs:
     review_history_preserved_in_serialization: pass
     review_packet_schema_roundtrip_hardening: pass
     final_expert_conclusion_automatic: false
+    real_case_data_remote_allowed: false
     next_safe_slice: preserve_green_human_gate_and_avoid_speculative_states
   content_recovery:
     status: active
