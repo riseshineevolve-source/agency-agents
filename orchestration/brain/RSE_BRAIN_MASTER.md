@@ -232,6 +232,7 @@ Current durable contracts:
 - `orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md`
 - `orchestration/architecture/RSE_CONSUMER_SUPABASE_EPHEMERAL_SQL_CHECKPOINT.md`
 - `orchestration/architecture/RSE_CONSUMER_SUPABASE_ADVANCED_GATES_CHECKPOINT.md`
+- `orchestration/architecture/RSE_CONSUMER_EPHEMERAL_CANDIDATE_CHECKPOINT.md`
 
 Current verification state:
 - the synthetic PostgreSQL 16 base RLS harness is green;
@@ -239,7 +240,7 @@ Current verification state:
 - in the advanced model, browser/mobile authenticated roles cannot directly mutate protected progress/sync state;
 - the atomic sync primitive is `SECURITY INVOKER`, executable only by a synthetic trusted-server role and accepts no client premium/entitlement claim;
 - this is still synthetic/local/CI architecture only: no live Supabase project has been created or modified and no production deployment is authorized;
-- next safe slice is a clean-ephemeral candidate migration contract plus deterministic schema/policy drift checks.
+- the clean-ephemeral candidate migration contract plus deterministic schema/policy drift checks are checkpointed; no further Consumer Platform repository-side slice is selected until real source/owner gates clear.
 
 Security-domain boundaries:
 - Happy Me remains separate by default because family/child-sensitive profiles, child-device least privilege, consent/safeguarding/media/deletion concerns increase blast-radius and authorization risk;

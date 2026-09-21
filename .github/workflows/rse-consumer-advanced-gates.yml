@@ -8,6 +8,7 @@ on:
       - 'scripts/test-rse-consumer-supabase-ephemeral-advanced.sql'
       - 'scripts/test-rse-consumer-supabase-sql-fixture.py'
       - 'scripts/test-rse-consumer-supabase-advanced-static.py'
+      - 'scripts/test-rse-consumer-schema-policy-drift.py'
       - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_rls_ephemeral.sql'
       - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_sync_boundary_ephemeral.sql'
       - '.github/workflows/rse-consumer-advanced-gates.yml'
@@ -18,6 +19,7 @@ on:
       - 'scripts/test-rse-consumer-supabase-ephemeral-advanced.sql'
       - 'scripts/test-rse-consumer-supabase-sql-fixture.py'
       - 'scripts/test-rse-consumer-supabase-advanced-static.py'
+      - 'scripts/test-rse-consumer-schema-policy-drift.py'
       - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_rls_ephemeral.sql'
       - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_sync_boundary_ephemeral.sql'
       - '.github/workflows/rse-consumer-advanced-gates.yml'
@@ -38,6 +40,8 @@ jobs:
         run: python scripts/test-rse-consumer-supabase-sql-fixture.py
       - name: Validate advanced sync overlay
         run: python scripts/test-rse-consumer-supabase-advanced-static.py
+      - name: Validate locked schema, policy and authority drift inventory
+        run: python scripts/test-rse-consumer-schema-policy-drift.py
 
   exercise-advanced-ephemeral-postgres:
     runs-on: ubuntu-latest

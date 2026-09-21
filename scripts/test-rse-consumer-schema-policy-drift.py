@@ -26,6 +26,102 @@ base = normalize(BASE_PATH.read_text(encoding="utf-8"))
 overlay = normalize(OVERLAY_PATH.read_text(encoding="utf-8"))
 combined = f"{base} {overlay}"
 
+
+def extract_create_table_bodies(sql: str) -> dict[str, str]:
+    """Return each CREATE TABLE body without relying on formatting.
+
+    The candidate is intentionally small and locked. Comparing the normalized
+    table bodies makes a column, type, default, foreign-key, UNIQUE or CHECK
+    change a deliberate contract-review event rather than silent drift.
+    """
+    pattern = re.compile(r"create table public\.([a-z_]+)\s*\(")
+    tables: dict[str, str] = {}
+    for match in pattern.finditer(sql):
+        depth = 1
+        cursor = match.end()
+        start = cursor
+        while cursor < len(sql) and depth:
+            if sql[cursor] == "(":
+                depth += 1
+            elif sql[cursor] == ")":
+                depth -= 1
+            cursor += 1
+        assert depth == 0, f"unterminated CREATE TABLE for {match.group(1)}"
+        assert sql[cursor:cursor + 1] == ";", (
+            f"CREATE TABLE for {match.group(1)} must end at its closing semicolon"
+        )
+        tables[match.group(1)] = sql[start:cursor - 1].strip()
+    return tables
+
+
+expected_table_bodies = {
+    "products": """
+        product_id text primary key,
+        is_public boolean not null default false,
+        requires_entitlement boolean not null default true
+    """,
+    "content_metadata": """
+        content_id text primary key,
+        product_id text not null references public.products(product_id),
+        locale text not null check (locale in ('en', 'pl-PL')),
+        is_public boolean not null default false
+    """,
+    "accounts": """
+        id uuid primary key,
+        locale text not null default 'en' check (locale in ('en', 'pl-PL')),
+        created_at timestamptz not null default now()
+    """,
+    "profiles": """
+        id uuid primary key,
+        account_id uuid not null references public.accounts(id) on delete cascade,
+        display_name text not null,
+        created_at timestamptz not null default now(),
+        unique (id, account_id)
+    """,
+    "entitlements": """
+        id uuid primary key,
+        account_id uuid not null references public.accounts(id) on delete cascade,
+        product_id text not null references public.products(product_id),
+        authority text not null check (authority in ('server_verified')),
+        status text not null check (status in ('active', 'revoked', 'expired')),
+        valid_until timestamptz,
+        revoked_at timestamptz,
+        created_at timestamptz not null default now(),
+        unique (account_id, product_id)
+    """,
+    "progress": """
+        id uuid primary key,
+        account_id uuid not null references public.accounts(id) on delete cascade,
+        profile_id uuid not null,
+        product_id text not null references public.products(product_id),
+        item_id text not null,
+        progress_state text not null check (progress_state in ('not_started', 'in_progress', 'completed')),
+        revision bigint not null default 0 check (revision >= 0),
+        updated_at timestamptz not null default now(),
+        foreign key (profile_id, account_id)
+          references public.profiles(id, account_id) on delete cascade,
+        unique (profile_id, product_id, item_id)
+    """,
+    "sync_state": """
+        id uuid primary key,
+        account_id uuid not null references public.accounts(id) on delete cascade,
+        profile_id uuid not null,
+        product_id text not null references public.products(product_id),
+        revision bigint not null default 0 check (revision >= 0),
+        updated_at timestamptz not null default now(),
+        foreign key (profile_id, account_id)
+          references public.profiles(id, account_id) on delete cascade,
+        unique (profile_id, product_id)
+    """,
+    "privacy_requests": """
+        id uuid primary key,
+        account_id uuid not null references public.accounts(id) on delete cascade,
+        request_type text not null check (request_type in ('export', 'delete')),
+        status text not null default 'pending' check (status in ('pending', 'processing', 'completed', 'failed')),
+        created_at timestamptz not null default now()
+    """,
+}
+
 expected_tables = {
     "accounts",
     "content_metadata",
@@ -37,10 +133,16 @@ expected_tables = {
     "sync_state",
 }
 
-base_tables = set(re.findall(r"create table public\.([a-z_]+)\s*\(", base))
-assert base_tables == expected_tables, (
+base_table_bodies = extract_create_table_bodies(base)
+assert set(base_table_bodies) == expected_tables, (
     "base schema drift: expected tables "
-    f"{sorted(expected_tables)}, got {sorted(base_tables)}"
+    f"{sorted(expected_tables)}, got {sorted(base_table_bodies)}"
+)
+assert base_table_bodies == {
+    table: normalize(body) for table, body in expected_table_bodies.items()
+}, (
+    "base schema drift: candidate column, type, default or constraint inventory "
+    "no longer matches the reviewed v0 definition"
 )
 
 enabled_rls = set(
@@ -51,33 +153,66 @@ assert enabled_rls == expected_tables, (
 )
 
 expected_policies = {
-    ("accounts_select_own", "accounts", "select"),
-    ("accounts_update_own", "accounts", "update"),
-    ("profiles_select_own", "profiles", "select"),
-    ("profiles_insert_own", "profiles", "insert"),
-    ("profiles_update_own", "profiles", "update"),
-    ("entitlements_select_own", "entitlements", "select"),
-    ("progress_select_own_product", "progress", "select"),
-    ("progress_insert_own_product", "progress", "insert"),
-    ("progress_update_own_product", "progress", "update"),
-    ("sync_state_select_own_product", "sync_state", "select"),
-    ("sync_state_insert_own_product", "sync_state", "insert"),
-    ("sync_state_update_own_product", "sync_state", "update"),
-    ("privacy_requests_select_own", "privacy_requests", "select"),
-    ("privacy_requests_insert_own", "privacy_requests", "insert"),
-    ("products_public_read", "products", "select"),
-    ("content_metadata_public_read", "content_metadata", "select"),
+    ("accounts_select_own", "accounts", "select", "authenticated"),
+    ("accounts_update_own", "accounts", "update", "authenticated"),
+    ("profiles_select_own", "profiles", "select", "authenticated"),
+    ("profiles_insert_own", "profiles", "insert", "authenticated"),
+    ("profiles_update_own", "profiles", "update", "authenticated"),
+    ("entitlements_select_own", "entitlements", "select", "authenticated"),
+    ("progress_select_own_product", "progress", "select", "authenticated"),
+    ("progress_insert_own_product", "progress", "insert", "authenticated"),
+    ("progress_update_own_product", "progress", "update", "authenticated"),
+    ("sync_state_select_own_product", "sync_state", "select", "authenticated"),
+    ("sync_state_insert_own_product", "sync_state", "insert", "authenticated"),
+    ("sync_state_update_own_product", "sync_state", "update", "authenticated"),
+    ("privacy_requests_select_own", "privacy_requests", "select", "authenticated"),
+    ("privacy_requests_insert_own", "privacy_requests", "insert", "authenticated"),
+    ("products_public_read", "products", "select", "anon,authenticated"),
+    ("content_metadata_public_read", "content_metadata", "select", "anon,authenticated"),
 }
 
 base_policies = set(
     re.findall(
-        r"create policy ([a-z0-9_]+) on public\.([a-z_]+) for (select|insert|update|delete)",
+        r"create policy ([a-z0-9_]+) on public\.([a-z_]+) for (select|insert|update|delete) to ([a-z, ]+?) (?:using|with check)",
         base,
     )
 )
+base_policies = {
+    (name, table, operation, roles.replace(" ", ""))
+    for name, table, operation, roles in base_policies
+}
 assert base_policies == expected_policies, (
-    "policy inventory drift: base fixture no longer matches the reviewed v0 set"
+    "policy identity drift: base fixture no longer matches the reviewed v0 set"
 )
+
+assert not re.search(r"\b(create|alter)\s+trigger\b", combined), (
+    "trigger drift: the reviewed candidate contains no trigger-based authority path"
+)
+assert not re.search(r"\bcreate\s+(or\s+replace\s+)?function\b", base), (
+    "base fixture drift: functions belong only to the reviewed advanced overlay"
+)
+
+expected_indexes = {
+    "idx_profiles_account_id",
+    "idx_entitlements_account_product",
+    "idx_progress_account_product_profile",
+    "idx_sync_state_account_product_profile",
+    "idx_privacy_requests_account_id",
+}
+base_indexes = set(re.findall(r"create index ([a-z0-9_]+) on public\.", base))
+assert base_indexes == expected_indexes, "index inventory drift in candidate schema"
+
+for required_grant in (
+    "grant select on public.accounts to authenticated;",
+    "grant update (locale) on public.accounts to authenticated;",
+    "grant select, insert, update on public.profiles to authenticated;",
+    "grant select on public.entitlements to authenticated;",
+    "grant select, insert, update on public.progress to authenticated;",
+    "grant select, insert, update on public.sync_state to authenticated;",
+    "grant select, insert on public.privacy_requests to authenticated;",
+    "grant select on public.products, public.content_metadata to anon, authenticated;",
+):
+    assert required_grant in base, f"client grant drift: missing {required_grant}"
 
 # The overlay is an authorization-boundary overlay, not a schema migration.
 for forbidden in (
@@ -109,6 +244,14 @@ assert functions == ["sync_progress_ephemeral"], (
 )
 
 sig = "public.sync_progress_ephemeral(uuid, uuid, text, text, bigint, text)"
+assert re.search(
+    r"create or replace function public\.sync_progress_ephemeral\(\s*"
+    r"p_account_id uuid, p_profile_id uuid, p_product_id text, p_item_id text, "
+    r"p_client_base_revision bigint, p_client_progress_state text\s*\)",
+    overlay,
+), (
+    "sync function signature drift: no overloads or caller-controlled authority inputs"
+)
 assert f"grant execute on function {sig} to trusted_server;" in overlay
 assert re.search(
     rf"revoke all on function {re.escape(sig)} from public, anon, authenticated;",
