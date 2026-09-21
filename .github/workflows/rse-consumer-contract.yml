@@ -1,0 +1,104 @@
+name: RSE Consumer Contract
+
+on:
+  push:
+    paths:
+      - 'scripts/validate-rse-consumer-contract.py'
+      - 'scripts/test-rse-consumer-contract.py'
+      - 'scripts/test-rse-consumer-security-boundaries.py'
+      - 'scripts/test-rse-consumer-privacy-lifecycle.py'
+      - 'scripts/test-rse-consumer-supabase-policy-contract.py'
+      - 'scripts/test-rse-consumer-supabase-sql-fixture.py'
+      - 'scripts/rse-consumer-supabase-ephemeral-bootstrap.sql'
+      - 'scripts/test-rse-consumer-supabase-ephemeral.sql'
+      - 'orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_AUTHORIZATION_MATRIX_V0.md'
+      - 'orchestration/architecture/RSE_OFFLINE_SYNC_CONFLICT_POLICY_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_PRIVACY_LIFECYCLE_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_SUPABASE_RLS_POLICY_MAP_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_SUPABASE_SQL_TEST_PLAN_V0.md'
+      - 'orchestration/architecture/fixtures/consumer-platform-v0/**'
+      - '.github/workflows/rse-consumer-contract.yml'
+  pull_request:
+    paths:
+      - 'scripts/validate-rse-consumer-contract.py'
+      - 'scripts/test-rse-consumer-contract.py'
+      - 'scripts/test-rse-consumer-security-boundaries.py'
+      - 'scripts/test-rse-consumer-privacy-lifecycle.py'
+      - 'scripts/test-rse-consumer-supabase-policy-contract.py'
+      - 'scripts/test-rse-consumer-supabase-sql-fixture.py'
+      - 'scripts/rse-consumer-supabase-ephemeral-bootstrap.sql'
+      - 'scripts/test-rse-consumer-supabase-ephemeral.sql'
+      - 'orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_AUTHORIZATION_MATRIX_V0.md'
+      - 'orchestration/architecture/RSE_OFFLINE_SYNC_CONFLICT_POLICY_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_PRIVACY_LIFECYCLE_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_SUPABASE_RLS_POLICY_MAP_V0.md'
+      - 'orchestration/architecture/RSE_CONSUMER_SUPABASE_SQL_TEST_PLAN_V0.md'
+      - 'orchestration/architecture/fixtures/consumer-platform-v0/**'
+      - '.github/workflows/rse-consumer-contract.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate-consumer-contract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate canonical synthetic consumer fixture
+        run: python scripts/validate-rse-consumer-contract.py orchestration/architecture/fixtures/consumer-platform-v0/synthetic_consumer.valid.json
+      - name: Run identity and entitlement fail-closed tests
+        run: python scripts/test-rse-consumer-contract.py
+      - name: Run authorization and offline sync boundary tests
+        run: python scripts/test-rse-consumer-security-boundaries.py
+      - name: Run privacy lifecycle and account-linking tests
+        run: python scripts/test-rse-consumer-privacy-lifecycle.py
+      - name: Run Supabase RLS policy-map contract tests
+        run: python scripts/test-rse-consumer-supabase-policy-contract.py
+      - name: Statically validate ephemeral Supabase SQL fixture
+        run: python scripts/test-rse-consumer-supabase-sql-fixture.py
+
+  exercise-ephemeral-postgres-rls:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: rse_consumer_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres -d rse_consumer_test"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      PGHOST: 127.0.0.1
+      PGPORT: 5432
+      PGDATABASE: rse_consumer_test
+      PGUSER: postgres
+      PGPASSWORD: postgres
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ensure PostgreSQL client is available
+        run: |
+          if ! command -v psql >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y postgresql-client
+          fi
+          psql --version
+      - name: Create synthetic Supabase role/auth shim
+        run: psql -f scripts/rse-consumer-supabase-ephemeral-bootstrap.sql
+      - name: Apply synthetic RLS prototype
+        run: psql -f orchestration/architecture/fixtures/consumer-platform-v0/supabase_rls_ephemeral.sql
+      - name: Exercise owner, product, entitlement and privacy boundaries
+        run: psql -f scripts/test-rse-consumer-supabase-ephemeral.sql

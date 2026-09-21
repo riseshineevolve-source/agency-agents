@@ -1,0 +1,33 @@
+name: Interactive Book Contract
+
+on:
+  push:
+    paths:
+      - 'scripts/validate-interactive-book-pack.py'
+      - 'scripts/test-interactive-book-validator.py'
+      - 'orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md'
+      - 'orchestration/architecture/fixtures/interactive-book/**'
+      - '.github/workflows/interactive-book-contract.yml'
+  pull_request:
+    paths:
+      - 'scripts/validate-interactive-book-pack.py'
+      - 'scripts/test-interactive-book-validator.py'
+      - 'orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md'
+      - 'orchestration/architecture/fixtures/interactive-book/**'
+
+permissions:
+  contents: read
+
+jobs:
+  validate-contract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate canonical synthetic fixture
+        run: python scripts/validate-interactive-book-pack.py orchestration/architecture/fixtures/interactive-book/synthetic_world.valid.json
+      - name: Run fail-closed regression suite
+        run: python scripts/test-interactive-book-validator.py

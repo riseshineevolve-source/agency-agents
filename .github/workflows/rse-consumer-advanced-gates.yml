@@ -1,0 +1,82 @@
+name: RSE Consumer Advanced Gates
+
+on:
+  push:
+    paths:
+      - 'scripts/rse-consumer-supabase-ephemeral-bootstrap.sql'
+      - 'scripts/test-rse-consumer-supabase-ephemeral.sql'
+      - 'scripts/test-rse-consumer-supabase-ephemeral-advanced.sql'
+      - 'scripts/test-rse-consumer-supabase-sql-fixture.py'
+      - 'scripts/test-rse-consumer-supabase-advanced-static.py'
+      - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_rls_ephemeral.sql'
+      - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_sync_boundary_ephemeral.sql'
+      - '.github/workflows/rse-consumer-advanced-gates.yml'
+  pull_request:
+    paths:
+      - 'scripts/rse-consumer-supabase-ephemeral-bootstrap.sql'
+      - 'scripts/test-rse-consumer-supabase-ephemeral.sql'
+      - 'scripts/test-rse-consumer-supabase-ephemeral-advanced.sql'
+      - 'scripts/test-rse-consumer-supabase-sql-fixture.py'
+      - 'scripts/test-rse-consumer-supabase-advanced-static.py'
+      - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_rls_ephemeral.sql'
+      - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_sync_boundary_ephemeral.sql'
+      - '.github/workflows/rse-consumer-advanced-gates.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  static-guard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate base SQL fixture
+        run: python scripts/test-rse-consumer-supabase-sql-fixture.py
+      - name: Validate advanced sync overlay
+        run: python scripts/test-rse-consumer-supabase-advanced-static.py
+
+  exercise-advanced-ephemeral-postgres:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: rse_consumer_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres -d rse_consumer_test"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      PGHOST: 127.0.0.1
+      PGPORT: 5432
+      PGDATABASE: rse_consumer_test
+      PGUSER: postgres
+      PGPASSWORD: postgres
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ensure PostgreSQL client is available
+        run: |
+          if ! command -v psql >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y postgresql-client
+          fi
+          psql --version
+      - name: Create synthetic Supabase role/auth shim
+        run: psql -f scripts/rse-consumer-supabase-ephemeral-bootstrap.sql
+      - name: Apply base synthetic RLS prototype
+        run: psql -f orchestration/architecture/fixtures/consumer-platform-v0/supabase_rls_ephemeral.sql
+      - name: Exercise baseline owner/product/privacy boundaries
+        run: psql -f scripts/test-rse-consumer-supabase-ephemeral.sql
+      - name: Apply advanced server-mediated sync overlay
+        run: psql -f orchestration/architecture/fixtures/consumer-platform-v0/supabase_sync_boundary_ephemeral.sql
+      - name: Exercise advanced Gate A-H boundaries
+        run: psql -f scripts/test-rse-consumer-supabase-ephemeral-advanced.sql

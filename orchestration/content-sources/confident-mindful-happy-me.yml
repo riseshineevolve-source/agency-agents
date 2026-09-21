@@ -1,0 +1,71 @@
+version: 2
+recovered: 2026-09-17
+project_id: confident_mindful_happy_me_adventure
+canonical_product_family: The Confident Mindful & Happy Me Adventure
+status: published_master_recovered
+language: en
+rights_owner: Rise.Shine.Evolve.
+
+publication:
+  paperback_isbn: '9798278611301'
+  year: 2025
+  interior_pages: 244
+
+sources:
+  - original_filename: 'Paperback  final fixed print.pdf'
+    role: published_print_interior_master
+    storage: private_master_binary
+    sha256: d1a2cdc8f97589cc909693926963f309c34ffdf3ecfb0b5a8336f8ca7f905f2e
+    bytes: 18081410
+    pages: 244
+    dimensions_points: '513 x 738'
+    translation_authority: visual_layout_master
+  - original_filename: 'Paperback_final_fixed_extracted_text.docx'
+    role: extracted_text_source
+    storage: private_master_binary
+    sha256: 1bd3aa1443ef8439d85f0b67f05017c84d749a1f8b26758c1a20a92734341013
+    bytes: 67297
+    translation_authority: text_working_source_crosscheck_against_pdf
+  - original_filename: 'Paperback cover final.pdf'
+    role: paperback_cover_master
+    storage: private_master_binary
+    sha256: cefa6b28aeace02d4b00655a478464e89cc3317ddbdd5e453174b6a6582c3e18
+    bytes: 4255332
+    pages: 1
+  - original_filename: 'the  confident HARDCOVER BOOK COVER(1).pdf'
+    role: hardcover_cover_master
+    storage: private_master_binary
+    sha256: 73bd46d877820a4639909127e87d993f4d2566977931a76d3afe16c9345e01b6
+    bytes: 4353250
+    pages: 1
+  - original_filename: 'ebook the confident ostateczny druk rgb_KC OSTATECZNY.kcb'
+    role: kindle_create_project_descriptor
+    storage: private_master_binary
+    sha256: 62e6f7c9a3fa73f33692ffff2bc06f6064e8aa8c05796b7e00961d5845b56f1f
+    bytes: 822
+    self_contained: false
+    note: 'KCB references a sibling resources folder; descriptor alone is not a complete editable ebook project.'
+  - original_filename: 'ebook the confident ostateczny druk rgb OSTATECZNY(1).kpf'
+    role: kindle_create_packaged_project
+    storage: private_master_binary
+    sha256: 899757dfe2de77bc95739ad5b22420d0c75959e6f80c21f8efa8c0d506dfd206
+    bytes: 238805225
+    self_contained_archive: true
+    verified_archive_members:
+      - book.kcb
+      - resources/book.kdf
+      - resources/book.kdf-journal
+      - resources/ManifestFile
+      - resources/res/rsrc8
+    note: 'Recovered KPF is a substantial packaged archive containing the Kindle Create project and resources, so the previously missing Kindle resources dependency is now covered by a durable master binary.'
+
+reuse:
+  polish_localization_engine: true
+  future_app_content_graph: true
+  character_universe_source: true
+  direct_binary_commit_to_public_github: false
+
+locks:
+  - published English interior is immutable calibration evidence
+  - extracted DOCX may support translation but must be reconciled against the published PDF
+  - keep the full KPF as the preferred recoverable Kindle package; do not rely on the tiny KCB descriptor alone

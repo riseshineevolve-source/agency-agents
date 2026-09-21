@@ -1,0 +1,49 @@
+{
+  "schema_version": "0.1.0",
+  "product_id": "synthetic_world",
+  "content_pack_id": "synthetic_world_core",
+  "content_version": "1.0.0",
+  "canonical_locale": "en",
+  "supported_locales": ["en", "pl-PL"],
+  "minimum_runtime_contract": "0.1.0",
+  "activities": [
+    {
+      "activity_id": "mission_001",
+      "activity_type": "reflection_choice",
+      "sequence": 1,
+      "required": true,
+      "interaction": {"mode": "single_choice", "option_ids": ["option_a", "option_b"]},
+      "progress": {"completion_rule": "submit_once", "unlock_ids": ["mission_002"]},
+      "assets": [{"asset_id": "mission_001_hero", "kind": "image", "bundled_path": "assets/synthetic_hero.webp", "alt_copy_key": "mission_001.hero_alt", "required_offline": true}],
+      "accessibility": {"requires_audio_alternative": true, "requires_motion_reduction_variant": false}
+    },
+    {
+      "activity_id": "mission_002",
+      "activity_type": "info_card",
+      "sequence": 2,
+      "required": true,
+      "interaction": {"mode": "continue", "option_ids": []},
+      "progress": {"completion_rule": "submit_once", "unlock_ids": ["mission_003"]},
+      "assets": [],
+      "accessibility": {"requires_audio_alternative": false, "requires_motion_reduction_variant": false}
+    },
+    {
+      "activity_id": "mission_003",
+      "activity_type": "check_in",
+      "sequence": 3,
+      "required": false,
+      "interaction": {"mode": "acknowledge", "option_ids": []},
+      "progress": {"completion_rule": "submit_once", "unlock_ids": []},
+      "assets": [],
+      "accessibility": {"requires_audio_alternative": false, "requires_motion_reduction_variant": true}
+    }
+  ],
+  "localized_copy": [
+    {"locale": "en", "activity_id": "mission_001", "title": "Synthetic mission", "prompt": "Choose one synthetic option.", "options": {"option_a": "Synthetic A", "option_b": "Synthetic B"}, "accessibility": {"screen_reader_prompt": "Choose one option."}},
+    {"locale": "pl-PL", "activity_id": "mission_001", "title": "Misja testowa", "prompt": "Wybierz jedną testową opcję.", "options": {"option_a": "Opcja A", "option_b": "Opcja B"}, "accessibility": {"screen_reader_prompt": "Wybierz jedną opcję."}},
+    {"locale": "en", "activity_id": "mission_002", "title": "Synthetic card", "prompt": "Read the synthetic card.", "options": {}, "accessibility": {}},
+    {"locale": "pl-PL", "activity_id": "mission_002", "title": "Karta testowa", "prompt": "Przeczytaj testową kartę.", "options": {}, "accessibility": {}},
+    {"locale": "en", "activity_id": "mission_003", "title": "Synthetic check-in", "prompt": "Acknowledge the synthetic check-in.", "options": {}, "accessibility": {}},
+    {"locale": "pl-PL", "activity_id": "mission_003", "title": "Testowe podsumowanie", "prompt": "Potwierdź testowe podsumowanie.", "options": {}, "accessibility": {}}
+  ]
+}

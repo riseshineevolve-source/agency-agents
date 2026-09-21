@@ -1,0 +1,310 @@
+version: 12
+updated: 2026-09-21
+brain_status: canonical
+global:
+  master_brand: Rise.Shine.Evolve.
+  working_positioning: Real-life skills, made playable.
+  primary_acquisition_audience: parents_caregivers_children_6_10
+  source_language: en
+  localization_target: pl-PL
+  routing: core_first_specialists_on_demand
+  default_max_active_roles: 4
+  chat_is_source_of_truth: false
+  target_consumer_architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
+  backend_creation_policy: reuse_existing_platform_unless_isolation_is_justified
+commercial_priority_stack_2026_q4:
+  canonical_file: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
+  priority_1: detective_academy_english_kdp
+  priority_2: mind_bloom_private_done_frozen
+  priority_3: gentle_steps_christmas
+  priority_4: optical_animals
+  priority_5: consumer_app_factory_google_play
+  parallel_below_gates:
+    - senior_hello_today
+    - happy_me
+    - opinie
+    - ai_discovery_website
+  revenue_first: true
+  google_play_duns_must_not_block_kdp_revenue: true
+
+programs:
+  brand_and_business:
+    status: owner_decision_packet_ready
+    execution_owner: central_orchestrator
+    owner_gate_packet: orchestration/owner-gates/BRAND_REVENUE_WEBSITE_V2_DECISION_PACKET.md
+    next_gate: owner_resolve_D1_D4_before_website_v2_english_freeze
+  revenue_engine:
+    status: strategic_foundation_recovered
+    name: RSE CORE Revenue Engine v1
+    owner_gated:
+      - positioning_changes
+      - new_products
+      - subscriptions
+      - pricing
+      - major_redesign
+      - paid_ads_activation
+  consumer_platform:
+    status: supabase_advanced_ephemeral_gate_A_H_verified_green
+    architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
+    synthetic_data_contract_v0: orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md
+    entitlement_model_v0: orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md
+    authorization_matrix_v0: orchestration/architecture/RSE_CONSUMER_AUTHORIZATION_MATRIX_V0.md
+    offline_sync_policy_v0: orchestration/architecture/RSE_OFFLINE_SYNC_CONFLICT_POLICY_V0.md
+    privacy_lifecycle_v0: orchestration/architecture/RSE_CONSUMER_PRIVACY_LIFECYCLE_V0.md
+    supabase_rls_policy_map_v0: orchestration/architecture/RSE_CONSUMER_SUPABASE_RLS_POLICY_MAP_V0.md
+    supabase_sql_test_plan_v0: orchestration/architecture/RSE_CONSUMER_SUPABASE_SQL_TEST_PLAN_V0.md
+    supabase_ephemeral_sql_checkpoint: orchestration/architecture/RSE_CONSUMER_SUPABASE_EPHEMERAL_SQL_CHECKPOINT.md
+    supabase_advanced_gates_checkpoint: orchestration/architecture/RSE_CONSUMER_SUPABASE_ADVANCED_GATES_CHECKPOINT.md
+    supabase_ephemeral_sql_fixture: orchestration/architecture/fixtures/consumer-platform-v0/supabase_rls_ephemeral.sql
+    supabase_advanced_sync_fixture: orchestration/architecture/fixtures/consumer-platform-v0/supabase_sync_boundary_ephemeral.sql
+    synthetic_fixture: orchestration/architecture/fixtures/consumer-platform-v0/synthetic_consumer.valid.json
+    validator: scripts/validate-rse-consumer-contract.py
+    regression_tests: scripts/test-rse-consumer-contract.py
+    security_boundary_tests: scripts/test-rse-consumer-security-boundaries.py
+    privacy_lifecycle_tests: scripts/test-rse-consumer-privacy-lifecycle.py
+    supabase_policy_contract_tests: scripts/test-rse-consumer-supabase-policy-contract.py
+    supabase_ephemeral_static_tests: scripts/test-rse-consumer-supabase-sql-fixture.py
+    supabase_ephemeral_runtime_tests: scripts/test-rse-consumer-supabase-ephemeral.sql
+    supabase_advanced_static_tests: scripts/test-rse-consumer-supabase-advanced-static.py
+    supabase_advanced_runtime_tests: scripts/test-rse-consumer-supabase-ephemeral-advanced.sql
+    contract_ci_run: 35531884239
+    contract_ci_conclusion: PASS
+    supabase_policy_contract_ci_run: 35535228276
+    supabase_policy_contract_ci_conclusion: PASS
+    supabase_ephemeral_ci_run: 35538201529
+    supabase_ephemeral_ci_conclusion: PASS
+    supabase_advanced_ci_run: 35541200417
+    supabase_advanced_ci_conclusion: PASS
+    verified_head: 9baf778da210b4c354dcb10e19d452f9524df8e6
+    checkpoint_head: e1d2570d32e7149a068eeea8b8d0de6f9f08a8c5
+    identity_is_not_entitlement: true
+    product_scoped_entitlements_required: true
+    cross_user_isolation_contract: verified_synthetic
+    cross_product_isolation_contract: verified_synthetic
+    client_entitlement_mutation: denied_by_contract
+    revoked_expired_entitlement: fail_closed
+    offline_progress_merge: monotonic
+    generic_last_write_wins: forbidden
+    guest_link_grants_entitlement: false
+    guest_link_idempotent: verified_synthetic
+    privacy_export_cross_user_leak: denied_by_contract
+    deletion_lifecycle_server_authoritative: true
+    email_is_ownership_key: false
+    separate_domain_deletion_implicit: false
+    supabase_rls_contract: verified_synthetic
+    supabase_ephemeral_rls_runtime: verified_synthetic_postgres16
+    advanced_sync_boundary: trusted_server_security_invoker_only
+    authenticated_direct_progress_sync_mutation: denied_in_advanced_model
+    client_premium_claim_accepted: false
+    supabase_remote_deployment_authorized: false
+    shared_backend_candidates:
+      - rse_consumer_account_surfaces
+      - world_01
+      - world_02
+      - gentle_steps_christmas_app
+    separate_domains:
+      happy_me: family_child_sensitive_backend
+      senior: retain_existing_firebase_architecture
+      mind_bloom: private_owner_only_not_commercial
+      opinie: real_data_local_offline
+      smart_cv_tailor: local_private
+      domowe_finanse: local_private
+    no_new_backend_without_justification: true
+    paid_project_creation_owner_gated: true
+    deployment_authorized: false
+    next_safe_slice: consolidate_verified_base_and_advanced_overlays_into_clean_ephemeral_candidate_migration_contract_and_add_deterministic_schema_policy_drift_checks
+  interactive_book_factory:
+    status: synthetic_contract_v0_verified_green
+    architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
+    content_contract_v0: orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md
+    synthetic_fixture: orchestration/architecture/fixtures/interactive-book-v0/synthetic-world-valid.json
+    validator_ci_run: 35525269062
+    validator_ci_conclusion: PASS
+    verified_head: e9deff5f2d4f8158636730e3d32a22838d947ada
+    fail_closed_tests: PASS
+    intended_first_pilot: world_01_after_source_approval
+    reuse_candidates:
+      - world_02
+      - gentle_steps_christmas_app
+    bilingual_default: en_plus_pl_in_one_product
+    offline_first_default: true
+    real_product_conversion_authorized: false
+    deployment_authorized: false
+    next_gate: owner_source_approval_before_world_01_real_content_conversion
+  ai_discovery:
+    status: active_measurement
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    issue: 584
+    canonical_architecture: one_product_entity_truth_many_adapters
+    c2_content_authorized: false
+  marketing_autopilot:
+    status: active_dedicated_execution
+    execution_owner: dedicated_marketing_chat
+    central_role: milestones_blockers_shared_dependencies_only
+    planned_agents:
+      - RSE_Marketing_Orchestrator
+      - RSE_Paid_Growth_Controller
+      - RSE_KDP_Ads_Optimizer
+    live_connector_state: verify_on_use
+    strategy_framework: orchestration/marketing/RSE_Q4_ETHICAL_PERSUASION_FRAMEWORK.md
+    strategy_framework_status: active_owner_controlled_paid_activation
+    dedicated_handoff_status: strategy_checkpoint_present_full_execution_handoff_not_yet_durable
+    next_gate: create_durable_marketing_brain_and_live_verify_publishers
+  polish_localization:
+    status: detective_calibrated_second_commercial_priority
+    branch: rse/polish-localization-engine-v1
+    repo: riseshineevolve-source/agency-agents
+    pr: 6
+    registry_note: PR 6 is the active Polish Localization Engine v1 draft and currently has a merge conflict against main; reconcile branch with canonical Brain before any merge decision
+    full_book_scaleout_authorized: false
+    detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
+    detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
+    detective_branch_head: 712791d7374978fc98b35af97cc6b50d19979483
+    detective_regression_ci_run: 13
+    detective_regression_ci_conclusion: PASS
+    detective_full_book_gate: english_canonical_master_freeze_plus_all15_pass
+    commercial_priority: second_after_detective_english_kdp
+    gentle_steps_round_1: pass_for_one_week_controlled_expansion
+  detective_academy:
+    status: final_english_interior_kdp_preflight_pass
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    branch: feature/detective-book-factory
+    pr: 571
+    current_head: 6aef8cefdce029413f2cc29e656d5fbad99d546c
+    locked_modules: 15
+    local_all15_pass: true
+    local_all15_count: 15_of_15
+    local_hardening_commit: d5e1507
+    local_hardening_push_status: pushed_reconciled_remote_pass
+    latest_build_ci_run: 92
+    latest_build_ci_conclusion: PASS
+    all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
+    final_english_interior: PASS
+    final_english_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_All15_Final.pdf
+    final_page_count: 141
+    kdp_preflight: PASS
+    print_scale_previews: 141
+    latest_verified_build_run: 93
+    latest_verified_build_conclusion: success
+    latest_verified_seo_run: 551
+    latest_verified_seo_conclusion: success
+    next_execution_mode: owner_visual_review_cover_proof_upload_then_english_freeze
+    asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
+    final_interior_blocker: none
+    hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
+    local_dirty_worktree_protection: true
+    source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
+    source_label_two_page_auto_classification: owner_authorized
+    hmda_04_source_rooms_0_3_label_state: absent_verified
+    kdp_positioning_lock: marketing/detective-academy-kdp-positioning.md
+    commercial_priority_rank: 1
+    visual_gate_decision: B_APPROVE_WITH_SMALL_FIXES
+    visual_gate_status: CLOSED
+    naming_direction: branded_academy_adventure
+    mechanical_all15_design_gate_required: false
+    owned_category: book_long_detective_adventure_reader_is_missing_detective
+    core_marketing_hook: "30 CASES. ONE HIDDEN MYSTERY. YOU'RE THE MISSING DETECTIVE."
+    book_itself_is_evidence: true
+    second_use_clue_mechanic: protected_signature
+    hint_vault_as_confidence_feature: true
+  happy_me:
+    status: external_device_release_gates
+    repo: riseshineevolve-source/riseshineevolve
+    branch: mobile/mobile-first-rebuild
+  optical_animals:
+    status: active_curation
+    repo: riseshineevolve-source/riseshineevolve
+    branch: feat/optical-animals-book-creator
+    pr: 14
+    approved_visuals: 12
+    unresolved_visuals: 8
+  senior:
+    status: active_central_execution
+    repo: riseshineevolve-source/hello-today-android.
+    current_pr: 77
+    current_phase: 14H
+  mind_bloom:
+    status: private_v1_source_release_candidate_frozen
+    commercial_status: private_owner_only
+    execution_owner: central_orchestrator
+    previous_dedicated_chat: parked_archive_only
+    codex_usage_governor: central_orchestrator
+    repo: riseshineevolve-source/mind-bloom-assistant
+    current_pr: 2
+    completed_phase: Phase_1H_A_B_C_D
+    completed_slices:
+      - Phase_1H_A_Daily_Brief_Attention_Engine_V0
+      - Phase_1H_B_Inbox_to_Life_Admin_Promotion
+      - Phase_1H_C_Inbox_to_People_Promotion
+      - Phase_1H_D_Universal_Chief_of_Staff_Search
+      - Phase_2A_0_Integration_Architecture_Threat_Model
+      - Phase_2A_1_Metadata_Only_Integration_Foundation
+      - Phase_2A_2_Reviewed_External_Ingestion_Contract
+      - Phase_2A_Integration_Security_Regression_Hardening
+    active_slice: Phase_2B_provider_gate_owner_decision_only
+    current_remote_head: bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13
+    latest_product_slice_head: b0435883d97abce52ed72eb4475eab6398f4c4c5
+    latest_live_ci_run: 81
+    latest_live_ci_head: bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13
+    latest_live_ci_conclusion: success
+    latest_verified_ci_run: 65
+    latest_verified_ci_conclusion: success
+    local_worktree_must_be_inspected_before_reset_pull_rebase: true
+    people_memory_remote_migration: 20260918160000_add_people_memory_v0
+    remote_schema_state: people_memory_1H_B_C_2A_1_metadata_and_2A_3_staging_verified_active
+    phase_1h_a_remote_sql_required: false
+    phase_1h_b_remote_sql: applied_verified
+    phase_1h_c_remote_sql: applied_verified
+    phase_1h_d_remote_sql_required: false
+    phase_1h_d_verification: 84_files_411_tests_typescript_eslint_build_mobile_edge_fixture_pass
+    phase_2a_0: completed_architecture_and_threat_model
+    phase_2a_1: completed_metadata_only_foundation
+    phase_2a_1_verification: 2_files_14_tests_typescript_scoped_lint_diff_check_pass
+    phase_2a_1_remote_sql: applied_verified
+    phase_2a_3_remote_sql: applied_verified
+    phase_2a_2: completed_reviewed_external_ingestion_contract
+    phase_2a_hardening: completed_integration_security_regression_hardening
+    phase_2a_hardening_focused_verification: 4_files_29_tests_pass
+    phase_2a_final_verification: 88_files_440_tests_typescript_scoped_lint_diff_check_production_build_pass
+    phase_2a_1_runtime_surface_changed: false
+    phase_2a_boundary: architecture_threat_model_metadata_only_state_reviewed_ingestion_contracts_no_external_accounts_or_oauth
+    private_v1_source_release_candidate: PASS
+    private_v1_feature_development_frozen: true
+    phase_2b_gate: owner_select_one_provider_and_approve_least_privilege_scopes_token_broker_kms_retention_callback_pkce_server_adapter_and_remote_staging_activation_before_oauth_or_provider_implementation
+    ci_note: run_72_failed_before_runner_assignment_with_no_job_steps_so_code_regression_not_established_same_class_as_run_68; GitHub Actions budget exhausted; Mind Bloom CI moved to ubuntu-slim for lower future cost
+  opinie:
+    status: active_synthetic_bootstrap
+    staging_repo: riseshineevolve-source/riseshineevolve
+    branch: feat/opinie-offline-workbench-bootstrap
+    draft_pr: 18
+    production_runtime: local_offline
+    real_data_remote_allowed: false
+    latest_live_ci_run: 63
+    latest_live_ci_head: b973797697516ec7bbbea6f2d42fbc7381d3a1b8
+    latest_live_ci_conclusion: PASS
+    explicit_human_review_transitions: pass
+    synthetic_evidence_ingest_normalization: pass
+    non_json_ingest_payloads: fail_closed
+    non_finite_ingest_numbers: fail_closed
+    deterministic_review_packet_serialization: pass
+    review_history_preserved_in_serialization: pass
+    review_packet_schema_roundtrip_hardening: pass
+    final_expert_conclusion_automatic: false
+    next_safe_slice: preserve_green_human_gate_and_avoid_speculative_states
+  content_recovery:
+    status: active
+    policy: orchestration/RSE_CONTENT_SOURCE_POLICY.md
+    queue: orchestration/RSE_CONTENT_RECOVERY_QUEUE.md
+hold:
+  wave_2:
+    - happy-makers-quest
+    - family-mission-control
+    - unstoppable-me
+    - night-command
+    - family-hearth-stories
+    - spark-joy-fam
+    - neon-wonder-world
+  gifts:
+    - word-search-puzzle
+    - Happy-Makers-Calm-Wheel
+    - 1-minute-challange

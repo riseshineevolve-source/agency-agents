@@ -29,9 +29,10 @@ JSON="divisions.json"
 # into the repo), not a source-agent category. strategy/ holds playbooks and
 # runbooks. rse/ holds the Rise.Shine.Evolve routing/install layer. localization/
 # holds locale resources, glossaries and regression fixtures; its executable
-# localization agents live under specialized/. These directories must never be
-# treated as source-agent divisions.
-NON_DIVISION_DIRS=(examples scripts integrations strategy rse localization)
+# localization agents live under specialized/. orchestration/ holds durable
+# portfolio state, project bootstraps and operating contracts. These directories
+# must never be treated as source-agent divisions.
+NON_DIVISION_DIRS=(examples scripts integrations strategy rse localization orchestration)
 
 errors=0
 fail() { echo "ERROR $*"; errors=$((errors + 1)); }

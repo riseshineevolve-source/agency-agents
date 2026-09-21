@@ -1,0 +1,51 @@
+version: 1
+book_id: replace-me
+canonical_title: Replace Me
+aliases: []
+brand: Rise.Shine.Evolve.
+universe: null
+series: null
+source_language: en
+edition:
+  label: null
+  publication_state: draft
+  publication_date: null
+  format: null
+identifiers:
+  isbn13: null
+  asin: null
+source_artifacts:
+  print_master:
+    filename: null
+    sha256: null
+    storage_class: external_private_master
+  ebook_master:
+    filename: null
+    sha256: null
+    format: null
+  editable_source:
+    filename: null
+    sha256: null
+    format: null
+content:
+  structured_text_path: null
+  glossary_path: null
+  character_bible_path: null
+  page_or_mission_map_path: null
+localization:
+  pl_PL:
+    state: not_started
+    source_locked: false
+    package_path: null
+app_reuse:
+  state: not_assessed
+  derivative_package_path: null
+  notes: null
+rights:
+  owner: Rise.Shine.Evolve.
+  third_party_assets_reviewed: false
+  notes: null
+provenance:
+  recovered_from: []
+  last_verified: null
+  verified_by: null

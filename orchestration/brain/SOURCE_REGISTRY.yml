@@ -1,0 +1,111 @@
+version: 1
+updated: 2026-09-18
+authority_order:
+  - current_repository_state
+  - explicit_owner_current_manifest_or_lock
+  - rse_brain_decision_ledger
+  - current_library_project_artifact
+  - recovered_chat_export
+  - model_recollection
+recovered_chat_sources:
+  - id: central_orchestrator_history
+    artifact: Wklejony kod markdown(8).md
+    status: recovered_support
+    covers:
+      - portfolio_orchestration
+      - recovery_index
+      - content_source_policy
+      - detective
+      - optical_animals
+      - opinie
+      - wave_2_inventory
+  - id: central_history_docx
+    artifact: historie czatow.docx
+    status: recovered_support
+    covers:
+      - cross_project_status
+      - detective_book_factory
+      - ci_recovery
+      - content_recovery
+  - id: ai_discovery_history
+    artifact: AI Discovery.docx
+    status: recovered_support
+    covers:
+      - ai_discovery_strategy
+      - product_entity_truth
+      - platform_adapters
+      - intent_architecture
+      - indexing_measurement
+  - id: ai_discovery_implementation_brief
+    artifact: RSE_AI_DISCOVERY_COMMERCE_IMPLEMENTATION_BRIEF_2026-09-16
+    status: current_support
+  - id: marketing_history
+    artifact: Automatyzacja marketingu.docx
+    status: recovered_support
+    covers:
+      - marketing_orchestrator
+      - paid_growth
+      - kdp_ads
+      - social_content_factory
+      - metricool_creative_claw_windsor
+  - id: business_strategy
+    artifact: strategia biznezu RSE.docx
+    status: recovered_support
+    covers:
+      - revenue_engine
+      - funnel
+      - event_tracking
+      - owner_gates
+  - id: brand_foundation
+    artifact: The brand foundation system.docx
+    status: recovered_support
+    covers:
+      - brand_architecture
+      - positioning
+      - audience
+      - voice
+      - visual_system
+      - website_v2
+  - id: polish_localization
+    artifact: RSE tlumaczenia.docx
+    status: recovered_support
+    covers:
+      - localization_pipeline
+      - roles
+      - quality_gates
+      - anti_ai_rules
+  - id: mind_bloom_history
+    artifact: Mind Bloom asistant.docx
+    status: recovered_support
+    covers:
+      - mind_bloom_handoff
+      - supabase_security
+      - media_import
+      - life_admin
+      - people_memory
+  - id: night_shifts
+    artifact: night shifts.docx
+    status: recovered_support
+    covers:
+      - senior_phase_14h
+      - mind_bloom_night_progress
+      - self_repair_checkpoints
+private_heavy_sources:
+  policy: external_private_master
+  examples:
+    - published_pdf
+    - epub
+    - kpf
+    - cover_master
+    - artwork_master
+    - confidential_local_case_data
+  pointer_policy: store_filename_hash_storage_class_provenance_not_binary
+
+chat_id_map:
+  - conversation_id: 6aa25505-d178-83eb-b1dd-d37d46e52184
+    role: original_central_ai_agents_orchestrator_lineage
+    recovery_status: substantially_recovered_from_uploaded_archives_and_durable_github_state
+  - conversation_id: 6aaacfc1-f830-83ed-861b-8a08d7fd4f88
+    title: Senior App CI Watch
+    role: senior_execution_ci_watch
+    recovery_status: identified_in_uploaded_html_and_reconciled_with_senior_pr_77_night_shift_history

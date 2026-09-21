@@ -1,0 +1,207 @@
+version: 7
+updated: 2026-09-20
+status: PASS
+checkpoint_type: full_chat_history_reconciliation_and_brain_rebuild
+authority:
+  primary_repo: riseshineevolve-source/agency-agents
+  brain_master: orchestration/brain/RSE_BRAIN_MASTER.md
+  decisions: orchestration/brain/DECISION_LEDGER.md
+  programs: orchestration/brain/PROGRAM_REGISTRY.yml
+  sources: orchestration/brain/SOURCE_REGISTRY.yml
+  conflicts: orchestration/brain/CONFLICT_LOG.md
+  owner_gates: orchestration/brain/OWNER_GATES.md
+  sync_runbook: orchestration/brain/SYNC_RUNBOOK.md
+recovered_domains:
+  - central_orchestration
+  - brand_foundation
+  - business_revenue_engine
+  - ai_discovery_commerce
+  - marketing_automation
+  - polish_localization
+  - detective_academy
+  - happy_me
+  - optical_animals
+  - senior_hello_today
+  - mind_bloom
+  - opinie
+  - content_source_recovery
+gaps_found_and_fixed:
+  - marketing_was_not_first_class_in_central_registry
+  - brand_and_revenue_strategy_were_not_first_class_in_central_registry
+  - recovery_protocol_did_not_read_rse_brain_first
+  - chat_recovery_provenance_was_not_explicitly_indexed_by_domain
+remaining_live_verify_items:
+  - marketing_connector_current_oauth_and_network_state
+  - bing_webmaster_integration
+  - time_sensitive_search_indexing
+  - dedicated_project_current_ci_when_next_action_depends_on_it
+owner_gates:
+  - polish_full_book_scaleout
+  - optical_final_20
+  - happy_me_commercial_and_publication
+  - senior_child_mode_release_legal_play_human
+  - paid_marketing_activation
+  - opinie_real_data_cloud_or_release
+next_safe_actions:
+  - maintain_three_times_daily_delta_sync
+  - continue_project_execution_only_below_owner_gates
+  - build_durable_marketing_brain_before_marketing_autopilot_activation
+
+execution_delta_2026_09_18_late:
+  inaccessible_chat_mapping:
+    - 6aa25505-d178-83eb-b1dd-d37d46e52184
+    - 6aaacfc1-f830-83ed-861b-8a08d7fd4f88
+  ai_discovery:
+    app_index_check: refreshed
+    adventure_app: crawled_currently_not_indexed
+    unstoppable_app: crawled_currently_not_indexed
+    seniors: url_unknown_to_google
+    c2_content_authorized: false
+  detective:
+    canonical_master_missions: 30
+    editorial_preview_pages: 141
+    editorial_preflight: PASS
+    build_run: 73
+    build_conclusion: success
+    visual_map_gate: CLOSED_APPROVE_WITH_SMALL_FIXES_B
+    visual_map_rules: white_background_bold_labels_readable_legends_pencil_space
+    witness_board: premium_case_file_not_worksheet
+    naming_direction: branded_academy_adventure_B
+    mechanical_all15_design_gate_required: false
+    remaining_owner_gates: final_cover_physical_proof_pricing_kdp_publication
+  optical_animals:
+    old_roster_conflict: resolved
+    final20_contract: reconciled
+    quality_run: 4
+    quality_conclusion: success
+    unresolved_owner_visuals: 8
+  gentle_steps:
+    print_master_recovered: true
+    page_count: 104
+    canonical_manifest: orchestration/content-sources/24-gentle-steps-to-christmas.yml
+    localization_round_1: PASS_FOR_ONE_WEEK_CONTROLLED_EXPANSION
+    gentle_steps_week_1: TEXT_SOURCE_QA_PASS
+    gentle_steps_week_1_source_pages: 24_41
+    gentle_steps_week_1_layout_fit: PENDING_REAL_TEMPLATE
+  senior:
+    phase: 14H
+    self_repair_head: 618063ebde6980f5c7cbcc9c9b5f11d44bf6f027
+    firebase_security_run_85: PASS
+    android_ci_run_141: PASS
+    production_child_mode: OFF
+  opinie_bootstrap:
+    staging_repo: riseshineevolve-source/riseshineevolve
+    branch: feat/opinie-offline-workbench-bootstrap
+    draft_pr: 18
+    synthetic_ci_run_25: PASS
+    provenance_reference_integrity: PASS
+    explicit_units_fail_closed: PASS
+    privacy_fixture_boundary: PASS
+    second_missing_measurement_fixture: PASS
+    review_packet_base: PASS
+    automatic_final_conclusion: false
+    real_case_data_remote_allowed: false
+  execution_boundaries:
+    mind_bloom: dedicated_chat
+    marketing: dedicated_chat
+    senior: central_execution
+
+  prepared_owner_gates:
+    detective_map_factory_packet: tools/detective-book-factory/OWNER_GATE_MAP_FACTORY.md
+    optical_final20_packet: tools/optical-book-creator/OWNER_GATE_FINAL20.md
+
+  happy_me_live_backend:
+    target_project: fgmividxlwmvhlltwabd
+    target_verified_from_ci_run: 231
+    live_status_2026_09_18: INACTIVE
+    implication: restore_or_activate_before_real_auth_device_testing
+    silent_restore_allowed: false
+    reason: possible_billing_impact
+
+execution_shift_2026_09_19:
+  plan: orchestration/shifts/2026-09-19-day-shift.md
+  ai_discovery:
+    gsc_8_url_refresh: PASS
+    c1_guides_indexed: 4_of_4
+    adventure_app: crawled_currently_not_indexed
+    unstoppable_app: crawled_currently_not_indexed
+    seniors: url_unknown_to_google
+    stale_app_public_snippets: still_present
+    c2_authorized: false
+  happy_me:
+    external_release_gate_packet: HAPPY_ME_EXTERNAL_RELEASE_GATE_PACKET.md
+    production_supabase_status: INACTIVE
+    silent_restore_performed: false
+  opinie:
+    synthetic_ci_run_63: PASS
+    live_verified_head: b973797697516ec7bbbea6f2d42fbc7381d3a1b8
+    draft_pr: 18
+    draft_pr_mergeable: true
+    structured_source_schema: PASS
+    source_immutability_hash_stability: PASS
+    deterministic_calculation_provenance: PASS
+    human_review_state_transitions: PASS
+    deterministic_review_packet_serialization: PASS
+    review_packet_roundtrip_hardening: PASS
+    automatic_final_conclusion: false
+    real_case_data_remote_allowed: false
+    note: latest synthetic CI verified 2026-09-19T20:14Z; no real case data touched
+
+consumer_platform_factory_2026_09_20:
+  architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
+  synthetic_data_contract: orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md
+  entitlement_model: orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md
+  identity_is_not_entitlement: true
+  product_scoped_entitlements_required: true
+  shared_account_does_not_unlock_unpurchased_products: true
+  synthetic_fixture: orchestration/architecture/fixtures/consumer-platform-v0/synthetic_consumer.valid.json
+  consumer_contract_ci_run: 35530744577
+  consumer_contract_ci_conclusion: PASS
+  interactive_book_contract_ci_run: 35525269062
+  interactive_book_contract_ci_conclusion: PASS
+  happy_me_default_boundary: separate_family_child_sensitive_security_domain
+  mind_bloom_commercial_status: private_owner_only
+  deployment_authorized: false
+  next_safe_slice: backend_neutral_rls_authorization_matrix_and_offline_conflict_rules
+
+
+commercial_priority_stack_2026_q4:
+  canonical_file: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
+  priority_1: detective_academy_english_kdp
+  priority_2: mind_bloom_private_done_frozen
+  priority_3: 24_gentle_steps_christmas
+  priority_4: optical_animals
+  priority_5: consumer_app_factory_google_play
+  parallel_below_gates:
+    - senior_hello_today
+    - happy_me
+    - opinie
+    - ai_discovery_website
+  operating_rule: do_not_wait_for_google_play_duns_to_monetize_independent_kdp_products
+  detective_local_provisional_2026_09_21:
+    all15_pass: 15_of_15
+    hmda_15: PASS
+    focused_regression: PASS_HMDA_04_07_10_15
+    hybrid_pdfs: 15
+    relabelled_puzzle_solution_images: 30
+    source_hash_geometry_topology_answers_coordinates_occupiable_room_zone_alias_meta: PASS
+    local_hardening_commit: d5e1507
+    remote_feature_head_seen_by_central_orchestrator: 02df9c2c62075a3178efdf52100312852d4d87c8
+    durable_remote_status: PASS_REMOTE
+    durable_remote_head: da0b5b1be09cd5389f67f52219d30913b71a5911
+    integration_manifest: dist/spatial_assets_all15.yml
+    canonical_master_integration: PASS
+    paired_spreads_generated: 15
+    asset_sync: PASS
+    final_interior_status: PASS
+    final_interior_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_All15_Final.pdf
+    final_interior_pages: 141
+    print_scale_previews: 141
+    kdp_preflight: PASS
+    durable_remote_head: 6aef8cefdce029413f2cc29e656d5fbad99d546c
+    ci_build_run: 93
+    ci_build_conclusion: success
+    ci_seo_run: 551
+    ci_seo_conclusion: success
+    next_step: owner_visual_review_cover_proof_upload_then_english_freeze
+    owner_blocker: final_cover_physical_proof_pricing_kdp_publication_only

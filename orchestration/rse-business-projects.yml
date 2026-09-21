@@ -1,0 +1,380 @@
+version: 24
+updated: 2026-09-20
+policy:
+  routing: core_first_specialists_on_demand
+  default_max_active_roles: 4
+  source_master_language: en
+  localization_target: pl-PL
+  user_intervention: meaningful_gates_only
+  chat_is_source_of_truth: false
+  technical_state_must_be_reconstructible_without_chat_history: true
+  recovery_index: orchestration/RSE_RECOVERY_INDEX.md
+  recovered_artifact_registry: orchestration/rse-recovered-artifacts.yml
+  resume_protocol: orchestration/RESUME_FROM_ZERO.md
+  technical_orchestrator_contract: orchestration/RSE_TECHNICAL_ORCHESTRATOR.md
+  integration_map: orchestration/RSE_INTEGRATION_MAP.md
+  wave_2_may_consume_current_budget: false
+  gifts_may_consume_current_budget: false
+  generated_output_manifest_self_heal: .github/workflows/update-convert-manifest.yml
+  rse_brain_master: orchestration/brain/RSE_BRAIN_MASTER.md
+  rse_brain_decision_ledger: orchestration/brain/DECISION_LEDGER.md
+  rse_brain_program_registry: orchestration/brain/PROGRAM_REGISTRY.yml
+  rse_brain_source_registry: orchestration/brain/SOURCE_REGISTRY.yml
+  rse_brain_checkpoint_protocol: orchestration/brain/CHECKPOINT_PROTOCOL.md
+  brain_sync_cadence: three_times_daily_delta_sync
+  day_shift_plan_2026_09_19: orchestration/shifts/2026-09-19-day-shift.md
+wave_1:
+  - rse_core
+  - polish_engine
+  - detective_academy
+  - happy_me
+  - optical_animals
+  - senior_app
+  - mind_bloom
+  - opinie
+commercial_priority_stack_2026_q4:
+  canonical_file: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
+  priority_1: detective_academy_english_kdp
+  priority_2: mind_bloom_private_done_frozen
+  priority_3: gentle_steps_christmas
+  priority_4: optical_animals
+  priority_5: consumer_app_factory_google_play
+  parallel_below_gates:
+    - senior_hello_today
+    - happy_me
+    - opinie
+    - ai_discovery_website
+  revenue_first: true
+  do_not_wait_for_google_play_duns_for_kdp: true
+
+projects:
+  brand_business:
+    name: RSE Brand + Business Master Strategy
+    type: strategy_program
+    status: recovered_active_master_strategy
+    priority_wave: 1
+    execution_mode: central
+    brain_source: orchestration/brain/RSE_BRAIN_MASTER.md
+    working_positioning: Real-life skills, made playable.
+    primary_acquisition_audience: parents_caregivers_children_6_10
+    revenue_engine: RSE_CORE_Revenue_Engine_v1
+    next_gate: reconcile_brand_revenue_website_v2_into_owner_decision_packet
+  marketing_autopilot:
+    name: RSE Marketing Autopilot
+    type: growth_operations
+    status: active_durable_bootstrap_detective_prelaunch_ready
+    priority_wave: 1
+    execution_mode: dedicated_chat
+    central_sync: milestones_blockers_shared_dependencies
+    canonical_marketing_spec: marketing/RSE_MARKETING_AUTOPILOT.md
+    detective_launch_plan: marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md
+    detective_content_bank: marketing/DETECTIVE_ACADEMY_CONTENT_BANK.md
+    detective_prelaunch_calendar: marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md
+    performance_memory: marketing/PERFORMANCE_MEMORY.yml
+    checkpoint: orchestration/marketing/RSE_MARKETING_AUTOPILOT_CHECKPOINT.md
+    planned_agents:
+      - RSE_Marketing_Orchestrator
+      - RSE_Paid_Growth_Controller
+      - RSE_KDP_Ads_Optimizer
+    connector_state: live_verified_2026_09_21
+    next_gate: first_detective_prelaunch_batch_owner_review_then_draft_schedule
+  rse_core:
+    name: RSE Core Platform / Website / Business
+    type: platform
+    status: active_measurement
+    priority_wave: 1
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    execution_mode: central
+    ai_discovery_issue: 584
+    c1_guides_gsc_indexed: 4_of_4
+    c1_guides_indexed_verified: 2026-09-20
+    public_search_rerun: reports/ai-discovery/public-search-snapshot-2026-09-18.md
+    adventure_app_index_state: crawled_currently_not_indexed
+    adventure_app_last_google_crawl: 2026-06-16
+    unstoppable_app_index_state: crawled_currently_not_indexed
+    unstoppable_app_last_google_crawl: 2026-07-04
+    seniors_index_state: discovered_currently_not_indexed
+    seniors_last_google_crawl: null
+    fresh_index_check: 2026-09-20
+    public_search_rerun_2026_09_19: reports/ai-discovery/public-search-snapshot-2026-09-19.md
+    indexnow_key_configured: false
+    bing_webmaster_api_configured: false
+    cloudflare_crawler_hints_state: unverified_from_current_tool_surface
+    c2_content_authorized: false
+    next_gate: discovery_recrawl_of_app_and_seniors_surfaces
+  polish_engine:
+    name: Polish Localization Engine
+    type: infrastructure
+    status: active_calibration
+    priority_wave: 1
+    repo: riseshineevolve-source/agency-agents
+    branch: rse/polish-localization-engine-v1
+    pr: 6
+    execution_mode: central
+    calibration_round_2: pass
+    calibration_round_3: pass
+    round_3_file: localization/pl-PL/golden-tests/published-book-calibration-round3.md
+    round_3_review: localization/pl-PL/golden-tests/published-book-calibration-round3-review-2026-09-18.md
+    controlled_pilot_day_11: pass
+    controlled_pilot_file: localization/pl-PL/golden-tests/published-book-controlled-pilot-day11.md
+    bounded_batch_days_05_20_25: pass
+    bounded_batch_file: localization/pl-PL/golden-tests/published-book-bounded-batch-days05-20-25.md
+    regression_validator: scripts/validate-polish-localization.py
+    regression_workflow: .github/workflows/polish-localization-regression.yml
+    segmented_scaleout_plan: localization/pl-PL/PUBLISHED_BOOK_SEGMENTED_SCALEOUT_PLAN.md
+    gentle_steps_source_manifest: orchestration/content-sources/24-gentle-steps-to-christmas.yml
+    gentle_steps_round_1: pass_for_one_week_controlled_expansion
+    gentle_steps_round_1_file: localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md
+    gentle_steps_week_1_file: localization/pl-PL/golden-tests/gentle-steps-christmas-week1-controlled-expansion.md
+    gentle_steps_week_1_text_qa: pass
+    gentle_steps_week_1_source_pages_verified: 24_41
+    gentle_steps_week_1_layout_fit: pending_real_template_check
+    full_book_scaleup_authorized: false
+    next_gate: gentle_steps_week_1_layout_fit_then_segmented_scaleout_decision
+  detective_academy:
+    name: Happy Makers Detective Academy
+    type: book
+    status: active_all15_validation_and_scaleout
+    priority_wave: 1
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    branch: feature/detective-book-factory
+    pr: 571
+    execution_mode: central_with_specialists
+    native_checkpoint_candidates: 20
+    locked_production_spatial_modules: 15
+    source_manifest: tools/detective-book-factory/content/spatial_source_manifest_final.yml
+    canonical_master_reproducible: true
+    canonical_master_missions: 30
+    latest_editorial_preview_pages: 141
+    latest_editorial_preflight: pass
+    current_remote_head: 2e10406af22a84067a5051e12b04cf579d28deda
+    latest_verified_build_run: 90
+    latest_verified_build_conclusion: success
+    latest_verified_seo_run: 545
+    latest_verified_seo_conclusion: success
+    pilot_witness_board_status: pass
+    commercial_priority_rank: 1
+    owner_visual_gate_decision: B_APPROVE_WITH_SMALL_FIXES
+    owner_visual_gate_status: closed
+    naming_direction: branded_academy_adventure
+    mechanical_all15_design_gate_required: false
+    pilot_cases: HMDA_02_HMDA_13_HMDA_29
+    mechanical_all15_scale_allowed: true
+    local_all15_status: pass_15_of_15
+    local_all15_hardening_commit: d5e1507
+    local_all15_push_status: pushed_reconciled_remote_pass
+    current_remote_head: 6aef8cefdce029413f2cc29e656d5fbad99d546c
+    canonical_book_integration: pass
+    spatial_spreads_generated: 15
+    asset_sync: pass
+    final_english_interior: pass
+    final_english_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_All15_Final.pdf
+    final_page_count: 141
+    kdp_preflight: pass
+    print_scale_previews: 141
+    current_gap: owner_visual_review_final_cover_physical_proof_upload
+    asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
+    final_interior_owner_blocker: false
+    local_unpushed_work_protection: inspect_git_status_and_diff_before_reset_pull_or_pipeline_restart
+    next_owner_gates: kdp_publication_pricing_final_cover_physical_proof
+
+  happy_me:
+    name: Happy Me Adventures
+    type: app
+    status: external_and_device_release_gates
+    priority_wave: 1
+    repo: riseshineevolve-source/riseshineevolve
+    branch: mobile/mobile-first-rebuild
+    local_root: 'C:\Users\danie\GitHub\happy-me-app'
+    release_matrix: MOBILE_RELEASE_READINESS_MATRIX.md
+    execution_mode: central_with_specialists
+    custody_audit_complete: true
+    shared_device_isolation_machine_gate: pass
+    offline_persistence_machine_gate: pass
+    destructive_action_failure_path_machine_gate: pass
+    deep_link_routing_machine_gate: pass
+    privacy_source_inventory_machine_gate: pass
+    unsigned_release_fail_safe_machine_gate: pass
+    fully_verified_ci_run: 231
+    fully_verified_ci_run_id: 35247886772
+    fully_verified_head: e356262231ec4e9114d93ab341ae8b125c80f7b2
+    source_ci_only_queue_remaining: false
+    production_supabase_project_id: fgmividxlwmvhlltwabd
+    production_supabase_live_status_2026_09_18: INACTIVE
+    production_supabase_target_verified_from_ci_run: 231
+    supabase_restore_requires_owner_cost_awareness: true
+    next_gate: owner_approval_if_needed_to_restore_supabase_then_auth_play_signing_external_config_and_real_device_internal_track
+  optical_animals:
+    name: Optical Animals
+    type: book_production_software
+    status: active_curation_and_automation
+    priority_wave: 1
+    repo: riseshineevolve-source/riseshineevolve
+    branch: feat/optical-animals-book-creator
+    pr: 14
+    tool_area: tools/optical-book-creator
+    target_repo: riseshineevolve-source/optical-animals-book-creator
+    target_repo_status: pending_creation
+    local_art_root: 'C:\Users\danie\Desktop\Asia\KDP\coloring\optical animals'
+    final_source_folder: 01_FINAL_20_SOURCE
+    canonical_manifest: tools/optical-book-creator/config/FINAL20_MANIFEST.json
+    approved_visuals: 12
+    unresolved_visuals: 8
+    final20_contract_reconciled: true
+    old_roster_conflict_resolved: true
+    latest_quality_run: 4
+    latest_quality_conclusion: success
+    execution_mode: github_backed_with_asset_curation
+    next_gate: resolve_8_owner_gated_visual_slots_then_final_20_lock
+    final_visual_selection_owner_gated: true
+  senior_app:
+    name: Senior / Hello Today
+    type: app
+    status: active_central_execution
+    priority_wave: 1
+    repo: riseshineevolve-source/hello-today-android.
+    related_repo: riseshineevolve-source/Happy-Senior
+    execution_mode: central_with_specialists
+    central_sync: full_execution_and_checkpointing
+    current_phase: 14H_paired_child_device_and_6plus_ux_boundary
+    current_pr: 77
+    current_branch: phase14h-paired-child-device-6plus
+    current_pr_mergeable: true
+    current_head: 618063ebde6980f5c7cbcc9c9b5f11d44bf6f027
+    current_android_ci_run: 141
+    current_android_ci_status: success
+    current_firebase_security_run: 85
+    current_firebase_security_status: success
+    bounded_self_repairs_applied:
+      - child_device_pairing_type_collision
+      - child_device_exception_adapter_compile_error
+      - missing_child_device_localized_resources
+      - persisted_child_experience_routing
+    child_mode_production_enabled: false
+    production_setup_issue: 66
+    external_gates:
+      - play_console_firebase_play_integrity
+      - google_play_target_audience_families_declarations
+      - launch_jurisdiction_child_privacy_legal_review
+      - final_parental_consent_mechanism
+      - final_data_safety_and_public_legal_resources
+      - real_device_parent_child_pairing_restart_revoke_qa
+      - age_6_8_usability_accessibility_review
+    central_last_synced: 2026-09-19
+  mind_bloom:
+    name: Mind Bloom Assistant
+    type: app
+    status: private_v1_source_release_candidate_frozen
+    priority_wave: 1
+    repo: riseshineevolve-source/mind-bloom-assistant
+    execution_mode: central_with_codex_usage_governor
+    previous_dedicated_chat: parked_archive_only
+    role_boundary: private_personal_business_chief_of_staff
+    current_pr: 2
+    current_branch: feature/personal-chief-of-staff-foundation
+    current_pr_draft: true
+    current_pr_mergeable: true
+    current_remote_head: bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13
+    latest_verified_ci_run: 81
+    latest_verified_ci_conclusion: success
+    private_v1_source_release_candidate: PASS
+    private_v1_feature_development_frozen: true
+    durable_execution_handoff: docs/personal-chief-of-staff/CURRENT_EXECUTION_HANDOFF.md
+    local_phase2a_worktree_protection: inspect_git_status_and_diff_before_pull_reset_rebase_checkout
+    phase_2a_1_remote_sql: applied_verified
+    phase_2a_3_remote_sql: applied_verified
+    provider_oauth_authorized: false
+    commercial_fork_authorized: false
+    active_slice: none_feature_frozen_post_v1_owner_gate_only
+    next_gate: explicit_owner_reopen_for_post_v1_provider_or_separate_commercial_fork
+    central_last_synced: 2026-09-21
+
+  opinie:
+    name: Opinie Offline Workbench
+    type: offline_first_expert_software
+    status: active_synthetic_bootstrap
+    priority_wave: 1
+    target_repo: riseshineevolve-source/opinie-offline-workbench
+    repo_status: pending_creation
+    bootstrap: orchestration/bootstrap/OPINIE_REPO_BOOTSTRAP.md
+    temporary_staging_repo: riseshineevolve-source/riseshineevolve
+    temporary_staging_branch: feat/opinie-offline-workbench-bootstrap
+    temporary_staging_pr: 18
+    tool_area: tools/opinie-offline-workbench
+    synthetic_ci_run: 63
+    synthetic_ci_run_id: 35466748244
+    synthetic_ci_head: b973797697516ec7bbbea6f2d42fbc7381d3a1b8
+    synthetic_ci_conclusion: success
+    synthetic_ci_verified: 2026-09-19T20:14:13Z
+    temporary_pr_mergeable: true
+    temporary_pr_draft: true
+    provenance_reference_integrity: pass
+    explicit_unit_fail_closed_calculations: pass
+    privacy_fixture_boundary: pass
+    second_missing_measurement_fixture: pass
+    review_packet_base_schema: pass
+    structured_source_schema: pass
+    source_immutability_hash_stability: pass
+    review_packet_roundtrip_validation: pass
+    final_expert_conclusion_automatic: false
+    current_local_root: 'C:\Users\danie\AI_LOCAL\opinie'
+    development_mode: github_online_with_synthetic_fixtures
+    production_runtime: local_offline
+    remote_real_case_data_allowed: false
+    next_gate: preserve_green_human_gated_boundary_then_migrate_to_dedicated_repo_when_creation_is_available
+wave_2_lovable_apps:
+  happy_makers_quest:
+    repo: riseshineevolve-source/happy-makers-quest
+    status: deferred_second_wave
+    origin: lovable_migration
+  family_mission_control:
+    repo: riseshineevolve-source/family-mission-control
+    status: deferred_second_wave
+    origin: lovable_migration
+  unstoppable_me:
+    repo: riseshineevolve-source/unstoppable-me
+    status: deferred_second_wave
+    origin: lovable_migration
+  night_command:
+    repo: riseshineevolve-source/night-command
+    status: deferred_second_wave
+    origin: lovable_migration
+  family_hearth_stories:
+    repo: riseshineevolve-source/family-hearth-stories
+    status: deferred_second_wave
+    origin: lovable_migration
+    recovered_role: family_conversation_and_dilemma_app
+  spark_joy_fam:
+    repo: riseshineevolve-source/spark-joy-fam
+    status: deferred_second_wave
+    origin: lovable_migration
+    recovered_role: interactive_level_up_your-brain-world-01_and_02_derivative
+    content_source: src/data/storyContent.ts
+    canonical_book_sources:
+      - orchestration/content-sources/level-up-your-brain-world-01.yml
+      - orchestration/content-sources/level-up-your-brain-world-02.yml
+    relationship_manifest: orchestration/content-sources/level-up-your-brain-interactive.yml
+    preserve_for_future_app_rebuild: true
+gifts_later:
+  word_search_puzzle:
+    repo: riseshineevolve-source/word-search-puzzle
+    status: deferred_gift
+    recovered_role: reusable_word_search_engine_and_grandma_bibi_months_learning_base
+    relationship_manifest: orchestration/content-sources/grandma-bibi-word-search-gift.yml
+    owner_reported_current_quality: needs_redesign_before_release
+  calm_wheel:
+    repo: riseshineevolve-source/Happy-Makers-Calm-Wheel
+    status: deferred_gift
+  one_minute_challenge:
+    repo: riseshineevolve-source/1-minute-challange
+    status: deferred_gift
+unclassified_hold:
+  - riseshineevolve-source/neon-wonder-world
+support_repositories_preserve:
+  - riseshineevolve-source/monochrome-map-master
+  - riseshineevolve-source/robot-voice-maker
+outside_business_queue:
+  - Kuratoryjny_MKJA
+  - CV_Tailor
+  - Job_Search_Tooling
+  - Family_Finance

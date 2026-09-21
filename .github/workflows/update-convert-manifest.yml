@@ -1,0 +1,65 @@
+name: Refresh converted-output manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "academic/**"
+      - "design/**"
+      - "engineering/**"
+      - "finance/**"
+      - "game-development/**"
+      - "gis/**"
+      - "healthcare/**"
+      - "marketing/**"
+      - "paid-media/**"
+      - "product/**"
+      - "project-management/**"
+      - "research/**"
+      - "sales/**"
+      - "security/**"
+      - "spatial-computing/**"
+      - "specialized/**"
+      - "support/**"
+      - "testing/**"
+      - "divisions.json"
+      - "tools.json"
+      - "runbooks.json"
+      - "scripts/convert.sh"
+      - "scripts/lib.sh"
+      - "scripts/test-convert-outputs.sh"
+      - ".github/workflows/update-convert-manifest.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-convert-output-manifest-main
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Regenerate manifest from current source of truth
+        run: bash scripts/test-convert-outputs.sh --update
+
+      - name: Commit manifest only when drift exists
+        run: |
+          if git diff --quiet -- scripts/convert-outputs.sha256; then
+            echo "Converted-output manifest is already current"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/convert-outputs.sha256
+          git commit -m "Refresh converted-output manifest"
+          git push origin HEAD:main

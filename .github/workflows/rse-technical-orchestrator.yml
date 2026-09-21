@@ -1,0 +1,58 @@
+name: RSE Technical Orchestrator validation
+
+on:
+  pull_request:
+    paths:
+      - 'orchestration/**'
+      - '.github/workflows/rse-technical-orchestrator.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'orchestration/**'
+      - '.github/workflows/rse-technical-orchestrator.yml'
+
+jobs:
+  validate-contract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Require durable orchestration files
+        run: |
+          test -f orchestration/RSE_TECHNICAL_ORCHESTRATOR.md
+          test -f orchestration/RESUME_FROM_ZERO.md
+          test -f orchestration/RSE_BUSINESS_PORTFOLIO.md
+          test -f orchestration/RSE_RECOVERY_INDEX.md
+          test -f orchestration/RSE_PRODUCT_ASSET_RECOVERY.md
+          test -f orchestration/rse-recovered-artifacts.yml
+          test -f orchestration/rse-business-projects.yml
+          test -f orchestration/templates/PROJECT_BRIEF_TEMPLATE.md
+          test -f orchestration/templates/AGENTS_TEMPLATE.md
+          test -f orchestration/templates/CHECKPOINT_TEMPLATE.yml
+          test -f orchestration/bootstrap/OPTICAL_ANIMALS_REPO_BOOTSTRAP.md
+          test -f orchestration/bootstrap/OPINIE_REPO_BOOTSTRAP.md
+
+      - name: Validate orchestration invariants
+        run: |
+          grep -q 'chat_is_source_of_truth: false' orchestration/rse-business-projects.yml
+          grep -q 'technical_state_must_be_reconstructible_without_chat_history: true' orchestration/rse-business-projects.yml
+          grep -q 'recovery_index: orchestration/RSE_RECOVERY_INDEX.md' orchestration/rse-business-projects.yml
+          grep -q 'wave_2_may_consume_current_budget: false' orchestration/rse-business-projects.yml
+          grep -q 'gifts_may_consume_current_budget: false' orchestration/rse-business-projects.yml
+          grep -q 'remote_real_case_data_allowed: false' orchestration/rse-business-projects.yml
+          grep -q 'branch: feat/optical-animals-book-creator' orchestration/rse-business-projects.yml
+          grep -q 'canonical_manifest: tools/optical-book-creator/config/FINAL20_MANIFEST.json' orchestration/rse-business-projects.yml
+          grep -q 'riseshineevolve-source/opinie-offline-workbench' orchestration/rse-business-projects.yml
+
+      - name: Validate resume protocol
+        run: |
+          grep -q 'PROJECT_BRIEF.md' orchestration/RESUME_FROM_ZERO.md
+          grep -q 'AGENTS.md' orchestration/RESUME_FROM_ZERO.md
+          grep -q 'CHECKPOINT.yml' orchestration/RESUME_FROM_ZERO.md
+          grep -q 'OWNER_GATE' orchestration/RESUME_FROM_ZERO.md
+
+      - name: Validate offline Opinie boundary
+        run: |
+          grep -q 'Real case files' orchestration/bootstrap/OPINIE_REPO_BOOTSTRAP.md
+          grep -q 'No telemetry' orchestration/bootstrap/OPINIE_REPO_BOOTSTRAP.md
+          grep -q 'synthetic' orchestration/bootstrap/OPINIE_REPO_BOOTSTRAP.md
