@@ -2,18 +2,19 @@
 
 Status: **CANONICAL**
 Owner decision: 2026-09-21
+Last execution-state sync: 2026-09-22
 Applies to: central RSE Orchestrator, Brain Sync, Day/Night/24-7 shift, marketing synchronization, Codex budget governor.
 
 ## Priority order
 
 | Priority | Project | Business reason | Current execution rule |
 |---|---|---|---|
-| **#1** | **Happy Makers Detective Academy EN -> KDP** | Closest path to real revenue and does not depend on DUNS or Google Play. | **Final English interior PASS** at `6aef8cefdce029413f2cc29e656d5fbad99d546c`: 141 pages, 141 print-scale previews, ALL-15 15/15 remote, canonical 30-mission integration PASS, KDP preflight PASS, Build #93 PASS, SEO #551 PASS. Product engineering is at **OWNER RELEASE GATE**. Do not reopen maps, Witness Boards, naming, clues, story architecture, character asset sync or final interior engineering unless owner visual review reveals a concrete defect. Remaining owner tasks: final cover/proof, pricing, KDP upload/publication. English interior/source freeze is a separate owner gate. |
-| **#2** | **Happy Makers Detective Academy PL -> KDP Poland** | Immediate second commercial edition after the English source is explicitly frozen; reuses the validated book and the Polish Localization Engine. | Branch `rse/polish-localization-engine-v1` is reconciled with main at `10b8189cd7c589b1f0fa0b281c6b22d0b5f4c436`; PR #6 mergeable; local regression PASS across 7 accepted fixtures / 37,159 candidate chars. Full-book Detective PL remains blocked until explicit owner English-source freeze. Before that, only bounded glossary/segmentation/logic/surface-fit calibration is allowed. |
-| **#3** | **24 Gentle Steps to Christmas** | Seasonal window is becoming time-sensitive for Q4/Christmas. | Week 1 regression PASS and source-side spot-check PASS. Remaining promotion gate is real-template overflow/fit for the four longest Polish headings. Do not treat proxies as final fit evidence and do not shrink body text merely to rescue headings. |
-| **#4** | **Optical Animals** | Strong giftable KDP product if the remaining 8 final visual slots are resolved. | Preserve 12 approved visuals. Advance tooling/manifest/preflight automatically; final 20 visual selection remains owner-gated. Local hardening commit `5e69b43` must not be pushed until canonical remote state is confirmed and reconciled non-destructively. |
-| **#5** | **RSE Consumer App Factory / Google Play apps** | Strategically important shared infrastructure, but external Google/DUNS/Play dependencies reduce near-term revenue value. | Continue only high-value safe architecture/verification below gates. Do not let this outrank shippable KDP revenue lanes while Google/DUNS is pending. |
-| **parallel below gates** | **Senior / Happy Me / Opinie / AI Discovery / Website** | Important active programs but not the current primary revenue unlock. | Continue safe AUTO/AUTO+VERIFY work when not blocked; park at external/legal/privacy/owner gates and move capacity to higher-priority lanes. |
+| **#1** | **Happy Makers Detective Academy EN -> KDP** | Closest path to real revenue and does not depend on DUNS or Google Play. | **Owner-review V2 PASS** at `e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87`: 141 pages, digital KDP preflight PASS, 141 visual previews/contact sheets complete, Build Detective Academy PDF #96 PASS. EN remains **NOT FROZEN** pending owner visual approval / representative 100% test print. Do not reopen maps, Witness Boards, naming, clues, story architecture or final interior engineering unless owner review identifies a concrete defect. Remaining owner-controlled gates: final cover/proof, explicit EN source freeze, pricing, KDP upload/publication. |
+| **#2** | **Happy Makers Detective Academy PL -> KDP Poland** | Immediate second commercial edition after the English source is explicitly frozen; reuses the validated book and Polish Localization Engine. | `rse/polish-localization-engine-v1`, PR #6. Production infrastructure below gates is complete and green; current live PR head is `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Full-book Detective PL is blocked until explicit owner English-source freeze. Do not spend further high-cost reasoning on speculative engine work while frozen. |
+| **#3** | **24 Gentle Steps to Christmas** | Seasonal window is time-sensitive for Q4/Christmas. | Week 1 regression PASS and source-side spot-check PASS. Remaining promotion gate is real-template overflow/fit for the four longest Polish headings. Do not treat proxies as final fit evidence and do not shrink body text merely to rescue headings. |
+| **#4** | **Optical Animals** | Strong giftable KDP product once remaining visual and production-input gates close. | **Book Factory V2 tooling COMPLETE** through `3e9b6b66e9c56041c368a7ac096e157d8ba3b532`: multi-volume schema, deterministic couture seek-and-find, new-volume bootstrap, owner proof/release package and green factory tests. Current PR #14 head may advance with owner-authored art-direction/docs; live head as of this sync is `a4701af82ca8b63e7d78aeb84f0b7ef76cca337d`. Do **not** schedule more factory architecture/refactors. Preserve 12 approved visuals and 8 owner-gated selections. Wait for owner art decisions, source-linked tokens, print-resolution derivatives/upscale, owner proof and final lock. |
+| **#5** | **RSE Consumer App Factory / Google Play apps** | Strategically important shared infrastructure, but external Google/DUNS/Play dependencies reduce near-term revenue value. | Planned safe repository-side slice is complete. Production deployment and product-source decisions are owner-gated. Do not invent architecture work merely to keep the lane active. |
+| **parallel below gates** | **Senior / Happy Me / Opinie / AI Discovery / Website** | Important programs but not the current primary revenue unlock. | Senior source-side release hardening is exhausted at external/device/legal gates; Happy Me is parked at Supabase/Play/real-device gates; continue only concrete safe work when a real new unblock appears. |
 
 ## Frozen / non-active commercial lane
 
@@ -25,11 +26,20 @@ Do not spend further Codex or GitHub Actions on Mind Bloom unless a reproducible
 
 Do **not** wait for Google Play to begin generating revenue from products that can ship independently through KDP.
 
-The central operating sequence is:
+The central operating sequence remains:
 
 **Detective EN KDP -> Detective PL KDP -> seasonal Gentle Steps -> Optical Animals gift lane -> Google Play/app-factory acceleration when external gates clear.**
 
-Detective PL is handled through the Polish Localization Engine and starts full-book production only after the English canonical master/source is explicitly frozen. ALL-15 spatial validation already passes remotely; do not reopen it merely to create work.
+A lane at a real owner/external gate is parked. Do not manufacture source work, speculative refactors or duplicate audits to keep it busy; move only to the next genuinely safe, value-bearing task.
+
+## Efficiency-first model routing
+
+Default to lighter Codex routing for deterministic implementation and verification:
+- Luna / Terra / Sol with low, medium or high reasoning for bounded implementation, rendering, tests, packaging, docs and repairs;
+- Astra only for genuine cross-system architecture, difficult ambiguous debugging, high-risk localization/logic reasoning, or demonstrated lighter-model stall;
+- Ultra only for rare high-leverage tasks and never by default.
+
+Use deterministic GitHub/connectors/scripts/tests before Codex. Avoid duplicate archaeology, broad rereads, status-only work, unnecessary CI and multiple writers in one worktree.
 
 ## Detective owner decision — CLOSED
 
@@ -51,7 +61,7 @@ Locked implementation direction:
 - deterministic alias layer may change presentation names only and must never change puzzle identity, clue meaning, topology, answer or solution logic;
 - examples of naming style include Nova, Echo, Blaze, Clover, Scout and Pixel, but per-case names must remain distinct and immediately readable.
 
-No further owner design gate is required for the implemented ALL-15 system. Current engineering state is the final-English-interior PASS recorded in Priority #1 above.
+No further owner design gate is required for the implemented ALL-15 system. Current engineering state is the owner-review V2 PASS recorded in Priority #1 above.
 
 ## Detective positioning lock
 
@@ -100,7 +110,7 @@ Canonical framework:
 
 ## Automation rule
 
-Hourly/24-7 orchestration should select the highest-value safe task from this stack.
+Hourly/24-7 orchestration selects the highest-value safe task from this stack.
 A project at an owner/external gate is parked; the shift moves to the next safe lane rather than stopping.
 
 This priority stack remains in force until the owner explicitly changes it.
