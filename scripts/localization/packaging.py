@@ -19,7 +19,7 @@ def package(manifest, targets, terms, phrases=(), release=False):
         t = target_map[s["id"]]
         document = put(document, s["source_path"], t["target_text"])
         pairs.append({"source": s, "target": t})
-    return {"format": "rse-localized-package-v1", "product": manifest["product"], "adapter": manifest["adapter"],
+    return {"format": "rse-localized-package-v1", "product": manifest["product"], "adapter": manifest["adapter"], "target_language": "pl-PL", "source_key_types": manifest.get("source_key_types", {}),
             "mode": "release" if release else "candidate", "localized_payload": document, "bilingual_segments": pairs, "qa": report}
 
 

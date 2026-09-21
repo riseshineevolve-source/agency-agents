@@ -45,3 +45,22 @@ Therefore:
 ## Smallest owner handoff
 
 When the editable/rendering surface is available, render only pages corresponding to source PDF pages **25, 26, 35 and 38** with the accepted PL headings and the preferred line breaks above. Review at real print scale. If all four pass, the Week 1 fit gate can be closed without reopening translation/content scope.
+
+## Executable proof contract
+
+The unchanged headings, approved line breaks and source page identities now live
+in [engine/gentle-steps-fit.json](engine/gentle-steps-fit.json). Generate the render
+request with `python scripts/localization-engine.py fit-request --output
+build/gentle-fit/request.json`. After the genuine renderer and print-scale review
+produce evidence, run one command:
+
+```sh
+python scripts/localization-engine.py fit-proof --evidence REAL_EVIDENCE_DIR/evidence.json --output build/gentle-fit/result.json
+```
+
+The [evidence contract](engine/README.md#real-template-fit) checks all four pages,
+exact headings, template/render hashes, unchanged body font/leading and explicit
+review of clipping, collisions, diacritics and legibility. Missing artifacts,
+stale text, duplicate pages or proxy surfaces return BLOCK. Counts alone cannot
+close this gate. The hardening sprint found no usable local Gentle Steps template
+in the checked product folders; the gate remains **NOT YET PASS**.

@@ -70,24 +70,12 @@ Do not translate the master brand.
 
 ## Detective-specific terminology
 
-### Accepted / strong candidates
-
-| English function | Polish candidate | Status | Notes |
-|---|---|---|---|
-| Detective Academy | Akademia Detektywów | accepted profile term | Natural Polish; use for the institution. |
-| case / case file | sprawa / akta sprawy | accepted by function | Use `sprawa` for a mystery; `akta sprawy` for dossier/object. |
-| mission | misja | globally locked | Existing RSE term. |
-| Witness Board | TABLICA ZEZNAŃ | accepted profile term | Premium dossier feel; avoid worksheet language. |
-| Live Case Map | MAPA ŚLEDZTWA | accepted profile term | Short, clear, adventurous. |
-| Your Objective | TWOJE ZADANIE | accepted profile term | More natural for children than literal `Twój cel`. |
-| Witness Statements | ZEZNANIA ŚWIADKÓW | accepted profile term | Use when section meaning is specifically witness testimony. |
-| Hint Vault | SEJF PODPOWIEDZI | accepted profile term | Detective-world fit, short enough for designed surfaces. |
-| Detective Certificate | DYPLOM AKADEMII DETEKTYWÓW | accepted profile term | Avoid bureaucratic certificate language. |
-| Room Zero | POKÓJ ZERO | provisional lock | Validate on cover/interior surfaces before global lock. |
-| Rule Zero | ZASADA ZERO | accepted profile term | Recurring in-world rule. |
-| evidence | dowód / fakty | contextual | Do not flatten every occurrence into one word; preserve legal/logical function. |
-| clue | trop / wskazówka | contextual | `trop` for adventure voice; `wskazówka` for help/hint function. |
-| verdict | WERDYKT | accepted profile term | Compact dossier label. |
+Current terms, aliases, contextual scope and lock states are owned by the
+[canonical terminology catalog](engine/terminology.json), with a generated
+[human-readable view](ACCEPTED_TERMINOLOGY.md). Use `detective.*`, `alias.*`,
+`brand.*` and applicable `core.*` entries. Surface-provisional ranks and Room Zero
+remain provisional. The examples below explain voice; they do not create a
+second glossary or override the catalog.
 
 ## Signature copy candidates
 
@@ -160,21 +148,9 @@ Do not drift between variants after the term is locked for the final book.
 
 ## Core dossier microcopy
 
-| English | Polish |
-|---|---|
-| FOLLOW THE EVIDENCE. DON'T GUESS. | TRZYMAJ SIĘ DOWODÓW. NIE ZGADUJ. |
-| CASE FILE | AKTA SPRAWY |
-| CASE ACTIVE | SPRAWA W TOKU |
-| MISSION ACTIVE | MISJA W TOKU |
-| EVIDENCE | DOWODY |
-| CASE HOOK | CO SIĘ STAŁO? |
-| FIELD NOTE | NOTATKA Z TERENU |
-| YOUR VERDICT | TWÓJ WERDYKT |
-| COORDINATE | WSPÓŁRZĘDNA |
-| SOLUTION MAP | MAPA ROZWIĄZANIA |
-| DEDUCTION GRID | SIATKA DEDUKCJI |
-
-Compact labels remain subject to real PDF fit testing.
+The `detective.*` catalog entries cover dossier labels, CTA/instruction copy,
+verdicts, maps, coordinate labels and the Rule Zero transcreation. Compact labels
+remain subject to real PDF fit testing.
 
 ## Ranks
 
@@ -186,14 +162,8 @@ Avoid direct-address constructions such as:
 
 Prefer rank badges as impersonal level names.
 
-Initial candidates:
-- TRAINING → **SZKOLENIE**
-- ROOKIE → **POZIOM: START**
-- FIELD AGENT → **POZIOM: TEREN**
-- MASTER DETECTIVE → **POZIOM: MISTRZOWSKI**
-- ROOM ZERO → **POKÓJ ZERO**
-
-These rank translations remain **provisional until layout + full-story review**.
+Rank candidates and their provisional states live in the canonical catalog.
+They require layout and full-story review before promotion.
 
 ## Character voice
 

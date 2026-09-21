@@ -201,6 +201,12 @@ When one approved Polish recurrence changes, every segment sharing the same key 
 
 ## Production sequence after English freeze
 
+Executable entry point and exact commands:
+[Detective PL execution checkpoint](DETECTIVE_PL_EXECUTION_CHECKPOINT.md).
+Current glossary/identity locks are owned by
+[engine/terminology.json](engine/terminology.json); older examples in this contract
+describe intent rather than a second editable terminology authority.
+
 1. hash/identify the frozen English source and record its revision;
 2. extract all reader-facing segments and protected tokens;
 3. classify L0-L3 + fit class;

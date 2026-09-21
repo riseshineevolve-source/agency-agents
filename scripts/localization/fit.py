@@ -18,7 +18,7 @@ def check_evidence(spec, evidence, base):
     def check(condition, message):
         if not condition:
             issues.append(message)
-    def artifact(record, label):
+    def artifact(record, label, rendered=False):
         path = (base / record.get("path", "")).resolve()
         # Evidence bundles must be portable and cannot refer outside their root.
         if not path.is_relative_to(base) or not path.is_file():
@@ -26,6 +26,9 @@ def check_evidence(spec, evidence, base):
             return
         check(record.get("sha256") == file_digest(path), f"Artifact hash mismatch: {label}")
         check(path.stat().st_size > 0, f"Empty artifact: {label}")
+        if rendered:
+            header = path.read_bytes()[:8]
+            check(header.startswith(b'\x89PNG\r\n\x1a\n') or header.startswith(b'%PDF-'), f"Expected a PNG or PDF render: {label}")
     check(evidence.get("format") == "rse-real-template-fit-evidence-v1", "Wrong evidence format")
     check(evidence.get("spec_sha256") == digest(spec), "Evidence uses stale headings/spec")
     check(evidence.get("surface_kind") == "actual_template", "Proxy surfaces cannot close the gate")
@@ -35,6 +38,8 @@ def check_evidence(spec, evidence, base):
     actual = evidence.get("pages", [])
     expected = {p["source_pdf_page"]: p for p in spec["pages"]}
     check(len(actual) == len(expected) and {p.get("source_pdf_page") for p in actual} == set(expected), "Must supply exactly pages 25, 26, 35, 38")
+    render_hashes = [p.get('render', {}).get('sha256') for p in actual]
+    check(len(set(render_hashes)) == len(render_hashes), 'Each heading needs its own rendered page artifact')
     for page in actual:
         number = page.get("source_pdf_page")
         wanted = expected.get(number)
@@ -42,7 +47,7 @@ def check_evidence(spec, evidence, base):
             continue
         check(page.get("heading") in wanted["approved_line_breaks"], f"Page {number}: unapproved heading or line break")
         check(page.get("heading_sha256") == digest(page.get("heading")), f"Page {number}: heading hash mismatch")
-        artifact(page.get("render", {}), f"page {number}")
+        artifact(page.get("render", {}), f"page {number}", rendered=True)
         review = page.get("review", {})
         check(review.get("render_sha256") == page.get("render", {}).get("sha256"), f"Page {number}: review is not bound to this render")
         for flag in ("no_clipping", "no_collisions", "diacritics_correct", "print_scale_reviewed", "heading_legible", "tracking_acceptable"):

@@ -28,7 +28,7 @@ def placeholders(text):
     tokens = Counter(TOKEN_RE.findall(text))
     residue = TOKEN_RE.sub("", text).replace("%%", "")
     # Complex ICU and unmatched interpolation syntax must go through i18n QA.
-    malformed = any(c in residue for c in "{}") or bool(re.search(r"%(?:\d+\$|\([\w]+\)|[sdfi])", residue))
+    malformed = any(c in residue for c in "{}") or bool(re.search(r"%(?:\d+\$|\([\w]+\)|[A-Za-z])", residue))
     return tokens, malformed
 
 
@@ -138,6 +138,13 @@ def check_segment(segment, target, catalog, product, phrases):
     def add(category, message, severity="error"):
         issues.append((category, severity, message))
     source, text = segment["source_text"], target["target_text"]
+    identity_source = source
+    for mapping in segment.get("identity_mappings", []):
+        source_count = occurrences(source, mapping["source"])
+        target_count = sum(occurrences(text, form) for form in mapping["target_forms"])
+        if source_count != target_count:
+            add("protected_token_failures", f"Scoped alias identity changed: {mapping['source']}")
+        identity_source = re.sub(r"\b" + re.escape(mapping["source"]) + r"\b", lambda _: mapping["target_forms"][0], identity_source, flags=re.I)
     if target.get("source_sha256") != segment["source_sha256"] or target.get("review_status") == "stale":
         add("stale_translations", "Translation references a different source hash or is marked stale")
     if not text.strip():
@@ -151,7 +158,7 @@ def check_segment(segment, target, catalog, product, phrases):
             continue
         explicit = term["id"] in segment.get("term_ids", [])
         whole = norm(source) in {norm(term["source"]), *(norm(x) for x in term.get("source_forms", []))}
-        embedded = term["mode"] in {"never_translate", "identity"} and any(occurrences(source, form) for form in [term["source"]] + term.get("source_forms", []))
+        embedded = term["mode"] in {"never_translate", "identity"} and any(occurrences(identity_source, form) for form in [term["source"]] + term.get("source_forms", []))
         if term["mode"] in {"never_translate", "identity"} and not embedded and any(occurrences(text, form) for form in term["targets"]):
             add("protected_token_failures", f"Introduced identity/token absent from source: {term['id']}")
         if explicit or whole or embedded:
@@ -161,7 +168,7 @@ def check_segment(segment, target, catalog, product, phrases):
             if term["targets"] and (whole or explicit) and norm(text) not in {norm(x) for x in term["targets"]}:
                 add("terminology_violations", f"Target drifts from canonical term {term['id']}")
             if embedded:
-                source_count = sum(occurrences(source, f) for f in [term["source"]] + term.get("source_forms", []))
+                source_count = sum(occurrences(identity_source, f) for f in [term["source"]] + term.get("source_forms", []))
                 target_count = sum(occurrences(text, f) for f in term["targets"])
                 if source_count != target_count:
                     add("protected_token_failures", f"Identity/token count changed: {term['id']}")
@@ -246,7 +253,7 @@ def qa(manifest, targets, terms, phrases=()):
     expected = {s["id"] for s in manifest["segments"]}
     for sid in sorted(set(by_id) - expected):
         issue(sid, "source_coverage", "error", "Extra target key/ID")
-    passed, approved = 0, 0
+    passed_ids, approved_ids = set(), set()
     for s in sorted(manifest["segments"], key=lambda s: s["id"]):
         t = by_id.get(s["id"])
         if t is None:
@@ -256,12 +263,15 @@ def qa(manifest, targets, terms, phrases=()):
         for category, severity, message in found:
             issue(s["id"], category, severity, message)
         if not any(severity == "error" for _, severity, _ in found):
-            passed += 1
+            passed_ids.add(s["id"])
         if t["review_status"] in {"approved", "locked"} and review_valid(s, t) and not any(sev == "error" for _, sev, _ in found):
-            approved += 1
+            approved_ids.add(s["id"])
     issues.sort(key=lambda i: (i["segment_id"], i["category"], i["message"]))
     errors = sum(i["severity"] == "error" for i in issues)
     reviews = sum(i["severity"] == "review" for i in issues)
+    failed_ids = {i["segment_id"] for i in issues if i["severity"] == "error"}
+    passed = 0 if "*" in failed_ids else len(passed_ids - failed_ids)
+    approved = 0 if "*" in failed_ids else len(approved_ids - failed_ids)
     return {
         "format": "rse-localization-qa-v1", "product": manifest["product"],
         "source_revision": manifest["source_revision"], "contract_sha256": manifest["contract_sha256"],
@@ -282,3 +292,17 @@ def markdown_report(report):
         lines.append("| " + " | ".join(str(i[k]).replace("|", "\\|").replace("\n", " ") for k in ("segment_id", "category", "severity", "message")) + " |")
     lines += ["", report["limits"], ""]
     return "\n".join(lines)
+
+
+def aggregate_reports(reports):
+    require(bool(reports), "Cannot aggregate an empty QA suite")
+    require(all(r.get("format") == "rse-localization-qa-v1" for r in reports), "Mixed/unsupported QA report formats")
+    issues = []
+    for report in reports:
+        for item in report["issues"]:
+            issues.append({**item, "segment_id": report.get("fixture", report["product"]) + ":" + item["segment_id"], "product": report["product"]})
+    counts = {key: sum(report["counts"][key] for report in reports) for key in reports[0]["counts"]}
+    return {"format":"rse-localization-qa-v1", "product":"*", "source_revision":"multiple source snapshots", "contract_sha256":digest([r["contract_sha256"] for r in reports]),
+            "status":"BLOCK" if counts["errors"] else "REVIEW" if counts["review_items"] else "PASS", "counts":counts,
+            "categories":{c:sum(r["categories"][c] for r in reports) for c in CATEGORIES}, "issues":sorted(issues,key=lambda i:(i["segment_id"],i["category"],i["message"])),
+            "reports":reports, "limits":"Aggregate counts cover these supplied scopes only. Deterministic PASS does not prove semantic equivalence or real surface fit."}

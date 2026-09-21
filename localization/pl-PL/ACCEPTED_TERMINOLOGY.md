@@ -39,7 +39,6 @@ Whole-segment recurring labels use exact normalized target forms. Embedded names
 | core.survival-kit | * | Survival Kit | NIEZBĘDNIK | locked / translate | Use as the recurring book/system label. Do not drift to `zestaw przetrwania` or coaching-style substitutes. |
 | core.the-gentle-why | * | The Gentle Why | CO TU SIĘ DZIEJE? | locked / translate | Explanation section for emotions/reactions. Avoid therapy register. |
 | core.your-turn-to-create | * | Your Turn to Create | TERAZ TY TWORZYSZ! | locked / translate | Creative activity heading. |
-| cta.follow-evidence | rse-ui-test | FOLLOW THE EVIDENCE. DON'T GUESS. | TRZYMAJ SIĘ DOWODÓW. NIE ZGADUJ. | locked / transcreation_only | Test-only reuse of an accepted imperative CTA; does not authorize new product copy. |
 | detective.case | detective-academy | case | sprawa | locked / translate | Preserve the accepted recurring function; do not vary for style. |
 | detective.case-active | detective-academy | CASE ACTIVE | SPRAWA W TOKU | locked / translate | Preserve the accepted recurring function; do not vary for style. |
 | detective.case-file | detective-academy | case file | akta sprawy | locked / translate | Preserve the accepted recurring function; do not vary for style. |
@@ -51,7 +50,7 @@ Whole-segment recurring labels use exact normalized target forms. Embedded names
 | detective.evidence | detective-academy | EVIDENCE | DOWODY | locked / translate | Preserve the accepted recurring function; do not vary for style. |
 | detective.field-agent | detective-academy | FIELD AGENT | POZIOM: TEREN | provisional / translate | Preserve the accepted recurring function; do not vary for style. |
 | detective.field-note | detective-academy | FIELD NOTE | NOTATKA Z TERENU | locked / translate | Preserve the accepted recurring function; do not vary for style. |
-| detective.follow-the-evidence-don-t-guess | detective-academy | FOLLOW THE EVIDENCE. DON'T GUESS. | TRZYMAJ SIĘ DOWODÓW. NIE ZGADUJ. | locked / translate | Preserve the accepted recurring function; do not vary for style. |
+| detective.follow-the-evidence-don-t-guess | detective-academy | FOLLOW THE EVIDENCE. DON'T GUESS. | TRZYMAJ SIĘ DOWODÓW. NIE ZGADUJ. | locked / transcreation_only | Accepted direct-address instruction/CTA. Preserve function and recurring wording. |
 | detective.hint-vault | detective-academy | Hint Vault | SEJF PODPOWIEDZI | locked / translate | Preserve the accepted recurring function; do not vary for style. |
 | detective.live-case-map | detective-academy | Live Case Map | MAPA ŚLEDZTWA | locked / translate | Preserve the accepted recurring function; do not vary for style. |
 | detective.master-detective | detective-academy | MASTER DETECTIVE | POZIOM: MISTRZOWSKI | provisional / translate | Preserve the accepted recurring function; do not vary for style. |

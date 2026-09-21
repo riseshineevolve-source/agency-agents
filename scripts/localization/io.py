@@ -10,10 +10,10 @@ class ContractError(ValueError):
     pass
 
 
-def unique_pairs(pairs):
+def unique_pairs(pairs, allow_integer_keys=False):
     result = {}
     for key, value in pairs:
-        if not isinstance(key, str):
+        if not isinstance(key, str) and not (allow_integer_keys and type(key) is int):
             raise ContractError("Object keys must be strings")
         if key in result:
             raise ContractError(f"Duplicate key: {key}")
@@ -21,7 +21,7 @@ def unique_pairs(pairs):
     return result
 
 
-def load(path):
+def load(path, with_key_types=False):
     path = Path(path)
     raw = path.read_text(encoding="utf-8-sig")
     if path.suffix.lower() in {".yaml", ".yml"}:
@@ -34,7 +34,7 @@ def load(path):
             pass
 
         def mapping(loader, node):
-            return unique_pairs((loader.construct_object(k), loader.construct_object(v)) for k, v in node.value)
+            return unique_pairs(((loader.construct_object(k), loader.construct_object(v)) for k, v in node.value), allow_integer_keys=True)
 
         StrictLoader.add_constructor(yaml.resolver.BaseResolver.DEFAULT_MAPPING_TAG, mapping)
         # RSE metadata uses unquoted ISO dates. Keep their exact scalar spelling
@@ -43,11 +43,48 @@ def load(path):
         data = yaml.load(raw, Loader=StrictLoader)
     else:
         data = json.loads(raw, object_pairs_hook=unique_pairs)
+    key_types = {}
+    def normalize(value, pointer=""):
+        if isinstance(value, dict):
+            out = {}
+            for key, child in value.items():
+                rendered = str(key)
+                if rendered in out:
+                    raise ContractError(f"String/integer key collision at {pointer}/{rendered}")
+                child_path = pointer + "/" + escape(rendered)
+                if type(key) is int:
+                    key_types[child_path] = "integer"
+                out[rendered] = normalize(child, child_path)
+            return out
+        if isinstance(value, list):
+            return [normalize(child, pointer + "/" + str(i)) for i, child in enumerate(value)]
+        return value
+    data = normalize(data)
     try:
         canonical(data)
     except (TypeError, ValueError) as exc:
-        raise ContractError("Use JSON-compatible YAML values (quote dates and numeric keys)") from exc
-    return data
+        raise ContractError("Use JSON-compatible YAML scalar values") from exc
+    if key_types and not with_key_types:
+        raise ContractError("Integer YAML keys require source loading with key-type provenance")
+    return (data, key_types) if with_key_types else data
+
+
+def dump_payload(path, data, key_types):
+    path = Path(path)
+    if path.suffix.lower() not in {".yaml", ".yml"}:
+        if key_types:
+            raise ContractError("Source has integer YAML keys: use a YAML payload or the typed bilingual package")
+        dump(path, data)
+        return
+    import yaml
+    def restore(value, pointer=""):
+        if isinstance(value, dict):
+            return {(int(k) if key_types.get(pointer + "/" + escape(k)) == "integer" else k): restore(v, pointer + "/" + escape(k)) for k, v in value.items()}
+        if isinstance(value, list):
+            return [restore(v, pointer + "/" + str(i)) for i, v in enumerate(value)]
+        return value
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(yaml.safe_dump(restore(data), allow_unicode=True, sort_keys=False), encoding="utf-8", newline="\n")
 
 
 def canonical(value):

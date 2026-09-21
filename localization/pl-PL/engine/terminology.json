@@ -13,7 +13,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Use as the recurring book/system label. Do not drift to `zestaw przetrwania` or coaching-style substitutes.",
       "regression_groups": [
         "core"
@@ -32,7 +32,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Core RSE child-facing activity label.",
       "regression_groups": [
         "core"
@@ -51,7 +51,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Native functional transcreation. Do not revert to `hack`.",
       "regression_groups": [
         "core"
@@ -70,7 +70,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Recurring compact label.",
       "regression_groups": [
         "core"
@@ -89,7 +89,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Explanation section for emotions/reactions. Avoid therapy register.",
       "regression_groups": [
         "core"
@@ -108,7 +108,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Creative activity heading.",
       "regression_groups": [
         "core"
@@ -127,7 +127,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Small actionable step.",
       "regression_groups": [
         "core"
@@ -146,7 +146,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Calm pause label.",
       "regression_groups": [
         "core"
@@ -165,7 +165,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Games/puzzles/movement section.",
       "regression_groups": [
         "core"
@@ -184,7 +184,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Accepted for Happy Makers child-facing voice.",
       "regression_groups": [
         "core"
@@ -203,7 +203,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Daily recurring label.",
       "regression_groups": [
         "core"
@@ -222,7 +222,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Page-protection / marker-bleed joke label.",
       "regression_groups": [
         "core"
@@ -241,7 +241,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "accepted coined term; use intentional typography",
       "regression_groups": [],
       "source": "gratitude button mechanism",
@@ -258,7 +258,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "accepted activity-family label for this exercise",
       "regression_groups": [],
       "source": "Family Anchors",
@@ -275,7 +275,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "accepted functional localization for this exercise",
       "regression_groups": [],
       "source": "Cozy Map / sensory home map function",
@@ -292,7 +292,7 @@
       "products": [
         "*"
       ],
-      "provenance": "localization/pl-PL/ACCEPTED_TERMINOLOGY.md (pre-catalog calibration)",
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
       "rationale": "Source recurrence still needs verification.",
       "regression_groups": [],
       "source": "Dilo's Glitchy Fact",
@@ -908,12 +908,12 @@
     },
     {
       "id": "detective.follow-the-evidence-don-t-guess",
-      "mode": "translate",
+      "mode": "transcreation_only",
       "products": [
         "detective-academy"
       ],
       "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
-      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "rationale": "Accepted direct-address instruction/CTA. Preserve function and recurring wording.",
       "regression_groups": [],
       "source": "FOLLOW THE EVIDENCE. DON'T GUESS.",
       "source_language": "en",
@@ -1254,23 +1254,6 @@
       "target_language": "pl-PL",
       "targets": [
         "JUŻ WKRÓTCE W GOOGLE PLAY"
-      ]
-    },
-    {
-      "id": "cta.follow-evidence",
-      "mode": "transcreation_only",
-      "products": [
-        "rse-ui-test"
-      ],
-      "provenance": "localization/pl-PL/golden-tests/detective-academy-calibration-round1.md",
-      "rationale": "Test-only reuse of an accepted imperative CTA; does not authorize new product copy.",
-      "regression_groups": [],
-      "source": "FOLLOW THE EVIDENCE. DON'T GUESS.",
-      "source_language": "en",
-      "state": "locked",
-      "target_language": "pl-PL",
-      "targets": [
-        "TRZYMAJ SIĘ DOWODÓW. NIE ZGADUJ."
       ]
     }
   ],

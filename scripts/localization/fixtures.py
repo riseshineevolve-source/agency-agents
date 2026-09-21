@@ -10,7 +10,7 @@ from pathlib import Path
 import re
 
 from .contracts import extract, segment_policy_hash
-from .gates import qa, markdown_report
+from .gates import qa, markdown_report, aggregate_reports
 from .io import load, dump, digest, file_digest
 from .packaging import package, build_memory
 
@@ -101,6 +101,13 @@ def gentle():
     return calibration, week
 
 
+def app():
+    """Exercise app packaging using the already-approved web/app-store badge."""
+    manifest, targets = web()
+    s, t = manifest["segments"][1], targets["segments"][1]
+    return make("project-unstoppable", "app", manifest["source_file"], [(s["source_text"], t["target_text"])], ids=[s["id"]], policies={0:{"surface_type":"badge","content_type":"ui"}})
+
+
 def run(output):
     output = Path(output)
     terms = load(DATA / "terminology.json")
@@ -110,6 +117,7 @@ def run(output):
     legacy_spec.loader.exec_module(legacy)
     legacy_result = legacy.main()
     cases = {"detective-calibration": detective(), "project-unstoppable-web": web()}
+    cases["project-unstoppable-app"] = app()
     cases["gentle-calibration"], cases["gentle-week1-headings"] = gentle()
     reports = []
     memory_entries = []
@@ -125,11 +133,22 @@ def run(output):
             dump(directory / "candidate-package.json", package(manifest, targets, terms, phrases))
             memory_entries.extend(build_memory(manifest, targets, terms, phrases)["entries"])
         reports.append(report)
-    dump(output / "approved-memory.json", {"version":1, "target_language":"pl-PL", "entries":memory_entries})
-    summary = {"format": "rse-localization-suite-v1", "deterministic_status": "PASS" if not legacy_result and not any(r["counts"]["errors"] for r in reports) else "BLOCK",
+    # Same authorized badge exercises both adapters. Store its one identical
+    # language record once; contradictory approvals must never be silently merged.
+    unique_memory = {}
+    for entry in memory_entries:
+        key = (entry["product"], entry["source"]["id"])
+        previous = unique_memory.get(key)
+        if previous and previous["target_sha256"] != entry["target_sha256"]:
+            raise ValueError("Conflicting fixture memory targets")
+        unique_memory.setdefault(key, entry)
+    dump(output / "approved-memory.json", {"version":1, "target_language":"pl-PL", "entries":list(unique_memory.values())})
+    summary = {**aggregate_reports(reports), "deterministic_status": "PASS" if not legacy_result and not any(r["counts"]["errors"] for r in reports) else "BLOCK",
                "legacy_fixture_count": len(legacy.ACCEPTED), "legacy_scanned_characters": len("\n".join(legacy.extract_final_sections(p.read_text(encoding="utf-8")) for p in legacy.ACCEPTED)),
                "bilingual_segments": sum(r["counts"]["source_segments"] for r in reports),
+               "distinct_bilingual_pairs": len({(m['product'],s['source_text'],t['target_text']) for m,ts in cases.values() for s,t in zip(m['segments'],ts['segments'])}),
                "reports": reports, "evidence_boundary": "All seven historical fixtures run through regression. Only verbatim source/target pairs already present in the repository receive paired invariant QA; other historic book prose has no fabricated EN source or invented coverage. The Week 1 real-template and web/browser fit gates remain OPEN."}
     dump(output / "summary.json", summary)
+    (output / "summary.md").write_text(markdown_report(summary), encoding="utf-8", newline="\n")
     print(f"Production engine fixture proof: {summary['deterministic_status']}; {summary['bilingual_segments']} bilingual segments; designed-surface review remains open")
     return 0 if summary["deterministic_status"] == "PASS" else 1

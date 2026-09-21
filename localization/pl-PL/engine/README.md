@@ -32,8 +32,9 @@ explicit plan classifying every source string as localized, protected, or exclud
 with a reason. Keys are never translation candidates. Non-string leaves are
 protected automatically. Duplicate keys, source paths and segment IDs fail closed.
 YAML uses a safe loader; ISO date scalars retain their spelling as strings.
-Use string mapping keys; non-string YAML keys require an explicit source-format
-conversion before ingestion. This is a structured-source packager, not a PDF OCR
+Integer YAML mapping keys retain a `source_key_types` sidecar in the source
+contract and are restored by YAML payload export. String/integer key collisions
+fail closed. This is a structured-source packager, not a PDF OCR
 or arbitrary HTML crawler.
 
 ```sh
@@ -108,6 +109,12 @@ data and fit/risk reports. App exports preserve nested keys and interpolation.
 Web exports preserve URLs, anchors and structured metadata while allowing visible
 copy to change. A URL migration requires an explicitly revised source contract;
 the target payload cannot silently supply a link map. No deployer is provided.
+Use `--payload-output result.yml` to emit a renderer-ready YAML payload with its
+original integer key types, or `result.json` for ordinary JSON source shapes.
+Use `--current-source source.yml` on QA/export to verify the current source still
+matches its frozen snapshot. Source edits require re-extraction; do not retain an
+approval against changed source. Export refuses to overwrite the recorded source
+file. Dates are carried as stable ISO text.
 
 Candidate exports require zero deterministic errors and retain open review items.
 `--release` additionally requires all language approvals and a PASS report; it
@@ -122,6 +129,13 @@ conservative language warnings, semantic review queue and separate deterministic
 pass versus approved-language counts. QA exit 1 means BLOCK; exit 0 means the
 deterministic checks passed, so inspect the PASS/REVIEW status before promotion.
 Language heuristics flag suspicious phrasing without rewriting accepted copy.
+
+Per-product reports and aggregate suites use the same `rse-localization-qa-v1`
+format. Combine any bounded product reports with:
+
+```sh
+python scripts/localization-engine.py qa-suite --reports PRODUCT_A_QA.json PRODUCT_B_QA.json --output build/portfolio-qa.json
+```
 
 ## Approved reuse
 

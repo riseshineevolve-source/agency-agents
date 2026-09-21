@@ -21,10 +21,15 @@ def source_contract_hash(manifest):
     return digest({k: v for k, v in manifest.items() if k != "contract_sha256"})
 
 
-def extract(document, plan, source_file, revision):
+def extract(document, plan, source_file, revision, source_key_types=None):
     require(plan.get("version") == 1, "Unsupported plan version")
     require(plan.get("adapter") in ADAPTERS, "Unknown adapter")
     require(bool(plan.get("product")) and bool(revision), "Product and source revision are required")
+    if plan.get("scope") == "full_book":
+        require(bool(plan.get("owner_freeze_evidence")), "Full-book source needs recorded owner authorization")
+        if plan["product"] == "detective-academy":
+            receipt = plan.get("freeze_receipt", {})
+            require(receipt.get("owner_instruction") == "FREEZE EN INTERIOR" and receipt.get("source_revision") == revision, "Detective source revision must match its explicit owner freeze")
     selections = plan.get("segments", [])
     protected = plan.get("protected_paths", [])
     exclusions = plan.get("excluded_paths", {})
@@ -46,6 +51,7 @@ def extract(document, plan, source_file, revision):
         segment.setdefault("logic_atoms", [])
         segment.setdefault("term_ids", [])
         segment.setdefault("number_mappings", [])
+        segment.setdefault("identity_mappings", [])
         segment.setdefault("fit_budget", None)
         segment.setdefault("semantic_risk", True)
         segments.append(segment)
@@ -55,7 +61,11 @@ def extract(document, plan, source_file, revision):
         "source_revision": revision, "source_document": document, "source_document_sha256": digest(document),
         "segments": segments, "protected_paths": sorted(set(leaf_map) - set(paths)),
         "excluded_paths": exclusions, "scope": plan.get("scope", "bounded"),
+        "source_key_types": source_key_types or {},
     }
+    if plan.get("scope") == "full_book":
+        manifest["owner_freeze_evidence"] = plan["owner_freeze_evidence"]
+        manifest["freeze_receipt"] = copy.deepcopy(plan.get("freeze_receipt"))
     manifest["contract_sha256"] = source_contract_hash(manifest)
     validate_manifest(manifest)
     targets = {"version": 1, "product": plan["product"], "contract_sha256": manifest["contract_sha256"], "segments": [
@@ -99,6 +109,12 @@ def validate_manifest(manifest):
             require(mapping["source"] in s["source_text"], f"Number mapping absent from source: {sid}")
         for token in s["protected_tokens"]:
             require(isinstance(token, str) and token in s["source_text"], f"Protected token absent from source: {sid}")
+        identities = set()
+        for identity in s.get("identity_mappings", []):
+            require(bool(identity.get("source")) and isinstance(identity.get("target_forms"), list) and bool(identity["target_forms"]), f"Invalid alias mapping: {sid}")
+            require(identity["source"].casefold() not in identities, f"Conflicting scoped alias: {sid}")
+            identities.add(identity["source"].casefold())
+            require(re.search(r"\b" + re.escape(identity["source"]) + r"\b", s["source_text"], re.I), f"Alias source absent: {sid}")
         budget = s["fit_budget"]
         if budget is not None:
             require(isinstance(budget, dict), f"Invalid fit budget: {sid}")
@@ -107,6 +123,9 @@ def validate_manifest(manifest):
                     require(type(budget[key]) is int and budget[key] > 0, f"Invalid {key}: {sid}")
             require(type(budget.get("requires_real_surface", True)) is bool, f"Invalid surface gate: {sid}")
     all_leaves = set(dict(leaves(manifest["source_document"])))
+    for pointer, kind in manifest.get("source_key_types", {}).items():
+        get(manifest["source_document"], pointer)
+        require(kind == "integer" and re.fullmatch(r"-?(?:0|[1-9]\d*)", pointer.rsplit("/", 1)[-1]), "Invalid YAML key-type provenance")
     protected = manifest.get("protected_paths", [])
     require(len(protected) == len(set(protected)) and not paths.intersection(protected), "Overlapping protected/localized paths")
     require(paths | set(protected) == all_leaves, "Source coverage classification is incomplete")
