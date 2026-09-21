@@ -146,6 +146,12 @@ programs:
     branch: feature/detective-book-factory
     pr: 571
     locked_modules: 15
+    kdp_positioning_lock: marketing/detective-academy-kdp-positioning.md
+    owned_category: book_long_detective_adventure_reader_is_missing_detective
+    core_marketing_hook: "30 CASES. ONE HIDDEN MYSTERY. YOU'RE THE MISSING DETECTIVE."
+    book_itself_is_evidence: true
+    second_use_clue_mechanic: protected_signature
+    hint_vault_as_confidence_feature: true
   happy_me:
     status: external_device_release_gates
     repo: riseshineevolve-source/riseshineevolve
