@@ -234,12 +234,16 @@ Use performance evidence to update prompts. Do not assume a psychological angle 
 
 ## Immediate September–December 2026 priorities
 
-1. Make Detective Academy KDP release-ready and launch as soon as its final visual gate and KDP preflight are approved.
-2. Build the launch assets around the autumn buyer-state map, then evolve them for gift season rather than creating unrelated campaigns.
-3. Prepare Gentle Steps for the Christmas window while its localization/app path advances.
-4. Keep Optical Animals moving toward gift-season readiness, but do not sacrifice final visual quality.
-5. Do not wait for Google Play/DUNS to start generating revenue from products that can ship through KDP.
-6. Treat Mind Bloom commercialization as a future clean fork after the private version reaches a stable DONE state; do not let it outrank current revenue opportunities.
+Canonical ordering: `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`
+
+1. **Detective Academy -> KDP**: primary revenue lane. Its visual system is already owner-approved **B / APPROVE WITH SMALL FIXES**; advance ALL-15 -> final interior -> KDP preflight without reopening the design gate.
+2. **Mind Bloom -> Private DONE**: Private V1 is frozen after PASS/CI #81. Do not spend further development budget by default; commercialization is a separate future fork.
+3. **24 Gentle Steps to Christmas**: advance aggressively enough to use the seasonal Christmas window without displacing Detective #1.
+4. **Optical Animals**: keep moving toward gift-season readiness; preserve approved art and resolve the remaining owner-gated visual slots.
+5. **Consumer App Factory / Google Play apps**: strategically important, but below shippable KDP revenue while Google/DUNS external gates remain.
+6. Senior / Happy Me / Opinie / AI Discovery continue in parallel below their respective gates.
+
+Do not wait for Google Play/DUNS to start generating revenue from products that can ship through KDP.
 
 ## Owner gates
 
