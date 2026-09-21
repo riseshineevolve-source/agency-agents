@@ -141,3 +141,17 @@ Central status records this as **local verified / push-pending** until the commi
 - Commit is not yet remote durable; central GitHub verification still shows no dedicated `riseshineevolve-source/optical-animals-book-creator` repository.
 - Before any push, the local repo remote must be inspected and confirmed. Do not push to an unrelated configured remote.
 - The same Codex run incorrectly reported central Brain/Polish/Gentle Steps sources as absent; live GitHub verification confirmed those sources exist in `agency-agents` main and `rse/polish-localization-engine-v1`. This is an execution-context/check-out issue, not a missing-source issue.
+
+
+## 2026-09-21 — Git HTTPS transport blocker on local central checkout
+
+Central Codex completion sprint verified the correct local checkout at `C:\Users\danie\GitHub\agency-agents` and the correct remote `riseshineevolve-source/agency-agents`, plus the existence of remote branch `rse/polish-localization-engine-v1`.
+
+Local execution is currently blocked by the machine Git runtime:
+`git: 'remote-https' is not a git command`
+
+Interpretation:
+- this is an **environment/toolchain blocker**, not missing project source;
+- the canonical Brain, Polish Detective profile/calibration and Gentle Steps source/checkpoints exist remotely;
+- do not create replacement localization systems, duplicate branches or ZIP-derived shadow sources;
+- first repair or bypass the local Git executable/exec-path so HTTPS fetch works, then resume branch reconciliation and Polish/Gentle Steps execution.
