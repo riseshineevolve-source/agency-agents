@@ -55,7 +55,8 @@ Agents may propose these changes, but may not silently execute or finalize them.
 ## Mind Bloom
 - merge/release according to dedicated project gate,
 - destructive reset of unfinished local work,
-- remote DB mutation outside reviewed process.
+- remote DB mutation outside reviewed process,
+- Phase 2B external-provider selection and the security/product decision for least-privilege scopes, token broker/KMS, retention, callback/PKCE, server adapter and remote staging activation before any OAuth/provider implementation.
 
 ## Opinie
 - any real-data cloud processing,
