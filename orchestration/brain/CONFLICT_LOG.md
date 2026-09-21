@@ -1,6 +1,6 @@
 # RSE Conflict Log
 
-Last reconciled: 2026-09-18
+Last reconciled: 2026-09-21
 
 ## Resolved
 
@@ -34,6 +34,11 @@ Earlier recovery files correctly recorded `24 Gentle Steps to Christmas` as miss
 A later owner upload recovered the distinct 104-page paperback interior and hardcover cover.
 Current truth: the missing-master state is SUPERSEDED; ebook/editable/KDP metadata remain optional future recovery.
 
+### Mind Bloom execution ownership: dedicated chat vs central orchestrator
+Older portfolio/integration/queue documents described Mind Bloom as a dedicated execution-chat stream.
+Owner decision on 2026-09-20 moved Mind Bloom implementation ownership and Codex usage governance to the Central RSE Orchestrator; the previous dedicated chat is parked/archive-only.
+Current truth: `brain/RSE_BRAIN_MASTER.md`, `brain/DECISION_LEDGER.md`, current Mind Bloom `CURRENT_EXECUTION_HANDOFF.md`, and current repository state win. Do not start a parallel Mind Bloom implementation stream. Preserve the local Phase 2A worktree before any pull/reset/rebase/checkout.
+
 ## Open / requires future reconciliation
 
 ### Polish Localization PR #6 merge conflict
@@ -60,6 +65,10 @@ Current handling: VERIFY-ON-USE.
 ### AI indexing/search state
 Search/indexing is time-sensitive.
 Current handling: repository decisions are durable; GSC/Bing/public-search measurements must be rechecked live.
+
+### Mind Bloom compact docs lag current remote checkpoint
+Some older central portfolio/integration prose still describes pre-transfer execution ownership or pre-2A-3 remote state.
+Current handling: current Mind Bloom repository/PR, `PROGRAM_REGISTRY.yml`, latest `RSE_BRAIN_CHECKPOINT.yml`, and this conflict record override stale prose until the next full documentation compaction. Phase 2A-3 migration `20260921071341_add_integration_ingest_staging_v0` is present remotely; Phase 2B provider implementation remains owner-gated.
 
 ### Missing/publication masters
 Content recovery queue may become stale as new Library/Drive files are recovered.
