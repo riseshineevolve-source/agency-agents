@@ -45,14 +45,19 @@ This is an execution-efficiency decision, not a change to product positioning.
 
 ## Detective product dependency
 
-Canonical central registry reports:
-- ALL-15 15/15 PASS REMOTE
-- remote head `da0b5b1be09cd5389f67f52219d30913b71a5911`
+Canonical central registry now reports:
+- FINAL ENGLISH INTERIOR = PASS
+- remote head `6aef8cefdce029413f2cc29e656d5fbad99d546c`
+- 141-page final PDF generated
+- 141 print-scale previews generated
+- ALL-15 = 15/15 PASS REMOTE
 - canonical 30-mission integration PASS
-- 15 Witness Board / Live Case Map spreads generated
-- next technical step: brand asset sync -> final EN interior -> KDP preflight
+- KDP preflight PASS
+- Build #93 PASS
+- SEO #551 PASS
+- remaining owner gates: final cover, physical proof, pricing and KDP publication
 
-Marketing does not block that technical path.
+Marketing must be launch-ready but must not delay the owner-controlled release gate.
 
 ## Next marketing gate
 
@@ -63,3 +68,18 @@ Before first live organic batch, owner should review the initial creative/copy s
 ## Owner gates unchanged
 
 No paid activation, budget increase, pricing, discount/promotion, final cover decision, physical-proof approval or KDP publication occurs here without owner approval.
+
+
+## Recovery after chat loss
+
+The previous dedicated Marketing chat became inaccessible on 2026-09-21.
+
+Ownership remains unchanged:
+- use a fresh dedicated Marketing execution chat,
+- reconstruct from GitHub durable sources,
+- do not move day-to-day Marketing execution into the Central RSE Orchestrator chat,
+- use any old chat export only as historical/supporting evidence.
+
+Merged durable foundations:
+- agency-agents PR #11 -> merge commit `b0855350071d9df7654e0bc87a73ab5098489642`
+- riseshineevolve PR #17 -> merge commit `6476f02a78c0df214940b76119291b30c9179f01`
