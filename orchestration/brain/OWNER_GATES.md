@@ -37,7 +37,10 @@ Resolved design gate:
 - final spatial visual standard is already owner-approved as **B — APPROVE WITH SMALL FIXES**,
 - mechanical ALL-15 scaling may proceed without another visual owner decision as long as locked geometry/logic and approved presentation rules are preserved.
 
-Remaining owner gates:
+Current English freeze gate:
+- visually approve the 141-page owner-review correction pass before declaring the English source frozen or starting the full Polish book localization.
+
+Remaining release owner gates:
 - final cover,
 - physical proof,
 - pricing,
@@ -45,7 +48,9 @@ Remaining owner gates:
 
 ## Optical Animals
 - promote any unresolved illustration to final,
-- final 20 lock,
+- approve any source-linked production-resolution derivative or replacement used instead of a protected low-resolution original,
+- approve/enrol the final source-linked search-token set,
+- approve the full final order/contact proof and create the final 20 lock,
 - final book publication.
 
 ## Happy Me
