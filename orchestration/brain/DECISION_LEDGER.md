@@ -28,6 +28,17 @@ This file records decisions that must not disappear when chats become inaccessib
 - [LOCKED] No forced teen slang / fake coolness.
 - [LOCKED] No unsupported therapy/medical positioning.
 
+## Commercial priority stack
+
+- [LOCKED] Canonical Q4 priority order lives in `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`.
+- [LOCKED] #1 Detective Academy -> English KDP release-readiness and publication gate.
+- [LOCKED] #2 Mind Bloom -> Private DONE/frozen; no further feature spend by default; future commercial fork is separate.
+- [LOCKED] #3 24 Gentle Steps to Christmas -> seasonal Q4 lane.
+- [LOCKED] #4 Optical Animals -> giftable KDP lane after remaining 8 visual slots are resolved.
+- [LOCKED] #5 Consumer App Factory / Google Play apps -> strategic but below currently shippable KDP revenue while Google/DUNS gates remain.
+- [CURRENT] Senior / Happy Me / Opinie / AI Discovery / Website continue in parallel below their gates.
+- [LOCKED] Do not wait for Google Play/DUNS to begin monetizing products that can ship independently through KDP.
+
 ## Business / Revenue
 
 - [CURRENT] RSE CORE Revenue Engine v1 connects existing assets before creating more products.
@@ -93,7 +104,11 @@ This file records decisions that must not disappear when chats become inaccessib
 - [LOCKED] Native Shigai geometry and unique-solution logic are authoritative.
 - [LOCKED] Production uses 15 selected spatial modules; 5 others are challengers/backups.
 - [CURRENT] Preferred spatial case architecture: Witness Board -> Live Case Map -> Room Zero Signal.
-- [OWNER GATE] Visual map standard before mass conversion.
+- [LOCKED] Detective map owner gate is CLOSED: owner decision **B — APPROVE WITH SMALL FIXES**.
+- [LOCKED] Map presentation uses white/light backgrounds, larger bold room/zone and coordinate labels, readable legends/descriptions and pencil space.
+- [LOCKED] Witness Board must feel like a premium detective dossier/case file, not a worksheet; use larger typography and bold names.
+- [LOCKED] Naming direction is **B — branded / academy / adventure**; deterministic aliases may change presentation names only, never puzzle identity/logic.
+- [CURRENT] No further design owner gate is required for mechanical ALL-15 scale; final cover, physical proof, pricing and KDP publication remain owner gates.
 - [LOCKED] English release candidate before Polish.
 
 ## Happy Me
