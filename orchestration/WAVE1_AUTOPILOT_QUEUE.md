@@ -1,21 +1,21 @@
 # RSE Wave 1 Autopilot Queue
 
-Updated: 2026-09-20
+Updated: 2026-09-21
 Rule: advance the highest-value safe task in each lane without owner interruption; stop only at OWNER GATE, dedicated-execution boundary, external configuration/device gate, or unrecoverable blocker.
 
 Canonical precedence: `orchestration/brain/RSE_BRAIN_MASTER.md` + `orchestration/brain/PROGRAM_REGISTRY.yml` + latest `RSE_BRAIN_CHECKPOINT.yml` override stale lane notes here.
 
 | Lane | Project | Autonomy | Current state / next safe work | Stop gate |
 |---|---|---|---|---|
-| A | RSE Core / AI Discovery | AUTO + VERIFY | 4/4 C1 guides indexed; app pages remain crawled-not-indexed; Seniors remains unknown/not established in Google; stale app snippets still propagate. Continue measurement/recrawl evidence only; C2 content remains unauthorized. | Material public-content/business decisions and C2 expansion remain owner-gated. |
+| A | RSE Core / AI Discovery | AUTO + VERIFY | Indexing tracker is 7/10 indexed; all 4 C1 guides remain indexed. Adventure and Unstoppable remain crawled-not-indexed; Seniors remains unknown to Google. Continue measurement/recrawl evidence only; C2 content remains unauthorized. | Material public-content/business decisions and C2 expansion remain owner-gated. |
 | B | Polish Localization Engine | AUTO + VERIFY through calibration | Calibration is green through controlled representative batches; Gentle Steps Week 1 text/source QA passes, but real-template layout fit remains pending. Do not start full-book production. | Explicit owner authorization before full segmented Polish production; real-template layout gate where required. |
 | C1 | Detective Academy | AUTO + VERIFY below visual gate | 15 spatial modules locked; editorial preflight/build green. Preserve geometry, solution logic and hidden meta-letter behavior; maintain gate packet only unless a concrete regression appears. | Spatial-map visual standard approval before mass conversion. |
-| C2 | Optical Animals | AUTO for inventory/tooling | 12 approved visuals protected, 8 unresolved. Maintain manifest/preflight safeguards only; no art promotion, replacement or roster changes automatically. | Final 20 artwork/species roster is owner-gated. |
+| C2 | Optical Animals | AUTO for inventory/tooling | 12 approved visuals protected, 8 unresolved. Dedicated target repo still does not exist as of 2026-09-21. Maintain manifest/preflight safeguards only; no art promotion, replacement or roster changes automatically. | Final 20 artwork/species roster is owner-gated. |
 | D1 | Happy Me | AUTO + VERIFY below external release gate | Machine/source gates are green and external release gate packet exists. Target Supabase project is INACTIVE; do not restore silently. | Supabase activation/billing, Play signing, real-device/internal-track verification and commercial/publication decisions. |
 | D2 | Senior / Hello Today | CENTRAL EXECUTION | Phase 14H source/CI baseline is green; production Child Mode remains OFF. Only fix newly verified source/CI blockers below external/legal/device gates. | Play/Firebase/Integrity, Families/legal/Data Safety, production Child Mode and real-device/human gates. |
-| D3 | Mind Bloom | DEDICATED EXECUTION + central sync | Dedicated chat owns implementation. Central lane records milestones/blockers/shared dependencies only; latest canonical registry reports Phase 1H local implementation with remote activation sequencing for reviewed migrations. | Dedicated execution boundary and any remote/owner-gated activation. |
+| D3 | Mind Bloom | CENTRAL EXECUTION + VERIFY | Phase 2A-3 transactional reviewed staging is remotely active and structurally verified; local Phase 2A worktree protection remains mandatory. Current branch head is at the Phase 2B provider gate packet. Do not duplicate Codex work or start OAuth/provider implementation. | Owner approval of first provider and its least-privilege scope/retention/token-broker/KMS/callback-PKCE/server-adapter design before Phase 2B provider implementation. |
 | D4 | Marketing Autopilot | DEDICATED EXECUTION + central sync | Dedicated marketing chat owns implementation. Central lane maintains durable architecture/status and verifies shared dependencies only when needed. | Paid marketing activation, spend/budget decisions and dedicated execution boundary. |
-| E | Opinie | GitHub dev with synthetic fixtures; production local-only | Synthetic workbench CI green; deterministic provenance/review packet and explicit human review transitions pass. Preserve the current human-gated boundary; do not invent speculative workflow states. | Confidential data, real case cloud use, automatic final expert conclusion and release remain hard owner/local gates. |
+| E | Opinie | GitHub dev with synthetic fixtures; production local-only | Synthetic workbench CI green; deterministic provenance/review packet and explicit human review transitions pass. Dedicated target repo still does not exist as of 2026-09-21. Preserve the current human-gated boundary; do not invent speculative workflow states. | Confidential data, real case cloud use, automatic final expert conclusion and release remain hard owner/local gates. |
 
 ## LOCAL_PRIVATE companion lanes
 
@@ -31,10 +31,11 @@ These lanes may run only when their current conversation attachments/local worki
 1. Release/blocker code work that cannot be done deterministically.
 2. Detective Book Factory or Happy Me implementation only after a concrete verified failure below owner gates.
 3. Senior implementation only for a newly verified source/CI blocker below external/legal/device gates.
-4. Polish Engine implementation only after a concrete failed regression or owner-authorized bounded expansion.
-5. Optical tooling only when it removes repeated manual work without touching approved art.
-6. Opinie synthetic work only when it strengthens an explicit requirement without widening autonomous expert scope.
-7. Never spend Codex allowance merely to generate status summaries, repeat audits, rewrite settled documentation, or wake Wave 2/Gifts.
+4. Mind Bloom implementation only as one bounded centrally governed slice below the current owner gate and without overwriting protected local worktree state.
+5. Polish Engine implementation only after a concrete failed regression or owner-authorized bounded expansion.
+6. Optical tooling only when it removes repeated manual work without touching approved art.
+7. Opinie synthetic work only when it strengthens an explicit requirement without widening autonomous expert scope.
+8. Never spend Codex allowance merely to generate status summaries, repeat audits, rewrite settled documentation, or wake Wave 2/Gifts.
 
 ## Work bundling rule
 
