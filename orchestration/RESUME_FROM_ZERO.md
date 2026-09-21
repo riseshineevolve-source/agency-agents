@@ -14,13 +14,14 @@ Read, in order:
 5. `orchestration/brain/OWNER_GATES.md`
 6. `orchestration/brain/CONFLICT_LOG.md`
 7. `orchestration/brain/RSE_BRAIN_CHECKPOINT.yml`
-8. newest dated delta under `orchestration/brain/checkpoints/` if present
-9. `orchestration/rse-business-projects.yml`
-10. `orchestration/RSE_BUSINESS_PORTFOLIO.md`
-11. `orchestration/RSE_TECHNICAL_ORCHESTRATOR.md`
-12. `orchestration/RSE_INTEGRATION_MAP.md`
-13. `orchestration/WAVE1_AUTOPILOT_QUEUE.md` if present
-14. current project-specific bootstrap/plan files under `orchestration/projects/` and `orchestration/bootstrap/`
+8. `orchestration/brain/PORTFOLIO_COMPLETION_SNAPSHOT.md` (working management estimate; never overrides live repo facts)
+9. newest dated delta under `orchestration/brain/checkpoints/` if present
+10. `orchestration/rse-business-projects.yml`
+11. `orchestration/RSE_BUSINESS_PORTFOLIO.md`
+12. `orchestration/RSE_TECHNICAL_ORCHESTRATOR.md`
+13. `orchestration/RSE_INTEGRATION_MAP.md`
+14. `orchestration/WAVE1_AUTOPILOT_QUEUE.md` if present
+15. current project-specific bootstrap/plan files under `orchestration/projects/` and `orchestration/bootstrap/`
 
 If an old chat or older prose control document conflicts with RSE Brain, a fresher repository checkpoint, or current repository state, do not follow the stale source. Log the contradiction in `orchestration/brain/CONFLICT_LOG.md`.
 
