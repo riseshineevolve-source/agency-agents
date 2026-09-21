@@ -20,6 +20,7 @@ ACCEPTED = [
     ROOT / "localization/pl-PL/golden-tests/published-book-bounded-batch-days05-20-25.md",
     ROOT / "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md",
     ROOT / "localization/pl-PL/golden-tests/gentle-steps-christmas-week1-controlled-expansion.md",
+    ROOT / "localization/pl-PL/golden-tests/detective-academy-calibration-round1.md",
 ]
 
 AIISMS = ROOT / "localization/pl-PL/FORBIDDEN_AIISMS_PL.yml"
@@ -28,6 +29,14 @@ CHRISTMAS_CALIBRATION_LABELS = [
     "SPOKOJNA CHWILA",
     "ISKRA ZABAWY",
     "CHWILA BLISKOŚCI",
+]
+
+DETECTIVE_CALIBRATION_LABELS = [
+    "TABLICA ZEZNAŃ",
+    "TWOJE ZADANIE",
+    "SEJF PODPOWIEDZI",
+    "ZERO ZAŁOŻEŃ. NAJPIERW FAKTY. POTEM TEORIE.",
+    "TWÓJ WERDYKT",
 ]
 
 REQUIRED_LOCKED_LABELS = [
@@ -180,6 +189,10 @@ def main() -> int:
         if label.lower() not in corpus_low:
             errors.append(f"CHRISTMAS calibration label missing from accepted corpus: {label!r}")
 
+    for label in DETECTIVE_CALIBRATION_LABELS:
+        if label.lower() not in corpus_low:
+            errors.append(f"DETECTIVE calibration label missing from accepted corpus: {label!r}")
+
     for phrase in load_aiisms():
         if phrase.lower() in corpus_low:
             errors.append(f"FORBIDDEN AI/translationese phrase in accepted corpus: {phrase!r}")
@@ -195,6 +208,7 @@ def main() -> int:
     print(f"Final candidate characters checked: {len(corpus)}")
     print(f"Locked labels verified: {len(REQUIRED_LOCKED_LABELS)}")
     print(f"Christmas calibration labels verified: {len(CHRISTMAS_CALIBRATION_LABELS)}")
+    print(f"Detective calibration labels verified: {len(DETECTIVE_CALIBRATION_LABELS)}")
     return 0
 
 
