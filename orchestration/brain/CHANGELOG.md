@@ -170,3 +170,15 @@ Interpretation:
 - the machine already has a complete Git for Windows installation under `C:\Program Files\Git`;
 - future Codex Git network operations should explicitly use `C:\Program Files\Git\cmd\git.exe` or the equivalent Git Bash executable, not the embedded Codex runtime Git;
 - no reinstall is required.
+
+
+## 2026-09-21 — Polish Engine reconciliation + Gentle Steps source spot-check
+
+- System Git for Windows HTTPS transport restored local Codex access to `agency-agents`.
+- `rse/polish-localization-engine-v1` reconciled with current main at `10b8189`; the sole `scripts/check-divisions.sh` conflict preserved both `localization` and `orchestration` exclusions.
+- PR #6 is mergeable.
+- Localization regression PASS across seven accepted fixtures: 37,159 candidate characters; locked labels / Christmas labels / Detective labels / Detective logic-anchor groups all verified.
+- Central source-side review of the recovered 104-page published English paperback pages 24–41 confirms Days 2–7 mechanics/content used by the Week 1 Polish fixture.
+- Week 1 source spot-check is closed as PASS; branch checkpoint updated at `3c810865`.
+- Remaining Gentle Steps Week 1 gate is narrowed to real-template overflow/fit for four longest Polish headings.
+- Detective PL full-book scale-out still requires explicit English-source freeze; no full-book translation was started.
