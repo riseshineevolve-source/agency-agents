@@ -1,4 +1,4 @@
-version: 13
+version: 14
 updated: 2026-09-21
 brain_status: canonical
 global:
@@ -169,47 +169,50 @@ programs:
     branch: rse/polish-localization-engine-v1
     repo: riseshineevolve-source/agency-agents
     pr: 6
-    registry_note: PR 6 is the active Polish Localization Engine v1 draft; branch reconciled with current main at 10b8189 and later advanced with bounded Gentle Steps fit-gate documentation; full Detective translation remains owner-frozen
+    registry_note: PR 6 remains the active Draft Polish Localization Engine v1; current head adds production contracts and invariant gates with CI green; full Detective translation remains owner-frozen until English source freeze
     full_book_scaleout_authorized: false
     detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
     detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
-    detective_branch_head: 0188a9f4b636eef6e17b793a0103d8fe88e31fe1
+    detective_branch_head: 57cf5500004635d8ec30b3c5d581b779fb79f539
     branch_reconcile_commit: 10b8189cd7c589b1f0fa0b281c6b22d0b5f4c436
     branch_reconcile_status: PASS
     regression_local_2026_09_21: PASS_37159_chars_7_fixtures
+    production_contracts_and_invariant_gates: PASS
     gentle_steps_source_spot_check: PASS
     gentle_steps_layout_gate: four_longest_headings_real_template_fit_only
-    detective_regression_ci_run: 13
+    detective_regression_ci_run: 21
     detective_regression_ci_conclusion: PASS
     detective_full_book_gate: explicit_owner_english_canonical_master_freeze
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: final_english_interior_kdp_preflight_pass
+    status: owner_review_correction_pass_not_frozen
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
-    current_head: 6aef8cefdce029413f2cc29e656d5fbad99d546c
+    current_head: 71baf0cc164b69ada78e4ce615783b344a0b3371
     locked_modules: 15
     local_all15_pass: true
     local_all15_count: 15_of_15
     local_hardening_commit: d5e1507
     local_hardening_push_status: pushed_reconciled_remote_pass
-    latest_build_ci_run: 93
+    latest_build_ci_run: 94
     latest_build_ci_conclusion: PASS
     all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
-    final_english_interior: PASS
-    final_english_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_All15_Final.pdf
+    final_english_interior: OWNER_REVIEW_CORRECTION_PASS_NOT_FROZEN
+    final_english_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_OwnerReview.pdf
     final_page_count: 141
     kdp_preflight: PASS
     print_scale_previews: 141
-    latest_verified_build_run: 93
+    spatial_owner_review_spreads: 15_of_15_PASS
+    latest_verified_build_run: 94
     latest_verified_build_conclusion: success
     latest_verified_seo_run: 551
     latest_verified_seo_conclusion: success
-    next_execution_mode: owner_visual_review_cover_proof_upload_then_english_freeze
+    english_source_frozen: false
+    next_execution_mode: owner_visual_approval_then_english_freeze_cover_proof_pricing_kdp
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
-    final_interior_blocker: none
+    final_interior_blocker: owner_visual_approval_only
     hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
     local_dirty_worktree_protection: true
     source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
@@ -218,7 +221,7 @@ programs:
     kdp_positioning_lock: marketing/detective-academy-kdp-positioning.md
     commercial_priority_rank: 1
     visual_gate_decision: B_APPROVE_WITH_SMALL_FIXES
-    visual_gate_status: CLOSED
+    visual_gate_status: CLOSED_FOR_SPATIAL_STANDARD_OWNER_REVIEW_CORRECTION_PASS_STILL_REQUIRES_FINAL_VISUAL_APPROVAL
     naming_direction: branded_academy_adventure
     mechanical_all15_design_gate_required: false
     owned_category: book_long_detective_adventure_reader_is_missing_detective
@@ -231,17 +234,39 @@ programs:
     repo: riseshineevolve-source/riseshineevolve
     branch: mobile/mobile-first-rebuild
   optical_animals:
-    status: active_curation
+    status: owner_gated_production_hardening_green
     repo: riseshineevolve-source/riseshineevolve
     branch: feat/optical-animals-book-creator
     pr: 14
+    current_head: 6e8d51b568ec0280e7fc9545feeb0ec0399b7406
     approved_visuals: 12
     unresolved_visuals: 8
+    approved_originals_hash_preserved: true
+    hardening_tests: 30_PASS
+    synthetic_preview_pdf: 28_pages_300dpi_PASS
+    deterministic_package_hashes: PASS
+    latest_quality_ci_run: 8
+    latest_quality_ci_conclusion: PASS
+    production_target_pixels: 2550x3300
+    present_originals_below_production_target: 12
+    search_tokens_enrolled: 0
+    final_owner_lock_exists: false
+    production_release_authorized: false
+    next_gate: owner_resolve_8_visuals_approve_production_resolution_inputs_and_source_linked_tokens_then_approve_full_order_contact_proof_and_final_lock
   senior:
     status: active_central_execution
     repo: riseshineevolve-source/hello-today-android.
     current_pr: 77
     current_phase: 14H
+    current_head: 63a87ae9df538d5af1d42d8ab4bdb8707246dc8a
+    release_hardening_commit: 63a87ae9df538d5af1d42d8ab4bdb8707246dc8a
+    firebase_security_ci_run: 86
+    firebase_security_ci_conclusion: PASS
+    android_ci_run: 142
+    android_ci_state_at_sync: in_progress
+    device_accessibility_run: 79
+    device_accessibility_state_at_sync: in_progress
+    external_owner_gates_unchanged: true
   mind_bloom:
     status: private_v1_source_release_candidate_frozen
     commercial_status: private_owner_only
@@ -292,10 +317,13 @@ programs:
     phase_2b_gate: owner_select_one_provider_and_approve_least_privilege_scopes_token_broker_kms_retention_callback_pkce_server_adapter_and_remote_staging_activation_before_oauth_or_provider_implementation
     ci_note: run_72_failed_before_runner_assignment_with_no_job_steps_so_code_regression_not_established_same_class_as_run_68; GitHub Actions budget exhausted; Mind Bloom CI moved to ubuntu-slim for lower future cost
   opinie:
-    status: active_synthetic_bootstrap
+    status: active_synthetic_bootstrap_branch_conflict
     staging_repo: riseshineevolve-source/riseshineevolve
     branch: feat/opinie-offline-workbench-bootstrap
     draft_pr: 18
+    current_head: b973797697516ec7bbbea6f2d42fbc7381d3a1b8
+    pr_mergeable: false
+    branch_conflict_recorded: true
     production_runtime: local_offline
     real_data_remote_allowed: false
     latest_live_ci_run: 63
@@ -310,7 +338,7 @@ programs:
     review_packet_schema_roundtrip_hardening: pass
     final_expert_conclusion_automatic: false
     real_case_data_remote_allowed: false
-    next_safe_slice: preserve_green_human_gate_and_avoid_speculative_states
+    next_safe_slice: reconcile_sanitized_branch_when_execution_lane_resumes_then_preserve_green_human_gate_without_real_remote_data
   content_recovery:
     status: active
     policy: orchestration/RSE_CONTENT_SOURCE_POLICY.md
