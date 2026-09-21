@@ -1,0 +1,58 @@
+version: 1
+updated: 2026-09-21
+status: active
+rules:
+  evidence_over_opinion: true
+  low_reach_alone_does_not_kill_idea: true
+  distinguish_confirmed_from_assumed: true
+  paid_activation_owner_gated: true
+  kid_product_paid_targeting: parents_adults_only
+
+live_connectors_verified_2026_09_21:
+  metricool:
+    status: connected
+    brand_id: 7018771
+    networks:
+      facebook: connected
+      instagram: connected
+      youtube: connected
+      tiktok: not_verified_connected
+  windsor_ai:
+    status: connected
+    connectors:
+      facebook_ads: connected
+      amazon_ads: connected
+      google_analytics_4: connected
+  creative_claw:
+    status: verify_before_next_generation
+
+content_records: []
+campaign_records: []
+
+record_schema:
+  content_id: null
+  campaign_id: null
+  product: null
+  buyer_state: null
+  blocker_hypothesis: null
+  angle: null
+  hook: null
+  platform: null
+  format: null
+  cta: null
+  publish_date: null
+  reach: null
+  impressions: null
+  views: null
+  avg_watch_time: null
+  retention: null
+  saves: null
+  shares: null
+  comments: null
+  clicks: null
+  ctr: null
+  conversion: null
+  sales: null
+  refunds_returns: null
+  qualitative_feedback: []
+  next_hypothesis: null
