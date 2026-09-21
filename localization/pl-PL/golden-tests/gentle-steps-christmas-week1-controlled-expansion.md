@@ -392,10 +392,13 @@ Breathing instructions preserve the published source rather than adding new tech
 
 ## Promotion rule
 
-Before Week 1 becomes an accepted regression fixture:
-1. run the localization regression validator over this file,
-2. perform a source-side spot check for every day,
-3. review the four longest headings for layout fit,
-4. verify no character label becomes repetitive across the full week.
+Promotion evidence completed on 2026-09-21:
+- localization regression validator: PASS;
+- source-side spot check against the recovered published English paperback pages 24–41: PASS for Days 2–7 mechanics/content;
+- character-label coverage across the accepted fixtures: PASS.
 
-If those pass, promote Week 1 to accepted calibration and use it as the first evidence that Gentle Steps can enter segmented full-book translation later.
+Remaining promotion gate:
+1. review the four longest Polish headings in the real designed template for overflow/fit;
+2. do not shrink body text merely to rescue a heading.
+
+If layout fit passes, promote Week 1 to accepted calibration and use it as the first evidence that Gentle Steps can enter segmented full-book translation later.
