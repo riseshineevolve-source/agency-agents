@@ -186,11 +186,11 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: owner_review_correction_pass_not_frozen
+    status: owner_review_v2_pass_owner_visual_gate
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
-    current_head: 71baf0cc164b69ada78e4ce615783b344a0b3371
+    current_head: e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87
     locked_modules: 15
     local_all15_pass: true
     local_all15_count: 15_of_15
@@ -210,7 +210,7 @@ programs:
     latest_verified_seo_run: 551
     latest_verified_seo_conclusion: success
     english_source_frozen: false
-    next_execution_mode: owner_visual_approval_then_english_freeze_cover_proof_pricing_kdp
+    next_execution_mode: owner_visual_review_then_explicit_english_freeze
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
     final_interior_blocker: owner_visual_approval_only
     hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
