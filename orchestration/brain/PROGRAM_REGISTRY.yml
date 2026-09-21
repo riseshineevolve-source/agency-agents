@@ -45,7 +45,7 @@ programs:
       - major_redesign
       - paid_ads_activation
   consumer_platform:
-    status: ephemeral_candidate_contract_and_drift_gate_branch_ready
+    status: ephemeral_candidate_drift_gate_complete_owner_deployment_gate
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
     synthetic_data_contract_v0: orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md
     entitlement_model_v0: orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md
@@ -118,7 +118,7 @@ programs:
     no_new_backend_without_justification: true
     paid_project_creation_owner_gated: true
     deployment_authorized: false
-    next_safe_slice: execute_ephemeral_candidate_drift_gate_in_deterministic_checkout_then_record_checkpoint_without_live_deployment
+    next_safe_slice: none_selected_planned_safe_slice_complete_wait_for_owner_product_source_or_deployment_decision
   interactive_book_factory:
     status: synthetic_contract_v0_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
@@ -254,9 +254,19 @@ programs:
     production_release_authorized: false
     next_gate: owner_resolve_8_visuals_approve_production_resolution_inputs_and_source_linked_tokens_then_approve_full_order_contact_proof_and_final_lock
   senior:
-    status: active_central_execution
+    status: source_side_hardening_complete_external_release_gates
     repo: riseshineevolve-source/hello-today-android.
     current_pr: 77
+    source_hardening_final_head: 7df593bac70d76653d83bc550f6e3052835ba478
+    android_ci_run: 144
+    android_ci_conclusion: PASS
+    device_ci_run: 81
+    device_ci_conclusion: PASS
+    firebase_security_ci_run: 86
+    firebase_security_ci_conclusion: PASS
+    source_checks_pass: 26
+    external_owner_gates_remaining: 21
+    next_safe_slice: none_source_side_wait_for_external_owner_device_gates
     current_phase: 14H
     current_head: 63a87ae9df538d5af1d42d8ab4bdb8707246dc8a
     release_hardening_commit: 63a87ae9df538d5af1d42d8ab4bdb8707246dc8a
