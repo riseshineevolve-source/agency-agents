@@ -5,6 +5,20 @@ Rule: advance the highest-value safe task in each lane without owner interruptio
 
 Canonical precedence: `orchestration/brain/RSE_BRAIN_MASTER.md` + `orchestration/brain/PROGRAM_REGISTRY.yml` + latest `RSE_BRAIN_CHECKPOINT.yml` override stale lane notes here.
 
+## Commercial priority stack — Q4 2026
+
+Canonical source: `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`
+
+1. **Detective Academy -> KDP**
+2. **Mind Bloom -> Private DONE / frozen**
+3. **24 Gentle Steps to Christmas**
+4. **Optical Animals**
+5. **Consumer App Factory / Google Play apps**
+6. Senior / Happy Me / Opinie / AI Discovery continue safely in parallel below gates.
+
+Revenue rule: do not wait for Google Play/DUNS when a quality-gated KDP product can ship independently.
+
+
 | Lane | Project | Autonomy | Current state / next safe work | Stop gate |
 |---|---|---|---|---|
 | A | RSE Core / AI Discovery | AUTO + VERIFY | Indexing tracker is 7/10 indexed; all 4 C1 guides remain indexed. Adventure and Unstoppable remain crawled-not-indexed; Seniors remains unknown to Google. Continue measurement/recrawl evidence only; C2 content remains unauthorized. | Material public-content/business decisions and C2 expansion remain owner-gated. |
@@ -28,13 +42,13 @@ These lanes may run only when their current conversation attachments/local worki
 
 ## Consumption priority when Codex allowance is scarce
 
-1. Release/blocker code work that cannot be done deterministically.
-2. Detective Book Factory or Happy Me implementation only after a concrete verified failure below owner gates.
-3. Senior implementation only for a newly verified source/CI blocker below external/legal/device gates.
-4. Mind Bloom consumes no Codex by default while Private V1 is frozen; use it only for a reproducible release blocker or explicit owner reopen, while preserving protected local worktree state.
-5. Polish Engine implementation only after a concrete failed regression or owner-authorized bounded expansion.
-6. Optical tooling only when it removes repeated manual work without touching approved art.
-7. Opinie synthetic work only when it strengthens an explicit requirement without widening autonomous expert scope.
+1. Detective Book Factory release/blocker work required to reach ALL-15, final interior and KDP preflight.
+2. Polish Localization Engine work that prepares Detective PL without translating a moving English master; after EN freeze, Detective PL becomes the next commercial sprint.
+3. 24 Gentle Steps work that preserves the Christmas seasonal window, especially source/layout/localization blockers.
+4. Optical tooling that removes repeated manual work without touching approved art; final visual promotion remains owner-gated.
+5. Consumer App Factory / Google Play work only when it is high-value and not blocked by Google/DUNS/external setup.
+6. Senior / Happy Me / Opinie / AI Discovery continue below gates; prioritize concrete blockers, not speculative scope.
+7. Mind Bloom consumes no Codex by default while Private V1 is frozen; use it only for a reproducible release blocker or explicit owner reopen.
 8. Never spend Codex allowance merely to generate status summaries, repeat audits, rewrite settled documentation, or wake Wave 2/Gifts.
 
 ## Work bundling rule
