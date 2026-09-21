@@ -46,9 +46,10 @@ monotonic sync, future revision rejection, privacy/export isolation, public
 metadata boundaries, and owner/profile provenance.
 
 This local workstation has no PostgreSQL client, server, Docker, or WSL runtime,
-so it did not contact any database. The hardened drift guard is included in the
-same `RSE Consumer Advanced Gates` CI boundary for a fresh disposable PostgreSQL
-execution after this checkpoint is pushed.
+so it did not contact any database. The hardened drift guard was included in the
+same `RSE Consumer Advanced Gates` CI boundary: run `35655936834` for commit
+`f3d1e00147dd0cd3602d36db01a4154493b725cc` completed successfully. Both
+`static-guard` and `exercise-advanced-ephemeral-postgres` passed.
 
 ## External gates and next safe slice
 
