@@ -182,3 +182,37 @@ Interpretation:
 - Week 1 source spot-check is closed as PASS; branch checkpoint updated at `3c810865`.
 - Remaining Gentle Steps Week 1 gate is narrowed to real-template overflow/fit for four longest Polish headings.
 - Detective PL full-book scale-out still requires explicit English-source freeze; no full-book translation was started.
+
+
+## 2026-09-21 — Polish Engine production-hardening PASS
+
+Owner-reported Codex overnight result:
+- commits `57cf550` and `704a3e2` pushed on `rse/polish-localization-engine-v1`;
+- canonical 71-term catalog, hashed segmentation, provenance and strict JSON/YAML contracts complete;
+- logic gates cover IDs, answers, numbers, coordinates, aliases, placeholders and logic anchors;
+- reusable fit budgets / approved line breaks / real-template evidence validation;
+- adapters for book/PDF, puzzle, app/UI, web and structured content;
+- Git-friendly translation memory with stale-source invalidation;
+- deterministic QA reports: zero errors / 34 open review items;
+- 7/7 original fixtures PASS, 37,159 chars, 31 paired checks / 30 distinct translations PASS;
+- 55 tests PASS; all 9 final-commit CI runs successful;
+- Detective PL zero-discovery execution checkpoint ready;
+- full-book Detective PL remains explicitly blocked by owner EN freeze;
+- Gentle Steps pages 25/26/35/38 remain real-template proof gated.
+
+
+## 2026-09-21 — Optical production tooling PASS
+
+Owner-reported Codex overnight result:
+- local hardening `5e69b43` preserved/integrated and pushed;
+- integration commit `eb2dd70`, tooling commit `6e8d51b`;
+- staging PR #14 remains draft/mergeable;
+- isolated Python 3.12.14 runtime established;
+- deterministic preflight now covers provenance, hashes, duplicates, corrupt assets, resolution, margins, sequencing, coverage and stale tokens;
+- explicit pending/approved/retired states plus deliberate `FINAL_LOCKED` checksum;
+- swap automation rebuilds derived outputs from one owner decision;
+- deterministic PDF structure / repeated-build hashes verified;
+- one-command release package outputs PDF, QC, snapshots, inventories, target reports, answers and checksums;
+- 30 tests PASS and CI green;
+- all 12 approved original hashes preserved unchanged;
+- real blockers remain: 8 owner-pending art selections, print-resolution derivatives, search-token enrollment, final owner lock.
