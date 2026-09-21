@@ -10,7 +10,7 @@ Percentages estimate progress toward the currently defined DONE for each lane. T
 |---|---:|---|
 | **RSE Brain / Orchestrator** | **97%** | Core durable memory/recovery/priority system is in place; remaining work is maintenance, delta sync and checkpoint hygiene. |
 | **Mind Bloom Private V1** | **100%** | Private V1 Source Release Candidate PASS; CI #81 SUCCESS; feature development frozen. Provider integrations and commercial fork are separate future projects. |
-| **Detective Academy** | **~97%** | Owner-review readability build `71baf0c` exists and preflight passes, but owner review identified incomplete global readability implementation: map/legend/font sizing and detective-squad art still need one focused correction pass. EN is NOT frozen. |
+| **Detective Academy** | **~99%** | Owner-review V2 at `e2bfc2c` is PASS: 141 pages, preflight PASS, full visual QA/contact sheets complete, Build #96 + SEO #557 green. Only owner visual approval / representative 100% test print remains before explicit EN freeze; publication/pricing/proof stay owner-gated. |
 | **Happy Me** | **82%** | Machine/source gates largely green; remaining external Supabase/Play/signing/real-device/privacy/release gates. |
 | **Senior / Hello Today** | **80%** | Core technically advanced; remaining Play/Firebase/legal/device/human production gates. |
 | **Polish Localization Engine** | **~94%** | Production infrastructure hardened: 71-term catalog, provenance/segmentation, logic gates, fit system, multi-surface adapters, translation memory and deterministic QA. 55 tests green; Detective PL handoff ready. Full-book PL waits only for explicit EN freeze. |
