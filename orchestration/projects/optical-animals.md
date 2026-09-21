@@ -77,3 +77,28 @@ Avoid broad multi-agent generation. The goal is curation and controlled repair, 
 - one-image replacement does not require manual repagination,
 - automated preflight detects roster/asset/layout failures,
 - full KDP master remains blocked until final 20 are approved.
+
+
+## 2026-09-21 local completion-sprint delta
+
+Codex reported a **local-only** hardening commit:
+`5e69b43 Harden optical book release preflight`
+
+Implemented locally:
+- asset SHA-256 provenance,
+- duplicate artwork/token detection,
+- manifest checksum enforcement,
+- seek-page/count/final-coverage validation,
+- reproducible release-manifest generation.
+
+Verification reported:
+- git diff integrity: PASS,
+- runtime verification: BLOCKED because system Python was unavailable and the project virtual-environment interpreter was access-denied.
+
+Durability status:
+- commit is local only,
+- do not assume it is present in a remote repository,
+- dedicated target repo `riseshineevolve-source/optical-animals-book-creator` is still not present in the connected GitHub organization as of the central live check,
+- before any push, inspect `git remote -v` and confirm the destination is the intended canonical repository; never push this local commit to an unrelated remote merely to make it durable.
+
+Owner gates remain unchanged: 12 approved visuals are protected and the remaining 8 final visual selections are owner-gated.
