@@ -37,7 +37,19 @@ DETECTIVE_CALIBRATION_LABELS = [
     "SEJF PODPOWIEDZI",
     "ZERO ZAŁOŻEŃ. NAJPIERW FAKTY. POTEM TEORIE.",
     "TWÓJ WERDYKT",
+    "WSPÓŁRZĘDNA",
 ]
+
+# Bounded semantic anchors for the Detective calibration fixture. These do not
+# freeze English syntax; they protect the deduction operators that must survive
+# any future native-Polish refinement of the accepted sample.
+DETECTIVE_LOGIC_ANCHORS = {
+    "exact row and column": ("nova", "drugim rzędzie", "kolumnie b"),
+    "corner plus adjacency": ("clover", "rogu mapy", "obok lodówki"),
+    "negated room membership": ("echo", "nie było", "warsztacie"),
+    "south plus east relation": ("blaze", "na południe", "na wschód", "novy"),
+    "exactly one companion": ("sage", "dokładnie jedna osoba", "pomieszczeniu"),
+}
 
 REQUIRED_LOCKED_LABELS = [
     "NIEZBĘDNIK",
@@ -178,6 +190,15 @@ def main() -> int:
             if phrase.lower() in low:
                 errors.append(f"ENGLISH recurring label leaked into {rel}: {phrase!r}")
 
+        if path.name == "detective-academy-calibration-round1.md":
+            for logic_name, anchors in DETECTIVE_LOGIC_ANCHORS.items():
+                missing = [anchor for anchor in anchors if anchor not in low]
+                if missing:
+                    errors.append(
+                        f"DETECTIVE logic regression in {rel} ({logic_name}): "
+                        f"missing semantic anchors {missing!r}"
+                    )
+
     corpus = "\n".join(combined)
     corpus_low = corpus.lower()
 
@@ -209,6 +230,7 @@ def main() -> int:
     print(f"Locked labels verified: {len(REQUIRED_LOCKED_LABELS)}")
     print(f"Christmas calibration labels verified: {len(CHRISTMAS_CALIBRATION_LABELS)}")
     print(f"Detective calibration labels verified: {len(DETECTIVE_CALIBRATION_LABELS)}")
+    print(f"Detective logic anchor groups verified: {len(DETECTIVE_LOGIC_ANCHORS)}")
     return 0
 
 
