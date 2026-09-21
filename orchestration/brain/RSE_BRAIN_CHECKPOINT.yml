@@ -179,6 +179,16 @@ commercial_priority_stack_2026_q4:
     - ai_discovery_website
   operating_rule: do_not_wait_for_google_play_duns_to_monetize_independent_kdp_products
   detective_local_provisional_2026_09_21:
-    all15_pass: 8_of_15
+    all15_pass: 15_of_15
     hmda_15: PASS
-    durable_remote_status: pending_classifier_regression_commit_and_push
+    focused_regression: PASS_HMDA_04_07_10_15
+    hybrid_pdfs: 15
+    relabelled_puzzle_solution_images: 30
+    source_hash_geometry_topology_answers_coordinates_occupiable_room_zone_alias_meta: PASS
+    local_hardening_commit: d5e1507
+    remote_feature_head_seen_by_central_orchestrator: 02df9c2c62075a3178efdf52100312852d4d87c8
+    durable_remote_status: push_pending_safe_reconciliation_remote_advanced
+    integration_manifest: dist/spatial_assets_all15.yml
+    next_step: canonical_master_spread_generation_then_final_interior_kdp_preflight
+    technical_blocker: direct_runtime_missing_pyyaml_use_existing_renderer_dependency_environment
+    owner_blocker: false
