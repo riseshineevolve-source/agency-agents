@@ -166,11 +166,11 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: all15_remote_pass_book_integration_pass
+    status: final_english_interior_kdp_preflight_pass
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
-    current_head: da0b5b1be09cd5389f67f52219d30913b71a5911
+    current_head: 6aef8cefdce029413f2cc29e656d5fbad99d546c
     locked_modules: 15
     local_all15_pass: true
     local_all15_count: 15_of_15
@@ -179,9 +179,18 @@ programs:
     latest_build_ci_run: 92
     latest_build_ci_conclusion: PASS
     all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
-    next_execution_mode: sync_canonical_brand_assets_then_final_interior_kdp_preflight
+    final_english_interior: PASS
+    final_english_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_All15_Final.pdf
+    final_page_count: 141
+    kdp_preflight: PASS
+    print_scale_previews: 141
+    latest_verified_build_run: 93
+    latest_verified_build_conclusion: success
+    latest_verified_seo_run: 551
+    latest_verified_seo_conclusion: success
+    next_execution_mode: owner_visual_review_cover_proof_upload_then_english_freeze
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
-    final_interior_blocker: existing_asset_sync_not_run
+    final_interior_blocker: none
     hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
     local_dirty_worktree_protection: true
     source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
