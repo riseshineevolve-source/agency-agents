@@ -156,10 +156,13 @@ projects:
     mechanical_all15_scale_allowed: true
     local_all15_status: pass_15_of_15
     local_all15_hardening_commit: d5e1507
-    local_all15_push_status: pending_safe_reconciliation_remote_advanced
-    current_remote_head: 02df9c2c62075a3178efdf52100312852d4d87c8
-    current_gap: safe_push_reconciliation_book_integration_final_interior_kdp_preflight
-    runtime_blocker: direct_python_missing_pyyaml_existing_renderer_env_available
+    local_all15_push_status: pushed_reconciled_remote_pass
+    current_remote_head: da0b5b1be09cd5389f67f52219d30913b71a5911
+    canonical_book_integration: pass
+    spatial_spreads_generated: 15
+    current_gap: sync_existing_brand_assets_final_interior_kdp_preflight
+    asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
+    final_interior_owner_blocker: false
     local_unpushed_work_protection: inspect_git_status_and_diff_before_reset_pull_or_pipeline_restart
     next_owner_gates: kdp_publication_pricing_final_cover_physical_proof
 
