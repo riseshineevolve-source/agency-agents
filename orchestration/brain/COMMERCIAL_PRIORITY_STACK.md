@@ -48,11 +48,15 @@ Locked implementation direction:
 No further owner design gate is required for mechanical ALL-15 scaling of this approved system.
 
 Current local Codex checkpoint reported by owner on 2026-09-21:
-- **8/15 PASS** after HMDA_15 passed;
-- HMDA_15 produced puzzle + solution assets and hybrid PDF;
-- classifier/metadata fixes remain local until focused regression completes and are not yet treated as remote durable implementation truth.
+- **ALL-15 = 15/15 PASS**;
+- 15 hybrid PDFs + 30 relabelled puzzle/solution images validated;
+- source hash, geometry, topology, answer/coordinate uniqueness, occupiable semantics, ROOM/ZONE, aliases and `CHECK THE OLD MAP` integrity all pass;
+- systemic classifier/metadata hardening is committed locally as `d5e1507`;
+- push is pending because the remote feature branch advanced independently;
+- canonical integration/final interior/KDP preflight remain next;
+- current integration blocker is technical runtime configuration only: PyYAML is missing from the direct local runtime but available in the existing renderer environment.
 
-Remote repository state always overrides this provisional local report after the next push.
+Treat 15/15 as **local verified / push-pending**, not yet remote durable implementation truth. Remote repository state wins after safe reconciliation and push.
 
 ## Detective positioning lock
 
