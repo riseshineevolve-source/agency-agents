@@ -41,21 +41,24 @@ Current truth: `brain/RSE_BRAIN_MASTER.md`, `brain/DECISION_LEDGER.md`, current 
 
 ### Polish Localization PR #6 branch reconciliation
 PR `riseshineevolve-source/agency-agents#6` previously had a merge conflict after the central Brain rebuild.
-Live verification on 2026-09-21 now reports `mergeable: true`, `draft: true`, head `0188a9f4b636eef6e17b793a0103d8fe88e31fe1`.
+Live verification on 2026-09-21 reports `mergeable: true`, `draft: true`, current head `57cf5500004635d8ec30b3c5d581b779fb79f539`; Polish Localization Regression #21 is PASS.
 Current truth: the branch-reconciliation blocker is CLOSED. Keep the PR draft until the localization lane is intentionally promoted; full-book Detective PL remains separately gated by explicit English-source freeze.
+
+### PROGRAM_REGISTRY commercial-priority mirror
+An earlier conflict entry recorded a stale registry mirror with Mind Bloom at commercial priority #2.
+Current `PROGRAM_REGISTRY.yml` v13 is aligned with `COMMERCIAL_PRIORITY_STACK.md`: Detective EN, Detective PL, Gentle Steps, Optical Animals, Consumer App Factory; Mind Bloom Private V1 is frozen outside the active commercial sequence.
+Current truth: conflict CLOSED.
+
+### Marketing handoff commercial-priority drift
+The durable Marketing Autopilot spec/checkpoint temporarily omitted Detective PL from the canonical #2 position and carried an older Detective product checkpoint.
+Reconciled on 2026-09-21: the Marketing execution spec and handoff now follow the canonical Q4 stack and recognize Detective PR #571 head `71baf0cc164b69ada78e4ce615783b344a0b3371` as owner-review correction pass, not yet English-source frozen.
+Current truth: central commercial stack + current product repo + refreshed Marketing handoff win.
 
 ## Open / requires future reconciliation
 
-### PROGRAM_REGISTRY commercial-priority mirror lags canonical stack
-`orchestration/brain/PROGRAM_REGISTRY.yml` still mirrors `mind_bloom_private_done_frozen` as commercial priority #2.
-Current canonical truth in `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md` is:
-1. Detective Academy EN KDP,
-2. Detective Academy PL KDP,
-3. 24 Gentle Steps,
-4. Optical Animals,
-5. Consumer App Factory / Google Play,
-with Mind Bloom Private V1 frozen outside the active commercial sequence.
-Current handling: `COMMERCIAL_PRIORITY_STACK.md` wins until the next Brain/registry compaction updates the mirror. Do not route new commercial work to Mind Bloom from the stale registry field.
+### Opinie PR #18 branch conflict
+Synthetic-only Opinie staging PR `riseshineevolve-source/riseshineevolve#18` is still Draft/Open but live GitHub currently reports `mergeable: false` at head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`.
+Current handling: do not merge or force-reconcile during Brain sync. Keep all real case/archive data local/offline. Reconcile only the sanitized/synthetic branch when that execution lane resumes; no owner decision is required merely to record this conflict.
 
 ### Brand positioning phrases
 Both:
@@ -79,7 +82,7 @@ Current handling: repository decisions are durable; GSC/Bing/public-search measu
 
 ### Mind Bloom compact docs lag current remote checkpoint
 Some older central portfolio/integration prose still describes pre-transfer execution ownership or pre-2A-3 remote state.
-Current handling: current Mind Bloom repository/PR, `PROGRAM_REGISTRY.yml`, latest `RSE_BRAIN_CHECKPOINT.yml`, and this conflict record override stale prose until the next full documentation compaction. Phase 2A-3 migration `20260921071341_add_integration_ingest_staging_v0` is present remotely; Phase 2B provider implementation remains owner-gated.
+Current handling: current Mind Bloom repository/PR, `PROGRAM_REGISTRY.yml`, latest durable Mind Bloom handoff/checkpoints, and this conflict record override stale prose until the next full documentation compaction. Phase 2A-3 migration `20260921071341_add_integration_ingest_staging_v0` is present remotely; Phase 2B provider implementation remains owner-gated and feature development is frozen by default.
 
 ### Missing/publication masters
 Content recovery queue may become stale as new Library/Drive files are recovered.
