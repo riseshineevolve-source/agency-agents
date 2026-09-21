@@ -163,11 +163,16 @@ programs:
     branch: rse/polish-localization-engine-v1
     repo: riseshineevolve-source/agency-agents
     pr: 6
-    registry_note: PR 6 is the active Polish Localization Engine v1 draft and currently has a merge conflict against main; reconcile branch with canonical Brain before any merge decision
+    registry_note: PR 6 is the active Polish Localization Engine v1 draft; branch reconciled with current main at 10b8189 and PR is mergeable
     full_book_scaleout_authorized: false
     detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
     detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
-    detective_branch_head: 712791d7374978fc98b35af97cc6b50d19979483
+    detective_branch_head: 3c81086556b28241747c32ccd11d88d988cc016f
+    branch_reconcile_commit: 10b8189cd7c589b1f0fa0b281c6b22d0b5f4c436
+    branch_reconcile_status: PASS
+    regression_local_2026_09_21: PASS_37159_chars_7_fixtures
+    gentle_steps_source_spot_check: PASS
+    gentle_steps_layout_gate: four_longest_headings_real_template_fit_only
     detective_regression_ci_run: 13
     detective_regression_ci_conclusion: PASS
     detective_full_book_gate: english_canonical_master_freeze_plus_all15_pass
