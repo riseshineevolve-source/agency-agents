@@ -4,7 +4,7 @@ Status: DURABLE BOOTSTRAP COMPLETE / DETECTIVE PRE-LAUNCH READY
 
 ## Milestone
 
-Dedicated Marketing Autopilot is now GitHub-backed in `riseshineevolve-source/agency-agents`.
+Dedicated Marketing Autopilot is GitHub-backed in `riseshineevolve-source/agency-agents`.
 
 Created:
 - `marketing/RSE_MARKETING_AUTOPILOT.md`
@@ -17,9 +17,12 @@ Created:
 
 Current campaign priority follows the canonical stack:
 1. Detective Academy -> English KDP
-2. 24 Gentle Steps seasonal lane after frozen Mind Bloom
-3. Optical Animals
-4. Consumer App Factory / Google Play below shippable KDP revenue
+2. Detective Academy -> Polish KDP after English source freeze
+3. 24 Gentle Steps to Christmas
+4. Optical Animals
+5. Consumer App Factory / Google Play
+
+Mind Bloom Private V1 is frozen/non-active commercially.
 
 Detective positioning is inherited from:
 `marketing/detective-academy-kdp-positioning.md`
@@ -36,7 +39,7 @@ Verified 2026-09-21:
 
 ## Creative execution decision
 
-Marketing launch is no longer dependent on complex generative video.
+Marketing launch is not dependent on complex generative video.
 
 Default creative ladder:
 approved product visuals -> carousels -> simple motion/page movement -> montage -> generative video only when reliable.
@@ -45,30 +48,32 @@ This is an execution-efficiency decision, not a change to product positioning.
 
 ## Detective product dependency
 
-Canonical central registry now reports:
-- FINAL ENGLISH INTERIOR = PASS
-- remote head `6aef8cefdce029413f2cc29e656d5fbad99d546c`
-- 141-page final PDF generated
-- 141 print-scale previews generated
-- ALL-15 = 15/15 PASS REMOTE
-- canonical 30-mission integration PASS
-- KDP preflight PASS
-- Build #93 PASS
-- SEO #551 PASS
-- remaining owner gates: final cover, physical proof, pricing and KDP publication
+Live PR #571 is Draft/Open/Mergeable at head `71baf0cc164b69ada78e4ce615783b344a0b3371`.
 
-Marketing must be launch-ready but must not delay the owner-controlled release gate.
+The current owner-review correction pass:
+- keeps the 141-page English interior,
+- removes repeating footer micro-brand text,
+- removes the duplicate early Detective Name field,
+- improves Witness Board hierarchy/contrast,
+- applies the white-map print treatment,
+- rebuilds all spatial paired spreads,
+- passes production preflight,
+- passes Witness Board + Live Case Map checks 15/15,
+- passes Build Detective Academy PDF #94.
+
+Status is **OWNER REVIEW REQUIRED — NOT FROZEN**. No technical release blocker is recorded, but owner visual approval is required before English source freeze, Polish full-book localization, cover/proof and KDP publication.
+
+Marketing may prepare from already approved product truth/assets, but must not present the corrected English interior as owner-frozen before that review.
 
 ## Next marketing gate
 
-Prepare first pre-launch batch from approved Detective visuals.
+Prepare the first pre-launch batch from approved Detective visuals.
 
-Before first live organic batch, owner should review the initial creative/copy set once. After a stable baseline is established, routine content inside approved positioning can run through the Marketing Autopilot performance loop.
+Before the first live organic batch, owner should review the initial creative/copy set once. After a stable baseline is established, routine content inside approved positioning can run through the Marketing Autopilot performance loop.
 
 ## Owner gates unchanged
 
-No paid activation, budget increase, pricing, discount/promotion, final cover decision, physical-proof approval or KDP publication occurs here without owner approval.
-
+No paid activation, budget increase, pricing, discount/promotion, final English interior freeze, final cover decision, physical-proof approval or KDP publication occurs here without owner approval.
 
 ## Recovery after chat loss
 
