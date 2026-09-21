@@ -113,7 +113,7 @@ projects:
   detective_academy:
     name: Happy Makers Detective Academy
     type: book
-    status: active_production
+    status: active_all15_validation_and_scaleout
     priority_wave: 1
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
@@ -126,10 +126,18 @@ projects:
     canonical_master_missions: 30
     latest_editorial_preview_pages: 141
     latest_editorial_preflight: pass
-    latest_verified_build_run: 73
-    current_gap: final_spatial_map_assets_15
-    next_gate: spatial_map_visual_standard_approval
-    mass_conversion_allowed: false
+    current_remote_head: 2e10406af22a84067a5051e12b04cf579d28deda
+    latest_verified_build_run: 90
+    latest_verified_build_conclusion: success
+    latest_verified_seo_run: 545
+    latest_verified_seo_conclusion: success
+    pilot_witness_board_status: pass
+    pilot_cases: HMDA_02_HMDA_13_HMDA_29
+    mechanical_all15_scale_allowed: true
+    current_gap: all15_validation_book_integration_final_interior_kdp_preflight
+    local_unpushed_work_protection: inspect_git_status_and_diff_before_reset_pull_or_pipeline_restart
+    next_owner_gates: kdp_publication_pricing_final_cover_physical_proof
+
   happy_me:
     name: Happy Me Adventures
     type: app
@@ -216,7 +224,7 @@ projects:
   mind_bloom:
     name: Mind Bloom Assistant
     type: app
-    status: active_central_execution
+    status: private_v1_source_release_candidate_frozen
     priority_wave: 1
     repo: riseshineevolve-source/mind-bloom-assistant
     execution_mode: central_with_codex_usage_governor
@@ -226,16 +234,21 @@ projects:
     current_branch: feature/personal-chief-of-staff-foundation
     current_pr_draft: true
     current_pr_mergeable: true
-    latest_verified_ci_run: 65
+    current_remote_head: bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13
+    latest_verified_ci_run: 81
     latest_verified_ci_conclusion: success
-    current_remote_head: 5b365d6eb41572d25a054da9047ad6e18bbad6f1
-    active_slice: phase_2A_integration_foundation
+    private_v1_source_release_candidate: PASS
+    private_v1_feature_development_frozen: true
     durable_execution_handoff: docs/personal-chief-of-staff/CURRENT_EXECUTION_HANDOFF.md
-    local_people_work_protection: do_not_reset_clean_overwrite_or_blind_pull
-    local_phase2a_worktree_protection: inspect_git_status_and_diff_before_pull_reset_rebase
-    remote_supabase_mutation_owner: dedicated_reviewed_chatgpt_action_not_local_codex
-    root_env_on_feature_branch: env_example_only
-    central_last_synced: 2026-09-18
+    local_phase2a_worktree_protection: inspect_git_status_and_diff_before_pull_reset_rebase_checkout
+    phase_2a_1_remote_sql: applied_verified
+    phase_2a_3_remote_sql: applied_verified
+    provider_oauth_authorized: false
+    commercial_fork_authorized: false
+    active_slice: none_feature_frozen_post_v1_owner_gate_only
+    next_gate: explicit_owner_reopen_for_post_v1_provider_or_separate_commercial_fork
+    central_last_synced: 2026-09-21
+
   opinie:
     name: Opinie Offline Workbench
     type: offline_first_expert_software

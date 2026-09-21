@@ -156,7 +156,7 @@ External paid tool used for image/video transformation experiments. No direct RS
 - App backend/data/auth -> project-specific Supabase.
 - Cross-channel aggregation -> Windsor only when its connectors add useful coverage.
 - Confidential accident-reconstruction case data -> LOCAL ONLY. Never GitHub/Drive/remote agent contexts unless explicitly sanitized.
-- Senior and Mind Bloom detailed execution -> dedicated execution chats; central orchestrator receives milestones/blockers/shared dependencies only.
+- Senior / Hello Today -> Central RSE Orchestrator execution.\n- Mind Bloom -> Central RSE Orchestrator ownership; Private V1 is frozen after green current-head CI, and the old dedicated chat is archive-only.\n- Marketing Autopilot -> dedicated execution chat with central milestone/blocker synchronization.
 
 ## Handoff rule
 

@@ -90,3 +90,12 @@ Execution ownership updated:
 - Happy Me remains a separate family/child-sensitive security domain by default; consolidation requires explicit privacy/security review and owner approval.
 - Mind Bloom remains private owner-only and outside the commercial consumer platform.
 - No backend was created/restored, no paid resource activated, no real users/data migrated, and no real World 01/02/Gentle Steps content converted.
+
+## 2026-09-21 — central-orchestrator takeover reconciliation
+
+- Reconstructed the central RSE Orchestrator from `RSE_BRAIN_MASTER.md`, `RESUME_FROM_ZERO.md`, the latest Brain delta and live GitHub state rather than relying on an inaccessible long chat.
+- Mind Bloom live PR #2 is now reconciled to current head `bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13` with **Mind Bloom CI #81 SUCCESS**. Private V1 Source Release Candidate is PASS and feature development is frozen; provider/commercial work is POST-V1 and owner-gated.
+- Detective Academy PR #571 remains on remote head `2e10406af22a84067a5051e12b04cf579d28deda` with **Build #90 SUCCESS** and **SEO Validation #545 SUCCESS**. Pilot Witness Board/map treatment is PASS and mechanical ALL-15 scale no longer needs a new design gate; KDP publication/pricing/final-cover/physical-proof gates remain owner-only.
+- A recovered local Codex report says Detective has additional unpushed ALL-15 work (7/15 PASS, HMDA_15 next, metadata hygiene local). It is recorded only as provisional recovery context until pushed/checkpointed; local worktree must be inspected before reset/pull/pipeline restart.
+- The active hourly RSE shift already covers day and night; stale legacy Night Shift and Mind Bloom Night Shift remain disabled to prevent duplicate writers and stale ownership assumptions.
+- Updated stale central routing/business/queue prose so new sessions do not reopen frozen Mind Bloom work or reintroduce a superseded Detective visual gate.

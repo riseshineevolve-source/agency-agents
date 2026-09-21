@@ -426,55 +426,52 @@ Hard locks:
 
 ## 15. Mind Bloom
 
-Current execution owner: Central RSE Orchestrator. The previous dedicated Mind Bloom chat is parked/archive-only and must not run a parallel implementation stream.
+Current execution owner: **Central RSE Orchestrator**. The previous dedicated Mind Bloom chat is parked/archive-only and must not run a parallel implementation stream.
 
 Current branch:
 `feature/personal-chief-of-staff-foundation`
 
-Current remote head:
-`f35b2fc21c464ef3b3b8141090ca46ece9526a12`
+Current PR:
+`#2` (Draft; keep Draft until an explicit future merge/release decision)
 
-Latest pushed product slice:
-`b0435883d97abce52ed72eb4475eab6398f4c4c5`
+Current live head:
+`bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13`
 
-Current durable domains on branch include:
-Today, Inbox, Tasks, Saved, Projects, Reminders, Media, Life Admin, People Memory, Daily Brief/Attention, reviewed Inbox promotions and Universal Chief-of-Staff Search.
+Current product state:
+**PRIVATE V1 SOURCE RELEASE CANDIDATE = PASS / FEATURE DEVELOPMENT FROZEN.**
 
-Completed integration foundation:
+Latest live CI on the current head:
+- Mind Bloom CI **#81: SUCCESS**
+- current-head code regression: none established
+
+Durable implemented domains include:
+Today, Inbox, Tasks, Saved, Projects, Reminders, Media, Life Admin, People, Daily Brief/Attention, reviewed Inbox promotions and Universal Chief-of-Staff Search.
+
+Completed foundation includes:
+- Phase 1G A/B/C,
+- Phase 1H A/B/C/D,
 - Phase 2A-0 architecture + threat model,
 - Phase 2A-1 metadata-only integration foundation,
 - Phase 2A-2 reviewed external-ingestion contract,
+- Phase 2A-3 transactional reviewed staging foundation,
 - integration security regression hardening.
 
-Verification at the latest durable resume point:
-- focused integration security: 4 files / 29 tests PASS,
-- full Vitest: 88 files / 440 tests PASS,
-- TypeScript PASS,
-- scoped lint PASS,
-- diff checks PASS,
-- production build PASS.
+Remote database state:
+- `20260921064152_add_integration_metadata_foundation_v0` is active and verified,
+- `20260921071341_add_integration_ingest_staging_v0` is active and verified,
+- no reapplication is authorized,
+- provider accounts/OAuth tokens/provider secrets/real sync jobs remain intentionally absent.
 
-Remote database boundary:
-- `PHASE_2A_1_PENDING_REMOTE_SQL.sql` is reviewed but remains pending a separate ChatGPT-applied remote activation;
-- Codex must not contact Supabase or external providers;
-- no external accounts/OAuth/provider implementation has been authorized.
+Private V1 closure also introduced a low-risk lazy-loading improvement for legacy workspace views. The initial entry bundle moved from about **2,009.17 kB / 545.74 kB gzip** to about **1,397.49 kB / 386.61 kB gzip** without changing the data model, RLS, provider boundary, credentials, `.env`, or remote Supabase state.
 
-Current next gate:
-**Phase 2B provider selection/security-product decision.** Before any OAuth/provider implementation, the owner must select one provider and approve the least-privilege scopes, token broker/KMS approach, retention, callback/PKCE model, server adapter and remote staging activation.
+Current rule:
+- do not spend further Codex/Actions on Mind Bloom merely to continue a roadmap;
+- reopen feature development only for a reproducible Private V1 release blocker or explicit owner instruction;
+- Google Calendar/Gmail/GitHub provider work is POST-V1 and remains owner-gated;
+- a future commercial fork is a separate project and must never inherit private owner data/configuration by default.
 
-CI note:
-latest live run #72 on the current head failed before runner assignment with zero executed steps. This is the same pre-runner failure class seen earlier and is not evidence of a code regression. The last verified green GitHub CI checkpoint remains #65.
-
-Important recovery rule:
-before any pull/reset/rebase/checkout, inspect `git status` + `git diff` and preserve legitimate local uncommitted work.
-
-Security state recovered:
-- frontend environment cleanup,
-- stored-XSS remediation,
-- tightened Supabase grants,
-- hardened default privileges,
-- trigger/RPC exposure cleanup,
-- Security Advisor clean at checkpoint.
+Recovery safety:
+before any pull/reset/rebase/checkout, inspect local `git status` + `git diff` and preserve legitimate uncommitted work.
 
 ## 16. Opinie
 
