@@ -147,6 +147,7 @@ programs:
     pr: 571
     locked_modules: 15
     source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
+    source_label_two_page_auto_classification: owner_authorized
     hmda_04_source_rooms_0_3_label_state: absent_verified
     kdp_positioning_lock: marketing/detective-academy-kdp-positioning.md
     owned_category: book_long_detective_adventure_reader_is_missing_detective
