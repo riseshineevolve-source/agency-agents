@@ -114,3 +114,20 @@ Owner decisions reconciled into the durable Brain:
 - preserved canonical Detective marketing positioning in `marketing/detective-academy-kdp-positioning.md` and aligned the Q4 ethical persuasion framework;
 - recorded Mind Bloom Private V1 as frozen after PASS / CI #81;
 - recorded the owner-supplied local Detective checkpoint as provisional 8/15 PASS after HMDA_15, pending classifier regression commit/push before it becomes remote durable implementation truth.
+
+
+## 2026-09-21 — Detective ALL-15 local PASS
+
+Owner-supplied Codex checkpoint:
+- **ALL-15 = 15/15 PASS locally**;
+- focused HMDA_04 / HMDA_07 / HMDA_10 / HMDA_15 regression PASS;
+- 15 hybrid PDFs and 30 relabelled puzzle/solution images validated;
+- locked source hash, geometry, topology, answer/coordinate uniqueness, occupiable semantics, ROOM/ZONE, alias integrity and `CHECK THE OLD MAP` integrity PASS;
+- reusable source-label hardening committed locally as `d5e1507`;
+- push remains pending because the remote Detective feature branch independently advanced to `02df9c2c62075a3178efdf52100312852d4d87c8`;
+- no pull/reset/clean/rebase is authorized over the validated local worktree;
+- `dist/spatial_assets_all15.yml` exists as the all-15 integration manifest;
+- next safe milestone is non-destructive remote reconciliation + push, then canonical book integration, final English interior and KDP preflight;
+- direct runtime lacks PyYAML, but the existing renderer dependency environment contains the required dependency, so this is a technical execution blocker only, not an owner/product gate.
+
+Central status records this as **local verified / push-pending** until the commit is present remotely.
