@@ -39,10 +39,9 @@ Older portfolio/integration/queue documents described Mind Bloom as a dedicated 
 Owner decision on 2026-09-20 moved Mind Bloom implementation ownership and Codex usage governance to the Central RSE Orchestrator; the previous dedicated chat is parked/archive-only.
 Current truth: `brain/RSE_BRAIN_MASTER.md`, `brain/DECISION_LEDGER.md`, current Mind Bloom `CURRENT_EXECUTION_HANDOFF.md`, and current repository state win. Do not start a parallel Mind Bloom implementation stream. Preserve the local Phase 2A worktree before any pull/reset/rebase/checkout.
 
-### Polish Localization PR #6 branch reconciliation
-PR `riseshineevolve-source/agency-agents#6` previously had a merge conflict after the central Brain rebuild.
-Live verification on 2026-09-21 reports `mergeable: true`, `draft: true`, current head `57cf5500004635d8ec30b3c5d581b779fb79f539`; Polish Localization Regression #21 is PASS.
-Current truth: the branch-reconciliation blocker is CLOSED. Keep the PR draft until the localization lane is intentionally promoted; full-book Detective PL remains separately gated by explicit English-source freeze.
+### Polish Localization earlier branch reconciliation
+PR `riseshineevolve-source/agency-agents#6` previously had a merge conflict after the central Brain rebuild, then temporarily returned to `mergeable: true` at head `57cf5500004635d8ec30b3c5d581b779fb79f539` with Polish Localization Regression #21 PASS.
+Historical truth: that earlier blocker was closed at that checkpoint. A later head/main divergence is recorded separately below and supersedes that transient mergeability state.
 
 ### PROGRAM_REGISTRY commercial-priority mirror
 An earlier conflict entry recorded a stale registry mirror with Mind Bloom at commercial priority #2.
@@ -55,6 +54,11 @@ Reconciled on 2026-09-21: the Marketing execution spec and handoff now follow th
 Current truth: central commercial stack + current product repo + refreshed Marketing handoff win.
 
 ## Open / requires future reconciliation
+
+### Polish Localization PR #6 current branch divergence
+PR `riseshineevolve-source/agency-agents#6` advanced to head `704a3e2a3da580678be48557e84964e631b41f01` with `feat(localization): finish frozen-source handoff and surface proof gates`. Its durable `DETECTIVE_PL_EXECUTION_CHECKPOINT.md` explicitly records **INFRASTRUCTURE READY / FULL-BOOK TRANSLATION OWNER-FROZEN** and confirms that no 141-page translation was started. Polish Localization Regression #23 and the current auxiliary PR checks are green.
+Live GitHub now reports `mergeable: false`. Against main `e55f352b1edc8a7bde53643bb0bf7d81ed874298`, the branch is diverged (56 commits ahead / 24 behind); main also advanced during the Brain sync. `PROGRAM_REGISTRY.yml` v14 captured the immediately preceding Polish head and is therefore transiently stale for this lane.
+Current handling: do not merge, force-rebase or start full-book translation during Brain sync. The current Polish project checkpoint + live PR override the stale registry head. Reconcile the sanitized branch only in its execution lane. The actual owner gate remains unchanged: owner must explicitly freeze the final English interior/source before any full Detective PL production run.
 
 ### Senior Phase 14H fresh Android/device verification pending
 Senior PR #77 advanced from hardening head `63a87ae9df538d5af1d42d8ab4bdb8707246dc8a` to repair head `6cb2c3ee765a0b5d37d308d247d4f017a25fb893` after Android CI #142 and Device Accessibility #79 failed on the prior head. The project checkpoint identifies an invalid UI-test import caught before device execution; repair loop 1 removes that import and also persists the restricted child route synchronously before starting the pairing claim. Firebase Security CI #86 passed the backend/rules surface.
