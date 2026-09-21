@@ -1,5 +1,5 @@
-version: 10
-updated: 2026-09-20
+version: 11
+updated: 2026-09-21
 brain_status: canonical
 global:
   master_brand: Rise.Shine.Evolve.
@@ -29,7 +29,7 @@ programs:
       - major_redesign
       - paid_ads_activation
   consumer_platform:
-    status: supabase_ephemeral_rls_verified_green
+    status: supabase_advanced_ephemeral_gate_A_H_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
     synthetic_data_contract_v0: orchestration/architecture/RSE_CONSUMER_SYNTHETIC_DATA_CONTRACT_V0.md
     entitlement_model_v0: orchestration/architecture/RSE_CONSUMER_ENTITLEMENT_MODEL_V0.md
@@ -39,7 +39,9 @@ programs:
     supabase_rls_policy_map_v0: orchestration/architecture/RSE_CONSUMER_SUPABASE_RLS_POLICY_MAP_V0.md
     supabase_sql_test_plan_v0: orchestration/architecture/RSE_CONSUMER_SUPABASE_SQL_TEST_PLAN_V0.md
     supabase_ephemeral_sql_checkpoint: orchestration/architecture/RSE_CONSUMER_SUPABASE_EPHEMERAL_SQL_CHECKPOINT.md
+    supabase_advanced_gates_checkpoint: orchestration/architecture/RSE_CONSUMER_SUPABASE_ADVANCED_GATES_CHECKPOINT.md
     supabase_ephemeral_sql_fixture: orchestration/architecture/fixtures/consumer-platform-v0/supabase_rls_ephemeral.sql
+    supabase_advanced_sync_fixture: orchestration/architecture/fixtures/consumer-platform-v0/supabase_sync_boundary_ephemeral.sql
     synthetic_fixture: orchestration/architecture/fixtures/consumer-platform-v0/synthetic_consumer.valid.json
     validator: scripts/validate-rse-consumer-contract.py
     regression_tests: scripts/test-rse-consumer-contract.py
@@ -48,13 +50,18 @@ programs:
     supabase_policy_contract_tests: scripts/test-rse-consumer-supabase-policy-contract.py
     supabase_ephemeral_static_tests: scripts/test-rse-consumer-supabase-sql-fixture.py
     supabase_ephemeral_runtime_tests: scripts/test-rse-consumer-supabase-ephemeral.sql
+    supabase_advanced_static_tests: scripts/test-rse-consumer-supabase-advanced-static.py
+    supabase_advanced_runtime_tests: scripts/test-rse-consumer-supabase-ephemeral-advanced.sql
     contract_ci_run: 35531884239
     contract_ci_conclusion: PASS
     supabase_policy_contract_ci_run: 35535228276
     supabase_policy_contract_ci_conclusion: PASS
     supabase_ephemeral_ci_run: 35538201529
     supabase_ephemeral_ci_conclusion: PASS
-    verified_head: 6c5cd653c987ce6095c49896a1db968d75b0474a
+    supabase_advanced_ci_run: 35541200417
+    supabase_advanced_ci_conclusion: PASS
+    verified_head: 9baf778da210b4c354dcb10e19d452f9524df8e6
+    checkpoint_head: e1d2570d32e7149a068eeea8b8d0de6f9f08a8c5
     identity_is_not_entitlement: true
     product_scoped_entitlements_required: true
     cross_user_isolation_contract: verified_synthetic
@@ -71,6 +78,9 @@ programs:
     separate_domain_deletion_implicit: false
     supabase_rls_contract: verified_synthetic
     supabase_ephemeral_rls_runtime: verified_synthetic_postgres16
+    advanced_sync_boundary: trusted_server_security_invoker_only
+    authenticated_direct_progress_sync_mutation: denied_in_advanced_model
+    client_premium_claim_accepted: false
     supabase_remote_deployment_authorized: false
     shared_backend_candidates:
       - rse_consumer_account_surfaces
@@ -87,7 +97,7 @@ programs:
     no_new_backend_without_justification: true
     paid_project_creation_owner_gated: true
     deployment_authorized: false
-    next_safe_slice: extend_ephemeral_sql_harness_to_remaining_gate_A_H_cases_without_live_backend_or_real_data
+    next_safe_slice: consolidate_verified_base_and_advanced_overlays_into_clean_ephemeral_candidate_migration_contract_and_add_deterministic_schema_policy_drift_checks
   interactive_book_factory:
     status: synthetic_contract_v0_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
@@ -153,7 +163,7 @@ programs:
     current_pr: 77
     current_phase: 14H
   mind_bloom:
-    status: active_central_execution
+    status: active_central_execution_owner_gate
     commercial_status: private_owner_only
     execution_owner: central_orchestrator
     previous_dedicated_chat: parked_archive_only
@@ -168,11 +178,13 @@ programs:
       - Phase_1H_D_Universal_Chief_of_Staff_Search
       - Phase_2A_0_Integration_Architecture_Threat_Model
       - Phase_2A_1_Metadata_Only_Integration_Foundation
-    active_slice: Phase_2A_2_reviewed_external_ingestion_contract
-    current_remote_head: 5d4bd43d01c8c0ec26daf1d777698dc4957e672f
-    latest_product_slice_head: f4f691d89b236464daca55b3dc65b18b5ed7628f
-    latest_live_ci_run: 68
-    latest_live_ci_head: 5d4bd43d01c8c0ec26daf1d777698dc4957e672f
+      - Phase_2A_2_Reviewed_External_Ingestion_Contract
+      - Phase_2A_Integration_Security_Regression_Hardening
+    active_slice: Phase_2B_provider_gate_owner_decision_only
+    current_remote_head: f35b2fc21c464ef3b3b8141090ca46ece9526a12
+    latest_product_slice_head: b0435883d97abce52ed72eb4475eab6398f4c4c5
+    latest_live_ci_run: 72
+    latest_live_ci_head: f35b2fc21c464ef3b3b8141090ca46ece9526a12
     latest_live_ci_conclusion: failure_before_runner_steps
     latest_verified_ci_run: 65
     latest_verified_ci_conclusion: success
@@ -188,9 +200,14 @@ programs:
     phase_2a_1: completed_metadata_only_foundation
     phase_2a_1_verification: 2_files_14_tests_typescript_scoped_lint_diff_check_pass
     phase_2a_1_remote_sql: reviewed_pending_chatgpt_apply
+    phase_2a_2: completed_reviewed_external_ingestion_contract
+    phase_2a_hardening: completed_integration_security_regression_hardening
+    phase_2a_hardening_focused_verification: 4_files_29_tests_pass
+    phase_2a_final_verification: 88_files_440_tests_typescript_scoped_lint_diff_check_production_build_pass
     phase_2a_1_runtime_surface_changed: false
     phase_2a_boundary: architecture_threat_model_metadata_only_state_reviewed_ingestion_contracts_no_external_accounts_or_oauth
-    ci_note: run_68_failed_before_runner_assignment_with_no_job_steps_so_code_regression_not_established
+    phase_2b_gate: owner_select_one_provider_and_approve_least_privilege_scopes_token_broker_kms_retention_callback_pkce_server_adapter_and_remote_staging_activation_before_oauth_or_provider_implementation
+    ci_note: run_72_failed_before_runner_assignment_with_no_job_steps_so_code_regression_not_established_same_class_as_run_68
   opinie:
     status: active_synthetic_bootstrap
     staging_repo: riseshineevolve-source/riseshineevolve
