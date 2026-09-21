@@ -51,6 +51,7 @@ Default agent routing:
 ## Commercial priority stack — Q4 2026
 
 Canonical priority file: `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`
+Portfolio completion snapshot: `orchestration/brain/PORTFOLIO_COMPLETION_SNAPSHOT.md` (working estimate only; live repo facts override)
 
 Owner-locked order:
 1. **Detective Academy -> KDP** — primary revenue lane; do not wait for Google Play/DUNS.
