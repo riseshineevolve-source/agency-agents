@@ -133,12 +133,17 @@ programs:
     live_connector_state: verify_on_use
     next_gate: create_durable_marketing_brain_and_live_verify_publishers
   polish_localization:
-    status: calibrated_with_second_corpus
+    status: detective_calibrated_second_commercial_priority
     branch: rse/polish-localization-engine-v1
     repo: riseshineevolve-source/agency-agents
     pr: 6
     registry_note: PR 6 is the active Polish Localization Engine v1 draft and currently has a merge conflict against main; reconcile branch with canonical Brain before any merge decision
     full_book_scaleout_authorized: false
+    detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
+    detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
+    detective_branch_head: b30a46b86d06558a79bbf00dbd3a3d0e2bb1ea15
+    detective_full_book_gate: english_canonical_master_freeze_plus_all15_pass
+    commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
     status: active_all15_validation
