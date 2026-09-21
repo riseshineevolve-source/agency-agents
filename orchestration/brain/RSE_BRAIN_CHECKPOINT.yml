@@ -37,7 +37,6 @@ remaining_live_verify_items:
   - dedicated_project_current_ci_when_next_action_depends_on_it
 owner_gates:
   - polish_full_book_scaleout
-  - detective_visual_map_standard
   - optical_final_20
   - happy_me_commercial_and_publication
   - senior_child_mode_release_legal_play_human
@@ -64,7 +63,12 @@ execution_delta_2026_09_18_late:
     editorial_preflight: PASS
     build_run: 73
     build_conclusion: success
-    remaining_gate: final_spatial_map_visual_system
+    visual_map_gate: CLOSED_APPROVE_WITH_SMALL_FIXES_B
+    visual_map_rules: white_background_bold_labels_readable_legends_pencil_space
+    witness_board: premium_case_file_not_worksheet
+    naming_direction: branded_academy_adventure_B
+    mechanical_all15_design_gate_required: false
+    remaining_owner_gates: final_cover_physical_proof_pricing_kdp_publication
   optical_animals:
     old_roster_conflict: resolved
     final20_contract: reconciled
@@ -159,3 +163,22 @@ consumer_platform_factory_2026_09_20:
   mind_bloom_commercial_status: private_owner_only
   deployment_authorized: false
   next_safe_slice: backend_neutral_rls_authorization_matrix_and_offline_conflict_rules
+
+
+commercial_priority_stack_2026_q4:
+  canonical_file: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
+  priority_1: detective_academy_english_kdp
+  priority_2: mind_bloom_private_done_frozen
+  priority_3: 24_gentle_steps_christmas
+  priority_4: optical_animals
+  priority_5: consumer_app_factory_google_play
+  parallel_below_gates:
+    - senior_hello_today
+    - happy_me
+    - opinie
+    - ai_discovery_website
+  operating_rule: do_not_wait_for_google_play_duns_to_monetize_independent_kdp_products
+  detective_local_provisional_2026_09_21:
+    all15_pass: 8_of_15
+    hmda_15: PASS
+    durable_remote_status: pending_classifier_regression_commit_and_push
