@@ -1,5 +1,5 @@
-version: 7
-updated: 2026-09-20
+version: 8
+updated: 2026-09-21
 status: PASS
 checkpoint_type: full_chat_history_reconciliation_and_brain_rebuild
 authority:
@@ -30,22 +30,23 @@ gaps_found_and_fixed:
   - brand_and_revenue_strategy_were_not_first_class_in_central_registry
   - recovery_protocol_did_not_read_rse_brain_first
   - chat_recovery_provenance_was_not_explicitly_indexed_by_domain
+  - commercial_priority_registry_drift_reconciled_to_canonical_stack_2026_09_21
 remaining_live_verify_items:
   - marketing_connector_current_oauth_and_network_state
   - bing_webmaster_integration
   - time_sensitive_search_indexing
   - dedicated_project_current_ci_when_next_action_depends_on_it
 owner_gates:
-  - polish_full_book_scaleout
+  - detective_english_source_freeze_for_polish_full_book
   - optical_final_20
   - happy_me_commercial_and_publication
   - senior_child_mode_release_legal_play_human
   - paid_marketing_activation
   - opinie_real_data_cloud_or_release
 next_safe_actions:
-  - maintain_three_times_daily_delta_sync
-  - continue_project_execution_only_below_owner_gates
-  - build_durable_marketing_brain_before_marketing_autopilot_activation
+  - follow_canonical_commercial_priority_stack
+  - continue_project_execution_only_below_owner_or_external_gates
+  - execute_consumer_ephemeral_candidate_drift_gate_deterministically_before_any_ci_or_deployment
 
 execution_delta_2026_09_18_late:
   inaccessible_chat_mapping:
@@ -102,7 +103,7 @@ execution_delta_2026_09_18_late:
     automatic_final_conclusion: false
     real_case_data_remote_allowed: false
   execution_boundaries:
-    mind_bloom: dedicated_chat
+    mind_bloom: central_execution_private_v1_feature_frozen
     marketing: dedicated_chat
     senior: central_execution
 
@@ -162,16 +163,21 @@ consumer_platform_factory_2026_09_20:
   happy_me_default_boundary: separate_family_child_sensitive_security_domain
   mind_bloom_commercial_status: private_owner_only
   deployment_authorized: false
-  next_safe_slice: backend_neutral_rls_authorization_matrix_and_offline_conflict_rules
-
+  candidate_branch: rse/consumer-ephemeral-candidate-contract-v0
+  candidate_head: deaff301895f0d23942078e698af59cceece3301
+  candidate_contract: orchestration/architecture/RSE_CONSUMER_EPHEMERAL_CANDIDATE_MIGRATION_CONTRACT_V0.md
+  candidate_drift_gate: scripts/test-rse-consumer-schema-policy-drift.py
+  candidate_remote_verified: true
+  next_safe_slice: run_candidate_drift_gate_in_deterministic_checkout_then_record_checkpoint_without_live_deployment
 
 commercial_priority_stack_2026_q4:
   canonical_file: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
   priority_1: detective_academy_english_kdp
-  priority_2: mind_bloom_private_done_frozen
+  priority_2: detective_academy_polish_kdp
   priority_3: 24_gentle_steps_christmas
   priority_4: optical_animals
   priority_5: consumer_app_factory_google_play
+  frozen_nonactive: mind_bloom_private_v1
   parallel_below_gates:
     - senior_hello_today
     - happy_me
@@ -188,7 +194,6 @@ commercial_priority_stack_2026_q4:
     local_hardening_commit: d5e1507
     remote_feature_head_seen_by_central_orchestrator: 02df9c2c62075a3178efdf52100312852d4d87c8
     durable_remote_status: PASS_REMOTE
-    durable_remote_head: da0b5b1be09cd5389f67f52219d30913b71a5911
     integration_manifest: dist/spatial_assets_all15.yml
     canonical_master_integration: PASS
     paired_spreads_generated: 15
@@ -205,7 +210,6 @@ commercial_priority_stack_2026_q4:
     ci_seo_conclusion: success
     next_step: owner_visual_review_cover_proof_upload_then_english_freeze
     owner_blocker: final_cover_physical_proof_pricing_kdp_publication_only
-
 
 detective_owner_review_71baf0c:
   head: 71baf0cc164b69ada78e4ce615783b344a0b3371
