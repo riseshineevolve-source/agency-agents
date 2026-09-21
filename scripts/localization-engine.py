@@ -14,6 +14,7 @@ from localization.io import ContractError, load, dump, dump_payload, leaves, fil
 from localization.detective import prepare as prepare_detective, freeze_gate
 from localization.packaging import package, build_memory, reuse_memory
 from localization.fit import fit_request, check_evidence
+from localization.backcheck import build_backcheck_packet, validate_backcheck_evidence
 from localization.terminology import markdown as terminology_markdown
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -58,6 +59,13 @@ def main(argv=None):
         cmd.add_argument("--output", required=True)
         if name == "fit-proof":
             cmd.add_argument("--evidence")
+    for name in ("backcheck-request", "backcheck-proof"):
+        cmd = sub.add_parser(name)
+        cmd.add_argument("--manifest", required=True)
+        cmd.add_argument("--targets", required=True)
+        cmd.add_argument("--output", required=True)
+        if name == "backcheck-proof":
+            cmd.add_argument("--evidence", required=True)
     args = ap.parse_args(argv)
     try:
         if args.command == "terms-doc":
@@ -96,6 +104,15 @@ def main(argv=None):
                 dump(args.output, fit_request(spec))
             else:
                 result = check_evidence(spec, load(args.evidence), Path(args.evidence).parent) if args.evidence else {"status": "BLOCK", "issues": ["Real-template render evidence unavailable; proxy PASS forbidden"]}
+                dump(args.output, result)
+                print(result["status"])
+                return 2 if result["status"] != "PASS" else 0
+        elif args.command.startswith("backcheck-"):
+            manifest, targets = load(args.manifest), load(args.targets)
+            if args.command == "backcheck-request":
+                dump(args.output, build_backcheck_packet(manifest, targets))
+            else:
+                result = validate_backcheck_evidence(manifest, targets, load(args.evidence))
                 dump(args.output, result)
                 print(result["status"])
                 return 2 if result["status"] != "PASS" else 0
