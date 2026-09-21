@@ -131,3 +131,13 @@ Owner-supplied Codex checkpoint:
 - direct runtime lacks PyYAML, but the existing renderer dependency environment contains the required dependency, so this is a technical execution blocker only, not an owner/product gate.
 
 Central status records this as **local verified / push-pending** until the commit is present remotely.
+
+
+## 2026-09-21 — Optical local release-preflight hardening
+
+- Codex created local commit `5e69b43` in the local Optical Animals checkout.
+- It strengthens deterministic release preflight with SHA-256 provenance, duplicate detection, manifest checksum enforcement, page/final-coverage validation and reproducible release-manifest generation.
+- Runtime verification remains blocked locally by Python/interpreter availability.
+- Commit is not yet remote durable; central GitHub verification still shows no dedicated `riseshineevolve-source/optical-animals-book-creator` repository.
+- Before any push, the local repo remote must be inspected and confirmed. Do not push to an unrelated configured remote.
+- The same Codex run incorrectly reported central Brain/Polish/Gentle Steps sources as absent; live GitHub verification confirmed those sources exist in `agency-agents` main and `rse/polish-localization-engine-v1`. This is an execution-context/check-out issue, not a missing-source issue.
