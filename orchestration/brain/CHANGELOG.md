@@ -270,3 +270,21 @@ Owner-reported Codex sprint result:
 - CI RSE Consumer Advanced Gates run `35655936834` PASS;
 - commits `f3d1e00`, `40dcb3f` pushed to `rse/consumer-ephemeral-candidate-contract-v0`;
 - the previously planned next safe slice is complete; production deployment remains owner-gated and no new speculative slice should be invented.
+
+
+## 2026-09-21 — Optical Book Factory V2 complete
+
+Owner-reported Codex result on PR #14 / `feat/optical-animals-book-creator`:
+- Factory V2 complete and pushed at `3e9b6b66e9c56041c368a7ac096e157d8ba3b532`;
+- arbitrary 20-item volumes can now be scaffolded and packaged without code changes;
+- generic fail-closed volume schema added;
+- config-driven 54-page premium Volume 01 structure supported;
+- six deterministic couture seek-and-find background recipes implemented;
+- immutable hash-linked search tokens with exact placement provenance;
+- EASY/MEDIUM/HARD/MASTER bounded difficulty profiles;
+- deterministic all-20 grand challenge and answer system;
+- `new-volume` bootstrap command added;
+- owner proof packet generation added;
+- 44 tests PASS, Volume 01 regression PASS, synthetic Volume 02 proof PASS;
+- current remaining work is owner-gated artwork/token/print-resolution/final-lock work, not further factory architecture.
+- Do not schedule additional speculative Optical Factory refactors before owner art decisions.
