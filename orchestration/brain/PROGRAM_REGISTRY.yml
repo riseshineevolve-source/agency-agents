@@ -181,7 +181,7 @@ programs:
       - Phase_2A_2_Reviewed_External_Ingestion_Contract
       - Phase_2A_Integration_Security_Regression_Hardening
     active_slice: Phase_2B_provider_gate_owner_decision_only
-    current_remote_head: ddcffdaa9d33264a7a1e73400f6409ad900d7585
+    current_remote_head: 57bf3f9b9c2adb62cf2764e111a37f834200498f
     latest_product_slice_head: b0435883d97abce52ed72eb4475eab6398f4c4c5
     latest_live_ci_run: 72
     latest_live_ci_head: f35b2fc21c464ef3b3b8141090ca46ece9526a12
@@ -190,7 +190,7 @@ programs:
     latest_verified_ci_conclusion: success
     local_worktree_must_be_inspected_before_reset_pull_rebase: true
     people_memory_remote_migration: 20260918160000_add_people_memory_v0
-    remote_schema_state: people_memory_1H_B_C_and_2A_1_metadata_verified_active
+    remote_schema_state: people_memory_1H_B_C_2A_1_metadata_and_2A_3_staging_verified_active
     phase_1h_a_remote_sql_required: false
     phase_1h_b_remote_sql: applied_verified
     phase_1h_c_remote_sql: applied_verified
@@ -200,6 +200,7 @@ programs:
     phase_2a_1: completed_metadata_only_foundation
     phase_2a_1_verification: 2_files_14_tests_typescript_scoped_lint_diff_check_pass
     phase_2a_1_remote_sql: applied_verified
+    phase_2a_3_remote_sql: applied_verified
     phase_2a_2: completed_reviewed_external_ingestion_contract
     phase_2a_hardening: completed_integration_security_regression_hardening
     phase_2a_hardening_focused_verification: 4_files_29_tests_pass
