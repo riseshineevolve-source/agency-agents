@@ -12,6 +12,21 @@ global:
   chat_is_source_of_truth: false
   target_consumer_architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
   backend_creation_policy: reuse_existing_platform_unless_isolation_is_justified
+commercial_priority_stack_2026_q4:
+  canonical_file: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
+  priority_1: detective_academy_english_kdp
+  priority_2: mind_bloom_private_done_frozen
+  priority_3: gentle_steps_christmas
+  priority_4: optical_animals
+  priority_5: consumer_app_factory_google_play
+  parallel_below_gates:
+    - senior_hello_today
+    - happy_me
+    - opinie
+    - ai_discovery_website
+  revenue_first: true
+  google_play_duns_must_not_block_kdp_revenue: true
+
 programs:
   brand_and_business:
     status: owner_decision_packet_ready
@@ -159,6 +174,11 @@ programs:
     source_label_two_page_auto_classification: owner_authorized
     hmda_04_source_rooms_0_3_label_state: absent_verified
     kdp_positioning_lock: marketing/detective-academy-kdp-positioning.md
+    commercial_priority_rank: 1
+    visual_gate_decision: B_APPROVE_WITH_SMALL_FIXES
+    visual_gate_status: CLOSED
+    naming_direction: branded_academy_adventure
+    mechanical_all15_design_gate_required: false
     owned_category: book_long_detective_adventure_reader_is_missing_detective
     core_marketing_hook: "30 CASES. ONE HIDDEN MYSTERY. YOU'RE THE MISSING DETECTIVE."
     book_itself_is_evidence: true
