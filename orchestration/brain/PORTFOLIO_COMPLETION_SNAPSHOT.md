@@ -17,7 +17,7 @@ Percentages estimate progress toward the currently defined DONE for each lane. T
 | **AI Discovery / Website** | **75%** | Core architecture and indexed surfaces established; recrawl/indexing/stale-snippet and continued AI visibility work remain. |
 | **Brand + Revenue Engine** | **82%** | Major strategy/positioning/funnel architecture is durable; some owner decisions remain before full website/revenue freeze. |
 | **Marketing Autopilot** | **55%** | Architecture/automations/Q4 persuasion and Detective positioning exist; real feedback loop and sales execution are the next maturity step. |
-| **Optical Animals** | **~78%** | 12/20 visuals locked; 8 remain owner-gated. Production factory/tooling is now deterministic with release packaging, swap automation, provenance/hashes, seek-and-find generation and 30 green tests. Remaining work is primarily final art, print derivatives, token enrollment and owner proof lock. |
+| **Optical Animals** | **~84%** | Factory V2 tooling DONE: multi-volume schema, deterministic couture seek-and-find, new-volume bootstrap, proof/release packaging and 44 green tests. 12/20 visuals locked; 8 remain owner-gated. Remaining work is final art, approved tokens, print derivatives/upscale, owner proof and final lock. |
 | **Opinie Offline Workbench** | **55%** | Synthetic deterministic engine is strong; real production stays LOCAL/OFFLINE and human-gated. |
 | **RSE Consumer Platform** | **52%** | Strong contracts/RLS/synthetic gates; no real production deployment yet. |
 | **Interactive Book App Factory** | **32%** | Engine/content contracts exist; World 01 has not yet completed a real production conversion. |
