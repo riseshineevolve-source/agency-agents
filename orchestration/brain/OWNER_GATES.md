@@ -33,9 +33,15 @@ Agents may propose these changes, but may not silently execute or finalize them.
 - final brand-sensitive wording where two locked candidates remain unresolved.
 
 ## Detective
-- freeze final spatial visual standard,
-- mass-convert all maps before that gate,
-- publish English or Polish book.
+Resolved design gate:
+- final spatial visual standard is already owner-approved as **B — APPROVE WITH SMALL FIXES**,
+- mechanical ALL-15 scaling may proceed without another visual owner decision as long as locked geometry/logic and approved presentation rules are preserved.
+
+Remaining owner gates:
+- final cover,
+- physical proof,
+- pricing,
+- KDP publication of English or Polish book.
 
 ## Optical Animals
 - promote any unresolved illustration to final,
