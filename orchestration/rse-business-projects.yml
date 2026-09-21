@@ -163,10 +163,16 @@ projects:
     local_all15_status: pass_15_of_15
     local_all15_hardening_commit: d5e1507
     local_all15_push_status: pushed_reconciled_remote_pass
-    current_remote_head: da0b5b1be09cd5389f67f52219d30913b71a5911
+    current_remote_head: 6aef8cefdce029413f2cc29e656d5fbad99d546c
     canonical_book_integration: pass
     spatial_spreads_generated: 15
-    current_gap: sync_existing_brand_assets_final_interior_kdp_preflight
+    asset_sync: pass
+    final_english_interior: pass
+    final_english_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_All15_Final.pdf
+    final_page_count: 141
+    kdp_preflight: pass
+    print_scale_previews: 141
+    current_gap: owner_visual_review_final_cover_physical_proof_upload
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
     final_interior_owner_blocker: false
     local_unpushed_work_protection: inspect_git_status_and_diff_before_reset_pull_or_pipeline_restart
