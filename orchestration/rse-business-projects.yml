@@ -128,9 +128,11 @@ projects:
     gentle_steps_week_1_file: localization/pl-PL/golden-tests/gentle-steps-christmas-week1-controlled-expansion.md
     gentle_steps_week_1_text_qa: pass
     gentle_steps_week_1_source_pages_verified: 24_41
+    gentle_steps_source_spot_check: pass
+    gentle_steps_regression_2026_09_21: pass
     gentle_steps_week_1_layout_fit: pending_real_template_check
     full_book_scaleup_authorized: false
-    next_gate: gentle_steps_week_1_layout_fit_then_segmented_scaleout_decision
+    next_gate: gentle_steps_four_longest_headings_real_template_fit_then_week1_promotion
   detective_academy:
     name: Happy Makers Detective Academy
     type: book
