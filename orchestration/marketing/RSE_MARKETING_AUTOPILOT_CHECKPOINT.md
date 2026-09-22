@@ -1,6 +1,6 @@
-# RSE Marketing Autopilot Checkpoint — 2026-09-21
+# RSE Marketing Autopilot Checkpoint — 2026-09-22
 
-Status: DURABLE BOOTSTRAP COMPLETE / DETECTIVE PRE-LAUNCH READY
+Status: DURABLE BOOTSTRAP COMPLETE / DETECTIVE PRE-LAUNCH ACTIVE / ENGLISH NOT FROZEN
 Last reconciled: 2026-09-22
 
 ## Milestone
@@ -49,21 +49,24 @@ This is an execution-efficiency decision, not a change to product positioning.
 
 ## Detective product dependency
 
-Live PR #571 is Draft/Open/Mergeable at head `a6672269867cc27996fea3e9c12de1e3660a25ad`.
+Live PR #571 is Draft/Open/Mergeable at head `22e64f5d9ba56b57af6a183a37b8cf856e4a78a7`.
 
 Current product truth:
-- the exact V3 baseline is the 145-page owner-review artifact audited at `d95847fe...`;
-- the independent V3 audit found correction work before freeze;
-- bounded V3.1 correction source is now implemented without reopening puzzle logic, geometry, naming, five-act narrative or Room Zero mechanics;
-- implemented correction families cover spatial-map clearance, certificate wording, Hint/Solution onboarding, team/recruit wording, Act I dossier treatment and concrete visual evidence for Cases 03/08/11/16/24;
-- Build Detective Academy PDF #98 and SEO Validation #561 are green at the current head;
-- the build workflow currently validates/compiles the V3.1 builder but does not by itself satisfy the required full V3.1 render/page/physical-proof gate.
+- canonical V4 product/story/logic decisions remain protected;
+- bounded V4.1 visual generation/integration is present for the Case 03 comparison surface and Book 2 archival hook;
+- V4.1 still requires the remaining premium-polish scope before full-artifact verification;
+- Build Detective Academy PDF #103 and SEO Validation #571 are green at the current head;
+- English source is **NOT FROZEN**.
 
-Status is **V3.1 CORRECTION SOURCE IMPLEMENTED — VERIFICATION PENDING — ENGLISH NOT FROZEN**.
+Status is **V4.1 BOUNDED VISUAL INTEGRATION PRESENT — FINAL PREMIUM POLISH / FULL-ARTIFACT VERIFICATION PENDING — ENGLISH NOT FROZEN**.
 
-Before source freeze, product execution still must render the complete V3.1 PDF, run production preflight/machine audit, inspect the corrected artifact page by page, reconfirm 30/30 logic plus all 15 uniquely solvable spatial cases, create print-scale previews/contact sheets, and complete representative physical proof. Owner visual approval and explicit English source freeze remain separate gates.
+The next safe product sequence is:
+1. complete only the remaining V4.1 premium-polish scope without reopening locked story/logic/geometry;
+2. render the complete V4.1 owner-review PDF and run machine/preflight plus independent full-PDF visual audit;
+3. complete representative physical proof;
+4. only then present the verified artifact for owner visual approval and a separate explicit English-source freeze decision.
 
-Marketing may continue preparing from already approved positioning and assets, but must not present V3.1 as the final/frozen English interior and must not pull full-book Polish production forward.
+Marketing may continue preparing from already approved positioning and assets, but must not present V4.1 as the final/frozen English interior and must not pull full-book Polish production forward.
 
 ## Next marketing gate
 
