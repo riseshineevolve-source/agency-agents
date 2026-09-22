@@ -1,6 +1,6 @@
 # RSE Conflict Log
 
-Last reconciled: 2026-09-21
+Last reconciled: 2026-09-22
 
 ## Resolved
 
@@ -41,28 +41,28 @@ Current truth: `brain/RSE_BRAIN_MASTER.md`, `brain/DECISION_LEDGER.md`, current 
 
 ### Polish Localization earlier branch reconciliation
 PR `riseshineevolve-source/agency-agents#6` previously had a merge conflict after the central Brain rebuild, then temporarily returned to `mergeable: true` at head `57cf5500004635d8ec30b3c5d581b779fb79f539` with Polish Localization Regression #21 PASS.
-Historical truth: that earlier blocker was closed at that checkpoint. A later head/main divergence is recorded separately below and supersedes that transient mergeability state.
+Historical truth: that earlier blocker was closed at that checkpoint.
+
+### Polish Localization PR #6 later branch divergence — resolved 2026-09-22
+The later divergence recorded at head `704a3e2a3da580678be48557e84964e631b41f01` is no longer current. Live GitHub now reports Draft/Open PR #6 as `mergeable: true` at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Polish Localization Regression #31 and the current auxiliary checks are green.
+Current truth: the branch-conflict blocker is CLOSED. Do not merge merely because the branch is mergeable, and do not start full Detective Polish production. The actual owner gate is unchanged: the final English interior/source must be explicitly frozen by the owner first.
+
+### Senior Phase 14H fresh Android/device verification — resolved 2026-09-22
+The earlier repair-loop state at `6cb2c3e...` is superseded. PR #77 is Draft/Open/Mergeable at checkpoint head `7df593bac70d76653d83bc550f6e3052835ba478`; the tested implementation head is `9a848250bc8dc64d7170115de89f0aa683ff2e8c`.
+Android CI #144 passed the source candidate, Device Accessibility #81 passed 93 tests on both API 36 phone and tablet with zero failures/errors/skips, and Firebase Security CI #86 remains green for the unchanged backend/rules surface. The source matrix is 26 SOURCE/MACHINE PASS, 9 EXTERNAL UNVERIFIED and 12 OWNER/LEGAL GATE.
+Current truth: the repository-side verification blocker is CLOSED. Production `strict` remains blocked by the existing 21 external/owner gates; do not enable Child Mode, merge/release, or manufacture more source work to substitute for those gates.
 
 ### PROGRAM_REGISTRY commercial-priority mirror
 An earlier conflict entry recorded a stale registry mirror with Mind Bloom at commercial priority #2.
-Current `PROGRAM_REGISTRY.yml` v13+ is aligned with `COMMERCIAL_PRIORITY_STACK.md`: Detective EN, Detective PL, Gentle Steps, Optical Animals, Consumer App Factory; Mind Bloom Private V1 is frozen outside the active commercial sequence.
+Current `PROGRAM_REGISTRY.yml` is aligned with `COMMERCIAL_PRIORITY_STACK.md`: Detective EN, Detective PL, Gentle Steps, Optical Animals, Consumer App Factory; Mind Bloom Private V1 is frozen outside the active commercial sequence.
 Current truth: conflict CLOSED.
 
 ### Marketing handoff commercial-priority drift
 The durable Marketing Autopilot spec/checkpoint temporarily omitted Detective PL from the canonical #2 position and carried an older Detective product checkpoint.
-Reconciled on 2026-09-21: the Marketing execution spec and handoff now follow the canonical Q4 stack and recognize Detective PR #571 head `71baf0cc164b69ada78e4ce615783b344a0b3371` as owner-review correction pass, not yet English-source frozen.
+Reconciled on 2026-09-21: the Marketing execution spec and handoff follow the canonical Q4 stack and recognize Detective as owner-review correction pass, not yet English-source frozen.
 Current truth: central commercial stack + current product repo + refreshed Marketing handoff win.
 
 ## Open / requires future reconciliation
-
-### Polish Localization PR #6 current branch divergence
-PR `riseshineevolve-source/agency-agents#6` advanced to head `704a3e2a3da580678be48557e84964e631b41f01` with `feat(localization): finish frozen-source handoff and surface proof gates`. Its durable `DETECTIVE_PL_EXECUTION_CHECKPOINT.md` explicitly records **INFRASTRUCTURE READY / FULL-BOOK TRANSLATION OWNER-FROZEN** and confirms that no 141-page translation was started. Polish Localization Regression #23 and the current auxiliary PR checks are green.
-Live GitHub now reports `mergeable: false`. Against main `e55f352b1edc8a7bde53643bb0bf7d81ed874298`, the branch is diverged (56 commits ahead / 24 behind); main also advanced during the Brain sync. `PROGRAM_REGISTRY.yml` v14 captured the immediately preceding Polish head and is therefore transiently stale for this lane.
-Current handling: do not merge, force-rebase or start full-book translation during Brain sync. The current Polish project checkpoint + live PR override the stale registry head. Reconcile the sanitized branch only in its execution lane. The actual owner gate remains unchanged: owner must explicitly freeze the final English interior/source before any full Detective PL production run.
-
-### Senior Phase 14H fresh Android/device verification pending
-Senior PR #77 advanced from hardening head `63a87ae9df538d5af1d42d8ab4bdb8707246dc8a` to repair head `6cb2c3ee765a0b5d37d308d247d4f017a25fb893` after Android CI #142 and Device Accessibility #79 failed on the prior head. The project checkpoint identifies an invalid UI-test import caught before device execution; repair loop 1 removes that import and also persists the restricted child route synchronously before starting the pairing claim. Firebase Security CI #86 passed the backend/rules surface.
-Current handling: fresh Android/device evidence is still required on `6cb2c3e...`. Do not substitute older green runs, do not merge/release, and keep all existing Play/legal/Families/real-device owner gates intact. `PROGRAM_REGISTRY.yml` v14 captured the immediately preceding in-progress snapshot; this conflict entry plus the live repo supersede those transient Senior run-state fields until the next settled registry checkpoint.
 
 ### Opinie PR #18 branch conflict
 Synthetic-only Opinie staging PR `riseshineevolve-source/riseshineevolve#18` is still Draft/Open but live GitHub currently reports `mergeable: false` at head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`.
