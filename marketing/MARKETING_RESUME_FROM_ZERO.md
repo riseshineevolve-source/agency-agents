@@ -1,7 +1,7 @@
 # RSE Marketing Autopilot — Resume From Zero
 
 Status: CANONICAL RECOVERY ENTRYPOINT
-Updated: 2026-09-21
+Updated: 2026-09-22
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
 
@@ -51,33 +51,39 @@ Merged foundation:
 ## Commercial priority
 
 1. Detective Academy -> English KDP launch
-2. Mind Bloom -> private DONE/frozen; no marketing spend
+2. Detective Academy -> Polish KDP after explicit English source freeze
 3. 24 Gentle Steps to Christmas
 4. Optical Animals
 5. Consumer App Factory / Google Play when external gates allow
+
+Mind Bloom Private V1 is DONE/frozen and is not an active commercial marketing lane.
 
 Do not wait for Google Play/DUNS to monetize KDP-ready products.
 
 ## Current Detective truth
 
-Engineering is at owner release gate:
-- final English interior PASS
-- remote head `6aef8cefdce029413f2cc29e656d5fbad99d546c`
-- 141 pages
+Engineering is at the owner visual/source-freeze gate:
+- PR #571 is Draft / Open / Mergeable
+- remote head `e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87`
+- 141-page English owner-review correction pass
 - 141 print-scale previews
-- ALL-15 15/15 PASS REMOTE
+- ALL-15 spatial owner-review spreads 15/15 PASS
 - canonical 30-mission integration PASS
 - KDP preflight PASS
-- Build #93 PASS
+- Build #94 PASS
 - SEO #551 PASS
+- English source is **NOT FROZEN**
+
+The current interior may be used only as an owner-review candidate. It must not be represented as the frozen English master until the owner explicitly approves the visual result and freezes the source.
 
 Remaining owner gates:
+- final visual approval / explicit English source freeze
 - final cover
 - physical proof
 - pricing
 - KDP upload/publication
 
-Marketing must be launch-ready without delaying release.
+Marketing must remain launch-ready without delaying release, but it must not pull Polish full-book production forward across the English freeze gate.
 
 ## Detective positioning lock
 
@@ -222,6 +228,7 @@ Owner approval required for:
 - paid activation / new budget / budget increase
 - pricing
 - discount / promotion
+- final Detective English interior visual approval / source freeze
 - final cover
 - KDP publication
 - physical proof
@@ -258,4 +265,4 @@ No content becomes a winner merely because it sounds good.
 
 Paste into a new dedicated Marketing chat:
 
-**Take over RSE Marketing Autopilot. Start from `marketing/MARKETING_RESUME_FROM_ZERO.md` in `riseshineevolve-source/agency-agents`. GitHub overrides old chat memory. Reconstruct the current marketing state from the listed durable files and live-verify connectors before use. Continue the highest-value safe marketing task, currently launch-readiness for Detective Academy and the first owner-review restart batch. Do not duplicate Central RSE Orchestrator work and do not cross paid/publication/pricing owner gates.**
+**Take over RSE Marketing Autopilot. Start from `marketing/MARKETING_RESUME_FROM_ZERO.md` in `riseshineevolve-source/agency-agents`. GitHub overrides old chat memory. Reconstruct the current marketing state from the listed durable files and live-verify connectors before use. Continue the highest-value safe marketing task, currently launch-readiness for Detective Academy and the first owner-review restart batch. Do not duplicate Central RSE Orchestrator work and do not cross paid/publication/pricing/source-freeze owner gates.**
