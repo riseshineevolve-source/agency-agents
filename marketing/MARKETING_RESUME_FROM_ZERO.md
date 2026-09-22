@@ -62,20 +62,18 @@ Do not wait for Google Play/DUNS to monetize KDP-ready products.
 
 ## Current Detective truth
 
-The English interior is in a bounded V3.1 correction/verification pass, not at source freeze:
+The English interior has advanced to the bounded V4.1 premium-polish workstream, but it is still not at source freeze:
 - PR #571 is Draft / Open / Mergeable
-- remote head `a6672269867cc27996fea3e9c12de1e3660a25ad`
-- V3 baseline is the exact 145-page owner-review artifact audited at `d95847fe...`
-- V3.1 correction source is implemented in `tools/detective-book-factory/scripts/build_owner_review_v31.py`
-- correction scope is locked to the independent-audit findings: spatial-map clearance, certificate copy, Hint/Solution onboarding, team/recruit wording, Act I dossier badge, and concrete visual-evidence treatment for Cases 03/08/11/16/24
-- Build Detective Academy PDF #98 PASS and SEO Validation #561 PASS at the current head
-- those CI runs verify the branch/build surface, but they do **not** constitute the required complete V3.1 PDF/page/physical-proof gate
+- remote head `22e64f5d9ba56b57af6a183a37b8cf856e4a78a7`
+- canonical V4 source remains protected; V4.1 is a bounded visual/premium-polish layer and must not reopen the locked 30-case logic, five-act story, Detective Six premise, Room Zero mechanism, Naming B, numeric witness IDs or verified spatial geometry
+- deterministic V4.1 visual generation/integration is present for the Case 03 comparison surface and Book 2 archival hook
+- Build Detective Academy PDF #103 PASS and SEO Validation #571 PASS at the current head
 - English source is **NOT FROZEN**
 
-Before any freeze, product execution must render the complete V3.1 PDF, run production preflight/machine audit, inspect every page with focused audit of the corrected surfaces, reconfirm 30/30 logic and all 15 spatial unique solutions, create print-scale previews/contact sheets, and complete the representative physical proof. Marketing must not describe V3.1 as a final/frozen interior before those gates and explicit owner approval.
+The next safe product sequence is to complete only the remaining V4.1 premium-polish scope, then render the complete V4.1 owner-review PDF, run machine/preflight plus independent full-PDF visual audit, and complete representative physical proof. Marketing must not describe V4.1 as final/frozen before those gates and explicit owner approval.
 
-Remaining owner-controlled gates:
-- final visual approval after V3.1 verification / representative 100% test print
+Remaining owner-controlled gates after full V4.1 artifact verification:
+- final visual approval / representative physical proof
 - final cover / physical proof
 - explicit English source freeze
 - pricing
