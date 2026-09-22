@@ -166,18 +166,17 @@ programs:
     dedicated_handoff_status: durable_ready_for_fresh_chat_recovery
     next_gate: owner_review_first_live_batch_then_routine_organic_autopilot
   polish_localization:
-    status: detective_calibrated_second_commercial_priority
+    status: detective_calibrated_second_commercial_priority_branch_diverged
     branch: rse/polish-localization-engine-v1
     repo: riseshineevolve-source/agency-agents
     pr: 6
-    registry_note: PR 6 remains the active Draft Polish Localization Engine v1; current branch is mergeable and CI green; full Detective translation remains owner-frozen until explicit English source freeze
+    registry_note: PR 6 remains Draft/Open at head f9d9386 with Localization Regression #31 green; live GitHub currently reports mergeable false against the advanced canonical main; full Detective translation remains owner-frozen until explicit English source freeze
     full_book_scaleout_authorized: false
     detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
     detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
     detective_branch_head: f9d938611661f74108bdafa1df6ac8de1aaa27f1
-    branch_reconcile_commit: f9d938611661f74108bdafa1df6ac8de1aaa27f1
-    branch_reconcile_status: PASS_MERGEABLE
-    pr_mergeable: true
+    branch_reconcile_status: BLOCKED_CURRENT_MAIN_DIVERGENCE
+    pr_mergeable: false
     regression_local_2026_09_21: PASS_37159_chars_7_fixtures
     production_contracts_and_invariant_gates: PASS
     gentle_steps_source_spot_check: PASS
