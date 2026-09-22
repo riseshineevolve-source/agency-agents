@@ -1,5 +1,5 @@
-version: 14
-updated: 2026-09-21
+version: 15
+updated: 2026-09-22
 brain_status: canonical
 global:
   master_brand: Rise.Shine.Evolve.
@@ -156,6 +156,7 @@ programs:
     strategy_framework_status: active_owner_controlled_paid_activation
     execution_spec: marketing/RSE_MARKETING_AUTOPILOT.md
     execution_checkpoint: orchestration/marketing/RSE_MARKETING_AUTOPILOT_CHECKPOINT.md
+    recovery_entrypoint: marketing/MARKETING_RESUME_FROM_ZERO.md
     private_ops_repo: riseshineevolve-source/riseshineevolve
     private_marketing_brain: marketing/RSE_MARKETING_BRAIN.md
     private_ops_merge_pr: 17
@@ -169,18 +170,19 @@ programs:
     branch: rse/polish-localization-engine-v1
     repo: riseshineevolve-source/agency-agents
     pr: 6
-    registry_note: PR 6 remains the active Draft Polish Localization Engine v1; current head adds production contracts and invariant gates with CI green; full Detective translation remains owner-frozen until English source freeze
+    registry_note: PR 6 remains the active Draft Polish Localization Engine v1; current branch is mergeable and CI green; full Detective translation remains owner-frozen until explicit English source freeze
     full_book_scaleout_authorized: false
     detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
     detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
-    detective_branch_head: 57cf5500004635d8ec30b3c5d581b779fb79f539
-    branch_reconcile_commit: 10b8189cd7c589b1f0fa0b281c6b22d0b5f4c436
-    branch_reconcile_status: PASS
+    detective_branch_head: f9d938611661f74108bdafa1df6ac8de1aaa27f1
+    branch_reconcile_commit: f9d938611661f74108bdafa1df6ac8de1aaa27f1
+    branch_reconcile_status: PASS_MERGEABLE
+    pr_mergeable: true
     regression_local_2026_09_21: PASS_37159_chars_7_fixtures
     production_contracts_and_invariant_gates: PASS
     gentle_steps_source_spot_check: PASS
     gentle_steps_layout_gate: four_longest_headings_real_template_fit_only
-    detective_regression_ci_run: 21
+    detective_regression_ci_run: 31
     detective_regression_ci_conclusion: PASS
     detective_full_book_gate: explicit_owner_english_canonical_master_freeze
     commercial_priority: second_after_detective_english_kdp
@@ -234,19 +236,23 @@ programs:
     repo: riseshineevolve-source/riseshineevolve
     branch: mobile/mobile-first-rebuild
   optical_animals:
-    status: owner_gated_production_hardening_green
+    status: owner_gated_factory_v2_green_art_lock_active
     repo: riseshineevolve-source/riseshineevolve
     branch: feat/optical-animals-book-creator
     pr: 14
-    current_head: 6e8d51b568ec0280e7fc9545feeb0ec0399b7406
+    current_head: a4701af82ca8b63e7d78aeb84f0b7ef76cca337d
     approved_visuals: 12
     unresolved_visuals: 8
     approved_originals_hash_preserved: true
     hardening_tests: 30_PASS
     synthetic_preview_pdf: 28_pages_300dpi_PASS
     deterministic_package_hashes: PASS
-    latest_quality_ci_run: 8
+    latest_quality_ci_run: 16
     latest_quality_ci_conclusion: PASS
+    factory_v2: generic_multi_volume_ready_below_owner_art_gates
+    art_direction_v2: tools/optical-book-creator/OPTICAL_ART_DIRECTION_V2.md
+    art_direction_status: ACTIVE_COLLECTION_ART_LOCK
+    candidate_auto_promotion: false
     production_target_pixels: 2550x3300
     present_originals_below_production_target: 12
     search_tokens_enrolled: 0
@@ -257,25 +263,24 @@ programs:
     status: source_side_hardening_complete_external_release_gates
     repo: riseshineevolve-source/hello-today-android.
     current_pr: 77
+    current_phase: 14H
+    current_head: 7df593bac70d76653d83bc550f6e3052835ba478
     source_hardening_final_head: 7df593bac70d76653d83bc550f6e3052835ba478
+    implementation_verified_head: 9a848250bc8dc64d7170115de89f0aa683ff2e8c
+    release_hardening_commit: 7df593bac70d76653d83bc550f6e3052835ba478
     android_ci_run: 144
     android_ci_conclusion: PASS
     device_ci_run: 81
     device_ci_conclusion: PASS
+    device_accessibility_run: 81
+    device_accessibility_conclusion: PASS
     firebase_security_ci_run: 86
     firebase_security_ci_conclusion: PASS
     source_checks_pass: 26
     external_owner_gates_remaining: 21
+    source_matrix: 26_source_machine_pass_9_external_unverified_12_owner_legal_gate
+    production_strict: BLOCKED_EXTERNAL_OWNER_GATES
     next_safe_slice: none_source_side_wait_for_external_owner_device_gates
-    current_phase: 14H
-    current_head: 63a87ae9df538d5af1d42d8ab4bdb8707246dc8a
-    release_hardening_commit: 63a87ae9df538d5af1d42d8ab4bdb8707246dc8a
-    firebase_security_ci_run: 86
-    firebase_security_ci_conclusion: PASS
-    android_ci_run: 142
-    android_ci_state_at_sync: in_progress
-    device_accessibility_run: 79
-    device_accessibility_state_at_sync: in_progress
     external_owner_gates_unchanged: true
   mind_bloom:
     status: private_v1_source_release_candidate_frozen
@@ -301,7 +306,7 @@ programs:
     latest_live_ci_run: 81
     latest_live_ci_head: bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13
     latest_live_ci_conclusion: success
-    latest_verified_ci_run: 65
+    latest_verified_ci_run: 81
     latest_verified_ci_conclusion: success
     local_worktree_must_be_inspected_before_reset_pull_rebase: true
     people_memory_remote_migration: 20260918160000_add_people_memory_v0
