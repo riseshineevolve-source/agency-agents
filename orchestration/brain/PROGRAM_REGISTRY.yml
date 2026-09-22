@@ -1,4 +1,4 @@
-version: 15
+version: 16
 updated: 2026-09-22
 brain_status: canonical
 global:
@@ -166,17 +166,17 @@ programs:
     dedicated_handoff_status: durable_ready_for_fresh_chat_recovery
     next_gate: owner_review_first_live_batch_then_routine_organic_autopilot
   polish_localization:
-    status: detective_calibrated_second_commercial_priority_branch_diverged
+    status: detective_calibrated_second_commercial_priority_mergeable_owner_frozen
     branch: rse/polish-localization-engine-v1
     repo: riseshineevolve-source/agency-agents
     pr: 6
-    registry_note: PR 6 remains Draft/Open at head f9d9386 with Localization Regression #31 green; live GitHub currently reports mergeable false against the advanced canonical main; full Detective translation remains owner-frozen until explicit English source freeze
+    registry_note: PR 6 remains Draft/Open at head f9d9386 with Localization Regression #31 green; live GitHub currently reports mergeable true; no merge and no full Detective translation are authorized before explicit English source freeze
     full_book_scaleout_authorized: false
     detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
     detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
     detective_branch_head: f9d938611661f74108bdafa1df6ac8de1aaa27f1
-    branch_reconcile_status: BLOCKED_CURRENT_MAIN_DIVERGENCE
-    pr_mergeable: false
+    branch_reconcile_status: CURRENTLY_MERGEABLE_NO_MERGE_AUTHORIZED
+    pr_mergeable: true
     regression_local_2026_09_21: PASS_37159_chars_7_fixtures
     production_contracts_and_invariant_gates: PASS
     gentle_steps_source_spot_check: PASS
@@ -187,37 +187,40 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: owner_review_v3_independent_audit_corrections_required
+    status: owner_review_v31_correction_source_implemented_verification_pending
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
-    current_head: d95847fe778850bd80c3a160185536677f04c580
+    current_head: a6672269867cc27996fea3e9c12de1e3660a25ad
     locked_modules: 15
     local_all15_pass: true
     local_all15_count: 15_of_15
     local_hardening_commit: d5e1507
     local_hardening_push_status: pushed_reconciled_remote_pass
-    latest_build_ci_run: 97
+    latest_build_ci_run: 98
     latest_build_ci_conclusion: PASS
     all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
-    final_english_interior: OWNER_REVIEW_CORRECTION_PASS_NOT_FROZEN
+    final_english_interior: V31_CORRECTION_SOURCE_IMPLEMENTED_NOT_FROZEN
     final_english_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_OwnerReview_v3.pdf
     final_page_count: 145
     v3_pdf_sha256: 994db4ec8b2bc4f95e351b40646add51e55bc71b29379217be15b1752a6d6eb8
     independent_v3_audit: NOT_FREEZE_READY
     v3_p0_map_overlap_pages: [15,27,39,49,55,63,69,73,81,85,103]
     v3_p0_visual_evidence_cases: [3,8,11,16,24]
-    kdp_preflight: PASS
+    v31_correction_doc: tools/detective-book-factory/docs/V31_CORRECTION_PASS.md
+    v31_correction_source_status: IMPLEMENTED_IN_SOURCE_ENGLISH_NOT_FROZEN
+    v31_full_pdf_verification: PENDING_COMPLETE_RENDER_MACHINE_AUDIT_PAGE_REVIEW_PRINT_SCALE_AND_PHYSICAL_PROOF
+    kdp_preflight: PASS_FOR_V3_BASELINE_REVERIFY_ON_V31_RENDER
     print_scale_previews: 145
     spatial_owner_review_spreads: 15_of_15_PASS
-    latest_verified_build_run: 97
+    latest_verified_build_run: 98
     latest_verified_build_conclusion: success
-    latest_verified_seo_run: 559
+    latest_verified_seo_run: 561
     latest_verified_seo_conclusion: success
     english_source_frozen: false
-    next_execution_mode: targeted_v3_1_correction_pass_then_independent_review_then_physical_proof
+    next_execution_mode: render_full_v31_machine_audit_page_review_print_scale_physical_proof_then_owner_visual_approval_and_separate_explicit_freeze
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
-    final_interior_blocker: v3_independent_audit_p0_corrections_plus_owner_visual_and_physical_proof
+    final_interior_blocker: v31_full_artifact_verification_plus_owner_visual_and_physical_proof_before_explicit_source_freeze
     hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
     local_dirty_worktree_protection: true
     source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
@@ -335,13 +338,13 @@ programs:
     phase_2b_gate: owner_select_one_provider_and_approve_least_privilege_scopes_token_broker_kms_retention_callback_pkce_server_adapter_and_remote_staging_activation_before_oauth_or_provider_implementation
     ci_note: run_72_failed_before_runner_assignment_with_no_job_steps_so_code_regression_not_established_same_class_as_run_68; GitHub Actions budget exhausted; Mind Bloom CI moved to ubuntu-slim for lower future cost
   opinie:
-    status: active_synthetic_bootstrap_branch_conflict
+    status: active_synthetic_bootstrap_owner_gated
     staging_repo: riseshineevolve-source/riseshineevolve
     branch: feat/opinie-offline-workbench-bootstrap
     draft_pr: 18
     current_head: b973797697516ec7bbbea6f2d42fbc7381d3a1b8
-    pr_mergeable: false
-    branch_conflict_recorded: true
+    pr_mergeable: true
+    branch_conflict_recorded: false
     production_runtime: local_offline
     real_data_remote_allowed: false
     latest_live_ci_run: 63
@@ -356,7 +359,7 @@ programs:
     review_packet_schema_roundtrip_hardening: pass
     final_expert_conclusion_automatic: false
     real_case_data_remote_allowed: false
-    next_safe_slice: reconcile_sanitized_branch_when_execution_lane_resumes_then_preserve_green_human_gate_without_real_remote_data
+    next_safe_slice: synthetic_only_lane_parked_preserve_green_human_gate_without_real_remote_data
   content_recovery:
     status: active
     policy: orchestration/RSE_CONTENT_SOURCE_POLICY.md
