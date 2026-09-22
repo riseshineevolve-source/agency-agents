@@ -48,8 +48,8 @@ At the start of the 2026-09-22 Brain sync, live GitHub reported Draft/Open PR #6
 That state was briefly superseded by a later `mergeable: false` observation after canonical `main` advanced.
 
 ### Polish Localization PR #6 current mergeability — resolved 2026-09-22
-Live GitHub now reports PR #6 Draft/Open and `mergeable: true` again at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Polish Localization Regression #31 plus the associated branch consistency/validation checks are green.
-Current truth: the branch-divergence blocker is CLOSED at this checkpoint. Do not merge or start full Detective translation merely because mergeability is green; explicit owner English-source freeze remains the production gate.
+Live GitHub previously returned PR #6 Draft/Open and `mergeable: true` again at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Polish Localization Regression #31 plus the associated branch consistency/validation checks were green.
+Historical truth: the branch-divergence blocker was closed at that checkpoint. A later central-main advance has superseded this mergeability state; see the open entry below.
 
 ### Senior Phase 14H fresh Android/device verification — resolved 2026-09-22
 The earlier repair-loop state at `6cb2c3e...` is superseded. PR #77 is Draft/Open/Mergeable at checkpoint head `7df593bac70d76653d83bc550f6e3052835ba478`; the tested implementation head is `9a848250bc8dc64d7170115de89f0aa683ff2e8c`.
@@ -63,7 +63,7 @@ Current truth: conflict CLOSED.
 
 ### Marketing handoff commercial-priority drift
 The durable Marketing Autopilot spec/checkpoint temporarily omitted Detective PL from the canonical #2 position and carried an older Detective product checkpoint.
-Reconciled on 2026-09-22: the Marketing recovery entrypoint and execution checkpoint follow the canonical Q4 stack and recognize Detective PR #571 head `e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87` as owner-review correction pass, not yet English-source frozen.
+Reconciled on 2026-09-22: the Marketing recovery entrypoint and execution checkpoint follow the canonical Q4 stack. Current product repository state overrides historical Detective heads recorded in earlier reconciliation snapshots.
 Current truth: central commercial stack + current product repo + refreshed Marketing handoff win.
 
 ### Opinie PR #18 mergeability — resolved 2026-09-22
@@ -72,6 +72,10 @@ Live GitHub now reports PR #18 Draft/Open and `mergeable: true` at the same head
 Current truth: the branch-conflict blocker is CLOSED at this checkpoint. No merge or remote real-data action is implied; dedicated-repo migration remains pending because the target repo does not yet exist.
 
 ## Open / requires future reconciliation
+
+### Polish Localization PR #6 current merge conflict — 2026-09-22
+After the latest canonical Brain/Marketing continuity updates advanced `agency-agents/main`, live GitHub reports PR #6 Draft/Open and `mergeable: false` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Localization Regression #31 remains the last recorded green branch regression evidence.
+Current handling: record the conflict but do not destructively rebase, merge, or start full-book Detective Polish work. The branch can be reconciled in its authorized execution lane when useful; explicit English-source freeze remains the separate production gate.
 
 ### Brand positioning phrases
 Both:
