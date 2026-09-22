@@ -62,28 +62,26 @@ Do not wait for Google Play/DUNS to monetize KDP-ready products.
 
 ## Current Detective truth
 
-Engineering is at the owner visual/source-freeze gate:
+The English interior is in a bounded V3.1 correction/verification pass, not at source freeze:
 - PR #571 is Draft / Open / Mergeable
-- remote head `e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87`
-- 141-page English owner-review correction pass
-- 141 print-scale previews
-- ALL-15 spatial owner-review spreads 15/15 PASS
-- canonical 30-mission integration PASS
-- KDP preflight PASS
-- Build #96 PASS
-- SEO #557 PASS
+- remote head `a6672269867cc27996fea3e9c12de1e3660a25ad`
+- V3 baseline is the exact 145-page owner-review artifact audited at `d95847fe...`
+- V3.1 correction source is implemented in `tools/detective-book-factory/scripts/build_owner_review_v31.py`
+- correction scope is locked to the independent-audit findings: spatial-map clearance, certificate copy, Hint/Solution onboarding, team/recruit wording, Act I dossier badge, and concrete visual-evidence treatment for Cases 03/08/11/16/24
+- Build Detective Academy PDF #98 PASS and SEO Validation #561 PASS at the current head
+- those CI runs verify the branch/build surface, but they do **not** constitute the required complete V3.1 PDF/page/physical-proof gate
 - English source is **NOT FROZEN**
 
-The current interior may be used only as an owner-review candidate. It must not be represented as the frozen English master until the owner explicitly approves the visual result and freezes the source.
+Before any freeze, product execution must render the complete V3.1 PDF, run production preflight/machine audit, inspect every page with focused audit of the corrected surfaces, reconfirm 30/30 logic and all 15 spatial unique solutions, create print-scale previews/contact sheets, and complete the representative physical proof. Marketing must not describe V3.1 as a final/frozen interior before those gates and explicit owner approval.
 
-Remaining owner gates:
-- final visual approval / explicit English source freeze
-- final cover
-- physical proof
+Remaining owner-controlled gates:
+- final visual approval after V3.1 verification / representative 100% test print
+- final cover / physical proof
+- explicit English source freeze
 - pricing
-- KDP upload/publication
+- KDP upload / publication
 
-Marketing must remain launch-ready without delaying release, but it must not pull Polish full-book production forward across the English freeze gate.
+Polish full-book production begins only after explicit English-source freeze. Canva remains a finishing layer only; repeated layouts, hints, solutions and print output stay code-driven.
 
 ## Detective positioning lock
 
