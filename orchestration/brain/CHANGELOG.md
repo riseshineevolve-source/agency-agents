@@ -308,3 +308,14 @@ Independent visual/UX audit found P0 corrections before English freeze:
 6. promised visual evidence remains insufficiently visual in Cases 03, 08, 11, 16 and 24.
 
 Decision: do NOT freeze English yet. Next safe slice is a bounded V3.1 correction pass, followed by independent full-PDF review and physical proof. Avoid another broad narrative rewrite.
+
+
+## 2026-09-22 — Detective V4 reconciled push
+
+Verified on live GitHub PR #571:
+- V4 local commit `4fed512` was cleanly rebased as `9a37134dc4e35dd6bf3df881eb99dc69eb8716d7`;
+- branch `feature/detective-book-factory` is synchronized to origin at the same SHA;
+- PR #571 remains open, Draft and mergeable;
+- no untracked files were added, staged, deleted or committed; `main` was not touched.
+
+Next execution remains bounded V4.1 final premium polish. English is NOT frozen. Before final V4.1 owner build, external visual assets for Case 03 comparison and the Book 2 archival hook must be finalized/integrated.
