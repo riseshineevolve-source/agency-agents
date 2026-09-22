@@ -60,7 +60,7 @@ The current owner-review correction pass:
 - rebuilds all spatial paired spreads,
 - passes production preflight,
 - passes Witness Board + Live Case Map checks 15/15,
-- passes Build Detective Academy PDF #94.
+- passes Build Detective Academy PDF #96 and SEO Validation #557 on the current head.
 
 Status is **OWNER REVIEW REQUIRED — NOT FROZEN**. No technical release blocker is recorded, but owner visual approval is required before English source freeze and before Polish full-book localization. Cover/proof, pricing and KDP publication remain separate owner gates.
 
