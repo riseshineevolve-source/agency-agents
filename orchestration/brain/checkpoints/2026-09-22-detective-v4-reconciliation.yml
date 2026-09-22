@@ -1,0 +1,80 @@
+date: 2026-09-22
+status: PARTIAL_BLOCKED_ON_SOURCE_PROVENANCE
+scope: detective_academy_v4_artifact_reconciliation
+authority:
+  resume_protocol: orchestration/RESUME_FROM_ZERO.md
+  source_precedence: current_repository_state_over_current_library_artifact
+  canonical_priority: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
+
+canonical_repository_state:
+  repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+  branch: feature/detective-book-factory
+  pr: 571
+  pr_state: draft_open
+  head: a6672269867cc27996fea3e9c12de1e3660a25ad
+  durable_source_generation: V3.1_bounded_correction_source
+  english_source_frozen: false
+  commits_after_2026_09_22T14_00_00Z: 0
+  note: target_repository_has_no_commit_that_durably_explains_the_later_V4_library_artifact
+
+newer_library_evidence:
+  packet:
+    name: HMDA_Book1_EN_OwnerReview_v4_packet.zip
+    created_at_utc: 2026-09-22T14:24:38Z
+    size_bytes: 84389291
+    raw_byte_materialization: unavailable_in_current_execution_environment
+  independent_audit:
+    name: Detective_Academy_V4_Full_Independent_Audit.md
+    created_at_utc: 2026-09-22T15:17:39Z
+  rendered_pdf:
+    name: HMDA_Book1_EN_OwnerReview_v4.pdf
+    created_at_utc: 2026-09-22T15:17:44Z
+    pages: 145
+    sha256: 1b2b908763e76b42321035fb1faf91056bd2a8a1301ea0a2f84944c91287e1cb
+    independent_verdict: MAJOR_UPGRADE_NOT_YET_FREEZE_READY
+
+v4_audit_protected_passes:
+  - detective_six_premise
+  - case_01_continuity
+  - happy_makers_character_voice_content
+  - verified_30_case_logic
+  - all_15_spatial_facing_spreads
+  - map_readability_and_rules_before_grid
+  - naming_B_and_numeric_witness_transfer
+  - hint_vault_architecture
+  - room_zero_causal_logic
+  - check_the_old_map_meta_mechanic
+  - book_2_story_concept
+
+v4_audit_p0_remaining:
+  - remove_reader_facing_production_and_proof_copy
+  - replace_11_cloned_parity_filler_pages_without_breaking_facing_spreads
+  - replace_page_109_book_2_placeholder_art_and_presentation
+  - upgrade_case_03_evidence_photos_without_logic_change
+  - unify_single_detective_ID_call_sign_terminology
+  - make_case_wall_physically_usable
+
+reconciliation_decision:
+  promote_v4_pdf_to_canonical_source: false
+  freeze_english: false
+  start_polish_detective: false
+  broad_story_rewrite: false
+  implement_v41_against_unprovenanced_artifact: false
+  reason: V4_render_and_audit_are_newer_evidence_but_their_generator_source_provenance_is_not_durable_in_the_target_repo
+
+next_safe_lane:
+  - recover_V4_builder_source_or_packet_manifest_provenance_without_rewriting_product_logic
+  - once_provenance_is_durable_reconcile_exact_delta_onto_PR_571
+  - execute_only_bounded_V4.1_final_premium_polish_from_independent_audit
+  - rerender_all_145_pages_and_run_full_independent_review
+  - representative_physical_proof
+  - owner_visual_approval
+  - separate_explicit_owner_english_freeze_only_after_approval
+
+owner_action_required_now: false
+owner_gate_after_technical_reconciliation:
+  - representative_physical_proof_and_visual_approval
+  - explicit_english_source_freeze
+  - final_cover
+  - pricing
+  - KDP_upload_publication
