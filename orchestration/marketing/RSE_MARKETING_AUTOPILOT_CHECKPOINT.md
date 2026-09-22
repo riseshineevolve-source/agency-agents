@@ -49,22 +49,21 @@ This is an execution-efficiency decision, not a change to product positioning.
 
 ## Detective product dependency
 
-Live PR #571 is Draft/Open/Mergeable at head `e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87`.
+Live PR #571 is Draft/Open/Mergeable at head `a6672269867cc27996fea3e9c12de1e3660a25ad`.
 
-The current owner-review correction pass:
-- keeps the 141-page English interior,
-- removes repeating footer micro-brand text,
-- removes the duplicate early Detective Name field,
-- improves Witness Board hierarchy/contrast,
-- applies the white-map print treatment,
-- rebuilds all spatial paired spreads,
-- passes production preflight,
-- passes Witness Board + Live Case Map checks 15/15,
-- passes Build Detective Academy PDF #96 and SEO Validation #557 on the current head.
+Current product truth:
+- the exact V3 baseline is the 145-page owner-review artifact audited at `d95847fe...`;
+- the independent V3 audit found correction work before freeze;
+- bounded V3.1 correction source is now implemented without reopening puzzle logic, geometry, naming, five-act narrative or Room Zero mechanics;
+- implemented correction families cover spatial-map clearance, certificate wording, Hint/Solution onboarding, team/recruit wording, Act I dossier treatment and concrete visual evidence for Cases 03/08/11/16/24;
+- Build Detective Academy PDF #98 and SEO Validation #561 are green at the current head;
+- the build workflow currently validates/compiles the V3.1 builder but does not by itself satisfy the required full V3.1 render/page/physical-proof gate.
 
-Status is **OWNER REVIEW REQUIRED — NOT FROZEN**. No technical release blocker is recorded, but owner visual approval is required before English source freeze and before Polish full-book localization. Cover/proof, pricing and KDP publication remain separate owner gates.
+Status is **V3.1 CORRECTION SOURCE IMPLEMENTED — VERIFICATION PENDING — ENGLISH NOT FROZEN**.
 
-Marketing may prepare from already approved product truth/assets, but must not present the corrected English interior as owner-frozen before that review.
+Before source freeze, product execution still must render the complete V3.1 PDF, run production preflight/machine audit, inspect the corrected artifact page by page, reconfirm 30/30 logic plus all 15 uniquely solvable spatial cases, create print-scale previews/contact sheets, and complete representative physical proof. Owner visual approval and explicit English source freeze remain separate gates.
+
+Marketing may continue preparing from already approved positioning and assets, but must not present V3.1 as the final/frozen English interior and must not pull full-book Polish production forward.
 
 ## Next marketing gate
 
