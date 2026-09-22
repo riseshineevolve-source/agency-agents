@@ -53,9 +53,12 @@ Resolved design gate:
 - do not reopen maps, Witness Boards, naming, clues or story architecture unless owner review identifies a concrete defect.
 
 Current English source gate:
-- owner-review V2 is engineering/preflight PASS, but English remains **NOT FROZEN**,
-- explicit owner visual approval / representative 100% test print remains the release-quality gate,
-- the English source may be frozen only by an explicit owner decision,
+- the exact 145-page V3 owner-review baseline at `d95847fe778850bd80c3a160185536677f04c580` passed production preflight/machine/logic checks, but independent owner-level review found bounded defects and it is **NOT freeze-ready**,
+- the bounded V3.1 correction source is implemented at `a6672269867cc27996fea3e9c12de1e3660a25ad`; English remains **NOT FROZEN**,
+- Build #98 being green does **not** constitute full V3.1 artifact verification: the current workflow compiles the V3.1 builder but builds the generic editorial preview rather than executing the complete V3.1 owner-review render,
+- before physical proof, V3.1 still requires a complete render from canonical master/runtime/maps, production preflight + machine audit, 30/30 logic confirmation, 15/15 spatial uniqueness confirmation, complete/focused page review and print-scale preview coverage,
+- representative physical proof and owner visual approval remain required after those machine/full-PDF gates,
+- the English source may be frozen only by a separate explicit owner decision,
 - cover work is independent of the English interior/source freeze.
 
 Remaining release owner gates:
