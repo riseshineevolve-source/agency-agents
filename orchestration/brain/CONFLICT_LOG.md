@@ -43,9 +43,9 @@ Current truth: `brain/RSE_BRAIN_MASTER.md`, `brain/DECISION_LEDGER.md`, current 
 PR `riseshineevolve-source/agency-agents#6` previously had a merge conflict after the central Brain rebuild, then temporarily returned to `mergeable: true` at head `57cf5500004635d8ec30b3c5d581b779fb79f539` with Polish Localization Regression #21 PASS.
 Historical truth: that earlier blocker was closed at that checkpoint.
 
-### Polish Localization PR #6 later branch divergence — resolved 2026-09-22
-The later divergence recorded at head `704a3e2a3da580678be48557e84964e631b41f01` is no longer current. Live GitHub now reports Draft/Open PR #6 as `mergeable: true` at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Polish Localization Regression #31 and the current auxiliary checks are green.
-Current truth: the branch-conflict blocker is CLOSED. Do not merge merely because the branch is mergeable, and do not start full Detective Polish production. The actual owner gate is unchanged: the final English interior/source must be explicitly frozen by the owner first.
+### Polish Localization PR #6 transient mergeability checkpoint
+At the start of the 2026-09-22 Brain sync, live GitHub reported Draft/Open PR #6 as `mergeable: true` at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`, with Polish Localization Regression #31 and auxiliary checks green.
+That mergeability state was transient and is superseded by the current open conflict recorded below after canonical `main` advanced during the same Brain checkpoint cycle.
 
 ### Senior Phase 14H fresh Android/device verification — resolved 2026-09-22
 The earlier repair-loop state at `6cb2c3e...` is superseded. PR #77 is Draft/Open/Mergeable at checkpoint head `7df593bac70d76653d83bc550f6e3052835ba478`; the tested implementation head is `9a848250bc8dc64d7170115de89f0aa683ff2e8c`.
@@ -59,10 +59,14 @@ Current truth: conflict CLOSED.
 
 ### Marketing handoff commercial-priority drift
 The durable Marketing Autopilot spec/checkpoint temporarily omitted Detective PL from the canonical #2 position and carried an older Detective product checkpoint.
-Reconciled on 2026-09-21: the Marketing execution spec and handoff follow the canonical Q4 stack and recognize Detective as owner-review correction pass, not yet English-source frozen.
+Reconciled on 2026-09-22: the Marketing recovery entrypoint and execution checkpoint follow the canonical Q4 stack and recognize Detective PR #571 head `e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87` as owner-review correction pass, not yet English-source frozen.
 Current truth: central commercial stack + current product repo + refreshed Marketing handoff win.
 
 ## Open / requires future reconciliation
+
+### Polish Localization PR #6 current branch divergence
+PR `riseshineevolve-source/agency-agents#6` remains Draft/Open at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Its localization CI is green, including Polish Localization Regression #31, but after canonical `main` advanced during the 2026-09-22 Brain checkpoint cycle, live GitHub reports `mergeable: false`.
+Current handling: do not merge, force-rebase or start full-book translation during Brain sync. Reconcile the sanitized branch only in its execution lane. The owner gate is unchanged: the final English Detective interior/source must be explicitly frozen before any full Polish production run.
 
 ### Opinie PR #18 branch conflict
 Synthetic-only Opinie staging PR `riseshineevolve-source/riseshineevolve#18` is still Draft/Open but live GitHub currently reports `mergeable: false` at head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`.
