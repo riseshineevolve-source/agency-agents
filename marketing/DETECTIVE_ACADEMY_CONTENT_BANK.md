@@ -214,3 +214,41 @@ Modernization rule:
 - keep the result cinematic, polished, current and suitable for a premium bestselling kids mystery brand.
 
 These references are approved as marketing visual source material, but every final asset still passes the existing Brand/QA gate.
+
+
+## FIRST SALES CREATIVE — 10S MASTER — 2026-09-22
+
+Execution priority: produce this before more experimental AI video.
+
+Format:
+- 10-second vertical Reel/Short/ad master
+- simple motion on approved stills, not complex character generation
+- one adult narrator
+- modern premium Academy aesthetic
+- adult/parent-facing when used as paid creative
+
+Core VO:
+"Thirty cases. One hidden mystery. The book itself is evidence. Your child becomes the missing detective."
+
+On-screen hierarchy:
+1. 30 CASES. ONE HIDDEN MYSTERY.
+2. THE BOOK ITSELF IS THE EVIDENCE.
+3. YOU'RE THE MISSING DETECTIVE.
+
+Suggested source visuals from owner-supplied approved direction:
+- modern glass/black-and-white Detective Academy group scene,
+- close detective/magnifier scene,
+- final cover / Academy exterior hero.
+
+Pre-launch CTA:
+FOLLOW THE EVIDENCE. / THE NEXT CASE IS COMING.
+
+Live-listing CTA:
+JOIN THE ACADEMY. / VIEW ON AMAZON.
+Use only after verified listing URL exists.
+
+Do not use:
+- old-school detective-office styling,
+- fake reviews/proof,
+- unsupported screen-time claims,
+- complex generated character animation as a dependency.
