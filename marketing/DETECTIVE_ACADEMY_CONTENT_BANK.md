@@ -252,3 +252,28 @@ Do not use:
 - fake reviews/proof,
 - unsupported screen-time claims,
 - complex generated character animation as a dependency.
+
+
+## DETECTIVE AD 01 — KDP LIVE 10S
+
+Use only once the KDP listing is live and verified.
+
+Selected owner-supplied source files:
+1. `ChatGPT Image 21 wrz 2026, 16_24_11(1).png` — hero/cover exterior with full Academy title.
+2. `ChatGPT Image 21 wrz 2026, 16_03_34(1).png` — child detective close-up with magnifier.
+3. `Happy Makers detectives.png.png` — modern black-and-white Academy group scene.
+
+10s structure:
+- 0.0-3.0s: hero cover/exterior; slow push-in; text: `30 CASES. ONE HIDDEN MYSTERY.`
+- 3.0-6.5s: child close-up; subtle magnifier/parallax motion; text: `THE BOOK ITSELF IS THE EVIDENCE.`
+- 6.5-10.0s: modern group scene; gentle push-in; text: `YOU'RE THE MISSING DETECTIVE.`
+- final CTA overlay during last 1.5-2s: `JOIN THE ACADEMY — VIEW ON AMAZON`
+
+Voice-over:
+`Thirty cases. One hidden mystery. The book itself is evidence. Your child becomes the missing detective.`
+
+Narrator:
+adult female, premium / intriguing / confident, natural not theatrical; approx. 1.2-1.3 speed.
+
+Production:
+animate stills with simple controlled motion; no complex generative character animation required. Replace the hero file only if the final published KDP cover differs from the current reference.
