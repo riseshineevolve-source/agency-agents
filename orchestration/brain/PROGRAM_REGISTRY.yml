@@ -187,33 +187,37 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: owner_review_v2_pass_owner_visual_gate
+    status: owner_review_v3_independent_audit_corrections_required
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
-    current_head: e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87
+    current_head: d95847fe778850bd80c3a160185536677f04c580
     locked_modules: 15
     local_all15_pass: true
     local_all15_count: 15_of_15
     local_hardening_commit: d5e1507
     local_hardening_push_status: pushed_reconciled_remote_pass
-    latest_build_ci_run: 96
+    latest_build_ci_run: 97
     latest_build_ci_conclusion: PASS
     all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
     final_english_interior: OWNER_REVIEW_CORRECTION_PASS_NOT_FROZEN
-    final_english_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_OwnerReview.pdf
-    final_page_count: 141
+    final_english_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_OwnerReview_v3.pdf
+    final_page_count: 145
+    v3_pdf_sha256: 994db4ec8b2bc4f95e351b40646add51e55bc71b29379217be15b1752a6d6eb8
+    independent_v3_audit: NOT_FREEZE_READY
+    v3_p0_map_overlap_pages: [15,27,39,49,55,63,69,73,81,85,103]
+    v3_p0_visual_evidence_cases: [3,8,11,16,24]
     kdp_preflight: PASS
-    print_scale_previews: 141
+    print_scale_previews: 145
     spatial_owner_review_spreads: 15_of_15_PASS
-    latest_verified_build_run: 96
+    latest_verified_build_run: 97
     latest_verified_build_conclusion: success
-    latest_verified_seo_run: 557
+    latest_verified_seo_run: 559
     latest_verified_seo_conclusion: success
     english_source_frozen: false
-    next_execution_mode: owner_visual_review_then_explicit_english_freeze
+    next_execution_mode: targeted_v3_1_correction_pass_then_independent_review_then_physical_proof
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
-    final_interior_blocker: owner_visual_approval_only
+    final_interior_blocker: v3_independent_audit_p0_corrections_plus_owner_visual_and_physical_proof
     hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
     local_dirty_worktree_protection: true
     source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
