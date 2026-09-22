@@ -1,0 +1,133 @@
+date: 2026-09-22
+status: PASS
+scope: wave_1_daily_autopilot_live_reconciliation
+authority:
+  resume_protocol: orchestration/RESUME_FROM_ZERO.md
+  canonical_priority: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
+  rule: current_repository_state_overrides_stale_chat_or_mirror_fields
+
+portfolio_boundaries:
+  wave_2: HOLD
+  gifts: HOLD
+  senior_hello_today_execution: central
+  mind_bloom_execution: central_frozen_private_v1
+  marketing_execution: dedicated_chat_central_sync_only
+  opinie_real_data_remote_allowed: false
+
+repository_bootstrap_watch:
+  optical_animals_target_repo:
+    repo: riseshineevolve-source/optical-animals-book-creator
+    exists: false
+    registry_state: pending_creation
+    action: no_bootstrap_possible
+  opinie_target_repo:
+    repo: riseshineevolve-source/opinie-offline-workbench
+    exists: false
+    registry_state: pending_creation
+    action: no_bootstrap_possible
+
+detective_academy:
+  priority: 1
+  pr: 571
+  branch: feature/detective-book-factory
+  head: e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87
+  pr_state: draft_open_mergeable
+  build_run: 96
+  build_conclusion: success
+  seo_run: 557
+  seo_conclusion: success
+  interior_pages: 141
+  kdp_preflight: PASS
+  engineering_status: OWNER_REVIEW_V2_PASS
+  english_source_frozen: false
+  owner_gates:
+    - visual_approval_or_representative_100_percent_test_print
+    - final_cover_and_physical_proof
+    - explicit_english_source_freeze
+    - pricing
+    - kdp_upload_publication
+  metadata_repair: pr_body_reconciled_to_current_release_state
+
+polish_detective:
+  priority: 2
+  repo: riseshineevolve-source/agency-agents
+  pr: 6
+  head: f9d938611661f74108bdafa1df6ac8de1aaa27f1
+  pr_state: draft_open_mergeable
+  localization_regression_run: 31
+  localization_regression_conclusion: success
+  branch_divergence_blocker: CLOSED_AT_THIS_CHECKPOINT
+  full_book_translation_authorized: false
+  blocking_gate: explicit_owner_english_source_freeze
+
+gentle_steps_christmas:
+  priority: 3
+  week_1_text_source_qa: PASS
+  source_master: connected_library_private_master
+  published_pdf_pages: 104
+  remaining_gate: four_longest_polish_headings_real_template_fit
+  current_tool_attempt:
+    library_pdf_found: true
+    raw_byte_or_editable_template_materialization: unavailable
+    proxy_fit_allowed_as_pass: false
+  status: BLOCKED_ON_REAL_TEMPLATE_SURFACE_NOT_ON_TRANSLATION_LOGIC
+
+optical_animals:
+  priority: 4
+  staging_repo: riseshineevolve-source/riseshineevolve
+  pr: 14
+  head: a4701af82ca8b63e7d78aeb84f0b7ef76cca337d
+  pr_state: draft_open_mergeable
+  quality_run: 16
+  quality_conclusion: success
+  approved_visuals: 12
+  unresolved_visuals: 8
+  dedicated_repo_exists: false
+  action: no_bootstrap_no_art_promotion_no_factory_refactor
+
+senior_hello_today:
+  pr: 77
+  head: 7df593bac70d76653d83bc550f6e3052835ba478
+  pr_state: draft_open_mergeable
+  repository_side_state: green
+  production_child_mode: OFF
+  next_action: wait_for_external_legal_device_owner_gates_unless_new_reproducible_source_blocker
+
+mind_bloom:
+  pr: 2
+  head: bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13
+  pr_state: draft_open_mergeable
+  ci_run: 81
+  ci_conclusion: success
+  private_v1_source_release_candidate: PASS
+  feature_development_frozen: true
+  local_phase2a_worktree_boundary: preserve_before_any_pull_reset_rebase_checkout
+  phase_2b_provider_implementation_authorized: false
+  metadata_repair: pr_body_reconciled_to_current_frozen_state_and_ci
+
+opinie:
+  staging_repo: riseshineevolve-source/riseshineevolve
+  pr: 18
+  head: b973797697516ec7bbbea6f2d42fbc7381d3a1b8
+  pr_state: draft_open_mergeable
+  synthetic_ci_run: 63
+  synthetic_ci_conclusion: success
+  earlier_branch_conflict: CLOSED_AT_THIS_CHECKPOINT
+  dedicated_repo_exists: false
+  production_runtime: local_offline
+  remote_real_case_data_allowed: false
+  action: no_bootstrap_no_real_data_remote
+
+durable_repairs_completed:
+  - wave1_autopilot_queue_reconciled_to_canonical_commercial_priority_stack
+  - stale_polish_pr_mergeability_conflict_closed_from_live_github
+  - stale_opinie_pr_mergeability_conflict_closed_from_live_github
+  - detective_pr_body_reconciled_to_owner_review_v2_release_state
+  - mind_bloom_pr_body_reconciled_to_private_v1_frozen_ci81_state
+
+next_safe_selection_rule:
+  - do_not_reopen_detective_engineering_without_concrete_owner_review_defect
+  - do_not_start_detective_pl_before_explicit_english_freeze
+  - resume_gentle_steps_only_when_real_editable_or_renderable_template_surface_is_available
+  - do_not_create_speculative_optical_or_consumer_platform_work_behind_owner_gates
+  - preserve_frozen_mind_bloom_and_external_gated_senior_happy_me_lanes
