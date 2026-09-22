@@ -288,3 +288,23 @@ Owner-reported Codex result on PR #14 / `feat/optical-animals-book-creator`:
 - 44 tests PASS, Volume 01 regression PASS, synthetic Volume 02 proof PASS;
 - current remaining work is owner-gated artwork/token/print-resolution/final-lock work, not further factory architecture.
 - Do not schedule additional speculative Optical Factory refactors before owner art decisions.
+
+
+## 2026-09-22 — Detective Academy V3 independent audit: major upgrade, not freeze-ready
+
+Owner supplied the exact V3 review packet from local Codex output. Independent verification confirmed:
+- branch/head: `feature/detective-book-factory` @ `d95847fe778850bd80c3a160185536677f04c580`;
+- exact PDF: 145 Letter pages, SHA-256 `994db4ec8b2bc4f95e351b40646add51e55bc71b29379217be15b1752a6d6eb8`;
+- Build Detective Academy PDF #97 PASS and SEO Validation #559 PASS;
+- all 15 Witness Board/map facing pairs now paginate correctly;
+- progressive 3-level Hint Vault, numeric witness IDs, stronger story/humor/Room Zero causal arc and 30/30 logic ledger are materially improved.
+
+Independent visual/UX audit found P0 corrections before English freeze:
+1. map-rule/coordinate overlap on puzzle pages 15, 27, 39, 49, 55, 63, 69, 73, 81, 85, 103;
+2. page 108 still contains rejected “certificate committee” copy;
+3. Hint/Solution onboarding can be misread and does not explain solution use clearly enough;
+4. opening still needs explicit five field detectives + Bibi mentor + sixth recruit clarification;
+5. page 7 floating-circle act marker remains weak/placeholder-like;
+6. promised visual evidence remains insufficiently visual in Cases 03, 08, 11, 16 and 24.
+
+Decision: do NOT freeze English yet. Next safe slice is a bounded V3.1 correction pass, followed by independent full-PDF review and physical proof. Avoid another broad narrative rewrite.
