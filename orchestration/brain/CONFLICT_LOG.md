@@ -45,7 +45,11 @@ Historical truth: that earlier blocker was closed at that checkpoint.
 
 ### Polish Localization PR #6 transient mergeability checkpoint
 At the start of the 2026-09-22 Brain sync, live GitHub reported Draft/Open PR #6 as `mergeable: true` at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`, with Polish Localization Regression #31 and auxiliary checks green.
-That mergeability state was transient and is superseded by the current open conflict recorded below after canonical `main` advanced during the same Brain checkpoint cycle.
+That state was briefly superseded by a later `mergeable: false` observation after canonical `main` advanced.
+
+### Polish Localization PR #6 current mergeability — resolved 2026-09-22
+Live GitHub now reports PR #6 Draft/Open and `mergeable: true` again at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Polish Localization Regression #31 plus the associated branch consistency/validation checks are green.
+Current truth: the branch-divergence blocker is CLOSED at this checkpoint. Do not merge or start full Detective translation merely because mergeability is green; explicit owner English-source freeze remains the production gate.
 
 ### Senior Phase 14H fresh Android/device verification — resolved 2026-09-22
 The earlier repair-loop state at `6cb2c3e...` is superseded. PR #77 is Draft/Open/Mergeable at checkpoint head `7df593bac70d76653d83bc550f6e3052835ba478`; the tested implementation head is `9a848250bc8dc64d7170115de89f0aa683ff2e8c`.
@@ -62,15 +66,12 @@ The durable Marketing Autopilot spec/checkpoint temporarily omitted Detective PL
 Reconciled on 2026-09-22: the Marketing recovery entrypoint and execution checkpoint follow the canonical Q4 stack and recognize Detective PR #571 head `e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87` as owner-review correction pass, not yet English-source frozen.
 Current truth: central commercial stack + current product repo + refreshed Marketing handoff win.
 
+### Opinie PR #18 mergeability — resolved 2026-09-22
+An earlier live observation recorded synthetic-only Opinie staging PR `riseshineevolve-source/riseshineevolve#18` as `mergeable: false` at head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`.
+Live GitHub now reports PR #18 Draft/Open and `mergeable: true` at the same head; synthetic workflow `Opinie synthetic offline seed` #63 remains SUCCESS.
+Current truth: the branch-conflict blocker is CLOSED at this checkpoint. No merge or remote real-data action is implied; dedicated-repo migration remains pending because the target repo does not yet exist.
+
 ## Open / requires future reconciliation
-
-### Polish Localization PR #6 current branch divergence
-PR `riseshineevolve-source/agency-agents#6` remains Draft/Open at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Its localization CI is green, including Polish Localization Regression #31, but after canonical `main` advanced during the 2026-09-22 Brain checkpoint cycle, live GitHub reports `mergeable: false`.
-Current handling: do not merge, force-rebase or start full-book translation during Brain sync. Reconcile the sanitized branch only in its execution lane. The owner gate is unchanged: the final English Detective interior/source must be explicitly frozen before any full Polish production run.
-
-### Opinie PR #18 branch conflict
-Synthetic-only Opinie staging PR `riseshineevolve-source/riseshineevolve#18` is still Draft/Open but live GitHub currently reports `mergeable: false` at head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`.
-Current handling: do not merge or force-reconcile during Brain sync. Keep all real case/archive data local/offline. Reconcile only the sanitized/synthetic branch when that execution lane resumes; no owner decision is required merely to record this conflict.
 
 ### Brand positioning phrases
 Both:
@@ -95,6 +96,10 @@ Current handling: repository decisions are durable; GSC/Bing/public-search measu
 ### Mind Bloom compact docs lag current remote checkpoint
 Some older central portfolio/integration prose still describes pre-transfer execution ownership or pre-2A-3 remote state.
 Current handling: current Mind Bloom repository/PR, `PROGRAM_REGISTRY.yml`, latest durable Mind Bloom handoff/checkpoints, and this conflict record override stale prose until the next full documentation compaction. Phase 2A-3 migration `20260921071341_add_integration_ingest_staging_v0` is present remotely; Phase 2B provider implementation remains owner-gated and feature development is frozen by default.
+
+### Gentle Steps real-template fit surface unavailable in current automation toolset
+The verified 104-page published PDF master is present in connected Library and Week 1 source/text QA is green. The remaining gate explicitly requires overflow/fit of four Polish headings on the real designed template, not a proxy. Current Library access exposes parsed PDF content but does not expose an authorized raw-byte/editable template materialization path for deterministic replacement-text rendering.
+Current handling: do not manufacture a PASS from text-length estimates. Resume this gate when the editable/renderable production template or an authorized raw-byte path is available.
 
 ### Missing/publication masters
 Content recovery queue may become stale as new Library/Drive files are recovered.
