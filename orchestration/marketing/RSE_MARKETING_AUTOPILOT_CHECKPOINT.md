@@ -1,6 +1,7 @@
 # RSE Marketing Autopilot Checkpoint — 2026-09-21
 
 Status: DURABLE BOOTSTRAP COMPLETE / DETECTIVE PRE-LAUNCH READY
+Last reconciled: 2026-09-22
 
 ## Milestone
 
@@ -48,7 +49,7 @@ This is an execution-efficiency decision, not a change to product positioning.
 
 ## Detective product dependency
 
-Live PR #571 is Draft/Open/Mergeable at head `71baf0cc164b69ada78e4ce615783b344a0b3371`.
+Live PR #571 is Draft/Open/Mergeable at head `e2bfc2cb51dc37f26a49d9ba77dcab24a257cb87`.
 
 The current owner-review correction pass:
 - keeps the 141-page English interior,
@@ -61,7 +62,7 @@ The current owner-review correction pass:
 - passes Witness Board + Live Case Map checks 15/15,
 - passes Build Detective Academy PDF #94.
 
-Status is **OWNER REVIEW REQUIRED — NOT FROZEN**. No technical release blocker is recorded, but owner visual approval is required before English source freeze, Polish full-book localization, cover/proof and KDP publication.
+Status is **OWNER REVIEW REQUIRED — NOT FROZEN**. No technical release blocker is recorded, but owner visual approval is required before English source freeze and before Polish full-book localization. Cover/proof, pricing and KDP publication remain separate owner gates.
 
 Marketing may prepare from already approved product truth/assets, but must not present the corrected English interior as owner-frozen before that review.
 
