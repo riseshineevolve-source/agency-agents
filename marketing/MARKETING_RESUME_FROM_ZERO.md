@@ -70,8 +70,8 @@ Engineering is at the owner visual/source-freeze gate:
 - ALL-15 spatial owner-review spreads 15/15 PASS
 - canonical 30-mission integration PASS
 - KDP preflight PASS
-- Build #94 PASS
-- SEO #551 PASS
+- Build #96 PASS
+- SEO #557 PASS
 - English source is **NOT FROZEN**
 
 The current interior may be used only as an owner-review candidate. It must not be represented as the frozen English master until the owner explicitly approves the visual result and freezes the source.
