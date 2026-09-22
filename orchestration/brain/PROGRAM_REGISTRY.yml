@@ -1,4 +1,4 @@
-version: 16
+version: 17
 updated: 2026-09-22
 brain_status: canonical
 global:
@@ -191,36 +191,38 @@ programs:
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
-    current_head: 9a37134dc4e35dd6bf3df881eb99dc69eb8716d7
+    current_head: 22e64f5d9ba56b57af6a183a37b8cf856e4a78a7
     locked_modules: 15
     local_all15_pass: true
     local_all15_count: 15_of_15
     local_hardening_commit: d5e1507
     local_hardening_push_status: pushed_reconciled_remote_pass
-    latest_build_ci_run: 98
+    latest_build_ci_run: 103
     latest_build_ci_conclusion: PASS
     all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
-    final_english_interior: V31_CORRECTION_SOURCE_IMPLEMENTED_NOT_FROZEN
-    final_english_pdf: tools/detective-book-factory/dist/HMDA_Book1_EN_OwnerReview_v3.pdf
+    final_english_interior: V4_1_BOUNDED_VISUAL_INTEGRATION_SOURCE_PRESENT_NOT_FROZEN
+    final_english_pdf: PENDING_COMPLETE_V4_1_OWNER_REVIEW_RENDER
     final_page_count: 145
     v3_pdf_sha256: 994db4ec8b2bc4f95e351b40646add51e55bc71b29379217be15b1752a6d6eb8
-    independent_v3_audit: NOT_FREEZE_READY
+    independent_v3_audit: HISTORICAL_BASELINE_SUPERSEDED_BY_V4_V4_1
     v3_p0_map_overlap_pages: [15,27,39,49,55,63,69,73,81,85,103]
     v3_p0_visual_evidence_cases: [3,8,11,16,24]
     v31_correction_doc: tools/detective-book-factory/docs/V31_CORRECTION_PASS.md
-    v31_correction_source_status: IMPLEMENTED_IN_SOURCE_ENGLISH_NOT_FROZEN
-    v31_full_pdf_verification: PENDING_COMPLETE_RENDER_MACHINE_AUDIT_PAGE_REVIEW_PRINT_SCALE_AND_PHYSICAL_PROOF
-    kdp_preflight: PASS_FOR_V3_BASELINE_REVERIFY_ON_V31_RENDER
+    v31_correction_source_status: SUPERSEDED_BY_V4_V4_1
+    v31_full_pdf_verification: SUPERSEDED_BY_V4_V4_1_PIPELINE
+    kdp_preflight: V4_TECHNICAL_GATES_GREEN_REVERIFY_COMPLETE_V4_1_RENDER
     print_scale_previews: 145
     spatial_owner_review_spreads: 15_of_15_PASS
-    latest_verified_build_run: 98
+    latest_verified_build_run: 103
     latest_verified_build_conclusion: success
-    latest_verified_seo_run: 561
+    latest_verified_seo_run: 571
     latest_verified_seo_conclusion: success
     english_source_frozen: false
-    next_execution_mode: finalize_external_visual_assets_then_run_v4_1_final_premium_pass_local_then_owner_audit
+    v4_1_source_state: BOUNDED_VISUAL_INTEGRATION_PRESENT_REMAINING_PREMIUM_POLISH_REQUIRED
+    v4_1_owner_gate_ready: false
+    next_execution_mode: complete_remaining_v4_1_premium_polish_then_render_full_v4_1_run_machine_and_visual_audit_then_physical_proof
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
-    final_interior_blocker: v31_full_artifact_verification_plus_owner_visual_and_physical_proof_before_explicit_source_freeze
+    final_interior_blocker: remaining_v4_1_premium_polish_plus_full_artifact_verification_physical_proof_and_owner_visual_approval_before_explicit_source_freeze
     hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
     local_dirty_worktree_protection: true
     source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
@@ -229,7 +231,7 @@ programs:
     kdp_positioning_lock: marketing/detective-academy-kdp-positioning.md
     commercial_priority_rank: 1
     visual_gate_decision: B_APPROVE_WITH_SMALL_FIXES
-    visual_gate_status: CLOSED_FOR_SPATIAL_STANDARD_OWNER_REVIEW_CORRECTION_PASS_STILL_REQUIRES_FINAL_VISUAL_APPROVAL
+    visual_gate_status: V4_1_FINAL_PREMIUM_POLISH_AND_FULL_ARTIFACT_VERIFICATION_REQUIRED_BEFORE_OWNER_FINAL_VISUAL_APPROVAL
     naming_direction: branded_academy_adventure
     mechanical_all15_design_gate_required: false
     owned_category: book_long_detective_adventure_reader_is_missing_detective
