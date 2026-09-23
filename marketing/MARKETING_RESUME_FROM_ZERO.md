@@ -1,7 +1,7 @@
 # RSE Marketing Autopilot — Resume From Zero
 
 Status: CANONICAL RECOVERY ENTRYPOINT
-Updated: 2026-09-22
+Updated: 2026-09-23
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
 
@@ -62,17 +62,28 @@ Do not wait for Google Play/DUNS to monetize KDP-ready products.
 
 ## Current Detective truth
 
-The English interior has advanced to the bounded V4.1 premium-polish workstream, but it is still not at source freeze:
+The English interior has advanced materially inside the bounded V4.1 finalization workstream, but it is still **NOT FROZEN**:
 - PR #571 is Draft / Open / Mergeable
-- remote head `22e64f5d9ba56b57af6a183a37b8cf856e4a78a7`
-- canonical V4 source remains protected; V4.1 is a bounded visual/premium-polish layer and must not reopen the locked 30-case logic, five-act story, Detective Six premise, Room Zero mechanism, Naming B, numeric witness IDs or verified spatial geometry
-- deterministic V4.1 visual generation/integration is present for the Case 03 comparison surface and Book 2 archival hook
-- Build Detective Academy PDF #103 PASS and SEO Validation #571 PASS at the current head
-- English source is **NOT FROZEN**
+- current remote head `3addc38cb2db422fa0d3d6472b067530217ce9e4`
+- canonical story/logic/spatial geometry remains protected; the V4.1 layer must not reopen the locked 30-case logic, five-act story, Detective Six premise, Room Zero mechanism, Naming B, numeric witness IDs or verified Shigai geometry
+- the deterministic V4.1 finalizer, print-typography QA and fail-closed 145-page final-artifact audit are present in source
+- Build Detective Academy PDF #136 PASS and SEO Validation #637 PASS on the current head
+- authoritative native checkpoint: `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json`
+- the real 145-page V4.1 owner-review artifact is currently blocked on materializable canonical Shigai/runtime/final-map inputs in the current automation environment; required derived runtime/final-map rasters are not present on the branch
+- **never reconstruct or approximate verified Shigai geometry from truncated/minified source merely to unblock marketing timing**
+- English source remains **NOT FROZEN**
 
-The next safe product sequence is to complete only the remaining V4.1 premium-polish scope, then render the complete V4.1 owner-review PDF, run machine/preflight plus independent full-PDF visual audit, and complete representative physical proof. Marketing must not describe V4.1 as final/frozen before those gates and explicit owner approval.
+The next safe product sequence is: resolve canonical materializable inputs -> complete the real 145-page V4.1 render + fail-closed artifact audit -> repair only concrete presentation defects -> independent full-PDF visual review -> representative physical proof. Marketing must not describe the interior as final/frozen or announce a publication-ready date before those gates and explicit owner approval.
 
-Remaining owner-controlled gates after full V4.1 artifact verification:
+The earlier ALL-15 map-system design gate remains closed, but two newly introduced bounded visuals are separate owner gates:
+- **Case 03 exact 10-difference visual** — final candidate must be explicitly selected/approved by the owner
+- **Book 2 archival-hook visual** — final candidate must be explicitly selected/approved by the owner
+
+Exploratory candidates for those two slots must not be silently selected, committed, promoted or used as final marketing assets before an owner-locked manifest/hash exists.
+
+Remaining owner-controlled gates:
+- Case 03 exact 10-difference visual approval
+- Book 2 archival-hook visual approval
 - final visual approval / representative physical proof
 - final cover / physical proof
 - explicit English source freeze
@@ -224,6 +235,8 @@ Owner approval required for:
 - paid activation / new budget / budget increase
 - pricing
 - discount / promotion
+- Case 03 exact 10-difference visual final selection
+- Book 2 archival-hook visual final selection
 - final Detective English interior visual approval / source freeze
 - final cover
 - KDP publication
@@ -261,4 +274,4 @@ No content becomes a winner merely because it sounds good.
 
 Paste into a new dedicated Marketing chat:
 
-**Take over RSE Marketing Autopilot. Start from `marketing/MARKETING_RESUME_FROM_ZERO.md` in `riseshineevolve-source/agency-agents`. GitHub overrides old chat memory. Reconstruct the current marketing state from the listed durable files and live-verify connectors before use. Continue the highest-value safe marketing task, currently launch-readiness for Detective Academy and the first owner-review restart batch. Do not duplicate Central RSE Orchestrator work and do not cross paid/publication/pricing/source-freeze owner gates.**
+**Take over RSE Marketing Autopilot. Start from `marketing/MARKETING_RESUME_FROM_ZERO.md` in `riseshineevolve-source/agency-agents`. GitHub overrides old chat memory. Reconstruct the current marketing state from the listed durable files and live-verify connectors before use. Continue the highest-value safe marketing task, currently launch-readiness for Detective Academy and the first owner-review restart batch. Do not duplicate Central RSE Orchestrator work and do not cross paid/publication/pricing/source-freeze/visual-selection owner gates.**
