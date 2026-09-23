@@ -1,0 +1,81 @@
+date: 2026-09-24
+status: PASS_WITH_OWNER_VISUAL_GATE
+scope: wave_1_hourly_live_reconciliation
+authority:
+  resume_protocol: orchestration/RESUME_FROM_ZERO.md
+  rule: current_repository_state_overrides_stale_chat_or_mirror_fields
+
+detective_academy:
+  commercial_priority: 1
+  repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+  pr: 571
+  branch: feature/detective-book-factory
+  live_head: 7104f03b625c64b91d90db58568e2fb1b29543dc
+  previous_checkpoint_head: 411eb5fa8a651dfe804b718af5cdf86038d0fe16
+  head_delta_commits: 1
+  latest_commit_message: Add fail-closed modern prop presentation contract
+  pr_state: draft_open_mergeable
+  merged: false
+  english_source_frozen: false
+  latest_build_run: 157
+  latest_build_run_id: 35928551251
+  latest_build_conclusion: success
+  latest_seo_run: 679
+  latest_seo_run_id: 35928551281
+  latest_seo_conclusion: success
+  finalization_checkpoint: tools/detective-book-factory/DETECTIVE_KDP_FINALIZATION_CHECKPOINT.md
+  finalization_checkpoint_status: V4_1_SOURCE_POLISH_COMPLETE_OWNER_VISUAL_GATE_OPEN_ENGLISH_NOT_FROZEN
+  final_page_contract: 146
+  case_map_pages_1_109_unchanged: true
+  support_divider_page: 110
+  reverse_support_pages: 111_146
+  head_delta_classification:
+    production_map_change: false
+    owner_visual_change: false
+    locked_logic_or_geometry_change: false
+    semantic_runtime_change: false
+    scope: fail_closed_modern_prop_presentation_scaffolding_only
+    notes:
+      - production map path remains hybrid-original-shigai
+      - modern props are not integrated into production maps
+      - validator self-test is now in Detective CI
+      - no source raster or owner visual was changed
+  current_lane:
+    asset_independent_v4_1_source_polish: exhausted
+    do_not_manufacture_more_refactors_or_repeated_audits: true
+    do_not_continue_modern_prop_substitution_as_autonomous_lane: true
+    next_safe_action: wait_for_exact_four_owner_visuals_then_run_bounded_final_asset_pass
+  expected_owner_visuals:
+    - case03_photo_A.png
+    - case03_photo_B.png
+    - case03_solution.png
+    - book2_archive_photo.png
+  owner_visual_live_check_2026_09_24:
+    exact_canonical_filenames_found_in_conversation_or_library: false
+    recent_noncanonical_model_generated_images_present: true
+    promoted_or_selected: false
+  final_bounded_pass_after_exact_asset_delivery:
+    - validate_all_four_exact_files
+    - SHA_lock_exact_owner_files
+    - integrate_exact_case03_solution
+    - render_canonical_146_page_artifact
+    - full_page_human_visual_QA
+    - physical_back_entry_simulation
+  owner_gates:
+    - exact_four_owner_visual_asset_delivery_and_lock
+    - representative_physical_proof_and_owner_visual_approval
+    - final_cover_proof
+    - explicit_english_source_freeze
+    - pricing
+    - kdp_upload_publication
+
+other_lanes:
+  optical_animals: owner_art_gated_no_speculative_factory_work
+  polish_localization: parked_until_explicit_detective_english_freeze
+  senior_hello_today: source_side_exhausted_external_owner_gates
+  consumer_platform: source_side_exhausted_owner_deployment_or_product_gate
+  happy_me: parked_external_gate
+  mind_bloom: frozen_private_v1
+  marketing: dedicated_execution_stream_central_dependency_sync_only
+
+owner_action_required: provide_the_four_exact_final_detective_visual_files_when_ready
