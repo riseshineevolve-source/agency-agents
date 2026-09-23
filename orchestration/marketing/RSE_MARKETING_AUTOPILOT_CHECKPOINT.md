@@ -51,23 +51,23 @@ This is an execution-efficiency decision, not a change to product positioning.
 
 ## Detective product dependency
 
-Live PR #571 is Draft/Open/Mergeable at head `a5fab13da7e90a9ea99d57d7082fb2f701d67073`.
+Live PR #571 is Draft/Open/Mergeable at checkpoint head `411eb5fa8a651dfe804b718af5cdf86038d0fe16`.
 
 Current product truth:
 - canonical V4/V4.1 story, puzzle logic and verified Shigai spatial geometry remain protected;
-- deterministic V4.1 finalizer, reverse-entry engine, print-typography QA, grayscale audit, fail-closed final-artifact audit and locked-V4 spatial recovery bridge are present in source;
-- Build Detective Academy PDF #148 and SEO Validation #661 are green on the current head;
-- the earlier canonical-input materialization blocker is closed; verified Shigai geometry still must never be reconstructed or approximated;
+- verified implementation head `5560207f80fa8a1f1392ff782ee38920365ac798` has Build Detective Academy PDF #155 PASS and SEO Validation #675 PASS;
+- the physical contract is now 146 pages and asset-independent source polish is exhausted;
+- deterministic finalizer, reverse-entry/onboarding surfaces, typography/grayscale/fail-closed QA and case-parity visual families are in source;
 - English source is **NOT FROZEN**;
-- bounded source polish remains active below owner gates;
 - the exact final owner visual set is four files: `case03_photo_A.png`, `case03_photo_B.png`, `case03_solution.png`, and `book2_archive_photo.png`;
-- owner-supplied final visuals must be used exactly and SHA-locked; no regeneration, restyling, destructive crop or silent substitution is allowed.
+- owner-supplied final visuals must be used exactly and SHA-locked; no regeneration, restyling, destructive crop or silent substitution is allowed;
+- do not manufacture more source refactors or repeated audits while waiting for the owner assets.
 
-Status is **V4.1 SOURCE POLISH ACTIVE — FOUR-FILE OWNER VISUAL GATE OPEN — ENGLISH NOT FROZEN**.
+Status is **V4.1 SOURCE POLISH EXHAUSTED — FOUR-FILE OWNER VISUAL GATE OPEN — ENGLISH NOT FROZEN**.
 
 The next safe product sequence is:
-1. continue bounded source-side polish independent of the final owner assets;
-2. when the owner supplies all four exact final files, extend the fail-closed gate to all four, SHA-lock them and integrate the exact Case 03 solution asset;
+1. wait for all four exact owner visual files;
+2. extend the fail-closed gate to all four, SHA-lock/integrate them and place the exact Case 03 solution asset in its solution slot;
 3. render/audit the exact final artifact, run independent full-PDF human visual review/back-entry simulation and representative physical proof;
 4. only then present the verified artifact for final visual approval and a separate explicit English-source freeze decision.
 
