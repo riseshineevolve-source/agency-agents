@@ -51,25 +51,25 @@ This is an execution-efficiency decision, not a change to product positioning.
 
 ## Detective product dependency
 
-Live PR #571 is Draft/Open/Mergeable at head `3addc38cb2db422fa0d3d6472b067530217ce9e4`.
+Live PR #571 is Draft/Open/Mergeable at head `a5fab13da7e90a9ea99d57d7082fb2f701d67073`.
 
 Current product truth:
 - canonical V4/V4.1 story, puzzle logic and verified Shigai spatial geometry remain protected;
-- deterministic V4.1 finalizer, print-typography QA and fail-closed 145-page final-artifact audit are present in source;
-- Build Detective Academy PDF #136 and SEO Validation #637 are green at the current head;
+- deterministic V4.1 finalizer, reverse-entry engine, print-typography QA, grayscale audit, fail-closed final-artifact audit and locked-V4 spatial recovery bridge are present in source;
+- Build Detective Academy PDF #148 and SEO Validation #661 are green on the current head;
+- the earlier canonical-input materialization blocker is closed; verified Shigai geometry still must never be reconstructed or approximated;
 - English source is **NOT FROZEN**;
-- authoritative native source checkpoint is `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json`;
-- the real 145-page V4.1 owner-review artifact is blocked in the current automation environment because canonical Shigai/runtime/final-map inputs are not materializable here and required derived runtime/final-map rasters are not present on the branch;
-- verified Shigai geometry must not be reconstructed or approximated from truncated/minified text to meet a marketing timeline.
+- bounded source polish remains active below owner gates;
+- the exact final owner visual set is four files: `case03_photo_A.png`, `case03_photo_B.png`, `case03_solution.png`, and `book2_archive_photo.png`;
+- owner-supplied final visuals must be used exactly and SHA-locked; no regeneration, restyling, destructive crop or silent substitution is allowed.
 
-Status is **V4.1 FINAL PIPELINE READY — REAL ARTIFACT BLOCKED ON CANONICAL INPUT MATERIALIZATION — ENGLISH NOT FROZEN**.
+Status is **V4.1 SOURCE POLISH ACTIVE — FOUR-FILE OWNER VISUAL GATE OPEN — ENGLISH NOT FROZEN**.
 
 The next safe product sequence is:
-1. obtain approved materializable canonical Shigai/runtime/final-map inputs without changing verified geometry;
-2. render the complete 145-page V4.1 owner-review artifact and run the fail-closed final-artifact audit;
-3. fix only concrete presentation defects, then run independent full-PDF visual review and representative physical proof;
-4. resolve the explicit bounded visual owner gates for Case 03 exact 10-difference visual and Book 2 archival-hook visual using owner-locked manifests/hashes;
-5. only then present the verified artifact for final visual approval and a separate explicit English-source freeze decision.
+1. continue bounded source-side polish independent of the final owner assets;
+2. when the owner supplies all four exact final files, extend the fail-closed gate to all four, SHA-lock them and integrate the exact Case 03 solution asset;
+3. render/audit the exact final artifact, run independent full-PDF human visual review/back-entry simulation and representative physical proof;
+4. only then present the verified artifact for final visual approval and a separate explicit English-source freeze decision.
 
 Marketing may continue preparing from already approved positioning and approved assets, but must not present V4.1 as final/frozen, announce a publication-ready date, use exploratory Case 03/Book 2 candidates as final assets, or pull full-book Polish production forward.
 
@@ -81,7 +81,9 @@ Before the first live organic batch, owner should review the initial creative/co
 
 ## Owner gates
 
-No paid activation, budget increase, pricing, discount/promotion, Case 03 final visual selection, Book 2 archival-hook final visual selection, final English interior approval/freeze, final cover decision, physical-proof approval or KDP publication occurs here without owner approval.
+No paid activation, budget increase, pricing, discount/promotion, final four-file Detective visual selection/delivery, final English interior approval/freeze, final cover decision, physical-proof approval or KDP publication occurs here without owner approval.
+
+Current Detective product owner action required: **none until the four final visual files are ready**.
 
 ## Recovery after chat loss
 
