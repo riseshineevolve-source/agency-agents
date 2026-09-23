@@ -1,5 +1,5 @@
 date: 2026-09-23
-status: PASS_WITH_INPUT_ACCESS_BLOCKER
+status: PASS_WITH_OWNER_VISUAL_GATE
 scope: wave_1_daily_autopilot_live_reconciliation
 authority:
   resume_protocol: orchestration/RESUME_FROM_ZERO.md
@@ -33,19 +33,26 @@ detective_academy:
   repo: riseshineevolve-source/RISE.SHINE.EVOLVE
   pr: 571
   branch: feature/detective-book-factory
-  head: 3addc38cb2db422fa0d3d6472b067530217ce9e4
+  head: 4a529259032038ce58a0588b6abd19d0566eeca9
+  implementation_head: 4ce70c1ccb19b78e5aad58e63a2509ad72f28988
   pr_state: draft_open_mergeable
-  latest_build_run: 136
-  latest_build_run_id: 35824108735
+  latest_build_run: 153
+  latest_build_run_id: 35868784455
   latest_build_conclusion: success
-  latest_seo_run: 637
+  latest_seo_run: 671
   latest_seo_conclusion: success
-  v4_1_target_pages: 145
+  locked_v4_source_pages: 145
+  v4_1_final_target_pages: 146
   english_source_frozen: false
   source_pipeline:
     finalizer: ready
     typography_qa: ready
+    grayscale_fail_closed_audit: ready
     fail_closed_final_artifact_audit: ready
+    reverse_entry_engine: ready
+    support_divider_page_110: ready
+    case26_generated_page_references: ready
+    locked_v4_spatial_recovery_bridge: ready
   authoritative_native_checkpoint:
     file: HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json
     recovery_state: RESOLVED_VERIFIED_LIBRARY_TEXT_REPRESENTATION
@@ -55,18 +62,39 @@ detective_academy:
     deterministic_selected_module_validation: PASS_15_OF_15
     geometry_reconstructed: false
   authoritative_binary_input:
+    status: RESOLVED_CURRENT_SOURCE_RECOVERY_BRIDGE
     source_pdf_name: HMDA_SHIGAI_SOURCE_15_MODULES_FINAL.pdf
     source_pdf_library_path: /AI AGENTS/HMDA_SHIGAI_SOURCE_15_MODULES_FINAL.pdf
     source_pdf_library_size_bytes: 31766363
-    raw_materialization_attempt_2026_09_23: DENIED_PROJECT_FILE_AUTHORIZATION_BOUNDARY
-    complete_validated_raster_set_raw_access: not_established
-    partial_raster_reconstruction_allowed: false
-  current_blocker: AUTHORITATIVE_BINARY_INPUT_RAW_MATERIALIZATION
-  blocker_class: infrastructure_input_access_not_product_regression
-  next_safe_action: when_locked_source_pdf_or_complete_validated_raster_set_is_raw_materializable_run_tracked_runtime_bridge_then_full_145_page_v4_1_render_and_integrated_audit
+    shigai_reconstruction_or_approximation_allowed: false
+  completed_owner_audit_corrections:
+    - field_detective_id_exact_name_and_official_call_sign_fields_with_slot_06
+    - case30_and_finale_request_official_call_sign
+    - dedicated_case_wall_evidence_log_on_page_009
+    - front_onboarding_reverse_entry_instruction_on_page_008
+    - certificate_nonceremonial_meta_removed
+    - archive_signal_log_giant_zero_removed
+    - explicit_upright_stop_hint_vault_solutions_divider_on_page_110
+    - final_146_page_reverse_entry_contract_with_pages_1_109_unchanged
+  remaining_safe_source_work:
+    - diversify_11_case_specific_interludes_into_visibly_varied_deterministic_page_families
+    - make_book2_hook_cinematic_without_changing_locked_premise_or_owner_art
+  final_render_gate: EXACT_FOUR_OWNER_VISUAL_ASSETS
+  expected_owner_visuals:
+    - case03_photo_A.png
+    - case03_photo_B.png
+    - case03_solution.png
+    - book2_archive_photo.png
+  owner_visual_rules:
+    regenerate: forbidden
+    restyle: forbidden
+    destructive_crop: forbidden
+    silent_substitute: forbidden
+    sha_lock_exact_files_before_final_render: required
+    final_owner_review_path_fail_closed_without_all_four: required
+  next_safe_action: diversify_interludes_then_cinematic_book2_hook_then_wait_for_exact_four_owner_visuals_for_local_final_render_and_full_visual_back_entry_qa
   owner_gates:
-    - case03_exact_10_difference_visual_approval
-    - book2_archival_hook_visual_approval
+    - exact_four_owner_visual_asset_delivery_and_lock
     - representative_physical_proof_and_owner_visual_approval
     - final_cover_proof
     - explicit_english_source_freeze
@@ -143,13 +171,16 @@ opinie:
 durable_repairs_completed:
   - wave1_autopilot_queue_reconciled_from_2026_09_22_stale_detective_and_polish_state_to_live_2026_09_23_state
   - detective_native_checkpoint_recovery_marked_resolved_without_reconstructing_geometry
-  - detective_remaining_blocker_narrowed_to_authoritative_binary_input_raw_materialization
-  - conflict_log_updated_with_fresh_failed_raw_materialization_attempt_and_fail_closed_handling
+  - detective_authoritative_binary_input_gate_superseded_by_current_source_recovery_bridge
+  - detective_owner_audit_identity_navigation_certificate_signal_log_and_support_divider_contracts_synced
+  - detective_final_target_reconciled_to_146_pages_with_locked_v4_source_preserved_at_145
+  - detective_exact_four_owner_visual_gate_recorded_without_preapproval_or_art_generation
   - target_repo_existence_rechecked_live_both_absent_no_bootstrap
 
 next_safe_selection_rule:
-  - retry_detective_final_render_only_when_authoritative_binary_input_is_raw_materializable
-  - never_use_partial_rasters_screenshots_or_reconstruction_to_bypass_locked_shigai_source
+  - finish_detective_interlude_visual_diversity_and_cinematic_book2_presentation_without_touching_owner_art
+  - final_detective_render_requires_exact_four_owner_visuals_and_fail_closed_sha_lock
+  - never_regenerate_restyle_destructively_crop_or_silently_substitute_owner_visuals
   - do_not_start_detective_pl_before_explicit_english_freeze
   - resume_gentle_steps_only_when_real_editable_or_renderable_template_surface_is_available
   - do_not_promote_optical_visuals_without_owner_gate
