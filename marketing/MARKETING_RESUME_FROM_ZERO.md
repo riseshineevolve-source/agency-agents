@@ -64,31 +64,37 @@ Do not wait for Google Play/DUNS to monetize KDP-ready products.
 
 The English interior has advanced materially inside the bounded V4.1 finalization workstream, but it is still **NOT FROZEN**:
 - PR #571 is Draft / Open / Mergeable
-- current remote head `3addc38cb2db422fa0d3d6472b067530217ce9e4`
+- current remote head `a5fab13da7e90a9ea99d57d7082fb2f701d67073`
 - canonical story/logic/spatial geometry remains protected; the V4.1 layer must not reopen the locked 30-case logic, five-act story, Detective Six premise, Room Zero mechanism, Naming B, numeric witness IDs or verified Shigai geometry
-- the deterministic V4.1 finalizer, print-typography QA and fail-closed 145-page final-artifact audit are present in source
-- Build Detective Academy PDF #136 PASS and SEO Validation #637 PASS on the current head
-- authoritative native checkpoint: `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json`
-- the real 145-page V4.1 owner-review artifact is currently blocked on materializable canonical Shigai/runtime/final-map inputs in the current automation environment; required derived runtime/final-map rasters are not present on the branch
-- **never reconstruct or approximate verified Shigai geometry from truncated/minified source merely to unblock marketing timing**
+- the deterministic V4.1 finalizer, reverse-entry engine, print-typography QA, grayscale audit, fail-closed final-artifact audit and locked-V4 spatial recovery bridge are present in source
+- Build Detective Academy PDF #148 PASS and SEO Validation #661 PASS on the current head
+- the earlier canonical Shigai/runtime/final-map materialization blocker is closed; verified Shigai geometry must still never be reconstructed or approximated
+- bounded source-side polish remains active below owner gates
 - English source remains **NOT FROZEN**
 
-The next safe product sequence is: resolve canonical materializable inputs -> complete the real 145-page V4.1 render + fail-closed artifact audit -> repair only concrete presentation defects -> independent full-PDF visual review -> representative physical proof. Marketing must not describe the interior as final/frozen or announce a publication-ready date before those gates and explicit owner approval.
+The exact final owner visual set is expected to contain exactly four files:
+- `case03_photo_A.png`
+- `case03_photo_B.png`
+- `case03_solution.png`
+- `book2_archive_photo.png`
 
-The earlier ALL-15 map-system design gate remains closed, but two newly introduced bounded visuals are separate owner gates:
-- **Case 03 exact 10-difference visual** — final candidate must be explicitly selected/approved by the owner
-- **Book 2 archival-hook visual** — final candidate must be explicitly selected/approved by the owner
+Do not pre-approve, synthesize, regenerate, restyle, destructively crop or silently substitute any of those final owner files. When all four exact files are supplied, the product final pass must extend the fail-closed gate to all four, SHA-lock them and integrate the exact `case03_solution.png` into the Case 03 solution slot.
 
-Exploratory candidates for those two slots must not be silently selected, committed, promoted or used as final marketing assets before an owner-locked manifest/hash exists.
+The next safe product sequence is: continue bounded source-side polish independent of final owner assets -> receive all four exact owner files -> SHA-lock/integrate them -> render/audit the exact final artifact -> independent full-PDF visual review + back-entry simulation -> representative physical proof -> final visual approval -> separate explicit English source freeze.
+
+Marketing must not describe the interior as final/frozen or announce a publication-ready date before those gates and explicit owner approval.
+
+The earlier ALL-15 map-system design gate remains closed; the four-file visual set is a separate owner gate and does not inherit the map-system approval.
 
 Remaining owner-controlled gates:
-- Case 03 exact 10-difference visual approval
-- Book 2 archival-hook visual approval
+- exact four-file Detective visual set approval/delivery
 - final visual approval / representative physical proof
 - final cover / physical proof
 - explicit English source freeze
 - pricing
 - KDP upload / publication
+
+Current Detective product owner action required: **none until the four final visual files are ready**.
 
 Polish full-book production begins only after explicit English-source freeze. Canva remains a finishing layer only; repeated layouts, hints, solutions and print output stay code-driven.
 
@@ -235,8 +241,7 @@ Owner approval required for:
 - paid activation / new budget / budget increase
 - pricing
 - discount / promotion
-- Case 03 exact 10-difference visual final selection
-- Book 2 archival-hook visual final selection
+- exact four-file Detective final visual set
 - final Detective English interior visual approval / source freeze
 - final cover
 - KDP publication
