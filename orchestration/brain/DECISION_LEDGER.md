@@ -113,9 +113,9 @@ This file records decisions that must not disappear when chats become inaccessib
 - [LOCKED] Naming direction is **B — branded / academy / adventure**; deterministic aliases may change presentation names only, never puzzle identity/logic.
 - [CURRENT] Mechanical ALL-15 scale does not require reopening the historical map-system owner gate while locked geometry/logic and approved presentation rules are preserved.
 - [LOCKED] Newly introduced bounded final visuals do not inherit the historical map-system approval.
-- [OWNER GATE] Case 03 exact 10-difference visual final selection/approval; exploratory candidates may not be silently selected, committed or promoted.
-- [OWNER GATE] Book 2 archival-hook visual final selection/approval; exploratory candidates may not be silently selected, committed or promoted.
-- [CURRENT] V4.1 source finalizer, typography QA and fail-closed 145-page artifact audit are ready, but the real final render is blocked until canonical Shigai/runtime/final-map inputs are materializable; do not reconstruct or approximate verified Shigai geometry.
+- [OWNER GATE] The exact final owner visual set is four files: `case03_photo_A.png`, `case03_photo_B.png`, `case03_solution.png`, and `book2_archive_photo.png`; exploratory candidates may not be silently selected, committed or promoted.
+- [CURRENT] V4.1 source contains the finalizer, reverse-entry engine, typography/grayscale QA, fail-closed final-artifact audit and locked-V4 spatial recovery bridge. The earlier canonical-input materialization blocker is closed; bounded source polish remains active while the exact four owner files are pending.
+- [LOCKED] Owner-supplied final visual files must be SHA-locked and used exactly; do not regenerate, restyle, destructively crop or silently substitute them.
 - [LOCKED] English remains NOT FROZEN until a complete audited artifact, representative physical proof and explicit owner freeze decision.
 - [OWNER GATE] Final visual/physical-proof approval, final cover/proof, explicit English source freeze, pricing and KDP publication.
 - [LOCKED] English release candidate before Polish; full Detective PL remains blocked until explicit English freeze.
