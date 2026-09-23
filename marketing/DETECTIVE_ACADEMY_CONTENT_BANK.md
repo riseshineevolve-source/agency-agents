@@ -455,3 +455,29 @@ Claim-safety:
 - no promise that every child will love it;
 - no unsupported learning/behavior outcome;
 - no overstatement that every solved case becomes evidence later.
+
+
+## DETECTIVE AD 01 — OPENING HOOK OPTIMIZATION — 2026-09-23
+
+Re-evaluated the assumption that the VO must begin with "Thirty cases. One hidden mystery."
+
+Conclusion:
+- "Thirty cases. One hidden mystery." is strong as on-screen proof/differentiation, but not the strongest first spoken hook for a parent-facing ad.
+- The strongest spoken opening should trigger ownership/curiosity first, then explain the book-long structure.
+- Canonical signature mechanic: ONE DETECTIVE IS STILL MISSING -> the reader/child is that missing detective.
+- This better addresses the primary parent hesitation: "Will my child actually want to do this?" while still preserving the one-book-long-case differentiation.
+
+Preferred opening:
+**"One detective is still missing. Your child."**
+
+Preferred full VO direction:
+**"One detective is still missing. Your child. Across 30 connected cases, they join the Happy Makers squad and become part of one unfolding investigation."**
+
+Alternative hooks to test:
+1. "One detective is still missing. Your child."
+2. "What if the next detective in the story was your child?"
+3. "This isn’t a book your child just completes. It gives them a role in the case."
+4. "The case starts before the first puzzle: with a blank Detective Academy badge."
+5. "Most puzzle books give answers. This one gives your child a place in the investigation."
+
+Use "30 cases / one hidden mystery" as supporting proof on screen or in the second sentence, not necessarily as the first spoken words.
