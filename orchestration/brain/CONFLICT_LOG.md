@@ -47,9 +47,9 @@ Historical truth: that earlier blocker was closed at that checkpoint.
 At the start of the 2026-09-22 Brain sync, live GitHub reported Draft/Open PR #6 as `mergeable: true` at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`, with Polish Localization Regression #31 and auxiliary checks green.
 That state was briefly superseded by a later `mergeable: false` observation after canonical `main` advanced.
 
-### Polish Localization PR #6 current mergeability — resolved 2026-09-22
-Live GitHub previously returned PR #6 Draft/Open and `mergeable: true` again at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Polish Localization Regression #31 plus the associated branch consistency/validation checks were green.
-Historical truth: the branch-divergence blocker was closed at that checkpoint. A later central-main advance has superseded this mergeability state; see the open entry below.
+### Polish Localization PR #6 current mergeability — resolved 2026-09-23
+Live GitHub now reports PR #6 Draft/Open and `mergeable: true` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Localization Regression #31 remains the last recorded green branch-regression evidence.
+Current truth: the branch-conflict blocker is CLOSED at this checkpoint. No merge/rebase or full-book Detective Polish work is implied; explicit English-source freeze remains the separate production gate.
 
 ### Senior Phase 14H fresh Android/device verification — resolved 2026-09-22
 The earlier repair-loop state at `6cb2c3e...` is superseded. PR #77 is Draft/Open/Mergeable at checkpoint head `7df593bac70d76653d83bc550f6e3052835ba478`; the tested implementation head is `9a848250bc8dc64d7170115de89f0aa683ff2e8c`.
@@ -73,19 +73,15 @@ Current truth: the branch-conflict blocker is CLOSED at this checkpoint. No merg
 
 ### Detective V4.1 native checkpoint recovery — resolved 2026-09-23
 The earlier automation checkpoint said the authoritative native `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json` could not be materialized and therefore treated the entire canonical-input surface as blocked.
-The current Detective PR #571 durable checkpoint records the exact Library text representation as recovered at 581,371 bytes and SHA-256 `cdc6de5b60117fe19e89fc4a13e2b9c1d92657f5e7fdb8ec69a18ae85ba8723e`, parsing as the expected 40-page `shigai-book`. Strict deterministic validation passed the 15 selected scene/clue board pairs, grids, raw titles, answers/coordinates, alias identity sets and empty-ROOM meta carriers without geometry reconstruction.
-Current truth: the **native checkpoint recovery blocker is CLOSED**. The remaining blocker concerns authoritative binary map/PDF inputs only; see the open entry below.
+The later Detective durable checkpoint recovered and strictly validated the expected Shigai source without reconstructing geometry.
+Current truth: the native checkpoint recovery blocker is CLOSED.
+
+### Detective V4.1 authoritative input materialization — resolved 2026-09-23
+An earlier checkpoint at head `3addc38...` still required raw-byte access to the locked source PDF or complete validated production raster set before the real V4.1 artifact could advance.
+PR #571 has since advanced to `a5fab13da7e90a9ea99d57d7082fb2f701d67073`. The canonical source now includes the locked-V4 spatial recovery bridge, owner-audit presentation corrections, Case Wall/reverse-help onboarding, grayscale fail-closed audit and the current four-file owner-visual contract. Build Detective Academy PDF #148 and SEO Validation #661 are SUCCESS on the current head.
+Current truth: canonical-input materialization is no longer the active blocker. English remains NOT FROZEN; the lane now waits on the exact four owner visual files plus remaining bounded source polish, final human visual QA/back-entry simulation, representative physical proof and explicit owner freeze.
 
 ## Open / requires future reconciliation
-
-### Detective V4.1 authoritative binary-input materialization blocker — 2026-09-23
-PR `riseshineevolve-source/RISE.SHINE.EVOLVE#571` is Draft/Open/Mergeable at head `3addc38cb2db422fa0d3d6472b067530217ce9e4`; Build Detective Academy PDF #136 and SEO Validation #637 are green. The V4.1 finalizer, deterministic typography QA and fail-closed 145-page final-artifact audit are present in source, and the native Shigai JSON checkpoint is now recovered and verified.
-The remaining real-artifact render is blocked on **raw-byte access to an existing authoritative binary input**: either locked `HMDA_SHIGAI_SOURCE_15_MODULES_FINAL.pdf` or the complete already-validated production map-raster set. The exact source PDF is visible in the Project Library at `/AI AGENTS/HMDA_SHIGAI_SOURCE_15_MODULES_FINAL.pdf`, size 31,766,363 bytes. A fresh 2026-09-23 `raw_file` materialization attempt against its exact file ID was denied by the Project file authorization boundary. Partial raster files are also visible, but an incomplete subset must not be used to reconstruct or infer missing geometry.
-Current handling: **do not reconstruct, approximate, redraw or reinterpret verified Shigai geometry**. Resume the final 145-page V4.1 render only when the locked source PDF or complete validated production raster set is raw/materializable, then run the tracked runtime bridge, finalizer + fail-closed artifact audit, independent full-PDF review and representative physical proof. This is an infrastructure/input-access blocker, not an established product regression; English remains NOT FROZEN.
-
-### Polish Localization PR #6 current merge conflict — 2026-09-22
-After the latest canonical Brain/Marketing continuity updates advanced `agency-agents/main`, live GitHub reports PR #6 Draft/Open and `mergeable: false` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Localization Regression #31 remains the last recorded green branch regression evidence.
-Current handling: record the conflict but do not destructively rebase, merge, or start full-book Detective Polish work. The branch can be reconciled in its authorized execution lane when useful; explicit English-source freeze remains the separate production gate.
 
 ### Brand positioning phrases
 Both:
