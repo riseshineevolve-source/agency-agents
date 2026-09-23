@@ -2,7 +2,7 @@
 
 Status: CANONICAL
 Rebuilt: 2026-09-18
-Last reconciled: 2026-09-21
+Last reconciled: 2026-09-23
 Primary durable repo: `riseshineevolve-source/agency-agents`
 
 ## 1. Operating model
@@ -54,12 +54,14 @@ Canonical priority file: `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`
 Portfolio completion snapshot: `orchestration/brain/PORTFOLIO_COMPLETION_SNAPSHOT.md` (working estimate only; live repo facts override)
 
 Owner-locked order:
-1. **Detective Academy -> KDP** — primary revenue lane; do not wait for Google Play/DUNS.
-2. **Mind Bloom -> Private DONE** — frozen after Private V1 PASS / CI #81; future commercial fork is separate.
+1. **Detective Academy EN -> KDP** — primary revenue lane; do not wait for Google Play/DUNS.
+2. **Detective Academy PL -> KDP Poland** — immediate second commercial edition after explicit English-source freeze.
 3. **24 Gentle Steps to Christmas** — seasonal Q4 lane.
 4. **Optical Animals** — giftable KDP lane; preserve 12 approved, resolve 8 owner-gated visuals.
 5. **Consumer App Factory / Google Play apps** — strategic, but below shippable KDP revenue while Google/DUNS gates remain.
 6. **Senior / Happy Me / Opinie / AI Discovery / Website** — continue safely in parallel below their gates.
+
+Frozen/non-active commercial lane: **Mind Bloom Private V1** — source release candidate PASS / feature development frozen; future provider or commercial work is a separate owner-gated decision.
 
 Operational sequence: **Detective EN KDP -> Detective PL KDP -> Gentle Steps seasonal lane -> Optical Animals gift lane -> Google Play acceleration when external gates clear.**
 
@@ -232,14 +234,16 @@ Current durable contracts:
 - `orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md`
 - `orchestration/architecture/RSE_CONSUMER_SUPABASE_EPHEMERAL_SQL_CHECKPOINT.md`
 - `orchestration/architecture/RSE_CONSUMER_SUPABASE_ADVANCED_GATES_CHECKPOINT.md`
+- `orchestration/architecture/RSE_CONSUMER_EPHEMERAL_CANDIDATE_CHECKPOINT.md`
 
 Current verification state:
 - the synthetic PostgreSQL 16 base RLS harness is green;
 - the advanced Gate A-H harness is green on CI run `35541200417` at head `9baf778da210b4c354dcb10e19d452f9524df8e6`;
+- the candidate migration contract and deterministic schema/policy drift gate are complete; hardened drift-guard CI run `35655936834` is green, with candidate branch checkpoint head `40dcb3f12c8f8b80a54924b48e8c9e17c53ccf64`;
 - in the advanced model, browser/mobile authenticated roles cannot directly mutate protected progress/sync state;
 - the atomic sync primitive is `SECURITY INVOKER`, executable only by a synthetic trusted-server role and accepts no client premium/entitlement claim;
-- this is still synthetic/local/CI architecture only: no live Supabase project has been created or modified and no production deployment is authorized;
-- next safe slice is a clean-ephemeral candidate migration contract plus deterministic schema/policy drift checks.
+- this remains synthetic/local/CI architecture only: no live Supabase project has been created or modified and no production deployment is authorized;
+- no further Consumer Platform repository-side slice is selected. Wait for an owner-approved real product source and/or deployment decision rather than manufacturing architecture work.
 
 Security-domain boundaries:
 - Happy Me remains separate by default because family/child-sensitive profiles, child-device least privilege, consent/safeguarding/media/deletion concerns increase blast-radius and authorization risk;
@@ -416,9 +420,21 @@ Locked presentation direction:
 - naming direction B: branded / academy / adventure,
 - aliases are presentation-only and may never alter puzzle identity, clues, topology, answers or solution logic.
 
-No further design owner gate is required for mechanical ALL-15 scale. Remaining owner gates are final cover, physical proof, pricing and KDP publication.
+Current V4.1 state:
+- PR #571 head `3addc38cb2db422fa0d3d6472b067530217ce9e4`;
+- Build Detective Academy PDF #136 PASS and SEO Validation #637 PASS;
+- deterministic finalizer, print-typography QA and fail-closed 145-page final-artifact audit are present in source;
+- English is **NOT FROZEN**;
+- real 145-page V4.1 render is blocked on materializable canonical Shigai/runtime/final-map inputs; authoritative native checkpoint is `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json`;
+- never reconstruct, approximate or reinterpret verified Shigai geometry from truncated/minified text or incomplete derived assets.
 
-English release candidate first, strict preflight, then Polish.
+The historical ALL-15 map-system design gate remains closed. Two newly introduced bounded final visuals are separate owner gates and may not inherit that approval:
+- Case 03 exact 10-difference visual selection/approval;
+- Book 2 archival-hook visual selection/approval.
+
+Exploratory visual candidates must not be silently selected, committed or promoted. Resume finalization only after canonical inputs are materializable, then run the full V4.1 render/audit, fix concrete presentation defects only, complete independent full-PDF review and representative physical proof. Final visual/proof approval, explicit English source freeze, final cover/proof, pricing and KDP publication remain owner-controlled.
+
+English release candidate first, strict preflight, then Polish only after explicit English freeze.
 
 ## 12. Happy Me Adventures
 
