@@ -27,8 +27,9 @@ The Central RSE Orchestrator does NOT duplicate content production, publishing o
 8. `marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md`
 9. `marketing/DETECTIVE_ACADEMY_CONTENT_BANK.md`
 10. `marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md`
-11. `marketing/PERFORMANCE_MEMORY.yml`
-12. current product/registry checkpoints when a campaign depends on product readiness
+11. `marketing/DETECTIVE_30D_ENGINE.md`
+12. `marketing/PERFORMANCE_MEMORY.yml`
+13. current product/registry checkpoints when a campaign depends on product readiness
 
 ### Private/operational marketing brain — riseshineevolve-source/riseshineevolve/main
 Read:
@@ -38,6 +39,7 @@ Read:
 - `marketing/RSE_SIGNATURE_SERIES.md`
 - `marketing/RSE_Q4_REVENUE_CALENDAR.md`
 - `marketing/RSE_CONTENT_SCORECARD.md`
+- `marketing/RSE_CONTENT_ENGINE_V2.md`
 - `marketing/RSE_MARKETING_AUTOMATION_SPEC.md`
 - `marketing/RSE_RESTART_SPRINT_7D.md`
 - `marketing/RSE_RESTART_SPRINT_PRODUCTION_PACK_V1.md`
