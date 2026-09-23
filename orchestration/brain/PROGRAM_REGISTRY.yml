@@ -1,5 +1,5 @@
-version: 18
-updated: 2026-09-22
+version: 19
+updated: 2026-09-23
 brain_status: canonical
 global:
   master_brand: Rise.Shine.Evolve.
@@ -72,6 +72,11 @@ programs:
     ephemeral_candidate_contract: orchestration/architecture/RSE_CONSUMER_EPHEMERAL_CANDIDATE_MIGRATION_CONTRACT_V0.md
     ephemeral_candidate_drift_test: scripts/test-rse-consumer-schema-policy-drift.py
     ephemeral_candidate_head: deaff301895f0d23942078e698af59cceece3301
+    ephemeral_candidate_branch_head: 40dcb3f12c8f8b80a54924b48e8c9e17c53ccf64
+    ephemeral_candidate_ci_head: f3d1e00147dd0cd3602d36db01a4154493b725cc
+    ephemeral_candidate_ci_run: 35655936834
+    ephemeral_candidate_ci_conclusion: PASS
+    ephemeral_candidate_checkpoint: orchestration/architecture/RSE_CONSUMER_EPHEMERAL_CANDIDATE_CHECKPOINT.md
     ephemeral_candidate_remote_verified: true
     contract_ci_run: 35531884239
     contract_ci_conclusion: PASS
@@ -82,7 +87,7 @@ programs:
     supabase_advanced_ci_run: 35541200417
     supabase_advanced_ci_conclusion: PASS
     verified_head: 9baf778da210b4c354dcb10e19d452f9524df8e6
-    checkpoint_head: e1d2570d32e7149a068eeea8b8d0de6f9f08a8c5
+    checkpoint_head: 40dcb3f12c8f8b80a54924b48e8c9e17c53ccf64
     identity_is_not_entitlement: true
     product_scoped_entitlements_required: true
     cross_user_isolation_contract: verified_synthetic
@@ -118,7 +123,7 @@ programs:
     no_new_backend_without_justification: true
     paid_project_creation_owner_gated: true
     deployment_authorized: false
-    next_safe_slice: none_selected_planned_safe_slice_complete_wait_for_owner_product_source_or_deployment_decision
+    next_safe_slice: none_selected_repository_side_wait_for_owner_product_source_or_deployment_decision
   interactive_book_factory:
     status: synthetic_contract_v0_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
@@ -164,6 +169,8 @@ programs:
     central_autopilot_merge_pr: 11
     central_autopilot_merge_commit: b0855350071d9df7654e0bc87a73ab5098489642
     dedicated_handoff_status: durable_ready_for_fresh_chat_recovery
+    latest_reconciled_detective_head: 3addc38cb2db422fa0d3d6472b067530217ce9e4
+    detective_english_frozen: false
     next_gate: owner_review_first_live_batch_then_routine_organic_autopilot
   polish_localization:
     status: detective_calibrated_second_commercial_priority_merge_conflict_owner_frozen
@@ -187,21 +194,21 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: v4_pushed_reconciled_v4_1_final_polish_pending
+    status: v4_1_final_pipeline_ready_canonical_input_materialization_blocked
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
-    current_head: 22e64f5d9ba56b57af6a183a37b8cf856e4a78a7
+    current_head: 3addc38cb2db422fa0d3d6472b067530217ce9e4
     locked_modules: 15
     local_all15_pass: true
     local_all15_count: 15_of_15
     local_hardening_commit: d5e1507
     local_hardening_push_status: pushed_reconciled_remote_pass
-    latest_build_ci_run: 103
+    latest_build_ci_run: 136
     latest_build_ci_conclusion: PASS
     all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
-    final_english_interior: V4_1_BOUNDED_VISUAL_INTEGRATION_SOURCE_PRESENT_NOT_FROZEN
-    final_english_pdf: PENDING_COMPLETE_V4_1_OWNER_REVIEW_RENDER
+    final_english_interior: V4_1_FINALIZER_AND_FAIL_CLOSED_AUDIT_SOURCE_READY_NOT_FROZEN
+    final_english_pdf: BLOCKED_PENDING_CANONICAL_MATERIALIZABLE_RUNTIME_AND_FINAL_MAP_INPUTS
     final_page_count: 145
     v3_pdf_sha256: 994db4ec8b2bc4f95e351b40646add51e55bc71b29379217be15b1752a6d6eb8
     independent_v3_audit: HISTORICAL_BASELINE_SUPERSEDED_BY_V4_V4_1
@@ -210,19 +217,25 @@ programs:
     v31_correction_doc: tools/detective-book-factory/docs/V31_CORRECTION_PASS.md
     v31_correction_source_status: SUPERSEDED_BY_V4_V4_1
     v31_full_pdf_verification: SUPERSEDED_BY_V4_V4_1_PIPELINE
-    kdp_preflight: V4_TECHNICAL_GATES_GREEN_REVERIFY_COMPLETE_V4_1_RENDER
+    kdp_preflight: V4_1_FINAL_ARTIFACT_REQUIRES_REAL_145_PAGE_RENDER_AND_AUDIT
     print_scale_previews: 145
     spatial_owner_review_spreads: 15_of_15_PASS
-    latest_verified_build_run: 103
+    latest_verified_build_run: 136
     latest_verified_build_conclusion: success
-    latest_verified_seo_run: 571
+    latest_verified_seo_run: 637
     latest_verified_seo_conclusion: success
     english_source_frozen: false
-    v4_1_source_state: BOUNDED_VISUAL_INTEGRATION_PRESENT_REMAINING_PREMIUM_POLISH_REQUIRED
+    v4_1_source_state: FINALIZER_TYPOGRAPHY_QA_AND_FAIL_CLOSED_FINAL_ARTIFACT_AUDIT_READY
     v4_1_owner_gate_ready: false
-    next_execution_mode: complete_remaining_v4_1_premium_polish_then_render_full_v4_1_run_machine_and_visual_audit_then_physical_proof
+    authoritative_shigai_checkpoint: HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json
+    canonical_input_materialization_status: BLOCKED_CURRENT_AUTOMATION_ENVIRONMENT
+    shigai_reconstruction_or_approximation_allowed: false
+    case03_exact_10_difference_visual_owner_approved: false
+    book2_archival_hook_visual_owner_approved: false
+    exploratory_visual_auto_selection_allowed: false
+    next_execution_mode: resolve_canonical_materializable_inputs_then_render_and_audit_full_145_page_v4_1_then_fix_only_concrete_presentation_defects_then_owner_visual_gates_and_physical_proof
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
-    final_interior_blocker: remaining_v4_1_premium_polish_plus_full_artifact_verification_physical_proof_and_owner_visual_approval_before_explicit_source_freeze
+    final_interior_blocker: canonical_shigai_runtime_final_map_materialization_then_full_artifact_verification_physical_proof_and_explicit_owner_freeze
     hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
     local_dirty_worktree_protection: true
     source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
@@ -231,7 +244,7 @@ programs:
     kdp_positioning_lock: marketing/detective-academy-kdp-positioning.md
     commercial_priority_rank: 1
     visual_gate_decision: B_APPROVE_WITH_SMALL_FIXES
-    visual_gate_status: V4_1_FINAL_PREMIUM_POLISH_AND_FULL_ARTIFACT_VERIFICATION_REQUIRED_BEFORE_OWNER_FINAL_VISUAL_APPROVAL
+    visual_gate_status: MAP_SYSTEM_GATE_CLOSED_NEW_CASE03_AND_BOOK2_VISUAL_GATES_OPEN_FINAL_ARTIFACT_NOT_READY
     naming_direction: branded_academy_adventure
     mechanical_all15_design_gate_required: false
     owned_category: book_long_detective_adventure_reader_is_missing_detective
