@@ -387,3 +387,19 @@ Both are grounded in locked product mechanics:
 - earlier evidence may become relevant later.
 
 Use these instead of broader outcome or satisfaction claims.
+
+
+## DETECTIVE AD 01 — CONTINUITY-FIRST FINAL VO — 2026-09-23
+
+Owner direction:
+- do not over-emphasize the "earlier clue returns later" mechanic;
+- sell the bigger distinction: continuity, one unfolding investigation, child joins the squad and becomes part of the case.
+
+Opening remains:
+**"Thirty cases. One hidden mystery."**
+
+Preferred ending:
+**"Your child joins the squad and becomes part of one unfolding investigation, not just a reader solving separate puzzles."**
+
+Rationale:
+This is grounded in the canonical positioning: reader-as-detective ownership + one book-long mystery + connected case progression. It avoids overclaiming any single meta mechanic and makes the category difference explicit.
