@@ -53,11 +53,12 @@ Resolved map-system design gate:
 - this closed map-system gate does **not** imply approval of newly introduced final visual assets.
 
 Current English source / artifact gate:
-- PR #571 current head is `a5fab13da7e90a9ea99d57d7082fb2f701d67073`; English remains **NOT FROZEN**,
-- the V4.1 source includes the deterministic finalizer, reverse-entry engine, print-typography QA, grayscale audit, fail-closed final-artifact audit and locked-V4 spatial recovery bridge,
-- Build Detective Academy PDF #148 and SEO Validation #661 are green on the current head, but green CI does **not** substitute for a complete audited owner-review artifact and physical proof,
+- PR #571 current head is `411eb5fa8a651dfe804b718af5cdf86038d0fe16`; English remains **NOT FROZEN**,
+- the V4.1 source includes the deterministic finalizer, reverse-entry engine, print-typography QA, grayscale audit, fail-closed final-artifact audit, locked-V4 spatial recovery bridge, dedicated page-110 STOP / HINT VAULT divider, diversified case-specific interludes, and cinematic Book 2 presentation surface,
+- Build Detective Academy PDF #156 and SEO Validation #677 are green on the current head, but green CI does **not** substitute for a complete audited owner-review artifact and physical proof,
 - the earlier canonical-input materialization blocker is closed by the current source/recovery bridge; verified Shigai geometry still must never be reconstructed, approximated or reinterpreted,
-- bounded source-side polish may continue below owner gates: explicit STOP / HINT VAULT boundary if required, parity-interlude diversification, cinematic Book 2 hook presentation, and final human visual QA/back-entry simulation once the exact final artifact can be rendered,
+- asset-independent V4.1 source polish is exhausted; do not manufacture additional refactors or repeated audits while the owner visual gate is open,
+- the final V4.1 physical contract is 146 pages, with case/map pages 1-109 unchanged, upright support divider on page 110, and reverse-entry support on pages 111-146,
 - the English source may be frozen only by a separate explicit owner decision after the artifact/proof gates pass,
 - cover work is independent of the English interior/source freeze.
 
@@ -67,7 +68,8 @@ Current four-file visual owner gate:
 - **Book 2 archival-hook visual:** final owner file/selection is owner-controlled; exploratory attempts may not be silently selected, committed or promoted,
 - do not synthesize, regenerate, restyle, destructively crop or silently substitute any owner-supplied final file,
 - when the owner supplies all four exact final files, the final pass must extend the gate to all four, SHA-lock them, integrate the exact Case 03 solution asset, and fail closed unless all four validate,
-- current owner action required: **none until the four final visual files are ready**.
+- final bounded work after exact asset delivery is: four-asset validation -> SHA lock -> exact Case 03 solution integration -> canonical 146-page render -> full-page human visual QA -> physical back-entry simulation,
+- current owner action required: **provide the four exact final visual files when ready**.
 
 Remaining release owner gates:
 - exact four-file Detective visual set approval/delivery,
