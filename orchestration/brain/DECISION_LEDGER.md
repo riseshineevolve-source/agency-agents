@@ -1,7 +1,7 @@
 # RSE Decision Ledger
 
 Status: CANONICAL DECISIONS
-Last reconciled: 2026-09-20
+Last reconciled: 2026-09-23
 
 This file records decisions that must not disappear when chats become inaccessible.
 
@@ -32,10 +32,11 @@ This file records decisions that must not disappear when chats become inaccessib
 
 - [LOCKED] Canonical Q4 priority order lives in `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`.
 - [LOCKED] #1 Detective Academy -> English KDP release-readiness and publication gate.
-- [LOCKED] #2 Mind Bloom -> Private DONE/frozen; no further feature spend by default; future commercial fork is separate.
+- [LOCKED] #2 Detective Academy PL -> immediate second commercial edition after explicit English-source freeze.
 - [LOCKED] #3 24 Gentle Steps to Christmas -> seasonal Q4 lane.
 - [LOCKED] #4 Optical Animals -> giftable KDP lane after remaining 8 visual slots are resolved.
 - [LOCKED] #5 Consumer App Factory / Google Play apps -> strategic but below currently shippable KDP revenue while Google/DUNS gates remain.
+- [CURRENT] Mind Bloom Private V1 is SOURCE RELEASE CANDIDATE PASS / FEATURE DEVELOPMENT FROZEN outside the active commercial sequence; future provider/commercial work requires a separate owner decision.
 - [CURRENT] Senior / Happy Me / Opinie / AI Discovery / Website continue in parallel below their gates.
 - [LOCKED] Do not wait for Google Play/DUNS to begin monetizing products that can ship independently through KDP.
 
@@ -70,6 +71,8 @@ This file records decisions that must not disappear when chats become inaccessib
 - [CURRENT] Public book/content apps are bilingual EN + pl-PL in one product by default, using language-neutral IDs and separate localized copy.
 - [CURRENT] Offline-first and guest-first are defaults where product/privacy requirements allow them.
 - [LOCKED] No agent creates a new Supabase/Firebase/backend project solely because a new app exists; reuse must be evaluated first.
+- [CURRENT] Candidate migration contract and deterministic schema/policy drift gate are complete and green in synthetic/local CI; no live Supabase deployment has been authorized.
+- [CURRENT] No further Consumer Platform repository-side slice is selected; wait for an owner-approved real product source and/or deployment decision instead of inventing architecture work.
 - [CURRENT] Happy Me remains a separate family/child-sensitive backend domain by default to reduce authorization blast radius and isolate consent/safeguarding/child-device/media risks.
 - [OWNER GATE] Combining Happy Me with the shared Consumer Platform requires explicit privacy/security review and owner approval.
 - [LOCKED] Mind Bloom remains private owner-only and is not silently converted into a commercial consumer app.
@@ -104,12 +107,18 @@ This file records decisions that must not disappear when chats become inaccessib
 - [LOCKED] Native Shigai geometry and unique-solution logic are authoritative.
 - [LOCKED] Production uses 15 selected spatial modules; 5 others are challengers/backups.
 - [CURRENT] Preferred spatial case architecture: Witness Board -> Live Case Map -> Room Zero Signal.
-- [LOCKED] Detective map owner gate is CLOSED: owner decision **B — APPROVE WITH SMALL FIXES**.
+- [LOCKED] Detective ALL-15 map-system owner gate is CLOSED: owner decision **B — APPROVE WITH SMALL FIXES**.
 - [LOCKED] Map presentation uses white/light backgrounds, larger bold room/zone and coordinate labels, readable legends/descriptions and pencil space.
 - [LOCKED] Witness Board must feel like a premium detective dossier/case file, not a worksheet; use larger typography and bold names.
 - [LOCKED] Naming direction is **B — branded / academy / adventure**; deterministic aliases may change presentation names only, never puzzle identity/logic.
-- [CURRENT] No further design owner gate is required for mechanical ALL-15 scale; final cover, physical proof, pricing and KDP publication remain owner gates.
-- [LOCKED] English release candidate before Polish.
+- [CURRENT] Mechanical ALL-15 scale does not require reopening the historical map-system owner gate while locked geometry/logic and approved presentation rules are preserved.
+- [LOCKED] Newly introduced bounded final visuals do not inherit the historical map-system approval.
+- [OWNER GATE] Case 03 exact 10-difference visual final selection/approval; exploratory candidates may not be silently selected, committed or promoted.
+- [OWNER GATE] Book 2 archival-hook visual final selection/approval; exploratory candidates may not be silently selected, committed or promoted.
+- [CURRENT] V4.1 source finalizer, typography QA and fail-closed 145-page artifact audit are ready, but the real final render is blocked until canonical Shigai/runtime/final-map inputs are materializable; do not reconstruct or approximate verified Shigai geometry.
+- [LOCKED] English remains NOT FROZEN until a complete audited artifact, representative physical proof and explicit owner freeze decision.
+- [OWNER GATE] Final visual/physical-proof approval, final cover/proof, explicit English source freeze, pricing and KDP publication.
+- [LOCKED] English release candidate before Polish; full Detective PL remains blocked until explicit English freeze.
 
 ## Happy Me
 
