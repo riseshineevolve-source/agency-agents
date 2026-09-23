@@ -43,13 +43,9 @@ Current truth: `brain/RSE_BRAIN_MASTER.md`, `brain/DECISION_LEDGER.md`, current 
 PR `riseshineevolve-source/agency-agents#6` previously had a merge conflict after the central Brain rebuild, then temporarily returned to `mergeable: true` at head `57cf5500004635d8ec30b3c5d581b779fb79f539` with Polish Localization Regression #21 PASS.
 Historical truth: that earlier blocker was closed at that checkpoint.
 
-### Polish Localization PR #6 transient mergeability checkpoint
-At the start of the 2026-09-22 Brain sync, live GitHub reported Draft/Open PR #6 as `mergeable: true` at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`, with Polish Localization Regression #31 and auxiliary checks green.
-That state was briefly superseded by a later `mergeable: false` observation after canonical `main` advanced.
-
-### Polish Localization PR #6 current mergeability — resolved 2026-09-23
-Live GitHub now reports PR #6 Draft/Open and `mergeable: true` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Localization Regression #31 remains the last recorded green branch-regression evidence.
-Current truth: the branch-conflict blocker is CLOSED at this checkpoint. No merge/rebase or full-book Detective Polish work is implied; explicit English-source freeze remains the separate production gate.
+### Polish Localization PR #6 transient mergeability checkpoints
+Live GitHub has temporarily returned PR #6 to `mergeable: true` more than once at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`, including immediately before the 2026-09-23 continuity writes. Localization Regression #31 remains the last recorded green branch-regression evidence.
+Historical truth: those clean observations were superseded when canonical `main` advanced again; see the current open entry below.
 
 ### Senior Phase 14H fresh Android/device verification — resolved 2026-09-22
 The earlier repair-loop state at `6cb2c3e...` is superseded. PR #77 is Draft/Open/Mergeable at checkpoint head `7df593bac70d76653d83bc550f6e3052835ba478`; the tested implementation head is `9a848250bc8dc64d7170115de89f0aa683ff2e8c`.
@@ -82,6 +78,10 @@ PR #571 has since advanced to `a5fab13da7e90a9ea99d57d7082fb2f701d67073`. The ca
 Current truth: canonical-input materialization is no longer the active blocker. English remains NOT FROZEN; the lane now waits on the exact four owner visual files plus remaining bounded source polish, final human visual QA/back-entry simulation, representative physical proof and explicit owner freeze.
 
 ## Open / requires future reconciliation
+
+### Polish Localization PR #6 current merge conflict — 2026-09-23
+Immediately before the central continuity writes, live GitHub briefly reported PR #6 Draft/Open and `mergeable: true` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. After the Brain/Marketing continuity commits advanced `agency-agents/main`, live GitHub again reports `mergeable: false`. Localization Regression #31 remains the last recorded green branch-regression evidence.
+Current handling: record the conflict but do not destructively rebase, merge, or start full-book Detective Polish work. Reconcile the branch only in its authorized execution lane when useful; explicit English-source freeze remains the separate production gate.
 
 ### Brand positioning phrases
 Both:
