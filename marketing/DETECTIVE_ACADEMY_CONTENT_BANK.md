@@ -295,3 +295,47 @@ Before using as direct KDP sales creative:
 - do not rerender other scenes unless a specific production defect is found.
 
 Status: CREATIVE STRUCTURE APPROVED FOR LIVE-LISTING FINALIZATION; CTA still pending verified KDP listing.
+
+
+## DETECTIVE STATIC SALES AD — PARENT CLICK MASTER — 2026-09-23
+
+Canonical parent-facing static ad direction for KDP live use.
+
+Primary buyer question:
+- Will my child actually want to use this?
+- Is this more than another workbook/activity book?
+
+Headline:
+**A SCREEN-FREE MYSTERY KIDS ACTUALLY WANT TO SOLVE.**
+
+Proof line:
+**30 CONNECTED CASES. ONE HIDDEN MYSTERY.**
+
+Visual hierarchy:
+1. headline = parent relevance / ownership gap
+2. exact approved Detective Academy cover = product recognition
+3. proof line = differentiation
+4. four compact verified feature icons
+5. one CTA only
+
+Four-icon row:
+- 30 CONNECTED CASES
+- SCREEN-FREE MYSTERY
+- 3-LEVEL HINT VAULT
+- REASONING SOLUTIONS
+
+CTA:
+**VIEW ON AMAZON**
+
+Art direction:
+- vertical 9:16
+- premium contemporary navy / black / warm gold
+- modern sleek study / evidence workspace
+- clean black-metal or glass fixtures, modern lighting, contemporary cartography/evidence surfaces
+- avoid antique detective clichés, vintage globe/compass overload, sepia, old library styling
+- preserve the owner-approved cover artwork and character proportions; do not redraw/distort the cover characters
+- sparse composition; no redundant product title above the physical book
+- one headline, one proof line, one feature row, one CTA
+
+Rationale:
+This creative addresses the dominant ownership/belief gaps using verified product evidence, follows Q4 ethical persuasion rules, and avoids unsupported outcome claims or generic AI sales copy.
