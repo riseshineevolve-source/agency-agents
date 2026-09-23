@@ -403,3 +403,25 @@ Preferred ending:
 
 Rationale:
 This is grounded in the canonical positioning: reader-as-detective ownership + one book-long mystery + connected case progression. It avoids overclaiming any single meta mechanic and makes the category difference explicit.
+
+
+## DETECTIVE AD VO TEST BANK — 5 CLAIM-SAFE ANGLES — 2026-09-23
+
+Use these as alternate narration tests over the same approved Detective creative. If the visual already states "30 CASES. ONE HIDDEN MYSTERY.", narration should add a new persuasion layer instead of reading the on-screen headline again.
+
+1. OWNERSHIP / MISSING DETECTIVE
+"One detective is still missing. Your child gets the badge, joins the squad, and steps straight into the investigation."
+
+2. CATEGORY BREAK / CONTINUITY
+"Not 30 random puzzles. One unfolding case your child enters, follows, and helps solve as part of the Academy squad."
+
+3. DIFFERENTIATION / ONE BIGGER CASE
+"Most puzzle books end at the answer. Here, each case is part of one bigger investigation your child gets to join."
+
+4. PARENT RELIEF / NOT HOMEWORK
+"A screen-free book that feels less like homework and more like being handed a real detective case file."
+
+5. GIFT / EXPERIENCE
+"Give your child more than another activity book: a role in the story, a squad to join, and a case to crack."
+
+All five are under the 120-character VO limit and are grounded in canonical product mechanics/positioning. Test as distinct buyer-state angles rather than minor copy variants.
