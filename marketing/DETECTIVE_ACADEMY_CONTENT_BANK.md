@@ -494,7 +494,7 @@ Marketing Orchestrator review:
 - Secondary A/B variant: `looking for a screen free.mp4` for parent-need / screen-free targeting.
 
 Required defect check before primary use:
-- `There is one place left 1.mp4` contains an intermediate visual reading `THE MYSTERY STARTER PACK`; this is not the current product title and should be removed/replaced before live launch use.
+- `THE MYSTERY STARTER PACK` is accepted as a promotional scene label, not an official subtitle. It does not require a recut. Guardrail: do not present the notebook/flashlight props as items included with the KDP purchase.
 
 Do not rebuild either reel from scratch. Treat this as final-polish / A-B packaging, not a new production cycle.
 Status: RECOMMENDATION ONLY — owner selection pending.
