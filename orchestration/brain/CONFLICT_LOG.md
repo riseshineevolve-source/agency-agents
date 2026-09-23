@@ -45,7 +45,7 @@ Historical truth: that earlier blocker was closed at that checkpoint.
 
 ### Polish Localization PR #6 transient mergeability checkpoints
 Live GitHub has temporarily returned PR #6 to `mergeable: true` more than once at head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`, including immediately before the 2026-09-23 continuity writes. Localization Regression #31 remains the last recorded green branch-regression evidence.
-Historical truth: those clean observations were superseded when canonical `main` advanced again; see the current open entry below.
+Historical truth: those clean observations are transient when canonical `main` advances; see the current open entry below.
 
 ### Senior Phase 14H fresh Android/device verification — resolved 2026-09-22
 The earlier repair-loop state at `6cb2c3e...` is superseded. PR #77 is Draft/Open/Mergeable at checkpoint head `7df593bac70d76653d83bc550f6e3052835ba478`; the tested implementation head is `9a848250bc8dc64d7170115de89f0aa683ff2e8c`.
@@ -62,10 +62,10 @@ The durable Marketing Autopilot spec/checkpoint temporarily omitted Detective PL
 Reconciled on 2026-09-22: the Marketing recovery entrypoint and execution checkpoint follow the canonical Q4 stack. Current product repository state overrides historical Detective heads recorded in earlier reconciliation snapshots.
 Current truth: central commercial stack + current product repo + refreshed Marketing handoff win.
 
-### Opinie PR #18 mergeability — resolved 2026-09-22
+### Opinie PR #18 mergeability — resolved observation 2026-09-22
 An earlier live observation recorded synthetic-only Opinie staging PR `riseshineevolve-source/riseshineevolve#18` as `mergeable: false` at head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`.
-Live GitHub now reports PR #18 Draft/Open and `mergeable: true` at the same head; synthetic workflow `Opinie synthetic offline seed` #63 remains SUCCESS.
-Current truth: the branch-conflict blocker is CLOSED at this checkpoint. No merge or remote real-data action is implied; dedicated-repo migration remains pending because the target repo does not yet exist.
+Live GitHub later reported PR #18 Draft/Open and `mergeable: true` at the same head; synthetic workflow `Opinie synthetic offline seed` #63 remained SUCCESS.
+Historical truth: that clean observation was valid at that checkpoint, but it is superseded by the current live conflict recorded below. No real case data was moved remotely.
 
 ### Detective V4.1 native checkpoint recovery — resolved 2026-09-23
 The earlier automation checkpoint said the authoritative native `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json` could not be materialized and therefore treated the entire canonical-input surface as blocked.
@@ -74,14 +74,18 @@ Current truth: the native checkpoint recovery blocker is CLOSED.
 
 ### Detective V4.1 authoritative input materialization — resolved 2026-09-23
 An earlier checkpoint at head `3addc38...` still required raw-byte access to the locked source PDF or complete validated production raster set before the real V4.1 artifact could advance.
-PR #571 has since advanced to `a5fab13da7e90a9ea99d57d7082fb2f701d67073`. The canonical source now includes the locked-V4 spatial recovery bridge, owner-audit presentation corrections, Case Wall/reverse-help onboarding, grayscale fail-closed audit and the current four-file owner-visual contract. Build Detective Academy PDF #148 and SEO Validation #661 are SUCCESS on the current head.
-Current truth: canonical-input materialization is no longer the active blocker. English remains NOT FROZEN; the lane now waits on the exact four owner visual files plus remaining bounded source polish, final human visual QA/back-entry simulation, representative physical proof and explicit owner freeze.
+PR #571 has since advanced through the source-polish lane to head `411eb5fa8a651dfe804b718af5cdf86038d0fe16`; verified implementation head `5560207f80fa8a1f1392ff782ee38920365ac798` has Build Detective Academy PDF #155 PASS and SEO Validation #675 PASS. The 146-page contract is now source-polish exhausted.
+Current truth: canonical-input materialization is no longer the active blocker. English remains NOT FROZEN; the lane now waits on the exact four owner visual files, then SHA-lock/integration, full human visual QA/back-entry simulation, representative physical proof and explicit owner freeze. Do not manufacture more source refactors while waiting.
 
 ## Open / requires future reconciliation
 
 ### Polish Localization PR #6 current merge conflict — 2026-09-23
-Immediately before the central continuity writes, live GitHub briefly reported PR #6 Draft/Open and `mergeable: true` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. After the Brain/Marketing continuity commits advanced `agency-agents/main`, live GitHub again reports `mergeable: false`. Localization Regression #31 remains the last recorded green branch-regression evidence.
+Immediately before the latest central continuity write, live GitHub briefly reported PR #6 Draft/Open and `mergeable: true` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. After `PROGRAM_REGISTRY.yml` v21 advanced `agency-agents/main`, live GitHub again reports `mergeable: false`. Localization Regression #31 remains the last recorded green branch-regression evidence.
 Current handling: record the conflict but do not destructively rebase, merge, or start full-book Detective Polish work. Reconcile the branch only in its authorized execution lane when useful; explicit English-source freeze remains the separate production gate.
+
+### Opinie PR #18 current merge conflict — 2026-09-23
+Live GitHub reports synthetic-only staging PR `riseshineevolve-source/riseshineevolve#18` Draft/Open and `mergeable: false` at unchanged head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`; the last recorded synthetic workflow evidence remains #63 PASS.
+Current handling: leave the synthetic lane parked and do not merge/rebase merely for status. No real case files, archives, embeddings, evidence or outputs may move remotely; the local/offline privacy boundary remains unchanged.
 
 ### Brand positioning phrases
 Both:
@@ -104,8 +108,8 @@ Search/indexing is time-sensitive.
 Current handling: repository decisions are durable; GSC/Bing/public-search measurements must be rechecked live.
 
 ### Mind Bloom compact docs lag current remote checkpoint
-Some older central portfolio/integration prose still describes pre-transfer execution ownership or pre-2A-3 remote state.
-Current handling: current Mind Bloom repository/PR, `PROGRAM_REGISTRY.yml`, latest durable Mind Bloom handoff/checkpoints, and this conflict record override stale prose until the next full documentation compaction. Phase 2A-3 migration `20260921071341_add_integration_ingest_staging_v0` is present remotely; Phase 2B provider implementation remains owner-gated and feature development is frozen by default.
+Some older central portfolio/integration prose still describes pre-transfer execution ownership or pre-2A-3 remote state, and `CURRENT_EXECUTION_HANDOFF.md` contains historical resume sections beneath the current Private V1 freeze header.
+Current handling: current Mind Bloom repository/PR, `PROGRAM_REGISTRY.yml`, latest durable Mind Bloom handoff/checkpoints, and this conflict record override stale prose until the next full documentation compaction. Phase 2A-3 migration `20260921071341_add_integration_ingest_staging_v0` is present remotely; post-freeze noindex/static-deployment hardening at head `fdbc2630d1dd196bbe7ebceafd4994f23377d699` passed Mind Bloom CI #83; Phase 2B provider implementation remains owner-gated and feature development remains frozen by default.
 
 ### Gentle Steps real-template fit surface unavailable in current automation toolset
 The verified 104-page published PDF master is present in connected Library and Week 1 source/text QA is green. The remaining gate explicitly requires overflow/fit of four Polish headings on the real designed template, not a proxy. Current Library access exposes parsed PDF content but does not expose an authorized raw-byte/editable template materialization path for deterministic replacement-text rendering.
