@@ -425,3 +425,33 @@ Use these as alternate narration tests over the same approved Detective creative
 "Give your child more than another activity book: a role in the story, a squad to join, and a case to crack."
 
 All five are under the 120-character VO limit and are grounded in canonical product mechanics/positioning. Test as distinct buyer-state angles rather than minor copy variants.
+
+
+## DETECTIVE AD 01 — FULL VO VARIANTS V2 — 2026-09-23
+
+Status: DRAFT TEST BANK / owner selection pending.
+Rule: every script is written end-to-end with the locked opening so later lines do not repeat the same idea.
+
+Locked opening for this reel:
+**"Thirty cases. One hidden mystery."**
+
+### V1 — Missing Detective / Ownership
+"Thirty cases. One hidden mystery. One detective is still missing: your child. They write their name on the badge, join the Happy Makers squad, and step into one unfolding investigation."
+
+### V2 — Category Break / Continuity
+"Thirty cases. One hidden mystery. This isn’t a collection of unrelated puzzles. Each case moves your child deeper into the same investigation, as a member of the Detective Academy squad."
+
+### V3 — Book Becomes Part of the Case
+"Thirty cases. One hidden mystery. The book isn’t just where the puzzles live—it becomes part of the investigation. Your child follows case files, clues, maps, and evidence as the story unfolds."
+
+### V4 — Parent Need / Screen-Free Without Homework
+"Thirty cases. One hidden mystery. Give your child something screen-free that feels like an adventure, not homework: a badge, a squad, case files, and one investigation to follow."
+
+### V5 — Gift / Experience
+"Thirty cases. One hidden mystery. Instead of another activity book, give your child a role to step into: the missing detective in a full-book case with a squad, evidence, and a final reveal."
+
+Claim-safety:
+- all variants rely only on canonical mechanics/positioning;
+- no promise that every child will love it;
+- no unsupported learning/behavior outcome;
+- no overstatement that every solved case becomes evidence later.
