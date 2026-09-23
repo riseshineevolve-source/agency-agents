@@ -33,13 +33,16 @@ detective_academy:
   repo: riseshineevolve-source/RISE.SHINE.EVOLVE
   pr: 571
   branch: feature/detective-book-factory
-  head: 4a529259032038ce58a0588b6abd19d0566eeca9
-  implementation_head: 4ce70c1ccb19b78e5aad58e63a2509ad72f28988
+  head: 411eb5fa8a651dfe804b718af5cdf86038d0fe16
+  implementation_head: 5560207f80fa8a1f1392ff782ee38920365ac798
+  project_checkpoint: tools/detective-book-factory/DETECTIVE_KDP_FINALIZATION_CHECKPOINT.md
+  project_checkpoint_status: V4_1_SOURCE_POLISH_COMPLETE_OWNER_VISUAL_GATE_OPEN_ENGLISH_NOT_FROZEN
   pr_state: draft_open_mergeable
-  latest_build_run: 153
-  latest_build_run_id: 35868784455
+  latest_build_run: 156
+  latest_build_run_id: 35883961446
   latest_build_conclusion: success
-  latest_seo_run: 671
+  latest_seo_run: 677
+  latest_seo_run_id: 35883961786
   latest_seo_conclusion: success
   locked_v4_source_pages: 145
   v4_1_final_target_pages: 146
@@ -76,15 +79,19 @@ detective_academy:
     - archive_signal_log_giant_zero_removed
     - explicit_upright_stop_hint_vault_solutions_divider_on_page_110
     - final_146_page_reverse_entry_contract_with_pages_1_109_unchanged
-  remaining_safe_source_work:
-    - diversify_11_case_specific_interludes_into_visibly_varied_deterministic_page_families
-    - make_book2_hook_cinematic_without_changing_locked_premise_or_owner_art
+    - eleven_case_specific_interludes_diversified_across_four_deterministic_grayscale_safe_families
+    - book2_hook_prepared_as_cinematic_archive_wake_v1_without_touching_owner_art
+  remaining_safe_source_work: none_asset_independent_source_polish_exhausted
   final_render_gate: EXACT_FOUR_OWNER_VISUAL_ASSETS
   expected_owner_visuals:
     - case03_photo_A.png
     - case03_photo_B.png
     - case03_solution.png
     - book2_archive_photo.png
+  owner_visual_discovery_2026_09_23:
+    exact_canonical_filenames_found_in_conversation_or_library: false
+    noncanonical_solution_like_library_images_seen: true
+    noncanonical_candidates_promoted_or_selected: false
   owner_visual_rules:
     regenerate: forbidden
     restyle: forbidden
@@ -92,7 +99,7 @@ detective_academy:
     silent_substitute: forbidden
     sha_lock_exact_files_before_final_render: required
     final_owner_review_path_fail_closed_without_all_four: required
-  next_safe_action: diversify_interludes_then_cinematic_book2_hook_then_wait_for_exact_four_owner_visuals_for_local_final_render_and_full_visual_back_entry_qa
+  next_safe_action: wait_for_exact_four_owner_visuals_then_run_bounded_four_asset_gate_sha_lock_case03_solution_integration_146_page_render_full_page_visual_qa_and_back_entry_simulation
   owner_gates:
     - exact_four_owner_visual_asset_delivery_and_lock
     - representative_physical_proof_and_owner_visual_approval
@@ -175,10 +182,12 @@ durable_repairs_completed:
   - detective_owner_audit_identity_navigation_certificate_signal_log_and_support_divider_contracts_synced
   - detective_final_target_reconciled_to_146_pages_with_locked_v4_source_preserved_at_145
   - detective_exact_four_owner_visual_gate_recorded_without_preapproval_or_art_generation
+  - detective_asset_independent_v4_1_source_polish_reconciled_complete_at_pr_head_411eb5fa8a651dfe804b718af5cdf86038d0fe16
+  - detective_live_ci_reconciled_to_build_156_and_seo_677_success
   - target_repo_existence_rechecked_live_both_absent_no_bootstrap
 
 next_safe_selection_rule:
-  - finish_detective_interlude_visual_diversity_and_cinematic_book2_presentation_without_touching_owner_art
+  - detective_source_side_work_is_exhausted_wait_for_exact_four_owner_visuals
   - final_detective_render_requires_exact_four_owner_visuals_and_fail_closed_sha_lock
   - never_regenerate_restyle_destructively_crop_or_silently_substitute_owner_visuals
   - do_not_start_detective_pl_before_explicit_english_freeze
