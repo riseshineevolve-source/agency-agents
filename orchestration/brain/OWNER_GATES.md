@@ -47,21 +47,30 @@ Cross-surface localization:
 - final brand-sensitive wording where two locked candidates remain unresolved remains an owner gate.
 
 ## Detective
-Resolved design gate:
-- final spatial visual standard is already owner-approved as **B — APPROVE WITH SMALL FIXES**,
-- mechanical ALL-15 scaling may proceed without another visual owner decision as long as locked geometry/logic and approved presentation rules are preserved,
-- do not reopen maps, Witness Boards, naming, clues or story architecture unless owner review identifies a concrete defect.
+Resolved map-system design gate:
+- the final spatial visual standard remains owner-approved as **B — APPROVE WITH SMALL FIXES**,
+- mechanical ALL-15 scaling and bounded presentation repair may proceed without reopening locked Shigai geometry/logic, maps, Witness Boards, naming, clues or story architecture unless a concrete defect is identified,
+- this closed map-system gate does **not** imply approval of newly introduced final visual assets.
 
-Current English source gate:
-- the exact 145-page V3 owner-review baseline at `d95847fe778850bd80c3a160185536677f04c580` passed production preflight/machine/logic checks, but independent owner-level review found bounded defects and it is **NOT freeze-ready**,
-- the bounded V3.1 correction source is implemented at `a6672269867cc27996fea3e9c12de1e3660a25ad`; English remains **NOT FROZEN**,
-- Build #98 being green does **not** constitute full V3.1 artifact verification: the current workflow compiles the V3.1 builder but builds the generic editorial preview rather than executing the complete V3.1 owner-review render,
-- before physical proof, V3.1 still requires a complete render from canonical master/runtime/maps, production preflight + machine audit, 30/30 logic confirmation, 15/15 spatial uniqueness confirmation, complete/focused page review and print-scale preview coverage,
-- representative physical proof and owner visual approval remain required after those machine/full-PDF gates,
-- the English source may be frozen only by a separate explicit owner decision,
+Current English source / artifact gate:
+- PR #571 current head is `3addc38cb2db422fa0d3d6472b067530217ce9e4`; English remains **NOT FROZEN**,
+- the V4.1 source now includes the deterministic finalizer, print-typography QA and fail-closed final-artifact audit for the required 145-page artifact,
+- Build Detective Academy PDF #136 and SEO Validation #637 are green on the current head, but green CI does **not** substitute for a complete audited V4.1 owner-review artifact,
+- the real 145-page V4.1 render is currently blocked on access to materializable canonical Shigai/runtime/final-map inputs; the authoritative native checkpoint is `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json`,
+- do **not** reconstruct, approximate or reinterpret verified Shigai geometry from truncated/minified text or incomplete derived assets merely to clear this gate,
+- once canonical materializable inputs are available, complete the V4.1 final render + fail-closed final-artifact audit, fix only concrete presentation defects, run independent full-PDF review and representative physical proof,
+- the English source may be frozen only by a separate explicit owner decision after the artifact/proof gates pass,
 - cover work is independent of the English interior/source freeze.
 
+New bounded visual owner gates:
+- **Case 03 exact 10-difference visual:** final candidate selection/approval is owner-controlled; exploratory attempts may not be silently selected, committed or promoted,
+- **Book 2 archival-hook visual:** final candidate selection/approval is owner-controlled; exploratory attempts may not be silently selected, committed or promoted,
+- builders/checkpoints must remain fail-closed for these slots until an explicit owner-locked manifest/hash exists.
+
 Remaining release owner gates:
+- Case 03 exact 10-difference visual approval,
+- Book 2 archival-hook visual approval,
+- owner visual / representative physical-proof approval,
 - final cover/proof,
 - explicit English source freeze,
 - pricing,
