@@ -481,3 +481,20 @@ Alternative hooks to test:
 5. "Most puzzle books give answers. This one gives your child a place in the investigation."
 
 Use "30 cases / one hidden mystery" as supporting proof on screen or in the second sentence, not necessarily as the first spoken words.
+
+
+## DETECTIVE AD 01 — TWO-VIDEO OWNER REVIEW — 2026-09-23
+
+Owner supplied two finished candidate reels:
+- `looking for a screen free.mp4` — 17.48s
+- `There is one place left 1.mp4` — 17.20s
+
+Marketing Orchestrator review:
+- Primary recommendation: `There is one place left 1.mp4` because the opening is product-owned and specific to the reader-as-detective mechanic rather than a generic screen-free parent hook.
+- Secondary A/B variant: `looking for a screen free.mp4` for parent-need / screen-free targeting.
+
+Required defect check before primary use:
+- `There is one place left 1.mp4` contains an intermediate visual reading `THE MYSTERY STARTER PACK`; this is not the current product title and should be removed/replaced before live launch use.
+
+Do not rebuild either reel from scratch. Treat this as final-polish / A-B packaging, not a new production cycle.
+Status: RECOMMENDATION ONLY — owner selection pending.
