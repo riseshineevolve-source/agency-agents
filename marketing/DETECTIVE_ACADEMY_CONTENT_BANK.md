@@ -349,9 +349,21 @@ Film: `DETECTIVES BOOK COVER LONGER.mp4` (~16.44s)
 
 Use:
 - opening VO: **"Thirty cases. One hidden mystery."**
-- final CTA-card VO: **"Screen-free, engaging, and built to keep kids thinking—with hints when they’re stuck and solutions that explain why."**
+- final CTA-card VO: **"A screen-free mystery adventure they’ll actually want to solve—more than a puzzle book, it’s a case they get to enter."**
 
 Do not repeat "30 connected cases / one big mystery" in the final VO because that differentiation is already established earlier in the film and visually on the CTA card.
 
 Final CTA visual remains parent-facing:
 **VIEW ON AMAZON**
+
+
+### Final parent-facing CTA VO rationale — 2026-09-23
+This CTA-card VO is intentionally parent-facing and avoids repeating the already-established "30 cases / one mystery" hook.
+It closes the two dominant conversion objections from canonical strategy:
+- "Will my child actually want to do this?"
+- "Is this just another workbook/puzzle book?"
+
+Locked line:
+**"A screen-free mystery adventure they’ll actually want to solve—more than a puzzle book, it’s a case they get to enter."**
+
+This leads with adventure/agency, keeps education as supportive proof rather than the promise, and matches the canonical parent promise + gifting/product-differentiation direction.
