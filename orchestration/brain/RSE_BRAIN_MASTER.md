@@ -421,18 +421,22 @@ Locked presentation direction:
 - aliases are presentation-only and may never alter puzzle identity, clues, topology, answers or solution logic.
 
 Current V4.1 state:
-- PR #571 head `3addc38cb2db422fa0d3d6472b067530217ce9e4`;
-- Build Detective Academy PDF #136 PASS and SEO Validation #637 PASS;
-- deterministic finalizer, print-typography QA and fail-closed 145-page final-artifact audit are present in source;
-- English is **NOT FROZEN**;
-- real 145-page V4.1 render is blocked on materializable canonical Shigai/runtime/final-map inputs; authoritative native checkpoint is `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json`;
-- never reconstruct, approximate or reinterpret verified Shigai geometry from truncated/minified text or incomplete derived assets.
+- PR #571 head `a5fab13da7e90a9ea99d57d7082fb2f701d67073`;
+- Build Detective Academy PDF #148 PASS and SEO Validation #661 PASS;
+- deterministic finalizer, reverse-entry engine, print-typography QA, grayscale audit, fail-closed final-artifact audit and locked-V4 spatial recovery bridge are present in source;
+- the earlier canonical-input materialization blocker is closed; verified Shigai geometry still must never be reconstructed, approximated or reinterpreted;
+- bounded source-side polish remains active: explicit STOP / HINT VAULT boundary if required, parity-interlude diversification, cinematic Book 2 hook presentation, and final human visual QA/back-entry simulation on the exact artifact;
+- English is **NOT FROZEN**.
 
-The historical ALL-15 map-system design gate remains closed. Two newly introduced bounded final visuals are separate owner gates and may not inherit that approval:
-- Case 03 exact 10-difference visual selection/approval;
-- Book 2 archival-hook visual selection/approval.
+The historical ALL-15 map-system design gate remains closed. The current bounded owner-visual gate expects exactly four final owner files:
+- `case03_photo_A.png`,
+- `case03_photo_B.png`,
+- `case03_solution.png`,
+- `book2_archive_photo.png`.
 
-Exploratory visual candidates must not be silently selected, committed or promoted. Resume finalization only after canonical inputs are materializable, then run the full V4.1 render/audit, fix concrete presentation defects only, complete independent full-PDF review and representative physical proof. Final visual/proof approval, explicit English source freeze, final cover/proof, pricing and KDP publication remain owner-controlled.
+Those files may not inherit the historical map-system approval. Exploratory visual candidates must not be silently selected, committed or promoted, and owner-supplied final files must not be regenerated, restyled, destructively cropped or silently substituted. Once all four exact files are supplied, the final pass must SHA-lock them, extend validation to all four, integrate the exact Case 03 solution asset, fail closed on mismatch, complete the exact final render/audit, independent full-PDF review and representative physical proof.
+
+Current owner action required: **none until the four final visual files are ready**. Final visual/proof approval, explicit English source freeze, final cover/proof, pricing and KDP publication remain owner-controlled.
 
 English release candidate first, strict preflight, then Polish only after explicit English freeze.
 
@@ -458,6 +462,7 @@ Current source-manager truth:
 - approved art must not be "improved for consistency" automatically.
 - old Book Creator roster containing duck/red panda/chameleon/old slot is superseded.
 - final PDF must use only the canonical final-source folder after owner promotion.
+- PR #14 head `56dd2599ce13d6edd6e97c422b56835c85d2af9c` hardens the owner-gated FINAL20 contract; Optical Book Creator quality #18 is green.
 
 ## 14. Senior / Hello Today
 
