@@ -144,3 +144,24 @@ Until one exists, current chat assets can be used for the first owner-review pac
 
 This engine prepares organic and paid-test-ready creative.
 It does NOT activate spend, set/change budget, set price, create discounts, or publish KDP without owner approval.
+
+
+## Durable asset library
+
+Private Google Drive folder:
+https://drive.google.com/drive/folders/1wwIf3dqHVuXWC6zL_49wBz-tMoXzlFNx
+
+Structure:
+- 00_FINAL_CURRENT
+- 01_REELS_VIDEO
+- 02_STATIC_ADS_WORKING
+- 03_SOURCE_REFERENCES
+- 04_OWNER_REVIEW_PACKET
+
+Current final-cover assumption:
+- use current approved-looking cover assets for content production now;
+- if the actual KDP cover changes, replace visible cover mockups before scheduling/publishing;
+- do not reopen the campaign strategy merely because the final cover changes.
+
+First batch review packet:
+`marketing/DETECTIVE_FIRST_7D_OWNER_REVIEW_PACKET.md`
