@@ -1,6 +1,6 @@
 # RSE Conflict Log
 
-Last reconciled: 2026-09-22
+Last reconciled: 2026-09-23
 
 ## Resolved
 
@@ -72,6 +72,11 @@ Live GitHub now reports PR #18 Draft/Open and `mergeable: true` at the same head
 Current truth: the branch-conflict blocker is CLOSED at this checkpoint. No merge or remote real-data action is implied; dedicated-repo migration remains pending because the target repo does not yet exist.
 
 ## Open / requires future reconciliation
+
+### Detective V4.1 canonical-input materialization blocker — 2026-09-23
+PR `riseshineevolve-source/RISE.SHINE.EVOLVE#571` is Draft/Open/Mergeable at head `3addc38cb2db422fa0d3d6472b067530217ce9e4`; Build Detective Academy PDF #136 and SEO Validation #637 are green. The V4.1 finalizer, deterministic typography QA and fail-closed 145-page final-artifact audit are present in source.
+The remaining real-artifact render is blocked in the current automation environment because the authoritative native checkpoint `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json` cannot be materialized as raw bytes here and the required derived runtime/final-map rasters are not present on the branch. Parsed/minified text is not an acceptable substitute.
+Current handling: **do not reconstruct, approximate or reinterpret verified Shigai geometry**. Resume the final 145-page V4.1 render only in an approved local/materializable canonical-source environment, then run the finalizer + fail-closed artifact audit, independent full-PDF review and representative physical proof. This is an input-access blocker, not an established product regression; English remains NOT FROZEN.
 
 ### Polish Localization PR #6 current merge conflict — 2026-09-22
 After the latest canonical Brain/Marketing continuity updates advanced `agency-agents/main`, live GitHub reports PR #6 Draft/Open and `mergeable: false` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Localization Regression #31 remains the last recorded green branch regression evidence.
