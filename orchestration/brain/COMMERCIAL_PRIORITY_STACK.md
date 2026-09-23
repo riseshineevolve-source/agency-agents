@@ -2,18 +2,18 @@
 
 Status: **CANONICAL**
 Owner decision: 2026-09-21
-Last execution-state sync: 2026-09-22
+Last execution-state sync: 2026-09-23
 Applies to: central RSE Orchestrator, Brain Sync, Day/Night/24-7 shift, marketing synchronization, Codex budget governor.
 
 ## Priority order
 
 | Priority | Project | Business reason | Current execution rule |
 |---|---|---|---|
-| **#1** | **Happy Makers Detective Academy EN -> KDP** | Closest path to real revenue and does not depend on DUNS or Google Play. | **V3.1 bounded correction layer IMPLEMENTED IN SOURCE** at `a6672269867cc27996fea3e9c12de1e3660a25ad`, directly on the independently audited 145-page V3 baseline `d95847fe778850bd80c3a160185536677f04c580` / PDF SHA-256 `994db4ec8b2bc4f95e351b40646add51e55bc71b29379217be15b1752a6d6eb8`. Build Detective Academy PDF #98 PASS proves the V3.1 builder compiles and the normal generic editorial pipeline remains green, but that workflow does **not** execute `build_owner_review_v31.py`; therefore it is **not** evidence of a complete V3.1 PDF render or owner-level full-PDF visual verification. The exact locked Shigai checkpoint `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json` is durably available in the owner Library and materializes with the required SHA-256 `cdc6de5b60117fe19e89fc4a13e2b9c1d92657f5e7fdb8ec69a18ae85ba8723e`. Next safe slice: complete V3.1 render from the canonical 30-case master/runtime/maps, normal preflight + machine audit, 30/30 logic and 15/15 unique-spatial reconfirmation, every-page/focused visual review, print-scale previews/contact sheets, then representative physical proof. EN remains **NOT FROZEN**. Do not reopen accepted puzzle logic, Shigai geometry, Witness Boards, naming/aliases, five-act narrative or Room Zero mechanics. Remaining owner-controlled gates after verification: owner visual/physical-proof approval, explicit EN source freeze, final cover, pricing and KDP upload/publication. |
+| **#1** | **Happy Makers Detective Academy EN -> KDP** | Closest path to real revenue and does not depend on DUNS or Google Play. | Current PR #571 head `3addc38cb2db422fa0d3d6472b067530217ce9e4` has the V4.1 deterministic finalizer, print-typography QA and fail-closed 145-page final-artifact audit in source. Build Detective Academy PDF #136 PASS and SEO Validation #637 PASS. English remains **NOT FROZEN**. The real 145-page V4.1 artifact is currently blocked on materializable canonical Shigai/runtime/final-map inputs: authoritative native checkpoint `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json` exists, but raw-byte materialization is unavailable in the current automation environment and required derived runtime/final-map rasters are not on the branch. **Do not reconstruct or approximate verified Shigai geometry.** Next safe slice: obtain approved materializable canonical inputs -> complete V4.1 final render + fail-closed artifact audit -> fix only concrete presentation defects -> independent full-PDF review + representative physical proof. The earlier ALL-15 map-system design gate remains closed, but two new bounded visual gates are owner-controlled: Case 03 exact 10-difference visual and Book 2 archival-hook visual. Exploratory candidates must not be silently selected/committed/promoted. Final visual/proof approval, explicit EN source freeze, cover, pricing and KDP upload/publication remain owner gates. |
 | **#2** | **Happy Makers Detective Academy PL -> KDP Poland** | Immediate second commercial edition after the English source is explicitly frozen; reuses the validated book and Polish Localization Engine. | `rse/polish-localization-engine-v1`, PR #6. Production infrastructure below gates is complete and green; current live PR head is `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Full-book Detective PL is blocked until explicit owner English-source freeze. Do not spend further high-cost reasoning on speculative engine work while frozen. |
 | **#3** | **24 Gentle Steps to Christmas** | Seasonal window is time-sensitive for Q4/Christmas. | Week 1 regression PASS and source-side spot-check PASS. Remaining promotion gate is real-template overflow/fit for the four longest Polish headings. Do not treat proxies as final fit evidence and do not shrink body text merely to rescue headings. |
 | **#4** | **Optical Animals** | Strong giftable KDP product once remaining visual and production-input gates close. | **Book Factory V2 tooling COMPLETE** through `3e9b6b66e9c56041c368a7ac096e157d8ba3b532`: multi-volume schema, deterministic couture seek-and-find, new-volume bootstrap, owner proof/release package and green factory tests. Current PR #14 head may advance with owner-authored art-direction/docs; live head as of this sync is `a4701af82ca8b63e7d78aeb84f0b7ef76cca337d`. Do **not** schedule more factory architecture/refactors. Preserve 12 approved visuals and 8 owner-gated selections. Wait for owner art decisions, source-linked tokens, print-resolution derivatives/upscale, owner proof and final lock. |
-| **#5** | **RSE Consumer App Factory / Google Play apps** | Strategically important shared infrastructure, but external Google/DUNS/Play dependencies reduce near-term revenue value. | Planned safe repository-side slice is complete. Production deployment and product-source decisions are owner-gated. Do not invent architecture work merely to keep the lane active. |
+| **#5** | **RSE Consumer App Factory / Google Play apps** | Strategically important shared infrastructure, but external Google/DUNS/Play dependencies reduce near-term revenue value. | Candidate migration contract + hardened deterministic schema/policy drift gate are complete and green in the synthetic-only branch; checkpoint CI run `35655936834` PASS. No live backend was contacted and no deployment is authorized. No further repository-side slice is selected: wait for owner-approved real product source and/or deployment decision rather than inventing architecture work. |
 | **parallel below gates** | **Senior / Happy Me / Opinie / AI Discovery / Website** | Important programs but not the current primary revenue unlock. | Senior source-side release hardening is exhausted at external/device/legal gates; Happy Me is parked at Supabase/Play/real-device gates; continue only concrete safe work when a real new unblock appears. |
 
 ## Frozen / non-active commercial lane
@@ -41,9 +41,9 @@ Default to lighter Codex routing for deterministic implementation and verificati
 
 Use deterministic GitHub/connectors/scripts/tests before Codex. Avoid duplicate archaeology, broad rereads, status-only work, unnecessary CI and multiple writers in one worktree.
 
-## Detective owner decision — CLOSED
+## Detective owner decision — map system CLOSED; bounded new visual gates OPEN
 
-Previous map-system owner gate is resolved.
+Previous ALL-15 map-system owner gate is resolved.
 
 Owner decision:
 **B — APPROVE WITH SMALL FIXES**
@@ -61,7 +61,7 @@ Locked implementation direction:
 - deterministic alias layer may change presentation names only and must never change puzzle identity, clue meaning, topology, answer or solution logic;
 - examples of naming style include Nova, Echo, Blaze, Clover, Scout and Pixel, but per-case names must remain distinct and immediately readable.
 
-No further owner design gate is required for the implemented ALL-15 system. Current engineering state is the bounded V3.1 source pass recorded in Priority #1 above; full V3.1 artifact verification and physical proof remain mandatory before any English freeze.
+No further owner design gate is required for the implemented ALL-15 map system while its locked geometry/logic and approved presentation rules are preserved. That historical approval does **not** auto-approve newly introduced bounded final visuals. The Case 03 exact 10-difference visual and Book 2 archival-hook visual each require explicit owner selection/approval and a locked manifest/hash before promotion. Full V4.1 artifact verification and representative physical proof remain mandatory before any English freeze.
 
 ## Detective positioning lock
 
