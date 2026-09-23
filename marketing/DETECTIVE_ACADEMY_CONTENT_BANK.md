@@ -367,3 +367,23 @@ Locked line:
 **"A screen-free mystery adventure they’ll actually want to solve—more than a puzzle book, it’s a case they get to enter."**
 
 This leads with adventure/agency, keeps education as supportive proof rather than the promise, and matches the canonical parent promise + gifting/product-differentiation direction.
+
+
+## DETECTIVE AD 01 — CLAIM-SAFE FINAL VO OPTIONS — 2026-09-23
+
+After claim-level review against canonical product positioning, avoid:
+- "This book doesn't give your child puzzles" — literally false because the product contains puzzle/case activities.
+- "Solved cases become evidence later" as a universal statement — too broad; safer to say earlier evidence/clues can matter again later.
+
+Claim-safe options under the 120-character voice-over limit:
+
+A. **"Your child joins the Detective Academy squad, solves connected cases, and discovers that some clues matter again later."**
+B. **"Your child enters one book-long detective adventure, solving case files where earlier evidence can matter again later."**
+
+Both are grounded in locked product mechanics:
+- reader joins the squad / missing detective mechanic,
+- one book-long mystery,
+- interconnected case progression,
+- earlier evidence may become relevant later.
+
+Use these instead of broader outcome or satisfaction claims.
