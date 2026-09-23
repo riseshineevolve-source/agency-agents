@@ -194,11 +194,11 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: v4_1_final_pipeline_ready_canonical_input_materialization_blocked
+    status: v4_1_final_pipeline_current_head_ready_waiting_owner_4_visual_assets_and_local_canonical_render
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
-    current_head: 3addc38cb2db422fa0d3d6472b067530217ce9e4
+    current_head: f20272ce80e876c06e00c7400e4ca247c76f2056
     locked_modules: 15
     local_all15_pass: true
     local_all15_count: 15_of_15
@@ -230,10 +230,10 @@ programs:
     authoritative_shigai_checkpoint: HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json
     canonical_input_materialization_status: BLOCKED_CURRENT_AUTOMATION_ENVIRONMENT
     shigai_reconstruction_or_approximation_allowed: false
-    case03_exact_10_difference_visual_owner_approved: false
-    book2_archival_hook_visual_owner_approved: false
+    case03_exact_10_difference_visual_owner_approved: pending_final_4_asset_delivery
+    book2_archival_hook_visual_owner_approved: pending_final_4_asset_delivery
     exploratory_visual_auto_selection_allowed: false
-    next_execution_mode: resolve_canonical_materializable_inputs_then_render_and_audit_full_145_page_v4_1_then_fix_only_concrete_presentation_defects_then_owner_visual_gates_and_physical_proof
+    next_execution_mode: owner_supplies_4_final_assets_then_local_codex_integrates_exact_assets_runs_canonical_v4_1_render_full_audit_and_owner_packet_no_push
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
     final_interior_blocker: canonical_shigai_runtime_final_map_materialization_then_full_artifact_verification_physical_proof_and_explicit_owner_freeze
     hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
