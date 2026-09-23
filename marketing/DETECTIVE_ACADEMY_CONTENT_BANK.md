@@ -277,3 +277,21 @@ adult female, premium / intriguing / confident, natural not theatrical; approx. 
 
 Production:
 animate stills with simple controlled motion; no complex generative character animation required. Replace the hero file only if the final published KDP cover differs from the current reference.
+
+
+## DETECTIVE AD 01 — FIRST RENDER REVIEW — 2026-09-23
+
+Owner supplied first 10.28s vertical render: `detectives final key.mp4`.
+
+Observed:
+- 1080x1920, approx. 10.28s.
+- Scene order works: modern Academy group -> child detective close-up -> key / Academy exterior.
+- Core message appears clearly: `30 cases. One hidden mystery.` then `The book itself is evidence. Your child becomes the missing detective.`
+- Visual direction is modern/premium enough and materially better aligned than old-school detective styling.
+- No need to rebuild the concept.
+
+Before using as direct KDP sales creative:
+- replace the soft end line `Unlock the Secret` with a verified live-listing CTA such as `JOIN THE ACADEMY — VIEW ON AMAZON` once the KDP listing URL is live.
+- do not rerender other scenes unless a specific production defect is found.
+
+Status: CREATIVE STRUCTURE APPROVED FOR LIVE-LISTING FINALIZATION; CTA still pending verified KDP listing.
