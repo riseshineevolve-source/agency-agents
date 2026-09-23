@@ -64,14 +64,16 @@ Do not wait for Google Play/DUNS to monetize KDP-ready products.
 
 ## Current Detective truth
 
-The English interior has advanced materially inside the bounded V4.1 finalization workstream, but it is still **NOT FROZEN**:
+The English interior has completed the asset-independent V4.1 source-polish lane, but it is still **NOT FROZEN**:
 - PR #571 is Draft / Open / Mergeable
-- current remote head `a5fab13da7e90a9ea99d57d7082fb2f701d67073`
-- canonical story/logic/spatial geometry remains protected; the V4.1 layer must not reopen the locked 30-case logic, five-act story, Detective Six premise, Room Zero mechanism, Naming B, numeric witness IDs or verified Shigai geometry
-- the deterministic V4.1 finalizer, reverse-entry engine, print-typography QA, grayscale audit, fail-closed final-artifact audit and locked-V4 spatial recovery bridge are present in source
-- Build Detective Academy PDF #148 PASS and SEO Validation #661 PASS on the current head
+- current checkpoint head `411eb5fa8a651dfe804b718af5cdf86038d0fe16`
+- verified implementation head `5560207f80fa8a1f1392ff782ee38920365ac798`
+- Build Detective Academy PDF #155 PASS and SEO Validation #675 PASS at the verified implementation head
+- the physical contract is now 146 pages
+- exact Field Detective ID/call-sign corrections, Case Wall/Evidence Log onboarding, the page-110 Hint Vault/Solutions divider, Signal Log/Witness Board/finale/certificate polish, grayscale/typography fail-closed QA, Case 26 generated-map references, and four deterministic case-parity visual families are present
+- canonical story/logic/spatial geometry remains protected; do not reopen the locked 30-case logic, five-act story, Detective Six premise, Room Zero mechanism, Naming B, numeric witness IDs or solved Shigai geometry
 - the earlier canonical Shigai/runtime/final-map materialization blocker is closed; verified Shigai geometry must still never be reconstructed or approximated
-- bounded source-side polish remains active below owner gates
+- asset-independent source polish is exhausted; do not manufacture additional refactors or repeated audits while waiting for the owner visuals
 - English source remains **NOT FROZEN**
 
 The exact final owner visual set is expected to contain exactly four files:
@@ -82,7 +84,7 @@ The exact final owner visual set is expected to contain exactly four files:
 
 Do not pre-approve, synthesize, regenerate, restyle, destructively crop or silently substitute any of those final owner files. When all four exact files are supplied, the product final pass must extend the fail-closed gate to all four, SHA-lock them and integrate the exact `case03_solution.png` into the Case 03 solution slot.
 
-The next safe product sequence is: continue bounded source-side polish independent of final owner assets -> receive all four exact owner files -> SHA-lock/integrate them -> render/audit the exact final artifact -> independent full-PDF visual review + back-entry simulation -> representative physical proof -> final visual approval -> separate explicit English source freeze.
+The next safe product sequence is: wait for all four exact owner files -> SHA-lock/integrate them -> render/audit the exact final artifact -> independent full-PDF visual review + back-entry simulation -> representative physical proof -> final visual approval -> separate explicit English source freeze.
 
 Marketing must not describe the interior as final/frozen or announce a publication-ready date before those gates and explicit owner approval.
 
