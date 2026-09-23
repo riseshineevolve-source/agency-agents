@@ -1,4 +1,4 @@
-version: 19
+version: 20
 updated: 2026-09-23
 brain_status: canonical
 global:
@@ -169,21 +169,21 @@ programs:
     central_autopilot_merge_pr: 11
     central_autopilot_merge_commit: b0855350071d9df7654e0bc87a73ab5098489642
     dedicated_handoff_status: durable_ready_for_fresh_chat_recovery
-    latest_reconciled_detective_head: 3addc38cb2db422fa0d3d6472b067530217ce9e4
+    latest_reconciled_detective_head: a5fab13da7e90a9ea99d57d7082fb2f701d67073
     detective_english_frozen: false
     next_gate: owner_review_first_live_batch_then_routine_organic_autopilot
   polish_localization:
-    status: detective_calibrated_second_commercial_priority_merge_conflict_owner_frozen
+    status: detective_calibrated_second_commercial_priority_owner_frozen_mergeable_clean
     branch: rse/polish-localization-engine-v1
     repo: riseshineevolve-source/agency-agents
     pr: 6
-    registry_note: PR 6 remains Draft/Open at head f9d9386 with Localization Regression #31 green; after central continuity updates on 2026-09-22 live GitHub reports mergeable false; do not destructively rebase or merge, and no full Detective translation is authorized before explicit English source freeze
+    registry_note: PR 6 remains Draft/Open at head f9d9386 with Localization Regression #31 green; live GitHub on 2026-09-23 reports mergeable true; do not merge merely because the branch is clean, and no full Detective translation is authorized before explicit English source freeze
     full_book_scaleout_authorized: false
     detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
     detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
     detective_branch_head: f9d938611661f74108bdafa1df6ac8de1aaa27f1
-    branch_reconcile_status: MERGE_CONFLICT_RECORDED_NO_DESTRUCTIVE_REBASE_OR_MERGE
-    pr_mergeable: false
+    branch_reconcile_status: CLEAN_MERGEABLE_NO_MERGE_OWNER_FROZEN
+    pr_mergeable: true
     regression_local_2026_09_21: PASS_37159_chars_7_fixtures
     production_contracts_and_invariant_gates: PASS
     gentle_steps_source_spot_check: PASS
@@ -194,22 +194,22 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: v4_1_final_pipeline_current_head_ready_waiting_owner_4_visual_assets_and_local_canonical_render
+    status: v4_1_source_polish_active_owner_visual_gate_open_english_not_frozen
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
     pr: 571
-    current_head: f20272ce80e876c06e00c7400e4ca247c76f2056
+    current_head: a5fab13da7e90a9ea99d57d7082fb2f701d67073
     locked_modules: 15
     local_all15_pass: true
     local_all15_count: 15_of_15
     local_hardening_commit: d5e1507
     local_hardening_push_status: pushed_reconciled_remote_pass
-    latest_build_ci_run: 144
+    latest_build_ci_run: 148
     latest_build_ci_conclusion: PASS
     all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
-    final_english_interior: V4_1_FINALIZER_AND_FAIL_CLOSED_AUDIT_SOURCE_READY_NOT_FROZEN
-    final_english_pdf: BLOCKED_PENDING_CANONICAL_MATERIALIZABLE_RUNTIME_AND_FINAL_MAP_INPUTS
-    final_page_count: 145
+    final_english_interior: V4_1_SOURCE_POLISH_ACTIVE_OWNER_VISUAL_GATE_OPEN_NOT_FROZEN
+    final_english_pdf: PENDING_EXACT_4_OWNER_VISUALS_REMAINING_SOURCE_POLISH_FULL_VISUAL_QA_AND_PHYSICAL_PROOF
+    final_page_count: 145_or_146_only_if_dedicated_reverse_help_divider_required
     v3_pdf_sha256: 994db4ec8b2bc4f95e351b40646add51e55bc71b29379217be15b1752a6d6eb8
     independent_v3_audit: HISTORICAL_BASELINE_SUPERSEDED_BY_V4_V4_1
     v3_p0_map_overlap_pages: [15,27,39,49,55,63,69,73,81,85,103]
@@ -217,25 +217,30 @@ programs:
     v31_correction_doc: tools/detective-book-factory/docs/V31_CORRECTION_PASS.md
     v31_correction_source_status: SUPERSEDED_BY_V4_V4_1
     v31_full_pdf_verification: SUPERSEDED_BY_V4_V4_1_PIPELINE
-    kdp_preflight: V4_1_FINAL_ARTIFACT_REQUIRES_REAL_145_PAGE_RENDER_AND_AUDIT
+    kdp_preflight: V4_1_FINAL_ARTIFACT_REQUIRES_EXACT_OWNER_VISUALS_FULL_AUDIT_HUMAN_QA_AND_PHYSICAL_PROOF
     print_scale_previews: 145
     spatial_owner_review_spreads: 15_of_15_PASS
-    latest_verified_build_run: 144
+    latest_verified_build_run: 148
     latest_verified_build_conclusion: success
-    latest_verified_seo_run: 653
+    latest_verified_seo_run: 661
     latest_verified_seo_conclusion: success
     english_source_frozen: false
-    v4_1_source_state: FINALIZER_TYPOGRAPHY_QA_AND_FAIL_CLOSED_FINAL_ARTIFACT_AUDIT_READY
+    v4_1_source_state: FINALIZER_REVERSE_ENTRY_TYPOGRAPHY_GRAYSCALE_AND_FAIL_CLOSED_AUDIT_WITH_LOCKED_V4_SPATIAL_RECOVERY_BRIDGE
     v4_1_owner_gate_ready: false
     authoritative_shigai_checkpoint: HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json
-    canonical_input_materialization_status: BLOCKED_CURRENT_AUTOMATION_ENVIRONMENT
+    canonical_input_materialization_status: RESOLVED_CURRENT_SOURCE_RECOVERY_BRIDGE
     shigai_reconstruction_or_approximation_allowed: false
+    owner_visual_expected_files:
+      - case03_photo_A.png
+      - case03_photo_B.png
+      - case03_solution.png
+      - book2_archive_photo.png
     case03_exact_10_difference_visual_owner_approved: pending_final_4_asset_delivery
     book2_archival_hook_visual_owner_approved: pending_final_4_asset_delivery
     exploratory_visual_auto_selection_allowed: false
-    next_execution_mode: owner_supplies_4_final_assets_then_local_codex_integrates_exact_assets_runs_canonical_v4_1_render_full_audit_and_owner_packet_no_push
+    next_execution_mode: continue_bounded_source_polish_independent_of_owner_assets_then_owner_supplies_exact_4_files_SHA_lock_integrate_render_audit_owner_packet_no_push
     asset_sync_script: tools/detective-book-factory/scripts/sync_brand_assets.py
-    final_interior_blocker: canonical_shigai_runtime_final_map_materialization_then_full_artifact_verification_physical_proof_and_explicit_owner_freeze
+    final_interior_blocker: exact_4_owner_visuals_plus_remaining_source_polish_full_visual_QA_physical_proof_and_explicit_owner_freeze
     hmda_07_source_rooms_0_4_label_state: explicit_reference_auto_two_page_reference
     local_dirty_worktree_protection: true
     source_label_fallback_contract: tools/detective-book-factory/SOURCE_LABEL_FOOTPRINT_CONTRACT.md
@@ -244,7 +249,7 @@ programs:
     kdp_positioning_lock: marketing/detective-academy-kdp-positioning.md
     commercial_priority_rank: 1
     visual_gate_decision: B_APPROVE_WITH_SMALL_FIXES
-    visual_gate_status: MAP_SYSTEM_GATE_CLOSED_NEW_CASE03_AND_BOOK2_VISUAL_GATES_OPEN_FINAL_ARTIFACT_NOT_READY
+    visual_gate_status: MAP_SYSTEM_GATE_CLOSED_EXACT_4_OWNER_VISUAL_GATE_OPEN_SOURCE_POLISH_ACTIVE_FINAL_ARTIFACT_NOT_READY
     naming_direction: branded_academy_adventure
     mechanical_all15_design_gate_required: false
     owned_category: book_long_detective_adventure_reader_is_missing_detective
@@ -257,22 +262,23 @@ programs:
     repo: riseshineevolve-source/riseshineevolve
     branch: mobile/mobile-first-rebuild
   optical_animals:
-    status: owner_gated_factory_v2_green_art_lock_active
+    status: owner_gated_factory_v2_green_art_lock_active_final20_contract_hardened
     repo: riseshineevolve-source/riseshineevolve
     branch: feat/optical-animals-book-creator
     pr: 14
-    current_head: a4701af82ca8b63e7d78aeb84f0b7ef76cca337d
+    current_head: 56dd2599ce13d6edd6e97c422b56835c85d2af9c
     approved_visuals: 12
     unresolved_visuals: 8
     approved_originals_hash_preserved: true
     hardening_tests: 30_PASS
     synthetic_preview_pdf: 28_pages_300dpi_PASS
     deterministic_package_hashes: PASS
-    latest_quality_ci_run: 16
+    latest_quality_ci_run: 18
     latest_quality_ci_conclusion: PASS
     factory_v2: generic_multi_volume_ready_below_owner_art_gates
     art_direction_v2: tools/optical-book-creator/OPTICAL_ART_DIRECTION_V2.md
     art_direction_status: ACTIVE_COLLECTION_ART_LOCK
+    final20_contract_hardened: true
     candidate_auto_promotion: false
     production_target_pixels: 2550x3300
     present_originals_below_production_target: 12
