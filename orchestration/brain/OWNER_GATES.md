@@ -53,9 +53,11 @@ Resolved map-system design gate:
 - this closed map-system gate does **not** imply approval of newly introduced final visual assets.
 
 Current English source / artifact gate:
-- PR #571 current head is `411eb5fa8a651dfe804b718af5cdf86038d0fe16`; English remains **NOT FROZEN**,
+- PR #571 current head is `bbee26828777dd5939d5ec8190bc166179ee603d`; English remains **NOT FROZEN**,
 - the V4.1 source includes the deterministic finalizer, reverse-entry engine, print-typography QA, grayscale audit, fail-closed final-artifact audit, locked-V4 spatial recovery bridge, dedicated page-110 STOP / HINT VAULT divider, diversified case-specific interludes, and cinematic Book 2 presentation surface,
-- Build Detective Academy PDF #156 and SEO Validation #677 are green on the current head, but green CI does **not** substitute for a complete audited owner-review artifact and physical proof,
+- Build Detective Academy PDF #161 and SEO Validation #687 are green on the current head, but green CI does **not** substitute for a complete audited owner-review artifact and physical proof,
+- the five commits after `411eb5fa8a651dfe804b718af5cdf86038d0fe16` add only isolated modern-prop presentation scaffolding (contract, template catalog/assets, fail-closed validators and a cell-confined overlay planner/self-tests); no owner visual file, production map substitution or canonical logic/geometry was changed,
+- that modern-prop scaffolding is not wired into the production renderer and does **not** reopen an autonomous source-polish lane or authorize prop substitution while the four-file owner visual gate remains open,
 - the earlier canonical-input materialization blocker is closed by the current source/recovery bridge; verified Shigai geometry still must never be reconstructed, approximated or reinterpreted,
 - asset-independent V4.1 source polish is exhausted; do not manufacture additional refactors or repeated audits while the owner visual gate is open,
 - the final V4.1 physical contract is 146 pages, with case/map pages 1-109 unchanged, upright support divider on page 110, and reverse-entry support on pages 111-146,
