@@ -204,7 +204,7 @@ programs:
     local_all15_count: 15_of_15
     local_hardening_commit: d5e1507
     local_hardening_push_status: pushed_reconciled_remote_pass
-    latest_build_ci_run: 136
+    latest_build_ci_run: 144
     latest_build_ci_conclusion: PASS
     all15_asset_manifest: tools/detective-book-factory/dist/spatial_assets_all15.yml
     final_english_interior: V4_1_FINALIZER_AND_FAIL_CLOSED_AUDIT_SOURCE_READY_NOT_FROZEN
@@ -220,9 +220,9 @@ programs:
     kdp_preflight: V4_1_FINAL_ARTIFACT_REQUIRES_REAL_145_PAGE_RENDER_AND_AUDIT
     print_scale_previews: 145
     spatial_owner_review_spreads: 15_of_15_PASS
-    latest_verified_build_run: 136
+    latest_verified_build_run: 144
     latest_verified_build_conclusion: success
-    latest_verified_seo_run: 637
+    latest_verified_seo_run: 653
     latest_verified_seo_conclusion: success
     english_source_frozen: false
     v4_1_source_state: FINALIZER_TYPOGRAPHY_QA_AND_FAIL_CLOSED_FINAL_ARTIFACT_AUDIT_READY
