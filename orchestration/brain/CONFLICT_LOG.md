@@ -62,10 +62,9 @@ The durable Marketing Autopilot spec/checkpoint temporarily omitted Detective PL
 Reconciled on 2026-09-22: the Marketing recovery entrypoint and execution checkpoint follow the canonical Q4 stack. Current product repository state overrides historical Detective heads recorded in earlier reconciliation snapshots.
 Current truth: central commercial stack + current product repo + refreshed Marketing handoff win.
 
-### Opinie PR #18 mergeability — resolved observation 2026-09-22
-An earlier live observation recorded synthetic-only Opinie staging PR `riseshineevolve-source/riseshineevolve#18` as `mergeable: false` at head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`.
-Live GitHub later reported PR #18 Draft/Open and `mergeable: true` at the same head; synthetic workflow `Opinie synthetic offline seed` #63 remained SUCCESS.
-Historical truth: that clean observation was valid at that checkpoint, but it is superseded by the current live conflict recorded below. No real case data was moved remotely.
+### Opinie PR #18 mergeability — transient observation resolved 2026-09-23
+During this sync live GitHub briefly reported synthetic-only Opinie staging PR `riseshineevolve-source/riseshineevolve#18` as `mergeable: false` at head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`. A repeated read with the same PR head and unchanged base returned Draft/Open/`mergeable: true`.
+Current truth: there is no confirmed Opinie branch conflict at this checkpoint. Treat the false observation as transient mergeability recomputation rather than a blocker. Synthetic workflow `Opinie synthetic offline seed` #63 remains the last recorded green evidence. No real case data was moved remotely.
 
 ### Detective V4.1 native checkpoint recovery — resolved 2026-09-23
 The earlier automation checkpoint said the authoritative native `HMDA_checkpoint_19_HMDA20_UPGRADE.shigai.json` could not be materialized and therefore treated the entire canonical-input surface as blocked.
@@ -82,10 +81,6 @@ Current truth: canonical-input materialization is no longer the active blocker. 
 ### Polish Localization PR #6 current merge conflict — 2026-09-23
 Immediately before the latest central continuity write, live GitHub briefly reported PR #6 Draft/Open and `mergeable: true` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. After `PROGRAM_REGISTRY.yml` v21 advanced `agency-agents/main`, live GitHub again reports `mergeable: false`. Localization Regression #31 remains the last recorded green branch-regression evidence.
 Current handling: record the conflict but do not destructively rebase, merge, or start full-book Detective Polish work. Reconcile the branch only in its authorized execution lane when useful; explicit English-source freeze remains the separate production gate.
-
-### Opinie PR #18 current merge conflict — 2026-09-23
-Live GitHub reports synthetic-only staging PR `riseshineevolve-source/riseshineevolve#18` Draft/Open and `mergeable: false` at unchanged head `b973797697516ec7bbbea6f2d42fbc7381d3a1b8`; the last recorded synthetic workflow evidence remains #63 PASS.
-Current handling: leave the synthetic lane parked and do not merge/rebase merely for status. No real case files, archives, embeddings, evidence or outputs may move remotely; the local/offline privacy boundary remains unchanged.
 
 ### Brand positioning phrases
 Both:
