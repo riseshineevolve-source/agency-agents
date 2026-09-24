@@ -416,6 +416,16 @@ Current owner-accepted working decisions include:
 - approved front-cover artwork is now visually locked; back cover is in refinement under the locked child-facing copy/continuity rules; A+ visual brief is locked for Marketing execution.
 - final full-wrap proof, page count, physical proof, price, ISBN choice, English freeze and publication remain owner gates.
 
+### Detective modern-props pilot status — 2026-09-24
+
+- Runtime-native redraw architecture is technically accepted for the three pilot maps HMDA_02 / HMDA_13 / HMDA_29.
+- V4 local pilot head reported by Codex: `22e703c9e02e02de8f5dc4d139edb53dfbbe5727` on `codex/modern-props-pilot`.
+- Structural QA remains PASS; no story, puzzle logic, answer, ROOM/ZONE, Room Zero meta or CHECK THE OLD MAP changes.
+- **V4 prop art is NOT owner-approved and is visually rejected as too schematic / floor-plan-like / icon-like.**
+- Do not scale V4 to all 15 maps.
+- Durable direction: keep Codex as integration/validation engine, but move final prop art creation outside Codex. Produce a curated premium modern-kid-relevant prop atlas externally, then let Codex place exact approved assets against verified runtime geometry and re-run structural/print QA.
+- Do not let Codex continue inventing the visual asset language autonomously.
+
 ## 11. Detective Academy
 
 Current product source:
