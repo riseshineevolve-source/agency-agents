@@ -1,17 +1,17 @@
 # Detective Academy — Cover + A+ Visual Lock
 
-Status: **OWNER-LOCKED DIRECTION / BACK COVER + A+ IMPLEMENTATION ACTIVE**
+Status: **FRONT COVER SELECTION REOPENED / BACK COVER + A+ DIRECTION LOCKED**
 Updated: 2026-09-24
 Product: **Happy Makers Detective Academy: The Mystery of Room Zero — Book 1**
 
-## 1. Approved front-cover visual
+## 1. Front-cover selection status
 
-The owner-approved front cover is the current 2026-09-24 artwork with corrected Grandma Bibi.
+Owner decision updated 2026-09-24: the previously named `front cover final.png` is NOT approved and must not be treated as the final cover. Several final candidates remain under owner comparison. The owner will explicitly name the winning file before any immutable cover lock.
 
 Reference SHA-256:
 `136e82fce95a430362f738b28d046ff8e04667111e9db0960d5854aa36991472`
 
-DO NOT regenerate, recompose, restyle or "improve" this front without an explicit new owner request.
+Do not regenerate or alter candidate fronts unless the owner explicitly asks. Do not use any previous candidate as the A+ source-of-truth until the owner explicitly names the final file.
 
 Locked front characteristics:
 - six Happy Makers only;
@@ -27,7 +27,7 @@ Locked front characteristics:
 - title/subtitle hierarchy unchanged;
 - BOOK 1 small and secondary.
 
-The front is now the visual source of truth for the wrap.
+The final front will become the visual source of truth for the wrap only after explicit owner selection.
 
 ## 2. Logo lock
 
@@ -387,6 +387,6 @@ A+ should PROVE the product with real interior pages rather than merely claim th
 
 ## 8. Owner gate
 
-Front: APPROVED and visually locked.
+Front: OWNER SELECTION PENDING; no candidate is currently locked.
 Back: active refinement; copy/hierarchy/visual rules above are locked.
 A+: brief locked for Marketing execution; final generated assets remain owner-review gated.
