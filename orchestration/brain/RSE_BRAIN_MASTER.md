@@ -207,7 +207,7 @@ AI Discovery principles:
 - never fabricate price, availability, ratings, reviews, identifiers, launch dates or medical/scientific claims.
 - no mass AI SEO page generation.
 
-Current measurement state is tracked in the central project registry and issue #584.
+Current measurement state is tracked in the central project registry and issue #584. As of 2026-09-24, fresh GSC Wizard inspection is blocked by `payment_required`; no paid monitoring service may be restored automatically, and C2 content remains unauthorized until fresh evidence justifies it.
 
 ## 7. RSE Consumer Platform + Bilingual App Factory
 
@@ -294,11 +294,14 @@ RSE-specific layers:
 - RSE KDP Ads Optimizer
 
 Durable Marketing sources:
+- `marketing/MARKETING_RESUME_FROM_ZERO.md`
 - `marketing/RSE_MARKETING_AUTOPILOT.md`
 - `orchestration/marketing/RSE_MARKETING_AUTOPILOT_CHECKPOINT.md`
 - `marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md`
 - `marketing/DETECTIVE_ACADEMY_CONTENT_BANK.md`
 - `marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md`
+- `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
+- `marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md`
 - `marketing/PERFORMANCE_MEMORY.yml`
 - private operational marketing brain in `riseshineevolve-source/riseshineevolve/marketing/`.
 
@@ -413,25 +416,19 @@ Current owner-accepted working decisions include:
 - category targets;
 - working US launch price $13.99, not yet frozen;
 - honest AI-generated text/images disclosure at upload;
-- approved front-cover artwork is now visually locked; back cover is in refinement under the locked child-facing copy/continuity rules; A+ visual brief is locked for Marketing execution.
-- final full-wrap proof, page count, physical proof, price, ISBN choice, English freeze and publication remain owner gates.
+- approved front-cover artwork is visually locked; back cover is in refinement under locked child-facing copy/continuity rules; A+ visual brief is locked for Marketing execution;
+- current V4.1 source contract is 146 pages, but exact final KDP page count must be reconfirmed after the four owner interior visuals are integrated;
+- final back/full-wrap proof, physical proof, price, ISBN choice, English freeze and publication remain owner gates.
 
 ### Detective modern-props pilot status — 2026-09-24
 
-External-prop integration checkpoint:
-- Codex local pilot head reported: `c14b40c` on `codex/modern-props-pilot`.
-- External asset contract/schema, hash validator, owner-approved flag gate and pilot-only renderer integration are implemented locally and tests PASS.
-- No external assets are approved yet; renderer correctly fails closed and produces no maps until an owner-approved curated pack exists.
-- Next owner-safe slice: create the external curated 23-family premium prop atlas outside Codex, approve exact PNGs, then record hashes and run the same three pilot maps. Codex must not invent final prop art.
+Historical external-prop integration work exists below the current four-file owner gate. It must not be promoted into a parallel autonomous production lane.
 
-
-- Runtime-native redraw architecture is technically accepted for the three pilot maps HMDA_02 / HMDA_13 / HMDA_29.
-- V4 local pilot head reported by Codex: `22e703c9e02e02de8f5dc4d139edb53dfbbe5727` on `codex/modern-props-pilot`.
-- Structural QA remains PASS; no story, puzzle logic, answer, ROOM/ZONE, Room Zero meta or CHECK THE OLD MAP changes.
-- **V4 prop art is NOT owner-approved and is visually rejected as too schematic / floor-plan-like / icon-like.**
-- Do not scale V4 to all 15 maps.
-- Durable direction: keep Codex as integration/validation engine, but move final prop art creation outside Codex. Produce a curated premium modern-kid-relevant prop atlas externally, then let Codex place exact approved assets against verified runtime geometry and re-run structural/print QA.
-- Do not let Codex continue inventing the visual asset language autonomously.
+- External asset contract/schema, hash validator, owner-approved flag gate and pilot-only renderer integration were implemented locally with tests PASS.
+- No external prop assets are owner-approved for production substitution.
+- Runtime-native redraw architecture is technically accepted for the three pilot maps HMDA_02 / HMDA_13 / HMDA_29, but prior V4 prop art was visually rejected as too schematic / floor-plan-like / icon-like.
+- Do not scale rejected prop art to all 15 maps and do not let Codex invent the final prop visual language.
+- Current central lock wins: while the exact four-file interior owner gate is open, do not manufacture new prop generation/selection work merely to keep the lane active.
 
 ## 11. Detective Academy
 
@@ -461,11 +458,12 @@ Locked presentation direction:
 - aliases are presentation-only and may never alter puzzle identity, clues, topology, answers or solution logic.
 
 Current V4.1 state:
-- PR #571 head `a5fab13da7e90a9ea99d57d7082fb2f701d67073`;
-- Build Detective Academy PDF #148 PASS and SEO Validation #661 PASS;
+- PR #571 head `1fed50b7e969c60da1a1b9d743665473ceb15049` is Draft/Open/Mergeable;
+- Build Detective Academy PDF #174 PASS and SEO Validation #713 PASS on the current head;
 - deterministic finalizer, reverse-entry engine, print-typography QA, grayscale audit, fail-closed final-artifact audit and locked-V4 spatial recovery bridge are present in source;
 - the earlier canonical-input materialization blocker is closed; verified Shigai geometry still must never be reconstructed, approximated or reinterpreted;
-- bounded source-side polish remains active: explicit STOP / HINT VAULT boundary if required, parity-interlude diversification, cinematic Book 2 hook presentation, and final human visual QA/back-entry simulation on the exact artifact;
+- asset-independent V4.1 source polish is exhausted; do not manufacture additional refactors or repeated audits while the owner visual gate is open;
+- the current physical source contract is 146 pages;
 - English is **NOT FROZEN**.
 
 The historical ALL-15 map-system design gate remains closed. The current bounded owner-visual gate expects exactly four final owner files:
@@ -474,9 +472,15 @@ The historical ALL-15 map-system design gate remains closed. The current bounded
 - `case03_solution.png`,
 - `book2_archive_photo.png`.
 
-Those files may not inherit the historical map-system approval. Exploratory visual candidates must not be silently selected, committed or promoted, and owner-supplied final files must not be regenerated, restyled, destructively cropped or silently substituted. Once all four exact files are supplied, the final pass must SHA-lock them, extend validation to all four, integrate the exact Case 03 solution asset, fail closed on mismatch, complete the exact final render/audit, independent full-PDF review and representative physical proof.
+Those files may not inherit the historical map-system approval. Exploratory visual candidates must not be silently selected, committed or promoted, and owner-supplied final files must not be regenerated, restyled, destructively cropped or silently substituted. Once all four exact files are supplied, the final pass must SHA-lock them, extend validation to all four, integrate the exact Case 03 solution asset, fail closed on mismatch, complete the exact final render/audit, independent full-PDF review/back-entry simulation and representative physical proof.
 
-Current owner action required: **none until the four final visual files are ready**. Final visual/proof approval, explicit English source freeze, final cover/proof, pricing and KDP publication remain owner-controlled.
+Separate packaging state:
+- the owner-approved 2026-09-24 front cover is visually locked;
+- the current question-mark/scanner Academy logo direction is locked;
+- back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked for execution;
+- final back/full-wrap output and generated A+ assets remain owner-review gated and do not freeze the English interior.
+
+Current owner action required: **none until the four final interior visual files are ready**. Final interior visual/proof approval, final back/full-wrap proof, explicit English source freeze, pricing and KDP publication remain owner-controlled.
 
 English release candidate first, strict preflight, then Polish only after explicit English freeze.
 
@@ -497,12 +501,14 @@ Project mode:
 
 Current source-manager truth:
 - FINAL20 manifest + local final source folders are authoritative for art selection.
-- 12 approved visuals.
-- 8 unresolved owner-gated slots.
+- 12 protected approved visuals remain recorded in the owner-gated production contract; owner separately reports 19/20 illustration creation progress, which is not equivalent to FINAL20 promotion.
 - approved art must not be "improved for consistency" automatically.
 - old Book Creator roster containing duck/red panda/chameleon/old slot is superseded.
 - final PDF must use only the canonical final-source folder after owner promotion.
-- PR #14 head `56dd2599ce13d6edd6e97c422b56835c85d2af9c` hardens the owner-gated FINAL20 contract; Optical Book Creator quality #18 is green.
+- PR #14 is Draft/Open/Mergeable at head `45429828f64b03bedfcb4e5fab87c5ba41dfe812`; Optical Book Creator quality #80 is green.
+- since the prior Brain checkpoint, the branch added exact-identity seek/find enrollment, fail-closed post-render source reproof, exact-volume integrity/proof gates, editorial/interstitial rules and KDP print-proof planning.
+- exact seek/find targets must be source-derived from owner-approved hero art; invented/redrawn/reposed lookalikes are rejected by contract.
+- Butterfly Finale layout is a separate owner gate between A: one 8.5x11 hero page and B: a true two-page gutter-safe spread. No automatic selection, FINAL20 promotion, manifest change or final spread split is allowed before the owner reviews the actual approved-art comparison packet.
 
 ## 14. Senior / Hello Today
 
@@ -521,6 +527,12 @@ Hard locks:
 - revoke supported,
 - Child Mode remains production disabled until external/legal/human gates pass.
 
+Current source-side release state:
+- PR #77 head `7df593bac70d76653d83bc550f6e3052835ba478` remains Draft/Open/Mergeable;
+- Android CI #144 PASS, Device Accessibility #81 PASS, Firebase Security #86 PASS;
+- source hardening is exhausted unless a concrete reproducible source defect appears;
+- production `strict` remains blocked by external/owner/legal/device/store gates.
+
 ## 15. Mind Bloom
 
 Current execution owner: **Central RSE Orchestrator**. The previous dedicated Mind Bloom chat is parked/archive-only and must not run a parallel implementation stream.
@@ -529,17 +541,19 @@ Current branch:
 `feature/personal-chief-of-staff-foundation`
 
 Current PR:
-`#2` (Draft; keep Draft until an explicit future merge/release decision)
+`#2` (Draft/Open/Mergeable; keep Draft until an explicit future merge/release decision)
 
 Current live head:
-`bec72d0b45c3dd6e11715d3c77fa3c4d1f592a13`
+`fdbc2630d1dd196bbe7ebceafd4994f23377d699`
 
 Current product state:
 **PRIVATE V1 SOURCE RELEASE CANDIDATE = PASS / FEATURE DEVELOPMENT FROZEN.**
 
 Latest live CI on the current head:
-- Mind Bloom CI **#81: SUCCESS**
+- Mind Bloom CI **#83: SUCCESS**
 - current-head code regression: none established
+
+The post-freeze change on this head is deployment/privacy hardening only: noindex/headers/robots and Workers static-asset configuration. It does not reopen feature development or provider work.
 
 Durable implemented domains include:
 Today, Inbox, Tasks, Saved, Projects, Reminders, Media, Life Admin, People, Daily Brief/Attention, reviewed Inbox promotions and Universal Chief-of-Staff Search.
@@ -591,6 +605,8 @@ Forbidden remotely:
 - real generated analyses/opinions.
 
 Production runtime is local/offline.
+
+Current branch state is tracked in `PROGRAM_REGISTRY.yml` and `CONFLICT_LOG.md`; any merge-conflict repair must remain synthetic/code-only and must never move real case data remotely.
 
 Target pipeline:
 `new case -> evidence/provenance -> timeline/scene -> calculations -> reconstruction variants -> review queue -> opinion base`
