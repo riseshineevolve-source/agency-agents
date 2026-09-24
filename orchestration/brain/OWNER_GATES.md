@@ -74,10 +74,18 @@ Current four-file visual owner gate:
 - final bounded work after exact asset delivery is: four-asset validation -> SHA lock -> exact Case 03 solution integration -> canonical 146-page render -> full-page human visual QA -> physical back-entry simulation,
 - current owner action required: **provide the four exact final visual files when ready**.
 
+Current cover / A+ packaging state:
+- the owner-approved 2026-09-24 front cover is visually locked; do not regenerate, recompose, restyle or "improve" it without a new explicit owner request,
+- the current question-mark/scanner Academy mark is the locked logo direction for the wrap/A+/launch assets,
+- back-cover copy/hierarchy/visual rules and the A+ brief are locked for execution,
+- final back-cover/full-wrap output, generated A+ assets, physical proof and publication remain owner-review gates,
+- cover/A+ progress does **not** freeze the English interior/source and does **not** satisfy the separate four-file interior visual gate.
+
 Remaining release owner gates:
 - exact four-file Detective visual set approval/delivery,
-- owner visual / representative physical-proof approval,
-- final cover/proof,
+- owner interior visual / representative physical-proof approval,
+- final back-cover/full-wrap + physical-proof approval,
+- final generated A+ assets where used,
 - explicit English source freeze,
 - pricing,
 - KDP upload/publication of English or Polish book.
