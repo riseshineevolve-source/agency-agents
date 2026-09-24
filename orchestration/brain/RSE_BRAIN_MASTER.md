@@ -397,6 +397,7 @@ Outside current business build queue:
 
 Canonical operational KDP package:
 - marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md
+- marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md
 
 Current owner-accepted working decisions include:
 - 8.5 x 11 paperback;
@@ -412,7 +413,8 @@ Current owner-accepted working decisions include:
 - category targets;
 - working US launch price $13.99, not yet frozen;
 - honest AI-generated text/images disclosure at upload;
-- final cover, page count, physical proof, price, ISBN choice, English freeze and publication remain owner gates.
+- approved front-cover artwork is now visually locked; back cover is in refinement under the locked child-facing copy/continuity rules; A+ visual brief is locked for Marketing execution.
+- final full-wrap proof, page count, physical proof, price, ISBN choice, English freeze and publication remain owner gates.
 
 ## 11. Detective Academy
 
