@@ -393,6 +393,27 @@ Outside current business build queue:
 - Job Search tooling
 - Family Finance
 
+## 10A. Detective Academy KDP packaging
+
+Canonical operational KDP package:
+- marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md
+
+Current owner-accepted working decisions include:
+- 8.5 x 11 paperback;
+- black ink + white paper;
+- no-bleed interior;
+- glossy cover working preference;
+- title: Happy Makers Detective Academy;
+- subtitle: The Mystery of Room Zero;
+- Book 1 series treatment;
+- child-facing front/back-cover direction;
+- parent-facing Amazon description;
+- seven working keyword phrases;
+- category targets;
+- working US launch price $13.99, not yet frozen;
+- honest AI-generated text/images disclosure at upload;
+- final cover, page count, physical proof, price, ISBN choice, English freeze and publication remain owner gates.
+
 ## 11. Detective Academy
 
 Current product source:
