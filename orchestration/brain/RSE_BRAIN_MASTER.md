@@ -416,19 +416,19 @@ Current owner-accepted working decisions include:
 - category targets;
 - working US launch price $13.99, not yet frozen;
 - honest AI-generated text/images disclosure at upload;
-- approved front-cover artwork is visually locked; back cover is in refinement under locked child-facing copy/continuity rules; A+ visual brief is locked for Marketing execution;
+- front-cover selection is REOPENED by owner on 2026-09-24; `front cover final.png` is explicitly NOT final. Do not lock or propagate any front candidate until the owner explicitly names the winning file. Back-cover child-facing copy/continuity rules remain locked; A+ visual brief remains locked but must inherit whichever front the owner finally selects;
 - current V4.1 source contract is 146 pages, but exact final KDP page count must be reconfirmed after the four owner interior visuals are integrated;
 - final back/full-wrap proof, physical proof, price, ISBN choice, English freeze and publication remain owner gates.
 
 ### Detective modern-props pilot status — 2026-09-24
 
-Historical external-prop integration work exists below the current four-file owner gate. It must not be promoted into a parallel autonomous production lane.
-
-- External asset contract/schema, hash validator, owner-approved flag gate and pilot-only renderer integration were implemented locally with tests PASS.
-- No external prop assets are owner-approved for production substitution.
-- Runtime-native redraw architecture is technically accepted for the three pilot maps HMDA_02 / HMDA_13 / HMDA_29, but prior V4 prop art was visually rejected as too schematic / floor-plan-like / icon-like.
-- Do not scale rejected prop art to all 15 maps and do not let Codex invent the final prop visual language.
-- Current central lock wins: while the exact four-file interior owner gate is open, do not manufacture new prop generation/selection work merely to keep the lane active.
+- Runtime-native redraw architecture is technically accepted for HMDA_02 / HMDA_13 / HMDA_29; rejected V4 prop art must NOT scale to all 15.
+- Codex external-prop integration contract is implemented locally with fail-closed hash + owner-approval validation.
+- Latest handoff checkpoint reported by Codex: local handoff builder commit `7b1d27d`; external-art-handoff-v1 ZIP SHA-256 `771584ed7425c1b66a9c902baa4b36d763a13ddd3432180caf2ce05769299347`.
+- Handoff contains 23 exact stable asset IDs, per-family art specs, transparent canvases, footprint templates, source-context crops, review template and pending manifest.
+- No final external prop art exists yet and no prop asset is owner-approved.
+- Next safe step is external art creation OUTSIDE Codex from the handoff package, then owner review, exact SHA registration and only then a three-pilot integration render/QA.
+- Codex must not invent the final prop visual language and must not scale rejected V4 art to all 15 maps.
 
 ## 11. Detective Academy
 
