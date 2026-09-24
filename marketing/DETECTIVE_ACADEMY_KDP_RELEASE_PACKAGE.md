@@ -1,0 +1,313 @@
+# Happy Makers Detective Academy — KDP Release Package
+
+Status: OWNER-ACCEPTED WORKING RELEASE PACKAGE / NOT YET PUBLISHED
+Updated: 2026-09-24
+Product: Happy Makers Detective Academy: The Mystery of Room Zero
+Commercial priority: #1 Detective Academy EN -> KDP
+
+Authority note: this records owner-accepted KDP packaging decisions and working commercial metadata. Live book source/logic remains in the Detective production repo. Final cover, final page count, final price, physical proof, English freeze and publication remain owner gates.
+
+## Product / print specification
+
+- Paperback
+- Trim size: 8.5 x 11 in (US Letter)
+- Interior: black ink + white paper
+- Interior bleed: no bleed
+- Cover finish: glossy
+- Language: English
+- Reading age: 8–12
+- Low-content: no
+- Book 1
+- Final page count: pending final V10 typeset; working architecture remains around the mid-140s
+- Primary EN marketplace focus: Amazon.com
+
+Reasoning:
+- keep the existing US-Letter production geometry;
+- white paper supports high-contrast map/dossier readability;
+- black-and-white interior is product-native;
+- do not use premium-color production for a monochrome case-file interior;
+- glossy is the preferred working finish for the navy/gold cinematic cover direction.
+
+## Metadata
+
+Title:
+Happy Makers Detective Academy
+
+Subtitle:
+The Mystery of Room Zero
+
+Series:
+Happy Makers Detective Academy
+
+Series number:
+1
+
+Front-cover series indicator:
+BOOK 1 — small and subordinate to the title.
+
+Do not stuff title/subtitle with generic SEO phrases such as Logic Puzzles for Kids, Brain Teasers, Activity Book or Critical Thinking Workbook.
+
+## Front-cover hierarchy
+
+1. Academy / question-mark symbol
+2. HAPPY MAKERS
+3. DETECTIVE ACADEMY
+4. THE MYSTERY OF ROOM ZERO
+5. small BOOK 1
+
+Do not add generic sales badges or keyword clutter to the front.
+
+Avoid:
+- Ages 8–12 on front
+- 30 Cases badge on front
+- Screen-Free badge on front
+- Brain Teasers / Critical Thinking / Educational Workbook language
+- bestseller / award claims
+
+Front cover is child-facing and should sell the world, mystery and aspiration rather than explain the specification.
+
+Visual restraint:
+- one dominant Room Zero 0 is stronger than repeated decorative zeros;
+- remove unnecessary generic marketing words on decorative books/props if they compete with the title or make the art feel synthetic;
+- preserve the six-character squad identity exactly once final owner art is selected.
+
+## Spine
+
+After final page count / KDP cover-template generation:
+
+HAPPY MAKERS DETECTIVE ACADEMY
+THE MYSTERY OF ROOM ZERO
+BOOK 1
+
+Optional small Academy / RSE mark at the bottom.
+
+Do not calculate final spine width until final page count and KDP paper choice are locked.
+
+## Back-cover copy — child-facing
+
+ONE DETECTIVE IS STILL MISSING. YOU.
+
+A black envelope appears with no stamp, no sender—and one strange mark: 0.
+
+Inside is a Detective Academy Recruit Credential with one important space still blank: your call sign.
+
+Join the Happy Makers and work your way through 30 connected case files filled with witness boards, maps, codes, visual evidence, timelines and deduction challenges.
+
+But keep your old case files close.
+
+Some details only become important after a case seems finished.
+
+If you get stuck, open the 3-Level Hint Vault for a nudge without jumping straight to the answer. And when you want to check your reasoning, the Solution Files show how the evidence fits.
+
+Follow the evidence. Question the obvious.
+Earn your place in the Academy.
+
+Room Zero is waiting.
+
+Back-cover feature line:
+30 CONNECTED CASES · 3-LEVEL HINT VAULT · REASONING SOLUTIONS · AGES 8–12
+
+Never spoil CHECK THE OLD MAP, Case Zero, the Room Zero solution, sixth-station truth or Book 2 archive/triangle logic.
+
+## Amazon description — parent-facing
+
+<b>One detective is still missing. Your child.</b><br><br>
+
+A black envelope appears with no sender and one strange mark: 0. Inside is a blank Detective Academy credential — and the beginning of a mystery that stretches across the entire book.<br><br>
+
+<b>Happy Makers Detective Academy: The Mystery of Room Zero</b> is a screen-free mystery adventure for ages 8–12 built around <b>30 connected case files</b> — not a collection of unrelated worksheets.<br><br>
+
+Your child joins the Happy Makers squad, chooses a detective call sign and works through an investigation that grows as the book progresses. Cases include spatial logic, witness maps, visual evidence, codes, timelines, sequencing and deduction challenges.<br><br>
+
+And solving a case does not always mean its evidence is finished.<br><br>
+
+Earlier details can become important again, turning the physical book itself into part of the investigation.<br><br>
+
+<b>Inside:</b>
+<ul>
+<li>30 interconnected mystery missions</li>
+<li>progression from Recruit toward Detective status</li>
+<li>maps, codes, visual evidence and deduction cases</li>
+<li>a 3-Level Hint Vault for optional nudges</li>
+<li>reasoning-first solutions that explain why the evidence fits</li>
+<li>one hidden mystery running through the whole book</li>
+<li>a personal Detective Academy credential and final certification</li>
+</ul>
+
+The Hint Vault is there when a case gets difficult: the first hint points toward what to notice, the next narrows the search, and the strongest hint still leaves the final deduction to the reader.<br><br>
+
+For parents looking for a thoughtful screen-free activity, this is designed to feel less like homework and more like opening a real case file: pencil-ready, story-led and built around curiosity, observation and logical reasoning.<br><br>
+
+<b>30 cases. One hidden mystery. One place left in the squad.</b><br><br>
+
+Open Case 01.
+
+Copy principles:
+- parent-facing, explanatory and specific;
+- adventure and ownership first;
+- educational benefits are supporting proof, not hero promise;
+- no parent guilt;
+- no unsupported outcome claims.
+
+## KDP keyword fields — working set
+
+1. kids logic puzzles
+2. mystery activity book
+3. detective brain teasers
+4. critical thinking games
+5. screen free activities
+6. visual deduction puzzles
+7. puzzle adventure kids
+
+Revalidate immediately before publication.
+No competitor names, branded terms, bestseller claims or misleading keyword stuffing.
+
+## Category direction
+
+Choose the closest current KDP leaves at publication time:
+
+1. Children's Books -> Activities, Crafts & Games -> Puzzles
+2. Children's Books -> Mysteries & Detectives
+3. Children's Books -> Activities, Crafts & Games -> Games / Logic / Brain Teasers (nearest available current leaf)
+
+Do not choose irrelevant categories for easier ranking.
+
+## Audience fields
+
+- Reading age: 8–12
+- Sexually explicit title/images: No
+- Children's categorization consistent with current KDP taxonomy
+
+## Marketing hooks
+
+Hero:
+30 CASES. ONE HIDDEN MYSTERY. YOU'RE THE MISSING DETECTIVE.
+
+Supporting:
+EVERY CASE CAN BE SOLVED. NOT EVERY CASE IS FINISHED.
+
+Signature:
+THE BOOK ITSELF IS THE EVIDENCE.
+
+Use one hero idea per creative rather than stacking all three.
+
+## Working launch price
+
+US $13.99
+
+Status: WORKING TARGET / NOT OWNER-FROZEN.
+
+Final decision only after:
+- final page count;
+- current KDP print-cost recalculation;
+- physical proof;
+- current competitive listing check.
+
+Do not publish or activate discounts without owner approval.
+
+## ISBN
+
+Preferred logic:
+- use own ISBN/imprint if already available without delaying release;
+- otherwise use KDP free ISBN;
+- do not delay release for a vanity detail.
+
+## AI disclosure
+
+KDP disclosure must match the actual production process.
+
+Current expected disclosure:
+- AI-generated text: Yes
+- AI-generated images: Yes
+
+Answer the live KDP disclosure form truthfully at upload time.
+
+## A+ content direction
+
+Do not block first publication on A+.
+
+Recommended modules:
+
+YOU'RE NOT JUST READING THE CASE. YOU'RE IN IT.
+Show Recruit Credential / missing-detective ownership.
+
+30 CASES. ONE INVESTIGATION.
+Use real interior crops: Witness Boards, maps, evidence cards.
+
+STUCK IS PART OF DETECTIVE WORK.
+Show the 3-Level Hint Vault without revealing solutions.
+
+THE BOOK ITSELF BECOMES EVIDENCE.
+Show earlier case-file / evidence-wall feeling without spoilers.
+
+A+ should rely primarily on real approved interior pages, not fantasy product mockups.
+
+## Claims / phrases to avoid
+
+Do not use:
+- best-selling
+- award-winning
+- proven to improve
+- boosts IQ
+- develops intelligence
+- guaranteed fun
+- kids can't put it down
+- fake review quotes
+- competitor comparisons
+- parent guilt / get your child off screens
+- educational workbook positioning
+- medical / neuroscience claims
+
+Do not reveal:
+- CHECK THE OLD MAP
+- Case Zero
+- final Room Zero mechanics
+- final coordinates
+- Book 2 archive / triangle resolution
+
+## Release sequence
+
+1. finish V10 source / map-modernization owner gate;
+2. integrate source safely;
+3. run deterministic puzzle / solution / meta QA;
+4. final typeset;
+5. final page count;
+6. lock exact front-cover art;
+7. obtain exact KDP full-wrap template;
+8. create front + spine + back wrap;
+9. run KDP preflight;
+10. physical proof;
+11. owner visual/proof approval;
+12. explicit English source freeze;
+13. final price / ISBN / metadata confirmation;
+14. KDP upload and publication — owner controlled.
+
+## Current owner gates
+
+Still owner-controlled:
+- final front-cover selection;
+- final back-cover visual layout;
+- physical proof;
+- final price;
+- own ISBN vs KDP free ISBN if unresolved;
+- explicit English freeze;
+- publication click;
+- paid ads / discount activation.
+
+## Relationship to canonical positioning
+
+This is the operational KDP packaging layer.
+
+Canonical positioning remains:
+marketing/detective-academy-kdp-positioning.md
+
+Protect:
+- reader is the missing detective;
+- one book-long mystery;
+- 30 interconnected missions;
+- earlier evidence can matter again;
+- Hint Vault supports progress;
+- solutions explain reasoning;
+- premium case-file experience;
+- screen-free without guilt;
+- gift-an-adventure positioning.
