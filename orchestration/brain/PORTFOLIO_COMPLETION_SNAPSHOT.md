@@ -34,8 +34,8 @@ This table does **not** override the commercial stack.
 Canonical commercial priority:
 1. Detective Academy -> KDP
 2. Mind Bloom -> Private DONE / frozen
-3. 24 Gentle Steps to Christmas
-4. Optical Animals
+3. Optical Animals
+4. 24 Gentle Steps to Christmas
 5. Consumer App Factory / Google Play apps
 6. Senior / Happy Me / Opinie / AI Discovery continue in parallel below gates
 
