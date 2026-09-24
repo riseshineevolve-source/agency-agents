@@ -2,7 +2,7 @@
 
 Status: CANONICAL
 Rebuilt: 2026-09-18
-Last reconciled: 2026-09-23
+Last reconciled: 2026-09-24
 Primary durable repo: `riseshineevolve-source/agency-agents`
 
 ## 1. Operating model
@@ -56,14 +56,14 @@ Portfolio completion snapshot: `orchestration/brain/PORTFOLIO_COMPLETION_SNAPSHO
 Owner-locked order:
 1. **Detective Academy EN -> KDP** — primary revenue lane; do not wait for Google Play/DUNS.
 2. **Detective Academy PL -> KDP Poland** — immediate second commercial edition after explicit English-source freeze.
-3. **24 Gentle Steps to Christmas** — seasonal Q4 lane.
-4. **Optical Animals** — giftable KDP lane; preserve 12 approved, resolve 8 owner-gated visuals.
+3. **Optical Animals** — giftable KDP lane; owner reports 19/20 illustrations ready. Finish final art plus exact-source seek-and-find identity pipeline; never substitute invented lookalikes.
+4. **24 Gentle Steps to Christmas** — seasonal Q4 lane, explicitly sequenced after Optical Animals.
 5. **Consumer App Factory / Google Play apps** — strategic, but below shippable KDP revenue while Google/DUNS gates remain.
 6. **Senior / Happy Me / Opinie / AI Discovery / Website** — continue safely in parallel below their gates.
 
 Frozen/non-active commercial lane: **Mind Bloom Private V1** — source release candidate PASS / feature development frozen; future provider or commercial work is a separate owner-gated decision.
 
-Operational sequence: **Detective EN KDP -> Detective PL KDP -> Gentle Steps seasonal lane -> Optical Animals gift lane -> Google Play acceleration when external gates clear.**
+Operational sequence: **Detective EN KDP -> Detective PL KDP -> Optical Animals gift lane -> Gentle Steps seasonal lane -> Google Play acceleration when external gates clear.**
 
 ## 3. Global product/business sequence
 
