@@ -75,25 +75,27 @@ Marketing may continue preparing from already approved positioning and approved 
 
 ## Detective cover + A+ packaging checkpoint
 
-The owner-approved 2026-09-24 front cover is visually locked and must not be regenerated, recomposed, restyled or silently replaced. The current question-mark/scanner Academy mark is the locked logo direction.
+Front-cover selection is **REOPENED / OWNER SELECTION PENDING** as of 2026-09-24. The previously named `front cover final.png` is explicitly NOT final and no front candidate is currently locked. Do not use any previous candidate as the wrap/A+ source of truth until the owner explicitly names the winning file. The current question-mark/scanner Academy mark remains the locked logo direction.
 
 Canonical packaging sources:
 - `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
 - `marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md`
 
-Back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked for execution. Final back/full-wrap output, final generated A+ assets and physical proof remain owner-review gated. Cover/A+ work does not freeze the English interior and does not satisfy the separate four-file interior visual gate.
+Back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked for execution, but final wrap/A+ continuity must inherit the ultimately selected front. Final back/full-wrap output, final generated A+ assets and physical proof remain owner-review gated. Cover/A+ work does not freeze the English interior and does not satisfy the separate four-file interior visual gate.
+
+A bounded external-prop handoff is prepared only for HMDA_02 / HMDA_13 / HMDA_29: builder commit `7b1d27d`, ZIP SHA-256 `771584ed7425c1b66a9c902baa4b36d763a13ddd3432180caf2ce05769299347`, 23 exact stable asset IDs. No final prop art exists or is owner-approved. Final prop visuals must be created outside Codex, then owner-reviewed and exact-SHA registered before any three-pilot integration render/QA. Rejected V4 prop art must not scale to all 15 maps.
 
 ## Next marketing gate
 
-Prepare the first pre-launch batch from already approved Detective positioning/assets only.
+Prepare the first pre-launch batch from already approved Detective positioning/assets only. Do not propagate a Detective front-cover candidate as final while the owner selection is open.
 
 Before the first live organic batch, owner should review the initial creative/copy set once. After a stable baseline is established, routine content inside approved positioning can run through the Marketing Autopilot performance loop.
 
 ## Owner gates
 
-No paid activation, budget increase, pricing, discount/promotion, final four-file Detective interior visual selection/delivery, final English interior approval/freeze, final back/full-wrap and physical-proof approval, final generated A+ asset approval, or KDP publication occurs here without owner approval.
+No paid activation, budget increase, pricing, discount/promotion, winning Detective front-cover selection, final four-file Detective interior visual selection/delivery, final English interior approval/freeze, final back/full-wrap and physical-proof approval, final generated A+ asset approval, or KDP publication occurs here without owner approval.
 
-Current Detective product owner action required: **none until the four final interior visual files are ready**.
+Current Detective product owner actions are independent: **select the winning front-cover file when ready**, and **provide the four final interior visual files when ready**. Neither action freezes English.
 
 ## Recovery after chat loss
 
