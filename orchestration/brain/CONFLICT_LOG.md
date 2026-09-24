@@ -1,6 +1,6 @@
 # RSE Conflict Log
 
-Last reconciled: 2026-09-23
+Last reconciled: 2026-09-24
 
 ## Resolved
 
@@ -54,7 +54,7 @@ Current truth: the repository-side verification blocker is CLOSED. Production `s
 
 ### PROGRAM_REGISTRY commercial-priority mirror
 An earlier conflict entry recorded a stale registry mirror with Mind Bloom at commercial priority #2.
-Current `PROGRAM_REGISTRY.yml` is aligned with `COMMERCIAL_PRIORITY_STACK.md`: Detective EN, Detective PL, Gentle Steps, Optical Animals, Consumer App Factory; Mind Bloom Private V1 is frozen outside the active commercial sequence.
+Current `PROGRAM_REGISTRY.yml` is aligned with `COMMERCIAL_PRIORITY_STACK.md`: Detective EN, Detective PL, Optical Animals, Gentle Steps, Consumer App Factory; Mind Bloom Private V1 is frozen outside the active commercial sequence.
 Current truth: conflict CLOSED.
 
 ### Marketing handoff commercial-priority drift
@@ -76,10 +76,18 @@ An earlier checkpoint at head `3addc38...` still required raw-byte access to the
 PR #571 has since advanced through the source-polish lane to head `411eb5fa8a651dfe804b718af5cdf86038d0fe16`; verified implementation head `5560207f80fa8a1f1392ff782ee38920365ac798` has Build Detective Academy PDF #155 PASS and SEO Validation #675 PASS. The 146-page contract is now source-polish exhausted.
 Current truth: canonical-input materialization is no longer the active blocker. English remains NOT FROZEN; the lane now waits on the exact four owner visual files, then SHA-lock/integration, full human visual QA/back-entry simulation, representative physical proof and explicit owner freeze. Do not manufacture more source refactors while waiting.
 
+### Detective front-cover lock reopened — resolved continuity drift 2026-09-24
+Earlier Brain/Marketing checkpoints described the 2026-09-24 Detective front cover as owner-approved and visually locked. The owner subsequently reopened the final front selection; `front cover final.png` is explicitly NOT final.
+Current truth: no front-cover candidate is currently locked. The owner must explicitly name the winning file before it becomes the wrap/A+ source of truth. The question-mark/scanner Academy mark remains the locked logo direction. `RSE_BRAIN_MASTER.md`, `DECISION_LEDGER.md`, `OWNER_GATES.md`, `PROGRAM_REGISTRY.yml` and the durable Marketing handoff/checkpoint have been reconciled to this state.
+
 ## Open / requires future reconciliation
 
-### Polish Localization PR #6 current merge conflict — 2026-09-23
-Immediately before the latest central continuity write, live GitHub briefly reported PR #6 Draft/Open and `mergeable: true` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. After `PROGRAM_REGISTRY.yml` v21 advanced `agency-agents/main`, live GitHub again reports `mergeable: false`. Localization Regression #31 remains the last recorded green branch-regression evidence.
+### Optical Animals PR #14 current CI blocker — 2026-09-24
+PR #14 advanced to head `4c759ba781ae9a76da0adf942670ece69ab88da9` with exact seek/find proof hardening that binds proof packets to the current renderer implementation SHA and rejects stale renderer provenance fail-closed. GitHub Actions `Optical Book Creator quality` #88 ran on a real runner and failed in `Exercise release gates and synthetic PDF assembly`; roster/source-lock validation and dependency setup passed first.
+Current handling: treat this as a repository-side CI blocker on the current head, not an infrastructure/pre-runner signal. Do not claim current-head release readiness or owner-proof readiness until the existing exact-identity/provenance contract is repaired and CI is green. Repair must not promote art, alter protected approved visuals, select the Butterfly layout, create FINAL20, or cross any production/publication owner gate.
+
+### Polish Localization PR #6 current merge conflict — 2026-09-24
+Live GitHub reports PR #6 Draft/Open and `mergeable: false` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Localization Regression #31 remains the last recorded green branch-regression evidence. Central continuity writes continue to advance `main`.
 Current handling: record the conflict but do not destructively rebase, merge, or start full-book Detective Polish work. Reconcile the branch only in its authorized execution lane when useful; explicit English-source freeze remains the separate production gate.
 
 ### Brand positioning phrases
