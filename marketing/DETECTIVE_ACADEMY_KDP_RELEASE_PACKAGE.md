@@ -1,6 +1,6 @@
 # Happy Makers Detective Academy — KDP Release Package
 
-Status: OWNER-ACCEPTED WORKING RELEASE PACKAGE / FRONT VISUAL LOCKED / NOT YET PUBLISHED
+Status: OWNER-ACCEPTED WORKING RELEASE PACKAGE / FRONT COVER OWNER SELECTION PENDING / NOT YET PUBLISHED
 Updated: 2026-09-24
 Product: Happy Makers Detective Academy: The Mystery of Room Zero
 Commercial priority: #1 Detective Academy EN -> KDP
