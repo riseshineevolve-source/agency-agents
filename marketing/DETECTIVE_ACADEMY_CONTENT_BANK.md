@@ -498,3 +498,28 @@ Required defect check before primary use:
 
 Do not rebuild either reel from scratch. Treat this as final-polish / A-B packaging, not a new production cycle.
 Status: RECOMMENDATION ONLY — owner selection pending.
+
+
+## A+ CONTENT MASTER — LOCKED VISUAL BRIEF
+
+Canonical execution source:
+`marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
+
+Marketing execution should build the five-module A+ system from that file and preserve:
+- exact approved front cover;
+- modern Academy continuity;
+- current question-mark/scanner logo;
+- deep midnight navy / black / controlled gold;
+- real approved interior page crops;
+- no sepia/Victorian detective styling;
+- no generic AI evidence props;
+- no CHECK THE OLD MAP / Case Zero / final Room Zero spoilers.
+
+Modules:
+1. ONE DETECTIVE IS STILL MISSING. YOUR CHILD.
+2. 30 CASES. ONE INVESTIGATION.
+3. STUCK IS PART OF DETECTIVE WORK.
+4. THE BOOK ITSELF IS EVIDENCE.
+5. A CASE TO ENTER — NOT ANOTHER WORKSHEET.
+
+Final generated A+ images remain owner-review gated.
