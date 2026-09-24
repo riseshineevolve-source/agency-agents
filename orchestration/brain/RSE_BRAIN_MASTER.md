@@ -421,6 +421,15 @@ Current owner-accepted working decisions include:
 - final back/full-wrap proof, physical proof, price, ISBN choice, English freeze and publication remain owner gates.
 
 ### Detective modern-props pilot status — 2026-09-24
+Latest candidate-v3 preview checkpoint (2026-09-24 evening):
+- Codex local HEAD reported: `b7869a1` on `codex/modern-props-pilot`.
+- Candidate V3 improved materially: **15 CLEAR / 7 BORDERLINE / 1 REMAKE** across the 23 prop families.
+- Only hard remake blocker remains `exam_bench`, which still reads as chair + writing desk instead of medical examination furniture.
+- Clue-critical `collaborative_desk` PASS; `mentor_workstation` PASS; prior remake fixes for backpack cubbies, dino statue, operations seating and stool now PASS.
+- Borderline owner-review/cleanup set: feeding_trough, field_equipment_case, giant_fern, hydration_station, maker_bench, mentor_workstation, ranger_desk.
+- Structural fingerprints PASS for HMDA_02 / HMDA_13 / HMDA_29 with zero locked-field differences; Room Zero meta PASS; CHECK THE OLD MAP PASS.
+- Do not touch the 15 CLEAR assets unless owner explicitly requests. Next safe slice: correct `exam_bench`, then run focused HMDA_13 + seven-borderline visual gate before any owner_approved flags or all-15 scaleout.
+
 
 - Runtime-native redraw architecture is technically accepted for HMDA_02 / HMDA_13 / HMDA_29; rejected V4 prop art must NOT scale to all 15.
 - Codex external-prop integration contract is implemented locally with fail-closed hash + owner-approval validation.
