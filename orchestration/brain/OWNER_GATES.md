@@ -28,7 +28,8 @@ Agents may propose these changes, but may not silently execute or finalize them.
 - create large new content clusters,
 - live merchant/product-feed submission where eligibility is not verified,
 - change GPTBot/ClaudeBot training policy,
-- invent/assume store prices, URLs, launch dates or IDs.
+- invent/assume store prices, URLs, launch dates or IDs,
+- restore/subscribe to GSC Wizard or any other paid monitoring service; current `payment_required` blocks fresh in-chat GSC inspection but does not authorize C2 content or automatic billing.
 
 ## Polish Engine
 Detective Academy:
@@ -94,10 +95,10 @@ Remaining release owner gates:
 Factory/tooling state is complete below owner gates; do not schedule new factory architecture/refactors merely to keep the lane active.
 
 Owner-controlled gates:
-- promote any of the 8 unresolved illustrations to final,
-- alter any of the 12 approved visuals,
+- promote any unresolved illustration to FINAL20 or alter any protected approved visual,
 - approve any source-linked production-resolution derivative/upscale or replacement used instead of a protected source original,
-- approve/enrol the final source-linked search-token set,
+- approve/enrol the final source-linked exact-identity search-token set,
+- choose Butterfly Finale layout A (single page) or B (true gutter-safe two-page spread) only after reviewing the actual approved butterfly comparison packet; no automatic selection, FINAL20 promotion, manifest change or spread split,
 - approve the full final order/contact proof,
 - create the final 20 lock,
 - final book publication.
