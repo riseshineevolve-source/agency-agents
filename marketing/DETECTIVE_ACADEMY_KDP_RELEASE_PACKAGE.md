@@ -6,7 +6,7 @@ Product: Happy Makers Detective Academy: The Mystery of Room Zero
 Commercial priority: #1 Detective Academy EN -> KDP
 
 Authority note: this records owner-accepted KDP packaging decisions and working commercial metadata.
-Cover/A+ visual source: `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`. Live book source/logic remains in the Detective production repo. Final cover, final page count, final price, physical proof, English freeze and publication remain owner gates.
+Cover/A+ visual source: `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`. Live book source/logic remains in the Detective production repo. Final back/full-wrap output, final publication page count, final price, physical proof, English freeze and publication remain owner gates. The approved front visual is already locked and is not awaiting reselection.
 
 ## Product / print specification
 
@@ -19,7 +19,8 @@ Cover/A+ visual source: `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md
 - Reading age: 8–12
 - Low-content: no
 - Book 1
-- Final page count: pending final V10 typeset; working architecture remains around the mid-140s
+- Current V4.1 source contract: 146 pages
+- Final KDP page count: confirm again on the exact four-asset final artifact before generating the final wrap template
 - Primary EN marketplace focus: Amazon.com
 
 Reasoning:
@@ -70,11 +71,13 @@ Front cover is child-facing and should sell the world, mystery and aspiration ra
 Visual restraint:
 - one dominant Room Zero 0 is stronger than repeated decorative zeros;
 - remove unnecessary generic marketing words on decorative books/props if they compete with the title or make the art feel synthetic;
-- preserve the six-character squad identity exactly once final owner art is selected.
+- preserve the six-character squad identity exactly.
+
+The 2026-09-24 owner-approved front cover is visually locked. Do not regenerate, recompose, restyle or replace it unless the owner explicitly reopens that decision.
 
 ## Spine
 
-After final page count / KDP cover-template generation:
+After the exact final artifact confirms page count and the KDP cover template is generated:
 
 HAPPY MAKERS DETECTIVE ACADEMY
 THE MYSTERY OF ROOM ZERO
@@ -82,7 +85,7 @@ BOOK 1
 
 Optional small Academy / RSE mark at the bottom.
 
-Do not calculate final spine width until final page count and KDP paper choice are locked.
+Do not calculate final spine width until the exact final page count and KDP paper choice are confirmed.
 
 ## Back-cover copy — child-facing LOCK
 
@@ -192,7 +195,7 @@ US $13.99
 Status: WORKING TARGET / NOT OWNER-FROZEN.
 
 Final decision only after:
-- final page count;
+- exact final page count;
 - current KDP print-cost recalculation;
 - physical proof;
 - current competitive listing check.
@@ -261,27 +264,29 @@ Do not reveal:
 
 ## Release sequence
 
-1. finish V10 source / map-modernization owner gate;
-2. integrate source safely;
-3. run deterministic puzzle / solution / meta QA;
-4. final typeset;
-5. final page count;
-6. lock exact front-cover art;
-7. obtain exact KDP full-wrap template;
-8. create front + spine + back wrap;
-9. run KDP preflight;
-10. physical proof;
-11. owner visual/proof approval;
-12. explicit English source freeze;
-13. final price / ISBN / metadata confirmation;
-14. KDP upload and publication — owner controlled.
+1. wait for all four exact owner interior visual files;
+2. validate and SHA-lock all four; integrate the exact Case 03 solution asset;
+3. render/audit the exact canonical 146-page final artifact and rerun deterministic puzzle/solution/meta QA;
+4. run independent full-PDF human visual review plus physical back-entry simulation;
+5. confirm exact final page count and generate the KDP full-wrap template;
+6. build the final back/spine/full wrap around the already locked front cover;
+7. run KDP preflight;
+8. obtain representative physical proof;
+9. owner visual/proof approval;
+10. separate explicit English source freeze;
+11. final price / ISBN / metadata confirmation;
+12. KDP upload and publication — owner controlled.
 
 ## Current owner gates
 
+Already resolved:
+- front-cover visual selection is owner-approved and locked.
+
 Still owner-controlled:
-- final front-cover selection;
-- final back-cover visual layout;
-- physical proof;
+- exact four-file interior visual set approval/delivery;
+- final interior visual / representative physical-proof approval;
+- final back-cover/full-wrap layout and proof;
+- final generated A+ assets where used;
 - final price;
 - own ISBN vs KDP free ISBN if unresolved;
 - explicit English freeze;
