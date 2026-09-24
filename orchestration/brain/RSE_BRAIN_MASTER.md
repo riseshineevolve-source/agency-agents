@@ -418,6 +418,13 @@ Current owner-accepted working decisions include:
 
 ### Detective modern-props pilot status — 2026-09-24
 
+External-prop integration checkpoint:
+- Codex local pilot head reported: `c14b40c` on `codex/modern-props-pilot`.
+- External asset contract/schema, hash validator, owner-approved flag gate and pilot-only renderer integration are implemented locally and tests PASS.
+- No external assets are approved yet; renderer correctly fails closed and produces no maps until an owner-approved curated pack exists.
+- Next owner-safe slice: create the external curated 23-family premium prop atlas outside Codex, approve exact PNGs, then record hashes and run the same three pilot maps. Codex must not invent final prop art.
+
+
 - Runtime-native redraw architecture is technically accepted for the three pilot maps HMDA_02 / HMDA_13 / HMDA_29.
 - V4 local pilot head reported by Codex: `22e703c9e02e02de8f5dc4d139edb53dfbbe5727` on `codex/modern-props-pilot`.
 - Structural QA remains PASS; no story, puzzle logic, answer, ROOM/ZONE, Room Zero meta or CHECK THE OLD MAP changes.
