@@ -1,11 +1,12 @@
 # Happy Makers Detective Academy — KDP Release Package
 
-Status: OWNER-ACCEPTED WORKING RELEASE PACKAGE / NOT YET PUBLISHED
+Status: OWNER-ACCEPTED WORKING RELEASE PACKAGE / FRONT VISUAL LOCKED / NOT YET PUBLISHED
 Updated: 2026-09-24
 Product: Happy Makers Detective Academy: The Mystery of Room Zero
 Commercial priority: #1 Detective Academy EN -> KDP
 
-Authority note: this records owner-accepted KDP packaging decisions and working commercial metadata. Live book source/logic remains in the Detective production repo. Final cover, final page count, final price, physical proof, English freeze and publication remain owner gates.
+Authority note: this records owner-accepted KDP packaging decisions and working commercial metadata.
+Cover/A+ visual source: `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`. Live book source/logic remains in the Detective production repo. Final cover, final page count, final price, physical proof, English freeze and publication remain owner gates.
 
 ## Product / print specification
 
@@ -83,31 +84,24 @@ Optional small Academy / RSE mark at the bottom.
 
 Do not calculate final spine width until final page count and KDP paper choice are locked.
 
-## Back-cover copy — child-facing
+## Back-cover copy — child-facing LOCK
 
-ONE DETECTIVE IS STILL MISSING. YOU.
+Use the exact child-facing mini-trailer copy and visual hierarchy defined in:
+`marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
 
-A black envelope appears with no stamp, no sender—and one strange mark: 0.
+Core locked beats:
+- **ONE DETECTIVE IS STILL MISSING. YOU.**
+- black envelope / no stamp / no sender / one strange mark: 0;
+- Recruit Credential with empty call-sign line;
+- concrete escalating case beats: trophy disappears, evidence changes, alibis stop making sense, maps hide more than rooms;
+- **30 connected case files**;
+- **Some evidence only matters later.**
+- 3-Level Hint Vault + reasoning Solution Files;
+- **WHAT IS ROOM ZERO?**
+- **Your first case is waiting.**
+- bottom strip: **30 CONNECTED CASES · 3-LEVEL HINT VAULT · REASONING SOLUTIONS · AGES 8–12**.
 
-Inside is a Detective Academy Recruit Credential with one important space still blank: your call sign.
-
-Join the Happy Makers and work your way through 30 connected case files filled with witness boards, maps, codes, visual evidence, timelines and deduction challenges.
-
-But keep your old case files close.
-
-Some details only become important after a case seems finished.
-
-If you get stuck, open the 3-Level Hint Vault for a nudge without jumping straight to the answer. And when you want to check your reasoning, the Solution Files show how the evidence fits.
-
-Follow the evidence. Question the obvious.
-Earn your place in the Academy.
-
-Room Zero is waiting.
-
-Back-cover feature line:
-30 CONNECTED CASES · 3-LEVEL HINT VAULT · REASONING SOLUTIONS · AGES 8–12
-
-Never spoil CHECK THE OLD MAP, Case Zero, the Room Zero solution, sixth-station truth or Book 2 archive/triangle logic.
+Do not replace with generic feature-copy prose.
 
 ## Amazon description — parent-facing
 
