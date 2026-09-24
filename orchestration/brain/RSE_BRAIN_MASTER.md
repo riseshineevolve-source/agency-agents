@@ -475,12 +475,12 @@ The historical ALL-15 map-system design gate remains closed. The current bounded
 Those files may not inherit the historical map-system approval. Exploratory visual candidates must not be silently selected, committed or promoted, and owner-supplied final files must not be regenerated, restyled, destructively cropped or silently substituted. Once all four exact files are supplied, the final pass must SHA-lock them, extend validation to all four, integrate the exact Case 03 solution asset, fail closed on mismatch, complete the exact final render/audit, independent full-PDF review/back-entry simulation and representative physical proof.
 
 Separate packaging state:
-- the owner-approved 2026-09-24 front cover is visually locked;
-- the current question-mark/scanner Academy logo direction is locked;
-- back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked for execution;
+- front-cover selection is **REOPENED / OWNER SELECTION PENDING** as of 2026-09-24; `front cover final.png` is explicitly NOT final and no front candidate is currently locked;
+- the current question-mark/scanner Academy logo direction remains locked;
+- back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked for execution, but final wrap/A+ continuity must inherit the ultimately selected front;
 - final back/full-wrap output and generated A+ assets remain owner-review gated and do not freeze the English interior.
 
-Current owner action required: **none until the four final interior visual files are ready**. Final interior visual/proof approval, final back/full-wrap proof, explicit English source freeze, pricing and KDP publication remain owner-controlled.
+Current owner actions are independent: **select the winning front-cover file when ready** and **provide the four final interior visual files when ready**. Final interior visual/proof approval, final back/full-wrap proof, explicit English source freeze, pricing and KDP publication remain owner-controlled.
 
 English release candidate first, strict preflight, then Polish only after explicit English freeze.
 
@@ -505,10 +505,13 @@ Current source-manager truth:
 - approved art must not be "improved for consistency" automatically.
 - old Book Creator roster containing duck/red panda/chameleon/old slot is superseded.
 - final PDF must use only the canonical final-source folder after owner promotion.
-- PR #14 is Draft/Open/Mergeable at head `45429828f64b03bedfcb4e5fab87c5ba41dfe812`; Optical Book Creator quality #80 is green.
-- since the prior Brain checkpoint, the branch added exact-identity seek/find enrollment, fail-closed post-render source reproof, exact-volume integrity/proof gates, editorial/interstitial rules and KDP print-proof planning.
+- PR #14 is Draft/Open/Mergeable at head `4c759ba781ae9a76da0adf942670ece69ab88da9`.
+- the current branch hardens exact-identity proofing by binding seek/find proofs to the renderer implementation SHA and failing closed on stale renderer provenance.
+- Optical Book Creator quality #88 **FAILED** on the current head after a real runner started; roster/source-lock validation and dependency setup passed, and the failure occurred in `Exercise release gates and synthetic PDF assembly` (unittest step). This is a repository-side CI blocker, not a pre-runner infrastructure signal. Do not promote release readiness until repaired and green.
+- the earlier quality #80 green result is historical evidence for the prior head, not current-head evidence.
 - exact seek/find targets must be source-derived from owner-approved hero art; invented/redrawn/reposed lookalikes are rejected by contract.
 - Butterfly Finale layout is a separate owner gate between A: one 8.5x11 hero page and B: a true two-page gutter-safe spread. No automatic selection, FINAL20 promotion, manifest change or final spread split is allowed before the owner reviews the actual approved-art comparison packet.
+- repairing current CI may proceed only within the existing exact-identity/provenance contract and must not cross any art-selection, FINAL20, production-resolution or publication owner gate.
 
 ## 14. Senior / Hello Today
 
