@@ -1,7 +1,7 @@
-# RSE Marketing Autopilot Checkpoint — 2026-09-23
+# RSE Marketing Autopilot Checkpoint — 2026-09-24
 
 Status: DURABLE BOOTSTRAP COMPLETE / DETECTIVE PRE-LAUNCH ACTIVE / ENGLISH NOT FROZEN
-Last reconciled: 2026-09-23
+Last reconciled: 2026-09-24
 
 ## Milestone
 
@@ -19,8 +19,8 @@ Created:
 Current campaign priority follows the canonical stack:
 1. Detective Academy -> English KDP
 2. Detective Academy -> Polish KDP after English source freeze
-3. 24 Gentle Steps to Christmas
-4. Optical Animals
+3. Optical Animals
+4. 24 Gentle Steps to Christmas
 5. Consumer App Factory / Google Play
 
 Mind Bloom Private V1 is frozen/non-active commercially.
@@ -51,13 +51,13 @@ This is an execution-efficiency decision, not a change to product positioning.
 
 ## Detective product dependency
 
-Live PR #571 is Draft/Open/Mergeable at checkpoint head `411eb5fa8a651dfe804b718af5cdf86038d0fe16`.
+Live PR #571 is Draft/Open/Mergeable at current head `1fed50b7e969c60da1a1b9d743665473ceb15049`.
 
 Current product truth:
 - canonical V4/V4.1 story, puzzle logic and verified Shigai spatial geometry remain protected;
-- verified implementation head `5560207f80fa8a1f1392ff782ee38920365ac798` has Build Detective Academy PDF #155 PASS and SEO Validation #675 PASS;
-- the physical contract is now 146 pages and asset-independent source polish is exhausted;
-- deterministic finalizer, reverse-entry/onboarding surfaces, typography/grayscale/fail-closed QA and case-parity visual families are in source;
+- Build Detective Academy PDF #174 PASS and SEO Validation #713 PASS on the current head;
+- the physical contract is 146 pages and asset-independent source polish is exhausted;
+- deterministic finalizer, reverse-entry/onboarding surfaces, typography/grayscale/fail-closed QA, case-parity visual families and source-locked modern-prop safety scaffolding are in source;
 - English source is **NOT FROZEN**;
 - the exact final owner visual set is four files: `case03_photo_A.png`, `case03_photo_B.png`, `case03_solution.png`, and `book2_archive_photo.png`;
 - owner-supplied final visuals must be used exactly and SHA-locked; no regeneration, restyling, destructive crop or silent substitution is allowed;
@@ -73,6 +73,16 @@ The next safe product sequence is:
 
 Marketing may continue preparing from already approved positioning and approved assets, but must not present V4.1 as final/frozen, announce a publication-ready date, use exploratory Case 03/Book 2 candidates as final assets, or pull full-book Polish production forward.
 
+## Detective cover + A+ packaging checkpoint
+
+The owner-approved 2026-09-24 front cover is visually locked and must not be regenerated, recomposed, restyled or silently replaced. The current question-mark/scanner Academy mark is the locked logo direction.
+
+Canonical packaging sources:
+- `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
+- `marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md`
+
+Back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked for execution. Final back/full-wrap output, final generated A+ assets and physical proof remain owner-review gated. Cover/A+ work does not freeze the English interior and does not satisfy the separate four-file interior visual gate.
+
 ## Next marketing gate
 
 Prepare the first pre-launch batch from already approved Detective positioning/assets only.
@@ -81,9 +91,9 @@ Before the first live organic batch, owner should review the initial creative/co
 
 ## Owner gates
 
-No paid activation, budget increase, pricing, discount/promotion, final four-file Detective visual selection/delivery, final English interior approval/freeze, final cover decision, physical-proof approval or KDP publication occurs here without owner approval.
+No paid activation, budget increase, pricing, discount/promotion, final four-file Detective interior visual selection/delivery, final English interior approval/freeze, final back/full-wrap and physical-proof approval, final generated A+ asset approval, or KDP publication occurs here without owner approval.
 
-Current Detective product owner action required: **none until the four final visual files are ready**.
+Current Detective product owner action required: **none until the four final interior visual files are ready**.
 
 ## Recovery after chat loss
 
