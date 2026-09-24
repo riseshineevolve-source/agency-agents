@@ -380,14 +380,14 @@ programs:
     phase_2b_gate: owner_select_one_provider_and_approve_least_privilege_scopes_token_broker_kms_retention_callback_pkce_server_adapter_and_remote_staging_activation_before_oauth_or_provider_implementation
     ci_note: run_72_failed_before_runner_assignment_with_no_job_steps_so_code_regression_not_established_same_class_as_run_68; GitHub Actions budget exhausted; Mind Bloom CI moved to ubuntu-slim for lower future cost; post-freeze deployment-hardening head fdbc263 passed CI #83
   opinie:
-    status: active_synthetic_bootstrap_owner_gated_merge_conflict
+    status: active_synthetic_bootstrap_owner_gated
     staging_repo: riseshineevolve-source/riseshineevolve
     branch: feat/opinie-offline-workbench-bootstrap
     draft_pr: 18
     current_head: b973797697516ec7bbbea6f2d42fbc7381d3a1b8
-    pr_mergeable: false
-    branch_conflict_recorded: true
-    mergeability_note: live_GitHub_2026_09_24_reports_mergeable_false_at_same_synthetic_only_head; do_not_resolve_by_moving_real_data_or_destructive_rebase
+    pr_mergeable: true
+    branch_conflict_recorded: false
+    mergeability_note: live_GitHub_2026_09_24_briefly_returned_false_then_two_repeated_reads_returned_true_at_unchanged_synthetic_only_head; treat_false_as_transient_recompute
     production_runtime: local_offline
     real_data_remote_allowed: false
     latest_live_ci_run: 63
