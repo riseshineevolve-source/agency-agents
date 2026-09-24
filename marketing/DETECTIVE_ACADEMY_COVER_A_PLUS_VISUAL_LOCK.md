@@ -192,6 +192,8 @@ The tablet should:
 
 Do not place a second freestanding QR box elsewhere.
 
+The image-generation stage may show only a QR placeholder on the tablet. The final production wrap must overlay the real functional QR code as a separate exact asset and test it on the exported print-resolution cover. Never trust an AI-generated QR pattern as the live code.
+
 ### RSE motto
 
 Keep:
