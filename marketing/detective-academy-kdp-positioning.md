@@ -4,6 +4,7 @@ Status: **CANONICAL MARKETING / POSITIONING LOCK**
 Updated: 2026-09-21
 Product: **Happy Makers Detective Academy: The Mystery of Room Zero**
 Commercial priority: **ASAP KDP launch / Q4 revenue**
+Operational KDP packaging source: `marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md`
 
 ## Strategic position
 
