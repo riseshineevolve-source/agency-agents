@@ -93,15 +93,18 @@ The earlier ALL-15 map-system design gate remains closed; the four-file visual s
 
 ## Current Detective cover + A+ truth
 
-The 2026-09-24 front cover is **OWNER-APPROVED AND VISUALLY LOCKED**. Do not regenerate, recompose, restyle or "improve" it without a new explicit owner request. The current question-mark/scanner Academy logo direction is also locked.
+Front-cover selection is **REOPENED / OWNER SELECTION PENDING** as of 2026-09-24. The previously named `front cover final.png` is explicitly NOT final, and no front candidate is currently locked. Do not regenerate or alter candidates unless the owner asks, and do not use any previous candidate as the wrap/A+ source of truth until the owner explicitly names the winning file. The current question-mark/scanner Academy logo direction remains locked.
 
 Canonical packaging brief:
 - `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
 - `marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md`
 
-Back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked for execution. Final back/full-wrap output and final generated A+ assets remain owner-review gated. Cover/A+ work does not freeze the English interior and does not satisfy the separate four-file interior visual gate.
+Back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked for execution, but final visual continuity must inherit the ultimately selected front. Final back/full-wrap output and final generated A+ assets remain owner-review gated. Cover/A+ work does not freeze the English interior and does not satisfy the separate four-file interior visual gate.
+
+A bounded modern-prop handoff also exists for the HMDA_02 / HMDA_13 / HMDA_29 pilot: builder commit `7b1d27d`, package SHA-256 `771584ed7425c1b66a9c902baa4b36d763a13ddd3432180caf2ce05769299347`, 23 exact stable asset IDs. No final prop art is owner-approved. Final prop visuals must be created outside Codex, then owner-reviewed and SHA-registered before any three-pilot integration render/QA. Rejected V4 prop art must not be scaled across all 15 maps.
 
 Remaining owner-controlled gates:
+- explicit winning Detective front-cover file selection
 - exact four-file Detective interior visual set approval/delivery
 - final interior visual approval / representative physical proof
 - final back-cover/full-wrap + physical-proof approval
@@ -110,7 +113,7 @@ Remaining owner-controlled gates:
 - pricing
 - KDP upload / publication
 
-Current Detective product owner action required: **none until the four final interior visual files are ready**.
+Current Detective product owner actions are independent: **select the winning front-cover file when ready**, and **provide the four final interior visual files when ready**. Neither gate implies English-source freeze.
 
 Polish full-book production begins only after explicit English-source freeze. Canva remains a finishing layer only; repeated layouts, hints, solutions and print output stay code-driven.
 
@@ -257,6 +260,7 @@ Owner approval required for:
 - paid activation / new budget / budget increase
 - pricing
 - discount / promotion
+- winning Detective front-cover file selection
 - exact four-file Detective final interior visual set
 - final Detective English interior visual approval / source freeze
 - final Detective back/full-wrap and physical proof
