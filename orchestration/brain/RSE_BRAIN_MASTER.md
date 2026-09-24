@@ -430,6 +430,15 @@ Current owner-accepted working decisions include:
 - Next safe step is external art creation OUTSIDE Codex from the handoff package, then owner review, exact SHA registration and only then a three-pilot integration render/QA.
 - Codex must not invent the final prop visual language and must not scale rejected V4 art to all 15 maps.
 
+
+
+Modern-props candidate v3 checkpoint — 2026-09-24:
+- 6 REMAKE assets were replaced externally: backpack_cubbies, collaborative_desk, dino_statue, exam_bench, operations_seating, stool.
+- 11 BORDERLINE assets received an external cleanup pass: archive_seating, commons_seating, feeding_trough, field_equipment_case, field_guide_kiosk, giant_fern, hydration_station, maker_bench, mentor_workstation, ranger_desk, viewing_bench.
+- Combined package: `HMDA_23_props_candidate_v3.zip` with 23/23 exact filenames and updated hashes.
+- Local preflight: all 23 technically fit renderer bounds; 8 aspect-envelope REVIEW flags remain (commons_seating, feeding_trough, giant_fern, globe, hydration_station, medical_supply_case, operations_seating, piano). These are not automatic fails and require real three-map print-context review.
+- Next gate: rerun exactly HMDA_02 / HMDA_13 / HMDA_29 using candidate v3, compare SOURCE -> V4 -> candidate v3, classify CLEAR/BORDERLINE/REMAKE, preserve all locked structure and do not promote or scale out before owner approval.
+
 ## 11. Detective Academy
 
 Current product source:
