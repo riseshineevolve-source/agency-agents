@@ -95,8 +95,8 @@ optical_animals_live_reconciliation:
   pr_state: draft_open_mergeable
   latest_quality_run: 94
   latest_quality_run_id: 36013801792
-  latest_quality_status: in_progress
-  latest_quality_conclusion: pending
+  latest_quality_status: completed
+  latest_quality_conclusion: success
   current_gate: owner_art_lock_unchanged
   next_safe_action: no_new_source_work_wait_for_owner_art_or_concrete_regression
 
