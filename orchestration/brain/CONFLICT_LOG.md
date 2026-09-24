@@ -80,11 +80,11 @@ Current truth: canonical-input materialization is no longer the active blocker. 
 Earlier Brain/Marketing checkpoints described the 2026-09-24 Detective front cover as owner-approved and visually locked. The owner subsequently reopened the final front selection; `front cover final.png` is explicitly NOT final.
 Current truth: no front-cover candidate is currently locked. The owner must explicitly name the winning file before it becomes the wrap/A+ source of truth. The question-mark/scanner Academy mark remains the locked logo direction. `RSE_BRAIN_MASTER.md`, `DECISION_LEDGER.md`, `OWNER_GATES.md`, `PROGRAM_REGISTRY.yml` and the durable Marketing handoff/checkpoint have been reconciled to this state.
 
-## Open / requires future reconciliation
+### Optical Animals PR #14 renderer-provenance CI failure — resolved 2026-09-24
+PR #14 briefly advanced to head `4c759ba781ae9a76da0adf942670ece69ab88da9`, where Optical Book Creator quality #88 failed in `Exercise release gates and synthetic PDF assembly` after a real runner started. This was a repository-side compatibility failure, not pre-runner infrastructure.
+The branch then advanced to `f2781667331ccc7782968c128abd1d691fe29aa3` with a one-line compatibility repair preserving the existing `rse.optical-animals.exact-placement-proof.v1` schema while retaining renderer-provenance binding. Optical Book Creator quality #90 passed on that head; PR #14 remains Draft/Open/Mergeable. Current truth: the CI blocker is CLOSED. The provenance hardening remains active, while all art-selection, FINAL20, Butterfly-layout, production-resolution, physical-proof and publication owner gates remain unchanged.
 
-### Optical Animals PR #14 current CI blocker — 2026-09-24
-PR #14 advanced to head `4c759ba781ae9a76da0adf942670ece69ab88da9` with exact seek/find proof hardening that binds proof packets to the current renderer implementation SHA and rejects stale renderer provenance fail-closed. GitHub Actions `Optical Book Creator quality` #88 ran on a real runner and failed in `Exercise release gates and synthetic PDF assembly`; roster/source-lock validation and dependency setup passed first.
-Current handling: treat this as a repository-side CI blocker on the current head, not an infrastructure/pre-runner signal. Do not claim current-head release readiness or owner-proof readiness until the existing exact-identity/provenance contract is repaired and CI is green. Repair must not promote art, alter protected approved visuals, select the Butterfly layout, create FINAL20, or cross any production/publication owner gate.
+## Open / requires future reconciliation
 
 ### Polish Localization PR #6 current merge conflict — 2026-09-24
 Live GitHub reports PR #6 Draft/Open and `mergeable: false` at unchanged head `f9d938611661f74108bdafa1df6ac8de1aaa27f1`. Localization Regression #31 remains the last recorded green branch-regression evidence. Central continuity writes continue to advance `main`.
