@@ -10,18 +10,18 @@ detective_academy:
   repo: riseshineevolve-source/RISE.SHINE.EVOLVE
   pr: 571
   branch: feature/detective-book-factory
-  live_head: 1ece5b4c112f08740bdab29b50048a650f340db7
-  previous_checkpoint_head: bbee26828777dd5939d5ec8190bc166179ee603d
-  head_delta_commits: 5
-  latest_commit_message: Checkpoint modern prop footprint guard PASS
+  live_head: 03f0ef01928dc0bcd8d7d19e058c507229c88778
+  previous_checkpoint_head: 1ece5b4c112f08740bdab29b50048a650f340db7
+  head_delta_commits: 2
+  latest_commit_message: Checkpoint runtime-bound modern prop safety
   pr_state: draft_open_mergeable
   merged: false
   english_source_frozen: false
-  latest_build_run: 166
-  latest_build_run_id: 35938675541
+  latest_build_run: 168
+  latest_build_run_id: 35942694883
   latest_build_conclusion: success
-  latest_seo_run: 697
-  latest_seo_run_id: 35938675619
+  latest_seo_run: 701
+  latest_seo_run_id: 35942694904
   latest_seo_conclusion: success
   finalization_checkpoint: tools/detective-book-factory/DETECTIVE_KDP_FINALIZATION_CHECKPOINT.md
   finalization_checkpoint_status: V4_1_SOURCE_POLISH_COMPLETE_OWNER_VISUAL_GATE_OPEN_ENGLISH_NOT_FROZEN
@@ -34,17 +34,18 @@ detective_academy:
     owner_visual_change: false
     locked_logic_or_geometry_change: false
     semantic_runtime_change: false
-    scope: isolated_fail_closed_modern_prop_footprint_guard_only
+    scope: isolated_fail_closed_modern_prop_runtime_binding_and_solution_person_protection_only
     files_changed_since_previous_checkpoint:
-      - .github/workflows/build-detective-book.yml
-      - tools/detective-book-factory/DETECTIVE_MAP_FACTORY_SMALL_FIXES_CHECKPOINT.md
+      - tools/detective-book-factory/MODERN_PROP_PRESENTATION_CONTRACT.md
       - tools/detective-book-factory/scripts/validate_modern_prop_footprint.py
     notes:
       - production map path remains hybrid-original-shigai
-      - modern props are not integrated into production maps
-      - the independent before_after footprint guard is now in Detective CI
-      - the guard was boundedly repaired to Pillow-only and canonical binary-mask semantics
+      - modern props remain unintegrated into production maps
+      - footprint guard now binds plan semantics to the complete locked runtime inventory and selected-case object records
+      - solution-surface validation now protects any full object cell occupied by a runtime witness/person
+      - representative synthetic tests cover occupied-solution-cell failure, unoccupied pass, moved-cell/runtime drift failure, RGB leak failure and alpha-only leak failure
       - no source raster, owner visual, puzzle geometry, clue, answer, witness placement, coordinate, Room Zero logic or canonical page contract changed
+      - branch-level contract text about future runtime-inventory or representative-proof work does not override the central owner-gate lane lock
   current_lane:
     asset_independent_v4_1_source_polish: exhausted
     do_not_manufacture_more_refactors_or_repeated_audits: true
@@ -58,6 +59,7 @@ detective_academy:
   owner_visual_live_check_2026_09_24:
     exact_canonical_filenames_found_in_conversation_or_library: false
     search_rechecked_after_live_head_change: true
+    recent_library_images_present_under_noncanonical_names: true
     promoted_or_selected: false
   final_bounded_pass_after_exact_asset_delivery:
     - validate_all_four_exact_files
