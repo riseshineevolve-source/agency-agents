@@ -53,12 +53,12 @@ Resolved map-system design gate:
 - this closed map-system gate does **not** imply approval of newly introduced final visual assets.
 
 Current English source / artifact gate:
-- PR #571 current head is `1ece5b4c112f08740bdab29b50048a650f340db7`; English remains **NOT FROZEN**,
+- PR #571 current head is `03f0ef01928dc0bcd8d7d19e058c507229c88778`; English remains **NOT FROZEN**,
 - the V4.1 source includes the deterministic finalizer, reverse-entry engine, print-typography QA, grayscale audit, fail-closed final-artifact audit, locked-V4 spatial recovery bridge, dedicated page-110 STOP / HINT VAULT divider, diversified case-specific interludes, and cinematic Book 2 presentation surface,
-- Build Detective Academy PDF #166 and SEO Validation #697 are green on the current head, but green CI does **not** substitute for a complete audited owner-review artifact and physical proof,
-- commits after `411eb5fa8a651dfe804b718af5cdf86038d0fe16` remain isolated modern-prop presentation scaffolding only: contract/template layers, fail-closed validators, a cell-confined overlay planner/self-tests, and now an independent before/after footprint guard; no owner visual file, production map substitution or canonical logic/geometry was changed,
-- the footprint guard is wired into CI and was boundedly repaired to a Pillow-only implementation with canonical binary-mask semantics; it still does not perform production substitution,
-- that modern-prop scaffolding is not wired into the production renderer and does **not** reopen an autonomous source-polish lane or authorize prop substitution while the four-file owner visual gate remains open,
+- Build Detective Academy PDF #168 and SEO Validation #701 are green on the current head, but green CI does **not** substitute for a complete audited owner-review artifact and physical proof,
+- commits after `411eb5fa8a651dfe804b718af5cdf86038d0fe16` remain isolated modern-prop presentation scaffolding only: contract/template layers, fail-closed validators, a cell-confined overlay planner/self-tests, independent before/after footprint guarding, direct locked-runtime semantic binding, and conservative solution witness/person-cell protection; no owner visual file, production map substitution or canonical logic/geometry was changed,
+- the footprint guard is wired into CI, uses Pillow-only canonical binary-mask semantics, validates the complete runtime object inventory plus selected-case object records, and for solution surfaces protects any full cell occupied by a witness/person; it still does not perform production substitution,
+- the branch-level modern-prop contract may describe future runtime-inventory/representative-proof work, but that does **not** override this central lane lock: modern-prop scaffolding is not a current autonomous production task while the four-file owner visual gate remains open,
 - the earlier canonical-input materialization blocker is closed by the current source/recovery bridge; verified Shigai geometry still must never be reconstructed, approximated or reinterpreted,
 - asset-independent V4.1 source polish is exhausted; do not manufacture additional refactors or repeated audits while the owner visual gate is open,
 - the final V4.1 physical contract is 146 pages, with case/map pages 1-109 unchanged, upright support divider on page 110, and reverse-entry support on pages 111-146,
