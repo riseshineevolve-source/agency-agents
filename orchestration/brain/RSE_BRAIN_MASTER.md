@@ -505,13 +505,12 @@ Current source-manager truth:
 - approved art must not be "improved for consistency" automatically.
 - old Book Creator roster containing duck/red panda/chameleon/old slot is superseded.
 - final PDF must use only the canonical final-source folder after owner promotion.
-- PR #14 is Draft/Open/Mergeable at head `4c759ba781ae9a76da0adf942670ece69ab88da9`.
-- the current branch hardens exact-identity proofing by binding seek/find proofs to the renderer implementation SHA and failing closed on stale renderer provenance.
-- Optical Book Creator quality #88 **FAILED** on the current head after a real runner started; roster/source-lock validation and dependency setup passed, and the failure occurred in `Exercise release gates and synthetic PDF assembly` (unittest step). This is a repository-side CI blocker, not a pre-runner infrastructure signal. Do not promote release readiness until repaired and green.
-- the earlier quality #80 green result is historical evidence for the prior head, not current-head evidence.
+- PR #14 is Draft/Open/Mergeable at head `f2781667331ccc7782968c128abd1d691fe29aa3`.
+- the branch hardens exact-identity proofing by binding seek/find proofs to the renderer implementation SHA and failing closed on stale renderer provenance while preserving the existing `rse.optical-animals.exact-placement-proof.v1` schema for compatibility.
+- Optical Book Creator quality #90 **PASS** on the current head; the earlier #88 repository-side unittest failure at head `4c759ba...` was closed by the one-line schema-compatibility repair. Current PR evidence reports 87/87 deterministic/synthetic tests PASS.
 - exact seek/find targets must be source-derived from owner-approved hero art; invented/redrawn/reposed lookalikes are rejected by contract.
 - Butterfly Finale layout is a separate owner gate between A: one 8.5x11 hero page and B: a true two-page gutter-safe spread. No automatic selection, FINAL20 promotion, manifest change or final spread split is allowed before the owner reviews the actual approved-art comparison packet.
-- repairing current CI may proceed only within the existing exact-identity/provenance contract and must not cross any art-selection, FINAL20, production-resolution or publication owner gate.
+- all art-selection, FINAL20, production-resolution, source-linked token, physical-proof and publication gates remain unchanged; green CI does not cross them.
 
 ## 14. Senior / Hello Today
 
