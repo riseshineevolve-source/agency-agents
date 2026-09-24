@@ -1,7 +1,7 @@
 # RSE Marketing Autopilot — Resume From Zero
 
 Status: CANONICAL RECOVERY ENTRYPOINT
-Updated: 2026-09-23
+Updated: 2026-09-24
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
 
@@ -29,7 +29,9 @@ The Central RSE Orchestrator does NOT duplicate content production, publishing o
 10. `marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md`
 11. `marketing/DETECTIVE_30D_ENGINE.md`
 12. `marketing/PERFORMANCE_MEMORY.yml`
-13. current product/registry checkpoints when a campaign depends on product readiness
+13. `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
+14. `marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md`
+15. current product/registry checkpoints when a campaign depends on product readiness
 
 ### Private/operational marketing brain — riseshineevolve-source/riseshineevolve/main
 Read:
@@ -54,8 +56,8 @@ Merged foundation:
 
 1. Detective Academy -> English KDP launch
 2. Detective Academy -> Polish KDP after explicit English source freeze
-3. 24 Gentle Steps to Christmas
-4. Optical Animals
+3. Optical Animals
+4. 24 Gentle Steps to Christmas
 5. Consumer App Factory / Google Play when external gates allow
 
 Mind Bloom Private V1 is DONE/frozen and is not an active commercial marketing lane.
@@ -66,11 +68,10 @@ Do not wait for Google Play/DUNS to monetize KDP-ready products.
 
 The English interior has completed the asset-independent V4.1 source-polish lane, but it is still **NOT FROZEN**:
 - PR #571 is Draft / Open / Mergeable
-- current checkpoint head `411eb5fa8a651dfe804b718af5cdf86038d0fe16`
-- verified implementation head `5560207f80fa8a1f1392ff782ee38920365ac798`
-- Build Detective Academy PDF #155 PASS and SEO Validation #675 PASS at the verified implementation head
-- the physical contract is now 146 pages
-- exact Field Detective ID/call-sign corrections, Case Wall/Evidence Log onboarding, the page-110 Hint Vault/Solutions divider, Signal Log/Witness Board/finale/certificate polish, grayscale/typography fail-closed QA, Case 26 generated-map references, and four deterministic case-parity visual families are present
+- current head `1fed50b7e969c60da1a1b9d743665473ceb15049`
+- Build Detective Academy PDF #174 PASS and SEO Validation #713 PASS on the current head
+- the physical contract is 146 pages
+- exact Field Detective ID/call-sign corrections, Case Wall/Evidence Log onboarding, the page-110 Hint Vault/Solutions divider, Signal Log/Witness Board/finale/certificate polish, grayscale/typography fail-closed QA, Case 26 generated-map references, deterministic case-parity visual families, and source-locked modern-prop safety scaffolding are present
 - canonical story/logic/spatial geometry remains protected; do not reopen the locked 30-case logic, five-act story, Detective Six premise, Room Zero mechanism, Naming B, numeric witness IDs or solved Shigai geometry
 - the earlier canonical Shigai/runtime/final-map materialization blocker is closed; verified Shigai geometry must still never be reconstructed or approximated
 - asset-independent source polish is exhausted; do not manufacture additional refactors or repeated audits while waiting for the owner visuals
@@ -90,15 +91,26 @@ Marketing must not describe the interior as final/frozen or announce a publicati
 
 The earlier ALL-15 map-system design gate remains closed; the four-file visual set is a separate owner gate and does not inherit the map-system approval.
 
+## Current Detective cover + A+ truth
+
+The 2026-09-24 front cover is **OWNER-APPROVED AND VISUALLY LOCKED**. Do not regenerate, recompose, restyle or "improve" it without a new explicit owner request. The current question-mark/scanner Academy logo direction is also locked.
+
+Canonical packaging brief:
+- `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
+- `marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md`
+
+Back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked for execution. Final back/full-wrap output and final generated A+ assets remain owner-review gated. Cover/A+ work does not freeze the English interior and does not satisfy the separate four-file interior visual gate.
+
 Remaining owner-controlled gates:
-- exact four-file Detective visual set approval/delivery
-- final visual approval / representative physical proof
-- final cover / physical proof
+- exact four-file Detective interior visual set approval/delivery
+- final interior visual approval / representative physical proof
+- final back-cover/full-wrap + physical-proof approval
+- final generated A+ assets where used
 - explicit English source freeze
 - pricing
 - KDP upload / publication
 
-Current Detective product owner action required: **none until the four final visual files are ready**.
+Current Detective product owner action required: **none until the four final interior visual files are ready**.
 
 Polish full-book production begins only after explicit English-source freeze. Canva remains a finishing layer only; repeated layouts, hints, solutions and print output stay code-driven.
 
@@ -245,11 +257,11 @@ Owner approval required for:
 - paid activation / new budget / budget increase
 - pricing
 - discount / promotion
-- exact four-file Detective final visual set
+- exact four-file Detective final interior visual set
 - final Detective English interior visual approval / source freeze
-- final cover
+- final Detective back/full-wrap and physical proof
+- final generated A+ assets where used
 - KDP publication
-- physical proof
 - new health/medical/therapeutic claims
 - major positioning changes
 - private family material
