@@ -1,4 +1,4 @@
-version: 23
+version: 24
 updated: 2026-09-24
 brain_status: canonical
 global:
@@ -281,25 +281,26 @@ programs:
     repo: riseshineevolve-source/riseshineevolve
     branch: mobile/mobile-first-rebuild
   optical_animals:
-    status: owner_gated_exact_identity_renderer_provenance_hardened_quality_ci_failure_art_lock_active
+    status: owner_gated_exact_identity_renderer_provenance_hardened_quality_green_art_lock_active
     repo: riseshineevolve-source/riseshineevolve
     branch: feat/optical-animals-book-creator
     pr: 14
-    current_head: 4c759ba781ae9a76da0adf942670ece69ab88da9
+    current_head: f2781667331ccc7782968c128abd1d691fe29aa3
     approved_visuals: 12
     unresolved_visuals: 8
     owner_reported_creation_progress: 19_of_20_ready_not_equivalent_to_FINAL20_lock
     approved_originals_hash_preserved: true
-    hardening_tests: prior_30_PASS_baseline_plus_renderer_provenance_binding_changes_current_CI_not_green
-    synthetic_preview_pdf: prior_28_pages_300dpi_PASS_current_head_CI_not_green
-    deterministic_package_hashes: prior_PASS_current_head_requires_green_reverification
-    latest_quality_ci_run: 88
-    latest_quality_ci_conclusion: FAILURE
-    latest_quality_ci_head: 4c759ba781ae9a76da0adf942670ece69ab88da9
-    latest_quality_ci_failure_step: Exercise_release_gates_and_synthetic_PDF_assembly
-    latest_quality_ci_runner_started: true
-    latest_quality_ci_failure_class: repository_side_unittest_failure_not_pre_runner_infrastructure
+    hardening_tests: 87_of_87_deterministic_synthetic_PASS_current_head
+    synthetic_preview_pdf: current_head_quality_green
+    deterministic_package_hashes: current_head_quality_green
+    latest_quality_ci_run: 90
+    latest_quality_ci_conclusion: PASS
+    latest_quality_ci_head: f2781667331ccc7782968c128abd1d691fe29aa3
+    prior_quality_ci_failure_run: 88
+    prior_quality_ci_failure_head: 4c759ba781ae9a76da0adf942670ece69ab88da9
+    prior_quality_ci_failure_class: schema_compatibility_repository_side_resolved
     renderer_provenance_binding: implementation_sha256_bound_and_stale_renderer_provenance_rejected_fail_closed
+    placement_proof_schema: rse.optical-animals.exact-placement-proof.v1_compatibility_preserved
     factory_v2: generic_multi_volume_ready_below_owner_art_gates
     art_direction_v2: tools/optical-book-creator/OPTICAL_ART_DIRECTION_V2.md
     art_direction_status: ACTIVE_COLLECTION_ART_LOCK
@@ -308,7 +309,7 @@ programs:
     exact_volume_proof_gate: tools/optical-book-creator/EXACT_VOLUME_PROOF_GATE.md
     butterfly_finale_layout_gate: tools/optical-book-creator/BUTTERFLY_FINALE_LAYOUT_GATE.md
     kdp_print_proof_plan: tools/optical-book-creator/KDP_PRINT_PROOF_PLAN.md
-    exact_identity_post_render_reproof: fail_closed_prior_green_current_head_ci_failure
+    exact_identity_post_render_reproof: fail_closed_current_head_green
     candidate_auto_promotion: false
     production_target_pixels: 2550x3300
     present_originals_below_production_target: 12
@@ -316,7 +317,7 @@ programs:
     final_owner_lock_exists: false
     production_release_authorized: false
     butterfly_layout_owner_decision: pending_actual_approved_art_comparison_packet_A_single_vs_B_true_spread
-    next_gate: repair_and_green_current_renderer_provenance_CI_without_crossing_art_owner_gates_then_owner_resolve_remaining_art_and_butterfly_layout_approve_production_resolution_inputs_and_source_linked_tokens_then_approve_full_order_contact_proof_and_final_lock
+    next_gate: owner_resolve_remaining_art_and_butterfly_layout_approve_production_resolution_inputs_and_source_linked_tokens_then_approve_full_order_contact_proof_and_final_lock
   senior:
     status: source_side_hardening_complete_external_release_gates
     repo: riseshineevolve-source/hello-today-android.
