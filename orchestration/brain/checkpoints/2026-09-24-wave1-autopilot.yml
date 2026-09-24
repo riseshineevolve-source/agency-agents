@@ -77,6 +77,29 @@ detective_academy:
     - pricing
     - kdp_upload_publication
 
+optical_animals_live_reconciliation:
+  repo: riseshineevolve-source/riseshineevolve
+  pr: 14
+  branch: feat/optical-animals-book-creator
+  previous_registry_head: f2781667331ccc7782968c128abd1d691fe29aa3
+  live_head: b404f7af8bf32526d5c45b03472d0b4c67a7ed58
+  head_delta_commits: 2
+  delta_scope: exact_identity_placement_provenance_hardening_only
+  changes:
+    - placement proof provenance now also binds manifest.py
+    - placement proof provenance now also binds requirements.txt
+    - deterministic tests assert the expanded five-file provenance set and 64-character hashes
+  owner_art_changed: false
+  final20_lock_changed: false
+  factory_scope_changed: false
+  pr_state: draft_open_mergeable
+  latest_quality_run: 94
+  latest_quality_run_id: 36013801792
+  latest_quality_status: in_progress
+  latest_quality_conclusion: pending
+  current_gate: owner_art_lock_unchanged
+  next_safe_action: no_new_source_work_wait_for_owner_art_or_concrete_regression
+
 other_lanes:
   optical_animals: owner_art_gated_no_speculative_factory_work
   polish_localization: parked_until_explicit_detective_english_freeze
