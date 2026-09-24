@@ -10,18 +10,18 @@ detective_academy:
   repo: riseshineevolve-source/RISE.SHINE.EVOLVE
   pr: 571
   branch: feature/detective-book-factory
-  live_head: 03f0ef01928dc0bcd8d7d19e058c507229c88778
-  previous_checkpoint_head: 1ece5b4c112f08740bdab29b50048a650f340db7
+  live_head: fe5cd83785aa242f6c2afc62dd347d2926735e99
+  previous_checkpoint_head: 03f0ef01928dc0bcd8d7d19e058c507229c88778
   head_delta_commits: 2
-  latest_commit_message: Checkpoint runtime-bound modern prop safety
+  latest_commit_message: Run structural modern prop guard in Detective CI
   pr_state: draft_open_mergeable
   merged: false
   english_source_frozen: false
-  latest_build_run: 168
-  latest_build_run_id: 35942694883
+  latest_build_run: 170
+  latest_build_run_id: 35947235145
   latest_build_conclusion: success
-  latest_seo_run: 701
-  latest_seo_run_id: 35942694904
+  latest_seo_run: 705
+  latest_seo_run_id: 35947235104
   latest_seo_conclusion: success
   finalization_checkpoint: tools/detective-book-factory/DETECTIVE_KDP_FINALIZATION_CHECKPOINT.md
   finalization_checkpoint_status: V4_1_SOURCE_POLISH_COMPLETE_OWNER_VISUAL_GATE_OPEN_ENGLISH_NOT_FROZEN
@@ -34,18 +34,19 @@ detective_academy:
     owner_visual_change: false
     locked_logic_or_geometry_change: false
     semantic_runtime_change: false
-    scope: isolated_fail_closed_modern_prop_runtime_binding_and_solution_person_protection_only
+    scope: isolated_fail_closed_modern_prop_structural_safety_only
     files_changed_since_previous_checkpoint:
-      - tools/detective-book-factory/MODERN_PROP_PRESENTATION_CONTRACT.md
-      - tools/detective-book-factory/scripts/validate_modern_prop_footprint.py
+      - tools/detective-book-factory/scripts/validate_modern_prop_structure.py
+      - .github/workflows/build-detective-book.yml
     notes:
       - production map path remains hybrid-original-shigai
       - modern props remain unintegrated into production maps
-      - footprint guard now binds plan semantics to the complete locked runtime inventory and selected-case object records
-      - solution-surface validation now protects any full object cell occupied by a runtime witness/person
-      - representative synthetic tests cover occupied-solution-cell failure, unoccupied pass, moved-cell/runtime drift failure, RGB leak failure and alpha-only leak failure
+      - structural guard hash-locks locked runtime spatial invariants and topology before/after proof overlays
+      - wall and door edge bands plus attached source-label footprints are protected from structural drift
+      - synthetic self-tests cover 6/7/9 grids and boundary, label, room and door drift failure modes
+      - the structural guard now runs fail-closed in Detective CI
       - no source raster, owner visual, puzzle geometry, clue, answer, witness placement, coordinate, Room Zero logic or canonical page contract changed
-      - branch-level contract text about future runtime-inventory or representative-proof work does not override the central owner-gate lane lock
+      - branch-level modern-prop safety work does not override the central owner-gate lane lock
   current_lane:
     asset_independent_v4_1_source_polish: exhausted
     do_not_manufacture_more_refactors_or_repeated_audits: true
@@ -58,7 +59,7 @@ detective_academy:
     - book2_archive_photo.png
   owner_visual_live_check_2026_09_24:
     exact_canonical_filenames_found_in_conversation_or_library: false
-    search_rechecked_after_live_head_change: true
+    search_rechecked_after_live_head_change: false
     recent_library_images_present_under_noncanonical_names: true
     promoted_or_selected: false
   final_bounded_pass_after_exact_asset_delivery:
