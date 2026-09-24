@@ -10,18 +10,18 @@ detective_academy:
   repo: riseshineevolve-source/RISE.SHINE.EVOLVE
   pr: 571
   branch: feature/detective-book-factory
-  live_head: 7104f03b625c64b91d90db58568e2fb1b29543dc
-  previous_checkpoint_head: 411eb5fa8a651dfe804b718af5cdf86038d0fe16
-  head_delta_commits: 1
-  latest_commit_message: Add fail-closed modern prop presentation contract
+  live_head: 1ece5b4c112f08740bdab29b50048a650f340db7
+  previous_checkpoint_head: bbee26828777dd5939d5ec8190bc166179ee603d
+  head_delta_commits: 5
+  latest_commit_message: Checkpoint modern prop footprint guard PASS
   pr_state: draft_open_mergeable
   merged: false
   english_source_frozen: false
-  latest_build_run: 157
-  latest_build_run_id: 35928551251
+  latest_build_run: 166
+  latest_build_run_id: 35938675541
   latest_build_conclusion: success
-  latest_seo_run: 679
-  latest_seo_run_id: 35928551281
+  latest_seo_run: 697
+  latest_seo_run_id: 35938675619
   latest_seo_conclusion: success
   finalization_checkpoint: tools/detective-book-factory/DETECTIVE_KDP_FINALIZATION_CHECKPOINT.md
   finalization_checkpoint_status: V4_1_SOURCE_POLISH_COMPLETE_OWNER_VISUAL_GATE_OPEN_ENGLISH_NOT_FROZEN
@@ -34,12 +34,17 @@ detective_academy:
     owner_visual_change: false
     locked_logic_or_geometry_change: false
     semantic_runtime_change: false
-    scope: fail_closed_modern_prop_presentation_scaffolding_only
+    scope: isolated_fail_closed_modern_prop_footprint_guard_only
+    files_changed_since_previous_checkpoint:
+      - .github/workflows/build-detective-book.yml
+      - tools/detective-book-factory/DETECTIVE_MAP_FACTORY_SMALL_FIXES_CHECKPOINT.md
+      - tools/detective-book-factory/scripts/validate_modern_prop_footprint.py
     notes:
       - production map path remains hybrid-original-shigai
       - modern props are not integrated into production maps
-      - validator self-test is now in Detective CI
-      - no source raster or owner visual was changed
+      - the independent before_after footprint guard is now in Detective CI
+      - the guard was boundedly repaired to Pillow-only and canonical binary-mask semantics
+      - no source raster, owner visual, puzzle geometry, clue, answer, witness placement, coordinate, Room Zero logic or canonical page contract changed
   current_lane:
     asset_independent_v4_1_source_polish: exhausted
     do_not_manufacture_more_refactors_or_repeated_audits: true
@@ -52,7 +57,7 @@ detective_academy:
     - book2_archive_photo.png
   owner_visual_live_check_2026_09_24:
     exact_canonical_filenames_found_in_conversation_or_library: false
-    recent_noncanonical_model_generated_images_present: true
+    search_rechecked_after_live_head_change: true
     promoted_or_selected: false
   final_bounded_pass_after_exact_asset_delivery:
     - validate_all_four_exact_files
