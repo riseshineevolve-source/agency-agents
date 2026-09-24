@@ -36,8 +36,8 @@ commercial_priority_stack_2026_q4:
   canonical_file: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
   priority_1: detective_academy_english_kdp
   priority_2: mind_bloom_private_done_frozen
-  priority_3: gentle_steps_christmas
-  priority_4: optical_animals
+  priority_3: optical_animals
+  priority_4: gentle_steps_christmas
   priority_5: consumer_app_factory_google_play
   parallel_below_gates:
     - senior_hello_today
