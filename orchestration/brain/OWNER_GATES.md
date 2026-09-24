@@ -59,7 +59,8 @@ Current English source / artifact gate:
 - Build Detective Academy PDF #174 and SEO Validation #713 are green on the current head, but green CI does **not** substitute for a complete audited owner-review artifact and physical proof,
 - commits after `411eb5fa8a651dfe804b718af5cdf86038d0fe16` remain isolated modern-prop presentation/safety scaffolding only: contract/template layers, fail-closed validators, a cell-confined overlay planner/self-tests, independent before/after footprint guarding, direct locked-runtime semantic binding, conservative solution witness/person-cell protection, structural topology/label guarding, checkpoint-bound read-only source inventory with CI self-test, and a mechanically generated source-locked 70-type presentation catalog; no owner visual file, production map substitution or canonical logic/geometry was changed,
 - the footprint guard uses Pillow-only canonical binary-mask semantics, validates the complete runtime object inventory plus selected-case object records, and for solution surfaces protects any full cell occupied by a witness/person; the structural guard additionally hash-locks locked runtime spatial invariants/topology and protects wall/door edge bands plus attached source-label footprints; the checkpoint-bound inventory reads the locked Shigai checkpoint and source manifest without rewriting runtime; the source-locked catalog binds 15 selected cases / 260 objects / 70 exact source types to conservative presentation keys without selecting artwork; none performs production substitution,
-- the branch-level modern-prop contract may describe a future asset stage and representative-proof work, but that does **not** override this central lane lock: modern-prop asset generation, visual selection or substitution is not a current autonomous production task while the four-file owner visual gate remains open,
+- the external-prop handoff is bounded to HMDA_02 / HMDA_13 / HMDA_29. Handoff builder commit `7b1d27d` produced `external-art-handoff-v1` SHA-256 `771584ed7425c1b66a9c902baa4b36d763a13ddd3432180caf2ce05769299347` with 23 exact stable asset IDs, per-family art specs, transparent canvases, footprint templates, source-context crops, review template and pending manifest,
+- no final external prop art exists and no prop asset is owner-approved; final prop visual creation must happen outside Codex, then owner review and exact-SHA registration must precede any three-pilot integration render/QA. Rejected V4 prop art must not scale to all 15 maps,
 - the earlier canonical-input materialization blocker is closed by the current source/recovery bridge; verified Shigai geometry still must never be reconstructed, approximated or reinterpreted,
 - asset-independent V4.1 source polish is exhausted; do not manufacture additional refactors or repeated audits while the owner visual gate is open,
 - the final V4.1 physical contract is 146 pages, with case/map pages 1-109 unchanged, upright support divider on page 110, and reverse-entry support on pages 111-146,
@@ -73,17 +74,19 @@ Current four-file visual owner gate:
 - do not synthesize, regenerate, restyle, destructively crop or silently substitute any owner-supplied final file,
 - when the owner supplies all four exact final files, the final pass must extend the gate to all four, SHA-lock them, integrate the exact Case 03 solution asset, and fail closed unless all four validate,
 - final bounded work after exact asset delivery is: four-asset validation -> SHA lock -> exact Case 03 solution integration -> canonical 146-page render -> full-page human visual QA -> physical back-entry simulation,
-- current owner action required: **provide the four exact final visual files when ready**.
+- current owner action required for this gate: **provide the four exact final visual files when ready**.
 
 Current cover / A+ packaging state:
-- the owner-approved 2026-09-24 front cover is visually locked; do not regenerate, recompose, restyle or "improve" it without a new explicit owner request,
-- the current question-mark/scanner Academy mark is the locked logo direction for the wrap/A+/launch assets,
-- back-cover copy/hierarchy/visual rules and the A+ brief are locked for execution,
+- front-cover selection is **REOPENED** by the owner as of 2026-09-24; the previously named `front cover final.png` is explicitly NOT final and no front candidate is currently locked,
+- do not regenerate or alter candidate fronts unless explicitly requested, and do not propagate any previous candidate as the wrap/A+ source of truth until the owner explicitly names the winning file,
+- the current question-mark/scanner Academy mark remains the locked logo direction,
+- back-cover copy/hierarchy/visual rules and the A+ brief are locked for execution, but final wrap/A+ visual continuity must inherit the ultimately selected front,
 - final back-cover/full-wrap output, generated A+ assets, physical proof and publication remain owner-review gates,
 - cover/A+ progress does **not** freeze the English interior/source and does **not** satisfy the separate four-file interior visual gate.
 
 Remaining release owner gates:
-- exact four-file Detective visual set approval/delivery,
+- explicit winning Detective front-cover file selection,
+- exact four-file Detective interior visual set approval/delivery,
 - owner interior visual / representative physical-proof approval,
 - final back-cover/full-wrap + physical-proof approval,
 - final generated A+ assets where used,
