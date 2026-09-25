@@ -422,7 +422,7 @@ Current owner-accepted working decisions include:
 - category targets;
 - working US launch price $13.99, not yet frozen;
 - honest AI-generated text/images disclosure at upload;
-- front-cover selection is REOPENED by owner on 2026-09-24; `front cover final.png` is explicitly NOT final. Do not lock or propagate any front candidate until the owner explicitly names the winning file. Back-cover child-facing copy/continuity rules remain locked; A+ visual brief remains locked but must inherit whichever front the owner finally selects;
+- front-cover selection is CLOSED by owner on 2026-09-25. Final source: `OSTATECZNA OKLADKA ROOM ZERO.png`, SHA-256 `2570df512f3883663aca1c4e5359ba12aa0489276f484b86ac5623ab037429a9`. Treat as immutable/do-not-touch. Back-cover child-facing copy/continuity rules and A+ brief remain locked and must inherit this exact front;
 - current V4.1 source contract is 146 pages, but exact final KDP page count must be reconfirmed after the four owner interior visuals are integrated;
 - final back/full-wrap proof, physical proof, price, ISBN choice, English freeze and publication remain owner gates.
 
@@ -499,7 +499,7 @@ The historical ALL-15 map-system design gate remains closed. The current bounded
 Those files may not inherit the historical map-system approval. Exploratory visual candidates must not be silently selected, committed or promoted, and owner-supplied final files must not be regenerated, restyled, destructively cropped or silently substituted. Once all four exact files are supplied, the final pass must SHA-lock them, extend validation to all four, integrate the exact Case 03 solution asset, fail closed on mismatch, complete the exact final render/audit, independent full-PDF review/back-entry simulation and representative physical proof.
 
 Separate packaging state:
-- front-cover selection is **REOPENED / OWNER SELECTION PENDING** as of 2026-09-24; `front cover final.png` is explicitly NOT final and no front candidate is currently locked;
+- front cover is **FINAL / OWNER LOCKED** as of 2026-09-25: `OSTATECZNA OKLADKA ROOM ZERO.png`, SHA-256 `2570df512f3883663aca1c4e5359ba12aa0489276f484b86ac5623ab037429a9`; do not regenerate or substitute it;
 - the current question-mark/scanner Academy logo direction remains locked;
 - back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked for execution, but final wrap/A+ continuity must inherit the ultimately selected front;
 - final back/full-wrap output and generated A+ assets remain owner-review gated and do not freeze the English interior.
