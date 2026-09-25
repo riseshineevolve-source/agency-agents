@@ -138,3 +138,33 @@ After explicit owner approval, the next authorized bounded execution is:
 **register exact hashes + production owner-approved manifest state -> all-15 scaleout -> all-15 deterministic structural/solution/meta/print QA -> owner review packet.**
 
 Do not reopen the 23 prop designs during all-15 scaleout unless a concrete map-context collision or clue/semantic regression is proven.
+
+
+## Owner approval + all-15 authorization — 2026-09-25
+
+Owner visually reviewed the actual-print D9 crop with the `WATER REFILL` presentation label and explicitly approved it.
+
+Decision:
+- final 23-prop pilot set APPROVED for production scaleout;
+- hydration exception APPROVED exactly as tested: HMDA_29:D9 + separate `WATER REFILL` label;
+- no further prop redesign authorized unless a concrete all-15 integration regression is proven.
+
+Owner has sent the bounded **FINAL MODERN PROP OWNER APPROVAL + ALL-15 PRODUCTION SCALEOUT** prompt to the existing Codex task.
+
+Current execution state:
+**ALL-15 SCALEOUT IN PROGRESS IN LOCAL CODEX WORKTREE**
+
+Expected next gate:
+- 23/23 exact-hash manifest PASS;
+- 15/15 render PASS;
+- 15/15 structural PASS;
+- puzzle/solution consistency PASS;
+- Room Zero meta PASS;
+- CHECK THE OLD MAP PASS;
+- hydration context exception PASS;
+- print/grayscale PASS;
+- owner review ZIP;
+- local checkpoint commit only;
+- no merge / English freeze / KDP publication.
+
+Do not reopen the owner-approved prop visual system unless the all-15 integration proves a concrete collision, clue-semantic regression, wrong-cell/footprint issue, or print failure.
