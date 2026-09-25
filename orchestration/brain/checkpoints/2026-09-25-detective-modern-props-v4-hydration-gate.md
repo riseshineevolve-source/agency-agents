@@ -246,3 +246,27 @@ Current interpretation:
 - approved 23 assets stay art-locked.
 
 Next bounded execution should resolve the 8 owner-review types plus 10 bleacher/labbench cells into explicit OWNER APPROVE REUSE / NEW ART decisions, then produce the final minimal external-art list. No art generation or scaleout before that decision lock.
+
+
+## Arithmetic correction + final 49-type semantic lock — 2026-09-25
+
+Correction: previous note incorrectly stated that 43 + 8 = 49. The explicit list correctly contained 51 types.
+
+To reduce the final new-art set safely to 49, owner-level semantic reuse is now locked for two additional non-clue-critical source types:
+
+- `locker` -> approved `equipment_lockers` visual family
+- `desk` -> approved `mentor_workstation` visual family
+
+Existing approved safe reuses remain:
+- `massage_table` -> `exam_bench`
+- `waiting_bench` -> `viewing_bench`
+
+Thus the final unresolved/new-art set becomes 49 types:
+previous explicit 51 minus `locker` and `desk`.
+
+Guardrail:
+- source type identity remains `locker` / `desk`; only presentation asset is reused;
+- reuse is valid only where clue text remains truthful and map context is unambiguous;
+- any concrete context failure must fail closed and may create a dedicated-art exception later, but no speculative dedicated art is produced now.
+
+All other prior new-art decisions remain unchanged.
