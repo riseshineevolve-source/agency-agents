@@ -20,8 +20,8 @@ Central RSE Orchestrator owns:
 - Detective Academy,
 - Happy Me coordination,
 - Optical Animals coordination,
-- Senior / Hello Today execution,
-- Mind Bloom Assistant execution,
+- Senior / Hello Today portfolio coordination (read-only while the delegated worker is active),
+- Mind Bloom Assistant portfolio/privacy coordination (read-only while the delegated worker is active),
 - marketing architecture,
 - content-source recovery.
 
@@ -29,14 +29,14 @@ Dedicated execution ownership is now split to increase parallel throughput while
 
 - **Central RSE Orchestrator (this chat):** portfolio coordination + Detective Academy + Polish Localization + Optical Animals + cross-project decisions.
 - **Happy Me delegated execution chat:** Happy Me Adventures only. Canonical handoff: `orchestration/handoffs/HAPPY_ME_DELEGATED_EXECUTION_HANDOFF.md`.
-- **Senior / Mind Bloom delegated execution chat:** Senior / Hello Today active execution + Mind Bloom maintenance/frozen lane. Canonical handoff: `orchestration/handoffs/SENIOR_MIND_BLOOM_DELEGATED_EXECUTION_HANDOFF.md`.
+- **Senior / Mind Bloom delegated execution chat:** Senior / Hello Today active repository-side product/content completion + Mind Bloom bounded PRIVATE SINGLE-OWNER DEPLOYMENT / PRIVACY COMPLETION. Canonical handoff: `orchestration/handoffs/SENIOR_MIND_BLOOM_DELEGATED_EXECUTION_HANDOFF.md`. Central must not write either delegated repository while that worker is active.
 - **Marketing Autopilot:** remains a separate dedicated marketing execution stream.
 
 The Central RSE Orchestrator remains the only chat allowed to mutate central portfolio priorities, RSE Brain, Commercial Priority Stack and cross-project sequencing.
 
 Delegated chats must checkpoint inside their project repositories and report meaningful milestones/blockers back to Central; they must not edit the same project branch/worktree in parallel with another chat.
 
-Mind Bloom Private V1 remains source-RC PASS / feature development frozen. The delegated Senior/Mind Bloom chat may only reopen Mind Bloom for a reproducible release blocker or explicit owner-approved post-V1 work.
+Mind Bloom Private V1 remains source-RC PASS and ordinary feature development remains frozen. Owner decision 2026-09-25 explicitly reopened only a bounded PRIVATE SINGLE-OWNER DEPLOYMENT / PRIVACY COMPLETION lane under the delegated Senior/Mind Bloom worker. Provider/OAuth Phase 2B remains owner-gated and inactive; private-data boundaries are non-negotiable.
 
 Opinie uses a special split model:
 - sanitized code + synthetic fixtures may be developed in GitHub,
@@ -538,12 +538,12 @@ Current source-manager truth:
 
 ## 14. Senior / Hello Today
 
-Current execution owner: Central RSE Orchestrator.
+Current execution owner: **dedicated Senior / Mind Bloom delegated worker** under `orchestration/handoffs/SENIOR_MIND_BLOOM_DELEGATED_EXECUTION_HANDOFF.md`.
 
-The Central Orchestrator may perform bounded implementation/self-repair and checkpointing, but may not cross production/legal/Play/human owner gates.
+Central RSE may read/checkpoint project state for portfolio coordination but must not write `riseshineevolve-source/hello-today-android.` while the delegated worker is active.
 
 Current recovered milestone:
-Phase 14H paired CHILD_DEVICE and 6+ UX boundary on PR #77.
+Phase 14H paired CHILD_DEVICE and 6+ UX boundary on PR #77 remains the verified release-hardening baseline.
 
 Hard locks:
 - no parent credentials on child device,
@@ -553,15 +553,17 @@ Hard locks:
 - revoke supported,
 - Child Mode remains production disabled until external/legal/human gates pass.
 
-Current source-side release state:
-- PR #77 head `7df593bac70d76653d83bc550f6e3052835ba478` remains Draft/Open/Mergeable;
-- Android CI #144 PASS, Device Accessibility #81 PASS, Firebase Security #86 PASS;
-- source hardening is exhausted unless a concrete reproducible source defect appears;
-- production `strict` remains blocked by external/owner/legal/device/store gates.
+Current repository-side product/content state:
+- PR #77 head `2851552a995b8f870e72c863c0471e81091dee7f` remains Draft/Open/Mergeable;
+- prior verified release-hardening evidence remains Android CI #144 PASS, Device Accessibility #81 PASS, Firebase Security #86 PASS;
+- repository-side product/content completion remains ACTIVE until the delegated worker explicitly verifies full content/product completeness; do not describe Senior as source-exhausted merely because Phase 14H hardening is green;
+- final product target is bilingual EN + PL, with English as canonical stable-content master and the existing Polish Month 01 corpus preserved for later reconciliation/transcreation;
+- current Month 01 work has a Days 1-30 English editorial draft plus shared locale-aware runtime factory/parity guards, but remains DRAFT; typed Play / Delight / Then-Now presentation copy is still Polish-specific and current-head Android CI is still required;
+- production `strict`, production Child Mode, Play/Firebase/Integrity, legal/Families/Data Safety and real-device/human gates remain external/owner-gated.
 
 ## 15. Mind Bloom
 
-Current execution owner: **Central RSE Orchestrator**. The previous dedicated Mind Bloom chat is parked/archive-only and must not run a parallel implementation stream.
+Current execution owner for the active bounded lane: **dedicated Senior / Mind Bloom delegated worker**. Central RSE is read-only for `riseshineevolve-source/mind-bloom-assistant` while that worker is active.
 
 Current branch:
 `feature/personal-chief-of-staff-foundation`
@@ -570,42 +572,30 @@ Current PR:
 `#2` (Draft/Open/Mergeable; keep Draft until an explicit future merge/release decision)
 
 Current live head:
-`fdbc2630d1dd196bbe7ebceafd4994f23377d699`
+`b098b57ba78ff156726ff47c3e077b167981086c`
 
 Current product state:
-**PRIVATE V1 SOURCE RELEASE CANDIDATE = PASS / FEATURE DEVELOPMENT FROZEN.**
+**PRIVATE V1 SOURCE RELEASE CANDIDATE PASS / ORDINARY FEATURE DEVELOPMENT FROZEN / PRIVATE SINGLE-OWNER DEPLOYMENT + PRIVACY COMPLETION ACTIVE.**
 
-Latest live CI on the current head:
-- Mind Bloom CI **#83: SUCCESS**
+Latest verified live CI:
+- Mind Bloom CI **#88: SUCCESS**
 - current-head code regression: none established
 
-The post-freeze change on this head is deployment/privacy hardening only: noindex/headers/robots and Workers static-asset configuration. It does not reopen feature development or provider work.
+Owner decision 2026-09-25 reopened only the bounded private deployment/privacy-completion lane. The delegated worker has closed the repository-side shell mismatch and preview-URL exposure; the active private owner shell no longer requires the absent legacy commercial tables merely to render/use the canonical Private V1 operational surfaces, and `preview_urls: false` is set as defense in depth.
 
-Durable implemented domains include:
-Today, Inbox, Tasks, Saved, Projects, Reminders, Media, Life Admin, People, Daily Brief/Attention, reviewed Inbox promotions and Universal Chief-of-Staff Search.
+Still NOT complete and not to be crossed centrally:
+- create exactly one owner account, then disable arbitrary Supabase signup;
+- configure and verify whole-app Cloudflare Access / equivalent perimeter;
+- constrain auth redirects/origins;
+- prove unauthorized browser/account denial and live owner-scoped RLS behavior using zero/synthetic data before private owner data is introduced.
 
-Completed foundation includes:
-- Phase 1G A/B/C,
-- Phase 1H A/B/C/D,
-- Phase 2A-0 architecture + threat model,
-- Phase 2A-1 metadata-only integration foundation,
-- Phase 2A-2 reviewed external-ingestion contract,
-- Phase 2A-3 transactional reviewed staging foundation,
-- integration security regression hardening.
+Provider accounts, OAuth, tokens and sync jobs remain intentionally absent. Phase 2B provider implementation remains owner-gated and inactive.
 
-Remote database state:
-- `20260921064152_add_integration_metadata_foundation_v0` is active and verified,
-- `20260921071341_add_integration_ingest_staging_v0` is active and verified,
-- no reapplication is authorized,
-- provider accounts/OAuth tokens/provider secrets/real sync jobs remain intentionally absent.
-
-Private V1 closure also introduced a low-risk lazy-loading improvement for legacy workspace views. The initial entry bundle moved from about **2,009.17 kB / 545.74 kB gzip** to about **1,397.49 kB / 386.61 kB gzip** without changing the data model, RLS, provider boundary, credentials, `.env`, or remote Supabase state.
-
-Current rule:
-- do not spend further Codex/Actions on Mind Bloom merely to continue a roadmap;
-- reopen feature development only for a reproducible Private V1 release blocker or explicit owner instruction;
-- Google Calendar/Gmail/GitHub provider work is POST-V1 and remains owner-gated;
-- a future commercial fork is a separate project and must never inherit private owner data/configuration by default.
+Private-data boundary:
+- no owner private data in GitHub, fixtures, logs, screenshots, checkpoints or prompts;
+- no weakening RLS;
+- no service-role/secret keys in browser or GitHub;
+- no public/commercial or multi-user expansion through this bounded lane.
 
 Recovery safety:
 before any pull/reset/rebase/checkout, inspect local `git status` + `git diff` and preserve legitimate uncommitted work.
