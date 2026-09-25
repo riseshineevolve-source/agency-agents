@@ -168,3 +168,45 @@ Expected next gate:
 - no merge / English freeze / KDP publication.
 
 Do not reopen the owner-approved prop visual system unless the all-15 integration proves a concrete collision, clue-semantic regression, wrong-cell/footprint issue, or print failure.
+
+
+## All-15 scaleout blocker — coverage, not geometry
+
+Codex all-15 scaleout result supplied by owner on 2026-09-25:
+
+- local head: `7ad9454356f087e6f09da7f70ac4f545f94b3204`
+- exact 23-file approved candidate pack/hash checks: PASS in nonproduction staging
+- canonical locked runtime: 15 cases / 260 object placements / 70 distinct source object types
+- approved pilot bindings cover 57 / 260 placements
+- remaining uncovered placements: 203
+  - 155 placements use source types with no approved prop family
+  - 48 placements lack approved per-cell bindings
+- first fail-closed missing family: `HMDA_04:D1 strongman_bell`
+- all 15 locked source structural fingerprints: PASS
+- exhaustive existing spatial clue solver: one solution each / independently re-proven for all 15
+- Room Zero meta: PASS
+- CHECK THE OLD MAP: PASS across 14 carriers
+- no legacy fallback used
+- no production manifest change
+- no scaleout commit / merge / freeze.
+
+Interpretation:
+This is an **asset coverage/binding gap**, not a puzzle, geometry or runtime defect.
+
+Canonical source contract already proves 70 distinct source object types in:
+`tools/detective-book-factory/content/modern_prop_catalog.source-locked.yml`.
+
+### Next bounded task
+
+Before creating more art, mechanically build a 70-type coverage/consolidation matrix:
+
+- APPROVED_EXISTING_EXACT
+- SAFE_REUSE_EXISTING_APPROVED_ASSET
+- NEW_ART_REQUIRED
+- OWNER_REVIEW
+
+Safe reuse is allowed only when source semantics, occupiable/blocking contract and all clue references remain unambiguous. No silent substitution.
+
+Goal: minimize genuinely new art while preserving exact source-type/clue meaning.
+
+Do not generate art, modify production manifest or scale out until the owner reviews the resulting minimal missing-art list.
