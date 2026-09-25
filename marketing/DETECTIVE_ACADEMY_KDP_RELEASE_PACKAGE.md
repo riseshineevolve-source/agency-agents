@@ -1,7 +1,7 @@
 # Happy Makers Detective Academy — KDP Release Package
 
-Status: OWNER-ACCEPTED WORKING RELEASE PACKAGE / FRONT COVER OWNER SELECTION PENDING / NOT YET PUBLISHED
-Updated: 2026-09-24
+Status: OWNER-ACCEPTED WORKING RELEASE PACKAGE / FRONT COVER FINAL / NOT YET PUBLISHED
+Updated: 2026-09-25
 Product: Happy Makers Detective Academy: The Mystery of Room Zero
 Commercial priority: #1 Detective Academy EN -> KDP
 
@@ -73,7 +73,7 @@ Visual restraint:
 - remove unnecessary generic marketing words on decorative books/props if they compete with the title or make the art feel synthetic;
 - preserve the six-character squad identity exactly.
 
-The 2026-09-24 owner-approved front cover is visually locked. Do not regenerate, recompose, restyle or replace it unless the owner explicitly reopens that decision.
+The 2026-09-25 owner-approved front cover `OSTATECZNA OKLADKA ROOM ZERO.png` is visually locked. Exact SHA-256: `2570df512f3883663aca1c4e5359ba12aa0489276f484b86ac5623ab037429a9`. Do not regenerate, recompose, restyle or replace it unless the owner explicitly reopens that decision.
 
 ## Spine
 
