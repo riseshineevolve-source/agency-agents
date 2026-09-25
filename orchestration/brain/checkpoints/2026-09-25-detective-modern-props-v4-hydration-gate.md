@@ -210,3 +210,39 @@ Safe reuse is allowed only when source semantics, occupiable/blocking contract a
 Goal: minimize genuinely new art while preserving exact source-type/clue meaning.
 
 Do not generate art, modify production manifest or scale out until the owner reviews the resulting minimal missing-art list.
+
+
+## 70-type consolidation result — 2026-09-25
+
+Codex semantic coverage consolidation supplied by owner:
+
+- local head: `7ad9454356f087e6f09da7f70ac4f545f94b3204`
+- source types: **70 / 70 accounted**
+- placements: **260 / 260 accounted**
+- approved existing exact: **17 types / 105 placements**
+- safe reuse existing approved: **2 types / 3 placements**
+- new art required: **43 types / 125 placements**
+- owner review: **8 types / 27 placements**
+- auto-bind proposal: **38 / 48** previously unbound placements
+- remaining existing-type per-cell owner review: 6 `bleacher` cells + 4 `labbench` cells
+- first new-art type by requested production order: `seat`
+- all 23 approved asset hashes: PASS
+- canonical catalog: zero unmapped objects
+- source semantic fingerprint: unchanged
+- Room Zero message: unchanged
+- validation / ZIP integrity: PASS
+- no art generation / production-manifest mutation / legacy fallback / geometry / clue / answer / story / merge / English freeze.
+
+Clue-critical new-art types:
+`seat, console, crate, cryopod, tank, case, skeleton, cart, commercial_range, camp_cot, gondola, ringtoss_stand`.
+
+Owner-review types:
+`bench, desk, locker, massage_table, statue, table, waiting_bench, welcome_desk`.
+
+Current interpretation:
+- the 43-type set is the conservative mechanically-derived new-art requirement;
+- owner review may reduce the final number only where an existing approved asset can represent a source type without making clue text, object identity, blocked/occupiable semantics or child interpretation false;
+- clue-critical distinct types remain exact by default;
+- approved 23 assets stay art-locked.
+
+Next bounded execution should resolve the 8 owner-review types plus 10 bleacher/labbench cells into explicit OWNER APPROVE REUSE / NEW ART decisions, then produce the final minimal external-art list. No art generation or scaleout before that decision lock.
