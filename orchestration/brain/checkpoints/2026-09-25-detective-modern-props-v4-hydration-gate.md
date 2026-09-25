@@ -103,3 +103,38 @@ Gate policy:
 - if 100% remains BORDERLINE, stop visual regeneration and use a minimal separately rendered non-clue label only if owner approves that exception rather than blocking the entire book on repeated art generation.
 
 No other prop may be reopened.
+
+
+## Final pilot presentation gate — READY FOR OWNER APPROVAL
+
+Owner supplied Codex result on 2026-09-25:
+
+- local modern-props head: `7ad9454356f087e6f09da7f70ac4f545f94b3204`
+- hydration occurrences in locked 15-case runtime: **1 — HMDA_29:D9**
+- hydration asset SHA-256: `69da989e57f0ecdd1432282c41850061f67fa292b4e4707d2e5bae7e96735c97`
+- hydration rendered bbox: **102 x 153 px**
+- WATER REFILL label: Arial Bold, 6 pt at 300 dpi, directly below art inside D9
+- HMDA_29 map context at 100%: **CLEAR**
+- 50% stress test: **ACCEPTABLE**
+- final prop status: **22 STANDALONE CLEAR / 1 CONTEXT_CLEAR_WITH_LABEL / 0 REMAKE**
+- structural fingerprints HMDA_02 / 13 / 29: PASS / PASS / PASS, zero locked-field differences
+- Room Zero meta: PASS
+- CHECK THE OLD MAP: PASS
+- print scale: PASS, grayscale, 8.5 x 11 in, 300 dpi
+- collaborative_desk / mentor_workstation / TEACHER'S DESK behavior preserved
+- exam_bench CLEAR
+- seating distinctness PASS
+
+The pilot-only reproducible gate was saved in a local Codex commit. No owner_approved flags, all-15 scaleout, push, merge or English freeze occurred.
+
+### Next owner gate
+
+The prop system is now technically ready for **explicit owner visual approval** of:
+- the 22 standalone-clear assets,
+- the single hydration presentation exception `WATER REFILL` at HMDA_29:D9,
+- the exact candidate asset hashes from the final owner packet.
+
+After explicit owner approval, the next authorized bounded execution is:
+**register exact hashes + production owner-approved manifest state -> all-15 scaleout -> all-15 deterministic structural/solution/meta/print QA -> owner review packet.**
+
+Do not reopen the 23 prop designs during all-15 scaleout unless a concrete map-context collision or clue/semantic regression is proven.
