@@ -1,33 +1,33 @@
 # Detective Academy — Cover + A+ Visual Lock
 
-Status: **FRONT COVER SELECTION REOPENED / BACK COVER + A+ DIRECTION LOCKED**
-Updated: 2026-09-24
+Status: **FRONT COVER FINAL / DO NOT TOUCH / BACK COVER + A+ DIRECTION LOCKED**
+Updated: 2026-09-25
 Product: **Happy Makers Detective Academy: The Mystery of Room Zero — Book 1**
 
-## 1. Front-cover selection status
+## 1. Front-cover FINAL lock
 
-Owner decision updated 2026-09-24: the previously named `front cover final.png` is NOT approved and must not be treated as the final cover. Several final candidates remain under owner comparison. The owner will explicitly name the winning file before any immutable cover lock.
+Owner decision 2026-09-25: the uploaded file **`OSTATECZNA OKLADKA ROOM ZERO.png`** is the FINAL Book 1 front cover and is now the immutable visual source of truth for the wrap, A+ continuity and launch creative.
 
-Reference SHA-256:
-`136e82fce95a430362f738b28d046ff8e04667111e9db0960d5854aa36991472`
+Exact source:
+- filename: `OSTATECZNA OKLADKA ROOM ZERO.png`
+- dimensions: 1086 x 1448 px
+- SHA-256: `2570df512f3883663aca1c4e5359ba12aa0489276f484b86ac5623ab037429a9`
 
-Do not regenerate or alter candidate fronts unless the owner explicitly asks. Do not use any previous candidate as the A+ source-of-truth until the owner explicitly names the final file.
+DO NOT regenerate, recompose, restyle, face-swap, crop destructively, recolor, simplify or replace this front unless the owner explicitly reopens the decision.
 
-Locked front characteristics:
-- six Happy Makers only;
-- youngest girl centered front with magnifying glass;
-- corrected Grandma Bibi visibly older than the other women while retaining her existing black Academy clothing;
-- modern premium indoor Academy;
+Locked visual truth:
+- exact six Happy Makers appearances/faces from this file;
+- exact title/subtitle/BOOK 1 treatment from this file;
+- exact modern premium Academy architecture;
 - midnight/deep navy + charcoal + controlled warm-gold palette;
-- matching modern linear wall lights;
-- repeated planters/greenery integrated into architecture;
-- black/gold architectural columns and cabinetry;
-- one restrained Room Zero evidence board;
-- modern circular question-mark Academy logo;
-- title/subtitle hierarchy unchanged;
-- BOOK 1 small and secondary.
+- matching warm linear wall lights;
+- black/gold architectural language;
+- greenery/planter language;
+- polished dark floor;
+- restrained Room Zero evidence board;
+- current question-mark/scanner Academy logo.
 
-The final front will become the visual source of truth for the wrap only after explicit owner selection.
+Back cover, spine and A+ must inherit this front's lighting, architecture, character identity and visual temperature. The front itself remains byte-for-byte owner-approved source art wherever possible.
 
 ## 2. Logo lock
 
