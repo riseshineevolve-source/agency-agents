@@ -285,7 +285,7 @@ programs:
     repo: riseshineevolve-source/riseshineevolve
     branch: feat/optical-animals-book-creator
     pr: 14
-    current_head: f2781667331ccc7782968c128abd1d691fe29aa3
+    current_head: b404f7af8bf32526d5c45b03472d0b4c67a7ed58
     approved_visuals: 12
     unresolved_visuals: 8
     owner_reported_creation_progress: 19_of_20_ready_not_equivalent_to_FINAL20_lock
@@ -293,9 +293,9 @@ programs:
     hardening_tests: 87_of_87_deterministic_synthetic_PASS_current_head
     synthetic_preview_pdf: current_head_quality_green
     deterministic_package_hashes: current_head_quality_green
-    latest_quality_ci_run: 90
+    latest_quality_ci_run: 94
     latest_quality_ci_conclusion: PASS
-    latest_quality_ci_head: f2781667331ccc7782968c128abd1d691fe29aa3
+    latest_quality_ci_head: b404f7af8bf32526d5c45b03472d0b4c67a7ed58
     prior_quality_ci_failure_run: 88
     prior_quality_ci_failure_head: 4c759ba781ae9a76da0adf942670ece69ab88da9
     prior_quality_ci_failure_class: schema_compatibility_repository_side_resolved
