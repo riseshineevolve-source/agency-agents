@@ -11,8 +11,8 @@ Canonical source: `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`
 
 1. **Detective Academy EN -> KDP**
 2. **Detective Academy PL -> KDP Poland**
-3. **24 Gentle Steps to Christmas**
-4. **Optical Animals**
+3. **Optical Animals**
+4. **24 Gentle Steps to Christmas**
 5. **Consumer App Factory / Google Play apps**
 6. Senior / Happy Me / Opinie / AI Discovery continue safely in parallel below gates.
 
