@@ -50,6 +50,27 @@ Do not replace it with:
 - generic detective icons;
 - vintage magnifying-glass logos.
 
+## 2A. Back-cover recruitment beat refinement — owner lock 2026-09-25
+
+Use this recruitment logic on the back cover:
+
+**ONE DETECTIVE IS STILL MISSING.**
+
+A black envelope appears inside the Academy.  
+No stamp. No sender. One strange mark: **0**.
+
+Inside is a blank Detective Academy Recruit Credential.
+
+**No name. No call sign.**
+
+**One place is still open.**
+
+**WILL YOU CLAIM IT?**
+
+Rationale: the credential is not yet the reader's. The copy must invite the child to choose the role rather than prematurely state that the call sign already belongs to them.
+
+Do not use `YOUR CALL SIGN` as the first reveal, and do not use `That place belongs to you` before the child has accepted the role.
+
 ## 3. Back-cover content lock
 
 The back cover is CHILD-FACING.
