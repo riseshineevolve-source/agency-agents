@@ -64,3 +64,42 @@ This is still a **candidate**, not owner-approved production art.
 - no production manifest promotion before owner approval
 - no all-15 scaleout before the 23/23 owner gate passes
 - no merge / English freeze / KDP publication from this checkpoint alone
+
+
+## Hydration gate result — candidate 2
+
+Codex reported on 2026-09-25:
+
+- local head unchanged: `295d648a1c0a18570c4703a563f6ee2e096ed8a8`
+- candidate hydration SHA: `69da989e57f0ecdd1432282c41850061f67fa292b4e4707d2e5bae7e96735c97`
+- rendered bbox: **102 x 153 px**
+- clipping / overlaps: NO / NO
+- 100%: BORDERLINE
+- 50%: BORDERLINE
+- HMDA_29 structural/render geometry: PASS
+- final classification remains **22 CLEAR / 1 BORDERLINE / 0 REMAKE**
+- Room Zero meta and CHECK THE OLD MAP: PASS
+- no three-pilot rerun or production promotion occurred.
+
+Conclusion: renderer footprint/scale is no longer the blocker. Further photorealistic machine variants are rejected as an inefficient direction.
+
+### Final correction strategy
+
+One last art correction may change only the visual language of `hydration_station.png`:
+
+- map-scale, high-contrast, illustrated-realistic rather than photorealistic product render;
+- squat/wide bottle-refill silhouette;
+- bottle body must consume roughly 40–50% of sprite width;
+- oversized recognizable loop/handle;
+- large central refill nozzle;
+- thick solid stream that survives reduction;
+- wide tray/basin;
+- simplify decorative housing aggressively;
+- no text/logo;
+- no footprint/geometry/runtime change.
+
+Gate policy:
+- if actual 100% print scale becomes CLEAR and 50% remains only BORDERLINE, do not automatically restart art; surface it as owner acceptance because 50% is a stress-test, not the physical book scale;
+- if 100% remains BORDERLINE, stop visual regeneration and use a minimal separately rendered non-clue label only if owner approves that exception rather than blocking the entire book on repeated art generation.
+
+No other prop may be reopened.
