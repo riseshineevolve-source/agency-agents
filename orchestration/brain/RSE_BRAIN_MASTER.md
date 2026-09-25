@@ -25,12 +25,18 @@ Central RSE Orchestrator owns:
 - marketing architecture,
 - content-source recovery.
 
-Dedicated execution remains separate for:
-- Marketing Autopilot.
+Dedicated execution ownership is now split to increase parallel throughput while preserving one writer per surface:
 
-Mind Bloom's previous dedicated execution chat is parked/archive-only. The Central Orchestrator is now the single implementation owner for Mind Bloom and must preserve the project's worktree, reviewed-SQL and external-provider gates.
+- **Central RSE Orchestrator (this chat):** portfolio coordination + Detective Academy + Polish Localization + Optical Animals + cross-project decisions.
+- **Happy Me delegated execution chat:** Happy Me Adventures only. Canonical handoff: `orchestration/handoffs/HAPPY_ME_DELEGATED_EXECUTION_HANDOFF.md`.
+- **Senior / Mind Bloom delegated execution chat:** Senior / Hello Today active execution + Mind Bloom maintenance/frozen lane. Canonical handoff: `orchestration/handoffs/SENIOR_MIND_BLOOM_DELEGATED_EXECUTION_HANDOFF.md`.
+- **Marketing Autopilot:** remains a separate dedicated marketing execution stream.
 
-Senior / Hello Today is executed directly by the Central Orchestrator, with its production/legal/Play/human gates preserved.
+The Central RSE Orchestrator remains the only chat allowed to mutate central portfolio priorities, RSE Brain, Commercial Priority Stack and cross-project sequencing.
+
+Delegated chats must checkpoint inside their project repositories and report meaningful milestones/blockers back to Central; they must not edit the same project branch/worktree in parallel with another chat.
+
+Mind Bloom Private V1 remains source-RC PASS / feature development frozen. The delegated Senior/Mind Bloom chat may only reopen Mind Bloom for a reproducible release blocker or explicit owner-approved post-V1 work.
 
 Opinie uses a special split model:
 - sanitized code + synthetic fixtures may be developed in GitHub,
