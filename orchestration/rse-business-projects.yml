@@ -183,13 +183,15 @@ projects:
   happy_me:
     name: Happy Me Adventures
     type: app
-    status: external_and_device_release_gates
+    status: production_hardening_delegated
     priority_wave: 1
     repo: riseshineevolve-source/riseshineevolve
     branch: mobile/mobile-first-rebuild
-    local_root: 'C:\Users\danie\GitHub\happy-me-app'
+    delegated_task_branch: codex/happy-me-production-hardening
+    local_root: 'C:\Users\danie\.codex\worktrees\happy-me-production\happy-me-adventures'
     release_matrix: MOBILE_RELEASE_READINESS_MATRIX.md
-    execution_mode: central_with_specialists
+    execution_mode: delegated_happy_me_chat
+    handoff: orchestration/handoffs/HAPPY_ME_DELEGATED_EXECUTION_HANDOFF.md
     custody_audit_complete: true
     shared_device_isolation_machine_gate: pass
     offline_persistence_machine_gate: pass
@@ -236,8 +238,9 @@ projects:
     priority_wave: 1
     repo: riseshineevolve-source/hello-today-android.
     related_repo: riseshineevolve-source/Happy-Senior
-    execution_mode: central_with_specialists
-    central_sync: full_execution_and_checkpointing
+    execution_mode: delegated_senior_mind_bloom_chat
+    handoff: orchestration/handoffs/SENIOR_MIND_BLOOM_DELEGATED_EXECUTION_HANDOFF.md
+    central_sync: milestones_blockers_shared_dependencies
     current_phase: 14H_paired_child_device_and_6plus_ux_boundary
     current_pr: 77
     current_branch: phase14h-paired-child-device-6plus
@@ -269,7 +272,8 @@ projects:
     status: private_v1_source_release_candidate_frozen
     priority_wave: 1
     repo: riseshineevolve-source/mind-bloom-assistant
-    execution_mode: central_with_codex_usage_governor
+    execution_mode: delegated_senior_mind_bloom_chat_frozen_lane
+    handoff: orchestration/handoffs/SENIOR_MIND_BLOOM_DELEGATED_EXECUTION_HANDOFF.md
     previous_dedicated_chat: parked_archive_only
     role_boundary: private_personal_business_chief_of_staff
     current_pr: 2
