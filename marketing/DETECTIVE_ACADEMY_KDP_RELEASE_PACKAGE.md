@@ -348,3 +348,29 @@ Interior publication state:
 
 Canonical interior design contract:
 `orchestration/detective/DETECTIVE_ACADEMY_INTERIOR_DESIGN_SYSTEM.md`
+
+
+## Final interior visual-system milestone — 2026-09-26
+
+Owner-reported local Codex result:
+- local commit: `6579ac896c477461fe1c384993315d7455b3f7c5`
+- final interior page count: **146**
+- final PDF SHA-256: `cb1038dcc9086501b86527227550584da7f38fc051bc70442803f82ebddeab7f`
+- owner-review ZIP SHA-256: `07e7a1abf724a401f98a10954d4285ffcb8a6ceb53437ede4b71dcd5be7222f1`
+- recurring case structure / HM Chat / Witness Boards / Evidence Grid / scanner mark / answer surfaces: PASS
+- logic / maps / Case 03 / Room Zero / CHECK THE OLD MAP / reverse entry: PASS
+- human page-by-page audit: **146/146 PASS**
+- ISBN `9798177104409` and in-book AI disclosure retained
+
+Current release interpretation:
+**INTERIOR READY FOR PHYSICAL PROOF REVIEW, NOT YET ENGLISH-FROZEN.**
+
+Before KDP publication:
+1. make the exact final interior commit durable remotely;
+2. lock final full-wrap cover and exact barcode-safe KDP geometry;
+3. run KDP Previewer/preflight;
+4. obtain physical proof and check child-size readability;
+5. explicit owner EN freeze;
+6. final price / publication click.
+
+Do not broadly redesign the interior after this point unless a concrete proof defect is found.
