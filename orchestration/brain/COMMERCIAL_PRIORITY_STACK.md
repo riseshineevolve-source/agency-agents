@@ -2,7 +2,7 @@
 
 Status: **CANONICAL**
 Owner decision: 2026-09-24
-Last execution-state sync: 2026-09-24
+Last execution-state sync: 2026-09-26
 Applies to: central RSE Orchestrator, Brain Sync, Day/Night/24-7 shift, marketing synchronization, Codex budget governor.
 
 ## Priority order
@@ -116,3 +116,17 @@ Hourly/24-7 orchestration selects the highest-value safe task from this stack.
 A project at an owner/external gate is parked; the shift moves to the next safe lane rather than stopping.
 
 This priority stack remains in force until the owner explicitly changes it.
+
+### Detective current owner-state override — 2026-09-26
+
+This section supersedes stale Detective packaging/visual-gate wording above where conflicts exist.
+
+- EN KDP remains priority #1.
+- Front cover owner gate is CLOSED; front source remains owner-locked.
+- KDP free ISBN assigned: **9798177104409**.
+- 146-page interior logic, maps, exact-ten Case 03, Room Zero meta, CHECK THE OLD MAP and reverse-entry system are green.
+- English remains **NOT FROZEN** because page-level owner audit reopened a bounded visual/system non-regression pass.
+- Canonical visual contract: `orchestration/detective/DETECTIVE_ACADEMY_INTERIOR_DESIGN_SYSTEM.md`.
+- Required repair scope: recurring Objective/HM Chat/Rules/Answer-entry structure, HM Chat boxes, modern Witness Board, Evidence Grid motif, scanner-question-mark symbol, sixth-slot reveal timing, stale-name cleanup, then all-146 human visual audit.
+- Do not reopen solved puzzle logic, map geometry, Case 03 owner art, modern props, Room Zero mechanism or reverse-entry mechanics unless a concrete regression is proven.
+- Next owner gate after the bounded visual pass: physical proof -> explicit EN freeze -> Detective PL.
