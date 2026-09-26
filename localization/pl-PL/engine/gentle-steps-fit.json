@@ -1,0 +1,45 @@
+{
+  "pages": [
+    {
+      "approved_line_breaks": [
+        "ISKRA ZABAWY — RODZINNA SYMFONIA DŹWIĘKÓW",
+        "ISKRA ZABAWY — RODZINNA SYMFONIA\nDŹWIĘKÓW"
+      ],
+      "source_heading": "Fun Spark - Family Sound Symphony",
+      "source_pdf_page": 25,
+      "target_heading": "ISKRA ZABAWY — RODZINNA SYMFONIA DŹWIĘKÓW"
+    },
+    {
+      "approved_line_breaks": [
+        "CHWILA BLISKOŚCI — CO LUBIĘ W NASZEJ RODZINIE",
+        "CHWILA BLISKOŚCI —\nCO LUBIĘ W NASZEJ RODZINIE"
+      ],
+      "source_heading": "Family Connection - What I Love About Being Us",
+      "source_pdf_page": 26,
+      "target_heading": "CHWILA BLISKOŚCI — CO LUBIĘ W NASZEJ RODZINIE"
+    },
+    {
+      "approved_line_breaks": [
+        "CHWILA BLISKOŚCI — MÓJ ULUBIONY DŹWIĘK DOMU",
+        "CHWILA BLISKOŚCI —\nMÓJ ULUBIONY DŹWIĘK DOMU"
+      ],
+      "source_heading": "Family Connection - The Sound I Love at Home",
+      "source_pdf_page": 35,
+      "target_heading": "CHWILA BLISKOŚCI — MÓJ ULUBIONY DŹWIĘK DOMU"
+    },
+    {
+      "approved_line_breaks": [
+        "CHWILA BLISKOŚCI — SŁOWO NA SPOKÓJ",
+        "CHWILA BLISKOŚCI —\nSŁOWO NA SPOKÓJ"
+      ],
+      "source_heading": "Family Connection - A Word of Calm",
+      "source_pdf_page": 38,
+      "target_heading": "CHWILA BLISKOŚCI — SŁOWO NA SPOKÓJ"
+    }
+  ],
+  "product": "gentle-steps-christmas",
+  "source_file": "24 Gentle Paperback ok.pdf",
+  "source_mapping_evidence": "localization/pl-PL/GENTLE_STEPS_WEEK1_REAL_TEMPLATE_FIT_GATE.md",
+  "source_page_count": 104,
+  "version": 1
+}

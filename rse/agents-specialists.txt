@@ -12,3 +12,12 @@ Data Privacy Officer
 Image Prompt Engineer
 Psychologist
 Book Co-Author
+RSE Localization Orchestrator
+Polish Semantic Translator
+Polish Transcreator
+Polish Cultural Localizer
+Localization Meaning Guardian
+Polish Natural Language Editor
+Polish Logic Editor
+Polish Proofreader
+Bilingual Localization QA
