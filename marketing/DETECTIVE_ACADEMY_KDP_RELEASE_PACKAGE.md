@@ -310,3 +310,12 @@ Protect:
 - premium case-file experience;
 - screen-free without guilt;
 - gift-an-adventure positioning.
+
+## Assigned KDP ISBN — 2026-09-26
+
+- Paperback ISBN: **9798177104409**
+- Hyphenated: **979-8-1771-0440-9**
+- Imprint shown by KDP: **Independently published**
+- Source: owner-confirmed KDP assignment screenshot.
+
+Use this ISBN in the final publication record/copyright page and the final 146-page KDP cover-template workflow. Do not regenerate page count solely for ISBN insertion.
