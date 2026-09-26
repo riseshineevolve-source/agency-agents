@@ -722,3 +722,51 @@ PR #13 `Reconcile Polish Localization Engine with current main`:
 - 34 fit/provisional-terminology review items remain non-publication review work
 
 Central review finds the reconciliation scope consistent with the intended current-main engine recovery. Do not start full Detective PL before explicit EN freeze. Do not merge without the applicable owner/central merge decision.
+
+
+## Detective final visual-system PASS — 2026-09-26
+
+Owner supplied the completed Codex report from the existing local `codex/modern-props-pilot` worktree.
+
+Local final-interior commit:
+`6579ac896c477461fe1c384993315d7455b3f7c5`
+
+Important durability note:
+- the commit is local only;
+- nothing was pushed or merged;
+- treat the exact local artifact/commit as current owner-reviewed working truth until it is safely pushed to a remote branch.
+
+Reported final-interior state:
+- recurring case structure 30/30 PASS;
+- Happy Makers Chat 37/37 PASS;
+- answer/verdict surfaces 30/30 PASS;
+- Witness Boards PASS;
+- Evidence Grid + scanner-question-mark system PASS;
+- page 001 mystery-slot timing PASS;
+- stale reader-facing placeholder names eliminated;
+- ISBN + AI disclosure PASS;
+- Case 03 exact-ten / owner art PASS;
+- 30 approved map embeds pixel-identical;
+- 15/15 structure + 15/15 unique solutions + all-30 logic PASS;
+- Room Zero + CHECK THE OLD MAP PASS;
+- 146 pages / Letter / grayscale / embedded fonts / reverse-entry PASS;
+- 146/146 human visual audit PASS.
+
+Final reported PDF SHA-256:
+`cb1038dcc9086501b86527227550584da7f38fc051bc70442803f82ebddeab7f`
+
+Owner-review ZIP SHA-256:
+`07e7a1abf724a401f98a10954d4285ffcb8a6ceb53437ede4b71dcd5be7222f1`
+
+Canonical checkpoint:
+`orchestration/brain/checkpoints/2026-09-26-detective-final-visual-system-pass-physical-proof-next.md`
+
+Decision:
+**INTERIOR VISUAL-SYSTEM PASS LOCALLY / PHYSICAL PROOF NEXT.**
+
+English remains NOT FROZEN.
+
+Do not reopen the interior broadly. Only fix a concrete KDP-preflight or physical-proof defect.
+
+Remaining Detective EN work:
+safe remote persistence -> final full-wrap cover -> KDP previewer/preflight -> representative physical proof -> explicit owner EN freeze -> Detective PL.
