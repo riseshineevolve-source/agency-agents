@@ -50,26 +50,32 @@ Do not replace it with:
 - generic detective icons;
 - vintage magnifying-glass logos.
 
-## 2A. Back-cover recruitment beat refinement — owner lock 2026-09-25
+## 2A. Back-cover recruitment beat refinement — owner lock 2026-09-26
 
-Use this recruitment logic on the back cover:
+Current owner-approved recruitment sequence:
 
 **ONE DETECTIVE IS STILL MISSING.**
 
 A black envelope appears inside the Academy.  
 No stamp. No sender. One strange mark: **0**.
 
-Inside is a blank Detective Academy Recruit Credential.
+Inside: a blank Detective Academy Recruit Credential.
 
 **No name. No call sign.**
 
-**One place is still open.**
+A mistake? A coincidence?
+
+**OR AN INVITATION MEANT FOR YOU?**
 
 **WILL YOU CLAIM IT?**
 
-Rationale: the credential is not yet the reader's. The copy must invite the child to choose the role rather than prematurely state that the call sign already belongs to them.
+Logic rule: the blank credential is not yet the reader's. The copy first creates mystery, then possibility, then asks the reader to choose the role. Do not prematurely state that the badge/call sign already belongs to the reader.
 
-Do not use `YOUR CALL SIGN` as the first reveal, and do not use `That place belongs to you` before the child has accepted the role.
+This block supersedes older recruitment wording such as:
+- `YOU` as an immediate second-line reveal;
+- `That place belongs to you`;
+- `One place is still open` as an unexplained transition;
+- `Your call sign` before the reader has accepted the invitation.
 
 ## 3. Back-cover content lock
 
@@ -408,6 +414,6 @@ A+ should PROVE the product with real interior pages rather than merely claim th
 
 ## 8. Owner gate
 
-Front: OWNER SELECTION PENDING; no candidate is currently locked.
-Back: active refinement; copy/hierarchy/visual rules above are locked.
+Front: OWNER LOCKED / FINAL SOURCE PRESERVED. Do not regenerate or substitute it.
+Back: active refinement; current recruitment logic/hierarchy/visual rules above are canonical.
 A+: brief locked for Marketing execution; final generated assets remain owner-review gated.
