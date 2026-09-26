@@ -319,3 +319,32 @@ Protect:
 - Source: owner-confirmed KDP assignment screenshot.
 
 Use this ISBN in the final publication record/copyright page and the final 146-page KDP cover-template workflow. Do not regenerate page count solely for ISBN insertion.
+
+
+## Live KDP draft state — 2026-09-26
+
+Owner-created KDP paperback draft now confirms:
+- ISBN: **9798177104409** / **979-8-1771-0440-9**
+- imprint: **Independently published**
+- interior: **Black & white with white paper**
+- trim: **8.5 x 11 in**
+- bleed: **No Bleed**
+- cover finish: **Glossy**
+- final interior working page count: **146**
+
+Current category selections confirmed in the live KDP picker:
+1. **Children's Books -> Activities, Crafts & Games -> Games -> Puzzles**
+2. **Children's Books -> Mysteries & Detectives**
+Do not force a third inaccurate category merely to fill all three slots.
+
+AI:
+- KDP disclosure must remain truthful for generated text/images.
+- Owner requires the in-book AI disclosure note to remain under the current AI Pact requirement.
+
+Interior publication state:
+- logic/map/Case03/reverse-entry gates are green;
+- owner page-level audit reopened the visual/system gate;
+- English is NOT FROZEN until the recurring section system, HM Chat component, modern Witness Board/Evidence Grid identity, naming cleanup, full page-by-page visual audit and physical proof are complete.
+
+Canonical interior design contract:
+`orchestration/detective/DETECTIVE_ACADEMY_INTERIOR_DESIGN_SYSTEM.md`
