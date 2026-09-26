@@ -125,15 +125,23 @@ programs:
     deployment_authorized: false
     next_safe_slice: none_selected_repository_side_wait_for_owner_product_source_or_deployment_decision
   interactive_book_factory:
-    status: synthetic_contract_v0_verified_green
+    status: synthetic_contract_green_bounded_world01_overview_candidate
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
     content_contract_v0: orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md
     synthetic_fixture: orchestration/architecture/fixtures/interactive-book-v0/synthetic-world-valid.json
+    ci_synthetic_fixture: orchestration/architecture/fixtures/interactive-book/synthetic_world.valid.json
     validator_ci_run: 35525269062
     validator_ci_conclusion: PASS
     verified_head: e9deff5f2d4f8158636730e3d32a22838d947ada
     fail_closed_tests: PASS
-    intended_first_pilot: world_01_after_source_approval
+    world01_candidate_pack: orchestration/content-packs/world01/mission-openers.en.candidate.json
+    world01_candidate_checkpoint: orchestration/checkpoints/INTERACTIVE_BOOK_WORLD01_PILOT_2026-09-26.md
+    world01_candidate_scope: published_mission_openers_1_to_3_only
+    world01_published_source_evidence: orchestration/content-sources/world01-paperback-opener-evidence.json
+    world01_published_source_sha256: adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549
+    world01_candidate_english_only: true
+    world01_full_story_parity_proven: false
+    intended_first_pilot: world_01_bounded_published_mission_overviews
     reuse_candidates:
       - world_02
       - gentle_steps_christmas_app
@@ -141,7 +149,7 @@ programs:
     offline_first_default: true
     real_product_conversion_authorized: false
     deployment_authorized: false
-    next_gate: owner_source_approval_before_world_01_real_content_conversion
+    next_gate: world01_level1_full_story_page_level_transcription_and_speaker_audit
   ai_discovery:
     status: active_measurement_fresh_gsc_monitoring_paid_gate
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
