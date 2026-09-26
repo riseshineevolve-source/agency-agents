@@ -74,3 +74,10 @@ Do not reopen Case 03, maps, props, story logic or the reverse-entry system unle
 5. Explicit owner ENGLISH FREEZE.
 6. KDP EN release gate.
 7. Immediately hand the frozen English source/hash/aliases into the Polish Localization Engine for Detective PL.
+
+
+## ISBN update — 2026-09-26
+
+KDP free paperback ISBN assigned by owner: **9798177104409** (979-8-1771-0440-9). Imprint: **Independently published**.
+
+Next finalization pass may replace the blank ISBN field on the publication record with this exact number, then rebuild the otherwise unchanged 146-page interior and generate the exact KDP wrap template.
