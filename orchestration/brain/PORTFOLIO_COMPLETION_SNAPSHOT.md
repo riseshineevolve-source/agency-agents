@@ -1,71 +1,59 @@
-# RSE Portfolio Completion Snapshot — 2026-09-24
+# RSE Portfolio Completion Snapshot — 2026-09-26
 
 Status: **WORKING MANAGEMENT ESTIMATE**
 Authority: subordinate to live repository/checkpoint facts.
-Purpose: preserve the owner's current portfolio-completion view without pretending that percentages are mechanically measured.
+Purpose: preserve the current portfolio-completion view and execution ownership without pretending percentages are mechanically measured.
 
-Percentages estimate progress toward the currently defined DONE for each lane. They are not file-count percentages and may move backward when the owner deliberately raises the quality/release bar.
+Percentages estimate progress toward the currently defined DONE for each lane. They may move backward when the owner deliberately raises the quality/release bar.
 
-| Project | Working completion | Current interpretation |
-|---|---:|---|
-| **RSE Brain / Orchestrator** | **98%** | Durable source-of-truth, recovery, priority, decision and checkpoint model is in place. Remaining work is delta sync and hygiene. |
-| **Mind Bloom Private V1** | **100% source RC** | Private V1 Source Release Candidate PASS; feature development frozen. Provider integrations/commercial fork are separate future owner-gated work. |
-| **Detective Academy EN -> KDP** | **~94%** | Story/content architecture and 30-case design are near-final, map logic is locked, KDP packaging/back/A+ copy is largely defined. Current release blockers are owner selection of final front, modern-prop pilot approval/integration, final V10/content-source reconciliation/typeset, deterministic full QA, final wrap, physical proof and publish gate. |
-| **Detective Academy PL** | **~15% product / infra-ready** | Product edition waits for explicit EN freeze; Polish engine is ready enough to begin immediately after source lock. |
-| **Polish Localization Engine** | **~95%** | Production infrastructure, terminology, regression and controlled pilots are strong. Main remaining gates are stable English source and real-template/full-book execution. |
-| **Optical Animals** | **~90% working-art lane** | Owner reports 19/20 illustrations ready in the working art process. Factory/tooling exists and exact-identity seek-and-find contract is now locked. Remaining work: final butterfly/20th art decision, canonical promotion/hash lock, exact-source masks/tokens, search pages + answer maps, interstitial microcopy, print/paper proof, final assembly and KDP release package. |
-| **Marketing Autopilot** | **~60%** | Durable marketing architecture, Detective positioning, KDP release package, cover/back/A+ brief, launch calendar and content bank exist. Missing maturity is real scheduled execution, final approved creative assets, measurement feedback and paid optimization. |
-| **Brand + Revenue Engine** | **~84%** | Major positioning, brand architecture, funnel and commercial sequencing are durable. Some owner choices and live sales-loop integration remain. |
-| **AI Discovery / Website** | **~75%** | Core architecture/indexed surfaces exist; recrawl/indexing, stale snippets, ongoing monitoring and authorized content expansion remain. |
-| **Happy Me Adventures** | **82%** | Machine/source gates largely green; remaining Supabase/Play/signing/real-device/privacy/release gates are external/human. |
-| **Senior / Hello Today** | **80%** | Source/CI work is advanced; remaining Play/Firebase/legal/device/parent-child/usability production gates. |
-| **Opinie Offline Workbench** | **55%** | Synthetic deterministic engine and privacy boundaries are strong; real production remains local/offline and human-gated. |
-| **RSE Consumer Platform** | **52%** | Architecture, RLS and synthetic gates are strong; no real production deployment yet. |
-| **Interactive Book App Factory** | **32%** | Contracts/engine exist; first real production conversion of World 01 is not completed. |
-| **24 Gentle Steps PL / app** | **~38%** | Week 1 regression/source checks PASS; real-template fit and wider segmented localization/app work remain. Owner has explicitly sequenced this after Optical Animals. |
-| **Smart CV Tailor PRIVATE** | **84%** | Static/import/renderer/matching regression is strong; final real Windows/Ollama/browser regression remains owner-local. |
-| **Domowe Finanse 2026 PRIVATE** | **70%** | Code fixes are prepared; final real Windows + Excel COM verification remains owner-local. |
+| Project | Working completion | Execution ownership | Current interpretation / next gate |
+|---|---:|---|---|
+| **RSE Brain / Technical Orchestrator** | **98%** | **CENTRAL DIRECT** | Durable source-of-truth, priority, checkpoint, handoff and recovery model is active. Remaining work is continuous delta-sync/hygiene. |
+| **Detective Academy EN -> KDP** | **~96%** | **CENTRAL DIRECT + Codex bounded execution** | 146-page logic/map/Case03/reverse-entry gates are green; KDP draft + ISBN exist. Owner visual audit reopened a bounded interior-design non-regression pass: recurring case structure, HM Chat boxes, modern Witness Board, Evidence Grid, scanner symbol, sixth-slot reveal timing, stale-name cleanup, then 146/146 human audit + physical proof + explicit EN freeze. |
+| **Detective Academy PL** | **~20% product / infra-ready** | **CENTRAL DIRECT after EN freeze** | Edition execution waits for explicit EN freeze. Localization engine is calibrated and ready to start immediately once the frozen source/hash/aliases exist. |
+| **Polish Localization Engine** | **~95%** | **CENTRAL DIRECT** | Production infrastructure, terminology, logic invariants and regression are strong. Remaining value is real frozen-product execution and branch reconciliation only when useful. |
+| **Optical Animals** | **~90% working-art lane** | **CENTRAL DIRECT** | Tooling/identity proof is green; owner reports 19/20 working illustrations. Remaining: final art lock, butterfly layout gate, canonical FINAL20 promotion/hashes, exact-source seek/find tokens, full assembly, proof and KDP package. |
+| **24 Gentle Steps to Christmas** | **~38% PL/app lane** | **CENTRAL DIRECT** | English 104-page source recovered; Week 1 PL regression/source QA pass. Real-template fit for longest Polish headings blocks wider promotion; sequenced after Optical Animals. |
+| **Happy Me Adventures** | **~86%** | **DELEGATED EXECUTION / CENTRAL OVERSIGHT** | Production hardening is advanced; source/build gates largely green. Remaining owner/external gates include branded Android assets, Supabase/auth activation/config, signing, Play, real-device QA, legal/Data Safety. |
+| **Senior / Hello Today** | **~82%** | **DELEGATED EXECUTION / CENTRAL OVERSIGHT** | Source/product completion advanced; production Child Mode remains OFF. Remaining Play/Firebase/legal/device/real-user gates. |
+| **Mind Bloom Private V1** | **100% source RC** | **DELEGATED BOUNDED DEPLOYMENT / CENTRAL OVERSIGHT** | Ordinary feature development frozen. Only private single-owner deployment/privacy completion is active; provider/OAuth Phase 2B remains owner-gated. |
+| **Marketing Autopilot** | **~62%** | **DEDICATED MARKETING EXECUTION / CENTRAL SYNC** | Durable architecture, content bank, Detective launch plan, KDP/A+ positioning and calendar exist. Maturity gap is live routine execution, approved creatives, measurement feedback and paid optimization. |
+| **Brand + Revenue Engine** | **~84%** | **CENTRAL DIRECT** | Brand architecture, funnel and commercial sequencing are durable; some owner choices and live revenue-loop integration remain. |
+| **AI Discovery / Website** | **~75%** | **CENTRAL DIRECT** | Architecture/indexed surfaces exist; live GSC refresh is blocked by paid connector state unless owner reactivates. C2 expansion remains unauthorized. |
+| **RSE Consumer Platform** | **~52%** | **CENTRAL DIRECT** | Synthetic architecture/RLS/drift gates are green; no real production backend deployment is authorized yet. |
+| **Interactive Book App Factory** | **~32%** | **CENTRAL DIRECT** | Contracts/engine exist; World 01 real production conversion is still owner-gated/not completed. |
+| **Opinie Offline Workbench** | **~55%** | **CENTRAL COORDINATION / synthetic remote only** | Synthetic deterministic engine/privacy boundaries are strong. Real case data/output remains local/offline and human-gated. |
+| **Smart CV Tailor PRIVATE** | **~84%** | **LOCAL PRIVATE / owner-local tests** | Renderer/import/matching regression strong; final real Windows/Ollama/browser verification remains local. |
+| **Domowe Finanse 2026 PRIVATE** | **~70%** | **LOCAL PRIVATE / owner-local tests** | Code fixes prepared; final Windows + Excel COM verification remains local and must not upload real financial data. |
 
-Weighted active-portfolio working estimate: **~80–82%**.
+Weighted active-portfolio working estimate: **~82–84%**.
 
-## Current commercial order
+## Commercial execution order
 
-1. **Detective Academy EN -> KDP**
-2. **Detective Academy PL -> KDP Poland**
-3. **Optical Animals**
-4. **24 Gentle Steps to Christmas**
-5. **Consumer App Factory / Google Play**
-6. **Senior / Happy Me / Opinie / AI Discovery** in parallel below their gates
+1. Detective Academy EN -> KDP
+2. Detective Academy PL -> KDP Poland
+3. Optical Animals
+4. 24 Gentle Steps to Christmas
+5. Consumer App Factory / Google Play
+6. Senior / Happy Me / Opinie / AI Discovery in parallel below gates
 
-## Detective release interpretation
+## Detective current interpretation
 
-Do not reuse the old ~99% label. The owner deliberately expanded the quality bar through:
-- V10-level narrative/finale work;
-- modern-prop world redesign;
-- cover/back/A+ commercial packaging;
-- stronger final KDP proof requirements.
+Do not call the English interior frozen. The owner deliberately raised the final visual/system bar after the 146-page logic release candidate passed. Canonical interior design contract:
+`orchestration/detective/DETECTIVE_ACADEMY_INTERIOR_DESIGN_SYSTEM.md`
 
-This is quality-scope expansion, not loss of prior technical work.
+Current bounded repair:
+- recurring CASE / MISSION / OBJECTIVE / HM CHAT / RULES / EVIDENCE / VERDICT structure;
+- HM Chat component restoration;
+- modern Witness Board;
+- Evidence Grid signature motif;
+- monochrome scanner-question-mark symbol;
+- no premature `YOU` reveal in slot 06;
+- stale name cleanup;
+- 146/146 human page audit;
+- no logic/art/map regression.
 
-## Optical release interpretation
+## Ownership invariant
 
-Owner working-art state (19/20) is ahead of the canonical FINAL20 manifest. Canonical promotion remains hash/owner gated. Exact-identity seek-and-find must use source-derived animal pixels, never AI-generated lookalikes.
-
-## Local-private owner test reminders
-
-### Domowe Finanse
-- unpack latest fixed package into a new folder;
-- close Excel;
-- run `01_ODSWIEZ_RECZNIE.bat`;
-- if PASS, run `00_START_PIERWSZY_RAZ.bat`;
-- on failure return `LAST_ERROR.txt` + screenshot;
-- never upload real workbook data remotely.
-
-### Smart CV
-- unpack latest stable package into a new folder;
-- use only `START_SMART_CV_PRIVATE.bat`;
-- verify 6/6 Experience roles, 2-page Standard, 3-page ATS;
-- run Analyze with local Ollama;
-- export PDF in Chrome/Edge and visually inspect;
-- on failure return local log/screenshot;
-- never upload real CV/Experience Database/private application data remotely.
+Central RSE Technical Orchestrator owns portfolio truth, priorities, cross-project dependencies and durable state at all times.
+Delegated execution lanes do not replace Central ownership; they are one-writer execution surfaces under Central coordination.
