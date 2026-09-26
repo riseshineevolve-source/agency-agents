@@ -2,7 +2,7 @@
 
 Status: CANONICAL
 Rebuilt: 2026-09-18
-Last reconciled: 2026-09-24
+Last reconciled: 2026-09-26
 Primary durable repo: `riseshineevolve-source/agency-agents`
 
 ## 1. Operating model
@@ -668,3 +668,9 @@ A session is healthy only if another fresh session can recover:
 - next safe action,
 
 from GitHub + explicitly referenced private sources.
+
+## Detective Academy owner sync — 2026-09-26
+
+Canonical interior design and non-regression contract: `orchestration/detective/DETECTIVE_ACADEMY_INTERIOR_DESIGN_SYSTEM.md`.
+
+Current rule: Detective EN remains NOT FROZEN. The 146-page logic/map/Case03/reverse-entry gates are green, but owner visual review reopened the interior design gate for recurring structure, Happy Makers Chat restoration, Witness Board modernization, Evidence Grid identity, sixth-slot reveal timing, stale-name cleanup, and a fresh 146-page human visual audit before physical proof.
