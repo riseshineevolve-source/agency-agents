@@ -689,3 +689,36 @@ Next safe action:
 push branch -> draft PR/current-head CI -> Central diff review.
 
 Full Detective PL remains blocked until explicit EN freeze.
+
+
+## Gentle Steps Days 08–14 language candidate — 2026-09-26
+
+Bounded Polish candidate completed from published English paperback pages 43–63:
+- Days 08–14
+- 21 activities
+- local Codex commit `4fa7700a75c6444ee9e104bf6adf2692d11d8899`
+- source fidelity PASS
+- natural Polish PASS
+- Happy Makers character voice PASS
+- claim/safety PASS
+- no shared terminology/engine change requested
+
+Durable checkpoint:
+`orchestration/brain/checkpoints/2026-09-26-gentle-steps-days08-14-pass.md`
+
+Important: at Central verification time the remote branch is still at `630e39a603177d4b923e74944a7ae4d03863d1ea`; the local Days 08–14 commit must be pushed before the branch state is durable remotely.
+
+Real-template fit remains OPEN for Week 1 and Week 2. Next safe bounded language slice: Days 15–21 after exact source-page-boundary confirmation.
+
+## Polish Engine PR #13 — Central review state 2026-09-26
+
+PR #13 `Reconcile Polish Localization Engine with current main`:
+- Draft / Open / Mergeable
+- head `147f160c1e5b5df8cd930d817bf42a64cc85af82`
+- 56 changed files in the expected localization/engine/role/runbook/workflow scope
+- 8/8 current-head GitHub Actions PASS
+- no failing jobs
+- zero deterministic localization errors
+- 34 fit/provisional-terminology review items remain non-publication review work
+
+Central review finds the reconciliation scope consistent with the intended current-main engine recovery. Do not start full Detective PL before explicit EN freeze. Do not merge without the applicable owner/central merge decision.
