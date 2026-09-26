@@ -9,7 +9,7 @@ Percentages estimate progress toward the currently defined DONE for each lane. T
 | Project | Working completion | Execution ownership | Current interpretation / next gate |
 |---|---:|---|---|
 | **RSE Brain / Technical Orchestrator** | **98%** | **CENTRAL DIRECT** | Durable source-of-truth, priority, checkpoint, handoff and recovery model is active. Remaining work is continuous delta-sync/hygiene. |
-| **Detective Academy EN -> KDP** | **~96%** | **CENTRAL DIRECT + Codex bounded execution** | 146-page logic/map/Case03/reverse-entry gates are green; KDP draft + ISBN exist. Owner visual audit reopened a bounded interior-design non-regression pass: recurring case structure, HM Chat boxes, modern Witness Board, Evidence Grid, scanner symbol, sixth-slot reveal timing, stale-name cleanup, then 146/146 human audit + physical proof + explicit EN freeze. |
+| **Detective Academy EN -> KDP** | **~98%** | **CENTRAL DIRECT + Codex bounded execution** | 146-page interior visual-system gate is now locally PASS: 30/30 recurring case structure, 37/37 HM Chat, 146/146 human visual audit and all logic/map/meta gates green. Remaining: safe remote persistence of the local commit, final full-wrap cover, KDP Previewer/preflight, representative physical proof, explicit EN freeze and publication. |
 | **Detective Academy PL** | **~20% product / infra-ready** | **CENTRAL DIRECT after EN freeze** | Edition execution waits for explicit EN freeze. Localization engine is calibrated and ready to start immediately once the frozen source/hash/aliases exist. |
 | **Polish Localization Engine** | **~95%** | **CENTRAL DIRECT** | Production infrastructure, terminology, logic invariants and regression are strong. Remaining value is real frozen-product execution and branch reconciliation only when useful. |
 | **Optical Animals** | **~90% working-art lane** | **CENTRAL DIRECT** | Tooling/identity proof is green; owner reports 19/20 working illustrations. Remaining: final art lock, butterfly layout gate, canonical FINAL20 promotion/hashes, exact-source seek/find tokens, full assembly, proof and KDP package. |
@@ -57,3 +57,12 @@ Current bounded repair:
 
 Central RSE Technical Orchestrator owns portfolio truth, priorities, cross-project dependencies and durable state at all times.
 Delegated execution lanes do not replace Central ownership; they are one-writer execution surfaces under Central coordination.
+
+
+## Latest Detective milestone — 2026-09-26
+
+Interior visual-system repair completed locally at `6579ac896c477461fe1c384993315d7455b3f7c5` with 146/146 human visual PASS and all logic/map/meta gates green.
+
+Working completion is raised to **~98%** because remaining work is now packaging/proof/release rather than interior construction.
+
+Do not interpret 98% as permission to publish: final cover, KDP preflight, physical proof and explicit EN freeze remain real gates.
