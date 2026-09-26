@@ -674,3 +674,18 @@ from GitHub + explicitly referenced private sources.
 Canonical interior design and non-regression contract: `orchestration/detective/DETECTIVE_ACADEMY_INTERIOR_DESIGN_SYSTEM.md`.
 
 Current rule: Detective EN remains NOT FROZEN. The 146-page logic/map/Case03/reverse-entry gates are green, but owner visual review reopened the interior design gate for recurring structure, Happy Makers Chat restoration, Witness Board modernization, Evidence Grid identity, sixth-slot reveal timing, stale-name cleanup, and a fresh 146-page human visual audit before physical proof.
+
+
+## Polish Engine reconciliation PASS — 2026-09-26
+
+Current-main reconciliation is technically PASS on local branch `codex/polish-engine-main-reconcile`, local HEAD `147f160c1e5b5df8cd930d817bf42a64cc85af82`.
+
+Durable checkpoint:
+`orchestration/brain/checkpoints/2026-09-26-polish-engine-main-reconciliation-pass.md`
+
+All deterministic localization tests are green; 34 fit/provisional-terminology review items remain non-deterministic review work.
+
+Next safe action:
+push branch -> draft PR/current-head CI -> Central diff review.
+
+Full Detective PL remains blocked until explicit EN freeze.
