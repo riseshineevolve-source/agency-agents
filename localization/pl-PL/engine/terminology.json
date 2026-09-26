@@ -1,0 +1,1261 @@
+{
+  "identifier_policy": {
+    "answer_keys": "never_translate",
+    "clue_ids": "never_translate",
+    "source_keys": "never_translate",
+    "urls_anchors_schema_ids": "protect_by_default; explicit mapped source contract required"
+  },
+  "locale": "pl-PL",
+  "terms": [
+    {
+      "id": "core.survival-kit",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Use as the recurring book/system label. Do not drift to `zestaw przetrwania` or coaching-style substitutes.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "Survival Kit",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "NIEZBĘDNIK"
+      ]
+    },
+    {
+      "id": "core.mission",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Core RSE child-facing activity label.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "Mission",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "MISJA"
+      ]
+    },
+    {
+      "id": "core.secret-hack",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Native functional transcreation. Do not revert to `hack`.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "Secret Hack",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "TAJNY PATENT"
+      ]
+    },
+    {
+      "id": "core.mini-mission",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Recurring compact label.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "Mini-Mission",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "MINI-MISJA"
+      ]
+    },
+    {
+      "id": "core.the-gentle-why",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Explanation section for emotions/reactions. Avoid therapy register.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "The Gentle Why",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "CO TU SIĘ DZIEJE?"
+      ]
+    },
+    {
+      "id": "core.your-turn-to-create",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Creative activity heading.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "Your Turn to Create",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "TERAZ TY TWORZYSZ!"
+      ]
+    },
+    {
+      "id": "core.gentle-step",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Small actionable step.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "Gentle Step",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "MAŁY KROK NA DZIŚ"
+      ]
+    },
+    {
+      "id": "core.pause-breathe",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Calm pause label.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "Pause & Breathe",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "CHWILA NA ODDECH"
+      ]
+    },
+    {
+      "id": "core.play-zone",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Games/puzzles/movement section.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "Play Zone",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "STREFA ZABAWY"
+      ]
+    },
+    {
+      "id": "core.no-stress-manual",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Accepted for Happy Makers child-facing voice.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "No-Stress Manual",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "INSTRUKCJA BEZ SPINY"
+      ]
+    },
+    {
+      "id": "core.daily-mission",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Daily recurring label.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "Daily Mission",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "MISJA DNIA"
+      ]
+    },
+    {
+      "id": "core.secret-shield",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Page-protection / marker-bleed joke label.",
+      "regression_groups": [
+        "core"
+      ],
+      "source": "Secret Shield",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "TAJNA TARCZA"
+      ]
+    },
+    {
+      "id": "core.gratitude-button-mechanism",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "accepted coined term; use intentional typography",
+      "regression_groups": [],
+      "source": "gratitude button mechanism",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "PRZYCISK „DZIĘKI”"
+      ]
+    },
+    {
+      "id": "core.family-anchors",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "accepted activity-family label for this exercise",
+      "regression_groups": [],
+      "source": "Family Anchors",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "DOMOWE KOTWICE"
+      ]
+    },
+    {
+      "id": "core.cozy-map-sensory-home-map-function",
+      "mode": "translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "accepted functional localization for this exercise",
+      "regression_groups": [],
+      "source": "Cozy Map / sensory home map function",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "DOMOWA MAPA ZMYSŁÓW"
+      ]
+    },
+    {
+      "id": "core.dilo-glitch",
+      "mode": "transcreation_only",
+      "products": [
+        "*"
+      ],
+      "provenance": "git:0188a9f:localization/pl-PL/ACCEPTED_TERMINOLOGY.md; localization/pl-PL/golden-tests/published-book-calibration-round2.md",
+      "rationale": "Source recurrence still needs verification.",
+      "regression_groups": [],
+      "source": "Dilo's Glitchy Fact",
+      "source_language": "en",
+      "state": "provisional",
+      "target_language": "pl-PL",
+      "targets": [
+        "DILO: FAKT Z BŁĘDEM W SYSTEMIE"
+      ]
+    },
+    {
+      "id": "brand.rise-shine-evolve",
+      "mode": "never_translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_SEGMENTATION_CONTRACT.md; golden-tests/project-unstoppable-batch-001.md",
+      "rationale": "Established product/brand identity remains unchanged.",
+      "regression_groups": [],
+      "source": "Rise.Shine.Evolve.",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Rise.Shine.Evolve."
+      ]
+    },
+    {
+      "id": "brand.happy-makers",
+      "mode": "never_translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_SEGMENTATION_CONTRACT.md; golden-tests/project-unstoppable-batch-001.md",
+      "rationale": "Established product/brand identity remains unchanged.",
+      "regression_groups": [],
+      "source": "Happy Makers",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Happy Makers"
+      ]
+    },
+    {
+      "id": "brand.happy-makers-hyphen",
+      "mode": "never_translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_SEGMENTATION_CONTRACT.md; golden-tests/project-unstoppable-batch-001.md",
+      "rationale": "Established product/brand identity remains unchanged.",
+      "regression_groups": [],
+      "source": "Happy-Makers",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Happy-Makers"
+      ]
+    },
+    {
+      "id": "brand.project-unstoppable",
+      "mode": "never_translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_SEGMENTATION_CONTRACT.md; golden-tests/project-unstoppable-batch-001.md",
+      "rationale": "Established product/brand identity remains unchanged.",
+      "regression_groups": [],
+      "source": "Project Unstoppable",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Project Unstoppable"
+      ]
+    },
+    {
+      "id": "brand.google-play",
+      "mode": "never_translate",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_SEGMENTATION_CONTRACT.md; golden-tests/project-unstoppable-batch-001.md",
+      "rationale": "Established product/brand identity remains unchanged.",
+      "regression_groups": [],
+      "source": "Google Play",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Google Play"
+      ]
+    },
+    {
+      "id": "name.mimi",
+      "mode": "identity",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md; DETECTIVE_ACADEMY_PROFILE.md",
+      "rationale": "Character identity is stable. Additional inflections require source-backed review.",
+      "regression_groups": [],
+      "source": "Mimi",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Mimi"
+      ]
+    },
+    {
+      "id": "name.nini",
+      "mode": "identity",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md; DETECTIVE_ACADEMY_PROFILE.md",
+      "rationale": "Character identity is stable. Additional inflections require source-backed review.",
+      "regression_groups": [],
+      "source": "Nini",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Nini"
+      ]
+    },
+    {
+      "id": "name.alio",
+      "mode": "identity",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md; DETECTIVE_ACADEMY_PROFILE.md",
+      "rationale": "Character identity is stable. Additional inflections require source-backed review.",
+      "regression_groups": [],
+      "source": "Alio",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Alio"
+      ]
+    },
+    {
+      "id": "name.dilo",
+      "mode": "identity",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md; DETECTIVE_ACADEMY_PROFILE.md",
+      "rationale": "Character identity is stable. Additional inflections require source-backed review.",
+      "regression_groups": [],
+      "source": "Dilo",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Dilo"
+      ]
+    },
+    {
+      "id": "name.luli",
+      "mode": "identity",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md; DETECTIVE_ACADEMY_PROFILE.md",
+      "rationale": "Character identity is stable. Additional inflections require source-backed review.",
+      "regression_groups": [],
+      "source": "Luli",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Luli"
+      ]
+    },
+    {
+      "id": "name.bibi",
+      "mode": "identity",
+      "products": [
+        "*"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md; DETECTIVE_ACADEMY_PROFILE.md",
+      "rationale": "Character identity is stable. Additional inflections require source-backed review.",
+      "regression_groups": [],
+      "source": "Bibi",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Bibi"
+      ]
+    },
+    {
+      "id": "alias.nova",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Nova",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Nova",
+        "Novy",
+        "Novę"
+      ]
+    },
+    {
+      "id": "alias.echo",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Echo",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "alias.blaze",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Blaze",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Blaze"
+      ]
+    },
+    {
+      "id": "alias.clover",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Clover",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Clover"
+      ]
+    },
+    {
+      "id": "alias.scout",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Scout",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Scout"
+      ]
+    },
+    {
+      "id": "alias.pixel",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Pixel",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Pixel"
+      ]
+    },
+    {
+      "id": "alias.dash",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Dash",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Dash"
+      ]
+    },
+    {
+      "id": "alias.sage",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Sage",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Sage"
+      ]
+    },
+    {
+      "id": "alias.juno",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Juno",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Juno"
+      ]
+    },
+    {
+      "id": "alias.atlas",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Atlas",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Atlas"
+      ]
+    },
+    {
+      "id": "alias.rook",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Rook",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Rook"
+      ]
+    },
+    {
+      "id": "alias.skye",
+      "mode": "identity",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md#names-and-aliases",
+      "rationale": "Keep the adventure alias. Only recorded unambiguous Polish inflections are allowed.",
+      "regression_groups": [],
+      "source": "Skye",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Skye"
+      ]
+    },
+    {
+      "id": "detective.detective-academy",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "Detective Academy",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "Akademia Detektywów"
+      ]
+    },
+    {
+      "id": "detective.case",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "case",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "sprawa"
+      ]
+    },
+    {
+      "id": "detective.case-file",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "case file",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "akta sprawy"
+      ]
+    },
+    {
+      "id": "detective.witness-board",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [
+        "detective"
+      ],
+      "source": "Witness Board",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "TABLICA ZEZNAŃ"
+      ]
+    },
+    {
+      "id": "detective.live-case-map",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "Live Case Map",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "MAPA ŚLEDZTWA"
+      ]
+    },
+    {
+      "id": "detective.your-objective",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [
+        "detective"
+      ],
+      "source": "Your Objective",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "TWOJE ZADANIE"
+      ]
+    },
+    {
+      "id": "detective.witness-statements",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "Witness Statements",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "ZEZNANIA ŚWIADKÓW"
+      ]
+    },
+    {
+      "id": "detective.hint-vault",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [
+        "detective"
+      ],
+      "source": "Hint Vault",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "SEJF PODPOWIEDZI"
+      ]
+    },
+    {
+      "id": "detective.detective-certificate",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "Detective Certificate",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "DYPLOM AKADEMII DETEKTYWÓW"
+      ]
+    },
+    {
+      "id": "detective.room-zero",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "Room Zero",
+      "source_language": "en",
+      "state": "provisional",
+      "target_language": "pl-PL",
+      "targets": [
+        "POKÓJ ZERO"
+      ]
+    },
+    {
+      "id": "detective.rule-zero",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "Rule Zero",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "ZASADA ZERO"
+      ]
+    },
+    {
+      "id": "detective.verdict",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "verdict",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "WERDYKT"
+      ]
+    },
+    {
+      "id": "detective.follow-the-evidence-don-t-guess",
+      "mode": "transcreation_only",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Accepted direct-address instruction/CTA. Preserve function and recurring wording.",
+      "regression_groups": [],
+      "source": "FOLLOW THE EVIDENCE. DON'T GUESS.",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "TRZYMAJ SIĘ DOWODÓW. NIE ZGADUJ."
+      ]
+    },
+    {
+      "id": "detective.case-active",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "CASE ACTIVE",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "SPRAWA W TOKU"
+      ]
+    },
+    {
+      "id": "detective.mission-active",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "MISSION ACTIVE",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "MISJA W TOKU"
+      ]
+    },
+    {
+      "id": "detective.evidence",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "EVIDENCE",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "DOWODY"
+      ]
+    },
+    {
+      "id": "detective.case-hook",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "CASE HOOK",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "CO SIĘ STAŁO?"
+      ]
+    },
+    {
+      "id": "detective.field-note",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "FIELD NOTE",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "NOTATKA Z TERENU"
+      ]
+    },
+    {
+      "id": "detective.your-verdict",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [
+        "detective"
+      ],
+      "source": "YOUR VERDICT",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "TWÓJ WERDYKT"
+      ]
+    },
+    {
+      "id": "detective.coordinate",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [
+        "detective"
+      ],
+      "source": "COORDINATE",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "WSPÓŁRZĘDNA"
+      ]
+    },
+    {
+      "id": "detective.solution-map",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "SOLUTION MAP",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "MAPA ROZWIĄZANIA"
+      ]
+    },
+    {
+      "id": "detective.deduction-grid",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "DEDUCTION GRID",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "SIATKA DEDUKCJI"
+      ]
+    },
+    {
+      "id": "detective.zero-assumptions-notice-first-theorize-second",
+      "mode": "transcreation_only",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [
+        "detective"
+      ],
+      "source": "ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "ZERO ZAŁOŻEŃ. NAJPIERW FAKTY. POTEM TEORIE."
+      ]
+    },
+    {
+      "id": "detective.training",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "TRAINING",
+      "source_language": "en",
+      "state": "provisional",
+      "target_language": "pl-PL",
+      "targets": [
+        "SZKOLENIE"
+      ]
+    },
+    {
+      "id": "detective.rookie",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "ROOKIE",
+      "source_language": "en",
+      "state": "provisional",
+      "target_language": "pl-PL",
+      "targets": [
+        "POZIOM: START"
+      ]
+    },
+    {
+      "id": "detective.field-agent",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "FIELD AGENT",
+      "source_language": "en",
+      "state": "provisional",
+      "target_language": "pl-PL",
+      "targets": [
+        "POZIOM: TEREN"
+      ]
+    },
+    {
+      "id": "detective.master-detective",
+      "mode": "translate",
+      "products": [
+        "detective-academy"
+      ],
+      "provenance": "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md; golden-tests/detective-academy-calibration-round1.md",
+      "rationale": "Preserve the accepted recurring function; do not vary for style.",
+      "regression_groups": [],
+      "source": "MASTER DETECTIVE",
+      "source_language": "en",
+      "state": "provisional",
+      "target_language": "pl-PL",
+      "targets": [
+        "POZIOM: MISTRZOWSKI"
+      ]
+    },
+    {
+      "id": "gentle.mindful-moment",
+      "mode": "translate",
+      "products": [
+        "gentle-steps-christmas"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md",
+      "rationale": "Accepted calibration wording; global lock waits for real-template fit.",
+      "regression_groups": [
+        "gentle"
+      ],
+      "source": "Mindful Moment",
+      "source_language": "en",
+      "state": "provisional",
+      "target_language": "pl-PL",
+      "targets": [
+        "SPOKOJNA CHWILA"
+      ]
+    },
+    {
+      "id": "gentle.fun-spark",
+      "mode": "translate",
+      "products": [
+        "gentle-steps-christmas"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md",
+      "rationale": "Accepted calibration wording; global lock waits for real-template fit.",
+      "regression_groups": [
+        "gentle"
+      ],
+      "source": "Fun Spark",
+      "source_language": "en",
+      "state": "provisional",
+      "target_language": "pl-PL",
+      "targets": [
+        "ISKRA ZABAWY"
+      ]
+    },
+    {
+      "id": "gentle.family-connection",
+      "mode": "translate",
+      "products": [
+        "gentle-steps-christmas"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md",
+      "rationale": "Accepted calibration wording; global lock waits for real-template fit.",
+      "regression_groups": [
+        "gentle"
+      ],
+      "source": "Family Connection",
+      "source_language": "en",
+      "state": "provisional",
+      "target_language": "pl-PL",
+      "targets": [
+        "CHWILA BLISKOŚCI"
+      ]
+    },
+    {
+      "id": "gentle.title",
+      "mode": "transcreation_only",
+      "products": [
+        "gentle-steps-christmas"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md",
+      "rationale": "Title owner gate remains open; neither candidate is globally locked.",
+      "regression_groups": [],
+      "source": "24 Gentle Steps to Christmas",
+      "source_language": "en",
+      "state": "owner_gate",
+      "target_language": "pl-PL",
+      "targets": []
+    },
+    {
+      "id": "ui.coming-soon-google-play",
+      "mode": "translate",
+      "products": [
+        "project-unstoppable"
+      ],
+      "provenance": "localization/pl-PL/golden-tests/project-unstoppable-batch-001.md#pu-hero-002",
+      "rationale": "Existing approved app-store microcopy; surface remains subject to responsive fit.",
+      "regression_groups": [],
+      "source": "COMING SOON ON GOOGLE PLAY",
+      "source_language": "en",
+      "state": "locked",
+      "target_language": "pl-PL",
+      "targets": [
+        "JUŻ WKRÓTCE W GOOGLE PLAY"
+      ]
+    }
+  ],
+  "version": 1
+}
