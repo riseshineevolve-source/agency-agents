@@ -63,25 +63,30 @@ Goal:
 
 Do not silently treat divergent app copy as canonical.
 
-### Lane D — Gentle Steps
-Start only after Lane A produces a green current-main-compatible localization-engine checkpoint.
+### Lane D — Gentle Steps controlled scale-out
+Repository: `riseshineevolve-source/agency-agents`
+Branch: `codex/gentle-steps-week2-scaleout`
+Base: `rse/polish-localization-engine-v1@f9d938611661f74108bdafa1df6ac8de1aaa27f1`
 
-Reason:
-Gentle Steps and Polish Engine share the localization surface; avoid simultaneous writers.
+This lane MAY run in parallel with Lane A only under a strict file-surface split:
+- Gentle Steps writes new bounded translation/QA candidate files and project-specific checkpoint only;
+- it must NOT edit localization engine scripts, shared terminology, regression framework, or PR6 reconciliation files;
+- terminology/engine changes discovered by Gentle Steps are reported, not written, until Lane A reconciles them.
 
-Next bounded Gentle Steps scope is owner-authorized:
+Owner-authorized next scope:
 - preserve the published 104-page English source;
 - keep Week 1 accepted language candidates;
 - do not falsely close real-template fit without real evidence;
-- proceed with a controlled next segmented translation batch after engine reconciliation;
+- translate the next bounded complete segment (prefer Days 8–14 if source evidence supports the exact day boundaries);
+- run source-fidelity, naturalness, character-voice, safety/claims and completeness QA;
 - keep the four-heading real-template fit as a separate hard layout gate;
-- no full publication/promotion until layout proof.
+- do not claim full-book completion or publication readiness.
 
 ## Central orchestration
 
 Detective EN remains commercial priority #1 and continues in its separate local Codex worktree.
 
-Central may run these three new Codex lanes in parallel because they are repository/branch separated.
+Central may run these four Codex lanes in parallel because they are branch-separated and Gentle Steps is explicitly restricted from engine/shared-terminology writes.
 
 After each meaningful checkpoint:
 - verify CI;
