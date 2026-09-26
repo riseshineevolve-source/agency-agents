@@ -208,6 +208,25 @@ The scanner-question-mark is the only Detective Academy symbol unless the owner 
 
 ---
 
+
+## 8A. Page 3 squad-art emblem decision — owner lock 2026-09-26
+
+For the page 3 squad image:
+
+**Use scanner variant in PDF; preserve original file.**
+
+Implementation rule:
+- preserve the original approved squad-art source byte-for-byte;
+- do NOT regenerate the full image;
+- do NOT change Happy Makers faces, ages, hair, clothing, poses or proportions;
+- create/use a derived presentation copy only for the final PDF if needed;
+- replace/cover only the legacy shield/laurel/torch emblem region with the canonical scanner-question-mark mark;
+- match local grayscale/lighting/texture so the replacement looks native;
+- keep the original approved image available unchanged in the owner-art/source archive.
+
+Fail closed:
+if the emblem cannot be changed without altering character pixels or composition, retain the approved original and flag the exact page for owner review instead of regenerating the squad.
+
 ## 9. Modern-world design language
 
 The Academy is contemporary / near-future, not old detective nostalgia.
