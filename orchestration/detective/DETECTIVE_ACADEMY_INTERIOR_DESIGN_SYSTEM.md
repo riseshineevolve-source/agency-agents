@@ -429,7 +429,7 @@ Only after this + physical proof + explicit owner decision may English be frozen
 
 Before any further full-book renderer/layout consolidation, use:
 
-`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V1.md`
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V2.md`
 
 as the complete text-layer working master.
 
@@ -448,3 +448,19 @@ Required case sequence:
 Layout is subordinate to text/logic. Reflow before copy deletion.
 
 The Gold Master remains owner-review text, not English freeze, until explicit owner acceptance and source integration.
+
+
+### V2 red-team override — 2026-09-27
+
+Active working text layer:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V2.md`
+
+V1 remains archive/reference only.
+
+Important structural refinement:
+- ordinary cases render **CASE RESULT**, not CASE CLOSED;
+- Room Zero may use CASE CLOSED at the finale;
+- renderer must preserve V2's four-marks/five-routed-files Act I logic;
+- renderer must not place an extra Room Zero mark on Case 03 owner art;
+- Case 26 display title is THE CASE OF THE EMPTY ROOMS;
+- exact objectives, evidence and puzzle mechanics remain locked and unchanged.
