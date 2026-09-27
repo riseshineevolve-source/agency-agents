@@ -151,3 +151,30 @@ Canonical V3 commit after this refinement:
 `95621752447c793e8485440a787f406f390b4582`
 
 No puzzle logic, answers, clues, map truth, Case 03 mechanic, response surfaces or other case copy changed.
+
+
+## Final owner text persistence — 2026-09-27 evening
+
+Latest V3 owner-review master was persisted in full after the final Room Zero explanation refinement.
+
+Canonical file:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest content commit:
+`a735f9e5d09aee1ea0a39b400eb956d7d8d7b22e`
+
+The version family remains **V3**. Do not create V4 for editorial/minor corrections.
+
+Latest finale contract:
+- first give the complete Room Zero explanation in two concise narrative sentences;
+- Alio does not fully understand and asks for a translation;
+- the Happy Makers family then explains the full causal chain in dialogue;
+- explicitly preserve that the intake system did NOT create/stage the local mysteries;
+- close with:
+  `The Academy could open the door.`
+  `Only you could earn the badge.`
+
+Current gate:
+**TEXT OWNER REVIEW OPEN / DETECTIVE LAYOUT PAUSED.**
+
+No further Detective text/layout changes overnight unless the owner supplies new feedback.
