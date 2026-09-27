@@ -951,3 +951,22 @@ Owner-approved direction:
 two-sentence Room Zero summary first, then Alio asks for a translation and the full Happy Makers family explains the complete causal chain in chat form. No causal detail was dropped.
 
 Layout/Codex remains paused until owner accepts the text.
+
+
+## Detective V3 evening persistence — 2026-09-27
+
+The full owner-review text master is durably stored at:
+
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest content commit:
+`a735f9e5d09aee1ea0a39b400eb956d7d8d7b22e`
+
+This remains **V3**; do not create another numbered text version for minor/editorial corrections.
+
+Latest owner-approved direction includes the final Room Zero explanation structure:
+two-sentence overview -> Alio needs translation -> full Happy Makers causal explanation -> `The Academy could open the door. Only you could earn the badge.`
+
+Current Detective state:
+**TEXT OWNER REVIEW OPEN / LAYOUT PAUSED.**
+No overnight Detective redesign or renderer work unless new owner feedback arrives.
