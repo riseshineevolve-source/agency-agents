@@ -88,3 +88,25 @@ PASS:
 Detective Codex layout consolidation remains PAUSED.
 Next action is owner reading/approval of V3 text.
 Only after owner acceptance should the renderer consume the exact V3 copy.
+
+
+## Integrity re-audit — 2026-09-27
+
+V3 was audited directly against V1 + V2 and the V2 red-team correction list.
+
+Audit:
+`orchestration/detective/DETECTIVE_ACADEMY_TEXT_V3_INTEGRITY_AUDIT.md`
+
+Two V3 assembly defects were found and fixed in place:
+- Case 24 HM Chat line break;
+- Hint Vault Level 3 Case 17 heading.
+
+Five Act openings were also consolidated to remove repeated setup and the old repeated empty-slot premise.
+
+No new version family was created.
+
+Current audited Markdown SHA-256:
+`31356a78ee865c7c78068b1451f4c89191fff6e71ac03489a3d030f5a2f2973b`
+
+Current audited editorial PDF SHA-256:
+`8fef53692ad474139d517dae03012f23d4262b302d2756a813003744bc03b166`
