@@ -970,3 +970,43 @@ two-sentence overview -> Alio needs translation -> full Happy Makers causal expl
 Current Detective state:
 **TEXT OWNER REVIEW OPEN / LAYOUT PAUSED.**
 No overnight Detective redesign or renderer work unless new owner feedback arrives.
+
+
+## Unstoppable Me revival — 2026-09-27
+
+Owner reactivated **Project Unstoppable / Unstoppable Me** as an active parallel product lane because of its strong overlap with the teen coping-skills / self-regulation opportunity.
+
+Canonical code:
+`riseshineevolve-source/unstoppable-me`
+
+Base main at revival:
+`df1014c7318d6b14a97ef183790c8b3c7b3ad0c2`
+
+Active revival branch:
+`codex/unstoppable-me-revival`
+
+Revival setup head:
+`651f28ceb09070354394a36deac97df98441ecc1`
+
+Central checkpoint:
+`orchestration/brain/checkpoints/2026-09-27-unstoppable-me-revival.md`
+
+Source custody:
+- Library: `/AI AGENTS/UNSTOPPABLE/Project_Unstoppable_6x10_Fixed.pdf`
+- Library: `/AI AGENTS/UNSTOPPABLE/Project_Unstoppable_extracted_text.docx`
+
+The separate `Unstoppable-Me-Edit` repository is empty and is not canonical.
+
+The project is a dual product:
+- 191-page / 31-day KDP workbook;
+- interactive 31-day app using the same core content universe.
+
+Strategic direction:
+modern teen coping/self-regulation + life-skills adventure, not therapy.
+
+Immediate gates:
+baseline CI -> KDP/app parity -> editorial/claims safety -> product-truth cleanup -> Play/privacy/minors release readiness.
+
+Central already removed tracked `.env` from the revival branch, added env ignore protection + `.env.example`, CI workflow and `CODEX_START_HERE.md`. Do not expose historical environment values. If any privileged historical secret exists, rotate it rather than printing it.
+
+No merge, KDP publication, Play publication or production Supabase change without owner gate.
