@@ -912,3 +912,28 @@ Current audited editorial PDF SHA:
 `8fef53692ad474139d517dae03012f23d4262b302d2756a813003744bc03b166`
 
 Codex layout remains paused pending owner text acceptance.
+
+
+## Detective V3 owner refinement pass — 2026-09-27
+
+Active text master remains:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical content commit after the owner opening/transition/finale pass:
+`5fc40a06f9993091875e902f05ce754aac2e2e3f`
+
+Do not create another text version number for minor/editorial fixes.
+
+Current V3 now includes:
+- black-envelope cold open before Academy/team explanation;
+- real Case Wall location;
+- upside-down Hint Vault / Solution Files explanation;
+- one `MY DETECTIVE EDGE` credential field;
+- Case 01 QUILL/MORSE/PIP/KNOX witness set with answer name visible;
+- 17/17 named-answer evidence-visibility audit PASS;
+- strengthened purpose sentences in contact-case intros;
+- narrative Room Zero finale;
+- witness-name library;
+- 30/30 narrative-bridge audit.
+
+Layout/Codex remains paused until owner approves the text.
