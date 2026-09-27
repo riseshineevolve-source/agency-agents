@@ -2997,7 +2997,6 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 
 **CASE RESULT:** Harper shared Milo’s room when the backpack mix-up was recorded. The team can now trace the handoff calmly.
 
-
 ---
 
 ## CASE 16 // GRANDMA BIBI'S VERY OLD, VERY EMBARRASSING PHOTOGRAPH
@@ -3036,7 +3035,8 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 
 **ANSWER:** A → B → C → D
 
-1. Cafe 15:08 becomes real 15:15.2. Dilo 15:18 becomes real 15:16.
+1. Cafe 15:08 becomes real 15:15.
+2. Dilo 15:18 becomes real 15:16.
 3. Station 15:17 is already real 15:17.
 4. Cafe 15:11 becomes real 15:18.
 5. The only order is A, B, C, D.
