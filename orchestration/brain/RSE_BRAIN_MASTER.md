@@ -811,3 +811,29 @@ Checkpoint:
 
 Next safe slice:
 audit World 01 Level 1 pages 16–22 and expand only source-supported coverage.
+
+
+## Detective text-only Gold Master V1 — 2026-09-27
+
+Canonical working text master:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V1.md`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-27-detective-text-gold-master-v1.md`
+
+Commit creating the full master:
+`7ddd722f7d5aba29de214cb633c627afbcb652b1`
+
+Scope covers front matter through Book 2 hook plus all three Hint Vault levels and full Solution Files.
+
+Narrative rule:
+each case must read as a small believable story inside the larger Room Zero investigation, not as a worksheet prompt.
+
+Current recurring text structure:
+CASE FILE / WHAT HAPPENED -> YOUR OBJECTIVE -> INVESTIGATION RULES -> HAPPY MAKERS CHAT -> EVIDENCE -> mechanic-specific response -> CASE CLOSED -> KEEP THIS / SIGNAL LOG.
+
+Spatial named anchors are not missing people or automatic suspects; their room companion is the next useful person to ask, not somebody to blame.
+
+Generic answer lines are prohibited where the mechanic requires marking, sorting, ordering, coding or direct annotation.
+
+Detective layout/Codex integration is PAUSED until owner accepts the Gold Master text direction. The next layout pass must consume fixed text and may not independently shorten/rewrite it to fit a historic page count.
