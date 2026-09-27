@@ -890,3 +890,25 @@ unexplained `?` -> concise Happy Makers introduction -> black envelope -> blank 
 V3 also contains the binding non-reader-facing case blueprint and a 30/30 schema compliance matrix.
 
 Detective renderer/Codex integration remains PAUSED until owner explicitly accepts V3 text direction.
+
+
+## Detective V3 integrity audit — 2026-09-27
+
+V3 was directly audited against V1, V2 and the V2 red-team corrections.
+
+Result:
+- substantive V1/V2 fixes preserved;
+- two assembly-format regressions fixed in place;
+- repeated Act-opening copy consolidated;
+- no new V4/V3.1 created.
+
+Audit:
+`orchestration/detective/DETECTIVE_ACADEMY_TEXT_V3_INTEGRITY_AUDIT.md`
+
+Current audited Markdown SHA:
+`31356a78ee865c7c78068b1451f4c89191fff6e71ac03489a3d030f5a2f2973b`
+
+Current audited editorial PDF SHA:
+`8fef53692ad474139d517dae03012f23d4262b302d2756a813003744bc03b166`
+
+Codex layout remains paused pending owner text acceptance.
