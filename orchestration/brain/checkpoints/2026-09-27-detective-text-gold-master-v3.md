@@ -134,3 +134,20 @@ Refinements applied without changing locked puzzle logic:
 - narrative-bridge audit added: 30/30 case intros pass source / incident / purpose / main-plot continuity requirements.
 
 Current renderer/layout gate remains PAUSED until owner accepts the V3 text.
+
+
+## Room Zero explanation refinement — 2026-09-27
+
+Same V3 version family retained.
+
+Owner direction implemented:
+- Room Zero reveal now begins with a two-sentence high-level explanation;
+- Alio explicitly admits he did not fully understand it;
+- the complete causal explanation is then delivered in Happy Makers chat form;
+- all existing causal facts are preserved: old training room, zero assumptions, renovation/sealed room, surviving plans/templates/routing instructions, field slot 06, black-envelope invitation, Case 01 queue activation, real-vs-routed incidents, Academy-controlled 0 paperwork, Case 05 code capture, reader-performed puzzle work, fourteen maps, torn note, CHECK THE OLD MAP, Rule Zero, D3, blank credential and earned certification;
+- final payoff remains: `The Academy could open the door. Only you could earn the badge.`
+
+Canonical V3 commit after this refinement:
+`95621752447c793e8485440a787f406f390b4582`
+
+No puzzle logic, answers, clues, map truth, Case 03 mechanic, response surfaces or other case copy changed.
