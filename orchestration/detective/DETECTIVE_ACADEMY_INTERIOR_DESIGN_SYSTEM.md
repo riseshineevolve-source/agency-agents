@@ -423,3 +423,28 @@ A final candidate is visually ready only when:
 - physical proof confirms comfortable print readability.
 
 Only after this + physical proof + explicit owner decision may English be frozen.
+
+
+## 18A. Text Gold Master gate — 2026-09-27
+
+Before any further full-book renderer/layout consolidation, use:
+
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V1.md`
+
+as the complete text-layer working master.
+
+Do not let a renderer independently shorten, omit or rewrite approved narrative sections.
+
+Required case sequence:
+1. CASE FILE // WHAT HAPPENED
+2. YOUR OBJECTIVE
+3. INVESTIGATION RULES where needed
+4. HAPPY MAKERS CHAT
+5. EVIDENCE / PUZZLE
+6. mechanic-specific response surface
+7. CASE CLOSED
+8. KEEP THIS / SIGNAL LOG where applicable
+
+Layout is subordinate to text/logic. Reflow before copy deletion.
+
+The Gold Master remains owner-review text, not English freeze, until explicit owner acceptance and source integration.
