@@ -867,3 +867,26 @@ Key V2 decisions:
 - layout integration remains PAUSED until owner accepts the V2 text direction.
 
 Do not let later renderer work silently revert V2 copy to V1/current PDF wording.
+
+
+## Detective Text Gold Master V3 — 2026-09-27
+
+**This section supersedes V2 as the active text-review source.**
+
+Active final-text candidate:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-27-detective-text-gold-master-v3.md`
+
+Master commit:
+`01eb2cf1e0f9b868c12f06e1e5390c2632b71123`
+
+V1/V2 remain history/reference.
+
+V3 locks the first ten reader pages as one progressive recruitment sequence:
+unexplained `?` -> concise Happy Makers introduction -> black envelope -> blank Recruit Credential -> mistake/coincidence/invitation -> WILL YOU CLAIM IT -> child completes real credential -> concise 30-connected-case/Room Zero promise -> case rhythm -> map/contact rules -> Hint Vault/Case Wall -> Case Index.
+
+V3 also contains the binding non-reader-facing case blueprint and a 30/30 schema compliance matrix.
+
+Detective renderer/Codex integration remains PAUSED until owner explicitly accepts V3 text direction.
