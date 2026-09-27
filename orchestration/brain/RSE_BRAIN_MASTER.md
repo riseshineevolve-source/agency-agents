@@ -770,3 +770,44 @@ Do not reopen the interior broadly. Only fix a concrete KDP-preflight or physica
 
 Remaining Detective EN work:
 safe remote persistence -> final full-wrap cover -> KDP previewer/preflight -> representative physical proof -> explicit owner EN freeze -> Detective PL.
+
+
+## Gentle Steps Days 15–21 PASS — 2026-09-27
+
+Bounded Polish language candidate completed from the published paperback:
+- Days 15–21
+- PDF pages 65–85
+- 21 activities
+- source fidelity / completeness / natural Polish / character voice / claim language PASS
+
+Remote branch remains at `4fa7700a75c6444ee9e104bf6adf2692d11d8899`; latest Days 15–21 commit `ef09623a9956ef9a4c197275d4353c7b52b0abd0` is local-only until pushed.
+
+Open gates:
+- real-template fit for Weeks 1–3
+- Day 18 eyes-closed walking safety decision
+- source-rule ambiguities on Days 16, 18 and 21
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-27-gentle-steps-days15-21-pass.md`
+
+Next bounded language slice:
+Days 22–24 after exact source-page-boundary confirmation.
+
+## World 01 real pilot PASS — 2026-09-27
+
+Branch `codex/interactive-book-world01-pilot` remote HEAD:
+`7795e6933c39f4f126666ad712c690ccd418f048`
+
+First source-backed real content-pack pilot is green:
+- mission openers 1–3
+- 3/10 openers = 30%
+- 3/108 pages direct evidence
+- 24 fail-closed tests PASS
+- Interactive Book Contract CI PASS
+- published source remains canonical over divergent app copy
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-27-world01-real-pilot-pass.md`
+
+Next safe slice:
+audit World 01 Level 1 pages 16–22 and expand only source-supported coverage.
