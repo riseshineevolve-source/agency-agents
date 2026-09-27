@@ -2297,28 +2297,69 @@ Luli raises one finger.
 
 “Evidence first.”
 
-The oldest screen in the room flickers awake. A dated routing log appears beside the old Academy plan, the physical 0 stamp, the intake templates and a list of case files you recognize because you solved them. Bibi leans closer. She does not say, “I knew it.” She says, “Good. Now we can prove it.”
+The oldest screen in the room flickers awake. A dated routing log appears beside the old Academy plan, the physical 0 stamp, the intake templates and a list of case files you recognize because you solved them.
 
-Years ago, Bibi and her childhood squad used this room to begin investigations with **zero assumptions**. Their training route ended at an empty **NEXT DETECTIVE** hook, but renovation sealed the room before the route was completed. The plan, the templates and the unfinished routing instructions stayed behind in the Academy archive system. That is why the room was called **Room Zero**: not because someone vanished, and not because a secret room number had been planted into every case, but because this was where detectives were taught to start from zero assumptions — **NOTICE FIRST. THEORIZE SECOND.**
+## THE SHORT VERSION
 
-The current Academy woke that unfinished route in two steps. First, the roster found field position 06 unassigned and released the stored black-envelope invitation. Then, when you solved Case 01 and Mimi logged the verified result, the old queue began routing files. It never moved the trophy, switched a label, changed a witness’s memory or staged a fake mystery. Those incidents were real. The system simply selected real new calls and archived records that matched its unfinished training route, placed the old mark on Academy-controlled paperwork and saved the evidence you earned — including Dilo’s active locker sequence.
+**Room Zero was an unfinished Academy training route built around Rule Zero: detectives begin with zero assumptions and let evidence lead the way. The old intake system reopened that route for the unassigned sixth field slot, routed real case files into your path and waited for you to finish what the earlier Academy never completed.**
 
-The machine still could not solve anything. You had to place the witnesses, compare the photographs, reject false leads, keep fourteen completed maps, rebuild the torn note, discover **CHECK THE OLD MAP**, align Bibi’s plans, restore Rule Zero and earn **D3**. Every step of the final panel came from work you had already done. The book did not hide one last trick from you. It made your earlier work matter.
+Alio looks at the screen.
 
-And the blank Recruit Credential? The system never knew your name. It could offer the unfinished place to **the person holding this book**, but it could not decide who deserved it. You chose a call sign. You followed the evidence. You kept the records. You came back when the clues told you to come back.
+### HAPPY MAKERS CHAT
+
+- **ALIO:** I understood all of those words separately.
+- **NINI:** Translation?
+- **ALIO:** Very much.
+
+- **BIBI:** Years ago, my childhood squad used this room to begin investigations with **zero assumptions**. Our training route ended at an empty **NEXT DETECTIVE** hook, but renovation sealed the room before anyone completed that last step.
+- **LULI:** The important part is what survived: the old plan, the intake templates and the unfinished routing instructions stayed in the Academy archive system.
+- **ALIO:** So Room Zero was not called Zero because somebody vanished?
+- **BIBI:** Correct.
+- **LULI:** And it was not a secret room number planted into every case. **Zero** was the starting rule: **ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.**
+
+- **MIMI:** The modern Academy restarted the unfinished route in two steps. First, the roster found field position 06 unassigned and released the stored black-envelope invitation.
+- **DILO:** Then you solved Case 01, Mimi logged the verified result and the old routing queue switched from “waiting” to “go.”
+- **ALIO:** Did it make the trophy disappear?
+- **EVERYONE:** No.
+- **DILO:** It did not switch labels, move trophies, confuse witnesses or stage fake mysteries either.
+- **LULI:** Those incidents were real. The system selected real new calls and archived records that matched its unfinished training route.
+- **MIMI:** It routed those files in sequence, used the old Academy mark on Academy-controlled paperwork and saved the evidence the investigation generated.
+- **DILO:** Including my completely excellent locker sequence.
+- **LULI:** Including **BALL–STAR–BOLT–HEART**.
+
+- **NINI:** But the machine still could not solve a single case.
+- **MIMI:** You placed the witnesses.
+- **LULI:** You compared the photographs and rejected false leads.
+- **DILO:** You kept fourteen completed maps instead of throwing away the “extra” work.
+- **NINI:** You rebuilt the torn note and discovered **CHECK THE OLD MAP**.
+- **BIBI:** You aligned the old plan, restored Rule Zero and found the sealed training room.
+- **ALIO:** And then we found **D3** on the final map.
+- **LULI:** You found D3.
+- **ALIO:** Right. I provided helmet-based support.
+
+- **MIMI:** That is why the final panel did not need a surprise answer. Every field came from work you had already done.
+- **NINI:** The book kept remembering things before we knew they would matter.
+- **BIBI:** And that was the real test: not whether you could guess the ending, but whether you could follow evidence long enough for the ending to become provable.
+
+Alio looks from the routing log to the empty hook.
+
+- **ALIO:** I have one more question. If the Academy knew it needed a sixth detective, why was the Recruit Credential blank?
+- **MIMI:** Because the system did not know your name.
+- **LULI:** It could send an invitation to **the person holding this book**. It could not decide who would earn the place.
+- **NINI:** You chose the call sign.
+- **DILO:** You did the cases.
+- **BIBI:** You kept the records and came back when the clues told you to come back.
+- **MIMI:** The Academy could offer the place. It could not fill it for you.
+
+The screen changes.
+
+**TRAINING ROUTE: COMPLETE**
+
+**FIELD POSITION 06: READY FOR CERTIFICATION**
 
 The Academy could open the door.
 
 **Only you could earn the badge.**
-
-### HAPPY MAKERS CHAT
-
-- **DILO:** So the secret system is real.
-- **LULI:** The routing system is real. Your imaginary delivery van remains retired.
-- **ALIO:** Retired with honours.
-- **NINI:** The best part is that the machine did not solve anything.
-- **BIBI:** Exactly.
-- **MIMI:** Our detective did.
 
 ## THE SIXTH HOOK
 
