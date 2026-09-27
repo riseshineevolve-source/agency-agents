@@ -937,3 +937,17 @@ Current V3 now includes:
 - 30/30 narrative-bridge audit.
 
 Layout/Codex remains paused until owner approves the text.
+
+
+## Room Zero reveal refinement — 2026-09-27
+
+Active V3 master remains:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical content commit:
+`95621752447c793e8485440a787f406f390b4582`
+
+Owner-approved direction:
+two-sentence Room Zero summary first, then Alio asks for a translation and the full Happy Makers family explains the complete causal chain in chat form. No causal detail was dropped.
+
+Layout/Codex remains paused until owner accepts the text.
