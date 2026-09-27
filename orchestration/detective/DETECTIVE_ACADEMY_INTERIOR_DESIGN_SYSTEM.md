@@ -464,3 +464,26 @@ Important structural refinement:
 - renderer must not place an extra Room Zero mark on Case 03 owner art;
 - Case 26 display title is THE CASE OF THE EMPTY ROOMS;
 - exact objectives, evidence and puzzle mechanics remain locked and unchanged.
+
+
+### V3 opening + case-blueprint override — 2026-09-27
+
+**This section supersedes the V2 text pointer for future layout integration.**
+
+Active text source:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Critical layout locks:
+- page 1 sixth field position = `?` only, never YOU;
+- do not repeat the empty-hook explanation on later intro pages;
+- black envelope -> blank credential -> invitation question -> reader claim is the sole recruitment logic;
+- page 5 credential must look like a real Academy badge/credential, not a plain worksheet;
+- page 8 defines the only reader-facing coordinate/legend semantics;
+- one coordinate system only on final maps;
+- coordinate labels remain close to the grid;
+- no stale grey-zone legend;
+- all 30 cases preserve the V3 case sequence and mechanic-specific response surface;
+- Evidence Grid/scanner-question-mark identity is applied as a modern functional system;
+- layout must reflow before cutting V3 copy.
+
+V3 supersedes V2 for renderer integration once owner approves the text.
