@@ -837,3 +837,33 @@ Spatial named anchors are not missing people or automatic suspects; their room c
 Generic answer lines are prohibited where the mechanic requires marking, sorting, ordering, coding or direct annotation.
 
 Detective layout/Codex integration is PAUSED until owner accepts the Gold Master text direction. The next layout pass must consume fixed text and may not independently shorten/rewrite it to fit a historic page count.
+
+
+## Detective Text Gold Master V2 — 2026-09-27
+
+Active owner-review text master:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V2.md`
+
+Red-team audit:
+`orchestration/detective/DETECTIVE_ACADEMY_TEXT_RED_TEAM_AUDIT_V2.md`
+
+V2 master commit:
+`20f8cbeb599ff146fcab02c66cacf3597faa0e55`
+
+V2 SHA-256:
+`8a1e02a880f8c3507f8e2007838f96e6d1d44fa7c066ff80d6977948288d3de3`
+
+V1 is retained as archive/reference and is no longer the active working text layer.
+
+Key V2 decisions:
+- ordinary files use CASE RESULT, not CASE CLOSED, because many contact cases establish the next interview rather than fully resolving the real-world incident;
+- Case 03 INTAKE-03 is a neutral routed comparison record and does not invent a fifth printed 0 on owner art;
+- first Act recap uses five routed files / four matching marks;
+- Case 26 display title becomes THE CASE OF THE EMPTY ROOMS;
+- Case 07 pre-puzzle chat no longer leaks the missing-costume situation;
+- all 30 intros were rewritten for story continuity, child clarity and tension;
+- all 30 case-result and Keep/Signal beats were red-teamed;
+- objective/evidence/puzzle truth remains unchanged;
+- layout integration remains PAUSED until owner accepts the V2 text direction.
+
+Do not let later renderer work silently revert V2 copy to V1/current PDF wording.
