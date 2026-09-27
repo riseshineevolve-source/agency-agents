@@ -110,3 +110,27 @@ Current audited Markdown SHA-256:
 
 Current audited editorial PDF SHA-256:
 `8fef53692ad474139d517dae03012f23d4262b302d2756a813003744bc03b166`
+
+
+## Owner refinement pass — 2026-09-27 13:xx
+
+Same V3 version family retained; no new version number created.
+
+Latest canonical master commit:
+`5fc40a06f9993091875e902f05ce754aac2e2e3f`
+
+Refinements applied without changing locked puzzle logic:
+- publication page layout instruction: centered scanner-question-mark, compact small publication/ISBN table near page bottom;
+- opening order changed to cold-open black envelope before Academy/team explanation;
+- page 4 now explains what Detective Academy is before introducing each Happy Maker;
+- Recruit Credential merges Special Skill + Best Detective Quality into one `MY DETECTIVE EDGE` field;
+- intro now explicitly explains that Hint Vault + Solution Files are at the back and upside down from the main story, with Happy Makers humor;
+- page 9 is now an actual reader-facing Case Wall surface with categories, not a reference to an undefined object;
+- Case 01 display aliases updated to QUILL / MORSE / PIP / KNOX and KNOX now appears visibly on the Witness Board;
+- all named-answer cases audited: 17/17 required answer names appear in the visible evidence surface;
+- contact-case intros now explain what learning the room companion can clarify next;
+- Room Zero finale explanation rewritten as one connected narrative payoff rather than FAQ-style fragments;
+- witness display-name library added for future alias substitutions;
+- narrative-bridge audit added: 30/30 case intros pass source / incident / purpose / main-plot continuity requirements.
+
+Current renderer/layout gate remains PAUSED until owner accepts the V3 text.
