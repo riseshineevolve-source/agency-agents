@@ -123,3 +123,69 @@ The renderer may not:
 - invent extra Room Zero marks;
 - remove explicit Case Wall instructions.
 
+
+
+---
+
+## Owner-feedback final microfix pass — 2026-09-28
+
+This pass responds to the owner's final instruction to read the book as a reader, remove residual repetition, make every case introduction causally clear, and make the Room Zero explanation logically airtight without reverting or redesigning any locked puzzle truth.
+
+Latest V3 text commit touching the canonical master:
+`3e534a2a5fe95dc183a0825071ae064175803a0b`
+
+The version family remains **V3**. No V4 was created.
+
+### Corrections completed
+
+- Case 02 now states exactly why Max matters: he is the last verified record tied to the Founders' Cup, and the person with him is the best witness to the missing handoff.
+- Case 03 no longer claims that two physically different evidence scenes were photographed one minute apart. They are now two file copies of the same evidence photograph that should be identical but are not; the locked exact-ten mechanic is unchanged.
+- Spatial/contact case intros were de-formulaized. They explain the fixed anchor and the concrete investigative value of the room companion instead of repeating the Objective as "find who shared X's room."
+- Case 05 no longer implies that the locker itself sealed the old envelope.
+- Case 28 locates RULE FIRST, ROOM SECOND in the old-plan margin instead of having the instruction appear vaguely "beside" the room.
+- The Room Zero explanation now distinguishes routing from investigation: the old route can select/tag suitable records, preserve/reopen material and use completed filed work, but it does not create incidents or solve cases.
+- Book 2 hook is labeled **ARCHIVE FILE 001 // STILL OPEN**, avoiding confusion with Book 1 Case 01.
+- Repetitive Solution File consequences were tightened so WHY IT MATTERS advances the story rather than restating the answer.
+- The duplicated second Case 03 ten-difference list was removed.
+- Appendix drift was corrected: Case 05 = six ordered symbol slots; Case 04 source = Trace Lab evidence-box misroute to Pickup Tent; stale V2 wording for Case 26 removed.
+- US English is now internally consistent for Theater / labeled / traveling / gray.
+- One accidental duplicate final narrative paragraph in canonical Markdown was removed.
+
+### Deterministic non-regression after the microfix
+
+PASS:
+- reader-facing cases: 30/30
+- Hint Vault Level 1: 30/30
+- Hint Vault Level 2: 30/30
+- Hint Vault Level 3: 30/30
+- Solution Files: 30/30
+- Case 05 six-symbol solution remains unique:
+  `BALL -> STAR -> BOLT -> HEART -> KEY -> MOON`
+- stale `find who shared` formula in case intros: 0
+- stale `taken one minute apart`: 0
+- stale `4 ordered symbol slots`: 0
+- stale `Forensic Kitchen`: 0
+- duplicated `VERIFIED TEN DIFFERENCES` block: 0
+- stale `CASE 001 // STILL OPEN` Book 2 hook: 0
+- stale QUINN/ZANE aliases: 0
+- Field Position 06 appears before the earned finale: 0
+- UK-spelling leftovers checked (Theatre / labelled / travelling / grey): 0
+
+### Reader-name / renderer cross-check
+
+Current production renderer alias file:
+`riseshineevolve-source/RISE.SHINE.EVOLVE@feature/detective-book-factory:tools/detective-book-factory/content/spatial_character_aliases.yml`
+
+Alias blob at verification:
+`a5f3385bc3d2955367164134d31994a764f3e60c`
+
+For all 15 spatial cases in that alias layer, the named Solution File answer is present in the reader-facing alias roster: **15/15 PASS**.
+
+Case 01 remains a separate hydration check because its canonical display aliases are QUILL / MORSE / PIP / KNOX while older renderer production source still contains internal identities ARI / BEA / COLE / DANI. The final renderer must apply the current display alias layer and re-run the evidence-name consistency gate after hydration.
+
+### KDP-readiness implication
+
+The **text master is now the current final V3 owner-review candidate**.
+
+It is not yet honest to call the attached 71-page editorial PDF a KDP-ready interior. It is a text-only review artifact and intentionally omits the final Witness Boards, maps, photographs and other evidence surfaces. The next production step is to hydrate this exact current V3 into the book factory, regenerate the full print interior, then run source/name/answer consistency + KDP preflight + full visual audit before physical proof.
+
