@@ -178,3 +178,16 @@ Current gate:
 **TEXT OWNER REVIEW OPEN / DETECTIVE LAYOUT PAUSED.**
 
 No further Detective text/layout changes overnight unless the owner supplies new feedback.
+
+
+## Final 1000% audit — 2026-09-28
+
+Latest same-family V3 master commit:
+`25eacd6f5e085313283591548c0a9787b336e4b7`
+
+Audit report:
+`orchestration/detective/DETECTIVE_ACADEMY_V3_FINAL_TEXT_AUDIT_2026-09-28.md`
+
+This supersedes earlier interim V3 commit references where they conflict.
+The version name remains V3.
+Layout remains paused pending owner text acceptance.
