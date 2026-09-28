@@ -2504,7 +2504,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 # EDITORIAL LOCKS // NOT PRINTED
 
 
-- Case 01 reader-facing display aliases in this text master: ARI→QUILL, BEA→MORSE, COLE→PIP, DANI→KNOX. Internal source identities remain unchanged until the owner/source integration pass confirms the current local alias layer.
+- Case 01 reader-facing display aliases are source-verified: ARI B1→QUILL B1, BEA C4→MORSE C4, COLE A3→PIP A3, DANI D2→KNOX D2. Internal source identities stay unchanged; the final renderer must apply these display aliases on the Intake Witness Board.
 - Spatial map geometry, clue truth, coordinates, answers and source IDs are immutable.
 - **EVIDENCE / PUZZLE TEXT hydration lock:** this text-only master intentionally does not re-transcribe locked Witness Boards, map clues, owner-controlled photo evidence or other source-authoritative puzzle payloads. The final renderer must hydrate those exact current source/raster elements into the EVIDENCE / PUZZLE TEXT surface; it must never regenerate, summarize or rewrite them from this prose master. Re-run answer-name and clue/solution consistency after hydration.
 - Case 03 remains exact-ten differences. Never revert to the obsolete three-difference mechanic.
@@ -2682,7 +2682,7 @@ Every main case was checked against the fixed case blueprint.
 - YOUR OBJECTIVE: **30/30**.
 - INVESTIGATION RULES: **30/30**.
 - HAPPY MAKERS CHAT: **30/30**.
-- EVIDENCE / PUZZLE TEXT: **30/30**.
+- EVIDENCE / PUZZLE TEXT structural surfaces: **30/30**; final source/raster hydration remains a production gate.
 - Mechanic-specific response surface: **30/30**.
 - Reader-facing immediate answer/reveal block: **0/30 by design**.
 - Optional explicit Case Wall updates: **only on meta-critical cases/interludes**.
@@ -2767,7 +2767,7 @@ For every case whose answer is a named person/witness, the final display name mu
 
 | Case | Required answer display name | Evidence surface | Audit |
 |---|---|---|---|
-| 01 | KNOX | Intake Witness Board | PASS |
+| 01 | KNOX | Intake Witness Board | SOURCE/ALIAS PASS; FINAL RENDER CHECK REQUIRED |
 | 02 | DAX | Witness Board | PASS |
 | 04 | ZURI | Witness Board | PASS |
 | 06 | ARLO | Witness Board | PASS |
