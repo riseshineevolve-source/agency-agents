@@ -2712,7 +2712,7 @@ The reader should feel that all 30 files belong to one lived-in Academy world ov
 | 09 | Academy Case Wall / Bibi recognizes old form |
 | 10 | Academy Tech Lab walk-in rover dispute |
 | 11 | Tech Lab evidence cleanup / Mimi's case bag |
-| 12 | Academy community theater + animal-care demonstration |
+| 12 | Academy Scenario Theater + visiting animal-care demonstration |
 | 13 | Academy Field Research Wing maintenance file |
 | 14 | Academy Scenario Theater witness-memory check |
 | 15 | Academy field-skills departure / backpack handoff |
