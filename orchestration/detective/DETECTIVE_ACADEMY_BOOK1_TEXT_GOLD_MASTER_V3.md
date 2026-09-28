@@ -134,7 +134,7 @@ No one else can fill this out for you.
 
 **OFFICIAL CALL SIGN:** __________________________________
 
-**MY DETECTIVE EDGE:** ___________________________________
+**MY BEST DETECTIVE SKILL:** ______________________________
 
 **SIGNATURE:** ____________________________________________
 
@@ -142,27 +142,21 @@ No one else can fill this out for you.
 
 **ACADEMY STATUS:** RECRUIT
 
-**FIELD POSITION:** 06
-
-Your detective edge can be anything useful: noticing tiny details, remembering odd facts, asking good questions, staying calm, drawing maps, spotting patterns — or something only you know how to do.
+Your best detective skill can be anything useful: noticing tiny details, remembering odd facts, asking good questions, staying calm, drawing maps, spotting patterns - or something only you know how to do.
 
 The credential gets you into the investigation.
 
 The cases decide what kind of detective you become.
 
-[VISUAL LOCK: make this look like a real premium Academy credential/badge, not a worksheet form. One writable “MY DETECTIVE EDGE” replaces the two near-duplicate SPECIAL SKILL / BEST DETECTIVE QUALITY questions. Use scanner-question-mark identity, photo/badge zone, verification bars, Evidence Grid micro-pattern and generous writable white fields.]
+[VISUAL LOCK: make this look like a real premium Academy recruit credential/badge, not a worksheet form. Do NOT show a numbered field position here; the reader is still a recruit and the field-role reveal belongs to the finale. Use scanner-question-mark identity, photo/badge zone, verification bars, Evidence Grid micro-pattern and generous writable white fields.]
 
 ---
 
 ## PAGE 6 // WHAT YOU ARE ABOUT TO WALK INTO
 
-The Academy intake desk handles two kinds of work: **new mysteries happening now** and **old files that suddenly need another look**.
+The Academy is not one room and this investigation will not happen in one afternoon.
 
-Usually, somebody asks for help.
-
-Today, the intake system seems to have chosen a set of files all by itself.
-
-Nobody yet knows why.
+Some files arrive through the intake printer. Some come from Academy staff, the Tech Lab, Sports Hall, Heritage Gallery, Undercover Wing, Sound Lab or Guest House. Others begin nearby - at a partner venue, a station, a field exercise - or because one of the Happy Makers notices something that simply does not fit.
 
 The Happy Makers will be with you through **30 connected case files** packed with witness-board mysteries, map and coordinate puzzles, visual evidence, secret codes, timelines, sequencing challenges and logic deductions.
 
@@ -170,25 +164,18 @@ They will compare clues, trade theories, drop case notes, make jokes at extremel
 
 They do **not** get to make your verdict for you.
 
-And the cases do not stay easy.
+The cases get harder as your investigation grows.
 
-A trophy never reaches its shelf.  
-Evidence changes.  
-Alibis stop making sense.  
-Old records start answering new questions.  
-Maps begin to hide more than rooms.
-
-Some clues will help immediately.
-
-Some will look ordinary until much later.
-
-Some solved cases may not be finished with you yet.
+A trophy returns before anyone logs it.  
+A box marked EVIDENCE lands where it should not.  
+An old Academy form appears in places it has no obvious reason to be.  
+Later, solved maps and forgotten records begin to matter again.
 
 And somewhere inside the Academy, one question keeps returning:
 
 # **WHAT IS ROOM ZERO?**
 
-**Solve the case in front of you. Record what you prove. Keep what may matter later.**
+**Solve the case in front of you. Record what you prove. Keep the evidence you are told to keep.**
 
 ### **YOUR FIRST CASE IS WAITING.**
 
@@ -196,31 +183,37 @@ And somewhere inside the Academy, one question keeps returning:
 
 ## PAGE 7 // HOW EVERY CASE WORKS
 
-You never need to guess what to do next. Every case follows the same investigation rhythm.
+You never need to guess what to do next. Every case uses the same simple rhythm.
 
-### 1 // CASE FILE — WHAT HAPPENED?
-Read the situation first. Every case tells you how the file reached the Academy, what happened, and why the next deduction matters.
+### 1 // CASE FILE - WHAT HAPPENED?
+Read the story first. It tells you where the case came from, what happened and why this particular deduction matters.
 
 ### 2 // YOUR OBJECTIVE
-This is the exact thing you must prove, find, sort, decode or reconstruct.
+One exact thing to prove, find, sort, decode or reconstruct.
 
 ### 3 // INVESTIGATION RULES
-Read the rules before moving people, comparing evidence or choosing a route. If a rule matters, it appears here — never hidden inside a joke.
+Only the rules you actually need for that puzzle.
 
 ### 4 // HAPPY MAKERS CHAT
-The squad thinks out loud, compares ideas and occasionally argues about emergency biscuits. Chat adds personality and useful thinking, but it never secretly replaces a clue.
+The squad thinks out loud, jokes, questions theories and helps you notice what deserves attention. Chat can help you think - it never hides a rule.
 
 ### 5 // EVIDENCE
-This is where the real work happens: Witness Boards, maps, photographs, records, codes, timelines, scraps and strange Academy files.
+Witness Boards, maps, photographs, records, codes, timelines, scraps and strange Academy files.
 
 ### 6 // MAKE THE CALL
-Use the response made for that case. Circle it. Mark it. Sort it. Enter the code. Write the coordinate. Do only what the evidence supports.
+Use the response made for that case: circle it, mark it, sort it, enter the code or write the coordinate.
 
-### 7 // CASE RESULT
-Check what your deduction actually proved — and what it did **not** prove yet.
+Then move on.
 
-### 8 // KEEP THIS
-If the case tells you to save a map, code, phrase, photo or record, keep it. This book has a long memory.
+The book does **not** print the answer immediately after every case. That would make the Hint Vault and Solution Files fairly pointless.
+
+If you want help, turn to the upside-down section at the back. If you want momentum, file your verdict and keep investigating.
+
+When a case gives you a bigger-mystery clue worth saving, you will see one clear instruction:
+
+**CASE WALL -> PAGE 9**
+
+Only then do you copy something to the Case Wall.
 
 **FOLLOW THE EVIDENCE. DO NOT GUESS.**
 
@@ -230,12 +223,22 @@ If the case tells you to save a map, code, phrase, photo or record, keep it. Thi
 
 Some cases use an Academy floor grid to reconstruct where people were standing.
 
+Read these rules once. Later map cases will only give you the case-specific map key.
+
 ### HOW TO READ A COORDINATE
 Letters run across the columns. Numbers run down the rows.
 
 **D3 = column D, row 3.**
 
 Use **one** coordinate system: the labels printed beside the grid you are solving.
+
+### STANDARD MAP CASE RULES
+
+- Place every witness exactly once.
+- Each witness finishes in a different row and a different column.
+- Use only printed witness statements and visible map features.
+- If a case asks for a room companion, that person is a **lead for the next interview**, not automatically guilty.
+- Keep every final witness position on the completed map. Do not erase it after writing the verdict.
 
 ### MAP LEGEND
 
@@ -245,19 +248,7 @@ Use **one** coordinate system: the labels printed beside the grid you are solvin
 
 There is no secret grey category. If something is blocked, the map shows why.
 
-### CONTACT CASE RULE
-
-In a contact case, the named person is the **anchor** — the person we can place for sure.
-
-Your job is to discover who shared their recorded room at the important moment.
-
-That person becomes the next useful person to ask because they may have seen what happened immediately before or after the incident.
-
-**Same room = possible contact. It does not mean guilty.**
-
-When a map case tells you to keep the completed map, keep **all final positions**, not only the one name you needed for today's verdict.
-
-[VISUAL LOCK: one large coordinate-label system only. Labels must sit close to the grid. Remove legacy tiny duplicate labels. Legend must be large/readable and must describe only semantics that are visibly used.]
+[VISUAL LOCK: one large coordinate-label system only. Labels must sit close to the grid. Remove legacy tiny duplicate labels. Legend must be large/readable and describe only semantics visibly used.]
 
 ---
 
@@ -265,9 +256,15 @@ When a map case tells you to keep the completed map, keep **all final positions*
 
 ### THIS PAGE IS YOUR CASE WALL
 
-When a case tells you to **ADD** something to the Case Wall, copy only that highlighted item here.
+Do **not** copy every answer here.
 
-Use the printed evidence spaces for:
+Most verdicts stay on their own case pages.
+
+Use the Case Wall only when the book explicitly says:
+
+**CASE WALL -> PAGE 9**
+
+Then copy the named item into the matching evidence zone:
 
 **MATCHING MARKS**  
 **MESSAGES / RULES**  
@@ -275,21 +272,15 @@ Use the printed evidence spaces for:
 **FALSE LEADS**  
 **OPEN QUESTIONS**
 
-Completed maps stay on their own case pages. The Case Wall is for the small pieces you may need to connect later.
+That is all. No rewriting whole cases. No copying witness answers just because you solved them.
 
-Do not fill a gap just because a blank space feels unfinished.
-
-In this investigation, a blank space may be doing a job.
+Completed spatial maps stay on their own pages because later evidence may depend on the full placement.
 
 ### HINT VAULT + SOLUTION FILES
 
-The Hint Vault and Solution Files are at the **back of the book**.
-
-They are printed **upside down from the main story on purpose**.
+The Hint Vault and Solution Files are at the **back of the book** and printed **upside down from the main story on purpose**.
 
 To read them, turn the whole book around.
-
-That makes accidental answer-peeking slightly less convenient.
 
 ### HAPPY MAKERS CHAT
 
@@ -299,14 +290,14 @@ That makes accidental answer-peeking slightly less convenient.
 - **NINI:** Also known as wrists.
 - **MIMI:** One hint at a time, Detective.
 
-**LEVEL 1 — WHAT TO NOTICE**  
+**LEVEL 1 - WHAT TO NOTICE**  
 A small nudge toward the right kind of evidence.
 
-**LEVEL 2 — WHERE TO FOCUS**  
+**LEVEL 2 - WHERE TO FOCUS**  
 Narrows the search without doing the deduction for you.
 
-**LEVEL 3 — STRONGER NUDGE**  
-Use it when you want a bigger push but still want to make the final call yourself.
+**LEVEL 3 - STRONGER NUDGE**  
+A bigger push when you still want to make the final call yourself.
 
 Hints are detective tools, not a failure button.
 
@@ -314,7 +305,7 @@ Read one level, turn back to your case and try again before taking the next.
 
 **CHECK THE REASON, NOT JUST THE ANSWER.**
 
-[VISUAL LOCK: this is a real usable Case Wall page, not a paragraph about a wall that exists nowhere. Build modern Evidence Grid panels with writable zones for the five categories above. Include a clear “TURN THE BOOK AROUND” mini-diagram for the upside-down back section.]
+[VISUAL LOCK: this is a real usable Case Wall page. Build modern Evidence Grid panels with writable zones for the five categories above. Include a clear TURN THE BOOK AROUND mini-diagram for the upside-down back section.]
 
 ---
 
@@ -323,11 +314,11 @@ Read one level, turn back to your case and try again before taking the next.
 **30 ACTIVE FILES**
 
 01 — THE BADGE THAT ARRIVED BEFORE THE MAIL  
-02 — THE TROPHY THAT NEVER REACHED THE SHELF  
+02 — THE TROPHY THAT CAME BACK TOO EARLY  
 03 — LULI'S LOOK-TWICE FILE  
-04 — THE CUPCAKE BOX WITH SIX ALIBIS  
-05 — DILO'S CODE THAT DEFINITELY WASN'T 1234  
-06 — THE MUSEUM LABEL THAT LIED  
+04 — THE CUPCAKE BOX MARKED EVIDENCE  
+05 — DILO'S CODE THAT DEFINITELY WASN'T 123456  
+06 — THE DRAGON TOOTH THAT WAS ACTUALLY A SPOON  
 07 — THE COSTUME THAT WALKED AWAY  
 08 — ALIO'S ABSOLUTELY SAFE SHORTCUT  
 09 — THE SYMBOL THAT SHOULDN'T BE HERE  
@@ -362,7 +353,10 @@ No answers here. Just doors.
 
 # ACT 1 // SOMETHING IS OFF
 
-At first, the files look unrelated. That is exactly why the first rule matters: solve what is in front of you before deciding what the bigger story must be. For now, forget the bigger mystery, keep clean records and notice only what the evidence actually repeats. The black envelope and its strange 0 are questions — not answers.
+Your Recruit Credential is new. The Academy is not.
+
+For the first few files, do exactly what a good detective does when the larger story is unclear: solve the problem in front of you, keep clean records and notice only what actually repeats.
+
 
 ## CASE 01 // THE BADGE THAT ARRIVED BEFORE THE MAIL
 
@@ -371,7 +365,7 @@ At first, the files look unrelated. That is exactly why the first rule matters: 
 
 ### CASE FILE // WHAT HAPPENED
 
-Mimi slides the black-envelope file across the table. The receipt proves the badge came from inside the Academy: no courier, no outside delivery. Four visiting helpers were in the intake area when the envelope appeared. Before the team invents a clever explanation, you need one solid fact: who was standing at the Delivery point when the tray released it?
+Your Recruit Credential is barely signed when Mimi slides the black-envelope file across the Case Table. The intake receipt proves the badge came from inside the Academy - no courier, no outside delivery - yet four visiting helpers were in the intake area when the tray released it. The team can argue about the strange **0** later. First, prove one thing: who was standing at Delivery at that exact moment?
 
 ### YOUR OBJECTIVE
 
@@ -379,10 +373,11 @@ Mimi slides the black-envelope file across the table. The receipt proves the bad
 
 ### INVESTIGATION RULES
 
-- Place each helper once on the 4×4 intake map.
+- Place each helper once on the 4x4 intake map.
 - Each helper uses a different row and a different column.
 - Start with exact row-and-column clues before using elimination.
 - Your verdict is the helper whose final square lies inside DELIVERY.
+
 ### HAPPY MAKERS CHAT
 
 - **MIMI:** The receipt says internal stock. So we start with what we can place.
@@ -392,58 +387,32 @@ Mimi slides the black-envelope file across the table. The receipt proves the bad
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **QUILL** — row 1, column B.
-- **PIP** — row 3, column A.
-- **MORSE** — column C, but not row 2.
-- **KNOX** — recorded in the intake area; no row or column was fixed on the receipt.
-- Each helper used a different row and a different column.
-- The badge appeared at the Delivery desk.
-### INTAKE RECEIPT
-- SOURCE: INTERNAL BADGE STOCK
-- OUTPUT: ONE SEALED BLACK ENVELOPE
-- ITEM: UNASSIGNED FIELD BADGE 06
-- EXTERNAL DELIVERY: NONE
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
 
-### CASE RESULT
-
-Knox was at Delivery when the envelope emerged. Mimi records that fact — and the old intake desk immediately releases a second file.
-
-### KEEP THIS / SIGNAL LOG
-
-**INTAKE-01 // BADGE REVERSE // FIRST VERIFIED RECORD**
-
-The badge carries the plain 0. More important right now: your first verdict has been logged.
-
-**KEEP:** INTAKE-01 on your Case Wall.
-
-## CASE 02 // THE TROPHY THAT NEVER REACHED THE SHELF
+## CASE 02 // THE TROPHY THAT CAME BACK TOO EARLY
 
 **STATUS:** CASE FILE 02  
 **RANK:** ROOKIE
 
 ### CASE FILE // WHAT HAPPENED
 
-The moment Mimi logs your first verdict, the intake desk prints a second cover sheet. This one is a live request from the Academy sports-showcase coordinator: the display has closed, Max signed for the trophy, but the trophy never reached the return shelf. Max is the one person the record places with certainty. Reconstruct the room and find who shared it with him, because that person may have seen what happened between Max’s last confirmed contact and the missing return.
+Your first verdict is sealed into the training file. Before Mimi can close the folder, the Trophy Hall sends a live alert: the Founders' Cup is back in its display case, but Max's return form was never completed. Somebody handled the trophy between Max's last verified check and its unexplained reappearance. Max is the fixed point on the floor record; find who shared his room so the team knows who may have seen the handoff.
 
 ### YOUR OBJECTIVE
 
-**FIND Max’s only room companion and record their coordinate.**
+**FIND Max's only room companion and record their coordinate.**
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bleacher, desk, stool.
 - SQUARE BLOCKED BY: globe, lab bench, piano, teacher's desk.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
-- CONTACT CASE RULE: the named person is the anchor. Their room companion is the next useful person to ask — not someone to blame.
+
 ### HAPPY MAKERS CHAT
 
 - **ALIO:** Trophy rescue kit: rope, torch, emergency biscuit.
@@ -452,32 +421,12 @@ The moment Mimi logs your first verdict, the intake desk prints a second cover s
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Nova was in row 3 and column B.
-- **02.** Dax was in the Display Room and in column D.
-- **03.** Rook was in a corner and beside a teacher's desk.
-- **04.** Atlas was in the Equipment Room and in column F.
-- **05.** Ivy was standing on a desk chair.
-- **06.** Max was the trophy keeper. Exactly one other person shared his room.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
-
-### CASE RESULT
-
-Dax shared Max’s room at the relevant time. That makes Dax the next useful person to ask about the trophy’s return route — nothing more, and nothing less.
-
-### KEEP THIS / SIGNAL LOG
-
-**INTAKE-02 // TROPHY EVIDENCE TAG // SECOND MATCHING 0**
-
-A second Academy-controlled record carries the same plain mark.
-
-**KEEP:** the completed map + TROPHY TAG.
 
 ## CASE 03 // LULI'S LOOK-TWICE FILE
 
@@ -486,7 +435,7 @@ A second Academy-controlled record carries the same plain mark.
 
 ### CASE FILE // WHAT HAPPENED
 
-Dax’s name does not end the trophy enquiry. Inside the same file are two Academy evidence photographs taken one minute apart — close enough to look identical until you really start looking. The team needs a complete comparison before deciding which details deserve a follow-up, so sweep the whole scene and mark **all ten differences**.
+Mimi files your Trophy Hall verdict without commenting on whether it is right. Luli is already holding up two photographs from the same case, taken one minute apart. At first glance they look identical; at second glance the scene has changed in ten places. Before anyone follows another lead, Luli wants one complete comparison of the scene.
 
 ### YOUR OBJECTIVE
 
@@ -494,10 +443,9 @@ Dax’s name does not end the trophy enquiry. Inside the same file are two Acade
 
 ### INVESTIGATION RULES
 
-- Compare Photo A and Photo B across the whole scene.
-- There are exactly TEN differences.
-- Mark each changed detail directly on the pictures once.
-- Count only changes inside Photo A and Photo B. Do not invent an extra difference from surrounding labels or layout.
+- Mark changes directly on Photo A and Photo B.
+- Count only changes inside the photographs, not surrounding labels or page layout.
+
 ### HAPPY MAKERS CHAT
 
 - **NINI:** I have named the important-looking sparkle Inspector Glitter.
@@ -506,48 +454,32 @@ Dax’s name does not end the trophy enquiry. Inside the same file are two Acade
 
 ### EVIDENCE / PUZZLE TEXT
 
-### PHOTO A / PHOTO B
-FIND ALL 10 DIFFERENCES. Compare text, shapes, surfaces and background details across the whole scene.
-The child marks differences directly on the two images. No generic one-line verdict field.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **ALL 10 FOUND**  ☐
 Mark the ten changes directly on Photo A / Photo B.
 
-### CASE RESULT
-
-You verified all ten changes between the two photographs. The Look-Twice comparison is complete, and the photo pair can be filed without inventing an eleventh difference.
-
-### KEEP THIS / SIGNAL LOG
-
-**INTAKE-03 // LOOK-TWICE RECORD // VERIFIED COMPARISON**
-
-This file was routed by the same Academy intake system, but the photo puzzle adds **no new Room Zero mark**. That matters: not every interesting file is a signal.
-
-**KEEP:** the completed comparison record.
-
-## CASE 04 // THE CUPCAKE BOX WITH SIX ALIBIS
+## CASE 04 // THE CUPCAKE BOX MARKED EVIDENCE
 
 **STATUS:** CASE FILE 04  
 **RANK:** ROOKIE
 
 ### CASE FILE // WHAT HAPPENED
 
-Before the trophy team can call Dax, a fresh maker-fair alert joins the queue: a test-batch cupcake box has been mixed into the ordinary collection. Pixel held the collection list when the mix-up was logged, which gives you one reliable starting point. Reconstruct the room around Pixel and find who shared it with her; that person may know whether the box was already mixed up when it arrived or whether the switch happened later — useful information without turning a cupcake mistake into a criminal investigation.
+That evening the Academy hosts Open Night in the courtyard - demonstration booths, games, families, and enough snacks to destroy Dilo's concentration. One black-icing cupcake box from the Forensic Kitchen demo is stamped **EVIDENCE - DO NOT SERVE**, yet it somehow lands among the refreshment crates. Pixel managed the collection list, so her room record is the cleanest place to start. Find who shared that area; they may know whether the box joined the food stack at the booth or during transfer.
 
 ### YOUR OBJECTIVE
 
-**LOCATE Pixel’s one room contact. Give name and square.**
+**FIND the one person who shared Pixel's Pickup Tent and record their coordinate.**
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bench, bumper car, gondola.
 - SQUARE BLOCKED BY: cotton candy machine, popcorn cart, prize shelf, ring toss stand, strongman game.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **DILO:** I volunteer for cupcake verification.
@@ -557,52 +489,32 @@ Before the trophy team can call Dax, a fresh maker-fair alert joins the queue: a
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Echo was in row 2 and column A.
-- **02.** Kai was the only person in the Kitchen.
-- **03.** Zuri was in the Pickup Tent and in row 4.
-- **04.** Briar was beside a ring-toss stand.
-- **05.** Clover was in the Packing Room and in row 5.
-- **06.** Pixel had the collection list. Exactly one other person shared her room.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
 
-### CASE RESULT
-
-Zuri shared Pixel’s room when the cupcake mix-up was logged. The kitchen enquiry now has one sensible next interview instead of six guesses.
-
-### KEEP THIS / SIGNAL LOG
-
-**INTAKE-04 // CUPCAKE INTAKE LABEL // THIRD MATCHING 0**
-
-The intake label carries the same plain mark seen on the badge and trophy record.
-
-**KEEP:** the completed map + CUPCAKE LABEL.
-
-## CASE 05 // DILO'S CODE THAT DEFINITELY WASN'T 1234
+## CASE 05 // DILO'S CODE THAT DEFINITELY WASN'T 123456
 
 **STATUS:** CODE DROP  
 **RANK:** ROOKIE
 
 ### CASE FILE // WHAT HAPPENED
 
-While Mimi files the cupcake record, Dilo notices that the Academy session has linked itself to a field evidence locker. Inside the locker is an old sealed envelope, but the four-symbol keypad will not open until one sequence satisfies every clue at once. Crack it carefully: the locker will save the exact sequence you enter as part of this investigation record.
+After Open Night, while everyone is stacking chairs, Dilo's console flashes a message from a dormant evidence locker beneath the Case Table. The locker has linked itself to the current Academy session and sealed an old envelope inside, but its six-symbol panel will open for only one order. Nobody knows why the locker woke up. For now, all the team has is the panel and its clues.
 
 ### YOUR OBJECTIVE
 
-**DECODE the one four-symbol order fitting every clue.**
+**DECODE the one six-symbol order that makes every clue true.**
 
 ### INVESTIGATION RULES
 
-- Use each of the four symbols exactly once.
-- Every printed clue must be true at the same time.
-- Test fixed relationships first — especially the STAR → BOLT pair.
-- Record the final four-symbol order in the code slots.
+- Use each of the six symbols exactly once.
+- Every CODE CLUE must be true at the same time.
+- Record the final sequence in all six slots.
+
 ### HAPPY MAKERS CHAT
 
 - **DILO:** I challenge you to beat my locker.
@@ -613,87 +525,66 @@ While Mimi files the cupcake record, Dilo notices that the Academy session has l
 ### EVIDENCE / PUZZLE TEXT
 
 ### CODE CLUES
-- BOLT comes immediately after STAR.
-- BALL appears before HEART.
-- STAR is not first.
-- HEART comes after BOLT.
+- STAR comes immediately before BOLT.
+- BALL appears somewhere before STAR.
+- HEART appears somewhere after BOLT.
+- KEY is not first or last.
+- MOON appears after KEY.
+- Exactly one symbol sits between HEART and MOON.
+
 ### CODE SLOTS
-[ 1 ]   [ 2 ]   [ 3 ]   [ 4 ]
+[ 1 ]   [ 2 ]   [ 3 ]   [ 4 ]   [ 5 ]   [ 6 ]
 
 ### YOUR VERDICT / RESPONSE
 
-**CODE:** [____] → [____] → [____] → [____]
+**CODE:** [____] -> [____] -> [____] -> [____] -> [____] -> [____]
 
-### CASE RESULT
+# INTERLUDE - ACT I // SOMETHING IS OFF
 
-BALL → STAR → BOLT → HEART is the only sequence that satisfies every clue. The locker opens, and the Academy session saves the code exactly as entered.
+Mimi finally turns the intake printer off.
 
-### KEEP THIS / SIGNAL LOG
+On the Case Wall, four controlled records now carry the same plain **0**: the recruit badge record, the Trophy Hall tag, the Open Night evidence label and the old locker envelope.
 
-**INTAKE-05 // LOCKER ENVELOPE // FOURTH MATCHING 0**
+The Look-Twice file came through the same intake system but carries no mark.
 
-The old envelope carries the fourth matching plain 0. The solved locker sequence is separate evidence — keep both.
+That is enough to prove a pattern.
 
-**KEEP:** BALL → STAR → BOLT → HEART + LOCKER ENVELOPE.
-
-# INTERLUDE — ACT I // SOMETHING IS OFF
-
-Mimi pins five file tabs to the Case Wall. Four carry the same plain 0. The Look-Twice file does not — but it was routed by the same intake system.
-
-That difference matters.
-
-## FIVE FILES. FOUR MATCHING MARKS. ONE SYSTEM WE DO NOT UNDERSTAND.
-
-**THE QUESTION NOW:** Why is the Academy routing unrelated files through an old system that keeps repeating the same mark?
-
-### WHAT THE FILES ACTUALLY PROVE
-
-- Case 01: the internal badge record carries a plain 0.
-- Case 02: the trophy evidence tag carries the same plain 0.
-- Case 03: the Look-Twice file was routed by the intake system but adds no new mark.
-- Case 04: the cupcake intake label carries the same plain 0.
-- Case 05: the old locker envelope carries the fourth matching plain 0.
-
-Four matching marks are enough to investigate a pattern.
-
-They are not enough to explain it.
+It is not enough to explain one.
 
 ### HAPPY MAKERS CHAT
 
-- **MIMI:** Four matching marks. Five routed files.
-- **DILO:** My theory has been asked to wait in reception.
-- **LULI:** Good. It can fill in a form.
-- **NINI:** Leave one blank line. We may learn something better.
+- **DILO:** Four matching marks. One machine with suspicious timing.
+- **LULI:** Pattern first. Explanation later.
+- **NINI:** Good. We still have room for a better idea.
 
-### YOUR MOVE
+### CASE WALL -> PAGE 9
 
-Add the four matching record names to your Case Wall. Keep INTAKE-03 beside them as a routed file, not as a fifth mark.
+**MATCHING MARKS:** draw one plain **0** and list the four records carrying it.  
+**CODES / COORDINATES:** copy your **six-symbol locker code** exactly.  
+**OPEN QUESTIONS:** write **WHY IS AN OLD ACADEMY SYSTEM LINKING ITSELF TO THESE FILES?**
 
-**CASE WALL STATUS:** PATTERN CONFIRMED // CAUSE UNKNOWN
+Do not add the Look-Twice file as a fifth mark. It was routed, not marked.
 
----
 
-## CASE 06 // THE MUSEUM LABEL THAT LIED
+## CASE 06 // THE DRAGON TOOTH THAT WAS ACTUALLY A SPOON
 
 **STATUS:** CASE FILE 06  
 **RANK:** ROOKIE
 
 ### CASE FILE // WHAT HAPPENED
 
-The first recap should have made the pattern clearer. Instead, the intake desk opens an older museum file and makes it stranger. A perfectly ordinary Roman spoon has been labelled **CEREMONIAL DRAGON TOOTH**, and Uma’s label-checking record is the best fixed point the team has. Reconstruct who shared Uma’s room; that witness may remember whether the wrong label was already there when Uma began checking, or whether it changed afterward.
+The next morning Bibi takes the strange mark toward the Academy Heritage Gallery, planning to check old intake forms in the archive. She gets three steps through the door before Uma, the gallery registrar, waves over a label that reads **CEREMONIAL DRAGON TOOTH** beneath a very ordinary Roman spoon. Whether it is a printer glitch or somebody's joke matters less than **when** the label changed. Uma is the fixed point on the gallery record; find who shared her room so the team knows who may have seen the swap happen.
 
 ### YOUR OBJECTIVE
 
-**FIND the witness sharing Uma’s room. Record their square.**
+**FIND the witness sharing Uma's room and record their coordinate.**
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bench, stool.
 - SQUARE BLOCKED BY: display case, fern, pedestal, sarcophagus, skeleton, statue.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **NINI:** I had emotionally prepared for a dragon tooth.
@@ -703,36 +594,19 @@ The first recap should have made the pattern clearer. Instead, the intake desk o
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Scout was in row 3 and column E.
-- **02.** Hugo was in the Dinosaur Gallery, beside a display case.
-- **03.** Arlo was in the Foyer and in row 2.
-- **04.** Vale was in the Gallery, beside a statue.
-- **05.** Wren was on a bench, beside the skeleton display.
-- **06.** Uma checked the labels. Exactly one other person was with her.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
 
-### CASE RESULT
-
-Arlo shared Uma’s museum room. Arlo is the next person to ask about the switched label; the map does not accuse Arlo of switching it.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-06 // MUSEUM LABEL COPY // ARCHIVE ECHO**
-
-The queue has begun reopening older records, not just routing new calls.
-
-**KEEP:** the completed map + museum label copy.
-
 # ACT 2 // THE PATTERN
 
-By now, coincidence is getting uncomfortable. The same Academy system keeps touching unrelated records, and Bibi recognizes more than she can explain. The mark has appeared too often to ignore — but a pattern is not an explanation. From this point on, every good theory needs two things: evidence and patience.
+By the end of the first stretch of cases, the Academy no longer feels like a training exercise. Real staff have asked for help, live files have arrived and an old system keeps touching records it should not know about.
+
+Now the team has a pattern - and no explanation yet.
+
 
 ## CASE 07 // THE COSTUME THAT WALKED AWAY
 
@@ -741,7 +615,7 @@ By now, coincidence is getting uncomfortable. The same Academy system keeps touc
 
 ### CASE FILE // WHAT HAPPENED
 
-The museum spoon is barely back to being a spoon when a live rehearsal message arrives. The film club’s giant moon costume has vanished before the actors need it. Gray handled the inventory record, which gives you the best starting point in the backstage snapshot. Rebuild the positions and find who shared that area; that person may know whether the moon costume left storage normally or was moved after Gray last checked it — preferably before Alio opens every cupboard “for reconnaissance.”
+On the way back from the gallery, the team cuts through the Undercover Training Wing - a maze of mock hotel rooms, fake kitchens and disguise storage used for field exercises. A trainer stops them mid-corridor: the giant moon costume for the evening scenario has vanished from its rack. Gray signed the last inventory check. Rebuild the wing and find who shared Gray's area; that person may know whether the costume left as part of the drill or disappeared afterward.
 
 ### YOUR OBJECTIVE
 
@@ -749,12 +623,10 @@ The museum spoon is barely back to being a spoon when a live rehearsal message a
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bar stool, chair, massage table.
 - SQUARE BLOCKED BY: buffet, cart, palm, piano, range, washer.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **MIMI:** Alio, how many cupboards have you checked?
@@ -765,32 +637,12 @@ The museum spoon is barely back to being a spoon when a live rehearsal message a
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Blaze was the only person in the Rehearsal Room.
-- **02.** Indigo was either in the Dressing Room or the Rehearsal Room.
-- **03.** Willa was 2 grid steps from the stage range marker. Count row difference plus column difference.
-- **04.** Zoe was against an outer wall and beside a costume cart.
-- **05.** Rocket was in row 5 and column E.
-- **06.** Gray's space contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
-
-### CASE RESULT
-
-Zoe shared Gray’s backstage area when the moon costume was last accounted for. The team finally has a real person to ask before searching the studio at random.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-07 // COSTUME INVENTORY // NEW CONTEXT**
-
-The recurring paper trail continues in a completely different setting.
-
-**KEEP:** the completed map + inventory record.
 
 ## CASE 08 // ALIO'S ABSOLUTELY SAFE SHORTCUT
 
@@ -799,7 +651,7 @@ The recurring paper trail continues in a completely different setting.
 
 ### CASE FILE // WHAT HAPPENED
 
-The costume search has one immediate problem: the team needs to reach the prop room before the next rehearsal check. Alio has already produced three “excellent” shortcuts. Unfortunately, one meets wet paint, one meets a locked staff door and one has a personal disagreement with a wall. Test all three routes against the building rules and find the only route the team can actually use.
+Your submitted costume verdict gives the trainer a person to follow up with, but the rehearsal clock is still running. The prop room is on the far side of the Undercover Wing, and Alio has already drawn three "faster" routes to get there. One meets wet paint, one meets a locked staff door and one attempts to negotiate with a wall. Test the routes and choose the only path the team can actually use.
 
 ### YOUR OBJECTIVE
 
@@ -807,9 +659,9 @@ The costume search has one immediate problem: the team needs to reach the prop r
 
 ### INVESTIGATION RULES
 
-- The team must reach the prop room now; waiting for a closure to end is not allowed.
+- The team must reach the prop room now; waiting is not an option.
 - A route fails if it uses a closed corridor, a locked staff door or passes through a wall.
-- Trace each option from LOBBY to PROP ROOM before choosing.
+
 ### HAPPY MAKERS CHAT
 
 - **ALIO:** My route is beautifully straight.
@@ -819,26 +671,11 @@ The costume search has one immediate problem: the team needs to reach the prop r
 
 ### EVIDENCE / PUZZLE TEXT
 
-### ROUTE OPTIONS
-- **ROUTE A** — LOBBY → PAINT CORRIDOR → SIDE HALL → PROP ROOM
-- **ROUTE B** — LOBBY → STAFF STAIRS → PROP ROOM
-- **ROUTE C** — LOBBY → COSTUME STORAGE → SIDE HALL → PROP ROOM
+
 
 ### YOUR VERDICT / RESPONSE
 
 **ROUTE:**  A ☐   B ☐   C ☐
-
-### CASE RESULT
-
-Route C is the only legal route to the prop room. It survives the paint closure, the locked staff door and the inconvenient existence of walls.
-
-### KEEP THIS / SIGNAL LOG
-
-**CHECK-08 // ROUTE TEST // THEORY REJECTED CLEANLY**
-
-A good-looking route can still fail a hard rule. That lesson may matter again.
-
-**KEEP:** Route C + the rule that eliminated A and B.
 
 ## CASE 09 // THE SYMBOL THAT SHOULDN'T BE HERE
 
@@ -847,7 +684,7 @@ A good-looking route can still fail a hard rule. That lesson may matter again.
 
 ### CASE FILE // WHAT HAPPENED
 
-Back at the Academy, Luli spreads the marked records across the Case Wall. Then she asks the question everyone has been avoiding: are these really the same symbol? Some samples are plain Academy 0 marks; others are circles and dials that only look similar. Sort the matches from the lookalikes. When Bibi sees the true mark, remember that recognition is not the same thing as an explanation.
+Back at the Academy, Luli clears the Case Wall and lays the marked paperwork side by side for the first time. Some samples are the same plain Academy **0**; others are ordinary circles and dials that only look suspicious because the team is now trained to notice them. Bibi goes very quiet when she sees the set, then folds her hands and says nothing. If she recognizes something, she is not going to solve the comparison for you.
 
 ### YOUR OBJECTIVE
 
@@ -855,83 +692,39 @@ Back at the Academy, Luli spreads the marked records across the Case Wall. Then 
 
 ### INVESTIGATION RULES
 
-- Match both the shape and the Academy-record context.
-- A circle is not automatically the recurring mark.
-- Exclude decorations, dials and other lookalikes that do not match the plain Academy 0.
+- Match both the symbol shape and the Academy-record context.
+- A circle or dial is not automatically the recurring Academy mark.
+
 ### HAPPY MAKERS CHAT
 
-- **BIBI:** I know that mark.
-- **DILO:** A complete explanation!
-- **BIBI:** That was the complete sentence. The explanation needs work.
-- **LULI:** We can work with an honest gap.
+- **DILO:** You recognize something.
+- **BIBI:** I recognize one old Academy form in this set. I will not tell you which one.
+- **LULI:** Good. We solve first.
+- **ALIO:** I have prepared several incorrect guesses in advance.
 
 ### EVIDENCE / PUZZLE TEXT
 
-### MARK COMPARISON
-- **SAMPLE 1.** opening Academy badge — plain engraved 0
-- **SAMPLE 2.** trophy evidence record — plain stamped 0
-- **SAMPLE 3.** cupcake quality sticker — plain printed 0
-- **SAMPLE 4.** museum label reverse — plain printed 0
-- **SAMPLE 5.** poster decoration — striped circle
-- **SAMPLE 6.** stage-light dial — ring with pointer
+
 
 ### YOUR VERDICT / RESPONSE
 
 Circle the matching Academy marks directly.
 **FINAL CLASSIFICATION:** ____________________________________
 
-### CASE RESULT
+# INTERLUDE - ACT II // THE PATTERN
 
-The plain 0 is a genuine recurring Academy mark. Bibi recognizes the old form — and just as importantly, admits that its meaning is still unknown.
+Bibi looks at your filed classification, taps the old Academy form once and reaches for her coat.
 
-### KEEP THIS / SIGNAL LOG
+"This is the form I remember," she says. "I do not remember what the zero meant."
 
-**ARCHIVE-09 // BIBI’S MEMORY // PATTERN CONFIRMED**
+Then she goes to the archive.
 
-Bibi recognizes the old Academy form. She does **not** know what zero meant.
+That is all the team gets - and, for once, nobody fills the gap with a tunnel.
 
-**KEEP:** FACT — BIBI RECOGNIZES THE FORM.
+### CASE WALL -> PAGE 9
 
-# INTERLUDE — ACT II // THE PATTERN
+Under **OPEN QUESTIONS**, copy Bibi's conclusion in your own short words: she recognizes the old Academy form, but its meaning is still unknown.
 
-Bibi studies the four matching marks long enough for Dilo to stop filling the silence.
-
-“I know that form,” she says.
-
-Nobody speaks for half a second.
-
-Then Bibi adds, “I do not know what it meant.”
-
-That is less satisfying. It is also much more useful.
-
-## BIBI KNOWS WHERE THE MARK BELONGED.
-
-**THE QUESTION NOW:** If the 0 belonged to old Academy intake, why is that system touching these files now?
-
-### WHAT THE FILES ACTUALLY PROVE
-
-- The plain 0 marks really match.
-- Similar circles and dials do not.
-- Bibi remembers the old Academy form.
-- The badge came from internal stock, not an outside delivery.
-- Nobody has proved what the mark means or why the queue restarted.
-
-### HAPPY MAKERS CHAT
-
-- **BIBI:** I have an archive to check, not an answer to pretend.
-- **NINI:** We can keep the question without filling it.
-- **DILO:** I have several fillings available.
-- **LULI:** Keep them sealed.
-
-### YOUR MOVE
-
-Write: **FACT — BIBI RECOGNIZES THE OLD FORM.**
-
-Leave the meaning blank.
-
-**CASE WALL STATUS:** OLD ACADEMY CONNECTION // EXPLANATION STILL OPEN
-
----
 
 ## CASE 10 // THE ROBOT WITH TWO OWNERS
 
@@ -940,7 +733,7 @@ Leave the meaning blank.
 
 ### CASE FILE // WHAT HAPPENED
 
-Bibi goes to the archive to check what she remembers. Before she returns, the queue routes a science-showcase dispute: two teams are both claiming the same silver rover. Dash kept the prototype-access record, so the floor reconstruction can tell you who else had recorded access to the same area. Find that contact; their account may show which team had access before the argument began, giving the team something testable instead of two competing stories.
+Bibi disappears into the archive with one promise: "I will bring back records, not guesses." While she searches, a Tech Lab mentor arrives at the Case Table carrying two team checklists and one silver training rover. Both student teams claim the same prototype, and the access log is a mess. Dash is the last person the system places for certain; find who shared his prototype area so the team knows who can clarify how the records split.
 
 ### YOUR OBJECTIVE
 
@@ -948,12 +741,10 @@ Bibi goes to the archive to check what she remembers. Before she returns, the qu
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bunk, seat.
 - SQUARE BLOCKED BY: console, crate, cryopod, locker, tank.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **DILO:** Two teams. One rover. One truly upsetting cable tangle.
@@ -964,33 +755,12 @@ Bibi goes to the archive to check what she remembers. Before she returns, the qu
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Ember was on a demo seat and beside another demo seat.
-- **02.** Nico was in column F and on a demo seat.
-- **03.** Wyatt was in column B and beside a charging pod.
-- **04.** Finn was 7 grid steps from the coolant tank. Count row difference plus column difference.
-- **05.** Beck was against an outer wall and beside a parts crate.
-- **06.** Vera's room contained a control console, but she was not beside any control console in that room.
-- **07.** Dash's area contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
-
-### CASE RESULT
-
-Ember shared Dash’s prototype area. The rover dispute now has a next contact and still does not have a proven owner.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-10 // ROVER DIAGNOSTIC // RECORD PRESERVED**
-
-Another routed case joins the stack, and your full placement record stays with it.
-
-**KEEP:** completed map + diagnostic record.
 
 ## CASE 11 // MIMI'S EVIDENCE BAG PROBLEM
 
@@ -998,7 +768,8 @@ Another routed case joins the stack, and your full placement record stays with i
 **RANK:** FIELD AGENT
 
 ### CASE FILE // WHAT HAPPENED
-Mimi starts sorting the rover evidence and discovers a very questionable combination in her case bag: official records, an oat bar and her missing phone. The science-fair window is **15:20–16:05**. One timestamped record falls outside it completely. That “wrong” record may still matter somewhere else.
+
+The rover file is finally tidy enough to seal, and Mimi tips her case bag onto the table to return the remaining evidence. Out come access cards, a cable tie, two pens, an oat bar and - after ten minutes of accusing the universe - her missing phone. The science-fair window is **15:20-16:05**. One timestamped record belongs to a completely different moment; identify it before Mimi files breakfast as Exhibit H.
 
 ### YOUR OBJECTIVE
 
@@ -1006,9 +777,9 @@ Mimi starts sorting the rover evidence and discovers a very questionable combina
 
 ### INVESTIGATION RULES
 
-- Only records A–D are timestamped case records for this question.
-- Compare each of those times with the printed case window 15:20–16:05.
-- Circle the one record created outside the window.
+- Only records A-D are timestamped case records for this question.
+- Circle the one timestamp that falls outside the printed 15:20-16:05 case window.
+
 ### HAPPY MAKERS CHAT
 
 - **NINI:** Your phone has been living beside the oat bar.
@@ -1018,32 +789,12 @@ Mimi starts sorting the rover evidence and discovers a very questionable combina
 
 ### EVIDENCE / PUZZLE TEXT
 
-### CASE WINDOW — 15:20-16:05 / SCIENCE FAIR HALL
-- **RECORD A — PROTOTYPE ACCESS CARD** — SF-10 / 15:31
-- **RECORD B — LOOSE CABLE TIE** — SF-10 / HALL B / 15:44
-- **RECORD C — SILVER WHEEL CAP** — SF-10 / 15:52
-- **RECORD D — MIMI'S PHONE** — personal / photo 08:07
-- **RECORD E — BLACK PEN** — team notes
-- **RECORD F — BLUE PEN** — team notes
-- **RECORD G — OAT BAR** — MIMI - DO NOT CATALOGUE
-**Question:** Among timestamped records A-D, which record was created outside the 15:20-16:05 case window?
+
 
 ### YOUR VERDICT / RESPONSE
 
 **RECORD:**  A ☐   B ☐   C ☐   D ☐
 **WHY:** _________________________________________________
-
-### CASE RESULT
-
-Record D — Mimi’s 08:07 phone photo — falls outside the science-fair window. It is wrong for the local case and potentially useful for the larger one.
-
-### KEEP THIS / SIGNAL LOG
-
-**ARCHIVE-11 // 08:07 PHOTO // WRONG CASE, USEFUL DETAIL**
-
-The photo fails the local time window but may belong to the larger archive question.
-
-**KEEP:** the 08:07 photo.
 
 ## CASE 12 // THE PARROT WHO KNEW THE PASSWORD
 
@@ -1052,7 +803,7 @@ The photo fails the local time window but may belong to the larger archive quest
 
 ### CASE FILE // WHAT HAPPENED
 
-The out-of-window photo goes into the archive pile, but the queue is already moving again. A theatre rehearsal file reports a parrot repeating a four-word phrase nobody remembers teaching it. Winter is the handler the record places with certainty. Reconstruct the room around Winter and find who shared it; that person may have heard where the phrase came from before Dilo attempts another formal interview with a bird demanding crackers.
+The next afternoon the Academy's community theatre hosts an animal-care demonstration for visiting families. Nini arrives at the Case Table with a witness who has feathers and strong opinions about crackers: a parrot has started repeating a four-word phrase nobody remembers teaching it. Winter is the handler the rehearsal record places for certain. Find who shared Winter's room; that person may know what the bird heard before Dilo begins a second formal interview with the witness.
 
 ### YOUR OBJECTIVE
 
@@ -1060,12 +811,10 @@ The out-of-window photo goes into the archive pile, but the queue is already mov
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bench, dog bed, grooming tub.
 - SQUARE BLOCKED BY: bird cage, crate, platform, toy basket, tunnel.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **DILO:** Please speak clearly for the notebook.
@@ -1076,37 +825,19 @@ The out-of-window photo goes into the archive pile, but the queue is already mov
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Kira was in the Bird Room, and nobody else entered it.
-- **02.** Nell was in the Stage Wing and in row 2.
-- **03.** Iris was the third person from the south.
-- **04.** Eli was either in the Green Room or the Bird Room.
-- **05.** Cove was in column B and against an outer wall.
-- **06.** Exactly one of Sage and Kira was in the Rehearsal Room.
-- **07.** Winter's area contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
 
-### CASE RESULT
-
-Nell shared Winter’s rehearsal area. The team has its next human contact; the parrot remains available for highly specific cracker-related testimony.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-12 // PARROT CUE CARD // PAPER TRAIL**
-
-The local interview moves on; the Academy cue-card copy stays in the record set.
-
-**KEEP:** completed map + cue-card copy.
-
 # ACT 3 // THE BOOK REMEMBERS
 
-The Case Wall is no longer just a list of solved problems. Old photographs, saved maps and records that once looked irrelevant are beginning to answer questions nobody knew to ask at the start. The cases are still yours to solve — but now the book itself is starting to remember for you.
+A few days into the investigation, the solved cases stop feeling finished.
+
+Old photographs, saved maps and records that looked ordinary at first begin to matter again. The book has been keeping evidence for questions you did not know to ask yet.
+
 
 ## CASE 13 // THE CAMERA THAT BLINKED AT 4:17
 
@@ -1115,7 +846,7 @@ The Case Wall is no longer just a list of solved problems. Old photographs, save
 
 ### CASE FILE // WHAT HAPPENED
 
-A camera-maintenance file arrives next. At **4:17**, an animal-centre camera captured a blurry image; later, the camera was found where it should not have been. Remy signed the maintenance record, so the saved positions can reveal who else shared that room during the relevant window. Find that contact; they may know whether the camera moved during maintenance or only afterward. Follow the record, not Alio’s fox-with-pockets theory.
+While the team is still following up the animal-care visit, a ranger from the Academy Field Research Wing brings over another problem from the same day. A camera captured a blurry frame at **4:17** and was later found in a different position from the one on the maintenance sheet. Remy signed that sheet. Reconstruct the research area and find who shared Remy's room; they may know whether the camera moved during maintenance or only afterward.
 
 ### YOUR OBJECTIVE
 
@@ -1123,12 +854,10 @@ A camera-maintenance file arrives next. At **4:17**, an animal-centre camera cap
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bench, exam table, jeep.
 - SQUARE BLOCKED BY: crates, dinosaur statue, feeding trough, giant fern, info kiosk, ranger desk.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **ALIO:** My fox theory has one weakness.
@@ -1138,33 +867,12 @@ A camera-maintenance file arrives next. At **4:17**, an animal-centre camera cap
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Juno was diagonally next to Skye; their corners touched.
-- **02.** Skye stayed in the Ranger Station.
-- **03.** Eden shared a room with Juno.
-- **04.** Willow was north-west of Bodhi: north and west by any number of squares.
-- **05.** Bodhi was south-west of Moxie: south and west by any number of squares.
-- **06.** Moxie was in the Ranger Station and in row 5.
-- **07.** Remy's room contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
-
-### CASE RESULT
-
-Bodhi shared Remy’s room. The maintenance record gives the team a trail that can be checked without requiring a fox to own trousers.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-13 // CAMERA MAINTENANCE // CHECKABLE TRAIL**
-
-Your saved placements now matter as much as the immediate answer.
-
-**KEEP:** completed map + maintenance record.
 
 ## CASE 14 // ONE WITNESS IS ACCIDENTALLY IMPOSSIBLE
 
@@ -1173,7 +881,7 @@ Your saved placements now matter as much as the immediate answer.
 
 ### CASE FILE // WHAT HAPPENED
 
-The camera file closes cleanly, but the next rehearsal record does not. Four actors remember the same backstage journey differently, and one version is physically impossible under the printed travel times. Nobody needs a villain badge for a bad memory. Test the route, find the statement that cannot fit and separate **mistaken** from **dishonest**.
+Back at the Academy the following morning, Mimi uses the camera case to make a point about witnesses: people can be sincere and still remember timing badly. The Scenario Theatre coordinator overhears her and drops four statements from yesterday's training rehearsal onto the Case Table. One journey cannot physically fit the printed travel times. Find it, and separate a bad memory from a lie.
 
 ### YOUR OBJECTIVE
 
@@ -1182,8 +890,8 @@ The camera file closes cleanly, but the next rehearsal record does not. Four act
 ### INVESTIGATION RULES
 
 - Each map edge takes 2 minutes to walk.
-- Count every edge on the claimed route; no shortcuts exist unless drawn.
-- Find the statement whose timing cannot physically fit.
+- Count the route edges in every statement; no shortcut exists unless it is drawn.
+
 ### HAPPY MAKERS CHAT
 
 - **DILO:** One statement has broken the clock.
@@ -1192,34 +900,12 @@ The camera file closes cleanly, but the next rehearsal record does not. Four act
 
 ### EVIDENCE / PUZZLE TEXT
 
-### ROUTE MAP
-Connections: DRESSING ↔ HALL; HALL ↔ STAGE; HALL ↔ PROP.
-Walking time: **2 minutes per edge**.
-### EVENT CLOCK
-- **16:10** — rehearsal bell
-- **16:14** — prop-room photo
-### WITNESS STATEMENTS
-- **MAYA** — “At 16:10 I was in Dressing. I stayed there.”
-- **LEO** — “At 16:12 I crossed the Hall toward Stage.”
-- **SOFIA** — “I was in Prop for the 16:14 photo.”
-- **NOAH** — “The 16:10 bell rang while I was on Stage, and I was already in Dressing at 16:12.”
+
 
 ### YOUR VERDICT / RESPONSE
 
 **WITNESS:** __________________
 **WHY THE TIMING FAILS:** _________________________________
-
-### CASE RESULT
-
-Noah’s two-minute Stage-to-Dressing memory cannot fit a route that takes four minutes. The statement is mistaken; the evidence does not prove Noah dishonest.
-
-### KEEP THIS / SIGNAL LOG
-
-**CHECK-14 // TIMING TEST // MEMORY ≠ LIE**
-
-You proved one statement impossible without inventing a motive.
-
-**KEEP:** the verified travel-time result.
 
 ## CASE 15 // THE BACKPACK THAT CHANGED OWNERS
 
@@ -1228,7 +914,7 @@ You proved one statement impossible without inventing a motive.
 
 ### CASE FILE // WHAT HAPPENED
 
-The witness-timing check teaches the team something useful: a wrong statement is not automatically a wrong person. The next file needs exactly that caution. At an Academy invention camp, two similar backpacks were passed to the wrong people before departure. Milo’s recorded position gives you a fixed point; find who shared his room, because that person may remember the handoff that sent the bags in different directions — without turning a mix-up into blame.
+Before sunrise the next day, the squad is loading gear for an Academy field-skills trip when two nearly identical backpacks end up with the wrong people. Nobody has stolen anything; everyone has simply been too helpful at the same time. Milo's position is the cleanest fixed point in the departure record. Find who shared his room so the team can reconstruct the handoff before the bus leaves.
 
 ### YOUR OBJECTIVE
 
@@ -1236,12 +922,10 @@ The witness-timing check teaches the team something useful: a wrong statement is
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: canoe, cot, stool.
 - SQUARE BLOCKED BY: backpacks, canoe rack, games shelf, welcome desk.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **MIMI:** Next trip: readable name tags.
@@ -1251,33 +935,12 @@ The witness-timing check teaches the team something useful: a wrong statement is
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Harper was north-east of Cruz: north and east by any number of squares.
-- **02.** Piper was north-east of Duke.
-- **03.** Duke was in the First Aid Hut and in row 5.
-- **04.** Cruz was beside a camp cot.
-- **05.** Jett was the only person in the Welcome Lodge.
-- **06.** Inez shared a room with a cot but was not beside it.
-- **07.** Milo's room contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
-
-### CASE RESULT
-
-Harper shared Milo’s room when the backpack mix-up was recorded. The team can now trace the handoff as a mix-up, not manufacture a suspect.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-15 // LUGGAGE RECORD // FULL PLACEMENT SAVED**
-
-A readable record solves the local confusion and adds another complete map to your file.
-
-**KEEP:** completed map + luggage record.
 
 ## CASE 16 // GRANDMA BIBI'S VERY OLD, VERY EMBARRASSING PHOTOGRAPH
 
@@ -1286,7 +949,7 @@ A readable record solves the local confusion and adds another complete map to yo
 
 ### CASE FILE // WHAT HAPPENED
 
-The repeated Academy mark has now survived enough tests for Bibi to return with an archive box she remembered. Inside is an old photograph of her childhood detective squad — plus a hat Alio considers architecturally significant. Bibi remembers the people, but memory cannot prove the date or building. Treat the photograph like evidence and work out exactly where and when it was taken.
+Two days later, Bibi returns from the archive carrying the flat box she has been searching for since the Case Wall first showed an old Academy connection. Inside is a photograph of her childhood detective squad at a building nobody else recognizes, plus a hat Alio calls "structurally courageous." Bibi remembers faces; she is less certain about dates. Prove the building and year from the evidence, then turn the photograph over.
 
 ### YOUR OBJECTIVE
 
@@ -1294,9 +957,9 @@ The repeated Academy mark has now survived enough tests for Bibi to return with 
 
 ### INVESTIGATION RULES
 
-- Use printed evidence, not Bibi’s memory, to prove the building and year.
-- A valid answer must satisfy every dated clue at once.
-- Choose one building and one year.
+- Prove the building and year from printed evidence, not Bibi's memory.
+- Your answer must satisfy every dated clue at the same time.
+
 ### HAPPY MAKERS CHAT
 
 - **ALIO:** That hat could shelter the whole team.
@@ -1306,84 +969,37 @@ The repeated Academy mark has now survived enough tests for Bibi to return with 
 
 ### EVIDENCE / PUZZLE TEXT
 
-### CANDIDATE BUILDINGS
-OLD ACADEMY ANNEX / CITY LIBRARY / NORTH STATION
-### CANDIDATE YEARS
-1998 / 2002 / 2008
-### PRINTED EVIDENCE
-- A plaque behind the group shows the old Academy crest and the words TRAINING ANNEX.
-- The archive rule says striped badges were issued and worn at official events only from 1999 through 2003.
-- A maintenance sticker on the door says SECURITY UPGRADE COMPLETED 2001; the photo record says it was taken after that sticker was installed.
-- The photo lab envelope is printed with EXPIRES 2004 and the processing log confirms it was used before expiry.
-- The 2008 candidate is therefore too late, and 1998 is too early for the installed security sticker.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **BUILDING:** ______________________________
 **YEAR:** __________
 
-### CASE RESULT
+# INTERLUDE - ACT III // THE BOOK REMEMBERS
 
-The photograph was taken at the Old Academy Annex in 2002. On the back, in Bibi’s own handwriting, is the line that changes the larger mystery: **RULE 0 FIRST.**
+Once you have made your building-and-year verdict, Bibi turns the photograph over.
 
-### KEEP THIS / SIGNAL LOG
+Her younger handwriting is still there:
 
-**ARCHIVE-16 // PHOTO REVERSE // RULE 0 FIRST**
+# **RULE 0 FIRST**
 
-Bibi’s memory led to the box. Your evidence proved the year, place and the writing on the back.
+Nobody at the table knows the missing rule yet.
 
-**KEEP:** RULE 0 FIRST.
+### CASE WALL -> PAGE 9
 
-# INTERLUDE — ACT III // THE BOOK REMEMBERS
+Under **MESSAGES / RULES**, copy that exact line from the back of the photograph.
 
-Bibi turns the photograph over again.
+Nothing more. Do not complete the sentence from imagination.
 
-The handwriting is hers.
-
-The date is no longer a guess. The building is no longer a memory. And the words on the back are impossible to ignore:
-
-**RULE 0 FIRST.**
-
-## THE OLD PHOTO CHANGES THE QUESTION.
-
-Until now, everyone has been asking: **What is Room Zero?**
-
-Mimi draws a line through that question and writes a better one underneath:
-
-**WHAT DID ZERO MEAN TO THE ACADEMY?**
-
-### WHAT THE FILES ACTUALLY PROVE
-
-- The photograph was taken at the Old Academy Annex in 2002.
-- Young Bibi is standing with an earlier detective squad.
-- The back says RULE 0 FIRST.
-- Zero may describe a rule or method, not a room number.
-
-### HAPPY MAKERS CHAT
-
-- **BIBI:** You checked the year instead of believing my first guess.
-- **MIMI:** Our detective is becoming a useful problem for confident people.
-- **DILO:** I feel unexpectedly included.
-- **LULI:** You were always included.
-
-### YOUR MOVE
-
-Add **RULE 0 FIRST** to the Case Wall.
-
-Leave a blank line beneath it.
-
-**CASE WALL STATUS:** OLD ACADEMY VERIFIED // RULE MISSING
-
----
 
 ## CASE 17 // THE TRAIN TICKET THAT WASN'T LOST
 
 **STATUS:** CASE FILE 17  
 **RANK:** MASTER
-
 ### CASE FILE // WHAT HAPPENED
 
-The words **RULE 0 FIRST** stay pinned to the Case Wall while the team waits for Bibi to search the old records. In the meantime, a railway open-day file offers a smaller mystery: a special ticket changed hands even though nobody reported losing it. Reed is the fixed contact in the record. Reconstruct the area and find who shared it; that person may help explain when the ticket changed hands, and the clashing clocks in the file will become the next thing the team has to untangle.
+The photograph sends Bibi to the Old Academy Annex records, and the easiest way there is by train. At Riverside Station, a staff member recognizes the squad and asks for help with a special open-day ticket that changed hands even though nobody reported losing it. Reed is the last fixed contact in the station record. Find who shared Reed's area; that person may remember when the ticket changed hands.
 
 ### YOUR OBJECTIVE
 
@@ -1391,12 +1007,10 @@ The words **RULE 0 FIRST** stay pinned to the Case Wall while the team waits for
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bench, seat.
 - SQUARE BLOCKED BY: luggage rack, stove, table, trunk.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **ALIO:** Railway-investigation helmet: deployed.
@@ -1406,33 +1020,12 @@ The words **RULE 0 FIRST** stay pinned to the Case Wall while the team waits for
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Otis was either in the Ticket Office or on the Baggage Platform.
-- **02.** Mika was in the Ticket Office and in column B.
-- **03.** Koa was in the Waiting Lounge and in row 6.
-- **04.** Sunny was on a bench.
-- **05.** Luna was in the Waiting Lounge and in column G.
-- **06.** Axel was exactly three rows north of Koa.
-- **07.** Reed's final area contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
-
-### CASE RESULT
-
-Axel shared Reed’s railway area. The contact is established — and the clashing timestamps still need their own case.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-17 // TICKET SLEEVE // CONTACT RECORDED**
-
-Keep the ticket and its Academy sleeve together. The clocks in this file are not finished with you.
-
-**KEEP:** completed map + ticket record.
 
 ## CASE 18 // THE SEVEN-MINUTE ALIBI
 
@@ -1441,7 +1034,7 @@ Keep the ticket and its Academy sleeve together. The clocks in this file are not
 
 ### CASE FILE // WHAT HAPPENED
 
-The ticket contact gives the team a person to ask, but the timestamps refuse to cooperate. One café clock is seven minutes slow, Dilo’s watch is two minutes fast and the station camera shows real time. Until every record is translated into the same clock, the sequence is meaningless. Correct the times first — especially before deciding that a suspicious-looking **0:07** must belong to Room Zero.
+The ticket contact gives the station staff someone to ask, but the timestamps in the file refuse to line up. The cafe clock is seven minutes slow, Dilo's watch is two minutes fast and the station camera shows real time. Until everything speaks the same clock, the sequence is meaningless. Correct the times and put the four events in order before anyone turns **0:07** into another grand theory.
 
 ### YOUR OBJECTIVE
 
@@ -1450,10 +1043,9 @@ The ticket contact gives the team a person to ask, but the timestamps refuse to 
 ### INVESTIGATION RULES
 
 - Convert every shown time to REAL TIME before comparing events.
-- Café clock = real time − 7 minutes.
-- Dilo’s watch = real time + 2 minutes.
-- Station camera = real time.
+- Cafe clock = real time - 7 minutes; Dilo's watch = real time + 2 minutes; station camera = real time.
 - Write the four record letters in chronological order.
+
 ### HAPPY MAKERS CHAT
 
 - **MIMI:** Can your watch accept being wrong?
@@ -1463,31 +1055,11 @@ The ticket contact gives the team a person to ask, but the timestamps refuse to 
 
 ### EVIDENCE / PUZZLE TEXT
 
-### CLOCK RULES
-- CAFE CLOCK = real time minus 7 minutes.
-- DILO'S WATCH = real time plus 2 minutes.
-- STATION CAMERA = real time.
-### TIME RECORDS
-- **A — CAFE CLOCK** — shown 15:08 — ticket envelope placed on counter
-- **B — DILO'S WATCH** — shown 15:18 — team enters platform
-- **C — STATION CAMERA** — shown 15:17 — ticket seen in hand
-- **D — CAFE CLOCK** — shown 15:11 — empty envelope collected
+
 
 ### YOUR VERDICT / RESPONSE
 
 **REAL-TIME ORDER:** [____] → [____] → [____] → [____]
-
-### CASE RESULT
-
-After correction, the events run A → B → C → D. The suspicious **0:07** is just a clock offset, which makes it a very useful false lead.
-
-### KEEP THIS / SIGNAL LOG
-
-**CHECK-18 // 0:07 // FALSE LEAD**
-
-Not every zero is Room Zero. You proved this one was ordinary arithmetic.
-
-**KEEP:** FALSE LEAD — TIME FORMAT + the corrected order.
 
 ## CASE 19 // THE LIBRARY BOOK THAT CHECKED ITSELF OUT
 
@@ -1496,7 +1068,7 @@ Not every zero is Room Zero. You proved this one was ordinary arithmetic.
 
 ### CASE FILE // WHAT HAPPENED
 
-The false lead goes onto the Case Wall as exactly that: false. Then the intake system sends a media-library record claiming a rare book checked itself out while never leaving its shelf. Sasha is the fixed contact in the scanner enquiry. Rebuild the area around Sasha and find who shared it; that person may have seen the scanner being used or noticed the record go wrong. Proximity gives you a lead, not a ghost and not a culprit.
+Back at the Academy, Luli heads to the Media Library to compare the Annex records with the current archive database. The librarian meets her at the door with a different mystery: the system says a rare book checked itself out even though the book never left the shelf. Sasha is the fixed contact on the scanner log. Find who shared Sasha's area; they may have seen whether the scanner was used, bumped or simply confused.
 
 ### YOUR OBJECTIVE
 
@@ -1504,12 +1076,10 @@ The false lead goes onto the Case Wall as exactly that: false. Then the intake s
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bleacher, desk, stool.
 - SQUARE BLOCKED BY: globe, lab bench, lockers, piano, teacher's desk.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **DILO:** I was going to say digital ghost.
@@ -1519,33 +1089,12 @@ The false lead goes onto the Case Wall as exactly that: false. Then the intake s
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Avery was exactly two rows north of Mack.
-- **02.** Theo was 7 grid steps from the piano.
-- **03.** Exactly one of Ollie and Avery was in the Archive Room.
-- **04.** Dex shared a room with Theo.
-- **05.** Mack was south-west of Ollie.
-- **06.** Kian was in the Study Hall and in column F.
-- **07.** Sasha's final area contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
-
-### CASE RESULT
-
-Mack shared Sasha’s scanner area. The local enquiry gains a next contact, while the strange blank field on the scanner record stays open as a separate question.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-19 // SCANNER RECORD // BLANK FIELD**
-
-The checkout error is local. The oddly empty routing field may not be.
-
-**KEEP:** completed map + scanner record.
 
 ## CASE 20 // THE PAINT-SPLATTERED ALIBI
 
@@ -1554,7 +1103,7 @@ The checkout error is local. The oddly empty routing field may not be.
 
 ### CASE FILE // WHAT HAPPENED
 
-The scanner record adds one more odd detail to the larger file, but the queue keeps moving. At a design studio, painted panels were saved in the wrong order, making later statements look more suspicious than they are. Demi handled the panel record. Find who shared Demi’s room; that witness may be able to confirm which panel was handled next. Then keep the entire solved placement — by now, the team knows that today’s “extra” detail can become tomorrow’s evidence.
+Leaving the library, the team passes the Flight Simulation Wing, where the night crew is repainting scenery for a rescue exercise. A set of painted cockpit panels has been saved in the wrong order, making later statements look far more suspicious than they should. Demi handled the panel log. Find who shared Demi's room so the crew knows who can help reconstruct the sequence - then leave the whole solved map intact.
 
 ### YOUR OBJECTIVE
 
@@ -1562,12 +1111,10 @@ The scanner record adds one more odd detail to the larger file, but the queue ke
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: cadet bunk, pilot seat.
 - SQUARE BLOCKED BY: flight console, fusion reactor, oxygen tank, sleep pod, suit locker, supply crate.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **NINI:** This panel looks like a very worried pear.
@@ -1576,33 +1123,12 @@ The scanner record adds one more odd detail to the larger file, but the queue ke
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Sid was somewhere south of Pax.
-- **02.** Pax was south-east of Mara.
-- **03.** Luca was diagonally next to Asa.
-- **04.** Mara was in the Main Studio and in row 4.
-- **05.** Asa shared a room with Mara.
-- **06.** Toby was the only person in the Workshop Hall.
-- **07.** Demi's final room contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
-
-### CASE RESULT
-
-Pax shared Demi’s studio room. This time the important habit is not just the answer — it is keeping the entire solved placement.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-20 // DRYING CARD // WHOLE MAP SAVED**
-
-The answer is one person. The evidence is the entire placement.
-
-**KEEP:** every final witness position.
 
 ## CASE 21 // THE NOTE IN FOUR PIECES
 
@@ -1611,7 +1137,7 @@ The answer is one person. The evidence is the entire placement.
 
 ### CASE FILE // WHAT HAPPENED
 
-This time the intake tray does not release another ordinary case file. It releases a brittle handwritten note. Dilo opens it too quickly, and four torn pieces skid across the evidence mat. For once, nobody has a joke ready. Nini says, “Do not touch anything else.” Match the tears, rebuild the note and copy the instruction exactly. It may be the first clue that tells you **how** to reread everything you have already solved.
+Late that evening, after the Academy has gone quiet, the intake printer gives the same mechanical cough it made on the first day. This time it spits out one brittle handwritten note. Dilo reaches for it, the paper tears into four pieces and every person at the table freezes. Match the tear edges and rebuild the sentence exactly; for the first time, the larger mystery may be trying to tell you what to do rather than simply asking to be noticed.
 
 ### YOUR OBJECTIVE
 
@@ -1620,8 +1146,8 @@ This time the intake tray does not release another ordinary case file. It releas
 ### INVESTIGATION RULES
 
 - Use every scrap exactly once.
-- Match physical tear edges first; use the sentence to confirm, not to force, a join.
-- Record the piece order, then copy the completed instruction exactly.
+- Match the tear edges first; use the sentence only to confirm a physical join.
+
 ### HAPPY MAKERS CHAT
 
 - **DILO:** Paper needs an undo button.
@@ -1630,11 +1156,7 @@ This time the intake tray does not release another ordinary case file. It releas
 
 ### EVIDENCE / PUZZLE TEXT
 
-### NOTE SCRAPS
-- **PIECE A** — text: “WHAT YOU” — left edge zigzag-2 — right edge curve-1
-- **PIECE B** — text: “THE ANSWER IS” — left edge straight — right edge notch-3
-- **PIECE C** — text: “LEAVE EMPTY.” — left edge curve-1 — right edge straight
-- **PIECE D** — text: “IN” — left edge notch-3 — right edge zigzag-2
+
 
 ### YOUR VERDICT / RESPONSE
 
@@ -1642,62 +1164,29 @@ This time the intake tray does not release another ordinary case file. It releas
 **COMPLETE MESSAGE:** ______________________________________
 ___________________________________________________________
 
-### CASE RESULT
+# INTERLUDE - ACT III // THE BOOK REMEMBERS
 
-The pieces rebuild to **THE ANSWER IS IN WHAT YOU LEAVE EMPTY.** For the first time, the larger mystery gives you an instruction instead of another mark.
+Mimi slides your reconstructed note into a clear sleeve and places it beside the saved maps.
 
-### KEEP THIS / SIGNAL LOG
+Nini looks at the growing stack.
 
-**MESSAGE-21 // REBUILT NOTE // NEW INSTRUCTION**
+"If your sentence is right," she says, "we need the complete map set before we test it."
 
-The larger mystery has finally told you what kind of evidence to look for: absence.
+No one tears anything else.
 
-**KEEP:** THE ANSWER IS IN WHAT YOU LEAVE EMPTY.
+### CASE WALL -> PAGE 9
 
-# INTERLUDE — ACT III // THE BOOK REMEMBERS
+Under **MESSAGES / RULES**, copy the full sentence you reconstructed in Case 21 **exactly as you wrote it**.
 
-The rebuilt sentence sits in the center of the table:
+The next files finish the evidence set.
 
-**THE ANSWER IS IN WHAT YOU LEAVE EMPTY.**
-
-For once, nobody reaches for another file.
-
-Nini looks at the saved maps.
-
-Luli looks at the sentence.
-
-Dilo looks at the word **EMPTY** as if it has personally become suspicious.
-
-## THE CLUE POINTS AT NOTHING — ON PURPOSE.
-
-**THE QUESTION NOW:** What have your solved cases been leaving empty all along?
-
-### WHAT THE FILES ACTUALLY PROVE
-
-- You rebuilt the sentence from physical evidence.
-- You have preserved complete spatial maps, not only final names.
-- Zero can mean none.
-- A promising idea is still only an idea until the whole set can be tested.
-
-### HAPPY MAKERS CHAT
-
-- **NINI:** We kept the whole map, not just the answer.
-- **LULI:** Good record-keeping. Now it might become evidence.
-- **DILO:** I would like to apologize to every blank square I underestimated.
-
-### YOUR MOVE
-
-Keep the exact sentence beside the saved maps.
-
-Do **not** flip backward yet. Finish the set first.
-
-**CASE WALL STATUS:** EMPTY SPACE HYPOTHESIS // TEST NOT YET COMPLETE
-
----
 
 # ACT 4 // ROOM ZERO
 
-You have enough evidence to stop collecting patterns and start testing them. The word **zero** finally has a testable meaning, and the larger mystery begins to move fast: back through old maps, into empty rooms, toward a sealed space and the rule the Academy once built everything around.
+The investigation changes direction.
+
+You are no longer collecting more examples of the pattern. You are testing what the earlier cases already left behind.
+
 
 ## CASE 22 // THE MUSIC ROOM MIX-UP
 
@@ -1706,7 +1195,7 @@ You have enough evidence to stop collecting patterns and start testing them. The
 
 ### CASE FILE // WHAT HAPPENED
 
-The rebuilt note changes the mood in the room: **THE ANSWER IS IN WHAT YOU LEAVE EMPTY.** The team wants to test it immediately, but three spatial records are still missing from the set. The next file comes from a music-school recording wing where three nearly identical instrument cases were mixed up. Zara anchors the saved record. Find who shared her room; that person may remember which case was beside Zara’s before the mix-up. Preserve every final position.
+The rebuilt note changes the investigation, but Luli refuses to test it while several spatial files are still open. The next morning the Academy Sound Lab provides one of them when three nearly identical instrument cases are returned to the wrong shelves after rehearsal. Zara is the fixed contact. Find who shared her room; that person may remember which case sat beside Zara before the mix-up, and your completed map becomes part of the growing set.
 
 ### YOUR OBJECTIVE
 
@@ -1714,12 +1203,10 @@ The rebuilt note changes the mood in the room: **THE ANSWER IS IN WHAT YOU LEAVE
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bleacher, desk, stool.
 - SQUARE BLOCKED BY: lab bench, lockers, piano, teacher's desk.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **ALIO:** The case is closed. The instrument case, I mean. Our case is open.
@@ -1728,33 +1215,12 @@ The rebuilt note changes the mood in the room: **THE ANSWER IS IN WHAT YOU LEAVE
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Lex was diagonally next to Imani.
-- **02.** Imani and Nia shared a room.
-- **03.** Cody was diagonally next to Wes.
-- **04.** Exactly one of Nia and Lex was in the Practice Hall.
-- **05.** Gia was 7 grid steps from the piano.
-- **06.** Wes's room contained an instrument locker, but he was not beside any instrument locker in that room.
-- **07.** Zara's final room contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
-
-### CASE RESULT
-
-Cody shared Zara’s music-room area. The local mix-up has a next contact, and another complete map joins the evidence stack.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-22 // INSTRUMENT INVENTORY // MAP SET CONTINUES**
-
-The note changed the question, but you still need complete evidence to test it.
-
-**KEEP:** every final witness position.
 
 ## CASE 23 // THE WRISTBAND SWITCH AT ADVENTURE PARK
 
@@ -1763,7 +1229,7 @@ The note changed the question, but you still need complete evidence to test it.
 
 ### CASE FILE // WHAT HAPPENED
 
-Another map arrives before the empty-space idea can be tested. At an adventure park, two wristbands were switched — one opens the climbing area, the other the arcade. Jude is the fixed contact on the return record. Reconstruct who shared that space; that person may help pin down when the two wristbands stopped following the same route. Finish the local enquiry and keep the whole map. The stack beside Nini is getting thick for a reason.
+That weekend the Academy runs a field-observation challenge at the nearby Adventure Park. Halfway through the day, two access wristbands switch owners - one opens the climbing zone, the other the arcade - and the return desk cannot tell where the routes separated. Jude is the fixed contact on the log. Find who shared Jude's area; that person may remember when the wristbands stopped travelling together.
 
 ### YOUR OBJECTIVE
 
@@ -1771,12 +1237,10 @@ Another map arrives before the empty-space idea can be tested. At an adventure p
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bench, gondola.
 - SQUARE BLOCKED BY: balloon cart, cotton candy machine, funhouse mirror, popcorn cart, prize shelf, strongman game.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **DILO:** The arcade scoreboard has challenged me personally.
@@ -1786,33 +1250,12 @@ Another map arrives before the empty-space idea can be tested. At an adventure p
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Vivi was 7 grid steps from the gondola.
-- **02.** Cora was north-east of Mae.
-- **03.** Ozzy was south-west of Cora.
-- **04.** Rae was exactly two columns east of Cora.
-- **05.** Mae shared a room with a person who was on a bench. That person was either Ozzy or Pia.
-- **06.** Exactly one of Pia and Vivi was in the Snack Stand.
-- **07.** Jude's final room contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
-
-### CASE RESULT
-
-Rae shared Jude’s adventure-park area. The wristband enquiry moves forward, and the full placement joins the map set Nini is quietly counting.
-
-### KEEP THIS / SIGNAL LOG
-
-**QUEUE-23 // WRISTBAND RETURN // MAP SET CONTINUES**
-
-Another local case closes. Another full map stays open as future evidence.
-
-**KEEP:** completed map + return record.
 
 ## CASE 24 // THE FOOTPRINTS THAT WALKED BACKWARDS
 
@@ -1821,7 +1264,7 @@ Another local case closes. Another full map stays open as future evidence.
 
 ### CASE FILE // WHAT HAPPENED
 
-The next file gives your grid pencil a break and your eyes a harder job. A single walk crossed the controlled mud track, yet the arrows in the shoe tread point opposite the trail suggested by the fading mud. The arrows are decoration; the amount of mud changes with every step. Decide which evidence actually records direction.
+On the walk back from the park, Alio spots a trail crossing the Academy's outdoor tracking yard and immediately announces "backwards footprints." Luli points out that the arrows are part of the shoe tread, not tiny witnesses. The mud is the thing that changes from step to step. Use the fading transfer to work out which way the person actually walked.
 
 ### YOUR OBJECTIVE
 
@@ -1830,8 +1273,8 @@ The next file gives your grid pencil a break and your eyes a harder job. A singl
 ### INVESTIGATION RULES
 
 - This is one uninterrupted walk with no fresh mud added.
-- Wet mud transfers most strongly on the first print after leaving the patch, then fades.
-- The tread arrow is decorative. Use mud intensity to determine direction.
+- Wet mud transfers most strongly first and then fades. Ignore the decorative tread arrow.
+
 ### HAPPY MAKERS CHAT
 
 - **ALIO:** I have paused my dramatic theory.
@@ -1841,29 +1284,11 @@ The next file gives your grid pencil a break and your eyes a harder job. A singl
 
 ### EVIDENCE / PUZZLE TEXT
 
-### MUD TRANSFER RULE
-During one uninterrupted walk with no new mud added, wet mud transfers most strongly on the first print after leaving the patch, then fades.
-### PRINT RECORD
-- **EAST PATH** — mud 100% — tread arrow printed EAST
-- **P3** — mud 70% — tread arrow printed EAST
-- **P2** — mud 35% — tread arrow printed EAST
-- **WEST GATE** — mud 10% — tread arrow printed EAST
+
 
 ### YOUR VERDICT / RESPONSE
 
 **FROM:** __________________   **TO:** __________________
-
-### CASE RESULT
-
-The walk went from EAST PATH to WEST GATE. The mud changes with movement; the decorative tread arrow only looks authoritative.
-
-### KEEP THIS / SIGNAL LOG
-
-**CHECK-24 // MUD, NOT THE ARROW // OBSERVATION WINS**
-
-The obvious symbol lost to the changing physical evidence. Rule Zero would approve, if you knew the rule yet.
-
-**KEEP:** EAST PATH → WEST GATE.
 
 ## CASE 25 // THE PACKAGE WITH NO NAME
 
@@ -1872,7 +1297,7 @@ The obvious symbol lost to the changing physical evidence. Rule Zero would appro
 
 ### CASE FILE // WHAT HAPPENED
 
-One last spatial file lands on top of the saved-map stack. At the Academy guest house, a nameless parcel was passed from one helpful person to another until nobody knew where it belonged. Nori is the last fixed contact in the routing record. Find who shared Nori’s room; that person may remember where the parcel came from or where it went next. Close the local trail and preserve the full map — this completes the set needed to test the torn note.
+By the time the squad reaches the Academy Guest House, one last spatial file is waiting at reception: a nameless parcel has been handed from person to person until nobody knows where it started or where it was meant to go. Nori is the last fixed contact in the routing record. Find who shared Nori's room; they may remember the previous handoff. When this map is complete, the full set the note needs is finally ready.
 
 ### YOUR OBJECTIVE
 
@@ -1880,12 +1305,10 @@ One last spatial file lands on top of the saved-map stack. At the Academy guest 
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bar stool, bed, chair, massage table.
 - SQUARE BLOCKED BY: bar, buffet, cart, desk, palm, piano, range, washer.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **NINI:** This parcel has met more helpful people than it can remember.
@@ -1895,73 +1318,30 @@ One last spatial file lands on top of the saved-map stack. At the Academy guest 
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Gabe was diagonally next to Rio.
-- **02.** Casey was in the Lobby and in column D.
-- **03.** Rio was north-west of Gabe.
-- **04.** Tate was diagonally next to Wynn.
-- **05.** Sol was north-east of Gabe.
-- **06.** Wynn was in the Laundry and on a bar stool.
-- **07.** Nori's final room contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
 
-### CASE RESULT
+# INTERLUDE - ACT IV // ROOM ZERO
 
-Casey shared Nori’s room. The parcel file closes — and with it, the fourteenth spatial map needed to test the empty-space instruction.
+Fourteen completed spatial maps now cover the Case Table.
 
-### KEEP THIS / SIGNAL LOG
+For the first time, the team is not waiting for a new file.
 
-**QUEUE-25 // PARCEL ROUTING // FOURTEEN MAPS COMPLETE**
-
-The stack is complete. Now the note can finally be tested against all fourteen maps.
-
-**KEEP:** this map with the other thirteen.
-
-# INTERLUDE — ACT IV // ROOM ZERO
-
-Fourteen completed maps cover the case table.
-
-Not fourteen answers.
-
-Fourteen **records**.
-
-That distinction is why this test is possible.
-
-## FOURTEEN MAPS ARE NOW EVIDENCE.
-
-**THE QUESTION NOW:** Does every marked map contain exactly one named ROOM with zero people inside?
-
-If the answer is yes, the note can finally be tested against the whole set.
-
-### WHAT THE FILES ACTUALLY PROVE
-
-- Fourteen spatial cases are complete.
-- Every final placement has been preserved.
-- The note says the answer is in what you leave empty.
-- The recurring 0 still has no proven meaning.
+It is going back into old ones.
 
 ### HAPPY MAKERS CHAT
 
-- **LULI:** Nobody solves anything new until we inspect what we already solved.
-- **ALIO:** My favourite kind of new case: an old case wearing a moustache.
-- **MIMI:** Get the pencils. And the old maps.
-- **NINI:** All fourteen.
+- **MIMI:** We kept the full placements. Good.
+- **ALIO:** I also kept several excellent doodles.
+- **LULI:** Those will not be entering evidence.
+- **NINI:** Case 26 tells us exactly what to test.
 
-### YOUR MOVE
+Open Case 26 with the fourteen completed maps beside you.
 
-Put a finger on Case 02.
-
-Case 26 will tell you exactly what to look for.
-
-**CASE WALL STATUS:** FOURTEEN-MAP TEST READY
-
----
 
 ## CASE 26 // THE CASE OF THE EMPTY ROOMS
 
@@ -1970,7 +1350,7 @@ Case 26 will tell you exactly what to look for.
 
 ### CASE FILE // WHAT HAPPENED
 
-Nini clears the case table and spreads out fourteen maps you have already solved. Beside them she places the rebuilt sentence: **THE ANSWER IS IN WHAT YOU LEAVE EMPTY.** Now the idea can finally be tested. On each marked map, find the one named **ROOM** containing zero people in the final solution. Take its first letter, then read the fourteen letters in case order.
+Nini locks the Case Room door, clears the table and lays out fourteen maps you have solved across the investigation. Beside them she places the sentence you rebuilt in Case 21. Now the strange instruction can be tested instead of discussed. On each listed map, find the one named **ROOM** containing zero people, take its first letter and read the letters in case order.
 
 ### YOUR OBJECTIVE
 
@@ -1978,10 +1358,10 @@ Nini clears the case table and spreads out fourteen maps you have already solved
 
 ### INVESTIGATION RULES
 
-- Use only the fourteen completed spatial cases listed here.
-- On each final map, find the one named space classified as a ROOM with zero people inside.
-- Ignore corridors, platforms, queues and other ZONES.
-- Write the first letter of each empty ROOM in case order.
+- Use only the fourteen completed spatial cases listed on this page.
+- In each final map, find the one named ROOM containing zero people.
+- Record the first letter of each empty ROOM in case order.
+
 ### HAPPY MAKERS CHAT
 
 - **NINI:** Could an empty room be doing something useful?
@@ -1991,26 +1371,19 @@ Nini clears the case table and spreads out fourteen maps you have already solved
 
 ### EVIDENCE / PUZZLE TEXT
 
-### FOURTEEN-MAP LEDGER
-Cases: 02, 04, 06, 07, 10, 12, 13, 15, 17, 19, 20, 22, 23, 25.
-On each solved map, find the one named space classified as a ROOM that contains zero people. Ignore corridors, platforms, queues and other ZONES. Write the first letter of each empty ROOM.
-### LETTER BOXES
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+
 ### YOUR VERDICT / RESPONSE
 
 Write one letter in each of the 14 boxes above. Then read the message.
 
-### CASE RESULT
+### CASE WALL -> PAGE 9
 
-The fourteen empty-room initials spell **CHECK THE OLD MAP**. The answer was not hidden on a new page; it was waiting inside work you had already finished.
+**MESSAGES / RULES**
 
-### KEEP THIS / SIGNAL LOG
+Copy the fourteen-letter instruction you extracted from the empty-room initials **exactly as you solved it**.
 
-**MESSAGE-26 // EMPTY-ROOM INITIALS // INSTRUCTION EARNED**
-
-Fourteen old answers have become one new clue.
-
-**KEEP:** CHECK THE OLD MAP.
+Do not check the Solution Files first unless you actually want the answer.
 
 ## CASE 27 // BIBI'S MAP HAS ONE ROOM WITH ZERO DOORS
 
@@ -2019,7 +1392,7 @@ Fourteen old answers have become one new clue.
 
 ### CASE FILE // WHAT HAPPENED
 
-The fourteen letters do not name a suspect. They give an instruction: **CHECK THE OLD MAP.** Bibi pulls a retained Academy plan from the archive and places it over the current building plan. Three permanent landmarks still match — but one room on the old plan has vanished from the modern one. Align the plans and find where the missing space went.
+The message you extract does not name a suspect. It tells you what to do next. Bibi opens a retained Academy plan from the archive and lays it over the modern building map. Three permanent landmarks still match, but one room exists only on the old plan. Align the plans and find where that room went.
 
 ### YOUR OBJECTIVE
 
@@ -2027,10 +1400,9 @@ The fourteen letters do not name a suspect. They give an instruction: **CHECK TH
 
 ### INVESTIGATION RULES
 
-- Do not rotate either plan.
-- Use the same scale for both plans.
-- Align NORTH STAIR at C1, COURTYARD COLUMN at F3 and WEST LIFT SHAFT at A5.
-- Find the old-only room now covered by the current Archive wall.
+- Keep both plans at the same scale and orientation.
+- Align the three fixed landmarks before looking for the room that exists only on the old plan.
+
 ### HAPPY MAKERS CHAT
 
 - **BIBI:** Clean hands. Flat map. No heroic folding.
@@ -2039,29 +1411,12 @@ The fourteen letters do not name a suspect. They give an instruction: **CHECK TH
 
 ### EVIDENCE / PUZZLE TEXT
 
-### ALIGNMENT ANCHORS
-- NORTH STAIR / NORTH STAIR — C1
-- COURTYARD COLUMN / COURTYARD COLUMN — F3
-- WEST LIFT SHAFT / WEST LIFT SHAFT — A5
-Transform: **NO ROTATION; SAME SCALE; ALIGN C1, F3 AND A5**
-Mark the old-only room directly on both plans, then write its location.
+
 
 ### YOUR VERDICT / RESPONSE
 
 Mark the location directly on both plans.
 **SEALED SPACE:** __________________________________________
-
-### CASE RESULT
-
-The old training room still exists behind the current Archive wall. Renovation sealed it; history did not erase it.
-
-### KEEP THIS / SIGNAL LOG
-
-**ARCHIVE-27 // SEALED SPACE // PLANS ALIGNED**
-
-The old room still exists behind the current Archive wall.
-
-**KEEP:** the marked room location + RULE FIRST, ROOM SECOND.
 
 ## CASE 28 // RULE ZERO
 
@@ -2070,7 +1425,7 @@ The old room still exists behind the current Archive wall.
 
 ### CASE FILE // WHAT HAPPENED
 
-Behind the modern Archive wall, the old plan reveals a sealed training room — and beside it, another instruction: **RULE FIRST, ROOM SECOND.** The team is close enough to the answer that a bad assumption could now ruin good evidence. Sort what is proved, what is still theory and what was never supported at all. The missing word restores the method Bibi’s squad used before every investigation.
+The aligned plans put a sealed training room directly behind the modern Archive wall. Beside it, Bibi finds a second handwritten instruction: **RULE FIRST, ROOM SECOND.** The team is now close enough that one exciting assumption could wreck weeks of careful work. Sort what is fact, what is theory and what has no support; the missing word restores the method the old Academy used before opening a case.
 
 ### YOUR OBJECTIVE
 
@@ -2079,9 +1434,9 @@ Behind the modern Archive wall, the old plan reveals a sealed training room — 
 ### INVESTIGATION RULES
 
 - FACT = directly observed or deduced from evidence.
-- THEORY = a possible explanation linked to facts but not yet proved.
-- UNSUPPORTED ASSUMPTION = an extra claim with no supporting evidence.
-- Sort every card before completing Rule Zero.
+- THEORY = possible explanation linked to facts but not yet proved.
+- UNSUPPORTED ASSUMPTION = extra claim with no supporting evidence.
+
 ### HAPPY MAKERS CHAT
 
 - **ALIO:** I have put my tunnel theory on a separate card.
@@ -2091,34 +1446,20 @@ Behind the modern Archive wall, the old plan reveals a sealed training room — 
 
 ### EVIDENCE / PUZZLE TEXT
 
-### CATEGORY KEY
-- **FACT** — Directly observed or deduced from evidence.
-- **THEORY** — A tentative explanation linked to the facts but not yet proved.
-- **UNSUPPORTED ASSUMPTION** — An extra claim with no supporting evidence.
-### EVIDENCE CARDS
-- **CARD 1.** The same plain 0 appeared across unrelated cases.
-- **CARD 2.** Fourteen empty-room initials spell CHECK THE OLD MAP.
-- **CARD 3.** An old room sits behind the current Archive wall.
-- **CARD 4.** Someone has been secretly watching every case.
-- **CARD 5.** The old Academy may have left an unfinished training system.
-- **CARD 6.** There must be a dramatic underground tunnel.
+
 
 ### YOUR VERDICT / RESPONSE
 
 Sort every card into the three printed zones.
 **MISSING WORD IN RULE ZERO:** _____________________________
 
-### CASE RESULT
+### CASE WALL -> PAGE 9
 
-Rule Zero is restored: **ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.** The method has finally caught up with the mystery.
+**MESSAGES / RULES**
 
-### KEEP THIS / SIGNAL LOG
+Copy your restored Rule Zero exactly.
 
-**RULE-28 // RULE ZERO // METHOD RESTORED**
-
-The Academy’s oldest clue turns out to be a way of thinking.
-
-**KEEP:** ASSUMPTIONS + the full Rule Zero wording.
+You will need its missing word in the final case.
 
 ## CASE 29 // THE MAP BENEATH THE MAP
 
@@ -2127,7 +1468,7 @@ The Academy’s oldest clue turns out to be a way of thinking.
 
 ### CASE FILE // WHAT HAPPENED
 
-Rule Zero does not open the sealed room. It tells the team how to approach the last access record. Hidden in the old service-level files is the largest position map in the book, with Seth as the fixed contact. Solve it carefully, identify Seth’s room companion and record that person’s coordinate. This time, the square itself is part of the key.
+Rule Zero does not magically open the wall. Instead it tells Mimi what to request: the old service-level access record for that exact section of the building. The file contains the largest position map in the book, with Seth as the fixed contact. Solve it carefully, find Seth's room companion and record that person's coordinate - the square itself is part of the final access key.
 
 ### YOUR OBJECTIVE
 
@@ -2135,12 +1476,10 @@ Rule Zero does not open the sealed room. It tells the team how to approach the l
 
 ### INVESTIGATION RULES
 
-- Place every witness exactly once.
-- Each witness must finish in a different row and a different column.
-- Use only the printed witness statements and map features. Do not infer guilt from proximity.
+- Use the Standard Map Case Rules on page 8.
 - PERSON MAY STAND ON: bleacher, desk, stool.
 - SQUARE BLOCKED BY: globe, lab bench, lockers, piano, teacher's desk.
-- When the map is solved, write every witness number in the final square. Keep the completed map.
+
 ### HAPPY MAKERS CHAT
 
 - **DILO:** Largest map. Small, careful steps.
@@ -2150,87 +1489,38 @@ Rule Zero does not open the sealed room. It tells the team how to approach the l
 
 ### EVIDENCE / PUZZLE TEXT
 
-### WITNESS BOARD
-- **01.** Mavis was north-west of Vega.
-- **02.** Cato was north-east of Ren.
-- **03.** Jules was diagonally next to Wade.
-- **04.** Bryn shared a space with Jules.
-- **05.** Vega was north-west of Cato.
-- **06.** Ren was in the Control Room.
-- **07.** Poppy shared a room with Mavis.
-- **08.** Wade was in the Operations Office, beside the teacher's desk.
-- **09.** Seth's final area contained exactly one other person.
-### LIVE CASE MAP
-Use the approved final map raster for this case. Final text must not duplicate a second coordinate system inside the page.
+
 
 ### YOUR VERDICT / RESPONSE
 
 **PERSON / WITNESS:** ______________________________
 **COORDINATE:** __________
 
-### CASE RESULT
+### CASE WALL -> PAGE 9
 
-Vega is Seth’s room companion, and Vega’s coordinate is **D3**. The last access coordinate is earned, not guessed.
+**CODES / COORDINATES**
 
-### KEEP THIS / SIGNAL LOG
+Copy the access coordinate you earned from the final map.
 
-**ACCESS-29 // FINAL MAP // D3 VERIFIED**
+Do not write a new coordinate later - the finale uses this one.
 
-You now hold the last location answer the training panel needs.
+# INTERLUDE - ACT V // THE DOOR OPENS
 
-**KEEP:** D3 + Case 05 code + Case 28 word + your Field Detective ID.
+The old service map gives you the last location answer the sealed panel needs.
 
-# INTERLUDE — ACT V // THE DOOR OPENS
+Mimi closes the archive file and points at your Case Wall.
 
-D3 is written on the Case Wall beside **ASSUMPTIONS** and **BALL–STAR–BOLT–HEART**.
+"No new clue now," she says. "Bring what you already earned."
 
-Mimi adds one final card.
+Take page 9, your Recruit Credential and your completed Case 05 code into the final case.
 
-It is blank except for two words:
-
-**YOUR CALL SIGN**
-
-Nobody reaches for a new clue.
-
-There is not one.
-
-## EVERYTHING YOU NEED IS ALREADY IN THE BOOK.
-
-**THE QUESTION NOW:** Can the final panel be completed using only evidence you already earned?
-
-### WHAT THE FILES ACTUALLY PROVE
-
-- Rule Zero supplies the missing word.
-- Case 29 supplies D3.
-- Case 05 supplies the locker sequence.
-- Your Field Detective ID supplies the call sign.
-- The portable certification rack still has five current badges and one empty field hook.
-
-### HAPPY MAKERS CHAT
-
-- **BIBI:** No more hints from me.
-- **LULI:** Good. The evidence is enough.
-- **NINI:** Nervous-trampoline stomach is still allowed.
-- **DILO:** Victory noise remains on standby.
-- **MIMI:** Detective, take the final file.
-
-### YOUR MOVE
-
-Bring your Field Detective ID.
-
-Bring the Case 05 code.
-
-Bring the Case 28 word.
-
-Bring D3.
-
-**CASE WALL STATUS:** FINAL CHECK READY
-
----
 
 # ACT 5 // THE DOOR OPENS
 
-The door is real. The rule is restored. The access coordinate is earned. The last case does not ask for a brilliant new guess — only whether you kept enough evidence to finish what the old Academy started. This is where careful record-keeping pays off, and where Dilo may have to admit that filing was useful after all.
+No more new evidence.
+
+The final door will open - or stay closed - on the work you already did.
+
 
 ## CASE 30 // THE MYSTERY OF ROOM ZERO
 
@@ -2239,7 +1529,7 @@ The door is real. The rule is restored. The access coordinate is earned. The las
 
 ### CASE FILE // WHAT HAPPENED
 
-The sealed training-room panel lights up. Mimi places the same portable certification rack beside it: five field badges filled, hook 06 still empty. Nothing on the panel asks for a new guess. Every field points backward into work you already completed. The rule word. The access coordinate. Dilo’s locker sequence. The call sign you chose at the beginning. If your book has done its job, so have you.
+The access coordinate brings the squad to the sealed panel behind the Archive. It lights up, but instead of giving you a new riddle it asks for four things your own case files should already contain: the Rule Zero word, the access coordinate, Dilo's six-symbol locker code and the call sign on your Recruit Credential. This is not a last-minute trick. It is the moment the Academy finds out whether you kept enough evidence to finish what the old route started.
 
 ### YOUR OBJECTIVE
 
@@ -2247,9 +1537,9 @@ The sealed training-room panel lights up. Mimi places the same portable certific
 
 ### INVESTIGATION RULES
 
-- Do not invent a new answer. Every final field comes from earlier work.
-- Use Case 28 for RULE, Case 29 for ROOM, Case 05 for CODE, and your Field Detective ID for DETECTIVE.
-- Use the same official call sign you chose at the beginning.
+- Every final field comes from earlier work; do not invent a new answer.
+- Use Case 28 for RULE, Case 29 for ROOM, Case 05 for CODE and your Recruit Credential for DETECTIVE.
+
 ### HAPPY MAKERS CHAT
 
 - **MIMI:** No new clues. No last-minute tricks. Everything you need is already yours.
@@ -2260,11 +1550,7 @@ The sealed training-room panel lights up. Mimi places the same portable certific
 
 ### EVIDENCE / PUZZLE TEXT
 
-### FINAL FOUR CHECKS
-- **RULE** — Complete Rule Zero.
-- **ROOM** — Enter the access coordinate earned on the service-level map.
-- **CODE** — Enter Dilo's four-symbol locker sequence.
-- **DETECTIVE** — Write your OFFICIAL CALL SIGN from your Field Detective ID.
+
 
 ### YOUR VERDICT / RESPONSE
 
@@ -2272,18 +1558,6 @@ The sealed training-room panel lights up. Mimi places the same portable certific
 **ROOM:** ____________________
 **CODE:** ____________________
 **DETECTIVE:** ____________________
-
-### CASE RESULT
-
-Every final field matches evidence already in your book. The training panel accepts the record, and the empty sixth hook can finally move from invitation to certification.
-
-### KEEP THIS / SIGNAL LOG
-
-**MEMBER-30 // FIELD SLOT 06 // CERTIFICATION EARNED**
-
-There was an empty place at the beginning. The Academy could offer it. Only your work could fill it.
-
-**NEXT:** use the same OFFICIAL CALL SIGN on your certificate.
 
 # ROOM ZERO // THE EXPLANATION
 
@@ -2301,7 +1575,7 @@ The oldest screen in the room flickers awake. A dated routing log appears beside
 
 ## THE SHORT VERSION
 
-**Room Zero was an unfinished Academy training route built around Rule Zero: detectives begin with zero assumptions and let evidence lead the way. The old intake system reopened that route for the unassigned sixth field slot, routed real case files into your path and waited for you to finish what the earlier Academy never completed.**
+**Room Zero was an unfinished Academy training route built around Rule Zero: detectives begin with zero assumptions and let evidence lead the way. When the unassigned sixth field slot became active, the old system attached that unfinished route to real cases already entering the Academy, reopened a few archived records when needed and waited for a recruit to finish what the earlier Academy never completed.**
 
 Alio looks at the screen.
 
@@ -2318,14 +1592,14 @@ Alio looks at the screen.
 - **LULI:** And it was not a secret room number planted into every case. **Zero** was the starting rule: **ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.**
 
 - **MIMI:** The modern Academy restarted the unfinished route in two steps. First, the roster found field position 06 unassigned and released the stored black-envelope invitation.
-- **DILO:** Then you solved Case 01, Mimi logged the verified result and the old routing queue switched from “waiting” to “go.”
-- **ALIO:** Did it make the trophy disappear?
+- **DILO:** Then Mimi filed Case 01, and the dormant route switched from **waiting** to **watching the Academy case log**.
+- **ALIO:** Did it put the trophy back in the display case?
 - **EVERYONE:** No.
-- **DILO:** It did not switch labels, move trophies, confuse witnesses or stage fake mysteries either.
-- **LULI:** Those incidents were real. The system selected real new calls and archived records that matched its unfinished training route.
-- **MIMI:** It routed those files in sequence, used the old Academy mark on Academy-controlled paperwork and saved the evidence the investigation generated.
+- **DILO:** It did not return trophies, switch labels, confuse witnesses or stage fake mysteries either.
+- **LULI:** Those incidents were real. Staff, visitors and the Happy Makers brought them to the Academy for ordinary reasons.
+- **MIMI:** Once a real case entered the Academy system, the old route could link compatible records to its unfinished training sequence, preserve selected evidence and reopen an archived file when the next step needed one.
 - **DILO:** Including my completely excellent locker sequence.
-- **LULI:** Including **BALL–STAR–BOLT–HEART**.
+- **LULI:** Including **BALL–STAR–BOLT–HEART–KEY–MOON**.
 
 - **NINI:** But the machine still could not solve a single case.
 - **MIMI:** You placed the witnesses.
@@ -2479,7 +1753,8 @@ Look across the whole scene, not just the center. Small changes can appear in te
 Start with Echo. Row 2 plus column A fixes A2.
 
 ## CASE 05
-Treat STAR and BOLT as one two-symbol block because BOLT comes immediately after STAR.
+Treat **STAR -> BOLT** as one two-symbol block. Do not split them.
+
 
 ## CASE 06
 Start with Scout. Row 3 plus column E gives an exact square.
@@ -2577,7 +1852,8 @@ Compare the number card, paper details, chair, cup, gift area, shoeprint, wall, 
 Zuri's Pickup Tent plus row-4 clue and Clover's Packing Room plus row-5 clue are strong anchors.
 
 ## CASE 05
-STAR cannot be first, so the STAR-BOLT block cannot occupy positions 1-2.
+BALL must be somewhere before the STAR-BOLT block. HEART must be after it. KEY cannot sit at either end, and MOON must come after KEY.
+
 
 ## CASE 06
 Then place Arlo and Vale. Their room clues sharply reduce the free rows and columns.
@@ -2673,7 +1949,8 @@ There are exactly TEN differences. Sweep from top left to bottom right and check
 Pixel is forced to E1 in the Pickup Tent. Which single person shares that final room?
 
 ## CASE 05
-BALL must be before HEART, forcing BALL, STAR, BOLT, HEART.
+Use the one-symbol gap between HEART and MOON. Only one arrangement lets KEY sit between them while every earlier clue still works.
+
 
 ## CASE 06
 Once Hugo is forced into the Dinosaur Gallery, check who is the only person sharing Uma's final space.
@@ -2719,7 +1996,6 @@ Mack must be south-west of Ollie. Check who ends with Sasha.
 
 ## CASE 20
 Demi ends in the Safety Station. Which person shares it?
-
 ## CASE 21
 The physical edge order is B-D-A-C.
 
@@ -2766,12 +2042,12 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 4. Knox takes the only remaining row and column: D2.
 5. D2 is inside Delivery, so Knox is the person we need.
 
-**CASE RESULT:** Knox was at Delivery when the black envelope emerged. Mimi logs the verified result — and the old intake desk releases the next file.
+**WHAT THIS PROVES:** Knox was at Delivery when the black envelope emerged. Mimi logs the verified result — and the old intake desk releases the next file.
 
 
 ---
 
-## CASE 02 // THE TROPHY THAT NEVER REACHED THE SHELF
+## CASE 02 // THE TROPHY THAT CAME BACK TOO EARLY
 
 **ANSWER:** Dax at D2
 
@@ -2781,7 +2057,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 4. Max is forced to E1; Ivy takes C5.
 5. Dax is the only other person sharing Max's final room, so Dax is the answer.
 
-**CASE RESULT:** Dax shared Max’s room, so Dax is the next useful witness to ask about the trophy’s return route.
+**WHAT THIS PROVES:** Dax shared Max’s room, so Dax is the next useful witness to ask about the trophy’s return route.
 
 
 ---
@@ -2801,7 +2077,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 9. PENCIL ERASER — angular / rounded.
 10. DOOR PANEL — glazed / plain.
 
-**CASE RESULT:** You verified all ten changes between the two photographs. The comparison record is now complete.
+**WHAT THIS PROVES:** You verified all ten changes between the two photographs. The comparison record is now complete.
 
 ### VERIFIED TEN DIFFERENCES
 
@@ -2818,7 +2094,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 
 ---
 
-## CASE 04 // THE CUPCAKE BOX WITH SIX ALIBIS
+## CASE 04 // THE CUPCAKE BOX MARKED EVIDENCE
 
 **ANSWER:** Zuri at F4
 
@@ -2829,26 +2105,27 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Pixel is E1 in the Pickup Tent.
 6. Zuri is the only other person sharing Pixel's final room, so Zuri is the answer.
 
-**CASE RESULT:** Zuri shared Pixel’s room when the cupcake mix-up was logged. That gives the team one sensible next interview.
+**WHAT THIS PROVES:** Zuri shared Pixel’s room when the cupcake mix-up was logged. That gives the team one sensible next interview.
 
 
 ---
 
-## CASE 05 // DILO'S CODE THAT DEFINITELY WASN'T 1234
+## CASE 05 // DILO'S CODE THAT DEFINITELY WASN'T 123456
 
-**ANSWER:** BALL → STAR → BOLT → HEART
+**ANSWER:** BALL -> STAR -> BOLT -> HEART -> KEY -> MOON
 
-1. STAR and BOLT must stay together in that order.
-2. STAR cannot be first, so the pair must occupy positions 2 and 3.
-3. BALL must be before HEART.
-4. That forces BALL, STAR, BOLT, HEART.
+1. STAR must sit immediately before BOLT, so treat them as one block.
+2. BALL must appear somewhere before that block.
+3. HEART must appear after BOLT.
+4. KEY cannot be first or last, and MOON must appear after KEY.
+5. Exactly one symbol must sit between HEART and MOON.
+6. The only order satisfying every clue is BALL -> STAR -> BOLT -> HEART -> KEY -> MOON.
 
-**CASE RESULT:** The only code that fits every clue is BALL → STAR → BOLT → HEART. The locker opens, and the active sequence is saved in the Academy session record.
-
+**WHAT THIS PROVES:** The locker accepts the six-symbol sequence and stores it in the active Academy session record.
 
 ---
 
-## CASE 06 // THE MUSEUM LABEL THAT LIED
+## CASE 06 // THE DRAGON TOOTH THAT WAS ACTUALLY A SPOON
 
 **ANSWER:** Arlo at D2
 
@@ -2859,7 +2136,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Uma is B1 in the Foyer.
 6. Arlo is the only other person with Uma, so Arlo is the answer.
 
-**CASE RESULT:** Arlo shared Uma’s room. Arlo is the next person to ask about the label switch — not automatically the person who caused it.
+**WHAT THIS PROVES:** Arlo shared Uma’s room. Arlo is the next person to ask about the label switch — not automatically the person who caused it.
 
 
 ---
@@ -2875,7 +2152,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Zoe is C6 beside the costume cart; Gray is F4.
 6. Zoe is the only other person in Gray's final space.
 
-**CASE RESULT:** Zoe shared Gray’s backstage area when the costume was last accounted for. The team now has a real contact to follow.
+**WHAT THIS PROVES:** Zoe shared Gray’s backstage area when the costume was last accounted for. The team now has a real contact to follow.
 
 
 ---
@@ -2889,7 +2166,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 3. Route C uses Costume Storage and the Side Hall, both open.
 4. Route C is the only valid shortcut.
 
-**CASE RESULT:** Route C is the only route that reaches the prop room without using a closed corridor, a locked staff door or a wall.
+**WHAT THIS PROVES:** Route C is the only route that reaches the prop room without using a closed corridor, a locked staff door or a wall.
 
 
 ---
@@ -2903,7 +2180,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 3. They occur on unrelated evidence across multiple cases.
 4. The pattern is real, but its meaning remains unknown.
 
-**CASE RESULT:** The plain 0 is a genuine recurring Academy mark. Bibi recognizes its old form, but its meaning is still unproved.
+**WHAT THIS PROVES:** The plain 0 is a genuine recurring Academy mark. Bibi recognizes its old form, but its meaning is still unproved.
 
 
 ---
@@ -2918,7 +2195,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 4. Dash is E3 in the Assembly Hall.
 5. Ember is the only other person in the Assembly Hall, so Ember is the answer.
 
-**CASE RESULT:** Ember shared Dash’s prototype area. That gives the team a contact to question before making any claim about the rover.
+**WHAT THIS PROVES:** Ember shared Dash’s prototype area. That gives the team a contact to question before making any claim about the rover.
 
 
 ---
@@ -2933,7 +2210,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 4. The phone photo record is from 08:07, so it was created outside the science-fair event window.
 5. Record D is the only timestamped record outside 15:20-16:05.
 
-**CASE RESULT:** Record D — Mimi’s 08:07 phone photo — falls outside the science-fair case window. Wrong case, useful context.
+**WHAT THIS PROVES:** Record D — Mimi’s 08:07 phone photo — falls outside the science-fair case window. Wrong case, useful context.
 
 
 ---
@@ -2949,7 +2226,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Winter is D1 in the Stage Wing.
 6. Nell is the only other person with Winter, so Nell is the answer.
 
-**CASE RESULT:** Nell shared Winter’s rehearsal area. The team has its next human contact; the parrot remains available for cracker-related statements.
+**WHAT THIS PROVES:** Nell shared Winter’s rehearsal area. The team has its next human contact; the parrot remains available for cracker-related statements.
 
 
 ---
@@ -2964,7 +2241,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 4. Willow is A1 and Remy is D6.
 5. Bodhi is the only other person in Remy's Research Lab, so Bodhi is the answer.
 
-**CASE RESULT:** Bodhi shared Remy’s room. The maintenance record gives the team a trail it can actually check.
+**WHAT THIS PROVES:** Bodhi shared Remy’s room. The maintenance record gives the team a trail it can actually check.
 
 
 ---
@@ -2979,7 +2256,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 4. NOAH claims the same move happened between 16:10 and 16:12.
 5. His memory is the impossible one. It can be mistaken without being dishonest.
 
-**CASE RESULT:** Noah’s two-minute Stage-to-Dressing memory cannot fit a route that takes four minutes. The memory is mistaken; that is not the same as dishonest.
+**WHAT THIS PROVES:** Noah’s two-minute Stage-to-Dressing memory cannot fit a route that takes four minutes. The memory is mistaken; that is not the same as dishonest.
 
 
 ---
@@ -2995,7 +2272,8 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Milo is A1 in the Games Cabin.
 6. Harper is the only other person in Milo's Games Cabin, so Harper is the answer.
 
-**CASE RESULT:** Harper shared Milo’s room when the backpack mix-up was recorded. The team can now trace the handoff calmly.
+**WHAT THIS PROVES:** Harper shared Milo’s room when the backpack mix-up was recorded. The team can now trace the handoff calmly.
+
 
 ---
 
@@ -3010,7 +2288,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Of the three offered years, only 2002 satisfies every clue.
 6. The back of the photograph adds the unexplained message: RULE 0 FIRST.
 
-**CASE RESULT:** The photograph was taken at the Old Academy Annex in 2002. On the reverse is Bibi’s own handwritten line: RULE 0 FIRST.
+**WHAT THIS PROVES:** The photograph was taken at the Old Academy Annex in 2002. On the reverse is Bibi’s own handwritten line: RULE 0 FIRST.
 
 
 ---
@@ -3026,7 +2304,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Reed is C2 in the Main Corridor.
 6. Axel is the only other person in Reed's final area.
 
-**CASE RESULT:** Axel shared Reed’s railway area. The contact is established; the clocks still need a separate check.
+**WHAT THIS PROVES:** Axel shared Reed’s railway area. The contact is established; the clocks still need a separate check.
 
 
 ---
@@ -3041,7 +2319,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 4. Cafe 15:11 becomes real 15:18.
 5. The only order is A, B, C, D.
 
-**CASE RESULT:** The corrected order is A → B → C → D. The suspicious 0:07 is only a clock offset — a useful false lead.
+**WHAT THIS PROVES:** The corrected order is A → B → C → D. The suspicious 0:07 is only a clock offset — a useful false lead.
 
 
 ---
@@ -3057,7 +2335,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Sasha is B6 in the Returns Hall.
 6. Mack is the only other person in Sasha's final area.
 
-**CASE RESULT:** Mack shared Sasha’s scanner area. The record gives the team a next contact, but not a culprit.
+**WHAT THIS PROVES:** Mack shared Sasha’s scanner area. The record gives the team a next contact, but not a culprit.
 
 
 ---
@@ -3073,7 +2351,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Demi is G3 in the Safety Station.
 6. Pax is the only other person in Demi's final room.
 
-**CASE RESULT:** Pax shared Demi’s studio room. Keep the entire solved map: the other placements may matter later.
+**WHAT THIS PROVES:** Pax shared Demi’s studio room. Keep the entire solved map: the other placements may matter later.
 
 
 ---
@@ -3087,7 +2365,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 3. D joins A, then A joins C.
 4. The completed note reads: THE ANSWER IS IN WHAT YOU LEAVE EMPTY.
 
-**CASE RESULT:** The pieces rebuild to: THE ANSWER IS IN WHAT YOU LEAVE EMPTY. For the first time, the larger mystery tells you exactly what kind of absence to test.
+**WHAT THIS PROVES:** The pieces rebuild to: THE ANSWER IS IN WHAT YOU LEAVE EMPTY. For the first time, the larger mystery tells you exactly what kind of absence to test.
 
 
 ---
@@ -3103,7 +2381,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Zara is A2 in the Rehearsal Room.
 6. Cody is the only other person in Zara's final room.
 
-**CASE RESULT:** Cody shared Zara’s music-room area. Keep the whole map, not just Cody’s name.
+**WHAT THIS PROVES:** Cody shared Zara’s music-room area. Keep the whole map, not just Cody’s name.
 
 
 ---
@@ -3119,7 +2397,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Rae is F6, exactly two columns east of Cora.
 6. Rae is the only other person in Jude's final room.
 
-**CASE RESULT:** Rae shared Jude’s area. The local enquiry has a next contact, and the full map joins the growing evidence set.
+**WHAT THIS PROVES:** Rae shared Jude’s area. The local enquiry has a next contact, and the full map joins the growing evidence set.
 
 
 ---
@@ -3133,7 +2411,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 3. That sequence runs from the East Path toward the West Gate.
 4. The tread arrow is a pattern on the sole, not proof of walking direction.
 
-**CASE RESULT:** The walk went from EAST PATH to WEST GATE. The fading mud tells the truth; the decorative tread arrow does not.
+**WHAT THIS PROVES:** The walk went from EAST PATH to WEST GATE. The fading mud tells the truth; the decorative tread arrow does not.
 
 
 ---
@@ -3149,7 +2427,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Nori is A4 in the Lobby.
 6. Casey is the only other person in Nori's final room.
 
-**CASE RESULT:** Casey shared Nori’s room. With this map complete, the fourteen spatial records needed for the next test are finally ready.
+**WHAT THIS PROVES:** Casey shared Nori’s room. With this map complete, the fourteen spatial records needed for the next test are finally ready.
 
 
 ---
@@ -3163,7 +2441,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 3. The fourteen letters are C H E C K T H E O L D M A P.
 4. The hidden instruction is CHECK THE OLD MAP.
 
-**CASE RESULT:** The empty ROOM initials spell CHECK THE OLD MAP. The message was hiding in work you had already finished.
+**WHAT THIS PROVES:** The empty ROOM initials spell CHECK THE OLD MAP. The message was hiding in work you had already finished.
 
 
 ---
@@ -3178,7 +2456,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 4. The old sealed training room lands directly behind the current Archive wall.
 5. The note says RULE FIRST, ROOM SECOND.
 
-**CASE RESULT:** The old training room still exists behind the current Archive wall, sealed by renovation rather than erased from history.
+**WHAT THIS PROVES:** The old training room still exists behind the current Archive wall, sealed by renovation rather than erased from history.
 
 
 ---
@@ -3192,7 +2470,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 3. Move the secret watcher and guaranteed tunnel into UNSUPPORTED ASSUMPTION.
 4. The restored rule is ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.
 
-**CASE RESULT:** Rule Zero is restored: ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.
+**WHAT THIS PROVES:** Rule Zero is restored: ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.
 
 
 ---
@@ -3209,23 +2487,23 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 6. Vega is the only other person in Seth's final area.
 7. The final access coordinate is D3.
 
-**CASE RESULT:** Vega is Seth’s room companion, and Vega’s coordinate is D3. The final access coordinate is earned.
+**WHAT THIS PROVES:** Vega is Seth’s room companion, and Vega’s coordinate is D3. The final access coordinate is earned.
 
 
 ---
 
 ## CASE 30 // THE MYSTERY OF ROOM ZERO
 
-**ANSWER:** ASSUMPTIONS / D3 / BALL–STAR–BOLT–HEART / reader’s official call sign
+**ANSWER:** ASSUMPTIONS / D3 / BALL–STAR–BOLT–HEART–KEY–MOON / reader’s official call sign
 
 1. Complete Rule Zero with ASSUMPTIONS.
 2. Use D3 from Case 29.
-3. Use BALL, STAR, BOLT, HEART from Case 05.
+3. Use BALL, STAR, BOLT, HEART, KEY, MOON from Case 05.
 4. Use the OFFICIAL CALL SIGN already written on your single Field Detective ID.
 5. The same portable field rack has five current badges and empty hook 06. Bibi is mentor, outside the field slots.
 6. The matching record certifies the reader as Detective Six.
 
-**CASE RESULT:** Every final field matches evidence already in your book. The routing log closes the Room Zero mystery, and the sixth field badge is certified to your call sign.
+**WHAT THIS PROVES:** Every final field matches evidence already in your book. The routing log closes the Room Zero mystery, and the sixth field badge is certified to your call sign.
 
 
 ---
@@ -3238,7 +2516,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 - Case 03 remains exact-ten differences. Never revert to the obsolete three-difference mechanic.
 - Chats are never evidence.
 - Shared-room/contact conclusions are leads, not guilt.
-- No case may lose CASE FILE // WHAT HAPPENED, YOUR OBJECTIVE, rules where needed, HM Chat, mechanic-specific response surface, CASE RESULT and KEEP THIS/SIGNAL LOG where applicable.
+- No case may lose CASE FILE // WHAT HAPPENED, YOUR OBJECTIVE, rules where needed, HM Chat, mechanic-specific response surface, the mechanic-specific response surface and any explicitly required CASE WALL update.
 - Final layout must use one coordinate-label system only. Remove duplicated legacy micro-coordinates when the readable external coordinate system is present.
 - Case 03 INTAKE-03 is a neutral routed comparison record. Do not invent an extra printed 0 on the owner-controlled photo art. The first Act recap uses four matching marks across five routed files.
 - Case 26 display title in V2 is THE CASE OF THE EMPTY ROOMS; internal case identity remains CASE 26.
@@ -3246,7 +2524,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 - Evidence Grid / scanner-question-mark design language belongs to layout; it must never obscure copy or become decorative clutter.
 - Do not shrink or delete text to preserve an arbitrary historical page count. Reflow first.
 
-- V2 uses CASE RESULT rather than CASE CLOSED for ordinary files because many spatial cases establish the next contact rather than fully resolving the real-world incident. ROOM ZERO itself may use CASE CLOSED at the finale.
+- Reader-facing ordinary cases do not print an immediate answer/result block. Verdicts remain unconfirmed in the main story; official answers and reasoning live in the upside-down Solution Files. ROOM ZERO may close explicitly at the finale.
 
 
 ---
@@ -3266,14 +2544,15 @@ Every case must preserve this sequence. A layout may flow across two, three or f
 5. **HAPPY MAKERS CHAT** — 3-5 short beats; personality, humor, relationship, useful thinking; never secret evidence.
 6. **EVIDENCE / PUZZLE SURFACE** — Witness Board, map, photo pair, code, timeline, document, cards or overlay.
 7. **YOUR VERDICT / RESPONSE** — mechanic-specific response surface. Never substitute a generic one-line field.
-8. **CASE RESULT** — one clear sentence explaining what the deduction actually proves.
-9. **KEEP THIS / SIGNAL LOG** — only a genuinely reusable record, meta clue, false lead or next action.
+8. **OPTIONAL CASE WALL UPDATE** — only when the story explicitly needs a reusable meta clue. It must say **CASE WALL -> PAGE 9** and name the exact zone/item to copy.
+
+Reader-facing answers and reasoning do **not** appear immediately after the case. They live only in the upside-down Hint Vault / Solution Files at the back.
 
 ### Child experience test
 
 At any point the reader should be able to answer:
 
-**What happened? -> What am I proving? -> What rules apply? -> What does the team notice? -> What evidence do I use? -> How do I record my answer? -> What did I prove? -> What should I keep?**
+**What happened? -> What am I proving? -> What rules apply? -> What does the team notice? -> What evidence do I use? -> How do I record my answer? -> Does this case explicitly tell me to update the Case Wall?**
 
 ## A2 // PAGE-FAMILY BLUEPRINTS
 
@@ -3296,8 +2575,7 @@ At any point the reader should be able to answer:
 - no grey-zone wording unless a visible grey semantic exists
 - exact approved props / no thin-line fallback art
 - PERSON / WITNESS + COORDINATE response
-- CASE RESULT
-- KEEP THIS / SIGNAL LOG
+- optional **CASE WALL -> PAGE 9** callout only when a real meta clue must be copied
 
 ### FAMILY V // VISUAL / PHOTO / SEQUENCE CASE
 
@@ -3306,7 +2584,7 @@ At any point the reader should be able to answer:
 - response happens **on the evidence** whenever possible
 - Case 03: mark all ten differences directly; only `ALL 10 FOUND` as completion control
 - no pointless single-line answer field
-- result and signal sit after the visual solve
+- do not print the answer after the visual solve; any reusable meta instruction must be separate from the answer
 
 ### FAMILY C // CODE / ROUTE / TIMELINE / CLASSIFICATION
 
@@ -3362,7 +2640,7 @@ Later layout work must not:
 - replace mechanic-specific response surfaces with a generic line;
 - reintroduce stale names or old Case 03 mechanics;
 - invent new Room Zero marks/signals to fill space;
-- delete KEEP THIS instructions needed by later meta logic.
+- delete an explicit CASE WALL -> PAGE 9 instruction needed by later meta logic.
 
 **Reflow before cutting copy. Add a page before deleting an earned story beat.**
 
@@ -3412,8 +2690,8 @@ Every main case was checked against the fixed case blueprint.
 - HAPPY MAKERS CHAT: **30/30**.
 - EVIDENCE / PUZZLE TEXT: **30/30**.
 - Mechanic-specific response surface: **30/30**.
-- CASE RESULT: **30/30**.
-- KEEP THIS / SIGNAL LOG: **30/30**.
+- Reader-facing immediate answer/reveal block: **0/30 by design**.
+- Optional explicit Case Wall updates: **only on meta-critical cases/interludes**.
 - Spatial map family retains Witness Board / Live Case Map where the mechanic requires it.
 - Case 03 response is direct-on-image, not a generic answer line.
 - Case 26 uses fourteen letter cells.
@@ -3422,6 +2700,72 @@ Every main case was checked against the fixed case blueprint.
 **Editorial conclusion:** the text architecture is complete enough for a final owner reading pass. Do not start renderer consolidation until the owner accepts this V3 text candidate.
 
 
+
+# PRODUCTION APPENDIX F // ACADEMY WORLD + CASE SOURCE MAP - NOT READER-FACING
+
+The reader should feel that all 30 files belong to one lived-in Academy world over multiple days, not to thirty unrelated worksheets.
+
+| Case | Story source / location |
+|---|---|
+| 01 | Academy Intake Desk / black-envelope training file |
+| 02 | Live internal alert from Academy Trophy Hall |
+| 03 | Photo pair inside the same Trophy Hall file |
+| 04 | Academy Open Night courtyard / Forensic Kitchen demo |
+| 05 | Dormant evidence locker under the Case Table |
+| 06 | Academy Heritage Gallery / archive route |
+| 07 | Academy Undercover Training Wing |
+| 08 | Direct route through the Undercover Wing to the prop room |
+| 09 | Academy Case Wall / Bibi recognizes old form |
+| 10 | Academy Tech Lab walk-in rover dispute |
+| 11 | Tech Lab evidence cleanup / Mimi's case bag |
+| 12 | Academy community theatre + animal-care demonstration |
+| 13 | Academy Field Research Wing maintenance file |
+| 14 | Academy Scenario Theatre witness-memory check |
+| 15 | Academy field-skills departure / backpack handoff |
+| 16 | Bibi returns from Academy archive with old photograph |
+| 17 | Riverside Station while travelling to Old Academy Annex records |
+| 18 | Direct continuation of the station ticket timestamps |
+| 19 | Academy Media Library scanner error |
+| 20 | Academy Flight Simulation Wing / paint crew record |
+| 21 | Night-time intake-printer event inside Academy |
+| 22 | Academy Sound Lab instrument-case mix-up |
+| 23 | Academy field-observation challenge at nearby Adventure Park |
+| 24 | Academy outdoor tracking yard on the walk back |
+| 25 | Academy Guest House parcel routing |
+| 26 | Case Room / fourteen saved maps become evidence |
+| 27 | Archive old-map overlay inside Academy |
+| 28 | Sealed-room evidence / Rule Zero reconstruction |
+| 29 | Old service-level access record |
+| 30 | Sealed panel behind modern Archive wall |
+
+### Source-variety lock
+
+Do not make every case come from the printer.
+
+Across the book, cases begin through:
+- the intake printer;
+- a live internal alert;
+- a staff member walking up to the Case Table;
+- something the team notices on the way through the Academy;
+- a community/partner request nearby;
+- a direct continuation of the previous case;
+- a historical archive record;
+- a planned field exercise that unexpectedly produces a real problem.
+
+The transitions must make time pass naturally: later that evening, next morning, two days later, weekend field exercise, on the way back, late that night.
+
+### Narrative compression lock
+
+Do not repeat:
+- the objective after the objective box;
+- a rule inside both prose and the rule list;
+- the answer after the response surface;
+- the same Room Zero fact in intro + chat + summary;
+- Case Wall instructions unless an item truly belongs on page 9.
+
+The official result and deduction reasoning live in the back-of-book Solution Files.
+
+---
 
 # PRODUCTION APPENDIX C // ANSWER-NAME INTEGRITY AUDIT — NOT READER-FACING
 
@@ -3492,4 +2836,4 @@ Contact-case purpose is explicit: finding a room companion identifies the next u
 
 Non-contact cases state what the mechanic resolves and why that result matters next.
 
-The main plot does not interrupt every local mystery with Room Zero exposition. Instead, the larger story advances through routed files, preserved records, interludes and earned callbacks so the child experiences one detective novel built from thirty playable cases.
+The main plot does not interrupt every local mystery with Room Zero exposition. Instead, the larger story advances through routed files, preserved records, interludes and earned callbacks so the child experiences one detective novel built from thirty playable cases.The main plot does not interrupt every local mystery with Room Zero exposition. Instead, the larger story advances through routed files, preserved records, interludes and earned callbacks so the child experiences one detective novel built from thirty playable cases.
