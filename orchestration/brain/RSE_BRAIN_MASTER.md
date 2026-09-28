@@ -1010,3 +1010,32 @@ baseline CI -> KDP/app parity -> editorial/claims safety -> product-truth cleanu
 Central already removed tracked `.env` from the revival branch, added env ignore protection + `.env.example`, CI workflow and `CODEX_START_HERE.md`. Do not expose historical environment values. If any privileged historical secret exists, rotate it rather than printing it.
 
 No merge, KDP publication, Play publication or production Supabase change without owner gate.
+
+
+## Detective V3 narrative cleanup — 2026-09-28
+
+Active text master remains:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical text commit:
+`76519a78cabf2a45dde07b8747b2339b0b97644c`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-28-detective-v3-narrative-cleanup.md`
+
+Owner-driven cleanup now locked:
+- recruit credential has no field position; one `MY BEST DETECTIVE SKILL` field;
+- no immediate reader-facing CASE RESULT/answer duplication after cases;
+- answers/reasoning only in upside-down Hint Vault/Solution Files;
+- Case Wall is page 9 and stores only explicitly requested reusable meta evidence, never every verdict;
+- Case 03 instruction de-duplicated;
+- Case 05 restored to six-symbol code `BALL -> STAR -> BOLT -> HEART -> KEY -> MOON`;
+- Case 01 stale hint aliases removed;
+- Academy story world now explicitly spans specialist wings, staff requests, field exercises, nearby partner sites, direct witnessed incidents and occasional intake-system routing across multiple days/weeks;
+- Case 04 upgraded from cupcake mix-up to `THE EVIDENCE BOX IN THE WRONG TENT` while preserving the exact same locked spatial puzzle;
+- main-case intros remain narrative prose, not worksheet fragments;
+- solution files use one short `WHY IT MATTERS` consequence rather than duplicating the solved answer.
+
+Do not revert any of these changes in later renderer/Codex work.
+
+Detective layout integration remains PAUSED pending owner text approval.
