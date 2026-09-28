@@ -1119,3 +1119,36 @@ Next safe Detective action:
 integrate the exact V3 blob into the production book factory, hydrate exact locked evidence surfaces, rerun all answer/name/clue/coordinate regressions, render the complete final interior using actual page count, run KDP preflight + full human visual audit, then representative physical proof. Do not cut text merely to preserve the historical 146-page count.
 
 English remains NOT FROZEN. Merge, physical-proof approval, explicit EN freeze and KDP publication remain owner gates.
+
+
+## Detective V3 story-flow + WOW pass — 2026-09-28
+
+Canonical text remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical story-flow/WOW text commit:
+`367a8c994890e2dc4e064226e412d0d9476f9f38`
+
+Canonical text blob:
+`6278c8cf60159b35daa259c489f250da43cea397`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-28-detective-story-flow-wow-pass.md`
+
+Status:
+**FINAL STORY-FLOW + WOW TEXT MASTER / PRODUCTION INTEGRATION AUTHORIZED / EN NOT FROZEN.**
+
+Owner-directed final narrative pass now locks:
+- 29/29 Case -> next Case transitions as causally bridged, deliberately parallel or explicitly time-shifted;
+- no repeated mission instruction across CASE FILE + OBJECTIVE + HM Chat;
+- richer Happy Makers dialogue (humor/teasing/relationships/thinking habits; chats are never secret evidence);
+- every explicit Case Wall save has a later on-page payoff;
+- Case 03 #1 017/071 delayed archive-routing payoff in Case 06;
+- Case 16/21 -> Room Zero reveal that Bibi authored the old torn route note as a trainee;
+- Case 25 Archive Restoration parcel -> Case 27 overlay tools;
+- Case 24 loud-arrow/quiet-mud lesson -> Rule Zero theme;
+- post-Book-1 ARCHIVE FILE 001 triangle symbol must match the existing approved Case 03 #8 changed-triangle pattern WITHOUT modifying owner-controlled Case 03 art.
+
+Locked puzzle truth is unchanged: exact-ten Case 03, six-symbol Case 05, Case 21 message, Case 26 CHECK THE OLD MAP, Rule Zero, D3 and final reader call-sign field.
+
+Next safe action remains production integration/hydration -> full render/regression/KDP preflight -> human visual audit -> physical proof -> explicit EN freeze.
