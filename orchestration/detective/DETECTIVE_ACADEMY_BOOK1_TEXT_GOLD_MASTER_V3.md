@@ -1,8 +1,8 @@
 # HAPPY MAKERS DETECTIVE ACADEMY
 ## THE MYSTERY OF ROOM ZERO — BOOK 1
-### TEXT-ONLY GOLD MASTER V3 // FINAL TEXT CANDIDATE // 1000% STORY + LOGIC AUDIT
+### TEXT-ONLY GOLD MASTER V3 // FINAL TEXT MASTER // KDP PRODUCTION INTEGRATION SOURCE
 
-**Status:** Central RSE Technical Orchestrator FINAL TEXT CANDIDATE for owner review. This is the same V3 version family, audited end-to-end for story continuity, repetition, grammar, puzzle/answer consistency, Hint Vault continuity and finale logic. Layout/render integration remains paused until explicit owner approval.
+**Status:** FINAL TEXT MASTER FOR PRODUCTION INTEGRATION. This remains the same V3 version family. The owner-directed end-to-end reader audit is complete for story continuity, repetition, grammar, puzzle/answer consistency, Hint Vault continuity and finale logic. Production renderer integration is authorized as the next step. English remains **NOT FROZEN** until the exact hydrated interior passes final regression, print/KDP preflight, representative physical proof and explicit owner freeze.
 
 **Authority rule:** current locked puzzle mechanics, answers, Case 03 exact-ten art contract, Room Zero chain and reverse-entry behavior remain unchanged. V3 consolidates the red-teamed narrative with the final opening sequence, fixed case architecture and mechanic-specific response contract. Layout must serve this copy; it may not silently shorten or flatten it.
 
@@ -401,7 +401,7 @@ Your Recruit Credential is barely signed when Mimi slides the black-envelope fil
 
 ### CASE FILE // WHAT HAPPENED
 
-Your first verdict is sealed into the training file. Before Mimi can close the folder, the Trophy Hall sends a live alert: the Founders' Cup is back in its display case, but Max's return form was never completed. Somebody handled the trophy between Max's last verified check and its unexplained reappearance. Max is the last person tied to the Cup by a verified record, but the log cannot show what happened next. Rebuild the Trophy Hall around him; the one person in the room with Max is the best witness to the missing handoff.
+Your first verdict is sealed into the training file. Before Mimi can close the folder, the Trophy Hall sends a live alert: the Founders' Cup is back in its display case, but Max - who signed it out for a Hall demonstration - never completed the return form. Somebody handled the trophy between Max's last verified check and its unexplained reappearance. Max is the last person tied to the Cup by a verified record, but the log cannot show what happened next. Rebuild the Trophy Hall around him; the one person in the room with Max is the best witness to the missing handoff.
 
 ### YOUR OBJECTIVE
 
@@ -1068,7 +1068,7 @@ The ticket contact gives the station staff someone to ask, but the timestamps in
 
 ### CASE FILE // WHAT HAPPENED
 
-Back at the Academy, Luli heads to the Media Library to compare the Annex records with the current archive database. The librarian meets her at the door with a different mystery: the system says a rare book checked itself out even though the book never left the shelf. Sasha is the fixed contact on the scanner log. Rebuild the area around that scan; the person with Sasha may have seen whether the scanner was used, bumped or simply confused.
+Once the station timeline is sorted, the squad continues to the Old Academy Annex, copies the relevant archive records and returns to the Academy. Luli heads to the Media Library to compare those Annex records with the current archive database. The librarian meets her at the door with a different mystery: the system says a rare book checked itself out even though the book never left the shelf. Sasha is the fixed contact on the scanner log. Rebuild the area around that scan; the person with Sasha may have seen whether the scanner was used, bumped or simply confused.
 
 ### YOUR OBJECTIVE
 
@@ -1195,7 +1195,7 @@ You are no longer collecting more examples of the pattern. You are testing what 
 
 ### CASE FILE // WHAT HAPPENED
 
-The rebuilt note changes the investigation, but Luli refuses to test it while several spatial files are still open. The next morning the Academy Sound Lab provides one of them when three nearly identical instrument cases are returned to the wrong shelves after rehearsal. Zara is the fixed contact. Rebuild the Rehearsal Room around her; the person beside Zara may remember which instrument case was there before the shelves were mixed, and your completed map becomes part of the growing set.
+The rebuilt note changes the investigation, but Luli refuses to test it against a partial map set. The next morning the Academy Sound Lab provides one of them when three nearly identical instrument cases are returned to the wrong shelves after rehearsal. Zara is the fixed contact. Rebuild the Rehearsal Room around her; the person beside Zara may remember which instrument case was there before the shelves were mixed, and your completed map becomes part of the growing set.
 
 ### YOUR OBJECTIVE
 
@@ -1327,7 +1327,7 @@ By the time the squad reaches the Academy Guest House, one last spatial file is 
 
 # INTERLUDE - ACT IV // ROOM ZERO
 
-Fourteen completed spatial maps now cover the Case Table.
+Your case file now contains fifteen solved spatial maps in total. The Case 01 intake map started the route, but Case 26 does not use it in the empty-room extraction. The fourteen route-selected maps now cover the Case Table.
 
 For the first time, the team is not waiting for a new file.
 
@@ -1338,9 +1338,9 @@ It is going back into old ones.
 - **MIMI:** We kept the full placements. Good.
 - **ALIO:** I also kept several excellent doodles.
 - **LULI:** Those will not be entering evidence.
-- **NINI:** Case 26 tells us exactly what to test.
+- **NINI:** Case 26 tells us exactly which fourteen maps to test.
 
-Open Case 26 with the fourteen completed maps beside you.
+Open Case 26 with the route-selected maps beside you.
 
 
 ## CASE 26 // THE CASE OF THE EMPTY ROOMS
@@ -1350,7 +1350,7 @@ Open Case 26 with the fourteen completed maps beside you.
 
 ### CASE FILE // WHAT HAPPENED
 
-Nini locks the Case Room door, clears the table and lays out fourteen maps you have solved across the investigation. Beside them she places the sentence you rebuilt in Case 21. Now the strange instruction can be tested instead of discussed. On each listed map, find the one named **ROOM** containing zero people, take its first letter and read the letters in case order.
+Nini locks the Case Room door, clears the table and lays out the fourteen maps named for this extraction. Your Case 01 intake map stays clipped to the recruitment file: it started the route, but it is not on this list. Beside the selected maps she places the sentence you rebuilt in Case 21. Now the strange instruction can be tested instead of discussed. On each listed map, find the one named **ROOM** containing zero people, take its first letter and read the letters in case order.
 
 ### YOUR OBJECTIVE
 
@@ -1358,7 +1358,7 @@ Nini locks the Case Room door, clears the table and lays out fourteen maps you h
 
 ### INVESTIGATION RULES
 
-- Use only the fourteen completed spatial cases listed on this page.
+- Use only the fourteen completed spatial cases listed on this page. Case 01 is not part of this extraction set.
 - In each final map, find the one named ROOM containing zero people.
 - Record the first letter of each empty ROOM in case order.
 
@@ -1611,8 +1611,9 @@ Alio looks at the screen.
 - **NINI:** Which means the machine still could not solve a single case.
 - **MIMI:** You placed the witnesses.
 - **LULI:** You compared the photographs and rejected false leads.
-- **DILO:** You kept fourteen completed maps instead of throwing away the “extra” work.
-- **NINI:** You rebuilt the torn note and discovered **CHECK THE OLD MAP**.
+- **DILO:** You kept the fourteen route-selected maps instead of throwing away the “extra” work.
+- **NINI:** You rebuilt the torn note and recovered **THE ANSWER IS IN WHAT YOU LEAVE EMPTY**.
+- **LULI:** Then the empty-room initials across those solved maps gave you **CHECK THE OLD MAP**.
 - **BIBI:** You aligned the old plan, restored Rule Zero and found the sealed training room.
 - **ALIO:** And then we found **D3** on the final map.
 - **LULI:** You found D3.
@@ -1975,7 +1976,7 @@ Three independent case files plus the opening badge use the same plain 0. Treat 
 When Dash settles at E3, check who is the only other person in the Assembly Hall.
 
 ## CASE 11
-Record D is the 08:07 phone photo. It falls outside the case window, but the image still contains something interesting.
+Record D is the 08:07 phone photo. It falls outside the case window; that is enough to classify it.
 
 ## CASE 12
 Winter ends in the Stage Wing. Check the only other person there.
@@ -2351,7 +2352,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 
 ## CASE 21 // THE NOTE IN FOUR PIECES
 
-**ANSWER:** B → D → A → C
+**ANSWER:** B → D → A → C; **THE ANSWER IS IN WHAT YOU LEAVE EMPTY.**
 
 1. B must begin because it has the straight left edge.
 2. B's right notch joins D.
@@ -2494,7 +2495,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 3. Use BALL, STAR, BOLT, HEART, KEY, MOON from Case 05.
 4. Use the OFFICIAL CALL SIGN already written on your Recruit Credential.
 5. The same portable field rack has five current badges and empty hook 06. Bibi is mentor, outside the field slots.
-6. The matching record certifies the reader as Detective Six.
+6. The matching record certifies the reader as the sixth field detective.
 
 **WHY IT MATTERS:** Every final field comes from evidence the reader already earned; the Room Zero route can now certify the sixth field detective.
 
@@ -2508,6 +2509,8 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 - Spatial map geometry, clue truth, coordinates, answers and source IDs are immutable.
 - **EVIDENCE / PUZZLE TEXT hydration lock:** this text-only master intentionally does not re-transcribe locked Witness Boards, map clues, owner-controlled photo evidence or other source-authoritative puzzle payloads. The final renderer must hydrate those exact current source/raster elements into the EVIDENCE / PUZZLE TEXT surface; it must never regenerate, summarize or rewrite them from this prose master. Re-run answer-name and clue/solution consistency after hydration.
 - Case 03 remains exact-ten differences. Never revert to the obsolete three-difference mechanic.
+- Case 21 and Case 26 are a two-step causal chain: Case 21 reconstructs **THE ANSWER IS IN WHAT YOU LEAVE EMPTY**; only the fourteen route-selected spatial maps in Case 26 yield **CHECK THE OLD MAP**. Never collapse or misattribute those two deductions.
+- The Case 01 intake map starts the route but is not one of the fourteen maps used by the Case 26 empty-room extraction.
 - Chats are never evidence.
 - Shared-room/contact conclusions are leads, not guilt.
 - No case may lose CASE FILE // WHAT HAPPENED, YOUR OBJECTIVE, rules where needed, HM Chat, mechanic-specific response surface, the mechanic-specific response surface and any explicitly required CASE WALL update.
@@ -2691,7 +2694,7 @@ Every main case was checked against the fixed case blueprint.
 - Case 26 uses fourteen letter cells.
 - Case 30 uses four earned-answer fields.
 
-**Editorial conclusion:** the text architecture is complete enough for a final owner reading pass. Do not start renderer consolidation until the owner accepts this V3 text candidate.
+**Editorial conclusion:** the owner-directed final text audit is complete. This same V3 is the production-integration text master. Renderer consolidation may proceed only by hydrating exact locked evidence and preserving this copy; English source freeze still waits for the complete rendered/preflighted interior, representative physical proof and explicit owner freeze.
 
 
 
