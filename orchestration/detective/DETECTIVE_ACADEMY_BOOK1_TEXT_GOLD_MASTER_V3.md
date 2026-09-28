@@ -2513,6 +2513,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 
 - Case 01 reader-facing display aliases in this text master: ARI→QUILL, BEA→MORSE, COLE→PIP, DANI→KNOX. Internal source identities remain unchanged until the owner/source integration pass confirms the current local alias layer.
 - Spatial map geometry, clue truth, coordinates, answers and source IDs are immutable.
+- **EVIDENCE / PUZZLE TEXT hydration lock:** this text-only master intentionally does not re-transcribe locked Witness Boards, map clues, owner-controlled photo evidence or other source-authoritative puzzle payloads. The final renderer must hydrate those exact current source/raster elements into the EVIDENCE / PUZZLE TEXT surface; it must never regenerate, summarize or rewrite them from this prose master. Re-run answer-name and clue/solution consistency after hydration.
 - Case 03 remains exact-ten differences. Never revert to the obsolete three-difference mechanic.
 - Chats are never evidence.
 - Shared-room/contact conclusions are leads, not guilt.
