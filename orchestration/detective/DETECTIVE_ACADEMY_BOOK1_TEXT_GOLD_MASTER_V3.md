@@ -237,7 +237,7 @@ Use **one** coordinate system: the labels printed beside the grid you are solvin
 - Place every witness exactly once.
 - Each witness finishes in a different row and a different column.
 - Use only printed witness statements and visible map features.
-- If a case asks for a room companion, that person is a **lead for the next interview**, not automatically guilty.
+- If a case asks for a room or area companion, that person is a **lead for the next interview**, not automatically guilty.
 - Keep every final witness position on the completed map. Do not erase it after writing the verdict.
 
 ### MAP LEGEND
@@ -802,11 +802,11 @@ The rover file is finally tidy enough to seal, and Mimi tips her case bag onto t
 
 ### CASE FILE // WHAT HAPPENED
 
-The next afternoon the Academy Scenario Theater lends its stage to a visiting animal-care team rehearsing a family demonstration. Nini returns to the Case Table with a witness who has feathers and strong opinions about crackers: a parrot has started repeating a four-word backstage access phrase nobody remembers teaching it. Winter is the handler the rehearsal record places for certain. Rebuild the Stage Wing around Winter; the person who shared that room is the one human witness the map can put within earshot before the parrot learned the phrase.
+The next afternoon the Academy Scenario Theater lends its stage to a visiting animal-care team rehearsing a family demonstration. Nini returns to the Case Table with a witness who has feathers and strong opinions about crackers: a parrot has started repeating a four-word backstage access phrase nobody remembers teaching it. Winter is the handler the rehearsal record places for certain. Rebuild the Stage Wing around Winter; the person who shared that mapped area is the one human witness the map can put within earshot before the parrot learned the phrase.
 
 ### YOUR OBJECTIVE
 
-**MATCH Winter to the one other person in the room. Give their coordinate.**
+**MATCH Winter to the one other person in the same mapped area. Give their coordinate.**
 
 ### INVESTIGATION RULES
 
@@ -1003,7 +1003,7 @@ The photograph sends Bibi to the Old Academy Annex records, and the easiest way 
 
 ### YOUR OBJECTIVE
 
-**TRACE the ticket record to Reed’s one room contact. Give their coordinate.**
+**TRACE the ticket record to the one person sharing Reed’s mapped area. Give their coordinate.**
 
 ### INVESTIGATION RULES
 
@@ -1468,11 +1468,11 @@ You will need its missing word in the final case.
 
 ### CASE FILE // WHAT HAPPENED
 
-Rule Zero does not magically open the wall. It changes what the team does next: instead of guessing what might be behind it, Mimi requests the old service-level access record for that exact section of the building. The file contains the largest position map in the book, with Seth as the fixed contact. Solve it carefully, find Seth's room companion and record that person's coordinate - the square itself is part of the final access key.
+Rule Zero does not magically open the wall. It changes what the team does next: instead of guessing what might be behind it, Mimi requests the old service-level access record for that exact section of the building. The file contains the largest position map in the book, with Seth as the fixed contact. Solve it carefully, find the one person sharing Seth's mapped area and record that person's coordinate - the square itself is part of the final access key.
 
 ### YOUR OBJECTIVE
 
-**SOLVE the final map. Give Seth’s room companion and the access coordinate.**
+**SOLVE the final map. Give the one person sharing Seth’s mapped area and the access coordinate.**
 
 ### INVESTIGATION RULES
 
@@ -2839,7 +2839,7 @@ Across the thirty cases, vary how the next mystery reaches the squad. Use a deli
 Do not make every case arrive from the printer. Do not make every case occur inside the same building. Every transition must explain why the squad encounters that case **now**.
 
 
-Contact-case purpose is explicit: finding a room companion identifies the next useful witness and what that witness may clarify; it never proves guilt.
+Contact-case purpose is explicit: finding a same-room or same-area contact identifies the next useful witness and what that witness may clarify; it never proves guilt.
 
 Non-contact cases state what the mechanic resolves and why that result matters next.
 
