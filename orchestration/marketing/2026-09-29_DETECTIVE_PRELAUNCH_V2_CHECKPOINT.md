@@ -34,3 +34,21 @@ Wait for Codex handback/reviewed premium interior, then select exact non-spoiler
 4. Hint Vault.
 
 Build the three masters from real reviewed product assets, run Creative QA and present one owner-review batch. Do not schedule before approval.
+
+
+## Overnight reconciliation — current slice
+
+Marketing-only cleanup completed without writing any product repository:
+
+- `marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md` was reconciled away from the stale 141-page/final-interior claim and now reflects the current V3 + active Codex premium-layout state. The 127-page compact proof is explicitly excluded as final visual/page-count authority.
+- `marketing/DETECTIVE_ACADEMY_CONTENT_BANK.md` no longer places Rule Zero in the "First 60 Seconds" marketing sequence. The safe opening sequence is black envelope -> Recruit Credential -> detective identity -> Case 01.
+- Added `marketing/DETECTIVE_MARKETING_READINESS_MATRIX_2026-09-29.md` with current safe claims, spoiler guard, asset-readiness gates, channel state and post-Codex handoff.
+- Live Metricool recheck: Facebook/Instagram/YouTube remain connected; TikTok is absent from the current network set; scheduled queue for 2026-09-29 through 2026-10-14 remains **0**.
+- Live timing signal is unchanged in direction: Instagram has no usable best-time values; Facebook clusters around weekday late morning/noon; YouTube around late afternoon. Treat only as scheduling hints after owner approval.
+
+Relevant marketing commits:
+- Q4 launch truth reconciliation: `e2de4658d248bf93a577e73fe1b25a5e11d39f9b`
+- First-60-seconds / Rule Zero spoiler correction: `ae7e2242264249b140275deac5066aafa98f8756`
+- Marketing readiness matrix: `7ec2563786f7fd86711e994595cdfb02e858c6fa`
+
+No post was scheduled or published. No paid action was taken.
