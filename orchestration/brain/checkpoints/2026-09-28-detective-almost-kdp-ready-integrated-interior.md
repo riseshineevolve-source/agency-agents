@@ -12,7 +12,7 @@ Local owner-review PDF:
 SHA-256:
 `eda3f5767339b36b3f17633bfca9305c2b12b4204c2fe96667ce3fc35442ce76`
 
-Pages: **127**
+Pages: **127 in the compact integration-proof renderer; NOT authoritative final production pagination**
 
 Page size: **8.5 x 11 in / US Letter**
 
@@ -100,7 +100,24 @@ PASS:
 
 This is the first **full integrated owner-review interior** using current story-flow/WOW copy plus the recovered exact evidence packet.
 
-It is ALMOST KDP READY, not publication-final.
+**Pagination correction after owner question:** the 127-page count is NOT apples-to-apples with the prior production Book Factory candidate and must not become the final pagination target.
+
+Verified comparison:
+- exact owner packet release candidate: **146 pages**;
+- old main reader flow: physical pages **1-109**;
+- old support divider: page **110**;
+- old reverse Hint Vault/Solutions: pages **111-146** = 36 pages;
+- compact integrated proof: main reader flow ends on page **89**;
+- compact divider: page **90**;
+- compact reverse section: pages **91-127** = 37 pages.
+
+Therefore the net -19 pages comes almost entirely from **20 pages compressed out of the main interior**, while the back section actually gained one page. This cannot be explained mainly by copy repetition removal.
+
+The compact proof renderer combined or omitted historical production layout surfaces such as dedicated spatial signal/interlude pages and compressed Witness Board/map presentation into fewer pages. It proves source/evidence integration, but it is **not the production pagination authority**.
+
+Next production render must restore premium, child-readable breathing room and the current production page-family system while preserving the current V3 copy and exact evidence. Do not force either 127 or historical 146; let the proper production layout determine the new page count. Given the expanded current V3 copy, a count near or above the prior 146 is plausible and must be verified rather than assumed.
+
+It is ALMOST KDP READY as an integration proof, not publication-final.
 
 Remaining gates:
 1. owner page-by-page review of this integrated artifact;
@@ -111,4 +128,4 @@ Remaining gates:
 6. full-wrap spine recomputation from the final frozen page count;
 7. KDP upload/publication remains owner-controlled.
 
-Do not silently revert to the historical 146-page artifact. The current integrated artifact is 127 pages because current V3 copy and production structure control pagination.
+Do not silently revert reader copy to the historical artifact, but also do not treat 127 as the production page-count target. Re-render current V3 through the premium production page-family/layout system and recompute pagination from that result.
