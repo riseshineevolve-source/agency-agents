@@ -975,7 +975,7 @@ Two days later, Bibi returns from the archive carrying the flat box she has been
 **BUILDING:** ______________________________
 **YEAR:** __________
 
-# INTERLUDE - ACT III // THE BOOK REMEMBERS
+# ROOM ZERO CHECKPOINT // RULE 0 FIRST
 
 Once you have made your building-and-year verdict, Bibi turns the photograph over.
 
@@ -1503,7 +1503,7 @@ Copy the access coordinate you earned from the final map.
 
 Do not write a new coordinate later - the finale uses this one.
 
-# INTERLUDE - ACT V // THE DOOR OPENS
+# FINAL APPROACH // THE DOOR OPENS
 
 The old service map gives you the last location answer the sealed panel needs.
 
@@ -1629,7 +1629,7 @@ Alio looks from the routing log to the empty hook.
 - **NINI:** You chose the call sign.
 - **DILO:** You did the cases.
 - **BIBI:** You kept the records and came back when the clues told you to come back.
-- **MIMI:** The Academy could offer the place. It could not fill it for you.
+- **MIMI:** The system could invite you. The investigation had to prove the rest.
 
 The screen changes.
 
@@ -2296,7 +2296,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Reed is C2 in the Main Corridor.
 6. Axel is the only other person in Reed's final area.
 
-**WHY IT MATTERS:** The station enquiry now has a contact, while the conflicting clocks remain a separate problem to solve.
+**WHY IT MATTERS:** The station inquiry now has a contact, while the conflicting clocks remain a separate problem to solve.
 
 
 ---
@@ -2389,7 +2389,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 5. Rae is F6, exactly two columns east of Cora.
 6. Rae is the only other person in Jude's final room.
 
-**WHY IT MATTERS:** The wristband enquiry has a next contact, and another complete map joins the growing set.
+**WHY IT MATTERS:** The wristband inquiry has a next contact, and another complete map joins the growing set.
 
 
 ---
