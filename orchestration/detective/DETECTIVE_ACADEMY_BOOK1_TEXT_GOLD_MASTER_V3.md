@@ -998,6 +998,7 @@ Nothing more. Do not complete the sentence from imagination.
 **RANK:** MASTER
 
 ### CASE FILE // WHAT HAPPENED
+
 The photograph sends Bibi to the Old Academy Annex records, and the easiest way there is by train. At Riverside Station, a staff member recognizes the squad and asks for help with a special open-day ticket that changed hands even though nobody reported losing it. Reed is the last fixed contact in the station record. Reconstruct the area around that handoff; the person beside Reed is the next witness who may remember when the ticket changed hands.
 
 ### YOUR OBJECTIVE
