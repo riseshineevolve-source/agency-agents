@@ -175,7 +175,9 @@ Goal:
 make ownership vivid.
 
 Scene:
-open envelope -> write detective name -> read Rule Zero -> open Case 01 -> make first pencil mark.
+black envelope -> blank Recruit Credential -> write detective name / call sign -> open Case 01 -> make the first pencil mark.
+
+Do **not** show or mention Rule Zero in this opening-content family. Rule Zero is a later-story reveal, not part of the reader's first 60 seconds.
 
 Hook:
 **Your first case starts before Case 01.**
