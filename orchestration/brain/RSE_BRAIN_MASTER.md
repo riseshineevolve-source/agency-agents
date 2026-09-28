@@ -1095,3 +1095,27 @@ Current Detective state:
 **TEXT MICROFIX PASS / PRODUCTION RENDER INTEGRATION NEXT / EN NOT FROZEN.**
 
 Do not restore historical V4/V4.1 reader copy when integrating the renderer. Reflow/add pages before deleting V3 story text.
+
+
+## Detective V3 final KDP text pass — 2026-09-28
+
+Active canonical text remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical text commit:
+`6c2e21a24d760218923cfd8d47655a3cbf72c575`
+
+Current text blob:
+`f6e16e99084562ddf56825ccc7bfdd12baad0656`
+
+Owner-directed final reader audit is complete. This supersedes earlier same-day statements that Detective layout/renderer integration is paused pending text acceptance.
+
+Current state:
+**FINAL TEXT MASTER / PRODUCTION INTEGRATION AUTHORIZED / EN NOT FROZEN.**
+
+Final pass corrected the remaining Case 21 -> Case 26 causal attribution, made the 15-total-vs-14-selected spatial-map logic explicit, completed the Case 17 -> Annex -> Case 19 travel bridge, removed the unsupported Case 11 phone-photo tease, made the Case 21 Solution answer complete, clarified Max's direct Cup relationship, and removed stale Detective Six wording.
+
+Next safe Detective action:
+integrate the exact V3 blob into the production book factory, hydrate exact locked evidence surfaces, rerun all answer/name/clue/coordinate regressions, render the complete final interior using actual page count, run KDP preflight + full human visual audit, then representative physical proof. Do not cut text merely to preserve the historical 146-page count.
+
+English remains NOT FROZEN. Merge, physical-proof approval, explicit EN freeze and KDP publication remain owner gates.
