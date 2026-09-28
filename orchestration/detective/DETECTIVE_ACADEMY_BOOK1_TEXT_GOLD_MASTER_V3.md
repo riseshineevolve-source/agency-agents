@@ -1107,7 +1107,7 @@ Leaving the library, the team passes the Flight Simulation Wing, where the night
 
 ### YOUR OBJECTIVE
 
-**RECORD the name and square of Demi’s studio-room companion.**
+**RECORD the name and square of Demi’s one same-room contact.**
 
 ### INVESTIGATION RULES
 
