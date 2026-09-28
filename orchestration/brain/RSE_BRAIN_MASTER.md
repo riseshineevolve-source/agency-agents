@@ -1039,3 +1039,28 @@ Owner-driven cleanup now locked:
 Do not revert any of these changes in later renderer/Codex work.
 
 Detective layout integration remains PAUSED pending owner text approval.
+
+
+## Detective V3 final 1000% text audit — 2026-09-28
+
+Active text master remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest full-content commit:
+`25eacd6f5e085313283591548c0a9787b336e4b7`
+
+Final audit report:
+`orchestration/detective/DETECTIVE_ACADEMY_V3_FINAL_TEXT_AUDIT_2026-09-28.md`
+
+Key locked decisions after the audit:
+- no reader-facing immediate CASE RESULT / WHAT THIS PROVES after cases;
+- answers/reasoning live only in the upside-down back section;
+- Case 05 remains the unique six-symbol code BALL -> STAR -> BOLT -> HEART -> KEY -> MOON;
+- Case Wall is page 9 and is used only for explicit meta-evidence;
+- finale uses Case Wall for RULE / ROOM / CODE and Recruit Credential for DETECTIVE;
+- Bibi's Case 09 recognition occurs once, after the reader solves the comparison;
+- old Case 26 fixed page references removed;
+- Evidence/Puzzle surfaces hydrate exact locked source/raster truth and must not be rewritten from prose.
+
+Text/layout remains PAUSED until owner accepts this V3 text.
+Do not create V4 for minor edits.
