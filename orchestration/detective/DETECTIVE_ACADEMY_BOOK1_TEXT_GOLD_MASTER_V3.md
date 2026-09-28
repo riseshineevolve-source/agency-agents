@@ -2565,7 +2565,7 @@ At any point the reader should be able to answer:
 - one coordinate-label system only
 - coordinate labels close to the grid
 - readable map legend immediately adjacent/below
-- no gray-zone wording unless a visible grey semantic exists
+- no gray-zone wording unless a visible gray semantic exists
 - exact approved props / no thin-line fallback art
 - PERSON / WITNESS + COORDINATE response
 - optional **CASE WALL -> PAGE 9** callout only when a real meta clue must be copied
