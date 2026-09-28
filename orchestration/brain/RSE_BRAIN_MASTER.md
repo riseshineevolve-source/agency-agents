@@ -1047,7 +1047,7 @@ Active text master remains the SAME V3:
 `orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
 
 Latest full-content commit:
-`25eacd6f5e085313283591548c0a9787b336e4b7`
+`3e534a2a5fe95dc183a0825071ae064175803a0b`
 
 Final audit report:
 `orchestration/detective/DETECTIVE_ACADEMY_V3_FINAL_TEXT_AUDIT_2026-09-28.md`
@@ -1064,3 +1064,34 @@ Key locked decisions after the audit:
 
 Text/layout remains PAUSED until owner accepts this V3 text.
 Do not create V4 for minor edits.
+
+
+## Detective V3 owner-feedback final microfix — 2026-09-28
+
+Active text master remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical text commit:
+`3e534a2a5fe95dc183a0825071ae064175803a0b`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-28-detective-v3-owner-feedback-final-microfix.md`
+
+Owner's final reader-level audit request was applied without changing locked puzzle truth. Key closures include:
+- Case 02/Max causal purpose made explicit;
+- Case 03 photo-copy logic made physically coherent while preserving exact ten;
+- repetitive contact-case intro formula removed;
+- Room Zero routing vs solving causality clarified;
+- duplicated Case 03 solution list and stale appendix residues removed;
+- US English normalized;
+- 30/30 cases, all three 30/30 Hint Vault levels and 30/30 Solution Files remain structurally present;
+- Case 05 six-symbol solution remains unique;
+- current production alias layer contains the named Solution File answer for 15/15 mapped spatial cases.
+
+Important production boundary:
+the uploaded 71-page text PDF is an editorial review artifact, not the final KDP interior. Final KDP readiness now requires exact V3 renderer integration + locked evidence hydration + post-hydration name/clue/solution checks + full print render/preflight/visual audit/physical proof. Case 01 reader-facing aliases QUILL/MORSE/PIP/KNOX must replace internal source identities on the rendered evidence surface.
+
+Current Detective state:
+**TEXT MICROFIX PASS / PRODUCTION RENDER INTEGRATION NEXT / EN NOT FROZEN.**
+
+Do not restore historical V4/V4.1 reader copy when integrating the renderer. Reflow/add pages before deleting V3 story text.
