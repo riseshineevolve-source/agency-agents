@@ -1127,10 +1127,10 @@ Canonical text remains the SAME V3:
 `orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
 
 Latest canonical story-flow/WOW text commit:
-`367a8c994890e2dc4e064226e412d0d9476f9f38`
+`3c0caedbcc313658767cb4251b2c1741c4a7edcf`
 
 Canonical text blob:
-`6278c8cf60159b35daa259c489f250da43cea397`
+`8370026a811ad3354aaa8e422ebe2edf58464845`
 
 Checkpoint:
 `orchestration/brain/checkpoints/2026-09-28-detective-story-flow-wow-pass.md`
@@ -1152,3 +1152,25 @@ Owner-directed final narrative pass now locks:
 Locked puzzle truth is unchanged: exact-ten Case 03, six-symbol Case 05, Case 21 message, Case 26 CHECK THE OLD MAP, Rule Zero, D3 and final reader call-sign field.
 
 Next safe action remains production integration/hydration -> full render/regression/KDP preflight -> human visual audit -> physical proof -> explicit EN freeze.
+
+
+## Detective final pre-Codex text master — 2026-09-28
+
+Canonical text remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical text commit:
+`3c0caedbcc313658767cb4251b2c1741c4a7edcf`
+
+Blob:
+`8370026a811ad3354aaa8e422ebe2edf58464845`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-28-detective-final-pre-codex-text-master.md`
+
+Status:
+**FINAL PRE-CODEX TEXT MASTER / PREMIUM LAYOUT RESTORE NEXT / EN NOT FROZEN.**
+
+Final owner micro-pass adds the Page 2 cozy-site CTA, ten-question-mark Case 03 progress tracker, stronger Case 06 Uma/dragon-tooth-spoon incident bridge and Case 07 local closure. No puzzle truth changed. Full Case 01->30 transition audit remains 29/29 PASS.
+
+The compact 127-page integration proof is not visual/page-count authority. Next action is to restore the established premium Book Factory system around this exact V3 copy: Evidence Grid signature language, boxed sections and HM chat, dedicated left Witness Board + large right Live Case Map, large bold axes, full Case 03 facing comparison spread, quiet Page 2 scanner-question-mark publication design, and reverse Hint/Solutions. Reflow/add pages before cutting copy.
