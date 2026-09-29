@@ -1,17 +1,31 @@
 # Detective Academy — Marketing Readiness Matrix
 
-Date: 2026-09-29
-Status: PRE-LAUNCH / PRODUCT BRANCH READ-ONLY / EN NOT FROZEN
+Date: 2026-09-30
+Status: PRE-LAUNCH / PRODUCT REPOS READ-ONLY TO MARKETING / FINAL MICROFIX SOURCE LOCKED / EN NOT FROZEN
 
 ## Product truth consumed
 
-- Canonical reader copy remains the V3 family at commit 3c0caedbcc313658767cb4251b2c1741c4a7edcf.
-- Detective product branch feature/detective-book-factory observed at 989bce1fc1846fcb2480517d1b4965f3add204aa.
-- Central durable checkpoint now records an owner-reported Codex local premium-interior PASS at 180 pages, but also records that the corresponding non-private renderer/audit/checkpoint changes were not yet pushed to the Detective GitHub branch at reconciliation time.
-- Therefore the 180-page local build is evidence of progress, not yet durable product-branch truth and not an authorized public final-page-count claim.
-- The compact 127-page integration proof is not final visual or page-count authority.
-- Marketing must not use either the compact proof or unreviewed local Codex crops as polished interior evidence.
-- No final page-count claim, publication-ready date or available-now claim is authorized.
+Latest durable Central handoff:
+- `orchestration/brain/checkpoints/2026-09-29-detective-final-microfix-handoff.md`
+- handoff commit: `f7c52404b0bde6e94a2014f45a0b2546d4b878c0`
+
+Current canonical reader-copy authority:
+- `orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+- canonical commit: `d52933a70f78e768e23c54d997cf55489236879d`
+- canonical blob: `a85a5941852930f6b88711af26b16ea1651d2fbc`
+
+Current production state:
+- repo: `riseshineevolve-source/RISE.SHINE.EVOLVE`
+- branch: `feature/detective-book-factory`
+- head at latest durable handoff: `3b791e5e1ae9512fee5d69b117b8e02fe761010a`
+- Build Detective Academy PDF #206: SUCCESS
+- SEO Validation #787: SUCCESS
+- source status: FINAL MICROFIX SOURCE LOCKED
+- next product step: Codex local rebuild + bounded visual hygiene + every-page inspection + owner-review PDF/QA/page index
+- English remains **NOT FROZEN**
+- no merge, price, KDP publication or public availability claim is authorized
+
+Marketing must treat product repositories as read-only and consume only durable verified checkpoints.
 
 ## Verified product facts safe for marketing reference
 
@@ -23,6 +37,7 @@ Status: PRE-LAUNCH / PRODUCT BRANCH READ-ONLY / EN NOT FROZEN
 - Solution Files explain reasoning.
 - Product is pencil-first and screen-free.
 - Some earlier evidence can matter again later in the continuing investigation.
+- The reader is the missing detective.
 
 ## Claims requiring fail-closed treatment
 
@@ -36,37 +51,40 @@ Do not use unless separately verified at publication time:
 - discount;
 - bestseller status;
 - rating/review count;
-- stock or scarcity;
-- quantified educational/developmental outcomes.
+- stock/scarcity;
+- quantified educational, developmental or behavioral outcomes.
 
 ## Spoiler guard
 
 Do not expose:
-- CHECK THE OLD MAP;
+- `CHECK THE OLD MAP`;
 - Room Zero mechanism;
 - Rule Zero as an opening beat;
 - final coordinate or code;
-- Book 2 archive resolution;
+- Book 2 archive/triangle resolution;
 - solution answers from individual cases.
 
-Opening/identity marketing may show only safe early-story material such as the black envelope, Recruit Credential and non-spoiler Case 01 setup after the final artifact is reviewed.
+Opening/identity marketing may use only safe early-story material such as the black envelope, Recruit Credential concept and non-spoiler Case 01 setup. Marketing compositions must never masquerade as photographed/final interior pages.
 
 ## Asset readiness
 
 | Surface | Status | Use rule |
 | --- | --- | --- |
-| hero / approved current brand art | conditional | use only from durable approved/current source |
-| Recruit Credential | wait for reviewed post-Codex crop | do not use compact proof as polished evidence |
-| Witness Board | blocked on reviewed post-Codex crop | must show premium left-page treatment |
-| Live Case Map | blocked on reviewed post-Codex crop | must show large readable right-page treatment |
-| Hint Vault | blocked on reviewed post-Codex crop | use exact reviewed labels/layout |
-| Solution Files | blocked on reviewed post-Codex crop | use only non-spoiler example |
-| cover mockup | owner-selection sensitive | verify winning/current cover before publication |
-| Amazon listing | not live/verified | no Amazon CTA |
+| Master A — Missing Detective | OWNER-REVIEW READY / NOT SCHEDULED | may use symbolic marketing composition; no final interior required |
+| Recruit Credential crop | BLOCKED ON REVIEWED POST-MICROFIX ARTIFACT | use exact reviewed crop only |
+| Witness Board | BLOCKED ON REVIEWED POST-MICROFIX ARTIFACT | use exact reviewed premium treatment only |
+| Live Case Map | BLOCKED ON REVIEWED POST-MICROFIX ARTIFACT | use exact reviewed large readable treatment only |
+| Hint Vault | BLOCKED ON REVIEWED POST-MICROFIX ARTIFACT | use exact reviewed labels/layout only |
+| Solution Files | BLOCKED ON REVIEWED POST-MICROFIX ARTIFACT | non-spoiler example only |
+| front cover | OWNER SELECTION PENDING | no candidate is final until owner explicitly names the winner |
+| Amazon listing | NOT LIVE / NOT VERIFIED | no Amazon CTA |
 
-## Channel state verified live 2026-09-29
+Superseded compact/intermediate renders are not final marketing proof.
 
-Metricool brand: Rise.Shine.Evolve.
+## Channel state verified live 2026-09-30
+
+Metricool brand: **Rise.Shine.Evolve.**
+Brand ID: `7018771`
 Timezone: Europe/Warsaw.
 
 Connected:
@@ -77,49 +95,55 @@ Connected:
 Not present in current Metricool network set:
 - TikTok
 
-Scheduled posts checked for 2026-09-29 through 2026-10-14:
-- 0
+Scheduled posts checked for 2026-09-30 through 2026-10-30:
+- **0**
 
-This empty queue is intentional while the first-batch owner gate remains open.
+The empty queue remains intentional while the first-batch owner gate is open.
 
-## Directional timing evidence
+## Directional timing evidence — checked 2026-09-30
 
 Instagram:
-- current best-time endpoint returns zero values;
+- best-time endpoint returned zero values for all checked hours;
 - do not claim an optimized posting hour.
 
 Facebook:
-- live directional audience signal is strongest around weekday late morning/noon in the checked week.
+- strongest checked value in the 2026-09-30..2026-10-06 window: Wednesday 12:00 = 15834;
+- weekday late morning/noon remains the clearest directional cluster.
 
 YouTube:
-- live directional audience signal is strongest around late afternoon, with about 16:00 among the strongest checked slots.
+- strongest checked value in the same window: Wednesday 16:00 = 12033;
+- Thursday 16:00 = 11979 was close behind.
 
-These are scheduling hints only, not causal performance evidence.
+These are scheduling hints only, not causal performance evidence and not permission to schedule before owner approval.
 
 ## Current pre-launch authority
 
 Use:
-- marketing/DETECTIVE_PRELAUNCH_PRODUCTION_PACK_V2.md
-- marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md
+- `marketing/DETECTIVE_PRELAUNCH_PRODUCTION_PACK_V2.md`
+- `marketing/DETECTIVE_MASTER_A_MISSING_DETECTIVE_PRODUCTION_PACK_V3.md`
+- `marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md`
+- this readiness matrix
 
-Use marketing/DETECTIVE_30D_ENGINE.md primarily for post-listing scale-out after verified KDP listing and first-batch approval.
+Use `marketing/DETECTIVE_30D_ENGINE_V2.md` only as the post-listing scale-out authority after:
+1. verified live KDP listing;
+2. owner-approved first organic batch;
+3. reviewed final/current product artifact.
 
-## Current creative readiness
-
-- Master A / Missing Detective: owner-review ready without final interior dependence; scheduling remains disabled.
-- Master B / Case File, Not Worksheet: blocked on reviewed premium Witness Board + paired Live Case Map + Evidence Grid proof.
-- Master C / Stuck Is Detective Work: blocked on reviewed three-level Hint Vault proof.
+The legacy `marketing/DETECTIVE_30D_ENGINE.md` is historical reference only.
 
 ## Next safe execution step
 
-After durable Codex handback:
-1. verify the new product head and current-head CI/readiness checkpoint;
-2. verify that the exact owner-review premium PDF corresponds to that checkpoint;
-3. select non-spoiler crops for Recruit Credential, Witness Board, paired Live Case Map, Evidence Grid and Hint Vault levels 1–3;
-4. record source page/provenance for every crop;
-5. run phone-readability + spoiler/claim QA;
-6. assemble Masters B/C with real crops only;
-7. combine A/B/C into one owner-review packet;
-8. keep external scheduling disabled until that owner gate closes.
+Before Codex handback:
+- finish only owner-review preparation that does not require final interior proof;
+- Master A may proceed to owner review without using a final cover or interior screenshot;
+- do not schedule externally.
+
+After Codex handback:
+1. verify new product head, CI and durable handoff;
+2. review the exact owner-review artifact;
+3. select non-spoiler crops for Recruit Credential, Witness Board, Live Case Map and Hint Vault;
+4. run full-asset coherence + spoiler + claim QA;
+5. assemble one first owner-review batch;
+6. keep external scheduling disabled until that owner gate closes.
 
 Product repositories remain read-only to Marketing Autopilot.
