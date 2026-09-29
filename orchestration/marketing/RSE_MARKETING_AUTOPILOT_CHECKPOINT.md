@@ -1,7 +1,21 @@
-# RSE Marketing Autopilot Checkpoint — 2026-09-24
+# RSE Marketing Autopilot Checkpoint — 2026-09-29
 
 Status: DURABLE BOOTSTRAP COMPLETE / DETECTIVE PRE-LAUNCH ACTIVE / ENGLISH NOT FROZEN
-Last reconciled: 2026-09-24
+Last reconciled: 2026-09-29
+
+## 2026-09-29 current-truth override
+
+This section supersedes stale Detective V4/V4.1 / 146-page statements lower in this historical checkpoint.
+
+- Reader-copy authority is the V3 family at `3c0caedbcc313658767cb4251b2c1741c4a7edcf`.
+- Last durably observed Detective product head is `989bce1fc1846fcb2480517d1b4965f3add204aa`.
+- Central checkpoint records an owner-reported Codex local premium-interior PASS at 180 pages, but the matching product-source/render changes were not yet durably pushed at reconciliation time.
+- Therefore neither 180 nor 127 pages is an authorized final public page-count claim.
+- English remains NOT FROZEN.
+- Master A / Missing Detective is owner-review ready and unscheduled.
+- Masters B/C remain blocked on reviewed post-Codex Witness Board + Live Case Map + Evidence Grid + Hint Vault crops.
+- Metricool reverified 2026-09-29: Facebook, Instagram, YouTube connected; TikTok absent; queue through 2026-10-14 has 0 scheduled posts.
+- Commercial order is Detective EN -> Detective PL after freeze -> Optical Animals -> 24 Gentle Steps -> Consumer App Factory / Google Play.
 
 ## Milestone
 
