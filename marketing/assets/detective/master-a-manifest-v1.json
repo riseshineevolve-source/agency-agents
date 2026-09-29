@@ -1,0 +1,68 @@
+{
+  "version": "1.0",
+  "date": "2026-09-29",
+  "status": "OWNER_REVIEW_READY_NOT_SCHEDULED",
+  "product_repo_policy": "READ_ONLY",
+  "source_truth": {
+    "detective_text_commit": "3c0caedbcc313658767cb4251b2c1741c4a7edcf",
+    "detective_product_head_observed": "989bce1fc1846fcb2480517d1b4965f3add204aa",
+    "codex_handback_observed": false,
+    "english_frozen": false,
+    "compact_127_page_proof_final_visual_authority": false
+  },
+  "assets": [
+    {
+      "path": "marketing/assets/detective/master-a-missing-detective-9x16-v1.svg",
+      "format": "1080x1920",
+      "use": [
+        "reel_cover",
+        "short_cover",
+        "motion_keyframe"
+      ]
+    },
+    {
+      "path": "marketing/assets/detective/master-a-missing-detective-4x5-v1.svg",
+      "format": "1080x1350",
+      "use": [
+        "instagram_feed",
+        "facebook_feed",
+        "carousel_slide_1"
+      ]
+    }
+  ],
+  "safe_claims": [
+    "30 connected cases",
+    "one hidden book-long mystery",
+    "reader is the missing detective",
+    "maps, codes, visual evidence and logic"
+  ],
+  "forbidden_claims": [
+    "Amazon/KDP availability before verification",
+    "price, rating, review count, discount or bestseller claims",
+    "final page count",
+    "Rule Zero as an opening beat",
+    "CHECK THE OLD MAP",
+    "Room Zero mechanism",
+    "final code or coordinate",
+    "case solutions",
+    "Book 2 archive or triangle resolution"
+  ],
+  "prelaunch_cta": "FOLLOW. YOUR FIRST CASE IS COMING.",
+  "metricool": {
+    "brand_id": "7018771",
+    "timezone": "Europe/Warsaw",
+    "connected": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ],
+    "tiktok_connected": false,
+    "scheduled_posts_2026_09_29_to_2026_10_14": 0,
+    "timing_hint": {
+      "instagram": "no usable signal; values returned as 0",
+      "facebook": "directional strength around 10:00-12:00",
+      "youtube": "directional strength around 16:00"
+    }
+  },
+  "owner_gate": "First-batch creative review required before scheduling or publishing."
+}
