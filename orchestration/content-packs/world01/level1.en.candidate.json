@@ -1,0 +1,639 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_01",
+  "content_pack_id": "world01_mission_001_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world01_mission_001",
+  "candidate_scope": "published_mission_001_pages_15_22",
+  "source": {
+    "source_id": "world01_paperback_2026_09_18",
+    "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "source_bytes": 14523549,
+    "source_pages": 108,
+    "page_range": [
+      15,
+      22
+    ],
+    "evidence_manifest": "orchestration/content-sources/world01-level1-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world01_mission_001_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_001_node_002",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 15,
+        "evidence_id": "p15_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_002",
+      "sequence": 2,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_001_node_003",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 16,
+        "evidence_id": "p16_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_003",
+      "sequence": 3,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_001_node_004",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 16,
+        "evidence_id": "p16_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_004",
+      "sequence": 4,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_001_node_005",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 16,
+        "evidence_id": "p16_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_005",
+      "sequence": 5,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_001_node_006",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 16,
+        "evidence_id": "p16_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_006",
+      "sequence": 6,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_001_node_007",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 17,
+        "evidence_id": "p17_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_007",
+      "sequence": 7,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_001_node_008",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 17,
+        "evidence_id": "p17_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_008",
+      "sequence": 8,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_001_node_009",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 17,
+        "evidence_id": "p17_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_009",
+      "sequence": 9,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_001_node_010",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 17,
+        "evidence_id": "p17_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_010",
+      "sequence": 10,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_001_node_011",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 17,
+        "evidence_id": "p17_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_011",
+      "sequence": 11,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_001_node_012",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 18,
+        "evidence_id": "p18_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_012",
+      "sequence": 12,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_001_node_013",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 18,
+        "evidence_id": "p18_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_013",
+      "sequence": 13,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_001_node_014",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 18,
+        "evidence_id": "p18_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_014",
+      "sequence": 14,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_001_node_015",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 18,
+        "evidence_id": "p18_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_015",
+      "sequence": 15,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_001_node_016",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 19,
+        "evidence_id": "p19_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_016",
+      "sequence": 16,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_001_node_017",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 19,
+        "evidence_id": "p19_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_017",
+      "sequence": 17,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_001_node_018",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 19,
+        "evidence_id": "p19_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_018",
+      "sequence": 18,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_001_node_019",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 19,
+        "evidence_id": "p19_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_019",
+      "sequence": 19,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_001_node_020",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 19,
+        "evidence_id": "p19_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_020",
+      "sequence": 20,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world01_mission_001_node_021",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 20,
+        "evidence_id": "p20_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_021",
+      "sequence": 21,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world01_mission_001_node_022",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 20,
+        "evidence_id": "p20_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_022",
+      "sequence": 22,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world01_mission_001_node_023",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 20,
+        "evidence_id": "p20_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_023",
+      "sequence": 23,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world01_mission_001_node_024",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 21,
+        "evidence_id": "p21_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_024",
+      "sequence": 24,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world01_mission_001_node_025",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 21,
+        "evidence_id": "p21_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_025",
+      "sequence": 25,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_001_node_026",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 22,
+        "evidence_id": "p22_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_001_node_026",
+      "sequence": 26,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 22,
+        "evidence_id": "p22_b02"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_001",
+      "fields": {
+        "level_label": "LEVEL 1:",
+        "title": "The After-School Crash",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "REGULATION",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Learning to shake off the heavy school energy before it causes a system crash.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_002",
+      "fields": {
+        "story_heading": "THE AFTER-SCHOOL CRASH",
+        "text": "Monday, 16:00. The front door opened. The entire Happy Makers crew spilled into the hallway at the exact same time. It was a complete disaster.\n\nDilo pushed past everyone, dropping his heavy, smelly sports bag right in the middle of the doorway like a roadblock.",
+        "log_label": "SYSTEM LOG >>"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_003",
+      "fields": {
+        "text": "Out of my way, noobs! First to the bathroom wins! The King claims the throne!",
+        "speaker_label": "DILO"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_004",
+      "fields": {
+        "text": "Alio, still wearing his safety helmet, immediately tripped over Dilo's bag and fell flat on his face.",
+        "log_label": "SYSTEM LOG >>"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_005",
+      "fields": {
+        "text": "(Screaming) A TRAP! Dilo set a booby trap! And his bag smells like rotten cheese! I am poisoned! My nose is burning! I need a doctor!",
+        "speaker_label": "ALIO"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_006",
+      "fields": {
+        "text": "Nini was squished against the wall. She dropped to her knees, her face turning bright red, pulling angrily at her jacket.",
+        "log_label": "SYSTEM LOG >>"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_007",
+      "fields": {
+        "text": "(Crying loudly) Dilo breathed my air! And my zipper is stuck! It hates me! Everything is terrible and the lights are too loud!",
+        "speaker_label": "NINI"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_008",
+      "fields": {
+        "text": "(Squeezing past the crying bodies, holding a book over her ears) Lights cannot be loud, Nini. But your crying is breaking the sound barrier. If everyone could just vanish into their rooms, that would be highly logical.",
+        "speaker_label": "LULI"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_009",
+      "fields": {
+        "text": "Mimi walked in last, carrying three bags of groceries. The hallway looked like a battlefield. Everyone was hungry. Everyone was tired. The grumpy monsters inside their heads were completely taking over.",
+        "log_label": "SYSTEM LOG >>"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_010",
+      "fields": {
+        "text": "(Closing her eyes, leaning against the door frame, taking a huge, slow breath) Okay. Freeze. Everyone, stop moving right now.",
+        "speaker_label": "MIMI"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_011",
+      "fields": {
+        "text": "Alio stopped crying about his nose. Nini froze with her jacket half-on.",
+        "log_label": "SYSTEM LOG >>"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_012",
+      "fields": {
+        "text": "You guys were so good all day at school. You followed the rules, you sat still, and you held all your wild energy inside like a tight balloon. But now you are home, you feel safe, and your balloons just popped all over my hallway.\n\nYou have too much wild energy. Stand up. We are doing the Wet Dog Shake.",
+        "speaker_label": "MIMI"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_013",
+      "fields": {
+        "text": "(Sniffling) Like... a dirty dog?",
+        "speaker_label": "ALIO"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_014",
+      "fields": {
+        "text": "Exactly. Shake your hands! Shake your legs! Wiggle your shoulders! Shake all that mad, scratchy school energy off your bodies right here on the doormat. We are not bringing it into the house. Shake!",
+        "speaker_label": "MIMI"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_015",
+      "fields": {
+        "text": "It looked ridiculous. Dilo peeked out of the bathroom and saw his entire family wiggling and shaking like wet puppies. But after ten seconds, Alio took a deep breath. Nini giggled, and her zipper magically unstuck.",
+        "log_label": "SYSTEM LOG >>"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_016",
+      "fields": {
+        "text": "Better. Now, step two: Decompression Mode. Nobody talks. Nobody does homework. Alio, Nini, go to the rug. Time for the Turtle Shell.",
+        "speaker_label": "MIMI"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_017",
+      "fields": {
+        "text": "Alio and Nini ran to the living room and lay on their stomachs. Mimi took three heavy sofa cushions and placed them gently on top of their backs, squishing them nicely like little turtles hiding in their shells.",
+        "log_label": "SYSTEM LOG >>"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_018",
+      "fields": {
+        "text": "10 minutes of calm, quiet time. Let your batteries recharge.",
+        "speaker_label": "MIMI"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_019",
+      "fields": {
+        "text": "Ten minutes later, the turtles emerged from their shells. Alio cheerfully went to unpack his lunchbox, and Nini hummed a happy song. The crash was defeated. But the very next day, their emotional control would be tested again... on the hot sidewalk.",
+        "log_label": "SYSTEM LOG >>"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_020",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 001",
+        "heading": "THE BRAIN SECRET (The School Balloon)",
+        "science_label": "The Science:",
+        "in_story_label": "In The Story:",
+        "science": "When you are at school, you use a lot of brain energy to follow rules, focus, and be polite. Psychologists call this 'Executive Function.' It's like blowing air into a tight balloon all day. When you finally reach your safe space (your home), your brain drops its guard and the balloon pops! This is called 'Restraint Collapse.'",
+        "in_story": "Alio and Nini were perfectly good all day, but they exploded over a stuck zipper and a smelly bag the minute they walked in. They weren't really mad at those things; their tired school balloons just popped!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_021",
+      "fields": {
+        "file_label": "// FILE: 002",
+        "heading": "THE TOOL ('The 10-Minute Turtle Shell')",
+        "science_label": "The Science:",
+        "in_story_label": "In The Story:",
+        "science": "A tired, overloaded brain cannot answer questions like 'How was your day?'. It needs a sensory break. Deep pressure on your muscles sends a signal to your nervous system that you are anchored and safe, helping you calm down quickly.",
+        "in_story": "Mimi didn't force them to talk. She put heavy cushions on Alio and Nini's backs (The Turtle Shell) and gave them 10 minutes of quiet Decompression Mode to reboot their systems."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_022",
+      "fields": {
+        "file_label": "// FILE: 003",
+        "heading": "THE GLITCH ('The Hallway Explosion')",
+        "science_label": "The Science:",
+        "science": "Trying to argue or fix problems the second you walk through the door never works. If your body feels scratchy and mad, do the 'Wet Dog Shake' on the doormat! Wiggle your arms and legs super fast for 10 seconds to shake the angry chemicals out of your muscles."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_023",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "your_turn_label": "Your Turn:",
+        "in_story": "Alio and Nini's 'balloons' popped as soon as they walked in.",
+        "your_turn": "How does your body feel when you hold your feelings in all day? Does your head feel tight? Do your legs feel jumpy?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_024",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "your_turn_label": "Your Turn:",
+        "in_story": "Dilo's bag caused a hallway traffic jam.",
+        "your_turn": "Create a 'Drop Zone' (a specific basket or corner) right by the door. Tomorrow, see who can drop their bag in the Drop Zone fastest without causing a crash! To avoid a hallway traffic jam, leave your bags there and go do your Decompression Mode. THEN - when your brain is rested - your very first mission is to go back to the Drop Zone, unpack your lunchbox and clean your water bottle!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_025",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "How does the 'Wet Dog Shake' and 'Turtle Shell' actually change your brain? When you are stressed at school, your body is flooded with Cortisol (the stress hormone) and your 'Fight or Flight' system is in control. Shaking your body physically burns off that extra adrenaline. Then, adding deep pressure (Proprioceptive Input) activates your 'Rest and Digest' system. It tells your brain to stop producing Cortisol and start releasing Serotonin (the calming chemical). You are literally hacking your nervous system!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_001_node_026",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“DECOMPRESSION MODE”",
+        "meaning_label": "MEANING:",
+        "meaning": "I just got home. My brain is tired from being good all day. I need quiet time before I can talk.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Drop bags. Shake off the energy. 10 minutes of silence and deep pressure. No questions allowed!",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "Why are you screaming the second we get home?! Stop fighting!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'Your school balloons just popped! Let's do the Wet Dog Shake and go into Decompression Mode.'"
+      }
+    }
+  ]
+}

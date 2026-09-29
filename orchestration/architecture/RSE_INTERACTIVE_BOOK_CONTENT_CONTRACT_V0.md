@@ -1,5 +1,8 @@
 # RSE Interactive Book Content Contract v0
 
+Legacy synthetic/pilot contract. The active bounded real-content graph contract
+is `RSE_INTERACTIVE_BOOK_CONTENT_GRAPH_V1.md`.
+
 Status: SPECIFICATION ONLY / SYNTHETIC FIXTURES / NO PRODUCT CONVERSION AUTHORIZATION
 Updated: 2026-09-20
 
