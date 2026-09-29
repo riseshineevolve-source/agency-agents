@@ -1,7 +1,7 @@
 # RSE Marketing Autopilot — Resume From Zero
 
 Status: CANONICAL RECOVERY ENTRYPOINT
-Updated: 2026-09-24
+Updated: 2026-09-29
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
 
@@ -27,7 +27,7 @@ The Central RSE Orchestrator does NOT duplicate content production, publishing o
 8. `marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md`
 9. `marketing/DETECTIVE_ACADEMY_CONTENT_BANK.md`
 10. `marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md`
-11. `marketing/DETECTIVE_30D_ENGINE.md`
+11. `marketing/DETECTIVE_30D_ENGINE_V2.md`
 12. `marketing/PERFORMANCE_MEMORY.yml`
 13. `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
 14. `marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md`
