@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-09-21
+updated: 2026-09-28
 status: active
 rules:
   evidence_over_opinion: true
@@ -56,3 +56,77 @@ record_schema:
   refunds_returns: null
   qualitative_feedback: []
   next_hypothesis: null
+
+
+live_evidence_snapshot_2026_09_28:
+  evidence_window_local:
+    timezone: Europe/Warsaw
+    social_recent_window: "2026-08-29 through 2026-09-28"
+    ga4_window: "last_30d including 2026-09-28"
+  metricool:
+    brand_id: 7018771
+    brand_label: "Rise.Shine.Evolve."
+    connected_networks:
+      facebook: true
+      instagram: true
+      youtube: true
+      tiktok: false
+    scheduled_posts_2026_09_28_to_2026_10_28: 0
+    recent_30d:
+      instagram_reels_rows: 0
+      instagram_posts_rows: 0
+      facebook_posts_rows: 0
+      interpretation: "No recent organic publishing baseline exists. Do not treat launch content as a continuation of an active cadence."
+    historical_instagram_directional_examples:
+      - concept: "Happy Makers / Real life. Real kids. Real growth."
+        publish_date: "2026-01-08"
+        reach: 11
+        views: 12
+        interactions: 3
+        likes: 2
+        note: "Tiny sample; directional only."
+      - concept: "Lizard Brain"
+        publish_date: "2026-03-09"
+        reach: 9
+        views: 9
+        interactions: 2
+        likes: 1
+        note: "Tiny sample; directional only."
+      - concept: "Family Motto"
+        publish_date: "2026-02-01"
+        reach: 6
+        views: 6
+        interactions: 2
+        likes: 1
+        reposts: 1
+        note: "Tiny sample; directional only."
+    best_time_signal:
+      instagram: "No usable audience signal; Metricool returned zero values for all hours."
+      facebook: "Strongest current audience signal clusters around late morning/noon; Wednesday 12:00 was the highest value in the checked 2026-09-29..2026-10-05 week."
+      youtube: "Strongest current audience signal clusters around late afternoon; Wednesday 16:00 was the highest value in the checked week, with Thursday 16:00 close behind."
+      rule: "Use as a scheduling hint only after owner approval of the first batch; do not infer causal performance from this small baseline."
+  windsor_ai:
+    connected_read_sources:
+      meta_ads_account: "connected"
+      amazon_ads_accounts: 12
+      google_analytics_4: "Rise.Shine.Evolve."
+    ga4_last_30d:
+      sessions: 7
+      active_users: 2
+      engaged_sessions: 2
+      engagement_rate: 0.2857
+      screen_page_views: 7
+      key_events: 0
+      ecommerce_purchases: 0
+      interpretation: "Owned-site traffic is currently too small for conversion conclusions."
+    meta_ads_last_30d:
+      rows: 0
+      interpretation: "No Meta Ads reporting rows detected in the checked window; no paid activation is inferred."
+  gsc_wizard:
+    status: blocked
+    blocker: "payment_required"
+    rule: "Do not restore or activate a paid subscription automatically. AI Discovery/Search Console work remains blocked until owner chooses to re-enable the service or another authorized free source is available."
+  decision:
+    - "Do not label any historical concept a winner from this evidence."
+    - "Restart with recognition/ownership/value content before hard conversion."
+    - "First Detective prelaunch batch remains owner-review gated before scheduling."

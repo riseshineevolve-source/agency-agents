@@ -17,7 +17,7 @@ Owned differentiators:
 - child becomes the missing detective
 - THE BOOK ITSELF IS THE EVIDENCE
 - 30 interconnected missions form one book-long mystery
-- solved cases may matter again later
+- some earlier evidence can matter again later
 - 3-level Hint Vault
 - reasoning solutions explain why
 - premium dossier / case-file experience
@@ -33,19 +33,17 @@ Never spoil:
 
 ## Current product readiness
 
-As of canonical registry 2026-09-21:
-- FINAL ENGLISH INTERIOR = PASS
-- remote head = `6aef8cefdce029413f2cc29e656d5fbad99d546c`
-- 141 pages
-- 141 print-scale previews
-- ALL-15 = 15/15 PASS REMOTE
-- canonical 30-mission integration = PASS
-- KDP preflight = PASS
-- Build #93 = PASS
-- SEO #551 = PASS
-- remaining owner gates = final cover, physical proof, pricing, KDP publication
+Reconciled 2026-09-29 from current GitHub truth:
+- canonical reader copy remains the same V3 family at `3c0caedbcc313658767cb4251b2c1741c4a7edcf`
+- Detective product branch `feature/detective-book-factory` observed at `989bce1fc1846fcb2480517d1b4965f3add204aa`
+- premium-layout restoration is actively delegated to Codex; marketing treats that product branch as read-only
+- the compact 127-page integration proof is NOT final visual/page-count authority and must not be used as polished product proof
+- English remains **NOT FROZEN**
+- do not claim a final page count, final publication-readiness date or final interior appearance until the post-Codex artifact is reviewed and the owner gates close
+- current verified positioning/mechanics remain usable in copy: 30 connected cases, reader Recruit Credential/identity, maps/codes/visual evidence/logic, three-level Hint Vault and reasoning-led Solution Files
+- owner gates still include final reviewed interior/physical proof, winning cover/wrap where applicable, pricing, explicit English freeze and KDP publication
 
-Marketing must now become launch-ready without delaying the owner-controlled release gate.
+Marketing should keep building recognition and owner-review-ready organic assets without outrunning product truth.
 
 ## Buyer
 

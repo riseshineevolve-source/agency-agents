@@ -208,6 +208,25 @@ The scanner-question-mark is the only Detective Academy symbol unless the owner 
 
 ---
 
+
+## 8A. Page 3 squad-art emblem decision — owner lock 2026-09-26
+
+For the page 3 squad image:
+
+**Use scanner variant in PDF; preserve original file.**
+
+Implementation rule:
+- preserve the original approved squad-art source byte-for-byte;
+- do NOT regenerate the full image;
+- do NOT change Happy Makers faces, ages, hair, clothing, poses or proportions;
+- create/use a derived presentation copy only for the final PDF if needed;
+- replace/cover only the legacy shield/laurel/torch emblem region with the canonical scanner-question-mark mark;
+- match local grayscale/lighting/texture so the replacement looks native;
+- keep the original approved image available unchanged in the owner-art/source archive.
+
+Fail closed:
+if the emblem cannot be changed without altering character pixels or composition, retain the approved original and flag the exact page for owner review instead of regenerating the squad.
+
 ## 9. Modern-world design language
 
 The Academy is contemporary / near-future, not old detective nostalgia.
@@ -404,3 +423,67 @@ A final candidate is visually ready only when:
 - physical proof confirms comfortable print readability.
 
 Only after this + physical proof + explicit owner decision may English be frozen.
+
+
+## 18A. Text Gold Master gate — 2026-09-27
+
+Before any further full-book renderer/layout consolidation, use:
+
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V2.md`
+
+as the complete text-layer working master.
+
+Do not let a renderer independently shorten, omit or rewrite approved narrative sections.
+
+Required case sequence:
+1. CASE FILE // WHAT HAPPENED
+2. YOUR OBJECTIVE
+3. INVESTIGATION RULES where needed
+4. HAPPY MAKERS CHAT
+5. EVIDENCE / PUZZLE
+6. mechanic-specific response surface
+7. CASE CLOSED
+8. KEEP THIS / SIGNAL LOG where applicable
+
+Layout is subordinate to text/logic. Reflow before copy deletion.
+
+The Gold Master remains owner-review text, not English freeze, until explicit owner acceptance and source integration.
+
+
+### V2 red-team override — 2026-09-27
+
+Active working text layer:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V2.md`
+
+V1 remains archive/reference only.
+
+Important structural refinement:
+- ordinary cases render **CASE RESULT**, not CASE CLOSED;
+- Room Zero may use CASE CLOSED at the finale;
+- renderer must preserve V2's four-marks/five-routed-files Act I logic;
+- renderer must not place an extra Room Zero mark on Case 03 owner art;
+- Case 26 display title is THE CASE OF THE EMPTY ROOMS;
+- exact objectives, evidence and puzzle mechanics remain locked and unchanged.
+
+
+### V3 opening + case-blueprint override — 2026-09-27
+
+**This section supersedes the V2 text pointer for future layout integration.**
+
+Active text source:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Critical layout locks:
+- page 1 sixth field position = `?` only, never YOU;
+- do not repeat the empty-hook explanation on later intro pages;
+- black envelope -> blank credential -> invitation question -> reader claim is the sole recruitment logic;
+- page 5 credential must look like a real Academy badge/credential, not a plain worksheet;
+- page 8 defines the only reader-facing coordinate/legend semantics;
+- one coordinate system only on final maps;
+- coordinate labels remain close to the grid;
+- no stale grey-zone legend;
+- all 30 cases preserve the V3 case sequence and mechanic-specific response surface;
+- Evidence Grid/scanner-question-mark identity is applied as a modern functional system;
+- layout must reflow before cutting V3 copy.
+
+V3 supersedes V2 for renderer integration once owner approves the text.

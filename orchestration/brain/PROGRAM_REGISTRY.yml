@@ -1,5 +1,5 @@
-version: 24
-updated: 2026-09-24
+version: 25
+updated: 2026-09-28
 brain_status: canonical
 global:
   master_brand: Rise.Shine.Evolve.
@@ -25,6 +25,7 @@ commercial_priority_stack_2026_q4:
     - happy_me
     - opinie
     - ai_discovery_website
+    - unstoppable_me
   revenue_first: true
   google_play_duns_must_not_block_kdp_revenue: true
 
@@ -181,16 +182,16 @@ programs:
     detective_cover_a_plus_lock: marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md
     next_gate: owner_review_first_live_batch_then_routine_organic_autopilot
   polish_localization:
-    status: detective_calibrated_second_commercial_priority_merge_conflict_owner_frozen
-    branch: rse/polish-localization-engine-v1
+    status: reconciled_branch_green_but_diverged_owner_freeze_required
+    branch: codex/polish-engine-main-reconcile
     repo: riseshineevolve-source/agency-agents
-    pr: 6
-    registry_note: PR 6 remains Draft/Open at head f9d9386 with Localization Regression #31 green; canonical main writes on 2026-09-24 re-established mergeable false after a transient clean read; do not destructively rebase or merge, and no full Detective translation is authorized before explicit English source freeze
+    pr: 13
+    registry_note: PR 13 remains Draft/Open at head 147f160c1e5b5df8cd930d817bf42a64cc85af82 with historical 8_of_8 current-head workflows PASS; live compare on 2026-09-28 is 3 ahead / 63 behind main and mergeable false, so refresh plus fresh CI is required before merge review; no Detective PL translation is authorized before explicit English source freeze
     full_book_scaleout_authorized: false
     detective_profile: localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md
     detective_calibration_fixture: localization/pl-PL/golden-tests/detective-academy-calibration-round1.md
-    detective_branch_head: f9d938611661f74108bdafa1df6ac8de1aaa27f1
-    branch_reconcile_status: MERGE_CONFLICT_RECORDED_NO_DESTRUCTIVE_REBASE_OR_MERGE
+    detective_branch_head: 147f160c1e5b5df8cd930d817bf42a64cc85af82
+    branch_reconcile_status: DIVERGED_3_AHEAD_63_BEHIND_REFRESH_AND_FRESH_CI_REQUIRED
     pr_mergeable: false
     regression_local_2026_09_21: PASS_37159_chars_7_fixtures
     production_contracts_and_invariant_gates: PASS
@@ -202,9 +203,15 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: v4_1_source_polish_exhausted_owner_visual_gate_open_front_cover_owner_selection_reopened_english_not_frozen
+    status: text_gold_master_v3_owner_review_open_layout_renderer_paused_english_not_frozen
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/detective-book-factory
+    text_repo: riseshineevolve-source/agency-agents
+    text_gold_master_v3: orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md
+    current_text_head: 76519a78cabf2a45dde07b8747b2339b0b97644c
+    text_owner_review_open: true
+    text_layout_renderer_paused: true
+    preserve_v3_version_family: true
     pr: 571
     current_head: 1fed50b7e969c60da1a1b9d743665473ceb15049
     verified_implementation_head: 1fed50b7e969c60da1a1b9d743665473ceb15049
@@ -277,9 +284,11 @@ programs:
     modern_prop_art_owner_approved: false
     modern_prop_next_safe_step: external_art_creation_outside_codex_then_owner_review_exact_sha_registration_then_three_pilot_integration_render_QA
   happy_me:
-    status: external_device_release_gates
+    status: delegated_release_hardening_external_device_owner_gates
+    execution_owner: happy_me_24_7_delegated_worker
+    central_role: watchdog_and_portfolio_sync_only
     repo: riseshineevolve-source/riseshineevolve
-    branch: mobile/mobile-first-rebuild
+    branch: codex/happy-me-production-hardening
   optical_animals:
     status: owner_gated_exact_identity_renderer_provenance_hardened_quality_green_art_lock_active
     repo: riseshineevolve-source/riseshineevolve
@@ -319,11 +328,12 @@ programs:
     butterfly_layout_owner_decision: pending_actual_approved_art_comparison_packet_A_single_vs_B_true_spread
     next_gate: owner_resolve_remaining_art_and_butterfly_layout_approve_production_resolution_inputs_and_source_linked_tokens_then_approve_full_order_contact_proof_and_final_lock
   senior:
-    status: source_side_hardening_complete_external_release_gates
+    status: delegated_product_content_completion_external_release_gates
+    execution_owner: senior_mind_bloom_delegated_worker
     repo: riseshineevolve-source/hello-today-android.
     current_pr: 77
     current_phase: 14H
-    current_head: 7df593bac70d76653d83bc550f6e3052835ba478
+    current_head: 975ad8020e8d93c598d9911537b9682b308070b5
     source_hardening_final_head: 7df593bac70d76653d83bc550f6e3052835ba478
     implementation_verified_head: 9a848250bc8dc64d7170115de89f0aa683ff2e8c
     release_hardening_commit: 7df593bac70d76653d83bc550f6e3052835ba478
@@ -342,9 +352,9 @@ programs:
     next_safe_slice: none_source_side_wait_for_external_owner_device_gates
     external_owner_gates_unchanged: true
   mind_bloom:
-    status: private_v1_source_release_candidate_frozen_deployment_hardening_green
+    status: private_v1_source_release_candidate_frozen_bounded_private_deployment_privacy_lane
     commercial_status: private_owner_only
-    execution_owner: central_orchestrator
+    execution_owner: senior_mind_bloom_delegated_worker
     previous_dedicated_chat: parked_archive_only
     codex_usage_governor: central_orchestrator
     repo: riseshineevolve-source/mind-bloom-assistant
@@ -360,7 +370,7 @@ programs:
       - Phase_2A_2_Reviewed_External_Ingestion_Contract
       - Phase_2A_Integration_Security_Regression_Hardening
     active_slice: Phase_2B_provider_gate_owner_decision_only
-    current_remote_head: fdbc2630d1dd196bbe7ebceafd4994f23377d699
+    current_remote_head: 77ddb07be6c8aa12e5a2ccb0712bf1e8b1502108
     latest_product_slice_head: b0435883d97abce52ed72eb4475eab6398f4c4c5
     latest_live_ci_run: 83
     latest_live_ci_head: fdbc2630d1dd196bbe7ebceafd4994f23377d699
@@ -416,6 +426,24 @@ programs:
     final_expert_conclusion_automatic: false
     real_case_data_remote_allowed: false
     next_safe_slice: synthetic_only_lane_parked_preserve_green_human_gate_without_real_remote_data
+  unstoppable_me:
+    status: active_parallel_revival_ci_baseline_blocked_release_hardening
+    execution_owner: central_orchestrator
+    repo: riseshineevolve-source/unstoppable-me
+    branch: codex/unstoppable-me-revival
+    current_head: 6ba8d1cea98c2f57e57eccd125e615e27f74379b
+    compare_to_main: 7_ahead_0_behind
+    dual_product: 31_day_kdp_workbook_plus_interactive_app
+    parity_structural_baseline: 123_of_124_core_identifiers_aligned
+    parity_note: day_10_app_retains_tangram_and_adds_beat_the_clock_as_app_specific_enhancement
+    ci_run: 36386284582
+    ci_conclusion: FAIL_INSTALL_BEFORE_TEST_BUILD_LINT
+    privacy_rpc_hardening_source_patch: PREPARED_WRITE_BLOCKED_NOT_APPLIED
+    production_supabase_changes_authorized: false
+    kdp_publication_authorized: false
+    google_play_publication_authorized: false
+    therapy_treatment_marketing_allowed: false
+    next_safe_slice: establish_clean_dependency_lock_and_ci_baseline_then_land_source_only_privacy_hardening_and_continue_claims_product_truth_cleanup
   content_recovery:
     status: active
     policy: orchestration/RSE_CONTENT_SOURCE_POLICY.md
@@ -424,7 +452,6 @@ hold:
   wave_2:
     - happy-makers-quest
     - family-mission-control
-    - unstoppable-me
     - night-command
     - family-hearth-stories
     - spark-joy-fam

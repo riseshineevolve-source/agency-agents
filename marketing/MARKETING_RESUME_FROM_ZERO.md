@@ -1,7 +1,7 @@
 # RSE Marketing Autopilot — Resume From Zero
 
 Status: CANONICAL RECOVERY ENTRYPOINT
-Updated: 2026-09-24
+Updated: 2026-09-29
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
 
@@ -27,7 +27,7 @@ The Central RSE Orchestrator does NOT duplicate content production, publishing o
 8. `marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md`
 9. `marketing/DETECTIVE_ACADEMY_CONTENT_BANK.md`
 10. `marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md`
-11. `marketing/DETECTIVE_30D_ENGINE.md`
+11. `marketing/DETECTIVE_30D_ENGINE_V2.md`
 12. `marketing/PERFORMANCE_MEMORY.yml`
 13. `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
 14. `marketing/DETECTIVE_ACADEMY_KDP_RELEASE_PACKAGE.md`
@@ -66,30 +66,51 @@ Do not wait for Google Play/DUNS to monetize KDP-ready products.
 
 ## Current Detective truth
 
-The English interior has completed the asset-independent V4.1 source-polish lane, but it is still **NOT FROZEN**:
-- PR #571 is Draft / Open / Mergeable
-- current head `1fed50b7e969c60da1a1b9d743665473ceb15049`
-- Build Detective Academy PDF #174 PASS and SEO Validation #713 PASS on the current head
-- the physical contract is 146 pages
-- exact Field Detective ID/call-sign corrections, Case Wall/Evidence Log onboarding, the page-110 Hint Vault/Solutions divider, Signal Log/Witness Board/finale/certificate polish, grayscale/typography fail-closed QA, Case 26 generated-map references, deterministic case-parity visual families, and source-locked modern-prop safety scaffolding are present
-- canonical story/logic/spatial geometry remains protected; do not reopen the locked 30-case logic, five-act story, Detective Six premise, Room Zero mechanism, Naming B, numeric witness IDs or solved Shigai geometry
-- the earlier canonical Shigai/runtime/final-map materialization blocker is closed; verified Shigai geometry must still never be reconstructed or approximated
-- asset-independent source polish is exhausted; do not manufacture additional refactors or repeated audits while waiting for the owner visuals
-- English source remains **NOT FROZEN**
+Reconciled from current GitHub on 2026-09-29. Product repositories are **READ-ONLY to Marketing Autopilot**.
 
-The exact final owner visual set is expected to contain exactly four files:
-- `case03_photo_A.png`
-- `case03_photo_B.png`
-- `case03_solution.png`
-- `book2_archive_photo.png`
+Current reader-copy authority:
+- same V3 family: `orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+- canonical text commit: `3c0caedbcc313658767cb4251b2c1741c4a7edcf`
+- canonical text blob: `8370026a811ad3354aaa8e422ebe2edf58464845`
+- status: **FINAL PRE-CODEX TEXT MASTER / EN NOT FROZEN**
 
-Do not pre-approve, synthesize, regenerate, restyle, destructively crop or silently substitute any of those final owner files. When all four exact files are supplied, the product final pass must extend the fail-closed gate to all four, SHA-lock them and integrate the exact `case03_solution.png` into the Case 03 solution slot.
+Current production state:
+- Detective Book Factory branch `feature/detective-book-factory` was observed at `989bce1fc1846fcb2480517d1b4965f3add204aa`;
+- premium-layout restoration is delegated to Codex;
+- while Codex owns that lane, Marketing must not write product copy, renderer, layout, assets or source files;
+- the compact 127-page integration proof is a source/evidence integration proof only and is **not** final visual or page-count authority;
+- do not market the compact proof as the finished interior;
+- the next reviewed product artifact is expected to restore the premium page-family system around the exact V3 text: Evidence Grid language, boxed sections/HM chat, dedicated left Witness Board + large right Live Case Map, large bold coordinate rails, full Case 03 visual comparison treatment, quiet publication/brand page and reverse-entry Hint Vault/Solutions;
+- do not infer final pagination until that premium render is reviewed.
 
-The next safe product sequence is: wait for all four exact owner files -> SHA-lock/integrate them -> render/audit the exact final artifact -> independent full-PDF visual review + back-entry simulation -> representative physical proof -> final visual approval -> separate explicit English source freeze.
+Current verified reader-facing facts safe for marketing:
+- 30 connected cases;
+- one book-long mystery;
+- the reader claims a Recruit Credential / detective identity;
+- puzzle families include maps, codes, visual evidence and logic;
+- three-level Hint Vault;
+- reasoning-led Solution Files;
+- some earlier evidence can matter again later;
+- reader is the missing detective.
 
-Marketing must not describe the interior as final/frozen or announce a publication-ready date before those gates and explicit owner approval.
+Current spoiler guard:
+- do not reveal Rule Zero as an opening beat;
+- do not reveal `CHECK THE OLD MAP`;
+- do not reveal the Room Zero mechanism;
+- do not reveal final code/coordinate;
+- do not reveal Book 2 archive/triangle resolution;
+- do not show case solutions in promotional proof.
 
-The earlier ALL-15 map-system design gate remains closed; the four-file visual set is a separate owner gate and does not inherit the map-system approval.
+Current marketing execution authority:
+- `marketing/DETECTIVE_PRELAUNCH_PRODUCTION_PACK_V2.md`
+- `marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md`
+- `marketing/DETECTIVE_MARKETING_READINESS_MATRIX_2026-09-29.md`
+
+Current CTA rule:
+- PRE-LAUNCH: Follow / Save / Vote / Your first case is coming.
+- KDP LIVE: Amazon / Join the Academy CTA only after the live listing URL, price/availability and product artifact are verified.
+
+English remains **NOT FROZEN**. Do not announce a publication-ready date, final page count, price, availability, rating/review, discount or bestseller claim before the relevant owner/live gates close.
 
 ## Current Detective cover + A+ truth
 

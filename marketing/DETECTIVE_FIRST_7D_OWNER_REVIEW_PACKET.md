@@ -1,9 +1,10 @@
 # Detective Academy — First 7-Day Owner Review Packet
 
-Status: READY FOR OWNER REVIEW / DO NOT SCHEDULE YET
+Status: REFERENCE / POST-LIVE CTA PACK / DO NOT SCHEDULE YET
 Created: 2026-09-23
+Current pre-launch production authority: `marketing/DETECTIVE_PRELAUNCH_PRODUCTION_PACK_V2.md` (2026-09-29). Keep this file as the Amazon-live CTA/reference layer.
 Execution owner: RSE Marketing Autopilot
-Launch trigger: verified live Amazon/KDP URL
+Launch trigger for this packet's Amazon CTA layer: verified live Amazon/KDP URL. Pre-launch content uses the V2 production pack and does not wait for that URL.
 Primary buyer: parent/caregiver of a child around 8–12
 Primary goal: establish product difference + ownership before asking for purchase
 

@@ -130,3 +130,18 @@ This section supersedes stale Detective packaging/visual-gate wording above wher
 - Required repair scope: recurring Objective/HM Chat/Rules/Answer-entry structure, HM Chat boxes, modern Witness Board, Evidence Grid motif, scanner-question-mark symbol, sixth-slot reveal timing, stale-name cleanup, then all-146 human visual audit.
 - Do not reopen solved puzzle logic, map geometry, Case 03 owner art, modern props, Room Zero mechanism or reverse-entry mechanics unless a concrete regression is proven.
 - Next owner gate after the bounded visual pass: physical proof -> explicit EN freeze -> Detective PL.
+
+
+### Detective final-interior override — 2026-09-26 late
+
+This section supersedes older wording above where it conflicts.
+
+- Final interior visual-system repair is **PASS locally** on Codex worktree commit `6579ac896c477461fe1c384993315d7455b3f7c5`.
+- Final reported interior artifact: 146 pages, 8.5 x 11, grayscale, embedded fonts, reverse-entry PASS, 30/30 recurring case structure, 37/37 HM Chat, 30/30 answer surfaces, 15/15 structural, 15/15 unique, all-30 logic, Room Zero, CHECK THE OLD MAP and Case 03 PASS.
+- Final reported PDF SHA-256: `cb1038dcc9086501b86527227550584da7f38fc051bc70442803f82ebddeab7f`.
+- Final owner-review ZIP SHA-256: `07e7a1abf724a401f98a10954d4285ffcb8a6ceb53437ede4b71dcd5be7222f1`.
+- This exact local commit has NOT yet been pushed or merged; safe remote persistence is the next technical action.
+- Interior is CLOSED for broad redesign. Only concrete KDP-preview/physical-proof defects may reopen a bounded fix.
+- Remaining EN gates: final full-wrap cover -> KDP Previewer/preflight -> representative physical proof -> explicit owner EN freeze -> KDP publication.
+- The physical-proof check must focus on child-size readability because deterministic typography passes the 9 pt floor but much notes text remains below a 10.5 pt comfort target.
+- Detective PL remains commercial #2 and starts only after explicit EN freeze with frozen source/hash/alias receipt.

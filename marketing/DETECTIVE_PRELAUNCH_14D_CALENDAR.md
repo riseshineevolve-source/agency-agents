@@ -1,6 +1,10 @@
 # Detective Academy — 14-Day Pre-Launch Calendar
 
-Status: DRAFT READY / DO NOT AUTO-PUBLISH UNTIL OWNER REVIEWS FIRST BATCH
+Status: OWNER-REVIEW BATCH PREP / DO NOT AUTO-PUBLISH UNTIL OWNER REVIEWS FIRST BATCH
+Last reconciled: 2026-09-28
+Current product state: FINAL PRE-CODEX V3 TEXT MASTER / PREMIUM LAYOUT RESTORE IN PROGRESS / EN NOT FROZEN
+Current reader-copy authority: orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md @ 3c0caedbcc313658767cb4251b2c1741c4a7edcf
+Marketing rule: use the owner-locked front cover and current V3 copy now; wait for the reviewed post-Codex artifact before using interior screenshots as final product proof. The compact 127-page integration proof is not a final marketing interior.
 Start trigger: use immediately once first approved visual assets are available.
 No KDP listing required for Days 1–10.
 
@@ -27,7 +31,7 @@ D4 carousel:
 30 CASES. ONE HIDDEN MYSTERY.
 
 D5 FB parent post:
-why "30 cases" is different when solved files can matter later.
+why "30 cases" is different when some earlier evidence can matter later inside one continuing investigation.
 
 D6 Story teaser:
 "Keep your old case files."
@@ -59,7 +63,8 @@ Witness Board -> Live Case Map.
 ### Days 13–14 — Ownership / Launch Bridge
 D13:
 "Your first case starts before Case 01."
-Show badge/name field/Rule Zero.
+Show the Recruit Credential: DETECTIVE NAME / OFFICIAL CALL SIGN / MY BEST DETECTIVE SKILL / SIGNATURE / FIRST CASE DATE.
+Do not show or mention Rule Zero here; it belongs to the later story.
 
 D14:
 hero pre-launch post:
@@ -76,10 +81,20 @@ swap CTA to Join the Academy / View on Amazon.
 Minimum viable launch assets:
 - cover or approved hero mockup
 - blank badge / opening spread
-- 2–3 approved interior page crops
-- Witness Board crop
-- Live Case Map crop
-- Hint Vault crop
+- 2–3 reviewed post-Codex interior page crops
+- Witness Board crop only from the reviewed premium left-page layout
+- Live Case Map crop only from the reviewed large-map right-page layout
+- Hint Vault crop from the reviewed artifact
 - certificate/rank visual if approved
+
+Until the post-Codex interior is reviewed, do not use the compact 127-page proof as polished visual evidence.
+
+Live channel note 2026-09-28:
+- Metricool brand Rise.Shine.Evolve. verified with Facebook, Instagram and YouTube connected.
+- No scheduled posts were returned for 2026-09-28 through 2026-10-28.
+- Recent 30-day queries returned no IG Reels/posts or Facebook posts.
+- Instagram best-time data currently has no usable signal; do not pretend timing is optimized.
+- Facebook directional audience-time signal is strongest around late morning/noon; YouTube around late afternoon.
+Use timing only after the first batch is owner-approved.
 
 No complex AI video is required for this calendar.

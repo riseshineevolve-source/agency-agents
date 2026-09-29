@@ -674,3 +674,503 @@ from GitHub + explicitly referenced private sources.
 Canonical interior design and non-regression contract: `orchestration/detective/DETECTIVE_ACADEMY_INTERIOR_DESIGN_SYSTEM.md`.
 
 Current rule: Detective EN remains NOT FROZEN. The 146-page logic/map/Case03/reverse-entry gates are green, but owner visual review reopened the interior design gate for recurring structure, Happy Makers Chat restoration, Witness Board modernization, Evidence Grid identity, sixth-slot reveal timing, stale-name cleanup, and a fresh 146-page human visual audit before physical proof.
+
+
+## Polish Engine reconciliation PASS — 2026-09-26
+
+Current-main reconciliation is technically PASS on local branch `codex/polish-engine-main-reconcile`, local HEAD `147f160c1e5b5df8cd930d817bf42a64cc85af82`.
+
+Durable checkpoint:
+`orchestration/brain/checkpoints/2026-09-26-polish-engine-main-reconciliation-pass.md`
+
+All deterministic localization tests are green; 34 fit/provisional-terminology review items remain non-deterministic review work.
+
+Next safe action:
+push branch -> draft PR/current-head CI -> Central diff review.
+
+Full Detective PL remains blocked until explicit EN freeze.
+
+
+## Gentle Steps Days 08–14 language candidate — 2026-09-26
+
+Bounded Polish candidate completed from published English paperback pages 43–63:
+- Days 08–14
+- 21 activities
+- local Codex commit `4fa7700a75c6444ee9e104bf6adf2692d11d8899`
+- source fidelity PASS
+- natural Polish PASS
+- Happy Makers character voice PASS
+- claim/safety PASS
+- no shared terminology/engine change requested
+
+Durable checkpoint:
+`orchestration/brain/checkpoints/2026-09-26-gentle-steps-days08-14-pass.md`
+
+Important: at Central verification time the remote branch is still at `630e39a603177d4b923e74944a7ae4d03863d1ea`; the local Days 08–14 commit must be pushed before the branch state is durable remotely.
+
+Real-template fit remains OPEN for Week 1 and Week 2. Next safe bounded language slice: Days 15–21 after exact source-page-boundary confirmation.
+
+## Polish Engine PR #13 — Central review state 2026-09-26
+
+PR #13 `Reconcile Polish Localization Engine with current main`:
+- Draft / Open / Mergeable
+- head `147f160c1e5b5df8cd930d817bf42a64cc85af82`
+- 56 changed files in the expected localization/engine/role/runbook/workflow scope
+- 8/8 current-head GitHub Actions PASS
+- no failing jobs
+- zero deterministic localization errors
+- 34 fit/provisional-terminology review items remain non-publication review work
+
+Central review finds the reconciliation scope consistent with the intended current-main engine recovery. Do not start full Detective PL before explicit EN freeze. Do not merge without the applicable owner/central merge decision.
+
+
+## Detective final visual-system PASS — 2026-09-26
+
+Owner supplied the completed Codex report from the existing local `codex/modern-props-pilot` worktree.
+
+Local final-interior commit:
+`6579ac896c477461fe1c384993315d7455b3f7c5`
+
+Important durability note:
+- the commit is local only;
+- nothing was pushed or merged;
+- treat the exact local artifact/commit as current owner-reviewed working truth until it is safely pushed to a remote branch.
+
+Reported final-interior state:
+- recurring case structure 30/30 PASS;
+- Happy Makers Chat 37/37 PASS;
+- answer/verdict surfaces 30/30 PASS;
+- Witness Boards PASS;
+- Evidence Grid + scanner-question-mark system PASS;
+- page 001 mystery-slot timing PASS;
+- stale reader-facing placeholder names eliminated;
+- ISBN + AI disclosure PASS;
+- Case 03 exact-ten / owner art PASS;
+- 30 approved map embeds pixel-identical;
+- 15/15 structure + 15/15 unique solutions + all-30 logic PASS;
+- Room Zero + CHECK THE OLD MAP PASS;
+- 146 pages / Letter / grayscale / embedded fonts / reverse-entry PASS;
+- 146/146 human visual audit PASS.
+
+Final reported PDF SHA-256:
+`cb1038dcc9086501b86527227550584da7f38fc051bc70442803f82ebddeab7f`
+
+Owner-review ZIP SHA-256:
+`07e7a1abf724a401f98a10954d4285ffcb8a6ceb53437ede4b71dcd5be7222f1`
+
+Canonical checkpoint:
+`orchestration/brain/checkpoints/2026-09-26-detective-final-visual-system-pass-physical-proof-next.md`
+
+Decision:
+**INTERIOR VISUAL-SYSTEM PASS LOCALLY / PHYSICAL PROOF NEXT.**
+
+English remains NOT FROZEN.
+
+Do not reopen the interior broadly. Only fix a concrete KDP-preflight or physical-proof defect.
+
+Remaining Detective EN work:
+safe remote persistence -> final full-wrap cover -> KDP previewer/preflight -> representative physical proof -> explicit owner EN freeze -> Detective PL.
+
+
+## Gentle Steps Days 15–21 PASS — 2026-09-27
+
+Bounded Polish language candidate completed from the published paperback:
+- Days 15–21
+- PDF pages 65–85
+- 21 activities
+- source fidelity / completeness / natural Polish / character voice / claim language PASS
+
+Remote branch remains at `4fa7700a75c6444ee9e104bf6adf2692d11d8899`; latest Days 15–21 commit `ef09623a9956ef9a4c197275d4353c7b52b0abd0` is local-only until pushed.
+
+Open gates:
+- real-template fit for Weeks 1–3
+- Day 18 eyes-closed walking safety decision
+- source-rule ambiguities on Days 16, 18 and 21
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-27-gentle-steps-days15-21-pass.md`
+
+Next bounded language slice:
+Days 22–24 after exact source-page-boundary confirmation.
+
+## World 01 real pilot PASS — 2026-09-27
+
+Branch `codex/interactive-book-world01-pilot` remote HEAD:
+`7795e6933c39f4f126666ad712c690ccd418f048`
+
+First source-backed real content-pack pilot is green:
+- mission openers 1–3
+- 3/10 openers = 30%
+- 3/108 pages direct evidence
+- 24 fail-closed tests PASS
+- Interactive Book Contract CI PASS
+- published source remains canonical over divergent app copy
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-27-world01-real-pilot-pass.md`
+
+Next safe slice:
+audit World 01 Level 1 pages 16–22 and expand only source-supported coverage.
+
+
+## Detective text-only Gold Master V1 — 2026-09-27
+
+Canonical working text master:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V1.md`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-27-detective-text-gold-master-v1.md`
+
+Commit creating the full master:
+`7ddd722f7d5aba29de214cb633c627afbcb652b1`
+
+Scope covers front matter through Book 2 hook plus all three Hint Vault levels and full Solution Files.
+
+Narrative rule:
+each case must read as a small believable story inside the larger Room Zero investigation, not as a worksheet prompt.
+
+Current recurring text structure:
+CASE FILE / WHAT HAPPENED -> YOUR OBJECTIVE -> INVESTIGATION RULES -> HAPPY MAKERS CHAT -> EVIDENCE -> mechanic-specific response -> CASE CLOSED -> KEEP THIS / SIGNAL LOG.
+
+Spatial named anchors are not missing people or automatic suspects; their room companion is the next useful person to ask, not somebody to blame.
+
+Generic answer lines are prohibited where the mechanic requires marking, sorting, ordering, coding or direct annotation.
+
+Detective layout/Codex integration is PAUSED until owner accepts the Gold Master text direction. The next layout pass must consume fixed text and may not independently shorten/rewrite it to fit a historic page count.
+
+
+## Detective Text Gold Master V2 — 2026-09-27
+
+Active owner-review text master:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V2.md`
+
+Red-team audit:
+`orchestration/detective/DETECTIVE_ACADEMY_TEXT_RED_TEAM_AUDIT_V2.md`
+
+V2 master commit:
+`20f8cbeb599ff146fcab02c66cacf3597faa0e55`
+
+V2 SHA-256:
+`8a1e02a880f8c3507f8e2007838f96e6d1d44fa7c066ff80d6977948288d3de3`
+
+V1 is retained as archive/reference and is no longer the active working text layer.
+
+Key V2 decisions:
+- ordinary files use CASE RESULT, not CASE CLOSED, because many contact cases establish the next interview rather than fully resolving the real-world incident;
+- Case 03 INTAKE-03 is a neutral routed comparison record and does not invent a fifth printed 0 on owner art;
+- first Act recap uses five routed files / four matching marks;
+- Case 26 display title becomes THE CASE OF THE EMPTY ROOMS;
+- Case 07 pre-puzzle chat no longer leaks the missing-costume situation;
+- all 30 intros were rewritten for story continuity, child clarity and tension;
+- all 30 case-result and Keep/Signal beats were red-teamed;
+- objective/evidence/puzzle truth remains unchanged;
+- layout integration remains PAUSED until owner accepts the V2 text direction.
+
+Do not let later renderer work silently revert V2 copy to V1/current PDF wording.
+
+
+## Detective Text Gold Master V3 — 2026-09-27
+
+**This section supersedes V2 as the active text-review source.**
+
+Active final-text candidate:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-27-detective-text-gold-master-v3.md`
+
+Master commit:
+`01eb2cf1e0f9b868c12f06e1e5390c2632b71123`
+
+V1/V2 remain history/reference.
+
+V3 locks the first ten reader pages as one progressive recruitment sequence:
+unexplained `?` -> concise Happy Makers introduction -> black envelope -> blank Recruit Credential -> mistake/coincidence/invitation -> WILL YOU CLAIM IT -> child completes real credential -> concise 30-connected-case/Room Zero promise -> case rhythm -> map/contact rules -> Hint Vault/Case Wall -> Case Index.
+
+V3 also contains the binding non-reader-facing case blueprint and a 30/30 schema compliance matrix.
+
+Detective renderer/Codex integration remains PAUSED until owner explicitly accepts V3 text direction.
+
+
+## Detective V3 integrity audit — 2026-09-27
+
+V3 was directly audited against V1, V2 and the V2 red-team corrections.
+
+Result:
+- substantive V1/V2 fixes preserved;
+- two assembly-format regressions fixed in place;
+- repeated Act-opening copy consolidated;
+- no new V4/V3.1 created.
+
+Audit:
+`orchestration/detective/DETECTIVE_ACADEMY_TEXT_V3_INTEGRITY_AUDIT.md`
+
+Current audited Markdown SHA:
+`31356a78ee865c7c78068b1451f4c89191fff6e71ac03489a3d030f5a2f2973b`
+
+Current audited editorial PDF SHA:
+`8fef53692ad474139d517dae03012f23d4262b302d2756a813003744bc03b166`
+
+Codex layout remains paused pending owner text acceptance.
+
+
+## Detective V3 owner refinement pass — 2026-09-27
+
+Active text master remains:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical content commit after the owner opening/transition/finale pass:
+`5fc40a06f9993091875e902f05ce754aac2e2e3f`
+
+Do not create another text version number for minor/editorial fixes.
+
+Current V3 now includes:
+- black-envelope cold open before Academy/team explanation;
+- real Case Wall location;
+- upside-down Hint Vault / Solution Files explanation;
+- one `MY DETECTIVE EDGE` credential field;
+- Case 01 QUILL/MORSE/PIP/KNOX witness set with answer name visible;
+- 17/17 named-answer evidence-visibility audit PASS;
+- strengthened purpose sentences in contact-case intros;
+- narrative Room Zero finale;
+- witness-name library;
+- 30/30 narrative-bridge audit.
+
+Layout/Codex remains paused until owner approves the text.
+
+
+## Room Zero reveal refinement — 2026-09-27
+
+Active V3 master remains:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical content commit:
+`95621752447c793e8485440a787f406f390b4582`
+
+Owner-approved direction:
+two-sentence Room Zero summary first, then Alio asks for a translation and the full Happy Makers family explains the complete causal chain in chat form. No causal detail was dropped.
+
+Layout/Codex remains paused until owner accepts the text.
+
+
+## Detective V3 evening persistence — 2026-09-27
+
+The full owner-review text master is durably stored at:
+
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest content commit:
+`a735f9e5d09aee1ea0a39b400eb956d7d8d7b22e`
+
+This remains **V3**; do not create another numbered text version for minor/editorial corrections.
+
+Latest owner-approved direction includes the final Room Zero explanation structure:
+two-sentence overview -> Alio needs translation -> full Happy Makers causal explanation -> `The Academy could open the door. Only you could earn the badge.`
+
+Current Detective state:
+**TEXT OWNER REVIEW OPEN / LAYOUT PAUSED.**
+No overnight Detective redesign or renderer work unless new owner feedback arrives.
+
+
+## Unstoppable Me revival — 2026-09-27
+
+Owner reactivated **Project Unstoppable / Unstoppable Me** as an active parallel product lane because of its strong overlap with the teen coping-skills / self-regulation opportunity.
+
+Canonical code:
+`riseshineevolve-source/unstoppable-me`
+
+Base main at revival:
+`df1014c7318d6b14a97ef183790c8b3c7b3ad0c2`
+
+Active revival branch:
+`codex/unstoppable-me-revival`
+
+Revival setup head:
+`651f28ceb09070354394a36deac97df98441ecc1`
+
+Central checkpoint:
+`orchestration/brain/checkpoints/2026-09-27-unstoppable-me-revival.md`
+
+Source custody:
+- Library: `/AI AGENTS/UNSTOPPABLE/Project_Unstoppable_6x10_Fixed.pdf`
+- Library: `/AI AGENTS/UNSTOPPABLE/Project_Unstoppable_extracted_text.docx`
+
+The separate `Unstoppable-Me-Edit` repository is empty and is not canonical.
+
+The project is a dual product:
+- 191-page / 31-day KDP workbook;
+- interactive 31-day app using the same core content universe.
+
+Strategic direction:
+modern teen coping/self-regulation + life-skills adventure, not therapy.
+
+Immediate gates:
+baseline CI -> KDP/app parity -> editorial/claims safety -> product-truth cleanup -> Play/privacy/minors release readiness.
+
+Central already removed tracked `.env` from the revival branch, added env ignore protection + `.env.example`, CI workflow and `CODEX_START_HERE.md`. Do not expose historical environment values. If any privileged historical secret exists, rotate it rather than printing it.
+
+No merge, KDP publication, Play publication or production Supabase change without owner gate.
+
+
+## Detective V3 narrative cleanup — 2026-09-28
+
+Active text master remains:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical text commit:
+`76519a78cabf2a45dde07b8747b2339b0b97644c`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-28-detective-v3-narrative-cleanup.md`
+
+Owner-driven cleanup now locked:
+- recruit credential has no field position; one `MY BEST DETECTIVE SKILL` field;
+- no immediate reader-facing CASE RESULT/answer duplication after cases;
+- answers/reasoning only in upside-down Hint Vault/Solution Files;
+- Case Wall is page 9 and stores only explicitly requested reusable meta evidence, never every verdict;
+- Case 03 instruction de-duplicated;
+- Case 05 restored to six-symbol code `BALL -> STAR -> BOLT -> HEART -> KEY -> MOON`;
+- Case 01 stale hint aliases removed;
+- Academy story world now explicitly spans specialist wings, staff requests, field exercises, nearby partner sites, direct witnessed incidents and occasional intake-system routing across multiple days/weeks;
+- Case 04 upgraded from cupcake mix-up to `THE EVIDENCE BOX IN THE WRONG TENT` while preserving the exact same locked spatial puzzle;
+- main-case intros remain narrative prose, not worksheet fragments;
+- solution files use one short `WHY IT MATTERS` consequence rather than duplicating the solved answer.
+
+Do not revert any of these changes in later renderer/Codex work.
+
+Detective layout integration remains PAUSED pending owner text approval.
+
+
+## Detective V3 final 1000% text audit — 2026-09-28
+
+Active text master remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest full-content commit:
+`3e534a2a5fe95dc183a0825071ae064175803a0b`
+
+Final audit report:
+`orchestration/detective/DETECTIVE_ACADEMY_V3_FINAL_TEXT_AUDIT_2026-09-28.md`
+
+Key locked decisions after the audit:
+- no reader-facing immediate CASE RESULT / WHAT THIS PROVES after cases;
+- answers/reasoning live only in the upside-down back section;
+- Case 05 remains the unique six-symbol code BALL -> STAR -> BOLT -> HEART -> KEY -> MOON;
+- Case Wall is page 9 and is used only for explicit meta-evidence;
+- finale uses Case Wall for RULE / ROOM / CODE and Recruit Credential for DETECTIVE;
+- Bibi's Case 09 recognition occurs once, after the reader solves the comparison;
+- old Case 26 fixed page references removed;
+- Evidence/Puzzle surfaces hydrate exact locked source/raster truth and must not be rewritten from prose.
+
+Text/layout remains PAUSED until owner accepts this V3 text.
+Do not create V4 for minor edits.
+
+
+## Detective V3 owner-feedback final microfix — 2026-09-28
+
+Active text master remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical text commit:
+`3e534a2a5fe95dc183a0825071ae064175803a0b`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-28-detective-v3-owner-feedback-final-microfix.md`
+
+Owner's final reader-level audit request was applied without changing locked puzzle truth. Key closures include:
+- Case 02/Max causal purpose made explicit;
+- Case 03 photo-copy logic made physically coherent while preserving exact ten;
+- repetitive contact-case intro formula removed;
+- Room Zero routing vs solving causality clarified;
+- duplicated Case 03 solution list and stale appendix residues removed;
+- US English normalized;
+- 30/30 cases, all three 30/30 Hint Vault levels and 30/30 Solution Files remain structurally present;
+- Case 05 six-symbol solution remains unique;
+- current production alias layer contains the named Solution File answer for 15/15 mapped spatial cases.
+
+Important production boundary:
+the uploaded 71-page text PDF is an editorial review artifact, not the final KDP interior. Final KDP readiness now requires exact V3 renderer integration + locked evidence hydration + post-hydration name/clue/solution checks + full print render/preflight/visual audit/physical proof. Case 01 reader-facing aliases QUILL/MORSE/PIP/KNOX must replace internal source identities on the rendered evidence surface.
+
+Current Detective state:
+**TEXT MICROFIX PASS / PRODUCTION RENDER INTEGRATION NEXT / EN NOT FROZEN.**
+
+Do not restore historical V4/V4.1 reader copy when integrating the renderer. Reflow/add pages before deleting V3 story text.
+
+
+## Detective V3 final KDP text pass — 2026-09-28
+
+Active canonical text remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical text commit:
+`6c2e21a24d760218923cfd8d47655a3cbf72c575`
+
+Current text blob:
+`f6e16e99084562ddf56825ccc7bfdd12baad0656`
+
+Owner-directed final reader audit is complete. This supersedes earlier same-day statements that Detective layout/renderer integration is paused pending text acceptance.
+
+Current state:
+**FINAL TEXT MASTER / PRODUCTION INTEGRATION AUTHORIZED / EN NOT FROZEN.**
+
+Final pass corrected the remaining Case 21 -> Case 26 causal attribution, made the 15-total-vs-14-selected spatial-map logic explicit, completed the Case 17 -> Annex -> Case 19 travel bridge, removed the unsupported Case 11 phone-photo tease, made the Case 21 Solution answer complete, clarified Max's direct Cup relationship, and removed stale Detective Six wording.
+
+Next safe Detective action:
+integrate the exact V3 blob into the production book factory, hydrate exact locked evidence surfaces, rerun all answer/name/clue/coordinate regressions, render the complete final interior using actual page count, run KDP preflight + full human visual audit, then representative physical proof. Do not cut text merely to preserve the historical 146-page count.
+
+English remains NOT FROZEN. Merge, physical-proof approval, explicit EN freeze and KDP publication remain owner gates.
+
+
+## Detective V3 story-flow + WOW pass — 2026-09-28
+
+Canonical text remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical story-flow/WOW text commit:
+`3c0caedbcc313658767cb4251b2c1741c4a7edcf`
+
+Canonical text blob:
+`8370026a811ad3354aaa8e422ebe2edf58464845`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-28-detective-story-flow-wow-pass.md`
+
+Status:
+**FINAL STORY-FLOW + WOW TEXT MASTER / PRODUCTION INTEGRATION AUTHORIZED / EN NOT FROZEN.**
+
+Owner-directed final narrative pass now locks:
+- 29/29 Case -> next Case transitions as causally bridged, deliberately parallel or explicitly time-shifted;
+- no repeated mission instruction across CASE FILE + OBJECTIVE + HM Chat;
+- richer Happy Makers dialogue (humor/teasing/relationships/thinking habits; chats are never secret evidence);
+- every explicit Case Wall save has a later on-page payoff;
+- Case 03 #1 017/071 delayed archive-routing payoff in Case 06;
+- Case 16/21 -> Room Zero reveal that Bibi authored the old torn route note as a trainee;
+- Case 25 Archive Restoration parcel -> Case 27 overlay tools;
+- Case 24 loud-arrow/quiet-mud lesson -> Rule Zero theme;
+- post-Book-1 ARCHIVE FILE 001 triangle symbol must match the existing approved Case 03 #8 changed-triangle pattern WITHOUT modifying owner-controlled Case 03 art.
+
+Locked puzzle truth is unchanged: exact-ten Case 03, six-symbol Case 05, Case 21 message, Case 26 CHECK THE OLD MAP, Rule Zero, D3 and final reader call-sign field.
+
+Next safe action remains production integration/hydration -> full render/regression/KDP preflight -> human visual audit -> physical proof -> explicit EN freeze.
+
+
+## Detective final pre-Codex text master — 2026-09-28
+
+Canonical text remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Latest canonical text commit:
+`3c0caedbcc313658767cb4251b2c1741c4a7edcf`
+
+Blob:
+`8370026a811ad3354aaa8e422ebe2edf58464845`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-28-detective-final-pre-codex-text-master.md`
+
+Status:
+**FINAL PRE-CODEX TEXT MASTER / PREMIUM LAYOUT RESTORE NEXT / EN NOT FROZEN.**
+
+Final owner micro-pass adds the Page 2 cozy-site CTA, ten-question-mark Case 03 progress tracker, stronger Case 06 Uma/dragon-tooth-spoon incident bridge and Case 07 local closure. No puzzle truth changed. Full Case 01->30 transition audit remains 29/29 PASS.
+
+The compact 127-page integration proof is not visual/page-count authority. Next action is to restore the established premium Book Factory system around this exact V3 copy: Evidence Grid signature language, boxed sections and HM chat, dedicated left Witness Board + large right Live Case Map, large bold axes, full Case 03 facing comparison spread, quiet Page 2 scanner-question-mark publication design, and reverse Hint/Solutions. Reflow/add pages before cutting copy.
