@@ -1,17 +1,21 @@
 # Detective PL execution checkpoint
 
 Status: **INFRASTRUCTURE READY / FULL-BOOK TRANSLATION OWNER-FROZEN**.
+Current V3 candidate, exact source receipt and new segmentation requirements are
+recorded in [the 2026-09-29 pre-freeze readiness package](DETECTIVE_PL_PREFREEZE_READINESS_2026-09-29.md).
 No full-book Detective translation was started by the hardening sprint. Existing
 English source, puzzle truth, approved Polish calibration and publication gates
 remain authoritative. This checkpoint replaces discovery with explicit inputs
 and commands; semantic annotation, translation and real-layout QA remain actual
 production work after the freeze.
 
-Current main status (2026-09-26): the 146-page English candidate has green
+Historical status (2026-09-26): the 146-page English candidate had green
 logic, map, Case 03 and reverse-entry gates, but its interior visual system is
 under a bounded owner review. **English is not frozen.** The current visual
 contract is `orchestration/detective/DETECTIVE_ACADEMY_INTERIOR_DESIGN_SYSTEM.md`;
-physical proof and explicit owner freeze still precede Polish production.
+physical proof and explicit owner freeze still precede Polish production. That
+historical page count is superseded by the current 2026-09-29 V3/owner-review
+candidate; neither candidate is a frozen Polish input.
 
 ## Canonical English input and freeze
 
@@ -31,6 +35,9 @@ runtime alias snapshot in a private copy of
 PENDING fields deliberately fail. `source_sha256` hashes raw file bytes;
 `aliases_sha256` hashes canonical parsed JSON with `localization.io.digest`.
 Receipt fields are provenance assertions, not an alternate authorization channel.
+The V3 candidate text blob and SHA-256 are also checked by `detective-prepare`
+and full-book `extract`; if the owner freezes a changed text master, migrate the
+receipt and guard tests deliberately before production.
 
 If composition is needed after freeze, run the existing Book Factory builder in
 that project with the owner-frozen spatial asset manifest:

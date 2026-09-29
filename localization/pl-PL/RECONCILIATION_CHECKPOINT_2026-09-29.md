@@ -1,54 +1,31 @@
-# Polish Localization Engine — 2026-09-29 pre-freeze drift checkpoint
+# Polish Localization Engine — current-main reconciliation checkpoint
 
-Status: **PRE-FREEZE PREPARATION ONLY — NO EN FREEZE / NO MERGE**
+Status: **DRAFT PR #13 REFRESHED IN ISOLATED WORKTREE / EN NOT FROZEN / NO MERGE**
+Date of refresh: 2026-09-29/30. The original checkout at `147f160c1e5b5df8cd930d817bf42a64cc85af82` was not reset, cleaned, rebased, stashed or edited.
 
-Branch: `codex/polish-engine-main-reconcile`  
-Branch HEAD verified: `147f160c1e5b5df8cd930d817bf42a64cc85af82`  
-Current `main` verified: `72c199371abca3f81c99204e346e645668af8e00`  
-Merge base: `ff091c9d591431b3513546cf8ad68b25cc79b1d2`
+## Git provenance
 
-## Current truth
+| Ref at refresh | Exact SHA |
+| --- | --- |
+| Durable remote PR #13 head before refresh | `ca9df86a3154f5776dd3ef2e2889d1e6fff3f438` |
+| Live `origin/main` fetched before reconciliation | `6beda0188c3dcca897cbf2468c995b356260e112` |
+| Pre-merge merge base | `ff091c9d591431b3513546cf8ad68b25cc79b1d2` |
+| Conflict-free normal merge of current main | `e2fac5ee735543c71f34f5a2ca54b0b4ae010196` |
 
-GitHub compare on 2026-09-29 reports:
+Before the merge the PR branch was **4 commits ahead / 119 behind** live main. There were 57 PR-side paths and 61 main-side paths changed since the merge base, with **zero overlapping paths**. A normal non-force merge succeeded with no conflict. It brought current-main portfolio/orchestration and Detective V3 truth into the PR branch without editing those files. The final checkpoint commit follows this merge; its exact pushed SHA and current-head CI belong in PR #13 and the handoff report.
 
-- branch is **3 commits ahead / 112 commits behind** current `main`;
-- 56 paths changed on current `main` since the merge base;
-- 56 paths changed on the Polish reconciliation branch since the merge base;
-- **0 overlapping changed paths** between those two path sets.
+## Verification and review debt
 
-This materially lowers the expected textual conflict risk for a later refresh, but it is **not** merge proof. The branch is too far behind current `main` to treat its existing CI as current-main certification.
+Local Polish regression on the merged branch: terminology documentation check PASS; 59 localization contract/adversarial tests PASS (including four V3 guard tests); five backcheck tests PASS; seven fixture sets PASS. Fixture proof covers 31 bilingual segments, zero deterministic errors, zero stale translations and **34 review items**. The 34 classify as:
 
-## Exact-head verification already present
+- Detective calibration: 19 missing measured real-surface fit budgets.
+- Gentle Steps Christmas: three calibration fit budgets, four Week 1 real-template heading proofs, three provisional term approvals.
+- Project Unstoppable: five web/app fit budgets.
 
-The branch HEAD still has successful historical exact-head workflow evidence for:
+No item is a deterministic defect or demonstrably stale on current evidence; safe automated reduction is therefore **zero**. These open gates retain their severity. No proxy count or candidate wording is promoted to print-layout or language PASS. Repository consistency checks and exact-head PR CI remain required at push; historical `ca9df86...` checks are not current-head evidence.
 
-- Polish Localization Regression
-- RSE AI Agency validation
-- Lint Agent Files
-- Check Runbooks Consistency
-- Check Divisions Consistency
-- Check Hermes Config Rewrite
-- Check Tools Consistency
-- Test Installer
+## Detective V3 pre-freeze handoff
 
-Those green runs prove the branch at `147f160...`; they do **not** prove compatibility with `main@72c1993...`.
+Canonical candidate text is Git blob `a85a5941852930f6b88711af26b16ea1651d2fbc` at `orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`; raw SHA-256 is `1af8564985d382f2a6ed3154798e9a4f5e201fa5726ca1478015d774682f5ac0`. The [readiness package](DETECTIVE_PL_PREFREEZE_READINESS_2026-09-29.md) inventories its 30 cases, 90 hints, 30 solutions, new recurring surfaces, meta callbacks, protected puzzle truth, source/raster hydration gap, provisional terminology and pending freeze receipt. The guard checks bytes and structure; the existing Book Factory YAML gate still requires explicit owner freeze, final structured source hash, ALL-15 evidence and frozen aliases before a full-book source plan can be generated.
 
-## Safe next reconciliation sequence
-
-When this lane is intentionally refreshed, use a bounded current-main verification pass:
-
-1. refresh/reconcile from `main@72c199371abca3f81c99204e346e645668af8e00` (or newer live main at execution time);
-2. confirm the zero-overlap assumption against the new merge base before applying changes;
-3. run the localization regression suite and repository consistency workflows on the refreshed exact HEAD;
-4. treat any new current-main failure as a repository compatibility defect, not as permission to weaken localization gates;
-5. keep Detective Academy full Polish production blocked until explicit English freeze and frozen-source hash receipt exist.
-
-## Owner / publication gates still open
-
-- Detective Academy English is **NOT FROZEN**. No full Detective PL translation may begin from the current moving English source.
-- Gentle Steps accepted Polish headings remain language candidates until genuine editable-template print-scale fit evidence exists; proxy fit is not publication PASS.
-- No merge to `main`, KDP publication, production deployment, or English freeze is authorized by this checkpoint.
-
-## Decision
-
-**READY FOR A FUTURE BOUNDED CURRENT-MAIN REFRESH; NOT READY FOR MERGE OR FULL DETECTIVE PL EXECUTION.**
+English remains **NOT FROZEN**. No full Detective Polish translation, English freeze, final term auto-approval, main merge, publication or print-layout PASS is authorized by this checkpoint. After the owner freeze, reconcile final composed source plus assets/renderer literals to V3, pass the frozen receipt and existing `detective-prepare` guard, annotate logic and measured fit, then begin bounded mission-complete translation and real-template QA.

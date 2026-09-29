@@ -12,6 +12,7 @@ from localization.contracts import extract, require
 from localization.gates import qa, markdown_report, aggregate_reports
 from localization.io import ContractError, load, dump, dump_payload, leaves, file_digest
 from localization.detective import prepare as prepare_detective, freeze_gate
+from localization.detective_v3 import verify_candidate as verify_detective_v3, verify_frozen as verify_frozen_detective_v3, SOURCE_PATH as DETECTIVE_V3_PATH
 from localization.packaging import package, build_memory, reuse_memory
 from localization.fit import fit_request, check_evidence
 from localization.backcheck import build_backcheck_packet, validate_backcheck_evidence
@@ -36,6 +37,11 @@ def main(argv=None):
     detective = sub.add_parser("detective-prepare")
     for option in ("source", "freeze", "aliases", "output"):
         detective.add_argument("--" + option, required=True)
+    v3 = sub.add_parser("detective-v3-guard", help="Verify V3 text bytes/coverage; optional owner-frozen source receipt")
+    v3.add_argument("--source", default=str(ROOT / DETECTIVE_V3_PATH))
+    v3.add_argument("--receipt", required=True)
+    v3.add_argument("--frozen-source", help="Require owner freeze and verify final structured source bytes")
+    v3.add_argument("--aliases", help="Frozen runtime alias JSON, required with --frozen-source")
     inventory = sub.add_parser("inventory", help="Enumerate source paths for exhaustive classification; does not translate")
     inventory.add_argument("--source", required=True)
     inventory.add_argument("--output", required=True)
@@ -81,10 +87,18 @@ def main(argv=None):
             Path(args.output).with_suffix(".md").write_text(markdown_report(result), encoding="utf-8", newline="\n")
             return 1 if result["counts"]["errors"] else 0
         elif args.command == "detective-prepare":
+            receipt = load(args.freeze)
+            verify_detective_v3((ROOT / DETECTIVE_V3_PATH).read_bytes(), receipt)
             document, key_types = load(args.source, with_key_types=True)
-            plan = prepare_detective(document, load(args.freeze), file_digest(args.source), load(args.aliases))
+            plan = prepare_detective(document, receipt, file_digest(args.source), load(args.aliases))
             plan['source_key_types'] = key_types
             dump(args.output, plan)
+        elif args.command == "detective-v3-guard":
+            source, receipt = Path(args.source).read_bytes(), load(args.receipt)
+            require(bool(args.frozen_source) == bool(args.aliases), "Frozen source and aliases must be supplied together")
+            result = (verify_frozen_detective_v3(source, receipt, Path(args.frozen_source).read_bytes(), load(args.aliases))
+                      if args.frozen_source else verify_detective_v3(source, receipt))
+            print(json.dumps(result, sort_keys=True))
         elif args.command == "inventory":
             document, key_types = load(args.source, with_key_types=True)
             dump(args.output, {"source_file": args.source, "source_key_types": key_types, "paths": [{"source_path": p, "type": type(v).__name__, "value": v} for p, v in leaves(document)]})
@@ -93,6 +107,7 @@ def main(argv=None):
             # Scope is auditable. This CLI does not grant the owner freeze.
             require(plan.get("scope", "bounded") != "full_book" or bool(plan.get("owner_freeze_evidence")), "Full-book extraction needs a recorded owner freeze reference")
             if plan.get("product") == "detective-academy" and plan.get("scope") == "full_book":
+                verify_detective_v3((ROOT / DETECTIVE_V3_PATH).read_bytes(), plan.get("freeze_receipt", {}))
                 freeze_gate(plan.get("freeze_receipt", {}), file_digest(args.source))
             document, key_types = load(args.source, with_key_types=True)
             manifest, targets = extract(document, plan, args.source, args.revision, key_types)

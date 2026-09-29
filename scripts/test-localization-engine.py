@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import copy
+import hashlib
 import json
 from pathlib import Path
 import subprocess
@@ -13,6 +14,7 @@ import unittest
 from localization.contracts import extract, segment_policy_hash, source_contract_hash
 from localization.fixtures import detective, web, gentle, app, approved
 from localization.detective import prepare, freeze_gate
+from localization.detective_v3 import SOURCE_PATH as DETECTIVE_V3_PATH, git_blob_sha1, verify_candidate, verify_frozen
 from localization.fit import fit_request, check_evidence
 from localization.gates import qa, load_terms, language_issues, placeholders, aggregate_reports
 from localization.io import ContractError, load, dump, dump_payload, digest, get, file_digest
@@ -400,6 +402,47 @@ class DetectiveHandoff(unittest.TestCase):
     def test_unmapped_frozen_fields_fail_closed(self):
         doc,aliases,receipt=self.source();doc['new_reader_copy']='TEST ONLY'
         with self.assertRaises(ContractError):prepare(doc,receipt,'test-hash',aliases)
+
+    def test_v3_candidate_receipt_and_coverage(self):
+        raw=(ROOT / DETECTIVE_V3_PATH).read_bytes()
+        receipt=load(ROOT / 'localization/pl-PL/engine/detective-freeze.example.json')
+        result=verify_candidate(raw,receipt)
+        self.assertEqual((result['reader_cases'],result['hint_entries'],result['solution_entries']),(30,90,30))
+        self.assertEqual(receipt['owner_instruction'],'PENDING')
+        with self.assertRaises(ContractError):verify_candidate(raw+b'\n',receipt)
+
+    def test_v3_structure_change_fails_even_with_rehashed_receipt(self):
+        raw=(ROOT / DETECTIVE_V3_PATH).read_bytes().replace(b'### INVESTIGATION RULES',b'### CHANGED RULES',1)
+        receipt=load(ROOT / 'localization/pl-PL/engine/detective-freeze.example.json')
+        receipt['canonical_text_git_blob']=git_blob_sha1(raw)
+        receipt['canonical_text_sha256']=hashlib.sha256(raw).hexdigest()
+        with self.assertRaises(ContractError):verify_candidate(raw,receipt)
+
+    def test_v3_frozen_guard_requires_owner_source_and_alias_truth(self):
+        raw=(ROOT / DETECTIVE_V3_PATH).read_bytes()
+        receipt=load(ROOT / 'localization/pl-PL/engine/detective-freeze.example.json')
+        frozen_source=b'synthetic structured source only'
+        aliases={'cases':[]}
+        with self.assertRaises(ContractError):verify_frozen(raw,receipt,frozen_source,aliases)
+        receipt.update(owner_instruction='FREEZE EN INTERIOR',owner_evidence='synthetic test, not owner approval',
+                       source_revision='synthetic',source_sha256=hashlib.sha256(frozen_source).hexdigest(),
+                       all15_status='PASS',all15_evidence='synthetic test',aliases_frozen=True,aliases_sha256=digest(aliases))
+        self.assertEqual(verify_frozen(raw,receipt,frozen_source,aliases)['status'],'FROZEN_SOURCE_RECEIPT_VERIFIED')
+        with self.assertRaises(ContractError):verify_frozen(raw,receipt,frozen_source+b'X',aliases)
+        with self.assertRaises(ContractError):verify_frozen(raw,receipt,frozen_source,{'cases':[{'id':'changed'}]})
+
+    def test_full_book_cli_blocks_changed_v3_receipt_before_extraction(self):
+        receipt=load(ROOT / 'localization/pl-PL/engine/detective-freeze.example.json')
+        receipt['canonical_text_git_blob']='0'*40
+        with tempfile.TemporaryDirectory() as td:
+            path=Path(td) / 'receipt.json'
+            path.write_text(json.dumps(receipt),encoding='utf-8')
+            run=subprocess.run([sys.executable,str(ROOT / 'scripts/localization-engine.py'),
+                                'detective-prepare','--source','unused.yml','--freeze',str(path),
+                                '--aliases','unused.json','--output',str(Path(td) / 'plan.json')],
+                               capture_output=True,text=True,cwd=ROOT)
+            self.assertNotEqual(run.returncode,0)
+            self.assertIn('Detective V3 Git blob differs from receipt',run.stderr)
 
 
 if __name__ == '__main__':

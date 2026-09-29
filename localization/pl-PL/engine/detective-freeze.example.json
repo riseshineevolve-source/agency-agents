@@ -1,4 +1,8 @@
 {
+  "canonical_text_path": "orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md",
+  "canonical_text_revision": "d52933a70f78e768e23c54d997cf55489236879d",
+  "canonical_text_git_blob": "a85a5941852930f6b88711af26b16ea1651d2fbc",
+  "canonical_text_sha256": "1af8564985d382f2a6ed3154798e9a4f5e201fa5726ca1478015d774682f5ac0",
   "owner_instruction": "PENDING",
   "owner_evidence": null,
   "source_revision": null,

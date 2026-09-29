@@ -8,6 +8,7 @@ on:
       - "scripts/localization/**"
       - "scripts/localization-engine.py"
       - "scripts/test-localization-*.py"
+      - "orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md"
       - ".github/workflows/polish-localization-regression.yml"
   push:
     branches:
@@ -19,6 +20,7 @@ on:
       - "scripts/localization/**"
       - "scripts/localization-engine.py"
       - "scripts/test-localization-*.py"
+      - "orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md"
       - ".github/workflows/polish-localization-regression.yml"
   workflow_dispatch:
 
@@ -42,6 +44,9 @@ jobs:
 
       - name: Validate canonical terminology documentation
         run: python scripts/localization-engine.py terms-doc --check
+
+      - name: Guard Detective V3 candidate source and case apparatus
+        run: python scripts/localization-engine.py detective-v3-guard --receipt localization/pl-PL/engine/detective-freeze.example.json
 
       - name: Test localization contracts and adversarial mutations
         run: python scripts/test-localization-engine.py
