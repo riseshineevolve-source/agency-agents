@@ -1,0 +1,116 @@
+{
+  "version": "1.0",
+  "date": "2026-09-29",
+  "status": "OWNER_REVIEW_READY_NOT_SCHEDULED",
+  "content_id": "DA_PRELAUNCH_MASTER_A_MISSING_DETECTIVE_V1",
+  "product": "Happy Makers Detective Academy — The Mystery of Room Zero",
+  "source_truth": {
+    "reader_copy_commit": "3c0caedbcc313658767cb4251b2c1741c4a7edcf",
+    "product_head_observed": "989bce1fc1846fcb2480517d1b4965f3add204aa",
+    "codex_handback_observed": false,
+    "english_frozen": false,
+    "compact_127_page_proof_final_visual_authority": false
+  },
+  "owner_gate": "FIRST_BATCH_CREATIVE_APPROVAL_REQUIRED",
+  "prelaunch_cta": "FOLLOW. YOUR FIRST CASE IS COMING.",
+  "assets": {
+    "vertical_9x16": "marketing/assets/detective/master-a-missing-detective-9x16-v1.svg",
+    "feed_4x5": "marketing/assets/detective/master-a-missing-detective-4x5-v1.svg"
+  },
+  "experiment": {
+    "hypothesis": "Reader-identity framing should create stronger early attention and saving/sharing intent than generic product description.",
+    "primary_metrics": [
+      "3-second hold / early retention",
+      "average watch time / completion",
+      "saves",
+      "shares",
+      "follows/profile actions"
+    ],
+    "secondary_metrics": [
+      "Story poll participation",
+      "qualitative replies"
+    ],
+    "forbidden_winner_rule": "Do not call a winner from reach alone."
+  },
+  "platforms": {
+    "instagram": {
+      "connected": true,
+      "format": "Reel 9:16 + optional 4:5 carousel/feed derivative",
+      "caption": "One place on the squad is still empty.\\n\\nDetective Academy starts by giving the reader a role — then the case files begin.\\n\\n30 connected cases. Maps, codes, visual evidence and logic. One mystery growing underneath it all.\\n\\nFollow. Your first case is coming.",
+      "alt_text": "Dark modern Detective Academy graphic with five occupied numbered detective slots, one empty sixth slot marked with a question mark, and a black envelope stamped with a zero. Text says: 30 cases, one hidden mystery, you're the missing detective.",
+      "timing_evidence": "No usable Metricool best-time signal; all checked Instagram values were 0.",
+      "candidate_window": null,
+      "schedule_allowed": false
+    },
+    "facebook": {
+      "connected": true,
+      "format": "Reel 9:16 + 4:5 feed derivative",
+      "caption": "Some activity books start with instructions.\\n\\nDetective Academy starts with an invitation.\\n\\nThe reader claims a detective identity, enters 30 connected case files and follows the evidence through maps, codes, visual clues and logic challenges — with one larger mystery unfolding underneath.\\n\\nNo final answer in this post. No spoiler. Just the empty place on the squad.\\n\\nFollow for the first inside-the-case previews.",
+      "alt_text": "Modern detective-academy teaser showing five filled detective slots and one empty sixth position, plus a black envelope marked 0. The child reader is framed as the missing detective.",
+      "timing_evidence": "Metricool checked 2026-09-29 for 2026-09-29..2026-10-05; strongest checked value was Wednesday 12:00 = 15834.",
+      "candidate_window": "Wednesday around 12:00 Europe/Warsaw, only after owner approval; directional hint, not causal evidence.",
+      "schedule_allowed": false
+    },
+    "youtube": {
+      "connected": true,
+      "format": "Short 9:16",
+      "title": "One Detective Is Still Missing",
+      "description": "A black envelope. Thirty connected cases. One hidden mystery.\\n\\nThe last detective? The reader.\\n\\nDetective Academy — pre-launch preview.",
+      "timing_evidence": "Metricool checked 2026-09-29 for 2026-09-29..2026-10-05; strongest checked value was Wednesday 16:00 = 12033, Thursday 16:00 = 11979.",
+      "candidate_window": "Wednesday or Thursday around 16:00 Europe/Warsaw, only after owner approval; directional hint, not causal evidence.",
+      "schedule_allowed": false
+    },
+    "tiktok": {
+      "connected": false,
+      "format": "Prepared recut only; do not schedule through Metricool.",
+      "hook": "One place on the squad is still empty.",
+      "caption": "A black envelope. 30 connected cases. One hidden mystery. The last detective? You.",
+      "recut_notes": [
+        "movement in first 0.5–1.0s",
+        "keep end card under 2.0s",
+        "no fake interior pages",
+        "no solution or Room Zero spoilers"
+      ],
+      "schedule_allowed": false
+    }
+  },
+  "claim_guard": {
+    "safe": [
+      "30 connected cases",
+      "one hidden book-long mystery",
+      "reader is the missing detective",
+      "maps, codes, visual evidence and logic"
+    ],
+    "forbidden": [
+      "Amazon/KDP availability before verification",
+      "price/rating/reviews/discount/bestseller/stock claims",
+      "final page count",
+      "Rule Zero as opening beat",
+      "CHECK THE OLD MAP",
+      "Room Zero mechanism",
+      "final code/coordinate",
+      "case solutions",
+      "Book 2 archive/triangle resolution"
+    ]
+  },
+  "live_evidence": {
+    "metricool_brand_id": "7018771",
+    "metricool_networks": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ],
+    "metricool_scheduled_posts_2026_09_29_to_2026_10_14": 0,
+    "ga4_last_30d_including_2026_09_29": {
+      "sessions": 7,
+      "active_users": 2,
+      "engaged_sessions": 2,
+      "engagement_rate": 0.2857,
+      "views": 7,
+      "key_events": 0,
+      "ecommerce_purchases": 0
+    },
+    "meta_ads_last_30d_rows": 0,
+    "gsc_wizard": "blocked_payment_required"
+  }
+}
