@@ -1,63 +1,67 @@
-# Central RSE Night-Shift Reconcile — 2026-09-29
+# Central RSE Reconcile — 2026-09-29 11:18 CEST
 
-Status: VERIFIED COORDINATION CHECKPOINT / NO RELEASE AUTHORIZATION
-Authority: Central RSE Technical Orchestrator
-Execution boundary: owner night-shift delegation remains active.
+Status: VERIFIED COORDINATION CHECKPOINT / NO RELEASE AUTHORIZATION  
+Authority: Central RSE Technical Orchestrator  
+GitHub/live checkpoints override older chat and stale portfolio prose.
 
 ## Zero-collision ownership
 
-- Detective Academy remains delegated to the Codex premium-layout worker on `riseshineevolve-source/RISE.SHINE.EVOLVE` / `feature/detective-book-factory`. Central is read-only until explicit handback or a durable completion checkpoint.
-- Unstoppable Me remains delegated to the dedicated overnight worker on `riseshineevolve-source/unstoppable-me` / `codex/unstoppable-me-revival`. Central is read-only during the sprint.
-- Happy Me remains delegated to Happy Me 24/7; watchdog inspection found that worker enabled.
+- Detective Academy is in the owner-authorized final bounded Codex correction pass on `riseshineevolve-source/RISE.SHINE.EVOLVE` / `feature/detective-book-factory`. Central is read-only.
+- Current Detective head: `27ae9bf6d7c27137f9366cf4b9b8568be6d7d1ad` — `Fix bounded V3 owner-review renderer and audit`.
+- Exact-head standard CI is green: Build Detective Academy PDF run #200 / id `36547007792` = SUCCESS; SEO Validation run #773 / id `36547007906` = SUCCESS.
+- This CI does **not** certify the private hash-pinned production inputs or the next exact 180-page owner-review artifact. The next owner gate remains review of the rebuilt private-input PDF returned by Codex.
+- EN remains NOT FROZEN. No merge or KDP publication is authorized.
+- Unstoppable dedicated night sprint automation is no longer active, but there is no explicit durable handback in this run. Under the current owner directive Central remains non-writing for Unstoppable and consumes status only.
+- Happy Me remains delegated to Happy Me 24/7. Watchdog inspection at the beginning of this run found it enabled.
 - Senior / Hello Today + Mind Bloom remain delegated to their dedicated worker.
 - Marketing remains a separate execution stream.
 
-## Live GitHub drift snapshot
+## Detective bounded-fix authority preserved
 
-Live compare against current `main` during this checkpoint:
+Current authority remains:
+`tools/detective-book-factory/HMDA_BOOK1_FINAL_BOUNDED_OWNER_FIXES_2026-09-29.md`
 
-- Polish Localization Engine `codex/polish-engine-main-reconcile`: **3 ahead / 104 behind**, status `diverged`. Historical green CI is not current-main merge/freeze proof.
-- Optical Animals `feat/optical-animals-book-creator`: **68 ahead / 17 behind**, status `diverged`. Do not rebase blindly; preserve owner-art and exact-identity history.
-- Opinie `feat/opinie-offline-workbench-bootstrap`: **43 ahead / 17 behind**, status `diverged`. Real case data remains local/offline; only sanitized code/synthetic fixtures may move remotely.
-- Unstoppable Me revival: **26 ahead / 0 behind**, confirming active delegated progress.
-- Detective Academy factory: **199 ahead / 49 behind**, status `diverged`; read-only under the active Codex handoff.
-- AI Discovery technical-refresh: **1 ahead / 0 behind**; the only pre-existing branch delta is `CODEX_START_HERE.md`.
+Central did not edit Detective source, renderer, assets, handoff or layout files. The bounded Codex pass owns the latest Case06 dialogue restoration, locked reader-facing Witness Board copy, renderer use of `content/v3_witness_board_copy.json`, HAPPY MAKERS // COMMS single-flow treatment, black/white Evidence Grid/parity treatment, scanner question-mark opening mark, larger map coordinate rails, and fail-closed regression checks against PREP THE EVIDENCE / POSSIBLE LINKS / raw victim-thief wording.
 
-These live values override stale counts in older central prose files.
+## AI Discovery / Website — deterministic current-source audit
 
-## Optical Animals verified release-safety gap
+Safe branch:
+`rse/ai-discovery-safe-hardening-2026-09-29`
 
-The exact-identity owner-proof chain is stronger than the generic CLI RELEASE path. Current `production.py package` still routes non-preview packaging through generic `BookBuilder`, while the exact production contract requires reviewed mask -> exact token -> enrollment -> current-source re-proof -> tracked exact-placement proof.
+Branch is still identical to current `main` at `3beea54060bd22d1c289458558ec2fb1f33f0f83`; no executable mutation landed.
 
-Smallest safe repair remains:
-- generic non-preview `package` must fail closed until the exact RELEASE builder is wired;
-- `--preview` remains available;
-- synthetic regression must prove refusal occurs before output creation and preview still verifies as PREVIEW.
+Verified current-source gaps:
 
-A bounded executable-code patch was attempted in this run and blocked by the GitHub write-safety layer before mutation. No partial source change exists.
+1. Homepage WebSite JSON-LD publishes a `SearchAction` targeting `/site-map/?q={search_term_string}`, but Site Map is static and implements no search endpoint.
+2. HTML Site Map structured ItemList has 21 items and the visible HTML omits `/adventure-app/` and `/unstoppable-app/`, although both app pages exist and are part of current discovery surfaces.
+3. Production-delivery verification covers 9 routes, including both app pages, but not `/seniors/` or `/site-map/`.
+4. `exactBodyMatch` is measured but is not part of the PASS condition.
 
-## AI Discovery current deterministic gaps
+A bounded source-only repair was prepared against exact current blobs:
+- `index.html` blob `a1d1e5cdce6fb698eb5c4b6f2f9327b9031640eb`;
+- `site-map/index.html` blob `99bb04c26c7d3b65f0b3372df4fe96f059edc300`;
+- `scripts/verify-production-delivery.mjs` blob `9e29efefa8944f48d75fc708a79aff36bbbd800a`;
+- `scripts/validate-ai-discovery.mjs` blob `8e3187ae55cb57936dae9b277cb32fcf20c1e649`.
 
-Fresh source inspection on `codex/ai-discovery-technical-refresh` confirms:
+Intended bounded changes:
+- remove only the unsupported homepage `SearchAction`;
+- add the two app pages to visible and ItemList Site Map surfaces;
+- add `/seniors/` and `/site-map/` to production verification;
+- add opt-in strict exact-body enforcement via `RSE_REQUIRE_EXACT_BODY_MATCH=1`, leaving default behavior unchanged;
+- add deterministic regression checks preventing the SearchAction/Site Map/verifier gaps from returning.
 
-1. homepage WebSite schema still declares a `SearchAction` targeting `/site-map/?q={search_term_string}`, but the static Site Map does not implement search;
-2. HTML Site Map still omits `/adventure-app/` and `/unstoppable-app/`, even though both are present in `sitemap.xml`;
-3. production-delivery verification already includes the two app routes, but still does not cover `/seniors/` or `/site-map/`;
-4. `exactBodyMatch` is measured but is not part of the current PASS condition.
+The connected GitHub executable write was blocked by the write-safety layer before any mutation. No partial source change exists and no production deploy was attempted.
 
-A bounded source-only homepage + HTML Site Map correction was attempted and blocked by the same write-safety layer before mutation. No deployment was attempted.
+## Unstoppable coordination-only truth
 
-## Central source-of-truth reconciliation needed
+Current revival branch head remains `b2dbfe1ad94e71c8c16b010ee53c55338a6f5488` (`lock remaining Unstoppable quote replacement decisions`), 27 ahead / 0 behind `main` at this check. Central did not write the repo.
 
-Current `PROGRAM_REGISTRY.yml`, Commercial Priority Stack, and Portfolio Completion Snapshot contain stale execution-state details for Detective, Unstoppable, Optical and Polish Localization. Until a safe central sync is committed, live branch/checkpoint facts plus owner night-shift directives take precedence over those stale prose/counts.
+## Safety gates preserved
 
-## Gates preserved
-
-No main merge, EN freeze, KDP/Google Play publication, production deployment, paid-service activation, secret creation/use, owner-art mutation, legal/privacy gate crossing, or remote movement of real Opinie data occurred.
+No main merge, English freeze, KDP/Google Play publication, production deployment, paid-service activation, spend, secret creation/use, legal/privacy/device/owner-gate crossing, owner-approved-art mutation, or remote movement of real Opinie data occurred.
 
 ## Next safe central slice
 
-1. Re-attempt Optical generic RELEASE fail-close only when executable-code writes are accepted.
-2. Otherwise perform the bounded AI Discovery source-only truth fixes and deterministic validation, without deployment.
-3. If both remain write-blocked, use Opinie synthetic-only tests to harden the process-level offline boundary.
-4. Continue portfolio reconciliation without entering delegated writer surfaces.
+1. Re-attempt the bounded AI Discovery hardening only if executable GitHub writes are accepted.
+2. Otherwise re-attempt Optical generic RELEASE fail-close without touching approved art.
+3. If executable writes remain blocked, advance Opinie synthetic-only offline-boundary tests or deterministic portfolio/pre-freeze verification.
