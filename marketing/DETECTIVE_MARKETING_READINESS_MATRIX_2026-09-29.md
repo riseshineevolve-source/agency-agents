@@ -101,7 +101,7 @@ Use:
 - marketing/DETECTIVE_PRELAUNCH_PRODUCTION_PACK_V2.md
 - marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md
 
-Use marketing/DETECTIVE_30D_ENGINE.md primarily for post-listing scale-out after verified KDP listing and first-batch approval.
+Use `marketing/DETECTIVE_30D_ENGINE_V2.md` as the post-listing scale-out authority after verified KDP listing and first-batch approval. The legacy `marketing/DETECTIVE_30D_ENGINE.md` is non-authoritative historical reference only.
 
 ## Next safe execution step
 
