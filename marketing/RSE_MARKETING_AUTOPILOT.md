@@ -17,15 +17,28 @@ Marketing does not redefine product truth. Current product repos and central orc
 
 ## Current commercial order
 
+Follow the canonical `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`; Marketing does not reorder it.
+
 1. Happy Makers Detective Academy -> English KDP
-2. Happy Makers Detective Academy -> Polish KDP after English source freeze
-3. 24 Gentle Steps to Christmas
-4. Optical Animals
+2. Happy Makers Detective Academy -> Polish KDP after explicit English source freeze
+3. Optical Animals
+4. 24 Gentle Steps to Christmas
 5. Consumer App Factory / Google Play apps
+
+Parallel lower-gate lanes may continue where safe, but they do not displace the revenue sequence above.
 
 Mind Bloom Private V1 is source-complete/frozen and is not an active commercial marketing lane.
 
-Do not wait for Google Play/DUNS before monetizing KDP-ready products.
+Do not wait for Google Play/DUNS before monetizing independently shippable KDP products.
+
+### Detective execution snapshot — 2026-09-29
+
+- Current reader-copy authority remains the V3 family at `3c0caedbcc313658767cb4251b2c1741c4a7edcf`.
+- Central checkpoint records an owner-reported Codex local premium-interior PASS at 180 pages, but the corresponding product-source/render changes have not yet been durably pushed to the Detective GitHub branch.
+- Therefore Marketing must not treat 180 as a final/public page-count claim and must not use unreviewed local crops as product proof.
+- Master A / Missing Detective is owner-review ready without final interior dependence.
+- Masters B / Case File and C / Hint Vault remain blocked on reviewed post-Codex premium crops.
+- English remains NOT FROZEN.
 
 ## Operating loop
 
@@ -71,11 +84,20 @@ If AI video requires repeated manual retries or object-continuity repair, downgr
 
 Connector states are VERIFY-ON-USE.
 
-Current verified on 2026-09-21:
-- Metricool: Facebook + Instagram + YouTube connected
-- Windsor.ai: Meta/Facebook Ads + Amazon Ads + GA4 connected
-- TikTok: not assumed connected
-- Creative Claw: verify again before paid generation
+Fresh Metricool verification on 2026-09-29:
+- brand: Rise.Shine.Evolve.
+- timezone: Europe/Warsaw
+- Facebook connected
+- Instagram connected
+- YouTube connected
+- TikTok absent from the current Metricool network set
+- scheduled posts checked for 2026-09-29 through 2026-10-14: 0
+
+Other connectors remain verify-on-use:
+- Windsor.ai: read current accounts/data before making any inference
+- Creative Claw: verify current project/account state before any paid generation
+
+Do not convert a historical connector state into a current claim without a fresh read.
 
 ## Paid boundary
 
