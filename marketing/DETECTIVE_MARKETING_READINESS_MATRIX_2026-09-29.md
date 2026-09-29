@@ -7,9 +7,10 @@ Status: PRE-LAUNCH / PRODUCT BRANCH READ-ONLY / EN NOT FROZEN
 
 - Canonical reader copy remains the V3 family at commit 3c0caedbcc313658767cb4251b2c1741c4a7edcf.
 - Detective product branch feature/detective-book-factory observed at 989bce1fc1846fcb2480517d1b4965f3add204aa.
-- Codex premium-layout work is active.
+- Central durable checkpoint now records an owner-reported Codex local premium-interior PASS at 180 pages, but also records that the corresponding non-private renderer/audit/checkpoint changes were not yet pushed to the Detective GitHub branch at reconciliation time.
+- Therefore the 180-page local build is evidence of progress, not yet durable product-branch truth and not an authorized public final-page-count claim.
 - The compact 127-page integration proof is not final visual or page-count authority.
-- Marketing must not use the compact proof as polished interior evidence.
+- Marketing must not use either the compact proof or unreviewed local Codex crops as polished interior evidence.
 - No final page-count claim, publication-ready date or available-now claim is authorized.
 
 ## Verified product facts safe for marketing reference
@@ -103,14 +104,22 @@ Use:
 
 Use marketing/DETECTIVE_30D_ENGINE.md primarily for post-listing scale-out after verified KDP listing and first-batch approval.
 
+## Current creative readiness
+
+- Master A / Missing Detective: owner-review ready without final interior dependence; scheduling remains disabled.
+- Master B / Case File, Not Worksheet: blocked on reviewed premium Witness Board + paired Live Case Map + Evidence Grid proof.
+- Master C / Stuck Is Detective Work: blocked on reviewed three-level Hint Vault proof.
+
 ## Next safe execution step
 
-After Codex handback:
-1. verify new product head and CI/readiness checkpoint;
-2. review the exact post-Codex artifact;
-3. select non-spoiler crops for Recruit Credential, Witness Board, Live Case Map and Hint Vault;
-4. run full-asset coherence and spoiler/claim QA;
-5. assemble one owner-review batch;
-6. keep external scheduling disabled until that owner gate closes.
+After durable Codex handback:
+1. verify the new product head and current-head CI/readiness checkpoint;
+2. verify that the exact owner-review premium PDF corresponds to that checkpoint;
+3. select non-spoiler crops for Recruit Credential, Witness Board, paired Live Case Map, Evidence Grid and Hint Vault levels 1–3;
+4. record source page/provenance for every crop;
+5. run phone-readability + spoiler/claim QA;
+6. assemble Masters B/C with real crops only;
+7. combine A/B/C into one owner-review packet;
+8. keep external scheduling disabled until that owner gate closes.
 
 Product repositories remain read-only to Marketing Autopilot.
