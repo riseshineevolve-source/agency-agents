@@ -1,0 +1,34 @@
+{
+  "evidence_version": 1,
+  "source_id": "world01_paperback_2026_09_18",
+  "role": "published_paperback_evidence",
+  "filename": "10 STORIES WORLD 01 FINAL paperback.pdf",
+  "sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+  "bytes": 14523549,
+  "pages": 108,
+  "isbn_paperback": "9798247194682",
+  "verification": "PDF text extraction plus visual inspection of pages 15, 23, and 33",
+  "mission_openers": [
+    {
+      "mission_id": "world01_mission_001",
+      "page": 15,
+      "title": "The After-School Crash",
+      "key_acquired": "REGULATION",
+      "objective": "Learning to shake off the heavy school energy before it causes a system crash."
+    },
+    {
+      "mission_id": "world01_mission_002",
+      "page": 23,
+      "title": "The Ice Cream Tragedy",
+      "key_acquired": "EMPATHY",
+      "objective": "Learning that you can't fix a melted cone, but you can fix a melted mood using Mirror Neurons."
+    },
+    {
+      "mission_id": "world01_mission_003",
+      "page": 33,
+      "title": "The Invisible XP",
+      "key_acquired": "PATIENCE",
+      "objective": "Realizing that real life isn't 'broken' - it just has slow download speeds. Grinding is where the magic happens."
+    }
+  ]
+}

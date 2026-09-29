@@ -5,15 +5,23 @@ on:
     paths:
       - 'scripts/validate-interactive-book-pack.py'
       - 'scripts/test-interactive-book-validator.py'
+      - 'scripts/validate-world01-pilot-provenance.py'
+      - 'scripts/test-world01-pilot-provenance.py'
       - 'orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md'
       - 'orchestration/architecture/fixtures/interactive-book/**'
+      - 'orchestration/content-packs/world01/**'
+      - 'orchestration/content-sources/world01-paperback-opener-evidence.json'
       - '.github/workflows/interactive-book-contract.yml'
   pull_request:
     paths:
       - 'scripts/validate-interactive-book-pack.py'
       - 'scripts/test-interactive-book-validator.py'
+      - 'scripts/validate-world01-pilot-provenance.py'
+      - 'scripts/test-world01-pilot-provenance.py'
       - 'orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md'
       - 'orchestration/architecture/fixtures/interactive-book/**'
+      - 'orchestration/content-packs/world01/**'
+      - 'orchestration/content-sources/world01-paperback-opener-evidence.json'
 
 permissions:
   contents: read
@@ -31,3 +39,9 @@ jobs:
         run: python scripts/validate-interactive-book-pack.py orchestration/architecture/fixtures/interactive-book/synthetic_world.valid.json
       - name: Run fail-closed regression suite
         run: python scripts/test-interactive-book-validator.py
+      - name: Validate bounded World 01 candidate against v0 contract
+        run: python scripts/validate-interactive-book-pack.py orchestration/content-packs/world01/mission-openers.en.candidate.json
+      - name: Validate published-source evidence boundary
+        run: python scripts/validate-world01-pilot-provenance.py
+      - name: Run published-source provenance regression suite
+        run: python scripts/test-world01-pilot-provenance.py

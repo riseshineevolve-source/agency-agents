@@ -1,0 +1,82 @@
+{
+  "schema_version": "0.1.0",
+  "product_id": "level_up_your_brain_world_01",
+  "content_pack_id": "world01_mission_openers_pilot",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": ["en"],
+  "planned_locales": ["pl-PL"],
+  "minimum_runtime_contract": "0.1.0",
+  "candidate_scope": "published_mission_openers_only",
+  "provenance": {
+    "source_id": "world01_paperback_2026_09_18",
+    "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "evidence_manifest": "orchestration/content-sources/world01-paperback-opener-evidence.json"
+  },
+  "activities": [
+    {
+      "activity_id": "world01_mission_001_overview",
+      "activity_type": "info_card",
+      "sequence": 1,
+      "required": true,
+      "interaction": {"mode": "continue", "option_ids": []},
+      "progress": {"completion_rule": "submit_once", "unlock_ids": ["world01_mission_002_overview"]},
+      "assets": [],
+      "accessibility": {"requires_audio_alternative": false, "requires_motion_reduction_variant": false}
+    },
+    {
+      "activity_id": "world01_mission_002_overview",
+      "activity_type": "info_card",
+      "sequence": 2,
+      "required": true,
+      "interaction": {"mode": "continue", "option_ids": []},
+      "progress": {"completion_rule": "submit_once", "unlock_ids": ["world01_mission_003_overview"]},
+      "assets": [],
+      "accessibility": {"requires_audio_alternative": false, "requires_motion_reduction_variant": false}
+    },
+    {
+      "activity_id": "world01_mission_003_overview",
+      "activity_type": "info_card",
+      "sequence": 3,
+      "required": true,
+      "interaction": {"mode": "continue", "option_ids": []},
+      "progress": {"completion_rule": "submit_once", "unlock_ids": []},
+      "assets": [],
+      "accessibility": {"requires_audio_alternative": false, "requires_motion_reduction_variant": false}
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "activity_id": "world01_mission_001_overview",
+      "title": "The After-School Crash",
+      "prompt": "Learning to shake off the heavy school energy before it causes a system crash.",
+      "key_acquired": "REGULATION",
+      "options": {},
+      "accessibility": {}
+    },
+    {
+      "locale": "en",
+      "activity_id": "world01_mission_002_overview",
+      "title": "The Ice Cream Tragedy",
+      "prompt": "Learning that you can't fix a melted cone, but you can fix a melted mood using Mirror Neurons.",
+      "key_acquired": "EMPATHY",
+      "options": {},
+      "accessibility": {}
+    },
+    {
+      "locale": "en",
+      "activity_id": "world01_mission_003_overview",
+      "title": "The Invisible XP",
+      "prompt": "Realizing that real life isn't 'broken' - it just has slow download speeds. Grinding is where the magic happens.",
+      "key_acquired": "PATIENCE",
+      "options": {},
+      "accessibility": {}
+    }
+  ],
+  "activity_provenance": [
+    {"activity_id": "world01_mission_001_overview", "source_id": "world01_paperback_2026_09_18", "page": 15},
+    {"activity_id": "world01_mission_002_overview", "source_id": "world01_paperback_2026_09_18", "page": 23},
+    {"activity_id": "world01_mission_003_overview", "source_id": "world01_paperback_2026_09_18", "page": 33}
+  ]
+}
