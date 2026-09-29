@@ -10,7 +10,7 @@ Verified SHA-256:
 
 Pages: 180
 Status:
-**FULL 180-PAGE HUMAN/READER AUDIT COMPLETE / FOUR READER BLOCKERS REMAIN / EN NOT FROZEN**
+**FULL 180-PAGE HUMAN/READER AUDIT COMPLETE / FOUR READER BLOCKERS + ONE KDP ORIENTATION BLOCKER REMAIN / EN NOT FROZEN**
 
 ## Audit method
 
@@ -87,6 +87,23 @@ right / Print4 end = WEST GATE
 (or draw a minimal path strip with those endpoints).
 Do not state the direction; mud fading must still determine it.
 
+## KDP orientation blocker discovered in full audit
+
+The current reverse Hint Vault / Solution Files use full-page 180-degree rotation on physical pages 121-180, including headers and page numbers.
+
+Current official KDP paperback guidance says all pages and content must use the same orientation. It allows *some* upside-down text only when the rest of the page remains right-side up (example: upside-down riddle answers on an otherwise upright page).
+
+Therefore the current full-page reverse section is a material KDP compliance risk and must not be represented as publication-safe before KDP Previewer.
+
+Safest production fix:
+- keep pages 121-180 physically upright;
+- preserve the STOP // HINT VAULT divider and back-of-book anti-peek structure;
+- retain the same Hint Vault levels, Solution Files, maps and copy;
+- do not rotate full page content.
+
+Alternative only if owner explicitly accepts risk:
+- test current orientation in KDP Previewer before changing it, but do not freeze/publish unless Previewer and proof both accept it.
+
 ## Low-risk final technical cleanup while rebuilding
 
 - remove unused unembedded Helvetica PDF resource if practical;
@@ -97,7 +114,7 @@ Do not state the direction; mud fading must still determine it.
 
 ## Gate
 
-Do NOT move to KDP Previewer yet.
+Do NOT move to EN freeze or publication yet. Resolve the four reader blockers and the reverse-section KDP orientation risk before treating the interior as KDP-ready.
 After only these four reader fixes:
 1. rebuild with exact same private inputs;
 2. deterministic QA/regression;
