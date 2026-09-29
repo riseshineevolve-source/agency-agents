@@ -2064,7 +2064,8 @@ After you save the fourteen-letter instruction, turn back to the Case Wall. The 
 ### PUZZLE / EVIDENCE SURFACE
 
 
-
+**OLD-PLAN MARGIN NOTE:**  
+**RULE FIRST, ROOM SECOND.**
 
 
 
@@ -3105,12 +3106,12 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 
 
 1. Route A fails because the Paint Corridor is closed.
-2. Route B fails because the staff door is locked and the line crosses a wall.
+2. Route B fails because the Staff Stairs are locked.
 3. Route C uses Costume Storage and the Side Hall, both open.
 4. Route C is the only valid shortcut.
 
 
-**WHY IT MATTERS:** The squad reaches the prop room without breaking a rule, a lock or a wall.
+**WHY IT MATTERS:** The squad reaches the prop room without entering the closed Paint Corridor or using the locked Staff Stairs.
 
 
 
