@@ -1217,3 +1217,5 @@ State:
 **FRONT-MATTER REGRESSION SOURCE-FIXED / PREVIEWER GATE REOPENED / EN NOT FROZEN.**
 
 The prior Sep 29 advance-to-Previewer status is superseded until a fresh exact-source rebuild and full audit pass.
+
+Follow-up 2026-09-30: exact private owner packet `final-book-owner-review(1).zip` was recovered from Library and its SHA-256 `55439b308d6d7a2db7b40485665bcc46aceeb9dffde528afffb276790378680c` exactly matches the owner/spatial contract. Public-repo CI now protects source/order/renderer wiring without committing private visuals. Production branch HEAD `e6a531bc6f26b7cafc4fa73b1af5ee549d1c4283`; Build Detective Academy PDF run `36690461519` PASS. Full private premium rebuild remains required before Previewer.
