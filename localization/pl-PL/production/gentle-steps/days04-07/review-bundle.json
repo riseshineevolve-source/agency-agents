@@ -2,13 +2,13 @@
   "format": "rse-reauthor-review-bundle-v1",
   "product": "gentle-steps-christmas",
   "scope": "days_04_07_week1_close",
-  "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
+  "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
   "reviews": [
     {
       "stage": "polish_usage_idiom_context",
       "reviewer": "role:polish_usage_idiom_context",
       "status": "PASS",
-      "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
+      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
       "notes": [
         "Grammar, government, syntax, collocations, idiom, semantic selection, context and read-aloud rhythm checked across all 12 units.",
         "English-shaped metaphors were replaced with ordinary Polish constructions.",
@@ -20,7 +20,7 @@
       "stage": "polish_family_language_edit",
       "reviewer": "role:polish_family_language_edit",
       "status": "PASS",
-      "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
+      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
       "notes": [
         "Instructions use spoken contemporary Polish and short family-readable sentences.",
         "No therapy/workshop register in reader copy."
@@ -30,7 +30,7 @@
       "stage": "humor_character_voice",
       "reviewer": "role:humor_character_voice",
       "status": "PASS",
-      "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
+      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
       "notes": [
         "Luli dry/precise; Mimi practical; Dilo tech/football; Alio team/chaos; Nini physical/playful.",
         "Jokes use Polish contexts such as VAR and do not depend on literal English punchlines."
@@ -40,7 +40,7 @@
       "stage": "kid_parent_ear_review",
       "reviewer": "role:kid_parent_ear_review",
       "status": "PASS",
-      "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
+      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
       "notes": [
         "RESET / AKCJA / U NAS remain teen-safe working labels.",
         "No forced youth slang or baby language.",
@@ -51,7 +51,7 @@
       "stage": "anti_coaching_translationese",
       "reviewer": "role:anti_coaching_translationese",
       "status": "PASS",
-      "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
+      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
       "notes": [
         "Removed claims about connection, trust, harmony, peace, shared energy and home safety where they functioned as English motivational framing.",
         "Activities remain concrete and optional where appropriate."
@@ -61,7 +61,7 @@
       "stage": "bilingual_fidelity_backcheck",
       "reviewer": "role:bilingual_fidelity_backcheck",
       "status": "PASS",
-      "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
+      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
       "notes": [
         "Day 4 longest-hair starter, anticlockwise voice round and next-sentence handoff preserved.",
         "Day 5 all clock rounds, reverse count and advanced no-order rule preserved.",
@@ -74,7 +74,7 @@
       "stage": "logic_continuity",
       "reviewer": "role:logic_continuity",
       "status": "PASS",
-      "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
+      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
       "notes": [
         "Days 4–7 preserve RESET / AKCJA / U NAS rhythm.",
         "Week 1 character assignments and activity order remain consistent."
@@ -84,7 +84,7 @@
       "stage": "proofread",
       "reviewer": "role:proofread",
       "status": "PASS",
-      "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
+      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
       "notes": [
         "Polish punctuation, inflection, quotation marks and diacritics checked.",
         "No mechanical gender notation."
@@ -94,7 +94,7 @@
       "stage": "surface_qa",
       "reviewer": "role:surface_qa",
       "status": "DEFERRED_WEEK1_OWNER_GATE",
-      "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
+      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
       "notes": [
         "Exact Polish overlay/render is deferred until whole Week 1 voice/label owner review.",
         "No production fit PASS claimed."
