@@ -1,6 +1,6 @@
 # Interactive Book source graph contract v1
 
-Status: ACTIVE BOUNDED CANDIDATE / PUBLISHED WORLD 01 LEVELS 1–3
+Status: ACTIVE BOUNDED CANDIDATE / PUBLISHED WORLD 01 LEVELS 1–4
 Date: 2026-09-30
 
 ## Authority and scope
@@ -8,23 +8,24 @@ Date: 2026-09-30
 The published 108-page World 01 paperback identified by SHA-256
 `adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549`
 is canonical product-copy evidence. The private PDF is not committed. The locked
-page evidence at `orchestration/content-sources/world01-level{1,2,3}-page-evidence.json`
-records visual, block-by-block transcriptions of pages 15–41. The three source
-graphs at `orchestration/content-packs/world01/level{1,2,3}.en.candidate.json`
+page evidence at `orchestration/content-sources/world01-level{1,2,3,4}-page-evidence.json`
+records visual, block-by-block transcriptions of pages 15–50. The four source
+graphs at `orchestration/content-packs/world01/level{1,2,3,4}.en.candidate.json`
 are generated from their corresponding ledgers. A validator checks every graph
 field against the ledger; with
 `--pdf`, it also checks the private binary identity, page count, and each text
 field on its claimed PDF page. CI can check the locked ledger and generation,
 but cannot independently authenticate the private PDF.
 
-The three packs contain 88 substantive printed content blocks across 27 pages:
-Level 1 has 26 blocks on pages 15–22, Level 2 has 32 on pages 23–32, and
-Level 3 has 30 on pages 33–41. Together these are three openers, 64 narrative
-blocks, nine Neuro Console files, six Quest blocks, three science blocks, and
-three secret-code blocks. The repeated `SYSTEM: ONLINE` and `LVL_INDEX`
+The four packs contain 123 substantive printed content blocks across 36 pages:
+Level 1 has 26 blocks on pages 15–22, Level 2 has 32 on pages 23–32,
+Level 3 has 30 on pages 33–41, and Level 4 has 35 on pages 42–50. Together
+these are four openers, 90 narrative blocks (52 dialogue + 38 system logs),
+one printed inventory block, 12 Neuro Console files, eight Quest blocks, four
+science blocks, and four secret-code blocks. The repeated `SYSTEM: ONLINE` and `LVL_INDEX`
 page furniture, decorative bullets, and artwork are outside the semantic graph.
 The page number and printed speaker/system-log labels are retained. This is
-100% coverage of Levels 1–3 substantive text blocks, not a digital reproduction
+100% coverage of Levels 1–4 substantive text blocks, not a digital reproduction
 of its page design or artwork.
 
 ## Pack shape
@@ -42,7 +43,10 @@ visually transcribed, including punctuation and the published page-22 quote
 asymmetry.
 
 The edge sequence follows the printed visual reading order. It establishes a
-display traversal only. The published Quest prompts and secret code are text;
+display traversal only. Level 4 introduces the source-derived `inventory` node
+type solely to preserve the printed `// FILE: INVENTORY / ITEM ACQUIRED` block;
+it does not grant or calculate an in-app item. The published Quest prompts and
+secret code are text;
 the graph adds no scoring, answer checking, puzzle resolution, gates, reward
 calculation, account state, entitlement, or backend semantics. There are no
 new game mechanics.
@@ -72,7 +76,7 @@ explicit contract revision is made.
 
 ## Verification
 
-Run `python scripts/build-world01-graph.py <level>` for levels 1, 2, and 3,
+Run `python scripts/build-world01-graph.py <level>` for levels 1, 2, 3, and 4,
 `python scripts/validate-interactive-book-graph.py <pack>`, and
 `python scripts/test-interactive-book-graph.py`. For private source custody,
 run `python scripts/validate-interactive-book-graph.py <pack> --pdf <published-pdf>`
