@@ -1,0 +1,773 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_01",
+  "content_pack_id": "world01_mission_002_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world01_mission_002",
+  "candidate_scope": "published_mission_002_pages_23_32",
+  "source": {
+    "source_id": "world01_paperback_2026_09_18",
+    "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "source_bytes": 14523549,
+    "source_pages": 108,
+    "page_range": [
+      23,
+      32
+    ],
+    "evidence_manifest": "orchestration/content-sources/world01-level2-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world01_mission_002_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_002_node_002",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 23,
+        "evidence_id": "p23_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_002",
+      "sequence": 2,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_002_node_003",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 24,
+        "evidence_id": "p24_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_003",
+      "sequence": 3,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_002_node_004",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 24,
+        "evidence_id": "p24_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_004",
+      "sequence": 4,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_002_node_005",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 24,
+        "evidence_id": "p24_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_005",
+      "sequence": 5,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_002_node_006",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 24,
+        "evidence_id": "p24_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_006",
+      "sequence": 6,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_002_node_007",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 25,
+        "evidence_id": "p25_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_007",
+      "sequence": 7,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_002_node_008",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 25,
+        "evidence_id": "p25_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_008",
+      "sequence": 8,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_002_node_009",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 25,
+        "evidence_id": "p25_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_009",
+      "sequence": 9,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_002_node_010",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 25,
+        "evidence_id": "p25_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_010",
+      "sequence": 10,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_002_node_011",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 26,
+        "evidence_id": "p26_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_011",
+      "sequence": 11,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_002_node_012",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 26,
+        "evidence_id": "p26_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_012",
+      "sequence": 12,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_002_node_013",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 26,
+        "evidence_id": "p26_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_013",
+      "sequence": 13,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_002_node_014",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 26,
+        "evidence_id": "p26_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_014",
+      "sequence": 14,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_002_node_015",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 26,
+        "evidence_id": "p26_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_015",
+      "sequence": 15,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_002_node_016",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 27,
+        "evidence_id": "p27_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_016",
+      "sequence": 16,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_002_node_017",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 27,
+        "evidence_id": "p27_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_017",
+      "sequence": 17,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_002_node_018",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 27,
+        "evidence_id": "p27_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_018",
+      "sequence": 18,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_002_node_019",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 27,
+        "evidence_id": "p27_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_019",
+      "sequence": 19,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_002_node_020",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 28,
+        "evidence_id": "p28_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_020",
+      "sequence": 20,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_002_node_021",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 28,
+        "evidence_id": "p28_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_021",
+      "sequence": 21,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_002_node_022",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 28,
+        "evidence_id": "p28_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_022",
+      "sequence": 22,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_002_node_023",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 28,
+        "evidence_id": "p28_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_023",
+      "sequence": 23,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_002_node_024",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 29,
+        "evidence_id": "p29_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_024",
+      "sequence": 24,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_002_node_025",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 29,
+        "evidence_id": "p29_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_025",
+      "sequence": 25,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_002_node_026",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 29,
+        "evidence_id": "p29_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_026",
+      "sequence": 26,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world01_mission_002_node_027",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 30,
+        "evidence_id": "p30_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_027",
+      "sequence": 27,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world01_mission_002_node_028",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 30,
+        "evidence_id": "p30_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_028",
+      "sequence": 28,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world01_mission_002_node_029",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 30,
+        "evidence_id": "p30_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_029",
+      "sequence": 29,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world01_mission_002_node_030",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 31,
+        "evidence_id": "p31_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_030",
+      "sequence": 30,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world01_mission_002_node_031",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 31,
+        "evidence_id": "p31_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_031",
+      "sequence": 31,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_002_node_032",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 31,
+        "evidence_id": "p31_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_002_node_032",
+      "sequence": 32,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 32,
+        "evidence_id": "p32_b01"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_001",
+      "fields": {
+        "level_label": "LEVEL 2:",
+        "title": "The Ice Cream Tragedy",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "EMPATHY",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Learning that you can't fix a melted cone, but you can fix a melted mood using Mirror Neurons.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_002",
+      "fields": {
+        "story_heading": "THE ICE CREAM TRAGEDY",
+        "log_label": "SYSTEM LOG >>",
+        "text": "The tragedy struck at exactly 14:03 on Tuesday on the Sidewalk of Doom. The sun was melting the asphalt. Mimi was digging frantically in her gigantic bag that contained half the house. She let out a long, exhausted breath, trying to keep her own inner grumpy monster from waking up in the heat. She was shining a bright flashlight into the dark depths of the bag."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_003",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Where is my phone?! Is it under the spare shoes or the emergency lasagna? I can't find it anywhere! I need to call Grandma!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_004",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Mammi, you are using your phone's flashlight to look for your phone."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_005",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Oh. Right. It's a tactical search light. I knew that."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_006",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi did a quick 'Wet Dog Shake' with her hands to physically throw off the stress. Meanwhile, Alio was holding the Holy Grail of summer: a triple-scoop Choco-Mint-Explosion cone. And then... gravity attacked. SPLAT. The ice cream hit the sidewalk face down. It wasn't just a fall; it was a crime scene."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_007",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "NOOOO! My life is over! It's bleeding chocolate! The ants are eating my happiness! And Dilo said if an ant eats sugar, it mutates into a giant monster and stomps on toes!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_008",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "It's true. I saw a documentary on YouTube. And yesterday I tried to charge my phone by rubbing it on the cat to create static electricity, so I know science. You better run, Alio."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_009",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio turned pale, his eyes wide with terror. He scrambled behind Nini's legs."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_010",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Save me! I don't want to be squished by a mutant ant!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_011",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini, wearing a tulle skirt and cat ears, stomped her glittery sneaker."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_012",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "Dilo! Stop it! Ants don't mutate, and Alio's heart is shattered into a million pieces!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_013",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Alio, don't listen to him. The only thing that happened is that the cat got so static-charged she is now a magnet. She walked through the living room and every piece of dust, glitter, and popcorn stuck to her fur. She looks like a walking vacuum cleaner bag."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_014",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "But Dilo looked so professional!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_015",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini crouched down next to Alio, looking like a tiny, sad meringue."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_016",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "Alio, look at me. Forget the ants. Your invisible energy bucket just tipped over, didn't it?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_017",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "I don't have a bucket. I don't have anything. Just a puddle."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_018",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini sat down right next to him on the hot pavement and pointed above his head."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_019",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "It sits right here. Everybody has one. It's invisible. When it's full, you feel brave and kind. When it's empty, everything feels extra loud and unfair. I can't fill mine just by wishing. But when I pour kindness into your bucket, my brain releases happy chemicals that fill mine too! It's like wireless charging or like magic WI-FI!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_020",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Emergency refill protocol! Nini wrapped Alio in a tactical 'Mega-Squeeze' hug."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_021",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "I'm not fixing the ice cream. I'm just sitting in the sadness with you until your bucket refills. Now, try to make a smile. Even a fake one. Just lift the corners of your mouth."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_022",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio made a wobbly, weird grimace. It looked funny. He giggled a tiny bit through his tears."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_023",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "See? Your face muscles just sent a text message to your brain saying 'We are smiling, so things must be okay!'"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_024",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio took a deep, shuddering breath. The problem wasn't gone, but he wasn't alone anymore. And that made all the difference. Alio Status Update: Battery +10%. Sadness Reduced."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_025",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Touching moment, guys. Now, if you'll excuse me, I'm going to find the cat. If I rub her fast enough against the carpet, I think I can power the entire neighborhood."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_026",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 004",
+        "heading": "THE BRAIN SECRET (The Copycat Cells)",
+        "science_label": "The Science:",
+        "science": "Your brain has special tiny radar sensors called 'Mirror Neurons.' They help you 'catch' other people's feelings. When you see a friend cry, your brain practices that feeling so you can understand them.",
+        "in_story_label": "In The Story:",
+        "in_story": "Remember when Nini crouched down and looked sad with Alio? That was her Mirror Neurons working! She didn't just watch him; she felt a little bit of his sadness so she could help him."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_027",
+      "fields": {
+        "file_label": "// FILE: 005",
+        "heading": "THE TOOL ('The Silent Sit')",
+        "science_label": "The Science:",
+        "science": "Sometimes words don't work. By just sitting calmly near a sad person, your slow breathing acts like a remote control that helps slow down their racing heart.",
+        "in_story_label": "In The Story:",
+        "in_story": "Nini said, 'I'm not fixing the ice cream. I'm just sitting in the sadness with you.' She didn't buy him a new cone immediately; she just sat on the hot pavement. Her calm body helped Alio's body stop panicking."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_028",
+      "fields": {
+        "file_label": "// FILE: 006",
+        "heading": "THE GLITCH ('The Face Trick')",
+        "science_label": "The Science:",
+        "science": "This is the 'Fake It 'Til You Make It' trick. If you force your face muscles to smile, they send a signal to your brain saying, 'Hey! We are smiling! Release the happy chemicals!'",
+        "in_story_label": "In The Story:",
+        "in_story": "Nini told Alio to make a 'fake smile.' Even though Alio was sad, making the wobbly grimace actually made him giggle. His face tricked his brain into feeling 1% better!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_029",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio admitted his bucket was empty ('Just a puddle').",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Is your bucket full, half-full, or empty right now? Who did you see today who looked like they had 'low battery'?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_030",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Nini recharged Alio with a 'Mega-Squeeze' hug.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Find someone today who needs a refill. Do one tiny thing (smile, wave, share, hug) to recharge them."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_031",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Did you know feelings are contagious? When Nini sat calmly next to Alio, her slow heartbeat sent a secret invisible signal to Alio's body that said 'It is safe now.' This helped him calm down without using any words. Scientists call this Co-regulation, but we just call it 'sharing your calm'."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_002_node_032",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“MY BUCKET TIPPED OVER!”",
+        "meaning_label": "MEANING:",
+        "meaning": "My emotional bucket is EMPTY. I am sad, or overwhelmed. I'm glitching and don't have the strength to fix anything right now.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "The Family Team activates immediately the: Refill & Hug operation (aka Magic WI-FI).",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Stop crying, it's just ice cream, we will buy another one!',",
+        "teach_label": "teach them to say:",
+        "teach_to_say": "'Your bucket spilled. I am just going to sit here in the sadness with you until it refills.'"
+      }
+    }
+  ]
+}

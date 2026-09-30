@@ -12,6 +12,15 @@ publication:
   interior_pages: 108
 
 sources:
+  - original_filename: '10 STORIES WORLD 01 FINAL paperback.pdf'
+    role: user_supplied_canonical_published_paperback_evidence
+    storage: private_external_binary_not_committed
+    sha256: adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549
+    bytes: 14523549
+    pages: 108
+    dimensions_points: '440.88 x 666'
+    text_extraction: readable_with_layout_order_limitations
+    note: 'Owner supplied for the 2026-09-26 bounded real pilot. Published pages override divergent app copy. Distinct binary from the previously recovered flattened print master; binary/content equivalence between the two PDFs has not been established.'
   - original_filename: 'paperback 10 STORIES WORLD 01 FINAL splaszczony(1).pdf'
     role: published_print_interior_master
     storage: private_master_binary

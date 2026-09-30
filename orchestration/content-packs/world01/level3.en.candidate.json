@@ -1,0 +1,730 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_01",
+  "content_pack_id": "world01_mission_003_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world01_mission_003",
+  "candidate_scope": "published_mission_003_pages_33_41",
+  "source": {
+    "source_id": "world01_paperback_2026_09_18",
+    "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "source_bytes": 14523549,
+    "source_pages": 108,
+    "page_range": [
+      33,
+      41
+    ],
+    "evidence_manifest": "orchestration/content-sources/world01-level3-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world01_mission_003_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_003_node_002",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 33,
+        "evidence_id": "p33_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_002",
+      "sequence": 2,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_003_node_003",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 34,
+        "evidence_id": "p34_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_003",
+      "sequence": 3,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_003_node_004",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 34,
+        "evidence_id": "p34_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_004",
+      "sequence": 4,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_003_node_005",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 34,
+        "evidence_id": "p34_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_005",
+      "sequence": 5,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_003_node_006",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 34,
+        "evidence_id": "p34_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_006",
+      "sequence": 6,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_003_node_007",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 35,
+        "evidence_id": "p35_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_007",
+      "sequence": 7,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_003_node_008",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 35,
+        "evidence_id": "p35_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_008",
+      "sequence": 8,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_003_node_009",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 35,
+        "evidence_id": "p35_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_009",
+      "sequence": 9,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_003_node_010",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 35,
+        "evidence_id": "p35_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_010",
+      "sequence": 10,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_003_node_011",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 35,
+        "evidence_id": "p35_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_011",
+      "sequence": 11,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_003_node_012",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 36,
+        "evidence_id": "p36_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_012",
+      "sequence": 12,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_003_node_013",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 36,
+        "evidence_id": "p36_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_013",
+      "sequence": 13,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_003_node_014",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 36,
+        "evidence_id": "p36_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_014",
+      "sequence": 14,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_003_node_015",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 36,
+        "evidence_id": "p36_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_015",
+      "sequence": 15,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_003_node_016",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 36,
+        "evidence_id": "p36_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_016",
+      "sequence": 16,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_003_node_017",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 37,
+        "evidence_id": "p37_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_017",
+      "sequence": 17,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_003_node_018",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 37,
+        "evidence_id": "p37_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_018",
+      "sequence": 18,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_003_node_019",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 37,
+        "evidence_id": "p37_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_019",
+      "sequence": 19,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_003_node_020",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 37,
+        "evidence_id": "p37_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_020",
+      "sequence": 20,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_003_node_021",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 37,
+        "evidence_id": "p37_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_021",
+      "sequence": 21,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_003_node_022",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 37,
+        "evidence_id": "p37_b06"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_022",
+      "sequence": 22,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_003_node_023",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 38,
+        "evidence_id": "p38_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_023",
+      "sequence": 23,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_003_node_024",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 38,
+        "evidence_id": "p38_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_024",
+      "sequence": 24,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world01_mission_003_node_025",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 39,
+        "evidence_id": "p39_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_025",
+      "sequence": 25,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world01_mission_003_node_026",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 39,
+        "evidence_id": "p39_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_026",
+      "sequence": 26,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world01_mission_003_node_027",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 39,
+        "evidence_id": "p39_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_027",
+      "sequence": 27,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world01_mission_003_node_028",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 40,
+        "evidence_id": "p40_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_028",
+      "sequence": 28,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world01_mission_003_node_029",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 40,
+        "evidence_id": "p40_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_029",
+      "sequence": 29,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_003_node_030",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 40,
+        "evidence_id": "p40_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_003_node_030",
+      "sequence": 30,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 41,
+        "evidence_id": "p41_b01"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_001",
+      "fields": {
+        "level_label": "LEVEL 3:",
+        "title": "The Invisible XP",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "PATIENCE",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Realizing that real life isn't 'broken' - it just has slow download speeds. Grinding is where the magic happens.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_002",
+      "fields": {
+        "story_heading": "THE INVISIBLE XP",
+        "log_label": "SYSTEM LOG >>",
+        "text": "Wednesday afternoon. Dilo threw his soccer cleats at the wall. Thump. The wall shook. Dilo's face was completely red."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_003",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Retirement! Real life has too much lag. In the game, I'm a master. Here, I am... buffering. I quit."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_004",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi walked in with a vacuum cleaner, tripping over the cleats. She turned it off. She closed her eyes for a second, took a deep, calming breath to stay focused, and sat on the edge of the bed."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_005",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Games cheat, Dilo. They give you gold coins just for walking. They TRICK your brain into feeling like a winner instantly. Real life makes you wait for the treasure."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_006",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "I hate waiting. I practiced soccer for a whole week. And I still missed the goal. I want the win NOW. I'm filing a bug report on reality."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_007",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi stroked his messy hair."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_008",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Dilo, look at me. Your body is your real Avatar. Every sprint, every drill... that is Invisible XP (Experience Points). You aren't just running; you are building tiny super-highways inside your brain. You just can't see the progress bar above your head yet."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_009",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo rolled over."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_010",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "So... I am leveling up? Even if I look like a confused penguin?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_011",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Yes. You are just stuck in 'The Training Level.' It feels slow, but it's where the muscles are built. Only noobs quit during The Training Level. Pros know they have to grind to unlock the skills."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_012",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo sighed and sat up. He looked at his cleats. Then he flopped back down."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_013",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Okay, I get the XP thing. But Mammi... I just can't. My legs feel like jelly. The sofa is pulling me in like a black hole. I can't practice for an hour."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_014",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi tapped his nose."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_015",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Who said anything about an hour? That is too big. Your brain is scared of the big work."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_016",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "She picked up a cleat and tossed it to him."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_017",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Let's make a deal. Just go outside and juggle the ball for 10 minutes. Only 10 minutes. If you still hate it after that, you can come back and be a vegetable. Deal?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_018",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo caught the cleat."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_019",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "10 minutes? That's barely an intro cutscene."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_020",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Exactly. Anyone can do 10 minutes."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_021",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo stood up."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_022",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Fine. 10 minutes. But I'm taking the timer."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_023",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "He went outside. He kicked the ball once, then twice. The air felt nice. He forgot to check the timer. 20 minutes later, he was still playing. The hardest part wasn't the practice, it was just standing up. Keep playing and grinding, because in real life, XP points are invisible right until the moment you finally level up."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_024",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 007",
+        "heading": "THE BRAIN SECRET (The Dopamine Trap)",
+        "science_label": "The Science:",
+        "science": "Video games give you 'Fast Dopamine' (instant treats). Real skills give you 'Slow Dopamine' (pride that comes later). Your brain is lazy. It wants the fast treat! But the slow treat lasts much longer.",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi explained that games 'cheat' by giving gold coins easily. Real life (soccer) is harder because the rewards (XP) are invisible at first."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_025",
+      "fields": {
+        "file_label": "// FILE: 008",
+        "heading": "THE TOOL ('The 10-Minute Deal')",
+        "science_label": "The Science:",
+        "science": "The hardest part of any task is starting. This is called 'Friction.' Your brain thinks the work will be painful and huge. But if you make the task tiny, the brain says: 'Oh, I can do that!'",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo couldn't imagine practicing for an hour ('The sofa is a black hole'). But when Mimi said 'Just do 10 minutes,' his brain stopped being scared. And guess what? Once he started, he didn't want to stop!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_026",
+      "fields": {
+        "file_label": "// FILE: 009",
+        "heading": "THE GLITCH ('The Training Level')",
+        "science_label": "The Science:",
+        "science": "When you make mistakes, you aren't failing. You are building Myelin. That's a fancy word for brain-insulation. It makes your thoughts faster.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo thought he was a 'confused penguin.' Mimi corrected him: he was just in 'The Training Level.' Every time he missed the goal, his brain was actually learning how to aim better next time."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_027",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo used a timer to trick his brain into starting.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Is there something you are avoiding right now? What if you only did it for 5 minutes?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_028",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In the Story:",
+        "in_story": "Dilo agreed to the '10-Minute Deal' and ended up playing longer.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Pick one boring chore today. Set a timer for 10 minutes. Race against the clock! When it rings, you are free to stop (but we bet you won't want to!)."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_029",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body_label": "Scientific Fact:",
+        "body": "The brain uses a lot of energy to switch tasks (from resting to working). This is called Limbic Friction. By proposing 'only 10 minutes', Mimi lowered the friction. It's like lowering the height of a hurdle so Dilo could jump over it easily. Once he was running, his brain released adrenaline and dopamine, making it easy to keep going!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_003_node_030",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“I AM FARMING XP!”",
+        "meaning_label": "MEANING:",
+        "meaning": "I didn't fail. I just found a way that doesn't work, and I am learning from my mistakes to get better. This is just the 'Training Level,' and it's making me stronger.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "The Family Team removes the pressure. Every 'glitch' is just a step toward a level-up. Celebrate the effort and the new brain connections being built.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'You need to practice for an hour if you want to be good!',",
+        "teach_label": "teach them to say:",
+        "teach_to_say": "'The friction is too high! Let's make a 10-Minute Deal.'"
+      }
+    }
+  ]
+}

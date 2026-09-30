@@ -1,0 +1,840 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_01",
+  "content_pack_id": "world01_mission_004_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world01_mission_004",
+  "candidate_scope": "published_mission_004_pages_42_50",
+  "source": {
+    "source_id": "world01_paperback_2026_09_18",
+    "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "source_bytes": 14523549,
+    "source_pages": 108,
+    "page_range": [
+      42,
+      50
+    ],
+    "evidence_manifest": "orchestration/content-sources/world01-level4-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world01_mission_004_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_004_node_002",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 42,
+        "evidence_id": "p42_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_002",
+      "sequence": 2,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_003",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 43,
+        "evidence_id": "p43_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_003",
+      "sequence": 3,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_004_node_004",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 43,
+        "evidence_id": "p43_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_004",
+      "sequence": 4,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_005",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 43,
+        "evidence_id": "p43_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_005",
+      "sequence": 5,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_004_node_006",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 43,
+        "evidence_id": "p43_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_006",
+      "sequence": 6,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_007",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 43,
+        "evidence_id": "p43_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_007",
+      "sequence": 7,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_004_node_008",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 44,
+        "evidence_id": "p44_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_008",
+      "sequence": 8,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_009",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 44,
+        "evidence_id": "p44_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_009",
+      "sequence": 9,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_004_node_010",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 44,
+        "evidence_id": "p44_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_010",
+      "sequence": 10,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_004_node_011",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 44,
+        "evidence_id": "p44_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_011",
+      "sequence": 11,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_004_node_012",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 44,
+        "evidence_id": "p44_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_012",
+      "sequence": 12,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_013",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 45,
+        "evidence_id": "p45_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_013",
+      "sequence": 13,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_004_node_014",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 45,
+        "evidence_id": "p45_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_014",
+      "sequence": 14,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_015",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 45,
+        "evidence_id": "p45_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_015",
+      "sequence": 15,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_004_node_016",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 45,
+        "evidence_id": "p45_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_016",
+      "sequence": 16,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_017",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 45,
+        "evidence_id": "p45_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_017",
+      "sequence": 17,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_004_node_018",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 45,
+        "evidence_id": "p45_b06"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_018",
+      "sequence": 18,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_019",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 46,
+        "evidence_id": "p46_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_019",
+      "sequence": 19,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_004_node_020",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 46,
+        "evidence_id": "p46_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_020",
+      "sequence": 20,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_021",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 46,
+        "evidence_id": "p46_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_021",
+      "sequence": 21,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_004_node_022",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 46,
+        "evidence_id": "p46_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_022",
+      "sequence": 22,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_023",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 46,
+        "evidence_id": "p46_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_023",
+      "sequence": 23,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_004_node_024",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 46,
+        "evidence_id": "p46_b06"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_024",
+      "sequence": 24,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_004_node_025",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 47,
+        "evidence_id": "p47_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_025",
+      "sequence": 25,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_004_node_026",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 47,
+        "evidence_id": "p47_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_026",
+      "sequence": 26,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_004_node_027",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 47,
+        "evidence_id": "p47_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_027",
+      "sequence": 27,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_004_node_028",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 47,
+        "evidence_id": "p47_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_028",
+      "sequence": 28,
+      "node_type": "inventory",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_004_node_029",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 47,
+        "evidence_id": "p47_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_029",
+      "sequence": 29,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world01_mission_004_node_030",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 48,
+        "evidence_id": "p48_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_030",
+      "sequence": 30,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world01_mission_004_node_031",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 48,
+        "evidence_id": "p48_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_031",
+      "sequence": 31,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world01_mission_004_node_032",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 48,
+        "evidence_id": "p48_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_032",
+      "sequence": 32,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world01_mission_004_node_033",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 49,
+        "evidence_id": "p49_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_033",
+      "sequence": 33,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world01_mission_004_node_034",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 49,
+        "evidence_id": "p49_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_034",
+      "sequence": 34,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_004_node_035",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 49,
+        "evidence_id": "p49_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_004_node_035",
+      "sequence": 35,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 50,
+        "evidence_id": "p50_b01"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_001",
+      "fields": {
+        "level_label": "LEVEL 4:",
+        "title": "The Spy Who Was Bored",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "CURIOSITY",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Using the 'Wonder Hook' to turn brain-soup into a spy mission.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_002",
+      "fields": {
+        "story_heading": "THE SPY WHO WAS BORED",
+        "log_label": "SYSTEM LOG >>",
+        "text": "Thursday, 16:00. Dilo lay on the rug, staring blankly at the ceiling. He looked like a starfish that had washed ashore and given up. He sighed so loudly it made the windows rattle."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_003",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "BOOOORED. My brain is rotting. I can feel the gray matter turning into soup."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_004",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli didn't look up from her book."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_005",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Then feed it. There's a library right there."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_006",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo rolled onto his side."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_007",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Books? No thanks. Reading is just staring at dead trees with ink tattoos on them. It's too quiet. And it smells like old people."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_008",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli lowered her book and rolled her eyes."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_009",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "You uncultured potato. Books aren't dead trees. They are Skeleton Keys. Yesterday I was floating in a black hole. Today I am in a spy base in London. You are stuck on a rug smelling like feet."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_010",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Rug is fine. Rug doesn't require effort."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_011",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Here. This key fits a secret door."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_012",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "She grabbed a book with a black cover and threw it at him. Dilo caught it."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_013",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Spycraft? Exploding pens? Seriously?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_014",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "He opened the first page, skeptical. Suddenly, he paused. He read a sentence out loud: 'Did you know that real spies used invisible ink made from... pee?' Dilo sat up straighter."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_015",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Wait, seriously? Pee?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_016",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Just then, Alio walked into the room, holding a half-eaten banana. He saw the book in Dilo's hand and screamed."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_017",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Drop it! Drop it! Alio yelled, diving behind the sofa. Dilo said books are carnivorous! He said if an ant eats sugar, it mutates into a giant monster and stomps on toes!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_018",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo looked at the book, then at Alio. A slow, mischievous smile spread across his face."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_019",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "It's true, Alio. This is a Wild Encyclopedia. I can hear its stomach rumbling. It hasn't eaten a finger since... breakfast."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_020",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio peeked over the sofa, trembling."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_021",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Mammi! The book wants to eat Dilo! ...Actually, let it eat him, he was mean. But then it will come for me! And I am too young to be a snack!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_022",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli slammed her own book shut."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_023",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Alio! Books don't eat people. They feed brains. Get off the sofa, you look like a frightened squirrel."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_024",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Are you sure? Maybe I should throw some cheese at it? To distract it?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_025",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "That's... actually creative. But no. Look, Dilo disappeared."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_026",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio tiptoed closer. Dilo was silent. The rug was forgotten. He wasn't in the living room anymore; his brain was in a secret laboratory."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_027",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "It says here you can also use lemon juice. I need lemons. And a dark room."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_028",
+      "fields": {
+        "file_label": "// FILE: INVENTORY",
+        "item_label": "ITEM ACQUIRED:",
+        "item": "A book is the only key that fits every lock in the universe."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_029",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 010",
+        "heading": "THE BRAIN SECRET (Daydream Mode)",
+        "science_label": "The Science:",
+        "science": "Being bored is NOT bad! When you aren't doing anything, your brain enters 'Default Mode.' It connects random ideas to create new ones. Boredom is just the 'Waiting Room' for your best ideas.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo was lying on the rug feeling like his brain was 'soup.' But that empty feeling was necessary so he could be ready to catch the next cool idea."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_030",
+      "fields": {
+        "file_label": "// FILE: 011",
+        "heading": "THE TOOL ('The Wonder Hook')",
+        "science_label": "The Science:",
+        "science": "Your brain loves mysteries. When you ask 'How does this work?', your brain releases a chemical called Dopamine to help you find the answer. This is called Curiosity.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo didn't want to read. But when he saw the fact about the 'invisible ink' (the pee!), his brain got hooked. He asked: 'Wait, seriously?' That question was the key that unlocked his focus."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_031",
+      "fields": {
+        "file_label": "// FILE: 012",
+        "heading": "THE GLITCH ('Reading is pointless!')",
+        "science_label": "The Science:",
+        "science": "Your brain is smart/lazy. It doesn't want to waste energy on things that seem useless. If it thinks a book is just 'dead trees,' it turns off to save power.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo thought reading had no point. But when he found the 'Spy Trick,' his brain woke up and said: 'Wait! This information is a weapon! I need it!' Suddenly, reading wasn't boring - it was a mission."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_032",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Luli said books are 'Skeleton Keys' that can take you to London or a black hole.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "If you could have a key to ANY room (Outer Space, Dinosaur Times, Under the Ocean), which one would you open right now?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_033",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo found one weird fact about spies.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Open a random book to a random page. Hunt for ONE weird word or fact. You just stole a piece of knowledge!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_034",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why does boredom feel so uncomfortable? Because your brain is used to constant entertainment (like sugar for the mind). When you take the entertainment away, the brain throws a tantrum! But if you wait just 5 minutes past the boredom, you enter the Creative Zone. That is where Lego masterpieces and great drawings are invented."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_004_node_035",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“SPY GEAR OFFLINE”",
+        "meaning_label": "MEANING:",
+        "meaning": "My brain has lost its signal and turned into soup. I am bored and my focus is gone, so I might start looking for trouble.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "The Family Team deploys a Wonder Hook. Provide a mystery or a weird fact to reboot curiosity and get the signal back.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'If you're bored, go clean your room!',",
+        "teach_label": "teach them to say:",
+        "teach_to_say": "'Boredom means your brain is in the Waiting Room. Let's find a Wonder Hook in a book to unlock a new level!'"
+      }
+    }
+  ]
+}
