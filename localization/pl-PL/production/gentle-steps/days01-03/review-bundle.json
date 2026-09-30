@@ -1,96 +1,106 @@
 {
   "format": "rse-reauthor-review-bundle-v1",
   "product": "gentle-steps-christmas",
-  "scope": "days_01_03_voice_calibration",
-  "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
+  "scope": "days_01_03_voice_calibration_v2_native_usage",
+  "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
   "reviews": [
+    {
+      "stage": "polish_usage_idiom_context",
+      "reviewer": "role:Polish Usage and Idiom Editor",
+      "status": "PASS",
+      "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
+      "notes": [
+        "Rebuilt the alphabet starter instruction to natural Polish: 'imię zaczyna się na literę najbliżej końca alfabetu'.",
+        "Removed English-shaped adjective selection for moments; uses 'coś ważnego albo zwykły drobiazg'.",
+        "Removed the English-style metaphor 'przekąska wygrywa dzień'; replaced with an ordinary Polish family joke.",
+        "Reviewed grammar, government, word order, collocations, idiom, semantic selection, context and read-aloud flow across all nine units."
+      ]
+    },
     {
       "stage": "polish_family_language_edit",
       "reviewer": "role:polish_family_language_edit",
       "status": "PASS",
-      "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
+      "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
       "notes": [
-        "Copy reads as contemporary spoken family Polish rather than translated self-help prose.",
-        "Instructions are concrete and short enough for shared family reading.",
-        "Abstract nouns and imported mindfulness language were removed where they added no function."
+        "Sentences were rebuilt for ordinary contemporary Polish family speech.",
+        "Instructions are concrete and avoid workshop/therapy phrasing.",
+        "Read-aloud cadence is short and natural."
       ]
     },
     {
       "stage": "humor_character_voice",
       "reviewer": "role:humor_character_voice",
       "status": "PASS",
-      "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
+      "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
       "notes": [
-        "Luli remains dry and precise; Mimi sounds busy/practical; Nini is physical/playful; Dilo is confidently tech/music-ish; Alio is movement/chaos.",
-        "Jokes were rebuilt in Polish instead of translated line-by-line.",
-        "No character relies on current meme/slang references that would date quickly."
+        "Happy Makers jokes were moved farther from English and grounded in Polish contexts such as WF and school assemblies.",
+        "Luli remains dry; Mimi practical; Nini playful; Dilo mock-serious; Alio physical/chaotic.",
+        "No translated punchline was preserved for loyalty alone."
       ]
     },
     {
       "stage": "kid_parent_ear_review",
       "reviewer": "role:kid_parent_ear_review",
       "status": "PASS",
-      "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
+      "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
       "notes": [
-        "No fake youth slang.",
-        "No workshop/HR/therapy wording in final instructions.",
-        "Potentially adult phrase 'elaborat' was removed in favor of 'przemowa'."
+        "No fake youth slang or baby language.",
+        "Recurring labels RESET / AKCJA / U NAS pass the first teen-safe/no-cringe screen but remain owner-gated.",
+        "Comments sound like family banter rather than parent-coaching copy."
       ]
     },
     {
       "stage": "anti_coaching_translationese",
       "reviewer": "role:anti_coaching_translationese",
       "status": "PASS",
-      "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
+      "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
       "notes": [
-        "Removed deterministic trust/connection/gratitude claims from the reader-facing Polish.",
-        "Removed shared-energy / peace-travel / room-breathing metaphors.",
-        "Polish sentence order was rebuilt from function rather than mirroring English cadence."
+        "No imported mindfulness jargon or deterministic trust/connection claims.",
+        "English metaphor selection no longer drives Polish sentences.",
+        "Abstract emotional framing was replaced by concrete actions."
       ]
     },
     {
       "stage": "bilingual_fidelity_backcheck",
       "reviewer": "role:bilingual_fidelity_backcheck",
       "status": "PASS",
-      "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
+      "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
       "notes": [
-        "All nine Days 1–3 activity mechanics remain present: timing, counts, starter rules, direction, turn order and two-person Day 3 variant.",
-        "Day 2 retains 4-count inhale / 6-count exhale / one-minute duration.",
-        "Day 3 freeze retains youngest starter and three-second freeze.",
-        "No source claim was strengthened.",
-        "Deliberate safety adaptations: touch made optional/consent-explicit; paced breathing includes a non-forcing fallback."
+        "All nine activity mechanics remain intact.",
+        "Day 2 retains 4-count inhale, 6-count exhale and one-minute duration.",
+        "Day 3 retains youngest starter, three-second freeze and two-person variant.",
+        "Touch remains optional and breathing is not forced."
       ]
     },
     {
       "stage": "logic_continuity",
       "reviewer": "role:logic_continuity",
       "status": "PASS",
-      "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
+      "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
       "notes": [
-        "Each day preserves the three-part arc: quiet pause, playful group action, short family share.",
-        "Recurring candidate labels are consistent across all three days.",
-        "Character assignments match the English source pages for Days 1–3."
+        "Each day retains reset/action/family-share progression.",
+        "Character ownership matches source functions.",
+        "Recurring labels are internally consistent in this candidate."
       ]
     },
     {
       "stage": "proofread",
       "reviewer": "role:proofread",
       "status": "PASS",
-      "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
+      "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
       "notes": [
-        "Polish punctuation, diacritics and quotation marks checked.",
-        "Imperatives avoid gendered child forms.",
-        "Numbers 4, 6 and 3 seconds remain unambiguous."
+        "Grammar, inflection, punctuation, quotation marks and diacritics checked after idiom rewrite.",
+        "No mechanical gender notation.",
+        "Numbers and timing remain clear."
       ]
     },
     {
       "stage": "surface_qa",
       "reviewer": "role:surface_qa",
       "status": "DEFERRED_OWNER_VOICE_GATE",
-      "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
+      "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
       "notes": [
-        "English source page geometry was visually inspected on PDF pages 21–29.",
-        "Exact Polish overlay/render is intentionally deferred until owner approves the voice and recurring labels.",
+        "Exact Polish overlay/render remains deferred until owner approves V2 voice and recurring labels.",
         "No production fit PASS is claimed."
       ]
     }
