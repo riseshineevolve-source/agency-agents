@@ -213,5 +213,59 @@ class GentleStepsDays0103Production(unittest.TestCase):
             self.assertNotIn(regression, rendered)
 
 
+class GentleStepsDays0407Production(unittest.TestCase):
+    BASE = ROOT / "localization/pl-PL/production/gentle-steps/days04-07"
+
+    def test_days_04_07_pipeline_is_blind_hash_bound_and_owner_gated(self):
+        run = load(self.BASE / "source-run.json")
+        brief = load(self.BASE / "functional-brief.json")
+        packet = load(self.BASE / "writer-packet.json")
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        backcheck = load(self.BASE / "bilingual-backcheck.json")
+        reviews = load(self.BASE / "review-bundle.json")
+        gate = load(self.BASE / "week1-owner-gate.json")
+
+        validate_functional_brief(run, PROFILE, brief)
+        self.assertEqual(packet, writer_packet(run, PROFILE, brief))
+        self.assertNotIn("source_locator", str(packet))
+        validate_candidate(packet, candidate)
+        self.assertEqual(backcheck, backcheck_packet(run, PROFILE, brief, packet, candidate))
+
+        candidate_sha = digest(candidate)
+        self.assertEqual(reviews["candidate_sha256"], candidate_sha)
+        self.assertEqual(gate["candidate_days04_07_sha256"], candidate_sha)
+        self.assertFalse(reviews["scaleout_authorized"])
+        self.assertFalse(gate["scaleout_days08_24"])
+
+        stages = {r["stage"]: r["status"] for r in reviews["reviews"]}
+        for stage in (
+            "polish_usage_idiom_context", "polish_family_language_edit",
+            "humor_character_voice", "kid_parent_ear_review",
+            "anti_coaching_translationese", "bilingual_fidelity_backcheck",
+            "logic_continuity", "proofread",
+        ):
+            self.assertEqual(stages[stage], "PASS")
+        self.assertEqual(stages["surface_qa"], "DEFERRED_WEEK1_OWNER_GATE")
+
+    def test_week1_labels_remain_working_not_locked(self):
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        labels = candidate["recurring_label_candidates"]
+        self.assertEqual(labels["lock_state"], "OWNER_GATE")
+        self.assertEqual((labels["pause"], labels["play"], labels["connection"]),
+                         ("RESET", "AKCJA", "U NAS"))
+
+    def test_days_04_07_known_translationese_regressions_absent(self):
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        rendered = "\n".join(u["draft_pl"] for u in candidate["units"])
+        for regression in (
+            "równowaga rośnie",
+            "dom jest zbudowany z dźwięków",
+            "spokój może podróżować",
+            "wspólny oddech przepływa",
+            "cichy bohater",
+        ):
+            self.assertNotIn(regression, rendered)
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
