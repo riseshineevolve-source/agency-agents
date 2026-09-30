@@ -23,10 +23,13 @@ For Route B:
 3. Generate `reauthor-writer-packet`; the packet must contain no sentence-level English source copy.
 4. Polish Native Family Writer writes the first Polish version from the brief only.
 5. Polish Usage and Idiom Editor must PASS grammar, syntax, collocations, idiom, semantic selection, sentence construction, context and read-aloud naturalness. “Technically grammatical” is not sufficient.
-6. Polish Cultural Localizer + Polish Transcreator + Polish Family Ear Reviewer + Polish Natural Language Editor improve cultural reality, humor/character, credibility and anti-coaching naturalness. Recurring labels also require a teen-safe / no-cringe check.
-7. Only then generate `reauthor-backcheck-packet` and re-open the English source for Meaning Guardian/Bilingual QA.
-8. Logic, proof and real-surface QA follow.
-9. `reauthor-final-gate` returns `READY_FOR_OWNER_GATE` until all product-specific owner decisions are explicitly approved for the exact candidate hash.
+6. Polish Book Register Editor must PASS the written-register test: contemporary and relaxed, but not chatty, telegraphic or social-media-like.
+7. For breath/quiet units, Polish Breath and Reset Editor must PASS concrete everyday framing with no imported mindfulness/wellness language.
+8. Activity Instruction Completeness Reviewer must prove that every source mechanic needed to perform the activity is explicit in Polish. Brevity may not remove starter rules, direction/order, counts, resets, advanced rounds or two-person variants.
+9. Polish Cultural Localizer + Polish Transcreator + Polish Family Ear Reviewer + Polish Natural Language Editor improve cultural reality, humor/character, credibility and anti-coaching naturalness. Recurring labels also require a teen-safe / no-cringe check.
+10. Only then generate `reauthor-backcheck-packet` and re-open the English source for Meaning Guardian/Bilingual QA.
+11. Logic, proof and real-surface QA follow.
+12. `reauthor-final-gate` returns `READY_FOR_OWNER_GATE` until all product-specific owner decisions are explicitly approved for the exact candidate hash.
 
 Never use Route B for legal/privacy/regulatory text.
 
