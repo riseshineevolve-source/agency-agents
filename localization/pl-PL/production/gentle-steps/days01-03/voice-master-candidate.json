@@ -1,0 +1,69 @@
+{
+  "format": "rse-native-pl-candidate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_01_03_voice_calibration",
+  "brief_sha256": "96a51a9c7361ae87f45c1238b59400c5ce30252f6c82764fa813e4a8ac81b91d",
+  "authoring_basis": "functional_brief_only",
+  "recurring_label_candidates": {
+    "pause": "PAUZA",
+    "play": "ZABAWA",
+    "connection": "MIĘDZY NAMI",
+    "lock_state": "OWNER_GATE"
+  },
+  "units": [
+    {
+      "id": "GS.D01.PAUSE",
+      "section_label": "PAUZA",
+      "title": "MINUTA CISZY",
+      "draft_pl": "DZIEŃ 1\n\nPAUZA — MINUTA CISZY\n\nPrzez minutę niczego nie trzeba robić.\n\nUsiądźcie razem w kółku. Jeśli macie ochotę, lekko złapcie się za ręce albo dotknijcie się ramionami.\n\nZamknijcie oczy i przez minutę po prostu oddychajcie.\nBez rozmowy. Bez zadania. Bez pośpiechu.\n\nLuli: Jeśli Alio wytrzyma minutę bez wiercenia się, proszę to gdzieś zanotować."
+    },
+    {
+      "id": "GS.D01.PLAY",
+      "section_label": "ZABAWA",
+      "title": "PODAJ DALEJ",
+      "draft_pl": "DZIEŃ 1\n\nZABAWA — PODAJ DALEJ\n\nNiewidzialna piłka. Prawdziwy komplement.\n\nStańcie w kółku.\n\nSprawdźcie pierwsze litery imion. Zaczyna osoba z literą najpóźniejszą w alfabecie. Trzyma niewidzialną piłkę i rzuca ją do wybranej osoby.\n\nRazem z piłką mówi jedną konkretną rzecz, którą w tej osobie lubi albo docenia.\n\nOsoba łapie piłkę, mówi „Dzięki!” i rzuca dalej.\n\nGramy, aż każdy usłyszy coś dobrego. Jeśli macie ochotę, robimy kolejną rundę.\n\nNini: Niewidzialna piłka, prawdziwe komplementy i zero siniaków. Plan idealny."
+    },
+    {
+      "id": "GS.D01.TALK",
+      "section_label": "MIĘDZY NAMI",
+      "title": "JEDNO SŁOWO",
+      "draft_pl": "DZIEŃ 1\n\nMIĘDZY NAMI — JEDNO SŁOWO\n\nJedno słowo. Bez przemowy.\n\nKażdy mówi jedno słowo, które najlepiej opisuje, jak się teraz czuje.\n\nTylko jedno. Nie trzeba niczego tłumaczyć.\n\nLuli: „Dobrze” bierze dziś wolne. Coś bardziej konkretnego?"
+    },
+    {
+      "id": "GS.D02.PAUSE",
+      "section_label": "PAUZA",
+      "title": "ZŁAPMY RYTM",
+      "draft_pl": "DZIEŃ 2\n\nPAUZA — ZŁAPMY RYTM\n\nW grudniu wszystko pędzi. Oddech nie musi.\n\nPrzez minutę oddychajcie w prostym rytmie:\n\nwdech — liczymy do 4,\nwydech — liczymy do 6.\n\nBez wyścigu i bez nabierania powietrza na zapas. Jeśli komuś taki rytm nie pasuje, po prostu wraca do zwykłego oddechu.\n\nMimi: To jedyna rzecz w grudniu, której nie próbuję zrobić szybciej."
+    },
+    {
+      "id": "GS.D02.PLAY",
+      "section_label": "ZABAWA",
+      "title": "DOMOWA ORKIESTRA",
+      "draft_pl": "DZIEŃ 2\n\nZABAWA — DOMOWA ORKIESTRA\n\nNajpierw jeden dźwięk. Potem robi się z tego cała orkiestra.\n\nZaczyna osoba, której urodziny wypadają jako następne. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.\n\nIdziemy zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystkie wcześniejsze dźwięki i dokłada swój.\n\nGdy każdy już coś dorzucił, spróbujcie wykonać całą sekwencję razem. Kilka razy.\n\nJeśli macie ochotę, dołóżcie następną rundę i zróbcie z tego pełnoprawny domowy koncert.\n\nDilo: Jeśli brzmi dziwnie, zrób to jeszcze raz, tylko pewniej. Wtedy to już muzyka."
+    },
+    {
+      "id": "GS.D02.TALK",
+      "section_label": "MIĘDZY NAMI",
+      "title": "CO LUBIĘ W NASZEJ RODZINIE",
+      "draft_pl": "DZIEŃ 2\n\nMIĘDZY NAMI — CO LUBIĘ W NASZEJ RODZINIE\n\nNie wszystko w domu trzeba poprawiać. Dziś mówimy, co lubimy.\n\nPo kolei dokończcie zdanie:\n\nW naszej rodzinie lubię to, że…\n\nJedna rzecz wystarczy. Duża albo zupełnie zwyczajna.\n\nLuli: Krótko też się liczy. Mowę dziękczynną zostawmy na galę."
+    },
+    {
+      "id": "GS.D03.PAUSE",
+      "section_label": "PAUZA",
+      "title": "SPOKOJNE RĘCE",
+      "draft_pl": "DZIEŃ 3\n\nPAUZA — SPOKOJNE RĘCE\n\nPrzez minutę niczego nie trzeba naprawiać ani poprawiać.\n\nUsiądźcie albo stańcie blisko siebie.\n\nJedną dłoń połóżcie na klatce piersiowej. Drugą — jeśli osoba obok ma na to ochotę — na jej ramieniu.\n\nPrzez minutę oddychajcie spokojnie.\n\nNie trzeba niczego specjalnego „poczuć”. Po prostu zostańcie tak przez chwilę.\n\nNini: Ręce spokojne. Palce mają własny plan."
+    },
+    {
+      "id": "GS.D03.PLAY",
+      "section_label": "ZABAWA",
+      "title": "STOP-KLATKA",
+      "draft_pl": "DZIEŃ 3\n\nZABAWA — STOP-KLATKA\n\nTrzy sekundy bez ruchu. Łatwe? Zobaczymy.\n\nZaczyna najmłodsza osoba i rzuca hasło, na przykład: „śnieg”, „buziak”, „choinka” albo „przytulenie”.\n\nWszyscy natychmiast robią pasującą pozę i zamierają w miejscu na 3 sekundy.\n\nOsoba, która podała hasło, wybiera następną osobę. I gramy dalej przez kilka rund.\n\nJeśli są tylko dwie osoby: jedna robi pozę, druga zgaduje, co przedstawia. Potem zmiana.\n\nAlio: Im później zastygniesz, tym dziwniejsza poza. To akurat plus."
+    },
+    {
+      "id": "GS.D03.TALK",
+      "section_label": "MIĘDZY NAMI",
+      "title": "CO DZIŚ BYŁO FAJNE?",
+      "draft_pl": "DZIEŃ 3\n\nMIĘDZY NAMI — CO DZIŚ BYŁO FAJNE?\n\nNajlepszy moment dnia nie musi być wielkim wydarzeniem.\n\nKażdy wybiera jedną chwilę z dzisiaj, która była po prostu fajna.\n\nMoże być duża. Może być zupełnie mała.\n\nPowiedzcie po jednym takim momencie.\n\nMimi: Tak, przekąska też może wygrać dzień. Oczywiście, że może."
+    }
+  ]
+}
