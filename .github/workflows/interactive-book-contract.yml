@@ -18,6 +18,7 @@ on:
       - 'orchestration/content-sources/world01-level1-page-evidence.json'
       - 'orchestration/content-sources/world01-level2-page-evidence.json'
       - 'orchestration/content-sources/world01-level3-page-evidence.json'
+      - 'orchestration/content-sources/world01-level4-page-evidence.json'
       - '.github/workflows/interactive-book-contract.yml'
   pull_request:
     paths:
@@ -36,6 +37,7 @@ on:
       - 'orchestration/content-sources/world01-level1-page-evidence.json'
       - 'orchestration/content-sources/world01-level2-page-evidence.json'
       - 'orchestration/content-sources/world01-level3-page-evidence.json'
+      - 'orchestration/content-sources/world01-level4-page-evidence.json'
 
 permissions:
   contents: read
@@ -64,11 +66,13 @@ jobs:
           python scripts/build-world01-graph.py 1
           python scripts/build-world01-graph.py 2
           python scripts/build-world01-graph.py 3
-          git diff --exit-code -- orchestration/content-packs/world01/level1.en.candidate.json orchestration/content-packs/world01/level2.en.candidate.json orchestration/content-packs/world01/level3.en.candidate.json
+          python scripts/build-world01-graph.py 4
+          git diff --exit-code -- orchestration/content-packs/world01/level1.en.candidate.json orchestration/content-packs/world01/level2.en.candidate.json orchestration/content-packs/world01/level3.en.candidate.json orchestration/content-packs/world01/level4.en.candidate.json
       - name: Validate active source graphs
         run: |
           python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level1.en.candidate.json
           python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level2.en.candidate.json
           python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level3.en.candidate.json
+          python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level4.en.candidate.json
       - name: Run active graph regression suite
         run: python scripts/test-interactive-book-graph.py
