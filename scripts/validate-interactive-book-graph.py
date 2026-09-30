@@ -12,7 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PACK = ROOT / "orchestration/content-packs/world01/level1.en.candidate.json"
-NODE_TYPES = {"opener", "system_log", "dialogue", "inventory", "console", "quest", "science", "secret_code"}
+NODE_TYPES = {"opener", "system_log", "dialogue", "inventory", "system_note", "exercise", "console", "quest", "science", "secret_code"}
 SPEAKERS = {"system", "dilo", "alio", "nini", "luli", "mimi"}
 PACK_KEYS = {"schema_version", "product_id", "content_pack_id", "content_version", "canonical_locale", "supported_locales", "planned_locales", "minimum_runtime_contract", "mission_id", "candidate_scope", "source", "nodes", "localized_copy"}
 NODE_KEYS = {"node_id", "sequence", "node_type", "subtype", "speaker_id", "next_id", "provenance"}
@@ -25,6 +25,12 @@ MISSION_SPECS = {
     "world01_mission_002": {"level": 2, "pages": [23, 32], "blocks": 32},
     "world01_mission_003": {"level": 3, "pages": [33, 41], "blocks": 30},
     "world01_mission_004": {"level": 4, "pages": [42, 50], "blocks": 35},
+    "world01_mission_005": {"level": 5, "pages": [51, 59], "blocks": 29},
+    "world01_mission_006": {"level": 6, "pages": [60, 67], "blocks": 26},
+    "world01_mission_007": {"level": 7, "pages": [68, 75], "blocks": 27},
+    "world01_mission_008": {"level": 8, "pages": [76, 83], "blocks": 25},
+    "world01_mission_009": {"level": 9, "pages": [84, 91], "blocks": 25},
+    "world01_mission_010": {"level": 10, "pages": [92, 99], "blocks": 27},
 }
 
 
@@ -128,7 +134,10 @@ def verify_pdf(pdf_path, evidence):
     # extraction can reorder separate visual blocks, so verify each field alone.
     for record in evidence["records"]:
         extracted = normalized(reader.pages[record["page"] - 1].extract_text())
+        visual_only_fields = set(record.get("visual_only_fields", []))
         for name, value in record["copy"].items():
+            if name in visual_only_fields:
+                continue
             fragments = record.get("extraction_fragments", {}).get(name)
             if fragments:
                 require(normalized("".join(fragments)) == normalized(value), f"PDF extraction fragments do not reconstruct {record['evidence_id']}.{name}")
