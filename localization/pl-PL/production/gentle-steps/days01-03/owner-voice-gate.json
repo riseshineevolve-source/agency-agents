@@ -1,19 +1,19 @@
 {
   "format": "rse-voice-calibration-gate-v1",
   "product": "gentle-steps-christmas",
-  "scope": "days_01_03",
-  "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
+  "scope": "days_01_03_v2_native_usage",
+  "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
   "status": "READY_FOR_OWNER_VOICE_GATE",
   "surface_qa": "DEFERRED_UNTIL_OWNER_VOICE_APPROVAL",
   "scaleout_days_04_24": false,
   "owner_questions": [
-    "Does this sound like a Polish book written from scratch rather than a translation?",
-    "Approve or revise recurring labels: PAUZA / ZABAWA / MIĘDZY NAMI.",
-    "Is the humor level right for a contemporary Polish family without trying too hard to sound young?",
-    "Is the balance now sufficiently less spiritual and less coaching while preserving the original activities?"
+    "Does V2 now sound structurally and phraseologically native in Polish, not merely less translated?",
+    "Approve or revise recurring labels: RESET / AKCJA / U NAS.",
+    "Do the Happy Makers comments now sound grounded in Polish family/school reality rather than translated punchlines?",
+    "Is the humor teen-safe and non-cringe without trying to imitate youth slang?"
   ],
   "deliberate_safety_adaptations": [
     "Day 1 and Day 3 physical contact is explicitly optional.",
-    "Day 2 paced breathing says not to force the rhythm and allows ordinary breathing if uncomfortable."
+    "Day 2 paced breathing is non-forcing and allows ordinary breathing."
   ]
 }
