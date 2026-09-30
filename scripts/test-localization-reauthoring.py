@@ -181,8 +181,10 @@ class GentleStepsDays0103Production(unittest.TestCase):
 
         stage_status = {r["stage"]: r["status"] for r in reviews["reviews"]}
         for stage in (
-            "polish_usage_idiom_context", "polish_family_language_edit",
-            "humor_character_voice", "kid_parent_ear_review", "anti_coaching_translationese",
+            "polish_usage_idiom_context", "polish_book_register",
+            "breath_reset_reauthoring", "activity_instruction_completeness",
+            "polish_family_language_edit", "humor_character_voice",
+            "kid_parent_ear_review", "anti_coaching_translationese",
             "bilingual_fidelity_backcheck", "logic_continuity", "proofread",
         ):
             self.assertEqual(stage_status[stage], "PASS")
@@ -239,8 +241,9 @@ class GentleStepsDays0407Production(unittest.TestCase):
 
         stages = {r["stage"]: r["status"] for r in reviews["reviews"]}
         for stage in (
-            "polish_usage_idiom_context", "polish_family_language_edit",
-            "humor_character_voice", "kid_parent_ear_review",
+            "polish_usage_idiom_context", "polish_book_register",
+            "breath_reset_reauthoring", "activity_instruction_completeness",
+            "polish_family_language_edit", "humor_character_voice", "kid_parent_ear_review",
             "anti_coaching_translationese", "bilingual_fidelity_backcheck",
             "logic_continuity", "proofread",
         ):
@@ -258,6 +261,9 @@ class GentleStepsDays0407Production(unittest.TestCase):
         candidate = load(self.BASE / "voice-master-candidate.json")
         rendered = "\n".join(u["draft_pl"] for u in candidate["units"])
         for regression in (
+            "i jedziecie dalej",
+            "Finał: prowadzi najstarsza osoba",
+            "Może mieszać wychylenia i kroki",
             "równowaga rośnie",
             "dom jest zbudowany z dźwięków",
             "spokój może podróżować",
