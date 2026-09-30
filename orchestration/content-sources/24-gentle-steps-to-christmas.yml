@@ -47,8 +47,8 @@ localization:
     first_production_calibration_scope: days_1_to_3
     current_voice_master: localization/pl-PL/production/gentle-steps/days01-03/GENTLE_STEPS_PL_VOICE_MASTER_DAYS01_03.md
     week1_voice_master: localization/pl-PL/production/gentle-steps/GENTLE_STEPS_PL_WEEK1_VOICE_MASTER.md
-    days04_07_candidate_sha256: 31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2
-    current_voice_master_candidate_sha256: 71b496f78d70c1bd01b52d5a4b3f22dc004877c3f6d85e2082596e1f32260b24
+    days04_07_candidate_sha256: 08878be968b4ff2bf0412cc21ebf9888b07f3a85bb1c3eb9eb736f09f98e1439
+    current_voice_master_candidate_sha256: 0325f1353e0a1ead9024d50401e9489c4069f2cb01fa091b79f6b3621d5d4b2d
     recurring_label_candidates:
       - RESET
       - AKCJA
