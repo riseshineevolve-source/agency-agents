@@ -26,6 +26,33 @@ For direct child address, mechanical gender workarounds are also FIX. Final pros
 
 For recurring child/teen labels, add a **teen embarrassment test**: a label that sounds like therapy, a school workshop, baby language or an adult imitating youth slang is FIX even if semantically accurate.
 
+## Gate 3B: Book register
+
+Natural Polish is not automatically suitable book Polish.
+
+PASS requires a contemporary written register appropriate for a professionally edited family book/calendar. Mark FIX for:
+- chat-transcript shorthand outside deliberate dialogue;
+- casual connective phrases such as `i jedziecie dalej`;
+- social-media cadence;
+- excessive telegraphic fragments;
+- instructions reduced to clipped noun phrases where full sentences are needed for clarity.
+
+Humor may be conversational. Core narration and instructions must remain editorially polished.
+
+## Gate 3C: Breath / reset framing
+
+For breathing, quiet, sound, light and body-reset exercises, preserve mechanics while rejecting imported mindfulness/wellness language that sounds artificial in Polish.
+
+Prefer concrete actions and everyday reasons to pause. Avoid unsupported claims about calm, regulation, energy, flow, presence or shared inner states.
+
+PASS only when the exercise sounds useful and ordinary rather than spiritual, therapeutic or corporate.
+
+## Gate 3D: Activity instruction completeness
+
+For every game/exercise, verify explicit coverage of the source mechanics required to perform it: start position, starter selection, first action, turn order/direction, next-person action, timing/counts, error/reset rules, round structure, optional continuation, advanced/final round, two-person variant, safety/consent and ending condition when present in source.
+
+A shorter Polish version that forces the reader to guess is FIX.
+
 ## Gate 4: Cultural fit
 References, jokes and examples must make sense to the intended Polish audience. Adapt only when needed. Avoid decorative 'Polishness' and stereotypes.
 
