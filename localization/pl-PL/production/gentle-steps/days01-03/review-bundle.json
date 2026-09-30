@@ -2,26 +2,27 @@
   "format": "rse-reauthor-review-bundle-v1",
   "product": "gentle-steps-christmas",
   "scope": "days_01_03_voice_calibration_v2_native_usage",
-  "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
+  "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
   "reviews": [
     {
       "stage": "polish_usage_idiom_context",
       "reviewer": "role:Polish Usage and Idiom Editor",
       "status": "PASS",
-      "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
+      "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
       "notes": [
         "Rebuilt the alphabet starter instruction to natural Polish: 'imię zaczyna się na literę najbliżej końca alfabetu'.",
         "Removed English-shaped adjective selection for moments; uses 'coś ważnego albo zwykły drobiazg'.",
         "Removed the English-style metaphor 'przekąska wygrywa dzień'; replaced with an ordinary Polish family joke.",
         "Reviewed grammar, government, word order, collocations, idiom, semantic selection, context and read-aloud flow across all nine units.",
-        "Second read-aloud pass replaced 'będzie mieć urodziny', vague pronoun consent wording, and English-shaped relative-clause phrasing with ordinary Polish constructions."
+        "Second read-aloud pass replaced 'będzie mieć urodziny', vague pronoun consent wording, and English-shaped relative-clause phrasing with ordinary Polish constructions.",
+        "Final micro-pass removed 'oddychać normalnie', redundant possessive wording and a less-natural family sentence frame."
       ]
     },
     {
       "stage": "polish_family_language_edit",
       "reviewer": "role:polish_family_language_edit",
       "status": "PASS",
-      "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
+      "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
       "notes": [
         "Sentences were rebuilt for ordinary contemporary Polish family speech.",
         "Instructions are concrete and avoid workshop/therapy phrasing.",
@@ -32,7 +33,7 @@
       "stage": "humor_character_voice",
       "reviewer": "role:humor_character_voice",
       "status": "PASS",
-      "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
+      "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
       "notes": [
         "Happy Makers jokes were moved farther from English and grounded in Polish contexts such as WF and school assemblies.",
         "Luli remains dry; Mimi practical; Nini playful; Dilo mock-serious; Alio physical/chaotic.",
@@ -43,7 +44,7 @@
       "stage": "kid_parent_ear_review",
       "reviewer": "role:kid_parent_ear_review",
       "status": "PASS",
-      "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
+      "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
       "notes": [
         "No fake youth slang or baby language.",
         "Recurring labels RESET / AKCJA / U NAS pass the first teen-safe/no-cringe screen but remain owner-gated.",
@@ -54,7 +55,7 @@
       "stage": "anti_coaching_translationese",
       "reviewer": "role:anti_coaching_translationese",
       "status": "PASS",
-      "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
+      "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
       "notes": [
         "No imported mindfulness jargon or deterministic trust/connection claims.",
         "English metaphor selection no longer drives Polish sentences.",
@@ -65,7 +66,7 @@
       "stage": "bilingual_fidelity_backcheck",
       "reviewer": "role:bilingual_fidelity_backcheck",
       "status": "PASS",
-      "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
+      "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
       "notes": [
         "All nine activity mechanics remain intact.",
         "Day 2 retains 4-count inhale, 6-count exhale and one-minute duration.",
@@ -77,7 +78,7 @@
       "stage": "logic_continuity",
       "reviewer": "role:logic_continuity",
       "status": "PASS",
-      "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
+      "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
       "notes": [
         "Each day retains reset/action/family-share progression.",
         "Character ownership matches source functions.",
@@ -88,7 +89,7 @@
       "stage": "proofread",
       "reviewer": "role:proofread",
       "status": "PASS",
-      "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
+      "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
       "notes": [
         "Grammar, inflection, punctuation, quotation marks and diacritics checked after idiom rewrite.",
         "No mechanical gender notation.",
@@ -99,7 +100,7 @@
       "stage": "surface_qa",
       "reviewer": "role:surface_qa",
       "status": "DEFERRED_OWNER_VOICE_GATE",
-      "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
+      "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
       "notes": [
         "Exact Polish overlay/render remains deferred until owner approves V2 voice and recurring labels.",
         "No production fit PASS is claimed."
