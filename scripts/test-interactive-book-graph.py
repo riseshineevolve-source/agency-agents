@@ -20,6 +20,14 @@ PACK3 = json.loads((ROOT / "orchestration/content-packs/world01/level3.en.candid
 EVIDENCE3 = json.loads((ROOT / "orchestration/content-sources/world01-level3-page-evidence.json").read_text(encoding="utf-8"))
 PACK4 = json.loads((ROOT / "orchestration/content-packs/world01/level4.en.candidate.json").read_text(encoding="utf-8"))
 EVIDENCE4 = json.loads((ROOT / "orchestration/content-sources/world01-level4-page-evidence.json").read_text(encoding="utf-8"))
+PACKS_5_10 = {
+    level: json.loads((ROOT / f"orchestration/content-packs/world01/level{level}.en.candidate.json").read_text(encoding="utf-8"))
+    for level in range(5, 11)
+}
+EVIDENCE_5_10 = {
+    level: json.loads((ROOT / f"orchestration/content-sources/world01-level{level}-page-evidence.json").read_text(encoding="utf-8"))
+    for level in range(5, 11)
+}
 
 
 class GraphBoundaryTests(unittest.TestCase):
@@ -219,6 +227,88 @@ class LevelFourBoundaryTests(unittest.TestCase):
             self.skipTest("private canonical PDF not present in CI")
         changed = copy.deepcopy(EVIDENCE4)
         changed["records"][27]["copy"]["item"] = "Invented inventory reward"
+        with self.assertRaises(ValueError):
+            validator.verify_pdf(pdf, changed)
+
+
+class CompleteWorldOneBoundaryTests(unittest.TestCase):
+    EXPECTED = {
+        5: {"pages": (51, 59), "blocks": 29, "dialogue": 13, "system_log": 7, "exercise": 1},
+        6: {"pages": (60, 67), "blocks": 26, "dialogue": 11, "system_log": 6, "system_note": 1},
+        7: {"pages": (68, 75), "blocks": 27, "dialogue": 11, "system_log": 8},
+        8: {"pages": (76, 83), "blocks": 25, "dialogue": 11, "system_log": 5, "system_note": 1},
+        9: {"pages": (84, 91), "blocks": 25, "dialogue": 9, "system_log": 7, "system_note": 1},
+        10: {"pages": (92, 99), "blocks": 27, "dialogue": 12, "system_log": 6, "system_note": 1},
+    }
+
+    def test_levels_five_to_ten_are_complete(self):
+        for level, expected in self.EXPECTED.items():
+            with self.subTest(level=level):
+                pack = PACKS_5_10[level]
+                evidence = EVIDENCE_5_10[level]
+                counts = validator.validate(pack, evidence)
+                self.assertEqual(sum(counts.values()), expected["blocks"])
+                self.assertEqual(counts["dialogue"], expected["dialogue"])
+                self.assertEqual(counts["system_log"], expected["system_log"])
+                first, last = expected["pages"]
+                self.assertEqual({n["provenance"]["page"] for n in pack["nodes"]}, set(range(first, last + 1)))
+                for node_type in ("exercise", "system_note"):
+                    if node_type in expected:
+                        self.assertEqual(counts[node_type], expected[node_type])
+
+    def test_complete_world_has_282_source_nodes(self):
+        packs = [PACK, PACK2, PACK3, PACK4] + [PACKS_5_10[level] for level in range(5, 11)]
+        self.assertEqual(sum(len(pack["nodes"]) for pack in packs), 282)
+
+    def test_book_keys_override_divergent_lovable_copy(self):
+        expected_keys = {5: "CALM", 6: "GRIT", 7: "FRIENDSHIP", 8: "SELF-CARE", 9: "FUEL", 10: "ENERGY"}
+        for level, key in expected_keys.items():
+            self.assertEqual(PACKS_5_10[level]["localized_copy"][0]["fields"]["key_acquired"], key)
+
+    def test_box_breathing_exercise_is_source_content_not_reward_logic(self):
+        pack = PACKS_5_10[5]
+        exercise = next(node for node in pack["nodes"] if node["node_type"] == "exercise")
+        copy = next(item["fields"] for item in pack["localized_copy"] if item["node_id"] == exercise["node_id"])
+        self.assertEqual(exercise["subtype"], "box_breathing")
+        self.assertEqual(copy["inhale"], "BREATHE IN")
+        self.assertEqual(copy["exhale"], "BREATHE OUT")
+        self.assertNotIn("score", exercise)
+        self.assertNotIn("xp", exercise)
+        self.assertNotIn("reward", exercise)
+
+    def test_system_notes_remain_distinct_source_nodes(self):
+        self.assertEqual(next(n for n in PACKS_5_10[6]["nodes"] if n["node_type"] == "system_note")["subtype"], "remember")
+        self.assertEqual(next(n for n in PACKS_5_10[8]["nodes"] if n["node_type"] == "system_note")["subtype"], "system_note")
+        self.assertEqual(next(n for n in PACKS_5_10[9]["nodes"] if n["node_type"] == "system_note")["subtype"], "system_note")
+        self.assertEqual(next(n for n in PACKS_5_10[10]["nodes"] if n["node_type"] == "system_note")["subtype"], "system_tip")
+
+    def test_visual_only_exercise_tamper_rejected_by_locked_evidence(self):
+        pack = copy.deepcopy(PACKS_5_10[5])
+        evidence = EVIDENCE_5_10[5]
+        idx = next(i for i, n in enumerate(pack["nodes"]) if n["node_type"] == "exercise")
+        pack["localized_copy"][idx]["fields"]["inhale"] = "INVENTED BREATH"
+        with self.assertRaises(ValueError):
+            validator.validate(pack, evidence)
+
+    def test_all_levels_private_pdf_authenticate_when_available(self):
+        import os
+        pdf = os.environ.get("WORLD01_CANONICAL_PDF")
+        if not pdf:
+            self.skipTest("private canonical PDF not present in CI")
+        for level in range(5, 11):
+            with self.subTest(level=level):
+                validator.verify_pdf(pdf, EVIDENCE_5_10[level])
+
+    def test_private_pdf_ignores_only_declared_visual_only_fields(self):
+        import os
+        pdf = os.environ.get("WORLD01_CANONICAL_PDF")
+        if not pdf:
+            self.skipTest("private canonical PDF not present in CI")
+        changed = copy.deepcopy(EVIDENCE_5_10[5])
+        exercise = next(r for r in changed["records"] if r["type"] == "exercise")
+        exercise["copy"]["inhale"] = "VISUAL TAMPER"
+        validator.verify_pdf(pdf, changed)
+        changed["records"][1]["copy"]["text"] = "NONVISUAL TAMPER"
         with self.assertRaises(ValueError):
             validator.verify_pdf(pdf, changed)
 
