@@ -126,22 +126,8 @@ programs:
     deployment_authorized: false
     next_safe_slice: none_selected_repository_side_wait_for_owner_product_source_or_deployment_decision
   interactive_book_factory:
-    status: world01_levels_1_to_3_source_graph_candidates_verified_locally
+    status: synthetic_contract_v0_verified_green
     architecture: orchestration/architecture/RSE_CONSUMER_PLATFORM_APP_FACTORY.md
-    active_content_contract: orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_GRAPH_V1.md
-    level1_source_graph: orchestration/content-packs/world01/level1.en.candidate.json
-    level1_published_pages: 15-22
-    level1_source_blocks: 26
-    level1_canonical_pdf_sha256: adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549
-    level1_private_pdf_validation: PASS_2026_09_30
-    level2_source_graph: orchestration/content-packs/world01/level2.en.candidate.json
-    level2_published_pages: 23-32
-    level2_source_blocks: 32
-    level3_source_graph: orchestration/content-packs/world01/level3.en.candidate.json
-    level3_published_pages: 33-41
-    level3_source_blocks: 30
-    levels_1_to_3_private_pdf_validation: PASS_2026_09_30
-    levels_1_to_3_graph_tests: PASS_31_CASES_2026_09_30
     content_contract_v0: orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md
     synthetic_fixture: orchestration/architecture/fixtures/interactive-book-v0/synthetic-world-valid.json
     validator_ci_run: 35525269062
@@ -153,13 +139,10 @@ programs:
       - world_02
       - gentle_steps_christmas_app
     bilingual_default: en_plus_pl_in_one_product
-    level1_supported_locales: en_only
-    planned_locale: pl-PL
     offline_first_default: true
     real_product_conversion_authorized: false
     deployment_authorized: false
-    next_gate: world01_level4_published_source_audit_before_conversion
-    next_safe_slice: world01_level4_published_pages_42_50_source_graph
+    next_gate: owner_source_approval_before_world_01_real_content_conversion
   ai_discovery:
     status: active_measurement_fresh_gsc_monitoring_paid_gate
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
