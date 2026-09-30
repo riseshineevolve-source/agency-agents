@@ -33,11 +33,16 @@ product_model:
 localization:
   pl_PL:
     engine_repo: riseshineevolve-source/agency-agents
-    branch: rse/polish-localization-engine-v1
-    pr: 6
-    calibration_file: localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md
-    state: calibration_active
+    branch: codex/polish-engine-main-reconcile
+    pr: 13
+    mode: native_reauthor_from_function
+    profile: localization/pl-PL/engine/reauthoring/gentle-steps.json
+    operating_profile: localization/pl-PL/GENTLE_STEPS_PL_REAUTHORING_PROFILE.md
+    historical_calibration_file: localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md
+    historical_calibration_authority: reference_only
+    state: reauthoring_pipeline_ready
     full_book_scaleout_authorized: false
+    first_production_calibration_scope: days_1_to_3
 provenance:
   recovered_date: 2026-09-17
   verified_against_library_content: true
