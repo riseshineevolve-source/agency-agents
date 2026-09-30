@@ -202,3 +202,72 @@ Repo asset inventory confirmed on the current app branch:
 - `assets/images/24 Gentle Steps to Christmas cover.jpg`
 
 Next visual slice after owner review should make the elegant cover-family scene visibly present on mobile rather than relying only on abstract purple/gold surfaces.
+
+
+## Owner visual amplification + overnight execution — 2026-09-30 22:25 Europe/Warsaw
+
+Owner supplied a broader visual reference set and explicitly approved a stronger mobile treatment than the printed book.
+
+New locked mobile direction:
+- PURPLE is decisively dominant;
+- use several purple values at once: night plum, aubergine, royal purple, amethyst, vivid violet, soft lavender and pale lilac;
+- GOLD should be materially stronger than in print: CTA, selected/progress states, borders, stars/sparkles, premium separators and micro-glow;
+- CREAM / warm ivory should be more visible on reading surfaces for contrast and warmth;
+- restrained burgundy remains an editorial accent, not the dominant app color;
+- mobile saturation/contrast may intentionally exceed the book because the printed pastel atmosphere can disappear on a small screen;
+- do NOT revert to red/green Christmas styling.
+
+New owner-supplied references include:
+- elegant Happy-Makers family / calendar art;
+- purple-and-gold Christmas room and winter scenes;
+- cream/lavender editorial cards;
+- purple book/tablet mockups;
+- Day 23 open-book visual concepts;
+- calm family group scenes and festive family scenes.
+
+Interpretation rule:
+- references are mood/composition evidence, not a request to rasterize the book page into the app;
+- preserve readable native mobile text;
+- use cream/ivory cards over richer purple/lavender atmosphere;
+- family identity should be visible on mobile;
+- individual character cameos remain small/supportive.
+
+Current code lane:
+- repo: `riseshineevolve-source/RISE.SHINE.EVOLVE`
+- branch: `gentle-steps/app-en-full24-purple-gold`
+- visual system contract: `gentle-steps-app/VISUAL_SYSTEM_V2.md`
+- full 24-day EN content remains owner-locked and must not be rewritten.
+
+Latest completed visual-v2 proof before the canonical-family correction:
+- app workflow run `36772765738`: PASS
+- host SEO/privacy/AI/Lighthouse run `36772765626`: PASS
+- artifact: `gentle-steps-en-full24-visual-v2`
+- proof set: Home / Family / Day 01 / Day 12 / Day 24.
+
+Known visual correction:
+- a casual/sporty group asset surfaced in the first V2 home proof;
+- owner specifically wants the elegant Gentle Steps family/product look to define the app;
+- the code lane is being corrected to canonical Gentle Steps family/cover artwork and the casual group art must not return as the hero.
+
+Overnight autonomous execution is authorized for the next 10 hours.
+Safe reversible work should continue without owner replies.
+
+Overnight priority order:
+1. finish and verify visual V2 with stronger multi-purple + gold + cream and elegant Happy-Makers identity;
+2. close deterministic proof defects (Home, Family sheet, Day 01, long Day 12, Day 24);
+3. keep long content readable and sticky completion control non-obstructive;
+4. reduce unnecessary image/cache weight and improve offline/performance behavior;
+5. accessibility/touch/contrast/reduced-motion QA;
+6. only after web/PWA visual stability, advance Android wrapper/package identity;
+7. then icon/splash and optional local reminder;
+8. then Android/device/Play preflight documentation and deterministic checks where possible;
+9. checkpoint every bounded slice.
+
+Do NOT:
+- resume Polish localization;
+- rewrite final EN text;
+- deploy/publish;
+- change pricing/legal terms;
+- mutate central RSE priorities.
+
+If an owner-only release or irreversible decision is reached, park only that gate and continue remaining non-gated Gentle Steps work.
