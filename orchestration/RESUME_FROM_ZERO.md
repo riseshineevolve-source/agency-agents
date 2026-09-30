@@ -70,3 +70,30 @@ A user should be able to start a fresh technical conversation with:
 `Take over RSE Technical Orchestrator. Reconstruct current state from the connected GitHub durable sources using RESUME_FROM_ZERO.md. Do not re-audit completed work. Continue the highest-priority safe Wave 1 task and stop only at an owner gate or real blocker.`
 
 No old conversation URL should be required for normal continuation.
+
+
+## Current Detective handoff — 2026-09-30
+
+Before any Detective Academy production work, read:
+`orchestration/brain/checkpoints/2026-09-30-detective-owner-frontmatter-source-lock.md`
+
+Canonical reader copy remains the same V3 file:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Current canonical blob:
+`8685f8e561d0bfb3837445b72b4d6f799a9a48f2`
+
+Important regression rule:
+the Sep 29 180-page owner-review PDF mixed physical Page 3 because the renderer, not the canonical text, hardcoded `YOUR SQUAD` + squad art on top of the black-envelope page.
+
+Locked physical opening order is now:
+Title -> Publication -> Black Envelope ONLY -> Your Squad -> Credential -> Book Promise -> Case Rhythm -> Map Rules -> Case Wall/Hint Vault -> Case Index.
+
+Do not:
+- put squad art or `YOUR SQUAD` on the black-envelope page;
+- restore the global upper-left micro-grid/ruler;
+- place Happy Makers dialogue directly on a full evidence-grid field;
+- advance to final Previewer/physical-proof status from a pre-fix artifact.
+
+Current state:
+**FRONT-MATTER SOURCE-FIXED / FRESH REBUILD + FULL AUDIT REQUIRED / EN NOT FROZEN.**

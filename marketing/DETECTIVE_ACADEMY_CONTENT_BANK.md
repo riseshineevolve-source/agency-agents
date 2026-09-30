@@ -525,3 +525,17 @@ Modules:
 5. A CASE TO ENTER — NOT ANOTHER WORKSHEET.
 
 Final generated A+ images remain owner-review gated.
+
+
+## 2026-09-30 mandatory quality upgrade
+
+Before generating or approving any Detective Academy marketing creative:
+1. run `marketing/RSE_CREATIVE_PREGENERATION_QA.md`;
+2. use `marketing/DETECTIVE_ACADEMY_COPY_AND_SERIES_UPGRADE.md` for current hooks, coaching copy, CTA and retired slogans.
+
+Critical:
+- never reuse the same image for Dilo and Alio;
+- Grandma Bibi must remain visibly grandmother age;
+- no duplicated Happy Maker in a single creative;
+- do not use "Same questions. Brighter kids." as campaign copy;
+- prefer real product mechanics + clear developmental insight over generic inspirational language.

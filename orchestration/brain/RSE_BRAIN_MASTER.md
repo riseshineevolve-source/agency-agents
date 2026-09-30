@@ -1174,3 +1174,107 @@ Status:
 Final owner micro-pass adds the Page 2 cozy-site CTA, ten-question-mark Case 03 progress tracker, stronger Case 06 Uma/dragon-tooth-spoon incident bridge and Case 07 local closure. No puzzle truth changed. Full Case 01->30 transition audit remains 29/29 PASS.
 
 The compact 127-page integration proof is not visual/page-count authority. Next action is to restore the established premium Book Factory system around this exact V3 copy: Evidence Grid signature language, boxed sections and HM chat, dedicated left Witness Board + large right Live Case Map, large bold axes, full Case 03 facing comparison spread, quiet Page 2 scanner-question-mark publication design, and reverse Hint/Solutions. Reflow/add pages before cutting copy.
+
+
+## Detective owner front-matter source lock — 2026-09-30
+
+Owner review found a renderer-side regression in the 2026-09-29 180-page artifact. The canonical V3 text itself had not reverted.
+
+Root cause:
+- renderer hardcoded squad art + `YOUR SQUAD` onto physical Page 3 before rendering the canonical black-envelope text;
+- global page begin injected the recurring upper-left micro-grid/ruler;
+- COMMS used the evidence grid as a text background.
+
+Canonical source remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Current owner-front-matter source-lock commit:
+`e136e94402c8f870f3d9221b7047c1406cbec813`
+
+Current canonical blob:
+`8685f8e561d0bfb3837445b72b4d6f799a9a48f2`
+
+Front-matter physical order is now fail-closed:
+1 Title
+2 Publication Record
+3 The Black Envelope only
+4 Your Squad
+5 Recruit Credential
+6 What You Are About To Walk Into
+7 How Every Case Works
+8 Map Cases
+9 Case Wall + Hint Vault
+10 Case Index
+
+New Page 2 owner copy includes the HTTPS site invitation and Facebook line. Page 4 uses a general recruit/team opener rather than the premature Alio helmet joke.
+
+Production factory source now removes the global upper-left micro-grid and renders Happy Makers dialogue on a readable light field with only a narrow decorative evidence-grid strip.
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-30-detective-owner-frontmatter-source-lock.md`
+
+State:
+**FRONT-MATTER REGRESSION SOURCE-FIXED / PREVIEWER GATE REOPENED / EN NOT FROZEN.**
+
+The prior Sep 29 advance-to-Previewer status is superseded until a fresh exact-source rebuild and full audit pass.
+
+Follow-up 2026-09-30: exact private owner packet `final-book-owner-review(1).zip` was recovered from Library and its SHA-256 `55439b308d6d7a2db7b40485665bcc46aceeb9dffde528afffb276790378680c` exactly matches the owner/spatial contract. Public-repo CI now protects source/order/renderer wiring without committing private visuals. Production branch HEAD `e6a531bc6f26b7cafc4fa73b1af5ee549d1c4283`; Build Detective Academy PDF run `36690461519` PASS. Full private premium rebuild remains required before Previewer.
+
+
+## Detective full graphic-novel print master candidate — 2026-09-30
+
+Complete local 180-page artifact:
+`HMDA_Book1_EN_GRAPHIC_NOVEL_PRINT_MASTER_FINAL_CANDIDATE_2026-09-30.pdf`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-30-detective-graphic-novel-full-build-candidate.md`
+
+QA:
+- 180 pages / US Letter / openable / unencrypted;
+- body text fidelity: 169 pages checked, 0 below 0.97 threshold;
+- Front 5–10 token coverage 1.00;
+- required locked content missing 0; forbidden superseded phrases 0;
+- Page 3 cold-open and Page 4 squad regression guards pass;
+- page rotation metadata remains 0; reverse Hint/Solutions rotates only inner content.
+
+Visual system:
+modern clean monochrome detective / graphic-novel framing, readable speech-bubble COMMS, separate full-page Witness Boards and large maps, exact approved spatial rasters for map truth/recognizable props, Case 03 facing comparison, enlarged Case 05 analysis surface.
+
+Important: the semantic map-art handoff itself says many all-15 prop families are still NEW_ART_REQUIRED; no nonexistent final modern-prop pack is to be invented. Current candidate therefore uses the exact approved locked raster maps. A future prop-only art replacement may not change puzzle geometry or text.
+
+State:
+**FULL GRAPHIC-NOVEL MASTER CANDIDATE BUILT / TEXT & STRUCTURE QA PASS / OWNER VISUAL REVIEW + KDP PREVIEWER NEXT / EN NOT FROZEN.
+
+Owner starting-point lock:
+- persistent Library master: `/AI AGENTS/DETECTIVE/HMDA_Book1_EN_GRAPHIC_NOVEL_PRINT_MASTER_STARTING_POINT_2026-09-30.pdf`
+- SHA-256: `2339b408510b3ed01711864cc89fd419f771edfa95225b69e10de03d2ec3a30f`
+- all subsequent Detective corrections must start from this graphic-novel master; do not rebuild from older compact/technical proofs.
+- reverse Hint/Solution orientation is NOT locked yet; keep it unchanged until explicit owner decision.**
+
+
+## Revenue-ASAP execution-stream reconciliation — 2026-09-30
+
+Owner operating mode is now **FINISH -> PUBLISH -> SELL**.
+
+Canonical execution-chat map:
+`orchestration/brain/RSE_EXECUTION_CHAT_MAP.md`
+
+Active central finish lanes:
+1. Detective Academy EN -> KDP
+2. Optical Animals -> KDP
+3. 24 Gentle Steps dual seasonal lane: PL paperback/ebook proof + EN/PL Advent app
+
+Detective Academy PL begins after explicit EN freeze.
+
+Dedicated project execution bootstraps:
+- Optical: `orchestration/bootstrap/OPTICAL_ANIMALS_REPO_BOOTSTRAP.md`
+- Gentle Steps: `orchestration/bootstrap/GENTLE_STEPS_EXECUTION_BOOTSTRAP.md`
+- World 01: `orchestration/bootstrap/WORLD01_EXECUTION_BOOTSTRAP.md`
+- Polish Localization: `orchestration/bootstrap/POLISH_LOCALIZATION_EXECUTION_BOOTSTRAP.md`
+
+World 01/02 and Polish Localization remain delegated/support lanes and may continue without blocking the Gentle Steps seasonal deadline.
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-30-revenue-asap-project-stream-reconciliation.md`
+
+Central Orchestrator remains the sole owner of cross-project sequencing and canonical Brain changes. Quick Desk stays conversation-first. Dedicated execution chats execute and checkpoint but do not mutate central priorities.

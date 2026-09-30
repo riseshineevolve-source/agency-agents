@@ -133,3 +133,19 @@ Owner approval remains required for:
 - material health/psychology claims
 
 Routine preparation, organic strategy, drafts, analytics, launch packs and repurposing may proceed below these gates.
+
+
+## Mandatory creative pre-generation gate
+
+Before ANY marketing image, carousel, reel, ad, A+ visual, caption, hook or CTA is generated or approved, run:
+- `marketing/RSE_CREATIVE_PREGENERATION_QA.md`
+
+This gate is mandatory and overrides convenience/speed.
+
+No asset proceeds if:
+- a Happy Maker is misidentified, duplicated, age-shifted or visually replaced;
+- Dilo and Alio are not clearly distinct;
+- Grandma Bibi is youthified;
+- copy contains grammar/style errors, vague AI-style filler or meaningless fragments;
+- the hook/CTA is generic rather than specific to a real parent/child need;
+- the creative uses invented product proof instead of real approved product pages/assets.
