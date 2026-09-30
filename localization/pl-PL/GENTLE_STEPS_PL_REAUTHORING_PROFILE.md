@@ -32,19 +32,28 @@ Existing Gentle Steps Polish calibration/golden-test copy is preserved as histor
 3. **Polish usage / idiom / syntax gate**  
    Independently check grammar, sentence construction, collocations, idiom, semantic selection, word order and context. “Understandable” or “technically grammatical” is not enough. The line must be something a contemporary Polish speaker would naturally say without mentally repairing an English-shaped construction.
 
-4. **Polish family-language edit**  
-   Remove language that sounds imported, corporate, therapeutic, motivational or like a translated mindfulness product. Prefer ordinary present-day family Polish, concrete situations and spoken rhythm.
+4. **Polish book-register edit**  
+   Keep the text contemporary and easy to read, but clearly written for a professionally edited book. Natural does not mean chatty. Remove spoken shorthand, social-media cadence and telegraphic instructions unless a fragment has a deliberate rhythmic or comic function.
 
-5. **Humor + character-voice pass**  
+5. **Breath / reset re-authoring pass**  
+   For breathing, quiet and body-reset activities, preserve the mechanics but rebuild the framing through ordinary life: slowing the rush, giving the head a minute without the next task, resting the body, using a longer exhale, noticing sound/light/support. Reject imported mindfulness, shared-energy and corporate-wellbeing language.
+
+6. **Instruction completeness gate**  
+   Before style approval, verify that every activity still states who starts, how that person is chosen, what happens next, direction/order, numbers/timing, reset rules, optional/advanced rounds, two-person variants and safety/consent where present in the source. A family must be able to run the activity from Polish alone.
+
+7. **Polish family-language edit**  
+   Remove language that sounds imported, corporate, therapeutic, motivational or like a translated mindfulness product. Prefer ordinary present-day family Polish, concrete situations and natural book rhythm.
+
+8. **Humor + character-voice pass**  
    Add light situational humor, self-awareness and recognisable Happy Makers voice where the source function permits it. Do not add jokes that change mechanics, facts, consent or emotional meaning.
 
-6. **Anti-coaching / anti-translationese pass**  
+9. **Anti-coaching / anti-translationese pass**  
    Fail wording that relies on generic phrases such as abstract “building connection”, therapy-speak, corporate coaching cadence, slogan-like uplift or English sentence architecture when a Polish family would not naturally say it.
 
-7. **Bilingual fidelity backcheck**  
+10. **Bilingual fidelity backcheck**  
    Only after the Polish draft is natively written, compare it against the English source and functional brief. Verify mechanics, sequence, counts, claims, consent, factual meaning and callbacks. Do not restore English phrasing merely to make the texts look parallel.
 
-8. **Read-aloud + real-surface QA**  
+11. **Read-aloud + real-surface QA**  
    Read child/family copy aloud. Then test the exact approved candidate on its actual book/app surface. Surface fit may shorten or restructure native Polish, but may not reintroduce translationese or shrink readability.
 
 ## Agent mapping and machine enforcement
@@ -53,7 +62,11 @@ This profile is executed through:
 - **Localization Source Function Analyst** — full EN access, wording-free functional brief only;
 - **Polish Native Family Writer** — first Polish draft from the blind writer packet;
 - **Polish Cultural Localizer** — real Polish family/cultural friction;
-- **Polish Usage and Idiom Editor** — mandatory Polish-only grammar/syntax/collocation/idiom/context gate;- **Polish Transcreator** — humor + character-voice mechanism;
+- **Polish Usage and Idiom Editor** — mandatory Polish-only grammar/syntax/collocation/idiom/context gate;
+- **Polish Book Register Editor** — modern book Polish: natural but not chatty or telegraphic;
+- **Polish Breath and Reset Editor** — concrete everyday re-authoring of breath/quiet exercises without mindfulness jargon;
+- **Activity Instruction Completeness Reviewer** — source-mechanics coverage and stand-alone comprehensibility;
+- **Polish Transcreator** — humor + character-voice mechanism;
 - **Polish Family Ear Reviewer** — independent Polish-only parent/child anti-cringe review;
 - **Polish Natural Language Editor** — anti-coaching / anti-translationese pass;
 - **Localization Meaning Guardian + Bilingual Localization QA** — English re-opened only after the native Polish draft exists;
@@ -79,6 +92,22 @@ Before humor or owner approval, every unit must pass an independent Polish-only 
 A phrase is FIX even if understandable when a Polish speaker would normally reformulate it. Regression examples include constructions such as `najpóźniejsza litera w alfabecie`, `chwila może być duża lub mała` and `przekąska może wygrać dzień`.
 
 Recurring labels have an additional **teen-safe / no-cringe** gate: they must work for ages roughly 13–16 without sounding therapeutic, childish, like a school workshop, or like an adult trying to use youth slang.
+
+## Written register and activity detail
+
+The final Polish must sit between two bad extremes:
+- not stiff, translated or coaching-like;
+- not so colloquial that it reads like a chat transcript.
+
+Instructions in a book should normally use complete, flowing sentences. Avoid casual connective shortcuts such as `i jedziecie dalej` and compressed final-round fragments when a reader needs a full instruction.
+
+For games and exercises, **brevity never outranks clarity**. Preserve every source mechanic needed to play correctly, including starter selection, direction, turn order, counts, reset conditions, advanced rounds and two-person variants.
+
+### Breath / quiet activities
+
+Do not sell “mindfulness” in Polish. Preserve breathing and pause mechanics, but frame them as an ordinary useful break from December speed, a minute without the next task, a chance to let the body rest or the stream of thoughts pass without needing to solve anything.
+
+Avoid abstract claims about calm, energy, connection, flow, presence or shared breath. Concrete action first; interpretation minimal.
 
 ## Voice target
 
