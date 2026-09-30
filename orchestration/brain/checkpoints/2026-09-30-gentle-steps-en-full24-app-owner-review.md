@@ -111,11 +111,13 @@ Validator proves:
 - old evergreen palette removed.
 
 Host-repo regression pipeline on the final HEAD:
+- run: `36749937731`
+- conclusion: PASS
 - SEO pipeline: PASS
 - analytics consent: PASS
 - AI discovery truth layer: PASS
 - AI discovery measurement: PASS
-- Lighthouse completion was still running at checkpoint write time and is not an app-owner gate.
+- Lighthouse / Core Web Vitals workflow: PASS.
 
 ## Mobile visual evidence
 
