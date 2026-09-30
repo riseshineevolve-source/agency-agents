@@ -31,13 +31,16 @@ Required route:
 2. Generate/validate the machine writer packet. It must expose only the functional brief, never sentence-level English copy.
 3. **Polish Native Family Writer** creates the first Polish draft from that packet.
 4. **Polish Usage and Idiom Editor** independently checks grammar, syntax, collocations, idiom, semantic selection, sentence construction, context and read-aloud rhythm. Technically grammatical but non-native constructions are FIX.
-5. **Polish Cultural Localizer** checks Poland-specific family reality only where cultural distance matters.
-6. **Polish Transcreator** runs the humor + character-voice pass from the Polish draft and brief; do not pull the prose back toward English wording.
-7. **Polish Family Ear Reviewer** performs a Polish-only anti-cringe parent/child ear test, including a teen-safe check for recurring labels.
-8. **Polish Natural Language Editor** performs the anti-coaching / anti-translationese pass.
-9. **Localization Meaning Guardian** and **Bilingual Localization QA** re-open English only after the Polish draft is independently authored and verify facts, mechanics, safety, claim strength and continuity.
-10. **Polish Logic Editor** + **Polish Proofreader** close flow/language defects.
-11. Run exact target-surface QA. Product-defined owner gates remain explicit.
+5. **Polish Book Register Editor** rejects chatty shorthand, social-media cadence and telegraphic instructions that would not belong in a professionally edited family book.
+6. **Polish Breath and Reset Editor** re-authors breathing/quiet exercises into concrete everyday Polish without mindfulness/wellness jargon, while preserving source mechanics and safety.
+7. **Activity Instruction Completeness Reviewer** proves that starter rules, order/direction, counts, reset conditions, advanced rounds, two-person variants and safety qualifiers remain explicit enough to run the activity from Polish alone.
+8. **Polish Cultural Localizer** checks Poland-specific family reality only where cultural distance matters.
+9. **Polish Transcreator** runs the humor + character-voice pass from the Polish draft and brief; do not pull the prose back toward English wording.
+10. **Polish Family Ear Reviewer** performs a Polish-only anti-cringe parent/child ear test, including a teen-safe check for recurring labels.
+11. **Polish Natural Language Editor** performs the anti-coaching / anti-translationese pass.
+12. **Localization Meaning Guardian** and **Bilingual Localization QA** re-open English only after the Polish draft is independently authored and verify facts, mechanics, safety, claim strength and continuity.
+13. **Polish Logic Editor** + **Polish Proofreader** close flow/language defects.
+14. Run exact target-surface QA. Product-defined owner gates remain explicit.
 
 Machine commands live in `scripts/localization-engine.py` as `reauthor-*`. The critical invariant is `native_writer_source_visibility=functional_brief_only`.
 
