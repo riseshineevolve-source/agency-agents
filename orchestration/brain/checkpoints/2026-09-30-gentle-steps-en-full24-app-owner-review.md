@@ -361,7 +361,24 @@ Android CI:
 - builds debug APK plus unsigned release AAB;
 - Play publication/signing remains owner-gated.
 
-At the time of this checkpoint update, the latest Android build is still executing; update this checkpoint with the final run result/artifact before claiming native build PASS.
+Final Android build verification:
+- run: `36774996994`
+- head: `744bbe237dc1519277c53d17783217c3d23df9ce`
+- conclusion: PASS
+- artifact: `11124912256`
+- artifact digest: `sha256:c90eb372a209c99c2de0affe781e46c5ef1915c3ec6a8125ef6e79a91d93cdeb`
+- debug APK SHA-256: `477f0eb219030159c3655ceca4827de0abd3a43e7a7ae302b56b9d4dbde95753`
+- unsigned release AAB SHA-256: `c1c9dc261f6c9b14a22ad70c292c8e73bdb68efac4244b866fccdb5238fe9ee0`
+
+Host regression on the same head:
+- run: `36774997018`
+- conclusion: PASS
+
+Full EN/mobile visual validator on the same head:
+- run: `36774996991`
+- conclusion: PASS
+
+Therefore the English web/PWA experience and pre-Play Android shell are both mechanically buildable from the same durable source state.
 
 ### Remaining real owner gates
 
@@ -374,3 +391,27 @@ Do not stop ordinary technical work for these until required, but do not cross t
 6. actual Play application creation/upload/publication.
 
 Polish remains outside this branch and must not be reintroduced before its separate language approval.
+
+
+## Bounded slice close
+
+This execution slice is now closed.
+
+Working state:
+- full 24-day English app: PASS;
+- Visual V2: PASS;
+- optional local 24-day Advent reminders: implemented;
+- Android Capacitor generation: PASS;
+- debug APK: produced;
+- unsigned release AAB: produced;
+- host regression/SEO/privacy/Lighthouse pipeline: PASS.
+
+The next remaining work is no longer an ordinary code-completion gate. It requires owner choices that affect permanent store identity/release assets:
+- final package ID;
+- final app icon/splash;
+- Play signing/App Signing;
+- pricing/monetization if any;
+- Play Data Safety/privacy declarations;
+- store creation/upload/publication.
+
+Do not publish automatically.
