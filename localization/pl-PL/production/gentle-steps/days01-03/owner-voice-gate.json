@@ -1,0 +1,19 @@
+{
+  "format": "rse-voice-calibration-gate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_01_03",
+  "candidate_sha256": "eb5547cb2fd92919eb71438f7e9d6afe47ede4092c41e6c3a910dbda80442847",
+  "status": "READY_FOR_OWNER_VOICE_GATE",
+  "surface_qa": "DEFERRED_UNTIL_OWNER_VOICE_APPROVAL",
+  "scaleout_days_04_24": false,
+  "owner_questions": [
+    "Does this sound like a Polish book written from scratch rather than a translation?",
+    "Approve or revise recurring labels: PAUZA / ZABAWA / MIĘDZY NAMI.",
+    "Is the humor level right for a contemporary Polish family without trying too hard to sound young?",
+    "Is the balance now sufficiently less spiritual and less coaching while preserving the original activities?"
+  ],
+  "deliberate_safety_adaptations": [
+    "Day 1 and Day 3 physical contact is explicitly optional.",
+    "Day 2 paced breathing says not to force the rhythm and allows ordinary breathing if uncomfortable."
+  ]
+}
