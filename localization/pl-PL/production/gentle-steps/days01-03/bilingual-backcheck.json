@@ -1,0 +1,196 @@
+{
+  "format": "rse-reauthor-backcheck-packet-v1",
+  "product": "gentle-steps-christmas",
+  "source_file": "private-owner-upload/24 Gentle Paperback ok(2).pdf",
+  "source_revision": "owner-upload-2026-09-30",
+  "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+  "candidate_sha256": "eb5547cb2fd92919eb71438f7e9d6afe47ede4092c41e6c3a910dbda80442847",
+  "instruction": "Re-open the English source only now. Verify mechanics, facts, counts, sequence, consent, claim strength, character continuity and required function. Do not rewrite Polish toward English syntax, metaphors or cadence merely to make the texts look parallel.",
+  "units": [
+    {
+      "id": "GS.D01.PAUSE",
+      "source_locator": "PDF p21",
+      "function": "Open Day 1 with a one-minute shared quiet pause that feels low-pressure and doable for a real family.",
+      "mechanics": [
+        "Family sits together in a circle.",
+        "Light hand-holding or shoulder contact is optional family touch.",
+        "Eyes close.",
+        "Everyone breathes together for one minute.",
+        "No talking or task performance is required."
+      ],
+      "immutable_facts": [
+        "Duration is one minute.",
+        "This is the first of three Day 1 activities.",
+        "Luli comments on Alio's difficulty staying still."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim guaranteed calm, regulation or therapeutic effect.",
+        "Physical contact must not be framed as compulsory in Polish."
+      ],
+      "final_pl_for_review": "DZIEŃ 1\n\nPAUZA — MINUTA CISZY\n\nPrzez minutę niczego nie trzeba robić.\n\nUsiądźcie razem w kółku. Jeśli macie ochotę, lekko złapcie się za ręce albo dotknijcie się ramionami.\n\nZamknijcie oczy i przez minutę po prostu oddychajcie.\nBez rozmowy. Bez zadania. Bez pośpiechu.\n\nLuli: Jeśli Alio wytrzyma minutę bez wiercenia się, proszę to gdzieś zanotować."
+    },
+    {
+      "id": "GS.D01.PLAY",
+      "source_locator": "PDF p22",
+      "function": "Create an easy circle game where each person receives one concrete positive comment through an imaginary-ball mechanic.",
+      "mechanics": [
+        "Stand in a circle.",
+        "Starter is the person whose name comes latest in the alphabet.",
+        "Starter pretends to hold an invisible ball.",
+        "They throw it gently to someone and say one specific compliment or appreciated quality.",
+        "Receiver acknowledges it, then throws to another person.",
+        "Continue until everyone has received at least one positive comment; extra rounds are optional."
+      ],
+      "immutable_facts": [
+        "The ball is imaginary.",
+        "Everyone should receive at least one positive comment.",
+        "Nini's joke contrasts gentle throwing with avoiding bruises."
+      ],
+      "safety_claim_boundaries": [
+        "Do not promise the exercise builds trust as a guaranteed outcome.",
+        "Keep throwing explicitly gentle/imaginary."
+      ],
+      "final_pl_for_review": "DZIEŃ 1\n\nZABAWA — PODAJ DALEJ\n\nNiewidzialna piłka. Prawdziwy komplement.\n\nStańcie w kółku.\n\nSprawdźcie pierwsze litery imion. Zaczyna osoba z literą najpóźniejszą w alfabecie. Trzyma niewidzialną piłkę i rzuca ją do wybranej osoby.\n\nRazem z piłką mówi jedną konkretną rzecz, którą w tej osobie lubi albo docenia.\n\nOsoba łapie piłkę, mówi „Dzięki!” i rzuca dalej.\n\nGramy, aż każdy usłyszy coś dobrego. Jeśli macie ochotę, robimy kolejną rundę.\n\nNini: Niewidzialna piłka, prawdziwe komplementy i zero siniaków. Plan idealny."
+    },
+    {
+      "id": "GS.D01.TALK",
+      "source_locator": "PDF p23",
+      "function": "Close Day 1 with a tiny emotional check-in: one honest word about how each person feels now.",
+      "mechanics": [
+        "Each person says exactly one word.",
+        "The word describes how they feel right now."
+      ],
+      "immutable_facts": [
+        "One word is the core constraint.",
+        "Luli challenges an overly vague generic answer."
+      ],
+      "safety_claim_boundaries": [
+        "Do not force disclosure beyond one word.",
+        "Do not imply emotional honesty guarantees trust."
+      ],
+      "final_pl_for_review": "DZIEŃ 1\n\nMIĘDZY NAMI — JEDNO SŁOWO\n\nJedno słowo. Bez przemowy.\n\nKażdy mówi jedno słowo, które najlepiej opisuje, jak się teraz czuje.\n\nTylko jedno. Nie trzeba niczego tłumaczyć.\n\nLuli: „Dobrze” bierze dziś wolne. Coś bardziej konkretnego?"
+    },
+    {
+      "id": "GS.D02.PAUSE",
+      "source_locator": "PDF p24",
+      "function": "Start Day 2 with one minute of paced breathing using a 4-count inhale and 6-count exhale.",
+      "mechanics": [
+        "Everyone breathes in for four counts.",
+        "Everyone breathes out for six counts.",
+        "Repeat for one minute."
+      ],
+      "immutable_facts": [
+        "Inhale count is 4.",
+        "Exhale count is 6.",
+        "Duration is one minute.",
+        "Mimi jokes that slow breathing is something she does not speed up."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim the pattern guarantees calm or emotional regulation.",
+        "Do not instruct anyone to force or overfill a breath."
+      ],
+      "final_pl_for_review": "DZIEŃ 2\n\nPAUZA — ZŁAPMY RYTM\n\nW grudniu wszystko pędzi. Oddech nie musi.\n\nPrzez minutę oddychajcie w prostym rytmie:\n\nwdech — liczymy do 4,\nwydech — liczymy do 6.\n\nBez wyścigu i bez nabierania powietrza na zapas. Jeśli komuś taki rytm nie pasuje, po prostu wraca do zwykłego oddechu.\n\nMimi: To jedyna rzecz w grudniu, której nie próbuję zrobić szybciej."
+    },
+    {
+      "id": "GS.D02.PLAY",
+      "source_locator": "PDF p25",
+      "function": "Build a silly family sound sequence in which every person adds one short sound and the group later performs the sequence together.",
+      "mechanics": [
+        "Starter is the person whose birthday occurs next.",
+        "Starter makes one short sound.",
+        "Move clockwise.",
+        "Each next person repeats the accumulated sound sequence and adds one different sound.",
+        "Continue until everyone has added a sound.",
+        "Optional extra rounds make the sequence longer.",
+        "Perform the full sound sequence together several times."
+      ],
+      "immutable_facts": [
+        "Birthday order chooses the starter.",
+        "Direction is clockwise.",
+        "Every person adds one sound.",
+        "Dilo encourages adding a sound even if it is questionable."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim harmony or communication improvements as guaranteed outcomes."
+      ],
+      "final_pl_for_review": "DZIEŃ 2\n\nZABAWA — DOMOWA ORKIESTRA\n\nNajpierw jeden dźwięk. Potem robi się z tego cała orkiestra.\n\nZaczyna osoba, której urodziny wypadają jako następne. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.\n\nIdziemy zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystkie wcześniejsze dźwięki i dokłada swój.\n\nGdy każdy już coś dorzucił, spróbujcie wykonać całą sekwencję razem. Kilka razy.\n\nJeśli macie ochotę, dołóżcie następną rundę i zróbcie z tego pełnoprawny domowy koncert.\n\nDilo: Jeśli brzmi dziwnie, zrób to jeszcze raz, tylko pewniej. Wtedy to już muzyka."
+    },
+    {
+      "id": "GS.D02.TALK",
+      "source_locator": "PDF p26",
+      "function": "Invite each person to name one thing they genuinely like about being part of this family.",
+      "mechanics": [
+        "Each person completes one sentence about something they like about this family."
+      ],
+      "immutable_facts": [
+        "One thing per person is enough.",
+        "Luli jokes that dramatic speeches are optional."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim the exercise reconnects the family to what truly matters as a guaranteed effect."
+      ],
+      "final_pl_for_review": "DZIEŃ 2\n\nMIĘDZY NAMI — CO LUBIĘ W NASZEJ RODZINIE\n\nNie wszystko w domu trzeba poprawiać. Dziś mówimy, co lubimy.\n\nPo kolei dokończcie zdanie:\n\nW naszej rodzinie lubię to, że…\n\nJedna rzecz wystarczy. Duża albo zupełnie zwyczajna.\n\nLuli: Krótko też się liczy. Mowę dziękczynną zostawmy na galę."
+    },
+    {
+      "id": "GS.D03.PAUSE",
+      "source_locator": "PDF p27",
+      "function": "Create one minute of stillness using hand placement and gentle family contact, without mystical claims.",
+      "mechanics": [
+        "Place one hand on your own chest/heart area.",
+        "Place the other hand on the shoulder of the person next to you.",
+        "Breathe slowly for one minute."
+      ],
+      "immutable_facts": [
+        "Duration is one minute.",
+        "One hand is on self; one hand is on neighbor's shoulder.",
+        "Nini jokes that her still fingers may be planning a tickle attack."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim peace or calm literally travels between hearts.",
+        "Make touch consent explicit in Polish.",
+        "Do not require a person to feel a particular bodily/emotional result."
+      ],
+      "final_pl_for_review": "DZIEŃ 3\n\nPAUZA — SPOKOJNE RĘCE\n\nPrzez minutę niczego nie trzeba naprawiać ani poprawiać.\n\nUsiądźcie albo stańcie blisko siebie.\n\nJedną dłoń połóżcie na klatce piersiowej. Drugą — jeśli osoba obok ma na to ochotę — na jej ramieniu.\n\nPrzez minutę oddychajcie spokojnie.\n\nNie trzeba niczego specjalnego „poczuć”. Po prostu zostańcie tak przez chwilę.\n\nNini: Ręce spokojne. Palce mają własny plan."
+    },
+    {
+      "id": "GS.D03.PLAY",
+      "source_locator": "PDF p28",
+      "function": "Run a fast freeze-pose game based on shouted words, including a clear two-person variant.",
+      "mechanics": [
+        "Youngest person starts and shouts one word.",
+        "Everyone instantly makes a matching pose and freezes for three seconds.",
+        "Caller chooses the person who gives the next word.",
+        "Play several rounds.",
+        "For two people: one person freezes in a pose and the other guesses what it represents; then roles can switch."
+      ],
+      "immutable_facts": [
+        "Youngest person starts.",
+        "Freeze lasts three seconds.",
+        "Caller selects the next caller.",
+        "Two-person guessing variant must remain.",
+        "Alio jokes that slower freezing produces weirder-looking poses."
+      ],
+      "safety_claim_boundaries": [
+        "Keep poses safe and stationary during the three-second freeze."
+      ],
+      "final_pl_for_review": "DZIEŃ 3\n\nZABAWA — STOP-KLATKA\n\nTrzy sekundy bez ruchu. Łatwe? Zobaczymy.\n\nZaczyna najmłodsza osoba i rzuca hasło, na przykład: „śnieg”, „buziak”, „choinka” albo „przytulenie”.\n\nWszyscy natychmiast robią pasującą pozę i zamierają w miejscu na 3 sekundy.\n\nOsoba, która podała hasło, wybiera następną osobę. I gramy dalej przez kilka rund.\n\nJeśli są tylko dwie osoby: jedna robi pozę, druga zgaduje, co przedstawia. Potem zmiana.\n\nAlio: Im później zastygniesz, tym dziwniejsza poza. To akurat plus."
+    },
+    {
+      "id": "GS.D03.TALK",
+      "source_locator": "PDF p29",
+      "function": "End Day 3 by sharing one enjoyable moment from today, explicitly allowing small ordinary pleasures.",
+      "mechanics": [
+        "Each person shares one moment they enjoyed today.",
+        "The moment can be something small that felt good."
+      ],
+      "immutable_facts": [
+        "One moment per person.",
+        "Mimi explicitly validates snacks as a legitimate favorite moment."
+      ],
+      "safety_claim_boundaries": [
+        "Do not require gratitude, positivity or a profound takeaway."
+      ],
+      "final_pl_for_review": "DZIEŃ 3\n\nMIĘDZY NAMI — CO DZIŚ BYŁO FAJNE?\n\nNajlepszy moment dnia nie musi być wielkim wydarzeniem.\n\nKażdy wybiera jedną chwilę z dzisiaj, która była po prostu fajna.\n\nMoże być duża. Może być zupełnie mała.\n\nPowiedzcie po jednym takim momencie.\n\nMimi: Tak, przekąska też może wygrać dzień. Oczywiście, że może."
+    }
+  ]
+}
