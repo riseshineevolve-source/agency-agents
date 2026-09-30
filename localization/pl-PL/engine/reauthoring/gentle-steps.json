@@ -9,6 +9,9 @@
     "source_function_analysis",
     "native_polish_first_write",
     "polish_usage_idiom_context",
+    "polish_book_register",
+    "breath_reset_reauthoring",
+    "activity_instruction_completeness",
     "polish_family_language_edit",
     "humor_character_voice",
     "kid_parent_ear_review",
@@ -20,6 +23,9 @@
   ],
   "required_review_stages": [
     "polish_usage_idiom_context",
+    "polish_book_register",
+    "breath_reset_reauthoring",
+    "activity_instruction_completeness",
     "polish_family_language_edit",
     "humor_character_voice",
     "kid_parent_ear_review",
@@ -92,5 +98,61 @@
       "forced slang",
       "literal mindfulness terminology"
     ]
+  },
+  "book_register": {
+    "target": "modern_polish_family_book",
+    "rule": "natural_not_chatty",
+    "avoid": [
+      "chat transcript shorthand",
+      "social-media cadence",
+      "casual filler outside character dialogue",
+      "telegraphic instructions",
+      "fragments used instead of complete Polish sentences"
+    ],
+    "pass_condition": "The copy reads naturally aloud and also looks deliberate in a professionally edited Polish book."
+  },
+  "breath_reset_policy": {
+    "mode": "concrete_everyday_reset",
+    "purpose": [
+      "slow the pace",
+      "give the head a short break from the next task",
+      "rest the body",
+      "use breathing as a concrete action rather than a spiritual metaphor"
+    ],
+    "avoid": [
+      "mindfulness jargon",
+      "corporate wellbeing language",
+      "shared energy",
+      "flow metaphors",
+      "inner light",
+      "presence jargon",
+      "guaranteed calm"
+    ],
+    "preserve": [
+      "source body position",
+      "timing",
+      "breath counts",
+      "consent/safety",
+      "activity sequence"
+    ]
+  },
+  "instruction_completeness": {
+    "rule": "no_compression_that_requires_guessing",
+    "required_coverage": [
+      "starting_position",
+      "starter_selection",
+      "starter_action",
+      "turn_order_or_direction",
+      "next_person_action",
+      "counts_and_timing",
+      "error_reset_rules",
+      "round_structure",
+      "optional_continuation",
+      "advanced_or_final_round",
+      "two_person_variant",
+      "safety_or_consent",
+      "ending_condition"
+    ],
+    "pass_condition": "A family can execute the activity correctly from the Polish page alone without seeing the English original."
   }
 }
