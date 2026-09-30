@@ -30,13 +30,14 @@ Required route:
 1. **Localization Source Function Analyst** sees the full English source and produces a wording-free functional brief.
 2. Generate/validate the machine writer packet. It must expose only the functional brief, never sentence-level English copy.
 3. **Polish Native Family Writer** creates the first Polish draft from that packet.
-4. **Polish Cultural Localizer** checks Poland-specific family reality only where cultural distance matters.
-5. **Polish Transcreator** runs the humor + character-voice pass from the Polish draft and brief; do not pull the prose back toward English wording.
-6. **Polish Family Ear Reviewer** performs a Polish-only anti-cringe parent/child ear test.
-7. **Polish Natural Language Editor** performs the anti-coaching / anti-translationese pass.
-8. **Localization Meaning Guardian** and **Bilingual Localization QA** re-open English only after the Polish draft is independently authored and verify facts, mechanics, safety, claim strength and continuity.
-9. **Polish Logic Editor** + **Polish Proofreader** close flow/language defects.
-10. Run exact target-surface QA. Product-defined owner gates remain explicit.
+4. **Polish Usage and Idiom Editor** independently checks grammar, syntax, collocations, idiom, semantic selection, sentence construction, context and read-aloud rhythm. Technically grammatical but non-native constructions are FIX.
+5. **Polish Cultural Localizer** checks Poland-specific family reality only where cultural distance matters.
+6. **Polish Transcreator** runs the humor + character-voice pass from the Polish draft and brief; do not pull the prose back toward English wording.
+7. **Polish Family Ear Reviewer** performs a Polish-only anti-cringe parent/child ear test, including a teen-safe check for recurring labels.
+8. **Polish Natural Language Editor** performs the anti-coaching / anti-translationese pass.
+9. **Localization Meaning Guardian** and **Bilingual Localization QA** re-open English only after the Polish draft is independently authored and verify facts, mechanics, safety, claim strength and continuity.
+10. **Polish Logic Editor** + **Polish Proofreader** close flow/language defects.
+11. Run exact target-surface QA. Product-defined owner gates remain explicit.
 
 Machine commands live in `scripts/localization-engine.py` as `reauthor-*`. The critical invariant is `native_writer_source_visibility=functional_brief_only`.
 
