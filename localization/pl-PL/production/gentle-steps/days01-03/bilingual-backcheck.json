@@ -4,7 +4,7 @@
   "source_file": "private-owner-upload/24 Gentle Paperback ok(2).pdf",
   "source_revision": "owner-upload-2026-09-30",
   "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
-  "candidate_sha256": "71b496f78d70c1bd01b52d5a4b3f22dc004877c3f6d85e2082596e1f32260b24",
+  "candidate_sha256": "0325f1353e0a1ead9024d50401e9489c4069f2cb01fa091b79f6b3621d5d4b2d",
   "instruction": "Re-open the English source only now. Verify mechanics, facts, counts, sequence, consent, claim strength, character continuity and required function. Do not rewrite Polish toward English syntax, metaphors or cadence merely to make the texts look parallel.",
   "units": [
     {
@@ -129,7 +129,7 @@
       "safety_claim_boundaries": [
         "Do not claim the exercise reconnects the family to what truly matters as a guaranteed effect."
       ],
-      "final_pl_for_review": "DZIEŃ 2\n\nU NAS — CO LUBIMY W NASZEJ RODZINIE\n\nPo kolei dokończcie zdanie:\n\n„W naszej rodzinie lubię to, że…”\n\nWystarczy jedna rzecz. Może to być coś ważnego albo zwykły drobiazg, który po prostu lubicie w swoim rodzinnym życiu.\n\nLuli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy."
+      "final_pl_for_review": "DZIEŃ 2\n\nU NAS — CO LUBIMY W NASZEJ RODZINIE\n\nPo kolei dokończcie zdanie:\n\n„W naszej rodzinie lubię to, że…”\n\nWystarczy jedna rzecz. Może to być coś ważnego albo zupełnie codziennego.\n\nLuli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy."
     },
     {
       "id": "GS.D03.PAUSE",
@@ -190,7 +190,7 @@
       "safety_claim_boundaries": [
         "Do not require gratitude, positivity or a profound takeaway."
       ],
-      "final_pl_for_review": "DZIEŃ 3\n\nU NAS — CO DZIŚ BYŁO FAJNE?\n\nKażdy wybiera jeden moment z dzisiejszego dnia, który był po prostu przyjemny, i krótko o nim opowiada.\n\nNie musi to być nic ważnego ani wyjątkowego. Wystarczy jedna zwyczajna rzecz, którą dobrze wspominacie.\n\nMimi: Jeśli najlepsze były frytki, to frytki. Nie mam dalszych pytań."
+      "final_pl_for_review": "DZIEŃ 3\n\nU NAS — CO DZIŚ BYŁO FAJNE?\n\nKażdy wybiera jeden przyjemny moment z dzisiejszego dnia i krótko o nim opowiada.\n\nNie musi to być nic ważnego ani wyjątkowego. Wystarczy zwyczajna chwila, którą dobrze wspominacie.\n\nMimi: Jeśli najlepsze były frytki, to frytki. Nie mam dalszych pytań."
     }
   ]
 }
