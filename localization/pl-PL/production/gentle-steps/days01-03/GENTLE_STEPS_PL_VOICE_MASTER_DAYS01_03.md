@@ -5,7 +5,7 @@ Source: owner-uploaded English paperback, 104 pages
 Source SHA-256: `1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7`  
 Mode: `native_reauthor_from_function`  
 Candidate recurring labels: **PAUZA / ZABAWA / MIĘDZY NAMI** — **NOT LOCKED**  
-Candidate SHA-256: `eb5547cb2fd92919eb71438f7e9d6afe47ede4092c41e6c3a910dbda80442847`
+Candidate SHA-256: `4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724`
 
 This is not a translation draft. It is the first Polish voice-master candidate created from wording-free functional briefs, followed by Polish family-language, humor/character, anti-coaching, Polish-ear and bilingual-fidelity passes.
 
