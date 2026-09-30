@@ -1219,3 +1219,28 @@ State:
 The prior Sep 29 advance-to-Previewer status is superseded until a fresh exact-source rebuild and full audit pass.
 
 Follow-up 2026-09-30: exact private owner packet `final-book-owner-review(1).zip` was recovered from Library and its SHA-256 `55439b308d6d7a2db7b40485665bcc46aceeb9dffde528afffb276790378680c` exactly matches the owner/spatial contract. Public-repo CI now protects source/order/renderer wiring without committing private visuals. Production branch HEAD `e6a531bc6f26b7cafc4fa73b1af5ee549d1c4283`; Build Detective Academy PDF run `36690461519` PASS. Full private premium rebuild remains required before Previewer.
+
+
+## Detective full graphic-novel print master candidate — 2026-09-30
+
+Complete local 180-page artifact:
+`HMDA_Book1_EN_GRAPHIC_NOVEL_PRINT_MASTER_FINAL_CANDIDATE_2026-09-30.pdf`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-30-detective-graphic-novel-full-build-candidate.md`
+
+QA:
+- 180 pages / US Letter / openable / unencrypted;
+- body text fidelity: 169 pages checked, 0 below 0.97 threshold;
+- Front 5–10 token coverage 1.00;
+- required locked content missing 0; forbidden superseded phrases 0;
+- Page 3 cold-open and Page 4 squad regression guards pass;
+- page rotation metadata remains 0; reverse Hint/Solutions rotates only inner content.
+
+Visual system:
+modern clean monochrome detective / graphic-novel framing, readable speech-bubble COMMS, separate full-page Witness Boards and large maps, exact approved spatial rasters for map truth/recognizable props, Case 03 facing comparison, enlarged Case 05 analysis surface.
+
+Important: the semantic map-art handoff itself says many all-15 prop families are still NEW_ART_REQUIRED; no nonexistent final modern-prop pack is to be invented. Current candidate therefore uses the exact approved locked raster maps. A future prop-only art replacement may not change puzzle geometry or text.
+
+State:
+**FULL GRAPHIC-NOVEL MASTER CANDIDATE BUILT / TEXT & STRUCTURE QA PASS / OWNER VISUAL REVIEW + KDP PREVIEWER NEXT / EN NOT FROZEN.**
