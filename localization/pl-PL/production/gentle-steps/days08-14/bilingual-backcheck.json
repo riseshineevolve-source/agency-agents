@@ -1,0 +1,438 @@
+{
+  "format": "rse-reauthor-backcheck-packet-v1",
+  "product": "gentle-steps-christmas",
+  "source_file": "private-owner-upload/24 Gentle Paperback ok(2).pdf",
+  "source_revision": "owner-upload-2026-09-30",
+  "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+  "candidate_sha256": "783dd6c804b064dd822680b49a69f8b3b1bf676303ca2adfb5a177c6ecae3a6a",
+  "instruction": "Re-open the English source only now. Verify mechanics, facts, counts, sequence, consent, claim strength, character continuity and required function. Do not rewrite Polish toward English syntax, metaphors or cadence merely to make the texts look parallel.",
+  "units": [
+    {
+      "id": "GS.D08.PAUSE",
+      "source_locator": "PDF p43",
+      "function": "Use one minute of pulse/body awareness as a concrete pause without mystical shared-heart framing.",
+      "mechanics": [
+        "Sit together.",
+        "Each person places a hand on own chest/heart area.",
+        "Notice own pulse.",
+        "Stay with the sensation for about one minute."
+      ],
+      "immutable_facts": [
+        "One-minute pause.",
+        "Hand on own heart/chest.",
+        "Nini supplies warm humor."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim all hearts literally synchronize.",
+        "Do not turn pulse awareness into a medical claim."
+      ],
+      "final_pl_for_review": "DZIEŃ 8\n\nRESET — PULS\n\nUsiądźcie wygodnie i połóżcie dłoń na klatce piersiowej.\n\nPrzez chwilę spróbujcie wyczuć własny puls. Nie trzeba go liczyć ani do niczego porównywać.\n\nZostańcie tak przez minutę. Niczego nie trzeba w tym czasie planować ani kończyć — serce i tak robi swoje.\n\nNini: Serce pracuje bez przerwy. Ja po tej minucie poproszę o przerwę."
+    },
+    {
+      "id": "GS.D08.PLAY",
+      "source_locator": "PDF p44",
+      "function": "Build a cumulative one-word story, then replay the same story using movements or sounds instead of the words.",
+      "mechanics": [
+        "Oldest person starts with one word.",
+        "Next person repeats all previous words in order and adds one new word.",
+        "Continue around circle for only 2-3 rounds to create a short story.",
+        "Then retell the same story again.",
+        "On the retelling, each person replaces their own word with a movement or sound representing it."
+      ],
+      "immutable_facts": [
+        "Oldest starts.",
+        "Only 2-3 rounds.",
+        "Same story is replayed with movement/sound substitutions.",
+        "Alio likes silliness."
+      ],
+      "safety_claim_boundaries": [
+        "Keep movements safe."
+      ],
+      "final_pl_for_review": "DZIEŃ 8\n\nAKCJA — HISTORIA PO JEDNYM SŁOWIE\n\nUsiądźcie albo stańcie w kółku.\n\nZaczyna najstarsza osoba i mówi jedno słowo. Kolejna osoba powtarza pierwsze słowo i dodaje własne.\n\nKażda następna osoba powtarza całą historię od początku, zachowując kolejność słów, a na końcu dodaje jedno nowe.\n\nZróbcie tylko dwa albo trzy pełne okrążenia. Historia ma być krótka — i wcale nie musi mieć wielkiego sensu.\n\nKiedy historia będzie gotowa, opowiedzcie ją jeszcze raz od początku. Tym razem każdy zastępuje swoje słowo jednym ruchem albo dźwiękiem, który do niego pasuje.\n\nAlio: Jeśli po drugim okrążeniu fabuła przestała mieć sens, wszystko idzie zgodnie z planem."
+    },
+    {
+      "id": "GS.D08.TALK",
+      "source_locator": "PDF p45",
+      "function": "Pass one specific thank-you around the circle until everyone receives at least one.",
+      "mechanics": [
+        "Youngest person starts.",
+        "Starter turns to person on their right.",
+        "Say 'thank you for...' and name one specific thing that person did for them or the family.",
+        "Continue around until each person has received at least one thank-you message."
+      ],
+      "immutable_facts": [
+        "Youngest starts.",
+        "Direction begins to the right.",
+        "Specific action required.",
+        "Everyone receives at least one message."
+      ],
+      "safety_claim_boundaries": [
+        "Do not force emotional disclosure."
+      ],
+      "final_pl_for_review": "DZIEŃ 8\n\nU NAS — JEDNO KONKRETNE „DZIĘKUJĘ”\n\nZaczyna najmłodsza osoba. Zwraca się do osoby siedzącej po prawej stronie i mówi:\n\n„Dziękuję ci za…”\n\nDokończcie zdanie jedną konkretną rzeczą, którą ta osoba zrobiła ostatnio dla was albo dla całej rodziny.\n\nPotem kolejna osoba dziękuje osobie po swojej prawej stronie. Kontynuujcie, aż każdy usłyszy przynajmniej jedno konkretne „dziękuję”.\n\nLuli: „Dzięki za wszystko” brzmi sprawnie. Dziś poproszę wersję z detalem."
+    },
+    {
+      "id": "GS.D09.PAUSE",
+      "source_locator": "PDF p46",
+      "function": "Pair several calm breaths with one concrete grateful thought, replacing golden-light visualization with everyday framing.",
+      "mechanics": [
+        "Sit together.",
+        "Take several unforced breaths.",
+        "On an inhale, recall one concrete good thing/person from today.",
+        "On an exhale, let shoulders/body soften rather than performing a visualization."
+      ],
+      "immutable_facts": [
+        "Breathing remains central.",
+        "Gratitude function remains.",
+        "Luli note stays dry."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim breath/light connects people or guarantees calm."
+      ],
+      "final_pl_for_review": "DZIEŃ 9\n\nRESET — ODDECH I JEDNA DOBRA RZECZ\n\nUsiądźcie razem i zróbcie kilka spokojnych, niewymuszonych oddechów.\n\nPrzy wdechu przypomnijcie sobie jedną konkretną rzecz z dzisiejszego dnia, za którą jesteście komuś wdzięczni.\n\nPrzy wydechu rozluźnijcie ramiona i pozwólcie tej myśli po prostu zostać przez chwilę. Nie trzeba niczego mówić ani specjalnie sobie wyobrażać.\n\nLuli: Efekty specjalne nie są potrzebne. Konkret wystarczy."
+    },
+    {
+      "id": "GS.D09.PLAY",
+      "source_locator": "PDF p47",
+      "function": "Run the Human Knot with full hand-selection and untangling mechanics plus two-person variant.",
+      "mechanics": [
+        "Stand close in a circle.",
+        "Each person reaches across and takes the hands of two different people.",
+        "Do not take the hands of immediate neighbors.",
+        "Without releasing hands, work together to untangle into one open circle.",
+        "Two-person variant: stand face to face, cross arms to hold hands, then slowly untwist together while keeping eye contact."
+      ],
+      "immutable_facts": [
+        "No letting go.",
+        "Hands belong to two different non-neighbors.",
+        "Two-person eye-contact variant exists."
+      ],
+      "safety_claim_boundaries": [
+        "Move gently; no painful twisting or forced joints."
+      ],
+      "final_pl_for_review": "DZIEŃ 9\n\nAKCJA — LUDZKI WĘZEŁ\n\nStańcie blisko siebie w kółku.\n\nKażdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie wybierajcie osób stojących bezpośrednio obok was.\n\nKiedy wszyscy trzymają już po dwie dłonie, powstanie splątany węzeł.\n\nWaszym zadaniem jest rozplątać się powoli tak, żeby na końcu powstało jedno otwarte koło. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie, ale przez całą zabawę nie puszczajcie żadnej dłoni.\n\nJeśli bawią się tylko dwie osoby, stańcie naprzeciwko siebie, skrzyżujcie ręce i złapcie się za dłonie. Następnie spróbujcie powoli się odkręcić, nie puszczając rąk i nie tracąc kontaktu wzrokowego.\n\nMimi: Dramatyczne piruety nie dają dodatkowych punktów."
+    },
+    {
+      "id": "GS.D09.TALK",
+      "source_locator": "PDF p48",
+      "function": "Name one small good thing from family life today without spiritual 'blessing' language.",
+      "mechanics": [
+        "Each person names one small thing from family life today that they are genuinely glad happened or existed."
+      ],
+      "immutable_facts": [
+        "One small thing per person.",
+        "Luli cookie joke."
+      ],
+      "safety_claim_boundaries": [
+        "Do not require gratitude performance."
+      ],
+      "final_pl_for_review": "DZIEŃ 9\n\nU NAS — MAŁA DOBRA RZECZ\n\nPo kolei wymieńcie po jednej małej rzeczy z dzisiejszego dnia, która ucieszyła was w domu albo w rodzinie.\n\nTo może być czyjaś pomoc, wspólny posiłek, spokojna rozmowa, żart albo coś zupełnie zwyczajnego.\n\nWystarczy po jednym przykładzie.\n\nLuli: Jeśli ktoś zostawił wam ostatnie ciastko, to zdecydowanie kwalifikuje się do tej kategorii."
+    },
+    {
+      "id": "GS.D10.PAUSE",
+      "source_locator": "PDF p49",
+      "function": "Create a shoulder-to-shoulder breathing pause without river/flow metaphors.",
+      "mechanics": [
+        "Sit shoulder to shoulder.",
+        "Take several comfortable breaths.",
+        "Notice own inhale/exhale while remaining physically near the group."
+      ],
+      "immutable_facts": [
+        "Shoulder-to-shoulder setup.",
+        "Breath is the core action.",
+        "Alio note references flow."
+      ],
+      "safety_claim_boundaries": [
+        "No claim breath travels between people or carries calm."
+      ],
+      "final_pl_for_review": "DZIEŃ 10\n\nRESET — RAMIĘ W RAMIĘ\n\nUsiądźcie blisko siebie, tak żeby stykać się ramionami.\n\nPrzez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Każdy oddycha we własnym tempie.\n\nPo prostu posiedźcie tak przez chwilę i pozwólcie, żeby tempo dnia trochę zwolniło.\n\nAlio: Nikt nie prowadzi, nikt nie ustala planu. Podejrzanie proste."
+    },
+    {
+      "id": "GS.D10.PLAY",
+      "source_locator": "PDF p50",
+      "function": "Build a cumulative family robot-machine sequence of movement+sound and perform it together at the end.",
+      "mechanics": [
+        "Starter is person whose name begins with the letter closest to beginning of alphabet.",
+        "Starter makes one robot-like movement plus one sound.",
+        "Next person repeats starter movement+sound and adds own movement+sound.",
+        "Each following person repeats full sequence in order and adds one new robot action.",
+        "At end whole family performs entire robot-machine sequence together in sync."
+      ],
+      "immutable_facts": [
+        "Alphabet-beginning starter rule.",
+        "Movement and sound as a pair.",
+        "Sequence order preserved.",
+        "Final full-family performance."
+      ],
+      "safety_claim_boundaries": [
+        "Keep movements safe."
+      ],
+      "final_pl_for_review": "DZIEŃ 10\n\nAKCJA — RODZINNA MASZYNA\n\nZaczyna osoba, której imię rozpoczyna się na literę najbliżej początku alfabetu.\n\nWymyśla jeden ruch robota i jeden pasujący do niego dźwięk, a następnie wykonuje oba elementy razem.\n\nKolejna osoba powtarza dokładnie pierwszy ruch i dźwięk, a potem dodaje własny ruch i własny dźwięk.\n\nKażda następna osoba odtwarza całą dotychczasową sekwencję w tej samej kolejności i na końcu dodaje kolejny „robotyczny” element.\n\nKiedy wszyscy dołożą już swoją część, wykonajcie całą sekwencję jeszcze raz wspólnie — od pierwszego ruchu i dźwięku aż do ostatniego.\n\nDilo: Jeśli ktoś pomyli kolejność, maszyna zgłasza błąd. Restart bez wzywania serwisu."
+    },
+    {
+      "id": "GS.D10.TALK",
+      "source_locator": "PDF p51",
+      "function": "Create one short family motto that actually sounds usable rather than sentimental.",
+      "mechanics": [
+        "Together invent one short sentence that describes your family's spirit/way of being.",
+        "Keep it short and memorable.",
+        "Examples may be culturally rewritten."
+      ],
+      "immutable_facts": [
+        "Single shared motto.",
+        "Short sentence.",
+        "Dilo compares short motto to a strong password."
+      ],
+      "safety_claim_boundaries": [
+        "Do not force values language or make the family adopt a solemn slogan."
+      ],
+      "final_pl_for_review": "DZIEŃ 10\n\nU NAS — NASZE HASŁO\n\nWymyślcie razem jedno krótkie zdanie, które naprawdę pasuje do waszej rodziny.\n\nNie musi być wzniosłe. Ważne, żeby było wasze i dało się je zapamiętać.\n\nMoże to być na przykład:\n„Trzymamy się razem”.\n„Najpierw pomagamy”.\n„Zawsze znajdziemy powód do śmiechu”.\n\nWybierzcie jedno zdanie, które chcielibyście zachować jako wasze rodzinne hasło.\n\nDilo: Krótkie i łatwe do zapamiętania. Jak dobre hasło. Tylko nie ustawiajcie go do Wi-Fi."
+    },
+    {
+      "id": "GS.D11.PAUSE",
+      "source_locator": "PDF p52",
+      "function": "Use a tiny facial relaxation/smile pause rather than 'inner smile changes room energy'.",
+      "mechanics": [
+        "Sit close together.",
+        "Close eyes.",
+        "Let face relax.",
+        "Form a small, comfortable smile for a few breaths.",
+        "Remain quiet briefly, then finish."
+      ],
+      "immutable_facts": [
+        "Silent smile is core.",
+        "Eyes closed.",
+        "Nini note about quiet smile."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim smiles alter room energy or mood for everyone."
+      ],
+      "final_pl_for_review": "DZIEŃ 11\n\nRESET — ROZLUŹNIJ TWARZ\n\nUsiądźcie blisko siebie i zamknijcie oczy.\n\nPrzez kilka spokojnych oddechów rozluźnijcie czoło i szczękę. Nie trzeba niczego osiągać ani sprawdzać, czy robicie to tak samo.\n\nNa koniec spróbujcie lekko się uśmiechnąć — bez słów i bez żadnego szczególnego powodu.\n\nZostańcie tak przez kilka sekund, a potem otwórzcie oczy.\n\nNini: Uśmiech bez zdjęcia. Rzadki okaz."
+    },
+    {
+      "id": "GS.D11.PLAY",
+      "source_locator": "PDF p53",
+      "function": "Execute a three-part weird command game with movement+sound+face, leader chosen by colorful socks, and leader change on hesitation/laughter/slowness.",
+      "mechanics": [
+        "Leader is person wearing most colorful socks today.",
+        "Leader gives a command with exactly 3 parts: movement + sound + facial expression.",
+        "Everyone, including leader, immediately performs full combination at same time.",
+        "Use several rounds.",
+        "Whoever hesitates, laughs or reacts too slowly becomes next leader."
+      ],
+      "immutable_facts": [
+        "Colorful-socks leader rule.",
+        "Exactly 3 parts.",
+        "Leader also performs.",
+        "Hesitation/laughter/slow reaction selects next leader."
+      ],
+      "safety_claim_boundaries": [
+        "Commands must use safe movements."
+      ],
+      "final_pl_for_review": "DZIEŃ 11\n\nAKCJA — DZIWNE POLECENIE\n\nProwadzi osoba, która ma dziś najbardziej kolorowe skarpetki.\n\nJej zadaniem jest wymyślić polecenie składające się zawsze z trzech części:\n1. ruchu,\n2. dźwięku,\n3. miny.\n\nNa przykład:\n„Zrób dwa małe podskoki, zabzycz jak pszczoła i zrób bardzo poważną minę”.\nAlbo:\n„Maszeruj powoli, powiedz dwa razy «bop» i wyglądaj tak, jakby ktoś właśnie zjadł twoje ciastko”.\n\nWszyscy — łącznie z osobą prowadzącą — wykonują całe polecenie od razu i w tym samym czasie.\n\nOsoba, która się zawaha, zacznie się śmiać albo zareaguje najpóźniej, zostaje nowym prowadzącym i wymyśla kolejne trzyczęściowe polecenie.\n\nNini: Poważna mina jest bardzo ważna. Zwłaszcza kiedy kompletnie nie pasuje."
+    },
+    {
+      "id": "GS.D11.TALK",
+      "source_locator": "PDF p54",
+      "function": "Complete 'Our family is really good at...' in turns, keeping the idea playful and concrete.",
+      "mechanics": [
+        "Take turns finishing sentence 'Our family is really good at...' with one specific strength/skill/habit."
+      ],
+      "immutable_facts": [
+        "One completion per person.",
+        "Alio jokes every family has a superpower."
+      ],
+      "safety_claim_boundaries": [
+        "Avoid superiority claims."
+      ],
+      "final_pl_for_review": "DZIEŃ 11\n\nU NAS — W CZYM JESTEŚMY DOBRZY?\n\nPo kolei dokończcie zdanie:\n\n„W naszej rodzinie naprawdę dobrze wychodzi nam…”\n\nKażdy może podać inną odpowiedź. Może to być coś poważnego albo zupełnie codziennego: pomaganie sobie, wspólne gotowanie, organizowanie wyjazdów, rozśmieszanie innych albo znajdowanie rzeczy, które „przed chwilą tu były”.\n\nAlio: Jeśli odpowiedź brzmi „znajdowanie rzeczy, których nikt inny nie widził”, uznaję."
+    },
+    {
+      "id": "GS.D12.PAUSE",
+      "source_locator": "PDF p55",
+      "function": "Pair one breath and a brief look at each other with a concrete private appreciation thought.",
+      "mechanics": [
+        "Sit together.",
+        "Take one comfortable breath.",
+        "Open eyes slowly.",
+        "Look at one another briefly.",
+        "Silently think of one specific thing you appreciate about the person/people you see."
+      ],
+      "immutable_facts": [
+        "Breath and glance remain central.",
+        "No spoken words required.",
+        "Mimi note."
+      ],
+      "safety_claim_boundaries": [
+        "Do not require intense eye contact or emotional display."
+      ],
+      "final_pl_for_review": "DZIEŃ 12\n\nRESET — JEDNO SPOJRZENIE\n\nUsiądźcie razem i weźcie jeden spokojny oddech.\n\nOtwórzcie oczy i przez kilka sekund popatrzcie na osoby obok.\n\nPomyślcie o jednej konkretnej rzeczy, którą cenicie w kimś, na kogo właśnie patrzycie.\n\nNie trzeba niczego mówić ani robić specjalnej miny. Jedno spojrzenie wystarczy.\n\nMimi: Bez przemowy. Dziś oczy załatwiają formalności."
+    },
+    {
+      "id": "GS.D12.PLAY",
+      "source_locator": "PDF p56",
+      "function": "Run exact-five-word clue game: 3 true clues, 2 absurd lies, identify lies then character, moving anticlockwise.",
+      "mechanics": [
+        "Starter is person with longest middle/second name.",
+        "Starter silently chooses any recognizable character/object/animal/hero/fairy-tale figure.",
+        "Describe it using exactly five words.",
+        "Exactly 3 words are true clues and 2 are absurd lies.",
+        "Family first guesses which two words are lies.",
+        "Then family guesses final character/object.",
+        "Move anticlockwise for next rounds."
+      ],
+      "immutable_facts": [
+        "Exactly 5 words.",
+        "3 true + 2 absurd lies.",
+        "Guess lies before identity.",
+        "Anticlockwise progression.",
+        "Starter based on longest second name."
+      ],
+      "safety_claim_boundaries": [
+        "No unsafe content."
+      ],
+      "final_pl_for_review": "DZIEŃ 12\n\nAKCJA — PIĘĆ SŁÓW: TRZY PRAWDY, DWA ABSURDY\n\nZaczyna osoba, która ma najdłuższe drugie imię. Jeśli nikt nie ma drugiego imienia, zaczyna osoba z najdłuższym pierwszym imieniem.\n\nOsoba rozpoczynająca w tajemnicy wybiera dowolną rozpoznawalną postać, zwierzę, bohatera, przedmiot albo postać z bajki.\n\nNastępnie opisuje swój wybór dokładnie pięcioma pojedynczymi słowami:\n- trzy słowa muszą być prawdziwymi wskazówkami,\n- dwa słowa mają być całkowicie absurdalnymi kłamstwami.\n\nPrzykład dla Czerwonego Kapturka:\n„Koszyk. Las. Babcia. Rakieta. Sushi.”\n\nNajpierw pozostali próbują wskazać, które dwa słowa są kłamstwami. Dopiero potem zgadują, o kogo albo o co chodziło.\n\nW kolejnej rundzie rolę osoby wybierającej przejmuje następna osoba, idąc przeciwnie do ruchu wskazówek zegara.\n\nLuli: Pięć słów. Nie sześć. Tak, liczę."
+    },
+    {
+      "id": "GS.D12.TALK",
+      "source_locator": "PDF p57",
+      "function": "Name one kind thing recently noticed in the person to your left; continue clockwise until everyone has spoken.",
+      "mechanics": [
+        "First person turns to person on their left.",
+        "Name one kind thing noticed that person did recently, even something small.",
+        "Continue clockwise until all members have shared feedback."
+      ],
+      "immutable_facts": [
+        "Direction starts left then continues clockwise.",
+        "Recent concrete action.",
+        "Everyone participates."
+      ],
+      "safety_claim_boundaries": [
+        "Keep feedback kind and concrete; no forced disclosure."
+      ],
+      "final_pl_for_review": "DZIEŃ 12\n\nU NAS — CO DOBREGO ZAUWAŻYLIŚMY?\n\nPierwsza osoba zwraca się do osoby siedzącej po lewej stronie.\n\nMówi o jednej konkretnej, życzliwej rzeczy, którą zauważyła u tej osoby w ostatnim czasie — nawet jeśli była bardzo drobna.\n\nNastępnie ta osoba zwraca się do osoby po swojej lewej stronie. Kontynuujcie zgodnie z ruchem wskazówek zegara, aż każdy usłyszy jeden konkretny przykład.\n\nMimi: Życzliwość mnoży się szybciej niż pranie. Prawie."
+    },
+    {
+      "id": "GS.D13.PAUSE",
+      "source_locator": "PDF p58",
+      "function": "Use one minute of slow hand movement and noticing air resistance without mindfulness jargon.",
+      "mechanics": [
+        "For one minute, raise hands together very slowly.",
+        "Lower/move them slowly again.",
+        "Notice air against skin while moving."
+      ],
+      "immutable_facts": [
+        "One minute.",
+        "Slow synchronized hand movement.",
+        "Dilo note about fast brains."
+      ],
+      "safety_claim_boundaries": [
+        "No claim air 'connects' family movements."
+      ],
+      "final_pl_for_review": "DZIEŃ 13\n\nRESET — MINUTA NA ZWOLNIONYM TEMPIE\n\nPrzez minutę poruszajcie rękami tak wolno, jakby ktoś włączył film w zwolnionym tempie.\n\nPowoli unieście dłonie, zatrzymajcie je na chwilę i równie powoli opuśćcie.\n\nZwróćcie uwagę na powietrze przesuwające się po skórze podczas ruchu. Nie trzeba niczego interpretować — chodzi tylko o to, żeby przez minutę zrobić jedną prostą rzecz naprawdę wolno.\n\nDilo: Tryb 0,25x. Mózg może zgłosić reklamację."
+    },
+    {
+      "id": "GS.D13.PLAY",
+      "source_locator": "PDF p59",
+      "function": "Create a kindness doorway with two raised arms; each person passes through while others say kind words; preserve two-person chair variant.",
+      "mechanics": [
+        "Two family members raise arms to make doorway.",
+        "One person walks slowly through.",
+        "Other family members quietly say kind words about that person while they pass.",
+        "Rotate roles until everyone has passed through.",
+        "Two-person variant: use two chairs as doorway, take turns walking through while saying kind words to each other."
+      ],
+      "immutable_facts": [
+        "Two-person chair variant.",
+        "Everyone passes.",
+        "Kind words occur during passage."
+      ],
+      "safety_claim_boundaries": [
+        "Use safe stable chairs; no forced touching."
+      ],
+      "final_pl_for_review": "DZIEŃ 13\n\nAKCJA — PRZEJŚCIE SPECJALNE\n\nDwie osoby stają naprzeciwko siebie i unoszą ręce, tworząc z nich „bramę”.\n\nJedna z pozostałych osób przechodzi powoli pod bramą. W tym czasie pozostali mówią cicho po jednym życzliwym zdaniu albo kilku dobrych słowach o tej osobie.\n\nPo przejściu zmieńcie role. Kontynuujcie, aż każdy przynajmniej raz przejdzie przez bramę.\n\nJeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła tak, żeby tworzyły umowną bramę. Przechodźcie przez nią po kolei i podczas przejścia mówcie sobie nawzajem kilka życzliwych słów.\n\nMimi: Wejście jak na premierę. Czerwony dywan jest dziś w wersji wyobrażonej."
+    },
+    {
+      "id": "GS.D13.TALK",
+      "source_locator": "PDF p60",
+      "function": "Each person names one real 'family treasure' the family shares, using concrete examples rather than abstract richness claims.",
+      "mechanics": [
+        "Imagine family as a map with treasures.",
+        "Each person names one treasure the family has.",
+        "Treasure may be concrete or relational: shared humor, help, trust, routines, support, etc."
+      ],
+      "immutable_facts": [
+        "One treasure per person.",
+        "Nini note."
+      ],
+      "safety_claim_boundaries": [
+        "Do not require sentimental answers."
+      ],
+      "final_pl_for_review": "DZIEŃ 13\n\nU NAS — TO, CO MAMY\n\nWyobraźcie sobie, że wasza rodzina ma własną mapę, na której zaznaczone są rzeczy naprawdę dla was ważne.\n\nKażdy wymienia jeden taki „skarb” — coś, co macie jako rodzina i czego nie da się po prostu kupić.\n\nMoże to być wspólny humor, pomoc, zaufanie, rozmowy, tradycje, wsparcie albo coś zupełnie innego, co jest ważne właśnie u was.\n\nNini: Jeśli ktoś powie „Wi-Fi”, proszę przygotować drugi skarb."
+    },
+    {
+      "id": "GS.D14.PAUSE",
+      "source_locator": "PDF p61",
+      "function": "Use warm palms and optional shoulder touch as a concrete sensory pause; remove 'warmth travels between you'.",
+      "mechanics": [
+        "Rub palms together until warm.",
+        "Rest one hand on own chest.",
+        "Place other hand gently on shoulder of person to right if they want contact.",
+        "Stay still briefly and notice warmth in hands."
+      ],
+      "immutable_facts": [
+        "Warm palms.",
+        "One hand on own chest.",
+        "Other hand on right person's shoulder.",
+        "Luli note."
+      ],
+      "safety_claim_boundaries": [
+        "Touch must be optional.",
+        "Do not claim warmth/comfort literally transfers between people."
+      ],
+      "final_pl_for_review": "DZIEŃ 14\n\nRESET — CIEPŁE DŁONIE\n\nPotrzyjcie dłonie o siebie przez kilka sekund, aż zrobią się wyraźnie cieplejsze.\n\nJedną dłoń połóżcie na własnej klatce piersiowej.\n\nDrugą możecie położyć na ramieniu osoby siedzącej po prawej stronie — tylko jeśli ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.\n\nZostańcie tak przez chwilę i po prostu zauważcie ciepło dłoni.\n\nLuli: Dwie dłonie, zero przemowy. Bardzo rozsądny układ."
+    },
+    {
+      "id": "GS.D14.PLAY",
+      "source_locator": "PDF p62",
+      "function": "Pass short rhythms clockwise, repeating each exactly, then perform every person's rhythm sequence from start to finish together.",
+      "mechanics": [
+        "Shortest person starts with one simple tapped/clapped rhythm.",
+        "Everyone repeats it exactly.",
+        "Move clockwise; next person invents a new short rhythm.",
+        "Everyone repeats each new rhythm.",
+        "Continue until everyone created one rhythm.",
+        "Challenge: perform the entire sequence of everyone's rhythms from start to finish together."
+      ],
+      "immutable_facts": [
+        "Shortest starts.",
+        "Clockwise.",
+        "Everyone repeats each rhythm.",
+        "Final full-sequence challenge."
+      ],
+      "safety_claim_boundaries": [
+        "Use safe body percussion."
+      ],
+      "final_pl_for_review": "DZIEŃ 14\n\nAKCJA — RYTM PO KOLEI\n\nZaczyna najniższa osoba. Wymyśla krótki, prosty rytm, na przykład: klaśnięcie – klaśnięcie – pstryknięcie.\n\nWszyscy powtarzają ten rytm dokładnie tak samo.\n\nNastępnie, idąc zgodnie z ruchem wskazówek zegara, kolejna osoba wymyśla własny krótki rytm. Cała grupa również go powtarza.\n\nKontynuujcie, aż każdy stworzy jeden rytm i usłyszy jego powtórzenie przez całą grupę.\n\nNa koniec spróbujcie wykonać wszystkie rytmy po kolei — od pierwszego do ostatniego — bez zatrzymywania się pomiędzy nimi.\n\nDilo: Tempo dowolne. Chaos rytmiczny nie jest tym samym co interpretacja artystyczna."
+    },
+    {
+      "id": "GS.D14.TALK",
+      "source_locator": "PDF p63",
+      "function": "Pass one specific appreciation to the person on the left in a simple circle.",
+      "mechanics": [
+        "First person turns to person on their left.",
+        "Say one short specific thing they appreciate about that person.",
+        "Continue around so the same pattern reaches everyone."
+      ],
+      "immutable_facts": [
+        "Direction to left.",
+        "One short appreciation each.",
+        "Luli mini-present joke."
+      ],
+      "safety_claim_boundaries": [
+        "No forced emotional disclosure."
+      ],
+      "final_pl_for_review": "DZIEŃ 14\n\nU NAS — JEDNO, CO W TOBIE CENIĘ\n\nPierwsza osoba zwraca się do osoby siedzącej po lewej stronie i mówi jedną krótką, konkretną rzecz, którą w niej ceni.\n\nNastępnie ta osoba robi to samo wobec osoby siedzącej po jej lewej stronie.\n\nKontynuujcie wokół koła, aż każdy usłyszy jedno takie zdanie.\n\nLuli: Mały prezent, bez papieru i bez szukania taśmy."
+    }
+  ]
+}
