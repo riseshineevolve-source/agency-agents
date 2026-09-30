@@ -8,6 +8,7 @@
   "stages": [
     "source_function_analysis",
     "native_polish_first_write",
+    "polish_usage_idiom_context",
     "polish_family_language_edit",
     "humor_character_voice",
     "kid_parent_ear_review",
@@ -18,6 +19,7 @@
     "surface_qa"
   ],
   "required_review_stages": [
+    "polish_usage_idiom_context",
     "polish_family_language_edit",
     "humor_character_voice",
     "kid_parent_ear_review",
@@ -64,5 +66,31 @@
     "claim strength",
     "product feature truth",
     "legal/publication truth"
-  ]
+  ],
+  "language_acceptance": {
+    "rule": "grammatically_possible_is_not_enough",
+    "mandatory_checks": [
+      "grammar",
+      "syntax",
+      "collocation",
+      "idiom",
+      "semantic_selection",
+      "sentence_construction",
+      "context",
+      "register",
+      "read_aloud_rhythm"
+    ],
+    "pass_condition": "A contemporary Polish speaker would naturally formulate the idea this way without mentally repairing an English-shaped construction."
+  },
+  "recurring_label_policy": {
+    "rule": "teen_safe_not_embarrassing",
+    "audience_check": "Ages 13-16 should be able to use/hear the labels without feeling they belong to therapy, school workshops or parent coaching.",
+    "avoid": [
+      "therapy labels",
+      "parenting-workshop language",
+      "cute diminutives",
+      "forced slang",
+      "literal mindfulness terminology"
+    ]
+  }
 }
