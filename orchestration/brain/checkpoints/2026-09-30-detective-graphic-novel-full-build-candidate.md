@@ -61,3 +61,20 @@ State:
 
 Do not reopen story text or puzzle logic.
 Do not revert to the compact technical layout.
+
+
+## Explicit starting-point lock — owner request
+
+The current full-book artifact is now the visual/layout starting point for all further bounded corrections.
+
+Persistent Library copy:
+`/AI AGENTS/DETECTIVE/HMDA_Book1_EN_GRAPHIC_NOVEL_PRINT_MASTER_STARTING_POINT_2026-09-30.pdf`
+
+Local artifact SHA-256:
+`2339b408510b3ed01711864cc89fd419f771edfa95225b69e10de03d2ec3a30f`
+
+Rule:
+- do not rebuild from an older compact/technical proof;
+- do not reopen V3/WOW story text;
+- make only bounded corrections on top of this graphic-novel master;
+- reverse-entry back-matter orientation remains an open owner decision and must not be changed until that decision is explicitly made.
