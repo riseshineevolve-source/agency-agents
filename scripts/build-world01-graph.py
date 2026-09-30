@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("level", type=int, choices=(1, 2, 3, 4))
+    parser.add_argument("level", type=int, choices=tuple(range(1, 11)))
     args = parser.parse_args()
     level = args.level
     EVIDENCE_REL = f"orchestration/content-sources/world01-level{level}-page-evidence.json"
