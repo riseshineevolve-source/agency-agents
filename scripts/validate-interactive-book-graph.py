@@ -12,7 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PACK = ROOT / "orchestration/content-packs/world01/level1.en.candidate.json"
-NODE_TYPES = {"opener", "system_log", "dialogue", "console", "quest", "science", "secret_code"}
+NODE_TYPES = {"opener", "system_log", "dialogue", "inventory", "console", "quest", "science", "secret_code"}
 SPEAKERS = {"system", "dilo", "alio", "nini", "luli", "mimi"}
 PACK_KEYS = {"schema_version", "product_id", "content_pack_id", "content_version", "canonical_locale", "supported_locales", "planned_locales", "minimum_runtime_contract", "mission_id", "candidate_scope", "source", "nodes", "localized_copy"}
 NODE_KEYS = {"node_id", "sequence", "node_type", "subtype", "speaker_id", "next_id", "provenance"}
@@ -24,6 +24,7 @@ MISSION_SPECS = {
     "world01_mission_001": {"level": 1, "pages": [15, 22], "blocks": 26},
     "world01_mission_002": {"level": 2, "pages": [23, 32], "blocks": 32},
     "world01_mission_003": {"level": 3, "pages": [33, 41], "blocks": 30},
+    "world01_mission_004": {"level": 4, "pages": [42, 50], "blocks": 35},
 }
 
 
