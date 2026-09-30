@@ -177,7 +177,7 @@ class GentleStepsDays0103Production(unittest.TestCase):
         self.assertEqual(gate["candidate_sha256"], candidate_sha)
         self.assertFalse(reviews["scaleout_authorized"])
         self.assertFalse(gate["scaleout_days_04_24"])
-        self.assertEqual(gate["status"], "READY_FOR_OWNER_VOICE_GATE")
+        self.assertEqual(gate["status"], "READY_FOR_WEEK1_OWNER_REVIEW")
 
         stage_status = {r["stage"]: r["status"] for r in reviews["reviews"]}
         for stage in (
