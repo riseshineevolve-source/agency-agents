@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "product": "gentle-steps-christmas",
+  "mode": "native_reauthor_from_function",
+  "source_language": "en",
+  "target_language": "pl-PL",
+  "native_writer_source_visibility": "functional_brief_only",
+  "stages": [
+    "source_function_analysis",
+    "native_polish_first_write",
+    "polish_family_language_edit",
+    "humor_character_voice",
+    "kid_parent_ear_review",
+    "anti_coaching_translationese",
+    "bilingual_fidelity_backcheck",
+    "logic_continuity",
+    "proofread",
+    "surface_qa"
+  ],
+  "required_review_stages": [
+    "polish_family_language_edit",
+    "humor_character_voice",
+    "kid_parent_ear_review",
+    "anti_coaching_translationese",
+    "bilingual_fidelity_backcheck",
+    "logic_continuity",
+    "proofread",
+    "surface_qa"
+  ],
+  "owner_gates": [
+    "polish_title",
+    "recurring_daily_labels",
+    "editorial_safety_exceptions",
+    "final_full_proof"
+  ],
+  "voice": {
+    "positive": [
+      "contemporary Polish family language",
+      "spoken rhythm",
+      "situational humor",
+      "self-awareness",
+      "concrete everyday family reality",
+      "warm without syrup",
+      "playful without forced slang",
+      "less spiritual when literal mindfulness language feels foreign in Polish"
+    ],
+    "negative": [
+      "corporate coaching cadence",
+      "therapy-speak",
+      "motivational poster language",
+      "literal English syntax",
+      "generic mindfulness jargon",
+      "fake youth slang",
+      "decorative Polish stereotypes"
+    ]
+  },
+  "protected_truth": [
+    "activity mechanics",
+    "timing and counts",
+    "sequence",
+    "factual constraints",
+    "character identities and continuity",
+    "consent and safety boundaries",
+    "claim strength",
+    "product feature truth",
+    "legal/publication truth"
+  ]
+}
