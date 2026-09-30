@@ -16,8 +16,8 @@ source_artifacts:
   print_master:
     filename: 24 Gentle Paperback ok.pdf
     storage_class: connected_library_private_master
-    sha256: null
-    status: verified_source_reference
+    sha256: 1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7
+    status: verified_source_reference_owner_upload_2026_09_30
   hardcover_cover:
     filename: 24 Gentle Steps to Christmas COVER HARDCOVER.pdf
     storage_class: connected_library_private_master
@@ -40,9 +40,16 @@ localization:
     operating_profile: localization/pl-PL/GENTLE_STEPS_PL_REAUTHORING_PROFILE.md
     historical_calibration_file: localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md
     historical_calibration_authority: reference_only
-    state: reauthoring_pipeline_ready
+    state: days_01_03_owner_voice_gate
     full_book_scaleout_authorized: false
     first_production_calibration_scope: days_1_to_3
+    current_voice_master: localization/pl-PL/production/gentle-steps/days01-03/GENTLE_STEPS_PL_VOICE_MASTER_DAYS01_03.md
+    current_voice_master_sha256: eb5547cb2fd92919eb71438f7e9d6afe47ede4092c41e6c3a910dbda80442847
+    recurring_label_candidates:
+      - PAUZA
+      - ZABAWA
+      - MIĘDZY NAMI
+    recurring_labels_locked: false
 provenance:
   recovered_date: 2026-09-17
   verified_against_library_content: true
