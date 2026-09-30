@@ -39,19 +39,19 @@
       "id": "GS.D02.PLAY",
       "section_label": "AKCJA",
       "title": "DOMOWA ORKIESTRA",
-      "draft_pl": "DZIEŃ 2\n\nAKCJA — DOMOWA ORKIESTRA\n\nNajpierw jeden dźwięk. Potem dokładamy kolejne.\n\nZaczyna osoba, która jako pierwsza z was będzie mieć urodziny. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.\n\nPotem idziecie zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystko, co już było, i dodaje swój dźwięk.\n\nGdy wszyscy dołożą swój, zagrajcie całość razem kilka razy.\n\nJeśli macie ochotę, dołóżcie następną rundę i rozbudujcie sekwencję.\n\nDilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamysł artystyczny."
+      "draft_pl": "DZIEŃ 2\n\nAKCJA — DOMOWA ORKIESTRA\n\nNajpierw jeden dźwięk. Potem dokładamy kolejne.\n\nZaczyna osoba, która jako pierwsza z was będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.\n\nPotem idziecie zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystko, co już było, i dodaje swój dźwięk.\n\nGdy wszyscy dołożą swój, zagrajcie całość razem kilka razy.\n\nJeśli macie ochotę, dołóżcie następną rundę i rozbudujcie sekwencję.\n\nDilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamysł artystyczny."
     },
     {
       "id": "GS.D02.TALK",
       "section_label": "U NAS",
       "title": "CO LUBIMY W NASZEJ RODZINIE",
-      "draft_pl": "DZIEŃ 2\n\nU NAS — CO LUBIMY W NASZEJ RODZINIE\n\nDziś bez wielkich słów. Jedna rzecz, którą naprawdę lubicie w swojej rodzinie.\n\nPo kolei dokończcie zdanie:\n\nW naszej rodzinie lubię to, że…\n\nWystarczy jedna rzecz — coś ważnego albo zwykły drobiazg.\n\nLuli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy."
+      "draft_pl": "DZIEŃ 2\n\nU NAS — CO LUBIMY W NASZEJ RODZINIE\n\nDziś bez wielkich słów. Mówimy o tym, co po prostu lubimy w swojej rodzinie.\n\nPo kolei dokończcie zdanie:\n\nW naszej rodzinie lubię to, że…\n\nWystarczy jedna rzecz — coś ważnego albo zwykły drobiazg.\n\nLuli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy."
     },
     {
       "id": "GS.D03.PAUSE",
       "section_label": "RESET",
       "title": "TRYB OFF",
-      "draft_pl": "DZIEŃ 3\n\nRESET — TRYB OFF\n\nNa minutę wyłączamy tryb „muszę coś ogarnąć”.\n\nUsiądźcie albo stańcie blisko siebie.\n\nJedną dłoń połóżcie na swojej klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli jej to pasuje. Jeśli nie, obie dłonie zostają przy was.\n\nPrzez minutę oddychajcie spokojnie.\n\nNie musicie niczego specjalnego czuć. Po prostu pobądźcie tak chwilę.\n\nNini: Ja nic nie robię. To palce coś kombinują."
+      "draft_pl": "DZIEŃ 3\n\nRESET — TRYB OFF\n\nNa minutę wyłączamy tryb „muszę coś ogarnąć”.\n\nUsiądźcie albo stańcie blisko siebie.\n\nJedną dłoń połóżcie na swojej klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.\n\nPrzez minutę oddychajcie spokojnie.\n\nNie musicie niczego specjalnego czuć. Po prostu pobądźcie tak chwilę.\n\nNini: Ja nic nie robię. To palce coś kombinują."
     },
     {
       "id": "GS.D03.PLAY",
@@ -63,7 +63,7 @@
       "id": "GS.D03.TALK",
       "section_label": "U NAS",
       "title": "CO DZIŚ BYŁO FAJNE?",
-      "draft_pl": "DZIEŃ 3\n\nU NAS — CO DZIŚ BYŁO FAJNE?\n\nNie trzeba mieć historii roku. Wystarczy jeden dobry moment.\n\nKażdy mówi o jednej chwili z dzisiaj, która była fajna.\n\nTo może być coś ważnego albo zwykły drobiazg.\n\nPo jednym przykładzie i gotowe.\n\nMimi: Jeśli najlepsze były frytki, to frytki. Nie będę z tym dyskutować."
+      "draft_pl": "DZIEŃ 3\n\nU NAS — CO DZIŚ BYŁO FAJNE?\n\nNie szukamy wydarzenia roku. Wystarczy jeden dobry moment.\n\nKażdy wybiera jedną fajną chwilę z dzisiaj i o niej mówi.\n\nTo może być coś ważnego albo zwykły drobiazg.\n\nPo jednym przykładzie i gotowe.\n\nMimi: Jeśli najlepsze były frytki, to frytki. Nie będę z tym dyskutować."
     }
   ]
 }
