@@ -1,0 +1,20 @@
+{
+  "format": "rse-week1-voice-gate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_01_07",
+  "status": "READY_FOR_WEEK1_OWNER_REVIEW",
+  "candidate_days04_07_sha256": "7b177780d8fac40cf04822e315170131630ac4d32c3f286531f1d34527e335c5",
+  "recurring_labels": [
+    "RESET",
+    "AKCJA",
+    "U NAS"
+  ],
+  "recurring_labels_locked": false,
+  "scaleout_days08_24": false,
+  "owner_questions": [
+    "Does the full Week 1 keep the same native Polish standard across Days 1-7?",
+    "Keep revising or lock RESET / AKCJA / U NAS as recurring labels?",
+    "Are Happy Makers voices distinct enough after seven days?",
+    "Any remaining phrase that sounds translated, school-workshop-like or unnatural when read aloud?"
+  ]
+}
