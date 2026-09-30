@@ -1,174 +1,181 @@
-# 24 Gentle Steps to Christmas — Polish Voice Master Calibration
+# 24 Gentle Steps to Christmas — Polish Voice Master Calibration V2
 
-Status: **OWNER VOICE GATE — DAYS 1–3 ONLY**  
+Status: **OWNER VOICE GATE — DAYS 1–3 ONLY / NATIVE USAGE GATE PASSED**  
 Source: owner-uploaded English paperback, 104 pages  
 Source SHA-256: `1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7`  
 Mode: `native_reauthor_from_function`  
-Candidate recurring labels: **PAUZA / ZABAWA / MIĘDZY NAMI** — **NOT LOCKED**  
-Candidate SHA-256: `4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724`
+Candidate recurring labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
+Candidate SHA-256: `137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7`
 
-This is not a translation draft. It is the first Polish voice-master candidate created from wording-free functional briefs, followed by Polish family-language, humor/character, anti-coaching, Polish-ear and bilingual-fidelity passes.
+V2 incorporates owner feedback that “less translated” is not enough. Polish grammar, syntax, collocations, idiom, sentence construction, semantic selection and real-life Polish context are now a separate mandatory gate.
 
 ---
 
 ## DZIEŃ 1
 
-### PAUZA — MINUTA CISZY
+RESET — MINUTA CISZY
 
-*Przez minutę niczego nie trzeba robić.*
+Minuta bez zadań. Serio, nic więcej.
 
-Usiądźcie razem w kółku. Jeśli macie ochotę, lekko złapcie się za ręce albo dotknijcie się ramionami.
+Usiądźcie razem w kółku. Jeśli chcecie, możecie lekko trzymać się za ręce albo dotykać ramionami.
 
-Zamknijcie oczy i przez minutę po prostu oddychajcie.  
-Bez rozmowy. Bez zadania. Bez pośpiechu.
+Zamknijcie oczy i przez minutę spokojnie oddychajcie.
+Nikt nie musi nic mówić ani robić.
 
-**Luli:** Jeśli Alio wytrzyma minutę bez wiercenia się, proszę to gdzieś zanotować.
+Luli: Jeśli Alio wytrzyma całą minutę bez wiercenia się, uznaję to za wydarzenie dnia.
 
 ---
 
-### ZABAWA — PODAJ DALEJ
+## DZIEŃ 1
 
-*Niewidzialna piłka. Prawdziwy komplement.*
+AKCJA — PODAJ DALEJ
+
+Piłki nie widać. Komplement ma być konkretny.
 
 Stańcie w kółku.
 
-Sprawdźcie pierwsze litery imion. Zaczyna osoba z literą najpóźniejszą w alfabecie. Trzyma niewidzialną piłkę i rzuca ją do wybranej osoby.
+Zaczyna osoba, której imię zaczyna się na literę najbliżej końca alfabetu. Udaje, że trzyma piłkę, wybiera kogoś, „rzuca” do tej osoby i mówi jej coś konkretnego, co w niej lubi albo docenia.
 
-Razem z piłką mówi jedną konkretną rzecz, którą w tej osobie lubi albo docenia.
+Osoba, która łapie piłkę, mówi „Dzięki!” i podaje ją dalej.
 
-Osoba łapie piłkę, mówi „Dzięki!” i rzuca dalej.
+Gracie, aż każdy usłyszy coś miłego. Potem możecie zrobić kolejną rundę.
 
-Gramy, aż każdy usłyszy coś dobrego. Jeśli macie ochotę, robimy kolejną rundę.
-
-**Nini:** Niewidzialna piłka, prawdziwe komplementy i zero siniaków. Plan idealny.
+Nini: Tylko bez zamachu jak na WF-ie. To ma być komplement, nie kontuzja.
 
 ---
 
-### MIĘDZY NAMI — JEDNO SŁOWO
+## DZIEŃ 1
 
-*Jedno słowo. Bez przemowy.*
+U NAS — JEDNO SŁOWO
 
-Każdy mówi jedno słowo, które najlepiej opisuje, jak się teraz czuje.
+Jedno słowo. Bez tłumaczenia się.
 
-Tylko jedno. Nie trzeba niczego tłumaczyć.
+Każdy mówi jednym słowem, jak się teraz czuje.
 
-**Luli:** „Dobrze” bierze dziś wolne. Coś bardziej konkretnego?
+Tylko tyle. Nie trzeba rozwijać odpowiedzi.
+
+Luli: „Dobrze” odpada. Macie jeszcze jedno podejście.
 
 ---
 
 ## DZIEŃ 2
 
-### PAUZA — ZŁAPMY RYTM
+RESET — 4 NA 6
 
-*W grudniu wszystko pędzi. Oddech nie musi.*
+Grudzień już się wystarczająco spieszy.
 
-Przez minutę oddychajcie w prostym rytmie:
+Przez minutę spróbujcie oddychać w takim rytmie:
 
-**wdech — liczymy do 4,**  
-**wydech — liczymy do 6.**
+wdech — liczymy do 4,
+wydech — do 6.
 
-Bez wyścigu i bez nabierania powietrza na zapas. Jeśli komuś taki rytm nie pasuje, po prostu wraca do zwykłego oddechu.
+Bez forsowania. Jeśli komuś wygodniej oddychać normalnie, zostaje przy swoim rytmie.
 
-**Mimi:** To jedyna rzecz w grudniu, której nie próbuję zrobić szybciej.
-
----
-
-### ZABAWA — DOMOWA ORKIESTRA
-
-*Najpierw jeden dźwięk. Potem robi się z tego cała orkiestra.*
-
-Zaczyna osoba, której urodziny wypadają jako następne. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.
-
-Idziemy zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystkie wcześniejsze dźwięki i dokłada swój.
-
-Gdy każdy już coś dorzucił, spróbujcie wykonać całą sekwencję razem. Kilka razy.
-
-Jeśli macie ochotę, dołóżcie następną rundę i zróbcie z tego pełnoprawny domowy koncert.
-
-**Dilo:** Jeśli brzmi dziwnie, zrób to jeszcze raz, tylko pewniej. Wtedy to już muzyka.
+Mimi: To chyba jedyna rzecz w grudniu, której nie zamierzam przyspieszać.
 
 ---
 
-### MIĘDZY NAMI — CO LUBIĘ W NASZEJ RODZINIE
+## DZIEŃ 2
 
-*Nie wszystko w domu trzeba poprawiać. Dziś mówimy, co lubimy.*
+AKCJA — DOMOWA ORKIESTRA
+
+Najpierw jeden dźwięk. Potem dokładamy kolejne.
+
+Zaczyna osoba, która jako pierwsza z was będzie mieć urodziny. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.
+
+Potem idziecie zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystko, co już było, i dodaje swój dźwięk.
+
+Gdy wszyscy dołożą swój, zagrajcie całość razem kilka razy.
+
+Jeśli macie ochotę, dołóżcie następną rundę i rozbudujcie sekwencję.
+
+Dilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamysł artystyczny.
+
+---
+
+## DZIEŃ 2
+
+U NAS — CO LUBIMY W NASZEJ RODZINIE
+
+Dziś bez wielkich słów. Jedna rzecz, którą naprawdę lubicie w swojej rodzinie.
 
 Po kolei dokończcie zdanie:
 
-**W naszej rodzinie lubię to, że…**
+W naszej rodzinie lubię to, że…
 
-Jedna rzecz wystarczy. Duża albo zupełnie zwyczajna.
+Wystarczy jedna rzecz — coś ważnego albo zwykły drobiazg.
 
-**Luli:** Krótko też się liczy. Mowę dziękczynną zostawmy na galę.
+Luli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy.
 
 ---
 
 ## DZIEŃ 3
 
-### PAUZA — SPOKOJNE RĘCE
+RESET — TRYB OFF
 
-*Przez minutę niczego nie trzeba naprawiać ani poprawiać.*
+Na minutę wyłączamy tryb „muszę coś ogarnąć”.
 
 Usiądźcie albo stańcie blisko siebie.
 
-Jedną dłoń połóżcie na klatce piersiowej. Drugą — jeśli osoba obok ma na to ochotę — na jej ramieniu.
+Jedną dłoń połóżcie na swojej klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli jej to pasuje. Jeśli nie, obie dłonie zostają przy was.
 
 Przez minutę oddychajcie spokojnie.
 
-Nie trzeba niczego specjalnego „poczuć”. Po prostu zostańcie tak przez chwilę.
+Nie musicie niczego specjalnego czuć. Po prostu pobądźcie tak chwilę.
 
-**Nini:** Ręce spokojne. Palce mają własny plan.
-
----
-
-### ZABAWA — STOP-KLATKA
-
-*Trzy sekundy bez ruchu. Łatwe? Zobaczymy.*
-
-Zaczyna najmłodsza osoba i rzuca hasło, na przykład: „śnieg”, „buziak”, „choinka” albo „przytulenie”.
-
-Wszyscy natychmiast robią pasującą pozę i zamierają w miejscu na **3 sekundy**.
-
-Osoba, która podała hasło, wybiera następną osobę. I gramy dalej przez kilka rund.
-
-Jeśli są tylko dwie osoby: jedna robi pozę, druga zgaduje, co przedstawia. Potem zmiana.
-
-**Alio:** Im później zastygniesz, tym dziwniejsza poza. To akurat plus.
+Nini: Ja nic nie robię. To palce coś kombinują.
 
 ---
 
-### MIĘDZY NAMI — CO DZIŚ BYŁO FAJNE?
+## DZIEŃ 3
 
-*Najlepszy moment dnia nie musi być wielkim wydarzeniem.*
+AKCJA — STOP-KLATKA
 
-Każdy wybiera jedną chwilę z dzisiaj, która była po prostu fajna.
+Trzy sekundy bez ruchu. Niby proste.
 
-Może być duża. Może być zupełnie mała.
+Zaczyna najmłodsza osoba. Rzuca hasło, na przykład: „śnieg”, „buziak”, „choinka” albo „przytulenie”.
 
-Powiedzcie po jednym takim momencie.
+Wszyscy od razu pokazują je pozą i zastygają na 3 sekundy.
 
-**Mimi:** Tak, przekąska też może wygrać dzień. Oczywiście, że może.
+Ta osoba wybiera, kto wymyśla kolejne hasło. I gracie dalej przez kilka rund.
+
+Jeśli są tylko dwie osoby, jedna robi pozę, a druga zgaduje, co przedstawia. Potem zamiana.
+
+Alio: Kto zastyga ostatni, zwykle wygląda najdziwniej. I o to chodzi.
 
 ---
 
-## Deliberate Polish adaptations to preserve
+## DZIEŃ 3
 
-These are intentional and should not be “corrected back” toward English during later bilingual review:
+U NAS — CO DZIŚ BYŁO FAJNE?
 
-- abstract trust/connection/gratitude claims were replaced with concrete family actions;
-- mystical/shared-energy language was removed;
-- Day 1 and Day 3 touch is explicitly optional;
-- Day 2 paced breathing includes a no-forcing / return-to-normal-breath safety escape;
-- character notes were rebuilt as Polish situational humor, not translated jokes;
-- English motivational taglines were replaced by short Polish hooks or removed;
-- no fake youth slang was added.
+Nie trzeba mieć historii roku. Wystarczy jeden dobry moment.
+
+Każdy mówi o jednej chwili z dzisiaj, która była fajna.
+
+To może być coś ważnego albo zwykły drobiazg.
+
+Po jednym przykładzie i gotowe.
+
+Mimi: Jeśli najlepsze były frytki, to frytki. Nie będę z tym dyskutować.
+
+---
+
+## V2 native-usage corrections locked as regression lessons
+
+The following defect types must not return:
+- selecting a starter through an unnatural phrase such as `najpóźniejsza litera w alfabecie`;
+- describing a moment as `duża / mała` where Polish would distinguish importance from an ordinary detail;
+- English-style metaphorical verb selection such as a snack `winning the day`;
+- translated Happy Makers punchlines that are understandable but not born in Polish;
+- recurring labels that sound therapeutic, childish, school-workshop-like or like an adult imitating teen slang.
 
 ## Gate
 
 Do **not** scale to Days 4–24 yet.
 
-Owner decision requested on:
-1. overall Polish family voice;
-2. recurring labels **PAUZA / ZABAWA / MIĘDZY NAMI**;
-3. humor level and character differentiation;
-4. whether this is sufficiently less spiritual / less coaching than the English surface while preserving the product function.
+Owner review requested on:
+1. overall V2 natural Polish;
+2. recurring labels **RESET / AKCJA / U NAS**;
+3. whether Happy Makers jokes now feel genuinely Polish;
+4. whether any sentence still requires “mental translation” to sound normal.
