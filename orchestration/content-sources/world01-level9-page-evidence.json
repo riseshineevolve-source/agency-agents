@@ -1,0 +1,391 @@
+{
+  "evidence_version": 1,
+  "mission_id": "world01_mission_009",
+  "source": {
+    "source_id": "world01_paperback_2026_09_18",
+    "filename": "10 STORIES WORLD 01 FINAL paperback.pdf",
+    "sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "bytes": 14523549,
+    "pages": 108,
+    "page_range": [
+      84,
+      91
+    ]
+  },
+  "method": "Visual block-by-block transcription of all eight published Level 9 pages; PDF text extraction used only for cross-checking",
+  "page_inventory": [
+    {
+      "page": 84,
+      "content_blocks": 1
+    },
+    {
+      "page": 85,
+      "content_blocks": 4
+    },
+    {
+      "page": 86,
+      "content_blocks": 5
+    },
+    {
+      "page": 87,
+      "content_blocks": 6
+    },
+    {
+      "page": 88,
+      "content_blocks": 2
+    },
+    {
+      "page": 89,
+      "content_blocks": 3
+    },
+    {
+      "page": 90,
+      "content_blocks": 3
+    },
+    {
+      "page": 91,
+      "content_blocks": 1
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p84_b01",
+      "node_id": "world01_mission_009_node_001",
+      "page": 84,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 9:",
+        "title": "The Broccoli Fortress",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "FUEL",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Building a mood out of Bricks so the Wolf can't blow your house down.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p85_b01",
+      "node_id": "world01_mission_009_node_002",
+      "page": 85,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "story_heading": "THE BROCCOLI FORTRESS",
+        "log_label": "SYSTEM LOG >>",
+        "text": "Sunday dinner. 'Cake is dinner!' fought Alio, guarding his plate with a fork like a knight. 'It has eggs! It's basically a sweet omelet!'\n\nMimi sighed, sitting down next to him. She squeezed her own hands together to shake off the frustration of cooking for an hour just to argue about cake."
+      }
+    },
+    {
+      "evidence_id": "p85_b02",
+      "node_id": "world01_mission_009_node_003",
+      "page": 85,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Alio, your stomach talks to your brain. Cake is 'Straw'. It burns fast - whoosh - and leaves you tired and grumpy. Vegetables and protein are 'Bricks'. If you build your mood out of Straw, the Wolf of Grumpiness will blow your house down before bedtime."
+      }
+    },
+    {
+      "evidence_id": "p85_b03",
+      "node_id": "world01_mission_009_node_004",
+      "page": 85,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio looked at the vegetable soup suspiciously."
+      }
+    },
+    {
+      "evidence_id": "p85_b04",
+      "node_id": "world01_mission_009_node_005",
+      "page": 85,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "I don't trust the green things. Dilo said the government puts microchips in broccoli to control our dreams and make us do math in our sleep. It really looks suspicious. Maybe it's listening to us?!"
+      }
+    },
+    {
+      "evidence_id": "p86_b01",
+      "node_id": "world01_mission_009_node_006",
+      "page": 86,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi closed her eyes and took a deep breath (waking her Wizard)."
+      }
+    },
+    {
+      "evidence_id": "p86_b02",
+      "node_id": "world01_mission_009_node_007",
+      "page": 86,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Alio. Dilo has watched too many movies. Broccoli are little trees of power. No chips. Just vitamins."
+      }
+    },
+    {
+      "evidence_id": "p86_b03",
+      "node_id": "world01_mission_009_node_008",
+      "page": 86,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio seems not convinced, still poking a broccoli floret. Suddenly, Nini sprinkled some edible glitter on the table."
+      }
+    },
+    {
+      "evidence_id": "p86_b04",
+      "node_id": "world01_mission_009_node_009",
+      "page": 86,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "Alio, don't you know? Broccoli is magical! It doesn't have chips... it has X-Ray Fuel. If you eat it, you will have super-vision!"
+      }
+    },
+    {
+      "evidence_id": "p86_b05",
+      "node_id": "world01_mission_009_node_010",
+      "page": 86,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Seriously? I'll see through walls? And see what Dilo hides under his bed?"
+      }
+    },
+    {
+      "evidence_id": "p87_b01",
+      "node_id": "world01_mission_009_node_011",
+      "page": 87,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "Of course! But you need at least three trees to activate the power."
+      }
+    },
+    {
+      "evidence_id": "p87_b02",
+      "node_id": "world01_mission_009_node_012",
+      "page": 87,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio immediately stuffed the broccoli into his mouth. Crunch, crunch. 'I'm eating Bricks! I'm building a Fortress! Dilo, beware, X-Ray Alio is coming for your secrets!'"
+      }
+    },
+    {
+      "evidence_id": "p87_b03",
+      "node_id": "world01_mission_009_node_013",
+      "page": 87,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Can I have a little bit of Straw for the roof? Every fortress needs a decoration."
+      }
+    },
+    {
+      "evidence_id": "p87_b04",
+      "node_id": "world01_mission_009_node_014",
+      "page": 87,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi smiled and put a small cookie next to his soup."
+      }
+    },
+    {
+      "evidence_id": "p87_b05",
+      "node_id": "world01_mission_009_node_015",
+      "page": 87,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Yes. A strong house can handle a little bit of straw on top. But the walls must be brick."
+      }
+    },
+    {
+      "evidence_id": "p87_b06",
+      "node_id": "world01_mission_009_node_016",
+      "page": 87,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli shook her head."
+      }
+    },
+    {
+      "evidence_id": "p88_b01",
+      "node_id": "world01_mission_009_node_017",
+      "page": 88,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "Alio's naivety is the only way to get him to eat vegetables. Genius strategy, Nini."
+      }
+    },
+    {
+      "evidence_id": "p88_b02",
+      "node_id": "world01_mission_009_node_018",
+      "page": 88,
+      "type": "system_note",
+      "subtype": "system_note",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: SYSTEM NOTE",
+        "note_label": "SYSTEM NOTE:",
+        "text": "Build your body with bricks so your house is strong enough to weather any storm."
+      }
+    },
+    {
+      "evidence_id": "p89_b01",
+      "node_id": "world01_mission_009_node_019",
+      "page": 89,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 025",
+        "heading": "THE BRAIN SECRET (The Happy Juice)",
+        "science_label": "The Science:",
+        "science": "Did you know 90% of your Serotonin (The Happy Juice) is made in your tummy, not your head? What you eat literally becomes your feelings. Food is Mood!",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi explained that cake (sugar) burns fast like straw, leaving you grumpy. Vegetables and protein (Bricks) give you steady power to be happy and strong."
+      }
+    },
+    {
+      "evidence_id": "p89_b02",
+      "node_id": "world01_mission_009_node_020",
+      "page": 89,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 026",
+        "heading": "THE TOOL ('The Colour Game')",
+        "science_label": "The Science:",
+        "science": "Your brain needs different materials to build thoughts.",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio ate 'Green Trees' (Broccoli). Try this challenge: Eat 3 different colors at dinner. (Warning: Beige, French Fries, and Bread do not count as colors!)"
+      }
+    },
+    {
+      "evidence_id": "p89_b03",
+      "node_id": "world01_mission_009_node_021",
+      "page": 89,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 027",
+        "heading": "THE GLITCH ('I am HANGRY!')",
+        "science_label": "The Science:",
+        "science": "Hangry = Hungry + Angry. This happens when your blood sugar crashes. Your Brain Wizard goes to sleep because he has no fuel.",
+        "in_story_label": "In The Story:",
+        "in_story": "If Alio only ate cake, he would be energetic for 10 minutes and then furious (The Wolf of Grumpiness). Fix: Never argue on an empty stomach. Eat a 'Brick' (nuts, cheese, fruit) first!"
+      }
+    },
+    {
+      "evidence_id": "p90_b01",
+      "node_id": "world01_mission_009_node_022",
+      "page": 90,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio wanted to build a 'Fortress' to spy on Dilo.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Are you building your body with Straw or Bricks today? How do you feel after eating too much sugar? (Jumpy? Then tired?)"
+      }
+    },
+    {
+      "evidence_id": "p90_b02",
+      "node_id": "world01_mission_009_node_023",
+      "page": 90,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Nini used imagination to make food fun.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Look at your dinner plate. Point to the 'Bricks' (Protein/Veg) and the 'Straw' (Carbs/Sugar). Make sure your house is strong!"
+      }
+    },
+    {
+      "evidence_id": "p90_b03",
+      "node_id": "world01_mission_009_node_024",
+      "page": 90,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why does sugar make me grumpy? Sugar gives you a huge spike of energy (The Zoomies!), but then your blood sugar falls down a steep cliff. That fall triggers stress hormones like cortisol. That is why you feel cranky 30 minutes after a candy bar. Protein (Bricks) releases energy slowly, like a log burning on a fire, keeping you warm and happy for hours."
+      }
+    },
+    {
+      "evidence_id": "p91_b01",
+      "node_id": "world01_mission_009_node_025",
+      "page": 91,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“BUILDING WITH BRICKS”",
+        "meaning_label": "MEANING:",
+        "meaning": "I am eating healthy protein or vegetables to build a strong mood that won't crash later.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Eat 3 Bricks (healthy foods) before asking for Straw (sweets).",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Eat your vegetables or you get no dessert!',",
+        "teach_label": "teach them to say:",
+        "teach_to_say": "'Let's fortify your base! How many Bricks are we laying down for solid stats before we add the Straw roof?’"
+      }
+    }
+  ]
+}
