@@ -1174,3 +1174,46 @@ Status:
 Final owner micro-pass adds the Page 2 cozy-site CTA, ten-question-mark Case 03 progress tracker, stronger Case 06 Uma/dragon-tooth-spoon incident bridge and Case 07 local closure. No puzzle truth changed. Full Case 01->30 transition audit remains 29/29 PASS.
 
 The compact 127-page integration proof is not visual/page-count authority. Next action is to restore the established premium Book Factory system around this exact V3 copy: Evidence Grid signature language, boxed sections and HM chat, dedicated left Witness Board + large right Live Case Map, large bold axes, full Case 03 facing comparison spread, quiet Page 2 scanner-question-mark publication design, and reverse Hint/Solutions. Reflow/add pages before cutting copy.
+
+
+## Detective owner front-matter source lock — 2026-09-30
+
+Owner review found a renderer-side regression in the 2026-09-29 180-page artifact. The canonical V3 text itself had not reverted.
+
+Root cause:
+- renderer hardcoded squad art + `YOUR SQUAD` onto physical Page 3 before rendering the canonical black-envelope text;
+- global page begin injected the recurring upper-left micro-grid/ruler;
+- COMMS used the evidence grid as a text background.
+
+Canonical source remains the SAME V3:
+`orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
+
+Current owner-front-matter source-lock commit:
+`e136e94402c8f870f3d9221b7047c1406cbec813`
+
+Current canonical blob:
+`8685f8e561d0bfb3837445b72b4d6f799a9a48f2`
+
+Front-matter physical order is now fail-closed:
+1 Title
+2 Publication Record
+3 The Black Envelope only
+4 Your Squad
+5 Recruit Credential
+6 What You Are About To Walk Into
+7 How Every Case Works
+8 Map Cases
+9 Case Wall + Hint Vault
+10 Case Index
+
+New Page 2 owner copy includes the HTTPS site invitation and Facebook line. Page 4 uses a general recruit/team opener rather than the premature Alio helmet joke.
+
+Production factory source now removes the global upper-left micro-grid and renders Happy Makers dialogue on a readable light field with only a narrow decorative evidence-grid strip.
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-30-detective-owner-frontmatter-source-lock.md`
+
+State:
+**FRONT-MATTER REGRESSION SOURCE-FIXED / PREVIEWER GATE REOPENED / EN NOT FROZEN.**
+
+The prior Sep 29 advance-to-Previewer status is superseded until a fresh exact-source rebuild and full audit pass.
