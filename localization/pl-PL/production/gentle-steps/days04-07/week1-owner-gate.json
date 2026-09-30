@@ -3,7 +3,7 @@
   "product": "gentle-steps-christmas",
   "scope": "days_01_07",
   "status": "READY_FOR_WEEK1_OWNER_REVIEW",
-  "candidate_days04_07_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+  "candidate_days04_07_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
   "recurring_labels": [
     "RESET",
     "AKCJA",
@@ -16,5 +16,8 @@
     "Keep revising or lock RESET / AKCJA / U NAS as recurring labels?",
     "Are Happy Makers voices distinct enough after seven days?",
     "Any remaining phrase that sounds translated, school-workshop-like or unnatural when read aloud?"
-  ]
+  ],
+  "register_policy": "natural_book_polish_not_chatty",
+  "instruction_detail_policy": "source_mechanics_complete",
+  "breath_reset_policy": "concrete_everyday_non_mindfulness"
 }
