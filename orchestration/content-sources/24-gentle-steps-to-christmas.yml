@@ -40,10 +40,14 @@ localization:
     operating_profile: localization/pl-PL/GENTLE_STEPS_PL_REAUTHORING_PROFILE.md
     historical_calibration_file: localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md
     historical_calibration_authority: reference_only
-    state: days_01_03_v2_native_usage_owner_gate
+    state: week1_owner_review_gate
     full_book_scaleout_authorized: false
+    voice_direction_approved_to_continue: true
+    voice_direction_receipt: localization/pl-PL/production/gentle-steps/VOICE_DIRECTION_OWNER_RECEIPT_2026-09-30.json
     first_production_calibration_scope: days_1_to_3
     current_voice_master: localization/pl-PL/production/gentle-steps/days01-03/GENTLE_STEPS_PL_VOICE_MASTER_DAYS01_03.md
+    week1_voice_master: localization/pl-PL/production/gentle-steps/GENTLE_STEPS_PL_WEEK1_VOICE_MASTER.md
+    days04_07_candidate_sha256: 4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815
     current_voice_master_candidate_sha256: 3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce
     recurring_label_candidates:
       - RESET
