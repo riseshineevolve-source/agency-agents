@@ -1,5 +1,8 @@
 # 24 Gentle Steps to Christmas — Week 1 Controlled Expansion
 
+> **2026-09-30 SUPERSESSION — REFERENCE ONLY.** Owner direction now requires native Polish re-authoring from functional briefs. The Polish copy below remains historical calibration/QA evidence and must not be promoted as production language. See `localization/pl-PL/GENTLE_STEPS_PL_REAUTHORING_PROFILE.md`.
+
+
 Status: CONTROLLED WEEK-1 CANDIDATE
 Source: recovered published English paperback, 104 pages
 Source pages used: 24–41
