@@ -6,6 +6,29 @@ Use when the user provides a URL, PDF, manuscript, UI strings or text and asks f
 ## Goal
 Produce publication-ready Polish that preserves source truth and function while reading as originally written for Poland.
 
+## Route selection before Phase 0
+
+Choose one of two explicit modes:
+
+### A. Controlled localization/transcreation
+Use the existing Phase 0–9 flow when the Polish edition should remain recognisably source-led at sentence/segment level.
+
+### B. Native re-authoring from function
+Use when the owner says the Polish product should feel written from scratch for Poland and English should be a reference for function/truth rather than wording.
+
+For Route B:
+
+1. Capture source bytes/revision with `reauthor-init`.
+2. Localization Source Function Analyst creates a wording-free `rse-functional-brief-v1`.
+3. Generate `reauthor-writer-packet`; the packet must contain no sentence-level English source copy.
+4. Polish Native Family Writer writes the first Polish version from the brief only.
+5. Polish Cultural Localizer + Polish Transcreator + Polish Family Ear Reviewer + Polish Natural Language Editor improve cultural reality, humor/character, credibility and anti-coaching naturalness.
+6. Only then generate `reauthor-backcheck-packet` and re-open the English source for Meaning Guardian/Bilingual QA.
+7. Logic, proof and real-surface QA follow.
+8. `reauthor-final-gate` returns `READY_FOR_OWNER_GATE` until all product-specific owner decisions are explicitly approved for the exact candidate hash.
+
+Never use Route B for legal/privacy/regulatory text.
+
 ## Phase 0: Intake and structure
 1. Identify input type and scope.
 2. Capture source snapshot/version.
