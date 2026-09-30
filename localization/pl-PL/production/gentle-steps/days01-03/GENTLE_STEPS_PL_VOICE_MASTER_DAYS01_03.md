@@ -1,28 +1,26 @@
-# 24 Gentle Steps to Christmas — Polish Voice Master Calibration V2
+# 24 Gentle Steps to Christmas — Polish Voice Master Days 1–3
 
-Status: **OWNER VOICE GATE — DAYS 1–3 ONLY / NATIVE USAGE GATE PASSED**  
+Status: **WEEK 1 OWNER REVIEW / BOOK REGISTER + BREATH RESET + DETAIL GATES PASSED**  
 Source: owner-uploaded English paperback, 104 pages  
-Source SHA-256: `1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7`  
 Mode: `native_reauthor_from_function`  
-Candidate recurring labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Candidate SHA-256: `3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce`
+Working labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
+Candidate SHA-256: `71b496f78d70c1bd01b52d5a4b3f22dc004877c3f6d85e2082596e1f32260b24`
 
-V2 incorporates owner feedback that “less translated” is not enough. Polish grammar, syntax, collocations, idiom, sentence construction, semantic selection, real-life context and read-aloud naturalness are a separate mandatory gate.
+This version is deliberately **natural book Polish, not chatty Polish**. Breathing/quiet exercises are framed as concrete everyday pauses rather than mindfulness/wellness copy. Game instructions retain the full source mechanics needed to play without seeing English.
 
 ---
 
 ## DZIEŃ 1
 
-RESET — MINUTA CISZY
+RESET — MINUTA BEZ POŚPIECHU
 
-Minuta bez zadań. Serio, nic więcej.
+Usiądźcie razem w kółku. Jeśli macie ochotę, lekko złapcie się za ręce albo usiądźcie tak, żeby stykać się ramionami.
 
-Usiądźcie razem w kółku. Jeśli chcecie, możecie lekko trzymać się za ręce albo dotykać ramionami.
+Zamknijcie oczy. Przez minutę niczego nie trzeba planować, komentować ani kończyć. Oddychajcie swobodnie i po prostu posiedźcie razem w ciszy.
 
-Zamknijcie oczy i przez minutę spokojnie oddychajcie.
-Nikt nie musi nic mówić ani robić.
+Jeśli w głowie pojawi się lista rzeczy do zrobienia, nie szkodzi. Przez tę minutę może poczekać.
 
-Luli: Jeśli Alio wytrzyma całą minutę bez wiercenia się, uznaję to za wydarzenie dnia.
+Luli: Jeśli Alio wytrzyma pełną minutę bez wiercenia się, proponuję wpisać datę do kalendarza.
 
 ---
 
@@ -30,15 +28,15 @@ Luli: Jeśli Alio wytrzyma całą minutę bez wiercenia się, uznaję to za wyda
 
 AKCJA — PODAJ DALEJ
 
-Piłki nie widać. Komplement ma być konkretny.
-
 Stańcie w kółku.
 
-Zaczyna osoba, której imię zaczyna się na literę najbliżej końca alfabetu. Udaje, że trzyma piłkę, wybiera kogoś, „rzuca” do tej osoby i mówi jej coś konkretnego, co w niej lubi albo docenia.
+Zaczyna osoba, której imię zaczyna się na literę najbliżej końca alfabetu. Udaje, że trzyma niewidzialną piłkę.
 
-Osoba, która łapie piłkę, mówi „Dzięki!” i podaje ją dalej.
+Wybiera jedną osobę, lekko „rzuca” piłkę w jej stronę i mówi jej jeden konkretny komplement — coś, co w niej lubi albo docenia.
 
-Gracie, aż każdy usłyszy coś miłego. Potem możecie zrobić kolejną rundę.
+Osoba, która „łapie” piłkę, mówi „Dziękuję”, wybiera kolejną osobę i przekazuje piłkę dalej razem z następnym komplementem.
+
+Kontynuujcie, aż każdy usłyszy przynajmniej jeden komplement. Jeśli macie ochotę, możecie zagrać jeszcze jedną rundę.
 
 Nini: Tylko bez zamachu jak na WF-ie. To ma być komplement, nie kontuzja.
 
@@ -48,13 +46,11 @@ Nini: Tylko bez zamachu jak na WF-ie. To ma być komplement, nie kontuzja.
 
 U NAS — JEDNO SŁOWO
 
-Jedno słowo. Bez tłumaczenia się.
+Każdy mówi jedno słowo o tym, jak się teraz czuje.
 
-Każdy mówi jednym słowem, jak się teraz czuje.
+Tylko jedno. Nie trzeba niczego wyjaśniać ani uzasadniać.
 
-Tylko tyle. Nie trzeba rozwijać odpowiedzi.
-
-Luli: „Dobrze” odpada. Macie jeszcze jedno podejście.
+Luli: „Dobrze” się nie liczy. Wiem, wiem. Spróbujcie jeszcze raz.
 
 ---
 
@@ -62,16 +58,16 @@ Luli: „Dobrze” odpada. Macie jeszcze jedno podejście.
 
 RESET — 4 NA 6
 
-Grudzień już się wystarczająco spieszy.
+Usiądźcie wygodnie. Przez minutę spróbujcie oddychać trochę wolniej niż zwykle.
 
-Przez minutę spróbujcie oddychać w takim rytmie:
+Przy wdechu policzcie spokojnie do czterech.
+Przy wydechu — do sześciu.
 
-wdech — liczymy do 4,
-wydech — do 6.
+Nie nabierajcie powietrza na siłę i nie próbujcie zrobić „idealnego” oddechu. Jeśli taki rytm komuś nie odpowiada, wróćcie do własnego oddechu.
 
-Bez forsowania. Jeśli komuś ten rytm nie pasuje, może oddychać po swojemu.
+Chodzi tylko o to, żeby na minutę przestać się spieszyć.
 
-Mimi: To chyba jedyna rzecz w grudniu, której nie zamierzam przyspieszać.
+Mimi: To chyba jedyna rzecz w grudniu, której nie próbuję zrobić szybciej.
 
 ---
 
@@ -79,15 +75,15 @@ Mimi: To chyba jedyna rzecz w grudniu, której nie zamierzam przyspieszać.
 
 AKCJA — DOMOWA ORKIESTRA
 
-Najpierw jeden dźwięk. Potem dokładamy kolejne.
+Zaczyna osoba, która jako następna będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk, na przykład „bam”, „ding” albo „pff”.
 
-Zaczyna osoba, która jako pierwsza z was będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.
+Następnie gracie zgodnie z ruchem wskazówek zegara. Kolejna osoba powtarza pierwszy dźwięk i dodaje własny.
 
-Potem idziecie zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystko, co już było, i dodaje swój dźwięk.
+Każda następna osoba powtarza całą dotychczasową sekwencję w tej samej kolejności i na końcu dodaje jeden nowy dźwięk.
 
-Gdy wszyscy dołożą swój, zagrajcie całość razem kilka razy.
+Kiedy każdy już doda swój dźwięk, wykonajcie całą sekwencję razem kilka razy.
 
-Jeśli macie ochotę, dołóżcie następną rundę i rozbudujcie sekwencję.
+Jeśli chcecie ją wydłużyć, zróbcie kolejną rundę: zachowajcie wszystko, co już powstało, i dokładajcie następne dźwięki w tej samej kolejności.
 
 Dilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamysł artystyczny.
 
@@ -97,13 +93,11 @@ Dilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamy
 
 U NAS — CO LUBIMY W NASZEJ RODZINIE
 
-Dziś bez wielkich słów. Po prostu: co lubicie w swojej rodzinie?
-
 Po kolei dokończcie zdanie:
 
-W naszej rodzinie lubię to, że…
+„W naszej rodzinie lubię to, że…”
 
-Wystarczy jedna rzecz — coś ważnego albo zwykły drobiazg.
+Wystarczy jedna rzecz. Może to być coś ważnego albo zwykły drobiazg, który po prostu lubicie w swoim rodzinnym życiu.
 
 Luli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy.
 
@@ -111,19 +105,17 @@ Luli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy.
 
 ## DZIEŃ 3
 
-RESET — TRYB OFF
-
-Na minutę wyłączamy tryb „muszę coś ogarnąć”.
+RESET — MINUTA BEZ „MUSZĘ”
 
 Usiądźcie albo stańcie blisko siebie.
 
-Połóżcie jedną dłoń na klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.
+Połóżcie jedną dłoń na klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok, jeśli ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.
 
-Przez minutę oddychajcie spokojnie.
+Przez minutę oddychajcie swobodnie.
 
-Nie musicie niczego specjalnego czuć. Po prostu pobądźcie tak chwilę.
+Nie próbujcie na siłę się uspokoić ani przestać myśleć. Przez tę chwilę po prostu nie trzeba zajmować się następną rzeczą z listy.
 
-Nini: Ja nic nie robię. To palce coś kombinują.
+Nini: Ja siedzę spokojnie. Za palce nie odpowiadam.
 
 ---
 
@@ -131,17 +123,17 @@ Nini: Ja nic nie robię. To palce coś kombinują.
 
 AKCJA — STOP-KLATKA
 
-Trzy sekundy bez ruchu. Niby proste.
+Zaczyna najmłodsza osoba. Podaje jedno hasło, na przykład: „śnieg”, „buziak”, „choinka” albo „przytulenie”.
 
-Zaczyna najmłodsza osoba. Rzuca hasło, na przykład: „śnieg”, „buziak”, „choinka” albo „przytulenie”.
+Wszyscy od razu pokazują to hasło pozą i zastygają bez ruchu na trzy sekundy.
 
-Wszyscy od razu pokazują je pozą i zastygają na 3 sekundy.
+Po trzech sekundach osoba, która podała hasło, wybiera kolejną osobę. To ona wymyśla następne hasło i zabawa zaczyna się od nowa.
 
-Ta osoba wybiera, kto wymyśla kolejne hasło. I gracie dalej przez kilka rund.
+Zagrajcie w ten sposób kilka rund.
 
-Jeśli są tylko dwie osoby, jedna robi pozę, a druga zgaduje, co przedstawia. Potem zamiana.
+Jeśli bawią się tylko dwie osoby, jedna robi pozę, a druga zgaduje, co przedstawia. Potem zamieniacie się rolami.
 
-Alio: Kto zastyga ostatni, zwykle wygląda najdziwniej. I o to chodzi.
+Alio: Kto zastygnie ostatni, zwykle ma najdziwniejszą pozę. I właśnie dlatego warto patrzeć.
 
 ---
 
@@ -149,34 +141,12 @@ Alio: Kto zastyga ostatni, zwykle wygląda najdziwniej. I o to chodzi.
 
 U NAS — CO DZIŚ BYŁO FAJNE?
 
-Nie szukamy wydarzenia roku. Wystarczy jeden dobry moment.
+Każdy wybiera jeden moment z dzisiejszego dnia, który był po prostu przyjemny, i krótko o nim opowiada.
 
-Każdy wybiera jedną fajną chwilę z dzisiaj i o niej mówi.
+Nie musi to być nic ważnego ani wyjątkowego. Wystarczy jedna zwyczajna rzecz, którą dobrze wspominacie.
 
-To może być coś ważnego albo zwykły drobiazg.
-
-Po jednym przykładzie i gotowe.
-
-Mimi: Jeśli najlepsze były frytki, to frytki. Nie będę z tym dyskutować.
+Mimi: Jeśli najlepsze były frytki, to frytki. Nie mam dalszych pytań.
 
 ---
 
-## V2 native-usage corrections locked as regression lessons
-
-The following defect types must not return:
-- unnatural alphabet-order phrasing such as `najpóźniejsza litera w alfabecie`;
-- describing a moment as `duża / mała` where Polish distinguishes importance from an ordinary detail;
-- English-style metaphorical verb selection such as a snack `winning the day`;
-- grammatical-but-less-native phrasing when ordinary Polish has a simpler construction;
-- translated Happy Makers punchlines that are understandable but not born in Polish;
-- recurring labels that sound therapeutic, childish, school-workshop-like or like an adult imitating teen slang.
-
-## Gate
-
-Do **not** scale to Days 4–24 yet.
-
-Owner review requested on:
-1. overall V2 natural Polish;
-2. recurring labels **RESET / AKCJA / U NAS**;
-3. whether Happy Makers jokes now feel genuinely Polish;
-4. whether any sentence still requires “mental translation” to sound normal.
+Exact surface fit remains deferred until the whole Week 1 voice/register/labels are owner-reviewed.
