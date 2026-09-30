@@ -273,5 +273,63 @@ class GentleStepsDays0407Production(unittest.TestCase):
             self.assertNotIn(regression, rendered)
 
 
+class GentleStepsDays0814Production(unittest.TestCase):
+    BASE = ROOT / "localization/pl-PL/production/gentle-steps/days08-14"
+
+    def test_days_08_14_pipeline_is_blind_hash_bound_and_reviewed(self):
+        run = load(self.BASE / "source-run.json")
+        brief = load(self.BASE / "functional-brief.json")
+        packet = load(self.BASE / "writer-packet.json")
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        backcheck = load(self.BASE / "bilingual-backcheck.json")
+        reviews = load(self.BASE / "review-bundle.json")
+        gate = load(self.BASE / "batch-gate.json")
+
+        validate_functional_brief(run, PROFILE, brief)
+        self.assertEqual(packet, writer_packet(run, PROFILE, brief))
+        self.assertNotIn("source_locator", str(packet))
+        validate_candidate(packet, candidate)
+        self.assertEqual(backcheck, backcheck_packet(run, PROFILE, brief, packet, candidate))
+
+        candidate_sha = digest(candidate)
+        self.assertEqual(reviews["candidate_sha256"], candidate_sha)
+        self.assertEqual(gate["candidate_sha256"], candidate_sha)
+        self.assertTrue(reviews["scaleout_authorized"])
+        self.assertTrue(gate["next_batch_days15_24_authorized"])
+        self.assertFalse(gate["publication_authorized"])
+
+        stages = {r["stage"]: r["status"] for r in reviews["reviews"]}
+        for stage in (
+            "polish_usage_idiom_context", "polish_book_register",
+            "breath_reset_reauthoring", "activity_instruction_completeness",
+            "polish_family_language_edit", "humor_character_voice",
+            "kid_parent_ear_review", "anti_coaching_translationese",
+            "bilingual_fidelity_backcheck", "logic_continuity", "proofread",
+        ):
+            self.assertEqual(stages[stage], "PASS")
+        self.assertEqual(stages["surface_qa"], "DEFERRED_FULL_BOOK_OWNER_GATE")
+
+    def test_days_08_14_detail_and_anti_mindfulness_regressions(self):
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        rendered = "\n".join(u["draft_pl"] for u in candidate["units"])
+        for required in (
+            "dwa albo trzy pełne okrążenia",
+            "dokładnie pięcioma pojedynczymi słowami",
+            "trzy słowa muszą być prawdziwymi wskazówkami",
+            "dwa słowa mają być całkowicie absurdalnymi kłamstwami",
+            "przeciwnie do ruchu wskazówek zegara",
+            "nie puszczajcie żadnej dłoni",
+        ):
+            self.assertIn(required, rendered)
+        for regression in (
+            "złote światło",
+            "wewnętrzna rzeka",
+            "energia pokoju",
+            "ciepło przepływa między wami",
+            "i jedziecie dalej",
+        ):
+            self.assertNotIn(regression, rendered)
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
