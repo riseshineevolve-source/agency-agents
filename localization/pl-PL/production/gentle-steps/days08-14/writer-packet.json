@@ -1,0 +1,592 @@
+{
+  "format": "rse-native-pl-writer-packet-v1",
+  "product": "gentle-steps-christmas",
+  "run_sha256": "a18a808385b24290cc16d0d7b9c31ff38d516064da9d0c44119ae58cdee35168",
+  "brief_sha256": "9a2020f14bdb558449e928fc93c57d004b6df342748fe285c0f7b2d539fd53da",
+  "authoring_mode": "from_function_not_from_english_wording",
+  "source_visibility": "functional_brief_only",
+  "instructions": [
+    "Write as if the Polish product were created in Poland from the beginning.",
+    "Preserve mechanics, facts, character roles, safety and claim boundaries.",
+    "Use contemporary Polish book language: natural, not chatty or telegraphic.",
+    "Breath/reset units must use concrete everyday framing, never imported mindfulness/wellness language.",
+    "Activity instructions must be complete enough to perform from Polish alone.",
+    "Keep Happy Makers humor strong, Polish-first and character-specific."
+  ],
+  "units": [
+    {
+      "id": "GS.D08.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Use one minute of pulse/body awareness as a concrete pause without mystical shared-heart framing.",
+      "mechanics": [
+        "Sit together.",
+        "Each person places a hand on own chest/heart area.",
+        "Notice own pulse.",
+        "Stay with the sensation for about one minute."
+      ],
+      "immutable_facts": [
+        "One-minute pause.",
+        "Hand on own heart/chest.",
+        "Nini supplies warm humor."
+      ],
+      "character_roles": [
+        "Nini is playful and warm."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim all hearts literally synchronize.",
+        "Do not turn pulse awareness into a medical claim."
+      ],
+      "tone_job": "Concrete body awareness and pause.",
+      "humor_room": "Nini can joke about hearts doing their own job.",
+      "cultural_friction": "Remove shared-heart mystical imagery.",
+      "recurrence_context": "Working recurring family: RESET"
+    },
+    {
+      "id": "GS.D08.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Build a cumulative one-word story, then replay the same story using movements or sounds instead of the words.",
+      "mechanics": [
+        "Oldest person starts with one word.",
+        "Next person repeats all previous words in order and adds one new word.",
+        "Continue around circle for only 2-3 rounds to create a short story.",
+        "Then retell the same story again.",
+        "On the retelling, each person replaces their own word with a movement or sound representing it."
+      ],
+      "immutable_facts": [
+        "Oldest starts.",
+        "Only 2-3 rounds.",
+        "Same story is replayed with movement/sound substitutions.",
+        "Alio likes silliness."
+      ],
+      "character_roles": [
+        "Alio is energetic and encourages absurdity."
+      ],
+      "safety_claim_boundaries": [
+        "Keep movements safe."
+      ],
+      "tone_job": "Clear cumulative-memory game followed by physical/sound replay.",
+      "humor_room": "Celebrate silly word+movement combinations.",
+      "cultural_friction": "Avoid overexplaining story-building.",
+      "recurrence_context": "Working recurring family: AKCJA"
+    },
+    {
+      "id": "GS.D08.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Pass one specific thank-you around the circle until everyone receives at least one.",
+      "mechanics": [
+        "Youngest person starts.",
+        "Starter turns to person on their right.",
+        "Say 'thank you for...' and name one specific thing that person did for them or the family.",
+        "Continue around until each person has received at least one thank-you message."
+      ],
+      "immutable_facts": [
+        "Youngest starts.",
+        "Direction begins to the right.",
+        "Specific action required.",
+        "Everyone receives at least one message."
+      ],
+      "character_roles": [
+        "Luli keeps it sincere but unsentimental."
+      ],
+      "safety_claim_boundaries": [
+        "Do not force emotional disclosure."
+      ],
+      "tone_job": "Specific thanks, not gratitude ceremony.",
+      "humor_room": "Dry comment against dramatic speeches.",
+      "cultural_friction": "Avoid 'gratitude becomes powerful' language.",
+      "recurrence_context": "Working recurring family: U NAS"
+    },
+    {
+      "id": "GS.D09.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Pair several calm breaths with one concrete grateful thought, replacing golden-light visualization with everyday framing.",
+      "mechanics": [
+        "Sit together.",
+        "Take several unforced breaths.",
+        "On an inhale, recall one concrete good thing/person from today.",
+        "On an exhale, let shoulders/body soften rather than performing a visualization."
+      ],
+      "immutable_facts": [
+        "Breathing remains central.",
+        "Gratitude function remains.",
+        "Luli note stays dry."
+      ],
+      "character_roles": [
+        "Luli is dry and observant."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim breath/light connects people or guarantees calm."
+      ],
+      "tone_job": "Gratitude plus breath without wellness language.",
+      "humor_room": "Luli can joke about not needing special effects.",
+      "cultural_friction": "Replace golden-light metaphor with a concrete remembered moment.",
+      "recurrence_context": "Working recurring family: RESET"
+    },
+    {
+      "id": "GS.D09.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Run the Human Knot with full hand-selection and untangling mechanics plus two-person variant.",
+      "mechanics": [
+        "Stand close in a circle.",
+        "Each person reaches across and takes the hands of two different people.",
+        "Do not take the hands of immediate neighbors.",
+        "Without releasing hands, work together to untangle into one open circle.",
+        "Two-person variant: stand face to face, cross arms to hold hands, then slowly untwist together while keeping eye contact."
+      ],
+      "immutable_facts": [
+        "No letting go.",
+        "Hands belong to two different non-neighbors.",
+        "Two-person eye-contact variant exists."
+      ],
+      "character_roles": [
+        "Mimi jokes against dramatic spinning."
+      ],
+      "safety_claim_boundaries": [
+        "Move gently; no painful twisting or forced joints."
+      ],
+      "tone_job": "Physical puzzle with clear safety.",
+      "humor_room": "Mimi can ban theatrical spinning.",
+      "cultural_friction": "Avoid teamwork slogans.",
+      "recurrence_context": "Working recurring family: AKCJA"
+    },
+    {
+      "id": "GS.D09.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Name one small good thing from family life today without spiritual 'blessing' language.",
+      "mechanics": [
+        "Each person names one small thing from family life today that they are genuinely glad happened or existed."
+      ],
+      "immutable_facts": [
+        "One small thing per person.",
+        "Luli cookie joke."
+      ],
+      "character_roles": [
+        "Luli grounds sentiment in everyday details."
+      ],
+      "safety_claim_boundaries": [
+        "Do not require gratitude performance."
+      ],
+      "tone_job": "Ordinary family appreciation.",
+      "humor_room": "Last-cookie joke can be localized.",
+      "cultural_friction": "Avoid 'blessing' terminology.",
+      "recurrence_context": "Working recurring family: U NAS"
+    },
+    {
+      "id": "GS.D10.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Create a shoulder-to-shoulder breathing pause without river/flow metaphors.",
+      "mechanics": [
+        "Sit shoulder to shoulder.",
+        "Take several comfortable breaths.",
+        "Notice own inhale/exhale while remaining physically near the group."
+      ],
+      "immutable_facts": [
+        "Shoulder-to-shoulder setup.",
+        "Breath is the core action.",
+        "Alio note references flow."
+      ],
+      "character_roles": [
+        "Alio is team-minded and lightly comic."
+      ],
+      "safety_claim_boundaries": [
+        "No claim breath travels between people or carries calm."
+      ],
+      "tone_job": "Shared pause with concrete proximity.",
+      "humor_room": "Alio can joke about everyone finally moving at one speed.",
+      "cultural_friction": "Remove inner-river metaphor entirely.",
+      "recurrence_context": "Working recurring family: RESET"
+    },
+    {
+      "id": "GS.D10.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Build a cumulative family robot-machine sequence of movement+sound and perform it together at the end.",
+      "mechanics": [
+        "Starter is person whose name begins with the letter closest to beginning of alphabet.",
+        "Starter makes one robot-like movement plus one sound.",
+        "Next person repeats starter movement+sound and adds own movement+sound.",
+        "Each following person repeats full sequence in order and adds one new robot action.",
+        "At end whole family performs entire robot-machine sequence together in sync."
+      ],
+      "immutable_facts": [
+        "Alphabet-beginning starter rule.",
+        "Movement and sound as a pair.",
+        "Sequence order preserved.",
+        "Final full-family performance."
+      ],
+      "character_roles": [
+        "Dilo uses machine/system humor."
+      ],
+      "safety_claim_boundaries": [
+        "Keep movements safe."
+      ],
+      "tone_job": "Cumulative memory and coordination game.",
+      "humor_room": "Dilo can treat errors like software bugs.",
+      "cultural_friction": "Use natural Polish alphabet-order phrasing.",
+      "recurrence_context": "Working recurring family: AKCJA"
+    },
+    {
+      "id": "GS.D10.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Create one short family motto that actually sounds usable rather than sentimental.",
+      "mechanics": [
+        "Together invent one short sentence that describes your family's spirit/way of being.",
+        "Keep it short and memorable.",
+        "Examples may be culturally rewritten."
+      ],
+      "immutable_facts": [
+        "Single shared motto.",
+        "Short sentence.",
+        "Dilo compares short motto to a strong password."
+      ],
+      "character_roles": [
+        "Dilo is concise and tech-flavored."
+      ],
+      "safety_claim_boundaries": [
+        "Do not force values language or make the family adopt a solemn slogan."
+      ],
+      "tone_job": "Playful family catchphrase creation.",
+      "humor_room": "Password joke.",
+      "cultural_friction": "Avoid compass/heart metaphor.",
+      "recurrence_context": "Working recurring family: U NAS"
+    },
+    {
+      "id": "GS.D11.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Use a tiny facial relaxation/smile pause rather than 'inner smile changes room energy'.",
+      "mechanics": [
+        "Sit close together.",
+        "Close eyes.",
+        "Let face relax.",
+        "Form a small, comfortable smile for a few breaths.",
+        "Remain quiet briefly, then finish."
+      ],
+      "immutable_facts": [
+        "Silent smile is core.",
+        "Eyes closed.",
+        "Nini note about quiet smile."
+      ],
+      "character_roles": [
+        "Nini is warm/playful."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim smiles alter room energy or mood for everyone."
+      ],
+      "tone_job": "Simple face reset.",
+      "humor_room": "Nini can joke about suspiciously quiet smiling.",
+      "cultural_friction": "Remove energy/warm-air claims.",
+      "recurrence_context": "Working recurring family: RESET"
+    },
+    {
+      "id": "GS.D11.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Execute a three-part weird command game with movement+sound+face, leader chosen by colorful socks, and leader change on hesitation/laughter/slowness.",
+      "mechanics": [
+        "Leader is person wearing most colorful socks today.",
+        "Leader gives a command with exactly 3 parts: movement + sound + facial expression.",
+        "Everyone, including leader, immediately performs full combination at same time.",
+        "Use several rounds.",
+        "Whoever hesitates, laughs or reacts too slowly becomes next leader."
+      ],
+      "immutable_facts": [
+        "Colorful-socks leader rule.",
+        "Exactly 3 parts.",
+        "Leader also performs.",
+        "Hesitation/laughter/slow reaction selects next leader."
+      ],
+      "character_roles": [
+        "Nini embraces funny faces."
+      ],
+      "safety_claim_boundaries": [
+        "Commands must use safe movements."
+      ],
+      "tone_job": "Fast absurd-command game.",
+      "humor_room": "Serious-face joke.",
+      "cultural_friction": "Provide clear Polish examples.",
+      "recurrence_context": "Working recurring family: AKCJA"
+    },
+    {
+      "id": "GS.D11.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Complete 'Our family is really good at...' in turns, keeping the idea playful and concrete.",
+      "mechanics": [
+        "Take turns finishing sentence 'Our family is really good at...' with one specific strength/skill/habit."
+      ],
+      "immutable_facts": [
+        "One completion per person.",
+        "Alio jokes every family has a superpower."
+      ],
+      "character_roles": [
+        "Alio frames strengths playfully."
+      ],
+      "safety_claim_boundaries": [
+        "Avoid superiority claims."
+      ],
+      "tone_job": "Family strengths without coaching language.",
+      "humor_room": "Can include funny practical strengths.",
+      "cultural_friction": "Avoid grand 'shared strengths bring pride' language.",
+      "recurrence_context": "Working recurring family: U NAS"
+    },
+    {
+      "id": "GS.D12.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Pair one breath and a brief look at each other with a concrete private appreciation thought.",
+      "mechanics": [
+        "Sit together.",
+        "Take one comfortable breath.",
+        "Open eyes slowly.",
+        "Look at one another briefly.",
+        "Silently think of one specific thing you appreciate about the person/people you see."
+      ],
+      "immutable_facts": [
+        "Breath and glance remain central.",
+        "No spoken words required.",
+        "Mimi note."
+      ],
+      "character_roles": [
+        "Mimi is understated."
+      ],
+      "safety_claim_boundaries": [
+        "Do not require intense eye contact or emotional display."
+      ],
+      "tone_job": "Short nonverbal pause.",
+      "humor_room": "Mimi can undercut ceremony.",
+      "cultural_friction": "Remove soft-eyes/grace language.",
+      "recurrence_context": "Working recurring family: RESET"
+    },
+    {
+      "id": "GS.D12.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Run exact-five-word clue game: 3 true clues, 2 absurd lies, identify lies then character, moving anticlockwise.",
+      "mechanics": [
+        "Starter is person with longest middle/second name.",
+        "Starter silently chooses any recognizable character/object/animal/hero/fairy-tale figure.",
+        "Describe it using exactly five words.",
+        "Exactly 3 words are true clues and 2 are absurd lies.",
+        "Family first guesses which two words are lies.",
+        "Then family guesses final character/object.",
+        "Move anticlockwise for next rounds."
+      ],
+      "immutable_facts": [
+        "Exactly 5 words.",
+        "3 true + 2 absurd lies.",
+        "Guess lies before identity.",
+        "Anticlockwise progression.",
+        "Starter based on longest second name."
+      ],
+      "character_roles": [
+        "Luli likes logic mixed with nonsense."
+      ],
+      "safety_claim_boundaries": [
+        "No unsafe content."
+      ],
+      "tone_job": "Word puzzle with exact constraints.",
+      "humor_room": "Luli can defend nonsense as methodology.",
+      "cultural_friction": "Use a Polish-friendly example.",
+      "recurrence_context": "Working recurring family: AKCJA"
+    },
+    {
+      "id": "GS.D12.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Name one kind thing recently noticed in the person to your left; continue clockwise until everyone has spoken.",
+      "mechanics": [
+        "First person turns to person on their left.",
+        "Name one kind thing noticed that person did recently, even something small.",
+        "Continue clockwise until all members have shared feedback."
+      ],
+      "immutable_facts": [
+        "Direction starts left then continues clockwise.",
+        "Recent concrete action.",
+        "Everyone participates."
+      ],
+      "character_roles": [
+        "Mimi jokes kindness grows faster than laundry, almost."
+      ],
+      "safety_claim_boundaries": [
+        "Keep feedback kind and concrete; no forced disclosure."
+      ],
+      "tone_job": "Specific observed kindness.",
+      "humor_room": "Laundry joke.",
+      "cultural_friction": "Avoid moralizing.",
+      "recurrence_context": "Working recurring family: U NAS"
+    },
+    {
+      "id": "GS.D13.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Use one minute of slow hand movement and noticing air resistance without mindfulness jargon.",
+      "mechanics": [
+        "For one minute, raise hands together very slowly.",
+        "Lower/move them slowly again.",
+        "Notice air against skin while moving."
+      ],
+      "immutable_facts": [
+        "One minute.",
+        "Slow synchronized hand movement.",
+        "Dilo note about fast brains."
+      ],
+      "character_roles": [
+        "Dilo is tech/fast-brain comic."
+      ],
+      "safety_claim_boundaries": [
+        "No claim air 'connects' family movements."
+      ],
+      "tone_job": "Slow-motion physical reset.",
+      "humor_room": "Dilo can joke about loading speed.",
+      "cultural_friction": "Remove leaves/wind/connection metaphor.",
+      "recurrence_context": "Working recurring family: RESET"
+    },
+    {
+      "id": "GS.D13.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Create a kindness doorway with two raised arms; each person passes through while others say kind words; preserve two-person chair variant.",
+      "mechanics": [
+        "Two family members raise arms to make doorway.",
+        "One person walks slowly through.",
+        "Other family members quietly say kind words about that person while they pass.",
+        "Rotate roles until everyone has passed through.",
+        "Two-person variant: use two chairs as doorway, take turns walking through while saying kind words to each other."
+      ],
+      "immutable_facts": [
+        "Two-person chair variant.",
+        "Everyone passes.",
+        "Kind words occur during passage."
+      ],
+      "character_roles": [
+        "Mimi adds mock-royal humor."
+      ],
+      "safety_claim_boundaries": [
+        "Use safe stable chairs; no forced touching."
+      ],
+      "tone_job": "Playful praise ritual with movement.",
+      "humor_room": "Royal entrance joke.",
+      "cultural_friction": "Avoid 'strengthens the heart' claims.",
+      "recurrence_context": "Working recurring family: AKCJA"
+    },
+    {
+      "id": "GS.D13.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Each person names one real 'family treasure' the family shares, using concrete examples rather than abstract richness claims.",
+      "mechanics": [
+        "Imagine family as a map with treasures.",
+        "Each person names one treasure the family has.",
+        "Treasure may be concrete or relational: shared humor, help, trust, routines, support, etc."
+      ],
+      "immutable_facts": [
+        "One treasure per person.",
+        "Nini note."
+      ],
+      "character_roles": [
+        "Nini keeps metaphor playful."
+      ],
+      "safety_claim_boundaries": [
+        "Do not require sentimental answers."
+      ],
+      "tone_job": "Light metaphor anchored in real family assets.",
+      "humor_room": "Treasure joke.",
+      "cultural_friction": "Avoid 'see how rich we are' language.",
+      "recurrence_context": "Working recurring family: U NAS"
+    },
+    {
+      "id": "GS.D14.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Use warm palms and optional shoulder touch as a concrete sensory pause; remove 'warmth travels between you'.",
+      "mechanics": [
+        "Rub palms together until warm.",
+        "Rest one hand on own chest.",
+        "Place other hand gently on shoulder of person to right if they want contact.",
+        "Stay still briefly and notice warmth in hands."
+      ],
+      "immutable_facts": [
+        "Warm palms.",
+        "One hand on own chest.",
+        "Other hand on right person's shoulder.",
+        "Luli note."
+      ],
+      "character_roles": [
+        "Luli is understated."
+      ],
+      "safety_claim_boundaries": [
+        "Touch must be optional.",
+        "Do not claim warmth/comfort literally transfers between people."
+      ],
+      "tone_job": "Concrete warmth sensation.",
+      "humor_room": "Luli can joke hands finally have a job.",
+      "cultural_friction": "Remove energy-transfer framing.",
+      "recurrence_context": "Working recurring family: RESET"
+    },
+    {
+      "id": "GS.D14.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Pass short rhythms clockwise, repeating each exactly, then perform every person's rhythm sequence from start to finish together.",
+      "mechanics": [
+        "Shortest person starts with one simple tapped/clapped rhythm.",
+        "Everyone repeats it exactly.",
+        "Move clockwise; next person invents a new short rhythm.",
+        "Everyone repeats each new rhythm.",
+        "Continue until everyone created one rhythm.",
+        "Challenge: perform the entire sequence of everyone's rhythms from start to finish together."
+      ],
+      "immutable_facts": [
+        "Shortest starts.",
+        "Clockwise.",
+        "Everyone repeats each rhythm.",
+        "Final full-sequence challenge."
+      ],
+      "character_roles": [
+        "Dilo allows creative interpretation while keeping rhythm."
+      ],
+      "safety_claim_boundaries": [
+        "Use safe body percussion."
+      ],
+      "tone_job": "Rhythm-memory group game.",
+      "humor_room": "Dilo can joke about timing.",
+      "cultural_friction": "Avoid teamwork slogans.",
+      "recurrence_context": "Working recurring family: AKCJA"
+    },
+    {
+      "id": "GS.D14.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Pass one specific appreciation to the person on the left in a simple circle.",
+      "mechanics": [
+        "First person turns to person on their left.",
+        "Say one short specific thing they appreciate about that person.",
+        "Continue around so the same pattern reaches everyone."
+      ],
+      "immutable_facts": [
+        "Direction to left.",
+        "One short appreciation each.",
+        "Luli mini-present joke."
+      ],
+      "character_roles": [
+        "Luli is dry and warm."
+      ],
+      "safety_claim_boundaries": [
+        "No forced emotional disclosure."
+      ],
+      "tone_job": "Short appreciation circle.",
+      "humor_room": "Gift/no wrapping joke.",
+      "cultural_friction": "Avoid wave/power metaphors.",
+      "recurrence_context": "Working recurring family: U NAS"
+    }
+  ]
+}
