@@ -12,10 +12,19 @@ For wellbeing, educational and emotional-support copy, claim strength is part of
 
 For child wellbeing/body-awareness exercises, do not turn a metaphor, visualization or activity into a diagnosis, physiological fact or guaranteed emotional result. Preserve the exercise and its intended function while keeping certainty no stronger than the supported mechanism. If the English source itself uses sweeping motivational certainty, do not amplify it further in Polish and prefer agency/observation wording where literal certainty would become misleading.
 
-## Gate 3: Natural Polish
+## Gate 3: Natural Polish / actual usage
 Text must sound natively authored. Translationese, literal English syntax, unnatural collocations or synthetic marketing language are FIX.
 
+**Technical grammaticality is not a PASS criterion.** Review every sentence for Polish government, syntax, word order, collocation, idiom, semantic selection, context and spoken rhythm. If a Polish speaker would understand the line but would normally rebuild it, mark FIX.
+
+Examples of the defect class:
+- `najpóźniejsza litera w alfabecie` — understandable, but not the natural construction for an initial nearest the alphabet's end;
+- `chwila może być duża albo mała` — English-shaped adjective selection;
+- `przekąska może wygrać dzień` — imported metaphorical verb selection.
+
 For direct child address, mechanical gender workarounds are also FIX. Final prose must not use slash forms, parenthetical gender endings or forms such as `Kapitan(a)`. Restructure naturally so the line works without forcing gender marking.
+
+For recurring child/teen labels, add a **teen embarrassment test**: a label that sounds like therapy, a school workshop, baby language or an adult imitating youth slang is FIX even if semantically accurate.
 
 ## Gate 4: Cultural fit
 References, jokes and examples must make sense to the intended Polish audience. Adapt only when needed. Avoid decorative 'Polishness' and stereotypes.
