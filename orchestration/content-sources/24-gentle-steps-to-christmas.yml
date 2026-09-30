@@ -44,7 +44,7 @@ localization:
     full_book_scaleout_authorized: false
     first_production_calibration_scope: days_1_to_3
     current_voice_master: localization/pl-PL/production/gentle-steps/days01-03/GENTLE_STEPS_PL_VOICE_MASTER_DAYS01_03.md
-    current_voice_master_candidate_sha256: 137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7
+    current_voice_master_candidate_sha256: 204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a
     recurring_label_candidates:
       - RESET
       - AKCJA
