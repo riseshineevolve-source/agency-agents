@@ -1,0 +1,663 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_01",
+  "content_pack_id": "world01_mission_007_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world01_mission_007",
+  "candidate_scope": "published_mission_007_pages_68_75",
+  "source": {
+    "source_id": "world01_paperback_2026_09_18",
+    "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "source_bytes": 14523549,
+    "source_pages": 108,
+    "page_range": [
+      68,
+      75
+    ],
+    "evidence_manifest": "orchestration/content-sources/world01-level7-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world01_mission_007_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_007_node_002",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 68,
+        "evidence_id": "p68_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_002",
+      "sequence": 2,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_007_node_003",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 69,
+        "evidence_id": "p69_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_003",
+      "sequence": 3,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_007_node_004",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 69,
+        "evidence_id": "p69_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_004",
+      "sequence": 4,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_007_node_005",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 69,
+        "evidence_id": "p69_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_005",
+      "sequence": 5,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_007_node_006",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 69,
+        "evidence_id": "p69_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_006",
+      "sequence": 6,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_007_node_007",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 69,
+        "evidence_id": "p69_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_007",
+      "sequence": 7,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_007_node_008",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 70,
+        "evidence_id": "p70_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_008",
+      "sequence": 8,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_007_node_009",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 70,
+        "evidence_id": "p70_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_009",
+      "sequence": 9,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_007_node_010",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 70,
+        "evidence_id": "p70_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_010",
+      "sequence": 10,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_007_node_011",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 70,
+        "evidence_id": "p70_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_011",
+      "sequence": 11,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_007_node_012",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 70,
+        "evidence_id": "p70_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_012",
+      "sequence": 12,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_007_node_013",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 71,
+        "evidence_id": "p71_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_013",
+      "sequence": 13,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_007_node_014",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 71,
+        "evidence_id": "p71_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_014",
+      "sequence": 14,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_007_node_015",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 71,
+        "evidence_id": "p71_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_015",
+      "sequence": 15,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_007_node_016",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 71,
+        "evidence_id": "p71_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_016",
+      "sequence": 16,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_007_node_017",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 71,
+        "evidence_id": "p71_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_017",
+      "sequence": 17,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_007_node_018",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 71,
+        "evidence_id": "p71_b06"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_018",
+      "sequence": 18,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_007_node_019",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 72,
+        "evidence_id": "p72_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_019",
+      "sequence": 19,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_007_node_020",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 72,
+        "evidence_id": "p72_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_020",
+      "sequence": 20,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_007_node_021",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 72,
+        "evidence_id": "p72_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_021",
+      "sequence": 21,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world01_mission_007_node_022",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 73,
+        "evidence_id": "p73_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_022",
+      "sequence": 22,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world01_mission_007_node_023",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 73,
+        "evidence_id": "p73_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_023",
+      "sequence": 23,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world01_mission_007_node_024",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 73,
+        "evidence_id": "p73_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_024",
+      "sequence": 24,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world01_mission_007_node_025",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 74,
+        "evidence_id": "p74_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_025",
+      "sequence": 25,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world01_mission_007_node_026",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 74,
+        "evidence_id": "p74_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_026",
+      "sequence": 26,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_007_node_027",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 74,
+        "evidence_id": "p74_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_007_node_027",
+      "sequence": 27,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 75,
+        "evidence_id": "p75_b01"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_001",
+      "fields": {
+        "level_label": "LEVEL 7:",
+        "title": "The Bankrupt Plant",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "FRIENDSHIP",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Learning that friends prefer water and attention over cold, hard cash.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_002",
+      "fields": {
+        "story_heading": "THE BANKRUPT PLANT",
+        "log_label": "SYSTEM LOG >>",
+        "text": "Saturday afternoon. Nini was crying over a dry, brown plant named Barnaby. It was a messy day, and Mimi was doing her tactical shoulder-taps to stay calm in the chaos."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_003",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "'I'm bankrupt!' she wailed. 'Barnaby is crunchy! He was my best friend, but now he looks like a stick!'"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_004",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi walked in and touched the dry soil."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_005",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Nini, did you water him? Or did you just sing songs to him?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_006",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "I... I forgot the water. I was busy drawing him a portrait."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_007",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Friendship isn't about portraits, Nini. It's like a Piggy Bank. Every time you listen or help, you put a coin IN (Deposit). Every time you ignore a friend, you take a coin OUT (Withdrawal). Barnaby is empty."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_008",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Suddenly, Alio marched into the room, shaking his plastic piggy bank. Clink, clink."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_009",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Don't worry, Nini! I can save him! Eat the money, Barnaby! Be rich and happy!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_010",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio tried to shove a shiny coin into the plant's pot. Dilo swooped in from the hallway like a hawk."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_011",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Actually, Barnaby told me he prefers pizza. I will take this coin and buy him a slice. I'll eat it for him. It's a spiritual transfer."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_012",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Dilo! Give it back! You cannot steal from a plant's charity fund!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_013",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo grumbled, rolling his eyes."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_014",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Fine. No spiritual pizza. You guys have no vision."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_015",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "He tossed the coin back. Alio caught it and clutched it tight to his chest."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_016",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Phew! Thanks, Mammi! I really need this. I'm saving for a helicopter to escape the mutant ants from the sidewalk. Do you think Barnaby can fly a helicopter too? Or should I buy him a tiny parachute?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_017",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini wiped her eyes and hugged Alio."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_018",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "Alio, you are the weirdest, sweetest brother. Barnaby doesn't need a parachute. He needs a drink."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_019",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Quick! Operation: Water Bomb!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_020",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Together, they grabbed the watering can. Water spilled everywhere. Barnaby didn't turn gold, but he stood a little straighter. True friendship is made of small deposits of kindness (and water), not gold coins."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_021",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 019",
+        "heading": "THE BRAIN SECRET (The Magic Ratio)",
+        "science_label": "The Science:",
+        "science": "Friendships aren't built on big parties. They are built on tiny moments. Scientists found a 'Magic Number': It takes 5 nice things to fix 1 mean thing. Negativity is heavy!",
+        "in_story_label": "In The Story:",
+        "in_story": "Nini drew a portrait (nice), but she forgot to water Barnaby for days (mean/neglect). The 'Withdrawals' were bigger than the 'Deposits,' so the friendship dried up."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_022",
+      "fields": {
+        "file_label": "// FILE: 020",
+        "heading": "THE TOOL ('The Question Ball')",
+        "science_label": "The Science:",
+        "science": "Conversation is like a game of catch. If you hold the ball (talk only about yourself), the game stops. You have to throw it back!",
+        "in_story_label": "In The Story:",
+        "in_story": "Nini was busy 'singing and drawing' (doing her own thing) instead of looking at what Barnaby actually needed. To be a good friend, you have to ask: 'What do YOU need right now?'"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_023",
+      "fields": {
+        "file_label": "// FILE: 021",
+        "heading": "THE GLITCH ('My friend is mean to me')",
+        "science_label": "The Science:",
+        "science": "Sometimes a friend snaps. Maybe their internal Piggy Bank is empty because they are tired or hungry. Be patient.",
+        "in_story_label": "In The Story:",
+        "in_story": "If Barnaby doesn't grow leaves tomorrow, it doesn't mean he hates Nini. It just means he needs time to refill his tank. Be patient with friends who are 'running on empty.'"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_024",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio tried to make a deposit with money, but Nini explained that time/care is better.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Have you put a coin IN or taken a coin OUT of a friend's bank today? Who is a friend that always makes you feel 'rich'?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_025",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio and Nini worked together to water the plant.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Make 3 'Deposits' today (A hug, a compliment, or helping without being asked). Watch how the mood in the house changes!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_026",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Did you know that ignoring someone hurts the brain just like a pinched finger? Scientists found that 'social pain' (feeling lonely or ignored) lights up the same part of the brain as physical pain. That is why Nini felt so bad about forgetting Barnaby, and why putting 'deposits' of attention makes us feel physically good!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_007_node_027",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“MAKING A DEPOSIT”",
+        "meaning_label": "MEANING:",
+        "meaning": "I am going to do one small, kind thing (a hug, sharing a toy) to fill up someone's emotional bank.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Ask the other person: 'What do you need right now?'",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Why are you fighting with your sister again?',",
+        "teach_label": "teach them to say:",
+        "teach_to_say": "'It looks like the Emotional Bank is empty! Let's make a deposit.'"
+      }
+    }
+  ]
+}
