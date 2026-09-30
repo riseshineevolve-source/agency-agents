@@ -1,102 +1,118 @@
 {
   "format": "rse-reauthor-review-bundle-v1",
   "product": "gentle-steps-christmas",
-  "scope": "days_04_07_week1_close",
-  "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+  "scope": "days_04_07_v3_book_register_breath_detail",
+  "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
   "reviews": [
     {
       "stage": "polish_usage_idiom_context",
       "reviewer": "role:polish_usage_idiom_context",
       "status": "PASS",
-      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
       "notes": [
-        "Grammar, government, syntax, collocations, idiom, semantic selection, context and read-aloud rhythm checked across all 12 units.",
-        "English-shaped metaphors were replaced with ordinary Polish constructions.",
-        "Character jokes were checked as Polish-first punchlines.",
-        "Second read-aloud pass removed small list-governance, referent and collocation roughness before owner review."
+        "Grammar, syntax, collocation, idiom, semantic selection and read-aloud naturalness rechecked after the full-sentence rewrite."
+      ]
+    },
+    {
+      "stage": "polish_book_register",
+      "reviewer": "role:polish_book_register",
+      "status": "PASS",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
+      "notes": [
+        "Instructions now use complete book sentences instead of chatty or telegraphic shorthand.",
+        "Colloquial language is concentrated in Happy Makers comments rather than the instructional voice."
+      ]
+    },
+    {
+      "stage": "breath_reset_reauthoring",
+      "reviewer": "role:breath_reset_reauthoring",
+      "status": "PASS",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
+      "notes": [
+        "Breath/quiet units are framed as ordinary pauses from rushing, tasks or mental noise rather than mindfulness/wellness exercises.",
+        "Source breathing positions, counts, timing and consent remain intact."
+      ]
+    },
+    {
+      "stage": "activity_instruction_completeness",
+      "reviewer": "role:activity_instruction_completeness",
+      "status": "PASS",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
+      "notes": [
+        "All source mechanics were checked explicitly: who starts, how they are chosen, turn direction/order, what each next person does, counts/timing, reset rules, round structure, final/advanced rounds and two-person variants.",
+        "Day 5 and Day 6 were expanded specifically to remove ambiguity created by earlier compression."
       ]
     },
     {
       "stage": "polish_family_language_edit",
       "reviewer": "role:polish_family_language_edit",
       "status": "PASS",
-      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
       "notes": [
-        "Instructions use spoken contemporary Polish and short family-readable sentences.",
-        "No therapy/workshop register in reader copy."
+        "Polish remains contemporary and readable without drifting into chat transcript language."
       ]
     },
     {
       "stage": "humor_character_voice",
       "reviewer": "role:humor_character_voice",
       "status": "PASS",
-      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
       "notes": [
-        "Luli dry/precise; Mimi practical; Dilo tech/football; Alio team/chaos; Nini physical/playful.",
-        "Jokes use Polish contexts such as VAR and do not depend on literal English punchlines."
+        "Dilo/Alio/Luli/Nini/Mimi remain distinct; humor stays the most conversational layer."
       ]
     },
     {
       "stage": "kid_parent_ear_review",
       "reviewer": "role:kid_parent_ear_review",
       "status": "PASS",
-      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
       "notes": [
-        "RESET / AKCJA / U NAS remain teen-safe working labels.",
-        "No forced youth slang or baby language.",
-        "WF/school/digital references remain understandable without chasing trends."
+        "No forced teen slang; recurring labels remain teen-safe working candidates."
       ]
     },
     {
       "stage": "anti_coaching_translationese",
       "reviewer": "role:anti_coaching_translationese",
       "status": "PASS",
-      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
       "notes": [
-        "Removed claims about connection, trust, harmony, peace, shared energy and home safety where they functioned as English motivational framing.",
-        "Activities remain concrete and optional where appropriate."
+        "Abstract mindfulness/coaching framing remains removed; concrete family actions lead the copy."
       ]
     },
     {
       "stage": "bilingual_fidelity_backcheck",
       "reviewer": "role:bilingual_fidelity_backcheck",
       "status": "PASS",
-      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
       "notes": [
-        "Day 4 longest-hair starter, anticlockwise voice round and next-sentence handoff preserved.",
-        "Day 5 all clock rounds, reverse count and advanced no-order rule preserved.",
-        "Day 6 10-move and 15-move targets plus age-order leadership preserved.",
-        "Day 7 smile chain, gesture rounds and two-person 30-second timings preserved.",
-        "No source claim strengthened."
+        "All Day 4–7 mechanics were rechecked against source after expansion; no starter, direction, count, reset, final round or two-person variant was lost."
       ]
     },
     {
       "stage": "logic_continuity",
       "reviewer": "role:logic_continuity",
       "status": "PASS",
-      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
       "notes": [
-        "Days 4–7 preserve RESET / AKCJA / U NAS rhythm.",
-        "Week 1 character assignments and activity order remain consistent."
+        "Week 1 progression and RESET / AKCJA / U NAS structure remain consistent."
       ]
     },
     {
       "stage": "proofread",
       "reviewer": "role:proofread",
       "status": "PASS",
-      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
       "notes": [
-        "Polish punctuation, inflection, quotation marks and diacritics checked.",
-        "No mechanical gender notation."
+        "Full Polish grammar, punctuation and inflection rechecked after instruction expansion."
       ]
     },
     {
       "stage": "surface_qa",
       "reviewer": "role:surface_qa",
       "status": "DEFERRED_WEEK1_OWNER_GATE",
-      "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+      "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
       "notes": [
-        "Exact Polish overlay/render is deferred until whole Week 1 voice/label owner review.",
+        "Exact Polish layout/render remains deferred until whole Week 1 voice/register/labels are owner-reviewed.",
         "No production fit PASS claimed."
       ]
     }
