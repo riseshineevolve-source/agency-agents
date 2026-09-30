@@ -1250,3 +1250,31 @@ Owner starting-point lock:
 - SHA-256: `2339b408510b3ed01711864cc89fd419f771edfa95225b69e10de03d2ec3a30f`
 - all subsequent Detective corrections must start from this graphic-novel master; do not rebuild from older compact/technical proofs.
 - reverse Hint/Solution orientation is NOT locked yet; keep it unchanged until explicit owner decision.**
+
+
+## Revenue-ASAP execution-stream reconciliation — 2026-09-30
+
+Owner operating mode is now **FINISH -> PUBLISH -> SELL**.
+
+Canonical execution-chat map:
+`orchestration/brain/RSE_EXECUTION_CHAT_MAP.md`
+
+Active central finish lanes:
+1. Detective Academy EN -> KDP
+2. Optical Animals -> KDP
+3. 24 Gentle Steps dual seasonal lane: PL paperback/ebook proof + EN/PL Advent app
+
+Detective Academy PL begins after explicit EN freeze.
+
+Dedicated project execution bootstraps:
+- Optical: `orchestration/bootstrap/OPTICAL_ANIMALS_REPO_BOOTSTRAP.md`
+- Gentle Steps: `orchestration/bootstrap/GENTLE_STEPS_EXECUTION_BOOTSTRAP.md`
+- World 01: `orchestration/bootstrap/WORLD01_EXECUTION_BOOTSTRAP.md`
+- Polish Localization: `orchestration/bootstrap/POLISH_LOCALIZATION_EXECUTION_BOOTSTRAP.md`
+
+World 01/02 and Polish Localization remain delegated/support lanes and may continue without blocking the Gentle Steps seasonal deadline.
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-09-30-revenue-asap-project-stream-reconciliation.md`
+
+Central Orchestrator remains the sole owner of cross-project sequencing and canonical Brain changes. Quick Desk stays conversation-first. Dedicated execution chats execute and checkpoint but do not mutate central priorities.
