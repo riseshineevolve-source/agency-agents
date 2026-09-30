@@ -19,6 +19,12 @@ on:
       - 'orchestration/content-sources/world01-level2-page-evidence.json'
       - 'orchestration/content-sources/world01-level3-page-evidence.json'
       - 'orchestration/content-sources/world01-level4-page-evidence.json'
+      - 'orchestration/content-sources/world01-level5-page-evidence.json'
+      - 'orchestration/content-sources/world01-level6-page-evidence.json'
+      - 'orchestration/content-sources/world01-level7-page-evidence.json'
+      - 'orchestration/content-sources/world01-level8-page-evidence.json'
+      - 'orchestration/content-sources/world01-level9-page-evidence.json'
+      - 'orchestration/content-sources/world01-level10-page-evidence.json'
       - '.github/workflows/interactive-book-contract.yml'
   pull_request:
     paths:
@@ -38,6 +44,12 @@ on:
       - 'orchestration/content-sources/world01-level2-page-evidence.json'
       - 'orchestration/content-sources/world01-level3-page-evidence.json'
       - 'orchestration/content-sources/world01-level4-page-evidence.json'
+      - 'orchestration/content-sources/world01-level5-page-evidence.json'
+      - 'orchestration/content-sources/world01-level6-page-evidence.json'
+      - 'orchestration/content-sources/world01-level7-page-evidence.json'
+      - 'orchestration/content-sources/world01-level8-page-evidence.json'
+      - 'orchestration/content-sources/world01-level9-page-evidence.json'
+      - 'orchestration/content-sources/world01-level10-page-evidence.json'
 
 permissions:
   contents: read
@@ -67,12 +79,24 @@ jobs:
           python scripts/build-world01-graph.py 2
           python scripts/build-world01-graph.py 3
           python scripts/build-world01-graph.py 4
-          git diff --exit-code -- orchestration/content-packs/world01/level1.en.candidate.json orchestration/content-packs/world01/level2.en.candidate.json orchestration/content-packs/world01/level3.en.candidate.json orchestration/content-packs/world01/level4.en.candidate.json
+          python scripts/build-world01-graph.py 5
+          python scripts/build-world01-graph.py 6
+          python scripts/build-world01-graph.py 7
+          python scripts/build-world01-graph.py 8
+          python scripts/build-world01-graph.py 9
+          python scripts/build-world01-graph.py 10
+          git diff --exit-code -- orchestration/content-packs/world01/level{1,2,3,4,5,6,7,8,9,10}.en.candidate.json
       - name: Validate active source graphs
         run: |
           python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level1.en.candidate.json
           python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level2.en.candidate.json
           python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level3.en.candidate.json
           python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level4.en.candidate.json
+          python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level5.en.candidate.json
+          python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level6.en.candidate.json
+          python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level7.en.candidate.json
+          python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level8.en.candidate.json
+          python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level9.en.candidate.json
+          python scripts/validate-interactive-book-graph.py orchestration/content-packs/world01/level10.en.candidate.json
       - name: Run active graph regression suite
         run: python scripts/test-interactive-book-graph.py
