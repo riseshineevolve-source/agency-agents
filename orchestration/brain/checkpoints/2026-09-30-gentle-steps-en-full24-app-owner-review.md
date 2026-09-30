@@ -165,3 +165,40 @@ Owner visual review of the full English direction:
 
 Do not reopen English content unless the owner identifies a concrete source defect.
 Do not resume Polish content inside this branch.
+
+
+## Owner visual refinement — additional Happy-Makers references
+
+Owner supplied additional Happy-Makers character/reference artwork after the first full EN build.
+
+Visual hierarchy is now locked for the next polish slice:
+
+1. PRIMARY / product-defining:
+   - the original elegant Christmas family scene from the Gentle Steps cover/calendar;
+   - modern premium holiday atmosphere;
+   - purple + gold + cream;
+   - restrained burgundy text/accent where it harmonizes with the printed book;
+   - elegant/formal festive styling, not generic sporty-purple branding.
+
+2. SECONDARY / character cameos:
+   - Mimi, Luli, Dilo, Alio and Nini may appear as small portraits/cameos beside their own notes;
+   - character art must support the reading experience, not turn the app into a character catalogue.
+
+3. CASUAL / SPORTY PURPLE ART:
+   - treat as supplementary reference or future motion/animation material;
+   - do not let casual tracksuits/hoodies define the Gentle Steps Christmas product surface.
+
+4. PRODUCT CAST BOUNDARY:
+   - Gentle Steps remains the five-character Happy-Makers family represented in the final book;
+   - Grandma Bibi is not to be introduced into this product without an explicit source/product change.
+
+Repo asset inventory confirmed on the current app branch:
+- `assets/images/Alio.png`
+- `assets/images/Dilo.png`
+- `assets/images/Luli.png`
+- `assets/images/Mimi.png`
+- `assets/images/Nini.png`
+- `assets/images/Happy Makers floating box.png`
+- `assets/images/24 Gentle Steps to Christmas cover.jpg`
+
+Next visual slice after owner review should make the elegant cover-family scene visibly present on mobile rather than relying only on abstract purple/gold surfaces.
