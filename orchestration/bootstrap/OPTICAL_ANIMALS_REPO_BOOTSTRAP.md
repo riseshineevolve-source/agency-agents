@@ -1,64 +1,29 @@
-# Optical Animals Repo Bootstrap
+# Optical Animals Execution Bootstrap
 
-Target repository: `riseshineevolve-source/optical-animals-book-creator`
-Status: pending repository creation
+Role: dedicated execution owner for Optical Animals KDP closing sprint.
+GitHub/durable source overrides chat memory.
+Do not mutate central RSE priorities.
 
-## Repository purpose
-Code and manifests for curation, assembly, replacement, QA and KDP export of the Optical Animals book. Approved source artwork may be stored only when repository size/licensing/workflow makes that appropriate; otherwise keep artwork external and track it by stable manifest references.
+## Current owner lock
 
-## Required initial structure
+The current **Final 20 coloring artworks are closed as the working final art set** unless a concrete release blocker is proven.
+Do NOT spend time generating replacement animals or re-ranking the art.
 
-```text
-/
-  PROJECT_BRIEF.md
-  AGENTS.md
-  CHECKPOINT.yml
-  README.md
-  pyproject.toml or requirements.txt
-  src/
-    optical_animals/
-      manifest.py
-      validation.py
-      assembly.py
-      preflight.py
-  manifests/
-    illustrations.yml
-  tests/
-    test_manifest.py
-    test_roster.py
-    test_preflight.py
-  docs/
-    STYLE_LOCK.md
-    KDP_SPEC.md
-  .github/workflows/
-    quality.yml
-```
+The immediate blocker is exact-identity seek-and-find production.
 
-## Initial automation goals
+## Required next slice
 
-1. Validate exactly one canonical record per candidate illustration.
-2. Enforce statuses: `READY`, `SMALL_FIX`, `REDO`, `HOLD`, `FINAL`.
-3. Detect duplicate species in final roster.
-4. Block final export unless exactly 20 unique final animals are owner-approved.
-5. Preserve stable IDs so swapping one illustration never changes unrelated page identities.
-6. Assemble book from manifest order.
-7. Run deterministic KDP preflight on trim size, page count, image resolution and missing assets.
-8. Produce derived preview/PDF artifacts without changing source artwork.
+1. Preserve every Final 20 hero artwork byte-for-byte.
+2. Produce/review one subject mask per hero.
+3. Produce exact-identity transparent token from the original hero pixels only.
+4. Verify token identity deterministically.
+5. Generate:
+   - 20-token contact sheet;
+   - 5 group seek-and-find pages (4 animals each);
+   - GRAND all-20 challenge;
+   - answer previews/maps.
+6. Mark each mask/token PASS / NEEDS FIX.
+7. Stop at owner visual/fairness review if manual corrections remain.
+8. After approval: assemble proof -> KDP preflight -> physical proof -> publication gate.
 
-## Owner gates
-- final 20 roster,
-- replacement of an already-approved masterpiece,
-- major style-lock change,
-- final KDP publication.
-
-## First implementation package
-Once repository exists:
-- copy current local code without restructuring for aesthetics,
-- add PROJECT_BRIEF/AGENTS/CHECKPOINT,
-- inventory current scripts and assets,
-- create canonical `illustrations.yml`,
-- wrap existing assembly behavior in tests before changing it,
-- then automate curation/preflight incrementally.
-
-## Codex budget rule
-Do not use Codex to visually re-evaluate every image repeatedly. Use deterministic manifest/preflight work in code; use visual specialists only for candidates explicitly flagged SMALL_FIX/REDO or at the final roster gate.
+Never use AI-generated lookalike/redrawn animals as final search tokens.
