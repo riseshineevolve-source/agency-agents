@@ -3,13 +3,14 @@
 Status: **WEEK 1 COMPLETE / OWNER REVIEW GATE / NO SURFACE LOCK YET**  
 Mode: `native_reauthor_from_function`  
 Working recurring labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Days 1–3 candidate SHA-256: `71b496f78d70c1bd01b52d5a4b3f22dc004877c3f6d85e2082596e1f32260b24`  
-Days 4–7 candidate SHA-256: `31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2`
+Days 1–3 candidate SHA-256: `0325f1353e0a1ead9024d50401e9489c4069f2cb01fa091b79f6b3621d5d4b2d`  
+Days 4–7 candidate SHA-256: `08878be968b4ff2bf0412cc21ebf9888b07f3a85bb1c3eb9eb736f09f98e1439`
 
-Owner-approved direction now includes three additional constraints:
-- natural Polish must remain **book language**, not chat transcript language;
-- breathing/quiet activities must feel concrete and everyday, not like imported mindfulness or corporate wellbeing;
-- activity instructions must preserve enough source detail that a family can perform the game correctly from Polish alone.
+Current Week 1 standard:
+- native Polish, but **book Polish rather than chatty spoken shorthand**;
+- breath/quiet pages framed through ordinary life, rest and a short break from the next task rather than imported mindfulness/wellness vocabulary;
+- full enough instructions that a family can perform every source activity correctly from the Polish page alone;
+- Happy Makers comments carry the strongest conversational humor.
 
 ---
 
@@ -100,7 +101,7 @@ Po kolei dokończcie zdanie:
 
 „W naszej rodzinie lubię to, że…”
 
-Wystarczy jedna rzecz. Może to być coś ważnego albo zwykły drobiazg, który po prostu lubicie w swoim rodzinnym życiu.
+Wystarczy jedna rzecz. Może to być coś ważnego albo zupełnie codziennego.
 
 Luli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy.
 
@@ -144,9 +145,9 @@ Alio: Kto zastygnie ostatni, zwykle ma najdziwniejszą pozę. I właśnie dlateg
 
 U NAS — CO DZIŚ BYŁO FAJNE?
 
-Każdy wybiera jeden moment z dzisiejszego dnia, który był po prostu przyjemny, i krótko o nim opowiada.
+Każdy wybiera jeden przyjemny moment z dzisiejszego dnia i krótko o nim opowiada.
 
-Nie musi to być nic ważnego ani wyjątkowego. Wystarczy jedna zwyczajna rzecz, którą dobrze wspominacie.
+Nie musi to być nic ważnego ani wyjątkowego. Wystarczy zwyczajna chwila, którą dobrze wspominacie.
 
 Mimi: Jeśli najlepsze były frytki, to frytki. Nie mam dalszych pytań.
 
@@ -160,7 +161,7 @@ Usiądźcie blisko siebie i wybierzcie małe źródło światła — lampkę alb
 
 Przez chwilę patrzcie tylko na światło. Zobaczcie, jak się zmienia, drga albo odbija na przedmiotach wokół.
 
-Oddychajcie swobodnie i nie próbujcie niczego z tego wyciągać. Przez chwilę wystarczy po prostu patrzeć.
+Oddychajcie swobodnie. Nie trzeba niczego analizować — przez chwilę wystarczy po prostu patrzeć.
 
 Luli: Dziś niczego nie analizuję. Sama jestem zaskoczona.
 
@@ -262,7 +263,7 @@ Dłonie połóżcie na kolanach albo — jeśli wszyscy mają na to ochotę — 
 
 Na początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę zwolnić i przez chwilę oddychać w podobnym tempie.
 
-Nie trzeba liczyć ani idealnie się zgrywać. Jeśli rytm się rozjedzie, nic nie szkodzi.
+Nie trzeba liczyć ani idealnie dopasowywać oddechu. Jeśli po chwili każdy znów oddycha w swoim tempie, nic nie szkodzi.
 
 Alio: Drużyna działa, choć nikt nie ustalał planu. Trochę podejrzane.
 
@@ -303,7 +304,7 @@ To może być coś bardzo prostego:
 
 Nie szukajcie mądrych sentencji. Wybierzcie coś, co naprawdę dobrze wam wtedy usłyszeć.
 
-Luli: Nie musi brzmieć mądrze. Ma po prostu działać u was.
+Luli: Nie musi brzmieć mądrze. Wystarczy, że naprawdę chcecie to wtedy usłyszeć.
 
 ---
 
@@ -315,7 +316,7 @@ Usiądźcie albo połóżcie się obok siebie i ułóżcie się tak, żeby było
 
 Przez chwilę pozwólcie rękom, nogom i plecom naprawdę oprzeć się na podłodze. Nie trzeba niczego napinać ani utrzymywać w określonej pozycji.
 
-Zauważcie, w których miejscach ciało dotyka podłogi, i zostawcie na niej jego ciężar.
+Zwróćcie uwagę, w których miejscach ciało styka się z podłogą. Przez chwilę pozwólcie podłodze przejąć jego ciężar.
 
 Dilo: Dziś trenuję z grawitacją. Ona robi większość pracy.
 
@@ -355,11 +356,4 @@ Nini: Skoro sami się nie chwalą, ktoś musi. Dziś padło na nas.
 
 ---
 
-## Week 1 gates still open
-
-- recurring labels **RESET / AKCJA / U NAS** remain candidates;
-- final Polish title remains open;
-- exact layout/render fit remains open;
-- final full-proof approval remains open.
-
-Days 8–24 remain blocked until the Week 1 owner review confirms this register/detail/breathing direction.
+Days 8–24 remain blocked until the Week 1 owner review confirms this register/detail/breathing direction. Recurring labels and final title remain open.
