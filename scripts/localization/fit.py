@@ -7,9 +7,17 @@ from .contracts import require
 
 
 def fit_request(spec):
+    reference_only = spec.get("copy_authority") == "REFERENCE_ONLY"
+    requirements = ["Use actual editable/rendering source", "Preserve body font size and leading",
+                    "Review all pages at print size", "No clipping, collisions or missing Polish diacritics",
+                    "No proxy-based approval"]
+    if reference_only:
+        requirements.append("Reference-only copy may validate geometry but can never authorize production Polish copy")
     return {"format": "rse-real-template-fit-request-v1", "product": spec["product"],
-            "status": "BLOCKED_REAL_TEMPLATE", "spec_sha256": digest(spec), "pages": spec["pages"],
-            "requirements": ["Use actual editable/rendering source", "Preserve body font size and leading", "Review all pages at print size", "No clipping, collisions or missing Polish diacritics", "No proxy-based approval"]}
+            "status": "REFERENCE_ONLY_REAL_TEMPLATE" if reference_only else "BLOCKED_REAL_TEMPLATE",
+            "copy_authority": spec.get("copy_authority", "PRODUCTION_CANDIDATE"),
+            "approval_scope": spec.get("approval_scope", "production_candidate"),
+            "spec_sha256": digest(spec), "pages": spec["pages"], "requirements": requirements}
 
 
 def check_evidence(spec, evidence, base):
@@ -55,4 +63,12 @@ def check_evidence(spec, evidence, base):
         for field in ("body_font_pt", "body_leading_pt"):
             original, rendered = page.get("source_" + field), page.get("rendered_" + field)
             check(isinstance(original, (int, float)) and original > 0 and original == rendered, f"Page {number}: body typography changed or unmeasured ({field})")
-    return {"format": "rse-fit-proof-v1", "product": spec["product"], "status": "BLOCK" if issues else "PASS", "issues": sorted(set(issues)), "spec_sha256": digest(spec), "limits": "PASS relies on the named reviewer's real-template and print-scale attestations; hashes bind artifacts, not visual truth."}
+    reference_only = spec.get("copy_authority") == "REFERENCE_ONLY"
+    status = "BLOCK" if issues else ("REFERENCE_PASS" if reference_only else "PASS")
+    return {"format": "rse-fit-proof-v1", "product": spec["product"], "status": status,
+            "copy_authority": spec.get("copy_authority", "PRODUCTION_CANDIDATE"),
+            "approval_scope": spec.get("approval_scope", "production_candidate"),
+            "issues": sorted(set(issues)), "spec_sha256": digest(spec),
+            "limits": ("REFERENCE_PASS validates only the bound historical geometry evidence and cannot approve production copy."
+                       if reference_only else
+                       "PASS relies on the named reviewer's real-template and print-scale attestations; hashes bind artifacts, not visual truth.")}
