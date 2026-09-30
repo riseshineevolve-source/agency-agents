@@ -5,9 +5,9 @@ Source: owner-uploaded English paperback, 104 pages
 Source SHA-256: `1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7`  
 Mode: `native_reauthor_from_function`  
 Candidate recurring labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Candidate SHA-256: `204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a`
+Candidate SHA-256: `3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce`
 
-V2 incorporates owner feedback that “less translated” is not enough. Polish grammar, syntax, collocations, idiom, sentence construction, semantic selection, real-life context and read-aloud naturalness are now a separate mandatory gate.
+V2 incorporates owner feedback that “less translated” is not enough. Polish grammar, syntax, collocations, idiom, sentence construction, semantic selection, real-life context and read-aloud naturalness are a separate mandatory gate.
 
 ---
 
@@ -69,7 +69,7 @@ Przez minutę spróbujcie oddychać w takim rytmie:
 wdech — liczymy do 4,
 wydech — do 6.
 
-Bez forsowania. Jeśli komuś wygodniej oddychać normalnie, zostaje przy swoim rytmie.
+Bez forsowania. Jeśli komuś ten rytm nie pasuje, może oddychać po swojemu.
 
 Mimi: To chyba jedyna rzecz w grudniu, której nie zamierzam przyspieszać.
 
@@ -97,7 +97,7 @@ Dilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamy
 
 U NAS — CO LUBIMY W NASZEJ RODZINIE
 
-Dziś bez wielkich słów. Mówimy o tym, co po prostu lubimy w swojej rodzinie.
+Dziś bez wielkich słów. Po prostu: co lubicie w swojej rodzinie?
 
 Po kolei dokończcie zdanie:
 
@@ -117,7 +117,7 @@ Na minutę wyłączamy tryb „muszę coś ogarnąć”.
 
 Usiądźcie albo stańcie blisko siebie.
 
-Jedną dłoń połóżcie na swojej klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.
+Połóżcie jedną dłoń na klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.
 
 Przez minutę oddychajcie spokojnie.
 
@@ -167,7 +167,7 @@ The following defect types must not return:
 - unnatural alphabet-order phrasing such as `najpóźniejsza litera w alfabecie`;
 - describing a moment as `duża / mała` where Polish distinguishes importance from an ordinary detail;
 - English-style metaphorical verb selection such as a snack `winning the day`;
-- grammatical-but-less-native phrasing when ordinary Polish has a simpler form, e.g. `będzie mieć urodziny` instead of `będzie obchodzić urodziny`;
+- grammatical-but-less-native phrasing when ordinary Polish has a simpler construction;
 - translated Happy Makers punchlines that are understandable but not born in Polish;
 - recurring labels that sound therapeutic, childish, school-workshop-like or like an adult imitating teen slang.
 
