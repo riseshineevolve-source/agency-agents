@@ -1,0 +1,87 @@
+{
+  "format": "rse-native-pl-candidate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_04_07_week1_close",
+  "brief_sha256": "3f61f1e4d23e7fe2616c2ff9b29f0e3e89f18f8e2b313df27bdc6b10d520344b",
+  "authoring_basis": "functional_brief_only",
+  "recurring_label_candidates": {
+    "pause": "RESET",
+    "play": "AKCJA",
+    "connection": "U NAS",
+    "lock_state": "OWNER_GATE"
+  },
+  "units": [
+    {
+      "id": "GS.D04.PAUSE",
+      "section_label": "RESET",
+      "title": "JEDEN PUNKT",
+      "draft_pl": "DZIEŃ 4\n\nRESET — JEDEN PUNKT\n\nDziś patrzymy na jedną rzecz naraz. Rzadki luksus.\n\nUsiądźcie blisko siebie i wybierzcie małe źródło światła — lampkę albo bezpiecznie ustawioną świeczkę.\n\nPrzez chwilę patrzcie tylko na światło. Zobaczcie, jak drga, zmienia się albo odbija.\n\nOddychajcie spokojnie. Nic więcej.\n\nLuli: Dziś niczego nie analizuję. Sama jestem zaskoczona."
+    },
+    {
+      "id": "GS.D04.PLAY",
+      "section_label": "AKCJA",
+      "title": "GŁOSY W OBIEGU",
+      "draft_pl": "DZIEŃ 4\n\nAKCJA — GŁOSY W OBIEGU\n\nJedno zdanie. Cała kolekcja głosów.\n\nZaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.\n\nPotem idziecie przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale zupełnie innym głosem: robota, prezentera wiadomości, kaczki, śpiewaka operowego, kosmity, superbohatera — albo czymś, co właśnie wymyślicie.\n\nW jednej rundzie głosy się nie powtarzają.\n\nGdy koło się zamknie, osoba po prawej stronie tej, która zaczynała, wymyśla nowe zdanie. I jedziecie jeszcze raz.\n\nMimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie."
+    },
+    {
+      "id": "GS.D04.TALK",
+      "section_label": "U NAS",
+      "title": "JAKI KOLOR MIAŁ DZIŚ DZIEŃ?",
+      "draft_pl": "DZIEŃ 4\n\nU NAS — JAKI KOLOR MIAŁ DZIŚ DZIEŃ?\n\nKażdy wybiera jeden kolor, który pasuje do jego dzisiejszego dnia, i mówi go na głos.\n\nNie trzeba niczego wyjaśniać.\n\nA jeśli takiego koloru jeszcze nie ma — możecie go właśnie wymyślić.\n\nDilo: Nie istnieje? Już istnieje. Dodałem do systemu."
+    },
+    {
+      "id": "GS.D05.PAUSE",
+      "section_label": "RESET",
+      "title": "BLISKO, DALEKO, PRAWIE NIC",
+      "draft_pl": "DZIEŃ 5\n\nRESET — BLISKO, DALEKO, PRAWIE NIC\n\nZamknijcie oczy na minutę.\n\nNajpierw wyłapcie jakiś dźwięk bardzo blisko.\n\nPotem taki, który dochodzi z daleka.\n\nNa końcu poszukajcie czegoś ledwo słyszalnego.\n\nNie musicie zgadywać, skąd dochodzą. Po prostu słuchajcie.\n\nDilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem."
+    },
+    {
+      "id": "GS.D05.PLAY",
+      "section_label": "AKCJA",
+      "title": "12 BEZ POMYŁKI",
+      "draft_pl": "DZIEŃ 5\n\nAKCJA — 12 BEZ POMYŁKI\n\nUsiądźcie w kółku.\n\nZaczyna najwyższa osoba: mówi „jeden” i wskazuje kogoś. Wskazana osoba mówi „dwa” i wskazuje kolejną. Tak gracie aż do 12.\n\nPomyłka? Wracacie do jedynki.\n\nUdało się? Spróbujcie jeszcze raz, tylko szybciej. Potem od 12 do 1.\n\nJeśli jest za łatwo, ustalcie wyższą liczbę.\n\nFinał: spróbujcie wspólnie doliczyć do 12 — albo wyżej — bez ustalania, kto zaczyna i kto mówi następną liczbę. Jeśli dwie osoby odezwą się jednocześnie, zaczynacie od początku.\n\nW dwie osoby też działa.\n\nDilo: Tu nie ma VAR-u. Pomyłka i wracamy do jedynki."
+    },
+    {
+      "id": "GS.D05.TALK",
+      "section_label": "U NAS",
+      "title": "DŹWIĘK DOMU",
+      "draft_pl": "DZIEŃ 5\n\nU NAS — DŹWIĘK DOMU\n\nKażdy podaje jeden dźwięk, który lubi słyszeć w domu.\n\nMoże być zupełnie zwyczajny: czyjś śmiech, klucz w zamku, pies biegnący po podłodze, czajnik, muzyka z drugiego pokoju.\n\nPo jednym dźwięku.\n\nDilo: Piknięcie mikrofalówki i otwierana lodówka są wysoko w rankingu. Pytania?"
+    },
+    {
+      "id": "GS.D06.PAUSE",
+      "section_label": "RESET",
+      "title": "WSPÓLNY RYTM",
+      "draft_pl": "DZIEŃ 6\n\nRESET — WSPÓLNY RYTM\n\nUsiądźcie luźno w kółku.\n\nDłonie połóżcie na kolanach albo — jeśli wszyscy chcą — lekko złapcie się za ręce.\n\nPrzez chwilę spróbujcie oddychać w podobnym tempie.\n\nNie musicie robić tego idealnie. Wystarczy, że nikt się nie spieszy.\n\nAlio: Pierwszy raz dziś drużyna działa bez narady. Nie przyzwyczajajcie się."
+    },
+    {
+      "id": "GS.D06.PLAY",
+      "section_label": "AKCJA",
+      "title": "RÓWNO!",
+      "draft_pl": "DZIEŃ 6\n\nAKCJA — RÓWNO!\n\nStańcie ramię w ramię w jednym rzędzie.\n\nRunda 1: prowadzi najmłodsza osoba i sama też bierze udział. Woła: „lekko w przód”, „w tył”, „w lewo” albo „w prawo”. Wszyscy ruszają się razem. Spróbujcie zrobić co najmniej 10 ruchów bez pomyłki.\n\nRunda 2: prowadzi kolejna osoba według wieku. Tym razem robicie małe kroki: do przodu, do tyłu, w prawo albo w lewo. Cel: co najmniej 15 ruchów bez pomyłki.\n\nFinał: prowadzi najstarsza osoba. Może mieszać wychylenia i kroki, pojedyncze albo po kilka, wolniej lub szybciej.\n\nNie wychylajcie się tak mocno, żeby tracić równowagę.\n\nLuli: Efektowne wywrotki zostawiamy na później."
+    },
+    {
+      "id": "GS.D06.TALK",
+      "section_label": "U NAS",
+      "title": "CO DOBRZE USŁYSZEĆ",
+      "draft_pl": "DZIEŃ 6\n\nU NAS — CO DOBRZE USŁYSZEĆ\n\nKażdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy jest zdenerwowany albo ma już wszystkiego dość.\n\nTo może być coś prostego:\n„Jestem obok”.\n„Mamy czas”.\n„Potrzebujesz chwili?”.\n\nNie szukamy złotych myśli.\n\nLuli: Nie musi brzmieć mądrze. Ma być czymś, co naprawdę chcesz wtedy usłyszeć."
+    },
+    {
+      "id": "GS.D07.PAUSE",
+      "section_label": "RESET",
+      "title": "PODŁOGA ROBI ROBOTĘ",
+      "draft_pl": "DZIEŃ 7\n\nRESET — PODŁOGA ROBI ROBOTĘ\n\nUsiądźcie albo połóżcie się obok siebie.\n\nRozluźnijcie ciało i przez chwilę niczego nie trzymajcie na siłę.\n\nPoczujcie po prostu, jak ciężar ciała opiera się na podłodze.\n\nTyle. Podłoga naprawdę da sobie radę.\n\nDilo: Dziś ćwiczę z grawitacją. Ona robi większość."
+    },
+    {
+      "id": "GS.D07.PLAY",
+      "section_label": "AKCJA",
+      "title": "REAKCJA ŁAŃCUCHOWA",
+      "draft_pl": "DZIEŃ 7\n\nAKCJA — REAKCJA ŁAŃCUCHOWA\n\nStańcie albo usiądźcie w kółku.\n\nZaczyna osoba z najkrótszymi włosami. Wybiera kogoś i posyła tej osobie przesadnie szeroki uśmiech.\n\nTa osoba przekazuje uśmiech dalej. Ma dotrzeć do każdego i na końcu wrócić do osoby, która zaczynała.\n\nKolejne rundy:\n2 — przybijacie piątkę,\n3 — lekko klepiecie się w ramię,\n4 — szybki uścisk, ale tylko jeśli obie osoby mają na to ochotę.\n\nJeśli są tylko dwie osoby, popatrzcie na siebie i uśmiechajcie się przez 30 sekund. Potem, jeśli obie osoby chcą, możecie się przytulić przez kolejne 30 sekund.\n\nNini: Uśmiech większy, niż sytuacja wymaga. Dokładnie o to chodzi."
+    },
+    {
+      "id": "GS.D07.TALK",
+      "section_label": "U NAS",
+      "title": "KTO TU ROBI DOBRĄ ROBOTĘ?",
+      "draft_pl": "DZIEŃ 7\n\nU NAS — KTO TU ROBI DOBRĄ ROBOTĘ?\n\nKażdy wskazuje jedną osobę w rodzinie, która często komuś pomaga albo po cichu coś ogarnia.\n\nPowiedzcie konkretnie, co ta osoba robi.\n\nTyle. Nie trzeba przemowy.\n\nNini: Skoro sami się nie pochwalą, dziś robimy to za nich."
+    }
+  ]
+}
