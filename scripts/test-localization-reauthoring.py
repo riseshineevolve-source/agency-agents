@@ -207,6 +207,8 @@ class GentleStepsDays0103Production(unittest.TestCase):
             "będzie mieć urodziny",
             "jeśli jej to pasuje",
             "chwili z dzisiaj, która była fajna",
+            "oddychać normalnie",
+            "na swojej klatce piersiowej",
         ):
             self.assertNotIn(regression, rendered)
 
