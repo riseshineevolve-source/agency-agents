@@ -4,7 +4,7 @@
   "source_file": "private-owner-upload/24 Gentle Paperback ok(2).pdf",
   "source_revision": "owner-upload-2026-09-30",
   "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
-  "candidate_sha256": "137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7",
+  "candidate_sha256": "204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a",
   "instruction": "Re-open the English source only now. Verify mechanics, facts, counts, sequence, consent, claim strength, character continuity and required function. Do not rewrite Polish toward English syntax, metaphors or cadence merely to make the texts look parallel.",
   "units": [
     {
@@ -113,7 +113,7 @@
       "safety_claim_boundaries": [
         "Do not claim harmony or communication improvements as guaranteed outcomes."
       ],
-      "final_pl_for_review": "DZIEŃ 2\n\nAKCJA — DOMOWA ORKIESTRA\n\nNajpierw jeden dźwięk. Potem dokładamy kolejne.\n\nZaczyna osoba, która jako pierwsza z was będzie mieć urodziny. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.\n\nPotem idziecie zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystko, co już było, i dodaje swój dźwięk.\n\nGdy wszyscy dołożą swój, zagrajcie całość razem kilka razy.\n\nJeśli macie ochotę, dołóżcie następną rundę i rozbudujcie sekwencję.\n\nDilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamysł artystyczny."
+      "final_pl_for_review": "DZIEŃ 2\n\nAKCJA — DOMOWA ORKIESTRA\n\nNajpierw jeden dźwięk. Potem dokładamy kolejne.\n\nZaczyna osoba, która jako pierwsza z was będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.\n\nPotem idziecie zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystko, co już było, i dodaje swój dźwięk.\n\nGdy wszyscy dołożą swój, zagrajcie całość razem kilka razy.\n\nJeśli macie ochotę, dołóżcie następną rundę i rozbudujcie sekwencję.\n\nDilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamysł artystyczny."
     },
     {
       "id": "GS.D02.TALK",
@@ -129,7 +129,7 @@
       "safety_claim_boundaries": [
         "Do not claim the exercise reconnects the family to what truly matters as a guaranteed effect."
       ],
-      "final_pl_for_review": "DZIEŃ 2\n\nU NAS — CO LUBIMY W NASZEJ RODZINIE\n\nDziś bez wielkich słów. Jedna rzecz, którą naprawdę lubicie w swojej rodzinie.\n\nPo kolei dokończcie zdanie:\n\nW naszej rodzinie lubię to, że…\n\nWystarczy jedna rzecz — coś ważnego albo zwykły drobiazg.\n\nLuli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy."
+      "final_pl_for_review": "DZIEŃ 2\n\nU NAS — CO LUBIMY W NASZEJ RODZINIE\n\nDziś bez wielkich słów. Mówimy o tym, co po prostu lubimy w swojej rodzinie.\n\nPo kolei dokończcie zdanie:\n\nW naszej rodzinie lubię to, że…\n\nWystarczy jedna rzecz — coś ważnego albo zwykły drobiazg.\n\nLuli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy."
     },
     {
       "id": "GS.D03.PAUSE",
@@ -150,7 +150,7 @@
         "Make touch consent explicit in Polish.",
         "Do not require a person to feel a particular bodily/emotional result."
       ],
-      "final_pl_for_review": "DZIEŃ 3\n\nRESET — TRYB OFF\n\nNa minutę wyłączamy tryb „muszę coś ogarnąć”.\n\nUsiądźcie albo stańcie blisko siebie.\n\nJedną dłoń połóżcie na swojej klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli jej to pasuje. Jeśli nie, obie dłonie zostają przy was.\n\nPrzez minutę oddychajcie spokojnie.\n\nNie musicie niczego specjalnego czuć. Po prostu pobądźcie tak chwilę.\n\nNini: Ja nic nie robię. To palce coś kombinują."
+      "final_pl_for_review": "DZIEŃ 3\n\nRESET — TRYB OFF\n\nNa minutę wyłączamy tryb „muszę coś ogarnąć”.\n\nUsiądźcie albo stańcie blisko siebie.\n\nJedną dłoń połóżcie na swojej klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.\n\nPrzez minutę oddychajcie spokojnie.\n\nNie musicie niczego specjalnego czuć. Po prostu pobądźcie tak chwilę.\n\nNini: Ja nic nie robię. To palce coś kombinują."
     },
     {
       "id": "GS.D03.PLAY",
@@ -190,7 +190,7 @@
       "safety_claim_boundaries": [
         "Do not require gratitude, positivity or a profound takeaway."
       ],
-      "final_pl_for_review": "DZIEŃ 3\n\nU NAS — CO DZIŚ BYŁO FAJNE?\n\nNie trzeba mieć historii roku. Wystarczy jeden dobry moment.\n\nKażdy mówi o jednej chwili z dzisiaj, która była fajna.\n\nTo może być coś ważnego albo zwykły drobiazg.\n\nPo jednym przykładzie i gotowe.\n\nMimi: Jeśli najlepsze były frytki, to frytki. Nie będę z tym dyskutować."
+      "final_pl_for_review": "DZIEŃ 3\n\nU NAS — CO DZIŚ BYŁO FAJNE?\n\nNie szukamy wydarzenia roku. Wystarczy jeden dobry moment.\n\nKażdy wybiera jedną fajną chwilę z dzisiaj i o niej mówi.\n\nTo może być coś ważnego albo zwykły drobiazg.\n\nPo jednym przykładzie i gotowe.\n\nMimi: Jeśli najlepsze były frytki, to frytki. Nie będę z tym dyskutować."
     }
   ]
 }
