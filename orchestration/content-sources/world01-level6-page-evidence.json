@@ -1,0 +1,410 @@
+{
+  "evidence_version": 1,
+  "mission_id": "world01_mission_006",
+  "source": {
+    "source_id": "world01_paperback_2026_09_18",
+    "filename": "10 STORIES WORLD 01 FINAL paperback.pdf",
+    "sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "bytes": 14523549,
+    "pages": 108,
+    "page_range": [
+      60,
+      67
+    ]
+  },
+  "method": "Visual block-by-block transcription of all 8 published Level 6 pages; PDF text extraction used only for cross-checking",
+  "page_inventory": [
+    {
+      "page": 60,
+      "content_blocks": 1
+    },
+    {
+      "page": 61,
+      "content_blocks": 5
+    },
+    {
+      "page": 62,
+      "content_blocks": 5
+    },
+    {
+      "page": 63,
+      "content_blocks": 4
+    },
+    {
+      "page": 64,
+      "content_blocks": 4
+    },
+    {
+      "page": 65,
+      "content_blocks": 3
+    },
+    {
+      "page": 66,
+      "content_blocks": 3
+    },
+    {
+      "page": 67,
+      "content_blocks": 1
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p60_b01",
+      "node_id": "world01_mission_006_node_001",
+      "page": 60,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 6:",
+        "title": "Construction Noise",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "GRIT",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Understanding that feeling 'stupid' is actually just the sound of heavy machinery hacking a path through your Brain Jungle.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p61_b01",
+      "node_id": "world01_mission_006_node_002",
+      "page": 61,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "story_heading": "CONSTRUCTION NOISE",
+        "log_label": "SYSTEM LOG >>",
+        "text": "Saturday morning. The tower crashed. Again. Alio kicked the blocks across the room. A red square landed with a plop in the cat's water bowl. The cat looked highly offended and left the room."
+      }
+    },
+    {
+      "evidence_id": "p61_b02",
+      "node_id": "world01_mission_006_node_003",
+      "page": 61,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "I QUIT! I'm too stupid! This tower hates me! Physics is a bully!"
+      }
+    },
+    {
+      "evidence_id": "p61_b03",
+      "node_id": "world01_mission_006_node_004",
+      "page": 61,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi burst into the room, holding a basket of laundry. She set it down heavily and pressed her hands flat against her thighs to ground herself before dealing with the chaos. 'Pause! Who is screaming? Alio, stop destroying the floor! Why are you acting like a tornado?'"
+      }
+    },
+    {
+      "evidence_id": "p61_b04",
+      "node_id": "world01_mission_006_node_005",
+      "page": 61,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Because my brain hurts! I'm trying to build the Super-Helix, but my hands won't listen to my brain!"
+      }
+    },
+    {
+      "evidence_id": "p61_b05",
+      "node_id": "world01_mission_006_node_006",
+      "page": 61,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi dropped the laundry basket on Dilo, who was sneaking in with a carrot."
+      }
+    },
+    {
+      "evidence_id": "p62_b01",
+      "node_id": "world01_mission_006_node_007",
+      "page": 62,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Dilo, stay. Alio, listen. Your brain hurts because you are in a Jungle."
+      }
+    },
+    {
+      "evidence_id": "p62_b02",
+      "node_id": "world01_mission_006_node_008",
+      "page": 62,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio froze, holding a blue block like a weapon. 'A jungle? A... are there snakes? Dilo said if I think too hard, a brain-snake will crawl out of my ear!'\n\nDilo peeked out from under a pair of pants, crunching his carrot."
+      }
+    },
+    {
+      "evidence_id": "p62_b03",
+      "node_id": "world01_mission_006_node_009",
+      "page": 62,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "It's true. I see a tail. It's sticking out of your left ear. Oh, wait, it's wiggling."
+      }
+    },
+    {
+      "evidence_id": "p62_b04",
+      "node_id": "world01_mission_006_node_010",
+      "page": 62,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Pull it out! Pull it out! Mammi! It's hissing!"
+      }
+    },
+    {
+      "evidence_id": "p62_b05",
+      "node_id": "world01_mission_006_node_011",
+      "page": 62,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli, lying on the rug, didn't look up from her book."
+      }
+    },
+    {
+      "evidence_id": "p63_b01",
+      "node_id": "world01_mission_006_node_012",
+      "page": 63,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "Alio, relax. That's Mammi spraying air freshener because Dilo took his shoes off. And honestly, the snake smells better than Dilo's feet."
+      }
+    },
+    {
+      "evidence_id": "p63_b02",
+      "node_id": "world01_mission_006_node_013",
+      "page": 63,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Alio, look at me. There are no snakes. But your brain IS a jungle full of thick vines. When you try something new (like this tower), you have to hack a path through the vines. It is heavy work. It makes you sweat. It makes your head feel tight. That feeling isn't 'stupid'. That feeling is Construction Noise."
+      }
+    },
+    {
+      "evidence_id": "p63_b03",
+      "node_id": "world01_mission_006_node_014",
+      "page": 63,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "So... I'm not broken?"
+      }
+    },
+    {
+      "evidence_id": "p63_b04",
+      "node_id": "world01_mission_006_node_015",
+      "page": 63,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "No. You are just holding a heavy machete. The first time you walk the path, it's hard. The tenth time, the vines are gone and it's a highway. But you have to hack the vines first."
+      }
+    },
+    {
+      "evidence_id": "p64_b01",
+      "node_id": "world01_mission_006_node_016",
+      "page": 64,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Okay. I will hack the vines. But... I think I need a nap first. The machete is heavy."
+      }
+    },
+    {
+      "evidence_id": "p64_b02",
+      "node_id": "world01_mission_006_node_017",
+      "page": 64,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Smart. Sleep helps the workers pave the road."
+      },
+      "extraction_fragments": {
+        "text": [
+          "Smart. Sleep helps",
+          " the workers pave the",
+          " road."
+        ]
+      }
+    },
+    {
+      "evidence_id": "p64_b03",
+      "node_id": "world01_mission_006_node_018",
+      "page": 64,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio picked up his winter hat and pulled it over his ears. 'I'm sleeping in this. Just in case Dilo was 1% right about the snakes.'"
+      }
+    },
+    {
+      "evidence_id": "p64_b04",
+      "node_id": "world01_mission_006_node_019",
+      "page": 64,
+      "type": "system_note",
+      "subtype": "remember",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: SYSTEM NOTE",
+        "note_label": "REMEMBER:",
+        "text": "Struggle and frustration are not failure. They are simply the noise of heavy construction machinery in your head."
+      }
+    },
+    {
+      "evidence_id": "p65_b01",
+      "node_id": "world01_mission_006_node_020",
+      "page": 65,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 016",
+        "heading": "THE BRAIN SECRET (Brain Roads)",
+        "science_label": "The Science:",
+        "science": "This is Neuroplasticity. Your brain is full of neurons that want to hold hands. When you learn something hard, they have to stretch and connect through a 'thick jungle.' This uses a ton of energy (sugar and oxygen), which is why you feel tired or frustrated!",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio yelled that his brain 'hurts' and feels 'fuzzy.' Mimi explained this is normal because he is 'hacking vines' (making new connections) in the jungle."
+      }
+    },
+    {
+      "evidence_id": "p65_b02",
+      "node_id": "world01_mission_006_node_021",
+      "page": 65,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 017",
+        "heading": "THE TOOL ('The Power of YET')",
+        "science_label": "The Science:",
+        "science": "When you say 'I can't,' your brain stops releasing chemicals needed for learning. It gives up. When you add 'YET,' your brain stays open and keeps looking for a solution.",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio shouted 'I'm too stupid!' (Fixed Mindset). He should have said: 'I haven't figured out the Super-Helix YET.' That means the road is under construction, not closed!"
+      }
+    },
+    {
+      "evidence_id": "p65_b03",
+      "node_id": "world01_mission_006_node_022",
+      "page": 65,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 018",
+        "heading": "THE GLITCH ('Save The File')",
+        "science_label": "The Science:",
+        "science": "If you try and try and still can't do it, stop! Your brain needs sleep to 'glue' the new connections together. This is called Consolidation.",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio decided to take a nap because 'the machete is heavy.' This was actually brilliant! While he sleeps (even in his winter hat), his brain will turn that rough jungle path into a smoother road for tomorrow."
+      }
+    },
+    {
+      "evidence_id": "p66_b01",
+      "node_id": "world01_mission_006_node_023",
+      "page": 66,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio felt frustrated by the 'bully physics.'",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "What is something that used to be a 'Jungle' for you but is now a 'Highway'? (Walking? Reading? Brushing teeth?) What feels like a Jungle right now?"
+      }
+    },
+    {
+      "evidence_id": "p66_b02",
+      "node_id": "world01_mission_006_node_024",
+      "page": 66,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio realized the struggle was just 'Construction Noise.'",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Pick one hard thing today. When you feel frustrated, say to yourself: 'Excuse me, I am hacking vines right now!'"
+      }
+    },
+    {
+      "evidence_id": "p66_b03",
+      "node_id": "world01_mission_006_node_025",
+      "page": 66,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why is frustration so painful? The brain consumes 20% of the body's energy. Creating new synaptic pathways (learning) is metabolically expensive. That feeling of 'brain hurt' or anger is literally your brain burning fuel rapidly to build infrastructure. It's not a sign of inability; it's a sign of high-intensity effort. It's 'mental sweating'."
+      }
+    },
+    {
+      "evidence_id": "p67_b01",
+      "node_id": "world01_mission_006_node_026",
+      "page": 67,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“BRAIN UNDER CONSTRUCTION!”",
+        "meaning_label": "MEANING:",
+        "meaning": "Frustration is just the sound of heavy machinery. The brain is literally building new roads, and it's loud and messy.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Respect the Construction Site. Give the worker some space. A short break or a snack helps the 'brain pavers' finish the road faster.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Don't say you are stupid, just try harder!',",
+        "teach_label": "teach them to say:",
+        "teach_to_say": "'I hear Construction Noise! You are just hacking vines right now. You just haven't figured it out YET.'"
+      }
+    }
+  ]
+}
