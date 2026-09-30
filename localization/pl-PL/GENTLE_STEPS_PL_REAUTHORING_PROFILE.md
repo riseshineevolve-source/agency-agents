@@ -44,6 +44,24 @@ Existing Gentle Steps Polish calibration/golden-test copy is preserved as histor
 7. **Read-aloud + real-surface QA**  
    Read child/family copy aloud. Then test the exact approved candidate on its actual book/app surface. Surface fit may shorten or restructure native Polish, but may not reintroduce translationese or shrink readability.
 
+## Agent mapping and machine enforcement
+
+This profile is executed through:
+- **Localization Source Function Analyst** — full EN access, wording-free functional brief only;
+- **Polish Native Family Writer** — first Polish draft from the blind writer packet;
+- **Polish Cultural Localizer** — real Polish family/cultural friction;
+- **Polish Transcreator** — humor + character-voice mechanism;
+- **Polish Family Ear Reviewer** — independent Polish-only parent/child anti-cringe review;
+- **Polish Natural Language Editor** — anti-coaching / anti-translationese pass;
+- **Localization Meaning Guardian + Bilingual Localization QA** — English re-opened only after the native Polish draft exists;
+- **Polish Logic Editor + Polish Proofreader** — continuity and language close;
+- exact real-surface QA.
+
+Machine profile: `localization/pl-PL/engine/reauthoring/gentle-steps.json`.  
+Engine documentation: `localization/pl-PL/engine/reauthoring/README.md`.
+
+The machine contract rejects source-copy leaks into the functional brief/writer packet and binds all later review receipts to the exact Polish candidate hash.
+
 ## Voice target
 
 The Polish product should feel:
