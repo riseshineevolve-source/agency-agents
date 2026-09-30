@@ -107,3 +107,47 @@ Next safe sequence:
 7. only then publication / PL handoff.
 
 Do not broadly rewrite the story or puzzle mechanics during this pass.
+
+
+## Follow-up verification
+
+The exact historical private owner packet was recovered from the user's persistent Library:
+`final-book-owner-review(1).zip`
+
+Its SHA-256 is:
+`55439b308d6d7a2db7b40485665bcc46aceeb9dffde528afffb276790378680c`
+
+This exactly matches the owner/spatial contract. The packet still contains the original exact-byte owner visuals and all 30 approved map rasters, so no visual reconstruction from rendered PDFs is needed for the eventual private premium rebuild.
+
+A first CI attempt intentionally exposed that the exact private visuals are not committed to the public production repo. That is correct privacy/source-custody behavior; full premium rendering must not weaken the exact-byte asset gate merely to make CI green.
+
+Permanent public-repo regression protection was therefore changed to:
+- exact V3 source verifier;
+- final-text contract build;
+- `test_v3_frontmatter_source_lock.py` static/semantic renderer guard;
+- compile validation of the premium builder/auditor.
+
+The guard checks Page 3 black-envelope-only semantics, Page 4 squad semantics, new publication CTAs, removal of the recurring upper-left micro-grid and readable COMMS wiring.
+
+Current production branch HEAD after the CI correction:
+`e6a531bc6f26b7cafc4fa73b1af5ee549d1c4283`
+
+Relevant GitHub Actions run:
+`36690461519` — **Build Detective Academy PDF: SUCCESS**
+
+Local owner-review proof:
+`HMDA_Book1_EN_OWNER_FRONTMATTER_LOCK_2026-09-30.pdf`
+
+Local proof SHA-256:
+`30084fbac87fa6910c66753fd02349b337a9363ed9ec0a23f5035c226bf341e3`
+
+Proof assertions:
+- 180 pages;
+- unencrypted/openable;
+- Page 3 has WILL YOU CLAIM IT and no YOUR SQUAD;
+- Page 4 has YOUR SQUAD and the new general recruit chat;
+- Page 2 has the owner website/Facebook CTA;
+- recurring upper-left micro-grid removed;
+- existing full-grid COMMS panels converted to readable light copy fields with decorative side grid only.
+
+The proof remains owner-review only; final release still requires the private exact-input premium rebuild + full audit + Previewer + physical proof + explicit EN freeze.
