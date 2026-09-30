@@ -29,19 +29,22 @@ Existing Gentle Steps Polish calibration/golden-test copy is preserved as histor
 2. **Native Polish first-write**  
    Draft as if the product were originally conceived for a contemporary Polish family. Whenever practical, the writer works from the functional brief rather than sentence-level English wording.
 
-3. **Polish family-language edit**  
+3. **Polish usage / idiom / syntax gate**  
+   Independently check grammar, sentence construction, collocations, idiom, semantic selection, word order and context. “Understandable” or “technically grammatical” is not enough. The line must be something a contemporary Polish speaker would naturally say without mentally repairing an English-shaped construction.
+
+4. **Polish family-language edit**  
    Remove language that sounds imported, corporate, therapeutic, motivational or like a translated mindfulness product. Prefer ordinary present-day family Polish, concrete situations and spoken rhythm.
 
-4. **Humor + character-voice pass**  
+5. **Humor + character-voice pass**  
    Add light situational humor, self-awareness and recognisable Happy Makers voice where the source function permits it. Do not add jokes that change mechanics, facts, consent or emotional meaning.
 
-5. **Anti-coaching / anti-translationese pass**  
+6. **Anti-coaching / anti-translationese pass**  
    Fail wording that relies on generic phrases such as abstract “building connection”, therapy-speak, corporate coaching cadence, slogan-like uplift or English sentence architecture when a Polish family would not naturally say it.
 
-6. **Bilingual fidelity backcheck**  
+7. **Bilingual fidelity backcheck**  
    Only after the Polish draft is natively written, compare it against the English source and functional brief. Verify mechanics, sequence, counts, claims, consent, factual meaning and callbacks. Do not restore English phrasing merely to make the texts look parallel.
 
-7. **Read-aloud + real-surface QA**  
+8. **Read-aloud + real-surface QA**  
    Read child/family copy aloud. Then test the exact approved candidate on its actual book/app surface. Surface fit may shorten or restructure native Polish, but may not reintroduce translationese or shrink readability.
 
 ## Agent mapping and machine enforcement
@@ -50,7 +53,7 @@ This profile is executed through:
 - **Localization Source Function Analyst** — full EN access, wording-free functional brief only;
 - **Polish Native Family Writer** — first Polish draft from the blind writer packet;
 - **Polish Cultural Localizer** — real Polish family/cultural friction;
-- **Polish Transcreator** — humor + character-voice mechanism;
+- **Polish Usage and Idiom Editor** — mandatory Polish-only grammar/syntax/collocation/idiom/context gate;- **Polish Transcreator** — humor + character-voice mechanism;
 - **Polish Family Ear Reviewer** — independent Polish-only parent/child anti-cringe review;
 - **Polish Natural Language Editor** — anti-coaching / anti-translationese pass;
 - **Localization Meaning Guardian + Bilingual Localization QA** — English re-opened only after the native Polish draft exists;
@@ -61,6 +64,21 @@ Machine profile: `localization/pl-PL/engine/reauthoring/gentle-steps.json`.
 Engine documentation: `localization/pl-PL/engine/reauthoring/README.md`.
 
 The machine contract rejects source-copy leaks into the functional brief/writer packet and binds all later review receipts to the exact Polish candidate hash.
+
+## Native Polish usage acceptance
+
+Before humor or owner approval, every unit must pass an independent Polish-only check for:
+- grammar and government;
+- natural syntax and word order;
+- collocations and idioms actually used in Polish;
+- adjective/verb + noun compatibility;
+- sentence construction and rhythm;
+- context and register for a real family;
+- read-aloud naturalness.
+
+A phrase is FIX even if understandable when a Polish speaker would normally reformulate it. Regression examples include constructions such as `najpóźniejsza litera w alfabecie`, `chwila może być duża lub mała` and `przekąska może wygrać dzień`.
+
+Recurring labels have an additional **teen-safe / no-cringe** gate: they must work for ages roughly 13–16 without sounding therapeutic, childish, like a school workshop, or like an adult trying to use youth slang.
 
 ## Voice target
 
