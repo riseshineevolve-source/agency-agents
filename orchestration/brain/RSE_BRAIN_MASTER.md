@@ -1243,4 +1243,10 @@ modern clean monochrome detective / graphic-novel framing, readable speech-bubbl
 Important: the semantic map-art handoff itself says many all-15 prop families are still NEW_ART_REQUIRED; no nonexistent final modern-prop pack is to be invented. Current candidate therefore uses the exact approved locked raster maps. A future prop-only art replacement may not change puzzle geometry or text.
 
 State:
-**FULL GRAPHIC-NOVEL MASTER CANDIDATE BUILT / TEXT & STRUCTURE QA PASS / OWNER VISUAL REVIEW + KDP PREVIEWER NEXT / EN NOT FROZEN.**
+**FULL GRAPHIC-NOVEL MASTER CANDIDATE BUILT / TEXT & STRUCTURE QA PASS / OWNER VISUAL REVIEW + KDP PREVIEWER NEXT / EN NOT FROZEN.
+
+Owner starting-point lock:
+- persistent Library master: `/AI AGENTS/DETECTIVE/HMDA_Book1_EN_GRAPHIC_NOVEL_PRINT_MASTER_STARTING_POINT_2026-09-30.pdf`
+- SHA-256: `2339b408510b3ed01711864cc89fd419f771edfa95225b69e10de03d2ec3a30f`
+- all subsequent Detective corrections must start from this graphic-novel master; do not rebuild from older compact/technical proofs.
+- reverse Hint/Solution orientation is NOT locked yet; keep it unchanged until explicit owner decision.**
