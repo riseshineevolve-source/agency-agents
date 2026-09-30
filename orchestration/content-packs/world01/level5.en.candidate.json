@@ -1,0 +1,721 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_01",
+  "content_pack_id": "world01_mission_005_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world01_mission_005",
+  "candidate_scope": "published_mission_005_pages_51_59",
+  "source": {
+    "source_id": "world01_paperback_2026_09_18",
+    "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "source_bytes": 14523549,
+    "source_pages": 108,
+    "page_range": [
+      51,
+      59
+    ],
+    "evidence_manifest": "orchestration/content-sources/world01-level5-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world01_mission_005_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_005_node_002",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 51,
+        "evidence_id": "p51_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_002",
+      "sequence": 2,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_005_node_003",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 52,
+        "evidence_id": "p52_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_003",
+      "sequence": 3,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_005_node_004",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 52,
+        "evidence_id": "p52_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_004",
+      "sequence": 4,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_005_node_005",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 52,
+        "evidence_id": "p52_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_005",
+      "sequence": 5,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_005_node_006",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 52,
+        "evidence_id": "p52_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_006",
+      "sequence": 6,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_005_node_007",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 53,
+        "evidence_id": "p53_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_007",
+      "sequence": 7,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_005_node_008",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 53,
+        "evidence_id": "p53_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_008",
+      "sequence": 8,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_005_node_009",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 53,
+        "evidence_id": "p53_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_009",
+      "sequence": 9,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_005_node_010",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 53,
+        "evidence_id": "p53_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_010",
+      "sequence": 10,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_005_node_011",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 53,
+        "evidence_id": "p53_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_011",
+      "sequence": 11,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_005_node_012",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 54,
+        "evidence_id": "p54_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_012",
+      "sequence": 12,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_005_node_013",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 54,
+        "evidence_id": "p54_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_013",
+      "sequence": 13,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_005_node_014",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 54,
+        "evidence_id": "p54_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_014",
+      "sequence": 14,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_005_node_015",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 54,
+        "evidence_id": "p54_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_015",
+      "sequence": 15,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_005_node_016",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 54,
+        "evidence_id": "p54_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_016",
+      "sequence": 16,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_005_node_017",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 55,
+        "evidence_id": "p55_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_017",
+      "sequence": 17,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_005_node_018",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 55,
+        "evidence_id": "p55_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_018",
+      "sequence": 18,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_005_node_019",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 55,
+        "evidence_id": "p55_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_019",
+      "sequence": 19,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world01_mission_005_node_020",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 55,
+        "evidence_id": "p55_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_020",
+      "sequence": 20,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_005_node_021",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 55,
+        "evidence_id": "p55_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_021",
+      "sequence": 21,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_005_node_022",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 56,
+        "evidence_id": "p56_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_022",
+      "sequence": 22,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world01_mission_005_node_023",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 57,
+        "evidence_id": "p57_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_023",
+      "sequence": 23,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world01_mission_005_node_024",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 57,
+        "evidence_id": "p57_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_024",
+      "sequence": 24,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world01_mission_005_node_025",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 57,
+        "evidence_id": "p57_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_025",
+      "sequence": 25,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world01_mission_005_node_026",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 58,
+        "evidence_id": "p58_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_026",
+      "sequence": 26,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world01_mission_005_node_027",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 58,
+        "evidence_id": "p58_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_027",
+      "sequence": 27,
+      "node_type": "exercise",
+      "subtype": "box_breathing",
+      "speaker_id": null,
+      "next_id": "world01_mission_005_node_028",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 58,
+        "evidence_id": "p58_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_028",
+      "sequence": 28,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_005_node_029",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 59,
+        "evidence_id": "p59_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_005_node_029",
+      "sequence": 29,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 59,
+        "evidence_id": "p59_b02"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_001",
+      "fields": {
+        "level_label": "LEVEL 5:",
+        "title": "The Lizard in the Living Room",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "CALM",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "How to stop the 'Dance of Rage' and use breathing to wake up the tiny Wizard sleeping in your forehead.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_002",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "I HATE THIS!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_003",
+      "fields": {
+        "story_heading": "THE LIZARD IN THE LIVING\nROOM",
+        "log_label": "SYSTEM LOG >>",
+        "text": "Friday morning. Nini squealed, yanking a knot on her favorite necklace. It was a sound only dogs could hear. Her face was red, and she was doing a little 'dance of rage' - stomping her feet and shaking her fists. 'It's tight! It hurts! I feel hot and scratchy all over!'\n\nMimi rushed in, waving a wooden spoon like a wand. She took a huge, theatrical breath to show Nini how it's done."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_004",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Stop! Who is dying? Lizard and Wizard! Breathe!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_005",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Then Alio ran into the room, wearing a colander on his head and carrying a butterfly net."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_006",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Where?! Where is the lizard?! Dilo said if an Anger Lizard gets into your nose, it lays eggs in your brain!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_007",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "He started waving the net around Nini's head. 'Calm down, Nini! I'll catch it! Don't sneeze, or you'll shoot eggs everywhere!'\n\nNini stopped crying for a second and looked at her brother with huge, wet eyes."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_008",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "Alio... The Lizard is NOT real. It's inside my HEAD. It's a feeling!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_009",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio dropped the net. He turned pale."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_010",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Oh no... Dilo didn't say how to get a lizard out of a brain! Do we need to use a vacuum cleaner?! Mammi, get the vacuum!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_011",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli snorted laughter into her juice box."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_012",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Alio, you are impossible. It's a metaphor. The Lizard (Amygdala) is the part of your brain that panics and fights. The Wizard (Prefrontal Cortex) is the smart part that solves problems. They are both in there."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_013",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Oh. So I don't have to call the zoo?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_014",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "No. But they cannot both be awake at the same time. Right now, Nini's Lizard is screaming so loud that her Wizard is hiding in the basement. We have to breathe to wake the Wizard up. In... Out..."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_015",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "I'm blowing out the lizard! PHEW! Go away, reptile! Leave Nini alone!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_016",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "They breathed together three times. Big, slow, swooshing breaths. Nini's shoulders dropped. Her fists opened. The red color faded from her cheeks. She took one last deep breath and blinked, looking at the necklace in her hand."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_017",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "It worked. My brain feels... cooler. Like someone opened a window. She touched the knot gently. A minute ago, the knot looked like a monster. Now it's just a string. My Wizard says we need a needle to fix it."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_018",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "See? You can't fix a delicate knot with angry paws. You needed the Wizard's steady hands."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_019",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "Also... Alio looks like a space-chef."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_020",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Your inner Wizard is always there, waiting for a deep breath to wake him up."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_021",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Attention crew! The Lizard is gone! I repeat, the Lizard is gone! Now serving victory cookies in the kitchen!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_022",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 013",
+        "heading": "THE BRAIN SECRET (Lizard vs. Wizard)",
+        "science_label": "The Science:",
+        "science": "Your brain has two bosses. The 'Lizard' (Amygdala) handles danger and panic. The 'Wizard' (Prefrontal Cortex) handles thinking and solving puzzles. When the Lizard sees danger (or a knot!), he locks the Wizard in the basement.",
+        "in_story_label": "In The Story:",
+        "in_story": "Luli explained that the Lizard isn't a real animal, but a part of the brain. When Nini got frustrated, her Lizard took over, and she couldn't 'think' anymore."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_023",
+      "fields": {
+        "file_label": "// FILE: 014",
+        "heading": "THE TOOL ('Box Breathing')",
+        "science_label": "The Science:",
+        "science": "How do you bring the Wizard back? By breathing slowly! Slow breaths send a signal to your brain saying: 'We are safe. Turn off the alarm.'",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi and Alio breathed loudly ('In... Out...'). After three breaths, Nini said her brain felt 'cooler' and like 'someone opened a window.' That was the moment the Lizard went to sleep and the Wizard woke up."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_024",
+      "fields": {
+        "file_label": "// FILE: 015",
+        "heading": "THE GLITCH ('I have too much energy!')",
+        "science_label": "The Science:",
+        "science": "Sometimes the Lizard gives you TOO much energy to sit still. Your body wants to fight! If you feel 'hot and scratchy,' you need to shake the energy out first.",
+        "in_story_label": "In The Story:",
+        "in_story": "At the beginning, Nini was doing a 'Dance of Rage'. That is actually good! If breathing is too hard, try 'The Wet Dog Shake', shake your hands and legs for 10 seconds to get the Lizard energy out!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_025",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Nini realized that when she was calm, the 'monster knot' turned back into 'just a string.'",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "What is your 'Lizard' feel like? (Hot face? Fast heart?) What helps you wake your Wizard up?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_026",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "reward": "Practice 'Box Breathing'",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "The family breathed together, and then Alio announced 'Victory Cookies.'",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Tonight before bed. Draw a square in the air with your finger: Breathe In (4s) -> Hold (4s) -> Breathe Out (4s) -> Hold (4s)."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_027",
+      "fields": {
+        "heading": "WIZARD BREATHING BOX",
+        "start_label": "START",
+        "inhale_duration": "4 SECONDS",
+        "inhale": "BREATHE IN",
+        "inhale_cue": "WAKE THE WIZARD",
+        "hold_top_duration": "4 SECONDS",
+        "hold_top": "HOLD",
+        "hold_top_cue": "FREEZE THE LIZARD",
+        "exhale_duration": "4 SECONDS",
+        "exhale": "BREATHE OUT",
+        "exhale_cue": "BLOW THE FIRE OUT",
+        "hold_bottom_duration": "4 SECONDS",
+        "hold_bottom": "HOLD",
+        "hold_bottom_cue": "STAY CALM",
+        "footer": "*REPEAT 4 TIMES TO RESET THE SYSTEM"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_028",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why did Nini say her brain felt 'cooler'? When the Amygdala (Lizard) is active, your heart beats fast and your body temperature actually rises because it prepares to fight! When you breathe deeply, you lower your heart rate, and your body literally cools down. That 'cool' feeling is the physical proof that the Wizard is back in charge."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_005_node_029",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“LIZARD ON THE CONTROLLER!”",
+        "meaning_label": "MEANING:",
+        "meaning": "My Lizard Brain has locked my Wizard in the basement and is smashing all the buttons! I am about to erupt, and I can't think straight.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Emergency Pause! Everyone stops talking and performs Wizard Breath together. Stay calm until the Wizard is back in charge.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Calm down right now, there is no reason to scream!',",
+        "teach_label": "teach them to say:",
+        "teach_to_say": "'Your Lizard is driving! Let's shake out the mad energy and breathe to wake up your Wizard.'"
+      }
+    }
+  ]
+}
