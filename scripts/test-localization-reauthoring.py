@@ -204,6 +204,9 @@ class GentleStepsDays0103Production(unittest.TestCase):
             "najpóźniejsza litera w alfabecie",
             "Może być duża. Może być zupełnie mała.",
             "przekąska też może wygrać dzień",
+            "będzie mieć urodziny",
+            "jeśli jej to pasuje",
+            "chwili z dzisiaj, która była fajna",
         ):
             self.assertNotIn(regression, rendered)
 
