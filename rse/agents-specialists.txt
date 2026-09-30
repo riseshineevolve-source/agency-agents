@@ -15,6 +15,7 @@ Book Co-Author
 RSE Localization Orchestrator
 Localization Source Function Analyst
 Polish Native Family Writer
+Polish Usage and Idiom Editor
 Polish Family Ear Reviewer
 Polish Semantic Translator
 Polish Transcreator
