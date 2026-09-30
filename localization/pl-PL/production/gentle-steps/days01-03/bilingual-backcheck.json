@@ -4,7 +4,7 @@
   "source_file": "private-owner-upload/24 Gentle Paperback ok(2).pdf",
   "source_revision": "owner-upload-2026-09-30",
   "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
-  "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
+  "candidate_sha256": "71b496f78d70c1bd01b52d5a4b3f22dc004877c3f6d85e2082596e1f32260b24",
   "instruction": "Re-open the English source only now. Verify mechanics, facts, counts, sequence, consent, claim strength, character continuity and required function. Do not rewrite Polish toward English syntax, metaphors or cadence merely to make the texts look parallel.",
   "units": [
     {
@@ -27,7 +27,7 @@
         "Do not claim guaranteed calm, regulation or therapeutic effect.",
         "Physical contact must not be framed as compulsory in Polish."
       ],
-      "final_pl_for_review": "DZIEŃ 1\n\nRESET — MINUTA CISZY\n\nMinuta bez zadań. Serio, nic więcej.\n\nUsiądźcie razem w kółku. Jeśli chcecie, możecie lekko trzymać się za ręce albo dotykać ramionami.\n\nZamknijcie oczy i przez minutę spokojnie oddychajcie.\nNikt nie musi nic mówić ani robić.\n\nLuli: Jeśli Alio wytrzyma całą minutę bez wiercenia się, uznaję to za wydarzenie dnia."
+      "final_pl_for_review": "DZIEŃ 1\n\nRESET — MINUTA BEZ POŚPIECHU\n\nUsiądźcie razem w kółku. Jeśli macie ochotę, lekko złapcie się za ręce albo usiądźcie tak, żeby stykać się ramionami.\n\nZamknijcie oczy. Przez minutę niczego nie trzeba planować, komentować ani kończyć. Oddychajcie swobodnie i po prostu posiedźcie razem w ciszy.\n\nJeśli w głowie pojawi się lista rzeczy do zrobienia, nie szkodzi. Przez tę minutę może poczekać.\n\nLuli: Jeśli Alio wytrzyma pełną minutę bez wiercenia się, proponuję wpisać datę do kalendarza."
     },
     {
       "id": "GS.D01.PLAY",
@@ -50,7 +50,7 @@
         "Do not promise the exercise builds trust as a guaranteed outcome.",
         "Keep throwing explicitly gentle/imaginary."
       ],
-      "final_pl_for_review": "DZIEŃ 1\n\nAKCJA — PODAJ DALEJ\n\nPiłki nie widać. Komplement ma być konkretny.\n\nStańcie w kółku.\n\nZaczyna osoba, której imię zaczyna się na literę najbliżej końca alfabetu. Udaje, że trzyma piłkę, wybiera kogoś, „rzuca” do tej osoby i mówi jej coś konkretnego, co w niej lubi albo docenia.\n\nOsoba, która łapie piłkę, mówi „Dzięki!” i podaje ją dalej.\n\nGracie, aż każdy usłyszy coś miłego. Potem możecie zrobić kolejną rundę.\n\nNini: Tylko bez zamachu jak na WF-ie. To ma być komplement, nie kontuzja."
+      "final_pl_for_review": "DZIEŃ 1\n\nAKCJA — PODAJ DALEJ\n\nStańcie w kółku.\n\nZaczyna osoba, której imię zaczyna się na literę najbliżej końca alfabetu. Udaje, że trzyma niewidzialną piłkę.\n\nWybiera jedną osobę, lekko „rzuca” piłkę w jej stronę i mówi jej jeden konkretny komplement — coś, co w niej lubi albo docenia.\n\nOsoba, która „łapie” piłkę, mówi „Dziękuję”, wybiera kolejną osobę i przekazuje piłkę dalej razem z następnym komplementem.\n\nKontynuujcie, aż każdy usłyszy przynajmniej jeden komplement. Jeśli macie ochotę, możecie zagrać jeszcze jedną rundę.\n\nNini: Tylko bez zamachu jak na WF-ie. To ma być komplement, nie kontuzja."
     },
     {
       "id": "GS.D01.TALK",
@@ -68,7 +68,7 @@
         "Do not force disclosure beyond one word.",
         "Do not imply emotional honesty guarantees trust."
       ],
-      "final_pl_for_review": "DZIEŃ 1\n\nU NAS — JEDNO SŁOWO\n\nJedno słowo. Bez tłumaczenia się.\n\nKażdy mówi jednym słowem, jak się teraz czuje.\n\nTylko tyle. Nie trzeba rozwijać odpowiedzi.\n\nLuli: „Dobrze” odpada. Macie jeszcze jedno podejście."
+      "final_pl_for_review": "DZIEŃ 1\n\nU NAS — JEDNO SŁOWO\n\nKażdy mówi jedno słowo o tym, jak się teraz czuje.\n\nTylko jedno. Nie trzeba niczego wyjaśniać ani uzasadniać.\n\nLuli: „Dobrze” się nie liczy. Wiem, wiem. Spróbujcie jeszcze raz."
     },
     {
       "id": "GS.D02.PAUSE",
@@ -89,7 +89,7 @@
         "Do not claim the pattern guarantees calm or emotional regulation.",
         "Do not instruct anyone to force or overfill a breath."
       ],
-      "final_pl_for_review": "DZIEŃ 2\n\nRESET — 4 NA 6\n\nGrudzień już się wystarczająco spieszy.\n\nPrzez minutę spróbujcie oddychać w takim rytmie:\n\nwdech — liczymy do 4,\nwydech — do 6.\n\nBez forsowania. Jeśli komuś ten rytm nie pasuje, może oddychać po swojemu.\n\nMimi: To chyba jedyna rzecz w grudniu, której nie zamierzam przyspieszać."
+      "final_pl_for_review": "DZIEŃ 2\n\nRESET — 4 NA 6\n\nUsiądźcie wygodnie. Przez minutę spróbujcie oddychać trochę wolniej niż zwykle.\n\nPrzy wdechu policzcie spokojnie do czterech.\nPrzy wydechu — do sześciu.\n\nNie nabierajcie powietrza na siłę i nie próbujcie zrobić „idealnego” oddechu. Jeśli taki rytm komuś nie odpowiada, wróćcie do własnego oddechu.\n\nChodzi tylko o to, żeby na minutę przestać się spieszyć.\n\nMimi: To chyba jedyna rzecz w grudniu, której nie próbuję zrobić szybciej."
     },
     {
       "id": "GS.D02.PLAY",
@@ -113,7 +113,7 @@
       "safety_claim_boundaries": [
         "Do not claim harmony or communication improvements as guaranteed outcomes."
       ],
-      "final_pl_for_review": "DZIEŃ 2\n\nAKCJA — DOMOWA ORKIESTRA\n\nNajpierw jeden dźwięk. Potem dokładamy kolejne.\n\nZaczyna osoba, która jako pierwsza z was będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.\n\nPotem idziecie zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystko, co już było, i dodaje swój dźwięk.\n\nGdy wszyscy dołożą swój, zagrajcie całość razem kilka razy.\n\nJeśli macie ochotę, dołóżcie następną rundę i rozbudujcie sekwencję.\n\nDilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamysł artystyczny."
+      "final_pl_for_review": "DZIEŃ 2\n\nAKCJA — DOMOWA ORKIESTRA\n\nZaczyna osoba, która jako następna będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk, na przykład „bam”, „ding” albo „pff”.\n\nNastępnie gracie zgodnie z ruchem wskazówek zegara. Kolejna osoba powtarza pierwszy dźwięk i dodaje własny.\n\nKażda następna osoba powtarza całą dotychczasową sekwencję w tej samej kolejności i na końcu dodaje jeden nowy dźwięk.\n\nKiedy każdy już doda swój dźwięk, wykonajcie całą sekwencję razem kilka razy.\n\nJeśli chcecie ją wydłużyć, zróbcie kolejną rundę: zachowajcie wszystko, co już powstało, i dokładajcie następne dźwięki w tej samej kolejności.\n\nDilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamysł artystyczny."
     },
     {
       "id": "GS.D02.TALK",
@@ -129,7 +129,7 @@
       "safety_claim_boundaries": [
         "Do not claim the exercise reconnects the family to what truly matters as a guaranteed effect."
       ],
-      "final_pl_for_review": "DZIEŃ 2\n\nU NAS — CO LUBIMY W NASZEJ RODZINIE\n\nDziś bez wielkich słów. Po prostu: co lubicie w swojej rodzinie?\n\nPo kolei dokończcie zdanie:\n\nW naszej rodzinie lubię to, że…\n\nWystarczy jedna rzecz — coś ważnego albo zwykły drobiazg.\n\nLuli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy."
+      "final_pl_for_review": "DZIEŃ 2\n\nU NAS — CO LUBIMY W NASZEJ RODZINIE\n\nPo kolei dokończcie zdanie:\n\n„W naszej rodzinie lubię to, że…”\n\nWystarczy jedna rzecz. Może to być coś ważnego albo zwykły drobiazg, który po prostu lubicie w swoim rodzinnym życiu.\n\nLuli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy."
     },
     {
       "id": "GS.D03.PAUSE",
@@ -150,7 +150,7 @@
         "Make touch consent explicit in Polish.",
         "Do not require a person to feel a particular bodily/emotional result."
       ],
-      "final_pl_for_review": "DZIEŃ 3\n\nRESET — TRYB OFF\n\nNa minutę wyłączamy tryb „muszę coś ogarnąć”.\n\nUsiądźcie albo stańcie blisko siebie.\n\nPołóżcie jedną dłoń na klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.\n\nPrzez minutę oddychajcie spokojnie.\n\nNie musicie niczego specjalnego czuć. Po prostu pobądźcie tak chwilę.\n\nNini: Ja nic nie robię. To palce coś kombinują."
+      "final_pl_for_review": "DZIEŃ 3\n\nRESET — MINUTA BEZ „MUSZĘ”\n\nUsiądźcie albo stańcie blisko siebie.\n\nPołóżcie jedną dłoń na klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok, jeśli ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.\n\nPrzez minutę oddychajcie swobodnie.\n\nNie próbujcie na siłę się uspokoić ani przestać myśleć. Przez tę chwilę po prostu nie trzeba zajmować się następną rzeczą z listy.\n\nNini: Ja siedzę spokojnie. Za palce nie odpowiadam."
     },
     {
       "id": "GS.D03.PLAY",
@@ -173,7 +173,7 @@
       "safety_claim_boundaries": [
         "Keep poses safe and stationary during the three-second freeze."
       ],
-      "final_pl_for_review": "DZIEŃ 3\n\nAKCJA — STOP-KLATKA\n\nTrzy sekundy bez ruchu. Niby proste.\n\nZaczyna najmłodsza osoba. Rzuca hasło, na przykład: „śnieg”, „buziak”, „choinka” albo „przytulenie”.\n\nWszyscy od razu pokazują je pozą i zastygają na 3 sekundy.\n\nTa osoba wybiera, kto wymyśla kolejne hasło. I gracie dalej przez kilka rund.\n\nJeśli są tylko dwie osoby, jedna robi pozę, a druga zgaduje, co przedstawia. Potem zamiana.\n\nAlio: Kto zastyga ostatni, zwykle wygląda najdziwniej. I o to chodzi."
+      "final_pl_for_review": "DZIEŃ 3\n\nAKCJA — STOP-KLATKA\n\nZaczyna najmłodsza osoba. Podaje jedno hasło, na przykład: „śnieg”, „buziak”, „choinka” albo „przytulenie”.\n\nWszyscy od razu pokazują to hasło pozą i zastygają bez ruchu na trzy sekundy.\n\nPo trzech sekundach osoba, która podała hasło, wybiera kolejną osobę. To ona wymyśla następne hasło i zabawa zaczyna się od nowa.\n\nZagrajcie w ten sposób kilka rund.\n\nJeśli bawią się tylko dwie osoby, jedna robi pozę, a druga zgaduje, co przedstawia. Potem zamieniacie się rolami.\n\nAlio: Kto zastygnie ostatni, zwykle ma najdziwniejszą pozę. I właśnie dlatego warto patrzeć."
     },
     {
       "id": "GS.D03.TALK",
@@ -190,7 +190,7 @@
       "safety_claim_boundaries": [
         "Do not require gratitude, positivity or a profound takeaway."
       ],
-      "final_pl_for_review": "DZIEŃ 3\n\nU NAS — CO DZIŚ BYŁO FAJNE?\n\nNie szukamy wydarzenia roku. Wystarczy jeden dobry moment.\n\nKażdy wybiera jedną fajną chwilę z dzisiaj i o niej mówi.\n\nTo może być coś ważnego albo zwykły drobiazg.\n\nPo jednym przykładzie i gotowe.\n\nMimi: Jeśli najlepsze były frytki, to frytki. Nie będę z tym dyskutować."
+      "final_pl_for_review": "DZIEŃ 3\n\nU NAS — CO DZIŚ BYŁO FAJNE?\n\nKażdy wybiera jeden moment z dzisiejszego dnia, który był po prostu przyjemny, i krótko o nim opowiada.\n\nNie musi to być nic ważnego ani wyjątkowego. Wystarczy jedna zwyczajna rzecz, którą dobrze wspominacie.\n\nMimi: Jeśli najlepsze były frytki, to frytki. Nie mam dalszych pytań."
     }
   ]
 }
