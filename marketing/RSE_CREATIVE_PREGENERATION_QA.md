@@ -243,3 +243,16 @@ Before any creative is marked READY:
 10. Product proof is real and no unsupported claim is present.
 
 Fail one = redo before owner review.
+
+
+## 9A. Modern Detective Academy source-style lock
+
+When using real Detective Academy interior pages, maps, case boards or puzzle surfaces:
+- preserve their actual modern black/white/gray visual language;
+- do NOT recolor them into sepia, parchment, brown paper, aged-paper or Sherlock/Victorian styling;
+- do NOT add antique maps, leather desks, candlelight, banker lamps, wax seals, old detective props or conspiracy-board clutter unless the actual source page contains them;
+- frame real product pages with the current brand palette only: deep navy / black / charcoal / white / restrained warm gold;
+- real product pages remain visually real. Do not “beautify” them into a different fictional product;
+- if a map/puzzle is shown, use the exact approved source image or a clean crop of it.
+
+Marketing may feel cinematic, but the PRODUCT PROOF must remain contemporary and faithful to the book.
