@@ -145,3 +145,56 @@ This section supersedes older wording above where it conflicts.
 - Remaining EN gates: final full-wrap cover -> KDP Previewer/preflight -> representative physical proof -> explicit owner EN freeze -> KDP publication.
 - The physical-proof check must focus on child-size readability because deterministic typography passes the 9 pt floor but much notes text remains below a 10.5 pt comfort target.
 - Detective PL remains commercial #2 and starts only after explicit EN freeze with frozen source/hash/alias receipt.
+
+
+## Owner revenue-ASAP override — 2026-09-30
+
+This section supersedes older priority ordering above where it conflicts.
+
+The portfolio is now managed by **FINISH -> PUBLISH -> SELL**, not by maximizing percentage-complete across many projects.
+
+### Active finish lanes
+
+1. **Detective Academy EN -> KDP**
+   - remains commercial priority #1;
+   - current task is bounded final interior correction / print-readability / owner review, then KDP Previewer, representative physical proof, explicit EN freeze and publication;
+   - do not reopen broad story/puzzle redesign.
+
+2. **Optical Animals -> KDP**
+   - current Final 20 coloring art is treated as the owner-approved working final roster unless a concrete release blocker is proven;
+   - immediate blocker is NOT new illustration generation;
+   - immediate production lane is: exact subject masks -> exact-identity transparent tokens -> 5 real group seek-and-find pages -> GRAND all-20 challenge -> answer maps -> assembly/proof/KDP;
+   - no AI-redrawn/lookalike animal tokens.
+
+3. **24 Gentle Steps to Christmas — dual seasonal lane**
+   - existing EN paperback + ebook are already completed commercial assets;
+   - active 2026 work is TWO TRACKS:
+     A. Polish paperback/ebook production from the completed 24-day Polish language master candidate, pending real-template print-fit and owner review;
+     B. simple premium EN+PL Advent mobile app, real conversion AUTHORIZED NOW;
+   - app V1 scope: 24-day calendar, day detail, Mindful Moment, Fun Spark, Family Connection, completion/progress, language, optional reminder, offline-first; no unnecessary account/social/AI/backend complexity;
+   - first production slice must use real content, not synthetic fixtures.
+
+4. **Detective Academy PL -> KDP Poland**
+   - starts immediately after explicit Detective EN source freeze;
+   - Polish Localization Engine may continue safe preparation/reconciliation now, but full Detective PL production remains blocked by EN freeze.
+
+### Delegated/support lanes
+
+- **World 01 / World 02**: content is substantially/full available from existing books; continue reusable source-graph/factory work in dedicated execution chat, but do not block Gentle Steps seasonal app.
+- **Polish Localization Engine**: dedicated support stream; reconcile/merge only after live branch/CI verification; use it for Gentle Steps PL production now and Detective PL after EN freeze.
+- **AI Discovery / Website**: current technical refresh is owner-review/deployment gated; no broad new C2 work.
+- **Senior / Happy Me / Marketing / other Wave 1**: delegated execution or maintenance; central Orchestrator enters only for real owner gates/blockers.
+
+### Operating model
+
+Maximum central active finish lanes: **3**.
+The central Orchestrator owns cross-project sequencing and canonical Brain state.
+RSE Quick Desk remains conversation-first.
+Dedicated project chats own project execution and return only:
+- milestone,
+- blocker,
+- owner gate,
+- exact next action,
+- durable checkpoint reference.
+
+This override remains in force until the owner explicitly changes it.
