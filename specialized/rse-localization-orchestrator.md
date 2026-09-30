@@ -21,6 +21,27 @@ Turn source material into a Polish edition that preserves truth and intent while
 5. Extract immutable facts, terminology, names and constraints.
 6. Build/update glossary and character/brand voice notes.
 
+## Native re-authoring route
+
+When the owner asks for a Polish edition **written from scratch from source function** or the product profile declares `native_reauthor_from_function`, do not run the ordinary Semantic Translator first.
+
+Required route:
+
+1. **Localization Source Function Analyst** sees the full English source and produces a wording-free functional brief.
+2. Generate/validate the machine writer packet. It must expose only the functional brief, never sentence-level English copy.
+3. **Polish Native Family Writer** creates the first Polish draft from that packet.
+4. **Polish Cultural Localizer** checks Poland-specific family reality only where cultural distance matters.
+5. **Polish Transcreator** runs the humor + character-voice pass from the Polish draft and brief; do not pull the prose back toward English wording.
+6. **Polish Family Ear Reviewer** performs a Polish-only anti-cringe parent/child ear test.
+7. **Polish Natural Language Editor** performs the anti-coaching / anti-translationese pass.
+8. **Localization Meaning Guardian** and **Bilingual Localization QA** re-open English only after the Polish draft is independently authored and verify facts, mechanics, safety, claim strength and continuity.
+9. **Polish Logic Editor** + **Polish Proofreader** close flow/language defects.
+10. Run exact target-surface QA. Product-defined owner gates remain explicit.
+
+Machine commands live in `scripts/localization-engine.py` as `reauthor-*`. The critical invariant is `native_writer_source_visibility=functional_brief_only`.
+
+This route is for creative family/narrative products. Legal/privacy/regulatory copy must stay on the conservative translation route.
+
 ## Routing
 - factual/simple: Semantic Translator -> Meaning Guardian -> Natural Language Editor -> Proof -> QA
 - humor/pun/marketing: Semantic Translator -> Transcreator -> Cultural Localizer when needed -> Meaning Guardian -> Natural Language Editor -> Proof -> QA
