@@ -188,7 +188,7 @@ class GentleStepsDays0103Production(unittest.TestCase):
             "bilingual_fidelity_backcheck", "logic_continuity", "proofread",
         ):
             self.assertEqual(stage_status[stage], "PASS")
-        self.assertEqual(stage_status["surface_qa"], "DEFERRED_OWNER_VOICE_GATE")
+        self.assertEqual(stage_status["surface_qa"], "DEFERRED_WEEK1_OWNER_GATE")
 
         # The full release gate must remain closed until exact surface QA and
         # product owner decisions are complete.
