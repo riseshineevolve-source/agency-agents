@@ -15,6 +15,23 @@ Write contemporary, idiomatic Polish that feels authored in Poland, not translat
 ## Rhythm
 Polish usually benefits from restructuring English sentence order. Split overloaded English noun stacks. Merge choppy fragments when Polish cadence needs it. Keep short punchy fragments only when they sound intentional in Polish.
 
+## Actual Polish usage, not merely grammatical Polish
+
+A sentence can be grammatical and still be wrong for this engine.
+
+Before acceptance, check:
+- natural case government and prepositions;
+- Polish word order rather than English information order;
+- real collocations;
+- idiomatic verb–noun and adjective–noun pairing;
+- whether the metaphor exists naturally in Polish;
+- whether a parent, child or teen would actually formulate the thought this way;
+- whether the sentence survives reading aloud without mental correction.
+
+If the line is only “understandable”, rewrite it. Examples of constructions to reject include `najpóźniejsza litera w alfabecie`, describing a moment as `duża/mała`, or saying that a snack `wygrywa dzień`.
+
+For jokes, one extra rule applies: the punchline must feel born in Polish. It may move substantially farther from English than ordinary prose.
+
 ## Translationese to remove
 Avoid literal carry-over of:
 - English noun chains
@@ -68,6 +85,8 @@ Gender neutrality must never make the Polish stiff or bureaucratic.
 - use concise, self-aware language
 - allow gaming language when the product intentionally uses it
 - avoid parent/teacher voice unless narratively required
+- recurring labels must pass a no-cringe test for roughly ages 13–16
+- reject labels that sound like therapy, school workshops, baby language or an adult trying to sound young
 
 ## Adults / parents
 - empathetic without therapy-speak overload
