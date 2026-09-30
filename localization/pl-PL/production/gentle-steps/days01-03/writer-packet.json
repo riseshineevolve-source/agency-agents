@@ -1,8 +1,8 @@
 {
   "format": "rse-native-pl-writer-packet-v1",
   "product": "gentle-steps-christmas",
-  "run_sha256": "c8ada75e032b37fdc9eb3c778738261d1af273057eae469556e5bafebf6bec20",
-  "brief_sha256": "2aab64ca3ad12d02910fe54117b37d41cfcce21b9421a9d86e2d48258e63109f",
+  "run_sha256": "8e151b27a1e003fddaf778dc9a9bf73f9432ad834a590f112adde890f7343a3f",
+  "brief_sha256": "60d799466be0dc7a864124bedd88d155c495a0f60c1e1b8fec866f1ff411270e",
   "authoring_mode": "from_function_not_from_english_wording",
   "source_visibility": "functional_brief_only",
   "instructions": [
