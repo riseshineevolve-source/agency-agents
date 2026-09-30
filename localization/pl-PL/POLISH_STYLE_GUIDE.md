@@ -32,6 +32,44 @@ If the line is only “understandable”, rewrite it. Examples of constructions 
 
 For jokes, one extra rule applies: the punchline must feel born in Polish. It may move substantially farther from English than ordinary prose.
 
+## Book language versus spoken language
+
+The target may sound conversational, but it is still a book.
+
+Use:
+- complete, flowing sentences for instructions;
+- relaxed contemporary syntax;
+- concise phrasing where it remains elegant and clear;
+- character dialogue for stronger colloquiality.
+
+Avoid in narrative/instructional copy:
+- chat-style connectors such as `i jedziecie dalej`;
+- trendy spoken fillers;
+- excessive fragments;
+- shorthand that sounds natural only in conversation;
+- app/social-media tone leaking into a printed family book.
+
+The read-aloud test and the page-reading test must both pass.
+
+## Breathing, quiet and reset language
+
+In Polish family-facing copy, do not assume the English mindfulness register transfers culturally.
+
+When the source uses breathing, silence, body rest, sound or light:
+- keep the exact exercise mechanics;
+- explain the pause concretely;
+- allow ordinary references to December rush, a head full of tasks, or taking a minute without doing the next thing;
+- use bodily instructions plainly;
+- keep interpretation minimal.
+
+Avoid stock phrases built around `uważność`, `obecność`, `przepływ`, `energia`, `wewnętrzne światło`, `połączenie` or guaranteed `spokój` unless the product specifically requires them and they sound natural in context.
+
+## Instruction detail
+
+Do not compress a game simply because the Polish page looks cleaner.
+
+If the source specifies who starts, direction, what each next person does, a reset condition, target number, advanced round or two-person variant, the Polish instructions must state it clearly enough that a new family can play without guessing.
+
 ## Translationese to remove
 Avoid literal carry-over of:
 - English noun chains
