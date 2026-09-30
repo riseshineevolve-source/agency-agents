@@ -22,10 +22,11 @@ For Route B:
 2. Localization Source Function Analyst creates a wording-free `rse-functional-brief-v1`.
 3. Generate `reauthor-writer-packet`; the packet must contain no sentence-level English source copy.
 4. Polish Native Family Writer writes the first Polish version from the brief only.
-5. Polish Cultural Localizer + Polish Transcreator + Polish Family Ear Reviewer + Polish Natural Language Editor improve cultural reality, humor/character, credibility and anti-coaching naturalness.
-6. Only then generate `reauthor-backcheck-packet` and re-open the English source for Meaning Guardian/Bilingual QA.
-7. Logic, proof and real-surface QA follow.
-8. `reauthor-final-gate` returns `READY_FOR_OWNER_GATE` until all product-specific owner decisions are explicitly approved for the exact candidate hash.
+5. Polish Usage and Idiom Editor must PASS grammar, syntax, collocations, idiom, semantic selection, sentence construction, context and read-aloud naturalness. “Technically grammatical” is not sufficient.
+6. Polish Cultural Localizer + Polish Transcreator + Polish Family Ear Reviewer + Polish Natural Language Editor improve cultural reality, humor/character, credibility and anti-coaching naturalness. Recurring labels also require a teen-safe / no-cringe check.
+7. Only then generate `reauthor-backcheck-packet` and re-open the English source for Meaning Guardian/Bilingual QA.
+8. Logic, proof and real-surface QA follow.
+9. `reauthor-final-gate` returns `READY_FOR_OWNER_GATE` until all product-specific owner decisions are explicitly approved for the exact candidate hash.
 
 Never use Route B for legal/privacy/regulatory text.
 
