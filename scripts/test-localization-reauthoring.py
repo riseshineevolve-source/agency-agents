@@ -149,5 +149,56 @@ class NativeReauthoring(unittest.TestCase):
             td.cleanup()
 
 
+class GentleStepsDays0103Production(unittest.TestCase):
+    BASE = ROOT / "localization/pl-PL/production/gentle-steps/days01-03"
+
+    def test_real_days_01_03_pipeline_artifacts_are_bound_and_blind(self):
+        run = load(self.BASE / "source-run.json")
+        brief = load(self.BASE / "functional-brief.json")
+        stored_packet = load(self.BASE / "writer-packet.json")
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        backcheck = load(self.BASE / "bilingual-backcheck.json")
+        reviews = load(self.BASE / "review-bundle.json")
+        gate = load(self.BASE / "owner-voice-gate.json")
+
+        validate_functional_brief(run, PROFILE, brief)
+        generated_packet = writer_packet(run, PROFILE, brief)
+        self.assertEqual(stored_packet, generated_packet)
+        self.assertNotIn("source_locator", str(stored_packet))
+        self.assertEqual(stored_packet["source_visibility"], "functional_brief_only")
+
+        validate_candidate(stored_packet, candidate)
+        self.assertEqual([u["id"] for u in candidate["units"]],
+                         [u["id"] for u in brief["units"]])
+        self.assertEqual(backcheck_packet(run, PROFILE, brief, stored_packet, candidate), backcheck)
+
+        candidate_sha = digest(candidate)
+        self.assertEqual(reviews["candidate_sha256"], candidate_sha)
+        self.assertEqual(gate["candidate_sha256"], candidate_sha)
+        self.assertFalse(reviews["scaleout_authorized"])
+        self.assertFalse(gate["scaleout_days_04_24"])
+        self.assertEqual(gate["status"], "READY_FOR_OWNER_VOICE_GATE")
+
+        stage_status = {r["stage"]: r["status"] for r in reviews["reviews"]}
+        for stage in (
+            "polish_family_language_edit", "humor_character_voice",
+            "kid_parent_ear_review", "anti_coaching_translationese",
+            "bilingual_fidelity_backcheck", "logic_continuity", "proofread",
+        ):
+            self.assertEqual(stage_status[stage], "PASS")
+        self.assertEqual(stage_status["surface_qa"], "DEFERRED_OWNER_VOICE_GATE")
+
+        # The full release gate must remain closed until exact surface QA and
+        # product owner decisions are complete.
+        self.assertEqual(final_gate(run, PROFILE, stored_packet, candidate, reviews)["status"], "BLOCK")
+
+    def test_real_days_01_03_voice_master_keeps_owner_gated_labels(self):
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        labels = candidate["recurring_label_candidates"]
+        self.assertEqual(labels["lock_state"], "OWNER_GATE")
+        self.assertEqual((labels["pause"], labels["play"], labels["connection"]),
+                         ("PAUZA", "ZABAWA", "MIĘDZY NAMI"))
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
