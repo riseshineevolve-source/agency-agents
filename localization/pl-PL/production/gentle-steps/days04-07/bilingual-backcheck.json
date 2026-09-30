@@ -4,7 +4,7 @@
   "source_file": "private-owner-upload/24 Gentle Paperback ok(2).pdf",
   "source_revision": "owner-upload-2026-09-30",
   "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
-  "candidate_sha256": "7b177780d8fac40cf04822e315170131630ac4d32c3f286531f1d34527e335c5",
+  "candidate_sha256": "c78621ba013ed3c644016481d2c075e82914fbb52d38f52675ab62ae9ac45db4",
   "instruction": "Re-open the English source only now. Verify mechanics, facts, counts, sequence, consent, claim strength, character continuity and required function. Do not rewrite Polish toward English syntax, metaphors or cadence merely to make the texts look parallel.",
   "units": [
     {
@@ -46,7 +46,7 @@
       "safety_claim_boundaries": [
         "Keep it vocal/playful; do not add unsafe physical actions."
       ],
-      "final_pl_for_review": "DZIEŃ 4\n\nAKCJA — GŁOSY W OBIEGU\n\nJedno zdanie. Cała kolekcja głosów.\n\nZaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.\n\nPotem idziecie przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale zupełnie innym głosem: robota, prezentera wiadomości, kaczki, śpiewaka operowego, kosmity, superbohatera — albo czymś, co właśnie wymyślicie.\n\nW jednej rundzie głosy się nie powtarzają.\n\nGdy koło się zamknie, osoba po prawej stronie tej, która zaczynała, wymyśla nowe zdanie. I jedziecie jeszcze raz.\n\nMimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie."
+      "final_pl_for_review": "DZIEŃ 4\n\nAKCJA — GŁOSY W OBIEGU\n\nJedno zdanie. Cała kolekcja głosów.\n\nZaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.\n\nPotem idziecie przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale zupełnie innym głosem: robota, prezentera wiadomości, kaczki, śpiewaka operowego, kosmity albo superbohatera. Możecie też wymyślić własny.\n\nW jednej rundzie głosy się nie powtarzają.\n\nGdy koło się zamknie, osoba po prawej stronie tej, która zaczynała, wymyśla nowe zdanie. I jedziecie jeszcze raz.\n\nMimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie."
     },
     {
       "id": "GS.D04.TALK",
@@ -81,7 +81,7 @@
       "safety_claim_boundaries": [
         "Do not claim the exercise regulates emotion or produces calm."
       ],
-      "final_pl_for_review": "DZIEŃ 5\n\nRESET — BLISKO, DALEKO, PRAWIE NIC\n\nZamknijcie oczy na minutę.\n\nNajpierw wyłapcie jakiś dźwięk bardzo blisko.\n\nPotem taki, który dochodzi z daleka.\n\nNa końcu poszukajcie czegoś ledwo słyszalnego.\n\nNie musicie zgadywać, skąd dochodzą. Po prostu słuchajcie.\n\nDilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem."
+      "final_pl_for_review": "DZIEŃ 5\n\nRESET — BLISKO, DALEKO, PRAWIE NIC\n\nZamknijcie oczy na minutę.\n\nNajpierw wyłapcie jakiś dźwięk bardzo blisko.\n\nPotem taki, który dochodzi z daleka.\n\nNa końcu poszukajcie czegoś ledwo słyszalnego.\n\nNie zgadujcie, co to. Po prostu słuchajcie.\n\nDilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem."
     },
     {
       "id": "GS.D05.PLAY",
@@ -122,7 +122,7 @@
       "safety_claim_boundaries": [
         "Do not claim the sound proves safety or attachment."
       ],
-      "final_pl_for_review": "DZIEŃ 5\n\nU NAS — DŹWIĘK DOMU\n\nKażdy podaje jeden dźwięk, który lubi słyszeć w domu.\n\nMoże być zupełnie zwyczajny: czyjś śmiech, klucz w zamku, pies biegnący po podłodze, czajnik, muzyka z drugiego pokoju.\n\nPo jednym dźwięku.\n\nDilo: Piknięcie mikrofalówki i otwierana lodówka są wysoko w rankingu. Pytania?"
+      "final_pl_for_review": "DZIEŃ 5\n\nU NAS — DŹWIĘK DOMU\n\nKażdy podaje jeden dźwięk, który lubi słyszeć w domu.\n\nMoże być zupełnie zwyczajny: czyjś śmiech, klucz w zamku, pies biegnący po podłodze, czajnik, muzyka z drugiego pokoju.\n\nPo jednym dźwięku.\n\nDilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołówka."
     },
     {
       "id": "GS.D06.PAUSE",
@@ -179,7 +179,7 @@
         "Do not claim a phrase will calm everyone.",
         "Do not force personal disclosure."
       ],
-      "final_pl_for_review": "DZIEŃ 6\n\nU NAS — CO DOBRZE USŁYSZEĆ\n\nKażdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy jest zdenerwowany albo ma już wszystkiego dość.\n\nTo może być coś prostego:\n„Jestem obok”.\n„Mamy czas”.\n„Potrzebujesz chwili?”.\n\nNie szukamy złotych myśli.\n\nLuli: Nie musi brzmieć mądrze. Ma być czymś, co naprawdę chcesz wtedy usłyszeć."
+      "final_pl_for_review": "DZIEŃ 6\n\nU NAS — CO DOBRZE USŁYSZEĆ\n\nKażdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy jest zdenerwowany albo ma już wszystkiego dość.\n\nTo może być coś prostego:\n„Jestem obok”.\n„Mamy czas”.\n„Potrzebujesz chwili?”.\n\nNie szukamy złotych myśli.\n\nLuli: Nie musi brzmieć mądrze. Ma być czymś, co dobrze wtedy usłyszeć."
     },
     {
       "id": "GS.D07.PAUSE",
@@ -197,7 +197,7 @@
         "Do not promise emotional peace.",
         "Keep position optional and comfortable."
       ],
-      "final_pl_for_review": "DZIEŃ 7\n\nRESET — PODŁOGA ROBI ROBOTĘ\n\nUsiądźcie albo połóżcie się obok siebie.\n\nRozluźnijcie ciało i przez chwilę niczego nie trzymajcie na siłę.\n\nPoczujcie po prostu, jak ciężar ciała opiera się na podłodze.\n\nTyle. Podłoga naprawdę da sobie radę.\n\nDilo: Dziś ćwiczę z grawitacją. Ona robi większość."
+      "final_pl_for_review": "DZIEŃ 7\n\nRESET — PODŁOGA ROBI ROBOTĘ\n\nUsiądźcie albo połóżcie się obok siebie.\n\nRozluźnijcie ciało i przez chwilę niczego nie trzymajcie na siłę.\n\nPoczujcie po prostu, jak ciało opiera się na podłodze.\n\nTyle. Podłoga naprawdę da sobie radę.\n\nDilo: Dziś ćwiczę z grawitacją. Ona robi większość."
     },
     {
       "id": "GS.D07.PLAY",
