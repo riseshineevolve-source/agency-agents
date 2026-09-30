@@ -16,6 +16,9 @@ RSE Localization Orchestrator
 Localization Source Function Analyst
 Polish Native Family Writer
 Polish Usage and Idiom Editor
+Polish Book Register Editor
+Polish Breath and Reset Editor
+Activity Instruction Completeness Reviewer
 Polish Family Ear Reviewer
 Polish Semantic Translator
 Polish Transcreator
