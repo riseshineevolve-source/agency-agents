@@ -2,7 +2,7 @@
   "format": "rse-functional-brief-v1",
   "product": "gentle-steps-christmas",
   "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
-  "profile_sha256": "244cf291a1a0531bf8dd2d8fe51201f7e1670a3a1d985d0a4d358cdd096df160",
+  "profile_sha256": "5b09bbefae040e1dde8dab58876ee95866048fc7590a6e8320e15802bc861a8d",
   "scope": "days_01_03_voice_calibration",
   "units": [
     {
