@@ -1,12 +1,11 @@
 # 24 Gentle Steps to Christmas — Polish Voice Master Days 1–3
 
 Status: **WEEK 1 OWNER REVIEW / BOOK REGISTER + BREATH RESET + DETAIL GATES PASSED**  
-Source: owner-uploaded English paperback, 104 pages  
 Mode: `native_reauthor_from_function`  
 Working labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Candidate SHA-256: `71b496f78d70c1bd01b52d5a4b3f22dc004877c3f6d85e2082596e1f32260b24`
+Candidate SHA-256: `0325f1353e0a1ead9024d50401e9489c4069f2cb01fa091b79f6b3621d5d4b2d`
 
-This version is deliberately **natural book Polish, not chatty Polish**. Breathing/quiet exercises are framed as concrete everyday pauses rather than mindfulness/wellness copy. Game instructions retain the full source mechanics needed to play without seeing English.
+Natural Polish is kept at a professionally edited book register rather than chat-transcript casualness. Breathing/quiet exercises use concrete everyday framing. Activity instructions preserve the source mechanics needed to perform each exercise without the English edition.
 
 ---
 
@@ -97,7 +96,7 @@ Po kolei dokończcie zdanie:
 
 „W naszej rodzinie lubię to, że…”
 
-Wystarczy jedna rzecz. Może to być coś ważnego albo zwykły drobiazg, który po prostu lubicie w swoim rodzinnym życiu.
+Wystarczy jedna rzecz. Może to być coś ważnego albo zupełnie codziennego.
 
 Luli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy.
 
@@ -141,9 +140,9 @@ Alio: Kto zastygnie ostatni, zwykle ma najdziwniejszą pozę. I właśnie dlateg
 
 U NAS — CO DZIŚ BYŁO FAJNE?
 
-Każdy wybiera jeden moment z dzisiejszego dnia, który był po prostu przyjemny, i krótko o nim opowiada.
+Każdy wybiera jeden przyjemny moment z dzisiejszego dnia i krótko o nim opowiada.
 
-Nie musi to być nic ważnego ani wyjątkowego. Wystarczy jedna zwyczajna rzecz, którą dobrze wspominacie.
+Nie musi to być nic ważnego ani wyjątkowego. Wystarczy zwyczajna chwila, którą dobrze wspominacie.
 
 Mimi: Jeśli najlepsze były frytki, to frytki. Nie mam dalszych pytań.
 
