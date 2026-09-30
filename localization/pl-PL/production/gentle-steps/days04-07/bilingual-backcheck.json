@@ -4,7 +4,7 @@
   "source_file": "private-owner-upload/24 Gentle Paperback ok(2).pdf",
   "source_revision": "owner-upload-2026-09-30",
   "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
-  "candidate_sha256": "4e007bf3ee8b91984f30a09ac77ca426d1ad53f1b6746feeb03b011a81037815",
+  "candidate_sha256": "31a04e14d521c342d1e866c9bd7e93de44e97b746b88be0387ac0f73dacde9f2",
   "instruction": "Re-open the English source only now. Verify mechanics, facts, counts, sequence, consent, claim strength, character continuity and required function. Do not rewrite Polish toward English syntax, metaphors or cadence merely to make the texts look parallel.",
   "units": [
     {
@@ -25,7 +25,7 @@
         "Do not claim the light changes emotion or energy.",
         "If a real candle is used, keep it safely positioned and supervised."
       ],
-      "final_pl_for_review": "DZIEŃ 4\n\nRESET — JEDEN PUNKT\n\nDziś patrzymy na jedną rzecz naraz. Rzadki luksus.\n\nUsiądźcie blisko siebie i wybierzcie małe źródło światła — lampkę albo bezpiecznie ustawioną świeczkę.\n\nPrzez chwilę patrzcie tylko na światło. Zobaczcie, jak drga, zmienia się albo odbija.\n\nOddychajcie spokojnie. Nic więcej.\n\nLuli: Dziś niczego nie analizuję. Sama jestem zaskoczona."
+      "final_pl_for_review": "DZIEŃ 4\n\nRESET — TYLKO ŚWIATŁO\n\nUsiądźcie blisko siebie i wybierzcie małe źródło światła — lampkę albo bezpiecznie ustawioną świeczkę.\n\nPrzez chwilę patrzcie tylko na światło. Zobaczcie, jak się zmienia, drga albo odbija na przedmiotach wokół.\n\nOddychajcie swobodnie i nie próbujcie niczego z tego wyciągać. Przez chwilę wystarczy po prostu patrzeć.\n\nLuli: Dziś niczego nie analizuję. Sama jestem zaskoczona."
     },
     {
       "id": "GS.D04.PLAY",
@@ -46,7 +46,7 @@
       "safety_claim_boundaries": [
         "Keep it vocal/playful; do not add unsafe physical actions."
       ],
-      "final_pl_for_review": "DZIEŃ 4\n\nAKCJA — GŁOSY W OBIEGU\n\nJedno zdanie. Cała kolekcja głosów.\n\nZaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.\n\nPotem idziecie przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale zupełnie innym głosem: robota, prezentera wiadomości, kaczki, śpiewaka operowego, kosmity albo superbohatera. Możecie też wymyślić własny.\n\nW jednej rundzie głosy się nie powtarzają.\n\nGdy koło się zamknie, osoba po prawej stronie tej, która zaczynała, wymyśla nowe zdanie. I jedziecie jeszcze raz.\n\nMimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie."
+      "final_pl_for_review": "DZIEŃ 4\n\nAKCJA — GŁOSY W OBIEGU\n\nZaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.\n\nNastępnie gra toczy się przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale innym głosem.\n\nMożecie mówić jak robot, prezenter wiadomości, kaczka, śpiewak operowy, kosmita albo superbohater. Możecie też wymyślać własne głosy.\n\nW jednej rundzie żaden głos nie może się powtórzyć.\n\nKiedy zdanie przejdzie przez całe koło, osoba siedząca po prawej stronie osoby rozpoczynającej wybiera nowe zdanie. Potem zaczynacie kolejną rundę.\n\nMimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie."
     },
     {
       "id": "GS.D04.TALK",
@@ -63,7 +63,7 @@
       "safety_claim_boundaries": [
         "Do not imply colors diagnose emotions."
       ],
-      "final_pl_for_review": "DZIEŃ 4\n\nU NAS — JAKI KOLOR MIAŁ DZIŚ DZIEŃ?\n\nKażdy wybiera jeden kolor, który pasuje do jego dzisiejszego dnia, i mówi go na głos.\n\nNie trzeba niczego wyjaśniać.\n\nA jeśli takiego koloru jeszcze nie ma — możecie go właśnie wymyślić.\n\nDilo: Nie istnieje? Już istnieje. Dodałem do systemu."
+      "final_pl_for_review": "DZIEŃ 4\n\nU NAS — JAKI KOLOR MIAŁ DZIŚ DZIEŃ?\n\nKażdy wybiera jeden kolor, który najlepiej pasuje do jego dzisiejszego dnia, i mówi go na głos.\n\nNie trzeba wyjaśniać wyboru.\n\nJeśli odpowiedniego koloru jeszcze nie ma, możecie go właśnie wymyślić.\n\nDilo: Nie istnieje? Już istnieje. Dodałem do systemu."
     },
     {
       "id": "GS.D05.PAUSE",
@@ -81,7 +81,7 @@
       "safety_claim_boundaries": [
         "Do not claim the exercise regulates emotion or produces calm."
       ],
-      "final_pl_for_review": "DZIEŃ 5\n\nRESET — BLISKO, DALEKO, PRAWIE NIC\n\nZamknijcie oczy na minutę.\n\nNajpierw wyłapcie jakiś dźwięk bardzo blisko.\n\nPotem taki, który dochodzi z daleka.\n\nNa końcu poszukajcie czegoś ledwo słyszalnego.\n\nNie zgadujcie, co to. Po prostu słuchajcie.\n\nDilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem."
+      "final_pl_for_review": "DZIEŃ 5\n\nRESET — TRZY WARSTWY DŹWIĘKU\n\nZamknijcie oczy na minutę.\n\nNajpierw posłuchajcie dźwięków, które są najbliżej was.\n\nPotem sprawdźcie, co słychać dalej — za drzwiami, za oknem albo gdzieś w głębi domu.\n\nNa końcu spróbujcie wyłapać najcichszy dźwięk, który dociera do was z tła.\n\nNie zgadujcie, co to. Po prostu słuchajcie.\n\nDilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem."
     },
     {
       "id": "GS.D05.PLAY",
@@ -106,7 +106,7 @@
       "safety_claim_boundaries": [
         "Keep pointing and pace safe; no elimination/shaming."
       ],
-      "final_pl_for_review": "DZIEŃ 5\n\nAKCJA — 12 BEZ POMYŁKI\n\nUsiądźcie w kółku.\n\nZaczyna najwyższa osoba: mówi „jeden” i wskazuje kogoś. Wskazana osoba mówi „dwa” i wskazuje kolejną. Tak gracie aż do 12.\n\nPomyłka? Wracacie do jedynki.\n\nUdało się? Spróbujcie jeszcze raz, tylko szybciej. Potem od 12 do 1.\n\nJeśli jest za łatwo, ustalcie wyższą liczbę.\n\nFinał: spróbujcie wspólnie doliczyć do 12 — albo wyżej — bez ustalania, kto zaczyna i kto mówi następną liczbę. Jeśli dwie osoby odezwą się jednocześnie, zaczynacie od początku.\n\nW dwie osoby też działa.\n\nDilo: Tu nie ma VAR-u. Pomyłka i wracamy do jedynki."
+      "final_pl_for_review": "DZIEŃ 5\n\nAKCJA — 12 BEZ POMYŁKI\n\nUsiądźcie w kółku.\n\nZaczyna najwyższa osoba. Mówi „jeden” i wskazuje dowolną osobę, która ma kontynuować. Wskazana osoba mówi „dwa”, po czym wskazuje kolejną osobę. W ten sposób liczycie aż do 12.\n\nJeśli ktoś się pomyli, zaczynacie liczenie od początku.\n\nKiedy uda wam się dojść do 12 bez pomyłki, powtórzcie całą rundę szybciej. Następnie spróbujcie policzyć wstecz — od 12 do 1.\n\nJeśli chcecie zwiększyć trudność, możecie ustalić wyższą liczbę końcową.\n\nW rundzie finałowej nie ustalacie wcześniej, kto zacznie ani kto wypowie kolejną liczbę. Spróbujcie wspólnie doliczyć do 12 lub wyżej, obserwując pozostałych i pilnując, żeby dwie osoby nie odezwały się jednocześnie. Jeśli tak się stanie, zaczynacie od jedynki.\n\nTen wariant działa również wtedy, gdy bawią się tylko dwie osoby.\n\nDilo: Tu nie ma VAR-u. Pomyłka i wracamy do jedynki."
     },
     {
       "id": "GS.D05.TALK",
@@ -122,7 +122,7 @@
       "safety_claim_boundaries": [
         "Do not claim the sound proves safety or attachment."
       ],
-      "final_pl_for_review": "DZIEŃ 5\n\nU NAS — DŹWIĘK DOMU\n\nKażdy podaje jeden dźwięk, który lubi słyszeć w domu.\n\nMoże być zupełnie zwyczajny: czyjś śmiech, klucz w zamku, pies biegnący po podłodze, czajnik, muzyka z drugiego pokoju.\n\nPo jednym dźwięku.\n\nDilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołówka."
+      "final_pl_for_review": "DZIEŃ 5\n\nU NAS — DŹWIĘK DOMU\n\nKażdy podaje jeden dźwięk, który lubi słyszeć w domu.\n\nMoże to być coś zupełnie zwyczajnego: czyjś śmiech, klucz przekręcany w zamku, pies biegnący po podłodze, czajnik albo muzyka dochodząca z drugiego pokoju.\n\nWystarczy po jednym dźwięku.\n\nDilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołówka."
     },
     {
       "id": "GS.D06.PAUSE",
@@ -142,7 +142,7 @@
         "No requirement to synchronize perfectly.",
         "Do not claim one breath literally moves through everyone."
       ],
-      "final_pl_for_review": "DZIEŃ 6\n\nRESET — WSPÓLNY RYTM\n\nUsiądźcie luźno w kółku.\n\nDłonie połóżcie na kolanach albo — jeśli wszyscy chcą — lekko złapcie się za ręce.\n\nPrzez chwilę spróbujcie oddychać w podobnym tempie.\n\nNie musicie robić tego idealnie. Wystarczy, że nikt się nie spieszy.\n\nAlio: Pierwszy raz dziś drużyna działa bez narady. Nie przyzwyczajajcie się."
+      "final_pl_for_review": "DZIEŃ 6\n\nRESET — W JEDNYM TEMPIE\n\nUsiądźcie luźno w kółku.\n\nDłonie połóżcie na kolanach albo — jeśli wszyscy mają na to ochotę — lekko złapcie się za ręce.\n\nNa początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę zwolnić i przez chwilę oddychać w podobnym tempie.\n\nNie trzeba liczyć ani idealnie się zgrywać. Jeśli rytm się rozjedzie, nic nie szkodzi.\n\nAlio: Drużyna działa, choć nikt nie ustalał planu. Trochę podejrzane."
     },
     {
       "id": "GS.D06.PLAY",
@@ -162,7 +162,7 @@
       "safety_claim_boundaries": [
         "Movements must stay small/safe; no deliberate falling or loss of balance."
       ],
-      "final_pl_for_review": "DZIEŃ 6\n\nAKCJA — RÓWNO!\n\nStańcie ramię w ramię w jednym rzędzie.\n\nRunda 1: prowadzi najmłodsza osoba i sama też bierze udział. Woła: „lekko w przód”, „w tył”, „w lewo” albo „w prawo”. Wszyscy ruszają się razem. Spróbujcie zrobić co najmniej 10 ruchów bez pomyłki.\n\nRunda 2: prowadzi kolejna osoba według wieku. Tym razem robicie małe kroki: do przodu, do tyłu, w prawo albo w lewo. Cel: co najmniej 15 ruchów bez pomyłki.\n\nFinał: prowadzi najstarsza osoba. Może mieszać wychylenia i kroki, pojedyncze albo po kilka, wolniej lub szybciej.\n\nNie wychylajcie się tak mocno, żeby tracić równowagę.\n\nLuli: Efektowne wywrotki zostawiamy na później."
+      "final_pl_for_review": "DZIEŃ 6\n\nAKCJA — RÓWNO!\n\nStańcie w jednym rzędzie, ramię w ramię.\n\nW rundzie pierwszej prowadzi najmłodsza osoba, ale wykonuje ruchy razem z pozostałymi. Wybiera jedno z czterech poleceń: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy wykonują ten sam ruch w tym samym czasie.\n\nCelem jest wykonanie co najmniej 10 wspólnych ruchów bez pomyłki.\n\nW rundzie drugiej prowadzenie przejmuje kolejna osoba według wieku. Tym razem podaje polecenia dotyczące małych kroków: krok do przodu, do tyłu, w prawo albo w lewo. Wszyscy wykonują je razem.\n\nW tej rundzie spróbujcie wykonać co najmniej 15 kroków bez pomyłki.\n\nNa koniec prowadzenie przejmuje najstarsza osoba. Może łączyć oba rodzaje ruchów: prosić o wychylenie w wybraną stronę albo o jeden czy kilka małych kroków. Może też zmieniać tempo.\n\nGrajcie tak długo, jak macie ochotę. Wszystkie ruchy powinny być na tyle małe, żeby nikt nie tracił równowagi.\n\nLuli: Spektakularne wywrotki nie są częścią programu."
     },
     {
       "id": "GS.D06.TALK",
@@ -179,7 +179,7 @@
         "Do not claim a phrase will calm everyone.",
         "Do not force personal disclosure."
       ],
-      "final_pl_for_review": "DZIEŃ 6\n\nU NAS — CO DOBRZE USŁYSZEĆ\n\nKażdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy jest zdenerwowany albo ma już wszystkiego dość.\n\nTo może być coś prostego:\n„Jestem obok”.\n„Mamy czas”.\n„Potrzebujesz chwili?”.\n\nNie szukamy złotych myśli.\n\nLuli: Nie musi brzmieć mądrze. Ma być czymś, co dobrze wtedy usłyszeć."
+      "final_pl_for_review": "DZIEŃ 6\n\nU NAS — CO DOBRZE USŁYSZEĆ\n\nKażdy podaje jedno zdanie albo kilka słów, które dobrze mu usłyszeć od kogoś z rodziny, kiedy ma trudniejszy moment albo jest już zmęczony całym dniem.\n\nTo może być coś bardzo prostego:\n„Jestem obok”.\n„Mamy czas”.\n„Chcesz chwilę dla siebie?”.\n\nNie szukajcie mądrych sentencji. Wybierzcie coś, co naprawdę dobrze wam wtedy usłyszeć.\n\nLuli: Nie musi brzmieć mądrze. Ma po prostu działać u was."
     },
     {
       "id": "GS.D07.PAUSE",
@@ -197,7 +197,7 @@
         "Do not promise emotional peace.",
         "Keep position optional and comfortable."
       ],
-      "final_pl_for_review": "DZIEŃ 7\n\nRESET — PODŁOGA ROBI ROBOTĘ\n\nUsiądźcie albo połóżcie się obok siebie.\n\nRozluźnijcie ciało i przez chwilę niczego nie trzymajcie na siłę.\n\nPoczujcie po prostu, jak ciało opiera się na podłodze.\n\nTyle. Podłoga naprawdę da sobie radę.\n\nDilo: Dziś ćwiczę z grawitacją. Ona robi większość."
+      "final_pl_for_review": "DZIEŃ 7\n\nRESET — PODŁOGA ROBI SWOJE\n\nUsiądźcie albo połóżcie się obok siebie i ułóżcie się tak, żeby było wam wygodnie.\n\nPrzez chwilę pozwólcie rękom, nogom i plecom naprawdę oprzeć się na podłodze. Nie trzeba niczego napinać ani utrzymywać w określonej pozycji.\n\nZauważcie, w których miejscach ciało dotyka podłogi, i zostawcie na niej jego ciężar.\n\nDilo: Dziś trenuję z grawitacją. Ona robi większość pracy."
     },
     {
       "id": "GS.D07.PLAY",
@@ -222,7 +222,7 @@
         "Touch/hug requires mutual consent.",
         "Shoulder tap is gentle."
       ],
-      "final_pl_for_review": "DZIEŃ 7\n\nAKCJA — REAKCJA ŁAŃCUCHOWA\n\nStańcie albo usiądźcie w kółku.\n\nZaczyna osoba z najkrótszymi włosami. Wybiera kogoś i posyła tej osobie przesadnie szeroki uśmiech.\n\nTa osoba przekazuje uśmiech dalej. Ma dotrzeć do każdego i na końcu wrócić do osoby, która zaczynała.\n\nKolejne rundy:\n2 — przybijacie piątkę,\n3 — lekko klepiecie się w ramię,\n4 — szybki uścisk, ale tylko jeśli obie osoby mają na to ochotę.\n\nJeśli są tylko dwie osoby, popatrzcie na siebie i uśmiechajcie się przez 30 sekund. Potem, jeśli obie osoby chcą, możecie się przytulić przez kolejne 30 sekund.\n\nNini: Uśmiech większy, niż sytuacja wymaga. Dokładnie o to chodzi."
+      "final_pl_for_review": "DZIEŃ 7\n\nAKCJA — REAKCJA ŁAŃCUCHOWA\n\nStańcie albo usiądźcie w kółku.\n\nZaczyna osoba z najkrótszymi włosami. Wybiera dowolną osobę i uśmiecha się do niej możliwie szeroko.\n\nOsoba, która dostała uśmiech, przekazuje go kolejnej wybranej osobie. Uśmiech ma dotrzeć do każdego uczestnika, a na końcu wrócić do osoby, która zaczynała.\n\nW rundzie drugiej zamiast uśmiechu przekazujecie sobie piątkę.\n\nW rundzie trzeciej przekazujecie delikatne klepnięcie w ramię.\n\nW rundzie czwartej możecie przekazywać krótki uścisk, ale tylko wtedy, gdy obie osoby mają na to ochotę.\n\nJeśli bawią się tylko dwie osoby, przez 30 sekund patrzcie na siebie i się uśmiechajcie. Potem, jeśli obie osoby chcą, możecie przytulić się przez kolejne 30 sekund.\n\nNini: Uśmiech większy, niż wymaga sytuacja. Właśnie taki."
     },
     {
       "id": "GS.D07.TALK",
@@ -239,7 +239,7 @@
       "safety_claim_boundaries": [
         "Do not moralize or require praise of a specific person."
       ],
-      "final_pl_for_review": "DZIEŃ 7\n\nU NAS — KTO TU ROBI DOBRĄ ROBOTĘ?\n\nKażdy wskazuje jedną osobę w rodzinie, która często komuś pomaga albo po cichu coś ogarnia.\n\nPowiedzcie konkretnie, co ta osoba robi.\n\nTyle. Nie trzeba przemowy.\n\nNini: Skoro sami się nie pochwalą, dziś robimy to za nich."
+      "final_pl_for_review": "DZIEŃ 7\n\nU NAS — KTO TU ROBI DOBRĄ ROBOTĘ?\n\nKażdy wybiera jedną osobę z rodziny, która często pomaga innym albo po cichu robi coś dla pozostałych.\n\nPowiedzcie konkretnie, co ta osoba robi i co ostatnio zauważyliście.\n\nNini: Skoro sami się nie chwalą, ktoś musi. Dziś padło na nas."
     }
   ]
 }
