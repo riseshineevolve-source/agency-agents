@@ -271,3 +271,106 @@ Do NOT:
 - mutate central RSE priorities.
 
 If an owner-only release or irreversible decision is reached, park only that gate and continue remaining non-gated Gentle Steps work.
+
+
+## Visual V2 + Android execution continuation — 2026-09-30 evening
+
+Owner explicitly approved continuing execution and strengthened the mobile direction:
+- use more shades of purple than print;
+- use more gold and cream;
+- mobile colors should be stronger than the paper book so the product atmosphere does not disappear on a phone.
+
+### Visual V2 implemented
+
+Code branch:
+`riseshineevolve-source/RISE.SHINE.EVOLVE:gentle-steps/app-en-full24-purple-gold`
+
+Current verified web/content head at checkpoint update:
+`744bbe237dc1519277c53d17783217c3d23df9ce`
+
+Visual contract:
+`gentle-steps-app/VISUAL_SYSTEM_V2.md`
+
+Implemented:
+- multi-purple mobile system from night plum through royal purple/amethyst to lavender;
+- stronger gold CTA, trim, selected/progress states and sparkle details;
+- cream/ivory reading cards;
+- restrained burgundy editorial accents;
+- elegant Happy-Makers family visibly present on mobile Home;
+- dedicated Meet the Happy-Makers experience;
+- individual Mimi/Luli/Dilo/Alio/Nini avatars on character notes;
+- casual/sporty family art remains secondary only;
+- Grandma Bibi remains outside this product;
+- completed-day state is gold/purple, never green.
+
+Canonical cover artwork is used as the durable family visual source in repo and cropped to the elegant family scene.
+
+Visual proof workflow:
+- run `36774996991`
+- head `744bbe237dc1519277c53d17783217c3d23df9ce`
+- conclusion: PASS
+- artifact `11125126634`
+- artifact digest `sha256:26f4444662bf2105312a994f80cb344c29d9d05b35016baca42f095b8934c976`
+
+Proof set:
+- Home 390x844
+- Happy-Makers family 390x1000
+- Day 01 390x1200
+- Day 12 390x1200
+- Day 24 390x1200
+
+Human visual QA:
+- Home: PASS; stronger purple/gold/cream identity reads clearly at phone width;
+- family identity is now visible rather than hidden on mobile;
+- family sheet: PASS; five character cards remain compact and readable;
+- Day 01: PASS; character cameo strengthens the note without competing with instructions;
+- Day 12: PASS on dense/complex activity copy;
+- Day 24: PASS for final-day hierarchy and long copy.
+
+### Reminder contract
+
+Optional reminders are now implemented as native-only local notifications:
+- no account;
+- no push server;
+- no cloud schedule;
+- user explicitly chooses a time;
+- Android 13+ permission is requested only when saving a reminder;
+- notifications are scheduled only for the 24 Advent dates, not as an endless daily reminder;
+- local reminder IDs are deterministic and can be cancelled cleanly.
+
+### Android pre-Play lane opened
+
+Native shell:
+`gentle-steps-app/android-shell/`
+
+Technology:
+- Capacitor 8;
+- Android SDK 36 target generation;
+- local-notifications plugin;
+- Android web bundle generated from the same source-locked EN app;
+- large source character PNGs are converted into compact WebP assets during native packaging;
+- no separate backend/runtime fork.
+
+Provisional pre-Play package candidate:
+`com.riseshineevolve.gentlesteps`
+
+This ID is intentionally NOT treated as final until owner approval before the first Google Play application is created.
+
+Android CI:
+- workflow: `.github/workflows/gentle-steps-android.yml`
+- builds debug APK plus unsigned release AAB;
+- Play publication/signing remains owner-gated.
+
+At the time of this checkpoint update, the latest Android build is still executing; update this checkpoint with the final run result/artifact before claiming native build PASS.
+
+### Remaining real owner gates
+
+Do not stop ordinary technical work for these until required, but do not cross them silently:
+1. final Google Play package ID;
+2. final app icon / splash visual;
+3. signing / Play App Signing handling;
+4. store pricing/monetization if any;
+5. final Play privacy/Data Safety declarations;
+6. actual Play application creation/upload/publication.
+
+Polish remains outside this branch and must not be reintroduced before its separate language approval.
