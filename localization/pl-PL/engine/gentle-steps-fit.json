@@ -41,5 +41,9 @@
   "source_file": "24 Gentle Paperback ok.pdf",
   "source_mapping_evidence": "localization/pl-PL/GENTLE_STEPS_WEEK1_REAL_TEMPLATE_FIT_GATE.md",
   "source_page_count": 104,
-  "version": 1
+  "version": 1,
+  "copy_authority": "REFERENCE_ONLY",
+  "approval_scope": "historical_week1_geometry_calibration",
+  "superseded_for_production_by": "localization/pl-PL/GENTLE_STEPS_PL_REAUTHORING_PROFILE.md",
+  "production_fit_requires": "A new exact-text fit spec generated from re-authored Polish production copy; this historical heading spec cannot close production copy approval."
 }
