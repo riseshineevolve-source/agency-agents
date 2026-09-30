@@ -1,0 +1,411 @@
+{
+  "evidence_version": 1,
+  "mission_id": "world01_mission_008",
+  "source": {
+    "source_id": "world01_paperback_2026_09_18",
+    "filename": "10 STORIES WORLD 01 FINAL paperback.pdf",
+    "sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "bytes": 14523549,
+    "pages": 108,
+    "page_range": [
+      76,
+      83
+    ]
+  },
+  "method": "Visual block-by-block transcription of all eight published Level 8 pages; PDF text extraction used only for cross-checking",
+  "page_inventory": [
+    {
+      "page": 76,
+      "content_blocks": 1
+    },
+    {
+      "page": 77,
+      "content_blocks": 5
+    },
+    {
+      "page": 78,
+      "content_blocks": 5
+    },
+    {
+      "page": 79,
+      "content_blocks": 5
+    },
+    {
+      "page": 80,
+      "content_blocks": 2
+    },
+    {
+      "page": 81,
+      "content_blocks": 3
+    },
+    {
+      "page": 82,
+      "content_blocks": 3
+    },
+    {
+      "page": 83,
+      "content_blocks": 1
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p76_b01",
+      "node_id": "world01_mission_008_node_001",
+      "page": 76,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 8:",
+        "title": "The Muddy Ferrari",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "SELF-CARE",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Washing your face is actually high-performance car maintenance.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p77_b01",
+      "node_id": "world01_mission_008_node_002",
+      "page": 77,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "story_heading": "THE MUDDY FERRARI",
+        "log_label": "SYSTEM LOG >>",
+        "text": "Sunday afternoon. Alio walked into the living room, looking like a swamp monster made of mud and orange snack dust. He left a trail of dirty footprints across Mimi's clean floor."
+      }
+    },
+    {
+      "evidence_id": "p77_b02",
+      "node_id": "world01_mission_008_node_003",
+      "page": 77,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "I'm not washing! It's my tactical camouflage!"
+      }
+    },
+    {
+      "evidence_id": "p77_b03",
+      "node_id": "world01_mission_008_node_004",
+      "page": 77,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli wrinkled her nose and didn't even look up from her book."
+      },
+      "extraction_fragments": {
+        "text": [
+          "Luli wrinkled her nose and didn't even look up from",
+          "her book."
+        ]
+      }
+    },
+    {
+      "evidence_id": "p77_b04",
+      "node_id": "world01_mission_008_node_005",
+      "page": 77,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "You smell like a wet dog that rolled in old cheese."
+      },
+      "extraction_fragments": {
+        "text": [
+          "You smell",
+          "like a wet dog that rolled in old",
+          "cheese."
+        ]
+      }
+    },
+    {
+      "evidence_id": "p77_b05",
+      "node_id": "world01_mission_008_node_006",
+      "page": 77,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "But Dilo said that dirt creates a protective shield against aliens. He said aliens only kidnap clean children because they smell like soap, and soap is a delicacy in their galaxy."
+      }
+    },
+    {
+      "evidence_id": "p78_b01",
+      "node_id": "world01_mission_008_node_007",
+      "page": 78,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli finally looked up."
+      }
+    },
+    {
+      "evidence_id": "p78_b02",
+      "node_id": "world01_mission_008_node_008",
+      "page": 78,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "Dilo... your creativity in inventing nonsense is Nobel-worthy."
+      }
+    },
+    {
+      "evidence_id": "p78_b03",
+      "node_id": "world01_mission_008_node_009",
+      "page": 78,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "So... if I wash, the aliens will eat me! I don't want to be a snack, Mammi!"
+      }
+    },
+    {
+      "evidence_id": "p78_b04",
+      "node_id": "world01_mission_008_node_010",
+      "page": 78,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi walked in, holding a laundry basket. She grabbed Alio by the arm, holding him at a safe distance (because of the smell). She took a sharp breath through her nose, counting to three before speaking."
+      }
+    },
+    {
+      "evidence_id": "p78_b05",
+      "node_id": "world01_mission_008_node_011",
+      "page": 78,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Alio. Aliens don't eat soap. Dilo smells like a gym locker that hasn't been opened in ten years, that's why he says that. He just doesn't want to shower."
+      }
+    },
+    {
+      "evidence_id": "p79_b01",
+      "node_id": "world01_mission_008_node_012",
+      "page": 79,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Hey! I'm cultivating a natural microbiome!"
+      }
+    },
+    {
+      "evidence_id": "p79_b02",
+      "node_id": "world01_mission_008_node_013",
+      "page": 79,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Go to the bath. Listen to me: Your body is the only vehicle you get for life. If you treat it like a Ferrari - wash it, fuel it, rest it - it wins races. If you treat it like a trash can, it runs like a trash can."
+      }
+    },
+    {
+      "evidence_id": "p79_b03",
+      "node_id": "world01_mission_008_node_014",
+      "page": 79,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio looked at the car poster on Dilo's wall, then at his own dirty hands."
+      }
+    },
+    {
+      "evidence_id": "p79_b04",
+      "node_id": "world01_mission_008_node_015",
+      "page": 79,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Promise? Do you have a license to fight aliens if they come for my clean skin?"
+      }
+    },
+    {
+      "evidence_id": "p79_b05",
+      "node_id": "world01_mission_008_node_016",
+      "page": 79,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "I have a 'Mammi License'. That is a higher rank than a General."
+      },
+      "extraction_fragments": {
+        "text": [
+          "I have a 'Mammi License'. That",
+          "is a higher",
+          "rank than a General."
+        ]
+      }
+    },
+    {
+      "evidence_id": "p80_b01",
+      "node_id": "world01_mission_008_node_017",
+      "page": 80,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Okay. I'll risk it. But if they kidnap me, Dilo has to do my chores forever."
+      }
+    },
+    {
+      "evidence_id": "p80_b02",
+      "node_id": "world01_mission_008_node_018",
+      "page": 80,
+      "type": "system_note",
+      "subtype": "system_note",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: SYSTEM NOTE",
+        "note_label": "SYSTEM NOTE:",
+        "text": "Soap is not a punishment, it's Ferrari maintenance."
+      }
+    },
+    {
+      "evidence_id": "p81_b01",
+      "node_id": "world01_mission_008_node_019",
+      "page": 81,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 022",
+        "heading": "THE BRAIN SECRET (The Superhero Suit)",
+        "science_label": "The Science:",
+        "science": "This is called 'Enclothed Cognition.' When you are clean and dressed in fresh clothes, your brain actually thinks sharper! Taking care of your body sends a secret text message to your brain saying: 'I matter. I am important.'",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio wanted to stay dirty (Trash Can Mode), but Mimi explained that to 'win races' in life, you have to treat your body like a Ferrari. A shiny car drives better!"
+      }
+    },
+    {
+      "evidence_id": "p81_b02",
+      "node_id": "world01_mission_008_node_020",
+      "page": 81,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 023",
+        "heading": "THE TOOL ('The Power Pose')",
+        "science_label": "The Science:",
+        "science": "Your body language changes your brain chemistry. If you act brave with your body, your brain starts to feel brave.",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio was slumping and hiding. Try this: Stand like a Superhero (hands on hips, chest out, chin up) for 2 minutes. It lowers stress and boosts confidence!"
+      }
+    },
+    {
+      "evidence_id": "p81_b03",
+      "node_id": "world01_mission_008_node_021",
+      "page": 81,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 024",
+        "heading": "THE GLITCH ('I feel lazy and gross')",
+        "science_label": "The Science:",
+        "science": "When you feel tired and grumpy, your nervous system is overheated. You need a reset button.",
+        "in_story_label": "In The Story:",
+        "in_story": "If Alio is too tired to wash, he can use the 'Seal Trick.' Splash cold water on your face. This triggers an ancient reflex (The Dive Reflex) that instantly slows your heart and wakes up your brain."
+      }
+    },
+    {
+      "evidence_id": "p82_b01",
+      "node_id": "world01_mission_008_node_022",
+      "page": 82,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo claimed he was 'cultivating a microbiome' (gross!).",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Are you treating your body like a Treasure or a Trash Can today? What makes you feel 'shiny' and ready?"
+      }
+    },
+    {
+      "evidence_id": "p82_b02",
+      "node_id": "world01_mission_008_node_023",
+      "page": 82,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio went to perform 'Ferrari Maintenance.'",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Treat yourself like a VIP guest tonight. Fresh pajamas, brushed teeth, clean face. Notice if you sleep better!"
+      }
+    },
+    {
+      "evidence_id": "p82_b03",
+      "node_id": "world01_mission_008_node_024",
+      "page": 82,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why does cold water work? Humans have a secret superpower called the Mammalian Dive Reflex. When cold water hits your nose and cheeks, your brain thinks you are diving underwater. It instantly slows down your heartbeat to save oxygen and calms you down. It is the fastest way to stop a panic attack or wake up from a slump!"
+      }
+    },
+    {
+      "evidence_id": "p83_b01",
+      "node_id": "world01_mission_008_node_025",
+      "page": 83,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“FERRARI MAINTENANCE”",
+        "meaning_label": "MEANING:",
+        "meaning": "I am taking care of my body (washing, sleeping) because it is the only vehicle I have for this game of life.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Go wash or rest without complaining. Your brain will thank you.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'You are filthy, get in the bath right now!',",
+        "teach_label": "teach them to say:",
+        "teach_to_say": "‘Your hardware needs a wash. Time for Ferrari Maintenance to reset your system and boost your processing speed.’"
+      }
+    }
+  ]
+}
