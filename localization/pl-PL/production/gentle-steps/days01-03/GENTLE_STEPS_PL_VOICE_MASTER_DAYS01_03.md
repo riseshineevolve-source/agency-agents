@@ -5,9 +5,9 @@ Source: owner-uploaded English paperback, 104 pages
 Source SHA-256: `1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7`  
 Mode: `native_reauthor_from_function`  
 Candidate recurring labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Candidate SHA-256: `137a45ae9a041d045091211a1162dd6159741ec15c052c75078f3af750c613f7`
+Candidate SHA-256: `204b53d12575118dc3b33eb628b98ee7ef775afdd972d9019c1041dfcfa58f9a`
 
-V2 incorporates owner feedback that “less translated” is not enough. Polish grammar, syntax, collocations, idiom, sentence construction, semantic selection and real-life Polish context are now a separate mandatory gate.
+V2 incorporates owner feedback that “less translated” is not enough. Polish grammar, syntax, collocations, idiom, sentence construction, semantic selection, real-life context and read-aloud naturalness are now a separate mandatory gate.
 
 ---
 
@@ -81,7 +81,7 @@ AKCJA — DOMOWA ORKIESTRA
 
 Najpierw jeden dźwięk. Potem dokładamy kolejne.
 
-Zaczyna osoba, która jako pierwsza z was będzie mieć urodziny. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.
+Zaczyna osoba, która jako pierwsza z was będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk: „bam”, „ding”, „pff” — cokolwiek.
 
 Potem idziecie zgodnie z ruchem wskazówek zegara. Każda kolejna osoba powtarza wszystko, co już było, i dodaje swój dźwięk.
 
@@ -97,7 +97,7 @@ Dilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamy
 
 U NAS — CO LUBIMY W NASZEJ RODZINIE
 
-Dziś bez wielkich słów. Jedna rzecz, którą naprawdę lubicie w swojej rodzinie.
+Dziś bez wielkich słów. Mówimy o tym, co po prostu lubimy w swojej rodzinie.
 
 Po kolei dokończcie zdanie:
 
@@ -117,7 +117,7 @@ Na minutę wyłączamy tryb „muszę coś ogarnąć”.
 
 Usiądźcie albo stańcie blisko siebie.
 
-Jedną dłoń połóżcie na swojej klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli jej to pasuje. Jeśli nie, obie dłonie zostają przy was.
+Jedną dłoń połóżcie na swojej klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok — tylko jeśli ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.
 
 Przez minutę oddychajcie spokojnie.
 
@@ -149,9 +149,9 @@ Alio: Kto zastyga ostatni, zwykle wygląda najdziwniej. I o to chodzi.
 
 U NAS — CO DZIŚ BYŁO FAJNE?
 
-Nie trzeba mieć historii roku. Wystarczy jeden dobry moment.
+Nie szukamy wydarzenia roku. Wystarczy jeden dobry moment.
 
-Każdy mówi o jednej chwili z dzisiaj, która była fajna.
+Każdy wybiera jedną fajną chwilę z dzisiaj i o niej mówi.
 
 To może być coś ważnego albo zwykły drobiazg.
 
@@ -164,9 +164,10 @@ Mimi: Jeśli najlepsze były frytki, to frytki. Nie będę z tym dyskutować.
 ## V2 native-usage corrections locked as regression lessons
 
 The following defect types must not return:
-- selecting a starter through an unnatural phrase such as `najpóźniejsza litera w alfabecie`;
-- describing a moment as `duża / mała` where Polish would distinguish importance from an ordinary detail;
+- unnatural alphabet-order phrasing such as `najpóźniejsza litera w alfabecie`;
+- describing a moment as `duża / mała` where Polish distinguishes importance from an ordinary detail;
 - English-style metaphorical verb selection such as a snack `winning the day`;
+- grammatical-but-less-native phrasing when ordinary Polish has a simpler form, e.g. `będzie mieć urodziny` instead of `będzie obchodzić urodziny`;
 - translated Happy Makers punchlines that are understandable but not born in Polish;
 - recurring labels that sound therapeutic, childish, school-workshop-like or like an adult imitating teen slang.
 
