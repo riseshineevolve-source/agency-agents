@@ -17,6 +17,7 @@ from localization.packaging import package, build_memory, reuse_memory
 from localization.fit import fit_request, check_evidence
 from localization.backcheck import build_backcheck_packet, validate_backcheck_evidence
 from localization.terminology import markdown as terminology_markdown
+from localization.reauthoring import init_run as reauthor_init, writer_packet as reauthor_writer_packet, backcheck_packet as reauthor_backcheck_packet, final_gate as reauthor_final_gate
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "localization/pl-PL/engine"
@@ -72,6 +73,24 @@ def main(argv=None):
         cmd.add_argument("--output", required=True)
         if name == "backcheck-proof":
             cmd.add_argument("--evidence", required=True)
+
+    rinit = sub.add_parser("reauthor-init")
+    rinit.add_argument("--source", required=True)
+    rinit.add_argument("--profile", required=True)
+    rinit.add_argument("--revision", required=True)
+    rinit.add_argument("--output", required=True)
+
+    rwriter = sub.add_parser("reauthor-writer-packet")
+    for option in ("run", "profile", "brief", "output"):
+        rwriter.add_argument("--" + option, required=True)
+
+    rback = sub.add_parser("reauthor-backcheck-packet")
+    for option in ("run", "profile", "brief", "writer-packet", "candidate", "output"):
+        rback.add_argument("--" + option, required=True)
+
+    rgate = sub.add_parser("reauthor-final-gate")
+    for option in ("run", "profile", "writer-packet", "candidate", "reviews", "output"):
+        rgate.add_argument("--" + option, required=True)
     args = ap.parse_args(argv)
     try:
         if args.command == "terms-doc":
@@ -131,6 +150,19 @@ def main(argv=None):
                 dump(args.output, result)
                 print(result["status"])
                 return 2 if result["status"] != "PASS" else 0
+        elif args.command == "reauthor-init":
+            dump(args.output, reauthor_init(args.source, args.revision, load(args.profile)))
+        elif args.command == "reauthor-writer-packet":
+            dump(args.output, reauthor_writer_packet(load(args.run), load(args.profile), load(args.brief)))
+        elif args.command == "reauthor-backcheck-packet":
+            dump(args.output, reauthor_backcheck_packet(load(args.run), load(args.profile), load(args.brief),
+                                                             load(args.writer_packet), load(args.candidate)))
+        elif args.command == "reauthor-final-gate":
+            result = reauthor_final_gate(load(args.run), load(args.profile), load(args.writer_packet),
+                                         load(args.candidate), load(args.reviews))
+            dump(args.output, result)
+            print(result["status"])
+            return 0 if result["status"] == "PASS" else 2
         else:
             manifest, targets, terms = load(args.manifest), load(args.targets), load(args.terms)
             if args.current_source:
