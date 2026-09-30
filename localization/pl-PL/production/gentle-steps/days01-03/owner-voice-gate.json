@@ -2,8 +2,8 @@
   "format": "rse-voice-calibration-gate-v1",
   "product": "gentle-steps-christmas",
   "scope": "days_01_03_v2_native_usage",
-  "candidate_sha256": "3ba853ff8dafb96c48cabbc7ba03a1c179828fc51fc19ad1df35d3b33466c5ce",
-  "status": "READY_FOR_OWNER_VOICE_GATE",
+  "candidate_sha256": "71b496f78d70c1bd01b52d5a4b3f22dc004877c3f6d85e2082596e1f32260b24",
+  "status": "READY_FOR_WEEK1_OWNER_REVIEW",
   "surface_qa": "DEFERRED_UNTIL_OWNER_VOICE_APPROVAL",
   "scaleout_days_04_24": false,
   "owner_questions": [
@@ -15,5 +15,8 @@
   "deliberate_safety_adaptations": [
     "Day 1 and Day 3 physical contact is explicitly optional.",
     "Day 2 paced breathing is non-forcing and allows ordinary breathing."
-  ]
+  ],
+  "register_policy": "natural_book_polish_not_chatty",
+  "instruction_detail_policy": "source_mechanics_complete",
+  "breath_reset_policy": "concrete_everyday_non_mindfulness"
 }
