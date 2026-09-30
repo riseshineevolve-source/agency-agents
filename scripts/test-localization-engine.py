@@ -335,7 +335,8 @@ class RealFit(unittest.TestCase):
     def test_four_exact_pages_and_open_gate(self):
         request=fit_request(FIT)
         self.assertEqual([p['source_pdf_page'] for p in request['pages']],[25,26,35,38])
-        self.assertEqual(request['status'],'BLOCKED_REAL_TEMPLATE')
+        self.assertEqual(request['status'],'REFERENCE_ONLY_REAL_TEMPLATE')
+        self.assertEqual(request['copy_authority'],'REFERENCE_ONLY')
 
     def test_proxy_and_missing_artifacts_never_pass(self):
         with tempfile.TemporaryDirectory() as td:
@@ -363,7 +364,10 @@ class RealFit(unittest.TestCase):
     def test_evidence_schema_and_typography_mutations(self):
         with tempfile.TemporaryDirectory() as td:
             evidence=self.evidence(td)
-            self.assertEqual(check_evidence(FIT,evidence,td)['status'],'PASS')
+            result=check_evidence(FIT,evidence,td)
+            self.assertEqual(result['status'],'REFERENCE_PASS')
+            self.assertEqual(result['copy_authority'],'REFERENCE_ONLY')
+            self.assertNotEqual(result['status'],'PASS')
             for field,value in [('rendered_body_font_pt',9),('rendered_body_leading_pt',12),('heading','Wrong heading')]:
                 changed=copy.deepcopy(evidence);changed['pages'][0][field]=value
                 self.assertEqual(check_evidence(FIT,changed,td)['status'],'BLOCK')
