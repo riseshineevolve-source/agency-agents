@@ -2,7 +2,7 @@
   "format": "rse-voice-calibration-gate-v1",
   "product": "gentle-steps-christmas",
   "scope": "days_01_03",
-  "candidate_sha256": "eb5547cb2fd92919eb71438f7e9d6afe47ede4092c41e6c3a910dbda80442847",
+  "candidate_sha256": "4d47ef603761851eb2fd57f02cbd1adcfc0ef47c988e773241b04970295d0724",
   "status": "READY_FOR_OWNER_VOICE_GATE",
   "surface_qa": "DEFERRED_UNTIL_OWNER_VOICE_APPROVAL",
   "scaleout_days_04_24": false,
