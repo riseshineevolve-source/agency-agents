@@ -1,0 +1,20 @@
+{
+  "format": "rse-bounded-scaleout-gate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_08_14_week2",
+  "candidate_sha256": "783dd6c804b064dd822680b49a69f8b3b1bf676303ca2adfb5a177c6ecae3a6a",
+  "status": "READY_FOR_OVERNIGHT_CONTINUATION",
+  "next_batch_days15_24_authorized": true,
+  "publication_authorized": false,
+  "recurring_labels_locked": false,
+  "title_locked": false,
+  "surface_qa": "DEFERRED_FULL_BOOK_OWNER_GATE",
+  "owner_direction": "Continue overnight to a complete Polish Gentle Steps owner-review package using the approved native-Polish direction.",
+  "morning_review_items": [
+    "Complete Days 1-24 Polish manuscript as one product.",
+    "Recurring labels RESET / AKCJA / U NAS remain open.",
+    "Final Polish title remains open.",
+    "Exact book/app surface fit remains open.",
+    "Owner copy review remains required before publication."
+  ]
+}
