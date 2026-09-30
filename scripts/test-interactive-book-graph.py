@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Positive and adversarial tests for the published Level 1 graph boundary."""
+"""Positive and adversarial tests for the published World 01 graph boundary."""
 
 import copy
 import importlib.util
@@ -18,6 +18,8 @@ PACK2 = json.loads((ROOT / "orchestration/content-packs/world01/level2.en.candid
 EVIDENCE2 = json.loads((ROOT / "orchestration/content-sources/world01-level2-page-evidence.json").read_text(encoding="utf-8"))
 PACK3 = json.loads((ROOT / "orchestration/content-packs/world01/level3.en.candidate.json").read_text(encoding="utf-8"))
 EVIDENCE3 = json.loads((ROOT / "orchestration/content-sources/world01-level3-page-evidence.json").read_text(encoding="utf-8"))
+PACK4 = json.loads((ROOT / "orchestration/content-packs/world01/level4.en.candidate.json").read_text(encoding="utf-8"))
+EVIDENCE4 = json.loads((ROOT / "orchestration/content-sources/world01-level4-page-evidence.json").read_text(encoding="utf-8"))
 
 
 class GraphBoundaryTests(unittest.TestCase):
@@ -167,6 +169,56 @@ class LevelThreeBoundaryTests(unittest.TestCase):
             self.skipTest("private canonical PDF not present in CI")
         changed = copy.deepcopy(EVIDENCE3)
         changed["records"][20]["copy"]["text"] = "Unprinted Dilo action"
+        with self.assertRaises(ValueError):
+            validator.verify_pdf(pdf, changed)
+
+
+class LevelFourBoundaryTests(unittest.TestCase):
+    def test_published_level_four_is_complete(self):
+        counts = validator.validate(PACK4, EVIDENCE4)
+        self.assertEqual(sum(counts.values()), 35)
+        self.assertEqual(counts["dialogue"], 15)
+        self.assertEqual(counts["system_log"], 11)
+        self.assertEqual(counts["inventory"], 1)
+        self.assertEqual({n["provenance"]["page"] for n in PACK4["nodes"]}, set(range(42, 51)))
+
+    def assert_rejected(self, edit):
+        pack = copy.deepcopy(PACK4)
+        edit(pack)
+        with self.assertRaises(ValueError):
+            validator.validate(pack, EVIDENCE4)
+
+    def test_app_only_subtitle_rejected(self):
+        self.assert_rejected(lambda p: p["localized_copy"][0]["fields"].__setitem__("subtitle", "Turning boredom into adventure"))
+
+    def test_app_merged_page43_logs_rejected(self):
+        self.assert_rejected(lambda p: p["localized_copy"][3]["fields"].__setitem__("text", "Dilo rolled onto his side. Luli didn't look up from her book."))
+
+    def test_app_abridged_alio_dialogue_rejected(self):
+        self.assert_rejected(lambda p: p["localized_copy"][16]["fields"].__setitem__("text", "Drop it! Drop it! Dilo said books are carnivorous!"))
+
+    def test_printed_page47_order_rejected(self):
+        self.assert_rejected(lambda p: p["nodes"].__setitem__(slice(23, 27), list(reversed(p["nodes"][23:27]))))
+
+    def test_inventory_block_cannot_be_flattened_into_system_log(self):
+        self.assert_rejected(lambda p: p["nodes"][27].__setitem__("node_type", "system_log"))
+
+    def test_unprinted_science_label_rejected(self):
+        self.assert_rejected(lambda p: p["localized_copy"][33]["fields"].__setitem__("body_label", "Scientific Fact:"))
+
+    def test_app_em_dash_in_console_rejected(self):
+        self.assert_rejected(lambda p: p["localized_copy"][30]["fields"].__setitem__("in_story", EVIDENCE4["records"][30]["copy"]["in_story"].replace(" - ", " — ")))
+
+    def test_app_code_without_printed_quotes_rejected(self):
+        self.assert_rejected(lambda p: p["localized_copy"][34]["fields"].__setitem__("code", "SPY GEAR OFFLINE"))
+
+    def test_private_pdf_catches_level_four_ledger_tamper(self):
+        import os
+        pdf = os.environ.get("WORLD01_CANONICAL_PDF")
+        if not pdf:
+            self.skipTest("private canonical PDF not present in CI")
+        changed = copy.deepcopy(EVIDENCE4)
+        changed["records"][27]["copy"]["item"] = "Invented inventory reward"
         with self.assertRaises(ValueError):
             validator.verify_pdf(pdf, changed)
 
