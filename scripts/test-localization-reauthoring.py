@@ -181,8 +181,8 @@ class GentleStepsDays0103Production(unittest.TestCase):
 
         stage_status = {r["stage"]: r["status"] for r in reviews["reviews"]}
         for stage in (
-            "polish_family_language_edit", "humor_character_voice",
-            "kid_parent_ear_review", "anti_coaching_translationese",
+            "polish_usage_idiom_context", "polish_family_language_edit",
+            "humor_character_voice", "kid_parent_ear_review", "anti_coaching_translationese",
             "bilingual_fidelity_backcheck", "logic_continuity", "proofread",
         ):
             self.assertEqual(stage_status[stage], "PASS")
@@ -197,7 +197,15 @@ class GentleStepsDays0103Production(unittest.TestCase):
         labels = candidate["recurring_label_candidates"]
         self.assertEqual(labels["lock_state"], "OWNER_GATE")
         self.assertEqual((labels["pause"], labels["play"], labels["connection"]),
-                         ("PAUZA", "ZABAWA", "MIĘDZY NAMI"))
+                         ("RESET", "AKCJA", "U NAS"))
+
+        rendered = "\n".join(u["draft_pl"] for u in candidate["units"])
+        for regression in (
+            "najpóźniejsza litera w alfabecie",
+            "Może być duża. Może być zupełnie mała.",
+            "przekąska też może wygrać dzień",
+        ):
+            self.assertNotIn(regression, rendered)
 
 
 if __name__ == "__main__":
