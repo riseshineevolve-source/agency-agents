@@ -13,6 +13,9 @@ Image Prompt Engineer
 Psychologist
 Book Co-Author
 RSE Localization Orchestrator
+Localization Source Function Analyst
+Polish Native Family Writer
+Polish Family Ear Reviewer
 Polish Semantic Translator
 Polish Transcreator
 Polish Cultural Localizer
