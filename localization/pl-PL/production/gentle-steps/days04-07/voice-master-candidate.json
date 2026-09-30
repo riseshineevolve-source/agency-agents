@@ -21,7 +21,7 @@
       "id": "GS.D04.PLAY",
       "section_label": "AKCJA",
       "title": "GŁOSY W OBIEGU",
-      "draft_pl": "DZIEŃ 4\n\nAKCJA — GŁOSY W OBIEGU\n\nJedno zdanie. Cała kolekcja głosów.\n\nZaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.\n\nPotem idziecie przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale zupełnie innym głosem: robota, prezentera wiadomości, kaczki, śpiewaka operowego, kosmity, superbohatera — albo czymś, co właśnie wymyślicie.\n\nW jednej rundzie głosy się nie powtarzają.\n\nGdy koło się zamknie, osoba po prawej stronie tej, która zaczynała, wymyśla nowe zdanie. I jedziecie jeszcze raz.\n\nMimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie."
+      "draft_pl": "DZIEŃ 4\n\nAKCJA — GŁOSY W OBIEGU\n\nJedno zdanie. Cała kolekcja głosów.\n\nZaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.\n\nPotem idziecie przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale zupełnie innym głosem: robota, prezentera wiadomości, kaczki, śpiewaka operowego, kosmity albo superbohatera. Możecie też wymyślić własny.\n\nW jednej rundzie głosy się nie powtarzają.\n\nGdy koło się zamknie, osoba po prawej stronie tej, która zaczynała, wymyśla nowe zdanie. I jedziecie jeszcze raz.\n\nMimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie."
     },
     {
       "id": "GS.D04.TALK",
@@ -33,7 +33,7 @@
       "id": "GS.D05.PAUSE",
       "section_label": "RESET",
       "title": "BLISKO, DALEKO, PRAWIE NIC",
-      "draft_pl": "DZIEŃ 5\n\nRESET — BLISKO, DALEKO, PRAWIE NIC\n\nZamknijcie oczy na minutę.\n\nNajpierw wyłapcie jakiś dźwięk bardzo blisko.\n\nPotem taki, który dochodzi z daleka.\n\nNa końcu poszukajcie czegoś ledwo słyszalnego.\n\nNie musicie zgadywać, skąd dochodzą. Po prostu słuchajcie.\n\nDilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem."
+      "draft_pl": "DZIEŃ 5\n\nRESET — BLISKO, DALEKO, PRAWIE NIC\n\nZamknijcie oczy na minutę.\n\nNajpierw wyłapcie jakiś dźwięk bardzo blisko.\n\nPotem taki, który dochodzi z daleka.\n\nNa końcu poszukajcie czegoś ledwo słyszalnego.\n\nNie zgadujcie, co to. Po prostu słuchajcie.\n\nDilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem."
     },
     {
       "id": "GS.D05.PLAY",
@@ -45,7 +45,7 @@
       "id": "GS.D05.TALK",
       "section_label": "U NAS",
       "title": "DŹWIĘK DOMU",
-      "draft_pl": "DZIEŃ 5\n\nU NAS — DŹWIĘK DOMU\n\nKażdy podaje jeden dźwięk, który lubi słyszeć w domu.\n\nMoże być zupełnie zwyczajny: czyjś śmiech, klucz w zamku, pies biegnący po podłodze, czajnik, muzyka z drugiego pokoju.\n\nPo jednym dźwięku.\n\nDilo: Piknięcie mikrofalówki i otwierana lodówka są wysoko w rankingu. Pytania?"
+      "draft_pl": "DZIEŃ 5\n\nU NAS — DŹWIĘK DOMU\n\nKażdy podaje jeden dźwięk, który lubi słyszeć w domu.\n\nMoże być zupełnie zwyczajny: czyjś śmiech, klucz w zamku, pies biegnący po podłodze, czajnik, muzyka z drugiego pokoju.\n\nPo jednym dźwięku.\n\nDilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołówka."
     },
     {
       "id": "GS.D06.PAUSE",
@@ -63,13 +63,13 @@
       "id": "GS.D06.TALK",
       "section_label": "U NAS",
       "title": "CO DOBRZE USŁYSZEĆ",
-      "draft_pl": "DZIEŃ 6\n\nU NAS — CO DOBRZE USŁYSZEĆ\n\nKażdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy jest zdenerwowany albo ma już wszystkiego dość.\n\nTo może być coś prostego:\n„Jestem obok”.\n„Mamy czas”.\n„Potrzebujesz chwili?”.\n\nNie szukamy złotych myśli.\n\nLuli: Nie musi brzmieć mądrze. Ma być czymś, co naprawdę chcesz wtedy usłyszeć."
+      "draft_pl": "DZIEŃ 6\n\nU NAS — CO DOBRZE USŁYSZEĆ\n\nKażdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy jest zdenerwowany albo ma już wszystkiego dość.\n\nTo może być coś prostego:\n„Jestem obok”.\n„Mamy czas”.\n„Potrzebujesz chwili?”.\n\nNie szukamy złotych myśli.\n\nLuli: Nie musi brzmieć mądrze. Ma być czymś, co dobrze wtedy usłyszeć."
     },
     {
       "id": "GS.D07.PAUSE",
       "section_label": "RESET",
       "title": "PODŁOGA ROBI ROBOTĘ",
-      "draft_pl": "DZIEŃ 7\n\nRESET — PODŁOGA ROBI ROBOTĘ\n\nUsiądźcie albo połóżcie się obok siebie.\n\nRozluźnijcie ciało i przez chwilę niczego nie trzymajcie na siłę.\n\nPoczujcie po prostu, jak ciężar ciała opiera się na podłodze.\n\nTyle. Podłoga naprawdę da sobie radę.\n\nDilo: Dziś ćwiczę z grawitacją. Ona robi większość."
+      "draft_pl": "DZIEŃ 7\n\nRESET — PODŁOGA ROBI ROBOTĘ\n\nUsiądźcie albo połóżcie się obok siebie.\n\nRozluźnijcie ciało i przez chwilę niczego nie trzymajcie na siłę.\n\nPoczujcie po prostu, jak ciało opiera się na podłodze.\n\nTyle. Podłoga naprawdę da sobie radę.\n\nDilo: Dziś ćwiczę z grawitacją. Ona robi większość."
     },
     {
       "id": "GS.D07.PLAY",
