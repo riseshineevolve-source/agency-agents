@@ -54,6 +54,9 @@ jobs:
       - name: Test bilingual backcheck provenance contract
         run: python scripts/test-localization-backcheck.py
 
+      - name: Test native Polish re-authoring source isolation and gates
+        run: python scripts/test-localization-reauthoring.py
+
       - name: Validate all authorized fixtures and generate QA packages
         run: python scripts/test-localization-fixtures.py
 
