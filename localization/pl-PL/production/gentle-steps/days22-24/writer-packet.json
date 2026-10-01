@@ -1,8 +1,8 @@
 {
   "format": "rse-native-pl-writer-packet-v1",
   "product": "gentle-steps-christmas",
-  "run_sha256": "82592721794a8dc81c2a9208d974fba258fedbc9ceab4645753f7885f4c0d0fe",
-  "brief_sha256": "ca0f94b15aca16de1c282766b7b5fda190a6f68d0e8a4dcb9df2ed0297582306",
+  "run_sha256": "e9336564cc474b9a91dcb57ed9653c15f449412b04c0e93994ea29a5fce884ee",
+  "brief_sha256": "92eebc8c9cae7f3c9de229dc37278877c9fe7722990d24cd2336d1e6a5f68c08",
   "authoring_mode": "from_function_not_from_english_wording",
   "source_visibility": "functional_brief_only",
   "instructions": [
@@ -35,7 +35,7 @@
       "tone_job": "Simple Christmas-season pause, not spiritual visualization.",
       "humor_room": "Let the actual Christmas lights do the shining.",
       "cultural_friction": "Remove golden-light-inside-chest metaphor.",
-      "recurrence_context": "Working recurring family: RESET"
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
     },
     {
       "id": "GS.D22.PLAY",
@@ -65,7 +65,7 @@
       "tone_job": "Reflective but concrete movement game.",
       "humor_room": "No judging panel.",
       "cultural_friction": "Avoid 'true connection' coaching language.",
-      "recurrence_context": "Working recurring family: AKCJA"
+      "recurrence_context": "Working recurring family: GRAMY"
     },
     {
       "id": "GS.D22.TALK",
@@ -89,7 +89,7 @@
       "tone_job": "Simple end-of-month reflection.",
       "humor_room": "Life as teacher can be lightly joked about, not sermonized.",
       "cultural_friction": "Avoid insight/coaching jargon.",
-      "recurrence_context": "Working recurring family: U NAS"
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
     },
     {
       "id": "GS.D23.PAUSE",
@@ -113,7 +113,7 @@
       "tone_job": "Seasonal visual pause that still feels playful.",
       "humor_room": "Do not shake it again—especially Alio.",
       "cultural_friction": "Avoid mindfulness vocabulary about thoughts settling.",
-      "recurrence_context": "Working recurring family: RESET"
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
     },
     {
       "id": "GS.D23.PLAY",
@@ -144,7 +144,7 @@
       "tone_job": "Energetic get-to-know-you game with precise round structure.",
       "humor_room": "Slow motion belongs in dramatic movies.",
       "cultural_friction": "Avoid psychoanalysis/labeling.",
-      "recurrence_context": "Working recurring family: AKCJA"
+      "recurrence_context": "Working recurring family: GRAMY"
     },
     {
       "id": "GS.D23.TALK",
@@ -169,7 +169,7 @@
       "tone_job": "Plain accountability, no ceremony.",
       "humor_room": "No fireworks.",
       "cultural_friction": "Avoid bridge-between-hearts metaphor.",
-      "recurrence_context": "Working recurring family: U NAS"
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
     },
     {
       "id": "GS.D24.PAUSE",
@@ -197,7 +197,7 @@
       "tone_job": "Grounded final Christmas pause.",
       "humor_room": "One more minute; the rest can wait.",
       "cultural_friction": "Replace glowing-halo/world-light imagery with a concrete good wish.",
-      "recurrence_context": "Working recurring family: RESET"
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
     },
     {
       "id": "GS.D24.PLAY",
@@ -224,7 +224,7 @@
       "tone_job": "Celebratory and simple.",
       "humor_room": "No jury for pitch.",
       "cultural_friction": "Avoid grand claims about purest form of celebration.",
-      "recurrence_context": "Working recurring family: AKCJA"
+      "recurrence_context": "Working recurring family: GRAMY"
     },
     {
       "id": "GS.D24.TALK",
@@ -249,7 +249,7 @@
       "tone_job": "Warm close that feels earned after 24 days.",
       "humor_room": "One true thank-you and one wish are enough.",
       "cultural_friction": "Avoid warmth-glowing-in-hearts language.",
-      "recurrence_context": "Working recurring family: U NAS"
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
     }
   ]
 }
