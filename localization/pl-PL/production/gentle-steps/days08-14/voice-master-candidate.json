@@ -2,140 +2,140 @@
   "format": "rse-native-pl-candidate-v1",
   "product": "gentle-steps-christmas",
   "scope": "days_08_14_week2",
-  "brief_sha256": "9a2020f14bdb558449e928fc93c57d004b6df342748fe285c0f7b2d539fd53da",
+  "brief_sha256": "78e28c9f2730b3bf101e20ac602f17b1b251d801d79639559a2fa35653c1f121",
   "authoring_basis": "functional_brief_only",
   "recurring_label_candidates": {
-    "pause": "RESET",
-    "play": "AKCJA",
-    "connection": "U NAS",
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI",
     "lock_state": "OWNER_GATE"
   },
   "units": [
     {
       "id": "GS.D08.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "PULS",
-      "draft_pl": "DZIEŃ 8\n\nRESET — PULS\n\nUsiądźcie wygodnie i połóżcie dłoń na klatce piersiowej.\n\nPrzez chwilę spróbujcie wyczuć własny puls. Nie trzeba go liczyć ani do niczego porównywać.\n\nZostańcie tak przez minutę. Niczego nie trzeba w tym czasie planować ani kończyć — serce i tak robi swoje.\n\nNini: Serce pracuje bez przerwy. Ja po tej minucie poproszę o przerwę."
+      "draft_pl": "DZIEŃ 8\n\nZWOLNIJ: PULS\n\nUsiądźcie wygodnie i połóżcie dłoń na klatce piersiowej.\n\nPrzez chwilę spróbujcie wyczuć własny puls. Nie trzeba go liczyć ani do niczego porównywać.\n\nZostańcie tak przez minutę. Niczego nie trzeba w tym czasie planować ani kończyć. Serce i tak robi swoje.\n\nNini: Serce pracuje bez przerwy. Ja po tej minucie poproszę o przerwę."
     },
     {
       "id": "GS.D08.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "HISTORIA PO JEDNYM SŁOWIE",
-      "draft_pl": "DZIEŃ 8\n\nAKCJA — HISTORIA PO JEDNYM SŁOWIE\n\nUsiądźcie albo stańcie w kółku.\n\nZaczyna najstarsza osoba i mówi jedno słowo. Kolejna osoba powtarza pierwsze słowo i dodaje własne.\n\nKażda następna osoba powtarza całą historię od początku, zachowując kolejność słów, a na końcu dodaje jedno nowe.\n\nZróbcie tylko dwa albo trzy pełne okrążenia. Historia ma być krótka — i wcale nie musi mieć wielkiego sensu.\n\nKiedy historia będzie gotowa, opowiedzcie ją jeszcze raz od początku. Tym razem każdy zastępuje swoje słowo jednym ruchem albo dźwiękiem, który do niego pasuje.\n\nAlio: Jeśli po drugim okrążeniu fabuła przestała mieć sens, wszystko idzie zgodnie z planem."
+      "draft_pl": "DZIEŃ 8\n\nGRAMY: HISTORIA PO JEDNYM SŁOWIE\n\nUsiądźcie albo stańcie w kółku.\n\nZaczyna najstarsza osoba i mówi jedno słowo. Kolejna osoba powtarza pierwsze słowo i dodaje własne.\n\nKażda następna osoba powtarza całą historię od początku, zachowując kolejność słów, a na końcu dodaje jedno nowe.\n\nZróbcie tylko dwa albo trzy pełne okrążenia. Historia ma być krótka. Wcale nie musi mieć wielkiego sensu.\n\nKiedy historia będzie gotowa, opowiedzcie ją jeszcze raz od początku. Tym razem każdy zastępuje swoje słowo jednym ruchem albo dźwiękiem, który do niego pasuje.\n\nAlio: Jeśli po drugim okrążeniu fabuła przestała mieć sens, wszystko idzie zgodnie z planem."
     },
     {
       "id": "GS.D08.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "JEDNO KONKRETNE „DZIĘKUJĘ”",
-      "draft_pl": "DZIEŃ 8\n\nU NAS — JEDNO KONKRETNE „DZIĘKUJĘ”\n\nZaczyna najmłodsza osoba. Zwraca się do osoby siedzącej po prawej stronie i mówi:\n\n„Dziękuję ci za…”\n\nDokończcie zdanie jedną konkretną rzeczą, którą ta osoba zrobiła ostatnio dla was albo dla całej rodziny.\n\nPotem kolejna osoba dziękuje osobie po swojej prawej stronie. Kontynuujcie, aż każdy usłyszy przynajmniej jedno konkretne „dziękuję”.\n\nLuli: „Dzięki za wszystko” brzmi sprawnie. Dziś poproszę wersję z detalem."
+      "draft_pl": "DZIEŃ 8\n\nMIĘDZY NAMI: JEDNO KONKRETNE „DZIĘKUJĘ”\n\nZaczyna najmłodsza osoba. Zwraca się do osoby siedzącej po prawej stronie i mówi:\n\n„Dziękuję ci za…”\n\nDokończcie zdanie jedną konkretną rzeczą, którą ta osoba zrobiła ostatnio dla was albo dla całej rodziny.\n\nPotem kolejna osoba dziękuje osobie po swojej prawej stronie. Kontynuujcie, aż każdy usłyszy przynajmniej jedno konkretne „dziękuję”.\n\nLuli: „Dzięki za wszystko” to skrót. Dziś mówimy konkretnie."
     },
     {
       "id": "GS.D09.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "ODDECH I JEDNA DOBRA RZECZ",
-      "draft_pl": "DZIEŃ 9\n\nRESET — ODDECH I JEDNA DOBRA RZECZ\n\nUsiądźcie razem i zróbcie kilka spokojnych, niewymuszonych oddechów.\n\nPrzy wdechu przypomnijcie sobie jedną konkretną rzecz z dzisiejszego dnia, za którą jesteście komuś wdzięczni.\n\nPrzy wydechu rozluźnijcie ramiona i pozwólcie tej myśli po prostu zostać przez chwilę. Nie trzeba niczego mówić ani specjalnie sobie wyobrażać.\n\nLuli: Efekty specjalne nie są potrzebne. Konkret wystarczy."
+      "draft_pl": "DZIEŃ 9\n\nZWOLNIJ: ODDECH I JEDNA DOBRA RZECZ\n\nUsiądźcie razem i zróbcie kilka spokojnych, niewymuszonych oddechów.\n\nPrzy wdechu przypomnijcie sobie jedną konkretną rzecz z dzisiejszego dnia, za którą jesteście komuś wdzięczni.\n\nPrzy wydechu opuśćcie ramiona. Nie trzeba tego komentować. Wystarczy przez chwilę pamiętać o tej jednej dobrej rzeczy.\n\nLuli: Efekty specjalne nie są potrzebne. Konkret wystarczy."
     },
     {
       "id": "GS.D09.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "LUDZKI WĘZEŁ",
-      "draft_pl": "DZIEŃ 9\n\nAKCJA — LUDZKI WĘZEŁ\n\nStańcie blisko siebie w kółku.\n\nKażdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie wybierajcie osób stojących bezpośrednio obok was.\n\nKiedy wszyscy trzymają już po dwie dłonie, powstanie splątany węzeł.\n\nWaszym zadaniem jest rozplątać się powoli tak, żeby na końcu powstało jedno otwarte koło. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie, ale przez całą zabawę nie puszczajcie żadnej dłoni.\n\nJeśli bawią się tylko dwie osoby, stańcie naprzeciwko siebie, skrzyżujcie ręce i złapcie się za dłonie. Następnie spróbujcie powoli się odkręcić, nie puszczając rąk i nie tracąc kontaktu wzrokowego.\n\nMimi: Dramatyczne piruety nie dają dodatkowych punktów."
+      "draft_pl": "DZIEŃ 9\n\nGRAMY: LUDZKI WĘZEŁ\n\nStańcie blisko siebie w kółku.\n\nKażdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie wybierajcie osób stojących bezpośrednio obok was.\n\nKiedy wszyscy trzymają już po dwie dłonie, powstanie splątany węzeł.\n\nWaszym zadaniem jest rozplątać się powoli tak, żeby na końcu powstało jedno otwarte koło. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie, ale przez całą zabawę nie puszczajcie żadnej dłoni.\n\nJeśli bawią się tylko dwie osoby, stańcie naprzeciwko siebie, skrzyżujcie ręce i złapcie się za dłonie. Następnie spróbujcie powoli się odkręcić, nie puszczając rąk i nie tracąc kontaktu wzrokowego.\n\nMimi: Dramatyczne piruety nie dają dodatkowych punktów."
     },
     {
       "id": "GS.D09.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "MAŁA DOBRA RZECZ",
-      "draft_pl": "DZIEŃ 9\n\nU NAS — MAŁA DOBRA RZECZ\n\nPo kolei wymieńcie po jednej małej rzeczy z dzisiejszego dnia, która ucieszyła was w domu albo w rodzinie.\n\nTo może być czyjaś pomoc, wspólny posiłek, spokojna rozmowa, żart albo coś zupełnie zwyczajnego.\n\nWystarczy po jednym przykładzie.\n\nLuli: Jeśli ktoś zostawił wam ostatnie ciastko, to zdecydowanie kwalifikuje się do tej kategorii."
+      "draft_pl": "DZIEŃ 9\n\nMIĘDZY NAMI: MAŁA DOBRA RZECZ\n\nPo kolei wymieńcie po jednej małej rzeczy z dzisiejszego dnia, która ucieszyła was w domu albo w rodzinie.\n\nTo może być czyjaś pomoc, wspólny posiłek, spokojna rozmowa, żart albo coś zupełnie zwyczajnego.\n\nWystarczy po jednym przykładzie.\n\nLuli: Jeśli ktoś zostawił wam ostatnie ciastko, to zdecydowanie kwalifikuje się do tej kategorii."
     },
     {
       "id": "GS.D10.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "RAMIĘ W RAMIĘ",
-      "draft_pl": "DZIEŃ 10\n\nRESET — RAMIĘ W RAMIĘ\n\nUsiądźcie blisko siebie, tak żeby stykać się ramionami.\n\nPrzez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Każdy oddycha we własnym tempie.\n\nPo prostu posiedźcie tak przez chwilę i pozwólcie, żeby tempo dnia trochę zwolniło.\n\nAlio: Nikt nie prowadzi, nikt nie ustala planu. Podejrzanie proste."
+      "draft_pl": "DZIEŃ 10\n\nZWOLNIJ: RAMIĘ W RAMIĘ\n\nUsiądźcie blisko siebie, tak żeby stykać się ramionami.\n\nPrzez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Każdy oddycha we własnym tempie.\n\nPo prostu posiedźcie tak przez chwilę i pozwólcie, żeby tempo dnia trochę zwolniło.\n\nAlio: Nikt nie prowadzi, nikt nie ustala planu. Podejrzanie proste."
     },
     {
       "id": "GS.D10.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "RODZINNA MASZYNA",
-      "draft_pl": "DZIEŃ 10\n\nAKCJA — RODZINNA MASZYNA\n\nZaczyna osoba, której imię rozpoczyna się na literę najbliżej początku alfabetu.\n\nWymyśla jeden ruch robota i jeden pasujący do niego dźwięk, a następnie wykonuje oba elementy razem.\n\nKolejna osoba powtarza dokładnie pierwszy ruch i dźwięk, a potem dodaje własny ruch i własny dźwięk.\n\nKażda następna osoba odtwarza całą dotychczasową sekwencję w tej samej kolejności i na końcu dodaje kolejny „robotyczny” element.\n\nKiedy wszyscy dołożą już swoją część, wykonajcie całą sekwencję jeszcze raz wspólnie — od pierwszego ruchu i dźwięku aż do ostatniego.\n\nDilo: Jeśli ktoś pomyli kolejność, maszyna zgłasza błąd. Restart bez wzywania serwisu."
+      "draft_pl": "DZIEŃ 10\n\nGRAMY: RODZINNA MASZYNA\n\nZaczyna osoba, której imię rozpoczyna się na literę najbliżej początku alfabetu.\n\nWymyśla jeden ruch robota i jeden pasujący do niego dźwięk, a następnie wykonuje oba elementy razem.\n\nKolejna osoba powtarza dokładnie pierwszy ruch i dźwięk, a potem dodaje własny ruch i własny dźwięk.\n\nKażda następna osoba odtwarza całą dotychczasową sekwencję w tej samej kolejności i na końcu dodaje kolejny „robotyczny” element.\n\nKiedy wszyscy dołożą już swoją część, wykonajcie całą sekwencję jeszcze raz wspólnie, od pierwszego ruchu i dźwięku aż do ostatniego.\n\nDilo: Jeśli ktoś pomyli kolejność, maszyna zgłasza błąd. Restart bez wzywania serwisu."
     },
     {
       "id": "GS.D10.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "NASZE HASŁO",
-      "draft_pl": "DZIEŃ 10\n\nU NAS — NASZE HASŁO\n\nWymyślcie razem jedno krótkie zdanie, które naprawdę pasuje do waszej rodziny.\n\nNie musi być wzniosłe. Ważne, żeby było wasze i dało się je zapamiętać.\n\nMoże to być na przykład:\n„Trzymamy się razem”.\n„Najpierw pomagamy”.\n„Zawsze znajdziemy powód do śmiechu”.\n\nWybierzcie jedno zdanie, które chcielibyście zachować jako wasze rodzinne hasło.\n\nDilo: Krótkie i łatwe do zapamiętania. Jak dobre hasło. Tylko nie ustawiajcie go do Wi-Fi."
+      "draft_pl": "DZIEŃ 10\n\nMIĘDZY NAMI: NASZE HASŁO\n\nWymyślcie razem jedno krótkie zdanie, które naprawdę pasuje do waszej rodziny.\n\nNie musi być wzniosłe. Ważne, żeby było wasze i dało się je zapamiętać.\n\nMoże to być na przykład:\n„Trzymamy się razem”.\n„Najpierw pomagamy”.\n„Zawsze znajdziemy powód do śmiechu”.\n\nWybierzcie jedno zdanie, które chcielibyście zachować jako wasze rodzinne hasło.\n\nDilo: Krótkie i łatwe do zapamiętania. Jak dobre hasło. Tylko nie ustawiajcie go do Wi-Fi."
     },
     {
       "id": "GS.D11.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "ROZLUŹNIJ TWARZ",
-      "draft_pl": "DZIEŃ 11\n\nRESET — ROZLUŹNIJ TWARZ\n\nUsiądźcie blisko siebie i zamknijcie oczy.\n\nPrzez kilka spokojnych oddechów rozluźnijcie czoło i szczękę. Nie trzeba niczego osiągać ani sprawdzać, czy robicie to tak samo.\n\nNa koniec spróbujcie lekko się uśmiechnąć — bez słów i bez żadnego szczególnego powodu.\n\nZostańcie tak przez kilka sekund, a potem otwórzcie oczy.\n\nNini: Uśmiech bez zdjęcia. Rzadki okaz."
+      "draft_pl": "DZIEŃ 11\n\nZWOLNIJ: ROZLUŹNIJ TWARZ\n\nUsiądźcie blisko siebie i zamknijcie oczy.\n\nPrzez kilka spokojnych oddechów rozluźnijcie czoło i szczękę. Nie trzeba niczego osiągać ani sprawdzać, czy robicie to tak samo.\n\nNa koniec spróbujcie lekko się uśmiechnąć, bez słów i bez żadnego szczególnego powodu.\n\nZostańcie tak przez kilka sekund, a potem otwórzcie oczy.\n\nNini: Uśmiech bez zdjęcia. Rzadki okaz."
     },
     {
       "id": "GS.D11.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "DZIWNE POLECENIE",
-      "draft_pl": "DZIEŃ 11\n\nAKCJA — DZIWNE POLECENIE\n\nProwadzi osoba, która ma dziś najbardziej kolorowe skarpetki.\n\nJej zadaniem jest wymyślić polecenie składające się zawsze z trzech części:\n1. ruchu,\n2. dźwięku,\n3. miny.\n\nNa przykład:\n„Zrób dwa małe podskoki, zabzycz jak pszczoła i zrób bardzo poważną minę”.\nAlbo:\n„Maszeruj powoli, powiedz dwa razy «bop» i wyglądaj tak, jakby ktoś właśnie zjadł twoje ciastko”.\n\nWszyscy — łącznie z osobą prowadzącą — wykonują całe polecenie od razu i w tym samym czasie.\n\nOsoba, która się zawaha, zacznie się śmiać albo zareaguje najpóźniej, zostaje nowym prowadzącym i wymyśla kolejne trzyczęściowe polecenie.\n\nNini: Poważna mina jest bardzo ważna. Zwłaszcza kiedy kompletnie nie pasuje."
+      "draft_pl": "DZIEŃ 11\n\nGRAMY: DZIWNE POLECENIE\n\nProwadzi osoba, która ma dziś najbardziej kolorowe skarpetki.\n\nJej zadaniem jest wymyślić polecenie składające się zawsze z trzech części:\n1. ruchu,\n2. dźwięku,\n3. miny.\n\nNa przykład:\n„Zrób dwa małe podskoki, zabzycz jak pszczoła i zrób bardzo poważną minę”.\nAlbo:\n„Maszeruj powoli, powiedz dwa razy «bop» i wyglądaj tak, jakby ktoś właśnie zjadł twoje ciastko”.\n\nWszyscy wykonują całe polecenie od razu i w tym samym czasie. Osoba prowadząca również bierze udział.\n\nOsoba, która się zawaha, zacznie się śmiać albo zareaguje najpóźniej, zostaje nowym prowadzącym i wymyśla kolejne trzyczęściowe polecenie.\n\nNini: Poważna mina jest bardzo ważna. Zwłaszcza kiedy kompletnie nie pasuje."
     },
     {
       "id": "GS.D11.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "W CZYM JESTEŚMY DOBRZY?",
-      "draft_pl": "DZIEŃ 11\n\nU NAS — W CZYM JESTEŚMY DOBRZY?\n\nPo kolei dokończcie zdanie:\n\n„W naszej rodzinie naprawdę dobrze wychodzi nam…”\n\nKażdy może podać inną odpowiedź. Może to być coś poważnego albo zupełnie codziennego: pomaganie sobie, wspólne gotowanie, organizowanie wyjazdów, rozśmieszanie innych albo znajdowanie rzeczy, które „przed chwilą tu były”.\n\nAlio: Jeśli odpowiedź brzmi „znajdowanie rzeczy, których nikt inny nie widził”, uznaję."
+      "draft_pl": "DZIEŃ 11\n\nMIĘDZY NAMI: W CZYM JESTEŚMY DOBRZY?\n\nPo kolei dokończcie zdanie:\n\n„W naszej rodzinie naprawdę dobrze wychodzi nam…”\n\nKażdy może podać inną odpowiedź. Może to być coś poważnego albo zupełnie codziennego: pomaganie sobie, wspólne gotowanie, organizowanie wyjazdów, rozśmieszanie innych albo znajdowanie rzeczy, które „przed chwilą tu były”.\n\nAlio: Jeśli odpowiedź brzmi „znajdowanie rzeczy, których nikt inny nie widził”, uznaję."
     },
     {
       "id": "GS.D12.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "JEDNO SPOJRZENIE",
-      "draft_pl": "DZIEŃ 12\n\nRESET — JEDNO SPOJRZENIE\n\nUsiądźcie razem i weźcie jeden spokojny oddech.\n\nOtwórzcie oczy i przez kilka sekund popatrzcie na osoby obok.\n\nPomyślcie o jednej konkretnej rzeczy, którą cenicie w kimś, na kogo właśnie patrzycie.\n\nNie trzeba niczego mówić ani robić specjalnej miny. Jedno spojrzenie wystarczy.\n\nMimi: Bez przemowy. Dziś oczy załatwiają formalności."
+      "draft_pl": "DZIEŃ 12\n\nZWOLNIJ: JEDNO SPOJRZENIE\n\nUsiądźcie razem i weźcie jeden spokojny oddech.\n\nOtwórzcie oczy i przez kilka sekund popatrzcie na osoby obok.\n\nPomyślcie o jednej konkretnej rzeczy, którą cenicie w kimś, na kogo właśnie patrzycie.\n\nNie trzeba niczego mówić ani robić specjalnej miny. Jedno spojrzenie wystarczy.\n\nMimi: Bez przemowy. Dziś oczy załatwiają formalności."
     },
     {
       "id": "GS.D12.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "PIĘĆ SŁÓW: TRZY PRAWDY, DWA ABSURDY",
-      "draft_pl": "DZIEŃ 12\n\nAKCJA — PIĘĆ SŁÓW: TRZY PRAWDY, DWA ABSURDY\n\nZaczyna osoba, która ma najdłuższe drugie imię. Jeśli nikt nie ma drugiego imienia, zaczyna osoba z najdłuższym pierwszym imieniem.\n\nOsoba rozpoczynająca w tajemnicy wybiera dowolną rozpoznawalną postać, zwierzę, bohatera, przedmiot albo postać z bajki.\n\nNastępnie opisuje swój wybór dokładnie pięcioma pojedynczymi słowami:\n- trzy słowa muszą być prawdziwymi wskazówkami,\n- dwa słowa mają być całkowicie absurdalnymi kłamstwami.\n\nPrzykład dla Czerwonego Kapturka:\n„Koszyk. Las. Babcia. Rakieta. Sushi.”\n\nNajpierw pozostali próbują wskazać, które dwa słowa są kłamstwami. Dopiero potem zgadują, o kogo albo o co chodziło.\n\nW kolejnej rundzie rolę osoby wybierającej przejmuje następna osoba, idąc przeciwnie do ruchu wskazówek zegara.\n\nLuli: Pięć słów. Nie sześć. Tak, liczę."
+      "draft_pl": "DZIEŃ 12\n\nGRAMY: PIĘĆ SŁÓW: TRZY PRAWDY, DWA ABSURDY\n\nZaczyna osoba, która ma najdłuższe drugie imię. Jeśli nikt nie ma drugiego imienia, zaczyna osoba z najdłuższym pierwszym imieniem.\n\nOsoba rozpoczynająca w tajemnicy wybiera dowolną rozpoznawalną postać, zwierzę, bohatera, przedmiot albo postać z bajki.\n\nNastępnie opisuje swój wybór dokładnie pięcioma pojedynczymi słowami:\n- trzy słowa muszą być prawdziwymi wskazówkami,\n- dwa słowa mają być całkowicie absurdalnymi kłamstwami.\n\nPrzykład dla Czerwonego Kapturka:\n„Koszyk. Las. Babcia. Rakieta. Sushi.”\n\nNajpierw pozostali próbują wskazać, które dwa słowa są kłamstwami. Dopiero potem zgadują, o kogo albo o co chodziło.\n\nW kolejnej rundzie rolę osoby wybierającej przejmuje następna osoba, idąc przeciwnie do ruchu wskazówek zegara.\n\nLuli: Pięć słów. Nie sześć. Tak, liczę."
     },
     {
       "id": "GS.D12.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "CO DOBREGO ZAUWAŻYLIŚMY?",
-      "draft_pl": "DZIEŃ 12\n\nU NAS — CO DOBREGO ZAUWAŻYLIŚMY?\n\nPierwsza osoba zwraca się do osoby siedzącej po lewej stronie.\n\nMówi o jednej konkretnej, życzliwej rzeczy, którą zauważyła u tej osoby w ostatnim czasie — nawet jeśli była bardzo drobna.\n\nNastępnie ta osoba zwraca się do osoby po swojej lewej stronie. Kontynuujcie zgodnie z ruchem wskazówek zegara, aż każdy usłyszy jeden konkretny przykład.\n\nMimi: Życzliwość mnoży się szybciej niż pranie. Prawie."
+      "draft_pl": "DZIEŃ 12\n\nMIĘDZY NAMI: CO DOBREGO ZAUWAŻYLIŚMY?\n\nPierwsza osoba zwraca się do osoby siedzącej po lewej stronie.\n\nMówi o jednej konkretnej, życzliwej rzeczy, którą zauważyła u tej osoby w ostatnim czasie, nawet jeśli była bardzo drobna.\n\nNastępnie ta osoba zwraca się do osoby po swojej lewej stronie. Kontynuujcie zgodnie z ruchem wskazówek zegara, aż każdy usłyszy jeden konkretny przykład.\n\nMimi: Życzliwość mnoży się szybciej niż pranie. Prawie."
     },
     {
       "id": "GS.D13.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "MINUTA NA ZWOLNIONYM TEMPIE",
-      "draft_pl": "DZIEŃ 13\n\nRESET — MINUTA NA ZWOLNIONYM TEMPIE\n\nPrzez minutę poruszajcie rękami tak wolno, jakby ktoś włączył film w zwolnionym tempie.\n\nPowoli unieście dłonie, zatrzymajcie je na chwilę i równie powoli opuśćcie.\n\nZwróćcie uwagę na powietrze przesuwające się po skórze podczas ruchu. Nie trzeba niczego interpretować — chodzi tylko o to, żeby przez minutę zrobić jedną prostą rzecz naprawdę wolno.\n\nDilo: Tryb 0,25x. Mózg może zgłosić reklamację."
+      "draft_pl": "DZIEŃ 13\n\nZWOLNIJ: MINUTA NA ZWOLNIONYM TEMPIE\n\nPrzez minutę poruszajcie rękami tak wolno, jakby ktoś włączył film w zwolnionym tempie.\n\nPowoli unieście dłonie, zatrzymajcie je na chwilę i równie powoli opuśćcie.\n\nZwróćcie uwagę na powietrze przesuwające się po skórze podczas ruchu. Nie trzeba niczego interpretować. Chodzi tylko o to, żeby przez minutę zrobić jedną prostą rzecz naprawdę wolno.\n\nDilo: Tryb 0,25x. Mózg może zgłosić reklamację."
     },
     {
       "id": "GS.D13.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "PRZEJŚCIE SPECJALNE",
-      "draft_pl": "DZIEŃ 13\n\nAKCJA — PRZEJŚCIE SPECJALNE\n\nDwie osoby stają naprzeciwko siebie i unoszą ręce, tworząc z nich „bramę”.\n\nJedna z pozostałych osób przechodzi powoli pod bramą. W tym czasie pozostali mówią cicho po jednym życzliwym zdaniu albo kilku dobrych słowach o tej osobie.\n\nPo przejściu zmieńcie role. Kontynuujcie, aż każdy przynajmniej raz przejdzie przez bramę.\n\nJeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła tak, żeby tworzyły umowną bramę. Przechodźcie przez nią po kolei i podczas przejścia mówcie sobie nawzajem kilka życzliwych słów.\n\nMimi: Wejście jak na premierę. Czerwony dywan jest dziś w wersji wyobrażonej."
+      "draft_pl": "DZIEŃ 13\n\nGRAMY: PRZEJŚCIE SPECJALNE\n\nDwie osoby stają naprzeciwko siebie i unoszą ręce, tworząc z nich „bramę”.\n\nJedna z pozostałych osób przechodzi powoli pod bramą. W tym czasie pozostali mówią cicho po jednym życzliwym zdaniu albo kilku dobrych słowach o tej osobie.\n\nPo przejściu zmieńcie role. Kontynuujcie, aż każdy przynajmniej raz przejdzie przez bramę.\n\nJeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła tak, żeby tworzyły umowną bramę. Przechodźcie przez nią po kolei i podczas przejścia mówcie sobie nawzajem kilka życzliwych słów.\n\nMimi: Wejście jak na premierę. Czerwony dywan jest dziś w wersji wyobrażonej."
     },
     {
       "id": "GS.D13.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "TO, CO MAMY",
-      "draft_pl": "DZIEŃ 13\n\nU NAS — TO, CO MAMY\n\nWyobraźcie sobie, że wasza rodzina ma własną mapę, na której zaznaczone są rzeczy naprawdę dla was ważne.\n\nKażdy wymienia jeden taki „skarb” — coś, co macie jako rodzina i czego nie da się po prostu kupić.\n\nMoże to być wspólny humor, pomoc, zaufanie, rozmowy, tradycje, wsparcie albo coś zupełnie innego, co jest ważne właśnie u was.\n\nNini: Jeśli ktoś powie „Wi-Fi”, proszę przygotować drugi skarb."
+      "draft_pl": "DZIEŃ 13\n\nMIĘDZY NAMI: TO, CO MAMY\n\nWyobraźcie sobie, że wasza rodzina ma własną mapę, na której zaznaczone są rzeczy naprawdę dla was ważne.\n\nKażdy wymienia jeden taki „skarb”, czyli coś, co macie jako rodzina i czego nie da się po prostu kupić.\n\nMoże to być wspólny humor, pomoc, zaufanie, rozmowy, tradycje, wsparcie albo coś zupełnie innego, co jest ważne właśnie u was.\n\nNini: Jeśli ktoś powie „Wi-Fi”, proszę przygotować drugi skarb."
     },
     {
       "id": "GS.D14.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "CIEPŁE DŁONIE",
-      "draft_pl": "DZIEŃ 14\n\nRESET — CIEPŁE DŁONIE\n\nPotrzyjcie dłonie o siebie przez kilka sekund, aż zrobią się wyraźnie cieplejsze.\n\nJedną dłoń połóżcie na własnej klatce piersiowej.\n\nDrugą możecie położyć na ramieniu osoby siedzącej po prawej stronie — tylko jeśli ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.\n\nZostańcie tak przez chwilę i po prostu zauważcie ciepło dłoni.\n\nLuli: Dwie dłonie, zero przemowy. Bardzo rozsądny układ."
+      "draft_pl": "DZIEŃ 14\n\nZWOLNIJ: CIEPŁE DŁONIE\n\nPotrzyjcie dłonie o siebie przez kilka sekund, aż zrobią się wyraźnie cieplejsze.\n\nJedną dłoń połóżcie na własnej klatce piersiowej.\n\nDrugą możecie położyć na ramieniu osoby siedzącej po prawej stronie, ale tylko wtedy, gdy ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.\n\nZostańcie tak przez chwilę i po prostu zauważcie ciepło dłoni.\n\nLuli: Dwie dłonie, zero przemowy. Bardzo rozsądny układ."
     },
     {
       "id": "GS.D14.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "RYTM PO KOLEI",
-      "draft_pl": "DZIEŃ 14\n\nAKCJA — RYTM PO KOLEI\n\nZaczyna najniższa osoba. Wymyśla krótki, prosty rytm, na przykład: klaśnięcie – klaśnięcie – pstryknięcie.\n\nWszyscy powtarzają ten rytm dokładnie tak samo.\n\nNastępnie, idąc zgodnie z ruchem wskazówek zegara, kolejna osoba wymyśla własny krótki rytm. Cała grupa również go powtarza.\n\nKontynuujcie, aż każdy stworzy jeden rytm i usłyszy jego powtórzenie przez całą grupę.\n\nNa koniec spróbujcie wykonać wszystkie rytmy po kolei — od pierwszego do ostatniego — bez zatrzymywania się pomiędzy nimi.\n\nDilo: Tempo dowolne. Chaos rytmiczny nie jest tym samym co interpretacja artystyczna."
+      "draft_pl": "DZIEŃ 14\n\nGRAMY: RYTM PO KOLEI\n\nZaczyna najniższa osoba. Wymyśla krótki, prosty rytm, na przykład: klaśnięcie – klaśnięcie – pstryknięcie.\n\nWszyscy powtarzają ten rytm dokładnie tak samo.\n\nNastępnie, idąc zgodnie z ruchem wskazówek zegara, kolejna osoba wymyśla własny krótki rytm. Cała grupa również go powtarza.\n\nKontynuujcie, aż każdy stworzy jeden rytm i usłyszy jego powtórzenie przez całą grupę.\n\nNa koniec spróbujcie wykonać wszystkie rytmy po kolei, od pierwszego do ostatniego, bez zatrzymywania się pomiędzy nimi.\n\nDilo: Tempo dowolne. Chaos rytmiczny nie jest tym samym co interpretacja artystyczna."
     },
     {
       "id": "GS.D14.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "JEDNO, CO W TOBIE CENIĘ",
-      "draft_pl": "DZIEŃ 14\n\nU NAS — JEDNO, CO W TOBIE CENIĘ\n\nPierwsza osoba zwraca się do osoby siedzącej po lewej stronie i mówi jedną krótką, konkretną rzecz, którą w niej ceni.\n\nNastępnie ta osoba robi to samo wobec osoby siedzącej po jej lewej stronie.\n\nKontynuujcie wokół koła, aż każdy usłyszy jedno takie zdanie.\n\nLuli: Mały prezent, bez papieru i bez szukania taśmy."
+      "draft_pl": "DZIEŃ 14\n\nMIĘDZY NAMI: JEDNO, CO W TOBIE CENIĘ\n\nPierwsza osoba zwraca się do osoby siedzącej po lewej stronie i mówi jedną krótką, konkretną rzecz, którą w niej ceni.\n\nNastępnie ta osoba robi to samo wobec osoby siedzącej po jej lewej stronie.\n\nKontynuujcie wokół koła, aż każdy usłyszy jedno takie zdanie.\n\nLuli: Mały prezent, bez papieru i bez szukania taśmy."
     }
   ]
 }
