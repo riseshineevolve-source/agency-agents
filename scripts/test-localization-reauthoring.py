@@ -331,5 +331,180 @@ class GentleStepsDays0814Production(unittest.TestCase):
             self.assertNotIn(regression, rendered)
 
 
+class GentleStepsDays1521Production(unittest.TestCase):
+    BASE = ROOT / "localization/pl-PL/production/gentle-steps/days15-21"
+
+    def test_days_15_21_pipeline_is_blind_hash_bound_and_reviewed(self):
+        run = load(self.BASE / "source-run.json")
+        brief = load(self.BASE / "functional-brief.json")
+        packet = load(self.BASE / "writer-packet.json")
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        backcheck = load(self.BASE / "bilingual-backcheck.json")
+        reviews = load(self.BASE / "review-bundle.json")
+        gate = load(self.BASE / "batch-gate.json")
+
+        validate_functional_brief(run, PROFILE, brief)
+        self.assertEqual(packet, writer_packet(run, PROFILE, brief))
+        self.assertNotIn("source_locator", str(packet))
+        validate_candidate(packet, candidate)
+        self.assertEqual(backcheck, backcheck_packet(run, PROFILE, brief, packet, candidate))
+
+        candidate_sha = digest(candidate)
+        self.assertEqual(reviews["candidate_sha256"], candidate_sha)
+        self.assertEqual(gate["candidate_sha256"], candidate_sha)
+        self.assertTrue(reviews["scaleout_authorized"])
+        self.assertTrue(gate["next_batch_days22_24_authorized"])
+        self.assertFalse(gate["publication_authorized"])
+
+        stages = {r["stage"]: r["status"] for r in reviews["reviews"]}
+        for stage in (
+            "polish_usage_idiom_context", "polish_book_register",
+            "breath_reset_reauthoring", "activity_instruction_completeness",
+            "polish_family_language_edit", "humor_character_voice",
+            "kid_parent_ear_review", "anti_coaching_translationese",
+            "bilingual_fidelity_backcheck", "logic_continuity", "proofread",
+        ):
+            self.assertEqual(stages[stage], "PASS")
+        self.assertEqual(stages["surface_qa"], "DEFERRED_FULL_BOOK_OWNER_GATE")
+
+    def test_days_15_21_detail_safety_and_register_regressions(self):
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        rendered = "\n".join(u["draft_pl"] for u in candidate["units"])
+        for required in (
+            "przez 15 sekund",
+            "dokładne wskazówki krok po kroku",
+            "W dwie osoby",
+            "trzy razy od początku do końca",
+            "dwie różne fale",
+            "przeciwnie do ruchu wskazówek zegara",
+        ):
+            self.assertIn(required, rendered)
+        for regression in (
+            "chciałbym / chciałabym",
+            "Tunel dopingu",
+            "i jedziecie dalej",
+            "wewnętrzne światło",
+            "ciepło przepływa między wami",
+        ):
+            self.assertNotIn(regression, rendered)
+
+
+class GentleStepsDays2224Production(unittest.TestCase):
+    BASE = ROOT / "localization/pl-PL/production/gentle-steps/days22-24"
+
+    def test_days_22_24_pipeline_is_blind_hash_bound_and_reviewed(self):
+        run = load(self.BASE / "source-run.json")
+        brief = load(self.BASE / "functional-brief.json")
+        packet = load(self.BASE / "writer-packet.json")
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        backcheck = load(self.BASE / "bilingual-backcheck.json")
+        reviews = load(self.BASE / "review-bundle.json")
+        gate = load(self.BASE / "batch-gate.json")
+
+        validate_functional_brief(run, PROFILE, brief)
+        self.assertEqual(packet, writer_packet(run, PROFILE, brief))
+        self.assertNotIn("source_locator", str(packet))
+        validate_candidate(packet, candidate)
+        self.assertEqual(backcheck, backcheck_packet(run, PROFILE, brief, packet, candidate))
+
+        candidate_sha = digest(candidate)
+        self.assertEqual(reviews["candidate_sha256"], candidate_sha)
+        self.assertEqual(gate["candidate_sha256"], candidate_sha)
+        self.assertFalse(reviews["scaleout_authorized"])
+        self.assertFalse(gate["publication_authorized"])
+        self.assertEqual(gate["status"], "READY_FOR_FULL_DAYS_01_24_AUDIT")
+
+        stages = {r["stage"]: r["status"] for r in reviews["reviews"]}
+        for stage in (
+            "polish_usage_idiom_context", "polish_book_register",
+            "breath_reset_reauthoring", "activity_instruction_completeness",
+            "polish_family_language_edit", "humor_character_voice",
+            "kid_parent_ear_review", "anti_coaching_translationese",
+            "bilingual_fidelity_backcheck", "logic_continuity", "proofread",
+        ):
+            self.assertEqual(stages[stage], "PASS")
+        self.assertEqual(stages["surface_qa"], "DEFERRED_FULL_BOOK_OWNER_GATE")
+
+    def test_days_22_24_final_mechanics_and_anti_mindfulness(self):
+        candidate = load(self.BASE / "voice-master-candidate.json")
+        rendered = "\n".join(u["draft_pl"] for u in candidate["units"])
+        for required in (
+            "przeciwnie do ruchu wskazówek zegara",
+            "mniej więcej 1 lipca",
+            "Runda 1 — KOLORY",
+            "Runda 2 — LUBIĘ / NIE LUBIĘ",
+            "Runda 3 — NAWYKI I CECHY",
+            "przez minutę",
+            "najbardziej świąteczny kolor",
+            "dwie krótkie rundy",
+        ):
+            self.assertIn(required, rendered)
+        for regression in (
+            "złote światło",
+            "ciepła aureola",
+            "wspólne światło",
+            "energia pokoju",
+            "uważność",
+        ):
+            self.assertNotIn(regression, rendered.lower())
+
+
+class GentleStepsFullDaysOwnerReview(unittest.TestCase):
+    ROOT_DIR = ROOT / "localization/pl-PL/production/gentle-steps"
+    BATCHES = [
+        ROOT_DIR / "days01-03" / "voice-master-candidate.json",
+        ROOT_DIR / "days04-07" / "voice-master-candidate.json",
+        ROOT_DIR / "days08-14" / "voice-master-candidate.json",
+        ROOT_DIR / "days15-21" / "voice-master-candidate.json",
+        ROOT_DIR / "days22-24" / "voice-master-candidate.json",
+    ]
+
+    def test_full_days_01_24_has_exactly_three_surfaces_per_day(self):
+        units = []
+        for path in self.BATCHES:
+            units.extend(load(path)["units"])
+        self.assertEqual(len(units), 72)
+        self.assertEqual(len({u["id"] for u in units}), 72)
+
+        for day in range(1, 25):
+            prefix = f"GS.D{day:02d}."
+            day_units = [u for u in units if u["id"].startswith(prefix)]
+            self.assertEqual(len(day_units), 3, day)
+            self.assertEqual(
+                [u["section_label"] for u in day_units],
+                ["RESET", "AKCJA", "U NAS"],
+                day,
+            )
+
+    def test_full_days_audit_and_gate_are_owner_review_only(self):
+        audit = load(self.ROOT_DIR / "GENTLE_STEPS_PL_DAYS01_24_AUDIT_2026-10-01.json")
+        gate = load(self.ROOT_DIR / "FULL_DAYS_OWNER_REVIEW_GATE.json")
+        self.assertEqual(audit["status"], "READY_FOR_OWNER_REVIEW")
+        self.assertEqual(audit["coverage"]["units"], 72)
+        self.assertEqual(audit["coverage"]["missing_or_order_defects"], [])
+        self.assertEqual(gate["status"], "READY_FOR_OWNER_REVIEW")
+        self.assertFalse(gate["labels_locked"])
+        self.assertFalse(gate["title_locked"])
+        self.assertFalse(gate["publication_authorized"])
+        self.assertEqual(gate["back_matter_pages_98_104"], "NOT_YET_REAUTHORED")
+
+    def test_full_days_global_translationese_and_gender_regressions_absent(self):
+        rendered = "\n".join(
+            u["draft_pl"]
+            for path in self.BATCHES
+            for u in load(path)["units"]
+        )
+        for regression in (
+            "chciałbym / chciałabym",
+            "gotowy/gotowa",
+            "najpóźniejsza litera w alfabecie",
+            "przekąska też może wygrać dzień",
+            "i jedziecie dalej",
+            "wewnętrzne światło",
+            "wspólny oddech przepływa",
+        ):
+            self.assertNotIn(regression, rendered)
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
