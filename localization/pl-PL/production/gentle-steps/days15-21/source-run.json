@@ -1,0 +1,29 @@
+{
+  "format": "rse-reauthor-run-v1",
+  "product": "gentle-steps-christmas",
+  "mode": "native_reauthor_from_function",
+  "source_language": "en",
+  "target_language": "pl-PL",
+  "source_file": "private-owner-upload/24 Gentle Paperback ok(2).pdf",
+  "source_revision": "owner-upload-2026-09-30",
+  "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+  "profile_sha256": "cb076c35e4e307a9d5a687edce8d2cd63dd39111040bc21021400271c240cadd",
+  "native_writer_source_visibility": "functional_brief_only",
+  "current_stage": "days_15_21_native_authoring",
+  "stages": [
+    "source_function_analysis",
+    "native_polish_first_write",
+    "polish_usage_idiom_context",
+    "polish_book_register",
+    "breath_reset_reauthoring",
+    "activity_instruction_completeness",
+    "polish_family_language_edit",
+    "humor_character_voice",
+    "kid_parent_ear_review",
+    "anti_coaching_translationese",
+    "bilingual_fidelity_backcheck",
+    "logic_continuity",
+    "proofread",
+    "surface_qa"
+  ]
+}
