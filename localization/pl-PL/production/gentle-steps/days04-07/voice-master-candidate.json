@@ -2,86 +2,86 @@
   "format": "rse-native-pl-candidate-v1",
   "product": "gentle-steps-christmas",
   "scope": "days_04_07_v3_book_register_breath_detail",
-  "brief_sha256": "0979f8d874a9afc3a0f76914c817802e73398a3a5ffd633eb65c0d8abb7eaf6e",
+  "brief_sha256": "8f5a95ec09e93dacb1ccffc3c341aa2e843d9d5094e34bf9950893777ee0c573",
   "authoring_basis": "functional_brief_only",
   "recurring_label_candidates": {
-    "pause": "RESET",
-    "play": "AKCJA",
-    "connection": "U NAS",
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI",
     "lock_state": "OWNER_GATE"
   },
   "units": [
     {
       "id": "GS.D04.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "TYLKO ŚWIATŁO",
-      "draft_pl": "DZIEŃ 4\n\nRESET — TYLKO ŚWIATŁO\n\nUsiądźcie blisko siebie i wybierzcie małe źródło światła — lampkę albo bezpiecznie ustawioną świeczkę.\n\nPrzez chwilę patrzcie tylko na światło. Zobaczcie, jak się zmienia, drga albo odbija na przedmiotach wokół.\n\nOddychajcie swobodnie. Nie trzeba niczego analizować — przez chwilę wystarczy po prostu patrzeć.\n\nLuli: Dziś niczego nie analizuję. Sama jestem zaskoczona."
+      "draft_pl": "DZIEŃ 4\n\nZWOLNIJ: TYLKO ŚWIATŁO\n\nUsiądźcie blisko siebie i wybierzcie małe źródło światła, na przykład lampkę albo bezpiecznie ustawioną świeczkę.\n\nPrzez chwilę patrzcie tylko na światło. Zobaczcie, jak się zmienia, drga albo odbija na przedmiotach wokół.\n\nOddychajcie swobodnie. Nie trzeba niczego analizować. Przez chwilę wystarczy po prostu patrzeć.\n\nLuli: Dziś niczego nie analizuję. Sama jestem zaskoczona."
     },
     {
       "id": "GS.D04.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "GŁOSY W OBIEGU",
-      "draft_pl": "DZIEŃ 4\n\nAKCJA — GŁOSY W OBIEGU\n\nZaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.\n\nNastępnie gra toczy się przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale innym głosem.\n\nMożecie mówić jak robot, prezenter wiadomości, kaczka, śpiewak operowy, kosmita albo superbohater. Możecie też wymyślać własne głosy.\n\nW jednej rundzie żaden głos nie może się powtórzyć.\n\nKiedy zdanie przejdzie przez całe koło, osoba siedząca po prawej stronie osoby rozpoczynającej wybiera nowe zdanie. Potem zaczynacie kolejną rundę.\n\nMimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie."
+      "draft_pl": "DZIEŃ 4\n\nGRAMY: GŁOSY W OBIEGU\n\nZaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.\n\nNastępnie gra toczy się przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale innym głosem.\n\nMożecie mówić jak robot, prezenter wiadomości, kaczka, śpiewak operowy, kosmita albo superbohater. Możecie też wymyślać własne głosy.\n\nW jednej rundzie żaden głos nie może się powtórzyć.\n\nKiedy zdanie przejdzie przez całe koło, osoba siedząca po prawej stronie osoby rozpoczynającej wybiera nowe zdanie. Potem zaczynacie kolejną rundę.\n\nMimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie."
     },
     {
       "id": "GS.D04.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "JAKI KOLOR MIAŁ DZIŚ DZIEŃ?",
-      "draft_pl": "DZIEŃ 4\n\nU NAS — JAKI KOLOR MIAŁ DZIŚ DZIEŃ?\n\nKażdy wybiera jeden kolor, który najlepiej pasuje do jego dzisiejszego dnia, i mówi go na głos.\n\nNie trzeba wyjaśniać wyboru.\n\nJeśli odpowiedniego koloru jeszcze nie ma, możecie go właśnie wymyślić.\n\nDilo: Nie istnieje? Już istnieje. Dodałem do systemu."
+      "draft_pl": "DZIEŃ 4\n\nMIĘDZY NAMI: JAKI KOLOR MIAŁ DZIŚ DZIEŃ?\n\nKażdy wybiera jeden kolor, który najlepiej pasuje do jego dzisiejszego dnia, i mówi go na głos.\n\nNie trzeba wyjaśniać wyboru.\n\nJeśli odpowiedniego koloru jeszcze nie ma, możecie go właśnie wymyślić.\n\nDilo: Nie istnieje? Już istnieje. Dodałem do systemu."
     },
     {
       "id": "GS.D05.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "TRZY WARSTWY DŹWIĘKU",
-      "draft_pl": "DZIEŃ 5\n\nRESET — TRZY WARSTWY DŹWIĘKU\n\nZamknijcie oczy na minutę.\n\nNajpierw posłuchajcie dźwięków, które są najbliżej was.\n\nPotem sprawdźcie, co słychać dalej — za drzwiami, za oknem albo gdzieś w głębi domu.\n\nNa końcu spróbujcie wyłapać najcichszy dźwięk, który dociera do was z tła.\n\nNie zgadujcie, co to. Po prostu słuchajcie.\n\nDilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem."
+      "draft_pl": "DZIEŃ 5\n\nZWOLNIJ: TRZY WARSTWY DŹWIĘKU\n\nZamknijcie oczy na minutę.\n\nNajpierw posłuchajcie dźwięków, które są najbliżej was.\n\nPotem sprawdźcie, co słychać dalej, na przykład za drzwiami, za oknem albo gdzieś w głębi domu.\n\nNa końcu spróbujcie wyłapać najcichszy dźwięk, który dociera do was z tła.\n\nNie zgadujcie, co to. Po prostu słuchajcie.\n\nDilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem."
     },
     {
       "id": "GS.D05.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "12 BEZ POMYŁKI",
-      "draft_pl": "DZIEŃ 5\n\nAKCJA — 12 BEZ POMYŁKI\n\nUsiądźcie w kółku.\n\nZaczyna najwyższa osoba. Mówi „jeden” i wskazuje dowolną osobę, która ma kontynuować. Wskazana osoba mówi „dwa”, po czym wskazuje kolejną osobę. W ten sposób liczycie aż do 12.\n\nJeśli ktoś się pomyli, zaczynacie liczenie od początku.\n\nKiedy uda wam się dojść do 12 bez pomyłki, powtórzcie całą rundę szybciej. Następnie spróbujcie policzyć wstecz — od 12 do 1.\n\nJeśli chcecie zwiększyć trudność, możecie ustalić wyższą liczbę końcową.\n\nW rundzie finałowej nie ustalacie wcześniej, kto zacznie ani kto wypowie kolejną liczbę. Spróbujcie wspólnie doliczyć do 12 lub wyżej, obserwując pozostałych i pilnując, żeby dwie osoby nie odezwały się jednocześnie. Jeśli tak się stanie, zaczynacie od jedynki.\n\nTen wariant działa również wtedy, gdy bawią się tylko dwie osoby.\n\nDilo: Tu nie ma VAR-u. Pomyłka i wracamy do jedynki."
+      "draft_pl": "DZIEŃ 5\n\nGRAMY: 12 BEZ POMYŁKI\n\nUsiądźcie w kółku.\n\nZaczyna najwyższa osoba. Mówi „jeden” i wskazuje dowolną osobę, która ma kontynuować. Wskazana osoba mówi „dwa”, po czym wskazuje kolejną osobę. W ten sposób liczycie aż do 12.\n\nJeśli ktoś się pomyli, zaczynacie liczenie od początku.\n\nKiedy uda wam się dojść do 12 bez pomyłki, powtórzcie całą rundę szybciej. Następnie spróbujcie policzyć wstecz, od 12 do 1.\n\nJeśli chcecie zwiększyć trudność, możecie ustalić wyższą liczbę końcową.\n\nW rundzie finałowej nie ustalacie wcześniej, kto zacznie ani kto wypowie kolejną liczbę. Spróbujcie wspólnie doliczyć do 12 lub wyżej, obserwując pozostałych i pilnując, żeby dwie osoby nie odezwały się jednocześnie. Jeśli tak się stanie, zaczynacie od jedynki.\n\nTen wariant działa również wtedy, gdy bawią się tylko dwie osoby.\n\nDilo: Tu nie ma VAR-u. Pomyłka i wracamy do jedynki."
     },
     {
       "id": "GS.D05.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "DŹWIĘK DOMU",
-      "draft_pl": "DZIEŃ 5\n\nU NAS — DŹWIĘK DOMU\n\nKażdy podaje jeden dźwięk, który lubi słyszeć w domu.\n\nMoże to być coś zupełnie zwyczajnego: czyjś śmiech, klucz przekręcany w zamku, pies biegnący po podłodze, czajnik albo muzyka dochodząca z drugiego pokoju.\n\nWystarczy po jednym dźwięku.\n\nDilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołówka."
+      "draft_pl": "DZIEŃ 5\n\nMIĘDZY NAMI: DŹWIĘK DOMU\n\nKażdy podaje jeden dźwięk, który lubi słyszeć w domu.\n\nMoże to być coś zupełnie zwyczajnego: czyjś śmiech, klucz przekręcany w zamku, pies biegnący po podłodze, czajnik albo muzyka dochodząca z drugiego pokoju.\n\nWystarczy po jednym dźwięku.\n\nDilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołówka."
     },
     {
       "id": "GS.D06.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "W JEDNYM TEMPIE",
-      "draft_pl": "DZIEŃ 6\n\nRESET — W JEDNYM TEMPIE\n\nUsiądźcie luźno w kółku.\n\nDłonie połóżcie na kolanach albo — jeśli wszyscy mają na to ochotę — lekko złapcie się za ręce.\n\nNa początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę zwolnić i przez chwilę oddychać w podobnym tempie.\n\nNie trzeba liczyć ani idealnie dopasowywać oddechu. Jeśli po chwili każdy znów oddycha w swoim tempie, nic nie szkodzi.\n\nAlio: Drużyna działa, choć nikt nie ustalał planu. Trochę podejrzane."
+      "draft_pl": "DZIEŃ 6\n\nZWOLNIJ: W JEDNYM TEMPIE\n\nUsiądźcie luźno w kółku.\n\nDłonie połóżcie na kolanach. Jeśli wszyscy mają na to ochotę, możecie też lekko złapcie się za ręce.\n\nNa początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę zwolnić i przez chwilę oddychać w podobnym tempie.\n\nNie trzeba liczyć ani idealnie dopasowywać oddechu. Jeśli po chwili każdy znów oddycha w swoim tempie, nic nie szkodzi.\n\nAlio: Drużyna działa, choć nikt nie ustalał planu. Trochę podejrzane."
     },
     {
       "id": "GS.D06.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "RÓWNO!",
-      "draft_pl": "DZIEŃ 6\n\nAKCJA — RÓWNO!\n\nStańcie w jednym rzędzie, ramię w ramię.\n\nW rundzie pierwszej prowadzi najmłodsza osoba, ale wykonuje ruchy razem z pozostałymi. Wybiera jedno z czterech poleceń: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy wykonują ten sam ruch w tym samym czasie.\n\nCelem jest wykonanie co najmniej 10 wspólnych ruchów bez pomyłki.\n\nW rundzie drugiej prowadzenie przejmuje kolejna osoba według wieku. Tym razem podaje polecenia dotyczące małych kroków: krok do przodu, do tyłu, w prawo albo w lewo. Wszyscy wykonują je razem.\n\nW tej rundzie spróbujcie wykonać co najmniej 15 kroków bez pomyłki.\n\nNa koniec prowadzenie przejmuje najstarsza osoba. Może łączyć oba rodzaje ruchów: prosić o wychylenie w wybraną stronę albo o jeden czy kilka małych kroków. Może też zmieniać tempo.\n\nGrajcie tak długo, jak macie ochotę. Wszystkie ruchy powinny być na tyle małe, żeby nikt nie tracił równowagi.\n\nLuli: Spektakularne wywrotki nie są częścią programu."
+      "draft_pl": "DZIEŃ 6\n\nGRAMY: RÓWNO!\n\nStańcie w jednym rzędzie, ramię w ramię.\n\nW rundzie pierwszej prowadzi najmłodsza osoba, ale wykonuje ruchy razem z pozostałymi. Wybiera jedno z czterech poleceń: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy wykonują ten sam ruch w tym samym czasie.\n\nCelem jest wykonanie co najmniej 10 wspólnych ruchów bez pomyłki.\n\nW rundzie drugiej prowadzenie przejmuje kolejna osoba według wieku. Tym razem podaje polecenia dotyczące małych kroków: krok do przodu, do tyłu, w prawo albo w lewo. Wszyscy wykonują je razem.\n\nW tej rundzie spróbujcie wykonać co najmniej 15 kroków bez pomyłki.\n\nNa koniec prowadzenie przejmuje najstarsza osoba. Może łączyć oba rodzaje ruchów: prosić o wychylenie w wybraną stronę albo o jeden czy kilka małych kroków. Może też zmieniać tempo.\n\nGrajcie tak długo, jak macie ochotę. Wszystkie ruchy powinny być na tyle małe, żeby nikt nie tracił równowagi.\n\nLuli: Spektakularne wywrotki nie są częścią programu."
     },
     {
       "id": "GS.D06.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "CO DOBRZE USŁYSZEĆ",
-      "draft_pl": "DZIEŃ 6\n\nU NAS — CO DOBRZE USŁYSZEĆ\n\nKażdy podaje jedno zdanie albo kilka słów, które dobrze mu usłyszeć od kogoś z rodziny, kiedy ma trudniejszy moment albo jest już zmęczony całym dniem.\n\nTo może być coś bardzo prostego:\n„Jestem obok”.\n„Mamy czas”.\n„Chcesz chwilę dla siebie?”.\n\nNie szukajcie mądrych sentencji. Wybierzcie coś, co naprawdę dobrze wam wtedy usłyszeć.\n\nLuli: Nie musi brzmieć mądrze. Wystarczy, że naprawdę chcecie to wtedy usłyszeć."
+      "draft_pl": "DZIEŃ 6\n\nMIĘDZY NAMI: CO DOBRZE USŁYSZEĆ\n\nKażdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy ma trudniejszy moment albo po prostu ma już dość.\n\nTo może być coś bardzo prostego:\n„Jestem obok”.\n„Mamy czas”.\n„Chcesz chwilę dla siebie?”.\n\nNie szukajcie mądrych sentencji. Wybierzcie coś, co sami chcielibyście wtedy usłyszeć.\n\nLuli: Nie musi brzmieć mądrze. Wystarczy, że naprawdę chcecie to wtedy usłyszeć."
     },
     {
       "id": "GS.D07.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "PODŁOGA ROBI SWOJE",
-      "draft_pl": "DZIEŃ 7\n\nRESET — PODŁOGA ROBI SWOJE\n\nUsiądźcie albo połóżcie się obok siebie i ułóżcie się tak, żeby było wam wygodnie.\n\nPrzez chwilę pozwólcie rękom, nogom i plecom naprawdę oprzeć się na podłodze. Nie trzeba niczego napinać ani utrzymywać w określonej pozycji.\n\nZwróćcie uwagę, w których miejscach ciało styka się z podłogą. Przez chwilę pozwólcie podłodze przejąć jego ciężar.\n\nDilo: Dziś trenuję z grawitacją. Ona robi większość pracy."
+      "draft_pl": "DZIEŃ 7\n\nZWOLNIJ: PODŁOGA ROBI SWOJE\n\nUsiądźcie albo połóżcie się obok siebie i ułóżcie się tak, żeby było wam wygodnie.\n\nPrzez chwilę pozwólcie rękom, nogom i plecom naprawdę oprzeć się na podłodze. Nie trzeba niczego napinać ani utrzymywać w określonej pozycji.\n\nZwróćcie uwagę, w których miejscach ciało styka się z podłogą. Przez chwilę pozwólcie podłodze przejąć jego ciężar.\n\nDilo: Dziś trenuję z grawitacją. Ona robi większość pracy."
     },
     {
       "id": "GS.D07.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "REAKCJA ŁAŃCUCHOWA",
-      "draft_pl": "DZIEŃ 7\n\nAKCJA — REAKCJA ŁAŃCUCHOWA\n\nStańcie albo usiądźcie w kółku.\n\nZaczyna osoba z najkrótszymi włosami. Wybiera dowolną osobę i uśmiecha się do niej możliwie szeroko.\n\nOsoba, która dostała uśmiech, przekazuje go kolejnej wybranej osobie. Uśmiech ma dotrzeć do każdego uczestnika, a na końcu wrócić do osoby, która zaczynała.\n\nW rundzie drugiej zamiast uśmiechu przekazujecie sobie piątkę.\n\nW rundzie trzeciej przekazujecie delikatne klepnięcie w ramię.\n\nW rundzie czwartej możecie przekazywać krótki uścisk, ale tylko wtedy, gdy obie osoby mają na to ochotę.\n\nJeśli bawią się tylko dwie osoby, przez 30 sekund patrzcie na siebie i się uśmiechajcie. Potem, jeśli obie osoby chcą, możecie przytulić się przez kolejne 30 sekund.\n\nNini: Uśmiech większy, niż wymaga sytuacja. Właśnie taki."
+      "draft_pl": "DZIEŃ 7\n\nGRAMY: REAKCJA ŁAŃCUCHOWA\n\nStańcie albo usiądźcie w kółku.\n\nZaczyna osoba z najkrótszymi włosami. Wybiera dowolną osobę i uśmiecha się do niej możliwie szeroko.\n\nOsoba, która dostała uśmiech, przekazuje go kolejnej wybranej osobie. Uśmiech ma dotrzeć do każdego uczestnika, a na końcu wrócić do osoby, która zaczynała.\n\nW rundzie drugiej zamiast uśmiechu przekazujecie sobie piątkę.\n\nW rundzie trzeciej przekazujecie delikatne klepnięcie w ramię.\n\nW rundzie czwartej możecie przekazywać krótki uścisk, ale tylko wtedy, gdy obie osoby mają na to ochotę.\n\nJeśli bawią się tylko dwie osoby, przez 30 sekund patrzcie na siebie i się uśmiechajcie. Potem, jeśli obie osoby chcą, możecie przytulić się przez kolejne 30 sekund.\n\nNini: Uśmiech większy, niż wymaga sytuacja. Właśnie taki."
     },
     {
       "id": "GS.D07.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "KTO TU ROBI DOBRĄ ROBOTĘ?",
-      "draft_pl": "DZIEŃ 7\n\nU NAS — KTO TU ROBI DOBRĄ ROBOTĘ?\n\nKażdy wybiera jedną osobę z rodziny, która często pomaga innym albo po cichu robi coś dla pozostałych.\n\nPowiedzcie konkretnie, co ta osoba robi i co ostatnio zauważyliście.\n\nNini: Skoro sami się nie chwalą, ktoś musi. Dziś padło na nas."
+      "draft_pl": "DZIEŃ 7\n\nMIĘDZY NAMI: KTO TU ROBI DOBRĄ ROBOTĘ?\n\nKażdy wybiera jedną osobę z rodziny, która często pomaga innym albo po cichu robi coś dla pozostałych.\n\nPowiedzcie konkretnie, co ta osoba robi i co ostatnio zauważyliście.\n\nNini: Skoro sami się nie chwalą, ktoś musi. Dziś padło na nas."
     }
   ]
 }
