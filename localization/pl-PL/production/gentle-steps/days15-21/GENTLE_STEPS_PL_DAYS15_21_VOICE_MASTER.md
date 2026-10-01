@@ -1,11 +1,9 @@
 # 24 Gentle Steps to Christmas — Polish Voice Master Days 15–21
 
-Status: **BATCH COMPLETE / DAYS 22–24 AUTHORIZED / NO PUBLICATION LOCK**  
+Status: **BATCH COMPLETE / DAYS 22–24 COMPLETE / FULL-BOOK AUDIT IN PROGRESS**  
 Mode: `native_reauthor_from_function`  
 Working labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Candidate SHA-256: `93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6`
-
-This batch uses the locked current standard: polished contemporary book Polish, concrete non-mindfulness RESET framing, full source mechanics, strict grammar/syntax/idiom/context review, strong Polish-first Happy Makers humor and late bilingual fidelity check.
+Candidate SHA-256: `3345de1fa519edf0f59bd1162da0485d6d0d53a0475ceba7259a8574fe257211`
 
 ---
 
@@ -71,7 +69,7 @@ Nini: Ręce znają choreografię. Reszta rodziny może się jeszcze zastanowić.
 
 ## DZIEŃ 16
 
-AKCJA — RODZINNA ORKIESTRA
+AKCJA — ORKIESTRA NA ZNAK
 
 Każdy wybiera jeden krótki dźwięk, który będzie jego „instrumentem”, na przykład „la-la”, „bum”, „ta-da” albo własny wymyślony odgłos.
 
@@ -93,7 +91,7 @@ U NAS — CO CHCEMY ZROBIĆ RAZEM?
 
 Każdy po kolei kończy zdanie:
 
-„Jedna rzecz, którą chciałbym / chciałabym, żebyśmy niedługo zrobili razem, to…”
+„Jedna rzecz, którą dobrze byłoby niedługo zrobić razem, to…”
 
 Nie musi to być wielki plan. Liczą się też kino, naleśniki na kolację, spacer, planszówka albo dodatkowe kakao.
 
@@ -253,7 +251,7 @@ Mimi: Jeśli lista zaczyna brzmieć jak piosenka, spokojnie. Karaoke jeszcze nie
 
 ## DZIEŃ 20
 
-RESET — ROZLUŹNIJ TWARZ
+RESET — CZOŁO, OCZY, SZCZĘKA
 
 Usiądźcie blisko siebie i zamknijcie oczy.
 
@@ -269,7 +267,7 @@ Mimi: I tak, chodzi też o tę szczękę. Wiem, że tam jest.
 
 ## DZIEŃ 20
 
-AKCJA — TUNEL DOPINGU
+AKCJA — TUNEL KIBICÓW
 
 Stańcie w dwóch rzędach naprzeciwko siebie, tak żeby między wami powstał krótki, szeroki tunel.
 
