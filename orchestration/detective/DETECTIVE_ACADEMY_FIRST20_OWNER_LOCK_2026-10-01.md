@@ -108,3 +108,43 @@ Preferred Page 4 copy direction:
 - closing support: `That's the question the Academy asks first. Everything else follows the evidence.`
 
 This Page 4 lock supersedes the earlier rules-heavy Orientation layout.
+
+## Pages 5-10 identity / copy correction — 2026-10-01
+
+For the current owner-approved Pages 5-10 visual family:
+
+### Character identity locks
+- **DILO** = use current owner reference `Dilo(4).jpg`: swept side hair, zip athletic jacket with heart mark, no hoodie. Never substitute Alio.
+- **ALIO** = use current owner reference `Alio(10).png`: hoodie, different hair silhouette and face. Never substitute Dilo.
+- **LULI** = use current owner reference `Luli(5).jpg` for Page 5 and MAP CASES.
+- Mimi / Nini / Bibi remain their current approved identities.
+- These exact identity distinctions must carry into every later dialogue avatar, squad panel and case illustration.
+
+### Your Squad side-note slogan lock
+Use one useful, intelligent detective/life principle per character; do not repeat generic brand filler:
+- MIMI — **LEAD WITH THE FACTS.**
+- LULI — **CHECK THE CLAIM AGAINST THE EVIDENCE.**
+- DILO — **TEST IT. THEN TRUST IT.**
+- ALIO — **A DIFFERENT ROUTE CAN REVEAL A DIFFERENT CLUE.**
+- NINI — **LISTEN LONG ENOUGH TO NOTICE WHAT OTHERS MISS.**
+- BIBI — **OLD RECORDS DESERVE FRESH QUESTIONS.**
+
+Do not add extra filler slogans around these pages.
+
+### Page 8 MAP CASES
+- replace the wrong Luli with the exact current owner Luli reference;
+- keep the current useful coordinate/rules/legend content;
+- no invented motivational notes that compete with instructions.
+
+### Page 9 CASE WALL + HINT VAULT
+Happy Makers comms must show **all six** Happy Makers, including Alio. Use clear portrait/name pairing and readable bubbles.
+Suggested six-person sequence:
+- DILO: We put the answers at the back.
+- LULI: They are not encrypted. You choose when to look.
+- ALIO: So the hard part is not checking before the case gets a fair chance.
+- NINI: Also known as patience.
+- BIBI: A surprisingly useful investigative skill.
+- MIMI: One hint at a time, Detective.
+
+### Production rule
+Pages 5-10 are edits of the strongest existing owner-approved layouts. Do not redesign them from scratch. Preserve page structure, enlarge/readability only where needed, use exact identities, exact scanner logo, clean cool grayscale, and deterministic text.
