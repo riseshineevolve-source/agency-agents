@@ -2,140 +2,140 @@
   "format": "rse-native-pl-candidate-v1",
   "product": "gentle-steps-christmas",
   "scope": "days_15_21_week3",
-  "brief_sha256": "56f4343243981c7342b136e4a4cbf7191bbe18f8b840e905184fe9bef588025a",
+  "brief_sha256": "0d0961ef3c203d93663174bb3d996fd0fd1155be2bc297e72f940f91084a74b9",
   "authoring_basis": "functional_brief_only",
   "recurring_label_candidates": {
-    "pause": "RESET",
-    "play": "AKCJA",
-    "connection": "U NAS",
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI",
     "lock_state": "OWNER_GATE"
   },
   "units": [
     {
       "id": "GS.D15.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "ODDECH I RAMIONA",
-      "draft_pl": "DZIEŃ 15\n\nRESET — ODDECH I RAMIONA\n\nUsiądźcie w kółku tak, żeby było wam wygodnie.\n\nPrzy wdechu unieście lekko ramiona. Przy wydechu pozwólcie im swobodnie opaść.\n\nPowtórzcie ten ruch kilka razy, bez pogłębiania oddechu na siłę. Chodzi tylko o to, żeby na chwilę zwolnić i przestać nosić grudzień aż pod uszami.\n\nAlio: Najspokojniejsza kolejka górska świata. I nawet nie trzeba stać w kolejce."
+      "draft_pl": "DZIEŃ 15\n\nZWOLNIJ: ODDECH I RAMIONA\n\nUsiądźcie w kółku tak, żeby było wam wygodnie.\n\nPrzy wdechu unieście lekko ramiona. Przy wydechu pozwólcie im swobodnie opaść.\n\nPowtórzcie ten ruch kilka razy, bez pogłębiania oddechu na siłę. Chodzi tylko o to, żeby na chwilę zwolnić i przestać nosić grudzień aż pod uszami.\n\nAlio: Najspokojniejsza kolejka górska świata. I nawet nie trzeba stać w kolejce."
     },
     {
       "id": "GS.D15.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "ŁAŃCUCH RUCHÓW",
-      "draft_pl": "DZIEŃ 15\n\nAKCJA — ŁAŃCUCH RUCHÓW\n\nZaczyna osoba, która ma na sobie coś czerwonego. Wymyśla jeden prosty ruch taneczny i pokazuje go pozostałym.\n\nNastępnie gracie przeciwnie do ruchu wskazówek zegara. Kolejna osoba powtarza pierwszy ruch i dodaje własny.\n\nKażda następna osoba wykonuje całą dotychczasową sekwencję w tej samej kolejności, a na końcu dokłada jeden nowy ruch.\n\nKiedy każdy już doda swoją część, wykonajcie cały łańcuch razem trzy razy od początku do końca.\n\nRuchy mają być bezpieczne i dopasowane do miejsca, które macie.\n\nNini: Jeśli wygląda trochę absurdalnie, to znaczy, że nie zmarnowaliśmy rundy."
+      "draft_pl": "DZIEŃ 15\n\nGRAMY: ŁAŃCUCH RUCHÓW\n\nZaczyna osoba, która ma na sobie coś czerwonego. Wymyśla jeden prosty ruch taneczny i pokazuje go pozostałym.\n\nNastępnie gracie przeciwnie do ruchu wskazówek zegara. Kolejna osoba powtarza pierwszy ruch i dodaje własny.\n\nKażda następna osoba wykonuje całą dotychczasową sekwencję w tej samej kolejności, a na końcu dokłada jeden nowy ruch.\n\nKiedy każdy już doda swoją część, wykonajcie cały łańcuch razem trzy razy od początku do końca.\n\nRuchy mają być bezpieczne i dopasowane do miejsca, które macie.\n\nNini: Jeśli wygląda trochę absurdalnie, to znaczy, że nie zmarnowaliśmy rundy."
     },
     {
       "id": "GS.D15.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "WSPOMNIENIE, KTÓRE ZOSTAŁO",
-      "draft_pl": "DZIEŃ 15\n\nU NAS — WSPOMNIENIE, KTÓRE ZOSTAŁO\n\nKażdy przypomina sobie jeden rodzinny moment, który był zabawny albo po prostu bardzo przyjemny i do dziś wywołuje uśmiech.\n\nOpowiedzcie po jednym takim wspomnieniu. Nie musi być ważne ani „idealne” — często najlepiej pamięta się właśnie drobiazgi.\n\nDilo: Bonus za historię, którą wszyscy pamiętają inaczej. To zwykle oznacza wersję rozszerzoną."
+      "draft_pl": "DZIEŃ 15\n\nMIĘDZY NAMI: WSPOMNIENIE, KTÓRE ZOSTAŁO\n\nKażdy przypomina sobie jeden rodzinny moment, który był zabawny albo po prostu bardzo przyjemny i do dziś wywołuje uśmiech.\n\nOpowiedzcie po jednym takim wspomnieniu. Nie musi być ważne ani „idealne”. Często najlepiej pamięta się właśnie drobiazgi.\n\nDilo: Bonus za historię, którą wszyscy pamiętają inaczej. To zwykle oznacza wersję rozszerzoną."
     },
     {
       "id": "GS.D16.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "RĘCE W GÓRĘ, RĘCE W DÓŁ",
-      "draft_pl": "DZIEŃ 16\n\nRESET — RĘCE W GÓRĘ, RĘCE W DÓŁ\n\nUsiądźcie w kółku.\n\nMożecie lekko złapać się za ręce albo po prostu trzymać dłonie blisko siebie, bez dotykania — wybierzcie wersję, która wszystkim odpowiada.\n\nPrzy wdechu powoli unieście ręce. Przy wydechu spokojnie je opuśćcie.\n\nPowtórzcie kilka razy we własnym, wygodnym rytmie. Nie trzeba idealnie się zgrywać.\n\nNini: Ręce znają choreografię. Reszta rodziny może się jeszcze zastanowić."
+      "draft_pl": "DZIEŃ 16\n\nZWOLNIJ: RĘCE W GÓRĘ, RĘCE W DÓŁ\n\nUsiądźcie w kółku.\n\nMożecie lekko złapać się za ręce albo po prostu trzymać dłonie blisko siebie, bez dotykania. Wybierzcie wersję, która wszystkim odpowiada.\n\nPrzy wdechu powoli unieście ręce. Przy wydechu spokojnie je opuśćcie.\n\nPowtórzcie kilka razy we własnym, wygodnym rytmie. Nie trzeba idealnie się zgrywać.\n\nNini: Ręce znają choreografię. Reszta rodziny może się jeszcze zastanowić."
     },
     {
       "id": "GS.D16.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "ORKIESTRA NA ZNAK",
-      "draft_pl": "DZIEŃ 16\n\nAKCJA — ORKIESTRA NA ZNAK\n\nKażdy wybiera jeden krótki dźwięk, który będzie jego „instrumentem”, na przykład „la-la”, „bum”, „ta-da” albo własny wymyślony odgłos.\n\nPierwszym dyrygentem zostaje osoba, której imię zaczyna się na literę najbliższą literze M w alfabecie.\n\nDyrygent wskazuje wybraną osobę — wtedy ta osoba zaczyna powtarzać swój dźwięk. Kiedy dyrygent wskaże ją drugi raz, przestaje.\n\nNa początku włączajcie po jednym „instrumencie”. Potem możecie utrudnić zadanie: dyrygent używa obu rąk i uruchamia kilka dźwięków jednocześnie, a następnie po kolei je wyłącza.\n\nPo chwili rolę dyrygenta przejmuje kolejna osoba zgodnie z ruchem wskazówek zegara. Każdy zachowuje swój wcześniej wybrany dźwięk.\n\nLuli: Dyrygujcie pewnie. Orkiestra nie musi wiedzieć, że improwizujecie."
+      "draft_pl": "DZIEŃ 16\n\nGRAMY: ORKIESTRA NA ZNAK\n\nKażdy wybiera jeden krótki dźwięk, który będzie jego „instrumentem”, na przykład „la-la”, „bum”, „ta-da” albo własny wymyślony odgłos.\n\nPierwszym dyrygentem zostaje osoba, której pierwsza litera imienia jest najbliżej M w alfabecie.\n\nDyrygent wskazuje wybraną osobę. Wtedy ta osoba zaczyna powtarzać swój dźwięk. Kiedy dyrygent wskaże ją drugi raz, przestaje.\n\nNa początku włączajcie po jednym „instrumencie”. Potem możecie utrudnić zadanie: dyrygent używa obu rąk i uruchamia kilka dźwięków jednocześnie, a następnie po kolei je wyłącza.\n\nPo chwili rolę dyrygenta przejmuje kolejna osoba zgodnie z ruchem wskazówek zegara. Każdy zachowuje swój wcześniej wybrany dźwięk.\n\nLuli: Dyrygujcie pewnie. Orkiestra nie musi wiedzieć, że improwizujecie."
     },
     {
       "id": "GS.D16.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "CO CHCEMY ZROBIĆ RAZEM?",
-      "draft_pl": "DZIEŃ 16\n\nU NAS — CO CHCEMY ZROBIĆ RAZEM?\n\nKażdy po kolei kończy zdanie:\n\n„Jedna rzecz, którą dobrze byłoby niedługo zrobić razem, to…”\n\nNie musi to być wielki plan. Liczą się też kino, naleśniki na kolację, spacer, planszówka albo dodatkowe kakao.\n\nLuli: Marzenia nie tracą ważności tylko dlatego, że mieszczą się w kubku."
+      "draft_pl": "DZIEŃ 16\n\nMIĘDZY NAMI: CO CHCEMY ZROBIĆ RAZEM?\n\nKażdy po kolei kończy zdanie:\n\n„Jedna rzecz, którą dobrze byłoby niedługo zrobić razem, to…”\n\nNie musi to być wielki plan. Liczą się też kino, naleśniki na kolację, spacer, planszówka albo dodatkowe kakao.\n\nLuli: Marzenia nie tracą ważności tylko dlatego, że mieszczą się w kubku."
     },
     {
       "id": "GS.D17.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "CICHE ROZCIĄGANIE",
-      "draft_pl": "DZIEŃ 17\n\nRESET — CICHE ROZCIĄGANIE\n\nStańcie w kółku.\n\nPrzez chwilę nic nie mówcie. Powoli unieście ręce do góry, a potem wyciągnijcie je szeroko na boki.\n\nNie ciągnijcie mocniej, niż jest wam wygodnie. To nie zawody w rozciąganiu.\n\nZobaczcie po prostu, ile miejsca zajmuje wasze rodzinne koło, kiedy każdy wyciągnie ręce.\n\nMimi: Bez rekordów. Jutro też będziemy potrzebować ramion."
+      "draft_pl": "DZIEŃ 17\n\nZWOLNIJ: CICHE ROZCIĄGANIE\n\nStańcie w kółku.\n\nPrzez chwilę nic nie mówcie. Powoli unieście ręce do góry, a potem wyciągnijcie je szeroko na boki.\n\nNie ciągnijcie mocniej, niż jest wam wygodnie. To nie zawody w rozciąganiu.\n\nZobaczcie po prostu, ile miejsca zajmuje wasze rodzinne koło, kiedy każdy wyciągnie ręce.\n\nMimi: Bez rekordów. Jutro też będziemy potrzebować ramion."
     },
     {
       "id": "GS.D17.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "NAŚLADUJ PROWADZĄCEGO",
-      "draft_pl": "DZIEŃ 17\n\nAKCJA — NAŚLADUJ PROWADZĄCEGO\n\nZaczyna osoba z najkrótszym imieniem. Wybiera jeden prosty ruch albo ćwiczenie, które można bezpiecznie wykonać w miejscu.\n\nPrzez 15 sekund wszyscy robią dokładnie to samo.\n\nPo 15 sekundach prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara. Nowy prowadzący wybiera własny ruch, a reszta znów go naśladuje przez 15 sekund.\n\nKontynuujcie, aż każdy poprowadzi jedną rundę.\n\nNa koniec spróbujcie wykonać wszystkie ruchy jeszcze raz, po kolei — od pierwszego do ostatniego — jak własny mini-zestaw ćwiczeń.\n\nAlio: Jeśli któregoś ruchu nie ma na WF-ie, tym lepiej. Mamy premierę."
+      "draft_pl": "DZIEŃ 17\n\nGRAMY: NAŚLADUJ PROWADZĄCEGO\n\nZaczyna osoba z najkrótszym imieniem. Wybiera jeden prosty ruch albo ćwiczenie, które można bezpiecznie wykonać w miejscu.\n\nPrzez 15 sekund wszyscy robią dokładnie to samo.\n\nPo 15 sekundach prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara. Nowy prowadzący wybiera własny ruch, a reszta znów go naśladuje przez 15 sekund.\n\nKontynuujcie, aż każdy poprowadzi jedną rundę.\n\nNa koniec spróbujcie wykonać wszystkie ruchy jeszcze raz, po kolei, od pierwszego do ostatniego, jak własny mini-zestaw ćwiczeń.\n\nAlio: Jeśli któregoś ruchu nie ma na WF-ie, tym lepiej. Mamy premierę."
     },
     {
       "id": "GS.D17.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "CO DAJE NAM ENERGIĘ?",
-      "draft_pl": "DZIEŃ 17\n\nU NAS — CO DAJE NAM ENERGIĘ?\n\nKażdy kończy zdanie:\n\n„Najwięcej energii mam, kiedy razem…”\n\nMoże chodzić o wyjazd, gotowanie, wygłupy, sport, rozmowę, wspólne nicnierobienie albo coś zupełnie innego.\n\nWystarczy jedna odpowiedź.\n\nAlio: Ja zgłaszam wszystko, przy czym wolno skakać. Dla porządku."
+      "draft_pl": "DZIEŃ 17\n\nMIĘDZY NAMI: CO DAJE NAM ENERGIĘ?\n\nKażdy kończy zdanie:\n\n„Najwięcej energii mam, kiedy razem…”\n\nMoże chodzić o wyjazd, gotowanie, wygłupy, sport, rozmowę, wspólne nicnierobienie albo coś zupełnie innego.\n\nWystarczy jedna odpowiedź.\n\nAlio: Ja zgłaszam wszystko, przy czym wolno skakać. Dla porządku."
     },
     {
       "id": "GS.D18.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "DŁUŻSZY WYDECH",
-      "draft_pl": "DZIEŃ 18\n\nRESET — DŁUŻSZY WYDECH\n\nUsiądźcie obok siebie.\n\nWeźcie kilka zwykłych oddechów. Przy każdym wydechu spróbujcie wypuścić powietrze trochę wolniej niż zwykle.\n\nNie trzeba niczego sobie wyobrażać ani oddychać idealnie. Jeśli dłuższy wydech jest niewygodny, wróćcie do własnego rytmu.\n\nLuli: Długi wydech. Zero efektów specjalnych. I bardzo dobrze."
+      "draft_pl": "DZIEŃ 18\n\nZWOLNIJ: DŁUŻSZY WYDECH\n\nUsiądźcie obok siebie.\n\nWeźcie kilka zwykłych oddechów. Przy każdym wydechu spróbujcie wypuścić powietrze trochę wolniej niż zwykle.\n\nNie trzeba niczego sobie wyobrażać ani oddychać idealnie. Jeśli dłuższy wydech jest niewygodny, wróćcie do własnego rytmu.\n\nLuli: Długi wydech. Zero efektów specjalnych. I bardzo dobrze."
     },
     {
       "id": "GS.D18.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "NAWIGACJA DO KRZESŁA",
-      "draft_pl": "DZIEŃ 18\n\nAKCJA — NAWIGACJA DO KRZESŁA\n\nNajpierw przygotujcie bezpieczne miejsce: odsuńcie rzeczy, o które można się potknąć, i wybierzcie fragment pokoju bez schodów, ostrych kantów ani innych przeszkód.\n\nNajstarsza osoba zostaje pierwszym prowadzącym i ustawia krzesło w wybranym, bezpiecznym miejscu. Prowadzący przez całą rundę ma otwarte oczy.\n\nPozostali stają blisko siebie i — jeśli czują się z tym dobrze — zamykają oczy. Można też zostawić oczy otwarte i nadal brać udział.\n\nProwadzący podaje bardzo dokładne wskazówki krok po kroku, na przykład: „jeden mały krok w prawo”, „dwa kroki do przodu”, „stop”. Grupa porusza się powoli, małymi krokami, aż znajdzie się blisko krzesła.\n\nKiedy dotrzecie na miejsce, spróbujcie bez słów ustalić, która jedna osoba usiądzie na krześle.\n\nJeśli chcecie, zagrajcie ponownie z innym prowadzącym.\n\nW dwie osoby jedna osoba prowadzi z otwartymi oczami, a druga wykonuje jej instrukcje i dociera do krzesła. Potem możecie zamienić się rolami.\n\nMimi: Bez piruetów. Krzesło nie jest przeciwnikiem."
+      "draft_pl": "DZIEŃ 18\n\nGRAMY: NAWIGACJA DO KRZESŁA\n\nNajpierw przygotujcie bezpieczne miejsce: odsuńcie rzeczy, o które można się potknąć, i wybierzcie fragment pokoju bez schodów, ostrych kantów ani innych przeszkód.\n\nNajstarsza osoba zostaje pierwszym prowadzącym i ustawia krzesło w wybranym, bezpiecznym miejscu. Prowadzący przez całą rundę ma otwarte oczy.\n\nPozostali stają blisko siebie. Jeśli czują się z tym dobrze, zamykają oczy. Można też zostawić oczy otwarte i nadal brać udział.\n\nProwadzący podaje bardzo dokładne wskazówki krok po kroku, na przykład: „jeden mały krok w prawo”, „dwa kroki do przodu”, „stop”. Grupa porusza się powoli, małymi krokami, aż znajdzie się blisko krzesła.\n\nKiedy dotrzecie na miejsce, spróbujcie bez słów ustalić, która jedna osoba usiądzie na krześle.\n\nJeśli chcecie, zagrajcie ponownie z innym prowadzącym.\n\nW dwie osoby jedna osoba prowadzi z otwartymi oczami, a druga wykonuje jej instrukcje i dociera do krzesła. Potem możecie zamienić się rolami.\n\nMimi: Bez piruetów. Krzesło nie jest przeciwnikiem."
     },
     {
       "id": "GS.D18.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "JEDNO DOBRE SŁOWO",
-      "draft_pl": "DZIEŃ 18\n\nU NAS — JEDNO DOBRE SŁOWO\n\nZaczyna dowolna osoba. Zwraca się do osoby siedzącej po jej prawej stronie i mówi jedno słowo opisujące coś, co w niej podziwia albo szczególnie lubi.\n\nPotem ta osoba zwraca się do kolejnej osoby po swojej prawej stronie.\n\nKontynuujcie wokół koła, aż każdy usłyszy jedno dobre słowo.\n\nNini: Jedno słowo. Bez prezentacji w PowerPoincie. Damy radę."
+      "draft_pl": "DZIEŃ 18\n\nMIĘDZY NAMI: JEDNO DOBRE SŁOWO\n\nZaczyna dowolna osoba. Zwraca się do osoby siedzącej po jej prawej stronie i mówi jedno słowo opisujące coś, co w niej podziwia albo szczególnie lubi.\n\nPotem ta osoba zwraca się do kolejnej osoby po swojej prawej stronie.\n\nKontynuujcie wokół koła, aż każdy usłyszy jedno dobre słowo.\n\nNini: Jedno słowo. Bez prezentacji w PowerPoincie. Damy radę."
     },
     {
       "id": "GS.D19.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "CHWILA OBOK SIEBIE",
-      "draft_pl": "DZIEŃ 19\n\nRESET — CHWILA OBOK SIEBIE\n\nUsiądźcie razem i zamknijcie oczy.\n\nPrzez kilka oddechów po prostu posiedźcie obok siebie. Nie trzeba oddychać w tym samym tempie ani próbować wywołać konkretnego nastroju.\n\nPomyślcie przez chwilę o jednej zwyczajnej rzeczy, którą lubicie w tym, że jesteście teraz razem.\n\nDilo: Światło zostawmy lampkom. Ten reset działa bez instalacji elektrycznej."
+      "draft_pl": "DZIEŃ 19\n\nZWOLNIJ: CHWILA OBOK SIEBIE\n\nUsiądźcie razem i zamknijcie oczy.\n\nPrzez kilka oddechów po prostu posiedźcie obok siebie. Nie trzeba oddychać w tym samym tempie ani próbować wywołać konkretnego nastroju.\n\nPomyślcie przez chwilę o jednej zwyczajnej rzeczy, którą lubicie w takich wspólnych chwilach.\n\nDilo: Światło zostawmy lampkom. Ten reset działa bez instalacji elektrycznej."
     },
     {
       "id": "GS.D19.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "ZMIANA KSZTAŁTU",
-      "draft_pl": "DZIEŃ 19\n\nAKCJA — ZMIANA KSZTAŁTU\n\nStańcie w kółku.\n\nZaczyna osoba, której urodziny przypadają latem albo najbliżej początku lata. Wybiera jeden prosty kształt lub układ, na przykład koło, trójkąt, prostą linię, falę albo gwiazdę.\n\nNa podane hasło wszyscy szybko ustawiają się tak, żeby razem stworzyć wybrany kształt.\n\nKiedy kształt jest gotowy, prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara. Nowy prowadzący wybiera następny kształt.\n\nZagrajcie kilka rund.\n\nW dwie osoby jedna osoba podaje kształt, a obie próbują ułożyć go razem z własnych ciał. Potem zamieniacie się rolami.\n\nDilo: Szybciej. Geometria nie będzie na nas czekać."
+      "draft_pl": "DZIEŃ 19\n\nGRAMY: ZMIANA KSZTAŁTU\n\nStańcie w kółku.\n\nZaczyna osoba, której urodziny przypadają latem albo najbliżej początku lata. Wybiera jeden prosty kształt lub układ, na przykład koło, trójkąt, prostą linię, falę albo gwiazdę.\n\nNa podane hasło wszyscy szybko ustawiają się tak, żeby razem stworzyć wybrany kształt.\n\nKiedy kształt jest gotowy, prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara. Nowy prowadzący wybiera następny kształt.\n\nZagrajcie kilka rund.\n\nW dwie osoby jedna osoba podaje kształt, a obie próbują ułożyć go razem z własnych ciał. Potem zamieniacie się rolami.\n\nDilo: Szybciej. Geometria nie będzie na nas czekać."
     },
     {
       "id": "GS.D19.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "CO LUBIMY W DOMU?",
-      "draft_pl": "DZIEŃ 19\n\nU NAS — CO LUBIMY W DOMU?\n\nPierwsza osoba mówi jedną rzecz, która sprawia jej przyjemność w domu.\n\nKolejna osoba powtarza tę odpowiedź i dodaje własną.\n\nKażda następna osoba zaczyna od wszystkich wcześniejszych odpowiedzi, zachowując ich kolejność, a na końcu dodaje jedną nową.\n\nKontynuujcie, aż każdy dołoży coś od siebie.\n\nMimi: Jeśli lista zaczyna brzmieć jak piosenka, spokojnie. Karaoke jeszcze nie było w planie."
+      "draft_pl": "DZIEŃ 19\n\nMIĘDZY NAMI: CO LUBIMY W DOMU?\n\nPierwsza osoba mówi jedną rzecz, która sprawia jej przyjemność w domu.\n\nKolejna osoba powtarza tę odpowiedź i dodaje własną.\n\nKażda następna osoba zaczyna od wszystkich wcześniejszych odpowiedzi, zachowując ich kolejność, a na końcu dodaje jedną nową.\n\nKontynuujcie, aż każdy dołoży coś od siebie.\n\nMimi: Jeśli lista zaczyna brzmieć jak piosenka, spokojnie. Karaoke jeszcze nie było w planie."
     },
     {
       "id": "GS.D20.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "CZOŁO, OCZY, SZCZĘKA",
-      "draft_pl": "DZIEŃ 20\n\nRESET — CZOŁO, OCZY, SZCZĘKA\n\nUsiądźcie blisko siebie i zamknijcie oczy.\n\nPrzez minutę zwróćcie uwagę na trzy miejsca: czoło, okolice oczu i szczękę.\n\nJeśli któreś z nich jest napięte, pozwólcie mu trochę odpuścić. Nie trzeba robić niczego na siłę.\n\nNa koniec zróbcie jeden zwykły, dłuższy wydech.\n\nMimi: I tak, chodzi też o tę szczękę. Wiem, że tam jest."
+      "draft_pl": "DZIEŃ 20\n\nZWOLNIJ: CZOŁO, OCZY, SZCZĘKA\n\nUsiądźcie blisko siebie i zamknijcie oczy.\n\nPrzez minutę zwróćcie uwagę na trzy miejsca: czoło, okolice oczu i szczękę.\n\nJeśli któreś z nich jest napięte, pozwólcie mu trochę odpuścić. Nie trzeba robić niczego na siłę.\n\nNa koniec zróbcie jeden zwykły, dłuższy wydech.\n\nMimi: I tak, chodzi też o tę szczękę. Wiem, że tam jest."
     },
     {
       "id": "GS.D20.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "TUNEL KIBICÓW",
-      "draft_pl": "DZIEŃ 20\n\nAKCJA — TUNEL KIBICÓW\n\nStańcie w dwóch rzędach naprzeciwko siebie, tak żeby między wami powstał krótki, szeroki tunel.\n\nZaczyna osoba, której urodziny przypadają najbliżej Bożego Narodzenia.\n\nPowoli przechodzi przez środek tunelu. W tym czasie pozostali klaszczą, nucą albo rytmicznie powtarzają jej imię.\n\nKiedy pierwsza osoba przejdzie na koniec, przez tunel przechodzi kolejna. Kontynuujcie, aż każdy będzie miał swoją rundę.\n\nW dwie osoby ustawcie dwa krzesła tak, żeby tworzyły bezpieczne „wejście”. Jedna osoba przechodzi między nimi, a druga jej kibicuje. Potem zamieniacie się rolami.\n\nNini: Jeśli doping jest trochę za entuzjastyczny, nie zgłaszam reklamacji."
+      "draft_pl": "DZIEŃ 20\n\nGRAMY: TUNEL KIBICÓW\n\nStańcie w dwóch rzędach naprzeciwko siebie, tak żeby między wami powstał krótki, szeroki tunel.\n\nZaczyna osoba, której urodziny przypadają najbliżej Bożego Narodzenia.\n\nPowoli przechodzi przez środek tunelu. W tym czasie pozostali klaszczą, nucą albo rytmicznie powtarzają jej imię.\n\nKiedy pierwsza osoba przejdzie na koniec, przez tunel przechodzi kolejna. Kontynuujcie, aż każdy będzie miał swoją rundę.\n\nW dwie osoby ustawcie dwa krzesła tak, żeby tworzyły bezpieczne „wejście”. Jedna osoba przechodzi między nimi, a druga jej kibicuje. Potem zamieniacie się rolami.\n\nNini: Jeśli kibicowanie jest trochę za głośne, nie składam reklamacji."
     },
     {
       "id": "GS.D20.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "PAMIĘTASZ, JAK…",
-      "draft_pl": "DZIEŃ 20\n\nU NAS — PAMIĘTASZ, JAK…\n\nKażdy przypomina sobie przynajmniej jeden przyjemny albo zabawny rodzinny moment i zaczyna opowieść od słów:\n\n„Pamiętasz, jak…”\n\nNie szukajcie największego wydarzenia roku. Najlepsze historie bardzo często zaczynają się od czegoś zupełnie zwyczajnego.\n\nNini: „Pamiętasz, jak zniknęło ostatnie ciastko?” — to jest materiał archiwalny."
+      "draft_pl": "DZIEŃ 20\n\nMIĘDZY NAMI: PAMIĘTASZ, JAK…\n\nKażdy przypomina sobie przynajmniej jeden przyjemny albo zabawny rodzinny moment i zaczyna opowieść od słów:\n\n„Pamiętasz, jak…”\n\nNie szukajcie największego wydarzenia roku. Najlepsze historie bardzo często zaczynają się od czegoś zupełnie zwyczajnego.\n\nNini: „Pamiętasz, jak zniknęło ostatnie ciastko?”. To jest materiał archiwalny."
     },
     {
       "id": "GS.D21.PAUSE",
-      "section_label": "RESET",
+      "section_label": "ZWOLNIJ",
       "title": "JEDNA PRZYJEMNA RZECZ",
-      "draft_pl": "DZIEŃ 21\n\nRESET — JEDNA PRZYJEMNA RZECZ\n\nUsiądźcie przez chwilę w ciszy. Złączcie własne dłonie albo oprzyjcie je razem na kolanach.\n\nZwróćcie uwagę na jedną przyjemną rzecz, którą naprawdę teraz czujecie: ciepło dłoni, miękkość swetra, wygodne oparcie, zapach herbaty albo coś innego.\n\nNie trzeba tego wzmacniać ani „rozsyłać” dalej. Wystarczy przez chwilę to zauważyć.\n\nNini: Jeśli odpowiedź brzmi „ciepły koc”, oficjalnie popieram."
+      "draft_pl": "DZIEŃ 21\n\nZWOLNIJ: JEDNA PRZYJEMNA RZECZ\n\nUsiądźcie przez chwilę w ciszy. Złóżcie dłonie razem albo połóżcie je na kolanach.\n\nZwróćcie uwagę na jedną przyjemną rzecz, którą naprawdę teraz czujecie: ciepło dłoni, miękkość swetra, wygodne oparcie, zapach herbaty albo coś innego.\n\nNie trzeba tego wzmacniać ani „rozsyłać” dalej. Wystarczy przez chwilę to zauważyć.\n\nNini: Jeśli odpowiedź brzmi „ciepły koc”, oficjalnie popieram."
     },
     {
       "id": "GS.D21.PLAY",
-      "section_label": "AKCJA",
+      "section_label": "GRAMY",
       "title": "FALA UŚCISKU",
-      "draft_pl": "DZIEŃ 21\n\nAKCJA — FALA UŚCISKU\n\nStańcie w kółku. Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli ktoś nie chce kontaktu, możecie ustalić prosty sygnał zastępczy, na przykład lekkie dotknięcie własnego ramienia.\n\nZaczyna osoba, której imię rozpoczyna się na literę najbliższą A. Delikatnie ściska dłoń osoby po swojej prawej stronie, rozpoczynając falę zgodnie z ruchem wskazówek zegara.\n\nKażda osoba przekazuje dokładnie taki sam pojedynczy uścisk dalej, aż fala wróci do osoby, która ją rozpoczęła.\n\nPo pełnym okrążeniu osoba stojąca po prawej stronie pierwszego prowadzącego rozpoczyna drugą falę. Tym razem wybiera nowy wzór: dwa albo trzy krótkie uściski, wolniejszy lub szybszy rytm, lżejszy albo nieco wyraźniejszy uścisk, albo falę idącą przeciwnie do ruchu wskazówek zegara.\n\nWzór powinien wrócić do osoby, która go rozpoczęła, bez zmiany.\n\nJeśli macie ochotę na trudniejszą wersję, uruchomcie jednocześnie dwie różne fale — jedną zgodnie, a drugą przeciwnie do ruchu wskazówek zegara.\n\nŻaden uścisk nie powinien boleć.\n\nLuli: To są dłonie, nie cytryny. Naprawdę nie trzeba wyciskać soku."
+      "draft_pl": "DZIEŃ 21\n\nGRAMY: FALA UŚCISKU\n\nStańcie w kółku. Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli ktoś nie chce kontaktu, możecie ustalić prosty sygnał zastępczy, na przykład lekkie dotknięcie własnego ramienia.\n\nZaczyna osoba, której imię rozpoczyna się na literę najbliższą A. Delikatnie ściska dłoń osoby po swojej prawej stronie, rozpoczynając falę zgodnie z ruchem wskazówek zegara.\n\nKażda osoba przekazuje dokładnie taki sam pojedynczy uścisk dalej, aż fala wróci do osoby, która ją rozpoczęła.\n\nPo pełnym okrążeniu osoba stojąca po prawej stronie pierwszego prowadzącego rozpoczyna drugą falę. Tym razem wybiera nowy wzór: dwa albo trzy krótkie uściski, wolniejszy lub szybszy rytm, lżejszy albo nieco wyraźniejszy uścisk, albo falę idącą przeciwnie do ruchu wskazówek zegara.\n\nWzór powinien wrócić do osoby, która go rozpoczęła, bez zmiany.\n\nJeśli macie ochotę na trudniejszą wersję, uruchomcie jednocześnie dwie różne fale. Jedna biegnie zgodnie z ruchem wskazówek zegara, a druga przeciwnie.\n\nŻaden uścisk nie powinien boleć.\n\nLuli: To są dłonie, nie cytryny. Naprawdę nie trzeba wyciskać soku."
     },
     {
       "id": "GS.D21.TALK",
-      "section_label": "U NAS",
+      "section_label": "MIĘDZY NAMI",
       "title": "NASZ ZNAK",
-      "draft_pl": "DZIEŃ 21\n\nU NAS — NASZ ZNAK\n\nWymyślcie razem jeden mały gest albo znak, który będzie kojarzył się tylko z waszą rodziną i z czymś dobrym między wami.\n\nMożecie położyć dłonie na sercu, zetknąć palce, zrobić określony ruch ręką albo wymyślić coś zupełnie własnego.\n\nWażne, żeby znak był prosty, łatwy do zapamiętania i żeby wszystkim odpowiadał.\n\nLuli: Rodzinny skrót. Bez instrukcji obsługi i bez aktualizacji systemu."
+      "draft_pl": "DZIEŃ 21\n\nMIĘDZY NAMI: NASZ ZNAK\n\nWymyślcie razem jeden mały gest albo znak, który będzie kojarzył się tylko z waszą rodziną i z czymś dobrym między wami.\n\nMożecie położyć dłonie na sercu, zetknąć palce, zrobić określony ruch ręką albo wymyślić coś zupełnie własnego.\n\nWażne, żeby znak był prosty, łatwy do zapamiętania i żeby wszystkim odpowiadał.\n\nLuli: Rodzinny skrót. Bez instrukcji obsługi i bez aktualizacji systemu."
     }
   ]
 }
