@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the source-proven World 02 Level 11 graph and custody boundary."""
+"""Validate source-proven World 02 mission graphs and custody boundaries."""
 
 import argparse
 import json
@@ -19,6 +19,21 @@ PROVENANCE_KEYS = {"source_id","source_sha256","page","evidence_id"}
 SOURCE_KEYS = {"source_id","source_sha256","source_bytes","source_pages","page_range","evidence_manifest"}
 COPY_KEYS = {"locale","node_id","fields"}
 
+MISSION_SPECS = {
+    "world02_mission_011": {
+        "level": 11,
+        "pages": [13,21],
+        "blocks": 27,
+        "types": Counter({"dialogue":14,"system_log":5,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}),
+    },
+    "world02_mission_012": {
+        "level": 12,
+        "pages": [22,29],
+        "blocks": 27,
+        "types": Counter({"dialogue":13,"system_log":6,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}),
+    },
+}
+
 def require(condition, message):
     if not condition:
         raise ValueError(message)
@@ -32,13 +47,18 @@ def load_json(path):
 
 def validate(pack, evidence):
     keys_exact(pack, PACK_KEYS, "pack")
-    require(evidence["mission_id"] == "world02_mission_011", "wrong evidence mission")
+    mission_id = evidence["mission_id"]
+    require(mission_id in MISSION_SPECS, "mission has no bounded World 02 specification")
+    spec = MISSION_SPECS[mission_id]
+    level = spec["level"]
+    first, last = spec["pages"]
+
     require(pack["schema_version"] == "1.0.0", "wrong graph contract")
     require(pack["minimum_runtime_contract"] == "1.0.0", "wrong runtime contract")
     require(pack["product_id"] == "level_up_your_brain_world_02", "product drift")
-    require(pack["content_pack_id"] == "world02_mission_011_source_graph", "pack id drift")
-    require(pack["mission_id"] == "world02_mission_011", "mission drift")
-    require(pack["candidate_scope"] == "published_mission_011_pages_13_21", "scope drift")
+    require(pack["content_pack_id"] == f"world02_mission_{level:03d}_source_graph", "pack id drift")
+    require(pack["mission_id"] == mission_id, "mission drift")
+    require(pack["candidate_scope"] == f"published_mission_{level:03d}_pages_{first}_{last}", "scope drift")
     require(pack["canonical_locale"] == "en", "canonical locale drift")
     require(pack["supported_locales"] == ["en"], "only source-proven EN may be supported")
     require(pack["planned_locales"] == ["pl-PL"], "PL must remain planned only")
@@ -51,18 +71,18 @@ def validate(pack, evidence):
     require(source["source_sha256"] == truth["sha256"] == CANONICAL_SHA256, "canonical hash drift")
     require(source["source_bytes"] == truth["bytes"] == 66576954, "canonical byte-size drift")
     require(source["source_pages"] == truth["pages"] == 104, "canonical page-count drift")
-    require(source["page_range"] == truth["page_range"] == [13,21], "page range drift")
-    require(source["evidence_manifest"] == "orchestration/content-sources/world02-level11-page-evidence.json", "evidence path drift")
+    require(source["page_range"] == truth["page_range"] == spec["pages"], "page range drift")
+    require(source["evidence_manifest"] == f"orchestration/content-sources/world02-level{level}-page-evidence.json", "evidence path drift")
 
     inventory = evidence["page_inventory"]
-    require([x["page"] for x in inventory] == list(range(13,22)), "inventory must cover pages 13-21")
+    require([x["page"] for x in inventory] == list(range(first,last+1)), "inventory page coverage drift")
     records = evidence["records"]
-    require(len(records) == 27, "Level 11 must contain 27 source blocks")
+    require(len(records) == spec["blocks"], "source block count drift")
     require(sum(x["content_blocks"] for x in inventory) == len(records), "inventory count drift")
     require([Counter(r["page"] for r in records)[x["page"]] for x in inventory] == [x["content_blocks"] for x in inventory], "per-page counts drift")
     require(len(pack["nodes"]) == len(records) == len(pack["localized_copy"]), "node/copy count drift")
 
-    expected_ids = [f"world02_mission_011_node_{i:03d}" for i in range(1,28)]
+    expected_ids = [f"world02_mission_{level:03d}_node_{i:03d}" for i in range(1,len(records)+1)]
     require([r["node_id"] for r in records] == expected_ids, "evidence IDs out of order")
     require([n["node_id"] for n in pack["nodes"]] == expected_ids, "graph IDs out of order")
 
@@ -88,7 +108,7 @@ def validate(pack, evidence):
         require(all(isinstance(v,str) and v.strip() for v in copy["fields"].values()), f"empty copy field at {label}")
 
     counts = Counter(n["node_type"] for n in pack["nodes"])
-    require(counts == Counter({"dialogue":14,"system_log":5,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}), f"unexpected type counts: {dict(counts)}")
+    require(counts == spec["types"], f"unexpected type counts: {dict(counts)}")
     return counts
 
 def main():
@@ -102,7 +122,8 @@ def main():
     except (ValueError, KeyError, OSError, json.JSONDecodeError) as exc:
         print(f"INVALID: {exc}", file=sys.stderr)
         return 1
-    print(f"VALID: {len(pack['nodes'])} World 02 Level 11 source-proven nodes, pages 13-21, types {dict(sorted(counts.items()))}")
+    first, last = pack["source"]["page_range"]
+    print(f"VALID: {len(pack['nodes'])} World 02 source-proven nodes, pages {first}-{last}, types {dict(sorted(counts.items()))}")
     return 0
 
 if __name__ == "__main__":
