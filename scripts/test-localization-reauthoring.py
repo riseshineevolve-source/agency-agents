@@ -199,7 +199,7 @@ class GentleStepsDays0103Production(unittest.TestCase):
         labels = candidate["recurring_label_candidates"]
         self.assertEqual(labels["lock_state"], "OWNER_GATE")
         self.assertEqual((labels["pause"], labels["play"], labels["connection"]),
-                         ("RESET", "AKCJA", "U NAS"))
+                         ("ZWOLNIJ", "GRAMY", "MIĘDZY NAMI"))
 
         rendered = "\n".join(u["draft_pl"] for u in candidate["units"])
         for regression in (
@@ -255,7 +255,7 @@ class GentleStepsDays0407Production(unittest.TestCase):
         labels = candidate["recurring_label_candidates"]
         self.assertEqual(labels["lock_state"], "OWNER_GATE")
         self.assertEqual((labels["pause"], labels["play"], labels["connection"]),
-                         ("RESET", "AKCJA", "U NAS"))
+                         ("ZWOLNIJ", "GRAMY", "MIĘDZY NAMI"))
 
     def test_days_04_07_known_translationese_regressions_absent(self):
         candidate = load(self.BASE / "voice-master-candidate.json")
@@ -431,9 +431,9 @@ class GentleStepsDays2224Production(unittest.TestCase):
         for required in (
             "przeciwnie do ruchu wskazówek zegara",
             "mniej więcej 1 lipca",
-            "Runda 1 — KOLORY",
-            "Runda 2 — LUBIĘ / NIE LUBIĘ",
-            "Runda 3 — NAWYKI I CECHY",
+            "Runda 1: KOLORY",
+            "Runda 2: LUBIĘ / NIE LUBIĘ",
+            "Runda 3: NAWYKI I CECHY",
             "Przez minutę",
             "najbardziej świąteczny kolor",
             "dwie krótkie rundy",
@@ -472,7 +472,7 @@ class GentleStepsFullDaysOwnerReview(unittest.TestCase):
             self.assertEqual(len(day_units), 3, day)
             self.assertEqual(
                 [u["section_label"] for u in day_units],
-                ["RESET", "AKCJA", "U NAS"],
+                ["ZWOLNIJ", "GRAMY", "MIĘDZY NAMI"],
                 day,
             )
 
@@ -494,6 +494,11 @@ class GentleStepsFullDaysOwnerReview(unittest.TestCase):
             for path in self.BATCHES
             for u in load(path)["units"]
         )
+        self.assertNotIn("—", rendered)
+        self.assertNotIn("brzmi sprawnie", rendered)
+        self.assertNotIn("„bam”, „ding” albo „pff”", rendered)
+        self.assertIn("„bum”, „dzyń” albo „puf”", rendered)
+
         for regression in (
             "chciałbym / chciałabym",
             "gotowy/gotowa",
