@@ -1,22 +1,22 @@
-# 24 Gentle Steps to Christmas — Polish Week 1 Voice Master
+# 24 Gentle Steps to Christmas. Polish Week 1 Voice Master
 
-Status: **WEEK 1 COMPLETE / OWNER REVIEW GATE / NO SURFACE LOCK YET**  
-Mode: `native_reauthor_from_function`  
-Working recurring labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Days 1–3 candidate SHA-256: `0325f1353e0a1ead9024d50401e9489c4069f2cb01fa091b79f6b3621d5d4b2d`  
-Days 4–7 candidate SHA-256: `08878be968b4ff2bf0412cc21ebf9888b07f3a85bb1c3eb9eb736f09f98e1439`
+Status: **WEEK 1 OWNER REVIEW / REVISED POLISH HOUSE STYLE**  
+Working recurring labels: **ZWOLNIJ / GRAMY / MIĘDZY NAMI**. **NOT LOCKED**  
+Days 1–3 candidate SHA-256: `3c6e2c481f790747a4b4932b4d198ab09d2637c971ba69bba442a8d9d0070f84`  
+Days 4–7 candidate SHA-256: `68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7`
 
-Current Week 1 standard:
-- native Polish, but **book Polish rather than chatty spoken shorthand**;
-- breath/quiet pages framed through ordinary life, rest and a short break from the next task rather than imported mindfulness/wellness vocabulary;
-- full enough instructions that a family can perform every source activity correctly from the Polish page alone;
-- Happy Makers comments carry the strongest conversational humor.
+Current standard:
+- contemporary Polish book language, not chat shorthand;
+- no em dash in reader-facing Polish;
+- concrete, non-coaching quiet/breath framing;
+- complete activity instructions;
+- Polish-first Happy Makers humor.
 
 ---
 
 ## DZIEŃ 1
 
-RESET — MINUTA BEZ POŚPIECHU
+ZWOLNIJ: MINUTA BEZ POŚPIECHU
 
 Usiądźcie razem w kółku. Jeśli macie ochotę, lekko złapcie się za ręce albo usiądźcie tak, żeby stykać się ramionami.
 
@@ -30,13 +30,13 @@ Luli: Jeśli Alio wytrzyma pełną minutę bez wiercenia się, proponuję wpisa�
 
 ## DZIEŃ 1
 
-AKCJA — PODAJ DALEJ
+GRAMY: PODAJ DALEJ
 
 Stańcie w kółku.
 
 Zaczyna osoba, której imię zaczyna się na literę najbliżej końca alfabetu. Udaje, że trzyma niewidzialną piłkę.
 
-Wybiera jedną osobę, lekko „rzuca” piłkę w jej stronę i mówi jej jeden konkretny komplement — coś, co w niej lubi albo docenia.
+Wybiera jedną osobę, lekko „rzuca” piłkę w jej stronę i mówi jej jeden konkretny komplement, czyli coś, co w niej lubi albo docenia.
 
 Osoba, która „łapie” piłkę, mówi „Dziękuję”, wybiera kolejną osobę i przekazuje piłkę dalej razem z następnym komplementem.
 
@@ -48,7 +48,7 @@ Nini: Tylko bez zamachu jak na WF-ie. To ma być komplement, nie kontuzja.
 
 ## DZIEŃ 1
 
-U NAS — JEDNO SŁOWO
+MIĘDZY NAMI: JEDNO SŁOWO
 
 Każdy mówi jedno słowo o tym, jak się teraz czuje.
 
@@ -60,12 +60,12 @@ Luli: „Dobrze” się nie liczy. Wiem, wiem. Spróbujcie jeszcze raz.
 
 ## DZIEŃ 2
 
-RESET — 4 NA 6
+ZWOLNIJ: 4 NA 6
 
 Usiądźcie wygodnie. Przez minutę spróbujcie oddychać trochę wolniej niż zwykle.
 
 Przy wdechu policzcie spokojnie do czterech.
-Przy wydechu — do sześciu.
+Przy wydechu policzcie spokojnie do sześciu.
 
 Nie nabierajcie powietrza na siłę i nie próbujcie zrobić „idealnego” oddechu. Jeśli taki rytm komuś nie odpowiada, wróćcie do własnego oddechu.
 
@@ -77,9 +77,9 @@ Mimi: To chyba jedyna rzecz w grudniu, której nie próbuję zrobić szybciej.
 
 ## DZIEŃ 2
 
-AKCJA — DOMOWA ORKIESTRA
+GRAMY: DOMOWA ORKIESTRA
 
-Zaczyna osoba, która jako następna będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk, na przykład „bam”, „ding” albo „pff”.
+Zaczyna osoba, która jako następna będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk, na przykład „bum”, „dzyń” albo „puf”.
 
 Następnie gracie zgodnie z ruchem wskazówek zegara. Kolejna osoba powtarza pierwszy dźwięk i dodaje własny.
 
@@ -95,7 +95,7 @@ Dilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamy
 
 ## DZIEŃ 2
 
-U NAS — CO LUBIMY W NASZEJ RODZINIE
+MIĘDZY NAMI: CO LUBIMY W NASZEJ RODZINIE
 
 Po kolei dokończcie zdanie:
 
@@ -109,7 +109,7 @@ Luli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy.
 
 ## DZIEŃ 3
 
-RESET — MINUTA BEZ „MUSZĘ”
+ZWOLNIJ: MINUTA BEZ „MUSZĘ”
 
 Usiądźcie albo stańcie blisko siebie.
 
@@ -125,7 +125,7 @@ Nini: Ja siedzę spokojnie. Za palce nie odpowiadam.
 
 ## DZIEŃ 3
 
-AKCJA — STOP-KLATKA
+GRAMY: STOP-KLATKA
 
 Zaczyna najmłodsza osoba. Podaje jedno hasło, na przykład: „śnieg”, „buziak”, „choinka” albo „przytulenie”.
 
@@ -143,7 +143,7 @@ Alio: Kto zastygnie ostatni, zwykle ma najdziwniejszą pozę. I właśnie dlateg
 
 ## DZIEŃ 3
 
-U NAS — CO DZIŚ BYŁO FAJNE?
+MIĘDZY NAMI: CO DZIŚ BYŁO FAJNE?
 
 Każdy wybiera jeden przyjemny moment z dzisiejszego dnia i krótko o nim opowiada.
 
@@ -155,13 +155,13 @@ Mimi: Jeśli najlepsze były frytki, to frytki. Nie mam dalszych pytań.
 
 ## DZIEŃ 4
 
-RESET — TYLKO ŚWIATŁO
+ZWOLNIJ: TYLKO ŚWIATŁO
 
-Usiądźcie blisko siebie i wybierzcie małe źródło światła — lampkę albo bezpiecznie ustawioną świeczkę.
+Usiądźcie blisko siebie i wybierzcie małe źródło światła, na przykład lampkę albo bezpiecznie ustawioną świeczkę.
 
 Przez chwilę patrzcie tylko na światło. Zobaczcie, jak się zmienia, drga albo odbija na przedmiotach wokół.
 
-Oddychajcie swobodnie. Nie trzeba niczego analizować — przez chwilę wystarczy po prostu patrzeć.
+Oddychajcie swobodnie. Nie trzeba niczego analizować. Przez chwilę wystarczy po prostu patrzeć.
 
 Luli: Dziś niczego nie analizuję. Sama jestem zaskoczona.
 
@@ -169,7 +169,7 @@ Luli: Dziś niczego nie analizuję. Sama jestem zaskoczona.
 
 ## DZIEŃ 4
 
-AKCJA — GŁOSY W OBIEGU
+GRAMY: GŁOSY W OBIEGU
 
 Zaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.
 
@@ -187,7 +187,7 @@ Mimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie.
 
 ## DZIEŃ 4
 
-U NAS — JAKI KOLOR MIAŁ DZIŚ DZIEŃ?
+MIĘDZY NAMI: JAKI KOLOR MIAŁ DZIŚ DZIEŃ?
 
 Każdy wybiera jeden kolor, który najlepiej pasuje do jego dzisiejszego dnia, i mówi go na głos.
 
@@ -201,13 +201,13 @@ Dilo: Nie istnieje? Już istnieje. Dodałem do systemu.
 
 ## DZIEŃ 5
 
-RESET — TRZY WARSTWY DŹWIĘKU
+ZWOLNIJ: TRZY WARSTWY DŹWIĘKU
 
 Zamknijcie oczy na minutę.
 
 Najpierw posłuchajcie dźwięków, które są najbliżej was.
 
-Potem sprawdźcie, co słychać dalej — za drzwiami, za oknem albo gdzieś w głębi domu.
+Potem sprawdźcie, co słychać dalej, na przykład za drzwiami, za oknem albo gdzieś w głębi domu.
 
 Na końcu spróbujcie wyłapać najcichszy dźwięk, który dociera do was z tła.
 
@@ -219,7 +219,7 @@ Dilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem.
 
 ## DZIEŃ 5
 
-AKCJA — 12 BEZ POMYŁKI
+GRAMY: 12 BEZ POMYŁKI
 
 Usiądźcie w kółku.
 
@@ -227,7 +227,7 @@ Zaczyna najwyższa osoba. Mówi „jeden” i wskazuje dowolną osobę, która m
 
 Jeśli ktoś się pomyli, zaczynacie liczenie od początku.
 
-Kiedy uda wam się dojść do 12 bez pomyłki, powtórzcie całą rundę szybciej. Następnie spróbujcie policzyć wstecz — od 12 do 1.
+Kiedy uda wam się dojść do 12 bez pomyłki, powtórzcie całą rundę szybciej. Następnie spróbujcie policzyć wstecz, od 12 do 1.
 
 Jeśli chcecie zwiększyć trudność, możecie ustalić wyższą liczbę końcową.
 
@@ -241,7 +241,7 @@ Dilo: Tu nie ma VAR-u. Pomyłka i wracamy do jedynki.
 
 ## DZIEŃ 5
 
-U NAS — DŹWIĘK DOMU
+MIĘDZY NAMI: DŹWIĘK DOMU
 
 Każdy podaje jeden dźwięk, który lubi słyszeć w domu.
 
@@ -255,11 +255,11 @@ Dilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołów
 
 ## DZIEŃ 6
 
-RESET — W JEDNYM TEMPIE
+ZWOLNIJ: W JEDNYM TEMPIE
 
 Usiądźcie luźno w kółku.
 
-Dłonie połóżcie na kolanach albo — jeśli wszyscy mają na to ochotę — lekko złapcie się za ręce.
+Dłonie połóżcie na kolanach. Jeśli wszyscy mają na to ochotę, możecie też lekko złapać się za ręce.
 
 Na początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę zwolnić i przez chwilę oddychać w podobnym tempie.
 
@@ -271,7 +271,7 @@ Alio: Drużyna działa, choć nikt nie ustalał planu. Trochę podejrzane.
 
 ## DZIEŃ 6
 
-AKCJA — RÓWNO!
+GRAMY: RÓWNO!
 
 Stańcie w jednym rzędzie, ramię w ramię.
 
@@ -293,16 +293,16 @@ Luli: Spektakularne wywrotki nie są częścią programu.
 
 ## DZIEŃ 6
 
-U NAS — CO DOBRZE USŁYSZEĆ
+MIĘDZY NAMI: CO DOBRZE USŁYSZEĆ
 
-Każdy podaje jedno zdanie albo kilka słów, które dobrze mu usłyszeć od kogoś z rodziny, kiedy ma trudniejszy moment albo jest już zmęczony całym dniem.
+Każdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy ma trudniejszy moment albo po prostu ma już dość.
 
 To może być coś bardzo prostego:
 „Jestem obok”.
 „Mamy czas”.
 „Chcesz chwilę dla siebie?”.
 
-Nie szukajcie mądrych sentencji. Wybierzcie coś, co naprawdę dobrze wam wtedy usłyszeć.
+Nie szukajcie mądrych sentencji. Wybierzcie coś, co sami chcielibyście wtedy usłyszeć.
 
 Luli: Nie musi brzmieć mądrze. Wystarczy, że naprawdę chcecie to wtedy usłyszeć.
 
@@ -310,7 +310,7 @@ Luli: Nie musi brzmieć mądrze. Wystarczy, że naprawdę chcecie to wtedy usły
 
 ## DZIEŃ 7
 
-RESET — PODŁOGA ROBI SWOJE
+ZWOLNIJ: PODŁOGA ROBI SWOJE
 
 Usiądźcie albo połóżcie się obok siebie i ułóżcie się tak, żeby było wam wygodnie.
 
@@ -324,7 +324,7 @@ Dilo: Dziś trenuję z grawitacją. Ona robi większość pracy.
 
 ## DZIEŃ 7
 
-AKCJA — REAKCJA ŁAŃCUCHOWA
+GRAMY: REAKCJA ŁAŃCUCHOWA
 
 Stańcie albo usiądźcie w kółku.
 
@@ -346,14 +346,10 @@ Nini: Uśmiech większy, niż wymaga sytuacja. Właśnie taki.
 
 ## DZIEŃ 7
 
-U NAS — KTO TU ROBI DOBRĄ ROBOTĘ?
+MIĘDZY NAMI: KTO TU ROBI DOBRĄ ROBOTĘ?
 
 Każdy wybiera jedną osobę z rodziny, która często pomaga innym albo po cichu robi coś dla pozostałych.
 
 Powiedzcie konkretnie, co ta osoba robi i co ostatnio zauważyliście.
 
 Nini: Skoro sami się nie chwalą, ktoś musi. Dziś padło na nas.
-
----
-
-Days 8–24 remain blocked until the Week 1 owner review confirms this register/detail/breathing direction. Recurring labels and final title remain open.
