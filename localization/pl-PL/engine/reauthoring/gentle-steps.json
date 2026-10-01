@@ -84,7 +84,8 @@
       "sentence_construction",
       "context",
       "register",
-      "read_aloud_rhythm"
+      "read_aloud_rhythm",
+      "polish_punctuation_house_style"
     ],
     "pass_condition": "A contemporary Polish speaker would naturally formulate the idea this way without mentally repairing an English-shaped construction."
   },
@@ -97,7 +98,13 @@
       "cute diminutives",
       "forced slang",
       "literal mindfulness terminology"
-    ]
+    ],
+    "current_working_set": {
+      "pause": "ZWOLNIJ",
+      "play": "GRAMY",
+      "connection": "MIĘDZY NAMI",
+      "lock_state": "OWNER_GATE"
+    }
   },
   "book_register": {
     "target": "modern_polish_family_book",
@@ -154,5 +161,19 @@
       "ending_condition"
     ],
     "pass_condition": "A family can execute the activity correctly from the Polish page alone without seeing the English original."
+  },
+  "polish_punctuation_house_style": {
+    "rule": "no_em_dash_in_reader_facing_polish",
+    "forbidden": [
+      "—"
+    ],
+    "prefer": [
+      "rebuild the sentence in natural Polish",
+      "full stop and a new sentence",
+      "comma where grammatically natural",
+      "colon for explanation or section-label separation"
+    ],
+    "note": "Do not mechanically replace an English dash with Polish punctuation. Rewrite the sentence so it sounds natively composed.",
+    "pass_condition": "Reader-facing Polish copy contains no em dash and does not sound syntactically distorted by dash removal."
   }
 }
