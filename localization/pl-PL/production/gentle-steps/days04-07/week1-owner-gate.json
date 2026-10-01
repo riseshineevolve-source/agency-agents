@@ -3,7 +3,7 @@
   "product": "gentle-steps-christmas",
   "scope": "days_01_07",
   "status": "READY_FOR_WEEK1_OWNER_REVIEW",
-  "candidate_days04_07_sha256": "08878be968b4ff2bf0412cc21ebf9888b07f3a85bb1c3eb9eb736f09f98e1439",
+  "candidate_days04_07_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
   "recurring_labels": [
     "RESET",
     "AKCJA",
@@ -19,5 +19,11 @@
   ],
   "register_policy": "natural_book_polish_not_chatty",
   "instruction_detail_policy": "source_mechanics_complete",
-  "breath_reset_policy": "concrete_everyday_non_mindfulness"
+  "breath_reset_policy": "concrete_everyday_non_mindfulness",
+  "recurring_label_candidates": {
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI"
+  },
+  "punctuation_house_style": "no_em_dash_in_reader_facing_polish"
 }
