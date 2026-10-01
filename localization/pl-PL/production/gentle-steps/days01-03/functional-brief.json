@@ -2,7 +2,7 @@
   "format": "rse-functional-brief-v1",
   "product": "gentle-steps-christmas",
   "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
-  "profile_sha256": "cb076c35e4e307a9d5a687edce8d2cd63dd39111040bc21021400271c240cadd",
+  "profile_sha256": "1f3aff5828302a2f4cfbb07dc1a7d94c9c366a4fed51e8d5b27c912d9e8cf1ae",
   "scope": "days_01_03_voice_calibration",
   "units": [
     {
@@ -34,7 +34,7 @@
       "tone_job": "Make quiet feel normal and slightly funny, not spiritual or solemn.",
       "humor_room": "Dry family joke about Alio staying still.",
       "cultural_friction": "Avoid mindfulness jargon and poetic claims about shared air or energy.",
-      "recurrence_context": "Candidate recurring section family: PAUZA.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -66,7 +66,7 @@
       "tone_job": "Turn a potentially earnest compliment exercise into a light family game.",
       "humor_room": "Invisible-ball / no-bruises joke.",
       "cultural_friction": "Avoid school-workshop language such as formal praise circles.",
-      "recurrence_context": "Candidate recurring section family: ZABAWA.",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -93,7 +93,7 @@
       "tone_job": "Keep emotional language simple, brief and non-therapeutic.",
       "humor_room": "A dry nudge against vague default answers.",
       "cultural_friction": "Avoid coaching prompts and adult emotional-literacy jargon.",
-      "recurrence_context": "Candidate recurring section family: MIĘDZY NAMI.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -123,7 +123,7 @@
       "tone_job": "Make a paced-breathing exercise feel practical rather than wellness-coded.",
       "humor_room": "Contrast December rushing with not rushing the breath.",
       "cultural_friction": "Avoid language about one shared breath/room breathing as one.",
-      "recurrence_context": "Candidate recurring section family: PAUZA.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -156,7 +156,7 @@
       "tone_job": "Fast, silly, memorable family noise with a tech/music-flavored Dilo joke.",
       "humor_room": "Questionable sound becomes music if performed confidently.",
       "cultural_friction": "Use Polish-friendly sound examples rather than copying English sound words.",
-      "recurrence_context": "Candidate recurring section family: ZABAWA.",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -181,7 +181,7 @@
       "tone_job": "Warm without becoming ceremonial or sentimental.",
       "humor_room": "Mock-formal speech/gala joke.",
       "cultural_friction": "Avoid literal 'being us' phrasing and abstract connection language.",
-      "recurrence_context": "Candidate recurring section family: MIĘDZY NAMI.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -211,7 +211,7 @@
       "tone_job": "Quiet physical connection with zero spiritual pressure.",
       "humor_room": "Still hands / mischievous fingers contrast.",
       "cultural_friction": "Remove heart-energy/peace-travel metaphors.",
-      "recurrence_context": "Candidate recurring section family: PAUZA.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -243,7 +243,7 @@
       "tone_job": "Quick physical comedy; no lesson language.",
       "humor_room": "The later the freeze, the stranger the pose.",
       "cultural_friction": "Use ordinary Polish prompt examples such as snow, kiss, Christmas tree, hug.",
-      "recurrence_context": "Candidate recurring section family: ZABAWA.",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -269,7 +269,7 @@
       "tone_job": "Make reflection easy and ordinary, not performative.",
       "humor_room": "Snack can legitimately win the day.",
       "cultural_friction": "Avoid grand language about ordinary moments becoming extraordinary through noticing.",
-      "recurrence_context": "Candidate recurring section family: MIĘDZY NAMI.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     }
   ]
