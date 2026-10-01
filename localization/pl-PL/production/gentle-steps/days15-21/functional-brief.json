@@ -2,7 +2,7 @@
   "format": "rse-functional-brief-v1",
   "product": "gentle-steps-christmas",
   "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
-  "profile_sha256": "cb076c35e4e307a9d5a687edce8d2cd63dd39111040bc21021400271c240cadd",
+  "profile_sha256": "1f3aff5828302a2f4cfbb07dc1a7d94c9c366a4fed51e8d5b27c912d9e8cf1ae",
   "scope": "days_15_21_week3",
   "units": [
     {
@@ -30,7 +30,7 @@
       "tone_job": "Practical body reset; book-polished, not wellness-coded.",
       "humor_room": "Calm roller-coaster joke can be rebuilt in Polish.",
       "cultural_friction": "Remove 'waves in sync' / stillness-alive abstraction.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -59,7 +59,7 @@
       "tone_job": "Clear cumulative game instructions with lively pace.",
       "humor_room": "Ridiculous move = success, not embarrassment.",
       "cultural_friction": "Avoid abstract shared-memory claim.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -84,7 +84,7 @@
       "tone_job": "Warm nostalgia without sentimentality.",
       "humor_room": "Dilo can make a practical household joke.",
       "cultural_friction": "Avoid 'laughter is the echo of love'.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -111,7 +111,7 @@
       "tone_job": "Concrete coordinated movement with breathing.",
       "humor_room": "Hands can seem to 'know the choreography' without mystical framing.",
       "cultural_friction": "Remove invisible-connections/shared-air claim.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -141,7 +141,7 @@
       "tone_job": "Detailed but elegant game instructions.",
       "humor_room": "Mock-serious orchestra control.",
       "cultural_friction": "Avoid harmony/leadership moral lesson.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -166,7 +166,7 @@
       "tone_job": "Low-pressure future planning.",
       "humor_room": "Tiny wish counts; no motivational speech.",
       "cultural_friction": "Avoid dream-team coaching register.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -192,7 +192,7 @@
       "tone_job": "Simple physical reset.",
       "humor_room": "Mimi rejects overdoing it.",
       "cultural_friction": "Avoid abstract joy-in-movement claim.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -223,7 +223,7 @@
       "tone_job": "Clear movement game with precise timing.",
       "humor_room": "Unusual movement is welcome.",
       "cultural_friction": "Avoid collaboration/joy abstraction.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -248,7 +248,7 @@
       "tone_job": "Concrete energy/joy reflection.",
       "humor_room": "A small 'yes, this' moment rather than coaching.",
       "cultural_friction": "Avoid energy-growth/connection jargon.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -275,7 +275,7 @@
       "tone_job": "Everyday longer-exhale reset.",
       "humor_room": "Zero special effects is a valid joke.",
       "cultural_friction": "Remove ripples/wishes touching hearts.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -308,7 +308,7 @@
       "tone_job": "Cooperation/navigation challenge with safety first.",
       "humor_room": "Furniture is not an opponent.",
       "cultural_friction": "Do not claim trust grows automatically.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -335,7 +335,7 @@
       "tone_job": "Brief appreciation without ceremony.",
       "humor_room": "One-word 'upgrade' joke.",
       "cultural_friction": "Avoid warmth/trust claim.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -362,7 +362,7 @@
       "tone_job": "Plain family pause.",
       "humor_room": "Leave the lighting to actual lamps.",
       "cultural_friction": "Remove darkness/light spiritual metaphor.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -393,7 +393,7 @@
       "tone_job": "Fast spatial game with complete role changes.",
       "humor_room": "Geometry as impatient system.",
       "cultural_friction": "Avoid teamwork moral.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -420,7 +420,7 @@
       "tone_job": "Memory/list game more than gratitude ritual.",
       "humor_room": "Not karaoke—yet.",
       "cultural_friction": "Avoid joy-multiplies claim.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -448,7 +448,7 @@
       "tone_job": "Physical reset, not meditation.",
       "humor_room": "Yes, that jaw.",
       "cultural_friction": "Remove collective-sigh-of-peace claim.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -480,7 +480,7 @@
       "tone_job": "Celebratory but not overblown.",
       "humor_room": "Too enthusiastic is allowed in Nini's voice.",
       "cultural_friction": "Avoid standing-ovation entitlement claim.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -505,7 +505,7 @@
       "tone_job": "Warm memory round with a concrete prompt.",
       "humor_room": "Cookie-rule memory can carry joke.",
       "cultural_friction": "Avoid invisible-threads/belonging abstraction.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -531,7 +531,7 @@
       "tone_job": "Concrete sensory pause.",
       "humor_room": "Warm blanket/cup comfort is enough.",
       "cultural_friction": "Remove inner spark/spreading-through-circle framing.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -565,7 +565,7 @@
       "tone_job": "Coordination challenge with consent.",
       "humor_room": "Not lemons.",
       "cultural_friction": "Remove shared-energy claim.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -593,7 +593,7 @@
       "tone_job": "A family in-joke/sign rather than ceremonial ritual.",
       "humor_room": "Unique sign can feel like a secret code.",
       "cultural_friction": "Avoid glowing-candle metaphor.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     }
   ]
