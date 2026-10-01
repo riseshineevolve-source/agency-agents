@@ -2,7 +2,7 @@
   "format": "rse-bounded-scaleout-gate-v1",
   "product": "gentle-steps-christmas",
   "scope": "days_15_21_week3",
-  "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+  "candidate_sha256": "3345de1fa519edf0f59bd1162da0485d6d0d53a0475ceba7259a8574fe257211",
   "status": "READY_FOR_DAYS22_24",
   "next_batch_days22_24_authorized": true,
   "publication_authorized": false,
