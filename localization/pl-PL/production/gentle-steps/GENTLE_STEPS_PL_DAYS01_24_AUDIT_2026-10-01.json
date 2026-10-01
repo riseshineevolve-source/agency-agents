@@ -8,23 +8,23 @@
   "batch_candidates": [
     {
       "range": "01-03",
-      "candidate_sha256": "0325f1353e0a1ead9024d50401e9489c4069f2cb01fa091b79f6b3621d5d4b2d"
+      "candidate_sha256": "3c6e2c481f790747a4b4932b4d198ab09d2637c971ba69bba442a8d9d0070f84"
     },
     {
       "range": "04-07",
-      "candidate_sha256": "08878be968b4ff2bf0412cc21ebf9888b07f3a85bb1c3eb9eb736f09f98e1439"
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7"
     },
     {
       "range": "08-14",
-      "candidate_sha256": "783dd6c804b064dd822680b49a69f8b3b1bf676303ca2adfb5a177c6ecae3a6a"
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea"
     },
     {
       "range": "15-21",
-      "candidate_sha256": "3345de1fa519edf0f59bd1162da0485d6d0d53a0475ceba7259a8574fe257211"
+      "candidate_sha256": "bc5c1973f6f13c23061df60610d5fe6885af4ab3b862f8dd90f791bab73be0e6"
     },
     {
       "range": "22-24",
-      "candidate_sha256": "f9ee0ee5f341572419aae200f0b9ff9810d9b4ea1d2df6e48259fae74f78c70c"
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369"
     }
   ],
   "coverage": {
@@ -34,14 +34,14 @@
     "missing_or_order_defects": []
   },
   "recurring_labels": {
-    "pause": "RESET",
-    "play": "AKCJA",
-    "connection": "U NAS",
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI",
     "locked": false
   },
   "full_book_findings": {
-    "polish_usage": "PASS — grammar/syntax/idiom/context regression scan clean after Week 3 microfix.",
-    "book_register": "PASS — instructional prose is book-quality rather than chat shorthand; colloquiality concentrated in character comments.",
+    "polish_usage": "PASS — native-language micro-pass repeated after owner feedback; residual near-native phrases and English-style punctuation removed.",
+    "book_register": "PASS — instructional prose uses Polish sentence structure, no em dash, and keeps stronger colloquiality mainly in character comments.",
     "breath_reset": "PASS — source breathing/body/light imagery is re-authored into concrete everyday pauses; no shared-energy/inner-light claims retained.",
     "instruction_completeness": "PASS — each game batch has source-mechanics receipts; complex Days 5, 6, 9, 12, 16, 18, 21, 22 and 23 retain explicit order/count/variant rules.",
     "character_voice": "PASS — Dilo system/tech dry; Luli precise/dry; Mimi practical; Nini playful/physical; Alio energetic/team-oriented.",
@@ -66,5 +66,11 @@
     "Exact book/app surface fit and typography after copy approval.",
     "Separate localization/re-authoring pass for post-Day24 back matter pages 98-104."
   ],
-  "publication_authorized": false
+  "publication_authorized": false,
+  "owner_feedback_2026_10_01": [
+    "Use Polish sound examples rather than English-coded onomatopoeia.",
+    "Do not use em dash in reader-facing Polish; rebuild the sentence.",
+    "Replace RESET / AKCJA / U NAS with a more premium youth-facing working set.",
+    "Reject technically grammatical but non-native phrases such as 'brzmi sprawnie'."
+  ]
 }
