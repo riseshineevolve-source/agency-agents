@@ -1,17 +1,15 @@
-# 24 Gentle Steps to Christmas — Polish Voice Master Days 1–3
+# 24 Gentle Steps to Christmas. Polish Voice Master
 
-Status: **WEEK 1 OWNER REVIEW / BOOK REGISTER + BREATH RESET + DETAIL GATES PASSED**  
+Status: **OWNER REVIEW / REVISED POLISH HOUSE STYLE / NO PUBLICATION LOCK**  
 Mode: `native_reauthor_from_function`  
-Working labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Candidate SHA-256: `0325f1353e0a1ead9024d50401e9489c4069f2cb01fa091b79f6b3621d5d4b2d`
-
-Natural Polish is kept at a professionally edited book register rather than chat-transcript casualness. Breathing/quiet exercises use concrete everyday framing. Activity instructions preserve the source mechanics needed to perform each exercise without the English edition.
+Working labels: **ZWOLNIJ / GRAMY / MIĘDZY NAMI**. **NOT LOCKED**  
+Candidate SHA-256: `3c6e2c481f790747a4b4932b4d198ab09d2637c971ba69bba442a8d9d0070f84`
 
 ---
 
 ## DZIEŃ 1
 
-RESET — MINUTA BEZ POŚPIECHU
+ZWOLNIJ: MINUTA BEZ POŚPIECHU
 
 Usiądźcie razem w kółku. Jeśli macie ochotę, lekko złapcie się za ręce albo usiądźcie tak, żeby stykać się ramionami.
 
@@ -25,13 +23,13 @@ Luli: Jeśli Alio wytrzyma pełną minutę bez wiercenia się, proponuję wpisa�
 
 ## DZIEŃ 1
 
-AKCJA — PODAJ DALEJ
+GRAMY: PODAJ DALEJ
 
 Stańcie w kółku.
 
 Zaczyna osoba, której imię zaczyna się na literę najbliżej końca alfabetu. Udaje, że trzyma niewidzialną piłkę.
 
-Wybiera jedną osobę, lekko „rzuca” piłkę w jej stronę i mówi jej jeden konkretny komplement — coś, co w niej lubi albo docenia.
+Wybiera jedną osobę, lekko „rzuca” piłkę w jej stronę i mówi jej jeden konkretny komplement, czyli coś, co w niej lubi albo docenia.
 
 Osoba, która „łapie” piłkę, mówi „Dziękuję”, wybiera kolejną osobę i przekazuje piłkę dalej razem z następnym komplementem.
 
@@ -43,7 +41,7 @@ Nini: Tylko bez zamachu jak na WF-ie. To ma być komplement, nie kontuzja.
 
 ## DZIEŃ 1
 
-U NAS — JEDNO SŁOWO
+MIĘDZY NAMI: JEDNO SŁOWO
 
 Każdy mówi jedno słowo o tym, jak się teraz czuje.
 
@@ -55,12 +53,12 @@ Luli: „Dobrze” się nie liczy. Wiem, wiem. Spróbujcie jeszcze raz.
 
 ## DZIEŃ 2
 
-RESET — 4 NA 6
+ZWOLNIJ: 4 NA 6
 
 Usiądźcie wygodnie. Przez minutę spróbujcie oddychać trochę wolniej niż zwykle.
 
 Przy wdechu policzcie spokojnie do czterech.
-Przy wydechu — do sześciu.
+Przy wydechu policzcie spokojnie do sześciu.
 
 Nie nabierajcie powietrza na siłę i nie próbujcie zrobić „idealnego” oddechu. Jeśli taki rytm komuś nie odpowiada, wróćcie do własnego oddechu.
 
@@ -72,9 +70,9 @@ Mimi: To chyba jedyna rzecz w grudniu, której nie próbuję zrobić szybciej.
 
 ## DZIEŃ 2
 
-AKCJA — DOMOWA ORKIESTRA
+GRAMY: DOMOWA ORKIESTRA
 
-Zaczyna osoba, która jako następna będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk, na przykład „bam”, „ding” albo „pff”.
+Zaczyna osoba, która jako następna będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk, na przykład „bum”, „dzyń” albo „puf”.
 
 Następnie gracie zgodnie z ruchem wskazówek zegara. Kolejna osoba powtarza pierwszy dźwięk i dodaje własny.
 
@@ -90,7 +88,7 @@ Dilo: Jeśli brzmi dziwnie, powtórzcie trzy razy. Za trzecim razem to już zamy
 
 ## DZIEŃ 2
 
-U NAS — CO LUBIMY W NASZEJ RODZINIE
+MIĘDZY NAMI: CO LUBIMY W NASZEJ RODZINIE
 
 Po kolei dokończcie zdanie:
 
@@ -104,7 +102,7 @@ Luli: Spokojnie, to nie apel na zakończenie roku. Jedno zdanie wystarczy.
 
 ## DZIEŃ 3
 
-RESET — MINUTA BEZ „MUSZĘ”
+ZWOLNIJ: MINUTA BEZ „MUSZĘ”
 
 Usiądźcie albo stańcie blisko siebie.
 
@@ -120,7 +118,7 @@ Nini: Ja siedzę spokojnie. Za palce nie odpowiadam.
 
 ## DZIEŃ 3
 
-AKCJA — STOP-KLATKA
+GRAMY: STOP-KLATKA
 
 Zaczyna najmłodsza osoba. Podaje jedno hasło, na przykład: „śnieg”, „buziak”, „choinka” albo „przytulenie”.
 
@@ -138,14 +136,10 @@ Alio: Kto zastygnie ostatni, zwykle ma najdziwniejszą pozę. I właśnie dlateg
 
 ## DZIEŃ 3
 
-U NAS — CO DZIŚ BYŁO FAJNE?
+MIĘDZY NAMI: CO DZIŚ BYŁO FAJNE?
 
 Każdy wybiera jeden przyjemny moment z dzisiejszego dnia i krótko o nim opowiada.
 
 Nie musi to być nic ważnego ani wyjątkowego. Wystarczy zwyczajna chwila, którą dobrze wspominacie.
 
 Mimi: Jeśli najlepsze były frytki, to frytki. Nie mam dalszych pytań.
-
----
-
-Exact surface fit remains deferred until the whole Week 1 voice/register/labels are owner-reviewed.
