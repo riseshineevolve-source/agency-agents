@@ -38,6 +38,12 @@ MISSION_SPECS = {
         "blocks": 31,
         "types": Counter({"dialogue":16,"system_log":7,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}),
     },
+    "world02_mission_014": {
+        "level": 14,
+        "pages": [38,46],
+        "blocks": 29,
+        "types": Counter({"dialogue":16,"system_log":5,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}),
+    },
 }
 
 def require(condition, message):
