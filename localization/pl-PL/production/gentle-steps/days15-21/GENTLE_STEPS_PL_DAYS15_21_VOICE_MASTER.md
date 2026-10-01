@@ -1,15 +1,14 @@
-# 24 Gentle Steps to Christmas — Polish Voice Master Days 15–21
+# 24 Gentle Steps to Christmas. Polish Voice Master Days 15-21
 
-Status: **BATCH COMPLETE / DAYS 22–24 COMPLETE / FULL-BOOK AUDIT IN PROGRESS**  
-Mode: `native_reauthor_from_function`  
-Working labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Candidate SHA-256: `3345de1fa519edf0f59bd1162da0485d6d0d53a0475ceba7259a8574fe257211`
+Status: **OWNER REVIEW / REVISED POLISH HOUSE STYLE / NO PUBLICATION LOCK**  
+Working labels: **ZWOLNIJ / GRAMY / MIĘDZY NAMI**. **NOT LOCKED**  
+Candidate SHA-256: `bc5c1973f6f13c23061df60610d5fe6885af4ab3b862f8dd90f791bab73be0e6`
 
 ---
 
 ## DZIEŃ 15
 
-RESET — ODDECH I RAMIONA
+ZWOLNIJ: ODDECH I RAMIONA
 
 Usiądźcie w kółku tak, żeby było wam wygodnie.
 
@@ -23,7 +22,7 @@ Alio: Najspokojniejsza kolejka górska świata. I nawet nie trzeba stać w kolej
 
 ## DZIEŃ 15
 
-AKCJA — ŁAŃCUCH RUCHÓW
+GRAMY: ŁAŃCUCH RUCHÓW
 
 Zaczyna osoba, która ma na sobie coś czerwonego. Wymyśla jeden prosty ruch taneczny i pokazuje go pozostałym.
 
@@ -41,11 +40,11 @@ Nini: Jeśli wygląda trochę absurdalnie, to znaczy, że nie zmarnowaliśmy run
 
 ## DZIEŃ 15
 
-U NAS — WSPOMNIENIE, KTÓRE ZOSTAŁO
+MIĘDZY NAMI: WSPOMNIENIE, KTÓRE ZOSTAŁO
 
 Każdy przypomina sobie jeden rodzinny moment, który był zabawny albo po prostu bardzo przyjemny i do dziś wywołuje uśmiech.
 
-Opowiedzcie po jednym takim wspomnieniu. Nie musi być ważne ani „idealne” — często najlepiej pamięta się właśnie drobiazgi.
+Opowiedzcie po jednym takim wspomnieniu. Nie musi być ważne ani „idealne”. Często najlepiej pamięta się właśnie drobiazgi.
 
 Dilo: Bonus za historię, którą wszyscy pamiętają inaczej. To zwykle oznacza wersję rozszerzoną.
 
@@ -53,11 +52,11 @@ Dilo: Bonus za historię, którą wszyscy pamiętają inaczej. To zwykle oznacza
 
 ## DZIEŃ 16
 
-RESET — RĘCE W GÓRĘ, RĘCE W DÓŁ
+ZWOLNIJ: RĘCE W GÓRĘ, RĘCE W DÓŁ
 
 Usiądźcie w kółku.
 
-Możecie lekko złapać się za ręce albo po prostu trzymać dłonie blisko siebie, bez dotykania — wybierzcie wersję, która wszystkim odpowiada.
+Możecie lekko złapać się za ręce albo po prostu trzymać dłonie blisko siebie, bez dotykania. Wybierzcie wersję, która wszystkim odpowiada.
 
 Przy wdechu powoli unieście ręce. Przy wydechu spokojnie je opuśćcie.
 
@@ -69,13 +68,13 @@ Nini: Ręce znają choreografię. Reszta rodziny może się jeszcze zastanowić.
 
 ## DZIEŃ 16
 
-AKCJA — ORKIESTRA NA ZNAK
+GRAMY: ORKIESTRA NA ZNAK
 
 Każdy wybiera jeden krótki dźwięk, który będzie jego „instrumentem”, na przykład „la-la”, „bum”, „ta-da” albo własny wymyślony odgłos.
 
-Pierwszym dyrygentem zostaje osoba, której imię zaczyna się na literę najbliższą literze M w alfabecie.
+Pierwszym dyrygentem zostaje osoba, której pierwsza litera imienia jest najbliżej M w alfabecie.
 
-Dyrygent wskazuje wybraną osobę — wtedy ta osoba zaczyna powtarzać swój dźwięk. Kiedy dyrygent wskaże ją drugi raz, przestaje.
+Dyrygent wskazuje wybraną osobę. Wtedy ta osoba zaczyna powtarzać swój dźwięk. Kiedy dyrygent wskaże ją drugi raz, przestaje.
 
 Na początku włączajcie po jednym „instrumencie”. Potem możecie utrudnić zadanie: dyrygent używa obu rąk i uruchamia kilka dźwięków jednocześnie, a następnie po kolei je wyłącza.
 
@@ -87,7 +86,7 @@ Luli: Dyrygujcie pewnie. Orkiestra nie musi wiedzieć, że improwizujecie.
 
 ## DZIEŃ 16
 
-U NAS — CO CHCEMY ZROBIĆ RAZEM?
+MIĘDZY NAMI: CO CHCEMY ZROBIĆ RAZEM?
 
 Każdy po kolei kończy zdanie:
 
@@ -101,7 +100,7 @@ Luli: Marzenia nie tracą ważności tylko dlatego, że mieszczą się w kubku.
 
 ## DZIEŃ 17
 
-RESET — CICHE ROZCIĄGANIE
+ZWOLNIJ: CICHE ROZCIĄGANIE
 
 Stańcie w kółku.
 
@@ -117,7 +116,7 @@ Mimi: Bez rekordów. Jutro też będziemy potrzebować ramion.
 
 ## DZIEŃ 17
 
-AKCJA — NAŚLADUJ PROWADZĄCEGO
+GRAMY: NAŚLADUJ PROWADZĄCEGO
 
 Zaczyna osoba z najkrótszym imieniem. Wybiera jeden prosty ruch albo ćwiczenie, które można bezpiecznie wykonać w miejscu.
 
@@ -127,7 +126,7 @@ Po 15 sekundach prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu w
 
 Kontynuujcie, aż każdy poprowadzi jedną rundę.
 
-Na koniec spróbujcie wykonać wszystkie ruchy jeszcze raz, po kolei — od pierwszego do ostatniego — jak własny mini-zestaw ćwiczeń.
+Na koniec spróbujcie wykonać wszystkie ruchy jeszcze raz, po kolei, od pierwszego do ostatniego, jak własny mini-zestaw ćwiczeń.
 
 Alio: Jeśli któregoś ruchu nie ma na WF-ie, tym lepiej. Mamy premierę.
 
@@ -135,7 +134,7 @@ Alio: Jeśli któregoś ruchu nie ma na WF-ie, tym lepiej. Mamy premierę.
 
 ## DZIEŃ 17
 
-U NAS — CO DAJE NAM ENERGIĘ?
+MIĘDZY NAMI: CO DAJE NAM ENERGIĘ?
 
 Każdy kończy zdanie:
 
@@ -151,7 +150,7 @@ Alio: Ja zgłaszam wszystko, przy czym wolno skakać. Dla porządku.
 
 ## DZIEŃ 18
 
-RESET — DŁUŻSZY WYDECH
+ZWOLNIJ: DŁUŻSZY WYDECH
 
 Usiądźcie obok siebie.
 
@@ -165,13 +164,13 @@ Luli: Długi wydech. Zero efektów specjalnych. I bardzo dobrze.
 
 ## DZIEŃ 18
 
-AKCJA — NAWIGACJA DO KRZESŁA
+GRAMY: NAWIGACJA DO KRZESŁA
 
 Najpierw przygotujcie bezpieczne miejsce: odsuńcie rzeczy, o które można się potknąć, i wybierzcie fragment pokoju bez schodów, ostrych kantów ani innych przeszkód.
 
 Najstarsza osoba zostaje pierwszym prowadzącym i ustawia krzesło w wybranym, bezpiecznym miejscu. Prowadzący przez całą rundę ma otwarte oczy.
 
-Pozostali stają blisko siebie i — jeśli czują się z tym dobrze — zamykają oczy. Można też zostawić oczy otwarte i nadal brać udział.
+Pozostali stają blisko siebie. Jeśli czują się z tym dobrze, zamykają oczy. Można też zostawić oczy otwarte i nadal brać udział.
 
 Prowadzący podaje bardzo dokładne wskazówki krok po kroku, na przykład: „jeden mały krok w prawo”, „dwa kroki do przodu”, „stop”. Grupa porusza się powoli, małymi krokami, aż znajdzie się blisko krzesła.
 
@@ -187,7 +186,7 @@ Mimi: Bez piruetów. Krzesło nie jest przeciwnikiem.
 
 ## DZIEŃ 18
 
-U NAS — JEDNO DOBRE SŁOWO
+MIĘDZY NAMI: JEDNO DOBRE SŁOWO
 
 Zaczyna dowolna osoba. Zwraca się do osoby siedzącej po jej prawej stronie i mówi jedno słowo opisujące coś, co w niej podziwia albo szczególnie lubi.
 
@@ -201,13 +200,13 @@ Nini: Jedno słowo. Bez prezentacji w PowerPoincie. Damy radę.
 
 ## DZIEŃ 19
 
-RESET — CHWILA OBOK SIEBIE
+ZWOLNIJ: CHWILA OBOK SIEBIE
 
 Usiądźcie razem i zamknijcie oczy.
 
 Przez kilka oddechów po prostu posiedźcie obok siebie. Nie trzeba oddychać w tym samym tempie ani próbować wywołać konkretnego nastroju.
 
-Pomyślcie przez chwilę o jednej zwyczajnej rzeczy, którą lubicie w tym, że jesteście teraz razem.
+Pomyślcie przez chwilę o jednej zwyczajnej rzeczy, którą lubicie w takich wspólnych chwilach.
 
 Dilo: Światło zostawmy lampkom. Ten reset działa bez instalacji elektrycznej.
 
@@ -215,7 +214,7 @@ Dilo: Światło zostawmy lampkom. Ten reset działa bez instalacji elektrycznej.
 
 ## DZIEŃ 19
 
-AKCJA — ZMIANA KSZTAŁTU
+GRAMY: ZMIANA KSZTAŁTU
 
 Stańcie w kółku.
 
@@ -235,7 +234,7 @@ Dilo: Szybciej. Geometria nie będzie na nas czekać.
 
 ## DZIEŃ 19
 
-U NAS — CO LUBIMY W DOMU?
+MIĘDZY NAMI: CO LUBIMY W DOMU?
 
 Pierwsza osoba mówi jedną rzecz, która sprawia jej przyjemność w domu.
 
@@ -251,7 +250,7 @@ Mimi: Jeśli lista zaczyna brzmieć jak piosenka, spokojnie. Karaoke jeszcze nie
 
 ## DZIEŃ 20
 
-RESET — CZOŁO, OCZY, SZCZĘKA
+ZWOLNIJ: CZOŁO, OCZY, SZCZĘKA
 
 Usiądźcie blisko siebie i zamknijcie oczy.
 
@@ -267,7 +266,7 @@ Mimi: I tak, chodzi też o tę szczękę. Wiem, że tam jest.
 
 ## DZIEŃ 20
 
-AKCJA — TUNEL KIBICÓW
+GRAMY: TUNEL KIBICÓW
 
 Stańcie w dwóch rzędach naprzeciwko siebie, tak żeby między wami powstał krótki, szeroki tunel.
 
@@ -279,13 +278,13 @@ Kiedy pierwsza osoba przejdzie na koniec, przez tunel przechodzi kolejna. Kontyn
 
 W dwie osoby ustawcie dwa krzesła tak, żeby tworzyły bezpieczne „wejście”. Jedna osoba przechodzi między nimi, a druga jej kibicuje. Potem zamieniacie się rolami.
 
-Nini: Jeśli doping jest trochę za entuzjastyczny, nie zgłaszam reklamacji.
+Nini: Jeśli kibicowanie jest trochę za głośne, nie składam reklamacji.
 
 ---
 
 ## DZIEŃ 20
 
-U NAS — PAMIĘTASZ, JAK…
+MIĘDZY NAMI: PAMIĘTASZ, JAK…
 
 Każdy przypomina sobie przynajmniej jeden przyjemny albo zabawny rodzinny moment i zaczyna opowieść od słów:
 
@@ -293,15 +292,15 @@ Każdy przypomina sobie przynajmniej jeden przyjemny albo zabawny rodzinny momen
 
 Nie szukajcie największego wydarzenia roku. Najlepsze historie bardzo często zaczynają się od czegoś zupełnie zwyczajnego.
 
-Nini: „Pamiętasz, jak zniknęło ostatnie ciastko?” — to jest materiał archiwalny.
+Nini: „Pamiętasz, jak zniknęło ostatnie ciastko?”. To jest materiał archiwalny.
 
 ---
 
 ## DZIEŃ 21
 
-RESET — JEDNA PRZYJEMNA RZECZ
+ZWOLNIJ: JEDNA PRZYJEMNA RZECZ
 
-Usiądźcie przez chwilę w ciszy. Złączcie własne dłonie albo oprzyjcie je razem na kolanach.
+Usiądźcie przez chwilę w ciszy. Złóżcie dłonie razem albo połóżcie je na kolanach.
 
 Zwróćcie uwagę na jedną przyjemną rzecz, którą naprawdę teraz czujecie: ciepło dłoni, miękkość swetra, wygodne oparcie, zapach herbaty albo coś innego.
 
@@ -313,7 +312,7 @@ Nini: Jeśli odpowiedź brzmi „ciepły koc”, oficjalnie popieram.
 
 ## DZIEŃ 21
 
-AKCJA — FALA UŚCISKU
+GRAMY: FALA UŚCISKU
 
 Stańcie w kółku. Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli ktoś nie chce kontaktu, możecie ustalić prosty sygnał zastępczy, na przykład lekkie dotknięcie własnego ramienia.
 
@@ -325,7 +324,7 @@ Po pełnym okrążeniu osoba stojąca po prawej stronie pierwszego prowadzącego
 
 Wzór powinien wrócić do osoby, która go rozpoczęła, bez zmiany.
 
-Jeśli macie ochotę na trudniejszą wersję, uruchomcie jednocześnie dwie różne fale — jedną zgodnie, a drugą przeciwnie do ruchu wskazówek zegara.
+Jeśli macie ochotę na trudniejszą wersję, uruchomcie jednocześnie dwie różne fale. Jedna biegnie zgodnie z ruchem wskazówek zegara, a druga przeciwnie.
 
 Żaden uścisk nie powinien boleć.
 
@@ -335,7 +334,7 @@ Luli: To są dłonie, nie cytryny. Naprawdę nie trzeba wyciskać soku.
 
 ## DZIEŃ 21
 
-U NAS — NASZ ZNAK
+MIĘDZY NAMI: NASZ ZNAK
 
 Wymyślcie razem jeden mały gest albo znak, który będzie kojarzył się tylko z waszą rodziną i z czymś dobrym między wami.
 
