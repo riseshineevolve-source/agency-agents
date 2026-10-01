@@ -88,7 +88,7 @@ def validate(pack, evidence):
         require(all(isinstance(v,str) and v.strip() for v in copy["fields"].values()), f"empty copy field at {label}")
 
     counts = Counter(n["node_type"] for n in pack["nodes"])
-    require(counts == Counter({"dialogue":12,"system_log":5,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}), f"unexpected type counts: {dict(counts)}")
+    require(counts == Counter({"dialogue":14,"system_log":5,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}), f"unexpected type counts: {dict(counts)}")
     return counts
 
 def main():
