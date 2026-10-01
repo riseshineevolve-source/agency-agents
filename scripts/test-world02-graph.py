@@ -20,6 +20,7 @@ def load(level):
 PACK11, EVIDENCE11 = load(11)
 PACK12, EVIDENCE12 = load(12)
 PACK13, EVIDENCE13 = load(13)
+PACK14, EVIDENCE14 = load(14)
 
 class LevelElevenBoundaryTests(unittest.TestCase):
     def test_complete_source_slice(self):
@@ -129,6 +130,41 @@ class LevelThirteenBoundaryTests(unittest.TestCase):
 
     def test_no_invented_mechanics(self):
         for node in PACK13["nodes"]:
+            self.assertNotIn("entitlement_id", node)
+            self.assertNotIn("score", node)
+            self.assertNotIn("xp", node)
+
+
+
+class LevelFourteenBoundaryTests(unittest.TestCase):
+    def test_complete_source_slice(self):
+        counts = validator.validate(PACK14, EVIDENCE14)
+        self.assertEqual(sum(counts.values()), 29)
+        self.assertEqual(counts["dialogue"], 16)
+        self.assertEqual(counts["system_log"], 5)
+        self.assertEqual({n["provenance"]["page"] for n in PACK14["nodes"]}, set(range(38,47)))
+
+    def assert_rejected(self, edit):
+        pack = copy.deepcopy(PACK14)
+        edit(pack)
+        with self.assertRaises(ValueError):
+            validator.validate(pack, EVIDENCE14)
+
+    def test_identity_is_locked(self):
+        opener = PACK14["localized_copy"][0]["fields"]
+        self.assertEqual(opener["title"], "The Teflon Shield")
+        self.assertEqual(opener["key_acquired"], "RESILIENCE")
+
+    def test_source_correction_is_preserved(self):
+        glitch = next(item["fields"] for item in PACK14["localized_copy"] if item["node_id"] == "world02_mission_014_node_025")
+        self.assertEqual(glitch["correction_label"], "Correction:")
+        self.assertIn("Fact Check!", glitch["correction"])
+
+    def test_secret_code_is_locked(self):
+        self.assertEqual(PACK14["localized_copy"][-1]["fields"]["code"], "“I AM TEFLON!”")
+
+    def test_no_invented_mechanics(self):
+        for node in PACK14["nodes"]:
             self.assertNotIn("entitlement_id", node)
             self.assertNotIn("score", node)
             self.assertNotIn("xp", node)
