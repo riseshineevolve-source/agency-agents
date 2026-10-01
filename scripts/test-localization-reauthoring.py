@@ -434,7 +434,7 @@ class GentleStepsDays2224Production(unittest.TestCase):
             "Runda 1 — KOLORY",
             "Runda 2 — LUBIĘ / NIE LUBIĘ",
             "Runda 3 — NAWYKI I CECHY",
-            "przez minutę",
+            "Przez minutę",
             "najbardziej świąteczny kolor",
             "dwie krótkie rundy",
         ):
