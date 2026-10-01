@@ -1,0 +1,70 @@
+{
+  "format": "rse-gentle-steps-pl-full-days-audit-v1",
+  "date": "2026-10-01",
+  "product": "gentle-steps-christmas",
+  "scope": "days_01_24_core_daily_program",
+  "status": "READY_FOR_OWNER_REVIEW",
+  "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+  "batch_candidates": [
+    {
+      "range": "01-03",
+      "candidate_sha256": "0325f1353e0a1ead9024d50401e9489c4069f2cb01fa091b79f6b3621d5d4b2d"
+    },
+    {
+      "range": "04-07",
+      "candidate_sha256": "08878be968b4ff2bf0412cc21ebf9888b07f3a85bb1c3eb9eb736f09f98e1439"
+    },
+    {
+      "range": "08-14",
+      "candidate_sha256": "783dd6c804b064dd822680b49a69f8b3b1bf676303ca2adfb5a177c6ecae3a6a"
+    },
+    {
+      "range": "15-21",
+      "candidate_sha256": "3345de1fa519edf0f59bd1162da0485d6d0d53a0475ceba7259a8574fe257211"
+    },
+    {
+      "range": "22-24",
+      "candidate_sha256": "f9ee0ee5f341572419aae200f0b9ff9810d9b4ea1d2df6e48259fae74f78c70c"
+    }
+  ],
+  "coverage": {
+    "days": 24,
+    "units": 72,
+    "expected_units": 72,
+    "missing_or_order_defects": []
+  },
+  "recurring_labels": {
+    "pause": "RESET",
+    "play": "AKCJA",
+    "connection": "U NAS",
+    "locked": false
+  },
+  "full_book_findings": {
+    "polish_usage": "PASS — grammar/syntax/idiom/context regression scan clean after Week 3 microfix.",
+    "book_register": "PASS — instructional prose is book-quality rather than chat shorthand; colloquiality concentrated in character comments.",
+    "breath_reset": "PASS — source breathing/body/light imagery is re-authored into concrete everyday pauses; no shared-energy/inner-light claims retained.",
+    "instruction_completeness": "PASS — each game batch has source-mechanics receipts; complex Days 5, 6, 9, 12, 16, 18, 21, 22 and 23 retain explicit order/count/variant rules.",
+    "character_voice": "PASS — Dilo system/tech dry; Luli precise/dry; Mimi practical; Nini playful/physical; Alio energetic/team-oriented.",
+    "repeated_titles": [],
+    "intentional_source_recurrences": [
+      "Memory/reflection appears more than once in source; Polish prompts are differentiated by mechanic and wording.",
+      "Sound/orchestra activities recur; Day 2 is cumulative sequence, Day 16 is conductor-controlled start/stop orchestra.",
+      "Face/body relaxation recurs; headings and instructions are differentiated."
+    ],
+    "safety_adaptations": [
+      "Touch is optional throughout Polish copy.",
+      "Day 18 chair navigation adds clear-floor/open-eyes leader safeguards and opt-out from eyes-closed participation.",
+      "Day 21 squeeze wave prevents painful squeezing and provides non-touch alternative.",
+      "Breathing pages never instruct forceful breath or promise guaranteed emotional regulation.",
+      "Day 23 apology does not require invented disclosure or automatic forgiveness."
+    ]
+  },
+  "owner_gates": [
+    "Final Polish title.",
+    "Lock or revise recurring labels RESET / AKCJA / U NAS.",
+    "Owner copy review of the complete 24-day Polish program.",
+    "Exact book/app surface fit and typography after copy approval.",
+    "Separate localization/re-authoring pass for post-Day24 back matter pages 98-104."
+  ],
+  "publication_authorized": false
+}
