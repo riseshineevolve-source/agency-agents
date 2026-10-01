@@ -2,13 +2,13 @@
   "format": "rse-reauthor-review-bundle-v1",
   "product": "gentle-steps-christmas",
   "scope": "days_04_07_v3_book_register_breath_detail",
-  "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+  "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
   "reviews": [
     {
       "stage": "polish_usage_idiom_context",
       "reviewer": "role:polish_usage_idiom_context",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "Grammar, syntax, collocation, idiom, semantic selection and read-aloud naturalness rechecked after the full-sentence rewrite."
       ]
@@ -17,7 +17,7 @@
       "stage": "polish_book_register",
       "reviewer": "role:polish_book_register",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "Instructions now use complete book sentences instead of chatty or telegraphic shorthand.",
         "Colloquial language is concentrated in Happy Makers comments rather than the instructional voice.",
@@ -29,7 +29,7 @@
       "stage": "breath_reset_reauthoring",
       "reviewer": "role:breath_reset_reauthoring",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "Breath/quiet units are framed as ordinary pauses from rushing, tasks or mental noise rather than mindfulness/wellness exercises.",
         "Source breathing positions, counts, timing and consent remain intact."
@@ -39,7 +39,7 @@
       "stage": "activity_instruction_completeness",
       "reviewer": "role:activity_instruction_completeness",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "All source mechanics were checked explicitly: who starts, how they are chosen, turn direction/order, what each next person does, counts/timing, reset rules, round structure, final/advanced rounds and two-person variants.",
         "Day 5 and Day 6 were expanded specifically to remove ambiguity created by earlier compression."
@@ -49,7 +49,7 @@
       "stage": "polish_family_language_edit",
       "reviewer": "role:polish_family_language_edit",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "Polish remains contemporary and readable without drifting into chat transcript language."
       ]
@@ -58,7 +58,7 @@
       "stage": "humor_character_voice",
       "reviewer": "role:humor_character_voice",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "Dilo/Alio/Luli/Nini/Mimi remain distinct; humor stays the most conversational layer."
       ]
@@ -67,7 +67,7 @@
       "stage": "kid_parent_ear_review",
       "reviewer": "role:kid_parent_ear_review",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "No forced teen slang; recurring labels remain teen-safe working candidates."
       ]
@@ -76,7 +76,7 @@
       "stage": "anti_coaching_translationese",
       "reviewer": "role:anti_coaching_translationese",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "Abstract mindfulness/coaching framing remains removed; concrete family actions lead the copy."
       ]
@@ -85,7 +85,7 @@
       "stage": "bilingual_fidelity_backcheck",
       "reviewer": "role:bilingual_fidelity_backcheck",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "All Day 4–7 mechanics were rechecked against source after expansion; no starter, direction, count, reset, final round or two-person variant was lost."
       ]
@@ -94,7 +94,7 @@
       "stage": "logic_continuity",
       "reviewer": "role:logic_continuity",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "Week 1 progression and ZWOLNIJ / GRAMY / MIĘDZY NAMI structure remain consistent."
       ]
@@ -103,7 +103,7 @@
       "stage": "proofread",
       "reviewer": "role:proofread",
       "status": "PASS",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "Full Polish grammar, punctuation and inflection rechecked after instruction expansion."
       ]
@@ -112,7 +112,7 @@
       "stage": "surface_qa",
       "reviewer": "role:surface_qa",
       "status": "DEFERRED_WEEK1_OWNER_GATE",
-      "candidate_sha256": "2cd66b568508d130526f3a8168338f532459311bf04d86547814d7e0092ce5c3",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
       "notes": [
         "Exact Polish layout/render remains deferred until whole Week 1 voice/register/labels are owner-reviewed.",
         "No production fit PASS claimed."
