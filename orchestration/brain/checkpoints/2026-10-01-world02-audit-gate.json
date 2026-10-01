@@ -1,0 +1,27 @@
+{
+  "format": "rse-world02-source-app-audit-v1",
+  "date": "2026-10-01",
+  "product": "level-up-your-brain-world-02",
+  "status": "AUDIT_COMPLETE_REBUILD_FROM_CANONICAL_SOURCE",
+  "canonical_source": {
+    "file": "paperback 10 STORIES WORLD 02 FINAL standard(1).pdf",
+    "sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "pages": 104,
+    "isbn": "9798249971823"
+  },
+  "production_repo": "riseshineevolve-source/spark-joy-fam",
+  "world01_runtime_baseline": "8e05b34ca4a8990635a4bf1c581e46ab41e48d1a",
+  "legacy_world02_blob": "377463e1853743f82d4d3bca5ce89b6e5b05b210",
+  "production_world02_exists": false,
+  "legacy_reuse_authorized": false,
+  "hard_conflict_levels": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "all_levels_require_source_reextraction": true,
+  "next_safe_slice": "Level 11 complete source-proven pack",
+  "publication_authorized": false
+}
