@@ -1,0 +1,751 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_02",
+  "content_pack_id": "world02_mission_013_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world02_mission_013",
+  "candidate_scope": "published_mission_013_pages_30_37",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "source_bytes": 66576954,
+    "source_pages": 104,
+    "page_range": [
+      30,
+      37
+    ],
+    "evidence_manifest": "orchestration/content-sources/world02-level13-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world02_mission_013_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world02_mission_013_node_002",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 30,
+        "evidence_id": "p30_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_002",
+      "sequence": 2,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_013_node_003",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 31,
+        "evidence_id": "p31_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_003",
+      "sequence": 3,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_013_node_004",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 31,
+        "evidence_id": "p31_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_004",
+      "sequence": 4,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_013_node_005",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 31,
+        "evidence_id": "p31_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_005",
+      "sequence": 5,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world02_mission_013_node_006",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 31,
+        "evidence_id": "p31_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_006",
+      "sequence": 6,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_013_node_007",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 32,
+        "evidence_id": "p32_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_007",
+      "sequence": 7,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_013_node_008",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 32,
+        "evidence_id": "p32_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_008",
+      "sequence": 8,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_013_node_009",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 32,
+        "evidence_id": "p32_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_009",
+      "sequence": 9,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world02_mission_013_node_010",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 32,
+        "evidence_id": "p32_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_010",
+      "sequence": 10,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world02_mission_013_node_011",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 32,
+        "evidence_id": "p32_b05"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_011",
+      "sequence": 11,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_013_node_012",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 33,
+        "evidence_id": "p33_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_012",
+      "sequence": 12,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_013_node_013",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 33,
+        "evidence_id": "p33_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_013",
+      "sequence": 13,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_013_node_014",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 33,
+        "evidence_id": "p33_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_014",
+      "sequence": 14,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_013_node_015",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 33,
+        "evidence_id": "p33_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_015",
+      "sequence": 15,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_013_node_016",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 33,
+        "evidence_id": "p33_b05"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_016",
+      "sequence": 16,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world02_mission_013_node_017",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 34,
+        "evidence_id": "p34_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_017",
+      "sequence": 17,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_013_node_018",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 34,
+        "evidence_id": "p34_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_018",
+      "sequence": 18,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_013_node_019",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 34,
+        "evidence_id": "p34_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_019",
+      "sequence": 19,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_013_node_020",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 34,
+        "evidence_id": "p34_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_020",
+      "sequence": 20,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_013_node_021",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 34,
+        "evidence_id": "p34_b05"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_021",
+      "sequence": 21,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_013_node_022",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 35,
+        "evidence_id": "p35_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_022",
+      "sequence": 22,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_013_node_023",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 35,
+        "evidence_id": "p35_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_023",
+      "sequence": 23,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world02_mission_013_node_024",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 35,
+        "evidence_id": "p35_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_024",
+      "sequence": 24,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_013_node_025",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 35,
+        "evidence_id": "p35_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_025",
+      "sequence": 25,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world02_mission_013_node_026",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 36,
+        "evidence_id": "p36_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_026",
+      "sequence": 26,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world02_mission_013_node_027",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 36,
+        "evidence_id": "p36_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_027",
+      "sequence": 27,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world02_mission_013_node_028",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 36,
+        "evidence_id": "p36_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_028",
+      "sequence": 28,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world02_mission_013_node_029",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 36,
+        "evidence_id": "p36_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_029",
+      "sequence": 29,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world02_mission_013_node_030",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 37,
+        "evidence_id": "p37_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_030",
+      "sequence": 30,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world02_mission_013_node_031",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 37,
+        "evidence_id": "p37_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_013_node_031",
+      "sequence": 31,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 37,
+        "evidence_id": "p37_b03"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_001",
+      "fields": {
+        "level_label": "LEVEL 13:",
+        "title": "The Glitchy Wi-Fi",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "LISTENING",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Why we hear 'Blah Blah' when Mom says 'Shoes'.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_002",
+      "fields": {
+        "story_heading": "THE GLITCHY WI-FI",
+        "log_label": "SYSTEM LOG >>",
+        "text": "The morning rush. Chaos level: Critical. Mimi stood in the kitchen, holding her car keys tightly, sweating a little in her winter coat."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_003",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Team, shoes on. Car. 5 minutes. We are late for school! Move it! Let's go, let's go!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_004",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Silence. Absolute, completely calm silence. Dilo was sitting on the floor, intensely bouncing a soccer ball between his knees while staring at a gaming video on his phone. Nini was singing a very loud, made-up opera song to a spoon, complete with full dance moves and big jumps across the kitchen floor."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_005",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "(Singing loudly, spinning like a top) Ohhhh, the shoes are looooost, the time is gooooone, the mother is crrryyying in despaaaaiiir!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_006",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio was busy drawing building plans. He was trying to build a cool shoe-throwing machine out of rubber bands and a spatula so he wouldn't have to walk to the hallway.\n\n5 minutes later. Mimi angrily zipped up her coat to the top. She almost lost it, her face turning red. But then she stopped, closed her eyes, and spoke out loud to herself."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_007",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Stop. Rewind. Mom is calming down. I am not going to yell. I am going to restart the talking rule. Okay, launching! Go go go! We are leaving!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_008",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "The kids looked up, totally confused and completely unready to leave. The soccer ball rolled away. The throwing machine shot a slipper into the sink."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_009",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Go where? I'm naked!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_010",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "I can't find my shoes! My sparkly ones! Why didn't you warn us?! This is a surprise attack! My dance wasn't finished!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_011",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "I warned you 5 minutes ago! I sent the signal loud and clear! I used words!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_012",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "I didn't get it! My Wi-Fi was off!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_013",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "I can see that. You guys are in Airplane Mode. I am talking to the air. My Lizard is waking up and it wants to yell very loudly!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_014",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli stepped into the kitchen like an army boss. She was fully dressed, shoes tied, backpack zipped up perfectly."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_015",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Captain, your radio channel is wrong. You are talking on FM, they are listening on AM. We need to use a new talking rule with a real check. We need the Echo Game. You guys are terrible at hearing things."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_016",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Echo? Like in a cave?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_017",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "When Captain gives a mission, the mission does not start until you ECHO it back. If you don't say it out loud, you didn't hear it. Test run. Dilo, put down the phone and the soccer ball."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_018",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Mmhmm. (He doesn't look away from the screen, his eyes staring blankly, still tapping the ball with his toe)."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_019",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "FAIL. No Echo. Dilo, look at my eyes. Put down the phone."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_020",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "(Sighs loudly, pauses the video, steps on the ball to stop it, and looks up, making painful eye contact). Put down the phone."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_021",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Confirmed. Now the file is downloaded."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_022",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio stood up straight, clicked his heels together, and saluted."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_023",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Roger that. Putting on pants. Echo: Pants on. Over and out. Starting to put legs in pants."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_024",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "The file was downloaded. Nini finally found her sparkly shoes. The Dream Team was dressed and finally out the door. But the outside world can be tough, and someone was about to bring some heavy emotional mud back home..."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_025",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 037",
+        "heading": "THE BRAIN SECRET (Auditory Filtering)",
+        "science_label": "The Science:",
+        "science": "Your brain is an absolute master at 'filtering' (Selective Attention and Sensory Gating). It can block out background noise (like your parents talking) to focus entirely on what matters to you (like a game). It's a feature, not a bug! But you have to break the filter to get data in.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo was watching a gaming video and Nini was singing opera. Mimi's warnings were just background noise; their brains were officially in 'Airplane Mode'."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_026",
+      "fields": {
+        "file_label": "// FILE: 038",
+        "heading": "THE TOOL ('Eye Contact & Echo')",
+        "science_label": "The Science:",
+        "science": "You cannot download a file on bad Wi-Fi. You need Proximity, Connection, and a Locked Signal (Eye Contact).",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi had to make Dilo look into her eyes and actually ECHO the mission out loud to confirm the download."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_027",
+      "fields": {
+        "file_label": "// FILE: 039",
+        "heading": "THE GLITCH ('I forgot!')",
+        "science_label": "The Science:",
+        "science": "Your 'Working Memory' (RAM) is small. If you get a list of 5 things to do, your brain crashes and only remembers the last one.",
+        "correction_label": "Correction:",
+        "correction": "Ask your Captain for one command at a time, or write it down on a Checklist (External RAM)."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_028",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo honestly didn't hear Mimi because his \"Wi-Fi was off\".",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Have you ever been so focused on a game, a book, or a toy that you literally didn't hear someone talking to you? What does it feel like when your \"filter\" is on?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_029",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio saluted and echoed back his exact mission: \"Pants on.\"",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Practice the Echo Game at dinner today. Take turns giving silly instructions. Captain says: 'Touch your nose to your knee.' -> Player Echos: 'Touching nose to knee.' -> Action!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_030",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why is Eye Contact so powerful? When you lock eyes with someone, your brains literally sync up! Neural oscillations (brain waves) in the speaker and the listener start to match. It's the biological equivalent of connecting two devices via Bluetooth. Without that visual connection, the message just bounces off!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_013_node_031",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“DOWNLOAD COMPLETE”",
+        "meaning_label": "MEANING:",
+        "meaning": "I have established eye contact, I have heard the instruction, and I have repeated it aloud.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "The file is saved to my working memory. The communication loop is closed. The Captain can walk away knowing the mission will actually be executed.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Are you deaf?! I told you to put your shoes on five times!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'My Wi-Fi signal didn't connect. Let's look at my eyes and play the Echo Game.'"
+      }
+    }
+  ]
+}
