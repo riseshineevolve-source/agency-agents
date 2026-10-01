@@ -2,7 +2,7 @@
   "format": "rse-bounded-scaleout-gate-v1",
   "product": "gentle-steps-christmas",
   "scope": "days_08_14_week2",
-  "candidate_sha256": "783dd6c804b064dd822680b49a69f8b3b1bf676303ca2adfb5a177c6ecae3a6a",
+  "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
   "status": "READY_FOR_OVERNIGHT_CONTINUATION",
   "next_batch_days15_24_authorized": true,
   "publication_authorized": false,
@@ -16,5 +16,11 @@
     "Final Polish title remains open.",
     "Exact book/app surface fit remains open.",
     "Owner copy review remains required before publication."
-  ]
+  ],
+  "recurring_label_candidates": {
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI"
+  },
+  "punctuation_house_style": "no_em_dash_in_reader_facing_polish"
 }
