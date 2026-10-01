@@ -32,6 +32,25 @@ If the line is only “understandable”, rewrite it. Examples of constructions 
 
 For jokes, one extra rule applies: the punchline must feel born in Polish. It may move substantially farther from English than ordinary prose.
 
+## Punctuation house style: no long dash
+
+For RSE Polish reader-facing prose, do not use the em dash `—` as an English-style sentence hinge.
+
+This is a house-style rule, not a mechanical character replacement. Rebuild the sentence in natural Polish instead:
+- use a full stop and start a new sentence when two thoughts deserve separation;
+- use a comma only when Polish syntax genuinely calls for one;
+- use a colon for an explanation, example or section-label/title relationship;
+- avoid inserting a shorter dash merely to preserve English sentence structure.
+
+The target is Polish syntax that would have been written this way from the start.
+
+For Gentle Steps section headings, the current owner-gated working set is:
+- `ZWOLNIJ: ...`
+- `GRAMY: ...`
+- `MIĘDZY NAMI: ...`
+
+These labels remain candidates until explicit owner lock.
+
 ## Book language versus spoken language
 
 The target may sound conversational, but it is still a book.
