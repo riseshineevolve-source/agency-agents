@@ -1,15 +1,14 @@
-# 24 Gentle Steps to Christmas — Polish Voice Master Days 22–24
+# 24 Gentle Steps to Christmas. Polish Voice Master Days 22-24
 
-Status: **FINAL DAILY BATCH COMPLETE / READY FOR FULL DAYS 1–24 AUDIT**  
-Mode: `native_reauthor_from_function`  
-Working labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Candidate SHA-256: `f9ee0ee5f341572419aae200f0b9ff9810d9b4ea1d2df6e48259fae74f78c70c`
+Status: **OWNER REVIEW / REVISED POLISH HOUSE STYLE / NO PUBLICATION LOCK**  
+Working labels: **ZWOLNIJ / GRAMY / MIĘDZY NAMI**. **NOT LOCKED**  
+Candidate SHA-256: `2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369`
 
 ---
 
 ## DZIEŃ 22
 
-RESET — KILKA ODDECHÓW
+ZWOLNIJ: KILKA ODDECHÓW
 
 Usiądźcie w kółku i zamknijcie oczy.
 
@@ -23,7 +22,7 @@ Luli: Lampki choinkowe mogą świecić za nas. Mamy dziś wolne.
 
 ## DZIEŃ 22
 
-AKCJA — KROK BLIŻEJ, KROK DALEJ
+GRAMY: KROK BLIŻEJ, KROK DALEJ
 
 Stańcie w kółku. Zaczyna najstarsza osoba.
 
@@ -52,7 +51,7 @@ Mimi: Bez choreografii i bez komisji oceniającej. Każdy ma własne nogi i wła
 
 ## DZIEŃ 22
 
-U NAS — CO POKAZAŁ NAM TEN MIESIĄC?
+MIĘDZY NAMI: CO POKAZAŁ NAM TEN MIESIĄC?
 
 Każdy mówi jedną rzecz, którą zauważył albo zrozumiał w tym miesiącu o sobie lub o swojej rodzinie.
 
@@ -68,7 +67,7 @@ Mimi: Życie nie robi przerwy świątecznej. Niestety ma też zadania domowe.
 
 ## DZIEŃ 23
 
-RESET — KULA ŚNIEŻNA
+ZWOLNIJ: KULA ŚNIEŻNA
 
 Usiądźcie wygodnie i zamknijcie oczy.
 
@@ -82,33 +81,33 @@ Alio: I nikt nie potrząsa kulą drugi raz. Mówię to głównie do siebie.
 
 ## DZIEŃ 23
 
-AKCJA — ZAMIANA MIEJSC
+GRAMY: ZAMIANA MIEJSC
 
 Stańcie w kółku. Pierwszą osobą prowadzącą zostaje ta, której urodziny przypadają najbliżej połowy roku, czyli mniej więcej 1 lipca.
 
-**Runda 1 — KOLORY**
+**Runda 1: KOLORY**
 
 Prowadzący wybiera kolor i mówi na przykład:
 
-„Wszyscy, którzy mają na sobie coś czerwonego — zmiana!”
+„Wszyscy, którzy mają na sobie coś czerwonego, zmieniają miejsce!”
 
 Każda osoba, która ma na sobie ten kolor, szybko i bezpiecznie zmienia miejsce w kole. Zagrajcie kilka krótkich rund, wybierając różne kolory.
 
-**Runda 2 — LUBIĘ / NIE LUBIĘ**
+**Runda 2: LUBIĘ / NIE LUBIĘ**
 
 Kolejna osoba prowadząca jest wybierana zgodnie z ruchem wskazówek zegara. Podaje lekką kategorię, na przykład:
 
-„Wszyscy, którzy lubią ciepłe napoje — zmiana!”
+„Wszyscy, którzy lubią ciepłe napoje, zmieniają miejsce!”
 
 Osoby, których to dotyczy, zamieniają się miejscami.
 
-**Runda 3 — NAWYKI I CECHY**
+**Runda 3: NAWYKI I CECHY**
 
 Następny prowadzący wybiera prostą, nieszkodliwą kategorię, na przykład:
 
-„Wszyscy, którzy uważają się za cierpliwych — zmiana!”
+„Wszyscy, którzy uważają się za cierpliwych, zmieniają miejsce!”
 albo
-„Wszyscy, którzy lubią mieć wszystko poukładane — zmiana!”
+„Wszyscy, którzy lubią mieć wszystko poukładane, zmieniają miejsce!”
 
 Możecie grać tak długo, jak macie ochotę, i wymyślać własne kategorie. Wybierajcie takie, które nikogo nie zawstydzają ani nie oceniają.
 
@@ -118,7 +117,7 @@ Dilo: Szybka zamiana. Zwolnione tempo zostawmy filmom dramatycznym.
 
 ## DZIEŃ 23
 
-U NAS — PRZEPRASZAM ZA…
+MIĘDZY NAMI: PRZEPRASZAM ZA…
 
 Usiądźcie razem w kółku.
 
@@ -138,11 +137,11 @@ Alio: Prosto i bez fajerwerków. Fajerwerki i tak zostawmy na inny dzień.
 
 ## DZIEŃ 24
 
-RESET — OSTATNIA MINUTA
+ZWOLNIJ: OSTATNIA MINUTA
 
 Usiądźcie razem w ciszy.
 
-Jeśli wszyscy mają na to ochotę, możecie złapać się za ręce. Jeśli nie — po prostu usiądźcie blisko siebie.
+Jeśli wszyscy mają na to ochotę, możecie złapać się za ręce. Jeśli nie, po prostu usiądźcie blisko siebie.
 
 Przez minutę oddychajcie swobodnie i niczego nie planujcie.
 
@@ -154,7 +153,7 @@ Mimi: Jeszcze jedna minuta. Reszta naprawdę może chwilę poczekać.
 
 ## DZIEŃ 24
 
-AKCJA — ŚPIEWAMY RAZEM
+GRAMY: ŚPIEWAMY RAZEM
 
 Stańcie albo usiądźcie blisko siebie.
 
@@ -170,7 +169,7 @@ Dilo: Czystość dźwięku nie podlega ocenie. Na szczęście.
 
 ## DZIEŃ 24
 
-U NAS — CO ZOSTAJE Z TEGO ADWENTU?
+MIĘDZY NAMI: CO ZOSTAJE Z TEGO ADWENTU?
 
 Na koniec zróbcie dwie krótkie rundy.
 
