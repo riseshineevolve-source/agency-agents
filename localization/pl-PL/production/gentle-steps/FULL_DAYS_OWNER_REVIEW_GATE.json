@@ -1,0 +1,14 @@
+{
+  "format": "rse-gentle-steps-pl-owner-review-gate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_01_24_core_daily_program",
+  "status": "READY_FOR_OWNER_REVIEW",
+  "unit_count": 72,
+  "labels_locked": false,
+  "title_locked": false,
+  "publication_authorized": false,
+  "surface_qa": "DEFERRED_UNTIL_OWNER_COPY_APPROVAL",
+  "back_matter_pages_98_104": "NOT_YET_REAUTHORED",
+  "owner_review_master": "localization/pl-PL/production/gentle-steps/GENTLE_STEPS_PL_DAYS01_24_OWNER_REVIEW_MASTER.md",
+  "audit": "localization/pl-PL/production/gentle-steps/GENTLE_STEPS_PL_DAYS01_24_AUDIT_2026-10-01.json"
+}
