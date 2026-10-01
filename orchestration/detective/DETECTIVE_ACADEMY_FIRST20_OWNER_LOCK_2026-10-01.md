@@ -122,11 +122,11 @@ For the current owner-approved Pages 5-10 visual family:
 
 ### Your Squad side-note slogan lock
 Use one useful, intelligent detective/life principle per character; do not repeat generic brand filler:
-- MIMI — **LEAD WITH THE FACTS.**
-- LULI — **CHECK THE CLAIM AGAINST THE EVIDENCE.**
+- MIMI — **START WITH FACTS. THEN FIND THE NEXT MOVE.**
+- LULI — **CHECK THE CLAIM. TRUST THE EVIDENCE.**
 - DILO — **TEST IT. THEN TRUST IT.**
-- ALIO — **A DIFFERENT ROUTE CAN REVEAL A DIFFERENT CLUE.**
-- NINI — **LISTEN LONG ENOUGH TO NOTICE WHAT OTHERS MISS.**
+- ALIO — **TRY ANOTHER ROUTE. YOU MAY FIND ANOTHER CLUE.**
+- NINI — **LISTEN CLOSELY. PEOPLE LEAVE CLUES TOO.**
 - BIBI — **OLD RECORDS DESERVE FRESH QUESTIONS.**
 
 Do not add extra filler slogans around these pages.
