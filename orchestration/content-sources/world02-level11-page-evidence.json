@@ -1,0 +1,419 @@
+{
+  "evidence_version": 1,
+  "mission_id": "world02_mission_011",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "filename": "paperback 10 STORIES WORLD 02 FINAL standard(1).pdf",
+    "isbn": "9798249971823",
+    "sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "bytes": 66576954,
+    "pages": 104,
+    "page_range": [
+      13,
+      21
+    ]
+  },
+  "method": "Visual block-by-block transcription of all nine published Level 11 pages; PDF text extraction used only for cross-checking",
+  "page_inventory": [
+    {
+      "page": 13,
+      "content_blocks": 1
+    },
+    {
+      "page": 14,
+      "content_blocks": 3
+    },
+    {
+      "page": 15,
+      "content_blocks": 3
+    },
+    {
+      "page": 16,
+      "content_blocks": 3
+    },
+    {
+      "page": 17,
+      "content_blocks": 3
+    },
+    {
+      "page": 18,
+      "content_blocks": 4
+    },
+    {
+      "page": 19,
+      "content_blocks": 3
+    },
+    {
+      "page": 20,
+      "content_blocks": 4
+    },
+    {
+      "page": 21,
+      "content_blocks": 3
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p13_b01",
+      "node_id": "world02_mission_011_node_001",
+      "page": 13,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 11:",
+        "title": "The Daily Habit Loop",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "DISCIPLINE & AUTOMATION",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Learning why 'Automating' your boring habits saves your brain's battery for the fun stuff.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p14_b01",
+      "node_id": "world02_mission_011_node_002",
+      "page": 14,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "story_heading": "THE DAILY HABIT LOOP",
+        "log_label": "SYSTEM LOG >>",
+        "text": "20:15. The Bathroom of Doom. Dilo stood by the sink, staring at his toothbrush like it was a live grenade. He was casually juggling a half-empty tube of toothpaste with his feet, showing off his soccer skills. Nini, the tiny burst of joy, was trying to squeeze 'Sparkle Paste' onto her brush, doing a perfect spin at the same time, but it exploded like a glittery volcano, splashing onto the mirror."
+      }
+    },
+    {
+      "evidence_id": "p14_b02",
+      "node_id": "world02_mission_011_node_003",
+      "page": 14,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "Oops! I made modern art! The mirror looks pretty now! Maybe the bacteria will see how pretty it is and decide to be friendly and leave our teeth on their own?"
+      }
+    },
+    {
+      "evidence_id": "p14_b03",
+      "node_id": "world02_mission_011_node_004",
+      "page": 14,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "(Hanging upside down from her gymnastic ribbons in the hallway, reading a science book) Bacteria don't have feelings, Nini. They don't care about art. They just have a giant appetite for sugar."
+      }
+    },
+    {
+      "evidence_id": "p15_b01",
+      "node_id": "world02_mission_011_node_005",
+      "page": 15,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Well, I want to eat sugar too, but I don't poop on people's teeth! Seriously, I brushed them yesterday! And I put my shoes away! And I packed my backpack! Why is real life just repeating the same boring side quests over and over?! Can't I just eat a mint and call it a win?"
+      }
+    },
+    {
+      "evidence_id": "p15_b02",
+      "node_id": "world02_mission_011_node_006",
+      "page": 15,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi, the Brain Captain, leaned against the doorframe. She looked incredibly tired. The \"I've answered 400 questions today\" kind of tired. She closed her eyes, placing her hand on her chest. She took a slow, deep breath in for 4 seconds, held it, and blew it out for 8 seconds."
+      }
+    },
+    {
+      "evidence_id": "p15_b03",
+      "node_id": "world02_mission_011_node_007",
+      "page": 15,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Captain needs a deep calm-down breath. My Lizard brain is waking up, and it wants to yell about the sparkly mirror. (She opens her eyes, looking patient again, holding a laundry basket like a shield.) Dilo, we talked about this. Doing things you don't want to do isn't a punishment; it's a cheat code to save your battery."
+      }
+    },
+    {
+      "evidence_id": "p16_b01",
+      "node_id": "world02_mission_011_node_008",
+      "page": 16,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "It doesn't feel like a cheat code. It feels like playing a game for zero points. Every morning it's \"brush, dress, pack.\" Every night it's \"brush, pajamas, sleep.\" It's a never-ending cleaning loop! I am trapped!"
+      }
+    },
+    {
+      "evidence_id": "p16_b02",
+      "node_id": "world02_mission_011_node_009",
+      "page": 16,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio ran in, wearing his signature safety helmet and holding a toilet brush like a sword. Behind him, he had already built a Level 4 wall in the hallway using laundry baskets, towels, and carefully stacked toilet paper rolls. He looked frantic, searching the ceiling for threats."
+      }
+    },
+    {
+      "evidence_id": "p16_b03",
+      "node_id": "world02_mission_011_node_010",
+      "page": 16,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "A time loop?! Are we trapped?! Dilo said if you don't brush, creepy cave spiders spin webs in your mouth while you sleep and lay eggs in your gums! Is that true?! Mammi, get the vacuum! I built a strong fort, but I don't know if it will hold against mouth-spiders!"
+      }
+    },
+    {
+      "evidence_id": "p17_b01",
+      "node_id": "world02_mission_011_node_011",
+      "page": 17,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "(Dropping gracefully from the ribbons, landing like a ninja, and tapping her clipboard with a pen) No spiders, Alio. Just bacteria poop. That's what plaque is. Bacteria eating sugar and pooping acid on your enamel. Also, Dilo, your logic is totally broken. You don't complain about having to charge your phone every single day, do you?"
+      }
+    },
+    {
+      "evidence_id": "p17_b02",
+      "node_id": "world02_mission_011_node_012",
+      "page": 17,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "That's different! My phone gives me joy! This toothbrush just tastes like spicy chalk!"
+      }
+    },
+    {
+      "evidence_id": "p17_b03",
+      "node_id": "world02_mission_011_node_013",
+      "page": 17,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Listen to me, crew. Every time you argue with yourself about whether you should do a chore, you are burning your Brain Battery. Deciding takes 10% of your energy. Arguing with me takes 20%. And it drains my battery too. But if you just Automate it - if you do it without thinking, in the exact same order every day like a robot - it only takes 1% of your battery."
+      }
+    },
+    {
+      "evidence_id": "p18_b01",
+      "node_id": "world02_mission_011_node_014",
+      "page": 18,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Like... a robot? I want to be a Cyborg! Beep boop. Turning on anti-poop lasers. Destroying bacteria. Starting the upgrade to my back teeth!"
+      }
+    },
+    {
+      "evidence_id": "p18_b02",
+      "node_id": "world02_mission_011_node_015",
+      "page": 18,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Exactly like a robot. You put on pajamas, you grab the brush, you hit play on the Battle Music. You don't think, you just do the steps. The faster you automate the boring stuff, the more brainpower you save for Minecraft, soccer, and reading. We are a team, and the team needs everyone's shields up."
+      }
+    },
+    {
+      "evidence_id": "p18_b03",
+      "node_id": "world02_mission_011_node_016",
+      "page": 18,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Fine. But I'm playing the Boss Fight music. If I have to fight tiny invaders, I need epic music."
+      }
+    },
+    {
+      "evidence_id": "p18_b04",
+      "node_id": "world02_mission_011_node_017",
+      "page": 18,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo tapped his phone. Heavy electronic boss-battle music blasted so loud the toothbrushes shook in their cups. Alio started brushing so fast his helmet shook, looking like a human blender. Nini hugged Mimi's leg, leaving a massive smear of pink sparkle paste on her jeans, swaying her hips to the heavy beat."
+      }
+    },
+    {
+      "evidence_id": "p19_b01",
+      "node_id": "world02_mission_011_node_018",
+      "page": 19,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "I automated, Mammi! My teeth are sparkling like a disco ball! Are my shields up?"
+      }
+    },
+    {
+      "evidence_id": "p19_b02",
+      "node_id": "world02_mission_011_node_019",
+      "page": 19,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Shields are up, glitter-bug. You are safe. Now, let's automate getting into bed before my battery hits zero."
+      }
+    },
+    {
+      "evidence_id": "p19_b03",
+      "node_id": "world02_mission_011_node_020",
+      "page": 19,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "The bathroom was secure. The teeth were clean. But as they marched to their bedrooms, the hardest battle of the night was just beginning. The ultimate boss: shutting down the system..."
+      }
+    },
+    {
+      "evidence_id": "p20_b01",
+      "node_id": "world02_mission_011_node_021",
+      "page": 20,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 031",
+        "heading": "THE BRAIN SECRET (Habit Stacking)",
+        "science_label": "The Science:",
+        "science": "Your brain is incredibly smart, but it can be very lazy! It wants to save battery. Every time you argue with yourself ('Should I brush my teeth?'), you burn your 'Willpower Fuel'. If you chain habits together (Pajamas -> Brush), your brain goes into autopilot and just executes the script.",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi explained that arguing about teeth takes 20% of their Brain Battery, but if they just automate it like a robot, it only takes 1%. This saves energy for gaming!"
+      }
+    },
+    {
+      "evidence_id": "p20_b02",
+      "node_id": "world02_mission_011_node_022",
+      "page": 20,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 032",
+        "heading": "THE TOOL ('The 2-Minute DJ')",
+        "science_label": "The Science:",
+        "science": "When you are bored, 2 minutes feels like an hour. This is called 'Time Dilation'. The fix? Dopamine distraction!",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo played epic Boss Fight music. When the song starts, you brush. When the song stops, you stop. Your brain focuses on the heavy beat, not the boring scrubbing."
+      }
+    },
+    {
+      "evidence_id": "p20_b03",
+      "node_id": "world02_mission_011_node_023",
+      "page": 20,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 033",
+        "heading": "THE GLITCH ('I'll do it tomorrow')",
+        "science_label": "The Science:",
+        "science": "This is 'Temporal Discounting'. Your brain cares more about being lazy NOW than having healthy teeth in the FUTURE.",
+        "correction_label": "Correction:",
+        "correction": "You have to remind your Brain Wizard: 'Future Me will be very angry if Present Me leaves him with a giant hole in his tooth!'"
+      }
+    },
+    {
+      "evidence_id": "p20_b04",
+      "node_id": "world02_mission_011_node_024",
+      "page": 20,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo complained that his morning and evening routines felt like playing a game for zero points.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "What is one daily \"boring side quest\" you wish you could skip? How could you make it feel faster?"
+      }
+    },
+    {
+      "evidence_id": "p21_b01",
+      "node_id": "world02_mission_011_node_025",
+      "page": 21,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo used electronic music and Nini swayed her hips to turn brushing into a party.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Create a 'Brush Playlist'. Pick one highly energetic song (exactly 2 minutes long). Tonight, start an official Toothbrush Dance Party in the bathroom!"
+      }
+    },
+    {
+      "evidence_id": "p21_b02",
+      "node_id": "world02_mission_011_node_026",
+      "page": 21,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Did you know that willpower is a limited resource? Scientists call this \"Ego Depletion\". By the end of the day, your brain's fuel tank for making good decisions is almost entirely empty. That's exactly why nighttime routines cause so many fights! By automating your routine, you skip the decision-making part of the brain entirely, saving everyone's battery."
+      }
+    },
+    {
+      "evidence_id": "p21_b03",
+      "node_id": "world02_mission_011_node_027",
+      "page": 21,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“SHIELDS ARE UP!”",
+        "meaning_label": "MEANING:",
+        "meaning": "I have completed my automated evening/morning routine without wasting brain battery on arguing. My hygiene armor is fully equipped.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Brush teeth -> Wash Face -> Check in with Captain. 'Shields Up' means I am officially protected for the night and no more chores can be assigned.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Stop arguing and just brush your teeth right now!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'It's time to Automate! Do you want to pick the Battle Music, or should I?'"
+      }
+    }
+  ]
+}
