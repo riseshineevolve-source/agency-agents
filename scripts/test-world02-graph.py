@@ -117,7 +117,7 @@ class LevelThirteenBoundaryTests(unittest.TestCase):
         self.assertEqual(opener["key_acquired"], "LISTENING")
 
     def test_source_correction_is_preserved(self):
-        glitch = PACK13["localized_copy"][27]["fields"]
+        glitch = PACK13["localized_copy"][26]["fields"]
         self.assertEqual(glitch["correction_label"], "Correction:")
         self.assertEqual(
             glitch["correction"],
