@@ -1,0 +1,418 @@
+{
+  "evidence_version": 1,
+  "mission_id": "world02_mission_012",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "filename": "paperback 10 STORIES WORLD 02 FINAL standard(1).pdf",
+    "isbn": "9798249971823",
+    "sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "bytes": 66576954,
+    "pages": 104,
+    "page_range": [
+      22,
+      29
+    ]
+  },
+  "method": "Visual block-by-block transcription of all eight published Level 12 pages; indexed PDF text and final paperback page images used for cross-checking",
+  "page_inventory": [
+    {
+      "page": 22,
+      "content_blocks": 1
+    },
+    {
+      "page": 23,
+      "content_blocks": 4
+    },
+    {
+      "page": 24,
+      "content_blocks": 5
+    },
+    {
+      "page": 25,
+      "content_blocks": 4
+    },
+    {
+      "page": 26,
+      "content_blocks": 4
+    },
+    {
+      "page": 27,
+      "content_blocks": 2
+    },
+    {
+      "page": 28,
+      "content_blocks": 4
+    },
+    {
+      "page": 29,
+      "content_blocks": 3
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p22_b01",
+      "node_id": "world02_mission_012_node_001",
+      "page": 22,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 12:",
+        "title": "The Nightly Reboot",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "REST",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Sleep is not 'Game Over'. It is 'Save & Upgrade'.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p23_b01",
+      "node_id": "world02_mission_012_node_002",
+      "page": 23,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "story_heading": "THE NIGHTLY REBOOT",
+        "log_label": "SYSTEM LOG >>",
+        "text": "21:30. Chaos level: High. Alio was bouncing on his bed wearing a superhero cape and one swimming flipper. Dilo was hiding under his blanket, desperately trying to silently play his Switch without the glowing light giving him away."
+      }
+    },
+    {
+      "evidence_id": "p23_b02",
+      "node_id": "world02_mission_012_node_003",
+      "page": 23,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "I fight sleep! Sleep is for the weak! If I close my eyes, I might miss a ninja attack! The darkness is full of unseen enemies! I must stay awake to guard the fort!"
+      }
+    },
+    {
+      "evidence_id": "p23_b03",
+      "node_id": "world02_mission_012_node_004",
+      "page": 23,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi rubbed her head. Her battery was flashing red at 1%. She took a break, pressing her fingers gently against her closed eyes to block out the bright lights. She tried to catch Alio, but he was slippery like a crazy eel fueled by pure sugar. The bunk bed creaked loudly."
+      }
+    },
+    {
+      "evidence_id": "p23_b04",
+      "node_id": "world02_mission_012_node_005",
+      "page": 23,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Alio, you are acting crazy. You are hyperactive because your brain is totally tired. It's pumping out emergency energy juice just to keep you standing. Your Lizard brain is driving the bus, and it doesn't have a license! I need you to power down, or my system is going to crash."
+      }
+    },
+    {
+      "evidence_id": "p24_b01",
+      "node_id": "world02_mission_012_node_006",
+      "page": 24,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "NO! I have infinite power! I am a power plant! I can glow in the dark! Look at my super-safe ninja-proof wall! (He points to a highly complex pile of pillows that somehow isn't falling over)."
+      }
+    },
+    {
+      "evidence_id": "p24_b02",
+      "node_id": "world02_mission_012_node_007",
+      "page": 24,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli leaned down from the top bunk, holding a flashlight under her chin to look extra spooky. The shadows danced on the ceiling. She had just finished color-coding her books and writing tomorrow's schedule on a small whiteboard."
+      }
+    },
+    {
+      "evidence_id": "p24_b03",
+      "node_id": "world02_mission_012_node_008",
+      "page": 24,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "You are a power plant that is about to blow up and destroy the house. Listen, nugget. Let me give you the science facts. Do you know your brain literally shrinks when you sleep?"
+      }
+    },
+    {
+      "evidence_id": "p24_b04",
+      "node_id": "world02_mission_012_node_009",
+      "page": 24,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio froze mid-bounce, his cape stopping in the air. Dilo paused his game and peeked out from the blanket, suddenly very interested in the chat."
+      }
+    },
+    {
+      "evidence_id": "p24_b05",
+      "node_id": "world02_mission_012_node_010",
+      "page": 24,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "It shrinks?! Dilo said my brain is already the size of a walnut! I don't want it smaller! I need my brain meat!"
+      }
+    },
+    {
+      "evidence_id": "p25_b01",
+      "node_id": "world02_mission_012_node_011",
+      "page": 25,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "It shrinks like a sponge being squeezed, Alio. It squeezes together so the brain-cleaners have room to wash away the sleepy sludge."
+      }
+    },
+    {
+      "evidence_id": "p25_b02",
+      "node_id": "world02_mission_012_node_012",
+      "page": 25,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "(Popping up from her bed across the hall, wearing a sleep mask shaped like a unicorn. She is gently rocking three stuffed bears to sleep, singing them a soft song.) Are the Brain Washers tiny fairies with tiny mops? Do they sing happy songs while they scrub the tired little cotton brains of my bears?"
+      }
+    },
+    {
+      "evidence_id": "p25_b03",
+      "node_id": "world02_mission_012_node_013",
+      "page": 25,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "They are super-fast brain helpers, Nini. No singing. No magic wands. Just fast scrubbing of your bad decisions and built-up brain trash. They shrink the sponge to open up tunnels. If you don't sleep, the trash stays in your head. That's why you get grumpy, scream about your socks, and forget where your shoes are."
+      }
+    },
+    {
+      "evidence_id": "p25_b04",
+      "node_id": "world02_mission_012_node_014",
+      "page": 25,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "So... my brain is dirty? Like a trash can?"
+      }
+    },
+    {
+      "evidence_id": "p26_b01",
+      "node_id": "world02_mission_012_node_015",
+      "page": 26,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Filthy. You need a 10-hour wash cycle. Also, sleep is when the Memory Mechanics save your game files. Everything you learned today - how to spell, how to kick the ball - gets locked in while you sleep. If you don't sleep, you lose today's progress."
+      }
+    },
+    {
+      "evidence_id": "p26_b02",
+      "node_id": "world02_mission_012_node_016",
+      "page": 26,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Wait. Hold on. If I don't sleep, I lose the points from my soccer practice?! That's a terrible game rule! I want a refund on today! (Dilo rolls his eyes, but reaches over and pulls Alio's blanket up over his little brother's shoulders). Just go to sleep, weirdo. Don't let the glitches bite. We need you sharp for tomorrow's co-op."
+      }
+    },
+    {
+      "evidence_id": "p26_b03",
+      "node_id": "world02_mission_012_node_017",
+      "page": 26,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "I lose my save file?! Okay, okay! I'm sleeping! Rebooting system! Shutting down sensors! Taking down the fort!"
+      }
+    },
+    {
+      "evidence_id": "p26_b04",
+      "node_id": "world02_mission_012_node_018",
+      "page": 26,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio dove under the covers, cape, flipper, and all, squeezing his eyes shut so hard his face wrinkled. Nini whispered from her bed."
+      }
+    },
+    {
+      "evidence_id": "p27_b01",
+      "node_id": "world02_mission_012_node_019",
+      "page": 27,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "Can I have a squeezie first? My bucket needs a top-up for the night so the fairies have light to work and my bears feel safe."
+      }
+    },
+    {
+      "evidence_id": "p27_b02",
+      "node_id": "world02_mission_012_node_020",
+      "page": 27,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi gave her a mega-squeeze. 'Goodnight, team. Let the Brain Washers do their job.'\n\nThe system was rebooting. But they would need absolutely all of that saved data, kindness, and clean brainpower, because the next morning, the entire communication network was going to completely crash..."
+      }
+    },
+    {
+      "evidence_id": "p28_b01",
+      "node_id": "world02_mission_012_node_021",
+      "page": 28,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 034",
+        "heading": "THE BRAIN SECRET (The Glymphatic System)",
+        "science_label": "The Science:",
+        "science": "Sleep is your brain's dishwasher! During deep sleep, your brain cells actually shrink by 60%. This gives the fast \"Brain Washers\" room to scrub away the toxic sludge (beta-amyloid) you built up all day. No sleep = Dirty Brain.",
+        "in_story_label": "In The Story:",
+        "in_story": "Luli explained that Alio's brain shrinks like a sponge so the fast brain-helpers have room to wash away the \"sleepy sludge\"."
+      }
+    },
+    {
+      "evidence_id": "p28_b02",
+      "node_id": "world02_mission_012_node_022",
+      "page": 28,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 035",
+        "heading": "THE TOOL ('The Sleep Train')",
+        "science_label": "The Science:",
+        "science": "A racing mind cannot sleep because your 'Default Mode Network' is too active. Visualization helps turn off the thinking brain.",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio was worried about ninja attacks. To stop a racing mind, imagine a slow steam train. Put every worried thought into a cargo wagon and watch it puff away over the hill. Choo... choo..."
+      }
+    },
+    {
+      "evidence_id": "p28_b03",
+      "node_id": "world02_mission_012_node_023",
+      "page": 28,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 036",
+        "heading": "THE GLITCH ('Just 5 more minutes!')",
+        "science_label": "The Science:",
+        "science": "This is called 'Sleep Inertia'. If you snooze in the morning, you start a NEW sleep cycle. Waking up in the middle of it makes you feel like a zombie.",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio believed he had \"infinite power\" and resisted going to sleep.",
+        "correction_label": "Correction:",
+        "correction": "Use the Rocket Launch. In the morning, don't think. Just count 5-4-3-2-1 and BLAST OFF out of bed!"
+      }
+    },
+    {
+      "evidence_id": "p28_b04",
+      "node_id": "world02_mission_012_node_024",
+      "page": 28,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio was bouncing on the bed beacuse hig brain was pumping out emergency adrenaline.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Do you ever feel suddenly hyper and crazy right before bedtime? What helps your body finally power down?"
+      },
+      "source_note": "Published paperback contains the typo 'beacuse hig brain'; preserved verbatim in source copy."
+    },
+    {
+      "evidence_id": "p29_b01",
+      "node_id": "world02_mission_012_node_025",
+      "page": 29,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio finally powered down when he realized he would lose his \"save file\" for the day.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Create a 'Landing Procedure'. 30 minutes before bed: Blue Light Off (Screens kill Melatonin!). Warm light on. Voice volume: Low. Prepare your hangar for landing."
+      }
+    },
+    {
+      "evidence_id": "p29_b02",
+      "node_id": "world02_mission_012_node_026",
+      "page": 29,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why is sleep so important for learning? Sleep is when the \"Memory Mechanics\" save your game files. During the day, you learn things, but they are stored in short-term memory. While you sleep, the brain physically moves that information into long-term storage (consolidation). If you don't sleep, your brain hits \"delete\" on what you learned that day!"
+      }
+    },
+    {
+      "evidence_id": "p29_b03",
+      "node_id": "world02_mission_012_node_027",
+      "page": 29,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“SYSTEM REBOOTING...”",
+        "meaning_label": "MEANING:",
+        "meaning": "I am exhausted, my Lizard brain is starting to take over, and my memory files need to be saved.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "I am in bed. My eyes are closed. The mechanics are cleaning my brain. Do not disturb until morning.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Go to sleep right now or you are grounded tomorrow!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'Your Lizard is driving the bus. Let's start the wash cycle so you don't lose today's save file.'"
+      }
+    }
+  ]
+}
