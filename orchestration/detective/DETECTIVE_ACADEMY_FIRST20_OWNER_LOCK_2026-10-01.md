@@ -80,3 +80,31 @@ RSE repo branch `feature/detective-book-factory`:
 ## Current slogan candidate
 `BETTER QUESTIONS. CLEARER TRUTHS.`
 Keep only if owner approves. No additional slogans on Page 2.
+
+
+## Page 4 ORIENTATION visual/copy lock — 2026-10-01 owner correction
+
+Page 4 is an **entertainment-first hook / advertisement for the adventure**, not a rules page.
+
+Required:
+- title: `ORIENTATION`;
+- premium modern graphic-novel composition, not a stack of ordinary text boxes;
+- NO Happy Makers group photo on this page;
+- NO `BEFORE YOU DECIDE`;
+- NO generic filler slogans such as `Same Questions. Brighter Detectives.` or footer slogans;
+- NO detective-rules section on Page 4;
+- keep a strong `WHAT TO EXPECT` section;
+- keep the closing `WHAT CAN WE ACTUALLY PROVE?` with one concise supporting line;
+- copy should sell curiosity, discovery, connected cases and the larger Room Zero mystery;
+- layout should use comic/dossier rhythm: bold headline, evidence snapshots/panels, dynamic bands/callouts, asymmetry and visual pacing;
+- maintain clean white/black/cool-gray palette only;
+- all text remains deterministic and exact in final production; image generation must not write or alter reader copy.
+
+Preferred Page 4 copy direction:
+- lead: `YOU WON'T JUST READ THIS BOOK. YOU'LL INVESTIGATE IT.`
+- use canonical mystery hooks such as the badge before the mail, the trophy returning too early and the camera at 4:17;
+- explain that 30 connected cases build toward the larger Room Zero mystery;
+- What to Expect should cover clue inspection, witness statements, maps/routes, codes/messages, timelines/patterns, returning evidence and making the verdict;
+- closing support: `That's the question the Academy asks first. Everything else follows the evidence.`
+
+This Page 4 lock supersedes the earlier rules-heavy Orientation layout.
