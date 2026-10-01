@@ -2,7 +2,7 @@
   "format": "rse-functional-brief-v1",
   "product": "gentle-steps-christmas",
   "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
-  "profile_sha256": "cb076c35e4e307a9d5a687edce8d2cd63dd39111040bc21021400271c240cadd",
+  "profile_sha256": "1f3aff5828302a2f4cfbb07dc1a7d94c9c366a4fed51e8d5b27c912d9e8cf1ae",
   "scope": "days_04_07_week1_close",
   "units": [
     {
@@ -31,7 +31,7 @@
       "tone_job": "Simple visual focus, not meditation language.",
       "humor_room": "Luli can joke about not analysing everything for once.",
       "cultural_friction": "Avoid mystical light metaphors.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -61,7 +61,7 @@
       "tone_job": "Quick imitation game with escalating absurdity.",
       "humor_room": "Joke about having to hear your chosen voice repeated around the room.",
       "cultural_friction": "Replace dated/awkward English voice examples with durable Polish-friendly ones.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -87,7 +87,7 @@
       "tone_job": "Very short, creative check-in without explanation pressure.",
       "humor_room": "Dilo can 'add' a new color to the system.",
       "cultural_friction": "Avoid therapy-like color/emotion interpretation.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -114,7 +114,7 @@
       "tone_job": "Listening game more than mindfulness exercise.",
       "humor_room": "Dilo can joke about browser tabs/mental noise.",
       "cultural_friction": "Avoid 'pure awareness' language.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -148,7 +148,7 @@
       "tone_job": "Fast coordination challenge with clean rules.",
       "humor_room": "A VAR/reset joke can fit Dilo.",
       "cultural_friction": "Avoid corporate teamwork language.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -173,7 +173,7 @@
       "tone_job": "Everyday home detail, not sentimental reflection.",
       "humor_room": "Appliance/snack joke is allowed.",
       "cultural_friction": "Avoid saying home is 'built from sounds that make us feel safe'.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -202,7 +202,7 @@
       "tone_job": "Low-pressure group rhythm.",
       "humor_room": "Alio can joke that the team is working without a meeting.",
       "cultural_friction": "Remove mystical shared-wave language.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -231,7 +231,7 @@
       "tone_job": "Coordination challenge, not a lesson.",
       "humor_room": "Luli can veto dramatic falls.",
       "cultural_friction": "Avoid translating 'balance grows when we share direction'.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -257,7 +257,7 @@
       "tone_job": "Practical family communication with no therapy jargon.",
       "humor_room": "Luli can dismiss the need for wise-sounding phrases.",
       "cultural_friction": "Avoid feather/thunderbolt metaphor unless a Polish equivalent truly works.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     },
     {
@@ -284,7 +284,7 @@
       "tone_job": "Physical reset with a concrete joke.",
       "humor_room": "Gravity can be Dilo's 'training partner'.",
       "cultural_friction": "Remove heart/earth spiritual metaphor.",
-      "recurrence_context": "Working recurring family: RESET",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
       "wording_is_disposable": true
     },
     {
@@ -318,7 +318,7 @@
       "tone_job": "Deliberately slightly silly social chain.",
       "humor_room": "Nini can encourage an oversized smile.",
       "cultural_friction": "Avoid claims that smiles become 'powerful' or 'amplified'.",
-      "recurrence_context": "Working recurring family: AKCJA",
+      "recurrence_context": "Working recurring family: GRAMY",
       "wording_is_disposable": true
     },
     {
@@ -344,7 +344,7 @@
       "tone_job": "Concrete recognition, not gratitude ceremony.",
       "humor_room": "Nini can say that if they do not brag, the family can do it for them.",
       "cultural_friction": "Avoid heroic/sentimental language.",
-      "recurrence_context": "Working recurring family: U NAS",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
       "wording_is_disposable": true
     }
   ]
