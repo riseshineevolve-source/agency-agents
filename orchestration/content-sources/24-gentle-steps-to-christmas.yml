@@ -53,16 +53,17 @@ localization:
     days22_24_voice_master: localization/pl-PL/production/gentle-steps/days22-24/GENTLE_STEPS_PL_DAYS22_24_VOICE_MASTER.md
     full_days_owner_review_master: localization/pl-PL/production/gentle-steps/GENTLE_STEPS_PL_DAYS01_24_OWNER_REVIEW_MASTER.md
     full_days_audit: localization/pl-PL/production/gentle-steps/GENTLE_STEPS_PL_DAYS01_24_AUDIT_2026-10-01.json
-    days08_14_candidate_sha256: 783dd6c804b064dd822680b49a69f8b3b1bf676303ca2adfb5a177c6ecae3a6a
-    days15_21_candidate_sha256: 3345de1fa519edf0f59bd1162da0485d6d0d53a0475ceba7259a8574fe257211
-    days22_24_candidate_sha256: f9ee0ee5f341572419aae200f0b9ff9810d9b4ea1d2df6e48259fae74f78c70c
-    days04_07_candidate_sha256: 08878be968b4ff2bf0412cc21ebf9888b07f3a85bb1c3eb9eb736f09f98e1439
-    current_voice_master_candidate_sha256: 0325f1353e0a1ead9024d50401e9489c4069f2cb01fa091b79f6b3621d5d4b2d
+    days08_14_candidate_sha256: c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea
+    days15_21_candidate_sha256: bc5c1973f6f13c23061df60610d5fe6885af4ab3b862f8dd90f791bab73be0e6
+    days22_24_candidate_sha256: 2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369
+    days04_07_candidate_sha256: 68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7
+    current_voice_master_candidate_sha256: 3c6e2c481f790747a4b4932b4d198ab09d2637c971ba69bba442a8d9d0070f84
     recurring_label_candidates:
-      - RESET
-      - AKCJA
-      - U NAS
+      - ZWOLNIJ
+      - GRAMY
+      - MIĘDZY NAMI
     recurring_labels_locked: false
+    punctuation_house_style: no_em_dash_in_reader_facing_polish
     daily_program_complete: true
     daily_program_units: 72
     daily_program_owner_review_ready: true
