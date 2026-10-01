@@ -1,0 +1,186 @@
+{
+  "format": "rse-reauthor-backcheck-packet-v1",
+  "product": "gentle-steps-christmas",
+  "source_file": "private-owner-upload/24 Gentle Paperback ok(2).pdf",
+  "source_revision": "owner-upload-2026-09-30",
+  "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+  "candidate_sha256": "f9ee0ee5f341572419aae200f0b9ff9810d9b4ea1d2df6e48259fae74f78c70c",
+  "instruction": "Re-open the English source only now. Verify mechanics, facts, counts, sequence, consent, claim strength, character continuity and required function. Do not rewrite Polish toward English syntax, metaphors or cadence merely to make the texts look parallel.",
+  "units": [
+    {
+      "id": "GS.D22.PAUSE",
+      "source_locator": "PDF p87",
+      "function": "Replace golden-inner-light visualization with a concrete breathing pause while retaining circle/breath structure.",
+      "mechanics": [
+        "Sit in a circle.",
+        "Take several calm, unforced breaths.",
+        "Use the breath/body as the focus for a short pause."
+      ],
+      "immutable_facts": [
+        "Luli's source note says to let inner light grow gently."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim breathing feeds an inner light or guarantees calm."
+      ],
+      "final_pl_for_review": "DZIEŃ 22\n\nRESET — KILKA ODDECHÓW\n\nUsiądźcie w kółku i zamknijcie oczy.\n\nPrzez kilka oddechów zwróćcie uwagę tylko na to, że klatka piersiowa lekko unosi się i opada. Nie trzeba oddychać głębiej ani wolniej niż jest wygodnie.\n\nPrzez tę chwilę nie trzeba też zajmować się następną rzeczą z listy.\n\nLuli: Lampki choinkowe mogą świecić za nas. Mamy dziś wolne."
+    },
+    {
+      "id": "GS.D22.PLAY",
+      "source_locator": "PDF p88",
+      "function": "Use movement to show how strongly each person connects with a reflective sentence, with rotating starter and two-person variant.",
+      "mechanics": [
+        "Form a circle around the oldest person, who starts.",
+        "Starter chooses one reflective sentence from the supplied list or creates one and finishes it honestly.",
+        "Other family members respond with movement: step closer to center = strong connection; one step back = gentle connection.",
+        "Change starter anti-clockwise.",
+        "Two-person version: stand face to face; one shares; the other steps forward for strong connection or back for gentle connection; then switch roles."
+      ],
+      "immutable_facts": [
+        "Source prompt list includes identity, truth today, invisible important thing, growth, a word that feels like home, and a strengthening word.",
+        "Oldest person starts.",
+        "Anti-clockwise starter rotation.",
+        "Mimi says no choreography/judging panel."
+      ],
+      "safety_claim_boundaries": [
+        "No one should be judged or interrogated about their movement.",
+        "Keep floor clear for small steps."
+      ],
+      "final_pl_for_review": "DZIEŃ 22\n\nAKCJA — KROK BLIŻEJ, KROK DALEJ\n\nStańcie w kółku. Zaczyna najstarsza osoba.\n\nWybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z tym, co naprawdę myśli:\n\n„Najbardziej sobą czuję się, kiedy…”\n„Jedna prawdziwa rzecz o mnie dzisiaj to…”\n„Coś niewidocznego, ale ważnego w moim życiu teraz, to…”\n„Jedna rzecz, którą chcę w sobie rozwijać, to…”\n„Słowo, które kojarzy mi się z domem, to…”\n„Słowo, które dodaje mi siły, to…”\n\nKiedy osoba prowadząca skończy, pozostali odpowiadają ruchem.\n\nJeśli zdanie mocno do was pasuje, zróbcie mały krok w stronę środka koła. Jeśli pasuje trochę, zróbcie jeden mały krok do tyłu.\n\nNie komentujcie cudzych wyborów i nie pytajcie, dlaczego ktoś stanął właśnie tam.\n\nNastępnie prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara.\n\nW dwie osoby stańcie naprzeciwko siebie. Jedna osoba kończy wybrane zdanie, a druga robi krok do przodu, jeśli mocno się z nim utożsamia, albo krok do tyłu, jeśli tylko trochę. Potem zamieńcie się rolami.\n\nMimi: Bez choreografii i bez komisji oceniającej. Każdy ma własne nogi i własną odpowiedź."
+    },
+    {
+      "id": "GS.D22.TALK",
+      "source_locator": "PDF p89",
+      "function": "Each person shares one personal lesson/discovery from the month about self or family.",
+      "mechanics": [
+        "Each person completes the source idea: This month, I learned...",
+        "Answer can be a personal discovery or something new noticed about self/family."
+      ],
+      "immutable_facts": [
+        "One lesson per person is sufficient.",
+        "Mimi jokes life does not take holidays."
+      ],
+      "safety_claim_boundaries": [
+        "No pressure for a profound lesson."
+      ],
+      "final_pl_for_review": "DZIEŃ 22\n\nU NAS — CO POKAZAŁ NAM TEN MIESIĄC?\n\nKażdy mówi jedną rzecz, którą zauważył albo zrozumiał w tym miesiącu o sobie lub o swojej rodzinie.\n\nMożecie zacząć od zdania:\n\n„Ten miesiąc pokazał mi, że…”\n\nNie szukajcie wielkich odkryć. Czasem najważniejsze jest coś, co po prostu wcześniej umykało.\n\nMimi: Życie nie robi przerwy świątecznej. Niestety ma też zadania domowe."
+    },
+    {
+      "id": "GS.D23.PAUSE",
+      "source_locator": "PDF p90",
+      "function": "Use the snow-globe image as a playful one-minute Christmas visualization without claiming it calms the mind.",
+      "mechanics": [
+        "Imagine being inside a calm snow globe.",
+        "Watch imagined snow fall for one minute."
+      ],
+      "immutable_facts": [
+        "Duration is one minute.",
+        "Alio warns not to shake the imaginary snow globe."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim thoughts must stop or the exercise guarantees calm."
+      ],
+      "final_pl_for_review": "DZIEŃ 23\n\nRESET — KULA ŚNIEŻNA\n\nUsiądźcie wygodnie i zamknijcie oczy.\n\nPrzez minutę wyobraźcie sobie kulę śnieżną tuż po potrząśnięciu. Płatki wirują, a potem powoli opadają coraz niżej.\n\nNie trzeba zatrzymywać myśli ani próbować „wyczyścić głowy”. Jeśli coś wam przyjdzie do głowy, po prostu wróćcie do obrazu opadającego śniegu.\n\nAlio: I nikt nie potrząsa kulą drugi raz. Mówię to głównie do siebie."
+    },
+    {
+      "id": "GS.D23.PLAY",
+      "source_locator": "PDF p91",
+      "function": "Run a three-round spot-switching game that reveals light facts/preferences/traits.",
+      "mechanics": [
+        "Stand together in a circle.",
+        "First caller is the person whose birthday is closest to the middle of the year.",
+        "Round 1 Color Challenge: caller names a color; everyone wearing it quickly and safely switches spots; play a few color rounds.",
+        "Round 2 Likes & Dislikes: move clockwise to the next caller, who names a preference category; everyone it applies to switches spots.",
+        "Round 3 Habits & Traits: next caller names a light trait/habit category; everyone it applies to switches spots.",
+        "Continue while enjoyable and invent own categories."
+      ],
+      "immutable_facts": [
+        "Birthday closest to mid-year selects first caller.",
+        "Round order is Colors -> Likes/Dislikes -> Habits/Traits.",
+        "Clockwise caller progression.",
+        "Dilo says quick swaps only."
+      ],
+      "safety_claim_boundaries": [
+        "Switch spots safely; no pushing/running into furniture.",
+        "Use non-shaming, non-sensitive categories."
+      ],
+      "final_pl_for_review": "DZIEŃ 23\n\nAKCJA — ZAMIANA MIEJSC\n\nStańcie w kółku. Pierwszą osobą prowadzącą zostaje ta, której urodziny przypadają najbliżej połowy roku, czyli mniej więcej 1 lipca.\n\n**Runda 1 — KOLORY**\n\nProwadzący wybiera kolor i mówi na przykład:\n\n„Wszyscy, którzy mają na sobie coś czerwonego — zmiana!”\n\nKażda osoba, która ma na sobie ten kolor, szybko i bezpiecznie zmienia miejsce w kole. Zagrajcie kilka krótkich rund, wybierając różne kolory.\n\n**Runda 2 — LUBIĘ / NIE LUBIĘ**\n\nKolejna osoba prowadząca jest wybierana zgodnie z ruchem wskazówek zegara. Podaje lekką kategorię, na przykład:\n\n„Wszyscy, którzy lubią ciepłe napoje — zmiana!”\n\nOsoby, których to dotyczy, zamieniają się miejscami.\n\n**Runda 3 — NAWYKI I CECHY**\n\nNastępny prowadzący wybiera prostą, nieszkodliwą kategorię, na przykład:\n\n„Wszyscy, którzy uważają się za cierpliwych — zmiana!”\nalbo\n„Wszyscy, którzy lubią mieć wszystko poukładane — zmiana!”\n\nMożecie grać tak długo, jak macie ochotę, i wymyślać własne kategorie. Wybierajcie takie, które nikogo nie zawstydzają ani nie oceniają.\n\nDilo: Szybka zamiana. Zwolnione tempo zostawmy filmom dramatycznym."
+    },
+    {
+      "id": "GS.D23.TALK",
+      "source_locator": "PDF p92",
+      "function": "Invite one simple sincere recent apology without making apology performance compulsory.",
+      "mechanics": [
+        "Sit together in a circle.",
+        "Starter turns to person on their right and says: I am sorry for... followed by a real recent example they want to apologize for."
+      ],
+      "immutable_facts": [
+        "Apology should be simple and recent.",
+        "Alio says apologies do not need fireworks."
+      ],
+      "safety_claim_boundaries": [
+        "Do not force anyone to invent an apology or disclose conflict publicly.",
+        "Do not treat apology as automatic repair; recipient does not owe forgiveness on demand."
+      ],
+      "final_pl_for_review": "DZIEŃ 23\n\nU NAS — PRZEPRASZAM ZA…\n\nUsiądźcie razem w kółku.\n\nZaczyna dowolna osoba. Zwraca się do osoby siedzącej po swojej prawej stronie i mówi:\n\n„Przepraszam za…”\n\nNastępnie podaje jeden prawdziwy, niedawny przykład sytuacji, za którą rzeczywiście chce przeprosić.\n\nNie wymyślajcie przeprosin tylko po to, żeby „zaliczyć” rundę. Jeśli ktoś nie ma dziś niczego szczerego do powiedzenia, może po prostu posłuchać.\n\nJeśli inni również chcą coś powiedzieć, możecie przejść dalej wokół koła.\n\nAlio: Prosto i bez fajerwerków. Fajerwerki i tak zostawmy na inny dzień."
+    },
+    {
+      "id": "GS.D24.PAUSE",
+      "source_locator": "PDF p93",
+      "function": "Close the daily RESET sequence with one minute of family silence and an outward good-wish focus, without shared-light halo imagery.",
+      "mechanics": [
+        "Sit together in silence.",
+        "Hold hands only if everyone wants.",
+        "Breathe normally for one minute.",
+        "Use the final pause to extend attention beyond the immediate room/home."
+      ],
+      "immutable_facts": [
+        "Duration is one minute.",
+        "Mimi asks the family to stay a moment longer.",
+        "Source expands shared light beyond home/world."
+      ],
+      "safety_claim_boundaries": [
+        "Touch optional.",
+        "No halo/shared-light/peace-ripple claims."
+      ],
+      "final_pl_for_review": "DZIEŃ 24\n\nRESET — OSTATNIA MINUTA\n\nUsiądźcie razem w ciszy.\n\nJeśli wszyscy mają na to ochotę, możecie złapać się za ręce. Jeśli nie — po prostu usiądźcie blisko siebie.\n\nPrzez minutę oddychajcie swobodnie i niczego nie planujcie.\n\nNa koniec pomyślcie o jednej osobie albo rodzinie poza tym pokojem, której chcielibyście dziś po prostu życzyć czegoś dobrego. Nie trzeba tego mówić na głos.\n\nMimi: Jeszcze jedna minuta. Reszta naprawdę może chwilę poczekać."
+    },
+    {
+      "id": "GS.D24.PLAY",
+      "source_locator": "PDF p94",
+      "function": "Sing one chosen Christmas/winter song together, with festive-color starter.",
+      "mechanics": [
+        "Stand or sit close together.",
+        "Choose one favorite Christmas carol or winter song.",
+        "Person wearing the most festive color starts the first line.",
+        "Everyone joins and sings the rest together."
+      ],
+      "immutable_facts": [
+        "One song is enough.",
+        "Dilo says perfection optional, joy required."
+      ],
+      "safety_claim_boundaries": [
+        "No lyric text needs to be printed; families choose their own song.",
+        "Keep volume comfortable."
+      ],
+      "final_pl_for_review": "DZIEŃ 24\n\nAKCJA — ŚPIEWAMY RAZEM\n\nStańcie albo usiądźcie blisko siebie.\n\nWybierzcie jedną ulubioną kolędę, piosenkę świąteczną albo zimową, którą wszyscy mniej więcej znają.\n\nZaczyna osoba, która ma na sobie najbardziej świąteczny kolor. Śpiewa pierwszą linijkę, a pozostali dołączają i razem śpiewacie dalej.\n\nNie chodzi o wykonanie koncertowe. Wystarczy jeden wspólny utwór.\n\nDilo: Czystość dźwięku nie podlega ocenie. Na szczęście."
+    },
+    {
+      "id": "GS.D24.TALK",
+      "source_locator": "PDF p95",
+      "function": "Close Advent with two rounds: one concrete gratitude from the 24 days and one family wish for Christmas/New Year.",
+      "mechanics": [
+        "Round 1: each person says one thing they are grateful for that happened during this Advent, connected to shared moments/feelings/time together.",
+        "Round 2: each person says one heartfelt wish for the family for Christmas and the New Year."
+      ],
+      "immutable_facts": [
+        "Both gratitude and wish rounds are required.",
+        "Happy Makers note says shy hopes count."
+      ],
+      "safety_claim_boundaries": [
+        "No one must produce a profound answer.",
+        "Keep wishes non-prescriptive and non-comparative."
+      ],
+      "final_pl_for_review": "DZIEŃ 24\n\nU NAS — CO ZOSTAJE Z TEGO ADWENTU?\n\nNa koniec zróbcie dwie krótkie rundy.\n\n**1. JEDNO „DZIĘKUJĘ”**\n\nKażdy mówi o jednej rzeczy, za którą jest wdzięczny po tych 24 dniach.\n\nMoże to być wspólny moment, czyjś gest, rozmowa, śmiech, trochę więcej czasu razem albo coś zupełnie małego.\n\n**2. JEDNO ŻYCZENIE**\n\nKażdy mówi jedno życzenie dla waszej rodziny na święta i nadchodzący rok.\n\nNie trzeba wygłaszać przemowy. Jedno prawdziwe „dziękuję” i jedno życzenie wystarczą.\n\nHappy Makers: Nawet ciche życzenia się liczą. Nie potrzebują brokatu."
+    }
+  ]
+}
