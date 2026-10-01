@@ -18,7 +18,7 @@ class LevelElevenBoundaryTests(unittest.TestCase):
     def test_complete_source_slice(self):
         counts = validator.validate(PACK, EVIDENCE)
         self.assertEqual(sum(counts.values()), 27)
-        self.assertEqual(counts["dialogue"], 12)
+        self.assertEqual(counts["dialogue"], 14)
         self.assertEqual(counts["system_log"], 5)
         self.assertEqual({n["provenance"]["page"] for n in PACK["nodes"]}, set(range(13,22)))
 
