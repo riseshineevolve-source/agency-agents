@@ -1,0 +1,11 @@
+{
+  "format": "rse-full-days-gate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_22_24_week4_close",
+  "candidate_sha256": "f9ee0ee5f341572419aae200f0b9ff9810d9b4ea1d2df6e48259fae74f78c70c",
+  "status": "READY_FOR_FULL_DAYS_01_24_AUDIT",
+  "publication_authorized": false,
+  "recurring_labels_locked": false,
+  "title_locked": false,
+  "surface_qa": "DEFERRED_FULL_BOOK_OWNER_GATE"
+}
