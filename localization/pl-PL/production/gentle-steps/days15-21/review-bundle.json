@@ -1,0 +1,138 @@
+{
+  "format": "rse-reauthor-review-bundle-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_15_21_week3",
+  "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+  "reviews": [
+    {
+      "stage": "polish_usage_idiom_context",
+      "reviewer": "role:polish_usage_idiom_context",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "Grammar, syntax, collocation, idiom, semantic selection and read-aloud flow checked across all 21 surfaces.",
+        "Book prose was preferred over spoken shorthand; character comments remain intentionally more conversational."
+      ]
+    },
+    {
+      "stage": "polish_book_register",
+      "reviewer": "role:polish_book_register",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "Instructions use complete editorial Polish sentences and avoid telegraphic fragments.",
+        "No 'i jedziecie dalej' / social-media cadence in instructional copy."
+      ]
+    },
+    {
+      "stage": "breath_reset_reauthoring",
+      "reviewer": "role:breath_reset_reauthoring",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "Days 15-21 reset pages use concrete shoulders, hands, longer exhale, sitting together, face relaxation and sensory comfort.",
+        "Wave/ripple/shared-air/inner-light/collective-peace metaphors were removed or rebuilt as everyday actions."
+      ]
+    },
+    {
+      "stage": "activity_instruction_completeness",
+      "reviewer": "role:activity_instruction_completeness",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "All game mechanics were checked against the functional brief, including Day 16 conductor start/stop semantics, Day 17 15-second rotations, Day 18 navigation and two-person variant, Day 20 starter/cheering/two-person doorway and Day 21 dual-direction squeeze challenge.",
+        "Safety/consent additions do not remove the source task."
+      ]
+    },
+    {
+      "stage": "polish_family_language_edit",
+      "reviewer": "role:polish_family_language_edit",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "Tone remains modern family-book Polish: warm and accessible, not therapy/workshop language."
+      ]
+    },
+    {
+      "stage": "humor_character_voice",
+      "reviewer": "role:humor_character_voice",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "Dilo remains system/logic dry; Luli precise; Mimi practical; Nini physical/playful; Alio energetic.",
+        "Jokes were written in Polish rather than translated from source notes."
+      ]
+    },
+    {
+      "stage": "kid_parent_ear_review",
+      "reviewer": "role:kid_parent_ear_review",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "No forced youth slang or baby language.",
+        "RESET / AKCJA / U NAS remain workable but owner-gated."
+      ]
+    },
+    {
+      "stage": "anti_coaching_translationese",
+      "reviewer": "role:anti_coaching_translationese",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "No deterministic claims about trust, energy, connection or calm were introduced.",
+        "Imported mindfulness framing was replaced by concrete actions."
+      ]
+    },
+    {
+      "stage": "bilingual_fidelity_backcheck",
+      "reviewer": "role:bilingual_fidelity_backcheck",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "Day 15 red-clothing starter, anti-clockwise chain and exactly three final repetitions preserved.",
+        "Day 16 initial closest to M, point-to-start/point-to-stop, multi-sound challenge and clockwise conductor rotation preserved.",
+        "Day 17 shortest-name starter, 15-second rounds and anti-clockwise leader rotation preserved.",
+        "Day 18 chair navigation and two-person version preserved with explicit safety adaptation.",
+        "Day 19 summer/near-summer starter, anti-clockwise caller rotation and two-person variant preserved.",
+        "Day 20 birthday-nearest-Christmas starter, full tunnel rotation and two-person chair doorway preserved.",
+        "Day 21 A-nearest starter, clockwise first wave, right-hand second starter, pattern variants and simultaneous opposite-direction challenge preserved."
+      ]
+    },
+    {
+      "stage": "logic_continuity",
+      "reviewer": "role:logic_continuity",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "Week 3 keeps RESET / AKCJA / U NAS rhythm and character differentiation.",
+        "Repeated memory/reflection pages use distinct prompts and mechanics."
+      ]
+    },
+    {
+      "stage": "proofread",
+      "reviewer": "role:proofread",
+      "status": "PASS",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "Polish punctuation, inflection, quotation marks and numeric/timing instructions checked."
+      ]
+    },
+    {
+      "stage": "surface_qa",
+      "reviewer": "role:surface_qa",
+      "status": "DEFERRED_FULL_BOOK_OWNER_GATE",
+      "candidate_sha256": "93f7756c368b87f29ef7bec2987c8e175baecf21fe688a5de35b0ca2e3d654c6",
+      "notes": [
+        "Exact page/app fit remains deferred until Days 1-24 are assembled into one Polish master.",
+        "No production fit PASS claimed."
+      ]
+    }
+  ],
+  "owner_decisions": {
+    "voice_direction": {
+      "status": "APPROVED_TO_CONTINUE",
+      "evidence": "localization/pl-PL/production/gentle-steps/VOICE_DIRECTION_OWNER_RECEIPT_2026-09-30.json"
+    }
+  },
+  "scaleout_authorized": true
+}
