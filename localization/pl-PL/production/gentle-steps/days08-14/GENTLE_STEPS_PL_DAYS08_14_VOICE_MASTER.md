@@ -1,28 +1,20 @@
-# 24 Gentle Steps to Christmas — Polish Voice Master Days 8–14
+# 24 Gentle Steps to Christmas. Polish Voice Master Days 8-14
 
-Status: **BATCH COMPLETE / OVERNIGHT CONTINUATION AUTHORIZED / NO PUBLICATION LOCK**  
-Mode: `native_reauthor_from_function`  
-Working labels: **RESET / AKCJA / U NAS** — **NOT LOCKED**  
-Candidate SHA-256: `783dd6c804b064dd822680b49a69f8b3b1bf676303ca2adfb5a177c6ecae3a6a`
-
-This batch uses the current locked execution standard:
-- native Polish book register, not chat-transcript shorthand;
-- concrete breath/reset framing rather than imported mindfulness/wellness language;
-- complete game mechanics so a family can perform the activity from Polish alone;
-- strong, Polish-first Happy Makers character humor;
-- grammar, syntax, idiom, context and late bilingual fidelity gates.
+Status: **OWNER REVIEW / REVISED POLISH HOUSE STYLE / NO PUBLICATION LOCK**  
+Working labels: **ZWOLNIJ / GRAMY / MIĘDZY NAMI**. **NOT LOCKED**  
+Candidate SHA-256: `c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea`
 
 ---
 
 ## DZIEŃ 8
 
-RESET — PULS
+ZWOLNIJ: PULS
 
 Usiądźcie wygodnie i połóżcie dłoń na klatce piersiowej.
 
 Przez chwilę spróbujcie wyczuć własny puls. Nie trzeba go liczyć ani do niczego porównywać.
 
-Zostańcie tak przez minutę. Niczego nie trzeba w tym czasie planować ani kończyć — serce i tak robi swoje.
+Zostańcie tak przez minutę. Niczego nie trzeba w tym czasie planować ani kończyć. Serce i tak robi swoje.
 
 Nini: Serce pracuje bez przerwy. Ja po tej minucie poproszę o przerwę.
 
@@ -30,7 +22,7 @@ Nini: Serce pracuje bez przerwy. Ja po tej minucie poproszę o przerwę.
 
 ## DZIEŃ 8
 
-AKCJA — HISTORIA PO JEDNYM SŁOWIE
+GRAMY: HISTORIA PO JEDNYM SŁOWIE
 
 Usiądźcie albo stańcie w kółku.
 
@@ -38,7 +30,7 @@ Zaczyna najstarsza osoba i mówi jedno słowo. Kolejna osoba powtarza pierwsze s
 
 Każda następna osoba powtarza całą historię od początku, zachowując kolejność słów, a na końcu dodaje jedno nowe.
 
-Zróbcie tylko dwa albo trzy pełne okrążenia. Historia ma być krótka — i wcale nie musi mieć wielkiego sensu.
+Zróbcie tylko dwa albo trzy pełne okrążenia. Historia ma być krótka. Wcale nie musi mieć wielkiego sensu.
 
 Kiedy historia będzie gotowa, opowiedzcie ją jeszcze raz od początku. Tym razem każdy zastępuje swoje słowo jednym ruchem albo dźwiękiem, który do niego pasuje.
 
@@ -48,7 +40,7 @@ Alio: Jeśli po drugim okrążeniu fabuła przestała mieć sens, wszystko idzie
 
 ## DZIEŃ 8
 
-U NAS — JEDNO KONKRETNE „DZIĘKUJĘ”
+MIĘDZY NAMI: JEDNO KONKRETNE „DZIĘKUJĘ”
 
 Zaczyna najmłodsza osoba. Zwraca się do osoby siedzącej po prawej stronie i mówi:
 
@@ -58,19 +50,19 @@ Dokończcie zdanie jedną konkretną rzeczą, którą ta osoba zrobiła ostatnio
 
 Potem kolejna osoba dziękuje osobie po swojej prawej stronie. Kontynuujcie, aż każdy usłyszy przynajmniej jedno konkretne „dziękuję”.
 
-Luli: „Dzięki za wszystko” brzmi sprawnie. Dziś poproszę wersję z detalem.
+Luli: „Dzięki za wszystko” to skrót. Dziś mówimy konkretnie.
 
 ---
 
 ## DZIEŃ 9
 
-RESET — ODDECH I JEDNA DOBRA RZECZ
+ZWOLNIJ: ODDECH I JEDNA DOBRA RZECZ
 
 Usiądźcie razem i zróbcie kilka spokojnych, niewymuszonych oddechów.
 
 Przy wdechu przypomnijcie sobie jedną konkretną rzecz z dzisiejszego dnia, za którą jesteście komuś wdzięczni.
 
-Przy wydechu rozluźnijcie ramiona i pozwólcie tej myśli po prostu zostać przez chwilę. Nie trzeba niczego mówić ani specjalnie sobie wyobrażać.
+Przy wydechu opuśćcie ramiona. Nie trzeba tego komentować. Wystarczy przez chwilę pamiętać o tej jednej dobrej rzeczy.
 
 Luli: Efekty specjalne nie są potrzebne. Konkret wystarczy.
 
@@ -78,7 +70,7 @@ Luli: Efekty specjalne nie są potrzebne. Konkret wystarczy.
 
 ## DZIEŃ 9
 
-AKCJA — LUDZKI WĘZEŁ
+GRAMY: LUDZKI WĘZEŁ
 
 Stańcie blisko siebie w kółku.
 
@@ -96,7 +88,7 @@ Mimi: Dramatyczne piruety nie dają dodatkowych punktów.
 
 ## DZIEŃ 9
 
-U NAS — MAŁA DOBRA RZECZ
+MIĘDZY NAMI: MAŁA DOBRA RZECZ
 
 Po kolei wymieńcie po jednej małej rzeczy z dzisiejszego dnia, która ucieszyła was w domu albo w rodzinie.
 
@@ -110,7 +102,7 @@ Luli: Jeśli ktoś zostawił wam ostatnie ciastko, to zdecydowanie kwalifikuje s
 
 ## DZIEŃ 10
 
-RESET — RAMIĘ W RAMIĘ
+ZWOLNIJ: RAMIĘ W RAMIĘ
 
 Usiądźcie blisko siebie, tak żeby stykać się ramionami.
 
@@ -124,7 +116,7 @@ Alio: Nikt nie prowadzi, nikt nie ustala planu. Podejrzanie proste.
 
 ## DZIEŃ 10
 
-AKCJA — RODZINNA MASZYNA
+GRAMY: RODZINNA MASZYNA
 
 Zaczyna osoba, której imię rozpoczyna się na literę najbliżej początku alfabetu.
 
@@ -134,7 +126,7 @@ Kolejna osoba powtarza dokładnie pierwszy ruch i dźwięk, a potem dodaje włas
 
 Każda następna osoba odtwarza całą dotychczasową sekwencję w tej samej kolejności i na końcu dodaje kolejny „robotyczny” element.
 
-Kiedy wszyscy dołożą już swoją część, wykonajcie całą sekwencję jeszcze raz wspólnie — od pierwszego ruchu i dźwięku aż do ostatniego.
+Kiedy wszyscy dołożą już swoją część, wykonajcie całą sekwencję jeszcze raz wspólnie, od pierwszego ruchu i dźwięku aż do ostatniego.
 
 Dilo: Jeśli ktoś pomyli kolejność, maszyna zgłasza błąd. Restart bez wzywania serwisu.
 
@@ -142,7 +134,7 @@ Dilo: Jeśli ktoś pomyli kolejność, maszyna zgłasza błąd. Restart bez wzyw
 
 ## DZIEŃ 10
 
-U NAS — NASZE HASŁO
+MIĘDZY NAMI: NASZE HASŁO
 
 Wymyślcie razem jedno krótkie zdanie, które naprawdę pasuje do waszej rodziny.
 
@@ -161,13 +153,13 @@ Dilo: Krótkie i łatwe do zapamiętania. Jak dobre hasło. Tylko nie ustawiajci
 
 ## DZIEŃ 11
 
-RESET — ROZLUŹNIJ TWARZ
+ZWOLNIJ: ROZLUŹNIJ TWARZ
 
 Usiądźcie blisko siebie i zamknijcie oczy.
 
 Przez kilka spokojnych oddechów rozluźnijcie czoło i szczękę. Nie trzeba niczego osiągać ani sprawdzać, czy robicie to tak samo.
 
-Na koniec spróbujcie lekko się uśmiechnąć — bez słów i bez żadnego szczególnego powodu.
+Na koniec spróbujcie lekko się uśmiechnąć, bez słów i bez żadnego szczególnego powodu.
 
 Zostańcie tak przez kilka sekund, a potem otwórzcie oczy.
 
@@ -177,7 +169,7 @@ Nini: Uśmiech bez zdjęcia. Rzadki okaz.
 
 ## DZIEŃ 11
 
-AKCJA — DZIWNE POLECENIE
+GRAMY: DZIWNE POLECENIE
 
 Prowadzi osoba, która ma dziś najbardziej kolorowe skarpetki.
 
@@ -191,7 +183,7 @@ Na przykład:
 Albo:
 „Maszeruj powoli, powiedz dwa razy «bop» i wyglądaj tak, jakby ktoś właśnie zjadł twoje ciastko”.
 
-Wszyscy — łącznie z osobą prowadzącą — wykonują całe polecenie od razu i w tym samym czasie.
+Wszyscy wykonują całe polecenie od razu i w tym samym czasie. Osoba prowadząca również bierze udział.
 
 Osoba, która się zawaha, zacznie się śmiać albo zareaguje najpóźniej, zostaje nowym prowadzącym i wymyśla kolejne trzyczęściowe polecenie.
 
@@ -201,7 +193,7 @@ Nini: Poważna mina jest bardzo ważna. Zwłaszcza kiedy kompletnie nie pasuje.
 
 ## DZIEŃ 11
 
-U NAS — W CZYM JESTEŚMY DOBRZY?
+MIĘDZY NAMI: W CZYM JESTEŚMY DOBRZY?
 
 Po kolei dokończcie zdanie:
 
@@ -215,7 +207,7 @@ Alio: Jeśli odpowiedź brzmi „znajdowanie rzeczy, których nikt inny nie widz
 
 ## DZIEŃ 12
 
-RESET — JEDNO SPOJRZENIE
+ZWOLNIJ: JEDNO SPOJRZENIE
 
 Usiądźcie razem i weźcie jeden spokojny oddech.
 
@@ -231,7 +223,7 @@ Mimi: Bez przemowy. Dziś oczy załatwiają formalności.
 
 ## DZIEŃ 12
 
-AKCJA — PIĘĆ SŁÓW: TRZY PRAWDY, DWA ABSURDY
+GRAMY: PIĘĆ SŁÓW: TRZY PRAWDY, DWA ABSURDY
 
 Zaczyna osoba, która ma najdłuższe drugie imię. Jeśli nikt nie ma drugiego imienia, zaczyna osoba z najdłuższym pierwszym imieniem.
 
@@ -254,11 +246,11 @@ Luli: Pięć słów. Nie sześć. Tak, liczę.
 
 ## DZIEŃ 12
 
-U NAS — CO DOBREGO ZAUWAŻYLIŚMY?
+MIĘDZY NAMI: CO DOBREGO ZAUWAŻYLIŚMY?
 
 Pierwsza osoba zwraca się do osoby siedzącej po lewej stronie.
 
-Mówi o jednej konkretnej, życzliwej rzeczy, którą zauważyła u tej osoby w ostatnim czasie — nawet jeśli była bardzo drobna.
+Mówi o jednej konkretnej, życzliwej rzeczy, którą zauważyła u tej osoby w ostatnim czasie, nawet jeśli była bardzo drobna.
 
 Następnie ta osoba zwraca się do osoby po swojej lewej stronie. Kontynuujcie zgodnie z ruchem wskazówek zegara, aż każdy usłyszy jeden konkretny przykład.
 
@@ -268,13 +260,13 @@ Mimi: Życzliwość mnoży się szybciej niż pranie. Prawie.
 
 ## DZIEŃ 13
 
-RESET — MINUTA NA ZWOLNIONYM TEMPIE
+ZWOLNIJ: MINUTA NA ZWOLNIONYM TEMPIE
 
 Przez minutę poruszajcie rękami tak wolno, jakby ktoś włączył film w zwolnionym tempie.
 
 Powoli unieście dłonie, zatrzymajcie je na chwilę i równie powoli opuśćcie.
 
-Zwróćcie uwagę na powietrze przesuwające się po skórze podczas ruchu. Nie trzeba niczego interpretować — chodzi tylko o to, żeby przez minutę zrobić jedną prostą rzecz naprawdę wolno.
+Zwróćcie uwagę na powietrze przesuwające się po skórze podczas ruchu. Nie trzeba niczego interpretować. Chodzi tylko o to, żeby przez minutę zrobić jedną prostą rzecz naprawdę wolno.
 
 Dilo: Tryb 0,25x. Mózg może zgłosić reklamację.
 
@@ -282,7 +274,7 @@ Dilo: Tryb 0,25x. Mózg może zgłosić reklamację.
 
 ## DZIEŃ 13
 
-AKCJA — PRZEJŚCIE SPECJALNE
+GRAMY: PRZEJŚCIE SPECJALNE
 
 Dwie osoby stają naprzeciwko siebie i unoszą ręce, tworząc z nich „bramę”.
 
@@ -298,11 +290,11 @@ Mimi: Wejście jak na premierę. Czerwony dywan jest dziś w wersji wyobrażonej
 
 ## DZIEŃ 13
 
-U NAS — TO, CO MAMY
+MIĘDZY NAMI: TO, CO MAMY
 
 Wyobraźcie sobie, że wasza rodzina ma własną mapę, na której zaznaczone są rzeczy naprawdę dla was ważne.
 
-Każdy wymienia jeden taki „skarb” — coś, co macie jako rodzina i czego nie da się po prostu kupić.
+Każdy wymienia jeden taki „skarb”, czyli coś, co macie jako rodzina i czego nie da się po prostu kupić.
 
 Może to być wspólny humor, pomoc, zaufanie, rozmowy, tradycje, wsparcie albo coś zupełnie innego, co jest ważne właśnie u was.
 
@@ -312,13 +304,13 @@ Nini: Jeśli ktoś powie „Wi-Fi”, proszę przygotować drugi skarb.
 
 ## DZIEŃ 14
 
-RESET — CIEPŁE DŁONIE
+ZWOLNIJ: CIEPŁE DŁONIE
 
 Potrzyjcie dłonie o siebie przez kilka sekund, aż zrobią się wyraźnie cieplejsze.
 
 Jedną dłoń połóżcie na własnej klatce piersiowej.
 
-Drugą możecie położyć na ramieniu osoby siedzącej po prawej stronie — tylko jeśli ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.
+Drugą możecie położyć na ramieniu osoby siedzącej po prawej stronie, ale tylko wtedy, gdy ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.
 
 Zostańcie tak przez chwilę i po prostu zauważcie ciepło dłoni.
 
@@ -328,7 +320,7 @@ Luli: Dwie dłonie, zero przemowy. Bardzo rozsądny układ.
 
 ## DZIEŃ 14
 
-AKCJA — RYTM PO KOLEI
+GRAMY: RYTM PO KOLEI
 
 Zaczyna najniższa osoba. Wymyśla krótki, prosty rytm, na przykład: klaśnięcie – klaśnięcie – pstryknięcie.
 
@@ -338,7 +330,7 @@ Następnie, idąc zgodnie z ruchem wskazówek zegara, kolejna osoba wymyśla wł
 
 Kontynuujcie, aż każdy stworzy jeden rytm i usłyszy jego powtórzenie przez całą grupę.
 
-Na koniec spróbujcie wykonać wszystkie rytmy po kolei — od pierwszego do ostatniego — bez zatrzymywania się pomiędzy nimi.
+Na koniec spróbujcie wykonać wszystkie rytmy po kolei, od pierwszego do ostatniego, bez zatrzymywania się pomiędzy nimi.
 
 Dilo: Tempo dowolne. Chaos rytmiczny nie jest tym samym co interpretacja artystyczna.
 
@@ -346,7 +338,7 @@ Dilo: Tempo dowolne. Chaos rytmiczny nie jest tym samym co interpretacja artysty
 
 ## DZIEŃ 14
 
-U NAS — JEDNO, CO W TOBIE CENIĘ
+MIĘDZY NAMI: JEDNO, CO W TOBIE CENIĘ
 
 Pierwsza osoba zwraca się do osoby siedzącej po lewej stronie i mówi jedną krótką, konkretną rzecz, którą w niej ceni.
 
@@ -355,7 +347,3 @@ Następnie ta osoba robi to samo wobec osoby siedzącej po jej lewej stronie.
 Kontynuujcie wokół koła, aż każdy usłyszy jedno takie zdanie.
 
 Luli: Mały prezent, bez papieru i bez szukania taśmy.
-
----
-
-Days 15–24 are authorized to continue overnight under the same execution standard. Publication, recurring-label lock, title lock and exact surface fit remain owner-gated.
