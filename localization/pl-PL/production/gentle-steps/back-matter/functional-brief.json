@@ -1,0 +1,131 @@
+{
+  "format": "rse-functional-brief-v1",
+  "product": "gentle-steps-christmas",
+  "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+  "scope": "post_day24_back_matter_pages_98_104",
+  "source_verification": {
+    "source_filename": "24 Gentle Paperback ok.pdf",
+    "verified_pages": "98-104",
+    "verified_at": "2026-10-02",
+    "note": "Source text layer is visually encoded/garbled in extraction, but the seven pages were directly inspected from the canonical Library PDF and reconstructed by meaning/function. Do not use historical chat paraphrases as source."
+  },
+  "heading_candidates": {
+    "reflections": "PO 24 DNIACH",
+    "promise": "NASZA RODZINNA UMOWA",
+    "closing": "DOBRE ŻYCZENIE NA KONIEC",
+    "letter": "LIST OD HAPPY MAKERS",
+    "lock_state": "EDITORIAL_CANDIDATE_NOT_OWNER_LOCKED"
+  },
+  "units": [
+    {
+      "id": "GS.BM.REFLECTIONS",
+      "source_locator": "PDF p98",
+      "function": "Invite the family to revisit the 24-day experience on one evening between Christmas and New Year, with three low-pressure reflection prompts.",
+      "mechanics": [
+        "Choose one evening between Christmas and New Year.",
+        "Optionally light a candle and sit together.",
+        "Revisit favourite moments from the 24 days.",
+        "Ask what surprised them.",
+        "Ask what changed for them, explicitly allowing very small shifts."
+      ],
+      "tone_job": "Warm retrospective without therapy language, grand transformation claims or school-style debrief.",
+      "humor_room": "Keep the source chocolate-disappearing joke in a natural Polish form.",
+      "protected_truth": [
+        "The timing window is between Christmas and New Year.",
+        "Small changes count.",
+        "No claim that the activities necessarily changed anyone."
+      ]
+    },
+    {
+      "id": "GS.BM.PROMISE_A",
+      "source_locator": "PDF p99",
+      "function": "First half of a family promise: kindness, pausing when somebody needs room, quiet support, noticing tiny joys and making room for laughter.",
+      "mechanics": [
+        "Read or adapt together as a shared family promise."
+      ],
+      "tone_job": "Specific, warm and human. Avoid ceremonial or therapeutic wording.",
+      "humor_room": "Patience as a rare mythical creature and badly timed laughter are source comic beats.",
+      "protected_truth": [
+        "Support may be quiet and wordless.",
+        "Tiny joys and private family victories matter.",
+        "Laughter is welcomed, including badly timed laughter."
+      ]
+    },
+    {
+      "id": "GS.BM.PROMISE_B",
+      "source_locator": "PDF p100",
+      "function": "Second half of family promise: respect dreams, support one another, care for and repair shared peace, keep choosing one another with warmth, honesty and humor.",
+      "mechanics": [
+        "Continue the shared promise from p99."
+      ],
+      "tone_job": "Grounded family commitment, not motivational manifesto.",
+      "humor_room": "Quietly googling an unusual dream is a source comic beat.",
+      "protected_truth": [
+        "Dreams include brave and strange ones.",
+        "Repair after wobble is expected, not failure.",
+        "Family home is framed as a place worth returning to.",
+        "Presence/togetherness is the closing value."
+      ]
+    },
+    {
+      "id": "GS.BM.CLOSING",
+      "source_locator": "PDF p101",
+      "function": "Offer a closing wish that the small calm, laughter, kindness and affection practiced during Advent continue into ordinary family life after the season.",
+      "mechanics": [
+        "Read as a short closing passage."
+      ],
+      "tone_job": "Poetic but natural Polish, stripped of imported spiritual-light rhetoric where it would sound artificial.",
+      "humor_room": "Keep the source joke about decorations refusing to fit back into the box.",
+      "protected_truth": [
+        "Carry the good from Advent into ordinary mornings and conversations.",
+        "Kindness and shared laughter remain central.",
+        "No guaranteed emotional outcome."
+      ]
+    },
+    {
+      "id": "GS.BM.LETTER_A",
+      "source_locator": "PDF p102",
+      "function": "Happy Makers letter: reaching Day 24 is framed as a beginning; laughing, pausing, listening or simply sitting quietly together is enough.",
+      "mechanics": [
+        "Direct letter from Happy Makers to the family."
+      ],
+      "tone_job": "Warm, concise and non-preachy. Replace magic/light claims with concrete family-life language.",
+      "humor_room": "May use small domestic callbacks, but no fake youth slang.",
+      "protected_truth": [
+        "Completion is not treated as the end of the habits.",
+        "Ordinary small shared moments are sufficient.",
+        "No perfection standard."
+      ]
+    },
+    {
+      "id": "GS.BM.LETTER_B",
+      "source_locator": "PDF p103",
+      "function": "Carry warmth, patience and small joy into the year ahead; when life becomes busy, remember how to return to stillness and one another.",
+      "mechanics": [
+        "Continuation of the letter."
+      ],
+      "tone_job": "Concrete memory of reusable actions, not mindfulness doctrine.",
+      "humor_room": "A small family-life interruption can replace abstract light rhetoric if needed.",
+      "protected_truth": [
+        "The practices can be reused beyond December.",
+        "The source encourages returning to one another when life is busy.",
+        "Do not guarantee that presence makes the world better."
+      ]
+    },
+    {
+      "id": "GS.BM.LETTER_C",
+      "source_locator": "PDF p104",
+      "function": "Thank the family for every pause, laugh and shared breath, then sign off from Happy Makers with love/gratitude.",
+      "mechanics": [
+        "Final sign-off of the letter."
+      ],
+      "tone_job": "Earned warmth without syrup or mystical glow language.",
+      "humor_room": "No extra joke required; ending may be simple.",
+      "protected_truth": [
+        "Thank the family for participating.",
+        "Keep gratitude and affectionate sign-off.",
+        "Do not strengthen to a spiritual or wellbeing promise."
+      ]
+    }
+  ]
+}
