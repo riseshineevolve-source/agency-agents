@@ -19,6 +19,7 @@ def load(level):
 
 PACK11, EVIDENCE11 = load(11)
 PACK12, EVIDENCE12 = load(12)
+PACK13, EVIDENCE13 = load(13)
 
 class LevelElevenBoundaryTests(unittest.TestCase):
     def test_complete_source_slice(self):
@@ -93,6 +94,45 @@ class LevelTwelveBoundaryTests(unittest.TestCase):
                 self.assertNotIn("xp", node)
             self.assertEqual(pack["supported_locales"], ["en"])
             self.assertEqual(pack["planned_locales"], ["pl-PL"])
+
+
+class LevelThirteenBoundaryTests(unittest.TestCase):
+    def test_complete_source_slice(self):
+        counts = validator.validate(PACK13, EVIDENCE13)
+        self.assertEqual(sum(counts.values()), 31)
+        self.assertEqual(counts["dialogue"], 16)
+        self.assertEqual(counts["system_log"], 7)
+        self.assertEqual({n["provenance"]["page"] for n in PACK13["nodes"]}, set(range(30,38)))
+
+    def assert_rejected(self, edit):
+        pack = copy.deepcopy(PACK13)
+        edit(pack)
+        with self.assertRaises(ValueError):
+            validator.validate(pack, EVIDENCE13)
+
+    def test_identity_is_locked(self):
+        opener = PACK13["localized_copy"][0]["fields"]
+        self.assertEqual(opener["level_label"], "LEVEL 13:")
+        self.assertEqual(opener["title"], "The Glitchy Wi-Fi")
+        self.assertEqual(opener["key_acquired"], "LISTENING")
+
+    def test_source_correction_is_preserved(self):
+        glitch = PACK13["localized_copy"][27]["fields"]
+        self.assertEqual(glitch["correction_label"], "Correction:")
+        self.assertEqual(
+            glitch["correction"],
+            "Ask your Captain for one command at a time, or write it down on a Checklist (External RAM).",
+        )
+
+    def test_secret_code_is_locked(self):
+        self.assertEqual(PACK13["localized_copy"][30]["fields"]["code"], "“DOWNLOAD COMPLETE”")
+
+    def test_no_invented_mechanics(self):
+        for node in PACK13["nodes"]:
+            self.assertNotIn("entitlement_id", node)
+            self.assertNotIn("score", node)
+            self.assertNotIn("xp", node)
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
