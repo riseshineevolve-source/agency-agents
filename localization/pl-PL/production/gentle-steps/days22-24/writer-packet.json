@@ -1,0 +1,256 @@
+{
+  "format": "rse-native-pl-writer-packet-v1",
+  "product": "gentle-steps-christmas",
+  "run_sha256": "82592721794a8dc81c2a9208d974fba258fedbc9ceab4645753f7885f4c0d0fe",
+  "brief_sha256": "ca0f94b15aca16de1c282766b7b5fda190a6f68d0e8a4dcb9df2ed0297582306",
+  "authoring_mode": "from_function_not_from_english_wording",
+  "source_visibility": "functional_brief_only",
+  "instructions": [
+    "Write as if the Polish product were created in Poland from the beginning.",
+    "Preserve mechanics, facts, character roles, safety and claim boundaries.",
+    "Use polished contemporary book Polish, not chat shorthand.",
+    "Breath/reset pages must be concrete and everyday, never imported mindfulness/wellness language.",
+    "Activity instructions must be complete enough to execute without the English source.",
+    "Happy Makers comments may be the most conversational layer; preserve distinct voices."
+  ],
+  "units": [
+    {
+      "id": "GS.D22.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Replace golden-inner-light visualization with a concrete breathing pause while retaining circle/breath structure.",
+      "mechanics": [
+        "Sit in a circle.",
+        "Take several calm, unforced breaths.",
+        "Use the breath/body as the focus for a short pause."
+      ],
+      "immutable_facts": [
+        "Luli's source note says to let inner light grow gently."
+      ],
+      "character_roles": [
+        "Luli can undercut decorative imagery with a practical line."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim breathing feeds an inner light or guarantees calm."
+      ],
+      "tone_job": "Simple Christmas-season pause, not spiritual visualization.",
+      "humor_room": "Let the actual Christmas lights do the shining.",
+      "cultural_friction": "Remove golden-light-inside-chest metaphor.",
+      "recurrence_context": "Working recurring family: RESET"
+    },
+    {
+      "id": "GS.D22.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Use movement to show how strongly each person connects with a reflective sentence, with rotating starter and two-person variant.",
+      "mechanics": [
+        "Form a circle around the oldest person, who starts.",
+        "Starter chooses one reflective sentence from the supplied list or creates one and finishes it honestly.",
+        "Other family members respond with movement: step closer to center = strong connection; one step back = gentle connection.",
+        "Change starter anti-clockwise.",
+        "Two-person version: stand face to face; one shares; the other steps forward for strong connection or back for gentle connection; then switch roles."
+      ],
+      "immutable_facts": [
+        "Source prompt list includes identity, truth today, invisible important thing, growth, a word that feels like home, and a strengthening word.",
+        "Oldest person starts.",
+        "Anti-clockwise starter rotation.",
+        "Mimi says no choreography/judging panel."
+      ],
+      "character_roles": [
+        "Mimi keeps reflection low-pressure."
+      ],
+      "safety_claim_boundaries": [
+        "No one should be judged or interrogated about their movement.",
+        "Keep floor clear for small steps."
+      ],
+      "tone_job": "Reflective but concrete movement game.",
+      "humor_room": "No judging panel.",
+      "cultural_friction": "Avoid 'true connection' coaching language.",
+      "recurrence_context": "Working recurring family: AKCJA"
+    },
+    {
+      "id": "GS.D22.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Each person shares one personal lesson/discovery from the month about self or family.",
+      "mechanics": [
+        "Each person completes the source idea: This month, I learned...",
+        "Answer can be a personal discovery or something new noticed about self/family."
+      ],
+      "immutable_facts": [
+        "One lesson per person is sufficient.",
+        "Mimi jokes life does not take holidays."
+      ],
+      "character_roles": [
+        "Mimi is practical."
+      ],
+      "safety_claim_boundaries": [
+        "No pressure for a profound lesson."
+      ],
+      "tone_job": "Simple end-of-month reflection.",
+      "humor_room": "Life as teacher can be lightly joked about, not sermonized.",
+      "cultural_friction": "Avoid insight/coaching jargon.",
+      "recurrence_context": "Working recurring family: U NAS"
+    },
+    {
+      "id": "GS.D23.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Use the snow-globe image as a playful one-minute Christmas visualization without claiming it calms the mind.",
+      "mechanics": [
+        "Imagine being inside a calm snow globe.",
+        "Watch imagined snow fall for one minute."
+      ],
+      "immutable_facts": [
+        "Duration is one minute.",
+        "Alio warns not to shake the imaginary snow globe."
+      ],
+      "character_roles": [
+        "Alio turns the image into physical comedy."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim thoughts must stop or the exercise guarantees calm."
+      ],
+      "tone_job": "Seasonal visual pause that still feels playful.",
+      "humor_room": "Do not shake it again—especially Alio.",
+      "cultural_friction": "Avoid mindfulness vocabulary about thoughts settling.",
+      "recurrence_context": "Working recurring family: RESET"
+    },
+    {
+      "id": "GS.D23.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Run a three-round spot-switching game that reveals light facts/preferences/traits.",
+      "mechanics": [
+        "Stand together in a circle.",
+        "First caller is the person whose birthday is closest to the middle of the year.",
+        "Round 1 Color Challenge: caller names a color; everyone wearing it quickly and safely switches spots; play a few color rounds.",
+        "Round 2 Likes & Dislikes: move clockwise to the next caller, who names a preference category; everyone it applies to switches spots.",
+        "Round 3 Habits & Traits: next caller names a light trait/habit category; everyone it applies to switches spots.",
+        "Continue while enjoyable and invent own categories."
+      ],
+      "immutable_facts": [
+        "Birthday closest to mid-year selects first caller.",
+        "Round order is Colors -> Likes/Dislikes -> Habits/Traits.",
+        "Clockwise caller progression.",
+        "Dilo says quick swaps only."
+      ],
+      "character_roles": [
+        "Dilo is quick/system-oriented."
+      ],
+      "safety_claim_boundaries": [
+        "Switch spots safely; no pushing/running into furniture.",
+        "Use non-shaming, non-sensitive categories."
+      ],
+      "tone_job": "Energetic get-to-know-you game with precise round structure.",
+      "humor_room": "Slow motion belongs in dramatic movies.",
+      "cultural_friction": "Avoid psychoanalysis/labeling.",
+      "recurrence_context": "Working recurring family: AKCJA"
+    },
+    {
+      "id": "GS.D23.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Invite one simple sincere recent apology without making apology performance compulsory.",
+      "mechanics": [
+        "Sit together in a circle.",
+        "Starter turns to person on their right and says: I am sorry for... followed by a real recent example they want to apologize for."
+      ],
+      "immutable_facts": [
+        "Apology should be simple and recent.",
+        "Alio says apologies do not need fireworks."
+      ],
+      "character_roles": [
+        "Alio keeps it direct."
+      ],
+      "safety_claim_boundaries": [
+        "Do not force anyone to invent an apology or disclose conflict publicly.",
+        "Do not treat apology as automatic repair; recipient does not owe forgiveness on demand."
+      ],
+      "tone_job": "Plain accountability, no ceremony.",
+      "humor_room": "No fireworks.",
+      "cultural_friction": "Avoid bridge-between-hearts metaphor.",
+      "recurrence_context": "Working recurring family: U NAS"
+    },
+    {
+      "id": "GS.D24.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Close the daily RESET sequence with one minute of family silence and an outward good-wish focus, without shared-light halo imagery.",
+      "mechanics": [
+        "Sit together in silence.",
+        "Hold hands only if everyone wants.",
+        "Breathe normally for one minute.",
+        "Use the final pause to extend attention beyond the immediate room/home."
+      ],
+      "immutable_facts": [
+        "Duration is one minute.",
+        "Mimi asks the family to stay a moment longer.",
+        "Source expands shared light beyond home/world."
+      ],
+      "character_roles": [
+        "Mimi is warm and practical."
+      ],
+      "safety_claim_boundaries": [
+        "Touch optional.",
+        "No halo/shared-light/peace-ripple claims."
+      ],
+      "tone_job": "Grounded final Christmas pause.",
+      "humor_room": "One more minute; the rest can wait.",
+      "cultural_friction": "Replace glowing-halo/world-light imagery with a concrete good wish.",
+      "recurrence_context": "Working recurring family: RESET"
+    },
+    {
+      "id": "GS.D24.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Sing one chosen Christmas/winter song together, with festive-color starter.",
+      "mechanics": [
+        "Stand or sit close together.",
+        "Choose one favorite Christmas carol or winter song.",
+        "Person wearing the most festive color starts the first line.",
+        "Everyone joins and sings the rest together."
+      ],
+      "immutable_facts": [
+        "One song is enough.",
+        "Dilo says perfection optional, joy required."
+      ],
+      "character_roles": [
+        "Dilo uses mock-quality-control humor."
+      ],
+      "safety_claim_boundaries": [
+        "No lyric text needs to be printed; families choose their own song.",
+        "Keep volume comfortable."
+      ],
+      "tone_job": "Celebratory and simple.",
+      "humor_room": "No jury for pitch.",
+      "cultural_friction": "Avoid grand claims about purest form of celebration.",
+      "recurrence_context": "Working recurring family: AKCJA"
+    },
+    {
+      "id": "GS.D24.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Close Advent with two rounds: one concrete gratitude from the 24 days and one family wish for Christmas/New Year.",
+      "mechanics": [
+        "Round 1: each person says one thing they are grateful for that happened during this Advent, connected to shared moments/feelings/time together.",
+        "Round 2: each person says one heartfelt wish for the family for Christmas and the New Year."
+      ],
+      "immutable_facts": [
+        "Both gratitude and wish rounds are required.",
+        "Happy Makers note says shy hopes count."
+      ],
+      "character_roles": [
+        "Collective Happy Makers voice should be warm, not syrupy."
+      ],
+      "safety_claim_boundaries": [
+        "No one must produce a profound answer.",
+        "Keep wishes non-prescriptive and non-comparative."
+      ],
+      "tone_job": "Warm close that feels earned after 24 days.",
+      "humor_room": "One true thank-you and one wish are enough.",
+      "cultural_friction": "Avoid warmth-glowing-in-hearts language.",
+      "recurrence_context": "Working recurring family: U NAS"
+    }
+  ]
+}
