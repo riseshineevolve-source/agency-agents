@@ -1,155 +1,152 @@
-# 24 Gentle Steps to Christmas — VideoExpress / Creative Claw Prompt Pack
+# 24 Gentle Steps to Christmas — VideoExpress / Creative Claw Prompts
 
-Status: READY FOR VIDEO PRODUCTION
+Status: PRODUCTION READY
 Date: 2026-10-01
-Rule: preserve real product pages. Do not regenerate page text.
 
-## V01 — DECEMBER IS ALREADY FULL
-Length: 7–9 s
-Format: 9:16
-Primary hook:
-**DECEMBER IS ALREADY FULL.**
-**THIS TAKES TEN MINUTES.**
+Use only current source-truth assets:
+- 24 Gentle Paperback ok(3).pdf
+- 24 Gentle Steps to Christmas COVER HARDCOVER(2).pdf
+- current Happy Makers references
+- approved legacy video motion only as inspiration, never as automatic final footage
 
-Source assets:
-- current cover/title page
-- real `THE JOURNEY` page with no prep / no materials / no extra shopping / no cleanup copy
+General rules:
+- vertical 9:16 unless otherwise specified
+- 7–12 seconds
+- no face morphing or invented characters
+- real page text must stay intact
+- no fake app screens or fake product features
+- no clinical mindfulness claims
+- warm, playful, premium family tone
+- use camera motion, page reveals, parallax, soft snow/light, typography and timing rather than generative face animation
 
-Motion:
-1. Start on a softly blurred lavender/cream winter background.
-2. Exact page slides in from 6–8% scale smaller to full scale.
-3. Slow push-in only; no page morphing.
-4. Headline reveals in two beats.
-5. Three small proof chips appear: NO PREP / NO MATERIALS / NO CLEANUP.
-6. End clean, no extra decorative animation.
+## REEL 01 — DECEMBER IS ALREADY FULL
+HOOK ON SCREEN:
+DECEMBER IS ALREADY FULL.
+THIS TAKES TEN MINUTES.
 
-Audio:
-soft modern winter texture; warm, not sentimental; no sleigh-bell cliché.
+MOTION:
+Start with a warm, slightly busy December tabletop: wrapping ribbon, mug, calendar edge, one glove, pencil. Quick 0.6-second push-ins suggest movement but do not create chaos. Everything pauses. The real book enters center frame. Open to a real daily page. Camera settles.
 
-End card:
-**SAVE THIS FOR DECEMBER.**
+TEXT REVEAL:
+NO PREP.
+NO MATERIALS.
+NO CLEANUP.
 
-Hard locks:
-- no fake book pages
-- no altered product text
-- no glitter storm
-- no child faces generated
-- no medical / outcome claims
+END:
+ONE SMALL SHARED MOMENT BEFORE THE DAY RUNS AWAY.
+CTA: SAVE THIS FOR DECEMBER.
 
-## V02 — ONE DAY. THREE MOMENTS.
-Length: 8–10 s
-Format: 9:16
-Hook:
-**ONE DAY.**
-**THREE SHARED MOMENTS.**
+Audio: warm percussive ticks resolving into one soft bell. No voiceover required.
 
-Use exact real pages / page crops for:
-1. Mindful Moment
-2. Fun Spark
-3. Connection Share
+## REEL 02 — ONE DAY / THREE MOMENTS
+HOOK:
+ONE DAY.
+THREE SHARED MOMENTS.
 
-Motion:
-- cards enter one at a time, left-center-right
-- subtle page-turn / paper slide
-- labels appear only after each card is visible
-- final frame holds all three with:
-  **PAUSE. PLAY. TALK.**
-  **THAT IS THE WHOLE IDEA.**
+MOTION:
+Use three exact real page crops. Do NOT rewrite page text.
+1. Mindful Moment slides in.
+2. Fun Spark clicks beside it.
+3. Connection Share completes the triptych.
+Use a restrained gold line to connect the three.
 
-CTA:
-**SEE HOW A DAY WORKS.**
+SUPER:
+PAUSE.
+PLAY.
+TALK.
 
-## V03 — SPARKLING TORNADO → SOFT LANDING
-Length: 9–11 s
-Format: 9:16
-Hook:
-**IF DECEMBER FEELS LIKE A BEAUTIFUL, SPARKLING TORNADO…**
+END:
+THAT IS THE WHOLE IDEA.
+CTA: SEE HOW A DAY WORKS.
 
-Opening:
-fast but tasteful 1.5–2 s montage: calendar squares, keys, wrapping paper, school bag, one missing sock, phone notification. No stressed-child acting.
+## REEL 03 — SPARKLING TORNADO
+HOOK:
+IF DECEMBER FEELS LIKE A BEAUTIFUL, SPARKLING TORNADO…
 
-Then everything drops to silence.
+MOTION:
+Fast-but-elegant montage of ordinary December overload: notifications represented abstractly, wrapping paper, school bag, half-tied ribbon, missing sock. No stressed child close-ups. The motion freezes.
 
-Reveal exact real Day 23 / Silent Snow-Globe page.
+CUT TO:
+real Day page / book in a calm pool of warm light.
 
-Text:
-**THIS IS YOUR SOFT LANDING.**
+PAYOFF:
+THIS IS YOUR SOFT LANDING.
 
-Small:
-**One tiny pause before the day runs away.**
+SMALL:
+TEN MINUTES.
+NO PERFECT FAMILY REQUIRED.
 
 CTA:
-**SAVE THIS FOR THE BUSY DAYS.**
+SAVE THIS FOR THE BUSY DAYS.
 
-## V04 — CALM DOES NOT HAVE TO BE SERIOUS
-Length: 8–10 s
-Format: 9:16
-Hook:
-**CALM DOES NOT HAVE TO BE SERIOUS.**
+## REEL 04 — CALM DOES NOT HAVE TO BE SERIOUS
+HOOK:
+CALM DOES NOT HAVE TO BE SERIOUS.
 
-Use:
-- exact current Happy Makers still only if identity is fully locked
-- otherwise use real page notes and book objects only
+MOTION:
+Show a real Mindful Moment page.
+Then cut to a real funny Happy Makers note / playful Fun Spark.
+Keep the Happy Makers as exact still art; animate only framing, zoom, text masks or page turns.
 
-Sequence:
-- real Mindful Moment line
-- playful Happy Makers note
-- one Fun Spark line
-
-End:
-**A LITTLE PAUSE.**
-**A LITTLE LAUGHTER.**
-**A LITTLE MORE ROOM FOR EACH OTHER.**
+PAYOFF:
+A LITTLE PAUSE.
+A LITTLE LAUGHTER.
+A LITTLE MORE ROOM FOR EACH OTHER.
 
 CTA:
-**MEET THE HAPPY MAKERS.**
+MEET THE HAPPY MAKERS.
 
-## V05 — THE GOAL IS NOT TO DO MORE
-Length: 7–9 s
-Format: 9:16
+## REEL 05 — BOOK / EBOOK / APP
+Only use after each format has a verified real asset/status.
 
-Hook:
-**THE GOAL IS NOT TO DO MORE.**
+HOOK:
+SAME 24-DAY JOURNEY.
+CHOOSE HOW YOUR FAMILY WANTS TO USE IT.
 
-Beat 2:
-**IT IS TO NOTICE MORE OF WHAT IS ALREADY HERE.**
+MOTION:
+One clean product card at a time:
+PAPERBACK
+EBOOK
+APP
 
-Visual:
-- clean real family-intro page
-- one real connection page
-- restrained warm winter light
+Do not imply a format is live if it is not.
+No fake store badges.
 
-End:
-**24 DAYS • AROUND 10 MINUTES A DAY**
+END:
+ONE DECEMBER RITUAL.
+YOUR WAY.
 
-CTA:
-**KEEP THIS FOR DECEMBER.**
+CTA prelaunch:
+WHICH ONE WOULD YOUR FAMILY USE?
 
-## V06 — BOOK / EBOOK / APP
-Create only when exact format assets and availability status are verified.
+CTA live:
+CHOOSE YOUR FORMAT.
 
-Hook:
-**SAME 24-DAY JOURNEY.**
-**CHOOSE HOW YOUR FAMILY WANTS TO USE IT.**
+## REEL 06 — NOTICE MORE
+HOOK:
+THE GOAL IS NOT TO DO MORE.
 
-Three format cards:
-- BOOK
-- EBOOK
-- APP
+beat
 
-Do not imply all three are live until all live links are verified.
-CTA at prelaunch:
-**WHICH VERSION WOULD YOUR FAMILY USE?**
-CTA when live:
-**CHOOSE YOUR FORMAT.**
+IT IS TO NOTICE MORE
+OF WHAT IS ALREADY HERE.
 
-## Global production QA
-- use current Gentle Steps palette: lavender / plum / blush / cream / restrained gold
-- current Happy Makers only
-- faces remain static unless an approved animation source exists
-- never generate or rewrite book-page text
-- keep all primary text readable on a phone
-- no generic Christmas stock collage
-- no corporate mindfulness UI
-- no loud gaming language for this product
-- one hook and one CTA only
+MOTION:
+real family intro / real connection page / warm detail shots.
+Slow 3% push in.
+No glitter explosion.
+
+END:
+24 DAYS.
+AROUND TEN MINUTES A DAY.
+CTA: KEEP THIS FOR DECEMBER.
+
+## Reject conditions
+Reject output if:
+- any Happy Maker changes face or age
+- Nini gains extra hair buns/ponytails
+- old purple website-only styling is substituted when the source visual differs
+- words become garbled
+- product page is invented
+- tone turns therapeutic, preachy or perfectionist
+- video looks like generic Christmas stock advertising
