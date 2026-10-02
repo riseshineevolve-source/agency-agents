@@ -1,0 +1,10 @@
+{
+  "version": "02",
+  "status": "READY_FOR_OWNER_REVIEW",
+  "master_blob_sha": "d87db6767dc76298f443b9bb9ad012443dee9969",
+  "title_locked": false,
+  "recurring_labels_locked": false,
+  "copy_locked": false,
+  "surface_fit_locked": false,
+  "publication_authorized": false
+}
