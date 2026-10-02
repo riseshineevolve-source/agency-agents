@@ -8,6 +8,9 @@ Version 01 frozen baseline:
 Version 02 creative direction:
 `localization/pl-PL/production/gentle-steps/versions/v02/CREATIVE_BRIEF.md`
 
+Happy Makers voice bible:
+`localization/pl-PL/production/gentle-steps/versions/v02/HAPPY_MAKERS_VOICE_BIBLE.md`
+
 Structure lock:
 - 24 days;
 - every day contains exactly three elements: **ZWOLNIJ / GRAMY / MIĘDZY NAMI**;
@@ -265,7 +268,7 @@ Luli: Jeśli połowa rodziny idzie w lewo, a druga w prawo, nie ogłaszamy rozł
 Każdy podaje jedno zdanie albo kilka słów, które dobrze mu usłyszeć od kogoś z rodziny, kiedy ma już dość.
 
 Nie musi to być nic wielkiego. Czasem wystarczy:
-„Ja to ogarnę”.
+„Ja się tym zajmę”.
 „Zostawiłem ci kawałek”.
 „Nie musisz teraz odpowiadać”.
 „Chcesz chwilę dla siebie?”.
@@ -504,7 +507,7 @@ Mimi: Bez przemowy. Dziś oczy załatwiają formalności.
 
 Zaczyna osoba, która ma najdłuższe drugie imię. Jeśli nikt nie ma drugiego imienia, zaczyna osoba z najdłuższym pierwszym imieniem.
 
-Osoba rozpoczynająca w tajemnicy wybiera dowolną rozpoznawalną postać, zwierzę, bohatera, przedmiot albo postać z bajki.
+Osoba rozpoczynająca w tajemnicy wybiera dowolną rozpoznawalną osobę, zwierzę, przedmiot albo bohatera filmu, książki czy bajki.
 
 Następnie opisuje swój wybór dokładnie pięcioma pojedynczymi słowami:
 1. trzy słowa muszą być prawdziwymi wskazówkami,
@@ -557,7 +560,7 @@ Po przejściu zmieńcie role. Kontynuujcie, aż każdy przynajmniej raz przejdzi
 
 Jeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła tak, żeby tworzyły umowną bramę. Przechodźcie przez nią po kolei i podczas przejścia mówcie sobie nawzajem kilka życzliwych słów.
 
-Mimi: Wejście jak na premierę. Czerwony dywan jest dziś w wersji wyobrażonej.
+Mimi: Wejście jak na premierę. Czerwony dywan dziś tylko w wyobraźni.
 
 ### MIĘDZY NAMI: CZEGO NIE DA SIĘ KUPIĆ?
 
@@ -599,7 +602,7 @@ Na koniec spróbujcie wykonać wszystkie rytmy po kolei, od pierwszego do ostatn
 
 Dilo: Tempo dowolne. Chaos rytmiczny nie jest tym samym co interpretacja artystyczna.
 
-### MIĘDZY NAMI: JEDNO, CO W TOBIE CENIĘ
+### MIĘDZY NAMI: CO W TOBIE CENIĘ
 
 Pierwsza osoba zwraca się do osoby siedzącej po lewej stronie i mówi jedną krótką, konkretną rzecz, którą w niej ceni.
 
@@ -809,7 +812,7 @@ Dilo: Szybciej. Geometria nie będzie na nas czekać.
 
 ### MIĘDZY NAMI: CO LUBIMY W NASZYM DOMU?
 
-Pierwsza osoba mówi jedną rzecz, która naprawdę sprawia jej przyjemność w domu.
+Pierwsza osoba mówi jedną rzecz, którą naprawdę lubi w swoim domu.
 
 Może to być konkretne miejsce, zapach, dźwięk, zwyczaj albo coś, co dzieje się tylko u was.
 
@@ -825,7 +828,7 @@ Mimi: Jeśli lista zaczyna brzmieć jak piosenka, spokojnie. Karaoke jeszcze nie
 
 ## DZIEŃ 20
 
-### ZWOLNIJ: MINUTA DLA TWARZY
+### ZWOLNIJ: CZOŁO, OCZY, SZCZĘKA
 
 Usiądźcie blisko siebie i zamknijcie oczy.
 
@@ -926,7 +929,7 @@ Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z t
 „Najbardziej sobą czuję się, kiedy…”
 „Jedna prawdziwa rzecz o mnie dzisiaj to…”
 „Coś ważnego w moim życiu teraz, czego nie widać od razu, to…”
-„Jedna rzecz, której chciałbym mieć w sobie trochę więcej, to…”
+„Jedna cecha, której czasem mi brakuje, to…”
 „Słowo, które kojarzy mi się z domem, to…”
 „Słowo, które ostatnio dodaje mi siły, to…”
 
@@ -1032,7 +1035,7 @@ Jeśli wszyscy mają na to ochotę, możecie złapać się za ręce. Jeśli nie,
 
 Przez minutę oddychajcie swobodnie i niczego nie planujcie.
 
-Nie poprawiamy już grudnia. Nie sprawdzamy, czego nie zdążyliśmy. Ta minuta jest dokładnie taka, jaka jest.
+Nie poprawiamy już grudnia. Nie sprawdzamy, czego nie zdążyliśmy. Przez tę minutę niczego nie trzeba już naprawiać ani nadrabiać.
 
 Na koniec pomyślcie o jednej osobie albo rodzinie poza tym pokojem, której chcielibyście dziś po prostu życzyć czegoś dobrego. Nie trzeba tego mówić na głos.
 
