@@ -32,3 +32,23 @@ invent missing copy or deduplicate the repeated loadout page.
 The endgame should become its own typed source graph/runtime sequence after the
 visual gate is resolved. No localization, scoring, entitlement, auth, paywall,
 signing or publication work is authorized here.
+
+
+## Canonical re-read — 2026-10-02
+
+Re-read the canonical paperback directly for pp. 93–104. Confirmed indexed text:
+
+- p93: `MISSION ACCOMPLISHED!` / `FINAL_RANK_CONFIRMED`;
+- p94: `ENDGAME PROTOCOL` / `SYSTEM_HANDOVER_COMPLETE`;
+- p95: `NEVER FIGHT SOLO` / `SQUAD_LINK_UPGRADED`;
+- p96: both published Emergency Codes and their meanings/operations;
+- p97: Ultimate Loadout code list;
+- p98: Create Your Own Secret Code prompts/instructions;
+- p99: repeated published Ultimate Loadout page — preserve it, do not deduplicate;
+- p100: `BONUS HACK: THE 'SYSTEM FREEZE' OVERRIDE` heading only in indexed text;
+- p101: `BONUS HACK: THE 'MENTAL SWIPE' MANEUVER` heading only in indexed text;
+- p102: Learning Hub handoff copy;
+- p103: only `SYSTEM: ONLINE LVL_INDEX: 103` is readable in the indexed layer;
+- p104: final Neuro-Commander closing copy.
+
+The file service still exposes no usable page images for pp. 93–95, 100–101 or 103, and raw-byte materialization of the canonical Project PDF is not authorized. Those pages remain a real visual-source gate. No body copy may be invented for them.
