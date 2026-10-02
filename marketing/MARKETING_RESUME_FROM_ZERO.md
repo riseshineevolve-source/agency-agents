@@ -1,9 +1,31 @@
 # RSE Marketing Autopilot — Resume From Zero
 
 Status: CANONICAL RECOVERY ENTRYPOINT
-Updated: 2026-09-29
+Updated: 2026-10-02
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
+
+
+## 2026-10-02 execution override
+
+Read these dated Marketing files immediately after this recovery entrypoint; they supersede older snapshots below where they conflict:
+- `marketing/DETECTIVE_ASSET_QA_2026-10-02.md`
+- `marketing/DETECTIVE_MARKETING_SOURCE_TRACEABILITY_2026-10-02.md`
+- `marketing/GENTLE_STEPS_READY_ASSET_MANIFEST_2026-10-02.md`
+- `marketing/GENTLE_STEPS_FORMAT_CHOICE_CAMPAIGN_2026-10-02.md`
+- `marketing/GENTLE_STEPS_A_PLUS_STORE_COPY_2026-10-02.md`
+- `marketing/DRIVE_ASSET_CURATION_2026-10-02.md`
+- `marketing/PERFORMANCE_MEMORY_DELTA_2026-10-02.md`
+
+Critical corrections:
+- Detective front cover is FINAL / owner-locked: `OSTATECZNA OKLADKA ROOM ZERO.png`, SHA-256 `2570df512f3883663aca1c4e5359ba12aa0489276f484b86ac5623ab037429a9`.
+- exact circular scanner/question-mark mark remains the only Detective Academy logo;
+- current Detective opening-page marketing proof follows the explicit owner-locked page map in `orchestration/detective/DETECTIVE_ACADEMY_FIRST20_OWNER_LOCK_2026-10-01.md`: p9 Recruit Credential, p12 Case Wall + Hint Vault;
+- do not reuse older p6/p11 marketing derivatives;
+- Gentle Steps raw page export is working and six source-grounded statics are owner-review ready;
+- paperback / ebook / app availability is verified separately; pre-link format-choice copy is not an availability claim.
+
+Product repositories remain read-only to Marketing.
 
 ## Rule zero
 
@@ -114,7 +136,7 @@ English remains **NOT FROZEN**. Do not announce a publication-ready date, final 
 
 ## Current Detective cover + A+ truth
 
-Front-cover selection is **REOPENED / OWNER SELECTION PENDING** as of 2026-09-24. The previously named `front cover final.png` is explicitly NOT final, and no front candidate is currently locked. Do not regenerate or alter candidates unless the owner asks, and do not use any previous candidate as the wrap/A+ source of truth until the owner explicitly names the winning file. The current question-mark/scanner Academy logo direction remains locked.
+Front cover is **FINAL / OWNER-LOCKED / DO NOT TOUCH**. The immutable source is `OSTATECZNA OKLADKA ROOM ZERO.png`, dimensions 1086×1448 px, SHA-256 `2570df512f3883663aca1c4e5359ba12aa0489276f484b86ac5623ab037429a9`. Do not regenerate, recompose, restyle, face-swap, recolor or substitute it unless the owner explicitly reopens the decision. The exact circular scanner/question-mark Academy mark remains the only approved Detective Academy logo.
 
 Canonical packaging brief:
 - `marketing/DETECTIVE_ACADEMY_COVER_A_PLUS_VISUAL_LOCK.md`
@@ -125,7 +147,6 @@ Back-cover copy/hierarchy/visual rules and the five-module A+ brief are locked f
 A bounded modern-prop handoff also exists for the HMDA_02 / HMDA_13 / HMDA_29 pilot: builder commit `7b1d27d`, package SHA-256 `771584ed7425c1b66a9c902baa4b36d763a13ddd3432180caf2ce05769299347`, 23 exact stable asset IDs. No final prop art is owner-approved. Final prop visuals must be created outside Codex, then owner-reviewed and SHA-registered before any three-pilot integration render/QA. Rejected V4 prop art must not be scaled across all 15 maps.
 
 Remaining owner-controlled gates:
-- explicit winning Detective front-cover file selection
 - exact four-file Detective interior visual set approval/delivery
 - final interior visual approval / representative physical proof
 - final back-cover/full-wrap + physical-proof approval
@@ -134,7 +155,7 @@ Remaining owner-controlled gates:
 - pricing
 - KDP upload / publication
 
-Current Detective product owner actions are independent: **select the winning front-cover file when ready**, and **provide the four final interior visual files when ready**. Neither gate implies English-source freeze.
+Current Detective owner actions are independent. The front cover is already locked; remaining product gates must be verified from current product checkpoints before Marketing changes proof status. No product gate implies English-source freeze unless that freeze is explicit.
 
 Polish full-book production begins only after explicit English-source freeze. Canva remains a finishing layer only; repeated layouts, hints, solutions and print output stay code-driven.
 
@@ -281,7 +302,6 @@ Owner approval required for:
 - paid activation / new budget / budget increase
 - pricing
 - discount / promotion
-- winning Detective front-cover file selection
 - exact four-file Detective final interior visual set
 - final Detective English interior visual approval / source freeze
 - final Detective back/full-wrap and physical proof
