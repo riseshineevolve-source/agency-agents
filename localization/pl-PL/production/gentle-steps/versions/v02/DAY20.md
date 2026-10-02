@@ -6,7 +6,7 @@
 
 Usiądźcie blisko siebie i zamknijcie oczy.
 
-Przez minutę sprawdźcie, czy twarz nie jest bardziej napięta, niż musi. Jeśli tak, spróbujcie trochę odpuścić. Niczego nie róbcie na siłę.
+Przez minutę sprawdźcie trzy miejsca. Najpierw czoło, potem okolice oczu, a na końcu szczękę. Jeśli któreś z nich jest napięte, spróbujcie trochę odpuścić. Niczego nie róbcie na siłę.
 
 Na koniec zróbcie jeden zwykły, dłuższy wydech.
 
