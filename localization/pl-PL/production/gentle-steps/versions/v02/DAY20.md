@@ -2,7 +2,7 @@
 
 ## DZIEŃ 20
 
-### ZWOLNIJ: MINUTA DLA TWARZY
+### ZWOLNIJ: CZOŁO, OCZY, SZCZĘKA
 
 Usiądźcie blisko siebie i zamknijcie oczy.
 
