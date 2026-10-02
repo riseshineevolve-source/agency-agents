@@ -518,7 +518,7 @@ class GentleStepsVersion02(unittest.TestCase):
     def test_v02_full_book_has_24_days_and_three_sections_each(self):
         rendered = self.MASTER.read_text(encoding="utf-8")
         daily = rendered[rendered.index("## DZIEŃ 1"):]
-        self.assertEqual(daily.count("\n## DZIEŃ "), 24)
+        self.assertEqual(daily.count("## DZIEŃ "), 24)
         self.assertEqual(daily.count("\n### ZWOLNIJ:"), 24)
         self.assertEqual(daily.count("\n### GRAMY:"), 24)
         self.assertEqual(daily.count("\n### MIĘDZY NAMI:"), 24)
