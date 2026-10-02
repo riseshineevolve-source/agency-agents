@@ -55,3 +55,10 @@ Assemble the 32 extracted blocks into the canonical typed content pack when the
 GitHub write path accepts the combined payload, validate it, then import through
 the shared app runtime. In parallel-safe source work, continue with Level 17
 from page 64.
+
+
+## Canonical paperback verification — 2026-10-02
+
+Cross-checked against the canonical paperback text layer, pages 55–63, SHA-256 `e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76`.
+
+The prepared 32-node typed candidate/evidence pair passed structural verification: contiguous node IDs, valid next_id chain, exact page-range provenance, matching evidence IDs, EN supported / pl-PL planned, and no runtime XP/score/entitlement/auth/paywall fields. Printed source copy such as `XP REWARD` remains source text only and must not be interpreted as a runtime scoring engine.
