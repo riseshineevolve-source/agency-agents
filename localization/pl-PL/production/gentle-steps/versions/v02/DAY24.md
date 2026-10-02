@@ -10,7 +10,7 @@ Jeśli wszyscy mają na to ochotę, możecie złapać się za ręce. Jeśli nie,
 
 Przez minutę oddychajcie swobodnie i niczego nie planujcie.
 
-Nie poprawiamy już grudnia. Nie sprawdzamy, czego nie zdążyliśmy. Ta minuta jest dokładnie taka, jaka jest.
+Nie poprawiamy już grudnia. Nie sprawdzamy, czego nie zdążyliśmy. Przez tę minutę niczego nie trzeba już naprawiać ani nadrabiać.
 
 Na koniec pomyślcie o jednej osobie albo rodzinie poza tym pokojem, której chcielibyście dziś po prostu życzyć czegoś dobrego. Nie trzeba tego mówić na głos.
 
