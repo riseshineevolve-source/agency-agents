@@ -21,32 +21,46 @@ Reject:
 - face swaps or face animation;
 - invented puzzle layouts or reconstructed page text.
 
+## Controlling current product proof
+
+Later durable product checkpoint:
+`checkpoint/detective-kdp-ready-2026-10-01`
+
+Checkpoint:
+`orchestration/brain/checkpoints/2026-10-01-detective-kdp-ready-closeout.md`
+
+Registered KDP-ready interior:
+`HMDA_Book1_EN_KDP_READY_INTERIOR_2026-10-01.pdf`
+
+SHA-256:
+`b8ce5d8bb29d1a426a95b80fb986ef2b9e38f60c9972e372d01d52af4a94057d`
+
+State:
+- 180 pages, US Letter;
+- KDP-ready interior candidate;
+- KDP Previewer and physical proof remain owner gates;
+- English is not frozen until explicit owner `FREEZE EN`.
+
+This later checkpoint supersedes conflicting interim opening-page notes for Marketing.
+
+Exact registered-artifact inspection performed 2026-10-02 confirms:
+- p6 = **CLAIM YOUR RECRUIT CREDENTIAL**;
+- p11 = **YOUR CASE WALL + HINT VAULT**;
+- p12 = **CASE WALL // RECORD ZONES**.
+
+Therefore older marketing notes that treated p9 Recruit Credential / p12 Hint Vault as current are retired.
+
 ## Current safe marketing derivatives
 
 READY / owner-review:
-- `STATIC_01_ONE_DETECTIVE_IS_MISSING_V2.png` — exact final-cover source; current replacement for the stale call-sign version.
-- `STATIC_02_DONT_GUESS_PROVE_IT.png` — exact clean Case 29 map source.
-- `STATIC_03_DIFFERENT_MINDS_ONE_TEAM.png` — exact current six-character source.
+- `STATIC_01_ONE_DETECTIVE_IS_MISSING_V2.png` — exact final-cover source — SHA-256 `8a856198fe5b94853ece0ca21286f3cf800c63ab7d31b0183f10528176fae08a`.
+- `STATIC_02_DONT_GUESS_PROVE_IT.png` — exact clean Case 29 map source — SHA-256 `42c3347958d5791e1355b12ca8caa41c2ae8369ae5853adb5c569a6c9494f616`.
+- `STATIC_03_DIFFERENT_MINDS_ONE_TEAM.png` — exact current six-character source — SHA-256 `4726295772f4a52aab3b7a4d5ec5d2eba7afe5e023d8747f92bf0a7130c922e4`.
+- `HMDA_SOC_04_FIRST_CASE_BEFORE_CASE01_4x5_V2.png` — exact current p6 Recruit Credential — SHA-256 `fa1585bdd85d568632398c92fe296f12ab53fb4ba28bb6ba9f9566dad56f03d9`.
+- `HMDA_SOC_05_GETTING_STUCK_4x5_V5.png` — exact current p11 Hint Vault — SHA-256 `c3ddd3523a98b5558d688de5adb03d2b9ec233e7ad7e04b0a294096809c34b48`.
 
-The dated QA record remains:
-`marketing/DETECTIVE_ASSET_QA_2026-10-02.md`.
-
-## Current opening-page source truth
-
-Authority:
-`orchestration/detective/DETECTIVE_ACADEMY_FIRST20_OWNER_LOCK_2026-10-01.md`.
-
-Owner-locked page map:
-- p9 = **Claim Your Recruit Credential**;
-- p12 = **Case Wall + Hint Vault**.
-
-Important: the same checkpoint contains an older subsection that still says “Page 9 CASE WALL + HINT VAULT.” For marketing traceability, the explicit owner-locked page map is the controlling current sequence. Do not make a p9/p12 product-proof creative until the exact current page export is supplied and visually checked against that page map.
-
-Therefore:
-- `THE FIRST CASE STARTS BEFORE CASE 01.` = COPY READY / VISUAL BLOCKED pending exact current p9 export;
-- `GETTING STUCK IS PART OF THE CASE. THE SKILL IS KNOWING WHAT TO TRY NEXT.` = COPY READY / VISUAL BLOCKED pending exact current p12 export.
-
-Do not reuse older p6 Recruit Credential or p11 Hint Vault derivatives.
+Current pack:
+`marketing/DETECTIVE_PRODUCT_PROOF_PACK_2026-10-02.md`
 
 ## Copy locks
 
@@ -71,20 +85,20 @@ No Amazon, price, availability, discount, review, rating, bestseller or publicat
 Safe now:
 1. immutable final cover;
 2. clean Case 29 map;
-3. exact current six-character set.
+3. exact current six-character set;
+4. exact current p6 Recruit Credential;
+5. exact current p11 three-level Hint Vault.
 
 Source-gated:
-4. Recruit Credential — exact current p9 export;
-5. Hint Vault — exact current p12 export;
-6. any additional interior proof — exact current approved page/crop only.
+6. any additional interior proof — exact current product-page crop only.
 
 No A+ module may use a fake puzzle page or a recreated text-heavy page.
 
 ## Current owner gates
 
 - owner review of first live marketing batch;
-- exact current p9 and p12 exports for the two gated proof creatives;
-- product physical-proof / English-freeze gates remain outside Marketing;
+- KDP Previewer and representative physical proof;
+- explicit English freeze;
 - verified live listing URL before retail CTA;
 - publishing remains owner-controlled.
 
