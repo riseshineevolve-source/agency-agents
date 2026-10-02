@@ -511,5 +511,53 @@ class GentleStepsFullDaysOwnerReview(unittest.TestCase):
             self.assertNotIn(regression, rendered)
 
 
+class GentleStepsVersion02(unittest.TestCase):
+    ROOT_DIR = ROOT / "localization/pl-PL/production/gentle-steps/versions/v02"
+    MASTER = ROOT_DIR / "GENTLE_STEPS_PL_VERSION_02_MASTER.md"
+
+    def test_v02_full_book_has_24_days_and_three_sections_each(self):
+        rendered = self.MASTER.read_text(encoding="utf-8")
+        daily = rendered[rendered.index("## DZIEŃ 1"):]
+        self.assertEqual(daily.count("\n## DZIEŃ "), 24)
+        self.assertEqual(daily.count("\n### ZWOLNIJ:"), 24)
+        self.assertEqual(daily.count("\n### GRAMY:"), 24)
+        self.assertEqual(daily.count("\n### MIĘDZY NAMI:"), 24)
+
+    def test_v02_reader_copy_respects_polish_house_style(self):
+        rendered = self.MASTER.read_text(encoding="utf-8")
+        daily = rendered[rendered.index("## DZIEŃ 1"):]
+        self.assertNotIn("—", daily)
+        for regression in (
+            "mindfulness",
+            "uważność",
+            "brzmi sprawnie",
+            "„bam”, „ding” albo „pff”",
+            "chciałbym / chciałabym",
+            "gotowy/gotowa",
+            "wewnętrzne światło",
+            "wspólny oddech przepływa",
+        ):
+            self.assertNotIn(regression.lower(), daily.lower())
+
+    def test_v02_includes_reauthored_back_matter(self):
+        rendered = self.MASTER.read_text(encoding="utf-8")
+        for heading in (
+            "## PO TYCH 24 DNIACH",
+            "## NIE OBIECUJEMY IDEAŁU",
+            "## NA KONIEC",
+            "## LIST OD HAPPY MAKERS",
+        ):
+            self.assertIn(heading, rendered)
+
+        gate = load(self.ROOT_DIR / "V02_OWNER_REVIEW_GATE.json")
+        audit = load(self.ROOT_DIR / "V02_FULL_BOOK_AUDIT_2026-10-02.json")
+        self.assertEqual(gate["status"], "READY_FOR_OWNER_REVIEW")
+        self.assertFalse(gate["title_locked"])
+        self.assertFalse(gate["recurring_labels_locked"])
+        self.assertFalse(gate["publication_authorized"])
+        self.assertEqual(audit["coverage"]["days"], 24)
+        self.assertEqual(audit["coverage"]["sections"], 72)
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
