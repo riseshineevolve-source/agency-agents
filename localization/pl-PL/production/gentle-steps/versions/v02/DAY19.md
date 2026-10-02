@@ -30,7 +30,7 @@ Dilo: Szybciej. Geometria nie będzie na nas czekać.
 
 ### MIĘDZY NAMI: CO LUBIMY W NASZYM DOMU?
 
-Pierwsza osoba mówi jedną rzecz, która naprawdę sprawia jej przyjemność w domu.
+Pierwsza osoba mówi jedną rzecz, którą naprawdę lubi w swoim domu.
 
 Może to być konkretne miejsce, zapach, dźwięk, zwyczaj albo coś, co dzieje się tylko u was.
 
