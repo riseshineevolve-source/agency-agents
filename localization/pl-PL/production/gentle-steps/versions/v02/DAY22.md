@@ -21,7 +21,7 @@ Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z t
 „Najbardziej sobą czuję się, kiedy…”
 „Jedna prawdziwa rzecz o mnie dzisiaj to…”
 „Coś ważnego w moim życiu teraz, czego nie widać od razu, to…”
-„Jedna rzecz, której chciałbym mieć w sobie trochę więcej, to…”
+„Jedna cecha, której czasem mi brakuje, to…”
 „Słowo, które kojarzy mi się z domem, to…”
 „Słowo, które ostatnio dodaje mi siły, to…”
 
