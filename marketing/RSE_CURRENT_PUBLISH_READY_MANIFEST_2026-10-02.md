@@ -2,11 +2,14 @@
 
 Status: MARKETING-QA PASS / OWNER-REVIEW READY / PRE-LINK
 
+Current product override:
+- `orchestration/brain/checkpoints/2026-10-02-detective-scaleout-and-kdp-regression-gate.md`
+- `orchestration/detective/DETECTIVE_KDP_REGRESSION_GATE.md`
+- `marketing/DETECTIVE_FIRST18_MARKETING_HOLD_2026-10-02.md` when present; until then use `orchestration/marketing/2026-10-02_MARKETING_EXECUTION_SLICE_15_MIN.md`.
+
 ## Detective Academy
 
-Controlling marketing source:
-`marketing/DETECTIVE_PRODUCT_PROOF_PACK_2026-10-02.md`
-
+### READY / owner-review
 1. `STATIC_01_ONE_DETECTIVE_IS_MISSING_V2.png`
    - source: exact owner-locked final cover
    - SHA-256: `8a856198fe5b94853ece0ca21286f3cf800c63ab7d31b0183f10528176fae08a`
@@ -25,61 +28,45 @@ Controlling marketing source:
    - hook: DIFFERENT MINDS. ONE STRONG TEAM.
    - CTA: Which detective mode sounds like your child?
 
+### HOLD / REWORK
 4. `HMDA_SOC_04_FIRST_CASE_BEFORE_CASE01_4x5_V2.png`
-   - source: exact current KDP-ready p6 Recruit Credential
-   - SHA-256: `fa1585bdd85d568632398c92fe296f12ab53fb4ba28bb6ba9f9566dad56f03d9`
-   - hook: THE FIRST CASE STARTS BEFORE CASE 01.
-   - CTA: Follow.
+   - historical p6 Recruit Credential crop
+   - HOLD while First18 / Case 01 is under active owner review
+   - copy idea remains valid; visual must be re-exported from owner-accepted First18.
 
 5. `HMDA_SOC_05_GETTING_STUCK_4x5_V5.png`
-   - source: exact current KDP-ready p11 three-level Hint Vault
-   - SHA-256: `c3ddd3523a98b5558d688de5adb03d2b9ec233e7ad7e04b0a294096809c34b48`
-   - hook: GETTING STUCK IS PART OF THE CASE.
-   - CTA: Save this.
+   - historical p11 Hint Vault crop
+   - HOLD while First18 / Case 01 is under active owner review
+   - copy idea remains valid; visual must be re-exported from owner-accepted First18.
 
-Reject older Recruit/Hint derivatives and the stale Missing Detective call-sign version.
+Do not call the earlier full-book artifact `KDP READY`. Current release-state vocabulary is:
+DRAFT -> OWNER REVIEW -> KDP PREVIEWER CANDIDATE -> PHYSICAL PROOF CANDIDATE -> EN FROZEN.
 
 ## 24 Gentle Steps to Christmas
 
 Controlling manifest:
 `marketing/GENTLE_STEPS_READY_ASSET_MANIFEST_2026-10-02.md`
 
+Owner-review-ready marketing masters:
 1. `GS_SOC_01_DECEMBER_FULL_4x5_V1.jpg`
-   - source: exact hardcover front
-   - SHA-256: `f6d204ca66cba63de653b134fd03ce0aa1be2c7d541b4ca6a739444e6b94aa53`
-
 2. `GS_SOC_02_THREE_SHARED_MOMENTS_4x5_V3.jpg`
-   - source: exact pp15–17
-   - SHA-256: `571f6287d9f51df8f293af6c021077b4f16bb00109e278596358a20ea0cb017a`
-
 3. `GS_SOC_03_SPARKLING_TORNADO_4x5_V1.jpg`
-   - source: exact hardcover front
-   - SHA-256: `081d90165f605edbb3db9a626da739624ff36e362e5c7f952019b5af6a7d47c7`
-
 4. `GS_SOC_04_DAY01_4x5_V3.jpg`
-   - source: exact pp21–23
-   - SHA-256: `0337d1c888d6fca4d3dd4f553a0a73dcebdbfe71eba2bc6714208b89c1953b19`
-
 5. `GS_SOC_05_FAMILY_MACHINE_4x5_V1.jpg`
-   - source: exact p50
-   - SHA-256: `525c93c72de54af916e231cbc29acd74f4c0ba4d3200a0fc3df6bc905f4d1a85`
-
 6. `GS_SOC_06_FAMILY_MOTTO_4x5_V1.jpg`
-   - source: exact p51
-   - SHA-256: `371172e667b2142fee94efe89d83ebe608b54715998863bdd88e9f93d52a4662`
 
 Campaign-level rhythm: Mindful Moment / Fun Spark / Connection Share.
-Book / ebook / app remain format-choice concepts only until each live state, real asset and URL are verified.
+Book / ebook / app remain format-choice concepts only until each real asset, live state and URL are verified.
 
-## Motion / A+ source rule
+## Motion / A+ rule
 
-VideoExpress / Creative Claw may use the exact stills above with camera movement, masks, scanner/light sweeps and typography only. Printed product pages and faces remain static.
-
-A+ must use exact source proof only. No fake page, fake app UI, fake badge, price, review, award, availability or store claim.
+Use exact stills and exact accepted product-page proof only.
+Faces and printed pages remain static.
+No fake page, fake app UI, fake store badge, price, review, award, availability or publication claim.
 
 ## Channel state
 
-Fresh Metricool check on 2026-10-02:
+Fresh Metricool verification from 2026-10-02:
 - Facebook / Instagram / YouTube connected;
 - TikTok absent;
 - scheduled posts through Oct 31 = 0.
