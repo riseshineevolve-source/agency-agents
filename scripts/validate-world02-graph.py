@@ -60,7 +60,7 @@ MISSION_SPECS = {
         "level": 17,
         "pages": [64,71],
         "blocks": 30,
-        "types": Counter({"dialogue":13,"system_log":6,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}),
+        "types": Counter({"dialogue":14,"system_log":8,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}),
     },
 }
 
