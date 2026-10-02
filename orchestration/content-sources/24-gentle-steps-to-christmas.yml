@@ -64,6 +64,8 @@ localization:
       - MIĘDZY NAMI
     recurring_labels_locked: false
     punctuation_house_style: no_em_dash_in_reader_facing_polish
+    polish_title_candidates_file: localization/pl-PL/production/gentle-steps/POLISH_TITLE_OWNER_CANDIDATES_2026-10-02.md
+    polish_title_locked: false
     daily_program_complete: true
     daily_program_units: 72
     daily_program_owner_review_ready: true
