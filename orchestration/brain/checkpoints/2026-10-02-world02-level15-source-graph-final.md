@@ -11,3 +11,8 @@ EN supported; pl-PL planned only. XP text is source copy only. No scoring, entit
 Editorial watchlist: review the science wording in FILE 043, FILE 044 and BRAIN_HACK later. Extraction preserves the source wording and does not silently revise it.
 
 Next after green CI: import the exact pack into the shared runtime, prove opener/FILE 045/family-code rendering, keep incomplete World 02 hidden from production navigation, then continue to Level 16.
+
+
+## Canonical paperback verification — 2026-10-02
+
+Re-read directly from canonical paperback pp. 47–54. The 26-node candidate passed 79 localized field-to-source checks with zero mismatches after normalization, plus contiguous node IDs, a valid `next_id` chain, exact page-range provenance, EN supported / pl-PL planned, and no invented runtime XP/score/entitlement/auth/paywall fields.
