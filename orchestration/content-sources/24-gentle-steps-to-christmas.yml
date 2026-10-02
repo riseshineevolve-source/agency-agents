@@ -68,14 +68,16 @@ localization:
     version_01_status: frozen_reference_do_not_mutate
     version_02_manifest: localization/pl-PL/production/gentle-steps/versions/v02/VERSION_02_MANIFEST.json
     version_02_brief: localization/pl-PL/production/gentle-steps/versions/v02/CREATIVE_BRIEF.md
-    version_02_status: active_creative_upgrade
-    version_02_current_written_scope: 23_of_24_days_upgraded_day21_inherits_v01_pending_final_pass
+    version_02_status: full_24_day_creative_master_ready_for_owner_review
+    version_02_current_written_scope: days_01_24_complete
     polish_title_candidates_file: localization/pl-PL/production/gentle-steps/POLISH_TITLE_OWNER_CANDIDATES_2026-10-02.md
     polish_title_locked: false
     daily_program_complete: true
     daily_program_units: 72
     daily_program_owner_review_ready: true
     back_matter_pages_98_104_reauthored: false
+    version_02_master: localization/pl-PL/production/gentle-steps/versions/v02/GENTLE_STEPS_PL_VERSION_02_MASTER.md
+    version_02_master_blob_sha: 241a0b52a90abba112a2ff086c3bbe1a2b81528b
 provenance:
   recovered_date: 2026-09-17
   verified_against_library_content: true
