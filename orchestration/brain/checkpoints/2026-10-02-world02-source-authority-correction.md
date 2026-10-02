@@ -37,3 +37,14 @@ A direct canonical-text revalidation pass has now been completed for Levels 15�
 - Level 20 — pp. 86–92 — 27 nodes — source-proven.
 
 The earlier warning that Levels 16–20 were working-source drafts is therefore superseded for the validated candidate/evidence pairs. Runtime promotion is still separate and must remain gated by repository CI. The endgame pp. 93–104 remains partial because visual-only source information is still unavailable for pp. 93–95, 100–101 and 103.
+
+
+## Artifact-promotion clarification — 2026-10-02
+
+The canonical content verification above is complete, but GitHub remains the source of truth for promotion status. At this checkpoint:
+
+- Level 15 typed candidate/evidence artifacts are already durable on its source branch.
+- Levels 16–20 canonical text and structure are verified, and their extraction/checkpoint branches record that result.
+- The generated Level 16–20 typed candidate/evidence JSON artifacts are still staged outside GitHub and **must not be treated as promoted runtime/source artifacts until those exact files are committed to their source branches and CI passes**.
+
+Therefore "source-proven" describes the verified content, not yet the repository promotion state for Levels 16–20. Runtime import must wait for repository promotion and green CI.
