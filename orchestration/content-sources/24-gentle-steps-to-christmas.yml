@@ -64,6 +64,12 @@ localization:
       - MIĘDZY NAMI
     recurring_labels_locked: false
     punctuation_house_style: no_em_dash_in_reader_facing_polish
+    version_01_snapshot: localization/pl-PL/production/gentle-steps/versions/v01/GENTLE_STEPS_PL_VERSION_01.md
+    version_01_status: frozen_reference_do_not_mutate
+    version_02_manifest: localization/pl-PL/production/gentle-steps/versions/v02/VERSION_02_MANIFEST.json
+    version_02_brief: localization/pl-PL/production/gentle-steps/versions/v02/CREATIVE_BRIEF.md
+    version_02_status: active_creative_upgrade
+    version_02_current_written_scope: days_01_07
     polish_title_candidates_file: localization/pl-PL/production/gentle-steps/POLISH_TITLE_OWNER_CANDIDATES_2026-10-02.md
     polish_title_locked: false
     daily_program_complete: true
