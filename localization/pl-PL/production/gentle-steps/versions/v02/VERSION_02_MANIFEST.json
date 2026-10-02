@@ -1,8 +1,23 @@
 {
   "version": "02",
-  "status": "ACTIVE_DEVELOPMENT",
+  "status": "FULL_24_DAY_CREATIVE_MASTER_READY_FOR_OWNER_REVIEW",
   "base_version": "01",
   "structure_locked": true,
   "title_locked": false,
-  "publication_authorized": false
+  "publication_authorized": false,
+  "base_snapshot": "localization/pl-PL/production/gentle-steps/versions/v01/GENTLE_STEPS_PL_VERSION_01.md",
+  "master": "localization/pl-PL/production/gentle-steps/versions/v02/GENTLE_STEPS_PL_VERSION_02_MASTER.md",
+  "master_blob_sha": "241a0b52a90abba112a2ff086c3bbe1a2b81528b",
+  "daily_days": 24,
+  "daily_sections": 72,
+  "section_family": [
+    "ZWOLNIJ",
+    "GRAMY",
+    "MIĘDZY NAMI"
+  ],
+  "reader_facing_em_dash_count": 0,
+  "happy_makers_voice_bible": "localization/pl-PL/production/gentle-steps/versions/v02/HAPPY_MAKERS_VOICE_BIBLE.md",
+  "creative_brief": "localization/pl-PL/production/gentle-steps/versions/v02/CREATIVE_BRIEF.md",
+  "recurring_labels_locked": false,
+  "back_matter_status": "NOT_YET_REAUTHORED_IN_V02"
 }
