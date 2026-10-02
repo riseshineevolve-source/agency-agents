@@ -53,3 +53,10 @@ publication work is introduced.
 Assemble the extracted blocks into the canonical typed content pack when the
 combined GitHub write path accepts it, validate it, then import through the
 shared runtime. Continue source extraction with Level 19 from page 79.
+
+
+## Canonical paperback verification — 2026-10-02
+
+Cross-checked against the canonical paperback text layer, pages 72–78, SHA-256 `e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76`.
+
+The prepared 24-node typed candidate/evidence pair passed structural verification: contiguous node IDs, valid `next_id` chain, exact page-range provenance, matching evidence IDs, EN supported / pl-PL planned, and no runtime XP/score/entitlement/auth/paywall fields. Printed source copy such as `XP REWARD` remains source text only and must not be interpreted as a runtime scoring engine.
