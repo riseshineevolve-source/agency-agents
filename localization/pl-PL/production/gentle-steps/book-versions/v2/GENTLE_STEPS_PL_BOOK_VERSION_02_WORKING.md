@@ -48,7 +48,7 @@ Kontynuujcie, aż każdy usłyszy przynajmniej jeden komplement.
 
 Jeśli macie jeszcze dwie minuty, zagrajcie rundę bonusową. Tym razem bez nowych komplementów. Liczy się sama niewidzialna piłka. Przy każdym rzucie może nagle ważyć tonę, być lekka jak balon, maleńka albo ogromna. Nie mówcie, jaka jest. Pokażcie to ruchem. Osoba łapiąca reaguje tak, jakby naprawdę dostała właśnie taką piłkę, po czym zmienia jej „właściwości” i posyła dalej.
 
-Nini: Bez zamachu jak na WF-ie. Piłka jest niewidzialna, siniaki nie.
+Nini: Bez zamachu z barku. Komplement ma trafić. Piłka jest niewidzialna, odruchy z WF-u niestety nie.
 
 ### MIĘDZY NAMI: CO W GRUDNIU LUBIĘ, A CZEGO MAM DOŚĆ?
 
@@ -104,7 +104,7 @@ Może chodzić o coś ważnego albo zupełnie zwyczajnego. O to, że ktoś pami�
 
 Wystarczy jedna prawdziwa rzecz od każdej osoby.
 
-Luli: Jedno zdanie. Bez wstępu, rozwinięcia i zakończenia.
+Luli: Jedno prawdziwe zdanie wystarczy. Rodzinny hymn odkładamy na później.
 
 ---
 
@@ -827,7 +827,7 @@ Potem ta osoba zwraca się do kolejnej osoby po swojej prawej stronie.
 
 Kontynuujcie wokół koła, aż każdy usłyszy jedną rzecz, w której inni naprawdę na niego liczą.
 
-Nini: Nie mówcie „we wszystkim”. Nawet superbohaterowie mają wolne.
+Nini: „We wszystkim” brzmi podejrzanie. Poproszę o jeden konkretny dowód.
 
 ---
 
@@ -979,7 +979,7 @@ Przez kilka oddechów zwróćcie uwagę tylko na to, że klatka piersiowa lekko 
 
 Przez te kilka oddechów następny punkt z listy może poczekać.
 
-Luli: Lista może poczekać kilka oddechów. Naprawdę sobie poradzi.
+Luli: Lista nie ucieknie. Niestety.
 
 ### GRAMY: KTO TEŻ TAK MA?
 
