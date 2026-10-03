@@ -434,15 +434,24 @@ Alio: Nikt niczego nie ustala i jakoś działa. Nie mówcie dorosłym, że możn
 
 Zaczyna osoba, której imię rozpoczyna się na literę najbliżej początku alfabetu.
 
-Wymyśla jeden ruch robota i jeden pasujący do niego dźwięk, a następnie wykonuje oba elementy razem.
+Wymyśla jeden prosty, powtarzalny ruch i pasujący do niego dźwięk. Powtarza oba bez przerwy.
 
-Kolejna osoba powtarza dokładnie pierwszy ruch i dźwięk, a potem dodaje własny ruch i własny dźwięk.
+Kolejna osoba dołącza do „maszyny” z własnym ruchem i własnym dźwiękiem. Nie kopiuje pierwszej osoby. Jej część ma działać obok niej i pasować do wspólnego rytmu.
 
-Każda następna osoba odtwarza całą dotychczasową sekwencję w tej samej kolejności i na końcu dodaje kolejny element.
+Następne osoby dołączają po kolei, aż cała rodzina tworzy jedną dziwną, głośną maszynę.
 
-Kiedy wszyscy dołożą już swoją część, wykonajcie całą sekwencję jeszcze raz wspólnie, od pierwszego ruchu i dźwięku aż do ostatniego.
+Kiedy wszyscy już działają, najstarsza osoba zostaje operatorem. Pokazuje dłonią trzy komendy:
+- szybciej,
+- wolniej,
+- stop.
 
-Dilo: Jeśli ktoś pomyli kolejność, maszyna zgłasza błąd. Restart bez wzywania serwisu.
+Cała maszyna musi zareagować w tym samym momencie.
+
+Na koniec operator pokazuje „start” i spróbujcie uruchomić całość jeszcze raz bez żadnego liczenia.
+
+W dwie osoby budujecie maszynę z dwóch części i korzystacie z tych samych komend.
+
+Dilo: Jeśli maszyna nie ma żadnego sensu, świetnie. Ważne, że wszyscy wiedzą, kiedy się zatrzymać.
 
 ### MIĘDZY NAMI: ZDANIE, KTÓRE DO NAS PASUJE
 
