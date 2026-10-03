@@ -759,9 +759,11 @@ Po 15 sekundach prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu w
 
 Kontynuujcie, aż każdy poprowadzi jedną rundę.
 
-Na koniec wykonajcie wszystkie ruchy jeszcze raz, po kolei, od pierwszego do ostatniego, jak własny mini-zestaw.
+Na finał zróbcie „cichą zmianę warty”. Zaczyna pierwsza osoba swoim ruchem. Po kilku sekundach kolejna osoba w ustalonej kolejności zaczyna wykonywać nowy ruch bez żadnego hasła. Reszta ma zauważyć zmianę i możliwie szybko przejść na nowy ruch. Potem przejmuje następna osoba.
 
-Alio: Jeśli któregoś ruchu nie ma na WF-ie, tym lepiej. Mamy premierę.
+Spróbujcie przejść przez wszystkich prowadzących bez ani jednego „teraz ja”.
+
+Alio: Jeśli któregoś ruchu nie ma na WF-ie, tym lepiej. Właśnie dostał premierę.
 
 ### MIĘDZY NAMI: KIEDY MAMY NAJWIĘCEJ ENERGII?
 
