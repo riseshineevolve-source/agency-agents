@@ -68,7 +68,7 @@ localization:
     version_01_status: frozen_reference_do_not_mutate
     version_02_manifest: localization/pl-PL/production/gentle-steps/versions/v02/VERSION_02_MANIFEST.json
     version_02_brief: localization/pl-PL/production/gentle-steps/versions/v02/CREATIVE_BRIEF.md
-    version_02_status: full_book_family_ear_pass_ready_for_owner_review
+    version_02_status: full_book_multi_agent_reader_audit_ready_for_owner_review
     version_02_current_written_scope: days_01_24_complete
     polish_title_candidates_file: localization/pl-PL/production/gentle-steps/POLISH_TITLE_OWNER_CANDIDATES_2026-10-02.md
     polish_title_locked: false
@@ -77,9 +77,10 @@ localization:
     daily_program_owner_review_ready: true
     back_matter_pages_98_104_reauthored: true
     version_02_master: localization/pl-PL/production/gentle-steps/versions/v02/GENTLE_STEPS_PL_VERSION_02_MASTER.md
-    version_02_master_blob_sha: 945538602a0e4f5c2cac02b6962590b356d68e72
+    version_02_master_blob_sha: 46542df9e3e44f235f112edb2d381d5511c7abca
     version_02_back_matter: localization/pl-PL/production/gentle-steps/versions/v02/BACK_MATTER_V02.md
     version_02_family_ear_deep_pass: localization/pl-PL/production/gentle-steps/versions/v02/V02_FAMILY_EAR_DEEP_PASS_2026-10-03.md
+    version_02_multi_agent_reader_audit: localization/pl-PL/production/gentle-steps/versions/v02/V02_MULTI_AGENT_FULL_READER_AUDIT_2026-10-03.md
 provenance:
   recovered_date: 2026-09-17
   verified_against_library_content: true
