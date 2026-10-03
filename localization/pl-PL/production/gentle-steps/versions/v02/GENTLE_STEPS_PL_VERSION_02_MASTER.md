@@ -160,7 +160,7 @@ Luli: Jedna rzecz naraz. Proszę to gdzieś zapisać, bo grudzień najwyraźniej
 
 ### GRAMY: GŁOSY W OBIEGU
 
-Zaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno krótkie, wesołe zdanie, na przykład: „Kto zjadł ostatnie pierniczki?”.
+Zaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno krótkie, wesołe zdanie, na przykład: „Kto zjadł ostatnie pierniczki?”
 
 Następnie gra toczy się przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale zupełnie innym głosem.
 
@@ -214,7 +214,7 @@ Jeśli chcecie zwiększyć trudność, ustalcie wyższą liczbę końcową.
 
 W rundzie finałowej nie ustalacie wcześniej, kto zacznie ani kto wypowie kolejną liczbę. Spróbujcie wspólnie doliczyć do 12 lub wyżej, obserwując pozostałych i pilnując, żeby dwie osoby nie odezwały się jednocześnie. Jeśli tak się stanie, wracacie do jedynki.
 
-Ten wariant działa również wtedy, gdy bawią się tylko dwie osoby.
+Całą zabawę możecie też przeprowadzić w dwie osoby.
 
 Dilo: Tu nie ma VAR-u. Dwie osoby naraz? Wracamy do jedynki.
 
@@ -270,7 +270,7 @@ Nie musi to być nic wielkiego. Czasem wystarczy:
 „Ja się tym zajmę”.
 „Został dla ciebie kawałek”.
 „Nie musisz teraz odpowiadać”.
-„Chcesz chwilę dla siebie?”.
+„Chcesz chwilę dla siebie?”
 
 Wybierzcie coś, co naprawdę działa w waszym domu.
 
@@ -412,7 +412,7 @@ Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Ka�
 
 Nie ustalajcie, co będzie za chwilę. Przez moment po prostu posiedźcie razem.
 
-Alio: Nikt nie prowadzi. Nikt nie pyta „co dalej?”. Podejrzanie przyjemne.
+Alio: Nikt nie prowadzi. Nikt nie pyta „co dalej?” Podejrzanie przyjemne.
 
 ### GRAMY: RODZINNA MASZYNA
 
@@ -569,7 +569,7 @@ Wyobraźcie sobie mapę waszej rodziny i zaznaczcie na niej rzeczy, których nie
 
 Może to być wspólny humor, zaufanie, pomoc, tradycja, rozmowy, czyjś sposób na poprawianie wszystkim humoru albo coś zupełnie innego.
 
-Nini: Jeśli ktoś powie „Wi-Fi”, proszę przygotować drugi skarb.
+Nini: Jeśli ktoś powie „Wi-Fi”, dorzucamy drugi skarb. Bez dyskusji.
 
 ---
 
