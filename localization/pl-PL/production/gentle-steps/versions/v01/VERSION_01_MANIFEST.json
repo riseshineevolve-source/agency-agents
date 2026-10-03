@@ -1,0 +1,20 @@
+{
+  "version": "01",
+  "status": "FROZEN_REFERENCE_DO_NOT_MUTATE",
+  "frozen_date": "2026-10-02",
+  "source_master_path": "localization/pl-PL/production/gentle-steps/GENTLE_STEPS_PL_DAYS01_24_OWNER_REVIEW_MASTER.md",
+  "source_master_blob_sha": "2cf522164d3cd37a24492033ddcc6a226b2d3f39",
+  "version_file": "localization/pl-PL/production/gentle-steps/versions/v01/GENTLE_STEPS_PL_VERSION_01.md",
+  "structure_lock": "24 days x 3 elements: quiet/breath, game/play, conversation/sharing",
+  "recurring_labels_at_freeze": [
+    "ZWOLNIJ",
+    "GRAMY",
+    "MIĘDZY NAMI"
+  ],
+  "title_state": "OWNER_CANDIDATES_NOT_LOCKED",
+  "title_candidates_file": "localization/pl-PL/production/gentle-steps/POLISH_TITLE_OWNER_CANDIDATES_2026-10-02.md",
+  "notes": [
+    "Version 01 is the preserved baseline before the stronger Polish-family creative upgrade.",
+    "Do not overwrite this snapshot when developing Version 02."
+  ]
+}

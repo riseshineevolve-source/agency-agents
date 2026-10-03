@@ -1,0 +1,21 @@
+{
+  "book_version": "1",
+  "status": "FROZEN_OWNER_REVIEW_SNAPSHOT_DO_NOT_OVERWRITE",
+  "frozen_date": "2026-10-03",
+  "source_master_path": "localization/pl-PL/production/gentle-steps/versions/v02/GENTLE_STEPS_PL_VERSION_02_MASTER.md",
+  "source_master_blob_sha": "46542df9e3e44f235f112edb2d381d5511c7abca",
+  "snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md",
+  "note": "This is the first frozen full Polish book version after the multi-agent reader audit. It is distinct from the earlier localization pipeline baseline stored under versions/v01.",
+  "structure": {
+    "days": 24,
+    "daily_sections": 72,
+    "back_matter": true
+  },
+  "title_locked": false,
+  "recurring_labels_locked": false,
+  "publication_authorized": false,
+  "title_candidates": [
+    "ŚWIĘTA SĄ TEŻ PO DRODZE",
+    "ZANIM ZNOWU BĘDZIE PO ŚWIĘTACH"
+  ]
+}

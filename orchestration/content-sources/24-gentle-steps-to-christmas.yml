@@ -16,8 +16,8 @@ source_artifacts:
   print_master:
     filename: 24 Gentle Paperback ok.pdf
     storage_class: connected_library_private_master
-    sha256: null
-    status: verified_source_reference
+    sha256: 1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7
+    status: verified_source_reference_owner_upload_2026_09_30
   hardcover_cover:
     filename: 24 Gentle Steps to Christmas COVER HARDCOVER.pdf
     storage_class: connected_library_private_master
@@ -33,11 +33,65 @@ product_model:
 localization:
   pl_PL:
     engine_repo: riseshineevolve-source/agency-agents
-    branch: rse/polish-localization-engine-v1
-    pr: 6
-    calibration_file: localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md
-    state: calibration_active
+    branch: codex/polish-engine-main-reconcile
+    pr: 13
+    mode: native_reauthor_from_function
+    profile: localization/pl-PL/engine/reauthoring/gentle-steps.json
+    operating_profile: localization/pl-PL/GENTLE_STEPS_PL_REAUTHORING_PROFILE.md
+    historical_calibration_file: localization/pl-PL/golden-tests/gentle-steps-christmas-calibration-round1.md
+    historical_calibration_authority: reference_only
+    state: days_01_24_core_program_ready_for_owner_review
     full_book_scaleout_authorized: false
+    voice_direction_approved_to_continue: true
+    overnight_execution_authorized: true
+    voice_direction_receipt: localization/pl-PL/production/gentle-steps/VOICE_DIRECTION_OWNER_RECEIPT_2026-09-30.json
+    first_production_calibration_scope: days_1_to_3
+    current_voice_master: localization/pl-PL/production/gentle-steps/days01-03/GENTLE_STEPS_PL_VOICE_MASTER_DAYS01_03.md
+    week1_voice_master: localization/pl-PL/production/gentle-steps/GENTLE_STEPS_PL_WEEK1_VOICE_MASTER.md
+    days08_14_voice_master: localization/pl-PL/production/gentle-steps/days08-14/GENTLE_STEPS_PL_DAYS08_14_VOICE_MASTER.md
+    days15_21_voice_master: localization/pl-PL/production/gentle-steps/days15-21/GENTLE_STEPS_PL_DAYS15_21_VOICE_MASTER.md
+    days22_24_voice_master: localization/pl-PL/production/gentle-steps/days22-24/GENTLE_STEPS_PL_DAYS22_24_VOICE_MASTER.md
+    full_days_owner_review_master: localization/pl-PL/production/gentle-steps/GENTLE_STEPS_PL_DAYS01_24_OWNER_REVIEW_MASTER.md
+    full_days_audit: localization/pl-PL/production/gentle-steps/GENTLE_STEPS_PL_DAYS01_24_AUDIT_2026-10-01.json
+    days08_14_candidate_sha256: c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea
+    days15_21_candidate_sha256: bc5c1973f6f13c23061df60610d5fe6885af4ab3b862f8dd90f791bab73be0e6
+    days22_24_candidate_sha256: 2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369
+    days04_07_candidate_sha256: 68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7
+    current_voice_master_candidate_sha256: 3c6e2c481f790747a4b4932b4d198ab09d2637c971ba69bba442a8d9d0070f84
+    recurring_label_candidates:
+      - ZWOLNIJ
+      - GRAMY
+      - MIĘDZY NAMI
+    recurring_labels_locked: false
+    punctuation_house_style: no_em_dash_in_reader_facing_polish
+    version_01_snapshot: localization/pl-PL/production/gentle-steps/versions/v01/GENTLE_STEPS_PL_VERSION_01.md
+    version_01_status: frozen_reference_do_not_mutate
+    version_02_manifest: localization/pl-PL/production/gentle-steps/versions/v02/VERSION_02_MANIFEST.json
+    version_02_brief: localization/pl-PL/production/gentle-steps/versions/v02/CREATIVE_BRIEF.md
+    version_02_status: full_book_multi_agent_reader_audit_ready_for_owner_review
+    version_02_current_written_scope: days_01_24_complete
+    polish_title_candidates_file: localization/pl-PL/production/gentle-steps/POLISH_TITLE_OWNER_CANDIDATES_2026-10-02.md
+    polish_title_locked: false
+    daily_program_complete: true
+    daily_program_units: 72
+    daily_program_owner_review_ready: true
+    back_matter_pages_98_104_reauthored: true
+    version_02_master: localization/pl-PL/production/gentle-steps/versions/v02/GENTLE_STEPS_PL_VERSION_02_MASTER.md
+    version_02_master_blob_sha: 46542df9e3e44f235f112edb2d381d5511c7abca
+    version_02_back_matter: localization/pl-PL/production/gentle-steps/versions/v02/BACK_MATTER_V02.md
+    version_02_family_ear_deep_pass: localization/pl-PL/production/gentle-steps/versions/v02/V02_FAMILY_EAR_DEEP_PASS_2026-10-03.md
+    version_02_multi_agent_reader_audit: localization/pl-PL/production/gentle-steps/versions/v02/V02_MULTI_AGENT_FULL_READER_AUDIT_2026-10-03.md
+    current_polish_book_version: 1
+    current_polish_book_version_status: frozen_owner_review_snapshot_do_not_overwrite
+    current_polish_book_version_path: localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md
+    current_polish_book_version_source_blob_sha: 46542df9e3e44f235f112edb2d381d5511c7abca
+    next_polish_book_version: 2
+    next_polish_book_version_status: ready_for_owner_full_read_after_owner_feedback_integration
+    next_polish_book_version_path: localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md
+    next_polish_book_version_blob_sha: 17199d28888901353cbc82224ecabc3c1bf56e2d
+    next_polish_book_version_manifest: localization/pl-PL/production/gentle-steps/book-versions/v2/BOOK_VERSION_02_MANIFEST.json
+    next_polish_book_version_owner_brief: localization/pl-PL/production/gentle-steps/book-versions/v2/V02_OWNER_STYLE_AND_RESEARCH_BRIEF_2026-10-03.md
+    next_polish_book_version_qa: localization/pl-PL/production/gentle-steps/book-versions/v2/V02_FULL_MULTI_AGENT_QA_2026-10-03.md
 provenance:
   recovered_date: 2026-09-17
   verified_against_library_content: true
@@ -45,3 +99,9 @@ provenance:
     Earlier recovery queue incorrectly treated this master as missing.
     Later owner upload and direct content verification established the distinct
     104-page Christmas book and hardcover cover reference.
+
+
+    polish_book_v02_working_master: localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md
+    polish_book_v02_latest_checkpoint: localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_CURRENT_SAFE_STATE_2026-10-03.md
+    polish_book_v02_latest_checkpoint_blob_sha: be6e738285df257e7b1a3a0456e59b12dd036784
+    polish_book_v02_status: active_deep_upgrade_current_safe_state

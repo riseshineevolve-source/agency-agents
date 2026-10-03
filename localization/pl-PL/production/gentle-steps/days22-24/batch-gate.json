@@ -1,0 +1,17 @@
+{
+  "format": "rse-full-days-gate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_22_24_week4_close",
+  "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+  "status": "READY_FOR_FULL_DAYS_01_24_AUDIT",
+  "publication_authorized": false,
+  "recurring_labels_locked": false,
+  "title_locked": false,
+  "surface_qa": "DEFERRED_FULL_BOOK_OWNER_GATE",
+  "recurring_label_candidates": {
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI"
+  },
+  "punctuation_house_style": "no_em_dash_in_reader_facing_polish"
+}

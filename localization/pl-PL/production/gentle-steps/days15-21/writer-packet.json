@@ -1,0 +1,566 @@
+{
+  "format": "rse-native-pl-writer-packet-v1",
+  "product": "gentle-steps-christmas",
+  "run_sha256": "950df7a5b4ae91ff8231625d13792f5f85b773d0d602911866b67e66bcbf2aa5",
+  "brief_sha256": "0d0961ef3c203d93663174bb3d996fd0fd1155be2bc297e72f940f91084a74b9",
+  "authoring_mode": "from_function_not_from_english_wording",
+  "source_visibility": "functional_brief_only",
+  "instructions": [
+    "Write as if the Polish product were created in Poland from the beginning.",
+    "Preserve mechanics, facts, character roles, safety and claim boundaries.",
+    "Do not reconstruct English metaphors, sentence order or motivational cadence.",
+    "Prefer concrete contemporary family Polish, situational humor and spoken rhythm.",
+    "Avoid corporate coaching, therapy-speak, imported mindfulness phrasing and forced youth slang."
+  ],
+  "units": [
+    {
+      "id": "GS.D15.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Use shoulder movement with breathing as a concrete one-minute-style reset without wave/mindfulness framing.",
+      "mechanics": [
+        "Sit in a circle.",
+        "On inhale, lift shoulders slightly.",
+        "On exhale, let shoulders drop.",
+        "Repeat the movement with breathing."
+      ],
+      "immutable_facts": [
+        "Alio compares the motion to a very calm roller coaster."
+      ],
+      "character_roles": [
+        "Alio is energetic and physical."
+      ],
+      "safety_claim_boundaries": [
+        "Do not force deep breathing or shoulder range.",
+        "Do not claim synchronized breathing creates a shared emotional state."
+      ],
+      "tone_job": "Practical body reset; book-polished, not wellness-coded.",
+      "humor_room": "Calm roller-coaster joke can be rebuilt in Polish.",
+      "cultural_friction": "Remove 'waves in sync' / stillness-alive abstraction.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
+    },
+    {
+      "id": "GS.D15.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Build a cumulative dancing-movement chain and repeat it together.",
+      "mechanics": [
+        "Starter is the person wearing something red.",
+        "Starter makes one dance move.",
+        "Move anti-clockwise.",
+        "Each person adds one new move to the existing chain.",
+        "After everyone contributes, perform the complete chain together three times."
+      ],
+      "immutable_facts": [
+        "Exactly three full-family repetitions at the end.",
+        "Nini celebrates ridiculous-looking moves."
+      ],
+      "character_roles": [
+        "Nini is playful and body-comedy oriented."
+      ],
+      "safety_claim_boundaries": [
+        "Keep movements safe and within available space."
+      ],
+      "tone_job": "Clear cumulative game instructions with lively pace.",
+      "humor_room": "Ridiculous move = success, not embarrassment.",
+      "cultural_friction": "Avoid abstract shared-memory claim.",
+      "recurrence_context": "Working recurring family: GRAMY"
+    },
+    {
+      "id": "GS.D15.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Each person shares one funny or happy family memory that still makes them smile.",
+      "mechanics": [
+        "Each person shares one funny or happy family memory."
+      ],
+      "immutable_facts": [
+        "One memory per person is enough.",
+        "Dilo's note links a memorable moment to Christmas lights left on."
+      ],
+      "character_roles": [
+        "Dilo uses dry practical/tech humor."
+      ],
+      "safety_claim_boundaries": [
+        "Do not pressure anyone to disclose sensitive memories."
+      ],
+      "tone_job": "Warm nostalgia without sentimentality.",
+      "humor_room": "Dilo can make a practical household joke.",
+      "cultural_friction": "Avoid 'laughter is the echo of love'.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
+    },
+    {
+      "id": "GS.D16.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Pair simple hand movement with inhale/exhale while preserving optional touch.",
+      "mechanics": [
+        "Hold hands loosely OR hover palms close together without touching.",
+        "Raise hands on inhale.",
+        "Lower hands on exhale."
+      ],
+      "immutable_facts": [
+        "Nini comments on floating hands."
+      ],
+      "character_roles": [
+        "Nini keeps body exercise playful."
+      ],
+      "safety_claim_boundaries": [
+        "Touch must remain optional.",
+        "Do not claim shared air or invisible connection."
+      ],
+      "tone_job": "Concrete coordinated movement with breathing.",
+      "humor_room": "Hands can seem to 'know the choreography' without mystical framing.",
+      "cultural_friction": "Remove invisible-connections/shared-air claim.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
+    },
+    {
+      "id": "GS.D16.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Run a family sound orchestra with rotating conductor and stable assigned sounds.",
+      "mechanics": [
+        "Each person chooses one sound to sing/vocalize.",
+        "First conductor is the person whose name initial is closest to M.",
+        "Conductor points to a person once to start their sound and points again to stop it.",
+        "Challenge: conductor may use both hands and run multiple sounds at once.",
+        "Move clockwise to the next conductor.",
+        "Each person's assigned sound stays the same through conductor changes."
+      ],
+      "immutable_facts": [
+        "Sound examples are optional/localizable.",
+        "Luli jokes about bold conducting even in chaos."
+      ],
+      "character_roles": [
+        "Luli is precise, dry and unfazed by chaos."
+      ],
+      "safety_claim_boundaries": [
+        "Keep volume comfortable for participants/neighbors."
+      ],
+      "tone_job": "Detailed but elegant game instructions.",
+      "humor_room": "Mock-serious orchestra control.",
+      "cultural_friction": "Avoid harmony/leadership moral lesson.",
+      "recurrence_context": "Working recurring family: GRAMY"
+    },
+    {
+      "id": "GS.D16.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Invite one concrete near-future family wish/activity from each person.",
+      "mechanics": [
+        "Each person completes: one thing I'd like us to do together soon is..."
+      ],
+      "immutable_facts": [
+        "Small wishes count.",
+        "Luli explicitly allows small dreams such as cocoa refills."
+      ],
+      "character_roles": [
+        "Luli keeps aspirations grounded."
+      ],
+      "safety_claim_boundaries": [
+        "Do not turn wishes into commitments or pressure."
+      ],
+      "tone_job": "Low-pressure future planning.",
+      "humor_room": "Tiny wish counts; no motivational speech.",
+      "cultural_friction": "Avoid dream-team coaching register.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
+    },
+    {
+      "id": "GS.D17.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Use a gentle silent group stretch as a brief physical reset.",
+      "mechanics": [
+        "Stand in a circle.",
+        "In silence, stretch arms up and out gently.",
+        "Notice the space the group creates together."
+      ],
+      "immutable_facts": [
+        "Mimi warns against dramatic stretching."
+      ],
+      "character_roles": [
+        "Mimi is practical and understated."
+      ],
+      "safety_claim_boundaries": [
+        "No painful/deep stretching; each person stays within comfortable range."
+      ],
+      "tone_job": "Simple physical reset.",
+      "humor_room": "Mimi rejects overdoing it.",
+      "cultural_friction": "Avoid abstract joy-in-movement claim.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
+    },
+    {
+      "id": "GS.D17.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Rotate a leader through short movement-imitation rounds and replay all movements in order.",
+      "mechanics": [
+        "Starter is the person with the shortest name.",
+        "Starter chooses one physical movement/exercise.",
+        "Everyone copies it for 15 seconds.",
+        "Move anti-clockwise to the next leader.",
+        "Each new leader chooses a new movement.",
+        "At the end, family attempts all previous movements in order like a mini-gym sequence."
+      ],
+      "immutable_facts": [
+        "Each leader round lasts 15 seconds.",
+        "Order is anti-clockwise.",
+        "Alio celebrates confident nonsense."
+      ],
+      "character_roles": [
+        "Alio is energetic and likes absurd movement."
+      ],
+      "safety_claim_boundaries": [
+        "Movements must be safe for the space and participants; no risky stunts."
+      ],
+      "tone_job": "Clear movement game with precise timing.",
+      "humor_room": "Unusual movement is welcome.",
+      "cultural_friction": "Avoid collaboration/joy abstraction.",
+      "recurrence_context": "Working recurring family: GRAMY"
+    },
+    {
+      "id": "GS.D17.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Each person completes a sentence about a family situation that makes them feel energized/alive.",
+      "mechanics": [
+        "Each person completes the sentence about when they feel most alive when the family..."
+      ],
+      "immutable_facts": [
+        "One answer per person.",
+        "Alio frames it as an inner 'woohoo' moment."
+      ],
+      "character_roles": [
+        "Alio is enthusiastic without fake slang."
+      ],
+      "safety_claim_boundaries": [
+        "No pressure for a profound answer."
+      ],
+      "tone_job": "Concrete energy/joy reflection.",
+      "humor_room": "A small 'yes, this' moment rather than coaching.",
+      "cultural_friction": "Avoid energy-growth/connection jargon.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
+    },
+    {
+      "id": "GS.D18.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Use a simple side-by-side exhale exercise without ripple/heart metaphors.",
+      "mechanics": [
+        "Sit side by side.",
+        "Focus on exhaling softly/slowly.",
+        "Repeat for a short pause."
+      ],
+      "immutable_facts": [
+        "Luli's source joke imagines sending a tiny wish across the room."
+      ],
+      "character_roles": [
+        "Luli is dry and skeptical enough to deflate magical framing."
+      ],
+      "safety_claim_boundaries": [
+        "Do not force long exhalation.",
+        "Do not claim breath touches or changes another person's heart."
+      ],
+      "tone_job": "Everyday longer-exhale reset.",
+      "humor_room": "Zero special effects is a valid joke.",
+      "cultural_friction": "Remove ripples/wishes touching hearts.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
+    },
+    {
+      "id": "GS.D18.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Complete an eyes-closed navigation/cooperation game toward a chair, with explicit safety adaptation.",
+      "mechanics": [
+        "Clear the floor and choose a safe open area first.",
+        "Everyone except the oldest/leader closes eyes if comfortable; the oldest places a chair somewhere safe in the room.",
+        "Leader gives precise step-by-step instructions so the group approaches the chair while keeping eyes closed.",
+        "Near the chair, group silently chooses one person who will sit.",
+        "Optional role rotation.",
+        "Two-person version: one person gives directions and the other follows them toward and onto the chair."
+      ],
+      "immutable_facts": [
+        "Oldest person is initial leader/placer.",
+        "Eyes-closed movement and silent final choice are source mechanics.",
+        "Mimi says dramatic spinning is optional/not required."
+      ],
+      "character_roles": [
+        "Mimi is practical and safety-minded."
+      ],
+      "safety_claim_boundaries": [
+        "Leader must keep eyes open and monitor safety.",
+        "Use only tiny slow steps in a clear area; no stairs, sharp furniture or deliberate collisions.",
+        "Anyone uncomfortable may keep eyes open and still participate."
+      ],
+      "tone_job": "Cooperation/navigation challenge with safety first.",
+      "humor_room": "Furniture is not an opponent.",
+      "cultural_friction": "Do not claim trust grows automatically.",
+      "recurrence_context": "Working recurring family: GRAMY"
+    },
+    {
+      "id": "GS.D18.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Pass one concise word of admiration to the person on the right.",
+      "mechanics": [
+        "First person turns to the person on their right.",
+        "Say one word describing something they admire about that person.",
+        "Continue around the circle so each person receives one word."
+      ],
+      "immutable_facts": [
+        "One word is the constraint.",
+        "Nini says one good word gives an instant sparkle upgrade."
+      ],
+      "character_roles": [
+        "Nini makes praise playful."
+      ],
+      "safety_claim_boundaries": [
+        "Keep comments kind and non-comparative."
+      ],
+      "tone_job": "Brief appreciation without ceremony.",
+      "humor_room": "One-word 'upgrade' joke.",
+      "cultural_friction": "Avoid warmth/trust claim.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
+    },
+    {
+      "id": "GS.D19.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Replace inner-light imagery with a quiet side-by-side family pause.",
+      "mechanics": [
+        "Sit together with eyes closed.",
+        "Breathe normally for a short pause.",
+        "Notice one simple ordinary thing about being beside the family."
+      ],
+      "immutable_facts": [
+        "Dilo's source note plays on personal glow meeting others' glow."
+      ],
+      "character_roles": [
+        "Dilo can mock-tech the light metaphor."
+      ],
+      "safety_claim_boundaries": [
+        "No inner-light/shared-glow claims.",
+        "No forced emotional response."
+      ],
+      "tone_job": "Plain family pause.",
+      "humor_room": "Leave the lighting to actual lamps.",
+      "cultural_friction": "Remove darkness/light spiritual metaphor.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
+    },
+    {
+      "id": "GS.D19.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Rapidly form called group shapes with rotating caller and a two-person version.",
+      "mechanics": [
+        "Everyone stands in a circle.",
+        "Starter is the person whose birthday falls in summer or closest to the start of summer.",
+        "Starter calls a simple group shape such as circle, triangle, straight line, wave or star.",
+        "Family quickly rearranges bodies to make the shape together.",
+        "Move anti-clockwise to next caller for another shape.",
+        "Two-person version: one caller names a shape; both form it together; switch roles and continue."
+      ],
+      "immutable_facts": [
+        "Anti-clockwise caller rotation.",
+        "Two-person version required.",
+        "Dilo says geometry waits for no one."
+      ],
+      "character_roles": [
+        "Dilo uses tech/logic humor."
+      ],
+      "safety_claim_boundaries": [
+        "Keep formations safe; no climbing/lifting."
+      ],
+      "tone_job": "Fast spatial game with complete role changes.",
+      "humor_room": "Geometry as impatient system.",
+      "cultural_friction": "Avoid teamwork moral.",
+      "recurrence_context": "Working recurring family: GRAMY"
+    },
+    {
+      "id": "GS.D19.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Build a cumulative list of things that make family members happy at home.",
+      "mechanics": [
+        "First person says one thing that makes them happy at home.",
+        "Next person repeats it and adds one new thing.",
+        "Continue cumulatively until everyone has spoken."
+      ],
+      "immutable_facts": [
+        "Cumulative repetition is required.",
+        "Mimi jokes it is not Christmas karaoke yet."
+      ],
+      "character_roles": [
+        "Mimi keeps it light."
+      ],
+      "safety_claim_boundaries": [
+        "No forced positivity; ordinary answers are valid."
+      ],
+      "tone_job": "Memory/list game more than gratitude ritual.",
+      "humor_room": "Not karaoke—yet.",
+      "cultural_friction": "Avoid joy-multiplies claim.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
+    },
+    {
+      "id": "GS.D20.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Release facial tension through one minute of concrete muscle relaxation.",
+      "mechanics": [
+        "Sit close together with eyes closed.",
+        "Relax forehead, eye area and jaw.",
+        "Finish together with one natural sigh."
+      ],
+      "immutable_facts": [
+        "Duration is one minute in source framing.",
+        "Mimi specifically calls out unclenching the jaw."
+      ],
+      "character_roles": [
+        "Mimi is practical and body-aware."
+      ],
+      "safety_claim_boundaries": [
+        "No guarantee of calm/peace.",
+        "Avoid breath-holding or force."
+      ],
+      "tone_job": "Physical reset, not meditation.",
+      "humor_room": "Yes, that jaw.",
+      "cultural_friction": "Remove collective-sigh-of-peace claim.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
+    },
+    {
+      "id": "GS.D20.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Create a two-line cheering tunnel and rotate every person through it.",
+      "mechanics": [
+        "Stand in two lines facing each other to create a short tunnel.",
+        "Starter is the person whose birthday is closest to Christmas.",
+        "Starter walks slowly through tunnel.",
+        "Everyone else claps, hums or chants the starter's name.",
+        "Continue until everyone has gone through.",
+        "Two-person version: create a doorway with two chairs; one walks through while the other cheers; switch roles."
+      ],
+      "immutable_facts": [
+        "Birthday closest to Christmas selects starter.",
+        "Everyone gets a turn.",
+        "Two-person chair-doorway variant required."
+      ],
+      "character_roles": [
+        "Nini likes enthusiastic cheering."
+      ],
+      "safety_claim_boundaries": [
+        "Keep volume and chair placement safe.",
+        "No forced physical contact."
+      ],
+      "tone_job": "Celebratory but not overblown.",
+      "humor_room": "Too enthusiastic is allowed in Nini's voice.",
+      "cultural_friction": "Avoid standing-ovation entitlement claim.",
+      "recurrence_context": "Working recurring family: GRAMY"
+    },
+    {
+      "id": "GS.D20.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Share at least one cozy or funny family memory beginning with a fixed phrase.",
+      "mechanics": [
+        "Each person shares at least one family moment beginning with: Remember when we..."
+      ],
+      "immutable_facts": [
+        "Memory should be cozy or funny.",
+        "Nini references a cookie that was not supposed to be touched."
+      ],
+      "character_roles": [
+        "Nini is mischievous."
+      ],
+      "safety_claim_boundaries": [
+        "No pressure to share private/sad memories."
+      ],
+      "tone_job": "Warm memory round with a concrete prompt.",
+      "humor_room": "Cookie-rule memory can carry joke.",
+      "cultural_friction": "Avoid invisible-threads/belonging abstraction.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
+    },
+    {
+      "id": "GS.D21.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Notice one pleasant physical sensation in silence without spreading it around the circle metaphorically.",
+      "mechanics": [
+        "Sit in silence with palms joined/resting together.",
+        "Notice one pleasant physical sensation.",
+        "Stay with that sensation briefly."
+      ],
+      "immutable_facts": [
+        "Nini's note frames a warm inner spark."
+      ],
+      "character_roles": [
+        "Nini can choose a concrete comfort."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim sensations spread through the family or guarantee joy."
+      ],
+      "tone_job": "Concrete sensory pause.",
+      "humor_room": "Warm blanket/cup comfort is enough.",
+      "cultural_friction": "Remove inner spark/spreading-through-circle framing.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
+    },
+    {
+      "id": "GS.D21.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Pass one or more hand-squeeze patterns around a circle with direction and pattern changes.",
+      "mechanics": [
+        "Stand in a circle holding hands if everyone agrees.",
+        "Starter is the person whose name initial is closest to A.",
+        "Starter sends one quick hand squeeze clockwise.",
+        "Each person passes the same squeeze clockwise until it returns to starter.",
+        "After one full round, person to starter's right begins a second ripple and chooses a new pattern: anti-clockwise, double/triple, fast/slow, or firmer/lighter.",
+        "The chosen pattern must return unchanged to its starter.",
+        "Challenge: run different squeeze patterns clockwise and anti-clockwise at the same time."
+      ],
+      "immutable_facts": [
+        "Initial direction clockwise.",
+        "Second starter is person to the right.",
+        "Challenge has simultaneous opposite-direction patterns.",
+        "Luli compares squeezing to lemons."
+      ],
+      "character_roles": [
+        "Luli gives dry precise physical advice."
+      ],
+      "safety_claim_boundaries": [
+        "Touch is optional; if anyone does not want hand-holding, use a visual/tap signal alternative.",
+        "'Firmer' never means painful; no squeezing hard."
+      ],
+      "tone_job": "Coordination challenge with consent.",
+      "humor_room": "Not lemons.",
+      "cultural_friction": "Remove shared-energy claim.",
+      "recurrence_context": "Working recurring family: GRAMY"
+    },
+    {
+      "id": "GS.D21.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Create one small unique family gesture/symbol representing affection or gratitude.",
+      "mechanics": [
+        "Together invent one small gesture or symbol.",
+        "It should represent family love or gratitude.",
+        "Examples may include hands on heart or touching fingertips.",
+        "Make it unique to the family."
+      ],
+      "immutable_facts": [
+        "One shared symbol is the output.",
+        "Luli says tiny gestures can matter."
+      ],
+      "character_roles": [
+        "Luli is sincere but restrained."
+      ],
+      "safety_claim_boundaries": [
+        "Touch-based symbol must be optional/adaptable."
+      ],
+      "tone_job": "A family in-joke/sign rather than ceremonial ritual.",
+      "humor_room": "Unique sign can feel like a secret code.",
+      "cultural_friction": "Avoid glowing-candle metaphor.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
+    }
+  ]
+}

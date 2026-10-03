@@ -1,0 +1,132 @@
+{
+  "format": "rse-reauthor-review-bundle-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_22_24_week4_close",
+  "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+  "reviews": [
+    {
+      "stage": "polish_usage_idiom_context",
+      "reviewer": "role:polish_usage_idiom_context",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "Grammar, syntax, idiom, collocation and read-aloud flow checked across all nine final-day surfaces.",
+        "No slash-gender forms or English-shaped phraseology remain in the final candidate."
+      ]
+    },
+    {
+      "stage": "polish_book_register",
+      "reviewer": "role:polish_book_register",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "Final days retain warm book prose without drifting into ceremonial or chatty language.",
+        "Instructions use complete sentences and explicit round structure.",
+        "Owner house-style pass removes em dashes from reader-facing Polish and rebuilds affected sentences."
+      ]
+    },
+    {
+      "stage": "breath_reset_reauthoring",
+      "reviewer": "role:breath_reset_reauthoring",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "Golden light, inner glow, radiance/halo and mindfulness snow-settling claims were rebuilt into ordinary breathing, a playful snow-globe image and a one-minute final pause.",
+        "No guaranteed calm/peace effect is stated."
+      ]
+    },
+    {
+      "stage": "activity_instruction_completeness",
+      "reviewer": "role:activity_instruction_completeness",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "Day 22 preserves oldest starter, prompt choices, movement response, anti-clockwise rotation and two-person variant.",
+        "Day 23 preserves birthday-near-midyear starter and all three switch rounds with clockwise caller progression.",
+        "Day 24 singing preserves festive-color starter and whole-family join; final U NAS preserves both gratitude and wish rounds."
+      ]
+    },
+    {
+      "stage": "polish_family_language_edit",
+      "reviewer": "role:polish_family_language_edit",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "Closing pages are warm and recognisably Polish without greeting-card sentimentality."
+      ]
+    },
+    {
+      "stage": "humor_character_voice",
+      "reviewer": "role:humor_character_voice",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "Luli remains dry, Mimi practical, Alio physical/playful and Dilo system-oriented; final Happy Makers collective line is restrained."
+      ]
+    },
+    {
+      "stage": "kid_parent_ear_review",
+      "reviewer": "role:kid_parent_ear_review",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "No fake teen slang; prompts remain readable to both older children and adults."
+      ]
+    },
+    {
+      "stage": "anti_coaching_translationese",
+      "reviewer": "role:anti_coaching_translationese",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "No inner-light, energy, shared-radiance, peace-ripple or abstract connection language survives in the reader-facing Polish."
+      ]
+    },
+    {
+      "stage": "bilingual_fidelity_backcheck",
+      "reviewer": "role:bilingual_fidelity_backcheck",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "Day 22 movement-response meanings and two-person variant preserved.",
+        "Day 23 snow-globe minute and three switch rounds preserved; apology remains a real recent example.",
+        "Day 24 one-minute closing pause, festive-color singing starter, shared singing, Advent gratitude and Christmas/New-Year wish rounds preserved."
+      ]
+    },
+    {
+      "stage": "logic_continuity",
+      "reviewer": "role:logic_continuity",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "Days 22-24 close the ZWOLNIJ / GRAMY / MIĘDZY NAMI system without introducing a new register or changing character roles."
+      ]
+    },
+    {
+      "stage": "proofread",
+      "reviewer": "role:proofread",
+      "status": "PASS",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "Polish punctuation, headings, quotations, numbering and diacritics checked."
+      ]
+    },
+    {
+      "stage": "surface_qa",
+      "reviewer": "role:surface_qa",
+      "status": "DEFERRED_FULL_BOOK_OWNER_GATE",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369",
+      "notes": [
+        "Exact book/app surface fit awaits full Days 1-24 owner review.",
+        "No publication fit PASS claimed."
+      ]
+    }
+  ],
+  "owner_decisions": {
+    "voice_direction": {
+      "status": "APPROVED_TO_CONTINUE",
+      "evidence": "localization/pl-PL/production/gentle-steps/VOICE_DIRECTION_OWNER_RECEIPT_2026-09-30.json"
+    }
+  },
+  "scaleout_authorized": false
+}

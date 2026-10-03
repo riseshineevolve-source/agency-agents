@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-03",
+  "status": "DURABLE_POST_DEEP_UPGRADE_CHECKPOINT",
+  "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
+  "working_master_blob_sha": "17199d28888901353cbc82224ecabc3c1bf56e2d",
+  "snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_POST_DEEP_UPGRADE_2026-10-03.md",
+  "structure": "24 days x 3 daily elements + back matter",
+  "version_01_preserved": true,
+  "next_step": "full multi-agent QA and final polishing pass before owner PDF",
+  "publication_authorized": false
+}

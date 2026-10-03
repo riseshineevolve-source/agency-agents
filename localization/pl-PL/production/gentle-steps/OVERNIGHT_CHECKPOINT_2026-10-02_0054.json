@@ -1,0 +1,43 @@
+{
+  "format": "rse-overnight-checkpoint-v1",
+  "date": "2026-10-02",
+  "lane": "polish-localization-engine/gentle-steps",
+  "branch": "codex/polish-engine-main-reconcile",
+  "current_head": "cc0ae8b43c44013bffea0a732f7214ef32bbc7cf",
+  "accomplished": [
+    "Located the exact canonical 104-page paperback in the connected Library at /AI AGENTS/24 Gentle Paperback ok.pdf.",
+    "Inspected source pages 98-104 directly and wrote a source-bound functional brief for all post-Day24 material.",
+    "Audited the full Days 01-24 Polish owner-review master for residual near-native wording, English-coded sounds and imported wellness/product language.",
+    "Protected the current hash-bound production candidate after a test micro-edit exposed stale review evidence; restored the canonical candidate and re-ran CI.",
+    "Polish Localization Regression run 175 is green on the repaired branch."
+  ],
+  "source_receipt": {
+    "filename": "24 Gentle Paperback ok.pdf",
+    "pages": "98-104",
+    "sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+    "back_matter_sections": [
+      "Reflections & Beyond",
+      "Family Promise",
+      "Closing Blessing",
+      "A Letter from The Happy-Makers"
+    ]
+  },
+  "editorial_findings": [
+    "Alphabet-based starter selectors should be expressed through natural Polish alphabetical order, not literal 'closest letter' phrasing where the mechanic permits an equivalent.",
+    "English-coded sound examples remain in a few later days and should be localized consistently.",
+    "A small number of character lines still sound editorial/product-like rather than born in Polish.",
+    "One rhythm example still uses dash-chaining even though the Polish house style calls for rebuilt punctuation.",
+    "Back matter contains the densest concentration of imported light, stillness, magic and presence metaphors; it needs full Polish-first re-authoring rather than translation."
+  ],
+  "durable_artifacts": [
+    "localization/pl-PL/production/gentle-steps/back-matter/functional-brief.json",
+    "localization/pl-PL/production/gentle-steps/OVERNIGHT_MICROPASS_2026-10-02.md"
+  ],
+  "gates": {
+    "recurring_labels": "OWNER_GATE: ZWOLNIJ / GRAMY / MIĘDZY NAMI remain working candidates only",
+    "publication": "NOT_AUTHORIZED",
+    "merge": "NOT_AUTHORIZED",
+    "exact_surface_fit": "DEFERRED until final copy lock",
+    "back_matter_polish_copy": "NEXT ELIGIBLE AUTHORING SLICE"
+  }
+}
