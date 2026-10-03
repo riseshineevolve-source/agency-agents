@@ -422,7 +422,7 @@ Luli: Jeśli ktoś zostawił wam ostatnie ciastko, nie nazywajmy tego drobiazgie
 
 Wieczorem często wszyscy są już w domu, ale każdy jeszcze gdzieś pędzi. Ktoś kończy lekcje, ktoś odpowiada na wiadomość, ktoś myśli o kolacji, a ktoś marzy tylko o tym, żeby nikt niczego od niego nie chciał.
 
-Usiądźcie blisko siebie, tak żeby stykać się ramionami.
+Usiądźcie blisko siebie. Jeśli wszystkim odpowiada kontakt, możecie lekko zetknąć się ramionami.
 
 Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Każdy oddycha we własnym tempie.
 
@@ -514,7 +514,7 @@ Można spędzić pół dnia w jednym domu, mijać się w kuchni i przedpokoju, a
 
 Usiądźcie razem i weźcie jeden spokojny oddech.
 
-Otwórzcie oczy i przez kilka sekund popatrzcie na osoby obok.
+Otwórzcie oczy i przez kilka sekund spójrzcie na kogoś obok. Nie musicie patrzeć prosto w oczy.
 
 Pomyślcie o jednej konkretnej rzeczy, którą w kimś obok lubicie albo cenicie.
 
@@ -881,7 +881,7 @@ Przez minutę sprawdźcie trzy miejsca. Najpierw czoło, potem okolice oczu, a n
 
 Na koniec zróbcie jeden zwykły, dłuższy wydech.
 
-Mimi: Mina pod tytułem „jeszcze tylko pięć rzeczy” ma dziś wcześniejsze wyjście.
+Mimi: Mina pod tytułem „jeszcze tylko pięć rzeczy” może już zdjąć dyżur.
 
 ### GRAMY: TUNEL KIBICÓW
 
@@ -1009,7 +1009,7 @@ Możecie zacząć od słów:
 
 „Ten miesiąc pokazał mi, że…”
 
-Luli: Jeśli odkryliście tylko, że ktoś najlepiej rozmawia po 21:00, to też jest cenna informacja.
+Luli: Jeśli odkryliście, że po 21:00 ktoś zaczyna mówić pełnymi zdaniami, też się liczy.
 
 ---
 
