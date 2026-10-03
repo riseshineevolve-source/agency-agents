@@ -2,7 +2,7 @@
 
 Date: 2026-10-03  
 Status: **READY FOR OWNER FULL READ / NOT FROZEN / NOT PUBLICATION-LOCKED**  
-Working master blob: `38c0fd5aab538cec275cf14635f43b44585392e7`
+Working master blob: `17199d28888901353cbc82224ecabc3c1bf56e2d`
 
 ## Editorial lenses
 
@@ -202,3 +202,18 @@ The book now separates the three daily jobs more clearly:
 - **ZWOLNIJ** handles the actual pressure of the day;
 - **GRAMY** creates laughter, coordination, trust or shared challenge;
 - **MIĘDZY NAMI** creates a short opening for recognition, gratitude, memory, support or honest family knowledge.
+
+
+### Final owner-feedback refinements
+
+The latest working master additionally includes:
+- Day 10 rebuilt as a leaderless real-time family machine rather than another cumulative memory chain.
+- Day 17 adds a silent leadership handoff.
+- Day 18 has pair-based navigation, odd-number handling and trust-focused conversation.
+- Day 20 uses a distinct clench/release tension reset instead of repeating face/jaw relaxation.
+- Day 21 instructions were shortened without losing touch/no-touch consent mechanics.
+- Day 23 place-change mechanics now work when one or multiple people match; the apology section is optional and directed to the actual person involved.
+- Day 1 bonus round now becomes pure physical play after the compliment round, avoiding repeated praise.
+- Polish family details include breakfast cooling during the school-morning rush and ordinary evening chore invisibility.
+
+Current owner-read gate remains open; Version 01 is preserved and Version 02 is not frozen.
