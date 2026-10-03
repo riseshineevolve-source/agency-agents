@@ -48,7 +48,7 @@ Kontynuujcie, aż każdy usłyszy przynajmniej jeden komplement.
 
 Jeśli macie jeszcze dwie minuty, zagrajcie rundę bonusową. Tym razem piłka za każdym rzutem może się zmienić. Może nagle ważyć tonę, być lekka jak balon, maleńka albo ogromna. Nie mówcie, jaka jest. Pokażcie to ruchem. Osoba łapiąca musi zareagować tak, jakby naprawdę dostała właśnie taką piłkę, a potem przekazać ją dalej z kolejnym komplementem.
 
-Nini: Bez rozbiegu. To ma trafić do człowieka, nie w człowieka.
+Nini: Bez zamachu jak na WF-ie. Piłka jest niewidzialna, siniaki nie.
 
 ### MIĘDZY NAMI: CO W GRUDNIU LUBIĘ, A CZEGO MAM DOŚĆ?
 
@@ -158,7 +158,7 @@ Popatrzcie, jak światło drga, zmienia się i odbija na przedmiotach wokół. O
 
 Przez tę chwilę wystarczy patrzeć na jedną rzecz.
 
-Luli: Jedna rzecz naraz. Proszę to gdzieś zapisać, bo grudzień najwyraźniej nie dostał tej informacji.
+Luli: Jedna rzecz naraz. Ktoś powinien poinformować o tym grudzień.
 
 ### GRAMY: GŁOSY W OBIEGU
 
@@ -791,19 +791,21 @@ Luli: Korki już były. Wydech nie musi się spieszyć.
 
 Najpierw przygotujcie bezpieczne miejsce. Odsuńcie rzeczy, o które można się potknąć, i wybierzcie fragment pokoju bez schodów, ostrych kantów ani innych przeszkód.
 
-Najstarsza osoba zostaje pierwszym prowadzącym i ustawia krzesło w wybranym, bezpiecznym miejscu. Prowadzący przez całą rundę ma otwarte oczy.
+Dobierzcie się w pary. Jedna osoba jest nawigatorem, druga wykonuje instrukcje.
 
-Pozostali stają blisko siebie. Jeśli czują się z tym dobrze, zamykają oczy. Można też zostawić oczy otwarte i nadal brać udział.
+Nawigator ma otwarte oczy i ustawia krzesło w wybranym, bezpiecznym miejscu. Druga osoba, jeśli czuje się z tym dobrze, zamyka oczy. Może też zostawić je otwarte i nadal grać.
 
-Prowadzący podaje bardzo dokładne wskazówki krok po kroku, na przykład: „jeden mały krok w prawo”, „dwa kroki do przodu”, „stop”. Grupa porusza się powoli, małymi krokami, aż znajdzie się blisko krzesła.
+Nawigator nie dotyka drugiej osoby. Prowadzi ją wyłącznie słowami, bardzo dokładnie i po jednym kroku, na przykład: „jeden mały krok w prawo”, „dwa kroki do przodu”, „stop”.
 
-Kiedy dotrzecie na miejsce, spróbujcie bez słów ustalić, która jedna osoba usiądzie na krześle.
+Zadaniem jest dotrzeć do krzesła spokojnie i bez zgadywania, co nawigator miał na myśli.
 
-Jeśli chcecie, zagrajcie ponownie z innym prowadzącym.
+Kiedy pierwsza osoba dotrze na miejsce, zamieńcie się rolami.
 
-W dwie osoby jedna osoba prowadzi z otwartymi oczami, a druga wykonuje jej instrukcje i dociera do krzesła. Potem możecie zamienić się rolami.
+Jeśli chcecie trudniejszą rundę, nawigator może użyć najwyżej pięciu komunikatów. Przed każdym zdaniem naprawdę warto pomyśleć, co będzie jasne dla drugiej osoby.
 
-Mimi: Bez piruetów. Krzesło nie jest przeciwnikiem.
+Jeśli jest was więcej, pary mogą grać kolejno albo równocześnie w osobnych, bezpiecznych częściach pokoju.
+
+Mimi: „No tam, trochę bardziej w tę stronę” właśnie straciło licencję na nawigowanie.
 
 ### MIĘDZY NAMI: SŁOWO, KTÓRE DO CIEBIE PASUJE
 
@@ -971,32 +973,29 @@ Przez te kilka oddechów następny punkt z listy może poczekać.
 
 Luli: Lampki choinkowe mogą świecić za nas. Mamy dziś wolne.
 
-### GRAMY: KROK BLIŻEJ, KROK DALEJ
+### GRAMY: KTO TEŻ TAK MA?
 
-Stańcie w kółku. Upewnijcie się, że macie wokół siebie miejsce na mały krok do przodu lub do tyłu. Zaczyna najstarsza osoba.
+Stańcie w kółku. Upewnijcie się, że macie wokół siebie miejsce na jeden mały krok.
 
-Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z tym, co myśli:
+Zaczyna najstarsza osoba. Mówi jedno krótkie zdanie o sobie. Najlepiej takie, którego inni nie są pewni.
 
-„Najbardziej sobą jestem, kiedy…”
-„Dziś mogę o sobie powiedzieć, że…”
-„Coś ważnego dla mnie, czego nie widać od razu, to…”
-„Jedna cecha, której czasem mi brakuje, to…”
-„Kiedy myślę «dom», pierwsze słowo, które przychodzi mi do głowy, to…”
-„Słowo, które ostatnio mi pomaga, to…”
+Możecie zacząć od:
+„Najlepiej odpoczywam, kiedy…”
+„W domu zawsze jako pierwszy zauważam…”
+„Gdy mam zły dzień, najbardziej pomaga mi…”
+„W grudniu najbardziej lubię…”
+„Gdybym mógł dziś skreślić jedną rzecz z listy, byłoby to…”
+albo wymyślić własne zdanie.
 
-Nie trzeba wybierać najpoważniejszego zdania. Wybierzcie takie, na które macie dziś ochotę odpowiedzieć.
+Każdy, kto ma podobnie, robi jeden mały krok do środka. Kto ma inaczej, zostaje na miejscu.
 
-Kiedy osoba prowadząca skończy, pozostali odpowiadają ruchem.
+Bez tłumaczenia i bez przekonywania. Patrzycie tylko, przy czym spotykacie się w środku, a przy czym każdy ma zupełnie inaczej.
 
-Jeśli zdanie mocno do was pasuje, zróbcie mały krok w stronę środka koła. Jeśli pasuje trochę, zostańcie w miejscu. Jeśli zupełnie nie jest o was, zróbcie mały krok do tyłu.
+Potem kolejna osoba podaje swoje zdanie.
 
-Nie komentujcie cudzych wyborów i nie pytajcie, dlaczego ktoś stanął właśnie tam.
+W dwie osoby zasada jest taka sama. Jeśli macie podobnie, oboje robicie krok do przodu. Jeśli nie, zostajecie na miejscu.
 
-Następnie prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara.
-
-W dwie osoby stańcie naprzeciwko siebie. Jedna osoba kończy wybrane zdanie, a druga robi krok do przodu, zostaje w miejscu albo robi krok do tyłu według tej samej zasady. Potem zamieńcie się rolami.
-
-Mimi: Bez zgadywania po minach. Krok mówi dokładnie tyle, ile chcecie powiedzieć.
+Mimi: Najciekawsze są te momenty, kiedy wszyscy robią krok i każdy jest trochę zaskoczony.
 
 ### MIĘDZY NAMI: CO TEN MIESIĄC NAM POKAZAŁ?
 
