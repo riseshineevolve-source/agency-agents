@@ -1,8 +1,8 @@
 {
   "version": "02",
-  "status": "READY_FOR_OWNER_REVIEW",
+  "status": "READY_FOR_OWNER_REVIEW_AFTER_MULTI_AGENT_FULL_READER_AUDIT",
   "master": "localization/pl-PL/production/gentle-steps/versions/v02/GENTLE_STEPS_PL_VERSION_02_MASTER.md",
-  "master_blob_sha": "d87db6767dc76298f443b9bb9ad012443dee9969",
+  "master_blob_sha": "46542df9e3e44f235f112edb2d381d5511c7abca",
   "coverage": {
     "days": 24,
     "sections": 72,
@@ -25,7 +25,8 @@
     "premium_polish_register": "PASS_AFTER_NATIVE_MICROPASS",
     "humor_does_not_replace_depth": "PASS_BY_EDITORIAL_DESIGN",
     "games_keep_source_mechanics": "PASS_FROM_V01_MECHANICS_PRESERVATION_AND_TARGETED_V02_RECHECK",
-    "back_matter_reauthored": "PASS"
+    "back_matter_reauthored": "PASS",
+    "full_reader_language_logic_humor_depth_audit": "PASS_WITH_TARGETED_FIXES_APPLIED"
   },
   "remaining_owner_gates": [
     "final Polish title",
@@ -34,5 +35,6 @@
     "final designed-surface fit and proof",
     "publication authorization"
   ],
-  "editorial_note": "Version 02 deliberately increases real-December specificity, child pull, comic timing and family truth while keeping later days capable of carrying apology, appreciation, memory, gratitude and reflection without turning those moments into jokes."
+  "editorial_note": "Version 02 deliberately increases real-December specificity, child pull, comic timing and family truth while keeping later days capable of carrying apology, appreciation, memory, gratitude and reflection without turning those moments into jokes.",
+  "multi_agent_reader_audit": "localization/pl-PL/production/gentle-steps/versions/v02/V02_MULTI_AGENT_FULL_READER_AUDIT_2026-10-03.md"
 }
