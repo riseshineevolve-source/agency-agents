@@ -8,7 +8,7 @@ Usiądźcie razem i zamknijcie oczy.
 
 Przez kilka oddechów po prostu posiedźcie obok siebie. Nie trzeba oddychać w tym samym tempie ani próbować wywołać konkretnego nastroju.
 
-Pomyślcie przez chwilę o jednej zwyczajnej rzeczy, którą lubicie w takich wspólnych momentach.
+Pomyślcie przez chwilę, co lubicie w tym, że teraz po prostu siedzicie obok siebie.
 
 Dilo: Światło zostawmy lampkom. Ta minuta działa bez instalacji elektrycznej.
 
