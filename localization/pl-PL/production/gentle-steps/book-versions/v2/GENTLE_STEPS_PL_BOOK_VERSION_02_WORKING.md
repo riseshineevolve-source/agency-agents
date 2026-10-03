@@ -791,6 +791,8 @@ Najpierw przygotujcie bezpieczne miejsce. Odsuńcie rzeczy, o które można się
 
 Dobierzcie się w pary. Jedna osoba jest nawigatorem, druga wykonuje instrukcje.
 
+Jeśli jest was nieparzysta liczba, w jednej grupie będą trzy osoby. Dwie grają, a trzecia pilnuje bezpiecznej przestrzeni i nasłuchuje, które instrukcje były naprawdę jasne. Po każdej rundzie zmieńcie role.
+
 Nawigator ma otwarte oczy i ustawia krzesło w wybranym, bezpiecznym miejscu. Druga osoba, jeśli czuje się z tym dobrze, zamyka oczy. Może też zostawić je otwarte i nadal grać.
 
 Nawigator nie dotyka drugiej osoby. Prowadzi ją wyłącznie słowami, bardzo dokładnie i po jednym kroku, na przykład: „jeden mały krok w prawo”, „dwa kroki do przodu”, „stop”.
@@ -805,7 +807,7 @@ Jeśli jest was więcej, pary mogą grać kolejno albo równocześnie w osobnych
 
 Mimi: „No tam, trochę bardziej w tę stronę” właśnie straciło licencję na nawigowanie.
 
-### MIĘDZY NAMI: W CZYM MOGĘ NA CIEBIE LICZYĆ?
+### MIĘDZY NAMI: KIEDY MOGĘ NA CIEBIE LICZYĆ?
 
 Zaczyna dowolna osoba. Zwraca się do osoby siedzącej po prawej stronie i kończy zdanie:
 
