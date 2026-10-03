@@ -614,7 +614,7 @@ class GentleStepsPolishBookVersion02(unittest.TestCase):
         self.assertIn("### GRAMY: KTO TEŻ TAK MA?", daily)
         self.assertIn("### ZWOLNIJ: ZACIŚNIJ. PUŚĆ.", daily)
         self.assertNotIn("### ZWOLNIJ: CZOŁO, OCZY, SZCZĘKA", daily)
-        self.assertIn("Jeśli tylko jedna osoba pasuje do hasła, robi szybki obrót", daily)
+        self.assertIn("Jeśli pasuje tylko jedna osoba, robi szybki obrót", daily)
         self.assertIn("Nie potrzebujecie pełnego okrążenia.", daily)
         self.assertNotIn("### GRAMY: KROK BLIŻEJ, KROK DALEJ", daily)
         self.assertIn("### MIĘDZY NAMI: CO CHCESZ ZAPAMIĘTAĆ Z TEGO GRUDNIA?", daily)
