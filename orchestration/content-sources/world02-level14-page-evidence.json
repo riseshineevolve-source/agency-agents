@@ -1,0 +1,445 @@
+{
+  "evidence_version": 1,
+  "mission_id": "world02_mission_014",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "filename": "paperback 10 STORIES WORLD 02 FINAL standard(1).pdf",
+    "isbn": "9798249971823",
+    "sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "bytes": 66576954,
+    "pages": 104,
+    "page_range": [
+      38,
+      46
+    ]
+  },
+  "method": "Visual block-by-block transcription of all nine published Level 14 pages; final paperback page images and indexed PDF text used for cross-checking",
+  "page_inventory": [
+    {
+      "page": 38,
+      "content_blocks": 1
+    },
+    {
+      "page": 39,
+      "content_blocks": 4
+    },
+    {
+      "page": 40,
+      "content_blocks": 4
+    },
+    {
+      "page": 41,
+      "content_blocks": 3
+    },
+    {
+      "page": 42,
+      "content_blocks": 4
+    },
+    {
+      "page": 43,
+      "content_blocks": 5
+    },
+    {
+      "page": 44,
+      "content_blocks": 1
+    },
+    {
+      "page": 45,
+      "content_blocks": 4
+    },
+    {
+      "page": 46,
+      "content_blocks": 3
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p38_b01",
+      "node_id": "world02_mission_014_node_001",
+      "page": 38,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 14:",
+        "title": "The Teflon Shield",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "RESILIENCE",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "How to handle 'Haters' without letting the poison stick.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p39_b01",
+      "node_id": "world02_mission_014_node_002",
+      "page": 39,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "story_heading": "THE TEFLON SHIELD",
+        "log_label": "SYSTEM LOG >>",
+        "text": "Afternoon. Nini stormed in from school, threw her backpack with surprising force, and face-planted into the sofa cushions. The muffled scream was loud enough to wake the cat, who immediately ran out of the room. Alio poked her gently with a stick, checking for signs of life."
+      }
+    },
+    {
+      "evidence_id": "p39_b02",
+      "node_id": "world02_mission_014_node_003",
+      "page": 39,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "I am moving to Mars! Earth is cancelled! Everyone is mean and the gravity is stupid!"
+      }
+    },
+    {
+      "evidence_id": "p39_b03",
+      "node_id": "world02_mission_014_node_004",
+      "page": 39,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Can I have your room? I need to make my gaming space bigger."
+      }
+    },
+    {
+      "evidence_id": "p39_b04",
+      "node_id": "world02_mission_014_node_005",
+      "page": 39,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi sat down and stroked Nini's hair, her heart breaking for her daughter. She pulled the cushion away so Nini could breathe. 'Report, Nini. What happened?'"
+      }
+    },
+    {
+      "evidence_id": "p40_b01",
+      "node_id": "world02_mission_014_node_006",
+      "page": 40,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "A girl on the playground called my glitter shoes 'cringe'. She said only babies wear sparkles. The ones I searched for all morning! Everyone laughed. I have to burn them. I hate them now! They are betrayed shoes!"
+      }
+    },
+    {
+      "evidence_id": "p40_b02",
+      "node_id": "world02_mission_014_node_007",
+      "page": 40,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Give me her name. I will unleash the Mutant Ants in her locker. She will pay! I will build a catapult that launches water balloons directly at her desk! We will ruin her coolness in the secret playground clubs!"
+      }
+    },
+    {
+      "evidence_id": "p40_b03",
+      "node_id": "world02_mission_014_node_008",
+      "page": 40,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli walked in, holding a clipboard and looking incredibly serious. She tapped her pen hard."
+      }
+    },
+    {
+      "evidence_id": "p40_b04",
+      "node_id": "world02_mission_014_node_009",
+      "page": 40,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "Give me her username, Nini. I don't need mutant ants or catapults like Alio. I will simply log into her Roblox account, get everyone to ignore her game, and change all her stuff to boring beige blocks. The ultimate mind games. She will know nothing but boring beige for the rest of her digital life."
+      }
+    },
+    {
+      "evidence_id": "p41_b01",
+      "node_id": "world02_mission_014_node_010",
+      "page": 41,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "(Stopping his game immediately, his face turning serious. He kicks his soccer ball up into his hands). Give me a soccer ball and tell me where she hangs out on the playground. I will practice my super hard free kicks near her head. Nobody makes the glitter-bug cry. Nobody."
+      }
+    },
+    {
+      "evidence_id": "p41_b02",
+      "node_id": "world02_mission_014_node_011",
+      "page": 41,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Stand down, team. I love that you protect each other, but we don't do mean hacks, and we definitely don't use soccer balls as weapons. Revenge just spreads the mud around. Nini, stand up. Look at me. (Mimi demonstrates a 'power pose', standing tall with hands on hips to boost confidence). Imagine your heart is a Sponge. When she threw that muddy word at you, what did you do?"
+      }
+    },
+    {
+      "evidence_id": "p41_b03",
+      "node_id": "world02_mission_014_node_012",
+      "page": 41,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "I soaked it up. I felt heavy and sad and stupid."
+      }
+    },
+    {
+      "evidence_id": "p42_b01",
+      "node_id": "world02_mission_014_node_013",
+      "page": 42,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Right. You soaked up her mean thought and made it YOUR thought. But her words are just air. They aren't facts. Now, imagine you are a slick, shiny frying pan. A Teflon pan. Nothing sticks to a slick pan. You pour mud on it, and it just slides off. Woosh."
+      }
+    },
+    {
+      "evidence_id": "p42_b02",
+      "node_id": "world02_mission_014_node_014",
+      "page": 42,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "But it hurts! My bucket tipped over!"
+      }
+    },
+    {
+      "evidence_id": "p42_b03",
+      "node_id": "world02_mission_014_node_015",
+      "page": 42,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "I know. It hurts because you took the package she gave you. Imagine she handed you a box of actual, smelly trash. Would you take it, carry it to your room, and keep it on your pillow?"
+      }
+    },
+    {
+      "evidence_id": "p42_b04",
+      "node_id": "world02_mission_014_node_016",
+      "page": 42,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "No... I would tell her to keep her gross trash."
+      }
+    },
+    {
+      "evidence_id": "p43_b01",
+      "node_id": "world02_mission_014_node_017",
+      "page": 43,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Next time, don't sign for the package. Look at her and think: 'Wow, that is a rude thing to say. Return to Sender.' And keep walking. You just shrug it off. Let her carry her own heavy, muddy trash."
+      }
+    },
+    {
+      "evidence_id": "p43_b02",
+      "node_id": "world02_mission_014_node_018",
+      "page": 43,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Like blocking an annoying player in a game? Mute and report? You just don't listen to the mean stuff?"
+      }
+    },
+    {
+      "evidence_id": "p43_b03",
+      "node_id": "world02_mission_014_node_019",
+      "page": 43,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Exactly. Don't feed the Trolls. Be Teflon."
+      }
+    },
+    {
+      "evidence_id": "p43_b04",
+      "node_id": "world02_mission_014_node_020",
+      "page": 43,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini sat up. She looked down at her shoes. They sparkled brightly in the living room light. She stood up, shook her arms and legs to shake off the bad feelings, and did a happy spin."
+      }
+    },
+    {
+      "evidence_id": "p43_b05",
+      "node_id": "world02_mission_014_node_021",
+      "page": 43,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "They are pretty shiny. Maybe she was just jealous of my brightness. I bet she wears boring beige shoes."
+      }
+    },
+    {
+      "evidence_id": "p44_b01",
+      "node_id": "world02_mission_014_node_022",
+      "page": 44,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini's shields were up. The Dream Team had surrounded her with love. But while they were busy fighting mean words, the physical house had turned into an absolute disaster zone..."
+      }
+    },
+    {
+      "evidence_id": "p45_b01",
+      "node_id": "world02_mission_014_node_023",
+      "page": 45,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 040",
+        "heading": "THE BRAIN SECRET (Social Pain)",
+        "science_label": "The Science:",
+        "science": "Did you know that hearing mean words lights up the exact same part of your brain as physical pain (the Anterior Cingulate Cortex)? Your brain thinks you are being kicked out of the tribe, which feels very dangerous!",
+        "in_story_label": "In The Story:",
+        "in_story": "Nini's \"bucket tipped over\" because the mean words caused a real pain response in her brain. She absorbed it like a sponge."
+      }
+    },
+    {
+      "evidence_id": "p45_b02",
+      "node_id": "world02_mission_014_node_024",
+      "page": 45,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 041",
+        "heading": "THE TOOL ('Return to Sender')",
+        "science_label": "The Science:",
+        "science": "Visualization changes brain chemistry (Cognitive Reappraisal). You can train your brain to reject negative data.",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi told Nini to imagine the mean words as a physical package of smelly trash. Mentally stamp 'RETURN TO SENDER' and don't sign for it. Let them carry their own trash."
+      }
+    },
+    {
+      "evidence_id": "p45_b03",
+      "node_id": "world02_mission_014_node_025",
+      "page": 45,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 042",
+        "heading": "THE GLITCH ('Everyone hates me')",
+        "science_label": "The Science:",
+        "science": "'Generalization'. One person was mean, but your Lizard Brain hits the panic button and screams 'EVERYONE is laughing!'",
+        "in_story_label": "In The Story:",
+        "in_story": "Nini said 'Everyone laughed' and wanted to burn her shoes.",
+        "correction_label": "Correction:",
+        "correction": "Fact Check! Was it everyone? Or just one grumpy troll? Focus on your Allies (like Alio, Dilo, and Luli who immediately wanted to protect her)."
+      }
+    },
+    {
+      "evidence_id": "p45_b04",
+      "node_id": "world02_mission_014_node_026",
+      "page": 45,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Nini realized her shoes weren't the problem; the other girl was just throwing a 'muddy package.'",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Has anyone ever handed you a 'trash package' of mean words? Did you act like a Sponge and soak it up, or a Teflon Pan and let it slide off?"
+      }
+    },
+    {
+      "evidence_id": "p46_b01",
+      "node_id": "world02_mission_014_node_027",
+      "page": 46,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo compared the Teflon shield to 'muting and reporting' a troll in a game.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Practice the 'So What?' Shrug. Roleplay: Have someone in your family say, 'You are weird.' You shrug your shoulders, smile brightly, say 'Okay!', and walk away. It is the ultimate power move!"
+      }
+    },
+    {
+      "evidence_id": "p46_b02",
+      "node_id": "world02_mission_014_node_028",
+      "page": 46,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why is \"The Shrug\" so powerful? Bullies and trolls are looking for a dopamine hit, which they get when they see you get angry or sad. If you give them a blank, happy, or bored reaction (like a shrug), their brain doesn't get the reward. You are literally starving their brain of dopamine, making them lose interest instantly."
+      }
+    },
+    {
+      "evidence_id": "p46_b03",
+      "node_id": "world02_mission_014_node_029",
+      "page": 46,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“I AM TEFLON!”",
+        "meaning_label": "MEANING:",
+        "meaning": "Someone threw muddy words, mean opinions, or bad energy at me. It hurts, but I am refusing to absorb it like a sponge.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "The Family Team validates the hurt, but reminds the player to activate their non-stick shield. Their words are sliding off. I am safe.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Stop crying, it's just a pair of shoes. Ignore her!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'I see your bucket spilled. Let's activate the Teflon Shield so her trash slides off.'"
+      }
+    }
+  ]
+}

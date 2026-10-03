@@ -71,3 +71,23 @@ locks:
   - print and ebook PDFs are separate preserved masters
   - extracted DOC is a translation working source, not stronger than final page images
   - cover canonicalization remains owner-gated until strongest publishing evidence is identified
+
+
+app_audit:
+  date: 2026-10-01
+  status: complete_rebuild_from_canonical_source
+  checkpoint: orchestration/brain/checkpoints/2026-10-01-world02-source-app-audit.md
+  gate: orchestration/brain/checkpoints/2026-10-01-world02-audit-gate.json
+  execution_bootstrap: orchestration/bootstrap/WORLD02_EXECUTION_BOOTSTRAP.md
+  production_repo: riseshineevolve-source/spark-joy-fam
+  world01_runtime_baseline: 8e05b34ca4a8990635a4bf1c581e46ab41e48d1a
+  legacy_world02_blob: 377463e1853743f82d4d3bca5ce89b6e5b05b210
+  legacy_reuse_authorized: false
+  all_levels_require_source_reextraction: true
+  hard_conflict_levels:
+    - 16
+    - 17
+    - 18
+    - 19
+    - 20
+  next_safe_slice: level_11_complete_source_proven_pack

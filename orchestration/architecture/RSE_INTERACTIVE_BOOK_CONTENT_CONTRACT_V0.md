@@ -1,5 +1,8 @@
 # RSE Interactive Book Content Contract v0
 
+Legacy synthetic/pilot contract. The active bounded real-content graph contract
+is `RSE_INTERACTIVE_BOOK_CONTENT_GRAPH_V1.md`.
+
 Status: SPECIFICATION ONLY / SYNTHETIC FIXTURES / NO PRODUCT CONVERSION AUTHORIZATION
 Updated: 2026-09-20
 
@@ -200,6 +203,14 @@ Do not use World 01, World 02, Gentle Steps, Detective, Happy Me, unpublished bo
 - 24 Gentle Steps to Christmas should reuse it after its current canonical-source/localization gates are satisfied.
 - Happy Me remains a separate family/child-sensitive backend domain and is not silently migrated by this factory.
 - Mind Bloom remains private owner-only and outside the consumer factory.
+
+### Owner-promoted World 01 candidate boundary (2026-09-26)
+
+The bounded candidate in `orchestration/content-packs/world01/mission-openers.en.candidate.json` uses only the published title, key, and mission objective from the first three World 01 opener pages. It is an `info_card` overview slice, not a conversion of the three complete stories. Its language-neutral activity IDs and progression are runtime choices, not book claims.
+
+For a published-source candidate, the pack records a source ID, SHA-256, a fixed evidence manifest, and a source page for each activity. The dedicated provenance validator compares every English copy field to that manifest, rejects extra copy/behavior and unexpected locales, and can verify the private PDF binary and page text with `--pdf`. The v0 structural validator still runs independently.
+
+`supported_locales` lists locales actually present in this candidate (`en`). `planned_locales` records the intended `pl-PL` architecture without implying that a translation exists. The candidate is not a bilingual release pack; the localization release gates above remain unmet.
 
 ## Definition of v0 spec DONE
 

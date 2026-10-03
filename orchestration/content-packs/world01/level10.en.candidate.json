@@ -1,0 +1,664 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_01",
+  "content_pack_id": "world01_mission_010_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world01_mission_010",
+  "candidate_scope": "published_mission_010_pages_92_99",
+  "source": {
+    "source_id": "world01_paperback_2026_09_18",
+    "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "source_bytes": 14523549,
+    "source_pages": 108,
+    "page_range": [
+      92,
+      99
+    ],
+    "evidence_manifest": "orchestration/content-sources/world01-level10-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world01_mission_010_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_010_node_002",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 92,
+        "evidence_id": "p92_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_002",
+      "sequence": 2,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_010_node_003",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 93,
+        "evidence_id": "p93_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_003",
+      "sequence": 3,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world01_mission_010_node_004",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 93,
+        "evidence_id": "p93_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_004",
+      "sequence": 4,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_010_node_005",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 93,
+        "evidence_id": "p93_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_005",
+      "sequence": 5,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_010_node_006",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 93,
+        "evidence_id": "p93_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_006",
+      "sequence": 6,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_010_node_007",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 93,
+        "evidence_id": "p93_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_007",
+      "sequence": 7,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_010_node_008",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 94,
+        "evidence_id": "p94_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_008",
+      "sequence": 8,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_010_node_009",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 94,
+        "evidence_id": "p94_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_009",
+      "sequence": 9,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_010_node_010",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 94,
+        "evidence_id": "p94_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_010",
+      "sequence": 10,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_010_node_011",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 94,
+        "evidence_id": "p94_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_011",
+      "sequence": 11,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_010_node_012",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 94,
+        "evidence_id": "p94_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_012",
+      "sequence": 12,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_010_node_013",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 95,
+        "evidence_id": "p95_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_013",
+      "sequence": 13,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_010_node_014",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 95,
+        "evidence_id": "p95_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_014",
+      "sequence": 14,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world01_mission_010_node_015",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 95,
+        "evidence_id": "p95_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_015",
+      "sequence": 15,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_010_node_016",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 95,
+        "evidence_id": "p95_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_016",
+      "sequence": 16,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_010_node_017",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 96,
+        "evidence_id": "p96_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_017",
+      "sequence": 17,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world01_mission_010_node_018",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 96,
+        "evidence_id": "p96_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_018",
+      "sequence": 18,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world01_mission_010_node_019",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 96,
+        "evidence_id": "p96_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_019",
+      "sequence": 19,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world01_mission_010_node_020",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 96,
+        "evidence_id": "p96_b04"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_020",
+      "sequence": 20,
+      "node_type": "system_note",
+      "subtype": "system_tip",
+      "speaker_id": null,
+      "next_id": "world01_mission_010_node_021",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 96,
+        "evidence_id": "p96_b05"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_021",
+      "sequence": 21,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world01_mission_010_node_022",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 97,
+        "evidence_id": "p97_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_022",
+      "sequence": 22,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world01_mission_010_node_023",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 97,
+        "evidence_id": "p97_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_023",
+      "sequence": 23,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world01_mission_010_node_024",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 97,
+        "evidence_id": "p97_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_024",
+      "sequence": 24,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world01_mission_010_node_025",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 98,
+        "evidence_id": "p98_b01"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_025",
+      "sequence": 25,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world01_mission_010_node_026",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 98,
+        "evidence_id": "p98_b02"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_026",
+      "sequence": 26,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world01_mission_010_node_027",
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 98,
+        "evidence_id": "p98_b03"
+      }
+    },
+    {
+      "node_id": "world01_mission_010_node_027",
+      "sequence": 27,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world01_paperback_2026_09_18",
+        "source_sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+        "page": 99,
+        "evidence_id": "p99_b01"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_001",
+      "fields": {
+        "level_label": "LEVEL 10:",
+        "title": "The Energy Vampire",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "ENERGY",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Defeating the Energy Vampire by eating a metaphorical ugly frog.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_002",
+      "fields": {
+        "story_heading": "THE ENERGY VAMPIRE",
+        "log_label": "SYSTEM LOG >>",
+        "text": "It was 20:00. The Sunday Panic. Dilo ran aimlessly in circles, clutching his head. The entire weekend was gone."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_003",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "No time! Battery 5%! I have math, geography, and I promised to clean my room! Why is the weekend only 4 minutes long?!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_004",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi was standing in the middle of the room, holding a real sock. She rubbed her forehead, trying to find her own Wizard in the mess."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_005",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Dilo, stop running! You spent 4 hours organizing digital socks, but your real socks are on the floor!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_006",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Meanwhile, Luli was calmly eating an apple in the eye of the storm. She pointed under the kitchen table."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_007",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Um, Mammi? Why is Alio wearing his bicycle helmet inside?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_008",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi lifted the tablecloth. Alio was curled up in a ball, helmet strapped tight, holding a flashlight."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_009",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Alio?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_010",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Shhh! Dilo said the Energy Vampire comes at 20:00. He sucks the juice right out of the top of your head! I don't want to be a dead battery! I want to keep my juice!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_011",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi sighed, pulling Alio out by his foot."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_012",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Alio, take off the helmet. Dilo is talking nonsense. But... he is right about the Vampire. The Vampire is called Brain Drain."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_013",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Brain Drain? Is that a monster with fangs?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_014",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "It's when you worry. Dilo started the day with 100% Battery. But every time he looked at his homework and said 'Not now,' it cost him 10% energy. He wasted his whole battery worrying about the work, not doing it. Now he has to fight the Boss Level with only 5% power."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_015",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Next time, you have to Eat the Frog in the morning."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_016",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "A FROG?! A real, green, slimy frog?! I have to eat it for breakfast?! NOOOO!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_017",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "He tried to put his helmet back on."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_018",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "A metaphorical frog, you nugget! The Frog is the hard task. Like math. Or cleaning."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_019",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Aaa. That makes sense. Homework is disgusting like frogs. I would rather eat the frog than let the Vampire steal my juice."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_020",
+      "fields": {
+        "file_label": "// FILE: SYSTEM_TIPS",
+        "note_label": "SYSTEM TIP:",
+        "text": "Do the hard thing in the morning, and you will save your energy (and you won't need a helmet)."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_021",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 028",
+        "heading": "THE BRAIN SECRET (Brain Drain)",
+        "science_label": "The Science:",
+        "science": "You have a limited amount of 'Willpower Fuel' each day. Scientists call this Decision Fatigue. Every time you look at a task and decide not to do it, you burn fuel.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo spent all day playing games and avoiding his chores. By 20:00, he hadn't done the work, but he was exhausted anyway! Why? Because 'avoiding' takes as much energy as 'doing.'"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_022",
+      "fields": {
+        "file_label": "// FILE: 029",
+        "heading": "THE TOOL ('Eat The Frog')",
+        "science_label": "The Science:",
+        "science": "Your brain is freshest in the morning. If you do the hardest, ugliest task first ('Eating the Frog'), your brain releases Dopamine (relief!). The rest of the day feels easy because you aren't carrying a heavy frog in your pocket.",
+        "in_story_label": "In The Story:",
+        "in_story": "If Dilo had done his math (The Frog) at 10:00 AM, he would have had 100% battery for his digital socks later."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_023",
+      "fields": {
+        "file_label": "// FILE: 030",
+        "heading": "THE GLITCH ('I'm too tired to start')",
+        "science_label": "The Science:",
+        "science": "Your brain tries to 'save energy' by keeping you on the couch. You have to trick it.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo was running in circles, panicked. He needed the 'Rocket Launch': Count backwards 5-4-3-2-1... GO! and just move your body. Don't think, just launch."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_024",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio was scared of the 'Vampire' (Panic).",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "What is your 'Frog' for tomorrow? (Homework? Cleaning a cage? Writing a thank-you card?) What sucks your battery the most?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_025",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi identified the 'Real Socks' vs. 'Digital Socks' problem.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Tomorrow morning, do your 'Frog' task immediately. Notice how light and free you feel afterwards!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_026",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why does avoiding work make me tired? Because your brain runs a 'background app' called Worry. Even when you are playing a game, if you know you have homework, that background app is draining your battery (Decision Fatigue). Doing the task closes the app and stops the drain."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world01_mission_010_node_027",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“EATING THE FROG”",
+        "meaning_label": "MEANING:",
+        "meaning": "I am doing the hardest, most annoying chore right now so I can enjoy the rest of my day without worrying.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Pick the worst task. Count 5-4-3-2-1 and just do it! No complaining.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Why did you wait until Sunday night to do this?!',",
+        "teach_label": "teach them to say:",
+        "teach_to_say": "'The Brain Drain got you! Next weekend, we will Eat the Frog on Saturday morning!'"
+      }
+    }
+  ]
+}
