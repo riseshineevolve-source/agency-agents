@@ -2,7 +2,7 @@
 
 Date: 2026-10-03  
 Status: **READY FOR OWNER FULL READ / NOT FROZEN / NOT PUBLICATION-LOCKED**  
-Working master blob: `ab2032ae99a3815b785accb07c40ed40f7110b69`
+Working master blob: `38c0fd5aab538cec275cf14635f43b44585392e7`
 
 ## Editorial lenses
 
@@ -173,3 +173,32 @@ Still open:
 6. publication authorization.
 
 No known grammar, logic, repetition or continuity defect currently blocks owner review.
+
+
+## Owner feedback integration pass
+
+**PASS**
+
+The later owner feedback was applied book-wide, not only to Days 1–7.
+
+Key changes:
+- Day 1 rebuilt around **MINUTA BEZ „MUSZĘ”**, stronger December recognition, preserved invisible ball and a new optional comedy round.
+- Day 1 conversation no longer duplicates compliments/check-in; it now names what the family likes in December and what they already have enough of.
+- Day 2 recognizes real school-morning chaos.
+- Day 3 explicitly handles the pressure carried home from school/work.
+- Day 4 retains the strong one-light overload metaphor.
+- Day 5 keeps the stronger VAR punchline.
+- Day 6 explicitly distinguishes body leans from steps and keeps the left/right family joke.
+- Day 7 evening chores and invisible household work are now visible in the copy.
+- Days 8–24 received the same real-December treatment: traffic, late activities, competing music, bathroom logistics, cold commutes, screens, unfinished lists and evening fatigue.
+- Reset repetition was reduced: Day 9 now uses a concrete 3-2-1 sensory task and Day 20 now uses **ZACIŚNIJ. PUŚĆ.** instead of repeating the face/jaw relaxation pattern.
+- Day 15 became **LUSTRO BEZ LUSTRA** for cooperation and non-verbal synchronization.
+- Day 18 is now a safer pair navigation/trust challenge and the conversation asks **KIEDY MOGĘ NA CIEBIE LICZYĆ?**
+- Day 22 is now **KTO TEŻ TAK MA?**, reducing workshop-like reflection inside the game.
+- Day 23 place-change rules now work even when only one person matches a prompt and the apology section is sincere, optional and never demands immediate forgiveness.
+- Happy Makers comments received another character-consistency and anti-corporate humor pass.
+
+The book now separates the three daily jobs more clearly:
+- **ZWOLNIJ** handles the actual pressure of the day;
+- **GRAMY** creates laughter, coordination, trust or shared challenge;
+- **MIĘDZY NAMI** creates a short opening for recognition, gratitude, memory, support or honest family knowledge.
