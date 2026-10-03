@@ -567,11 +567,13 @@ Dilo: Tryb 0,25x. Mózg może zgłosić reklamację.
 
 Dwie osoby stają naprzeciwko siebie i unoszą ręce, tworząc z nich „bramę”.
 
-Jedna z pozostałych osób przechodzi powoli pod bramą. W tym czasie pozostali mówią cicho po jednym życzliwym zdaniu albo kilku dobrych słowach o tej osobie.
+Osoba, która przechodzi, wybiera styl wejścia: zwyczajnie, w bardzo poważnym zwolnionym tempie albo tak, jakby właśnie wchodziła na największą premierę roku.
 
-Nie trzeba wygłaszać mowy. Jedno prawdziwe zdanie wystarczy.
+W czasie przejścia pozostali mówią po jednym krótkim, prawdziwym zdaniu o czymś, co w tej osobie lubią albo cenią.
 
-Po przejściu zmieńcie role. Kontynuujcie, aż każdy przynajmniej raz przejdzie przez bramę.
+Nie trzeba wygłaszać mowy. Jedno zdanie wystarczy. Jeśli ktoś nie ma ochoty być przez chwilę w centrum uwagi, może wybrać wersję bez słów. Wtedy pozostali robią tylko cichy gest uznania, na przykład kciuk w górę albo krótkie klaśnięcie.
+
+Po przejściu zmieńcie role. Kontynuujcie, aż każdy, kto chce, przejdzie przez bramę.
 
 Jeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła tak, żeby tworzyły umowną bramę. Przechodźcie przez nią po kolei i podczas przejścia mówcie sobie nawzajem kilka życzliwych słów.
 
@@ -877,7 +879,9 @@ Stańcie w dwóch rzędach naprzeciwko siebie, tak żeby między wami powstał k
 
 Zaczyna osoba, której urodziny przypadają najbliżej Bożego Narodzenia.
 
-Powoli przechodzi przez środek tunelu. W tym czasie pozostali klaszczą, nucą albo rytmicznie powtarzają jej imię.
+Przed wejściem wybiera tryb kibicowania: cicho, normalnie albo „stadion”.
+
+Powoli przechodzi przez środek tunelu. Pozostali dopasowują się do wybranego trybu: klaszczą, nucą albo rytmicznie powtarzają jej imię.
 
 Kiedy pierwsza osoba przejdzie na koniec, przez tunel przechodzi kolejna. Kontynuujcie, aż każdy będzie miał swoją rundę.
 
