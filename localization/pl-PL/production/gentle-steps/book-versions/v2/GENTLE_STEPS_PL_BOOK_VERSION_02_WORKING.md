@@ -873,17 +873,19 @@ Mimi: Jeśli lista zaczyna brzmieć jak piosenka, spokojnie. Karaoke jeszcze nie
 
 ## DZIEŃ 20
 
-### ZWOLNIJ: CZOŁO, OCZY, SZCZĘKA
+### ZWOLNIJ: ZACIŚNIJ. PUŚĆ.
 
-Jeśli dzisiejszy dom miał kilka rund „kto pierwszy do łazienki?”, „gdzie to położyłeś?” i „czy ktoś może wreszcie…?”, twarz mogła zostać w trybie gotowości trochę dłużej niż trzeba.
+Jeśli dzisiejszy dom miał kilka rund „kto pierwszy do łazienki?”, „gdzie to położyłeś?” i „czy ktoś może wreszcie…?”, napięcie mogło zostać z wami trochę dłużej niż sama rozmowa.
 
-Usiądźcie blisko siebie i zamknijcie oczy.
+Dziś zajmiemy się tylko dłońmi.
 
-Przez minutę sprawdźcie trzy miejsca. Najpierw czoło, potem okolice oczu, a na końcu szczękę. Jeśli któreś z nich jest napięte, spróbujcie trochę odpuścić. Niczego nie róbcie na siłę.
+Lekko zaciśnijcie pięści i policzcie spokojnie do trzech. Potem otwórzcie dłonie i pozwólcie palcom całkiem się rozluźnić.
 
-Na koniec zróbcie jeden zwykły, dłuższy wydech.
+Powtórzcie trzy razy. Przy puszczaniu dłoni możecie zrobić trochę dłuższy wydech.
 
-Mimi: Mina pod tytułem „jeszcze tylko pięć rzeczy” może już zdjąć dyżur.
+Nie ściskajcie mocno. Chodzi o krótkie zauważenie różnicy między napięciem a puszczeniem.
+
+Mimi: Pięści rozwiązują zaskakująco mało rodzinnych spraw. Dziś mają wolne.
 
 ### GRAMY: TUNEL KIBICÓW
 
