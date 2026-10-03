@@ -4,7 +4,7 @@ Status: V02 CREATIVE DRAFT / OWNER REVIEW / NOT PUBLICATION-LOCKED
 
 ## PO TYCH 24 DNIACH
 
-Wybierzcie jeden wieczór między Świętami a Nowym Rokiem.
+Wybierzcie jeden wieczór między świętami a Nowym Rokiem.
 
 Zróbcie herbatę albo kakao. Jeśli macie ochotę, zapalcie lampkę lub świeczkę. Usiądźcie razem i wróćcie na chwilę do tych 24 dni.
 
@@ -74,7 +74,7 @@ Niech wasz dom nie będzie zawsze spokojny. Domy, w których naprawdę toczy si�
 
 Niech będzie za to miejscem, w którym można wrócić do rozmowy, przeprosić, pośmiać się, usiąść obok i zacząć jeszcze raz.
 
-A kiedy po Świętach ozdoby znowu nie będą chciały zmieścić się w pudełku, niech przynajmniej te dobre chwile nie próbują się tam zmieścić razem z nimi.
+A kiedy po świętach ozdoby znowu nie będą chciały zmieścić się w pudełku, niech przynajmniej te dobre chwile nie próbują się tam zmieścić razem z nimi.
 
 Niech zostaną na wierzchu.
 
@@ -92,7 +92,7 @@ I dobrze.
 
 Ta książka nigdy nie miała stworzyć idealnego grudnia.
 
-Miała tylko pomóc wam zauważyć go trochę bardziej, zanim znowu będzie po Świętach.
+Miała tylko pomóc wam zauważyć po drodze trochę więcej wspólnych chwil, zanim znowu będzie po świętach.
 
 Jeśli choć raz ktoś powiedział coś, czego wcześniej nie wiedzieliście, warto było.
 
