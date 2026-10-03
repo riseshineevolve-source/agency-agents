@@ -649,19 +649,21 @@ Przez chwilę nie trzeba nosić grudnia aż pod uszami.
 
 Alio: Najspokojniejsza kolejka górska świata. I nawet nie trzeba stać w kolejce.
 
-### GRAMY: ŁAŃCUCH RUCHÓW
+### GRAMY: LUSTRO BEZ LUSTRA
 
-Zaczyna osoba, która ma na sobie coś czerwonego. Wymyśla jeden prosty ruch taneczny i pokazuje go pozostałym.
+Dobierzcie się w pary. Jeśli jest was nieparzysta liczba, jedna grupa może być trzyosobowa.
 
-Następnie gracie przeciwnie do ruchu wskazówek zegara. Kolejna osoba powtarza pierwszy ruch i dodaje własny.
+W każdej parze zaczyna osoba, która ma na sobie więcej czerwonego. Staje naprzeciwko drugiej osoby i przez 20 sekund wykonuje powolne, bezpieczne ruchy rękami, głową i górną częścią ciała. Druga osoba jest lustrem i próbuje odwzorować wszystko dokładnie w tym samym momencie.
 
-Każda następna osoba wykonuje całą dotychczasową sekwencję w tej samej kolejności, a na końcu dokłada jeden nowy ruch.
+Po 20 sekundach zamieńcie się rolami.
 
-Kiedy każdy doda swoją część, wykonajcie cały łańcuch razem trzy razy od początku do końca.
+W drugiej rundzie możecie dodać zabawną minę albo bardziej zaskakujący ruch, nadal bez gwałtownych skoków i bez dotykania drugiej osoby.
 
-Ruchy mają być bezpieczne i dopasowane do miejsca, które macie.
+Na finał spróbujcie przez 30 sekund poruszać się razem bez ustalania, kto prowadzi. Patrzcie na siebie i próbujcie wyczuć wspólne tempo. Jeśli oboje ruszycie inaczej, nie zatrzymujcie gry. Spróbujcie złapać się ponownie w ruchu.
 
-Nini: Jeśli wygląda trochę absurdalnie, to znaczy, że nie zmarnowaliśmy rundy.
+W dwie osoby gracie dokładnie tak samo.
+
+Nini: Jeśli oboje zaczniecie prowadzić naraz, gratulacje. Właśnie wynaleźliście bardzo niezdecydowane lustro.
 
 ### MIĘDZY NAMI: HISTORIA, KTÓRA ZOSTAŁA
 
