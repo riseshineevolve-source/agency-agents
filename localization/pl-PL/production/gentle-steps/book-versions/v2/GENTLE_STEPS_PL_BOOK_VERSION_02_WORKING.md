@@ -314,7 +314,7 @@ W rundzie czwartej możecie przekazywać krótki uścisk, ale tylko wtedy, gdy o
 
 Na finał wybierzcie jeden z wcześniejszych sygnałów i spróbujcie puścić go dookoła tak płynnie, żeby wrócił do osoby rozpoczynającej bez żadnej dłuższej przerwy.
 
-Jeśli bawią się tylko dwie osoby, przez 30 sekund patrzcie na siebie i się uśmiechajcie. Potem, jeśli obie osoby chcą, możecie przytulić się przez kolejne 30 sekund.
+Jeśli bawią się tylko dwie osoby, zróbcie z sygnałów szybki ping-pong. Jedna osoba wysyła uśmiech, piątkę albo delikatne klepnięcie w ramię, a druga od razu odsyła ten sam sygnał. Po trzech wymianach zmieńcie sygnał. Uścisk zostaje tylko opcją, jeśli obie osoby mają na niego ochotę.
 
 Nini: Uścisk ma być krótki. Żebra nie biorą udziału w tej grze.
 
@@ -398,7 +398,9 @@ Kiedy wszyscy trzymają już po dwie dłonie, powstanie splątany węzeł.
 
 Waszym zadaniem jest rozplątać się powoli tak, żeby na końcu powstało jedno otwarte koło. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie. Nie puszczajcie dłoni, chyba że komuś robi się niewygodnie albo coś zaczyna boleć. Wtedy przerywacie i zaczynacie od nowa.
 
-Jeśli bawią się tylko dwie osoby, stańcie naprzeciwko siebie, skrzyżujcie ręce i złapcie się za dłonie. Następnie spróbujcie powoli się odkręcić, nie puszczając rąk i nie tracąc kontaktu wzrokowego.
+Jeśli jest was troje, stańcie blisko siebie, skrzyżujcie ręce w środku i niech każda osoba złapie po jednej dłoni obu pozostałych. Spróbujcie wspólnie odkręcić układ bez puszczania rąk. Jeśli robi się niewygodnie, zaczynacie od nowa.
+
+Jeśli bawią się tylko dwie osoby, stańcie naprzeciwko siebie, skrzyżujcie ręce i złapcie się za dłonie. Następnie spróbujcie powoli się odkręcić, nie puszczając rąk. Kontakt wzrokowy możecie potraktować jako dodatkowe utrudnienie, nie obowiązek.
 
 Mimi: Jeśli po chwili nie wiecie, która ręka jest czyja, wszystko idzie zgodnie z planem.
 
