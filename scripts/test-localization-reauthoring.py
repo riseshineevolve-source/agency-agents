@@ -634,7 +634,7 @@ class GentleStepsPolishBookVersion02(unittest.TestCase):
         self.assertNotIn("## NA KONIEC", daily)
         self.assertIn("W tej rundzie nie robicie kroków.", daily)
         self.assertIn("Jeśli choć jedna osoba woli bez dotyku", daily)
-        self.assertIn("reaguje dopiero wtedy, gdy sygnał dotrze właśnie do niego", daily)
+        self.assertIn("przekazuje ruch dalej dopiero wtedy, gdy sygnał dotrze właśnie do niego", daily)
         self.assertIn("Nie przebiegajcie przez środek na oślep.", daily)
         self.assertIn("nie musi od razu odpowiadać ani mówić „nic się nie stało”", daily)
         self.assertNotIn("„bop”", daily)
