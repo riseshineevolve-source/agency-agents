@@ -574,5 +574,56 @@ class GentleStepsVersion02(unittest.TestCase):
         self.assertEqual(audit["coverage"]["sections"], 72)
 
 
+class GentleStepsPolishBookVersion02(unittest.TestCase):
+    ROOT_DIR = ROOT / "localization/pl-PL/production/gentle-steps/book-versions/v2"
+    MASTER = ROOT_DIR / "GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md"
+
+    def test_book_v02_keeps_24x3_structure(self):
+        rendered = self.MASTER.read_text(encoding="utf-8")
+        daily = rendered[rendered.index("## DZIEŃ 1"):]
+        self.assertEqual(daily.count("## DZIEŃ "), 24)
+        self.assertEqual(daily.count("\n### ZWOLNIJ:"), 24)
+        self.assertEqual(daily.count("\n### GRAMY:"), 24)
+        self.assertEqual(daily.count("\n### MIĘDZY NAMI:"), 24)
+
+    def test_book_v02_owner_style_locks(self):
+        rendered = self.MASTER.read_text(encoding="utf-8")
+        daily = rendered[rendered.index("## DZIEŃ 1"):]
+        self.assertNotIn("—", daily)
+        self.assertIn('### ZWOLNIJ: MINUTA BEZ „MUSZĘ”', daily)
+        self.assertIn("### GRAMY: NIEWIDZIALNA PIŁKA", daily)
+        self.assertIn("### MIĘDZY NAMI: CO W GRUDNIU LUBIĘ, A CZEGO MAM DOŚĆ?", daily)
+        self.assertIn("Nie mam stroju na WF", daily)
+        self.assertIn("drugą skarpetkę", daily)
+        self.assertIn("### ZWOLNIJ: ZOSTAW TO W PRZEDPOKOJU", daily)
+        self.assertIn("walczy o playlistę", daily)
+        self.assertIn("czemu akurat teraz jest korek?", daily)
+        self.assertIn("### GRAMY: LUSTRO BEZ LUSTRA", daily)
+        self.assertIn("### MIĘDZY NAMI: CO CI OSTATNIO WYSZŁO?", daily)
+        self.assertIn("### MIĘDZY NAMI: CO CHCESZ ZAPAMIĘTAĆ Z TEGO GRUDNIA?", daily)
+        self.assertNotIn("Luli: „Dobrze” jest bezpieczne.", daily)
+        self.assertNotIn("prawdziwy wtorek", daily)
+        self.assertNotIn("PowerPoincie", daily)
+        self.assertNotIn("NASZ TAJNY ZNAK", daily)
+
+    def test_book_v02_has_no_duplicate_daily_titles(self):
+        rendered = self.MASTER.read_text(encoding="utf-8")
+        daily = rendered[rendered.index("## DZIEŃ 1"):]
+        headings = [
+            line.strip()
+            for line in daily.splitlines()
+            if line.startswith("### ")
+        ]
+        self.assertEqual(len(headings), 72)
+        self.assertEqual(len(set(headings)), 72)
+
+    def test_book_v02_version01_reference_is_preserved(self):
+        manifest = load(self.ROOT_DIR / "BOOK_VERSION_02_MANIFEST.json")
+        self.assertEqual(manifest["base_book_version"], "1")
+        self.assertFalse(manifest["title_locked"])
+        self.assertFalse(manifest["recurring_labels_locked"])
+        self.assertFalse(manifest["publication_authorized"])
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
