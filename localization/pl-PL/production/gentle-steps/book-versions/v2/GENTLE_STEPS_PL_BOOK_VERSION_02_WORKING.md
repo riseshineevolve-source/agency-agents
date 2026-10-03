@@ -234,17 +234,15 @@ Alio: Dźwięk otwieranej lodówki. Nie trzeba nawet patrzeć, żeby wiedzieć, 
 
 ### ZWOLNIJ: BEZ USTALANIA TEMPA
 
-Po szkole, pracy, korkach i zajęciach dodatkowych każdy wraca do domu w trochę innym tempie. Ktoś jest głodny. Ktoś chce opowiadać od progu. Ktoś najchętniej przez pięć minut nie odpowiadałby na żadne pytanie.
+Po szkole, pracy, korkach i zajęciach dodatkowych każdy wpada do domu w innym tempie. Ktoś jest głodny. Ktoś chce opowiadać od progu. Ktoś przez pięć minut najchętniej nie odpowiadałby na nic.
 
-Usiądźcie luźno w kółku.
+Usiądźcie wygodnie i oprzyjcie dłonie na kolanach.
 
-Dłonie połóżcie na kolanach. Jeśli wszyscy mają na to ochotę, możecie też lekko złapać się za ręce.
+Przez cztery kolejne oddechy dotykajcie kciukiem kolejno palca wskazującego, środkowego, serdecznego i małego. Każdy robi to we własnym rytmie. Nie trzeba liczyć, zwalniać na siłę ani kończyć razem.
 
-Na początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę zwolnić i sprawdźcie, czy po chwili zaczniecie oddychać w podobnym tempie.
+Potem zostańcie jeszcze przez chwilę przy swoim zwykłym oddechu.
 
-Nie trzeba liczyć ani idealnie się zgrywać. Jeśli po chwili każdy znów oddycha po swojemu, wszystko jest w porządku.
-
-Alio: Pierwsza rzecz w grudniu, której nikt nie każe robić szybciej. Proszę tego nie zepsuć.
+Alio: Pierwsza grudniowa rzecz, przy której nikt nie mówi: „szybciej, bo się spóźnimy”. Lubię ten sport.
 
 ### GRAMY: WSZYSCY NARAZ
 
@@ -296,27 +294,17 @@ Dilo: Dziś trenuję z grawitacją. Ona robi większość pracy.
 
 ### GRAMY: REAKCJA ŁAŃCUCHOWA
 
-Stańcie albo usiądźcie w kółku.
+Stańcie albo usiądźcie w kółku. Sygnał ma odwiedzić każdego i wrócić do osoby, która zaczęła.
 
-Sygnał ma przejść przez całą rodzinę i wrócić do początku.
+Zaczyna osoba z najkrótszymi włosami. Wysyła szeroki uśmiech do wybranej osoby. Odbiorca przekazuje go komuś, kto jeszcze nie dostał sygnału. Kiedy uśmiech wróci do startu, wybierzcie nowy sygnał: piątkę, delikatne klepnięcie w ramię, krótki uścisk albo własny gest bez dotyku.
 
-Zaczyna osoba z najkrótszymi włosami. Wybiera dowolną osobę i uśmiecha się do niej możliwie szeroko.
+Zróbcie trzy różne rundy. Każdy sygnał z dotykiem działa tylko wtedy, gdy obie osoby mają na niego ochotę. Jeśli ktoś woli bez dotyku, gest bezkontaktowy jest pełnoprawną wersją gry.
 
-Osoba, która dostała uśmiech, przekazuje go kolejnej wybranej osobie. Uśmiech ma dotrzeć do każdego uczestnika, a na końcu wrócić do osoby, która zaczynała.
+Na finał wybierzcie ulubiony sygnał i puśćcie go po kole w ustalonej kolejności tak płynnie, jak potraficie.
 
-W rundzie drugiej zamiast uśmiechu przekazujecie sobie piątkę.
+Jeśli bawią się tylko dwie osoby, zróbcie z sygnałów szybki ping-pong: trzy wymiany, potem zmiana sygnału.
 
-W rundzie trzeciej przekazujecie delikatne klepnięcie w ramię.
-
-W rundzie czwartej możecie przekazywać krótki uścisk.
-
-Każdy sygnał z dotykiem działa tylko wtedy, gdy obie osoby mają na niego ochotę. Jeśli ktoś woli bez dotyku, zamieńcie piątkę, klepnięcie albo uścisk na mrugnięcie, ukłon albo własny gest.
-
-Na finał wybierzcie jeden z wcześniejszych sygnałów i spróbujcie puścić go dookoła tak płynnie, żeby wrócił do osoby rozpoczynającej bez żadnej dłuższej przerwy.
-
-Jeśli bawią się tylko dwie osoby, zróbcie z sygnałów szybki ping-pong. Jedna osoba wysyła uśmiech, piątkę albo delikatne klepnięcie w ramię, a druga od razu odsyła ten sam sygnał. Po trzech wymianach zmieńcie sygnał. Uścisk zostaje tylko opcją, jeśli obie osoby mają na niego ochotę.
-
-Nini: Delikatny uścisk. Żebra mają już własne plany na święta.
+Nini: Lekki uścisk. To rodzina, nie pakowanie próżniowe.
 
 ### MIĘDZY NAMI: KTO TO ZROBIŁ, CHOCIAŻ PRAWIE NIKT NIE ZAUWAŻYŁ?
 
@@ -394,17 +382,13 @@ Nini: Trzy kolory, dwa dźwięki, jedna podłoga. Wreszcie lista, którą da si�
 
 Stańcie blisko siebie w kółku.
 
-Każdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie łapcie obu dłoni tej samej osoby. Jeśli jest was pięcioro lub więcej, spróbujcie też nie wybierać osób stojących bezpośrednio obok. Przy czterech osobach sąsiad może być potrzebny i to jest w porządku.
+Każdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie łapcie obu dłoni tej samej osoby. Jeśli jest was pięcioro lub więcej, postarajcie się nie wybierać sąsiadów. Przy czterech osobach sąsiad może być potrzebny.
 
-Kiedy wszyscy trzymają już po dwie dłonie, powstanie splątany węzeł.
+Teraz spróbujcie rozplątać układ bez puszczania rąk. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie. Na końcu może powstać jedno koło albo dwa mniejsze. Oba wyniki są w porządku.
 
-Waszym zadaniem jest rozplątać układ tak daleko, jak się da, nie puszczając dłoni. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie. Czasem na końcu powstanie jedno koło, czasem dwa mniejsze i oba wyniki są w porządku.
+Jeśli naprawdę utkniecie, macie jeden „reset techniczny”: jedna para na moment puszcza dłonie, przechodzi w wygodniejsze miejsce i łapie się ponownie. Jeśli coś boli albo robi się niewygodnie, przerywacie od razu.
 
-Jeśli po chwili naprawdę utkniecie, macie jeden „reset techniczny”: jedna para może na moment puścić dłonie, przejść w wygodniejsze miejsce i złapać się ponownie. Jeśli komuś robi się niewygodnie albo coś zaczyna boleć, zatrzymujecie grę od razu.
-
-Jeśli jest was troje, stańcie blisko siebie, skrzyżujcie ręce w środku i niech każda osoba złapie po jednej dłoni obu pozostałych. Spróbujcie wspólnie odkręcić układ bez puszczania rąk. Jeśli robi się niewygodnie, zaczynacie od nowa.
-
-Jeśli bawią się tylko dwie osoby, stańcie naprzeciwko siebie, skrzyżujcie ręce i złapcie się za dłonie. Następnie spróbujcie powoli się odkręcić, nie puszczając rąk. Kontakt wzrokowy możecie potraktować jako dodatkowe utrudnienie, nie obowiązek.
+Jeśli jest was troje, każda osoba łapie po jednej dłoni obu pozostałych i wspólnie próbujecie się odkręcić. Jeśli bawią się tylko dwie osoby, skrzyżujcie ręce, złapcie się za dłonie i spróbujcie powoli się odkręcić. Kontakt wzrokowy może być utrudnieniem, nigdy obowiązkiem.
 
 Mimi: Jeśli po chwili nie wiecie, która ręka jest czyja, wszystko idzie zgodnie z planem.
 
@@ -807,23 +791,21 @@ Alio: Wreszcie ruch drogowy, nad którym mamy kontrolę.
 
 ### GRAMY: MISJA KRZESŁO
 
-Najpierw przygotujcie bezpieczne miejsce. Odsuńcie rzeczy, o które można się potknąć, i wybierzcie fragment pokoju bez schodów, ostrych kantów ani innych przeszkód.
+Najpierw odsuńcie wszystko, o co można się potknąć. Wybierzcie prostą trasę do krzesła: dwa do czterech małych kroków, bez schodów, ostrych kantów i śliskich dywaników.
 
-Dobierzcie się w pary. Jedna osoba jest nawigatorem, druga wykonuje instrukcje.
+Dobierzcie się w pary. Jedna osoba jest nawigatorem, druga wykonuje instrukcje. Przed startem obie oglądają trasę.
 
-Jeśli jest was nieparzysta liczba, w jednej grupie będą trzy osoby. Dwie grają, a trzecia pilnuje bezpiecznej przestrzeni i nasłuchuje, które instrukcje były naprawdę jasne. Po każdej rundzie zmieńcie role.
+Osoba idąca może zamknąć oczy tylko wtedy, gdy ma na to ochotę. Otwarte oczy są pełnoprawną wersją gry.
 
-Nawigator ma otwarte oczy i ustawia krzesło w wybranym, bezpiecznym miejscu. Druga osoba, jeśli czuje się z tym dobrze, zamyka oczy. Może też zostawić je otwarte i nadal grać.
+Nawigator nie dotyka drugiej osoby. Podaje po jednym konkretnym poleceniu, na przykład: „jeden mały krok w prawo”, „dwa kroki do przodu”, „stop”. Jeśli cokolwiek jest niejasne, mówicie „stop”. Tu nie ma punktów za szybkość.
 
-Nawigator nie dotyka drugiej osoby. Prowadzi ją wyłącznie słowami, bardzo dokładnie i po jednym kroku, na przykład: „jeden mały krok w prawo”, „dwa kroki do przodu”, „stop”.
+Po dotarciu do krzesła zamieńcie się rolami.
 
-Zadaniem jest dotrzeć do krzesła spokojnie i bez zgadywania, co nawigator miał na myśli.
+Jeśli jest was nieparzysta liczba, trzecia osoba w jednej grupie pilnuje bezpiecznej przestrzeni, a po rundzie wchodzi do pary.
 
-Kiedy pierwsza osoba dotrze na miejsce, zamieńcie się rolami.
+Trudniejsza wersja: nawigator ma najwyżej pięć komunikatów na całą trasę.
 
-Jeśli chcecie trudniejszą rundę, nawigator może użyć najwyżej pięciu komunikatów. Przed każdym zdaniem naprawdę warto pomyśleć, co będzie jasne dla drugiej osoby.
-
-Jeśli jest was więcej, pary mogą grać kolejno albo równocześnie w osobnych, bezpiecznych częściach pokoju.
+Jeśli jest was więcej, pary mogą grać równocześnie tylko w osobnych, bezpiecznych częściach pokoju.
 
 Mimi: „No tam” nie jest kierunkiem świata. Sprawdziliśmy.
 
@@ -951,17 +933,15 @@ Nini: Jeśli wygrywa ciepły koc, nie będę się sprzeczać.
 
 ### GRAMY: SZYFR W OBIEGU
 
-Stańcie w kółku i wybierzcie jedną wersję na całą rundę.
+Stańcie w kółku i na całą rundę wybierzcie wersję: z dotykiem albo bez.
 
-Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli choć jedna osoba woli bez dotyku, ustawcie się tak, żeby każdy dobrze widział osobę po swojej lewej stronie. Ustalcie prosty sygnał wzrokowy, na przykład krótki ruch dłoni.
+Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Zaczyna osoba, której imię jest pierwsze alfabetycznie. Ściska dłoń osoby po prawej jeden raz, a każda kolejna osoba przekazuje sygnał dopiero wtedy, gdy sama go poczuje.
 
-Zaczyna osoba, której imię jest pierwsze alfabetycznie. W wersji z dotykiem lekko ściska dłoń osoby po prawej stronie jeden raz. Każda osoba przekazuje dokładnie taki sam sygnał dalej dopiero wtedy, gdy sama go poczuje.
+Jeśli choć jedna osoba woli bez dotyku, ustawcie się tak, żeby każdy widział osobę po swojej lewej stronie, i ustalcie jeden prosty ruch dłoni. Osoba rozpoczynająca wysyła go w prawo. Każdy patrzy na swojego „nadawcę” po lewej i przekazuje ruch dalej dopiero wtedy, gdy sygnał dotrze właśnie do niego.
 
-W wersji bez dotyku osoba rozpoczynająca robi jeden ustalony ruch dłoni do osoby po prawej. Każdy patrzy tylko na swojego „nadawcę” po lewej i przekazuje ruch dalej dopiero wtedy, gdy sygnał dotrze właśnie do niego. Dzięki temu kod naprawdę wędruje po kole, zamiast ruszyć wszędzie naraz.
+W drugiej rundzie wymyślcie krótki kod: dwa albo trzy lekkie uściski lub dwa albo trzy różne ruchy. Kod ma wrócić bez zmiany.
 
-W drugiej rundzie wymyślcie krótki kod: dwa albo trzy lekkie uściski lub dwa albo trzy różne ruchy. Kod ma wrócić bez zmiany. W kolejnej próbie możecie zmienić tempo albo kierunek.
-
-Jeśli chcecie trudniejszą wersję, puśćcie jednocześnie dwa różne kody w przeciwnych kierunkach.
+Potem możecie zmienić kierunek albo tempo. Najtrudniejsza wersja: dwa różne kody ruszają jednocześnie w przeciwnych kierunkach.
 
 Żaden uścisk nie powinien boleć.
 
