@@ -561,7 +561,7 @@ Powoli unieście dłonie, zatrzymajcie je na chwilę i równie powoli opuśćcie
 
 Zwróćcie uwagę na powietrze przesuwające się po skórze podczas ruchu. Niczego nie trzeba interpretować. Przez minutę robicie jedną prostą rzecz naprawdę wolno.
 
-Dilo: Tryb 0,25x. Mózg może zgłosić reklamację.
+Dilo: Tryb 0,25x. Mój mózg właśnie szuka przycisku „przyspiesz”.
 
 ### GRAMY: CZERWONY DYWAN
 
