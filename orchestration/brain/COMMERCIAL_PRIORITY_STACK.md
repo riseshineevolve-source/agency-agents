@@ -5,6 +5,31 @@ Owner decision: 2026-09-24
 Last execution-state sync: 2026-09-26
 Applies to: central RSE Orchestrator, Brain Sync, Day/Night/24-7 shift, marketing synchronization, Codex budget governor.
 
+
+## Current owner directive override — 2026-10-04 00:19 Europe/Warsaw
+
+This section supersedes older priority/sequencing wording below wherever it conflicts.
+
+**REVENUE ASAP / FINISH -> PUBLISH -> SELL**
+
+Current safe Central order:
+1. **Detective Academy EN** — close only concrete release blockers toward KDP-ready owner gate. The active implementation surface is delegated Book Factory v2; Central is read/sync only while that writer is active.
+2. **Optical Animals** — current Final20 art is owner-selected working art. While the delegated Optical writer is active, Central is monitor-only; otherwise advance only exact-identity masks/tokens -> 5 group seek-and-find pages -> GRAND all-20 challenge -> answer proof -> KDP assembly/preflight.
+3. **24 Gentle Steps to Christmas APP** — existing book/ebook are completed commercial assets. While the delegated Gentle writer is active, Central is monitor-only; otherwise use the shortest EN-first, offline-first Android/Play-readiness path. Polish copy remains Polish-first re-authoring in the Polish Localization stream.
+4. **Marketing/distribution support** — when product lanes are owner/external-gated, prioritize release-package truth, launch assets, Tiny Tool/interactive sampler specs, intent-page requirements and measurable distribution support rather than new platform architecture.
+
+**HOLD unless directly revenue-unblocking:** new product lines, broad Consumer Platform work, speculative architecture, broad AI Discovery expansion, World 01/02 enhancements beyond delegated closeout, Unstoppable expansion and unrelated refactors.
+
+**One writer per surface is mandatory.** Happy Me, Senior/Mind Bloom, Marketing and any explicitly delegated Optical/Gentle/World/Book-Factory lane are read-only centrally while their owner is active.
+
+### Live release truth for this override
+
+- **Detective / Book Factory v2:** branch `feature/rse-book-factory-v2` is at `8d95e9a4bce07727083d7af4146cca61ec970bf1`. Phase 0 PASS, Phase 1 PASS and the bounded Case 02 Phase 2 proof PASS. The exact current gate is **OWNER VISUAL REVIEW OF CASE 02**. Cases 03–30 are not authorized until explicit approval. English remains NOT FROZEN; KDP upload/publication remains unauthorized.
+- Case 02 proof milestone is `8cad09db1daed74d72d5677178a4841626705c48`; committed technical record: `tools/rse-book-factory-v2/docs/CASE02_OWNER_GATE.md`. Proof binaries are local/gitignored, so Central cannot auto-approve the visual gate from repository text alone.
+- **Optical Animals:** delegated branch `feat/optical-animals-book-creator` remains at `f9e772571fe2dbd98fcceef1b32c7a7fe61a1960`; Central does not create replacement art or duplicate its writer.
+- **Gentle Steps APP:** delegated branch `gentle-steps/app-en-full24-purple-gold` is at `6ae46c35906158323c2a435f4954ab15bfc581c0`. Exact-head workflows are GREEN: English App `37155578470`, SEO Validation `37155578412`, Android Build `37155578417`. Remaining source-side work stays with the delegated writer; device/Play/legal/signing gates remain owner/external controlled.
+- Detective PL remains downstream of an explicit EN freeze and does not outrank Optical or Gentle Steps APP for current Central safe work.
+
 ## Priority order
 
 | Priority | Project | Business reason | Current execution rule |
