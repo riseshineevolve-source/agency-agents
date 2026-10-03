@@ -78,7 +78,7 @@ Przy wdechu policzcie spokojnie do czterech. Przy wydechu policzcie do sześciu.
 
 Nie nabierajcie powietrza na siłę. Jeśli taki rytm komuś nie odpowiada, wróćcie do własnego oddechu. Powtarzajcie przez minutę.
 
-Mimi: Druga skarpetka może nadal być zaginiona. Przez tę minutę nie prowadzimy poszukiwań.
+Mimi: Druga skarpetka nie zginie bardziej przez tę minutę. Poszukiwania zawieszamy.
 
 ### GRAMY: ORKIESTRA BEZ PRÓBY
 
