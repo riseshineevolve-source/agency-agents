@@ -203,14 +203,17 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: book_factory_v2_phase1_pass_phase2_case02_active_english_not_frozen
+    status: book_factory_v2_phase2_case02_technical_pass_owner_visual_gate_english_not_frozen
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/rse-book-factory-v2
-    factory_v2_head: 3fa4fd586d322efe09ae478c82d0368e7862fe31
+    factory_v2_head: 8d95e9a4bce07727083d7af4146cca61ec970bf1
     factory_v2_verified_engine_head: d311d1da30a9c6f141c8d0d1b77b0087f4722bad
     factory_v2_phase0_pass: true
     factory_v2_phase1_pass: true
-    factory_v2_next_task: P2.1-P2.12_case02_owner_proof
+    factory_v2_phase2_pass: true
+    factory_v2_case02_proof_commit: 8cad09db1daed74d72d5677178a4841626705c48
+    factory_v2_batch03_30_authorized: false
+    factory_v2_next_task: owner_visual_review_case02_no_batch
     factory_v2_next_gate: case02_owner_visual_review
     factory_v2_control: tools/rse-book-factory-v2/CODEX_CONTROL.md
     first18_current_owner_baseline: tools/rse-book-factory-v2/control/FIRST18_CURRENT_OWNER_VISUAL_BASELINE_2026-10-03.md
@@ -224,7 +227,7 @@ programs:
     text_layout_renderer_paused: true
     preserve_v3_version_family: true
     pr: null
-    current_head: 3fa4fd586d322efe09ae478c82d0368e7862fe31
+    current_head: 8d95e9a4bce07727083d7af4146cca61ec970bf1
     verified_implementation_head: d311d1da30a9c6f141c8d0d1b77b0087f4722bad
     locked_modules: 15
     local_all15_pass: true
