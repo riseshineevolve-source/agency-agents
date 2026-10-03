@@ -1035,33 +1035,37 @@ Alio: I nikt nie potrząsa kulą drugi raz. Mówię to głównie do siebie.
 
 Stańcie w kółku. Pierwszą osobą prowadzącą zostaje ta, której urodziny przypadają najbliżej połowy roku, czyli mniej więcej 1 lipca.
 
+Zasada jest prosta. Po każdym haśle osoby, których ono dotyczy, robią krok do środka. Jeśli są co najmniej dwie, zamieniają się miejscami w kole. Jeśli tylko jedna osoba pasuje do hasła, robi szybki obrót i wraca na swoje miejsce.
+
+Nie biegajcie. Chodzi o szybką reakcję, nie wyścig.
+
 **Runda 1: KOLORY**
 
 Prowadzący wybiera kolor i mówi na przykład:
 
-„Wszyscy, którzy mają na sobie coś czerwonego, zmieniają miejsce!”
+„Wszyscy, którzy mają na sobie coś czerwonego, zmiana!”
 
-Każda osoba, która ma na sobie ten kolor, szybko i bezpiecznie zmienia miejsce w kole. Zagrajcie kilka krótkich rund, wybierając różne kolory.
+Zróbcie dwa hasła z kolorami.
 
 **Runda 2: LUBIĘ / NIE LUBIĘ**
 
-Kolejna osoba prowadząca jest wybierana zgodnie z ruchem wskazówek zegara. Podaje lekką kategorię, na przykład:
+Kolejna osoba prowadząca podaje lekką kategorię, na przykład:
 
-„Wszyscy, którzy lubią ciepłe napoje, zmieniają miejsce!”
+„Wszyscy, którzy lubią ciepłe napoje, zmiana!”
 
-Osoby, których to dotyczy, zamieniają się miejscami.
+Znów wystarczą dwa hasła.
 
 **Runda 3: NAWYKI I CECHY**
 
-Następny prowadzący wybiera prostą kategorię, która nikogo nie zawstydza. Może powiedzieć na przykład:
+Następny prowadzący wybiera prostą kategorię, która nikogo nie zawstydza, na przykład:
 
-„Wszyscy, którzy lubią mieć wszystko poukładane, zmieniają miejsce!”
+„Wszyscy, którzy lubią mieć wszystko poukładane, zmiana!”
 albo
-„Wszyscy, którzy zwykle szukają czegoś pięć minut przed wyjściem, zmieniają miejsce!”
+„Wszyscy, którzy zwykle szukają czegoś pięć minut przed wyjściem, zmiana!”
 
 Po dwa hasła w każdej rundzie w zupełności wystarczą. Jeśli macie więcej czasu i nadal dobrze się bawicie, wymyślajcie własne kategorie. Wybierajcie takie, przy których każdy może się śmiać razem z innymi, a nie z kogoś.
 
-Dilo: Szybka zamiana. Zwolnione tempo zostawmy filmom dramatycznym.
+Dilo: Szybka zmiana. Zwolnione tempo zostawmy filmom dramatycznym.
 
 ### MIĘDZY NAMI: PRZEPRASZAM ZA…
 
