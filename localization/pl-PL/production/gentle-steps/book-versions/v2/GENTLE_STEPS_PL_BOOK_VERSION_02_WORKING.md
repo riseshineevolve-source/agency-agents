@@ -102,7 +102,7 @@ Może chodzić o coś ważnego albo zupełnie zwyczajnego. O to, że ktoś pami�
 
 Wystarczy jedna prawdziwa rzecz od każdej osoby.
 
-Luli: Bez rodzinnej gali. Jedno dobre zdanie wystarczy.
+Luli: Jedno zdanie. Bez wstępu, rozwinięcia i zakończenia.
 
 ---
 
@@ -140,7 +140,7 @@ Każdy mówi jedno słowo o tym, jak się teraz czuje.
 
 Tylko jedno. Nie trzeba niczego wyjaśniać ani uzasadniać.
 
-Luli: Mamy cały język. Szkoda kończyć na „dobrze”.
+Luli: Mamy cały język. Nie marnujmy go na samo „dobrze”.
 
 ---
 
@@ -382,7 +382,7 @@ Przy wydechu opuśćcie ramiona.
 
 Nie trzeba robić listy wdzięczności ani szukać wielkiego sensu. Jedna rzecz wystarczy.
 
-Luli: Jedna dobra rzecz wystarczy. Dzień nie musi nagle dostać pięciu gwiazdek.
+Luli: Jedna dobra rzecz wystarczy. Nie poprawiamy dziś oceny całemu dniu.
 
 ### GRAMY: ROZPLĄCZCIE TO
 
@@ -422,7 +422,7 @@ Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Ka�
 
 Nie ustalajcie, co będzie za chwilę. Przez moment po prostu posiedźcie razem.
 
-Alio: To chyba jedyna narada, na której nikt nie musi nic powiedzieć.
+Alio: Nikt nie prowadzi, nikt nie pyta „co dalej?”. To chyba pierwszy plan, którego nie trzeba planować.
 
 ### GRAMY: RODZINNA MASZYNA
 
@@ -514,7 +514,7 @@ Pomyślcie o jednej konkretnej rzeczy, którą w kimś obok lubicie albo cenicie
 
 Nie trzeba niczego mówić. Nie trzeba też robić specjalnej miny. Jedno spojrzenie wystarczy.
 
-Mimi: Bez przemowy. Nareszcie spotkanie, które naprawdę mogło być spojrzeniem.
+Mimi: Bez przemowy. Nikt nie będzie sprawdzał, kto spojrzał najbardziej wzruszająco.
 
 ### GRAMY: PIĘĆ SŁÓW. DWA KŁAMSTWA.
 
@@ -801,7 +801,7 @@ Potem ta osoba zwraca się do kolejnej osoby po swojej prawej stronie.
 
 Kontynuujcie wokół koła, aż każdy usłyszy jedno dobre słowo.
 
-Nini: Jedno słowo. Bez prezentacji w PowerPoincie. Damy radę.
+Nini: Jedno słowo. Nie próbujcie przemycić drugiego po przecinku.
 
 ---
 
@@ -817,7 +817,7 @@ Przez kilka oddechów po prostu posiedźcie obok siebie. Nie trzeba oddychać w 
 
 Pomyślcie przez chwilę, co lubicie w tym, że teraz po prostu siedzicie obok siebie.
 
-Dilo: Światło zostawmy lampkom. Ta minuta działa bez instalacji elektrycznej.
+Dilo: Jesteśmy obok siebie i niczego nie trzeba konfigurować. Podejrzane.
 
 ### GRAMY: ZMIANA KSZTAŁTU
 
@@ -903,7 +903,7 @@ Zwróćcie uwagę na jedną przyjemną rzecz, którą naprawdę teraz czujecie. 
 
 Nie trzeba robić z tego większej historii. Wystarczy przez chwilę zauważyć jedną rzecz, która jest teraz po prostu przyjemna.
 
-Nini: Jeśli odpowiedź brzmi „ciepły koc”, oficjalnie popieram.
+Nini: Jeśli wygrywa ciepły koc, nie będę się sprzeczać.
 
 ### GRAMY: SZYFR W OBIEGU
 
@@ -980,7 +980,7 @@ Następnie prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskaz�
 
 W dwie osoby stańcie naprzeciwko siebie. Jedna osoba kończy wybrane zdanie, a druga robi krok do przodu, jeśli mocno się z nim utożsamia, albo krok do tyłu, jeśli tylko trochę. Potem zamieńcie się rolami.
 
-Mimi: Bez choreografii i bez komisji oceniającej. Każdy ma własne nogi i własną odpowiedź.
+Mimi: Bez zgadywania po minach. Krok mówi dokładnie tyle, ile chcecie powiedzieć.
 
 ### MIĘDZY NAMI: CO TEN MIESIĄC NAM POKAZAŁ?
 
