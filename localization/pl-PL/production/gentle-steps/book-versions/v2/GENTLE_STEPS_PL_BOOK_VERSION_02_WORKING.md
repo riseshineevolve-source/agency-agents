@@ -20,6 +20,8 @@ Current title candidates remain owner-gated:
 
 ## DZIEŃ 1
 
+Na początek ważna rzecz: ta książka nie ma być kolejnym punktem na grudniowej liście. Dziś zaczynamy od odjęcia jednej rzeczy, nie od dodawania.
+
 ### ZWOLNIJ: MINUTA BEZ „MUSZĘ”
 
 Grudzień ma wyjątkowy talent do dokładania słowa „muszę”. Muszę pamiętać, kupić, przynieść, oddać, wysłać, zdążyć. I najlepiej wszystko jeszcze dziś.
