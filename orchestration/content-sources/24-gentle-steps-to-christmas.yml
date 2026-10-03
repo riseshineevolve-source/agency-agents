@@ -99,3 +99,9 @@ provenance:
     Earlier recovery queue incorrectly treated this master as missing.
     Later owner upload and direct content verification established the distinct
     104-page Christmas book and hardcover cover reference.
+
+
+    polish_book_v02_working_master: localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md
+    polish_book_v02_latest_checkpoint: localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_CHECKPOINT_2026-10-03_2157.md
+    polish_book_v02_latest_checkpoint_blob_sha: 17199d28888901353cbc82224ecabc3c1bf56e2d
+    polish_book_v02_status: active_owner_directed_upgrade_durably_checkpointed
