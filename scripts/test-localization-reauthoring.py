@@ -482,7 +482,7 @@ class GentleStepsFullDaysOwnerReview(unittest.TestCase):
         self.assertEqual(audit["status"], "READY_FOR_OWNER_REVIEW")
         self.assertEqual(audit["coverage"]["units"], 72)
         self.assertEqual(audit["coverage"]["missing_or_order_defects"], [])
-        self.assertEqual(gate["status"], "READY_FOR_OWNER_REVIEW")
+        self.assertEqual(gate["status"], "READY_FOR_OWNER_REVIEW_AFTER_MULTI_AGENT_FULL_READER_AUDIT")
         self.assertFalse(gate["labels_locked"])
         self.assertFalse(gate["title_locked"])
         self.assertFalse(gate["publication_authorized"])
@@ -538,6 +538,22 @@ class GentleStepsVersion02(unittest.TestCase):
             "wspólny oddech przepływa",
         ):
             self.assertNotIn(regression.lower(), daily.lower())
+
+
+    def test_v02_multi_agent_reader_audit_regressions(self):
+        rendered = self.MASTER.read_text(encoding="utf-8")
+        daily = rendered[rendered.index("## DZIEŃ 1"):]
+        self.assertIn("MIĘDZY NAMI: JEDNO SŁOWO NA TERAZ", daily)
+        self.assertIn("Wyobraźcie sobie mapę waszej rodziny", daily)
+        self.assertIn("Jeśli choć jedna osoba woli bez dotyku", daily)
+        self.assertIn("MIĘDZY NAMI: NASZ ZNAK", daily)
+        self.assertNotIn("NASZ TAJNY ZNAK", daily)
+        self.assertNotIn("„bop”", daily)
+        self.assertNotIn("?”.", daily)
+        self.assertNotIn("”.", daily)
+        self.assertNotIn("dzisiejszego rodzinnego dnia", daily)
+        self.assertNotIn("dobrze mu usłyszeć", daily)
+        self.assertNotIn("rodzinne wartości mają inne wymagania bezpieczeństwa", daily)
 
     def test_v02_includes_reauthored_back_matter(self):
         rendered = self.MASTER.read_text(encoding="utf-8")
