@@ -86,9 +86,9 @@ localization:
     current_polish_book_version_path: localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md
     current_polish_book_version_source_blob_sha: 46542df9e3e44f235f112edb2d381d5511c7abca
     next_polish_book_version: 2
-    next_polish_book_version_status: ready_for_owner_full_read_after_multi_agent_qa
+    next_polish_book_version_status: ready_for_owner_full_read_after_owner_style_upgrade_qa
     next_polish_book_version_path: localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md
-    next_polish_book_version_blob_sha: ceb6ae2c729a99939496754eb294e92e81931f5c
+    next_polish_book_version_blob_sha: ab2032ae99a3815b785accb07c40ed40f7110b69
     next_polish_book_version_manifest: localization/pl-PL/production/gentle-steps/book-versions/v2/BOOK_VERSION_02_MANIFEST.json
     next_polish_book_version_owner_brief: localization/pl-PL/production/gentle-steps/book-versions/v2/V02_OWNER_STYLE_AND_RESEARCH_BRIEF_2026-10-03.md
     next_polish_book_version_qa: localization/pl-PL/production/gentle-steps/book-versions/v2/V02_FULL_MULTI_AGENT_QA_2026-10-03.md
