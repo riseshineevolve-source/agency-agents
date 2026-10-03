@@ -278,7 +278,7 @@ Czasem wystarczy:
 
 Wybierzcie coś, co działa w waszym domu.
 
-Luli: Czasem najlepsze zdanie dnia to „Ja to zrobię”. I nie trzeba go oprawiać w ramkę.
+Luli: „Ja to zrobię” ma w grudniu wartość porównywalną z wolnym miejscem parkingowym.
 
 ---
 
@@ -452,7 +452,7 @@ Nie slogan na uroczystość i nie mądrość na kubek. Może to być wasza zasad
 
 Wybierzcie jedno zdanie, które chcielibyście zachować jako rodzinne hasło.
 
-Nini: Jeśli hasło brzmi „gdzie są klucze?”, przyjmuję zgłoszenie, ale spróbujcie jeszcze raz.
+Nini: Jeśli pierwsze hasło brzmi „gdzie są klucze?”, rozumiem. Ale dajcie sobie jeszcze jedną próbę.
 
 ---
 
@@ -899,7 +899,7 @@ Kiedy pierwsza osoba przejdzie na koniec, przez tunel przechodzi kolejna. Kontyn
 
 W dwie osoby ustawcie dwa krzesła tak, żeby tworzyły bezpieczne wejście. Jedna osoba przechodzi między nimi, a druga jej kibicuje. Potem zamieniacie się rolami.
 
-Nini: Jeśli będzie trochę za głośno, uznaję, że właśnie o to chodziło.
+Nini: Tryb „stadion” działa zgodnie z nazwą. Ostrzegałam.
 
 ### MIĘDZY NAMI: CO CHCESZ ZAPAMIĘTAĆ Z TEGO GRUDNIA?
 
