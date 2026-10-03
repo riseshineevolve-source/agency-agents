@@ -26,7 +26,7 @@ Na początek ważna rzecz: ta książka nie ma być kolejnym punktem na grudniow
 
 Grudzień ma wyjątkowy talent do dokładania słowa „muszę”. Muszę pamiętać, kupić, przynieść, oddać, wysłać, zdążyć. I najlepiej wszystko jeszcze dziś.
 
-Usiądźcie razem tak, żeby było wam wygodnie. Dłonie połóżcie na kolanach albo po prostu oprzyjcie je luźno obok siebie.
+Usiądźcie razem tak, żeby było wam wygodnie. Dłonie połóżcie na kolanach albo oprzyjcie je luźno obok siebie.
 
 Przez minutę oddychajcie zwyczajnie. Przy każdym wydechu pomyślcie tylko: „nie teraz”. Nie chodzi o to, że lista zadań zniknie. Przez te sześćdziesiąt sekund żadnym z jej punktów nie musicie się zajmować.
 
@@ -198,7 +198,7 @@ Zamknijcie oczy.
 
 Najpierw posłuchajcie tego, co jest najbliżej was. Potem sprawdźcie, co słychać dalej, za drzwiami, za oknem albo w innym pokoju. Na końcu spróbujcie wyłapać najcichszy dźwięk, który dociera gdzieś z tła.
 
-Nie zgadujcie, co to. Po prostu słuchajcie.
+Nie zgadujcie, co to. Tylko słuchajcie.
 
 Dilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem.
 
@@ -276,7 +276,7 @@ Czasem wystarczy:
 „Nie musisz teraz odpowiadać”.
 „Chcesz chwilę dla siebie?”
 
-Wybierzcie coś, co naprawdę działa w waszym domu.
+Wybierzcie coś, co działa w waszym domu.
 
 Luli: Czasem najlepsze zdanie dnia to „Ja to zrobię”. I nie trzeba go oprawiać w ramkę.
 
@@ -286,11 +286,11 @@ Luli: Czasem najlepsze zdanie dnia to „Ja to zrobię”. I nie trzeba go opraw
 
 ### ZWOLNIJ: PODŁOGA ROBI SWOJE
 
-Wieczorem zwykle dzieje się coś absurdalnego. Każdy jest już zmęczony, ale nadal czekają naczynia, plecaki na jutro, rzeczy do znalezienia i co najmniej jedna osoba, która naprawdę nie ma już ochoty niczego robić.
+Wieczorem zwykle dzieje się coś absurdalnego. Każdy jest już zmęczony, ale nadal czekają naczynia, plecaki na jutro, rzeczy do znalezienia i co najmniej jedna osoba, która nie ma już ochoty niczego robić.
 
 Usiądźcie albo połóżcie się obok siebie tak, żeby było wam wygodnie.
 
-Przez chwilę pozwólcie rękom, nogom i plecom naprawdę oprzeć się na podłodze. Zwróćcie uwagę, gdzie ciało styka się z podłożem, i pozwólcie, żeby przez minutę to podłoga robiła większość pracy.
+Przez chwilę pozwólcie rękom, nogom i plecom całkiem oprzeć się na podłodze. Zwróćcie uwagę, gdzie ciało styka się z podłożem, i pozwólcie, żeby przez minutę to podłoga robiła większość pracy.
 
 Oddychajcie zwyczajnie. Niczego nie trzeba napinać, poprawiać ani utrzymywać.
 
@@ -380,7 +380,7 @@ Jeśli dzisiejszy dzień był kiepski, nie będziemy go na siłę poprawiać. Sz
 
 Usiądźcie razem i zróbcie kilka spokojnych, niewymuszonych oddechów.
 
-Przy wdechu przypomnijcie sobie jedną konkretną dobrą rzecz z dzisiejszego dnia. Może ktoś wam pomógł, coś się udało albo po prostu przez chwilę było dobrze.
+Przy wdechu przypomnijcie sobie jedną konkretną dobrą rzecz z dzisiejszego dnia. Może ktoś wam pomógł, coś się udało albo choć przez chwilę było dobrze.
 
 Przy wydechu opuśćcie ramiona.
 
@@ -406,7 +406,7 @@ Mimi: Jeśli po chwili nie wiecie, która ręka jest czyja, wszystko idzie zgodn
 
 Po kolei wymieńcie po jednej małej rzeczy z dzisiejszego dnia, która wydarzyła się między wami albo w domu i sprawiła, że było wam choć odrobinę lepiej.
 
-Może ktoś zrobił herbatę, pożyczył ładowarkę, przypomniał o czymś ważnym, rozśmieszył was w dobrym momencie albo po prostu usiadł obok.
+Może ktoś zrobił herbatę, pożyczył ładowarkę, przypomniał o czymś ważnym, rozśmieszył was w dobrym momencie albo usiadł obok.
 
 Wystarczy po jednym przykładzie.
 
@@ -424,7 +424,7 @@ Usiądźcie blisko siebie, tak żeby stykać się ramionami.
 
 Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Każdy oddycha we własnym tempie.
 
-Nie ustalajcie, co będzie za chwilę. Przez moment po prostu posiedźcie razem.
+Nie ustalajcie, co będzie za chwilę. Przez moment posiedźcie razem.
 
 Alio: Nikt niczego nie ustala i jakoś działa. Nie mówcie dorosłym, że można.
 
@@ -444,7 +444,7 @@ Dilo: Jeśli ktoś pomyli kolejność, maszyna zgłasza błąd. Restart bez wzyw
 
 ### MIĘDZY NAMI: ZDANIE, KTÓRE DO NAS PASUJE
 
-Wymyślcie razem jedno krótkie zdanie, które naprawdę pasuje do waszej rodziny.
+Wymyślcie razem jedno krótkie zdanie, które pasuje do waszej rodziny.
 
 Nie slogan na uroczystość i nie mądrość na kubek. Może to być wasza zasada, skrót albo zdanie, które często u was pada. Im bardziej tylko wasze, tym lepiej.
 
@@ -543,7 +543,7 @@ Luli: Pięć słów. Nie sześć. Tak, liczę.
 
 Każdy mówi jedną rzecz, która ostatnio mu wyszła albo z której jest zadowolony.
 
-Nie musi to być nagroda, świetna ocena ani wielkie osiągnięcie. Może wreszcie coś zrozumieliście, zrobiliście coś mimo stresu, komuś pomogliście, odważyliście się spróbować albo po prostu doprowadziliście do końca coś, co długo czekało.
+Nie musi to być nagroda, świetna ocena ani wielkie osiągnięcie. Może wreszcie coś zrozumieliście, zrobiliście coś mimo stresu, komuś pomogliście, odważyliście się spróbować albo doprowadziliście do końca coś, co długo czekało.
 
 Reszta przez chwilę tylko słucha. Bez poprawiania i bez „mogłeś jeszcze…”.
 
@@ -573,7 +573,7 @@ Osoba, która przechodzi, wybiera styl wejścia: zwyczajnie, w bardzo poważnym 
 
 W czasie przejścia pozostali mówią po jednym krótkim, prawdziwym zdaniu o czymś, co w tej osobie lubią albo cenią.
 
-Nie trzeba wygłaszać mowy. Jedno zdanie wystarczy. Spróbujcie też nie powtarzać rzeczy, które ktoś już powiedział wcześniej. Dzięki temu trzeba naprawdę przyjrzeć się sobie nawzajem.
+Nie trzeba wygłaszać mowy. Jedno zdanie wystarczy. Spróbujcie też nie powtarzać rzeczy, które ktoś już powiedział wcześniej. Dzięki temu trzeba trochę dokładniej przyjrzeć się sobie nawzajem.
 
 Jeśli ktoś nie ma ochoty być przez chwilę w centrum uwagi, może wybrać wersję bez słów. Wtedy pozostali robią tylko cichy gest uznania, na przykład kciuk w górę albo krótkie klaśnięcie.
 
@@ -599,7 +599,7 @@ Nini: Jeśli ktoś powie „Wi-Fi”, dorzucamy drugi skarb. Bez dyskusji.
 
 ### ZWOLNIJ: CIEPŁE DŁONIE
 
-Po zimnym przystanku, korkach, zakupach albo zwykłym grudniowym spacerze czasem pierwszą sensowną rzeczą jest po prostu się ogrzać.
+Po zimnym przystanku, korkach, zakupach albo zwykłym grudniowym spacerze czasem pierwszą sensowną rzeczą jest się ogrzać.
 
 Potrzyjcie dłonie o siebie przez kilka sekund, aż zrobią się wyraźnie cieplejsze.
 
@@ -607,7 +607,7 @@ Jedną dłoń połóżcie na własnej klatce piersiowej.
 
 Drugą możecie położyć na ramieniu osoby siedzącej po prawej stronie, ale tylko wtedy, gdy ta osoba ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.
 
-Zostańcie tak przez chwilę i po prostu poczujcie ciepło dłoni.
+Zostańcie tak przez chwilę i poczujcie ciepło dłoni.
 
 Luli: Dwie ciepłe dłonie i nic do znalezienia, kupienia ani ładowania. Dobry układ.
 
@@ -657,7 +657,7 @@ Alio: Najspokojniejsza kolejka górska świata. I nawet nie trzeba stać w kolej
 
 ### GRAMY: LUSTRO BEZ LUSTRA
 
-Dobierzcie się w pary. Jeśli jest was nieparzysta liczba, w jednej grupie będą trzy osoby. Jedna prowadzi, a pozostałe dwie są lustrami. Przy zmianie ról po prostu kolejno przejmujecie prowadzenie.
+Dobierzcie się w pary. Jeśli jest was nieparzysta liczba, w jednej grupie będą trzy osoby. Jedna prowadzi, a pozostałe dwie są lustrami. Przy zmianie ról kolejno przejmujecie prowadzenie.
 
 W każdej parze zaczyna osoba, która ma na sobie więcej czerwonego. Staje naprzeciwko drugiej osoby i przez 20 sekund wykonuje powolne, bezpieczne ruchy rękami, głową i górną częścią ciała. Druga osoba jest lustrem i próbuje odwzorować wszystko dokładnie w tym samym momencie.
 
@@ -673,7 +673,7 @@ Nini: Jeśli oboje zaczniecie prowadzić naraz, gratulacje. Właśnie wynaleźli
 
 ### MIĘDZY NAMI: HISTORIA, KTÓRA ZOSTAŁA
 
-Każdy przypomina sobie jeden rodzinny moment, który był zabawny albo po prostu bardzo przyjemny i do dziś wywołuje uśmiech.
+Każdy przypomina sobie jeden rodzinny moment, który był zabawny albo zwyczajnie bardzo przyjemny i do dziś wywołuje uśmiech.
 
 Nie szukajcie wielkiego wydarzenia. Często najlepiej pamięta się drobiazgi, pomyłki i historie, które wcale nie miały zostać rodzinną legendą.
 
@@ -691,7 +691,7 @@ Są dni, kiedy każdy chce czegoś innego. Innej muzyki w samochodzie, innego fi
 
 Zanim zaczniecie rodzinny koncert, usiądźcie w kółku.
 
-Możecie lekko złapać się za ręce albo po prostu trzymać dłonie blisko siebie, bez dotykania. Wybierzcie wersję, która wszystkim odpowiada.
+Możecie lekko złapać się za ręce albo trzymać dłonie blisko siebie, bez dotykania. Wybierzcie wersję, która wszystkim odpowiada.
 
 Przy wdechu powoli unieście ręce. Przy wydechu spokojnie je opuśćcie.
 
@@ -739,7 +739,7 @@ Przez chwilę nic nie mówcie. Powoli unieście ręce do góry, a potem wyciągn
 
 Nie ciągnijcie mocniej, niż jest wam wygodnie. To nie zawody w rozciąganiu.
 
-Zobaczcie po prostu, ile miejsca zajmuje wasze koło, kiedy każdy wyciągnie ręce.
+Zobaczcie, ile miejsca zajmuje wasze koło, kiedy każdy wyciągnie ręce.
 
 Mimi: Bez rekordów. Jutro też będziemy potrzebować ramion.
 
@@ -765,7 +765,7 @@ Każdy kończy zdanie:
 
 Może chodzić o wyjazd, gotowanie, wygłupy, sport, rozmowę, muzykę, spacer albo wspólne nicnierobienie.
 
-Nie szukajcie najlepszej odpowiedzi. Wystarczy coś, co naprawdę działa u was.
+Nie szukajcie najlepszej odpowiedzi. Wystarczy coś, co działa u was.
 
 Alio: Ja zgłaszam wszystko, przy czym wolno skakać. Dla porządku.
 
@@ -823,9 +823,9 @@ Czasem wszyscy są w domu, ale każdy osobno. Ktoś przy ekranie, ktoś przy lek
 
 Usiądźcie razem i zamknijcie oczy.
 
-Przez kilka oddechów po prostu posiedźcie obok siebie. Nie trzeba oddychać w tym samym tempie ani próbować wywołać konkretnego nastroju.
+Przez kilka oddechów posiedźcie obok siebie. Nie trzeba oddychać w tym samym tempie ani próbować wywołać konkretnego nastroju.
 
-Pomyślcie przez chwilę, co lubicie w tym, że teraz po prostu siedzicie obok siebie.
+Pomyślcie przez chwilę, co lubicie w tym, że teraz siedzicie obok siebie.
 
 Dilo: Jesteśmy obok siebie i niczego nie trzeba konfigurować. Podejrzane.
 
@@ -849,7 +849,7 @@ Dilo: Szybciej. Geometria nie będzie na nas czekać.
 
 ### MIĘDZY NAMI: CO LUBIMY W NASZYM DOMU?
 
-Pierwsza osoba mówi jedną rzecz, którą naprawdę lubi w swoim domu.
+Pierwsza osoba mówi jedną rzecz, którą lubi w swoim domu.
 
 Może to być konkretne miejsce, zapach, dźwięk, zwyczaj albo coś, co dzieje się tylko u was.
 
@@ -913,9 +913,9 @@ Wieczorem mózg potrafi liczyć wszystko, czego jeszcze nie zrobiliśmy. Dziś p
 
 Usiądźcie przez chwilę w ciszy. Złóżcie dłonie razem albo połóżcie je na kolanach.
 
-Zwróćcie uwagę na jedną przyjemną rzecz, którą naprawdę teraz czujecie. Może to być ciepło dłoni, miękkość swetra, wygodne oparcie, zapach herbaty albo coś zupełnie innego.
+Zwróćcie uwagę na jedną przyjemną rzecz, którą czujecie w tej chwili. Może to być ciepło dłoni, miękkość swetra, wygodne oparcie, zapach herbaty albo coś zupełnie innego.
 
-Nie róbcie z tego większej historii. Zauważcie przez chwilę jedną rzecz, która jest teraz po prostu przyjemna.
+Nie róbcie z tego większej historii. Zauważcie przez chwilę jedną rzecz, która jest teraz przyjemna.
 
 Nini: Jeśli wygrywa ciepły koc, nie będę się sprzeczać.
 
@@ -973,7 +973,7 @@ Luli: Lampki choinkowe mogą świecić za nas. Mamy dziś wolne.
 
 Stańcie w kółku. Upewnijcie się, że macie wokół siebie miejsce na mały krok do przodu lub do tyłu. Zaczyna najstarsza osoba.
 
-Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z tym, co naprawdę myśli:
+Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z tym, co myśli:
 
 „Najbardziej sobą jestem, kiedy…”
 „Dziś mogę o sobie powiedzieć, że…”
@@ -1020,7 +1020,7 @@ Usiądźcie wygodnie i zamknijcie oczy.
 
 Przez minutę wyobraźcie sobie kulę śnieżną tuż po potrząśnięciu. Płatki wirują wszędzie, a potem powoli opadają coraz niżej.
 
-Nie trzeba zatrzymywać myśli ani próbować „wyczyścić głowy”. Jeśli coś wam przyjdzie do głowy, po prostu wróćcie do obrazu opadającego śniegu.
+Nie trzeba zatrzymywać myśli ani próbować „wyczyścić głowy”. Jeśli coś wam przyjdzie do głowy, wróćcie do obrazu opadającego śniegu.
 
 Alio: I nikt nie potrząsa kulą drugi raz. Mówię to głównie do siebie.
 
@@ -1068,9 +1068,9 @@ Zaczyna dowolna osoba. Zwraca się do osoby siedzącej po swojej prawej stronie 
 
 Następnie podaje jeden prawdziwy, niedawny przykład sytuacji, za którą rzeczywiście chce przeprosić.
 
-Nie wymyślajcie przeprosin tylko po to, żeby zaliczyć rundę. Jeśli ktoś nie ma dziś niczego szczerego do powiedzenia, może po prostu posłuchać.
+Nie wymyślajcie przeprosin tylko po to, żeby zaliczyć rundę. Jeśli ktoś nie ma dziś niczego szczerego do powiedzenia, może zostać przy słuchaniu.
 
-Osoba, która słyszy przeprosiny, nie musi od razu odpowiadać ani mówić „nic się nie stało”. Czasem wystarczy usłyszeć, że druga osoba naprawdę zauważyła, co zrobiła.
+Osoba, która słyszy przeprosiny, nie musi od razu odpowiadać ani mówić „nic się nie stało”. Czasem wystarczy usłyszeć, że druga osoba zauważyła, co zrobiła.
 
 Jeśli inni również chcą coś powiedzieć, możecie przejść dalej wokół koła.
 
@@ -1084,13 +1084,13 @@ Alio: Jedno prawdziwe „przepraszam” wystarczy. Reszta może chwilę pomilcze
 
 Usiądźcie razem w ciszy.
 
-Jeśli wszyscy mają na to ochotę, możecie złapać się za ręce. Jeśli nie, po prostu usiądźcie blisko siebie.
+Jeśli wszyscy mają na to ochotę, możecie złapać się za ręce. Jeśli nie, usiądźcie blisko siebie.
 
 Przez minutę oddychajcie swobodnie i niczego nie planujcie.
 
 Nie poprawiamy już grudnia. Nie sprawdzamy, czego nie zdążyliśmy. Przez tę minutę niczego nie trzeba już naprawiać ani nadrabiać.
 
-Na koniec pomyślcie o jednej osobie albo rodzinie poza tym pokojem, której chcielibyście dziś po prostu życzyć czegoś dobrego. Nie trzeba tego mówić na głos.
+Na koniec pomyślcie o jednej osobie albo rodzinie poza tym pokojem, której chcielibyście dziś życzyć czegoś dobrego. Nie trzeba tego mówić na głos.
 
 Mimi: Jeszcze jedna minuta. Reszta naprawdę może chwilę poczekać.
 
