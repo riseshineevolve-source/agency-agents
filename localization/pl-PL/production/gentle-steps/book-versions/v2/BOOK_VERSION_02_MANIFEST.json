@@ -66,5 +66,15 @@
     "day9_four_person_feasibility": true,
     "day19_reset_deduplication": true,
     "day20_two_person_clarity": true
-  }
+  },
+  "template_fit_check": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_TEXT_DENSITY_TEMPLATE_FIT_CHECK_2026-10-03.md",
+  "template_fit_state": "TEXT_DENSITY_PACKAGED_REAL_TEMPLATE_PENDING",
+  "template_fit_watchlist_days": [
+    9,
+    1,
+    21,
+    6,
+    18,
+    7
+  ]
 }
