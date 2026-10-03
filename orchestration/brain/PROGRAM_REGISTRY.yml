@@ -203,18 +203,29 @@ programs:
     commercial_priority: second_after_detective_english_kdp
     gentle_steps_round_1: pass_for_one_week_controlled_expansion
   detective_academy:
-    status: text_gold_master_v3_owner_review_open_layout_renderer_paused_english_not_frozen
+    status: book_factory_v2_phase1_pass_phase2_case02_active_english_not_frozen
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
-    branch: feature/detective-book-factory
+    branch: feature/rse-book-factory-v2
+    factory_v2_head: 3fa4fd586d322efe09ae478c82d0368e7862fe31
+    factory_v2_verified_engine_head: d311d1da30a9c6f141c8d0d1b77b0087f4722bad
+    factory_v2_phase0_pass: true
+    factory_v2_phase1_pass: true
+    factory_v2_next_task: P2.1-P2.12_case02_owner_proof
+    factory_v2_next_gate: case02_owner_visual_review
+    factory_v2_control: tools/rse-book-factory-v2/CODEX_CONTROL.md
+    first18_current_owner_baseline: tools/rse-book-factory-v2/control/FIRST18_CURRENT_OWNER_VISUAL_BASELINE_2026-10-03.md
+    first18_current_bundle_sha256: 06058bc25e53d3234fc5d671c5bcc8385b52081e4ff9c79f52c074ecba359a33
+    legacy_factory_branch: feature/detective-book-factory
+    legacy_factory_pr: 571
     text_repo: riseshineevolve-source/agency-agents
     text_gold_master_v3: orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md
     current_text_head: 76519a78cabf2a45dde07b8747b2339b0b97644c
     text_owner_review_open: true
     text_layout_renderer_paused: true
     preserve_v3_version_family: true
-    pr: 571
-    current_head: 1fed50b7e969c60da1a1b9d743665473ceb15049
-    verified_implementation_head: 1fed50b7e969c60da1a1b9d743665473ceb15049
+    pr: null
+    current_head: 3fa4fd586d322efe09ae478c82d0368e7862fe31
+    verified_implementation_head: d311d1da30a9c6f141c8d0d1b77b0087f4722bad
     locked_modules: 15
     local_all15_pass: true
     local_all15_count: 15_of_15
