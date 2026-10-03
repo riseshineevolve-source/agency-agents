@@ -1,6 +1,6 @@
 # Gentle Steps PL Version 02 Master
 
-Status: **FULL 24-DAY CREATIVE MASTER / OWNER REVIEW / NOT PUBLICATION-LOCKED**
+Status: **FULL BOOK CREATIVE MASTER / FAMILY-EAR DEEP PASS / OWNER REVIEW / NOT PUBLICATION-LOCKED**
 
 Version 01 frozen baseline:
 `localization/pl-PL/production/gentle-steps/versions/v01/GENTLE_STEPS_PL_VERSION_01.md`
@@ -15,7 +15,8 @@ Structure lock:
 - 24 days;
 - every day contains exactly three elements: **ZWOLNIJ / GRAMY / MIĘDZY NAMI**;
 - source mechanics, timing, counts, order, safety and consent remain protected;
-- reader-facing Polish uses no em dash.
+- reader-facing Polish uses no em dash;
+- Version 02 aims for child pull, older-child anti-cringe, tired-parent usability, humor and emotional depth at the same time.
 
 Current owner title shortlist:
 1. **ŚWIĘTA SĄ TEŻ PO DRODZE**
@@ -291,9 +292,11 @@ Zwróćcie uwagę, gdzie ciało styka się z podłogą. Przez chwilę niech ona 
 
 Dilo: Dziś trenuję z grawitacją. Ona robi większość pracy.
 
-### GRAMY: PODAJ DALEJ, BEZ SŁÓW
+### GRAMY: REAKCJA ŁAŃCUCHOWA
 
 Stańcie albo usiądźcie w kółku.
+
+W tej grze niczego nie tłumaczycie. Sygnał ma przejść przez całą rodzinę i wrócić do początku.
 
 Zaczyna osoba z najkrótszymi włosami. Wybiera dowolną osobę i uśmiecha się do niej możliwie szeroko.
 
@@ -389,9 +392,9 @@ Jeśli bawią się tylko dwie osoby, stańcie naprzeciwko siebie, skrzyżujcie r
 
 Mimi: Jeśli po chwili nie wiecie, która ręka jest czyja, wszystko idzie zgodnie z planem.
 
-### MIĘDZY NAMI: MAŁY PLUS DNIA
+### MIĘDZY NAMI: CO DZIŚ URATOWAŁO DZIEŃ?
 
-Po kolei wymieńcie po jednej małej rzeczy z dzisiejszego dnia, która zrobiła go choć odrobinę lepszym.
+Po kolei wymieńcie po jednej małej rzeczy z dzisiejszego rodzinnego dnia, która sprawiła, że było wam choć odrobinę lepiej.
 
 Może ktoś zrobił herbatę, zostawił ostatni kawałek ciasta, odebrał za was telefon, opowiedział dobry żart albo po prostu usiadł obok.
 
@@ -427,15 +430,13 @@ Kiedy wszyscy dołożą już swoją część, wykonajcie całą sekwencję jeszc
 
 Dilo: Jeśli ktoś pomyli kolejność, maszyna zgłasza błąd. Restart bez wzywania serwisu.
 
-### MIĘDZY NAMI: NASZE HASŁO
+### MIĘDZY NAMI: ZDANIE, KTÓRE DO NAS PASUJE
 
 Wymyślcie razem jedno krótkie zdanie, które naprawdę pasuje do waszej rodziny.
 
-Takie, które mogłoby wisieć na lodówce i nikt nie przewracałby oczami.
+Nie slogan na uroczystość i nie mądrość na kubek. Może to być wasza zasada, skrót albo zdanie, które często u was pada. Im bardziej tylko wasze, tym lepiej.
 
-Nie musi być wzniosłe. Może być poważne, zabawne albo trochę jedno i drugie.
-
-Wybierzcie jedno zdanie, które chcielibyście zachować jako wasze rodzinne hasło.
+Wybierzcie jedno zdanie, które chcielibyście zachować jako rodzinne hasło.
 
 Dilo: Tylko nie ustawiajcie go do Wi-Fi. Rodzinne wartości mają inne wymagania bezpieczeństwa.
 
@@ -726,7 +727,7 @@ Na koniec wykonajcie wszystkie ruchy jeszcze raz, po kolei, od pierwszego do ost
 
 Alio: Jeśli któregoś ruchu nie ma na WF-ie, tym lepiej. Mamy premierę.
 
-### MIĘDZY NAMI: CO DAJE NAM ENERGIĘ?
+### MIĘDZY NAMI: KIEDY MAMY NAJWIĘCEJ ENERGII?
 
 Każdy kończy zdanie:
 
@@ -770,7 +771,7 @@ W dwie osoby jedna osoba prowadzi z otwartymi oczami, a druga wykonuje jej instr
 
 Mimi: Bez piruetów. Krzesło nie jest przeciwnikiem.
 
-### MIĘDZY NAMI: JEDNO SŁOWO, ALE TRAFIONE
+### MIĘDZY NAMI: SŁOWO, KTÓRE DO CIEBIE PASUJE
 
 Zaczyna dowolna osoba. Zwraca się do osoby siedzącej po prawej stronie i mówi jedno słowo opisujące coś, co w niej podziwia albo szczególnie lubi.
 
@@ -926,11 +927,11 @@ Stańcie w kółku. Zaczyna najstarsza osoba.
 
 Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z tym, co naprawdę myśli:
 
-„Najbardziej sobą czuję się, kiedy…”
-„Jedna prawdziwa rzecz o mnie dzisiaj to…”
-„Coś ważnego w moim życiu teraz, czego nie widać od razu, to…”
+„Najbardziej sobą jestem, kiedy…”
+„Dziś mogę o sobie powiedzieć, że…”
+„Coś ważnego dla mnie, czego nie widać od razu, to…”
 „Jedna cecha, której czasem mi brakuje, to…”
-„Słowo, które kojarzy mi się z domem, to…”
+„Kiedy myślę «dom», pierwsze słowo, które przychodzi mi do głowy, to…”
 „Słowo, które ostatnio dodaje mi siły, to…”
 
 Nie trzeba wybierać najpoważniejszego zdania. Wybierzcie takie, na które macie dziś ochotę odpowiedzieć.
