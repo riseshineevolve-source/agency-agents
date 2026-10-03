@@ -986,13 +986,13 @@ Nie trzeba wybierać najpoważniejszego zdania. Wybierzcie takie, na które maci
 
 Kiedy osoba prowadząca skończy, pozostali odpowiadają ruchem.
 
-Jeśli zdanie mocno do was pasuje, zróbcie mały krok w stronę środka koła. Jeśli pasuje trochę, zróbcie jeden mały krok do tyłu.
+Jeśli zdanie mocno do was pasuje, zróbcie mały krok w stronę środka koła. Jeśli pasuje trochę, zostańcie w miejscu. Jeśli zupełnie nie jest o was, zróbcie mały krok do tyłu.
 
 Nie komentujcie cudzych wyborów i nie pytajcie, dlaczego ktoś stanął właśnie tam.
 
 Następnie prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara.
 
-W dwie osoby stańcie naprzeciwko siebie. Jedna osoba kończy wybrane zdanie, a druga robi krok do przodu, jeśli mocno się z nim utożsamia, albo krok do tyłu, jeśli tylko trochę. Potem zamieńcie się rolami.
+W dwie osoby stańcie naprzeciwko siebie. Jedna osoba kończy wybrane zdanie, a druga robi krok do przodu, zostaje w miejscu albo robi krok do tyłu według tej samej zasady. Potem zamieńcie się rolami.
 
 Mimi: Bez zgadywania po minach. Krok mówi dokładnie tyle, ile chcecie powiedzieć.
 
