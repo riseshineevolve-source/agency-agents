@@ -358,35 +358,35 @@ Kiedy historia będzie gotowa, odtwórzcie ją jeszcze raz od początku, ale bez
 
 Alio: Jeśli po drugim okrążeniu fabuła się rozpadła, proszę niczego nie naprawiać. Tak miało być.
 
-### MIĘDZY NAMI: ZA CO DOKŁADNIE?
+### MIĘDZY NAMI: CO DZIŚ BYŁO TRUDNIEJSZE, NIŻ WYGLĄDAŁO?
 
-Zaczyna najmłodsza osoba. Zwraca się do osoby siedzącej po prawej stronie i mówi:
+Każdy mówi jedną rzecz, która kosztowała go dziś trochę więcej wysiłku, niż było widać z zewnątrz.
 
-„Dziękuję ci za…”
+Może chodzić o sprawdzian, rozmowę, czekanie, skupienie się, bycie miłym mimo zmęczenia, załatwienie czegoś w pracy albo zwyczajne dotrwanie do końca dnia.
 
-Dokończcie zdanie jedną konkretną rzeczą, którą ta osoba zrobiła ostatnio dla was albo dla całej rodziny.
+Nie róbcie z tego wielkiej historii. Jedno zdanie wystarczy.
 
-Potem kolejna osoba dziękuje osobie po swojej prawej stronie. Kontynuujcie, aż każdy usłyszy przynajmniej jedno konkretne „dziękuję”.
-
-Luli: „Dzięki za wszystko” jest miłe. Ale dziś poproszę o konkret.
+Mimi: Nie wszystko, co męczy, wygląda jak maraton. I całe szczęście, bo nie mamy medali.
 
 ---
 
 ## DZIEŃ 9
 
-### ZWOLNIJ: JEDNA DOBRA RZECZ Z DZISIAJ
+### ZWOLNIJ: TU, GDZIE JESTEŚMY
 
-Jeśli dzisiejszy dzień był kiepski, nie będziemy go na siłę poprawiać. Szukamy tylko jednej chwili, która była choć trochę dobra.
+Jeśli dzień nadal odtwarza się w głowie, przez minutę nie będziemy z nim dyskutować. Zajmiemy uwagę tym, co jest tutaj.
 
-Usiądźcie razem i zróbcie kilka spokojnych, niewymuszonych oddechów.
+Usiądźcie wygodnie i rozejrzyjcie się.
 
-Przy wdechu przypomnijcie sobie jedną konkretną dobrą rzecz z dzisiejszego dnia. Może ktoś wam pomógł, coś się udało albo choć przez chwilę było dobrze.
+Znajdźcie wzrokiem trzy różne kolory.
 
-Przy wydechu opuśćcie ramiona.
+Potem posłuchajcie dwóch dźwięków.
 
-Nie trzeba robić listy wdzięczności ani szukać wielkiego sensu. Jedna rzecz wystarczy.
+Na koniec zauważcie jedno miejsce, w którym ciało dotyka krzesła, kanapy albo podłogi.
 
-Luli: Jedna dobra rzecz wystarczy. Nie poprawiamy dziś oceny całemu dniu.
+Nie mówcie odpowiedzi na głos. Zróbcie jeden zwykły oddech i wróćcie do reszty wieczoru.
+
+Nini: Trzy kolory, dwa dźwięki, jedna podłoga. Wreszcie lista, którą da się skończyć.
 
 ### GRAMY: ROZPLĄCZCIE TO
 
