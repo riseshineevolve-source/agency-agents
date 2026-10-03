@@ -1,13 +1,13 @@
 {
   "version": "02",
-  "status": "FULL_BOOK_CREATIVE_MASTER_READY_FOR_OWNER_REVIEW",
+  "status": "FULL_BOOK_FAMILY_EAR_PASS_READY_FOR_OWNER_REVIEW",
   "base_version": "01",
   "structure_locked": true,
   "title_locked": false,
   "publication_authorized": false,
   "base_snapshot": "localization/pl-PL/production/gentle-steps/versions/v01/GENTLE_STEPS_PL_VERSION_01.md",
   "master": "localization/pl-PL/production/gentle-steps/versions/v02/GENTLE_STEPS_PL_VERSION_02_MASTER.md",
-  "master_blob_sha": "d87db6767dc76298f443b9bb9ad012443dee9969",
+  "master_blob_sha": "945538602a0e4f5c2cac02b6962590b356d68e72",
   "daily_days": 24,
   "daily_sections": 72,
   "section_family": [
@@ -21,5 +21,6 @@
   "recurring_labels_locked": false,
   "back_matter_status": "NOT_YET_REAUTHORED_IN_V02",
   "back_matter_included": true,
-  "back_matter_path": "localization/pl-PL/production/gentle-steps/versions/v02/BACK_MATTER_V02.md"
+  "back_matter_path": "localization/pl-PL/production/gentle-steps/versions/v02/BACK_MATTER_V02.md",
+  "family_ear_deep_pass": "localization/pl-PL/production/gentle-steps/versions/v02/V02_FAMILY_EAR_DEEP_PASS_2026-10-03.md"
 }
