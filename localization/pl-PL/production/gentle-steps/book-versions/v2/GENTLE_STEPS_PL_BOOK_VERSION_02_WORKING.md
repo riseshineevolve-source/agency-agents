@@ -308,7 +308,9 @@ W rundzie drugiej zamiast uśmiechu przekazujecie sobie piątkę.
 
 W rundzie trzeciej przekazujecie delikatne klepnięcie w ramię.
 
-W rundzie czwartej możecie przekazywać krótki uścisk, ale tylko wtedy, gdy obie osoby mają na to ochotę.
+W rundzie czwartej możecie przekazywać krótki uścisk.
+
+Każdy sygnał z dotykiem działa tylko wtedy, gdy obie osoby mają na niego ochotę. Jeśli ktoś woli bez dotyku, zamieńcie piątkę, klepnięcie albo uścisk na mrugnięcie, ukłon albo własny gest.
 
 Na finał wybierzcie jeden z wcześniejszych sygnałów i spróbujcie puścić go dookoła tak płynnie, żeby wrócił do osoby rozpoczynającej bez żadnej dłuższej przerwy.
 
@@ -342,7 +344,7 @@ Nie trzeba niczego liczyć, porównywać ani sprawdzać, czy u kogoś obok jest 
 
 Zostańcie tak przez minutę. W tym czasie niczego nie trzeba planować ani kończyć.
 
-Nini: Serce działa bez listy zadań. W grudniu szanuję każdą taką inicjatywę.
+Nini: Serce działa bez listy zadań. Proszę zanotować, że jednak się da.
 
 ### GRAMY: HISTORIA, KTÓREJ NIKT NIE ZAPLANOWAŁ
 
@@ -392,7 +394,7 @@ Nini: Trzy kolory, dwa dźwięki, jedna podłoga. Wreszcie lista, którą da si�
 
 Stańcie blisko siebie w kółku.
 
-Każdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie wybierajcie osób stojących bezpośrednio obok was.
+Każdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie łapcie obu dłoni tej samej osoby. Jeśli jest was pięcioro lub więcej, spróbujcie też nie wybierać osób stojących bezpośrednio obok. Przy czterech osobach sąsiad może być potrzebny i to jest w porządku.
 
 Kiedy wszyscy trzymają już po dwie dłonie, powstanie splątany węzeł.
 
@@ -843,17 +845,17 @@ Nini: „We wszystkim” brzmi podejrzanie. Poproszę o jeden konkretny dowód.
 
 ## DZIEŃ 19
 
-### ZWOLNIJ: CHWILA OBOK SIEBIE
+### ZWOLNIJ: PUSTE RĘCE
 
-Czasem wszyscy są w domu, ale każdy osobno. Ktoś przy ekranie, ktoś przy lekcjach, ktoś w kuchni, ktoś już prawie śpi.
+Czasem wszyscy są w domu, ale każdy coś jeszcze trzyma. Telefon, długopis, książkę, kubek, ścierkę albo myśl pod tytułem „jeszcze tylko to”.
 
-Usiądźcie razem i zamknijcie oczy.
+Na minutę odłóżcie bezpiecznie to, co macie w rękach.
 
-Przez kilka oddechów posiedźcie obok siebie. Nie trzeba oddychać w tym samym tempie ani próbować wywołać konkretnego nastroju.
+Połóżcie puste dłonie na kolanach, wnętrzem do góry. Poruszcie raz palcami, a potem pozwólcie dłoniom spokojnie leżeć.
 
-Pomyślcie przez chwilę, co lubicie w tym, że teraz siedzicie obok siebie.
+Oddychajcie zwyczajnie. Przez tę minutę ręce nie muszą niczego pisać, przesuwać, trzymać ani sprzątać.
 
-Dilo: Jesteśmy obok siebie i niczego nie trzeba konfigurować. Podejrzane.
+Mimi: Puste ręce. Niczego przez minutę nie odkładamy na właściwe miejsce. Korzystajcie.
 
 ### GRAMY: ZMIANA KSZTAŁTU
 
@@ -917,7 +919,7 @@ Jeśli dwie osoby mają ten sam miesiąc albo tyle samo liter, mogą stać obok 
 
 Na finał wymyślcie własne, łatwe do sprawdzenia kryterium.
 
-W dwie osoby zagrajcie szybko w pięć kryteriów z rzędu. Za każdym razem bez słów zdecydujcie, kto powinien stanąć pierwszy, i dopiero potem sprawdźcie odpowiedź.
+W dwie osoby zagrajcie w trzy podane rundy. Jeśli chcecie dwie kolejne, wymyślcie własne łatwe do sprawdzenia kryteria. Za każdym razem bez słów zdecydujcie, kto powinien stanąć pierwszy, i dopiero potem sprawdźcie odpowiedź.
 
 Nini: Jeśli ktoś próbuje przeliterować imię brwiami, uznaję za legalne.
 
