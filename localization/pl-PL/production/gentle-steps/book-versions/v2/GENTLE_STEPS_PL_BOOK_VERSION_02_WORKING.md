@@ -70,7 +70,7 @@ Luli: Można kochać święta i mieć dość pytania „gdzie jest taśma?” o 
 
 ### ZWOLNIJ: CZTERY NA SZEŚĆ
 
-Niektóre grudniowe poranki zaczynają się od: „Gdzie jest mój zeszyt?”, „Dziś trzeba było coś przynieść”, „Nie mam stroju na WF” i „Czy ktoś widział drugą skarpetkę?”
+Niektóre grudniowe poranki zaczynają się od: „Gdzie jest mój zeszyt?”, „Dziś trzeba było coś przynieść”, „Nie mam stroju na WF” i „Czy ktoś widział drugą skarpetkę?”, podczas gdy śniadanie spokojnie stygnie.
 
 Jeśli dzisiejszy poranek należał do tej kategorii, usiądźcie wygodnie na minutę.
 
