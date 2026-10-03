@@ -4,7 +4,7 @@
   "base_book_version": "1",
   "base_book_version_path": "localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md",
   "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
-  "working_master_blob_sha": "865d801e74b973343cf6562bdc269ef21f951d8c",
+  "working_master_blob_sha": "d6b0fe7223d7177225ed6a49d662d46e78b1de1b",
   "structure": {
     "days": 24,
     "daily_elements": [
@@ -47,7 +47,7 @@
   },
   "latest_checkpoint": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_READER_EXPERIENCE_SAFE_STATE_2026-10-03.md",
   "latest_checkpoint_manifest": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-03_READER_EXPERIENCE.json",
-  "latest_checkpoint_source_blob_sha": "865d801e74b973343cf6562bdc269ef21f951d8c",
+  "latest_checkpoint_source_blob_sha": "d6b0fe7223d7177225ed6a49d662d46e78b1de1b",
   "latest_checkpoint_state": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/POST_DEEP_UPGRADE_STATE_2026-10-03.json",
   "latest_reader_experience_pass": {
     "date": "2026-10-03",
@@ -61,6 +61,10 @@
     "day21_signal_routing_clarified": true,
     "day22_reverse_charades": true,
     "back_matter_de_repeated": true,
-    "structural_regression_passed": true
+    "structural_regression_passed": true,
+    "day7_touch_consent": true,
+    "day9_four_person_feasibility": true,
+    "day19_reset_deduplication": true,
+    "day20_two_person_clarity": true
   }
 }
