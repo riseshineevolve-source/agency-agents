@@ -514,7 +514,7 @@ Otwórzcie oczy i przez kilka sekund popatrzcie na osoby obok.
 
 Pomyślcie o jednej konkretnej rzeczy, którą w kimś obok lubicie albo cenicie.
 
-Nie trzeba niczego mówić. Nie trzeba też robić specjalnej miny. Jedno spojrzenie wystarczy.
+Nic nie mówcie. Nie róbcie też specjalnej miny. Jedno spojrzenie wystarczy.
 
 Mimi: Bez przemowy. Nikt nie będzie sprawdzał, kto spojrzał najbardziej wzruszająco.
 
@@ -911,7 +911,7 @@ Usiądźcie przez chwilę w ciszy. Złóżcie dłonie razem albo połóżcie je 
 
 Zwróćcie uwagę na jedną przyjemną rzecz, którą naprawdę teraz czujecie. Może to być ciepło dłoni, miękkość swetra, wygodne oparcie, zapach herbaty albo coś zupełnie innego.
 
-Nie trzeba robić z tego większej historii. Wystarczy przez chwilę zauważyć jedną rzecz, która jest teraz po prostu przyjemna.
+Nie róbcie z tego większej historii. Zauważcie przez chwilę jedną rzecz, która jest teraz po prostu przyjemna.
 
 Nini: Jeśli wygrywa ciepły koc, nie będę się sprzeczać.
 
@@ -961,7 +961,7 @@ Usiądźcie w kółku i zamknijcie oczy.
 
 Przez kilka oddechów zwróćcie uwagę tylko na to, że klatka piersiowa lekko unosi się i opada. Nie trzeba oddychać głębiej ani wolniej, niż jest wygodnie.
 
-Przez tę chwilę nie trzeba zajmować się następną rzeczą z listy. Ona naprawdę może poczekać kilka oddechów.
+Przez te kilka oddechów następny punkt z listy może poczekać.
 
 Luli: Lampki choinkowe mogą świecić za nas. Mamy dziś wolne.
 
@@ -1116,7 +1116,7 @@ Może to być wspólny moment, czyjś gest, rozmowa, śmiech, nowy rodzinny żar
 
 Każdy mówi jedno życzenie dla waszej rodziny na święta i nadchodzący rok.
 
-Nie trzeba wygłaszać przemowy. Jedno prawdziwe „dziękuję” i jedno życzenie wystarczą.
+Bez przemowy. Jedno prawdziwe „dziękuję” i jedno życzenie wystarczą.
 
 Happy Makers: Nie wszystko, co ważne w tych świętach, znajdzie się pod choinką. I bardzo dobrze.
 
