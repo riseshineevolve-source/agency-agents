@@ -819,7 +819,7 @@ Potem ta osoba zwraca się do kolejnej osoby po swojej prawej stronie.
 
 Kontynuujcie wokół koła, aż każdy usłyszy jedną rzecz, w której inni naprawdę na niego liczą.
 
-Nini: Nie wpisujcie „we wszystkim”. Nawet superbohaterowie mają wolne.
+Nini: Nie mówcie „we wszystkim”. Nawet superbohaterowie mają wolne.
 
 ---
 
