@@ -324,7 +324,7 @@ W grudniu mnóstwo rzeczy wygląda, jakby robiły się same. Oczywiście się ni
 
 Każdy wybiera jedną osobę z rodziny, która ostatnio zrobiła coś pomocnego albo wzięła na siebie coś, co łatwo było przeoczyć.
 
-Powiedzcie konkretnie, co zauważyliście.
+Powiedzcie konkretnie, co zauważyliście. Jeśli ta osoba jest z wami, zakończcie zwykłym „dzięki”.
 
 Nini: Dziś śledztwo w sprawie rzeczy, które podobno zrobiły się same.
 
@@ -364,7 +364,7 @@ Każdy mówi jedną rzecz, która kosztowała go dziś trochę więcej wysiłku,
 
 Może chodzić o sprawdzian, rozmowę, czekanie, skupienie się, bycie miłym mimo zmęczenia, załatwienie czegoś w pracy albo zwyczajne dotrwanie do końca dnia.
 
-Nie róbcie z tego wielkiej historii. Jedno zdanie wystarczy.
+Nie róbcie z tego wielkiej historii. Jedno zdanie wystarczy. Jeśli dziś nie macie ochoty o tym mówić, możecie powiedzieć „pas”.
 
 Mimi: Nie wszystko, co męczy, wygląda jak maraton. I całe szczęście, bo nie mamy medali.
 
