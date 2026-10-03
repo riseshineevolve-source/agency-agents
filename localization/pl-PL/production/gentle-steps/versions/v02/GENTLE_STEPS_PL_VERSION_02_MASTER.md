@@ -1,6 +1,6 @@
 # Gentle Steps PL Version 02 Master
 
-Status: **FULL BOOK CREATIVE MASTER / FAMILY-EAR DEEP PASS / OWNER REVIEW / NOT PUBLICATION-LOCKED**
+Status: **FULL BOOK MULTI-AGENT READER AUDIT / OWNER REVIEW / NOT PUBLICATION-LOCKED**
 
 Version 01 frozen baseline:
 `localization/pl-PL/production/gentle-steps/versions/v01/GENTLE_STEPS_PL_VERSION_01.md`
@@ -32,7 +32,7 @@ Recurring section labels remain owner-gated and are not locked.
 
 Usiądźcie razem w kółku. Jeśli chcecie, lekko złapcie się za ręce albo usiądźcie tak, żeby stykać się ramionami.
 
-Zamknijcie oczy. Przez jedną minutę niczego nie organizujemy. Nie sprawdzamy, co jeszcze zostało do zrobienia. Nie kończymy w głowie listy zakupów ani jutrzejszego planu.
+Zamknijcie oczy. Przez jedną minutę niczego nie organizujemy. Nie sprawdzamy, co jeszcze zostało do zrobienia. Nie dopisujemy w głowie kolejnych punktów do listy zakupów ani nie układamy jutrzejszego planu.
 
 Oddychajcie zwyczajnie. Jeśli lista zadań przypomni o sobie, dobrze. Niech poczeka do końca minuty.
 
@@ -52,15 +52,13 @@ Kontynuujcie, aż każdy usłyszy przynajmniej jeden komplement. Jeśli macie oc
 
 Nini: Tylko bez zamachu. To ma trafić w człowieka inaczej niż piłka na WF-ie.
 
-### MIĘDZY NAMI: JAKI BYŁ TEN DZIEŃ?
+### MIĘDZY NAMI: JEDNO SŁOWO NA TERAZ
 
-Każdy mówi jedno słowo o dzisiejszym dniu.
+Każdy mówi jedno słowo o tym, jak się teraz czuje.
 
-Nie o sobie. O dniu.
+Tylko jedno. Nie trzeba niczego wyjaśniać ani uzasadniać.
 
-Może był szybki, dziwny, głośny, śmieszny, długi, zaskakujący albo zupełnie inny. Tylko jedno słowo. Bez wyjaśnień.
-
-Luli: „Normalny” jest podejrzanie wygodny. Proszę o drugie podejście.
+Luli: „Dobrze” jest bezpieczne. Spróbujcie jeszcze raz.
 
 ---
 
@@ -74,9 +72,9 @@ Przy wdechu policzcie spokojnie do czterech. Przy wydechu policzcie do sześciu.
 
 Nie nabierajcie powietrza na siłę i nie próbujcie zrobić idealnego oddechu. Jeśli taki rytm komuś nie odpowiada, wróćcie do własnego tempa.
 
-To tylko minuta. Niczego więcej nie trzeba z nią robić.
+Powtarzajcie ten rytm przez minutę. I tyle. Niczego więcej nie trzeba.
 
-Mimi: To chyba jedyne sześć sekund w grudniu, których nie próbujemy skrócić.
+Mimi: To chyba jedyne liczenie do sześciu w grudniu, którego nie próbujemy przyspieszyć.
 
 ### GRAMY: ORKIESTRA BEZ PRÓBY
 
@@ -112,7 +110,7 @@ Luli: „Bo jesteśmy fajni” zostawiamy jako odpowiedź awaryjną. Spróbujcie
 
 Grudzień wyjątkowo lubi słowo „muszę”. Muszę pamiętać, kupić, przynieść, oddać, wysłać, zdążyć.
 
-Przez jedną minutę robimy mu przerwę.
+Przez jedną minutę robimy sobie od niego przerwę.
 
 Usiądźcie albo stańcie blisko siebie. Połóżcie jedną dłoń na klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok, jeśli ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.
 
@@ -138,7 +136,7 @@ Alio: Najlepsze są pozy, których potem nikt nie umie wyjaśnić. Wiem z doświ
 
 Każdy wybiera jeden moment z dzisiejszego dnia, który był po prostu dobry.
 
-Nie musi być ważny ani wyjątkowy. Może to być coś śmiesznego, smacznego, wygodnego albo zupełnie zwyczajnego. Taka chwila, którą chętnie wzięlibyście na powtórkę.
+Nie musi być ważny ani wyjątkowy. Może to być coś śmiesznego, smacznego, wygodnego albo zupełnie zwyczajnego. Taka chwila, którą chętnie byście powtórzyli.
 
 Opowiedzcie o niej krótko.
 
@@ -228,7 +226,7 @@ Może to być czyjś śmiech, klucz w zamku, pies biegnący po podłodze, czajni
 
 Wystarczy po jednym dźwięku.
 
-Dilo: Piknięcie mikrofalówki i otwierana lodówka. Ścisła czołówka.
+Dilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołówka.
 
 ---
 
@@ -240,11 +238,11 @@ Usiądźcie luźno w kółku.
 
 Dłonie połóżcie na kolanach. Jeśli wszyscy mają na to ochotę, możecie też lekko złapać się za ręce.
 
-Na początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę zwolnić i sprawdźcie, czy przez chwilę wasze tempo zrobi się podobne.
+Na początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę zwolnić i sprawdźcie, czy po chwili zaczniecie oddychać w podobnym tempie.
 
 Nie trzeba liczyć ani idealnie się zgrywać. Jeśli każdy po chwili znów oddycha po swojemu, wszystko jest w porządku.
 
-Alio: Rodzina bez narady robi coś mniej więcej razem. Proszę odnotować.
+Alio: I proszę, działa bez żadnej narady. Sam jestem zaskoczony.
 
 ### GRAMY: WSZYSCY NARAZ
 
@@ -252,7 +250,7 @@ Stańcie w jednym rzędzie, ramię w ramię.
 
 W rundzie pierwszej prowadzi najmłodsza osoba, ale wykonuje ruchy razem z pozostałymi. Wybiera jedno z czterech poleceń: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy wykonują ten sam ruch w tym samym czasie.
 
-Celem jest wykonanie co najmniej 10 wspólnych ruchów bez pomyłki.
+Celem jest wykonanie co najmniej 10 wspólnych ruchów bez pomyłki. Jeśli coś się rozjedzie, ustawcie się ponownie i spróbujcie tej rundy od początku.
 
 W rundzie drugiej prowadzenie przejmuje kolejna osoba według wieku. Tym razem podaje polecenia dotyczące małych kroków: krok do przodu, do tyłu, w prawo albo w lewo. Wszyscy wykonują je razem.
 
@@ -266,11 +264,11 @@ Luli: Jeśli połowa rodziny idzie w lewo, a druga w prawo, nie ogłaszamy rozł
 
 ### MIĘDZY NAMI: CO DOBRZE USŁYSZEĆ?
 
-Każdy podaje jedno zdanie albo kilka słów, które dobrze mu usłyszeć od kogoś z rodziny, kiedy ma już dość.
+Każdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy ma już dość.
 
 Nie musi to być nic wielkiego. Czasem wystarczy:
 „Ja się tym zajmę”.
-„Zostawiłem ci kawałek”.
+„Został dla ciebie kawałek”.
 „Nie musisz teraz odpowiadać”.
 „Chcesz chwilę dla siebie?”.
 
@@ -288,7 +286,7 @@ Usiądźcie albo połóżcie się obok siebie tak, żeby było wam wygodnie.
 
 Przez chwilę pozwólcie rękom, nogom i plecom naprawdę oprzeć się na podłodze. Nie trzeba niczego napinać ani utrzymywać w określonej pozycji.
 
-Zwróćcie uwagę, gdzie ciało styka się z podłogą. Przez chwilę niech ona przejmie ciężar.
+Zwróćcie uwagę, gdzie ciało styka się z podłogą. Przez chwilę pozwólcie podłodze przejąć ciężar ciała.
 
 Dilo: Dziś trenuję z grawitacją. Ona robi większość pracy.
 
@@ -334,7 +332,7 @@ Przez chwilę spróbujcie wyczuć własny puls. Nie trzeba go liczyć, porównyw
 
 Zostańcie tak przez minutę. W tym czasie niczego nie trzeba planować ani kończyć.
 
-Nini: Serce pracuje bez przypomnień. Ja po tej minucie też chciałabym taki system.
+Nini: Serce pracuje bez przerwy. Ja po tej minucie też poproszę o chwilę wolnego.
 
 ### GRAMY: HISTORIA, KTÓREJ NIKT NIE ZAPLANOWAŁ
 
@@ -346,7 +344,7 @@ Każda następna osoba powtarza całą historię od początku, zachowując kolej
 
 Zróbcie dwa albo trzy pełne okrążenia. Historia ma być krótka. Nie musi mieć sensu i zwykle właśnie wtedy robi się ciekawie.
 
-Kiedy historia będzie gotowa, opowiedzcie ją jeszcze raz od początku. Tym razem każdy zastępuje swoje słowo jednym ruchem albo dźwiękiem, który do niego pasuje.
+Kiedy historia będzie gotowa, opowiedzcie ją jeszcze raz od początku. Tym razem każde dodane przez siebie słowo zastępujecie ruchem albo dźwiękiem, który do niego pasuje.
 
 Alio: Jeśli po drugim okrążeniu fabuła się rozpadła, proszę niczego nie naprawiać. Tak miało być.
 
@@ -360,7 +358,7 @@ Dokończcie zdanie jedną konkretną rzeczą, którą ta osoba zrobiła ostatnio
 
 Potem kolejna osoba dziękuje osobie po swojej prawej stronie. Kontynuujcie, aż każdy usłyszy przynajmniej jedno konkretne „dziękuję”.
 
-Luli: „Dzięki za wszystko” jest miłe. Dziś sprawdzamy wersję z konkretem.
+Luli: „Dzięki za wszystko” jest miłe. Ale dziś poproszę o konkret.
 
 ---
 
@@ -394,9 +392,9 @@ Mimi: Jeśli po chwili nie wiecie, która ręka jest czyja, wszystko idzie zgodn
 
 ### MIĘDZY NAMI: CO DZIŚ URATOWAŁO DZIEŃ?
 
-Po kolei wymieńcie po jednej małej rzeczy z dzisiejszego rodzinnego dnia, która sprawiła, że było wam choć odrobinę lepiej.
+Po kolei wymieńcie po jednej małej rzeczy z dzisiejszego dnia, która wydarzyła się między wami albo w domu i sprawiła, że było wam choć odrobinę lepiej.
 
-Może ktoś zrobił herbatę, zostawił ostatni kawałek ciasta, odebrał za was telefon, opowiedział dobry żart albo po prostu usiadł obok.
+Może ktoś zrobił herbatę, pożyczył ładowarkę, przypomniał o czymś ważnym, rozśmieszył was w dobrym momencie albo po prostu usiadł obok.
 
 Wystarczy po jednym przykładzie.
 
@@ -438,7 +436,7 @@ Nie slogan na uroczystość i nie mądrość na kubek. Może to być wasza zasad
 
 Wybierzcie jedno zdanie, które chcielibyście zachować jako rodzinne hasło.
 
-Dilo: Tylko nie ustawiajcie go do Wi-Fi. Rodzinne wartości mają inne wymagania bezpieczeństwa.
+Dilo: Tylko nie ustawiajcie go do Wi-Fi. Rodzinne hasło nie potrzebuje wielkiej litery, cyfry i znaku specjalnego.
 
 ---
 
@@ -468,7 +466,7 @@ Jej zadaniem jest wymyślić polecenie składające się zawsze z trzech częśc
 Na przykład:
 „Zrób dwa małe podskoki, zabzycz jak pszczoła i zrób minę, jakbyś właśnie znalazł prezent w szafie”.
 Albo:
-„Maszeruj powoli, powiedz dwa razy «bop» i wyglądaj tak, jakby ktoś zjadł twoje ciastko”.
+„Maszeruj powoli, powiedz dwa razy «bęc» i wyglądaj tak, jakby ktoś zjadł twoje ciastko”.
 
 Wszyscy wykonują całe polecenie od razu i w tym samym czasie. Osoba prowadząca również bierze udział.
 
@@ -514,8 +512,8 @@ Następnie opisuje swój wybór dokładnie pięcioma pojedynczymi słowami:
 1. trzy słowa muszą być prawdziwymi wskazówkami,
 2. dwa słowa mają być całkowicie absurdalnymi kłamstwami.
 
-Przykład dla Czerwonego Kapturka:
-„Koszyk. Las. Babcia. Rakieta. Sushi.”
+Przykład dla Świętego Mikołaja:
+„Sanie. Broda. Renifery. Sushi. Deskorolka.”
 
 Najpierw pozostali próbują wskazać, które dwa słowa są kłamstwami. Dopiero potem zgadują, o kogo albo o co chodziło.
 
@@ -549,7 +547,7 @@ Zwróćcie uwagę na powietrze przesuwające się po skórze podczas ruchu. Nicz
 
 Dilo: Tryb 0,25x. Mózg może zgłosić reklamację.
 
-### GRAMY: WEJŚCIE SPECJALNE
+### GRAMY: CZERWONY DYWAN
 
 Dwie osoby stają naprzeciwko siebie i unoszą ręce, tworząc z nich „bramę”.
 
@@ -561,13 +559,13 @@ Po przejściu zmieńcie role. Kontynuujcie, aż każdy przynajmniej raz przejdzi
 
 Jeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła tak, żeby tworzyły umowną bramę. Przechodźcie przez nią po kolei i podczas przejścia mówcie sobie nawzajem kilka życzliwych słów.
 
-Mimi: Wejście jak na premierę. Czerwony dywan dziś tylko w wyobraźni.
+Mimi: Fotoreporterów nie będzie. Na szczęście.
 
 ### MIĘDZY NAMI: CZEGO NIE DA SIĘ KUPIĆ?
 
-Grudzień ma wyjątkowo dużo rzeczy do kupienia. Dziś robimy listę odwrotną.
+Grudzień ma wyjątkowo dużo rzeczy do kupienia. Dziś robimy mapę odwrotną.
 
-Każdy wymienia jedną rzecz, którą macie jako rodzina i której nie da się po prostu zamówić, zapakować ani położyć pod choinką.
+Wyobraźcie sobie mapę waszej rodziny i zaznaczcie na niej rzeczy, których nie da się zamówić, zapakować ani położyć pod choinką. Każdy dodaje jeden taki skarb.
 
 Może to być wspólny humor, zaufanie, pomoc, tradycja, rozmowy, czyjś sposób na poprawianie wszystkim humoru albo coś zupełnie innego.
 
@@ -689,7 +687,7 @@ Luli: Dyrygujcie pewnie. Orkiestra nie musi wiedzieć, że improwizujecie.
 
 Każdy po kolei kończy zdanie:
 
-„Jedna rzecz, którą dobrze byłoby niedługo zrobić razem, to…”
+„Jedna rzecz, którą mam ochotę niedługo zrobić razem z wami, to…”
 
 Nie planujcie wyprawy życia. Liczą się też kino, naleśniki na kolację, spacer, planszówka, film pod kocem albo dodatkowe kakao.
 
@@ -773,7 +771,7 @@ Mimi: Bez piruetów. Krzesło nie jest przeciwnikiem.
 
 ### MIĘDZY NAMI: SŁOWO, KTÓRE DO CIEBIE PASUJE
 
-Zaczyna dowolna osoba. Zwraca się do osoby siedzącej po prawej stronie i mówi jedno słowo opisujące coś, co w niej podziwia albo szczególnie lubi.
+Zaczyna dowolna osoba. Zwraca się do osoby siedzącej po prawej stronie i mówi jedno słowo, które opisuje cechę tej osoby, którą podziwia albo szczególnie lubi.
 
 Potem ta osoba zwraca się do kolejnej osoby po swojej prawej stronie.
 
@@ -791,7 +789,7 @@ Usiądźcie razem i zamknijcie oczy.
 
 Przez kilka oddechów po prostu posiedźcie obok siebie. Nie trzeba oddychać w tym samym tempie ani próbować wywołać konkretnego nastroju.
 
-Pomyślcie przez chwilę o jednej zwyczajnej rzeczy, którą lubicie w takich wspólnych momentach.
+Pomyślcie przez chwilę, co lubicie w tym, że teraz po prostu siedzicie obok siebie.
 
 Dilo: Światło zostawmy lampkom. Ta minuta działa bez instalacji elektrycznej.
 
@@ -851,7 +849,7 @@ Kiedy pierwsza osoba przejdzie na koniec, przez tunel przechodzi kolejna. Kontyn
 
 W dwie osoby ustawcie dwa krzesła tak, żeby tworzyły bezpieczne wejście. Jedna osoba przechodzi między nimi, a druga jej kibicuje. Potem zamieniacie się rolami.
 
-Nini: Jeśli kibicowanie jest trochę za głośne, nie składam reklamacji.
+Nini: Jeśli będzie trochę za głośno, uznaję, że właśnie o to chodziło.
 
 ### MIĘDZY NAMI: PAMIĘTASZ, JAK…
 
@@ -861,7 +859,7 @@ Każdy przypomina sobie przynajmniej jeden przyjemny albo zabawny rodzinny momen
 
 Nie szukajcie największego wydarzenia roku. Najlepsze rodzinne historie bardzo często zaczynają się od czegoś, co wtedy wydawało się kompletnie zwyczajne.
 
-Nini: „Pamiętasz, jak zniknęło ostatnie ciastko?”. To jest materiał archiwalny i wymaga ponownego otwarcia sprawy.
+Nini: „Pamiętasz, jak zniknęło ostatnie ciastko?” To jest materiał archiwalny i wymaga ponownego otwarcia sprawy.
 
 ---
 
@@ -879,13 +877,17 @@ Nini: Jeśli odpowiedź brzmi „ciepły koc”, oficjalnie popieram.
 
 ### GRAMY: SZYFR W OBIEGU
 
-Stańcie w kółku. Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli ktoś nie chce kontaktu, ustalcie prosty sygnał zastępczy, na przykład pokazany dłonią znak albo lekkie dotknięcie własnego ramienia.
+Stańcie w kółku i wybierzcie jedną wersję na całą rundę.
 
-Zaczyna osoba, której imię rozpoczyna się na literę najbliższą A. Delikatnie ściska dłoń osoby po swojej prawej stronie, wysyłając pierwszy „sygnał” zgodnie z ruchem wskazówek zegara.
+Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli choć jedna osoba woli bez dotyku, ustalcie prosty sygnał wzrokowy, na przykład krótki ruch dłoni, który można przekazać osobie po prawej stronie.
 
-Każda osoba przekazuje dokładnie taki sam pojedynczy uścisk dalej, aż sygnał wróci do osoby, która go rozpoczęła.
+Zaczyna osoba, której imię rozpoczyna się na literę najbliższą A.
 
-Po pełnym okrążeniu osoba stojąca po prawej stronie pierwszego prowadzącego rozpoczyna drugą rundę. Tym razem wybiera nowy kod: dwa albo trzy krótkie uściski, wolniejszy lub szybszy rytm, lżejszy albo nieco wyraźniejszy uścisk, albo kierunek przeciwny do ruchu wskazówek zegara.
+W wersji z dotykiem wysyła jeden delikatny uścisk dłoni zgodnie z ruchem wskazówek zegara. W wersji bez dotyku pokazuje ustalony sygnał osobie po prawej stronie.
+
+Każda osoba przekazuje dokładnie ten sam sygnał dalej, aż wróci on do osoby, która go rozpoczęła.
+
+Po pełnym okrążeniu osoba stojąca po prawej stronie pierwszego prowadzącego rozpoczyna drugą rundę. Wymyśla nowy kod. W wersji z dotykiem mogą to być dwa albo trzy krótkie uściski, szybszy lub wolniejszy rytm, lżejszy albo nieco wyraźniejszy uścisk. W wersji bez dotyku użyjcie odpowiednio dwóch albo trzech ruchów i zmieniajcie tempo. Możecie też odwrócić kierunek.
 
 Kod powinien wrócić do osoby, która go rozpoczęła, bez zmiany.
 
@@ -893,9 +895,9 @@ Jeśli macie ochotę na trudniejszą wersję, uruchomcie jednocześnie dwa róż
 
 Żaden uścisk nie powinien boleć.
 
-Luli: To są dłonie, nie cytryny. Kod ma wrócić, nie zostać wyciśnięty.
+Luli: Kod ma wrócić w całości. Dłonie nie są cytrynami.
 
-### MIĘDZY NAMI: NASZ TAJNY ZNAK
+### MIĘDZY NAMI: NASZ ZNAK
 
 Wymyślcie razem jeden mały gest albo znak, który będzie kojarzył się tylko z waszą rodziną i z czymś dobrym między wami.
 
@@ -905,7 +907,7 @@ Ważne, żeby był prosty, łatwy do zapamiętania i żeby wszystkim odpowiadał
 
 Nie musi niczego tłumaczyć. Wystarczy, że wy będziecie wiedzieć, co znaczy.
 
-Luli: Rodzinny skrót. Bez instrukcji obsługi i bez aktualizacji systemu.
+Luli: Mały znak. Bez tłumaczenia i bez ceremonii. W sam raz.
 
 ---
 
@@ -923,7 +925,7 @@ Luli: Lampki choinkowe mogą świecić za nas. Mamy dziś wolne.
 
 ### GRAMY: KROK BLIŻEJ, KROK DALEJ
 
-Stańcie w kółku. Zaczyna najstarsza osoba.
+Stańcie w kółku. Upewnijcie się, że macie wokół siebie miejsce na mały krok do przodu lub do tyłu. Zaczyna najstarsza osoba.
 
 Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z tym, co naprawdę myśli:
 
@@ -932,7 +934,7 @@ Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z t
 „Coś ważnego dla mnie, czego nie widać od razu, to…”
 „Jedna cecha, której czasem mi brakuje, to…”
 „Kiedy myślę «dom», pierwsze słowo, które przychodzi mi do głowy, to…”
-„Słowo, które ostatnio dodaje mi siły, to…”
+„Słowo, które ostatnio mi pomaga, to…”
 
 Nie trzeba wybierać najpoważniejszego zdania. Wybierzcie takie, na które macie dziś ochotę odpowiedzieć.
 
@@ -1066,11 +1068,11 @@ Może to być wspólny moment, czyjś gest, rozmowa, śmiech, nowy rodzinny żar
 
 **2. JEDNO ŻYCZENIE**
 
-Każdy mówi jedno życzenie dla waszej rodziny na Święta i nadchodzący rok.
+Każdy mówi jedno życzenie dla waszej rodziny na święta i nadchodzący rok.
 
 Nie trzeba wygłaszać przemowy. Jedno prawdziwe „dziękuję” i jedno życzenie wystarczą.
 
-Happy Makers: Nie wszystko, co ważne w tych Świętach, znajdzie się pod choinką. I bardzo dobrze.
+Happy Makers: Nie wszystko, co ważne w tych świętach, znajdzie się pod choinką. I bardzo dobrze.
 
 ---
 
@@ -1078,7 +1080,7 @@ Happy Makers: Nie wszystko, co ważne w tych Świętach, znajdzie się pod choin
 
 ## PO TYCH 24 DNIACH
 
-Wybierzcie jeden wieczór między Świętami a Nowym Rokiem.
+Wybierzcie jeden wieczór między świętami a Nowym Rokiem.
 
 Zróbcie herbatę albo kakao. Jeśli macie ochotę, zapalcie lampkę lub świeczkę. Usiądźcie razem i wróćcie na chwilę do tych 24 dni.
 
@@ -1148,7 +1150,7 @@ Niech wasz dom nie będzie zawsze spokojny. Domy, w których naprawdę toczy si�
 
 Niech będzie za to miejscem, w którym można wrócić do rozmowy, przeprosić, pośmiać się, usiąść obok i zacząć jeszcze raz.
 
-A kiedy po Świętach ozdoby znowu nie będą chciały zmieścić się w pudełku, niech przynajmniej te dobre chwile nie próbują się tam zmieścić razem z nimi.
+A kiedy po świętach ozdoby znowu nie będą chciały zmieścić się w pudełku, niech przynajmniej te dobre chwile nie próbują się tam zmieścić razem z nimi.
 
 Niech zostaną na wierzchu.
 
@@ -1166,7 +1168,7 @@ I dobrze.
 
 Ta książka nigdy nie miała stworzyć idealnego grudnia.
 
-Miała tylko pomóc wam zauważyć go trochę bardziej, zanim znowu będzie po Świętach.
+Miała tylko pomóc wam zauważyć po drodze trochę więcej wspólnych chwil, zanim znowu będzie po świętach.
 
 Jeśli choć raz ktoś powiedział coś, czego wcześniej nie wiedzieliście, warto było.
 
