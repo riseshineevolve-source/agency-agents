@@ -248,19 +248,15 @@ Alio: Pierwsza grudniowa rzecz, przy której nikt nie mówi: „szybciej, bo si�
 
 Stańcie w jednym rzędzie, ramię w ramię.
 
-W rundzie pierwszej stopy zostają na miejscu. Prowadzi najmłodsza osoba, ale wykonuje ruch razem z pozostałymi. Podaje jedno z czterech poleceń: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. W tej rundzie nie robicie kroków. Stopy zostają na miejscu, a wszyscy lekko wychylają całe ciało w podaną stronę i wracają do środka.
+Runda pierwsza: stopy zostają na miejscu. Prowadzi najmłodsza osoba i mówi: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy jednocześnie wychylają ciało w podaną stronę i wracają do środka. Spróbujcie zrobić 10 takich ruchów bez pomyłki.
 
-Celem jest wykonanie co najmniej 10 wspólnych wychyleń bez pomyłki. Jeśli coś się rozjedzie, ustawcie się ponownie i zacznijcie tę rundę od początku.
+Runda druga: prowadzenie przejmuje kolejna osoba według wieku. Teraz zamiast wychyleń robicie małe kroki: do przodu, do tyłu, w prawo albo w lewo. Cel: 15 wspólnych kroków bez pomyłki.
 
-W rundzie drugiej prowadzenie przejmuje kolejna osoba według wieku. Tym razem podaje polecenia dotyczące małych kroków: krok do przodu, do tyłu, w prawo albo w lewo. Wszyscy wykonują je w tym samym czasie.
+Runda trzecia: prowadzi najstarsza osoba i może mieszać wychylenia z krokami oraz zmieniać tempo.
 
-Spróbujcie zrobić co najmniej 15 kroków bez pomyłki.
+Jeśli coś się rozjedzie, ustawcie się ponownie i próbujcie dalej. Wszystkie ruchy róbcie na tyle małe, żeby nikt nie tracił równowagi.
 
-Na koniec prowadzenie przejmuje najstarsza osoba. Może mieszać oba rodzaje ruchów, zmieniać tempo i prosić o jeden albo kilka małych kroków.
-
-Grajcie tak długo, jak macie ochotę. Wszystkie ruchy powinny być na tyle małe, żeby nikt nie tracił równowagi.
-
-Luli: Lewo i prawo są banalnie proste, dopóki ktoś ich nie powie na głos.
+Luli: Gdyby lewo i prawo miały różne kolory, ta gra byłaby podejrzanie prosta.
 
 ### MIĘDZY NAMI: CO DOBRZE USŁYSZEĆ?
 
