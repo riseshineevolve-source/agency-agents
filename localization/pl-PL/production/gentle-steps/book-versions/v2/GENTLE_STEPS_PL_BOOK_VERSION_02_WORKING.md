@@ -356,7 +356,7 @@ Zróbcie dwa albo trzy pełne okrążenia. Historia ma być krótka. Nie musi mi
 
 Kiedy historia będzie gotowa, odtwórzcie ją jeszcze raz od początku, ale bez używania tych słów. Każde słowo, które wcześniej dodaliście, zastępujecie jednym ruchem albo dźwiękiem. Zachowajcie kolejność oryginalnej historii.
 
-Alio: Jeśli po drugim okrążeniu fabuła się rozpadła, proszę niczego nie naprawiać. Tak miało być.
+Alio: Jeśli po drugim okrążeniu fabuła się rozpadła, niczego nie naprawiajcie. Właśnie zrobiło się ciekawie.
 
 ### MIĘDZY NAMI: CO DZIŚ BYŁO TRUDNIEJSZE, NIŻ WYGLĄDAŁO?
 
@@ -767,7 +767,7 @@ Może chodzić o wyjazd, gotowanie, wygłupy, sport, rozmowę, muzykę, spacer a
 
 Nie szukajcie najlepszej odpowiedzi. Wystarczy coś, co działa u was.
 
-Alio: Ja zgłaszam wszystko, przy czym wolno skakać. Dla porządku.
+Alio: Ja wybieram wszystko, przy czym wolno skakać. To ważne kryterium.
 
 ---
 
@@ -805,7 +805,7 @@ Jeśli chcecie trudniejszą rundę, nawigator może użyć najwyżej pięciu kom
 
 Jeśli jest was więcej, pary mogą grać kolejno albo równocześnie w osobnych, bezpiecznych częściach pokoju.
 
-Mimi: „No tam, trochę bardziej w tę stronę” właśnie straciło licencję na nawigowanie.
+Mimi: „No tam” nie jest kierunkiem świata. Sprawdziliśmy.
 
 ### MIĘDZY NAMI: KIEDY MOGĘ NA CIEBIE LICZYĆ?
 
