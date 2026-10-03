@@ -1,6 +1,6 @@
 {
   "book_version": "2",
-  "status": "ACTIVE_OWNER_DIRECTED_UPGRADE_DURABLY_CHECKPOINTED",
+  "status": "ACTIVE_DEEP_UPGRADE_CHECKPOINTED_CONTINUING_QA",
   "base_book_version": "1",
   "base_book_version_path": "localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md",
   "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
@@ -45,7 +45,8 @@
     "happy_makers_punchline_pass": true,
     "ten_minute_length_pass": true
   },
-  "latest_checkpoint": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_CHECKPOINT_2026-10-03_2157.md",
+  "latest_checkpoint": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_POST_DEEP_UPGRADE_2026-10-03.md",
   "latest_checkpoint_manifest": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-03_2157.json",
-  "latest_checkpoint_source_blob_sha": "17199d28888901353cbc82224ecabc3c1bf56e2d"
+  "latest_checkpoint_source_blob_sha": "17199d28888901353cbc82224ecabc3c1bf56e2d",
+  "latest_checkpoint_state": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/POST_DEEP_UPGRADE_STATE_2026-10-03.json"
 }
