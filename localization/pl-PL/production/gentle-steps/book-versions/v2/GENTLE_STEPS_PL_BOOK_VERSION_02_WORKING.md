@@ -46,7 +46,7 @@ Kiedy każdy choć raz ją złapie, zaczyna się druga runda. Piłka wraca do zw
 
 Osoba, która łapie, mówi po prostu „dzięki” i przekazuje piłkę dalej. Gra kończy się, kiedy każdy usłyszy jedno takie zdanie.
 
-Nini: Tylko bez zamachu. To ma trafić w człowieka inaczej niż piłka na WF-ie. Okulary też chcą dożyć świąt.
+Nini: Bez zamachu z barku. Komplement ma trafić. Piłka jest niewidzialna, odruchy z WF-u niestety nie.
 
 ### MIĘDZY NAMI: CO W GRUDNIU LUBIĘ, A CZEGO MAM DOŚĆ?
 
@@ -310,7 +310,7 @@ Każdy wybiera jedną osobę z rodziny, która ostatnio zrobiła coś pomocnego 
 
 Powiedzcie konkretnie, co zauważyliście. Jeśli ta osoba jest z wami, zakończcie zwykłym „dzięki”.
 
-Nini: Dziś śledztwo w sprawie rzeczy, które podobno zrobiły się same.
+Nini: Dziwne. Kubki nie wracają same do kuchni, a plecaki nie pakują się na jutro. Mamy podejrzanych.
 
 ---
 
@@ -458,7 +458,7 @@ Przez kilka spokojnych oddechów sprawdźcie, czy nie marszczycie czoła i nie z
 
 Jeśli tak, spróbujcie trochę odpuścić. Nie trzeba niczego osiągać ani sprawdzać, czy wszyscy robią to tak samo.
 
-Na koniec lekko się uśmiechnijcie, bez słów i bez żadnego szczególnego powodu.
+Na koniec rozluźnijcie twarz jeszcze przez jeden spokojny oddech.
 
 Nini: Szczęka ma wolne. Nawet jeśli ktoś właśnie przypomniał sobie o czymś na jutro.
 
@@ -478,7 +478,7 @@ Albo:
 
 Wszyscy wykonują całe polecenie od razu i w tym samym czasie. Osoba prowadząca również bierze udział.
 
-Osoba, która się zawaha, zacznie się śmiać albo zareaguje najpóźniej, zostaje nowym prowadzącym i wymyśla kolejne trzyczęściowe polecenie.
+Po każdej rundzie prowadzenie przejmuje osoba po lewej stronie. Jeśli ktoś pomyli ruch, dźwięk albo minę, niczego nie poprawiajcie. Właśnie po to są trzy rzeczy naraz.
 
 Nini: Poważna mina jest obowiązkowa tylko wtedy, kiedy kompletnie nie pasuje.
 
@@ -841,7 +841,7 @@ Stańcie w kółku.
 
 Zaczyna osoba, która jako pierwsza wskaże w pokoju coś w kształcie koła. Wybiera potem jeden prosty kształt lub układ, na przykład koło, trójkąt, prostą linię, falę albo gwiazdę.
 
-Na podane hasło wszyscy szybko ustawiają się tak, żeby razem stworzyć wybrany kształt.
+Na podane hasło wszyscy ustawiają się tak, żeby razem stworzyć wybrany kształt.
 
 Kiedy kształt jest gotowy, prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara. Nowy prowadzący wybiera następny kształt.
 
@@ -851,7 +851,7 @@ Na koniec wybierzcie jeden kształt i spróbujcie ustawić się w niego bez mów
 
 W dwie osoby jedna osoba podaje kształt, a potem obie ustawiają się tak, żeby razem go pokazać. Następnie zamieniacie się rolami.
 
-Dilo: Szybciej. Geometria nie będzie na nas czekać.
+Dilo: Jeśli ten trójkąt wygląda trochę jak ziemniak, wpisuję: wersja robocza.
 
 ### MIĘDZY NAMI: CO LUBIMY W NASZYM DOMU?
 
@@ -941,7 +941,7 @@ Potem możecie zmienić kierunek albo tempo. Najtrudniejsza wersja: dwa różne 
 
 Żaden uścisk nie powinien boleć.
 
-Luli: Kod ma wrócić w całości. Dłonie nie są cytrynami.
+Luli: Kod ma dotrzeć. Ślady po nim nie są częścią zadania.
 
 ### MIĘDZY NAMI: NASZ ZNAK
 
@@ -1019,7 +1019,7 @@ Alio: I nikt nie potrząsa kulą drugi raz. Mówię to głównie do siebie.
 
 Stańcie w kółku. Zaczyna osoba, która jako ostatnia weszła do pokoju.
 
-Po każdym haśle osoby, których ono dotyczy, robią krok do środka. Jeśli są co najmniej dwie, spoglądają na wolne miejsca i spokojnie przechodzą na inne miejsce w kole. Nie przebiegajcie przez środek na oślep. Jeśli pasuje tylko jedna osoba, robi szybki obrót i wraca na swoje miejsce.
+Po każdym haśle osoby, których ono dotyczy, robią krok do środka. Jeśli są co najmniej dwie, spoglądają na wolne miejsca i spokojnie przechodzą na inne miejsce w kole. Nie przebiegajcie przez środek na oślep. Jeśli pasuje tylko jedna osoba, robi obrót i wraca na swoje miejsce.
 
 Zróbcie po dwa hasła w trzech rundach:
 
@@ -1031,7 +1031,7 @@ Zróbcie po dwa hasła w trzech rundach:
 
 Wymyślajcie tylko takie kategorie, przy których każdy może śmiać się razem z innymi, a nie z kogoś.
 
-Dilo: Szybka zmiana. Zwolnione tempo zostawmy filmom dramatycznym.
+Dilo: Jedna osoba pasuje? Obrót i wraca. System nie panikuje.
 
 ### MIĘDZY NAMI: PRZEPRASZAM ZA…
 
