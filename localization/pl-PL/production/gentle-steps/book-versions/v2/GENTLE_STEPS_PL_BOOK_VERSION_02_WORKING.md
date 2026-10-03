@@ -432,7 +432,7 @@ Alio: Nikt niczego nie ustala i jakoś działa. Proszę nie psuć tego pytaniami
 
 ### GRAMY: RODZINNA MASZYNA
 
-Zaczyna osoba, której imię rozpoczyna się na literę najbliżej początku alfabetu.
+Zaczyna osoba, której imię byłoby pierwsze na rodzinnej liście ułożonej alfabetycznie.
 
 Wymyśla jeden prosty, powtarzalny ruch i pasujący do niego dźwięk. Powtarza oba bez przerwy.
 
@@ -530,7 +530,7 @@ Mimi: Spokojnie, to nie konkurs na najbardziej znaczące spojrzenie.
 
 ### GRAMY: PIĘĆ SŁÓW. DWA KŁAMSTWA.
 
-Zaczyna osoba, która ma najdłuższe drugie imię. Jeśli nikt nie ma drugiego imienia, zaczyna osoba z najdłuższym pierwszym imieniem.
+Zaczyna osoba z najdłuższym imieniem.
 
 Osoba rozpoczynająca w tajemnicy wybiera dowolną rozpoznawalną osobę, zwierzę, przedmiot albo bohatera filmu, książki czy bajki.
 
@@ -851,7 +851,7 @@ Dilo: Jesteśmy obok siebie i niczego nie trzeba konfigurować. Podejrzane.
 
 Stańcie w kółku.
 
-Zaczyna osoba, której urodziny przypadają latem albo najbliżej początku lata. Wybiera jeden prosty kształt lub układ, na przykład koło, trójkąt, prostą linię, falę albo gwiazdę.
+Zaczyna osoba, która jako pierwsza wskaże w pokoju coś w kształcie koła. Wybiera potem jeden prosty kształt lub układ, na przykład koło, trójkąt, prostą linię, falę albo gwiazdę.
 
 Na podane hasło wszyscy szybko ustawiają się tak, żeby razem stworzyć wybrany kształt.
 
