@@ -81,6 +81,10 @@ localization:
     version_02_back_matter: localization/pl-PL/production/gentle-steps/versions/v02/BACK_MATTER_V02.md
     version_02_family_ear_deep_pass: localization/pl-PL/production/gentle-steps/versions/v02/V02_FAMILY_EAR_DEEP_PASS_2026-10-03.md
     version_02_multi_agent_reader_audit: localization/pl-PL/production/gentle-steps/versions/v02/V02_MULTI_AGENT_FULL_READER_AUDIT_2026-10-03.md
+    current_polish_book_version: 1
+    current_polish_book_version_status: frozen_owner_review_snapshot_do_not_overwrite
+    current_polish_book_version_path: localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md
+    current_polish_book_version_source_blob_sha: 46542df9e3e44f235f112edb2d381d5511c7abca
 provenance:
   recovered_date: 2026-09-17
   verified_against_library_content: true
