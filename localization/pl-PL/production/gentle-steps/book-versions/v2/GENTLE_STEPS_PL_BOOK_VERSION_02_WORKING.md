@@ -374,7 +374,7 @@ Mimi: Nie wszystko, co męczy, wygląda jak maraton. I całe szczęście, bo nie
 
 ### ZWOLNIJ: TU, GDZIE JESTEŚMY
 
-Jeśli dzień nadal odtwarza się w głowie, przez minutę nie będziemy z nim dyskutować. Zajmiemy uwagę tym, co jest tutaj.
+Jeśli dzień nadal odtwarza się w głowie, przez minutę nie będziemy go analizować. Dajcie głowie prostsze zadanie.
 
 Usiądźcie wygodnie i rozejrzyjcie się.
 
@@ -643,7 +643,7 @@ Luli: Mały prezent, bez papieru i bez szukania taśmy.
 
 ### ZWOLNIJ: ODDECH I RAMIONA
 
-Plecaki, torby, zakupy i cały dzień potrafią wieczorem wylądować dokładnie tam, gdzie nie trzeba, na ramionach.
+Plecaki, torby, zakupy i cały dzień potrafią wieczorem zostać na ramionach, nawet kiedy kurtki dawno już wiszą w przedpokoju.
 
 Usiądźcie w kółku tak, żeby było wam wygodnie.
 
@@ -731,7 +731,7 @@ Luli: Marzenia nie tracą ważności tylko dlatego, że mieszczą się w kubku.
 
 ### ZWOLNIJ: CICHE ROZCIĄGANIE
 
-Po godzinach siedzenia w szkole, pracy, samochodzie albo autobusie ciało czasem jako pierwsze zgłasza, że dzień trwa już wystarczająco długo.
+Po godzinach siedzenia w szkole, pracy, samochodzie albo autobusie ciało często pierwsze daje znać, że dzień trwa już wystarczająco długo.
 
 Stańcie w kółku.
 
@@ -921,7 +921,7 @@ Nini: Tak, zjedzony na stojąco pierniczek też może przejść do historii.
 
 Wieczorem mózg potrafi liczyć wszystko, czego jeszcze nie zrobiliśmy. Dziś przez chwilę policzymy dokładnie jedną rzecz, która jest przyjemna teraz.
 
-Usiądźcie przez chwilę w ciszy. Złóżcie dłonie razem albo połóżcie je na kolanach.
+Usiądźcie przez chwilę w ciszy. Połóżcie dłonie na kolanach albo oprzyjcie jedną na drugiej.
 
 Zwróćcie uwagę na jedną przyjemną rzecz, którą czujecie w tej chwili. Może to być ciepło dłoni, miękkość swetra, wygodne oparcie, zapach herbaty albo coś zupełnie innego.
 
