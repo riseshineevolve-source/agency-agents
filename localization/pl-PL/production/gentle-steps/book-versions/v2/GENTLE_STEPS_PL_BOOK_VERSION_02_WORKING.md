@@ -941,19 +941,13 @@ Nini: Jeśli wygrywa ciepły koc, nie będę się sprzeczać.
 
 Stańcie w kółku i wybierzcie jedną wersję na całą rundę.
 
-Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli choć jedna osoba woli bez dotyku, ustalcie prosty sygnał wzrokowy, na przykład krótki ruch dłoni, który można przekazać osobie po prawej stronie.
+Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli choć jedna osoba woli bez dotyku, ustalcie prosty sygnał wzrokowy, na przykład krótki ruch dłoni przekazywany osobie po prawej stronie.
 
-Zaczyna osoba, której imię rozpoczyna się na literę najbliższą A.
+Zaczyna osoba, której imię rozpoczyna się na literę najbliższą A. Wysyła jeden prosty sygnał. Każda osoba przekazuje dokładnie to samo dalej, aż sygnał wróci do początku.
 
-W wersji z dotykiem wysyła jeden delikatny uścisk dłoni zgodnie z ruchem wskazówek zegara. W wersji bez dotyku pokazuje ustalony sygnał osobie po prawej stronie.
+W drugiej rundzie wymyślcie krótki kod: dwa albo trzy uściski lub, w wersji bez dotyku, dwa albo trzy ruchy. Możecie zmienić tempo albo kierunek. Kod ma wrócić bez zmiany.
 
-Każda osoba przekazuje dokładnie ten sam sygnał dalej, aż wróci on do osoby, która go rozpoczęła.
-
-Po pełnym okrążeniu osoba stojąca po prawej stronie pierwszego prowadzącego rozpoczyna drugą rundę. Wymyśla nowy kod. W wersji z dotykiem mogą to być dwa albo trzy krótkie uściski, szybszy lub wolniejszy rytm, lżejszy albo nieco wyraźniejszy uścisk. W wersji bez dotyku użyjcie odpowiednio dwóch albo trzech ruchów i zmieniajcie tempo. Możecie też odwrócić kierunek.
-
-Kod powinien wrócić do osoby, która go rozpoczęła, bez zmiany.
-
-Jeśli macie ochotę na trudniejszą wersję, uruchomcie jednocześnie dwa różne kody. Jeden biegnie zgodnie z ruchem wskazówek zegara, a drugi przeciwnie.
+Jeśli chcecie trudniejszą wersję, puśćcie jednocześnie dwa różne kody w przeciwnych kierunkach.
 
 Żaden uścisk nie powinien boleć.
 
@@ -1041,59 +1035,37 @@ Alio: I nikt nie potrząsa kulą drugi raz. Mówię to głównie do siebie.
 
 ### GRAMY: ZAMIANA MIEJSC
 
-Stańcie w kółku. Pierwszą osobą prowadzącą zostaje ta, której urodziny przypadają najbliżej połowy roku, czyli mniej więcej 1 lipca.
+Stańcie w kółku. Zaczyna osoba, której urodziny przypadają najbliżej połowy roku.
 
-Zasada jest prosta. Po każdym haśle osoby, których ono dotyczy, robią krok do środka. Jeśli są co najmniej dwie, zamieniają się miejscami w kole. Jeśli tylko jedna osoba pasuje do hasła, robi szybki obrót i wraca na swoje miejsce.
+Po każdym haśle osoby, których ono dotyczy, robią krok do środka. Jeśli są co najmniej dwie, zamieniają się miejscami. Jeśli pasuje tylko jedna osoba, robi szybki obrót i wraca na swoje miejsce. Nie biegajcie.
 
-Nie biegajcie. Chodzi o szybką reakcję, nie wyścig.
+Zróbcie po dwa hasła w trzech rundach:
 
-**Runda 1: KOLORY**
+**KOLORY:** „Wszyscy, którzy mają na sobie coś czerwonego, zmiana!”
 
-Prowadzący wybiera kolor i mówi na przykład:
+**LUBIĘ / NIE LUBIĘ:** „Wszyscy, którzy lubią ciepłe napoje, zmiana!”
 
-„Wszyscy, którzy mają na sobie coś czerwonego, zmiana!”
+**NAWYKI I CECHY:** „Wszyscy, którzy zwykle szukają czegoś pięć minut przed wyjściem, zmiana!”
 
-Zróbcie dwa hasła z kolorami.
-
-**Runda 2: LUBIĘ / NIE LUBIĘ**
-
-Kolejna osoba prowadząca podaje lekką kategorię, na przykład:
-
-„Wszyscy, którzy lubią ciepłe napoje, zmiana!”
-
-Znów wystarczą dwa hasła.
-
-**Runda 3: NAWYKI I CECHY**
-
-Następny prowadzący wybiera prostą kategorię, która nikogo nie zawstydza, na przykład:
-
-„Wszyscy, którzy lubią mieć wszystko poukładane, zmiana!”
-albo
-„Wszyscy, którzy zwykle szukają czegoś pięć minut przed wyjściem, zmiana!”
-
-Po dwa hasła w każdej rundzie w zupełności wystarczą. Jeśli macie więcej czasu i nadal dobrze się bawicie, wymyślajcie własne kategorie. Wybierajcie takie, przy których każdy może się śmiać razem z innymi, a nie z kogoś.
+Wymyślajcie tylko takie kategorie, przy których każdy może śmiać się razem z innymi, a nie z kogoś.
 
 Dilo: Szybka zmiana. Zwolnione tempo zostawmy filmom dramatycznym.
 
 ### MIĘDZY NAMI: PRZEPRASZAM ZA…
 
-Usiądźcie razem w kółku.
-
-To nie jest rodzinny sąd ani obowiązkowa runda skruchy.
+Usiądźcie razem.
 
 Zaczyna tylko ktoś, kto naprawdę ma dziś za co przeprosić. Zwraca się do konkretnej osoby i mówi:
 
 „Przepraszam za…”
 
-Dokończcie jednym prawdziwym, niedawnym przykładem. Bez tłumaczenia, dlaczego właściwie mieliście rację i bez dokładania „ale ty też…”.
+Jeden prawdziwy przykład wystarczy. Bez dokładania „ale ty też…”.
 
-Jeśli nikt nie ma dziś niczego szczerego do powiedzenia, po prostu pomińcie tę część. To też jest w porządku.
+Osoba, która słyszy przeprosiny, nie musi od razu odpowiadać ani mówić „nic się nie stało”.
 
-Osoba, która słyszy przeprosiny, nie musi od razu odpowiadać ani mówić „nic się nie stało”. Czasem wystarczy usłyszeć, że druga osoba zauważyła, co zrobiła.
+Jeśli nikt nie ma dziś niczego szczerego do powiedzenia, pomińcie tę część. Nie potrzebujecie pełnego okrążenia.
 
-Jeśli ktoś jeszcze chce przeprosić, może zrobić to samo. Nie potrzebujecie pełnego okrążenia.
-
-Luli: Nie zbieramy kompletu. Jedno prawdziwe „przepraszam” jest więcej warte niż pięć z obowiązku.
+Luli: Jedno prawdziwe „przepraszam” jest więcej warte niż pięć z obowiązku.
 
 ---
 
