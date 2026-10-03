@@ -2,8 +2,26 @@
 
 Status: **CANONICAL**
 Owner decision: 2026-09-24
-Last execution-state sync: 2026-09-26
+Last execution-state sync: 2026-10-03
 Applies to: central RSE Orchestrator, Brain Sync, Day/Night/24-7 shift, marketing synchronization, Codex budget governor.
+
+## Current owner directive override — 2026-10-03
+
+This section supersedes older priority/sequencing wording below wherever it conflicts.
+
+**REVENUE ASAP / FINISH -> PUBLISH -> SELL**
+
+Current safe Central order:
+1. Detective Academy EN — concrete KDP release blockers only; no broad redesign.
+2. Optical Animals — Final20 remains closed; exact-identity masks/tokens -> five group pages -> GRAND -> answer proof -> KDP assembly/preflight. Central is monitor-only while the delegated Optical owner is active.
+3. 24 Gentle Steps to Christmas APP — existing book/ebook are completed assets; active lane is the simple premium EN-first, offline-first Advent mobile app toward Android/Play readiness. Central is monitor-only while the delegated Gentle owner is active. Polish copy remains Polish-first re-authoring in the Polish Localization stream.
+4. Marketing/distribution support — release-package truth, launch assets, sampler/Tiny Tool specs, intent-page requirements and measurable distribution support when product lanes are gated.
+
+HOLD unless directly revenue-unblocking: new product lines, broad Consumer Platform work, speculative architecture, broad AI Discovery expansion, World 01/02 enhancements beyond delegated closeout, Unstoppable expansion and unrelated refactors.
+
+One writer per surface remains mandatory. Happy Me, Senior/Mind Bloom, Marketing and delegated Optical/Gentle/World lanes are read-only centrally while active.
+
+Detective PL is not cancelled; it remains downstream of explicit EN freeze in the Polish Localization stream, but it does not outrank Optical or the Gentle Steps APP in this current Central safe-work override.
 
 ## Priority order
 
