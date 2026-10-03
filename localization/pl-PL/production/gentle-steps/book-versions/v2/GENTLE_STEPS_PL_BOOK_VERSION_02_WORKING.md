@@ -70,7 +70,7 @@ Luli: Można kochać święta i mieć dość pytania „gdzie jest taśma?” o 
 
 ### ZWOLNIJ: CZTERY NA SZEŚĆ
 
-Niektóre grudniowe poranki zaczynają się od: „Gdzie jest mój zeszyt?”, „Dziś trzeba było coś przynieść”, „Nie mam stroju na WF” i „Czy ktoś widział drugą skarpetkę?”.
+Niektóre grudniowe poranki zaczynają się od: „Gdzie jest mój zeszyt?”, „Dziś trzeba było coś przynieść”, „Nie mam stroju na WF” i „Czy ktoś widział drugą skarpetkę?”
 
 Jeśli dzisiejszy poranek należał do tej kategorii, usiądźcie wygodnie na minutę.
 
@@ -162,7 +162,7 @@ Luli: Jedna rzecz naraz. Proszę to gdzieś zapisać, bo grudzień najwyraźniej
 
 ### GRAMY: GŁOSY W OBIEGU
 
-Zaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno krótkie zdanie, na przykład: „Kto zjadł ostatnie pierniczki?” albo „Kto widział ładowarkę?”.
+Zaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno krótkie zdanie, na przykład: „Kto zjadł ostatnie pierniczki?” albo „Kto widział ładowarkę?”
 
 Następnie gra toczy się przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale zupełnie innym głosem.
 
@@ -424,7 +424,7 @@ Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Ka�
 
 Nie ustalajcie, co będzie za chwilę. Przez moment po prostu posiedźcie razem.
 
-Alio: Nikt nie prowadzi, nikt nie pyta „co dalej?”. To chyba pierwszy plan, którego nie trzeba planować.
+Alio: Nikt nie prowadzi, nikt nie pyta „co dalej?” To chyba pierwszy plan, którego nie trzeba planować.
 
 ### GRAMY: RODZINNA MASZYNA
 
