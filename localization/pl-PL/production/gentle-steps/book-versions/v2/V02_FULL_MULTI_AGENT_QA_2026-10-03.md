@@ -2,7 +2,7 @@
 
 Date: 2026-10-03  
 Status: **READY FOR OWNER FULL READ / NOT FROZEN / NOT PUBLICATION-LOCKED**  
-Working master blob: `9d1c30e31c944448afbd8a12509f521bb0c9e8b2`
+Working master blob: `ceb6ae2c729a99939496754eb294e92e81931f5c`
 
 ## Editorial lenses
 
