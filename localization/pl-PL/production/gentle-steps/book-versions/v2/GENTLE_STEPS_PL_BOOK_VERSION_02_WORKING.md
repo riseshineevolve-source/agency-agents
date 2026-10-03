@@ -182,7 +182,7 @@ Nie chodzi o ulubiony kolor. Chodzi o dzisiaj.
 
 Nie trzeba tłumaczyć wyboru. Jeśli właściwego koloru jeszcze nie ma, możecie go wymyślić.
 
-Dilo: Jeśli potrzebujecie koloru „czwartek o 17:40”, właśnie został oficjalnie dodany do palety.
+Dilo: Kolor „czwartek o 17:40” nie istnieje? Od teraz istnieje.
 
 ---
 
@@ -252,7 +252,7 @@ Alio: Każdy oddycha po swojemu i jakoś nikt nie musi wygrać. Dziwne zasady, a
 
 Stańcie w jednym rzędzie, ramię w ramię.
 
-W rundzie pierwszej stopy zostają na miejscu. Prowadzi najmłodsza osoba, ale wykonuje ruch razem z pozostałymi. Podaje jedno z czterech poleceń: „wychylenie do przodu”, „wychylenie do tyłu”, „wychylenie w lewo” albo „wychylenie w prawo”. Wszyscy lekko przechylają całe ciało w tę samą stronę i wracają do środka.
+W rundzie pierwszej stopy zostają na miejscu. Prowadzi najmłodsza osoba, ale wykonuje ruch razem z pozostałymi. Podaje jedno z czterech poleceń: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. W tej rundzie nie robicie kroków. Stopy zostają na miejscu, a wszyscy lekko wychylają całe ciało w podaną stronę i wracają do środka.
 
 Celem jest wykonanie co najmniej 10 wspólnych wychyleń bez pomyłki. Jeśli coś się rozjedzie, ustawcie się ponownie i zacznijcie tę rundę od początku.
 
@@ -587,7 +587,7 @@ Potem zmieńcie role. Kontynuujcie, aż każdy, kto chce, przejdzie przez bramę
 
 Jeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła jako bramę. Jedna osoba przechodzi, druga robi oprawę i kopiuje finałową pozę. Potem zamieniacie się rolami.
 
-Mimi: Fotoreporterów nie będzie. Poziom wejścia nadal może być nieuzasadnienie wysoki.
+Mimi: Fotoreporterów nie będzie. Wejście nadal może być kompletnie nieproporcjonalne do okazji.
 
 ### MIĘDZY NAMI: CZEGO NIE DA SIĘ KUPIĆ?
 
@@ -763,7 +763,7 @@ Na finał zróbcie „cichą zmianę warty”. Zaczyna pierwsza osoba swoim ruch
 
 Spróbujcie przejść przez wszystkich prowadzących bez ani jednego „teraz ja”.
 
-Alio: Jeśli któregoś ruchu nie ma na WF-ie, tym lepiej. Właśnie dostał premierę.
+Alio: Jeśli któregoś ruchu nie ma na WF-ie, tym lepiej. Właśnie ma premierę.
 
 ### MIĘDZY NAMI: KIEDY MAMY NAJWIĘCEJ ENERGII?
 
@@ -941,9 +941,9 @@ Nini: Jeśli wygrywa ciepły koc, nie będę się sprzeczać.
 
 Stańcie w kółku i wybierzcie jedną wersję na całą rundę.
 
-Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli choć jedna osoba woli bez dotyku, ustalcie prosty sygnał wzrokowy, na przykład krótki ruch dłoni przekazywany osobie po prawej stronie.
+Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli choć jedna osoba woli bez dotyku, ustawcie się tak, żeby każdy dobrze widział osobę po swojej lewej stronie. Ustalcie prosty sygnał wzrokowy, na przykład krótki ruch dłoni.
 
-Zaczyna osoba, której imię rozpoczyna się na literę najbliższą A. Wysyła jeden prosty sygnał. Każda osoba przekazuje dokładnie to samo dalej, aż sygnał wróci do początku.
+Zaczyna osoba, której imię rozpoczyna się na literę najbliższą A. Wysyła jeden prosty sygnał do osoby po prawej stronie. W wersji bez dotyku każdy patrzy tylko na swojego „nadawcę” po lewej i reaguje dopiero wtedy, gdy sygnał dotrze właśnie do niego. Dzięki temu kod naprawdę wędruje po kole, zamiast ruszyć wszędzie naraz.
 
 W drugiej rundzie wymyślcie krótki kod: dwa albo trzy uściski lub, w wersji bez dotyku, dwa albo trzy ruchy. Możecie zmienić tempo albo kierunek. Kod ma wrócić bez zmiany.
 
@@ -963,7 +963,7 @@ Ważne, żeby był prosty, łatwy do zapamiętania i żeby wszystkim odpowiadał
 
 Nie musi niczego tłumaczyć. Wystarczy, że wy będziecie wiedzieć, co znaczy.
 
-Luli: Mały znak. Bez tłumaczenia i bez ceremonii. W sam raz.
+Luli: Mały znak. Tylko wy musicie wiedzieć, co znaczy. I to jest w nim najlepsze.
 
 ---
 
@@ -979,7 +979,7 @@ Przez kilka oddechów zwróćcie uwagę tylko na to, że klatka piersiowa lekko 
 
 Przez te kilka oddechów następny punkt z listy może poczekać.
 
-Luli: Lampki choinkowe mogą świecić za nas. Mamy dziś wolne.
+Luli: Lista może poczekać kilka oddechów. Naprawdę sobie poradzi.
 
 ### GRAMY: KTO TEŻ TAK MA?
 
@@ -1003,7 +1003,7 @@ Potem kolejna osoba podaje swoje zdanie.
 
 W dwie osoby zasada jest taka sama. Jeśli macie podobnie, oboje robicie krok do przodu. Jeśli nie, zostajecie na miejscu.
 
-Mimi: Najciekawsze są te momenty, kiedy wszyscy robią krok i każdy jest trochę zaskoczony.
+Mimi: Najlepszy jest ten moment, kiedy pół rodziny robi krok i wszyscy mówią oczami: „Ty też?”
 
 ### MIĘDZY NAMI: CO TEN MIESIĄC NAM POKAZAŁ?
 
@@ -1037,7 +1037,7 @@ Alio: I nikt nie potrząsa kulą drugi raz. Mówię to głównie do siebie.
 
 Stańcie w kółku. Zaczyna osoba, której urodziny przypadają najbliżej połowy roku.
 
-Po każdym haśle osoby, których ono dotyczy, robią krok do środka. Jeśli są co najmniej dwie, zamieniają się miejscami. Jeśli pasuje tylko jedna osoba, robi szybki obrót i wraca na swoje miejsce. Nie biegajcie.
+Po każdym haśle osoby, których ono dotyczy, robią krok do środka. Jeśli są co najmniej dwie, spoglądają na wolne miejsca i spokojnie przechodzą na inne miejsce w kole. Nie przebiegajcie przez środek na oślep. Jeśli pasuje tylko jedna osoba, robi szybki obrót i wraca na swoje miejsce.
 
 Zróbcie po dwa hasła w trzech rundach:
 
