@@ -46,7 +46,7 @@ Osoba, która łapie piłkę, mówi „Dziękuję”, wybiera kolejną osobę i 
 
 Kontynuujcie, aż każdy usłyszy przynajmniej jeden komplement.
 
-Jeśli macie jeszcze dwie minuty, zagrajcie rundę bonusową. Tym razem piłka za każdym rzutem może się zmienić. Może nagle ważyć tonę, być lekka jak balon, maleńka albo ogromna. Nie mówcie, jaka jest. Pokażcie to ruchem. Osoba łapiąca musi zareagować tak, jakby naprawdę dostała właśnie taką piłkę, a potem przekazać ją dalej z kolejnym komplementem.
+Jeśli macie jeszcze dwie minuty, zagrajcie rundę bonusową. Tym razem bez nowych komplementów. Liczy się sama niewidzialna piłka. Przy każdym rzucie może nagle ważyć tonę, być lekka jak balon, maleńka albo ogromna. Nie mówcie, jaka jest. Pokażcie to ruchem. Osoba łapiąca reaguje tak, jakby naprawdę dostała właśnie taką piłkę, po czym zmienia jej „właściwości” i posyła dalej.
 
 Nini: Bez zamachu jak na WF-ie. Piłka jest niewidzialna, siniaki nie.
 
