@@ -1057,7 +1057,7 @@ Następny prowadzący wybiera prostą kategorię, która nikogo nie zawstydza. M
 albo
 „Wszyscy, którzy zwykle szukają czegoś pięć minut przed wyjściem, zmieniają miejsce!”
 
-Możecie grać tak długo, jak macie ochotę i wymyślać własne kategorie. Wybierajcie takie, przy których każdy może się śmiać razem z innymi, a nie z kogoś.
+Po dwa hasła w każdej rundzie w zupełności wystarczą. Jeśli macie więcej czasu i nadal dobrze się bawicie, wymyślajcie własne kategorie. Wybierajcie takie, przy których każdy może się śmiać razem z innymi, a nie z kogoś.
 
 Dilo: Szybka zamiana. Zwolnione tempo zostawmy filmom dramatycznym.
 
@@ -1067,19 +1067,19 @@ Usiądźcie razem w kółku.
 
 To nie jest rodzinny sąd ani obowiązkowa runda skruchy.
 
-Zaczyna dowolna osoba. Zwraca się do osoby siedzącej po swojej prawej stronie i mówi:
+Zaczyna tylko ktoś, kto naprawdę ma dziś za co przeprosić. Zwraca się do konkretnej osoby i mówi:
 
 „Przepraszam za…”
 
-Następnie podaje jeden prawdziwy, niedawny przykład sytuacji, za którą rzeczywiście chce przeprosić.
+Dokończcie jednym prawdziwym, niedawnym przykładem. Bez tłumaczenia, dlaczego właściwie mieliście rację i bez dokładania „ale ty też…”.
 
-Nie wymyślajcie przeprosin tylko po to, żeby zaliczyć rundę. Jeśli ktoś nie ma dziś niczego szczerego do powiedzenia, może zostać przy słuchaniu.
+Jeśli nikt nie ma dziś niczego szczerego do powiedzenia, po prostu pomińcie tę część. To też jest w porządku.
 
 Osoba, która słyszy przeprosiny, nie musi od razu odpowiadać ani mówić „nic się nie stało”. Czasem wystarczy usłyszeć, że druga osoba zauważyła, co zrobiła.
 
-Jeśli inni również chcą coś powiedzieć, możecie przejść dalej wokół koła.
+Jeśli ktoś jeszcze chce przeprosić, może zrobić to samo. Nie potrzebujecie pełnego okrążenia.
 
-Alio: Jedno prawdziwe „przepraszam” wystarczy. Reszta może chwilę pomilczeć.
+Luli: Nie zbieramy kompletu. Jedno prawdziwe „przepraszam” jest więcej warte niż pięć z obowiązku.
 
 ---
 
