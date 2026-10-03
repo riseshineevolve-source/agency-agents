@@ -1,7 +1,7 @@
 {
   "version": "02",
-  "status": "READY_FOR_OWNER_REVIEW",
-  "master_blob_sha": "d87db6767dc76298f443b9bb9ad012443dee9969",
+  "status": "READY_FOR_OWNER_REVIEW_AFTER_MULTI_AGENT_FULL_READER_AUDIT",
+  "master_blob_sha": "46542df9e3e44f235f112edb2d381d5511c7abca",
   "title_locked": false,
   "recurring_labels_locked": false,
   "copy_locked": false,
