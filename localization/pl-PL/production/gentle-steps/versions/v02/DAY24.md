@@ -40,8 +40,8 @@ Może to być wspólny moment, czyjś gest, rozmowa, śmiech, nowy rodzinny żar
 
 **2. JEDNO ŻYCZENIE**
 
-Każdy mówi jedno życzenie dla waszej rodziny na Święta i nadchodzący rok.
+Każdy mówi jedno życzenie dla waszej rodziny na święta i nadchodzący rok.
 
 Nie trzeba wygłaszać przemowy. Jedno prawdziwe „dziękuję” i jedno życzenie wystarczą.
 
-Happy Makers: Nie wszystko, co ważne w tych Świętach, znajdzie się pod choinką. I bardzo dobrze.
+Happy Makers: Nie wszystko, co ważne w tych świętach, znajdzie się pod choinką. I bardzo dobrze.
