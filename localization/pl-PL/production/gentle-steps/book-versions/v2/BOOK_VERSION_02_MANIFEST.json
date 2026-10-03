@@ -48,7 +48,7 @@
   "latest_checkpoint": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_READER_EXPERIENCE_SAFE_STATE_2026-10-03.md",
   "latest_checkpoint_manifest": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-03_READER_EXPERIENCE.json",
   "latest_checkpoint_source_blob_sha": "d6b0fe7223d7177225ed6a49d662d46e78b1de1b",
-  "latest_checkpoint_state": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/POST_DEEP_UPGRADE_STATE_2026-10-03.json",
+  "latest_checkpoint_state": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-03_READER_EXPERIENCE.json",
   "latest_reader_experience_pass": {
     "date": "2026-10-03",
     "immediate_comedy_first_day": true,
@@ -76,5 +76,6 @@
     6,
     18,
     7
-  ]
+  ],
+  "current_safe_state_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_CURRENT_SAFE_STATE_2026-10-03.md"
 }
