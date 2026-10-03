@@ -312,6 +312,8 @@ W rundzie trzeciej przekazujecie delikatne klepnięcie w ramię.
 
 W rundzie czwartej możecie przekazywać krótki uścisk, ale tylko wtedy, gdy obie osoby mają na to ochotę.
 
+Na finał wybierzcie jeden z wcześniejszych sygnałów i spróbujcie puścić go dookoła tak płynnie, żeby wrócił do osoby rozpoczynającej bez żadnej dłuższej przerwy.
+
 Jeśli bawią się tylko dwie osoby, przez 30 sekund patrzcie na siebie i się uśmiechajcie. Potem, jeśli obie osoby chcą, możecie przytulić się przez kolejne 30 sekund.
 
 Nini: Uścisk ma być krótki. Żebra nie biorą udziału w tej grze.
@@ -571,7 +573,9 @@ Osoba, która przechodzi, wybiera styl wejścia: zwyczajnie, w bardzo poważnym 
 
 W czasie przejścia pozostali mówią po jednym krótkim, prawdziwym zdaniu o czymś, co w tej osobie lubią albo cenią.
 
-Nie trzeba wygłaszać mowy. Jedno zdanie wystarczy. Jeśli ktoś nie ma ochoty być przez chwilę w centrum uwagi, może wybrać wersję bez słów. Wtedy pozostali robią tylko cichy gest uznania, na przykład kciuk w górę albo krótkie klaśnięcie.
+Nie trzeba wygłaszać mowy. Jedno zdanie wystarczy. Spróbujcie też nie powtarzać rzeczy, które ktoś już powiedział wcześniej. To zmusza do naprawdę uważnego patrzenia na siebie.
+
+Jeśli ktoś nie ma ochoty być przez chwilę w centrum uwagi, może wybrać wersję bez słów. Wtedy pozostali robią tylko cichy gest uznania, na przykład kciuk w górę albo krótkie klaśnięcie.
 
 Po przejściu zmieńcie role. Kontynuujcie, aż każdy, kto chce, przejdzie przez bramę.
 
@@ -1098,7 +1102,7 @@ Wybierzcie jedną ulubioną kolędę, piosenkę świąteczną albo zimową, któ
 
 Zaczyna osoba, która ma na sobie najbardziej świąteczny kolor. Śpiewa pierwszą linijkę, a pozostali dołączają i razem śpiewacie dalej.
 
-Nie chodzi o wykonanie koncertowe. Nie wybieramy solisty roku. Wystarczy jeden wspólny utwór.
+Kto nie ma ochoty śpiewać, może nucić albo wybijać rytm. Chodzi o jeden wspólny utwór, nie o przesłuchanie do chóru.
 
 Dilo: Czystość dźwięku nie podlega ocenie. Na szczęście.
 
