@@ -78,7 +78,7 @@ Przy wdechu policzcie spokojnie do czterech. Przy wydechu policzcie do sześciu.
 
 Nie nabierajcie powietrza na siłę. Jeśli taki rytm komuś nie odpowiada, wróćcie do własnego oddechu. Powtarzajcie przez minutę.
 
-Mimi: Druga skarpetka nie zginie bardziej przez tę minutę. Poszukiwania zawieszamy.
+Mimi: Druga skarpetka przez minutę nie zdąży uciec dalej. Poszukiwania zawieszamy.
 
 ### GRAMY: ORKIESTRA BEZ PRÓBY
 
@@ -246,7 +246,7 @@ Na początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę z
 
 Nie trzeba liczyć ani idealnie się zgrywać. Jeśli po chwili każdy znów oddycha po swojemu, wszystko jest w porządku.
 
-Alio: Czyli każdy po swojemu, a jednak trochę razem. Brzmi podejrzanie znajomo.
+Alio: Każdy oddycha po swojemu i jakoś nikt nie musi wygrać. Dziwne zasady, ale biorę.
 
 ### GRAMY: WSZYSCY NARAZ
 
@@ -342,7 +342,7 @@ Przez chwilę spróbujcie wyczuć własny puls. Nie trzeba go liczyć, porównyw
 
 Zostańcie tak przez minutę. W tym czasie niczego nie trzeba planować ani kończyć.
 
-Nini: Serce pracuje bez przypomnień. Jedyny członek rodziny, którego nie trzeba wołać drugi raz.
+Nini: Serce działa bez przypomnień. Miło, że chociaż ktoś dziś pamięta o wszystkim.
 
 ### GRAMY: HISTORIA, KTÓREJ NIKT NIE ZAPLANOWAŁ
 
@@ -426,7 +426,7 @@ Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Ka�
 
 Nie ustalajcie, co będzie za chwilę. Przez moment po prostu posiedźcie razem.
 
-Alio: Nikt nie prowadzi, nikt nie pyta „co dalej?” To chyba pierwszy plan, którego nie trzeba planować.
+Alio: Nikt niczego nie ustala i jakoś działa. Nie mówcie dorosłym, że można.
 
 ### GRAMY: RODZINNA MASZYNA
 
@@ -468,7 +468,7 @@ Jeśli tak, spróbujcie trochę odpuścić. Nie trzeba niczego osiągać ani spr
 
 Na koniec lekko się uśmiechnijcie, bez słów i bez żadnego szczególnego powodu.
 
-Nini: Szczęka też może mieć wolne. Rodzinnej logistyki dziś już nie prowadzi.
+Nini: Szczęka ma wolne. Nawet jeśli ktoś znowu zapyta, gdzie jest ładowarka.
 
 ### GRAMY: TRZY RZECZY NARAZ
 
@@ -518,7 +518,7 @@ Pomyślcie o jednej konkretnej rzeczy, którą w kimś obok lubicie albo cenicie
 
 Nic nie mówcie. Nie róbcie też specjalnej miny. Jedno spojrzenie wystarczy.
 
-Mimi: Bez przemowy. Nikt nie będzie sprawdzał, kto spojrzał najbardziej wzruszająco.
+Mimi: Spokojnie, to nie konkurs na najbardziej znaczące spojrzenie.
 
 ### GRAMY: PIĘĆ SŁÓW. DWA KŁAMSTWA.
 
@@ -609,7 +609,7 @@ Drugą możecie położyć na ramieniu osoby siedzącej po prawej stronie, ale t
 
 Zostańcie tak przez chwilę i po prostu poczujcie ciepło dłoni.
 
-Luli: Dwie ciepłe dłonie, zero przygotowań. W grudniu to już luksus.
+Luli: Dwie ciepłe dłonie i nic do znalezienia, kupienia ani ładowania. Dobry układ.
 
 ### GRAMY: RYTM PO KOLEI
 
