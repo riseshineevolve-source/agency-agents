@@ -38,7 +38,7 @@ Luli: Jeśli przez minutę niczego nie odhaczymy, grudzień prawdopodobnie przet
 
 Stańcie w kółku.
 
-Zaczyna osoba, której imię zaczyna się na literę najbliżej końca alfabetu. Udaje, że trzyma niewidzialną piłkę.
+Zaczyna osoba, której imię byłoby ostatnie na rodzinnej liście ułożonej alfabetycznie. Udaje, że trzyma niewidzialną piłkę.
 
 Wybiera jedną osobę, lekko rzuca piłkę w jej stronę i mówi jej jeden konkretny komplement. Nie „jesteś super”, tylko coś, co naprawdę w tej osobie lubicie albo ostatnio zauważyliście.
 
@@ -711,7 +711,7 @@ Nini: Ręce znają choreografię. Reszta rodziny może się jeszcze zastanowić.
 
 Każdy wybiera jeden krótki dźwięk, który będzie jego „instrumentem”, na przykład „la-la”, „bum”, „tra-ta-ta” albo własny wymyślony odgłos.
 
-Pierwszym dyrygentem zostaje osoba, której pierwsza litera imienia jest najbliżej M w alfabecie.
+Pierwszym dyrygentem zostaje osoba, która jako ostatnia słuchała dziś muzyki.
 
 Dyrygent wskazuje wybraną osobę. Wtedy ta osoba zaczyna powtarzać swój dźwięk. Kiedy dyrygent wskaże ją drugi raz, przestaje.
 
@@ -945,7 +945,7 @@ Stańcie w kółku i wybierzcie jedną wersję na całą rundę.
 
 Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli choć jedna osoba woli bez dotyku, ustawcie się tak, żeby każdy dobrze widział osobę po swojej lewej stronie. Ustalcie prosty sygnał wzrokowy, na przykład krótki ruch dłoni.
 
-Zaczyna osoba, której imię rozpoczyna się na literę najbliższą A. Wysyła jeden prosty sygnał do osoby po prawej stronie. W wersji bez dotyku każdy patrzy tylko na swojego „nadawcę” po lewej i reaguje dopiero wtedy, gdy sygnał dotrze właśnie do niego. Dzięki temu kod naprawdę wędruje po kole, zamiast ruszyć wszędzie naraz.
+Zaczyna osoba, której imię byłoby pierwsze na rodzinnej liście alfabetycznej. Wysyła jeden prosty sygnał do osoby po prawej stronie. W wersji bez dotyku każdy patrzy tylko na swojego „nadawcę” po lewej i reaguje dopiero wtedy, gdy sygnał dotrze właśnie do niego. Dzięki temu kod naprawdę wędruje po kole, zamiast ruszyć wszędzie naraz.
 
 W drugiej rundzie wymyślcie krótki kod: dwa albo trzy uściski lub, w wersji bez dotyku, dwa albo trzy ruchy. Możecie zmienić tempo albo kierunek. Kod ma wrócić bez zmiany.
 
@@ -1037,7 +1037,7 @@ Alio: I nikt nie potrząsa kulą drugi raz. Mówię to głównie do siebie.
 
 ### GRAMY: ZAMIANA MIEJSC
 
-Stańcie w kółku. Zaczyna osoba, której urodziny przypadają najbliżej połowy roku.
+Stańcie w kółku. Zaczyna osoba, która jako ostatnia weszła do pokoju.
 
 Po każdym haśle osoby, których ono dotyczy, robią krok do środka. Jeśli są co najmniej dwie, spoglądają na wolne miejsca i spokojnie przechodzą na inne miejsce w kole. Nie przebiegajcie przez środek na oślep. Jeśli pasuje tylko jedna osoba, robi szybki obrót i wraca na swoje miejsce.
 
