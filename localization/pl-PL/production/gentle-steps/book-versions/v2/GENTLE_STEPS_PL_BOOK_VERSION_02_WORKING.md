@@ -38,17 +38,15 @@ Luli: Jeśli przez minutę niczego nie odhaczymy, grudzień prawdopodobnie przet
 
 Stańcie w kółku.
 
-Zaczyna osoba, której imię byłoby ostatnie na rodzinnej liście ułożonej alfabetycznie. Udaje, że trzyma niewidzialną piłkę.
+Zaczyna osoba, której imię jest ostatnie alfabetycznie. Udaje, że trzyma niewidzialną piłkę.
 
-Wybiera jedną osobę, lekko rzuca piłkę w jej stronę i mówi jej jeden konkretny komplement. Nie „jesteś super”, tylko coś, co naprawdę w tej osobie lubicie albo ostatnio zauważyliście.
+Najpierw szybka runda na rozruch. Bez słów. Przy każdym rzucie piłka może nagle ważyć tonę, być lekka jak balon, maleńka jak groszek albo wielka jak fotel. Nie mówcie, jaka jest. Pokażcie to ruchem. Osoba łapiąca reaguje tak, jakby naprawdę dostała właśnie taką piłkę, zmienia jej „właściwości” i posyła dalej.
 
-Osoba, która łapie piłkę, mówi „Dziękuję”, wybiera kolejną osobę i przekazuje ją dalej razem z następnym komplementem.
+Kiedy każdy choć raz ją złapie, zaczyna się druga runda. Piłka wraca do zwykłych rozmiarów. Teraz osoba rzucająca wybiera kogoś, kto jeszcze nie dostał piłki w tej rundzie, i razem z rzutem mówi mu jedną konkretną dobrą rzecz. Nie „jesteś super”, tylko coś, co naprawdę w tej osobie lubicie albo ostatnio zauważyliście.
 
-Kontynuujcie, aż każdy usłyszy przynajmniej jeden komplement.
+Osoba, która łapie, mówi po prostu „dzięki” i przekazuje piłkę dalej. Gra kończy się, kiedy każdy usłyszy jedno takie zdanie.
 
-Jeśli macie jeszcze dwie minuty, zagrajcie rundę bonusową. Tym razem bez nowych komplementów. Liczy się sama niewidzialna piłka. Przy każdym rzucie może nagle ważyć tonę, być lekka jak balon, maleńka albo ogromna. Nie mówcie, jaka jest. Pokażcie to ruchem. Osoba łapiąca reaguje tak, jakby naprawdę dostała właśnie taką piłkę, po czym zmienia jej „właściwości” i posyła dalej.
-
-Nini: Bez zamachu z barku. Komplement ma trafić. Piłka jest niewidzialna, odruchy z WF-u niestety nie.
+Nini: Tylko bez zamachu. To ma trafić w człowieka inaczej niż piłka na WF-ie. Okulary też chcą dożyć świąt.
 
 ### MIĘDZY NAMI: CO W GRUDNIU LUBIĘ, A CZEGO MAM DOŚĆ?
 
@@ -142,7 +140,7 @@ Każdy mówi jedno słowo o tym, jak się teraz czuje.
 
 Tylko jedno. Nie trzeba niczego wyjaśniać ani uzasadniać.
 
-Luli: Mamy cały język. Nie marnujmy go na samo „dobrze”.
+Luli: „Dobrze” może dziś posiedzieć na ławce rezerwowych. Wpuszczamy inne słowo.
 
 ---
 
@@ -218,7 +216,7 @@ W rundzie finałowej nie ustalacie wcześniej, kto zacznie ani kto wypowie kolej
 
 Całą zabawę możecie też przeprowadzić w dwie osoby.
 
-Dilo: VAR potwierdza: dwie osoby naraz. Wynik skasowany, wracamy do jedynki.
+Dilo: VAR: dwa głosy naraz. Gol anulowany. Grudzień nie przyjmuje odwołań, wracamy do jedynki.
 
 ### MIĘDZY NAMI: PO CZYM SŁYCHAĆ, ŻE TO DOM?
 
@@ -246,7 +244,7 @@ Na początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę z
 
 Nie trzeba liczyć ani idealnie się zgrywać. Jeśli po chwili każdy znów oddycha po swojemu, wszystko jest w porządku.
 
-Alio: Każdy oddycha po swojemu i jakoś nikt nie musi wygrać. Dziwne zasady, ale biorę.
+Alio: Pierwsza rzecz w grudniu, której nikt nie każe robić szybciej. Proszę tego nie zepsuć.
 
 ### GRAMY: WSZYSCY NARAZ
 
@@ -264,7 +262,7 @@ Na koniec prowadzenie przejmuje najstarsza osoba. Może mieszać oba rodzaje ruc
 
 Grajcie tak długo, jak macie ochotę. Wszystkie ruchy powinny być na tyle małe, żeby nikt nie tracił równowagi.
 
-Luli: Byłoby łatwiej, gdyby lewo i prawo nie zamieniały się miejscami dokładnie wtedy, kiedy ktoś patrzy.
+Luli: Lewo i prawo są banalnie proste, dopóki ktoś ich nie powie na głos.
 
 ### MIĘDZY NAMI: CO DOBRZE USŁYSZEĆ?
 
@@ -316,7 +314,7 @@ Na finał wybierzcie jeden z wcześniejszych sygnałów i spróbujcie puścić g
 
 Jeśli bawią się tylko dwie osoby, zróbcie z sygnałów szybki ping-pong. Jedna osoba wysyła uśmiech, piątkę albo delikatne klepnięcie w ramię, a druga od razu odsyła ten sam sygnał. Po trzech wymianach zmieńcie sygnał. Uścisk zostaje tylko opcją, jeśli obie osoby mają na niego ochotę.
 
-Nini: Uścisk ma być krótki. Żebra nie biorą udziału w tej grze.
+Nini: Delikatny uścisk. Żebra mają już własne plany na święta.
 
 ### MIĘDZY NAMI: KTO TO ZROBIŁ, CHOCIAŻ PRAWIE NIKT NIE ZAUWAŻYŁ?
 
@@ -332,31 +330,33 @@ Nini: Dziś śledztwo w sprawie rzeczy, które podobno zrobiły się same.
 
 ## DZIEŃ 8
 
-### ZWOLNIJ: PULS
+### ZWOLNIJ: SERCE ROBI SWOJE
 
-Po dniu, w którym trzeba było pamiętać o tylu rzeczach, ciało przez cały czas robiło swoją robotę bez dodatkowych instrukcji.
+Po dniu, w którym trzeba było pamiętać o tylu rzeczach, serce przez cały czas robiło swoje bez dodatkowych instrukcji.
 
 Usiądźcie wygodnie i połóżcie dłoń na klatce piersiowej.
 
-Przez chwilę spróbujcie wyczuć własny puls. Nie trzeba go liczyć, porównywać ani sprawdzać, czy jest taki sam jak u kogoś obok.
+Przez chwilę spróbujcie poczuć bicie serca pod dłonią. Jeśli go nie wyczuwacie, nic szkodzi. Zauważcie po prostu delikatny ruch oddechu.
+
+Nie trzeba niczego liczyć, porównywać ani sprawdzać, czy u kogoś obok jest tak samo.
 
 Zostańcie tak przez minutę. W tym czasie niczego nie trzeba planować ani kończyć.
 
-Nini: Serce działa bez przypomnień. W grudniu to już wynik.
+Nini: Serce działa bez listy zadań. W grudniu szanuję każdą taką inicjatywę.
 
 ### GRAMY: HISTORIA, KTÓREJ NIKT NIE ZAPLANOWAŁ
 
 Usiądźcie albo stańcie w kółku.
 
-Zaczyna najstarsza osoba i mówi jedno słowo. Kolejna osoba powtarza pierwsze słowo i dodaje własne.
+Zaczyna najstarsza osoba i mówi dokładnie trzy słowa, które otwierają historię. Na przykład: „Renifer wszedł dziś…”
 
-Każda następna osoba powtarza całą historię od początku, zachowując kolejność słów, a na końcu dodaje jedno nowe.
+Kolejna osoba dodaje dokładnie trzy następne słowa. Niczego nie poprawia i nie cofa. Każdy dopisuje po trzy słowa, a historia ma iść dalej, nawet jeśli właśnie skręciła w kompletnie absurdalną stronę.
 
-Zróbcie dwa albo trzy pełne okrążenia. Historia ma być krótka. Nie musi mieć sensu i zwykle właśnie wtedy robi się ciekawie.
+Zróbcie dwa pełne okrążenia albo skończcie wcześniej, jeśli pojawi się idealne zakończenie.
 
-Kiedy historia będzie gotowa, odtwórzcie ją jeszcze raz od początku, ale bez używania tych słów. Każde słowo, które wcześniej dodaliście, zastępujecie jednym ruchem albo dźwiękiem. Zachowajcie kolejność oryginalnej historii.
+Na finał wybierzcie najdziwniejszą scenę z waszej historii. Odliczcie „trzy, dwa, jeden” i wszyscy jednocześnie odegrajcie ją przez kilka sekund, bez ustalania ról. Jeśli nagle macie trzy renifery i ani jednego Mikołaja, tym lepiej.
 
-Alio: Jeśli po drugim okrążeniu fabuła się rozpadła, niczego nie naprawiajcie. Właśnie zrobiło się ciekawie.
+Alio: Jeśli po dwóch okrążeniach fabuła nadal ma sens, ktoś podejrzanie mocno kontroluje sytuację.
 
 ### MIĘDZY NAMI: CO DZIŚ BYŁO TRUDNIEJSZE, NIŻ WYGLĄDAŁO?
 
@@ -396,7 +396,9 @@ Każdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie wy
 
 Kiedy wszyscy trzymają już po dwie dłonie, powstanie splątany węzeł.
 
-Waszym zadaniem jest rozplątać się powoli tak, żeby na końcu powstało jedno otwarte koło. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie. Nie puszczajcie dłoni, chyba że komuś robi się niewygodnie albo coś zaczyna boleć. Wtedy przerywacie i zaczynacie od nowa.
+Waszym zadaniem jest rozplątać układ tak daleko, jak się da, nie puszczając dłoni. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie. Czasem na końcu powstanie jedno koło, czasem dwa mniejsze i oba wyniki są w porządku.
+
+Jeśli po chwili naprawdę utkniecie, macie jeden „reset techniczny”: jedna para może na moment puścić dłonie, przejść w wygodniejsze miejsce i złapać się ponownie. Jeśli komuś robi się niewygodnie albo coś zaczyna boleć, zatrzymujecie grę od razu.
 
 Jeśli jest was troje, stańcie blisko siebie, skrzyżujcie ręce w środku i niech każda osoba złapie po jednej dłoni obu pozostałych. Spróbujcie wspólnie odkręcić układ bez puszczania rąk. Jeśli robi się niewygodnie, zaczynacie od nowa.
 
@@ -697,29 +699,33 @@ Dilo: Bonus za historię, którą wszyscy pamiętają inaczej. To zwykle oznacza
 
 Są dni, kiedy każdy chce czegoś innego. Innej muzyki w samochodzie, innego filmu, innej kolacji i najlepiej pierwszeństwa do łazienki.
 
-Zanim zaczniecie rodzinny koncert, usiądźcie w kółku.
-
-Możecie lekko złapać się za ręce albo trzymać dłonie blisko siebie, bez dotykania. Wybierzcie wersję, która wszystkim odpowiada.
+Zanim zaczniecie rodzinny koncert, usiądźcie w kółku i połóżcie dłonie na kolanach.
 
 Przy wdechu powoli unieście ręce. Przy wydechu spokojnie je opuśćcie.
 
-Powtórzcie kilka razy we własnym, wygodnym rytmie. Nie trzeba idealnie się zgrywać.
+Powtórzcie kilka razy we własnym, wygodnym rytmie. Nie musicie robić tego równo. Dziś każdy ma prawo do własnego tempa.
 
 Nini: Ręce znają choreografię. Reszta rodziny może się jeszcze zastanowić.
 
-### GRAMY: DYRYGENT BEZ BATUTY
+### GRAMY: RADIO NA ŻYWO
 
-Każdy wybiera jeden krótki dźwięk, który będzie jego „instrumentem”, na przykład „la-la”, „bum”, „tra-ta-ta” albo własny wymyślony odgłos.
+Rozejrzyjcie się po pokoju i wybierzcie jeden zupełnie zwyczajny przedmiot, na przykład kubek, skarpetkę, łyżkę, plecak albo kapcie.
 
-Pierwszym dyrygentem zostaje osoba, która jako ostatnia słuchała dziś muzyki.
+Macie dziesięć sekund, żeby podzielić role. Potrzebujecie przynajmniej jednej osoby mówiącej i jednej odpowiedzialnej za efekty dźwiękowe albo demonstrację. Przy większej rodzinie każdy dostaje małe zadanie.
 
-Dyrygent wskazuje wybraną osobę. Wtedy ta osoba zaczyna powtarzać swój dźwięk. Kiedy dyrygent wskaże ją drugi raz, przestaje.
+Teraz zróbcie razem krótką, przesadnie poważną reklamę tego przedmiotu. Reklama musi zawierać:
+1. nową, absurdalnie ważną nazwę produktu,
+2. jedną funkcję, której ten przedmiot oczywiście nie ma,
+3. przynajmniej jeden efekt dźwiękowy,
+4. finałowe hasło wypowiedziane razem.
 
-Na początku włączajcie po jednym „instrumencie”. Potem możecie utrudnić zadanie. Dyrygent używa obu rąk i uruchamia kilka dźwięków jednocześnie, a następnie po kolei je wyłącza.
+Nie planujcie dłużej niż chwilę. Najlepsza część zaczyna się wtedy, kiedy ktoś musi ratować reklamę w połowie zdania.
 
-Po chwili rolę dyrygenta przejmuje kolejna osoba zgodnie z ruchem wskazówek zegara. Każdy zachowuje swój wcześniej wybrany dźwięk.
+Zróbcie dwie albo trzy rundy z innymi przedmiotami i zmieniajcie role.
 
-Dilo: Wreszcie orkiestra, w której każdy może robić swoje i nikt nie walczy o playlistę.
+W dwie osoby jedna prowadzi reklamę, druga robi dźwięki i demonstrację. W kolejnej rundzie zamieniacie się rolami.
+
+Nini: Reklamacja kapci z napędem odrzutowym nie będzie rozpatrywana.
 
 ### MIĘDZY NAMI: CO CHCEMY ZROBIĆ RAZEM?
 
@@ -783,17 +789,19 @@ Alio: Ja wybieram wszystko, przy czym wolno skakać. To ważne kryterium.
 
 ## DZIEŃ 18
 
-### ZWOLNIJ: DŁUŻSZY WYDECH
+### ZWOLNIJ: ZWOLNIJ PALCAMI
 
-Jeśli popołudnie brzmiało jak „zdążymy?”, „już jedziemy” i „czemu akurat teraz jest korek?”, nie musicie dalej oddychać w tempie całej tej trasy.
+Jeśli popołudnie brzmiało jak „zdążymy?”, „już jedziemy” i „czemu akurat teraz jest korek?”, ciało czasem nadal zachowuje się tak, jakby trzeba było gdzieś pędzić.
 
-Usiądźcie obok siebie.
+Usiądźcie i połóżcie dłonie na udach.
 
-Weźcie kilka zwykłych oddechów. Przy każdym wydechu spróbujcie wypuścić powietrze trochę wolniej niż zwykle.
+Przez kilka sekund lekko stukajcie opuszkami palców o nogi w szybkim tempie. Potem co kilka uderzeń zwalniajcie odrobinę, aż palce całkiem się zatrzymają.
 
-Nie trzeba niczego sobie wyobrażać ani oddychać idealnie. Jeśli dłuższy wydech jest niewygodny, wróćcie do własnego rytmu.
+Zostańcie przez chwilę bez ruchu i oddychajcie zwyczajnie.
 
-Luli: Korki już były. Wydech nie musi się spieszyć.
+Możecie powtórzyć jeszcze raz, zaczynając trochę wolniej.
+
+Alio: Wreszcie ruch drogowy, nad którym mamy kontrolę.
 
 ### GRAMY: MISJA KRZESŁO
 
@@ -867,17 +875,13 @@ Dilo: Szybciej. Geometria nie będzie na nas czekać.
 
 ### MIĘDZY NAMI: CO LUBIMY W NASZYM DOMU?
 
-Pierwsza osoba mówi jedną rzecz, którą lubi w swoim domu.
+Każdy mówi jedną rzecz, którą lubi w swoim domu.
 
-Może to być konkretne miejsce, zapach, dźwięk, zwyczaj albo coś, co dzieje się tylko u was.
+Może to być konkretne miejsce, zapach, dźwięk, zwyczaj albo coś, co dzieje się tylko u was. Ktoś może wybrać kuchenny stół, ktoś ciszę późnym wieczorem, ktoś zapach obiadu, a ktoś fakt, że tu można chodzić w najgorszych skarpetkach świata.
 
-Kolejna osoba powtarza tę odpowiedź i dodaje własną.
+Nie musicie wybierać różnych rzeczy. Jeśli coś powtórzy się kilka razy, właśnie dowiedzieliście się czegoś o swoim domu.
 
-Każda następna osoba zaczyna od wszystkich wcześniejszych odpowiedzi, zachowując ich kolejność, a na końcu dodaje jedną nową.
-
-Kontynuujcie, aż każdy dołoży coś od siebie.
-
-Mimi: Jeśli lista zaczyna brzmieć jak piosenka, spokojnie. Karaoke jeszcze nie było w planie.
+Mimi: Dom to też miejsce, w którym najgorsze skarpetki świata mają pełne prawa obywatelskie.
 
 ---
 
@@ -897,21 +901,25 @@ Nie ściskajcie mocno. Chodzi o krótkie zauważenie różnicy między napięcie
 
 Mimi: Pięści rozwiązują zaskakująco mało rodzinnych spraw. Dziś mają wolne.
 
-### GRAMY: TUNEL KIBICÓW
+### GRAMY: LINIA BEZ SŁÓW
 
-Stańcie w dwóch rzędach naprzeciwko siebie, tak żeby między wami powstał krótki, szeroki tunel.
+Stańcie luźno w jednym miejscu. W każdej rundzie macie ustawić się w jednej linii, ale od chwili podania zadania nie wolno mówić.
 
-Zaczyna osoba, której urodziny przypadają najbliżej Bożego Narodzenia.
+Runda 1: ustawcie się alfabetycznie według imion.
 
-Przed wejściem wybiera tryb kibicowania: cicho, normalnie albo „stadion”.
+Runda 2: ustawcie się według miesiąca urodzin, od stycznia do grudnia.
 
-Powoli przechodzi przez środek tunelu. Pozostali dopasowują się do wybranego trybu: klaszczą, nucą albo rytmicznie powtarzają jej imię.
+Runda 3: ustawcie się według liczby liter w imieniu, od najkrótszego do najdłuższego.
 
-Kiedy pierwsza osoba przejdzie na koniec, przez tunel przechodzi kolejna. Kontynuujcie, aż każdy, kto ma ochotę, będzie miał swoją rundę. Kto woli zostać po bokach i kibicować, też bierze udział.
+Możecie pokazywać palcami, robić miny, gestykulować i negocjować brwiami. Kiedy uznacie, że linia jest gotowa, sprawdźcie wynik na głos.
 
-W dwie osoby ustawcie dwa krzesła tak, żeby tworzyły bezpieczne wejście. Jedna osoba przechodzi między nimi, a druga jej kibicuje. Potem zamieniacie się rolami.
+Jeśli dwie osoby mają ten sam miesiąc albo tyle samo liter, mogą stać obok siebie w dowolnej kolejności.
 
-Nini: Tryb „stadion” działa zgodnie z nazwą. Ostrzegałam.
+Na finał wymyślcie własne, łatwe do sprawdzenia kryterium.
+
+W dwie osoby zagrajcie szybko w pięć kryteriów z rzędu. Za każdym razem bez słów zdecydujcie, kto powinien stanąć pierwszy, i dopiero potem sprawdźcie odpowiedź.
+
+Nini: Jeśli ktoś próbuje przeliterować imię brwiami, uznaję za legalne.
 
 ### MIĘDZY NAMI: CO CHCESZ ZAPAMIĘTAĆ Z TEGO GRUDNIA?
 
@@ -945,9 +953,11 @@ Stańcie w kółku i wybierzcie jedną wersję na całą rundę.
 
 Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Jeśli choć jedna osoba woli bez dotyku, ustawcie się tak, żeby każdy dobrze widział osobę po swojej lewej stronie. Ustalcie prosty sygnał wzrokowy, na przykład krótki ruch dłoni.
 
-Zaczyna osoba, której imię byłoby pierwsze na rodzinnej liście alfabetycznej. Wysyła jeden prosty sygnał do osoby po prawej stronie. W wersji bez dotyku każdy patrzy tylko na swojego „nadawcę” po lewej i reaguje dopiero wtedy, gdy sygnał dotrze właśnie do niego. Dzięki temu kod naprawdę wędruje po kole, zamiast ruszyć wszędzie naraz.
+Zaczyna osoba, której imię jest pierwsze alfabetycznie. W wersji z dotykiem lekko ściska dłoń osoby po prawej stronie jeden raz. Każda osoba przekazuje dokładnie taki sam sygnał dalej dopiero wtedy, gdy sama go poczuje.
 
-W drugiej rundzie wymyślcie krótki kod: dwa albo trzy uściski lub, w wersji bez dotyku, dwa albo trzy ruchy. Możecie zmienić tempo albo kierunek. Kod ma wrócić bez zmiany.
+W wersji bez dotyku osoba rozpoczynająca robi jeden ustalony ruch dłoni do osoby po prawej. Każdy patrzy tylko na swojego „nadawcę” po lewej i przekazuje ruch dalej dopiero wtedy, gdy sygnał dotrze właśnie do niego. Dzięki temu kod naprawdę wędruje po kole, zamiast ruszyć wszędzie naraz.
+
+W drugiej rundzie wymyślcie krótki kod: dwa albo trzy lekkie uściski lub dwa albo trzy różne ruchy. Kod ma wrócić bez zmiany. W kolejnej próbie możecie zmienić tempo albo kierunek.
 
 Jeśli chcecie trudniejszą wersję, puśćcie jednocześnie dwa różne kody w przeciwnych kierunkach.
 
@@ -971,41 +981,33 @@ Luli: Mały znak. Tylko wy musicie wiedzieć, co znaczy. I to jest w nim najleps
 
 ## DZIEŃ 22
 
-### ZWOLNIJ: KILKA ODDECHÓW, NIC WIĘCEJ
+### ZWOLNIJ: DALEKO, BLISKO
 
-Im bliżej świąt, tym lista zwykle robi się dłuższa, a dzień jakimś cudem nie dostaje dodatkowych godzin.
+Im bliżej świąt, tym lista zwykle robi się dłuższa, a wzrok coraz częściej zatrzymuje się na ekranie, kartce albo kolejnej rzeczy do zrobienia.
 
-Usiądźcie w kółku i zamknijcie oczy.
+Usiądźcie wygodnie i wybierzcie najdalszy punkt, który widzicie w pokoju albo za oknem. Popatrzcie na niego przez kilka sekund.
 
-Przez kilka oddechów zwróćcie uwagę tylko na to, że klatka piersiowa lekko unosi się i opada. Nie trzeba oddychać głębiej ani wolniej, niż jest wygodnie.
+Potem przenieście wzrok na coś blisko, na przykład własną dłoń.
 
-Przez te kilka oddechów następny punkt z listy może poczekać.
+Zróbcie tak trzy razy: daleko, blisko, daleko, blisko. Bez wpatrywania się na siłę. Na końcu zamknijcie oczy na jeden zwykły oddech.
 
-Luli: Lista nie ucieknie. Niestety.
+Luli: Lista nadal tam jest. Przez chwilę nie musiała być najbliżej.
 
-### GRAMY: KTO TEŻ TAK MA?
+### GRAMY: KALAMBURY NA OPAK
 
-Stańcie w kółku. Upewnijcie się, że macie wokół siebie miejsce na jeden mały krok.
+Zaczyna najstarsza osoba. Na chwilę odwraca się albo zamyka oczy.
 
-Zaczyna najstarsza osoba. Mówi jedno krótkie zdanie o sobie. Najlepiej takie, którego inni nie są pewni.
+Pozostali po cichu wybierają jedno proste hasło, na przykład: lepienie bałwana, spóźniony autobus, pieczenie pierników, pingwin, odkurzacz albo coś własnego.
 
-Możecie zacząć od:
-„Najlepiej odpoczywam, kiedy…”
-„W domu zawsze jako pierwszy zauważam…”
-„Gdy mam zły dzień, najbardziej pomaga mi…”
-„W grudniu najbardziej lubię…”
-„Gdybym mógł dziś skreślić jedną rzecz z listy, byłoby to…”
-albo wymyślić własne zdanie.
+Osoba zgadująca odwraca się z powrotem. Na „trzy, dwa, jeden” wszyscy pozostali zaczynają jednocześnie pokazywać to samo hasło, bez słów i bez wcześniejszego ustalania, jak je pokażą.
 
-Każdy, kto ma podobnie, robi jeden mały krok do środka. Kto ma inaczej, zostaje na miejscu.
+Zgadujący próbuje odgadnąć hasło. Potem rolę zgadującego przejmuje kolejna osoba.
 
-Bez tłumaczenia i bez przekonywania. Patrzycie tylko, przy czym spotykacie się w środku, a przy czym każdy ma zupełnie inaczej.
+Najzabawniej robi się wtedy, gdy wszyscy pokazują dokładnie to samo i wyglądają, jakby każdy dostał zupełnie inną instrukcję.
 
-Potem kolejna osoba podaje swoje zdanie.
+W dwie osoby gracie jak w zwykłe kalambury, ale pokazujący musi użyć całego ciała i nie może wskazywać przedmiotów w pokoju.
 
-W dwie osoby zasada jest taka sama. Jeśli macie podobnie, oboje robicie krok do przodu. Jeśli nie, zostajecie na miejscu.
-
-Mimi: Najlepszy jest ten moment, kiedy pół rodziny robi krok i wszyscy mówią oczami: „Ty też?”
+Mimi: Jeśli trzy osoby pokazują „lepienie bałwana”, a wyglądają jak trzy różne sporty, gra działa idealnie.
 
 ### MIĘDZY NAMI: CO TEN MIESIĄC NAM POKAZAŁ?
 
@@ -1115,128 +1117,72 @@ Każdy mówi jedno życzenie dla waszej rodziny na święta i nadchodzący rok.
 
 Bez przemowy. Jedno prawdziwe „dziękuję” i jedno życzenie wystarczą.
 
-Happy Makers: Nie wszystko, co ważne w tych świętach, znajdzie się pod choinką. I bardzo dobrze.
+Happy Makers: Nie wszystko, co ważne w tych świętach, znajdzie się pod choinką. I to akurat dobra wiadomość.
 
 ---
 
 # PO 24 DNIACH
 
-## PO TYCH 24 DNIACH
+## JEDEN WIECZÓR PÓŹNIEJ
 
-Wybierzcie jeden wieczór między świętami a Nowym Rokiem.
+Wybierzcie jeden spokojniejszy wieczór między świętami a Nowym Rokiem. Zróbcie herbatę albo kakao i wróćcie na chwilę do tych 24 dni.
 
-Zróbcie herbatę albo kakao. Jeśli macie ochotę, zapalcie lampkę lub świeczkę. Usiądźcie razem i wróćcie na chwilę do tych 24 dni.
-
-Nie róbcie podsumowania jak na zebraniu. Wybierzcie kilka pytań, na które naprawdę chcecie odpowiedzieć:
+Nie róbcie podsumowania jak na zebraniu. Wybierzcie tylko kilka pytań, na które naprawdę macie ochotę odpowiedzieć:
 
 Co zapamiętaliście najlepiej?
 
-Co was zaskoczyło?
-
 Przy czym śmialiście się najbardziej?
 
-Czy była chwila, którą chcielibyście kiedyś powtórzyć?
+Czy dowiedzieliście się o kimś z rodziny czegoś nowego?
 
-Czy dowiedzieliście się o kimś z rodziny czegoś, czego wcześniej nie wiedzieliście?
+Która chwila zaskoczyła was najbardziej?
 
-Czy coś robicie teraz odrobinę inaczej niż na początku grudnia?
+Czy jest gra, pytanie, zdanie albo mały zwyczaj, do którego chcielibyście kiedyś wrócić?
 
-Nie trzeba odpowiadać na wszystko.
+Na koniec każdy kończy jedno zdanie:
 
-I tak, można też porozmawiać o tym, jak niewiarygodnie szybko znikają w domu świąteczne słodycze. To również jest obserwacja.
+„Z tych 24 dni chcę zatrzymać…”
 
----
+Możecie wybrać różne rzeczy. Nie musicie ustalać nowego rodzinnego planu ani obiecywać, że od stycznia będziecie robić cokolwiek codziennie.
 
-## NIE OBIECUJEMY IDEAŁU
-
-Nie obiecujemy, że od tej pory w naszym domu zawsze będzie spokojnie.
-
-Nie obiecujemy, że nikt nigdy nie straci cierpliwości, nie trzaśnie szafką, nie odpowie zbyt szybko ani nie zapomni o czymś ważnym.
-
-To byłoby podejrzane.
-
-Ale jest kilka rzeczy, do których chcemy wracać.
-
-Chcemy mówić do siebie życzliwie także wtedy, kiedy cierpliwość właśnie wyszła z domu bez pożegnania.
-
-Chcemy zauważać, kiedy ktoś potrzebuje chwili przerwy, i umieć po prostu być obok, bez konieczności natychmiastowego naprawiania wszystkiego.
-
-Chcemy widzieć małe rzeczy. Czyjąś pomoc. Czyjś wysiłek. Zwycięstwa, których nikt poza nami nie zauważy.
-
-Chcemy zostawić miejsce na śmiech. Zwłaszcza ten trochę za głośny, trochę nie w porę i bardzo potrzebny.
-
-Chcemy traktować poważnie marzenia innych osób w tej rodzinie. Także te duże, odważne i trochę dziwne.
-
-Jeśli coś między nami się popsuje, chcemy próbować to naprawić. Nie udawać, że nic się nie stało.
-
-A kiedy znów będziemy mieli za dużo na głowie, chcemy pamiętać, że czasem kilka minut naprawdę wystarczy, żeby do siebie wrócić.
-
-Jeśli jakaś tradycja ma zostać z nami na dłużej, niech będzie nią właśnie to.
-
----
-
-## NA KONIEC
-
-Niech z tych 24 dni zostanie z wami to, co naprawdę wasze.
-
-Śmiech, który uratował kiepski wieczór.
-
-Rozmowa, której nikt wcześniej nie planował.
-
-Jedno zdanie, które dobrze było usłyszeć.
-
-Rodzinny żart, którego nikt poza wami nie zrozumie.
-
-Chwila ciszy, kiedy niczego nie trzeba było załatwiać.
-
-Niech wasz dom nie będzie zawsze spokojny. Domy, w których naprawdę toczy się życie, rzadko takie są.
-
-Niech będzie za to miejscem, w którym można wrócić do rozmowy, przeprosić, pośmiać się, usiąść obok i zacząć jeszcze raz.
-
-A kiedy po świętach ozdoby znowu nie będą chciały zmieścić się w pudełku, niech przynajmniej te dobre chwile nie próbują się tam zmieścić razem z nimi.
-
-Niech zostaną na wierzchu.
+Jeśli jedna rzecz zostanie z wami na dłużej, wystarczy.
 
 ---
 
 ## LIST OD HAPPY MAKERS
 
-Jeśli jesteście tutaj, dotarliście do końca 24 dni.
+Jeśli jesteście tutaj, przeszliście razem przez 24 grudniowe dni.
 
-Chociaż właściwie nie o koniec tu chodzi.
+Może robiliście wszystko po kolei. Może kilka dni wypadło. Może czasem było dziesięć minut, a czasem cztery, bo ktoś był głodny, ktoś miał sprawdzian, ktoś utknął w korku, a ktoś po prostu nie miał ochoty na żadną rodzinną atrakcję.
 
-Przez ostatnie tygodnie znajdowaliście po kilka minut na rzeczy, które bardzo łatwo zgubić w grudniu. Na śmiech. Na rozmowę. Na chwilę ciszy. Na dziwną grę. Na jedno konkretne „dziękuję”. Czasem pewnie późno, czasem w biegu, czasem z kimś, kto nie miał najmniejszej ochoty na rodzinne atrakcje.
+To też jest prawdziwy grudzień.
 
-I dobrze.
+Ta książka nie miała zrobić z niego idealnego miesiąca. Miała pomóc wam złapać po drodze kilka chwil, które zwykle łatwo przegapić.
 
-Ta książka nigdy nie miała stworzyć idealnego grudnia.
+Może ktoś powiedział coś, czego wcześniej o nim nie wiedzieliście.
 
-Miała tylko pomóc wam zauważyć po drodze trochę więcej wspólnych chwil, zanim znowu będzie po świętach.
+Może powstał żart, którego nikt poza wami nie zrozumie.
 
-Jeśli choć raz ktoś powiedział coś, czego wcześniej nie wiedzieliście, warto było.
+Może jedna z gier uratowała kiepski wieczór.
 
-Jeśli powstał nowy rodzinny żart, warto było.
+Może ktoś usłyszał konkretne „dziękuję” dokładnie wtedy, kiedy było mu potrzebne.
 
-Jeśli przez jedną minutę lista rzeczy do zrobienia naprawdę poczekała, też warto było.
+A może przez jedną minutę lista rzeczy do zrobienia naprawdę poczekała.
 
-Nie musicie teraz zamieniać tych 24 dni w nowy rodzinny obowiązek.
+Nie zamieniajcie teraz tych 24 dni w kolejny obowiązek. Weźcie z nich tylko to, co było wasze i naprawdę działało.
 
-Weźcie z nich to, co działało.
+W zwykły wtorek możecie znowu rzucić niewidzialną piłkę.
 
-Może od czasu do czasu usiądziecie obok siebie bez żadnego wielkiego powodu.
+Po trudnym dniu możecie usiąść obok siebie bez pytań.
 
-Może zapytacie inaczej niż zwykle.
+Kiedy dom zacznie brzmieć za głośno, możecie przypomnieć sobie jedną minutę ciszy.
 
-Może przypomnicie sobie jedną z gier, kiedy wieczór będzie potrzebował ratunku.
+A jeśli coś między wami pójdzie nie tak, zawsze można wrócić do rozmowy, przeprosić i spróbować jeszcze raz.
 
-Może powiecie komuś konkretnie, za co mu dziękujecie.
+Dom nie musi być zawsze spokojny, żeby było w nim dobrze.
 
-A może po prostu wróci jedno zdanie, jeden znak albo jeden żart.
-
-To wystarczy.
-
-Święta są też po drodze. Zwykłe dni również.
+Święta są też po drodze. Zwykłe dni też.
 
 Dziękujemy, że wpuściliście nas do waszego grudnia.
 
-Happy Makers
+**Happy Makers**
