@@ -2,7 +2,7 @@
   "date": "2026-10-03",
   "status": "ACTIVE_READER_EXPERIENCE_SAFE_STATE",
   "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
-  "working_master_blob_sha": "865d801e74b973343cf6562bdc269ef21f951d8c",
+  "working_master_blob_sha": "d6b0fe7223d7177225ed6a49d662d46e78b1de1b",
   "checkpoint_copy_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_READER_EXPERIENCE_SAFE_STATE_2026-10-03.md",
   "qa_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_READER_EXPERIENCE_CLOSING_QA_2026-10-03.md",
   "source_commit_before_checkpoint_files": "1d72f049e694fc0cefb5c03e19cbd1b542e00802",
@@ -25,5 +25,11 @@
     "publication_freeze_authorization"
   ],
   "central_priorities_mutated": false,
-  "frozen_book_v1_touched": false
+  "frozen_book_v1_touched": false,
+  "latest_microfixes": [
+    "day7_touch_consent",
+    "day9_four_person_feasibility",
+    "day19_reset_deduplication",
+    "day20_two_person_criteria_clarity"
+  ]
 }
