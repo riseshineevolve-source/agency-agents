@@ -617,19 +617,21 @@ Zostańcie tak przez chwilę i poczujcie ciepło dłoni.
 
 Luli: Dwie ciepłe dłonie i nic do znalezienia, kupienia ani ładowania. Dobry układ.
 
-### GRAMY: RYTM PO KOLEI
+### GRAMY: 3, 2, 1... TO SAMO?
 
-Zaczyna najniższa osoba. Wymyśla krótki, prosty rytm, na przykład: klaśnięcie, klaśnięcie, pstryknięcie.
+Wybierzcie prostą kategorię, na przykład: coś świątecznego, coś do jedzenia, miejsce w domu, zimowa rzecz albo coś, co zabralibyście na wolny dzień.
 
-Wszyscy powtarzają ten rytm dokładnie tak samo.
+Jedna osoba odlicza: „trzy, dwa, jeden”. Na „jeden” wszyscy jednocześnie mówią pierwsze słowo, które przyszło im do głowy.
 
-Następnie, idąc zgodnie z ruchem wskazówek zegara, kolejna osoba wymyśla własny krótki rytm. Cała grupa również go powtarza.
+Jeśli wszyscy powiedzieli to samo, macie punkt i wybieracie nową kategorię.
 
-Kontynuujcie, aż każdy stworzy jeden rytm i usłyszy jego powtórzenie przez całą grupę.
+Jeśli odpowiedzi są różne, wybierzcie dwie z nich. W kolejnej rundzie każdy próbuje znaleźć jedno słowo, które jakoś łączy oba poprzednie. Znowu odliczacie i mówicie je jednocześnie.
 
-Na koniec spróbujcie wykonać wszystkie rytmy po kolei, od pierwszego do ostatniego, bez zatrzymywania się pomiędzy nimi.
+Powtarzajcie, aż spotkacie się na jednym słowie albo uznacie, że ta runda ma wyjątkowo silną osobowość i czas przejść do następnej kategorii.
 
-Dilo: Tempo dowolne. Chaos rytmiczny nie jest tym samym co interpretacja artystyczna.
+W dwie osoby gracie dokładnie tak samo.
+
+Dilo: Jeśli wszyscy powiedzą „pierniki” za pierwszym razem, kategoria była podejrzanie łatwa.
 
 ### MIĘDZY NAMI: CO W TOBIE CENIĘ
 
