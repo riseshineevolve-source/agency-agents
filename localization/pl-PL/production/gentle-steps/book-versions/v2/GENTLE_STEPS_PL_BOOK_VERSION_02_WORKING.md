@@ -573,7 +573,7 @@ Osoba, która przechodzi, wybiera styl wejścia: zwyczajnie, w bardzo poważnym 
 
 W czasie przejścia pozostali mówią po jednym krótkim, prawdziwym zdaniu o czymś, co w tej osobie lubią albo cenią.
 
-Nie trzeba wygłaszać mowy. Jedno zdanie wystarczy. Spróbujcie też nie powtarzać rzeczy, które ktoś już powiedział wcześniej. To zmusza do naprawdę uważnego patrzenia na siebie.
+Nie trzeba wygłaszać mowy. Jedno zdanie wystarczy. Spróbujcie też nie powtarzać rzeczy, które ktoś już powiedział wcześniej. Dzięki temu trzeba naprawdę przyjrzeć się sobie nawzajem.
 
 Jeśli ktoś nie ma ochoty być przez chwilę w centrum uwagi, może wybrać wersję bez słów. Wtedy pozostali robią tylko cichy gest uznania, na przykład kciuk w górę albo krótkie klaśnięcie.
 
