@@ -2,7 +2,7 @@
 
 Date: 2026-10-03  
 Status: **EDITORIAL DENSITY REDUCTION COMPLETE / REAL TEMPLATE PROOF STILL REQUIRED**  
-Current working master blob: `8f89679bfd9d70bcd0d664479cf07aff92f07507`
+Current working master blob: `199eb4b8519876cc851174504a2d93e79f746ed7`
 
 ## What changed in this closing slice
 
@@ -30,8 +30,8 @@ Counts are recomputed from the current Markdown and include headings/comments, s
 | 19 | 297 | reset + cooperative shape game |
 | 14 | 293 | three-part shared challenge |
 | 22 | 291 | visual reset + reverse charades |
+| 6 | 291 | three movement rounds |
 | 7 | 290 | signal chain + consent parity |
-| 6 | 285 | three movement rounds |
 
 Days 6 and 7 are no longer part of the primary density watchlist after editorial tightening.
 

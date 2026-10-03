@@ -4,7 +4,7 @@
   "base_book_version": "1",
   "base_book_version_path": "localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md",
   "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
-  "working_master_blob_sha": "8f89679bfd9d70bcd0d664479cf07aff92f07507",
+  "working_master_blob_sha": "199eb4b8519876cc851174504a2d93e79f746ed7",
   "structure": {
     "days": 24,
     "daily_elements": [
@@ -47,7 +47,7 @@
   },
   "latest_checkpoint": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_DENSITY_SAFETY_SAFE_STATE_2026-10-03.md",
   "latest_checkpoint_manifest": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-03_2351_DENSITY_SAFETY.json",
-  "latest_checkpoint_source_blob_sha": "8f89679bfd9d70bcd0d664479cf07aff92f07507",
+  "latest_checkpoint_source_blob_sha": "199eb4b8519876cc851174504a2d93e79f746ed7",
   "latest_checkpoint_state": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-03_2351_DENSITY_SAFETY.json",
   "latest_reader_experience_pass": {
     "date": "2026-10-03",

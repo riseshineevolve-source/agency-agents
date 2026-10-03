@@ -2,7 +2,7 @@
   "date": "2026-10-03",
   "status": "ACTIVE_DENSITY_SAFETY_SAFE_STATE",
   "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
-  "working_master_blob_sha": "8f89679bfd9d70bcd0d664479cf07aff92f07507",
+  "working_master_blob_sha": "199eb4b8519876cc851174504a2d93e79f746ed7",
   "checkpoint_copy_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_DENSITY_SAFETY_SAFE_STATE_2026-10-03.md",
   "template_fit_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_TEXT_DENSITY_TEMPLATE_FIT_CHECK_2026-10-03.md",
   "source_commit_before_checkpoint_files": "ee8243f6914d57222db2c1512635cbbee124e441",
@@ -41,5 +41,6 @@
     "publication_freeze_authorization"
   ],
   "central_priorities_mutated": false,
-  "frozen_book_v1_touched": false
+  "frozen_book_v1_touched": false,
+  "regression_followup": "restored required Day 6 explicit no-step sentence after exact-head CI caught the lock"
 }

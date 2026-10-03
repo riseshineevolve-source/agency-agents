@@ -248,7 +248,7 @@ Alio: Pierwsza grudniowa rzecz, przy której nikt nie mówi: „szybciej, bo si�
 
 Stańcie w jednym rzędzie, ramię w ramię.
 
-Runda pierwsza: stopy zostają na miejscu. Prowadzi najmłodsza osoba i mówi: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy jednocześnie wychylają ciało w podaną stronę i wracają do środka. Spróbujcie zrobić 10 takich ruchów bez pomyłki.
+Runda pierwsza: stopy zostają na miejscu. W tej rundzie nie robicie kroków. Prowadzi najmłodsza osoba i mówi: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy jednocześnie wychylają ciało w podaną stronę i wracają do środka. Spróbujcie zrobić 10 takich ruchów bez pomyłki.
 
 Runda druga: prowadzenie przejmuje kolejna osoba według wieku. Teraz zamiast wychyleń robicie małe kroki: do przodu, do tyłu, w prawo albo w lewo. Cel: 15 wspólnych kroków bez pomyłki.
 
