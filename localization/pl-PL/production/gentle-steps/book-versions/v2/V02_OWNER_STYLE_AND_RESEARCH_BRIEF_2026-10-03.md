@@ -117,3 +117,17 @@ The best comments should feel like the sentence a family repeats later.
 - Fernandes et al., Group Games, Trust & Cooperation, 2020.
 - Zagni et al., structured cooperation in primary/middle-school students, 2026.
 - Review of diaphragmatic breathing in children/adolescents, 2025.
+
+
+## Owner override on activity mechanics
+
+The owner explicitly keeps the **24 days × 3 daily functions** structure, but does **not** require every Version 01 activity mechanic to remain frozen.
+
+For Book Version 02:
+- a weak or repetitive game may be upgraded or replaced;
+- a weak conversation prompt may move to a later day if it fits the arc better;
+- a reset may be rebuilt around a more credible real-December situation;
+- safety, consent, age-fit and the daily function must remain protected;
+- changes must improve the reader/player experience rather than add complexity.
+
+This owner override supersedes older wording that treated all Version 01 game mechanics as immutable for the creative Book Version 02 lane.
