@@ -1,10 +1,10 @@
 {
   "book_version": "2",
-  "status": "ACTIVE_OWNER_DIRECTED_UPGRADE_READY_FOR_MULTI_AGENT_QA",
+  "status": "READY_FOR_OWNER_FULL_READ_AFTER_MULTI_AGENT_QA",
   "base_book_version": "1",
   "base_book_version_path": "localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md",
   "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
-  "working_master_blob_sha": "5e663d99ca39316c4cd52d01b4d004ba014a0207",
+  "working_master_blob_sha": "9d1c30e31c944448afbd8a12509f521bb0c9e8b2",
   "structure": {
     "days": 24,
     "daily_elements": [
@@ -27,5 +27,6 @@
   "research_brief": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_OWNER_STYLE_AND_RESEARCH_BRIEF_2026-10-03.md",
   "title_locked": false,
   "recurring_labels_locked": false,
-  "publication_authorized": false
+  "publication_authorized": false,
+  "full_multi_agent_qa": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_FULL_MULTI_AGENT_QA_2026-10-03.md"
 }
