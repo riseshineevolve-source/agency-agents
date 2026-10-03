@@ -14,7 +14,7 @@ Luli: Lampki choinkowe mogą świecić za nas. Mamy dziś wolne.
 
 ### GRAMY: KROK BLIŻEJ, KROK DALEJ
 
-Stańcie w kółku. Zaczyna najstarsza osoba.
+Stańcie w kółku. Upewnijcie się, że macie wokół siebie miejsce na mały krok do przodu lub do tyłu. Zaczyna najstarsza osoba.
 
 Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z tym, co naprawdę myśli:
 
@@ -23,7 +23,7 @@ Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z t
 „Coś ważnego dla mnie, czego nie widać od razu, to…”
 „Jedna cecha, której czasem mi brakuje, to…”
 „Kiedy myślę «dom», pierwsze słowo, które przychodzi mi do głowy, to…”
-„Słowo, które ostatnio dodaje mi siły, to…”
+„Słowo, które ostatnio mi pomaga, to…”
 
 Nie trzeba wybierać najpoważniejszego zdania. Wybierzcie takie, na które macie dziś ochotę odpowiedzieć.
 
