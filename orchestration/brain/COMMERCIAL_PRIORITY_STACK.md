@@ -5,6 +5,35 @@ Owner decision: 2026-09-24
 Last execution-state sync: 2026-09-26
 Applies to: central RSE Orchestrator, Brain Sync, Day/Night/24-7 shift, marketing synchronization, Codex budget governor.
 
+
+## Current owner directive override — 2026-10-03 21:13 Europe/Warsaw
+
+This section supersedes older priority/sequencing wording below wherever it conflicts.
+
+**REVENUE ASAP / FINISH -> PUBLISH -> SELL**
+
+Current safe Central order:
+1. **Detective Academy EN** — close only concrete KDP-release blockers toward a KDP-ready owner gate. Do not reopen broad content/design.
+2. **Optical Animals** — Final20 remains owner-selected working art. While the delegated Optical writer is active, Central is monitor-only; otherwise only exact-identity masks/tokens -> 5 group seek-and-find pages -> GRAND all-20 challenge -> answer proof -> KDP assembly/preflight.
+3. **24 Gentle Steps to Christmas APP** — existing book/ebook are completed commercial assets. While the delegated Gentle writer is active, Central is monitor-only; otherwise follow the shortest EN-first, offline-first Android/Play-ready app path. Polish copy remains Polish-first re-authoring in the Polish Localization stream.
+4. **Marketing/distribution support** — when product lanes are gated, prioritize release-package truth, launch assets, Tiny Tool/interactive sampler specs, intent-page requirements and measurable distribution support rather than new platform architecture.
+
+**HOLD unless directly revenue-unblocking:** new product lines, broad Consumer Platform work, speculative architecture, broad AI Discovery expansion, World 01/02 enhancements beyond delegated closeout, Unstoppable expansion and unrelated refactors.
+
+**One writer per surface is mandatory.** Happy Me, Senior/Mind Bloom, Marketing and any explicitly delegated Optical/Gentle/World/Book-Factory lane are read-only centrally while their owner is active.
+
+### Live release truth for this override
+
+- Detective FIRST18 PR #23 is OPEN / DRAFT / MERGEABLE at `487ea222257dd0f0c1b9798880b1861142617281`; the candidate is NOT owner-frozen or print-released.
+- FIRST18 owner gates remain H01 doors, H02 physical spread parity and H03 print-proof/high-resolution path. Case 02+ remains fail-closed for Central until those gates are accepted or the owner explicitly overrides the freeze.
+- A newer delegated `feature/rse-book-factory-v2` lane exists at `25e386f20d530280ad7c23f94c5ae6f1cacc1225` and currently contains only its initialized project skeleton. Central may read/sync it but must not become a second writer. Its Case 02 proof target does not itself authorize Central to bypass the FIRST18 gate.
+- Optical PR #14 remains delegated at `f9e772571fe2dbd98fcceef1b32c7a7fe61a1960`.
+- Gentle Steps delegated app branch advanced to `82770d1667ecfa5661bad5d37d0876dd3422cf6e`, adding the owner-approved Christmas Family V1 visual lock; this new exact head requires its own verification evidence before any exact-head CI claim.
+- Marketing daily branch remains delegated at `98c1df29c99f45e8a462d974ce70641678b71787`.
+
+Detective PL is not cancelled; it remains downstream of explicit EN freeze in the Polish Localization stream, but it does not outrank Optical or the Gentle Steps APP for current Central safe-work.
+
+
 ## Priority order
 
 | Priority | Project | Business reason | Current execution rule |
