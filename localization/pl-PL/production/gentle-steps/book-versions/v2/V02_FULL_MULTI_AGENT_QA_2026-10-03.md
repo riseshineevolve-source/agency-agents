@@ -2,7 +2,7 @@
 
 Date: 2026-10-03  
 Status: **READY FOR OWNER FULL READ / NOT FROZEN / NOT PUBLICATION-LOCKED**  
-Working master blob: `ceb6ae2c729a99939496754eb294e92e81931f5c`
+Working master blob: `ab2032ae99a3815b785accb07c40ed40f7110b69`
 
 ## Editorial lenses
 
@@ -63,15 +63,17 @@ No imported mindfulness terminology is required.
 The game set now has distinct loops rather than repeated “do the same sequence again” mechanics.
 
 Notable upgrades:
-- Day 1: invisible ball plus changing-weight/size bonus.
+- Day 1: invisible ball retained and expanded with a changing-weight/size comedy round.
 - Day 6: lean mechanics clarified before step mechanics.
-- Day 7: chain gets a smooth final coordination challenge.
-- Day 13: red-carpet praise gives the participant control over style and spotlight.
+- Day 7: chain gets a smooth final coordination challenge and a non-awkward two-person ping-pong version.
+- Day 9: repeated gratitude-style reset replaced with a concrete 3-2-1 sensory reset.
+- Day 13: praise-heavy red-carpet game rebuilt as a style / movement / imitation challenge with opt-in spotlight.
 - Day 15: repetitive movement chain replaced with **LUSTRO BEZ LUSTRA**, including a no-leader cooperation round.
+- Day 18: group navigation replaced with safer pair-based trust navigation and a five-message challenge.
 - Day 19: silent shape-building finale added.
-- Day 20: cheering intensity chosen by the person in the tunnel; spotlight is optional.
+- Day 20: cheering intensity chosen by the person in the tunnel.
 - Day 21: coherent touch/no-touch signal system.
-- Day 22: three movement-response states clarified.
+- Day 22: workshop-like reflection movement replaced with **KTO TEŻ TAK MA?**, a lighter family-discovery game.
 - Day 24: non-singers can hum or keep rhythm.
 
 Games now cover laughter, imitation, memory, coordination, mirroring, non-verbal cooperation, support, shared timing, trust and playful failure.
@@ -87,8 +89,8 @@ The conversation surfaces are intentionally varied:
 - color of the day;
 - sounds of home;
 - what helps when we are overwhelmed;
-- invisible family work;
-- concrete thanks;
+- invisible family work and a direct thank-you;
+- what was harder than it looked;
 - what saved the day;
 - family catchphrase;
 - family strengths;
@@ -98,7 +100,7 @@ The conversation surfaces are intentionally varied:
 - memories;
 - small plans;
 - when we have energy together;
-- one-word admiration;
+- what others can rely on us for;
 - what home means;
 - a memory to keep from this December;
 - family sign;
@@ -150,9 +152,9 @@ Humor does not mock vulnerable answers, apology, affection or gratitude.
 
 ## Length / 10-minute promise
 
-Daily copy is approximately 200–355 words, average about 268 words.
+Daily copy remains in the short-session range, with the longest days concentrated in instruction-heavy cooperative games.
 
-The longest days are instruction-heavy Days 6, 21, 22 and 23. They remain designed for a short session because:
+The longest current days are Days 6, 18, 21, 22 and 23. They remain designed for a short session because:
 - reset is brief;
 - variants/challenges are optional where possible;
 - conversation answers may be one sentence;
