@@ -592,7 +592,7 @@ class GentleStepsPolishBookVersion02(unittest.TestCase):
         self.assertNotIn("—", daily)
         self.assertIn('### ZWOLNIJ: MINUTA BEZ „MUSZĘ”', daily)
         self.assertIn("### GRAMY: NIEWIDZIALNA PIŁKA", daily)
-        self.assertIn("Okulary też chcą dożyć świąt.", daily)
+        self.assertIn("Piłka jest niewidzialna, odruchy z WF-u niestety nie.", daily)
         self.assertIn("### MIĘDZY NAMI: CO W GRUDNIU LUBIĘ, A CZEGO MAM DOŚĆ?", daily)
         self.assertIn("Nie mam stroju na WF", daily)
         self.assertIn("drugą skarpetkę", daily)
