@@ -18,11 +18,11 @@ Stańcie w kółku. Zaczyna najstarsza osoba.
 
 Wybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z tym, co naprawdę myśli:
 
-„Najbardziej sobą czuję się, kiedy…”
-„Jedna prawdziwa rzecz o mnie dzisiaj to…”
-„Coś ważnego w moim życiu teraz, czego nie widać od razu, to…”
+„Najbardziej sobą jestem, kiedy…”
+„Dziś mogę o sobie powiedzieć, że…”
+„Coś ważnego dla mnie, czego nie widać od razu, to…”
 „Jedna cecha, której czasem mi brakuje, to…”
-„Słowo, które kojarzy mi się z domem, to…”
+„Kiedy myślę «dom», pierwsze słowo, które przychodzi mi do głowy, to…”
 „Słowo, które ostatnio dodaje mi siły, to…”
 
 Nie trzeba wybierać najpoważniejszego zdania. Wybierzcie takie, na które macie dziś ochotę odpowiedzieć.
