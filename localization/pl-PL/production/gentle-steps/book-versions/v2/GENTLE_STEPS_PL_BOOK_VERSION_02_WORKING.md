@@ -20,37 +20,47 @@ Current title candidates remain owner-gated:
 
 ## DZIEŃ 1
 
-### ZWOLNIJ: MINUTA, W KTÓREJ NIC NIE TRZEBA
+### ZWOLNIJ: MINUTA BEZ „MUSZĘ”
 
-Usiądźcie razem w kółku. Jeśli chcecie, lekko złapcie się za ręce albo usiądźcie tak, żeby stykać się ramionami.
+Grudzień ma wyjątkowy talent do dokładania słowa „muszę”. Muszę pamiętać, kupić, przynieść, oddać, wysłać, zdążyć. I najlepiej wszystko jeszcze dziś.
 
-Zamknijcie oczy. Przez jedną minutę niczego nie organizujemy. Nie sprawdzamy, co jeszcze zostało do zrobienia. Nie dopisujemy w głowie kolejnych punktów do listy zakupów ani nie układamy jutrzejszego planu.
+Usiądźcie razem tak, żeby było wam wygodnie. Dłonie połóżcie na kolanach albo po prostu oprzyjcie je luźno obok siebie.
 
-Oddychajcie zwyczajnie. Jeśli lista zadań przypomni o sobie, dobrze. Niech poczeka do końca minuty.
+Przez minutę oddychajcie zwyczajnie. Przy każdym wydechu pomyślcie tylko: „nie teraz”. Nie chodzi o to, że lista zadań zniknie. Przez te sześćdziesiąt sekund żadnym z jej punktów nie musicie się zajmować.
 
-Luli: Jeśli grudzień poradzi sobie bez nas przez sześćdziesiąt sekund, wpisuję to na listę sukcesów.
+Jeśli coś pilnego przypomni o sobie w głowie, zauważcie to i wróćcie do oddechu. Za minutę nadal będziecie wiedzieć, co trzeba zrobić.
 
-### GRAMY: PODAJ DALEJ
+Luli: Jeśli przez minutę niczego nie odhaczymy, grudzień prawdopodobnie przetrwa. Sprawdzamy.
+
+### GRAMY: NIEWIDZIALNA PIŁKA
 
 Stańcie w kółku.
 
 Zaczyna osoba, której imię zaczyna się na literę najbliżej końca alfabetu. Udaje, że trzyma niewidzialną piłkę.
 
-Wybiera jedną osobę, lekko „rzuca” piłkę w jej stronę i mówi jej jeden konkretny komplement. Nie „jesteś super”, tylko coś, co naprawdę w tej osobie lubicie albo ostatnio zauważyliście.
+Wybiera jedną osobę, lekko rzuca piłkę w jej stronę i mówi jej jeden konkretny komplement. Nie „jesteś super”, tylko coś, co naprawdę w tej osobie lubicie albo ostatnio zauważyliście.
 
-Osoba, która „łapie” piłkę, mówi „Dziękuję”, wybiera kolejną osobę i przekazuje piłkę dalej razem z następnym komplementem.
+Osoba, która łapie piłkę, mówi „Dziękuję”, wybiera kolejną osobę i przekazuje ją dalej razem z następnym komplementem.
 
-Kontynuujcie, aż każdy usłyszy przynajmniej jeden komplement. Jeśli macie ochotę, zagrajcie jeszcze jedną rundę.
+Kontynuujcie, aż każdy usłyszy przynajmniej jeden komplement.
 
-Nini: Tylko bez zamachu. To ma trafić w człowieka inaczej niż piłka na WF-ie.
+Jeśli macie jeszcze dwie minuty, zagrajcie rundę bonusową. Tym razem piłka za każdym rzutem może się zmienić. Może nagle ważyć tonę, być lekka jak balon, maleńka albo ogromna. Nie mówcie, jaka jest. Pokażcie to ruchem. Osoba łapiąca musi zareagować tak, jakby naprawdę dostała właśnie taką piłkę, a potem przekazać ją dalej z kolejnym komplementem.
 
-### MIĘDZY NAMI: JEDNO SŁOWO NA TERAZ
+Nini: Bez rozbiegu. To ma trafić do człowieka, nie w człowieka.
 
-Każdy mówi jedno słowo o tym, jak się teraz czuje.
+### MIĘDZY NAMI: CO W GRUDNIU LUBIĘ, A CZEGO MAM DOŚĆ?
 
-Tylko jedno. Nie trzeba niczego wyjaśniać ani uzasadniać.
+Każdy kończy dwa krótkie zdania:
 
-Luli: „Dobrze” jest bezpieczne. Spróbujcie jeszcze raz.
+„W grudniu lubię…”
+
+„W grudniu mam dość…”
+
+Można lubić światła, zapach mandarynek, kolędy albo wieczory pod kocem. Można mieć dość korków, kolejek, hałasu, sprawdzianów, zakupów albo ciągłego pytania, co jeszcze zostało do zrobienia.
+
+Nie trzeba niczego uzasadniać ani przekonywać innych do swojej odpowiedzi.
+
+Luli: Można kochać święta i mieć dość pytania „gdzie jest taśma?” o 22:40. Obie rzeczy mogą być prawdziwe.
 
 ---
 
@@ -58,15 +68,15 @@ Luli: „Dobrze” jest bezpieczne. Spróbujcie jeszcze raz.
 
 ### ZWOLNIJ: CZTERY NA SZEŚĆ
 
-Usiądźcie wygodnie. Przez minutę spróbujcie oddychać trochę wolniej niż zwykle.
+Niektóre grudniowe poranki zaczynają się od: „Gdzie jest mój zeszyt?”, „Dziś trzeba było coś przynieść”, „Nie mam stroju na WF” i „Czy ktoś widział drugą skarpetkę?”.
+
+Jeśli dzisiejszy poranek należał do tej kategorii, usiądźcie wygodnie na minutę.
 
 Przy wdechu policzcie spokojnie do czterech. Przy wydechu policzcie do sześciu.
 
-Nie nabierajcie powietrza na siłę i nie próbujcie zrobić idealnego oddechu. Jeśli taki rytm komuś nie odpowiada, wróćcie do własnego tempa.
+Nie nabierajcie powietrza na siłę. Jeśli taki rytm komuś nie odpowiada, wróćcie do własnego oddechu. Powtarzajcie przez minutę.
 
-Powtarzajcie ten rytm przez minutę. I tyle. Niczego więcej nie trzeba.
-
-Mimi: To chyba jedyne liczenie do sześciu w grudniu, którego nie próbujemy przyspieszyć.
+Mimi: Druga skarpetka może nadal być zaginiona. Przez tę minutę nie prowadzimy poszukiwań.
 
 ### GRAMY: ORKIESTRA BEZ PRÓBY
 
@@ -82,57 +92,55 @@ Jeśli chcecie ją wydłużyć, zróbcie kolejną rundę. Zachowajcie wszystko, 
 
 Dilo: Jeśli po trzecim razie nadal brzmi dziwnie, to już nie błąd. To styl.
 
-### MIĘDZY NAMI: CO LUBIMY W NASZEJ RODZINIE
+### MIĘDZY NAMI: CO LUBIMY W NASZEJ RODZINIE?
 
 Po kolei dokończcie zdanie:
 
 „W naszej rodzinie lubię to, że…”
 
-Nie szukajcie odpowiedzi do świątecznej kartki. Może chodzić o to, że ktoś zawsze robi herbatę, ktoś pamięta o wszystkim, przy stole jest głośno albo zawsze znajdzie się osoba, która rozśmieszy resztę w najgorszym momencie.
+Może chodzić o coś ważnego albo zupełnie zwyczajnego. O to, że ktoś pamięta, kto nie lubi pomidora. Że przy stole zawsze ktoś zaczyna się śmiać. Że kiedy rano wszystko idzie nie tak, jednak jakoś wychodzicie z domu.
 
-Wystarczy jedna prawdziwa rzecz.
+Wystarczy jedna prawdziwa rzecz od każdej osoby.
 
-Luli: „Bo jesteśmy fajni” zostawiamy jako odpowiedź awaryjną. Spróbujcie znaleźć coś tylko waszego.
+Luli: Bez rodzinnej gali. Jedno dobre zdanie wystarczy.
 
 ---
 
 ## DZIEŃ 3
 
-### ZWOLNIJ: MINUTA BEZ „MUSZĘ”
+### ZWOLNIJ: ZOSTAW TO W PRZEDPOKOJU
 
-Grudzień wyjątkowo lubi słowo „muszę”. Muszę pamiętać, kupić, przynieść, oddać, wysłać, zdążyć.
+Przez większość dnia każdy czegoś pilnuje. W szkole trzeba pamiętać, słuchać, zdążyć i nie zapomnieć. W pracy podobnie. Potem wszyscy spotykają się w przedpokoju razem z plecakami, torbami, głodem i całym tym dniem.
 
-Przez jedną minutę robimy sobie od niego przerwę.
+Zanim ruszycie dalej, stańcie albo usiądźcie na chwilę.
 
-Usiądźcie albo stańcie blisko siebie. Połóżcie jedną dłoń na klatce piersiowej. Drugą możecie położyć na ramieniu osoby obok, jeśli ma na to ochotę. Jeśli nie, trzymajcie obie dłonie przy sobie.
+Poczujcie obie stopy na podłodze. Opuśćcie ramiona. Zróbcie trzy spokojne oddechy. Jeśli jest wam wygodnie, niech wydech będzie trochę dłuższy niż wdech.
 
-Oddychajcie swobodnie. Nie próbujcie na siłę się uspokoić ani przestać myśleć. Przez tę minutę nie trzeba zajmować się następną rzeczą z listy.
+Pomyślcie o jednej rzeczy ze szkoły, pracy albo dzisiejszego dnia, której przez najbliższe dziesięć minut nie musicie dalej nosić w głowie.
 
-Nini: Czyli przez minutę nie muszę nawet pamiętać, co miałam zrobić po tej minucie? Podoba mi się.
+Alio: Plecak zostaje w przedpokoju. Kartkówka też. Przynajmniej na te dziesięć minut.
 
 ### GRAMY: STOP-KLATKA
 
-Zaczyna najmłodsza osoba. Podaje jedno hasło, na przykład: „pierwszy śnieg”, „choinka”, „spóźniony autobus”, „ktoś właśnie zobaczył prezent” albo coś zupełnie własnego.
+Zaczyna najmłodsza osoba. Podaje jedno hasło, a wszyscy natychmiast pokazują je pozą i zastygają bez ruchu na trzy sekundy.
 
-Wszyscy od razu pokazują hasło pozą i zastygają bez ruchu na trzy sekundy.
+Hasła mogą być zwyczajne albo kompletnie absurdalne: „pierwszy śnieg”, „spóźniony autobus”, „ktoś właśnie przypomniał sobie, że jutro trzeba coś przynieść do szkoły”, „prezent, którego nie wolno było znaleźć” albo coś własnego.
 
-Po trzech sekundach osoba, która podała hasło, wybiera kolejną osobę. To ona wymyśla następne hasło i zabawa zaczyna się od nowa.
+Po trzech sekundach osoba, która podała hasło, wybiera kolejną osobę. To ona wymyśla następne hasło.
 
 Zagrajcie kilka rund.
 
 Jeśli bawią się tylko dwie osoby, jedna robi pozę, a druga zgaduje, co przedstawia. Potem zamieniacie się rolami.
 
-Alio: Najlepsze są pozy, których potem nikt nie umie wyjaśnić. Wiem z doświadczenia.
+Alio: Najlepsze są te pozy, których po trzech sekundach nikt już nie umie wyjaśnić.
 
-### MIĘDZY NAMI: DROBIAZG DNIA
+### MIĘDZY NAMI: JEDNO SŁOWO NA TERAZ
 
-Każdy wybiera jeden moment z dzisiejszego dnia, który był po prostu dobry.
+Każdy mówi jedno słowo o tym, jak się teraz czuje.
 
-Nie musi być ważny ani wyjątkowy. Może to być coś śmiesznego, smacznego, wygodnego albo zupełnie zwyczajnego. Taka chwila, którą chętnie byście powtórzyli.
+Tylko jedno. Nie trzeba niczego wyjaśniać ani uzasadniać.
 
-Opowiedzcie o niej krótko.
-
-Mimi: Jeśli wygrały frytki, uznaję wynik bez dogrywki.
+Luli: Mamy cały język. Szkoda kończyć na „dobrze”.
 
 ---
 
@@ -152,7 +160,7 @@ Luli: Jedna rzecz naraz. Proszę to gdzieś zapisać, bo grudzień najwyraźniej
 
 ### GRAMY: GŁOSY W OBIEGU
 
-Zaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno krótkie, wesołe zdanie, na przykład: „Kto zjadł ostatnie pierniczki?”
+Zaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno krótkie zdanie, na przykład: „Kto zjadł ostatnie pierniczki?” albo „Kto widział ładowarkę?”.
 
 Następnie gra toczy się przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale zupełnie innym głosem.
 
@@ -172,7 +180,7 @@ Nie chodzi o ulubiony kolor. Chodzi o dzisiaj.
 
 Nie trzeba tłumaczyć wyboru. Jeśli właściwego koloru jeszcze nie ma, możecie go wymyślić.
 
-Dilo: Jeśli potrzebujecie koloru „wtorek o 17:40”, właśnie został oficjalnie dodany do palety.
+Dilo: Jeśli potrzebujecie koloru „czwartek o 17:40”, właśnie został oficjalnie dodany do palety.
 
 ---
 
@@ -180,13 +188,13 @@ Dilo: Jeśli potrzebujecie koloru „wtorek o 17:40”, właśnie został oficja
 
 ### ZWOLNIJ: TRZY WARSTWY DŹWIĘKU
 
-Zamknijcie oczy na minutę. Przez tę minutę nie dokładamy do domu żadnego nowego dźwięku.
+Bywają takie popołudnia, kiedy wszyscy mówią jednocześnie, coś pika, coś gra, ktoś czegoś szuka, a w tle jeszcze działa pralka.
 
-Najpierw posłuchajcie tego, co jest najbliżej was.
+Przez minutę nie dokładamy do tego żadnego nowego dźwięku.
 
-Potem sprawdźcie, co słychać dalej, za drzwiami, za oknem albo w innym pokoju.
+Zamknijcie oczy.
 
-Na końcu spróbujcie wyłapać najcichszy dźwięk, który dociera gdzieś z tła.
+Najpierw posłuchajcie tego, co jest najbliżej was. Potem sprawdźcie, co słychać dalej, za drzwiami, za oknem albo w innym pokoju. Na końcu spróbujcie wyłapać najcichszy dźwięk, który dociera gdzieś z tła.
 
 Nie zgadujcie, co to. Po prostu słuchajcie.
 
@@ -208,7 +216,7 @@ W rundzie finałowej nie ustalacie wcześniej, kto zacznie ani kto wypowie kolej
 
 Całą zabawę możecie też przeprowadzić w dwie osoby.
 
-Dilo: Tu nie ma VAR-u. Dwie osoby naraz? Wracamy do jedynki.
+Dilo: VAR potwierdza: dwie osoby naraz. Wynik skasowany, wracamy do jedynki.
 
 ### MIĘDZY NAMI: PO CZYM SŁYCHAĆ, ŻE TO DOM?
 
@@ -226,39 +234,41 @@ Dilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołów
 
 ### ZWOLNIJ: BEZ USTALANIA TEMPA
 
+Po szkole, pracy, korkach i zajęciach dodatkowych każdy wraca do domu w trochę innym tempie. Ktoś jest głodny. Ktoś chce opowiadać od progu. Ktoś najchętniej przez pięć minut nie odpowiadałby na żadne pytanie.
+
 Usiądźcie luźno w kółku.
 
 Dłonie połóżcie na kolanach. Jeśli wszyscy mają na to ochotę, możecie też lekko złapać się za ręce.
 
 Na początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę zwolnić i sprawdźcie, czy po chwili zaczniecie oddychać w podobnym tempie.
 
-Nie trzeba liczyć ani idealnie się zgrywać. Jeśli każdy po chwili znów oddycha po swojemu, wszystko jest w porządku.
+Nie trzeba liczyć ani idealnie się zgrywać. Jeśli po chwili każdy znów oddycha po swojemu, wszystko jest w porządku.
 
-Alio: I proszę, działa bez żadnej narady. Sam jestem zaskoczony.
+Alio: Czyli każdy po swojemu, a jednak trochę razem. Brzmi podejrzanie znajomo.
 
 ### GRAMY: WSZYSCY NARAZ
 
 Stańcie w jednym rzędzie, ramię w ramię.
 
-W rundzie pierwszej prowadzi najmłodsza osoba, ale wykonuje ruchy razem z pozostałymi. Wybiera jedno z czterech poleceń: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy wykonują ten sam ruch w tym samym czasie.
+W rundzie pierwszej stopy zostają na miejscu. Prowadzi najmłodsza osoba, ale wykonuje ruch razem z pozostałymi. Podaje jedno z czterech poleceń: „wychylenie do przodu”, „wychylenie do tyłu”, „wychylenie w lewo” albo „wychylenie w prawo”. Wszyscy lekko przechylają całe ciało w tę samą stronę i wracają do środka.
 
-Celem jest wykonanie co najmniej 10 wspólnych ruchów bez pomyłki. Jeśli coś się rozjedzie, ustawcie się ponownie i spróbujcie tej rundy od początku.
+Celem jest wykonanie co najmniej 10 wspólnych wychyleń bez pomyłki. Jeśli coś się rozjedzie, ustawcie się ponownie i zacznijcie tę rundę od początku.
 
-W rundzie drugiej prowadzenie przejmuje kolejna osoba według wieku. Tym razem podaje polecenia dotyczące małych kroków: krok do przodu, do tyłu, w prawo albo w lewo. Wszyscy wykonują je razem.
+W rundzie drugiej prowadzenie przejmuje kolejna osoba według wieku. Tym razem podaje polecenia dotyczące małych kroków: krok do przodu, do tyłu, w prawo albo w lewo. Wszyscy wykonują je w tym samym czasie.
 
-W tej rundzie spróbujcie wykonać co najmniej 15 kroków bez pomyłki.
+Spróbujcie zrobić co najmniej 15 kroków bez pomyłki.
 
-Na koniec prowadzenie przejmuje najstarsza osoba. Może łączyć oba rodzaje ruchów, prosić o wychylenie w wybraną stronę albo o jeden czy kilka małych kroków. Może też zmieniać tempo.
+Na koniec prowadzenie przejmuje najstarsza osoba. Może mieszać oba rodzaje ruchów, zmieniać tempo i prosić o jeden albo kilka małych kroków.
 
 Grajcie tak długo, jak macie ochotę. Wszystkie ruchy powinny być na tyle małe, żeby nikt nie tracił równowagi.
 
-Luli: Jeśli połowa rodziny idzie w lewo, a druga w prawo, nie ogłaszamy rozłamu. Próbujemy jeszcze raz.
+Luli: Byłoby łatwiej, gdyby lewo i prawo nie zamieniały się miejscami dokładnie wtedy, kiedy ktoś patrzy.
 
 ### MIĘDZY NAMI: CO DOBRZE USŁYSZEĆ?
 
 Każdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy ma już dość.
 
-Nie musi to być nic wielkiego. Czasem wystarczy:
+Czasem wystarczy:
 „Ja się tym zajmę”.
 „Został dla ciebie kawałek”.
 „Nie musisz teraz odpowiadać”.
@@ -266,7 +276,7 @@ Nie musi to być nic wielkiego. Czasem wystarczy:
 
 Wybierzcie coś, co naprawdę działa w waszym domu.
 
-Luli: Dobre zdanie nie musi nadawać się na kubek. Ma działać w prawdziwy wtorek.
+Luli: Czasem najlepsze zdanie dnia to „Ja to zrobię”. I nie trzeba go oprawiać w ramkę.
 
 ---
 
@@ -274,11 +284,13 @@ Luli: Dobre zdanie nie musi nadawać się na kubek. Ma działać w prawdziwy wto
 
 ### ZWOLNIJ: PODŁOGA ROBI SWOJE
 
+Wieczorem zwykle dzieje się coś absurdalnego. Każdy jest już zmęczony, ale nadal czekają naczynia, plecaki na jutro, rzeczy do znalezienia i co najmniej jedna osoba, która naprawdę nie ma już ochoty niczego robić.
+
 Usiądźcie albo połóżcie się obok siebie tak, żeby było wam wygodnie.
 
-Przez chwilę pozwólcie rękom, nogom i plecom naprawdę oprzeć się na podłodze. Nie trzeba niczego napinać ani utrzymywać w określonej pozycji.
+Przez chwilę pozwólcie rękom, nogom i plecom naprawdę oprzeć się na podłodze. Zwróćcie uwagę, gdzie ciało styka się z podłożem, i pozwólcie, żeby przez minutę to podłoga robiła większość pracy.
 
-Zwróćcie uwagę, gdzie ciało styka się z podłogą. Przez chwilę pozwólcie podłodze przejąć ciężar ciała.
+Oddychajcie zwyczajnie. Niczego nie trzeba napinać, poprawiać ani utrzymywać.
 
 Dilo: Dziś trenuję z grawitacją. Ona robi większość pracy.
 
@@ -286,7 +298,7 @@ Dilo: Dziś trenuję z grawitacją. Ona robi większość pracy.
 
 Stańcie albo usiądźcie w kółku.
 
-W tej grze niczego nie tłumaczycie. Sygnał ma przejść przez całą rodzinę i wrócić do początku.
+Sygnał ma przejść przez całą rodzinę i wrócić do początku.
 
 Zaczyna osoba z najkrótszymi włosami. Wybiera dowolną osobę i uśmiecha się do niej możliwie szeroko.
 
@@ -300,7 +312,7 @@ W rundzie czwartej możecie przekazywać krótki uścisk, ale tylko wtedy, gdy o
 
 Jeśli bawią się tylko dwie osoby, przez 30 sekund patrzcie na siebie i się uśmiechajcie. Potem, jeśli obie osoby chcą, możecie przytulić się przez kolejne 30 sekund.
 
-Nini: Jeśli komuś wyjdzie mina bardziej podejrzliwa niż radosna, przyjmujemy. To grudzień.
+Nini: Uścisk ma być krótki. Żebra nie biorą udziału w tej grze.
 
 ### MIĘDZY NAMI: KTO TO ZROBIŁ, CHOCIAŻ PRAWIE NIKT NIE ZAUWAŻYŁ?
 
@@ -310,7 +322,7 @@ Każdy wybiera jedną osobę z rodziny, która ostatnio zrobiła coś pomocnego 
 
 Powiedzcie konkretnie, co zauważyliście.
 
-Nini: Skoro sami się nie chwalą, ktoś musi. Dziś padło na nas.
+Nini: Dziś śledztwo w sprawie rzeczy, które podobno zrobiły się same.
 
 ---
 
