@@ -228,7 +228,7 @@ Może to być czyjś śmiech, klucz w zamku, pies biegnący po podłodze, czajni
 
 Wystarczy po jednym dźwięku.
 
-Dilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołówka.
+Alio: Dźwięk otwieranej lodówki. Nie trzeba nawet patrzeć, żeby wiedzieć, że ktoś poszedł sprawdzić sytuację.
 
 ---
 
@@ -452,7 +452,7 @@ Nie slogan na uroczystość i nie mądrość na kubek. Może to być wasza zasad
 
 Wybierzcie jedno zdanie, które chcielibyście zachować jako rodzinne hasło.
 
-Dilo: Tylko nie ustawiajcie go do Wi-Fi. Rodzinne hasło nie potrzebuje wielkiej litery, cyfry i znaku specjalnego.
+Nini: Jeśli hasło brzmi „gdzie są klucze?”, przyjmuję zgłoszenie, ale spróbujcie jeszcze raz.
 
 ---
 
@@ -569,21 +569,19 @@ Dilo: Tryb 0,25x. Mój mózg właśnie szuka przycisku „przyspiesz”.
 
 ### GRAMY: CZERWONY DYWAN
 
-Dwie osoby stają naprzeciwko siebie i unoszą ręce, tworząc z nich „bramę”.
+Dwie osoby stają naprzeciwko siebie i unoszą ręce, tworząc z nich bramę.
 
-Osoba, która przechodzi, wybiera styl wejścia: zwyczajnie, w bardzo poważnym zwolnionym tempie albo tak, jakby właśnie wchodziła na największą premierę roku.
+Osoba, która przechodzi, wybiera styl wejścia. Może iść jak na wielką premierę, w przesadnym zwolnionym tempie, jak ktoś na bardzo śliskim chodniku albo wymyślić własną wersję.
 
-W czasie przejścia pozostali mówią po jednym krótkim, prawdziwym zdaniu o czymś, co w tej osobie lubią albo cenią.
+Pozostali robią oprawę: klaszczą, udają dźwięki aparatów albo zachowują absolutnie przesadną powagę.
 
-Nie trzeba wygłaszać mowy. Jedno zdanie wystarczy. Spróbujcie też nie powtarzać rzeczy, które ktoś już powiedział wcześniej. Dzięki temu trzeba trochę dokładniej przyjrzeć się sobie nawzajem.
+Na końcu przejścia osoba zatrzymuje się w jednej pozie. Wszyscy mają trzy sekundy, żeby ją skopiować.
 
-Jeśli ktoś nie ma ochoty być przez chwilę w centrum uwagi, może wybrać wersję bez słów. Wtedy pozostali robią tylko cichy gest uznania, na przykład kciuk w górę albo krótkie klaśnięcie.
+Potem zmieńcie role. Kontynuujcie, aż każdy, kto chce, przejdzie przez bramę.
 
-Po przejściu zmieńcie role. Kontynuujcie, aż każdy, kto chce, przejdzie przez bramę.
+Jeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła jako bramę. Jedna osoba przechodzi, druga robi oprawę i kopiuje finałową pozę. Potem zamieniacie się rolami.
 
-Jeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła tak, żeby tworzyły umowną bramę. Przechodźcie przez nią po kolei i podczas przejścia mówcie sobie nawzajem kilka życzliwych słów.
-
-Mimi: Fotoreporterów nie będzie. Na szczęście.
+Mimi: Fotoreporterów nie będzie. Poziom wejścia nadal może być nieuzasadnienie wysoki.
 
 ### MIĘDZY NAMI: CZEGO NIE DA SIĘ KUPIĆ?
 
@@ -701,7 +699,7 @@ Powtórzcie kilka razy we własnym, wygodnym rytmie. Nie trzeba idealnie się zg
 
 Nini: Ręce znają choreografię. Reszta rodziny może się jeszcze zastanowić.
 
-### GRAMY: ORKIESTRA NA ZNAK
+### GRAMY: DYRYGENT BEZ BATUTY
 
 Każdy wybiera jeden krótki dźwięk, który będzie jego „instrumentem”, na przykład „la-la”, „bum”, „tra-ta-ta” albo własny wymyślony odgłos.
 
@@ -807,15 +805,19 @@ Jeśli jest was więcej, pary mogą grać kolejno albo równocześnie w osobnych
 
 Mimi: „No tam, trochę bardziej w tę stronę” właśnie straciło licencję na nawigowanie.
 
-### MIĘDZY NAMI: SŁOWO, KTÓRE DO CIEBIE PASUJE
+### MIĘDZY NAMI: W CZYM MOGĘ NA CIEBIE LICZYĆ?
 
-Zaczyna dowolna osoba. Zwraca się do osoby siedzącej po prawej stronie i mówi jedno słowo, które opisuje cechę tej osoby, którą podziwia albo szczególnie lubi.
+Zaczyna dowolna osoba. Zwraca się do osoby siedzącej po prawej stronie i kończy zdanie:
+
+„Na ciebie mogę liczyć, kiedy…”
+
+Podajcie jeden konkretny przykład. Może chodzić o rozśmieszenie, pomoc w zadaniu, znalezienie czegoś, rozmowę, obronę ostatniego kawałka pizzy albo zwyczajne bycie obok.
 
 Potem ta osoba zwraca się do kolejnej osoby po swojej prawej stronie.
 
-Kontynuujcie wokół koła, aż każdy usłyszy jedno dobre słowo.
+Kontynuujcie wokół koła, aż każdy usłyszy jedną rzecz, w której inni naprawdę na niego liczą.
 
-Nini: Jedno słowo. Nie próbujcie przemycić drugiego po przecinku.
+Nini: Nie wpisujcie „we wszystkim”. Nawet superbohaterowie mają wolne.
 
 ---
 
@@ -1007,7 +1009,7 @@ Możecie zacząć od słów:
 
 „Ten miesiąc pokazał mi, że…”
 
-Mimi: Życie nie robi przerwy świątecznej. Niestety ma też zadania domowe.
+Luli: Jeśli odkryliście tylko, że ktoś najlepiej rozmawia po 21:00, to też jest cenna informacja.
 
 ---
 
