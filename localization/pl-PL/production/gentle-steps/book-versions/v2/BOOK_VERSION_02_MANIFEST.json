@@ -1,10 +1,10 @@
 {
   "book_version": "2",
-  "status": "READY_FOR_OWNER_FULL_READ_AFTER_MULTI_AGENT_QA",
+  "status": "READY_FOR_OWNER_FULL_READ_AFTER_OWNER_STYLE_UPGRADE_QA",
   "base_book_version": "1",
   "base_book_version_path": "localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md",
   "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
-  "working_master_blob_sha": "ceb6ae2c729a99939496754eb294e92e81931f5c",
+  "working_master_blob_sha": "ab2032ae99a3815b785accb07c40ed40f7110b69",
   "structure": {
     "days": 24,
     "daily_elements": [
@@ -28,5 +28,15 @@
   "title_locked": false,
   "recurring_labels_locked": false,
   "publication_authorized": false,
-  "full_multi_agent_qa": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_FULL_MULTI_AGENT_QA_2026-10-03.md"
+  "full_multi_agent_qa": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_FULL_MULTI_AGENT_QA_2026-10-03.md",
+  "latest_owner_style_upgrade": {
+    "day1_rebuilt": true,
+    "real_december_situations_bookwide": true,
+    "sensory_reset_day9": true,
+    "mirror_game_day15": true,
+    "trust_navigation_day18": true,
+    "discovery_game_day22": true,
+    "low_pressure_apology_day23": true,
+    "non_singer_option_day24": true
+  }
 }
