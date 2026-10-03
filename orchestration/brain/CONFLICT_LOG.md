@@ -121,3 +121,18 @@ Current handling: do not manufacture a PASS from text-length estimates. Resume t
 ### Missing/publication masters
 Content recovery queue may become stale as new Library/Drive files are recovered.
 Current handling: update queue whenever a master is verified.
+
+### Detective legacy execution path vs Book Factory v2 — reconciled 2026-10-03
+Older central registry prose still described the active Detective production path as
+`feature/detective-book-factory` / PR #571. Live repository inspection shows the
+current production architecture has moved to `feature/rse-book-factory-v2`, where
+Phase 0 source convergence and Phase 1 fixed-page engine are PASS and Phase 2 Case 02
+proof is active.
+
+Current truth: `feature/rse-book-factory-v2` is the active Book Factory execution
+branch. The legacy factory remains a migration/source-validation dependency and PR
+#571 must not be merged merely because v2 is active. English is not frozen and KDP
+publication remains owner-gated.
+
+Durable reconciliation checkpoint:
+`orchestration/brain/checkpoints/2026-10-03-rse-book-factory-v2-overnight-owner-bundle.md`.

@@ -235,3 +235,22 @@ detective_owner_review_71baf0c:
     file: tools/detective-book-factory/content/spatial_character_aliases.yml
     direction: B_BRANDED_ACADEMY_ADVENTURE
   english_freeze_authorized: false
+
+
+detective_book_factory_v2:
+  reconciled_at: 2026-10-03T23:08:00+02:00
+  repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+  branch: feature/rse-book-factory-v2
+  current_head: 3fa4fd586d322efe09ae478c82d0368e7862fe31
+  verified_engine_head: d311d1da30a9c6f141c8d0d1b77b0087f4722bad
+  phase0_source_convergence: PASS
+  phase1_fixed_page_engine: PASS
+  phase2_case02_proof: ACTIVE
+  owner_gate: case02_visual_review
+  batch_cases_03_30_authorized: false
+  english_frozen: false
+  kdp_publication_authorized: false
+  control_file: tools/rse-book-factory-v2/CODEX_CONTROL.md
+  first18_current_owner_baseline: tools/rse-book-factory-v2/control/FIRST18_CURRENT_OWNER_VISUAL_BASELINE_2026-10-03.md
+  first18_bundle_sha256: 06058bc25e53d3234fc5d671c5bcc8385b52081e4ff9c79f52c074ecba359a33
+  central_checkpoint: orchestration/brain/checkpoints/2026-10-03-rse-book-factory-v2-overnight-owner-bundle.md
