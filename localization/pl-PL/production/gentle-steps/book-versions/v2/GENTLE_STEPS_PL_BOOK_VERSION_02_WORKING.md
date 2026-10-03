@@ -286,7 +286,7 @@ Luli: „Ja to zrobię” ma w grudniu wartość porównywalną z wolnym miejsce
 
 ### ZWOLNIJ: PODŁOGA ROBI SWOJE
 
-Wieczorem zwykle dzieje się coś absurdalnego. Każdy jest już zmęczony, ale nadal czekają naczynia, plecaki na jutro, rzeczy do znalezienia i co najmniej jedna osoba, która nie ma już ochoty niczego robić.
+Wieczorem zwykle dzieje się coś absurdalnego. Każdy jest już zmęczony, ale nadal czekają naczynia, plecaki na jutro i rzeczy do znalezienia. Dziwnym zbiegiem okoliczności właśnie wtedy nikt nie zauważa zmywarki.
 
 Usiądźcie albo połóżcie się obok siebie tak, żeby było wam wygodnie.
 
