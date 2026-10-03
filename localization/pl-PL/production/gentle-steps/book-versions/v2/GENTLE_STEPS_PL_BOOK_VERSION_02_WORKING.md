@@ -342,7 +342,7 @@ Przez chwilę spróbujcie wyczuć własny puls. Nie trzeba go liczyć, porównyw
 
 Zostańcie tak przez minutę. W tym czasie niczego nie trzeba planować ani kończyć.
 
-Nini: Serce działa bez przypomnień. Miło, że chociaż ktoś dziś pamięta o wszystkim.
+Nini: Serce działa bez przypomnień. W grudniu to już wynik.
 
 ### GRAMY: HISTORIA, KTÓREJ NIKT NIE ZAPLANOWAŁ
 
@@ -366,7 +366,7 @@ Może chodzić o sprawdzian, rozmowę, czekanie, skupienie się, bycie miłym mi
 
 Nie róbcie z tego wielkiej historii. Jedno zdanie wystarczy. Jeśli dziś nie macie ochoty o tym mówić, możecie powiedzieć „pas”.
 
-Mimi: Nie wszystko, co męczy, wygląda jak maraton. I całe szczęście, bo nie mamy medali.
+Mimi: Czasem samo dotarcie do wieczora powinno mieć własną kategorię osiągnięć.
 
 ---
 
@@ -428,7 +428,7 @@ Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Ka�
 
 Nie ustalajcie, co będzie za chwilę. Przez moment posiedźcie razem.
 
-Alio: Nikt niczego nie ustala i jakoś działa. Nie mówcie dorosłym, że można.
+Alio: Nikt niczego nie ustala i jakoś działa. Proszę nie psuć tego pytaniami.
 
 ### GRAMY: RODZINNA MASZYNA
 
@@ -476,7 +476,7 @@ Jeśli tak, spróbujcie trochę odpuścić. Nie trzeba niczego osiągać ani spr
 
 Na koniec lekko się uśmiechnijcie, bez słów i bez żadnego szczególnego powodu.
 
-Nini: Szczęka ma wolne. Nawet jeśli ktoś znowu zapyta, gdzie jest ładowarka.
+Nini: Szczęka ma wolne. Nawet jeśli ktoś właśnie przypomniał sobie o czymś na jutro.
 
 ### GRAMY: TRZY RZECZY NARAZ
 
