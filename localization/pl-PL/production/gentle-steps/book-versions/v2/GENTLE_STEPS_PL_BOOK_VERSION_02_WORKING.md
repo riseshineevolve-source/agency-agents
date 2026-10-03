@@ -883,7 +883,7 @@ Przed wejściem wybiera tryb kibicowania: cicho, normalnie albo „stadion”.
 
 Powoli przechodzi przez środek tunelu. Pozostali dopasowują się do wybranego trybu: klaszczą, nucą albo rytmicznie powtarzają jej imię.
 
-Kiedy pierwsza osoba przejdzie na koniec, przez tunel przechodzi kolejna. Kontynuujcie, aż każdy będzie miał swoją rundę.
+Kiedy pierwsza osoba przejdzie na koniec, przez tunel przechodzi kolejna. Kontynuujcie, aż każdy, kto ma ochotę, będzie miał swoją rundę. Kto woli zostać po bokach i kibicować, też bierze udział.
 
 W dwie osoby ustawcie dwa krzesła tak, żeby tworzyły bezpieczne wejście. Jedna osoba przechodzi między nimi, a druga jej kibicuje. Potem zamieniacie się rolami.
 
