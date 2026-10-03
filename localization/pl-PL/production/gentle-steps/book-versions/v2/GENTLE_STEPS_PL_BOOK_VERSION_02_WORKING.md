@@ -354,7 +354,7 @@ Każda następna osoba powtarza całą historię od początku, zachowując kolej
 
 Zróbcie dwa albo trzy pełne okrążenia. Historia ma być krótka. Nie musi mieć sensu i zwykle właśnie wtedy robi się ciekawie.
 
-Kiedy historia będzie gotowa, opowiedzcie ją jeszcze raz od początku. Tym razem każde dodane przez siebie słowo zastępujecie ruchem albo dźwiękiem, który do niego pasuje.
+Kiedy historia będzie gotowa, odtwórzcie ją jeszcze raz od początku, ale bez używania tych słów. Każde słowo, które wcześniej dodaliście, zastępujecie jednym ruchem albo dźwiękiem. Zachowajcie kolejność oryginalnej historii.
 
 Alio: Jeśli po drugim okrążeniu fabuła się rozpadła, proszę niczego nie naprawiać. Tak miało być.
 
@@ -396,7 +396,7 @@ Każdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie wy
 
 Kiedy wszyscy trzymają już po dwie dłonie, powstanie splątany węzeł.
 
-Waszym zadaniem jest rozplątać się powoli tak, żeby na końcu powstało jedno otwarte koło. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie, ale przez całą zabawę nie puszczajcie żadnej dłoni.
+Waszym zadaniem jest rozplątać się powoli tak, żeby na końcu powstało jedno otwarte koło. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie. Nie puszczajcie dłoni, chyba że komuś robi się niewygodnie albo coś zaczyna boleć. Wtedy przerywacie i zaczynacie od nowa.
 
 Jeśli bawią się tylko dwie osoby, stańcie naprzeciwko siebie, skrzyżujcie ręce i złapcie się za dłonie. Następnie spróbujcie powoli się odkręcić, nie puszczając rąk i nie tracąc kontaktu wzrokowego.
 
@@ -657,7 +657,7 @@ Alio: Najspokojniejsza kolejka górska świata. I nawet nie trzeba stać w kolej
 
 ### GRAMY: LUSTRO BEZ LUSTRA
 
-Dobierzcie się w pary. Jeśli jest was nieparzysta liczba, jedna grupa może być trzyosobowa.
+Dobierzcie się w pary. Jeśli jest was nieparzysta liczba, w jednej grupie będą trzy osoby. Jedna prowadzi, a pozostałe dwie są lustrami. Przy zmianie ról po prostu kolejno przejmujecie prowadzenie.
 
 W każdej parze zaczyna osoba, która ma na sobie więcej czerwonego. Staje naprzeciwko drugiej osoby i przez 20 sekund wykonuje powolne, bezpieczne ruchy rękami, głową i górną częścią ciała. Druga osoba jest lustrem i próbuje odwzorować wszystko dokładnie w tym samym momencie.
 
@@ -841,7 +841,7 @@ Kiedy kształt jest gotowy, prowadzenie przejmuje kolejna osoba, idąc przeciwni
 
 Zagrajcie kilka rund.
 
-Na koniec wybierzcie jeden kształt i spróbujcie ustawić się w niego bez mówienia. Możecie patrzeć na siebie, pokazywać i poprawiać ustawienie, ale żadnych słów.
+Na koniec wybierzcie jeden kształt i spróbujcie ustawić się w niego bez mówienia. Możecie patrzeć na siebie, pokazywać i poprawiać ustawienie, ale żadnych słów. Bez podnoszenia się nawzajem i bez wchodzenia na meble.
 
 W dwie osoby jedna osoba podaje kształt, a potem obie ustawiają się tak, żeby razem go pokazać. Następnie zamieniacie się rolami.
 
