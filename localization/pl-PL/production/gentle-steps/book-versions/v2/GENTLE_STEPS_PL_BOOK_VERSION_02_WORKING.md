@@ -466,7 +466,7 @@ Nini: Jeśli pierwsze hasło brzmi „gdzie są klucze?”, rozumiem. Ale dajcie
 
 ### ZWOLNIJ: CZOŁO I SZCZĘKA MAJĄ WOLNE
 
-Jeśli dziś kilka razy padło „pospiesz się”, „to moja kolej”, „gdzie to jest?” albo „mówiłem, żebyś pamiętał”, jest spora szansa, że twarz nadal trochę o tym wie.
+Jeśli dziś kilka razy padło „pospiesz się”, „to moja kolej”, „gdzie to jest?” albo „przecież mieliśmy o tym pamiętać”, jest spora szansa, że twarz nadal trochę o tym wie.
 
 Usiądźcie blisko siebie i zamknijcie oczy.
 
