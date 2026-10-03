@@ -535,15 +535,15 @@ W kolejnej rundzie rolę osoby wybierającej przejmuje następna osoba, idąc pr
 
 Luli: Pięć słów. Nie sześć. Tak, liczę.
 
-### MIĘDZY NAMI: CO DOBREGO ZAUWAŻYLIŚMY?
+### MIĘDZY NAMI: CO CI OSTATNIO WYSZŁO?
 
-Pierwsza osoba zwraca się do osoby siedzącej po lewej stronie.
+Każdy mówi jedną rzecz, która ostatnio mu wyszła albo z której jest zadowolony.
 
-Mówi o jednej konkretnej, życzliwej rzeczy, którą ta osoba ostatnio zrobiła. Nie „jesteś miły”, tylko co dokładnie zauważyliście.
+Nie musi to być nagroda, świetna ocena ani wielkie osiągnięcie. Może wreszcie coś zrozumieliście, zrobiliście coś mimo stresu, komuś pomogliście, odważyliście się spróbować albo po prostu doprowadziliście do końca coś, co długo czekało.
 
-Następnie ta osoba zwraca się do osoby po swojej lewej stronie. Kontynuujcie zgodnie z ruchem wskazówek zegara, aż każdy usłyszy jeden konkretny przykład.
+Reszta przez chwilę tylko słucha. Bez poprawiania i bez „mogłeś jeszcze…”.
 
-Mimi: Życzliwość mnoży się szybciej niż pranie. Prawie.
+Nini: Dziś wolno się pochwalić. Skromność ma pięć minut przerwy.
 
 ---
 
@@ -831,6 +831,8 @@ Kiedy kształt jest gotowy, prowadzenie przejmuje kolejna osoba, idąc przeciwni
 
 Zagrajcie kilka rund.
 
+Na koniec wybierzcie jeden kształt i spróbujcie ustawić się w niego bez mówienia. Możecie patrzeć na siebie, pokazywać i poprawiać ustawienie, ale żadnych słów.
+
 W dwie osoby jedna osoba podaje kształt, a potem obie ustawiają się tak, żeby razem go pokazać. Następnie zamieniacie się rolami.
 
 Dilo: Szybciej. Geometria nie będzie na nas czekać.
@@ -879,15 +881,15 @@ W dwie osoby ustawcie dwa krzesła tak, żeby tworzyły bezpieczne wejście. Jed
 
 Nini: Jeśli będzie trochę za głośno, uznaję, że właśnie o to chodziło.
 
-### MIĘDZY NAMI: PAMIĘTASZ, JAK…
+### MIĘDZY NAMI: CO CHCESZ ZAPAMIĘTAĆ Z TEGO GRUDNIA?
 
-Każdy przypomina sobie przynajmniej jeden przyjemny albo zabawny rodzinny moment i zaczyna opowieść od słów:
+Każdy wybiera jeden moment z tego grudnia, który chciałby zachować w pamięci.
 
-„Pamiętasz, jak…”
+Nie musi być wyjątkowy. Może to być droga do domu, głupi żart przy kolacji, pierwszy śnieg, wspólne zakupy, ktoś zasypiający na kanapie albo chwila, w której wszyscy śmiali się z czegoś zupełnie bez sensu.
 
-Nie szukajcie największego wydarzenia roku. Najlepsze rodzinne historie bardzo często zaczynają się od czegoś, co wtedy wydawało się kompletnie zwyczajne.
+Powiedzcie krótko, co to było i dlaczego właśnie ten moment warto zatrzymać.
 
-Nini: „Pamiętasz, jak zniknęło ostatnie ciastko?” To jest materiał archiwalny i wymaga ponownego otwarcia sprawy.
+Nini: Tak, zjedzony na stojąco pierniczek też może przejść do historii.
 
 ---
 
