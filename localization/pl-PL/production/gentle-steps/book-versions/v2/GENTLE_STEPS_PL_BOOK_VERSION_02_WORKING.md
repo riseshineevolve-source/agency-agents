@@ -330,13 +330,15 @@ Nini: Dziś śledztwo w sprawie rzeczy, które podobno zrobiły się same.
 
 ### ZWOLNIJ: PULS
 
+Po dniu, w którym trzeba było pamiętać o tylu rzeczach, ciało przez cały czas robiło swoją robotę bez dodatkowych instrukcji.
+
 Usiądźcie wygodnie i połóżcie dłoń na klatce piersiowej.
 
 Przez chwilę spróbujcie wyczuć własny puls. Nie trzeba go liczyć, porównywać ani sprawdzać, czy jest taki sam jak u kogoś obok.
 
 Zostańcie tak przez minutę. W tym czasie niczego nie trzeba planować ani kończyć.
 
-Nini: Serce pracuje bez przerwy. Ja po tej minucie też poproszę o chwilę wolnego.
+Nini: Serce pracuje bez przypomnień. Jedyny członek rodziny, którego nie trzeba wołać drugi raz.
 
 ### GRAMY: HISTORIA, KTÓREJ NIKT NIE ZAPLANOWAŁ
 
@@ -370,6 +372,8 @@ Luli: „Dzięki za wszystko” jest miłe. Ale dziś poproszę o konkret.
 
 ### ZWOLNIJ: JEDNA DOBRA RZECZ Z DZISIAJ
 
+Jeśli dzisiejszy dzień był kiepski, nie będziemy go na siłę poprawiać. Szukamy tylko jednej chwili, która była choć trochę dobra.
+
 Usiądźcie razem i zróbcie kilka spokojnych, niewymuszonych oddechów.
 
 Przy wdechu przypomnijcie sobie jedną konkretną dobrą rzecz z dzisiejszego dnia. Może ktoś wam pomógł, coś się udało albo po prostu przez chwilę było dobrze.
@@ -378,7 +382,7 @@ Przy wydechu opuśćcie ramiona.
 
 Nie trzeba robić listy wdzięczności ani szukać wielkiego sensu. Jedna rzecz wystarczy.
 
-Luli: Jeden konkret. Roczne podsumowanie zostawiamy na kiedy indziej.
+Luli: Jedna dobra rzecz wystarczy. Dzień nie musi nagle dostać pięciu gwiazdek.
 
 ### GRAMY: ROZPLĄCZCIE TO
 
@@ -410,13 +414,15 @@ Luli: Jeśli ktoś zostawił wam ostatnie ciastko, nie nazywajmy tego drobiazgie
 
 ### ZWOLNIJ: RAMIĘ W RAMIĘ, BEZ PLANU
 
+Wieczorem często wszyscy są już w domu, ale każdy jeszcze gdzieś pędzi. Ktoś kończy lekcje, ktoś odpowiada na wiadomość, ktoś myśli o kolacji, a ktoś marzy tylko o tym, żeby nikt niczego od niego nie chciał.
+
 Usiądźcie blisko siebie, tak żeby stykać się ramionami.
 
 Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Każdy oddycha we własnym tempie.
 
 Nie ustalajcie, co będzie za chwilę. Przez moment po prostu posiedźcie razem.
 
-Alio: Nikt nie prowadzi. Nikt nie pyta „co dalej?” Podejrzanie przyjemne.
+Alio: To chyba jedyna narada, na której nikt nie musi nic powiedzieć.
 
 ### GRAMY: RODZINNA MASZYNA
 
@@ -448,6 +454,8 @@ Dilo: Tylko nie ustawiajcie go do Wi-Fi. Rodzinne hasło nie potrzebuje wielkiej
 
 ### ZWOLNIJ: CZOŁO I SZCZĘKA MAJĄ WOLNE
 
+Jeśli dziś kilka razy padło „pospiesz się”, „to moja kolej”, „gdzie to jest?” albo „mówiłem, żebyś pamiętał”, jest spora szansa, że twarz nadal trochę o tym wie.
+
 Usiądźcie blisko siebie i zamknijcie oczy.
 
 Przez kilka spokojnych oddechów sprawdźcie, czy nie marszczycie czoła i nie zaciskacie szczęki.
@@ -456,7 +464,7 @@ Jeśli tak, spróbujcie trochę odpuścić. Nie trzeba niczego osiągać ani spr
 
 Na koniec lekko się uśmiechnijcie, bez słów i bez żadnego szczególnego powodu.
 
-Nini: Tak, szczęka też może mieć chwilę wolnego.
+Nini: Szczęka też może mieć wolne. Rodzinnej logistyki dziś już nie prowadzi.
 
 ### GRAMY: TRZY RZECZY NARAZ
 
@@ -496,6 +504,8 @@ Alio: Jeśli odpowiedź brzmi „znajdowanie rzeczy, których nikt inny nie widz
 
 ### ZWOLNIJ: JEDNO SPOJRZENIE
 
+Można spędzić pół dnia w jednym domu, mijać się w kuchni i przedpokoju, a prawie na siebie nie spojrzeć.
+
 Usiądźcie razem i weźcie jeden spokojny oddech.
 
 Otwórzcie oczy i przez kilka sekund popatrzcie na osoby obok.
@@ -504,7 +514,7 @@ Pomyślcie o jednej konkretnej rzeczy, którą w kimś obok lubicie albo cenicie
 
 Nie trzeba niczego mówić. Nie trzeba też robić specjalnej miny. Jedno spojrzenie wystarczy.
 
-Mimi: Bez przemowy. Dziś oczy załatwiają formalności.
+Mimi: Bez przemowy. Nareszcie spotkanie, które naprawdę mogło być spojrzeniem.
 
 ### GRAMY: PIĘĆ SŁÓW. DWA KŁAMSTWA.
 
@@ -581,6 +591,8 @@ Nini: Jeśli ktoś powie „Wi-Fi”, dorzucamy drugi skarb. Bez dyskusji.
 
 ### ZWOLNIJ: CIEPŁE DŁONIE
 
+Po zimnym przystanku, korkach, zakupach albo zwykłym grudniowym spacerze czasem pierwszą sensowną rzeczą jest po prostu się ogrzać.
+
 Potrzyjcie dłonie o siebie przez kilka sekund, aż zrobią się wyraźnie cieplejsze.
 
 Jedną dłoń połóżcie na własnej klatce piersiowej.
@@ -589,7 +601,7 @@ Drugą możecie położyć na ramieniu osoby siedzącej po prawej stronie, ale t
 
 Zostańcie tak przez chwilę i po prostu poczujcie ciepło dłoni.
 
-Luli: Dwie dłonie, zero przemowy. Bardzo rozsądny układ.
+Luli: Dwie ciepłe dłonie, zero przygotowań. W grudniu to już luksus.
 
 ### GRAMY: RYTM PO KOLEI
 
@@ -622,6 +634,8 @@ Luli: Mały prezent, bez papieru i bez szukania taśmy.
 ## DZIEŃ 15
 
 ### ZWOLNIJ: ODDECH I RAMIONA
+
+Plecaki, torby, zakupy i cały dzień potrafią wieczorem wylądować dokładnie tam, gdzie nie trzeba, na ramionach.
 
 Usiądźcie w kółku tak, żeby było wam wygodnie.
 
@@ -663,7 +677,9 @@ Dilo: Bonus za historię, którą wszyscy pamiętają inaczej. To zwykle oznacza
 
 ### ZWOLNIJ: RĘCE W GÓRĘ, RĘCE W DÓŁ
 
-Usiądźcie w kółku.
+Są dni, kiedy każdy chce czegoś innego. Innej muzyki w samochodzie, innego filmu, innej kolacji i najlepiej pierwszeństwa do łazienki.
+
+Zanim zaczniecie rodzinny koncert, usiądźcie w kółku.
 
 Możecie lekko złapać się za ręce albo po prostu trzymać dłonie blisko siebie, bez dotykania. Wybierzcie wersję, która wszystkim odpowiada.
 
@@ -685,7 +701,7 @@ Na początku włączajcie po jednym „instrumencie”. Potem możecie utrudnić
 
 Po chwili rolę dyrygenta przejmuje kolejna osoba zgodnie z ruchem wskazówek zegara. Każdy zachowuje swój wcześniej wybrany dźwięk.
 
-Luli: Dyrygujcie pewnie. Orkiestra nie musi wiedzieć, że improwizujecie.
+Dilo: Wreszcie orkiestra, w której każdy może robić swoje i nikt nie walczy o playlistę.
 
 ### MIĘDZY NAMI: CO CHCEMY ZROBIĆ RAZEM?
 
@@ -704,6 +720,8 @@ Luli: Marzenia nie tracą ważności tylko dlatego, że mieszczą się w kubku.
 ## DZIEŃ 17
 
 ### ZWOLNIJ: CICHE ROZCIĄGANIE
+
+Po godzinach siedzenia w szkole, pracy, samochodzie albo autobusie ciało czasem jako pierwsze zgłasza, że dzień trwa już wystarczająco długo.
 
 Stańcie w kółku.
 
@@ -747,13 +765,15 @@ Alio: Ja zgłaszam wszystko, przy czym wolno skakać. Dla porządku.
 
 ### ZWOLNIJ: DŁUŻSZY WYDECH
 
+Jeśli popołudnie brzmiało jak „zdążymy?”, „już jedziemy” i „czemu akurat teraz jest korek?”, nie musicie dalej oddychać w tempie całej tej trasy.
+
 Usiądźcie obok siebie.
 
 Weźcie kilka zwykłych oddechów. Przy każdym wydechu spróbujcie wypuścić powietrze trochę wolniej niż zwykle.
 
 Nie trzeba niczego sobie wyobrażać ani oddychać idealnie. Jeśli dłuższy wydech jest niewygodny, wróćcie do własnego rytmu.
 
-Luli: Długi wydech. Zero efektów specjalnych. I bardzo dobrze.
+Luli: Korki już były. Wydech nie musi się spieszyć.
 
 ### GRAMY: MISJA KRZESŁO
 
@@ -788,6 +808,8 @@ Nini: Jedno słowo. Bez prezentacji w PowerPoincie. Damy radę.
 ## DZIEŃ 19
 
 ### ZWOLNIJ: CHWILA OBOK SIEBIE
+
+Czasem wszyscy są w domu, ale każdy osobno. Ktoś przy ekranie, ktoś przy lekcjach, ktoś w kuchni, ktoś już prawie śpi.
 
 Usiądźcie razem i zamknijcie oczy.
 
@@ -833,13 +855,15 @@ Mimi: Jeśli lista zaczyna brzmieć jak piosenka, spokojnie. Karaoke jeszcze nie
 
 ### ZWOLNIJ: CZOŁO, OCZY, SZCZĘKA
 
+Jeśli dzisiejszy dom miał kilka rund „kto pierwszy do łazienki?”, „gdzie to położyłeś?” i „czy ktoś może wreszcie…?”, twarz mogła zostać w trybie gotowości trochę dłużej niż trzeba.
+
 Usiądźcie blisko siebie i zamknijcie oczy.
 
 Przez minutę sprawdźcie trzy miejsca. Najpierw czoło, potem okolice oczu, a na końcu szczękę. Jeśli któreś z nich jest napięte, spróbujcie trochę odpuścić. Niczego nie róbcie na siłę.
 
 Na koniec zróbcie jeden zwykły, dłuższy wydech.
 
-Mimi: Mina pod tytułem „jeszcze tylko pięć rzeczy” też może mieć chwilę wolnego.
+Mimi: Mina pod tytułem „jeszcze tylko pięć rzeczy” ma dziś wcześniejsze wyjście.
 
 ### GRAMY: TUNEL KIBICÓW
 
@@ -870,6 +894,8 @@ Nini: „Pamiętasz, jak zniknęło ostatnie ciastko?” To jest materiał archi
 ## DZIEŃ 21
 
 ### ZWOLNIJ: JEDNA PRZYJEMNA RZECZ
+
+Wieczorem mózg potrafi liczyć wszystko, czego jeszcze nie zrobiliśmy. Dziś przez chwilę policzymy dokładnie jedną rzecz, która jest przyjemna teraz.
 
 Usiądźcie przez chwilę w ciszy. Złóżcie dłonie razem albo połóżcie je na kolanach.
 
@@ -918,6 +944,8 @@ Luli: Mały znak. Bez tłumaczenia i bez ceremonii. W sam raz.
 ## DZIEŃ 22
 
 ### ZWOLNIJ: KILKA ODDECHÓW, NIC WIĘCEJ
+
+Im bliżej świąt, tym lista zwykle robi się dłuższa, a dzień jakimś cudem nie dostaje dodatkowych godzin.
 
 Usiądźcie w kółku i zamknijcie oczy.
 
@@ -971,6 +999,8 @@ Mimi: Życie nie robi przerwy świątecznej. Niestety ma też zadania domowe.
 ## DZIEŃ 23
 
 ### ZWOLNIJ: KULA ŚNIEŻNA
+
+Pod koniec grudnia myśli potrafią wyglądać jak kula śnieżna, którą ktoś potrząsał bez przerwy od rana.
 
 Usiądźcie wygodnie i zamknijcie oczy.
 
@@ -1026,9 +1056,11 @@ Następnie podaje jeden prawdziwy, niedawny przykład sytuacji, za którą rzecz
 
 Nie wymyślajcie przeprosin tylko po to, żeby zaliczyć rundę. Jeśli ktoś nie ma dziś niczego szczerego do powiedzenia, może po prostu posłuchać.
 
+Osoba, która słyszy przeprosiny, nie musi od razu odpowiadać ani mówić „nic się nie stało”. Czasem wystarczy usłyszeć, że druga osoba naprawdę zauważyła, co zrobiła.
+
 Jeśli inni również chcą coś powiedzieć, możecie przejść dalej wokół koła.
 
-Alio: Jedno prawdziwe „przepraszam” wystarczy. Bez mowy końcowej.
+Alio: Jedno prawdziwe „przepraszam” wystarczy. Reszta może chwilę pomilczeć.
 
 ---
 
