@@ -440,18 +440,15 @@ Kolejna osoba dołącza do „maszyny” z własnym ruchem i własnym dźwiękie
 
 Następne osoby dołączają po kolei, aż cała rodzina tworzy jedną dziwną, głośną maszynę.
 
-Kiedy wszyscy już działają, najstarsza osoba zostaje operatorem. Pokazuje dłonią trzy komendy:
-- szybciej,
-- wolniej,
-- stop.
+Kiedy wszyscy już działają, utrzymajcie wspólny rytm przez kilkanaście sekund.
 
-Cała maszyna musi zareagować w tym samym momencie.
+Na finał spróbujcie bez słów i bez wyznaczonego prowadzącego zrobić trzy rzeczy: trochę przyspieszyć, potem zwolnić i w końcu zatrzymać całą maszynę w tym samym momencie. Patrzcie na siebie i łapcie zmianę tempa po ruchach innych.
 
-Na koniec operator pokazuje „start” i spróbujcie uruchomić całość jeszcze raz bez żadnego liczenia.
+Jeśli się rozjedzie, uruchomcie maszynę jeszcze raz i spróbujcie ponownie.
 
-W dwie osoby budujecie maszynę z dwóch części i korzystacie z tych samych komend.
+W dwie osoby zasada jest dokładnie taka sama. Każdy ma własny ruch i dźwięk, a finał polega na wspólnej zmianie tempa bez umawiania sygnału.
 
-Dilo: Jeśli maszyna nie ma żadnego sensu, świetnie. Ważne, że wszyscy wiedzą, kiedy się zatrzymać.
+Dilo: Jeśli maszyna nie ma żadnego sensu, świetnie. Ważne, żeby zatrzymała się razem.
 
 ### MIĘDZY NAMI: ZDANIE, KTÓRE DO NAS PASUJE
 
