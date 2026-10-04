@@ -573,15 +573,15 @@ Jeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła jako bramę.
 
 Mimi: Fotoreporterów nie będzie. Wejście nadal może być kompletnie nieproporcjonalne do okazji.
 
-### MIĘDZY NAMI: CZEGO NIE DA SIĘ KUPIĆ?
+### MIĘDZY NAMI: CO U NAS ROBIMY PO SWOJEMU?
 
-Grudzień ma wyjątkowo dużo rzeczy do kupienia. Dziś robimy mapę odwrotną.
+Każda rodzina ma rzeczy, które robi po swojemu, szczególnie w grudniu. Każdy podaje jeden przykład.
 
-Wyobraźcie sobie mapę waszej rodziny i zaznaczcie na niej rzeczy, których nie da się zamówić, zapakować ani położyć pod choinką. Każdy dodaje jeden taki skarb.
+Może wasza choinka zawsze stoi trochę krzywo, ktoś pakuje prezenty tak, że taśma wygrywa z papierem, jedna piosenka wraca co roku, pierniki znikają przed dekorowaniem albo „chwila” przed wyjściem znaczy dla każdego coś innego.
 
-Może to być wspólny humor, zaufanie, pomoc, tradycja, rozmowy, czyjś sposób na poprawianie wszystkim humoru albo coś zupełnie innego.
+Nie wybieramy najlepszej tradycji. Zbieramy rzeczy, po których od razu wiadomo: to nasze.
 
-Nini: Jeśli ktoś powie „Wi-Fi”, dorzucamy drugi skarb. Bez dyskusji.
+Nini: Jeśli choinka jest prosta tylko z jednego kąta, ten kąt właśnie dostał status rodzinnego punktu widokowego.
 
 ---
 
