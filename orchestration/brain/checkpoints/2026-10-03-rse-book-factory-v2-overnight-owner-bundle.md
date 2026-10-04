@@ -99,3 +99,28 @@ Central Orchestrator:
 monitor GitHub milestones, inspect Phase 2 outputs when they land, verify source/
 puzzle/visual/preflight evidence, and surface only a real owner gate or unresolved
 source ambiguity.
+
+
+## Morning owner visual decision — 2026-10-04
+
+Owner reviewed the actual Case02 proof and rejected it as the production visual
+template. Technical/source/puzzle proof remains valid.
+
+Classification:
+`TECHNICAL_PASS_VISUAL_REJECTED_DO_NOT_SCALE`
+
+Reason:
+the v2 renderer produced a generic simplified document/dashboard treatment instead
+of inheriting the approved Case01 visual grammar.
+
+Live v2 control now requires a Case01 golden-template parity gate before any Case02
+redo or Cases03–30 batch:
+
+`tools/rse-book-factory-v2/control/CASE01_GOLDEN_TEMPLATE_PARITY_GATE_2026-10-04.md`
+
+New execution sequence:
+approved Pages16–18 -> machine-readable golden geometry -> reconstruct Case01 in v2
+-> structural visual diff/owner review -> lock template -> regenerate Case02 -> owner
+review -> only then consider batch rollout.
+
+No English freeze, merge or KDP action is authorized.
