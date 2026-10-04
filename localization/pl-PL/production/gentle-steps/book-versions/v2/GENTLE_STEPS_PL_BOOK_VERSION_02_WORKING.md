@@ -1088,19 +1088,19 @@ Dilo: Czystość dźwięku nie podlega ocenie. Na szczęście.
 
 Na koniec zróbcie dwie krótkie rundy.
 
-**1. JEDNO „DZIĘKUJĘ”**
+**1. JEDNA RZECZ DO POWTÓRKI**
 
-Każdy mówi o jednej rzeczy, za którą jest wdzięczny po tych 24 dniach.
+Każdy mówi, co z tych 24 dni chętnie powtórzyłby z wami jeszcze kiedyś.
 
-Może to być wspólny moment, czyjś gest, rozmowa, śmiech, nowy rodzinny żart albo coś zupełnie małego.
+Może to być gra, krótka przerwa, pytanie, wspólny żart albo mały zwyczaj, który naprawdę wam się spodobał.
 
 **2. JEDNO ŻYCZENIE**
 
-Każdy mówi jedno życzenie dla waszej rodziny na święta i nadchodzący rok.
+Każdy mówi jedno krótkie życzenie dla waszej rodziny na święta i nadchodzący rok. Nie trzeba szukać wielkich słów.
 
-Bez przemowy. Jedno prawdziwe „dziękuję” i jedno życzenie wystarczą.
+Bez przemówień. Jedna rzecz do powtórki i jedno życzenie wystarczą.
 
-Happy Makers: Nie wszystko, co ważne w tych świętach, znajdzie się pod choinką. I to akurat dobra wiadomość.
+Happy Makers: Strona 24 się kończy. Wasze najlepsze pomysły nie muszą.
 
 ---
 
