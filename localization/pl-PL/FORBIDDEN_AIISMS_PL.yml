@@ -1,0 +1,41 @@
+# Patterns are signals, not absolute bans. Flag repeated/generic use and rewrite when it creates synthetic tone.
+avoid_or_review:
+  - "wyrusz w niezwykłą podróż"
+  - "odkryj swój pełny potencjał"
+  - "uwolnij swój potencjał"
+  - "uwolnij swoją wewnętrzną moc"
+  - "w dzisiejszym dynamicznym świecie"
+  - "to coś więcej niż"
+  - "nie tylko X, ale także Y"
+  - "niezależnie od tego, czy"
+  - "zaprojektowane z myślą o"
+  - "wspierać Cię na każdym kroku"
+  - "wejdź na wyższy poziom"
+  - "odkryj magię"
+  - "pełen inspiracji"
+  - "wyjątkowa podróż"
+  - "stworzone, aby"
+  - "pomaga Ci rozwijać"
+  - "budować pewność siebie"
+  - "rozwijać skrzydła"
+  - "małe kroki, wielkie zmiany"
+  - "Twoja najlepsza wersja siebie"
+  - "zadbaj o siebie"
+  - "holistyczne podejście"
+  - "przestrzeń do rozwoju"
+  - "narzędzia, których potrzebujesz"
+
+structural_signals:
+  - repeated three-item adjective stacks
+  - repeated rhetorical questions followed by generic answer
+  - paragraph symmetry that feels machine-generated
+  - excessive colons and headings
+  - constant motivational escalation
+  - repeated abstract nouns instead of concrete actions
+  - excessive capitalization copied from English
+  - identical cadence across unrelated sections
+  - literal English idioms
+  - unnatural overuse of second-person pronouns
+
+rewrite_rule: >-
+  Do not merely swap synonyms. Rebuild sentence structure around what a native Polish writer would naturally say in this context. Preserve meaning, facts, tone and audience fit.

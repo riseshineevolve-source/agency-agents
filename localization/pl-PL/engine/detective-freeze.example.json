@@ -1,0 +1,10 @@
+{
+  "owner_instruction": "PENDING",
+  "owner_evidence": null,
+  "source_revision": null,
+  "source_sha256": null,
+  "all15_status": "PENDING",
+  "all15_evidence": null,
+  "aliases_frozen": false,
+  "aliases_sha256": null
+}
