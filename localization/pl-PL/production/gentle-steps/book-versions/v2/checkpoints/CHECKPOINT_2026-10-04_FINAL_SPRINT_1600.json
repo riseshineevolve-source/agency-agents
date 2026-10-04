@@ -1,0 +1,25 @@
+{
+  "format": "rse-gentle-steps-v02-checkpoint-v1",
+  "date": "2026-10-04",
+  "state": "FINAL_SPRINT_D24_SAFE",
+  "branch": "codex/polish-engine-main-reconcile",
+  "source_master_blob_sha": "895b7e9e25b492ea53ad7c4f91063802022b91ad",
+  "content_commit_sha": "3a08136df9cc8531b631c17dde5318941ebbf9fd",
+  "safe_state_snapshot": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_FINAL_SPRINT_1600_SAFE_STATE_2026-10-04.md",
+  "qa_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_FINAL_SPRINT_QA_2026-10-04_1600.md",
+  "allowed_changed_segments": [
+    "D24.MIĘDZY NAMI"
+  ],
+  "actual_changed_segments": [
+    "D24.MIĘDZY NAMI"
+  ],
+  "surgical_guard_exact_match": true,
+  "structure": {
+    "days": 24,
+    "daily_sections": 72,
+    "duplicate_daily_headings": 0
+  },
+  "frozen_v1_blob_sha": "46542df9e3e44f235f112edb2d381d5511c7abca",
+  "frozen_v1_unchanged": true,
+  "qa": "PASS"
+}
