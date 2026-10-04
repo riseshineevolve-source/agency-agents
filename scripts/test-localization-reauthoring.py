@@ -2,6 +2,8 @@
 from __future__ import annotations
 
 import copy
+import hashlib
+import re
 import tempfile
 import unittest
 from pathlib import Path
@@ -666,6 +668,79 @@ class GentleStepsPolishBookVersion02(unittest.TestCase):
         self.assertFalse(manifest["title_locked"])
         self.assertFalse(manifest["recurring_labels_locked"])
         self.assertFalse(manifest["publication_authorized"])
+
+
+class GentleStepsV02SurgicalEditGuard(unittest.TestCase):
+    ROOT_DIR = ROOT / "localization/pl-PL/production/gentle-steps/book-versions/v2"
+    GUARD = ROOT_DIR / "V02_SURGICAL_EDIT_GUARD.json"
+
+    @staticmethod
+    def _segment_map(text: str):
+        day_matches = list(re.finditer(r"^## DZIEŃ (\d+)\s*$", text, re.MULTILINE))
+        if len(day_matches) != 24:
+            raise AssertionError(f"expected 24 day headers, got {len(day_matches)}")
+        back_match = re.search(r"^# PO 24 DNIACH\s*$", text, re.MULTILINE)
+        if back_match is None:
+            raise AssertionError("missing # PO 24 DNIACH")
+        segments = {"PREAMBLE": text[:day_matches[0].start()]}
+        for index, day_match in enumerate(day_matches):
+            day = int(day_match.group(1))
+            day_end = day_matches[index + 1].start() if index + 1 < len(day_matches) else back_match.start()
+            chunk = text[day_match.start():day_end]
+            section_matches = list(
+                re.finditer(r"^### (ZWOLNIJ|GRAMY|MIĘDZY NAMI): .*?$", chunk, re.MULTILINE)
+            )
+            if [m.group(1) for m in section_matches] != ["ZWOLNIJ", "GRAMY", "MIĘDZY NAMI"]:
+                raise AssertionError(f"invalid section order for day {day}")
+            segments[f"D{day:02d}.HEADER"] = chunk[:section_matches[0].start()]
+            for section_index, section_match in enumerate(section_matches):
+                section_end = (
+                    section_matches[section_index + 1].start()
+                    if section_index + 1 < len(section_matches)
+                    else len(chunk)
+                )
+                segments[f"D{day:02d}.{section_match.group(1)}"] = chunk[
+                    section_match.start():section_end
+                ]
+        segments["BACK_MATTER"] = text[back_match.start():]
+        return segments
+
+    @staticmethod
+    def _git_blob_sha(path: Path):
+        payload = path.read_bytes()
+        header = f"blob {len(payload)}\0".encode("utf-8")
+        return hashlib.sha1(header + payload).hexdigest()
+
+    def test_v02_changes_are_isolated_to_declared_segments(self):
+        guard = load(self.GUARD)
+        self.assertEqual(guard["status"], "ACTIVE")
+        base = (ROOT / guard["base_snapshot_path"]).read_text(encoding="utf-8")
+        current = (ROOT / guard["current_master_path"]).read_text(encoding="utf-8")
+        base_segments = self._segment_map(base)
+        current_segments = self._segment_map(current)
+        self.assertEqual(set(base_segments), set(current_segments))
+
+        actual_changed = sorted(
+            key for key in current_segments
+            if current_segments[key] != base_segments[key]
+        )
+        allowed_changed = sorted(guard["allowed_changed_segments"])
+        if guard.get("require_exact_changed_set", True):
+            self.assertEqual(actual_changed, allowed_changed)
+        else:
+            self.assertTrue(set(actual_changed).issubset(set(allowed_changed)))
+
+        if guard.get("protect_preamble", True):
+            self.assertNotIn("PREAMBLE", actual_changed)
+        if guard.get("protect_day_headers", True):
+            self.assertFalse(any(key.endswith(".HEADER") for key in actual_changed))
+        if guard.get("protect_back_matter", True):
+            self.assertNotIn("BACK_MATTER", actual_changed)
+
+    def test_v02_guard_preserves_frozen_book_version_01(self):
+        guard = load(self.GUARD)
+        v1 = ROOT / guard["frozen_v1_path"]
+        self.assertEqual(self._git_blob_sha(v1), guard["frozen_v1_git_blob_sha"])
 
 
 if __name__ == "__main__":
