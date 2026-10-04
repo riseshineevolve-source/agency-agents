@@ -1,12 +1,11 @@
 {
   "format": "rse-gentle-steps-v02-surgical-edit-guard-v1",
   "status": "ACTIVE",
-  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_CALENDAR_ARC_SAFE_STATE_2026-10-04.md",
+  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_PRE_FINAL_SPRINT_1500_SAFE_STATE_2026-10-04.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
   "allowed_changed_segments": [
-    "D03.MIĘDZY NAMI",
-    "D14.MIĘDZY NAMI",
-    "D21.ZWOLNIJ"
+    "D22.ZWOLNIJ",
+    "D24.MIĘDZY NAMI"
   ],
   "require_exact_changed_set": true,
   "protect_preamble": true,
