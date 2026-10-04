@@ -198,3 +198,67 @@ Dedicated project chats own project execution and return only:
 - durable checkpoint reference.
 
 This override remains in force until the owner explicitly changes it.
+
+
+## Owner revenue-ASAP execution override — 2026-10-05
+
+This section is the current owner directive and supersedes older priority/order/execution wording above wherever it conflicts.
+
+Operating objective: **REVENUE ASAP / FINISH -> PUBLISH -> SELL**.
+
+### Near-term commercial priority for safe Central work
+
+1. **Detective Academy EN -> KDP**
+   - close only concrete release blockers toward a KDP-ready owner gate;
+   - do not reopen broad content, puzzle logic, story or design;
+   - current closeout remains transparency-safe final interior / full wrap / KDP Previewer-proof path unless newer durable project truth supersedes it;
+   - while the dedicated Book Production / Detective writer is active, Central is read/sync-only on that product surface.
+
+2. **Optical Animals -> KDP**
+   - treat the current Final20 artwork as owner-selected artwork for the closing production lane;
+   - do not restart broad illustration generation;
+   - when no delegated Optical writer is active, advance only the exact-identity closeout path:
+     `exact subject mask/token -> 5 group seek-and-find pages -> GRAND all-20 challenge -> answer proof -> KDP assembly/preflight`;
+   - when delegated Optical ownership is active, Central monitors/syncs only.
+
+3. **24 Gentle Steps to Christmas APP**
+   - the existing book/ebook are completed commercial assets and are not the active Central finish lane;
+   - active lane is the simple premium Advent mobile app;
+   - shortest production path only: real 24-day content pack, premium purple/gold/cream mobile-first experience, daily task flow, progress, English first, offline-first, Android/Play readiness;
+   - no unnecessary backend, social, AI or account complexity;
+   - Polish copy remains owned by the Polish Localization stream and must be Polish-first re-authoring/transcreation, never literal translation;
+   - while the dedicated Gentle Steps writer is active, Central is read/sync-only on that product surface.
+
+4. **Marketing / distribution support**
+   - when product lanes are blocked by real owner/external gates, prioritize release-package truth, launch assets, Tiny Tool / interactive sampler specifications, intent-page requirements and measurable distribution support;
+   - do not use a product gate as an excuse to build new platform architecture;
+   - dedicated Marketing remains a separate writer; Central may synchronize but not collide with it.
+
+### Hold unless directly revenue-unblocking
+
+- new product lines;
+- broad Consumer Platform work;
+- speculative architecture;
+- broad AI Discovery expansion;
+- World 01/02 enhancements beyond delegated closeout;
+- Unstoppable expansion;
+- unrelated refactors.
+
+### One-writer and safety rule
+
+Happy Me, Senior/Mind Bloom, Marketing and any explicitly delegated Optical/Gentle/World lane remain read-only centrally while their owners are active. Never collide with their branch/worktree.
+
+Central operating loop:
+`CURRENT TRUTH -> HIGHEST-VALUE UNBLOCKED RELEASE TASK -> IMPLEMENT -> MINIMAL VERIFY -> CHECKPOINT -> NEXT GATE`.
+
+If only a real owner/external gate remains, do not invent work; advance the next revenue-priority lane.
+
+Still forbidden without explicit owner approval:
+- merge main;
+- freeze EN automatically;
+- publish/upload KDP or Google Play;
+- deploy production;
+- spend money or activate paid services;
+- create/use secrets or signing keys;
+- alter owner-approved art;
+- cross legal/device/owner gates.
