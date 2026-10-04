@@ -516,7 +516,7 @@ Mimi: Spokojnie, to nie konkurs na najbardziej znaczące spojrzenie.
 
 Zaczyna osoba z najdłuższym imieniem.
 
-Osoba rozpoczynająca w tajemnicy wybiera dowolną rozpoznawalną osobę, zwierzę, przedmiot albo bohatera filmu, książki czy bajki.
+Osoba rozpoczynająca w tajemnicy wybiera dowolną rozpoznawalną osobę, zwierzę, przedmiot albo bohatera filmu, książki, gry czy serialu.
 
 Następnie opisuje swój wybór dokładnie pięcioma pojedynczymi słowami:
 1. trzy słowa muszą być prawdziwymi wskazówkami,
@@ -741,7 +741,7 @@ Mimi: Bez rekordów. Jutro też będziemy potrzebować ramion.
 
 ### GRAMY: 15 SEKUND RZĄDZISZ
 
-Zaczyna osoba z najkrótszym imieniem. Wybiera jeden prosty ruch albo ćwiczenie, które można bezpiecznie wykonać w miejscu.
+Zaczyna osoba z najkrótszym imieniem. Wybiera jeden prosty ruch, który można bezpiecznie wykonać w miejscu.
 
 Przez 15 sekund wszyscy robią dokładnie to samo.
 
@@ -753,7 +753,7 @@ Na finał zróbcie „cichą zmianę warty”. Zaczyna pierwsza osoba swoim ruch
 
 Spróbujcie przejść przez wszystkich prowadzących bez ani jednego „teraz ja”.
 
-Alio: Jeśli któregoś ruchu nie ma na WF-ie, tym lepiej. Właśnie ma premierę.
+Alio: Jeśli wygląda trochę dziwnie, tym lepiej. Przez 15 sekund to oficjalny styl całej rodziny.
 
 ### MIĘDZY NAMI: KIEDY MAMY NAJWIĘCEJ ENERGII?
 
@@ -987,33 +987,33 @@ W dwie osoby gracie jak w zwykłe kalambury, ale pokazujący musi użyć całego
 
 Mimi: Jeśli trzy osoby pokazują „lepienie bałwana”, a wyglądają jak trzy różne sporty, gra działa idealnie.
 
-### MIĘDZY NAMI: CO TEN MIESIĄC NAM POKAZAŁ?
+### MIĘDZY NAMI: CO MNIE W NAS ZASKOCZYŁO?
 
-Każdy mówi jedną rzecz, którą zauważył w tym miesiącu o sobie albo o swojej rodzinie.
+Po tych kilku tygodniach każdy mówi jedną rzecz, która trochę go zaskoczyła w waszej rodzinie.
 
-Nie szukajcie wielkiego odkrycia. Może się okazać, że ktoś najlepiej rozmawia późnym wieczorem, ktoś potrzebuje chwili ciszy po powrocie do domu, a ktoś potrafi uratować humor całej rodziny jednym zdaniem.
+Może odkryliście, kto najlepiej rozśmiesza wszystkich po kiepskim dniu, kto potrzebuje ciszy zaraz po powrocie, kto pamięta rzeczy, których nikt inny nie pamięta, albo kto zna cały tekst piosenki, której podobno „wcale nie słucha”.
 
-Możecie zacząć od słów:
+Nie musi to być ważne odkrycie. Wystarczy jedna rzecz, której wcześniej o sobie nie wiedzieliście albo której po prostu nie zauważaliście.
 
-„Ten miesiąc pokazał mi, że…”
-
-Luli: Jeśli odkryliście, że po 21:00 ktoś zaczyna mówić pełnymi zdaniami, też się liczy.
+Nini: Jeśli odkryliście, kto zjada ostatni piernik i odkłada pustą puszkę, to też jest wiedza o rodzinie.
 
 ---
 
 ## DZIEŃ 23
 
-### ZWOLNIJ: KULA ŚNIEŻNA
+### ZWOLNIJ: TO MOŻE POCZEKAĆ DO JUTRA
 
-Pod koniec grudnia myśli potrafią wyglądać jak kula śnieżna, którą ktoś potrząsał bez przerwy od rana.
+Pod koniec grudnia lista rzeczy do zrobienia potrafi zachowywać się tak, jakby wszystko było pilne i najlepiej miało być gotowe siedem minut temu.
 
-Usiądźcie wygodnie i zamknijcie oczy.
+Usiądźcie wygodnie. Weźcie trzy spokojne oddechy.
 
-Przez minutę wyobraźcie sobie kulę śnieżną tuż po potrząśnięciu. Płatki wirują wszędzie, a potem powoli opadają coraz niżej.
+Przy każdym wydechu pomyślcie o jednej rzeczy, której naprawdę nie trzeba kończyć dzisiaj. Może to być idealnie posprzątany pokój, odpisanie na nieważną wiadomość, złożenie całego prania albo coś innego, co bez żadnej katastrofy może poczekać.
 
-Nie trzeba zatrzymywać myśli ani próbować „wyczyścić głowy”. Jeśli coś wam przyjdzie do głowy, wróćcie do obrazu opadającego śniegu.
+Nie odkładamy rzeczy ważnych ani pilnych. Wybieramy tylko te, które dziś robią tłok w głowie, choć spokojnie mogą zostać na jutro.
 
-Alio: I nikt nie potrząsa kulą drugi raz. Mówię to głównie do siebie.
+Jeśli chcecie, każdy może powiedzieć jedną z nich na głos: „To może poczekać do jutra”.
+
+Dilo: Priorytety zaktualizowane. Skarpety przeżyją do rana.
 
 ### GRAMY: ZAMIANA MIEJSC
 
@@ -1037,7 +1037,7 @@ Dilo: Jedna osoba pasuje? Obrót i wraca. System nie panikuje.
 
 Usiądźcie razem.
 
-Zaczyna tylko ktoś, kto naprawdę ma dziś za co przeprosić. Zwraca się do konkretnej osoby i mówi:
+Dzisiaj nie robimy obowiązkowej rundy przeprosin. Jeśli ktoś naprawdę ma coś do naprawienia, zwraca się do konkretnej osoby i mówi:
 
 „Przepraszam za…”
 
