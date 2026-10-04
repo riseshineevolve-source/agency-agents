@@ -134,13 +134,15 @@ Jeśli bawią się tylko dwie osoby, jedna robi pozę, a druga zgaduje, co przed
 
 Alio: Najlepsze są te pozy, których po trzech sekundach nikt już nie umie wyjaśnić.
 
-### MIĘDZY NAMI: JEDNO SŁOWO NA TERAZ
+### MIĘDZY NAMI: CZEGO JESZCZE O MOIM DNIU NIE WIECIE?
 
-Każdy mówi jedno słowo o tym, jak się teraz czuje.
+Każdy opowiada jedną małą rzecz z dzisiejszego dnia, o której reszta rodziny jeszcze nie wie.
 
-Tylko jedno. Nie trzeba niczego wyjaśniać ani uzasadniać.
+Nie musi być ważna. Może ktoś powiedział coś absurdalnego, wydarzyło się coś zabawnego w drodze, udała się rzecz, która miała nie wyjść, albo przez pół dnia szukaliście czegoś, co cały czas było w plecaku.
 
-Luli: „Dobrze” może dziś posiedzieć na ławce rezerwowych. Wpuszczamy inne słowo.
+Jedna krótka scena wystarczy.
+
+Luli: Wreszcie aktualizacja dnia bez pytania „jak było?”.
 
 ---
 
@@ -617,17 +619,17 @@ W dwie osoby gracie dokładnie tak samo.
 
 Dilo: Jeśli wszyscy powiedzą „pierniki” za pierwszym razem, kategoria była podejrzanie łatwa.
 
-### MIĘDZY NAMI: CO W TOBIE CENIĘ
+### MIĘDZY NAMI: CO OD SIEBIE PODŁAPALIŚMY?
 
-Pierwsza osoba zwraca się do osoby siedzącej po lewej stronie i mówi jedną krótką, konkretną rzecz, którą w niej ceni.
+Każdy wybiera jedną rzecz, którą przejął od kogoś z rodziny.
 
-Tym razem nie chodzi o coś, co ta osoba zrobiła dzisiaj. Pomyślcie raczej o tym, jaka jest albo co wnosi do waszej rodziny.
+Może to być powiedzonko, piosenka, sposób robienia kanapek, żart, gest, smak, mały zwyczaj albo coś, co zaczęliście robić tylko dlatego, że ktoś obok robił to pierwszy.
 
-Następnie ta osoba robi to samo wobec osoby siedzącej po jej lewej stronie.
+Powiedzcie od kogo to przyszło i co dokładnie zostało z wami.
 
-Kontynuujcie wokół koła, aż każdy usłyszy jedno takie zdanie.
+Nie musi to być nic wzniosłego. W rodzinie rozchodzą się też bardzo dziwne rzeczy.
 
-Luli: Mały prezent, bez papieru i bez szukania taśmy.
+Nini: Jeśli wszyscy mówicie już to samo powiedzonko, gratulacje. Nie wiadomo, kto zaczął, ale jest za późno.
 
 ---
 
@@ -916,17 +918,19 @@ Nini: Tak, zjedzony na stojąco pierniczek też może przejść do historii.
 
 ## DZIEŃ 21
 
-### ZWOLNIJ: JEDNA PRZYJEMNA RZECZ
+### ZWOLNIJ: CISZEJ O JEDEN DŹWIĘK
 
-Wieczorem mózg potrafi liczyć wszystko, czego jeszcze nie zrobiliśmy. Dziś przez chwilę policzymy dokładnie jedną rzecz, która jest przyjemna teraz.
+Im bliżej świąt, tym łatwiej o wieczór, w którym jednocześnie gra muzyka, działa telewizor, pikają powiadomienia, ktoś coś ogląda, a ktoś próbuje jeszcze rozmawiać.
 
-Usiądźcie przez chwilę w ciszy. Połóżcie dłonie na kolanach albo oprzyjcie jedną na drugiej.
+Nie robimy idealnej ciszy. Odejmujemy tylko jedną warstwę.
 
-Zwróćcie uwagę na jedną przyjemną rzecz, którą czujecie w tej chwili. Może to być ciepło dłoni, miękkość swetra, wygodne oparcie, zapach herbaty albo coś zupełnie innego.
+Na minutę wyłączcie albo ściszcie jedno źródło dźwięku, które naprawdę możecie teraz wyłączyć: telewizor, muzykę, filmik, powiadomienia albo coś podobnego.
 
-Nie róbcie z tego większej historii. Zauważcie przez chwilę jedną rzecz, która jest teraz przyjemna.
+Usiądźcie tak, jak wam wygodnie, i przez kilka zwykłych oddechów posłuchajcie, jak brzmi pokój z jednym dźwiękiem mniej.
 
-Nini: Jeśli wygrywa ciepły koc, nie będę się sprzeczać.
+Potem możecie wszystko włączyć z powrotem. Chodzi tylko o krótkie „mniej”, nie o ciszę idealną.
+
+Nini: Jeśli lodówka dalej buczy, nie negocjujemy z nią.
 
 ### GRAMY: SZYFR W OBIEGU
 
