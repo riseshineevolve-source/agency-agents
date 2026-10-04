@@ -131,5 +131,25 @@
     "day21_real_december_sound_reduction_reset": true,
     "duplicate_daily_titles": 0,
     "reader_facing_em_dash": 0
-  }
+  },
+  "change_control": {
+    "mode": "SURGICAL_EDIT_ONLY",
+    "guard": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_SURGICAL_EDIT_GUARD.json",
+    "protocol": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_PREMIUM_MULTI_AGENT_CHANGE_CONTROL.md",
+    "ci_enforced": true,
+    "frozen_v1_git_blob_sha": "46542df9e3e44f235f112edb2d381d5511c7abca",
+    "rule": "unscoped collateral drift fails regression"
+  },
+  "premium_review_roles": [
+    "Polish Family Ear Reviewer",
+    "Polish Natural Language Editor",
+    "Polish Book Register Editor",
+    "Polish Transcreator",
+    "Polish Logic Editor",
+    "Activity Instruction Completeness Reviewer",
+    "Polish Breath and Reset Editor",
+    "Localization Meaning Guardian",
+    "Bilingual Localization QA",
+    "Polish Proofreader"
+  ]
 }
