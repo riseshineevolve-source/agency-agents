@@ -1278,3 +1278,28 @@ Checkpoint:
 `orchestration/brain/checkpoints/2026-09-30-revenue-asap-project-stream-reconciliation.md`
 
 Central Orchestrator remains the sole owner of cross-project sequencing and canonical Brain changes. Quick Desk stays conversation-first. Dedicated execution chats execute and checkpoint but do not mutate central priorities.
+
+
+## RSE Book Agent v3 — 2026-10-04
+
+Canonical architecture:
+- `orchestration/architecture/RSE_BOOK_AGENT_V3.md`
+- `orchestration/architecture/RSE_BOOK_MAP_CONTRACT_V1.md`
+
+Decision: RSE book production is controlled by one stateful Book Agent above the
+existing deterministic renderer. Do not start another renderer.
+
+Core law:
+- one Book Map per edition;
+- content/template/asset/page locks are independent;
+- per-page content-addressed input hashes determine incremental rebuild scope;
+- unchanged page artifacts are reused and are not owner-review work;
+- Codex implements deterministic code/validation only and does not art-direct;
+- generative models create isolated asset slots, not final maps/pages containing
+  canonical text or puzzle geometry;
+- final spatial maps use locked runtime geometry plus code-rendered SVG/UI and
+  SHA-locked prop sprites;
+- owner review is exception-only plus initial look/template and final release gates.
+
+Operational agent:
+`specialized/rse-book-production-agent.md`.
