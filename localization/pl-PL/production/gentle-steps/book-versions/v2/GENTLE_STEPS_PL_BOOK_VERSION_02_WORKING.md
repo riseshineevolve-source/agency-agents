@@ -739,33 +739,34 @@ Zobaczcie, ile miejsca zajmuje wasze koło, kiedy każdy wyciągnie ręce.
 
 Mimi: Bez rekordów. Jutro też będziemy potrzebować ramion.
 
-### GRAMY: 15 SEKUND RZĄDZISZ
+### GRAMY: TYLKO PYTANIA
 
-Zaczyna osoba z najkrótszym imieniem. Wybiera jeden prosty ruch, który można bezpiecznie wykonać w miejscu.
+Zaczynają dwie osoby. Wybierzcie jedną krótką scenkę albo wymyślcie własną:
 
-Przez 15 sekund wszyscy robią dokładnie to samo.
+- spotykacie się przy lodówce późnym wieczorem,
+- szukacie ostatniej rolki taśmy do prezentów,
+- próbujecie znaleźć dobre miejsce na bardzo duży prezent,
+- choinka przechyliła się po raz trzeci.
 
-Po 15 sekundach prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara. Nowy prowadzący wybiera własny ruch, a reszta znów go naśladuje przez 15 sekund.
+Przez 30 sekund rozmawiacie wyłącznie pytaniami. Każda wypowiedź musi kończyć się znakiem zapytania.
 
-Kontynuujcie, aż każdy poprowadzi jedną rundę.
+Jeśli komuś wymknie się zwykłe zdanie, nic się nie dzieje. Ktoś mówi „Pytanie!” i gracie dalej.
 
-Na finał zróbcie „cichą zmianę warty”. Zaczyna pierwsza osoba swoim ruchem. Po kilku sekundach kolejna osoba w ustalonej kolejności zaczyna wykonywać nowy ruch bez żadnego hasła. Reszta ma zauważyć zmianę i możliwie szybko przejść na nowy ruch. Potem przejmuje następna osoba.
+Po 30 sekundach wchodzi kolejna para. Kontynuujcie, aż każdy, kto chce, zagra przynajmniej raz.
 
-Spróbujcie przejść przez wszystkich prowadzących bez ani jednego „teraz ja”.
+Jeśli są tylko dwie osoby, zmieniajcie scenkę co rundę. Na finał spróbujcie wytrzymać pełną minutę bez ani jednego zwykłego zdania.
 
-Alio: Jeśli wygląda trochę dziwnie, tym lepiej. Przez 15 sekund to oficjalny styl całej rodziny.
+Nini: Czy to ma sens? A od kiedy to warunek dobrej zabawy?
 
-### MIĘDZY NAMI: KIEDY MAMY NAJWIĘCEJ ENERGII?
+### MIĘDZY NAMI: CO OSTATNIO OGARNĘLIŚMY RAZEM?
 
-Każdy kończy zdanie:
+Każdy przypomina jedną sytuację z ostatnich dni, w której coś poszło łatwiej, szybciej albo po prostu lepiej dlatego, że zrobiliście to razem.
 
-„Najwięcej energii mam, kiedy razem…”
+Może chodzić o kolację, zakupy, wyjście z domu, znalezienie zguby, przygotowanie czegoś na jutro albo uratowanie planu, który zaczął się sypać.
 
-Może chodzić o wyjazd, gotowanie, wygłupy, sport, rozmowę, muzykę, spacer albo wspólne nicnierobienie.
+Nie musi to być wielki sukces. Szukamy jednego konkretnego momentu, w którym zadziałaliście jak drużyna.
 
-Nie szukajcie najlepszej odpowiedzi. Wystarczy coś, co działa u was.
-
-Alio: Ja wybieram wszystko, przy czym wolno skakać. To ważne kryterium.
+Luli: Jeśli wspólnym sukcesem było wyjście z domu z obiema rękawiczkami, wpisujemy bez dyskusji.
 
 ---
 
