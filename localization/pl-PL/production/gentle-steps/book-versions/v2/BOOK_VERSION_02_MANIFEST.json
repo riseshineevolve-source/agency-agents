@@ -1,10 +1,10 @@
 {
   "book_version": "2",
-  "status": "ACTIVE_READER_COMFORT_CURRENT_SAFE_STATE",
+  "status": "ACTIVE_V2_CALENDAR_UPGRADE_CURRENT_SAFE_STATE",
   "base_book_version": "1",
   "base_book_version_path": "localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md",
   "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
-  "working_master_blob_sha": "75ae8987dbfad9b227e2a6677ca069254bc20f60",
+  "working_master_blob_sha": "3484986daf0c9cc608be7a981727610f3391af3f",
   "structure": {
     "days": 24,
     "daily_elements": [
@@ -45,10 +45,10 @@
     "happy_makers_punchline_pass": true,
     "ten_minute_length_pass": true
   },
-  "latest_checkpoint": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_PRESSURE_FREE_PLAY_SAFE_STATE_2026-10-04.md",
-  "latest_checkpoint_manifest": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-04_0048_READER_COMFORT.json",
-  "latest_checkpoint_source_blob_sha": "75ae8987dbfad9b227e2a6677ca069254bc20f60",
-  "latest_checkpoint_state": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-04_0048_READER_COMFORT.json",
+  "latest_checkpoint": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_CALENDAR_UPGRADE_SAFE_STATE_2026-10-04.md",
+  "latest_checkpoint_manifest": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-04_CALENDAR_UPGRADE_01.json",
+  "latest_checkpoint_source_blob_sha": "3484986daf0c9cc608be7a981727610f3391af3f",
+  "latest_checkpoint_state": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-04_CALENDAR_UPGRADE_01.json",
   "latest_reader_experience_pass": {
     "date": "2026-10-03",
     "immediate_comedy_first_day": true,
@@ -77,7 +77,7 @@
     20,
     9
   ],
-  "current_safe_state_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_PRESSURE_FREE_PLAY_SAFE_STATE_2026-10-04.md",
+  "current_safe_state_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_CALENDAR_UPGRADE_SAFE_STATE_2026-10-04.md",
   "latest_density_safety_pass": {
     "date": "2026-10-03",
     "day6_independent_tempo_reset": true,
@@ -98,5 +98,16 @@
     "day19_speed_cue_removed": true,
     "day21_signal_comment_refined": true,
     "day23_speed_cue_removed": true
+  },
+  "latest_calendar_upgrade": {
+    "date": "2026-10-04",
+    "day12_age_fit_register": true,
+    "day17_anti_school_wording": true,
+    "day22_family_discovery_prompt": true,
+    "day23_practical_real_december_reset": true,
+    "day23_non_compulsory_apology_framing": true,
+    "old_snow_globe_visualization_removed": true,
+    "duplicate_daily_titles": 0,
+    "reader_facing_em_dash": 0
   }
 }
