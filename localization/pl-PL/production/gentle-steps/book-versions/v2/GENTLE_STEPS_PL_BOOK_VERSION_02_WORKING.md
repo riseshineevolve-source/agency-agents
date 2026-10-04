@@ -360,7 +360,7 @@ Mimi: Czasem samo dotarcie do wieczora powinno mieć własną kategorię osiągn
 
 ## DZIEŃ 9
 
-### ZWOLNIJ: TU, GDZIE JESTEŚMY
+### ZWOLNIJ: TRZY, DWA, JEDEN
 
 Jeśli dzień nadal odtwarza się w głowie, przez minutę nie będziemy go analizować. Dajcie głowie prostsze zadanie.
 
