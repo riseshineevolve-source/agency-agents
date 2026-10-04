@@ -172,15 +172,15 @@ Kiedy zdanie przejdzie przez całe koło, osoba siedząca po prawej stronie osob
 
 Mimi: Wybierajcie rozsądnie. Ten głos może później wrócić przy kolacji.
 
-### MIĘDZY NAMI: JAKI KOLOR MIAŁ DZIŚ DZIEŃ?
+### MIĘDZY NAMI: CO DZIŚ WYSZŁO INACZEJ NIŻ PLAN?
 
-Każdy wybiera jeden kolor, który najlepiej pasuje do jego dzisiejszego dnia.
+Każdy wybiera jedną rzecz z dzisiejszego dnia, która potoczyła się inaczej, niż się spodziewał.
 
-Nie chodzi o ulubiony kolor. Chodzi o dzisiaj.
+Mogło być lepiej, gorzej albo po prostu dziwniej. Autobus przyjechał od razu, sprawdzian okazał się łatwiejszy, plan obiadu zmienił się w ostatniej chwili albo ktoś powiedział coś, czego nikt się nie spodziewał.
 
-Nie trzeba tłumaczyć wyboru. Jeśli właściwego koloru jeszcze nie ma, możecie go wymyślić.
+Nie trzeba szukać morału. Opowiedzcie tylko krótko, co się wydarzyło.
 
-Dilo: Kolor „czwartek o 17:40” nie istnieje? Od teraz istnieje.
+Dilo: Czyli plan był orientacyjny. Jak większość planów po 16:00.
 
 ---
 
