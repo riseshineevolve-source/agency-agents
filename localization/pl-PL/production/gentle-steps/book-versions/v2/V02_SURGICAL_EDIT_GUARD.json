@@ -1,7 +1,7 @@
 {
   "format": "rse-gentle-steps-v02-surgical-edit-guard-v1",
   "status": "ACTIVE",
-  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_PRE_D09_SAFE_STATE_2026-10-04.md",
+  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_FINAL_SPRINT_1600_SAFE_STATE_2026-10-04.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
   "allowed_changed_segments": [
     "D09.ZWOLNIJ"
