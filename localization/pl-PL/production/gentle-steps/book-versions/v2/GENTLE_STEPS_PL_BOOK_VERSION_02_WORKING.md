@@ -966,15 +966,15 @@ Luli: Mały znak. Tylko wy musicie wiedzieć, co znaczy. I to jest w nim najleps
 
 ### ZWOLNIJ: DALEKO, BLISKO
 
-Im bliżej świąt, tym lista zwykle robi się dłuższa, a wzrok coraz częściej zatrzymuje się na ekranie, kartce albo kolejnej rzeczy do zrobienia.
+Po całym dniu patrzenia na ekrany, kartki, zeszyty i rzeczy stojące tuż przed nosem oczy prawie nie mają okazji spojrzeć dalej.
 
 Usiądźcie wygodnie i wybierzcie najdalszy punkt, który widzicie w pokoju albo za oknem. Popatrzcie na niego przez kilka sekund.
 
 Potem przenieście wzrok na coś blisko, na przykład własną dłoń.
 
-Zróbcie tak trzy razy: daleko, blisko, daleko, blisko. Bez wpatrywania się na siłę. Na końcu zamknijcie oczy na jeden zwykły oddech.
+Powtórzcie trzy razy: daleko, blisko. Bez mrużenia oczu i bez wpatrywania się na siłę. Na końcu zamknijcie oczy na jeden zwykły oddech.
 
-Luli: Lista nadal tam jest. Przez chwilę nie musiała być najbliżej.
+Luli: Przez pół minuty niczego nie trzeba było czytać, sprawdzać ani znajdować. Oczy składają oficjalne podziękowanie.
 
 ### GRAMY: KALAMBURY NA OPAK
 
