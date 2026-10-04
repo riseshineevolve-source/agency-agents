@@ -12,6 +12,7 @@ Data Privacy Officer
 Image Prompt Engineer
 Psychologist
 Book Co-Author
+RSE Book Production Agent
 RSE Localization Orchestrator
 Localization Source Function Analyst
 Polish Native Family Writer
