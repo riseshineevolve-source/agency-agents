@@ -1,0 +1,18 @@
+{
+  "base_snapshot_path": "projects/unstoppable/premium-content-upgrade/sources/ORIGINAL_BASELINE_EXTRACTED_2026-10-05.txt",
+  "current_master_path": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V0_BASELINE.txt",
+  "allowed_changed_segments": [],
+  "protected_regions": [
+    "PRE.WELCOME",
+    "PRE.DEDICATION",
+    "GLOBAL.STRUCTURE",
+    "D10.GLITCH_PUZZLE.PRINT_MECHANIC"
+  ],
+  "expected_dependencies": [],
+  "rules": [
+    "unallowlisted content must remain byte-identical",
+    "scope expansion requires guard update before editing",
+    "failed regression does not advance baseline",
+    "reviewed safer source must not be regressed to older PDF wording"
+  ]
+}
