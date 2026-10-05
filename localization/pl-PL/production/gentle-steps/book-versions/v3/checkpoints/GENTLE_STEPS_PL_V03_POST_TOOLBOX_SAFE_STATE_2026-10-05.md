@@ -266,8 +266,8 @@ Przez cztery kolejne oddechy dotykajcie kciukiem kolejno palca wskazującego, ś
 Potem zostańcie jeszcze przez chwilę przy swoim zwykłym oddechu.
 
 
-**NA JUTRO:** Gdy będziesz chciał odpowiedzieć od razu, bo wszyscy poganiają albo coś cię zirytuje, przejdź kciukiem po czterech palcach we własnym tempie, zanim odpowiesz.
-Alio: Pierwsza grudniowa rzecz, przy której nikt nie mówi: „szybciej, bo się spóźnimy”. Lubię ten sport.
+**NA JUTRO:** Gdy odpowiedź już ci się ciśnie, bo wszyscy poganiają albo coś cię zirytuje, przejdź kciukiem po czterech palcach we własnym tempie, zanim coś powiesz.
+Alio: Nikt nie mówi „szybciej”. Dobra, to mi się podoba.
 
 ### GRAMY: WSZYSCY NARAZ
 
@@ -456,7 +456,7 @@ Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Ka�
 Nie ustalajcie, co będzie za chwilę. Przez moment posiedźcie razem.
 
 
-**NA JUTRO:** Gdy ktoś bliski będzie zmęczony albo poirytowany i nie będzie miał ochoty od razu rozmawiać, spróbuj przez chwilę po prostu usiąść obok, bez naprawiania sytuacji.
+**NA JUTRO:** Gdy ktoś bliski wróci bez ochoty na rozmowę albo będzie potrzebować chwili ciszy, spróbuj przez moment po prostu usiąść obok, bez naprawiania sytuacji.
 Alio: Nikt niczego nie ustala i jakoś działa. Proszę nie psuć tego pytaniami.
 
 ### GRAMY: RODZINNA MASZYNA
@@ -559,7 +559,7 @@ Pomyślcie o jednej konkretnej rzeczy, którą w kimś obok lubicie albo cenicie
 Nic nie mówcie. Nie róbcie też specjalnej miny. Jedno spojrzenie wystarczy.
 
 
-**NA JUTRO:** Gdy rozmowa zaczyna robić się ostra, zanim odpowiesz, spójrz przez sekundę na drugą osobę i przypomnij sobie jedną rzecz, którą w niej naprawdę lubisz.
+**NA JUTRO:** Gdy wszyscy mijają się w pośpiechu i zaczynasz mówić do kogoś tylko przez drzwi albo znad ekranu, zatrzymaj się na sekundę, spójrz na tę osobę i dopiero wtedy powiedz, co chcesz powiedzieć.
 Mimi: Spokojnie, to nie konkurs na najbardziej znaczące spojrzenie.
 
 ### GRAMY: PIĘĆ SŁÓW. DWA KŁAMSTWA.
@@ -808,7 +808,7 @@ Nie ciągnijcie mocniej, niż jest wam wygodnie. To nie zawody w rozciąganiu.
 Zobaczcie, ile miejsca zajmuje wasze koło, kiedy każdy wyciągnie ręce.
 
 
-**NA JUTRO:** Po lekcjach, samochodzie albo długim siedzeniu przy ekranie zrób jedno spokojne przeciągnięcie zamiast od razu przechodzić do kolejnej rzeczy.
+**NA JUTRO:** Po lekcjach, samochodzie albo długim siedzeniu przy ekranie przeciągnij się spokojnie raz lub dwa, zanim od razu przejdziesz do kolejnej rzeczy.
 Mimi: Bez rekordów. Jutro też będziemy potrzebować ramion.
 
 ### GRAMY: TYLKO PYTANIA
@@ -864,7 +864,7 @@ Zostańcie przez chwilę bez ruchu i oddychajcie zwyczajnie.
 Możecie powtórzyć jeszcze raz, zaczynając trochę wolniej.
 
 
-**NA JUTRO:** Gdy utkniesz w korku, kolejce albo pośpiechu i ręce same chcą działać szybciej, wystukaj kilka szybkich ruchów palcami i stopniowo je zwolnij.
+**NA JUTRO:** Gdy utkniesz w korku, kolejce albo pośpiechu i zaczynasz stukać palcami coraz szybciej, zrób to świadomie przez chwilę, a potem stopniowo zwolnij.
 Alio: Wreszcie ruch drogowy, nad którym mamy kontrolę.
 
 ### GRAMY: MISJA KRZESŁO
@@ -974,7 +974,7 @@ Powtórzcie trzy razy. Przy puszczaniu dłoni możecie zrobić trochę dłuższy
 Nie ściskajcie mocno. Chodzi o krótkie zauważenie różnicy między napięciem a puszczeniem.
 
 
-**NA JUTRO:** Przed sprawdzianem, rozmową albo wtedy, gdy jesteś zły, lekko zaciśnij dłonie do trzech i puść je trzy razy, zamiast dalej dokładać napięcia.
+**NA JUTRO:** Przed sprawdzianem, rozmową albo kiedy coś cię złości, lekko zaciśnij dłonie do trzech i puść je trzy razy; zauważ tylko różnicę między zaciśnięciem a puszczeniem.
 Mimi: Pięści rozwiązują zaskakująco mało rodzinnych spraw. Dziś mają wolne.
 
 ### GRAMY: LINIA BEZ SŁÓW
