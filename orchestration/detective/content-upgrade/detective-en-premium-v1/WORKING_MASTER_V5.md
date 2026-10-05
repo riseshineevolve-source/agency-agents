@@ -569,7 +569,11 @@ AND SOMETHING ALREADY DOESN'T FIT.**
 
 ## CASE FILE // WHAT HAPPENED
 
-Your Recruit Credential is barely signed when Mimi slides the black-envelope file across the intake area. The intake receipt proves the badge came from inside the Academy. No courier. No outside delivery. But four visiting helpers were in the intake area when the tray released it. The strange **0** can wait. The floor record from that exact minute is the only lead to who was close enough to see the envelope arrive.
+Your Recruit Credential is barely signed when Mimi slides the black-envelope file back across the Case Table.
+
+The printer log gives you one solid fact: the envelope was released from **internal Academy stock**. No courier. No outside delivery.
+
+Four visiting helpers were in the intake area at that exact minute. The strange **0** can wait. First, you need the cleanest thing the record can still prove: **who was standing at Delivery when the envelope emerged.**
 
 ## YOUR OBJECTIVE
 
@@ -664,7 +668,13 @@ Named areas:
 ### CASE FILE // WHAT HAPPENED
 
 
-Mimi has barely filed your first verdict when the reply comes back: no courier, no delivery, just the printer releasing the black envelope. Then Trophy Hall pings the Case Table. The Founders' Cup is sitting safely in its display case - which would be excellent news if anyone had logged returning it. Max signed it out for a Hall demonstration, but his return form was never completed. The Hall record ends at Max's last verified check, and only one other witness can be tied to his room during the missing handoff.
+Your first placement gives Mimi exactly one useful person to contact. Their reply is short: no courier came through Intake. The printer simply released the black envelope.
+
+Before anyone can chase the mysterious **0**, Trophy Hall calls.
+
+The Founders' Cup is back in its display case - but nobody logged returning it. Max signed it out for a Hall demonstration, and his return form is still blank. The Hall record ends at Max's last verified position.
+
+Only one other person shared Max's room during the undocumented return window. That person is not automatically responsible. They are the **only witness in the right place to clarify the missing handoff** - whether Max passed the Cup on, someone else brought it back, or it was already there before the paperwork caught up.
 
 
 ### YOUR OBJECTIVE
@@ -715,7 +725,17 @@ Mimi has barely filed your first verdict when the reply comes back: no courier, 
 ### CASE FILE // WHAT HAPPENED
 
 
-The Cup mystery should be getting simpler. Instead, Trophy Hall sends Luli two image files that claim to be copies of the same evidence photograph. The room contact says the Cup was already back in its display case when they noticed it, then points to the images. Same file. Same scene. Supposedly identical. They are not. Before anyone decides which copy deserves trust, Luli wants the one thing detectives can actually use: a complete list of what changed.
+The Trophy Hall witness cannot tell the team who returned the Cup.
+
+They can tell Luli something stranger: **the Cup was already back in the display case when they noticed it.**
+
+Then they point to two image files attached to the same record. Both are labelled as copies of one evidence photograph.
+
+Same file. Same scene. Supposedly identical.
+
+They are not.
+
+Before anyone builds a theory on the wrong image, Luli wants a complete mismatch list - every difference, once, with nothing invented.
 
 
 ### YOUR OBJECTIVE
@@ -769,7 +789,13 @@ Mark the ten changes directly on Photo A / Photo B.
 ### CASE FILE // WHAT HAPPENED
 
 
-By evening, the Cup team has enough to finish its interviews without guessing, and Academy Open Night has taken over the courtyard: demonstration tents, training games, visiting families and exactly the amount of organized chaos Dilo considers "promising." Then a sealed black evidence box from the Trace Lab turns up in the Pickup Tent beside ordinary event supplies. It absolutely does not belong there. Pixel is the last verified handoff before the transfer record breaks. Her tent companion is the final human link in the missing transfer.
+While Trophy Hall checks the mismatched photographs against its records, Academy Open Night takes over the courtyard: demonstration tents, training games, visiting families and exactly the amount of organized chaos Dilo considers "promising."
+
+Then a sealed black evidence box from the Trace Lab turns up in the Pickup Tent beside ordinary event supplies.
+
+It absolutely does not belong there.
+
+Pixel is the last verified handoff point before the transfer record breaks. The person sharing her tent is the only witness positioned to clarify the missing transfer - **whether Pixel received the box there, found it already waiting, or saw it moved again.**
 
 
 ### YOUR OBJECTIVE
@@ -821,7 +847,17 @@ By evening, the Cup team has enough to finish its interviews without guessing, a
 ### CASE FILE // WHAT HAPPENED
 
 
-The evidence box is almost back where it belongs when Dilo's console flashes. One of the dormant lockers beneath the Case Table has linked itself to the current Academy session. That is new. Behind its six-symbol panel sits an old sealed envelope that nobody has touched in years. Nobody knows why the locker woke up, why it linked to your session or why it chose this exact moment. Dilo, naturally, considers all three questions excellent reasons to open it.
+The Pickup Tent interview gives Mimi enough to repair the evidence-box transfer and send it back toward the Trace Lab.
+
+The moment she files the corrected record, Dilo's console flashes.
+
+A dormant locker beneath the Case Table has linked itself to **your current Academy session**.
+
+That has never happened before.
+
+Behind a six-symbol panel sits an old sealed envelope that nobody has touched in years. Nobody knows why the locker woke up, why it linked to this session, or why it waited until a solved case was filed.
+
+Dilo considers all three questions excellent reasons to open it.
 
 
 ### YOUR OBJECTIVE
