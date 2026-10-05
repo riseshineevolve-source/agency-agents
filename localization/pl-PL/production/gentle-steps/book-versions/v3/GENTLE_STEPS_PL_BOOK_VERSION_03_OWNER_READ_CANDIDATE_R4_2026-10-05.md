@@ -363,7 +363,7 @@ Nie trzeba niczego liczyć, porównywać ani sprawdzać, czy u kogoś obok jest 
 Zostańcie tak przez minutę. W tym czasie niczego nie trzeba planować ani kończyć.
 
 
-**NA JUTRO:** Gdy będziesz czekać na wynik, swoją kolej albo odpowiedź i poczujesz, że ciało przyspiesza, połóż dłoń na klatce piersiowej na kilka zwykłych oddechów i niczego nie licz.
+**NA JUTRO:** Gdy będziesz czekać na wynik, swoją kolej albo odpowiedź i poczujesz, że ciało przyspiesza, zauważ kilka zwykłych oddechów. Jeśli chcesz, połóż dłoń na klatce piersiowej; jeśli nie, zostaw dłonie na kolanach.
 Nini: Jedyna rzecz, której dziś nie trzeba przypominać, co ma robić.
 
 ### GRAMY: HISTORIA, KTÓREJ NIKT NIE ZAPLANOWAŁ
