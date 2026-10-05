@@ -958,13 +958,25 @@ Do not add the Look-Twice file as a fifth mark. It was routed, not marked.
 ### CASE FILE // WHAT HAPPENED
 
 
-The next morning, Luli circles Difference #1 from the Look-Twice file and finally has something useful: **017** is a current storage reference; **071** belongs to the retired intake series kept in Heritage. One swapped pair of digits has been pointing at the wrong drawer all along. Bibi copies the plain **0** from the Case Wall, takes reference **071** to the Academy Heritage Gallery and goes looking for an older trail.
+The locker code opens the old envelope - and gives the team one more plain **0** to add to the Case Wall.
 
-She gets three steps inside before Uma, the registrar, intercepts her.
+The next morning, Luli goes back to the Look-Twice mismatch list. Difference #1 has been bothering her: **017 / 071**.
+
+This time she checks the Academy index.
+
+**017** is a current storage reference. **071** belongs to the retired intake series kept in Heritage.
+
+One swapped pair of digits has been pointing at the wrong drawer all along.
+
+Bibi takes reference **071** to the Academy Heritage Gallery and goes looking for the older intake trail.
+
+She gets three steps through the door before Uma, the registrar, intercepts her.
 
 "Good," Uma says. "You're here. I have a dragon problem."
 
-The display label reads **CEREMONIAL DRAGON TOOTH**. The object underneath is a perfectly ordinary Roman spoon. Nobody yet knows whether the object moved, the label moved or somebody had a very specific sense of humor. Uma is the last person the gallery record can place with certainty. One other person shared her room during the relevant window and may know **which part changed - and when**.
+The display label reads **CEREMONIAL DRAGON TOOTH**. The object underneath is a perfectly ordinary Roman spoon.
+
+Uma is the last person the gallery record can place with certainty. One other person shared her room during the relevant window - the only witness who may know **whether the object moved, the label moved, and when the mismatch first appeared.**
 
 
 ### YOUR OBJECTIVE
@@ -1032,11 +1044,17 @@ Now the team has a pattern - and no explanation yet.
 ### CASE FILE // WHAT HAPPENED
 
 
-Uma's follow-up settles one thing: the Roman spoon belongs to the neighboring display. Nothing was stolen. The **dragon-tooth label card** was the thing that moved. Bibi leaves Heritage with copies of the old intake forms she came for, and the team cuts back through the Undercover Training Wing - mock hotel rooms, fake kitchens, disguise storage and several places Alio considers excellent for "recon."
+Uma's follow-up gives the gallery the answer it needed: the Roman spoon belongs to the neighboring display. Nothing was stolen. The **dragon-tooth label card** moved.
 
-A trainer stops them in the corridor. The giant moon costume has vanished from its rack.
+That narrows the switch to one short window, and Bibi finally leaves Heritage with copies of the old intake forms she came for.
 
-Gray signed the last inventory check, and his area is the final reliable checkpoint before the costume disappears from the record.
+On the way back, the team cuts through the Undercover Training Wing - mock hotel rooms, fake kitchens, disguise storage and several places Alio considers "excellent for recon."
+
+A trainer blocks the corridor.
+
+The giant moon costume has vanished from its rack.
+
+Gray signed the last inventory check. Whoever shared his area is the only person who can help pin down **when the costume left the rack and whether it was moved as part of the drill or after it.**
 
 
 ### YOUR OBJECTIVE
@@ -1087,7 +1105,19 @@ Gray signed the last inventory check, and his area is the final reliable checkpo
 ### CASE FILE // WHAT HAPPENED
 
 
-The trainer now has a real lead from Gray's checkpoint. Unfortunately, the moon costume is still missing and the rehearsal clock is not interested in waiting. The prop room is on the far side of the Undercover Wing. Alio has already drawn three "faster" routes to reach it. One runs into the closed Paint Corridor. One depends on the locked Staff Stairs. One might actually work. The costume search cannot move until the team gets there.
+Gray's room companion gives the trainer a real time window. The moon costume is still missing.
+
+The rehearsal clock is running.
+
+The prop room is on the far side of the Undercover Wing, and Alio has already drawn three "faster" routes to reach it.
+
+One runs into the closed Paint Corridor.
+
+One depends on the locked Staff Stairs.
+
+One might actually work.
+
+The team cannot check the prop room - or close the costume trail - until you find the route that survives the building.
 
 
 ### YOUR OBJECTIVE
@@ -1136,11 +1166,19 @@ The trainer now has a real lead from Gray's checkpoint. Unfortunately, the moon 
 ### CASE FILE // WHAT HAPPENED
 
 
-The moon costume finally turns up in the prop room: moved there for the evening drill, not stolen, not mysteriously walking the halls. Alio's cupboard investigation is officially retired.
+The moon costume is exactly where the valid route leads: in the prop room, moved there for the evening drill. No theft. No walking costume. Alio's dramatic-cupboard investigation is officially closed.
 
-Back at the Academy, Luli opens the Case Wall to **MATCHING MARKS**. The four record names you saved are waiting there. She places the original samples beside ordinary circles and dials that look just similar enough to be annoying. Then Bibi sees the set.
+Back at the Academy, the old-system question is still waiting.
 
-She goes completely still.
+Luli opens the Case Wall to **MATCHING MARKS** and lays out the four records you saved. Then she mixes in ordinary circles and dials that look just similar enough to be dangerous if you want the pattern too badly.
+
+"Same shape is not enough," she says.
+
+Bibi reaches the table, sees the true set -
+
+and stops.
+
+For the first time all day, nobody fills the silence.
 
 
 ### YOUR OBJECTIVE
