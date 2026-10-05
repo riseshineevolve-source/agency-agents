@@ -415,7 +415,7 @@ Nini: Trzy kolory, dwa dźwięki, jedna podłoga. Wreszcie lista, którą da si�
 
 ### GRAMY: ROZPLĄCZCIE TO
 
-**START:** Stańcie blisko siebie w kółku.
+**START:** Stańcie blisko siebie w kółku. Ta wersja działa tylko wtedy, gdy wszystkim odpowiada trzymanie się za ręce. Jeśli nie, od razu wybierzcie wersję **BEZ DOTYKU** poniżej.
 
 **GRAMY:** Każdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie łapcie obu dłoni tej samej osoby. Przy pięciu osobach lub więcej postarajcie się nie wybierać sąsiadów. Przy czterech sąsiad może być potrzebny.
 
@@ -427,7 +427,9 @@ Na końcu może powstać jedno koło albo dwa mniejsze. Oba wyniki są w porząd
 
 **MNIEJSZA GRUPA:** W trzy osoby każda osoba łapie po jednej dłoni obu pozostałych i wspólnie próbujecie się odkręcić.
 
-**W DWIE OSOBY:** Skrzyżujcie ręce, złapcie się za dłonie i spróbujcie powoli się odkręcić. Kontakt wzrokowy może być dodatkowym utrudnieniem, nigdy obowiązkiem.
+**BEZ DOTYKU:** Bez mówienia ustawcie się najpierw alfabetycznie według imion, a potem według miesiąca urodzin, od stycznia do grudnia. Możecie pokazywać, liczyć na palcach i gestykulować. Nie ścigacie się. W dwie osoby bez słów ustalcie, kto powinien stanąć pierwszy, a dopiero potem sprawdźcie odpowiedź.
+
+**W DWIE OSOBY:** Jeśli obojgu odpowiada dotyk, skrzyżujcie ręce, złapcie się za dłonie i spróbujcie powoli się odkręcić. Kontakt wzrokowy może być dodatkowym utrudnieniem, nigdy obowiązkiem.
 
 Mimi: Jeśli po chwili nie wiecie, która ręka jest czyja, wszystko idzie zgodnie z planem.
 
