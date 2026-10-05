@@ -686,7 +686,7 @@ Only one other person shared Max's room during the undocumented return window. T
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bleacher, desk, stool.
 - SQUARE BLOCKED BY: globe, lab bench, piano, teacher's desk.
 
@@ -807,7 +807,7 @@ Pixel is the last verified handoff point before the transfer record breaks. The 
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bench, bumper car, gondola.
 - SQUARE BLOCKED BY: cotton candy machine, popcorn cart, prize shelf, ring toss stand, strongman game.
 
@@ -935,7 +935,7 @@ It is not enough to explain one.
 - **NINI:** Good. We still have room for a better idea.
 
 
-### CASE WALL -> PAGE 9
+### CASE WALL -> PAGE 13
 
 
 **MATCHING MARKS:** draw one plain **0** and list the four records carrying it.  
@@ -986,7 +986,7 @@ Uma is the last person the gallery record can place with certainty. One other pe
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bench, stool.
 - SQUARE BLOCKED BY: display case, fern, pedestal, sarcophagus, skeleton, statue.
 
@@ -1064,7 +1064,7 @@ Gray signed the last inventory check. Whoever shared his area is the only person
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bar stool, chair, massage table.
 - SQUARE BLOCKED BY: buffet, cart, palm, piano, range, washer.
 
@@ -1232,7 +1232,7 @@ Then she heads for the archive.
 That is all the team gets - and, for once, nobody fills the gap with a tunnel.
 
 
-### CASE WALL -> PAGE 9
+### CASE WALL -> PAGE 13
 
 
 Under **OPEN QUESTIONS**, add one note beneath the question you already saved: **BIBI RECOGNIZES THE OLD FORM. ZERO'S MEANING STILL UNKNOWN.**
@@ -1272,7 +1272,7 @@ Dash is the last person the system places with certainty. The one person who sha
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bunk, seat.
 - SQUARE BLOCKED BY: console, crate, cryopod, locker, tank.
 
@@ -1398,7 +1398,7 @@ Winter is the one handler the rehearsal record places with certainty. The person
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bench, dog bed, grooming tub.
 - SQUARE BLOCKED BY: bird cage, crate, platform, toy basket, tunnel.
 
@@ -1473,7 +1473,7 @@ Nobody writes that down.
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bench, exam table, jeep.
 - SQUARE BLOCKED BY: crates, dinosaur statue, feeding trough, giant fern, info kiosk, ranger desk.
 
@@ -1596,7 +1596,7 @@ Milo is the cleanest fixed point in the departure record. The person sharing his
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: canoe, cot, stool.
 - SQUARE BLOCKED BY: backpacks, canoe rack, games shelf, welcome desk.
 
@@ -1703,7 +1703,7 @@ Her younger handwriting is still there:
 Nobody at the table knows the missing rule yet.
 
 
-### CASE WALL -> PAGE 9
+### CASE WALL -> PAGE 13
 
 
 Under **MESSAGES / RULES**, copy that exact line from the back of the photograph.
@@ -1746,7 +1746,7 @@ Reed is the last person the station record places before the handoff disappears.
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bench, seat.
 - SQUARE BLOCKED BY: luggage rack, stove, table, trunk.
 
@@ -1881,7 +1881,7 @@ Sasha is the one name fixed on the scanner log. The person sharing Sasha's mappe
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bleacher, desk, stool.
 - SQUARE BLOCKED BY: globe, lab bench, lockers, piano, teacher's desk.
 
@@ -1943,7 +1943,7 @@ No one asks why.
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: cadet bunk, pilot seat.
 - SQUARE BLOCKED BY: flight console, fusion reactor, oxygen tank, sleep pod, suit locker, supply crate.
 
@@ -2060,7 +2060,7 @@ Nini looks at the saved maps, then at the four scraps.
 
 No one tears anything else.
 
-### CASE WALL -> PAGE 9
+### CASE WALL -> PAGE 13
 
 Under **MESSAGES / RULES**, copy the full sentence you reconstructed in Case 21 **exactly as you wrote it**.
 
@@ -2112,7 +2112,7 @@ When you finish, Mimi files the full map with the others instead of reducing it 
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bleacher, desk, stool.
 - SQUARE BLOCKED BY: lab bench, lockers, piano, teacher's desk.
 
@@ -2173,7 +2173,7 @@ Jude is the last point where the log still has both a person and a location. The
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bench, gondola.
 - SQUARE BLOCKED BY: balloon cart, cotton candy machine, funhouse mirror, popcorn cart, prize shelf, strongman game.
 
@@ -2300,7 +2300,7 @@ Nori is the last traceable step in the routing record. The person sharing Nori's
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bar stool, bed, chair, massage table.
 - SQUARE BLOCKED BY: bar, buffet, cart, desk, palm, piano, range, washer.
 
@@ -2342,7 +2342,7 @@ For the first time since the torn note, the intake printer moves by itself. A na
 **MAP SET: COMPLETE**  
 **SELECTED FILES: 14**
 
-Nini turns to page 9 and taps the message you saved from Case 21. Around her, the fourteen files named by the route are pulled from the case stack. Your Case 01 intake map stays clipped to the recruitment file: it started the route, but it is not one of the fourteen selected for this step.
+Nini turns to page 13 and taps the message you saved from Case 21. Around her, the fourteen files named by the route are pulled from the case stack. Your Case 01 intake map stays clipped to the recruitment file: it started the route, but it is not one of the fourteen selected for this step.
 
 The old cases are about to become new evidence.
 
@@ -2417,7 +2417,7 @@ Nini locks the door.
 Write one letter in each of the 14 boxes above. Then read the message.
 
 
-### CASE WALL -> PAGE 9
+### CASE WALL -> PAGE 13
 
 
 **MESSAGES / RULES**
@@ -2569,7 +2569,7 @@ Write each claim letter **A-F** in the correct zone.
 **MISSING WORD IN RULE ZERO:** _____________________________
 
 
-### CASE WALL -> PAGE 9
+### CASE WALL -> PAGE 13
 
 
 **MESSAGES / RULES**
@@ -2619,7 +2619,7 @@ Seth is the one placement the old record treats as certain. The map is the only 
 ### INVESTIGATION RULES
 
 
-- Use the Standard Map Case Rules on page 8.
+- Use the Standard Map Case Rules on page 11.
 - PERSON MAY STAND ON: bleacher, desk, stool.
 - SQUARE BLOCKED BY: globe, lab bench, lockers, piano, teacher's desk.
 
@@ -2648,7 +2648,7 @@ Seth is the one placement the old record treats as certain. The map is the only 
 **COORDINATE:** __________
 
 
-### CASE WALL -> PAGE 9
+### CASE WALL -> PAGE 13
 
 
 **CODES / COORDINATES**
@@ -2668,7 +2668,7 @@ Mimi closes the file and points at your Case Wall.
 
 "Bring what you already earned."
 
-Take **page 9** and your **Recruit Credential** into the final case.
+Take **page 13** and your **Recruit Credential** into the final case.
 
 
 
@@ -2714,7 +2714,7 @@ It is asking whether you kept enough of what you already proved.
 
 
 - Every final field comes from earlier work; do not invent a new answer.
-- Use your **Case Wall on page 9** for RULE, ROOM and CODE.
+- Use your **Case Wall on page 13** for RULE, ROOM and CODE.
 - The panel calls its second field **ROOM**, but it expects the access coordinate you earned in Case 29.
 - Use your Recruit Credential for DETECTIVE.
 
@@ -4130,7 +4130,7 @@ Every case must preserve this sequence. A layout may flow across two, three or f
 5. **HAPPY MAKERS CHAT** — usually 4-7 short beats; personality, humor, family-style teasing, relationship and useful thinking; major reveal scenes may run longer. Never secret evidence and never a duplicate mission instruction.
 6. **EVIDENCE / PUZZLE SURFACE** — Witness Board, map, photo pair, code, timeline, document, cards or overlay.
 7. **YOUR VERDICT / RESPONSE** — mechanic-specific response surface. Never substitute a generic one-line field.
-8. **OPTIONAL CASE WALL UPDATE** — only when the story explicitly needs a reusable meta clue. It must say **CASE WALL -> PAGE 9** and name the exact zone/item to copy.
+8. **OPTIONAL CASE WALL UPDATE** — only when the story explicitly needs a reusable meta clue. It must say **CASE WALL -> PAGE 13** and name the exact zone/item to copy.
 
 Reader-facing answers and reasoning do **not** appear immediately after the case. They live only in the upside-down Hint Vault / Solution Files at the back; each Solution File ends with one short WHY IT MATTERS line that advances the story instead of repeating the answer.
 
@@ -4161,7 +4161,7 @@ At any point the reader should be able to answer:
 - no gray-zone wording unless a visible gray semantic exists
 - exact approved props / no thin-line fallback art
 - PERSON / WITNESS + COORDINATE response
-- optional **CASE WALL -> PAGE 9** callout only when a real meta clue must be copied
+- optional **CASE WALL -> PAGE 13** callout only when a real meta clue must be copied
 
 ### FAMILY V // VISUAL / PHOTO / SEQUENCE CASE
 
@@ -4226,7 +4226,7 @@ Later layout work must not:
 - replace mechanic-specific response surfaces with a generic line;
 - reintroduce stale names or old Case 03 mechanics;
 - invent new Room Zero marks/signals to fill space;
-- delete an explicit CASE WALL -> PAGE 9 instruction needed by later meta logic.
+- delete an explicit CASE WALL -> PAGE 13 instruction needed by later meta logic.
 
 **Reflow before cutting copy. Add a page before deleting an earned story beat.**
 
@@ -4347,7 +4347,7 @@ Do not repeat:
 - a rule inside both prose and the rule list;
 - the answer after the response surface;
 - the same Room Zero fact in intro + chat + summary;
-- Case Wall instructions unless an item truly belongs on page 9.
+- Case Wall instructions unless an item truly belongs on page 13.
 
 The official result and deduction reasoning live in the back-of-book Solution Files.
 
