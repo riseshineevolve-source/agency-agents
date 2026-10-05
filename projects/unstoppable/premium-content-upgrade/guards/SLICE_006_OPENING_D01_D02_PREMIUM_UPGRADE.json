@@ -1,0 +1,37 @@
+{
+  "slice_id": "SLICE_006_OPENING_D01_D02_PREMIUM_UPGRADE",
+  "base_master": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V5_SOURCE_CONVERGED.txt",
+  "base_master_git_blob": "44a6490a182fa70149abf365ec0241d484f4d81a",
+  "allowed_changed_segments": [
+    "PRE.WELCOME",
+    "D01.INTRO",
+    "D01.BRIEFING",
+    "D01.WORKBENCH",
+    "D01.SYSTEM_REBOOT",
+    "D01.GLITCH_PUZZLE",
+    "D02.INTRO",
+    "D02.BRIEFING",
+    "D02.WORKBENCH",
+    "D02.SYSTEM_REBOOT",
+    "D02.GLITCH_PUZZLE"
+  ],
+  "protected_subregions": [
+    "D01.INTRO.QUOTE",
+    "D02.INTRO.QUOTE",
+    "D01.FREE_ROAM",
+    "D02.FREE_ROAM",
+    "PRE.DEDICATION",
+    "ALL_OTHER_SEGMENTS"
+  ],
+  "expected_dependency_closure": {
+    "update": [
+      "PUZZLE_TRUTH_REGISTRY"
+    ],
+    "validate_only": [
+      "BACK.FIRST_AID_KIT",
+      "GLOBAL.TERMINOLOGY"
+    ]
+  },
+  "reviewer_packet": "reviews/SLICE_006_OPENING_D01_D02_REVIEW_BOARD.md",
+  "reason": "first creative premium slice: opening power, teen-ear, agency, consent, reusable mechanics and puzzle completeness"
+}
