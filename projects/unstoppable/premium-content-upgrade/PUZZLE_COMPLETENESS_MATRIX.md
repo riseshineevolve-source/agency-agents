@@ -1,7 +1,7 @@
-# Puzzle Completeness Matrix — Current Master V9
+# Puzzle Completeness Matrix — Current Master V10
 
-Candidate master: `WORKING_MASTER_V9_TEXT_PUZZLES_A.txt`
-Candidate blob: `9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5`
+Candidate master: `WORKING_MASTER_V10_PUZZLE_REDESIGN_B.txt`
+Candidate blob: `4b9898db55a4e179a2740f96e28949990b189f78`
 
 Legend:
 - **PASS** = self-contained in text; answer/no-answer truth can be locked.
@@ -37,13 +37,13 @@ Legend:
 | 22 | Career Decoder | PASS | Engineering / Design / Medicine locked |
 | 23 | Hidden Star | BLOCK-ASSET | Pattern image with exact star location |
 | 24 | Maze | BLOCK-ASSET | Actual maze + route truth |
-| 25 | Lateral Thinking | BLOCK-TEXT | "Monopoly puzzle" is only a placeholder |
+| 25 | Debug the Experiment | PASS | Original 3-trial data puzzle; answer B + claim boundary locked |
 | 26 | Connection Riddle | PASS | Cheese locked |
-| 27 | The Bridge | BLOCK-TEXT | Full logic puzzle statement + answer |
-| 28 | Cryptogram | REDESIGN | Current dotted plain-English phrase is not a real cryptogram |
+| 27 | The Flashlight Bridge | PASS | Complete 1/2/5/8-minute bridge puzzle; minimum 15 minutes locked |
+| 28 | Shift Code | PASS | Caesar +3 code and decoded answer locked |
 | 29 | Happy Logic | PASS | Neutral-face symbol locked |
-| 30 | The End | REDESIGN | Current riddle is ambiguous and does not meaningfully pay off Day 1 |
-| 31 | The Final Key | REDESIGN | Current page prints the answer and is not a real final puzzle |
+| 30 | The Evidence Hunt | PASS | Self-scored book scavenger hunt with explicit completion condition |
+| 31 | The Final Key | PASS | Meta-puzzle resolves to RESET from locked earlier puzzle truth |
 
 ## Board conclusion
 
