@@ -21,6 +21,70 @@
       "answer": "South",
       "status": "PASS",
       "candidate_blob": "ff779b6491093e3109c58b8b617160b1e7c83a96"
+    },
+    {
+      "segment_id": "D03.GLITCH_PUZZLE",
+      "title": "Emoji Decoder",
+      "answer_bank": [
+        "ANGER",
+        "SADNESS",
+        "NERVOUSNESS"
+      ],
+      "prompts": [
+        {
+          "prompt": "FIRE + FIST",
+          "answer": "ANGER",
+          "accepted_synonyms": [
+            "MAD",
+            "FRUSTRATION"
+          ]
+        },
+        {
+          "prompt": "RAIN + BED",
+          "answer": "SADNESS",
+          "accepted_synonyms": [
+            "SAD",
+            "LOW"
+          ]
+        },
+        {
+          "prompt": "BUTTERFLY + MIC",
+          "answer": "NERVOUSNESS",
+          "accepted_synonyms": [
+            "NERVOUS",
+            "ANXIETY",
+            "STAGE FRIGHT"
+          ]
+        }
+      ],
+      "status": "PASS",
+      "candidate_blob": "34012afd7a66236846f33a003bac7a3043aed30b"
+    },
+    {
+      "segment_id": "D04.GLITCH_PUZZLE",
+      "title": "Friendship Logic",
+      "hobbies": [
+        "CHESS",
+        "RUNNING",
+        "PAINTING",
+        "CODING"
+      ],
+      "clues": [
+        "Alex avoids computers.",
+        "Ben is always moving.",
+        "Casey carries a sketchbook everywhere.",
+        "Dana loves building things on a laptop."
+      ],
+      "answer": {
+        "Alex": "CHESS",
+        "Ben": "RUNNING",
+        "Casey": "PAINTING",
+        "Dana": "CODING"
+      },
+      "uniqueness": "unique by direct elimination",
+      "status": "PASS",
+      "candidate_blob": "34012afd7a66236846f33a003bac7a3043aed30b"
     }
-  ]
+  ],
+  "last_updated": "2026-10-05"
 }
