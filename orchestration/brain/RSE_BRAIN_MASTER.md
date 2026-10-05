@@ -1303,3 +1303,10 @@ Core law:
 
 Operational agent:
 `specialized/rse-book-production-agent.md`.
+
+## Growth Operating System — Q4 2026 owner override
+
+Canonical strategy: `orchestration/strategy/RSE_GROWTH_OPERATING_SYSTEM_2026_Q4.md`.
+
+Current operating doctrine: **REVENUE ASAP / FINISH -> PUBLISH -> SELL -> LEARN -> SCALE**. Release closure remains primary; when a higher-priority product is at a real owner/external gate, Central advances only the next revenue-safe product or bounded growth-enablement work. New tools/agents must pass the strategy adoption gate; extend existing RSE capability before adding duplicate stacks. One-writer-per-surface and owner approval for irreversible commercial/visual/legal gates remain mandatory.
+
