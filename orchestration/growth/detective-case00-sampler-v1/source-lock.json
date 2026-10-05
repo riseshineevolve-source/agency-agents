@@ -1,0 +1,23 @@
+{
+  "status": "NON_PRODUCTION_SOURCE_LOCK",
+  "source_branch": "feature/detective-en-premium-content-upgrade-20261005",
+  "source_branch_head_verified": "24918a3a747373d1d25375e3e6aff3b8a7387f32",
+  "source_file": "orchestration/detective/content-upgrade/detective-en-premium-v1/OWNER_READ_CANDIDATE_EN_PREMIUM_V10.md",
+  "source_blob": "19df709e381445a6f5a52d7b0c1c898bd5b706be",
+  "source_state": "OWNER_READ_CANDIDATE_CONTENT_NOT_YET_FROZEN",
+  "clues": [
+    "STAR comes immediately before BOLT.",
+    "BALL appears somewhere before STAR.",
+    "HEART appears somewhere after BOLT.",
+    "KEY appears somewhere before MOON.",
+    "HEART appears somewhere before MOON.",
+    "HEART is not fifth."
+  ],
+  "hints": [
+    "Treat STAR -> BOLT as one two-symbol block. Then compare which symbols must sit before and after that block.",
+    "BALL is before STAR. HEART is after BOLT but cannot be fifth. KEY is before MOON, and HEART is also before MOON.",
+    "Test where the STAR-BOLT block can sit. Only one placement leaves BALL before it and still lets HEART, KEY and MOON satisfy all three later-order clues."
+  ],
+  "solution": ["BALL","STAR","BOLT","HEART","KEY","MOON"],
+  "deploy_authorized": false
+}
