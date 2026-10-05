@@ -15,6 +15,15 @@ This file records decisions that must not disappear when chats become inaccessib
 - [LOCKED] Wave 2 and Gifts remain deferred unless explicitly promoted.
 - [LOCKED] Do not spend Codex budget on status summaries or work deterministic tools can do.
 
+## Growth Operating System — Q4 2026
+
+- [LOCKED] Canonical cross-role strategy addendum: `orchestration/strategy/RSE_GROWTH_OPERATING_SYSTEM_2026_Q4.md`.
+- [LOCKED] Operating doctrine: **REVENUE ASAP / FINISH -> PUBLISH -> SELL -> LEARN -> SCALE**.
+- [LOCKED] Release blockers outrank growth experiments; growth support is used when higher-priority release work is owner/external blocked.
+- [LOCKED] New tools/vendors/agents must pass the Growth OS adoption gate; extend existing RSE capability before adding overlap.
+- [LOCKED] One writer per surface: while a dedicated project owner is active, Central may read/sync but must not write that project lane.
+- [CURRENT] Safe near-term Central sequence: Detective Academy EN release blockers -> Optical exact-identity/search proof -> Gentle Steps EN Advent app -> Project Unstoppable BOOK FIRST when higher lanes are blocked -> bounded growth enablement.
+
 ## Brand
 
 - [LOCKED] Master brand is Rise.Shine.Evolve.
