@@ -1,0 +1,32 @@
+{
+  "slice_id": "SLICE_009_TEXT_PUZZLE_CLOSURE_A",
+  "base_master": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V8_D05_D07_PREMIUM.txt",
+  "base_master_git_blob": "d8bfc2234568372f398072952886cbf31c19fa45",
+  "allowed_changed_segments": [
+    "D09.GLITCH_PUZZLE",
+    "D11.GLITCH_PUZZLE",
+    "D15.GLITCH_PUZZLE",
+    "D19.GLITCH_PUZZLE"
+  ],
+  "protected_regions": [
+    "ALL_OTHER_MASTER_SEGMENTS",
+    "ALL_DAILY_QUOTE_TAILS"
+  ],
+  "truth_only_updates": [
+    "D16.GLITCH_PUZZLE",
+    "D22.GLITCH_PUZZLE",
+    "D26.GLITCH_PUZZLE",
+    "D29.GLITCH_PUZZLE"
+  ],
+  "expected_dependency_closure": {
+    "update": [
+      "PUZZLE_TRUTH_REGISTRY",
+      "PUZZLE_COMPLETENESS_MATRIX"
+    ],
+    "validate_only": [
+      "ISSUE_LEDGER"
+    ]
+  },
+  "reviewer_packet": "reviews/SLICE_009_TEXT_PUZZLE_CLOSURE_A_REVIEW_BOARD.md",
+  "reason": "close straightforward text-only puzzle mechanics before broader creative polish"
+}
