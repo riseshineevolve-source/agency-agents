@@ -1,0 +1,59 @@
+{
+  "book_id": "project-unstoppable-en-happy-makers-v2",
+  "current_master": {
+    "path": "projects/unstoppable/happy-makers-premium-v2/working/WORKING_MASTER_V7_FRESH_EYES_FIXES.txt",
+    "git_blob": "c02f1e65f27ad56df3e9dc0870fab0261f303727"
+  },
+  "issues": [
+    {
+      "id": "V2-HM-ENSEMBLE",
+      "severity": "RESOLVED",
+      "problem": "V1 used Dilo/Luli almost exclusively and did not deliver six-character Happy Makers leadership.",
+      "resolution": "All six canonical Happy Makers are integrated with distinct roles, 31 HM CHAT exchanges, and the Seventh Seat payoff."
+    },
+    {
+      "id": "V2-PROGRESSION",
+      "severity": "RESOLVED",
+      "problem": "31 useful days felt too independent; progress was implied rather than accumulated.",
+      "resolution": "Five-stage arc, four checkpoints, 31 observable field results, cumulative field kit and escalating independence."
+    },
+    {
+      "id": "V2-FREE-ROAM-FILLER",
+      "severity": "RESOLVED",
+      "problem": "FREE ROAM pages were mostly generic blank brain-dump pages.",
+      "resolution": "All 31 now capture day-specific evidence, decisions, or checkpoint proof while preserving open space."
+    },
+    {
+      "id": "V2-FINALE-PAYOFF",
+      "severity": "RESOLVED",
+      "problem": "Ending was practical but did not fully deliver team attachment or desire to continue.",
+      "resolution": "Competitive finale selected Seventh Seat + Personal Field Kit; page 189 gives six-voice welcome and future-mission hook."
+    },
+    {
+      "id": "V2-PUZZLE-FRAMING",
+      "severity": "RESOLVED",
+      "problem": "Three legacy cheat codes contradicted or undercut upgraded day mechanics.",
+      "resolution": "D11, D16 and D26 framing fixed without changing puzzle truth."
+    },
+    {
+      "id": "V2-EXTERNAL-AVAILABILITY",
+      "severity": "RESOLVED",
+      "problem": "D6 and D26 could stall if a trusted adult was not available that day.",
+      "resolution": "Preparation/delayed-run fallbacks added."
+    },
+    {
+      "id": "V2-FINAL-KEY-SPOILER",
+      "severity": "RESOLVED",
+      "problem": "D31 System Reboot revealed RESET immediately before the Final Key puzzle.",
+      "resolution": "Spoiler removed; page now leads into the puzzle without naming the answer."
+    },
+    {
+      "id": "V2-SAFETY-CONSENT",
+      "severity": "RESOLVED",
+      "problem": "Owner required all V1 safety/consent gains to survive the V2 rewrite.",
+      "resolution": "Bullying escalation, trusted-adult support, private alternatives, optional disclosure/sharing and no-treatment boundary preserved."
+    }
+  ],
+  "open_material_issues": 0,
+  "last_updated": "2026-10-05"
+}
