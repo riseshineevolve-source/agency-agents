@@ -1,0 +1,36 @@
+{
+  "schema": "rse-premium-book-source-inventory-v1",
+  "book": "Happy Makers Detective Academy — The Mystery of Room Zero — Book 1",
+  "target_language": "en",
+  "route": "SAME_LANGUAGE_PREMIUM_UPGRADE",
+  "baseline_authority": "DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md",
+  "versions": [
+    {
+      "id": "V1",
+      "path": "orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V1.md",
+      "git_blob": "e4df22cef31d75398a23e7121b969d549b8d9f3b",
+      "chars": 107171
+    },
+    {
+      "id": "V2",
+      "path": "orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V2.md",
+      "git_blob": "e9bddb928f3917dacd9a4e766e7eb6d4967181a6",
+      "chars": 114136
+    },
+    {
+      "id": "V3",
+      "path": "orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md",
+      "git_blob": "8685f8e561d0bfb3837445b72b4d6f799a9a48f2",
+      "chars": 113743
+    }
+  ],
+  "protocol_attachment": {
+    "filename": "Wklejony tekst(20261005-090228).txt",
+    "sha256": "8ce3d6f7085040fbfbddb1453cee2bb75dc6505804df5cc2801658cbec9efa14"
+  },
+  "notes": [
+    "V3 is current canonical production-integration text master and immutable baseline for this stream.",
+    "V1/V2 remain comparison sources; newer does not automatically win, but any rescue must have a concrete quality reason.",
+    "Gentle Steps / Polish Engine files are out of scope and must not be edited."
+  ]
+}
