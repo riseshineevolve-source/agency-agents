@@ -13,6 +13,15 @@
         "Puzzle/Logic Validator",
         "Activity Instruction Reviewer",
         "Teen Reader"
+      ],
+      "progress": [
+        "D01 PASS — Mirror Code truth locked",
+        "D02 PASS — Binary Turn Code truth locked",
+        "D03 PASS — Emoji Decoder answer bank/synonyms locked",
+        "D04 PASS — Friendship Logic unique mapping locked",
+        "D05 ASSET_SPEC_READY — exact 7 single-property shield differences locked",
+        "D06 PASS — Code Breaker B/B locked",
+        "D07 ASSET_SPEC_READY — deterministic 7x7 perfect maze + unique route locked"
       ]
     },
     {
@@ -68,7 +77,14 @@
       "scope": "briefings/workbenches across family/social days",
       "evidence": "frequent assumptions of parent/sibling/best friend/family group chat/allowance and required sharing or photos",
       "reader_risk": "excludes readers or pressures disclosure",
-      "direction": "offer parent/caregiver/trusted adult/person-you-choose and private/skip alternatives"
+      "direction": "offer parent/caregiver/trusted adult/person-you-choose and private/skip alternatives",
+      "progress": [
+        "Days 1-2 premium upgrade added optional/private alternatives",
+        "Day 4 relationship map no longer assumes family as default safe squad",
+        "Day 5 avoids worst-insult disclosure and retains trusted-adult safety escalation",
+        "Day 6 broadens to safe adult and makes both sides' questions skippable",
+        "Day 7 reset no longer assumes Sunday/Monday schedule"
+      ]
     },
     {
       "issue_id": "ISSUE-TEEN-EAR",
@@ -76,7 +92,12 @@
       "scope": "book-wide",
       "evidence": "dated or forced youth language including 'Bye, Felicia', 'Here is the tea', 'hell yes', repeated boss/CEO/NPC/gamer metaphors",
       "reader_risk": "adult-trying-too-hard cringe; voice ages quickly",
-      "direction": "keep high humor but make it situational and character-specific"
+      "direction": "keep high humor but make it situational and character-specific",
+      "progress": [
+        "Opening/Days 1-2 removed Legend hype, Bye Felicia and Here is the tea",
+        "Days 3-4 removed wellness-style connection-cord language",
+        "Days 5-7 reduced transactional/adult-coaching wording; Day 7 keeps one situational tech joke"
+      ]
     },
     {
       "issue_id": "ISSUE-RESET-CLAIMS-REPETITION",
