@@ -360,6 +360,111 @@
       "uniqueness": "perfect maze / tree geometry; exactly one path between any two cells",
       "render_contract": "Render walls deterministically from cell openings; no generated geometry. Keep icons inside start/goal cells without covering openings.",
       "candidate_blob": "d8bfc2234568372f398072952886cbf31c19fa45"
+    },
+    {
+      "segment_id": "D09.GLITCH_PUZZLE",
+      "title": "The Time Paradox",
+      "status": "PASS",
+      "correct_option": "A",
+      "answer": "5 minutes",
+      "explanation": "Each machine makes one widget in 5 minutes. With 100 machines working at the same time, each makes one widget, so 100 widgets still take 5 minutes.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D11.GLITCH_PUZZLE",
+      "title": "Tower of Hanoi",
+      "status": "PASS",
+      "disk_count": 3,
+      "start_peg": "A",
+      "goal_peg": "C",
+      "auxiliary_peg": "B",
+      "minimum_moves": 7,
+      "canonical_solution": [
+        "A→C",
+        "A→B",
+        "C→B",
+        "A→C",
+        "B→A",
+        "B→C",
+        "A→C"
+      ],
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D15.GLITCH_PUZZLE",
+      "title": "Logic Riddle",
+      "status": "PASS",
+      "answer": "Echo",
+      "accepted_variants": [
+        "an echo",
+        "echo"
+      ],
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D16.GLITCH_PUZZLE",
+      "title": "The Missing Dollar",
+      "status": "PASS",
+      "answer": "There is no missing dollar.",
+      "explanation": "The $27 already equals $25 for the room plus $2 kept by the bellboy. Adding another $2 double-counts it. The correct reconciliation is $27 paid + $3 returned = $30.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D19.GLITCH_PUZZLE",
+      "title": "Schedule Logic",
+      "status": "PASS",
+      "slots": [
+        "4:00",
+        "4:30",
+        "5:00",
+        "5:30"
+      ],
+      "answer": {
+        "4:00": "MATH",
+        "4:30": "SCIENCE",
+        "5:00": "WALK",
+        "5:30": "GAME TIME"
+      },
+      "uniqueness": "Clues force Game Time last, Walk immediately before it, then Math before Science in the two remaining slots.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D22.GLITCH_PUZZLE",
+      "title": "Career Decoder",
+      "status": "PASS",
+      "answers": {
+        "GNIREENIGNE": "ENGINEERING",
+        "NGISED": "DESIGN",
+        "ENICIDEM": "MEDICINE"
+      },
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D26.GLITCH_PUZZLE",
+      "title": "Connection Riddle",
+      "status": "PASS",
+      "answer": "CHEESE",
+      "reason": "Swiss cheese, cottage cheese, cheesecake.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D29.GLITCH_PUZZLE",
+      "title": "Happy Logic",
+      "status": "PASS",
+      "sequence": [
+        "😊",
+        "😊",
+        "😐",
+        "😊",
+        "😊",
+        "😐",
+        "😊",
+        "😊",
+        "?"
+      ],
+      "answer": "😐",
+      "pattern": "two smiling faces, then one neutral face",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
     }
   ],
   "last_updated": "2026-10-05"
