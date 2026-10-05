@@ -111,7 +111,7 @@ The Detective Academy does not begin with suspects. It begins with something tha
 
 A strange record. A missing detail. Two stories that cannot both be right.
 
-Your job is to look closer before anyone decides what happened.
+If you step in, your job is to look closer before anyone decides what happened.
 
 **Take a look inside.  
 This is how the Academy works.**
@@ -729,7 +729,7 @@ The Trophy Hall witness cannot tell the team who returned the Cup.
 
 They can tell Luli something stranger: **the Cup was already back in the display case when they noticed it.**
 
-Then they point to two image files attached to the same record. Both are labelled as copies of one evidence photograph.
+Then they point to two image files attached to the same record. Both are labeled as copies of one evidence photograph.
 
 Same file. Same scene. Supposedly identical.
 
@@ -2607,7 +2607,7 @@ Mimi requests the old service-level access record for the exact section behind t
 
 The file that comes back contains the largest position map in the book.
 
-Seth is the one placement the old record treats as certain. Somewhere in his mapped area is the access coordinate the sealed panel is waiting for.
+Seth is the one placement the old record treats as certain. The map is the only record precise enough to identify **who shares Seth's area and the coordinate attached to that placement** - the location answer the sealed panel is waiting for.
 
 
 ### YOUR OBJECTIVE
