@@ -605,7 +605,7 @@ Nie musi to być nagroda, świetna ocena ani wielkie osiągnięcie. Może wreszc
 
 Reszta przez chwilę tylko słucha. Bez poprawiania i bez „mogłeś jeszcze…”.
 
-Nini: Dziś wolno się pochwalić. Skromność ma pięć minut przerwy.
+Nini: Dziś bez „to nic takiego”. Jak wyszło, to wyszło.
 
 ---
 
