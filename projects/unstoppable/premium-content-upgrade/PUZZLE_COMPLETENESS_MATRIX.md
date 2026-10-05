@@ -1,7 +1,7 @@
-# Puzzle Completeness Matrix — Current Master V10
+# Puzzle Completeness Matrix — Current Master V11
 
-Candidate master: `WORKING_MASTER_V10_PUZZLE_REDESIGN_B.txt`
-Candidate blob: `4b9898db55a4e179a2740f96e28949990b189f78`
+Candidate master: `WORKING_MASTER_V11_PUZZLE_SPECS_C.txt`
+Candidate blob: `fde03e476770eeed8210b3e17dc8d11372de8218`
 
 Legend:
 - **PASS** = self-contained in text; answer/no-answer truth can be locked.
@@ -22,11 +22,11 @@ Legend:
 | 7 | Unplugged Maze | ASSET-SPEC-READY | 7×7 perfect-maze geometry and unique solution path locked |
 | 8 | Memory Matrix | PASS | Self-scored memory activity; no answer key required |
 | 9 | Time Paradox | PASS | Answer A = 5 minutes; explanation locked |
-| 10 | Tangram | BLOCK-ASSET | Provide exact five shapes + target square + solution |
+| 10 | Five Pieces, One Square | ASSET-SPEC-READY | Exact five-piece cell geometry + canonical 4×4 solution locked |
 | 11 | Tower of Hanoi | PASS | 3 disks, A→C, rules and 7-move minimum locked |
-| 12 | Optical Illusion | BLOCK-ASSET | Actual B/W optical illusion + observation prompt |
-| 13 | Stroop Effect | REDESIGN | Current color-reading mechanic is unsuitable for B/W interior |
-| 14 | Mini Sudoku | BLOCK-ASSET | Actual solvable mini Sudoku + solution |
+| 12 | Same Length? | ASSET-SPEC-READY | Equal-length Müller-Lyer geometry locked for deterministic B/W render |
+| 13 | Direction Interference | PASS | B/W word-arrow interference sequence + answer string locked |
+| 14 | Mini Sudoku 4×4 | PASS | Unique starting grid + solution locked |
 | 15 | Logic Riddle | PASS | Answer removed from reader page; Echo locked separately |
 | 16 | Missing Dollar | PASS | No missing dollar; explanation locked |
 | 17 | Coin Triangle | BLOCK-ASSET | Starting 10-coin triangle + moved-coins solution |
