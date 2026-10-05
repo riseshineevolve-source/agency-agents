@@ -1,0 +1,33 @@
+{
+  "slice_id": "SLICE_003_D08_D11_SOURCE_CONVERGENCE",
+  "base_master": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V2_QUOTES_CONVERGED.txt",
+  "base_master_git_blob": "f3019ce4256edb266aa641fdf7b77ceeda99c3b8",
+  "allowed_changed_segments": [
+    "D08.INTRO",
+    "D08.BRIEFING",
+    "D08.SYSTEM_REBOOT",
+    "D08.GLITCH_PUZZLE",
+    "D09.INTRO",
+    "D09.BRIEFING",
+    "D09.GLITCH_PUZZLE",
+    "D10.INTRO",
+    "D10.WORKBENCH",
+    "D10.GLITCH_PUZZLE",
+    "D11.BRIEFING",
+    "D11.GLITCH_PUZZLE"
+  ],
+  "protected_subregions": [
+    "D10.GLITCH_PUZZLE.PUZZLE_TITLE",
+    "D10.GLITCH_PUZZLE.PRINT_TANGRAM_MECHANIC",
+    "ALL_DAILY_QUOTE_TAILS",
+    "ALL_OTHER_SEGMENTS"
+  ],
+  "expected_dependency_closure": {
+    "validate_only": [
+      "BACK.FIRST_AID_KIT",
+      "D10.APP_PARITY_LOCK"
+    ]
+  },
+  "source_of_change": "riseshineevolve-source/unstoppable-me@b447bce6d2ba00fb24a983dc94e59a6df74b153c",
+  "reason": "inherit reviewed study/focus/procrastination/project-management safety and clarity deltas while preserving intentional print/app mechanics"
+}
