@@ -61,3 +61,33 @@ Closed additional FIX items:
 
 20/24 MIĘDZY NAMI sections remained KEEP.
 No material MIĘDZY NAMI FIX remains.
+
+
+## R3 CLOSING PROGRAM
+
+Status: **ALL MATERIAL CLOSING FIXES RESOLVED**
+
+Closed after mega family-experience audit:
+- D01 urgent/nonurgent logic contradiction;
+- D05 true two-player uncertainty;
+- D13 shy-player agency;
+- D18 time/space scaling;
+- back-matter D21 continuity;
+- D09 Human Knot -> **PLAN B: 60 SEKUND**;
+- D24 singing-only ending -> **CZTERY MINUTY. CZTERY MISJE.** with optional singing encore;
+- Week 4 arc review -> D19 retained intentionally as a breather;
+- D12 forced-comment micro-polish;
+- reader-facing em dash cleanup;
+- D09 two-person wording micro-cleanup.
+
+Final candidate:
+`GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R3_2026-10-05.md`
+
+Final candidate blob:
+`6889c69c04ff9c8f55db8da1f3177d88f6b86780`
+
+Material BLOCK = 0  
+Material FIX = 0  
+Material REDESIGN = 0
+
+Remaining items are owner/production gates only.
