@@ -31,7 +31,7 @@ Usiądźcie razem tak, żeby było wam wygodnie. Dłonie połóżcie na kolanach
 
 Przez minutę oddychajcie zwyczajnie. Przy każdym wydechu pomyślcie tylko: „nie teraz”. Nie chodzi o to, że lista zadań zniknie. Przez te sześćdziesiąt sekund żadnym z jej punktów nie musicie się zajmować.
 
-Jeśli w trakcie przypomni wam się coś pilnego, zostawcie to na później. Za minutę nadal będziecie wiedzieć, co trzeba zrobić.
+Jeśli w trakcie przypomni wam się coś do zrobienia, zostawcie to na tę jedną minutę. Za chwilę nadal będziecie wiedzieć, co trzeba zrobić.
 
 
 **NA JUTRO:** Jeśli przed wyjściem, lekcjami albo wieczorem w głowie pojawi się naraz pięć „muszę”, wybierz jedną rzecz do zrobienia teraz, a reszcie na minutę powiedz „nie teraz”.
@@ -238,7 +238,7 @@ Dilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem.
 
 **FINAŁ:** Jeśli dojdziecie do 12, spróbujcie jeszcze raz od 12 do 1 bez ustalonej kolejności.
 
-**W DWIE OSOBY:** Gracie tak samo. Na poziomie 2 i 3 nie ustalajcie z góry, kto powie następną liczbę.
+**W DWIE OSOBY:** W poziomie 1 liczcie na zmianę. W poziomie 2 i 3 po każdej liczbie oboje znowu możecie powiedzieć następną — ta sama osoba może odezwać się dwa razy z rzędu. Jeśli powiecie liczbę jednocześnie albo padnie zła liczba, wracacie do jedynki.
 
 Dilo: VAR: dwa głosy naraz. Gol anulowany. Grudzień nie przyjmuje odwołań, wracamy do jedynki.
 
@@ -630,6 +630,8 @@ Potem ekspert wskazuje kolejną osobę, a grupa daje jej nowy temat.
 
 Trzymajcie się tematów absurdalnych i nieszkodliwych. Nie robimy pytań o czyjeś oceny, wygląd, lęki ani realne słabości.
 
+**JEŚLI NIE CHCESZ BYĆ SOLO:** Możesz raz powiedzieć „pas” albo dobrać sobie współeksperta. W duecie jedna osoba zaczyna teorię, a druga dopowiada jedno zdanie.
+
 **FINAŁ:** Ostatni ekspert dostaje dodatkowe utrudnienie: w odpowiedzi musi użyć trzech przypadkowych słów wybranych przez resztę.
 
 **W DWIE OSOBY:** Jedna osoba daje temat, druga odpowiada przez 20 sekund. Potem zmiana.
@@ -882,15 +884,15 @@ Nawigator nie dotyka drugiej osoby. Podaje po jednym konkretnym poleceniu, na pr
 
 Jeśli cokolwiek jest niejasne, mówicie „stop”. Tu nie ma punktów za szybkość.
 
-Po dotarciu do krzesła zamieńcie się rolami.
+Na pierwszą rundę każda para robi jedną trasę. Jeśli jest was czworo lub mniej i macie jeszcze czas, zamieńcie się rolami i przejdźcie trasę drugi raz. Przy większej rodzinie jedna rola na osobę na dziś wystarczy.
 
-**NIEPARZYSTA GRUPA:** Trzecia osoba w jednej grupie pilnuje bezpiecznej przestrzeni. W następnej rundzie wchodzi do pary.
+**NIEPARZYSTA GRUPA:** Trzecia osoba w jednej grupie pilnuje bezpiecznej przestrzeni. Jeśli robicie drugą rundę, wchodzi wtedy do pary.
 
-**FINAŁ:** Nawigator ma najwyżej pięć komunikatów na całą trasę.
+**FINAŁ:** Jeśli macie jeszcze minutę albo dwie, wybierzcie jedną parę na rundę trudniejszą: nawigator ma najwyżej pięć komunikatów na całą trasę.
 
-Jeśli gra kilka par równocześnie, każda musi mieć osobną, bezpieczną przestrzeń.
+Jeśli gra kilka par równocześnie, każda musi mieć osobną, bezpieczną przestrzeń. Jeśli macie miejsce tylko na jedną trasę, pary grają po kolei.
 
-**W DWIE OSOBY:** Gracie dokładnie tak samo i zamieniacie się rolami po każdej trasie.
+**W DWIE OSOBY:** Zróbcie pierwszą trasę, zamieńcie się rolami i zróbcie drugą. Jeśli macie ochotę na finał, wybierzcie jedną z tych tras i spróbujcie przejść ją przy limicie pięciu komunikatów.
 
 Mimi: „No tam” nie jest kierunkiem świata. Sprawdziliśmy.
 
@@ -1272,7 +1274,7 @@ W zwykły wtorek możecie znowu rzucić niewidzialną piłkę.
 
 Po trudnym dniu możecie usiąść obok siebie bez pytań.
 
-Kiedy dom zacznie brzmieć za głośno, możecie przypomnieć sobie jedną minutę ciszy.
+Kiedy dom zacznie brzmieć za głośno, możecie przypomnieć sobie, jak brzmi pokój z jednym dźwiękiem mniej.
 
 A jeśli coś między wami pójdzie nie tak, zawsze można wrócić do rozmowy, przeprosić i spróbować jeszcze raz.
 
