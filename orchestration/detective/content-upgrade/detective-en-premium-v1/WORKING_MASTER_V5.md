@@ -2373,13 +2373,28 @@ The old cases are about to become new evidence.
 ### CASE FILE // WHAT HAPPENED
 
 
-Fourteen selected maps cover the Case Room table. Beside them sits the sentence from the torn note.
+The Guest House parcel finally opens.
+
+Inside: transparent overlay sleeves and old alignment clips from Archive Restoration.
+
+Then the dormant routing light beneath the Case Table turns on.
+
+The printer feeds out one narrow strip:
+
+**MAP SET: COMPLETE**  
+**SELECTED FILES: 14**
+
+Fourteen solved maps spread across the Case Room table.
+
+Beside them sits the sentence from the torn note:
 
 **THE ANSWER IS IN WHAT YOU LEAVE EMPTY.**
 
-For the first time, it does not sound mysterious. It sounds like an instruction.
+For the first time, it does not sound mysterious.
 
-Nini locks the door. Whatever Room Zero has been preserving, it expects your earlier casework to do something together that none of the maps could do alone.
+It sounds like an instruction.
+
+Nini locks the door.
 
 
 ### YOUR OBJECTIVE
@@ -2441,9 +2456,21 @@ Do not check the Solution Files first unless you actually want the answer.
 ### CASE FILE // WHAT HAPPENED
 
 
-**CHECK THE OLD MAP** is not an answer. It is an instruction.
+Fourteen empty-room initials give you one instruction:
 
-Bibi pulls a retained Academy plan from the archive, takes one of the recovered overlay sleeves from the Guest House parcel and lays the modern building map over the old one. Three permanent landmarks still match. The rest has changed with time.
+**CHECK THE OLD MAP**
+
+Bibi does not need asking twice.
+
+She pulls a retained Academy plan from the archive, takes one of the recovered overlay sleeves from the Guest House parcel and lays the modern building map over the old one.
+
+The North Stair matches.
+
+The Courtyard Column matches.
+
+The West Lift Shaft matches.
+
+The rest of the building has changed with time.
 
 Almost all of it.
 
@@ -2498,11 +2525,27 @@ Mark the location directly on both plans.
 ### CASE FILE // WHAT HAPPENED
 
 
-The overlay puts a sealed training room directly behind the modern Archive wall. Alio looks extremely ready to investigate the wall. Bibi looks extremely ready to stop him.
+The missing room lands directly behind the modern Archive wall.
 
-Before anyone touches anything, she points back to the Case Wall. Weeks ago you saved **RULE 0 FIRST** from her photograph. Now the old-plan margin adds a second fragment: **RULE FIRST, ROOM SECOND.** The two notes belong together, but Rule Zero is still incomplete.
+Alio takes one interested step toward it.
 
-Bibi taps the tracking-yard file. The loud arrow was wrong; the quieter evidence was right. This close to the end, one exciting assumption could wreck weeks of careful work.
+Bibi raises one finger.
+
+He stops.
+
+On the old-plan margin is a second instruction:
+
+**RULE FIRST, ROOM SECOND.**
+
+Weeks ago, you saved **RULE 0 FIRST** from Bibi's photograph.
+
+The two fragments clearly belong together - but Rule Zero is still incomplete.
+
+Bibi taps the tracking-yard file from Case 24.
+
+"The arrow looked certain," she says. "The mud was right."
+
+This close to the end, one exciting assumption could wreck weeks of careful work.
 
 
 ### YOUR OBJECTIVE
@@ -2565,13 +2608,23 @@ You will need its missing word in the final case.
 ### CASE FILE // WHAT HAPPENED
 
 
-Rule Zero is restored.
+Rule Zero is restored:
+
+**ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.**
 
 The wall does absolutely nothing.
 
-Dilo calls that "rude but methodologically consistent."
+Dilo studies it.
 
-Instead of guessing at the sealed panel, Mimi requests the old service-level access record for that exact section of the Academy. The file that comes back contains the largest position map in the book. Seth is the one placement the old record treats as certain, and the sealed panel points to a coordinate somewhere in his area.
+"Rude," he says. "But methodologically consistent."
+
+Rule Zero was never a magic password. It tells the team what to do next: stop guessing.
+
+Mimi requests the old service-level access record for the exact section behind the Archive.
+
+The file that comes back contains the largest position map in the book.
+
+Seth is the one placement the old record treats as certain. Somewhere in his mapped area is the access coordinate the sealed panel is waiting for.
 
 
 ### YOUR OBJECTIVE
@@ -2645,15 +2698,25 @@ Take **page 9** and your **Recruit Credential** into the final case. No more new
 ### CASE FILE // WHAT HAPPENED
 
 
-The access coordinate brings the squad to the sealed panel behind the Archive. It lights four empty fields:
+The access coordinate brings the squad back to the sealed panel behind the Archive.
+
+It lights four empty fields:
 
 **RULE / ROOM / CODE / DETECTIVE**
 
-Then nothing else happens.
+Then it waits.
 
-No printer cough. No hidden drawer. No last-minute hint.
+No printer cough.
 
-For the first time since the black envelope arrived, the Academy gives you nothing new - because every answer the door needs is already somewhere in your book.
+No hidden drawer.
+
+No new clue.
+
+Dilo looks at the panel, then at the Case Wall, then at you.
+
+For the first time since the black envelope arrived, the Academy is not asking you to discover something new.
+
+It is asking whether you kept enough of what you already proved.
 
 
 ### YOUR OBJECTIVE
