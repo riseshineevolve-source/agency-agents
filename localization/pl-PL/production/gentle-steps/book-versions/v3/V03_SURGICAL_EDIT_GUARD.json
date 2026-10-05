@@ -1,36 +1,17 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_FINAL_LANGUAGE_LOGIC_SLICE",
-  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_PRE_FINAL_POLISH_SAFE_STATE_2026-10-05.md",
+  "status": "PREPARED_METADATA_ONLY_SLICE",
+  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_CONTENT_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
-    "D03.ZWOLNIJ",
-    "D04.ZWOLNIJ",
-    "D05.ZWOLNIJ",
-    "D06.ZWOLNIJ",
-    "D08.ZWOLNIJ",
-    "D10.ZWOLNIJ",
-    "D12.ZWOLNIJ",
-    "D16.ZWOLNIJ",
-    "D17.ZWOLNIJ",
-    "D18.ZWOLNIJ",
-    "D20.ZWOLNIJ",
-    "D05.GRAMY",
-    "D11.GRAMY",
-    "D17.GRAMY",
-    "D19.MIĘDZY NAMI"
+    "PREAMBLE_METADATA"
   ],
   "require_exact_changed_set": false,
-  "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
   "frozen_v2_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
   "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
   "rules": [
-    "Only listed final-polish segments may change.",
-    "All other V3 segments remain byte-identical to the pre-final-polish safe state.",
-    "Game fixes must improve mechanics clarity without changing safety intent.",
-    "NA JUTRO edits must improve native Polish and concrete reuse only.",
-    "After patch actual changed segments must equal allowlist."
+    "Only internal preamble metadata may change. All Day 1-24 and back matter content must remain byte-identical."
   ]
 }
