@@ -7,16 +7,16 @@ Status: **PASS FOR OWNER_READ_CANDIDATE / NOT CONTENT-FROZEN / NOT PRINT-READY**
 ## Exact content identity
 
 Owner-read candidate:
-`localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_2026-10-05.md`
+`localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R2_2026-10-05.md`
 
 Owner-read candidate Git blob:
-`de78cedd27fdfffe18f4a92a02f03a1187d7d16c`
+`e6befddb4af6196e19658ee513ec116ecc16b492`
 
 Working master:
 `localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md`
 
-Working master Git blob before owner-read status promotion:
-`de78cedd27fdfffe18f4a92a02f03a1187d7d16c`
+Working master Git blob for R2:
+`e6befddb4af6196e19658ee513ec116ecc16b492`
 
 Frozen V02 baseline:
 `711543f74f50cb5f3c04665fd3656165de629e4f`
@@ -144,3 +144,39 @@ All other MIĘDZY NAMI content and back matter inherit V02 KEEP state byte-for-b
 
 No further creative rewrite is recommended unless owner read identifies a concrete defect.
 KEEP now wins over novelty.
+
+
+## MIĘDZY NAMI follow-up review
+
+A dedicated 24/24 family-ear and logic review was run after the first V03 candidate.
+
+Result:
+- 20/24 prompts = KEEP;
+- 4/24 changed;
+- exact changed-set isolation = PASS;
+- no unscoped drift.
+
+Changed:
+- D08 comment only;
+- D10 manufactured family slogan -> real recurring family phrase;
+- D18 directed praise loop -> one concrete thing each person genuinely likes helping with;
+- D21 invented family sign -> observation of real nonverbal family signals.
+
+Evidence:
+`localization/pl-PL/production/gentle-steps/book-versions/v3/V03_MIEDZY_NAMI_QA_2026-10-05.md`
+
+R2 structural proof:
+- 24 days;
+- 24 × ZWOLNIJ;
+- 24 × GRAMY;
+- 24 × MIĘDZY NAMI;
+- 72 unique daily headings;
+- 24 × NA JUTRO;
+- 24 × START;
+- 24 × W DWIE OSOBY;
+- 72 Happy Makers comments;
+- 0 duplicate Happy Makers comments;
+- 0 reader-facing em dash.
+
+Final editorial verdict remains:
+**PASS FOR OWNER READ / NOT CONTENT-FROZEN / NOT PRINT-READY.**
