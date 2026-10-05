@@ -1,13 +1,13 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_INTERNAL_PREAMBLE_IDENTITY_SLICE",
+  "status": "CLOSED_INTERNAL_PREAMBLE_IDENTITY_SLICE_PASS",
   "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_D23_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
     "PREAMBLE"
   ],
-  "require_exact_changed_set": false,
-  "protect_preamble": false,
+  "require_exact_changed_set": true,
+  "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
   "frozen_v2_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
@@ -17,5 +17,15 @@
     "All 72 reader-facing daily segments, day headers and back matter remain byte-for-byte identical to post-D23 safe state.",
     "Update version/status metadata only; do not resolve title or recurring-label owner gates.",
     "After patch, actual changed segments must equal PREAMBLE."
-  ]
+  ],
+  "closed_working_master_blob_sha": "de78cedd27fdfffe18f4a92a02f03a1187d7d16c",
+  "closed_changed_segment_count": 1,
+  "closed_checks": {
+    "exact_changed_set_pass": true,
+    "changed_segments": [
+      "PREAMBLE"
+    ],
+    "unscoped_reader_content_drift": 0,
+    "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f"
+  }
 }
