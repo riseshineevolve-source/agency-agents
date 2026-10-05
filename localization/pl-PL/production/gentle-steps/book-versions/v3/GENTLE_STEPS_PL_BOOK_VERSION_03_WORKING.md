@@ -32,6 +32,8 @@ Przez minutę oddychajcie zwyczajnie. Przy każdym wydechu pomyślcie tylko: „
 
 Jeśli w trakcie przypomni wam się coś pilnego, zostawcie to na później. Za minutę nadal będziecie wiedzieć, co trzeba zrobić.
 
+
+**NA JUTRO:** Jeśli przed wyjściem, lekcjami albo wieczorem w głowie pojawi się naraz pięć „muszę”, wybierz jedną rzecz do zrobienia teraz, a reszcie na minutę powiedz „nie teraz”.
 Luli: Jeśli przez minutę niczego nie odhaczymy, grudzień prawdopodobnie przetrwa. Sprawdzamy.
 
 ### GRAMY: NIEWIDZIALNA PIŁKA
@@ -78,6 +80,8 @@ Przy wdechu policzcie spokojnie do czterech. Przy wydechu policzcie do sześciu.
 
 Nie nabierajcie powietrza na siłę. Jeśli taki rytm komuś nie odpowiada, wróćcie do własnego oddechu. Powtarzajcie przez minutę.
 
+
+**NA JUTRO:** Gdy przed sprawdzianem, występem, treningiem albo trudną rozmową poczujesz pośpiech, zrób kilka spokojnych oddechów cztery na sześć, jeśli ten rytm jest dla ciebie wygodny.
 Mimi: Druga skarpetka przez minutę nie zdąży uciec dalej. Poszukiwania zawieszamy.
 
 ### GRAMY: ORKIESTRA BEZ PRÓBY
@@ -120,6 +124,8 @@ Poczujcie obie stopy na podłodze. Opuśćcie ramiona. Zróbcie trzy spokojne od
 
 Pomyślcie o jednej rzeczy ze szkoły, pracy albo dzisiejszego dnia, której przez najbliższe dziesięć minut nie musicie dalej nosić w głowie.
 
+
+**NA JUTRO:** Po szkole, kłótni albo trudnej sytuacji użyj trzech oddechów i stóp na podłodze, żeby przez kilka minut nie ciągnąć tego za sobą.
 Alio: Plecak zostaje w przedpokoju. Kartkówka też. Przynajmniej na te dziesięć minut.
 
 ### GRAMY: STOP-KLATKA
@@ -164,6 +170,8 @@ Popatrzcie, jak światło drga, zmienia się i odbija na przedmiotach wokół. O
 
 Przez tę chwilę wystarczy patrzeć na jedną rzecz.
 
+
+**NA JUTRO:** Gdy ekran, powiadomienia i kilka rzeczy naraz zaczną ciągnąć uwagę w różne strony, wybierz na kilka oddechów jeden nieruchomy punkt i daj oczom jedno zadanie.
 Luli: Jedna rzecz naraz. Ktoś powinien poinformować o tym grudzień.
 
 ### GRAMY: TO SAMO ZDANIE, INNA HISTORIA
@@ -213,6 +221,8 @@ Najpierw posłuchajcie tego, co jest najbliżej was. Potem sprawdźcie, co słyc
 
 Nie zgadujcie, co to. Tylko słuchajcie.
 
+
+**NA JUTRO:** Gdy w autobusie, domu albo szkolnym korytarzu zrobi się za głośno, przestań dokładać własny dźwięk i spróbuj wyłapać kolejno to, co blisko, dalej i najciszej.
 Dilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem.
 
 ### GRAMY: 12 BEZ POMYŁKI
@@ -255,6 +265,8 @@ Przez cztery kolejne oddechy dotykajcie kciukiem kolejno palca wskazującego, ś
 
 Potem zostańcie jeszcze przez chwilę przy swoim zwykłym oddechu.
 
+
+**NA JUTRO:** Gdy będziesz chciał odpowiedzieć od razu, bo wszyscy poganiają albo coś cię zirytuje, przejdź kciukiem po czterech palcach we własnym tempie, zanim odpowiesz.
 Alio: Pierwsza grudniowa rzecz, przy której nikt nie mówi: „szybciej, bo się spóźnimy”. Lubię ten sport.
 
 ### GRAMY: WSZYSCY NARAZ
@@ -301,7 +313,9 @@ Przez chwilę pozwólcie rękom, nogom i plecom całkiem oprzeć się na podłod
 
 Oddychajcie zwyczajnie. Niczego nie trzeba napinać, poprawiać ani utrzymywać.
 
-Dilo: Dziś trenuję z grawitacją. Ona robi większość pracy.
+
+**NA JUTRO:** Po długim dniu, treningu albo noszeniu plecaka połóż się lub oprzyj plecy na chwilę i pozwól podłożu przejąć ciężar.
+Mimi: Podłoga niczego od was nie chce. To jedna z jej najlepszych cech.
 
 ### GRAMY: REAKCJA ŁAŃCUCHOWA
 
@@ -347,7 +361,9 @@ Nie trzeba niczego liczyć, porównywać ani sprawdzać, czy u kogoś obok jest 
 
 Zostańcie tak przez minutę. W tym czasie niczego nie trzeba planować ani kończyć.
 
-Nini: Serce działa bez listy zadań. Proszę zanotować, że jednak się da.
+
+**NA JUTRO:** Gdy będziesz czekać na wynik, swoją kolej albo odpowiedź i poczujesz, że ciało przyspiesza, połóż dłoń na klatce piersiowej na kilka zwykłych oddechów i niczego nie licz.
+Nini: Jedyna rzecz, której dziś nie trzeba przypominać, co ma robić.
 
 ### GRAMY: HISTORIA, KTÓREJ NIKT NIE ZAPLANOWAŁ
 
@@ -393,6 +409,8 @@ Na koniec zauważcie jedno miejsce, w którym ciało dotyka krzesła, kanapy alb
 
 Nie mówcie odpowiedzi na głos. Zróbcie jeden zwykły oddech i wróćcie do reszty wieczoru.
 
+
+**NA JUTRO:** Gdy w głowie znowu zacznie lecieć ta sama pomyłka, rozmowa albo zmartwienie, zrób szybkie: trzy kolory, dwa dźwięki, jeden punkt kontaktu.
 Nini: Trzy kolory, dwa dźwięki, jedna podłoga. Wreszcie lista, którą da się skończyć.
 
 ### GRAMY: ROZPLĄCZCIE TO
@@ -437,6 +455,8 @@ Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Ka�
 
 Nie ustalajcie, co będzie za chwilę. Przez moment posiedźcie razem.
 
+
+**NA JUTRO:** Gdy ktoś bliski będzie zmęczony albo poirytowany i nie będzie miał ochoty od razu rozmawiać, spróbuj przez chwilę po prostu usiąść obok, bez naprawiania sytuacji.
 Alio: Nikt niczego nie ustala i jakoś działa. Proszę nie psuć tego pytaniami.
 
 ### GRAMY: RODZINNA MASZYNA
@@ -488,6 +508,8 @@ Jeśli tak, spróbujcie trochę odpuścić. Nie trzeba niczego osiągać ani spr
 
 Na koniec rozluźnijcie twarz jeszcze przez jeden spokojny oddech.
 
+
+**NA JUTRO:** Zanim odpowiesz w złości albo po raz kolejny powiesz „szybciej”, sprawdź szczękę i czoło i rozluźnij je na jeden wydech.
 Nini: Szczęka ma wolne. Nawet jeśli ktoś właśnie przypomniał sobie o czymś na jutro.
 
 ### GRAMY: CO TU SIĘ WYDARZYŁO?
@@ -536,6 +558,8 @@ Pomyślcie o jednej konkretnej rzeczy, którą w kimś obok lubicie albo cenicie
 
 Nic nie mówcie. Nie róbcie też specjalnej miny. Jedno spojrzenie wystarczy.
 
+
+**NA JUTRO:** Gdy rozmowa zaczyna robić się ostra, zanim odpowiesz, spójrz przez sekundę na drugą osobę i przypomnij sobie jedną rzecz, którą w niej naprawdę lubisz.
 Mimi: Spokojnie, to nie konkurs na najbardziej znaczące spojrzenie.
 
 ### GRAMY: PIĘĆ SŁÓW. DWA KŁAMSTWA.
@@ -583,6 +607,8 @@ Powoli unieście dłonie, zatrzymajcie je na chwilę i równie powoli opuśćcie
 
 Zwróćcie uwagę na powietrze przesuwające się po skórze podczas ruchu. Niczego nie trzeba interpretować. Przez minutę robicie jedną prostą rzecz naprawdę wolno.
 
+
+**NA JUTRO:** Gdy zaczniesz robić kilka rzeczy naraz, wybierz jedną prostą czynność, na przykład zapinanie kurtki albo odkładanie książki, i zrób ją celowo wolniej.
 Dilo: Tryb 0,25x. Mój mózg właśnie szuka przycisku „przyspiesz”.
 
 ### GRAMY: EKSPERT NA POCZEKANIU
@@ -633,6 +659,8 @@ Drugą możecie położyć na ramieniu osoby siedzącej po prawej stronie, ale t
 
 Zostańcie tak przez chwilę i poczujcie ciepło dłoni.
 
+
+**NA JUTRO:** Gdy zmarzną ci dłonie albo będziesz czekać na coś w napięciu, potrzyj je przez kilka sekund i zatrzymaj ciepło przy sobie.
 Luli: Dwie ciepłe dłonie i nic do znalezienia, kupienia ani ładowania. Dobry układ.
 
 ### GRAMY: 3, 2, 1... TO SAMO?
@@ -681,6 +709,8 @@ Powtórzcie kilka razy, bez pogłębiania oddechu na siłę.
 
 Przez chwilę nie trzeba nosić grudnia aż pod uszami.
 
+
+**NA JUTRO:** Po długim siedzeniu, noszeniu plecaka albo garbieniu się nad biurkiem unieś ramiona na wdechu i pozwól im opaść na wydechu kilka razy.
 Alio: Najspokojniejsza kolejka górska świata. I nawet nie trzeba stać w kolejce.
 
 ### GRAMY: LUSTRO BEZ LUSTRA
@@ -725,7 +755,9 @@ Przy wdechu powoli unieście ręce. Przy wydechu spokojnie je opuśćcie.
 
 Powtórzcie kilka razy we własnym, wygodnym rytmie. Nie musicie robić tego równo. Dziś każdy ma prawo do własnego tempa.
 
-Nini: Ręce znają choreografię. Reszta rodziny może się jeszcze zastanowić.
+
+**NA JUTRO:** Gdy wszyscy czegoś chcą naraz i czujesz, że zaczynasz przyspieszać razem z sytuacją, zrób kilka spokojnych ruchów rąk w górę i w dół we własnym tempie.
+Nini: Ręce już wiedzą, co robić. Reszta może się dogadać za chwilę.
 
 ### GRAMY: RADIO NA ŻYWO
 
@@ -775,6 +807,8 @@ Nie ciągnijcie mocniej, niż jest wam wygodnie. To nie zawody w rozciąganiu.
 
 Zobaczcie, ile miejsca zajmuje wasze koło, kiedy każdy wyciągnie ręce.
 
+
+**NA JUTRO:** Po lekcjach, samochodzie albo długim siedzeniu przy ekranie zrób jedno spokojne przeciągnięcie zamiast od razu przechodzić do kolejnej rzeczy.
 Mimi: Bez rekordów. Jutro też będziemy potrzebować ramion.
 
 ### GRAMY: TYLKO PYTANIA
@@ -829,6 +863,8 @@ Zostańcie przez chwilę bez ruchu i oddychajcie zwyczajnie.
 
 Możecie powtórzyć jeszcze raz, zaczynając trochę wolniej.
 
+
+**NA JUTRO:** Gdy utkniesz w korku, kolejce albo pośpiechu i ręce same chcą działać szybciej, wystukaj kilka szybkich ruchów palcami i stopniowo je zwolnij.
 Alio: Wreszcie ruch drogowy, nad którym mamy kontrolę.
 
 ### GRAMY: MISJA KRZESŁO
@@ -883,7 +919,9 @@ Połóżcie puste dłonie na kolanach, wnętrzem do góry. Poruszcie raz palcami
 
 Oddychajcie zwyczajnie. Przez tę minutę ręce nie muszą niczego pisać, przesuwać, trzymać ani sprzątać.
 
-Mimi: Puste ręce. Niczego przez minutę nie odkładamy na właściwe miejsce. Korzystajcie.
+
+**NA JUTRO:** Gdy złapiesz się na tym, że jednocześnie trzymasz telefon i myślisz o trzech kolejnych rzeczach, odłóż wszystko na minutę i zostaw dłonie puste.
+Mimi: Puste ręce. Niczego przez minutę nie odkładamy na właściwe miejsce. Korzystajcie!
 
 ### GRAMY: CO SIĘ ZMIENIŁO?
 
@@ -935,6 +973,8 @@ Powtórzcie trzy razy. Przy puszczaniu dłoni możecie zrobić trochę dłuższy
 
 Nie ściskajcie mocno. Chodzi o krótkie zauważenie różnicy między napięciem a puszczeniem.
 
+
+**NA JUTRO:** Przed sprawdzianem, rozmową albo wtedy, gdy jesteś zły, lekko zaciśnij dłonie do trzech i puść je trzy razy, zamiast dalej dokładać napięcia.
 Mimi: Pięści rozwiązują zaskakująco mało rodzinnych spraw. Dziś mają wolne.
 
 ### GRAMY: LINIA BEZ SŁÓW
@@ -983,6 +1023,8 @@ Usiądźcie tak, jak wam wygodnie, i przez kilka zwykłych oddechów posłuchajc
 
 Potem możecie wszystko włączyć z powrotem. Chodzi tylko o krótkie „mniej”, nie o ciszę idealną.
 
+
+**NA JUTRO:** Gdy zrobi się za dużo dźwięków naraz, wyłącz albo ścisz choć jedno źródło, zanim zaczniesz prosić wszystkich dookoła, żeby byli ciszej.
 Nini: Jeśli lodówka dalej buczy, nie negocjujemy z nią.
 
 ### GRAMY: BEZ „TAK” I „NIE”
@@ -1031,7 +1073,9 @@ Potem przenieście wzrok na coś blisko, na przykład własną dłoń.
 
 Powtórzcie trzy razy: daleko, blisko. Bez mrużenia oczu i bez wpatrywania się na siłę. Na końcu zamknijcie oczy na jeden zwykły oddech.
 
-Luli: Przez pół minuty niczego nie trzeba było czytać, sprawdzać ani znajdować. Oczy składają oficjalne podziękowanie.
+
+**NA JUTRO:** Po dłuższym ekranie albo czytaniu przenieś kilka razy wzrok daleko i blisko, zamiast od razu przechodzić do kolejnego ekranu.
+Luli: Pół minuty bez czytania, sprawdzania i szukania. W grudniu to już jest przerwa.
 
 ### GRAMY: KALAMBURY NA OPAK
 
@@ -1077,6 +1121,8 @@ Nie odkładamy rzeczy ważnych ani pilnych. Wybieramy tylko te, które dziś rob
 
 Jeśli chcecie, każdy może powiedzieć jedną z nich na głos: „To może poczekać do jutra”.
 
+
+**NA JUTRO:** Przed snem albo pod koniec długiego dnia wybierz jedną naprawdę niepilną rzecz i świadomie zostaw ją na jutro.
 Dilo: Priorytety zaktualizowane. Skarpety przeżyją do rana.
 
 ### GRAMY: ALIBI W 30 SEKUND
@@ -1134,6 +1180,8 @@ Nie poprawiamy już grudnia. Nie sprawdzamy, czego nie zdążyliśmy. Przez tę 
 
 Na koniec pomyślcie o jednej osobie albo rodzinie poza tym pokojem, której chcielibyście dziś życzyć czegoś dobrego. Nie trzeba tego mówić na głos.
 
+
+**NA JUTRO:** Gdy kolejny dzień będzie już za tobą, a głowa nadal będzie go poprawiać, daj sobie minutę bez planowania i nadrabiania.
 Mimi: Jeszcze jedna minuta. Reszta naprawdę może chwilę poczekać.
 
 ### GRAMY: ŚPIEWAMY RAZEM
