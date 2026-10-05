@@ -125,7 +125,7 @@ Poczujcie obie stopy na podłodze. Opuśćcie ramiona. Zróbcie trzy spokojne od
 Pomyślcie o jednej rzeczy ze szkoły, pracy albo dzisiejszego dnia, której przez najbliższe dziesięć minut nie musicie dalej nosić w głowie.
 
 
-**NA JUTRO:** Po szkole, kłótni albo trudnej sytuacji użyj trzech oddechów i stóp na podłodze, żeby przez kilka minut nie ciągnąć tego za sobą.
+**NA JUTRO:** Po szkole, kłótni albo trudnej sytuacji oprzyj obie stopy o podłogę, zrób trzy spokojne oddechy i daj sobie kilka minut, zanim zaczniesz to dalej analizować.
 Alio: Plecak zostaje w przedpokoju. Kartkówka też. Przynajmniej na te dziesięć minut.
 
 ### GRAMY: STOP-KLATKA
@@ -171,7 +171,7 @@ Popatrzcie, jak światło drga, zmienia się i odbija na przedmiotach wokół. O
 Przez tę chwilę wystarczy patrzeć na jedną rzecz.
 
 
-**NA JUTRO:** Gdy ekran, powiadomienia i kilka rzeczy naraz zaczną ciągnąć uwagę w różne strony, wybierz na kilka oddechów jeden nieruchomy punkt i daj oczom jedno zadanie.
+**NA JUTRO:** Gdy ekran, powiadomienia i kilka rzeczy naraz walczą o twoją uwagę, wybierz na kilka oddechów jeden nieruchomy punkt i patrz tylko na niego.
 Luli: Jedna rzecz naraz. Ktoś powinien poinformować o tym grudzień.
 
 ### GRAMY: TO SAMO ZDANIE, INNA HISTORIA
@@ -222,7 +222,7 @@ Najpierw posłuchajcie tego, co jest najbliżej was. Potem sprawdźcie, co słyc
 Nie zgadujcie, co to. Tylko słuchajcie.
 
 
-**NA JUTRO:** Gdy w autobusie, domu albo szkolnym korytarzu zrobi się za głośno, przestań dokładać własny dźwięk i spróbuj wyłapać kolejno to, co blisko, dalej i najciszej.
+**NA JUTRO:** Gdy w autobusie, domu albo szkolnym korytarzu zrobi się za głośno, na chwilę przestań mówić i spróbuj wyłapać kolejno to, co słychać blisko, dalej i najciszej.
 Dilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem.
 
 ### GRAMY: 12 BEZ POMYŁKI
@@ -233,7 +233,7 @@ Dilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem.
 
 **POZIOM 2:** Teraz nie ma ustalonej kolejności. Każdy może powiedzieć następną liczbę, ale nie wolno wcześniej umawiać się, kto odezwie się pierwszy. Jeśli dwie osoby powiedzą liczbę jednocześnie albo ktoś poda złą liczbę, wracacie do jedynki.
 
-**POZIOM 3:** Zasady są takie jak w poziomie 2, ale zamiast 3, 6, 9 i 12 trzeba klasnąć. Tych liczb nie wypowiadacie.
+**POZIOM 3:** Zasady są takie jak w poziomie 2, ale przy 3, 6, 9 i 12 jedna osoba klaszcze raz zamiast wypowiadać liczbę. Jeśli dwie osoby klasną jednocześnie, tak jak przy dwóch głosach wracacie do jedynki.
 
 **FINAŁ:** Jeśli dojdziecie do 12, spróbujcie jeszcze raz od 12 do 1 bez ustalonej kolejności.
 
@@ -266,8 +266,8 @@ Przez cztery kolejne oddechy dotykajcie kciukiem kolejno palca wskazującego, ś
 Potem zostańcie jeszcze przez chwilę przy swoim zwykłym oddechu.
 
 
-**NA JUTRO:** Gdy będziesz chciał odpowiedzieć od razu, bo wszyscy poganiają albo coś cię zirytuje, przejdź kciukiem po czterech palcach we własnym tempie, zanim odpowiesz.
-Alio: Pierwsza grudniowa rzecz, przy której nikt nie mówi: „szybciej, bo się spóźnimy”. Lubię ten sport.
+**NA JUTRO:** Gdy odpowiedź już ci się ciśnie, bo wszyscy poganiają albo coś cię zirytuje, przejdź kciukiem po czterech palcach we własnym tempie, zanim coś powiesz.
+Alio: Nikt nie mówi „szybciej”. Dobra, to mi się podoba.
 
 ### GRAMY: WSZYSCY NARAZ
 
@@ -362,8 +362,8 @@ Nie trzeba niczego liczyć, porównywać ani sprawdzać, czy u kogoś obok jest 
 Zostańcie tak przez minutę. W tym czasie niczego nie trzeba planować ani kończyć.
 
 
-**NA JUTRO:** Gdy będziesz czekać na wynik, swoją kolej albo odpowiedź i poczujesz, że ciało przyspiesza, połóż dłoń na klatce piersiowej na kilka zwykłych oddechów i niczego nie licz.
-Nini: Jedyna rzecz, której dziś nie trzeba przypominać, co ma robić.
+**NA JUTRO:** Gdy czekasz na wynik, swoją kolej albo odpowiedź i trudno ci usiedzieć spokojnie, połóż dłoń na klatce piersiowej na kilka zwykłych oddechów i niczego nie licz.
+Nini: Serce nie potrzebuje listy zadań. I bardzo dobrze.
 
 ### GRAMY: HISTORIA, KTÓREJ NIKT NIE ZAPLANOWAŁ
 
@@ -456,7 +456,7 @@ Przez kilka oddechów niczego nie próbujcie synchronizować ani poprawiać. Ka�
 Nie ustalajcie, co będzie za chwilę. Przez moment posiedźcie razem.
 
 
-**NA JUTRO:** Gdy ktoś bliski będzie zmęczony albo poirytowany i nie będzie miał ochoty od razu rozmawiać, spróbuj przez chwilę po prostu usiąść obok, bez naprawiania sytuacji.
+**NA JUTRO:** Gdy ktoś bliski wróci bez ochoty na rozmowę albo będzie potrzebować chwili ciszy, spróbuj przez moment po prostu usiąść obok, bez naprawiania sytuacji.
 Alio: Nikt niczego nie ustala i jakoś działa. Proszę nie psuć tego pytaniami.
 
 ### GRAMY: RODZINNA MASZYNA
@@ -514,7 +514,7 @@ Nini: Szczęka ma wolne. Nawet jeśli ktoś właśnie przypomniał sobie o czym�
 
 ### GRAMY: CO TU SIĘ WYDARZYŁO?
 
-**START:** Zaczyna osoba, która ma dziś najbardziej kolorowe skarpetki. Wymyśla jedno niewinne domowe „misterium”, na przykład: „Dlaczego łyżka leży w bucie?”, „Skąd poduszka na środku przedpokoju?” albo „Dlaczego pilot znalazł się pod stołem?”.
+**START:** Zaczyna osoba, która ma dziś najbardziej kolorowe skarpetki. Wymyśla jedną niewinną domową zagadkę, na przykład: „Dlaczego łyżka leży w bucie?”, „Skąd poduszka na środku przedpokoju?” albo „Dlaczego pilot znalazł się pod stołem?”.
 
 **GRAMY:** Kolejne osoby, zgodnie z ruchem wskazówek zegara, mają po około 10 sekund na jedno wyjaśnienie.
 
@@ -522,7 +522,7 @@ Może być absurdalne, ale powinno brzmieć tak, jakby przez moment naprawdę mo
 
 Nie wybieracie zwycięzcy. Po prostu słuchacie wszystkich wersji.
 
-Potem osoba po lewej stronie wymyśla nowe „misterium” i zaczyna się kolejna runda.
+Potem osoba po lewej stronie wymyśla nową zagadkę i zaczyna się kolejna runda.
 
 **FINAŁ:** W ostatniej rundzie wybierzcie jedno z wcześniejszych wyjaśnień i wspólnie dodajcie mu po jednym nowym szczególe.
 
@@ -559,7 +559,7 @@ Pomyślcie o jednej konkretnej rzeczy, którą w kimś obok lubicie albo cenicie
 Nic nie mówcie. Nie róbcie też specjalnej miny. Jedno spojrzenie wystarczy.
 
 
-**NA JUTRO:** Gdy rozmowa zaczyna robić się ostra, zanim odpowiesz, spójrz przez sekundę na drugą osobę i przypomnij sobie jedną rzecz, którą w niej naprawdę lubisz.
+**NA JUTRO:** Gdy wszyscy mijają się w pośpiechu i zaczynasz mówić do kogoś tylko przez drzwi albo znad ekranu, zatrzymaj się na sekundę, spójrz na tę osobę i dopiero wtedy powiedz, co chcesz powiedzieć.
 Mimi: Spokojnie, to nie konkurs na najbardziej znaczące spojrzenie.
 
 ### GRAMY: PIĘĆ SŁÓW. DWA KŁAMSTWA.
@@ -756,7 +756,7 @@ Przy wdechu powoli unieście ręce. Przy wydechu spokojnie je opuśćcie.
 Powtórzcie kilka razy we własnym, wygodnym rytmie. Nie musicie robić tego równo. Dziś każdy ma prawo do własnego tempa.
 
 
-**NA JUTRO:** Gdy wszyscy czegoś chcą naraz i czujesz, że zaczynasz przyspieszać razem z sytuacją, zrób kilka spokojnych ruchów rąk w górę i w dół we własnym tempie.
+**NA JUTRO:** Gdy wszyscy czegoś chcą naraz i sam zaczynasz mówić albo ruszać się coraz szybciej, zrób kilka spokojnych ruchów rąk w górę i w dół we własnym tempie.
 Nini: Ręce już wiedzą, co robić. Reszta może się dogadać za chwilę.
 
 ### GRAMY: RADIO NA ŻYWO
@@ -808,7 +808,7 @@ Nie ciągnijcie mocniej, niż jest wam wygodnie. To nie zawody w rozciąganiu.
 Zobaczcie, ile miejsca zajmuje wasze koło, kiedy każdy wyciągnie ręce.
 
 
-**NA JUTRO:** Po lekcjach, samochodzie albo długim siedzeniu przy ekranie zrób jedno spokojne przeciągnięcie zamiast od razu przechodzić do kolejnej rzeczy.
+**NA JUTRO:** Po lekcjach, samochodzie albo długim siedzeniu przy ekranie przeciągnij się spokojnie raz lub dwa, zanim przejdziesz do kolejnej rzeczy.
 Mimi: Bez rekordów. Jutro też będziemy potrzebować ramion.
 
 ### GRAMY: TYLKO PYTANIA
@@ -823,7 +823,7 @@ Mimi: Bez rekordów. Jutro też będziemy potrzebować ramion.
 
 Jeśli komuś wymknie się zwykłe zdanie, ktoś mówi „Pytanie!” i gracie dalej. Nie zaczynacie od początku.
 
-Po 30 sekundach wchodzi kolejna para. Kontynuujcie, aż każdy, kto chce, zagra przynajmniej raz.
+Po 30 sekundach obie osoby wracają do koła i wchodzi kolejna para. Jeśli jest was nieparzysta liczba, jedna osoba po prostu zagra drugi raz, żeby każdy miał partnera.
 
 **RUNDA TRUDNIEJSZA:** Pytania mogą być lekko zaczepne, ale nie osobiste ani przykre.
 
@@ -864,7 +864,7 @@ Zostańcie przez chwilę bez ruchu i oddychajcie zwyczajnie.
 Możecie powtórzyć jeszcze raz, zaczynając trochę wolniej.
 
 
-**NA JUTRO:** Gdy utkniesz w korku, kolejce albo pośpiechu i ręce same chcą działać szybciej, wystukaj kilka szybkich ruchów palcami i stopniowo je zwolnij.
+**NA JUTRO:** Gdy utkniesz w korku, kolejce albo pośpiechu i zaczynasz stukać palcami coraz szybciej, zrób to świadomie przez chwilę, a potem stopniowo zwolnij.
 Alio: Wreszcie ruch drogowy, nad którym mamy kontrolę.
 
 ### GRAMY: MISJA KRZESŁO
@@ -951,7 +951,7 @@ Dilo: Jedna zmiana. Nie przemeblowujcie salonu, to ma być zagadka, nie remont.
 
 Każdy mówi jedną rzecz, którą lubi w swoim domu.
 
-Może to być konkretne miejsce, zapach, dźwięk, zwyczaj albo coś, co dzieje się tylko u was. Ktoś może wybrać kuchenny stół, ktoś ciszę późnym wieczorem, ktoś zapach obiadu, a ktoś fakt, że tu można chodzić w najgorszych skarpetkach świata.
+Może to być konkretne miejsce, zapach, dźwięk, zwyczaj albo coś, co dzieje się tylko u was. Ktoś może wybrać kuchenny stół, ktoś ciszę późnym wieczorem, ktoś zapach obiadu, a ktoś fakt, że w domu można nosić ulubioną bluzę, nawet jeśli rękawy od dawna są trochę za krótkie.
 
 Nie musicie wybierać różnych rzeczy. Jeśli coś powtórzy się kilka razy, właśnie dowiedzieliście się czegoś o swoim domu.
 
@@ -974,7 +974,7 @@ Powtórzcie trzy razy. Przy puszczaniu dłoni możecie zrobić trochę dłuższy
 Nie ściskajcie mocno. Chodzi o krótkie zauważenie różnicy między napięciem a puszczeniem.
 
 
-**NA JUTRO:** Przed sprawdzianem, rozmową albo wtedy, gdy jesteś zły, lekko zaciśnij dłonie do trzech i puść je trzy razy, zamiast dalej dokładać napięcia.
+**NA JUTRO:** Przed sprawdzianem, rozmową albo kiedy coś cię złości, lekko zaciśnij dłonie do trzech i puść je trzy razy, zauważając tylko różnicę między zaciśnięciem a puszczeniem.
 Mimi: Pięści rozwiązują zaskakująco mało rodzinnych spraw. Dziś mają wolne.
 
 ### GRAMY: LINIA BEZ SŁÓW
