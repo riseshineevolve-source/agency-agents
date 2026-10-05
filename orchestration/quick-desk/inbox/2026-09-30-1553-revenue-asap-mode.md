@@ -1,6 +1,6 @@
 # Quick Desk Owner Decision Candidate
 
-Status: PENDING CENTRAL RECONCILIATION
+Status: RECONCILED
 Date: 2026-09-30
 Scope: RSE portfolio commercial execution
 Source conversation: RSE Quick Desk
@@ -46,3 +46,9 @@ Recommended operating principle for reconciliation:
 ## Conflict check
 
 No conflict with the existing Q4 revenue-first policy. This directive strengthens the existing revenue-first posture by imposing a stricter FINISH/PUBLISH/SELL focus and lower WIP.
+
+## Central reconciliation receipt — 2026-10-05
+
+Reconciled by Central on 2026-10-05 into `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md` under `Owner revenue-ASAP execution override — 2026-10-05`. Canonical effect: `REVENUE ASAP / FINISH -> PUBLISH -> SELL`, narrowed near-term finish lanes, and hold on unrelated architecture/new-product work.
+
+No delegated product branch/worktree was mutated by this reconciliation.
