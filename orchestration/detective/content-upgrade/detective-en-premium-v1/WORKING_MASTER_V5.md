@@ -958,8 +958,6 @@ Do not add the Look-Twice file as a fifth mark. It was routed, not marked.
 ### CASE FILE // WHAT HAPPENED
 
 
-The locker code opens the old envelope - and gives the team one more plain **0** to add to the Case Wall.
-
 The next morning, Luli goes back to the Look-Twice mismatch list. Difference #1 has been bothering her: **017 / 071**.
 
 This time she checks the Academy index.
@@ -1254,7 +1252,7 @@ Bibi takes the question - and the form - into the archive.
 ### CASE FILE // WHAT HAPPENED
 
 
-Bibi disappears into the archive with the true **0** samples and one instruction for everyone else:
+With Bibi in the archive chasing the old **0**, the rest of the team has one instruction:
 
 "Records, not guesses."
 
@@ -1726,9 +1724,7 @@ Nothing more. Do not complete the sentence from imagination.
 ### CASE FILE // WHAT HAPPENED
 
 
-The photograph gives you a building, a year and - only after the evidence is settled - one unfinished line on the back:
-
-**RULE 0 FIRST**
+The line you just copied to the Case Wall refuses to explain itself.
 
 Bibi stares at it longer than she likes.
 
@@ -2075,11 +2071,13 @@ The Case Wall is now holding an instruction nobody at the table knows how to use
 
 # ACT 4 // ROOM ZERO
 
-The investigation has changed, but not in the helpful way. You finally have an instruction - **THE ANSWER IS IN WHAT YOU LEAVE EMPTY** - and no obvious place to use it.
+For the first time, Room Zero has given you an instruction instead of another pattern.
+
+It has not bothered to explain how to use it.
 
 Nini slides the growing stack of solved maps into your reach. Nobody asks whether you are keeping them anymore. Of course you are.
 
-So the squad does what good detectives do when the big clue refuses to explain itself: keep working the real cases that arrive, and keep the records.
+So the squad keeps working the real cases that arrive - and keeps every record that might matter later.
 
 
 
@@ -2094,15 +2092,11 @@ So the squad does what good detectives do when the big clue refuses to explain i
 ### CASE FILE // WHAT HAPPENED
 
 
-The rebuilt note leaves one sentence on the Case Wall:
-
-**THE ANSWER IS IN WHAT YOU LEAVE EMPTY.**
-
-Nobody knows what to do with it.
+By morning, the torn-note message is still sitting on the Case Wall and still refusing to be useful.
 
 That is irritating.
 
-The next morning, the Academy Sound Lab brings a problem that is at least willing to behave like a normal case. Three nearly identical instrument cases have been returned to the wrong shelves after rehearsal.
+The Academy Sound Lab brings a problem that is at least willing to behave like a normal case. Three nearly identical instrument cases have been returned to the wrong shelves after rehearsal.
 
 Zara is the last reliable placement before the mix-up. The person sharing her Rehearsal Room is the only witness who can help establish **which cases were still in the room before the shelves changed.**
 
@@ -2373,28 +2367,17 @@ The old cases are about to become new evidence.
 ### CASE FILE // WHAT HAPPENED
 
 
-The Guest House parcel finally opens.
+Fourteen selected files now cover the Case Room table.
 
-Inside: transparent overlay sleeves and old alignment clips from Archive Restoration.
+The message from the torn note sits beside them.
 
-Then the dormant routing light beneath the Case Table turns on.
+For the first time, the stack does not look like old paperwork.
 
-The printer feeds out one narrow strip:
-
-**MAP SET: COMPLETE**  
-**SELECTED FILES: 14**
-
-Fourteen solved maps spread across the Case Room table.
-
-Beside them sits the sentence from the torn note:
-
-**THE ANSWER IS IN WHAT YOU LEAVE EMPTY.**
-
-For the first time, it does not sound mysterious.
-
-It sounds like an instruction.
+It looks like a machine has been waiting for **your solved versions** of these cases.
 
 Nini locks the door.
+
+"All right," she says. "Now we test what empty actually means."
 
 
 ### YOUR OBJECTIVE
@@ -2679,11 +2662,13 @@ Do not write a new coordinate later - the finale uses this one.
 
 # ACT 5 // THE DOOR OPENS
 
-The old service map gives you the last location answer the sealed panel needs. Mimi closes the archive file and points at your Case Wall.
+The old service map gives you the final location answer.
 
-"No new clue now," she says. "Bring what you already earned."
+Mimi closes the file and points at your Case Wall.
 
-Take **page 9** and your **Recruit Credential** into the final case. No more new evidence. The final door will open - or stay closed - on the work you already did.
+"Bring what you already earned."
+
+Take **page 9** and your **Recruit Credential** into the final case.
 
 
 
