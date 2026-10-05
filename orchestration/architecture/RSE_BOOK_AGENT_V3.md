@@ -25,7 +25,7 @@ inside this system, not the art director and not the source of product truth.
 
 Architecture:
 
-`INITIAL MANUSCRIPT -> PREMIUM CONTENT UPGRADE -> FROZEN_CONTENT -> BOOK MAP -> LOCK GRAPH -> ASSET SLOTS -> DETERMINISTIC PAGE BUILD -> PAGE CACHE -> PDF ASSEMBLY -> QA -> EXCEPTION-ONLY OWNER REVIEW -> RELEASE`
+`NEW-CHAT INTAKE -> ROUTE A/B -> SOURCE CONVERGENCE -> PREMIUM CONTENT UPGRADE -> FROZEN_CONTENT -> BOOK MAP -> LOCK GRAPH -> ASSET SLOTS -> DETERMINISTIC PAGE BUILD -> PAGE CACHE -> PDF ASSEMBLY -> QA -> PRINT_READY -> OWNER RELEASE AUTHORIZATION`
 
 The same inputs must always produce the same page outputs.
 
@@ -52,7 +52,11 @@ v3 changes these rules without discarding the engine.
 
 ## 2A. Mandatory premium-content gate before Book Map
 
-If a manuscript is not already explicitly owner-approved and hash-locked as FROZEN_CONTENT, it MUST pass:
+If a manuscript is not already explicitly owner-approved and hash-locked as FROZEN_CONTENT, it MUST start from:
+
+`orchestration/bootstrap/PREMIUM_BOOK_CONTENT_UPGRADE_BOOTSTRAP.md`
+
+and then pass:
 
 `orchestration/architecture/RSE_PREMIUM_BOOK_CONTENT_UPGRADE_PROTOCOL_V1.md`
 
@@ -74,8 +78,11 @@ Permanent rules:
 - the Book Map consumes exact frozen content hashes, not chat memory or an informal "latest version".
 
 Required editorial handoff into Book Agent v3:
+- selected route (same-language upgrade or cross-language native re-authoring);
+- target-language/style profile;
 - premium content master path + hash;
 - CONTENT_MAP hash;
+- GOLDEN_KEEP/source-convergence evidence when applicable;
 - CONTENT_FREEZE_MANIFEST;
 - unresolved approved exceptions;
 - owner-gated decisions;
