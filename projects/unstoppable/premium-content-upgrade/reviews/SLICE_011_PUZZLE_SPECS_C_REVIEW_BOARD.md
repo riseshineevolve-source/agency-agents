@@ -17,3 +17,23 @@ Scope: D10, D12, D13 and D14 Glitch & Puzzle segments only.
 ## Editor-in-Chief synthesis
 Only the four puzzle segments may change.
 All other master text, quote tails and daily structure stay protected.
+
+
+## Pre-edit scope lock
+
+Base master: `WORKING_MASTER_V10_PUZZLE_REDESIGN_B.txt`  
+Base blob: `4b9898db55a4e179a2740f96e28949990b189f78`
+
+Allowed changed segments:
+- D10.GLITCH_PUZZLE
+- D12.GLITCH_PUZZLE
+- D13.GLITCH_PUZZLE
+- D14.GLITCH_PUZZLE
+
+Protected: every other master segment and all daily quote tails.
+
+Required dependency updates:
+- PUZZLE_TRUTH_REGISTRY.json
+- PUZZLE_COMPLETENESS_MATRIX.md
+
+Any master-text change outside the four declared puzzle segments rejects this slice.
