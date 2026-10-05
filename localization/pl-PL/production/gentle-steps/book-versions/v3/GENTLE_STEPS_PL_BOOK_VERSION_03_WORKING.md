@@ -789,7 +789,7 @@ Nie planujcie wyprawy życia. Liczą się też kino, naleśniki na kolację, spa
 
 Wystarczy jeden pomysł od każdej osoby.
 
-Luli: Marzenia nie tracą ważności tylko dlatego, że mieszczą się w kubku.
+Luli: Naleśniki na kolację też się liczą. Nie każdy wspólny plan potrzebuje rezerwacji.
 
 ---
 
@@ -951,11 +951,11 @@ Dilo: Jedna zmiana. Nie przemeblowujcie salonu, to ma być zagadka, nie remont.
 
 Każdy mówi jedną rzecz, którą lubi w swoim domu.
 
-Może to być konkretne miejsce, zapach, dźwięk, zwyczaj albo coś, co dzieje się tylko u was. Ktoś może wybrać kuchenny stół, ktoś ciszę późnym wieczorem, ktoś zapach obiadu, a ktoś fakt, że tu można chodzić w najgorszych skarpetkach świata.
+Może to być konkretne miejsce, zapach, dźwięk, zwyczaj albo coś, co dzieje się tylko u was. Ktoś może wybrać kuchenny stół, ktoś ciszę późnym wieczorem, ktoś zapach obiadu, a ktoś ten stary ulubiony dres, który od dawna jest trochę za mały, ale w domu nadal przechodzi jako „dobry”.
 
 Nie musicie wybierać różnych rzeczy. Jeśli coś powtórzy się kilka razy, właśnie dowiedzieliście się czegoś o swoim domu.
 
-Mimi: Dom to też miejsce, w którym najgorsze skarpetki świata mają pełne prawa obywatelskie.
+Mimi: W domu „trochę za mały” bardzo często znaczy po prostu „dobry po domu”.
 
 ---
 
