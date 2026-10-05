@@ -1,45 +1,16 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_ZWOLNIJ_TOOLBOX_SLICE",
-  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_GAME_SAFE_STATE_2026-10-05.md",
+  "status": "PREPARED_COMMENT_PRECISION_SLICE",
+  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_TOOLBOX_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
-    "D01.ZWOLNIJ",
-    "D02.ZWOLNIJ",
-    "D03.ZWOLNIJ",
-    "D04.ZWOLNIJ",
-    "D05.ZWOLNIJ",
-    "D06.ZWOLNIJ",
-    "D07.ZWOLNIJ",
-    "D08.ZWOLNIJ",
-    "D09.ZWOLNIJ",
-    "D10.ZWOLNIJ",
-    "D11.ZWOLNIJ",
-    "D12.ZWOLNIJ",
-    "D13.ZWOLNIJ",
-    "D14.ZWOLNIJ",
-    "D15.ZWOLNIJ",
-    "D16.ZWOLNIJ",
-    "D17.ZWOLNIJ",
-    "D18.ZWOLNIJ",
-    "D19.ZWOLNIJ",
-    "D20.ZWOLNIJ",
-    "D21.ZWOLNIJ",
-    "D22.ZWOLNIJ",
-    "D23.ZWOLNIJ",
-    "D24.ZWOLNIJ"
+    "D16.MIĘDZY NAMI",
+    "D19.MIĘDZY NAMI"
   ],
   "require_exact_changed_set": false,
   "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
   "frozen_v2_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
-  "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
-  "rules": [
-    "Only ZWOLNIJ segments D01-D24 may change in this slice.",
-    "All GRAMY, MIĘDZY NAMI, preamble, day headers and back matter remain byte-for-byte identical to the post-game safe state.",
-    "Every ZWOLNIJ must gain exactly one practical NA JUTRO reuse cue.",
-    "No therapeutic or guaranteed calming claims.",
-    "After patch, actual changed segments must equal the allowlist."
-  ]
+  "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f"
 }
