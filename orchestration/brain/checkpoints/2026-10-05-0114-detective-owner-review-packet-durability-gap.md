@@ -42,3 +42,15 @@ The existing 24 half-inch safe-zone flags remain a separate print-master blocker
 Durable exact-hash review packet available -> owner reviews physical Pages 16–18 -> approve or bounded-correct -> G4 template freeze -> regenerate Case02 on locked template -> Case02 exception review.
 
 No Cases03–30 batch, EN freeze, main merge, or KDP publication is authorized.
+
+
+## Remote review-channel verification — 2026-10-05 02:xx Europe/Warsaw
+
+Additional live GitHub verification confirms the durability gap is not merely a missing tracked directory:
+
+- current delegated branch head is still `bbe4941ea190d8ef3d2617fe18c1b26c8a562864` (`factory(control): mark Book Agent M2 ready`);
+- GitHub Actions reports **zero workflow runs** for the current head, for the Case01 reconstructed-review head `f14eed4b93dcc610c8730c216ac5e37ee7b19122`, and for M1 proof head `83b4ffbb1f7dfe9cb9a3ed425fc716446c2b0a5c`;
+- there is **no open pull request whose head is `feature/rse-book-factory-v2`**;
+- existing PR #571 is a different, older lane: head `feature/detective-book-factory@e6a531bc6f26b7cafc4fa73b1af5ee549d1c4283`.
+
+Therefore the current owner-review packet cannot be recovered from a PR attachment or GitHub Actions artifact on the active v2 lane. The delegated writer must deliberately persist/export the exact already-generated packet to a durable owner-review surface, hash-check it against `CASE01_GOLDEN_PARITY_RESULTS.json`, and then stop at owner review. Do not rerender merely to create transport.
