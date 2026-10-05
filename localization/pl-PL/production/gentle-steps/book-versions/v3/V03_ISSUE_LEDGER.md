@@ -47,3 +47,17 @@ Closed in V03:
 - forced-joke comments were reviewed under KEEP/FIX and only materially weaker lines were changed.
 
 No BLOCK item remains. Owner gates remain title, recurring-label freeze, content approval, real-template/print proof and release authorization.
+
+
+### MIĘDZY NAMI FOLLOW-UP
+
+All 24 conversation sections were reviewed after the initial V03 candidate.
+
+Closed additional FIX items:
+- D08 comment precision;
+- D10 family-slogan workshop feel;
+- D18 directed praise pressure;
+- D21 invented-sign workshop feel.
+
+20/24 MIĘDZY NAMI sections remained KEEP.
+No material MIĘDZY NAMI FIX remains.
