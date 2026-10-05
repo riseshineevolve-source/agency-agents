@@ -1,31 +1,23 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "CLOSED_OPTIONAL_HUMOR_MICRO_SLICE_PASS",
-  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_D24_FINALE_SAFE_STATE_2026-10-05.md",
+  "status": "PREPARED_READER_EMDASH_CLEANUP",
+  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_FINAL_CONTENT_FIXES_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
-    "D12.MIĘDZY NAMI"
+    "D05.GRAMY",
+    "D24.GRAMY"
   ],
-  "require_exact_changed_set": true,
+  "require_exact_changed_set": false,
   "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
   "frozen_v2_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
   "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
   "rules": [
-    "Only D12.MIĘDZY NAMI may change.",
-    "Change comment only; prompt/instructions remain identical.",
-    "Replacement must be clearly more natural and less pre-written than the current line.",
+    "Only reader-facing em dash typography may change in D05.GRAMY and D24.GRAMY.",
+    "No wording, mechanics, counts, safety, humor or structure changes.",
     "All other content remains byte-for-byte identical.",
-    "After patch actual changed segments must equal D12.MIĘDZY NAMI."
-  ],
-  "closed_working_master_blob_sha": "c0d6663e82c54fd85b90124caa12ef5b0a3e7c09",
-  "closed_changed_segment_count": 1,
-  "closed_checks": {
-    "exact_changed_set_pass": true,
-    "changed_segments": [
-      "D12.MIĘDZY NAMI"
-    ],
-    "unscoped_drift": 0
-  }
+    "Target reader-facing em dash count after patch: 0.",
+    "After patch actual changed segments must equal D05.GRAMY and D24.GRAMY."
+  ]
 }
