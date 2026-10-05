@@ -1,0 +1,89 @@
+{
+  "book_id": "project-unstoppable-en-happy-makers-v2",
+  "title_current": "PROJECT UNSTOPPABLE",
+  "language": "English",
+  "audience_age": [
+    10,
+    14
+  ],
+  "duration_days": 31,
+  "daily_section_families": [
+    "INTRO",
+    "BRIEFING",
+    "WORKBENCH",
+    "SYSTEM_REBOOT",
+    "GLITCH_PUZZLE",
+    "FREE_ROAM"
+  ],
+  "stages": [
+    {
+      "days": "1-7",
+      "name": "KNOW YOUR CONTROLS"
+    },
+    {
+      "days": "8-14",
+      "name": "RUN YOUR SYSTEM"
+    },
+    {
+      "days": "15-21",
+      "name": "HANDLE REAL LIFE"
+    },
+    {
+      "days": "22-27",
+      "name": "BUILD FORWARD"
+    },
+    {
+      "days": "28-31",
+      "name": "MAKE IT YOURS"
+    }
+  ],
+  "happy_makers": [
+    {
+      "name": "Mimi",
+      "role": "Case Captain"
+    },
+    {
+      "name": "Luli",
+      "role": "Clue Analyst"
+    },
+    {
+      "name": "Dilo",
+      "role": "Code & Tech"
+    },
+    {
+      "name": "Alio",
+      "role": "Routes & Recon"
+    },
+    {
+      "name": "Nini",
+      "role": "People & Courage"
+    },
+    {
+      "name": "Grandma Bibi",
+      "role": "Archive Mentor"
+    }
+  ],
+  "roster_lock": "Exactly six canonical Happy Makers; no replacements or additions.",
+  "reader_role": "unnamed seventh seat / teammate; not a new named Happy Maker",
+  "product_boundary": "educational life skills; not therapy, diagnosis or treatment",
+  "safety_lock": "Bullying/threat/unsafe-situation content preserves evidence/block/report/trusted-adult escalation as appropriate.",
+  "consent_lock": "No activity requires emotional disclosure, touch, photo sharing, or social participation without an opt-out/private or delayed alternative.",
+  "puzzle_truth_lock": "PUZZLE_TRUTH_REGISTRY.json remains authoritative; visual assets must render deterministic specs.",
+  "final_meta_key": "RESET",
+  "final_brand_meaning": "Unstoppable does not mean never stopping. It means knowing how to start again.",
+  "cross_surface_lock": "Day 10 print/app puzzle divergence remains intentional unless explicitly reopened.",
+  "previous_candidate_lock": {
+    "path": "projects/unstoppable/premium-content-upgrade/candidates/OWNER_READ_CANDIDATE_V1.txt",
+    "git_blob": "86862cd09c8b1fa29d78439a05d6609608d5eaf6",
+    "status": "immutable prior owner-read candidate"
+  },
+  "release_ladder": [
+    "DRAFT",
+    "PREMIUM_WORKING",
+    "OWNER_READ_CANDIDATE",
+    "CONTENT_APPROVED",
+    "FROZEN_CONTENT",
+    "PRINT_READY",
+    "RELEASE_AUTHORIZED"
+  ]
+}
