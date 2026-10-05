@@ -1,7 +1,7 @@
-# Puzzle Completeness Matrix — Current Master V11
+# Puzzle Completeness Matrix — Current Master V12
 
-Candidate master: `WORKING_MASTER_V11_PUZZLE_SPECS_C.txt`
-Candidate blob: `fde03e476770eeed8210b3e17dc8d11372de8218`
+Candidate master: `WORKING_MASTER_V12_VISUAL_PUZZLE_SPECS_D.txt`
+Candidate blob: `e7c37c6dca82f03339311f8f181426acc0e07873`
 
 Legend:
 - **PASS** = self-contained in text; answer/no-answer truth can be locked.
@@ -29,14 +29,14 @@ Legend:
 | 14 | Mini Sudoku 4×4 | PASS | Unique starting grid + solution locked |
 | 15 | Logic Riddle | PASS | Answer removed from reader page; Echo locked separately |
 | 16 | Missing Dollar | PASS | No missing dollar; explanation locked |
-| 17 | Coin Triangle | BLOCK-ASSET | Starting 10-coin triangle + moved-coins solution |
-| 18 | Word Search | BLOCK-ASSET | Actual grid containing target words + solution |
+| 17 | Coin Flip | ASSET-SPEC-READY | Start/final lattice coordinates + exact 3 moved coins locked |
+| 18 | Word Search | PASS | 8×8 grid + unique CLEAN/ZEN/FOCUS locations locked |
 | 19 | Schedule Logic | PASS | Four-slot puzzle + unique solution locked |
-| 20 | Impossible Object | BLOCK-ASSET | Actual Penrose triangle / observation task |
-| 21 | Minimalist Puzzle | BLOCK-ASSET | Starting line/triangle diagram + unique solution |
+| 20 | Impossible Triangle | ASSET-SPEC-READY | Vector bar geometry + cyclic over/under truth locked |
+| 21 | Remove Two Lines | ASSET-SPEC-READY | 2×2 grid geometry + canonical/symmetric solutions locked |
 | 22 | Career Decoder | PASS | Engineering / Design / Medicine locked |
-| 23 | Hidden Star | BLOCK-ASSET | Pattern image with exact star location |
-| 24 | Maze | BLOCK-ASSET | Actual maze + route truth |
+| 23 | Hidden Star | ASSET-SPEC-READY | 8×8 symbol field + exact star cell locked |
+| 24 | Center Maze | ASSET-SPEC-READY | Exact 9×9 perfect-maze openings + unique route locked |
 | 25 | Debug the Experiment | PASS | Original 3-trial data puzzle; answer B + claim boundary locked |
 | 26 | Connection Riddle | PASS | Cheese locked |
 | 27 | The Flashlight Bridge | PASS | Complete 1/2/5/8-minute bridge puzzle; minimum 15 minutes locked |
