@@ -2,7 +2,7 @@
 
 Status: CANONICAL
 Rebuilt: 2026-09-18
-Last reconciled: 2026-09-26
+Last reconciled: 2026-10-05
 Primary durable repo: `riseshineevolve-source/agency-agents`
 
 ## 1. Operating model
@@ -70,6 +70,12 @@ Owner-locked order:
 Frozen/non-active commercial lane: **Mind Bloom Private V1** — source release candidate PASS / feature development frozen; future provider or commercial work is a separate owner-gated decision.
 
 Operational sequence: **Detective EN KDP -> Detective PL KDP -> Optical Animals gift lane -> Gentle Steps seasonal lane -> Google Play acceleration when external gates clear.**
+
+## Growth Operating System — Q4 2026
+
+Owner-approved strategy addendum: `orchestration/strategy/RSE_GROWTH_OPERATING_SYSTEM_2026_Q4.md`.
+
+Operating doctrine: **REVENUE ASAP / FINISH -> PUBLISH -> SELL -> LEARN -> SCALE**. Release closure stays ahead of growth support; when a release lane is blocked at a real owner/external gate, Central may advance bounded source-backed growth enablement. New tools/vendors must pass the strategy adoption gate, and existing RSE capability should be extended before adding duplicate stacks. Market-intelligence references in the strategy are evidence inputs only; product truth, current release order and owner gates remain authoritative.
 
 ## 3. Global product/business sequence
 
