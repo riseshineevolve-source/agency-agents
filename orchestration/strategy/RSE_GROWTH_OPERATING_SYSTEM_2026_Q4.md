@@ -401,3 +401,17 @@ Required usage:
 - require semantic fit before metadata use;
 - revalidate shortlisted keywords live before final KDP metadata or paid-search activation;
 - current release priorities always beat speculative new-niche creation.
+
+
+## 18. Product-specific commercial deep dives
+
+For product-level niche positioning, listing preparation and keyword execution:
+
+- Unstoppable:
+  `marketing/UNSTOPPABLE_COMMERCIAL_DEEP_DIVE_2026-10-05.md`
+- Optical Animals:
+  `marketing/OPTICAL_ANIMALS_COMMERCIAL_DEEP_DIVE_2026-10-05.md`
+- Cross-role consensus:
+  `orchestration/market-research/RSE_NICHE_DEEP_DIVE_REVIEW_BOARD_2026-10-05.md`
+
+These briefs inherit all product-truth, owner-gate and metadata-safety rules from this Growth Operating System. They may refine commercial positioning but may not silently change the product, age range, health/therapy claims, owner-approved art or publication state.
