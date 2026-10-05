@@ -1,0 +1,21 @@
+{
+  "format": "rse-source-version-inventory-v1",
+  "route": "SAME_LANGUAGE_PREMIUM_UPGRADE",
+  "target_language": "pl-PL",
+  "versions": [
+    {
+      "id": "V01_FROZEN",
+      "path": "localization/pl-PL/production/gentle-steps/book-versions/v1/GENTLE_STEPS_PL_BOOK_VERSION_01.md",
+      "status": "FROZEN_HISTORICAL",
+      "editable": false
+    },
+    {
+      "id": "V02_OWNER_READ_BASE",
+      "path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
+      "git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
+      "status": "CANONICAL_V03_BASE",
+      "editable": false
+    }
+  ],
+  "convergence_decision": "V02_OWNER_READ_BASE is the structural/content baseline. V01 remains frozen historical evidence. V03 reopens only documented FIX/REDESIGN areas and inherits all other V02 content as KEEP."
+}
