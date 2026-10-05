@@ -811,6 +811,587 @@
       ],
       "uniqueness": "verified unique",
       "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
+    },
+    {
+      "segment_id": "D17.GLITCH_PUZZLE",
+      "title": "Coin Flip",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D17_COIN_TRIANGLE_V1",
+      "lattice": "triangular",
+      "start_points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          -2,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          -3,
+          3
+        ],
+        [
+          -1,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "moved_from": [
+        [
+          0,
+          0
+        ],
+        [
+          -3,
+          3
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "moved_to": [
+        [
+          0,
+          4
+        ],
+        [
+          -3,
+          1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "final_points": [
+        [
+          -3,
+          1
+        ],
+        [
+          -1,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          -2,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          -1,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "answer": "Move the top coin below the center of the bottom row; move the two bottom corner coins to the far left and far right of the second row.",
+      "render_contract": "Render 10 identical circles on a triangular lattice. Reader version shows start only; solution asset may ghost moved-from positions and arrows to moved-to positions.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D18.GLITCH_PUZZLE",
+      "title": "Word Search",
+      "status": "PASS",
+      "grid": [
+        "CLEANQZR",
+        "FJHTKAZM",
+        "BOUPXREN",
+        "DWCYLNNS",
+        "GIOURATB",
+        "PKLUSEWF",
+        "HNSXSJQI",
+        "VTYGBMCK"
+      ],
+      "targets": {
+        "CLEAN": {
+          "start": [
+            0,
+            0
+          ],
+          "direction": "E"
+        },
+        "ZEN": {
+          "start": [
+            1,
+            6
+          ],
+          "direction": "S"
+        },
+        "FOCUS": {
+          "start": [
+            1,
+            0
+          ],
+          "direction": "SE"
+        }
+      },
+      "uniqueness": "Each target appears exactly once across all eight compass directions.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D20.GLITCH_PUZZLE",
+      "title": "Impossible Triangle",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D20_PENROSE_TRIANGLE_V1",
+      "answer": "B — NO",
+      "truth": "The drawing uses cyclic occlusion: A appears over B, B over C, and C over A. That depth ordering cannot occur in one ordinary rigid 3D object.",
+      "geometry": {
+        "centerline_vertices": [
+          [
+            300,
+            70
+          ],
+          [
+            520,
+            450
+          ],
+          [
+            80,
+            450
+          ]
+        ],
+        "bar_width": 54,
+        "joint_style": "mitered",
+        "cyclic_over_order": [
+          "A>B",
+          "B>C",
+          "C>A"
+        ],
+        "linework": "black outlines on white with internal overlap masks only"
+      },
+      "render_contract": "Construct three equal-width vector bars on the triangular centerline and use deterministic masks at the three joints to enforce cyclic over/under order. No raster/generative geometry.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D21.GLITCH_PUZZLE",
+      "title": "Remove Two Lines",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D21_REMOVE_TWO_LINES_V1",
+      "start_geometry": "2x2 square grid made of 12 unit line segments; four small squares plus the large outer square",
+      "goal": "remove exactly two exterior line segments so exactly three complete squares remain",
+      "canonical_solution": {
+        "remove": [
+          "top edge of top-left small square",
+          "left edge of top-left small square"
+        ],
+        "remaining_squares": [
+          "top-right small",
+          "bottom-left small",
+          "bottom-right small"
+        ]
+      },
+      "accepted_symmetry": "Any rotation/reflection that removes the two exterior edges meeting at one corner is equivalent.",
+      "render_contract": "Render the 2x2 grid as 12 discrete unit segments so individual removable lines are unambiguous.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D23.GLITCH_PUZZLE",
+      "title": "Hidden Star",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D23_HIDDEN_STAR_V1",
+      "field": {
+        "rows": 8,
+        "cols": 8,
+        "default_symbol": "outlined diamond",
+        "hidden_symbol": "five-point outlined star",
+        "star_cell": [
+          5,
+          4
+        ]
+      },
+      "answer_location": "row 6, column 5 (1-indexed)",
+      "render_contract": "64 equal cells in an 8x8 invisible grid; 63 identical outlined diamonds and exactly one outlined five-point star. No other shape/size/rotation differences.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D24.GLITCH_PUZZLE",
+      "title": "Center Maze",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D24_CENTER_MAZE_V1",
+      "grid": {
+        "rows": 9,
+        "cols": 9,
+        "start": [
+          0,
+          4
+        ],
+        "goal": [
+          4,
+          4
+        ]
+      },
+      "cell_openings": [
+        [
+          "ES",
+          "EW",
+          "EW",
+          "SW",
+          "E",
+          "EW",
+          "SW",
+          "ES",
+          "SW"
+        ],
+        [
+          "NS",
+          "S",
+          "ES",
+          "NEW",
+          "EW",
+          "SW",
+          "NS",
+          "N",
+          "NS"
+        ],
+        [
+          "NE",
+          "NSW",
+          "NE",
+          "EW",
+          "SW",
+          "NS",
+          "NS",
+          "ES",
+          "NW"
+        ],
+        [
+          "E",
+          "NW",
+          "ES",
+          "EW",
+          "NW",
+          "NS",
+          "NS",
+          "NES",
+          "SW"
+        ],
+        [
+          "ES",
+          "EW",
+          "NW",
+          "ES",
+          "W",
+          "NS",
+          "NS",
+          "N",
+          "NS"
+        ],
+        [
+          "NS",
+          "ES",
+          "SW",
+          "NE",
+          "EW",
+          "NSW",
+          "NE",
+          "EW",
+          "NSW"
+        ],
+        [
+          "NES",
+          "NW",
+          "NS",
+          "ES",
+          "SW",
+          "NS",
+          "ES",
+          "EW",
+          "NW"
+        ],
+        [
+          "NS",
+          "S",
+          "NS",
+          "NS",
+          "NS",
+          "N",
+          "NE",
+          "EW",
+          "SW"
+        ],
+        [
+          "NE",
+          "NW",
+          "NE",
+          "NW",
+          "NE",
+          "EW",
+          "EW",
+          "EW",
+          "NW"
+        ]
+      ],
+      "solution_path": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          6,
+          8
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          7,
+          6
+        ],
+        [
+          7,
+          7
+        ],
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          8
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          8,
+          6
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          7,
+          4
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          7,
+          3
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          2
+        ],
+        [
+          7,
+          2
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "uniqueness": "perfect maze / tree geometry; one route from start to center",
+      "render_contract": "Render walls from the cell-opening table. Add one top entrance aligned to start cell and one center target marker that does not cover passages.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
     }
   ],
   "last_updated": "2026-10-05"
