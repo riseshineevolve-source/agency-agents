@@ -1,0 +1,34 @@
+{
+  "slice_id": "SLICE_007_D03_D04_PREMIUM_UPGRADE",
+  "base_master": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V6_OPENING_D01_D02_PREMIUM.txt",
+  "base_master_git_blob": "ff779b6491093e3109c58b8b617160b1e7c83a96",
+  "allowed_changed_segments": [
+    "D03.BRIEFING",
+    "D03.WORKBENCH",
+    "D03.SYSTEM_REBOOT",
+    "D03.GLITCH_PUZZLE",
+    "D04.INTRO",
+    "D04.BRIEFING",
+    "D04.WORKBENCH",
+    "D04.SYSTEM_REBOOT",
+    "D04.GLITCH_PUZZLE"
+  ],
+  "protected_subregions": [
+    "D03.INTRO",
+    "D03.INTRO.QUOTE",
+    "D04.INTRO.QUOTE",
+    "D03.FREE_ROAM",
+    "D04.FREE_ROAM",
+    "ALL_OTHER_SEGMENTS"
+  ],
+  "expected_dependency_closure": {
+    "update": [
+      "PUZZLE_TRUTH_REGISTRY"
+    ],
+    "validate_only": [
+      "BACK.FIRST_AID_KIT"
+    ]
+  },
+  "reviewer_packet": "reviews/SLICE_007_D03_D04_REVIEW_BOARD.md",
+  "reason": "premium upgrade of emotion-to-action mechanics, inclusive relationship mapping and uniquely solvable text puzzle"
+}
