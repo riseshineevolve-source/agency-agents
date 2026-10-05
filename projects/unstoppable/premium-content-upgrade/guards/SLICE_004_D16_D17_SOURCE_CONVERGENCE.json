@@ -1,0 +1,22 @@
+{
+  "slice_id": "SLICE_004_D16_D17_SOURCE_CONVERGENCE",
+  "base_master": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V3_CONVERGED_D08_D11.txt",
+  "base_master_git_blob": "d744b21c5819cab51f526411ab45a846097ee285",
+  "allowed_changed_segments": [
+    "D16.GLITCH_PUZZLE",
+    "D17.BRIEFING",
+    "D17.GLITCH_PUZZLE"
+  ],
+  "protected_regions": [
+    "ALL_DAILY_QUOTE_TAILS",
+    "ALL_OTHER_SEGMENTS"
+  ],
+  "expected_dependency_closure": {
+    "validate_only": [
+      "BACK.FIRST_AID_KIT",
+      "ISSUE-MONEY-DAYS"
+    ]
+  },
+  "source_of_change": "riseshineevolve-source/unstoppable-me@b447bce6d2ba00fb24a983dc94e59a6df74b153c",
+  "reason": "inherit existing reviewed money-copy deltas before later age-fit redesign; do not pretend current source fully resolves money-day editorial debt"
+}
