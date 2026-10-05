@@ -84,6 +84,282 @@
       "uniqueness": "unique by direct elimination",
       "status": "PASS",
       "candidate_blob": "34012afd7a66236846f33a003bac7a3043aed30b"
+    },
+    {
+      "segment_id": "D05.GLITCH_PUZZLE",
+      "title": "Spot the Difference",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D05_SHIELD_SPOT_DIFF_V1",
+      "exact_difference_count": 7,
+      "base_contract": "Two black-and-white shield drawings share identical outer size, position and all unlisted geometry. Every difference changes exactly one property in one local region.",
+      "differences": [
+        {
+          "id": 1,
+          "region": "top_center_emblem",
+          "A": "five-point star",
+          "B": "single lightning bolt"
+        },
+        {
+          "id": 2,
+          "region": "left_upper_stripe",
+          "A": "horizontal stripe",
+          "B": "diagonal stripe"
+        },
+        {
+          "id": 3,
+          "region": "left_edge_rivets",
+          "A": "3 rivets",
+          "B": "2 rivets"
+        },
+        {
+          "id": 4,
+          "region": "center_badge",
+          "A": "outline circle",
+          "B": "solid black circle"
+        },
+        {
+          "id": 5,
+          "region": "right_wing_panels",
+          "A": "4 panels",
+          "B": "3 panels"
+        },
+        {
+          "id": 6,
+          "region": "bottom_center_tab",
+          "A": "small V-notch present",
+          "B": "no notch"
+        },
+        {
+          "id": 7,
+          "region": "lower_dot",
+          "A": "dot on lower-left",
+          "B": "same dot on lower-right"
+        }
+      ],
+      "forbidden_drift": [
+        "no extra ornament changes",
+        "no line-thickness changes",
+        "no scale/position changes",
+        "no hidden micro-differences",
+        "no text"
+      ],
+      "candidate_blob": "d8bfc2234568372f398072952886cbf31c19fa45"
+    },
+    {
+      "segment_id": "D06.GLITCH_PUZZLE",
+      "title": "Code Breaker",
+      "status": "PASS",
+      "questions": [
+        {
+          "id": 1,
+          "correct_option": "B",
+          "answer": "Ask when you can talk about the reason"
+        },
+        {
+          "id": 2,
+          "correct_option": "B",
+          "answer": "Listen, then explain what is different now"
+        }
+      ],
+      "candidate_blob": "d8bfc2234568372f398072952886cbf31c19fa45"
+    },
+    {
+      "segment_id": "D07.GLITCH_PUZZLE",
+      "title": "The Unplugged Maze",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D07_UNPLUGGED_MAZE_V1",
+      "grid": {
+        "rows": 7,
+        "cols": 7,
+        "start": [
+          0,
+          0
+        ],
+        "goal": [
+          6,
+          6
+        ],
+        "start_icon": "BATTERY",
+        "goal_icon": "CHARGER"
+      },
+      "cell_openings": [
+        [
+          "E",
+          "SW",
+          "ES",
+          "EW",
+          "EW",
+          "ESW",
+          "SW"
+        ],
+        [
+          "ES",
+          "NW",
+          "NS",
+          "ES",
+          "EW",
+          "NW",
+          "NS"
+        ],
+        [
+          "NE",
+          "SW",
+          "N",
+          "NE",
+          "SW",
+          "ES",
+          "NW"
+        ],
+        [
+          "S",
+          "NE",
+          "EW",
+          "EW",
+          "NW",
+          "NS",
+          "S"
+        ],
+        [
+          "NES",
+          "EW",
+          "ESW",
+          "SW",
+          "S",
+          "NE",
+          "NSW"
+        ],
+        [
+          "NS",
+          "S",
+          "NS",
+          "NE",
+          "NW",
+          "ES",
+          "NW"
+        ],
+        [
+          "NE",
+          "NW",
+          "NE",
+          "EW",
+          "EW",
+          "NEW",
+          "W"
+        ]
+      ],
+      "solution_path": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          6,
+          6
+        ]
+      ],
+      "uniqueness": "perfect maze / tree geometry; exactly one path between any two cells",
+      "render_contract": "Render walls deterministically from cell openings; no generated geometry. Keep icons inside start/goal cells without covering openings.",
+      "candidate_blob": "d8bfc2234568372f398072952886cbf31c19fa45"
     }
   ],
   "last_updated": "2026-10-05"
