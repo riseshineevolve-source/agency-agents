@@ -54,6 +54,12 @@ Default agent routing:
 - default max ~4 active roles,
 - deterministic checks before expensive agent/Codex work.
 
+## Growth Operating System — Q4 2026
+
+Canonical owner-directed strategy addendum: `orchestration/strategy/RSE_GROWTH_OPERATING_SYSTEM_2026_Q4.md`.
+
+Current operating doctrine: **REVENUE ASAP / FINISH -> PUBLISH -> SELL -> LEARN -> SCALE**. Central must prioritize concrete release blockers first, use Growth OS support work only when higher-value release lanes are owner/external blocked, and apply the Growth OS adoption gate before any new tool/vendor/agent. While a dedicated execution owner is active, Central is read/sync-only on that project surface and must not become a second writer. Product truth, project repos, owner gates and explicit current owner directives override this summary.
+
 ## Commercial priority stack — Q4 2026
 
 Canonical priority file: `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md`
