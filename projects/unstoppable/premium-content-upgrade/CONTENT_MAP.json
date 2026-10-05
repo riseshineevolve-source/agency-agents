@@ -1,0 +1,2672 @@
+{
+  "schema_version": "1.0",
+  "book_id": "project-unstoppable-en",
+  "segments": [
+    {
+      "segment_id": "PRE.WELCOME",
+      "role": "front_matter",
+      "function": "hook reader + position book as a practical survival kit",
+      "status": "KEEP",
+      "dependencies": []
+    },
+    {
+      "segment_id": "PRE.DEDICATION",
+      "role": "front_matter",
+      "function": "reader dedication + playful grown-up aside",
+      "status": "KEEP",
+      "dependencies": []
+    },
+    {
+      "segment_id": "D01.INTRO",
+      "day": 1,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D01.BRIEFING",
+      "day": 1,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D01.WORKBENCH",
+      "day": 1,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D01.SYSTEM_REBOOT",
+      "day": 1,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D01.GLITCH_PUZZLE",
+      "day": 1,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D01.FREE_ROAM",
+      "day": 1,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D02.INTRO",
+      "day": 2,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D02.BRIEFING",
+      "day": 2,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D02.WORKBENCH",
+      "day": 2,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D02.SYSTEM_REBOOT",
+      "day": 2,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D02.GLITCH_PUZZLE",
+      "day": 2,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D02.FREE_ROAM",
+      "day": 2,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D03.INTRO",
+      "day": 3,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D03.BRIEFING",
+      "day": 3,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D03.WORKBENCH",
+      "day": 3,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D03.SYSTEM_REBOOT",
+      "day": 3,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D03.GLITCH_PUZZLE",
+      "day": 3,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-PUZZLE-CLARITY"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D03.FREE_ROAM",
+      "day": 3,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D04.INTRO",
+      "day": 4,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D04.BRIEFING",
+      "day": 4,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D04.WORKBENCH",
+      "day": 4,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D04.SYSTEM_REBOOT",
+      "day": 4,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D04.GLITCH_PUZZLE",
+      "day": 4,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D04.FREE_ROAM",
+      "day": 4,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D05.INTRO",
+      "day": 5,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D05.BRIEFING",
+      "day": 5,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D05.WORKBENCH",
+      "day": 5,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D05.SYSTEM_REBOOT",
+      "day": 5,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D05.GLITCH_PUZZLE",
+      "day": 5,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D05.FREE_ROAM",
+      "day": 5,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D06.INTRO",
+      "day": 6,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D06.BRIEFING",
+      "day": 6,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D06.WORKBENCH",
+      "day": 6,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D06.SYSTEM_REBOOT",
+      "day": 6,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D06.GLITCH_PUZZLE",
+      "day": 6,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-PUZZLE-CLARITY"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D06.FREE_ROAM",
+      "day": 6,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D07.INTRO",
+      "day": 7,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D07.BRIEFING",
+      "day": 7,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D07.WORKBENCH",
+      "day": 7,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D07.SYSTEM_REBOOT",
+      "day": 7,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D07.GLITCH_PUZZLE",
+      "day": 7,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D07.FREE_ROAM",
+      "day": 7,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D08.INTRO",
+      "day": 8,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D08.BRIEFING",
+      "day": 8,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D08.WORKBENCH",
+      "day": 8,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D08.SYSTEM_REBOOT",
+      "day": 8,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D08.GLITCH_PUZZLE",
+      "day": 8,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D08.FREE_ROAM",
+      "day": 8,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D09.INTRO",
+      "day": 9,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D09.BRIEFING",
+      "day": 9,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D09.WORKBENCH",
+      "day": 9,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D09.SYSTEM_REBOOT",
+      "day": 9,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D09.GLITCH_PUZZLE",
+      "day": 9,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D09.FREE_ROAM",
+      "day": 9,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D10.INTRO",
+      "day": 10,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D10.BRIEFING",
+      "day": 10,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D10.WORKBENCH",
+      "day": 10,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D10.SYSTEM_REBOOT",
+      "day": 10,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D10.GLITCH_PUZZLE",
+      "day": 10,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D10.FREE_ROAM",
+      "day": 10,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D11.INTRO",
+      "day": 11,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D11.BRIEFING",
+      "day": 11,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D11.WORKBENCH",
+      "day": 11,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D11.SYSTEM_REBOOT",
+      "day": 11,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D11.GLITCH_PUZZLE",
+      "day": 11,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D11.FREE_ROAM",
+      "day": 11,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D12.INTRO",
+      "day": 12,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D12.BRIEFING",
+      "day": 12,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D12.WORKBENCH",
+      "day": 12,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D12.SYSTEM_REBOOT",
+      "day": 12,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D12.GLITCH_PUZZLE",
+      "day": 12,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D12.FREE_ROAM",
+      "day": 12,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D13.INTRO",
+      "day": 13,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D13.BRIEFING",
+      "day": 13,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D13.WORKBENCH",
+      "day": 13,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D13.SYSTEM_REBOOT",
+      "day": 13,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D13.GLITCH_PUZZLE",
+      "day": 13,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D13.FREE_ROAM",
+      "day": 13,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D14.INTRO",
+      "day": 14,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D14.BRIEFING",
+      "day": 14,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D14.WORKBENCH",
+      "day": 14,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D14.SYSTEM_REBOOT",
+      "day": 14,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D14.GLITCH_PUZZLE",
+      "day": 14,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D14.FREE_ROAM",
+      "day": 14,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D15.INTRO",
+      "day": 15,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D15.BRIEFING",
+      "day": 15,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D15.WORKBENCH",
+      "day": 15,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D15.SYSTEM_REBOOT",
+      "day": 15,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D15.GLITCH_PUZZLE",
+      "day": 15,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D15.FREE_ROAM",
+      "day": 15,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D16.INTRO",
+      "day": 16,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D16.BRIEFING",
+      "day": 16,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D16.WORKBENCH",
+      "day": 16,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D16.SYSTEM_REBOOT",
+      "day": 16,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D16.GLITCH_PUZZLE",
+      "day": 16,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D16.FREE_ROAM",
+      "day": 16,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D17.INTRO",
+      "day": 17,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D17.BRIEFING",
+      "day": 17,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D17.WORKBENCH",
+      "day": 17,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D17.SYSTEM_REBOOT",
+      "day": 17,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D17.GLITCH_PUZZLE",
+      "day": 17,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D17.FREE_ROAM",
+      "day": 17,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D18.INTRO",
+      "day": 18,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D18.BRIEFING",
+      "day": 18,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D18.WORKBENCH",
+      "day": 18,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D18.SYSTEM_REBOOT",
+      "day": 18,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D18.GLITCH_PUZZLE",
+      "day": 18,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D18.FREE_ROAM",
+      "day": 18,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D19.INTRO",
+      "day": 19,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D19.BRIEFING",
+      "day": 19,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D19.WORKBENCH",
+      "day": 19,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D19.SYSTEM_REBOOT",
+      "day": 19,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D19.GLITCH_PUZZLE",
+      "day": 19,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D19.FREE_ROAM",
+      "day": 19,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D20.INTRO",
+      "day": 20,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D20.BRIEFING",
+      "day": 20,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D20.WORKBENCH",
+      "day": 20,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D20.SYSTEM_REBOOT",
+      "day": 20,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D20.GLITCH_PUZZLE",
+      "day": 20,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D20.FREE_ROAM",
+      "day": 20,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D21.INTRO",
+      "day": 21,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D21.BRIEFING",
+      "day": 21,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D21.WORKBENCH",
+      "day": 21,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D21.SYSTEM_REBOOT",
+      "day": 21,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D21.GLITCH_PUZZLE",
+      "day": 21,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D21.FREE_ROAM",
+      "day": 21,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D22.INTRO",
+      "day": 22,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D22.BRIEFING",
+      "day": 22,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D22.WORKBENCH",
+      "day": 22,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D22.SYSTEM_REBOOT",
+      "day": 22,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D22.GLITCH_PUZZLE",
+      "day": 22,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D22.FREE_ROAM",
+      "day": 22,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D23.INTRO",
+      "day": 23,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D23.BRIEFING",
+      "day": 23,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D23.WORKBENCH",
+      "day": 23,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D23.SYSTEM_REBOOT",
+      "day": 23,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D23.GLITCH_PUZZLE",
+      "day": 23,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D23.FREE_ROAM",
+      "day": 23,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D24.INTRO",
+      "day": 24,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D24.BRIEFING",
+      "day": 24,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D24.WORKBENCH",
+      "day": 24,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D24.SYSTEM_REBOOT",
+      "day": 24,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D24.GLITCH_PUZZLE",
+      "day": 24,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D24.FREE_ROAM",
+      "day": 24,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D25.INTRO",
+      "day": 25,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D25.BRIEFING",
+      "day": 25,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D25.WORKBENCH",
+      "day": 25,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D25.SYSTEM_REBOOT",
+      "day": 25,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D25.GLITCH_PUZZLE",
+      "day": 25,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D25.FREE_ROAM",
+      "day": 25,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D26.INTRO",
+      "day": 26,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D26.BRIEFING",
+      "day": 26,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D26.WORKBENCH",
+      "day": 26,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D26.SYSTEM_REBOOT",
+      "day": 26,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D26.GLITCH_PUZZLE",
+      "day": 26,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D26.FREE_ROAM",
+      "day": 26,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D27.INTRO",
+      "day": 27,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D27.BRIEFING",
+      "day": 27,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D27.WORKBENCH",
+      "day": 27,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D27.SYSTEM_REBOOT",
+      "day": 27,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D27.GLITCH_PUZZLE",
+      "day": 27,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D27.FREE_ROAM",
+      "day": 27,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D28.INTRO",
+      "day": 28,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D28.BRIEFING",
+      "day": 28,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D28.WORKBENCH",
+      "day": 28,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D28.SYSTEM_REBOOT",
+      "day": 28,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D28.GLITCH_PUZZLE",
+      "day": 28,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-PUZZLE-CLARITY"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D28.FREE_ROAM",
+      "day": 28,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D29.INTRO",
+      "day": 29,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "dilo",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D29.BRIEFING",
+      "day": 29,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D29.WORKBENCH",
+      "day": 29,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D29.SYSTEM_REBOOT",
+      "day": 29,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D29.GLITCH_PUZZLE",
+      "day": 29,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D29.FREE_ROAM",
+      "day": 29,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D30.INTRO",
+      "day": 30,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "luli",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D30.BRIEFING",
+      "day": 30,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D30.WORKBENCH",
+      "day": 30,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D30.SYSTEM_REBOOT",
+      "day": 30,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D30.GLITCH_PUZZLE",
+      "day": 30,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D30.FREE_ROAM",
+      "day": 30,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "D31.INTRO",
+      "day": 31,
+      "role": "daily_intro",
+      "function": "frame theme + Happy Maker voice + quote",
+      "audience": "10-14",
+      "speaker": "team",
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-QUOTE-SYSTEM",
+        "ISSUE-TEEN-EAR"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D31.BRIEFING",
+      "day": 31,
+      "role": "mission",
+      "function": "real-life mission + steps + XP Boost",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-INCLUSIVITY-CONSENT"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D31.WORKBENCH",
+      "day": 31,
+      "role": "tool_for_life",
+      "function": "portable tool + writable reflection/drawing",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-FUNCTION-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D31.SYSTEM_REBOOT",
+      "day": 31,
+      "role": "reset",
+      "function": "short regulation/reset exercise",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "FIX",
+      "issue_ids": [
+        "ISSUE-RESET-CLAIMS-REPETITION"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D31.GLITCH_PUZZLE",
+      "day": 31,
+      "role": "puzzle",
+      "function": "memorable cheat code + cognitive puzzle/game",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-PUZZLE-COMPLETENESS"
+      ],
+      "dependencies": [
+        "GLOBAL.TERMINOLOGY"
+      ]
+    },
+    {
+      "segment_id": "D31.FREE_ROAM",
+      "day": 31,
+      "role": "open_space",
+      "function": "notes/doodles/brain dump",
+      "audience": "10-14",
+      "speaker": null,
+      "status": "KEEP",
+      "issue_ids": [],
+      "dependencies": []
+    },
+    {
+      "segment_id": "BACK.FIRST_AID_KIT",
+      "role": "back_matter",
+      "function": "fast retrieval of previously learned tools",
+      "status": "BLOCK",
+      "issue_ids": [
+        "ISSUE-FIRST-AID-STALE"
+      ],
+      "dependencies": [
+        "D03.BRIEFING",
+        "D05.BRIEFING",
+        "D06.BRIEFING",
+        "D08.BRIEFING",
+        "D10.BRIEFING",
+        "D16.WORKBENCH",
+        "D22.WORKBENCH",
+        "D25.WORKBENCH"
+      ]
+    }
+  ]
+}
