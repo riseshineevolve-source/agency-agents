@@ -1,7 +1,7 @@
-# Puzzle Completeness Matrix — Current Master V8
+# Puzzle Completeness Matrix — Current Master V9
 
-Candidate master: `WORKING_MASTER_V8_D05_D07_PREMIUM.txt`
-Candidate blob: `d8bfc2234568372f398072952886cbf31c19fa45`
+Candidate master: `WORKING_MASTER_V9_TEXT_PUZZLES_A.txt`
+Candidate blob: `9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5`
 
 Legend:
 - **PASS** = self-contained in text; answer/no-answer truth can be locked.
@@ -21,27 +21,27 @@ Legend:
 | 6 | Code Breaker | PASS | Answer key locked: B / B |
 | 7 | Unplugged Maze | ASSET-SPEC-READY | 7×7 perfect-maze geometry and unique solution path locked |
 | 8 | Memory Matrix | PASS | Self-scored memory activity; no answer key required |
-| 9 | Time Paradox | FIX | Lock answer/explanation: 5 minutes |
+| 9 | Time Paradox | PASS | Answer A = 5 minutes; explanation locked |
 | 10 | Tangram | BLOCK-ASSET | Provide exact five shapes + target square + solution |
-| 11 | Tower of Hanoi | BLOCK-TEXT | Define starting stack, destination, disk count and goal |
+| 11 | Tower of Hanoi | PASS | 3 disks, A→C, rules and 7-move minimum locked |
 | 12 | Optical Illusion | BLOCK-ASSET | Actual B/W optical illusion + observation prompt |
 | 13 | Stroop Effect | REDESIGN | Current color-reading mechanic is unsuitable for B/W interior |
 | 14 | Mini Sudoku | BLOCK-ASSET | Actual solvable mini Sudoku + solution |
-| 15 | Logic Riddle | FIX | Remove visible "(Echo)" answer; lock answer separately |
-| 16 | Missing Dollar | FIX | Lock explanation; prompt itself now complete |
+| 15 | Logic Riddle | PASS | Answer removed from reader page; Echo locked separately |
+| 16 | Missing Dollar | PASS | No missing dollar; explanation locked |
 | 17 | Coin Triangle | BLOCK-ASSET | Starting 10-coin triangle + moved-coins solution |
 | 18 | Word Search | BLOCK-ASSET | Actual grid containing target words + solution |
-| 19 | Schedule Logic | BLOCK-TEXT | Classes, constraints and unique solution |
+| 19 | Schedule Logic | PASS | Four-slot puzzle + unique solution locked |
 | 20 | Impossible Object | BLOCK-ASSET | Actual Penrose triangle / observation task |
 | 21 | Minimalist Puzzle | BLOCK-ASSET | Starting line/triangle diagram + unique solution |
-| 22 | Career Decoder | FIX | Lock answers: Engineering, Design, Medicine |
+| 22 | Career Decoder | PASS | Engineering / Design / Medicine locked |
 | 23 | Hidden Star | BLOCK-ASSET | Pattern image with exact star location |
 | 24 | Maze | BLOCK-ASSET | Actual maze + route truth |
 | 25 | Lateral Thinking | BLOCK-TEXT | "Monopoly puzzle" is only a placeholder |
-| 26 | Connection Riddle | FIX | Lock answer: Cheese |
+| 26 | Connection Riddle | PASS | Cheese locked |
 | 27 | The Bridge | BLOCK-TEXT | Full logic puzzle statement + answer |
 | 28 | Cryptogram | REDESIGN | Current dotted plain-English phrase is not a real cryptogram |
-| 29 | Happy Logic | FIX | Lock answer: neutral-face symbol |
+| 29 | Happy Logic | PASS | Neutral-face symbol locked |
 | 30 | The End | REDESIGN | Current riddle is ambiguous and does not meaningfully pay off Day 1 |
 | 31 | The Final Key | REDESIGN | Current page prints the answer and is not a real final puzzle |
 
