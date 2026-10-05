@@ -1,12 +1,12 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_OPTIONAL_HUMOR_MICRO_SLICE",
+  "status": "CLOSED_OPTIONAL_HUMOR_MICRO_SLICE_PASS",
   "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_D24_FINALE_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
     "D12.MIĘDZY NAMI"
   ],
-  "require_exact_changed_set": false,
+  "require_exact_changed_set": true,
   "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
@@ -18,5 +18,14 @@
     "Replacement must be clearly more natural and less pre-written than the current line.",
     "All other content remains byte-for-byte identical.",
     "After patch actual changed segments must equal D12.MIĘDZY NAMI."
-  ]
+  ],
+  "closed_working_master_blob_sha": "c0d6663e82c54fd85b90124caa12ef5b0a3e7c09",
+  "closed_changed_segment_count": 1,
+  "closed_checks": {
+    "exact_changed_set_pass": true,
+    "changed_segments": [
+      "D12.MIĘDZY NAMI"
+    ],
+    "unscoped_drift": 0
+  }
 }
