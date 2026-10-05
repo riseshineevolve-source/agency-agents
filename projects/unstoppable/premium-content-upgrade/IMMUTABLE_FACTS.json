@@ -1,0 +1,39 @@
+{
+  "book_id": "project-unstoppable-en",
+  "title_current": "PROJECT UNSTOPPABLE",
+  "language": "English",
+  "audience_age": [
+    10,
+    14
+  ],
+  "duration_days": 31,
+  "daily_section_families": [
+    "INTRO",
+    "BRIEFING",
+    "WORKBENCH",
+    "SYSTEM_REBOOT",
+    "GLITCH_PUZZLE",
+    "FREE_ROAM"
+  ],
+  "recurring_characters": [
+    "Dilo",
+    "Luli"
+  ],
+  "day31_speaker": "Team",
+  "back_matter": [
+    "SUPERPOWER FIRST-AID KIT"
+  ],
+  "product_boundary": "educational life skills; not therapy, diagnosis or treatment",
+  "safety_lock": "Bullying/threat/unsafe-situation content must preserve block/report/evidence/trusted-adult escalation as appropriate.",
+  "consent_lock": "No activity may require emotional disclosure, touch, photo sharing or participation without an opt-out/private alternative.",
+  "cross_surface_fact": "Day 10 app puzzle enhancement is intentional and does not force a print mechanic change.",
+  "release_ladder": [
+    "DRAFT",
+    "PREMIUM_WORKING",
+    "OWNER_READ_CANDIDATE",
+    "CONTENT_APPROVED",
+    "FROZEN_CONTENT",
+    "PRINT_READY",
+    "RELEASE_AUTHORIZED"
+  ]
+}
