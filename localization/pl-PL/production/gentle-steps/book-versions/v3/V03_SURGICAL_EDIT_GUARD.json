@@ -1,6 +1,6 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_R4_FINAL_PUBLISH_GATE_FIXES",
+  "status": "CLOSED_R4_FINAL_PUBLISH_GATE_FIXES_PASS",
   "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R3_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
@@ -13,7 +13,7 @@
     "D22.ZWOLNIJ",
     "D24.GRAMY"
   ],
-  "require_exact_changed_set": false,
+  "require_exact_changed_set": true,
   "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
@@ -29,5 +29,24 @@
     "F5 D09: add starter fallback for all-home day.",
     "All MIĘDZY NAMI, all other GRAMY/ZWOLNIJ, preamble and back matter remain byte-for-byte identical to R3.",
     "After patch actual changed segments must equal the allowlist."
-  ]
+  ],
+  "closed_candidate_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md",
+  "closed_candidate_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
+  "closed_changed_segment_count": 8,
+  "closed_checks": {
+    "exact_changed_set_pass": true,
+    "changed_segments": [
+      "D05.ZWOLNIJ",
+      "D08.ZWOLNIJ",
+      "D09.GRAMY",
+      "D11.ZWOLNIJ",
+      "D12.ZWOLNIJ",
+      "D18.GRAMY",
+      "D22.ZWOLNIJ",
+      "D24.GRAMY"
+    ],
+    "unscoped_drift": 0,
+    "reader_emdash_count": 0,
+    "forbidden_old_phrases": 0
+  }
 }
