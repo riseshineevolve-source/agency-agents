@@ -1,6 +1,6 @@
 # Quick Desk Owner Decision Candidate
 
-Status: PENDING CENTRAL RECONCILIATION
+Status: RECONCILED
 Date: 2026-09-30
 Scope: 24 Gentle Steps to Christmas — Polish edition/app copy
 Source conversation: RSE Quick Desk
@@ -63,3 +63,11 @@ Use multiple independent agents/roles rather than one translator rewriting its o
 ## Conflict check
 
 This supersedes the current Gentle Steps calibration copy as production language but does not discard the English source, mechanics, safety boundaries, or reusable Polish Localization Engine infrastructure.
+
+## Central reconciliation receipt — 2026-10-05
+
+Reconciled by Central into `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md` under `Owner revenue-ASAP execution override — 2026-10-05`.
+
+Canonical effect: Polish Gentle Steps copy remains owned by the Polish Localization stream and is produced as Polish-first re-authoring/transcreation rather than literal translation.
+
+No delegated product branch/worktree was mutated by this reconciliation.
