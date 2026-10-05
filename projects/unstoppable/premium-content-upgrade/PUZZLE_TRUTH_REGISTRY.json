@@ -362,6 +362,15 @@
       "candidate_blob": "d8bfc2234568372f398072952886cbf31c19fa45"
     },
     {
+      "segment_id": "D08.GLITCH_PUZZLE",
+      "title": "Memory Matrix",
+      "status": "PASS_SELF_SCORED",
+      "mechanic": "Reader creates 9 symbols, covers them, redraws from memory, then self-checks.",
+      "completion_condition": "Reader attempts recall and compares with the original; no fixed answer key exists.",
+      "truth_boundary": "The puzzle tests recall practice only; it does not diagnose memory ability.",
+      "candidate_blob": "a90b6c58d45ff0918b385c6569479fa02aade76f"
+    },
+    {
       "segment_id": "D09.GLITCH_PUZZLE",
       "title": "The Time Paradox",
       "status": "PASS",
@@ -369,192 +378,6 @@
       "answer": "5 minutes",
       "explanation": "Each machine makes one widget in 5 minutes. With 100 machines working at the same time, each makes one widget, so 100 widgets still take 5 minutes.",
       "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
-    },
-    {
-      "segment_id": "D11.GLITCH_PUZZLE",
-      "title": "Tower of Hanoi",
-      "status": "PASS",
-      "disk_count": 3,
-      "start_peg": "A",
-      "goal_peg": "C",
-      "auxiliary_peg": "B",
-      "minimum_moves": 7,
-      "canonical_solution": [
-        "A→C",
-        "A→B",
-        "C→B",
-        "A→C",
-        "B→A",
-        "B→C",
-        "A→C"
-      ],
-      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
-    },
-    {
-      "segment_id": "D15.GLITCH_PUZZLE",
-      "title": "Logic Riddle",
-      "status": "PASS",
-      "answer": "Echo",
-      "accepted_variants": [
-        "an echo",
-        "echo"
-      ],
-      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
-    },
-    {
-      "segment_id": "D16.GLITCH_PUZZLE",
-      "title": "The Missing Dollar",
-      "status": "PASS",
-      "answer": "There is no missing dollar.",
-      "explanation": "The $27 already equals $25 for the room plus $2 kept by the bellboy. Adding another $2 double-counts it. The correct reconciliation is $27 paid + $3 returned = $30.",
-      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
-    },
-    {
-      "segment_id": "D19.GLITCH_PUZZLE",
-      "title": "Schedule Logic",
-      "status": "PASS",
-      "slots": [
-        "4:00",
-        "4:30",
-        "5:00",
-        "5:30"
-      ],
-      "answer": {
-        "4:00": "MATH",
-        "4:30": "SCIENCE",
-        "5:00": "WALK",
-        "5:30": "GAME TIME"
-      },
-      "uniqueness": "Clues force Game Time last, Walk immediately before it, then Math before Science in the two remaining slots.",
-      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
-    },
-    {
-      "segment_id": "D22.GLITCH_PUZZLE",
-      "title": "Career Decoder",
-      "status": "PASS",
-      "answers": {
-        "GNIREENIGNE": "ENGINEERING",
-        "NGISED": "DESIGN",
-        "ENICIDEM": "MEDICINE"
-      },
-      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
-    },
-    {
-      "segment_id": "D26.GLITCH_PUZZLE",
-      "title": "Connection Riddle",
-      "status": "PASS",
-      "answer": "CHEESE",
-      "reason": "Swiss cheese, cottage cheese, cheesecake.",
-      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
-    },
-    {
-      "segment_id": "D29.GLITCH_PUZZLE",
-      "title": "Happy Logic",
-      "status": "PASS",
-      "sequence": [
-        "😊",
-        "😊",
-        "😐",
-        "😊",
-        "😊",
-        "😐",
-        "😊",
-        "😊",
-        "?"
-      ],
-      "answer": "😐",
-      "pattern": "two smiling faces, then one neutral face",
-      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
-    },
-    {
-      "segment_id": "D25.GLITCH_PUZZLE",
-      "title": "Debug the Experiment",
-      "status": "PASS",
-      "correct_option": "B",
-      "answer": "Turning notifications off produced the clearest improvement in this tiny test.",
-      "reason": "Trial 1→2 changes notification state while study time stays 10 minutes and score rises 5→8. Trial 2→3 increases time but score stays 8.",
-      "claim_boundary": "This tiny test does not prove notifications are always harmful or that the same result applies to everyone.",
-      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
-    },
-    {
-      "segment_id": "D27.GLITCH_PUZZLE",
-      "title": "The Flashlight Bridge",
-      "status": "PASS",
-      "times_minutes": [
-        1,
-        2,
-        5,
-        8
-      ],
-      "minimum_total_minutes": 15,
-      "canonical_solution": [
-        "1+2 cross = 2",
-        "1 returns = 1",
-        "5+8 cross = 8",
-        "2 returns = 2",
-        "1+2 cross = 2"
-      ],
-      "total_check": "2+1+8+2+2=15",
-      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
-    },
-    {
-      "segment_id": "D28.GLITCH_PUZZLE",
-      "title": "Shift Code",
-      "status": "PASS",
-      "cipher": "FKDUDFWHU VKRZV XS LQ VPDOO FKRLFHV.",
-      "method": "Caesar shift +3 for encoding; decode by -3",
-      "answer": "CHARACTER SHOWS UP IN SMALL CHOICES.",
-      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
-    },
-    {
-      "segment_id": "D30.GLITCH_PUZZLE",
-      "title": "The Evidence Hunt",
-      "status": "PASS_SELF_SCORED",
-      "completion_condition": "Reader records day numbers for one mission tried, one tool worth reusing and one answer/plan/opinion that changed.",
-      "fixed_answer": null,
-      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
-    },
-    {
-      "segment_id": "D31.GLITCH_PUZZLE",
-      "title": "The Final Key",
-      "status": "PASS",
-      "dependencies": [
-        "D04.GLITCH_PUZZLE",
-        "D15.GLITCH_PUZZLE",
-        "D02.GLITCH_PUZZLE",
-        "D22.GLITCH_PUZZLE",
-        "D09.GLITCH_PUZZLE"
-      ],
-      "clues": [
-        {
-          "source": "D04",
-          "answer": "RUNNING",
-          "letter": "R"
-        },
-        {
-          "source": "D15",
-          "answer": "ECHO",
-          "letter": "E"
-        },
-        {
-          "source": "D02",
-          "answer": "SOUTH",
-          "letter": "S"
-        },
-        {
-          "source": "D22",
-          "answer": "ENGINEERING",
-          "letter": "E"
-        },
-        {
-          "source": "D09 puzzle title",
-          "answer": "TIME",
-          "letter": "T"
-        }
-      ],
-      "answer": "RESET",
-      "meaning_lock": "Unstoppable is framed as the ability to reset and start again, not never stopping.",
-      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
     },
     {
       "segment_id": "D10.GLITCH_PUZZLE",
@@ -657,6 +480,26 @@
       ],
       "render_contract": "Show five separated black-outline polyomino pieces labeled A-E plus an empty 4x4 target square. Geometry must be rendered by code from the canonical cell sets.",
       "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
+    },
+    {
+      "segment_id": "D11.GLITCH_PUZZLE",
+      "title": "Tower of Hanoi",
+      "status": "PASS",
+      "disk_count": 3,
+      "start_peg": "A",
+      "goal_peg": "C",
+      "auxiliary_peg": "B",
+      "minimum_moves": 7,
+      "canonical_solution": [
+        "A→C",
+        "A→B",
+        "C→B",
+        "A→C",
+        "B→A",
+        "B→C",
+        "A→C"
+      ],
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
     },
     {
       "segment_id": "D12.GLITCH_PUZZLE",
@@ -811,6 +654,25 @@
       ],
       "uniqueness": "verified unique",
       "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
+    },
+    {
+      "segment_id": "D15.GLITCH_PUZZLE",
+      "title": "Logic Riddle",
+      "status": "PASS",
+      "answer": "Echo",
+      "accepted_variants": [
+        "an echo",
+        "echo"
+      ],
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D16.GLITCH_PUZZLE",
+      "title": "The Missing Dollar",
+      "status": "PASS",
+      "answer": "There is no missing dollar.",
+      "explanation": "The $27 already equals $25 for the room plus $2 kept by the bellboy. Adding another $2 double-counts it. The correct reconciliation is $27 paid + $3 returned = $30.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
     },
     {
       "segment_id": "D17.GLITCH_PUZZLE",
@@ -975,6 +837,25 @@
       "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
     },
     {
+      "segment_id": "D19.GLITCH_PUZZLE",
+      "title": "Schedule Logic",
+      "status": "PASS",
+      "slots": [
+        "4:00",
+        "4:30",
+        "5:00",
+        "5:30"
+      ],
+      "answer": {
+        "4:00": "MATH",
+        "4:30": "SCIENCE",
+        "5:00": "WALK",
+        "5:30": "GAME TIME"
+      },
+      "uniqueness": "Clues force Game Time last, Walk immediately before it, then Math before Science in the two remaining slots.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
       "segment_id": "D20.GLITCH_PUZZLE",
       "title": "Impossible Triangle",
       "status": "ASSET_SPEC_READY",
@@ -1029,6 +910,17 @@
       "accepted_symmetry": "Any rotation/reflection that removes the two exterior edges meeting at one corner is equivalent.",
       "render_contract": "Render the 2x2 grid as 12 discrete unit segments so individual removable lines are unambiguous.",
       "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D22.GLITCH_PUZZLE",
+      "title": "Career Decoder",
+      "status": "PASS",
+      "answers": {
+        "GNIREENIGNE": "ENGINEERING",
+        "NGISED": "DESIGN",
+        "ENICIDEM": "MEDICINE"
+      },
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
     },
     {
       "segment_id": "D23.GLITCH_PUZZLE",
@@ -1392,6 +1284,123 @@
       "uniqueness": "perfect maze / tree geometry; one route from start to center",
       "render_contract": "Render walls from the cell-opening table. Add one top entrance aligned to start cell and one center target marker that does not cover passages.",
       "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D25.GLITCH_PUZZLE",
+      "title": "Debug the Experiment",
+      "status": "PASS",
+      "correct_option": "B",
+      "answer": "Turning notifications off produced the clearest improvement in this tiny test.",
+      "reason": "Trial 1→2 changes notification state while study time stays 10 minutes and score rises 5→8. Trial 2→3 increases time but score stays 8.",
+      "claim_boundary": "This tiny test does not prove notifications are always harmful or that the same result applies to everyone.",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D26.GLITCH_PUZZLE",
+      "title": "Connection Riddle",
+      "status": "PASS",
+      "answer": "CHEESE",
+      "reason": "Swiss cheese, cottage cheese, cheesecake.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D27.GLITCH_PUZZLE",
+      "title": "The Flashlight Bridge",
+      "status": "PASS",
+      "times_minutes": [
+        1,
+        2,
+        5,
+        8
+      ],
+      "minimum_total_minutes": 15,
+      "canonical_solution": [
+        "1+2 cross = 2",
+        "1 returns = 1",
+        "5+8 cross = 8",
+        "2 returns = 2",
+        "1+2 cross = 2"
+      ],
+      "total_check": "2+1+8+2+2=15",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D28.GLITCH_PUZZLE",
+      "title": "Shift Code",
+      "status": "PASS",
+      "cipher": "FKDUDFWHU VKRZV XS LQ VPDOO FKRLFHV.",
+      "method": "Caesar shift +3 for encoding; decode by -3",
+      "answer": "CHARACTER SHOWS UP IN SMALL CHOICES.",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D29.GLITCH_PUZZLE",
+      "title": "Happy Logic",
+      "status": "PASS",
+      "sequence": [
+        "😊",
+        "😊",
+        "😐",
+        "😊",
+        "😊",
+        "😐",
+        "😊",
+        "😊",
+        "?"
+      ],
+      "answer": "😐",
+      "pattern": "two smiling faces, then one neutral face",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D30.GLITCH_PUZZLE",
+      "title": "The Evidence Hunt",
+      "status": "PASS_SELF_SCORED",
+      "completion_condition": "Reader records day numbers for one mission tried, one tool worth reusing and one answer/plan/opinion that changed.",
+      "fixed_answer": null,
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D31.GLITCH_PUZZLE",
+      "title": "The Final Key",
+      "status": "PASS",
+      "dependencies": [
+        "D04.GLITCH_PUZZLE",
+        "D15.GLITCH_PUZZLE",
+        "D02.GLITCH_PUZZLE",
+        "D22.GLITCH_PUZZLE",
+        "D09.GLITCH_PUZZLE"
+      ],
+      "clues": [
+        {
+          "source": "D04",
+          "answer": "RUNNING",
+          "letter": "R"
+        },
+        {
+          "source": "D15",
+          "answer": "ECHO",
+          "letter": "E"
+        },
+        {
+          "source": "D02",
+          "answer": "SOUTH",
+          "letter": "S"
+        },
+        {
+          "source": "D22",
+          "answer": "ENGINEERING",
+          "letter": "E"
+        },
+        {
+          "source": "D09 puzzle title",
+          "answer": "TIME",
+          "letter": "T"
+        }
+      ],
+      "answer": "RESET",
+      "meaning_lock": "Unstoppable is framed as the ability to reset and start again, not never stopping.",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
     }
   ],
   "last_updated": "2026-10-05"
