@@ -1,0 +1,109 @@
+{
+  "policy": "Approval inheritance: protected content stays KEEP unless a documented defect reopens it.",
+  "protected": [
+    {
+      "id": "GK-STRUCTURE-31",
+      "scope": "GLOBAL",
+      "text": "31-day structure and six-part daily rhythm",
+      "reason": "structural parity accepted 31/31"
+    },
+    {
+      "id": "GK-HM-WORLD",
+      "scope": "GLOBAL",
+      "text": "Happy Makers world; Dilo/Luli recurring guides",
+      "reason": "canonical product identity"
+    },
+    {
+      "id": "GK-OPEN-SURVIVAL",
+      "scope": "PRE.WELCOME",
+      "text": "Consider this book your personal ‘SURVIVAL KIT’.",
+      "reason": "strong concise product promise"
+    },
+    {
+      "id": "GK-OPEN-CAPTAIN",
+      "scope": "PRE.WELCOME",
+      "text": "YOU ARE THE CAPTAIN.",
+      "reason": "strong agency line"
+    },
+    {
+      "id": "GK-D02-QUOTE",
+      "scope": "D02.INTRO",
+      "text": "A TRAIT CAN FEEL LIKE A BUG IN ONE SITUATION AND BECOME A STRENGTH IN ANOTHER.",
+      "author": "Project Unstoppable"
+    },
+    {
+      "id": "GK-D08-QUOTE",
+      "scope": "D08.INTRO",
+      "text": "CLOSE THE NOTES. TRY TO REMEMBER. THEN CHECK WHAT YOU MISSED.",
+      "author": "Project Unstoppable"
+    },
+    {
+      "id": "GK-D10-QUOTE",
+      "scope": "D10.INTRO",
+      "text": "MAKE THE FIRST STEP SMALL ENOUGH TO START NOW.",
+      "author": "Project Unstoppable"
+    },
+    {
+      "id": "GK-D23-QUOTE",
+      "scope": "D23.INTRO",
+      "text": "IF YOU CAN PICTURE A DIRECTION, YOU CAN START CHOOSING STEPS TOWARD IT.",
+      "author": "Project Unstoppable"
+    },
+    {
+      "id": "GK-D24-QUOTE",
+      "scope": "D24.INTRO",
+      "text": "A GOAL GETS STRONGER WHEN YOU CAN NAME THE NEXT STEP AND THE DEADLINE.",
+      "author": "Project Unstoppable"
+    },
+    {
+      "id": "GK-D28-QUOTE",
+      "scope": "D28.INTRO",
+      "text": "BECOME THE KIND OF PERSON YOU WOULD BE PROUD TO BE REMEMBERED AS.",
+      "author": "Project Unstoppable"
+    },
+    {
+      "id": "GK-D29-QUOTE",
+      "scope": "D29.INTRO",
+      "text": "NOTICE WHAT IS GOOD WITHOUT PRETENDING THE HARD STUFF ISN'T THERE.",
+      "author": "Project Unstoppable"
+    },
+    {
+      "id": "GK-D30-QUOTE",
+      "scope": "D30.INTRO",
+      "text": "LOOK BACK. NAME WHAT CHANGED. KEEP THE NEXT STEP SMALL.",
+      "author": "Project Unstoppable"
+    },
+    {
+      "id": "GK-D09-INTRO",
+      "scope": "D09.INTRO",
+      "text": "Multitasking often means switching attention back and forth, which can make both tasks messier. Pick one target, work on it, then take a break. That's the Ninja way."
+    },
+    {
+      "id": "GK-D09-XP",
+      "scope": "D09.BRIEFING",
+      "text": "Turn off non-essential notifications for 1 hour. Notice whether it feels easier to focus."
+    },
+    {
+      "id": "GK-D11-XP",
+      "scope": "D11.BRIEFING",
+      "text": "Check off one item from a list. Notice the small win."
+    },
+    {
+      "id": "GK-D07-CHEAT",
+      "scope": "D07.GLITCH_PUZZLE",
+      "text": "REST IS NOT A REWARD. IT’S A HARDWARE REQUIREMENT.",
+      "reason": "sharp useful brand line; puzzle itself remains blocked"
+    },
+    {
+      "id": "GK-D19-CHEAT",
+      "scope": "D19.GLITCH_PUZZLE",
+      "text": "A PLAN ISN'T A PRISON. IT’S A MAP TO FREEDOM.",
+      "reason": "clear, age-right, practical"
+    }
+  ],
+  "cross_surface_lock": {
+    "day": 10,
+    "book": "Tangram remains print mechanic until explicitly reopened",
+    "app": "Beat the Clock remains intentional app enhancement"
+  }
+}
