@@ -1,6 +1,6 @@
-# Polish Book Version 03 — Premium Upgrade Working Master
+# Polish Book Version 03 — Owner-Read Candidate
 
-Status: **PREMIUM_WORKING / V02 BASELINE PRESERVED / NOT CONTENT-FROZEN / NOT PRINT-READY**
+Status: **OWNER_READ_CANDIDATE / V02 BASELINE PRESERVED / NOT CONTENT-FROZEN / NOT PRINT-READY**
 
 Owner direction for Version 03:
 - preserve strong V02 copy; KEEP beats rewrite;
