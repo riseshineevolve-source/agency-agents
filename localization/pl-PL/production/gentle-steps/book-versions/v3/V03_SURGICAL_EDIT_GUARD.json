@@ -1,13 +1,13 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_COMMENT_PRECISION_SLICE",
+  "status": "CLOSED_COMMENT_PRECISION_SLICE_PASS",
   "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_TOOLBOX_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
     "D16.MIĘDZY NAMI",
     "D19.MIĘDZY NAMI"
   ],
-  "require_exact_changed_set": false,
+  "require_exact_changed_set": true,
   "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
@@ -20,5 +20,16 @@
     "D19 change must replace the arbitrary worst-socks example/comment with a logically fitting old-favorite-home-clothes example.",
     "No mechanics, safety, consent, title or recurring-label changes.",
     "After patch, actual changed segments must equal the allowlist."
-  ]
+  ],
+  "closed_working_master_blob_sha": "fe7a51b3fa25ff17524dee4e7ca6f0b4ed4f2859",
+  "closed_changed_segment_count": 2,
+  "closed_checks": {
+    "exact_changed_set_pass": true,
+    "changed_segments": [
+      "D16.MIĘDZY NAMI",
+      "D19.MIĘDZY NAMI"
+    ],
+    "unscoped_drift": 0,
+    "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f"
+  }
 }
