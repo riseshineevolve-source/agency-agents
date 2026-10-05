@@ -1,13 +1,14 @@
-# Puzzle Completeness Matrix — Current Master V7
+# Puzzle Completeness Matrix — Current Master V8
 
-Candidate master: `WORKING_MASTER_V7_D03_D04_PREMIUM.txt`
-Candidate blob: `34012afd7a66236846f33a003bac7a3043aed30b`
+Candidate master: `WORKING_MASTER_V8_D05_D07_PREMIUM.txt`
+Candidate blob: `d8bfc2234568372f398072952886cbf31c19fa45`
 
 Legend:
 - **PASS** = self-contained in text; answer/no-answer truth can be locked.
 - **FIX** = close to usable but needs a bounded content correction or answer truth.
 - **BLOCK-ASSET** = content depends on a missing diagram/grid/image.
 - **BLOCK-TEXT** = there is not enough problem data to solve it.
+- **ASSET-SPEC-READY** = puzzle truth/geometry is frozen; deterministic visual production is still required.
 - **REDESIGN** = current mechanic is weak/incompatible with premium B/W print.
 
 | Day | Puzzle | State | What is still needed |
@@ -16,9 +17,9 @@ Legend:
 | 2 | Binary Turn Code | PASS | Answer locked: South |
 | 3 | Emoji Decoder | PASS | Answers + reasonable synonyms locked in truth registry |
 | 4 | Friendship Logic | PASS | Unique mapping locked: Alex=Chess, Ben=Running, Casey=Painting, Dana=Coding |
-| 5 | Spot the Difference | BLOCK-ASSET | Two intentional shield images + exact 7-difference truth |
-| 6 | Code Breaker | FIX | Lock answer key for both multiple-choice items |
-| 7 | Unplugged Maze | BLOCK-ASSET | Actual maze with one valid route |
+| 5 | Spot the Difference | ASSET-SPEC-READY | Exact 7 single-property differences locked; render two deterministic shield assets |
+| 6 | Code Breaker | PASS | Answer key locked: B / B |
+| 7 | Unplugged Maze | ASSET-SPEC-READY | 7×7 perfect-maze geometry and unique solution path locked |
 | 8 | Memory Matrix | PASS | Self-scored memory activity; no answer key required |
 | 9 | Time Paradox | FIX | Lock answer/explanation: 5 minutes |
 | 10 | Tangram | BLOCK-ASSET | Provide exact five shapes + target square + solution |
