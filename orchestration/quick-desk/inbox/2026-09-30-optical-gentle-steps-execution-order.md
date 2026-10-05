@@ -1,6 +1,6 @@
 # Quick Desk Owner Decision Candidate
 
-Status: PENDING CENTRAL RECONCILIATION
+Status: RECONCILED
 Date: 2026-09-30
 Scope: Optical Animals + Gentle Steps + Interactive Book Factory ordering
 Source conversation: RSE Quick Desk
@@ -102,3 +102,9 @@ This intentionally supersedes the older sequencing assumption:
 World 01 -> World 02 -> Gentle Steps.
 
 It does NOT discard World 01/02 or the reusable factory. It changes near-term execution order because Gentle Steps has a seasonal commercial deadline.
+
+## Central reconciliation receipt — 2026-10-05
+
+Reconciled by Central on 2026-10-05 into `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md` under `Owner revenue-ASAP execution override — 2026-10-05`. Canonical effect: Optical closes through exact-identity mask/token -> five group seek-and-find pages -> GRAND -> answer proof -> KDP preflight; Gentle Steps APP is ahead of further World 01/02 enhancement work; delegated-lane one-writer rules remain in force.
+
+No delegated product branch/worktree was mutated by this reconciliation.
