@@ -1,0 +1,58 @@
+{
+  "book_version": "3",
+  "status": "OWNER_READ_CANDIDATE",
+  "route": "SAME_LANGUAGE_PREMIUM_UPGRADE",
+  "target_language": "pl-PL",
+  "base_version": "2",
+  "base_candidate_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
+  "base_candidate_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
+  "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
+  "owner_read_candidate_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_2026-10-05.md",
+  "candidate_blob_sha": "cbaea337fa49ec75ee95226dabed5a7503df5629",
+  "structure": {
+    "days": 24,
+    "zwolnij": 24,
+    "gramy": 24,
+    "miedzy_nami": 24,
+    "daily_sections": 72,
+    "na_jutro": 24
+  },
+  "game_system": {
+    "explicit_start": 24,
+    "explicit_two_person_variant": 24,
+    "primary_groups": {
+      "TEAM": 7,
+      "LAUGHTER": 5,
+      "WORD+IMPRO": 8,
+      "OTHER_BEST_OF": 4
+    }
+  },
+  "change_from_v2": {
+    "zwolnij_segments": 24,
+    "gramy_segments": 24,
+    "miedzy_nami_segments": 2,
+    "preamble_metadata": true,
+    "back_matter_changed": false
+  },
+  "frozen_v2_unchanged": true,
+  "closing_qa": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_MULTI_AGENT_CLOSING_QA_2026-10-05.md",
+  "density_watchlist_days": [
+    1,
+    7,
+    17,
+    18,
+    19,
+    23,
+    21,
+    22
+  ],
+  "owner_gates": [
+    "final Polish title",
+    "recurring labels only if reopened",
+    "owner full read"
+  ],
+  "content_approved": false,
+  "frozen_content": false,
+  "print_ready": false,
+  "release_authorized": false
+}
