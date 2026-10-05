@@ -2,7 +2,7 @@
   "format": "rse-gentle-steps-v03-manifest-v1",
   "date": "2026-10-05",
   "route": "SAME_LANGUAGE_PREMIUM_UPGRADE",
-  "status": "OWNER_READ_CANDIDATE_R2",
+  "status": "OWNER_READ_CANDIDATE_R3",
   "source_v2": {
     "path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
     "git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
@@ -13,9 +13,9 @@
     "git_blob_sha": "e6befddb4af6196e19658ee513ec116ecc16b492"
   },
   "owner_read_candidate": {
-    "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R2_2026-10-05.md",
-    "git_blob_sha": "e6befddb4af6196e19658ee513ec116ecc16b492",
-    "supersedes": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_2026-10-05.md"
+    "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R3_2026-10-05.md",
+    "git_blob_sha": "6889c69c04ff9c8f55db8da1f3177d88f6b86780",
+    "supersedes": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R2_2026-10-05.md"
   },
   "structure": {
     "days": 24,
@@ -45,7 +45,13 @@
     "game_system_audit": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_GAME_SYSTEM_AUDIT.md",
     "golden_keep": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_GOLDEN_KEEP_REGISTRY.md",
     "surgical_guard": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_SURGICAL_EDIT_GUARD.json",
-    "miedzy_nami_qa": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_MIEDZY_NAMI_QA_2026-10-05.md"
+    "miedzy_nami_qa": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_MIEDZY_NAMI_QA_2026-10-05.md",
+    "final_r3_handoff": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R3_FINAL_QA_HANDOFF_2026-10-05.md",
+    "final_24_day_matrix": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_FINAL_24_DAY_FAMILY_PLAYTEST_MATRIX_2026-10-05.md",
+    "editorial_material_block_count": 0,
+    "editorial_material_fix_count": 0,
+    "editorial_material_redesign_count": 0,
+    "reader_emdash_count": 0
   },
   "owner_gates": [
     "final Polish title",
@@ -69,5 +75,15 @@
       "D18.MIĘDZY NAMI",
       "D21.MIĘDZY NAMI"
     ]
+  },
+  "editorial_closing": {
+    "mega_audit": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_MEGA_FAMILY_EXPERIENCE_AUDIT_2026-10-05.md",
+    "concept_competition": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_D09_D24_CONCEPT_COMPETITION_2026-10-05.md",
+    "closing_fix_list": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_CLOSING_FIX_LIST_2026-10-05.md",
+    "d09_qa": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_D09_PLAN_B_QA_2026-10-05.md",
+    "d24_qa": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_D24_FINALE_QA_2026-10-05.md",
+    "week4_arc": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_WEEK4_ARC_REVIEW_2026-10-05.md",
+    "final_24_day_matrix": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_FINAL_24_DAY_FAMILY_PLAYTEST_MATRIX_2026-10-05.md",
+    "final_handoff": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R3_FINAL_QA_HANDOFF_2026-10-05.md"
   }
 }
