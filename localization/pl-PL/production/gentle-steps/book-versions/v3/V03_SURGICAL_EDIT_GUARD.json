@@ -1,6 +1,6 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_CLOSING_SIMPLE_FIXES_SLICE",
+  "status": "CLOSED_CLOSING_SIMPLE_FIXES_PASS",
   "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_PRE_CLOSING_FIXES_R2_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
@@ -10,10 +10,10 @@
     "D18.GRAMY",
     "BACK_MATTER"
   ],
-  "require_exact_changed_set": false,
+  "require_exact_changed_set": true,
   "protect_preamble": true,
   "protect_day_headers": true,
-  "protect_back_matter": false,
+  "protect_back_matter": true,
   "frozen_v2_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
   "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
   "rules": [
@@ -25,5 +25,18 @@
     "D18 must clarify time/space scaling without weakening safety locks.",
     "Back matter must align with D21 one-sound-less philosophy.",
     "After patch actual changed segments must equal the allowlist."
-  ]
+  ],
+  "closed_working_master_blob_sha": "97cb4e34782b6a6f7abad3ccd571f48ab7a0f22b",
+  "closed_changed_segment_count": 5,
+  "closed_checks": {
+    "exact_changed_set_pass": true,
+    "changed_segments": [
+      "D01.ZWOLNIJ",
+      "D05.GRAMY",
+      "D13.GRAMY",
+      "D18.GRAMY",
+      "BACK_MATTER"
+    ],
+    "unscoped_drift": 0
+  }
 }
