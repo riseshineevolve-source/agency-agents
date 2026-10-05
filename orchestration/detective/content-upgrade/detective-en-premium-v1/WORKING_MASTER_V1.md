@@ -1214,7 +1214,7 @@ The 08:07 record is removed from the science-fair file, and Mimi's breakfast esc
 # ACT 3 // THE BOOK REMEMBERS
 
 
-A few days into the investigation, your chair at the Case Table has somehow become your chair. Nobody discussed it. The next stack of files simply keeps landing beside you.
+A few days into the investigation, your chair at the Case Table has somehow become yours. Nobody discussed it. The next stack of files simply keeps landing beside you.
 
 
 And the solved cases stop feeling finished.
@@ -2352,7 +2352,7 @@ Then Mimi filed your verified Case 01 result.
 - **DILO:** That switched the old route from **waiting** to **watching the Academy case log**.
 - **ALIO:** Did it put the trophy back in the display case?
 - **EVERYONE:** No.
-- **ALIO:** Good. Checking.
+- **ALIO:** Good. Just checking.
 
 
 The system did not create the mysteries. It did not move trophies, switch labels, confuse witnesses, make footprints or stage fake cases.
