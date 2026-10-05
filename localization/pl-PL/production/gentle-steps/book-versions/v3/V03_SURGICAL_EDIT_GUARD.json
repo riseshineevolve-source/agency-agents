@@ -1,12 +1,12 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_D23_IMPRO_DEDUP_SLICE",
+  "status": "CLOSED_D23_IMPRO_DEDUP_SLICE_PASS",
   "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_D09_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
     "D23.GRAMY"
   ],
-  "require_exact_changed_set": false,
+  "require_exact_changed_set": true,
   "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
@@ -19,5 +19,15 @@
     "Avoid alibi/excuse framing immediately before D23 sincere-apology conversation.",
     "Replacement must be strong word/improv play, low-cringe, 3–6 minutes, explicit two-person version.",
     "After patch, actual changed segments must equal the allowlist."
-  ]
+  ],
+  "closed_working_master_blob_sha": "2ca174621b63325d87e318569a7a5fc91280fb8e",
+  "closed_changed_segment_count": 1,
+  "closed_checks": {
+    "exact_changed_set_pass": true,
+    "changed_segments": [
+      "D23.GRAMY"
+    ],
+    "unscoped_drift": 0,
+    "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f"
+  }
 }
