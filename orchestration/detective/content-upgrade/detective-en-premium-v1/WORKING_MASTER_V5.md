@@ -1636,11 +1636,21 @@ Milo is the cleanest fixed point in the departure record. The person sharing his
 ### CASE FILE // WHAT HAPPENED
 
 
-The backpack mix-up is fixed before the bus leaves. Two days later, Bibi returns from the archive carrying the flat box she found while chasing the open question on your Case Wall. The first thing Alio notices is the hat in the photograph. The second is that nobody recognizes the building.
+The backpacks are sorted before the bus leaves.
 
-Bibi recognizes the people. She is less certain about the date.
+Two days later, Bibi returns from the archive carrying a flat box she has not opened in years.
 
-That is exactly the kind of gap the Academy has taught you not to fill with confidence. Until the building and year are verified, the writing on the back of the photograph is memory - not evidence.
+She puts it on the Case Table and, for once, does not begin with a joke.
+
+Inside is a photograph of her childhood detective squad standing in front of a building nobody else recognizes.
+
+Alio notices the hat first.
+
+"Structurally courageous," he says.
+
+Bibi remembers the people. She is much less certain about the date, and the writing on the back is too important to trust to memory.
+
+So before anyone turns the photograph over, the team has to prove **where it was taken and when.**
 
 
 ### YOUR OBJECTIVE
@@ -1716,9 +1726,19 @@ Nothing more. Do not complete the sentence from imagination.
 ### CASE FILE // WHAT HAPPENED
 
 
-**RULE 0 FIRST** is now sitting on the Case Wall, refusing to explain itself. Bibi finally has a direction: the next archive trail leads to the Old Academy Annex. The easiest way there is by train.
+The photograph gives you a building, a year and - only after the evidence is settled - one unfinished line on the back:
 
-At Riverside Station, the squad barely makes it past the ticket hall before a staff member recognizes them and asks for help. A special open-day ticket changed hands even though nobody reported losing it. Reed is the last person the station record can place before the handoff disappears.
+**RULE 0 FIRST**
+
+Bibi stares at it longer than she likes.
+
+The old Academy records connected to the photograph lead to the Old Academy Annex, so the squad heads for Riverside Station.
+
+They barely make it through the ticket hall before a staff member waves them over.
+
+A special open-day ticket has changed hands even though nobody reported losing it.
+
+Reed is the last person the station record places before the handoff disappears. Whoever shared Reed's mapped area is the best witness to **where the ticket went next - and whether it was passed deliberately or simply picked up by mistake.**
 
 
 ### YOUR OBJECTIVE
@@ -1770,9 +1790,25 @@ At Riverside Station, the squad barely makes it past the ticket hall before a st
 ### CASE FILE // WHAT HAPPENED
 
 
-The ticket handoff now has a person attached to it. The timeline is another matter.
+The ticket handoff now has a witness.
 
-The cafe clock is seven minutes slow. Dilo's watch is two minutes fast. The station camera shows real time. Three clocks, three versions of "now." Until every record speaks the same clock, nobody can tell whether the sequence is suspicious - or whether **0:07** is just arithmetic wearing a dramatic coat.
+The timeline has three clocks and no agreement.
+
+The cafe clock is seven minutes slow.
+
+Dilo's watch is two minutes fast.
+
+The station camera shows real time.
+
+At first glance, one gap looks especially interesting: **0:07**.
+
+Dilo notices it immediately.
+
+Luli notices Dilo noticing it.
+
+Before anybody adds another mysterious zero to the Case Wall, every timestamp has to be translated into the same clock. If the pattern survives the arithmetic, it matters.
+
+If it does not, it goes in the bin.
 
 
 ### YOUR OBJECTIVE
@@ -1823,13 +1859,21 @@ The cafe clock is seven minutes slow. Dilo's watch is two minutes fast. The stat
 ### CASE FILE // WHAT HAPPENED
 
 
-Once the clocks stop arguing, the squad reaches the Old Academy Annex, copies the records Bibi needs and heads back. Luli takes the new material straight to the Media Library to compare it with the current archive database.
+The seven-minute "clue" does not survive the arithmetic.
 
-The librarian meets her at the door with a sentence that should not be possible:
+For once, a suspicious **0** is just a clock problem.
+
+The squad reaches the Old Academy Annex, copies the records Bibi needs and heads back with fewer theories than it arrived with.
+
+Luli takes the new material straight to the Media Library to compare it with the current archive database.
+
+The librarian meets her at the door.
 
 "The book checked itself out."
 
-The rare book in question is still sitting on its shelf. Sasha is the one name fixed on the scanner log. Her area is the last place where the digital record and a human witness still overlap.
+The rare book is still sitting on its shelf.
+
+Sasha is the one name fixed on the scanner log. The person sharing Sasha's mapped area is the only witness positioned to clarify **whether anyone actually used the scanner, bumped it, tested it, or saw the false checkout appear.**
 
 
 ### YOUR OBJECTIVE
@@ -1881,11 +1925,17 @@ The rare book in question is still sitting on its shelf. Sasha is the one name f
 ### CASE FILE // WHAT HAPPENED
 
 
-The "self-checkout" loses its ghost privileges and drops back to what it actually is: a scanner problem with a human witness attached. Leaving the library, the team passes the Flight Simulation Wing, where the night crew is repainting modular cockpit panels.
+The "self-checkout" loses its ghost privileges and drops back to what it actually is: a scanner problem with a real person who can help explain it.
 
-One panel moved before its paint dried.
+Leaving the library, the team passes the Flight Simulation Wing. The night crew is repainting modular cockpit panels, and one of them has moved before the paint dried.
 
-Now the smear makes two later accounts look as if they cannot both be true. Demi's movement log is the last clean checkpoint before the stories split. Her room is where the timing can still be tied to a second person. This time, Mimi keeps the complete map in the file.
+The smear makes two later accounts look as if they cannot both be true.
+
+Demi's movement log is the last clean checkpoint before the stories split. The person sharing her room is the only witness who can help pin down **when the wet panel moved and which account belongs before or after that move.**
+
+Mimi keeps the entire solved placement this time.
+
+No one asks why.
 
 
 ### YOUR OBJECTIVE
@@ -1937,13 +1987,29 @@ Now the smear makes two later accounts look as if they cannot both be true. Demi
 ### CASE FILE // WHAT HAPPENED
 
 
-Late that evening, after the Academy goes quiet, the intake printer gives the same mechanical cough it made on your first day.
+Late that evening, the Academy finally goes quiet.
 
-Every head turns.
+Then the intake printer gives one mechanical cough.
 
-This time it spits out one brittle handwritten note. Dilo reaches for it. The paper tears into four pieces. Even Dilo stops moving.
+The same cough it made on your first day.
 
-For the first time, the larger mystery may be trying to say something directly - but the message is now scattered across the evidence mat.
+Every head at the Case Table turns.
+
+A strip of brittle paper slides from the tray.
+
+Not a case file.
+
+A handwritten note.
+
+Dilo reaches for it too quickly.
+
+The paper tears into four pieces.
+
+Nobody laughs.
+
+For the first time, the larger mystery may be trying to say something directly.
+
+And now its message is lying in four scraps across the evidence mat.
 
 
 ### YOUR OBJECTIVE
