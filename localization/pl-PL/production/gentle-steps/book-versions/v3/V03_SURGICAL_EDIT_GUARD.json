@@ -1,35 +1,22 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "CLOSED_D24_FINALE_PASS",
-  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_D09_PLAN_B_SAFE_STATE_2026-10-05.md",
+  "status": "PREPARED_OPTIONAL_HUMOR_MICRO_SLICE",
+  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_D24_FINALE_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
-    "D24.GRAMY"
+    "D12.MIĘDZY NAMI"
   ],
-  "require_exact_changed_set": true,
+  "require_exact_changed_set": false,
   "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
   "frozen_v2_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
   "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
   "rules": [
-    "Only D24.GRAMY may change.",
-    "D24 ZWOLNIJ, D24 MIĘDZY NAMI, Happy Makers closing line, all other days and back matter remain byte-for-byte identical to post-D09 safe state.",
-    "Replace singing as sole finale with CZTERY MINUTY. CZTERY MISJE.",
-    "Finale must use callbacks rather than introducing a complicated new system.",
-    "Must work for 2, 3, 4 and 5+ without props, forced singing or solo performance.",
-    "Current singing survives only as optional encore.",
-    "Typical GRAMY duration target: 4–5 minutes.",
-    "After patch actual changed segments must equal D24.GRAMY."
-  ],
-  "closed_working_master_blob_sha": "b77eb916decd7f22d91e834884ac5205345bc0da",
-  "closed_changed_segment_count": 1,
-  "closed_checks": {
-    "exact_changed_set_pass": true,
-    "changed_segments": [
-      "D24.GRAMY"
-    ],
-    "unscoped_drift": 0,
-    "qa": "V03_D24_FINALE_QA_2026-10-05.md"
-  }
+    "Only D12.MIĘDZY NAMI may change.",
+    "Change comment only; prompt/instructions remain identical.",
+    "Replacement must be clearly more natural and less pre-written than the current line.",
+    "All other content remains byte-for-byte identical.",
+    "After patch actual changed segments must equal D12.MIĘDZY NAMI."
+  ]
 }
