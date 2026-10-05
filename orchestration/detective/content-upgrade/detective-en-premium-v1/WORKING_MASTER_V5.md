@@ -2094,9 +2094,19 @@ So the squad does what good detectives do when the big clue refuses to explain i
 ### CASE FILE // WHAT HAPPENED
 
 
-The sentence from the torn note has spent the night on the Case Wall being completely unhelpful: **THE ANSWER IS IN WHAT YOU LEAVE EMPTY.** There is still no obvious place to use it.
+The rebuilt note leaves one sentence on the Case Wall:
 
-The next morning, the Academy Sound Lab brings a real case that does have somewhere to start. Three nearly identical instrument cases were returned to the wrong shelves after rehearsal. Zara is the one reliable placement before the mix-up. Her Rehearsal Room is the last clean snapshot of who was beside her before the cases moved. Mimi files the completed map with the others. Nobody calls that "extra" work anymore.
+**THE ANSWER IS IN WHAT YOU LEAVE EMPTY.**
+
+Nobody knows what to do with it.
+
+That is irritating.
+
+The next morning, the Academy Sound Lab brings a problem that is at least willing to behave like a normal case. Three nearly identical instrument cases have been returned to the wrong shelves after rehearsal.
+
+Zara is the last reliable placement before the mix-up. The person sharing her Rehearsal Room is the only witness who can help establish **which cases were still in the room before the shelves changed.**
+
+When you finish, Mimi files the full map with the others instead of reducing it to one answer.
 
 
 ### YOUR OBJECTIVE
@@ -2147,9 +2157,17 @@ The next morning, the Academy Sound Lab brings a real case that does have somewh
 ### CASE FILE // WHAT HAPPENED
 
 
-Another solved map joins the stack.
+Another completed map joins the stack beside Nini.
 
-That weekend, the Academy runs a field-observation challenge at the nearby Adventure Park. Halfway through the day, two access wristbands switch owners: one opens the climbing zone, the other the arcade. The return desk can see where both bands ended up, but not where the routes split. Jude is the last point where the log still has both a person and a location. After that, the trail forks.
+The strange sentence still refuses to explain itself.
+
+That weekend, the Academy runs a field-observation challenge at the nearby Adventure Park. Halfway through the day, two access wristbands switch owners: one opens the climbing zone, the other the arcade.
+
+The return desk knows where both bands ended up.
+
+It does not know where the routes crossed.
+
+Jude is the last point where the log still has both a person and a location. The person sharing Jude's area is the only witness positioned to **confirm the handoff point before the two wristband trails separate.**
 
 
 ### YOUR OBJECTIVE
@@ -2200,11 +2218,23 @@ That weekend, the Academy runs a field-observation challenge at the nearby Adven
 ### CASE FILE // WHAT HAPPENED
 
 
-The wristband desk now has a witness to finish the handoff. On the walk back from the park, Alio stops at the edge of the Academy's outdoor tracking yard.
+The wristband trail finally has a clean handoff.
+
+On the walk back from the park, Alio stops so suddenly that Dilo nearly walks into him.
 
 "Backwards footprints."
 
-Dilo notices that one tread element resembles the shoeprint difference from the old Look-Twice photographs. Luli refuses to let "resembles" quietly turn into "is." Similar is a clue, not an identity. The only thing that actually changes from print to print is the mud transfer. The loudest-looking clue may be the least useful one.
+A line of muddy prints crosses the Academy's outdoor tracking yard. One tread element even resembles the shoeprint difference from the old Look-Twice file.
+
+Dilo likes that coincidence.
+
+Luli does not dislike it. She simply refuses to promote **resembles** into **is**.
+
+There is one piece of evidence the footprints themselves are changing from step to step: the amount of mud.
+
+The arrow on the tread is loud.
+
+The mud is useful.
 
 
 ### YOUR OBJECTIVE
@@ -2254,9 +2284,17 @@ Dilo notices that one tread element resembles the shoeprint difference from the 
 ### CASE FILE // WHAT HAPPENED
 
 
-The mud trail ends at the West Gate, and the dramatic backwards-walker theory ends with it. By the time the squad reaches the Academy Guest House, reception has a different problem ready.
+The footprints end at the West Gate with no backwards walker - only proof that the obvious arrow was never evidence of direction.
 
-A nameless parcel has been passed from one helpful person to another until nobody knows where it started or where it was meant to go. The return label says **ARCHIVE RESTORATION**. The addressee line is blank. Nori is the last traceable step in the routing record, and the Lobby still contains one human link to the previous handoff.
+By the time the squad reaches the Academy Guest House, reception has a new problem waiting.
+
+A parcel with no addressee has been passed from one helpful person to another until nobody knows where it started or where it was meant to go.
+
+The return label says **ARCHIVE RESTORATION**.
+
+The name line is blank.
+
+Nori is the last traceable step in the routing record. The person sharing Nori's Lobby is the only witness who can help reconstruct **who handed over the parcel immediately before the trail disappeared.**
 
 
 ### YOUR OBJECTIVE
