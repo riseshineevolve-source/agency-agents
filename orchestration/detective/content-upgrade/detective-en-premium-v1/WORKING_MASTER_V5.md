@@ -107,12 +107,14 @@ A coincidence?
 
 ## BEFORE YOU DECIDE
 
-The Detective Academy is where small real-world mysteries become case files.
+The Detective Academy does not begin with suspects. It begins with something that does not quite fit.
 
-New calls, reopened records, and strange pieces of evidence arrive through the Academy intake desk.
+A strange record. A missing detail. Two stories that cannot both be right.
+
+Your job is to look closer before anyone decides what happened.
 
 **Take a look inside.  
-This is how it all begins.**
+This is how the Academy works.**
 
 ## WHAT TO EXPECT
 
@@ -145,9 +147,9 @@ Witness-board mysteries, map and coordinate puzzles, visual evidence, secret cod
 
 ## A TEAM THAT THINKS TOGETHER
 
-**The Happy Makers will be your team.**
+**The Happy Makers will be the team at your side.**
 
-They compare clues, trade theories, drop case notes, make jokes at extremely professional moments and point out things worth checking.
+They compare clues, argue with their own best theories, leave case notes everywhere, make jokes at extremely professional moments and notice different things - which is useful, because no one sees everything.
 
 ## YOU MAKE THE CALL
 
@@ -157,11 +159,13 @@ The cases get harder as your investigation grows.
 
 ## STRANGER THINGS HAPPEN
 
-A trophy returns before anyone logs it.
+A trophy comes back before anyone records the return.
 
-A box marked **EVIDENCE** lands where it should not.
+A box marked **EVIDENCE** turns up where it should not.
 
-Later, solved maps and forgotten records begin to matter again.
+An old Academy system starts touching cases it should not even know about.
+
+Later, things you solved and filed away begin to matter again.
 
 ## WHAT IS ROOM ZERO?
 
@@ -181,7 +185,7 @@ And somewhere inside the Academy, one question keeps returning:
 
 ### WHO THEY ARE
 
-Six detectives.
+Five field detectives. One archive mentor.
 
 Six different ways of looking at the same mess.
 
@@ -189,11 +193,11 @@ They compare clues, challenge each other's theories and keep asking questions un
 
 ### HOW THEY WORK
 
-Clues first.  
+Facts first.  
 Theories second.  
 Arguments occasionally.
 
-Then they test what actually fits and quietly retire the theory that sounded brilliant five minutes ago.
+Then they test what actually fits - and quietly retire the theory that sounded brilliant five minutes ago.
 
 ### WHY A TEAM?
 
@@ -367,17 +371,17 @@ The credential gets you into the investigation.
 
 Read the story first. It tells you where the case came from, what happened, and why this deduction matters.
 
-## 2 // YOUR OBJECTIVE
+## 2 // YOUR OBJECTIVE + RULES
 
-One exact thing to prove, find, sort, decode or reconstruct.
+One exact thing to prove, find, sort, decode or reconstruct - plus the case-specific rules you need to do it fairly.
 
 ## 3 // EVIDENCE
 
-Witness boards, maps, photographs, records, codes, timelines, scraps and strange Academy files.
+Witness boards, maps, photographs, records, codes, timelines, scraps and strange Academy files. This is where the case stops being a story and becomes something you can test.
 
 ## 4 // HAPPY MAKERS CHAT
 
-The squad thinks out loud, jokes, questions theories and helps you notice what deserves attention.
+The squad thinks out loud, challenges theories, jokes when the timing is terrible and points out what might deserve a second look.
 
 ## 5 // MAKE THE CALL
 
@@ -451,12 +455,12 @@ Use the items on your Case Wall to spot connections and answer the big questions
 
 ## HAPPY MAKERS CHAT
 
-- **DILO:** So we just copy stuff to the wall? Easy!
-- **LULI:** Yes! But the right stuff. Wrong clues = confused detectives.
-- **ALIO:** The Case Wall helps us see the big picture. Clues make more sense together!
-- **NINI:** It's like a puzzle! The messier it looks at first, the more fun it is to solve.
-- **BIBI:** Details matter! One small clue can change everything.
-- **MIMI:** A detective without key notes in one place is like solving a case with 37 tabs open and 2% battery. Bold, chaotic, doomed.
+- **DILO:** So the Case Wall is where the important stuff survives.
+- **LULI:** The important stuff. Not everything you have ever noticed.
+- **ALIO:** I was about to save three excellent theories.
+- **BIBI:** Save evidence. Theories can earn shelf space later.
+- **NINI:** That is the useful part. Something small now can become obvious much later.
+- **MIMI:** Also, one wall beats thirty-seven open tabs and two percent battery. Ask me how I know.
 
 ## HINT VAULT + SOLUTION FILES
 
@@ -551,9 +555,9 @@ Copy here only the items the book explicitly tells you to keep. Write clearly. K
 
 **THE FILES ARE REAL.  
 THE TEAM IS READY.  
-BUT SOMETHING DOESN'T FIT.**
+AND SOMETHING ALREADY DOESN'T FIT.**
 
-**IT'S TIME TO LOOK CLOSER.**
+**YOUR FIRST CALL STARTS NOW.**
 
 ---
 
