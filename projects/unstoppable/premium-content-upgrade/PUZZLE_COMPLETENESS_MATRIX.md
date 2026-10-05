@@ -1,7 +1,7 @@
-# Puzzle Completeness Matrix — Current Master V12
+# Puzzle Completeness Matrix — Current Master V20
 
-Candidate master: `WORKING_MASTER_V12_VISUAL_PUZZLE_SPECS_D.txt`
-Candidate blob: `e7c37c6dca82f03339311f8f181426acc0e07873`
+Candidate master: `WORKING_MASTER_V20_PRE_OWNER_FINAL.txt`
+Candidate blob: `a90b6c58d45ff0918b385c6569479fa02aade76f`
 
 Legend:
 - **PASS** = self-contained in text; answer/no-answer truth can be locked.
@@ -47,10 +47,13 @@ Legend:
 
 ## Board conclusion
 
-The puzzle slot is the largest remaining **content-system BLOCK**. It is not a renderer problem. The Book Factory must not invent missing puzzle truth later.
+**CONTENT PUZZLE GATE: PASS.**
 
-Recommended execution order:
-1. close text-only puzzles first (Days 3, 4, 6, 9, 11, 15, 16, 19, 22, 25, 26, 27, 28, 29, 30, 31);
-2. freeze answer truth;
-3. then hand exact asset specs to Book Factory for visual puzzles (Days 5, 7, 10, 12, 14, 17, 18, 20, 21, 23, 24);
-4. validate all assets against the frozen truth registry.
+All 31 puzzle slots now have one of:
+- complete reader-facing text + locked answer truth;
+- a self-scored mechanic with an explicit completion condition;
+- deterministic geometry/asset specifications with frozen solution truth.
+
+There are no remaining puzzle-content placeholders and no renderer is authorized to invent puzzle logic later.
+
+Production still needs to render the visual-spec puzzles from the frozen registry and validate the resulting assets against those specs. That is a Book Factory / production dependency, not a content BLOCK.
