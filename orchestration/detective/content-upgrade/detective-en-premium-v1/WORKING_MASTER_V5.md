@@ -668,13 +668,27 @@ Named areas:
 ### CASE FILE // WHAT HAPPENED
 
 
-Your first placement gives Mimi exactly one useful person to contact. Their reply is short: no courier came through Intake. The printer simply released the black envelope.
+That morning, Mimi crosses Trophy Hall with coffee in one hand and the other buried in her bag, looking for the phone she was holding five minutes ago.
 
-Before anyone can chase the mysterious **0**, Trophy Hall calls.
+She notices one thing without stopping: the Founders' Cup is missing from its display case.
 
-The Founders' Cup is back in its display case - but nobody logged returning it. Max signed it out for a Hall demonstration, and his return form is still blank. The Hall record ends at Max's last verified position.
+That part is normal. Max signed it out for a Hall demonstration.
 
-Only one other person shared Max's room during the undocumented return window. That person is not automatically responsible. They are the **only witness in the right place to clarify the missing handoff** - whether Max passed the Cup on, someone else brought it back, or it was already there before the paperwork caught up.
+A few hours later, Dilo passes the same case and mentions that the Cup is back - polished, centered and apparently having a much more organized day than the rest of them.
+
+Mimi stops.
+
+"Back?"
+
+Bibi checks the return sheet.
+
+Blank.
+
+No return time. No signature. No handoff.
+
+The Hall's last reliable position record still shows Max during the demonstration window. Exactly one other person shared his room. That person is not a suspect. They are the only witness who can answer the question the paperwork cannot:
+
+**Was the Cup already back when they were with Max - or did it return later, after the record went dark?**
 
 
 ### YOUR OBJECTIVE
@@ -725,17 +739,25 @@ Only one other person shared Max's room during the undocumented return window. T
 ### CASE FILE // WHAT HAPPENED
 
 
-The Trophy Hall witness cannot tell the team who returned the Cup.
+The person you identified gives Trophy Hall one useful fact:
 
-They can tell Luli something stranger: **the Cup was already back in the display case when they noticed it.**
+When they noticed the display case, **the Cup was already back inside it.**
 
-Then they point to two image files attached to the same record. Both are labeled as copies of one evidence photograph.
+That narrows the unexplained return window - but it does not tell anyone who brought the Cup back.
 
-Same file. Same scene. Supposedly identical.
+Trophy Hall pulls the reference images attached to the same checkpoint record.
+
+Two files.
+
+Both labeled as copies of one evidence photograph.
+
+Same scene. Same moment. Supposedly identical.
 
 They are not.
 
-Before anyone builds a theory on the wrong image, Luli wants a complete mismatch list - every difference, once, with nothing invented.
+Luli puts them side by side and pulls her chair closer.
+
+"Before we trust either one," she says, "we find every difference."
 
 
 ### YOUR OBJECTIVE
@@ -1252,15 +1274,29 @@ Bibi takes the question - and the form - into the archive.
 ### CASE FILE // WHAT HAPPENED
 
 
-With Bibi in the archive chasing the old **0**, the rest of the team has one instruction:
+Bibi disappears into the archive with the true **0** samples and leaves the rest of the team with one instruction:
 
 "Records, not guesses."
 
-The Academy Science & Prototype Fair makes that difficult almost immediately.
+Ten minutes later, the Academy Science & Prototype Fair sends over a problem that looks almost designed to test her patience.
 
-A Tech Lab mentor arrives at the Case Table with two team checklists and one silver training rover. Both teams say the prototype is theirs. Both records look plausible. The access log does not.
+A Tech Lab mentor rolls a silver training rover up to the Case Table.
 
-Dash is the last person the system places with certainty. The one person who shared his area is the only witness positioned to clarify **who had access to the rover during the point where one ownership record became two.**
+Behind it come two students.
+
+Both are carrying ownership sheets.
+
+Both sheets list the same rover.
+
+Both teams are certain the other one has made a mistake.
+
+Dilo crouches beside the rover.
+
+"At least the robot seems calm."
+
+The access log is less helpful.
+
+Dash is the last person it places with certainty. Whoever shared his prototype area is the only witness who can say **who actually had access during the point where one rover became two records.**
 
 
 ### YOUR OBJECTIVE
@@ -1451,17 +1487,25 @@ Old photographs, saved maps and records that looked ordinary at first begin to m
 ### CASE FILE // WHAT HAPPENED
 
 
-The parrot mystery closes with an ordinary answer: the phrase came from a rehearsal cue repeated within earshot.
+The parrot mystery closes with the least sinister answer available: the four-word phrase came from an ordinary rehearsal cue.
 
-That same afternoon, a ranger from the Academy Field Research Wing walks in carrying a camera-maintenance sheet and a blurry frame stamped **4:17**.
+That same afternoon, a ranger from the Academy Field Research Wing arrives holding a camera by its strap.
 
-The camera was later found in a different position from the one recorded on the sheet.
+"Please tell me cameras don't move themselves here."
 
-Remy signed the maintenance record. Whoever shared his room during the relevant window is the only witness who can help establish **whether the camera moved before the 4:17 image, after it, or during the maintenance handoff.**
+Dilo considers the question.
 
-Alio has already mentioned a fox with pockets.
+Luli answers first.
 
-Nobody writes that down.
+At **4:17**, the camera captured a blurry frame. Later, it was found in a different position from the one marked on the maintenance sheet.
+
+Remy signed that sheet.
+
+If the camera moved during the maintenance window, someone sharing Remy's room is the only witness positioned to help place the move **before the photo, after it, or during the handoff.**
+
+Alio quietly writes "fox with pockets" on a scrap of paper.
+
+Nini turns the scrap over.
 
 
 ### YOUR OBJECTIVE
@@ -1574,17 +1618,23 @@ It is to prove which memory cannot work **before** anybody mistakes confidence f
 ### CASE FILE // WHAT HAPPENED
 
 
-The impossible journey turns out to be exactly what Luli expected: a timing mistake, not a villain.
+The impossible rehearsal journey turns out to be a bad memory, not a bad person.
 
-Before sunrise the next day, the squad is loading gear for an Academy field-skills trip when two nearly identical backpacks change owners in a burst of everybody-helping-everybody-at-once.
+Before sunrise the next day, the team is loading gear for an Academy field-skills trip.
 
-Nothing has been stolen.
+It is going well for almost forty seconds.
 
-Nobody is plotting anything.
+Then two nearly identical backpacks end up with the wrong people.
 
-The bus is still leaving on time.
+Someone moved one to "help." Someone else moved the other to "fix" that. A third person is now completely sure the blue zip means something important.
 
-Milo is the cleanest fixed point in the departure record. The person sharing his room is the earliest witness who can say **which backpack was beside him before the handoff chain began to blur.**
+The bus driver starts the engine.
+
+Milo is the cleanest fixed point in the departure record. Whoever shared his room is the earliest witness who can say **which backpack was beside him before helpfulness became a chain reaction.**
+
+Mimi looks at the bus.
+
+"Fast case."
 
 
 ### YOUR OBJECTIVE
@@ -1634,21 +1684,27 @@ Milo is the cleanest fixed point in the departure record. The person sharing his
 ### CASE FILE // WHAT HAPPENED
 
 
-The backpacks are sorted before the bus leaves.
+The backpacks are sorted before the bus pulls away.
 
-Two days later, Bibi returns from the archive carrying a flat box she has not opened in years.
+Two days later, Bibi returns from the archive carrying a flat box under one arm.
 
-She puts it on the Case Table and, for once, does not begin with a joke.
+She does not put it in the incoming tray.
 
-Inside is a photograph of her childhood detective squad standing in front of a building nobody else recognizes.
+She puts it directly in front of you.
+
+Inside is a photograph of six children outside an Academy building nobody on the current team recognizes.
+
+One of the children is Bibi.
 
 Alio notices the hat first.
 
-"Structurally courageous," he says.
+"That is not a hat. That is architecture."
 
-Bibi remembers the people. She is much less certain about the date, and the writing on the back is too important to trust to memory.
+Bibi gives him a look that suggests the architecture may be discussed later.
 
-So before anyone turns the photograph over, the team has to prove **where it was taken and when.**
+She remembers the people in the photograph. She is less sure about the year. And on the back is handwriting she recognizes as her own - but memory is exactly what Case 14 taught you not to treat as proof.
+
+Before anyone reads the old note as evidence, the team has to establish **where the photograph was taken and when.**
 
 
 ### YOUR OBJECTIVE
@@ -1724,17 +1780,31 @@ Nothing more. Do not complete the sentence from imagination.
 ### CASE FILE // WHAT HAPPENED
 
 
-The line you just copied to the Case Wall refuses to explain itself.
+The photograph is finally pinned down: the Old Academy Annex, years before the current Academy took shape.
 
-Bibi stares at it longer than she likes.
+Only then does Bibi let the line on the back into the case:
 
-The old Academy records connected to the photograph lead to the Old Academy Annex, so the squad heads for Riverside Station.
+**RULE 0 FIRST**
 
-They barely make it through the ticket hall before a staff member waves them over.
+She remembers writing it.
 
-A special open-day ticket has changed hands even though nobody reported losing it.
+She does not remember what it meant.
 
-Reed is the last person the station record places before the handoff disappears. Whoever shared Reed's mapped area is the best witness to **where the ticket went next - and whether it was passed deliberately or simply picked up by mistake.**
+The Annex records are the next place to look, so the squad heads for Riverside Station.
+
+They do not make it past the ticket hall.
+
+A station staff member spots the Academy folders and waves them over.
+
+"You're detectives, right?"
+
+Mimi glances at your Recruit Credential.
+
+"Working on it."
+
+A special open-day ticket has changed hands even though nobody reported losing it. Reed is the last person the station record places before the handoff disappears.
+
+Whoever shared Reed's mapped area is the best witness to **where the ticket went next - and whether anyone actually meant to pass it on.**
 
 
 ### YOUR OBJECTIVE
@@ -2151,17 +2221,31 @@ When you finish, Mimi files the full map with the others instead of reducing it 
 ### CASE FILE // WHAT HAPPENED
 
 
-Another completed map joins the stack beside Nini.
+Another solved map joins the stack beside Nini.
 
-The strange sentence still refuses to explain itself.
+The Room Zero message still refuses to explain what "empty" is supposed to mean.
 
-That weekend, the Academy runs a field-observation challenge at the nearby Adventure Park. Halfway through the day, two access wristbands switch owners: one opens the climbing zone, the other the arcade.
+That weekend, the Academy takes the team to a nearby Adventure Park for a field-observation challenge.
 
-The return desk knows where both bands ended up.
+For once, nobody is chasing an old archive system.
 
-It does not know where the routes crossed.
+Then two access wristbands switch owners.
 
-Jude is the last point where the log still has both a person and a location. The person sharing Jude's area is the only witness positioned to **confirm the handoff point before the two wristband trails separate.**
+One opens the climbing zone.
+
+One opens the arcade.
+
+The return desk knows where both wristbands ended up. It cannot tell where the two routes crossed.
+
+Jude is the last point where the log still has both a person and a location. Whoever shared Jude's area is the only witness who can **anchor the handoff before the trails split in two different directions.**
+
+Dilo checks the arcade scoreboard.
+
+"Unrelated," Luli says.
+
+"I haven't said anything."
+
+"You were about to."
 
 
 ### YOUR OBJECTIVE
@@ -2278,17 +2362,27 @@ The mud is useful.
 ### CASE FILE // WHAT HAPPENED
 
 
-The footprints end at the West Gate with no backwards walker - only proof that the obvious arrow was never evidence of direction.
+The muddy trail ends at the West Gate with no backwards walker and one useful reminder: the loudest-looking clue is not always the one that matters.
 
-By the time the squad reaches the Academy Guest House, reception has a new problem waiting.
+At the Academy Guest House, reception has a different kind of trail.
 
-A parcel with no addressee has been passed from one helpful person to another until nobody knows where it started or where it was meant to go.
+A parcel.
 
-The return label says **ARCHIVE RESTORATION**.
+No addressee.
 
-The name line is blank.
+A return label that reads **ARCHIVE RESTORATION**.
 
-Nori is the last traceable step in the routing record. The person sharing Nori's Lobby is the only witness who can help reconstruct **who handed over the parcel immediately before the trail disappeared.**
+And a routing history made almost entirely of people saying, "I thought I was helping."
+
+The parcel has been passed from one person to another until nobody can say where the chain began.
+
+Nori is the last traceable step.
+
+The person sharing Nori's Lobby is the only witness who can reconstruct **who handed over the parcel immediately before the routing record disappeared.**
+
+Bibi reads the return label twice.
+
+This time, she does not say what she is thinking.
 
 
 ### YOUR OBJECTIVE
@@ -2591,23 +2685,35 @@ You will need its missing word in the final case.
 ### CASE FILE // WHAT HAPPENED
 
 
-Rule Zero is restored:
+Rule Zero is complete:
 
 **ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.**
 
-The wall does absolutely nothing.
+Alio looks at the sealed wall.
 
-Dilo studies it.
+The wall remains impressively sealed.
+
+Dilo waits.
+
+Nothing.
 
 "Rude," he says. "But methodologically consistent."
 
-Rule Zero was never a magic password. It tells the team what to do next: stop guessing.
+Rule Zero was never a password.
 
-Mimi requests the old service-level access record for the exact section behind the Archive.
+It is an instruction.
 
-The file that comes back contains the largest position map in the book.
+So instead of guessing at the panel, Mimi requests the old service-level access record for the exact section behind the Archive.
 
-Seth is the one placement the old record treats as certain. The map is the only record precise enough to identify **who shares Seth's area and the coordinate attached to that placement** - the location answer the sealed panel is waiting for.
+What comes back is the largest position map in the book.
+
+The room is crowded with old workstations, blocked routes and one placement the record treats as certain: Seth.
+
+The system panel needs a coordinate.
+
+The service map is the only surviving record precise enough to produce one.
+
+To get it, you first have to solve **who shares Seth's area** - because that second placement is tied to the access coordinate the panel is waiting for.
 
 
 ### YOUR OBJECTIVE
