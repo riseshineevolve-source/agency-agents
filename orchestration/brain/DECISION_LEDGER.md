@@ -14,6 +14,9 @@ This file records decisions that must not disappear when chats become inaccessib
 - [CURRENT] Marketing remains a separate execution workstream. Mind Bloom and Senior / Hello Today are under central execution so Codex/Work usage can be governed from one orchestrator.
 - [LOCKED] Wave 2 and Gifts remain deferred unless explicitly promoted.
 - [LOCKED] Do not spend Codex budget on status summaries or work deterministic tools can do.
+- [LOCKED] Q4 growth execution is governed by `orchestration/strategy/RSE_GROWTH_OPERATING_SYSTEM_2026_Q4.md`: **REVENUE ASAP / FINISH -> PUBLISH -> SELL -> LEARN -> SCALE**. Release closure wins; bounded growth work advances only when higher-priority release work is at a real owner/external gate.
+- [LOCKED] New vendor/tool/agent adoption must pass the Growth Operating System adoption gate. Extend existing RSE capability before adding duplicate managed-agent, analytics, DM or creative stacks.
+- [LOCKED] One-writer-per-surface remains mandatory across release and growth lanes; owner retains irreversible commercial, visual, legal, spend, freeze, deploy and publication gates.
 
 ## Brand
 
