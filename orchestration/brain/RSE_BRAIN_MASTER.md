@@ -71,6 +71,12 @@ Frozen/non-active commercial lane: **Mind Bloom Private V1** — source release 
 
 Operational sequence: **Detective EN KDP -> Detective PL KDP -> Optical Animals gift lane -> Gentle Steps seasonal lane -> Google Play acceleration when external gates clear.**
 
+## Growth Operating System — Q4 2026
+
+Owner-approved cross-role strategy: `orchestration/strategy/RSE_GROWTH_OPERATING_SYSTEM_2026_Q4.md`.
+
+Operating doctrine: **REVENUE ASAP / FINISH -> PUBLISH -> SELL -> LEARN -> SCALE**. Release closure stays ahead of growth support; when a release lane is blocked at a real owner/external gate, Central may advance bounded source-backed growth enablement. New tools/vendors must pass the strategy adoption gate; extend existing RSE capability before adding duplicate stacks. Machine executes repeatable work; owner decisions remain required for irreversible commercial, visual, legal, publication and spend gates.
+
 ## 3. Global product/business sequence
 
 ### A. Current production baseline
