@@ -36,15 +36,17 @@ Luli: Jeśli przez minutę niczego nie odhaczymy, grudzień prawdopodobnie przet
 
 ### GRAMY: NIEWIDZIALNA PIŁKA
 
-Stańcie w kółku.
+**START:** Stańcie w kółku. Zaczyna osoba, której imię jest ostatnie alfabetycznie.
 
-Zaczyna osoba, której imię jest ostatnie alfabetycznie. Udaje, że trzyma niewidzialną piłkę.
+**RUNDA 1:** Osoba zaczynająca udaje, że trzyma niewidzialną piłkę. Przy każdym rzucie piłka zmienia jedną właściwość: może ważyć tonę, być lekka jak balon, maleńka jak groszek albo wielka jak fotel. Nie mówcie, jaka jest. Pokażcie to ruchem.
 
-Najpierw szybka runda na rozruch. Bez słów. Przy każdym rzucie piłka może nagle ważyć tonę, być lekka jak balon, maleńka jak groszek albo wielka jak fotel. Nie mówcie, jaka jest. Pokażcie to ruchem. Osoba łapiąca reaguje tak, jakby naprawdę dostała właśnie taką piłkę, zmienia jej „właściwości” i posyła dalej.
+Osoba łapiąca reaguje tak, jakby naprawdę dostała właśnie taką piłkę, zmienia jej właściwość i rzuca dalej do kogoś, kto jeszcze nie łapał w tej rundzie. Runda kończy się, kiedy piłka odwiedzi każdego.
 
-Kiedy każdy choć raz ją złapie, zaczyna się druga runda. Piłka wraca do zwykłych rozmiarów. Teraz osoba rzucająca wybiera kogoś, kto jeszcze nie dostał piłki w tej rundzie, i razem z rzutem mówi mu jedną konkretną dobrą rzecz. Nie „jesteś super”, tylko coś, co naprawdę w tej osobie lubicie albo ostatnio zauważyliście.
+**RUNDA 2:** Piłka wraca do zwykłych rozmiarów. Teraz razem z rzutem mówicie osobie łapiącej jedną konkretną dobrą rzecz, którą w niej lubicie albo ostatnio zauważyliście. Nie „jesteś super”, tylko coś prawdziwego i konkretnego.
 
 Osoba, która łapie, mówi po prostu „dzięki” i przekazuje piłkę dalej. Gra kończy się, kiedy każdy usłyszy jedno takie zdanie.
+
+**W DWIE OSOBY:** Rzucajcie piłkę na zmianę. W pierwszej rundzie zmieniajcie jej właściwości, a w drugiej każde z was mówi drugiej osobie jedną konkretną dobrą rzecz.
 
 Nini: Bez zamachu z barku. Komplement ma trafić. Piłka jest niewidzialna, odruchy z WF-u niestety nie.
 
@@ -80,15 +82,15 @@ Mimi: Druga skarpetka przez minutę nie zdąży uciec dalej. Poszukiwania zawies
 
 ### GRAMY: ORKIESTRA BEZ PRÓBY
 
-Zaczyna osoba, która jako następna będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk, na przykład „bum”, „dzyń”, „puf” albo „trach”.
+**START:** Zaczyna osoba, która jako następna będzie obchodzić urodziny. Wymyśla jeden krótki dźwięk, na przykład „bum”, „dzyń”, „puf” albo „trach”.
 
-Następnie gracie zgodnie z ruchem wskazówek zegara. Kolejna osoba powtarza pierwszy dźwięk i dodaje własny.
+**GRAMY:** Idąc zgodnie z ruchem wskazówek zegara, każda kolejna osoba powtarza wszystkie wcześniejsze dźwięki w tej samej kolejności i na końcu dodaje jeden własny.
 
-Każda następna osoba powtarza całą dotychczasową sekwencję w tej samej kolejności i na końcu dodaje jeden nowy dźwięk.
+Kiedy każdy doda swój dźwięk, zatrzymajcie się i spróbujcie razem odtworzyć całą sekwencję od początku do końca.
 
-Kiedy każdy doda swój dźwięk, wykonajcie całą sekwencję razem kilka razy.
+**FINAŁ:** Zagrajcie tę samą sekwencję jeszcze dwa razy: raz trochę ciszej, a raz trochę szybciej. Jeśli coś się rozjedzie, nie cofajcie się do początku. Złapcie rytm tam, gdzie jesteście.
 
-Jeśli chcecie ją wydłużyć, zróbcie kolejną rundę. Zachowajcie wszystko, co już powstało, i dokładajcie następne dźwięki w tej samej kolejności.
+**W DWIE OSOBY:** Dodawajcie dźwięki na zmianę, aż powstanie sekwencja z sześciu dźwięków. Potem odtwórzcie ją razem.
 
 Dilo: Jeśli po trzecim razie nadal brzmi dziwnie, to już nie błąd. To styl.
 
@@ -122,15 +124,19 @@ Alio: Plecak zostaje w przedpokoju. Kartkówka też. Przynajmniej na te dziesię
 
 ### GRAMY: STOP-KLATKA
 
-Zaczyna najmłodsza osoba. Podaje jedno hasło, a wszyscy natychmiast pokazują je pozą i zastygają bez ruchu na trzy sekundy.
+**START:** Zaczyna najmłodsza osoba i podaje pierwsze hasło.
 
-Hasła mogą być zwyczajne albo kompletnie absurdalne: „pierwszy śnieg”, „spóźniony autobus”, „ktoś właśnie przypomniał sobie, że jutro trzeba coś przynieść do szkoły”, „prezent, którego nie wolno było znaleźć” albo coś własnego.
+**GRAMY:** Na hasło wszyscy, także osoba prowadząca, natychmiast pokazują je pozą i zastygają na trzy sekundy.
 
-Po trzech sekundach osoba, która podała hasło, wybiera kolejną osobę. To ona wymyśla następne hasło.
+Hasła mogą być zwyczajne albo kompletnie absurdalne: „pierwszy śnieg”, „spóźniony autobus”, „ktoś właśnie przypomniał sobie o czymś na jutro”, „prezent, którego nie wolno było znaleźć”.
 
-Zagrajcie kilka rund.
+Po trzech sekundach wszyscy wracają do normalnej pozycji. Następne hasło podaje kolejna osoba zgodnie z ruchem wskazówek zegara.
 
-Jeśli bawią się tylko dwie osoby, jedna robi pozę, a druga zgaduje, co przedstawia. Potem zamieniacie się rolami.
+Zagrajcie pięć albo sześć rund.
+
+**FINAŁ:** Ostatnie hasło niech opisuje całą rodzinę w jednej scenie, na przykład „wyjście z domu trzy minuty za późno”.
+
+**W DWIE OSOBY:** Jedna osoba podaje hasło, obie robią pozę, potem zamieniacie się rolami.
 
 Alio: Najlepsze są te pozy, których po trzech sekundach nikt już nie umie wyjaśnić.
 
@@ -160,19 +166,26 @@ Przez tę chwilę wystarczy patrzeć na jedną rzecz.
 
 Luli: Jedna rzecz naraz. Ktoś powinien poinformować o tym grudzień.
 
-### GRAMY: GŁOSY W OBIEGU
+### GRAMY: TO SAMO ZDANIE, INNA HISTORIA
 
-Zaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno krótkie zdanie, na przykład: „Kto zjadł ostatnie pierniczki?” albo „Kto widział ładowarkę?”
+**START:** Zaczyna osoba z najdłuższymi włosami. Wybiera jedno zwyczajne zdanie, na przykład: „Kto widział ładowarkę?”, „Został jeszcze piernik?” albo „Już wychodzimy?”.
 
-Następnie gra toczy się przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale zupełnie innym głosem.
+**GRAMY:** Pierwsza osoba mówi to zdanie normalnie. Potem kolejni powtarzają dokładnie te same słowa, ale za każdym razem nadają im inną intencję.
 
-Możecie mówić jak robot, prezenter wiadomości, komentator sportowy, ktoś mówiący przez sen, złoczyńca z filmu albo gwiazda opery. Możecie też wymyślać własne głosy.
+Możecie powiedzieć je jak:
+1. wiadomość dnia,
+2. wielki sekret,
+3. podejrzliwe pytanie,
+4. komentarz sportowy,
+5. ktoś, kto właśnie odkrył coś bardzo ważnego.
 
-W jednej rundzie żaden głos nie może się powtórzyć.
+Po każdej wersji reszta zgaduje, jaki był zamiar. W jednej rundzie nie powtarzajcie tej samej intencji.
 
-Kiedy zdanie przejdzie przez całe koło, osoba siedząca po prawej stronie osoby rozpoczynającej wybiera nowe zdanie. Potem zaczynacie kolejną rundę.
+**FINAŁ:** Wybierzcie nowe zdanie i spróbujcie jednej rundy bez podawania listy. Osoba mówiąca sama wybiera sposób, a reszta zgaduje.
 
-Mimi: Wybierajcie rozsądnie. Ten głos może później wrócić przy kolacji.
+**W DWIE OSOBY:** Mówcie zdanie na zmianę. Osoba słuchająca ma jedno zgadnięcie.
+
+Mimi: Jedno „gdzie jest ładowarka?” potrafi mieć zaskakująco dużo fabuły.
 
 ### MIĘDZY NAMI: CO DZIŚ WYSZŁO INACZEJ NIŻ PLAN?
 
@@ -204,19 +217,17 @@ Dilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem.
 
 ### GRAMY: 12 BEZ POMYŁKI
 
-Usiądźcie w kółku.
+**START:** Usiądźcie w kółku.
 
-Zaczyna najwyższa osoba. Mówi „jeden” i wskazuje dowolną osobę, która ma kontynuować. Wskazana osoba mówi „dwa”, po czym wskazuje kolejną osobę. W ten sposób liczycie aż do 12.
+**POZIOM 1:** Zaczyna najwyższa osoba. Liczycie do 12 po kolei, zgodnie z ruchem wskazówek zegara. Każda osoba mówi jedną liczbę.
 
-Jeśli ktoś się pomyli, zaczynacie od początku.
+**POZIOM 2:** Teraz nie ma ustalonej kolejności. Każdy może powiedzieć następną liczbę, ale nie wolno wcześniej umawiać się, kto odezwie się pierwszy. Jeśli dwie osoby powiedzą liczbę jednocześnie albo ktoś poda złą liczbę, wracacie do jedynki.
 
-Kiedy uda wam się dojść do 12 bez pomyłki, powtórzcie rundę szybciej. Następnie spróbujcie policzyć wstecz, od 12 do 1.
+**POZIOM 3:** Zasady są takie jak w poziomie 2, ale zamiast 3, 6, 9 i 12 trzeba klasnąć. Tych liczb nie wypowiadacie.
 
-Jeśli chcecie zwiększyć trudność, ustalcie wyższą liczbę końcową.
+**FINAŁ:** Jeśli dojdziecie do 12, spróbujcie jeszcze raz od 12 do 1 bez ustalonej kolejności.
 
-W rundzie finałowej nie ustalacie wcześniej, kto zacznie ani kto wypowie kolejną liczbę. Spróbujcie wspólnie doliczyć do 12 lub wyżej, obserwując pozostałych i pilnując, żeby dwie osoby nie odezwały się jednocześnie. Jeśli tak się stanie, wracacie do jedynki.
-
-Całą zabawę możecie też przeprowadzić w dwie osoby.
+**W DWIE OSOBY:** Gracie tak samo. Na poziomie 2 i 3 nie ustalajcie z góry, kto powie następną liczbę.
 
 Dilo: VAR: dwa głosy naraz. Gol anulowany. Grudzień nie przyjmuje odwołań, wracamy do jedynki.
 
@@ -248,15 +259,17 @@ Alio: Pierwsza grudniowa rzecz, przy której nikt nie mówi: „szybciej, bo si�
 
 ### GRAMY: WSZYSCY NARAZ
 
-Stańcie w jednym rzędzie, ramię w ramię.
+**START:** Stańcie w jednym rzędzie, ramię w ramię. Zaczyna najmłodsza osoba.
 
-Runda pierwsza: stopy zostają na miejscu. W tej rundzie nie robicie kroków. Prowadzi najmłodsza osoba i mówi: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy jednocześnie wychylają ciało w podaną stronę i wracają do środka. Spróbujcie zrobić 10 takich ruchów bez pomyłki.
+**RUNDA 1:** Stopy zostają na miejscu. Prowadzący mówi: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy jednocześnie wychylają ciało w podaną stronę i wracają do środka. Zróbcie osiem ruchów.
 
-Runda druga: prowadzenie przejmuje kolejna osoba według wieku. Teraz zamiast wychyleń robicie małe kroki: do przodu, do tyłu, w prawo albo w lewo. Cel: 15 wspólnych kroków bez pomyłki.
+**RUNDA 2:** Prowadzenie przejmuje kolejna osoba według wieku. Teraz wykonujecie małe kroki: do przodu, do tyłu, w lewo albo w prawo. Spróbujcie zrobić 12 wspólnych kroków bez pomyłki.
 
-Runda trzecia: prowadzi najstarsza osoba i może mieszać wychylenia z krokami oraz zmieniać tempo.
+**FINAŁ:** Wybierzcie razem krótką sekwencję czterech ruchów. Przećwiczcie ją raz z prowadzącym, a potem wykonajcie trzy razy bez żadnych komend. Jeśli się rozjedziecie, po prostu zacznijcie sekwencję od początku.
 
-Jeśli coś się rozjedzie, ustawcie się ponownie i próbujcie dalej. Wszystkie ruchy róbcie na tyle małe, żeby nikt nie tracił równowagi.
+Wszystkie ruchy mają być małe i bezpieczne.
+
+**W DWIE OSOBY:** Gracie dokładnie tak samo. W finale spróbujcie wykonać sekwencję w tym samym tempie bez liczenia na głos.
 
 Luli: Gdyby lewo i prawo miały różne kolory, ta gra byłaby podejrzanie prosta.
 
@@ -292,17 +305,21 @@ Dilo: Dziś trenuję z grawitacją. Ona robi większość pracy.
 
 ### GRAMY: REAKCJA ŁAŃCUCHOWA
 
-Stańcie albo usiądźcie w kółku. Sygnał ma odwiedzić każdego i wrócić do osoby, która zaczęła.
+**START:** Stańcie jeden za drugim, wszyscy zwróceni w tę samą stronę. Zaczyna osoba stojąca na końcu.
 
-Zaczyna osoba z najkrótszymi włosami. Wysyła szeroki uśmiech do wybranej osoby. Odbiorca przekazuje go komuś, kto jeszcze nie dostał sygnału. Kiedy uśmiech wróci do startu, wybierzcie nowy sygnał: piątkę, delikatne klepnięcie w ramię, krótki uścisk albo własny gest bez dotyku.
+**GRAMY:** Osoba zaczynająca wymyśla prosty gest z dwóch części, na przykład klaśnięcie i kciuk w górę.
 
-Zróbcie trzy różne rundy. Każdy sygnał z dotykiem działa tylko wtedy, gdy obie osoby mają na niego ochotę. Jeśli ktoś woli bez dotyku, gest bezkontaktowy jest pełnoprawną wersją gry.
+Daje znać osobie przed sobą, że ma się odwrócić. Może lekko dotknąć jej ramienia, jeśli obie osoby mają na to ochotę, albo po prostu powiedzieć jej imię.
 
-Na finał wybierzcie ulubiony sygnał i puśćcie go po kole w ustalonej kolejności tak płynnie, jak potraficie.
+Pokazuje gest tylko raz. Odbiorca odwraca się do kolejnej osoby i przekazuje dokładnie to, co zapamiętał. Tak gest przechodzi aż na początek kolejki.
 
-Jeśli bawią się tylko dwie osoby, zróbcie z sygnałów szybki ping-pong: trzy wymiany, potem zmiana sygnału.
+Pierwsza osoba w kolejce pokazuje wersję, która do niej dotarła. Dopiero wtedy osoba startująca pokazuje oryginał.
 
-Nini: Lekki uścisk. To rodzina, nie pakowanie próżniowe.
+**FINAŁ:** Zróbcie trzy rundy. Za każdym razem inna osoba stoi na końcu i wymyśla gest. W ostatniej rundzie gest może mieć trzy części.
+
+**W DWIE OSOBY:** Jedna osoba pokazuje gest raz, druga go odtwarza. Potem zamieniacie się rolami i przechodzicie do gestu z trzech części.
+
+Nini: Jeśli z „klaśnij i pokaż kciuk” zrobi się „salutuj i kichnij”, niczego nie naprawiamy. Tak dotarła wiadomość.
 
 ### MIĘDZY NAMI: KTO TO ZROBIŁ, CHOCIAŻ PRAWIE NIKT NIE ZAUWAŻYŁ?
 
@@ -334,15 +351,17 @@ Nini: Serce działa bez listy zadań. Proszę zanotować, że jednak się da.
 
 ### GRAMY: HISTORIA, KTÓREJ NIKT NIE ZAPLANOWAŁ
 
-Usiądźcie albo stańcie w kółku.
+**START:** Usiądźcie albo stańcie w kółku. Zaczyna najstarsza osoba i mówi dokładnie trzy słowa otwierające historię, na przykład: „Renifer wszedł dziś…”.
 
-Zaczyna najstarsza osoba i mówi dokładnie trzy słowa, które otwierają historię. Na przykład: „Renifer wszedł dziś…”
+**GRAMY:** Kolejna osoba dodaje dokładnie trzy słowa. Potem następna robi to samo. Niczego nie cofajcie i nie poprawiajcie, nawet jeśli historia właśnie skręciła w kompletnie absurdalną stronę.
 
-Kolejna osoba dodaje dokładnie trzy następne słowa. Niczego nie poprawia i nie cofa. Każdy dopisuje po trzy słowa, a historia ma iść dalej, nawet jeśli właśnie skręciła w kompletnie absurdalną stronę.
+Zróbcie dwa pełne okrążenia.
 
-Zróbcie dwa pełne okrążenia albo skończcie wcześniej, jeśli pojawi się idealne zakończenie.
+Jeśli ktoś przez chwilę nie wie, co powiedzieć, może użyć trzech słów „i wtedy nagle”.
 
-Na finał wybierzcie najdziwniejszą scenę z waszej historii. Odliczcie „trzy, dwa, jeden” i wszyscy jednocześnie odegrajcie ją przez kilka sekund, bez ustalania ról. Jeśli nagle macie trzy renifery i ani jednego Mikołaja, tym lepiej.
+**FINAŁ:** Wybierzcie najdziwniejszą scenę z historii. Odliczcie „trzy, dwa, jeden” i wszyscy jednocześnie odegrajcie ją przez kilka sekund bez ustalania ról.
+
+**W DWIE OSOBY:** Dodawajcie po trzy słowa na zmianę, aż każde z was zrobi pięć tur. Potem odegrajcie wybraną scenę razem.
 
 Alio: Jeśli po dwóch okrążeniach fabuła nadal ma sens, ktoś podejrzanie mocno kontroluje sytuację.
 
@@ -378,15 +397,19 @@ Nini: Trzy kolory, dwa dźwięki, jedna podłoga. Wreszcie lista, którą da si�
 
 ### GRAMY: ROZPLĄCZCIE TO
 
-Stańcie blisko siebie w kółku.
+**START:** Stańcie blisko siebie w kółku.
 
-Każdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie łapcie obu dłoni tej samej osoby. Jeśli jest was pięcioro lub więcej, postarajcie się nie wybierać sąsiadów. Przy czterech osobach sąsiad może być potrzebny.
+**GRAMY:** Każdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie łapcie obu dłoni tej samej osoby. Przy pięciu osobach lub więcej postarajcie się nie wybierać sąsiadów. Przy czterech sąsiad może być potrzebny.
 
-Teraz spróbujcie rozplątać układ bez puszczania rąk. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie. Na końcu może powstać jedno koło albo dwa mniejsze. Oba wyniki są w porządku.
+Teraz spróbujcie rozplątać układ bez puszczania rąk. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie.
 
-Jeśli naprawdę utkniecie, macie jeden „reset techniczny”: jedna para na moment puszcza dłonie, przechodzi w wygodniejsze miejsce i łapie się ponownie. Jeśli coś boli albo robi się niewygodnie, przerywacie od razu.
+Na końcu może powstać jedno koło albo dwa mniejsze. Oba wyniki są w porządku.
 
-Jeśli jest was troje, każda osoba łapie po jednej dłoni obu pozostałych i wspólnie próbujecie się odkręcić. Jeśli bawią się tylko dwie osoby, skrzyżujcie ręce, złapcie się za dłonie i spróbujcie powoli się odkręcić. Kontakt wzrokowy może być utrudnieniem, nigdy obowiązkiem.
+**RESET:** Jeśli naprawdę utkniecie, jedna para może na moment puścić dłonie, przejść w wygodniejsze miejsce i złapać się ponownie. Jeśli coś boli albo robi się niewygodnie, przerywacie od razu.
+
+**MNIEJSZA GRUPA:** W trzy osoby każda osoba łapie po jednej dłoni obu pozostałych i wspólnie próbujecie się odkręcić.
+
+**W DWIE OSOBY:** Skrzyżujcie ręce, złapcie się za dłonie i spróbujcie powoli się odkręcić. Kontakt wzrokowy może być dodatkowym utrudnieniem, nigdy obowiązkiem.
 
 Mimi: Jeśli po chwili nie wiecie, która ręka jest czyja, wszystko idzie zgodnie z planem.
 
@@ -418,21 +441,24 @@ Alio: Nikt niczego nie ustala i jakoś działa. Proszę nie psuć tego pytaniami
 
 ### GRAMY: RODZINNA MASZYNA
 
-Zaczyna osoba, której imię byłoby pierwsze na rodzinnej liście ułożonej alfabetycznie.
+**START:** Zaczyna osoba, której imię byłoby pierwsze na rodzinnej liście ułożonej alfabetycznie.
 
-Wymyśla jeden prosty, powtarzalny ruch i pasujący do niego dźwięk. Powtarza oba bez przerwy.
+**GRAMY:** Osoba rozpoczynająca wymyśla jeden prosty, powtarzalny ruch i pasujący do niego krótki dźwięk. Powtarza oba bez przerwy.
 
-Kolejna osoba dołącza do „maszyny” z własnym ruchem i własnym dźwiękiem. Nie kopiuje pierwszej osoby. Jej część ma działać obok niej i pasować do wspólnego rytmu.
+Kolejna osoba dołącza z własnym ruchem i własnym dźwiękiem. Nie kopiuje pierwszej osoby. Następni dołączają po kolei, aż każdy ma własną część.
 
-Następne osoby dołączają po kolei, aż cała rodzina tworzy jedną dziwną, głośną maszynę.
+Kiedy cała „maszyna” działa, utrzymajcie wspólny rytm przez kilkanaście sekund.
 
-Kiedy wszyscy już działają, utrzymajcie wspólny rytm przez kilkanaście sekund.
+**FINAŁ:** Bez wybierania prowadzącego spróbujcie razem:
+1. trochę przyspieszyć,
+2. potem zwolnić,
+3. zatrzymać całą maszynę w tym samym momencie.
 
-Na finał spróbujcie bez słów i bez wyznaczonego prowadzącego zrobić trzy rzeczy: trochę przyspieszyć, potem zwolnić i w końcu zatrzymać całą maszynę w tym samym momencie. Patrzcie na siebie i łapcie zmianę tempa po ruchach innych.
+Nie wolno ustalać wcześniej sygnału. Patrzcie na siebie i łapcie zmianę po ruchach innych.
 
-Jeśli się rozjedzie, uruchomcie maszynę jeszcze raz i spróbujcie ponownie.
+Jeśli się rozjedzie, uruchomcie maszynę jeszcze raz.
 
-W dwie osoby zasada jest dokładnie taka sama. Każdy ma własny ruch i dźwięk, a finał polega na wspólnej zmianie tempa bez umawiania sygnału.
+**W DWIE OSOBY:** Każde ma własny ruch i dźwięk. Finał wygląda tak samo: wspólne przyspieszenie, zwolnienie i zatrzymanie bez ustalonego sygnału.
 
 Dilo: Jeśli maszyna nie ma żadnego sensu, świetnie. Ważne, żeby zatrzymała się razem.
 
@@ -464,25 +490,23 @@ Na koniec rozluźnijcie twarz jeszcze przez jeden spokojny oddech.
 
 Nini: Szczęka ma wolne. Nawet jeśli ktoś właśnie przypomniał sobie o czymś na jutro.
 
-### GRAMY: TRZY RZECZY NARAZ
+### GRAMY: CO TU SIĘ WYDARZYŁO?
 
-Prowadzi osoba, która ma dziś najbardziej kolorowe skarpetki.
+**START:** Zaczyna osoba, która ma dziś najbardziej kolorowe skarpetki. Wymyśla jedno niewinne domowe „misterium”, na przykład: „Dlaczego łyżka leży w bucie?”, „Skąd poduszka na środku przedpokoju?” albo „Dlaczego pilot znalazł się pod stołem?”.
 
-Jej zadaniem jest wymyślić polecenie składające się zawsze z trzech części:
-1. ruchu,
-2. dźwięku,
-3. miny.
+**GRAMY:** Kolejne osoby, zgodnie z ruchem wskazówek zegara, mają po około 10 sekund na jedno wyjaśnienie.
 
-Na przykład:
-„Zrób dwa małe podskoki, zabzycz jak pszczoła i zrób minę, jakbyś właśnie znalazł prezent w szafie”.
-Albo:
-„Maszeruj powoli, powiedz dwa razy «bęc» i wyglądaj tak, jakby ktoś zjadł twoje ciastko”.
+Może być absurdalne, ale powinno brzmieć tak, jakby przez moment naprawdę mogło się wydarzyć.
 
-Wszyscy wykonują całe polecenie od razu i w tym samym czasie. Osoba prowadząca również bierze udział.
+Nie wybieracie zwycięzcy. Po prostu słuchacie wszystkich wersji.
 
-Po każdej rundzie prowadzenie przejmuje osoba po lewej stronie. Jeśli ktoś pomyli ruch, dźwięk albo minę, niczego nie poprawiajcie. Właśnie po to są trzy rzeczy naraz.
+Potem osoba po lewej stronie wymyśla nowe „misterium” i zaczyna się kolejna runda.
 
-Nini: Poważna mina jest obowiązkowa tylko wtedy, kiedy kompletnie nie pasuje.
+**FINAŁ:** W ostatniej rundzie wybierzcie jedno z wcześniejszych wyjaśnień i wspólnie dodajcie mu po jednym nowym szczególe.
+
+**W DWIE OSOBY:** Jedna osoba wymyśla sytuację, druga ją wyjaśnia. Potem zamieniacie się rolami. Zróbcie po trzy rundy.
+
+Luli: Najlepszy moment jest wtedy, kiedy absurdalne wyjaśnienie zaczyna brzmieć całkiem możliwie.
 
 ### MIĘDZY NAMI: W CZYM JESTEŚMY NAPRAWDĘ DOBRZY?
 
@@ -516,20 +540,22 @@ Mimi: Spokojnie, to nie konkurs na najbardziej znaczące spojrzenie.
 
 ### GRAMY: PIĘĆ SŁÓW. DWA KŁAMSTWA.
 
-Zaczyna osoba z najdłuższym imieniem.
+**START:** Zaczyna osoba z najdłuższym imieniem. W tajemnicy wybiera rozpoznawalną osobę, zwierzę, przedmiot albo bohatera filmu, książki, gry czy serialu.
 
-Osoba rozpoczynająca w tajemnicy wybiera dowolną rozpoznawalną osobę, zwierzę, przedmiot albo bohatera filmu, książki, gry czy serialu.
-
-Następnie opisuje swój wybór dokładnie pięcioma pojedynczymi słowami:
-1. trzy słowa muszą być prawdziwymi wskazówkami,
-2. dwa słowa mają być całkowicie absurdalnymi kłamstwami.
+**GRAMY:** Opisuje swój wybór dokładnie pięcioma pojedynczymi słowami:
+1. trzy słowa są prawdziwymi wskazówkami,
+2. dwa są całkowicie zmyślone.
 
 Przykład dla Świętego Mikołaja:
 „Sanie. Broda. Renifery. Sushi. Deskorolka.”
 
-Najpierw pozostali próbują wskazać, które dwa słowa są kłamstwami. Dopiero potem zgadują, o kogo albo o co chodziło.
+Najpierw pozostali wskazują dwa słowa, które ich zdaniem są kłamstwami. Dopiero potem zgadują, o kogo albo o co chodziło.
 
-W kolejnej rundzie rolę osoby wybierającej przejmuje następna osoba, idąc przeciwnie do ruchu wskazówek zegara.
+Po odgadnięciu rolę osoby wybierającej przejmuje kolejna osoba przeciwnie do ruchu wskazówek zegara.
+
+**FINAŁ:** Ostatnia osoba może wybrać coś trudniejszego, ale nadal takiego, co przynajmniej jedna osoba w grupie ma szansę znać.
+
+**W DWIE OSOBY:** Gracie dokładnie tak samo i zmieniacie się rolami po każdej zagadce.
 
 Luli: Pięć słów. Nie sześć. Tak, liczę.
 
@@ -559,21 +585,27 @@ Zwróćcie uwagę na powietrze przesuwające się po skórze podczas ruchu. Nicz
 
 Dilo: Tryb 0,25x. Mój mózg właśnie szuka przycisku „przyspiesz”.
 
-### GRAMY: CZERWONY DYWAN
+### GRAMY: EKSPERT NA POCZEKANIU
 
-Dwie osoby stają naprzeciwko siebie i unoszą ręce, tworząc z nich bramę.
+**START:** Zaczyna osoba z najkrótszym imieniem. Reszta wybiera dla niej absurdalny temat ekspercki.
 
-Osoba, która przechodzi, wybiera styl wejścia. Może iść jak na wielką premierę, w przesadnym zwolnionym tempie, jak ktoś na bardzo śliskim chodniku albo wymyślić własną wersję.
+Możecie zacząć od:
+- „Dlaczego skarpetki znikają w praniu?”,
+- „Jak profesjonalnie znaleźć pilot?”,
+- „Po czym poznać naprawdę doświadczonego testera kanap?”,
+- „Co zrobić, kiedy ostatni piernik znika bez świadków?”.
 
-Pozostali robią oprawę: klaszczą, udają dźwięki aparatów albo zachowują absolutnie przesadną powagę.
+**GRAMY:** „Ekspert” ma 20 sekund, żeby odpowiedzieć z całkowitą powagą. Nie musi znać prawdziwej odpowiedzi. Ma po prostu zbudować możliwie przekonującą teorię.
 
-Na końcu przejścia osoba zatrzymuje się w jednej pozie. Wszyscy mają trzy sekundy, żeby ją skopiować.
+Potem ekspert wskazuje kolejną osobę, a grupa daje jej nowy temat.
 
-Potem zmieńcie role. Kontynuujcie, aż każdy, kto chce, przejdzie przez bramę.
+Trzymajcie się tematów absurdalnych i nieszkodliwych. Nie robimy pytań o czyjeś oceny, wygląd, lęki ani realne słabości.
 
-Jeśli bawią się tylko dwie osoby, ustawcie dwa stabilne krzesła jako bramę. Jedna osoba przechodzi, druga robi oprawę i kopiuje finałową pozę. Potem zamieniacie się rolami.
+**FINAŁ:** Ostatni ekspert dostaje dodatkowe utrudnienie: w odpowiedzi musi użyć trzech przypadkowych słów wybranych przez resztę.
 
-Mimi: Fotoreporterów nie będzie. Wejście nadal może być kompletnie nieproporcjonalne do okazji.
+**W DWIE OSOBY:** Jedna osoba daje temat, druga odpowiada przez 20 sekund. Potem zmiana.
+
+Dilo: Kwalifikacje: zero. Pewność głosu: wystarczająca.
 
 ### MIĘDZY NAMI: CO U NAS ROBIMY PO SWOJEMU?
 
@@ -605,19 +637,21 @@ Luli: Dwie ciepłe dłonie i nic do znalezienia, kupienia ani ładowania. Dobry 
 
 ### GRAMY: 3, 2, 1... TO SAMO?
 
-Wybierzcie prostą kategorię, na przykład: coś świątecznego, coś do jedzenia, miejsce w domu, zimowa rzecz albo coś, co zabralibyście na wolny dzień.
+**START:** Wybierzcie prostą kategorię, na przykład: coś świątecznego, coś do jedzenia, miejsce w domu, zimowa rzecz albo coś, co zabralibyście na wolny dzień.
 
-Jedna osoba odlicza: „trzy, dwa, jeden”. Na „jeden” wszyscy jednocześnie mówią pierwsze słowo, które przyszło im do głowy.
+**GRAMY:** Jedna osoba odlicza: „trzy, dwa, jeden”. Na „jeden” wszyscy jednocześnie mówią pierwsze słowo, które przyszło im do głowy.
 
-Jeśli wszyscy powiedzieli to samo, macie punkt i wybieracie nową kategorię.
+Jeśli wszyscy powiedzieli to samo, macie wspólny punkt i wybieracie nową kategorię.
 
-Jeśli odpowiedzi są różne, wybierzcie dwie z nich. W kolejnej rundzie każdy próbuje znaleźć jedno słowo, które jakoś łączy oba poprzednie. Znowu odliczacie i mówicie je jednocześnie.
+Jeśli odpowiedzi są różne, wybierzcie dwie z nich. W następnej próbie każdy szuka jednego słowa, które może połączyć oba wcześniejsze. Znowu odliczacie i mówicie jednocześnie.
 
-Powtarzajcie, aż spotkacie się na jednym słowie albo uznacie, że ta runda ma wyjątkowo silną osobowość i czas przejść do następnej kategorii.
+Powtarzajcie maksymalnie trzy próby dla jednej kategorii. Jeśli nadal się nie spotkacie, zmieńcie kategorię.
 
-W dwie osoby gracie dokładnie tak samo.
+**FINAŁ:** W ostatniej rundzie ktoś wymyśla kategorię, która nie ma oczywistej odpowiedzi, na przykład „coś, co poprawia kiepski dzień”.
 
-Dilo: Jeśli wszyscy powiedzą „pierniki” za pierwszym razem, kategoria była podejrzanie łatwa.
+**W DWIE OSOBY:** Gracie dokładnie tak samo.
+
+Dilo: Jeśli przy „coś świątecznego” oboje powiedzieliście „pierniki”, punkt się liczy. Ambicję zostawiamy na następną rundę.
 
 ### MIĘDZY NAMI: CO OD SIEBIE PODŁAPALIŚMY?
 
@@ -651,17 +685,19 @@ Alio: Najspokojniejsza kolejka górska świata. I nawet nie trzeba stać w kolej
 
 ### GRAMY: LUSTRO BEZ LUSTRA
 
-Dobierzcie się w pary. Jeśli jest was nieparzysta liczba, w jednej grupie będą trzy osoby. Jedna prowadzi, a pozostałe dwie są lustrami. Przy zmianie ról kolejno przejmujecie prowadzenie.
+**START:** Dobierzcie się w pary. Jeśli jest was nieparzysta liczba, w jednej grupie będą trzy osoby. Zaczyna osoba, która ma na sobie więcej czerwonego.
 
-W każdej parze zaczyna osoba, która ma na sobie więcej czerwonego. Staje naprzeciwko drugiej osoby i przez 20 sekund wykonuje powolne, bezpieczne ruchy rękami, głową i górną częścią ciała. Druga osoba jest lustrem i próbuje odwzorować wszystko dokładnie w tym samym momencie.
+**RUNDA 1:** Osoba prowadząca przez 20 sekund wykonuje powolne, bezpieczne ruchy rękami, głową i górną częścią ciała. Druga osoba jest „lustrem” i próbuje odwzorować ruch w tym samym momencie.
 
 Po 20 sekundach zamieńcie się rolami.
 
-W drugiej rundzie możecie dodać zabawną minę albo bardziej zaskakujący ruch, nadal bez gwałtownych skoków i bez dotykania drugiej osoby.
+Przy trzech osobach jedna prowadzi, a dwie są lustrami. Przy kolejnych rundach każdy raz przejmuje prowadzenie.
 
-Na finał spróbujcie przez 30 sekund poruszać się razem bez ustalania, kto prowadzi. Patrzcie na siebie i próbujcie wyczuć wspólne tempo. Jeśli oboje ruszycie inaczej, nie zatrzymujcie gry. Spróbujcie złapać się ponownie w ruchu.
+**RUNDA 2:** Możecie dodać zabawną minę albo bardziej zaskakujący ruch, nadal bez gwałtownych skoków i bez dotykania drugiej osoby.
 
-W dwie osoby gracie dokładnie tak samo.
+**FINAŁ:** Przez 30 sekund poruszajcie się razem bez ustalania, kto prowadzi. Jeśli ruszycie inaczej, nie zatrzymujcie gry. Spróbujcie ponownie złapać wspólny ruch.
+
+**W DWIE OSOBY:** Gracie dokładnie według tych samych zasad.
 
 Nini: Jeśli oboje zaczniecie prowadzić naraz, gratulacje. Właśnie wynaleźliście bardzo niezdecydowane lustro.
 
@@ -693,21 +729,21 @@ Nini: Ręce znają choreografię. Reszta rodziny może się jeszcze zastanowić.
 
 ### GRAMY: RADIO NA ŻYWO
 
-Rozejrzyjcie się po pokoju i wybierzcie jeden zupełnie zwyczajny przedmiot, na przykład kubek, skarpetkę, łyżkę, plecak albo kapcie.
+**START:** Rozejrzyjcie się po pokoju i wybierzcie jeden zwyczajny przedmiot, na przykład kubek, skarpetkę, łyżkę, plecak albo kapcie.
 
-Macie dziesięć sekund, żeby podzielić role. Potrzebujecie przynajmniej jednej osoby mówiącej i jednej odpowiedzialnej za efekty dźwiękowe albo demonstrację. Przy większej rodzinie każdy dostaje małe zadanie.
+Macie 10 sekund na podział ról. Potrzebujecie przynajmniej jednej osoby mówiącej i jednej odpowiedzialnej za efekty dźwiękowe albo demonstrację.
 
-Teraz zróbcie razem krótką, przesadnie poważną reklamę tego przedmiotu. Reklama musi zawierać:
-1. nową, absurdalnie ważną nazwę produktu,
-2. jedną funkcję, której ten przedmiot oczywiście nie ma,
+**GRAMY:** Zróbcie krótką, przesadnie poważną reklamę wybranego przedmiotu. Musi zawierać:
+1. absurdalnie ważną nazwę produktu,
+2. jedną funkcję, której przedmiot oczywiście nie ma,
 3. przynajmniej jeden efekt dźwiękowy,
 4. finałowe hasło wypowiedziane razem.
 
-Nie planujcie dłużej niż chwilę. Najlepsza część zaczyna się wtedy, kiedy ktoś musi ratować reklamę w połowie zdania.
+Nie planujcie dłużej niż chwilę. Jeśli reklama zacznie się sypać, nie przerywajcie. Właśnie wtedy robi się ciekawie.
 
 Zróbcie dwie albo trzy rundy z innymi przedmiotami i zmieniajcie role.
 
-W dwie osoby jedna prowadzi reklamę, druga robi dźwięki i demonstrację. W kolejnej rundzie zamieniacie się rolami.
+**W DWIE OSOBY:** Jedna osoba prowadzi reklamę, druga robi efekty i demonstrację. W następnej rundzie zamieniacie się rolami.
 
 Nini: Reklamacja kapci z napędem odrzutowym nie będzie rozpatrywana.
 
@@ -743,20 +779,27 @@ Mimi: Bez rekordów. Jutro też będziemy potrzebować ramion.
 
 ### GRAMY: TYLKO PYTANIA
 
-Zaczynają dwie osoby. Wybierzcie jedną krótką scenkę albo wymyślcie własną:
-
+**START:** Zaczynają dwie osoby. Wybierzcie jedną scenkę:
 - spotykacie się przy lodówce późnym wieczorem,
 - szukacie ostatniej rolki taśmy do prezentów,
 - próbujecie znaleźć dobre miejsce na bardzo duży prezent,
 - choinka przechyliła się po raz trzeci.
 
-Przez 30 sekund rozmawiacie wyłącznie pytaniami. Każda wypowiedź musi kończyć się znakiem zapytania.
+**GRAMY:** Przez 30 sekund rozmawiacie wyłącznie pytaniami. Każda wypowiedź musi być pytaniem.
 
-Jeśli komuś wymknie się zwykłe zdanie, nic się nie dzieje. Ktoś mówi „Pytanie!” i gracie dalej.
+Jeśli komuś wymknie się zwykłe zdanie, ktoś mówi „Pytanie!” i gracie dalej. Nie zaczynacie od początku.
 
 Po 30 sekundach wchodzi kolejna para. Kontynuujcie, aż każdy, kto chce, zagra przynajmniej raz.
 
-Jeśli są tylko dwie osoby, zmieniajcie scenkę co rundę. Na finał spróbujcie wytrzymać pełną minutę bez ani jednego zwykłego zdania.
+**RUNDA TRUDNIEJSZA:** Pytania mogą być lekko zaczepne, ale nie osobiste ani przykre.
+
+Na przykład:
+„Naprawdę uważasz, że to jest dobra kryjówka?”
+„A widzisz gdzieś lepszą?”
+
+**FINAŁ:** Wybrana para próbuje wytrzymać pełną minutę bez ani jednego zwykłego zdania.
+
+**W DWIE OSOBY:** Zmieniajcie scenkę co rundę i grajcie na zmianę rundę zwykłą oraz zaczepną.
 
 Nini: Czy to ma sens? A od kiedy to warunek dobrej zabawy?
 
@@ -790,21 +833,25 @@ Alio: Wreszcie ruch drogowy, nad którym mamy kontrolę.
 
 ### GRAMY: MISJA KRZESŁO
 
-Najpierw odsuńcie wszystko, o co można się potknąć. Wybierzcie prostą trasę do krzesła: dwa do czterech małych kroków, bez schodów, ostrych kantów i śliskich dywaników.
+**START:** Najpierw odsuńcie wszystko, o co można się potknąć. Wybierzcie prostą trasę do krzesła: dwa do czterech małych kroków, bez schodów, ostrych kantów i śliskich dywaników.
 
-Dobierzcie się w pary. Jedna osoba jest nawigatorem, druga wykonuje instrukcje. Przed startem obie oglądają trasę.
+Dobierzcie się w pary. Jedna osoba jest nawigatorem, druga wykonuje instrukcje. Przed startem obie osoby oglądają trasę.
 
-Osoba idąca może zamknąć oczy tylko wtedy, gdy ma na to ochotę. Otwarte oczy są pełnoprawną wersją gry.
+**GRAMY:** Osoba idąca może zamknąć oczy tylko wtedy, gdy ma na to ochotę. Otwarte oczy są pełnoprawną wersją gry.
 
-Nawigator nie dotyka drugiej osoby. Podaje po jednym konkretnym poleceniu, na przykład: „jeden mały krok w prawo”, „dwa kroki do przodu”, „stop”. Jeśli cokolwiek jest niejasne, mówicie „stop”. Tu nie ma punktów za szybkość.
+Nawigator nie dotyka drugiej osoby. Podaje po jednym konkretnym poleceniu, na przykład: „jeden mały krok w prawo”, „dwa kroki do przodu”, „stop”.
+
+Jeśli cokolwiek jest niejasne, mówicie „stop”. Tu nie ma punktów za szybkość.
 
 Po dotarciu do krzesła zamieńcie się rolami.
 
-Jeśli jest was nieparzysta liczba, trzecia osoba w jednej grupie pilnuje bezpiecznej przestrzeni, a po rundzie wchodzi do pary.
+**NIEPARZYSTA GRUPA:** Trzecia osoba w jednej grupie pilnuje bezpiecznej przestrzeni. W następnej rundzie wchodzi do pary.
 
-Trudniejsza wersja: nawigator ma najwyżej pięć komunikatów na całą trasę.
+**FINAŁ:** Nawigator ma najwyżej pięć komunikatów na całą trasę.
 
-Jeśli jest was więcej, pary mogą grać równocześnie tylko w osobnych, bezpiecznych częściach pokoju.
+Jeśli gra kilka par równocześnie, każda musi mieć osobną, bezpieczną przestrzeń.
+
+**W DWIE OSOBY:** Gracie dokładnie tak samo i zamieniacie się rolami po każdej trasie.
 
 Mimi: „No tam” nie jest kierunkiem świata. Sprawdziliśmy.
 
@@ -838,23 +885,29 @@ Oddychajcie zwyczajnie. Przez tę minutę ręce nie muszą niczego pisać, przes
 
 Mimi: Puste ręce. Niczego przez minutę nie odkładamy na właściwe miejsce. Korzystajcie.
 
-### GRAMY: ZMIANA KSZTAŁTU
+### GRAMY: CO SIĘ ZMIENIŁO?
 
-Stańcie w kółku.
+**START:** Zaczyna osoba, która jako pierwsza zauważy w pokoju coś czerwonego. Przez 15 sekund uważnie rozgląda się po pokoju i po osobach wokół.
 
-Zaczyna osoba, która jako pierwsza wskaże w pokoju coś w kształcie koła. Wybiera potem jeden prosty kształt lub układ, na przykład koło, trójkąt, prostą linię, falę albo gwiazdę.
+**GRAMY:** Osoba zgadująca odwraca się albo zamyka oczy. Pozostali robią dokładnie jedną małą, widoczną zmianę.
 
-Na podane hasło wszyscy ustawiają się tak, żeby razem stworzyć wybrany kształt.
+Możecie na przykład:
+- przesunąć poduszkę,
+- zamienić miejscami dwa lekkie, nietłukące przedmioty,
+- podwinąć jeden rękaw,
+- zmienić miejsce jednej osoby.
 
-Kiedy kształt jest gotowy, prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara. Nowy prowadzący wybiera następny kształt.
+Nie chowajcie potrzebnych rzeczy, nie ruszajcie ciężkich mebli i nie wspinajcie się na nic.
 
-Zagrajcie kilka rund.
+Osoba zgadująca odwraca się i ma do 30 sekund na znalezienie zmiany.
 
-Na koniec wybierzcie jeden kształt i spróbujcie ustawić się w niego bez mówienia. Możecie patrzeć na siebie, pokazywać i poprawiać ustawienie, ale żadnych słów. Bez podnoszenia się nawzajem i bez wchodzenia na meble.
+Potem zgadującym zostaje kolejna osoba zgodnie z ruchem wskazówek zegara.
 
-W dwie osoby jedna osoba podaje kształt, a potem obie ustawiają się tak, żeby razem go pokazać. Następnie zamieniacie się rolami.
+**FINAŁ:** W ostatniej rundzie możecie zrobić dwie drobne zmiany zamiast jednej.
 
-Dilo: Jeśli ten trójkąt wygląda trochę jak ziemniak, wpisuję: wersja robocza.
+**W DWIE OSOBY:** Jedna osoba się odwraca, druga robi jedną zmianę. Potem zamieniacie się rolami.
+
+Dilo: Jedna zmiana. Nie przemeblowujcie salonu, to ma być zagadka, nie remont.
 
 ### MIĘDZY NAMI: CO LUBIMY W NASZYM DOMU?
 
@@ -886,21 +939,21 @@ Mimi: Pięści rozwiązują zaskakująco mało rodzinnych spraw. Dziś mają wol
 
 ### GRAMY: LINIA BEZ SŁÓW
 
-Stańcie luźno w jednym miejscu. W każdej rundzie macie ustawić się w jednej linii, ale od chwili podania zadania nie wolno mówić.
+**START:** Stańcie luźno w jednym miejscu. Od chwili podania zadania nie wolno mówić.
 
-Runda 1: ustawcie się alfabetycznie według imion.
+**RUNDA 1:** Ustawcie się w jednej linii alfabetycznie według imion.
 
-Runda 2: ustawcie się według miesiąca urodzin, od stycznia do grudnia.
+**RUNDA 2:** Ustawcie się według miesiąca urodzin, od stycznia do grudnia.
 
-Runda 3: ustawcie się według liczby liter w imieniu, od najkrótszego do najdłuższego.
+**RUNDA 3:** Ustawcie się według liczby liter w imieniu, od najkrótszego do najdłuższego.
 
 Możecie pokazywać palcami, robić miny, gestykulować i negocjować brwiami. Kiedy uznacie, że linia jest gotowa, sprawdźcie wynik na głos.
 
 Jeśli dwie osoby mają ten sam miesiąc albo tyle samo liter, mogą stać obok siebie w dowolnej kolejności.
 
-Na finał wymyślcie własne, łatwe do sprawdzenia kryterium.
+**FINAŁ:** Wymyślcie własne kryterium, które da się potem jednoznacznie sprawdzić.
 
-W dwie osoby zagrajcie w trzy podane rundy. Jeśli chcecie dwie kolejne, wymyślcie własne łatwe do sprawdzenia kryteria. Za każdym razem bez słów zdecydujcie, kto powinien stanąć pierwszy, i dopiero potem sprawdźcie odpowiedź.
+**W DWIE OSOBY:** Zagrajcie w pięć szybkich kryteriów. Za każdym razem bez słów zdecydujcie, czy trzeba zamienić się miejscami, czy zostać tak, jak stoicie. Dopiero potem sprawdźcie odpowiedź na głos.
 
 Nini: Jeśli ktoś próbuje przeliterować imię brwiami, uznaję za legalne.
 
@@ -932,21 +985,25 @@ Potem możecie wszystko włączyć z powrotem. Chodzi tylko o krótkie „mniej�
 
 Nini: Jeśli lodówka dalej buczy, nie negocjujemy z nią.
 
-### GRAMY: SZYFR W OBIEGU
+### GRAMY: BEZ „TAK” I „NIE”
 
-Stańcie w kółku i na całą rundę wybierzcie wersję: z dotykiem albo bez.
+**START:** Zaczyna osoba, której imię jest pierwsze alfabetycznie. Osoba siedząca po jej prawej stronie zostaje pytającym.
 
-Jeśli wszystkim odpowiada trzymanie się za ręce, złapcie się lekko. Zaczyna osoba, której imię jest pierwsze alfabetycznie. Ściska dłoń osoby po prawej jeden raz, a każda kolejna osoba przekazuje sygnał dopiero wtedy, gdy sama go poczuje.
+**GRAMY:** Przez 30 sekund pytający zadaje krótkie pytania jedno po drugim. Osoba odpowiadająca może mówić wszystko, tylko nie słowa „tak” ani „nie”.
 
-Jeśli choć jedna osoba woli bez dotyku, ustawcie się tak, żeby każdy widział osobę po swojej lewej stronie, i ustalcie jeden prosty ruch dłoni. Osoba rozpoczynająca wysyła go w prawo. Każdy patrzy na swojego „nadawcę” po lewej i przekazuje ruch dalej dopiero wtedy, gdy sygnał dotrze właśnie do niego.
+Może odpowiadać pełnym zdaniem, zmieniać temat, odbijać pytanie albo próbować wybrnąć inaczej.
 
-W drugiej rundzie wymyślcie krótki kod: dwa albo trzy lekkie uściski lub dwa albo trzy różne ruchy. Kod ma wrócić bez zmiany.
+Jeśli padnie „tak” albo „nie”, po prostu zanotujcie wpadkę i grajcie dalej do końca 30 sekund. Nikt nie odpada.
 
-Potem możecie zmienić kierunek albo tempo. Najtrudniejsza wersja: dwa różne kody ruszają jednocześnie w przeciwnych kierunkach.
+Potem odpowiadającym zostaje kolejna osoba zgodnie z ruchem wskazówek zegara, a pytającym osoba po jej prawej stronie.
 
-Żaden uścisk nie powinien boleć.
+Nie używajcie pytań o rzeczy prywatne, zawstydzające albo takie, na które ktoś nie chce odpowiadać.
 
-Luli: Kod ma dotrzeć. Ślady po nim nie są częścią zadania.
+**FINAŁ:** W ostatniej rundzie zakazane jest dodatkowo słowo „może”.
+
+**W DWIE OSOBY:** Jedna osoba pyta przez 30 sekund, potem zamieniacie się rolami.
+
+Luli: „Tak” i „nie” mają wolne. Nagle okazuje się, że „oczywiście” ma bardzo dużo pracy.
 
 ### MIĘDZY NAMI: NASZ ZNAK
 
@@ -978,17 +1035,19 @@ Luli: Przez pół minuty niczego nie trzeba było czytać, sprawdzać ani znajdo
 
 ### GRAMY: KALAMBURY NA OPAK
 
-Zaczyna najstarsza osoba. Na chwilę odwraca się albo zamyka oczy.
+**START:** Zaczyna najstarsza osoba. Na chwilę odwraca się albo zamyka oczy.
 
-Pozostali po cichu wybierają jedno proste hasło, na przykład: lepienie bałwana, spóźniony autobus, pieczenie pierników, pingwin, odkurzacz albo coś własnego.
+**GRAMY:** Pozostali po cichu wybierają jedno proste hasło, na przykład: lepienie bałwana, spóźniony autobus, pieczenie pierników, pingwin, odkurzacz albo coś własnego.
 
-Osoba zgadująca odwraca się z powrotem. Na „trzy, dwa, jeden” wszyscy pozostali zaczynają jednocześnie pokazywać to samo hasło, bez słów i bez wcześniejszego ustalania, jak je pokażą.
+Osoba zgadująca odwraca się z powrotem.
 
-Zgadujący próbuje odgadnąć hasło. Potem rolę zgadującego przejmuje kolejna osoba.
+Na „trzy, dwa, jeden” wszyscy pozostali zaczynają jednocześnie pokazywać to samo hasło, bez słów i bez wcześniejszego ustalania, jak je pokażą.
 
-Najzabawniej robi się wtedy, gdy wszyscy pokazują dokładnie to samo i wyglądają, jakby każdy dostał zupełnie inną instrukcję.
+Zgadujący próbuje odgadnąć hasło. Potem rolę zgadującego przejmuje kolejna osoba zgodnie z ruchem wskazówek zegara.
 
-W dwie osoby gracie jak w zwykłe kalambury, ale pokazujący musi użyć całego ciała i nie może wskazywać przedmiotów w pokoju.
+**FINAŁ:** Ostatnie hasło wybierzcie trochę trudniejsze i spróbujcie pokazywać je przez pełne 20 sekund, nawet jeśli każdy robi to zupełnie inaczej.
+
+**W DWIE OSOBY:** Gracie jak w zwykłe kalambury, ale pokazujący musi użyć całego ciała i nie może wskazywać przedmiotów w pokoju. Po każdym haśle zamieniacie się rolami.
 
 Mimi: Jeśli trzy osoby pokazują „lepienie bałwana”, a wyglądają jak trzy różne sporty, gra działa idealnie.
 
@@ -1020,23 +1079,28 @@ Jeśli chcecie, każdy może powiedzieć jedną z nich na głos: „To może poc
 
 Dilo: Priorytety zaktualizowane. Skarpety przeżyją do rana.
 
-### GRAMY: ZAMIANA MIEJSC
+### GRAMY: ALIBI W 30 SEKUND
 
-Stańcie w kółku. Zaczyna osoba, która jako ostatnia weszła do pokoju.
+**START:** Zaczyna osoba, która jako ostatnia weszła do pokoju. Wymyśla jedno całkowicie fikcyjne, nieszkodliwe domowe „misterium”.
 
-Po każdym haśle osoby, których ono dotyczy, robią krok do środka. Jeśli są co najmniej dwie, spoglądają na wolne miejsca i spokojnie przechodzą na inne miejsce w kole. Nie przebiegajcie przez środek na oślep. Jeśli pasuje tylko jedna osoba, robi obrót i wraca na swoje miejsce.
+Na przykład:
+- „Dlaczego łyżka znalazła się w przedpokoju?”,
+- „Skąd poduszka pod stołem?”,
+- „Dlaczego pilot leży obok butów?”.
 
-Zróbcie po dwa hasła w trzech rundach:
+**GRAMY:** Osoba po lewej stronie ma 30 sekund na wymyślenie wyjaśnienia.
 
-**KOLORY:** „Wszyscy, którzy mają na sobie coś czerwonego, zmiana!”
+Kiedy skończy, reszta może zadać jej maksymalnie trzy krótkie pytania. Odpowiedzi muszą pasować do historii, którą już opowiedziała.
 
-**LUBIĘ / NIE LUBIĘ:** „Wszyscy, którzy lubią ciepłe napoje, zmiana!”
+Potem osoba, która właśnie tłumaczyła sytuację, wymyśla nowe misterium dla kolejnej osoby.
 
-**NAWYKI I CECHY:** „Wszyscy, którzy zwykle szukają czegoś pięć minut przed wyjściem, zmiana!”
+Nie używajcie prawdziwych rodzinnych oskarżeń, wpadek ani tematów, które mogłyby kogoś zawstydzić.
 
-Wymyślajcie tylko takie kategorie, przy których każdy może śmiać się razem z innymi, a nie z kogoś.
+**FINAŁ:** Ostatnia osoba dostaje misterium i trzy przypadkowe słowa, które musi wpleść w swoje wyjaśnienie.
 
-Dilo: Jedna osoba pasuje? Obrót i wraca. System nie panikuje.
+**W DWIE OSOBY:** Jedna osoba wymyśla misterium, druga odpowiada i dostaje trzy pytania. Potem zamieniacie się rolami.
+
+Nini: Po trzecim pytaniu najważniejsze jest już tylko jedno: pamiętać własną wersję.
 
 ### MIĘDZY NAMI: PRZEPRASZAM ZA…
 
@@ -1074,13 +1138,17 @@ Mimi: Jeszcze jedna minuta. Reszta naprawdę może chwilę poczekać.
 
 ### GRAMY: ŚPIEWAMY RAZEM
 
-Stańcie albo usiądźcie blisko siebie.
+**START:** Stańcie albo usiądźcie blisko siebie. Wybierzcie jedną kolędę, piosenkę świąteczną albo zimową, którą wszyscy mniej więcej znają.
 
-Wybierzcie jedną ulubioną kolędę, piosenkę świąteczną albo zimową, którą wszyscy mniej więcej znają.
+**GRAMY:** Zaczyna osoba, która ma na sobie najbardziej świąteczny kolor. Śpiewa pierwszą linijkę, a pozostali dołączają.
 
-Zaczyna osoba, która ma na sobie najbardziej świąteczny kolor. Śpiewa pierwszą linijkę, a pozostali dołączają i razem śpiewacie dalej.
+Nie trzeba śpiewać całego utworu. Wystarczy jedna zwrotka i refren albo fragment, który naprawdę znacie.
 
-Kto nie ma ochoty śpiewać, może nucić albo wybijać rytm. Chodzi o jeden wspólny utwór, nie o przesłuchanie do chóru.
+Kto nie ma ochoty śpiewać, może nucić, wybijać rytm albo po prostu słuchać. To jest pełnoprawny udział.
+
+**FINAŁ:** Jeśli macie ochotę, zaśpiewajcie refren jeszcze raz, tym razem trochę ciszej.
+
+**W DWIE OSOBY:** Zasady są dokładnie takie same.
 
 Dilo: Czystość dźwięku nie podlega ocenie. Na szczęście.
 
