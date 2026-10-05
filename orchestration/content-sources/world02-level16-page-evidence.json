@@ -1,0 +1,480 @@
+{
+  "evidence_version": 1,
+  "mission_id": "world02_mission_016",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "filename": "paperback 10 STORIES WORLD 02 FINAL standard(1).pdf",
+    "isbn": "9798249971823",
+    "sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "bytes": 66576954,
+    "pages": 104,
+    "page_range": [
+      55,
+      63
+    ]
+  },
+  "method": "Page-by-page transcription from the canonical published paperback using indexed PDF text. Narrative order was reconstructed where PDF multi-column extraction order diverged from story chronology, and continuity was cross-checked across adjacent pages. No visual-layout inference beyond the published text sequence is claimed.",
+  "page_inventory": [
+    {
+      "page": 55,
+      "content_blocks": 1
+    },
+    {
+      "page": 56,
+      "content_blocks": 4
+    },
+    {
+      "page": 57,
+      "content_blocks": 6
+    },
+    {
+      "page": 58,
+      "content_blocks": 4
+    },
+    {
+      "page": 59,
+      "content_blocks": 4
+    },
+    {
+      "page": 60,
+      "content_blocks": 4
+    },
+    {
+      "page": 61,
+      "content_blocks": 2
+    },
+    {
+      "page": 62,
+      "content_blocks": 4
+    },
+    {
+      "page": 63,
+      "content_blocks": 3
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p55_b01",
+      "node_id": "world02_mission_016_node_001",
+      "page": 55,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 16:",
+        "title": "The 6 and 9 Mystery",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "PERSPECTIVE",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Why two people can be right and still fight.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p56_b01",
+      "node_id": "world02_mission_016_node_002",
+      "page": 56,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "CRASH! Luli and Dilo were screaming in the kitchen. It sounded like a rap battle, but with way more anger, pointed fingers, and loud blaming."
+      }
+    },
+    {
+      "evidence_id": "p56_b02",
+      "node_id": "world02_mission_016_node_003",
+      "page": 56,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "You ruined the wifi! You unplugged the router, you sneaky ruiner! I was fighting a boss! We had the dragon at 2% health! You gave me a red card for no reason! You did it on purpose because I ate your yogurt yesterday!"
+      }
+    },
+    {
+      "evidence_id": "p56_b03",
+      "node_id": "world02_mission_016_node_004",
+      "page": 56,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "(Standing next to a whiteboard she had dragged into the kitchen, drawing a map of the wall plugs) I didn't touch your precious, glowing internet box! I unplugged the water kettle to make space for the toaster! You are imagining things! You see secret plots everywhere! Look at the drawing!"
+      }
+    },
+    {
+      "evidence_id": "p56_b04",
+      "node_id": "world02_mission_016_node_005",
+      "page": 56,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "I saw the black cord in your hand! It was the router! You are blind!"
+      }
+    },
+    {
+      "evidence_id": "p57_b01",
+      "node_id": "world02_mission_016_node_006",
+      "page": 57,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "It was the GREY cord! You are dreaming!"
+      }
+    },
+    {
+      "evidence_id": "p57_b02",
+      "node_id": "world02_mission_016_node_007",
+      "page": 57,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini strolled into the kitchen, humming happily and sipping a juice box. She did a little moonwalk across the tiles, dancing smoothly between her furious brother and sister to calm the angry mood."
+      }
+    },
+    {
+      "evidence_id": "p57_b03",
+      "node_id": "world02_mission_016_node_008",
+      "page": 57,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "Oh, hi guys! Actually, I unplugged both of them."
+      }
+    },
+    {
+      "evidence_id": "p57_b04",
+      "node_id": "world02_mission_016_node_009",
+      "page": 57,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo and Luli froze entirely. The kitchen was dead silent, save for the slurp of Nini's juice box."
+      }
+    },
+    {
+      "evidence_id": "p57_b05",
+      "node_id": "world02_mission_016_node_010",
+      "page": 57,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "speaker_label": "DILO & LULI",
+        "text": "WHAT?!"
+      }
+    },
+    {
+      "evidence_id": "p57_b06",
+      "node_id": "world02_mission_016_node_011",
+      "page": 57,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "(Smiling brightly and spinning) I needed to plug in my glitter-lava lamp. It was a visual emergency. The mood in the kitchen was completely dark and boring. It needed more pink for my new dance moves."
+      }
+    },
+    {
+      "evidence_id": "p58_b01",
+      "node_id": "world02_mission_016_node_012",
+      "page": 58,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "(Blinking, her highly logical brain stopping as she drops her marker) You... you took down the entire house's power and internet... for a mood and dance moves?"
+      }
+    },
+    {
+      "evidence_id": "p58_b02",
+      "node_id": "world02_mission_016_node_013",
+      "page": 58,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi walked in, holding a piece of paper with a large number drawn on it. She stopped, put her hands on her hips, and named her feelings out loud so the kids could hear how she handles big emotions."
+      }
+    },
+    {
+      "evidence_id": "p58_b03",
+      "node_id": "world02_mission_016_node_014",
+      "page": 58,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "I am feeling a massive spike of stress right now. My heart is beating fast. I am taking a deep breath so I don't yell. (She breathes deeply). Freeze. Stop yelling. Look at this number on the floor. Dilo, what do you see?"
+      }
+    },
+    {
+      "evidence_id": "p58_b04",
+      "node_id": "world02_mission_016_node_015",
+      "page": 58,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "It's a six. Obviously. Are we doing math now? Is this a punishment for the yogurt?"
+      }
+    },
+    {
+      "evidence_id": "p59_b01",
+      "node_id": "world02_mission_016_node_016",
+      "page": 59,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Luli, walk to Dilo's side. Look down. Now what do you see?"
+      }
+    },
+    {
+      "evidence_id": "p59_b02",
+      "node_id": "world02_mission_016_node_017",
+      "page": 59,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "It's... a six. But from over there, it was a nine."
+      }
+    },
+    {
+      "evidence_id": "p59_b03",
+      "node_id": "world02_mission_016_node_018",
+      "page": 59,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Exactly. Dilo saw a black cord (the Router). Luli saw a grey cord (the Kettle). The cords were twisted together behind the microwave. From your angle, you were right. From her angle, she was right. But you were both wrong about what the other person meant to do, and you were both wrong about who actually did it. You both assumed the other was being mean on purpose."
+      }
+    },
+    {
+      "evidence_id": "p59_b04",
+      "node_id": "world02_mission_016_node_019",
+      "page": 59,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio popped out from under the kitchen table, where he had been quietly drawing a highly detailed map of the kitchen's wires on a napkin."
+      }
+    },
+    {
+      "evidence_id": "p60_b01",
+      "node_id": "world02_mission_016_node_020",
+      "page": 60,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Looking at my map, the way those plugs are squished behind the microwave is a fire hazard anyway. Nini actually saved us from a potential spark! She is a hero!"
+      }
+    },
+    {
+      "evidence_id": "p60_b02",
+      "node_id": "world02_mission_016_node_021",
+      "page": 60,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "(Looking at the tangled spaghetti mess of cords) Oh. It was... the blender cord? Which is black AND grey? So we screamed for 10 minutes, and we were both completely wrong?"
+      }
+    },
+    {
+      "evidence_id": "p60_b03",
+      "node_id": "world02_mission_016_node_022",
+      "page": 60,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "It appears we had the wrong clues. We literally fought to protect machines we didn't even touch. I need to fix my whiteboard map."
+      }
+    },
+    {
+      "evidence_id": "p60_b04",
+      "node_id": "world02_mission_016_node_023",
+      "page": 60,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Technically, the blender is innocent. I guess... Sorry for calling you a sneaky ruiner. I overreacted like a rookie."
+      }
+    },
+    {
+      "evidence_id": "p61_b01",
+      "node_id": "world02_mission_016_node_024",
+      "page": 61,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "Sorry for calling you crazy. Even normally speaking, you usually are, though."
+      }
+    },
+    {
+      "evidence_id": "p61_b02",
+      "node_id": "world02_mission_016_node_025",
+      "page": 61,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi smiled. 'Swap Goggles successful. Crisis avoided.' The Dream Team was starting to communicate. But while Dilo and Luli were arguing out loud, Alio was fighting a silent, terrifying battle hiding right under their feet..."
+      }
+    },
+    {
+      "evidence_id": "p62_b01",
+      "node_id": "world02_mission_016_node_026",
+      "page": 62,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 046",
+        "heading": "THE BRAIN SECRET (Theory of Mind)",
+        "science_label": "The Science:",
+        "science": "'Theory of Mind' is the ability to understand that other people have different information, thoughts, and feelings than you. Kids (and angry adults) often forget this. They think: 'If I see a 6, everyone sees a 6. If they say 9, they are lying!'",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo saw a black cord from his angle. Luli saw a grey one. They didn't have the same data, but they both thought the other was lying."
+      }
+    },
+    {
+      "evidence_id": "p62_b02",
+      "node_id": "world02_mission_016_node_027",
+      "page": 62,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 047",
+        "heading": "THE TOOL ('The Swap-Goggles')",
+        "science_label": "The Science:",
+        "science": "You cannot solve a fight from your own shoes. You must physically or mentally move your position to see their data.",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi physically moved Luli to Dilo's side of the paper.\n\nStep 1: Stop talking.\n\nStep 2: Ask 'What does it look like from YOUR side?'\n\nStep 3: Listen like a detective, not a lawyer."
+      }
+    },
+    {
+      "evidence_id": "p62_b03",
+      "node_id": "world02_mission_016_node_028",
+      "page": 62,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 048",
+        "heading": "THE GLITCH ('You did it on purpose!')",
+        "science_label": "The Science:",
+        "science": "'Hostile Attribution Bias'. We have a glitch where we assume accidents are actually attacks.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo assumed Luli unplugged his game on purpose as revenge for the yogurt.",
+        "correction_label": "Correction:",
+        "correction": "Assume positive intent (or at least, neutral intent). Most people aren't plotting against you; they are just trying to plug in a toaster."
+      }
+    },
+    {
+      "evidence_id": "p62_b04",
+      "node_id": "world02_mission_016_node_029",
+      "page": 62,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo and Luli were 100% sure they were right, but they were both wrong because Nini did it!",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Have you ever had a fight with a friend or sibling where you both thought you were right? What happened when you found out the whole truth?"
+      }
+    },
+    {
+      "evidence_id": "p63_b01",
+      "node_id": "world02_mission_016_node_030",
+      "page": 63,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi used a drawing of a 6 (and 9) to force them to change their perspective.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "The next time you disagree with your family, use the phrase: 'I see a 6. What do you see?' This is the secret code to stop fighting and start comparing data like scientists!"
+      }
+    },
+    {
+      "evidence_id": "p63_b02",
+      "node_id": "world02_mission_016_node_031",
+      "page": 63,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Did you know that \"Theory of Mind\" is a skill that develops slowly over years? A 3-year-old physically cannot understand that you don't know what they are thinking. By the time you are 8, your brain is getting good at it, but when the Amygdala (Lizard Brain) takes over during a fight, that advanced skill shuts down completely! You temporarily lose the ability to see things from another perspective until you calm down."
+      }
+    },
+    {
+      "evidence_id": "p63_b03",
+      "node_id": "world02_mission_016_node_032",
+      "page": 63,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“SWAP GOGGLES”",
+        "meaning_label": "MEANING:",
+        "meaning": "We are looking at the exact same situation but seeing two completely different things. We are about to start a massive fight.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "We are stuck. Stop shouting. Switch physical places or describe exactly what you see. We are missing data.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Who started this? Stop yelling immediately!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'Freeze! Swap Goggles. What does this look like from your side?'"
+      }
+    }
+  ]
+}
