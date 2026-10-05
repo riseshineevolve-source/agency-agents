@@ -62,9 +62,22 @@ Every retained/rebuilt game must pass:
 | 20 | LINIA BEZ SŁÓW | TEAM | KEEP, strengthen 2-person form |
 | 21 | SZYFR W OBIEGU | WORD + IMPRO | REDESIGN -> BEZ „TAK” I „NIE” |
 | 22 | KALAMBURY NA OPAK | LAUGHTER | KEEP |
-| 23 | ZAMIANA MIEJSC | WORD + IMPRO / LAUGHTER | REDESIGN -> ALIBI W 30 SEKUND |
+| 23 | ZAMIANA MIEJSC | WORD + IMPRO | REDESIGN -> NA SZCZĘŚCIE / NIESTETY |
 | 24 | ŚPIEWAMY RAZEM | OTHER / RITUAL | KEEP, preserve non-singer option |
 
 ## Expected portfolio after upgrade
 
 The final set intentionally has a strong WORD + IMPRO layer, a robust TEAM layer and fewer generic coordination loops. Physical comedy remains optional and age-safe rather than preschool-coded.
+
+## Final V03 outcome
+
+- D04 -> **TO SAMO ZDANIE, INNA HISTORIA**
+- D07 -> gesture-telephone form of **REAKCJA ŁAŃCUCHOWA**
+- D11 -> **CO TU SIĘ WYDARZYŁO?**
+- D13 -> **EKSPERT NA POCZEKANIU**
+- D19 -> **CO SIĘ ZMIENIŁO?**
+- D21 -> **BEZ „TAK” I „NIE”**
+- D23 -> **NA SZCZĘŚCIE / NIESTETY** after final deduplication against D11
+- D09 retains Human Knot only with explicit touch opt-in plus a no-touch fallback.
+
+Every final game has explicit START and explicit two-person handling. The four-family portfolio remains intentionally overlapping rather than artificially equal-counted.
