@@ -29,3 +29,21 @@ None identified in V02 baseline.
 
 ## KEEP
 All V02 segments not explicitly reopened above remain KEEP by approval inheritance.
+
+## FINAL RESOLUTION STATUS
+
+Status: **ALL IDENTIFIED MATERIAL FIX/REDESIGN ITEMS CLOSED**
+
+Closed in V03:
+- all 24 GRAMY instructions restructured for scan clarity;
+- all 24 games now have explicit START and two-person handling;
+- D04/D07/D11/D13/D19/D21/D23 materially redesigned;
+- D23 final version changed again from ALIBI to **NA SZCZĘŚCIE / NIESTETY** to remove duplication with D11 and avoid excuse/alibi framing before sincere apology;
+- D09 now has explicit touch opt-in plus a no-touch fallback;
+- all 24 ZWOLNIJ contain one practical **NA JUTRO** reuse cue;
+- gendered/unnatural toolbox phrasing found in final pass was corrected;
+- D16 family-plan comment replaced with a concrete family-scale example;
+- D19 home example/comment rebuilt around an old favorite tracksuit rather than arbitrary "worst socks";
+- forced-joke comments were reviewed under KEEP/FIX and only materially weaker lines were changed.
+
+No BLOCK item remains. Owner gates remain title, recurring-label freeze, content approval, real-template/print proof and release authorization.
