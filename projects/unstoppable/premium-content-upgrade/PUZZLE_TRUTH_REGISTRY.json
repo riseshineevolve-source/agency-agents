@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "entries": [
+    {
+      "segment_id": "D01.GLITCH_PUZZLE",
+      "title": "The Mirror Code",
+      "prompt_cipher": ".em ot srettam tahw esoohc nac I",
+      "answer": "I can choose what matters to me.",
+      "status": "PASS",
+      "candidate_blob": "ff779b6491093e3109c58b8b617160b1e7c83a96"
+    },
+    {
+      "segment_id": "D02.GLITCH_PUZZLE",
+      "title": "The Binary Turn Code",
+      "start": "North",
+      "rules": {
+        "0": "turn left 90 degrees",
+        "1": "turn right 90 degrees"
+      },
+      "code": "1-0-1-1-0-1",
+      "answer": "South",
+      "status": "PASS",
+      "candidate_blob": "ff779b6491093e3109c58b8b617160b1e7c83a96"
+    }
+  ]
+}
