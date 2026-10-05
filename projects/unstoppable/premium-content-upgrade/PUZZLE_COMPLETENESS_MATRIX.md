@@ -1,7 +1,7 @@
-# Puzzle Completeness Matrix — Current Master V6
+# Puzzle Completeness Matrix — Current Master V7
 
-Candidate master: `WORKING_MASTER_V6_OPENING_D01_D02_PREMIUM.txt`
-Candidate blob: `ff779b6491093e3109c58b8b617160b1e7c83a96`
+Candidate master: `WORKING_MASTER_V7_D03_D04_PREMIUM.txt`
+Candidate blob: `34012afd7a66236846f33a003bac7a3043aed30b`
 
 Legend:
 - **PASS** = self-contained in text; answer/no-answer truth can be locked.
@@ -14,8 +14,8 @@ Legend:
 |---:|---|---|---|
 | 1 | Mirror Code | PASS | Answer locked: "I can choose what matters to me." |
 | 2 | Binary Turn Code | PASS | Answer locked: South |
-| 3 | Emoji Decoder | FIX | Lock acceptable answers / allow reasonable synonyms |
-| 4 | Friendship Logic | BLOCK-TEXT | Add hobby options + enough clues for a unique solution |
+| 3 | Emoji Decoder | PASS | Answers + reasonable synonyms locked in truth registry |
+| 4 | Friendship Logic | PASS | Unique mapping locked: Alex=Chess, Ben=Running, Casey=Painting, Dana=Coding |
 | 5 | Spot the Difference | BLOCK-ASSET | Two intentional shield images + exact 7-difference truth |
 | 6 | Code Breaker | FIX | Lock answer key for both multiple-choice items |
 | 7 | Unplugged Maze | BLOCK-ASSET | Actual maze with one valid route |
