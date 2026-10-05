@@ -1303,3 +1303,10 @@ Core law:
 
 Operational agent:
 `specialized/rse-book-production-agent.md`.
+
+
+## Growth Operating System owner override — 2026-10-05
+
+Canonical growth strategy: `orchestration/strategy/RSE_GROWTH_OPERATING_SYSTEM_2026_Q4.md`. Current doctrine is **REVENUE ASAP / FINISH -> PUBLISH -> SELL -> LEARN -> SCALE**. Near-term safe Central order is Detective Academy EN release closure -> Optical Animals -> Gentle Steps Advent app -> Project Unstoppable BOOK FIRST -> bounded growth enablement when higher-priority lanes are genuinely owner/external blocked. Product truth and current project repos override commercial briefs.
+
+One-writer-per-surface is mandatory. While dedicated execution owners are active for Detective Academy, Optical Animals, Gentle Steps, Project Unstoppable, Marketing or other delegated lanes, Central is read/sync-only on those product surfaces and may write only central Brain/Decision/checkpoint state plus genuinely unowned support work. New vendors/tools/agents must pass the Growth OS adoption gate; owner approval remains mandatory for freeze, publication, production deploy, paid activation, spend, secrets/signing, legal/device and owner-controlled visual gates.
