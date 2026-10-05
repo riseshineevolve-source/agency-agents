@@ -1,0 +1,50 @@
+{
+  "schema": "rse-premium-content-change-manifest-v1",
+  "baseline_git_blob": "8685f8e561d0bfb3837445b72b4d6f799a9a48f2",
+  "candidate_git_blob": "1cdb1f79a420092fe60acc05c623a9d7c0540141",
+  "allowed_changed_segments": [
+    "FRONT.SQUAD",
+    "ACT.01",
+    "ACT.02",
+    "ACT.03",
+    "ACT.04",
+    "CASE.10.CHAT",
+    "CASE.14.CHAT",
+    "CASE.15.CHAT",
+    "CASE.23.CHAT",
+    "CASE.25.CHAT",
+    "CASE.29.CHAT",
+    "CASE.30.CHAT",
+    "FINALE.ROOM_ZERO"
+  ],
+  "protected_regions": [
+    "case titles",
+    "objectives",
+    "investigation rules",
+    "verdict/response mechanics",
+    "Hint Vault Levels 1–3",
+    "Solution Files",
+    "puzzle truth",
+    "Room Zero answer chain",
+    "Archive File 001 stinger"
+  ],
+  "lock_checks": {
+    "case_count": 30,
+    "titles_unchanged": true,
+    "objectives_unchanged": true,
+    "rules_unchanged": true,
+    "verdicts_unchanged": true,
+    "hint_vault_unchanged": true,
+    "solution_files_unchanged": true,
+    "anchors": {
+      "sequence": true,
+      "case21": true,
+      "case26": true,
+      "rule_zero": true,
+      "case29": true,
+      "bibi_author": true,
+      "archive001": true
+    }
+  },
+  "status": "PASS"
+}
