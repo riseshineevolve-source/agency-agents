@@ -414,25 +414,36 @@ Nie mówcie odpowiedzi na głos. Zróbcie jeden zwykły oddech i wróćcie do re
 **NA JUTRO:** Gdy w głowie znowu zacznie lecieć ta sama pomyłka, rozmowa albo zmartwienie, zrób szybkie: trzy kolory, dwa dźwięki, jeden punkt kontaktu.
 Nini: Trzy kolory, dwa dźwięki, jedna podłoga. Wreszcie lista, którą da się skończyć.
 
-### GRAMY: ROZPLĄCZCIE TO
+### GRAMY: PLAN B: 60 SEKUND
 
-**START:** Stańcie blisko siebie w kółku. Ta wersja działa tylko wtedy, gdy wszystkim odpowiada trzymanie się za ręce. Jeśli nie, od razu wybierzcie wersję **BEZ DOTYKU** poniżej.
+**START:** Usiądźcie albo stańcie razem. Zaczyna osoba, która dziś jako ostatnia wróciła do domu. Czyta pierwszą sytuację.
 
-**GRAMY:** Każdy wyciąga ręce do środka i chwyta dłonie dwóch różnych osób. Nie łapcie obu dłoni tej samej osoby. Przy pięciu osobach lub więcej postarajcie się nie wybierać sąsiadów. Przy czterech sąsiad może być potrzebny.
+Nie musicie włączać stopera. „60 sekund” znaczy po prostu: szybki plan, bez narady na pół wieczoru.
 
-Teraz spróbujcie rozplątać układ bez puszczania rąk. Możecie przechodzić pod rękami, obracać się i zmieniać ustawienie.
+**ZASADA:** Idziecie po kolei. Każda osoba dodaje dokładnie jeden konkretny krok do wspólnego planu.
 
-Na końcu może powstać jedno koło albo dwa mniejsze. Oba wyniki są w porządku.
+Nie wolno kasować pomysłu poprzedniej osoby. Można go ulepszyć albo dopisać następny krok.
 
-**RESET:** Jeśli naprawdę utkniecie, jedna para może na moment puścić dłonie, przejść w wygodniejsze miejsce i złapać się ponownie. Jeśli coś boli albo robi się niewygodnie, przerywacie od razu.
+Zanim skończycie, każdy ma dostać jedną sensowną rolę. Nikt nie może dostać roli „zrób wszystko”.
 
-**MNIEJSZA GRUPA:** W trzy osoby każda osoba łapie po jednej dłoni obu pozostałych i wspólnie próbujecie się odkręcić.
+**RUNDA 1:** Za pięć minut trzeba wyjść z domu. Zniknęła jedna rękawiczka, bidon jest pusty, klucze są „na pewno gdzieś tutaj”, a pies siedzi przy drzwiach ze smyczą i patrzy bardzo znacząco.
 
-**BEZ DOTYKU:** Bez mówienia ustawcie się najpierw alfabetycznie według imion, a potem według miesiąca urodzin, od stycznia do grudnia. Możecie pokazywać, liczyć na palcach i gestykulować. Nie ścigacie się. W dwie osoby bez słów ustalcie, kto powinien stanąć pierwszy, a dopiero potem sprawdźcie odpowiedź.
+Zbudujcie plan po jednym kroku na osobę.
 
-**W DWIE OSOBY:** Jeśli obojgu odpowiada dotyk, skrzyżujcie ręce, złapcie się za dłonie i spróbujcie powoli się odkręcić. Kontakt wzrokowy może być dodatkowym utrudnieniem, nigdy obowiązkiem.
+Na końcu odpowiedzcie tylko:
+„Czy tym planem naprawdę wyszlibyśmy z domu?”
 
-Mimi: Jeśli po chwili nie wiecie, która ręka jest czyja, wszystko idzie zgodnie z planem.
+Jeśli nie, macie jedną szybką poprawkę: każda osoba może zmienić lub dopisać po jednym szczególe.
+
+**RUNDA 2:** Jest wieczór. Kolacja prawie gotowa, pralka właśnie skończyła, ktoś szuka ładowarki, a dopiero teraz przypomniało się, że na jutro trzeba przygotować jedną rzecz do szkoły albo pracy.
+
+Znowu układacie jeden wspólny plan, krok po kroku.
+
+**FINAŁ:** Wymyślcie własny rodzinny „klasyk”, ale lekki i nieszkodliwy. Taki moment, w którym nagle cztery rzeczy chcą wydarzyć się naraz. Macie jedną rundę, żeby zrobić z tego Plan B.
+
+**W DWIE OSOBY:** Gracie dokładnie tak samo. Każda osoba dostaje po dwa ruchy w każdej rundzie, ale nadal nie wolno kasować pomysłu drugiej osoby.
+
+Dilo: Plan B nie musi być elegancki. Ma zadziałać, zanim ktoś znajdzie Plan C.
 
 ### MIĘDZY NAMI: CO DZIŚ URATOWAŁO DZIEŃ?
 
