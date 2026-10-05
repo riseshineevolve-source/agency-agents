@@ -1,0 +1,35 @@
+{
+  "slice_id": "SLICE_005_D22_D30_REMAINING_SOURCE_CONVERGENCE",
+  "base_master": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V4_CONVERGED_D16_D17.txt",
+  "base_master_git_blob": "5f05a859c1090f35b5e7966f0300fe2b5c178e56",
+  "allowed_changed_segments": [
+    "D22.WORKBENCH",
+    "D22.GLITCH_PUZZLE",
+    "D23.INTRO",
+    "D24.BRIEFING",
+    "D26.INTRO",
+    "D26.BRIEFING",
+    "D26.SYSTEM_REBOOT",
+    "D26.GLITCH_PUZZLE",
+    "D29.INTRO",
+    "D29.SYSTEM_REBOOT",
+    "D29.GLITCH_PUZZLE",
+    "D30.INTRO",
+    "D30.BRIEFING",
+    "D30.GLITCH_PUZZLE"
+  ],
+  "protected_regions": [
+    "ALL_DAILY_QUOTE_TAILS",
+    "D28.*",
+    "ALL_OTHER_SEGMENTS"
+  ],
+  "expected_dependency_closure": {
+    "validate_only": [
+      "BACK.FIRST_AID_KIT",
+      "ISSUE-LATE-REFLECTION-LOAD",
+      "ISSUE-INCLUSIVITY-CONSENT"
+    ]
+  },
+  "source_of_change": "riseshineevolve-source/unstoppable-me@b447bce6d2ba00fb24a983dc94e59a6df74b153c",
+  "reason": "finish documented reviewed source convergence before any new creative rewrite; Days 28 quote-only delta was already closed in global quote slice"
+}
