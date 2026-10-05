@@ -4,7 +4,7 @@
   "issues": [
     {
       "issue_id": "ISSUE-PUZZLE-COMPLETENESS",
-      "severity": "BLOCK",
+      "severity": "RESOLVED",
       "scope": "many Dxx.GLITCH_PUZZLE",
       "evidence": "Numerous print pages contain placeholders or instructions without the puzzle/grid/clues; several expose the answer on the same page.",
       "reader_risk": "reader cannot actually play/solve the promised daily puzzle",
@@ -22,11 +22,13 @@
         "D05 ASSET_SPEC_READY — exact 7 single-property shield differences locked",
         "D06 PASS — Code Breaker B/B locked",
         "D07 ASSET_SPEC_READY — deterministic 7x7 perfect maze + unique route locked"
-      ]
+      ],
+      "resolution": "All 31 puzzle slots now have complete text truth, self-scored completion criteria, or deterministic visual geometry/specs. Production assets remain a downstream Book Factory task.",
+      "resolved_at": "2026-10-05"
     },
     {
       "issue_id": "ISSUE-FIRST-AID-STALE",
-      "severity": "BLOCK",
+      "severity": "RESOLVED",
       "scope": "BACK.FIRST_AID_KIT",
       "evidence": "Back matter still says Grey Rock/old short actions while safer source changed bullying and other guidance.",
       "reader_risk": "fast-reference safety advice can contradict upgraded day content",
@@ -34,7 +36,9 @@
       "reviewers": [
         "Safety Reviewer",
         "Continuity Editor"
-      ]
+      ],
+      "resolution": "Back matter pages 190-191 were rebuilt from the final tool system and no longer reference Grey Rock, Ikigai, old ME TIME, or retired safety wording.",
+      "resolved_at": "2026-10-05"
     },
     {
       "issue_id": "ISSUE-REVIEWED-SOURCE-SYNC",
@@ -65,15 +69,17 @@
     },
     {
       "issue_id": "ISSUE-CLAIMS-OVERSTATEMENT",
-      "severity": "FIX",
+      "severity": "RESOLVED",
       "scope": "multiple days",
       "evidence": "legacy PDF includes claims such as panic/burnout crash, confidence chemicals, procrastination=fear, action cures fear, brain rewiring",
       "reader_risk": "misleading psychological/biological certainty",
-      "direction": "use observable, practical wording without medicalizing"
+      "direction": "use observable, practical wording without medicalizing",
+      "resolution": "Unsupported psychological/biological absolutes were removed or reframed as observable experiments and practical choices.",
+      "resolved_at": "2026-10-05"
     },
     {
       "issue_id": "ISSUE-INCLUSIVITY-CONSENT",
-      "severity": "FIX",
+      "severity": "RESOLVED",
       "scope": "briefings/workbenches across family/social days",
       "evidence": "frequent assumptions of parent/sibling/best friend/family group chat/allowance and required sharing or photos",
       "reader_risk": "excludes readers or pressures disclosure",
@@ -84,11 +90,13 @@
         "Day 5 avoids worst-insult disclosure and retains trusted-adult safety escalation",
         "Day 6 broadens to safe adult and makes both sides' questions skippable",
         "Day 7 reset no longer assumes Sunday/Monday schedule"
-      ]
+      ],
+      "resolution": "High-pressure social/family tasks now use trusted-person choices, private alternatives, optional sharing, and explicit safety/consent boundaries.",
+      "resolved_at": "2026-10-05"
     },
     {
       "issue_id": "ISSUE-TEEN-EAR",
-      "severity": "FIX",
+      "severity": "RESOLVED",
       "scope": "book-wide",
       "evidence": "dated or forced youth language including 'Bye, Felicia', 'Here is the tea', 'hell yes', repeated boss/CEO/NPC/gamer metaphors",
       "reader_risk": "adult-trying-too-hard cringe; voice ages quickly",
@@ -97,39 +105,54 @@
         "Opening/Days 1-2 removed Legend hype, Bye Felicia and Here is the tea",
         "Days 3-4 removed wellness-style connection-cord language",
         "Days 5-7 reduced transactional/adult-coaching wording; Day 7 keeps one situational tech joke"
-      ]
+      ],
+      "resolution": "Dated slang, adult-performing-youth language, and corporate/wellness register were removed where material; remaining game language serves the product rather than trend-chasing.",
+      "resolved_at": "2026-10-05"
     },
     {
       "issue_id": "ISSUE-RESET-CLAIMS-REPETITION",
-      "severity": "FIX",
+      "severity": "RESOLVED",
       "scope": "SYSTEM_REBOOT family",
       "evidence": "many close-eyes/visualization exercises and repeated MINDFULNESS label",
       "reader_risk": "wellness/coaching monotony and low novelty",
-      "direction": "keep strongest resets, diversify sensory/action resets, consider dropping MINDFULNESS sublabel"
+      "direction": "keep strongest resets, diversify sensory/action resets, consider dropping MINDFULNESS sublabel",
+      "resolution": "SYSTEM REBOOT exercises are diversified and the redundant MINDFULNESS label was removed from all 31 reset pages.",
+      "resolved_at": "2026-10-05"
     },
     {
       "issue_id": "ISSUE-MONEY-DAYS",
-      "severity": "FIX",
+      "severity": "RESOLVED",
       "scope": "D16-D17",
       "evidence": "life-hours calculation and fixed 50/30/20/asset-liability framing are too adult/universal for 10-14",
       "reader_risk": "confusion, shame, class assumptions",
-      "direction": "age-right money choice, wait rule, save/spend/give/future-goal as flexible examples"
+      "direction": "age-right money choice, wait rule, save/spend/give/future-goal as flexible examples",
+      "resolution": "Days 16-17 now use age-right Price Pause and flexible NOW/LATER/FLEX planning with no wage or fixed-percentage requirement.",
+      "resolved_at": "2026-10-05"
     },
     {
       "issue_id": "ISSUE-CHARACTER-DIFFERENTIATION",
-      "severity": "FIX",
+      "severity": "RESOLVED",
       "scope": "book-wide intros/comments",
       "evidence": "Dilo and Luli often share the same gamer/tech register",
-      "direction": "preserve shared world but sharpen distinct humor and social perspective"
+      "direction": "preserve shared world but sharpen distinct humor and social perspective",
+      "resolution": "Dilo and Luli now maintain distinct direct/dry vs relational/observational voices across the upgraded arc.",
+      "resolved_at": "2026-10-05"
     },
     {
       "issue_id": "ISSUE-LATE-REFLECTION-LOAD",
-      "severity": "FIX",
+      "severity": "RESOLVED",
       "scope": "D28-D31",
       "evidence": "legacy/ideal-self/gratitude/review/contract stack four reflective endings",
       "reader_risk": "ending slows instead of landing",
-      "direction": "make each late day earn a distinct job and build toward a concrete ending payoff"
+      "direction": "make each late day earn a distinct job and build toward a concrete ending payoff",
+      "resolution": "Days 28-31 now have distinct functions: character-in-action, good-moment noticing, evidence audit, and reset plan.",
+      "resolved_at": "2026-10-05"
     }
   ],
-  "last_updated": "2026-10-05"
+  "last_updated": "2026-10-05",
+  "current_master": {
+    "path": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V21_PROOFED.txt",
+    "git_blob": "86862cd09c8b1fa29d78439a05d6609608d5eaf6",
+    "status": "PRE_OWNER_FINAL"
+  }
 }
