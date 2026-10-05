@@ -6,11 +6,17 @@ Status: **PASS FOR OWNER_READ_CANDIDATE / NOT CONTENT-FROZEN / NOT PRINT-READY**
 
 ## Exact content identity
 
+Owner-read candidate:
+`localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_2026-10-05.md`
+
+Owner-read candidate Git blob:
+`de78cedd27fdfffe18f4a92a02f03a1187d7d16c`
+
 Working master:
 `localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md`
 
 Working master Git blob before owner-read status promotion:
-`79e5115e66990a2358d21bb4c9601327fb30a4bd`
+`de78cedd27fdfffe18f4a92a02f03a1187d7d16c`
 
 Frozen V02 baseline:
 `711543f74f50cb5f3c04665fd3656165de629e4f`
