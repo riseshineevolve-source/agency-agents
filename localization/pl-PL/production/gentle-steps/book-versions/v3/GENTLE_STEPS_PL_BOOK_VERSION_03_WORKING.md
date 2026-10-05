@@ -1195,21 +1195,49 @@ Na koniec pomyślcie o jednej osobie albo rodzinie poza tym pokojem, której chc
 **NA JUTRO:** Gdy kolejny dzień będzie już za tobą, a głowa nadal będzie go poprawiać, daj sobie minutę bez planowania i nadrabiania.
 Mimi: Jeszcze jedna minuta. Reszta naprawdę może chwilę poczekać.
 
-### GRAMY: ŚPIEWAMY RAZEM
+### GRAMY: CZTERY MINUTY. CZTERY MISJE.
 
-**START:** Stańcie albo usiądźcie blisko siebie. Wybierzcie jedną kolędę, piosenkę świąteczną albo zimową, którą wszyscy mniej więcej znają.
+**START:** To finał. Macie cztery krótkie misje, mniej więcej po minucie każda. Zero punktów. Kończycie dopiero wtedy, kiedy zrobicie wszystkie razem.
 
-**GRAMY:** Zaczyna osoba, która ma na sobie najbardziej świąteczny kolor. Śpiewa pierwszą linijkę, a pozostali dołączają.
+**MISJA 1 — ZGRAJCIE SIĘ**
 
-Nie trzeba śpiewać całego utworu. Wystarczy jedna zwrotka i refren albo fragment, który naprawdę znacie.
+Usiądźcie albo stańcie tak, żeby się widzieć. Wszyscy kładą dłonie na kolanach albo opuszczają je luźno wzdłuż ciała.
 
-Kto nie ma ochoty śpiewać, może nucić, wybijać rytm albo po prostu słuchać. To jest pełnoprawny udział.
+Bez wybierania prowadzącego spróbujcie jednocześnie unieść ręce, opuścić je i zatrzymać się w tym samym momencie.
 
-**FINAŁ:** Jeśli macie ochotę, zaśpiewajcie refren jeszcze raz, tym razem trochę ciszej.
+Zróbcie trzy próby. Przy trzeciej nikt nie liczy na głos.
 
-**W DWIE OSOBY:** Zasady są dokładnie takie same.
+**MISJA 2 — TYLKO PYTANIA: FINAŁ**
 
-Dilo: Czystość dźwięku nie podlega ocenie. Na szczęście.
+Przez 30 sekund gracie jedną scenkę:
+
+„Stoicie już przy drzwiach i ktoś właśnie mówi: «Chwila. Gdzie są prezenty?»”
+
+Każda wypowiedź musi być pytaniem. Jeśli komuś wymknie się zwykłe zdanie, nie zaczynacie od początku. Gracie dalej.
+
+**MISJA 3 — NA SZCZĘŚCIE / NIESTETY: EXPRESS**
+
+Pierwsza osoba zaczyna:
+
+„Myśleliśmy, że wszystko jest już gotowe do świąt…”
+
+Kolejna dodaje jedno zdanie zaczynające się od „Na szczęście…”, następna od „Niestety…”. Idziecie dalej na zmianę, aż każdy dorzuci jedno zdanie.
+
+**MISJA 4 — NIEWIDZIALNA PIŁKA: POWRÓT**
+
+Wraca piłka z pierwszego dnia.
+
+Pierwsza osoba „rzuca” ją do kogoś tak, żeby było widać jedną cechę piłki: może być ciężka, lekka, ogromna, maleńka, gorąca albo zupełnie dziwna. Niczego nie tłumaczy.
+
+Osoba łapiąca reaguje, zmienia jedną cechę piłki i przekazuje ją dalej. Piłka ma odwiedzić każdego dokładnie raz.
+
+Ostatnia osoba nie rzuca już do jednej osoby. Mówi „trzy, dwa, jeden” i wyrzuca niewidzialną piłkę w środek. Wszyscy łapiecie ją razem. Bez skakania i bez zawodów o refleks.
+
+**W DWIE OSOBY:** Misje 1, 2 i 4 gracie bez zmian. W Misji 3 zróbcie łącznie sześć zdań, na zmianę „Na szczęście…” i „Niestety…”.
+
+**ENCORE, JEŚLI MACIE OCHOTĘ:** Wybierzcie jeden refren kolędy, piosenki świątecznej albo zimowej. Można śpiewać, nucić, wybijać rytm albo tylko słuchać. To dodatek, nie piąta misja.
+
+Dilo: Cztery misje. Zero punktów. System odnotowuje: finał zaliczony.
 
 ### MIĘDZY NAMI: CO ZOSTAJE Z TYCH 24 DNI?
 
