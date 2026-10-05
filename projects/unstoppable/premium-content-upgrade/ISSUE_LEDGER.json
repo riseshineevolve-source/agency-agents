@@ -39,11 +39,13 @@
     },
     {
       "issue_id": "ISSUE-QUOTE-SYSTEM",
-      "severity": "FIX",
-      "scope": "all daily intros",
+      "severity": "RESOLVED",
+      "scope": "all 31 daily intro quote slots",
       "evidence": "Eight reviewed celebrity lines were already replaced; 21 named attributions plus two Unknown items still lack publication-grade closure in durable state.",
       "reader_risk": "factual/copyright/provenance risk and tone inconsistency",
-      "direction": "verify strong sources or replace with original Project Unstoppable lines; prefer original copy where proof is weak"
+      "direction": "verify strong sources or replace with original Project Unstoppable lines; prefer original copy where proof is weak",
+      "resolution": "All daily quote slots use original Project Unstoppable copy from current revival source; book convergence passed Slice 002 regression.",
+      "resolved_at": "2026-10-05"
     },
     {
       "issue_id": "ISSUE-CLAIMS-OVERSTATEMENT",
