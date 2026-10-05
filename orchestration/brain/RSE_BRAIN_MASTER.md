@@ -1310,3 +1310,8 @@ Canonical strategy: `orchestration/strategy/RSE_GROWTH_OPERATING_SYSTEM_2026_Q4.
 
 Current operating doctrine: **REVENUE ASAP / FINISH -> PUBLISH -> SELL -> LEARN -> SCALE**. Release closure remains primary; when a higher-priority product is at a real owner/external gate, Central advances only the next revenue-safe product or bounded growth-enablement work. New tools/agents must pass the strategy adoption gate; extend existing RSE capability before adding duplicate stacks. One-writer-per-surface and owner approval for irreversible commercial/visual/legal gates remain mandatory.
 
+
+
+## Active execution ownership override — 2026-10-05
+
+Canonical execution authority is the latest owner directive plus `orchestration/brain/RSE_EXECUTION_CHAT_MAP.md` and current project handoffs. While dedicated writers are active, Central is **read/sync-only** on Detective Academy, Optical Animals, Gentle Steps, Project Unstoppable, Happy Me, Senior/Mind Bloom, Marketing and explicitly delegated World lanes. Central may write central Brain/Decision Ledger/checkpoints and genuinely unowned safe support lanes only. This override supersedes older prose that describes Central as the direct product writer for Detective or Optical.
