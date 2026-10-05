@@ -1,0 +1,1407 @@
+{
+  "schema_version": "1.0",
+  "entries": [
+    {
+      "segment_id": "D01.GLITCH_PUZZLE",
+      "title": "The Mirror Code",
+      "prompt_cipher": ".em ot srettam tahw esoohc nac I",
+      "answer": "I can choose what matters to me.",
+      "status": "PASS",
+      "candidate_blob": "ff779b6491093e3109c58b8b617160b1e7c83a96"
+    },
+    {
+      "segment_id": "D02.GLITCH_PUZZLE",
+      "title": "The Binary Turn Code",
+      "start": "North",
+      "rules": {
+        "0": "turn left 90 degrees",
+        "1": "turn right 90 degrees"
+      },
+      "code": "1-0-1-1-0-1",
+      "answer": "South",
+      "status": "PASS",
+      "candidate_blob": "ff779b6491093e3109c58b8b617160b1e7c83a96"
+    },
+    {
+      "segment_id": "D03.GLITCH_PUZZLE",
+      "title": "Emoji Decoder",
+      "answer_bank": [
+        "ANGER",
+        "SADNESS",
+        "NERVOUSNESS"
+      ],
+      "prompts": [
+        {
+          "prompt": "FIRE + FIST",
+          "answer": "ANGER",
+          "accepted_synonyms": [
+            "MAD",
+            "FRUSTRATION"
+          ]
+        },
+        {
+          "prompt": "RAIN + BED",
+          "answer": "SADNESS",
+          "accepted_synonyms": [
+            "SAD",
+            "LOW"
+          ]
+        },
+        {
+          "prompt": "BUTTERFLY + MIC",
+          "answer": "NERVOUSNESS",
+          "accepted_synonyms": [
+            "NERVOUS",
+            "ANXIETY",
+            "STAGE FRIGHT"
+          ]
+        }
+      ],
+      "status": "PASS",
+      "candidate_blob": "34012afd7a66236846f33a003bac7a3043aed30b"
+    },
+    {
+      "segment_id": "D04.GLITCH_PUZZLE",
+      "title": "Friendship Logic",
+      "hobbies": [
+        "CHESS",
+        "RUNNING",
+        "PAINTING",
+        "CODING"
+      ],
+      "clues": [
+        "Alex avoids computers.",
+        "Ben is always moving.",
+        "Casey carries a sketchbook everywhere.",
+        "Dana loves building things on a laptop."
+      ],
+      "answer": {
+        "Alex": "CHESS",
+        "Ben": "RUNNING",
+        "Casey": "PAINTING",
+        "Dana": "CODING"
+      },
+      "uniqueness": "unique by direct elimination",
+      "status": "PASS",
+      "candidate_blob": "34012afd7a66236846f33a003bac7a3043aed30b"
+    },
+    {
+      "segment_id": "D05.GLITCH_PUZZLE",
+      "title": "Spot the Difference",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D05_SHIELD_SPOT_DIFF_V1",
+      "exact_difference_count": 7,
+      "base_contract": "Two black-and-white shield drawings share identical outer size, position and all unlisted geometry. Every difference changes exactly one property in one local region.",
+      "differences": [
+        {
+          "id": 1,
+          "region": "top_center_emblem",
+          "A": "five-point star",
+          "B": "single lightning bolt"
+        },
+        {
+          "id": 2,
+          "region": "left_upper_stripe",
+          "A": "horizontal stripe",
+          "B": "diagonal stripe"
+        },
+        {
+          "id": 3,
+          "region": "left_edge_rivets",
+          "A": "3 rivets",
+          "B": "2 rivets"
+        },
+        {
+          "id": 4,
+          "region": "center_badge",
+          "A": "outline circle",
+          "B": "solid black circle"
+        },
+        {
+          "id": 5,
+          "region": "right_wing_panels",
+          "A": "4 panels",
+          "B": "3 panels"
+        },
+        {
+          "id": 6,
+          "region": "bottom_center_tab",
+          "A": "small V-notch present",
+          "B": "no notch"
+        },
+        {
+          "id": 7,
+          "region": "lower_dot",
+          "A": "dot on lower-left",
+          "B": "same dot on lower-right"
+        }
+      ],
+      "forbidden_drift": [
+        "no extra ornament changes",
+        "no line-thickness changes",
+        "no scale/position changes",
+        "no hidden micro-differences",
+        "no text"
+      ],
+      "candidate_blob": "d8bfc2234568372f398072952886cbf31c19fa45"
+    },
+    {
+      "segment_id": "D06.GLITCH_PUZZLE",
+      "title": "Code Breaker",
+      "status": "PASS",
+      "questions": [
+        {
+          "id": 1,
+          "correct_option": "B",
+          "answer": "Ask when you can talk about the reason"
+        },
+        {
+          "id": 2,
+          "correct_option": "B",
+          "answer": "Listen, then explain what is different now"
+        }
+      ],
+      "candidate_blob": "d8bfc2234568372f398072952886cbf31c19fa45"
+    },
+    {
+      "segment_id": "D07.GLITCH_PUZZLE",
+      "title": "The Unplugged Maze",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D07_UNPLUGGED_MAZE_V1",
+      "grid": {
+        "rows": 7,
+        "cols": 7,
+        "start": [
+          0,
+          0
+        ],
+        "goal": [
+          6,
+          6
+        ],
+        "start_icon": "BATTERY",
+        "goal_icon": "CHARGER"
+      },
+      "cell_openings": [
+        [
+          "E",
+          "SW",
+          "ES",
+          "EW",
+          "EW",
+          "ESW",
+          "SW"
+        ],
+        [
+          "ES",
+          "NW",
+          "NS",
+          "ES",
+          "EW",
+          "NW",
+          "NS"
+        ],
+        [
+          "NE",
+          "SW",
+          "N",
+          "NE",
+          "SW",
+          "ES",
+          "NW"
+        ],
+        [
+          "S",
+          "NE",
+          "EW",
+          "EW",
+          "NW",
+          "NS",
+          "S"
+        ],
+        [
+          "NES",
+          "EW",
+          "ESW",
+          "SW",
+          "S",
+          "NE",
+          "NSW"
+        ],
+        [
+          "NS",
+          "S",
+          "NS",
+          "NE",
+          "NW",
+          "ES",
+          "NW"
+        ],
+        [
+          "NE",
+          "NW",
+          "NE",
+          "EW",
+          "EW",
+          "NEW",
+          "W"
+        ]
+      ],
+      "solution_path": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          6,
+          6
+        ]
+      ],
+      "uniqueness": "perfect maze / tree geometry; exactly one path between any two cells",
+      "render_contract": "Render walls deterministically from cell openings; no generated geometry. Keep icons inside start/goal cells without covering openings.",
+      "candidate_blob": "d8bfc2234568372f398072952886cbf31c19fa45"
+    },
+    {
+      "segment_id": "D08.GLITCH_PUZZLE",
+      "title": "Memory Matrix",
+      "status": "PASS_SELF_SCORED",
+      "mechanic": "Reader creates 9 symbols, covers them, redraws from memory, then self-checks.",
+      "completion_condition": "Reader attempts recall and compares with the original; no fixed answer key exists.",
+      "truth_boundary": "The puzzle tests recall practice only; it does not diagnose memory ability.",
+      "candidate_blob": "a90b6c58d45ff0918b385c6569479fa02aade76f"
+    },
+    {
+      "segment_id": "D09.GLITCH_PUZZLE",
+      "title": "The Time Paradox",
+      "status": "PASS",
+      "correct_option": "A",
+      "answer": "5 minutes",
+      "explanation": "Each machine makes one widget in 5 minutes. With 100 machines working at the same time, each makes one widget, so 100 widgets still take 5 minutes.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D10.GLITCH_PUZZLE",
+      "title": "Five Pieces, One Square",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D10_FIVE_PIECE_SQUARE_V1",
+      "target_grid": {
+        "rows": 4,
+        "cols": 4
+      },
+      "canonical_solution_cells": {
+        "A": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        "C": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        "D": [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ]
+        ],
+        "E": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      },
+      "piece_sizes": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 4
+      },
+      "rules": [
+        "use every piece once",
+        "no overlaps",
+        "no gaps",
+        "rotation allowed",
+        "flip not required"
+      ],
+      "render_contract": "Show five separated black-outline polyomino pieces labeled A-E plus an empty 4x4 target square. Geometry must be rendered by code from the canonical cell sets.",
+      "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
+    },
+    {
+      "segment_id": "D11.GLITCH_PUZZLE",
+      "title": "Tower of Hanoi",
+      "status": "PASS",
+      "disk_count": 3,
+      "start_peg": "A",
+      "goal_peg": "C",
+      "auxiliary_peg": "B",
+      "minimum_moves": 7,
+      "canonical_solution": [
+        "A→C",
+        "A→B",
+        "C→B",
+        "A→C",
+        "B→A",
+        "B→C",
+        "A→C"
+      ],
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D12.GLITCH_PUZZLE",
+      "title": "Same Length?",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D12_MULLER_LYER_V1",
+      "answer": "C — the middle lines are the same length",
+      "geometry": {
+        "top_line": {
+          "x1": 100,
+          "y": 90,
+          "x2": 500
+        },
+        "bottom_line": {
+          "x1": 100,
+          "y": 210,
+          "x2": 500
+        },
+        "line_length": 400,
+        "top_arrowheads": "outward",
+        "bottom_arrowheads": "inward",
+        "arrow_arm_length": 45,
+        "arrow_angle_degrees": 35
+      },
+      "render_contract": "Black lines only on white. Both central shafts must be exactly equal length. Arrowheads must not change shaft endpoints.",
+      "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
+    },
+    {
+      "segment_id": "D13.GLITCH_PUZZLE",
+      "title": "Direction Interference",
+      "status": "PASS",
+      "prompts": [
+        {
+          "arrow": "R",
+          "word": "LEFT",
+          "answer": "R"
+        },
+        {
+          "arrow": "L",
+          "word": "RIGHT",
+          "answer": "L"
+        },
+        {
+          "arrow": "R",
+          "word": "RIGHT",
+          "answer": "R"
+        },
+        {
+          "arrow": "L",
+          "word": "LEFT",
+          "answer": "L"
+        },
+        {
+          "arrow": "R",
+          "word": "LEFT",
+          "answer": "R"
+        },
+        {
+          "arrow": "L",
+          "word": "LEFT",
+          "answer": "L"
+        },
+        {
+          "arrow": "L",
+          "word": "RIGHT",
+          "answer": "L"
+        },
+        {
+          "arrow": "R",
+          "word": "RIGHT",
+          "answer": "R"
+        },
+        {
+          "arrow": "L",
+          "word": "LEFT",
+          "answer": "L"
+        },
+        {
+          "arrow": "R",
+          "word": "RIGHT",
+          "answer": "R"
+        }
+      ],
+      "answer_sequence": "R L R L R L L R L R",
+      "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
+    },
+    {
+      "segment_id": "D14.GLITCH_PUZZLE",
+      "title": "Mini Sudoku 4 × 4",
+      "status": "PASS",
+      "rules": {
+        "digits": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "box_rows": 2,
+        "box_cols": 2
+      },
+      "puzzle": [
+        [
+          1,
+          0,
+          0,
+          4
+        ],
+        [
+          0,
+          4,
+          1,
+          0
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          0,
+          3,
+          2,
+          0
+        ]
+      ],
+      "solution": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          3,
+          4,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          4,
+          3
+        ],
+        [
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "uniqueness": "verified unique",
+      "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
+    },
+    {
+      "segment_id": "D15.GLITCH_PUZZLE",
+      "title": "Logic Riddle",
+      "status": "PASS",
+      "answer": "Echo",
+      "accepted_variants": [
+        "an echo",
+        "echo"
+      ],
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D16.GLITCH_PUZZLE",
+      "title": "The Missing Dollar",
+      "status": "PASS",
+      "answer": "There is no missing dollar.",
+      "explanation": "The $27 already equals $25 for the room plus $2 kept by the bellboy. Adding another $2 double-counts it. The correct reconciliation is $27 paid + $3 returned = $30.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D17.GLITCH_PUZZLE",
+      "title": "Coin Flip",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D17_COIN_TRIANGLE_V1",
+      "lattice": "triangular",
+      "start_points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          -2,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          -3,
+          3
+        ],
+        [
+          -1,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "moved_from": [
+        [
+          0,
+          0
+        ],
+        [
+          -3,
+          3
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "moved_to": [
+        [
+          0,
+          4
+        ],
+        [
+          -3,
+          1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "final_points": [
+        [
+          -3,
+          1
+        ],
+        [
+          -1,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          -2,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          -1,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "answer": "Move the top coin below the center of the bottom row; move the two bottom corner coins to the far left and far right of the second row.",
+      "render_contract": "Render 10 identical circles on a triangular lattice. Reader version shows start only; solution asset may ghost moved-from positions and arrows to moved-to positions.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D18.GLITCH_PUZZLE",
+      "title": "Word Search",
+      "status": "PASS",
+      "grid": [
+        "CLEANQZR",
+        "FJHTKAZM",
+        "BOUPXREN",
+        "DWCYLNNS",
+        "GIOURATB",
+        "PKLUSEWF",
+        "HNSXSJQI",
+        "VTYGBMCK"
+      ],
+      "targets": {
+        "CLEAN": {
+          "start": [
+            0,
+            0
+          ],
+          "direction": "E"
+        },
+        "ZEN": {
+          "start": [
+            1,
+            6
+          ],
+          "direction": "S"
+        },
+        "FOCUS": {
+          "start": [
+            1,
+            0
+          ],
+          "direction": "SE"
+        }
+      },
+      "uniqueness": "Each target appears exactly once across all eight compass directions.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D19.GLITCH_PUZZLE",
+      "title": "Schedule Logic",
+      "status": "PASS",
+      "slots": [
+        "4:00",
+        "4:30",
+        "5:00",
+        "5:30"
+      ],
+      "answer": {
+        "4:00": "MATH",
+        "4:30": "SCIENCE",
+        "5:00": "WALK",
+        "5:30": "GAME TIME"
+      },
+      "uniqueness": "Clues force Game Time last, Walk immediately before it, then Math before Science in the two remaining slots.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D20.GLITCH_PUZZLE",
+      "title": "Impossible Triangle",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D20_PENROSE_TRIANGLE_V1",
+      "answer": "B — NO",
+      "truth": "The drawing uses cyclic occlusion: A appears over B, B over C, and C over A. That depth ordering cannot occur in one ordinary rigid 3D object.",
+      "geometry": {
+        "centerline_vertices": [
+          [
+            300,
+            70
+          ],
+          [
+            520,
+            450
+          ],
+          [
+            80,
+            450
+          ]
+        ],
+        "bar_width": 54,
+        "joint_style": "mitered",
+        "cyclic_over_order": [
+          "A>B",
+          "B>C",
+          "C>A"
+        ],
+        "linework": "black outlines on white with internal overlap masks only"
+      },
+      "render_contract": "Construct three equal-width vector bars on the triangular centerline and use deterministic masks at the three joints to enforce cyclic over/under order. No raster/generative geometry.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D21.GLITCH_PUZZLE",
+      "title": "Remove Two Lines",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D21_REMOVE_TWO_LINES_V1",
+      "start_geometry": "2x2 square grid made of 12 unit line segments; four small squares plus the large outer square",
+      "goal": "remove exactly two exterior line segments so exactly three complete squares remain",
+      "canonical_solution": {
+        "remove": [
+          "top edge of top-left small square",
+          "left edge of top-left small square"
+        ],
+        "remaining_squares": [
+          "top-right small",
+          "bottom-left small",
+          "bottom-right small"
+        ]
+      },
+      "accepted_symmetry": "Any rotation/reflection that removes the two exterior edges meeting at one corner is equivalent.",
+      "render_contract": "Render the 2x2 grid as 12 discrete unit segments so individual removable lines are unambiguous.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D22.GLITCH_PUZZLE",
+      "title": "Career Decoder",
+      "status": "PASS",
+      "answers": {
+        "GNIREENIGNE": "ENGINEERING",
+        "NGISED": "DESIGN",
+        "ENICIDEM": "MEDICINE"
+      },
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D23.GLITCH_PUZZLE",
+      "title": "Hidden Star",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D23_HIDDEN_STAR_V1",
+      "field": {
+        "rows": 8,
+        "cols": 8,
+        "default_symbol": "outlined diamond",
+        "hidden_symbol": "five-point outlined star",
+        "star_cell": [
+          5,
+          4
+        ]
+      },
+      "answer_location": "row 6, column 5 (1-indexed)",
+      "render_contract": "64 equal cells in an 8x8 invisible grid; 63 identical outlined diamonds and exactly one outlined five-point star. No other shape/size/rotation differences.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D24.GLITCH_PUZZLE",
+      "title": "Center Maze",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D24_CENTER_MAZE_V1",
+      "grid": {
+        "rows": 9,
+        "cols": 9,
+        "start": [
+          0,
+          4
+        ],
+        "goal": [
+          4,
+          4
+        ]
+      },
+      "cell_openings": [
+        [
+          "ES",
+          "EW",
+          "EW",
+          "SW",
+          "E",
+          "EW",
+          "SW",
+          "ES",
+          "SW"
+        ],
+        [
+          "NS",
+          "S",
+          "ES",
+          "NEW",
+          "EW",
+          "SW",
+          "NS",
+          "N",
+          "NS"
+        ],
+        [
+          "NE",
+          "NSW",
+          "NE",
+          "EW",
+          "SW",
+          "NS",
+          "NS",
+          "ES",
+          "NW"
+        ],
+        [
+          "E",
+          "NW",
+          "ES",
+          "EW",
+          "NW",
+          "NS",
+          "NS",
+          "NES",
+          "SW"
+        ],
+        [
+          "ES",
+          "EW",
+          "NW",
+          "ES",
+          "W",
+          "NS",
+          "NS",
+          "N",
+          "NS"
+        ],
+        [
+          "NS",
+          "ES",
+          "SW",
+          "NE",
+          "EW",
+          "NSW",
+          "NE",
+          "EW",
+          "NSW"
+        ],
+        [
+          "NES",
+          "NW",
+          "NS",
+          "ES",
+          "SW",
+          "NS",
+          "ES",
+          "EW",
+          "NW"
+        ],
+        [
+          "NS",
+          "S",
+          "NS",
+          "NS",
+          "NS",
+          "N",
+          "NE",
+          "EW",
+          "SW"
+        ],
+        [
+          "NE",
+          "NW",
+          "NE",
+          "NW",
+          "NE",
+          "EW",
+          "EW",
+          "EW",
+          "NW"
+        ]
+      ],
+      "solution_path": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          6,
+          8
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          7,
+          6
+        ],
+        [
+          7,
+          7
+        ],
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          8
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          8,
+          6
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          7,
+          4
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          7,
+          3
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          2
+        ],
+        [
+          7,
+          2
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "uniqueness": "perfect maze / tree geometry; one route from start to center",
+      "render_contract": "Render walls from the cell-opening table. Add one top entrance aligned to start cell and one center target marker that does not cover passages.",
+      "candidate_blob": "e7c37c6dca82f03339311f8f181426acc0e07873"
+    },
+    {
+      "segment_id": "D25.GLITCH_PUZZLE",
+      "title": "Debug the Experiment",
+      "status": "PASS",
+      "correct_option": "B",
+      "answer": "Turning notifications off produced the clearest improvement in this tiny test.",
+      "reason": "Trial 1→2 changes notification state while study time stays 10 minutes and score rises 5→8. Trial 2→3 increases time but score stays 8.",
+      "claim_boundary": "This tiny test does not prove notifications are always harmful or that the same result applies to everyone.",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D26.GLITCH_PUZZLE",
+      "title": "Connection Riddle",
+      "status": "PASS",
+      "answer": "CHEESE",
+      "reason": "Swiss cheese, cottage cheese, cheesecake.",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D27.GLITCH_PUZZLE",
+      "title": "The Flashlight Bridge",
+      "status": "PASS",
+      "times_minutes": [
+        1,
+        2,
+        5,
+        8
+      ],
+      "minimum_total_minutes": 15,
+      "canonical_solution": [
+        "1+2 cross = 2",
+        "1 returns = 1",
+        "5+8 cross = 8",
+        "2 returns = 2",
+        "1+2 cross = 2"
+      ],
+      "total_check": "2+1+8+2+2=15",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D28.GLITCH_PUZZLE",
+      "title": "Shift Code",
+      "status": "PASS",
+      "cipher": "FKDUDFWHU VKRZV XS LQ VPDOO FKRLFHV.",
+      "method": "Caesar shift +3 for encoding; decode by -3",
+      "answer": "CHARACTER SHOWS UP IN SMALL CHOICES.",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D29.GLITCH_PUZZLE",
+      "title": "Happy Logic",
+      "status": "PASS",
+      "sequence": [
+        "😊",
+        "😊",
+        "😐",
+        "😊",
+        "😊",
+        "😐",
+        "😊",
+        "😊",
+        "?"
+      ],
+      "answer": "😐",
+      "pattern": "two smiling faces, then one neutral face",
+      "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D30.GLITCH_PUZZLE",
+      "title": "The Evidence Hunt",
+      "status": "PASS_SELF_SCORED",
+      "completion_condition": "Reader records day numbers for one mission tried, one tool worth reusing and one answer/plan/opinion that changed.",
+      "fixed_answer": null,
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D31.GLITCH_PUZZLE",
+      "title": "The Final Key",
+      "status": "PASS",
+      "dependencies": [
+        "D04.GLITCH_PUZZLE",
+        "D15.GLITCH_PUZZLE",
+        "D02.GLITCH_PUZZLE",
+        "D22.GLITCH_PUZZLE",
+        "D09.GLITCH_PUZZLE"
+      ],
+      "clues": [
+        {
+          "source": "D04",
+          "answer": "RUNNING",
+          "letter": "R"
+        },
+        {
+          "source": "D15",
+          "answer": "ECHO",
+          "letter": "E"
+        },
+        {
+          "source": "D02",
+          "answer": "SOUTH",
+          "letter": "S"
+        },
+        {
+          "source": "D22",
+          "answer": "ENGINEERING",
+          "letter": "E"
+        },
+        {
+          "source": "D09 puzzle title",
+          "answer": "TIME",
+          "letter": "T"
+        }
+      ],
+      "answer": "RESET",
+      "meaning_lock": "Unstoppable is framed as the ability to reset and start again, not never stopping.",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    }
+  ],
+  "last_updated": "2026-10-05"
+}
