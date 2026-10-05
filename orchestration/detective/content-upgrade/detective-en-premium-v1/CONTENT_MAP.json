@@ -1,0 +1,2015 @@
+{
+  "schema": "rse-premium-content-map-v1",
+  "book": "Happy Makers Detective Academy — The Mystery of Room Zero — Book 1",
+  "language": "en",
+  "route": "SAME_LANGUAGE_PREMIUM_UPGRADE",
+  "baseline_git_blob": "8685f8e561d0bfb3837445b72b4d6f799a9a48f2",
+  "working_git_blob": "1cdb1f79a420092fe60acc05c623a9d7c0540141",
+  "segment_count": 289,
+  "segments": [
+    {
+      "segment_id": "front.page1",
+      "kind": "front",
+      "chars": 130,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "front.page2",
+      "kind": "front",
+      "chars": 629,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "front.page3",
+      "kind": "front",
+      "chars": 479,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "front.squad",
+      "kind": "front",
+      "chars": 1682,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "front.credential",
+      "kind": "front",
+      "chars": 813,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "front.walk_into",
+      "kind": "front",
+      "chars": 1322,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "front.how_cases_work",
+      "kind": "front",
+      "chars": 1379,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "front.map_rules",
+      "kind": "front",
+      "chars": 1221,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "front.case_wall",
+      "kind": "front",
+      "chars": 1660,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "front.index",
+      "kind": "front",
+      "chars": 1280,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.01.story",
+      "kind": "case",
+      "case_id": "01",
+      "chars": 486,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.01.objective",
+      "kind": "case",
+      "case_id": "01",
+      "chars": 110,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.01.rules",
+      "kind": "case",
+      "case_id": "01",
+      "chars": 198,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.01.chat",
+      "kind": "case",
+      "case_id": "01",
+      "chars": 344,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.01.verdict",
+      "kind": "case",
+      "case_id": "01",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.02.story",
+      "kind": "case",
+      "case_id": "02",
+      "chars": 509,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.02.objective",
+      "kind": "case",
+      "case_id": "02",
+      "chars": 84,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.02.rules",
+      "kind": "case",
+      "case_id": "02",
+      "chars": 178,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.02.chat",
+      "kind": "case",
+      "case_id": "02",
+      "chars": 271,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.02.verdict",
+      "kind": "case",
+      "case_id": "02",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.03.story",
+      "kind": "case",
+      "case_id": "03",
+      "chars": 413,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.03.objective",
+      "kind": "case",
+      "case_id": "03",
+      "chars": 108,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.03.rules",
+      "kind": "case",
+      "case_id": "03",
+      "chars": 119,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.03.chat",
+      "kind": "case",
+      "case_id": "03",
+      "chars": 340,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.03.verdict",
+      "kind": "case",
+      "case_id": "03",
+      "chars": 194,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.04.story",
+      "kind": "case",
+      "case_id": "04",
+      "chars": 528,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.04.objective",
+      "kind": "case",
+      "case_id": "04",
+      "chars": 104,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.04.rules",
+      "kind": "case",
+      "case_id": "04",
+      "chars": 224,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.04.chat",
+      "kind": "case",
+      "case_id": "04",
+      "chars": 326,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.04.verdict",
+      "kind": "case",
+      "case_id": "04",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.05.story",
+      "kind": "case",
+      "case_id": "05",
+      "chars": 434,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.05.objective",
+      "kind": "case",
+      "case_id": "05",
+      "chars": 83,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.05.rules",
+      "kind": "case",
+      "case_id": "05",
+      "chars": 164,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.05.chat",
+      "kind": "case",
+      "case_id": "05",
+      "chars": 305,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.05.verdict",
+      "kind": "case",
+      "case_id": "05",
+      "chars": 96,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.06.story",
+      "kind": "case",
+      "case_id": "06",
+      "chars": 1067,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.06.objective",
+      "kind": "case",
+      "case_id": "06",
+      "chars": 89,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.06.rules",
+      "kind": "case",
+      "case_id": "06",
+      "chars": 189,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.06.chat",
+      "kind": "case",
+      "case_id": "06",
+      "chars": 490,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.06.verdict",
+      "kind": "case",
+      "case_id": "06",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.07.story",
+      "kind": "case",
+      "case_id": "07",
+      "chars": 692,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.07.objective",
+      "kind": "case",
+      "case_id": "07",
+      "chars": 91,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.07.rules",
+      "kind": "case",
+      "case_id": "07",
+      "chars": 189,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.07.chat",
+      "kind": "case",
+      "case_id": "07",
+      "chars": 271,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.07.verdict",
+      "kind": "case",
+      "case_id": "07",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.08.story",
+      "kind": "case",
+      "case_id": "08",
+      "chars": 413,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.08.objective",
+      "kind": "case",
+      "case_id": "08",
+      "chars": 74,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.08.rules",
+      "kind": "case",
+      "case_id": "08",
+      "chars": 173,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.08.chat",
+      "kind": "case",
+      "case_id": "08",
+      "chars": 288,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.08.verdict",
+      "kind": "case",
+      "case_id": "08",
+      "chars": 63,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.09.story",
+      "kind": "case",
+      "case_id": "09",
+      "chars": 467,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.09.objective",
+      "kind": "case",
+      "case_id": "09",
+      "chars": 81,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.09.rules",
+      "kind": "case",
+      "case_id": "09",
+      "chars": 155,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.09.chat",
+      "kind": "case",
+      "case_id": "09",
+      "chars": 294,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.09.verdict",
+      "kind": "case",
+      "case_id": "09",
+      "chars": 136,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.10.story",
+      "kind": "case",
+      "case_id": "10",
+      "chars": 470,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.10.objective",
+      "kind": "case",
+      "case_id": "10",
+      "chars": 93,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.10.rules",
+      "kind": "case",
+      "case_id": "10",
+      "chars": 165,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.10.chat",
+      "kind": "case",
+      "case_id": "10",
+      "chars": 242,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "case.10.verdict",
+      "kind": "case",
+      "case_id": "10",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.11.story",
+      "kind": "case",
+      "case_id": "11",
+      "chars": 439,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.11.objective",
+      "kind": "case",
+      "case_id": "11",
+      "chars": 119,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.11.rules",
+      "kind": "case",
+      "case_id": "11",
+      "chars": 175,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.11.chat",
+      "kind": "case",
+      "case_id": "11",
+      "chars": 268,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.11.verdict",
+      "kind": "case",
+      "case_id": "11",
+      "chars": 131,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.12.story",
+      "kind": "case",
+      "case_id": "12",
+      "chars": 598,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.12.objective",
+      "kind": "case",
+      "case_id": "12",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.12.rules",
+      "kind": "case",
+      "case_id": "12",
+      "chars": 192,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.12.chat",
+      "kind": "case",
+      "case_id": "12",
+      "chars": 259,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.12.verdict",
+      "kind": "case",
+      "case_id": "12",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.13.story",
+      "kind": "case",
+      "case_id": "13",
+      "chars": 544,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.13.objective",
+      "kind": "case",
+      "case_id": "13",
+      "chars": 79,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.13.rules",
+      "kind": "case",
+      "case_id": "13",
+      "chars": 217,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.13.chat",
+      "kind": "case",
+      "case_id": "13",
+      "chars": 263,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.13.verdict",
+      "kind": "case",
+      "case_id": "13",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.14.story",
+      "kind": "case",
+      "case_id": "14",
+      "chars": 534,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.14.objective",
+      "kind": "case",
+      "case_id": "14",
+      "chars": 83,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.14.rules",
+      "kind": "case",
+      "case_id": "14",
+      "chars": 149,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.14.chat",
+      "kind": "case",
+      "case_id": "14",
+      "chars": 268,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "case.14.verdict",
+      "kind": "case",
+      "case_id": "14",
+      "chars": 121,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.15.story",
+      "kind": "case",
+      "case_id": "15",
+      "chars": 511,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.15.objective",
+      "kind": "case",
+      "case_id": "15",
+      "chars": 81,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.15.rules",
+      "kind": "case",
+      "case_id": "15",
+      "chars": 183,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.15.chat",
+      "kind": "case",
+      "case_id": "15",
+      "chars": 189,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "case.15.verdict",
+      "kind": "case",
+      "case_id": "15",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.16.story",
+      "kind": "case",
+      "case_id": "16",
+      "chars": 607,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.16.objective",
+      "kind": "case",
+      "case_id": "16",
+      "chars": 69,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.16.rules",
+      "kind": "case",
+      "case_id": "16",
+      "chars": 159,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.16.chat",
+      "kind": "case",
+      "case_id": "16",
+      "chars": 326,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.16.verdict",
+      "kind": "case",
+      "case_id": "16",
+      "chars": 95,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.17.story",
+      "kind": "case",
+      "case_id": "17",
+      "chars": 431,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.17.objective",
+      "kind": "case",
+      "case_id": "17",
+      "chars": 117,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.17.rules",
+      "kind": "case",
+      "case_id": "17",
+      "chars": 162,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.17.chat",
+      "kind": "case",
+      "case_id": "17",
+      "chars": 322,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.17.verdict",
+      "kind": "case",
+      "case_id": "17",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.18.story",
+      "kind": "case",
+      "case_id": "18",
+      "chars": 411,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.18.objective",
+      "kind": "case",
+      "case_id": "18",
+      "chars": 77,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.18.rules",
+      "kind": "case",
+      "case_id": "18",
+      "chars": 250,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.18.chat",
+      "kind": "case",
+      "case_id": "18",
+      "chars": 288,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.18.verdict",
+      "kind": "case",
+      "case_id": "18",
+      "chars": 84,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.19.story",
+      "kind": "case",
+      "case_id": "19",
+      "chars": 549,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.19.objective",
+      "kind": "case",
+      "case_id": "19",
+      "chars": 88,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.19.rules",
+      "kind": "case",
+      "case_id": "19",
+      "chars": 187,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.19.chat",
+      "kind": "case",
+      "case_id": "19",
+      "chars": 291,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.19.verdict",
+      "kind": "case",
+      "case_id": "19",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.20.story",
+      "kind": "case",
+      "case_id": "20",
+      "chars": 559,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.20.objective",
+      "kind": "case",
+      "case_id": "20",
+      "chars": 84,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.20.rules",
+      "kind": "case",
+      "case_id": "20",
+      "chars": 221,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.20.chat",
+      "kind": "case",
+      "case_id": "20",
+      "chars": 299,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.20.verdict",
+      "kind": "case",
+      "case_id": "20",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.21.story",
+      "kind": "case",
+      "case_id": "21",
+      "chars": 554,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.21.objective",
+      "kind": "case",
+      "case_id": "21",
+      "chars": 79,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.21.rules",
+      "kind": "case",
+      "case_id": "21",
+      "chars": 137,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.21.chat",
+      "kind": "case",
+      "case_id": "21",
+      "chars": 459,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.21.verdict",
+      "kind": "case",
+      "case_id": "21",
+      "chars": 201,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.22.story",
+      "kind": "case",
+      "case_id": "22",
+      "chars": 474,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.22.objective",
+      "kind": "case",
+      "case_id": "22",
+      "chars": 101,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.22.rules",
+      "kind": "case",
+      "case_id": "22",
+      "chars": 180,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.22.chat",
+      "kind": "case",
+      "case_id": "22",
+      "chars": 265,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.22.verdict",
+      "kind": "case",
+      "case_id": "22",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.23.story",
+      "kind": "case",
+      "case_id": "23",
+      "chars": 489,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.23.objective",
+      "kind": "case",
+      "case_id": "23",
+      "chars": 85,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.23.rules",
+      "kind": "case",
+      "case_id": "23",
+      "chars": 226,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.23.chat",
+      "kind": "case",
+      "case_id": "23",
+      "chars": 253,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "case.23.verdict",
+      "kind": "case",
+      "case_id": "23",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.24.story",
+      "kind": "case",
+      "case_id": "24",
+      "chars": 565,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.24.objective",
+      "kind": "case",
+      "case_id": "24",
+      "chars": 80,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.24.rules",
+      "kind": "case",
+      "case_id": "24",
+      "chars": 174,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.24.chat",
+      "kind": "case",
+      "case_id": "24",
+      "chars": 258,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.24.verdict",
+      "kind": "case",
+      "case_id": "24",
+      "chars": 87,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.25.story",
+      "kind": "case",
+      "case_id": "25",
+      "chars": 563,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.25.objective",
+      "kind": "case",
+      "case_id": "25",
+      "chars": 98,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.25.rules",
+      "kind": "case",
+      "case_id": "25",
+      "chars": 205,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.25.chat",
+      "kind": "case",
+      "case_id": "25",
+      "chars": 291,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "case.25.verdict",
+      "kind": "case",
+      "case_id": "25",
+      "chars": 109,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.26.story",
+      "kind": "case",
+      "case_id": "26",
+      "chars": 298,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.26.objective",
+      "kind": "case",
+      "case_id": "26",
+      "chars": 79,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.26.rules",
+      "kind": "case",
+      "case_id": "26",
+      "chars": 267,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.26.chat",
+      "kind": "case",
+      "case_id": "26",
+      "chars": 288,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.26.verdict",
+      "kind": "case",
+      "case_id": "26",
+      "chars": 338,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.27.story",
+      "kind": "case",
+      "case_id": "27",
+      "chars": 409,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.27.objective",
+      "kind": "case",
+      "case_id": "27",
+      "chars": 68,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.27.rules",
+      "kind": "case",
+      "case_id": "27",
+      "chars": 174,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.27.chat",
+      "kind": "case",
+      "case_id": "27",
+      "chars": 278,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.27.verdict",
+      "kind": "case",
+      "case_id": "27",
+      "chars": 132,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.28.story",
+      "kind": "case",
+      "case_id": "28",
+      "chars": 563,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.28.objective",
+      "kind": "case",
+      "case_id": "28",
+      "chars": 130,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.28.rules",
+      "kind": "case",
+      "case_id": "28",
+      "chars": 214,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.28.chat",
+      "kind": "case",
+      "case_id": "28",
+      "chars": 329,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.28.verdict",
+      "kind": "case",
+      "case_id": "28",
+      "chars": 284,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.29.story",
+      "kind": "case",
+      "case_id": "29",
+      "chars": 406,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.29.objective",
+      "kind": "case",
+      "case_id": "29",
+      "chars": 119,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.29.rules",
+      "kind": "case",
+      "case_id": "29",
+      "chars": 187,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.29.chat",
+      "kind": "case",
+      "case_id": "29",
+      "chars": 238,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "case.29.verdict",
+      "kind": "case",
+      "case_id": "29",
+      "chars": 287,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.30.story",
+      "kind": "case",
+      "case_id": "30",
+      "chars": 385,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.30.objective",
+      "kind": "case",
+      "case_id": "30",
+      "chars": 91,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.30.rules",
+      "kind": "case",
+      "case_id": "30",
+      "chars": 308,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "case.30.chat",
+      "kind": "case",
+      "case_id": "30",
+      "chars": 286,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "case.30.verdict",
+      "kind": "case",
+      "case_id": "30",
+      "chars": 158,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "act.01",
+      "kind": "act",
+      "chars": 394,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "act.02",
+      "kind": "act",
+      "chars": 349,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "act.03",
+      "kind": "act",
+      "chars": 422,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "act.04",
+      "kind": "act",
+      "chars": 477,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "act.05",
+      "kind": "act",
+      "chars": 396,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "finale.room_zero",
+      "kind": "finale",
+      "chars": 4231,
+      "status": "CHANGED"
+    },
+    {
+      "segment_id": "finale.sixth_hook",
+      "kind": "finale",
+      "chars": 549,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "finale.certification",
+      "kind": "finale",
+      "chars": 713,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "finale.archive001",
+      "kind": "finale",
+      "chars": 1406,
+      "status": "KEEP"
+    },
+    {
+      "segment_id": "hint.l1.case.01",
+      "kind": "hint",
+      "case_id": "01",
+      "chars": 70,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.02",
+      "kind": "hint",
+      "case_id": "02",
+      "chars": 71,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.03",
+      "kind": "hint",
+      "case_id": "03",
+      "chars": 137,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.04",
+      "kind": "hint",
+      "case_id": "04",
+      "chars": 59,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.05",
+      "kind": "hint",
+      "case_id": "05",
+      "chars": 81,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.06",
+      "kind": "hint",
+      "case_id": "06",
+      "chars": 73,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.07",
+      "kind": "hint",
+      "case_id": "07",
+      "chars": 64,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.08",
+      "kind": "hint",
+      "case_id": "08",
+      "chars": 88,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.09",
+      "kind": "hint",
+      "case_id": "09",
+      "chars": 67,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.10",
+      "kind": "hint",
+      "case_id": "10",
+      "chars": 82,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.11",
+      "kind": "hint",
+      "case_id": "11",
+      "chars": 79,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.12",
+      "kind": "hint",
+      "case_id": "12",
+      "chars": 79,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.13",
+      "kind": "hint",
+      "case_id": "13",
+      "chars": 71,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.14",
+      "kind": "hint",
+      "case_id": "14",
+      "chars": 70,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.15",
+      "kind": "hint",
+      "case_id": "15",
+      "chars": 69,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.16",
+      "kind": "hint",
+      "case_id": "16",
+      "chars": 107,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.17",
+      "kind": "hint",
+      "case_id": "17",
+      "chars": 69,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.18",
+      "kind": "hint",
+      "case_id": "18",
+      "chars": 72,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.19",
+      "kind": "hint",
+      "case_id": "19",
+      "chars": 73,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.20",
+      "kind": "hint",
+      "case_id": "20",
+      "chars": 76,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.21",
+      "kind": "hint",
+      "case_id": "21",
+      "chars": 69,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.22",
+      "kind": "hint",
+      "case_id": "22",
+      "chars": 62,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.23",
+      "kind": "hint",
+      "case_id": "23",
+      "chars": 67,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.24",
+      "kind": "hint",
+      "case_id": "24",
+      "chars": 94,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.25",
+      "kind": "hint",
+      "case_id": "25",
+      "chars": 69,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.26",
+      "kind": "hint",
+      "case_id": "26",
+      "chars": 236,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.27",
+      "kind": "hint",
+      "case_id": "27",
+      "chars": 69,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.28",
+      "kind": "hint",
+      "case_id": "28",
+      "chars": 69,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.29",
+      "kind": "hint",
+      "case_id": "29",
+      "chars": 80,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l1.case.30",
+      "kind": "hint",
+      "case_id": "30",
+      "chars": 104,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.01",
+      "kind": "hint",
+      "case_id": "01",
+      "chars": 76,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.02",
+      "kind": "hint",
+      "case_id": "02",
+      "chars": 107,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.03",
+      "kind": "hint",
+      "case_id": "03",
+      "chars": 119,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.04",
+      "kind": "hint",
+      "case_id": "04",
+      "chars": 109,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.05",
+      "kind": "hint",
+      "case_id": "05",
+      "chars": 149,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.06",
+      "kind": "hint",
+      "case_id": "06",
+      "chars": 97,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.07",
+      "kind": "hint",
+      "case_id": "07",
+      "chars": 108,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.08",
+      "kind": "hint",
+      "case_id": "08",
+      "chars": 84,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.09",
+      "kind": "hint",
+      "case_id": "09",
+      "chars": 80,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.10",
+      "kind": "hint",
+      "case_id": "10",
+      "chars": 89,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.11",
+      "kind": "hint",
+      "case_id": "11",
+      "chars": 87,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.12",
+      "kind": "hint",
+      "case_id": "12",
+      "chars": 95,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.13",
+      "kind": "hint",
+      "case_id": "13",
+      "chars": 96,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.14",
+      "kind": "hint",
+      "case_id": "14",
+      "chars": 97,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.15",
+      "kind": "hint",
+      "case_id": "15",
+      "chars": 73,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.16",
+      "kind": "hint",
+      "case_id": "16",
+      "chars": 110,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.17",
+      "kind": "hint",
+      "case_id": "17",
+      "chars": 72,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.18",
+      "kind": "hint",
+      "case_id": "18",
+      "chars": 87,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.19",
+      "kind": "hint",
+      "case_id": "19",
+      "chars": 96,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.20",
+      "kind": "hint",
+      "case_id": "20",
+      "chars": 100,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.21",
+      "kind": "hint",
+      "case_id": "21",
+      "chars": 62,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.22",
+      "kind": "hint",
+      "case_id": "22",
+      "chars": 65,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.23",
+      "kind": "hint",
+      "case_id": "23",
+      "chars": 78,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.24",
+      "kind": "hint",
+      "case_id": "24",
+      "chars": 74,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.25",
+      "kind": "hint",
+      "case_id": "25",
+      "chars": 63,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.26",
+      "kind": "hint",
+      "case_id": "26",
+      "chars": 67,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.27",
+      "kind": "hint",
+      "case_id": "27",
+      "chars": 62,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.28",
+      "kind": "hint",
+      "case_id": "28",
+      "chars": 116,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.29",
+      "kind": "hint",
+      "case_id": "29",
+      "chars": 70,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l2.case.30",
+      "kind": "hint",
+      "case_id": "30",
+      "chars": 93,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.01",
+      "kind": "hint",
+      "case_id": "01",
+      "chars": 63,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.02",
+      "kind": "hint",
+      "case_id": "02",
+      "chars": 92,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.03",
+      "kind": "hint",
+      "case_id": "03",
+      "chars": 124,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.04",
+      "kind": "hint",
+      "case_id": "04",
+      "chars": 98,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.05",
+      "kind": "hint",
+      "case_id": "05",
+      "chars": 146,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.06",
+      "kind": "hint",
+      "case_id": "06",
+      "chars": 115,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.07",
+      "kind": "hint",
+      "case_id": "07",
+      "chars": 96,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.08",
+      "kind": "hint",
+      "case_id": "08",
+      "chars": 80,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.09",
+      "kind": "hint",
+      "case_id": "09",
+      "chars": 148,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.10",
+      "kind": "hint",
+      "case_id": "10",
+      "chars": 94,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.11",
+      "kind": "hint",
+      "case_id": "11",
+      "chars": 112,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.12",
+      "kind": "hint",
+      "case_id": "12",
+      "chars": 78,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.13",
+      "kind": "hint",
+      "case_id": "13",
+      "chars": 93,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.14",
+      "kind": "hint",
+      "case_id": "14",
+      "chars": 88,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.15",
+      "kind": "hint",
+      "case_id": "15",
+      "chars": 73,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.16",
+      "kind": "hint",
+      "case_id": "16",
+      "chars": 112,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.17",
+      "kind": "hint",
+      "case_id": "17",
+      "chars": 94,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.18",
+      "kind": "hint",
+      "case_id": "18",
+      "chars": 65,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.19",
+      "kind": "hint",
+      "case_id": "19",
+      "chars": 73,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.20",
+      "kind": "hint",
+      "case_id": "20",
+      "chars": 67,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.21",
+      "kind": "hint",
+      "case_id": "21",
+      "chars": 48,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.22",
+      "kind": "hint",
+      "case_id": "22",
+      "chars": 69,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.23",
+      "kind": "hint",
+      "case_id": "23",
+      "chars": 88,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.24",
+      "kind": "hint",
+      "case_id": "24",
+      "chars": 85,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.25",
+      "kind": "hint",
+      "case_id": "25",
+      "chars": 70,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.26",
+      "kind": "hint",
+      "case_id": "26",
+      "chars": 85,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.27",
+      "kind": "hint",
+      "case_id": "27",
+      "chars": 94,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.28",
+      "kind": "hint",
+      "case_id": "28",
+      "chars": 58,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.29",
+      "kind": "hint",
+      "case_id": "29",
+      "chars": 102,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "hint.l3.case.30",
+      "kind": "hint",
+      "case_id": "30",
+      "chars": 135,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.01",
+      "kind": "solution",
+      "case_id": "01",
+      "chars": 410,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.02",
+      "kind": "solution",
+      "case_id": "02",
+      "chars": 439,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.03",
+      "kind": "solution",
+      "case_id": "03",
+      "chars": 539,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.04",
+      "kind": "solution",
+      "case_id": "04",
+      "chars": 448,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.05",
+      "kind": "solution",
+      "case_id": "05",
+      "chars": 600,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.06",
+      "kind": "solution",
+      "case_id": "06",
+      "chars": 521,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.07",
+      "kind": "solution",
+      "case_id": "07",
+      "chars": 440,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.08",
+      "kind": "solution",
+      "case_id": "08",
+      "chars": 414,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.09",
+      "kind": "solution",
+      "case_id": "09",
+      "chars": 475,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.10",
+      "kind": "solution",
+      "case_id": "10",
+      "chars": 437,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.11",
+      "kind": "solution",
+      "case_id": "11",
+      "chars": 529,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.12",
+      "kind": "solution",
+      "case_id": "12",
+      "chars": 489,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.13",
+      "kind": "solution",
+      "case_id": "13",
+      "chars": 456,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.14",
+      "kind": "solution",
+      "case_id": "14",
+      "chars": 499,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.15",
+      "kind": "solution",
+      "case_id": "15",
+      "chars": 465,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.16",
+      "kind": "solution",
+      "case_id": "16",
+      "chars": 639,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.17",
+      "kind": "solution",
+      "case_id": "17",
+      "chars": 482,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.18",
+      "kind": "solution",
+      "case_id": "18",
+      "chars": 382,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.19",
+      "kind": "solution",
+      "case_id": "19",
+      "chars": 450,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.20",
+      "kind": "solution",
+      "case_id": "20",
+      "chars": 437,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.21",
+      "kind": "solution",
+      "case_id": "21",
+      "chars": 431,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.22",
+      "kind": "solution",
+      "case_id": "22",
+      "chars": 467,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.23",
+      "kind": "solution",
+      "case_id": "23",
+      "chars": 431,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.24",
+      "kind": "solution",
+      "case_id": "24",
+      "chars": 461,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.25",
+      "kind": "solution",
+      "case_id": "25",
+      "chars": 414,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.26",
+      "kind": "solution",
+      "case_id": "26",
+      "chars": 409,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.27",
+      "kind": "solution",
+      "case_id": "27",
+      "chars": 487,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.28",
+      "kind": "solution",
+      "case_id": "28",
+      "chars": 459,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.29",
+      "kind": "solution",
+      "case_id": "29",
+      "chars": 442,
+      "status": "PROTECTED"
+    },
+    {
+      "segment_id": "solution.case.30",
+      "kind": "solution",
+      "case_id": "30",
+      "chars": 683,
+      "status": "PROTECTED"
+    }
+  ]
+}
