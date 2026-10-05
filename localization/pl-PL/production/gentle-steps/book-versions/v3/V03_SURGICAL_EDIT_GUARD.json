@@ -1,6 +1,6 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_MIEDZY_NAMI_REVIEW_SLICE",
+  "status": "CLOSED_MIEDZY_NAMI_REVIEW_SLICE_PASS",
   "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
@@ -9,7 +9,7 @@
     "D18.MIĘDZY NAMI",
     "D21.MIĘDZY NAMI"
   ],
-  "require_exact_changed_set": false,
+  "require_exact_changed_set": true,
   "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
@@ -23,5 +23,18 @@
     "D18 removes directed praise pressure and lets each person name one concrete thing others can genuinely come to them for.",
     "D21 replaces invented family-sign workshop behavior with observation of real existing nonverbal family signals.",
     "After patch actual changed segments must equal the allowlist."
-  ]
+  ],
+  "closed_working_master_blob_sha": "e6befddb4af6196e19658ee513ec116ecc16b492",
+  "closed_changed_segment_count": 4,
+  "closed_checks": {
+    "exact_changed_set_pass": true,
+    "changed_segments": [
+      "D08.MIĘDZY NAMI",
+      "D10.MIĘDZY NAMI",
+      "D18.MIĘDZY NAMI",
+      "D21.MIĘDZY NAMI"
+    ],
+    "unscoped_drift": 0,
+    "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f"
+  }
 }
