@@ -1,0 +1,43 @@
+{
+  "slice_id": "SLICE_008_D05_D07_PREMIUM_UPGRADE",
+  "base_master": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V7_D03_D04_PREMIUM.txt",
+  "base_master_git_blob": "34012afd7a66236846f33a003bac7a3043aed30b",
+  "allowed_changed_segments": [
+    "D05.BRIEFING",
+    "D05.WORKBENCH",
+    "D05.SYSTEM_REBOOT",
+    "D05.GLITCH_PUZZLE",
+    "D06.BRIEFING",
+    "D06.WORKBENCH",
+    "D06.SYSTEM_REBOOT",
+    "D06.GLITCH_PUZZLE",
+    "D07.INTRO",
+    "D07.BRIEFING",
+    "D07.WORKBENCH",
+    "D07.SYSTEM_REBOOT",
+    "D07.GLITCH_PUZZLE"
+  ],
+  "protected_subregions": [
+    "D05.INTRO",
+    "D05.INTRO.QUOTE",
+    "D06.INTRO",
+    "D06.INTRO.QUOTE",
+    "D07.INTRO.QUOTE",
+    "D05.FREE_ROAM",
+    "D06.FREE_ROAM",
+    "D07.FREE_ROAM",
+    "ALL_OTHER_SEGMENTS"
+  ],
+  "expected_dependency_closure": {
+    "update": [
+      "PUZZLE_TRUTH_REGISTRY",
+      "PUZZLE_COMPLETENESS_MATRIX"
+    ],
+    "validate_only": [
+      "BACK.FIRST_AID_KIT",
+      "FUNCTION_DISTRIBUTION"
+    ]
+  },
+  "reviewer_packet": "reviews/SLICE_008_D05_D07_REVIEW_BOARD.md",
+  "reason": "premium upgrade of bullying safety, adult communication, weekly reset and deterministic puzzle truth"
+}
