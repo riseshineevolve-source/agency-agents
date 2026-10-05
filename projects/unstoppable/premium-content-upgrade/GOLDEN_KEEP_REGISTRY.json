@@ -26,54 +26,6 @@
       "reason": "strong agency line"
     },
     {
-      "id": "GK-D02-QUOTE",
-      "scope": "D02.INTRO",
-      "text": "A TRAIT CAN FEEL LIKE A BUG IN ONE SITUATION AND BECOME A STRENGTH IN ANOTHER.",
-      "author": "Project Unstoppable"
-    },
-    {
-      "id": "GK-D08-QUOTE",
-      "scope": "D08.INTRO",
-      "text": "CLOSE THE NOTES. TRY TO REMEMBER. THEN CHECK WHAT YOU MISSED.",
-      "author": "Project Unstoppable"
-    },
-    {
-      "id": "GK-D10-QUOTE",
-      "scope": "D10.INTRO",
-      "text": "MAKE THE FIRST STEP SMALL ENOUGH TO START NOW.",
-      "author": "Project Unstoppable"
-    },
-    {
-      "id": "GK-D23-QUOTE",
-      "scope": "D23.INTRO",
-      "text": "IF YOU CAN PICTURE A DIRECTION, YOU CAN START CHOOSING STEPS TOWARD IT.",
-      "author": "Project Unstoppable"
-    },
-    {
-      "id": "GK-D24-QUOTE",
-      "scope": "D24.INTRO",
-      "text": "A GOAL GETS STRONGER WHEN YOU CAN NAME THE NEXT STEP AND THE DEADLINE.",
-      "author": "Project Unstoppable"
-    },
-    {
-      "id": "GK-D28-QUOTE",
-      "scope": "D28.INTRO",
-      "text": "BECOME THE KIND OF PERSON YOU WOULD BE PROUD TO BE REMEMBERED AS.",
-      "author": "Project Unstoppable"
-    },
-    {
-      "id": "GK-D29-QUOTE",
-      "scope": "D29.INTRO",
-      "text": "NOTICE WHAT IS GOOD WITHOUT PRETENDING THE HARD STUFF ISN'T THERE.",
-      "author": "Project Unstoppable"
-    },
-    {
-      "id": "GK-D30-QUOTE",
-      "scope": "D30.INTRO",
-      "text": "LOOK BACK. NAME WHAT CHANGED. KEEP THE NEXT STEP SMALL.",
-      "author": "Project Unstoppable"
-    },
-    {
       "id": "GK-D09-INTRO",
       "scope": "D09.INTRO",
       "text": "Multitasking often means switching attention back and forth, which can make both tasks messier. Pick one target, work on it, then take a break. That's the Ninja way."
@@ -99,11 +51,229 @@
       "scope": "D19.GLITCH_PUZZLE",
       "text": "A PLAN ISN'T A PRISON. IT’S A MAP TO FREEDOM.",
       "reason": "clear, age-right, practical"
+    },
+    {
+      "id": "GK-D01-QUOTE",
+      "scope": "D01.INTRO",
+      "text": "YOU DO NOT NEED TO BECOME SOMEONE ELSE TO START BUILDING A STRONGER VERSION OF YOU.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D02-QUOTE",
+      "scope": "D02.INTRO",
+      "text": "A TRAIT CAN FEEL LIKE A BUG IN ONE SITUATION AND BECOME A STRENGTH IN ANOTHER.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D03-QUOTE",
+      "scope": "D03.INTRO",
+      "text": "FEELINGS ARE SIGNALS TO NOTICE, NOT LABELS THAT DEFINE YOU.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D04-QUOTE",
+      "scope": "D04.INTRO",
+      "text": "PAY ATTENTION TO WHO HELPS YOU FEEL SAFE, RESPECTED, AND MORE LIKE YOURSELF.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D05-QUOTE",
+      "scope": "D05.INTRO",
+      "text": "SOMEONE ELSE'S PUT-DOWN DOES NOT GET TO DECIDE YOUR VALUE.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D06-QUOTE",
+      "scope": "D06.INTRO",
+      "text": "GOOD COMMUNICATION STARTS WITH SAYING WHAT YOU MEAN AND LISTENING FOR WHAT THE OTHER PERSON MEANS.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D07-QUOTE",
+      "scope": "D07.INTRO",
+      "text": "A RESET IS NOT QUITTING. IT IS MAKING SPACE TO START THE NEXT WEEK ON PURPOSE.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D08-QUOTE",
+      "scope": "D08.INTRO",
+      "text": "CLOSE THE NOTES. TRY TO REMEMBER. THEN CHECK WHAT YOU MISSED.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D09-QUOTE",
+      "scope": "D09.INTRO",
+      "text": "PICK ONE TARGET. GIVE IT YOUR ATTENTION. THEN CHOOSE THE NEXT.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D10-QUOTE",
+      "scope": "D10.INTRO",
+      "text": "MAKE THE FIRST STEP SMALL ENOUGH TO START NOW.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D11-QUOTE",
+      "scope": "D11.INTRO",
+      "text": "BIG PROJECTS GET SMALLER WHEN YOU TURN THEM INTO CLEAR NEXT STEPS.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D12-QUOTE",
+      "scope": "D12.INTRO",
+      "text": "YOUR ROUTINES DO NOT HAVE TO BE PERFECT TO HELP YOU FEEL MORE READY.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D13-QUOTE",
+      "scope": "D13.INTRO",
+      "text": "FOCUS GETS EASIER WHEN YOU MAKE DISTRACTIONS HARDER TO REACH.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D14-QUOTE",
+      "scope": "D14.INTRO",
+      "text": "SMALL EFFORTS COUNT. REVIEW THEM, NOTICE WHAT WORKED, AND KEEP GOING.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D15-QUOTE",
+      "scope": "D15.INTRO",
+      "text": "YOU DO NOT HAVE TO DO EVERYTHING AT ONCE. CHOOSE WHAT MATTERS MOST NOW.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D16-QUOTE",
+      "scope": "D16.INTRO",
+      "text": "MONEY CHOICES GET CLEARER WHEN YOU KNOW WHAT IS COMING IN, GOING OUT, AND WHY.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D17-QUOTE",
+      "scope": "D17.INTRO",
+      "text": "A BUDGET IS A PLAN FOR YOUR MONEY, NOT A PUNISHMENT FOR SPENDING IT.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D18-QUOTE",
+      "scope": "D18.INTRO",
+      "text": "RESPONSIBILITY STARTS WITH THE NEXT THING YOU CAN ACTUALLY DO.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D19-QUOTE",
+      "scope": "D19.INTRO",
+      "text": "PUT IMPORTANT THINGS ON THE CALENDAR BEFORE THE DAY FILLS ITSELF.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D20-QUOTE",
+      "scope": "D20.INTRO",
+      "text": "A CLEAR NO CAN PROTECT YOUR TIME, ENERGY, AND BOUNDARIES.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D21-QUOTE",
+      "scope": "D21.INTRO",
+      "text": "BUSY IS NOT THE SAME AS EFFECTIVE. CHECK WHETHER YOUR EFFORT MATCHES THE GOAL.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D22-QUOTE",
+      "scope": "D22.INTRO",
+      "text": "YOU DO NOT HAVE TO KNOW YOUR WHOLE FUTURE. NOTICE WHAT YOU ENJOY, PRACTICE, AND WANT TO EXPLORE.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D23-QUOTE",
+      "scope": "D23.INTRO",
+      "text": "IF YOU CAN PICTURE A DIRECTION, YOU CAN START CHOOSING STEPS TOWARD IT.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D24-QUOTE",
+      "scope": "D24.INTRO",
+      "text": "A GOAL GETS STRONGER WHEN YOU CAN NAME THE NEXT STEP AND THE DEADLINE.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D25-QUOTE",
+      "scope": "D25.INTRO",
+      "text": "A MISTAKE CAN GIVE YOU USEFUL INFORMATION FOR THE NEXT ATTEMPT.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D26-QUOTE",
+      "scope": "D26.INTRO",
+      "text": "YOU CAN LEARN FASTER WHEN YOU ASK GOOD QUESTIONS AND LISTEN TO PEOPLE WITH EXPERIENCE.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D27-QUOTE",
+      "scope": "D27.INTRO",
+      "text": "IMPACT CAN START SMALL: HELP ONE PERSON, SOLVE ONE PROBLEM, SHARE ONE USEFUL THING.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D28-QUOTE",
+      "scope": "D28.INTRO",
+      "text": "BECOME THE KIND OF PERSON YOU WOULD BE PROUD TO BE REMEMBERED AS.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D29-QUOTE",
+      "scope": "D29.INTRO",
+      "text": "NOTICE WHAT IS GOOD WITHOUT PRETENDING THE HARD STUFF ISN'T THERE.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D30-QUOTE",
+      "scope": "D30.INTRO",
+      "text": "LOOK BACK. NAME WHAT CHANGED. KEEP THE NEXT STEP SMALL.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
+    },
+    {
+      "id": "GK-D31-QUOTE",
+      "scope": "D31.INTRO",
+      "text": "YOUR NEXT CHAPTER DOES NOT NEED A PERFECT PLAN. IT NEEDS A DIRECTION AND A FIRST STEP.",
+      "author": "Project Unstoppable",
+      "reason": "current revival source quote system; converged to book master in Slice 002"
     }
   ],
   "cross_surface_lock": {
     "day": 10,
     "book": "Tangram remains print mechanic until explicitly reopened",
     "app": "Beat the Clock remains intentional app enhancement"
-  }
+  },
+  "last_updated": "2026-10-05"
 }
