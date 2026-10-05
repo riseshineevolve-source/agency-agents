@@ -1,0 +1,59 @@
+{
+  "format": "rse-gentle-steps-v03-manifest-v1",
+  "date": "2026-10-05",
+  "route": "SAME_LANGUAGE_PREMIUM_UPGRADE",
+  "status": "OWNER_READ_CANDIDATE",
+  "source_v2": {
+    "path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
+    "git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
+    "preserved": true
+  },
+  "working_master": {
+    "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
+    "git_blob_sha": "de78cedd27fdfffe18f4a92a02f03a1187d7d16c"
+  },
+  "owner_read_candidate": {
+    "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_2026-10-05.md",
+    "git_blob_sha": "de78cedd27fdfffe18f4a92a02f03a1187d7d16c"
+  },
+  "structure": {
+    "days": 24,
+    "zwolnij": 24,
+    "gramy": 24,
+    "miedzy_nami": 24,
+    "daily_sections": 72,
+    "na_jutro": 24
+  },
+  "game_system": {
+    "families": [
+      "TEAM_COOPERATION",
+      "GENUINE_LAUGHTER",
+      "WORD_IMPROV",
+      "OTHER_BEST_OF"
+    ],
+    "explicit_start_count": 24,
+    "explicit_two_person_count": 24,
+    "no_elimination": true,
+    "d09_touch_opt_in": true,
+    "d09_no_touch_fallback": true,
+    "d23_final_game": "NA SZCZĘŚCIE / NIESTETY"
+  },
+  "qa": {
+    "final_multi_agent_qa": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_FINAL_MULTI_AGENT_QA_2026-10-05.md",
+    "issue_ledger": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_ISSUE_LEDGER.md",
+    "game_system_audit": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_GAME_SYSTEM_AUDIT.md",
+    "golden_keep": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_GOLDEN_KEEP_REGISTRY.md",
+    "surgical_guard": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_SURGICAL_EDIT_GUARD.json"
+  },
+  "owner_gates": [
+    "final Polish title",
+    "freeze recurring labels ZWOLNIJ / GRAMY / MIĘDZY NAMI",
+    "owner content approval of exact candidate",
+    "exact-hash real-template fit",
+    "print/Previewer/physical proof as required",
+    "release authorization"
+  ],
+  "publication_authorized": false,
+  "content_frozen": false,
+  "print_ready": false
+}
