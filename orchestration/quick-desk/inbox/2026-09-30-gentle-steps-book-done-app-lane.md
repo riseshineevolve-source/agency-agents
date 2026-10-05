@@ -1,6 +1,6 @@
 # Quick Desk Owner Decision Candidate
 
-Status: PENDING CENTRAL RECONCILIATION
+Status: RECONCILED
 Date: 2026-09-30
 Scope: 24 Gentle Steps to Christmas
 Source conversation: RSE Quick Desk
@@ -39,3 +39,9 @@ Verify current KDP/ebook publication metadata if needed, then split future repor
 ## Conflict check
 
 No product-content conflict. This corrects the interpretation of the incomplete lane and should replace any wording implying that the existing KDP book itself still needs production completion.
+
+## Central reconciliation receipt — 2026-10-05
+
+Reconciled by Central on 2026-10-05 into `orchestration/brain/COMMERCIAL_PRIORITY_STACK.md` under `Owner revenue-ASAP execution override — 2026-10-05`. Canonical effect: existing Gentle Steps book/ebook are completed commercial assets; the active finish lane is the simple premium Advent mobile app.
+
+No delegated product branch/worktree was mutated by this reconciliation.
