@@ -1,12 +1,12 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_D09_PLAN_B_SLICE",
+  "status": "CLOSED_D09_PLAN_B_PASS",
   "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_SIMPLE_FIXES_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
     "D09.GRAMY"
   ],
-  "require_exact_changed_set": false,
+  "require_exact_changed_set": true,
   "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
@@ -21,5 +21,15 @@
     "No adult facilitator role; children and adults play under the same rules.",
     "Keep typical game time near 4–5 minutes.",
     "After patch actual changed segments must equal D09.GRAMY."
-  ]
+  ],
+  "closed_working_master_blob_sha": "17d5d4a10f4db24f1f4024de26eb54803ff8f0b7",
+  "closed_changed_segment_count": 1,
+  "closed_checks": {
+    "exact_changed_set_pass": true,
+    "changed_segments": [
+      "D09.GRAMY"
+    ],
+    "unscoped_drift": 0,
+    "qa": "V03_D09_PLAN_B_QA_2026-10-05.md"
+  }
 }
