@@ -1,17 +1,20 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_METADATA_ONLY_SLICE",
-  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_CONTENT_SAFE_STATE_2026-10-05.md",
+  "status": "CLOSED_OWNER_READ_CANDIDATE",
+  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
-  "allowed_changed_segments": [
-    "PREAMBLE_METADATA"
-  ],
-  "require_exact_changed_set": false,
+  "allowed_changed_segments": [],
+  "require_exact_changed_set": true,
+  "protect_preamble": true,
   "protect_day_headers": true,
   "protect_back_matter": true,
   "frozen_v2_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
   "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
+  "candidate_blob_sha": "cbaea337fa49ec75ee95226dabed5a7503df5629",
   "rules": [
-    "Only internal preamble metadata may change. All Day 1-24 and back matter content must remain byte-identical."
+    "No further V03 content edit is allowed until a new base snapshot and explicit allowlist are declared.",
+    "Working master and owner-read candidate must remain identical while this guard is closed.",
+    "V02 remains immutable historical baseline.",
+    "Any owner-requested change must reopen only the affected segment/dependency closure."
   ]
 }
