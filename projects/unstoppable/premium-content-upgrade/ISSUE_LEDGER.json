@@ -30,13 +30,14 @@
     {
       "issue_id": "ISSUE-REVIEWED-SOURCE-SYNC",
       "severity": "FIX",
-      "scope": "Days 16,17,22,23,24,26,28,29,30",
+      "scope": "Days 22,23,24,26,28,29,30",
       "evidence": "revival branch contains reviewed safer/original copy newer than PDF",
       "direction": "converge exact reviewed deltas into book master; do not regress app",
       "resolved_slices": [
         "Days 2,3,5,6 -> SLICE_001_D02_D06_SOURCE_CONVERGENCE",
         "All remaining daily quote slots -> SLICE_002_GLOBAL_QUOTE_SYSTEM_CONVERGENCE",
-        "Days 8,9,10,11 -> SLICE_003_D08_D11_SOURCE_CONVERGENCE"
+        "Days 8,9,10,11 -> SLICE_003_D08_D11_SOURCE_CONVERGENCE",
+        "Days 16,17 -> SLICE_004_D16_D17_SOURCE_CONVERGENCE"
       ]
     },
     {
