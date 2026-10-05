@@ -555,6 +555,262 @@
       "answer": "RESET",
       "meaning_lock": "Unstoppable is framed as the ability to reset and start again, not never stopping.",
       "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D10.GLITCH_PUZZLE",
+      "title": "Five Pieces, One Square",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D10_FIVE_PIECE_SQUARE_V1",
+      "target_grid": {
+        "rows": 4,
+        "cols": 4
+      },
+      "canonical_solution_cells": {
+        "A": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        "C": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        "D": [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ]
+        ],
+        "E": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      },
+      "piece_sizes": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 4
+      },
+      "rules": [
+        "use every piece once",
+        "no overlaps",
+        "no gaps",
+        "rotation allowed",
+        "flip not required"
+      ],
+      "render_contract": "Show five separated black-outline polyomino pieces labeled A-E plus an empty 4x4 target square. Geometry must be rendered by code from the canonical cell sets.",
+      "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
+    },
+    {
+      "segment_id": "D12.GLITCH_PUZZLE",
+      "title": "Same Length?",
+      "status": "ASSET_SPEC_READY",
+      "asset_spec_id": "D12_MULLER_LYER_V1",
+      "answer": "C — the middle lines are the same length",
+      "geometry": {
+        "top_line": {
+          "x1": 100,
+          "y": 90,
+          "x2": 500
+        },
+        "bottom_line": {
+          "x1": 100,
+          "y": 210,
+          "x2": 500
+        },
+        "line_length": 400,
+        "top_arrowheads": "outward",
+        "bottom_arrowheads": "inward",
+        "arrow_arm_length": 45,
+        "arrow_angle_degrees": 35
+      },
+      "render_contract": "Black lines only on white. Both central shafts must be exactly equal length. Arrowheads must not change shaft endpoints.",
+      "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
+    },
+    {
+      "segment_id": "D13.GLITCH_PUZZLE",
+      "title": "Direction Interference",
+      "status": "PASS",
+      "prompts": [
+        {
+          "arrow": "R",
+          "word": "LEFT",
+          "answer": "R"
+        },
+        {
+          "arrow": "L",
+          "word": "RIGHT",
+          "answer": "L"
+        },
+        {
+          "arrow": "R",
+          "word": "RIGHT",
+          "answer": "R"
+        },
+        {
+          "arrow": "L",
+          "word": "LEFT",
+          "answer": "L"
+        },
+        {
+          "arrow": "R",
+          "word": "LEFT",
+          "answer": "R"
+        },
+        {
+          "arrow": "L",
+          "word": "LEFT",
+          "answer": "L"
+        },
+        {
+          "arrow": "L",
+          "word": "RIGHT",
+          "answer": "L"
+        },
+        {
+          "arrow": "R",
+          "word": "RIGHT",
+          "answer": "R"
+        },
+        {
+          "arrow": "L",
+          "word": "LEFT",
+          "answer": "L"
+        },
+        {
+          "arrow": "R",
+          "word": "RIGHT",
+          "answer": "R"
+        }
+      ],
+      "answer_sequence": "R L R L R L L R L R",
+      "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
+    },
+    {
+      "segment_id": "D14.GLITCH_PUZZLE",
+      "title": "Mini Sudoku 4 × 4",
+      "status": "PASS",
+      "rules": {
+        "digits": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "box_rows": 2,
+        "box_cols": 2
+      },
+      "puzzle": [
+        [
+          1,
+          0,
+          0,
+          4
+        ],
+        [
+          0,
+          4,
+          1,
+          0
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          0,
+          3,
+          2,
+          0
+        ]
+      ],
+      "solution": [
+        [
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          3,
+          4,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          4,
+          3
+        ],
+        [
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "uniqueness": "verified unique",
+      "candidate_blob": "fde03e476770eeed8210b3e17dc8d11372de8218"
     }
   ],
   "last_updated": "2026-10-05"
