@@ -390,7 +390,7 @@ Może chodzić o sprawdzian, rozmowę, czekanie, skupienie się, bycie miłym mi
 
 Nie róbcie z tego wielkiej historii. Jedno zdanie wystarczy. Jeśli dziś nie macie ochoty o tym mówić, możecie powiedzieć „pas”.
 
-Mimi: Czasem samo dotarcie do wieczora powinno mieć własną kategorię osiągnięć.
+Mimi: Nie każda trudna rzecz robi dużo hałasu.
 
 ---
 
@@ -485,15 +485,15 @@ Jeśli się rozjedzie, uruchomcie maszynę jeszcze raz.
 
 Dilo: Jeśli maszyna nie ma żadnego sensu, świetnie. Ważne, żeby zatrzymała się razem.
 
-### MIĘDZY NAMI: ZDANIE, KTÓRE DO NAS PASUJE
+### MIĘDZY NAMI: ZDANIE, KTÓRE U NAS WRACA
 
-Wymyślcie razem jedno krótkie zdanie, które pasuje do waszej rodziny.
+Każdy przypomina jedno zdanie, które w waszym domu pojawia się regularnie.
 
-Nie slogan na uroczystość i nie mądrość na kubek. Może to być wasza zasada, skrót albo zdanie, które często u was pada. Im bardziej tylko wasze, tym lepiej.
+Może to być: „Gdzie są klucze?”, „Kto ma ładowarkę?”, „Już idę!”, „Nie zostawiaj tego tutaj” albo coś, co dla innych rodzin nie znaczyłoby nic szczególnego, a u was wraca bez końca.
 
-Wybierzcie jedno zdanie, które chcielibyście zachować jako rodzinne hasło.
+Wybierzcie jedno, które najbardziej brzmi jak wasz dom. Nie musi być mądre ani reprezentacyjne. Im bardziej prawdziwe, tym lepiej.
 
-Nini: Jeśli pierwsze hasło brzmi „gdzie są klucze?”, rozumiem. Ale dajcie sobie jeszcze jedną próbę.
+Luli: „Gdzie są klucze?” ma tę przewagę nad mottem, że naprawdę wraca.
 
 ---
 
@@ -894,19 +894,19 @@ Jeśli gra kilka par równocześnie, każda musi mieć osobną, bezpieczną prze
 
 Mimi: „No tam” nie jest kierunkiem świata. Sprawdziliśmy.
 
-### MIĘDZY NAMI: KIEDY MOGĘ NA CIEBIE LICZYĆ?
+### MIĘDZY NAMI: Z CZYM MOŻNA DO MNIE PRZYJŚĆ?
 
-Zaczyna dowolna osoba. Zwraca się do osoby siedzącej po prawej stronie i kończy zdanie:
+Każdy kończy o sobie jedno zdanie:
 
-„Na ciebie mogę liczyć, kiedy…”
+„Możecie do mnie przyjść, kiedy trzeba…”
 
-Podajcie jeden konkretny przykład. Może chodzić o rozśmieszenie, pomoc w zadaniu, znalezienie czegoś, rozmowę, obronę ostatniego kawałka pizzy albo zwyczajne bycie obok.
+Podajcie jedną konkretną rzecz, w której naprawdę chętnie pomagacie. Może chodzić o znalezienie zguby, wybranie filmu, wytłumaczenie zadania, zrobienie herbaty, ogarnięcie czegoś technicznego, rozśmieszenie kogoś albo wyjście z psem.
 
-Potem ta osoba zwraca się do kolejnej osoby po swojej prawej stronie.
+Nie wybierajcie wielkich obietnic. Jedna rzecz, którą naprawdę można wam podrzucić bez specjalnych negocjacji, wystarczy.
 
-Kontynuujcie wokół koła, aż każdy usłyszy jedną rzecz, w której inni naprawdę na niego liczą.
+Jeśli dziś nic nie przychodzi do głowy, można powiedzieć „pas”.
 
-Nini: „We wszystkim” brzmi podejrzanie. Poproszę o jeden konkretny dowód.
+Nini: „Ze wszystkim” brzmi odważnie. Za chwilę ktoś przyniesie ci drukarkę.
 
 ---
 
@@ -1050,17 +1050,17 @@ Nie używajcie pytań o rzeczy prywatne, zawstydzające albo takie, na które kt
 
 Luli: „Tak” i „nie” mają wolne. Nagle okazuje się, że „oczywiście” ma bardzo dużo pracy.
 
-### MIĘDZY NAMI: NASZ ZNAK
+### MIĘDZY NAMI: CO U NAS WIADOMO BEZ SŁÓW?
 
-Wymyślcie razem jeden mały gest albo znak, który będzie kojarzył się tylko z waszą rodziną i z czymś dobrym między wami.
+Każdy podaje jeden mały sygnał, który w waszym domu coś znaczy bez tłumaczenia.
 
-Możecie zetknąć palce, zrobić określony ruch ręką albo wymyślić coś zupełnie własnego. Jeśli ktoś nie lubi dotyku, znak może być całkowicie bezkontaktowy.
+Może to być spojrzenie przy ostatnim kawałku pizzy, plecak postawiony przy drzwiach, kubek zostawiony obok kogoś, pies siedzący pod szafką ze smyczą albo mina, po której wszyscy wiedzą, że lepiej dać chwilę.
 
-Ważne, żeby był prosty, łatwy do zapamiętania i żeby wszystkim odpowiadał.
+Powiedzcie krótko, co ten sygnał zwykle znaczy.
 
-Nie musi niczego tłumaczyć. Wystarczy, że wy będziecie wiedzieć, co znaczy.
+Nie wymyślajcie nowych kodów na siłę. Szukamy rzeczy, które już u was działają.
 
-Luli: Mały znak. Tylko wy musicie wiedzieć, co znaczy. I to jest w nim najlepsze.
+Luli: Jedno spojrzenie przy ostatnim kawałku pizzy potrafi mieć całkiem precyzyjną treść.
 
 ---
 
