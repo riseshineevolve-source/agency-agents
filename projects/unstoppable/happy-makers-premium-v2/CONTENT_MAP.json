@@ -1,7 +1,7 @@
 {
   "book_id": "project-unstoppable-en-happy-makers-v2",
-  "candidate_path": "projects/unstoppable/happy-makers-premium-v2/working/WORKING_MASTER_V7_FRESH_EYES_FIXES.txt",
-  "candidate_git_blob": "c02f1e65f27ad56df3e9dc0870fab0261f303727",
+  "candidate_path": "projects/unstoppable/happy-makers-premium-v2/candidates/OWNER_READ_CANDIDATE_V2.txt",
+  "candidate_git_blob": "62221f043df2e8bc502fd81305a8dd8a39ec3cb5",
   "segment_count": 191,
   "stable_page_mapping": true,
   "segments": [
@@ -9,13 +9,13 @@
       "segment_id": "PRE.WELCOME",
       "source_page": 1,
       "function": "opening/product promise",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "PRE.CREW",
       "source_page": 2,
       "function": "Happy Makers roster + seventh-seat setup",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D01.INTRO",
@@ -24,7 +24,7 @@
       "source_page": 3,
       "function": "INTRO",
       "speaker": "Mimi",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D01.BRIEFING",
@@ -33,7 +33,7 @@
       "source_page": 4,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D01.WORKBENCH",
@@ -42,7 +42,7 @@
       "source_page": 5,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D01.SYSTEM_REBOOT",
@@ -51,7 +51,7 @@
       "source_page": 6,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D01.GLITCH_PUZZLE",
@@ -60,7 +60,7 @@
       "source_page": 7,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D01.FREE_ROAM",
@@ -69,7 +69,7 @@
       "source_page": 8,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D02.INTRO",
@@ -78,7 +78,7 @@
       "source_page": 9,
       "function": "INTRO",
       "speaker": "Luli",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D02.BRIEFING",
@@ -87,7 +87,7 @@
       "source_page": 10,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D02.WORKBENCH",
@@ -96,7 +96,7 @@
       "source_page": 11,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D02.SYSTEM_REBOOT",
@@ -105,7 +105,7 @@
       "source_page": 12,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D02.GLITCH_PUZZLE",
@@ -114,7 +114,7 @@
       "source_page": 13,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D02.FREE_ROAM",
@@ -123,7 +123,7 @@
       "source_page": 14,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D03.INTRO",
@@ -132,7 +132,7 @@
       "source_page": 15,
       "function": "INTRO",
       "speaker": "Nini",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D03.BRIEFING",
@@ -141,7 +141,7 @@
       "source_page": 16,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D03.WORKBENCH",
@@ -150,7 +150,7 @@
       "source_page": 17,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D03.SYSTEM_REBOOT",
@@ -159,7 +159,7 @@
       "source_page": 18,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D03.GLITCH_PUZZLE",
@@ -168,7 +168,7 @@
       "source_page": 19,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D03.FREE_ROAM",
@@ -177,7 +177,7 @@
       "source_page": 20,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D04.INTRO",
@@ -186,7 +186,7 @@
       "source_page": 21,
       "function": "INTRO",
       "speaker": "Nini",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D04.BRIEFING",
@@ -195,7 +195,7 @@
       "source_page": 22,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D04.WORKBENCH",
@@ -204,7 +204,7 @@
       "source_page": 23,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D04.SYSTEM_REBOOT",
@@ -213,7 +213,7 @@
       "source_page": 24,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D04.GLITCH_PUZZLE",
@@ -222,7 +222,7 @@
       "source_page": 25,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D04.FREE_ROAM",
@@ -231,7 +231,7 @@
       "source_page": 26,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D05.INTRO",
@@ -240,7 +240,7 @@
       "source_page": 27,
       "function": "INTRO",
       "speaker": "Alio",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D05.BRIEFING",
@@ -249,7 +249,7 @@
       "source_page": 28,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D05.WORKBENCH",
@@ -258,7 +258,7 @@
       "source_page": 29,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D05.SYSTEM_REBOOT",
@@ -267,7 +267,7 @@
       "source_page": 30,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D05.GLITCH_PUZZLE",
@@ -276,7 +276,7 @@
       "source_page": 31,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D05.FREE_ROAM",
@@ -285,7 +285,7 @@
       "source_page": 32,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D06.INTRO",
@@ -294,7 +294,7 @@
       "source_page": 33,
       "function": "INTRO",
       "speaker": "Grandma Bibi",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D06.BRIEFING",
@@ -303,7 +303,7 @@
       "source_page": 34,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D06.WORKBENCH",
@@ -312,7 +312,7 @@
       "source_page": 35,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D06.SYSTEM_REBOOT",
@@ -321,7 +321,7 @@
       "source_page": 36,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D06.GLITCH_PUZZLE",
@@ -330,7 +330,7 @@
       "source_page": 37,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D06.FREE_ROAM",
@@ -339,7 +339,7 @@
       "source_page": 38,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D07.INTRO",
@@ -348,7 +348,7 @@
       "source_page": 39,
       "function": "INTRO",
       "speaker": "Dilo",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D07.BRIEFING",
@@ -357,7 +357,7 @@
       "source_page": 40,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D07.WORKBENCH",
@@ -366,7 +366,7 @@
       "source_page": 41,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D07.SYSTEM_REBOOT",
@@ -375,7 +375,7 @@
       "source_page": 42,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D07.GLITCH_PUZZLE",
@@ -384,7 +384,7 @@
       "source_page": 43,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D07.FREE_ROAM",
@@ -393,7 +393,7 @@
       "source_page": 44,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D08.INTRO",
@@ -402,7 +402,7 @@
       "source_page": 45,
       "function": "INTRO",
       "speaker": "Luli",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D08.BRIEFING",
@@ -411,7 +411,7 @@
       "source_page": 46,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D08.WORKBENCH",
@@ -420,7 +420,7 @@
       "source_page": 47,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D08.SYSTEM_REBOOT",
@@ -429,7 +429,7 @@
       "source_page": 48,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D08.GLITCH_PUZZLE",
@@ -438,7 +438,7 @@
       "source_page": 49,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D08.FREE_ROAM",
@@ -447,7 +447,7 @@
       "source_page": 50,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D09.INTRO",
@@ -456,7 +456,7 @@
       "source_page": 51,
       "function": "INTRO",
       "speaker": "Dilo",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D09.BRIEFING",
@@ -465,7 +465,7 @@
       "source_page": 52,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D09.WORKBENCH",
@@ -474,7 +474,7 @@
       "source_page": 53,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D09.SYSTEM_REBOOT",
@@ -483,7 +483,7 @@
       "source_page": 54,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D09.GLITCH_PUZZLE",
@@ -492,7 +492,7 @@
       "source_page": 55,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D09.FREE_ROAM",
@@ -501,7 +501,7 @@
       "source_page": 56,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D10.INTRO",
@@ -510,7 +510,7 @@
       "source_page": 57,
       "function": "INTRO",
       "speaker": "Mimi",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D10.BRIEFING",
@@ -519,7 +519,7 @@
       "source_page": 58,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D10.WORKBENCH",
@@ -528,7 +528,7 @@
       "source_page": 59,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D10.SYSTEM_REBOOT",
@@ -537,7 +537,7 @@
       "source_page": 60,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D10.GLITCH_PUZZLE",
@@ -546,7 +546,7 @@
       "source_page": 61,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D10.FREE_ROAM",
@@ -555,7 +555,7 @@
       "source_page": 62,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D11.INTRO",
@@ -564,7 +564,7 @@
       "source_page": 63,
       "function": "INTRO",
       "speaker": "Mimi",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D11.BRIEFING",
@@ -573,7 +573,7 @@
       "source_page": 64,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D11.WORKBENCH",
@@ -582,7 +582,7 @@
       "source_page": 65,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D11.SYSTEM_REBOOT",
@@ -591,7 +591,7 @@
       "source_page": 66,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D11.GLITCH_PUZZLE",
@@ -600,7 +600,7 @@
       "source_page": 67,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D11.FREE_ROAM",
@@ -609,7 +609,7 @@
       "source_page": 68,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D12.INTRO",
@@ -618,7 +618,7 @@
       "source_page": 69,
       "function": "INTRO",
       "speaker": "Alio",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D12.BRIEFING",
@@ -627,7 +627,7 @@
       "source_page": 70,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D12.WORKBENCH",
@@ -636,7 +636,7 @@
       "source_page": 71,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D12.SYSTEM_REBOOT",
@@ -645,7 +645,7 @@
       "source_page": 72,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D12.GLITCH_PUZZLE",
@@ -654,7 +654,7 @@
       "source_page": 73,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D12.FREE_ROAM",
@@ -663,7 +663,7 @@
       "source_page": 74,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D13.INTRO",
@@ -672,7 +672,7 @@
       "source_page": 75,
       "function": "INTRO",
       "speaker": "Dilo",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D13.BRIEFING",
@@ -681,7 +681,7 @@
       "source_page": 76,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D13.WORKBENCH",
@@ -690,7 +690,7 @@
       "source_page": 77,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D13.SYSTEM_REBOOT",
@@ -699,7 +699,7 @@
       "source_page": 78,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D13.GLITCH_PUZZLE",
@@ -708,7 +708,7 @@
       "source_page": 79,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D13.FREE_ROAM",
@@ -717,7 +717,7 @@
       "source_page": 80,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D14.INTRO",
@@ -726,7 +726,7 @@
       "source_page": 81,
       "function": "INTRO",
       "speaker": "Team",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D14.BRIEFING",
@@ -735,7 +735,7 @@
       "source_page": 82,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D14.WORKBENCH",
@@ -744,7 +744,7 @@
       "source_page": 83,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D14.SYSTEM_REBOOT",
@@ -753,7 +753,7 @@
       "source_page": 84,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D14.GLITCH_PUZZLE",
@@ -762,7 +762,7 @@
       "source_page": 85,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D14.FREE_ROAM",
@@ -771,7 +771,7 @@
       "source_page": 86,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D15.INTRO",
@@ -780,7 +780,7 @@
       "source_page": 87,
       "function": "INTRO",
       "speaker": "Mimi",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D15.BRIEFING",
@@ -789,7 +789,7 @@
       "source_page": 88,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D15.WORKBENCH",
@@ -798,7 +798,7 @@
       "source_page": 89,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D15.SYSTEM_REBOOT",
@@ -807,7 +807,7 @@
       "source_page": 90,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D15.GLITCH_PUZZLE",
@@ -816,7 +816,7 @@
       "source_page": 91,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D15.FREE_ROAM",
@@ -825,7 +825,7 @@
       "source_page": 92,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D16.INTRO",
@@ -834,7 +834,7 @@
       "source_page": 93,
       "function": "INTRO",
       "speaker": "Grandma Bibi",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D16.BRIEFING",
@@ -843,7 +843,7 @@
       "source_page": 94,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D16.WORKBENCH",
@@ -852,7 +852,7 @@
       "source_page": 95,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D16.SYSTEM_REBOOT",
@@ -861,7 +861,7 @@
       "source_page": 96,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D16.GLITCH_PUZZLE",
@@ -870,7 +870,7 @@
       "source_page": 97,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D16.FREE_ROAM",
@@ -879,7 +879,7 @@
       "source_page": 98,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D17.INTRO",
@@ -888,7 +888,7 @@
       "source_page": 99,
       "function": "INTRO",
       "speaker": "Luli",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D17.BRIEFING",
@@ -897,7 +897,7 @@
       "source_page": 100,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D17.WORKBENCH",
@@ -906,7 +906,7 @@
       "source_page": 101,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D17.SYSTEM_REBOOT",
@@ -915,7 +915,7 @@
       "source_page": 102,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D17.GLITCH_PUZZLE",
@@ -924,7 +924,7 @@
       "source_page": 103,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D17.FREE_ROAM",
@@ -933,7 +933,7 @@
       "source_page": 104,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D18.INTRO",
@@ -942,7 +942,7 @@
       "source_page": 105,
       "function": "INTRO",
       "speaker": "Alio",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D18.BRIEFING",
@@ -951,7 +951,7 @@
       "source_page": 106,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D18.WORKBENCH",
@@ -960,7 +960,7 @@
       "source_page": 107,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D18.SYSTEM_REBOOT",
@@ -969,7 +969,7 @@
       "source_page": 108,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D18.GLITCH_PUZZLE",
@@ -978,7 +978,7 @@
       "source_page": 109,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D18.FREE_ROAM",
@@ -987,7 +987,7 @@
       "source_page": 110,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D19.INTRO",
@@ -996,7 +996,7 @@
       "source_page": 111,
       "function": "INTRO",
       "speaker": "Mimi",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D19.BRIEFING",
@@ -1005,7 +1005,7 @@
       "source_page": 112,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D19.WORKBENCH",
@@ -1014,7 +1014,7 @@
       "source_page": 113,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D19.SYSTEM_REBOOT",
@@ -1023,7 +1023,7 @@
       "source_page": 114,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D19.GLITCH_PUZZLE",
@@ -1032,7 +1032,7 @@
       "source_page": 115,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D19.FREE_ROAM",
@@ -1041,7 +1041,7 @@
       "source_page": 116,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D20.INTRO",
@@ -1050,7 +1050,7 @@
       "source_page": 117,
       "function": "INTRO",
       "speaker": "Nini",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D20.BRIEFING",
@@ -1059,7 +1059,7 @@
       "source_page": 118,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D20.WORKBENCH",
@@ -1068,7 +1068,7 @@
       "source_page": 119,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D20.SYSTEM_REBOOT",
@@ -1077,7 +1077,7 @@
       "source_page": 120,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D20.GLITCH_PUZZLE",
@@ -1086,7 +1086,7 @@
       "source_page": 121,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D20.FREE_ROAM",
@@ -1095,7 +1095,7 @@
       "source_page": 122,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D21.INTRO",
@@ -1104,7 +1104,7 @@
       "source_page": 123,
       "function": "INTRO",
       "speaker": "Luli",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D21.BRIEFING",
@@ -1113,7 +1113,7 @@
       "source_page": 124,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D21.WORKBENCH",
@@ -1122,7 +1122,7 @@
       "source_page": 125,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D21.SYSTEM_REBOOT",
@@ -1131,7 +1131,7 @@
       "source_page": 126,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D21.GLITCH_PUZZLE",
@@ -1140,7 +1140,7 @@
       "source_page": 127,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D21.FREE_ROAM",
@@ -1149,7 +1149,7 @@
       "source_page": 128,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D22.INTRO",
@@ -1158,7 +1158,7 @@
       "source_page": 129,
       "function": "INTRO",
       "speaker": "Nini",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D22.BRIEFING",
@@ -1167,7 +1167,7 @@
       "source_page": 130,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D22.WORKBENCH",
@@ -1176,7 +1176,7 @@
       "source_page": 131,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D22.SYSTEM_REBOOT",
@@ -1185,7 +1185,7 @@
       "source_page": 132,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D22.GLITCH_PUZZLE",
@@ -1194,7 +1194,7 @@
       "source_page": 133,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D22.FREE_ROAM",
@@ -1203,7 +1203,7 @@
       "source_page": 134,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D23.INTRO",
@@ -1212,7 +1212,7 @@
       "source_page": 135,
       "function": "INTRO",
       "speaker": "Mimi",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D23.BRIEFING",
@@ -1221,7 +1221,7 @@
       "source_page": 136,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D23.WORKBENCH",
@@ -1230,7 +1230,7 @@
       "source_page": 137,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D23.SYSTEM_REBOOT",
@@ -1239,7 +1239,7 @@
       "source_page": 138,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D23.GLITCH_PUZZLE",
@@ -1248,7 +1248,7 @@
       "source_page": 139,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D23.FREE_ROAM",
@@ -1257,7 +1257,7 @@
       "source_page": 140,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D24.INTRO",
@@ -1266,7 +1266,7 @@
       "source_page": 141,
       "function": "INTRO",
       "speaker": "Dilo",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D24.BRIEFING",
@@ -1275,7 +1275,7 @@
       "source_page": 142,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D24.WORKBENCH",
@@ -1284,7 +1284,7 @@
       "source_page": 143,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D24.SYSTEM_REBOOT",
@@ -1293,7 +1293,7 @@
       "source_page": 144,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D24.GLITCH_PUZZLE",
@@ -1302,7 +1302,7 @@
       "source_page": 145,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D24.FREE_ROAM",
@@ -1311,7 +1311,7 @@
       "source_page": 146,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D25.INTRO",
@@ -1320,7 +1320,7 @@
       "source_page": 147,
       "function": "INTRO",
       "speaker": "Luli",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D25.BRIEFING",
@@ -1329,7 +1329,7 @@
       "source_page": 148,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D25.WORKBENCH",
@@ -1338,7 +1338,7 @@
       "source_page": 149,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D25.SYSTEM_REBOOT",
@@ -1347,7 +1347,7 @@
       "source_page": 150,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D25.GLITCH_PUZZLE",
@@ -1356,7 +1356,7 @@
       "source_page": 151,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D25.FREE_ROAM",
@@ -1365,7 +1365,7 @@
       "source_page": 152,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D26.INTRO",
@@ -1374,7 +1374,7 @@
       "source_page": 153,
       "function": "INTRO",
       "speaker": "Grandma Bibi",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D26.BRIEFING",
@@ -1383,7 +1383,7 @@
       "source_page": 154,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D26.WORKBENCH",
@@ -1392,7 +1392,7 @@
       "source_page": 155,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D26.SYSTEM_REBOOT",
@@ -1401,7 +1401,7 @@
       "source_page": 156,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D26.GLITCH_PUZZLE",
@@ -1410,7 +1410,7 @@
       "source_page": 157,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D26.FREE_ROAM",
@@ -1419,7 +1419,7 @@
       "source_page": 158,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D27.INTRO",
@@ -1428,7 +1428,7 @@
       "source_page": 159,
       "function": "INTRO",
       "speaker": "Nini",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D27.BRIEFING",
@@ -1437,7 +1437,7 @@
       "source_page": 160,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D27.WORKBENCH",
@@ -1446,7 +1446,7 @@
       "source_page": 161,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D27.SYSTEM_REBOOT",
@@ -1455,7 +1455,7 @@
       "source_page": 162,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D27.GLITCH_PUZZLE",
@@ -1464,7 +1464,7 @@
       "source_page": 163,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D27.FREE_ROAM",
@@ -1473,7 +1473,7 @@
       "source_page": 164,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D28.INTRO",
@@ -1482,7 +1482,7 @@
       "source_page": 165,
       "function": "INTRO",
       "speaker": "Dilo",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D28.BRIEFING",
@@ -1491,7 +1491,7 @@
       "source_page": 166,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D28.WORKBENCH",
@@ -1500,7 +1500,7 @@
       "source_page": 167,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D28.SYSTEM_REBOOT",
@@ -1509,7 +1509,7 @@
       "source_page": 168,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D28.GLITCH_PUZZLE",
@@ -1518,7 +1518,7 @@
       "source_page": 169,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D28.FREE_ROAM",
@@ -1527,7 +1527,7 @@
       "source_page": 170,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D29.INTRO",
@@ -1536,7 +1536,7 @@
       "source_page": 171,
       "function": "INTRO",
       "speaker": "Nini",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D29.BRIEFING",
@@ -1545,7 +1545,7 @@
       "source_page": 172,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D29.WORKBENCH",
@@ -1554,7 +1554,7 @@
       "source_page": 173,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D29.SYSTEM_REBOOT",
@@ -1563,7 +1563,7 @@
       "source_page": 174,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D29.GLITCH_PUZZLE",
@@ -1572,7 +1572,7 @@
       "source_page": 175,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D29.FREE_ROAM",
@@ -1581,7 +1581,7 @@
       "source_page": 176,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D30.INTRO",
@@ -1590,7 +1590,7 @@
       "source_page": 177,
       "function": "INTRO",
       "speaker": "Mimi",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D30.BRIEFING",
@@ -1599,7 +1599,7 @@
       "source_page": 178,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D30.WORKBENCH",
@@ -1608,7 +1608,7 @@
       "source_page": 179,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D30.SYSTEM_REBOOT",
@@ -1617,7 +1617,7 @@
       "source_page": 180,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D30.GLITCH_PUZZLE",
@@ -1626,7 +1626,7 @@
       "source_page": 181,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D30.FREE_ROAM",
@@ -1635,7 +1635,7 @@
       "source_page": 182,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D31.INTRO",
@@ -1644,7 +1644,7 @@
       "source_page": 183,
       "function": "INTRO",
       "speaker": "Team",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D31.BRIEFING",
@@ -1653,7 +1653,7 @@
       "source_page": 184,
       "function": "BRIEFING",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D31.WORKBENCH",
@@ -1662,7 +1662,7 @@
       "source_page": 185,
       "function": "WORKBENCH",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D31.SYSTEM_REBOOT",
@@ -1671,7 +1671,7 @@
       "source_page": 186,
       "function": "SYSTEM_REBOOT",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D31.GLITCH_PUZZLE",
@@ -1680,7 +1680,7 @@
       "source_page": 187,
       "function": "GLITCH_PUZZLE",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "D31.FREE_ROAM",
@@ -1689,25 +1689,27 @@
       "source_page": 188,
       "function": "FREE_ROAM",
       "speaker": null,
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "BACK.SEVENTH_SEAT",
       "source_page": 189,
       "function": "ensemble emotional payoff / continuation hook",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "BACK.FIELD_KIT_1",
       "source_page": 190,
       "function": "quick-access field kit",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     },
     {
       "segment_id": "BACK.FIELD_KIT_2",
       "source_page": 191,
       "function": "quick-access field kit",
-      "status": "PREMIUM_WORKING"
+      "status": "OWNER_READ_CANDIDATE"
     }
-  ]
+  ],
+  "lifecycle_state": "OWNER_READ_CANDIDATE",
+  "last_updated": "2026-10-05"
 }
