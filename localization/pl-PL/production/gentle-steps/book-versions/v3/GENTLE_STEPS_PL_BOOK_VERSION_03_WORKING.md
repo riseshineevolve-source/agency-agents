@@ -789,7 +789,7 @@ Nie planujcie wyprawy życia. Liczą się też kino, naleśniki na kolację, spa
 
 Wystarczy jeden pomysł od każdej osoby.
 
-Luli: Naleśniki na kolację też są planem. Nie każdy dobry pomysł potrzebuje walizki.
+Luli: Marzenia nie tracą ważności tylko dlatego, że mieszczą się w kubku.
 
 ---
 
@@ -955,7 +955,7 @@ Może to być konkretne miejsce, zapach, dźwięk, zwyczaj albo coś, co dzieje 
 
 Nie musicie wybierać różnych rzeczy. Jeśli coś powtórzy się kilka razy, właśnie dowiedzieliście się czegoś o swoim domu.
 
-Mimi: Dom to też miejsce, w którym ulubiony stary dres może być od roku za mały, a i tak nadal wygrywać z całą szafą.
+Mimi: Dom to też miejsce, w którym najgorsze skarpetki świata mają pełne prawa obywatelskie.
 
 ---
 
