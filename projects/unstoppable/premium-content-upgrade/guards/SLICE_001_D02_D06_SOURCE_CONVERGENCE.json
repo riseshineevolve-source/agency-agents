@@ -1,0 +1,34 @@
+{
+  "slice_id": "SLICE_001_D02_D06_SOURCE_CONVERGENCE",
+  "base_master": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V0_BASELINE.txt",
+  "base_master_git_blob": "6cc8fb21111d0b4c100498186498c41358864e01",
+  "allowed_changed_segments": [
+    "D02.INTRO",
+    "D03.INTRO",
+    "D03.SYSTEM_REBOOT",
+    "D05.INTRO",
+    "D05.BRIEFING",
+    "D05.WORKBENCH",
+    "D05.SYSTEM_REBOOT",
+    "D05.GLITCH_PUZZLE",
+    "D06.INTRO",
+    "D06.BRIEFING",
+    "D06.WORKBENCH",
+    "D06.SYSTEM_REBOOT",
+    "D06.GLITCH_PUZZLE"
+  ],
+  "protected_regions": [
+    "ALL_OTHER_SEGMENTS",
+    "D04.*",
+    "PRE.*",
+    "D10.GLITCH_PUZZLE.PRINT_MECHANIC"
+  ],
+  "expected_dependency_closure": {
+    "validate_only": [
+      "BACK.FIRST_AID_KIT"
+    ],
+    "note": "Back matter remains blocked/stale until referenced day tools are content-stable; do not patch it in this slice."
+  },
+  "source_of_change": "riseshineevolve-source/unstoppable-me@b447bce6d2ba00fb24a983dc94e59a6df74b153c",
+  "reason": "inherit already reviewed safer/original copy; no discretionary rewrite"
+}
