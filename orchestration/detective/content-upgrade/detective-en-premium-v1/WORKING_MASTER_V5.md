@@ -1254,7 +1254,15 @@ Bibi takes the question - and the form - into the archive.
 ### CASE FILE // WHAT HAPPENED
 
 
-While Bibi disappears into the archive with a firm "records, not guesses," the Academy Science & Prototype Fair produces a problem even Dilo cannot solve by admiring the hardware. Two teams. One silver training rover. Two ownership checklists. Both teams claim the same prototype, and the access log is a mess. Dash is the last person the system places with certainty. Someone who shared his area may be the only human contact who saw how one rover became two records.
+Bibi disappears into the archive with the true **0** samples and one instruction for everyone else:
+
+"Records, not guesses."
+
+The Academy Science & Prototype Fair makes that difficult almost immediately.
+
+A Tech Lab mentor arrives at the Case Table with two team checklists and one silver training rover. Both teams say the prototype is theirs. Both records look plausible. The access log does not.
+
+Dash is the last person the system places with certainty. The one person who shared his area is the only witness positioned to clarify **who had access to the rover during the point where one ownership record became two.**
 
 
 ### YOUR OBJECTIVE
@@ -1305,7 +1313,23 @@ While Bibi disappears into the archive with a firm "records, not guesses," the A
 ### CASE FILE // WHAT HAPPENED
 
 
-The rover ownership is finally untangled, and Mimi starts emptying the evidence bag. Out come access cards, a cable tie, two pens, an oat bar and - after ten minutes of accusing the universe - her missing phone. The Science & Prototype Fair case window is **15:20-16:05**. One timestamped record belongs to a completely different moment. If it stays in the file, the timeline is wrong and breakfast becomes Exhibit H, which Mimi considers an unacceptable career move for an oat bar.
+The rover ownership is finally untangled, and Mimi starts emptying the evidence bag before returning everything.
+
+Access cards.
+
+A cable tie.
+
+Two pens.
+
+An oat bar.
+
+And, after ten minutes of accusing the universe, her missing phone.
+
+The Science & Prototype Fair happened between **15:20 and 16:05**. One timestamped record in the bag belongs to a completely different moment.
+
+Leave it in, and the timeline becomes false.
+
+Also, breakfast becomes Exhibit H. Mimi objects to both.
 
 
 ### YOUR OBJECTIVE
@@ -1356,11 +1380,15 @@ The rover ownership is finally untangled, and Mimi starts emptying the evidence 
 ### CASE FILE // WHAT HAPPENED
 
 
-The 08:07 record is removed from the science-fair file, and Mimi's breakfast is officially cleared of involvement. The next afternoon, the Academy Scenario Theater lends its stage to a visiting animal-care team rehearsing a family demonstration. Nini returns to the Case Table with a witness who has feathers, excellent lungs and strong opinions about crackers.
+The wrong timestamp comes out of the science-fair file, and Mimi's breakfast is cleared of involvement.
 
-A parrot has started repeating a four-word backstage access phrase nobody remembers teaching it.
+The next afternoon, the Academy Scenario Theater lends its stage to a visiting animal-care team. Halfway through rehearsal, Nini returns to the Case Table with a witness who has feathers, excellent lungs and extremely clear priorities.
 
-Winter is the one handler the rehearsal record places with certainty. The log cannot say who else was within earshot. The Stage Wing record can.
+The parrot keeps repeating a four-word backstage access phrase.
+
+Nobody remembers teaching it.
+
+Winter is the one handler the rehearsal record places with certainty. The person sharing Winter's mapped area is the only other human witness who may have been **close enough to say the phrase where the bird could learn it.**
 
 
 ### YOUR OBJECTIVE
@@ -1425,7 +1453,17 @@ Old photographs, saved maps and records that looked ordinary at first begin to m
 ### CASE FILE // WHAT HAPPENED
 
 
-The parrot mystery ends with the least sinister explanation available: an ordinary rehearsal cue repeated within earshot. That same afternoon, a ranger from the Academy Field Research Wing brings over a problem with less talking and more bad camera behavior. At **4:17**, a camera captured a blurry frame. Later, it was found in a different position from the one shown on the maintenance sheet. Remy signed that sheet and is the last reliable anchor. His room is the one place where the maintenance record can still overlap with a second witness.
+The parrot mystery closes with an ordinary answer: the phrase came from a rehearsal cue repeated within earshot.
+
+That same afternoon, a ranger from the Academy Field Research Wing walks in carrying a camera-maintenance sheet and a blurry frame stamped **4:17**.
+
+The camera was later found in a different position from the one recorded on the sheet.
+
+Remy signed the maintenance record. Whoever shared his room during the relevant window is the only witness who can help establish **whether the camera moved before the 4:17 image, after it, or during the maintenance handoff.**
+
+Alio has already mentioned a fox with pockets.
+
+Nobody writes that down.
 
 
 ### YOUR OBJECTIVE
@@ -1477,7 +1515,17 @@ The parrot mystery ends with the least sinister explanation available: an ordina
 ### CASE FILE // WHAT HAPPENED
 
 
-The camera case leaves one useful lesson behind: people can remember honestly and still remember wrong. The next morning, the Scenario Theater coordinator overhears Mimi saying exactly that and drops four statements from yesterday's rehearsal onto the Case Table. One journey cannot physically fit the printed travel times. If the team labels it a lie before checking the route, they could turn a bad memory into a bad accusation. Luli is not letting that happen on her watch.
+The camera case leaves Mimi with a problem that is bigger than one camera: two people can remember the same few minutes differently without either one lying.
+
+The next morning, the Scenario Theater coordinator overhears that conversation and places four rehearsal statements on the Case Table.
+
+"Then test these."
+
+Each witness describes a short backstage journey. One account cannot physically fit the printed travel times.
+
+This time, the job is not to catch a liar.
+
+It is to prove which memory cannot work **before** anybody mistakes confidence for honesty - or confusion for guilt.
 
 
 ### YOUR OBJECTIVE
@@ -1528,9 +1576,17 @@ The camera case leaves one useful lesson behind: people can remember honestly an
 ### CASE FILE // WHAT HAPPENED
 
 
-The timing check fixes the rehearsal log without turning anybody into a villain. Before sunrise the next day, the squad is loading gear for an Academy field-skills trip when two nearly identical backpacks change owners in a burst of everybody-being-helpful-at-once. Nothing has been stolen. Nobody is plotting anything. The bus is still leaving on time.
+The impossible journey turns out to be exactly what Luli expected: a timing mistake, not a villain.
 
-Milo is the cleanest fixed point in the departure record, and whoever was with him is the first reliable link in the handoff chain.
+Before sunrise the next day, the squad is loading gear for an Academy field-skills trip when two nearly identical backpacks change owners in a burst of everybody-helping-everybody-at-once.
+
+Nothing has been stolen.
+
+Nobody is plotting anything.
+
+The bus is still leaving on time.
+
+Milo is the cleanest fixed point in the departure record. The person sharing his room is the earliest witness who can say **which backpack was beside him before the handoff chain began to blur.**
 
 
 ### YOUR OBJECTIVE
