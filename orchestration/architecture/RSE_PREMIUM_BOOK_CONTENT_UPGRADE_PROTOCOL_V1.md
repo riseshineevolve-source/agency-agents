@@ -25,7 +25,10 @@ The governing principle is:
 
 The content lifecycle is:
 
-INITIAL MANUSCRIPT
+NEW-CHAT INTAKE
+-> ROUTE SELECTION
+-> SOURCE / VERSION INVENTORY
+-> SOURCE CONVERGENCE + GOLDEN KEEP REGISTRY
 -> SOURCE SNAPSHOT
 -> CONTENT MAP
 -> IMMUTABLE TRUTH + VOICE LOCKS
@@ -35,14 +38,55 @@ INITIAL MANUSCRIPT
 -> REGRESSION + ISOLATION QA
 -> FULL-BOOK ARC AUDIT
 -> OWNER-READ CANDIDATE
--> REAL-SURFACE FIT
--> FINAL PROOF
+-> OWNER CONTENT REVIEW
+-> CONTENT_APPROVED
+-> EXACT-HASH REAL-SURFACE FIT
+-> FINAL CONTENT PROOF
 -> FROZEN_CONTENT
 -> RSE BOOK AGENT / BOOK MAP / PRODUCTION
+-> PRINT/PREVIEWER PROOF
+-> PRINT_READY
+-> RELEASE_AUTHORIZED
 
 This protocol ends at FROZEN_CONTENT. The existing RSE Book Agent v3 then owns deterministic page production.
 
 ---
+
+## 0A. New-chat entry contract and route selection
+
+This workflow must be usable from a brand-new ChatGPT conversation with no dependence on prior chat memory.
+
+At the start of a new book job, the user provides:
+1. the initial/base manuscript file(s);
+2. target language;
+3. book character/type (for example narrative, family activity book, detective puzzle book, workbook, calendar, educational nonfiction);
+4. target audience and age range;
+5. desired style/voice/register;
+6. one of two production routes:
+   - **ROUTE A — SAME_LANGUAGE_PREMIUM_UPGRADE:** improve the book in the same language;
+   - **ROUTE B — CROSS_LANGUAGE_NATIVE_REAUTHORING:** use the original-language book as authority for content/function/truth, but create the target-language edition as if it had been written originally in that language. This is NOT sentence-by-sentence translation.
+
+Optional but strongly useful owner input:
+- examples of passages/style the owner considers excellent;
+- known weak passages;
+- non-negotiable facts/mechanics/characters/terms;
+- previously approved versions;
+- things the owner explicitly dislikes;
+- title/brand/recurring-label gates;
+- intended print/app surface.
+
+If some optional field is absent, the orchestrator may infer a provisional value from the source and mark it as an assumption. It must not invent a brand-defining or meaning-changing decision.
+
+The new chat must then:
+- locate/read this protocol and the project bootstrap;
+- establish GitHub as durable source of truth;
+- create or use exactly one owned working branch/surface;
+- capture the uploaded manuscript into durable source control before substantive editing;
+- select ROUTE A or ROUTE B explicitly;
+- build the initial source/version inventory;
+- proceed autonomously through bounded slices until a real owner gate.
+
+No previous chat transcript is required once the durable artifacts exist.
 
 # A-Z EXECUTION MAP
 
@@ -79,6 +123,31 @@ Example goals:
 
 Deliverable:
 - CONTENT_UPGRADE_BRIEF.md
+- TARGET_LANGUAGE_AND_STYLE_PROFILE.md
+- explicit route: SAME_LANGUAGE_PREMIUM_UPGRADE or CROSS_LANGUAGE_NATIVE_REAUTHORING
+
+### A1. Source/version convergence before new writing
+
+If more than one manuscript, near-final version, prior edition, owner-corrected file or approved fragment exists, do NOT choose one arbitrarily and discard the rest.
+
+Before creating the new working master:
+1. inventory every candidate source/version;
+2. hash every file;
+3. identify which one is structurally newest;
+4. compare materially different segments;
+5. collect owner-approved or demonstrably stronger fragments into a **GOLDEN_KEEP_REGISTRY**;
+6. identify conflicts explicitly;
+7. build one canonical baseline that preserves the best accepted work without silently combining incompatible logic.
+
+Deliverables:
+- SOURCE_VERSION_INVENTORY.json
+- SOURCE_CONVERGENCE_REPORT.md
+- GOLDEN_KEEP_REGISTRY.json
+
+Approval inheritance rule:
+**Previously approved or clearly stronger content remains KEEP/LOCKED unless a specific documented defect justifies reopening it.**
+
+Do not "modernize" or rewrite accepted passages merely because a newer full-file version exists.
 
 ## B. Baseline freeze before editing
 
@@ -231,11 +300,21 @@ For family/child books include:
 - no fake inspirational uplift;
 - no forced vulnerability.
 
-For localization, define whether the target should feel:
-1. controlled/source-led localization; or
-2. native re-authoring from function.
+For the universal book workflow the route is already fixed during intake:
 
-If native re-authoring is selected, sentence-level source wording is not the writing model. Function and truth are.
+1. **SAME_LANGUAGE_PREMIUM_UPGRADE**
+   - source wording is editable;
+   - preserve meaning, facts, mechanics, voice locks and accepted strong passages;
+   - improve the existing-language manuscript directly.
+
+2. **CROSS_LANGUAGE_NATIVE_REAUTHORING**
+   - the source-language book is authority for content/function/truth, not sentence shape;
+   - first extract a wording-free functional brief;
+   - write the target-language edition from function, reader needs, culture and voice;
+   - do not use literal or sentence-following translation as the production draft;
+   - reopen the source only later for fidelity backcheck.
+
+Legal/privacy/regulatory passages are excluded from creative native re-authoring and stay on a conservative translation/verification path.
 
 ## G. Global diagnostic audit before rewriting
 
@@ -357,10 +436,12 @@ That creates semantic drift and destroys strong lines.
 
 Instead run:
 BASE
--> parallel/independent specialist reviews
+-> first-pass independent specialist reviews
 -> orchestrator synthesis
 -> ONE writer patch
 -> independent validation
+
+First-pass reviewers should not serially rewrite or inherit another reviewer's wording before giving their own KEEP/FIX/BLOCK judgment. This reduces groupthink and preserves genuinely independent lenses.
 
 The orchestrator/editor-in-chief decides:
 - KEEP;
@@ -369,6 +450,12 @@ The orchestrator/editor-in-chief decides:
 - request a narrower revision.
 
 Review agents return targeted findings or candidate lines. They do not take ownership of the whole manuscript.
+
+One-writer-per-surface rule:
+- exactly one writer owns the canonical working master at a time;
+- no parallel chat/agent may edit the same master/branch concurrently;
+- other agents may read/review only;
+- ownership transfer requires a durable handoff/checkpoint.
 
 ## L. Route agents by defect type
 
@@ -537,6 +624,16 @@ Project-specific tests should encode defects previously found so they cannot sil
 
 Every bug worth fixing is a candidate regression test.
 
+Regression tests protect **intent and accepted behavior**, not stale wording for its own sake.
+
+If a regression test fails after a deliberate improvement:
+1. determine whether the manuscript regressed or the test is guarding an obsolete weaker version;
+2. never restore weaker content merely to make CI green;
+3. update the regression only after the new behavior/wording has passed the relevant meaning, mechanics, voice and owner-lock gates;
+4. record the new accepted lock in the checkpoint.
+
+This distinction is mandatory.
+
 ## S. Save a durable checkpoint only after PASS
 
 A checkpoint must include:
@@ -625,7 +722,9 @@ Human playtest/read-aloud evidence is stronger than editorial assumption when av
 
 ## W. Test the real surface without sacrificing meaning
 
-After language master quality is high, test the exact candidate in the real book template.
+After language master quality is high, test the **exact owner-read candidate hash** in the real book template.
+
+The REAL_SURFACE_FIT_REPORT must record the candidate/master hash it tested. A fit result from an older text version cannot approve a newer candidate.
 
 Check:
 - overflow;
@@ -655,6 +754,27 @@ simply to fit a page.
 
 Layout is not authorized to rewrite FROZEN_CONTENT.
 
+## W2. Status ladder — content is not the same as print or publication
+
+Use separate explicit states:
+
+1. DRAFT
+2. PREMIUM_WORKING
+3. OWNER_READ_CANDIDATE
+4. CONTENT_APPROVED
+5. FROZEN_CONTENT
+6. PRINT_READY
+7. RELEASE_AUTHORIZED
+
+Definitions:
+- **OWNER_READ_CANDIDATE** = editorial team believes substantive content defects are closed; owner has not necessarily approved.
+- **CONTENT_APPROVED** = owner has approved the exact candidate/content decisions.
+- **FROZEN_CONTENT** = approved content is hash-locked and may not be silently rewritten.
+- **PRINT_READY** = exact frozen content has passed real-template/render/preflight plus required Previewer/physical proof for the target channel.
+- **RELEASE_AUTHORIZED** = owner explicitly authorizes publication/release.
+
+Never call a book "KDP-ready", "print-ready" or "publication-ready" merely because the text is excellent.
+
 ## X. Build the Owner-Read Candidate
 
 When no known substantive content defect remains:
@@ -672,6 +792,8 @@ Owner review should focus on:
 - recurring labels;
 - final emotional tone;
 - unresolved legitimate alternatives.
+
+Previously approved KEEP segments inherit approval unless they are in the changed/dependency closure. The owner should not be forced to re-review unchanged content after every surgical patch.
 
 Do not make the owner rereview unchanged material because of unrelated technical changes.
 
@@ -730,6 +852,17 @@ Book Agent v3 must consume exact frozen content hashes.
 If a page does not fit, production raises an exception.
 It does not silently rewrite the manuscript.
 
+Physical/render production still has its own gates after content freeze:
+- exact-hash template fit;
+- visual proof;
+- machine/preflight QA;
+- KDP/target-platform Previewer where applicable;
+- physical proof when required by the project;
+- explicit PRINT_READY status;
+- explicit owner RELEASE_AUTHORIZED decision.
+
+Content freeze is therefore necessary but not sufficient for publication.
+
 ---
 
 # MULTI-AGENT COLLABORATION CONTRACT
@@ -750,6 +883,16 @@ Owns:
 
 It does not accept "agent consensus" blindly.
 It compares recommendations against locks and product goals.
+
+Decision precedence when reviewers disagree:
+1. explicit current owner lock;
+2. immutable truth / safety / mechanics / legal constraints;
+3. current canonical product brief and target-language/style profile;
+4. previously approved GOLDEN_KEEP content;
+5. evidence from reader/usability/logic review;
+6. stylistic preference.
+
+A lower-priority stylistic preference may not override a higher-priority lock.
 
 ## Review agents
 
@@ -799,22 +942,26 @@ Validators do not reopen style simply because they prefer another phrasing.
 Every serious RSE book upgrade should leave:
 
 1. CONTENT_UPGRADE_BRIEF.md
-2. SOURCE_MANIFEST.json
-3. ORIGINAL_BASELINE / immutable source snapshot
-4. CONTENT_MAP.json
-5. IMMUTABLE_FACTS.json or equivalent
-6. CHARACTER_VOICE_BIBLE.md when recurring characters exist
-7. TERMINOLOGY / glossary
-8. ISSUE_LEDGER.json
-9. EDIT_GUARD.json
-10. regression tests
-11. checkpoints/
-12. MULTI_AGENT_QA.md
-13. REAL_SURFACE_FIT_REPORT.md
-14. OWNER_READ_CANDIDATE
-15. OWNER_READ.pdf
-16. CONTENT_FREEZE_MANIFEST.json
-17. final handoff to BOOK_MAP.json
+2. TARGET_LANGUAGE_AND_STYLE_PROFILE.md
+3. SOURCE_MANIFEST.json
+4. SOURCE_VERSION_INVENTORY.json when multiple versions exist
+5. SOURCE_CONVERGENCE_REPORT.md when multiple versions exist
+6. GOLDEN_KEEP_REGISTRY.json
+7. ORIGINAL_BASELINE / immutable source snapshot
+8. CONTENT_MAP.json
+9. IMMUTABLE_FACTS.json or equivalent
+10. CHARACTER_VOICE_BIBLE.md when recurring characters exist
+11. TERMINOLOGY / glossary
+12. ISSUE_LEDGER.json
+13. EDIT_GUARD.json
+14. regression tests
+15. checkpoints/
+16. MULTI_AGENT_QA.md
+17. REAL_SURFACE_FIT_REPORT.md bound to exact candidate hash
+18. OWNER_READ_CANDIDATE
+19. OWNER_READ.pdf generated from that exact candidate
+20. CONTENT_FREEZE_MANIFEST.json
+21. final handoff to BOOK_MAP.json
 
 A chat message is not a substitute for any of these artifacts.
 
@@ -1003,6 +1150,11 @@ The following lessons from the Gentle Steps V2 upgrade are now universal:
 - density is a watchlist, not permission to cut safety or mechanics;
 - once a good section is stable, freeze it and stop touching it;
 - final owner-read should be generated from an exact candidate hash;
+- when multiple near-final sources exist, converge them first and preserve a GOLDEN_KEEP registry;
+- previously approved strong text inherits KEEP status until a documented defect reopens it;
+- regression tests protect accepted intent/behavior, not obsolete weaker wording;
+- real-template evidence is valid only for the exact candidate hash it rendered;
+- text-final, FROZEN_CONTENT, PRINT_READY and RELEASE_AUTHORIZED are separate states;
 - content finalization and page production are separate systems.
 
 This protocol is the mandatory editorial front-end to RSE Book Agent v3 for any manuscript that is not already owner-approved FROZEN_CONTENT.
