@@ -465,6 +465,96 @@
       "answer": "😐",
       "pattern": "two smiling faces, then one neutral face",
       "candidate_blob": "9dfb24eb9bc4a70f4120a0a8c635c9f23372d1e5"
+    },
+    {
+      "segment_id": "D25.GLITCH_PUZZLE",
+      "title": "Debug the Experiment",
+      "status": "PASS",
+      "correct_option": "B",
+      "answer": "Turning notifications off produced the clearest improvement in this tiny test.",
+      "reason": "Trial 1→2 changes notification state while study time stays 10 minutes and score rises 5→8. Trial 2→3 increases time but score stays 8.",
+      "claim_boundary": "This tiny test does not prove notifications are always harmful or that the same result applies to everyone.",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D27.GLITCH_PUZZLE",
+      "title": "The Flashlight Bridge",
+      "status": "PASS",
+      "times_minutes": [
+        1,
+        2,
+        5,
+        8
+      ],
+      "minimum_total_minutes": 15,
+      "canonical_solution": [
+        "1+2 cross = 2",
+        "1 returns = 1",
+        "5+8 cross = 8",
+        "2 returns = 2",
+        "1+2 cross = 2"
+      ],
+      "total_check": "2+1+8+2+2=15",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D28.GLITCH_PUZZLE",
+      "title": "Shift Code",
+      "status": "PASS",
+      "cipher": "FKDUDFWHU VKRZV XS LQ VPDOO FKRLFHV.",
+      "method": "Caesar shift +3 for encoding; decode by -3",
+      "answer": "CHARACTER SHOWS UP IN SMALL CHOICES.",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D30.GLITCH_PUZZLE",
+      "title": "The Evidence Hunt",
+      "status": "PASS_SELF_SCORED",
+      "completion_condition": "Reader records day numbers for one mission tried, one tool worth reusing and one answer/plan/opinion that changed.",
+      "fixed_answer": null,
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
+    },
+    {
+      "segment_id": "D31.GLITCH_PUZZLE",
+      "title": "The Final Key",
+      "status": "PASS",
+      "dependencies": [
+        "D04.GLITCH_PUZZLE",
+        "D15.GLITCH_PUZZLE",
+        "D02.GLITCH_PUZZLE",
+        "D22.GLITCH_PUZZLE",
+        "D09.GLITCH_PUZZLE"
+      ],
+      "clues": [
+        {
+          "source": "D04",
+          "answer": "RUNNING",
+          "letter": "R"
+        },
+        {
+          "source": "D15",
+          "answer": "ECHO",
+          "letter": "E"
+        },
+        {
+          "source": "D02",
+          "answer": "SOUTH",
+          "letter": "S"
+        },
+        {
+          "source": "D22",
+          "answer": "ENGINEERING",
+          "letter": "E"
+        },
+        {
+          "source": "D09 puzzle title",
+          "answer": "TIME",
+          "letter": "T"
+        }
+      ],
+      "answer": "RESET",
+      "meaning_lock": "Unstoppable is framed as the ability to reset and start again, not never stopping.",
+      "candidate_blob": "4b9898db55a4e179a2740f96e28949990b189f78"
     }
   ],
   "last_updated": "2026-10-05"
