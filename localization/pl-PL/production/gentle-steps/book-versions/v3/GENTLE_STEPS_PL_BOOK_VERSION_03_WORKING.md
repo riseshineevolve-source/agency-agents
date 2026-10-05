@@ -491,7 +491,7 @@ Każdy przypomina jedno zdanie, które w waszym domu pojawia się regularnie.
 
 Może to być: „Gdzie są klucze?”, „Kto ma ładowarkę?”, „Już idę!”, „Nie zostawiaj tego tutaj” albo coś, co dla innych rodzin nie znaczyłoby nic szczególnego, a u was wraca bez końca.
 
-Wybierzcie jedno, które najbardziej brzmi jak wasz dom. Nie musi być mądre ani reprezentacyjne. Im bardziej prawdziwe, tym lepiej.
+Wybierzcie jedno, które najbardziej brzmi jak wasz dom. Nie musi być mądre ani ładne. Im bardziej prawdziwe, tym lepiej.
 
 Luli: „Gdzie są klucze?” ma tę przewagę nad mottem, że naprawdę wraca.
 
@@ -898,7 +898,7 @@ Mimi: „No tam” nie jest kierunkiem świata. Sprawdziliśmy.
 
 Każdy kończy o sobie jedno zdanie:
 
-„Możecie do mnie przyjść, kiedy trzeba…”
+„Chętnie pomogę, kiedy trzeba…”
 
 Podajcie jedną konkretną rzecz, w której naprawdę chętnie pomagacie. Może chodzić o znalezienie zguby, wybranie filmu, wytłumaczenie zadania, zrobienie herbaty, ogarnięcie czegoś technicznego, rozśmieszenie kogoś albo wyjście z psem.
 
@@ -1054,7 +1054,7 @@ Luli: „Tak” i „nie” mają wolne. Nagle okazuje się, że „oczywiście�
 
 Każdy podaje jeden mały sygnał, który w waszym domu coś znaczy bez tłumaczenia.
 
-Może to być spojrzenie przy ostatnim kawałku pizzy, plecak postawiony przy drzwiach, kubek zostawiony obok kogoś, pies siedzący pod szafką ze smyczą albo mina, po której wszyscy wiedzą, że lepiej dać chwilę.
+Może to być spojrzenie przy ostatnim kawałku pizzy, plecak postawiony przy drzwiach, kubek zostawiony obok kogoś, pies siedzący przy drzwiach obok smyczy albo mina, po której wszyscy wiedzą, że lepiej dać chwilę.
 
 Powiedzcie krótko, co ten sygnał zwykle znaczy.
 
