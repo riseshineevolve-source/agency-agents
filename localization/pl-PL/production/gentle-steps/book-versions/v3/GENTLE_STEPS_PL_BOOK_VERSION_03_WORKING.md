@@ -1127,28 +1127,23 @@ Jeśli chcecie, każdy może powiedzieć jedną z nich na głos: „To może poc
 **NA JUTRO:** Przed snem albo pod koniec długiego dnia wybierz jedną naprawdę niepilną rzecz i świadomie zostaw ją na jutro.
 Dilo: Priorytety zaktualizowane. Skarpety przeżyją do rana.
 
-### GRAMY: ALIBI W 30 SEKUND
+### GRAMY: NA SZCZĘŚCIE / NIESTETY
 
-**START:** Zaczyna osoba, która jako ostatnia weszła do pokoju. Wymyśla jedno całkowicie fikcyjne, nieszkodliwe domowe „misterium”.
+**START:** Zaczyna osoba siedząca najbliżej drzwi. Otwiera całkowicie fikcyjną historię jednym zdaniem, na przykład: „Rano odkryliśmy, że choinka potrafi mówić” albo „Autobus zawiózł nas prosto na biegun północny”.
 
-Na przykład:
-- „Dlaczego łyżka znalazła się w przedpokoju?”,
-- „Skąd poduszka pod stołem?”,
-- „Dlaczego pilot leży obok butów?”.
+**GRAMY:** Kolejna osoba zaczyna swoje zdanie od „Na szczęście…” i poprawia sytuację.
 
-**GRAMY:** Osoba po lewej stronie ma 30 sekund na wymyślenie wyjaśnienia.
+Następna musi zacząć od „Niestety…” i znowu wszystko trochę komplikuje.
 
-Kiedy skończy, reszta może zadać jej maksymalnie trzy krótkie pytania. Odpowiedzi muszą pasować do historii, którą już opowiedziała.
+Potem dalej na zmianę: „Na szczęście…”, „Niestety…”, „Na szczęście…”. Każda osoba dodaje tylko jedno zdanie. Nie cofajcie historii i nie poprawiajcie poprzednich pomysłów, nawet jeśli właśnie zrobiło się kompletnie absurdalnie.
 
-Potem osoba, która właśnie tłumaczyła sytuację, wymyśla nowe misterium dla kolejnej osoby.
+Zróbcie dwa pełne okrążenia albo skończcie wcześniej, jeśli traficie na zakończenie, którego szkoda byłoby zepsuć.
 
-Nie używajcie prawdziwych rodzinnych oskarżeń, wpadek ani tematów, które mogłyby kogoś zawstydzić.
+**FINAŁ:** Zacznijcie nową historię i spróbujcie utrzymać ją przez minutę bez dłuższych przerw między odpowiedziami.
 
-**FINAŁ:** Ostatnia osoba dostaje misterium i trzy przypadkowe słowa, które musi wpleść w swoje wyjaśnienie.
+**W DWIE OSOBY:** Jedna osoba mówi „Na szczęście…”, druga „Niestety…”. Po sześciu zdaniach zamieńcie się rolami i zacznijcie nową historię.
 
-**W DWIE OSOBY:** Jedna osoba wymyśla misterium, druga odpowiada i dostaje trzy pytania. Potem zamieniacie się rolami.
-
-Nini: Po trzecim pytaniu najważniejsze jest już tylko jedno: pamiętać własną wersję.
+Alio: Na szczęście historia idzie dalej. Niestety nikt już nie wie, dokąd.
 
 ### MIĘDZY NAMI: PRZEPRASZAM ZA…
 
