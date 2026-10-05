@@ -1,0 +1,50 @@
+{
+  "slice_id": "SLICE_002_GLOBAL_QUOTE_SYSTEM_CONVERGENCE",
+  "base_master": "projects/unstoppable/premium-content-upgrade/working/WORKING_MASTER_V1_CONVERGED_D02_D06.txt",
+  "base_master_git_blob": "64014accd8386a09150d158dd043a56874eb0f45",
+  "allowed_changed_subregions": [
+    "D01.INTRO.QUOTE",
+    "D04.INTRO.QUOTE",
+    "D07.INTRO.QUOTE",
+    "D08.INTRO.QUOTE",
+    "D09.INTRO.QUOTE",
+    "D10.INTRO.QUOTE",
+    "D11.INTRO.QUOTE",
+    "D12.INTRO.QUOTE",
+    "D13.INTRO.QUOTE",
+    "D14.INTRO.QUOTE",
+    "D15.INTRO.QUOTE",
+    "D16.INTRO.QUOTE",
+    "D17.INTRO.QUOTE",
+    "D18.INTRO.QUOTE",
+    "D19.INTRO.QUOTE",
+    "D20.INTRO.QUOTE",
+    "D21.INTRO.QUOTE",
+    "D22.INTRO.QUOTE",
+    "D23.INTRO.QUOTE",
+    "D24.INTRO.QUOTE",
+    "D25.INTRO.QUOTE",
+    "D26.INTRO.QUOTE",
+    "D27.INTRO.QUOTE",
+    "D28.INTRO.QUOTE",
+    "D29.INTRO.QUOTE",
+    "D30.INTRO.QUOTE",
+    "D31.INTRO.QUOTE"
+  ],
+  "protected_regions": [
+    "ALL_INTRO_MESSAGE_TEXT",
+    "ALL_NON_INTRO_SEGMENTS",
+    "D02.INTRO",
+    "D03.INTRO",
+    "D05.INTRO",
+    "D06.INTRO"
+  ],
+  "expected_dependency_closure": {
+    "validate_only": [
+      "GLOBAL.QUOTE_SYSTEM",
+      "GOLDEN_KEEP_REGISTRY"
+    ]
+  },
+  "source_of_change": "riseshineevolve-source/unstoppable-me@b447bce6d2ba00fb24a983dc94e59a6df74b153c",
+  "reason": "current canonical revival source has original Project Unstoppable quote copy on all 31 days; converge remaining print quote tails without changing intro messages"
+}
