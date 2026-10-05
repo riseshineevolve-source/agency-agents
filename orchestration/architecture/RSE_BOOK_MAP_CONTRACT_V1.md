@@ -27,6 +27,21 @@ It prevents a local change from silently altering unrelated pages.
 - `dependency_graph`
 - `release`
 
+### Mandatory editorial source lock
+
+For any manuscript that was not already owner-approved frozen input before RSE production, `source_lock` must include:
+- exact premium content master path;
+- premium content master SHA-256 / Git blob identity;
+- `CONTENT_FREEZE_MANIFEST` path + hash;
+- Content Map hash;
+- language/edition identity;
+- unresolved approved exceptions, if any.
+
+The canonical pre-freeze editorial workflow is:
+`orchestration/architecture/RSE_PREMIUM_BOOK_CONTENT_UPGRADE_PROTOCOL_V1.md`.
+
+If the freeze manifest is missing, the Book Map generator must fail closed rather than select an informal "latest" manuscript or rewrite copy during rendering.
+
 ## Page record
 
 Every physical page has a stable `page_id` that never changes because page content changes.
