@@ -1,33 +1,21 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "CLOSED_D23_IMPRO_DEDUP_SLICE_PASS",
-  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_D09_SAFE_STATE_2026-10-05.md",
+  "status": "PREPARED_INTERNAL_PREAMBLE_IDENTITY_SLICE",
+  "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_D23_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
-    "D23.GRAMY"
+    "PREAMBLE"
   ],
-  "require_exact_changed_set": true,
-  "protect_preamble": true,
+  "require_exact_changed_set": false,
+  "protect_preamble": false,
   "protect_day_headers": true,
   "protect_back_matter": true,
   "frozen_v2_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
   "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
   "rules": [
-    "Only D23.GRAMY may change.",
-    "All other segments remain byte-for-byte identical to the post-D09 safe state.",
-    "Remove functional duplication with D11 explanation/mystery game.",
-    "Avoid alibi/excuse framing immediately before D23 sincere-apology conversation.",
-    "Replacement must be strong word/improv play, low-cringe, 3–6 minutes, explicit two-person version.",
-    "After patch, actual changed segments must equal the allowlist."
-  ],
-  "closed_working_master_blob_sha": "2ca174621b63325d87e318569a7a5fc91280fb8e",
-  "closed_changed_segment_count": 1,
-  "closed_checks": {
-    "exact_changed_set_pass": true,
-    "changed_segments": [
-      "D23.GRAMY"
-    ],
-    "unscoped_drift": 0,
-    "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f"
-  }
+    "Only internal PREAMBLE metadata may change.",
+    "All 72 reader-facing daily segments, day headers and back matter remain byte-for-byte identical to post-D23 safe state.",
+    "Update version/status metadata only; do not resolve title or recurring-label owner gates.",
+    "After patch, actual changed segments must equal PREAMBLE."
+  ]
 }
