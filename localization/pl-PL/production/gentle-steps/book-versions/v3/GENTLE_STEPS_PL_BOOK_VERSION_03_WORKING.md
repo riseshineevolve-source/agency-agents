@@ -267,7 +267,7 @@ Potem zostańcie jeszcze przez chwilę przy swoim zwykłym oddechu.
 
 
 **NA JUTRO:** Gdy odpowiedź już ci się ciśnie, bo wszyscy poganiają albo coś cię zirytuje, przejdź kciukiem po czterech palcach we własnym tempie, zanim coś powiesz.
-Alio: Pierwsza grudniowa rzecz, przy której nikt nie mówi: „szybciej, bo się spóźnimy”. Lubię ten sport.
+Alio: Nikt nie mówi „szybciej”. Dobra, to mi się podoba.
 
 ### GRAMY: WSZYSCY NARAZ
 
