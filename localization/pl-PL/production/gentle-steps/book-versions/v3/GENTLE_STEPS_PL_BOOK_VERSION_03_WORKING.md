@@ -1,16 +1,17 @@
-# Polish Book Version 02 — Working Master
+# Polish Book Version 03 — Premium Upgrade Working Master
 
-Status: **ACTIVE OWNER-DIRECTED UPGRADE / VERSION 01 PRESERVED / NOT PUBLICATION-LOCKED**
+Status: **PREMIUM_WORKING / V02 BASELINE PRESERVED / NOT CONTENT-FROZEN / NOT PRINT-READY**
 
-Owner direction for Version 02:
-- same 24-day structure and three daily functions;
-- much more recognisable Polish December reality;
-- stronger practical micro-resets inside real family chaos;
-- games must create laughter, cooperation, trust and shared success;
-- conversations must deepen family knowledge, appreciation and memory without becoming therapy;
-- Happy Makers comments must be sharp, distinct, self-aware and genuinely funny;
-- suitable for children while not feeling childish to older children;
-- daily experience should fit roughly 10 minutes.
+Owner direction for Version 03:
+- preserve strong V02 copy; KEEP beats rewrite;
+- keep the 24-day structure and three daily functions;
+- every ZWOLNIJ teaches one practical next-day reuse cue through **NA JUTRO**;
+- curate GRAMY across four families: team/cooperation, genuine laughter, word/improv, and other best-of;
+- every game must make START, play loop, ending and two-person form clear, with safety/consent where relevant;
+- Happy Makers humor must be situational, character-specific and logically connected to the exact scene;
+- remove filler, repeated function, coaching/mindfulness residue and forced humor;
+- preserve natural premium Polish suitable for children roughly 8–12 and adults participating with them;
+- daily experience should remain compatible with roughly 10 minutes.
 
 Current title candidates remain owner-gated:
 1. **ŚWIĘTA SĄ TEŻ PO DRODZE**
