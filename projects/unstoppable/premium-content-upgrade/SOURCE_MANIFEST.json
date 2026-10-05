@@ -1,0 +1,33 @@
+{
+  "book_id": "project-unstoppable-en",
+  "captured_at": "2026-10-05",
+  "route": "SAME_LANGUAGE_PREMIUM_UPGRADE",
+  "uploaded_sources": [
+    {
+      "source_id": "UPLOADED_DOCX_TEXT",
+      "filename": "Project_Unstoppable_extracted_text(1).docx",
+      "bytes": 57708,
+      "sha256": "1c401ce9e6a4786b86b45da4d066fb7aaca0aca52ae77234b59282a194b54f1c",
+      "normalized_text_sha256_local_extraction": "36a1f157254062f0def752cedb6be09f549292df732efded2025acb612ef1fde",
+      "durable_snapshot_path": "projects/unstoppable/premium-content-upgrade/sources/ORIGINAL_BASELINE_EXTRACTED_2026-10-05.txt",
+      "durable_git_blob_sha": "6cc8fb21111d0b4c100498186498c41358864e01"
+    },
+    {
+      "source_id": "UPLOADED_PDF",
+      "filename": "Project_Unstoppable_6x10_Fixed(1).pdf",
+      "bytes": 993654,
+      "sha256": "2a4659b411ef077e05409c320dd1e2a9ddc296ffa42a10a99f361aa800331023",
+      "pages": 191,
+      "note": "visual/structural reference; binary not duplicated into agency-agents"
+    },
+    {
+      "source_id": "REVIVAL_APP_SOURCE",
+      "repository": "riseshineevolve-source/unstoppable-me",
+      "branch": "codex/unstoppable-me-revival",
+      "head": "b447bce6d2ba00fb24a983dc94e59a6df74b153c",
+      "path": "src/data/adventureData.ts",
+      "git_blob_sha": "92e1b19a0cb2b906b4c0393e452fd2e5c5b55cd5",
+      "durable_snapshot_path": "projects/unstoppable/premium-content-upgrade/sources/REVIVAL_APP_ADVENTURE_DATA_b447bce.ts"
+    }
+  ]
+}
