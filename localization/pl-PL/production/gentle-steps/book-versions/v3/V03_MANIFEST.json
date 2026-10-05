@@ -2,7 +2,7 @@
   "format": "rse-gentle-steps-v03-manifest-v1",
   "date": "2026-10-05",
   "route": "SAME_LANGUAGE_PREMIUM_UPGRADE",
-  "status": "OWNER_READ_CANDIDATE",
+  "status": "OWNER_READ_CANDIDATE_R2",
   "source_v2": {
     "path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
     "git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
@@ -10,11 +10,12 @@
   },
   "working_master": {
     "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
-    "git_blob_sha": "de78cedd27fdfffe18f4a92a02f03a1187d7d16c"
+    "git_blob_sha": "e6befddb4af6196e19658ee513ec116ecc16b492"
   },
   "owner_read_candidate": {
-    "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_2026-10-05.md",
-    "git_blob_sha": "de78cedd27fdfffe18f4a92a02f03a1187d7d16c"
+    "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R2_2026-10-05.md",
+    "git_blob_sha": "e6befddb4af6196e19658ee513ec116ecc16b492",
+    "supersedes": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_2026-10-05.md"
   },
   "structure": {
     "days": 24,
@@ -43,7 +44,8 @@
     "issue_ledger": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_ISSUE_LEDGER.md",
     "game_system_audit": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_GAME_SYSTEM_AUDIT.md",
     "golden_keep": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_GOLDEN_KEEP_REGISTRY.md",
-    "surgical_guard": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_SURGICAL_EDIT_GUARD.json"
+    "surgical_guard": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_SURGICAL_EDIT_GUARD.json",
+    "miedzy_nami_qa": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_MIEDZY_NAMI_QA_2026-10-05.md"
   },
   "owner_gates": [
     "final Polish title",
@@ -55,5 +57,17 @@
   ],
   "publication_authorized": false,
   "content_frozen": false,
-  "print_ready": false
+  "print_ready": false,
+  "miedzy_nami_review": {
+    "audit": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_MIEDZY_NAMI_AUDIT_2026-10-05.md",
+    "qa": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_MIEDZY_NAMI_QA_2026-10-05.md",
+    "reviewed": 24,
+    "kept": 20,
+    "changed": [
+      "D08.MIĘDZY NAMI",
+      "D10.MIĘDZY NAMI",
+      "D18.MIĘDZY NAMI",
+      "D21.MIĘDZY NAMI"
+    ]
+  }
 }
