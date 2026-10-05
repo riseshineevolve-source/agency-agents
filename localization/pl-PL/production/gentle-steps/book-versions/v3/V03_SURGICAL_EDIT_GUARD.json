@@ -1,10 +1,11 @@
 {
   "format": "rse-gentle-steps-v03-surgical-edit-guard-v1",
-  "status": "PREPARED_READER_EMDASH_CLEANUP",
+  "status": "PREPARED_R3_TECHNICAL_MICRO_CLEANUP",
   "base_snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/GENTLE_STEPS_PL_V03_POST_FINAL_CONTENT_FIXES_SAFE_STATE_2026-10-05.md",
   "current_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_WORKING.md",
   "allowed_changed_segments": [
     "D05.GRAMY",
+    "D09.GRAMY",
     "D24.GRAMY"
   ],
   "require_exact_changed_set": false,
@@ -14,10 +15,11 @@
   "frozen_v2_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
   "frozen_v2_git_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
   "rules": [
-    "Only reader-facing em dash typography may change in D05.GRAMY and D24.GRAMY.",
-    "No wording, mechanics, counts, safety, humor or structure changes.",
-    "All other content remains byte-for-byte identical.",
-    "Target reader-facing em dash count after patch: 0.",
-    "After patch actual changed segments must equal D05.GRAMY and D24.GRAMY."
+    "R3 candidate may differ from post-final-content-fixes safe state only in D05.GRAMY, D09.GRAMY and D24.GRAMY.",
+    "D05: remove reader-facing em dash only.",
+    "D09: change po dwa ruchy to po dwie tury only.",
+    "D24: replace mission-heading em dashes with colons only.",
+    "No other wording, mechanics, counts, comments or structure may change.",
+    "R3 reader-facing em dash target: 0."
   ]
 }
