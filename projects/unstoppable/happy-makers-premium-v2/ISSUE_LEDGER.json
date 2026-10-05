@@ -1,8 +1,9 @@
 {
   "book_id": "project-unstoppable-en-happy-makers-v2",
   "current_master": {
-    "path": "projects/unstoppable/happy-makers-premium-v2/working/WORKING_MASTER_V7_FRESH_EYES_FIXES.txt",
-    "git_blob": "c02f1e65f27ad56df3e9dc0870fab0261f303727"
+    "path": "projects/unstoppable/happy-makers-premium-v2/candidates/OWNER_READ_CANDIDATE_V2.txt",
+    "git_blob": "62221f043df2e8bc502fd81305a8dd8a39ec3cb5",
+    "status": "OWNER_READ_CANDIDATE"
   },
   "issues": [
     {
