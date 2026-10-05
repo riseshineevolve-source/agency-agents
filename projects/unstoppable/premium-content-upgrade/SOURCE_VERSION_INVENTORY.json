@@ -1,0 +1,50 @@
+{
+  "canonical_decision": "Uploaded KDP source remains full print-structure baseline. Current revival app source wins only where earlier reviewed safer/original copy is explicitly documented. Newer is not automatically better.",
+  "versions": [
+    {
+      "id": "V1_PDF",
+      "kind": "print_pdf",
+      "status": "BASE_STRUCTURAL_REFERENCE",
+      "identity": "uploaded PDF, 191 pages, 31 days",
+      "independent_version": true
+    },
+    {
+      "id": "V1_DOCX_EXTRACT",
+      "kind": "text_extraction",
+      "status": "IMMUTABLE_TEXT_BASELINE",
+      "identity": "text extraction of V1_PDF",
+      "independent_version": false
+    },
+    {
+      "id": "V2_APP_MAIN",
+      "kind": "app_content",
+      "status": "HISTORICAL_REFERENCE",
+      "repo": "riseshineevolve-source/unstoppable-me",
+      "branch": "main",
+      "head": "df1014c7318d6b14a97ef183790c8b3c7b3ad0c2"
+    },
+    {
+      "id": "V3_APP_REVIVAL",
+      "kind": "reviewed_app_content",
+      "status": "GOLDEN_KEEP_SOURCE_FOR_REVIEWED_DELTAS",
+      "repo": "riseshineevolve-source/unstoppable-me",
+      "branch": "codex/unstoppable-me-revival",
+      "head": "b447bce6d2ba00fb24a983dc94e59a6df74b153c"
+    },
+    {
+      "id": "EMPTY_EDIT_REPO",
+      "kind": "repo",
+      "status": "EXCLUDED",
+      "repo": "riseshineevolve-source/Unstoppable-Me-Edit",
+      "reason": "repository is empty"
+    },
+    {
+      "id": "COMMERCIAL_BRIEF_2026_10_05",
+      "kind": "positioning_brief",
+      "status": "PRODUCT_PROFILE_INPUT_NOT_MANUSCRIPT",
+      "repo": "riseshineevolve-source/agency-agents",
+      "branch": "strategy/unstoppable-optical-commercial-deep-dive",
+      "path": "marketing/UNSTOPPABLE_COMMERCIAL_DEEP_DIVE_2026-10-05.md"
+    }
+  ]
+}
