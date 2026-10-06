@@ -1,41 +1,20 @@
 {
   "format": "rse-gentle-steps-en-v2-surgical-edit-guard-v1",
-  "status": "CLOSED_ACTIVITY_COMPLETENESS_PASS",
-  "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_EN_V02_POST_INITIAL_NATIVE_REFINEMENT_SAFE_STATE_2026-10-06.md",
-  "base_blob_sha": "a5f7258ca9995eda9b72d7e8e554d2db3c2319fd",
+  "status": "PREPARED_READER_EXPERIENCE_MICRO_SLICE",
+  "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_EN_V02_POST_ACTIVITY_COMPLETENESS_SAFE_STATE_2026-10-06.md",
+  "base_blob_sha": "9c4e2615afedb8997aae475ace403db128ffd329",
   "allowed_changed_segments": [
-    "D01.PLAY",
-    "D02.PLAY",
-    "D03.PLAY",
-    "D11.PLAY",
-    "D12.PLAY",
-    "D13.PLAY",
-    "D19.PLAY",
-    "D21.PLAY",
-    "D22.PLAY",
-    "D23.PLAY"
+    "D03.PAUSE",
+    "D04.PAUSE",
+    "D09.PLAY",
+    "BACK.ONE_EVENING_LATER"
   ],
   "rules": [
-    "Mechanical clarity only.",
-    "No game concept redesign.",
-    "Apply only findings from EN_V2_ACTIVITY_COMPLETENESS_QA_2026-10-06.md.",
+    "Apply only EN2-F201 through EN2-F204.",
+    "No other reader-facing content may change.",
     "No PL file may be modified.",
     "After patch actual changed-set must match allowlist."
   ],
   "require_exact_changed_set": true,
-  "pl_r4_reference_unchanged": true,
-  "closed_working_master_blob_sha": "9c4e2615afedb8997aae475ace403db128ffd329",
-  "closed_changed_segments": [
-    "D01.PLAY",
-    "D02.PLAY",
-    "D03.PLAY",
-    "D11.PLAY",
-    "D12.PLAY",
-    "D13.PLAY",
-    "D19.PLAY",
-    "D21.PLAY",
-    "D22.PLAY",
-    "D23.PLAY"
-  ],
-  "unscoped_drift": 0
+  "pl_r4_reference_unchanged": true
 }
