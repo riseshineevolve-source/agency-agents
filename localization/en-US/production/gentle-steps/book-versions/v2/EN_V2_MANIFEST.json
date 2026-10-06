@@ -1,0 +1,46 @@
+{
+  "format": "rse-gentle-steps-en-v2-manifest-v1",
+  "date": "2026-10-06",
+  "branch": "gentle-steps/en-v1-native-upgrade",
+  "route": "CROSS_LANGUAGE_NATIVE_REAUTHORING_WITH_STRONG_TARGET_REFERENCE",
+  "status": "OWNER_READ_CANDIDATE_R1",
+  "pl_reference_master": {
+    "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md",
+    "git_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
+    "immutable_read_only": true
+  },
+  "legacy_en_source": {
+    "name": "24 Gentle Paperback ok(4).pdf",
+    "sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+    "pages": 104,
+    "preserved_read_only": true
+  },
+  "working_master": {
+    "path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_WORKING.md",
+    "git_blob_sha": "ae89138636de5a2c3f88896197b301259896601c"
+  },
+  "owner_read_candidate": {
+    "path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R1_2026-10-06.md",
+    "git_blob_sha": "ae89138636de5a2c3f88896197b301259896601c"
+  },
+  "structure": {
+    "days": 24,
+    "pause": 24,
+    "play": 24,
+    "between_us": 24,
+    "try_it_tomorrow": 24,
+    "explicit_start": 24,
+    "explicit_two_person": 24
+  },
+  "owner_gates": [
+    "final title/subtitle",
+    "freeze recurring labels PAUSE / PLAY / BETWEEN US",
+    "owner content approval of exact candidate",
+    "exact-hash layout/template proof",
+    "KDP/Previewer/physical proof as required",
+    "release authorization"
+  ],
+  "content_frozen": false,
+  "print_ready": false,
+  "publication_authorized": false
+}
