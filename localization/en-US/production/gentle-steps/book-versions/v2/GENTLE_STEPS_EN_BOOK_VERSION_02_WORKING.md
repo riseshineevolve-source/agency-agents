@@ -111,9 +111,9 @@ This time, when you throw it, tell the person catching it one specific good thin
 
 Not "you're awesome." Something real.
 
-The catcher just says, "Thanks," then passes the ball on.
+The catcher just says, "Thanks," then passes the ball to someone who has not heard a Round 2 sentence yet.
 
-The game ends when everyone has heard one specific good thing.
+The final catcher sends the ball back to the starter, so everyone receives one specific good thing.
 
 **TWO PEOPLE:** Toss the ball back and forth. Change its properties in Round 1. In Round 2, each of you tells the other one specific good thing.
 
@@ -167,7 +167,7 @@ Mimi: The missing glove cannot get much farther away in one minute. Search tempo
 
 ### PLAY: ORCHESTRA WITH NO REHEARSAL
 
-**START:** The person with the next birthday begins by making one short sound, such as "boom," "ding," "pop," or "whoop."
+**START:** Stand or sit in a circle. The person with the next birthday begins by making one short sound, such as "boom," "ding," "pop," or "whoop."
 
 **PLAY:** Going clockwise, each person repeats all the sounds that came before, in order, then adds one new sound.
 
@@ -231,7 +231,7 @@ Alio: Backpack stays by the door. The math quiz can stay there too. At least for
 
 ### PLAY: FREEZE FRAME
 
-**START:** The youngest person gives the first prompt.
+**START:** Stand or sit in a circle. The youngest person gives the first prompt.
 
 **PLAY:** When the prompt is called, everyone, including the caller, immediately makes a pose and freezes for three seconds.
 
@@ -865,7 +865,7 @@ Nini: Jaw is off duty. Even if somebody just remembered something they need tomo
 
 ### PLAY: WHAT HAPPENED HERE?
 
-**START:** The person wearing the most colorful socks invents one harmless household mystery, for example:
+**START:** Sit or stand in a circle. The person wearing the most colorful socks invents one harmless household mystery, for example:
 
 "Why is there a spoon in a shoe?"
 
@@ -939,7 +939,7 @@ Mimi: Relax. This is not a competition for Most Meaningful Eye Contact.
 
 ### PLAY: FIVE WORDS. TWO LIES.
 
-**START:** The person with the longest first name secretly chooses a recognizable person, animal, object, or character from a movie, book, game, or show.
+**START:** Sit or stand in a circle. The person with the longest first name secretly chooses a recognizable person, animal, object, or character from a movie, book, game, or show.
 
 **PLAY:** Describe your choice using exactly five individual words:
 
@@ -1036,7 +1036,9 @@ They do not need the real answer.
 
 They need a theory that sounds impressively confident.
 
-Then that expert picks the next person, and the group gives them a new topic.
+Then that expert picks someone who has not gone yet, and the group gives them a new topic.
+
+Continue until everyone who wants a turn has been the expert once.
 
 Keep topics absurd and harmless.
 
@@ -1567,7 +1569,7 @@ Do not climb on anything.
 
 The guesser turns back and has up to 30 seconds to find the change.
 
-Then the next person clockwise becomes the guesser.
+Then another person becomes the guesser. Continue until everyone has had a turn.
 
 **FINALE:** In the last round, make two small changes instead of one.
 
@@ -1713,7 +1715,7 @@ Nini: If the refrigerator is still humming, we are not negotiating with it.
 
 ### PLAY: NO "YES." NO "NO."
 
-**START:** The person whose first name comes first alphabetically answers first.
+**START:** Sit in a circle or around a table. The person whose first name comes first alphabetically answers first.
 
 The person to their right asks the questions.
 
@@ -1819,7 +1821,7 @@ On "three, two, one," everyone else acts out the same prompt at the same time, w
 
 The guesser tries to name the prompt.
 
-Then the next person clockwise becomes the guesser.
+Then another person becomes the guesser. Continue until everyone who wants a turn has had one.
 
 **FINALE:** Make the final prompt a little harder and keep acting for the full 20 seconds, even if everyone appears to be doing a completely different activity.
 
@@ -1881,7 +1883,7 @@ Dilo: Priorities updated. The socks will survive until morning.
 
 ### PLAY: LUCKILY / UNFORTUNATELY
 
-**START:** The person sitting closest to the door begins a completely fictional story with one sentence, for example:
+**START:** Sit or stand in a circle. The person closest to the door begins a completely fictional story with one sentence, for example:
 
 "This morning, we discovered the Christmas tree could talk."
 
@@ -1901,7 +1903,7 @@ The next person begins:
 
 and makes it more complicated again.
 
-Continue alternating.
+Continue around the circle, alternating:
 
 Luckily.
 
