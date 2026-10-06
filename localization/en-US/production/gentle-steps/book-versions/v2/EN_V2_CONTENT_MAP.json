@@ -1,0 +1,507 @@
+{
+  "format": "rse-gentle-steps-en-v2-content-map-v1",
+  "reference_master_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
+  "stable_id_pattern": "DNN.PAUSE / DNN.PLAY / DNN.BETWEEN_US",
+  "global_segments": [
+    "FRONT.TITLE",
+    "FRONT.INTRO",
+    "FRONT.HAPPY_MAKERS",
+    "BACK.ONE_EVENING_LATER",
+    "BACK.HAPPY_MAKERS_LETTER"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "segments": [
+        {
+          "id": "D01.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D01.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D01.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "segments": [
+        {
+          "id": "D02.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D02.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D02.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "segments": [
+        {
+          "id": "D03.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D03.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D03.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "segments": [
+        {
+          "id": "D04.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D04.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D04.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "segments": [
+        {
+          "id": "D05.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D05.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D05.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "segments": [
+        {
+          "id": "D06.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D06.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D06.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "segments": [
+        {
+          "id": "D07.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D07.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D07.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "segments": [
+        {
+          "id": "D08.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D08.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D08.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "segments": [
+        {
+          "id": "D09.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D09.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D09.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "segments": [
+        {
+          "id": "D10.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D10.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D10.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "segments": [
+        {
+          "id": "D11.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D11.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D11.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "segments": [
+        {
+          "id": "D12.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D12.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D12.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "segments": [
+        {
+          "id": "D13.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D13.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D13.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "segments": [
+        {
+          "id": "D14.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D14.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D14.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "segments": [
+        {
+          "id": "D15.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D15.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D15.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "segments": [
+        {
+          "id": "D16.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D16.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D16.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "segments": [
+        {
+          "id": "D17.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D17.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D17.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "segments": [
+        {
+          "id": "D18.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D18.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D18.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "segments": [
+        {
+          "id": "D19.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D19.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D19.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "segments": [
+        {
+          "id": "D20.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D20.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D20.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "segments": [
+        {
+          "id": "D21.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D21.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D21.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "segments": [
+        {
+          "id": "D22.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D22.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D22.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "segments": [
+        {
+          "id": "D23.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D23.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D23.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "segments": [
+        {
+          "id": "D24.PAUSE",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D24.PLAY",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        },
+        {
+          "id": "D24.BETWEEN_US",
+          "status": "REAUTHOR_FROM_FUNCTION",
+          "locked_function": true
+        }
+      ]
+    }
+  ],
+  "global_invariants": {
+    "day_count": 24,
+    "pause_count": 24,
+    "play_count": 24,
+    "between_us_count": 24,
+    "try_it_tomorrow_count": 24,
+    "two_person_play_variants": 24,
+    "no_elimination": true,
+    "day09": "PLAN B: 60 SECONDS",
+    "day23": "LUCKILY / UNFORTUNATELY",
+    "day24": "FOUR MINUTES. FOUR MISSIONS.",
+    "day01_day24_callback": "INVISIBLE BALL"
+  }
+}
