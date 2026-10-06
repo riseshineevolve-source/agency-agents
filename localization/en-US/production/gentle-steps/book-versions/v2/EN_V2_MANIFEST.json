@@ -3,7 +3,7 @@
   "date": "2026-10-06",
   "branch": "gentle-steps/en-v1-native-upgrade",
   "route": "CROSS_LANGUAGE_NATIVE_REAUTHORING_WITH_STRONG_TARGET_REFERENCE",
-  "status": "OWNER_READ_CANDIDATE_R1",
+  "status": "OWNER_READ_CANDIDATE_R3_EDITORIAL_QA_PASS",
   "pl_reference_master": {
     "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md",
     "git_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
@@ -17,11 +17,12 @@
   },
   "working_master": {
     "path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_WORKING.md",
-    "git_blob_sha": "ae89138636de5a2c3f88896197b301259896601c"
+    "git_blob_sha": "579aa7c03c63553db0f9679eaca3755e70ff6532"
   },
   "owner_read_candidate": {
-    "path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R1_2026-10-06.md",
-    "git_blob_sha": "ae89138636de5a2c3f88896197b301259896601c"
+    "path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R3_2026-10-06.md",
+    "git_blob_sha": "579aa7c03c63553db0f9679eaca3755e70ff6532",
+    "supersedes": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R2_2026-10-06.md"
   },
   "structure": {
     "days": 24,
@@ -42,5 +43,19 @@
   ],
   "content_frozen": false,
   "print_ready": false,
-  "publication_authorized": false
+  "publication_authorized": false,
+  "qa": {
+    "initial_multi_agent": "localization/en-US/production/gentle-steps/book-versions/v2/EN_V2_INITIAL_MULTI_AGENT_AUDIT_2026-10-06.md",
+    "activity_completeness": "localization/en-US/production/gentle-steps/book-versions/v2/EN_V2_ACTIVITY_COMPLETENESS_QA_2026-10-06.md",
+    "full_reader_experience": "localization/en-US/production/gentle-steps/book-versions/v2/EN_V2_FULL_READER_EXPERIENCE_AUDIT_2026-10-06.md",
+    "r1_owner_read_audit": "localization/en-US/production/gentle-steps/book-versions/v2/EN_V2_OWNER_READ_CANDIDATE_R1_AUDIT_2026-10-06.md",
+    "r2_fresh_eyes": "localization/en-US/production/gentle-steps/book-versions/v2/EN_V2_R2_FRESH_EYES_PUBLISH_GATE_2026-10-06.md",
+    "final_r3_handoff": "localization/en-US/production/gentle-steps/book-versions/v2/EN_V2_R3_FINAL_QA_HANDOFF_2026-10-06.md",
+    "material_block_count": 0,
+    "material_fix_count": 0,
+    "material_redesign_count": 0,
+    "final_gate_count": 19,
+    "final_gate_pass_count": 19,
+    "reader_emdash_count": 0
+  }
 }
