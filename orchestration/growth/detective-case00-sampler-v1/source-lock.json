@@ -3,9 +3,9 @@
   "product": "Happy Makers Detective Academy — The Mystery of Room Zero — Book 1",
   "sampler": "CASE 00",
   "source_branch": "feature/detective-en-premium-content-upgrade-20261005",
-  "source_file": "orchestration/detective/content-upgrade/detective-en-premium-v1/FINAL_CONTENT_CANDIDATE_EN_PREMIUM_V11.md",
-  "source_blob": "25c3bdb76a3bc61df5a4d7f04accaf37940b9e26",
-  "source_state": "CONTENT_FINAL_PASS_OWNER_TEXT_GATE_NOT_FROZEN",
+  "source_file": "orchestration/detective/content-upgrade/detective-en-premium-v1/FINAL_CONTENT_CANDIDATE_EN_PREMIUM_V12.md",
+  "source_blob": "8d5784fe669287326aff8e6630daaf317b419578",
+  "source_state": "CONTENT_FINAL_PASS_V12_OWNER_TEXT_GATE_NOT_FROZEN",
   "clues": [
     "STAR comes immediately before BOLT.",
     "BALL appears somewhere before STAR.",
@@ -30,5 +30,7 @@
   "deploy_authorized": false,
   "source_ref": "feature/detective-en-premium-content-upgrade-20261005",
   "source_lock_basis": "immutable_git_blob",
-  "v10_to_v11_case05_contract": "UNCHANGED"
+  "v10_to_v11_case05_contract": "UNCHANGED",
+  "source_reader_sha256": "b39215cb5e26cfb53e624b01fe7e5913654645774fccde8c7ef46b12d5c4001e",
+  "v11_to_v12_case05_contract": "UNCHANGED"
 }
