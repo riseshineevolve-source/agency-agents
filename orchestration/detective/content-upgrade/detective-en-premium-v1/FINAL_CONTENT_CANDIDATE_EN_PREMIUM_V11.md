@@ -914,7 +914,7 @@ Pixel is the last confirmed person in the transfer record. Rebuild the tent snap
 ### CASE FILE // WHAT HAPPENED
 
 
-The Pickup Tent interview gives Mimi enough to repair the evidence-box handoff and route the sealed box back to the Trace Lab.
+Zuri's account gives Mimi enough to repair the evidence-box handoff and route the sealed box back to the Trace Lab.
 
 The moment she files the correction, Dilo's console flashes.
 
@@ -1128,7 +1128,7 @@ Now the team has a pattern - and no explanation yet.
 ### CASE FILE // WHAT HAPPENED
 
 
-Uma's follow-up gives the gallery the answer it needed.
+Arlo's account gives the gallery the answer it needed.
 
 The Roman spoon belongs to the neighboring display.
 
@@ -1193,7 +1193,7 @@ Gray signed the last inventory check. Rebuild the room snapshot and find who saw
 ### CASE FILE // WHAT HAPPENED
 
 
-Gray's room companion gives the trainer a real time window. The moon costume is still missing.
+Zoe's account gives the trainer a real time window. The moon costume is still missing.
 
 The rehearsal clock is running.
 
@@ -2541,7 +2541,7 @@ This time, she does not say what she is thinking.
 
 Mimi files the Guest House map.
 
-After Reception confirms the handoff with Nori's room companion, staff finally open the parcel. Inside are transparent overlay sleeves and old alignment clips borrowed long ago from **Archive Restoration** - exactly the kind Bibi needs for delicate plan work.
+After Reception confirms the handoff with Casey, staff finally open the parcel. Inside are transparent overlay sleeves and old alignment clips borrowed long ago from **Archive Restoration** - exactly the kind Bibi needs for delicate plan work.
 
 Then the dormant routing light under the Case Table turns on.
 
@@ -3042,6 +3042,8 @@ The routing log scrolls.
 - **EVERYONE:** No.
 - **DILO:** Good. That would have raised several technical questions.
 - **BIBI:** The cases were real. The old route could flag a current record that matched one of its unfinished training steps, then reopen archived material when a verified step unlocked it.
+- **NINI:** The **071** photograph.
+- **BIBI:** Exactly. And later, the old note and the plan. Real archive pieces, reopened at the moment the route needed them.
 - **LULI:** It could mark, match and route evidence.
 - **MIMI:** It could not create a case, choose a suspect or solve anything for us.
 
