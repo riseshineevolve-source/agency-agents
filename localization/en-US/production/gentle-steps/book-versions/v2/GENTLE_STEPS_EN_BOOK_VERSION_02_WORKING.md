@@ -285,7 +285,7 @@ December enjoys flashing several things at once.
 
 Lights. Screens. Notifications. And the three things you just remembered you forgot.
 
-For a moment, choose one small light source, such as a lamp, tree light, or a candle an adult has placed safely.
+For a moment, choose one small light source, such as a lamp, a light on the tree, or a candle an adult has placed safely.
 
 Watch the light move, flicker, or reflect on things around it.
 
@@ -727,7 +727,7 @@ Take turns naming one small thing that happened between you, or at home, that ma
 
 Maybe somebody made tea.
 
-Loaned out a charger.
+Lent you a charger.
 
 Remembered something important.
 
@@ -1092,7 +1092,7 @@ Rub your hands together for a few seconds until they feel noticeably warmer.
 
 Rest one hand against your own chest if that is comfortable.
 
-You may rest the other hand on the shoulder of the person to your right, but only if they want that.
+You may rest the other hand on the shoulder of someone beside you, but only if they want that.
 
 If not, keep both hands to yourself.
 
@@ -1114,7 +1114,7 @@ a place in the house
 
 something for cold weather
 
-something you would bring on a free day
+something you'd bring on a day with no plans
 
 **PLAY:** One person counts:
 
@@ -1178,7 +1178,7 @@ Nini: If all of you now use the same expression, congratulations. Nobody remembe
 
 ### PAUSE: SHOULDERS UP, SHOULDERS DOWN
 
-Backpacks, bags, groceries, and the entire day can stay in your shoulders long after the coats are already hanging up.
+Backpacks, bags, groceries, and the whole day can leave your shoulders tense long after the coats are hanging up.
 
 Sit comfortably.
 
@@ -1440,6 +1440,8 @@ Choose one short route to a chair: two to four small steps, with no stairs, shar
 
 Pair up.
 
+If there is an odd number of players, one group will have three.
+
 One person is the navigator.
 
 The other follows the directions.
@@ -1556,6 +1558,8 @@ Mimi: Empty hands. For one minute, we are not putting anything where it belongs.
 
 They look carefully around the room and at everyone for 15 seconds.
 
+That person is the first guesser.
+
 **PLAY:** The guesser turns around or closes their eyes.
 
 Everyone else makes exactly one small, visible change.
@@ -1631,7 +1635,7 @@ the tension may have stayed longer than the actual conversation.
 
 Today, only your hands get involved.
 
-Make two light fists and count slowly to three.
+Lightly clench both hands and count slowly to three.
 
 Then open your hands and let your fingers fully relax.
 
@@ -1665,7 +1669,7 @@ When you think the line is correct, check it out loud.
 
 If two people have the same birth month or the same number of letters, either order is fine.
 
-**FINALE:** Invent one new category that can be checked objectively afterward.
+**FINALE:** Invent one new category with a clear answer you can check afterward.
 
 **TWO PEOPLE:** Do five quick categories. Each time, silently decide whether you need to switch places or stay where you are. Then check the answer out loud.
 
@@ -1713,7 +1717,7 @@ Notice what the room sounds like with one less sound in it.
 
 Then turn everything back on if you want.
 
-This is only a short **less**, not perfect quiet.
+This is just a little less noise for one minute, not perfect silence.
 
 **TRY IT TOMORROW:** When there are too many sounds at once, turn off or lower one source before asking everyone around you to be quieter.
 
@@ -1977,7 +1981,7 @@ Do not review what you did not finish.
 
 For this minute, nothing needs to be fixed, caught up, or made more festive.
 
-At the end, think of one person or family outside this room you would like to wish something good for today.
+At the end, think of one person or family outside this room you'd like to send a good wish to today.
 
 You do not need to say it out loud.
 
