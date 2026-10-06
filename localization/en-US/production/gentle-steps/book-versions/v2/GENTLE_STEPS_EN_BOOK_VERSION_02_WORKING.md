@@ -449,7 +449,7 @@ Do eight moves.
 
 Now use tiny steps: forward, back, left, or right.
 
-Try to complete 12 shared steps without anyone going the wrong way.
+Try to complete 12 shared steps without anyone going the wrong way. If someone does, reset the step count to zero and keep going.
 
 **FINALE:** Together, choose a four-move sequence.
 
@@ -757,7 +757,7 @@ Someone is hoping nobody asks them for anything for the next five minutes.
 
 Sit near each other.
 
-If everyone is comfortable with contact, you may lightly rest shoulders together.
+If everyone is comfortable with contact, you may let your shoulders touch lightly.
 
 For a few breaths, do not try to match breathing or fix anyone's mood.
 
@@ -883,6 +883,8 @@ Just hear all the versions.
 
 Then the person on the starter's left invents a new mystery.
 
+Play three mystery rounds total, with a different mystery-maker each time.
+
 **FINALE:** Choose one earlier explanation and build on it together, with each person adding one new detail.
 
 **TWO PEOPLE:** One person invents the mystery. The other explains it. Switch roles. Do three mysteries each.
@@ -955,6 +957,8 @@ Everyone first guesses which two words are lies.
 Then they guess who or what the clues describe.
 
 The next chooser is the person to the right.
+
+Continue until everyone who wants a turn has chosen once.
 
 **FINALE:** The last chooser may pick something harder, but at least one other person should have a fair chance of knowing it.
 
@@ -1130,6 +1134,8 @@ Give each category no more than three tries.
 
 If you still do not meet, move on.
 
+Play two or three regular categories, then do the finale.
+
 **FINALE:** Choose one category with no obvious answer, such as:
 
 **"something that makes a bad day better."**
@@ -1194,7 +1200,7 @@ Alio: The calmest roller coaster in the world. Also, no line.
 
 If there is an odd number of people, one group can have three.
 
-The person wearing more red begins.
+In each pair or trio, the person wearing more red starts as leader. If it is a tie, the person with the shorter first name starts.
 
 **ROUND 1:** The leader makes slow, safe movements with their arms, head, and upper body for 20 seconds.
 
@@ -1242,7 +1248,7 @@ Different movie.
 
 Different dinner.
 
-And ideally first access to the bathroom.
+And ideally first turn in the bathroom.
 
 Before the family negotiation begins, sit comfortably with your hands on your lap.
 
@@ -1731,6 +1737,8 @@ Nobody is eliminated.
 
 Then the next person clockwise becomes the answerer. The person on their right becomes questioner.
 
+Continue until everyone who wants a turn has answered once.
+
 Do not ask about anything private, embarrassing, or something the person does not want to discuss.
 
 **FINALE:** In the last round, the word **maybe** is banned too.
@@ -1819,7 +1827,9 @@ The guesser turns back.
 
 On "three, two, one," everyone else acts out the same prompt at the same time, without speaking and without agreeing in advance how to perform it.
 
-The guesser tries to name the prompt.
+The guesser has up to 30 seconds to name the prompt.
+
+If they do not get it, reveal the answer and move on.
 
 Then another person becomes the guesser. Continue until everyone who wants a turn has had one.
 
