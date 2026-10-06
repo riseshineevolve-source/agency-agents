@@ -2950,7 +2950,7 @@ It is asking whether you kept enough of what you already proved.
 
 
 - Every final field comes from earlier work; do not invent a new answer.
-- **METHOD** comes from the Rule Zero you restored.
+- **RULE WORD** is the missing word you restored in Rule Zero.
 - **ACCESS** is the final coordinate you saved from the service map.
 - **CODE** is the six-symbol sequence already on your Case Wall.
 - **CALL SIGN** is the Official Call Sign on your Recruit Credential.
@@ -4266,7 +4266,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 **ANSWER:** RULE WORD = ASSUMPTIONS / ACCESS = D3 / CODE = BALL–STAR–BOLT–HEART–KEY–MOON / CALL SIGN = reader's official call sign
 
 
-1. METHOD is **ASSUMPTIONS**, the missing word restored in Rule Zero.
+1. RULE WORD is **ASSUMPTIONS**, the missing word restored in Rule Zero.
 2. ACCESS is **D3**, earned from Case 29.
 3. CODE is **BALL, STAR, BOLT, HEART, KEY, MOON**, earned in Case 05.
 4. CALL SIGN is the Official Call Sign already written on the Recruit Credential.
