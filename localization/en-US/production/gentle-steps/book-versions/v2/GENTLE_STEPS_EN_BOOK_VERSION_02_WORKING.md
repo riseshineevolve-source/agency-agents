@@ -227,7 +227,7 @@ Think of one thing from school, work, or today that you do not need to keep carr
 
 **TRY IT TOMORROW:** After school, an argument, or a hard moment, use three breaths and your feet on the floor to stop dragging the whole thing behind you for a few minutes.
 
-Alio: Backpack stays by the door. The math quiz can stay there too. At least for ten minutes.
+Alio: Backpack stays by the door. The test can stay there too. At least for ten minutes.
 
 ### PLAY: FREEZE FRAME
 
@@ -285,7 +285,7 @@ December enjoys flashing several things at once.
 
 Lights. Screens. Notifications. And the three things you just remembered you forgot.
 
-For a moment, choose one small light source, such as a lamp, tree light, or safely placed candle.
+For a moment, choose one small light source, such as a lamp, tree light, or a candle an adult has placed safely.
 
 Watch the light move, flicker, or reflect on things around it.
 
@@ -671,7 +671,7 @@ That person reads the first situation.
 
 You do not need a timer.
 
-"60 seconds" means: make a quick plan before this turns into a committee meeting.
+"60 seconds" means: make a quick plan without spending half the evening discussing it.
 
 **RULE:** Go around in order.
 
@@ -2095,7 +2095,7 @@ Happy Makers: Day 24 ends here. Your best ideas do not have to.
 
 ## ONE EVENING LATER
 
-Choose one quieter evening between Christmas and New Year's.
+Choose one quieter evening between Christmas and New Year's Day.
 
 Make tea, cocoa, or whatever normally appears when people sit down for a few minutes.
 
