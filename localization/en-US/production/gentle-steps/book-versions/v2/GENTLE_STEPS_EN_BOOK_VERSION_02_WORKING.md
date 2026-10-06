@@ -117,7 +117,7 @@ The game ends when everyone has heard one specific good thing.
 
 **TWO PEOPLE:** Toss the ball back and forth. Change its properties in Round 1. In Round 2, each of you tells the other one specific good thing.
 
-Nini: No full-body pitching motion. The compliment is supposed to land. The invisible ball can take care of itself.
+Nini: No full wind-up. We're delivering a compliment, not testing reflexes.
 
 ### BETWEEN US: WHAT DO I LIKE ABOUT DECEMBER, AND WHAT AM I DONE WITH?
 
@@ -393,7 +393,7 @@ If two people say the number at the same time, or somebody says the wrong number
 
 **TWO PEOPLE:** In Level 1, alternate. In Levels 2 and 3, after every number either person may say the next one, including the same person twice in a row. If you speak at the same time or make a mistake, go back to one.
 
-Dilo: VAR review complete. Two voices at once. Goal disallowed. Back to one.
+Dilo: Replay review: two voices at once. Call overturned. Back to one.
 
 ### BETWEEN US: WHAT SOUND TELLS YOU, "I'M HOME"?
 
@@ -481,7 +481,7 @@ Sometimes it is:
 
 Choose something that actually works in your home.
 
-Luli: "I've got it" has roughly the same December value as finding a parking spot immediately.
+Luli: "I've got it" has roughly the same December value as finding a parking space right away.
 
 ---
 
@@ -1352,6 +1352,8 @@ Do not restart.
 
 After 30 seconds, a new pair plays.
 
+If there are three or five players, one person can play twice so everyone who wants a turn gets one.
+
 Continue until everyone who wants a turn has played at least once.
 
 **HARDER ROUND:** Questions may be mildly challenging or cheeky, but never personal or mean.
@@ -1997,7 +1999,7 @@ On the third try, nobody counts out loud.
 
 For 30 seconds, play one scene:
 
-**"You are already standing by the door when somebody says, 'Wait. Where are the gifts?'"**
+**"You are already standing by the door when somebody says, 'Wait. Where are the presents?'"**
 
 Every line must be a question.
 
@@ -2171,7 +2173,7 @@ A good home does not have to be quiet all the time.
 
 A good December does not have to be finished perfectly.
 
-The holiday is also what happens on the way there.
+The ordinary days on the way to Christmas count too.
 
 Thank you for letting us into your December.
 
