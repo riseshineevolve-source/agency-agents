@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+  "source_pages": 104,
+  "levels": {
+    "18": {
+      "mission_id": "world02_mission_018",
+      "pages": [
+        72,
+        78
+      ],
+      "nodes": 24,
+      "types": {
+        "opener": 1,
+        "dialogue": 10,
+        "system_log": 6,
+        "console": 3,
+        "quest": 2,
+        "science": 1,
+        "secret_code": 1
+      },
+      "family_code": "I NEED GREEN ENERGY",
+      "status": "typed_pack_promoted"
+    },
+    "19": {
+      "mission_id": "world02_mission_019",
+      "pages": [
+        79,
+        85
+      ],
+      "nodes": 25,
+      "types": {
+        "opener": 1,
+        "dialogue": 13,
+        "system_log": 4,
+        "console": 3,
+        "quest": 2,
+        "science": 1,
+        "secret_code": 1
+      },
+      "family_code": "WE ARE PIVOTING!",
+      "status": "canonical_validated_typed_pack_pending"
+    },
+    "20": {
+      "mission_id": "world02_mission_020",
+      "pages": [
+        86,
+        92
+      ],
+      "nodes": 27,
+      "types": {
+        "opener": 1,
+        "dialogue": 12,
+        "system_log": 7,
+        "console": 3,
+        "quest": 2,
+        "science": 1,
+        "secret_code": 1
+      },
+      "family_code": "PAUSE AND ZOOM",
+      "status": "canonical_validated_typed_pack_pending"
+    }
+  },
+  "constraints": {
+    "numbering": "preserve World 02 Levels 11-20",
+    "provenance": "exact page and evidence provenance required",
+    "speaker_order": "preserve canonical order",
+    "localization": "English source only; Polish remains planned",
+    "mechanics": "no invented scoring, entitlements, auth, paywall, rewards ledger, or backend requirements",
+    "editorial": "preserve source science/wellbeing wording; review watchlist separately"
+  }
+}
