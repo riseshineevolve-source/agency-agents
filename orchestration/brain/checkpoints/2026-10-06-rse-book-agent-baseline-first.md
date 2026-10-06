@@ -96,8 +96,7 @@ The runner:
 - emits owner-light BOOK_STATUS;
 - retains KDP release gates separately.
 
-CI `Book Agent v3 Reliability` passed on the operational layer before this checkpoint.
-The latest branch must still be treated as live truth and CI rechecked after every fix.
+Final verification for this checkpoint: `feature/rse-book-factory-v2` HEAD `ca279b9b77c8b3469526bc20f99008c78ed3a526`; GitHub Actions `Book Agent v3 Reliability` run `37448568639` completed **SUCCESS**. The latest branch remains live truth and CI must be rechecked after every later fix.
 
 ## Image / map production rule
 
