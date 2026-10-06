@@ -3890,7 +3890,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 6. Nell is the only other person with Winter, so Nell is the answer.
 
 
-**WHY IT MATTERS:** The team has its next human contact; the parrot may continue contributing cracker-related testimony.
+**WHY IT MATTERS:** Nell can trace the four-word phrase to an ordinary rehearsal cue, showing that the parrot repeated familiar words rather than exposing a password.
 
 
 
@@ -4063,7 +4063,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 6. Pax is the only other person in Demi's final room.
 
 
-**WHY IT MATTERS:** The contact is useful now, but the real long-term value is the complete placement map you preserved.
+**WHY IT MATTERS:** Pax can explain why the two paint accounts seemed to clash, and the complete placement map you preserved becomes evidence again later.
 
 
 
@@ -4169,7 +4169,7 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 6. Casey is the only other person in Nori's final room.
 
 
-**WHY IT MATTERS:** The final required spatial map is complete, so the empty-space instruction can finally be tested.
+**WHY IT MATTERS:** Casey restores the missing parcel handoff, the Archive Restoration tools can be used, and the final required spatial map is complete.
 
 
 
