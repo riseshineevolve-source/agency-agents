@@ -1,6 +1,6 @@
 {
   "format": "rse-gentle-steps-en-v2-surgical-edit-guard-v1",
-  "status": "PREPARED_INITIAL_NATIVE_REFINEMENT",
+  "status": "CLOSED_INITIAL_NATIVE_REFINEMENT_PASS",
   "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_WORKING.md",
   "base_blob_sha": "e27958a7bb1049e0c2f9918ff1543d9cc07e9f2d",
   "allowed_changed_segments": [
@@ -17,5 +17,17 @@
     "No game mechanic may be changed beyond the D17 odd-group clarification.",
     "No cultural localization may broaden scope opportunistically.",
     "After patch actual changed-set must match allowlist exactly."
-  ]
+  ],
+  "require_exact_changed_set": true,
+  "closed_working_master_blob_sha": "a5f7258ca9995eda9b72d7e8e554d2db3c2319fd",
+  "closed_changed_segments": [
+    "D01.PLAY",
+    "D05.PLAY",
+    "D06.BETWEEN_US",
+    "D17.PLAY",
+    "D24.PLAY",
+    "BACK.HAPPY_MAKERS_LETTER"
+  ],
+  "unscoped_drift": 0,
+  "pl_r4_reference_unchanged": true
 }
