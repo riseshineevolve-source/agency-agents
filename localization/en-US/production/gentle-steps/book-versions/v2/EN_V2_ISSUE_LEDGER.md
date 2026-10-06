@@ -53,3 +53,34 @@ See `EN_V2_GOLDEN_KEEP_REGISTRY.md`.
 - final recurring label names if owner wants alternatives to PAUSE / PLAY / BETWEEN US;
 - final content approval;
 - later layout/print proof and publication authorization.
+
+
+---
+
+# Closing status — R3
+
+Final candidate:
+`GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R3_2026-10-06.md`
+
+Blob:
+`579aa7c03c63553db0f9679eaca3755e70ff6532`
+
+Closed:
+- legacy architecture gap;
+- mindfulness/coaching framing;
+- old Human Knot;
+- old singing-only finale;
+- cultural localization;
+- native humor;
+- front-matter modernization;
+- consent/agency;
+- direction/setup ambiguity;
+- group-size edge cases;
+- reset/stop conditions;
+- final native-English micro-issues.
+
+Material BLOCK = 0  
+Material FIX = 0  
+Material REDESIGN = 0
+
+Remaining items are owner/production gates only.
