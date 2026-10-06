@@ -1,28 +1,26 @@
 {
   "format": "rse-gentle-steps-en-v2-surgical-edit-guard-v1",
-  "status": "CLOSED_READER_EXPERIENCE_MICRO_SLICE_PASS",
-  "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_EN_V02_POST_ACTIVITY_COMPLETENESS_SAFE_STATE_2026-10-06.md",
-  "base_blob_sha": "9c4e2615afedb8997aae475ace403db128ffd329",
+  "status": "PREPARED_R1_OWNER_READ_FIXES",
+  "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_EN_V02_PRE_OWNER_READ_SAFE_STATE_2026-10-06.md",
+  "base_blob_sha": "ae89138636de5a2c3f88896197b301259896601c",
   "allowed_changed_segments": [
-    "D03.PAUSE",
-    "D04.PAUSE",
-    "D09.PLAY",
-    "BACK.ONE_EVENING_LATER"
+    "D06.PLAY",
+    "D11.PLAY",
+    "D12.PLAY",
+    "D14.PLAY",
+    "D15.PLAY",
+    "D21.PLAY",
+    "D22.PLAY",
+    "D10.PAUSE",
+    "D16.PAUSE"
   ],
   "rules": [
-    "Apply only EN2-F201 through EN2-F204.",
-    "No other reader-facing content may change.",
+    "Apply only EN2-F301 through EN2-F309.",
+    "Do not modify R1 candidate.",
+    "No concept redesign.",
     "No PL file may be modified.",
-    "After patch actual changed-set must match allowlist."
+    "After patch actual changed-set must match allowlist exactly."
   ],
   "require_exact_changed_set": true,
-  "pl_r4_reference_unchanged": true,
-  "closed_working_master_blob_sha": "ae89138636de5a2c3f88896197b301259896601c",
-  "closed_changed_segments": [
-    "D03.PAUSE",
-    "D04.PAUSE",
-    "D09.PLAY",
-    "BACK.ONE_EVENING_LATER"
-  ],
-  "unscoped_drift": 0
+  "pl_r4_reference_unchanged": true
 }
