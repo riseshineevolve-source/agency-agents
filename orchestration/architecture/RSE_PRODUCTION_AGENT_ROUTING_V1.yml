@@ -1,0 +1,62 @@
+version: 1
+updated: 2026-10-06
+root: rse_production_orchestrator
+
+lanes:
+  book:
+    owner: rse_book_production_agent
+    deterministic_engine: codex_existing_book_factory
+    judgment_workers:
+      scene_compiler: rse_visual_scene_compiler
+      visual_story: design_visual_storyteller
+      brand: design_brand_guardian
+      image_prompt: design_image_prompt_engineer
+      template_finish: design_ui_finish_gate_reviewer
+    qa:
+      regression: testing_test_automation_engineer
+      release_reality: testing_reality_checker
+      bounded_fix: engineering_minimal_change_engineer
+    specialist_on_change:
+      pdf_engine: engineering_pdf_engine_architect
+      document_architecture: engineering_universal_document_compiler
+
+  app:
+    owner: rse_production_orchestrator
+    implementation: engineering_mobile_app_builder
+    release: engineering_mobile_release_engineer
+    qa:
+      regression: testing_test_automation_engineer
+      workflow: testing_workflow_optimizer
+      release_reality: testing_reality_checker
+
+governance:
+  topology: hierarchical
+  max_parallel_judgment_workers: 4
+  one_writer_per_surface: true
+  durable_state_required: true
+  trace_id_required: true
+  bounded_retries: 2
+  fallback_then_escalate: true
+  owner_review: exceptions_only
+
+tooling:
+  current:
+    - github
+    - github_actions
+    - playwright
+    - vivliostyle
+  agent_layer_target:
+    - openai_agents_sdk
+  operations_glue:
+    - n8n
+  durable_workflow_pilot_after_e2e:
+    - temporal
+
+anti_patterns:
+  - agent_swarm_without_contracts
+  - ai_generated_final_maps
+  - ai_generated_final_text_pages
+  - rerender_unchanged_pages
+  - full_book_review_after_local_change
+  - new_app_codebase_for_each_content_pack
+  - silent_source_fallback
