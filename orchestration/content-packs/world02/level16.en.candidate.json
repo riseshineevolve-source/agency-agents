@@ -156,7 +156,7 @@
       "sequence": 10,
       "node_type": "dialogue",
       "subtype": null,
-      "speaker_id": null,
+      "speaker_id": "dilo_luli",
       "next_id": "world02_mission_016_node_011",
       "provenance": {
         "source_id": "world02_paperback_2026_09_17",
