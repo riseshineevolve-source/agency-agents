@@ -1,0 +1,47 @@
+{
+  "format": "rse-gentle-steps-en-v2-source-version-inventory-v1",
+  "date": "2026-10-06",
+  "sources": [
+    {
+      "id": "EN_LEGACY_PAPERBACK",
+      "name": "24 Gentle Steps to Christmas — old English paperback",
+      "uploaded_pdf_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+      "pages": 104,
+      "status": "LEGACY_SOURCE_READ_ONLY",
+      "strengths": [
+        "Established English title/brand history",
+        "Happy Makers names and legacy character identities",
+        "Existing English front matter and December framing",
+        "Some usable English jokes/phrases"
+      ],
+      "weaknesses": [
+        "Mindfulness/coaching language is much heavier than the current quality target",
+        "Many games are mechanically weaker or repetitive",
+        "Consent/agency coverage is inconsistent",
+        "Several 2-person variants are weak",
+        "Late-book reflection is repetitive",
+        "Day 9 Human Knot and Day 24 singing-only finale were superseded in PL R4",
+        "English voice often reads like translated/inspirational workbook copy rather than modern premium family writing"
+      ]
+    },
+    {
+      "id": "PL_R4_REFERENCE",
+      "name": "Gentle Steps PL V3 R4 Final Content Candidate",
+      "repo_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md",
+      "git_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
+      "status": "READ_ONLY_REFERENCE_MASTER",
+      "strengths": [
+        "24-day progression and final-week wave",
+        "24 practical next-day tools",
+        "Curated game portfolio with 2-person handling",
+        "Day 9 PLAN B redesign",
+        "Day 24 four-mission callback finale",
+        "Natural family reality and anti-cringe tone",
+        "Consent and agency protections",
+        "Situational Happy Makers humor",
+        "Reduced repetition across MIĘDZY NAMI"
+      ]
+    }
+  ],
+  "convergence_rule": "Use PL R4 as functional/product master. Preserve legacy EN only when it is clearly stronger or supplies unique brand/front-matter value. Never downgrade PL R4 to match old EN."
+}
