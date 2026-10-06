@@ -1,0 +1,46 @@
+{
+  "format": "rse-gentle-steps-en-v2-source-manifest-v1",
+  "date": "2026-10-06",
+  "route": "CROSS_LANGUAGE_NATIVE_REAUTHORING_WITH_STRONG_TARGET_REFERENCE",
+  "target_language": "en-US primary; en-GB compatible",
+  "book_type": "family activity / Advent calendar / 24-day shared experience",
+  "target_audience": "families with children roughly 8-12; adults participate as equals",
+  "intended_experience": "about 10 minutes per day",
+  "publication_surface": "book / KDP first; reusable for app later",
+  "branch": "gentle-steps/en-v1-native-upgrade",
+  "source_authority_order": [
+    {
+      "role": "PRODUCT_AND_QUALITY_REFERENCE_MASTER",
+      "source": "Polish V3 R4 final content candidate",
+      "repo_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md",
+      "git_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
+      "immutable_read_only": true,
+      "rule": "DO NOT MODIFY ANY PL FILE"
+    },
+    {
+      "role": "LEGACY_ENGLISH_SOURCE",
+      "source": "24 Gentle Paperback ok(4).pdf",
+      "upload_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+      "pages": 104,
+      "rule": "Use for legacy English wording, title, front matter, character/history signals; never allow it to downgrade PL-R4 mechanics, structure, safety, progression, or reader experience."
+    },
+    {
+      "role": "OWNER_PROCESS_PROMPT",
+      "source": "Wklejony tekst(20261006-111900).txt",
+      "upload_sha256": "a7bbfcbce98a23e39dca4a58060f5fef2c8d40c6c9c17d8aa2c25c867fd4cc08"
+    }
+  ],
+  "uploaded_pl_r4_pdf_sha256": "c076d16447ee04425024f7641968eab411372c5727f7eedf62adaeb6530a46e6",
+  "owner_locks": [
+    "Polish V3/R4 is read-only and must not be changed.",
+    "Preserve the current Polish R4 24-day architecture, strong concepts, improved mechanics, progression and finale unless an English-market-specific reason requires a bounded adaptation.",
+    "English must feel natively written for US families, with UK compatibility; no translationese.",
+    "KEEP beats rewrite.",
+    "Many independent reviewers; one controlled writer."
+  ],
+  "states": {
+    "content_frozen": false,
+    "print_ready": false,
+    "publication_authorized": false
+  }
+}
