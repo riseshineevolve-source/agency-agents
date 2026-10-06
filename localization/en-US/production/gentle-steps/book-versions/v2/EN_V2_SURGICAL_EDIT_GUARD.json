@@ -1,6 +1,6 @@
 {
   "format": "rse-gentle-steps-en-v2-surgical-edit-guard-v1",
-  "status": "PREPARED_READER_EXPERIENCE_MICRO_SLICE",
+  "status": "CLOSED_READER_EXPERIENCE_MICRO_SLICE_PASS",
   "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_EN_V02_POST_ACTIVITY_COMPLETENESS_SAFE_STATE_2026-10-06.md",
   "base_blob_sha": "9c4e2615afedb8997aae475ace403db128ffd329",
   "allowed_changed_segments": [
@@ -16,5 +16,13 @@
     "After patch actual changed-set must match allowlist."
   ],
   "require_exact_changed_set": true,
-  "pl_r4_reference_unchanged": true
+  "pl_r4_reference_unchanged": true,
+  "closed_working_master_blob_sha": "ae89138636de5a2c3f88896197b301259896601c",
+  "closed_changed_segments": [
+    "D03.PAUSE",
+    "D04.PAUSE",
+    "D09.PLAY",
+    "BACK.ONE_EVENING_LATER"
+  ],
+  "unscoped_drift": 0
 }
