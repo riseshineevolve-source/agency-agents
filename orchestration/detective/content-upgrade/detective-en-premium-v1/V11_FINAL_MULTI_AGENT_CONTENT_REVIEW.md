@@ -2,10 +2,10 @@
 
 Date: 2026-10-06
 Candidate: `orchestration/detective/content-upgrade/detective-en-premium-v1/FINAL_CONTENT_CANDIDATE_EN_PREMIUM_V11.md`
-Git blob SHA: `e6e97b82ea8c95be8d101d4ce64f003e36edc24f`
+Final Git blob SHA: `25c3bdb76a3bc61df5a4d7f04accaf37940b9e26`
+Exact reader-text SHA-256: `a7baa1cf6bcb1e55f640bb865df48a4d72398921476b8fdb7a2ef4ec8893e2af`
 Mode: FINAL CONTENT REVIEW
-Master changed during first review pass: YES, bounded fixes only
-Second review pass: PASS — no remaining text / logic / continuity blocker found
+Result: **PASS — NO REMAINING TEXT / LOGIC / CONTINUITY BLOCKER FOUND**
 
 ## Review lanes
 
@@ -25,172 +25,142 @@ RSE roles/lenses applied to the exact V11 candidate:
 
 The reader 8/10/12 lanes are simulated personas, not real child participants.
 
-## What the fresh pass found in V10 and repaired in V11
+## Final-review fixes made before PASS
 
-1. Grammar defect: `a Academy return tag` -> `an Academy return tag`.
-2. Case 01 title referenced “mail” that never mattered -> now **THE ENVELOPE THAT WAS NEVER DELIVERED**.
-3. Case 01 contained a mechanically redundant clue because the row/column uniqueness rule already existed -> clue set rebuilt; all six clues now matter.
-4. Case 03 chat still referenced obsolete sparkle art -> replaced with room-consistent dialogue.
-5. 017/071 continuity mixed a newspaper number with file-reference language -> now explicitly **Academy Chronicle issue numbers**, with 071 leading cleanly into Heritage.
-6. Case 12 called the parrot phrase an access phrase before proving it -> now it merely **sounds like** the access phrase; Case 13 pays off the rehearsal-cue explanation.
-7. Case 15 blue-zip false lead lacked an explicit payoff -> Case 16 now closes it: it identified a bag, not an owner.
-8. Case 20 said “the reader fired” -> clarified to **scanner**.
-9. Case 22 promised shelf reconstruction that the actual puzzle does not perform -> now the puzzle finds the clean witness who enables that reconstruction.
-10. Case 24 said “shoeprint difference” while final Case 03 contract uses a small tread mark -> terminology reconciled.
-11. Case 26 used technical “route-selected” phrasing -> simplified for children.
-12. Case 30 field `METHOD` still did not exactly match the answer `ASSUMPTIONS` -> now **RULE WORD / ACCESS / CODE / CALL SIGN**.
-13. Finale now explicitly pays off the **071 photograph**, torn note and old plan as real archive pieces reopened by the old route.
-14. Local answer-to-consequence continuity strengthened by naming Zuri, Arlo, Zoe and Casey at their actual follow-up beats.
-15. Solution-file WHY IT MATTERS copy for Cases 12, 20 and 25 now matches the actual next scene.
+The first fresh pass found bounded defects in V10/V11 and repaired them before the second pass:
+- grammar: `a Academy` -> `an Academy`;
+- Case01 title no longer references unexplained mail;
+- Case01 redundant clue removed; all six current clues now matter;
+- Case03 obsolete sparkle dialogue removed;
+- 017/071 is now a coherent Academy Chronicle issue-number clue, not mixed file/newspaper terminology;
+- Case12 password false lead now says the phrase only *sounds like* the access phrase; Case13 pays it off as a rehearsal cue;
+- Case15 blue-zip false lead gets an explicit payoff;
+- scanner wording clarified;
+- Case22 story promise now matches what the puzzle actually solves;
+- Case24 tread terminology matches the final Case03 contract;
+- Case30 final fields are now `RULE WORD / ACCESS / CODE / CALL SIGN`;
+- all Case30 rules, hints and Solution File wording were regression-checked to use the same field names;
+- local puzzle answers are named in their next-scene consequences (Zuri, Arlo, Zoe, Ember, Nell, Bodhi, Harper, Axel, Mack, Pax, Cody, Casey);
+- finale explicitly pays off the 071 photograph, old note and old plan as archive pieces reopened by the route;
+- solution WHY IT MATTERS copy was synchronized with the final story.
 
-## Simulated Reader 8
+A final second-pass terminology regression caught one remaining stale `METHOD` field in Case30 rules/solution. It was corrected before this PASS.
 
-PASS.
+## Reader experience verdict
 
-- Instructions remain explicit and non-patronizing.
-- Case 01 is a real tutorial rather than a trivial answer reveal.
-- Short scene beats, visible objectives and case variety keep the book usable at the low end of 8–12.
-- Front matter is long in page count, but it is interactive/visual and reaches a Recruit Credential before the first case; no additional prose cut is recommended.
-- No unresolved “why am I doing this?” gap remains in the tested case chain.
+### Simulated Reader 8 — PASS
+- clear objectives;
+- short scene beats;
+- Case01 is a genuine tutorial, not a giveaway;
+- no patronizing coaching voice;
+- humor provides relief after denser logic;
+- front matter is long in page count but interactive/visual and earns the Recruit identity.
 
-## Simulated Reader 10
+### Simulated Reader 10 — PASS
+- strongest target fit;
+- strong “one more case” momentum;
+- answers visibly alter later scenes;
+- delayed callbacks reward attention;
+- reader agency grows into real team membership.
 
-PASS — strongest fit.
+### Simulated Reader 12 — PASS
+- no fake teen slang;
+- humor remains dry/character-led;
+- false leads are allowed to fail;
+- finale is whole-book evidence integration rather than merely the numerically hardest map;
+- Book2 hook is intriguing without undoing Book1 closure.
 
-- “One more case” momentum works.
-- The reader's answers visibly change later scenes.
-- 017/071, false 0:07, Case 21 note, 14-map extraction, Rule Zero, D3 and Bibi authorship form a coherent reward chain.
-- Belonging grows behaviorally: a chair at the Case Table, recurring responsibility, preserved evidence, Field Slot 06.
+## Story / continuity verdict — PASS
 
-## Simulated Reader 12
+Main chain:
+black envelope -> Case01 internal origin -> marked Trophy record -> Case03 mismatch -> 017/071 -> Heritage -> recurring 0 -> Bibi photo / RULE 0 FIRST -> false 0:07 -> Annex -> torn note -> 14 saved maps -> CHECK THE OLD MAP -> overlay -> Rule Zero -> D3 -> final panel -> Bibi route-note reveal -> Field Slot06 -> Archive File001.
 
-PASS.
+Local solve consequences are now visible rather than happening offstage.
 
-- Humor stays dry/character-led rather than babyish.
-- No fake teen slang.
-- Luli/Bibi skepticism and Dilo's willingness to discard a false pattern support an older reader.
-- Finale is not simply “hardest map wins”; it is a whole-book evidence-integration test, which is appropriate after the earlier expert maps.
-- Archive File 001 creates a credible Book 2 pull without undoing Book 1 closure.
+## Character / humor verdict — PASS
 
-## Narrative / continuity
-
-PASS.
-
-The main causal spine is now clean:
-
-Black envelope -> Case01 internal origin -> marked Trophy record -> Case03 mismatch -> 017/071 -> Heritage -> old route pattern -> Bibi photo / RULE 0 FIRST -> false 0:07 -> Annex records -> torn note -> 14 preserved maps -> CHECK THE OLD MAP -> overlay -> Rule Zero -> D3 -> final panel -> Bibi route-note reveal -> Field Slot 06 -> Archive File 001.
-
-Local cases also close rather than disappearing offstage:
-- Dax -> Trophy Hall;
-- Zuri -> evidence-box handoff;
-- Arlo -> spoon/label;
-- Zoe -> costume window;
-- Ember -> rover;
-- Nell -> parrot cue;
-- Bodhi -> camera;
-- Harper -> backpack;
-- Axel -> ticket;
-- Mack -> scanner;
-- Pax -> paint;
-- Cody -> instrument cases;
-- Casey -> parcel.
-
-## Character & humor
-
-PASS.
-
-Distinct voices remain:
+Distinct voices:
 - Mimi: practical captain / dry chaos control;
 - Luli: precise skepticism;
-- Dilo: systems, competition and dramatic seriousness;
-- Alio: routes, gear and adventurous overconfidence;
+- Dilo: systems, competition, dramatic seriousness;
+- Alio: routes, gear, adventurous overconfidence;
 - Nini: people/detail awareness and understated wit;
 - Bibi: sparse deadpan authority.
 
-Teasing remains affectionate. Nobody is the permanent fool; evidence beats ego; characters can be wrong and recover without humiliation.
+Teasing is affectionate. Nobody is the permanent fool. Evidence beats ego.
 
-## Puzzle / logic QA
+## Puzzle QA
 
-### Case 01
-PASS — exhaustive unique solution:
+### Case01 — PASS
+Unique solution:
 QUILL B1 / PIP A3 / MORSE C4 / KNOX D2.
 
-Fresh clue-ablation:
-- remove clue 1 -> 3 solutions;
-- remove clue 2 -> 3;
-- remove clue 3 -> 3;
-- remove clue 4 -> 3;
-- remove clue 5 -> 2;
-- remove clue 6 -> 2.
+Fresh clue ablation:
+3 / 3 / 3 / 3 / 2 / 2 solutions after removing clues 1–6 respectively.
+Therefore all six current clues are necessary.
 
-All six current clues are necessary.
-
-### Case 05
-PASS — exhaustive unique sequence:
+### Case05 — PASS
+Unique sequence:
 BALL -> STAR -> BOLT -> HEART -> KEY -> MOON.
 
-Fresh clue-ablation:
-33 / 9 / 17 / 2 / 7 / 4 solutions when each clue is removed in turn.
+Fresh clue ablation:
+33 / 9 / 17 / 2 / 7 / 4 solutions after removing each clue.
+Therefore all six current code clues are necessary.
 
-All six current code clues are necessary.
-
-### 15 spatial cases
-PASS on current source truth:
+### 15 spatial cases — PASS
 02, 04, 06, 07, 10, 12, 13, 15, 17, 19, 20, 22, 23, 25, 29.
 
 Evidence:
-- RSE Book Factory independent solver: 15/15 exhaustive unique;
-- canonical answer / coordinate match;
-- exact source geometry and blocked/occupiable semantics preserved;
+- Book Factory independent solver: 15/15 exhaustive unique;
+- canonical answers/coordinates match;
+- geometry and blocked/occupiable semantics remain locked;
 - source puzzle generator reports `redundantClues: 0` for all 15 selected modules;
-- V11 changes no spatial witness clue meaning or geometry.
+- V11 changes no spatial witness-clue meaning or geometry.
 
-### Case26
-PASS — exactly 14 selected spatial maps -> **CHECKTHEOLDMAP**.
-Case01 and Case29 remain correctly excluded from that extraction.
+### Case26 — PASS
+Exactly 14 selected maps produce `CHECKTHEOLDMAP`.
+Case01 and Case29 remain correctly excluded.
 
-## Hint / Solution QA
+## Hint / Solution QA — PASS
 
-PASS:
-- Hint Level 1: 30/30;
-- Hint Level 2: 30/30;
-- Hint Level 3: 30/30;
-- Solution Files: 30/30;
-- index/main/solution case titles agree 30/30;
-- final field semantics agree with final solution;
-- no stale Page 9 / old final-field / old Case01 title language detected.
+- Hint Level1: 30/30
+- Hint Level2: 30/30
+- Hint Level3: 30/30
+- Solutions: 30/30
+- Index / main / solution titles: 30/30 consistent
+- no stale Page9 / old Case01-title / old final-field language detected
+- final RULE WORD / ACCESS / CODE / CALL SIGN semantics are consistent across prompt, hint and answer.
 
-## Final / sequel experience
+## Finale / sequel verdict — PASS
 
-PASS.
+Book1 closes Room Zero:
+- route purpose explained;
+- system did not invent the real cases;
+- route could flag/match/route evidence;
+- Bibi authored the old route note;
+- reader earns Field Slot06.
 
-Book 1 closes its own question:
-- Room Zero is explained;
-- the system did not create the cases or solve them;
-- Bibi's old team left an unfinished training route;
-- reader work completes it;
-- Field Slot 06 is earned.
-
-Book 2 hook opens a **new** question:
-Archive File 001 / the triangular mark / cut-out person / RETURN BEFORE THE FIRST MEETING.
-
-This does not invalidate the Book 1 ending.
+Book2 opens a new mystery:
+- Archive File001;
+- triangular mark callback to Case03;
+- cut-out person;
+- `RETURN BEFORE THE FIRST MEETING.`
 
 ## Content verdict
 
-**PASS — FINAL CONTENT CANDIDATE.**
+**CONTENT_FINAL_PASS**
 
-No remaining text/logic/continuity/humor blocker was found in the second review pass.
+No remaining textual / logical / continuity / humor blocker was found in the final second pass.
 
-## Not the same as publication approval
+## Production status separation
 
-Separate production gates still remain:
-- final Case03 rendered Photo A/B must match the exact ten-difference text contract;
-- Case26 final layout must provide the 14 working boxes / usable navigation;
-- Case27 overlay must work physically in print;
-- all final page surfaces must be rendered and visually checked;
+This is NOT a claim that the illustrated interior is print-ready.
+
+Still required before KDP publication:
+- deterministic Case03 final Photo A/B matching the exact ten-difference contract;
+- Case26 final 14-box/navigation surface;
+- Case27 physical overlay usability;
+- full visual interior regression;
 - KDP Previewer;
 - representative physical proof;
 - explicit owner publication authorization.
-
-This review authorizes **content finalization**, not silent KDP upload.
