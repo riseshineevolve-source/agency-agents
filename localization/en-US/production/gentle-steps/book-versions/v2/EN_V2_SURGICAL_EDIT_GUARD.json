@@ -1,6 +1,6 @@
 {
   "format": "rse-gentle-steps-en-v2-surgical-edit-guard-v1",
-  "status": "PREPARED_R2_FRESH_EYES_MICRO_FIXES",
+  "status": "CLOSED_R2_FRESH_EYES_MICRO_FIXES_PASS",
   "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_EN_V02_R2_SAFE_STATE_2026-10-06.md",
   "base_blob_sha": "915dad1b7b83a5152fcc977147045c9f1883eb28",
   "allowed_changed_segments": [
@@ -15,5 +15,12 @@
   ],
   "require_exact_changed_set": true,
   "pl_r4_reference_unchanged": true,
-  "r1_candidate_immutable": true
+  "r1_candidate_immutable": true,
+  "closed_working_master_blob_sha": "579aa7c03c63553db0f9679eaca3755e70ff6532",
+  "closed_changed_segments": [
+    "D21.PLAY",
+    "BACK.HAPPY_MAKERS_LETTER"
+  ],
+  "unscoped_drift": 0,
+  "r2_candidate_immutable": true
 }
