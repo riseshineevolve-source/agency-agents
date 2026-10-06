@@ -172,7 +172,7 @@
       "page": 57,
       "type": "dialogue",
       "subtype": null,
-      "speaker_id": null,
+      "speaker_id": "dilo_luli",
       "copy": {
         "speaker_label": "DILO & LULI",
         "text": "WHAT?!"
