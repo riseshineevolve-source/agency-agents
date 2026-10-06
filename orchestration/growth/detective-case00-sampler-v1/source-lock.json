@@ -3,10 +3,9 @@
   "product": "Happy Makers Detective Academy — The Mystery of Room Zero — Book 1",
   "sampler": "CASE 00",
   "source_branch": "feature/detective-en-premium-content-upgrade-20261005",
-  "source_commit": "24918a3a747373d1d25375e3e6aff3b8a7387f32",
-  "source_file": "orchestration/detective/content-upgrade/detective-en-premium-v1/OWNER_READ_CANDIDATE_EN_PREMIUM_V10.md",
-  "source_blob": "19df709e381445a6f5a52d7b0c1c898bd5b706be",
-  "source_state": "OWNER_READ_CANDIDATE_CONTENT_NOT_YET_FROZEN",
+  "source_file": "orchestration/detective/content-upgrade/detective-en-premium-v1/FINAL_CONTENT_CANDIDATE_EN_PREMIUM_V11.md",
+  "source_blob": "25c3bdb76a3bc61df5a4d7f04accaf37940b9e26",
+  "source_state": "CONTENT_FINAL_PASS_OWNER_TEXT_GATE_NOT_FROZEN",
   "clues": [
     "STAR comes immediately before BOLT.",
     "BALL appears somewhere before STAR.",
@@ -20,6 +19,16 @@
     "BALL is before STAR. HEART is after BOLT but cannot be fifth. KEY is before MOON, and HEART is also before MOON.",
     "Test where the STAR-BOLT block can sit. Only one placement leaves BALL before it and still lets HEART, KEY and MOON satisfy all three later-order clues."
   ],
-  "solution": ["BALL","STAR","BOLT","HEART","KEY","MOON"],
-  "deploy_authorized": false
+  "solution": [
+    "BALL",
+    "STAR",
+    "BOLT",
+    "HEART",
+    "KEY",
+    "MOON"
+  ],
+  "deploy_authorized": false,
+  "source_ref": "feature/detective-en-premium-content-upgrade-20261005",
+  "source_lock_basis": "immutable_git_blob",
+  "v10_to_v11_case05_contract": "UNCHANGED"
 }
