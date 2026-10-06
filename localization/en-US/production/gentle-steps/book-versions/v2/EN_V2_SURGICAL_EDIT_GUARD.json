@@ -1,33 +1,27 @@
 {
   "format": "rse-gentle-steps-en-v2-surgical-edit-guard-v1",
-  "status": "CLOSED_INITIAL_NATIVE_REFINEMENT_PASS",
-  "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_WORKING.md",
-  "base_blob_sha": "e27958a7bb1049e0c2f9918ff1543d9cc07e9f2d",
+  "status": "PREPARED_ACTIVITY_COMPLETENESS_SLICE",
+  "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_EN_V02_POST_INITIAL_NATIVE_REFINEMENT_SAFE_STATE_2026-10-06.md",
+  "base_blob_sha": "a5f7258ca9995eda9b72d7e8e554d2db3c2319fd",
   "allowed_changed_segments": [
     "D01.PLAY",
-    "D05.PLAY",
-    "D06.BETWEEN_US",
-    "D17.PLAY",
-    "D24.PLAY",
-    "BACK.HAPPY_MAKERS_LETTER"
+    "D02.PLAY",
+    "D03.PLAY",
+    "D11.PLAY",
+    "D12.PLAY",
+    "D13.PLAY",
+    "D19.PLAY",
+    "D21.PLAY",
+    "D22.PLAY",
+    "D23.PLAY"
   ],
   "rules": [
-    "Apply only EN2-F101 through EN2-F106 from the initial audit.",
+    "Mechanical clarity only.",
+    "No game concept redesign.",
+    "Apply only findings from EN_V2_ACTIVITY_COMPLETENESS_QA_2026-10-06.md.",
     "No PL file may be modified.",
-    "No game mechanic may be changed beyond the D17 odd-group clarification.",
-    "No cultural localization may broaden scope opportunistically.",
-    "After patch actual changed-set must match allowlist exactly."
+    "After patch actual changed-set must match allowlist."
   ],
   "require_exact_changed_set": true,
-  "closed_working_master_blob_sha": "a5f7258ca9995eda9b72d7e8e554d2db3c2319fd",
-  "closed_changed_segments": [
-    "D01.PLAY",
-    "D05.PLAY",
-    "D06.BETWEEN_US",
-    "D17.PLAY",
-    "D24.PLAY",
-    "BACK.HAPPY_MAKERS_LETTER"
-  ],
-  "unscoped_drift": 0,
   "pl_r4_reference_unchanged": true
 }
