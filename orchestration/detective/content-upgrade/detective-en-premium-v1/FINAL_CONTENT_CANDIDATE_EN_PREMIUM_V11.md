@@ -592,7 +592,7 @@ Four visiting helpers were in the intake area at that exact minute. The strange 
 
 - Place each helper once on the 4x4 intake map.
 - Each helper uses a different row and a different column.
-- Start with the exact placement, then combine row/column and relative clues before using elimination.
+- Combine row clues, column clues and relative clues before using elimination.
 
 ## HAPPY MAKERS COMMS
 
@@ -613,7 +613,7 @@ Four visiting helpers were in the intake area at that exact minute. The strange 
 ## WITNESS BOARD // WITNESS STATEMENTS
 
 **□ CLUE 01**  
-QUILL was in row 1, column B.
+QUILL was in row 1.
 
 **□ CLUE 02**  
 PIP was in row 3.
@@ -622,7 +622,7 @@ PIP was in row 3.
 MORSE was in column C.
 
 **□ CLUE 04**  
-Each helper used a different row and a different column.
+KNOX was in column D.
 
 **□ CLUE 05**  
 PIP was somewhere to the left of QUILL.
@@ -3245,7 +3245,7 @@ Read only the hint for your case. Then go back. The goal is to restart your thin
 
 
 ## CASE 01
-Start with QUILL. His clue fixes B1. Then keep PIP's row and MORSE's column separate until the later clues connect them.
+Start with the two row clues and the two column clues. Do not combine them too early.
 
 
 ## CASE 02
@@ -3379,7 +3379,7 @@ Still stuck? This level removes more wrong paths, but the final step should stil
 
 
 ## CASE 01
-Clue 5 puts PIP to the left of QUILL, so PIP must be A3. That leaves columns C and D for MORSE and KNOX.
+MORSE and KNOX already use columns C and D. That leaves A and B for PIP and QUILL. Clue 5 puts PIP to the left, so PIP is A3 and QUILL is B1.
 
 
 ## CASE 02
@@ -3509,7 +3509,7 @@ Use this when you want the puzzle nearly opened for you. Stop before the final a
 
 
 ## CASE 01
-Rows 2 and 4 are still open. Clue 6 puts MORSE lower than KNOX, so MORSE is C4 and KNOX is D2 in Delivery.
+Rows 2 and 4 are still open for MORSE and KNOX. Clue 6 puts MORSE lower, so MORSE is C4 and KNOX is D2 in Delivery.
 
 
 ## CASE 02
@@ -3643,17 +3643,17 @@ A correct answer matters. Knowing why it is correct matters more. Your route thr
 **ANSWER:** KNOX at D2
 
 
-1. QUILL is fixed at B1.
-2. PIP is in row 3, and MORSE is in column C.
+1. QUILL is in row 1 and PIP is in row 3.
+2. MORSE is in column C and KNOX is in column D.
 3. Every helper must use a different row and a different column.
-4. PIP is left of QUILL. Because QUILL is in column B, PIP must be A3.
-5. Columns B, A and C now belong to QUILL, PIP and MORSE, leaving column D for KNOX.
-6. Rows 1 and 3 are already used by QUILL and PIP. Rows 2 and 4 remain for KNOX and MORSE.
+4. Columns C and D are already taken by MORSE and KNOX, so QUILL and PIP must use A and B.
+5. PIP is left of QUILL, which makes PIP A3 and QUILL B1.
+6. Rows 1 and 3 are now used. MORSE and KNOX must use rows 2 and 4.
 7. MORSE is in a lower row than KNOX, so MORSE is C4 and KNOX is D2.
 8. D2 is inside Delivery.
 
 
-**WHY IT MATTERS:** The first file teaches the Academy method properly: combine exact facts, relative clues and elimination before making the call.
+**WHY IT MATTERS:** The first file teaches the Academy method properly: combine different clue types, then use elimination to finish the grid.
 
 
 
