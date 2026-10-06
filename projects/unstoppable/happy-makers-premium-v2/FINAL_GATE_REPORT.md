@@ -75,8 +75,8 @@ Legacy D11, D16 and D26 cheat-code framing was corrected to fit the upgraded day
 ## Artifact / surface QA
 
 - exact clean source: SHA-256 `ca5970d30ae83c036a134f3297fecbb3b90ba636c913972c0749103505d43baf`
-- DOCX: SHA-256 `5e263e871da4e8391199e5e98fd9f61210d4ac2f4efb96c7252a56f52cde4cdf`
-- PDF: SHA-256 `2d8f3df1b8be3aa2f4dd23b48bbabdce415fa35d3d96c755f7507daa2939cf21`
+- DOCX: SHA-256 `93e25c22ce96302976a47b40cf0f0045c602b5bafbd76815ca7df26b3ba809fc`
+- PDF: SHA-256 `26cab2efd8d92648bc8b41632e8dd1b764129f24443d451c6ffc6bc5023af464`
 - PDF: 191 pages, 6×10 in, unencrypted, openable, no clipping detected
 - DOCX: rendered to 191 pages; all rendered pages inspected; metadata creator/last-modifier blank
 - functional B/W puzzle proof renders used for deterministic visual slots; they prove fit and mechanics, not final premium illustration production
