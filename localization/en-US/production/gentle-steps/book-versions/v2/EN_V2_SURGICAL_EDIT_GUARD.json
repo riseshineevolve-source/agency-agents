@@ -1,26 +1,31 @@
 {
   "format": "rse-gentle-steps-en-v2-surgical-edit-guard-v1",
-  "status": "CLOSED_R2_FRESH_EYES_MICRO_FIXES_PASS",
-  "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_EN_V02_R2_SAFE_STATE_2026-10-06.md",
-  "base_blob_sha": "915dad1b7b83a5152fcc977147045c9f1883eb28",
+  "status": "PREPARED_R4_MEGA_FINAL_MICRO_PATCH",
+  "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R3_2026-10-06.md",
+  "base_blob_sha": "579aa7c03c63553db0f9679eaca3755e70ff6532",
   "allowed_changed_segments": [
-    "D21.PLAY",
-    "BACK.HAPPY_MAKERS_LETTER"
+    "D04.PAUSE",
+    "D09.BETWEEN_US",
+    "D14.PAUSE",
+    "D14.PLAY",
+    "D15.PAUSE",
+    "D18.PLAY",
+    "D19.PLAY",
+    "D20.PAUSE",
+    "D20.PLAY",
+    "D21.PAUSE",
+    "D24.PAUSE"
   ],
   "rules": [
-    "Apply only F401 and F402 from EN_V2_R2_FRESH_EYES_PUBLISH_GATE_2026-10-06.md.",
-    "Do not modify R1 or R2 candidate files.",
-    "No PL file may be modified.",
-    "After patch actual changed-set must equal allowlist."
+    "Apply only F1-F11 from EN_V2_R3_MEGA_FINAL_PUBLISH_GATE_AUDIT_2026-10-06.md.",
+    "No game concept redesign.",
+    "No front matter, title, subtitle, recurring labels, Happy Makers bios, or back matter changes.",
+    "Do not modify R1, R2, or R3 candidate files.",
+    "Do not modify any Polish file.",
+    "After patch actual changed-set must equal the 11-segment allowlist exactly."
   ],
-  "require_exact_changed_set": true,
+  "require_exact_changed_set": false,
   "pl_r4_reference_unchanged": true,
   "r1_candidate_immutable": true,
-  "closed_working_master_blob_sha": "579aa7c03c63553db0f9679eaca3755e70ff6532",
-  "closed_changed_segments": [
-    "D21.PLAY",
-    "BACK.HAPPY_MAKERS_LETTER"
-  ],
-  "unscoped_drift": 0,
   "r2_candidate_immutable": true
 }
