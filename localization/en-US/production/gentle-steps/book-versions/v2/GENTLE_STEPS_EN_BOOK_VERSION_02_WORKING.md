@@ -1741,7 +1741,7 @@ Continue until everyone who wants a turn has answered once.
 
 Do not ask about anything private, embarrassing, or something the person does not want to discuss.
 
-**FINALE:** In the last round, the word **maybe** is banned too.
+**FINALE:** Choose one final answerer. This time, the word **maybe** is banned too.
 
 **TWO PEOPLE:** One person asks for 30 seconds. Then switch.
 
@@ -2169,7 +2169,7 @@ Maybe the to-do list genuinely waited for one minute.
 
 Do not turn these 24 days into a new obligation now.
 
-Keep only what was actually yours and actually worked.
+Keep only what felt like yours and actually worked.
 
 On an ordinary Tuesday, you can throw the Invisible Ball again.
 
