@@ -1,6 +1,6 @@
 {
   "format": "rse-gentle-steps-en-v2-surgical-edit-guard-v1",
-  "status": "PREPARED_R4_MEGA_FINAL_MICRO_PATCH",
+  "status": "CLOSED_R4_MEGA_FINAL_MICRO_PATCH_PASS",
   "base_path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R3_2026-10-06.md",
   "base_blob_sha": "579aa7c03c63553db0f9679eaca3755e70ff6532",
   "allowed_changed_segments": [
@@ -24,8 +24,26 @@
     "Do not modify any Polish file.",
     "After patch actual changed-set must equal the 11-segment allowlist exactly."
   ],
-  "require_exact_changed_set": false,
+  "require_exact_changed_set": true,
   "pl_r4_reference_unchanged": true,
   "r1_candidate_immutable": true,
-  "r2_candidate_immutable": true
+  "r2_candidate_immutable": true,
+  "closed_candidate_path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R4_2026-10-06.md",
+  "closed_candidate_blob_sha": "2589f8e9eb89c625ca7ed11a231a89f4de7ce291",
+  "closed_working_master_blob_sha": "2589f8e9eb89c625ca7ed11a231a89f4de7ce291",
+  "closed_changed_segments": [
+    "D04.PAUSE",
+    "D09.BETWEEN_US",
+    "D14.PAUSE",
+    "D14.PLAY",
+    "D15.PAUSE",
+    "D18.PLAY",
+    "D19.PLAY",
+    "D20.PAUSE",
+    "D20.PLAY",
+    "D21.PAUSE",
+    "D24.PAUSE"
+  ],
+  "unscoped_drift": 0,
+  "r3_candidate_immutable": true
 }
