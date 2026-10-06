@@ -1,6 +1,6 @@
 # Owner-Read Candidate Manifest — Project Unstoppable Happy Makers V2
 
-Date: 2026-10-05
+Date: 2026-10-06
 Lifecycle state: **OWNER_READ_CANDIDATE**
 Route: **A — SAME_LANGUAGE_PREMIUM_UPGRADE**
 
@@ -17,7 +17,7 @@ Route: **A — SAME_LANGUAGE_PREMIUM_UPGRADE**
 
 ## Editable DOCX
 - file: `PROJECT_UNSTOPPABLE_HAPPY_MAKERS_V2_FINAL_TEXT.docx`
-- SHA-256: `5e263e871da4e8391199e5e98fd9f61210d4ac2f4efb96c7252a56f52cde4cdf`
+- SHA-256: `93e25c22ce96302976a47b40cf0f0045c602b5bafbd76815ca7df26b3ba809fc`
 - trim: 6 × 10 in
 - rendered pages: 191
 - render QA: PASS
@@ -25,7 +25,7 @@ Route: **A — SAME_LANGUAGE_PREMIUM_UPGRADE**
 
 ## Owner-read PDF
 - file: `PROJECT_UNSTOPPABLE_HAPPY_MAKERS_V2_FINAL_TEXT.pdf`
-- SHA-256: `2d8f3df1b8be3aa2f4dd23b48bbabdce415fa35d3d96c755f7507daa2939cf21`
+- SHA-256: `26cab2efd8d92648bc8b41632e8dd1b764129f24443d451c6ffc6bc5023af464`
 - trim: 6 × 10 in
 - pages: 191
 - encrypted: no
@@ -57,3 +57,7 @@ A missing exact-head run is not reported as PASS.
 
 Next true gate:
 **owner approval of exact candidate blob `62221f043df2e8bc502fd81305a8dd8a39ec3cb5`.**
+
+
+## Artifact regeneration note
+The exact candidate text did not change. DOCX/PDF were regenerated on 2026-10-06 from the same candidate blob after deterministic puzzle-proof rendering and a fresh 6×10 render/inspection pass.
