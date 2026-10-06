@@ -3,7 +3,7 @@
   "date": "2026-10-06",
   "branch": "gentle-steps/en-v1-native-upgrade",
   "route": "CROSS_LANGUAGE_NATIVE_REAUTHORING_WITH_STRONG_TARGET_REFERENCE",
-  "status": "OWNER_READ_CANDIDATE_R3_EDITORIAL_QA_PASS",
+  "status": "OWNER_READ_CANDIDATE_R4_FINAL_CONTENT_CANDIDATE",
   "pl_reference_master": {
     "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md",
     "git_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
@@ -17,12 +17,12 @@
   },
   "working_master": {
     "path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_WORKING.md",
-    "git_blob_sha": "579aa7c03c63553db0f9679eaca3755e70ff6532"
+    "git_blob_sha": "2589f8e9eb89c625ca7ed11a231a89f4de7ce291"
   },
   "owner_read_candidate": {
-    "path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R3_2026-10-06.md",
-    "git_blob_sha": "579aa7c03c63553db0f9679eaca3755e70ff6532",
-    "supersedes": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R2_2026-10-06.md"
+    "path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R4_2026-10-06.md",
+    "git_blob_sha": "2589f8e9eb89c625ca7ed11a231a89f4de7ce291",
+    "supersedes": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_OWNER_READ_CANDIDATE_R3_2026-10-06.md"
   },
   "structure": {
     "days": 24,
@@ -56,6 +56,13 @@
     "material_redesign_count": 0,
     "final_gate_count": 19,
     "final_gate_pass_count": 19,
-    "reader_emdash_count": 0
+    "reader_emdash_count": 0,
+    "mega_r3_publish_gate": "localization/en-US/production/gentle-steps/book-versions/v2/EN_V2_R3_MEGA_FINAL_PUBLISH_GATE_AUDIT_2026-10-06.md",
+    "r4_exact_changed_set_pass": true,
+    "r4_changed_segment_count": 11,
+    "r4_unscoped_drift": 0,
+    "r4_material_block_count": 0,
+    "r4_material_fix_count": 0,
+    "r4_material_redesign_count": 0
   }
 }
