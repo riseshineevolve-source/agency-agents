@@ -32,5 +32,7 @@
   "source_lock_basis": "immutable_git_blob",
   "v10_to_v11_case05_contract": "UNCHANGED",
   "source_reader_sha256": "b39215cb5e26cfb53e624b01fe7e5913654645774fccde8c7ef46b12d5c4001e",
-  "v11_to_v12_case05_contract": "UNCHANGED"
+  "v11_to_v12_case05_contract": "UNCHANGED",
+  "display_provenance_status": "STALE_V11_LABEL_ONLY",
+  "display_provenance_note": "index.html still displays V11 provenance; functional Case05 contract is unchanged and source-lock.json is authoritative"
 }
