@@ -1,12 +1,21 @@
 lane: marketing_autopilot
 title: "RSE Marketing Autopilot"
 updated: 2026-10-07
-status: BOOTSTRAP_READY__LANE_WRITER_MUST_REFRESH
-branch_or_repo_state: VERIFY_LIVE_ON_OPEN
-milestone: control_plane_v1_registered
+status: ACTIVE__RECOVERED_CURRENT_RELEASE_TRUTH
+branch_or_repo_state: marketing/control-plane-reconcile-2026-10-07-v3
+milestone: control_plane_reconciled_product_briefs_restored_detective_141p_release_truth_restored_live_channels_verified
 blocker: null
 owner_gate: null
-dependencies_needed: []
-reusable_outputs: []
-next_safe_task: read_registry_bootstrap_project_checkpoint_and_continue
-checkpoint_reference: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+dependencies_needed:
+  - lane: detective_book_factory
+    need: notify marketing only when verified release facts materially change beyond current 141-page/KDP-preflight PASS checkpoint
+  - lane: gentle_steps
+    need: expose verified live/release state when listing/app/store status changes
+reusable_outputs:
+  - marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md
+  - marketing/GENTLE_STEPS_PL_PRODUCT_MARKETING_BRIEF_2026-10-07.md
+  - marketing/PRODUCT_MARKETING_BRIEF_INDEX.md
+  - orchestration/templates/RSE_PRODUCT_MARKETING_BRIEF_TEMPLATE.md
+  - marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md
+next_safe_task: consolidate Detective Academy into canonical Product Marketing Brief from verified release truth and current launch/positioning files; then prepare launch-ready organic masters from real approved product proof
+checkpoint_reference: marketing/MARKETING_RESUME_FROM_ZERO.md
