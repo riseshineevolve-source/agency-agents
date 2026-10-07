@@ -34,7 +34,7 @@
     "explicit_two_person": 24
   },
   "owner_gates": [
-    "final title/subtitle",
+    "exact cover/title hierarchy and thumbnail proof",
     "freeze recurring labels PAUSE / PLAY / BETWEEN US",
     "owner content approval of exact candidate",
     "exact-hash layout/template proof",
@@ -64,5 +64,13 @@
     "r4_material_block_count": 0,
     "r4_material_fix_count": 0,
     "r4_material_redesign_count": 0
+  },
+  "product_identity": {
+    "series_header": "THE HAPPY MAKERS PRESENT",
+    "title": "BEFORE CHRISTMAS SLIPS BY",
+    "subtitle": "24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together",
+    "secondary_campaign_line": "CHRISTMAS HAPPENS ALONG THE WAY",
+    "title_subtitle_owner_gate": "CLOSED_2026-10-07",
+    "marketing_brief": "marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md"
   }
 }
