@@ -44,7 +44,10 @@ def sha256(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def _artifact(record: dict, label: str, root: Path, issues: list[str], *, rendered: bool) -> None:
+def _artifact(record: dict, label: str, root: Path, issues: list[str], *, rendered: bool, require_pdf: bool = False) -> None:
+    if not isinstance(record, dict):
+        issues.append(f"Invalid artifact record: {label}")
+        return
     raw = record.get("path")
     if not isinstance(raw, str) or not raw.strip():
         issues.append(f"Missing artifact path: {label}")
@@ -68,6 +71,8 @@ def _artifact(record: dict, label: str, root: Path, issues: list[str], *, render
         header = path.read_bytes()[:8]
         if not (header.startswith(b"\x89PNG\r\n\x1a\n") or header.startswith(b"%PDF-")):
             issues.append(f"Expected PNG/PDF render: {label}")
+        if require_pdf and (path.suffix.lower() != ".pdf" or not header.startswith(b"%PDF-")):
+            issues.append(f"Whole-book render must be PDF: {label}")
 
 
 def check_r5_fit_evidence(contract: dict, evidence: dict, evidence_root: Path, repo_root: Path) -> dict:
@@ -116,30 +121,46 @@ def check_r5_fit_evidence(contract: dict, evidence: dict, evidence_root: Path, r
         issues.append("Body typography shrink-to-fit must be explicitly false")
 
     _artifact(evidence.get("template", {}), "final template snapshot", evidence_root, issues, rendered=False)
-    _artifact(evidence.get("rendered_book", {}), "rendered book", evidence_root, issues, rendered=True)
+    _artifact(evidence.get("rendered_book", {}), "rendered book", evidence_root, issues, rendered=True, require_pdf=True)
 
     surfaces = evidence.get("surfaces", [])
     if not isinstance(surfaces, list):
         issues.append("Surfaces must be a list")
         surfaces = []
-    ids = [s.get("id") for s in surfaces if isinstance(s, dict)]
+    ids = [s.get("id") if isinstance(s, dict) and isinstance(s.get("id"), str) else None for s in surfaces]
     if len(ids) != len(set(ids)):
         issues.append("Duplicate surface IDs")
     if set(ids) != set(REQUIRED_SURFACE_IDS):
         issues.append("Evidence must contain exactly the required R5 review surfaces")
 
+    render_paths = []
+    render_hashes = []
     for surface in surfaces:
         if not isinstance(surface, dict):
             issues.append("Invalid surface record")
             continue
         sid = surface.get("id", "<unknown>")
-        _artifact(surface.get("render", {}), f"surface {sid}", evidence_root, issues, rendered=True)
+        render = surface.get("render", {})
+        if not isinstance(render, dict):
+            issues.append(f"{sid}: invalid render record")
+            render = {}
+        if isinstance(render.get("path"), str):
+            render_paths.append(str((evidence_root / render["path"]).resolve()))
+        if isinstance(render.get("sha256"), str):
+            render_hashes.append(render["sha256"])
+        _artifact(render, f"surface {sid}", evidence_root, issues, rendered=True)
         review = surface.get("review", {})
-        if review.get("render_sha256") != surface.get("render", {}).get("sha256"):
+        if not isinstance(review, dict):
+            issues.append(f"{sid}: invalid review record")
+            review = {}
+        if review.get("render_sha256") != render.get("sha256"):
             issues.append(f"{sid}: review is not bound to its render")
         for flag in REVIEW_FLAGS:
             if review.get(flag) is not True:
                 issues.append(f"{sid}: {flag} not verified")
+
+    if len(render_paths) != len(set(render_paths)) or len(render_hashes) != len(set(render_hashes)):
+        issues.append("Each surface requires distinct render bytes and a distinct artifact path")
 
     return {
         "format": "rse-gentle-steps-pl-v03-r5-fit-intake-proof-v1",
