@@ -1,6 +1,15 @@
 version: 25
 updated: 2026-09-28
 brain_status: canonical
+control_plane_v1:
+  status: CANONICAL_EXECUTION_OWNERSHIP_OVERRIDE
+  effective: 2026-10-07
+  universe_map: orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
+  autonomy_protocol: orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
+  chat_registry: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+  rule: current_chat_registry_overrides_legacy_execution_mode_fields
+  one_writer_per_surface: true
+  central_delegated_lane_mode: read_sync_only
 global:
   master_brand: Rise.Shine.Evolve.
   working_positioning: Real-life skills, made playable.
