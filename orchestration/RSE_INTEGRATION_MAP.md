@@ -161,3 +161,57 @@ External paid tool used for image/video transformation experiments. No direct RS
 ## Handoff rule
 
 Every fresh central RSE technical session should read this file after the core portfolio documents and then live-verify any integration that is essential to the task. A connection marked VERIFIED here means it worked on the date above, not that future OAuth/session state can be assumed forever.
+
+
+## 2026-10-07 verified execution update
+
+This section supersedes older local-tool wording where it conflicts.
+
+### Desktop Commander Remote
+
+State: **CONNECTED / VERIFIED** on 2026-10-07.
+
+Verified capabilities from the Central Control Tower:
+- list connected Windows device;
+- inspect filesystem;
+- run PowerShell/terminal commands;
+- inspect Git worktrees/processes;
+- read local build artifacts;
+- observe active Codex/Node/Python/Vivliostyle execution.
+
+RSE rule:
+- when a lane needs facts or actions from the authorized local Windows machine, use Desktop Commander instead of asking the owner to paste terminal output;
+- local access does not override one-writer-per-surface;
+- do not start a second writer/build in the same worktree when Codex or another process is already active;
+- confidential Opinie real data remains local/offline even when Desktop Commander is used.
+
+### Codex
+
+State: local Codex runtime/processes verified active on 2026-10-07.
+
+Codex remains a bounded implementation worker:
+- code;
+- adapters;
+- renderers;
+- tests;
+- build/repair;
+- integration.
+
+Codex is not the product source of truth and not the default art director.
+
+### Current orchestration roadmap
+
+Active control plane:
+- GitHub durable state;
+- lane mailboxes;
+- Desktop Commander local bridge;
+- Codex bounded execution;
+- project-specific deterministic test/render stacks.
+
+Next integration layers:
+- n8n for operational triggers/notifications/approval routing;
+- OpenAI Agents SDK / Agents API for programmatic agent/handoff/trace orchestration;
+- Temporal for resumable long-running workflows after stable lane E2E exists.
+
+Canonical current map:
+`orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md`
