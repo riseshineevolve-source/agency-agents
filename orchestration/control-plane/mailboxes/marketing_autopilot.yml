@@ -1,9 +1,9 @@
 lane: marketing_autopilot
 title: "RSE Marketing Autopilot"
 updated: 2026-10-07
-status: ACTIVE__RECOVERED_CURRENT_RELEASE_TRUTH
+status: ACTIVE__RECOVERY_REPAIRED__DETECTIVE_LAUNCH_READY
 branch_or_repo_state: marketing/control-plane-reconcile-2026-10-07-v3
-milestone: control_plane_reconciled_product_briefs_restored_detective_141p_release_truth_restored_live_channels_verified
+milestone: control_plane_reconciled_product_briefs_restored_detective_141p_release_truth_restored_detective_product_marketing_brief_complete_live_channels_verified
 blocker: null
 owner_gate: null
 dependencies_needed:
@@ -12,10 +12,11 @@ dependencies_needed:
   - lane: gentle_steps
     need: expose verified live/release state when listing/app/store status changes
 reusable_outputs:
+  - marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md
   - marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md
   - marketing/GENTLE_STEPS_PL_PRODUCT_MARKETING_BRIEF_2026-10-07.md
   - marketing/PRODUCT_MARKETING_BRIEF_INDEX.md
   - orchestration/templates/RSE_PRODUCT_MARKETING_BRIEF_TEMPLATE.md
   - marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md
-next_safe_task: consolidate Detective Academy into canonical Product Marketing Brief from verified release truth and current launch/positioning files; then prepare launch-ready organic masters from real approved product proof
+next_safe_task: build launch-ready Detective organic masters from real approved product proof using the canonical Product Marketing Brief; keep Metricool unscheduled until the first current launch family is review-ready; no paid activation
 checkpoint_reference: marketing/MARKETING_RESUME_FROM_ZERO.md
