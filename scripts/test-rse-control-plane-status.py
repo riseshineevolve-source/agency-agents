@@ -30,6 +30,11 @@ class ControlPlaneTests(unittest.TestCase):
         self.assertIn("# RSE Control Plane Snapshot", text)
         self.assertIn("| Lane | Status |", text)
 
+    def test_snapshot_json_serializable(self):
+        import json
+        payload = json.dumps(mod.collect(), default=str)
+        self.assertIn("rse-control-plane-snapshot-v1", payload)
+
 
 if __name__ == "__main__":
     unittest.main()
