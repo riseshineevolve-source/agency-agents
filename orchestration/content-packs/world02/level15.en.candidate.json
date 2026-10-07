@@ -1,0 +1,643 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_02",
+  "content_pack_id": "world02_mission_015_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world02_mission_015",
+  "candidate_scope": "published_mission_015_pages_47_54",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "source_bytes": 66576954,
+    "source_pages": 104,
+    "page_range": [
+      47,
+      54
+    ],
+    "evidence_manifest": "orchestration/content-sources/world02-level15-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world02_mission_015_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world02_mission_015_node_002",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 47,
+        "evidence_id": "p47_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_002",
+      "sequence": 2,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_015_node_003",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 48,
+        "evidence_id": "p48_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_003",
+      "sequence": 3,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world02_mission_015_node_004",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 48,
+        "evidence_id": "p48_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_004",
+      "sequence": 4,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_015_node_005",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 48,
+        "evidence_id": "p48_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_005",
+      "sequence": 5,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_015_node_006",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 49,
+        "evidence_id": "p49_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_006",
+      "sequence": 6,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_015_node_007",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 49,
+        "evidence_id": "p49_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_007",
+      "sequence": 7,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_015_node_008",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 49,
+        "evidence_id": "p49_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_008",
+      "sequence": 8,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_015_node_009",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 49,
+        "evidence_id": "p49_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_009",
+      "sequence": 9,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_015_node_010",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 50,
+        "evidence_id": "p50_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_010",
+      "sequence": 10,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world02_mission_015_node_011",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 50,
+        "evidence_id": "p50_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_011",
+      "sequence": 11,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_015_node_012",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 50,
+        "evidence_id": "p50_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_012",
+      "sequence": 12,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_015_node_013",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 51,
+        "evidence_id": "p51_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_013",
+      "sequence": 13,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_015_node_014",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 51,
+        "evidence_id": "p51_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_014",
+      "sequence": 14,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world02_mission_015_node_015",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 51,
+        "evidence_id": "p51_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_015",
+      "sequence": 15,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_015_node_016",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 51,
+        "evidence_id": "p51_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_016",
+      "sequence": 16,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world02_mission_015_node_017",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 52,
+        "evidence_id": "p52_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_017",
+      "sequence": 17,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_015_node_018",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 52,
+        "evidence_id": "p52_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_018",
+      "sequence": 18,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_015_node_019",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 52,
+        "evidence_id": "p52_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_019",
+      "sequence": 19,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_015_node_020",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 52,
+        "evidence_id": "p52_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_020",
+      "sequence": 20,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world02_mission_015_node_021",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 53,
+        "evidence_id": "p53_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_021",
+      "sequence": 21,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world02_mission_015_node_022",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 53,
+        "evidence_id": "p53_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_022",
+      "sequence": 22,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world02_mission_015_node_023",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 53,
+        "evidence_id": "p53_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_023",
+      "sequence": 23,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world02_mission_015_node_024",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 53,
+        "evidence_id": "p53_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_024",
+      "sequence": 24,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world02_mission_015_node_025",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 54,
+        "evidence_id": "p54_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_025",
+      "sequence": 25,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world02_mission_015_node_026",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 54,
+        "evidence_id": "p54_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_015_node_026",
+      "sequence": 26,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 54,
+        "evidence_id": "p54_b03"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_001",
+      "fields": {
+        "level_label": "LEVEL 15:",
+        "title": "The Spaceship Mutiny",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "CONTRIBUTION",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Why a Happy Home is a Multiplayer Co-Op, not a Solo Mission.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_002",
+      "fields": {
+        "story_heading": "THE SPACESHIP MUTINY",
+        "log_label": "SYSTEM LOG >>",
+        "text": "Later that afternoon. The Living Room was a disaster zone. It looked like a Lego factory had exploded. Socks, candy wrappers, and glitter covered the floor. Mimi sat on the sofa, wearing sunglasses inside the house to block out the huge mess. She was doing a \"butterfly hug\"—crossing her arms over her chest and gently tapping her shoulders left and right to calm her stressed-out body."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_003",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Mammi? Why is the kitchen closed? I need snacks! My stomach is digesting itself! I am going to wither away into a speck of dust! I tried to build a toy crane to lift the junk, but the walls fell down!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_004",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "The Captain has ejected. The ship is too messy to fly. Life support systems are failing. I am currently floating in deep space. I am tapping my shoulders so I don't turn into an angry fireball."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_005",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "But who will drive the ship?! Who will find my other sock?! I have a match soon and my feet are getting cold! (Dilo is casually kicking a balled-up sock on his knee like a soccer ball, clearly avoiding the mess)."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_006",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Not me. I am not a robot servant programmed to serve you. I am a Player in this game, and I am out of energy. You guys drained my battery. My bucket is empty."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_007",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli looked up from her book. She looked around at the chaos, her sharp eyes scanning the destruction. She carefully moved her foot away from a rogue action figure that looked suspiciously sticky. She pulled out a whistle and blew it sharply."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_008",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Attention, crew. She's right. You guys treat the house like a hotel. Look at this floor. It's a toxic danger zone. If health inspectors came, they would lock us up. I found a half-eaten sandwich under a couch cushion earlier. It has evolved. I think it tried to bite me. We need a search plan. Dilo, you take the left corner. Alio, you're on the right side."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_009",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "It's not my mess! The glitter is Nini's! The blocks are Alio's! The angry sandwich is probably Dad's! I am innocent! Why should I play a cleaning quest I didn't trigger?! You guys are a bunch of messy noobs!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_010",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "(Running in with a giant roll of sparkly pink duct tape, dancing with a broom like it's a dance partner) Don't panic! I can fix the life support! I will tape the mess to the ceiling! The gravity will be so confused! Everything is better with a dance break!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_011",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "(Closing her book with a loud SNAP) Tape won't fix the danger, Nini. And dancing creates wind that blows the glitter further. This mess is breaking the rules of the universe."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_012",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "I don't care who made it. We are a Crew. We are a team, not a bunch of random roommates avoiding each other in a hallway. If the ship crashes, we ALL crash. We don't need 'helpers'. Helping makes it sound like it's my job and you are doing me a favor. We need 'Contributors'. It is our ship. It's time to build the Dream Team."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_013",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini dropped the duct tape and the broom. She understood the assignment. She climbed onto the sofa, squished her cheeks against Mimi's, and kissed her loudly, her eyes full of deep love."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_014",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "I will recharge you, Mammi. Is your bucket filling up? I am sending you pure, high-voltage love beams! We will save you!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_015",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "A little bit. But the ship is still dirty, and my stress Lizard is very awake and ready to breathe fire."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_016",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Okay! Operation Clean Sweep! Dilo, grab the vacuum! I will fight the shoes! We have to save the Captain before the Lizard burns us all! Luli, give me the map spots!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_017",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo sighed dramatically, putting down his controller and stretching like an old man whose back just gave out. He looked at the laundry basket across the room."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_018",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Fine. But I'm claiming XP for this. Level 1: The Sock Dungeon. (He drops the sock he was kicking, sets it up, and volleys it perfectly across the room, landing it dead center in the laundry basket 10 meters away). Goooooooal. See? Even when I clean, I am a legend. Now move, let's get this over with."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_019",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "The ten-minute blitz worked. Luli directed the traffic, Dilo scored goals with the trash, and the spaceship was sparkling. But the peace wouldn't last long. A massive, confusing glitch was waiting for them in the kitchen, and it involved tangled wires and flying yelling..."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_020",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 043",
+        "heading": "THE BRAIN SECRET (Contribution vs. Chores)",
+        "science_label": "The Science:",
+        "science": "The word 'Chore' activates the pain center in your brain (the Insula). It feels like a punishment. The word 'Contribution' activates the reward center (Striatum). It makes you feel needed. Humans are wired to want to be valuable to their tribe.",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi explained she didn't want 'helpers' (which implies it's her job alone). She needed 'Contributors' because it is everyone's ship."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_021",
+      "fields": {
+        "file_label": "// FILE: 044",
+        "heading": "THE TOOL ('The 10-Minute Blitz')",
+        "science_label": "The Science:",
+        "science": "Cleaning for hours is impossible for a child's brain (too much executive function required). Cleaning for 10 minutes is a game.",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio initiated 'Operation Clean Sweep'. Set a timer. Play loud techno music. Everyone runs. When the timer beeps, YOU STOP. High intensity = High Dopamine. Fast and done."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_022",
+      "fields": {
+        "file_label": "// FILE: 045",
+        "heading": "THE GLITCH ('It's not fair!')",
+        "science_label": "The Science:",
+        "science": "'Scorekeeping' destroys teams.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo shouted: \"It's not my mess! I am innocent!\"",
+        "correction_label": "Correction:",
+        "correction": "We don't aim for 'Equal', we aim for 'Done'. Sometimes you carry the team, sometimes the team carries you. If the spaceship crashes, everyone crashes!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_023",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi was wearing sunglasses and tapping her shoulders to block out the stress of the mess.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Why does a super messy room make your brain feel tired or angry? What is your least favorite thing to clean?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_024",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo turned picking up socks into a soccer 'Sock Dungeon' game.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Assign official Titles for your Crew. Not ‘Trash Boy’, but 'Waste Management Officer'. Not 'Table Setter', but 'Logistics Manager'. Titles give status and turn a chore into a mission!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_025",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why was Mimi doing a \"Butterfly Hug\" (tapping her shoulders)? This is a real technique used in EMDR therapy! By crossing your arms and gently tapping your left and right shoulders one after the other, you force the left and right sides of your brain to communicate. This bilateral stimulation instantly calms down the nervous system and tells the Amygdala (the Lizard) that you are safe."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_015_node_026",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“ALL HANDS ON DECK!”",
+        "meaning_label": "MEANING:",
+        "meaning": "The Family Spaceship is taking damage (the house is too messy, and the Captain's stress levels are critical).",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Drop what you are doing immediately. Report to the Living Room for a 10-minute emergency rescue mission. No scorekeeping allowed.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Clean up this mess right now, you treat this house like a hotel!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'The ship is taking damage! All hands on deck for a 10-minute speed clean!'"
+      }
+    }
+  ]
+}

@@ -21,6 +21,9 @@ PACK11, EVIDENCE11 = load(11)
 PACK12, EVIDENCE12 = load(12)
 PACK13, EVIDENCE13 = load(13)
 PACK14, EVIDENCE14 = load(14)
+PACK15, EVIDENCE15 = load(15)
+PACK16, EVIDENCE16 = load(16)
+PACK17, EVIDENCE17 = load(17)
 
 class LevelElevenBoundaryTests(unittest.TestCase):
     def test_complete_source_slice(self):
@@ -168,6 +171,31 @@ class LevelFourteenBoundaryTests(unittest.TestCase):
             self.assertNotIn("entitlement_id", node)
             self.assertNotIn("score", node)
             self.assertNotIn("xp", node)
+
+
+class LaterWorld02BoundaryTests(unittest.TestCase):
+    def test_levels_15_to_17_complete_source_slices(self):
+        expected = {
+            15: (PACK15, EVIDENCE15, 26, set(range(47, 55)), "ALL HANDS ON DECK!"),
+            16: (PACK16, EVIDENCE16, 32, set(range(55, 64)), "SWAP GOGGLES"),
+            17: (PACK17, EVIDENCE17, 30, set(range(64, 72)), "DELETE SPAM MESSAGE"),
+        }
+        for level, (pack, evidence, node_count, pages, code) in expected.items():
+            with self.subTest(level=level):
+                counts = validator.validate(pack, evidence)
+                self.assertEqual(sum(counts.values()), node_count)
+                self.assertEqual({n["provenance"]["page"] for n in pack["nodes"]}, pages)
+                self.assertIn(code, pack["localized_copy"][-1]["fields"]["code"])
+                for node in pack["nodes"]:
+                    self.assertNotIn("entitlement_id", node)
+                    self.assertNotIn("score", node)
+                    self.assertNotIn("xp", node)
+
+    def test_corrections_are_preserved(self):
+        for pack in (PACK15, PACK16, PACK17):
+            with self.subTest(mission=pack["mission_id"]):
+                glitch = next(item["fields"] for item in pack["localized_copy"] if "correction_label" in item["fields"])
+                self.assertEqual(glitch["correction_label"], "Correction:")
 
 
 if __name__ == "__main__":
