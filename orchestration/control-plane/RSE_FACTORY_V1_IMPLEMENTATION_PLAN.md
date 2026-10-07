@@ -38,13 +38,13 @@ Status: PASS
 - v1.0 freeze + ADR policy
 
 ### W1 — Deterministic Control Tower
-Status: IN PROGRESS
+Status: PASS
 - registry/mailbox validator
 - hourly GitHub Actions snapshot
 - machine-readable status artifact
 - condition-watch owner notification
 
-Exit: hourly snapshot green.
+Exit: hourly snapshot green. PASS on GitHub Actions at head `3d033679177ea21a70500f52136fa4654139fef2`.
 
 ### W2 — Lane activation
 Status: PARTIAL
