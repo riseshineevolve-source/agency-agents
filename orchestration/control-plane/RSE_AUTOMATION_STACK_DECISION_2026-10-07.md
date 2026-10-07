@@ -64,3 +64,19 @@ It is:
 - expensive tools used for deterministic tasks.
 
 Solve these first.
+
+
+## n8n rollout decision
+
+Fastest validation path:
+1. n8n Cloud free trial for the MVP control workflows;
+2. prove value with CONTROL-TOWER-HOURLY, LANE-CHECKPOINT, RELEASE-CANDIDATE and ASSET-INGEST;
+3. after evidence, choose:
+   - n8n Cloud for lowest maintenance; or
+   - Community Edition self-hosted on a small always-on VPS for lower recurring software cost.
+
+Do not install n8n into the owner's Windows critical workstation as the long-term scheduler.
+Current local inspection on 2026-10-07 found Node and Git available but no Docker/n8n installation.
+The local machine may be used only for a temporary proof if needed.
+
+n8n rollout must not block Detective Gold Library / current release lanes.
