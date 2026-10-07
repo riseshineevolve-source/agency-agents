@@ -8,33 +8,33 @@
 
 # POZNAJCIE HAPPY MAKERS
 
-To nie jest rodzina, która przechodzi przez grudzień w idealnym spokoju.
+To nie jest idealnie spokojna świąteczna rodzina.
 
-Gubią rzeczy, spóźniają się, zmieniają plany, śmieją się w nieodpowiednich momentach i jakimś cudem nadal potrafią sprawić, że zwykły grudniowy wieczór jest wart zapamiętania.
+Gubią rzeczy, wychodzą za późno, zmieniają plany, śmieją się w najmniej odpowiednim momencie i jakimś cudem właśnie dzięki temu zwykłe grudniowe wieczory stają się warte zapamiętania.
 
 ## NINI, 4
-### Kieszonkowa Dystrybutorka Radości
+### Mała Dyrektorka Radości
 
-Najmniejsza z Happy Makers i, według Nini, osoba w pełni uprawniona do podejmowania decyzji.
+Najmłodsza Happy Maker i, według Nini, osoba w pełni uprawniona do podejmowania ważnych decyzji.
 
-Tańczy do wszystkiego, co ma rytm, łącznie z dźwiękami kuchennych urządzeń, „czyta” książki z absolutną pewnością siebie i przytula z zaangażowaniem zdolnym przerwać większość dorosłych planów.
+Tańczy do prawie wszystkiego, co ma rytm, łącznie z dźwiękami kuchennych sprzętów, „czyta” książki z pełnym przekonaniem, nawet jeśli nie wszystkie słowa zostały jeszcze oficjalnie poznane, i przytula z energią wystarczającą do przerwania większości dorosłych planów.
 
-Ma też wyjątkowy talent do zauważania, kiedy wszyscy wokół traktują coś zdecydowanie zbyt poważnie.
+Ma też niezwykły talent do zauważania momentów, w których wszyscy inni zaczynają traktować coś zdecydowanie zbyt poważnie.
 
-**Motto:** Jeśli wszyscy siedzą spokojnie, prawdopodobnie trzeba coś poprawić.
+**Motto:** Jeśli wszyscy siedzą spokojnie, prawdopodobnie coś wymaga poprawy.
 
 ---
 
 ## ALIO, 7
 ### Główny Inżynier Chaosu
 
-Alio działa na ciekawości, przekąskach i mniej więcej 120% odnawialnej energii.
+Alio działa na ciekawość, przekąski i mniej więcej 120% energii odnawialnej.
 
-Buduje ogromne miasta z klocków, wymyśla nowe gry w połowie grania w stare, odbija się od wszystkiego, od czego technicznie wolno się odbijać, i potrafi zostać mistrzem Kung Fu z pełnym dramatycznym zaangażowaniem na około dwanaście sekund.
+Buduje gigantyczne miasta z klocków, wymyśla nowe gry w trakcie grania w poprzednie, skacze na wszystkim, co technicznie zostało przeznaczone do skakania, i potrafi zostać mistrzem Kung Fu z absolutnym zaangażowaniem przez około dwanaście sekund.
 
-Niektóre jego pomysły są świetne.
+Część jego pomysłów jest świetna.
 
-Pozostałe zwykle stają się świetnymi historiami później.
+Pozostałe zwykle stają się świetnymi historiami trochę później.
 
 **Motto:** Maksimum zabawy. W większości bezpiecznie.
 
@@ -43,9 +43,9 @@ Pozostałe zwykle stają się świetnymi historiami później.
 ## DILO, 9
 ### Napastnik i Dział Systemów
 
-Po części piłkarz, po części gracz, po części samozwańczy dział kontroli jakości.
+Trochę piłkarz, trochę gracz, trochę nieoficjalny dział kontroli jakości.
 
-Dilo lubi zasady, wyniki, technologię, timing i wiedzieć, czy coś oficjalnie się liczy. Potrafi analizować sporny punkt z powagą powtórki VAR, a chwilę później jako pierwszy zauważyć, że komuś po cichu przydałaby się pomoc.
+Dilo lubi zasady, wyniki, technologię, timing i wiedzieć, czy coś oficjalnie się liczy. Potrafi analizować sporną sytuację z powagą systemu VAR, a jednocześnie jako pierwszy zauważyć, że ktoś obok po cichu potrzebuje pomocy.
 
 Jego fryzura również wydaje się mieć własne standardy zgodności.
 
@@ -56,76 +56,76 @@ Jego fryzura również wydaje się mieć własne standardy zgodności.
 ## LULI, 12
 ### Elegancka Detektywka
 
-Najstarsza z rodzeństwa, czyli miała najwięcej czasu na zbieranie dowodów.
+Najstarsza z rodzeństwa, czyli miała najwięcej czasu, żeby obserwować materiał dowodowy.
 
-Luli lubi zagadki, szarfy akrobatyczne, język i szczegóły, obok których wszyscy inni właśnie przeszli. Potrafi rozwiązać małą domową tajemnicę szybciej, niż większość dorosłych znajduje własne klucze, a potem podać odpowiedź jednym zdaniem, kiedy reszta wciąż tłumaczy problem.
+Luli lubi zagadki, aerial silks, język i szczegóły, obok których wszyscy inni jakimś cudem przeszli. Potrafi rozwiązać małą domową tajemnicę szybciej, niż większość dorosłych znajduje klucze, a potem podać odpowiedź jednym zdaniem, kiedy reszta nadal tłumaczy problem.
 
-Jest precyzyjna, stylowa, cicho zabawna i niezbyt podatna na niepotrzebny dramatyzm.
+Jest precyzyjna, stylowa, ma suche poczucie humoru i dość wysoką odporność na niepotrzebny dramat.
 
-**Motto:** Zwykle jest jakiś trop. Trzeba porządnie popatrzeć.
+**Motto:** Zwykle jest jakiś trop. Trzeba dobrze spojrzeć.
 
 ---
 
 ## MIMI
 ### Rodzinne Centrum Dowodzenia
 
-Mimi potrafi jednocześnie myśleć o kolacji, planie na jutro, zaginionej rękawiczce, wiadomości, na którą trzeba odpisać, i o tym, czy ktoś widział taśmę.
+Mimi potrafi jednocześnie myśleć o kolacji, jutrzejszym planie, zaginionej rękawiczce, wiadomości, na którą jeszcze trzeba odpisać, i o tym, czy ktoś widział taśmę.
 
 Spokojnie? Niekoniecznie.
 
 Skutecznie? Podejrzanie często.
 
-Jest ciepła, szybka, praktyczna i wciąż od czasu do czasu pełni funkcję samozwańczej Rodzinnej Policji Modowej, kiedy ktoś próbuje szczególnie odważnej stylizacji.
+Jest ciepła, szybka w działaniu, stale widzi praktyczne szczegóły i od czasu do czasu nadal pełni funkcję samozwańczej Rodzinnej Policji Modowej, kiedy ktoś podejmuje szczególnie odważną decyzję ubraniową.
 
 W grudniu Mimi nie tyle kontroluje chaos.
 
-Po prostu pokazuje mu, gdzie odwiesić kurtkę.
+Raczej pokazuje mu, gdzie odwiesić kurtkę.
 
-**Motto:** Ogarnie się. Prawdopodobnie po herbacie.
+**Motto:** Ogarnie się. Najlepiej po herbacie.
 
 ---
 
 # ZANIM ZACZNIECIE
 
-Grudzień potrafi być piękny i kompletnie nierozsądny jednocześnie.
+Grudzień potrafi być jednocześnie piękny i całkiem nierozsądny.
 
-Szkoła nadal trwa. Praca nadal trwa. Zajęcia dodatkowe, zakupy, paczki, korki, prezenty, pranie, wiadomości i rzeczy, które ktoś właśnie sobie przypomniał na jutro, również nadal trwają.
+Szkoła nadal trwa. Praca nadal trwa. Treningi, występy, zakupy, paczki, lista prezentów, pranie, wiadomości, pakowanie i rzeczy, których ktoś nagle potrzebuje na jutro, też nadal trwają.
 
-Ta książka nie ma być kolejną pozycją na tej liście.
+Ta książka nie ma stać się kolejnym punktem na tej liście.
 
 Każdy dzień ma trzy krótkie części:
 
 ## ZWOLNIJ
 
-Mniej więcej minutę, żeby zdjąć z dnia jedną warstwę pośpiechu.
+Mniej więcej minutę, żeby zdjąć z siebie jedną warstwę pośpiechu.
 
-Bez idealnego oddechu. Bez specjalnego nastroju. Bez obowiązku bycia spokojnym.
+Bez idealnego oddychania. Bez obowiązku wyciszenia się. Bez specjalnego nastroju.
 
-Każde ZWOLNIJ ma też **NA JUTRO**, czyli mały sposób na wykorzystanie tego później w zwykłym szkolnym, pracowym albo rodzinnym dniu.
+Każde ZWOLNIJ ma też **NA JUTRO**, żeby użyteczna część mogła wyjść z książki i przydać się w zwykłym szkolnym dniu, korku, przed treningiem, po kłótni albo podczas przeciążonego wieczoru.
 
 ## GRAMY
 
-Krótka zabawa dla prawdziwych salonów i prawdziwego poziomu energii.
+Krótka rodzinna zabawa zaprojektowana dla prawdziwych salonów i prawdziwego poziomu energii.
 
-Bez listy zakupów. Bez prac plastycznych do przygotowania. Bez skomplikowanego setupu.
+Bez listy zakupów. Bez przygotowywania materiałów. Bez projektu na pół wieczoru.
 
-Nie chodzi o wygranie grudnia. Chodzi o śmiech, współpracę, zauważenie siebie i jedną dobrą rzecz, która wydarzy się pośrodku zwykłego wieczoru.
+Nie chodzi o wygranie grudnia. Chodzi o śmiech, współpracę i jedną dobrą rzecz, która wydarzy się razem w środku zwyczajnego dnia.
 
 ## MIĘDZY NAMI
 
-Jedna krótka rozmowa.
+Jedno krótkie pytanie.
 
-Nie zebranie rodzinne. Nie lekcja. Nie obowiązkowa „ważna rozmowa”.
+Nie rodzinne zebranie. Nie lekcja. Nie obowiązkowa poważna rozmowa.
 
-Jedno pytanie, które daje każdemu szansę powiedzieć coś prawdziwego, zabawnego, pomocnego albo wartego zapamiętania.
+Jedna okazja, żeby powiedzieć coś prawdziwego, zabawnego, pomocnego albo wartego zauważenia.
 
-Jeśli któregoś dnia zajmie wam to dziesięć minut, świetnie.
+Jeśli któregoś dnia wyjdzie dziesięć minut, świetnie.
 
-Jeśli sześć, bo ktoś ma lekcje, ktoś jest głodny, a ktoś osiągnął już swój dzienny limit rodzinnych atrakcji, też się liczy.
+Jeśli wyjdzie sześć, bo ktoś ma lekcje, ktoś jest głodny, a ktoś właśnie osiągnął dzienny limit rodzinnych atrakcji, to też się liczy.
 
 Gotowi?
 
-Dzień 1 zaczyna się od odjęcia jednej rzeczy.
+Dzień 1 zaczyna się od odjęcia jednej rzeczy, nie od dodawania.
 
 ---
 
