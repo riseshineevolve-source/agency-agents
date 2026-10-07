@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import copy
 import json
+import runpy
 from pathlib import Path
 import tempfile
 import unittest
@@ -180,6 +181,77 @@ class R5FitEvidence(unittest.TestCase):
                     proof = check_r5_fit_evidence(CONTRACT, invalid_evidence, root, ROOT)
                     self.assertEqual(proof["status"], "BLOCK", proof)
 
+
+
+# Import the producer's testable function without executing its CLI.
+create_evidence_draft = runpy.run_path(
+    str(ROOT / "scripts/create-gentle-steps-r5-evidence-draft.py")
+)["create_draft"]
+
+
+def prepare_producer_artifacts(root: Path) -> None:
+    (root / "template").mkdir()
+    (root / "book").mkdir()
+    (root / "reviews").mkdir()
+    (root / "template/final_template.html").write_text("<html>synthetic</html>", encoding="utf-8")
+    (root / "book/full_book.pdf").write_bytes(b"%PDF-1.7" + bytes([10]) + b"test only")
+    for sid in REQUIRED_SURFACE_IDS:
+        (root / "reviews" / (sid + ".png")).write_bytes(
+            bytes.fromhex("89504e470d0a1a0a") + sid.encode("ascii")
+        )
+
+
+class R5EvidenceDraftProducer(unittest.TestCase):
+    def draft(self, root: Path) -> dict:
+        return create_evidence_draft(
+            root,
+            template_path="template/final_template.html",
+            book_path="book/full_book.pdf",
+            surface_dir="reviews",
+            renderer_name="synthetic-renderer",
+            renderer_revision="synthetic-1",
+        )
+
+    def test_producer_hashes_exact_r5_and_remains_unapproved(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            prepare_producer_artifacts(root)
+            draft = self.draft(root)
+            self.assertEqual(draft["source"]["r5_blob_sha"], EXPECTED_R5_BLOB)
+            self.assertEqual(len(draft["surfaces"]), 12)
+            self.assertIsNone(draft["typography"]["body_font_reduced_to_force_fit"])
+            self.assertFalse(all(s["review"]["no_clipping"] for s in draft["surfaces"]))
+            self.assertEqual(
+                check_r5_fit_evidence(CONTRACT, draft, root, ROOT)["status"], "BLOCK"
+            )
+
+    def test_producer_refuses_reused_render_bytes(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            prepare_producer_artifacts(root)
+            ids = REQUIRED_SURFACE_IDS
+            (root / "reviews" / (ids[1] + ".png")).write_bytes(
+                (root / "reviews" / (ids[0] + ".png")).read_bytes()
+            )
+            with self.assertRaisesRegex(ValueError, "identical bytes"):
+                self.draft(root)
+
+    def test_producer_refuses_outside_root_and_non_pdf_whole_book(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            prepare_producer_artifacts(root)
+            with self.assertRaisesRegex(ValueError, "escapes evidence root"):
+                create_evidence_draft(
+                    root,
+                    template_path="../outside/template.html",
+                    book_path="book/full_book.pdf",
+                    surface_dir="reviews",
+                    renderer_name="synthetic-renderer",
+                    renderer_revision="synthetic-1",
+                )
+            (root / "book/full_book.pdf").write_bytes(b"not a PDF")
+            with self.assertRaisesRegex(ValueError, "PDF header"):
+                self.draft(root)
 
 
 if __name__ == "__main__":
