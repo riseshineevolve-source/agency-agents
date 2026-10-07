@@ -298,3 +298,21 @@ Normal lane:
 3. final release gate.
 
 Everything else should be AUTO or AUTO+VERIFY.
+
+
+## 2026-10-07 throughput architecture additions
+
+Canonical Graphic Gold Library:
+- `orchestration/architecture/RSE_GRAPHIC_GOLD_LIBRARY_V1.md`
+
+Canonical resource/cost routing:
+- `orchestration/control-plane/RSE_RESOURCE_COST_ROUTING_V1.md`
+
+Current automation-stack decision:
+- `orchestration/control-plane/RSE_AUTOMATION_STACK_DECISION_2026-10-07.md`
+
+These documents define:
+- who creates/finalizes reusable graphic families;
+- why the first Detective ~18 owner-created pages seed Gold Library v1;
+- when to use GitHub Actions vs n8n vs Desktop Commander vs Pro/Codex vs Agents API;
+- why Temporal is deferred from the current critical path.
