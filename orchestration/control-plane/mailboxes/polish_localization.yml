@@ -1,12 +1,19 @@
 lane: polish_localization
 title: "Polish Localization Engine"
 updated: 2026-10-07
-status: BOOTSTRAP_READY__LANE_WRITER_MUST_REFRESH
-branch_or_repo_state: VERIFY_LIVE_ON_OPEN
-milestone: control_plane_v1_registered
-blocker: null
-owner_gate: null
-dependencies_needed: []
-reusable_outputs: []
-next_safe_task: read_registry_bootstrap_project_checkpoint_and_continue
-checkpoint_reference: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+status: GENTLE_STEPS_PL_R5_SOURCE_VERIFIED__REAL_TEMPLATE_FIT_NEXT
+branch_or_repo_state: "codex/polish-engine-main-reconcile @ 46c875bc69f9c9672a736881bddb21e4c8df65e0 before mailbox/checkpoint commit; exact-head CI green"
+milestone: gentle_steps_pl_r5_packaging_source_intake_verified
+blocker: exact_r5_real_template_render_evidence_not_yet_returned
+owner_gate: "visual approval of exact R5 render + explicit content-freeze decision after fit PASS"
+dependencies_needed:
+  - lane: gentle_steps
+    need: "Render exact PL R5 blob 04b4afcc438789d648ed34fa594f86ee97b02472 in the real final book template and return print-scale fit evidence; do not rewrite PL body copy."
+reusable_outputs:
+  - "PL R4 final content blob 6a0fbafa1b0fdc1f102c456cd45301d4eef275c2"
+  - "PL R5 packaging blob 04b4afcc438789d648ed34fa594f86ee97b02472"
+  - "locked identity: THE HAPPY MAKERS PRESENT / ŚWIĘTA SĄ TEŻ PO DRODZE / selected subtitle"
+  - "locked recurring labels: ZWOLNIJ / GRAMY / MIĘDZY NAMI / NA JUTRO"
+  - "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/CHECKPOINT_2026-10-07_R5_SOURCE_INTAKE.md"
+next_safe_task: consume_exact_r5_template_fit_evidence_then_run_final_pl_editorial_safety_proof
+checkpoint_reference: localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/CHECKPOINT_2026-10-07_R5_SOURCE_INTAKE.md
