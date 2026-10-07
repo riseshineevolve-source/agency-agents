@@ -1,129 +1,195 @@
-# 24 Gentle Steps to Christmas — Marketing Master
+# Before Christmas Slips By / Święta są też po drodze — Marketing Master
 
 Status: ACTIVE PRELAUNCH SOURCE
-Date: 2026-10-01
+Originally created: 2026-10-01
+Product identity refreshed: 2026-10-07
 Owner: RSE Marketing Orchestrator
 
-## Source truth
-Use only:
-- owner-supplied `24 Gentle Paperback ok(3).pdf`
-- owner-supplied `24 Gentle Steps to Christmas COVER HARDCOVER(2).pdf`
-- current public RSE/KDP-facing product copy
-- legacy Facebook/social material only as a concept source; rebuild anything with stale Happy Makers, distorted text, outdated claims or weak mobile readability.
+## Canonical product marketing briefs
 
-## Product truth from the paperback
-- 24-day Advent journey.
-- Built for real families with real December schedules.
-- Approximately ten minutes a day.
-- Intended usage requires no preparation, no materials, no extra shopping and no cleanup.
-- Each daily entry has three parts:
-  1. Mindful Moment
-  2. Fun Spark
-  3. Connection Share
-- Week 1: laughter, trust, soft presence.
-- Week 2: creativity, cooperation, imagination, playful flow.
-- Week 3: connection, openness, family synergy.
-- Week 4: gratitude, celebration and calm.
-- Happy Makers are warm, playful guides. Tone is real-family, imperfect and humorous, never corporate mindfulness.
+English / US+UK:
+`marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md`
+
+Polish:
+`marketing/GENTLE_STEPS_PL_PRODUCT_MARKETING_BRIEF_2026-10-07.md`
+
+These briefs are authoritative for current:
+- title/subtitle;
+- positioning;
+- slogans/hooks;
+- keywords;
+- metadata direction;
+- copy bans;
+- market-language adaptation.
+
+If older Gentle Steps marketing files conflict with a current Product Marketing Brief, the Product Marketing Brief wins.
+
+## Current identities
+
+### EN
+Series header:
+**THE HAPPY MAKERS PRESENT**
+
+Title:
+**BEFORE CHRISTMAS SLIPS BY**
+
+Subtitle:
+**24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together**
+
+Secondary campaign line:
+**CHRISTMAS HAPPENS ALONG THE WAY**
+
+### PL
+Series header:
+**THE HAPPY MAKERS PRESENT**
+
+Title:
+**ŚWIĘTA SĄ TEŻ PO DRODZE**
+
+Subtitle:
+**24 rodzinne aktywności po 10 minut, żeby mniej się spieszyć, więcej śmiać i naprawdę pobyć razem**
+
+Secondary campaign line:
+**ZANIM ZNOWU BĘDZIE PO ŚWIĘTACH**
+
+## Current daily systems
+
+EN:
+- PAUSE
+- PLAY
+- BETWEEN US
+- TRY IT TOMORROW
+
+PL:
+- ZWOLNIJ
+- GRAMY
+- MIĘDZY NAMI
+- NA JUTRO
+
+Legacy EN labels are superseded:
+- Mindful Moment
+- Fun Spark
+- Connection Share
 
 ## Parent problem
-December is already full. Parents do not need another elaborate Christmas project.
+
+December is already full / Grudzień już jest pełny.
+
+The product must not sound like another elaborate Christmas project.
 
 ## Core positioning
-**A tiny daily ritual for the December you actually have.**
 
-## Primary promise
-**Ten minutes. No prep. One small shared moment before the day runs away.**
+EN:
+**A ten-minute family Christmas experience for real December life: less rushing, more laughing, and time to really be together.**
 
-## Strong hooks
-1. **December is already full. This takes ten minutes.**
-2. **No prep. No perfect family required.**
-3. **One tiny ritual before December runs away with the day.**
-4. **If December feels like a beautiful, sparkling tornado, start here.**
-5. **You do not need another Christmas activity. You need one moment that actually fits.**
-6. **Three tiny moments. One family memory.**
-7. **The goal is not a perfect December. It is a December you remember.**
-8. **No crafts to prep. No glitter to vacuum. Just ten minutes together.**
-9. **Christmas magic works better sprinkled, not poured.**
-10. **A calmer Christmas is not a silent Christmas. It is a connected one.**
+PL:
+**Dziesięć minut dziennie, żeby święta wydarzały się także po drodze, a nie dopiero wtedy, kiedy wszystko będzie gotowe.**
 
-## Six master campaign systems
+## Primary proof
 
-### 1. TEN-MINUTE PROOF
-Hook: **December is already full. This takes ten minutes.**
-Proof: real book page + “no prep / no materials / no cleanup”.
-CTA: **SAVE THIS FOR DECEMBER.**
+- 24 days;
+- about 10 minutes/day;
+- no elaborate prep;
+- real games;
+- short conversations;
+- Happy Makers humor;
+- two-person variants;
+- ordinary December reality;
+- present-moment benefit.
 
-### 2. ONE DAY / THREE MOMENTS
-Hook: **One day. Three shared moments.**
-Proof: real Mindful Moment + Fun Spark + Connection Share.
-CTA: **SEE HOW A DAY WORKS.**
+## Strong current hooks
 
-### 3. SPARKLING TORNADO → SOFT LANDING
-Hook: **If December feels like a beautiful, sparkling tornado… this is your soft landing.**
-Proof: busy-family setup → one real Day page.
-CTA: **SAVE THIS FOR THE BUSY DAYS.**
+EN:
+- Before Christmas slips by.
+- Christmas happens along the way.
+- Christmas happens along the way. Don't let it slip by.
+- Less rush. More laughter. Time to really be together.
+- Less rushing. More laughing. Real time together.
+- December is already full. This takes ten minutes.
+- No prep. No perfect family required.
+- You do not need another Christmas activity. You need one moment that actually fits.
 
-### 4. CALM DOES NOT HAVE TO BE SERIOUS
-Hook: **Calm does not have to be serious.**
-Proof: Happy Makers humor / real playful note from a day.
-Payoff: **A little pause. A little laughter. A little more room for each other.**
-CTA: **MEET THE HAPPY MAKERS.**
+PL:
+- Święta są też po drodze.
+- Zanim znowu będzie po świętach.
+- Grudzień już jest pełny. To zajmuje dziesięć minut.
+- Mniej pośpiechu. Więcej śmiechu. Naprawdę pobyć razem.
+- Bez przygotowań. Bez idealnej rodziny.
+- Nie czekajcie z byciem razem, aż wszystko będzie gotowe.
+- Nie potrzebujecie kolejnego świątecznego projektu. Potrzebujecie chwili, która naprawdę mieści się w waszym dniu.
 
-### 5. THE GOAL IS NOT TO DO MORE
-Hook: **The goal is not to do more.**
-Payoff: **It is to notice more of what is already here.**
-Proof: real page + family connection moment.
-CTA: **KEEP THIS FOR DECEMBER.**
+## Campaign systems
 
-### 6. BOOK / EBOOK / APP
-Hook: **Same 24-day journey. Choose how your family wants to use it.**
-Use:
-- Paperback = table ritual / physical keepsake.
-- Ebook = instant access / travel.
-- App = guided daily access.
-Do not claim ebook/app are live until exact store links are verified.
-CTA: **CHOOSE YOUR FORMAT.**
+1. TITLE / EMOTIONAL HOOK
+2. TEN-MINUTE PROOF
+3. CURRENT THREE-PART DAILY RHYTHM
+4. ORDINARY DECEMBER / REAL FAMILY
+5. HAPPY MAKERS HUMOR
+6. FORMAT CHOICE only when format is verified live
 
 ## Visual direction
-- soft winter lavender, plum, blush, cream and warm gold;
-- warm blue-gray winter can appear as environmental contrast;
-- premium but close to real family life;
-- elegant, modern, clean;
-- not princess/fantasy;
-- not corporate wellness;
-- not over-sparkled;
-- real pages stay readable and accurate;
-- current Happy Makers only.
+
+- purple / plum / lavender + warm gold + cream family;
+- premium but recognizably real family life;
+- current Happy Makers only;
+- playful without preschool;
+- no corporate wellness;
+- no generic mindfulness stock imagery;
+- readable real-page proof.
 
 ## Copy bans
+
 No:
-- unlock your potential;
 - transform your family;
 - boost emotional intelligence;
-- therapy/clinical claims;
+- regulate your child;
+- clinical/therapy claims;
 - perfect-family pressure;
 - guilt;
-- vague fragments that sound inspirational but mean nothing.
+- fake scarcity;
+- unsupported ratings/reviews/bestseller claims.
 
 ## CTA bank
-Prelaunch:
+
+EN prelaunch:
 - SAVE THIS FOR DECEMBER.
 - SEE HOW A DAY WORKS.
 - MEET THE HAPPY MAKERS.
-- WHICH VERSION WOULD YOUR FAMILY USE?
-- YOUR DECEMBER RITUAL IS COMING.
+- KEEP THIS FOR THE BUSY DAYS.
 
-Live only after verified links:
-- START DAY 1.
-- CHOOSE YOUR FORMAT.
-- OPEN THE FIRST DAY.
-- GET THE BOOK.
-- START THE 24-DAY JOURNEY.
+PL prelaunch:
+- ZAPISZ NA GRUDZIEŃ.
+- ZOBACZ, JAK WYGLĄDA JEDEN DZIEŃ.
+- POZNAJ HAPPY MAKERS.
+- ZOSTAW TO SOBIE NA ZABIEGANE DNI.
 
-## Cross-sell from Detective Academy
-Use only as a light RSE universe bridge:
+Live CTAs only after exact listing/link is verified.
+
+## Cross-sell
+
+EN:
 **Different adventure. Same Happy Makers.**
-Detective = curiosity / evidence / thinking.
-Gentle Steps = warmth / play / connection / December ritual.
-Never visually merge both product worlds into one confusing creative.
+
+PL:
+**Inna przygoda. Ci sami Happy Makers.**
+
+## Verify before publication
+
+- exact cover hierarchy / thumbnail readability;
+- categories;
+- current marketplace autocomplete/backend keywords;
+- price;
+- listing URL;
+- availability;
+- final A+ assets;
+- promos/discounts.
+
+## Handoff
+
+When resuming Gentle Steps marketing:
+1. read the relevant EN or PL Product Marketing Brief;
+2. read this master;
+3. read current product manifest/readiness;
+4. only then use legacy copy packs as idea archives.
+
+Do not reconstruct current title, positioning or keyword decisions from old chats.
