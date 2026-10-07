@@ -3,7 +3,7 @@
   "date": "2026-10-06",
   "branch": "gentle-steps/en-v1-native-upgrade",
   "route": "CROSS_LANGUAGE_NATIVE_REAUTHORING_WITH_STRONG_TARGET_REFERENCE",
-  "status": "OWNER_READ_CANDIDATE_R4_FINAL_CONTENT_CANDIDATE",
+  "status": "PACKAGING_CANDIDATE_R5_BODY_LOCK_PASS",
   "pl_reference_master": {
     "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md",
     "git_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
@@ -34,8 +34,8 @@
     "explicit_two_person": 24
   },
   "owner_gates": [
+    "owner visual approval of R5 front matter",
     "exact cover/title hierarchy and thumbnail proof",
-    "freeze recurring labels PAUSE / PLAY / BETWEEN US",
     "owner content approval of exact candidate",
     "exact-hash layout/template proof",
     "KDP/Previewer/physical proof as required",
@@ -72,5 +72,19 @@
     "secondary_campaign_line": "CHRISTMAS HAPPENS ALONG THE WAY",
     "title_subtitle_owner_gate": "CLOSED_2026-10-07",
     "marketing_brief": "marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md"
+  },
+  "packaging_candidate": {
+    "path": "localization/en-US/production/gentle-steps/book-versions/v2/GENTLE_STEPS_EN_BOOK_VERSION_02_PACKAGING_CANDIDATE_R5_2026-10-07.md",
+    "git_blob_sha": "303e9f39bd53f363f4a2fd3843ea7746c5b4b643",
+    "body_base_r4_blob_sha": "2589f8e9eb89c625ca7ed11a231a89f4de7ce291",
+    "day1_onward_identical": true,
+    "proof": "localization/en-US/production/gentle-steps/book-versions/v2/EN_V2_R5_PACKAGING_PROOF_2026-10-07.md"
+  },
+  "recurring_labels": {
+    "pause": "PAUSE",
+    "play": "PLAY",
+    "between_us": "BETWEEN US",
+    "transfer": "TRY IT TOMORROW",
+    "status": "LOCKED_2026-10-07"
   }
 }
