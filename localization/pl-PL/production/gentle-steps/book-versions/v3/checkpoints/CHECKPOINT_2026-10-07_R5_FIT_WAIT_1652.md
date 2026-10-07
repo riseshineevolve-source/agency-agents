@@ -80,3 +80,16 @@ Until that evidence exists, do NOT authorize:
 - PRINT_READY
 - KDP publication
 - release
+
+
+## 17:52 recheck
+- Re-read the localization bootstrap before execution.
+- Canonical branch HEAD at recheck: `c41812e2c77293fa6ed2df6e51c846b7043bc2b7`.
+- Exact-head CI is fully green, including Polish Localization Regression and Test Installer.
+- Branch is now 500 commits ahead / 10 commits behind `main`.
+- Current main-side delta is 8 central control-plane/brain/n8n paths with zero localization-owned overlap.
+- No reconciliation was performed because the new main changes do not affect the active localization surface.
+- R4 blob remains `6a0fbafa1b0fdc1f102c456cd45301d4eef275c2`; R5 blob remains `04b4afcc438789d648ed34fa594f86ee97b02472`.
+- Latest Gentle Steps closing branch remains `1e142a902d0313e401c47486ac1d1271a09a5517`; no exact PL R5 real-template fit evidence has appeared.
+- Current main still states Detective English is not frozen; Detective PL full production remains blocked.
+- No manuscript text, central priority, freeze state, publication state, or release state changed in this recheck.
