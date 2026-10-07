@@ -116,5 +116,39 @@ class R5FitEvidence(unittest.TestCase):
             self.assertTrue(any("Artifact hash mismatch" in issue for issue in proof["issues"]))
 
 
+    def test_reused_render_artifact_is_blocked(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            evidence = build_bundle(root)
+            one, two = evidence["surfaces"][:2]
+            two["render"] = copy.deepcopy(one["render"])
+            two["review"]["render_sha256"] = one["render"]["sha256"]
+            proof = check_r5_fit_evidence(CONTRACT, evidence, root, ROOT)
+            self.assertEqual(proof["status"], "BLOCK")
+            self.assertTrue(any("distinct render" in i for i in proof["issues"]))
+
+    def test_identical_bytes_different_paths_are_blocked(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            evidence = build_bundle(root)
+            one, two = evidence["surfaces"][:2]
+            (root / two["render"]["path"]).write_bytes((root / one["render"]["path"]).read_bytes())
+            two["render"]["sha256"] = sha256(root / two["render"]["path"])
+            two["review"]["render_sha256"] = two["render"]["sha256"]
+            self.assertEqual(check_r5_fit_evidence(CONTRACT, evidence, root, ROOT)["status"], "BLOCK")
+
+    def test_whole_book_png_and_malformed_surfaces_block(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            evidence = build_bundle(root)
+            evidence["rendered_book"] = copy.deepcopy(evidence["surfaces"][0]["render"])
+            evidence["surfaces"][1]["render"] = []
+            evidence["surfaces"][2]["review"] = []
+            evidence["surfaces"][3] = None
+            proof = check_r5_fit_evidence(CONTRACT, evidence, root, ROOT)
+            self.assertEqual(proof["status"], "BLOCK")
+            self.assertTrue(any("Whole-book render must be PDF" in i for i in proof["issues"]))
+
+
 if __name__ == "__main__":
     unittest.main()
