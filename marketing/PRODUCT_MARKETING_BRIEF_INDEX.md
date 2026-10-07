@@ -30,7 +30,8 @@ When a product has a brief, that brief overrides older product-specific marketin
 
 | Product | Canonical Product Marketing Brief | Status | Notes |
 |---|---|---|---|
-| Before Christmas Slips By / Gentle Steps | `marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md` | **CURRENT / COMPLETE** | US+UK title, subtitle, slogans, keyword clusters and KDP direction captured |
+| Before Christmas Slips By / Gentle Steps EN | `marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md` | **CURRENT / COMPLETE** | US+UK title, subtitle, slogans, keyword clusters and KDP direction captured |
+| Święta są też po drodze / Gentle Steps PL | `marketing/GENTLE_STEPS_PL_PRODUCT_MARKETING_BRIEF_2026-10-07.md` | **CURRENT / COMPLETE** | Polish title, subtitle, slogans, keyword clusters and marketplace direction captured |
 | Happy Makers Detective Academy | Existing dedicated launch/content/positioning files | **MIGRATION NEEDED** | Consolidate current approved positioning into this template when next marketing milestone opens |
 | Optical Animals | `marketing/OPTICAL_ANIMALS_COMMERCIAL_DEEP_DIVE_2026-10-05.md` | **MIGRATION NEEDED** | Deep dive exists; product brief should become the compact canonical marketing identity layer |
 | Unstoppable | `marketing/UNSTOPPABLE_COMMERCIAL_DEEP_DIVE_2026-10-05.md` | **MIGRATION NEEDED** | Deep dive exists; create canonical product brief before active campaign build |
