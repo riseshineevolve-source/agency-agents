@@ -94,12 +94,12 @@
     "series_header": "THE HAPPY MAKERS PRESENT",
     "title": "ŚWIĘTA SĄ TEŻ PO DRODZE",
     "subtitle": "24 rodzinne aktywności po 10 minut, żeby mniej się spieszyć, więcej śmiać i naprawdę pobyć razem",
-    "secondary_campaign_line": "ZANIM ZNOWU BĘDZIE PO ŚWIĘTACH",
+    "alternate_campaign_line": "ZANIM ZNOWU BĘDZIE PO ŚWIĘTACH",
     "title_subtitle_owner_gate": "CLOSED_2026-10-07"
   },
   "packaging_candidate": {
     "path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R5_2026-10-07.md",
-    "git_blob_sha": "b6a9410cd938678bd67fcfafb5096494e27be78d",
+    "git_blob_sha": "04b4afcc438789d648ed34fa594f86ee97b02472",
     "body_base_r4_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
     "day1_onward_identical": true,
     "proof": "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R5_PACKAGING_PROOF_2026-10-07.md"
@@ -107,7 +107,7 @@
   "recurring_labels": {
     "slow": "ZWOLNIJ",
     "play": "GRAMY",
-    "between": "MIĘDZY NAMI",
+    "between_us": "MIĘDZY NAMI",
     "transfer": "NA JUTRO",
     "status": "LOCKED_2026-10-07"
   }
