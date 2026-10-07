@@ -50,3 +50,22 @@ The first workflow must prove:
 - owner notification happens only for real exception state.
 
 Do not add LLM nodes until deterministic routing is proven.
+
+
+## First live workflow proof
+
+Date: 2026-10-07
+Workflow: `RSE CONTROL TOWER — HEALTH CHECK`
+
+Live GitHub credential connection: PASS.
+
+Real execution against:
+`riseshineevolve-source/agency-agents`
+returned:
+- `rse_status = PASS`
+- `owner_action_required = false`
+- `source = RSE Control Plane v1`
+
+This proves the deterministic GitHub -> n8n health path on real repository data.
+
+Before activation/publish, add an explicit `PENDING` state for latest workflow runs that are queued/in_progress or otherwise have no terminal conclusion. PASS and ATTENTION behavior remains unchanged.
