@@ -1,1 +1,374 @@
-{}
+{
+  "evidence_version": 1,
+  "mission_id": "world02_mission_018",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "filename": "paperback 10 STORIES WORLD 02 FINAL standard(1).pdf",
+    "isbn": "9798249971823",
+    "sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "bytes": 66576954,
+    "pages": 104,
+    "page_range": [
+      72,
+      78
+    ]
+  },
+  "method": "Page-by-page transcription from the canonical published paperback using indexed PDF text. Narrative order was reconstructed where PDF multi-column extraction order diverged from story chronology, and continuity was cross-checked across adjacent pages. No visual-layout inference beyond the published text sequence is claimed.",
+  "page_inventory": [
+    {
+      "page": 72,
+      "content_blocks": 1
+    },
+    {
+      "page": 73,
+      "content_blocks": 4
+    },
+    {
+      "page": 74,
+      "content_blocks": 5
+    },
+    {
+      "page": 75,
+      "content_blocks": 3
+    },
+    {
+      "page": 76,
+      "content_blocks": 4
+    },
+    {
+      "page": 77,
+      "content_blocks": 4
+    },
+    {
+      "page": 78,
+      "content_blocks": 3
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p72_b01",
+      "node_id": "world02_mission_018_node_001",
+      "page": 72,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 18:",
+        "title": "The Pixel Zombie",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "BALANCE",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Why screens are 'Fast Food' for the brain.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p73_b01",
+      "node_id": "world02_mission_018_node_002",
+      "page": 73,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Saturday, 11:00 AM. The sun was shining. The birds were singing. In the living room, the curtains were closed tight. Dilo sat in the dark, glowing in the blue light from his screen. His mouth was slightly open. Drool potential: High. Eyes not blinking."
+      }
+    },
+    {
+      "evidence_id": "p73_b02",
+      "node_id": "world02_mission_018_node_003",
+      "page": 73,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "(Taking notes on her clipboard and planning the day) Subject Dilo is gone. He is now a vegetable. Pulse: very low. Brain activity: purely digital. We should probably water him so he doesn't dry out. I am putting 30 minutes of emergency outdoor healing time for him on my schedule."
+      }
+    },
+    {
+      "evidence_id": "p73_b03",
+      "node_id": "world02_mission_018_node_004",
+      "page": 73,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini stood in front of the TV, waving a large, leafy potted plant in Dilo's face while singing a gentle, pretty song about the sun."
+      }
+    },
+    {
+      "evidence_id": "p73_b04",
+      "node_id": "world02_mission_018_node_005",
+      "page": 73,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "I am healing your energy, Dilo! The plant speaks to you! Breathe the fresh air! Come back to the light!"
+      }
+    },
+    {
+      "evidence_id": "p74_b01",
+      "node_id": "world02_mission_018_node_006",
+      "page": 74,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "It's no use, Nini. His thinking brain has turned to mush. He is turning into a caveman. Soon he will talk only in grunts and complaints about game lag."
+      }
+    },
+    {
+      "evidence_id": "p74_b02",
+      "node_id": "world02_mission_018_node_007",
+      "page": 74,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio ran in. He was covered in dirt. He had spent the morning building a tiny, super-cool battle arena out of mud and sticks in the backyard."
+      }
+    },
+    {
+      "evidence_id": "p74_b03",
+      "node_id": "world02_mission_018_node_008",
+      "page": 74,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Dilo! We found a bug outside that fights other bugs! I built them an arena with big seats and a VIP section! Come look!"
+      }
+    },
+    {
+      "evidence_id": "p74_b04",
+      "node_id": "world02_mission_018_node_009",
+      "page": 74,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Mmph. Busy. Level 50 boss. Go away. Leave the zombie alone."
+      }
+    },
+    {
+      "evidence_id": "p74_b05",
+      "node_id": "world02_mission_018_node_010",
+      "page": 74,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi walked in. She drank a huge glass of water, showing the kids out loud that drinking water helps the brain handle stress. Then, she mercilessly ripped the curtains open. Pure, bright sunlight hit Dilo like a laser weapon."
+      }
+    },
+    {
+      "evidence_id": "p75_b01",
+      "node_id": "world02_mission_018_node_011",
+      "page": 75,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "HISSS! IT BURNS! CLOSE THE SKY! WHO TURNED ON THE SUN?!"
+      }
+    },
+    {
+      "evidence_id": "p75_b02",
+      "node_id": "world02_mission_018_node_012",
+      "page": 75,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Dilo, log off. You have 'Screen Face'. You look grey. Your brain is drunk on cheap screen points and you are acting like a goblin. You haven't even touched your favorite soccer ball in two days! It's getting sad and flat in the corner!"
+      }
+    },
+    {
+      "evidence_id": "p75_b03",
+      "node_id": "world02_mission_018_node_013",
+      "page": 75,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "I am talking to friends! I am building an empire! I am a King! Real life is boring! The grass doesn't glow! The graphics outside are terrible, the people are annoying, and there are absolutely zero dragons!"
+      }
+    },
+    {
+      "evidence_id": "p76_b01",
+      "node_id": "world02_mission_018_node_014",
+      "page": 76,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "That's because your brain is used to fast flashes. The real world doesn't flash bright neon colors at you every two seconds to keep you looking. Screens are 'Candy for the Brain'. Tastes good, but leaves you weak, addicted, and grumpy when it's gone. You need 'Vegetables for the Brain' - sunlight, running, real faces. You need a break. 30 minutes of 'Green Energy' outside. If you survive, you can come back."
+      }
+    },
+    {
+      "evidence_id": "p76_b02",
+      "node_id": "world02_mission_018_node_015",
+      "page": 76,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo crawled outside like a vampire forced into the daylight, grumbling about how unfair it was and how terrible real-world jumping was. 5 minutes later, he was on his knees in the dirt, intensely poking the fighting bug with Alio inside the mud arena."
+      }
+    },
+    {
+      "evidence_id": "p76_b03",
+      "node_id": "world02_mission_018_node_016",
+      "page": 76,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Okay, the way this beetle moves is actually cool. Look how fast his wings flap when he attacks. It's perfect real-life graphics. And your building design isn't terrible, Alio."
+      }
+    },
+    {
+      "evidence_id": "p76_b04",
+      "node_id": "world02_mission_018_node_017",
+      "page": 76,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo was cured of his digital curse. But the true test of their weekend would come the next morning, when the weather decided to completely ruin their plans..."
+      }
+    },
+    {
+      "evidence_id": "p77_b01",
+      "node_id": "world02_mission_018_node_018",
+      "page": 77,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 052",
+        "heading": "THE BRAIN SECRET (Dopamine Burnout)",
+        "science_label": "The Science:",
+        "science": "Screens give your brain 'Cheap Dopamine' (fast treats without effort). Real life gives you 'Slow Serotonin' (pride after hard work). If you binge screens, real life feels gray and boring ('The Grey World Effect').",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo complained that \"the grass doesn't glow.\" His brain's receptors were fried from the flashing lights."
+      }
+    },
+    {
+      "evidence_id": "p77_b02",
+      "node_id": "world02_mission_018_node_019",
+      "page": 77,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 053",
+        "heading": "THE TOOL ('The Tech Token')",
+        "science_label": "The Science:",
+        "science": "Willpower is weak against screens. You need to make time tangible.",
+        "in_story_label": "In The Story:",
+        "in_story": "Use physical tokens. 1 Token = 30 minutes. When you hand the token to your Captain, the arcade is officially closed. No negotiating!"
+      }
+    },
+    {
+      "evidence_id": "p77_b03",
+      "node_id": "world02_mission_018_node_020",
+      "page": 77,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 054",
+        "heading": "THE GLITCH ('I'm bored!')",
+        "science_label": "The Science:",
+        "science": "Boredom is simply the withdrawal symptom of dopamine (Neurochemical Homeostasis). It is actually GOOD. It is your brain rebooting its system.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo was grumpy when he first went outside, but pushing through the discomfort unlocked his creativity!"
+      }
+    },
+    {
+      "evidence_id": "p77_b04",
+      "node_id": "world02_mission_018_node_021",
+      "page": 77,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Luli said Dilo was acting like a caveman who only spoke in grunts.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "How does your body feel after you stare at a screen for a very long time? Do you ever get 'Screen Face'?"
+      }
+    },
+    {
+      "evidence_id": "p78_b01",
+      "node_id": "world02_mission_018_node_022",
+      "page": 78,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo found a cool beetle outside to reset his brain.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Initiate the 'Green Hour'. Go for a walk together without any phones. Find 5 things: Something red, something rough, something fast. Re-calibrate your eyes to the real world!"
+      }
+    },
+    {
+      "evidence_id": "p78_b02",
+      "node_id": "world02_mission_018_node_023",
+      "page": 78,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why do video games make you grumpy when you turn them off? Video games are designed by neuroscientists to trigger constant dopamine hits. Your brain loves this, but to protect itself from overflowing, it reduces the number of dopamine receptors (Downregulation). When the game turns off, your brain suddenly has very low dopamine levels, making you feel instantly irritable, angry, and depressed. Getting outside in the sun helps reset those levels!"
+      }
+    },
+    {
+      "evidence_id": "p78_b03",
+      "node_id": "world02_mission_018_node_024",
+      "page": 78,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“I NEED GREEN ENERGY”",
+        "meaning_label": "MEANING:",
+        "meaning": "I have 'Screen Face.' I am feeling irritable, numb, and my brain is overloaded with cheap digital dopamine. I am a Pixel Zombie.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Immediate digital detox. I am going outside to recharge my solar batteries. No screens allowed.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'You are addicted to that screen! Turn it off right now!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'You have Screen Face. It's time for Green Energy to fix your glitching sensors.'"
+      }
+    }
+  ]
+}
