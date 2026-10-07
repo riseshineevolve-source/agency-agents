@@ -1,59 +1,77 @@
-# Gentle Steps EN V2 — Final Title Shortlist
+# Gentle Steps EN V2 — Title / Subtitle Decision
 
-Status: OWNER SHORTLIST — 2 OPTIONS
+Status: **OWNER SELECTED / LOCKED FOR CURRENT PACKAGING**
+Updated: 2026-10-07
 
-Permanent series header:
+## Permanent series header
 
 # THE HAPPY MAKERS PRESENT
 
-No additional `A Happy Makers Family Christmas Book` brand line.
+Do not add:
+`A Happy Makers Family Christmas Book`
 
----
+The series header already carries the Happy Makers brand.
 
-# OPTION 1 — COMMERCIAL / EMOTIONAL FRONT-RUNNER
-
-## THE HAPPY MAKERS PRESENT
+## Selected main title
 
 # BEFORE CHRISTMAS SLIPS BY
 
-### 24 Ten-Minute Family Moments for Less Rush, More Laughter, and Real Time Together
+Status: **SELECTED**
 
-Why it remains:
-- strongest immediate emotional hook;
-- native English;
-- speaks directly to how fast December disappears;
-- commercial without sounding like a workbook;
-- subtitle makes the product instantly clear.
+Reason:
+- strongest US/UK immediate emotional hook;
+- expresses the real December problem without sounding like a workbook;
+- works with the product promise of ten minutes of real family time before the month disappears into logistics.
 
----
+## Selected subtitle
 
-# OPTION 2 — PREMIUM / CLOSEST TO THE POLISH IDEA
+### 24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together
 
-## THE HAPPY MAKERS PRESENT
+Status: **SELECTED**
+
+Meaning lock:
+The book is not primarily about creating memories for later.
+Its primary benefit is genuine shared time now.
+
+The subtitle intentionally communicates:
+- lower friction / less rushing;
+- play and humor;
+- real family presence and connection in the current moment.
+
+## Retained secondary campaign title / thematic line
 
 # CHRISTMAS HAPPENS ALONG THE WAY
 
-### 24 Ten-Minute Family Moments to Slow the Rush, Laugh More, and Be Together
+Status: **KEEP FOR MARKETING / A+ / BACK COVER / ADS — NOT CURRENT MAIN TITLE**
 
-Why it remains:
-- strongest transcreation of `ŚWIĘTA SĄ TEŻ PO DRODZE`;
-- expresses the central idea of the book;
-- warmer and more literary;
-- distinctive enough to carry a premium cover.
+Strong paired campaign line:
+**Christmas happens along the way. Don't let it slip by.**
 
----
+This remains the strongest transcreation of the Polish idea:
+`ŚWIĘTA SĄ TEŻ PO DRODZE`.
 
-# Current recommendation
+## Short marketing line
 
-Keep both through cover / packaging exploration.
+**Less rushing. More laughing. Real time together.**
 
-Do not decide based on wording alone.
+Use as ad/social/back-cover supporting copy.
 
-Test them visually on the real cover:
-1. hierarchy with `THE HAPPY MAKERS PRESENT`;
-2. readability as thumbnail;
-3. emotional fit with family imagery;
-4. Amazon search-result legibility;
-5. whether subtitle becomes too dense.
+## Canonical marketing brief
 
-No body-copy changes depend on this title decision.
+`marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md`
+
+That file owns the full:
+- slogan bank;
+- keyword clusters;
+- US/UK marketing direction;
+- KDP/backend keyword draft;
+- positioning;
+- CTA bank;
+- channel use;
+- copy bans.
+
+## No body-copy implication
+
+This decision changes packaging/metadata/front matter only.
+
+Do not reopen the 24-day body copy because of the title decision.
