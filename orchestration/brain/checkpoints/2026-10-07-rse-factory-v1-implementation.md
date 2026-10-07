@@ -16,7 +16,7 @@ Architecture: FROZEN
   - tests PASS
   - hourly GitHub Action implemented
   - GitHub Actions PASS at `3d033679177ea21a70500f52136fa4654139fef2`
-- second Pro Build Desk bootstrap: READY
+- dedicated Pro chat Build Desk bootstrap: READY
 - Build Desk assignment: Detective primary
 - n8n MVP workflow contracts: READY
 - Control Plane event schema: READY
@@ -39,7 +39,7 @@ W4:
 
 ## Current owner actions that remain one-time setup
 
-1. Start/confirm second ChatGPT Pro `RSE BUILD DESK` using canonical bootstrap.
+1. Start/confirm dedicated RSE BUILD DESK chat on the same ChatGPT Pro account `RSE BUILD DESK` using canonical bootstrap.
 2. Connect/create n8n trial when ready for W4.
 
 These are setup actions, not recurring production relay.
