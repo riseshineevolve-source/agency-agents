@@ -1,17 +1,20 @@
 lane: central_control_tower
 title: "RSE Central Control Tower"
 updated: 2026-10-07
-status: CONTROL_PLANE_V1_ACTIVE__LIVE_RECONCILED_1744
+status: CONTROL_PLANE_V1_ACTIVE__LIVE_RECONCILED_2018
 branch_or_repo_state: agency-agents/main
-milestone: detective_recovered_gold_review_ready
+milestone: detective_recovered_gold_review_open__gentle_steps_repository_ready
 blocker: null
 owner_gate: one_recovered_gold_contact_sheet_visual_decision
 dependencies_needed:
-  - gentle_steps_to_polish_r5_template_fit_evidence
+  - detective_owner_gold_pages_12_15_decision
+  - optical_exact_source_reconciliation_by_delegated_writer
+  - gentle_steps_real_device_and_store_evidence
+  - gentle_steps_pl_exact_r5_real_template_fit_evidence
 reusable_outputs:
   - orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
   - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
   - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
-  - orchestration/brain/checkpoints/2026-10-07-central-control-tower-reconcile-1744.md
-next_safe_task: monitor_lane_owned_reconciliation_and_consume_material_checkpoint_changes
-checkpoint_reference: orchestration/brain/checkpoints/2026-10-07-central-control-tower-reconcile-1744.md
+  - orchestration/brain/checkpoints/2026-10-07-central-control-tower-reconcile-2018.md
+next_safe_task: monitor_lane_owned_optical_reconciliation_and_consume_detective_owner_decision; keep_gentle_steps_repository_in_verification_only
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-07-central-control-tower-reconcile-2018.md
