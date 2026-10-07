@@ -99,7 +99,7 @@ Use for:
 Personal Pro usage is not the unattended automation backend.
 Do not build a 24/7 scheduler around personal account credentials.
 
-If owner has a second Pro account:
+If owner has a dedicated Pro chat account:
 - assign it durable dedicated lane(s);
 - it reads/writes through GitHub/Control Plane;
 - do not duplicate work between accounts;
@@ -149,9 +149,9 @@ Rules:
 
 Control Tower may inspect usage weekly and adjust routing.
 
-## Two-account ChatGPT policy
+## Dedicated-chat ChatGPT policy
 
-Treat each ChatGPT account as a separate human-supervised execution capacity.
+Treat each dedicated execution chat as a separate human-supervised execution capacity.
 
 Do:
 - assign non-overlapping lanes;
@@ -160,7 +160,7 @@ Do:
 - let each account stop at durable checkpoints.
 
 Do not:
-- make the accounts edit the same branch/worktree;
+- make the chats edit the same branch/worktree;
 - copy secrets between accounts unnecessarily;
 - attempt credential-sharing automation;
 - treat personal ChatGPT subscriptions as API credits.
