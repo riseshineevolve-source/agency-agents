@@ -81,7 +81,17 @@ def check_r5_fit_evidence(contract: dict, evidence: dict, evidence_root: Path, r
     evidence_root = Path(evidence_root).resolve()
     repo_root = Path(repo_root).resolve()
 
+    if not isinstance(contract, dict):
+        issues.append("Proof contract must be an object")
+        contract = {}
+    if not isinstance(evidence, dict):
+        issues.append("Evidence must be an object")
+        evidence = {}
+
     source_lock = contract.get("source_lock", {})
+    if not isinstance(source_lock, dict):
+        issues.append("Proof contract source_lock must be an object")
+        source_lock = {}
     contract_blob = source_lock.get("r5_blob_sha")
     contract_path = source_lock.get("r5_packaging_path")
 
@@ -101,22 +111,35 @@ def check_r5_fit_evidence(contract: dict, evidence: dict, evidence_root: Path, r
         issues.append("Wrong evidence format")
     if evidence.get("surface_kind") != "actual_final_template":
         issues.append("Proxy/non-final template evidence cannot close the gate")
-    if evidence.get("source", {}).get("path") != EXPECTED_SOURCE_PATH:
+    source_record = evidence.get("source", {})
+    if not isinstance(source_record, dict):
+        issues.append("Evidence source must be an object")
+        source_record = {}
+    if source_record.get("path") != EXPECTED_SOURCE_PATH:
         issues.append("Evidence source path does not match R5 lock")
-    if evidence.get("source", {}).get("r5_blob_sha") != EXPECTED_R5_BLOB:
+    if source_record.get("r5_blob_sha") != EXPECTED_R5_BLOB:
         issues.append("Evidence source blob does not match R5 lock")
     if source_path.is_file():
-        if evidence.get("source", {}).get("sha256") != sha256(source_path):
+        if source_record.get("sha256") != sha256(source_path):
             issues.append("Evidence source SHA-256 does not match canonical R5 bytes")
 
     renderer = evidence.get("renderer", {})
+    if not isinstance(renderer, dict):
+        issues.append("Renderer provenance must be an object")
+        renderer = {}
     if not renderer.get("name") or not renderer.get("revision"):
         issues.append("Renderer provenance missing")
     reviewer = evidence.get("reviewer", {})
+    if not isinstance(reviewer, dict):
+        issues.append("Print-scale reviewer provenance must be an object")
+        reviewer = {}
     if not reviewer.get("name") or not reviewer.get("reviewed_at"):
         issues.append("Print-scale reviewer provenance missing")
 
     typography = evidence.get("typography", {})
+    if not isinstance(typography, dict):
+        issues.append("Typography declaration must be an object")
+        typography = {}
     if typography.get("body_font_reduced_to_force_fit") is not False:
         issues.append("Body typography shrink-to-fit must be explicitly false")
 
