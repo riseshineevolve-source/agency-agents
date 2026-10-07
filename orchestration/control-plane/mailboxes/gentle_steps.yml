@@ -1,12 +1,68 @@
 lane: gentle_steps
 title: "Gentle Steps / Before Christmas Slips By"
 updated: 2026-10-07
-status: BOOTSTRAP_READY__LANE_WRITER_MUST_REFRESH
-branch_or_repo_state: VERIFY_LIVE_ON_OPEN
-milestone: control_plane_v1_registered
+status: REPOSITORY_SIDE_READY_FOR_INTERNAL_TESTING__REAL_DEVICE_AND_STORE_GATES_REMAIN
+branch_or_repo_state:
+  repository: riseshineevolve-source/RISE.SHINE.EVOLVE
+  branch: gentle-steps/app-en-full24-purple-gold
+  exact_green_head: d62eb1ff3a4a539efb73fea09e8cba6d412e6c7e
+  writer: this_dedicated_gentle_steps_lane
+milestone:
+  en_app:
+    canonical_source: Gentle_Steps_EN_V2_R3_FINAL_CONTENT_PLUS_FIXES_CORRECT(1).pdf
+    source_sha256: d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1
+    identity:
+      presenter: THE HAPPY MAKERS PRESENT
+      title: BEFORE CHRISTMAS SLIPS BY
+      subtitle: 24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together
+    structure: "24 days / 72 sections / PAUSE + PLAY + BETWEEN US / TRY IT TOMORROW"
+    splash_source:
+      path: gentle-steps-app/brand/concepts/splash-v2-city-family-source.png
+      bytes: 2412258
+      dimensions: 1024x1536
+      sha256: 5902edb7fbec908f36946afc3e004dcd74e8948babce76f402f24279032b08c1
+      runtime_sha256: 6a93cddc18eab6d49c88817931ef0464b2182fba9aeeee36a310943f34fad734
+      status: OWNER_APPROVED_V2_SOURCE_INTEGRATED
+    ci:
+      gentle_steps_english_app_195: PASS
+      seo_validation_1119: PASS
+      gentle_steps_android_build_148: PASS
+    android_artifact:
+      workflow_run: 37660155608
+      artifact_id: 11501190610
+      artifact_name: gentle-steps-android-preplay-build
+      artifact_zip_sha256: 8c60af54ba80f49844db040ed8b29a75d82d47fa7b23d31dbd8bc12d3e461c41
+      debug_apk_sha256: f2a343486b974f2da70ff3f060abef6349c07fa3324b4496619a712285c60fd9
+      unsigned_aab_sha256: 3b88e824e1be79024e4dafb795d44a21991b476e5fb1890d1fc29ac22642d1a3
+  polish_dependency:
+    authority_branch: codex/polish-engine-main-reconcile
+    observed_head: 600ed1d2311a9da27b2853ce39c0aea1bb31c7f6
+    body_source_path: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md
+    body_blob_sha: 6a0fbafa1b0fdc1f102c456cd45301d4eef275c2
+    packaging_source_path: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R5_2026-10-07.md
+    packaging_blob_sha: 04b4afcc438789d648ed34fa594f86ee97b02472
+    title: "ŚWIĘTA SĄ TEŻ PO DRODZE"
+    subtitle: "24 rodzinne aktywności po 10 minut, żeby mniej się spieszyć, więcej śmiać i naprawdę pobyć razem"
+    recurring_labels: ["ZWOLNIJ", "GRAMY", "MIĘDZY NAMI", "NA JUTRO"]
+    copy_policy: consume_polish_engine_outputs_only__do_not_independently_rewrite_locked_pl
+    current_gate: exact_r5_real_final_template_fit_evidence_then_polish_engine_final_editorial_safety_proof
 blocker: null
-owner_gate: null
-dependencies_needed: []
-reusable_outputs: []
-next_safe_task: read_registry_bootstrap_project_checkpoint_and_continue
-checkpoint_reference: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+owner_gate:
+  type: REAL_DEVICE_VISUAL_AND_STORE_RELEASE
+  requirements:
+    - install refreshed debug APK on Android hardware
+    - verify final splash/icon and Home/Family on physical screen
+    - completion persistence after kill/restart
+    - airplane-mode reopen
+    - reminder permission/delivery/tap including exact-alarm handling
+    - larger system font and short TalkBack pass
+    - approve final package ID / Play signing / store listing / pricing-regions / Data Safety-Families / publication
+dependencies_needed:
+  - lane: polish_localization
+    need: consume exact R5 production-template fit evidence and run final Polish editorial/safety proof before PL content freeze
+reusable_outputs:
+  - "Exact recovered approved splash source and deterministic Android integration"
+  - "Green EN V2 app/browser/offline/accessibility contract at d62eb1f"
+  - "Green Android SDK 36 lint/build with debug APK and unsigned AAB"
+next_safe_task: owner_real_device_smoke_or_store_configuration; parallel_safe_pl_task_is_exact_r5_template_fit_without_copy_rewrite
+checkpoint_reference: d62eb1ff3a4a539efb73fea09e8cba6d412e6c7e
