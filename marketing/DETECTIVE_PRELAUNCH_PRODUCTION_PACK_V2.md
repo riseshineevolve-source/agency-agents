@@ -1,6 +1,6 @@
 # Detective Academy — Pre-Launch Production Pack V2
 
-Status: **PREPARED / NOT SCHEDULED / FIRST-BATCH OWNER GATE OPEN**
+Status: **PREPARED / NOT SCHEDULED / FIRST-CREATIVE-FAMILY OWNER GATE OPEN**
 Date: 2026-09-29
 Execution owner: RSE Marketing Autopilot
 Product repos: **READ-ONLY**
@@ -10,7 +10,7 @@ Product repos: **READ-ONLY**
 - Product branch observed: `RISE.SHINE.EVOLVE / feature/detective-book-factory` @ `989bce1fc1846fcb2480517d1b4965f3add204aa`.
 - Codex premium-layout work is active; marketing must not treat the 127-page compact proof as final visual evidence.
 - English is NOT FROZEN.
-- Verified positioning: **30 CASES. ONE HIDDEN MYSTERY. YOU'RE THE MISSING DETECTIVE.**
+- Verified positioning: **30 CASES. ONE HIDDEN MYSTERY. BECOME THE MISSING DETECTIVE.**
 - Safe proof points: 30 connected cases; reader identity/Recruit Credential; maps, codes, visual evidence and logic; three-level Hint Vault; reasoning-led Solution Files; screen-free, pencil-first format.
 - Never spoil Room Zero mechanics, CHECK THE OLD MAP, final coordinate/code or the Book 2 archive resolution.
 - Metricool verified 2026-09-29: Facebook, Instagram and YouTube connected; scheduled queue through 2026-10-13 = **0**.
@@ -63,7 +63,7 @@ Shot list:
 6. CTA: **YOUR NEXT CASE IS COMING.**
 
 VO:
-"One detective is still missing. The badge has no name because that place belongs to the reader. Thirty connected cases. One hidden mystery. Your next case is coming."
+"One detective is still missing. The Recruit Credential has no name. Is the open place meant for you? Thirty connected cases. One hidden mystery. Your next case is coming."
 
 No character lip-sync.
 
@@ -90,7 +90,7 @@ Description: A 30-case detective adventure for ages 8–12 where the reader join
 ### A2 — 6-slide carousel
 1. **ONE DETECTIVE IS STILL MISSING.**
 2. **THE RECRUIT CREDENTIAL HAS NO NAME.**
-3. **THE READER FILLS THE PLACE.**
+3. **WILL THE READER CLAIM THE OPEN PLACE?**
 4. **THEN THE FILES START ARRIVING.**
 5. **30 CONNECTED CASES. ONE HIDDEN MYSTERY.**
 6. **YOUR NEXT CASE IS COMING.**
@@ -99,7 +99,7 @@ Description: A 30-case detective adventure for ages 8–12 where the reader join
 Frame 1: **If your child joined a detective squad today…**
 Frame 2 poll: **Detective name immediately?** YES / THEY'D THINK FIRST
 Frame 3 poll: **What hooks them faster?** A SECRET CODE / A MAP
-Frame 4: **The reader gets a place inside the case.**
+Frame 4: **The Academy leaves one place open. Will the reader claim it?**
 
 Use actual replies only as qualitative audience language.
 
@@ -255,14 +255,18 @@ not in the verified Metricool network set on 2026-09-29. Prepare recut logic onl
 - check typo, subtitles and safe areas.
 
 # Owner-review batch
-Review once:
-1. Master A Reel + carousel;
-2. Master B carousel from real premium interior;
-3. Master C Hint Vault carousel;
-4. seven-output schedule map;
-5. CTA mode: PRE-LAUNCH or KDP LIVE.
+Review the **first creative family only** before any scheduling:
 
-Until that review:
+1. Master A — Missing Detective Reel / Short;
+2. Master A — Missing Detective carousel;
+3. Master A — Identity Stories;
+4. CTA mode: PRE-LAUNCH.
+
+Do **not** wait for Masters B/C to close this first-family review. They remain separately asset-gated until the owner-approved premium interior and Hint Vault proof are available.
+
+After the owner approves Master A's voice/visual grammar, routine adaptations inside that approved family may run autonomously. Masters B/C still require real reviewed product proof before use.
+
+Until that first-family review:
 **keep Metricool queue empty.**
 
 # Measurement after approval
@@ -278,10 +282,9 @@ Clicks become meaningful only after a verified destination exists.
 Do not declare a winner from reach alone.
 
 # Next safe task
-After Codex handback:
-1. verify the product checkpoint and reviewed artifact;
-2. select non-spoiler crops for Recruit Credential, Witness Board, Live Case Map and Hint Vault;
-3. produce Masters A/B/C;
-4. run creative QA;
-5. assemble one owner-review packet;
-6. after owner approval, prepare Metricool scheduling.
+Current bounded marketing step:
+1. present Master A as the smallest owner-review-ready creative family;
+2. keep the Metricool queue empty until that family is approved;
+3. after approval, schedule routine Master A organic adaptations;
+4. independently wait for owner-reviewed premium interior / Hint Vault proof before producing Masters B/C;
+5. never synthesize substitute interior proof.
