@@ -1,0 +1,132 @@
+schema: rse-asset-vault-manifest-v1
+product: happy_makers_detective_academy
+owner_ingest_date: 2026-10-07
+status: OWNER_APPROVED_SOURCE_PACK
+storage_root: /RSE/Detective Academy/Official Assets/2026-10-07
+notes:
+  - These are the owner-provided official Happy Makers/Case03 assets from the 2026-10-07 chat.
+  - Product integration/freeze records belong to the Detective Book Factory lane.
+  - Older conflicting character portraits must not be used for new production once the lane registers these exact assets.
+
+assets:
+  - id: hm.alio.full.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Alio_official_full_bw.png
+    sha256: 9fe83bbeb1442577cfa421acc0320cfb0ec5ea21464e5279375ae073b49819e3
+    bytes: 2589302
+    role: official_full_portrait_bw
+    status: OWNER_APPROVED
+  - id: hm.alio.face.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Alio_official_face_bw.png
+    sha256: 67ed1b05b2ae6ff84650234a1bb2bd5865617a86d4528caa3bbb92125ece3af8
+    bytes: 2166163
+    role: official_face_portrait_bw
+    status: OWNER_APPROVED
+
+  - id: hm.bibi.full.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Grandma_Bibi_official_full_bw.png
+    sha256: 271e69a23545eec0e617d752626f32293328155dc0e29d01b57a62189727fe1a
+    bytes: 2615020
+    role: official_full_portrait_bw
+    status: OWNER_APPROVED
+  - id: hm.bibi.face.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Grandma_Bibi_official_face_bw.png
+    sha256: dd6538588ac677f87c89687cf9340222a0b2c19b12341b7e6c36b22cf0187b98
+    bytes: 2437897
+    role: official_face_portrait_bw
+    status: OWNER_APPROVED
+
+  - id: hm.luli.full.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Luli_official_full_bw.png
+    sha256: 1a09e08a95ea5ceef0ae24f3ad0c82252922656e619cf496ea2da040e087de3c
+    bytes: 2459390
+    role: official_full_portrait_bw
+    status: OWNER_APPROVED
+  - id: hm.luli.face.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Luli_official_face_bw.png
+    sha256: 76d53b34adff76f4c2efdb7d8bd7eece8a91e11b16ba82062becb46694fb1c15
+    bytes: 2201592
+    role: official_face_portrait_bw
+    status: OWNER_APPROVED
+
+  - id: hm.mimi.full.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Mimi_official_full_bw.png
+    sha256: e4406f84241e30de668ee89be0df1d32339084e7da0309c826fbe2c933d94241
+    bytes: 2583431
+    role: official_full_portrait_bw
+    status: OWNER_APPROVED
+  - id: hm.mimi.face.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Mimi_official_face_bw.png
+    sha256: 305e9668d1082526ef6749403ef49775401c069fbb533ef9781ed976b4a67cb9
+    bytes: 2514027
+    role: official_face_portrait_bw
+    status: OWNER_APPROVED
+
+  - id: hm.nini.full.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Nini_official_full_bw.png
+    sha256: 0c52097b9df3af255434b8d475d81469179c86ff7db1c27d3ced77fdf3b5a0ef
+    bytes: 2732154
+    role: official_full_portrait_bw
+    status: OWNER_APPROVED
+  - id: hm.nini.face.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Nini_official_face_bw.png
+    sha256: 9c3a01b73e2e6221c2987f08c5abda399205cd47fc38b0aacd2ce676542ef1df
+    bytes: 2417592
+    role: official_face_portrait_bw
+    status: OWNER_APPROVED
+
+  - id: hm.dilo.color.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Dilo_official_color.png
+    sha256: 3d2a5650c047f662f69af5b176785edd34d86fc29adea35570c13add0f382015
+    bytes: 2673851
+    role: official_color_portrait
+    status: OWNER_APPROVED
+  - id: hm.dilo.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Dilo_official_bw.png
+    sha256: a3178ad18e958cfd17e0b2d05581bd4680061a49bb46bcb88b6f00c4b970b9c6
+    bytes: 2608786
+    role: official_bw_portrait
+    status: OWNER_APPROVED
+  - id: hm.dilo.face.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Dilo_official_face_bw.png
+    sha256: ab71eb4c07063a14b4c3d58d7633cbb95a0060639bc21ca453343454c8ebc676
+    bytes: 2617462
+    role: official_face_portrait_bw
+    status: OWNER_APPROVED
+
+  - id: hm.group.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Happy_Makers_group_official_bw.png
+    sha256: 8ffc58dba9acb1cc10a3f29d9707b70c7b63426c176824ab570055bde32a90d5
+    bytes: 2119286
+    role: official_group_bw
+    status: OWNER_APPROVED
+  - id: hm.group.color.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Happy_Makers_group_official_color.png
+    sha256: 4d596df0483a68821f17d2ada00660f03eb1a53aa989de11e958dabd1e9df7fa
+    bytes: 2010969
+    role: official_group_color
+    status: OWNER_APPROVED
+  - id: hm.detective.logo.bw.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Happy Makers/Detective_Academy_logo_official_bw.png
+    sha256: a60cb1ba298a9127856c64cba125090af745171bba6aa980e0082ab5909a3201
+    bytes: 1872416
+    role: official_logo_bw
+    status: OWNER_APPROVED
+
+  - id: hm.case03.photo_a.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Case 03/Case03_photo_A_official.png
+    sha256: 47432653053ecf6d618c888405e6018882ead1338658c80f1372d0ee6b018137
+    bytes: 3223467
+    role: case03_photo_a
+    status: OWNER_APPROVED
+  - id: hm.case03.photo_b.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Case 03/Case03_photo_B_official.png
+    sha256: e47200aa0f4117bc1511e7f924c276fc1dd832dae35720cf350ad341fd517b18
+    bytes: 3063558
+    role: case03_photo_b
+    status: OWNER_APPROVED
+  - id: hm.case03.solution.official.2026-10-07
+    path: /RSE/Detective Academy/Official Assets/2026-10-07/Case 03/Case03_solution_official.png
+    sha256: 4211a21c5e83c9ec7e317b984917f4c05ceb034d237333f67a2cf1ea441adf53
+    bytes: 3391257
+    role: case03_solution_reference
+    status: OWNER_APPROVED
