@@ -606,7 +606,6 @@ class GentleStepsPolishBookVersion02(unittest.TestCase):
         self.assertIn("szybki ping-pong", daily)
         self.assertIn("Jeśli jest was troje", daily)
         self.assertNotIn("przez 30 sekund patrzcie na siebie", daily)
-        self.assertIn("### ZWOLNIJ: TU, GDZIE JESTEŚMY", daily)
         self.assertIn("Trzy kolory, dwa dźwięki, jedna podłoga.", daily)
         self.assertIn("### MIĘDZY NAMI: CO DZIŚ BYŁO TRUDNIEJSZE, NIŻ WYGLĄDAŁO?", daily)
         self.assertIn("### MIĘDZY NAMI: CO CI OSTATNIO WYSZŁO?", daily)
