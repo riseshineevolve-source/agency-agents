@@ -20,20 +20,20 @@ reusable_outputs:
   - "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R5_EVIDENCE_PRODUCER_HANDOFF_2026-10-07.md"
   - "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/CHECKPOINT_2026-10-07_R5_FINAL_PROOF_CONTRACT_READY.md"
 freshness:
-  main_behind_commits: 13
+  main_behind_commits: 18
   localization_owned_overlap: 0
   reconcile_needed: false
   note: "No blind merge: current gate is external consumer render evidence, and main-side changes do not affect localization-owned surfaces."
 ci:
-  last_verified_pre_slice_head: "e3b301b1bf5ecd23c11784da2cd05a019bbca33f"
+  last_verified_pre_slice_head: "0b9f28b41b8a09b9ba3c2296f15ed789c16e8e18"
   last_verified_exact_head_workflows_green: 11
   polish_localization_regression: success
   test_installer: success
-  new_head_ci: last_exact_head_0b9f28b_11_of_11_success
+  new_head_ci: "246848c: Polish Localization Regression green; 9 success / 2 in progress at latest check"
 detective_pl:
   status: PREFREEZE_INFRASTRUCTURE_ONLY
   full_production_started: false
   gate: explicit_Detective_EN_freeze
   en_current_state: NOT_FROZEN
 next_safe_task: harden_evidence_validator_then_consume_exact_r5_template_fit_evidence
-checkpoint_reference: localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/CHECKPOINT_2026-10-07_R5_FINAL_PROOF_CONTRACT_READY.md
+checkpoint_reference: localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R5_EVIDENCE_PRODUCER_HANDOFF_2026-10-07.md
