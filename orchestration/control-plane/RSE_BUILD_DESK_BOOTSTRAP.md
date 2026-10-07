@@ -1,4 +1,4 @@
-# RSE Build Desk — Second Pro Bootstrap
+# RSE Build Desk — Dedicated Pro Chat Bootstrap
 
 Status: READY FOR ONE-TIME OWNER START
 Date: 2026-10-07
@@ -6,7 +6,7 @@ Authority: RSE Universe Factory v1.0
 
 ## Purpose
 
-Use the owner's second ChatGPT Pro subscription as a dedicated high-capacity engineering desk rather than leaving included Codex/Work capacity idle.
+Use the owner's same ChatGPT Pro account using a dedicated RSE BUILD DESK chat as a dedicated high-capacity engineering desk rather than leaving included Codex/Work capacity idle.
 
 This desk is NOT a second Central Control Tower.
 
