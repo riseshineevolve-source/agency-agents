@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-09-28
+updated: 2026-10-07
 status: active
 rules:
   evidence_over_opinion: true
@@ -130,3 +130,28 @@ live_evidence_snapshot_2026_09_28:
     - "Do not label any historical concept a winner from this evidence."
     - "Restart with recognition/ownership/value content before hard conversion."
     - "First Detective prelaunch batch remains owner-review gated before scheduling."
+
+
+live_evidence_snapshot_2026_10_07:
+  evidence_window_local:
+    timezone: Europe/Warsaw
+    social_recent_window: "2026-09-07 through 2026-10-07"
+    scheduled_window: "2026-10-07 through 2026-11-07"
+  metricool:
+    brand_id: 7018771
+    brand_label: "Rise.Shine.Evolve."
+    verified_networks:
+      facebook: connected
+      instagram: connected
+      youtube: connected
+      tiktok: not_present_in_brand_networks
+    scheduled_posts_next_31d: 0
+    recent_30d_rows:
+      instagram_posts: 0
+      facebook_posts: 0
+      youtube_videos_published_in_range: 0
+    interpretation: "No current organic publishing baseline exists yet. Do not label a creative winner before the first approved batch is published and measured."
+  decision:
+    - "Detective first creative family remains owner-review gated."
+    - "Keep Metricool queue empty until Master A is approved."
+    - "Masters B/C remain blocked on real reviewed interior proof; do not fabricate substitute pages."
