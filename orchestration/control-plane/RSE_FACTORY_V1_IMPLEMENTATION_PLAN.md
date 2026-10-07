@@ -76,14 +76,14 @@ Status: PENDING OWNER ACCOUNT CONNECTION
 
 Exit: event routing works without owner relay.
 
-### W5 — Second Pro Build Desk
+### W5 — Dedicated Pro Chat Build Desk
 Status: PENDING OWNER LOGIN/CHAT SETUP
 - account assigned non-overlapping lane(s)
 - Detective heavy Codex first when useful
 - Gentle Steps / World App Factory when Detective is at gate
 - GitHub/mailboxes are the only handoff
 
-Exit: two accounts work in parallel without branch/worktree collision.
+Exit: dedicated chats work in parallel without branch/worktree collision.
 
 ### W6 — Agents API exception pilot
 Status: PENDING W4
