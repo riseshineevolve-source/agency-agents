@@ -1,1 +1,596 @@
-{}
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_02",
+  "content_pack_id": "world02_mission_018_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world02_mission_018",
+  "candidate_scope": "published_mission_018_pages_72_78",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "source_bytes": 66576954,
+    "source_pages": 104,
+    "page_range": [
+      72,
+      78
+    ],
+    "evidence_manifest": "orchestration/content-sources/world02-level18-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world02_mission_018_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world02_mission_018_node_002",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 72,
+        "evidence_id": "p72_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_002",
+      "sequence": 2,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_018_node_003",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 73,
+        "evidence_id": "p73_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_003",
+      "sequence": 3,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_018_node_004",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 73,
+        "evidence_id": "p73_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_004",
+      "sequence": 4,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_018_node_005",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 73,
+        "evidence_id": "p73_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_005",
+      "sequence": 5,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world02_mission_018_node_006",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 73,
+        "evidence_id": "p73_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_006",
+      "sequence": 6,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_018_node_007",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 74,
+        "evidence_id": "p74_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_007",
+      "sequence": 7,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_018_node_008",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 74,
+        "evidence_id": "p74_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_008",
+      "sequence": 8,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world02_mission_018_node_009",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 74,
+        "evidence_id": "p74_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_009",
+      "sequence": 9,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_018_node_010",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 74,
+        "evidence_id": "p74_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_010",
+      "sequence": 10,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_018_node_011",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 74,
+        "evidence_id": "p74_b05"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_011",
+      "sequence": 11,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_018_node_012",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 75,
+        "evidence_id": "p75_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_012",
+      "sequence": 12,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_018_node_013",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 75,
+        "evidence_id": "p75_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_013",
+      "sequence": 13,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_018_node_014",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 75,
+        "evidence_id": "p75_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_014",
+      "sequence": 14,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_018_node_015",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 76,
+        "evidence_id": "p76_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_015",
+      "sequence": 15,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_018_node_016",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 76,
+        "evidence_id": "p76_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_016",
+      "sequence": 16,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_018_node_017",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 76,
+        "evidence_id": "p76_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_017",
+      "sequence": 17,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_018_node_018",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 76,
+        "evidence_id": "p76_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_018",
+      "sequence": 18,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world02_mission_018_node_019",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 77,
+        "evidence_id": "p77_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_019",
+      "sequence": 19,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world02_mission_018_node_020",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 77,
+        "evidence_id": "p77_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_020",
+      "sequence": 20,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world02_mission_018_node_021",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 77,
+        "evidence_id": "p77_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_021",
+      "sequence": 21,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world02_mission_018_node_022",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 77,
+        "evidence_id": "p77_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_022",
+      "sequence": 22,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world02_mission_018_node_023",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 78,
+        "evidence_id": "p78_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_023",
+      "sequence": 23,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world02_mission_018_node_024",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 78,
+        "evidence_id": "p78_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_018_node_024",
+      "sequence": 24,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 78,
+        "evidence_id": "p78_b03"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_001",
+      "fields": {
+        "level_label": "LEVEL 18:",
+        "title": "The Pixel Zombie",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "BALANCE",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Why screens are 'Fast Food' for the brain.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_002",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Saturday, 11:00 AM. The sun was shining. The birds were singing. In the living room, the curtains were closed tight. Dilo sat in the dark, glowing in the blue light from his screen. His mouth was slightly open. Drool potential: High. Eyes not blinking."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_003",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "(Taking notes on her clipboard and planning the day) Subject Dilo is gone. He is now a vegetable. Pulse: very low. Brain activity: purely digital. We should probably water him so he doesn't dry out. I am putting 30 minutes of emergency outdoor healing time for him on my schedule."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_004",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini stood in front of the TV, waving a large, leafy potted plant in Dilo's face while singing a gentle, pretty song about the sun."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_005",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "I am healing your energy, Dilo! The plant speaks to you! Breathe the fresh air! Come back to the light!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_006",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "It's no use, Nini. His thinking brain has turned to mush. He is turning into a caveman. Soon he will talk only in grunts and complaints about game lag."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_007",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio ran in. He was covered in dirt. He had spent the morning building a tiny, super-cool battle arena out of mud and sticks in the backyard."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_008",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Dilo! We found a bug outside that fights other bugs! I built them an arena with big seats and a VIP section! Come look!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_009",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Mmph. Busy. Level 50 boss. Go away. Leave the zombie alone."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_010",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi walked in. She drank a huge glass of water, showing the kids out loud that drinking water helps the brain handle stress. Then, she mercilessly ripped the curtains open. Pure, bright sunlight hit Dilo like a laser weapon."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_011",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "HISSS! IT BURNS! CLOSE THE SKY! WHO TURNED ON THE SUN?!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_012",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Dilo, log off. You have 'Screen Face'. You look grey. Your brain is drunk on cheap screen points and you are acting like a goblin. You haven't even touched your favorite soccer ball in two days! It's getting sad and flat in the corner!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_013",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "I am talking to friends! I am building an empire! I am a King! Real life is boring! The grass doesn't glow! The graphics outside are terrible, the people are annoying, and there are absolutely zero dragons!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_014",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "That's because your brain is used to fast flashes. The real world doesn't flash bright neon colors at you every two seconds to keep you looking. Screens are 'Candy for the Brain'. Tastes good, but leaves you weak, addicted, and grumpy when it's gone. You need 'Vegetables for the Brain' - sunlight, running, real faces. You need a break. 30 minutes of 'Green Energy' outside. If you survive, you can come back."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_015",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo crawled outside like a vampire forced into the daylight, grumbling about how unfair it was and how terrible real-world jumping was. 5 minutes later, he was on his knees in the dirt, intensely poking the fighting bug with Alio inside the mud arena."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_016",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Okay, the way this beetle moves is actually cool. Look how fast his wings flap when he attacks. It's perfect real-life graphics. And your building design isn't terrible, Alio."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_017",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo was cured of his digital curse. But the true test of their weekend would come the next morning, when the weather decided to completely ruin their plans..."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_018",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 052",
+        "heading": "THE BRAIN SECRET (Dopamine Burnout)",
+        "science_label": "The Science:",
+        "science": "Screens give your brain 'Cheap Dopamine' (fast treats without effort). Real life gives you 'Slow Serotonin' (pride after hard work). If you binge screens, real life feels gray and boring ('The Grey World Effect').",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo complained that \"the grass doesn't glow.\" His brain's receptors were fried from the flashing lights."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_019",
+      "fields": {
+        "file_label": "// FILE: 053",
+        "heading": "THE TOOL ('The Tech Token')",
+        "science_label": "The Science:",
+        "science": "Willpower is weak against screens. You need to make time tangible.",
+        "in_story_label": "In The Story:",
+        "in_story": "Use physical tokens. 1 Token = 30 minutes. When you hand the token to your Captain, the arcade is officially closed. No negotiating!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_020",
+      "fields": {
+        "file_label": "// FILE: 054",
+        "heading": "THE GLITCH ('I'm bored!')",
+        "science_label": "The Science:",
+        "science": "Boredom is simply the withdrawal symptom of dopamine (Neurochemical Homeostasis). It is actually GOOD. It is your brain rebooting its system.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo was grumpy when he first went outside, but pushing through the discomfort unlocked his creativity!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_021",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Luli said Dilo was acting like a caveman who only spoke in grunts.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "How does your body feel after you stare at a screen for a very long time? Do you ever get 'Screen Face'?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_022",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo found a cool beetle outside to reset his brain.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Initiate the 'Green Hour'. Go for a walk together without any phones. Find 5 things: Something red, something rough, something fast. Re-calibrate your eyes to the real world!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_023",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why do video games make you grumpy when you turn them off? Video games are designed by neuroscientists to trigger constant dopamine hits. Your brain loves this, but to protect itself from overflowing, it reduces the number of dopamine receptors (Downregulation). When the game turns off, your brain suddenly has very low dopamine levels, making you feel instantly irritable, angry, and depressed. Getting outside in the sun helps reset those levels!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_018_node_024",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“I NEED GREEN ENERGY”",
+        "meaning_label": "MEANING:",
+        "meaning": "I have 'Screen Face.' I am feeling irritable, numb, and my brain is overloaded with cheap digital dopamine. I am a Pixel Zombie.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "Immediate digital detox. I am going outside to recharge my solar batteries. No screens allowed.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'You are addicted to that screen! Turn it off right now!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'You have Screen Face. It's time for Green Energy to fix your glitching sensors.'"
+      }
+    }
+  ]
+}
