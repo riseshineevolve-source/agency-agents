@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PACK = ROOT / "orchestration/content-packs/world02/level11.en.candidate.json"
 CANONICAL_SHA256 = "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76"
 NODE_TYPES = {"opener", "system_log", "dialogue", "console", "quest", "science", "secret_code"}
-SPEAKERS = {"system", "dilo", "alio", "nini", "luli", "mimi"}
+SPEAKERS = {"system", "dilo", "alio", "nini", "luli", "mimi", "dilo_luli"}
 PACK_KEYS = {"schema_version","product_id","content_pack_id","content_version","canonical_locale","supported_locales","planned_locales","minimum_runtime_contract","mission_id","candidate_scope","source","nodes","localized_copy"}
 NODE_KEYS = {"node_id","sequence","node_type","subtype","speaker_id","next_id","provenance"}
 PROVENANCE_KEYS = {"source_id","source_sha256","page","evidence_id"}
@@ -43,6 +43,24 @@ MISSION_SPECS = {
         "pages": [38,46],
         "blocks": 29,
         "types": Counter({"dialogue":16,"system_log":5,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}),
+    },
+    "world02_mission_015": {
+        "level": 15,
+        "pages": [47,54],
+        "blocks": 26,
+        "types": Counter({"dialogue":13,"system_log":5,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}),
+    },
+    "world02_mission_016": {
+        "level": 16,
+        "pages": [55,63],
+        "blocks": 32,
+        "types": Counter({"dialogue":18,"system_log":6,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}),
+    },
+    "world02_mission_017": {
+        "level": 17,
+        "pages": [64,71],
+        "blocks": 30,
+        "types": Counter({"dialogue":14,"system_log":8,"console":3,"quest":2,"opener":1,"science":1,"secret_code":1}),
     },
 }
 

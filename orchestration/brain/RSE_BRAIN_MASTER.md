@@ -5,6 +5,38 @@ Rebuilt: 2026-09-18
 Last reconciled: 2026-09-26
 Primary durable repo: `riseshineevolve-source/agency-agents`
 
+## 2026-10-07 execution-ownership override
+
+This section supersedes older execution-ownership wording in this file where conflicts exist.
+
+Canonical current control plane:
+- `orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md`
+- `orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md`
+- `orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml`
+- lane mailboxes under `orchestration/control-plane/mailboxes/`
+
+Current operating model:
+- **Central RSE Control Tower** owns central Brain, strategy, commercial sequencing, cross-project dependencies, shared architecture and owner-gate coordination.
+- Dedicated lane chats are the ONE writers for their project/source surfaces.
+- Central is read/sync-only while those lane writers are active.
+- Chats communicate through durable project checkpoints + lane-owned mailboxes, not by asking the owner to relay prompts.
+
+Registered dedicated lanes:
+- Detective Academy / Book Factory
+- Optical Animals
+- Gentle Steps / Before Christmas Slips By
+- Polish Localization Engine
+- World 01 + World 02 / Interactive App Factory
+- Happy Me 24/7
+- Senior / Hello Today + Mind Bloom bounded lane
+- Unstoppable / Book-First
+- Opinie
+- Marketing Autopilot
+
+RSE Quick Desk remains read-only/front-door unless explicitly promoted to a writer role.
+
+One-writer-per-surface is non-negotiable. No blind merge/rebase/reset, duplicate Codex writer, publication, deployment, paid activation or source freeze without the relevant gate.
+
 ## 1. Operating model
 
 Rise.Shine.Evolve. is managed as a portfolio, not as a pile of chats.
@@ -1278,3 +1310,28 @@ Checkpoint:
 `orchestration/brain/checkpoints/2026-09-30-revenue-asap-project-stream-reconciliation.md`
 
 Central Orchestrator remains the sole owner of cross-project sequencing and canonical Brain changes. Quick Desk stays conversation-first. Dedicated execution chats execute and checkpoint but do not mutate central priorities.
+
+
+## RSE Book Agent v3 — 2026-10-04
+
+Canonical architecture:
+- `orchestration/architecture/RSE_BOOK_AGENT_V3.md`
+- `orchestration/architecture/RSE_BOOK_MAP_CONTRACT_V1.md`
+
+Decision: RSE book production is controlled by one stateful Book Agent above the
+existing deterministic renderer. Do not start another renderer.
+
+Core law:
+- one Book Map per edition;
+- content/template/asset/page locks are independent;
+- per-page content-addressed input hashes determine incremental rebuild scope;
+- unchanged page artifacts are reused and are not owner-review work;
+- Codex implements deterministic code/validation only and does not art-direct;
+- generative models create isolated asset slots, not final maps/pages containing
+  canonical text or puzzle geometry;
+- final spatial maps use locked runtime geometry plus code-rendered SVG/UI and
+  SHA-locked prop sprites;
+- owner review is exception-only plus initial look/template and final release gates.
+
+Operational agent:
+`specialized/rse-book-production-agent.md`.

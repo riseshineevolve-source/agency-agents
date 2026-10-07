@@ -1,0 +1,452 @@
+{
+  "evidence_version": 1,
+  "mission_id": "world02_mission_017",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "filename": "paperback 10 STORIES WORLD 02 FINAL standard(1).pdf",
+    "isbn": "9798249971823",
+    "sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "bytes": 66576954,
+    "pages": 104,
+    "page_range": [
+      64,
+      71
+    ]
+  },
+  "method": "Page-by-page transcription from the canonical published paperback using indexed PDF text. Narrative order was reconstructed where PDF multi-column extraction order diverged from story chronology, and continuity was cross-checked across adjacent pages. No visual-layout inference beyond the published text sequence is claimed.",
+  "page_inventory": [
+    {
+      "page": 64,
+      "content_blocks": 1
+    },
+    {
+      "page": 65,
+      "content_blocks": 4
+    },
+    {
+      "page": 66,
+      "content_blocks": 4
+    },
+    {
+      "page": 67,
+      "content_blocks": 4
+    },
+    {
+      "page": 68,
+      "content_blocks": 5
+    },
+    {
+      "page": 69,
+      "content_blocks": 5
+    },
+    {
+      "page": 70,
+      "content_blocks": 4
+    },
+    {
+      "page": 71,
+      "content_blocks": 3
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p64_b01",
+      "node_id": "world02_mission_017_node_001",
+      "page": 64,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 17:",
+        "title": "The Mental Spam",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "CRITICAL THINKING",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Not every thought in your head is true. Some are just junk mail.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p65_b01",
+      "node_id": "world02_mission_017_node_002",
+      "page": 65,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio was still sitting under the kitchen table, wearing his safety helmet and hugging the cat so tightly it was meowing loudly. He was rocking back and forth, whispering fast to himself. The space under the table wasn't just a hiding spot; it was an amazing build of fear, with super strong pillows and a wall of dining chairs."
+      }
+    },
+    {
+      "evidence_id": "p65_b02",
+      "node_id": "world02_mission_017_node_003",
+      "page": 65,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "I can't do it. Everyone will laugh. I will trip. My pants will fall down on stage. A meteor will hit the school. The stage will break. It's a disaster. We are doomed."
+      }
+    },
+    {
+      "evidence_id": "p65_b03",
+      "node_id": "world02_mission_017_node_004",
+      "page": 65,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli peeked under the tablecloth, letting a little light into Alio's fort of doom."
+      }
+    },
+    {
+      "evidence_id": "p65_b04",
+      "node_id": "world02_mission_017_node_005",
+      "page": 65,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "What are you doing, nugget? The school Talent Show is in an hour."
+      }
+    },
+    {
+      "evidence_id": "p66_b01",
+      "node_id": "world02_mission_017_node_006",
+      "page": 66,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "I'm cancelling. My brain is telling me bad things. It says I am a potato and I will fail. It's shouting at me! The meteor is coming!"
+      }
+    },
+    {
+      "evidence_id": "p66_b02",
+      "node_id": "world02_mission_017_node_007",
+      "page": 66,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini crawled under the table to join them. She brought a heavy, soft blanket and wrapped it tightly around Alio's shoulders, giving him a safe, heavy hug. She hummed a slow, nice song and placed a bright green stuffed avocado on his lap."
+      }
+    },
+    {
+      "evidence_id": "p66_b03",
+      "node_id": "world02_mission_017_node_008",
+      "page": 66,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "Mr. Avocado says you are a superstar, Alio. He is super smart and he never lies. Your heart is beating too fast, let's sing a slow song to slow it down."
+      }
+    },
+    {
+      "evidence_id": "p66_b04",
+      "node_id": "world02_mission_017_node_009",
+      "page": 66,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi crouched by the table. She reached in and held Alio's hands, helping him physically shake out the nervous feelings, literally shaking his arms to get the nervous wiggles out. Dilo walked by, eating an apple, and leaned down to look under the table at the weird group."
+      }
+    },
+    {
+      "evidence_id": "p67_b01",
+      "node_id": "world02_mission_017_node_010",
+      "page": 67,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Hey. I'd pass you the ball in the final minute of a big game, Alio. You never freeze up. You're just glitching right now. But seriously... do you open every single email I send you?"
+      }
+    },
+    {
+      "evidence_id": "p67_b02",
+      "node_id": "world02_mission_017_node_011",
+      "page": 67,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "No. Last time you sent me a link to free game coins and it was a virus that made my tablet sing loud, terrible opera music for three days straight."
+      }
+    },
+    {
+      "evidence_id": "p67_b03",
+      "node_id": "world02_mission_017_node_012",
+      "page": 67,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "Exactly. Your brain is like an email inbox. I drew a picture for you. (She holds up a drawing showing a 'Trash Folder' and a 'Good Inbox'). Sometimes it gets 'Smart Thoughts'. But sometimes it gets 'Spam'."
+      }
+    },
+    {
+      "evidence_id": "p67_b04",
+      "node_id": "world02_mission_017_node_013",
+      "page": 67,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Spam? Like the weird canned meat?"
+      }
+    },
+    {
+      "evidence_id": "p68_b01",
+      "node_id": "world02_mission_017_node_014",
+      "page": 68,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "Junk thoughts. 'You are stupid', 'You will fail', 'Everyone hates you'. These are automatic glitches. Your brain is just trying to protect you from danger by making you scared so you stay safely hiding in this incredibly well-built pillow fort. But just because a thought arrives in your head, doesn't mean you have to open the message. You can just swipe left and send it to the Trash Folder."
+      }
+    },
+    {
+      "evidence_id": "p68_b02",
+      "node_id": "world02_mission_017_node_015",
+      "page": 68,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio tapped his helmet, thinking hard. 'So... the voice saying I will trip is just... a virus?'"
+      }
+    },
+    {
+      "evidence_id": "p68_b03",
+      "node_id": "world02_mission_017_node_016",
+      "page": 68,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "It's a Spam Bot trying to keep you safe by making you panic. Give the bot a name. Call him 'Bob'. Look, I even brought proof."
+      }
+    },
+    {
+      "evidence_id": "p68_b04",
+      "node_id": "world02_mission_017_node_017",
+      "page": 68,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Luli handed Alio a real folder from her backpack."
+      }
+    },
+    {
+      "evidence_id": "p68_b05",
+      "node_id": "world02_mission_017_node_018",
+      "page": 68,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "I printed out your walking scores. You have a 98% score at not falling down while walking. Bob the Spam Bot is really bad at math."
+      }
+    },
+    {
+      "evidence_id": "p69_b01",
+      "node_id": "world02_mission_017_node_019",
+      "page": 69,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Bob says I will explode if I do a magic trick."
+      }
+    },
+    {
+      "evidence_id": "p69_b02",
+      "node_id": "world02_mission_017_node_020",
+      "page": 69,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "Tell Bob: 'Thanks for the warning, Bob, but delete message.' You practiced your magic trick 50 times. You know the moves. You are ready."
+      }
+    },
+    {
+      "evidence_id": "p69_b03",
+      "node_id": "world02_mission_017_node_021",
+      "page": 69,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio crawled out from under the table. He stood up, brushed cat hair off his shirt, and adjusted his shiny magician's cape."
+      }
+    },
+    {
+      "evidence_id": "p69_b04",
+      "node_id": "world02_mission_017_node_022",
+      "page": 69,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Okay. I am deleting Bob. But I'm keeping the helmet. It's part of my magician look now. Safety first."
+      }
+    },
+    {
+      "evidence_id": "p69_b05",
+      "node_id": "world02_mission_017_node_023",
+      "page": 69,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "The Spam Bot was successfully deleted. The talent show was a hit! They survived the school week! But as the weekend began, a completely different kind of monster would invade the house... a silent, glowing, screen zombie."
+      }
+    },
+    {
+      "evidence_id": "p70_b01",
+      "node_id": "world02_mission_017_node_024",
+      "page": 70,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 049",
+        "heading": "THE BRAIN SECRET (Automatic Negative Thoughts - ANTs)",
+        "science_label": "The Science:",
+        "science": "We have 60,000 thoughts a day. 80% are negative or protective! This is called the 'Negativity Bias'. Your brain wants to keep you safe from danger, not make you happy.",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio's brain told him a meteor would hit the school. It was just an automatic glitch trying to keep him safe under the table."
+      }
+    },
+    {
+      "evidence_id": "p70_b02",
+      "node_id": "world02_mission_017_node_025",
+      "page": 70,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 050",
+        "heading": "THE TOOL ('Name the Spam Bot')",
+        "science_label": "The Science:",
+        "science": "'Distancing' (Cognitive Defusion). Give your negative voice a silly name (like 'Spammy' or 'Bob').",
+        "in_story_label": "In The Story:",
+        "in_story": "Luli proved to Alio that \"Bob\" was bad at math. Naming the voice 'Bob' separated ALIO from the fake THOUGHT."
+      }
+    },
+    {
+      "evidence_id": "p70_b03",
+      "node_id": "world02_mission_017_node_026",
+      "page": 70,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 051",
+        "heading": "THE GLITCH ('I feel scared, so it must be dangerous')",
+        "science_label": "The Science:",
+        "science": "'Emotional Reasoning'. Your brain thinks: 'If my heart is beating fast, a meteor must be coming!'",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio felt terrified, so he assumed the magic trick would be a disaster.",
+        "correction_label": "Correction:",
+        "correction": "Feelings are not Facts. You can feel absolutely terrified and still be 100% safe."
+      }
+    },
+    {
+      "evidence_id": "p70_b04",
+      "node_id": "world02_mission_017_node_027",
+      "page": 70,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio's Spam Bot told him his pants would fall down on stage.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "What does your Spam Bot usually say when you are trying something new? What funny name could you give it?"
+      }
+    },
+    {
+      "evidence_id": "p71_b01",
+      "node_id": "world02_mission_017_node_028",
+      "page": 71,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Luli drew a 'Trash Folder' for the junk thoughts.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Draw your own 'Spam Bot'. Make it look super silly. Give it a funny name and stick it on the fridge. When someone in the family says something negative about themselves, point to the drawing and ask: 'Is that YOU or the BOT talking?'"
+      }
+    },
+    {
+      "evidence_id": "p71_b02",
+      "node_id": "world02_mission_017_node_029",
+      "page": 71,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why do we have so many negative thoughts? Thousands of years ago, cavemen who thought \"That rustling bush is probably a deadly tiger!\" survived and ran away. Cavemen who thought \"It's probably just a cute bunny!\" got eaten. We inherited the brains of the nervous survivors! Your brain is an amazing danger-detector, but in the modern world, it often mistakes a school play for a hungry tiger."
+      }
+    },
+    {
+      "evidence_id": "p71_b03",
+      "node_id": "world02_mission_017_node_030",
+      "page": 71,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“DELETE SPAM MESSAGE”",
+        "meaning_label": "MEANING:",
+        "meaning": "My brain is generating Automatic Negative Thoughts (ANTs). I am receiving fake warning signals.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "I am recognizing it as Spam. The Family Team helps the player fact-check the thought using logic, swipe left, and choose not to believe the mental junk mail.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Don't be silly, you have nothing to be afraid of. You'll do fine!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'Is that you talking, or is that your Spam Bot? Let's send that thought to the Trash Folder.'"
+      }
+    }
+  ]
+}

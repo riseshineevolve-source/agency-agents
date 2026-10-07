@@ -1,0 +1,774 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_02",
+  "content_pack_id": "world02_mission_016_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "1.0.0",
+  "mission_id": "world02_mission_016",
+  "candidate_scope": "published_mission_016_pages_55_63",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "source_bytes": 66576954,
+    "source_pages": 104,
+    "page_range": [
+      55,
+      63
+    ],
+    "evidence_manifest": "orchestration/content-sources/world02-level16-page-evidence.json"
+  },
+  "nodes": [
+    {
+      "node_id": "world02_mission_016_node_001",
+      "sequence": 1,
+      "node_type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world02_mission_016_node_002",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 55,
+        "evidence_id": "p55_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_002",
+      "sequence": 2,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_016_node_003",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 56,
+        "evidence_id": "p56_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_003",
+      "sequence": 3,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_016_node_004",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 56,
+        "evidence_id": "p56_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_004",
+      "sequence": 4,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_016_node_005",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 56,
+        "evidence_id": "p56_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_005",
+      "sequence": 5,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_016_node_006",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 56,
+        "evidence_id": "p56_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_006",
+      "sequence": 6,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_016_node_007",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 57,
+        "evidence_id": "p57_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_007",
+      "sequence": 7,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_016_node_008",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 57,
+        "evidence_id": "p57_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_008",
+      "sequence": 8,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world02_mission_016_node_009",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 57,
+        "evidence_id": "p57_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_009",
+      "sequence": 9,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_016_node_010",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 57,
+        "evidence_id": "p57_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_010",
+      "sequence": 10,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo_luli",
+      "next_id": "world02_mission_016_node_011",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 57,
+        "evidence_id": "p57_b05"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_011",
+      "sequence": 11,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "next_id": "world02_mission_016_node_012",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 57,
+        "evidence_id": "p57_b06"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_012",
+      "sequence": 12,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_016_node_013",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 58,
+        "evidence_id": "p58_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_013",
+      "sequence": 13,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_016_node_014",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 58,
+        "evidence_id": "p58_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_014",
+      "sequence": 14,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_016_node_015",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 58,
+        "evidence_id": "p58_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_015",
+      "sequence": 15,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_016_node_016",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 58,
+        "evidence_id": "p58_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_016",
+      "sequence": 16,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_016_node_017",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 59,
+        "evidence_id": "p59_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_017",
+      "sequence": 17,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_016_node_018",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 59,
+        "evidence_id": "p59_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_018",
+      "sequence": 18,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "next_id": "world02_mission_016_node_019",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 59,
+        "evidence_id": "p59_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_019",
+      "sequence": 19,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_016_node_020",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 59,
+        "evidence_id": "p59_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_020",
+      "sequence": 20,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "next_id": "world02_mission_016_node_021",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 60,
+        "evidence_id": "p60_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_021",
+      "sequence": 21,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_016_node_022",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 60,
+        "evidence_id": "p60_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_022",
+      "sequence": 22,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_016_node_023",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 60,
+        "evidence_id": "p60_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_023",
+      "sequence": 23,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "next_id": "world02_mission_016_node_024",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 60,
+        "evidence_id": "p60_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_024",
+      "sequence": 24,
+      "node_type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "next_id": "world02_mission_016_node_025",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 61,
+        "evidence_id": "p61_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_025",
+      "sequence": 25,
+      "node_type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "next_id": "world02_mission_016_node_026",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 61,
+        "evidence_id": "p61_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_026",
+      "sequence": 26,
+      "node_type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "next_id": "world02_mission_016_node_027",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 62,
+        "evidence_id": "p62_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_027",
+      "sequence": 27,
+      "node_type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "next_id": "world02_mission_016_node_028",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 62,
+        "evidence_id": "p62_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_028",
+      "sequence": 28,
+      "node_type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "next_id": "world02_mission_016_node_029",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 62,
+        "evidence_id": "p62_b03"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_029",
+      "sequence": 29,
+      "node_type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "next_id": "world02_mission_016_node_030",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 62,
+        "evidence_id": "p62_b04"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_030",
+      "sequence": 30,
+      "node_type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "next_id": "world02_mission_016_node_031",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 63,
+        "evidence_id": "p63_b01"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_031",
+      "sequence": 31,
+      "node_type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": "world02_mission_016_node_032",
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 63,
+        "evidence_id": "p63_b02"
+      }
+    },
+    {
+      "node_id": "world02_mission_016_node_032",
+      "sequence": 32,
+      "node_type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "next_id": null,
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 63,
+        "evidence_id": "p63_b03"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_001",
+      "fields": {
+        "level_label": "LEVEL 16:",
+        "title": "The 6 and 9 Mystery",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "PERSPECTIVE",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "Why two people can be right and still fight.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_002",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "CRASH! Luli and Dilo were screaming in the kitchen. It sounded like a rap battle, but with way more anger, pointed fingers, and loud blaming."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_003",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "You ruined the wifi! You unplugged the router, you sneaky ruiner! I was fighting a boss! We had the dragon at 2% health! You gave me a red card for no reason! You did it on purpose because I ate your yogurt yesterday!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_004",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "(Standing next to a whiteboard she had dragged into the kitchen, drawing a map of the wall plugs) I didn't touch your precious, glowing internet box! I unplugged the water kettle to make space for the toaster! You are imagining things! You see secret plots everywhere! Look at the drawing!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_005",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "I saw the black cord in your hand! It was the router! You are blind!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_006",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "It was the GREY cord! You are dreaming!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_007",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Nini strolled into the kitchen, humming happily and sipping a juice box. She did a little moonwalk across the tiles, dancing smoothly between her furious brother and sister to calm the angry mood."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_008",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "Oh, hi guys! Actually, I unplugged both of them."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_009",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo and Luli froze entirely. The kitchen was dead silent, save for the slurp of Nini's juice box."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_010",
+      "fields": {
+        "speaker_label": "DILO & LULI",
+        "text": "WHAT?!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_011",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "(Smiling brightly and spinning) I needed to plug in my glitter-lava lamp. It was a visual emergency. The mood in the kitchen was completely dark and boring. It needed more pink for my new dance moves."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_012",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "(Blinking, her highly logical brain stopping as she drops her marker) You... you took down the entire house's power and internet... for a mood and dance moves?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_013",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi walked in, holding a piece of paper with a large number drawn on it. She stopped, put her hands on her hips, and named her feelings out loud so the kids could hear how she handles big emotions."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_014",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "I am feeling a massive spike of stress right now. My heart is beating fast. I am taking a deep breath so I don't yell. (She breathes deeply). Freeze. Stop yelling. Look at this number on the floor. Dilo, what do you see?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_015",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "It's a six. Obviously. Are we doing math now? Is this a punishment for the yogurt?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_016",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Luli, walk to Dilo's side. Look down. Now what do you see?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_017",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "It's... a six. But from over there, it was a nine."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_018",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "Exactly. Dilo saw a black cord (the Router). Luli saw a grey cord (the Kettle). The cords were twisted together behind the microwave. From your angle, you were right. From her angle, she was right. But you were both wrong about what the other person meant to do, and you were both wrong about who actually did it. You both assumed the other was being mean on purpose."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_019",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio popped out from under the kitchen table, where he had been quietly drawing a highly detailed map of the kitchen's wires on a napkin."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_020",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "Looking at my map, the way those plugs are squished behind the microwave is a fire hazard anyway. Nini actually saved us from a potential spark! She is a hero!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_021",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "(Looking at the tangled spaghetti mess of cords) Oh. It was... the blender cord? Which is black AND grey? So we screamed for 10 minutes, and we were both completely wrong?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_022",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "It appears we had the wrong clues. We literally fought to protect machines we didn't even touch. I need to fix my whiteboard map."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_023",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "Technically, the blender is innocent. I guess... Sorry for calling you a sneaky ruiner. I overreacted like a rookie."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_024",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "Sorry for calling you crazy. Even normally speaking, you usually are, though."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_025",
+      "fields": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Mimi smiled. 'Swap Goggles successful. Crisis avoided.' The Dream Team was starting to communicate. But while Dilo and Luli were arguing out loud, Alio was fighting a silent, terrifying battle hiding right under their feet..."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_026",
+      "fields": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 046",
+        "heading": "THE BRAIN SECRET (Theory of Mind)",
+        "science_label": "The Science:",
+        "science": "'Theory of Mind' is the ability to understand that other people have different information, thoughts, and feelings than you. Kids (and angry adults) often forget this. They think: 'If I see a 6, everyone sees a 6. If they say 9, they are lying!'",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo saw a black cord from his angle. Luli saw a grey one. They didn't have the same data, but they both thought the other was lying."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_027",
+      "fields": {
+        "file_label": "// FILE: 047",
+        "heading": "THE TOOL ('The Swap-Goggles')",
+        "science_label": "The Science:",
+        "science": "You cannot solve a fight from your own shoes. You must physically or mentally move your position to see their data.",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi physically moved Luli to Dilo's side of the paper.\n\nStep 1: Stop talking.\n\nStep 2: Ask 'What does it look like from YOUR side?'\n\nStep 3: Listen like a detective, not a lawyer."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_028",
+      "fields": {
+        "file_label": "// FILE: 048",
+        "heading": "THE GLITCH ('You did it on purpose!')",
+        "science_label": "The Science:",
+        "science": "'Hostile Attribution Bias'. We have a glitch where we assume accidents are actually attacks.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo assumed Luli unplugged his game on purpose as revenge for the yogurt.",
+        "correction_label": "Correction:",
+        "correction": "Assume positive intent (or at least, neutral intent). Most people aren't plotting against you; they are just trying to plug in a toaster."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_029",
+      "fields": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo and Luli were 100% sure they were right, but they were both wrong because Nini did it!",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Have you ever had a fight with a friend or sibling where you both thought you were right? What happened when you found out the whole truth?"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_030",
+      "fields": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Mimi used a drawing of a 6 (and 9) to force them to change their perspective.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "The next time you disagree with your family, use the phrase: 'I see a 6. What do you see?' This is the secret code to stop fighting and start comparing data like scientists!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_031",
+      "fields": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Did you know that \"Theory of Mind\" is a skill that develops slowly over years? A 3-year-old physically cannot understand that you don't know what they are thinking. By the time you are 8, your brain is getting good at it, but when the Amygdala (Lizard Brain) takes over during a fight, that advanced skill shuts down completely! You temporarily lose the ability to see things from another perspective until you calm down."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_mission_016_node_032",
+      "fields": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“SWAP GOGGLES”",
+        "meaning_label": "MEANING:",
+        "meaning": "We are looking at the exact same situation but seeing two completely different things. We are about to start a massive fight.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "We are stuck. Stop shouting. Switch physical places or describe exactly what you see. We are missing data.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Who started this? Stop yelling immediately!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'Freeze! Swap Goggles. What does this look like from your side?'"
+      }
+    }
+  ]
+}

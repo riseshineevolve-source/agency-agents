@@ -1,0 +1,206 @@
+version: 1
+updated: 2026-10-05
+source: user_supplied_nisze_500_2026_packs_1_to_5
+authority: market_intelligence_only
+canonical_analysis: orchestration/market-research/RSE_2026_NICHE_PACKS_PRODUCT_MAPPING.md
+
+global_rules:
+  product_truth_first: true
+  competitor_title_keywords_default: do_not_use
+  medical_therapy_keyword_expansion_default: forbidden_without_product_and_compliance_review
+  live_revalidation_before_metadata_lock: true
+  new_product_creation_owner_gated: true
+  revenue_priority_must_not_be_displaced: true
+
+products:
+  unstoppable_me:
+    fit: strong
+    primary_pack: 2
+    secondary_pack: 1
+    keyword_candidates:
+      - phrase: executive functioning workbook for kids
+        status: conditional
+        iq: 5016
+        searches_30d: 2202
+        trend: 8
+        competition: 439
+        requirement: verify_content_covers_planning_focus_organization_time_and_task_execution
+      - phrase: self regulation workbook for kids
+        status: direct_or_conditional
+        iq: 775
+        searches_30d: 583
+        trend: 120
+        competition: 752
+      - phrase: kids life skills workbook
+        status: direct_or_conditional
+        iq: 298
+        searches_30d: 595
+        trend: -26
+        competition: 2000
+      - phrase: life skills for tweens
+        status: direct_or_conditional
+        iq: 250
+        searches_30d: 250
+        trend: 7
+        competition: 1000
+      - phrase: coping skills for kids
+        status: conditional
+        iq: 1024
+        searches_30d: 339
+        trend: -26
+        competition: 331
+      - phrase: assertiveness workbook
+        status: conditional
+        iq: 1423
+        searches_30d: 612
+        trend: 6
+        competition: 430
+    forbidden_default:
+      - cbt workbook
+      - dbt workbook
+      - therapy workbook
+      - trauma workbook
+      - ocd workbook
+      - nervous system regulation
+      - somatic therapy
+    actions:
+      - explicit_age_lock
+      - executive_functioning_semantic_audit
+      - neuroscience_claim_cleanup
+      - low_writing_interactive_mix
+      - optional_heavy_topics
+      - real_interior_preview
+
+  happy_me:
+    fit: medium_strong
+    primary_pack: 2
+    keyword_candidates:
+      - self regulation workbook for kids
+      - coping skills for kids
+      - kids life skills workbook
+      - self confidence workbook
+    requirement: verify_against_published_master_before_metadata_use
+    forbidden_default:
+      - therapy
+      - cbt
+      - dbt
+      - trauma
+      - nervous system regulation
+
+  world_01:
+    fit: medium
+    primary_pack: 2
+    keyword_candidates:
+      - life skills for tweens
+      - kids life skills workbook
+      - executive functioning workbook for kids
+    requirement: canonical_book_topic_map_before_use
+
+  world_02:
+    fit: medium
+    primary_pack: 2
+    keyword_candidates:
+      - life skills for tweens
+      - kids life skills workbook
+      - executive functioning workbook for kids
+    requirement: canonical_book_topic_map_before_use
+
+  optical_animals:
+    fit: strong_category_adjacency
+    primary_pack: 3
+    packet_keyword_use: research_only_except_generic_category_terms
+    forbidden_default:
+      - capybara
+      - kawaii
+      - one piece
+      - pusheen
+      - garfield
+      - peanuts
+      - carebear
+    live_research_required:
+      - optical art coloring book
+      - animal optical illusion coloring book
+      - seek and find coloring book
+      - visual puzzle coloring book
+      - artistic coloring book for older kids
+    actions:
+      - preserve_page_variety
+      - preserve_progressive_visual_challenge
+      - highlight_seek_and_find_differentiator
+
+  detective_academy:
+    fit: no_direct_keyword_fit
+    transferable_lessons:
+      - age_clarity
+      - cover_content_parity
+      - real_interior_preview
+      - progressive_difficulty
+      - troubleshooting_hint_support
+      - no_filler
+
+  gentle_steps:
+    fit: no_direct_keyword_fit
+    transferable_lessons:
+      - short_modules
+      - realistic_time_promise
+      - low_friction_use
+      - visible_progress
+      - real_product_preview
+      - no_therapy_overclaim
+    live_research_required:
+      - advent
+      - family_christmas_activity
+      - daily_december_activity
+
+future_holds:
+  math_missions:
+    source_pack: 4
+    status: hold
+    reason: strong_niche_but_no_current_product_and_current_release_priority_wins
+  whittling_visual_guide:
+    source_pack: 5
+    status: hold
+    reason: no_existing_product_domain_expertise_and_physical_safety_requirements
+  capybara_specific_product:
+    source_pack: 3
+    status: hold
+    reason: species_demand_signal_but_not_current_optical_product_truth
+
+pack_5_doctrine:
+  current_rse_product_fit: none
+  adopt_transferable_rules:
+    - promise_integrity
+    - show_every_important_step
+    - no_filler
+    - gentle_difficulty_curve
+    - troubleshooting
+    - safety_without_fear
+    - cover_content_parity
+    - expert_validation_for_safety_domains
+    - digital_bonus_must_add_real_value
+  generic_keywords:
+    - phrase: whittling kit for beginners
+      iq: 1819
+      searches_30d: 782
+      trend: 3
+      competition: 430
+    - phrase: whittling book
+      iq: 646
+      searches_30d: 540
+      trend: -4
+      competition: 836
+    - phrase: whittling book for beginners
+      iq: 360
+      searches_30d: 282
+      trend: 77
+      competition: 783
+    - phrase: whittling for kids
+      iq: 656
+      searches_30d: 219
+      trend: -15
+      competition: 334
+  misleading_high_iq_title_queries:
+    - whittling and fiddlin my own way
+    - the danish art of whittling
+    - danish art of whittling kit with knife
+    - swiss army knife whittling book
