@@ -168,7 +168,7 @@ def main() -> int:
     if args.json_path and not args.validate_only:
         path = Path(args.json_path)
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(json.dumps(snapshot, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        path.write_text(json.dumps(snapshot, indent=2, ensure_ascii=False, default=str) + "\n", encoding="utf-8")
     if args.md_path and not args.validate_only:
         path = Path(args.md_path)
         path.parent.mkdir(parents=True, exist_ok=True)
