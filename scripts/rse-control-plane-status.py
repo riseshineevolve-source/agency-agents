@@ -32,11 +32,19 @@ def load_yaml(path: Path) -> dict[str, Any]:
 
 
 def normalize_attention(value: Any) -> bool:
-    if value in NULLISH:
+    if value is None:
         return False
-    if isinstance(value, str) and value.strip() in {"null", "none", "NONE", ""}:
-        return False
+    if isinstance(value, str):
+        return value.strip() not in {"", "null", "none", "NONE", "N/A", "n/a"}
     return True
+
+
+def dependency_text(item: Any) -> str:
+    if isinstance(item, dict):
+        lane = item.get("lane", "?")
+        need = item.get("need", "")
+        return f"{lane}: {need}".strip()
+    return str(item)
 
 
 def collect() -> dict[str, Any]:
@@ -126,9 +134,11 @@ def markdown(snapshot: dict[str, Any]) -> str:
         "|---|---|---|---|---|---|",
     ]
     for lane in snapshot["lanes"]:
-        deps = ", ".join(lane["dependencies_needed"]) or "—"
+        deps = ", ".join(dependency_text(x) for x in lane["dependencies_needed"]) or "—"
         def cell(v: Any) -> str:
-            if v in NULLISH:
+            if v is None:
+                return "—"
+            if isinstance(v, str) and v in NULLISH:
                 return "—"
             return str(v).replace("|", "\\|").replace("\n", " ")
         lines.append(
