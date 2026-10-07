@@ -1,9 +1,29 @@
 # RSE Marketing Autopilot — Resume From Zero
 
 Status: CANONICAL RECOVERY ENTRYPOINT
-Updated: 2026-09-29
+Updated: 2026-10-07
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
+
+## 2026-10-07 Control Plane override
+
+Before the legacy marketing read order, every fresh Marketing Autopilot session MUST read:
+1. `orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md`
+2. `orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md`
+3. `orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml`
+4. `orchestration/control-plane/mailboxes/marketing_autopilot.yml`
+5. current dependency mailboxes for Detective, Optical Animals, Gentle Steps, Happy Me and Unstoppable.
+
+The Control Plane ownership model supersedes older execution-owner wording in this file where they conflict.
+Marketing is the ONE writer for marketing surfaces. Product repositories are READ-ONLY.
+Current product checkpoints, local durable evidence and lane mailboxes override dated product-state sections below.
+
+Important recovery rule:
+- do not treat the dated September "Current Detective truth" or "Current restart batch" sections below as fresh product-state evidence;
+- before using a product claim, read the relevant current product mailbox/checkpoint and, when needed, live product repo/local evidence;
+- use Product Marketing Briefs as the current identity/positioning layer when present;
+- use the Growth Operating System: FINISH -> PUBLISH -> SELL -> LEARN -> SCALE;
+- repurpose real winners before inventing unrelated content.
 
 ## Rule zero
 
@@ -51,6 +71,17 @@ Read:
 Merged foundation:
 - agency-agents PR #11 -> merge commit `b0855350071d9df7654e0bc87a73ab5098489642`
 - riseshineevolve PR #17 -> merge commit `6476f02a78c0df214940b76119291b30c9179f01`
+
+## Product Marketing Brief rule
+
+Before building or resuming a product-specific campaign:
+
+1. read `marketing/PRODUCT_MARKETING_BRIEF_INDEX.md`;
+2. read that product's canonical Product Marketing Brief if one exists;
+3. treat the Product Marketing Brief as the current decision layer for title/subtitle, positioning, slogans, keywords, metadata direction, copy bans and market-language adaptation;
+4. if an actively marketed product has no brief, create one from `orchestration/templates/RSE_PRODUCT_MARKETING_BRIEF_TEMPLATE.md` before major campaign expansion.
+
+Do not reconstruct product identity, slogans or keyword decisions from chat history when a durable brief exists.
 
 ## Commercial priority
 
