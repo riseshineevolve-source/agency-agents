@@ -150,5 +150,37 @@ class R5FitEvidence(unittest.TestCase):
             self.assertTrue(any("Whole-book render must be PDF" in i for i in proof["issues"]))
 
 
+    def test_malformed_top_level_metadata_blocks_without_crashing(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            clean = build_bundle(root)
+            for field, invalid in (
+                ("source", []),
+                ("renderer", "unknown"),
+                ("reviewer", None),
+                ("typography", True),
+            ):
+                with self.subTest(field=field):
+                    evidence = copy.deepcopy(clean)
+                    evidence[field] = invalid
+                    proof = check_r5_fit_evidence(CONTRACT, evidence, root, ROOT)
+                    self.assertEqual(proof["status"], "BLOCK", proof)
+                    self.assertTrue(proof["issues"])
+
+    def test_invalid_top_level_and_contract_block_without_crashing(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            evidence = build_bundle(root)
+            for invalid_contract in (None, [], {"source_lock": []}):
+                with self.subTest(contract=invalid_contract):
+                    proof = check_r5_fit_evidence(invalid_contract, evidence, root, ROOT)
+                    self.assertEqual(proof["status"], "BLOCK", proof)
+            for invalid_evidence in (None, [], "invalid"):
+                with self.subTest(evidence=invalid_evidence):
+                    proof = check_r5_fit_evidence(CONTRACT, invalid_evidence, root, ROOT)
+                    self.assertEqual(proof["status"], "BLOCK", proof)
+
+
+
 if __name__ == "__main__":
     unittest.main()
