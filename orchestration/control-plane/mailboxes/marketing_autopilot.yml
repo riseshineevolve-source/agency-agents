@@ -1,22 +1,23 @@
 lane: marketing_autopilot
 title: "RSE Marketing Autopilot"
 updated: 2026-10-07
-status: ACTIVE__RECOVERY_REPAIRED__DETECTIVE_LAUNCH_READY
-branch_or_repo_state: marketing/control-plane-reconcile-2026-10-07-v3
-milestone: control_plane_reconciled_product_briefs_restored_detective_141p_release_truth_restored_detective_product_marketing_brief_complete_live_channels_verified
+status: ACTIVE__RECOVERY_REPAIRED__DETECTIVE_PRELINK_BUILD
+branch_or_repo_state: agency-agents/main@1b0af14ce3d2eb34a7eab6d3d1545cd8cf1e9c01
+milestone: control_plane_recovery_canonical_product_briefs_current_detective_141p_release_truth_launch_masters_and_asset_binding_durable
 blocker: null
-owner_gate: null
+owner_gate: current_launch_creative_family_baseline_review_before_routine_organic_scheduling
 dependencies_needed:
   - lane: detective_book_factory
-    need: notify marketing only when verified release facts materially change beyond current 141-page/KDP-preflight PASS checkpoint
+    need: publish verified current 141-page Recruit Credential / Witness Board / Live Map / Hint Vault proof mapping if product source changes or exact current crops become available
   - lane: gentle_steps
     need: expose verified live/release state when listing/app/store status changes
 reusable_outputs:
   - marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md
+  - marketing/DETECTIVE_LAUNCH_ORGANIC_MASTERS_2026-10-07.md
+  - marketing/DETECTIVE_CURRENT_LAUNCH_ASSET_BINDING_2026-10-07.md
   - marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md
   - marketing/GENTLE_STEPS_PL_PRODUCT_MARKETING_BRIEF_2026-10-07.md
   - marketing/PRODUCT_MARKETING_BRIEF_INDEX.md
   - orchestration/templates/RSE_PRODUCT_MARKETING_BRIEF_TEMPLATE.md
-  - marketing/DETECTIVE_ACADEMY_Q4_LAUNCH_PLAN.md
-next_safe_task: build launch-ready Detective organic masters from real approved product proof using the canonical Product Marketing Brief; keep Metricool unscheduled until the first current launch family is review-ready; no paid activation
+next_safe_task: QA existing D01 D05 D06 creatives against current identity and cover; concurrently resolve current 141-page exact product-proof mapping for D02 D04 D07; assemble one current PRELINK baseline review; keep Metricool unscheduled and paid activation off
 checkpoint_reference: marketing/MARKETING_RESUME_FROM_ZERO.md
