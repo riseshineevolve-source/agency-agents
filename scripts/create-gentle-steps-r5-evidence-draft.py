@@ -38,9 +38,11 @@ def artifact(root: Path, relative: str, *, extensions: tuple[str, ...]) -> dict[
         raise ValueError(f"Missing/empty artifact: {clean}")
     if target.suffix.lower() not in extensions:
         raise ValueError(f"Wrong artifact extension: {clean}; expected {extensions}")
-    if extensions == (".pdf",) and not target.read_bytes()[:8].startswith(b"%PDF-"):
+    with target.open("rb") as stream:
+        header = stream.read(8)
+    if extensions == (".pdf",) and not header.startswith(b"%PDF-"):
         raise ValueError(f"Whole-book artifact does not have a PDF header: {clean}")
-    if target.suffix.lower() == ".png" and target.read_bytes()[:8] != b"\\x89PNG\\r\\n\\x1a\\n":
+    if target.suffix.lower() == ".png" and header != bytes.fromhex("89504e470d0a1a0a"):
         raise ValueError(f"Review surface does not have a PNG header: {clean}")
     return {"path": clean.as_posix(), "sha256": sha256(target)}
 
@@ -120,7 +122,7 @@ def main() -> int:
         args.output.parent.mkdir(parents=True, exist_ok=True)
         with args.output.open("x", encoding="utf-8") as f:
             json.dump(draft, f, ensure_ascii=False, indent=2)
-            f.write("\\n")
+            f.write(chr(10))
     except (ValueError, OSError) as exc:
         print(f"BLOCK: {exc}", file=sys.stderr)
         return 2
