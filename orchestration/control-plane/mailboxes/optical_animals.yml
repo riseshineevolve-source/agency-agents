@@ -1,0 +1,12 @@
+lane: optical_animals
+title: "Optical Animals"
+updated: 2026-10-07
+status: BOOTSTRAP_READY__LANE_WRITER_MUST_REFRESH
+branch_or_repo_state: VERIFY_LIVE_ON_OPEN
+milestone: control_plane_v1_registered
+blocker: null
+owner_gate: null
+dependencies_needed: []
+reusable_outputs: []
+next_safe_task: read_registry_bootstrap_project_checkpoint_and_continue
+checkpoint_reference: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
