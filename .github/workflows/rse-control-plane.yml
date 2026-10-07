@@ -1,0 +1,54 @@
+name: RSE Control Plane v1
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'orchestration/control-plane/**'
+      - 'orchestration/brain/**'
+      - 'scripts/rse-control-plane-status.py'
+      - 'scripts/test-rse-control-plane-status.py'
+      - '.github/workflows/rse-control-plane.yml'
+  pull_request:
+    paths:
+      - 'orchestration/control-plane/**'
+      - 'scripts/rse-control-plane-status.py'
+      - 'scripts/test-rse-control-plane-status.py'
+      - '.github/workflows/rse-control-plane.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deterministic parser
+        run: python -m pip install --disable-pip-version-check PyYAML==6.0.2
+
+      - name: Test Control Plane
+        run: python scripts/test-rse-control-plane-status.py
+
+      - name: Build deterministic snapshot
+        run: |
+          mkdir -p build/control-plane
+          python scripts/rse-control-plane-status.py \
+            --json build/control-plane/RSE_CONTROL_PLANE_STATUS.json \
+            --markdown build/control-plane/RSE_CONTROL_PLANE_STATUS.md
+          cat build/control-plane/RSE_CONTROL_PLANE_STATUS.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: rse-control-plane-status
+          path: build/control-plane/
+          retention-days: 14
