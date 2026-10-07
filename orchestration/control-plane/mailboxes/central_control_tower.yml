@@ -1,12 +1,18 @@
 lane: central_control_tower
 title: "RSE Central Control Tower"
 updated: 2026-10-07
-status: BOOTSTRAP_READY__LANE_WRITER_MUST_REFRESH
-branch_or_repo_state: VERIFY_LIVE_ON_OPEN
-milestone: control_plane_v1_registered
+status: CONTROL_PLANE_V1_ACTIVE__LIVE_RECONCILED_1523
+branch_or_repo_state: agency-agents/main
+milestone: factory_v1_frozen_live_gates_reconciled
 blocker: null
 owner_gate: null
 dependencies_needed: []
-reusable_outputs: []
-next_safe_task: read_registry_bootstrap_project_checkpoint_and_continue
-checkpoint_reference: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+reusable_outputs:
+  - orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
+  - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
+  - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+  - orchestration/control-plane/RSE_CHAT_BOOTSTRAPS_V1.md
+  - orchestration/assets/RSE_ASSET_VAULT_PROTOCOL_V1.md
+  - orchestration/assets/detective/2026-10-07_OFFICIAL_HAPPY_MAKERS_CASE03_MANIFEST.yml
+next_safe_task: monitor_lane_owned_reconciliation_and_consume_only_material_checkpoint_changes
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-07-central-control-tower-reconcile-1523.md

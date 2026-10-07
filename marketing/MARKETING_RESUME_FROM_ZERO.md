@@ -1,15 +1,35 @@
 # RSE Marketing Autopilot — Resume From Zero
 
 Status: CANONICAL RECOVERY ENTRYPOINT
-Updated: 2026-09-29
+Updated: 2026-10-07
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
+
+## 2026-10-07 Control Plane override
+
+Before the legacy marketing read order, every fresh Marketing Autopilot session MUST read:
+1. `orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md`
+2. `orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md`
+3. `orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml`
+4. `orchestration/control-plane/mailboxes/marketing_autopilot.yml`
+5. current dependency mailboxes for Detective, Optical Animals, Gentle Steps, Happy Me and Unstoppable.
+
+The Control Plane ownership model supersedes older execution-owner wording in this file where they conflict.
+Marketing is the ONE writer for marketing surfaces. Product repositories are READ-ONLY.
+Current product checkpoints, local durable evidence and lane mailboxes override dated product-state sections below.
+
+Important recovery rule:
+- do not treat the dated September "Current Detective truth" or "Current restart batch" sections below as fresh product-state evidence;
+- before using a product claim, read the relevant current product mailbox/checkpoint and, when needed, live product repo/local evidence;
+- use Product Marketing Briefs as the current identity/positioning layer when present;
+- use the Growth Operating System: FINISH -> PUBLISH -> SELL -> LEARN -> SCALE;
+- repurpose real winners before inventing unrelated content.
 
 ## Rule zero
 
 Do NOT reconstruct marketing from chat history.
 
-Current GitHub product truth and durable marketing files override old conversations, exported chats, stale connector notes and remembered copy.
+Current Control Plane + durable product truth + durable marketing files override old conversations, stale connector notes, experimental worktrees and remembered copy.
 
 The dedicated Marketing chat owns day-to-day execution.
 The Central RSE Orchestrator does NOT duplicate content production, publishing operations or campaign iteration.
@@ -52,65 +72,76 @@ Merged foundation:
 - agency-agents PR #11 -> merge commit `b0855350071d9df7654e0bc87a73ab5098489642`
 - riseshineevolve PR #17 -> merge commit `6476f02a78c0df214940b76119291b30c9179f01`
 
-## Commercial priority
+## Product Marketing Brief rule
+
+Before building or resuming a product-specific campaign:
+
+1. read `marketing/PRODUCT_MARKETING_BRIEF_INDEX.md`;
+2. read that product's canonical Product Marketing Brief if one exists;
+3. treat the Product Marketing Brief as the current decision layer for title/subtitle, positioning, slogans, keywords, metadata direction, copy bans and market-language adaptation;
+4. if an actively marketed product has no brief, create one from `orchestration/templates/RSE_PRODUCT_MARKETING_BRIEF_TEMPLATE.md` before major campaign expansion.
+
+Do not reconstruct product identity, slogans or keyword decisions from chat history when a durable brief exists.
+
+## Current Marketing execution priority
 
 1. Detective Academy -> English KDP launch
-2. Detective Academy -> Polish KDP after explicit English source freeze
-3. Optical Animals
-4. 24 Gentle Steps to Christmas
-5. Consumer App Factory / Google Play when external gates allow
+2. Mind Bloom -> DONE/frozen; no marketing spend
+3. Before Christmas Slips By / Gentle Steps
+4. Optical Animals
+5. Consumer App Factory / Google Play
 
-Mind Bloom Private V1 is DONE/frozen and is not an active commercial marketing lane.
+This is the Marketing execution order. Central Control Tower remains authoritative for portfolio-wide sequencing.
 
 Do not wait for Google Play/DUNS to monetize KDP-ready products.
 
 ## Current Detective truth
 
-Reconciled from current GitHub on 2026-09-29. Product repositories are **READ-ONLY to Marketing Autopilot**.
+Marketing release truth is the advanced final-interior checkpoint recovered from durable RSE state and owner-confirmed on 2026-10-07:
 
-Current reader-copy authority:
-- same V3 family: `orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
-- canonical text commit: `3c0caedbcc313658767cb4251b2c1741c4a7edcf`
-- canonical text blob: `8370026a811ad3354aaa8e422ebe2edf58464845`
-- status: **FINAL PRE-CODEX TEXT MASTER / EN NOT FROZEN**
+- FINAL ENGLISH INTERIOR = PASS
+- remote head `6aef8cefdce029413f2cc29e656d5fbad99d546c`
+- 141-page final PDF
+- 141 print-scale previews
+- ALL-15 = 15/15 PASS REMOTE
+- canonical 30-mission integration = PASS
+- KDP preflight = PASS
+- Build #93 = PASS
+- SEO #551 = PASS
 
-Current production state:
-- Detective Book Factory branch `feature/detective-book-factory` was observed at `989bce1fc1846fcb2480517d1b4965f3add204aa`;
-- premium-layout restoration is delegated to Codex;
-- while Codex owns that lane, Marketing must not write product copy, renderer, layout, assets or source files;
-- the compact 127-page integration proof is a source/evidence integration proof only and is **not** final visual or page-count authority;
-- do not market the compact proof as the finished interior;
-- the next reviewed product artifact is expected to restore the premium page-family system around the exact V3 text: Evidence Grid language, boxed sections/HM chat, dedicated left Witness Board + large right Live Case Map, large bold coordinate rails, full Case 03 visual comparison treatment, quiet publication/brand page and reverse-entry Hint Vault/Solutions;
-- do not infer final pagination until that premium render is reviewed.
+Remaining release owner gates:
+- final cover / final wrap approval as applicable
+- representative physical proof
+- pricing
+- KDP upload/publication
 
-Current verified reader-facing facts safe for marketing:
+Important interpretation:
+- later Book Factory / renderer / identity-pipeline work may continue in the Detective lane, but Marketing must not downgrade or replace this release truth merely because experimental/rebuild infrastructure has a different intermediate page count or gate;
+- product repos are READ-ONLY to Marketing;
+- before publishing a new claim that depends on a later product change, read the Detective mailbox/current product checkpoint;
+- never publish a price, listing URL, availability, rating/review, discount or bestseller claim without live verification.
+
+Safe current product facts:
 - 30 connected cases;
 - one book-long mystery;
-- the reader claims a Recruit Credential / detective identity;
-- puzzle families include maps, codes, visual evidence and logic;
+- the reader becomes the missing detective;
+- Recruit Credential / detective identity;
+- maps, codes, visual evidence and logic;
 - three-level Hint Vault;
 - reasoning-led Solution Files;
 - some earlier evidence can matter again later;
-- reader is the missing detective.
+- screen-free / pencil-first use.
 
-Current spoiler guard:
+Spoiler guard:
 - do not reveal Rule Zero as an opening beat;
-- do not reveal `CHECK THE OLD MAP`;
+- do not reveal CHECK THE OLD MAP;
 - do not reveal the Room Zero mechanism;
 - do not reveal final code/coordinate;
 - do not reveal Book 2 archive/triangle resolution;
 - do not show case solutions in promotional proof.
 
-Current marketing execution authority:
-- `marketing/DETECTIVE_PRELAUNCH_PRODUCTION_PACK_V2.md`
-- `marketing/DETECTIVE_PRELAUNCH_14D_CALENDAR.md`
-- `marketing/DETECTIVE_MARKETING_READINESS_MATRIX_2026-09-29.md`
-
-Current CTA rule:
-- PRE-LAUNCH: Follow / Save / Vote / Your first case is coming.
-- KDP LIVE: Amazon / Join the Academy CTA only after the live listing URL, price/availability and product artifact are verified.
-
-English remains **NOT FROZEN**. Do not announce a publication-ready date, final page count, price, availability, rating/review, discount or bestseller claim before the relevant owner/live gates close.
+Marketing objective:
+be launch-ready without delaying the owner-controlled release gate.
 
 ## Current Detective cover + A+ truth
 

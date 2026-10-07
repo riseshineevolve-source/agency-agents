@@ -1,0 +1,19 @@
+version: 1
+updated: 2026-10-07
+status: ACTIVE
+primary_assignment:
+  lane: detective_book_factory
+  reason: highest_current_finish_value_and_heavy_engineering_need
+  allowed_mode: auxiliary_task_branch_or_lane_writer_only_if_explicitly_handed_off
+fallback_order:
+  - gentle_steps
+  - world_app_factory
+  - optical_animals
+switch_rule:
+  - switch only when current assignment is at a genuine owner/external gate or Central explicitly reassigns
+collision_rule:
+  - never edit a branch/worktree with another active writer
+  - if lane writer is active, use a separate task branch/worktree and return a checkpoint/PR rather than writing the lane surface directly
+source_of_truth:
+  - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+  - orchestration/control-plane/RSE_BUILD_DESK_BOOTSTRAP.md
