@@ -1,18 +1,17 @@
 lane: central_control_tower
 title: "RSE Central Control Tower"
 updated: 2026-10-07
-status: CONTROL_PLANE_V1_ACTIVE__LIVE_RECONCILED_1523
+status: CONTROL_PLANE_V1_ACTIVE__LIVE_RECONCILED_1744
 branch_or_repo_state: agency-agents/main
-milestone: factory_v1_frozen_live_gates_reconciled
+milestone: detective_recovered_gold_review_ready
 blocker: null
-owner_gate: null
-dependencies_needed: []
+owner_gate: one_recovered_gold_contact_sheet_visual_decision
+dependencies_needed:
+  - gentle_steps_to_polish_r5_template_fit_evidence
 reusable_outputs:
   - orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
   - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
   - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
-  - orchestration/control-plane/RSE_CHAT_BOOTSTRAPS_V1.md
-  - orchestration/assets/RSE_ASSET_VAULT_PROTOCOL_V1.md
-  - orchestration/assets/detective/2026-10-07_OFFICIAL_HAPPY_MAKERS_CASE03_MANIFEST.yml
-next_safe_task: monitor_lane_owned_reconciliation_and_consume_only_material_checkpoint_changes
-checkpoint_reference: orchestration/brain/checkpoints/2026-10-07-central-control-tower-reconcile-1523.md
+  - orchestration/brain/checkpoints/2026-10-07-central-control-tower-reconcile-1744.md
+next_safe_task: monitor_lane_owned_reconciliation_and_consume_material_checkpoint_changes
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-07-central-control-tower-reconcile-1744.md
