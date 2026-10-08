@@ -61,7 +61,7 @@ The main family draws from things that are:
 - **NAWIAS**
 - **KLAMRA**
 - **PRZESKOK**
-- **AZYMut** -> normalize display as **AZYMUT**
+- **AZYMUT**
 - **SMUGA**
 - **ZAKŁÓCENIE**
 - **OKRUCH**
