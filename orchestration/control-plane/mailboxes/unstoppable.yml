@@ -1,12 +1,17 @@
 lane: unstoppable
 title: "Unstoppable / Book-First"
-updated: 2026-10-07
-status: BOOTSTRAP_READY__LANE_WRITER_MUST_REFRESH
-branch_or_repo_state: VERIFY_LIVE_ON_OPEN
-milestone: control_plane_v1_registered
+updated: 2026-10-08
+status: OWNER_GATE_CONTENT_FREEZE
+branch_or_repo_state: "riseshineevolve-source/unstoppable-me@codex/unstoppable-book-first-20261008 head 7c02caf"
+milestone: book_source_locked_factory_adapter_ready
 blocker: null
-owner_gate: null
+owner_gate: exact_owner_read_candidate_v2_content_approval_and_freeze
 dependencies_needed: []
-reusable_outputs: []
-next_safe_task: read_registry_bootstrap_project_checkpoint_and_continue
-checkpoint_reference: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+reusable_outputs:
+  - book/source/PROJECT_UNSTOPPABLE_EN_OWNER_READ_CANDIDATE_V2.txt
+  - book/source/PUZZLE_TRUTH_REGISTRY.json
+  - book/build/source-lock-report.json
+  - book/build/project-unstoppable.en.book-map.json
+  - book/BOOK_FACTORY_INTERFACE.md
+next_safe_task: after_owner_approval_create_content_freeze_manifest_then_bind_shared_book_factory
+checkpoint_reference: "riseshineevolve-source/unstoppable-me:CHECKPOINT.yml"
