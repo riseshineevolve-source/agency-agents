@@ -1,15 +1,16 @@
 lane: world_app_factory
 title: "World 01 + World 02 / Interactive App Factory"
 updated: 2026-10-08
-status: WORLD02_LEVEL18_SOURCE_PROMOTION__CI_PENDING
-branch_or_repo_state: "agency-agents PR #35 current-main reconciled; spark-joy-fam main 23c2cf36988a41b785d1409d28488c6b7acbe08f retains World 02 Levels 11-17"
-milestone: world02_level18_24_node_canonical_source_graph_candidate
-blocker: exact_head_interactive_book_contract_ci_required
+status: WORLD02_LEVEL18_RUNTIME__ANDROID_CI_PENDING
+branch_or_repo_state: "agency-agents main contains canonical Level 18 source contract at a7fb3c54b2fc878e3df9e7065558c002e928bcca; spark-joy-fam PR #11 head 42465032c7e103bbfe6cc8326843d38fa61a3568 targets main 23c2cf36988a41b785d1409d28488c6b7acbe08f"
+milestone: world02_level18_shared_runtime_local_verify_green
+blocker: exact_head_android_ci_run_90_required_before_merge
 owner_gate: null
 dependencies_needed: []
 reusable_outputs:
   - orchestration/content-packs/world02/level18.en.candidate.json
   - orchestration/content-sources/world02-level18-page-evidence.json
   - scripts/test-world02-level18.py
-next_safe_task: verify_exact_head_CI_then_integrate_level18_offline_runtime_or_source_extract_level19
-checkpoint_reference: orchestration/brain/checkpoints/2026-10-08-world02-level18-current-main-reconcile.md
+  - spark-joy-fam/release/WORLD02_LEVEL18_RUNTIME_CHECKPOINT.md
+next_safe_task: verify_android_ci_90_then_merge_pr11_and_continue_level19_source_promotion
+checkpoint_reference: spark-joy-fam/release/WORLD02_LEVEL18_RUNTIME_CHECKPOINT.md
