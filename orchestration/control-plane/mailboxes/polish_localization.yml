@@ -16,6 +16,7 @@ reusable_outputs:
   - "Detective source manifest: localization/pl-PL/production/detective-academy/SOURCE_MANIFEST_2026-10-08.yml"
   - "Detective PL working master: localization/pl-PL/production/detective-academy/working/DETECTIVE_ACADEMY_PL_WORKING_MASTER_V1.md"
   - "Detective Case01 logic proof: localization/pl-PL/production/detective-academy/qa/CASE01_LOGIC_PROOF_2026-10-08.md"
+  - "Detective PL codename architecture V2: localization/pl-PL/production/detective-academy/DETECTIVE_PL_CODENAME_ARCHITECTURE_V2.md"
 detective_pl:
   status: PRODUCTION_ACTIVE
   full_production_started: true
@@ -28,5 +29,5 @@ gentle_steps:
   title_lock: FINAL_OWNER_LOCK
   pl_r6_blob: "896cf92bf6ed126ef62e623fd9cac640270e853f"
   publication_authorized: false
-next_safe_task: translate_Detective_Case02_as_mission_complete_batch_then_run_spatial_logic_and_native_polish_QA
+next_safe_task: audit_Detective_identity_mechanics_build_PL_codename_map_then_translate_Case02_as_mission_complete_batch_and_run_spatial_logic_native_polish_QA
 checkpoint_reference: localization/pl-PL/DETECTIVE_PL_EXECUTION_CHECKPOINT.md
