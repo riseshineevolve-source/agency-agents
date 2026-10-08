@@ -5,6 +5,19 @@ Use this protocol whenever a new ChatGPT thread, Work session, Codex session or 
 ## Goal
 Resume accurately without relying on prior chat memory.
 
+## 2026-10-07 Control Plane override
+
+Before the legacy Step 1 read order, every fresh RSE execution chat must read:
+
+1. `orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md`
+2. `orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md`
+3. `orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml`
+4. its registered lane mailbox under `orchestration/control-plane/mailboxes/`
+
+Execution ownership is now one-writer-per-lane. The Central Control Tower is read/sync-only on delegated product/marketing lanes and must not duplicate their source work.
+
+When current Control Plane ownership conflicts with older central/delegated wording in this file or older checkpoints, the Control Plane ownership model wins unless the owner explicitly changes it.
+
 ## Step 1 — Load RSE Brain and portfolio truth
 Read, in order:
 1. `orchestration/brain/RSE_BRAIN_MASTER.md`

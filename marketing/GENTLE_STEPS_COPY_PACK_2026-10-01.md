@@ -1,5 +1,9 @@
 # 24 Gentle Steps to Christmas — Copy Pack
 
+> **CURRENT-IDENTITY NOTICE — 2026-10-07**
+> This file is retained as a historical idea/copy source. Current EN and PL title, subtitle, daily labels, positioning, slogans and keywords are governed by the current Product Marketing Briefs and the refreshed `marketing/GENTLE_STEPS_MARKETING_MASTER_2026-10-01.md`. Do not publish legacy `24 Gentle Steps to Christmas` / `Mindful Moment` / `Fun Spark` / `Connection Share` wording as current product identity.
+
+
 Status: READY FOR PRELAUNCH USE
 Date: 2026-10-01
 

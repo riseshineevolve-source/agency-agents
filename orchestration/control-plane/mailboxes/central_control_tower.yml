@@ -1,0 +1,28 @@
+lane: central_control_tower
+title: "RSE Central Control Tower"
+updated: 2026-10-08
+status: CONTROL_PLANE_V1_ACTIVE__LIVE_RECONCILED_0425
+branch_or_repo_state: agency-agents/main
+milestone: polish_r5_evidence_producer_landed__marketing_folio_contradiction_routed__detective_gold_gate_open
+blocker: null
+owner_gate: one_recovered_gold_contact_sheet_visual_decision_previously_notified
+dependencies_needed:
+  - lane: detective_book_factory
+    need: consume bounded Gold Pages12/15 visual decision when provided; preserve current 180-page V12 proof authority
+  - lane: optical_animals
+    need: exact source Final20 local SHA reconciliation via delegated writer when Desktop Commander available; preserve unresolved owner-only visual choices
+  - lane: gentle_steps
+    need: real Android-device and store evidence remain external gates
+  - lane: polish_localization
+    need: actual R5 real-final-template PDF/PNG print-scale proof; fail-closed draft producer available on Polish branch 6a037ddf2988
+  - lane: marketing_autopilot
+    need: reconcile stale 141-page product proof map against actual current Detective V12 180-page baseline before PRELINK D02/D04/D07 crops/scheduling
+  - lane: world_app_factory
+    need: resolve draft PR35 Level18 main-branch conflict within authorized World writer, then exact-head CI
+reusable_outputs:
+  - orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
+  - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
+  - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+  - orchestration/brain/checkpoints/2026-10-08-central-control-tower-reconcile-0425.md
+next_safe_task: monitor delegated R5 real-template evidence handoff and marketing V12 folio reconciliation; do not duplicate lane writers or re-notify previous owner gates
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-08-central-control-tower-reconcile-0425.md

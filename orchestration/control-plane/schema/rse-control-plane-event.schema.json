@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:rse:control-plane-event:v1",
+  "title": "RSE Control Plane Event v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema","event_id","event_type","lane","created_at","source","severity"],
+  "properties": {
+    "schema": {"const":"rse-control-plane-event-v1"},
+    "event_id": {"type":"string","minLength":1},
+    "event_type": {
+      "enum":[
+        "MILESTONE",
+        "BLOCKER",
+        "OWNER_GATE",
+        "DEPENDENCY_REQUEST",
+        "REUSABLE_OUTPUT",
+        "RELEASE_CANDIDATE",
+        "ASSET_INGEST"
+      ]
+    },
+    "lane": {"type":"string","minLength":1},
+    "created_at": {"type":"string","minLength":1},
+    "source": {
+      "type":"object",
+      "additionalProperties": false,
+      "required":["repository","reference"],
+      "properties":{
+        "repository":{"type":"string","minLength":1},
+        "reference":{"type":"string","minLength":1},
+        "sha":{"type":["string","null"]},
+        "checkpoint":{"type":["string","null"]}
+      }
+    },
+    "severity":{"enum":["INFO","ACTION","BLOCKED","OWNER"]},
+    "summary":{"type":["string","null"]},
+    "dependencies":{"type":"array","items":{"type":"string"}},
+    "artifact_refs":{"type":"array","items":{"type":"string"}},
+    "owner_action_required":{"type":"boolean","default":false}
+  }
+}

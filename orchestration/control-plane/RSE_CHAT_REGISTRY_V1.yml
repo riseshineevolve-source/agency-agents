@@ -1,0 +1,132 @@
+version: 1
+updated: 2026-10-07
+authority: orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
+policy:
+  one_writer_per_surface: true
+  github_over_chat_memory: true
+  owner_intervention: meaningful_gates_only
+  default_max_active_specialists: 4
+  central_product_lane_mode: read_sync_only
+  mailbox_root: orchestration/control-plane/mailboxes
+
+chats:
+  central_control_tower:
+    title: RSE Central Control Tower
+    writer_scope:
+      - agency-agents/orchestration/brain
+      - agency-agents/orchestration/control-plane
+      - central strategy and cross-project architecture
+    read_scope: all_lanes
+    bootstrap: orchestration/RESUME_FROM_ZERO.md
+    mailbox: orchestration/control-plane/mailboxes/central_control_tower.yml
+    tools: [github, desktop_commander_when_needed, connected_measurement_sources]
+    stop: genuine_owner_or_cross_portfolio_gate
+
+  detective_book_factory:
+    title: Detective Academy / Book Factory
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    branch: feature/rse-book-factory-v2
+    writer_scope: detective_and_book_factory_branch_only
+    bootstrap: orchestration/bootstrap/RSE_BOOK_FACTORY_V2_EXECUTION_BOOTSTRAP.md
+    secondary_bootstrap: orchestration/bootstrap/RSE_PRODUCTION_STACK_CODEX_BOOTSTRAP_2026-10-06.md
+    mailbox: orchestration/control-plane/mailboxes/detective_book_factory.yml
+    tools: [github, desktop_commander, codex, playwright, vivliostyle, image_generation]
+    read_dependencies: [central_control_tower, polish_localization, marketing_autopilot]
+    stop: real_source_asset_or_single_visual_family_gate
+
+  optical_animals:
+    title: Optical Animals
+    repo: riseshineevolve-source/riseshineevolve
+    branch: feat/optical-animals-book-creator
+    writer_scope: optical_animals_only
+    bootstrap: orchestration/bootstrap/OPTICAL_ANIMALS_REPO_BOOTSTRAP.md
+    mailbox: orchestration/control-plane/mailboxes/optical_animals.yml
+    tools: [github, desktop_commander, codex, image_generation]
+    read_dependencies: [central_control_tower, marketing_autopilot]
+    stop: real_owner_visual_or_release_gate
+
+  gentle_steps:
+    title: Gentle Steps / Before Christmas Slips By
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    branch: gentle-steps/app-en-full24-purple-gold
+    writer_scope: gentle_steps_only
+    bootstrap: orchestration/bootstrap/GENTLE_STEPS_EXECUTION_BOOTSTRAP.md
+    mailbox: orchestration/control-plane/mailboxes/gentle_steps.yml
+    tools: [github, desktop_commander, codex, playwright, image_generation]
+    read_dependencies: [central_control_tower, polish_localization]
+    stop: real_owner_editorial_visual_store_gate
+
+  polish_localization:
+    title: Polish Localization Engine
+    repo: riseshineevolve-source/agency-agents
+    branch_family: codex/polish-engine-main-reconcile
+    writer_scope: localization_owned_surfaces_only
+    bootstrap: orchestration/bootstrap/POLISH_LOCALIZATION_EXECUTION_BOOTSTRAP.md
+    mailbox: orchestration/control-plane/mailboxes/polish_localization.yml
+    tools: [github, codex, deterministic_localization_tests]
+    read_dependencies: [central_control_tower, detective_book_factory, gentle_steps]
+    stop: terminology_owner_gate_or_detective_en_freeze_gate
+
+  world_app_factory:
+    title: World 01 + World 02 / Interactive App Factory
+    writer_scope: world01_world02_shared_runtime_only
+    bootstrap: orchestration/bootstrap/WORLD01_EXECUTION_BOOTSTRAP.md
+    secondary_bootstrap: orchestration/bootstrap/WORLD02_EXECUTION_BOOTSTRAP.md
+    mailbox: orchestration/control-plane/mailboxes/world_app_factory.yml
+    tools: [github, desktop_commander, codex, playwright]
+    read_dependencies: [central_control_tower, polish_localization]
+    stop: source_contradiction_or_owner_release_gate
+
+  happy_me:
+    title: Happy Me 24/7
+    repo: riseshineevolve-source/riseshineevolve
+    branch_family: codex/happy-me-production-hardening
+    writer_scope: happy_me_only
+    bootstrap: orchestration/handoffs/HAPPY_ME_DELEGATED_EXECUTION_HANDOFF.md
+    mailbox: orchestration/control-plane/mailboxes/happy_me.yml
+    tools: [github, desktop_commander, codex, playwright, supabase_when_owner_gate_allows]
+    read_dependencies: [central_control_tower]
+    stop: external_play_supabase_owner_gate
+
+  senior_mind_bloom:
+    title: Senior / Hello Today + Mind Bloom
+    writer_scope: split_repos_separate_worktrees
+    bootstrap: orchestration/handoffs/SENIOR_MIND_BLOOM_DELEGATED_EXECUTION_HANDOFF.md
+    mailbox: orchestration/control-plane/mailboxes/senior_mind_bloom.yml
+    tools: [github, desktop_commander, codex, app_test_stack]
+    read_dependencies: [central_control_tower]
+    stop: external_device_legal_or_phase2b_owner_gate
+
+  unstoppable:
+    title: Unstoppable / Book-First
+    branch_family: codex/unstoppable-me-revival
+    writer_scope: unstoppable_only
+    bootstrap: orchestration/bootstrap/UNSTOPPABLE_EXECUTION_BOOTSTRAP.md
+    mailbox: orchestration/control-plane/mailboxes/unstoppable.yml
+    tools: [github, desktop_commander, codex, book_factory_interfaces]
+    read_dependencies: [central_control_tower, marketing_autopilot, polish_localization]
+    stop: source_owner_or_kdp_release_gate
+
+  opinie:
+    title: Opinie
+    writer_scope: sanitized_remote_code_and_local_confidential_runtime
+    bootstrap: orchestration/bootstrap/OPINIE_REPO_BOOTSTRAP.md
+    mailbox: orchestration/control-plane/mailboxes/opinie.yml
+    tools: [github, desktop_commander_local_only_for_real_data, codex_sanitized_only]
+    read_dependencies: [central_control_tower]
+    stop: real_data_cloud_or_expert_semantics_owner_gate
+
+  marketing_autopilot:
+    title: RSE Marketing Autopilot
+    writer_scope: marketing_only
+    bootstrap: marketing/MARKETING_RESUME_FROM_ZERO.md
+    mailbox: orchestration/control-plane/mailboxes/marketing_autopilot.yml
+    tools: [github, metricool, creative_claw, drive, gmail, web_research]
+    read_dependencies:
+      - central_control_tower
+      - detective_book_factory
+      - optical_animals
+      - gentle_steps
+      - happy_me
+      - unstoppable
+    stop: paid_activation_publication_or_unverified_product_claim

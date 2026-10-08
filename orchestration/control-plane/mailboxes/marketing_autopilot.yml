@@ -1,0 +1,20 @@
+lane: marketing_autopilot
+title: "RSE Marketing Autopilot"
+updated: 2026-10-07
+status: ACTIVE__DETECTIVE_PRELINK_BASELINE_BUILD
+branch_or_repo_state: agency-agents/main
+milestone: legacy_video_qa_complete_current_static_baseline_built_product_proof_binding_in_progress
+blocker: null
+owner_gate: null
+dependencies_needed:
+  - lane: detective_book_factory
+    need: expose verified current Recruit Credential / Witness Board / Live Map / Hint Vault product-proof mappings when available; do not ask owner to relay
+reusable_outputs:
+  - marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md
+  - marketing/DETECTIVE_LAUNCH_ORGANIC_MASTERS_2026-10-07.md
+  - marketing/DETECTIVE_CURRENT_LAUNCH_ASSET_BINDING_2026-10-07.md
+  - marketing/DETECTIVE_EXISTING_VIDEO_QA_2026-10-07.md
+  - marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md
+  - marketing/GENTLE_STEPS_PL_PRODUCT_MARKETING_BRIEF_2026-10-07.md
+next_safe_task: finish current product-proof binding for D02 D04 D07 and assemble PRELINK baseline review packet; keep Metricool unscheduled and paid activation off
+checkpoint_reference: marketing/MARKETING_RESUME_FROM_ZERO.md
