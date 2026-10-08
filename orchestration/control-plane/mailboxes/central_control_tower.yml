@@ -1,28 +1,33 @@
 lane: central_control_tower
 title: "RSE Central Control Tower"
 updated: 2026-10-08
-status: CONTROL_PLANE_V1_ACTIVE__LIVE_RECONCILED_0425
+status: CONTROL_PLANE_V1_ACTIVE__WORLD02_L18_MAIN_MERGED_CONTRACT_CI_PASS
 branch_or_repo_state: agency-agents/main
-milestone: polish_r5_evidence_producer_landed__marketing_folio_contradiction_routed__detective_gold_gate_open
+milestone: world02_pr35_merged_and_main_contract_ci_pass__polish_r5_fit_guard_exact_head_green__happy_me_release311_recorded
 blocker: null
-owner_gate: one_recovered_gold_contact_sheet_visual_decision_previously_notified
+owner_gate: "Previously communicated only: Detective recovered Gold contact-sheet visual Pages12/15; Project Unstoppable exact Owner-Read V2 content approval/freeze. Do not duplicate packets."
 dependencies_needed:
-  - lane: detective_book_factory
-    need: consume bounded Gold Pages12/15 visual decision when provided; preserve current 180-page V12 proof authority
-  - lane: optical_animals
-    need: exact source Final20 local SHA reconciliation via delegated writer when Desktop Commander available; preserve unresolved owner-only visual choices
-  - lane: gentle_steps
-    need: real Android-device and store evidence remain external gates
-  - lane: polish_localization
-    need: actual R5 real-final-template PDF/PNG print-scale proof; fail-closed draft producer available on Polish branch 6a037ddf2988
-  - lane: marketing_autopilot
-    need: reconcile stale 141-page product proof map against actual current Detective V12 180-page baseline before PRELINK D02/D04/D07 crops/scheduling
   - lane: world_app_factory
-    need: resolve draft PR35 Level18 main-branch conflict within authorized World writer, then exact-head CI
+    need: consume merged canonical World02 Level18 source in offline source-aware runtime, preserve unpublished/incomplete navigation and validate exact target head
+    evidence: "agency-agents/main@a7fb3c54b2fc878e3df9e7065558c002e928bcca; PR35 merged; Interactive Book Contract PASS"
+  - lane: detective_book_factory
+    need: consume the already-requested bounded Gold Pages12/15 visual decision when available; provide exact V12 semantic-role/physical-page proof mapping to Marketing
+  - lane: marketing_autopilot
+    need: replace stale 141-page Detective D02/D04/D07 locators using current V12 role/page truth before proof crops or scheduling
+  - lane: gentle_steps
+    need: render exact Polish R5 blob 04b4afcc438789d648ed34fa594f86ee97b02472 in the actual production book template and supply print-scale PDF/PNG evidence to Polish Localization
+  - lane: polish_localization
+    need: consume real-template R5 evidence after producer handoff, execute editorial/safety fit gate; regression guards green on branch 081d55140fb591c1a01c4c747985c890e2e13121
+  - lane: optical_animals
+    need: reconcile local exact-source Final20 bytes via its authorized writer before masks/token promotion; no unapproved visual swaps
+  - lane: unstoppable
+    need: preserve exact V2 Owner-Read candidate pending previously communicated content freeze; no premature Book Factory release
+  - lane: happy_me
+    need: preserve existing auth-dashboard, callback, Android-device, signing, Play and privacy release gates; Mobile quality #311 PASS is repository-side only
 reusable_outputs:
   - orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
   - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
   - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
-  - orchestration/brain/checkpoints/2026-10-08-central-control-tower-reconcile-0425.md
-next_safe_task: monitor delegated R5 real-template evidence handoff and marketing V12 folio reconciliation; do not duplicate lane writers or re-notify previous owner gates
-checkpoint_reference: orchestration/brain/checkpoints/2026-10-08-central-control-tower-reconcile-0425.md
+  - orchestration/brain/checkpoints/2026-10-08-central-control-tower-world18-ci-reconcile.md
+next_safe_task: verify World02 Level18 runtime handoff and exact-head CI, R5 final-template evidence, and Marketing current V12 product-proof locators; notify only on genuinely new owner action
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-08-central-control-tower-world18-ci-reconcile.md
