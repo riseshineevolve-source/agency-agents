@@ -1,12 +1,60 @@
 lane: happy_me
 title: "Happy Me 24/7"
-updated: 2026-10-07
-status: BOOTSTRAP_READY__LANE_WRITER_MUST_REFRESH
-branch_or_repo_state: VERIFY_LIVE_ON_OPEN
-milestone: control_plane_v1_registered
+updated: 2026-10-08
+status: REPOSITORY_SIDE_READY_FOR_INTERNAL_TESTING__AUTH_DEVICE_PLAY_GATES_REMAIN
+branch_or_repo_state:
+  repository: riseshineevolve-source/riseshineevolve
+  branch: codex/happy-me-production-hardening
+  branch_head: 4b6d9dd528f63eed0cc314ec981e9caed3b6a2c8
+  validated_application_source_head: 4c10cd6b597463fabc60ff9ad676ebb7317a69eb
+  writer: this_dedicated_happy_me_lane
+milestone:
+  mobile_quality:
+    run_number: 310
+    run_id: 37750143385
+    conclusion: PASS
+    web_foundation: PASS
+    production_dependency_audit: PASS
+    android_builds: PASS
+  release_artifacts:
+    debug_apk: happy-me-debug-apk
+    unsigned_release_aab: happy-me-unsigned-release-aab
+    expires: 2026-10-22
+  supabase:
+    project_id: fgmividxlwmvhlltwabd
+    status: ACTIVE_HEALTHY
+    public_tables: 8
+    rls: ENABLED_ALL_APP_TABLES
+    ownership_rule: auth.uid()_equals_user_id
+    email_auth: ENABLED
+    signup: ENABLED
+    email_autoconfirm: DISABLED
+    leaked_password_protection: DISABLED__AUTH_DASHBOARD_HARDENING_OPEN
+  closed_since_308:
+    - privacy_pricing_claims_neutralized
+    - fresh_high_production_dependency_audit_regression_closed_without_router_major_upgrade
 blocker: null
-owner_gate: null
-dependencies_needed: []
-reusable_outputs: []
-next_safe_task: read_registry_bootstrap_project_checkpoint_and_continue
-checkpoint_reference: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+owner_gate:
+  type: AUTH_DEVICE_SIGNING_PLAY_RELEASE
+  requirements:
+    - verify Supabase Site URL and exact happyme://auth/callback redirect in Auth dashboard
+    - verify email confirmation and password-recovery templates
+    - enable/review leaked-password protection in Auth dashboard
+    - complete real signup-confirmation-recovery and cold/warm native callback proof
+    - provide owner-controlled upload signing / Play App Signing and build signed AAB
+    - install through Play Internal Testing and run real Android smoke/accessibility/state/offline/account-switch checks
+    - approve final Play rasters/screenshots/privacy-support
+    - complete Families/Target Audience, Data Safety, content rating, pricing-regions and publication decisions
+dependencies_needed:
+  - external: supabase_auth_dashboard_access
+    need: Site URL, native redirect, email template and leaked-password-protection evidence
+  - external: android_device_or_emulator
+    need: no Android SDK/ADB/emulator is present on the currently authorized Desktop Commander host
+  - owner: play_upload_signing
+    need: upload key / Play App Signing credentials must remain outside Git
+reusable_outputs:
+  - "Happy Me release checkpoint #310 at HAPPY_ME_RELEASE_CHECKPOINT_310.md"
+  - "Mobile quality #310 exact-head green release baseline"
+  - "Live Supabase RLS/auth-setting evidence from 2026-10-08"
+next_safe_task: obtain Auth-dashboard evidence and real email callback proof; then signed Play Internal Testing candidate and real-device QA
+checkpoint_reference: HAPPY_ME_RELEASE_CHECKPOINT_310.md
