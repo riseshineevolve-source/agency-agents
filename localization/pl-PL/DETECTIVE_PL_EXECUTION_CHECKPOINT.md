@@ -1,5 +1,55 @@
 # Detective PL execution checkpoint
 
+## CURRENT PRODUCTION STATE — 2026-10-08
+
+Status: **FULL PL PRODUCTION AUTHORIZED / BATCH 001 STARTED**.
+
+The previous English-freeze gate is closed by explicit owner direction recorded in:
+`orchestration/control-plane/owner-decisions/2026-10-08_DETECTIVE_EN_SOURCE_FREEZE_FOR_PL.md`.
+
+Frozen source:
+- uploaded PDF: `HMDA_Book1_EN_Premium_V10_FULL_TEXT(1).pdf`
+- PDF SHA-256: `d174606bbcff1f6fabc7edd8b9364e631b935007ccbc8087563ccadb16be8f0f`
+- immutable repo baseline: `localization/pl-PL/production/detective-academy/source/ORIGINAL_BASELINE_EN_V10_2026-10-08.md`
+- repo baseline Git blob: `19df709e381445a6f5a52d7b0c1c898bd5b706be`
+- source manifest: `localization/pl-PL/production/detective-academy/SOURCE_MANIFEST_2026-10-08.yml`
+
+Owner has designated this V10 source as the final English text for Polish production. Later V11/V12 candidates do not silently override it.
+
+Current Polish working master:
+`localization/pl-PL/production/detective-academy/working/DETECTIVE_ACADEMY_PL_WORKING_MASTER_V1.md`
+
+Current translated scope:
+- system/opening pages 01–18;
+- full Case 01 reader-facing puzzle surface.
+
+Current logic proof:
+`localization/pl-PL/production/detective-academy/qa/CASE01_LOGIC_PROOF_2026-10-08.md`
+- frozen answer: KNOX at D2;
+- Polish logic parity: PASS.
+
+Current batch control:
+`localization/pl-PL/production/detective-academy/checkpoints/BATCH_001_CONTROL_2026-10-08.md`.
+
+Route remains **CROSS_LANGUAGE_NATIVE_REAUTHORING**:
+- English source owns meaning/facts/plot/chronology/puzzle truth;
+- Polish is written natively rather than sentence-by-sentence;
+- all clue operators, props, coordinates, names, callbacks, hints and solutions are logic-locked.
+
+Retained owner gates:
+- final Polish title/cover packaging;
+- legal/ISBN publication metadata;
+- final content approval;
+- physical/visual proof;
+- CONTENT_FROZEN;
+- PRINT_READY;
+- publication/release.
+
+Next safe production task:
+translate Case 02 as a mission-complete bounded batch, then validate its spatial logic and continue sequentially.
+
+---
+
 Status: **INFRASTRUCTURE READY / FULL-BOOK TRANSLATION OWNER-FROZEN**.
 Current V3 candidate, exact source receipt and new segmentation requirements are
 recorded in [the 2026-09-29 pre-freeze readiness package](DETECTIVE_PL_PREFREEZE_READINESS_2026-09-29.md).
