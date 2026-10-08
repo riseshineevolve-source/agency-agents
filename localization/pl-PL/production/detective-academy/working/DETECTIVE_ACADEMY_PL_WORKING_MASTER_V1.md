@@ -18,7 +18,7 @@ Route: **CROSS_LANGUAGE_NATIVE_REAUTHORING**
 
 ## TAJEMNICA POKOJU ZERO
 
-**KSIĘGA 1**
+**TOM 1**
 
 ### SIATKA DOWODÓW / AKTA POKOJU ZERO
 
@@ -57,7 +57,7 @@ Wszelkie prawa zastrzeżone.
 Przy tworzeniu tej książki korzystano ze wsparcia narzędzi opartych na sztucznej inteligencji.
 
 Odwiedź nas online.  
-Mamy tam dla ciebie wygodne miejsce.
+Czeka tam na ciebie wygodne miejsce.
 
 **https://rise-shine-evolve-learning-hub.com**
 
@@ -84,7 +84,7 @@ Bez nadawcy.
 
 ## Tylko jeden dziwny znak: 0.
 
-W środku znajduje się pusta legitymacja rekruta Akademii Detektywów.
+W środku znajduje się pusta legitymacja Akademii Detektywów.
 
 ### Bez imienia.  
 ### Bez kryptonimu.  
@@ -141,13 +141,13 @@ a tego śledztwa nie da się zamknąć w jedno popołudnie.**
 
 ## 30 POWIĄZANYCH SPRAW
 
-Tajemnice na tablicach zeznań, mapy i współrzędne, dowody wizualne, tajne kody, osie czasu, zadania z kolejnością zdarzeń i logiczne dedukcje.
+Zagadki z tablicami zeznań, mapy i współrzędne, dowody wizualne, tajne kody, osie czasu, układanie zdarzeń we właściwej kolejności i zagadki logiczne.
 
 ## DRUŻYNA, KTÓRA ŁĄCZY SIŁY
 
 **Happy Makers będą twoją ekipą w tym śledztwie.**
 
-Porównują tropy, kłócą się nawet z własnymi najlepszymi teoriami, zostawiają notatki ze spraw wszędzie, żartują w wyjątkowo profesjonalnych momentach i każde z nich zauważa coś innego.
+Porównują tropy, kwestionują nawet własne najlepsze teorie, zostawiają notatki ze spraw wszędzie, żartują w wyjątkowo profesjonalnych momentach i każde z nich zauważa coś innego.
 
 To akurat dobrze, bo nikt nie widzi wszystkiego.
 
@@ -294,7 +294,7 @@ Nota wizualna: **LUDZIE. TROPY. EMOCJE. WIELKIE POMYSŁY.**
 **DETEKTYW TERENOWY // TRASY I TEREN**
 
 - Zadaje to jedno dodatkowe pytanie.
-- Sprawdza róg, którego nikt nie planował sprawdzać.
+- Zagląda tam, gdzie nikt inny nie pomyślał zajrzeć.
 - Na samo przedstawienie drużyny zabrał kask.
 
 **MOCNA STRONA:**  
@@ -323,21 +323,21 @@ Nota wizualna: **STARE HISTORIE. NOWE ODPOWIEDZI.**
 
 Etykiety wizualne: **HISTORIA / ZAPISY / POMYSŁY / LUDZIE / MIEJSCA**
 
-## DALEJ: ODBIERZ SWOJĄ LEGITYMACJĘ
+## DALEJ: ODBIERZ LEGITYMACJĘ AKADEMII
 
 **Akademia może cię zaprosić. Decyzja, czy wejdziesz, należy do ciebie.**
 
 ---
 
-# STRONA 09 // ODBIERZ LEGITYMACJĘ REKRUTA
+# STRONA 09 // ODBIERZ LEGITYMACJĘ AKADEMII
 
-# ODBIERZ LEGITYMACJĘ REKRUTA
+# ODBIERZ LEGITYMACJĘ AKADEMII
 
-Jeśli wchodzisz w to śledztwo, właśnie teraz.
+Jeśli wchodzisz w to śledztwo, to właśnie ten moment.
 
 Tego nikt nie może wypełnić za ciebie.
 
-## AKADEMIA DETEKTYWÓW // LEGITYMACJA REKRUTA
+## AKADEMIA DETEKTYWÓW // LEGITYMACJA
 
 **IMIĘ W AKADEMII:** ______________________________________
 
