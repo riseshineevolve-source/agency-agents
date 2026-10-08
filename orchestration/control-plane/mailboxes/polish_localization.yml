@@ -31,3 +31,10 @@ gentle_steps:
   publication_authorized: false
 next_safe_task: audit_Detective_identity_mechanics_build_PL_codename_map_then_translate_Case02_as_mission_complete_batch_and_run_spatial_logic_native_polish_QA
 checkpoint_reference: localization/pl-PL/DETECTIVE_PL_EXECUTION_CHECKPOINT.md
+
+night_run_2026_10_08:
+  codename_authority: "localization/pl-PL/production/detective-academy/DETECTIVE_PL_CODENAME_ARCHITECTURE_V2.md"
+  codename_rule: "single Polish / Polonized modern nickname system; no mixed raw-English gamer-tag family"
+  codename_examples: ["ISKRA","RYSA","MIGA","SMUGA","BRYZA","ZEFIR","ZRYW","MIGOT","SKRA","RUNA","KIKS","FUKS","PIKSEL","GLICZ","SKRÓT"]
+  automation: "Detective PL Overnight; hourly; 10 overnight runs from 00:20 Europe/Warsaw"
+  next_safe_task: "full 30-case identity/codename mechanics audit plus sequential Case 02+ native PL production and logic QA"
