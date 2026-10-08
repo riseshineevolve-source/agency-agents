@@ -135,7 +135,7 @@ Rules:
 Use names as primary identity and a gamer-style codename as a secondary Academy badge.
 
 - **MIMI // PATCH** — takes a messy situation and turns it into the next workable step.
-- **LULI // GLITCH** — spots the thing that does not fit, the contradiction, the broken assumption.
+- **LULI // TRACE** — follows the evidence trail and spots where a claim stops matching the facts.
 - **DILO // PING** — signals, tests, tech and the need to check whether something actually responds.
 - **NINI // PIXEL** — notices the tiny human detail everyone else skipped.
 - **ALIO // SHIFT** — alternate routes, movement, changing angle and trying another path.
@@ -164,13 +164,13 @@ The child may invent any codename. It does not need to come from the book's witn
 
 ### Dialogue B — the acronym problem
 
-- **ALIO:** Mam pełny kryptonim. **Prawie Ujawniony Profesjonalny Agent.**
+- **ALIO:** Mam pełny kryptonim: **Perfekcyjnie Ukryty Profesjonalny Agent.**
 - **LULI:** Nie.
 - **ALIO:** To może chociaż skrót?
 - **LULI:** Alio... wiesz, jaki z tego będzie skrót?
 - **ALIO:** Jasne. P... U... P...
-- **ALIO:** ...aha.
-- **DILO:** Doskonały kryptonim. Wróg zapamięta go na zawsze.
+- **ALIO:** ...o nie.
+- **DILO:** Za późno. Już wszyscy zapamiętali.
 
 Use once, where it does not interrupt puzzle logic.
 
