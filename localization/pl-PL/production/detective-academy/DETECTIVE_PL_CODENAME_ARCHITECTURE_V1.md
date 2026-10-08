@@ -36,53 +36,64 @@ Do not force spy vocabulary onto every page. Use it when it improves the Academy
 
 ## Codename family
 
-The main family draws from things that are:
-- hidden;
-- partial;
-- barely visible;
-- connected;
-- transmitted;
-- interrupted;
-- opened;
-- noticed only after a second look.
+The Polish Academy codename family should feel closer to a **modern gamer tag / handle** than to a classic spy novel.
 
-### Tier A — strongest / distinctive
+Current style rules:
+- usually 3–8 characters;
+- one clean word;
+- easy to read aloud in Polish;
+- easy to display on a badge, map or comms card;
+- no random number strings;
+- no `xX_..._Xx`, decorative symbols or heavy leetspeak;
+- avoid tired spy/fantasy defaults such as `Shadow`, `Wolf`, `Dragon`, `Sokół`, `Lis`, `Orzeł`;
+- prefer digital/system/game language, movement, signal and clean coined handles;
+- a tag may be English/international if a Polish 8–12 reader can pronounce and remember it immediately.
 
-- **SPLOT**
-- **RYSA**
-- **SZMER**
-- **SKRYTKA**
-- **PRZEŚWIT**
-- **WĘZEŁ**
-- **IMPULS**
-- **ZYGZAK**
-- **FURTKA**
-- **ODBICIE**
-- **NAWIAS**
-- **KLAMRA**
-- **PRZESKOK**
-- **AZYMUT**
-- **SMUGA**
-- **ZAKŁÓCENIE**
-- **OKRUCH**
-- **ZAWIAS**
-- **NITKA**
-- **PUNKT**
+### Tier A — modern Academy tags
 
-### Tier B — usable when a larger bank is required
+- **PATCH**
+- **GLITCH**
+- **PING**
+- **CACHE**
+- **PIXEL**
+- **LOOP**
+- **SHIFT**
+- **BLINK**
+- **FLUX**
+- **RIFT**
+- **SYNC**
+- **HEX**
+- **PROXY**
+- **NEON**
+- **BYTE**
+- **DRIFT**
 
-- **PRZEBŁYSK**
-- **SZCZELINA**
-- **ZWROT**
-- **SYGNAŁ**
-- **WEKTOR**
-- **PIK**
-- **MIGOT**
-- **RAMA**
-- **ŚWIST**
-- **ŚCIEG**
-- **ODPRYSK**
-- **KRESKA**
+### Tier B — strong alternates
+
+- **NEX**
+- **VEX**
+- **NOX**
+- **ZED**
+- **KODA**
+- **PULSE**
+- **TRACE**
+- **FRAME**
+- **QUEST**
+- **NODE**
+- **SPARK**
+- **MUTE**
+- **WARP**
+- **LINK**
+- **ECHO**
+- **VOID**
+
+### Avoid as default
+
+- classic animal-agent names unless a specific joke needs one;
+- generic `CIEŃ / SOKÓŁ / LIS / WILK / ORZEŁ`;
+- names that sound like fantasy classes rather than game handles;
+- tags whose spelling is difficult for a Polish child to decode;
+- tags that need symbols/numbers to feel modern.
 
 ## Naming principles
 
@@ -121,14 +132,16 @@ Rules:
 
 ### Provisional Happy Makers codename family
 
-- **MIMI // WĘZEŁ** — pulls a muddle into the next useful step.
-- **LULI // RYSA** — notices where a story, claim or record does not quite hold.
-- **DILO // IMPULS** — numbers, machines, signals, experiments.
-- **NINI // SZMER** — notices quiet human details others miss.
-- **ALIO // PRZESKOK** — alternate routes, unexpected corners, movement.
-- **BIBI // NAWIAS** — old context that looks secondary until it changes the whole reading.
+Use names as primary identity and a gamer-style codename as a secondary Academy badge.
 
-These six remain **PROVISIONAL** until full-book voice review. The architecture is approved; individual Happy Makers aliases can still be improved without changing case logic.
+- **MIMI // PATCH** — takes a messy situation and turns it into the next workable step.
+- **LULI // GLITCH** — spots the thing that does not fit, the contradiction, the broken assumption.
+- **DILO // PING** — signals, tests, tech and the need to check whether something actually responds.
+- **NINI // PIXEL** — notices the tiny human detail everyone else skipped.
+- **ALIO // SHIFT** — alternate routes, movement, changing angle and trying another path.
+- **BIBI // CACHE** — old records, stored context and information that becomes useful later.
+
+These six remain **PROVISIONAL** until full-book voice review. The architecture is approved; individual Happy Makers tags may still be improved without changing case logic.
 
 ## Credential copy
 
@@ -149,13 +162,15 @@ The child may invent any codename. It does not need to come from the book's witn
 - **DILO:** A wersję testową?
 - **LULI:** Przestaję odpowiadać.
 
-### Dialogue B — P.U.P.A.
+### Dialogue B — the acronym problem
 
-- **ALIO:** Mam kryptonim operacyjny: **Prawie Ujawniony Profesjonalny Agent**.
-- **LULI:** Alio. To daje **P.U.P.A.**
-- **ALIO:** Wiem. Nikt tego nie zapomni.
-- **DILO:** Z punktu widzenia zapamiętywalności: wybitne.
-- **LULI:** Z punktu widzenia Akademii: odrzucone.
+- **ALIO:** Mam pełny kryptonim. **Prawie Ujawniony Profesjonalny Agent.**
+- **LULI:** Nie.
+- **ALIO:** To może chociaż skrót?
+- **LULI:** Alio... wiesz, jaki z tego będzie skrót?
+- **ALIO:** Jasne. P... U... P...
+- **ALIO:** ...aha.
+- **DILO:** Doskonały kryptonim. Wróg zapamięta go na zawsze.
 
 Use once, where it does not interrupt puzzle logic.
 
