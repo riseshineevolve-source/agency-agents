@@ -1,39 +1,34 @@
 lane: polish_localization
 title: "Polish Localization Engine"
 updated: 2026-10-08
-status: GENTLE_STEPS_PL_R5_FIT_GUARDS_IN_CI__WAITING_FOR_REAL_TEMPLATE_EVIDENCE
-branch_or_repo_state: "codex/polish-engine-main-reconcile; implementation commit 91e876d5739519886a7cfdb7eae17222d3f84ade validated by Polish Localization Regression #401; checkpoint commit bf55ecb0f3f08411241383c49d81ced3f54e41b3"
-milestone: gentle_steps_pl_r5_exact_source_fit_guards_now_required_in_ci
-blocker: exact_r5_real_template_render_evidence_not_yet_returned
-owner_gate: "after exact-source-bound fit + editorial/safety PASS: owner visual approval + explicit content-freeze decision"
+status: GENTLE_STEPS_PL_R6_OWNER_PACKAGING_LOCKED__R6_RENDER_CONTRACT_REFRESH_NEEDED
+branch_or_repo_state: "codex/polish-engine-main-reconcile; PL owner subtitle decision saved and exact R6 packaging candidate created"
+milestone: gentle_steps_pl_r6_owner_packaging_candidate_created
+blocker: r5_render_contracts_are_historical__r6_hash_bound_render_contract_refresh_required
+owner_gate: "after exact-source-bound R6 fit + editorial/safety PASS: owner visual approval + explicit content-freeze decision"
 dependencies_needed:
   - lane: gentle_steps
-    need: "Render exact PL R5 blob 04b4afcc438789d648ed34fa594f86ee97b02472 in the real final book template and return full PDF plus required print-scale surface evidence; do not rewrite PL body copy or shrink readability to force fit."
+    need: "Use exact PL R6 blob 896cf92bf6ed126ef62e623fd9cac640270e853f for the next real final-template render. Do not render historical R5 as the current final package. Return full PDF plus required print-scale surface evidence; do not rewrite PL body copy or shrink readability to force fit."
 reusable_outputs:
   - "PL R4 final content blob 6a0fbafa1b0fdc1f102c456cd45301d4eef275c2"
-  - "PL R5 packaging blob 04b4afcc438789d648ed34fa594f86ee97b02472"
-  - "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R5_PRODUCTION_TEMPLATE_FIT_REQUEST_2026-10-07.json"
-  - "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R5_FINAL_EDITORIAL_SAFETY_PROOF_CONTRACT_2026-10-07.json"
-  - "scripts/create-gentle-steps-r5-evidence-draft.py"
-  - "scripts/validate-gentle-steps-r5-fit-evidence.py"
-  - "scripts/test-localization-gentle-steps-r5-fit.py"
-  - "Polish Localization Regression #401 includes and passed the Gentle Steps PL R5 exact-source fit evidence guard step"
-  - "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/CHECKPOINT_2026-10-08_R5_FIT_GUARDS_IN_CI.md"
+  - "historical PL R5 packaging blob 04b4afcc438789d648ed34fa594f86ee97b02472"
+  - "current PL R6 packaging blob 896cf92bf6ed126ef62e623fd9cac640270e853f"
+  - "R6 body after front-matter separator is exact-equal to R5"
+  - "current title: ŚWIĘTA SĄ TEŻ PO DRODZE"
+  - "current subtitle: Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem."
+  - "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_SUBTITLE_OWNER_DECISION_2026-10-08.md"
+  - "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md"
+  - "R5 fit guard CI remains reusable architecture but must be rebound to exact R6 source before final proof"
 freshness:
-  main_behind_commits_at_slice_start: 20
-  localization_owned_overlap: 0
   reconcile_needed: false
-  note: "No blind merge; current blocker is consumer render evidence, not source divergence."
+  note: "No main merge performed; packaging-only owner decision applied surgically."
 ci:
-  implementation_head: "91e876d5739519886a7cfdb7eae17222d3f84ade"
-  polish_localization_regression_run: 401
-  polish_localization_regression: success
-  r5_fit_guard_step: success
-  checkpoint_head_ci: pending_after_checkpoint_mailbox_write
+  last_verified_r5_fit_guard_workflow: "Polish Localization Regression #401 SUCCESS"
+  r6_ci_state: "not yet rebound; next bounded factory task"
 detective_pl:
   status: PREFREEZE_INFRASTRUCTURE_ONLY
   full_production_started: false
   gate: explicit_Detective_EN_freeze
   en_current_state: NOT_FROZEN
-next_safe_task: consume_exact_r5_template_fit_evidence_then_execute_final_editorial_safety_proof_contract
-checkpoint_reference: localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/CHECKPOINT_2026-10-08_R5_FIT_GUARDS_IN_CI.md
+next_safe_task: rebind_exact_source_fit_evidence_tooling_and_contracts_from_historical_r5_to_current_r6_then_render_r6
+checkpoint_reference: localization/pl-PL/production/gentle-steps/book-versions/v3/V03_SUBTITLE_OWNER_DECISION_2026-10-08.md
