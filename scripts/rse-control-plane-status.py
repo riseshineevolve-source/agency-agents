@@ -84,11 +84,39 @@ def attention_dedupe_key(
     return f"rse-wf02-v1:{lane_id}:{hashlib.sha256(encoded).hexdigest()[:24]}"
 
 
+def validated_mailbox_paths(chats: dict[str, Any]) -> dict[str, Path]:
+    """Fail closed unless all 11 registry entries have distinct, canonical mailbox paths."""
+    if len(chats) != 11:
+        raise ValueError(f"WF-02 requires exactly 11 registry lanes; got {len(chats)}")
+
+    paths: dict[str, Path] = {}
+    for lane_id, spec in chats.items():
+        if not isinstance(lane_id, str) or not lane_id:
+            raise ValueError(f"WF-02 invalid lane identifier: {lane_id!r}")
+        if not isinstance(spec, dict):
+            raise ValueError(f"WF-02 registry lane {lane_id!r} is not a mapping")
+        expected = f"orchestration/control-plane/mailboxes/{lane_id}.yml"
+        if spec.get("mailbox") != expected:
+            raise ValueError(
+                f"WF-02 unsafe or noncanonical mailbox for {lane_id}: "
+                f"{spec.get('mailbox')!r}; expected {expected!r}"
+            )
+        mailbox = ROOT / expected
+        if not mailbox.resolve().is_relative_to(MAILBOXES.resolve()):
+            raise ValueError(f"WF-02 mailbox escapes root: {lane_id}")
+        paths[lane_id] = mailbox
+
+    if len(set(paths.values())) != 11:
+        raise ValueError("WF-02 mailbox paths must be unique")
+    return paths
+
+
 def collect() -> dict[str, Any]:
     registry = load_yaml(REGISTRY)
     chats = registry.get("chats")
     if not isinstance(chats, dict) or not chats:
         raise ValueError("chat registry has no chats")
+    mailbox_paths = validated_mailbox_paths(chats)
 
     lanes: list[dict[str, Any]] = []
     errors: list[str] = []
@@ -101,7 +129,7 @@ def collect() -> dict[str, Any]:
         if not mailbox_rel:
             errors.append(f"{lane_id}: missing mailbox path")
             continue
-        mailbox = ROOT / str(mailbox_rel)
+        mailbox = mailbox_paths[lane_id]
         if not mailbox.exists():
             errors.append(f"{lane_id}: mailbox missing: {mailbox_rel}")
             continue
