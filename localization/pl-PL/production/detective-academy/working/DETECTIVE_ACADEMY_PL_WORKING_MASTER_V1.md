@@ -398,3 +398,281 @@ Użyj odpowiedzi przygotowanej dla tej sprawy: zakreśl, zaznacz, uporządkuj, w
 Tylko niektóre sprawy wysyłają coś na Tablicę Śledczą. Kiedy książka mówi **„TABLICA ŚLEDCZA → STRONA 13”**, przepisz tam wskazany element. W pozostałych przypadkach werdykt zostaje na stronie sprawy.
 
 > Internal recurrence note: `TABLICA ŚLEDCZA` is the current working transcreation of `Case Wall` and must be validated across all callbacks before lock.
+
+
+---
+
+# STRONA 11 // SPRAWY Z MAPĄ — PRZECZYTAJ RAZ
+
+# SPRAWY Z MAPĄ
+
+## PRZECZYTAJ RAZ
+
+W części spraw użyjesz siatki planu Akademii, żeby odtworzyć, gdzie znajdowali się poszczególni świadkowie.
+
+Te zasady wystarczy przeczytać raz. Późniejsze sprawy z mapą będą podawały tylko informacje potrzebne w danym śledztwie.
+
+## 1 // JAK CZYTAĆ WSPÓŁRZĘDNE
+
+Litery oznaczają kolumny.  
+Liczby oznaczają rzędy.
+
+**D3 = kolumna D, rząd 3.**
+
+Zawsze korzystaj z jednego układu współrzędnych: oznaczeń wydrukowanych przy siatce, którą właśnie rozwiązujesz.
+
+## 2 // STANDARDOWE ZASADY SPRAW Z MAPĄ
+
+1. Każdego świadka umieść dokładnie raz.
+2. Każdy świadek kończy w innym rzędzie i innej kolumnie.
+3. Korzystaj wyłącznie z wydrukowanych zeznań i widocznych elementów mapy.
+4. Jeśli sprawa każe znaleźć osobę znajdującą się w tym samym pokoju lub obszarze, jest to trop do następnej rozmowy, a nie automatycznie osoba winna.
+5. Zachowaj na mapie wszystkie końcowe pozycje świadków. Nie wymazuj ich po wpisaniu werdyktu.
+
+## 3 // LEGENDA MAPY
+
+**POLE DOSTĘPNE = ○**  
+Małe **puste kółko** w rogu pola oznacza, że osoba może tam stanąć.
+
+**OBIEKT BLOKUJĄCY = ●**  
+Małe **pełne kółko** w rogu oznacza, że pole zajmuje stały obiekt i nie może tam stanąć osoba.
+
+**ŚCIANA = GRUBA CZARNA LINIA**
+
+**PRZEJŚCIE = WYRAŹNA PRZERWA W ŚCIANIE**  
+Przejście pokazuje przerwana ściana, która biegnie dalej po drugiej stronie otworu. Nie jest osobnym wypełnionym polem.
+
+**POKÓJ / STREFA:** nazwane obszary na mapie. Jeśli zasada mówi konkretnie **POKÓJ**, STREFA się nie liczy.
+
+**Nie oceniaj, czy pole jest dostępne, na podstawie koloru jego tła. Patrz na znacznik w rogu i na ściany.**
+
+---
+
+# STRONA 12 // DALEJ: TABLICA ŚLEDCZA + SEJF PODPOWIEDZI
+
+# DALEJ:
+# TWOJA TABLICA ŚLEDCZA + SEJF PODPOWIEDZI
+
+**NA NASTĘPNEJ STRONIE JEST TWOJA TABLICA ŚLEDCZA. TAK Z NIEJ KORZYSTASZ:**
+
+## 1 // ZNAJDŹ STRONĘ
+
+**TABLICA ŚLEDCZA → STRONA 13**
+
+Przejdź na następną stronę.
+
+## 2 // PRZEPISZ WSKAZANY ELEMENT
+
+Kiedy książka ci to zleci, przepisz właściwy element w odpowiednie miejsce na tablicy.
+
+## 3 // ŁĄCZ TROPY
+
+Później użyjesz zapisanych elementów, żeby dostrzec powiązania i odpowiedzieć na większe pytania.
+
+## HAPPY MAKERS // NA ŁĄCZU
+
+- **DILO:** Czyli na Tablicy Śledczej zostają rzeczy, które naprawdę mają znaczenie.
+- **LULI:** Te, które mają znaczenie. Nie każda rzecz, która wpadła ci w oko.
+- **ALIO:** Właśnie miałem zapisać trzy świetne teorie.
+- **BIBI:** Zapisuj dowody. Teorie mogą później zapracować na miejsce na półce.
+- **NINI:** I to jest fajne. Coś małego teraz może stać się oczywiste dopiero dużo później.
+- **MIMI:** Jedna tablica i tak wygrywa z trzydziestoma siedmioma otwartymi kartami i baterią na dwóch procentach. Nie pytajcie, skąd wiem.
+
+## SEJF PODPOWIEDZI + ROZWIĄZANIA
+
+**Utknęło? Zajrzyj do Sejfu Podpowiedzi na końcu książki.**
+
+### POZIOM 1 // NA CO SPOJRZEĆ
+Małe naprowadzenie.
+
+### POZIOM 2 // GDZIE SZUKAĆ
+Zawęża obszar poszukiwań.
+
+### POZIOM 3 // MOCNIEJSZY TROP
+Wyraźniejsza wskazówka.
+
+### ROZWIĄZANIA
+Pełne odpowiedzi znajdziesz na końcu książki.
+
+---
+
+# STRONA 13 // TABLICA ŚLEDCZA / STREFY ZAPISU
+
+# TABLICA ŚLEDCZA // STREFY ZAPISU
+
+Przepisuj tu tylko to, co książka wyraźnie każe zachować. Pisz czytelnie. Pilnuj porządku.
+
+## POWTARZAJĄCE SIĘ ZNAKI
+
+[Miejsce do pisania]
+
+## WIADOMOŚCI / ZASADY
+
+[Miejsce do pisania]
+
+## KODY / WSPÓŁRZĘDNE
+
+[Miejsce do pisania]
+
+## OTWARTE PYTANIA
+
+[Miejsce do pisania]
+
+**Nie każda sprawa wysyła coś na tę tablicę. Zachowuj tylko to, co książka każe zapisać.**
+
+---
+
+# STRONA 14 // 30 AKTYWNYCH SPRAW
+
+# 30 AKTYWNYCH SPRAW
+
+## PRAWDZIWE TAJEMNICE. BYSTRE GŁOWY. TERAZ TY.
+
+01 — KOPERTA, KTÓRA POJAWIŁA SIĘ, ZANIM DOTARŁA POCZTA  
+02 — PUCHAR, KTÓRY WRÓCIŁ ZA WCZEŚNIE  
+03 — AKTA LULI: SPÓJRZ JESZCZE RAZ  
+04 — SKRZYNKA Z DOWODAMI W ZŁYM NAMIOCIE  
+05 — KOD DILO, KTÓRY NA PEWNO NIE BYŁ 123456  
+06 — SMOCZY ZĄB, KTÓRY TAK NAPRAWDĘ BYŁ ŁYŻKĄ  
+07 — KOSTIUM, KTÓRY SOBIE POSZEDŁ  
+08 — ABSOLUTNIE BEZPIECZNY SKRÓT ALIO  
+09 — SYMBOL, KTÓREGO NIE POWINNO TU BYĆ  
+10 — ROBOT Z DWOMA WŁAŚCICIELAMI  
+11 — MIMI I PROBLEM Z TORBĄ DOWODOWĄ  
+12 — PAPUGA, KTÓRA ZNAŁA HASŁO  
+13 — KAMERA, KTÓRA MRUGNĘŁA O 4:17  
+14 — JEDEN ZE ŚWIADKÓW JAKIMŚ CUDEM NIE MOŻE TU BYĆ  
+15 — PLECAK, KTÓRY ZMIENIŁ WŁAŚCICIELA  
+16 — BARDZO STARE ZDJĘCIE BABCI BIBI, KTÓRE WOLAŁABY UKRYĆ  
+17 — BILET NA POCIĄG, KTÓRY WCALE NIE ZGINĄŁ  
+18 — SIEDMIOMINUTOWE ALIBI  
+19 — KSIĄŻKA Z BIBLIOTEKI, KTÓRA SAMA SIĘ WYPOŻYCZYŁA  
+20 — ALIBI W PLAMACH FARBY  
+21 — NOTATKA W CZTERECH KAWAŁKACH  
+22 — ZAMIESZANIE W SALI MUZYCZNEJ  
+23 — PODMIANA OPASEK W PARKU PRZYGÓD  
+24 — ŚLADY STÓP, KTÓRE PROWADZIŁY WSTECZ  
+25 — PACZKA BEZ IMIENIA  
+26 — SPRAWA PUSTYCH POKOI  
+27 — NA MAPIE BIBI JEST POKÓJ BEZ ANI JEDNYCH DRZWI  
+28 — ZASADA ZERO  
+29 — MAPA POD MAPĄ  
+30 — TAJEMNICA POKOJU ZERO
+
+**Tu nie ma odpowiedzi. Są tylko drzwi.**
+
+**Przewróć stronę. Sprawa 01 już czeka.**
+
+> Internal title note: case-title wording remains editable during whole-book native review; puzzle mechanics and case identities are locked.
+
+---
+
+# STRONA 15 // COŚ SIĘ NIE ZGADZA
+
+# COŚ SIĘ NIE ZGADZA
+
+**AKTA SĄ PRAWDZIWE.  
+DRUŻYNA JEST GOTOWA.  
+A COŚ JUŻ SIĘ NIE ZGADZA.**
+
+**CZAS NA TWÓJ PIERWSZY WERDYKT.**
+
+---
+
+# STRONA 16 // WPROWADZENIE DO SPRAWY 01
+
+# KOPERTA, KTÓRA POJAWIŁA SIĘ, ZANIM DOTARŁA POCZTA
+
+**SPRAWA 01 // SZKOLENIE // MISJA W TOKU**
+
+## AKTA SPRAWY // CO SIĘ STAŁO?
+
+**NOTATKA SZKOLENIOWA:** Ta pierwsza siatka uczy metody pracy z mapami Akademii. W późniejszych sprawach mapowych logika pozostanie ta sama, ale oczywiste punkty startowe będą pojawiały się rzadziej.
+
+Ledwo podpisujesz legitymację Akademii, a Mimi już przesuwa po stole śledczym akta czarnej koperty z powrotem w twoją stronę.
+
+Dziennik drukarki daje jeden pewny fakt: koperta pochodziła z **wewnętrznego zapasu Akademii**. Bez kuriera. Bez dostawy z zewnątrz.
+
+Dokładnie w tej minucie w strefie przyjęć znajdowało się czworo pomocników odwiedzających Akademię. Dziwne **0** może poczekać. Najpierw ustalmy to, co zapis potrafi udowodnić bez żadnych domysłów: **kto stał w strefie DOSTAWY, gdy pojawiła się koperta.**
+
+## TWOJE ZADANIE
+
+**USTAL**, kto znajdował się w strefie DOSTAWY, gdy pojawiła się czarna koperta, i zapisz właściwe pole.
+
+## ZASADY ŚLEDZTWA
+
+- Umieść każdego pomocnika dokładnie raz na siatce 4x4 strefy przyjęć.
+- Każdy pomocnik musi znaleźć się w innym rzędzie i innej kolumnie.
+- Zacznij od dokładnego położenia. Potem połącz wskazówki dotyczące rzędów, kolumn i położenia względnego. Eliminacji użyj na końcu.
+
+## HAPPY MAKERS // NA ŁĄCZU
+
+1. **MIMI:** Wewnętrzny zapas. Dobrze. Zaczynamy od tego, co możemy udowodnić.
+2. **ALIO:** Albo sprawdzamy moją wiodącą teorię: tajny tunel i dostawa minivanem. Bardzo wydajne. Bardzo podejrzane.
+3. **LULI:** Tunel, minivan i zero dowodów. Imponujący początek, Alio.
+4. **NINI:** Odłóżmy minivana na chwilę i najpierw trzymajmy się faktów.
+5. **DILO:** Zgoda. Jeśli tunel pojawi się później, z przyjemnością podniosę tę teorię do rangi oficjalnej.
+
+---
+
+# STRONA 17 // SPRAWA 01 — TABLICA ZEZNAŃ
+
+# SPRAWA 01 // SIATKA STREFY PRZYJĘĆ
+
+**LISTA POMOCNIKÓW // QUILL / PIP / MORSE / KNOX**
+
+## TABLICA ZEZNAŃ // ZEZNANIA ŚWIADKÓW
+
+**□ TROP 01**  
+QUILL znajduje się w rzędzie 1, w kolumnie B.
+
+**□ TROP 02**  
+PIP znajduje się w rzędzie 3.
+
+**□ TROP 03**  
+MORSE znajduje się w kolumnie C.
+
+**□ TROP 04**  
+Każdy pomocnik zajmuje inny rząd i inną kolumnę.
+
+**□ TROP 05**  
+PIP znajduje się gdzieś na lewo od QUILL.
+
+**□ TROP 06**  
+MORSE znajduje się w niższym rzędzie niż KNOX.
+
+## NOTATKI Z DEDUKCJI
+
+[Miejsce do pisania]
+
+---
+
+# STRONA 18 // SPRAWA 01 — MAPA ŚLEDZTWA + WERDYKT
+
+# SPRAWA 01 // SIATKA STREFY PRZYJĘĆ
+
+**LISTA POMOCNIKÓW // QUILL / PIP / MORSE / KNOX**
+
+Siatka: kolumny **A / B / C / D**, rzędy **1 / 2 / 3 / 4**.
+
+Nazwane obszary:
+- **ARCHIWUM**
+- **BIBLIOTEKA**
+- **WARSZTAT**
+- **DOSTAWY**
+
+## LEGENDA MAPY
+
+**○ = POLE DOSTĘPNE**  
+**● = OBIEKT BLOKUJĄCY**  
+**GRUBA CZARNA LINIA = ŚCIANA**  
+**PRZERWA W ŚCIANIE = PRZEJŚCIE**
+
+Kolor tła pola **nie** decyduje o tym, czy można na nim stanąć.
+
+## TWÓJ WERDYKT
+
+**OSOBA / ŚWIADEK:** _________________________________
+
+**WSPÓŁRZĘDNA:** ______________________________________
+
