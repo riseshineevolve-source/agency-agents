@@ -309,3 +309,10 @@ Polish Detective Academy is ready only when:
 - all 15 spatial cases still solve identically,
 - final bilingual QA = PASS,
 - KDP PDF preflight = PASS.
+
+
+## Polish operational codenames
+
+The current Polish-only codename system is defined in
+[DETECTIVE_PL_CODENAME_ARCHITECTURE_V1.md](production/detective-academy/DETECTIVE_PL_CODENAME_ARCHITECTURE_V1.md).
+Secondary case people may receive Polish operational codenames only after a full identity/logic audit. Happy Makers retain their names as primary identity; any codename is a secondary Academy badge only.
