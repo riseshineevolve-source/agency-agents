@@ -1,8 +1,10 @@
 # Detective Academy PL — Codename Architecture V1
 
 Date: 2026-10-08
-Status: **OWNER-DIRECTION / SYSTEM LOCKED, PERSON MAP PENDING LOGIC AUDIT**
+Status: **SUPERSEDED BY V2 — HISTORICAL ONLY**
 Locale: pl-PL
+
+Current authority: `DETECTIVE_PL_CODENAME_ARCHITECTURE_V2.md`.
 
 ## Goal
 
