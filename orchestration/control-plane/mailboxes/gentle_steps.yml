@@ -1,11 +1,11 @@
 lane: gentle_steps
 title: "Gentle Steps / Before Christmas Slips By"
 updated: 2026-10-07
-status: REPOSITORY_SIDE_READY_FOR_INTERNAL_TESTING__REAL_DEVICE_AND_STORE_GATES_REMAIN
+status: PL_APP_BUILD_IN_PROGRESS__LOCKED_R6_CONTENT_PACK_INGESTED
 branch_or_repo_state:
   repository: riseshineevolve-source/RISE.SHINE.EVOLVE
   branch: gentle-steps/app-en-full24-purple-gold
-  exact_green_head: d62eb1ff3a4a539efb73fea09e8cba6d412e6c7e
+  exact_green_head: 24bae7e
   writer: this_dedicated_gentle_steps_lane
 milestone:
   en_app:
@@ -64,5 +64,5 @@ reusable_outputs:
   - "Exact recovered approved splash source and deterministic Android integration"
   - "Green EN V2 app/browser/offline/accessibility contract at d62eb1f"
   - "Green Android SDK 36 lint/build with debug APK and unsigned AAB"
-next_safe_task: owner_real_device_smoke_or_store_configuration; parallel_safe_pl_task_is_exact_r5_template_fit_without_copy_rewrite
-checkpoint_reference: d62eb1ff3a4a539efb73fea09e8cba6d412e6c7e
+next_safe_task: integrate PL locale into shared runtime, service worker and Android shell; run bilingual Playwright/CI; continue until real owner visual/store gate
+checkpoint_reference: 24bae7e
