@@ -1,204 +1,124 @@
 # Detective Academy PL — Codename Architecture V2
 
 Date: 2026-10-08
-Status: **OWNER-DIRECTION / ACTIVE FOR PL PRODUCTION**
+Status: **OWNER-DIRECTION / POLISH CODENAME SYSTEM LOCKED / PERSON MAP PENDING FULL LOGIC AUDIT**
 Locale: pl-PL
-Supersedes: `DETECTIVE_PL_CODENAME_ARCHITECTURE_V1.md`
 
-## Owner direction
+## Owner correction
 
-Polish codenames must sit at the intersection of:
-- modern gamer usernames / handles;
-- Polish scout / field-call-sign culture;
-- spy / detective atmosphere;
-- nickname-like forms that can behave naturally in prose.
+The Polish edition must NOT use a mixed system in which some people have raw English gamer tags while others have Polish scout/operational codenames.
 
-Do **not** make the whole system English.
-Do **not** make the whole system a list of objects.
-Do **not** fall back to stock spy-book names such as `Sokół / Lis / Orzeł / Cień`.
+The reader-facing system is one coherent Polish system:
 
-The target should feel like names children could plausibly choose for themselves in an Academy, game lobby or team chat.
+**POLSKIE / SPOLSZCZONE NOWOCZESNE KSYWKI OPERACYJNE**
 
-## Reader-facing system
+They should feel like names children could plausibly choose as usernames, game nicknames or camp/scout call signs — modern, short, memorable and natural when spoken aloud.
 
-Use:
+## Core rules
 
-**KRYPTONIM OPERACYJNY**
+1. Reader-facing codenames are Polish words, Polish-rooted coined nicknames or fully Polonized gaming terms already natural in Polish.
+2. No raw English family such as `PATCH / TRACE / SHIFT / CACHE / RIFT`.
+3. A minority may be digital/gaming words such as `PIKSEL`, `GLICZ`, `KIKS`, `SKRÓT`, but the whole bank must not sound like a list of computer objects.
+4. Most should work naturally as a **ksywka**:
+   - `Iskra była...`
+   - `Rysa zauważyła...`
+   - `Zefir był...`
+   - `Miga stała...`
+5. The overall feeling combines:
+   - modern Polish gaming nick;
+   - Polish camp/scout nickname culture;
+   - operational/detective atmosphere;
+   without splitting into separate naming families.
+6. Keep names short, normally 4–9 characters and easy to say on comms.
+7. Avoid stock spy clichés: `Sokół`, `Lis`, `Orzeł`, `Wilk`, `Cień` as the default system.
+8. Avoid random digits, leetspeak and decorative symbols.
+9. Codename choice must remain logic-neutral. Never reveal guilt, location or role.
+10. Immutable case/person IDs remain the logic authority. Polish codename is only a display identity.
 
-On dossier / clue cards:
-- **KRYPTONIM**
-- **SIATKA KONTAKTÓW**
-- **KONTAKT**
+## Master candidate bank
 
-The child credential keeps:
+### Strongest nickname-like candidates
 
-**TWÓJ KRYPTONIM OPERACYJNY: ______________________________**
+- **ISKRA**
+- **RYSA**
+- **MIGA**
+- **SMUGA**
+- **BRYZA**
+- **ZEFIR**
+- **ZRYW**
+- **MIGOT**
+- **SKRA**
+- **RUNA**
+- **KIKS**
+- **FUKS**
+- **BŁYSK**
+- **SZMER**
+- **FINTA**
+- **KRESKA**
+- **KROPKA**
+- **NITKA**
+- **ZYGZAK**
+- **PSTRYK**
 
-## Naming architecture
-
-The full bank deliberately mixes three families.
-
-### A. Nickname-like / username-like
-
-These should sound almost like names and work naturally inside a sentence:
-
-- **KODA**
-- **RUNI**
-- **LUMO**
-- **ZEFI**
-- **TAVI**
-- **RIKO**
-- **NERI**
-- **MAVI**
-- **KIRO**
-- **SAVI**
-- **NOXI**
-- **VEXA**
-- **NEXO**
-- **KIVI**
-- **RILO**
-- **PIKSI**
-- **MIGI**
-- **LUMA**
-
-Use these when a case contains a lot of narrative prose and an object-like tag would sound stiff.
-
-### B. Modern Polish gamer-tags
-
-Use sparingly but visibly so the Academy has contemporary digital energy:
+### Modern gaming / operational candidates that still work as Polish ksywki
 
 - **PIKSEL**
 - **GLICZ**
-- **PING**
-- **KLIK**
-- **RESET**
-- **KURSOR**
-- **PĘTLA**
 - **SKRÓT**
-- **KIKS**
-- **MIGOT**
-
-These are intentionally readable in Polish and should not be mechanically translated back to English.
-
-### C. Field / scout / operational tags
-
-These carry the outdoor-investigation / Academy layer without relying on stale animal codenames:
-
-- **AZYMUT**
 - **ZWIAD**
-- **RYSA**
+- **AZYMut** -> display as **AZYMUT**
 - **SPLOT**
 - **TROP**
-- **ISKRA**
-- **ECHO**
 - **SZLAK**
-- **PUNKT**
+- **BAZA**
+- **KADR**
+- **PION**
 - **ZWROT**
+- **ŚWIST**
+- **FALA**
+- **ZNAK**
 
-Use fewer of these than the nickname-like family so the book does not sound like a list of nouns.
+## Selection balance
 
-## Balance rule
+Across the full book:
+- majority = nickname-like forms that can carry normal Polish prose;
+- smaller number = gaming/operational words for flavor;
+- do not place several object-like/technical codenames together in one witness roster unless the scene intentionally calls for it.
 
-Across the whole book, aim approximately for:
-- 50% nickname-like handles;
-- 25% modern gamer-tags;
-- 25% field / scout / operational tags.
+A witness list should read like a believable group of nicknames, not a glossary.
 
-No single case should contain six names from the same family.
+Example target texture:
+**ISKRA / ZEFIR / PIKSEL / RYSA / KIKS / MIGA**
 
-The finished book should feel like one Academy culture, not three separate naming systems.
-
-## Modernity rules
-
-A strong codename should:
-- usually be 4–10 characters;
-- usually have 2–3 syllables when spoken;
-- be easy for a Polish 8–12 reader to pronounce;
-- look clean on a badge, map or chat card;
-- sound natural when another character says it aloud;
-- remain memorable without digits or decorative punctuation.
-
-Avoid:
-- random numbers;
-- `xX...Xx`;
-- leetspeak;
-- hard-to-pronounce English spellings;
-- fantasy-class names;
-- obvious "cool" clichés;
-- tags that reveal a character's role in the current puzzle.
-
-## Logic firewall
-
-A Polish codename is display-only.
-
-Before assignment, audit whether the English identity participates in:
-- initials;
-- acrostics;
-- word length;
-- alphabetic ordering;
-- codes/passwords;
-- first/last-letter mechanisms;
-- repeated callbacks;
-- baked-in visual labels;
-- solution explanations.
-
-If yes, the codename must preserve the needed mechanic or remain source-locked.
-
-Immutable:
-- case ID;
-- character identity ID;
-- portrait ID;
-- gender where source logic uses it;
-- coordinate;
-- room/zone;
-- clue proposition;
-- answer identity;
-- callback identity.
-
-## Grammar rule
-
-Prefer codenames that can be used naturally:
-
-`Koda była w rzędzie 3.`
-`Runi stał przy wejściu.`
-`Piksel znajdowała się w Galerii.`
-
-Where a form sounds awkward, use dossier syntax instead:
-
-`KRYPTONIM: AZYMUT`
-`Kontakt o kryptonimie AZYMUT...`
-
-Do not force artificial declension.
+Not:
+**PIKSEL / GLICZ / SKRÓT / ZWIAD / AZYMUT / KADR**
 
 ## Happy Makers
 
-Happy Makers always keep their names as primary identity.
+Happy Makers keep their names as primary identity.
 
-Codenames are secondary Academy badges only:
+Codenames are optional secondary Academy badges only:
 `MIMI // KRYPTONIM: ...`
 
-They may be used on:
-- squad dossier;
-- credential/badge surfaces;
-- occasional comms jokes;
-- special Academy moments.
+Current provisional Polish direction:
+- **MIMI // ZRYW** — gets things moving and turns chaos into the next step.
+- **LULI // RYSA** — notices where a story, record or theory stops fitting.
+- **DILO // PIKSEL** — tech, patterns, precision and small details in systems.
+- **NINI // ISKRA** — small, bright, energetic, often notices what changes the mood.
+- **ALIO // SKRÓT** — routes, shortcuts, alternate paths; also supports the acronym joke.
+- **BIBI // RUNA** — old signs, records and meaning that only becomes clear with context.
 
-Normal narrative remains Mimi / Luli / Dilo / Nini / Alio / Bibi.
+These six are **PROVISIONAL** until full-book voice review.
 
-### Happy Makers — provisional V2 direction
+## Credential copy
 
-Do not lock these until the whole-book codename audit is complete.
+Use:
 
-- **MIMI // KODA** — short, controlled, sounds like a real handle; does not over-explain her role.
-- **LULI // RYSA** — she notices the place where a story or claim stops fitting.
-- **DILO // PING** — tech, testing, response, systems.
-- **NINI // PIKSI** — nickname-like, small-detail energy without making her childish.
-- **ALIO // SKRÓT** — routes, shortcuts and the recurring acronym joke.
-- **BIBI // NERI** — name-like and understated; avoids turning her into "the archive lady" through her codename.
+**TWÓJ KRYPTONIM OPERACYJNY:** ______________________________
 
-These remain **PROVISIONAL**.
+The reader invents their own codename. It does not need to come from the book bank.
 
-## Approved banter
+## Approved Happy Makers banter
 
 ### Dialogue A — second codename
 
@@ -209,7 +129,7 @@ These remain **PROVISIONAL**.
 - **DILO:** A wersję testową?
 - **LULI:** Przestaję odpowiadać.
 
-### Dialogue B — the acronym problem
+### Dialogue B — acronym problem
 
 - **ALIO:** Mam pełny kryptonim: **Perfekcyjnie Ukryty Profesjonalny Agent.**
 - **LULI:** Nie.
@@ -219,15 +139,25 @@ These remain **PROVISIONAL**.
 - **ALIO:** ...o nie.
 - **DILO:** Za późno. Już wszyscy zapamiętali.
 
-Use each joke once and never inside logic-bearing clue text.
+Use once where it does not interrupt puzzle logic.
 
-## Production sequence
+## Full-book audit before person-map lock
 
-1. Audit all 30 cases + Hint Vault + Solution Files for identity-dependent mechanics.
-2. Build `DETECTIVE_PL_IDENTITY_CODENAME_MAP_V1.yml`.
-3. Assign codenames across the whole book using the balance rule.
-4. Run duplicate / pronunciation / grammar / accidental-clue review.
-5. Freeze the map.
-6. Only then apply witness/contact codenames consistently to story, clues, maps, hints and solutions.
+Before assigning final codenames:
+- scan all 30 cases;
+- scan hints and solutions;
+- scan callbacks and Room Zero meta material;
+- scan baked-in visual labels;
+- detect initials, acrostics, word-length, alphabetical-order, spelling or code dependencies;
+- preserve portrait IDs, coordinates, rooms, answer identities and solution truth;
+- assign one stable Polish codename per immutable person ID;
+- validate natural Polish inflection and sentence use;
+- freeze the final identity map before broad production replacement.
 
-Individual weak codenames may be replaced later without reopening puzzle logic, provided immutable identity bindings remain unchanged.
+## Change control
+
+Do not rename witnesses ad hoc while translating individual cases.
+
+Next required durable artifact:
+**DETECTIVE_PL_IDENTITY_CODENAME_MAP_V1**
+after the full 30-case identity/logic audit.
