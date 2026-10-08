@@ -39,7 +39,13 @@ This is a packaging-only owner decision.
 
 Do **not** reopen or rewrite the 24-day body copy.
 
-The historical R5 packaging candidate and its exact hash remain immutable evidence of the previous packaging state. Apply this subtitle only in the next packaging candidate/revision and regenerate any hash-bound render-fit contracts against that new candidate.
+The historical R5 packaging candidate and its exact hash remain immutable evidence of the previous packaging state. Applied to the next packaging candidate:
+`GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md`
+
+Exact R6 Git blob:
+`896cf92bf6ed126ef62e623fd9cac640270e853f`
+
+R6 differs from historical R5 only in the subtitle line; the full body after the front-matter separator is exact-equal. Regenerate any hash-bound render-fit contracts against R6.
 
 ## Publication boundary
 
