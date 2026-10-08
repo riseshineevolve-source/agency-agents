@@ -1,39 +1,39 @@
 lane: polish_localization
 title: "Polish Localization Engine"
-updated: 2026-10-07
-status: GENTLE_STEPS_PL_R5_EVIDENCE_PRODUCER_HANDOFF_READY__REAL_TEMPLATE_EVIDENCE_PENDING
-branch_or_repo_state: "codex/polish-engine-main-reconcile; remote writes current through final-proof-contract checkpoint"
-milestone: gentle_steps_pl_r5_evidence_producer_handoff_checked
+updated: 2026-10-08
+status: GENTLE_STEPS_PL_R5_FIT_GUARDS_IN_CI__WAITING_FOR_REAL_TEMPLATE_EVIDENCE
+branch_or_repo_state: "codex/polish-engine-main-reconcile; implementation commit 91e876d5739519886a7cfdb7eae17222d3f84ade validated by Polish Localization Regression #401; checkpoint commit bf55ecb0f3f08411241383c49d81ced3f54e41b3"
+milestone: gentle_steps_pl_r5_exact_source_fit_guards_now_required_in_ci
 blocker: exact_r5_real_template_render_evidence_not_yet_returned
 owner_gate: "after exact-source-bound fit + editorial/safety PASS: owner visual approval + explicit content-freeze decision"
 dependencies_needed:
   - lane: gentle_steps
-    need: "Render exact PL R5 blob 04b4afcc438789d648ed34fa594f86ee97b02472 in the real final book template and return print-scale fit evidence; do not rewrite PL body copy or shrink readability to force fit."
+    need: "Render exact PL R5 blob 04b4afcc438789d648ed34fa594f86ee97b02472 in the real final book template and return full PDF plus required print-scale surface evidence; do not rewrite PL body copy or shrink readability to force fit."
 reusable_outputs:
   - "PL R4 final content blob 6a0fbafa1b0fdc1f102c456cd45301d4eef275c2"
   - "PL R5 packaging blob 04b4afcc438789d648ed34fa594f86ee97b02472"
-  - "R4/R5 exact body equality from DZIEŃ 1 to end: 59207 chars"
-  - "locked current identity: THE HAPPY MAKERS PRESENT / ŚWIĘTA SĄ TEŻ PO DRODZE / 24 rodzinne aktywności po 10 minut, żeby mniej się spieszyć, więcej śmiać i naprawdę pobyć razem"
-  - "locked recurring labels: ZWOLNIJ / GRAMY / MIĘDZY NAMI / NA JUTRO"
   - "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R5_PRODUCTION_TEMPLATE_FIT_REQUEST_2026-10-07.json"
   - "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R5_FINAL_EDITORIAL_SAFETY_PROOF_CONTRACT_2026-10-07.json"
-  - "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R5_EVIDENCE_PRODUCER_HANDOFF_2026-10-07.md"
-  - "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/CHECKPOINT_2026-10-07_R5_FINAL_PROOF_CONTRACT_READY.md"
+  - "scripts/create-gentle-steps-r5-evidence-draft.py"
+  - "scripts/validate-gentle-steps-r5-fit-evidence.py"
+  - "scripts/test-localization-gentle-steps-r5-fit.py"
+  - "Polish Localization Regression #401 includes and passed the Gentle Steps PL R5 exact-source fit evidence guard step"
+  - "localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/CHECKPOINT_2026-10-08_R5_FIT_GUARDS_IN_CI.md"
 freshness:
-  main_behind_commits: 18
+  main_behind_commits_at_slice_start: 20
   localization_owned_overlap: 0
   reconcile_needed: false
-  note: "No blind merge: current gate is external consumer render evidence, and main-side changes do not affect localization-owned surfaces."
+  note: "No blind merge; current blocker is consumer render evidence, not source divergence."
 ci:
-  last_verified_pre_slice_head: "0b9f28b41b8a09b9ba3c2296f15ed789c16e8e18"
-  last_verified_exact_head_workflows_green: 11
+  implementation_head: "91e876d5739519886a7cfdb7eae17222d3f84ade"
+  polish_localization_regression_run: 401
   polish_localization_regression: success
-  test_installer: success
-  new_head_ci: "246848c: Polish Localization Regression green; 9 success / 2 in progress at latest check"
+  r5_fit_guard_step: success
+  checkpoint_head_ci: pending_after_checkpoint_mailbox_write
 detective_pl:
   status: PREFREEZE_INFRASTRUCTURE_ONLY
   full_production_started: false
   gate: explicit_Detective_EN_freeze
   en_current_state: NOT_FROZEN
-next_safe_task: harden_evidence_validator_then_consume_exact_r5_template_fit_evidence
-checkpoint_reference: localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R5_EVIDENCE_PRODUCER_HANDOFF_2026-10-07.md
+next_safe_task: consume_exact_r5_template_fit_evidence_then_execute_final_editorial_safety_proof_contract
+checkpoint_reference: localization/pl-PL/production/gentle-steps/book-versions/v3/checkpoints/CHECKPOINT_2026-10-08_R5_FIT_GUARDS_IN_CI.md
