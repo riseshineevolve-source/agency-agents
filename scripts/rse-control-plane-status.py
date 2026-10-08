@@ -9,6 +9,7 @@ No LLM, network access or repository mutation.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 from pathlib import Path
 from typing import Any
@@ -36,7 +37,9 @@ def normalize_attention(value: Any) -> bool:
         return False
     if isinstance(value, str):
         return value.strip() not in {"", "null", "none", "NONE", "N/A", "n/a"}
-    return True
+    if isinstance(value, (list, dict, tuple, set)):
+        return bool(value)
+    return bool(value)
 
 
 def dependency_text(item: Any) -> str:
@@ -45,6 +48,40 @@ def dependency_text(item: Any) -> str:
         need = item.get("need", "")
         return f"{lane}: {need}".strip()
     return str(item)
+
+
+def classify_lane_attention(blocker: Any, owner_gate: Any, dependencies: Any) -> str:
+    """WF-02 deterministic precedence: BLOCKED > OWNER_GATE > DEPENDENCY > NORMAL."""
+    if normalize_attention(blocker):
+        return "BLOCKED"
+    if normalize_attention(owner_gate):
+        return "OWNER_GATE"
+    if normalize_attention(dependencies):
+        return "DEPENDENCY"
+    return "NORMAL"
+
+
+def attention_dedupe_key(
+    lane_id: str, classification: str, blocker: Any, owner_gate: Any, dependencies: Any
+) -> str | None:
+    """Stable across unchanged hourly polls; changes on material gate/dependency drift.
+
+    n8n keeps the last delivered key per lane in persistent workflow state.
+    This function itself performs no network or state mutation.
+    """
+    if classification == "NORMAL":
+        return None
+    material = {
+        "lane": lane_id,
+        "classification": classification,
+        "blocker": blocker,
+        "owner_gate": owner_gate,
+        "dependencies_needed": dependencies,
+    }
+    encoded = json.dumps(
+        material, sort_keys=True, ensure_ascii=False, default=str, separators=(",", ":")
+    ).encode("utf-8")
+    return f"rse-wf02-v1:{lane_id}:{hashlib.sha256(encoded).hexdigest()[:24]}"
 
 
 def collect() -> dict[str, Any]:
@@ -80,9 +117,15 @@ def collect() -> dict[str, Any]:
             errors.append(f"{lane_id}: dependencies_needed must be a list")
             deps = [str(deps)]
 
+        classification = classify_lane_attention(blocker, owner_gate, deps)
+        dedupe_key = attention_dedupe_key(
+            lane_id, classification, blocker, owner_gate, deps
+        )
         lanes.append(
             {
                 "lane": lane_id,
+                "attention_class": classification,
+                "attention_dedupe_key": dedupe_key,
                 "title": spec.get("title", lane_id),
                 "status": data.get("status"),
                 "updated": data.get("updated"),
@@ -116,6 +159,16 @@ def collect() -> dict[str, Any]:
         "lane_count": len(lanes),
         "owner_attention_lanes": attention,
         "dependency_requests": dependencies,
+        "attention_events": [
+            {
+                "lane": x["lane"],
+                "classification": x["attention_class"],
+                "dedupe_key": x["attention_dedupe_key"],
+                "checkpoint_reference": x["checkpoint_reference"],
+            }
+            for x in lanes
+            if x["attention_class"] != "NORMAL"
+        ],
         "validation_errors": errors,
         "lanes": lanes,
     }

@@ -25,6 +25,35 @@ class ControlPlaneTests(unittest.TestCase):
         self.assertIn("detective_book_factory", lane_ids)
         self.assertIn("marketing_autopilot", lane_ids)
 
+
+    def test_wf02_four_classification_samples(self):
+        samples = [
+            ("blocked overrides all", "hard failure", "owner review", ["other"], "BLOCKED"),
+            ("owner gate overrides dependency", None, "visual review", ["other"], "OWNER_GATE"),
+            ("dependency only", None, None, [{"lane": "other", "need": "proof"}], "DEPENDENCY"),
+            ("normal / empty structures", None, {}, [], "NORMAL"),
+        ]
+        for label, blocker, gate, deps, expected in samples:
+            with self.subTest(label=label):
+                self.assertEqual(mod.classify_lane_attention(blocker, gate, deps), expected)
+
+    def test_wf02_dedupe_stable_and_changes_on_material_update(self):
+        one = [{"lane": "optical", "need": "sha proof"}]
+        first = mod.attention_dedupe_key("central", "DEPENDENCY", None, None, one)
+        same = mod.attention_dedupe_key("central", "DEPENDENCY", None, None, [{"need": "sha proof", "lane": "optical"}])
+        changed = mod.attention_dedupe_key("central", "DEPENDENCY", None, None, [{"lane": "optical", "need": "final print proof"}])
+        self.assertEqual(first, same)
+        self.assertNotEqual(first, changed)
+        self.assertIsNone(mod.attention_dedupe_key("central", "NORMAL", None, None, []))
+
+    def test_wf02_live_registry_and_events(self):
+        snapshot = mod.collect()
+        self.assertEqual(snapshot["lane_count"], 11)
+        self.assertEqual(snapshot["validation_errors"], [])
+        self.assertEqual(len({x["lane"] for x in snapshot["lanes"]}), 11)
+        self.assertTrue(all(e["dedupe_key"].startswith("rse-wf02-v1:") for e in snapshot["attention_events"]))
+        self.assertTrue(all(e["classification"] in {"BLOCKED", "OWNER_GATE", "DEPENDENCY"} for e in snapshot["attention_events"]))
+
     def test_markdown_has_table(self):
         text = mod.markdown(mod.collect())
         self.assertIn("# RSE Control Plane Snapshot", text)
