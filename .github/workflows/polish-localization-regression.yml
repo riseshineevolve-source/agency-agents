@@ -8,6 +8,8 @@ on:
       - "scripts/localization/**"
       - "scripts/localization-engine.py"
       - "scripts/test-localization-*.py"
+      - "scripts/create-gentle-steps-r5-evidence-draft.py"
+      - "scripts/validate-gentle-steps-r5-fit-evidence.py"
       - "orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md"
       - ".github/workflows/polish-localization-regression.yml"
   push:
@@ -20,6 +22,8 @@ on:
       - "scripts/localization/**"
       - "scripts/localization-engine.py"
       - "scripts/test-localization-*.py"
+      - "scripts/create-gentle-steps-r5-evidence-draft.py"
+      - "scripts/validate-gentle-steps-r5-fit-evidence.py"
       - "orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md"
       - ".github/workflows/polish-localization-regression.yml"
   workflow_dispatch:
@@ -56,6 +60,9 @@ jobs:
 
       - name: Test native Polish re-authoring source isolation and gates
         run: python scripts/test-localization-reauthoring.py
+
+      - name: Test Gentle Steps PL R5 exact-source fit evidence guards
+        run: python scripts/test-localization-gentle-steps-r5-fit.py
 
       - name: Validate all authorized fixtures and generate QA packages
         run: python scripts/test-localization-fixtures.py
