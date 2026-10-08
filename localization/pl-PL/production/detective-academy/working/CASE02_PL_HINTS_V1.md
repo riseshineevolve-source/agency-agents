@@ -1,5 +1,5 @@
-# Case 02: Polish Hint Vault
+# SPRAWA 02 — SEJF PODPOWIEDZI
 
-1. Miga: row 3, column B -> B3.
-2. Zefir: room and column. Kiks: corner beside teacher's desk.
-3. Fuks is at E1; locate his only room companion.
+1. Miga: rząd 3 i kolumna B wskazują pole B3.
+2. Zefir: sala i kolumna. Kiks: narożnik przy biurku nauczyciela.
+3. Fuks stoi na E1. Kto jeszcze jest z nim w sali?
