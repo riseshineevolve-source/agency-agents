@@ -1,34 +1,32 @@
 lane: polish_localization
 title: "Polish Localization Engine"
 updated: 2026-10-08
-status: GENTLE_STEPS_PL_R6_OWNER_PACKAGING_LOCKED__R6_RENDER_CONTRACT_REFRESH_NEEDED
-branch_or_repo_state: "codex/polish-engine-main-reconcile; PL owner subtitle decision saved and exact R6 packaging candidate created"
-milestone: gentle_steps_pl_r6_owner_packaging_candidate_created
-blocker: r5_render_contracts_are_historical__r6_hash_bound_render_contract_refresh_required
-owner_gate: "after exact-source-bound R6 fit + editorial/safety PASS: owner visual approval + explicit content-freeze decision"
-dependencies_needed:
-  - lane: gentle_steps
-    need: "Use exact PL R6 blob 896cf92bf6ed126ef62e623fd9cac640270e853f for the next real final-template render. Do not render historical R5 as the current final package. Return full PDF plus required print-scale surface evidence; do not rewrite PL body copy or shrink readability to force fit."
+status: DETECTIVE_PL_FULL_PRODUCTION_STARTED__CASE01_LOGIC_PASS__GENTLE_STEPS_FINAL_TITLES_LOCKED
+branch_or_repo_state: "codex/polish-engine-main-reconcile; Detective EN V10 frozen for PL production; Detective PL working master active; Gentle Steps EN/PL final title/subtitle owner lock recorded"
+milestone: detective_pl_case01_complete_and_logic_verified
+blocker: null
+owner_gate: "Detective: final PL content approval + physical/visual proof + publication; Gentle Steps: R6 real-template proof + owner visual/content-freeze approval"
+dependencies_needed: []
 reusable_outputs:
-  - "PL R4 final content blob 6a0fbafa1b0fdc1f102c456cd45301d4eef275c2"
-  - "historical PL R5 packaging blob 04b4afcc438789d648ed34fa594f86ee97b02472"
-  - "current PL R6 packaging blob 896cf92bf6ed126ef62e623fd9cac640270e853f"
-  - "R6 body after front-matter separator is exact-equal to R5"
-  - "current title: ŚWIĘTA SĄ TEŻ PO DRODZE"
-  - "current subtitle: Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem."
-  - "localization/pl-PL/production/gentle-steps/book-versions/v3/V03_SUBTITLE_OWNER_DECISION_2026-10-08.md"
-  - "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md"
-  - "R5 fit guard CI remains reusable architecture but must be rebound to exact R6 source before final proof"
-freshness:
-  reconcile_needed: false
-  note: "No main merge performed; packaging-only owner decision applied surgically."
-ci:
-  last_verified_r5_fit_guard_workflow: "Polish Localization Regression #401 SUCCESS"
-  r6_ci_state: "not yet rebound; next bounded factory task"
+  - "Gentle Steps final EN/PL title-subtitle lock: orchestration/control-plane/owner-decisions/2026-10-08_GENTLE_STEPS_FINAL_TITLES.md"
+  - "Gentle Steps current PL R6 packaging blob 896cf92bf6ed126ef62e623fd9cac640270e853f"
+  - "Detective uploaded EN V10 PDF SHA-256 d174606bbcff1f6fabc7edd8b9364e631b935007ccbc8087563ccadb16be8f0f"
+  - "Detective immutable EN baseline Git blob 19df709e381445a6f5a52d7b0c1c898bd5b706be"
+  - "Detective source lock: orchestration/control-plane/owner-decisions/2026-10-08_DETECTIVE_EN_SOURCE_FREEZE_FOR_PL.md"
+  - "Detective source manifest: localization/pl-PL/production/detective-academy/SOURCE_MANIFEST_2026-10-08.yml"
+  - "Detective PL working master: localization/pl-PL/production/detective-academy/working/DETECTIVE_ACADEMY_PL_WORKING_MASTER_V1.md"
+  - "Detective Case01 logic proof: localization/pl-PL/production/detective-academy/qa/CASE01_LOGIC_PROOF_2026-10-08.md"
 detective_pl:
-  status: PREFREEZE_INFRASTRUCTURE_ONLY
-  full_production_started: false
-  gate: explicit_Detective_EN_freeze
-  en_current_state: NOT_FROZEN
-next_safe_task: rebind_exact_source_fit_evidence_tooling_and_contracts_from_historical_r5_to_current_r6_then_render_r6
-checkpoint_reference: localization/pl-PL/production/gentle-steps/book-versions/v3/V03_SUBTITLE_OWNER_DECISION_2026-10-08.md
+  status: PRODUCTION_ACTIVE
+  full_production_started: true
+  en_source_state: FROZEN_FOR_PL_PRODUCTION
+  source_pdf_sha256: "d174606bbcff1f6fabc7edd8b9364e631b935007ccbc8087563ccadb16be8f0f"
+  source_baseline_blob: "19df709e381445a6f5a52d7b0c1c898bd5b706be"
+  translated_scope: "pages 01-18 + Case 01 puzzle surface"
+  case01_logic: PASS
+gentle_steps:
+  title_lock: FINAL_OWNER_LOCK
+  pl_r6_blob: "896cf92bf6ed126ef62e623fd9cac640270e853f"
+  publication_authorized: false
+next_safe_task: translate_Detective_Case02_as_mission_complete_batch_then_run_spatial_logic_and_native_polish_QA
+checkpoint_reference: localization/pl-PL/DETECTIVE_PL_EXECUTION_CHECKPOINT.md
