@@ -341,7 +341,7 @@ Tego nikt nie może wypełnić za ciebie.
 
 **IMIĘ W AKADEMII:** ______________________________________
 
-**OFICJALNY KRYPTONIM:** __________________________________
+**TWÓJ KRYPTONIM OPERACYJNY:** ___________________________
 
 **MOJA MOCNA STRONA W ŚLEDZTWIE:** ________________________
 
