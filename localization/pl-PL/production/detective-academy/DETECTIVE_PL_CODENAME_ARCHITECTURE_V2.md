@@ -66,7 +66,7 @@ They should feel like names children could plausibly choose as usernames, game n
 - **GLICZ**
 - **SKRÓT**
 - **ZWIAD**
-- **AZYMut** -> display as **AZYMUT**
+- **AZYMUT**
 - **SPLOT**
 - **TROP**
 - **SZLAK**
