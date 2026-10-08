@@ -54,6 +54,65 @@ class ControlPlaneTests(unittest.TestCase):
         self.assertTrue(all(e["dedupe_key"].startswith("rse-wf02-v1:") for e in snapshot["attention_events"]))
         self.assertTrue(all(e["classification"] in {"BLOCKED", "OWNER_GATE", "DEPENDENCY"} for e in snapshot["attention_events"]))
 
+    def test_wf02_registry_rejects_wrong_lane_count(self):
+        def registered(n):
+            return {
+                f"lane_{i:02d}": {
+                    "mailbox": f"orchestration/control-plane/mailboxes/lane_{i:02d}.yml"
+                }
+                for i in range(n)
+            }
+
+        self.assertEqual(len(mod.validated_mailbox_paths(registered(11))), 11)
+        for invalid_count in (0, 10, 12):
+            with self.subTest(count=invalid_count):
+                with self.assertRaisesRegex(ValueError, "exactly 11"):
+                    mod.validated_mailbox_paths(registered(invalid_count))
+
+    def test_wf02_registry_rejects_unsafe_or_noncanonical_paths(self):
+        chats = {
+            f"lane_{i:02d}": {
+                "mailbox": f"orchestration/control-plane/mailboxes/lane_{i:02d}.yml"
+            }
+            for i in range(11)
+        }
+        unsafe = (
+            "../secrets.yml",
+            "orchestration/control-plane/mailboxes/../secrets.yml",
+            "orchestration/control-plane/mailboxes/lane_01.yml",
+            "/tmp/lane_00.yml",
+        )
+        for replacement in unsafe:
+            with self.subTest(path=replacement):
+                mutated = {k: dict(v) for k, v in chats.items()}
+                mutated["lane_00"]["mailbox"] = replacement
+                with self.assertRaisesRegex(ValueError, "noncanonical"):
+                    mod.validated_mailbox_paths(mutated)
+
+    def test_wf02_registry_rejects_path_traversal_lane_id(self):
+        chats = {
+            f"lane_{i:02d}": {
+                "mailbox": f"orchestration/control-plane/mailboxes/lane_{i:02d}.yml"
+            }
+            for i in range(10)
+        }
+        chats["../../../outside"] = {
+            "mailbox": "orchestration/control-plane/mailboxes/../../../outside.yml"
+        }
+        with self.assertRaisesRegex(ValueError, "escapes root"):
+            mod.validated_mailbox_paths(chats)
+
+    def test_wf02_registry_rejects_nonmapping_spec(self):
+        chats = {
+            f"lane_{i:02d}": {
+                "mailbox": f"orchestration/control-plane/mailboxes/lane_{i:02d}.yml"
+            }
+            for i in range(11)
+        }
+        chats["lane_00"] = None
+        with self.assertRaisesRegex(ValueError, "not a mapping"):
+            mod.validated_mailbox_paths(chats)
+
     def test_markdown_has_table(self):
         text = mod.markdown(mod.collect())
         self.assertIn("# RSE Control Plane Snapshot", text)
