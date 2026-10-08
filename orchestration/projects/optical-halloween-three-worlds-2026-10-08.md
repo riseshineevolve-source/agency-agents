@@ -42,3 +42,31 @@ All three conceptual worlds: APPROVED AS DIRECTIONS.
 60 detailed scene briefs: IN PROGRESS, NOT YET CERTIFIED.
 60 final artworks: 0 certified.
 Print scale full evidence: 0 certified.
+
+
+---
+
+## Verified continuing execution checkpoint — 2026-10-08 (latest chat)
+
+### Durable additions
+- Owner expansion to three independent galleries of 20 illustrations: `orchestration/control-plane/owner-decisions/2026-10-08_OPTICAL_HALLOWEEN_THREE_WORLDS_60_ARTWORKS.md`.
+- 60/60 draft art concepts H-01..H-20, C-01..C-20, M-01..M-20 with optical mechanisms and 5-act hooks: `orchestration/projects/optical-halloween/2026-10-08_SIXTY_SCENE_ROSTER_DRAFT.md`. Programmatically checked exactly 20 scene rows/world, no gaps and no duplicate titles per world. This is DRAFT, **not 60 final artworks**.
+- Style/geometry/print ethos: `orchestration/projects/optical-halloween/OPTICAL_HALLOWEEN_VISUAL_DNA_V1.md`.
+- Read-only editorial QA, 21 targeted hard issues: `orchestration/projects/optical-halloween/2026-10-08_CROSS_WORLD_EDITORIAL_AUDIT_V01.md`.
+- Earlier initial Optical Halloween bootstrap and Optical Animals art remain read-only; not touched.
+
+### Delegated detailed art-bible execution
+Isolated local creative workspaces on DESKTOP-REL52FK:
+- HOUSE: `C:\Users\danie\GitHub\optical-halloween-studio\HOUSE`, commissioned Codex PID 48032.
+- CARNIVAL: `C:\Users\danie\GitHub\optical-halloween-studio\CARNIVAL`, commissioned Codex PID 12216.
+- MUSEUM: `C:\Users\danie\GitHub\optical-halloween-studio\MUSEUM`, commissioned Codex PID 39176.
+Each must write a 20-card `MASTER.md` with A/B/C alternative concepts/scene + `REVIEW.md` with Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker and Print Finish-Gate criteria. Early source previews were partial (House about 10 detailed cards, Carnival about 12, Museum not yet synchronized). These counts are point-in-time estimates; do not interpret as final status. The scripts were started with `C:\Users\danie\bin\rse-codex.cmd`, not bare codex. No separate five-person approval claim is made; critical lenses must be substantiated.
+
+**Connection blocker:** after partial progress, Desktop Commander stopped answering ping and process-output calls. GitHub remained writable. Status of local processes and completed `MASTER.md`/`REVIEW.md` cannot be certified until desktop reconnects. **Do not restart side-effecting Codex writers blindly** before checking session/PID/file state; avoid double writers. Reconnect, inspect the existing files/read logs, then resume safely.
+
+### Next safe autonomous slice
+1. Verify Remote Desktop online and inspect the three isolated working directories and existing Codex sessions. Keep Optical Animals strictly untouched.
+2. Confirm each world has exactly 20 fully described cards including three distinct concepts and five-lens critique, plus `REVIEW.md`. If partial, safely continue only its own session.
+3. Compare with first-pass 60-scene roster + 21 editorial holds; accept the stronger bounded revisions, maintain causal 5-act plot, diverse angles and genuine reflections.
+4. Save full bibles in dedicated Optical Halloween GitHub subtree with **non-overwriting v01 identifiers**; run independent cross-world continuity/duplicate camera audit, record concrete issues.
+5. Only after boards and initial QA: generate first hero art candidate per world; keep v01/v02 and BEST source unchanged. Require print-scale inspection before PASS. Full 60 hero artworks and KDP assembly are **not** presently complete, and no factory integration is authorized.
