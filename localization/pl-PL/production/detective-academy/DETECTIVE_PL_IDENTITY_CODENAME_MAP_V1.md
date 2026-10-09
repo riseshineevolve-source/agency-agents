@@ -39,7 +39,7 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 - Nova → **MIGA**
 - Dax → **ZEFIRO**
 - Rook → **KIKS**
-- Atlas → **TAKTO**
+- Atlas → **TAKTA**
 - Ivy → **TBD_PL_CODENAME**
 - Max → **FUKS**
 - Echo → **TBD_PL_CODENAME**
@@ -48,7 +48,7 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 - Bea → **PRYZMA**
 - Clover → **SZYCHA**
 - Pixel → **RASTER**
-- Scout → **FLARA**
+- Scout → **FLARO**
 - Hugo → **REZON**
 - Arlo → **WIRO**
 - Vega → **TBD_PL_CODENAME**
@@ -57,7 +57,7 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 - Blaze → **IMPULS**
 - Indigo → **MIGOT**
 - Willa → **SZMERA**
-- Rocket → **ZRYW**
+- Rocket → **ZRYWO**
 - Gray → **MRUGO**
 - Finn → **MYKO**
 - Vera → **SPLOTA**
@@ -65,7 +65,7 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 - Juno → **RYTMO**
 - Skye → **FLESZ**
 - Moxie → **KOMBO**
-- Otis → **PIK**
+- Otis → **PIKO**
 - Luna → **KADRO**
 - Theo → **CYFRON**
 - Gia → **KLIKO**
@@ -73,11 +73,11 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 ## Polish reserve codenames — unassigned
 
 These are not used until a new verified English identity is found. Current owner-approved reserve:
-- **PULS**
+- **PULSA**
 
 ## Final 40-name Polish universe pool
 
-KODRA, KADRO, SZMERA, KIKS, SPLOTA, MIGOT, FUKS, MYKO, KOMBO, RYTMO, CYFRON, SZYFRA, PRYZMA, FINTO, ZEFIRO, RASTER, ZRYW, FLESZ, IMPULS, CYKO, KLIKO, SZYKO, TAKTO, REZON, WIRO, SZYCHA, SZEPT, SKRYPT, PIK, FRAZO, MIGA, FLARA, MRUGO, PULS.
+KODRA, KADRO, SZMERA, KIKS, SPLOTA, MIGOT, FUKS, MYKO, KOMBO, RYTMO, CYFRON, SZYFRA, PRYZMA, FINTO, ZEFIRO, RASTER, ZRYWO, FLESZ, IMPULS, CYKO, KLIKO, SZYKO, TAKTA, REZON, WIRO, SZYCHA, SZEPT, SKRYPT, PIKO, FRAZO, MIGA, FLARO, MRUGO, PULSA.
 
 ## Rejected by owner / superseded
 
@@ -85,9 +85,9 @@ PSTRYK, KRESA, PĘTLA, ŁUNA, AZYMUT, SKOK, NUTA, SKRÓT, KODRO.
 Earlier forms superseded:
 CYK → CYKO
 WIR → WIRO
-TAKT → TAKTO
+TAKT → TAKTA
 IMPULS → IMPULSO
-ZRYW → ZRYWO
+ZRYWO → ZRYWO
 ZEFIR → ZEFIRO
 FINTA → FINTO
 
@@ -95,7 +95,7 @@ FINTA → FINTO
 ## Open codename slots after 2026-10-09 owner cut
 
 Owner removed: KLIKA, SMUGA, ECHO, REBUS, BŁYSK, ŚWIST.
-Owner form corrections: IMPULSO → IMPULS; ZRYWO → ZRYW; MRUG → MRUGO; SZYK → SZYKO.
+Owner form corrections: IMPULSO → IMPULS; ZRYWO → ZRYWO; MRUG → MRUGO; SZYK → SZYKO.
 Kept explicitly: RASTER, REZON, KLIKO.
 
 Current approved pool count: **34**.
