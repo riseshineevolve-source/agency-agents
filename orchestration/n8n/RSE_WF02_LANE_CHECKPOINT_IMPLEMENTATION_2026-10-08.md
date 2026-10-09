@@ -29,3 +29,11 @@ The primary validation/test already reads every registered mailbox from GitHub's
 This branch contains no n8n Cloud credential IDs or published workflow mutation. Cloud activation requires a real authenticated n8n execution test and must not be reported as PASSED on the strength of Python CI alone.
 
 No product source, owner gate, art, paid service, token scope, publication or production deployment is changed by this packet.
+
+## 2026-10-09 local regression evidence
+
+- Exact regression implementation commit: `7f28064f47d5274a697fa84e1f3fcded72204c7b`.
+- Scope: suppress repeat alerts when lower-priority `owner_gate` / `dependencies_needed` changes while the same `BLOCKED` signal remains, or when dependencies change under the same active `OWNER_GATE`.
+- Independent isolated checkout on authorized Windows device (not the active shared worktree), Python 3.13: **13/13 unit tests PASS; exit code 0**. Test suite includes one new active-signal-only dedupe regression.
+- Not equivalent to CI or n8n verification. GitHub Actions on current `main` and Gentle Steps still failed before runner start; existing account-billing owner gate is already known. Draft PR creation was blocked by write-safety; no PR was opened.
+- Next: reconcile this branch with current `main` without overwriting lane state; obtain fresh green exact-head CI when account billing permits; run all 11 real read-only GitHub mailbox reads in authenticated n8n, four state samples and persistent fingerprint/reset tests, then publish WF-02 only on full PASS. WF-01 remains untouched.
