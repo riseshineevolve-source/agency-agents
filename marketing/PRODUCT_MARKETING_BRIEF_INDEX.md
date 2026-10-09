@@ -1,7 +1,7 @@
 # RSE Product Marketing Brief Index
 
 Status: ACTIVE
-Updated: 2026-10-07
+Updated: 2026-10-09
 
 ## Rule
 
@@ -26,13 +26,17 @@ When a product has a brief, that brief overrides older product-specific marketin
 - copy bans;
 - market/language adaptation.
 
+## Critical Detective V12 override (2026-10-09)
+
+The canonical 2026-10-07 Detective Product Marketing Brief retains **older, superseded 141-page release/pagination assertions**. Before any visual export, scheduling, metadata or public-facing claim, read `marketing/DETECTIVE_2026-10-09_V12_LAUNCH_AUTHORITY_ADDENDUM.md` and `orchestration/control-plane/handoffs/2026-10-08_DETECTIVE_V12_MARKETING_PROOF_MAP.md`. These supersede only stale release/visual-proof statements, not the established brand/positioning. V12 remains **EN NOT FROZEN**, no final public page count and no launch authority. Existing D01/D05/D06 videos remain retired after current QA.
+
 ## Product registry
 
 | Product | Canonical Product Marketing Brief | Status | Notes |
 |---|---|---|---|
 | Before Christmas Slips By / Gentle Steps EN | `marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md` | **CURRENT / COMPLETE** | US+UK title, subtitle, slogans, keyword clusters and KDP direction captured |
 | Święta są też po drodze / Gentle Steps PL | `marketing/GENTLE_STEPS_PL_PRODUCT_MARKETING_BRIEF_2026-10-07.md` | **CURRENT / COMPLETE** | Polish title, subtitle, slogans, keyword clusters and marketplace direction captured |
-| Happy Makers Detective Academy | `marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md` | **CURRENT / COMPLETE** | Canonical launch identity, 141-page release truth, hooks, claims, CTA, Amazon/A+ and owner/live gates captured |
+| Happy Makers Detective Academy | `marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md` | **CURRENT / COMPLETE** | Brand and hooks preserved; V12 release/pagination/asset truth overridden by 2026-10-09 addendum |
 | Optical Animals | `marketing/OPTICAL_ANIMALS_COMMERCIAL_DEEP_DIVE_2026-10-05.md` | **MIGRATION NEEDED** | Deep dive exists; product brief should become the compact canonical marketing identity layer |
 | Unstoppable | `marketing/UNSTOPPABLE_COMMERCIAL_DEEP_DIVE_2026-10-05.md` | **MIGRATION NEEDED** | Deep dive exists; create canonical product brief before active campaign build |
 | Other RSE commercial products | product-specific source files | **CREATE WHEN ACTIVATED** | No major campaign should start without a brief |
