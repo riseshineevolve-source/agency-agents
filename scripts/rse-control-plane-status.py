@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 from pathlib import Path
 from typing import Any
 
@@ -91,7 +92,7 @@ def validated_mailbox_paths(chats: dict[str, Any]) -> dict[str, Path]:
 
     paths: dict[str, Path] = {}
     for lane_id, spec in chats.items():
-        if not isinstance(lane_id, str) or not lane_id:
+        if not isinstance(lane_id, str) or not re.fullmatch(r"[a-z][a-z0-9_]*", lane_id):
             raise ValueError(f"WF-02 invalid lane identifier: {lane_id!r}")
         if not isinstance(spec, dict):
             raise ValueError(f"WF-02 registry lane {lane_id!r} is not a mapping")
@@ -106,7 +107,8 @@ def validated_mailbox_paths(chats: dict[str, Any]) -> dict[str, Path]:
             raise ValueError(f"WF-02 mailbox escapes root: {lane_id}")
         paths[lane_id] = mailbox
 
-    if len(set(paths.values())) != 11:
+    # Physical-path uniqueness matters too: textual aliases must never double-read a mailbox.
+    if len({p.resolve() for p in paths.values()}) != 11:
         raise ValueError("WF-02 mailbox paths must be unique")
     return paths
 
