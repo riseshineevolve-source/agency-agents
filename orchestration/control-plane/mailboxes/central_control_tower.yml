@@ -1,11 +1,11 @@
 lane: central_control_tower
 title: "RSE Central Control Tower"
 updated: 2026-10-09
-status: CONTROL_PLANE_V1_ACTIVE__PL_R6_APP_LOCAL_QA_PASS__ACTIONS_PRE_RUNNER_FAILURE
-branch_or_repo_state: "agency-agents/main@c7339d2ae70bda83ead6988e4e2d43d35ae392e5; central-only reconciliation"
-milestone: "World02 Level18 merged/earlier exact-head contract green; Gentle Steps PL R6 app local browser QA pass; current GitHub Actions checks not executing"
-blocker: "GitHub Actions central push checks on 2026-10-09T00:36Z failed before test steps; Gentle Steps R6 job at 00:41Z startup_failure; previously confirmed account billing issue already reported to owner."
-owner_gate: "Previously communicated only: GitHub account billing; Detective Gold Pages12/15; Unstoppable Owner-Read V2 freeze; World02 PR11 permitted merge; Optical Final20, private-repo migration, and normal external release gates. No new decision packet."
+status: CONTROL_PLANE_V1_ACTIVE__GENTLE_RUNNERS_RESTORED__PL_R6_GENERATED_JS_DRIFT
+branch_or_repo_state: "agency-agents/main@da19fd78861fb3b13e271e352b7d114b66fe28eb; central-only reconciliation"
+milestone: "Gentle Steps head c4587e4 EN/SEO/Android exact-head CI PASS; Polish R6 browser PASS but validate-pl generator check FAIL; Polish Academy PL codenames FINAL OWNER LOCK on delegated branch"
+blocker: "Gentle Polish R6 CI run 37936621015 is real runner-source failure: app-pl.js out of sync with build-pl-runtime.py --check; delegated Gentle AUTO_VERIFY. Central agency-agents workflow runners have not been freshly revalidated after 00:52Z billing pre-runner failures."
+owner_gate: "Previously communicated gates unchanged: GitHub billing/account; Detective Gold Pages12/15; Unstoppable Owner-Read V2; World02 PR11; Optical Final20; private-repo migration; external release gates. New runner evidence in Gentle does not require an owner decision."
 dependencies_needed:
   - lane: world_app_factory
     need: "Consume merged canonical World02 Level18 source in offline hidden shared runtime; reconcile Level19 branch/mailbox ref drift; never infer PR11 merge from green CI."
@@ -15,7 +15,7 @@ dependencies_needed:
   - lane: marketing_autopilot
     need: "Replace historical 141-page D02/D04/D07 proof locators with verified current V12 Gold output before PRELINK scheduling or claims; paid activation off."
   - lane: gentle_steps
-    need: "Render exact Polish R6 packaging blob 896cf92bf6ed126ef62e623fd9cac640270e853f in final production book template; produce full PDF/print-scale PNG proof for Polish writer; latest PL Android code head 0def0d2769b7cd26de83d0e02ad2200a10481263 has not passed remote CI."
+    need: "Resolve deterministic app-pl.js generator drift at Gentle c4587e4 (validate-pl run 37936621015); EN/SEO/Android and PL browser QA passed at c4587e4. Render exact Polish R6 packaging blob 896cf92bf6ed126ef62e623fd9cac640270e853f in final production book template and provide PDF/print-scale proof to Polish writer."
   - lane: polish_localization
     need: "Consume exact real-template R6 evidence when producer provides it, run final editorial and safety fit gate; do not report print QA PASS from local app browser tests."
   - lane: optical_animals
@@ -28,6 +28,6 @@ reusable_outputs:
   - orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
   - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
   - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
-  - orchestration/brain/checkpoints/2026-10-09-central-control-tower-reconcile-0248.md
-next_safe_task: "Read next fresh lane heads; confirm GitHub Actions runner restoration only after billing owner action; verify Gentle PL R6 final print template handoff, World02 PR11 live state, Detective-to-Marketing current proof mapping. No repeated owner packets."
-checkpoint_reference: orchestration/brain/checkpoints/2026-10-09-central-control-tower-reconcile-0248.md
+  - orchestration/brain/checkpoints/2026-10-09-central-control-tower-reconcile-1730.md
+next_safe_task: "Track Gentle delegated app-pl.js generator-drift AUTO_VERIFY; track R6 real-template fit handoff, Detective-to-Marketing exact Gold folios, and World PR11 live state. Do not repeat previous owner billing packet; central CI not yet freshly verified."
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-09-central-control-tower-reconcile-1730.md
