@@ -99,8 +99,32 @@ class ControlPlaneTests(unittest.TestCase):
         chats["../../../outside"] = {
             "mailbox": "orchestration/control-plane/mailboxes/../../../outside.yml"
         }
-        with self.assertRaisesRegex(ValueError, "escapes root"):
+        with self.assertRaisesRegex(ValueError, "invalid lane identifier"):
             mod.validated_mailbox_paths(chats)
+
+    def test_wf02_registry_rejects_aliases_and_unsafe_lane_ids(self):
+        baseline = {
+            f"lane_{i:02d}": {
+                "mailbox": f"orchestration/control-plane/mailboxes/lane_{i:02d}.yml"
+            }
+            for i in range(10)
+        }
+        for invalid in (
+            "../mailboxes/lane_00",
+            "lane_00/../lane_00",
+            "lane/name",
+            "lane name",
+            "LANE",
+            ".hidden",
+            r"lane\\backslash",
+        ):
+            with self.subTest(invalid_lane_id=invalid):
+                mutated = dict(baseline)
+                mutated[invalid] = {
+                    "mailbox": f"orchestration/control-plane/mailboxes/{invalid}.yml"
+                }
+                with self.assertRaisesRegex(ValueError, "invalid lane identifier"):
+                    mod.validated_mailbox_paths(mutated)
 
     def test_wf02_registry_rejects_nonmapping_spec(self):
         chats = {
