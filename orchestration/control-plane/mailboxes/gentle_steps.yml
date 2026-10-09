@@ -1,11 +1,11 @@
 lane: gentle_steps
 title: "Gentle Steps / Before Christmas Slips By"
-updated: 2026-10-07
-status: PL_APP_BUILD_IN_PROGRESS__LOCKED_R6_CONTENT_PACK_INGESTED
+updated: 2026-10-09
+status: PL_R6_APP_IMPLEMENTED__BROWSER_QA_PASS__CI_STARTUP_FAILURE
 branch_or_repo_state:
   repository: riseshineevolve-source/RISE.SHINE.EVOLVE
   branch: gentle-steps/app-en-full24-purple-gold
-  exact_green_head: 24bae7e
+  exact_green_head: aed9f58a75a8c5e48c369409771ed4ed761a8f1c
   writer: this_dedicated_gentle_steps_lane
 milestone:
   en_app:
@@ -36,17 +36,17 @@ milestone:
       unsigned_aab_sha256: 3b88e824e1be79024e4dafb795d44a21991b476e5fb1890d1fc29ac22642d1a3
   polish_dependency:
     authority_branch: codex/polish-engine-main-reconcile
-    observed_head: 600ed1d2311a9da27b2853ce39c0aea1bb31c7f6
+    observed_head: 11d7c43103b2d8c12324b221adc6ef40f08a26ca
     body_source_path: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md
     body_blob_sha: 6a0fbafa1b0fdc1f102c456cd45301d4eef275c2
-    packaging_source_path: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R5_2026-10-07.md
-    packaging_blob_sha: 04b4afcc438789d648ed34fa594f86ee97b02472
+    packaging_source_path: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md
+    packaging_blob_sha: 896cf92bf6ed126ef62e623fd9cac640270e853f
     title: "ŚWIĘTA SĄ TEŻ PO DRODZE"
-    subtitle: "24 rodzinne aktywności po 10 minut, żeby mniej się spieszyć, więcej śmiać i naprawdę pobyć razem"
+    subtitle: "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem."
     recurring_labels: ["ZWOLNIJ", "GRAMY", "MIĘDZY NAMI", "NA JUTRO"]
     copy_policy: consume_polish_engine_outputs_only__do_not_independently_rewrite_locked_pl
-    current_gate: exact_r5_real_final_template_fit_evidence_then_polish_engine_final_editorial_safety_proof
-blocker: null
+    current_gate: exact_r6_real_final_template_fit_evidence_then_polish_engine_final_editorial_safety_proof
+blocker: "Remote GitHub Actions startup_failure/no jobs. Local Android SDK unavailable. Local PL Playwright PASS."
 owner_gate:
   type: REAL_DEVICE_VISUAL_AND_STORE_RELEASE
   requirements:
@@ -59,10 +59,10 @@ owner_gate:
     - approve final package ID / Play signing / store listing / pricing-regions / Data Safety-Families / publication
 dependencies_needed:
   - lane: polish_localization
-    need: consume exact R5 production-template fit evidence and run final Polish editorial/safety proof before PL content freeze
+    need: consume exact R6 production-template fit evidence and run final Polish editorial/safety proof before PL content freeze
 reusable_outputs:
   - "Exact recovered approved splash source and deterministic Android integration"
   - "Green EN V2 app/browser/offline/accessibility contract at d62eb1f"
   - "Green Android SDK 36 lint/build with debug APK and unsigned AAB"
-next_safe_task: integrate PL locale into shared runtime, service worker and Android shell; run bilingual Playwright/CI; continue until real owner visual/store gate
-checkpoint_reference: 24bae7e
+next_safe_task: debug GitHub Actions startup_failure, build Polish APK with Android SDK, complete physical-device and store owner gate
+checkpoint_reference: aed9f58a75a8c5e48c369409771ed4ed761a8f1c
