@@ -40,28 +40,28 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 - Dax → **ZEFIRO**
 - Rook → **KIKS**
 - Atlas → **TAKTO**
-- Ivy → **SMUGA**
+- Ivy → **TBD_PL_CODENAME**
 - Max → **FUKS**
-- Echo → **ECHO**
+- Echo → **TBD_PL_CODENAME**
 - Kai → **FINTO**
-- Zuri → **KLIKA**
+- Zuri → **TBD_PL_CODENAME**
 - Bea → **PRYZMA**
 - Clover → **SZYCHA**
 - Pixel → **RASTER**
 - Scout → **FLARA**
 - Hugo → **REZON**
 - Arlo → **WIRO**
-- Vega → **BŁYSK**
+- Vega → **TBD_PL_CODENAME**
 - Wren → **SZEPT**
 - Uma → **FRAZO**
-- Blaze → **IMPULSO**
+- Blaze → **IMPULS**
 - Indigo → **MIGOT**
 - Willa → **SZMERA**
-- Rocket → **ZRYWO**
-- Gray → **MRUG**
+- Rocket → **ZRYW**
+- Gray → **MRUGO**
 - Finn → **MYKO**
 - Vera → **SPLOTA**
-- Dash → **ŚWIST**
+- Dash → **TBD_PL_CODENAME**
 - Juno → **RYTMO**
 - Skye → **FLESZ**
 - Moxie → **KOMBO**
@@ -72,14 +72,12 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 
 ## Polish reserve codenames — unassigned
 
-These are not used until a new verified English identity is found:
-- **REBUS**
-- **SZYK**
+These are not used until a new verified English identity is found. Current owner-approved reserve:
 - **PULS**
 
 ## Final 40-name Polish universe pool
 
-KODRA, KADRO, SZMERA, KLIKA, KIKS, SPLOTA, MIGOT, FUKS, MYKO, KOMBO, RYTMO, CYFRON, SZYFRA, PRYZMA, FINTO, SMUGA, ZEFIRO, RASTER, REBUS, ECHO, BŁYSK, ŚWIST, ZRYWO, FLESZ, IMPULSO, CYKO, KLIKO, SZYK, TAKTO, REZON, WIRO, SZYCHA, SZEPT, SKRYPT, PIK, FRAZO, MIGA, FLARA, MRUG, PULS.
+KODRA, KADRO, SZMERA, KIKS, SPLOTA, MIGOT, FUKS, MYKO, KOMBO, RYTMO, CYFRON, SZYFRA, PRYZMA, FINTO, ZEFIRO, RASTER, ZRYW, FLESZ, IMPULS, CYKO, KLIKO, SZYKO, TAKTO, REZON, WIRO, SZYCHA, SZEPT, SKRYPT, PIK, FRAZO, MIGA, FLARA, MRUGO, PULS.
 
 ## Rejected by owner / superseded
 
@@ -92,3 +90,22 @@ IMPULS → IMPULSO
 ZRYW → ZRYWO
 ZEFIR → ZEFIRO
 FINTA → FINTO
+
+
+## Open codename slots after 2026-10-09 owner cut
+
+Owner removed: KLIKA, SMUGA, ECHO, REBUS, BŁYSK, ŚWIST.
+Owner form corrections: IMPULSO → IMPULS; ZRYWO → ZRYW; MRUG → MRUGO; SZYK → SZYKO.
+Kept explicitly: RASTER, REZON, KLIKO.
+
+Current approved pool count: **34**.
+Missing to restore the target pool of 40: **6 new codenames**.
+
+Unassigned verified English identities currently needing replacement codenames because their previous PL aliases were removed:
+- Zuri
+- Ivy
+- Echo
+- Vega
+- Dash
+
+The sixth new codename may remain reserve unless another verified identity requires it.
