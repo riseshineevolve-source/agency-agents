@@ -46,6 +46,16 @@ class ControlPlaneTests(unittest.TestCase):
         self.assertNotEqual(first, changed)
         self.assertIsNone(mod.attention_dedupe_key("central", "NORMAL", None, None, []))
 
+    def test_wf02_dedupe_only_tracks_highest_priority_signal(self):
+        blocked = mod.attention_dedupe_key("gentle", "BLOCKED", "CI locked", "store review", [{"lane": "PL", "need": "R6"}])
+        blocked_with_lower_changes = mod.attention_dedupe_key("gentle", "BLOCKED", "CI locked", "another review", [])
+        self.assertEqual(blocked, blocked_with_lower_changes)
+        self.assertNotEqual(blocked, mod.attention_dedupe_key("gentle", "BLOCKED", "CI restored but tests fail", None, []))
+
+        owner_gate = mod.attention_dedupe_key("detective", "OWNER_GATE", None, "Gold12 visual", [])
+        self.assertEqual(owner_gate, mod.attention_dedupe_key("detective", "OWNER_GATE", None, "Gold12 visual", ["new dependency"]))
+        self.assertNotEqual(owner_gate, mod.attention_dedupe_key("detective", "OWNER_GATE", None, "Gold15 visual", []))
+
     def test_wf02_live_registry_and_events(self):
         snapshot = mod.collect()
         self.assertEqual(snapshot["lane_count"], 11)

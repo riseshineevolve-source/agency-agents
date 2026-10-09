@@ -72,13 +72,17 @@ def attention_dedupe_key(
     """
     if classification == "NORMAL":
         return None
-    material = {
-        "lane": lane_id,
-        "classification": classification,
-        "blocker": blocker,
-        "owner_gate": owner_gate,
-        "dependencies_needed": dependencies,
-    }
+    # Only the winning precedence signal is material to this hour's alert.
+    # Lower-priority changes must not re-notify an unchanged BLOCKED/OWNER_GATE lane.
+    if classification == "BLOCKED":
+        signal = {"blocker": blocker}
+    elif classification == "OWNER_GATE":
+        signal = {"owner_gate": owner_gate}
+    elif classification == "DEPENDENCY":
+        signal = {"dependencies_needed": dependencies}
+    else:
+        raise ValueError(f"unexpected WF-02 classification: {classification}")
+    material = {"lane": lane_id, "classification": classification, **signal}
     encoded = json.dumps(
         material, sort_keys=True, ensure_ascii=False, default=str, separators=(",", ":")
     ).encode("utf-8")
