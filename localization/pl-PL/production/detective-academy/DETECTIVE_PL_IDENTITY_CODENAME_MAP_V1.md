@@ -53,13 +53,13 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 - Arlo → **WIRO**
 - Vega → **BŁYSK**
 - Wren → **SZEPT**
-- Uma → **FRAZA**
+- Uma → **FRAZO**
 - Blaze → **IMPULSO**
 - Indigo → **MIGOT**
 - Willa → **SZMERA**
 - Rocket → **ZRYWO**
 - Gray → **MRUG**
-- Finn → **MYK**
+- Finn → **MYKO**
 - Vera → **SPLOTA**
 - Dash → **ŚWIST**
 - Juno → **RYTMO**
@@ -68,7 +68,7 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 - Otis → **PIK**
 - Luna → **KADRO**
 - Theo → **CYFRON**
-- Gia → **KLIK**
+- Gia → **KLIKO**
 
 ## Polish reserve codenames — unassigned
 
@@ -79,7 +79,7 @@ These are not used until a new verified English identity is found:
 
 ## Final 40-name Polish universe pool
 
-KODRA, KADRO, SZMERA, KLIKA, KIKS, SPLOTA, MIGOT, FUKS, MYK, KOMBO, RYTMO, CYFRON, SZYFRA, PRYZMA, FINTO, SMUGA, ZEFIRO, RASTER, REBUS, ECHO, BŁYSK, ŚWIST, ZRYWO, FLESZ, IMPULSO, CYKO, KLIK, SZYK, TAKTO, REZON, WIRO, SZYCHA, SZEPT, SKRYPT, PIK, FRAZA, MIGA, FLARA, MRUG, PULS.
+KODRA, KADRO, SZMERA, KLIKA, KIKS, SPLOTA, MIGOT, FUKS, MYKO, KOMBO, RYTMO, CYFRON, SZYFRA, PRYZMA, FINTO, SMUGA, ZEFIRO, RASTER, REBUS, ECHO, BŁYSK, ŚWIST, ZRYWO, FLESZ, IMPULSO, CYKO, KLIKO, SZYK, TAKTO, REZON, WIRO, SZYCHA, SZEPT, SKRYPT, PIK, FRAZO, MIGA, FLARA, MRUG, PULS.
 
 ## Rejected by owner / superseded
 
