@@ -1,7 +1,7 @@
 # Detective Academy PL — Identity → Codename Map V1
 
 Date: 2026-10-09
-Status: **OWNER-LOCKED MAPPING RULES / 37 VERIFIED EN IDENTITIES ASSIGNED / 3 PL RESERVES**
+Status: **FINAL OWNER LOCK / 37 VERIFIED EN IDENTITIES ASSIGNED / 3 PL RESERVES**
 Locale: pl-PL
 
 ## Non-negotiable rules
@@ -40,18 +40,18 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 - Dax → **ZEFIRO**
 - Rook → **KIKS**
 - Atlas → **TAKTA**
-- Ivy → **TBD_PL_CODENAME**
+- Ivy → **WEKTRA**
 - Max → **FUKS**
-- Echo → **TBD_PL_CODENAME**
+- Echo → **BAJT**
 - Kai → **FINTO**
-- Zuri → **TBD_PL_CODENAME**
+- Zuri → **GLIFA**
 - Bea → **PRYZMA**
 - Clover → **SZYCHA**
 - Pixel → **RASTER**
 - Scout → **FLARO**
 - Hugo → **REZON**
 - Arlo → **WIRO**
-- Vega → **TBD_PL_CODENAME**
+- Vega → **ZWID**
 - Wren → **SZEPT**
 - Uma → **FRAZO**
 - Blaze → **IMPULS**
@@ -61,7 +61,7 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 - Gray → **MRUGO**
 - Finn → **MYKO**
 - Vera → **SPLOTA**
-- Dash → **TBD_PL_CODENAME**
+- Dash → **RANGA**
 - Juno → **RYTMO**
 - Skye → **FLESZ**
 - Moxie → **KOMBO**
@@ -72,40 +72,39 @@ Happy Makers names remain primary narrative identity; these are secondary Academ
 
 ## Polish reserve codenames — unassigned
 
-These are not used until a new verified English identity is found. Current owner-approved reserve:
+These remain unused until a new verified English identity appears:
 - **PULSA**
+- **SZYKO**
+- **WĄTEK**
 
 ## Final 40-name Polish universe pool
 
-KODRA, KADRO, SZMERA, KIKS, SPLOTA, MIGOT, FUKS, MYKO, KOMBO, RYTMO, CYFRON, SZYFRA, PRYZMA, FINTO, ZEFIRO, RASTER, ZRYWO, FLESZ, IMPULS, CYKO, KLIKO, SZYKO, TAKTA, REZON, WIRO, SZYCHA, SZEPT, SKRYPT, PIKO, FRAZO, MIGA, FLARO, MRUGO, PULSA.
+KODRA, KADRO, SZMERA, KIKS, SPLOTA, MIGOT, FUKS, MYKO, KOMBO, RYTMO, CYFRON, SZYFRA, PRYZMA, FINTO, ZEFIRO, RASTER, ZRYWO, FLESZ, IMPULS, CYKO, KLIKO, SZYKO, TAKTA, REZON, WIRO, SZYCHA, SZEPT, SKRYPT, PIKO, FRAZO, MIGA, FLARO, MRUGO, PULSA, WĄTEK, WEKTRA, GLIFA, RANGA, ZWID, BAJT.
 
 ## Rejected by owner / superseded
 
-PSTRYK, KRESA, PĘTLA, ŁUNA, AZYMUT, SKOK, NUTA, SKRÓT, KODRO.
-Earlier forms superseded:
-CYK → CYKO
-WIR → WIRO
-TAKT → TAKTA
-IMPULS → IMPULSO
-ZRYWO → ZRYWO
-ZEFIR → ZEFIRO
-FINTA → FINTO
+Rejected: PSTRYK, KRESA, PĘTLA, ŁUNA, AZYMUT, SKOK, NUTA, SKRÓT, KODRO, KLIKA, SMUGA, ECHO, REBUS, BŁYSK, ŚWIST.
 
+Superseded forms:
+- CYK → CYKO
+- WIR → WIRO
+- TAKT / TAKTO → TAKTA
+- IMPULSO → IMPULS
+- ZRYW → ZRYWO
+- ZEFIR → ZEFIRO
+- FINTA → FINTO
+- PULS → PULSA
+- FLARA → FLARO
+- PIK → PIKO
+- MYK → MYKO
+- KLIK → KLIKO
+- FRAZA → FRAZO
+- MRUG → MRUGO
 
-## Open codename slots after 2026-10-09 owner cut
+## Final consistency lock
 
-Owner removed: KLIKA, SMUGA, ECHO, REBUS, BŁYSK, ŚWIST.
-Owner form corrections: IMPULSO → IMPULS; ZRYWO → ZRYWO; MRUG → MRUGO; SZYK → SZYKO.
-Kept explicitly: RASTER, REZON, KLIKO.
-
-Current approved pool count: **34**.
-Missing to restore the target pool of 40: **6 new codenames**.
-
-Unassigned verified English identities currently needing replacement codenames because their previous PL aliases were removed:
-- Zuri
-- Ivy
-- Echo
-- Vega
-- Dash
-
-The sixth new codename may remain reserve unless another verified identity requires it.
+- Exactly **37 verified English identities** have one fixed Polish codename each.
+- Exactly **3 Polish codenames** remain reserve-only: PULSA, SZYKO, WĄTEK.
+- The final pool contains **40 unique Polish codenames**.
+- Witness Board / map / hint / solution / callback must always use the same mapping.
+- Case rosters must preserve a mixed sound pattern; do not intentionally cluster only `-a` or only `-o` names when a case roster is being localized.
