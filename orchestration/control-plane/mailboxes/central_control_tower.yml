@@ -1,33 +1,33 @@
 lane: central_control_tower
 title: "RSE Central Control Tower"
-updated: 2026-10-08
-status: CONTROL_PLANE_V1_ACTIVE__WORLD02_L18_MAIN_MERGED_CONTRACT_CI_PASS
-branch_or_repo_state: agency-agents/main
-milestone: world02_pr35_merged_and_main_contract_ci_pass__polish_r5_fit_guard_exact_head_green__happy_me_release311_recorded
-blocker: null
-owner_gate: "Previously communicated only: Detective recovered Gold contact-sheet visual Pages12/15; Project Unstoppable exact Owner-Read V2 content approval/freeze. Do not duplicate packets."
+updated: 2026-10-09
+status: CONTROL_PLANE_V1_ACTIVE__PL_R6_APP_LOCAL_QA_PASS__ACTIONS_PRE_RUNNER_FAILURE
+branch_or_repo_state: "agency-agents/main@c7339d2ae70bda83ead6988e4e2d43d35ae392e5; central-only reconciliation"
+milestone: "World02 Level18 merged/earlier exact-head contract green; Gentle Steps PL R6 app local browser QA pass; current GitHub Actions checks not executing"
+blocker: "GitHub Actions central push checks on 2026-10-09T00:36Z failed before test steps; Gentle Steps R6 job at 00:41Z startup_failure; previously confirmed account billing issue already reported to owner."
+owner_gate: "Previously communicated only: GitHub account billing; Detective Gold Pages12/15; Unstoppable Owner-Read V2 freeze; World02 PR11 permitted merge; Optical Final20, private-repo migration, and normal external release gates. No new decision packet."
 dependencies_needed:
   - lane: world_app_factory
-    need: consume merged canonical World02 Level18 source in offline source-aware runtime, preserve unpublished/incomplete navigation and validate exact target head
-    evidence: "agency-agents/main@a7fb3c54b2fc878e3df9e7065558c002e928bcca; PR35 merged; Interactive Book Contract PASS"
+    need: "Consume merged canonical World02 Level18 source in offline hidden shared runtime; reconcile Level19 branch/mailbox ref drift; never infer PR11 merge from green CI."
+    evidence: "agency-agents PR35 MERGED; spark-joy-fam PR11 OPEN head 42465032c7e103bbfe6cc8326843d38fa61a3568 and earlier exact-head Android CI PASS"
   - lane: detective_book_factory
-    need: consume the already-requested bounded Gold Pages12/15 visual decision when available; provide exact V12 semantic-role/physical-page proof mapping to Marketing
+    need: "Complete existing bounded Gold Pages12/15 owner visual gate; supply current V12 exact semantic role and physical folio proof to Marketing."
   - lane: marketing_autopilot
-    need: replace stale 141-page Detective D02/D04/D07 locators using current V12 role/page truth before proof crops or scheduling
+    need: "Replace historical 141-page D02/D04/D07 proof locators with verified current V12 Gold output before PRELINK scheduling or claims; paid activation off."
   - lane: gentle_steps
-    need: render exact Polish R5 blob 04b4afcc438789d648ed34fa594f86ee97b02472 in the actual production book template and supply print-scale PDF/PNG evidence to Polish Localization
+    need: "Render exact Polish R6 packaging blob 896cf92bf6ed126ef62e623fd9cac640270e853f in final production book template; produce full PDF/print-scale PNG proof for Polish writer; latest PL Android code head 0def0d2769b7cd26de83d0e02ad2200a10481263 has not passed remote CI."
   - lane: polish_localization
-    need: consume real-template R5 evidence after producer handoff, execute editorial/safety fit gate; regression guards green on branch 081d55140fb591c1a01c4c747985c890e2e13121
+    need: "Consume exact real-template R6 evidence when producer provides it, run final editorial and safety fit gate; do not report print QA PASS from local app browser tests."
   - lane: optical_animals
-    need: reconcile local exact-source Final20 bytes via its authorized writer before masks/token promotion; no unapproved visual swaps
+    need: "Reconcile local exact-source Final20 bytes and visual selection solely in Optical writer; no unauthorized roster or source promotion."
   - lane: unstoppable
-    need: preserve exact V2 Owner-Read candidate pending previously communicated content freeze; no premature Book Factory release
+    need: "Preserve exact V2 Owner-Read content candidate pending existing owner freeze; do not prematurely bind release."
   - lane: happy_me
-    need: preserve existing auth-dashboard, callback, Android-device, signing, Play and privacy release gates; Mobile quality #311 PASS is repository-side only
+    need: "Keep auth-dashboard, real email callback, real device, signing, Play, privacy and Families release gates; prior repository QA is not live hardware evidence."
 reusable_outputs:
   - orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
   - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
   - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
-  - orchestration/brain/checkpoints/2026-10-08-central-control-tower-world18-ci-reconcile.md
-next_safe_task: verify World02 Level18 runtime handoff and exact-head CI, R5 final-template evidence, and Marketing current V12 product-proof locators; notify only on genuinely new owner action
-checkpoint_reference: orchestration/brain/checkpoints/2026-10-08-central-control-tower-world18-ci-reconcile.md
+  - orchestration/brain/checkpoints/2026-10-09-central-control-tower-reconcile-0248.md
+next_safe_task: "Read next fresh lane heads; confirm GitHub Actions runner restoration only after billing owner action; verify Gentle PL R6 final print template handoff, World02 PR11 live state, Detective-to-Marketing current proof mapping. No repeated owner packets."
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-09-central-control-tower-reconcile-0248.md
