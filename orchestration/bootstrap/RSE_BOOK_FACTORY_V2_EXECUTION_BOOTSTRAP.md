@@ -27,6 +27,19 @@ Read:
 Inspect the existing migration source:
 `tools/detective-book-factory/`
 
+## Mandatory editorial preflight
+
+Before any new book/edition enters page production, verify whether its content is already explicitly owner-approved and hash-locked as `FROZEN_CONTENT`.
+
+If NOT, do not start layout/rendering. Route upstream to:
+
+1. `orchestration/bootstrap/PREMIUM_BOOK_CONTENT_UPGRADE_BOOTSTRAP.md`
+2. `orchestration/architecture/RSE_PREMIUM_BOOK_CONTENT_UPGRADE_PROTOCOL_V1.md`
+
+Book Factory must receive an exact `CONTENT_FREEZE_MANIFEST` + premium master hash. It may not select an informal "latest" draft or improve copy during rendering.
+
+Keep `CONTENT_APPROVED`, `FROZEN_CONTENT`, `PRINT_READY` and `RELEASE_AUTHORIZED` as separate states.
+
 ## Mission
 
 Do NOT create another unrelated factory.
