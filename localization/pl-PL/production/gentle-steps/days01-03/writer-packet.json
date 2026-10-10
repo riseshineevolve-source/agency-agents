@@ -1,0 +1,266 @@
+{
+  "format": "rse-native-pl-writer-packet-v1",
+  "product": "gentle-steps-christmas",
+  "run_sha256": "f0d3a9dec509887a7bce8ee8f04de264a787893da3693043041ca79eab178886",
+  "brief_sha256": "c6e35396cab7e8ca5b3d389f230a713888c806a18cdb6b624b8d9757d122b078",
+  "authoring_mode": "from_function_not_from_english_wording",
+  "source_visibility": "functional_brief_only",
+  "instructions": [
+    "Write as if the Polish product were created in Poland from the beginning.",
+    "Preserve mechanics, facts, character roles, safety and claim boundaries.",
+    "Do not reconstruct English metaphors, sentence order or motivational cadence.",
+    "Prefer concrete contemporary family Polish, situational humor and spoken rhythm.",
+    "Avoid corporate coaching, therapy-speak, imported mindfulness phrasing and forced youth slang."
+  ],
+  "units": [
+    {
+      "id": "GS.D01.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Open Day 1 with a one-minute shared quiet pause that feels low-pressure and doable for a real family.",
+      "mechanics": [
+        "Family sits together in a circle.",
+        "Light hand-holding or shoulder contact is optional family touch.",
+        "Eyes close.",
+        "Everyone breathes together for one minute.",
+        "No talking or task performance is required."
+      ],
+      "immutable_facts": [
+        "Duration is one minute.",
+        "This is the first of three Day 1 activities.",
+        "Luli comments on Alio's difficulty staying still."
+      ],
+      "character_roles": [
+        "Luli delivers a dry, older-sibling observation.",
+        "Alio is the energetic family member being gently teased."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim guaranteed calm, regulation or therapeutic effect.",
+        "Physical contact must not be framed as compulsory in Polish."
+      ],
+      "tone_job": "Make quiet feel normal and slightly funny, not spiritual or solemn.",
+      "humor_room": "Dry family joke about Alio staying still.",
+      "cultural_friction": "Avoid mindfulness jargon and poetic claims about shared air or energy.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
+    },
+    {
+      "id": "GS.D01.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Create an easy circle game where each person receives one concrete positive comment through an imaginary-ball mechanic.",
+      "mechanics": [
+        "Stand in a circle.",
+        "Starter is the person whose name comes latest in the alphabet.",
+        "Starter pretends to hold an invisible ball.",
+        "They throw it gently to someone and say one specific compliment or appreciated quality.",
+        "Receiver acknowledges it, then throws to another person.",
+        "Continue until everyone has received at least one positive comment; extra rounds are optional."
+      ],
+      "immutable_facts": [
+        "The ball is imaginary.",
+        "Everyone should receive at least one positive comment.",
+        "Nini's joke contrasts gentle throwing with avoiding bruises."
+      ],
+      "character_roles": [
+        "Nini adds bright, physical comedy."
+      ],
+      "safety_claim_boundaries": [
+        "Do not promise the exercise builds trust as a guaranteed outcome.",
+        "Keep throwing explicitly gentle/imaginary."
+      ],
+      "tone_job": "Turn a potentially earnest compliment exercise into a light family game.",
+      "humor_room": "Invisible-ball / no-bruises joke.",
+      "cultural_friction": "Avoid school-workshop language such as formal praise circles.",
+      "recurrence_context": "Working recurring family: GRAMY"
+    },
+    {
+      "id": "GS.D01.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Close Day 1 with a tiny emotional check-in: one honest word about how each person feels now.",
+      "mechanics": [
+        "Each person says exactly one word.",
+        "The word describes how they feel right now."
+      ],
+      "immutable_facts": [
+        "One word is the core constraint.",
+        "Luli challenges an overly vague generic answer."
+      ],
+      "character_roles": [
+        "Luli is precise, mildly teasing, never therapy-like."
+      ],
+      "safety_claim_boundaries": [
+        "Do not force disclosure beyond one word.",
+        "Do not imply emotional honesty guarantees trust."
+      ],
+      "tone_job": "Keep emotional language simple, brief and non-therapeutic.",
+      "humor_room": "A dry nudge against vague default answers.",
+      "cultural_friction": "Avoid coaching prompts and adult emotional-literacy jargon.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
+    },
+    {
+      "id": "GS.D02.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Start Day 2 with one minute of paced breathing using a 4-count inhale and 6-count exhale.",
+      "mechanics": [
+        "Everyone breathes in for four counts.",
+        "Everyone breathes out for six counts.",
+        "Repeat for one minute."
+      ],
+      "immutable_facts": [
+        "Inhale count is 4.",
+        "Exhale count is 6.",
+        "Duration is one minute.",
+        "Mimi jokes that slow breathing is something she does not speed up."
+      ],
+      "character_roles": [
+        "Mimi sounds like a busy parent who knows December runs fast."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim the pattern guarantees calm or emotional regulation.",
+        "Do not instruct anyone to force or overfill a breath."
+      ],
+      "tone_job": "Make a paced-breathing exercise feel practical rather than wellness-coded.",
+      "humor_room": "Contrast December rushing with not rushing the breath.",
+      "cultural_friction": "Avoid language about one shared breath/room breathing as one.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
+    },
+    {
+      "id": "GS.D02.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Build a silly family sound sequence in which every person adds one short sound and the group later performs the sequence together.",
+      "mechanics": [
+        "Starter is the person whose birthday occurs next.",
+        "Starter makes one short sound.",
+        "Move clockwise.",
+        "Each next person repeats the accumulated sound sequence and adds one different sound.",
+        "Continue until everyone has added a sound.",
+        "Optional extra rounds make the sequence longer.",
+        "Perform the full sound sequence together several times."
+      ],
+      "immutable_facts": [
+        "Birthday order chooses the starter.",
+        "Direction is clockwise.",
+        "Every person adds one sound.",
+        "Dilo encourages adding a sound even if it is questionable."
+      ],
+      "character_roles": [
+        "Dilo treats weird sound-making with confident pseudo-musical seriousness."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim harmony or communication improvements as guaranteed outcomes."
+      ],
+      "tone_job": "Fast, silly, memorable family noise with a tech/music-flavored Dilo joke.",
+      "humor_room": "Questionable sound becomes music if performed confidently.",
+      "cultural_friction": "Use Polish-friendly sound examples rather than copying English sound words.",
+      "recurrence_context": "Working recurring family: GRAMY"
+    },
+    {
+      "id": "GS.D02.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Invite each person to name one thing they genuinely like about being part of this family.",
+      "mechanics": [
+        "Each person completes one sentence about something they like about this family."
+      ],
+      "immutable_facts": [
+        "One thing per person is enough.",
+        "Luli jokes that dramatic speeches are optional."
+      ],
+      "character_roles": [
+        "Luli keeps sentiment grounded with dry humor."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim the exercise reconnects the family to what truly matters as a guaranteed effect."
+      ],
+      "tone_job": "Warm without becoming ceremonial or sentimental.",
+      "humor_room": "Mock-formal speech/gala joke.",
+      "cultural_friction": "Avoid literal 'being us' phrasing and abstract connection language.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
+    },
+    {
+      "id": "GS.D03.PAUSE",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Create one minute of stillness using hand placement and gentle family contact, without mystical claims.",
+      "mechanics": [
+        "Place one hand on your own chest/heart area.",
+        "Place the other hand on the shoulder of the person next to you.",
+        "Breathe slowly for one minute."
+      ],
+      "immutable_facts": [
+        "Duration is one minute.",
+        "One hand is on self; one hand is on neighbor's shoulder.",
+        "Nini jokes that her still fingers may be planning a tickle attack."
+      ],
+      "character_roles": [
+        "Nini's body-humor keeps the stillness playful."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim peace or calm literally travels between hearts.",
+        "Make touch consent explicit in Polish.",
+        "Do not require a person to feel a particular bodily/emotional result."
+      ],
+      "tone_job": "Quiet physical connection with zero spiritual pressure.",
+      "humor_room": "Still hands / mischievous fingers contrast.",
+      "cultural_friction": "Remove heart-energy/peace-travel metaphors.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ"
+    },
+    {
+      "id": "GS.D03.PLAY",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Run a fast freeze-pose game based on shouted words, including a clear two-person variant.",
+      "mechanics": [
+        "Youngest person starts and shouts one word.",
+        "Everyone instantly makes a matching pose and freezes for three seconds.",
+        "Caller chooses the person who gives the next word.",
+        "Play several rounds.",
+        "For two people: one person freezes in a pose and the other guesses what it represents; then roles can switch."
+      ],
+      "immutable_facts": [
+        "Youngest person starts.",
+        "Freeze lasts three seconds.",
+        "Caller selects the next caller.",
+        "Two-person guessing variant must remain.",
+        "Alio jokes that slower freezing produces weirder-looking poses."
+      ],
+      "character_roles": [
+        "Alio is energetic, physical and amused by chaos."
+      ],
+      "safety_claim_boundaries": [
+        "Keep poses safe and stationary during the three-second freeze."
+      ],
+      "tone_job": "Quick physical comedy; no lesson language.",
+      "humor_room": "The later the freeze, the stranger the pose.",
+      "cultural_friction": "Use ordinary Polish prompt examples such as snow, kiss, Christmas tree, hug.",
+      "recurrence_context": "Working recurring family: GRAMY"
+    },
+    {
+      "id": "GS.D03.TALK",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "End Day 3 by sharing one enjoyable moment from today, explicitly allowing small ordinary pleasures.",
+      "mechanics": [
+        "Each person shares one moment they enjoyed today.",
+        "The moment can be something small that felt good."
+      ],
+      "immutable_facts": [
+        "One moment per person.",
+        "Mimi explicitly validates snacks as a legitimate favorite moment."
+      ],
+      "character_roles": [
+        "Mimi normalizes ordinary pleasures with matter-of-fact humor."
+      ],
+      "safety_claim_boundaries": [
+        "Do not require gratitude, positivity or a profound takeaway."
+      ],
+      "tone_job": "Make reflection easy and ordinary, not performative.",
+      "humor_room": "Snack can legitimately win the day.",
+      "cultural_friction": "Avoid grand language about ordinary moments becoming extraordinary through noticing.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI"
+    }
+  ]
+}

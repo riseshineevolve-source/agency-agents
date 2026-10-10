@@ -1,0 +1,76 @@
+{
+  "format": "rse-gentle-steps-pl-full-days-audit-v1",
+  "date": "2026-10-01",
+  "product": "gentle-steps-christmas",
+  "scope": "days_01_24_core_daily_program",
+  "status": "READY_FOR_OWNER_REVIEW",
+  "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+  "batch_candidates": [
+    {
+      "range": "01-03",
+      "candidate_sha256": "3c6e2c481f790747a4b4932b4d198ab09d2637c971ba69bba442a8d9d0070f84"
+    },
+    {
+      "range": "04-07",
+      "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7"
+    },
+    {
+      "range": "08-14",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea"
+    },
+    {
+      "range": "15-21",
+      "candidate_sha256": "bc5c1973f6f13c23061df60610d5fe6885af4ab3b862f8dd90f791bab73be0e6"
+    },
+    {
+      "range": "22-24",
+      "candidate_sha256": "2513b42c9557ac765240e918fdda3da9518efba780f862e03586489dceab0369"
+    }
+  ],
+  "coverage": {
+    "days": 24,
+    "units": 72,
+    "expected_units": 72,
+    "missing_or_order_defects": []
+  },
+  "recurring_labels": {
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI",
+    "locked": false
+  },
+  "full_book_findings": {
+    "polish_usage": "PASS — native-language micro-pass repeated after owner feedback; residual near-native phrases and English-style punctuation removed.",
+    "book_register": "PASS — instructional prose uses Polish sentence structure, no em dash, and keeps stronger colloquiality mainly in character comments.",
+    "breath_reset": "PASS — source breathing/body/light imagery is re-authored into concrete everyday pauses; no shared-energy/inner-light claims retained.",
+    "instruction_completeness": "PASS — each game batch has source-mechanics receipts; complex Days 5, 6, 9, 12, 16, 18, 21, 22 and 23 retain explicit order/count/variant rules.",
+    "character_voice": "PASS — Dilo system/tech dry; Luli precise/dry; Mimi practical; Nini playful/physical; Alio energetic/team-oriented.",
+    "repeated_titles": [],
+    "intentional_source_recurrences": [
+      "Memory/reflection appears more than once in source; Polish prompts are differentiated by mechanic and wording.",
+      "Sound/orchestra activities recur; Day 2 is cumulative sequence, Day 16 is conductor-controlled start/stop orchestra.",
+      "Face/body relaxation recurs; headings and instructions are differentiated."
+    ],
+    "safety_adaptations": [
+      "Touch is optional throughout Polish copy.",
+      "Day 18 chair navigation adds clear-floor/open-eyes leader safeguards and opt-out from eyes-closed participation.",
+      "Day 21 squeeze wave prevents painful squeezing and provides non-touch alternative.",
+      "Breathing pages never instruct forceful breath or promise guaranteed emotional regulation.",
+      "Day 23 apology does not require invented disclosure or automatic forgiveness."
+    ]
+  },
+  "owner_gates": [
+    "Final Polish title.",
+    "Lock or revise recurring labels RESET / AKCJA / U NAS.",
+    "Owner copy review of the complete 24-day Polish program.",
+    "Exact book/app surface fit and typography after copy approval.",
+    "Separate localization/re-authoring pass for post-Day24 back matter pages 98-104."
+  ],
+  "publication_authorized": false,
+  "owner_feedback_2026_10_01": [
+    "Use Polish sound examples rather than English-coded onomatopoeia.",
+    "Do not use em dash in reader-facing Polish; rebuild the sentence.",
+    "Replace RESET / AKCJA / U NAS with a more premium youth-facing working set.",
+    "Reject technically grammatical but non-native phrases such as 'brzmi sprawnie'."
+  ]
+}

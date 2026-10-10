@@ -1,0 +1,61 @@
+{
+  "format": "rse-gentle-steps-pl-v03-r5-production-template-fit-request-v1",
+  "date": "2026-10-07",
+  "status": "PREPARED_EXACT_R5_FIT_REQUEST_OWNER_GATED",
+  "consumer_lane": "gentle_steps",
+  "source_of_truth": {
+    "repository": "riseshineevolve-source/agency-agents",
+    "canonical_localization_branch": "codex/polish-engine-main-reconcile",
+    "r4_content_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md",
+    "r4_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
+    "r5_packaging_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R5_2026-10-07.md",
+    "r5_blob_sha": "04b4afcc438789d648ed34fa594f86ee97b02472",
+    "body_lock_boundary": "## DZIEŃ 1",
+    "r4_r5_body_equal": true,
+    "body_character_count": 59207
+  },
+  "product_identity": {
+    "series_header": "THE HAPPY MAKERS PRESENT",
+    "title": "ŚWIĘTA SĄ TEŻ PO DRODZE",
+    "subtitle": "24 rodzinne aktywności po 10 minut, żeby mniej się spieszyć, więcej śmiać i naprawdę pobyć razem"
+  },
+  "structure": {
+    "days": 24,
+    "zwolnij": 24,
+    "gramy": 24,
+    "miedzy_nami": 24,
+    "na_jutro": 24,
+    "start_blocks": 24,
+    "two_person_blocks": 24
+  },
+  "density_watchlist": [
+    {"day": 24, "approx_words": 836},
+    {"day": 18, "approx_words": 439},
+    {"day": 9, "approx_words": 427},
+    {"day": 1, "approx_words": 415},
+    {"day": 23, "approx_words": 362},
+    {"day": 7, "approx_words": 358},
+    {"day": 21, "approx_words": 353},
+    {"day": 22, "approx_words": 351},
+    {"day": 10, "approx_words": 339}
+  ],
+  "required_front_matter_surfaces": [
+    "series/title/subtitle page",
+    "Meet the Happy Makers bios",
+    "how the book works / recurring-label explanation"
+  ],
+  "required_daily_render_sample": [24,18,9,1,23,7,21,22,10],
+  "render_checks": [
+    "render exact R5 blob without copy edits",
+    "title/subtitle readable at final trim size and thumbnail scale",
+    "Happy Makers bios fit without readability-damaging compression",
+    "Polish diacritics correct at print scale",
+    "no clipping, overflow, collisions or orphaned labels",
+    "no body-font reduction to force fit",
+    "START, W DWIE OSOBY and NA JUTRO remain distinct",
+    "safety, consent and game-mechanics clauses remain complete"
+  ],
+  "pass_rule": "PASS requires the exact R5 blob rendered in the real final template and inspected at print scale.",
+  "excluded_from_approval": ["CONTENT_FROZEN","PRINT_READY","KDP publication","release authorization"],
+  "owner_gate": "After fit evidence is green: owner visual approval plus explicit content-freeze decision."
+}

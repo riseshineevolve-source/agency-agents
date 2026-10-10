@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-04",
+  "status": "V2_FAMILY_EAR_UPGRADE_SAFE_STATE",
+  "branch": "codex/polish-engine-main-reconcile",
+  "master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
+  "master_blob_sha": "9e2b4648dea2d072255c278545d35174d8132dd2",
+  "safe_state_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_FAMILY_EAR_SAFE_STATE_2026-10-04.md",
+  "structure": {
+    "days": 24,
+    "slow": 24,
+    "play": 24,
+    "between": 24,
+    "duplicate_titles": 0,
+    "reader_facing_em_dash": 0
+  },
+  "changes": [
+    "Day 3 generic emotion check-in replaced with a concrete one-scene family update prompt.",
+    "Day 14 repeated appreciation circle replaced with a family-influence prompt about habits, phrases, tastes and jokes picked up from one another.",
+    "Day 21 generic pleasant-sensation reset replaced with a practical real-December sound-reduction reset."
+  ],
+  "density_watch": [
+    {
+      "day": 1,
+      "words": 366
+    },
+    {
+      "day": 21,
+      "words": 342
+    },
+    {
+      "day": 23,
+      "words": 325
+    },
+    {
+      "day": 10,
+      "words": 324
+    },
+    {
+      "day": 18,
+      "words": 324
+    },
+    {
+      "day": 20,
+      "words": 314
+    },
+    {
+      "day": 22,
+      "words": 310
+    },
+    {
+      "day": 9,
+      "words": 307
+    }
+  ],
+  "owner_gates_unchanged": [
+    "title",
+    "recurring section labels",
+    "publication/freeze",
+    "real template/physical proof",
+    "Detective EN freeze before Detective PL"
+  ]
+}

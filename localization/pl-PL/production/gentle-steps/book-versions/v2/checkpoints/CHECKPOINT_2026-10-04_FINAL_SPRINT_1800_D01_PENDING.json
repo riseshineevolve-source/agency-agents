@@ -1,0 +1,14 @@
+{
+  "status": "D01_PATCH_READY_WRITE_TRANSIENTLY_BLOCKED",
+  "master_blob": "c1bc9fd573ef3efdd8c563a1cdfaa93aa6035702",
+  "guard_scope": [
+    "D01.ZWOLNIJ"
+  ],
+  "proposed_change": {
+    "before": "Jeśli coś pilnego przypomni o sobie w głowie, zauważcie to i wróćcie do oddechu. Za minutę nadal będziecie wiedzieć, co trzeba zrobić.",
+    "after": "Jeśli w trakcie przypomni wam się coś pilnego, zostawcie to na później. Za minutę nadal będziecie wiedzieć, co trzeba zrobić."
+  },
+  "rationale": "Removes imported mindfulness cadence while preserving the one-minute reset mechanics, meaning and safety.",
+  "collateral_change_policy": "NONE",
+  "next_action": "Retry only the master write; then restore exact-set guard and run regression."
+}

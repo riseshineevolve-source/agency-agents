@@ -1,0 +1,22 @@
+{
+  "timestamp_local": "2026-10-03T21:57:00+02:00",
+  "status": "DURABLE_AUTOSAVE_BEFORE_CONTINUED_UPGRADE",
+  "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
+  "working_master_blob_sha": "17199d28888901353cbc82224ecabc3c1bf56e2d",
+  "snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_CHECKPOINT_2026-10-03_2157.md",
+  "owner_direction": [
+    "keep 24 days x 3 elements",
+    "make December family reality much more present",
+    "quiet/breath sections must offer practical help inside real chaos",
+    "games should create laughter cooperation teamwork trust and support",
+    "between-us sections should build family knowledge appreciation gratitude memories and belonging",
+    "Happy Makers humor must be sharp natural Polish self-aware and character-specific",
+    "avoid childish tone fake youth slang coaching language and translationese",
+    "Version 01 remains frozen and untouched"
+  ],
+  "title_candidates": [
+    "ŚWIĘTA SĄ TEŻ PO DRODZE",
+    "ZANIM ZNOWU BĘDZIE PO ŚWIĘTACH"
+  ],
+  "publication_authorized": false
+}

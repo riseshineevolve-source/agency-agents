@@ -1,0 +1,245 @@
+{
+  "format": "rse-reauthor-backcheck-packet-v1",
+  "product": "gentle-steps-christmas",
+  "source_file": "private-owner-upload/24 Gentle Paperback ok(2).pdf",
+  "source_revision": "owner-upload-2026-09-30",
+  "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+  "candidate_sha256": "68c4e928d0de2e509f41568e5dc6e22ed4fbc15fe6d6077251042974140223b7",
+  "instruction": "Re-open the English source only now. Verify mechanics, facts, counts, sequence, consent, claim strength, character continuity and required function. Do not rewrite Polish toward English syntax, metaphors or cadence merely to make the texts look parallel.",
+  "units": [
+    {
+      "id": "GS.D04.PAUSE",
+      "source_locator": "PDF p30",
+      "function": "Create a short visual pause around one small light source without spiritualizing it.",
+      "mechanics": [
+        "Sit close together.",
+        "Look softly at a small flame or light.",
+        "Notice changes/flicker in the light.",
+        "Breathe calmly while watching."
+      ],
+      "immutable_facts": [
+        "The source permits either a small flame or another light source.",
+        "Luli comments on letting the eyes rest."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim the light changes emotion or energy.",
+        "If a real candle is used, keep it safely positioned and supervised."
+      ],
+      "final_pl_for_review": "DZIEŃ 4\n\nZWOLNIJ: TYLKO ŚWIATŁO\n\nUsiądźcie blisko siebie i wybierzcie małe źródło światła, na przykład lampkę albo bezpiecznie ustawioną świeczkę.\n\nPrzez chwilę patrzcie tylko na światło. Zobaczcie, jak się zmienia, drga albo odbija na przedmiotach wokół.\n\nOddychajcie swobodnie. Nie trzeba niczego analizować. Przez chwilę wystarczy po prostu patrzeć.\n\nLuli: Dziś niczego nie analizuję. Sama jestem zaskoczona."
+    },
+    {
+      "id": "GS.D04.PLAY",
+      "source_locator": "PDF p31",
+      "function": "Run a voice-imitation circle where one sentence travels around in different voices.",
+      "mechanics": [
+        "Starter is the person with the longest hair.",
+        "Starter says one cheerful sentence in a normal voice.",
+        "Move anticlockwise.",
+        "Each person repeats the same sentence in a different voice/tone.",
+        "No voice repeats within a round.",
+        "After a full round, the person to the starter's right chooses a new sentence for another round."
+      ],
+      "immutable_facts": [
+        "Voice examples may be culturally adapted.",
+        "Mimi warns about choosing a voice you will immediately hear repeated."
+      ],
+      "safety_claim_boundaries": [
+        "Keep it vocal/playful; do not add unsafe physical actions."
+      ],
+      "final_pl_for_review": "DZIEŃ 4\n\nGRAMY: GŁOSY W OBIEGU\n\nZaczyna osoba z najdłuższymi włosami. Mówi normalnym głosem jedno wesołe zdanie, na przykład: „Nie mogę się doczekać świąt!”.\n\nNastępnie gra toczy się przeciwnie do ruchu wskazówek zegara. Każda kolejna osoba powtarza dokładnie to samo zdanie, ale innym głosem.\n\nMożecie mówić jak robot, prezenter wiadomości, kaczka, śpiewak operowy, kosmita albo superbohater. Możecie też wymyślać własne głosy.\n\nW jednej rundzie żaden głos nie może się powtórzyć.\n\nKiedy zdanie przejdzie przez całe koło, osoba siedząca po prawej stronie osoby rozpoczynającej wybiera nowe zdanie. Potem zaczynacie kolejną rundę.\n\nMimi: Ten głos za chwilę usłyszy cała rodzina. Wybierajcie odpowiedzialnie."
+    },
+    {
+      "id": "GS.D04.TALK",
+      "source_locator": "PDF p32",
+      "function": "Ask each person to choose one color that matches their day.",
+      "mechanics": [
+        "Each person chooses one color.",
+        "Each says the color aloud."
+      ],
+      "immutable_facts": [
+        "Invented colors are allowed.",
+        "Dilo explicitly approves invented colors."
+      ],
+      "safety_claim_boundaries": [
+        "Do not imply colors diagnose emotions."
+      ],
+      "final_pl_for_review": "DZIEŃ 4\n\nMIĘDZY NAMI: JAKI KOLOR MIAŁ DZIŚ DZIEŃ?\n\nKażdy wybiera jeden kolor, który najlepiej pasuje do jego dzisiejszego dnia, i mówi go na głos.\n\nNie trzeba wyjaśniać wyboru.\n\nJeśli odpowiedniego koloru jeszcze nie ma, możecie go właśnie wymyślić.\n\nDilo: Nie istnieje? Już istnieje. Dodałem do systemu."
+    },
+    {
+      "id": "GS.D05.PAUSE",
+      "source_locator": "PDF p33",
+      "function": "Spend one minute listening to sounds at three distances/intensities.",
+      "mechanics": [
+        "Close eyes.",
+        "For one minute notice three layers of sound: near, far, subtle/very quiet."
+      ],
+      "immutable_facts": [
+        "Duration is one minute.",
+        "Three sound layers are required.",
+        "Dilo comments on unusual quiet in his own mind."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim the exercise regulates emotion or produces calm."
+      ],
+      "final_pl_for_review": "DZIEŃ 5\n\nZWOLNIJ: TRZY WARSTWY DŹWIĘKU\n\nZamknijcie oczy na minutę.\n\nNajpierw posłuchajcie dźwięków, które są najbliżej was.\n\nPotem sprawdźcie, co słychać dalej, na przykład za drzwiami, za oknem albo gdzieś w głębi domu.\n\nNa końcu spróbujcie wyłapać najcichszy dźwięk, który dociera do was z tła.\n\nNie zgadujcie, co to. Po prostu słuchajcie.\n\nDilo: Cicho. Mój mózg właśnie zamknął trzy karty. Zostało tylko siedem."
+    },
+    {
+      "id": "GS.D05.PLAY",
+      "source_locator": "PDF p34",
+      "function": "Build a human counting clock with pointing, speed/reverse rounds and an advanced no-order round.",
+      "mechanics": [
+        "Sit in a circle.",
+        "Tallest person starts with 1 and points to someone.",
+        "Pointed person says 2 and points onward; continue to 12.",
+        "Any mistake resets to the start.",
+        "Repeat faster.",
+        "Repeat backward from 12 to 1.",
+        "Optional higher target number.",
+        "Advanced: group counts to 12 or higher without pre-agreeing who starts or who says next; if two speak together, restart.",
+        "Two-person version remains valid."
+      ],
+      "immutable_facts": [
+        "Numbers 1-12 and reverse 12-1 are core.",
+        "Advanced round has no preassigned order.",
+        "Dilo frames precision like a strict system."
+      ],
+      "safety_claim_boundaries": [
+        "Keep pointing and pace safe; no elimination/shaming."
+      ],
+      "final_pl_for_review": "DZIEŃ 5\n\nGRAMY: 12 BEZ POMYŁKI\n\nUsiądźcie w kółku.\n\nZaczyna najwyższa osoba. Mówi „jeden” i wskazuje dowolną osobę, która ma kontynuować. Wskazana osoba mówi „dwa”, po czym wskazuje kolejną osobę. W ten sposób liczycie aż do 12.\n\nJeśli ktoś się pomyli, zaczynacie liczenie od początku.\n\nKiedy uda wam się dojść do 12 bez pomyłki, powtórzcie całą rundę szybciej. Następnie spróbujcie policzyć wstecz, od 12 do 1.\n\nJeśli chcecie zwiększyć trudność, możecie ustalić wyższą liczbę końcową.\n\nW rundzie finałowej nie ustalacie wcześniej, kto zacznie ani kto wypowie kolejną liczbę. Spróbujcie wspólnie doliczyć do 12 lub wyżej, obserwując pozostałych i pilnując, żeby dwie osoby nie odezwały się jednocześnie. Jeśli tak się stanie, zaczynacie od jedynki.\n\nTen wariant działa również wtedy, gdy bawią się tylko dwie osoby.\n\nDilo: Tu nie ma VAR-u. Pomyłka i wracamy do jedynki."
+    },
+    {
+      "id": "GS.D05.TALK",
+      "source_locator": "PDF p35",
+      "function": "Name one familiar home sound each person genuinely likes hearing.",
+      "mechanics": [
+        "Each person names one sound they like hearing at home."
+      ],
+      "immutable_facts": [
+        "The sound may be ordinary.",
+        "Dilo jokes about tech/appliance sounds."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim the sound proves safety or attachment."
+      ],
+      "final_pl_for_review": "DZIEŃ 5\n\nMIĘDZY NAMI: DŹWIĘK DOMU\n\nKażdy podaje jeden dźwięk, który lubi słyszeć w domu.\n\nMoże to być coś zupełnie zwyczajnego: czyjś śmiech, klucz przekręcany w zamku, pies biegnący po podłodze, czajnik albo muzyka dochodząca z drugiego pokoju.\n\nWystarczy po jednym dźwięku.\n\nDilo: Piknięcie mikrofalówki i dźwięk otwieranej lodówki. Ścisła czołówka."
+    },
+    {
+      "id": "GS.D06.PAUSE",
+      "source_locator": "PDF p36",
+      "function": "Create a short shared breathing rhythm in a loose circle without mystical shared-breath framing.",
+      "mechanics": [
+        "Sit in a loose circle.",
+        "Hands rest on own knees or are lightly joined if everyone wants.",
+        "Breathe for a short while at a similar pace."
+      ],
+      "immutable_facts": [
+        "Original uses a shared-breath/wave image.",
+        "Alio frames it as teamwork in quiet form."
+      ],
+      "safety_claim_boundaries": [
+        "Touch is optional.",
+        "No requirement to synchronize perfectly.",
+        "Do not claim one breath literally moves through everyone."
+      ],
+      "final_pl_for_review": "DZIEŃ 6\n\nZWOLNIJ: W JEDNYM TEMPIE\n\nUsiądźcie luźno w kółku.\n\nDłonie połóżcie na kolanach. Jeśli wszyscy mają na to ochotę, możecie też lekko złapać się za ręce.\n\nNa początku każdy oddycha po swojemu. Po kilku oddechach spróbujcie trochę zwolnić i przez chwilę oddychać w podobnym tempie.\n\nNie trzeba liczyć ani idealnie dopasowywać oddechu. Jeśli po chwili każdy znów oddycha w swoim tempie, nic nie szkodzi.\n\nAlio: Drużyna działa, choć nikt nie ustalał planu. Trochę podejrzane."
+    },
+    {
+      "id": "GS.D06.PLAY",
+      "source_locator": "PDF p37",
+      "function": "Run a three-round synchronized balance/movement challenge with age-based leaders.",
+      "mechanics": [
+        "Stand shoulder-to-shoulder in a row.",
+        "Round 1: youngest leads while participating; calls gentle lean forward/back/left/right; goal at least 10 group moves without mistake.",
+        "Round 2: next person in age order leads small synchronized steps forward/back/right/left; goal at least 15 moves without mistake.",
+        "Final round: oldest leads mixed leans and single/multiple steps at varied pace; play as long as desired."
+      ],
+      "immutable_facts": [
+        "Round goals 10 and 15 are required.",
+        "Leader order: youngest, next in age order, oldest.",
+        "Luli warns against dramatic falling."
+      ],
+      "safety_claim_boundaries": [
+        "Movements must stay small/safe; no deliberate falling or loss of balance."
+      ],
+      "final_pl_for_review": "DZIEŃ 6\n\nGRAMY: RÓWNO!\n\nStańcie w jednym rzędzie, ramię w ramię.\n\nW rundzie pierwszej prowadzi najmłodsza osoba, ale wykonuje ruchy razem z pozostałymi. Wybiera jedno z czterech poleceń: „lekko w przód”, „lekko w tył”, „w lewo” albo „w prawo”. Wszyscy wykonują ten sam ruch w tym samym czasie.\n\nCelem jest wykonanie co najmniej 10 wspólnych ruchów bez pomyłki.\n\nW rundzie drugiej prowadzenie przejmuje kolejna osoba według wieku. Tym razem podaje polecenia dotyczące małych kroków: krok do przodu, do tyłu, w prawo albo w lewo. Wszyscy wykonują je razem.\n\nW tej rundzie spróbujcie wykonać co najmniej 15 kroków bez pomyłki.\n\nNa koniec prowadzenie przejmuje najstarsza osoba. Może łączyć oba rodzaje ruchów: prosić o wychylenie w wybraną stronę albo o jeden czy kilka małych kroków. Może też zmieniać tempo.\n\nGrajcie tak długo, jak macie ochotę. Wszystkie ruchy powinny być na tyle małe, żeby nikt nie tracił równowagi.\n\nLuli: Spektakularne wywrotki nie są częścią programu."
+    },
+    {
+      "id": "GS.D06.TALK",
+      "source_locator": "PDF p38",
+      "function": "Share words or short phrases each person likes hearing from family when upset or overwhelmed.",
+      "mechanics": [
+        "Each person names one specific word/phrase they like hearing from family members when they need to settle."
+      ],
+      "immutable_facts": [
+        "The point is preferred family language, not universal calming advice.",
+        "Luli contrasts gentle wording with something harsh."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim a phrase will calm everyone.",
+        "Do not force personal disclosure."
+      ],
+      "final_pl_for_review": "DZIEŃ 6\n\nMIĘDZY NAMI: CO DOBRZE USŁYSZEĆ\n\nKażdy podaje jedno zdanie albo kilka słów, które lubi usłyszeć od kogoś z rodziny, kiedy ma trudniejszy moment albo po prostu ma już dość.\n\nTo może być coś bardzo prostego:\n„Jestem obok”.\n„Mamy czas”.\n„Chcesz chwilę dla siebie?”.\n\nNie szukajcie mądrych sentencji. Wybierzcie coś, co sami chcielibyście wtedy usłyszeć.\n\nLuli: Nie musi brzmieć mądrze. Wystarczy, że naprawdę chcecie to wtedy usłyszeć."
+    },
+    {
+      "id": "GS.D07.PAUSE",
+      "source_locator": "PDF p39",
+      "function": "Let the body rest on the floor/chair and notice physical support.",
+      "mechanics": [
+        "Sit or lie near each other.",
+        "Let the body rest fully.",
+        "Notice the floor supporting body weight."
+      ],
+      "immutable_facts": [
+        "Dilo jokes that the floor/gravity is doing the lifting."
+      ],
+      "safety_claim_boundaries": [
+        "Do not promise emotional peace.",
+        "Keep position optional and comfortable."
+      ],
+      "final_pl_for_review": "DZIEŃ 7\n\nZWOLNIJ: PODŁOGA ROBI SWOJE\n\nUsiądźcie albo połóżcie się obok siebie i ułóżcie się tak, żeby było wam wygodnie.\n\nPrzez chwilę pozwólcie rękom, nogom i plecom naprawdę oprzeć się na podłodze. Nie trzeba niczego napinać ani utrzymywać w określonej pozycji.\n\nZwróćcie uwagę, w których miejscach ciało styka się z podłogą. Przez chwilę pozwólcie podłodze przejąć jego ciężar.\n\nDilo: Dziś trenuję z grawitacją. Ona robi większość pracy."
+    },
+    {
+      "id": "GS.D07.PLAY",
+      "source_locator": "PDF p40",
+      "function": "Pass a smile around the circle, then repeat with different friendly gestures; preserve consent and two-person version.",
+      "mechanics": [
+        "Stand or sit in a circle.",
+        "Person with shortest hair starts by smiling at one chosen person.",
+        "Smile travels person to person and returns to starter after reaching everyone.",
+        "Round 2: high-five.",
+        "Round 3: gentle shoulder tap.",
+        "Round 4: quick hug only if comfortable/wanted.",
+        "Two people: smile at each other for 30 seconds; then hug for another 30 seconds only if both want."
+      ],
+      "immutable_facts": [
+        "Starter has shortest hair.",
+        "Smile chain must reach everyone and return.",
+        "Two 30-second intervals exist in two-person version.",
+        "Nini says bigger smiles travel better."
+      ],
+      "safety_claim_boundaries": [
+        "Touch/hug requires mutual consent.",
+        "Shoulder tap is gentle."
+      ],
+      "final_pl_for_review": "DZIEŃ 7\n\nGRAMY: REAKCJA ŁAŃCUCHOWA\n\nStańcie albo usiądźcie w kółku.\n\nZaczyna osoba z najkrótszymi włosami. Wybiera dowolną osobę i uśmiecha się do niej możliwie szeroko.\n\nOsoba, która dostała uśmiech, przekazuje go kolejnej wybranej osobie. Uśmiech ma dotrzeć do każdego uczestnika, a na końcu wrócić do osoby, która zaczynała.\n\nW rundzie drugiej zamiast uśmiechu przekazujecie sobie piątkę.\n\nW rundzie trzeciej przekazujecie delikatne klepnięcie w ramię.\n\nW rundzie czwartej możecie przekazywać krótki uścisk, ale tylko wtedy, gdy obie osoby mają na to ochotę.\n\nJeśli bawią się tylko dwie osoby, przez 30 sekund patrzcie na siebie i się uśmiechajcie. Potem, jeśli obie osoby chcą, możecie przytulić się przez kolejne 30 sekund.\n\nNini: Uśmiech większy, niż wymaga sytuacja. Właśnie taki."
+    },
+    {
+      "id": "GS.D07.TALK",
+      "source_locator": "PDF p41",
+      "function": "Notice one family member who often helps quietly without seeking attention.",
+      "mechanics": [
+        "Each person names one family member who often helps/supports others without drawing attention.",
+        "Say what they noticed that person doing."
+      ],
+      "immutable_facts": [
+        "Focus is on quiet, often-unnoticed help.",
+        "Nini says quiet heroes do not brag."
+      ],
+      "safety_claim_boundaries": [
+        "Do not moralize or require praise of a specific person."
+      ],
+      "final_pl_for_review": "DZIEŃ 7\n\nMIĘDZY NAMI: KTO TU ROBI DOBRĄ ROBOTĘ?\n\nKażdy wybiera jedną osobę z rodziny, która często pomaga innym albo po cichu robi coś dla pozostałych.\n\nPowiedzcie konkretnie, co ta osoba robi i co ostatnio zauważyliście.\n\nNini: Skoro sami się nie chwalą, ktoś musi. Dziś padło na nas."
+    }
+  ]
+}

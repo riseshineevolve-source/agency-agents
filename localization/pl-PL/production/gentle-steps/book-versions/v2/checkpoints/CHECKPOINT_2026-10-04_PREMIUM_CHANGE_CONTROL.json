@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-04",
+  "status": "PREMIUM_MULTI_AGENT_CHANGE_CONTROL_ACTIVE",
+  "branch": "codex/polish-engine-main-reconcile",
+  "current_master_blob_sha": "9e2b4648dea2d072255c278545d35174d8132dd2",
+  "current_branch_head": "cb46f642f717895b4be2876d7186dc1ad4babc71",
+  "guard": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_SURGICAL_EDIT_GUARD.json",
+  "protocol": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_PREMIUM_MULTI_AGENT_CHANGE_CONTROL.md",
+  "verified_last_slice": {
+    "base_snapshot_blob_sha": "a4485f28d5df51fa8c3e2832ee21fd8ed1bb8e90",
+    "changed_segments": [
+      "D03.MIĘDZY NAMI",
+      "D14.MIĘDZY NAMI",
+      "D21.ZWOLNIJ"
+    ],
+    "collateral_changed_segments": [],
+    "frozen_v1_git_blob_sha": "46542df9e3e44f235f112edb2d381d5511c7abca"
+  },
+  "mandated_review_roles": [
+    "Polish Family Ear Reviewer",
+    "Polish Natural Language Editor",
+    "Polish Book Register Editor",
+    "Polish Transcreator",
+    "Polish Logic Editor",
+    "Activity Instruction Completeness Reviewer",
+    "Polish Breath and Reset Editor",
+    "Localization Meaning Guardian",
+    "Bilingual Localization QA",
+    "Polish Proofreader"
+  ],
+  "rule": "No slice may be checkpointed if unallowlisted collateral drift exists."
+}
