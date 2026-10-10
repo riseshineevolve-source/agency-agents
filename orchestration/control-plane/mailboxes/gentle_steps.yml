@@ -1,68 +1,80 @@
 lane: gentle_steps
 title: "Gentle Steps / Before Christmas Slips By"
-updated: 2026-10-09
-status: PL_R6_APP_IMPLEMENTED__BROWSER_QA_PASS__CI_STARTUP_FAILURE
+updated: 2026-10-10
+status: PL_R6_PARITY_PASS__LOCAL_RUNTIME_COMMITTED__REMOTE_VALIDATE_PL_FAIL__ANDROID_PL_NOT_BUILT
 branch_or_repo_state:
   repository: riseshineevolve-source/RISE.SHINE.EVOLVE
   branch: gentle-steps/app-en-full24-purple-gold
-  exact_green_head: aed9f58a75a8c5e48c369409771ed4ed761a8f1c
-  writer: this_dedicated_gentle_steps_lane
+  remote_head: c4587e4a8422d88bd2725b4030806e52621c1582
+  local_sync_branch: gentle-steps/pl-runtime-sync-20261009
+  local_validated_commit: 41da0d25e3720c48f8b57a76e2358d839d0ae7c6
+  local_commit_pushed: false
+  desktop_state: OFFLINE_AT_2026_10_10_0447_WARSAW
+  writer_scope: polish_app_runtime_tests_only__EN_app_js_owned_by_other_writer
 milestone:
   en_app:
     canonical_source: Gentle_Steps_EN_V2_R3_FINAL_CONTENT_PLUS_FIXES_CORRECT(1).pdf
     source_sha256: d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1
-    identity:
-      presenter: THE HAPPY MAKERS PRESENT
-      title: BEFORE CHRISTMAS SLIPS BY
-      subtitle: 24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together
-    structure: "24 days / 72 sections / PAUSE + PLAY + BETWEEN US / TRY IT TOMORROW"
-    splash_source:
-      path: gentle-steps-app/brand/concepts/splash-v2-city-family-source.png
-      bytes: 2412258
-      dimensions: 1024x1536
-      sha256: 5902edb7fbec908f36946afc3e004dcd74e8948babce76f402f24279032b08c1
-      runtime_sha256: 6a93cddc18eab6d49c88817931ef0464b2182fba9aeeee36a310943f34fad734
-      status: OWNER_APPROVED_V2_SOURCE_INTEGRATED
-    ci:
-      gentle_steps_english_app_195: PASS
-      seo_validation_1119: PASS
-      gentle_steps_android_build_148: PASS
-    android_artifact:
-      workflow_run: 37660155608
-      artifact_id: 11501190610
-      artifact_name: gentle-steps-android-preplay-build
-      artifact_zip_sha256: 8c60af54ba80f49844db040ed8b29a75d82d47fa7b23d31dbd8bc12d3e461c41
-      debug_apk_sha256: f2a343486b974f2da70ff3f060abef6349c07fa3324b4496619a712285c60fd9
-      unsigned_aab_sha256: 3b88e824e1be79024e4dafb795d44a21991b476e5fb1890d1fc29ac22642d1a3
+    title: BEFORE CHRISTMAS SLIPS BY
+    subtitle: 24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together
+    structure: 24_days_72_sections_PAUSE_PLAY_BETWEEN_US_TRY_IT_TOMORROW
+    exact_head_ci:
+      head: c4587e4a8422d88bd2725b4030806e52621c1582
+      english_app_run_37936621040: PASS
+      seo_run_37936620829: PASS
+      english_android_run_37936620844: PASS
   polish_dependency:
     authority_branch: codex/polish-engine-main-reconcile
-    observed_head: 11d7c43103b2d8c12324b221adc6ef40f08a26ca
-    body_source_path: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md
-    body_blob_sha: 6a0fbafa1b0fdc1f102c456cd45301d4eef275c2
+    observed_branch_head: 8ecd3b93c50d34eb17e3080c8f736f4a8b41becf
     packaging_source_path: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md
     packaging_blob_sha: 896cf92bf6ed126ef62e623fd9cac640270e853f
-    title: "ŚWIĘTA SĄ TEŻ PO DRODZE"
-    subtitle: "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem."
-    recurring_labels: ["ZWOLNIJ", "GRAMY", "MIĘDZY NAMI", "NA JUTRO"]
-    copy_policy: consume_polish_engine_outputs_only__do_not_independently_rewrite_locked_pl
-    current_gate: exact_r6_real_final_template_fit_evidence_then_polish_engine_final_editorial_safety_proof
-blocker: "Remote GitHub Actions startup_failure/no jobs. Local Android SDK unavailable. Local PL Playwright PASS."
+    packaging_lf_sha256: 68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3
+    title: ŚWIĘTA SĄ TEŻ PO DRODZE
+    subtitle: Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.
+    structure: 24_days_72_sections_24_NA_JUTRO
+    content: IMMUTABLE_CONSUMED_EXACTLY
+    app_source_parity_audit_2026_10_10: PASS_637_OF_637__ZERO_DIFFERENCES
+  polish_runtime:
+    local_commit: 41da0d25e3720c48f8b57a76e2358d839d0ae7c6
+    files: [gentle-steps-app/tools/build-pl-runtime.py, gentle-steps-app/app-pl.js, gentle-steps-app/tests/playwright-pl-smoke.mjs]
+    local_validation: EN_PL_RUNTIME_GENERATOR_PLAYWRIGHT_PASS
+    native_bundle_static_qa: PASS_10_OF_10
+    exact_head_ci:
+      polish_run_37936621015: FAILURE
+      playwright_pl: PASS
+      validate_pl: FAIL_OUT_OF_SYNC_APP_PL_JS
+      reason: EN_V2_RUNTIME_ADVANCED_AFTER_GENERATED_PL_OUTPUT
+    android:
+      en_apk_aab: PASS_ON_C458
+      pl_apk_aab: NOT_BUILT
+      pl_ci_gap: PREPARE_WEB_ONLY_NO_ANDROID_PL_GRADLE_BUILD
+    accessibility:
+      confirmed_320px_200pct: RIGHT_EDGE_CLIPPING
+      root: BACK_BUTTON_CONTAINER_WIDTH_AND_OVERFLOW_CLIP
+      css_ownership: SHARED_EN_WRITER_COORDINATION_REQUIRED
+blocker:
+  - GitHub update/push previously blocked by tool safety; do not bypass
+  - local Desktop Commander unavailable; preserve local synced commit and old staged work
+  - remote PL generator output stale relative to EN head
+  - CSS 320px_200pct accessibility clipping unresolved
+  - Android SDK missing locally; no native Polish APK/AAB or device evidence
+  - Windows core.autocrlf converts locked PL R6 working copy to CRLF; Git R6 blob is exact, do not rewrite PL source
 owner_gate:
-  type: REAL_DEVICE_VISUAL_AND_STORE_RELEASE
+  type: REAL_DEVICE_ANDROID_AND_STORE_RELEASE
   requirements:
-    - install refreshed debug APK on Android hardware
-    - verify final splash/icon and Home/Family on physical screen
-    - completion persistence after kill/restart
-    - airplane-mode reopen
-    - reminder permission/delivery/tap including exact-alarm handling
-    - larger system font and short TalkBack pass
-    - approve final package ID / Play signing / store listing / pricing-regions / Data Safety-Families / publication
+    - physical Android install and splash/icon visual review
+    - offline airplane mode and persistence across restart
+    - actual reminder permission/delivery/tap/exact-alarm
+    - 200_percent_system_font_320px and TalkBack
+    - final package ID/signing/Play listing/pricing/regions/Data Safety/Families/legal/publication
 dependencies_needed:
   - lane: polish_localization
-    need: consume exact R6 production-template fit evidence and run final Polish editorial/safety proof before PL content freeze
+    need: preserve locked R6; review real final-book-template fit and final Polish editorial/safety proof
+  - lane: gentle_steps_english_writer
+    need: coordinate shared CSS fix for 320px/200pct without racing app.js or EN surface
 reusable_outputs:
-  - "Exact recovered approved splash source and deterministic Android integration"
-  - "Green EN V2 app/browser/offline/accessibility contract at d62eb1f"
-  - "Green Android SDK 36 lint/build with debug APK and unsigned AAB"
-next_safe_task: debug GitHub Actions startup_failure, build Polish APK with Android SDK, complete physical-device and store owner gate
-checkpoint_reference: aed9f58a75a8c5e48c369409771ed4ed761a8f1c
+  - source-to-app R6 paragraph/notes audit: 637/637 PASS, zero text changes
+  - 10/10 native PL bundle static QA on local synchronized runtime
+  - documented CI gap for PL Android APK/AAB (must build explicitly with GENTLE_APP_LOCALE=pl)
+next_safe_task: Retry only normal permitted writes of already-validated local PL commit; on reachable desktop preserve all worktrees and EOL guards; validate exact head + PL Playwright; fix CSS via EN writer coordination; create isolated locale-explicit PL Android CI build without touching EN.
+checkpoint_reference: LOCAL_41da0d25e3720c48f8b57a76e2358d839d0ae7c6
