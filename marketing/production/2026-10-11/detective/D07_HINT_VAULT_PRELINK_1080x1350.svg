@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="t d">
+<title id="t">Detective Academy: Stuck? Do not open the answer yet.</title>
+<desc id="d">Prelaunch 1080 by 1350 premium typographic social static about three optional hint levels. It is marketing artwork, NOT an actual page or a product screenshot. No fake book cover or characters.</desc>
+<!-- SOURCE LOCK: marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md @ 771a659398d6eae3cefe8f6206e4c3f97b96f1c3 ; marketing/DETECTIVE_LAUNCH_ORGANIC_MASTERS_2026-10-07.md @ 1c6168742c5a0a46d3d6c999dbd420520c3b5cb3 . D07 Owner Review, NOT published, not a book page. -->
+<defs>
+<radialGradient id="night" cx=".82" cy=".31" r=".97"><stop offset="0" stop-color="#183854"/><stop offset=".48" stop-color="#0b1d30"/><stop offset="1" stop-color="#050a12"/></radialGradient>
+<linearGradient id="foil" x1="0" y1=".2" x2="1" y2=".8"><stop offset="0" stop-color="#f5e3ae"/><stop offset=".27" stop-color="#b59759"/><stop offset=".56" stop-color="#efe0bc"/><stop offset=".81" stop-color="#a27e47"/><stop offset="1" stop-color="#d8bd82"/></linearGradient>
+<linearGradient id="rule" x1="0" x2="1"><stop offset="0" stop-color="#d8bd82" stop-opacity=".9"/><stop offset="1" stop-color="#d8bd82" stop-opacity=".1"/></linearGradient>
+<pattern id="fine" width="82" height="82" patternUnits="userSpaceOnUse"><path d="M82 0H0V82" fill="none" stroke="#bad0dd" stroke-width="1" opacity=".05"/></pattern>
+</defs>
+<rect width="1080" height="1350" fill="url(#night)"/><rect width="1080" height="1350" fill="url(#fine)"/>
+<rect x="39" y="38" width="1002" height="1274" fill="none" stroke="#dec793" stroke-opacity=".36" stroke-width="2"/>
+<path d="M71 75v48M71 75h52M1009 75v48M1009 75h-52M71 1276v-48M71 1276h52M1009 1276v-48M1009 1276h-52" fill="none" stroke="#e0bf7c" stroke-width="3" stroke-opacity=".65"/>
+<!-- A modern optical evidence-scanner motif, not the official Academy logo or a screenshot -->
+<g fill="none" stroke="#b6cee0" stroke-width="2" opacity=".11">
+<circle cx="894" cy="592" r="296"/><circle cx="894" cy="592" r="248"/><circle cx="894" cy="592" r="194"/><circle cx="894" cy="592" r="146"/>
+<path d="M894 268v650M568 592h512"/>
+</g>
+<g fill="none" stroke="url(#foil)" stroke-width="4" opacity=".55">
+<path d="M864 299a296 296 0 0 1 276 300" stroke-dasharray="120 24"/>
+<path d="M644 683a260 260 0 0 0 174 146"/>
+<circle cx="894" cy="592" r="43" opacity=".38"/>
+</g>
+<text x="82" y="123" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="5" fill="#ddcb9d">THE HAPPY MAKERS PRESENT</text>
+<text x="82" y="185" font-family="Georgia,'Times New Roman',serif" font-size="57" font-weight="bold" fill="#f3f0e8" textLength="881" lengthAdjust="spacingAndGlyphs">DETECTIVE ACADEMY</text>
+<text x="84" y="230" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="600" letter-spacing="4" fill="#b7c9d4">THE MYSTERY OF ROOM ZERO</text>
+<path d="M82 268h916" stroke="url(#rule)" stroke-width="2"/>
+<path d="M82 327h78" stroke="#e6c889" stroke-width="6"/>
+<text x="81" y="465" font-family="Georgia,'Times New Roman',serif" font-size="160" font-weight="bold" fill="url(#foil)">STUCK?</text>
+<text x="82" y="580" font-family="Arial,Helvetica,sans-serif" font-size="94" font-weight="900" letter-spacing="-3" fill="#f4f4f0" textLength="890" lengthAdjust="spacingAndGlyphs">DON'T OPEN</text>
+<text x="82" y="688" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="900" letter-spacing="-4" fill="#f1f1ee" textLength="890" lengthAdjust="spacingAndGlyphs">THE ANSWER</text>
+<text x="82" y="865" font-family="Georgia,'Times New Roman',serif" font-size="178" font-weight="bold" fill="url(#foil)">YET.</text>
+<path d="M82 924h916" stroke="url(#rule)" stroke-width="3"/>
+<text x="84" y="1005" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="900" fill="#f1ede4">THREE OPTIONAL HINT LEVELS.</text>
+<text x="84" y="1065" font-family="Arial,Helvetica,sans-serif" font-size="31" fill="#c8d6e0">The full reasoning solution can wait.</text>
+<text x="84" y="1133" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" letter-spacing="1" fill="#d7bd84">TAKE A HINT. GO BACK TO THE CASE.</text>
+<path d="M82 1190h916" stroke="url(#rule)" stroke-width="2"/>
+<text x="82" y="1261" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="3" fill="#acbec9">BOOK 1  ·  AGES 8–12</text>
+<text x="999" y="1261" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="800" letter-spacing="3" fill="#ddc084">SAVE FOR LAUNCH</text>
+</svg>
