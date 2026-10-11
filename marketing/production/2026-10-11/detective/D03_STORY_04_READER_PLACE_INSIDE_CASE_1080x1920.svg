@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Detective Academy — D03 Story 04: The reader gets a place inside the case</title>
+<desc id="dsc">Premium typography-only owner-review Story finale. The reader gets a place inside the case. No simulated product badge, recruit credential, page, character portrait, or interactive poll is shown.</desc>
+<!-- Source: marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md blob 771a659398d6eae3cefe8f6206e4c3f97b96f1c3; marketing/DETECTIVE_CURRENT_LAUNCH_ASSET_BINDING_2026-10-07.md blob 47d52d106dc64e04b6e449562c34b518310c58c5; prior frame 03 blob e592c15c74db9a8cfee62860b19e3f26fd557b68. PRELINK OWNER REVIEW only; abstract typography not product proof; no sales/listing URL; no publication without owner visual signoff. -->
+<defs>
+ <radialGradient id="bg" cx="72%" cy="35%" r="94%"><stop stop-color="#203c58"/><stop offset=".5" stop-color="#0c2236"/><stop offset="1" stop-color="#040a14"/></radialGradient>
+ <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="70%"><stop stop-color="#f3e3bd"/><stop offset=".37" stop-color="#b89a63"/><stop offset=".76" stop-color="#eed5a1"/><stop offset="1" stop-color="#a0844e"/></linearGradient>
+ <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#1b364d"/><stop offset="1" stop-color="#091928"/></linearGradient>
+ <pattern id="grid" width="76" height="76" patternUnits="userSpaceOnUse"><path d="M76 0H0V76" fill="none" stroke="#adc1d2" stroke-width="1" opacity=".05"/></pattern>
+</defs>
+<rect width="1080" height="1920" fill="url(#bg)"/><rect width="1080" height="1920" fill="url(#grid)"/>
+<path d="M44 53H1036V1867H44Z" fill="none" stroke="#ceb77b" stroke-opacity=".4" stroke-width="2"/>
+<g stroke="#e0cc9d" fill="none" stroke-width="3" opacity=".075"><circle cx="923" cy="888" r="315"/><circle cx="923" cy="888" r="257"/><circle cx="923" cy="888" r="198"/><path d="M923 541v680M571 888h703"/></g>
+<path d="M82 190h65" stroke="#e8c88e" stroke-width="5"/>
+<text x="82" y="249" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="4" fill="#d9cda9">THE HAPPY MAKERS PRESENT</text>
+<text x="82" y="318" font-family="Georgia,serif" font-size="61" font-weight="bold" fill="#f2f0ec">DETECTIVE ACADEMY</text>
+<text x="84" y="362" font-family="Arial,sans-serif" font-size="23" font-weight="600" letter-spacing="4" fill="#adc1d1">THE MYSTERY OF ROOM ZERO</text>
+<text x="998" y="249" text-anchor="end" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#bea46f">04 / 04</text>
+<path d="M82 403h915" stroke="#ddc18b" stroke-opacity=".7" stroke-width="2"/>
+<text x="84" y="548" font-family="Arial,sans-serif" font-size="37" font-weight="700" letter-spacing="2" fill="#c6d6df">ONE DETECTIVE IS STILL MISSING.</text>
+<text x="77" y="767" font-family="Georgia,serif" font-size="116" font-weight="bold" fill="#f4f0eb">THE READER</text>
+<text x="77" y="935" font-family="Arial,sans-serif" font-size="110" font-weight="900" letter-spacing="-3" fill="url(#gold)">GETS A PLACE</text>
+<path d="M82 991h610" stroke="#ddc18b" stroke-opacity=".78" stroke-width="3"/>
+<text x="77" y="1160" font-family="Georgia,serif" font-size="122" font-weight="bold" fill="#f1f3f3">INSIDE</text>
+<text x="77" y="1330" font-family="Arial,sans-serif" font-size="105" font-weight="900" fill="url(#gold)">THE CASE.</text>
+<rect x="82" y="1458" width="916" height="183" rx="16" fill="#10283b" stroke="#d9bd84" stroke-width="3"/>
+<path d="M119 1506h67" stroke="#d9bd84" stroke-width="5"/>
+<text x="540" y="1576" text-anchor="middle" font-family="Arial,sans-serif" font-size="64" font-weight="900" letter-spacing="1" fill="#f6e7c4">PICK YOUR CALL SIGN.</text>
+<path d="M82 1711h915" stroke="#c1a473" stroke-opacity=".6" stroke-width="2"/>
+<text x="83" y="1798" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="1.4" fill="#aebecb">30 CONNECTED CASES. ONE HIDDEN MYSTERY.</text>
+</svg>
