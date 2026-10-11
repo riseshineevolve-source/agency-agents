@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Detective Academy story 02 — Detective name immediately?</title>
+<desc id="dsc">Owner-review editorial Instagram Story graphic. The reader is asked whether their child would choose a detective name immediately, with YES and AFTER THINKING as static visual options. These are graphic labels, not working buttons. No real puzzle page, cover, character portrait, or product screenshot is depicted.</desc>
+<!--
+RSE 2026-10-11 / D03 Story 02 of 04. Owner review / NOT PUBLISHED.
+SOURCE: marketing/DETECTIVE_CURRENT_LAUNCH_ASSET_BINDING_2026-10-07.md @ Git blob 47d52d106dc64e04b6e449562c34b518310c58c5
+CANONICAL PRODUCT BRIEF: marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md @ Git blob 771a659398d6eae3cefe8f6206e4c3f97b96f1c3
+FAMILY REFERENCE: D03_STORY_01_IF_YOUR_CHILD_JOINED_1080x1920.svg @ Git blob 8a92935367f30ccc7230ed1616f5a39a6c14ee5c
+LOCKED IDEA: "Detective name immediately? YES / AFTER THINKING."
+Buyer moment: parent picturing their child joining the squad. CTA: choose one response.
+Typography-only promotional artwork, not a case page. No official faces, map, logo, cover, KDP launch claim, availability claim, price, or unverified review.
+If a native Instagram poll sticker is used, overlay it in the platform itself; do NOT present the static options below as working controls.
+-->
+<defs>
+  <radialGradient id="bg" cx="74%" cy="35%" r="92%">
+    <stop offset="0" stop-color="#213c59"/>
+    <stop offset=".44" stop-color="#0c2337"/>
+    <stop offset="1" stop-color="#050b15"/>
+  </radialGradient>
+  <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="75%">
+    <stop offset="0" stop-color="#f4e5bc"/>
+    <stop offset=".38" stop-color="#b99860"/>
+    <stop offset=".72" stop-color="#e1c998"/>
+    <stop offset="1" stop-color="#9f814b"/>
+  </linearGradient>
+  <linearGradient id="fineRule" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0" stop-color="#e3c58c"/>
+    <stop offset="1" stop-color="#e3c58c" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0" stop-color="#162e46"/>
+    <stop offset="1" stop-color="#091927"/>
+  </linearGradient>
+  <pattern id="grid" width="76" height="76" patternUnits="userSpaceOnUse">
+    <path d="M76 0H0V76" fill="none" stroke="#a7c2d3" stroke-width="1" opacity=".045"/>
+  </pattern>
+</defs>
+<rect width="1080" height="1920" fill="url(#bg)"/>
+<rect width="1080" height="1920" fill="url(#grid)"/>
+<path d="M44 53H1036V1867H44Z" stroke="#d0b77f" stroke-width="2" stroke-opacity=".37" fill="none"/>
+<path d="M65 1624H1015" stroke="url(#fineRule)" stroke-width="2"/>
+<!-- ABSTRACT modern scanner rings: not the official Academy logo, not a puzzle map. -->
+<g fill="none" stroke="#f0d8a6" opacity=".10" stroke-width="3">
+  <circle cx="896" cy="908" r="318"/>
+  <circle cx="896" cy="908" r="262"/>
+  <circle cx="896" cy="908" r="198"/>
+  <path d="M896 565v690M540 908h715"/>
+</g>
+<g fill="none" stroke="url(#gold)" opacity=".65" stroke-width="5">
+  <path d="M814 601a320 320 0 0 1 372 301"/>
+  <path d="M629 1001a276 276 0 0 0 198 173"/>
+</g>
+<path d="M82 190h65" stroke="#e9c786" stroke-width="5"/>
+<text x="82" y="249" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="4" fill="#d9cda9">THE HAPPY MAKERS PRESENT</text>
+<text x="82" y="318" font-family="Georgia,'Times New Roman',serif" font-size="61" font-weight="bold" letter-spacing="1" fill="#f3f1eb">DETECTIVE ACADEMY</text>
+<text x="84" y="362" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" letter-spacing="4" fill="#adc1d1">THE MYSTERY OF ROOM ZERO</text>
+<text x="998" y="249" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#bea46f">02 / 04</text>
+<path d="M82 401h915" stroke="url(#fineRule)" stroke-width="2"/>
+<!-- One clear question. Oversized lettering keeps critical copy above the social bottom UI zone. -->
+<text x="82" y="616" font-family="Arial,Helvetica,sans-serif" font-size="90" font-weight="800" letter-spacing="1" fill="#dce8ee">DETECTIVE</text>
+<text x="78" y="854" font-family="Georgia,'Times New Roman',serif" font-size="228" font-weight="bold" letter-spacing="-6" fill="url(#gold)">NAME?</text>
+<path d="M84 908h113" stroke="#dfc58b" stroke-width="5"/>
+<text x="82" y="1056" font-family="Arial,Helvetica,sans-serif" font-size="97" font-weight="900" letter-spacing="-3" textLength="894" lengthAdjust="spacingAndGlyphs" fill="#f0f0eb">IMMEDIATELY?</text>
+<text x="84" y="1164" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="500" fill="#c5d7e0">OR WOULD THEY THINK IT OVER?</text>
+<!-- Static two-choice editorial treatment, never claim these labels function as poll buttons. -->
+<rect x="83" y="1298" width="436" height="218" rx="13" fill="url(#panel)" stroke="#bda16b" stroke-width="3"/>
+<rect x="541" y="1298" width="456" height="218" rx="13" fill="url(#panel)" stroke="#bda16b" stroke-opacity=".76" stroke-width="3"/>
+<text x="301" y="1430" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="85" font-weight="900" fill="#efe1ba">YES.</text>
+<text x="769" y="1399" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="900" fill="#f0f0ec">AFTER</text>
+<text x="769" y="1465" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="900" fill="#f0f0ec">THINKING.</text>
+<text x="83" y="1718" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="1" fill="#dfc994">WHICH KIND OF DETECTIVE?</text>
+<text x="83" y="1839" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" letter-spacing="3" fill="#9eb1bd">BOOK 1     •     AGES 8–12</text>
+</svg>
