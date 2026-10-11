@@ -22,30 +22,26 @@ Book 1.
 
 Do not silently change title, series treatment or Room Zero identity from historical marketing files.
 
-## 2. CURRENT RELEASE TRUTH
+## 2. CURRENT RELEASE TRUTH — RECONCILED 2026-10-11
 
-Marketing release authority:
-- FINAL ENGLISH INTERIOR = PASS
-- remote head: `6aef8cefdce029413f2cc29e656d5fbad99d546c`
-- final PDF: 141 pages
-- 141 print-scale previews
-- ALL-15 = 15/15 PASS REMOTE
-- canonical 30-mission integration = PASS
-- KDP preflight = PASS
-- Build #93 = PASS
-- SEO #551 = PASS
+Current edition content authority:
+- Book Factory owner-supplied `HMDA_Book1_EN_Premium_V12_EXACT_TEXT.md`, SHA-256 `b39215cb5e26cfb53e624b01fe7e5913654645774fccde8c7ef46b12d5c4001e`;
+- current production control: `riseshineevolve-source/RISE.SHINE.EVOLVE` / `feature/rse-book-factory-v2`, especially `tools/rse-book-factory-v2/control/V12_PAGINATION_BASELINE_OWNER_RESOLUTION_2026-10-06.md` and `tools/rse-book-factory-v2/CHECKPOINT.yml`;
+- exact V12 logical roles govern current content and relative locations; final physical pagination MUST be derived from the current Book Map before print claims;
+- the preserved 180-page owner-approved interior is a *visual/semantic reference baseline*, not evidence that V12 has a 180-page final printed edition;
+- the previously described 141-page release proof is HISTORICAL. It may not authorize claims of final V12 interior, current page count or publication readiness;
+- as of the latest verified Book Factory checkpoint: recovered Gold/frontmatter visual-family and print exceptions remain open; English is NOT FROZEN, final KDP edition/publication NOT AUTHORIZED.
 
-Remaining owner/live gates:
-- final cover / wrap approval as applicable;
-- representative physical proof;
-- price;
-- KDP upload/publication;
-- exact live listing URL and availability.
+Safe current marketing facts: the product is designed for ages 8–12, with a continuing Room Zero investigation across 30 case files, reader recruitment, evidence, maps and progressive Hint Vault. Avoid definitive final-page-count, KDP-ready, cover-final or live-listing claims until release authority actually changes.
 
-Important:
-Later Book Factory / renderer / identity-pipeline work does not automatically downgrade this marketing release truth. Marketing reads product repos but does not write them.
+Marketing gates:
+- verified final renderer/Book Map pagination and approved current product-proof crops;
+- approved cover/full wrap;
+- physical proof and KDP Previewer checks;
+- owner-selected price and KDP publication decision;
+- verified Amazon listing URL and live availability.
 
-Historical packaging files may contain older 146-page, 180-page or prior cover-gate states. Those are not current public-claim authority unless re-verified against the live release checkpoint.
+**Source-precedence guard:** This section supersedes historical marketing checkpoints that call the 141-page PDF final. Marketing is READ-ONLY with respect to product repos. Future source changes require release-truth re-verification before public copy or A+ are updated.
 
 ## 3. PRODUCT TRUTH
 
@@ -127,8 +123,10 @@ prove depth/value before any owner-approved discount.
 Primary category territory:
 **A puzzle book that feels like joining a detective series.**
 
-Hero:
-**30 CASES. ONE HIDDEN MYSTERY. YOU'RE THE MISSING DETECTIVE.**
+Hero (post-invitation promise):
+**30 CASES. ONE HIDDEN MYSTERY. BECOME THE MISSING DETECTIVE.**
+
+Recruitment must preserve reader choice; do not assign the empty slot automatically. The preferred early PRELINK hook is **ONE DETECTIVE IS STILL MISSING. IS THE OPEN PLACE MEANT FOR YOU?**
 
 Signature:
 **THE BOOK ITSELF IS THE EVIDENCE.**
@@ -147,8 +145,8 @@ Educational/developmental benefits are supporting proof, not the hero promise.
 
 ## 7. MESSAGE HIERARCHY
 
-Level 1 — ownership:
-**ONE DETECTIVE IS STILL MISSING. YOUR CHILD.**
+Level 1 — invitation and choice:
+**ONE DETECTIVE IS STILL MISSING. IS THE OPEN PLACE MEANT FOR YOU? WILL YOU CLAIM IT?**
 
 Level 2 — category difference:
 **30 CASES. ONE INVESTIGATION.**
@@ -165,7 +163,7 @@ maps, codes, visual evidence, Witness Boards, Hint Vault, reasoning solutions.
 ## 8. APPROVED HOOK BANK
 
 Core:
-- ONE DETECTIVE IS STILL MISSING. YOUR CHILD.
+- ONE DETECTIVE IS STILL MISSING. IS THE OPEN PLACE MEANT FOR YOU?
 - 30 CASES. ONE HIDDEN MYSTERY.
 - THE BOOK ITSELF IS THE EVIDENCE.
 - EVERY CASE CAN BE SOLVED. NOT EVERY CASE IS FINISHED.
@@ -338,7 +336,7 @@ Locked:
 - ages 8–12;
 - spoiler guard;
 - current Happy Makers identities;
-- current 141-page release truth for marketing readiness.
+- current V12 source authority; final page count and publication readiness remain UNVERIFIED.
 
 Verify before live:
 - final cover/wrap;
@@ -387,4 +385,4 @@ Do not sell:
 - unverified release facts.
 
 Current release truth for Marketing:
-**141-page final interior PASS / ALL-15 PASS / KDP preflight PASS.**
+**V12 content authority; final physical pagination TBD; English NOT FROZEN; no live KDP listing verified.**
