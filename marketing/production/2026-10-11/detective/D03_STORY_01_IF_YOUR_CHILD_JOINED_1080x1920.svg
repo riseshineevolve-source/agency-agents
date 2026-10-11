@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">If your child joined a detective squad today</title>
+<desc id="dsc">Premium typography-only Instagram Story concept for Detective Academy Book 1. Unpublished owner-review; no character likenesses, real-book snapshots or logos.</desc>
+<!-- MARKETING SOURCE: marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md blob 771a659398d6eae3cefe8f6206e4c3f97b96f1c3; marketing/DETECTIVE_CURRENT_LAUNCH_ASSET_BINDING_2026-10-07.md blob 47d52d106dc64e04b6e449562c34b518310c58c5. Owner-review typography only. Not product proof, not published. -->
+<defs><radialGradient id="bg" cx="74%" cy="43%" r="87%"><stop offset="0" stop-color="#18314b"/><stop offset=".45" stop-color="#0b1d30"/><stop offset="1" stop-color="#050a12"/></radialGradient>
+<linearGradient id="gold" x1="0" x2="1" y1="0" y2=".4"><stop offset="0" stop-color="#f1e0b5"/><stop offset=".4" stop-color="#b99a61"/><stop offset=".7" stop-color="#ddc590"/><stop offset="1" stop-color="#a78850"/></linearGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e7cc94" stop-opacity=".94"/><stop offset="1" stop-color="#8c6f3f" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M70 0H0V70" fill="none" stroke="#acbfd1" stroke-width="1" opacity=".065"/></pattern></defs>
+<rect width="1080" height="1920" fill="url(#bg)"/><rect width="1080" height="1920" fill="url(#grid)"/>
+<path d="M44 53H1036V1867H44Z" stroke="#d0b77f" stroke-width="2" stroke-opacity=".36" fill="none"/>
+<path d="M65 1600H1015" stroke="url(#rule)" stroke-width="2"/>
+<g fill="none" stroke="#f0d8a6" opacity=".12" stroke-width="3"><circle cx="920" cy="1210" r="305"/><circle cx="920" cy="1210" r="260"/><circle cx="920" cy="1210" r="200"/><path d="M920 875V1545M575 1210h670"/></g>
+<path d="M82 190h65" stroke="#e9c786" stroke-width="5"/>
+<text x="82" y="249" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="4" fill="#d9cda9">THE HAPPY MAKERS PRESENT</text>
+<text x="82" y="318" font-family="Georgia,'Times New Roman',serif" font-size="61" font-weight="bold" letter-spacing="1" fill="#f3f1eb">DETECTIVE ACADEMY</text>
+<text x="84" y="362" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" letter-spacing="4" fill="#adc1d1">THE MYSTERY OF ROOM ZERO</text>
+<text x="998" y="249" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#bea46f">01 / 04</text>
+<rect x="82" y="400" width="908" height="2" fill="url(#rule)"/>
+<text x="84" y="580" font-family="Arial,Helvetica,sans-serif" font-size="112" font-weight="900" letter-spacing="-3" fill="#f2efe7" textLength="908" lengthAdjust="spacingAndGlyphs">IF YOUR CHILD</text>
+<text x="84" y="734" font-family="Arial,Helvetica,sans-serif" font-size="150" font-weight="900" letter-spacing="-3" fill="#ddcfae" >JOINED A</text>
+<text x="84" y="888" font-family="Arial,Helvetica,sans-serif" font-size="128" font-weight="900" letter-spacing="-3" fill="#e6edf2" >DETECTIVE</text>
+<text x="84" y="1042" font-family="Arial,Helvetica,sans-serif" font-size="112" font-weight="900" letter-spacing="-3" fill="url(#gold)" textLength="908" lengthAdjust="spacingAndGlyphs">SQUAD TODAY…</text>
+<rect x="84" y="1322" width="86" height="5" fill="#d8bd82"/>
+<text x="84" y="1405" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="600" fill="#d6e5ee">WHAT WOULD THEIR CALL SIGN BE?</text>
+
+<text x="84" y="1840" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" letter-spacing="3" fill="#9eb1bd">BOOK 1     •     AGES 8–12</text>
+</svg>
