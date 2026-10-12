@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-09-28
+updated: 2026-10-12
 status: active
 rules:
   evidence_over_opinion: true
@@ -26,7 +26,227 @@ live_connectors_verified_2026_09_21:
   creative_claw:
     status: verify_before_next_generation
 
-content_records: []
+content_records:
+  - content_id: "DA_PRELINK_01_FB"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "recognition / ownership"
+    blocker_hypothesis: "parent may see the product as another generic puzzle book"
+    angle: "missing detective / child gets a role"
+    hook: "ONE DETECTIVE IS STILL MISSING."
+    platform: "facebook"
+    format: "static_post"
+    cta: "Save this for launch."
+    publish_date: "2026-10-13T10:00:00+02:00"
+    metricool_id: 393913647
+    metricool_uuid: "3243633179662699620"
+    reach: null
+    impressions: null
+    views: null
+    avg_watch_time: null
+    retention: null
+    saves: null
+    shares: null
+    comments: null
+    clicks: null
+    ctr: null
+    conversion: null
+    sales: null
+    refunds_returns: null
+    qualitative_feedback: []
+    next_hypothesis: "Compare ownership-first response against feature/depth posts."
+  - content_id: "DA_PRELINK_01_IG"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "recognition / ownership"
+    blocker_hypothesis: "parent may see the product as another generic puzzle book"
+    angle: "missing detective / child gets a role"
+    hook: "ONE DETECTIVE IS STILL MISSING."
+    platform: "instagram"
+    format: "static_post"
+    cta: "Save this for launch."
+    publish_date: "2026-10-13T18:30:00+02:00"
+    metricool_id: 393913669
+    metricool_uuid: "1523112052178897394"
+    reach: null
+    impressions: null
+    views: null
+    avg_watch_time: null
+    retention: null
+    saves: null
+    shares: null
+    comments: null
+    clicks: null
+    ctr: null
+    conversion: null
+    sales: null
+    refunds_returns: null
+    qualitative_feedback: []
+    next_hypothesis: "Compare ownership-first response against feature/depth posts."
+  - content_id: "DA_PRELINK_01_YT"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "recognition / ownership"
+    blocker_hypothesis: "audience needs fast visual recognition of the product premise"
+    angle: "missing detective / child gets a role"
+    hook: "ONE DETECTIVE IS STILL MISSING."
+    platform: "youtube"
+    format: "short"
+    cta: "Save this for launch."
+    publish_date: "2026-10-13T16:00:00+02:00"
+    metricool_id: 393916027
+    metricool_uuid: "4250962956201968702"
+    reach: null
+    impressions: null
+    views: null
+    avg_watch_time: null
+    retention: null
+    saves: null
+    shares: null
+    comments: null
+    clicks: null
+    ctr: null
+    conversion: null
+    sales: null
+    refunds_returns: null
+    qualitative_feedback: []
+    next_hypothesis: "Measure whether the static-motion Short earns enough retention to justify motion reuse."
+  - content_id: "DA_PRELINK_02_FB"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "ownership / product understanding"
+    blocker_hypothesis: "parent may not understand how the child enters the story"
+    angle: "Recruit Credential before Case 01"
+    hook: "YOUR FIRST CASE STARTS BEFORE CASE 01."
+    platform: "facebook"
+    format: "static_post"
+    cta: "See how the investigation starts."
+    publish_date: "2026-10-14T12:00:00+02:00"
+    metricool_id: 393913951
+    metricool_uuid: "5114947460425400881"
+    qualitative_feedback: []
+    next_hypothesis: "Test whether visible ownership mechanic drives stronger engagement than broad hero positioning."
+  - content_id: "DA_PRELINK_02_IG"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "ownership / product understanding"
+    blocker_hypothesis: "parent may not understand how the child enters the story"
+    angle: "Recruit Credential before Case 01"
+    hook: "YOUR FIRST CASE STARTS BEFORE CASE 01."
+    platform: "instagram"
+    format: "static_post"
+    cta: "See how it starts."
+    publish_date: "2026-10-14T18:30:00+02:00"
+    metricool_id: 393913973
+    metricool_uuid: "7895200067862348903"
+    qualitative_feedback: []
+    next_hypothesis: "Test whether visible ownership mechanic drives stronger saves/shares than broad hero positioning."
+  - content_id: "DA_PRELINK_02_YT"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "ownership / product understanding"
+    blocker_hypothesis: "parent may not understand how the child enters the story"
+    angle: "Recruit Credential before Case 01"
+    hook: "YOUR FIRST CASE STARTS BEFORE CASE 01."
+    platform: "youtube"
+    format: "short"
+    cta: "None beyond embedded creative."
+    publish_date: "2026-10-14T16:00:00+02:00"
+    metricool_id: 393916045
+    metricool_uuid: "8907545330705186959"
+    qualitative_feedback: []
+    next_hypothesis: "Compare retention against the hero Short."
+  - content_id: "DA_PRELINK_03_FB"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "evaluation / value depth"
+    blocker_hypothesis: "parent may think this is a random collection of puzzles"
+    angle: "30 connected case files / one investigation"
+    hook: "30 CONNECTED CASE FILES."
+    platform: "facebook"
+    format: "static_post"
+    cta: "Follow the evidence."
+    publish_date: "2026-10-15T18:00:00+02:00"
+    metricool_id: 393914009
+    metricool_uuid: "8264543925561610208"
+    qualitative_feedback: []
+    next_hypothesis: "Measure whether connected-investigation proof outperforms ownership-first positioning."
+  - content_id: "DA_PRELINK_03_IG"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "evaluation / value depth"
+    blocker_hypothesis: "parent may think this is a random collection of puzzles"
+    angle: "30 connected case files / one investigation"
+    hook: "30 CONNECTED CASE FILES."
+    platform: "instagram"
+    format: "static_post"
+    cta: "Follow the evidence."
+    publish_date: "2026-10-15T18:30:00+02:00"
+    metricool_id: 393914055
+    metricool_uuid: "9180528762412680202"
+    qualitative_feedback: []
+    next_hypothesis: "Measure saves/shares for concrete product depth."
+  - content_id: "DA_PRELINK_03_YT"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "evaluation / value depth"
+    blocker_hypothesis: "audience may not understand that cases are connected"
+    angle: "30 connected case files / one investigation"
+    hook: "30 CONNECTED CASE FILES."
+    platform: "youtube"
+    format: "short"
+    cta: "Follow the evidence."
+    publish_date: "2026-10-15T16:00:00+02:00"
+    metricool_id: 393916074
+    metricool_uuid: "-1256672881579571813"
+    qualitative_feedback: []
+    next_hypothesis: "Compare retention and replays against ownership Shorts."
+  - content_id: "DA_PRELINK_04_FB"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "evaluation / friction reduction"
+    blocker_hypothesis: "parent may worry a difficult puzzle will become frustrating"
+    angle: "3-Level Hint Vault"
+    hook: "THE 3-LEVEL HINT VAULT"
+    platform: "facebook"
+    format: "static_post"
+    cta: "See how the Hint Vault works."
+    publish_date: "2026-10-16T10:00:00+02:00"
+    metricool_id: 393914078
+    metricool_uuid: "-1181287121253544116"
+    qualitative_feedback: []
+    next_hypothesis: "Test whether friction-reduction proof drives stronger parent engagement."
+  - content_id: "DA_PRELINK_04_IG"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "evaluation / friction reduction"
+    blocker_hypothesis: "parent may worry a difficult puzzle will become frustrating"
+    angle: "3-Level Hint Vault"
+    hook: "THE 3-LEVEL HINT VAULT"
+    platform: "instagram"
+    format: "static_post"
+    cta: "See how the Hint Vault works."
+    publish_date: "2026-10-16T18:30:00+02:00"
+    metricool_id: 393914111
+    metricool_uuid: "-4101855348932063354"
+    qualitative_feedback: []
+    next_hypothesis: "Test whether friction-reduction proof earns saves/shares."
+  - content_id: "DA_PRELINK_04_YT"
+    campaign_id: "detective_prelink_first_live_2026_10"
+    product: "Detective Academy"
+    buyer_state: "evaluation / friction reduction"
+    blocker_hypothesis: "parent may worry a difficult puzzle will become frustrating"
+    angle: "3-Level Hint Vault"
+    hook: "THE 3-LEVEL HINT VAULT"
+    platform: "youtube"
+    format: "short"
+    cta: "None beyond embedded creative."
+    publish_date: "2026-10-16T16:00:00+02:00"
+    metricool_id: 393916104
+    metricool_uuid: "859565692823684684"
+    qualitative_feedback: []
+    next_hypothesis: "Compare educational feature retention against hero/depth Shorts."
+
 campaign_records: []
 
 record_schema:
