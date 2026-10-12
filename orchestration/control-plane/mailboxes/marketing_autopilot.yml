@@ -1,20 +1,18 @@
 lane: marketing_autopilot
 title: "RSE Marketing Autopilot"
-updated: 2026-10-07
-status: ACTIVE__DETECTIVE_PRELINK_BASELINE_BUILD
+updated: 2026-10-12
+status: OWNER_REVIEW_READY__DETECTIVE_ORGANIC_RELEASE_PACK
 branch_or_repo_state: agency-agents/main
-milestone: legacy_video_qa_complete_current_static_baseline_built_product_proof_binding_in_progress
+milestone: final_visual_lock_canonical_source_pack_final_four_native_formats_and_parent_caption_pack_durable
 blocker: null
-owner_gate: null
-dependencies_needed:
-  - lane: detective_book_factory
-    need: expose verified current Recruit Credential / Witness Board / Live Map / Hint Vault product-proof mappings when available; do not ask owner to relay
+owner_gate: approve_detective_organic_release_pack_for_first_live_scheduling
+dependencies_needed: []
 reusable_outputs:
   - marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md
-  - marketing/DETECTIVE_LAUNCH_ORGANIC_MASTERS_2026-10-07.md
-  - marketing/DETECTIVE_CURRENT_LAUNCH_ASSET_BINDING_2026-10-07.md
+  - marketing/DETECTIVE_MARKETING_VISUAL_LOCK_2026-10-12.md
+  - marketing/DETECTIVE_FINAL_ORGANIC_RELEASE_PACK_2026-10-12.md
   - marketing/DETECTIVE_EXISTING_VIDEO_QA_2026-10-07.md
   - marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md
   - marketing/GENTLE_STEPS_PL_PRODUCT_MARKETING_BRIEF_2026-10-07.md
-next_safe_task: finish current product-proof binding for D02 D04 D07 and assemble PRELINK baseline review packet; keep Metricool unscheduled and paid activation off
-checkpoint_reference: marketing/MARKETING_RESUME_FROM_ZERO.md
+next_safe_task: after owner approval schedule the four-master Detective organic family on verified Instagram Facebook and YouTube, keep TikTok blocked until verification, keep paid activation off, then start performance learning loop
+checkpoint_reference: marketing/DETECTIVE_FINAL_ORGANIC_RELEASE_PACK_2026-10-12.md
