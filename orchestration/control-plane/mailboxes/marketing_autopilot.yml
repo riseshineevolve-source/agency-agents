@@ -1,17 +1,19 @@
 lane: marketing_autopilot
 title: "RSE Marketing Autopilot"
 updated: 2026-10-12
-status: ACTIVE__DETECTIVE_FIRST_LIVE_ORGANIC_SCHEDULED
+status: READY__DETECTIVE_FROZEN_GOLD__WAITING_FOR_KDP_LIVE
 branch_or_repo_state: agency-agents/main
-milestone: frozen_gold_marketing_family_scheduled_across_facebook_instagram_youtube
-blocker: null
-owner_gate: null
-dependencies_needed: []
+milestone: frozen_gold_marketing_family_complete_rollout_plan_preserved_live_dates_removed
+blocker: detective_book_not_published_yet
+owner_gate: owner_confirms_detective_kdp_live
+dependencies_needed:
+  - lane: detective_book_factory
+    need: expose verified live publication state and exact listing URL when available
 reusable_outputs:
   - marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md
   - marketing/DETECTIVE_MARKETING_VISUAL_LOCK_2026-10-12.md
   - marketing/DETECTIVE_FINAL_ORGANIC_RELEASE_PACK_2026-10-12.md
   - marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
   - marketing/PERFORMANCE_MEMORY.yml
-next_safe_task: let the 2026-10-13 through 2026-10-16 first-live family publish, collect platform performance after publication, compare ownership vs product-depth vs friction-reduction angles, repurpose winners before new ideation; keep paid activation off and keep TikTok blocked until verified
+next_safe_task: preserve the frozen four-master launch family with no live dates; wait for owner confirmation that the book is published, then verify the live listing, refresh best-time data, assign fresh rollout dates and activate organic publishing; keep paid activation off
 checkpoint_reference: marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
