@@ -1,0 +1,8 @@
+# E08 — The Room with Two Falling Directions
+Date 2026-10-12. Editorial and geometric prototype, NOT GOLD or KDP-ready.
+
+Three competing concepts: (A) Gravity Seam — child stands sideways on the right wall while a giant black-and-white floor ribbon joins two perpendicular gravitational systems, a pendulum falls down and a cup falls to the right (selected, 88/100). (B) Hourglass Nursery — two inverted rooms meet at a narrow throat (80/100, duplicates E03's upside-down structure). (C) Dollhouse Fold — a single corner reorients dollhouse walls into independent floors (76/100, weaker hero scale). Scores reflect the current editorial assessment, not independent agent reports.
+
+Aims: one 8.5×11 portrait, 100% pure black and pure white vector source, strong black contours, generous white zones; one continuous impossible architecture and one dominant human protagonist. Second reading: tiny doorway revealed by the central crease; neither a mirror floor nor gothic cathedral.
+
+A working image/vector exists in the current studio as a geometry study. It has 44.8% solid black and 53.9% near-white in antialiased preview (gray edge pixels only). Unresolved QA: stylized human too simple, the two directions of gravity lack strong unambiguous physics cues, and 3D spatial articulation is weak. NOT GOLD. Preserve V01. Need promote only a superior independently reviewed V02. Next: E11 cutaway salamander.
