@@ -1,0 +1,2 @@
+# E20 run checkpoint
+On 2026-10-12 a real E20 17x11 vector prototype was rendered locally and visually rejected. Binary PNG: 5100x3300, pure 2-color, 45.44% black. Source SHA-256: 9856515959c95dfaa5bccdb05bda04fe0551f82030cb5e49248e213249269cb8. Actual SVG and PNG remain only in chat artifacts, not GitHub. No GOLD or owner pass. Next: strengthen impossible facade fold and natural expressive guardian, then repeat visual and print QA. Optical Animals unchanged.
