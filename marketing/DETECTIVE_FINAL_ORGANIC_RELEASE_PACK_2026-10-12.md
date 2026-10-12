@@ -1,8 +1,8 @@
 # Detective Academy — Final Organic Release Pack
 
-Status: **SCHEDULE-READY / FIRST-LIVE-BATCH OWNER GATE**
+Status: **READY / HELD UNTIL BOOK IS LIVE**
 Date: 2026-10-12
-Publishing: OFF until owner approves the current first live organic batch
+Publishing: OFF until owner confirms the book is published/live
 Paid activation: OFF
 
 ## Durable assets
@@ -161,3 +161,23 @@ Separate owner gates remain unchanged for:
 - pricing;
 - discounts/promotions;
 - KDP publication.
+
+
+## Publication hold — 2026-10-12
+
+Owner instruction:
+- keep the rollout plan and frozen assets;
+- do not attach live publication dates yet;
+- do not publish before the book is actually live;
+- owner will explicitly signal when the book has been published.
+
+Operational rule:
+1. retain the four-master family as approved;
+2. keep Metricool items as drafts only;
+3. on owner signal that the book is live, verify the actual listing URL and availability;
+4. re-run fresh Metricool best-time data;
+5. assign new dates/times from that current data;
+6. activate the rollout;
+7. begin performance measurement after publication.
+
+The previously drafted 2026-10-13 through 2026-10-16 timestamps are superseded and are not launch dates.
