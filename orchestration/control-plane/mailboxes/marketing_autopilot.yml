@@ -1,18 +1,17 @@
 lane: marketing_autopilot
 title: "RSE Marketing Autopilot"
 updated: 2026-10-12
-status: OWNER_REVIEW_READY__DETECTIVE_ORGANIC_RELEASE_PACK
+status: ACTIVE__DETECTIVE_FIRST_LIVE_ORGANIC_SCHEDULED
 branch_or_repo_state: agency-agents/main
-milestone: final_visual_lock_canonical_source_pack_final_four_native_formats_and_parent_caption_pack_durable
+milestone: frozen_gold_marketing_family_scheduled_across_facebook_instagram_youtube
 blocker: null
-owner_gate: approve_detective_organic_release_pack_for_first_live_scheduling
+owner_gate: null
 dependencies_needed: []
 reusable_outputs:
   - marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md
   - marketing/DETECTIVE_MARKETING_VISUAL_LOCK_2026-10-12.md
   - marketing/DETECTIVE_FINAL_ORGANIC_RELEASE_PACK_2026-10-12.md
-  - marketing/DETECTIVE_EXISTING_VIDEO_QA_2026-10-07.md
-  - marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md
-  - marketing/GENTLE_STEPS_PL_PRODUCT_MARKETING_BRIEF_2026-10-07.md
-next_safe_task: after owner approval schedule the four-master Detective organic family on verified Instagram Facebook and YouTube, keep TikTok blocked until verification, keep paid activation off, then start performance learning loop
-checkpoint_reference: marketing/DETECTIVE_FINAL_ORGANIC_RELEASE_PACK_2026-10-12.md
+  - marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
+  - marketing/PERFORMANCE_MEMORY.yml
+next_safe_task: let the 2026-10-13 through 2026-10-16 first-live family publish, collect platform performance after publication, compare ownership vs product-depth vs friction-reduction angles, repurpose winners before new ideation; keep paid activation off and keep TikTok blocked until verified
+checkpoint_reference: marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
