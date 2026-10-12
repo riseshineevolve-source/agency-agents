@@ -1,11 +1,11 @@
 lane: marketing_autopilot
 title: "RSE Marketing Autopilot"
 updated: 2026-10-12
-status: READY__DETECTIVE_FROZEN_GOLD__WAITING_FOR_KDP_LIVE
+status: READY__DETECTIVE_ORGANIC_ROLLOUT_HELD_FOR_PUBLICATION
 branch_or_repo_state: agency-agents/main
-milestone: frozen_gold_marketing_family_complete_rollout_plan_preserved_live_dates_removed
+milestone: frozen_gold_marketing_family_complete_metricool_drafts_held_until_book_live
 blocker: detective_book_not_published_yet
-owner_gate: owner_confirms_detective_kdp_live
+owner_gate: owner_signal_book_is_live_before_activation
 dependencies_needed:
   - lane: detective_book_factory
     need: expose verified live publication state and exact listing URL when available
@@ -15,5 +15,5 @@ reusable_outputs:
   - marketing/DETECTIVE_FINAL_ORGANIC_RELEASE_PACK_2026-10-12.md
   - marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
   - marketing/PERFORMANCE_MEMORY.yml
-next_safe_task: preserve the frozen four-master launch family with no live dates; wait for owner confirmation that the book is published, then verify the live listing, refresh best-time data, assign fresh rollout dates and activate organic publishing; keep paid activation off
+next_safe_task: keep the approved Detective rollout as undated drafts; when owner confirms the book is live, verify listing URL/availability, refresh best-time windows, activate the four-master rollout, then collect performance; keep paid activation off
 checkpoint_reference: marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
