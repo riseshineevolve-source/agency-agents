@@ -37,7 +37,7 @@ content_records:
     platform: "facebook"
     format: "static_post"
     cta: "Save this for launch."
-    publish_date: "2026-10-13T10:00:00+02:00"
+    publish_date: null
     metricool_id: 393913647
     metricool_uuid: "3243633179662699620"
     reach: null
@@ -65,7 +65,7 @@ content_records:
     platform: "instagram"
     format: "static_post"
     cta: "Save this for launch."
-    publish_date: "2026-10-13T18:30:00+02:00"
+    publish_date: null
     metricool_id: 393913669
     metricool_uuid: "1523112052178897394"
     reach: null
@@ -93,7 +93,7 @@ content_records:
     platform: "youtube"
     format: "short"
     cta: "Save this for launch."
-    publish_date: "2026-10-13T16:00:00+02:00"
+    publish_date: null
     metricool_id: 393916027
     metricool_uuid: "4250962956201968702"
     reach: null
@@ -121,7 +121,7 @@ content_records:
     platform: "facebook"
     format: "static_post"
     cta: "See how the investigation starts."
-    publish_date: "2026-10-14T12:00:00+02:00"
+    publish_date: null
     metricool_id: 393913951
     metricool_uuid: "5114947460425400881"
     qualitative_feedback: []
@@ -136,7 +136,7 @@ content_records:
     platform: "instagram"
     format: "static_post"
     cta: "See how it starts."
-    publish_date: "2026-10-14T18:30:00+02:00"
+    publish_date: null
     metricool_id: 393913973
     metricool_uuid: "7895200067862348903"
     qualitative_feedback: []
@@ -151,7 +151,7 @@ content_records:
     platform: "youtube"
     format: "short"
     cta: "None beyond embedded creative."
-    publish_date: "2026-10-14T16:00:00+02:00"
+    publish_date: null
     metricool_id: 393916045
     metricool_uuid: "8907545330705186959"
     qualitative_feedback: []
@@ -166,7 +166,7 @@ content_records:
     platform: "facebook"
     format: "static_post"
     cta: "Follow the evidence."
-    publish_date: "2026-10-15T18:00:00+02:00"
+    publish_date: null
     metricool_id: 393914009
     metricool_uuid: "8264543925561610208"
     qualitative_feedback: []
@@ -181,7 +181,7 @@ content_records:
     platform: "instagram"
     format: "static_post"
     cta: "Follow the evidence."
-    publish_date: "2026-10-15T18:30:00+02:00"
+    publish_date: null
     metricool_id: 393914055
     metricool_uuid: "9180528762412680202"
     qualitative_feedback: []
@@ -196,7 +196,7 @@ content_records:
     platform: "youtube"
     format: "short"
     cta: "Follow the evidence."
-    publish_date: "2026-10-15T16:00:00+02:00"
+    publish_date: null
     metricool_id: 393916074
     metricool_uuid: "-1256672881579571813"
     qualitative_feedback: []
@@ -211,7 +211,7 @@ content_records:
     platform: "facebook"
     format: "static_post"
     cta: "See how the Hint Vault works."
-    publish_date: "2026-10-16T10:00:00+02:00"
+    publish_date: null
     metricool_id: 393914078
     metricool_uuid: "-1181287121253544116"
     qualitative_feedback: []
@@ -226,7 +226,7 @@ content_records:
     platform: "instagram"
     format: "static_post"
     cta: "See how the Hint Vault works."
-    publish_date: "2026-10-16T18:30:00+02:00"
+    publish_date: null
     metricool_id: 393914111
     metricool_uuid: "-4101855348932063354"
     qualitative_feedback: []
@@ -241,7 +241,7 @@ content_records:
     platform: "youtube"
     format: "short"
     cta: "None beyond embedded creative."
-    publish_date: "2026-10-16T16:00:00+02:00"
+    publish_date: null
     metricool_id: 393916104
     metricool_uuid: "859565692823684684"
     qualitative_feedback: []
@@ -350,3 +350,20 @@ live_evidence_snapshot_2026_09_28:
     - "Do not label any historical concept a winner from this evidence."
     - "Restart with recognition/ownership/value content before hard conversion."
     - "First Detective prelaunch batch remains owner-review gated before scheduling."
+
+
+detective_prelink_hold_2026_10_12:
+  status: WAITING_FOR_KDP_LIVE
+  owner_instruction: "Keep the rollout plan and frozen assets, but do not assign live publication dates until the owner confirms the book is published."
+  metricool_state: "12 existing items converted to draft=true; they must not be treated as scheduled live posts."
+  channels:
+    facebook: 4_drafts
+    instagram: 4_drafts
+    youtube: 4_drafts
+  release_trigger: "Owner confirms Detective Academy is live/published."
+  on_release:
+    - "verify exact live Amazon listing URL and availability"
+    - "re-read current best-time windows"
+    - "assign fresh dates from the actual release date"
+    - "replace prelaunch CTAs where appropriate"
+    - "activate the frozen four-master rollout"
