@@ -10,10 +10,11 @@ dependencies_needed:
   - lane: detective_book_factory
     need: expose verified live publication state and exact listing URL when available
 reusable_outputs:
+  - marketing/GENTLE_STEPS_A_PLUS_SOCIAL_AMAZON_COPY_PACK_2026-10-13.md
   - marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md
   - marketing/DETECTIVE_MARKETING_VISUAL_LOCK_2026-10-12.md
   - marketing/DETECTIVE_FINAL_ORGANIC_RELEASE_PACK_2026-10-12.md
   - marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
   - marketing/PERFORMANCE_MEMORY.yml
-next_safe_task: keep the approved Detective rollout as undated drafts; when owner confirms the book is live, verify listing URL/availability, refresh best-time windows, activate the four-master rollout, then collect performance; keep paid activation off
+next_safe_task: continue Gentle Steps creative/A+ production from the new copy pack and current PL packaging; keep Detective rollout held until its book is live; do not activate paid spend
 checkpoint_reference: marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
