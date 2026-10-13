@@ -9,6 +9,10 @@ Owner: Rise.Shine.Evolve
 ### PL
 Title: **ŚWIĘTA SĄ TEŻ PO DRODZE**
 Packaging subtitle: **Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.**
+
+**KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.**
+
+**ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY**
 Sections: **ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY**
 Supporting labels: **NA JUTRO / W DWIE OSOBY**
 
@@ -388,3 +392,18 @@ Use prominently in:
 - store/app cross-format presentation where this book is shown.
 
 Visual emphasis may uppercase **TYLKO WY. 10 MINUT RAZEM.**, but do not rewrite or paraphrase the canonical wording.
+
+
+## POLISH CORE CAMPAIGN PHRASES — OWNER LOCK — 2026-10-13
+
+Primary experience line:
+**ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY**
+
+Primary problem-solution line:
+**KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.**
+
+Usage rules:
+- Keep both wordings exact in new PL marketing assets unless the owner explicitly changes them.
+- The experience line is a core brand/product clue and may appear together on A+, social, product pages and app/book format presentations.
+- **KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.** is an approved primary problem-solution headline, not filler copy.
+- Do not dilute either line into generic synonyms.
