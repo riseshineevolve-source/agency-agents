@@ -18,7 +18,7 @@ Publication surface: KDP / ebook / app only when each format is live and verifie
 Status: **OWNER-LEVEL PACKAGING DECISION / CURRENT TITLE LOCK**
 
 ### Subtitle
-## **24 rodzinne aktywności po 10 minut, żeby mniej się spieszyć, więcej śmiać i naprawdę pobyć razem**
+## **Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.**
 
 Status: **OWNER-LEVEL PACKAGING DECISION / CURRENT SUBTITLE LOCK**
 
@@ -262,7 +262,7 @@ Title:
 **ŚWIĘTA SĄ TEŻ PO DRODZE**
 
 Subtitle:
-**24 rodzinne aktywności po 10 minut, żeby mniej się spieszyć, więcej śmiać i naprawdę pobyć razem**
+**Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.**
 
 ### Description opening direction
 Start from:
@@ -373,9 +373,10 @@ Show present-moment benefit through ordinary life.
 Locked:
 - series header: THE HAPPY MAKERS PRESENT
 - main title: ŚWIĘTA SĄ TEŻ PO DRODZE
-- subtitle: 24 rodzinne aktywności po 10 minut, żeby mniej się spieszyć, więcej śmiać i naprawdę pobyć razem
+- subtitle: Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.
+- section labels: ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY
 - alternate campaign line: ZANIM ZNOWU BĘDZIE PO ŚWIĘTACH
-- current labels: ZWOLNIJ / GRAMY / MIĘDZY NAMI / NA JUTRO
+- current owner-locked labels: ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY / NA JUTRO
 - present-moment benefit over memory-first positioning
 
 Verify before live:
@@ -411,3 +412,13 @@ Core campaign idea:
 
 Urgency companion:
 **Zanim znowu będzie po świętach.**
+
+
+## 18. OWNER LOCK OVERRIDE — 2026-10-13
+
+The current attached/source PDFs may still show older section names. For marketing and future product implementation, use exactly:
+- **ZŁAPMY CHWILĘ**
+- **ZRÓBMY COŚ RAZEM**
+- **POGADAJMY**
+
+Do not rewrite or paraphrase these labels. Product-file implementation remains with the existing Gentle Steps writer after its current safe visual/CI pass; Marketing must not race that writer.
