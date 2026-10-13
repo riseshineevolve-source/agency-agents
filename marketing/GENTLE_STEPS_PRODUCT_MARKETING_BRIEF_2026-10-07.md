@@ -23,7 +23,7 @@ The series header already performs the brand role.
 Status: **OWNER SELECTED / CURRENT TITLE LOCK**
 
 ### Subtitle
-## **24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together**
+## **A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.**
 
 Status: **OWNER SELECTED / CURRENT SUBTITLE LOCK**
 
@@ -134,11 +134,13 @@ Help a family stop being a logistics team for ten minutes and become a family ag
 ### Level 4 — Experience proof
 **Pause. Play. Talk. Be together.**
 
-Use the current book labels accurately:
-- PAUSE
-- PLAY
-- BETWEEN US
-- TRY IT TOMORROW
+Use the current owner-locked labels accurately:
+- **LET’S TAKE A MOMENT**
+- **LET’S DO THIS TOGETHER**
+- **LET’S TALK**
+- **TRY IT TOMORROW**
+
+The current attached/source PDFs may still show legacy section labels. For marketing and future product implementation, this owner lock overrides those stale labels.
 
 Do NOT return to legacy recurring labels:
 - Mindful Moment
@@ -327,7 +329,7 @@ Title:
 **BEFORE CHRISTMAS SLIPS BY**
 
 Subtitle:
-**24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together**
+**A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.**
 
 ### Amazon description opening direction
 Lead with buyer reality, not product mechanics.
@@ -452,7 +454,8 @@ The experience contains mindful/present-moment qualities, but the reader-facing 
 Locked:
 - series header: THE HAPPY MAKERS PRESENT
 - main title: BEFORE CHRISTMAS SLIPS BY
-- subtitle: 24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together
+- subtitle: A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.
+- section labels: LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK
 - secondary thematic line: CHRISTMAS HAPPENS ALONG THE WAY
 - primary markets: US + UK
 - present-moment benefit over memory-first positioning
@@ -473,7 +476,7 @@ If a marketing agent knows nothing else, read this:
 
 **THE HAPPY MAKERS PRESENT — BEFORE CHRISTMAS SLIPS BY**
 
-**24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together**
+**A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.**
 
 The buyer is a parent who wants Christmas to feel like Christmas without adding another December project.
 
