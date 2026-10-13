@@ -19,7 +19,7 @@ Jedna rzecz nadal ją gryzie:
 
 Tym razem nie patrzy już na fotografie. Otwiera indeks archiwum.
 
-**017** prowadzi do aktualnego materiału z Sali Pucharów.
+**017** prowadzi do aktualnego numeru **Kroniki Akademii** z Sali Pucharów.
 
 **071** jest starsze. Znacznie starsze. W archiwum łączy się z wycofanym z użycia zbiorem formularzy przyjęcia, przechowywanym w Galerii Dziedzictwa Akademii.
 
@@ -197,7 +197,7 @@ Dopóki nie znajdziecie trasy, która naprawdę jest dostępna, nie sprawdzicie 
 
 ## TWOJE ZADANIE
 
-Wybierz jedyną trasę, którą drużyna może teraz legalnie dotrzeć do magazynu rekwizytów.
+Wybierz jedyną trasę, którą drużyna może teraz przejść do magazynu rekwizytów.
 
 ## ZASADY
 
@@ -483,7 +483,7 @@ W połowie próby Nini wraca do stołu śledczego ze świadkiem, który ma piór
 
 Papuga powtarza cztery słowa.
 
-Brzmią dokładnie jak fraza używana do dostępu za kulisy.
+Brzmią dokładnie jak czterowyrazowe hasło dostępu za kulisy.
 
 Nikt nie pamięta, żeby ktokolwiek jej tego uczył.
 
@@ -500,7 +500,7 @@ Ustal, kto jako jedyna osoba był w tym samym obszarze co **SONAR**, i podaj wsp
 ## ZASADY
 
 - Stosuj standardowe zasady spraw z mapą.
-- **MOŻNA STAĆ NA:** ławce, legowisku dla psa, wannie groomerskiej.
+- **MOŻNA STAĆ NA:** ławce, legowisku dla psa, wannie do pielęgnacji.
 - **POLA BLOKUJĄ:** klatka dla ptaków, skrzynia, podest, kosz na zabawki, tunel.
 
 ## HAPPY MAKERS // NA ŁĄCZU
