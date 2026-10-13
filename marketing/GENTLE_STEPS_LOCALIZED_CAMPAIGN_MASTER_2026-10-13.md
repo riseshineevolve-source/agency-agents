@@ -47,7 +47,8 @@ The core buyer problem is not lack of Christmas ideas. It is lack of time, energ
 ## Core line hierarchy
 
 1. **ŚWIĘTA SĄ TEŻ PO DRODZE**
-2. **Książka, która mieści się w grudniu.**
+2. **Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.**
+3. **Książka, która mieści się w grudniu.**
 3. **10 minut razem. Bez dodatkowych przygotowań.**
 4. **ZŁAPMY CHWILĘ · ZRÓBMY COŚ RAZEM · POGADAJMY**
 5. **Nie trzeba czekać, aż wszystko będzie gotowe, żeby pobyć razem.**
@@ -370,3 +371,20 @@ Use exact owner-locked product strings unchanged:
 - EN subtitle: **A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.**
 
 Marketing copy around those locks must be idiomatic, elegant, close to real family life, and solution-led. Do not use literal translation, generic AI uplift, preschool language, wellness/corporate language, or filler slogans.
+
+
+## POLISH SUBTITLE — MUST-STAY COMMERCIAL CLUE — 2026-10-13
+
+Canonical wording:
+**Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.**
+
+This is not secondary metadata. It is a core conversion clue and must remain high in the marketing hierarchy.
+
+Use prominently in:
+- cover / packaging;
+- Amazon hero and A+ opening modules;
+- listing/product-page hero;
+- launch/social product-reveal creatives;
+- store/app cross-format presentation where this book is shown.
+
+Visual emphasis may uppercase **TYLKO WY. 10 MINUT RAZEM.**, but do not rewrite or paraphrase the canonical wording.
