@@ -1,0 +1,20 @@
+{
+  "status": "PASS_FINAL70_TEXT_IDENTITY_REBIND",
+  "counts": {
+    "spatial_identities": 103,
+    "spatial_existing_locked": 32,
+    "spatial_new_or_reserve_codenames": 33,
+    "spatial_source_names_retained": 38,
+    "bookwide_existing_frozen_codenames": 40,
+    "bookwide_new_codenames": 30,
+    "bookwide_total_owner_approved_codenames": 70
+  },
+  "new30_each_used_once": true,
+  "old_reserves_each_used_once": {"PULSA": 1, "SZYKO": 1, "WĄTEK": 1},
+  "zanta_unused": true,
+  "duplicate_final_spatial_display_names": 0,
+  "old_unapproved_aliases_left_as_exact_tokens": [],
+  "coordinates_and_V12_identity_rows_unchanged": true,
+  "physical_maps_layout_checked": false,
+  "note": "Text identity rebind only. Physical map labels/layout remain separate proof."
+}
