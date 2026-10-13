@@ -18,7 +18,7 @@ Polish packaging subtitle:
 English working identity remains:
 **BEFORE CHRISTMAS SLIPS BY**
 with current working subtitle:
-**24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together**
+**A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.**
 
 Do not invent additional claims or slogans beyond the approved marketing brief / source book.
 
@@ -436,3 +436,20 @@ Preferred language:
 - humor;
 - actual time together now.
 
+
+
+## OWNER LOCK OVERRIDE — 2026-10-13
+
+Use these exact product strings in all new marketing assets. Do not translate, paraphrase, or normalize them:
+
+PL title: **ŚWIĘTA SĄ TEŻ PO DRODZE**
+
+PL sections: **ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY**
+
+EN title: **BEFORE CHRISTMAS SLIPS BY**
+
+EN sections: **LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK**
+
+EN subtitle: **A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.**
+
+Attached current PDFs are authoritative for body content but may still carry superseded title/section labels. The owner lock above overrides those labels for marketing. Do not edit product-source files from the Marketing lane; the existing Gentle Steps writer will apply them atomically after its current visual/CI pass.
