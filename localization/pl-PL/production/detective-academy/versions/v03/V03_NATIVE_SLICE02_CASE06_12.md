@@ -270,7 +270,7 @@ Wskaż prawdziwe znaki Akademii i odrzuć wszystkie podobne, ale przypadkowe kó
 
 - Liczy się zarówno kształt znaku, jak i **kontekst dokumentu Akademii**, na którym występuje.
 - Każde okrągłe pokrętło, tarcza czy nadruk nie staje się automatycznie znakiem Pokoju Zero.
-- Na tym etapie masz cztery potwierdzone materiały oznaczone **0**. To nie znaczy jeszcze, że to ostateczna liczba.
+- Masz dokładnie cztery potwierdzone dokumenty oznaczone zwykłym **0**. Inne okrągłe znaki nie powiększają tego zestawu.
 
 ## HAPPY MAKERS // NA ŁĄCZU
 
