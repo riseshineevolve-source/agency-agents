@@ -1,0 +1,30 @@
+{
+  "DETECTIVE_ACADEMY_PL_V02_FINAL70_MASTER.md": {
+    "sha256": "07305a9c0438130443a6752c02bf7f899df9eb870dba8a67a9a0b378b98b679c",
+    "bytes": 124331
+  },
+  "V02_READER_FINAL70.md": {
+    "sha256": "a21cdd3c78df872a570ae7ef928a761e428d7067588a981d4a9de37556a0b1fa",
+    "bytes": 90683
+  },
+  "V02_FINAL70_SPATIAL_ROSTER.csv": {
+    "sha256": "f8b2bcbc447384dc28f6197ba67e313fa81df14cc70168417e6eab2756fb6e4b",
+    "bytes": 26574
+  },
+  "V02_HINTS_90_FINAL70.md": {
+    "sha256": "7e6adbddbc85ab8de6d4f05abe9dfd117e4dab4155a03b68bf6926a61f3155d8",
+    "bytes": 13164
+  },
+  "V02_SOLUTIONS_30_FINAL70.md": {
+    "sha256": "6eeb2a535d22c8ff2001e101f25debb9b132e9c5310e510aa6e430b31559f558",
+    "bytes": 20482
+  },
+  "V02_FINAL70_ASSIGNMENT.md": {
+    "sha256": "8f7a535d8e73784f6c0f735214147fddf88cbd5bb6dae76db12c526986977d06",
+    "bytes": 2865
+  },
+  "V02_FINAL70_QA.json": {
+    "sha256": "4815f1a015abdd4fb0a094fb14c6c70703d201b9b49494a283eb69a953ecb4cf",
+    "bytes": 780
+  }
+}
