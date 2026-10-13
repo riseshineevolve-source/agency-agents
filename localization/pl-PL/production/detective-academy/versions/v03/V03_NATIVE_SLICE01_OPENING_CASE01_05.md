@@ -895,6 +895,8 @@ Ułóż sześć symboli w **jednej kolejności**, przy której wszystkie wskazó
 - Wszystkie wskazówki muszą działać jednocześnie.
 - Wpisz końcowy układ we wszystkich sześciu polach.
 
+**SYMBOLE:** PIŁKA / GWIAZDA / BŁYSKAWICA / SERCE / KLUCZ / KSIĘŻYC
+
 ## HAPPY MAKERS // NA ŁĄCZU
 
 **DILO:** Dobra, skrytko. Pojedynek.
