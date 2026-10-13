@@ -422,3 +422,20 @@ The current attached/source PDFs may still show older section names. For marketi
 - **POGADAJMY**
 
 Do not rewrite or paraphrase these labels. Product-file implementation remains with the existing Gentle Steps writer after its current safe visual/CI pass; Marketing must not race that writer.
+
+
+## POLISH SUBTITLE — MUST-STAY COMMERCIAL CLUE — 2026-10-13
+
+Canonical wording:
+**Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.**
+
+This is not secondary metadata. It is a core conversion clue and must remain high in the marketing hierarchy.
+
+Use prominently in:
+- cover / packaging;
+- Amazon hero and A+ opening modules;
+- listing/product-page hero;
+- launch/social product-reveal creatives;
+- store/app cross-format presentation where this book is shown.
+
+Visual emphasis may uppercase **TYLKO WY. 10 MINUT RAZEM.**, but do not rewrite or paraphrase the canonical wording.
