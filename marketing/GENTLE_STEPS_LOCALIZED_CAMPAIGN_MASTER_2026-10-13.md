@@ -340,3 +340,33 @@ Mimi ~170 cm; Luli ~160 cm; Dilo ~150 cm; Alio ~130 cm; Nini ~110 cm.
 
 Visual tone:
 modern city-life Christmas; elegant and warm; cool purple/plum + cream + warm gold; no candy/toyland look; no generic red/green Christmas palette; no old-fashioned lantern-led street styling; no Detective props/backpacks in Christmas product art.
+
+
+## CORRECTION LOCK — 2026-10-13
+
+The two most recent generated A+/infographic composites are **REJECTED** and must not be reused as identity or style reference.
+
+### Happy Makers production rule
+- Do **not** regenerate or approximate Happy Makers faces for Advent marketing.
+- Use only exact owner-approved Happy Makers source assets as composited foreground characters.
+- For Advent/Christmas marketing use exactly: **Mimi, Luli, Dilo, Alio, Nini**.
+- **Grandma Bibi is excluded.**
+- If an exact approved character asset cannot be resolved, the creative **fails closed**.
+- Image generation may be used for background/environment only when needed; character identity must remain source-asset exact.
+- No Detective Academy backpacks, flashlights, tablets, badges or other detective props in Christmas visuals.
+
+### Identity order / proportions
+- Mimi ~170 cm — tallest, blonde.
+- Luli ~160 cm — long straight dark hair, hoop earrings.
+- Dilo ~150 cm — older boy, current final Dilo identity, fluffier/tousled hair.
+- Alio ~130 cm — younger boy, clearly shorter than Dilo, smoother/up-swept hair.
+- Nini ~110 cm — youngest, two buns.
+
+### Copy rule
+PL and EN are independent native-language campaigns, not translations.
+Use exact owner-locked product strings unchanged:
+- PL: **ŚWIĘTA SĄ TEŻ PO DRODZE**; **ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY**
+- EN: **BEFORE CHRISTMAS SLIPS BY**; **LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK**
+- EN subtitle: **A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.**
+
+Marketing copy around those locks must be idiomatic, elegant, close to real family life, and solution-led. Do not use literal translation, generic AI uplift, preschool language, wellness/corporate language, or filler slogans.
