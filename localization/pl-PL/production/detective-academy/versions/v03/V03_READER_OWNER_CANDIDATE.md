@@ -1258,7 +1258,7 @@ Wskaż prawdziwe znaki Akademii i odrzuć wszystkie podobne, ale przypadkowe kó
 
 - Liczy się zarówno kształt znaku, jak i **kontekst dokumentu Akademii**, na którym występuje.
 - Każde okrągłe pokrętło, tarcza czy nadruk nie staje się automatycznie znakiem Pokoju Zero.
-- Na tym etapie masz cztery potwierdzone materiały oznaczone **0**. To nie znaczy jeszcze, że to ostateczna liczba.
+- Masz dokładnie cztery potwierdzone dokumenty oznaczone zwykłym **0**. Inne okrągłe znaki nie powiększają tego zestawu.
 
 ## HAPPY MAKERS // NA ŁĄCZU
 
@@ -1514,28 +1514,6 @@ Ustal, kto jako jedyna osoba był w tym samym obszarze co **SONAR**, i podaj wsp
 **OSOBA / ŚWIADEK:** ______________________________
 
 **WSPÓŁRZĘDNA:** __________
-
----
-
-# AKT 3 // KSIĄŻKA PAMIĘTA
-
-Po kilku dniach nikt nie pyta już, gdzie usiądziesz przy stole śledczym.
-
-Po prostu masz tam swoje miejsce.
-
-Następny stos akt ląduje obok.
-
-I wtedy rozwiązane sprawy zaczynają zachowywać się tak, jakby wcale nie były skończone.
-
-Stare zdjęcia.
-
-Zachowane mapy.
-
-Dokumenty, które za pierwszym razem wyglądały zupełnie zwyczajnie.
-
-Nagle wracają.
-
-Jakby książka odkładała odpowiedzi do pytań, których jeszcze nie zdążyłeś zadać.
 
 ---
 
@@ -1821,11 +1799,7 @@ Archiwalna fotografia sześciorga dzieci i datowane wskazówki do Sprawy 16.
 
 Kiedy budynek i rok masz już ustalone, Bibi ostrożnie wyciąga zdjęcie z ochronnej koperty.
 
-Na pasku archiwalnego obiegu koperty widnieje czarne **0**.
-
-**Piąty potwierdzony materiał** z takim znakiem. Luli zaznacza go na Tablicy Śledczej.
-
-Bibi odwraca fotografię. Na odwrocie, jej własnym dawnym pismem, zapisano tylko:
+Odwraca fotografię. Na odwrocie, jej własnym dawnym pismem, zapisano tylko:
 
 # **NAJPIERW ZASADA 0**
 
@@ -1839,7 +1813,7 @@ Bibi odwraca fotografię. Na odwrocie, jej własnym dawnym pismem, zapisano tylk
 
 ## TABLICA ŚLEDCZA → STRONA 13
 
-W części **POWTARZAJĄCE SIĘ ZNAKI** dodaj jako **piąty** materiał: **ochronną kopertę starego zdjęcia Bibi**.
+W części **POWTARZAJĄCE SIĘ ZNAKI** pozostaw dotychczasowe **cztery** dokumenty. Zdjęcie Bibi jest wskazówką, ale nie piątym rekordem oznaczonym zwykłym **0**.
 
 W części **WIADOMOŚCI / ZASADY** zapisz dokładnie:
 
@@ -2461,13 +2435,13 @@ Mapa Domu Gościnnego, Tablica Zeznań i karta drogi przesyłki ze Sprawy 25.
 
 W środku są przezroczyste folie do nakładania na plany i stare klipsy do wyrównywania arkuszy. Takich właśnie narzędzi Bibi brakowało do pracy z mapami aneksu.
 
-Na pasku obiegu przesyłki, dotąd zasłoniętym zagięciem, widać **małe czarne 0**.
+Nini rozkłada folie obok starych dokumentów na Tablicy Śledczej.
 
-Nini kładzie go obok pozostałych oznaczonych dokumentów.
+**NINI:** Dalej tylko cztery dokumenty z zerem.
 
-**NINI:** Sześć.
+**BIBI:** Za to teraz możemy wreszcie sprawdzić stare mapy.
 
-Bibi kiwa głową. **Szósty materiał z tym samym znakiem.** Ten znak jest na pasku trasy przesyłki, nie na wymyślonej nowej zagadce.
+Przesyłka zawiera narzędzia do pracy z mapami, nie piąty dokument oznaczony **0**.
 
 W tej samej chwili pod stołem śledczym zapala się nieużywana od dawna lampka. Drukarka, ta od poszarpanej wiadomości, znów się budzi.
 
@@ -2494,7 +2468,7 @@ Mapa ze **Sprawy 01** zostaje przy aktach naboru. Od niej zaczęła się droga d
 
 **TABLICA ŚLEDCZA → STRONA 13**
 
-Zaznacz, że zebrano **sześć** materiałów oznaczonych czarnym 0, i zapisz komplet wybranych **14 spraw**. Nie dopisuj jeszcze odpowiedzi na zagadkę następnego etapu.
+Na Tablicy Śledczej pozostają **cztery** dokumenty oznaczone czarnym **0**. Zapisz komplet wybranych **14 spraw**. Nie dopisuj jeszcze odpowiedzi na zagadkę następnego etapu.
 
 ---
 
