@@ -32,3 +32,18 @@ These items are newer owner decisions from the current Detective production lane
 ## Authority rule
 Explicit newer owner production decisions > stale V12 presentation wording.
 Immutable puzzle truth still wins over stylistic preference.
+
+
+## Six-mark timeline reconciliation for V03
+
+The owner's current production truth is **SIX matching 0-marked materials by the late Room Zero arc**.
+
+This does **not** require falsifying the early Case05 checkpoint. At that early point the reader has legitimately verified four marked records, so V03 may say **four at this stage** without treating four as the final book-wide total.
+
+To reach the owner-locked final six coherently without changing local puzzle answers:
+- Case16 adds the old photograph envelope as the fifth routing-stamped material after its date/building are verified.
+- Case25 adds the Archive Restoration parcel security/routing strip as the sixth routing-stamped material when the parcel is opened.
+- after Case25, the Case Wall must explicitly contain **six** 0-marked materials.
+- later/final Room Zero copy must never revert to saying the completed pattern has only four.
+
+This is a bounded Room Zero story-thread reconciliation. It does not change any case coordinate, local culprit/contact, code, timing answer or map solution.
