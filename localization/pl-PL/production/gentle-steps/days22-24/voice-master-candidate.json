@@ -1,0 +1,69 @@
+{
+  "format": "rse-native-pl-candidate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_22_24_week4_close",
+  "brief_sha256": "92eebc8c9cae7f3c9de229dc37278877c9fe7722990d24cd2336d1e6a5f68c08",
+  "authoring_basis": "functional_brief_only",
+  "recurring_label_candidates": {
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI",
+    "lock_state": "OWNER_GATE"
+  },
+  "units": [
+    {
+      "id": "GS.D22.PAUSE",
+      "section_label": "ZWOLNIJ",
+      "title": "KILKA ODDECHÓW",
+      "draft_pl": "DZIEŃ 22\n\nZWOLNIJ: KILKA ODDECHÓW\n\nUsiądźcie w kółku i zamknijcie oczy.\n\nPrzez kilka oddechów zwróćcie uwagę tylko na to, że klatka piersiowa lekko unosi się i opada. Nie trzeba oddychać głębiej ani wolniej niż jest wygodnie.\n\nPrzez tę chwilę nie trzeba też zajmować się następną rzeczą z listy.\n\nLuli: Lampki choinkowe mogą świecić za nas. Mamy dziś wolne."
+    },
+    {
+      "id": "GS.D22.PLAY",
+      "section_label": "GRAMY",
+      "title": "KROK BLIŻEJ, KROK DALEJ",
+      "draft_pl": "DZIEŃ 22\n\nGRAMY: KROK BLIŻEJ, KROK DALEJ\n\nStańcie w kółku. Zaczyna najstarsza osoba.\n\nWybiera jedno z poniższych zdań albo wymyśla własne i kończy je zgodnie z tym, co naprawdę myśli:\n\n„Najbardziej sobą czuję się, kiedy…”\n„Jedna prawdziwa rzecz o mnie dzisiaj to…”\n„Coś niewidocznego, ale ważnego w moim życiu teraz, to…”\n„Jedna rzecz, którą chcę w sobie rozwijać, to…”\n„Słowo, które kojarzy mi się z domem, to…”\n„Słowo, które dodaje mi siły, to…”\n\nKiedy osoba prowadząca skończy, pozostali odpowiadają ruchem.\n\nJeśli zdanie mocno do was pasuje, zróbcie mały krok w stronę środka koła. Jeśli pasuje trochę, zróbcie jeden mały krok do tyłu.\n\nNie komentujcie cudzych wyborów i nie pytajcie, dlaczego ktoś stanął właśnie tam.\n\nNastępnie prowadzenie przejmuje kolejna osoba, idąc przeciwnie do ruchu wskazówek zegara.\n\nW dwie osoby stańcie naprzeciwko siebie. Jedna osoba kończy wybrane zdanie, a druga robi krok do przodu, jeśli mocno się z nim utożsamia, albo krok do tyłu, jeśli tylko trochę. Potem zamieńcie się rolami.\n\nMimi: Bez choreografii i bez komisji oceniającej. Każdy ma własne nogi i własną odpowiedź."
+    },
+    {
+      "id": "GS.D22.TALK",
+      "section_label": "MIĘDZY NAMI",
+      "title": "CO POKAZAŁ NAM TEN MIESIĄC?",
+      "draft_pl": "DZIEŃ 22\n\nMIĘDZY NAMI: CO POKAZAŁ NAM TEN MIESIĄC?\n\nKażdy mówi jedną rzecz, którą zauważył albo zrozumiał w tym miesiącu o sobie lub o swojej rodzinie.\n\nMożecie zacząć od zdania:\n\n„Ten miesiąc pokazał mi, że…”\n\nNie szukajcie wielkich odkryć. Czasem najważniejsze jest coś, co po prostu wcześniej umykało.\n\nMimi: Życie nie robi przerwy świątecznej. Niestety ma też zadania domowe."
+    },
+    {
+      "id": "GS.D23.PAUSE",
+      "section_label": "ZWOLNIJ",
+      "title": "KULA ŚNIEŻNA",
+      "draft_pl": "DZIEŃ 23\n\nZWOLNIJ: KULA ŚNIEŻNA\n\nUsiądźcie wygodnie i zamknijcie oczy.\n\nPrzez minutę wyobraźcie sobie kulę śnieżną tuż po potrząśnięciu. Płatki wirują, a potem powoli opadają coraz niżej.\n\nNie trzeba zatrzymywać myśli ani próbować „wyczyścić głowy”. Jeśli coś wam przyjdzie do głowy, po prostu wróćcie do obrazu opadającego śniegu.\n\nAlio: I nikt nie potrząsa kulą drugi raz. Mówię to głównie do siebie."
+    },
+    {
+      "id": "GS.D23.PLAY",
+      "section_label": "GRAMY",
+      "title": "ZAMIANA MIEJSC",
+      "draft_pl": "DZIEŃ 23\n\nGRAMY: ZAMIANA MIEJSC\n\nStańcie w kółku. Pierwszą osobą prowadzącą zostaje ta, której urodziny przypadają najbliżej połowy roku, czyli mniej więcej 1 lipca.\n\n**Runda 1: KOLORY**\n\nProwadzący wybiera kolor i mówi na przykład:\n\n„Wszyscy, którzy mają na sobie coś czerwonego, zmieniają miejsce!”\n\nKażda osoba, która ma na sobie ten kolor, szybko i bezpiecznie zmienia miejsce w kole. Zagrajcie kilka krótkich rund, wybierając różne kolory.\n\n**Runda 2: LUBIĘ / NIE LUBIĘ**\n\nKolejna osoba prowadząca jest wybierana zgodnie z ruchem wskazówek zegara. Podaje lekką kategorię, na przykład:\n\n„Wszyscy, którzy lubią ciepłe napoje, zmieniają miejsce!”\n\nOsoby, których to dotyczy, zamieniają się miejscami.\n\n**Runda 3: NAWYKI I CECHY**\n\nNastępny prowadzący wybiera prostą, nieszkodliwą kategorię, na przykład:\n\n„Wszyscy, którzy uważają się za cierpliwych, zmieniają miejsce!”\nalbo\n„Wszyscy, którzy lubią mieć wszystko poukładane, zmieniają miejsce!”\n\nMożecie grać tak długo, jak macie ochotę, i wymyślać własne kategorie. Wybierajcie takie, które nikogo nie zawstydzają ani nie oceniają.\n\nDilo: Szybka zamiana. Zwolnione tempo zostawmy filmom dramatycznym."
+    },
+    {
+      "id": "GS.D23.TALK",
+      "section_label": "MIĘDZY NAMI",
+      "title": "PRZEPRASZAM ZA…",
+      "draft_pl": "DZIEŃ 23\n\nMIĘDZY NAMI: PRZEPRASZAM ZA…\n\nUsiądźcie razem w kółku.\n\nZaczyna dowolna osoba. Zwraca się do osoby siedzącej po swojej prawej stronie i mówi:\n\n„Przepraszam za…”\n\nNastępnie podaje jeden prawdziwy, niedawny przykład sytuacji, za którą rzeczywiście chce przeprosić.\n\nNie wymyślajcie przeprosin tylko po to, żeby „zaliczyć” rundę. Jeśli ktoś nie ma dziś niczego szczerego do powiedzenia, może po prostu posłuchać.\n\nJeśli inni również chcą coś powiedzieć, możecie przejść dalej wokół koła.\n\nAlio: Prosto i bez fajerwerków. Fajerwerki i tak zostawmy na inny dzień."
+    },
+    {
+      "id": "GS.D24.PAUSE",
+      "section_label": "ZWOLNIJ",
+      "title": "OSTATNIA MINUTA",
+      "draft_pl": "DZIEŃ 24\n\nZWOLNIJ: OSTATNIA MINUTA\n\nUsiądźcie razem w ciszy.\n\nJeśli wszyscy mają na to ochotę, możecie złapać się za ręce. Jeśli nie, po prostu usiądźcie blisko siebie.\n\nPrzez minutę oddychajcie swobodnie i niczego nie planujcie.\n\nNa koniec pomyślcie o jednej osobie albo rodzinie poza tym pokojem, której chcielibyście dziś po prostu życzyć czegoś dobrego. Nie trzeba tego mówić na głos.\n\nMimi: Jeszcze jedna minuta. Reszta naprawdę może chwilę poczekać."
+    },
+    {
+      "id": "GS.D24.PLAY",
+      "section_label": "GRAMY",
+      "title": "ŚPIEWAMY RAZEM",
+      "draft_pl": "DZIEŃ 24\n\nGRAMY: ŚPIEWAMY RAZEM\n\nStańcie albo usiądźcie blisko siebie.\n\nWybierzcie jedną ulubioną kolędę, piosenkę świąteczną albo zimową, którą wszyscy mniej więcej znają.\n\nZaczyna osoba, która ma na sobie najbardziej świąteczny kolor. Śpiewa pierwszą linijkę, a pozostali dołączają i razem śpiewacie dalej.\n\nNie chodzi o wykonanie koncertowe. Wystarczy jeden wspólny utwór.\n\nDilo: Czystość dźwięku nie podlega ocenie. Na szczęście."
+    },
+    {
+      "id": "GS.D24.TALK",
+      "section_label": "MIĘDZY NAMI",
+      "title": "CO ZOSTAJE Z TEGO ADWENTU?",
+      "draft_pl": "DZIEŃ 24\n\nMIĘDZY NAMI: CO ZOSTAJE Z TEGO ADWENTU?\n\nNa koniec zróbcie dwie krótkie rundy.\n\n**1. JEDNO „DZIĘKUJĘ”**\n\nKażdy mówi o jednej rzeczy, za którą jest wdzięczny po tych 24 dniach.\n\nMoże to być wspólny moment, czyjś gest, rozmowa, śmiech, trochę więcej czasu razem albo coś zupełnie małego.\n\n**2. JEDNO ŻYCZENIE**\n\nKażdy mówi jedno życzenie dla waszej rodziny na święta i nadchodzący rok.\n\nNie trzeba wygłaszać przemowy. Jedno prawdziwe „dziękuję” i jedno życzenie wystarczą.\n\nHappy Makers: Nawet ciche życzenia się liczą. Nie potrzebują brokatu."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "product": "gentle-steps-christmas",
+  "mode": "native_reauthor_from_function",
+  "source_language": "en",
+  "target_language": "pl-PL",
+  "native_writer_source_visibility": "functional_brief_only",
+  "stages": [
+    "source_function_analysis",
+    "native_polish_first_write",
+    "polish_usage_idiom_context",
+    "polish_book_register",
+    "breath_reset_reauthoring",
+    "activity_instruction_completeness",
+    "polish_family_language_edit",
+    "humor_character_voice",
+    "kid_parent_ear_review",
+    "anti_coaching_translationese",
+    "bilingual_fidelity_backcheck",
+    "logic_continuity",
+    "proofread",
+    "surface_qa"
+  ],
+  "required_review_stages": [
+    "polish_usage_idiom_context",
+    "polish_book_register",
+    "breath_reset_reauthoring",
+    "activity_instruction_completeness",
+    "polish_family_language_edit",
+    "humor_character_voice",
+    "kid_parent_ear_review",
+    "anti_coaching_translationese",
+    "bilingual_fidelity_backcheck",
+    "logic_continuity",
+    "proofread",
+    "surface_qa"
+  ],
+  "owner_gates": [
+    "polish_title",
+    "recurring_daily_labels",
+    "editorial_safety_exceptions",
+    "final_full_proof"
+  ],
+  "voice": {
+    "positive": [
+      "contemporary Polish family language",
+      "spoken rhythm",
+      "situational humor",
+      "self-awareness",
+      "concrete everyday family reality",
+      "warm without syrup",
+      "playful without forced slang",
+      "less spiritual when literal mindfulness language feels foreign in Polish"
+    ],
+    "negative": [
+      "corporate coaching cadence",
+      "therapy-speak",
+      "motivational poster language",
+      "literal English syntax",
+      "generic mindfulness jargon",
+      "fake youth slang",
+      "decorative Polish stereotypes"
+    ]
+  },
+  "protected_truth": [
+    "activity mechanics",
+    "timing and counts",
+    "sequence",
+    "factual constraints",
+    "character identities and continuity",
+    "consent and safety boundaries",
+    "claim strength",
+    "product feature truth",
+    "legal/publication truth"
+  ],
+  "language_acceptance": {
+    "rule": "grammatically_possible_is_not_enough",
+    "mandatory_checks": [
+      "grammar",
+      "syntax",
+      "collocation",
+      "idiom",
+      "semantic_selection",
+      "sentence_construction",
+      "context",
+      "register",
+      "read_aloud_rhythm",
+      "polish_punctuation_house_style"
+    ],
+    "pass_condition": "A contemporary Polish speaker would naturally formulate the idea this way without mentally repairing an English-shaped construction."
+  },
+  "recurring_label_policy": {
+    "rule": "teen_safe_not_embarrassing",
+    "audience_check": "Ages 13-16 should be able to use/hear the labels without feeling they belong to therapy, school workshops or parent coaching.",
+    "avoid": [
+      "therapy labels",
+      "parenting-workshop language",
+      "cute diminutives",
+      "forced slang",
+      "literal mindfulness terminology"
+    ],
+    "current_working_set": {
+      "pause": "ZWOLNIJ",
+      "play": "GRAMY",
+      "connection": "MIĘDZY NAMI",
+      "lock_state": "OWNER_GATE"
+    }
+  },
+  "book_register": {
+    "target": "modern_polish_family_book",
+    "rule": "natural_not_chatty",
+    "avoid": [
+      "chat transcript shorthand",
+      "social-media cadence",
+      "casual filler outside character dialogue",
+      "telegraphic instructions",
+      "fragments used instead of complete Polish sentences"
+    ],
+    "pass_condition": "The copy reads naturally aloud and also looks deliberate in a professionally edited Polish book."
+  },
+  "breath_reset_policy": {
+    "mode": "concrete_everyday_reset",
+    "purpose": [
+      "slow the pace",
+      "give the head a short break from the next task",
+      "rest the body",
+      "use breathing as a concrete action rather than a spiritual metaphor"
+    ],
+    "avoid": [
+      "mindfulness jargon",
+      "corporate wellbeing language",
+      "shared energy",
+      "flow metaphors",
+      "inner light",
+      "presence jargon",
+      "guaranteed calm"
+    ],
+    "preserve": [
+      "source body position",
+      "timing",
+      "breath counts",
+      "consent/safety",
+      "activity sequence"
+    ]
+  },
+  "instruction_completeness": {
+    "rule": "no_compression_that_requires_guessing",
+    "required_coverage": [
+      "starting_position",
+      "starter_selection",
+      "starter_action",
+      "turn_order_or_direction",
+      "next_person_action",
+      "counts_and_timing",
+      "error_reset_rules",
+      "round_structure",
+      "optional_continuation",
+      "advanced_or_final_round",
+      "two_person_variant",
+      "safety_or_consent",
+      "ending_condition"
+    ],
+    "pass_condition": "A family can execute the activity correctly from the Polish page alone without seeing the English original."
+  },
+  "polish_punctuation_house_style": {
+    "rule": "no_em_dash_in_reader_facing_polish",
+    "forbidden": [
+      "—"
+    ],
+    "prefer": [
+      "rebuild the sentence in natural Polish",
+      "full stop and a new sentence",
+      "comma where grammatically natural",
+      "colon for explanation or section-label separation"
+    ],
+    "note": "Do not mechanically replace an English dash with Polish punctuation. Rewrite the sentence so it sounds natively composed.",
+    "pass_condition": "Reader-facing Polish copy contains no em dash and does not sound syntactically distorted by dash removal."
+  }
+}

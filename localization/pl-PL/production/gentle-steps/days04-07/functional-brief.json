@@ -1,0 +1,351 @@
+{
+  "format": "rse-functional-brief-v1",
+  "product": "gentle-steps-christmas",
+  "source_sha256": "1f79edd316f353963ef33bb980843b37f367a0bacb9198bd63e0d221cb8c9ba7",
+  "profile_sha256": "1f3aff5828302a2f4cfbb07dc1a7d94c9c366a4fed51e8d5b27c912d9e8cf1ae",
+  "scope": "days_04_07_week1_close",
+  "units": [
+    {
+      "id": "GS.D04.PAUSE",
+      "source_locator": "PDF p30",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Create a short visual pause around one small light source without spiritualizing it.",
+      "mechanics": [
+        "Sit close together.",
+        "Look softly at a small flame or light.",
+        "Notice changes/flicker in the light.",
+        "Breathe calmly while watching."
+      ],
+      "immutable_facts": [
+        "The source permits either a small flame or another light source.",
+        "Luli comments on letting the eyes rest."
+      ],
+      "character_roles": [
+        "Luli is observant, dry and slightly self-aware."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim the light changes emotion or energy.",
+        "If a real candle is used, keep it safely positioned and supervised."
+      ],
+      "tone_job": "Simple visual focus, not meditation language.",
+      "humor_room": "Luli can joke about not analysing everything for once.",
+      "cultural_friction": "Avoid mystical light metaphors.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D04.PLAY",
+      "source_locator": "PDF p31",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Run a voice-imitation circle where one sentence travels around in different voices.",
+      "mechanics": [
+        "Starter is the person with the longest hair.",
+        "Starter says one cheerful sentence in a normal voice.",
+        "Move anticlockwise.",
+        "Each person repeats the same sentence in a different voice/tone.",
+        "No voice repeats within a round.",
+        "After a full round, the person to the starter's right chooses a new sentence for another round."
+      ],
+      "immutable_facts": [
+        "Voice examples may be culturally adapted.",
+        "Mimi warns about choosing a voice you will immediately hear repeated."
+      ],
+      "character_roles": [
+        "Mimi is practical and amused by foreseeable family chaos."
+      ],
+      "safety_claim_boundaries": [
+        "Keep it vocal/playful; do not add unsafe physical actions."
+      ],
+      "tone_job": "Quick imitation game with escalating absurdity.",
+      "humor_room": "Joke about having to hear your chosen voice repeated around the room.",
+      "cultural_friction": "Replace dated/awkward English voice examples with durable Polish-friendly ones.",
+      "recurrence_context": "Working recurring family: GRAMY",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D04.TALK",
+      "source_locator": "PDF p32",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Ask each person to choose one color that matches their day.",
+      "mechanics": [
+        "Each person chooses one color.",
+        "Each says the color aloud."
+      ],
+      "immutable_facts": [
+        "Invented colors are allowed.",
+        "Dilo explicitly approves invented colors."
+      ],
+      "character_roles": [
+        "Dilo treats invented categories like a system feature."
+      ],
+      "safety_claim_boundaries": [
+        "Do not imply colors diagnose emotions."
+      ],
+      "tone_job": "Very short, creative check-in without explanation pressure.",
+      "humor_room": "Dilo can 'add' a new color to the system.",
+      "cultural_friction": "Avoid therapy-like color/emotion interpretation.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D05.PAUSE",
+      "source_locator": "PDF p33",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Spend one minute listening to sounds at three distances/intensities.",
+      "mechanics": [
+        "Close eyes.",
+        "For one minute notice three layers of sound: near, far, subtle/very quiet."
+      ],
+      "immutable_facts": [
+        "Duration is one minute.",
+        "Three sound layers are required.",
+        "Dilo comments on unusual quiet in his own mind."
+      ],
+      "character_roles": [
+        "Dilo uses tech-minded dry humor."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim the exercise regulates emotion or produces calm."
+      ],
+      "tone_job": "Listening game more than mindfulness exercise.",
+      "humor_room": "Dilo can joke about browser tabs/mental noise.",
+      "cultural_friction": "Avoid 'pure awareness' language.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D05.PLAY",
+      "source_locator": "PDF p34",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Build a human counting clock with pointing, speed/reverse rounds and an advanced no-order round.",
+      "mechanics": [
+        "Sit in a circle.",
+        "Tallest person starts with 1 and points to someone.",
+        "Pointed person says 2 and points onward; continue to 12.",
+        "Any mistake resets to the start.",
+        "Repeat faster.",
+        "Repeat backward from 12 to 1.",
+        "Optional higher target number.",
+        "Advanced: group counts to 12 or higher without pre-agreeing who starts or who says next; if two speak together, restart.",
+        "Two-person version remains valid."
+      ],
+      "immutable_facts": [
+        "Numbers 1-12 and reverse 12-1 are core.",
+        "Advanced round has no preassigned order.",
+        "Dilo frames precision like a strict system."
+      ],
+      "character_roles": [
+        "Dilo can mix football/tech references."
+      ],
+      "safety_claim_boundaries": [
+        "Keep pointing and pace safe; no elimination/shaming."
+      ],
+      "tone_job": "Fast coordination challenge with clean rules.",
+      "humor_room": "A VAR/reset joke can fit Dilo.",
+      "cultural_friction": "Avoid corporate teamwork language.",
+      "recurrence_context": "Working recurring family: GRAMY",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D05.TALK",
+      "source_locator": "PDF p35",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Name one familiar home sound each person genuinely likes hearing.",
+      "mechanics": [
+        "Each person names one sound they like hearing at home."
+      ],
+      "immutable_facts": [
+        "The sound may be ordinary.",
+        "Dilo jokes about tech/appliance sounds."
+      ],
+      "character_roles": [
+        "Dilo notices domestic sounds through a tech/snack lens."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim the sound proves safety or attachment."
+      ],
+      "tone_job": "Everyday home detail, not sentimental reflection.",
+      "humor_room": "Appliance/snack joke is allowed.",
+      "cultural_friction": "Avoid saying home is 'built from sounds that make us feel safe'.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D06.PAUSE",
+      "source_locator": "PDF p36",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Create a short shared breathing rhythm in a loose circle without mystical shared-breath framing.",
+      "mechanics": [
+        "Sit in a loose circle.",
+        "Hands rest on own knees or are lightly joined if everyone wants.",
+        "Breathe for a short while at a similar pace."
+      ],
+      "immutable_facts": [
+        "Original uses a shared-breath/wave image.",
+        "Alio frames it as teamwork in quiet form."
+      ],
+      "character_roles": [
+        "Alio is team-oriented and lightly chaotic."
+      ],
+      "safety_claim_boundaries": [
+        "Touch is optional.",
+        "No requirement to synchronize perfectly.",
+        "Do not claim one breath literally moves through everyone."
+      ],
+      "tone_job": "Low-pressure group rhythm.",
+      "humor_room": "Alio can joke that the team is working without a meeting.",
+      "cultural_friction": "Remove mystical shared-wave language.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D06.PLAY",
+      "source_locator": "PDF p37",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Run a three-round synchronized balance/movement challenge with age-based leaders.",
+      "mechanics": [
+        "Stand shoulder-to-shoulder in a row.",
+        "Round 1: youngest leads while participating; calls gentle lean forward/back/left/right; goal at least 10 group moves without mistake.",
+        "Round 2: next person in age order leads small synchronized steps forward/back/right/left; goal at least 15 moves without mistake.",
+        "Final round: oldest leads mixed leans and single/multiple steps at varied pace; play as long as desired."
+      ],
+      "immutable_facts": [
+        "Round goals 10 and 15 are required.",
+        "Leader order: youngest, next in age order, oldest.",
+        "Luli warns against dramatic falling."
+      ],
+      "character_roles": [
+        "Luli is precise and dry."
+      ],
+      "safety_claim_boundaries": [
+        "Movements must stay small/safe; no deliberate falling or loss of balance."
+      ],
+      "tone_job": "Coordination challenge, not a lesson.",
+      "humor_room": "Luli can veto dramatic falls.",
+      "cultural_friction": "Avoid translating 'balance grows when we share direction'.",
+      "recurrence_context": "Working recurring family: GRAMY",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D06.TALK",
+      "source_locator": "PDF p38",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Share words or short phrases each person likes hearing from family when upset or overwhelmed.",
+      "mechanics": [
+        "Each person names one specific word/phrase they like hearing from family members when they need to settle."
+      ],
+      "immutable_facts": [
+        "The point is preferred family language, not universal calming advice.",
+        "Luli contrasts gentle wording with something harsh."
+      ],
+      "character_roles": [
+        "Luli keeps emotional language concrete."
+      ],
+      "safety_claim_boundaries": [
+        "Do not claim a phrase will calm everyone.",
+        "Do not force personal disclosure."
+      ],
+      "tone_job": "Practical family communication with no therapy jargon.",
+      "humor_room": "Luli can dismiss the need for wise-sounding phrases.",
+      "cultural_friction": "Avoid feather/thunderbolt metaphor unless a Polish equivalent truly works.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D07.PAUSE",
+      "source_locator": "PDF p39",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Let the body rest on the floor/chair and notice physical support.",
+      "mechanics": [
+        "Sit or lie near each other.",
+        "Let the body rest fully.",
+        "Notice the floor supporting body weight."
+      ],
+      "immutable_facts": [
+        "Dilo jokes that the floor/gravity is doing the lifting."
+      ],
+      "character_roles": [
+        "Dilo uses mock-technical framing."
+      ],
+      "safety_claim_boundaries": [
+        "Do not promise emotional peace.",
+        "Keep position optional and comfortable."
+      ],
+      "tone_job": "Physical reset with a concrete joke.",
+      "humor_room": "Gravity can be Dilo's 'training partner'.",
+      "cultural_friction": "Remove heart/earth spiritual metaphor.",
+      "recurrence_context": "Working recurring family: ZWOLNIJ",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D07.PLAY",
+      "source_locator": "PDF p40",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Pass a smile around the circle, then repeat with different friendly gestures; preserve consent and two-person version.",
+      "mechanics": [
+        "Stand or sit in a circle.",
+        "Person with shortest hair starts by smiling at one chosen person.",
+        "Smile travels person to person and returns to starter after reaching everyone.",
+        "Round 2: high-five.",
+        "Round 3: gentle shoulder tap.",
+        "Round 4: quick hug only if comfortable/wanted.",
+        "Two people: smile at each other for 30 seconds; then hug for another 30 seconds only if both want."
+      ],
+      "immutable_facts": [
+        "Starter has shortest hair.",
+        "Smile chain must reach everyone and return.",
+        "Two 30-second intervals exist in two-person version.",
+        "Nini says bigger smiles travel better."
+      ],
+      "character_roles": [
+        "Nini is playful and physical."
+      ],
+      "safety_claim_boundaries": [
+        "Touch/hug requires mutual consent.",
+        "Shoulder tap is gentle."
+      ],
+      "tone_job": "Deliberately slightly silly social chain.",
+      "humor_room": "Nini can encourage an oversized smile.",
+      "cultural_friction": "Avoid claims that smiles become 'powerful' or 'amplified'.",
+      "recurrence_context": "Working recurring family: GRAMY",
+      "wording_is_disposable": true
+    },
+    {
+      "id": "GS.D07.TALK",
+      "source_locator": "PDF p41",
+      "surface_type": "body_block",
+      "audience": "family",
+      "function": "Notice one family member who often helps quietly without seeking attention.",
+      "mechanics": [
+        "Each person names one family member who often helps/supports others without drawing attention.",
+        "Say what they noticed that person doing."
+      ],
+      "immutable_facts": [
+        "Focus is on quiet, often-unnoticed help.",
+        "Nini says quiet heroes do not brag."
+      ],
+      "character_roles": [
+        "Nini is bright and direct."
+      ],
+      "safety_claim_boundaries": [
+        "Do not moralize or require praise of a specific person."
+      ],
+      "tone_job": "Concrete recognition, not gratitude ceremony.",
+      "humor_room": "Nini can say that if they do not brag, the family can do it for them.",
+      "cultural_friction": "Avoid heroic/sentimental language.",
+      "recurrence_context": "Working recurring family: MIĘDZY NAMI",
+      "wording_is_disposable": true
+    }
+  ]
+}

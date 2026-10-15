@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-04",
+  "state": "D09_COMPLETE_D01_NOT_APPLIED",
+  "master_blob": "c1bc9fd573ef3efdd8c563a1cdfaa93aa6035702",
+  "completed_change": "D09.ZWOLNIJ heading refined to TRZY, DWA, JEDEN",
+  "d09_regression": "24 days; 72 sections; D09.ZWOLNIJ only",
+  "qa_file": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_FINAL_SPRINT_QA_2026-10-04_1700.md",
+  "d01_candidate": "replace mindfulness-coded return-to-breath sentence with ordinary Polish wording",
+  "d01_content_change_applied": false,
+  "current_guard_state": "prepared for D01 with subset mode because subsequent write attempts were blocked",
+  "next_run_first_action": "normalize the guard before any new content edit, then retry D01 only if the write path is available",
+  "manifest_delta": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/MANIFEST_DELTA_2026-10-04_1700.json",
+  "frozen_v1_blob": "46542df9e3e44f235f112edb2d381d5511c7abca"
+}

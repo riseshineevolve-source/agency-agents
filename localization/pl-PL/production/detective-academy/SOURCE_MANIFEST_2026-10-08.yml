@@ -1,0 +1,75 @@
+project: detective_academy_book1_pl
+created: 2026-10-08
+status: SOURCE_LOCKED__PL_PRODUCTION_AUTHORIZED
+route: CROSS_LANGUAGE_NATIVE_REAUTHORING
+
+source:
+  authority: owner_uploaded_final_english_text
+  uploaded_filename: "HMDA_Book1_EN_Premium_V10_FULL_TEXT(1).pdf"
+  uploaded_pdf_sha256: "d174606bbcff1f6fabc7edd8b9364e631b935007ccbc8087563ccadb16be8f0f"
+  durable_baseline_path: "localization/pl-PL/production/detective-academy/source/ORIGINAL_BASELINE_EN_V10_2026-10-08.md"
+  durable_baseline_git_blob: "19df709e381445a6f5a52d7b0c1c898bd5b706be"
+  original_repo_path: "orchestration/detective/content-upgrade/detective-en-premium-v1/OWNER_READ_CANDIDATE_EN_PREMIUM_V10.md"
+  original_repo_branch: "feature/detective-en-premium-content-upgrade-20261005"
+  later_v11_v12_override_allowed: false
+  override_rule: "Only explicit owner source-authority change may replace frozen V10 for PL production."
+
+owner_authorization:
+  decision_path: "orchestration/control-plane/owner-decisions/2026-10-08_DETECTIVE_EN_SOURCE_FREEZE_FOR_PL.md"
+  gate_closed: explicit_Detective_EN_freeze
+  publication_authorized: false
+
+target:
+  locale: pl-PL
+  audience: "8-12"
+  book_type: "connected detective puzzle adventure / 30 cases"
+  register: "native contemporary premium Polish"
+  humor: "smart, lightly mischievous, supportive, character-specific, never infantile"
+  reader_role: "missing detective / member of Happy Makers squad and Detective Academy"
+
+source_authority_for:
+  - meaning
+  - facts
+  - plot
+  - chronology
+  - characters
+  - names_and_aliases
+  - puzzle_truth
+  - clues
+  - coordinates
+  - counts
+  - props
+  - instructions
+  - hint_progression
+  - solution_reasoning
+  - callbacks
+  - safety
+  - structure
+
+source_not_authority_for:
+  - Polish sentence structure
+  - English idiom
+  - English syntax
+  - literal wording
+
+critical_verified_anchors:
+  - "017 / 071"
+  - "THE ANSWER IS IN WHAT YOU LEAVE EMPTY"
+  - "CHECK THE OLD MAP"
+  - "ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND."
+  - "30-case sequence"
+  - "62 CASE nn // headings across story + answer apparatus"
+
+existing_polish_authorities:
+  profile: "localization/pl-PL/DETECTIVE_ACADEMY_PROFILE.md"
+  segmentation_contract: "localization/pl-PL/DETECTIVE_ACADEMY_SEGMENTATION_CONTRACT.md"
+  terminology: "localization/pl-PL/engine/terminology.json"
+  accepted_terms: "localization/pl-PL/ACCEPTED_TERMINOLOGY.md"
+
+change_control:
+  one_writer_per_surface: true
+  logic_sensitive_segments: fail_closed
+  title_packaging_owner_gate: true
+  content_freeze_owner_gate: true
+  print_ready_owner_gate: true
+  publication_owner_gate: true

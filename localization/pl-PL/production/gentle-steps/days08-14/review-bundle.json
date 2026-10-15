@@ -1,0 +1,143 @@
+{
+  "format": "rse-reauthor-review-bundle-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_08_14_week2",
+  "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+  "reviews": [
+    {
+      "stage": "polish_usage_idiom_context",
+      "reviewer": "role:polish_usage_idiom_context",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "Full Polish grammar, syntax, collocation, idiom, semantic-selection and read-aloud review completed across all 21 surfaces.",
+        "Gendered or English-shaped phrasing was removed in the final micro-pass.",
+        "Owner micro-pass removes residual near-native phrasing such as 'brzmi sprawnie'."
+      ]
+    },
+    {
+      "stage": "polish_book_register",
+      "reviewer": "role:polish_book_register",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "Instructions use complete, polished book sentences rather than chat shorthand.",
+        "The strongest colloquiality remains in Happy Makers comments, where it supports character voice.",
+        "Owner house-style pass removes em dashes from reader-facing Polish and rebuilds affected sentences."
+      ]
+    },
+    {
+      "stage": "breath_reset_reauthoring",
+      "reviewer": "role:breath_reset_reauthoring",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "Days 8-14 reset pages were rebuilt through concrete pulse, breathing, facial relaxation, slow movement, warmth and brief pauses from tasks.",
+        "Golden light, inner river, room energy, gratitude-glance wellness language and warmth-transfer metaphors were not carried into Polish.",
+        "Core source breath/body actions remain recognizable and safe."
+      ]
+    },
+    {
+      "stage": "activity_instruction_completeness",
+      "reviewer": "role:activity_instruction_completeness",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "All game mechanics were checked against the functional brief: starter selection, direction, repetition order, exact counts/word limits, reset conditions, multi-round structure and two-person variants where present.",
+        "Day 12 preserves exactly five words with 3 true clues + 2 absurd lies and anti-clockwise continuation.",
+        "Day 14 preserves shortest-person starter, clockwise rhythm creation and final full-sequence challenge."
+      ]
+    },
+    {
+      "stage": "polish_family_language_edit",
+      "reviewer": "role:polish_family_language_edit",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "Tone is contemporary and family-readable without becoming social-media or chat language.",
+        "Emotion/reflection prompts remain concrete and low-pressure."
+      ]
+    },
+    {
+      "stage": "humor_character_voice",
+      "reviewer": "role:humor_character_voice",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "Dilo remains tech/system-oriented; Luli dry/precise; Mimi practical; Nini playful; Alio energetic/team-minded.",
+        "Jokes were created as Polish lines rather than translated punchlines."
+      ]
+    },
+    {
+      "stage": "kid_parent_ear_review",
+      "reviewer": "role:kid_parent_ear_review",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "No forced youth slang or baby language.",
+        "ZWOLNIJ / GRAMY / MIĘDZY NAMI remain workable teen-safe labels but are still owner-gated."
+      ]
+    },
+    {
+      "stage": "anti_coaching_translationese",
+      "reviewer": "role:anti_coaching_translationese",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "Wellness/coaching and spiritual metaphors were replaced by everyday actions and observations.",
+        "No deterministic claim about calm, trust, gratitude, energy or connection was introduced."
+      ]
+    },
+    {
+      "stage": "bilingual_fidelity_backcheck",
+      "reviewer": "role:bilingual_fidelity_backcheck",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "Day 8 cumulative story uses 2-3 rounds and movement/sound replay.",
+        "Day 9 Human Knot preserves two different non-neighbor hands, no release, open-circle target and two-person variant.",
+        "Day 10 Family Machine preserves alphabet-based starter and full cumulative movement+sound sequence.",
+        "Day 11 Weird Command preserves colorful-socks leader, movement+sound+face, leader participation and leader change on hesitation/laughter/slowness.",
+        "Day 12 exact-five-word puzzle, truth/lie split and anti-clockwise order are preserved.",
+        "Day 13 kindness doorway and two-chair two-person variant are preserved.",
+        "Day 14 rhythm and appreciation-circle direction are preserved."
+      ]
+    },
+    {
+      "stage": "logic_continuity",
+      "reviewer": "role:logic_continuity",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "Days 8-14 maintain ZWOLNIJ / GRAMY / MIĘDZY NAMI rhythm and character voice continuity with Week 1.",
+        "Week 2 avoids repeating Week 1 jokes verbatim."
+      ]
+    },
+    {
+      "stage": "proofread",
+      "reviewer": "role:proofread",
+      "status": "PASS",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "Polish punctuation, quotation marks, inflection, numbering and typography checked after final micro-pass."
+      ]
+    },
+    {
+      "stage": "surface_qa",
+      "reviewer": "role:surface_qa",
+      "status": "DEFERRED_FULL_BOOK_OWNER_GATE",
+      "candidate_sha256": "c24dc3542a8e96b72281aa723aad7a5eb3e1aa714ce01edaebc3bd444bab7fea",
+      "notes": [
+        "Exact page/app fit is deferred until the complete Polish manuscript is assembled and reviewed as one product.",
+        "No production fit PASS is claimed."
+      ]
+    }
+  ],
+  "owner_decisions": {
+    "voice_direction": {
+      "status": "APPROVED_TO_CONTINUE",
+      "evidence": "localization/pl-PL/production/gentle-steps/VOICE_DIRECTION_OWNER_RECEIPT_2026-09-30.json"
+    }
+  },
+  "scaleout_authorized": true
+}

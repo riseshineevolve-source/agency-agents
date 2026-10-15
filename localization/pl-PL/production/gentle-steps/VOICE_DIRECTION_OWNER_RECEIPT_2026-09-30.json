@@ -1,0 +1,11 @@
+{
+  "format": "rse-owner-voice-direction-receipt-v1",
+  "product": "gentle-steps-christmas",
+  "date": "2026-09-30",
+  "decision": "APPROVED_TO_CONTINUE",
+  "approved_scope": "Continue native Polish re-authoring beyond Days 1-3 using the V2 direction with strict Polish grammar, syntax, idiom, context and teen-safe humor/labels.",
+  "exact_copy_frozen": false,
+  "recurring_labels_locked": false,
+  "title_locked": false,
+  "scaleout_policy": "Proceed in bounded batches; preserve owner review gates for labels, title, exceptions and final proof."
+}

@@ -1,0 +1,67 @@
+{
+  "format": "rse-gentle-steps-pl-v03-r6-final-template-proof-contract-v1",
+  "date": "2026-10-08",
+  "status": "WAITING_FOR_ACTUAL_RENDER_NOT_A_RELEASE_APPROVAL",
+  "lane": "polish_localization",
+  "producer_lane": "gentle_steps",
+  "source_lock": {
+    "repository": "riseshineevolve-source/agency-agents",
+    "branch": "codex/polish-engine-main-reconcile",
+    "r6_packaging_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md",
+    "r6_blob_sha": "896cf92bf6ed126ef62e623fd9cac640270e853f",
+    "r4_body_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
+    "body_lock_boundary": "## DZIEŃ 1"
+  },
+  "required_artifacts": [
+    "exact final-template snapshot",
+    "actual whole-book final-template PDF",
+    "12 unique surface PNGs rendered from the same final-template PDF",
+    "hash-bound draft evidence manifest",
+    "print-scale reviewer attestation and editorial/safety dispositions"
+  ],
+  "required_surface_ids": [
+    "front_title_subtitle",
+    "front_happy_makers",
+    "front_how_book_works",
+    "day_24",
+    "day_18",
+    "day_09",
+    "day_01",
+    "day_23",
+    "day_07",
+    "day_21",
+    "day_22",
+    "day_10"
+  ],
+  "required_surface_review_flags": [
+    "no_clipping",
+    "no_collisions",
+    "diacritics_correct",
+    "print_scale_reviewed",
+    "readable",
+    "copy_complete"
+  ],
+  "final_review_checks": [
+    "title/subtitle final owner lock exact and legible",
+    "body font not shrunk to force fit",
+    "correct Polish diacritics and no clipped glyphs",
+    "no omitted or orphaned START / W DWIE OSOBY / NA JUTRO",
+    "24 days, 72 activities and optionality/safety preserved",
+    "no split or truncated consent/no-touch alternatives",
+    "happy makers comments visually subordinate to instructions",
+    "no loss of narrative hierarchy or overlaps in crowded pages",
+    "PDF and screenshots are from actual current template, not a proxy"
+  ],
+  "evidence_acceptance": "Validator checks exact source/hash/artifact and reviewer declarations; independent editorial/safety examination of real pages is mandatory and never inferable from CI alone.",
+  "denied": [
+    "historical R5 proof as R6 proof",
+    "retyped/proxy source",
+    "synthetic/demo/test renderer as final production evidence",
+    "automatic reviewer flag promotion",
+    "CONTENT_FROZEN",
+    "PRINT_READY",
+    "KDP publication",
+    "pricing",
+    "release"
+  ]
+}
