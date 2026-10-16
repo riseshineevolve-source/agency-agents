@@ -66,19 +66,19 @@ Headline:
 **Każdy dzień ma prosty rytm.**
 
 Card 1:
-### ZWOLNIJ
+### ZŁAPMY CHWILĘ
 Krótka minuta, która zdejmuje jedną warstwę pośpiechu.
 
 Card 2:
-### GRAMY
+### ZRÓBMY COŚ RAZEM
 Prawdziwa rodzinna gra: ruch, improwizacja, współpraca, śmiech albo małe wyzwanie.
 
 Card 3:
-### MIĘDZY NAMI
+### POGADAJMY
 Jedno pytanie. Nie zebranie rodzinne. Nie wykład. Po prostu chwila, żeby powiedzieć coś prawdziwego, zabawnego albo ważnego.
 
 Footer:
-**Każde ZWOLNIJ ma też NA JUTRO. Każda gra ma wersję W DWIE OSOBY.**
+**Każda część ZŁAPMY CHWILĘ ma też NA JUTRO. Każda gra ma wersję W DWIE OSOBY.**
 
 ## MODULE 4 — REAL ACTIVITIES FROM THE BOOK
 
@@ -166,9 +166,9 @@ Bez dodatkowej listy zakupów.
 Bez szukania materiałów pięć minut przed startem.
 
 Każdego dnia otwieracie książkę i macie gotowy krótki rytm:
-ZWOLNIJ.
-GRAMY.
-MIĘDZY NAMI.
+ZŁAPMY CHWILĘ.
+ZRÓBMY COŚ RAZEM.
+POGADAJMY.
 
 Tyle.
 
@@ -178,14 +178,14 @@ CTA:
 ## POST 03 — DAILY RHYTHM
 
 On-image:
-**ZWOLNIJ. GRAMY. MIĘDZY NAMI.**
+**ZŁAPMY CHWILĘ. ZRÓBMY COŚ RAZEM. POGADAJMY.**
 
 Caption:
 Trzy krótkie części. Każda robi coś innego.
 
-ZWOLNIJ — minuta, żeby trochę zdjąć nogę z gazu.
-GRAMY — coś, przy czym naprawdę robicie coś razem.
-MIĘDZY NAMI — jedno pytanie bez robienia z tego rodzinnego zebrania.
+ZŁAPMY CHWILĘ — minuta, żeby trochę zdjąć nogę z gazu.
+ZRÓBMY COŚ RAZEM — coś, przy czym naprawdę robicie coś razem.
+POGADAJMY — jedno pytanie bez robienia z tego rodzinnego zebrania.
 
 Do tego NA JUTRO, żeby jedna mała rzecz mogła zostać z wami także poza książką.
 
@@ -315,13 +315,13 @@ It is a 24-day family Christmas experience built for real December evenings — 
 
 Each day gives your family three short pieces:
 
-**PAUSE**  
-About a minute to take one layer of pressure off. No perfect breathing, no special mood, and no requirement to feel calm. Every PAUSE also includes **TRY IT TOMORROW**, so one useful idea can leave the page and come with you into an ordinary school day, commute, practice, argument, waiting room, or overloaded evening.
+**LET’S TAKE A MOMENT**  
+About a minute to take one layer of pressure off. No perfect breathing, no special mood, and no requirement to feel calm. Every LET’S TAKE A MOMENT section also includes **TRY IT TOMORROW**, so one useful idea can leave the page and come with you into an ordinary school day, commute, practice, argument, waiting room, or overloaded evening.
 
-**PLAY**  
+**LET’S DO THIS TOGETHER**  
 A quick family game made for real living rooms and real energy levels. No craft supplies. No shopping list. No complicated setup. The games use movement, imagination, words, teamwork, observation, quick thinking, and plenty of room for things to go slightly off-script.
 
-**BETWEEN US**  
+**LET’S TALK**  
 One short conversation. Not a family meeting. Not a lesson. Not a forced heart-to-heart. Just one question that gives everyone a chance to say something real, funny, useful, surprising, or worth keeping.
 
 Inside the 24 days, families will find activities such as **The Invisible Ball, Orchestra with No Rehearsal, Freeze Frame, The Family Machine, Plan B: 60 Seconds, What Happened Here?, Five Words. Two Lies., Instant Expert, Mirror Without a Mirror, Only Questions, What Changed?, Reverse Charades**, and a Day 24 finale that brings earlier ideas back together.
@@ -362,8 +362,8 @@ A good December does not have to be finished perfectly.
 ### Product proof block
 - 24 days of family activities
 - approximately 10 minutes a day
-- PAUSE / PLAY / BETWEEN US
-- TRY IT TOMORROW in every PAUSE
+- LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK
+- TRY IT TOMORROW in every LET’S TAKE A MOMENT
 - two-person version for every game
 - no elaborate preparation
 - no craft-supply list
@@ -380,9 +380,9 @@ A good December does not have to be finished perfectly.
 
 Przez 24 dni dostajecie około dziesięciu minut tylko dla siebie.
 
-**ZWOLNIJ** — krótka chwila, żeby trochę zdjąć nogę z gazu.  
-**GRAMY** — rodzinna zabawa bez przygotowań i dodatkowej listy zakupów.  
-**MIĘDZY NAMI** — jedno pytanie, które daje szansę naprawdę coś o sobie usłyszeć.
+**ZŁAPMY CHWILĘ** — krótka chwila, żeby trochę zdjąć nogę z gazu.  
+**ZRÓBMY COŚ RAZEM** — rodzinna zabawa bez przygotowań i dodatkowej listy zakupów.  
+**POGADAJMY** — jedno pytanie, które daje szansę naprawdę coś o sobie usłyszeć.
 
 Do tego **NA JUTRO**, wersje gier **W DWIE OSOBY** i Happy Makers, którzy przechodzą z wami przez cały grudzień z własnym poczuciem humoru.
 
@@ -402,11 +402,11 @@ Wystarczy jedna mała wspólna chwila, która naprawdę mieści się w waszym dn
 
 For 24 days, your family gets one short shared moment — about ten minutes at a time.
 
-**PAUSE** gives everyone a minute to take one layer of pressure off.  
-**PLAY** brings a real family game with no elaborate setup.  
-**BETWEEN US** adds one short question that can lead somewhere funny, useful, surprising, or real.
+**LET’S TAKE A MOMENT** gives everyone a minute to take one layer of pressure off.  
+**LET’S DO THIS TOGETHER** brings a real family game with no elaborate setup.  
+**LET’S TALK** adds one short question that can lead somewhere funny, useful, surprising, or real.
 
-Every PAUSE includes **TRY IT TOMORROW**, and every game includes a **two-person version**.
+Every LET’S TAKE A MOMENT section includes **TRY IT TOMORROW**, and every game includes a **two-person version**.
 
 You do not have to complete every day perfectly. You do not need a perfect family, a perfect mood, or a perfect December.
 
