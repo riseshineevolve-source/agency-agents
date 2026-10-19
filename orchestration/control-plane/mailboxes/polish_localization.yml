@@ -1,7 +1,7 @@
 lane: polish_localization
 title: "Polish Localization Engine"
 updated: 2026-10-19
-status: GENTLE_LABELS_OWNER_LOCK_CONFIRMED__R6_PRINT_PROOF_BLOCKED__DETECTIVE_FINAL70_CONFIRMED
+status: GENTLE_OWNER_LOCK_CONFIRMED__DETECTIVE_V04_R8_HASH_AND_STRUCTURE_PASS__PRINT_GATES_OPEN
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   engine_base_branch: codex/polish-engine-main-reconcile
@@ -10,13 +10,21 @@ branch_or_repo_state:
   proof_head: f48bb98b97bc41723bcd5ffce3df4ea4d5600a2b
   proof_pr: https://github.com/riseshineevolve-source/agency-agents/pull/37
   main_observed_head: b0f08175ddb23adc6e98daff6f7ac8ba1ba4fffe
+  detective_r8_recovery_branch: codex/detective-pl-v04-r8-recovery-20261019
+  detective_r8_checkpoint_head: cfe524a2ca6eef401d60b7233a5a47664e5caeb9
+  detective_r8_pr: https://github.com/riseshineevolve-source/agency-agents/pull/38
   branch_relation: DIVERGED__NO_BLIND_MERGE
 milestone:
   gentle_steps_pl:
     source: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md
     r6_git_blob: 896cf92bf6ed126ef62e623fd9cac640270e853f
     app_consumer: riseshineevolve-source/RISE.SHINE.EVOLVE/gentle-steps-app/content/pl/source
-    app_observed_branch_head: 308201f2da4d3f3083ebc6643d272b0503dc8421
+    app_observed_branch_head: 34d447ba2a475c581ad5a98ccbbac21affa79f3f
+    app_observed_branch: gentle-steps/premium-visual-20261013
+    owner_labels_migrated_into_app: false
+    new_approved_labels_pl: ZŁAPMY_CHWILĘ__ZRÓBMY_COŚ_RAZEM__POGADAJMY
+    new_approved_labels_en: LETS_TAKE_A_MOMENT__LETS_DO_THIS_TOGETHER__LETS_TALK
+    owner_locked_en_subtitle: A_24_DAY_FAMILY_ADVENT_CALENDAR__NOTHING_TO_BUY__NOTHING_TO_PREP__JUST_YOU__TEN_MINUTES_TOGETHER
     r6_app_source_exact_equal: true
     r5_r6_day01_to_end_exact_equal: true
     days: 24
@@ -33,7 +41,17 @@ milestone:
     print_editorial_safety_proof: BLOCK
   detective_pl:
     existing_source_freeze: "2026-10-08 V10 EN freeze for explicitly named PL source retained as historical scoped receipt"
-    new_full_production: NOT_STARTED_IN_THIS_SLICE
+    latest_complete_private_library: /RSE/Detective Academy/PL Versions/V04/R8
+    latest_r8_status: FULL_30_CASES_90_HINTS_30_SOLUTIONS__HASH_AND_STRUCTURE_PASS__NOT_PRINT_READY
+    latest_r8_reader_sha256: d547b13c953346b35b8b7910fd94a4819ba680319deede73e5bfdfe41ae148a3
+    latest_r8_master_sha256: 4fdc20d499edb430af322315bdaa21f4502fbe9cbb62ac0c8fab01cc82deefa7
+    latest_r8_hints_sha256: a260d3be8f6589b2ee4dc94284164a4694843768ab7ada6e772df4df8c9082e3
+    latest_r8_solutions_sha256: b50a54f696e4076344b7ec672378977710d21b148b63b1b0b9aaf7968d9adba3
+    original_r8_text_qa: PASS_59_OF_59
+    independent_r8_source_hash_verification: PASS_7_OF_7
+    r8_reader_pdf: TEXT_PROOF_59_US_LETTER_PAGES__NO_ART
+    r8_master_pdf: TEXT_PROOF_80_US_LETTER_PAGES__PAGE_80_FOOTER_ONLY__NO_ART
+    r8_source_bytes_changed: false
     later_en_revisions: DO_NOT_AUTO_REPLACE_V10_AUTHORITY
     newest_70_codenames: PRESERVE_PREVIOUS_OWNER_LOCKS_NO_NEW_ALIASES
     room_zero_final_plain_zero_marks: FOUR__OWNER_LOCK_2026_10_15__NOT_SIX
@@ -47,6 +65,9 @@ blocker:
   - "Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer evidence not available."
   - "Authorized Desktop Commander device offline as checked 2026-10-19; no physical print or device proof."
   - "PR #37 exact-head green CI not verified; do not promote as proven PASS or merge blindly."
+  - "Detective R8 text proof has no embedded artwork; master PDF page 80 is footer-only; both must be re-rendered with final Book Factory template."
+  - "Physical Case03 photos, Case12 G2 map, Case21 four fragments, Case26 14 maps, Case27 overlay, human PL family read-aloud and owner KDP layout proof remain unverified."
+  - "R8 original manifest self-hash and owner handoff SHA mismatch the retrieved auxiliary bytes; 7/7 substantive source hashes PASS, no body corruption inferred."
 owner_gate:
   - "The PL/EN daily headings, PL headline and EN subtitle are OWNER-LOCKED (2026-10-13); no owner reconfirmation needed. Await sole Gentle Steps writer for atomic source/app migration after visual/CI pass."
   - "English primary short strapline editorial completion 2026-10-19: A BOOK THAT FITS INTO YOUR DECEMBER. Separate from the owner-locked EN subtitle; do not insert on cover without actual layout review."
@@ -58,11 +79,14 @@ dependencies_needed:
   - lane: central_control_tower
     need: "Coordinate atomic execution of ALREADY approved 2026-10-13 PL/EN section labels, PL headline and EN subtitle without re-asking owner. Forward new editorial EN short strapline A BOOK THAT FITS INTO YOUR DECEMBER. as final localization output; cover placement belongs to product writer."
   - lane: detective_book_factory
-    need: "Report explicit freeze and exact source/hash for current latest Detective EN production when owner actually authorizes newest PL edition; preserve historical V10 source and locked 70 codenames."
+    need: "Consume EXACT Library V04 R8 Reader + Master + 90 hints + 30 solutions (all SHA-verified) as latest PL language candidate; produce complete designed Polish KDP proof using owner-approved art and maps. Test Case03 / 12 / 21 / 26 / 27, FOUR 0 records and FINAL70; real print proof and owner visual gate. Do not use V03 REV6 or generate a competing translation. For future newest EN parity, request exact explicit source freeze."
 reusable_outputs:
   - https://github.com/riseshineevolve-source/agency-agents/pull/37
   - scripts/gentle-steps-r6-proof.py
   - scripts/test-localization-gentle-steps-r6-fit.py
   - localization/pl-PL/production/gentle-steps/book-versions/v3/R6_PROOF_AND_LABEL_CHANGE_GATE_2026-10-19.md
-next_safe_task: "Verify PR #37 CI when available; wait for actual R6 print artifacts, and preserve R6 unchanged until the sole Gentle product writer atomically migrates owner-locked headings/subtitle. Complete Detective V04 from verified private Library REV6, preserving FOUR final 0 marks, FINAL70 and print owner gates."
-checkpoint_reference: localization/pl-PL/production/gentle-steps/book-versions/v3/R6_PROOF_AND_LABEL_CHANGE_GATE_2026-10-19.md
+  - https://github.com/riseshineevolve-source/agency-agents/pull/38
+  - localization/pl-PL/production/detective-academy/versions/v04/V04_R8_EXACT_SOURCE_RECOVERY_AND_PRINT_HANDOFF_2026-10-19.md
+  - localization/pl-PL/production/detective-academy/versions/v04/V04_R8_RECOVERY_QA_2026-10-19.json
+next_safe_task: "Verify PR #37/38 CI when runners available. Preserve exact Detective V04 R8 Library source; Book Factory sole writer must render/inspect physical PL KDP proof from real approved map/photo/graphic assets, with owner freeze. Gentle product sole writer migrates ALREADY approved 2026-10-13 PL/EN headings/subtitle atomically after visual/CI pass. No new naming or broad rewriting."
+checkpoint_reference: localization/pl-PL/production/detective-academy/versions/v04/V04_R8_EXACT_SOURCE_RECOVERY_AND_PRINT_HANDOFF_2026-10-19.md
