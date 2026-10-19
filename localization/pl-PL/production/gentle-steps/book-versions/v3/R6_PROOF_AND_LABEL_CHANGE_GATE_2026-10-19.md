@@ -1,6 +1,6 @@
 # Gentle Steps PL R6: source lock, actual-template proof, and proposed labels
 Date: 2026-10-19
-Status: R6 LANGUAGE SOURCE VERIFIED; PRODUCTION TEMPLATE PROOF BLOCKED; NEW LABELS OWNER CANDIDATES
+Status: R6 LANGUAGE SOURCE VERIFIED; PRODUCTION TEMPLATE PROOF BLOCKED; SECTION LABELS & SUBTITLE OWNER-LOCKED, AWAITING ATOMIC PRODUCT MIGRATION
 Writer scope: Polish Localization Engine only. This document is NOT an app/website change.
 
 ## Exact source reconciliation
@@ -14,7 +14,7 @@ Writer scope: Polish Localization Engine only. This document is NOT an app/websi
 
 ## Owner candidate: recurring labels and English back-brief
 
-The previous conversation proposed these more everyday, family-voiced labels. Treat as **CANDIDATE, not an amendment to R6** until the owner locks the entire set.
+**CORRECTION 2026-10-19:** These are ALREADY OWNER-LOCKED, not candidates. The durable 2026-10-13 marketing master records them as `CURRENT MARKETING MASTER / OWNER-LOCKED PRODUCT STRINGS`, and the owner reaffirmed that lock in chat on 2026-10-19. They are queued for atomic implementation by the sole Gentle Steps writer after the ongoing visual/CI pass. R6 existing source is still immutable until the controlled migration.
 
 | Existing PL R6 | PL proposed | Existing EN | Proposed EN |
 |---|---|---|---|
@@ -25,9 +25,17 @@ The previous conversation proposed these more everyday, family-voiced labels. Tr
 PL book title remains **ŚWIĘTA SĄ TEŻ PO DRODZE**.
 Existing approved PL subtitle remains **Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.**
 
-EN subtitle proposed (NOT migrated): **A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.**
+EN subtitle OWNER-LOCKED (NOT migrated): **A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.**
 
-**Approval impact:** if labels are accepted, produce a new versioned PL source (do NOT patch R6 in place), replace all 72 section headings plus front-matter explanations and any legitimate mentions of the old system; update app content/notifications/UI and EN labels/subtitle through the respective product writer, preserving exact activity mechanics, NA JUTRO, safety/consent and character identities. Regenerate source hashes, source-to-app parity, relevant visual fits and localization tests. The current R6 proof cannot approve a future R7. If declined/deferred, continue R6 print proof unchanged.
+**Implementation impact:** the labels are already accepted. Produce a new versioned PL source (do NOT patch R6 in place), replace all 72 section headings plus front-matter explanations and any legitimate mentions of the old system; update app content/notifications/UI and EN labels/subtitle through the respective product writer, preserving exact activity mechanics, NA JUTRO, safety/consent and character identities. Regenerate source hashes, source-to-app parity, relevant visual fits and localization tests. The current R6 proof cannot approve a future R7. Until that atomic migration occurs, continue R6 print proof unchanged. Current proof remains tied to R6 and cannot certify any future revision.
+
+## English short headline: final localization wording
+
+PL owner-locked experience headline: **KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.**
+
+English final editorial solution chosen on 2026-10-19 at the owner's request to close the EN language gap: **A BOOK THAT FITS INTO YOUR DECEMBER.**
+
+This is a separate, concise headline/strapline, NOT a replacement for the owner-locked EN subtitle. The campaign's previous `MADE TO FIT REAL DECEMBER LIFE.` remains usable as secondary copy, not the primary 1:1 headline. New strapline approval is editorial completion delegated in the current owner instruction; actual commerce/cover placement still belongs to the product/website writers. Do not silently add the tagline to a cover without layout proof.
 
 ## Missing actual production evidence (blocker)
 
