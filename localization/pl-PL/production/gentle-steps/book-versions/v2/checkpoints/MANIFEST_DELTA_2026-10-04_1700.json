@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-04",
+  "state": "FINAL_SPRINT_D09_SAFE",
+  "working_master_blob_sha": "c1bc9fd573ef3efdd8c563a1cdfaa93aa6035702",
+  "latest_checkpoint_manifest": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/CHECKPOINT_2026-10-04_FINAL_SPRINT_1700.json",
+  "qa": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_FINAL_SPRINT_QA_2026-10-04_1700.md",
+  "latest_final_sprint_pass": {
+    "day9_reset_heading_refined": true
+  },
+  "note": "Canonical BOOK_VERSION_02_MANIFEST.json update was blocked by the connector safety layer in this run; this durable delta records the intended manifest advancement for the next bounded run."
+}

@@ -1,0 +1,12 @@
+{
+  "version": "02",
+  "status": "ACTIVE_DEVELOPMENT",
+  "upgraded_days": 23,
+  "inherited_from_v01_pending_final_pass": [21],
+  "written_sections": 69,
+  "expected_sections": 72,
+  "reader_facing_em_dash_count_in_v02_written_copy": 0,
+  "structure_check": "23 written days each contain ZWOLNIJ + GRAMY + MIĘDZY NAMI",
+  "version_01_frozen": true,
+  "publication_authorized": false
+}

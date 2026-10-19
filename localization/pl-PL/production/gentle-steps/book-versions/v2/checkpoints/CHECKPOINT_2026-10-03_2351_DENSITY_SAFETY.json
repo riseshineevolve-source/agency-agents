@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-03",
+  "status": "ACTIVE_DENSITY_SAFETY_SAFE_STATE",
+  "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
+  "working_master_blob_sha": "199eb4b8519876cc851174504a2d93e79f746ed7",
+  "checkpoint_copy_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_DENSITY_SAFETY_SAFE_STATE_2026-10-03.md",
+  "template_fit_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/V02_TEXT_DENSITY_TEMPLATE_FIT_CHECK_2026-10-03.md",
+  "source_commit_before_checkpoint_files": "ee8243f6914d57222db2c1512635cbbee124e441",
+  "structural_regression": {
+    "days": 24,
+    "zwolnij": 24,
+    "gramy": 24,
+    "miedzy_nami": 24,
+    "daily_sections": 72,
+    "duplicate_daily_titles": 0,
+    "duplicate_happy_makers_comments": 0,
+    "legacy_labels": 0,
+    "reader_facing_em_dash": 0
+  },
+  "density_watchlist_days": [
+    1,
+    21,
+    10,
+    18,
+    20,
+    9
+  ],
+  "changes": [
+    "day6_independent_tempo_reset",
+    "day6_compact_movement_rules",
+    "day7_compact_signal_chain",
+    "day9_compact_human_knot",
+    "day18_short_safe_route",
+    "day21_compact_touch_no_touch_routing"
+  ],
+  "owner_gates": [
+    "final_title",
+    "recurring_labels_if_reopened",
+    "real_template_fit",
+    "optional_family_timing_playtest",
+    "publication_freeze_authorization"
+  ],
+  "central_priorities_mutated": false,
+  "frozen_book_v1_touched": false,
+  "regression_followup": "restored required Day 6 explicit no-step sentence after exact-head CI caught the lock"
+}

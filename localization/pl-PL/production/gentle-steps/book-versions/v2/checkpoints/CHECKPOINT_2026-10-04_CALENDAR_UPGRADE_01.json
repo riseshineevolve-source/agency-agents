@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-04",
+  "status": "V2_CALENDAR_UPGRADE_SAFE_STATE",
+  "branch": "codex/polish-engine-main-reconcile",
+  "master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
+  "master_blob_sha": "3484986daf0c9cc608be7a981727610f3391af3f",
+  "safe_state_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_CALENDAR_UPGRADE_SAFE_STATE_2026-10-04.md",
+  "structure": {
+    "days": 24,
+    "slow": 24,
+    "play": 24,
+    "between": 24,
+    "emdash": 0
+  },
+  "changes": [
+    "Day 12 age-fit register raised: film/book/game/series rather than child-coded fairy-tale framing.",
+    "Day 17 school/task wording removed from movement game and Happy Makers punchline upgraded.",
+    "Day 22 Między nami rebuilt from workshop-like month reflection to a concrete family discovery prompt.",
+    "Day 23 KULA ŚNIEŻNA mindfulness-style visualization replaced with practical real-December TO MOŻE POCZEKAĆ DO JUTRA reset.",
+    "Day 23 apology framing made explicitly non-compulsory before any disclosure."
+  ],
+  "preserved": [
+    "Frozen Book Version 1",
+    "24x3 daily architecture",
+    "consent/safety language",
+    "Detective PL pre-freeze gate",
+    "owner-gated title and recurring labels"
+  ]
+}

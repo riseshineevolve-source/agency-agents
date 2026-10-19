@@ -1,0 +1,28 @@
+{
+  "format": "rse-voice-calibration-gate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_01_03_v2_native_usage",
+  "candidate_sha256": "3c6e2c481f790747a4b4932b4d198ab09d2637c971ba69bba442a8d9d0070f84",
+  "status": "READY_FOR_WEEK1_OWNER_REVIEW",
+  "surface_qa": "DEFERRED_UNTIL_OWNER_VOICE_APPROVAL",
+  "scaleout_days_04_24": false,
+  "owner_questions": [
+    "Does V2 now sound structurally and phraseologically native in Polish, not merely less translated?",
+    "Approve or revise recurring labels: RESET / AKCJA / U NAS.",
+    "Do the Happy Makers comments now sound grounded in Polish family/school reality rather than translated punchlines?",
+    "Is the humor teen-safe and non-cringe without trying to imitate youth slang?"
+  ],
+  "deliberate_safety_adaptations": [
+    "Day 1 and Day 3 physical contact is explicitly optional.",
+    "Day 2 paced breathing is non-forcing and allows ordinary breathing."
+  ],
+  "register_policy": "natural_book_polish_not_chatty",
+  "instruction_detail_policy": "source_mechanics_complete",
+  "breath_reset_policy": "concrete_everyday_non_mindfulness",
+  "recurring_label_candidates": {
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI"
+  },
+  "punctuation_house_style": "no_em_dash_in_reader_facing_polish"
+}

@@ -1,0 +1,18 @@
+{
+  "format": "rse-bounded-scaleout-gate-v1",
+  "product": "gentle-steps-christmas",
+  "scope": "days_15_21_week3",
+  "candidate_sha256": "bc5c1973f6f13c23061df60610d5fe6885af4ab3b862f8dd90f791bab73be0e6",
+  "status": "READY_FOR_DAYS22_24",
+  "next_batch_days22_24_authorized": true,
+  "publication_authorized": false,
+  "recurring_labels_locked": false,
+  "title_locked": false,
+  "surface_qa": "DEFERRED_FULL_BOOK_OWNER_GATE",
+  "recurring_label_candidates": {
+    "pause": "ZWOLNIJ",
+    "play": "GRAMY",
+    "connection": "MIĘDZY NAMI"
+  },
+  "punctuation_house_style": "no_em_dash_in_reader_facing_polish"
+}

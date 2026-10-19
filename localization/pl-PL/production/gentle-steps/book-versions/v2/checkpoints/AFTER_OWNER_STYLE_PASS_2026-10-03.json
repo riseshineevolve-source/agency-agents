@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-03",
+  "status": "DURABLE_CHECKPOINT_AFTER_OWNER_STYLE_PASS",
+  "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
+  "working_master_blob_sha": "17199d28888901353cbc82224ecabc3c1bf56e2d",
+  "snapshot_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/checkpoints/GENTLE_STEPS_PL_BOOK_V02_AFTER_OWNER_STYLE_PASS_2026-10-03.md",
+  "next_work": "full multi-agent QA for language logic repetition humor game quality emotional arc and 10-minute feasibility",
+  "version_01_preserved": true,
+  "publication_authorized": false
+}

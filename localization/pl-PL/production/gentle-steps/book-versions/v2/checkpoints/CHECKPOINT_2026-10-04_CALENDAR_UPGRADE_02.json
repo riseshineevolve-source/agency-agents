@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-04",
+  "status": "V2_CALENDAR_ARC_UPGRADE_SAFE_STATE",
+  "branch": "codex/polish-engine-main-reconcile",
+  "master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
+  "master_blob_sha": "a4485f28d5df51fa8c3e2832ee21fd8ed1bb8e90",
+  "frozen_v1_blob_sha": "46542df9e3e44f235f112edb2d381d5511c7abca",
+  "structure": {
+    "days": 24,
+    "slow": 24,
+    "play": 24,
+    "between": 24,
+    "duplicate_titles": 0,
+    "reader_facing_em_dash": 0
+  },
+  "changes": [
+    "Day 4: abstract color-of-day prompt replaced with a concrete unexpected-event story prompt.",
+    "Day 13: generic cannot-buy sentiment replaced with a real-December family identity prompt about what this family does its own way.",
+    "Day 17: repetitive movement-following game replaced with question-only improv for verbal comedy and format variety.",
+    "Day 17: generic energy reflection replaced with one concrete recent example of family cooperation."
+  ],
+  "owner_gates_unchanged": [
+    "title",
+    "recurring section labels",
+    "publication/freeze",
+    "real template/physical proof",
+    "Detective EN freeze before Detective PL"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "format": "rse-gentle-steps-pl-v02-production-template-fit-request-v1",
+  "date": "2026-10-07",
+  "status": "PREPARED_BODY_FIT_REQUEST_OWNER_GATED",
+  "source_of_truth": {
+    "repository": "riseshineevolve-source/agency-agents",
+    "branch": "codex/polish-engine-main-reconcile",
+    "branch_head_before_request": "4e3d297906548f47dd99fabcdcf2c6b8af104080",
+    "candidate_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_OWNER_READ_CANDIDATE_2026-10-04.md",
+    "candidate_blob_sha": "711543f74f50cb5f3c04665fd3656165de629e4f",
+    "working_master_path": "localization/pl-PL/production/gentle-steps/book-versions/v2/GENTLE_STEPS_PL_BOOK_VERSION_02_WORKING.md",
+    "working_master_blob_sha": "c1bc9fd573ef3efdd8c563a1cdfaa93aa6035702",
+    "candidate_vs_working": "ONE_LINE_D01_ZWOLNIJ_ONLY"
+  },
+  "structure": {
+    "days": 24,
+    "zwolnij": 24,
+    "gramy": 24,
+    "miedzy_nami": 24,
+    "legacy_reset": 0,
+    "legacy_akcja": 0,
+    "legacy_u_nas": 0
+  },
+  "approximate_density_watchlist": [
+    {
+      "day": 1,
+      "words": 360
+    },
+    {
+      "day": 21,
+      "words": 341
+    },
+    {
+      "day": 10,
+      "words": 322
+    },
+    {
+      "day": 18,
+      "words": 320
+    },
+    {
+      "day": 23,
+      "words": 319
+    },
+    {
+      "day": 22,
+      "words": 313
+    },
+    {
+      "day": 20,
+      "words": 310
+    },
+    {
+      "day": 9,
+      "words": 306
+    }
+  ],
+  "required_render_sample_days": [
+    1,
+    9,
+    10,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "render_checks": [
+    "no glyph clipping",
+    "no heading/body/comment collision",
+    "Polish diacritics correct at print size",
+    "body font size and leading not reduced to force fit",
+    "safety/consent/mechanics text remains complete",
+    "Happy Makers comments remain readable and visually distinct",
+    "longest daily pages remain comfortable at final trim size",
+    "page-breaks do not split critical game instructions or safety clauses"
+  ],
+  "approval_scope": "BODY_GEOMETRY_REQUEST_ONLY",
+  "excluded_from_approval": [
+    "final Polish title",
+    "formal recurring-label lock",
+    "front matter/subtitle packaging",
+    "final visual design",
+    "publication authorization",
+    "CONTENT_FROZEN",
+    "PRINT_READY"
+  ],
+  "production_pass_requires": [
+    "owner resolves title/brand-voice gates recorded in durable GitHub state",
+    "exact final source text is bound to the production fit spec",
+    "real editable/rendering template renders the exact source",
+    "print-scale visual proof is inspected",
+    "final Polish editorial/safety proof passes"
+  ],
+  "note": "This request packages the next production-fit slice without changing completed language copy. It cannot produce a production PASS by itself."
+}

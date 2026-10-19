@@ -1,0 +1,105 @@
+{
+  "format": "rse-gentle-steps-pl-v03-r5-final-editorial-safety-proof-contract-v1",
+  "date": "2026-10-07",
+  "status": "READY_TO_EXECUTE_AFTER_EXACT_TEMPLATE_FIT_EVIDENCE",
+  "lane": "polish_localization",
+  "source_lock": {
+    "repository": "riseshineevolve-source/agency-agents",
+    "branch": "codex/polish-engine-main-reconcile",
+    "r4_content_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_OWNER_READ_CANDIDATE_R4_2026-10-05.md",
+    "r4_blob_sha": "6a0fbafa1b0fdc1f102c456cd45301d4eef275c2",
+    "r5_packaging_path": "localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R5_2026-10-07.md",
+    "r5_blob_sha": "04b4afcc438789d648ed34fa594f86ee97b02472",
+    "body_lock_boundary": "## DZIEŃ 1",
+    "r4_r5_body_exact_equal": true,
+    "body_character_count": 59207
+  },
+  "precondition": {
+    "required": "exact_r5_real_final_template_render",
+    "must_bind_to_r5_blob_sha": "04b4afcc438789d648ed34fa594f86ee97b02472",
+    "proxy_or_retyped_copy_allowed": false,
+    "typography_shrink_to_force_fit_allowed": false
+  },
+  "review_roles": [
+    "Polish Natural Language Editor",
+    "Polish Book Register Editor",
+    "Activity Instruction Completeness Reviewer",
+    "Localization Meaning Guardian",
+    "Polish Proofreader"
+  ],
+  "deterministic_checks": {
+    "structure": {
+      "days": 24,
+      "zwolnij": 24,
+      "gramy": 24,
+      "miedzy_nami": 24,
+      "na_jutro": 24,
+      "start_blocks": 24,
+      "two_person_blocks": 24
+    },
+    "forbidden_regressions": [
+      "legacy RESET / AKCJA / U NAS labels",
+      "reader-facing em dash",
+      "missing two-person routing",
+      "missing START block",
+      "missing NA JUTRO block",
+      "duplicate daily section titles",
+      "truncated safety or consent clause",
+      "mandatory apology round",
+      "touch-only participation where a no-touch route is required"
+    ]
+  },
+  "print_scale_review_scope": {
+    "front_matter": [
+      "series/title/subtitle hierarchy",
+      "Meet the Happy Makers bios",
+      "how the book works / recurring-label explanation"
+    ],
+    "density_watch_days": [24,18,9,1,23,7,21,22,10],
+    "required_checks": [
+      "Polish diacritics render correctly",
+      "no glyph clipping",
+      "no text collision or overflow",
+      "no orphaned recurring label",
+      "no split that separates a safety clause from the activity it governs",
+      "START / W DWIE OSOBY / NA JUTRO remain visibly distinct",
+      "Happy Makers comments remain readable and visually subordinate to instructions",
+      "body type remains comfortably readable at final trim size"
+    ]
+  },
+  "editorial_safety_review": [
+    "instructions are executable without guessing missing steps",
+    "age register remains natural for family use and not babyish",
+    "no coaching/therapy framing drift",
+    "consent language remains optional and non-coercive",
+    "touch activities preserve a genuine no-touch alternative where required",
+    "movement activities do not reward unsafe speed",
+    "pair/group variants remain logically workable for stated group sizes",
+    "humor does not undermine safety, consent, or family dignity",
+    "no new factual, medical, psychological, or therapeutic claim is introduced by layout copy"
+  ],
+  "evidence_required_for_pass": [
+    "exact rendered file or deterministic render artifact identity",
+    "source hash binding to R5 blob",
+    "print-scale screenshots or page renders for all required surfaces",
+    "completed deterministic localization regression",
+    "review disposition for every flagged page: PASS or bounded FIX",
+    "confirmation that any FIX is packaging/layout-only unless owner explicitly reopens body copy"
+  ],
+  "pass_rule": "PASS only when exact-source-bound template-fit evidence is green and all editorial/safety checks are PASS with zero unresolved BLOCK or FIX.",
+  "on_failure": {
+    "layout_or_typography_issue": "return bounded fix request to gentle_steps lane; do not rewrite body copy",
+    "copy_or_safety_issue": "open a minimal localization-owned surgical edit with exact segment allowlist and rerun all guards",
+    "source_mismatch": "BLOCK immediately and reject evidence"
+  },
+  "owner_gate_after_pass": [
+    "owner visual approval",
+    "explicit CONTENT_FROZEN authorization"
+  ],
+  "not_authorized_by_this_contract": [
+    "CONTENT_FROZEN",
+    "PRINT_READY",
+    "KDP publication",
+    "release authorization"
+  ]
+}
