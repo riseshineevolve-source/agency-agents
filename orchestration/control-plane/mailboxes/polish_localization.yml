@@ -36,6 +36,12 @@ milestone:
     new_full_production: NOT_STARTED_IN_THIS_SLICE
     later_en_revisions: DO_NOT_AUTO_REPLACE_V10_AUTHORITY
     newest_70_codenames: PRESERVE_PREVIOUS_OWNER_LOCKS_NO_NEW_ALIASES
+    verified_final70_branch: codex/detective-pl-v04-natural-polish-20261015
+    verified_final70_head: f95f713bd8fd2d19ad08c58f22ca639217616aa6
+    final70_assignment: localization/pl-PL/production/detective-academy/versions/v02/V02_FINAL70_ASSIGNMENT.md
+    final70_owner_decision: localization/pl-PL/production/detective-academy/versions/v02/OWNER_DECISION_2026-10-13_NEW30_FINAL_LOCK_PLUS_ZANTA_RESERVE.md
+    final70_qa: PASS_FINAL70_TEXT_IDENTITY_REBIND__PHYSICAL_MAP_PROOF_NOT_DONE
+    final70_identity_counts: "40 prior frozen + NEW30; ZYRA assigned once; ZANTA reserve unused; 38 peripheral spatial witnesses keep source names"
 blocker:
   - "Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer evidence not available."
   - "Authorized Desktop Commander device offline as checked 2026-10-19; no physical print or device proof."
