@@ -1,0 +1,66 @@
+{
+  "schema": "rse-detective-pl-v04-r8-recovery-proof-v1",
+  "observed_at": "2026-10-19",
+  "library_root": "/RSE/Detective Academy/PL Versions/V04",
+  "source_revision": "R8",
+  "source_modified_at_utc": "2026-10-15T18:26:27Z",
+  "status": "SOURCE_HASHES_AND_STRUCTURE_PASS__PHYSICAL_PRINT_GATE_OPEN",
+  "main_source_sha256": {
+    "reader": "d547b13c953346b35b8b7910fd94a4819ba680319deede73e5bfdfe41ae148a3",
+    "master": "4fdc20d499edb430af322315bdaa21f4502fbe9cbb62ac0c8fab01cc82deefa7",
+    "hints": "a260d3be8f6589b2ee4dc94284164a4694843768ab7ada6e772df4df8c9082e3",
+    "solutions": "b50a54f696e4076344b7ec672378977710d21b148b63b1b0b9aaf7968d9adba3",
+    "reader_owner_text_pdf": "f6020ebd9485f0ce4b74e9642aedb9f4342a7a132b662c8ee7df4ede73e9658f",
+    "master_owner_text_pdf": "7a04e74b73a8f17cdb99d71ad62df16d211e5fa091072bc1712950dd0749e7c7",
+    "historical_qa": "fd67b04cb5643c1ddc24a34f94356ca8ff6fcb38c53f414ee8b290d6a6591326"
+  },
+  "independent": {
+    "primary_sha256_verified": {
+      "passed": 7,
+      "total": 7
+    },
+    "reader_case_count": 30,
+    "hints_case_count": 30,
+    "hint_levels": 90,
+    "solutions_case_count": 30,
+    "exact_reader_hints_solutions_contained_in_master": true,
+    "banned_druzyn_root_count": 0,
+    "zanta_reserve_occurrences": 0,
+    "historical_tests_pass": 59,
+    "historical_tests_total": 59
+  },
+  "pdf_review": {
+    "reader_pages": 59,
+    "master_pages": 80,
+    "all_pdf_pages_us_letter": true,
+    "embedded_illustration_image_objects": 0,
+    "master_footer_only_pages": [
+      80
+    ],
+    "reader_footer_only_pages": [],
+    "purpose": "owner_text_proof_not_designed_kdp"
+  },
+  "new_documentation_warnings": [
+    "historical R8 manifest self SHA does not match its fetched bytes",
+    "historical R8 owner handoff SHA listed in manifest does not match fetched bytes"
+  ],
+  "physical_gates_unverified": [
+    "Case03 photo A/B and 10 differences",
+    "Case12 ELIPSA G2 source map",
+    "Case21 B-D-A-C fragments",
+    "Case26 14 ROOM map system",
+    "Case27 overlay",
+    "human family read aloud",
+    "full Book Factory print/layout/physical proof"
+  ],
+  "print_ready": false,
+  "content_frozen": false,
+  "publication_authorized": false,
+  "immutable_truth": {
+    "final_zero_marks": 4,
+    "case05_symbols": 6,
+    "owner_locked_codenames": 70,
+    "zanta_reserve_only": true
+  },
+  "source_checkpoint_path": "localization/pl-PL/production/detective-academy/versions/v04/V04_R8_EXACT_SOURCE_RECOVERY_AND_PRINT_HANDOFF_2026-10-19.md"
+}
