@@ -14,6 +14,10 @@ Read in order:
 7. `orchestration/detective/DETECTIVE_ACADEMY_BOOK1_TEXT_GOLD_MASTER_V3.md`
 8. newest Detective owner locks/checkpoints.
 
+## Editorial content gate
+
+For a new book or edition, do not begin page production from a draft. If content is not already owner-approved and hash-locked as `FROZEN_CONTENT`, first use `orchestration/bootstrap/PREMIUM_BOOK_CONTENT_UPGRADE_BOOTSTRAP.md` and require its `CONTENT_FREEZE_MANIFEST` before rendering.
+
 ## Mission
 
 Create a new dedicated repository:

@@ -25,7 +25,7 @@ inside this system, not the art director and not the source of product truth.
 
 Architecture:
 
-`CANONICAL SOURCE -> BOOK MAP -> LOCK GRAPH -> ASSET SLOTS -> DETERMINISTIC PAGE BUILD -> PAGE CACHE -> PDF ASSEMBLY -> QA -> EXCEPTION-ONLY OWNER REVIEW -> RELEASE`
+`NEW-CHAT INTAKE -> ROUTE A/B -> SOURCE CONVERGENCE -> PREMIUM CONTENT UPGRADE -> FROZEN_CONTENT -> BOOK MAP -> LOCK GRAPH -> ASSET SLOTS -> DETERMINISTIC PAGE BUILD -> PAGE CACHE -> PDF ASSEMBLY -> QA -> PRINT_READY -> OWNER RELEASE AUTHORIZATION`
 
 The same inputs must always produce the same page outputs.
 
@@ -49,6 +49,46 @@ The remaining failure is control-plane architecture:
 - a one-item change could trigger broad re-render/review anxiety.
 
 v3 changes these rules without discarding the engine.
+
+## 2A. Mandatory premium-content gate before Book Map
+
+If a manuscript is not already explicitly owner-approved and hash-locked as FROZEN_CONTENT, it MUST start from:
+
+`orchestration/bootstrap/PREMIUM_BOOK_CONTENT_UPGRADE_BOOTSTRAP.md`
+
+and then pass:
+
+`orchestration/architecture/RSE_PREMIUM_BOOK_CONTENT_UPGRADE_PROTOCOL_V1.md`
+
+before Book Map generation.
+
+That protocol owns the editorial stage:
+
+`INITIAL MANUSCRIPT -> SOURCE SNAPSHOT -> CONTENT MAP -> MULTI-AGENT DIAGNOSTIC -> BOUNDED SURGICAL EDITS -> REGRESSION QA -> OWNER-READ CANDIDATE -> REAL-SURFACE FIT -> CONTENT_FREEZE_MANIFEST -> FROZEN_CONTENT`
+
+Permanent rules:
+- stable segment IDs are the unit of editorial change;
+- KEEP beats rewrite when copy is already excellent;
+- many agents may review, but only one controlled writer applies a bounded patch;
+- every edit starts from a durable base snapshot and explicit allowlist;
+- changes outside the declared scope fail closed;
+- mechanics, facts, safety, consent and approved voice are protected;
+- full-book rereads occur at milestone gates, not after every local patch;
+- layout/rendering may never rewrite frozen copy;
+- the Book Map consumes exact frozen content hashes, not chat memory or an informal "latest version".
+
+Required editorial handoff into Book Agent v3:
+- selected route (same-language upgrade or cross-language native re-authoring);
+- target-language/style profile;
+- premium content master path + hash;
+- CONTENT_MAP hash;
+- GOLDEN_KEEP/source-convergence evidence when applicable;
+- CONTENT_FREEZE_MANIFEST;
+- unresolved approved exceptions;
+- owner-gated decisions;
+- QA receipts.
+
+If these are absent, the content is not frozen and production must treat it as an upstream gate rather than silently rewriting it.
 
 ## 3. Core operating law
 
