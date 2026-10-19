@@ -1,12 +1,60 @@
 lane: polish_localization
 title: "Polish Localization Engine"
-updated: 2026-10-07
-status: BOOTSTRAP_READY__LANE_WRITER_MUST_REFRESH
-branch_or_repo_state: VERIFY_LIVE_ON_OPEN
-milestone: control_plane_v1_registered
-blocker: null
-owner_gate: null
-dependencies_needed: []
-reusable_outputs: []
-next_safe_task: read_registry_bootstrap_project_checkpoint_and_continue
-checkpoint_reference: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+updated: 2026-10-19
+status: GENTLE_R6_PARITY_VERIFIED__PRINT_PROOF_BLOCKED__LOCALIZATION_PR_OPEN__DETECTIVE_LATEST_EN_FREEZE_GATE
+branch_or_repo_state:
+  repository: riseshineevolve-source/agency-agents
+  engine_base_branch: codex/polish-engine-main-reconcile
+  engine_base_head: 8ecd3b93c50d34eb17e3080c8f736f4a8b41becf
+  isolated_proof_branch: codex/polish-engine-r6-proof-20261019
+  proof_head: f48bb98b97bc41723bcd5ffce3df4ea4d5600a2b
+  proof_pr: https://github.com/riseshineevolve-source/agency-agents/pull/37
+  main_observed_head: b0f08175ddb23adc6e98daff6f7ac8ba1ba4fffe
+  branch_relation: DIVERGED__NO_BLIND_MERGE
+milestone:
+  gentle_steps_pl:
+    source: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md
+    r6_git_blob: 896cf92bf6ed126ef62e623fd9cac640270e853f
+    app_consumer: riseshineevolve-source/RISE.SHINE.EVOLVE/gentle-steps-app/content/pl/source
+    app_observed_branch_head: 308201f2da4d3f3083ebc6643d272b0503dc8421
+    r6_app_source_exact_equal: true
+    r5_r6_day01_to_end_exact_equal: true
+    days: 24
+    main_daily_sections: 72
+    na_jutro: 24
+    existing_r6_copy: PROTECTED__NO_REWRITE
+  template_fit:
+    r6_contract: localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R6_FINAL_TEMPLATE_PROOF_CONTRACT_2026-10-08.json
+    new_validator: scripts/gentle-steps-r6-proof.py
+    regression_tests: scripts/test-localization-gentle-steps-r6-fit.py
+    regression_ci: NOT_YET_CONFIRMED_AT_EXACT_PR_HEAD
+    real_final_template_pdf: MISSING_NOT_VERIFIED
+    twelve_print_scale_pngs: MISSING_NOT_VERIFIED
+    print_editorial_safety_proof: BLOCK
+  detective_pl:
+    existing_source_freeze: "2026-10-08 V10 EN freeze for explicitly named PL source retained as historical scoped receipt"
+    new_full_production: NOT_STARTED_IN_THIS_SLICE
+    later_en_revisions: DO_NOT_AUTO_REPLACE_V10_AUTHORITY
+    newest_70_codenames: PRESERVE_PREVIOUS_OWNER_LOCKS_NO_NEW_ALIASES
+blocker:
+  - "Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer evidence not available."
+  - "Authorized Desktop Commander device offline as checked 2026-10-19; no physical print or device proof."
+  - "PR #37 exact-head green CI not verified; do not promote as proven PASS or merge blindly."
+owner_gate:
+  - "Proposed new PL daily names ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY, parallel EN names and subtitle remain candidates, not approved R6 mutations."
+  - "Final Gentle PL print-scale visual/editorial/safety approval and release freeze remain owner-controlled."
+  - "Before moving Detective PL onto the latest evolving EN production master, obtain explicit current source authority and freeze; do not equate historical V10 scoped freeze with later EN editions."
+dependencies_needed:
+  - lane: gentle_steps
+    need: "Producer to supply actual R6 final-template PDF, editable final template snapshot and 12 distinct PNG views with hash-bound source and reviewer evidence. Do not rewrite Polish content on app branch."
+  - lane: central_control_tower
+    need: "Coordinate any owner decision changing PL/EN three recurring section labels and EN subtitle across Gentle Steps product, localization and website owners atomically; do not auto-change approved copy."
+  - lane: detective_book_factory
+    need: "Report explicit freeze and exact source/hash for current latest Detective EN production when owner actually authorizes newest PL edition; preserve historical V10 source and locked 70 codenames."
+reusable_outputs:
+  - https://github.com/riseshineevolve-source/agency-agents/pull/37
+  - scripts/gentle-steps-r6-proof.py
+  - scripts/test-localization-gentle-steps-r6-fit.py
+  - localization/pl-PL/production/gentle-steps/book-versions/v3/R6_PROOF_AND_LABEL_CHANGE_GATE_2026-10-19.md
+next_safe_task: "Verify PR #37 exact-head CI, then integrate isolated proof only to localization engine branch if checks actually pass; after real template arrives run R6 evidence verification and editorial/safety human proof. Preserve R6 text and keep latest Detective full production gated."
+checkpoint_reference: localization/pl-PL/production/gentle-steps/book-versions/v3/R6_PROOF_AND_LABEL_CHANGE_GATE_2026-10-19.md
