@@ -85,9 +85,11 @@ def check_r6_fit_evidence(contract: object, evidence: object, evidence_root: Pat
     lock = _is_object(contract.get("source_lock"), issues, "contract.source_lock")
     if (lock.get("r6_packaging_path"), lock.get("r6_blob_sha")) != (SOURCE, R6_BLOB):
         issues.append("R6 proof contract differs from the canonical source lock")
-    if tuple(contract.get("required_surface_ids", [])) != REQUIRED_SURFACE_IDS:
+    contract_ids = contract.get("required_surface_ids")
+    if not isinstance(contract_ids, list) or tuple(contract_ids) != REQUIRED_SURFACE_IDS:
         issues.append("R6 proof contract surface set changed")
-    if tuple(contract.get("required_surface_review_flags", [])) != REVIEW_FLAGS:
+    contract_flags = contract.get("required_surface_review_flags")
+    if not isinstance(contract_flags, list) or tuple(contract_flags) != REVIEW_FLAGS:
         issues.append("R6 proof contract review flags changed")
     source = _canonical_source(issues, repo)
     if evidence.get("format") != FORMAT:
@@ -140,6 +142,9 @@ def check_r6_fit_evidence(contract: object, evidence: object, evidence_root: Pat
     for item in surfaces:
         surface = _is_object(item, issues, "surface")
         sid = surface.get("id")
+        if not isinstance(sid, str):
+            issues.append("invalid surface ID")
+            sid = None
         ids.append(sid)
         render = _is_object(surface.get("render"), issues, f"{sid}.render")
         review = _is_object(surface.get("review"), issues, f"{sid}.review")
