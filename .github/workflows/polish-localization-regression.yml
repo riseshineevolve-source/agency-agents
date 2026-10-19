@@ -64,6 +64,9 @@ jobs:
       - name: Test Gentle Steps PL R5 exact-source fit evidence guards
         run: python scripts/test-localization-gentle-steps-r5-fit.py
 
+      - name: Test Gentle Steps PL R6 exact-source proof intake
+        run: python scripts/test-localization-gentle-steps-r6-fit.py
+
       - name: Validate all authorized fixtures and generate QA packages
         run: python scripts/test-localization-fixtures.py
 
