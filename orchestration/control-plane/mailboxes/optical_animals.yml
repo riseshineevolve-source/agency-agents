@@ -1,12 +1,16 @@
 lane: optical_animals
 title: "Optical Animals"
-updated: 2026-10-07
-status: BOOTSTRAP_READY__LANE_WRITER_MUST_REFRESH
-branch_or_repo_state: VERIFY_LIVE_ON_OPEN
-milestone: control_plane_v1_registered
+updated: 2026-10-20
+status: FINAL_COLORING_ONLY_V4__INTRO_V7_OWNER_VISUAL_REVIEW
+branch_or_repo_state: "Local optical-night-production-20261009 @ 504a3d2; approved art and other uncommitted work preserved. Owner-attached V4 48-page PDF is current sole coloring-book edition source."
+milestone: "Explicit owner override: final attached 48-page V4 coloring book; NO seek-and-find. Owner requested ONLY introduction refinement, retaining five distinct intro pages. Bounded V7 proof changes only blank intro page 3. Pages 1-2, 4-48 unchanged."
 blocker: null
-owner_gate: null
+owner_gate: "Owner acceptance or targeted refinement of page 3, then final print preflight and explicit KDP publication approval."
 dependencies_needed: []
-reusable_outputs: []
-next_safe_task: read_registry_bootstrap_project_checkpoint_and_continue
-checkpoint_reference: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+reusable_outputs:
+  - "Owner canonical V4 SHA256: 2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13"
+  - "Chat V7 48p owner-review proof SHA256: 6a32408db50f38806f3c88d188a5e7ab0b5894d5b5f8531a908767c82f7359c6"
+  - "V7 first-five preview and five-page contact sheet available in current owner chat."
+  - "Deterministic QA: 47/47 original pages pixel-identical, 47 original content streams and 26 original image objects unchanged."
+next_safe_task: "After owner visual review, refine page 3 only if needed; no old RUN44/RUN49 seek-and-find, no final hero changes or volume rebuild; after acceptance verify print and seek release permission."
+checkpoint_reference: "Local tools/optical-book-creator/checkpoints/2026-10-20-owner-canonical-v4-coloring-only-intro-five.md"
