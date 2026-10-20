@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "date": "2026-10-20",
+  "lane": "central_control_tower",
+  "scope": "read_only_product_audit_central_checkpoint",
+  "product_changes": false,
+  "current_pdf": {
+    "name": "DETECTIVE_EN_SOURCE_VERIFIED_MAPS_OWNER_REVIEW(1).pdf",
+    "library_file_id": "libfile_a428c5479f64819196c924ee364145ba",
+    "pages": 225,
+    "media_box_pt": [
+      612,
+      792
+    ],
+    "bytes": 167992740,
+    "sha256": "53c4c92bfff44bf38f30c014d746ce9b1ade472e7e78745d1e414e38c24d26fb",
+    "independently_rehashed": true
+  },
+  "art_zip": {
+    "name": "dla codexa finalne grafiki (4).zip",
+    "library_file_id": "libfile_23f270153b048191a5322ed8925d2d5b",
+    "bytes": 180156435,
+    "sha256": "daf0e1e82e4980ab0b73688f713d1602efb01cae93c3d8cfcc9a4b79658f4ba1",
+    "png_count": 108,
+    "reference_pdf_count": 1,
+    "shortcut_count": 1,
+    "originals_modified": false
+  },
+  "current_code": {
+    "name": "RSE_BOOK_FACTORY_CASE01_SOURCE_MAP_AXES_FIXED_20261020.zip",
+    "library_file_id": "libfile_b3aca2a26730819197eb50eef8eb0665",
+    "library_path": "/RSE/Book Factory/Case01 Source-Verified Maps 2026-10-20/RSE_BOOK_FACTORY_CASE01_SOURCE_MAP_AXES_FIXED_20261020.zip",
+    "bytes": 7000912,
+    "sha256_reported_by_producing_lane": "7a509d15ae781c00523126fcee998e7d85a055de1390531b7c061931de6434d8",
+    "code_bytes_inspected": false,
+    "reason": "prescribed current Library download helper returned HTTP403 for hosted tools/list; no alternate unauthorized transfer attempted",
+    "github_commit_for_code": "NOT_ESTABLISHED"
+  },
+  "verified_product_branch": {
+    "branch": "feature/rse-book-factory-v2",
+    "head": "c8046bf7dc435617e296936398c172a0a3ceb0f7",
+    "checkpoint_stale_for_attached_pdf": true
+  },
+  "report": {
+    "name": "RSE_BOOK_FACTORY_AUDYT_2026-10-20.pdf",
+    "library_file_id": "libfile_b53c2daeffc8819199a3c8ae4807357d",
+    "path": "/AI AGENTS/RSE_BOOK_FACTORY_AUDYT_2026-10-20.pdf",
+    "kind": "diagnostic_not_new_book"
+  },
+  "evidence": {
+    "all_225_contact_thumbnails_inspected": true,
+    "selected_folios_at_larger_scale": true,
+    "current_ui_e2e_test": false,
+    "current_full_rebuild": false,
+    "old_synthetic_ci_not_promoted": true
+  },
+  "exceptions": [
+    {
+      "id": "OPENING_SQUAD_COLLISION",
+      "folios": [
+        7,
+        8
+      ],
+      "status": "VISUALLY_CONFIRMED",
+      "fix": "repair existing template decoration and portrait exclusion regions; preserve original owner artwork"
+    },
+    {
+      "id": "STALE_SQUAD_PORTRAITS",
+      "folios": [
+        8
+      ],
+      "status": "VISUALLY_CONFIRMED",
+      "source_assets": [
+        "Nini squad.png",
+        "Alio squad.png",
+        "Grandma Bibi squad.png"
+      ],
+      "fix": "explicit role-locked squad slots, not chat or older mug/bow variants"
+    },
+    {
+      "id": "ANISOTROPIC_AVATARS",
+      "folios": [
+        19
+      ],
+      "status": "MEASURED",
+      "input_px": [
+        400,
+        400
+      ],
+      "drawn_pt": [
+        66.67,
+        73.44
+      ],
+      "fix": "aspect-preserving image transform; inspect all family consumers"
+    },
+    {
+      "id": "WITNESS_ROW_PATCHES",
+      "folios": [
+        20
+      ],
+      "status": "VISUALLY_CONFIRMED",
+      "fix": "same font and coherent row/text/badge geometry including two-line variant; no white panels across border"
+    },
+    {
+      "id": "NOTES_CONTRACT",
+      "folios": [
+        20
+      ],
+      "status": "NEEDS_LAYOUT_REPAIR",
+      "fix": "adequate unruled writable Notes on witness family; do not repeat historical nearly-empty-notes metric as current"
+    },
+    {
+      "id": "EVIDENCE_DOUBLE_WRAPPER",
+      "folios": [
+        47
+      ],
+      "status": "VISUALLY_CONFIRMED",
+      "source_asset": "84df62f6-77dc-4627-8c0c-b2ad3033215a.png",
+      "fix": "semantic family binding to owner Case08 design; avoid cropped inner title/duplicate generic wrapper"
+    },
+    {
+      "id": "SOLUTION_LEGEND_SMALL",
+      "folios": [
+        180,
+        182,
+        186,
+        189,
+        191,
+        195,
+        198,
+        200,
+        203,
+        206,
+        209,
+        211,
+        214,
+        216,
+        219,
+        224
+      ],
+      "status": "MEASURED",
+      "font_pt": 6.9,
+      "fix": "one shared readable Map Key including solution variant; preserve current source-verified puzzle-map axes"
+    },
+    {
+      "id": "SUPPORT_FAMILY_DRIFT",
+      "folios": [
+        33,
+        34,
+        35,
+        80,
+        81,
+        180,
+        225
+      ],
+      "status": "VISUAL_FAMILY_RECONCILIATION_REQUIRED",
+      "fix": "owner-reference-based evidence/bridge/hint/solution families; exact content retained"
+    },
+    {
+      "id": "CURRENT_CODE_NOT_CANONICAL",
+      "status": "SOURCE_SYNC_REQUIRED",
+      "fix": "existing sole product writer commits current source-only engine and explicit recipe/provenance before claiming repeatable working tool"
+    }
+  ],
+  "preserve": {
+    "map_folios": [
+      21,
+      29,
+      39,
+      43,
+      55,
+      63,
+      67,
+      75,
+      85,
+      93,
+      97,
+      107,
+      111,
+      119,
+      135
+    ],
+    "grid_distribution": {
+      "6x6": 4,
+      "7x7": 10,
+      "9x9": 1
+    },
+    "exact_good_opening": [
+      6,
+      12
+    ],
+    "source_evidence_folios": [
+      71,
+      79,
+      89,
+      101,
+      123,
+      127,
+      131,
+      139
+    ],
+    "recurring_zero_records": 4,
+    "separate_locker_symbols": 6,
+    "canonical_v12_sha256": "b39215cb5e26cfb53e624b01fe7e5913654645774fccde8c7ef46b12d5c4001e"
+  },
+  "next_gate": {
+    "product_writer_acknowledged": false,
+    "current_product_writer_activity": "UNKNOWN; desktop offline; not inferred from old checkpoint",
+    "central_may_start_competing_writer": false,
+    "source_freeze": false,
+    "publication": false
+  }
+}

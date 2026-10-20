@@ -1,17 +1,17 @@
 lane: central_control_tower
 title: "RSE Central Control Tower"
-updated: 2026-10-10
-status: DETECTIVE_EIGHT_STAGES_READY_NOT_IN_180P__GENTLE_R6_CI_GREEN__DESKTOP_OFFLINE
-branch_or_repo_state: "agency-agents/main@155aec6b08496bc130cf63553be8d58c447d1d6e; Detective GitHub f98762b54672f5c773fe9147e7b6c5ff4b07c064 / last locally observed 0a6f87e; Gentle GitHub 41da0d25e3720c48f8b57a76e2358d839d0ae7c6"
-milestone: "Gentle Steps exact-head 41da0d25 EN, SEO, Android EN and Polish R6 App CI all PASS (runs 38035491503, 38035491500, 38035491499, 38035491491); Detective 8 print-stage modules verified, 8 US Letter pages SHA256 210dc76f2e68e25537480f8e168f543dc2041da683baf4716e1ed3d9e67556d6, NOT integrated into current 180p; Polish Academy PL codenames remain owner locked"
-blocker: "Detective full 180p latest verified candidate SHA256 94de71198a7fb0df86c3711619f00fc8971c7734f6f5a87b9aba09dd051bcd (92,752,248 bytes) is ONLY on authorized DESKTOP-REL52FK, OFFLINE at 2026-10-10 ~16:17 Warsaw; no authoritative 180p uploaded to Library. Eight verified stage modules are NOT substitutes for final book pages. Gentle R6 actual CI drift is CLOSED; remaining PL Android native/device and final book-template print proof unverified. Central agency-agents CI has not had fresh exact-head validation."
-owner_gate: "Previously communicated gates unchanged: GitHub billing/account; Detective Gold Pages12/15; Unstoppable Owner-Read V2; World02 PR11; Optical Final20; private-repo migration; external release gates. New runner evidence in Gentle does not require an owner decision."
+updated: 2026-10-20
+status: DETECTIVE_225P_CURRENT_ARTIFACT_AUDITED__P0_TEMPLATE_REPAIRS_PENDING_WRITER
+branch_or_repo_state: "Detective v2 observed c8046bf7dc435617e296936398c172a0a3ceb0f7; current225p PDF SHA53c4c92bfff44bf38f30c014d746ce9b1ade472e7e78745d1e414e38c24d26fb; actual October20 engine only Library source package, no canonical product code commit established; other-lane observations below remain historical October10"
+milestone: "Independently hashed current225p source-verified maps PDF and owner180MB art ZIP; inspected all225 thumbnails plus enlarged exceptions; created17p visual repair packet. Correct15-map repair protected; current solution legend regression now16folios, not historical31. Current tool/UI not independently run."
+blocker: "Current product engine source not established in GitHub; resolved October20 code ZIP materialization unavailable in this run. Central is explicitly read/sync-only; existing sole product writer has not acknowledged this new task. Desktop currently offline. Do not start competing writer."
+owner_gate: "No further approval needed for owner-requested bounded visual repairs by existing writer. Exclusive writer reassignment required only if Central chat is to implement product source itself; final visual/source-freeze/print/release gates remain."
 dependencies_needed:
   - lane: world_app_factory
     need: "Consume merged canonical World02 Level18 source in offline hidden shared runtime; reconcile Level19 branch/mailbox ref drift; never infer PR11 merge from green CI."
     evidence: "agency-agents PR35 MERGED; spark-joy-fam PR11 OPEN head 42465032c7e103bbfe6cc8326843d38fa61a3568 and earlier exact-head Android CI PASS"
   - lane: detective_book_factory
-    need: "Sole Detective EN writer only: when authorized desktop reconnects, inspect live 180p/worktree and integrate source-faithful print stages into exact physical pages 33/45/47/55/74/92/103/114 while keeping approved first18/art, V12, map topology and 180-page pagination. Library receipt /RSE/Detective Academy/Owner Review/2026-10-10/EIGHT_STAGE_ASSEMBLY_AND_SOURCE_HASH_RECEIPT_20261010.json; then full QA and owner-accessible 180p PDF."
+    need: "Existing sole writer: consume2026-10-20 P0 current-artifact audit + structured receipt; persist current October20 engine source-only in product GitHub; fix shared p007-008 decoration/portrait slots,p019 aspect ratio,p020 witness geometry/blank Notes,Case08 evidence binding,16solution legends and remaining Gold family drift. Preserve current15map axes,p006,p012,eight evidence boards,V12,4zero records. Deliver actual full225p PDF+contacts+UI E2E+source/recipe/commit, not synthetic CI. Acknowledge receipt; no second writer."
   - lane: marketing_autopilot
     need: "Replace historical 141-page D02/D04/D07 proof locators with verified current V12 Gold output before PRELINK scheduling or claims; paid activation off."
   - lane: gentle_steps
@@ -25,11 +25,14 @@ dependencies_needed:
   - lane: happy_me
     need: "Keep auth-dashboard, real email callback, real device, signing, Play, privacy and Families release gates; prior repository QA is not live hardware evidence."
 reusable_outputs:
+  - orchestration/brain/checkpoints/2026-10-20-book-factory-current-artifact-and-tool-audit.md
+  - orchestration/control-plane/requests/2026-10-20-book-factory-p0.json
+  - /AI AGENTS/RSE_BOOK_FACTORY_AUDYT_2026-10-20.pdf
   - /RSE/Detective Academy/Owner Review/2026-10-10/EIGHT_STAGE_ASSEMBLY_AND_SOURCE_HASH_RECEIPT_20261010.json
   - /RSE/Detective Academy/Owner Review/2026-10-10/DETECTIVE_8_CASES_READY_FOR_RENDERER_STAGE_PAGES_20261010.pdf
   - orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
   - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
   - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
   - orchestration/brain/checkpoints/2026-10-09-central-control-tower-reconcile-1730.md
-next_safe_task: "Absolute #1: track sole Detective EN writer and authorized desktop availability, verify a NEW versioned full 180p PDF and owner-accessible Library transfer; do not race renderer. Consume 8-stage source receipt only as integration input. Then Optical integrated review PDF, R6 real-template and PL Android gap, World PR11. Current print/cover/device owner gates remain, no KDP/Play publication."
-checkpoint_reference: orchestration/brain/checkpoints/2026-10-09-central-control-tower-reconcile-1730.md
+next_safe_task: "Obtain existing Detective writer acknowledgment and canonical latest-code commit; execute bounded owner repairs there. Central supplies exact artifact-bound evidence, no duplicate product writer. Read requests/2026-10-20-book-factory-p0.json and linked checkpoint. Other lane dependencies retained from prior checkpoint, not freshly reverified."
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-20-book-factory-current-artifact-and-tool-audit.md
