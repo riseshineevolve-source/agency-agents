@@ -5,7 +5,7 @@ status: REPOSITORY_BUILD_READY__AUTH_DEVICE_SIGNING_PLAY_GATES_REMAIN
 branch_or_repo_state:
   repository: riseshineevolve-source/riseshineevolve
   branch: codex/happy-me-production-hardening
-  branch_head: 6a4b6515992744e4d8541277eab610cf364da0c5
+  branch_head: ec2efec8881905063e2dbd9c095fe10963e54be3
   validated_application_source_head: aa2a18e77872cbbd80e19ad8447690ca36c74acc
   application_source_ci: "Mobile quality #311 / run 37751567985 / PASS"
   latest_release_infra_ci: "Mobile quality #313 / run 39457157580 / PASS"
