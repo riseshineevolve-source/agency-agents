@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-10-07
+updated: 2026-10-20
 authority: orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
 policy:
   one_writer_per_surface: true
@@ -23,6 +23,10 @@ chats:
     stop: genuine_owner_or_cross_portfolio_gate
 
   detective_book_factory:
+    exclusive_writer: codex_work_29b36a8d7861
+    writer_transferred_by_owner: 2026-10-20T20:28:48+02:00
+    previous_writer: replaced_no_parallel_product_writes
+    owner_authority: orchestration/control-plane/owner-decisions/2026-10-20_BOOK_FACTORY_EXCLUSIVE_WRITER_TRANSFER.md
     title: Detective Academy / Book Factory
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: feature/rse-book-factory-v2

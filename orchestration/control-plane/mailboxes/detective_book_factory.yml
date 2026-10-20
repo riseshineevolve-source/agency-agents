@@ -1,12 +1,14 @@
 lane: detective_book_factory
 title: "Detective Academy / Book Factory"
-updated: 2026-10-07
-status: BOOTSTRAP_READY__LANE_WRITER_MUST_REFRESH
-branch_or_repo_state: VERIFY_LIVE_ON_OPEN
-milestone: control_plane_v1_registered
+updated: 2026-10-20
+status: EXCLUSIVE_WRITER_TRANSFERRED__CURRENT_CODE_RECOVERED__IMPLEMENTATION_ACTIVE
+exclusive_writer: codex_work_29b36a8d7861
+branch_or_repo_state: "feature/rse-book-factory-v2 observed c8046bf7dc435617e296936398c172a0a3ceb0f7; latest actual engine recovered from October20 ZIP, canonical commit pending"
+milestone: "Owner transferred exclusive product write here at20:28Europe/Warsaw; latest code exactSHA verified; V12 and originalRC23 recovered. Root+disjoint specialists implementing actual full UI and page-family fixes."
 blocker: null
-owner_gate: null
+owner_gate: "Final source/visual acceptance and publication remain; ordinary repairs explicitly authorized"
 dependencies_needed: []
-reusable_outputs: []
-next_safe_task: read_registry_bootstrap_project_checkpoint_and_continue
-checkpoint_reference: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+reusable_outputs:
+  - orchestration/control-plane/owner-decisions/2026-10-20_BOOK_FACTORY_EXCLUSIVE_WRITER_TRANSFER.md
+next_safe_task: "Repair existing Studio full-build flow, actual source mapping and visual families; run real225p build+full QA; persist current code, deliver complete corrected PDF. No parallel old-writer product writes."
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-20-book-factory-current-artifact-and-tool-audit.md
