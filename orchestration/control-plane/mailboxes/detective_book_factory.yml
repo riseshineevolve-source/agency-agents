@@ -1,14 +1,15 @@
 lane: detective_book_factory
 title: "Detective Academy / Book Factory"
 updated: 2026-10-20
-status: EXCLUSIVE_WRITER_TRANSFERRED__CURRENT_CODE_RECOVERED__IMPLEMENTATION_ACTIVE
+status: REAL_FULL_UI_225P_PASS__FINAL_143_REPAIR_BLOCKED_BY_ENVIRONMENT_OFFLINE
 exclusive_writer: codex_work_29b36a8d7861
-branch_or_repo_state: "feature/rse-book-factory-v2 observed c8046bf7dc435617e296936398c172a0a3ceb0f7; latest actual engine recovered from October20 ZIP, canonical commit pending"
-milestone: "Owner transferred exclusive product write here at20:28Europe/Warsaw; latest code exactSHA verified; V12 and originalRC23 recovered. Root+disjoint specialists implementing actual full UI and page-family fixes."
-blocker: null
-owner_gate: "Final source/visual acceptance and publication remain; ordinary repairs explicitly authorized"
+branch_or_repo_state: "feature/rse-book-factory-v2 remains observed c8046bf7dc435617e296936398c172a0a3ceb0f7; repaired Studio source LOCAL ONLY, product commit pending"
+milestone: "Actual full UI export225Letter pages97,733,779bytes PASS. Repeat0.764s zero rerenders, identical SHA. Native families/openings/evidence/16solvedmaps repaired. Final143nativebody correction still unapplied."
+blocker: "Shared Work executor offline:409 environment_offline. Cannot modify/read local files, rerender final143, packageZIP or save artifacts. This is not an owner approval gate."
+owner_gate: "No ordinary repair gate; owner explicitly transferred exclusive writer authority. Final visual/print judgment remains."
 dependencies_needed: []
 reusable_outputs:
   - orchestration/control-plane/owner-decisions/2026-10-20_BOOK_FACTORY_EXCLUSIVE_WRITER_TRANSFER.md
-next_safe_task: "Repair existing Studio full-build flow, actual source mapping and visual families; run real225p build+full QA; persist current code, deliver complete corrected PDF. No parallel old-writer product writes."
-checkpoint_reference: orchestration/brain/checkpoints/2026-10-20-book-factory-current-artifact-and-tool-audit.md
+  - orchestration/brain/checkpoints/2026-10-20-book-factory-exclusive-writer-real-ui-build-recovery.md
+next_safe_task: "Recover executor; apply complete nativeNARRATIVEbody branch, verify sourcecoverage methodology, rerun actualUI+cache proof, inspect final, commit Studio source to currentbranch and deliver finalPDF+toolZIP. Do not call currentcandidate final."
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-20-book-factory-exclusive-writer-real-ui-build-recovery.md
