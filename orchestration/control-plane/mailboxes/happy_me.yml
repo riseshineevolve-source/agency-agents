@@ -1,13 +1,14 @@
 lane: happy_me
 title: "Happy Me 24/7"
 updated: 2026-10-20
-status: REPOSITORY_SIDE_READY_FOR_INTERNAL_TESTING__AUTH_DEVICE_PLAY_GATES_REMAIN
+status: REPOSITORY_BUILD_READY__AUTH_DEVICE_SIGNING_PLAY_GATES_REMAIN
 branch_or_repo_state:
   repository: riseshineevolve-source/riseshineevolve
   branch: codex/happy-me-production-hardening
-  branch_head: b5fbe15298b4154b5d447cbeacf6b50a04a15982
+  branch_head: 6a4b6515992744e4d8541277eab610cf364da0c5
   validated_application_source_head: aa2a18e77872cbbd80e19ad8447690ca36c74acc
-  latest_exact_source_ci: "Mobile quality #311 / run 37751567985 / PASS"
+  application_source_ci: "Mobile quality #311 / run 37751567985 / PASS"
+  latest_release_infra_ci: "Mobile quality #313 / run 39457157580 / PASS"
   writer: this_dedicated_happy_me_lane
 milestone:
   source_release:
@@ -15,6 +16,25 @@ milestone:
     package: com.riseshineevolve.happyme
     version: 1.0.0
     target_api: 36
+  android_artifacts_2026_10_20:
+    debug_apk:
+      artifact_id: 12280213431
+      zip_sha256: 92e06ac52a54b0820aa07c193119bc08826a82a5ca74edacaed2dfe98bd6d9af
+      expires: 2026-11-03
+    unsigned_aab:
+      artifact_id: 12281721175
+      zip_sha256: 3e930dddc18419fa904b8e7ba4cb5350b5fff5f24485b58e5415464a3e6ca0ce
+      expires: 2026-11-03
+  play_rasters:
+    workflow: "Happy Me Play asset export"
+    status: TECHNICAL_EXPORT_PASS__OWNER_VISUAL_APPROVAL_OPEN
+    icon:
+      dimensions: 512x512
+      sha256: 80eb5093816c9be58e8a6eb93c2b741491fdaf92e0e7a5aa2df69730408c16a4
+    feature:
+      dimensions: 1024x500
+      sha256: 8f32192a170a6b96bc3ea36c430c9592a45d2bad8ad881b2aa334826dcc2cdbf
+    repo_path: release/happy-me-branding/store/candidates/
   supabase:
     project_id: fgmividxlwmvhlltwabd
     status: ACTIVE_HEALTHY
@@ -29,25 +49,27 @@ milestone:
     deployment_packet: release/happy-me-privacy/HAPPY_ME_PUBLIC_PRIVACY_SUPPORT_DEPLOYMENT_PACKET.md
     owner_review_html: release/happy-me-privacy/happy-me-privacy-owner-review.html
     recommended_public_path: https://rise-shine-evolve-learning-hub.com/privacy/happy-me/
-  closed_release_deltas:
-    - privacy_and_auth_pricing_language_neutral
-    - high_severity_production_dependency_gate_green
-    - source_ci_311_green
+  listing:
+    owner_review_v2: HAPPY_ME_PLAY_LISTING_OWNER_REVIEW_V2.md
+  release_handoff:
+    path: HAPPY_ME_RELEASE_HANDOFF_2026-10-20.md
 blocker: null
 owner_gate:
   type: AUTH_DEVICE_SIGNING_PLAY_RELEASE
   requirements:
     - verify Supabase Site URL and exact happyme://auth/callback redirect in Auth dashboard
-    - verify confirmation and password-recovery email templates
+    - verify confirmation and password-recovery templates
     - enable/review leaked-password protection
     - complete real signup-confirmation-recovery and cold/warm native callback proof
     - provide owner-controlled upload signing / Play App Signing and generate signed AAB
     - install via Play Internal Testing and run real Android QA
-    - owner/legal review and publish the prepared Happy Me-specific privacy page
-    - approve final Play rasters/screenshots and complete Families/Data Safety/content rating/pricing/regions/publication
+    - approve exact Play raster pair
+    - owner/legal review and publish Happy-Me-specific privacy page
+    - capture signed-candidate screenshots
+    - complete Families/Data Safety/content rating/pricing/regions/publication
 dependencies_needed:
-  - lane: central_control_tower
-    need: route the prepared Happy Me privacy/support deployment packet to the website lane; do not use the general website-only privacy page as the Play privacy URL
+  - lane: website
+    need: deploy owner/legal-reviewed Happy Me privacy page from prepared packet; do not reuse general website-only privacy page
   - external: supabase_auth_dashboard_access
     need: Site URL, native redirect, email templates and leaked-password-protection evidence
   - external: android_device_or_emulator
@@ -56,7 +78,9 @@ dependencies_needed:
     need: upload key / Play App Signing credentials remain outside Git
 reusable_outputs:
   - "HAPPY_ME_RELEASE_CHECKPOINT_311.md"
+  - "HAPPY_ME_RELEASE_HANDOFF_2026-10-20.md"
+  - "HAPPY_ME_PLAY_LISTING_OWNER_REVIEW_V2.md"
+  - "release/happy-me-branding/store/candidates/"
   - "release/happy-me-privacy/HAPPY_ME_PUBLIC_PRIVACY_SUPPORT_DEPLOYMENT_PACKET.md"
-  - "release/happy-me-privacy/happy-me-privacy-owner-review.html"
-next_safe_task: Auth-dashboard evidence + real email callback proof; signed Internal Testing candidate; real-device QA
-checkpoint_reference: HAPPY_ME_RELEASE_CHECKPOINT_311.md
+next_safe_task: obtain Auth-dashboard + email callback evidence, then signed Internal Testing candidate and real-device QA
+checkpoint_reference: HAPPY_ME_RELEASE_HANDOFF_2026-10-20.md
