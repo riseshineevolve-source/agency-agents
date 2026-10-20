@@ -1,63 +1,62 @@
 lane: happy_me
 title: "Happy Me 24/7"
-updated: 2026-10-08
+updated: 2026-10-20
 status: REPOSITORY_SIDE_READY_FOR_INTERNAL_TESTING__AUTH_DEVICE_PLAY_GATES_REMAIN
 branch_or_repo_state:
   repository: riseshineevolve-source/riseshineevolve
   branch: codex/happy-me-production-hardening
-  branch_head: 2467bdd0297e6ca95005559442d94463f67f8700
+  branch_head: b5fbe15298b4154b5d447cbeacf6b50a04a15982
   validated_application_source_head: aa2a18e77872cbbd80e19ad8447690ca36c74acc
+  latest_exact_source_ci: "Mobile quality #311 / run 37751567985 / PASS"
   writer: this_dedicated_happy_me_lane
 milestone:
-  mobile_quality:
-    run_number: 311
-    run_id: 37751567985
-    conclusion: PASS
-    web_foundation: PASS
-    production_dependency_audit: PASS
-    android_builds: PASS
-  release_artifacts:
-    debug_apk: happy-me-debug-apk
-    unsigned_release_aab: happy-me-unsigned-release-aab
+  source_release:
+    repository_side: READY
+    package: com.riseshineevolve.happyme
+    version: 1.0.0
+    target_api: 36
   supabase:
     project_id: fgmividxlwmvhlltwabd
     status: ACTIVE_HEALTHY
-    public_tables: 8
-    rls: ENABLED_ALL_APP_TABLES
-    ownership_rule: auth.uid()_equals_user_id
-    email_auth: ENABLED
-    signup: ENABLED
-    email_autoconfirm: DISABLED
+    reverified: 2026-10-20
+    rls: ENABLED_ALL_8_APP_TABLES
+    ownership: auth.uid()_equals_user_id
     leaked_password_protection: DISABLED__AUTH_DASHBOARD_HARDENING_OPEN
-  closed_2026_10_08:
-    - privacy_policy_pricing_acquisition_language_neutralized
-    - auth_screen_pricing_acquisition_language_neutralized
-    - pricing_language_bounded_source_search_clean
-    - high_severity_production_dependency_regression_closed_without_router_major_upgrade
+  privacy_support:
+    general_rse_privacy_url: https://rise-shine-evolve-learning-hub.com/privacy/
+    general_page_live_verified: 2026-10-20
+    general_page_suitable_for_happy_me_play: false
+    deployment_packet: release/happy-me-privacy/HAPPY_ME_PUBLIC_PRIVACY_SUPPORT_DEPLOYMENT_PACKET.md
+    owner_review_html: release/happy-me-privacy/happy-me-privacy-owner-review.html
+    recommended_public_path: https://rise-shine-evolve-learning-hub.com/privacy/happy-me/
+  closed_release_deltas:
+    - privacy_and_auth_pricing_language_neutral
+    - high_severity_production_dependency_gate_green
+    - source_ci_311_green
 blocker: null
 owner_gate:
   type: AUTH_DEVICE_SIGNING_PLAY_RELEASE
   requirements:
     - verify Supabase Site URL and exact happyme://auth/callback redirect in Auth dashboard
-    - verify email confirmation and password-recovery templates
-    - enable/review leaked-password protection in Auth dashboard
+    - verify confirmation and password-recovery email templates
+    - enable/review leaked-password protection
     - complete real signup-confirmation-recovery and cold/warm native callback proof
-    - provide owner-controlled upload signing / Play App Signing and build signed AAB
-    - install through Play Internal Testing and run real Android smoke/accessibility/state/offline/account-switch checks
-    - approve final Play rasters/screenshots/privacy-support
-    - complete Families/Target Audience, Data Safety, content rating, pricing-regions and publication decisions
+    - provide owner-controlled upload signing / Play App Signing and generate signed AAB
+    - install via Play Internal Testing and run real Android QA
+    - owner/legal review and publish the prepared Happy Me-specific privacy page
+    - approve final Play rasters/screenshots and complete Families/Data Safety/content rating/pricing/regions/publication
 dependencies_needed:
+  - lane: central_control_tower
+    need: route the prepared Happy Me privacy/support deployment packet to the website lane; do not use the general website-only privacy page as the Play privacy URL
   - external: supabase_auth_dashboard_access
-    need: Site URL, native redirect, email template and leaked-password-protection evidence
-  - external: email_inbox_for_real_auth_test
-    need: connected Gmail does not provide the RSE support inbox, so real confirmation/recovery email proof cannot be automated here
+    need: Site URL, native redirect, email templates and leaked-password-protection evidence
   - external: android_device_or_emulator
-    need: no Android SDK/ADB/emulator is present on the currently authorized Desktop Commander host
+    need: physical/emulated Android evidence remains unproven
   - owner: play_upload_signing
-    need: upload key / Play App Signing credentials must remain outside Git
+    need: upload key / Play App Signing credentials remain outside Git
 reusable_outputs:
-  - "Happy Me release checkpoint #311 at HAPPY_ME_RELEASE_CHECKPOINT_311.md"
-  - "Mobile quality #311 exact-head green release baseline"
-  - "Live Supabase RLS/public-auth-setting evidence from 2026-10-08"
-next_safe_task: Auth-dashboard evidence + real email callback proof; then signed Play Internal Testing candidate and real-device QA
+  - "HAPPY_ME_RELEASE_CHECKPOINT_311.md"
+  - "release/happy-me-privacy/HAPPY_ME_PUBLIC_PRIVACY_SUPPORT_DEPLOYMENT_PACKET.md"
+  - "release/happy-me-privacy/happy-me-privacy-owner-review.html"
+next_safe_task: Auth-dashboard evidence + real email callback proof; signed Internal Testing candidate; real-device QA
 checkpoint_reference: HAPPY_ME_RELEASE_CHECKPOINT_311.md
