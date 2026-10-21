@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-21
-status: SOURCE_LOCK_V07_OWNER_VISUAL_REVIEW
+status: WAITER_FLIGHT_V08_OWNER_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Owner rejected V06 over-whitening. Four new retouches created directly from dark reattached sources, plus a genuinely new high-downview suspended wax queen feeding five patterned floor candles. Queen crop/reflection/gray issues corrected; waiter blue stair marks removed after one failed color-only attempt. Five final images displayed."
+milestone: "Owner-requested waiter scene redesign completed: stronger airborne stride, modern levitating oval banquet, flowing cloth and curved optical gallery; no stairs or checkerboard. Cloche/tray/flower framing corrected and verified. Other fourV07 scenes preserved unchanged."
 blocker: null
-owner_gate: "Owner visual response to five V07 images, especially suspended queen. No automatic approved20 or print/release claim."
+owner_gate: "Owner visual response to V08 airborne modern waiter, alongside retainedV07 boy/painter/carrier/suspendedqueen. No approved20 or print/release claim."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Review V07 five-image dark-source bank with owner. Preserve current source-rich contrast and protagonists; no V06 pale-room reset. Only specific owner local refinement or proven blocker. Approx10–15% background relief is artistic intent, not a measured certification. No factory work."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_DARK_SOURCE_SUSPENDED_QUEEN_V07.md"
+next_safe_task: "Review concreteV08 waiter with owner. Keep its new no-checker/no-stairs scene and preserved masked long-haired identity; keep otherV07 scenes unchanged unless owner requests a change. Only targeted owner refinement or proven blocker; no factory work."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_AIRBORNE_MODERN_WAITER_V08.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Actual V07 image review: faithful dark DNA, coherent main anatomy/2carriergrips, high suspended queen with5connected patterned floorcandles/5completeheadbandflames and matching bounded mirror. Waiter final blue stair contamination fixed and verified. NativeRGB proof status only."
+closing_pass_qa: "V08 waiter actual-image QA: coherent2arms/2legs and strongflight, modern levitatingovalbanquet, no stairs/checkers; final entirecloche/tray/callapetals complete with narrowproofmargins. V07other4 technicalreview retained. NativeRGBartproof, not print certification."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -69,3 +69,11 @@ dark_source_suspended_queen_v07:
   - "5/5 reattached source hashes and15/15 approvedoriginal hashes unchanged; all strong prior art preserved."
   - "Whole-page black stats are descriptive only; not uniformlylower afterfusion/thickercontours/newpaintstroke. Do notclaimexact10–15%backgroundremoval withoutbackgroundmask."
   - "FivefinalnativeRGBimages displayed; exactprompts/failedattempt/finalhashes/QA in checkpoint. No PNGbinaries inGitHub, no print/factory certification."
+
+waiter_flight_v08:
+  - "Latestownerrequested ONLYwaiter redesigned tostoprepeatcheckerfloorandstairs: modernflyingtable and strongerwow."
+  - "New extendedairbornestride, sameeyemask/longhair/stripedtailcoat, sculpturalfloatingovaltable/tablecloth, curvedblackwhitegalleryplanesandovalvoids; nocheckers/nostairs."
+  - "Moderncallalilies/goblet/candle reflected in boundedconvexcloche. Tableusesmixedsurrealgravity; do notclaimphysicallyuniforminvertedtable."
+  - "Finalexec-b2b29982-b420-4cb1-8047-921e69e3ff8a.png SHA256833c6f61d1e75c8d545940ca65b535f5c15198e4018e939460edf8f63463e75f."
+  - "ExistingReality/Finish reviewerverifiedfinalwholecloche/trayandcallapetalscomplete, nofurtherrenderneeded. Narrowmargins/native1103x1426RGBproofnotprintmaster."
+  - "Onlywaiterbankupdated; otherfourV07artworksandalloriginalsourcespreserved. NoPNGbinaryuploadtoGitHub."
