@@ -195,7 +195,7 @@ resource_policy_notice:
   delivery_state: PUBLISHED_IN_CENTRAL_MAILBOX__NO_RECIPIENT_ACK_ASSUMED
   this_reconciliation_cloud_runs_started: 0
   repo_visibility_changed: false
-  n8n_current_execution_and_subscription_status: UNVERIFIED_NO_RENEWAL_OR_NEW_WORKFLOW_AUTHORIZED
+  n8n_current_execution_and_subscription_status: TRIAL_OVER_HEALTH_POLLING_OBSERVED_NO_RENEWAL_AUTHORIZED
 
 actions_containment_implementation:
   date: '2026-10-21'
@@ -208,7 +208,7 @@ actions_containment_implementation:
   recipients: all_registered_lanes
   acknowledgments: PENDING
   privacy: PUBLIC_FORK_DETACH_REQUIRED_ADMIN_OPERATION_UNAVAILABLE
-  n8n: CLOUD_PANEL_DID_NOT_LOAD_CURRENT_STATUS_UNVERIFIED
+  n8n: SUPERSEDED_BY_AUTHENTICATED_TRIAL_OVER_RECEIPT_3d77905
 
 actions_containment_receipt:
   checkpoint: orchestration/brain/checkpoints/2026-10-21-actions-cost-containment.md
@@ -220,7 +220,7 @@ actions_containment_receipt:
   preserve_required_local_and_release_checks: true
   recipient_ack: PENDING
   privacy: PUBLIC_FORK_ADMIN_SIGN_IN_REQUIRED
-  n8n: INSTANCE_SELECTION_LOGIN_SCREEN_NO_AUTHENTICATED_SESSION
+  n8n: TRIAL_OVER_163_WINDOW_EXECUTIONS_HEALTH_ONLY_NO_NOTIFICATIONS_EXPORT_BLOCKED
 
 historical_intro_receipt_reconciliation:
   observed_head: 5176142243b1d6abc69a86328ababdae1b0ec6e9
@@ -322,3 +322,21 @@ final_gray15_receipt_reconciliation:
   actual_previewer_and_physical_proof: NOT_PERFORMED
   explicit_request_id_acknowledgment: NOT_OBSERVED
   release_ready: false
+
+n8n_authenticated_receipt_reconciliation:
+  date: '2026-10-21'
+  evidence_commit: 3d77905e590f36bd2dcd58d24f4e33adebd0674b
+  checkpoint: orchestration/n8n/RSE_N8N_TRIAL_ACTIVATION_2026-10-07.md
+  source_level: AUTHENTICATED_PRODUCER_UI_RECEIPT_NOT_THIS_TURN_DIRECT_UI
+  trial: OVER_BANNER_OBSERVED
+  dashboard_window_production_executions: 163
+  dashboard_window_failures: 0
+  health_workflow: PUBLISHED_HOURLY_HISTORY_LATEST_DISPLAYED_352
+  health_function: FETCH_LAST_GITHUB_RUN_CLASSIFY_PASS_PENDING_ATTENTION_NO_NOTIFICATIONS
+  latest_node_output_and_source_freshness: NOT_EXTRACTED
+  lane_checkpoint_publication_and_executions: UNVERIFIED
+  actual_json_exports: NONE_NATIVE_CREDENTIAL_PROTECTION_BLOCKED
+  next_action: NORMAL_PERMITTED_EXPORT_BOTH_WORKFLOWS_TO_PRIVATE_DESTINATION_NO_BYPASS
+  paid_upgrade_or_replacement_host: NOT_AUTHORIZED
+  budget_notice: USD7_TOTAL_CEILING_NOT_ADDITIONAL_CREDIT_BALANCE_UNKNOWN
+  cloud_runs_started_by_this_reconciliation: 0
