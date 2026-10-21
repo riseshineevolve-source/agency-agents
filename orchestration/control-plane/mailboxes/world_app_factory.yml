@@ -1,7 +1,7 @@
 lane: world_app_factory
 title: "World 01 + World 02 / Interactive App Factory"
 updated: 2026-10-21
-status: PARENT_NOTE_SOURCE_SLICE_PASS__REMAINING_INTRO_ENDGAME_GAPS__UPLOAD_GATED
+status: CHARACTER_TEXT_SOURCE_SLICE_PASS__REMAINING_INTRO_ENDGAME_GAPS__UPLOAD_GATED
 branch_or_repo_state:
   source_repo: riseshineevolve-source/agency-agents
   source_branch: codex/world02-level19-recovery-20261021
@@ -13,7 +13,7 @@ branch_or_repo_state:
   existing_level18_runtime_pr: https://github.com/riseshineevolve-source/spark-joy-fam/pull/11
   existing_level18_runtime_head: 42465032c7e103bbfe6cc8326843d38fa61a3568
   local_runtime_branch: codex/world-factory-recovery-20261021
-  local_runtime_head: 46206c04ef9a209860bb57aa07c6cc45e43f99b1
+  local_runtime_head: 9d10d66c3f79ac289bf6acf68d9a001741907b0f
   runtime_worktree: owner_device_GitHub/world-factory-recovery-20261021
   runtime_new_pr: https://github.com/riseshineevolve-source/spark-joy-fam/pull/12
   remote_runtime_head: 8eae6fb9feecdf93381fd234eb8bea92dab6a136
@@ -205,3 +205,43 @@ parent_note_source_followup_2026_10_21:
   recommended_profile: production
   runtime_model_reasoning_speed_observed: UNKNOWN
   model_application: RECOMMENDATION_ONLY
+
+character_source_followup_2026_10_21:
+  code_commit: 9e546dda3d205a14739bca824074cd5e710edf38
+  checkpoint_commit: 9d10d66c3f79ac289bf6acf68d9a001741907b0f
+  local_worktree_clean: true
+  scope: canonical_character_text_pages7to11_both_worlds_5profiles_30nodes_each
+  existing_portrait_assets: reused_not_newly_source_proven
+  source_binary_text_line_bbox_and_visual_review: PASS_both_exact_canonical_SHA_all10page_pixels
+  world_specific_copy_and_stable_IDs: preserved
+  occluded_duplicate_PDF_labels: explicit_evidence_exclusions_not_rendered
+  source_bytes: PASS_LF_working_equals_committed
+  regression: PASS_34files_145tests
+  typecheck_lint_both_web_builds_release_audit_git_diff_check: PASS
+  browser: PASS_Chrome_all5profiles_both_worlds_exact30nodes_Enter_Space_focus_offline_reload_progress_unchanged_mission_entry_320_390_no_overflow_no_pageerrors
+  browser_proof: release/qa-character-source-20261021/browser-proof.json
+  verification: release/CHARACTER_SOURCE_VERIFICATION_2026-10-21.json
+  handoff: release/CHARACTER_SOURCE_HANDOFF_2026-10-21.md
+  native_current_code: NOT_REBUILT_UI_slice_prior16673c0_receipt_not_current_head
+  physical_device: NOT_TESTED_this_run
+  remaining_intro_text: World01_pages1_3to6_12to14_World02_pages1_3to6_12
+  full_page_art_parity: NOT_CLAIMED
+  world01_endgame_pages100to108: NOT_PROVEN
+  full_book_completion: false
+  publication_ready: false
+  source_PR39_head: aa02797a717e37a4d493e92268f5312f060279cc
+  remote_runtime_PR12_head: 8eae6fb9feecdf93381fd234eb8bea92dab6a136
+  fresh_PR12_PR39_comments: empty_no_new_upload_authorization
+  expanded_payload_upload: NOT_ATTEMPTED_prior_AUTO_REVIEW_REJECTION_preserved_no_alternate_transfer
+  hosted_CI: prior_budget_block_not_retried
+  cloud_runs_explicitly_started: 0
+  resource_policy_ack: rse-actions-cost-privacy-owner-20261021
+  owner_stated_Actions_ceiling_USD: 7
+  remaining_balance: UNVERIFIED
+  revenue_policy_ack: rse-first-revenue-2026-10-21
+  current_authority: newer_direct_owner_bounded_World_finalization_no_unrelated_features_no_Gentle_Steps_dependency
+  model_policy_ack: rse-weekly-usage-2026-10-21-v1
+  recommended_profile: production
+  runtime_model_reasoning_speed_observed: UNKNOWN
+  application_status: RECOMMENDATION_ONLY
+  next_safe_task: remaining_canonical_intro_text_then_World01_endgame_parity_without_reopening_resolved_codes
