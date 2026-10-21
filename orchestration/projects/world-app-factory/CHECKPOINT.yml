@@ -1,0 +1,82 @@
+version: 1
+lane: world_app_factory
+updated: 2026-10-21
+status: SOURCE_VERIFIED__LOCAL_RUNTIME_VERIFIED__RUNTIME_PUSH_APPROVAL_GATE
+authority:
+  one_writer: World_01_World_02_and_shared_runtime_consolidated_by_owner
+  control_plane: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+  brief: orchestration/projects/world-app-factory/PROJECT_BRIEF.md
+source:
+  repository: riseshineevolve-source/agency-agents
+  branch: codex/world02-level19-recovery-20261021
+  pull_request: https://github.com/riseshineevolve-source/agency-agents/pull/39
+  level19_durable_commit: dfbdf1e5a1bc3ceb59b969e07f54615d08efba96
+  level20_durable_commit: 038b7e5cbf1a12026dd3b333051bea45edddf818
+  final_commit: resolve_branch_head_or_lane_mailbox_after_final_sync
+  world01_missions: 10
+  world02_missions: 10
+  world02_level19_nodes: 25
+  world02_level20_nodes: 27
+  world02_level20_types_corrected_from_pixels:
+    dialogue: 13
+    system_log: 6
+  world02_endgame:
+    pages:
+    - 93
+    - 104
+    nodes: 95
+    runtime_status: source_only
+  canonical_world02_sha256: e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76
+  changed_source_text: false
+  polish_production_started: false
+runtime:
+  repository: riseshineevolve-source/spark-joy-fam
+  observed_main: 23c2cf36988a41b785d1409d28488c6b7acbe08f
+  existing_level18_pr: https://github.com/riseshineevolve-source/spark-joy-fam/pull/11
+  base: 42465032c7e103bbfe6cc8326843d38fa61a3568
+  local_branch: codex/world-factory-recovery-20261021
+  local_commit: 8eae6fb9feecdf93381fd234eb8bea92dab6a136
+  clean_worktree: true
+  pushed: false
+  new_pull_request: null
+  registered_missions: 20
+  restored_source_headings: 40
+  restored_exercise_start_label: true
+  public_entry: World01_only
+  world02_visible: false
+  world02_endgame_runtime_implemented: false
+verification:
+  runtime_tests:
+    files: 29
+    passed: 126
+  runtime_typecheck_lint_build_release_audit: PASS
+  browser: actual_World01_Chrome_390x844_entry_labels_START_overflow_and_errors_PASS
+  source_level19_tests:
+    passed: 10
+  source_level20_tests:
+    passed: 12
+  source_endgame_tests:
+    passed: 15
+  source_full_workflow:
+    local_executable_steps_passed: 17
+    record: orchestration/projects/world-app-factory/2026-10-21-local-verification.json
+  world01_private_pdf_dependent_tests: six_skipped_in_scratch_environment
+  new_head_hosted_ci: not_established
+  new_runtime_android_build_and_device: not_run
+approval_block:
+  action: push_local_runtime_branch_to_riseshineevolve-source_spark-joy-fam
+  source: automatic_approval_review
+  reason: unverified_external_destination_and_no_explicit_destination_disclosure_authorization
+  bypass_attempted: false
+  concrete_result: local_tested_commit_and_reviewable_branch_preserved_on_owner_device
+editorial:
+  new_level19_20_exceptions: 7
+  decision_packet: orchestration/projects/world-app-factory/2026-10-21-level19-20-editorial-release-review.md
+  proposed_overrides: unapproved_and_not_applied
+  rest_of_world02_and_endgame_review: remains_required_before_public_release
+  world01_code_authority: resolved_by_owner_2026_09_30_mission_codes_7_to_10
+next_safe_task: After explicit runtime destination authorization, push the preserved
+  tested commit and create a draft PR stacked on the existing Level18 branch; verify
+  exact-head hosted Android checks. A later bounded endgame runtime slice must consume
+  the source-only graph and exact source art. Keep public release, editorial/device/legal/signing/store
+  gates open and Gentle Steps independent.

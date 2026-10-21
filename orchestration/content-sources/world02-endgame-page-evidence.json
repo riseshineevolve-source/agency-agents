@@ -1,0 +1,1810 @@
+{
+  "evidence_version": 1,
+  "scope_id": "world02_endgame",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "filename": "paperback 10 STORIES WORLD 02 FINAL standard(1).pdf",
+    "isbn": "9798249971823",
+    "sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "bytes": 66576954,
+    "pages": 104,
+    "page_range": [
+      93,
+      104
+    ]
+  },
+  "method": {
+    "visual": "All 12 pages rendered at 1.5x and inspected, including individual PNGs for baked-in text. Native text extraction is stored separately and is incomplete.",
+    "transcription": "Visible wording, capitalization and punctuation retained. ASCII apostrophes/double quotes are used in baked-image transcription where curly shape is not decisive. Line wraps largely retained, but layout whitespace is not semantic. This is manual visual transcription, not a byte-for-byte typography encoding.",
+    "order": "Printed page order; visual block order within page; grid position retained explicitly.",
+    "count_note": "No assumption that the historic 91-node candidate exists or matches this inventory. Inventory block grouping is descriptive, not an approved runtime node schema."
+  },
+  "page_inventory": [
+    {
+      "page": 93,
+      "surface": "completion",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 93"
+      },
+      "content_blocks": 5
+    },
+    {
+      "page": 94,
+      "surface": "handover",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 94"
+      },
+      "reading_order_note": "Skill grid is represented in visual row-major order; original locations are retained. No branching is implied.",
+      "content_blocks": 9
+    },
+    {
+      "page": 95,
+      "surface": "support_squad",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 95"
+      },
+      "content_blocks": 10
+    },
+    {
+      "page": 96,
+      "surface": "emergency_codes",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 96"
+      },
+      "content_blocks": 4
+    },
+    {
+      "page": 97,
+      "surface": "loadout_cutout",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 97"
+      },
+      "print_role": "cutout_front",
+      "table_semantic_id": "world02_endgame_loadout",
+      "same_table_as_page": 99,
+      "visual_furniture_wins_over_text_layer": true,
+      "content_blocks": 14
+    },
+    {
+      "page": 98,
+      "surface": "custom_family_code",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 98"
+      },
+      "print_role": "cutout_reverse",
+      "source_mechanics": "Three blank writing areas only. Source does not specify a save button, score, validation, character limit, account, or cloud sync.",
+      "content_blocks": 3
+    },
+    {
+      "page": 99,
+      "surface": "loadout_reference",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 99"
+      },
+      "print_role": "reference_duplicate",
+      "table_semantic_id": "world02_endgame_loadout",
+      "same_table_as_page": 97,
+      "visual_furniture_wins_over_text_layer": true,
+      "content_blocks": 14
+    },
+    {
+      "page": 100,
+      "surface": "system_freeze_bonus_hack",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 100"
+      },
+      "source_mechanics": "Printed three-step in-person family instruction. No software countdown or enforcement is specified.",
+      "content_blocks": 7
+    },
+    {
+      "page": 101,
+      "surface": "mental_swipe_bonus_hack",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 101"
+      },
+      "source_mechanics": "Physical hand gesture in an instruction, not a printed interactive screen or swipe-to-dismiss game.",
+      "content_blocks": 7
+    },
+    {
+      "page": 102,
+      "surface": "hub_bonus",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 102"
+      },
+      "source_mechanics": "External QR bonus to Hub; no implementation of the Calm/Energy wheels is specified inside the book.",
+      "content_blocks": 8
+    },
+    {
+      "page": 103,
+      "surface": "certificate",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 103"
+      },
+      "print_role": "cutout_certificate",
+      "source_mechanics": "One blank player-name writing line. It does not authorize identity collection, account gating, grading, or invented rewards.",
+      "content_blocks": 13
+    },
+    {
+      "page": 104,
+      "surface": "closing",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 104"
+      },
+      "content_blocks": 1
+    }
+  ],
+  "findings": [
+    {
+      "id": "duplicate-loadout",
+      "status": "source_fact",
+      "pages": [
+        97,
+        99
+      ],
+      "detail": "Both visibly print the same 12 loadout rows. Page97 is the cutout front; page98 is the writable reverse; page99 is a reference duplicate. Retain distinct page provenance even when using one semantic table."
+    },
+    {
+      "id": "text-layer-stale-index",
+      "status": "source_fact",
+      "pages": [
+        97,
+        99
+      ],
+      "detail": "Extracted text also contains stale hidden SYSTEM: ONLINE / LVL_INDEX:96; visual pages correctly show97/99. Use visible furniture rather than hidden stale layer strings."
+    },
+    {
+      "id": "emergency-short-variants",
+      "status": "source_fact_not_normalized",
+      "pages": [
+        96,
+        97,
+        99
+      ],
+      "detail": "Full p96 reverse-UNO code is CAPTAIN, YOUR LIZARD IS DRIVING!; loadout Bonus2 short code is LIZARD IS DRIVING!. Full low-battery code is CAPTAIN IS ON 1% BATTERY.; loadout Bonus1 is CAPTAIN ON 1% BATTERY. Preserve both printed forms. No silent normalization."
+    },
+    {
+      "id": "world02-mission-loadout",
+      "status": "no_conflict_observed",
+      "pages": [
+        97,
+        99
+      ],
+      "detail": "World02 Levels11–20 code names align with mission names/codes known from canonical packs/extractions. World01's separate mission7–10/loadout inconsistency was resolved by the owner on 2026-09-30 in favor of mission-level codes; never mix code lists across worlds."
+    },
+    {
+      "id": "world01-resolved-authority",
+      "status": "resolved_by_owner_2026_09_30",
+      "detail": "World01 mission7 MAKING A DEPOSIT, mission8 FERRARI MAINTENANCE, mission9 BUILDING WITH BRICKS, mission10 EATING THE FROG are approved authoritative. Conflicting printed summary variants must never replace them in the app. Decision: orchestration/brain/decisions/2026-09-30-world01-secret-code-authority.md. This is resolved and creates no new owner gate."
+    },
+    {
+      "id": "printed-editorial-marker",
+      "status": "preserve_and_flag",
+      "pages": [
+        96
+      ],
+      "detail": "[ NEW PAGE: SPECIAL CODES ] is visibly printed. Preserve in source evidence; removal from release copy is an editorial choice, not an extraction fix."
+    },
+    {
+      "id": "science-child-safety",
+      "status": "existing_pre_public_release_review",
+      "pages": [
+        94,
+        96,
+        100,
+        101,
+        103
+      ],
+      "detail": "Preserve exact claims and directives during extraction. Existing separate factual/child-safety review must cover no-break wording, children regulating angry parents, quiet compliance instruction, simplified lizard/wizard neuro claims, broad thought-is-spam claims, and certificate achievement framing. No safety/editorial rewrites made."
+    },
+    {
+      "id": "source-artwork",
+      "status": "asset_export_pending",
+      "pages": [
+        102
+      ],
+      "detail": "Source family artwork and QR exist in the PDF. No replacement artwork generated. Exact crop export may be needed for a runtime visual slice."
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p93_b01",
+      "node_id": "world02_endgame_p093_block_01",
+      "page": 93,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "completion",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "MISSION ACCOMPLISHED!",
+        "status": "FINAL_RANK_CONFIRMED"
+      }
+    },
+    {
+      "evidence_id": "p93_b02",
+      "node_id": "world02_endgame_p093_block_02",
+      "page": 93,
+      "page_sequence": 2,
+      "type": "achievement_banner",
+      "subtype": "completion",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "MISSION ACCOMPLISHED!",
+        "status": "STATUS: LEGENDARY_ACHIEVEMENT"
+      }
+    },
+    {
+      "evidence_id": "p93_b03",
+      "node_id": "world02_endgame_p093_block_03",
+      "page": 93,
+      "page_sequence": 3,
+      "type": "system_log",
+      "subtype": "completion",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "label": "SYSTEM LOG >>",
+        "callout": "BRAVE BRAIN DETECTED\nAT MAXIMUM CAPACITY",
+        "body": "YOU HAVEN'T JUST FINISHED WORLD 02.\nYOU HAVE RE-CODED YOUR REALITY.\nYOU'VE MASTERED THE DAILY LOOP,\nSILENCED THE MENTAL SPAM,\nAND UNLOCKED THE TRUTH."
+      }
+    },
+    {
+      "evidence_id": "p93_b04",
+      "node_id": "world02_endgame_p093_block_04",
+      "page": 93,
+      "page_sequence": 4,
+      "type": "rank",
+      "subtype": "completion",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "label": "NEW RANK UNLOCKED:",
+        "rank": "NEURO-COMMANDER"
+      }
+    },
+    {
+      "evidence_id": "p93_b05",
+      "node_id": "world02_endgame_p093_block_05",
+      "page": 93,
+      "page_sequence": 5,
+      "type": "closing",
+      "subtype": "completion",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "THE GAME OF LIFE JUST GOT AN UPGRADE."
+      }
+    },
+    {
+      "evidence_id": "p94_b01",
+      "node_id": "world02_endgame_p094_block_01",
+      "page": 94,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "handover",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "ENDGAME PROTOCOL",
+        "status": "SYSTEM_HANDOVER_COMPLETE"
+      }
+    },
+    {
+      "evidence_id": "p94_b02",
+      "node_id": "world02_endgame_p094_block_02",
+      "page": 94,
+      "page_sequence": 2,
+      "type": "handover_banner",
+      "subtype": "handover",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "COMMAND\nTRANSFERRED",
+        "subheading": "YOU ARE THE MASTER OF YOUR MIND"
+      }
+    },
+    {
+      "evidence_id": "p94_b03",
+      "node_id": "world02_endgame_p094_block_03",
+      "page": 94,
+      "page_sequence": 3,
+      "type": "intro",
+      "subtype": "handover",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "THE ADVANCED TRAINING IS OVER.",
+        "callout": "YOU NOW HOLD THE GOLDEN\nCONTROLLER."
+      }
+    },
+    {
+      "evidence_id": "p94_b04",
+      "node_id": "world02_endgame_p094_block_04",
+      "page": 94,
+      "page_sequence": 4,
+      "type": "skill",
+      "subtype": "handover",
+      "speaker_id": null,
+      "source_features": {
+        "spatial_position": "top_left"
+      },
+      "copy": {
+        "marker": ">>",
+        "text": "YOU KNOW HOW\nTO AUTOMATE\nTHE BORING\nQUESTS TO SAVE\nYOUR BRAIN\nBATTERY."
+      }
+    },
+    {
+      "evidence_id": "p94_b05",
+      "node_id": "world02_endgame_p094_block_05",
+      "page": 94,
+      "page_sequence": 5,
+      "type": "skill",
+      "subtype": "handover",
+      "speaker_id": null,
+      "source_features": {
+        "spatial_position": "top_right"
+      },
+      "copy": {
+        "marker": ">>",
+        "text": "YOU KNOW HOW\nTO USE THE\nTEFLON SHIELD\nSO MEAN WORDS\nJUST SLIDE OFF\nYOU."
+      }
+    },
+    {
+      "evidence_id": "p94_b06",
+      "node_id": "world02_endgame_p094_block_06",
+      "page": 94,
+      "page_sequence": 6,
+      "type": "skill",
+      "subtype": "handover",
+      "speaker_id": null,
+      "source_features": {
+        "spatial_position": "bottom_left"
+      },
+      "copy": {
+        "marker": ">>",
+        "text": "YOU KNOW HOW\nTO SPOT A\nREALITY GLITCH\nAND NOT GET\nTRICKED BY\nBOTS."
+      }
+    },
+    {
+      "evidence_id": "p94_b07",
+      "node_id": "world02_endgame_p094_block_07",
+      "page": 94,
+      "page_sequence": 7,
+      "type": "skill",
+      "subtype": "handover",
+      "speaker_id": null,
+      "source_features": {
+        "spatial_position": "bottom_right"
+      },
+      "copy": {
+        "marker": ">>",
+        "text": "YOU KNOW THAT\nDISAPPOINTMENT\nIS JUST A SIGNAL\nFOR A PIVOT\nDANCE—\nCHANGING\nDIRECTION TO\nFIND A BETTER\nPATH."
+      }
+    },
+    {
+      "evidence_id": "p94_b08",
+      "node_id": "world02_endgame_p094_block_08",
+      "page": 94,
+      "page_sequence": 8,
+      "type": "system_log",
+      "subtype": "handover",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "label": "SYSTEM LOG >>",
+        "text": "WARNING: REAL LIFE HAS NO \"PAUSE\" BUTTON.\nBUT THAT'S OKAY. YOU DON'T NEED A BREAK ANYMORE.\nYOU HAVE THE SKILLS TO SYNC YOUR DREAM TEAM\nAND WIN ANY CO-OP MISSION."
+      }
+    },
+    {
+      "evidence_id": "p94_b09",
+      "node_id": "world02_endgame_p094_block_09",
+      "page": 94,
+      "page_sequence": 9,
+      "type": "motto",
+      "subtype": "handover",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "[ SYNC. PLAY. MASTER. ]"
+      }
+    },
+    {
+      "evidence_id": "p95_b01",
+      "node_id": "world02_endgame_p095_block_01",
+      "page": 95,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "support_squad",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "NEVER FIGHT SOLO",
+        "status": "SQUAD_LINK_UPGRADED"
+      }
+    },
+    {
+      "evidence_id": "p95_b02",
+      "node_id": "world02_endgame_p095_block_02",
+      "page": 95,
+      "page_sequence": 2,
+      "type": "callout",
+      "subtype": "support_squad",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "YOU ARE NOT ALONE!"
+      }
+    },
+    {
+      "evidence_id": "p95_b03",
+      "node_id": "world02_endgame_p095_block_03",
+      "page": 95,
+      "page_sequence": 3,
+      "type": "mission_data",
+      "subtype": "support_squad",
+      "speaker_id": null,
+      "source_features": {
+        "spatial_position": "left_column"
+      },
+      "copy": {
+        "label": "MISSION DATA >>",
+        "text": "YOU HAVE\nUNLOCKED THE\nELITE WORLD 02\nCODES, BUT\nREMEMBER YOU\nALSO HAVE BACKUP.\nTO WIN THE FINAL\nENDGAME OF LIFE,\nEVEN A NEURO-\nCOMMANDER NEEDS\nA TEAM."
+      }
+    },
+    {
+      "evidence_id": "p95_b04",
+      "node_id": "world02_endgame_p095_block_04",
+      "page": 95,
+      "page_sequence": 4,
+      "type": "system_log",
+      "subtype": "support_squad",
+      "speaker_id": null,
+      "source_features": {
+        "spatial_position": "right_column"
+      },
+      "copy": {
+        "label": "SYSTEM LOG >>",
+        "text": "THE HAPPY MAKERS\nFAMILY IS NOW YOUR\nPERSONAL SUPPORT\nSQUAD. THEY DON'T\nDISAPPEAR WHEN\nYOU CLOSE THIS\nBOOK. THEY ARE\nSYNCED AND READY\nTO BACK YOU UP."
+      }
+    },
+    {
+      "evidence_id": "p95_b05",
+      "node_id": "world02_endgame_p095_block_05",
+      "page": 95,
+      "page_sequence": 5,
+      "type": "section_heading",
+      "subtype": "support_squad",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "SQUAD MOTTOS (WORLD 02 EDITION)"
+      }
+    },
+    {
+      "evidence_id": "p95_b06",
+      "node_id": "world02_endgame_p095_block_06",
+      "page": 95,
+      "page_sequence": 6,
+      "type": "squad_motto",
+      "subtype": "support_squad",
+      "speaker_id": "nini",
+      "source_features": {},
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "\"BUCKET EMPTY? A MEGA-SQUEEZE\nIS INCOMING! SYSTEM RESET\nINITIALIZED.\""
+      }
+    },
+    {
+      "evidence_id": "p95_b07",
+      "node_id": "world02_endgame_p095_block_07",
+      "page": 95,
+      "page_sequence": 7,
+      "type": "squad_motto",
+      "subtype": "support_squad",
+      "speaker_id": "alio",
+      "source_features": {},
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "\"IS A BIG BOSS COMING? THE TRUTH\nDETECTOR SAYS YOU'VE GOT THIS!\nLET'S BUILD A SUPER-FORTRESS.\""
+      }
+    },
+    {
+      "evidence_id": "p95_b08",
+      "node_id": "world02_endgame_p095_block_08",
+      "page": 95,
+      "page_sequence": 8,
+      "type": "squad_motto",
+      "subtype": "support_squad",
+      "speaker_id": "dilo",
+      "source_features": {},
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "\"MENTAL SPAM? USE YOUR TEFLON\nSHIELD. IT'S JUST LAG. DO THE PIVOT\nDANCE AND KEEP PLAYING.\""
+      }
+    },
+    {
+      "evidence_id": "p95_b09",
+      "node_id": "world02_endgame_p095_block_09",
+      "page": 95,
+      "page_sequence": 9,
+      "type": "squad_motto",
+      "subtype": "support_squad",
+      "speaker_id": "luli",
+      "source_features": {},
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "\"DETECTED A REALITY GLITCH?\nPAUSE. CHECK THE WHITEBOARD.\nTHE LOGIC GUARDIAN IS ON IT.\""
+      }
+    },
+    {
+      "evidence_id": "p95_b10",
+      "node_id": "world02_endgame_p095_block_10",
+      "page": 95,
+      "page_sequence": 10,
+      "type": "squad_motto",
+      "subtype": "support_squad",
+      "speaker_id": "mimi",
+      "source_features": {},
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "\"FEELING SCARED OR ANGRY?\nBREATHE. WAKE UP YOUR WIZARD.\nTHE CEO OF CALM IS IN CONTROL.\""
+      }
+    },
+    {
+      "evidence_id": "p96_b01",
+      "node_id": "world02_endgame_p096_block_01",
+      "page": 96,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "emergency_codes",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "SPECIAL UNLOCK: THE\nEMERGENCY CODES",
+        "status": "[ NEW PAGE: SPECIAL CODES ]"
+      }
+    },
+    {
+      "evidence_id": "p96_b02",
+      "node_id": "world02_endgame_p096_block_02",
+      "page": 96,
+      "page_sequence": 2,
+      "type": "system_log",
+      "subtype": "emergency_codes",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "label": "SYSTEM LOG >>",
+        "text": "Hey Player! Did you know parents get glitches too?\nSometimes they are tired, hungry, or their Lizard Brain is driving the\nbus. Here are two SPECIAL codes to use when things get crazy."
+      }
+    },
+    {
+      "evidence_id": "p96_b03",
+      "node_id": "world02_endgame_p096_block_03",
+      "page": 96,
+      "page_sequence": 3,
+      "type": "emergency_code",
+      "subtype": "emergency_codes",
+      "speaker_id": null,
+      "source_features": {
+        "code_id": "reverse_uno"
+      },
+      "copy": {
+        "heading": "THE 'REVERSE UNO' CARD (FOR KIDS)",
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“CAPTAIN, YOUR LIZARD IS DRIVING!”",
+        "meaning_label": "MEANING:",
+        "meaning": "Use this code if you see Mom or Dad turning\nred and getting angry.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "It reminds them (in a safe, funny\nway) that they need to take a tactical breath! You have the\npower to help them reset!"
+      }
+    },
+    {
+      "evidence_id": "p96_b04",
+      "node_id": "world02_endgame_p096_block_04",
+      "page": 96,
+      "page_sequence": 4,
+      "type": "emergency_code",
+      "subtype": "emergency_codes",
+      "speaker_id": null,
+      "source_features": {
+        "code_id": "low_battery"
+      },
+      "copy": {
+        "heading": "THE 'LOW BATTERY' MODE (FOR PARENTS)",
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“CAPTAIN IS ON 1% BATTERY.”",
+        "meaning_label": "MEANING:",
+        "meaning": "Parents use this when they are completely out\nof energy. It means: 'I love you, but I have no energy for\ngames or arguing right now.'",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "System is shutting down. Please\nhelp the Captain by following instructions quickly and\nquietly so their system doesn't completely crash."
+      }
+    },
+    {
+      "evidence_id": "p97_b01",
+      "node_id": "world02_endgame_p097_block_01",
+      "page": 97,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "ULTIMATE LOADOUT: KEYS & FAMILY CODES",
+        "print_label": "CUT-OUT"
+      }
+    },
+    {
+      "evidence_id": "p97_b02",
+      "node_id": "world02_endgame_p097_block_02",
+      "page": 97,
+      "page_sequence": 2,
+      "type": "table_header",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "level": "LEVEL ID",
+        "code": "SECRET CODE",
+        "meaning": "MEANING / ACTION"
+      }
+    },
+    {
+      "evidence_id": "p97_b03",
+      "node_id": "world02_endgame_p097_block_03",
+      "page": 97,
+      "page_sequence": 3,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level11",
+        "level": 11,
+        "semantic_row_id": "world02_endgame_loadout_level11"
+      },
+      "copy": {
+        "level_label": "LEVEL 11",
+        "code_label": "CODE:",
+        "code": "SHIELDS ARE UP!",
+        "meaning_label": "MEANING:",
+        "meaning": "ROUTINE IS DONE. NO ARGUING. I\nAM OFF-DUTY."
+      }
+    },
+    {
+      "evidence_id": "p97_b04",
+      "node_id": "world02_endgame_p097_block_04",
+      "page": 97,
+      "page_sequence": 4,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level12",
+        "level": 12,
+        "semantic_row_id": "world02_endgame_loadout_level12"
+      },
+      "copy": {
+        "level_label": "LEVEL 12",
+        "code_label": "CODE:",
+        "code": "SYSTEM\nREBOOTING...",
+        "meaning_label": "MEANING:",
+        "meaning": "LIZARD BRAIN TAKEOVER. SLEEP\nTO CLEAN BRAIN."
+      }
+    },
+    {
+      "evidence_id": "p97_b05",
+      "node_id": "world02_endgame_p097_block_05",
+      "page": 97,
+      "page_sequence": 5,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level13",
+        "level": 13,
+        "semantic_row_id": "world02_endgame_loadout_level13"
+      },
+      "copy": {
+        "level_label": "LEVEL 13",
+        "code_label": "CODE:",
+        "code": "DOWNLOAD\nCOMPLETE",
+        "meaning_label": "MEANING:",
+        "meaning": "EYE CONTACT MADE, MESSAGE\nRECEIVED."
+      }
+    },
+    {
+      "evidence_id": "p97_b06",
+      "node_id": "world02_endgame_p097_block_06",
+      "page": 97,
+      "page_sequence": 6,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level14",
+        "level": 14,
+        "semantic_row_id": "world02_endgame_loadout_level14"
+      },
+      "copy": {
+        "level_label": "LEVEL 14",
+        "code_label": "CODE:",
+        "code": "I AM TEFLON!",
+        "meaning_label": "MEANING:",
+        "meaning": "MEAN WORDS DETECTED. LETTING\nTHEM SLIDE OFF."
+      }
+    },
+    {
+      "evidence_id": "p97_b07",
+      "node_id": "world02_endgame_p097_block_07",
+      "page": 97,
+      "page_sequence": 7,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level15",
+        "level": 15,
+        "semantic_row_id": "world02_endgame_loadout_level15"
+      },
+      "copy": {
+        "level_label": "LEVEL 15",
+        "code_label": "CODE:",
+        "code": "ALL HANDS ON DECK!",
+        "meaning_label": "MEANING:",
+        "meaning": "DANGER ZONE DETECTED. 10-\nMINUTE SPEED CLEAN!"
+      }
+    },
+    {
+      "evidence_id": "p97_b08",
+      "node_id": "world02_endgame_p097_block_08",
+      "page": 97,
+      "page_sequence": 8,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level16",
+        "level": 16,
+        "semantic_row_id": "world02_endgame_loadout_level16"
+      },
+      "copy": {
+        "level_label": "LEVEL 16",
+        "code_label": "CODE:",
+        "code": "SWAP GOGGLES",
+        "meaning_label": "MEANING:",
+        "meaning": "MISUNDERSTANDING? SWITCH\nPLACES & LOOK AGAIN."
+      }
+    },
+    {
+      "evidence_id": "p97_b09",
+      "node_id": "world02_endgame_p097_block_09",
+      "page": 97,
+      "page_sequence": 9,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level17",
+        "level": 17,
+        "semantic_row_id": "world02_endgame_loadout_level17"
+      },
+      "copy": {
+        "level_label": "LEVEL 17",
+        "code_label": "CODE:",
+        "code": "DELETE SPAM\nMESSAGE",
+        "meaning_label": "MEANING:",
+        "meaning": "FAKE, SCARY THOUGHT. SENDING\nIT TO TRASH."
+      }
+    },
+    {
+      "evidence_id": "p97_b10",
+      "node_id": "world02_endgame_p097_block_10",
+      "page": 97,
+      "page_sequence": 10,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level18",
+        "level": 18,
+        "semantic_row_id": "world02_endgame_loadout_level18"
+      },
+      "copy": {
+        "level_label": "LEVEL 18",
+        "code_label": "CODE:",
+        "code": "I NEED GREEN\nENERGY",
+        "meaning_label": "MEANING:",
+        "meaning": "SCREEN FACE DETECTED. TIME\nFOR OUTDOOR DETOX."
+      }
+    },
+    {
+      "evidence_id": "p97_b11",
+      "node_id": "world02_endgame_p097_block_11",
+      "page": 97,
+      "page_sequence": 11,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level19",
+        "level": 19,
+        "semantic_row_id": "world02_endgame_loadout_level19"
+      },
+      "copy": {
+        "level_label": "LEVEL 19",
+        "code_label": "CODE:",
+        "code": "WE ARE PIVOTING!",
+        "meaning_label": "MEANING:",
+        "meaning": "PLAN FAILED. SHAKE OUT MAD\nENERGY. NEW WAY!"
+      }
+    },
+    {
+      "evidence_id": "p97_b12",
+      "node_id": "world02_endgame_p097_block_12",
+      "page": 97,
+      "page_sequence": 12,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level20",
+        "level": 20,
+        "semantic_row_id": "world02_endgame_loadout_level20"
+      },
+      "copy": {
+        "level_label": "LEVEL 20",
+        "code_label": "CODE:",
+        "code": "PAUSE AND ZOOM",
+        "meaning_label": "MEANING:",
+        "meaning": "SHOCKING POST? USE WIZARD\nBRAIN TO FIND FAKE."
+      }
+    },
+    {
+      "evidence_id": "p97_b13",
+      "node_id": "world02_endgame_p097_block_13",
+      "page": 97,
+      "page_sequence": 13,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "bonus1",
+        "level": null,
+        "semantic_row_id": "world02_endgame_loadout_bonus1"
+      },
+      "copy": {
+        "level_label": "BONUS 1",
+        "code_label": "CODE:",
+        "code": "CAPTAIN ON 1%\nBATTERY",
+        "meaning_label": "MEANING:",
+        "meaning": "PARENT EXHAUSTED. BE KIND,\nFOLLOW RULES QUICKLY."
+      }
+    },
+    {
+      "evidence_id": "p97_b14",
+      "node_id": "world02_endgame_p097_block_14",
+      "page": 97,
+      "page_sequence": 14,
+      "type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "bonus2",
+        "level": null,
+        "semantic_row_id": "world02_endgame_loadout_bonus2"
+      },
+      "copy": {
+        "level_label": "BONUS 2",
+        "code_label": "CODE:",
+        "code": "LIZARD IS DRIVING!",
+        "meaning_label": "MEANING:",
+        "meaning": "PARENT GETTING ANGRY. NEEDS A\nDEEP BREATH!"
+      }
+    },
+    {
+      "evidence_id": "p98_b01",
+      "node_id": "world02_endgame_p098_block_01",
+      "page": 98,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "custom_family_code",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "CREATE YOUR OWN SECRET CODE"
+      }
+    },
+    {
+      "evidence_id": "p98_b02",
+      "node_id": "world02_endgame_p098_block_02",
+      "page": 98,
+      "page_sequence": 2,
+      "type": "print_instructions",
+      "subtype": "custom_family_code",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "Cut this out and hang it on your fridge\nwith the Cheat Sheet facing forward,\nkeeping your newly invented Family Code\npressed safely against the door to hide it from\nenemy spies, aliens, and mutant ants!"
+      }
+    },
+    {
+      "evidence_id": "p98_b03",
+      "node_id": "world02_endgame_p098_block_03",
+      "page": 98,
+      "page_sequence": 3,
+      "type": "blank_form",
+      "subtype": "custom_family_code",
+      "speaker_id": null,
+      "source_features": {
+        "writable_fields": [
+          {
+            "field_id": "secret_code",
+            "label": "SECRET CODE:",
+            "value": ""
+          },
+          {
+            "field_id": "meaning",
+            "label": "MEANING:",
+            "value": ""
+          },
+          {
+            "field_id": "operation",
+            "label": "INITIATE OPERATION:",
+            "value": ""
+          }
+        ]
+      },
+      "copy": {
+        "heading": "OUR SECRET FAMILY CODE"
+      }
+    },
+    {
+      "evidence_id": "p99_b01",
+      "node_id": "world02_endgame_p099_block_01",
+      "page": 99,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "ULTIMATE LOADOUT: KEYS & FAMILY CODES"
+      }
+    },
+    {
+      "evidence_id": "p99_b02",
+      "node_id": "world02_endgame_p099_block_02",
+      "page": 99,
+      "page_sequence": 2,
+      "type": "table_header",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "level": "LEVEL ID",
+        "code": "SECRET CODE",
+        "meaning": "MEANING / ACTION"
+      }
+    },
+    {
+      "evidence_id": "p99_b03",
+      "node_id": "world02_endgame_p099_block_03",
+      "page": 99,
+      "page_sequence": 3,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level11",
+        "level": 11,
+        "semantic_row_id": "world02_endgame_loadout_level11"
+      },
+      "copy": {
+        "level_label": "LEVEL 11",
+        "code_label": "CODE:",
+        "code": "SHIELDS ARE UP!",
+        "meaning_label": "MEANING:",
+        "meaning": "ROUTINE IS DONE. NO ARGUING. I\nAM OFF-DUTY."
+      }
+    },
+    {
+      "evidence_id": "p99_b04",
+      "node_id": "world02_endgame_p099_block_04",
+      "page": 99,
+      "page_sequence": 4,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level12",
+        "level": 12,
+        "semantic_row_id": "world02_endgame_loadout_level12"
+      },
+      "copy": {
+        "level_label": "LEVEL 12",
+        "code_label": "CODE:",
+        "code": "SYSTEM\nREBOOTING...",
+        "meaning_label": "MEANING:",
+        "meaning": "LIZARD BRAIN TAKEOVER. SLEEP\nTO CLEAN BRAIN."
+      }
+    },
+    {
+      "evidence_id": "p99_b05",
+      "node_id": "world02_endgame_p099_block_05",
+      "page": 99,
+      "page_sequence": 5,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level13",
+        "level": 13,
+        "semantic_row_id": "world02_endgame_loadout_level13"
+      },
+      "copy": {
+        "level_label": "LEVEL 13",
+        "code_label": "CODE:",
+        "code": "DOWNLOAD\nCOMPLETE",
+        "meaning_label": "MEANING:",
+        "meaning": "EYE CONTACT MADE, MESSAGE\nRECEIVED."
+      }
+    },
+    {
+      "evidence_id": "p99_b06",
+      "node_id": "world02_endgame_p099_block_06",
+      "page": 99,
+      "page_sequence": 6,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level14",
+        "level": 14,
+        "semantic_row_id": "world02_endgame_loadout_level14"
+      },
+      "copy": {
+        "level_label": "LEVEL 14",
+        "code_label": "CODE:",
+        "code": "I AM TEFLON!",
+        "meaning_label": "MEANING:",
+        "meaning": "MEAN WORDS DETECTED. LETTING\nTHEM SLIDE OFF."
+      }
+    },
+    {
+      "evidence_id": "p99_b07",
+      "node_id": "world02_endgame_p099_block_07",
+      "page": 99,
+      "page_sequence": 7,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level15",
+        "level": 15,
+        "semantic_row_id": "world02_endgame_loadout_level15"
+      },
+      "copy": {
+        "level_label": "LEVEL 15",
+        "code_label": "CODE:",
+        "code": "ALL HANDS ON DECK!",
+        "meaning_label": "MEANING:",
+        "meaning": "DANGER ZONE DETECTED. 10-\nMINUTE SPEED CLEAN!"
+      }
+    },
+    {
+      "evidence_id": "p99_b08",
+      "node_id": "world02_endgame_p099_block_08",
+      "page": 99,
+      "page_sequence": 8,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level16",
+        "level": 16,
+        "semantic_row_id": "world02_endgame_loadout_level16"
+      },
+      "copy": {
+        "level_label": "LEVEL 16",
+        "code_label": "CODE:",
+        "code": "SWAP GOGGLES",
+        "meaning_label": "MEANING:",
+        "meaning": "MISUNDERSTANDING? SWITCH\nPLACES & LOOK AGAIN."
+      }
+    },
+    {
+      "evidence_id": "p99_b09",
+      "node_id": "world02_endgame_p099_block_09",
+      "page": 99,
+      "page_sequence": 9,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level17",
+        "level": 17,
+        "semantic_row_id": "world02_endgame_loadout_level17"
+      },
+      "copy": {
+        "level_label": "LEVEL 17",
+        "code_label": "CODE:",
+        "code": "DELETE SPAM\nMESSAGE",
+        "meaning_label": "MEANING:",
+        "meaning": "FAKE, SCARY THOUGHT. SENDING\nIT TO TRASH."
+      }
+    },
+    {
+      "evidence_id": "p99_b10",
+      "node_id": "world02_endgame_p099_block_10",
+      "page": 99,
+      "page_sequence": 10,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level18",
+        "level": 18,
+        "semantic_row_id": "world02_endgame_loadout_level18"
+      },
+      "copy": {
+        "level_label": "LEVEL 18",
+        "code_label": "CODE:",
+        "code": "I NEED GREEN\nENERGY",
+        "meaning_label": "MEANING:",
+        "meaning": "SCREEN FACE DETECTED. TIME\nFOR OUTDOOR DETOX."
+      }
+    },
+    {
+      "evidence_id": "p99_b11",
+      "node_id": "world02_endgame_p099_block_11",
+      "page": 99,
+      "page_sequence": 11,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level19",
+        "level": 19,
+        "semantic_row_id": "world02_endgame_loadout_level19"
+      },
+      "copy": {
+        "level_label": "LEVEL 19",
+        "code_label": "CODE:",
+        "code": "WE ARE PIVOTING!",
+        "meaning_label": "MEANING:",
+        "meaning": "PLAN FAILED. SHAKE OUT MAD\nENERGY. NEW WAY!"
+      }
+    },
+    {
+      "evidence_id": "p99_b12",
+      "node_id": "world02_endgame_p099_block_12",
+      "page": 99,
+      "page_sequence": 12,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "level20",
+        "level": 20,
+        "semantic_row_id": "world02_endgame_loadout_level20"
+      },
+      "copy": {
+        "level_label": "LEVEL 20",
+        "code_label": "CODE:",
+        "code": "PAUSE AND ZOOM",
+        "meaning_label": "MEANING:",
+        "meaning": "SHOCKING POST? USE WIZARD\nBRAIN TO FIND FAKE."
+      }
+    },
+    {
+      "evidence_id": "p99_b13",
+      "node_id": "world02_endgame_p099_block_13",
+      "page": 99,
+      "page_sequence": 13,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "bonus1",
+        "level": null,
+        "semantic_row_id": "world02_endgame_loadout_bonus1"
+      },
+      "copy": {
+        "level_label": "BONUS 1",
+        "code_label": "CODE:",
+        "code": "CAPTAIN ON 1%\nBATTERY",
+        "meaning_label": "MEANING:",
+        "meaning": "PARENT EXHAUSTED. BE KIND,\nFOLLOW RULES QUICKLY."
+      }
+    },
+    {
+      "evidence_id": "p99_b14",
+      "node_id": "world02_endgame_p099_block_14",
+      "page": 99,
+      "page_sequence": 14,
+      "type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "source_features": {
+        "row_id": "bonus2",
+        "level": null,
+        "semantic_row_id": "world02_endgame_loadout_bonus2"
+      },
+      "copy": {
+        "level_label": "BONUS 2",
+        "code_label": "CODE:",
+        "code": "LIZARD IS DRIVING!",
+        "meaning_label": "MEANING:",
+        "meaning": "PARENT GETTING ANGRY. NEEDS A\nDEEP BREATH!"
+      }
+    },
+    {
+      "evidence_id": "p100_b01",
+      "node_id": "world02_endgame_p100_block_01",
+      "page": 100,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "BONUS HACK: THE 'SYSTEM FREEZE' OVERRIDE"
+      }
+    },
+    {
+      "evidence_id": "p100_b02",
+      "node_id": "world02_endgame_p100_block_02",
+      "page": 100,
+      "page_sequence": 2,
+      "type": "glitch",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "THE GLITCH:",
+        "text": "TWO LIZARDS ARE IN THE SAME ROOM, YELLING. BOTH\nWIZARDS ARE TOTALLY OFFLINE.\n\nA MASSIVE FAMILY BOSS FIGHT IS STARTING."
+      }
+    },
+    {
+      "evidence_id": "p100_b03",
+      "node_id": "world02_endgame_p100_block_03",
+      "page": 100,
+      "page_sequence": 3,
+      "type": "hack",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "THE HACK:",
+        "text": "BEFORE THE GAME COMPLETELY CRASHES, YOUR FAMILY\nNEEDS TO AGREE ON A COMPLETELY ABSURD SAFE WORD.\n\nFOR EXAMPLE: \"FLYING PINK BROCCOLI!\"\n\nTHE MOMENT ANYONE SHOUTS IT, EVERYONE MUST\nINSTANTLY INITIATE THE SYSTEM FREEZE PROTOCOL :"
+      }
+    },
+    {
+      "evidence_id": "p100_b04",
+      "node_id": "world02_endgame_p100_block_04",
+      "page": 100,
+      "page_sequence": 4,
+      "type": "instruction_step",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "source_features": {
+        "step": 1
+      },
+      "copy": {
+        "heading": "STEP 1: FREEZE.",
+        "text": "EVERYONE STOPS MOVING AND TALKING FOR 3 FULL SECONDS."
+      }
+    },
+    {
+      "evidence_id": "p100_b05",
+      "node_id": "world02_endgame_p100_block_05",
+      "page": 100,
+      "page_sequence": 5,
+      "type": "instruction_step",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "source_features": {
+        "step": 2
+      },
+      "copy": {
+        "heading": "STEP 2: THE REBOOT.",
+        "text": "THE PERSON WHO SHOUTED THE CODE MUST IMMEDIATELY\nASK A COMPLETELY ILLOGICAL MATH QUESTION.\n\nEXAMPLE: \"QUICK! WHAT IS 5 PLUS A BANANA?!\""
+      }
+    },
+    {
+      "evidence_id": "p100_b06",
+      "node_id": "world02_endgame_p100_block_06",
+      "page": 100,
+      "page_sequence": 6,
+      "type": "instruction_step",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "source_features": {
+        "step": 3
+      },
+      "copy": {
+        "heading": "STEP 3: ANSWER.",
+        "text": "EVERYONE HAS TO TRY AND ANSWER IT."
+      }
+    },
+    {
+      "evidence_id": "p100_b07",
+      "node_id": "world02_endgame_p100_block_07",
+      "page": 100,
+      "page_sequence": 7,
+      "type": "explanation",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "WHY IT WORKS (THE NEURO-MAGIC):",
+        "text": "Your Lizard brain only knows how to FIGHT OR RUN.\nIt has ZERO SENSE OF HUMOR and is terrible at math.\nWhen you ask an absurd, funny question,\nyour brain is forced to immediately\nWAKE UP THE LOGICAL WIZARD to process the nonsense.\nThe argument LOSES ITS POWER, you usually end up laughing,\nand you GET YOUR CONTROLLER BACK!"
+      }
+    },
+    {
+      "evidence_id": "p101_b01",
+      "node_id": "world02_endgame_p101_block_01",
+      "page": 101,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "BONUS HACK: THE 'MENTAL SWIPE' MANEUVER"
+      }
+    },
+    {
+      "evidence_id": "p101_b02",
+      "node_id": "world02_endgame_p101_block_02",
+      "page": 101,
+      "page_sequence": 2,
+      "type": "glitch",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "THE GLITCH:",
+        "text": "YOU ARE TRYING TO SLEEP OR FOCUS, BUT YOUR BRAIN\nKEEPS SENDING YOU SCARY \"WHAT IF?\" THOUGHTS.\n\nTHE ENERGY VAMPIRE IS SPAMMING YOUR SYSTEM WITH\nJUNK MAIL."
+      }
+    },
+    {
+      "evidence_id": "p101_b03",
+      "node_id": "world02_endgame_p101_block_03",
+      "page": 101,
+      "page_sequence": 3,
+      "type": "hack",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "THE HACK:",
+        "text": "YOU NEED TO TREAT THAT BAD THOUGHT EXACTLY LIKE\nAN ANNOYING POP-UP NOTIFICATION ON A\nSMARTPHONE SCREEN."
+      }
+    },
+    {
+      "evidence_id": "p101_b04",
+      "node_id": "world02_endgame_p101_block_04",
+      "page": 101,
+      "page_sequence": 4,
+      "type": "instruction_step",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "source_features": {
+        "step": 1
+      },
+      "copy": {
+        "heading": "STEP 1: SPOT THE SPAM.",
+        "text": "CATCH THE THOUGHT AND TELL YOURSELF, \"WAIT, THIS\nISN'T A FACT. THIS IS JUST A SPAM NOTIFICATION.\""
+      }
+    },
+    {
+      "evidence_id": "p101_b05",
+      "node_id": "world02_endgame_p101_block_05",
+      "page": 101,
+      "page_sequence": 5,
+      "type": "instruction_step",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "source_features": {
+        "step": 2
+      },
+      "copy": {
+        "heading": "STEP 2: THE SWIPE.",
+        "text": "LIFT YOUR ACTUAL HAND IN THE AIR AND PHYSICALLY\n\"SWIPE LEFT\" TO PUSH THAT INVISIBLE POP-UP OFF YOUR\nSCREEN."
+      }
+    },
+    {
+      "evidence_id": "p101_b06",
+      "node_id": "world02_endgame_p101_block_06",
+      "page": 101,
+      "page_sequence": 6,
+      "type": "instruction_step",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "source_features": {
+        "step": 3
+      },
+      "copy": {
+        "heading": "STEP 3: DELETE.",
+        "text": "SAY \"DELETE\" OUT LOUD (OR IN YOUR HEAD) AND\nIMMEDIATELY SHIFT YOUR FOCUS BACK TO WHAT YOU WERE\nDOING."
+      }
+    },
+    {
+      "evidence_id": "p101_b07",
+      "node_id": "world02_endgame_p101_block_07",
+      "page": 101,
+      "page_sequence": 7,
+      "type": "explanation",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "WHY IT WORKS (THE NEURO-MAGIC):",
+        "text": "Thoughts are not facts. They are just random system alerts. When\nyou physically \"swipe\" them away, you are training your brain to\nrealize that YOU ARE THE CAPTAIN. You don't have to open,\nread, or argue with every single pop-up message your brain sends\nyou. JUST SWIPE, DELETE, AND KEEP PLAYING!"
+      }
+    },
+    {
+      "evidence_id": "p102_b01",
+      "node_id": "world02_endgame_p102_block_01",
+      "page": 102,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "BONUS LEVEL UNLOCKED!",
+        "status": "ACCESS_THE_HUB_v.2.0"
+      }
+    },
+    {
+      "evidence_id": "p102_b02",
+      "node_id": "world02_endgame_p102_block_02",
+      "page": 102,
+      "page_sequence": 2,
+      "type": "artwork",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "source_features": {
+        "asset_id": "world02_endgame_family_group_p102",
+        "description": "Five grayscale Happy Makers figures, in the printed source pixels; shirts read RISE, SHINE, EVOLVE, REPEAT, !. Exact asset crop not yet exported; no generated replacement.",
+        "source_object": {
+          "pdf_xref": 1890,
+          "bbox_points": [
+            128.16477966308594,
+            92.6485595703125,
+            312.664794921875,
+            369.3985900878906
+          ],
+          "width_pixels": 410,
+          "height_pixels": 615,
+          "has_mask": true,
+          "pixmap_digest_md5": "a97c0329adf156919160789a16528523",
+          "export_status": "not_exported_or_runtime_approved"
+        }
+      },
+      "copy": {}
+    },
+    {
+      "evidence_id": "p102_b03",
+      "node_id": "world02_endgame_p102_block_03",
+      "page": 102,
+      "page_sequence": 3,
+      "type": "motto",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "RISE. SHINE. EVOLVE. REPEAT!"
+      }
+    },
+    {
+      "evidence_id": "p102_b04",
+      "node_id": "world02_endgame_p102_block_04",
+      "page": 102,
+      "page_sequence": 4,
+      "type": "intro",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "You have mastered the advanced skills.\nYou have synced your Dream Team.\nNow, welcome back to the Rise Shine Evolve Learning Hub."
+      }
+    },
+    {
+      "evidence_id": "p102_b05",
+      "node_id": "world02_endgame_p102_block_05",
+      "page": 102,
+      "page_sequence": 5,
+      "type": "tools_intro",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "TWO TINY TOOLS FOR YOUR FAMILY:",
+        "text": "ONE TO SLOW DOWN AND SOFTEN,\nONE TO WAKE UP AND BRIGHTEN."
+      }
+    },
+    {
+      "evidence_id": "p102_b06",
+      "node_id": "world02_endgame_p102_block_06",
+      "page": 102,
+      "page_sequence": 6,
+      "type": "tool_description",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "source_features": {
+        "tool_id": "calm_wheel"
+      },
+      "copy": {
+        "heading": "THE CALM WHEEL",
+        "text": "A ONE-CLICK, ONE-MINUTE RESET FOR THE WHOLE FAMILY.\n\nUSE IT WHEN EVERYONE NEEDS A SMALL PAUSE, A SOFT LANDING\nOR A CALMER BODY AND BRAIN."
+      }
+    },
+    {
+      "evidence_id": "p102_b07",
+      "node_id": "world02_endgame_p102_block_07",
+      "page": 102,
+      "page_sequence": 7,
+      "type": "tool_description",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "source_features": {
+        "tool_id": "energy_wheel"
+      },
+      "copy": {
+        "heading": "THE ENERGY WHEEL",
+        "text": "ONE-MINUTE BOOSTS FOR DAYS THAT FEEL A LITTLE SLOW.\n\nUSE IT WHEN EVERYONE NEEDS GENTLE MOVEMENT, A BRIGHTER MOOD\nOR A QUICK WAKE-UP SPARK - WITHOUT OVERWHELMING ANYONE."
+      }
+    },
+    {
+      "evidence_id": "p102_b08",
+      "node_id": "world02_endgame_p102_block_08",
+      "page": 102,
+      "page_sequence": 8,
+      "type": "qr_link",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "source_features": {
+        "target_provenance": "Decoded from canonical page QR with cv2.QRCodeDetector at 8x rendering; no PDF link annotation exists.",
+        "source_object": {
+          "pdf_xref": 1889,
+          "bbox_points": [
+            200.03741455078125,
+            565.0840454101562,
+            242.78741455078125,
+            607.8340454101562
+          ],
+          "width_pixels": 123,
+          "height_pixels": 123,
+          "has_mask": false,
+          "pixmap_digest_md5": "11d62de9d38c4712e0dda0fcee35bdd8",
+          "export_status": "not_exported_or_runtime_approved"
+        }
+      },
+      "copy": {
+        "label": "SCAN TO WARP TO THE HUB",
+        "target": "https://rise-shine-evolve-learning-hub.com/"
+      }
+    },
+    {
+      "evidence_id": "p103_b01",
+      "node_id": "world02_endgame_p103_block_01",
+      "page": 103,
+      "page_sequence": 1,
+      "type": "page_header",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "CERTIFICATE OF COMPLETION",
+        "subheading": "WORLD 02: ADVANCED TRAINING"
+      }
+    },
+    {
+      "evidence_id": "p103_b02",
+      "node_id": "world02_endgame_p103_block_02",
+      "page": 103,
+      "page_sequence": 2,
+      "type": "certificate_status",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "OFFICIAL\nCERTIFIED\nSQUAD_OK"
+      }
+    },
+    {
+      "evidence_id": "p103_b03",
+      "node_id": "world02_endgame_p103_block_03",
+      "page": 103,
+      "page_sequence": 3,
+      "type": "blank_form",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {
+        "writable_fields": [
+          {
+            "field_id": "player_name",
+            "label": "player name",
+            "value": ""
+          }
+        ]
+      },
+      "copy": {
+        "heading": "THIS IS TO CERTIFY THAT"
+      }
+    },
+    {
+      "evidence_id": "p103_b04",
+      "node_id": "world02_endgame_p103_block_04",
+      "page": 103,
+      "page_sequence": 4,
+      "type": "rank",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "label": "HAS OFFICIALLY ASCENDED TO THE RANK OF",
+        "rank": "[ NEURO-COMMANDER ]"
+      }
+    },
+    {
+      "evidence_id": "p103_b05",
+      "node_id": "world02_endgame_p103_block_05",
+      "page": 103,
+      "page_sequence": 5,
+      "type": "section_heading",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "MISSION LOG >> ACHIEVEMENTS UNLOCKED:"
+      }
+    },
+    {
+      "evidence_id": "p103_b06",
+      "node_id": "world02_endgame_p103_block_06",
+      "page": 103,
+      "page_sequence": 6,
+      "type": "achievement",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {
+        "achievement_id": "daily_loop"
+      },
+      "copy": {
+        "text": "MASTER OF THE DAILY LOOP: FOR AUTOMATING BORING QUESTS TO SAVE BRAIN\nBATTERY."
+      }
+    },
+    {
+      "evidence_id": "p103_b07",
+      "node_id": "world02_endgame_p103_block_07",
+      "page": 103,
+      "page_sequence": 7,
+      "type": "achievement",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {
+        "achievement_id": "reality_glitch"
+      },
+      "copy": {
+        "text": "REALITY GLITCH EXPERT: FOR USING THE TRUTH DETECTOR TO SPOT FAKES."
+      }
+    },
+    {
+      "evidence_id": "p103_b08",
+      "node_id": "world02_endgame_p103_block_08",
+      "page": 103,
+      "page_sequence": 8,
+      "type": "achievement",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {
+        "achievement_id": "teflon_shield"
+      },
+      "copy": {
+        "text": "TEFLON SHIELD OPERATOR: FOR LETTING \"MENTAL SPAM\" SLIDE AWAY\nEFFORTLESSLY."
+      }
+    },
+    {
+      "evidence_id": "p103_b09",
+      "node_id": "world02_endgame_p103_block_09",
+      "page": 103,
+      "page_sequence": 9,
+      "type": "achievement",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {
+        "achievement_id": "pivot_dance"
+      },
+      "copy": {
+        "text": "PIVOT DANCE PRO: FOR TURNING DISAPPOINTMENTS INTO NEW, BETTER PATHS."
+      }
+    },
+    {
+      "evidence_id": "p103_b10",
+      "node_id": "world02_endgame_p103_block_10",
+      "page": 103,
+      "page_sequence": 10,
+      "type": "achievement",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {
+        "achievement_id": "squad_sync"
+      },
+      "copy": {
+        "text": "SQUAD SYNC SPECIALIST: FOR MASTERING THE ART OF THE FAMILY DREAM TEAM."
+      }
+    },
+    {
+      "evidence_id": "p103_b11",
+      "node_id": "world02_endgame_p103_block_11",
+      "page": 103,
+      "page_sequence": 11,
+      "type": "oath",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "heading": "NEURO-COMMANDER OATH:",
+        "text": "\"I PROMISE TO USE MY GOLDEN CONTROLLER FOR GOOD.\nI WILL WAKE UP MY WIZARD WHEN MY LIZARD GOES WILD,\nAND I WILL ALWAYS REMEMBER THAT I AM THE ARCHITECT OF MY OWN MINDSET.\""
+      }
+    },
+    {
+      "evidence_id": "p103_b12",
+      "node_id": "world02_endgame_p103_block_12",
+      "page": 103,
+      "page_sequence": 12,
+      "type": "motto",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "[ SYNC. PLAY. MASTER. ]"
+      }
+    },
+    {
+      "evidence_id": "p103_b13",
+      "node_id": "world02_endgame_p103_block_13",
+      "page": 103,
+      "page_sequence": 13,
+      "type": "approval",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "SQUAD APPROVAL: MIMI, DILO, NINI, LULI, ALIO"
+      }
+    },
+    {
+      "evidence_id": "p104_b01",
+      "node_id": "world02_endgame_p104_block_01",
+      "page": 104,
+      "page_sequence": 1,
+      "type": "closing",
+      "subtype": "closing",
+      "speaker_id": null,
+      "source_features": {},
+      "copy": {
+        "text": "THE CODES ARE IN YOUR HEAD.\n\nTHE CONTROLLER IS IN YOUR HANDS.\n\nGO WIN THE DAY, NEURO-COMMANDER."
+      }
+    }
+  ]
+}

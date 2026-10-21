@@ -16,6 +16,10 @@ on:
       - 'scripts/test-world02-level18.py'
       - 'scripts/test-world02-level19.py'
       - 'scripts/test-world02-level20.py'
+      - 'scripts/build-world02-endgame.py'
+      - 'scripts/validate-world02-endgame.py'
+      - 'scripts/test-world02-endgame.py'
+      - 'orchestration/content-sources/world02-endgame-page-evidence.json'
       - 'orchestration/content-packs/world02/**'
       - 'orchestration/content-sources/world02-level11-page-evidence.json'
       - 'orchestration/content-sources/world02-level12-page-evidence.json'
@@ -58,6 +62,10 @@ on:
       - 'scripts/test-world02-level18.py'
       - 'scripts/test-world02-level19.py'
       - 'scripts/test-world02-level20.py'
+      - 'scripts/build-world02-endgame.py'
+      - 'scripts/validate-world02-endgame.py'
+      - 'scripts/test-world02-endgame.py'
+      - 'orchestration/content-sources/world02-endgame-page-evidence.json'
       - 'orchestration/content-packs/world02/**'
       - 'orchestration/content-sources/world02-level11-page-evidence.json'
       - 'orchestration/content-sources/world02-level12-page-evidence.json'
@@ -170,3 +178,11 @@ jobs:
         run: python scripts/test-world02-level19.py
       - name: Run World 02 Level 20 source-lock regressions
         run: python scripts/test-world02-level20.py
+      - name: Rebuild World 02 endgame from locked visual evidence
+        run: |
+          python scripts/build-world02-endgame.py
+          git diff --exit-code -- orchestration/content-packs/world02/endgame.en.candidate.json
+      - name: Validate World 02 endgame source graph
+        run: python scripts/validate-world02-endgame.py
+      - name: Run World 02 endgame source-lock regressions
+        run: python scripts/test-world02-endgame.py
