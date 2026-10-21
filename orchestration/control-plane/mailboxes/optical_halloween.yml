@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-21
-status: CREATIVE_COMPETITION_V05_OWNER_SELECTION
+status: MODERN_BALANCED_V06_OWNER_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Owner-requested creative contest complete: 15 distinct candidates, three per missing motif, displayed in conversation. Recovered actual earlier rich painter #21. Independent art/op-art/coloring/finish agents reviewed all trios; edited BoyB ambiguous shoe reflection removed."
+milestone: "Four owner-selected scenes refined into modern optical coloring art; two carrier sources fused. Three new queen concepts generated and strengthened after owner corrected over-lightening. Final QueenA gray floor ghosts cleaned and verified. Seven final candidates displayed; all earlier versions preserved."
 blocker: null
-owner_gate: "Owner aesthetic selection among15 V05 candidates. Recommendations: PainterA, QueenB, editedBoyB, WaiterC, CarrierC; alternatives and caveats preserved. No approved20 or print/release claim."
+owner_gate: "Owner aesthetic response to revised boy/painter/waiter/fused carrier and three queen alternatives. Independent jury recommends QueenA, then C, then B. No automatic approved20 or print/release claim."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Owner selects among the15 displayed competition candidates or specifies a local refinement. Preserve actual recovered painter/waiter, approved15 and every strong earlier version. No unsolicited broad regeneration or factory work."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_CREATIVE_COMPETITION_V05.md"
+next_safe_task: "Await owner visual selection/refinement on the seven concrete V06 images. Keep black essential to optical rhythm, reflection and3D while avoiding entire black backgrounds/stair flights; no fixed black/white percentage. Preserve modern interiors, selected heroes and original files. No unsolicited restyle or factory work."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_MODERN_OPTICAL_COLORING_V06.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Earlier anatomy-only PASS was artistically insufficient. Expanded board independently reviewed substantive optical improvement and final local repairs;5 strong current candidates, not objective10/10 or print certification."
+closing_pass_qa: "V06 actual-image review: coherent anatomy, two carrier grips, source-corresponding waiter cloche, connected exterior queen candles; QueenA floor ghosts removed and verified. Candidate art proofs only, small headband margin and native resolution not print-certified."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -48,3 +48,13 @@ creative_competition_v05:
   - "QueenB strongest new background and external-candle wax continuity; PainterA restores rich salon; editedBoyB strongest spatial invention; WaiterC strongest convex-cloche camera; CarrierC strongest forced perspective."
   - "Nuances: PainterB central canvas unfinished; QueenC repeats mirror-floor formula; BoyA no clearly legible reflection; CarrierB mixed gravity/table remains upright; CarrierC mirrored partial hand can be ambiguous at thumbnail."
   - "Native RGB art proofs, not print masters. No PNG binaries uploaded to GitHub; images displayed and automatically persisted through ImageGen."
+
+modern_balanced_v06:
+  - "Latest owner correction is authoritative: BLACK is necessary for optics/illusion/reflection; avoid uninterrupted whole black stair flights/backgrounds. Prior numerical lightening targets withdrawn."
+  - "Five supplied uploads inspected directly, not re-downloaded; four scenes because carrier supplied twice. Painter is selectedV05B ceiling-checker composition, notA."
+  - "Six specialists: modernartdirection, coloring/BrandGuardian, sculpturalcouture, abstraction/op-art, architecturalart, Reality/Finish; root ImagePromptEngineer and sole writer."
+  - "Four modern revisions plus3queen candidates. Kept balanced painter; targeted black undercuts/bands added to boy/waiter/carrier and3queens. No pale outline-only handoff."
+  - "Queen jury A>C>B. B is a triangular wax installation, not certified Penrose; C lowertrain is physical wax belowfloor, not reflection."
+  - "FinalQueenA exec-ab357472-4b08-4a4a-85a2-a72963f32710.png; local gray-floor cleanup independentlyverified, boundedmirror preserved."
+  - "All15 approved original hashes and all5 supplied upload hashes unchanged; all strong earlier candidates retained."
+  - "Seven final nativeRGB proofs displayed; exactprompts, edits, refs, hashes and QA in checkpoint. No PNGbinaryuploadtoGitHub, no printmaster/factory claim."
