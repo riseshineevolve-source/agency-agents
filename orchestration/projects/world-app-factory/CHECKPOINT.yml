@@ -1,7 +1,7 @@
 version: 1
 lane: world_app_factory
 updated: 2026-10-21
-status: SOURCE_VERIFIED__LOCAL_RUNTIME_VERIFIED__RUNTIME_PUSH_APPROVAL_GATE
+status: SOURCE_VERIFIED__RUNTIME_DRAFT_PR12__HOSTED_CI_STARTUP_FAILURE
 authority:
   one_writer: World_01_World_02_and_shared_runtime_consolidated_by_owner
   control_plane: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
@@ -37,8 +37,8 @@ runtime:
   local_branch: codex/world-factory-recovery-20261021
   local_commit: 8eae6fb9feecdf93381fd234eb8bea92dab6a136
   clean_worktree: true
-  pushed: false
-  new_pull_request: null
+  pushed: true
+  new_pull_request: https://github.com/riseshineevolve-source/spark-joy-fam/pull/12
   registered_missions: 20
   restored_source_headings: 40
   restored_exercise_start_label: true
@@ -61,22 +61,27 @@ verification:
     local_executable_steps_passed: 17
     record: orchestration/projects/world-app-factory/2026-10-21-local-verification.json
   world01_private_pdf_dependent_tests: six_skipped_in_scratch_environment
-  new_head_hosted_ci: not_established
+  new_head_hosted_ci: failed_before_any_steps_cause_unverified
+  runtime_hosted_run: 39562430663
+  runtime_hosted_job: 119096614977
   new_runtime_android_build_and_device: not_run
 approval_block:
+  status: resolved_by_explicit_owner_authorization_2026_10_21
   action: push_local_runtime_branch_to_riseshineevolve-source_spark-joy-fam
   source: automatic_approval_review
   reason: unverified_external_destination_and_no_explicit_destination_disclosure_authorization
   bypass_attempted: false
-  concrete_result: local_tested_commit_and_reviewable_branch_preserved_on_owner_device
+  concrete_result: exact_commit_pushed_and_draft_PR12_created
 editorial:
   new_level19_20_exceptions: 7
   decision_packet: orchestration/projects/world-app-factory/2026-10-21-level19-20-editorial-release-review.md
   proposed_overrides: unapproved_and_not_applied
   rest_of_world02_and_endgame_review: remains_required_before_public_release
   world01_code_authority: resolved_by_owner_2026_09_30_mission_codes_7_to_10
-next_safe_task: After explicit runtime destination authorization, push the preserved
-  tested commit and create a draft PR stacked on the existing Level18 branch; verify
-  exact-head hosted Android checks. A later bounded endgame runtime slice must consume
-  the source-only graph and exact source art. Keep public release, editorial/device/legal/signing/store
-  gates open and Gentle Steps independent.
+next_safe_task: >-
+  Inspect or resolve hosted runner startup failure before claiming Android CI
+  PASS. Run39562430663 at exact8eae6fb failed without executing any steps;
+  available metadata does not prove the underlying cause. Preserve the tested
+  draft PR12, World01 public entry and hidden World02. Endgame remains a later
+  bounded source-driven runtime slice. Editorial/device/legal/signing/store
+  and public release gates remain open; Gentle Steps stays independent.
