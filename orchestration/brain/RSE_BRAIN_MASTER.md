@@ -7,6 +7,11 @@ Primary durable repo: `riseshineevolve-source/agency-agents`
 
 ## Latest portfolio reconciliation — 2026-10-21
 
+Owner model-budget instruction: all RSE chats/desks consume
+`orchestration/control-plane/RSE_MODEL_ROUTING_V1.yml` at startup/next checkpoint.
+The per-lane selection and central broadcast are recorded; actual client model
+changes require observed runtime controls and are not implied by this repo.
+
 Current delta: `orchestration/brain/checkpoints/2026-10-21-central-portfolio-takeover.md`.
 Current routing: `orchestration/control-plane/mailboxes/central_control_tower.yml`.
 These supersede dated implementation/gate observations below where they conflict;

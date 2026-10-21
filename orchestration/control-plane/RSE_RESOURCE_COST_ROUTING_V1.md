@@ -3,6 +3,15 @@
 Status: CANONICAL OPERATING POLICY
 Date: 2026-10-07
 
+## Current model and weekly-usage override — 2026-10-21
+
+Owner-requested routing is canonical in `RSE_MODEL_ROUTING_V1.yml`; human matrix
+in `RSE_MODEL_USAGE_POLICY_2026-10-21.md`. All lanes/desks read at startup and
+next meaningful checkpoint. Standard speed, Luna for bounded routine work,
+Sol6.1 for production judgment, Astra only for a concrete hard exception.
+Repository policy does not change open-chat runtime settings. Do not use up
+included capacity merely because it exists; optimize verified completed work.
+
 ## Goal
 
 Maximize published-product throughput while minimizing:

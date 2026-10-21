@@ -13,6 +13,8 @@ Before the legacy Step 1 read order, every fresh RSE execution chat must read:
 2. `orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md`
 3. `orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml`
 4. its registered lane mailbox under `orchestration/control-plane/mailboxes/`
+5. `orchestration/control-plane/RSE_MODEL_ROUTING_V1.yml` and its own lane profile;
+   acknowledge observed runtime settings at the next meaningful checkpoint.
 
 Execution ownership is now one-writer-per-lane. The Central Control Tower is read/sync-only on delegated product/marketing lanes and must not duplicate their source work.
 

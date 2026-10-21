@@ -1,5 +1,16 @@
 # RSE Brain Changelog
 
+## 2026-10-21 — owner-requested model routing for weekly allowance
+
+- Added concrete model/reasoning routes for all eleven core chats and five
+  later streams/desks; Standard speed, routine Luna, production Sol6.1,
+  stronger models only for bounded evidence-based exceptions.
+- Linked policy from registry, autonomy, opening prompts, recovery and cost
+  routing; published a sixteen-recipient notice in Central's own mailbox.
+- Runtime switch/remaining quota and recipient acknowledgment are unverified.
+  No product source, other lane mailbox, client setting or paid service changed.
+- Sources checked: official OpenAI Models, Model selection and Pricing pages.
+
 ## 2026-10-21 — central portfolio takeover and reporting repair
 
 - Reconciled eleven core chats plus five separately registered later streams/desks.

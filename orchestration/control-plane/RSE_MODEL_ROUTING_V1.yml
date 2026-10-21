@@ -1,0 +1,162 @@
+version: 1
+updated: 2026-10-21
+policy_id: rse-weekly-usage-2026-10-21-v1
+status: OWNER_REQUESTED_REPO_POLICY__RUNTIME_APPLICATION_UNVERIFIED
+authority: owner_request_to_central_control_tower_2026_10_21
+purpose: maximize_completed_verified_work_per_shared_Work_Codex_weekly_allowance
+human_guide: orchestration/control-plane/RSE_MODEL_USAGE_POLICY_2026-10-21.md
+
+runtime_boundary:
+  repository_changes_chat_model: false
+  current_root_model_changed_by_this_policy: false
+  other_open_chat_models_changed_by_this_policy: false
+  model_switch_requires_exposed_runtime_control_or_client_selection: true
+  codex_new_run_selection: explicit_model_argument_when_available
+  account_model_availability: verify_in_client_do_not_assume
+  remaining_weekly_allowance: UNKNOWN_NOT_READ
+  api_billing_is_separate_from_subscription: true
+  no_paid_fallback_or_credit_purchase: true
+
+defaults:
+  speed: standard
+  fast: false
+  ultrafast: false
+  max_or_ultra_reasoning: false
+  deterministic_before_llm: true
+  delegation: only_when_user_or_applicable_instructions_explicitly_request_it
+  duplicate_full_context_workers: false
+  full_reaudit_without_changed_source: false
+  rerender_unchanged_pages: false
+
+profiles:
+  economy:
+    model: gpt-6-luna
+    reasoning_effort: low
+    use: fact_extraction_status_links_metadata_and_small_well_scoped_edits
+  economy_medium:
+    model: gpt-6-luna
+    reasoning_effort: medium
+    use: bounded_research_or_adaptation_of_locked_copy_with_verifiable_facts
+  coordinator:
+    model: gpt-6.1-sol
+    reasoning_effort: low
+    use: central_dependency_routing_and_checkpoint_decisions
+  production:
+    model: gpt-6.1-sol
+    reasoning_effort: medium
+    use: code_integration_editorial_or_visual_judgment_and_multi_step_repairs
+  deep_review:
+    model: gpt-6.1-sol
+    reasoning_effort: high
+    use: bounded_changed_family_source_contradiction_or_security_review
+  exception:
+    model: gpt-6-astra
+    reasoning_effort: medium
+    use: hard_unresolved_cross_system_problem_after_evidence_based_Sol_attempt
+
+fallbacks:
+  gpt-6.1-sol: gpt-6-sol
+  missing_model: record_unavailable_use_available_suitable_model_without_claiming_switch
+  no_switch_control: continue_authorized_work_efficiently_record_recommendation_only
+
+escalation:
+  order: [deterministic_tools, lane_default, deep_review, exception]
+  missing_source_or_offline_tool: fix_evidence_or_connection_do_not_escalate_model
+  trigger: concrete_failed_assertion_or_unresolved_reasoning_problem
+  max_same_hypothesis_attempts: 2
+  no_unchanged_blind_retry: true
+  return_to_lane_default_after_bounded_exception: true
+  preserve_quality_and_existing_owner_gates: true
+
+lane_routes:
+  central_control_tower:
+    default_profile: coordinator
+    routine_profile: economy
+    complex_profile: production
+  detective_book_factory:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+  optical_animals:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+  gentle_steps:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+  polish_localization:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+    final_language_judgment_minimum: production
+  world_app_factory:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+  happy_me:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+  senior_mind_bloom:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+    mind_bloom_feature_freeze: preserved_no_work_manufactured_to_use_allowance
+  unstoppable:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+    final_language_judgment_minimum: production
+  opinie:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+    remote_scope: sanitized_synthetic_only
+  marketing_autopilot:
+    default_profile: economy_medium
+    routine_profile: economy
+    complex_profile: production
+    master_copy_and_brand_judgment: production
+  optical_halloween:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+  website_factory:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+  ai_discovery:
+    default_profile: economy_medium
+    routine_profile: economy
+    complex_profile: production
+  build_desk:
+    default_profile: production
+    routine_profile: economy
+    complex_profile: deep_review
+    task_may_use_assigned_lane_profile: true
+  quick_desk:
+    default_profile: economy
+    routine_profile: economy
+    complex_profile: coordinator
+
+rollout:
+  channel: central_mailbox_and_mandatory_control_plane_read
+  recipients: all_lane_routes
+  delivery_state: PUBLISHED_IN_REPO__ACKS_PENDING
+  recipient_action: read_at_start_or_next_meaningful_checkpoint_apply_if_runtime_allows
+  acknowledgment_location: own_lane_mailbox_or_own_checkpoint_only
+  acknowledgment_fields:
+    - model_policy_ack
+    - recommended_profile
+    - runtime_model_observed
+    - runtime_reasoning_observed
+    - runtime_speed_observed
+    - application_status
+  accepted_application_states: [APPLIED_AND_OBSERVED, RECOMMENDATION_ONLY, MODEL_UNAVAILABLE]
+
+sources_checked: 2026-10-21
+official_sources:
+  - https://learn.chatgpt.com/docs/models
+  - https://learn.chatgpt.com/docs/model-selection
+  - https://learn.chatgpt.com/docs/pricing

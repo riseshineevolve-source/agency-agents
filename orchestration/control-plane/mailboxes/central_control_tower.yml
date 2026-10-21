@@ -108,3 +108,42 @@ next_safe_task: >-
   24/7 operation; do not repeat green product work. Implementation stays in
   existing lanes. No current cross-portfolio owner decision is required.
 checkpoint_reference: orchestration/brain/checkpoints/2026-10-21-central-portfolio-takeover.md
+policy_notifications:
+  - id: rse-weekly-usage-2026-10-21-v1
+    updated: 2026-10-21
+    authority: owner_explicit_model_selection_and_cross_chat_notification_request
+    subject: Shared_Work_Codex_weekly_usage_model_routing
+    routing: orchestration/control-plane/RSE_MODEL_ROUTING_V1.yml
+    guide: orchestration/control-plane/RSE_MODEL_USAGE_POLICY_2026-10-21.md
+    recipients:
+      - central_control_tower
+      - detective_book_factory
+      - optical_animals
+      - gentle_steps
+      - polish_localization
+      - world_app_factory
+      - happy_me
+      - senior_mind_bloom
+      - unstoppable
+      - opinie
+      - marketing_autopilot
+      - optical_halloween
+      - website_factory
+      - ai_discovery
+      - build_desk
+      - quick_desk
+    message: >-
+      Owner requests efficient models across all RSE work. Read lane_routes in
+      policy at startup/next meaningful checkpoint. Standard speed; Luna for
+      scoped routine tasks; Sol6.1 for production/coordination/editorial judgment;
+      Sol High then bounded Astra exception only for concrete hard failures.
+      No duplicate audits/full-context workers, no Fast/Ultra default. Preserve
+      existing quality/source/writer/privacy/release gates. Do not restart green
+      work just to change model. Apply only through real runtime controls.
+    receipt_state: PUBLISHED_IN_REPO__RECIPIENT_READ_AND_APPLICATION_UNVERIFIED
+    ack_request: >-
+      Each writer records model_policy_ack plus observed runtime model/reasoning/
+      speed in OWN mailbox/checkpoint. If control/observation absent, record
+      RECOMMENDATION_ONLY or UNKNOWN; do not claim switched. Central does not
+      edit other lane mailboxes and closed chats are not awakened by this notice.
+    current_root_application: RECOMMENDATION_ONLY_NO_RUNTIME_SWITCH_TOOL

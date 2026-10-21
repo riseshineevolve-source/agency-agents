@@ -8,6 +8,9 @@ policy:
   default_max_active_specialists: 4
   central_product_lane_mode: read_sync_only
   mailbox_root: orchestration/control-plane/mailboxes
+  model_routing: orchestration/control-plane/RSE_MODEL_ROUTING_V1.yml
+  model_policy_read: startup_and_next_meaningful_checkpoint
+  model_policy_runtime_application: verify_do_not_assume_repo_changes_client
 
 chats:
   central_control_tower:
