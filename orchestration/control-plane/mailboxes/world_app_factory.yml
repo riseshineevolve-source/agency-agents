@@ -30,7 +30,9 @@ milestone: >-
 blocker: >-
   Hosted CI cause confirmed from annotation: The job was not started because
   an Actions budget is preventing further use. No job steps executed.
-  Current local code has passed dual native builds and package inspection.
+  Last verified local code has passed dual native builds and package inspection.
+  Owner Desktop Commander device was observed offline on2026-10-21 at12:11
+  Europe/Warsaw; latest local status/diff cannot currently be inspected.
   Expanded runtime upload was rejected by automatic approval review.
 owner_gate: >-
   Earlier exact commit remains uploaded in draft PR12. New local payload
@@ -72,7 +74,8 @@ editorial_watch:
   - Existing whole-World02 and endgame factual/child-safety review remains required before public release.
   - World01 Levels7-10 code authority was resolved by owner on2026-09-30; never reopen stale summary conflict.
 next_safe_task: >-
-  Read latest local CHECKPOINT.yml and storage-fix handoff. Complete a bounded
+  When the owner device is online, inspect status/diff and read latest local
+  CHECKPOINT.yml and storage-fix handoff. Complete a bounded
   source-linked frontmatter slice and World01 endgame page parity. Do not redo
   passing full tests/builds without new changes. Do not upload the expanded
   payload until explicit owner approval. Keep draft PRs unmerged, World01
@@ -145,3 +148,21 @@ storage_failure_followup_2026_10_21:
   upload: not_attempted_prior_automatic_review_gate_retained_no_alternate_transfer
   hosted_ci: blocked_Actions_budget_not_retried
   latest_scope: direct_owner_bounded_finalization_only_no_unrelated_features_no_Gentle_Steps_dependency
+
+device_availability_checkpoint_2026_10_21:
+  observed_local_time: "2026-10-21T12:11:37+02:00"
+  device: DESKTOP-REL52FK
+  desktop_commander_status: OFFLINE
+  last_seen_report: 40m_ago
+  current_local_status_diff: NOT_OBSERVED_device_offline
+  last_verified_code: 16673c00fb8d18a166d4894f5c35afd97ab2ac12
+  last_verified_local_checkpoint: 19b1b3b8d70d1cbe64f3545a808d33729a6b25c9
+  source_pr39_head: aa02797a717e37a4d493e92268f5312f060279cc
+  runtime_pr11_head: 42465032c7e103bbfe6cc8326843d38fa61a3568
+  runtime_pr12_head: 8eae6fb9feecdf93381fd234eb8bea92dab6a136
+  remote_refs_changed: false
+  new_upload_approval_observed: false
+  product_changes_made: false
+  repeated_tests_or_builds: false
+  automation: retained_transient_device_outage_not_permanent_block
+  next: resume_local_frontmatter_source_slice_after_device_reconnect_and_fresh_status_diff
