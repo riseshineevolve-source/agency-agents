@@ -1,14 +1,15 @@
 lane: optical_animals
 title: "Optical Animals"
 updated: 2026-10-21
-status: COLORING_ONLY_V4__OWNER_COPY_RECOVERED__FIVE_PAGE_INTRO_REVIEW
+status: COLORING_ONLY_V4__INTRO_PAGE3_STYLE_MATCH_REVIEW
 branch_or_repo_state: "Local optical-night-production-20261009, branch rse/optical-night-production-2026-10-09 @ 504a3d2b710f4758be26e4a00cfb47c7ef2129ff. Existing dirty/staged work preserved. No product commit/push. V4 source unchanged."
 milestone: >-
   Reconstructed current Control Plane and later owner intro instructions. V4
   remains 48-page coloring-only authority; no seek-and-find. Recovered exact
   Before You Begin copy supersedes earlier unapproved V7 Look Closer candidate.
-  Prepared standalone five-page intro review using four supplied PNGs and native
-  vector/text page3. No candidate intro integrated into V4; approved heroes and
+  Owner rejected thin-ribbon page3. Revised only page3 to match supplied ornate
+  scalloped box, bold optical border and serif lettering; four exact paragraphs
+  visually checked. Standalone five-page review uses raster matched page3. No candidate intro integrated into V4; approved heroes and
   pages6-48 untouched.
 blocker: >-
   New supplied intro rasters are approximately128ppi at full bleed; native
@@ -19,16 +20,16 @@ owner_gate: "Choose/refine intro visual family, especially page3; then final bou
 dependencies_needed: []
 reusable_outputs:
   - "Canonical V4 SHA256: 2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13"
-  - "New five-page REVIEW ONLY PDF SHA256: b991d98cce4429bba76693adb58c3e9ae17c9db1629e75b870679c1e120e5c58"
-  - "Review artifact: libfile_a7c748e88e408191a99a329b0f60b2f2 version1"
-  - "QA: five pages621x810pt, exact normalized owner copy, source hash unchanged, rendered inspection; independent reviewer confirms readable/unclipped and flags simpler provisional page3 style."
+  - "New five-page REVIEW ONLY PDF SHA256: d086da6c77f03646f4cbeb0d178f4ec5502e4512aa9d3951b3ebbd403df94842"
+  - "Review artifact: libfile_a7c748e88e408191a99a329b0f60b2f2 version2"
+  - "QA: five pages621x810pt; only page3 changed, other four pages pixel-identical; four owner paragraphs visually checked. Raster review lettering; canonical copy retained in checkpoint."
   - "Recovered publishing instructions: copyright, blank ISBN/no box, small AI sentence separately at end. Do not copy ISBN9798177104409 from unrelated reference. RSE series name remains unchosen."
 next_safe_task: >-
   Consume owner intro feedback; make only bounded chosen intro refinements.
   Prepare print-resolution/trim-safe intro once look is selected, then integrate
   only accepted intro with unchanged V4 artwork/order and verify retained pages.
   Do not restore old masks/tokens/search/grand/answers or rebuild whole volume.
-checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-owner-copy-recovery-intro-review.md
+checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-before-you-begin-style-match.md
 model_policy_ack: rse-weekly-usage-2026-10-21-v1
 recommended_profile: production
 runtime_model_observed: UNKNOWN
