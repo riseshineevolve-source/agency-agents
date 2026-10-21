@@ -1,80 +1,60 @@
 lane: gentle_steps
 title: "Gentle Steps / Before Christmas Slips By"
-updated: 2026-10-10
-status: PL_R6_PARITY_PASS__LOCAL_RUNTIME_COMMITTED__REMOTE_VALIDATE_PL_FAIL__ANDROID_PL_NOT_BUILT
+updated: 2026-10-21
+status: FINAL_EDGE_CASE_REPAIRS_LOCAL_PASS__ACTIONS_BUDGET_BLOCK__LOCAL_ANDROID_BUILD_IN_PROGRESS
 branch_or_repo_state:
   repository: riseshineevolve-source/RISE.SHINE.EVOLVE
-  branch: gentle-steps/app-en-full24-purple-gold
-  remote_head: c4587e4a8422d88bd2725b4030806e52621c1582
-  local_sync_branch: gentle-steps/pl-runtime-sync-20261009
-  local_validated_commit: 41da0d25e3720c48f8b57a76e2358d839d0ae7c6
-  local_commit_pushed: false
-  desktop_state: OFFLINE_AT_2026_10_10_0447_WARSAW
-  writer_scope: polish_app_runtime_tests_only__EN_app_js_owned_by_other_writer
+  branch: gentle-steps/premium-visual-20261013
+  runtime_head: c98e5febeb49dd168753cc610bf226fec2c6f2be
+  previous_audited_runtime: 1d06a11e071918d817d618d17da8cb83aeda1651
+  writer: codex_work_6b039b9021d0
+  writer_scope: gentle_steps_only
 milestone:
-  en_app:
-    canonical_source: Gentle_Steps_EN_V2_R3_FINAL_CONTENT_PLUS_FIXES_CORRECT(1).pdf
-    source_sha256: d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1
-    title: BEFORE CHRISTMAS SLIPS BY
-    subtitle: 24 Ten-Minute Family Activities for Less Rush, More Laughter, and Time to Really Be Together
-    structure: 24_days_72_sections_PAUSE_PLAY_BETWEEN_US_TRY_IT_TOMORROW
-    exact_head_ci:
-      head: c4587e4a8422d88bd2725b4030806e52621c1582
-      english_app_run_37936621040: PASS
-      seo_run_37936620829: PASS
-      english_android_run_37936620844: PASS
-  polish_dependency:
-    authority_branch: codex/polish-engine-main-reconcile
-    observed_branch_head: 8ecd3b93c50d34eb17e3080c8f736f4a8b41becf
-    packaging_source_path: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md
-    packaging_blob_sha: 896cf92bf6ed126ef62e623fd9cac640270e853f
-    packaging_lf_sha256: 68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3
-    title: ŚWIĘTA SĄ TEŻ PO DRODZE
-    subtitle: Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.
-    structure: 24_days_72_sections_24_NA_JUTRO
-    content: IMMUTABLE_CONSUMED_EXACTLY
-    app_source_parity_audit_2026_10_10: PASS_637_OF_637__ZERO_DIFFERENCES
-  polish_runtime:
-    local_commit: 41da0d25e3720c48f8b57a76e2358d839d0ae7c6
-    files: [gentle-steps-app/tools/build-pl-runtime.py, gentle-steps-app/app-pl.js, gentle-steps-app/tests/playwright-pl-smoke.mjs]
-    local_validation: EN_PL_RUNTIME_GENERATOR_PLAYWRIGHT_PASS
-    native_bundle_static_qa: PASS_10_OF_10
-    exact_head_ci:
-      polish_run_37936621015: FAILURE
-      playwright_pl: PASS
-      validate_pl: FAIL_OUT_OF_SYNC_APP_PL_JS
-      reason: EN_V2_RUNTIME_ADVANCED_AFTER_GENERATED_PL_OUTPUT
-    android:
-      en_apk_aab: PASS_ON_C458
-      pl_apk_aab: NOT_BUILT
-      pl_ci_gap: PREPARE_WEB_ONLY_NO_ANDROID_PL_GRADLE_BUILD
-    accessibility:
-      confirmed_320px_200pct: RIGHT_EDGE_CLIPPING
-      root: BACK_BUTTON_CONTAINER_WIDTH_AND_OVERFLOW_CLIP
-      css_ownership: SHARED_EN_WRITER_COORDINATION_REQUIRED
+  source:
+    en_sha256: d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1
+    pl_r6_git_blob: 896cf92bf6ed126ef62e623fd9cac640270e853f
+    locked_content_unchanged: true
+    days: 24
+    sections: 72
+    tomorrow_bridges: 24
+    owner_en_labels: ["LET'S TAKE A MOMENT", "LET'S DO THIS TOGETHER", "LET'S TALK"]
+    owner_pl_labels: ["ZŁAPMY CHWILĘ", "ZRÓBMY COŚ RAZEM", "POGADAJMY"]
+    en_subtitle: "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together."
+  repairs:
+    - "Contain reminder permission/exact-alarm/cancel/schedule/listener/storage failures with local-language feedback; no false success/closing on cancellation failure."
+    - "Prevent same-session annual rollover from copying old progress into a new season."
+    - "Allow included After24 letter after December24 even with skipped activities; retain truthful 24/24 celebration."
+    - "PL instruction-heading styling parity; exact Day11 widził to widzi display-only spelling correction."
+    - "Current handoff pointer, offline cache revision and46 independent regression cases."
+  tests:
+    independent_edge_cases: PASS_46_OF_46_EN_PL
+    independent_after24_matrix: PASS_10_OF_10
+    locked_pl_source_and_regeneration: PASS
+    baseline_visual_matrix: PASS_288_DAY_READINGS_12_HOME_36_DIALOGS_10_REMINDER_CONTRACTS
+    repaired_browser_matrix: IN_PROGRESS_FINAL_HEAD
+    original_owner_apk_hashes_verified: true
+    original_owner_apks_are_current: false
+  ci:
+    previous_runtime_1d06a11e: PASS_7_OF_7
+    repaired_runtime: BLOCKED_BEFORE_RUNNER_ALLOCATION
+    verified_annotation: "The job was not started because an Actions budget is preventing further use."
+    code_tests_executed_by_new_ci: false
+    fresh_ci_artifacts: NONE
+  android:
+    current_native_build: LOCAL_ISOLATED_API36_JDK21_IN_PROGRESS
+    physical_device_pass: NOT_CLAIMED
 blocker:
-  - GitHub update/push previously blocked by tool safety; do not bypass
-  - local Desktop Commander unavailable; preserve local synced commit and old staged work
-  - remote PL generator output stale relative to EN head
-  - CSS 320px_200pct accessibility clipping unresolved
-  - Android SDK missing locally; no native Polish APK/AAB or device evidence
-  - Windows core.autocrlf converts locked PL R6 working copy to CRLF; Git R6 blob is exact, do not rewrite PL source
+  - "GitHub Actions budget prevents runner startup. No budget/paid service changes authorized or performed."
+  - "Fresh repaired-runtime APKs are not yet ready; historical APKs must not be presented as current."
+  - "PL book final-template PDF/12 print-scale pages remain a separate unverified print dependency."
 owner_gate:
-  type: REAL_DEVICE_ANDROID_AND_STORE_RELEASE
-  requirements:
-    - physical Android install and splash/icon visual review
-    - offline airplane mode and persistence across restart
-    - actual reminder permission/delivery/tap/exact-alarm
-    - 200_percent_system_font_320px and TalkBack
-    - final package ID/signing/Play listing/pricing/regions/Data Safety/Families/legal/publication
+  - "Actual Android installation, splash/icon, airplane mode, force-close persistence, system font, TalkBack and real one-minute notification/tap."
+  - "Final package ID/signing/Play/Data Safety/Families/legal/pricing/regions/publication."
 dependencies_needed:
   - lane: polish_localization
-    need: preserve locked R6; review real final-book-template fit and final Polish editorial/safety proof
-  - lane: gentle_steps_english_writer
-    need: coordinate shared CSS fix for 320px/200pct without racing app.js or EN surface
+    need: "Upstream spelling exception for Day11: których nikt inny nie widził -> których nikt inny nie widzi. Existing R6 bytes preserved; app display-only correction independently checked against EN meaning. App owner headings/subtitle have already been deployed; old migration-pending claims are stale."
 reusable_outputs:
-  - source-to-app R6 paragraph/notes audit: 637/637 PASS, zero text changes
-  - 10/10 native PL bundle static QA on local synchronized runtime
-  - documented CI gap for PL Android APK/AAB (must build explicitly with GENTLE_APP_LOCALE=pl)
-next_safe_task: Retry only normal permitted writes of already-validated local PL commit; on reachable desktop preserve all worktrees and EOL guards; validate exact head + PL Playwright; fix CSS via EN writer coordination; create isolated locale-explicit PL Android CI build without touching EN.
-checkpoint_reference: LOCAL_41da0d25e3720c48f8b57a76e2358d839d0ae7c6
+  - gentle-steps-app/tests/edge-case-regression.mjs
+  - docs/GENTLE_STEPS_FINAL_PRE_DEVICE_AUDIT_2026-10-21.md
+next_safe_task: "Finish final-head local browser/source proofs and API36 lint/build EN/PL OWNER TEST APKs; bind receipts and hashes, update this mailbox, then hand off only at actual device/store gate."
+checkpoint_reference: docs/GENTLE_STEPS_FINAL_PRE_DEVICE_AUDIT_2026-10-21.md
