@@ -65,7 +65,7 @@ dependencies_needed:
 reusable_outputs:
   - "Private offline Family runtime already pushed and validated at73a6e10"
   - "Uncommitted audit source/tests and detailed report in isolated Senior worktree"
-  - "Actual native screenshots/167-cue atlases in C:\Users\danie\senior-ux-visual-final-20261021"
+  - 'Actual native screenshots/167-cue atlases in C:\Users\danie\senior-ux-visual-final-20261021'
 next_safe_task: >-
   Same writer resumes after desktop recovery;do not start a duplicate writer.
   Read existing PIDs/logs first,not another build. Final buildPID35716 and prior
