@@ -2,7 +2,7 @@
 
 Status: BLOCKED_BEFORE_CONSOLIDATED_RELEASE_DECISION
 Scope: central receipt reconciliation only; no product files changed.
-Evidence snapshot: agency-agents @ 1c205adf39752eb91922b02854375049fbb1734c; new Optical producer receipt @ 74e9fef07e55f9c4fb3e2e7b14e1908feb077045.
+Evidence snapshot: agency-agents @ 5176142243b1d6abc69a86328ababdae1b0ec6e9; Optical mailbox blob a9fc79167046c71726fa170862a006b6c0da0011 and art-refinement checkpoint blob 5314ef96376812cc91dad7793edbfc1ce884ceae.
 Primary remains Optical Animals / Wild Illusions. Gentle Steps is the existing fallback, not a second active launch.
 
 ## Optical Animals: exact artifact identities
@@ -10,23 +10,23 @@ Primary remains Optical Animals / Wild Illusions. Gentle Steps is the existing f
 | Artifact | Producer receipt | Release meaning |
 |---|---|---|
 | Owner canonical V4 interior | SHA256 `2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13`; 48 pages; 621 × 810 pt (8.625 × 11.25 in) | Preserved source, not a newly accepted final interior. Exact original filename/location still required from writer. |
-| Current five-page visual intro | `WILD_ILLUSIONS_DECORATIVE_BIRD_INTRO_FINAL_5_PAGES.pdf`; SHA256 `ea50f7dd0100cafa45be8477eb469b76d5a803919b1c87e6509a2952cc79f216`; Library `libfile_a7c748e88e408191a99a329b0f60b2f2`, version 3 | Completed visual design; five pages, 621 × 810 pt. NOT a final 48-page interior. Supersedes version 2; no body integration or KDP approval. |
-| Current Before You Begin image | SHA256 `caa1b5a84c5c3b2755b9fb49418fdc9b19d049c285ec236219112a5609e8f95b` | Part of decorative-bird family; raster lettering still requires faithful print typography. |
+| Current five-page visual intro | `WILD_ILLUSIONS_DECORATIVE_BIRD_INTRO_ART_REFINEMENT_V2.pdf`; SHA256 `eab166f74baf822cdabdaf9804d05e898c28fe616041ea92cbba18c8288572ed`; Library `libfile_a7c748e88e408191a99a329b0f60b2f2`, version 5 | Current repaired visual PDF; five pages, 621 × 810 pt. NOT a final 48-page interior. Supersedes v3 and malformed v4; producer reports ReportLab PDF1.4 post-save rendering and stable hash. No body integration or KDP approval. |
+| Current Before You Begin image | SHA256 `e90a09d84a6690b2470d35ce5142b311b6f308279dc2194e8a9fe7a3935142a1` | Part of decorative-bird family; raster lettering still requires faithful print typography. |
 | Full-wrap cover | No matching exact cover receipt in the inspected current producer mailbox/checkpoints | UNKNOWN, not evidence that no cover exists. Writer must expose existing source before any new creation. |
 
 These are producer-reported artifact hashes, verified against their durable Git receipts; central has NOT independently rehashed private PDF/image bytes.
 
 Producer evidence:
 - [Copy recovery and source geometry](../projects/optical-animals/checkpoints/2026-10-21-owner-copy-recovery-intro-review.md)
-- [Completed decorative-bird five-page visual receipt](../projects/optical-animals/checkpoints/2026-10-21-decorative-bird-five-intro-final-design.md)
+- [Current art-refinement V2 / repaired PDF v5 receipt](../projects/optical-animals/checkpoints/2026-10-21-intro-art-refinement-v2.md)
 - [Producer mailbox](../control-plane/mailboxes/optical_animals.yml)
 
 ## Optical Animals: actual remaining gates
 
 | Requirement | Evidence / status | Existing owner of remedy |
 |---|---|---|
-| Accepted production intro | DESIGN DELIVERED: owner selected decorative bird for all five pages; producer reports copy/visual QA PASS and corrected Color test-panel overlap. Final visual feedback remains open. Current rasters are 1103 × 1426 (~127 ppi), not production masters | optical_animals |
-| Native print quality | BLOCKED: faithful print derivatives/native typography and proof remain. No more family-selection task; producer reports Publishing AI note inside safe white inset, but physical print safety is not proven. No central resampling/rebuild | optical_animals |
+| Accepted production intro | CURRENT V2 ART DELIVERED: four distinct bird poses; Enter is a sparse feather echo, overriding the earlier bird-on-every-page direction. Producer reports visual/copy QA and all-five post-save render PASS for repaired v5. Final visual feedback remains open in producer receipt. Current rasters are 1103 × 1426 (~127 ppi), not production masters | optical_animals |
+| Native print quality | BLOCKED: faithful print derivatives/native typography and proof remain. No more family-selection task; preserve ISBN without a rule, deliberate Before line breaks/no long dash, and low-ink Enter. Title beak near top-right bleed needs trim verification. Enter black-area measure is 2.81%, not proof against show-through. No central resampling/rebuild | optical_animals |
 | Final interior retention | PENDING: integrate only accepted intro; retain approved V4 artwork/order and verify unchanged pages. Review-only page identity checks are not full final-interior preflight | optical_animals |
 | Cover/interior geometry | UNKNOWN: expose full wrap, SHA256, trim/bleed, binding, paper, ink and exact 48-page dependency. Source page geometry alone does not certify cover fit | optical_animals |
 | Title/subtitle/author/language/ISBN | PARTIAL: Wild Illusions project identity observed; final exact metadata lock not supplied. Series name unchosen in source receipt; blank ISBN instructed; unrelated reference ISBN 9798177104409 must not be copied | optical_animals; marketing consumes verified facts |
@@ -60,3 +60,9 @@ No publication, store price, spending, source freeze, production merge or proof 
 ## Latest owner cost and privacy direction
 
 Owner permits extremely sparing Actions within a stated $7 budget; this is not evidence of current remaining balance. No cloud run, retry, billing change, repo-visibility change or n8n subscription was performed for this reconciliation. Use local deterministic validation for this central metadata change and skip push-triggered CI. Preserve the privacy review; add no private artwork/account data to public Git. Central mailbox notice routes the constraint without claiming lane receipt.
+
+## Receipt reconciliation — 21 October, 17:11 Warsaw
+
+Central replaced the stale v3 reference with the producer's repaired PDF v5 and current five selected image identities. Version4 failed post-save page-reference validation and must not be used. Version5 is producer-reported as successfully rendered after saving; central inspected the durable receipt, not private PDF bytes. Producer mailbox still reports no body integration, native print masters or matching cover receipt. Gentle Steps and marketing mailboxes provide no new book pair/cost receipt, so the launch queue remains unchanged. No explicit acknowledgment of central request IDs was added.
+
+Later owner conversation authorizes assembly of the full print PDF and preserves three attached pages; that is a task authorization, not a delivered artifact. The producer must resolve the exact latest Publishing/Before images against that approval before integration. Central does not treat the earlier v5 as the final accepted production intro merely because it is the latest Git receipt.

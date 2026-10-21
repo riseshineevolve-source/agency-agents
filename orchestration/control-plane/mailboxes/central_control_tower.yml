@@ -1,7 +1,7 @@
 lane: central_control_tower
 title: RSE Central Control Tower
 updated: 2026-10-21
-status: OA_DECORATIVE_BIRD_DESIGN_RECEIVED__PRINT_PACKET_STILL_OPEN
+status: OA_REPAIRED_INTRO_V5_RECEIVED__LATEST_OWNER_ASSEMBLY_REQUEST_ROUTED
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   observed_base: 3b4d9e7ab19134849eee2eb2b8619b1129d768d8
@@ -10,7 +10,7 @@ branch_or_repo_state:
   supplemental_streams_and_desks: 5
   chat_liveness: not_established_by_registry_or_mailbox
   reconciled_evidence_base: 1c205adf39752eb91922b02854375049fbb1734c
-milestone: 'Received completed five-page decorative-bird visual design v3; replaced superseded v2
+milestone: 'Received art-refinement V2 as repaired five-page PDF v5; replaced stale v3
   identity and closed the family-direction question. Print derivatives/native typography,
   matching cover, proof and price remain open. Reconciled earlier delivery: Detective225p PDF and Studio complete for owner review; Gentle Steps
   fresh local native build and phone-test package ready; Halloween five candidates generated. Replaced
@@ -127,9 +127,9 @@ release_readiness:
   card: orchestration/brain/RSE_FIRST_RELEASE_READINESS_2026-10-21.md
   evidence_base: 1c205adf39752eb91922b02854375049fbb1734c
   evidence_level: PRODUCER_RECEIPTS_READ__PRIVATE_ARTIFACT_BYTES_NOT_REHASHED
-  new_fact: OA_five_decorative_bird_visual_designs_delivered_copy_QA_PASS_not_integrated_127ppi_print_hold
-  current_intro_review_sha256: ea50f7dd0100cafa45be8477eb469b76d5a803919b1c87e6509a2952cc79f216
-  current_intro_version: 3
+  new_fact: OA_art_V2_repaired_PDF_v5_post_save_render_PASS_four_birds_sparse_Enter_not_integrated_127ppi_print_hold
+  current_intro_review_sha256: eab166f74baf822cdabdaf9804d05e898c28fe616041ea92cbba18c8288572ed
+  current_intro_version: 5
   decorative_bird_direction: OWNER_SELECTED_NO_NEW_FAMILY_DECISION
   final_visual_feedback: OPEN
   print_masters_and_full_interior: NOT_DELIVERED
@@ -146,7 +146,11 @@ release_packet_requests:
     need: >-
       Expose exact existing V4 filename/location and current full-wrap cover filename/location/SHA256,
       binding/trim/bleed/paper/ink/page-count match and exact metadata lock.
-      Current version3 decorative-bird visual set is delivered but not integrated.
+      Current repaired version5 art-refinement V2 visual set is delivered but not integrated.
+      Do not use malformed version4 or superseded version3. Latest owner conversation
+      preserves three attached pages, requests final Publishing/Before refinements,
+      and authorizes full print-PDF assembly. Resolve those exact later accepted assets
+      before integration; authorization is not a delivered final artifact.
       Do not reopen the selected motif or generate additional family variants.
       Prepare faithful print derivatives/native typography and verify print-safe placement,
       then expose final accepted 48-page interior hash and retained-page verification.
@@ -222,3 +226,16 @@ actions_containment_receipt:
   recipient_ack: PENDING
   privacy: PUBLIC_FORK_ADMIN_SIGN_IN_REQUIRED
   n8n: INSTANCE_SELECTION_LOGIN_SCREEN_NO_AUTHENTICATED_SESSION
+
+intro_receipt_reconciliation:
+  observed_head: 5176142243b1d6abc69a86328ababdae1b0ec6e9
+  producer_mailbox_blob: a9fc79167046c71726fa170862a006b6c0da0011
+  producer_checkpoint_blob: 5314ef96376812cc91dad7793edbfc1ce884ceae
+  current_review_pdf: WILD_ILLUSIONS_DECORATIVE_BIRD_INTRO_ART_REFINEMENT_V2.pdf
+  current_review_version: 5
+  rejected_packaging_version: 4
+  verification: PRODUCER_POST_SAVE_RENDER_RECEIPT_READ_NOT_PRIVATE_BYTES_REHASHED
+  direction: FOUR_DISTINCT_BIRDS_AND_SPARSE_FEATHER_ONLY_ENTER
+  latest_owner_assembly_authorization: OBSERVED_IN_CONVERSATION_NOT_DELIVERY_OR_RELEASE_APPROVAL
+  latest_accepted_Publishing_Before_assets: PRODUCER_TO_BIND_TO_EXACT_LATER_OWNER_APPROVAL
+  producer_request_ack: NOT_OBSERVED
