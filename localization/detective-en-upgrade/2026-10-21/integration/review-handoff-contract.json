@@ -1,0 +1,165 @@
+{
+  "reviewer": "handoff_contract",
+  "stage": "independent production-handoff contract audit; no prose editing",
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "source_intake_sha256": "fab419c8d30324a04e7368c8acd38faa574088d69169e4451eeb6419cb37a155",
+  "decision": "KEEP_CANDIDATE__FIX_HANDOFF_METADATA__PRODUCTION_FIT_PENDING",
+  "scope": [
+    "CHECKPOINT.md and README.md",
+    "candidate/WRITER_HANDOFF.md",
+    "source/intake-v4.json and candidate/candidate.json, compared every stable ID and text",
+    "candidate-segments.json, change-ledger.json, page-coverage.json, writer-validation.json, reader-order.json and artifact-hashes.json",
+    "qa/SOURCE_BINDING_FINAL.json, current review receipts, FINAL_LANGUAGE_CHECK.json, historical story-graph.json/evidence-payoff-map.json and truth-and-mechanics-lock.json",
+    "proof CONTENT_VERIFICATION.json, FIT_CHECK.json, VISUAL_REVIEW.md; inspection of reports only, not an independent visual PDF review"
+  ],
+  "checks": {
+    "source_and_candidate_id_sequence_identical": true,
+    "source_segments": 3067,
+    "candidate_segments": 3067,
+    "physical_pages": 225,
+    "changed_segments": 91,
+    "changed_pages": 44,
+    "protected_segments": 2367,
+    "protected_changed_ids": [],
+    "change_ledger_entries": 58,
+    "change_ledger_exact_actual_id_set": true,
+    "candidate_artifact_hashes_all_match": true,
+    "cases_in_truth_lock": 30,
+    "registered_solution_placements": 107,
+    "final_reviews_bind_exact_candidate": true,
+    "finale_reader_order_bound_to_exact_candidate": true,
+    "page_coverage_225_complete_exact_id_sequence": true,
+    "source_page_map_225_complete_exact_id_sequence": true
+  },
+  "findings": [
+    {
+      "id": "HC-01-RASTER-SLOTS",
+      "classification": "FIX_HANDOFF",
+      "severity": "production integration prerequisite",
+      "segment_ids": [
+        "page006.block02",
+        "page007.block02",
+        "page007.block03",
+        "page008.block02",
+        "page008.block04",
+        "page009.block02",
+        "page012.block03",
+        "page016.block04"
+      ],
+      "evidence": "All eight changed early-raster units have bbox=null in immutable intake-v4; 55 total source units have no bbox. Stable IDs and original wording are sufficient editorial identity but not renderer node/slot identity.",
+      "minimal_remediation": "Supply a separate per-changed-block migration manifest retaining stable source IDs, before/after text+hashes and physical folios. Mark these eight as requiring explicit source-renderer slot mapping; never overwrite protected raster figures to substitute prose. A candidate-only manifest is permitted. Only sole Book Factory writer integrates and renders."
+    },
+    {
+      "id": "HC-02-EXTRACTION-HASH-LABEL",
+      "classification": "FIX_METADATA_CLARITY",
+      "severity": "low; no source corruption",
+      "paths": [
+        "qa/story-graph.json",
+        "qa/evidence-payoff-map.json"
+      ],
+      "evidence": "Both historical diagnostics use source_sha256=5fa5a54685165a346f622a1d0518a737602da3e14ba673d5563f1246bfeccc21. This exactly equals source/detective-225.txt, the extracted text, rather than source PDF SHA9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0. SOURCE_BINDING_FINAL.json and actual review receipts correctly bind the authoritative PDF and final intake.",
+      "minimal_remediation": "Keep historical diagnostics intact; add a provenance note distinguishing source_text_extraction_sha256 from source_pdf_sha256. Do not relabel a text hash as a PDF hash or regenerate accepted reviews."
+    },
+    {
+      "id": "HC-03-HANDOFF-STATUS",
+      "classification": "FIX_METADATA_CLARITY",
+      "severity": "low; current receipts authoritative",
+      "paths": [
+        "candidate/WRITER_HANDOFF.md",
+        "qa/FINAL_LANGUAGE_CHECK.json",
+        "qa/reviews.cli.json"
+      ],
+      "evidence": "Writer handoff says current DIAGNOSTIC_REQUIRED and reviewers have received the hash. Actual final CLI report says diagnostic COMPLETE, deterministic PASS and OWNER_GATE only for inherited caption ambiguity; all four stage receipts bind the exact accepted candidate. The writer handoff is temporally stale and its own artifact hash currently matches.",
+      "minimal_remediation": "Add a clearly dated consumer supplement stating current acceptance and remaining source gate. Keep signed/historical handoff bytes unchanged so existing artifact manifest remains valid."
+    },
+    {
+      "id": "HC-04-PROOF-LIMIT",
+      "classification": "KEEP_EXISTING_GATE",
+      "severity": "production fit unresolved",
+      "paths": [
+        "proof/CONTENT_VERIFICATION.json",
+        "proof/FIT_CHECK.json",
+        "candidate/reader-order.json"
+      ],
+      "evidence": "225 text-proof folios, exact pagewise visible-word multiplicities and zero off-page blocks are explicitly editorial-only. These measures cannot establish source artwork preservation, speaker association on designed pages, original page-family fit, four visible mark-record integrity or physical map legibility.",
+      "minimal_remediation": "Bind sole-writer production export to candidate hash; compare protected original-art regions, record source-225→output-folio mapping and verify final attribution/fit on rendered book. The editorial proof and canonical candidate remain KEEP. Do not claim all figures independently verified from text hashes."
+    },
+    {
+      "id": "HC-05-PHOTO-CAPTION",
+      "classification": "OWNER_GATE",
+      "severity": "inherited source/art issue; not new prose defect",
+      "pages": [
+        24,
+        25,
+        146
+      ],
+      "evidence": "Existing final reports consistently retain ARCHIVED017/LATER071 chronology ambiguity. This handoff audit does not infer dates, retrieval meaning or approved caption replacements.",
+      "minimal_remediation": "Carry exact open source-caption gate to Book Factory. Continue independent integration work; do not alter protected label or resurrect obsolete V10 differences."
+    }
+  ],
+  "consumer_authority_order": [
+    "candidate/candidate.json exact text",
+    "source/intake-v4.json stable IDs/source-page identities and protected status",
+    "candidate/reader-order.json exact finale attribution/order supplement",
+    "qa/SOURCE_BINDING_FINAL.json plus final actual review receipts and FINAL_LANGUAGE_CHECK.json",
+    "historical diagnostics and writer notes as context, never superseding final source/candidate binding"
+  ],
+  "prose_action": "KEEP; no concrete new wording defect found in this contract audit",
+  "limits": [
+    "No independent reread of all accepted prose for style was performed; that review is already hash-bound.",
+    "No production renderer, StudioZIP or another writer branch was changed.",
+    "No full figure-semantic, uniqueness, original-art pixel-diff or print inspection is claimed.",
+    "No CI status queried by this reviewer; local deterministic artifact comparisons only."
+  ],
+  "targeted_consumer_packet_followup": {
+    "reviewer": "handoff_contract",
+    "decision": "KEEP_PACKET_AND_CANDIDATE__PRODUCT_INTEGRATION_PENDING",
+    "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+    "scope": [
+      "Read new EDITORIAL_IMPORT_PACKET.json, SOURCE_PAGE_ART_LEDGER.json, INTEGRATION_CHECK.json, STUDIO_CAPABILITY_SNAPSHOT.json, CONSUMER_HANDOFF_SUPPLEMENT.md and builder source",
+      "Independently compared every packet unit and operation against exact immutable intake/candidate",
+      "Read inspected Studio spread_layout.py, production.py routing, detective.parse_v12 hash gate and native_story.render source-body copy",
+      "Verified source-native text SHA and image-instance count on all225 folios; sampled15 source render fingerprints; checked actual Studio archive and all listed module SHA values"
+    ],
+    "checks": {
+      "all3067_unit_source_target_hashes_match_exact_baseline_candidate": true,
+      "all91_operations_cover_exact_changed_id_set_once": true,
+      "all91_before_after_bytes_hashes_and_bbox_match": true,
+      "all_operations_require_writer_slot_receipt_and_disallow_automatic_pdf_replacement": true,
+      "source16_changed_unit_is_comms_destination15_hint": true,
+      "source27_changed_narrative_units_destination26_hint_consistent_with_actual_studio_route": true,
+      "source_page_ledger_all225_native_text_and_image_counts_match": true,
+      "ledger_image_instances": 568,
+      "observed_studio_archive_hash_matches_actual_cc6d4381": true,
+      "all_listed_studio_module_hashes_match_actual_files": true,
+      "no_actual_consumer_build_or_product_fit_claimed": true,
+      "page122_current_audit_rationale_explicitly_supersedes_historical_defect": true,
+      "every_operation_has_current_audit_rationale_field": true
+    },
+    "initial_targeted_finding_and_resolution": {
+      "id": "HC-FOLLOWUP-122-RATIONALE",
+      "finding": "Initial generated packet repeated historical false claim that p122 had no selected-case list, while new supplement states list occurs in raster p122 and p123.",
+      "resolution": "Author added audit_rationale_override on generated operations; page122 now acknowledges original raster list and retains accepted next-page navigation as duplicate-list choice. Historical diagnostic bytes remain intact.",
+      "status": "RESOLVED_METADATA_ONLY"
+    },
+    "render_recipe_note": {
+      "finding": "Rendering after an unrelated complete-document text-extraction pass did not reproduce five of15 sampled36dpi pixel hashes. A fresh document/page following builder get_image_info/extract_image then get_pixmap reproduced every disputed fingerprint.",
+      "interpretation": "No source drift; MuPDF analysis/cache/order can affect these pixels. Exact sourcePDF SHA remains primary authority. Source fingerprint comparisons must use the exact builder recipe and pinned PyMuPDF version, ideally a fresh document.",
+      "status": "INFORMATIONAL_NOT_PRINT_OR_SEMANTIC_APPROVAL"
+    },
+    "artifact_hashes_at_followup": {
+      "EDITORIAL_IMPORT_PACKET.json": "80ecfd352e79e829826bffae6076145f5107f01f2122fb6ca673b4772f1ff634",
+      "SOURCE_PAGE_ART_LEDGER.json": "c5c77687f38599c1b4c354877888a9a2d132a098ad361b2764841c9885ee9f6f",
+      "STUDIO_CAPABILITY_SNAPSHOT.json": "98cb72a0f3c074d618a332f76b29b9a77f7afbabc1c19b8ff4d33d6c6db5aa01",
+      "INTEGRATION_CHECK.json": "61b867504876abaf5e0daa98cb39d3063bac42f9c5e28c59a729c83571e8d881",
+      "CONSUMER_HANDOFF_SUPPLEMENT.md": "adc1c42e225a4e2f98e6a11d6ecb30cfc67e193ae247ca9cb9e4069cfc57be70",
+      "build-integration-packet.py": "7b4f49fea98cbc886bcfd19d135455f6daf115750bda40b6a14afaf8e8a32a0f"
+    },
+    "limits": [
+      "Destination folios are code-derived hints until sole writer binds exact build inputs/output; not actual consumed slot receipts.",
+      "No source/raster prose was overwritten; no production writer surface touched.",
+      "No full independent visual-semantic approval or candidate product PDF render was performed by this reviewer."
+    ]
+  }
+}

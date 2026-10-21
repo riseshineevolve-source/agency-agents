@@ -1,0 +1,15 @@
+{
+  "status": "PASS_SOURCE_IDENTITY_AND_PACKET__PRODUCT_LAYOUT_PENDING",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "pages_fingerprinted": 225,
+  "units": 3067,
+  "operations": 91,
+  "changed_pages": 44,
+  "protected_unit_drift": 0,
+  "raster_changed_units": 8,
+  "source_pdf_unchanged": true,
+  "candidate_unchanged": true,
+  "new_production_pdf": false,
+  "print_approval": false
+}

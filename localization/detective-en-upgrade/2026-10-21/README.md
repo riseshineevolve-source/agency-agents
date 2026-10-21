@@ -34,3 +34,47 @@ Use `$rse-language` with `Improve this book in its current language`. The assist
 Hourly continuation was requested for24hours. Read `ACTIVE_WRITER.json` before claiming the solewriter lease. Completed prose is KEEP: do not manufacture another whole-book rewrite. Continue source-caption clarification, figure-aware/fullpage integration checks and exact-candidate proof comparison; persist actual work. Do not publish, merge main, overwrite the BookFactory writer, translatePLR8 or grant a freeze.
 
 OriginalPDFs remain unchanged. Their durable identities and hashes are in `source-inventory.json`. Historical tool manifests retain absolute source paths; when recovering into another workspace, create a fresh working run from the exact intake rather than altering historical manifests, then bind unchanged content/reviews transparently by per-unit hashes.
+
+## Integration evidence continuation — 21 October 2026
+
+The candidate remains byte-identical KEEP. Independent source-figure review
+visually checked 20 original folios; independent handoff review checked all
+3,067 IDs and 91 exact operations. Protected drift remains zero. The new source
+art ledger fingerprints all 225 leaves and 568 displayed image instances; this
+is not all-page semantic or print approval. The 20 visual evidence PNG hashes
+were reproduced exactly from the authoritative source via the supplied script.
+
+Read `integration/CONSUMER_HANDOFF_SUPPLEMENT.md` first. Actual Studio recovery
+now succeeds, superseding the old offline dependency. The observed registered
+archive SHA is cc6d4381cfa867b28db4dd858a260640b5e8aefbae3c344738daaf9494ae40cb,
+different from the historical delivery checkpoint. Per-module hashes are pinned.
+Its exact-V12 parser and PDF/raster imports cannot consume this candidate JSON
+without a sole-product-writer source adapter. No production module was edited.
+
+Critical consumer mapping: source16 story/Comms now belongs on destination15;
+source27 changed Case04 narrative goes to destination26. Eight changed raster
+units lack executable slot bindings. Never apply source folio numbers blindly
+to migrated product pages. The import packet records all before/after bytes,
+hashes, source bboxes and unresolved destination receipts.
+
+Documentary correction: the fourteen-case list appears inside raster p122 AND
+on p123. Retained candidate `next page` is accurate; the old missing-list defect
+rationale is superseded. Historical 5fa5... diagnostics hash extracted TXT,
+not the PDF. Historical handoff status is superseded by final accepted reviews.
+These corrections do not change candidate wording or require new prose reviews.
+
+Durable full data/scripts: `integration/INTEGRATION_EVIDENCE_20261021.zip`.
+Unzip into `integration/` to recover the full JSON packet/art ledger, read-only
+builder, verifier, reviews and visual-evidence reproduction script. Repository
+also exposes the supplement, independent reviews and compact validation reports.
+Candidate/source PDFs remain at their previously registered durable identities.
+
+Remaining work is actual versioned product-writer import/illustrated render,
+eight raster slot bindings, and unchanged Case03 caption/print/release gates.
+No new source defect justifies rewriting accepted prose. Continue only genuinely
+unclosed source-figure checks (e.g. independent clue/solution geometry audit of
+Cases12/21/26/27 or unverified spatial uniqueness); consume any real product
+return receipt when available. Do not repeat completed language/review checks
+or create routine status-only commits. The automation is not fully blocked:
+independent source-figure audit work remains, while production writes stay with
+Book Factory. No owner question is needed for this handoff.
