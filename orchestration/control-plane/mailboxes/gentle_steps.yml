@@ -1,19 +1,20 @@
 lane: gentle_steps
 title: "Gentle Steps / Before Christmas Slips By"
 updated: 2026-10-21
-status: FINAL_EDGE_CASE_REPAIRS_LOCAL_PASS__ACTIONS_BUDGET_BLOCK__LOCAL_ANDROID_BUILD_IN_PROGRESS
+status: READY_FOR_OWNER_ANDROID_TEST__LOCAL_FINAL_AUDIT_AND_NATIVE_PASS__ACTIONS_BUDGET_BLOCKED
 branch_or_repo_state:
   repository: riseshineevolve-source/RISE.SHINE.EVOLVE
   branch: gentle-steps/premium-visual-20261013
   runtime_head: c98e5febeb49dd168753cc610bf226fec2c6f2be
-  previous_audited_runtime: 1d06a11e071918d817d618d17da8cb83aeda1651
+  documentation_checkpoint_head: 036383d1de243b9994376e312c25ee40fb4e55fe
+  documentation_only_after_runtime: true
   writer: codex_work_6b039b9021d0
   writer_scope: gentle_steps_only
 milestone:
   source:
     en_sha256: d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1
     pl_r6_git_blob: 896cf92bf6ed126ef62e623fd9cac640270e853f
-    locked_content_unchanged: true
+    all_13_locked_content_files_unchanged_in_git: true
     days: 24
     sections: 72
     tomorrow_bridges: 24
@@ -21,40 +22,67 @@ milestone:
     owner_pl_labels: ["ZŁAPMY CHWILĘ", "ZRÓBMY COŚ RAZEM", "POGADAJMY"]
     en_subtitle: "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together."
   repairs:
-    - "Contain reminder permission/exact-alarm/cancel/schedule/listener/storage failures with local-language feedback; no false success/closing on cancellation failure."
-    - "Prevent same-session annual rollover from copying old progress into a new season."
-    - "Allow included After24 letter after December24 even with skipped activities; retain truthful 24/24 celebration."
-    - "PL instruction-heading styling parity; exact Day11 widził to widzi display-only spelling correction."
-    - "Current handoff pointer, offline cache revision and46 independent regression cases."
+    - "Reminder permission/exact-alarm/cancel/schedule/listener/storage failures contained with localized feedback; failed cancellation preserves dialog and setting."
+    - "Same-session annual rollover cannot copy prior progress into a new season."
+    - "After24 letter available after December24 with skipped days; truthful 24/24 celebration remains conditional."
+    - "PL instruction-heading emphasis restored; Day11 widził to widzi spelling correction is display-only."
+    - "Final letter repeated heading removed; current handoff and offline cache updated."
   tests:
+    final_runtime_source_validators_and_36_frozen_locks: PASS
+    final_runtime_pl_regeneration: PASS
     independent_edge_cases: PASS_46_OF_46_EN_PL
-    independent_after24_matrix: PASS_10_OF_10
-    locked_pl_source_and_regeneration: PASS
-    baseline_visual_matrix: PASS_288_DAY_READINGS_12_HOME_36_DIALOGS_10_REMINDER_CONTRACTS
-    repaired_browser_matrix: IN_PROGRESS_FINAL_HEAD
-    original_owner_apk_hashes_verified: true
-    original_owner_apks_are_current: false
-  ci:
-    previous_runtime_1d06a11e: PASS_7_OF_7
-    repaired_runtime: BLOCKED_BEFORE_RUNNER_ALLOCATION
-    verified_annotation: "The job was not started because an Actions budget is preventing further use."
-    code_tests_executed_by_new_ci: false
-    fresh_ci_artifacts: NONE
+    independent_after24_date_count_review: PASS_10_OF_10
+    post_repair_full_visual_matrix_9631953: PASS_288_DAY_READINGS_12_HOME_36_DIALOGS_10_REMINDER_CONTRACTS
+    post_repair_bilingual_completion_offline_9631953: PASS
+    final_runtime_user_journey_c98e5fe: PASS_ZERO_FAILURES_PAGE_ERRORS_HTTP_ERRORS
+    final_runtime_dec25_incomplete_letter_320px_200pct_EN_PL: PASS_VISUALLY_VERIFIED
+    difference_after_full_matrix: ONLY_REMOVAL_OF_DUPLICATE_FINALE_HEADING
   android:
-    current_native_build: LOCAL_ISOLATED_API36_JDK21_IN_PROGRESS
+    execution: LOCAL_WINDOWS_FALLBACK
+    source_head: c98e5febeb49dd168753cc610bf226fec2c6f2be
+    sdk: 36
+    build_tools: 36.0.0
+    jdk: 21.0.12.101
+    node: 24.19.0
+    tasks_both_locales: [lintDebug, lintRelease, assembleDebug, bundleRelease]
+    result: PASS
+    application_lint_errors: 0
+    apk_v2_signature_verification: PASS_BOTH_DEBUG_CERT
+    provisional_package: com.riseshineevolve.gentlesteps
+    owner_test_mode: true
+    en_apk_sha256: 422a7c333058ff02bd1895047d8d5c27f7ec4f3e67405f26b14642eb77b1d676
+    pl_apk_sha256: 8c1b710dadb9655f0d8283e6989207072fa14e89d0c526627213746ec881b1ab
+    post_transfer_sha_and_zip_integrity: PASS
+    native_js_provenance: EXACT_WINDOWS_CHECKOUT_PREPARATION_TRANSFORM
+    content_css_provenance: EXACT_AFTER_WINDOWS_CRLF_NORMALIZATION
+    five_portrait_assets: BYTE_EXACT
+    unsigned_aab_purpose: OWNER_TEST_ONLY_NOT_PRODUCTION
     physical_device_pass: NOT_CLAIMED
+  dependency_audit:
+    high_or_critical: 0
+    moderate_development_tool_findings: 3
+  ci:
+    historical_runtime_1d06a11e: PASS_7_OF_7
+    final_runtime_c98e5fe: BLOCKED_BEFORE_RUNNER_ALLOCATION
+    annotation: "The job was not started because an Actions budget is preventing further use."
+    new_cloud_ci_pass_claimed: false
+    budget_or_billing_changed: false
 blocker:
-  - "GitHub Actions budget prevents runner startup. No budget/paid service changes authorized or performed."
-  - "Fresh repaired-runtime APKs are not yet ready; historical APKs must not be presented as current."
-  - "PL book final-template PDF/12 print-scale pages remain a separate unverified print dependency."
+  - "GitHub Actions account budget prevents CI runner startup; local final audit and native build receipts are available."
+  - "PL book final-template PDF and print-scale proof remain separate unverified production dependencies."
 owner_gate:
-  - "Actual Android installation, splash/icon, airplane mode, force-close persistence, system font, TalkBack and real one-minute notification/tap."
-  - "Final package ID/signing/Play/Data Safety/Families/legal/pricing/regions/publication."
+  - "Real Android install/icon/splash, airplane mode, force-close persistence, system font and TalkBack."
+  - "Actual one-minute local notification delivery/tap and correct day routing."
+  - "Final package ID/production signing/Play/Data Safety/Families/legal/pricing/regions/publication."
 dependencies_needed:
   - lane: polish_localization
-    need: "Upstream spelling exception for Day11: których nikt inny nie widził -> których nikt inny nie widzi. Existing R6 bytes preserved; app display-only correction independently checked against EN meaning. App owner headings/subtitle have already been deployed; old migration-pending claims are stale."
+    need: "Upstream spelling exception Day11: których nikt inny nie widził -> których nikt inny nie widzi. App display correction independently checked; R6 bytes preserved. Owner headings/subtitle are deployed; old migration-pending assertions are stale."
 reusable_outputs:
   - gentle-steps-app/tests/edge-case-regression.mjs
   - docs/GENTLE_STEPS_FINAL_PRE_DEVICE_AUDIT_2026-10-21.md
-next_safe_task: "Finish final-head local browser/source proofs and API36 lint/build EN/PL OWNER TEST APKs; bind receipts and hashes, update this mailbox, then hand off only at actual device/store gate."
+  - docs/gentle-steps-audit-20261021/LOCAL_NATIVE_BUILD_RECEIPT.json
+  - docs/gentle-steps-audit-20261021/APK_PROVENANCE.json
+  - docs/gentle-steps-audit-20261021/final-user-audit-report.json
+  - docs/gentle-steps-audit-20261021/premium-visual-report.json
+next_safe_task: "Owner tests fresh EN/PL OWNER TEST APKs on Android. Implement only concrete device findings. Cloud CI can rerun when the owner independently resolves the Actions budget; no publication or billing action is authorized."
 checkpoint_reference: docs/GENTLE_STEPS_FINAL_PRE_DEVICE_AUDIT_2026-10-21.md
