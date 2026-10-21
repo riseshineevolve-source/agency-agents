@@ -1,0 +1,13 @@
+{
+  "source": "User-attached reusable premium-upgrade prompt",
+  "date": "2026-10-21",
+  "filename": "Wklejony tekst(20261021-064405).txt",
+  "stored": "OWNER_PREMIUM_UPGRADE_PROMPT_2026-10-21.txt",
+  "sha256": "2b4cddcf42df1b126af3ac0132049c4b2b18830c03fd55ad9e9f683f52b38979",
+  "authority": "Current explicit owner prompt; repository current locks and project source precedence still apply",
+  "proposed_paths_missing_at_main_check": [
+    "orchestration/bootstrap/PREMIUM_BOOK_CONTENT_UPGRADE_BOOTSTRAP.md",
+    "orchestration/architecture/RSE_PREMIUM_BOOK_CONTENT_UPGRADE_PROTOCOL_V1.md",
+    "strategy/runbooks/scenario-premium-book-content-upgrade.md"
+  ]
+}

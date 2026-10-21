@@ -1,0 +1,617 @@
+Przejmij RSE Premium Book Content Upgrade jako dedykowany execution stream dla tej książki.
+GitHub jest source of truth po utworzeniu trwałego stanu projektu.
+Na początku przeczytaj:
+riseshineevolve-source/agency-agents/orchestration/bootstrap/PREMIUM_BOOK_CONTENT_UPGRADE_BOOTSTRAP.md
+Następnie, w tej kolejności:
+1.	orchestration/architecture/RSE_PREMIUM_BOOK_CONTENT_UPGRADE_PROTOCOL_V1.md
+2.	strategy/runbooks/scenario-premium-book-content-upgrade.md
+3.	orchestration/architecture/RSE_BOOK_AGENT_V3.md
+4.	orchestration/architecture/RSE_BOOK_MAP_CONTRACT_V1.md
+5.	wszystkie istniejące canonical project/source/voice/mechanics/owner-lock files dotyczące tej książki.
+Nie rekonstruuj projektu ze starej pamięci czatów, jeśli istnieje już trwały stan w GitHubie.
+INPUT ODE MNIE
+W tej wiadomości lub załącznikach przekazuję pierwotny / bazowy tekst książki.
+BOOK / PROJECT NAME
+[WPISZ]
+TARGET LANGUAGE
+[WPISZ]
+BOOK CHARACTER / TYPE
+Np.:
+•	narrative adventure,
+•	family activity book,
+•	detective/puzzle book,
+•	workbook,
+•	Christmas/Advent calendar,
+•	educational nonfiction,
+•	coloring/activity book,
+•	inny.
+[WPISZ]
+TARGET AUDIENCE / AGE
+[WPISZ]
+DESIRED STYLE / VOICE / REGISTER
+Opisz, jak książka ma brzmieć i jakie odczucie ma dawać czytelnikowi.
+[WPISZ]
+WYBIERAM JEDNĄ Z DWÓCH ŚCIEŻEK
+ROUTE A — SAME_LANGUAGE_PREMIUM_UPGRADE
+Książka już jest napisana w języku docelowym.
+Twoim zadaniem jest doprowadzić istniejący tekst do super-final premium version:
+ulepszyć treść, strukturę, logikę, język, humor, spójność, reader experience i wszystkie słabsze miejsca, ale nie zgubić niczego, co już działa bardzo dobrze.
+ROUTE B — CROSS_LANGUAGE_NATIVE_REAUTHORING
+Książka bazowa jest w innym języku.
+NIE tłumacz jej zdanie po zdaniu.
+Tekst źródłowy jest authority dla:
+•	sensu,
+•	funkcji,
+•	faktów,
+•	fabuły,
+•	chronologii,
+•	postaci,
+•	mechaniki,
+•	instrukcji,
+•	puzzle truth,
+•	bezpieczeństwa,
+•	consent,
+•	siły claimów,
+•	product promises,
+•	wymaganej struktury, jeżeli nie została jawnie otwarta do zmian.
+Nie jest authority dla konstrukcji zdań i wording w języku docelowym.
+Masz stworzyć książkę w target language praktycznie od zera, tak aby sprawiała wrażenie, że od początku została napisana przez bardzo dobrego native autora/redaktora właśnie dla tej grupy odbiorców i tej kultury.
+Test końcowy nie brzmi:
+„Czy to jest dobre tłumaczenie?”
+Test brzmi:
+„Czy to brzmi jak premium książka napisana od początku w tym języku, zachowując całą prawdę i funkcję oryginału?”
+OPTIONAL OWNER LOCKS
+Elementy, których NIE WOLNO zmieniać
+[WPISZ / zostaw puste]
+Fragmenty / styl / pomysły, które szczególnie lubię i trzeba je chronić
+[WPISZ / zostaw puste]
+Rzeczy, których nie lubię / których chcę uniknąć
+[WPISZ / zostaw puste]
+Inne istniejące wersje książki
+Jeżeli istnieją wcześniejsze poprawione lub prawie finalne wersje, załączam je również.
+________________________________________
+CEL
+Masz doprowadzić książkę do super-final premium content master, a nie tylko do wersji „poprawnej gramatycznie”.
+Książka finalna ma być:
+•	logiczna;
+•	spójna;
+•	interesująca;
+•	naturalna w target language;
+•	odpowiednia dla target audience;
+•	premium w rejestrze książkowym;
+•	pozbawiona fillerów;
+•	pozbawiona niepotrzebnych powtórzeń;
+•	spójna w postaciach, faktach, terminologii i tonie;
+•	klarowna;
+•	kompletna;
+•	bez błędów logicznych;
+•	bez błędów strukturalnych;
+•	bez błędów językowych;
+•	bez niezrozumiałych instrukcji;
+•	bez przypadkowej utraty sensu;
+•	bez mechanicznego AI/coaching/translationese wording;
+•	mocna jako całe doświadczenie czytelnika, nie tylko zbiór dobrych zdań.
+Najważniejsza zasada:
+KEEP beats rewrite.
+Nie zmieniaj dobrego tekstu tylko dlatego, że potrafisz napisać go inaczej.
+„Inne” nie oznacza „lepsze”.
+________________________________________
+FIRST RUN — ZANIM COKOLWIEK PRZEPISZESZ
+Najpierw:
+1.	Zweryfikuj aktualny GitHub/main/project state.
+2.	Utwórz lub przejmij jedną dedykowaną working branch / surface dla tej książki.
+3.	Nigdy nie edytuj bezpośrednio main.
+4.	Zapisz i zahashuj przekazany przeze mnie tekst bazowy jako durable source.
+5.	Jeżeli istnieje kilka wersji książki, najpierw zinwentaryzuj WSZYSTKIE.
+6.	Nie zakładaj, że najnowszy plik jest automatycznie najlepszy.
+7.	Zrób source convergence / best-of comparison segment po segmencie.
+8.	Utwórz:
+SOURCE_VERSION_INVENTORY
+SOURCE_CONVERGENCE_REPORT
+GOLDEN_KEEP_REGISTRY
+9.	Do GOLDEN_KEEP_REGISTRY wpisz:
+•	wcześniej zaakceptowane fragmenty;
+•	ewidentnie najlepsze istniejące fragmenty;
+•	lepsze żarty;
+•	już naprawione mechaniki;
+•	mocne dialogi;
+•	dobre naturalne sformułowania;
+•	zaakceptowaną terminologię.
+10.	Fragment już zaakceptowany albo ewidentnie bardzo mocny ma odziedziczyć status:
+KEEP / PROTECTED
+dopóki nie znajdziesz konkretnego, udokumentowanego powodu, żeby go ponownie otworzyć.
+11.	Utwórz immutable baseline.
+12.	Utwórz osobny WORKING_MASTER.
+13.	Zapisz:
+TARGET_LANGUAGE_AND_STYLE_PROFILE
+i wybraną Route A albo Route B.
+14.	Nadaj wszystkim logicznym fragmentom stabilne segment_id.
+15.	Utwórz CONTENT_MAP.
+16.	Wyciągnij i zamroź:
+•	immutable facts;
+•	liczby;
+•	daty;
+•	imiona;
+•	character relationships;
+•	chronology;
+•	mechanics;
+•	puzzle truth;
+•	answers;
+•	safety;
+•	consent;
+•	claim strength;
+•	product truth;
+•	glossary;
+•	recurring terminology;
+•	character voice;
+•	dependencies.
+17.	Zrób jeden pełny diagnostic audit książki.
+Ten audit ma znajdować problemy, a nie automatycznie przepisywać książkę.
+18.	Utwórz ISSUE_LEDGER.
+Każdy fragment oznacz:
+•	KEEP
+•	FIX
+•	BLOCK
+•	OWNER_GATE
+19.	Utwórz również FUNCTION / REPETITION MAP.
+Nie sprawdzaj tylko, czy powtarzają się słowa.
+Sprawdź, czy nie powtarza się ta sama funkcja.
+Przykłady:
+•	pięć różnych pytań robiących tak naprawdę to samo;
+•	kilka gier opartych na identycznej mechanice;
+•	kilka rozdziałów pełniących ten sam emotional job;
+•	zbyt dużo gratitude/reflection pod koniec;
+•	ten sam rodzaj humoru;
+•	ten sam typ otwarcia;
+•	ten sam reset pod inną nazwą.
+Książka może mieć zero identycznych zdań i nadal być bardzo powtarzalna.
+________________________________________
+SOURCE CONVERGENCE — NIE GUB DOBRYCH RZECZY
+Jeżeli istnieje kilka prawie finalnych wersji:
+nie wybieraj jednej wersji i nie wyrzucaj reszty.
+Porównaj je według stabilnych segment IDs i funkcji.
+Zachowaj najlepsze istniejące elementy.
+Nowszy plik nie wygrywa automatycznie ze starszym lepszym fragmentem.
+Nie pozwól, żeby nowa iteracja przypadkowo przywróciła stary błąd.
+________________________________________
+ROUTE A — SAME-LANGUAGE PREMIUM UPGRADE
+Jeżeli wybrałam Route A, pracujesz bezpośrednio na istniejącym języku książki.
+Sprawdź:
+•	reader experience;
+•	naturalność;
+•	premium book register;
+•	gramatykę;
+•	składnię;
+•	idiom;
+•	rytm;
+•	strukturę;
+•	arc;
+•	logic;
+•	continuity;
+•	referents;
+•	chronology;
+•	repeated functions;
+•	repeated mechanics;
+•	filler;
+•	clarity;
+•	audience fit;
+•	age fit;
+•	anti-cringe;
+•	humor;
+•	character differentiation;
+•	emotional load;
+•	instruction completeness;
+•	puzzle truth;
+•	safety;
+•	consent;
+•	layout-density risk;
+•	ending quality;
+•	opening quality.
+Nie zmieniaj immutable truth tylko dlatego, że da się coś napisać efektowniej.
+________________________________________
+ROUTE B — NATIVE RE-AUTHORING W NOWYM JĘZYKU
+Jeżeli wybrałam Route B, obowiązuje dokładna kolejność:
+1. SOURCE FUNCTION ANALYST
+Czyta original source.
+Tworzy dla każdego segmentu wording-free functional brief.
+Ma zapisać:
+•	co fragment robi;
+•	co czytelnik ma zrozumieć;
+•	co ma zrobić;
+•	jakie fakty muszą zostać;
+•	jaka jest funkcja emocjonalna;
+•	jaka jest funkcja humoru;
+•	kto mówi;
+•	co jest mechanicznym lockiem;
+•	safety/consent;
+•	chronology;
+•	dependencies.
+2. WRITER PACKET
+Tworzysz writer packet dla target-language autora.
+Jeżeli to możliwe, writer nie dostaje sentence-level wording source.
+Ma dostać funkcję i prawdę, nie angielską/polską składnię do kopiowania.
+3. NATIVE TARGET-LANGUAGE WRITER
+Pisze tekst tak, jakby książka była od początku tworzona w języku docelowym.
+4. TARGET-LANGUAGE USAGE / IDIOM / NATURAL LANGUAGE EDITOR
+Sprawdza:
+•	real native usage;
+•	grammar;
+•	syntax;
+•	collocations;
+•	idiom;
+•	semantic selection;
+•	word order;
+•	spoken/read-aloud rhythm.
+„Technicznie poprawne” nie wystarcza.
+Tekst ma być naturalny.
+5. BOOK REGISTER EDITOR
+Sprawdza, czy naturalny język jest jednocześnie dobrym językiem książki.
+Nie chcemy:
+•	sztywnego tłumaczenia;
+•	ale też czatu;
+•	TikToka;
+•	social-media cadence;
+•	losowych urwanych zdań.
+6. AUDIENCE / FAMILY EAR / AGE-FIT REVIEWER
+Czyta jak realny target reader.
+7. CULTURAL LOCALIZER
+Wchodzi tylko tam, gdzie realnie istnieje cultural distance.
+Nie dodaje dekoracyjnej „lokalności”.
+8. TRANSCREATOR
+Wchodzi tylko tam, gdzie trzeba odbudować:
+•	humor;
+•	pun;
+•	rhythm;
+•	wordplay;
+•	emotional mechanism.
+Nie zmienia facts, mechanics ani safety.
+9. LOGIC / CONTINUITY EDITOR
+Sprawdza książkę jako system.
+10. MECHANICS / INSTRUCTION / PUZZLE / SAFETY REVIEW
+Sprawdza wszystko, co musi naprawdę działać.
+11. DOPIERO TERAZ OTWÓRZ PONOWNIE SOURCE
+Meaning Guardian i Bilingual QA sprawdzają:
+•	sens;
+•	facts;
+•	chronology;
+•	mechanics;
+•	safety;
+•	consent;
+•	claim strength;
+•	required callbacks.
+Nie przywracaj source syntax tylko po to, żeby wersje wyglądały podobnie.
+12. PROOFREADER
+Pracuje ostatni.
+Nie jest kolejnym creative writerem.
+________________________________________
+MULTI-AGENT BOARD — ZASADA WSPÓŁPRACY
+Permanentna zasada:
+MANY INDEPENDENT REVIEWERS → ONE EDITOR-IN-CHIEF → ONE CONTROLLED WRITER → INDEPENDENT VALIDATION
+Nie:
+Writer A przepisał wszystko.
+Potem Writer B przepisał wersję A.
+Potem Writer C przepisał wersję B.
+To powoduje semantic drift i niszczenie dobrych fragmentów.
+Reviewerzy pierwszego passu mają niezależnie zwrócić:
+•	KEEP
+•	FIX
+•	BLOCK
+•	OWNER_GATE
+plus:
+•	evidence;
+•	reason;
+•	ewentualną targeted suggestion.
+Dopiero potem Orchestrator / Editor-in-Chief porównuje wyniki.
+Decision priority
+Jeżeli agenci się nie zgadzają:
+1.	current explicit OWNER LOCK;
+2.	immutable truth / safety / mechanics / legal;
+3.	canonical product brief + target-language/style profile;
+4.	GOLDEN_KEEP / wcześniejsze approved content;
+5.	evidence from reader/logic/usability review;
+6.	stylistic preference.
+Niższa preferencja stylistyczna nie może nadpisać wyższego locka.
+________________________________________
+ONE-WRITER-PER-SURFACE
+Tylko jeden writer może jednocześnie zmieniać canonical working master.
+Inni agenci mogą:
+•	czytać;
+•	analizować;
+•	reviewować;
+•	zgłaszać poprawki.
+Nie mogą równolegle pisać do tego samego mastera.
+Przekazanie ownership wymaga trwałego checkpointu/handoffu.
+________________________________________
+SURGICAL CHANGE CONTROL — OBOWIĄZKOWY
+Przed każdym meaningful edit:
+1.	Freeze durable base snapshot.
+2.	Zapisz base hash.
+3.	Zadeklaruj dokładne allowed_changed_segments.
+4.	Zadeklaruj protected regions.
+5.	Wyznacz expected dependency closure.
+6.	Dopiero wtedy edytuj.
+Nie używaj poleceń typu:
+„rewrite entire book”.
+Jeżeli problem dotyczy jednej sekcji:
+edytuj jedną sekcję.
+Jeżeli problem dotyczy trzech powiązanych sekcji:
+allowlist zawiera dokładnie te trzy.
+Po zmianie:
+1.	policz actual changed segments;
+2.	porównaj z allowlistą;
+3.	porównaj protected hashes;
+4.	sprawdź previous frozen version;
+5.	uruchom QA;
+6.	uruchom regression;
+7.	checkpoint dopiero po PASS.
+Jeżeli zmieniło się coś poza scope:
+FAIL CLOSED.
+Revert.
+Narrow scope.
+Apply again.
+Nie oceniaj przypadkowego collateral drift na zasadzie:
+„ale chyba też wygląda lepiej”.
+________________________________________
+NIE PRZEPISUJ DOBREGO TEKSTU
+Każda propozycja zmiany musi odpowiedzieć:
+Jaki konkretny problem rozwiązujemy?
+oraz:
+Czy nowa wersja jest materialnie lepsza?
+Jeżeli odpowiedź nie jest jasna:
+KEEP.
+Nie poprawiaj dobrego tekstu tylko po to, żeby agent wykonał więcej pracy.
+________________________________________
+PO LOKALNEJ ZMIANIE NIE CZYTAJ CAŁEJ KSIĄŻKI OD NOWA
+Po bounded patch sprawdź:
+•	changed segments;
+•	declared neighbors;
+•	dependency closure;
+•	global invariants;
+•	regression tests.
+Pełny full-book read wykonuj tylko:
+1.	initial diagnostic;
+2.	po dużej zmianie struktury/function distribution;
+3.	przed OWNER_READ_CANDIDATE;
+4.	przed content freeze.
+To jest obowiązkowa zasada efektywności.
+________________________________________
+REGRESSION TESTS
+Regression ma chronić:
+•	zaakceptowaną intencję;
+•	mechanics;
+•	safety;
+•	facts;
+•	owner locks;
+•	logic.
+Nie ma ślepo chronić starego wording.
+Jeżeli po celowej poprawce CI mówi FAIL:
+najpierw ustal, czy regresję zrobiła książka, czy test nadal oczekuje starej słabszej wersji.
+Nie przywracaj gorszego tekstu wyłącznie po to, żeby CI było zielone.
+Test wolno zaktualizować dopiero po przejściu właściwego review i zapisaniu nowego accepted locka.
+________________________________________
+FULL-BOOK PREMIUM AUDIT
+Na milestone przeczytaj książkę jak prawdziwy czytelnik, nie tylko jak korektor.
+Sprawdź:
+•	opening power;
+•	pacing;
+•	middle-book sag;
+•	ending;
+•	payoff;
+•	logic;
+•	clarity;
+•	repeated functions;
+•	repeated mechanics;
+•	filler;
+•	tonal monotony;
+•	reader fatigue;
+•	character consistency;
+•	character voice distribution;
+•	humor density;
+•	humor quality;
+•	emotional load;
+•	anti-cringe;
+•	late-book reflection overload;
+•	czy każdy rozdział/dzień/sekcja naprawdę zarabia swoje miejsce.
+Wyniki najpierw trafiają do Issue Ledger.
+Nie są automatycznym rozkazem rewrite.
+________________________________________
+ACTIVITY / GAME / PUZZLE COMPLETENESS
+Tam, gdzie ma zastosowanie, sprawdź:
+•	start position;
+•	kto zaczyna;
+•	jak wybierany jest starter;
+•	first action;
+•	direction;
+•	turn order;
+•	counts;
+•	timing;
+•	round structure;
+•	error rules;
+•	reset;
+•	continuation;
+•	advanced/final version;
+•	two-person version;
+•	small-group version;
+•	ending condition;
+•	safety;
+•	consent;
+•	no-touch alternative;
+•	puzzle/clue/answer consistency.
+Rodzina/czytelnik nie może być zmuszony do zgadywania zasad.
+Clarity > brevity.
+Nie wolno usuwać safety, consent ani potrzebnej mechaniki tylko po to, żeby zmniejszyć word count.
+________________________________________
+CHILD / FAMILY / TEEN ANTI-CRINGE
+Tam, gdzie ma zastosowanie, odrzuć:
+•	baby language;
+•	adult pretending to speak youth slang;
+•	school-workshop voice;
+•	corporate coaching;
+•	therapy clichés;
+•	mindfulness clichés, jeżeli nie są celowym stylem książki;
+•	fake inspirational slogans;
+•	forced vulnerability;
+•	forced gratitude;
+•	forced apology;
+•	forced forgiveness;
+•	forced emotional disclosure.
+Humor ma być:
+•	krótki;
+•	sytuacyjny;
+•	charakterystyczny dla danej postaci.
+Nie może wyśmiewać:
+•	szczerej odpowiedzi;
+•	uczuć;
+•	przeprosin;
+•	affection;
+•	safety;
+•	czyjejś odmowy udziału.
+________________________________________
+REAL-SURFACE FIT
+Po ustabilizowaniu treści testuj dokładnie ten candidate hash, który ma zostać zatwierdzony.
+REAL_SURFACE_FIT_REPORT musi zawierać ten hash.
+Render starej wersji nie zatwierdza nowej wersji.
+Sprawdź:
+•	overflow;
+•	font size;
+•	hierarchy;
+•	readability;
+•	widows/orphans;
+•	page breaks;
+•	scan speed;
+•	callouts;
+•	dense pages;
+•	instruction fit;
+•	page-turn logic.
+Jeżeli coś się nie mieści:
+1.	approved layout variant;
+2.	harmless text tightening;
+3.	approved split;
+4.	owner exception.
+Layout nie ma prawa przepisać protected meaning.
+________________________________________
+STATUSY — NIE MIESZAJ ICH
+Zawsze rozróżniaj:
+DRAFT
+→ PREMIUM_WORKING
+→ OWNER_READ_CANDIDATE
+→ CONTENT_APPROVED
+→ FROZEN_CONTENT
+→ PRINT_READY
+→ RELEASE_AUTHORIZED
+OWNER_READ_CANDIDATE
+Editorial board uważa, że nie ma już substantive content defects.
+Powstaje:
+•	immutable candidate;
+•	exact hash;
+•	final multi-agent audit;
+•	czysty owner-read PDF wygenerowany dokładnie z tego candidate'a.
+Internal metadata nie trafia do reader-facing book pages.
+CONTENT_APPROVED
+Ja akceptuję exact candidate oraz owner-only content decisions.
+FROZEN_CONTENT
+Tworzysz:
+CONTENT_FREEZE_MANIFEST
+Od tego momentu:
+•	renderer nie poprawia tekstu;
+•	layout nie poprawia tekstu;
+•	image agent nie poprawia tekstu;
+•	Book Agent nie robi „jeszcze jednej redakcji”.
+Każda późniejsza zmiana wymaga formalnego unlocka konkretnego segmentu.
+PRINT_READY
+To osobna brama.
+Wymaga real-template/render/preflight oraz Previewer/physical proof wymaganych dla danego kanału.
+Dobry tekst nie oznacza jeszcze KDP-ready.
+RELEASE_AUTHORIZED
+Tylko po mojej jawnej zgodzie.
+________________________________________
+DURABLE GITHUB STATE
+Po każdym meaningful slice zapisz:
+•	exact branch;
+•	exact HEAD;
+•	master path;
+•	master hash;
+•	base snapshot;
+•	base hash;
+•	changed segment IDs;
+•	reason;
+•	agents/reviewers;
+•	QA result;
+•	CI result;
+•	open issues;
+•	owner gates.
+Jeżeli GitHub/write tool nie działa:
+nie kontynuuj tworzenia niewidocznych zmian w pamięci czatu.
+Ostatni durable checkpoint jest canonical.
+Nie mów, że CI PASS, jeśli exact-head CI się nie uruchomiło.
+Wtedy status to:
+NOT RUN
+albo
+PENDING.
+________________________________________
+HANDOFF DO BOOK FACTORY
+Dopiero po FROZEN_CONTENT przechodzimy do:
+BOOK_MAP
+→ LOCK GRAPH
+→ TEMPLATE / ASSET SLOTS
+→ DETERMINISTIC PAGE BUILD
+→ PAGE CACHE
+→ PDF
+→ VISUAL QA
+→ PREFLIGHT
+→ PREVIEWER / PHYSICAL PROOF
+→ PRINT_READY
+→ RELEASE_AUTHORIZED
+Jeżeli później zmienia się jedno zdanie:
+unlock tylko odpowiedniego segmentu i jego dependency closure.
+Nie global unfreeze.
+________________________________________
+DEFINITION OF DONE — CONTENT
+Creative editing kończy się, kiedy:
+•	source coverage jest kompletne;
+•	BLOCK = 0;
+•	material FIX = 0;
+•	no known semantic drift;
+•	facts są poprawne;
+•	mechanics są poprawne;
+•	safety/consent PASS;
+•	logic/continuity PASS;
+•	repetition/function PASS;
+•	native-language PASS;
+•	premium book-register PASS;
+•	audience/age/anti-cringe PASS;
+•	character voice PASS;
+•	humor PASS;
+•	proof PASS;
+•	exact-hash owner-read candidate istnieje;
+•	frozen previous versions są nadal nienaruszone;
+•	owner-only choices są jasno odseparowane;
+•	exact QA/CI state jest zapisany uczciwie.
+Jeżeli pełny audit nie znajduje już żadnego substantive defect:
+STOP REWRITING.
+Nie twórz kolejnych wersji tylko dlatego, że można.
+________________________________________
+PO PIERWSZYM RUNIE ZDAJ MI KRÓTKI RAPORT
+Napisz:
+1.	Route A czy Route B.
+2.	Gdzie zapisano durable source/baseline.
+3.	Jakie wersje znaleziono.
+4.	Co trafiło do GOLDEN_KEEP.
+5.	Najważniejsze book-wide defects.
+6.	Pierwszy highest-value bounded slice.
+7.	Branch / HEAD.
+8.	QA/CI state.
+9.	Czy istnieje jakakolwiek realna decyzja wymagająca mnie.
+Następnie prowadź pracę dalej autonomicznie przez kolejne bezpieczne bounded slices.
+Nie zatrzymuj się po zwykłą akceptację drobnej decyzji redakcyjnej.
+Zatrzymaj się tylko na prawdziwym owner gate, np.:
+•	title/brand choice;
+•	znacząca zmiana sensu;
+•	mechanika wymagająca decyzji właściciela;
+•	legal/compliance;
+•	nierozwiązywalny source conflict;
+•	physical proof;
+•	publication/release.
+Nie zmieniaj centralnych priorytetów RSE.
+Nie merge'uj main, nie publikuj i nie ustawiaj RELEASE_AUTHORIZED bez mojej wyraźnej zgody.
+
