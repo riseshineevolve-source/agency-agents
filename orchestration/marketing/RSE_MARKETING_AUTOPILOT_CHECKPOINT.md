@@ -1,5 +1,14 @@
 # RSE Marketing Autopilot Checkpoint — 2026-09-21
 
+## Current checkpoint override - 2026-10-21
+
+Current dedicated Marketing execution: `marketing/gentle-steps/2026-10-21/RECOVERY_NOTES.md` and this lane's mailbox.
+One reviewed PL back-cover candidate, native EN Amazon description, five bilingual A+ modules and three bilingual social masters are OWNER_READ_CANDIDATE. Exact text hashes and actual review receipts are in that packet. Reader PDF is a copy proof only. No product source, final visual family, publication, scheduling, paid spend or source freeze changed.
+
+Metricool brand/network and Creative Claw workspace reads are fresh October21; Instagram posts/reels returned no rows in the checked window, scheduled endpoint returned no future items and does not expose drafts. Historical12 Detective drafts remain repo-recorded, not re-enumerated here. Detective publication hold and frozen assets remain. Screen Zombie is closed; Optical is V4 coloring-only. See current recovery notes for dated-source conflicts.
+
+The September checkpoint below is retained as historical evidence.
+
 Status: DURABLE BOOTSTRAP COMPLETE / DETECTIVE PRE-LAUNCH READY
 
 ## Milestone

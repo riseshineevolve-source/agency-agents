@@ -1,0 +1,33 @@
+{
+  "status": "OWNER_READ_CANDIDATE",
+  "copy_segments_reviewed": 34,
+  "pl_candidate_sha256": "012bfa971a90cfc75c5015626fb85dbb438f41b76837df6bb35c340bf3316956",
+  "en_candidate_sha256": "2e8317a077247eea851a7487af5985e901dabd0a72fd33ffbd632af00ed2b213",
+  "reviewer_agents": [
+    "polish_copy_review",
+    "marketing_context_audit"
+  ],
+  "stages": [
+    "native_language",
+    "meaning",
+    "audience",
+    "logic"
+  ],
+  "deterministic_report": "qa/<locale>/check.accepted.json",
+  "reader_pdf": {
+    "filename": "RSE_GENTLE_STEPS_MARKETING_OWNER_REVIEW_20261021.pdf",
+    "sha256": "e3254f3286aeadf30aef32b6020f95e561d7fcaa625ff58da08f98174329624a",
+    "pages": 6,
+    "all_six_pngs_visually_inspected": true,
+    "out_of_page_text_words": 0,
+    "embedded_unicode_fonts": true
+  },
+  "attachment_unchanged_sha256": "140528082677ba38220e4b741e553beb47ae5525e928ce31540de5a7b9e639c8",
+  "product_sources_changed": false,
+  "other_lane_mailboxes_changed": false,
+  "owner_approval": false,
+  "final_visuals": false,
+  "print_ready": false,
+  "release_authorized": false,
+  "live_actions": []
+}

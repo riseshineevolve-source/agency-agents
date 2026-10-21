@@ -1,20 +1,52 @@
 lane: marketing_autopilot
 title: "RSE Marketing Autopilot"
-updated: 2026-10-12
-status: READY__DETECTIVE_ORGANIC_ROLLOUT_HELD_FOR_PUBLICATION
-branch_or_repo_state: agency-agents/main
-milestone: frozen_gold_marketing_family_complete_metricool_drafts_held_until_book_live
-blocker: detective_book_not_published_yet
-owner_gate: owner_signal_book_is_live_before_activation
+updated: 2026-10-21
+status: GENTLE_STEPS_COPY_OWNER_READ_CANDIDATE__DETECTIVE_PUBLICATION_HOLD
+branch_or_repo_state:
+  repository: riseshineevolve-source/agency-agents
+  branch: feat/marketing-autopilot-takeover-20261021
+  base_main: 4b123f5ccdb77f7a8e4390624f7466d16ba665a6
+  scope: marketing_surfaces_and_this_mailbox_only
+milestone:
+  gentle_steps:
+    pl_back_cover: ONE_REVIEWED_CANDIDATE
+    en_amazon: NATIVE_INDEPENDENT_CANDIDATE
+    a_plus: FIVE_MODULES_EACH_LANGUAGE
+    social: THREE_MASTERS_EACH_LANGUAGE__REPO_ONLY
+    review: ALL_34_SEGMENTS__FOUR_ACTUAL_STAGES_PASS__TWO_INDEPENDENT_REVIEWERS
+    deterministic: RSE_LANGUAGE_STUDIO_PASS__BOUNDED_CHANGES_ONLY
+    pl_candidate_sha256: 012bfa971a90cfc75c5015626fb85dbb438f41b76837df6bb35c340bf3316956
+    en_candidate_sha256: 2e8317a077247eea851a7487af5985e901dabd0a72fd33ffbd632af00ed2b213
+    product_sources: UNCHANGED_READ_ONLY
+    art: ORIGINAL_ATTACHMENT_UNCHANGED__NO_NEW_FINAL_VISUALS
+  detective: FROZEN_GOLD_UNCHANGED__NO_LIVE_SIGNAL_VERIFIED
+  measurement: FRESH_METRICOOL_BRAND_AND_IG_READS__NO_CURRENT_WINNER_PROVEN
+blocker:
+  - current_exact_approved_Christmas_identity_assets_and_editable_cover_master_not_resolved
+  - final_cover_template_QR_destination_and_print_fit_not_verified
+  - current_product_card_and_live_destination_links_not_verified
+owner_gate:
+  - exact_new_Gentle_Steps_copy_and_final_visual_family_acceptance
+  - Detective_owner_book_live_signal_then_verified_listing_before_activation
+  - paid_generation_spend_price_discount_source_freeze_and_public_release_remain_separate
 dependencies_needed:
+  - lane: gentle_steps
+    need: approved current cover/Happy Makers source IDs and editable packaging master; actual KDP template/page count/paper inputs; verified QR destination. Do not rewrite R6/body or treat app CI as print proof.
+  - lane: website_factory
+    need: consume reviewed copy only after acceptance; repair legacy Gentle Steps product card and verify real format links before connecting editorial guide CTAs. Marketing does not edit Website HTML.
   - lane: detective_book_factory
-    need: expose verified live publication state and exact listing URL when available
+    need: expose owner-confirmed live publication state and exact verified listing URL when available; keep frozen marketing assets and publication hold.
+  - lane: polish_localization
+    need: preserve existing four October20 bilingual guide candidates and source-mapped teaser decisions; this marketing packet does not replace guides or product language locks.
 reusable_outputs:
-  - marketing/GENTLE_STEPS_A_PLUS_SOCIAL_AMAZON_COPY_PACK_2026-10-13.md
-  - marketing/DETECTIVE_ACADEMY_PRODUCT_MARKETING_BRIEF_2026-10-07.md
-  - marketing/DETECTIVE_MARKETING_VISUAL_LOCK_2026-10-12.md
-  - marketing/DETECTIVE_FINAL_ORGANIC_RELEASE_PACK_2026-10-12.md
+  - marketing/gentle-steps/2026-10-21/COPY_PACK.md
+  - marketing/gentle-steps/2026-10-21/copy.pl.final.json
+  - marketing/gentle-steps/2026-10-21/copy.en.final.json
+  - marketing/gentle-steps/2026-10-21/PRODUCTION_BRIEF.md
+  - marketing/gentle-steps/2026-10-21/CLAIM_MATRIX.json
+  - marketing/gentle-steps/2026-10-21/EN_SOURCE_COUNTS.json
+  - marketing/gentle-steps/2026-10-21/qa/
   - marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
   - marketing/PERFORMANCE_MEMORY.yml
-next_safe_task: continue Gentle Steps creative/A+ production from the new copy pack and current PL packaging; keep Detective rollout held until its book is live; do not activate paid spend
-checkpoint_reference: marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
+next_safe_task: After exact copy/visual and source dependencies clear, assemble approved assets without regenerating identities, verify true destination links, export native variants and perform visual QA; assign publication dates only after actual release gates. No paid activation or product-source edits.
+checkpoint_reference: marketing/gentle-steps/2026-10-21/RECOVERY_NOTES.md

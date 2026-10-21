@@ -1,0 +1,74 @@
+{
+  "runtime": "1d06a11e071918d817d618d17da8cb83aeda1651",
+  "repository": "riseshineevolve-source/RISE.SHINE.EVOLVE",
+  "pack_checks": [
+    {
+      "path": "week-01.json",
+      "blob": "34047d782199c626b9a99698da1f6ab99a7707c8",
+      "source_sha256": "d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1",
+      "day_ids": [
+        "day_01",
+        "day_02",
+        "day_03",
+        "day_04",
+        "day_05",
+        "day_06"
+      ],
+      "days": 6,
+      "sections": 18,
+      "tomorrow": 6,
+      "two_people": 6
+    },
+    {
+      "path": "week-02.json",
+      "blob": "cc08ae08c78c9f354e53a3fbec47213a9364da95",
+      "source_sha256": "d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1",
+      "day_ids": [
+        "day_07",
+        "day_08",
+        "day_09",
+        "day_10",
+        "day_11",
+        "day_12"
+      ],
+      "days": 6,
+      "sections": 18,
+      "tomorrow": 6,
+      "two_people": 6
+    },
+    {
+      "path": "week-03.json",
+      "blob": "dcf1cacd4131755889f0da93adb5d0edb8a9677d",
+      "source_sha256": "d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1",
+      "day_ids": [
+        "day_13",
+        "day_14",
+        "day_15",
+        "day_16",
+        "day_17",
+        "day_18"
+      ],
+      "days": 6,
+      "sections": 18,
+      "tomorrow": 6,
+      "two_people": 6
+    },
+    {
+      "path": "week-04.json",
+      "blob": "7858ee6ad8942b4a819f984603e82200dbc89d77",
+      "source_sha256": "d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1",
+      "day_ids": [
+        "day_19",
+        "day_20",
+        "day_21",
+        "day_22",
+        "day_23",
+        "day_24"
+      ],
+      "days": 6,
+      "sections": 18,
+      "tomorrow": 6,
+      "two_people": 6
+    }
+  ]
+}

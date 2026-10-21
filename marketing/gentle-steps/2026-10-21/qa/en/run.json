@@ -1,0 +1,459 @@
+{
+  "format": "rse-language-run-v1",
+  "source_path": "/workspace/scratch/c039b8197431/marketing-control/marketing/gentle-steps/2026-10-21/copy.en.json",
+  "source_sha256": "92184019926d7d4c4d1edc5230486ed715bc5ecd0ca6b86f5e6c6fa59db5748e",
+  "source_snapshot": "source.json",
+  "source_language": "en",
+  "target_language": "en",
+  "mode": "upgrade",
+  "scope": "bounded",
+  "project": "gentle-steps",
+  "profile": {
+    "schema_version": 1,
+    "project": "gentle-steps",
+    "languages": {
+      "pl": {
+        "required_review_stages": [
+          "native_language",
+          "meaning",
+          "audience",
+          "logic"
+        ],
+        "required_strings": [],
+        "forbidden_strings": []
+      },
+      "en": {
+        "required_review_stages": [
+          "native_language",
+          "meaning",
+          "audience",
+          "logic"
+        ],
+        "required_strings": [],
+        "forbidden_strings": []
+      }
+    },
+    "locks": [
+      {
+        "id": "title",
+        "pl": "ŚWIĘTA SĄ TEŻ PO DRODZE",
+        "en": "BEFORE CHRISTMAS SLIPS BY"
+      },
+      {
+        "id": "subtitle",
+        "pl": "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.",
+        "en": "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together."
+      },
+      {
+        "id": "pause",
+        "pl": "ZŁAPMY CHWILĘ",
+        "en": "LET’S TAKE A MOMENT"
+      },
+      {
+        "id": "play",
+        "pl": "ZRÓBMY COŚ RAZEM",
+        "en": "LET’S DO THIS TOGETHER"
+      },
+      {
+        "id": "talk",
+        "pl": "POGADAJMY",
+        "en": "LET’S TALK"
+      },
+      {
+        "id": "tomorrow",
+        "pl": "NA JUTRO",
+        "en": "TRY IT TOMORROW"
+      },
+      {
+        "id": "two-people",
+        "pl": "W DWIE OSOBY",
+        "en": "TWO PEOPLE"
+      },
+      {
+        "id": "strapline",
+        "pl": "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.",
+        "en": "A BOOK THAT FITS INTO YOUR DECEMBER."
+      }
+    ],
+    "protect_patterns": [
+      "\\{\\{[^{}]+\\}\\}",
+      "\\{[A-Za-z_][A-Za-z0-9_]*\\}",
+      "%\\d*\\$?[sdf]"
+    ],
+    "voice": {
+      "pl": "Naturalny współczesny polski, dobry rejestr książkowy, bez kalek, coachingu, wymuszonego slangu i długich myślników.",
+      "en": "Natural idiomatic English in the source/project variety. Precise, warm and unforced. No translationese or synthetic sentiment."
+    },
+    "authority": "marketing/GENTLE_STEPS_LOCALIZED_CAMPAIGN_MASTER_2026-10-13.md; current polish_localization mailbox",
+    "protected_product_truth": [
+      "24 days; three main sections per day; 24 NA JUTRO; two-person variants",
+      "R6 body protected; article edit is not book/app rewrite authorization",
+      "Exact subtitle differs from short strapline; EN strapline editorial completion, not historical Oct13 owner lock",
+      "No automatic migration of stale PDF labels/title without declared scope"
+    ]
+  },
+  "adapter": {
+    "kind": "json",
+    "document": {
+      "edition": "Gentle Steps EN marketing owner-read candidate",
+      "date": "2026-10-21",
+      "status": "PREMIUM_WORKING",
+      "segments": [
+        {
+          "id": "EN_BRAND",
+          "text": "THE HAPPY MAKERS PRESENT",
+          "protected": true
+        },
+        {
+          "id": "EN_TITLE",
+          "text": "BEFORE CHRISTMAS SLIPS BY",
+          "protected": true
+        },
+        {
+          "id": "EN_SUBTITLE",
+          "text": "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.",
+          "protected": true
+        },
+        {
+          "id": "EN_STRAPLINE",
+          "text": "A BOOK THAT FITS INTO YOUR DECEMBER.",
+          "protected": true
+        },
+        {
+          "id": "EN_LABELS",
+          "text": "LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK",
+          "protected": true
+        },
+        {
+          "id": "EN_AMAZON",
+          "text": "December has a talent for filling every gap. There are things to finish, places to be, and usually someone looking for the tape. This book makes room for a small, ordinary good thing: being together while the day is still happening.\n\nAcross 24 days, three short parts offer approximately ten minutes of shared time each day. No extra shopping, craft supplies, or elaborate preparation. Just a place to begin.\n\nLET’S TAKE A MOMENT\nA short pause gives the day a little breathing room. Each includes a practical TRY IT TOMORROW idea.\n\nLET’S DO THIS TOGETHER\nA shared game or activity gives everyone something to join in with. Each game includes a TWO PEOPLE version.\n\nLET’S TALK\nOne conversation prompt opens a little space to hear from each other. Keep it light or say a little more.\n\nThese glimpses come from three different days. EMPTY HANDS invites you to safely put down what you’re holding for a brief pause. THE FAMILY MACHINE brings together everyone’s movements and sounds. Another day asks: WHO DID SOMETHING THAT ALMOST NOBODY NOTICED? A conversation about one specific helpful act.\n\nMimi, Luli, Dilo, Alio, and Nini, the five Happy Makers, add humor along the way.\n\nSome days you may do all three parts. Some days may be shorter. A missed day can stay missed. The calendar leaves room for family life as it is.\n\nThe point is the time you share now: a pause, a bit of play, a chance to listen. Small enough to fit into December. Enough to be together."
+        },
+        {
+          "id": "EN_A1",
+          "text": "THE HAPPY MAKERS PRESENT\n\nBEFORE CHRISTMAS SLIPS BY\n\nA 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.\n\nMake a little room for each other this December."
+        },
+        {
+          "id": "EN_A2",
+          "text": "LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK\n\nA short pause, a shared game or activity, and one conversation prompt. Three small parts, approximately ten minutes total each day. Each pause includes a practical TRY IT TOMORROW idea."
+        },
+        {
+          "id": "EN_A3",
+          "text": "Three glimpses from different days: EMPTY HANDS, a brief pause to safely put down what you’re holding. THE FAMILY MACHINE, everyone’s movements and sounds together. WHO DID SOMETHING THAT ALMOST NOBODY NOTICED? A conversation about one specific helpful act."
+        },
+        {
+          "id": "EN_A4",
+          "text": "TWO PEOPLE\n\nEvery game includes a version for two. Take the time you have, keep a day shorter, or leave a missed day behind. There is room for your family’s December."
+        },
+        {
+          "id": "EN_A5",
+          "text": "Time together can be small. A pause, a bit of play, a conversation that stays light if that’s what suits today. Let the five Happy Makers bring some humor to the moment you share."
+        },
+        {
+          "id": "EN_S1_HOOK",
+          "text": "TEN MINUTES TOGETHER. NOTHING TO PREP."
+        },
+        {
+          "id": "EN_S1",
+          "text": "December has a way of turning “a quiet ten minutes” into a scheduling problem. BEFORE CHRISTMAS SLIPS BY offers 24 days of short pauses, shared games or activities, and one conversation prompt a day. Approximately ten minutes total, with no extra shopping or elaborate prep. A small way to spend time together while December is happening. Save this for a busy December day."
+        },
+        {
+          "id": "EN_S2_HOOK",
+          "text": "LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK"
+        },
+        {
+          "id": "EN_S2",
+          "text": "Three glimpses from three different days. EMPTY HANDS invites a brief pause to safely put down what you’re holding. THE FAMILY MACHINE gathers everyone’s movements and sounds. Another day asks: WHO DID SOMETHING THAT ALMOST NOBODY NOTICED? A conversation about one specific helpful act. A pause, some play, a chance to hear each other. Share this with someone who would enjoy ten minutes together."
+        },
+        {
+          "id": "EN_S3_HOOK",
+          "text": "JUST TWO OF YOU TODAY?"
+        },
+        {
+          "id": "EN_S3",
+          "text": "Just two of you today? Two is plenty. Every game in BEFORE CHRISTMAS SLIPS BY has a TWO PEOPLE version, so there’s still room for a bit of play. Do a shorter day when that suits, or let a missed day stay missed. The useful bit is the time you spend together now. Comment with your favorite small way to spend time together."
+        }
+      ]
+    },
+    "segment_specs": [
+      {
+        "id": "EN_BRAND",
+        "text": "THE HAPPY MAKERS PRESENT",
+        "protected": true
+      },
+      {
+        "id": "EN_TITLE",
+        "text": "BEFORE CHRISTMAS SLIPS BY",
+        "protected": true
+      },
+      {
+        "id": "EN_SUBTITLE",
+        "text": "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.",
+        "protected": true
+      },
+      {
+        "id": "EN_STRAPLINE",
+        "text": "A BOOK THAT FITS INTO YOUR DECEMBER.",
+        "protected": true
+      },
+      {
+        "id": "EN_LABELS",
+        "text": "LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK",
+        "protected": true
+      },
+      {
+        "id": "EN_AMAZON",
+        "text": "December has a talent for filling every gap. There are things to finish, places to be, and usually someone looking for the tape. This book makes room for a small, ordinary good thing: being together while the day is still happening.\n\nAcross 24 days, three short parts offer approximately ten minutes of shared time each day. No extra shopping, craft supplies, or elaborate preparation. Just a place to begin.\n\nLET’S TAKE A MOMENT\nA short pause gives the day a little breathing room. Each includes a practical TRY IT TOMORROW idea.\n\nLET’S DO THIS TOGETHER\nA shared game or activity gives everyone something to join in with. Each game includes a TWO PEOPLE version.\n\nLET’S TALK\nOne conversation prompt opens a little space to hear from each other. Keep it light or say a little more.\n\nThese glimpses come from three different days. EMPTY HANDS invites you to safely put down what you’re holding for a brief pause. THE FAMILY MACHINE brings together everyone’s movements and sounds. Another day asks: WHO DID SOMETHING THAT ALMOST NOBODY NOTICED? A conversation about one specific helpful act.\n\nMimi, Luli, Dilo, Alio, and Nini, the five Happy Makers, add humor along the way.\n\nSome days you may do all three parts. Some days may be shorter. A missed day can stay missed. The calendar leaves room for family life as it is.\n\nThe point is the time you share now: a pause, a bit of play, a chance to listen. Small enough to fit into December. Enough to be together."
+      },
+      {
+        "id": "EN_A1",
+        "text": "THE HAPPY MAKERS PRESENT\n\nBEFORE CHRISTMAS SLIPS BY\n\nA 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.\n\nMake a little room for each other this December."
+      },
+      {
+        "id": "EN_A2",
+        "text": "LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK\n\nA short pause, a shared game or activity, and one conversation prompt. Three small parts, approximately ten minutes total each day. Each pause includes a practical TRY IT TOMORROW idea."
+      },
+      {
+        "id": "EN_A3",
+        "text": "Three glimpses from different days: EMPTY HANDS, a brief pause to safely put down what you’re holding. THE FAMILY MACHINE, everyone’s movements and sounds together. WHO DID SOMETHING THAT ALMOST NOBODY NOTICED? A conversation about one specific helpful act."
+      },
+      {
+        "id": "EN_A4",
+        "text": "TWO PEOPLE\n\nEvery game includes a version for two. Take the time you have, keep a day shorter, or leave a missed day behind. There is room for your family’s December."
+      },
+      {
+        "id": "EN_A5",
+        "text": "Time together can be small. A pause, a bit of play, a conversation that stays light if that’s what suits today. Let the five Happy Makers bring some humor to the moment you share."
+      },
+      {
+        "id": "EN_S1_HOOK",
+        "text": "TEN MINUTES TOGETHER. NOTHING TO PREP."
+      },
+      {
+        "id": "EN_S1",
+        "text": "December has a way of turning “a quiet ten minutes” into a scheduling problem. BEFORE CHRISTMAS SLIPS BY offers 24 days of short pauses, shared games or activities, and one conversation prompt a day. Approximately ten minutes total, with no extra shopping or elaborate prep. A small way to spend time together while December is happening. Save this for a busy December day."
+      },
+      {
+        "id": "EN_S2_HOOK",
+        "text": "LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK"
+      },
+      {
+        "id": "EN_S2",
+        "text": "Three glimpses from three different days. EMPTY HANDS invites a brief pause to safely put down what you’re holding. THE FAMILY MACHINE gathers everyone’s movements and sounds. Another day asks: WHO DID SOMETHING THAT ALMOST NOBODY NOTICED? A conversation about one specific helpful act. A pause, some play, a chance to hear each other. Share this with someone who would enjoy ten minutes together."
+      },
+      {
+        "id": "EN_S3_HOOK",
+        "text": "JUST TWO OF YOU TODAY?"
+      },
+      {
+        "id": "EN_S3",
+        "text": "Just two of you today? Two is plenty. Every game in BEFORE CHRISTMAS SLIPS BY has a TWO PEOPLE version, so there’s still room for a bit of play. Do a shorter day when that suits, or let a missed day stay missed. The useful bit is the time you spend together now. Comment with your favorite small way to spend time together."
+      }
+    ]
+  },
+  "freeze": null,
+  "segments": [
+    {
+      "id": "EN_BRAND",
+      "locator": "/segments/0/text",
+      "source_text": "THE HAPPY MAKERS PRESENT",
+      "source_sha256": "5717eea799de8d18b05b8975a141a42f5bad5e433e95656048453044c5842d56",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": true
+    },
+    {
+      "id": "EN_TITLE",
+      "locator": "/segments/1/text",
+      "source_text": "BEFORE CHRISTMAS SLIPS BY",
+      "source_sha256": "17fdb0d4f4df6a0765f254a05864a4a6ea8aeb891e75485030f224f926e93aa7",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": true
+    },
+    {
+      "id": "EN_SUBTITLE",
+      "locator": "/segments/2/text",
+      "source_text": "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.",
+      "source_sha256": "3931221af1bc5a8ca166c949bb7d97744b3817d462ba7acf6c2794d66e7ac9f5",
+      "protected_tokens": [],
+      "numbers": [
+        "24"
+      ],
+      "protected_numbers": [],
+      "protected": true
+    },
+    {
+      "id": "EN_STRAPLINE",
+      "locator": "/segments/3/text",
+      "source_text": "A BOOK THAT FITS INTO YOUR DECEMBER.",
+      "source_sha256": "38de668613154facbf97f82b9106e51c8044023087b15f6bde6bf981167d432d",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": true
+    },
+    {
+      "id": "EN_LABELS",
+      "locator": "/segments/4/text",
+      "source_text": "LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK",
+      "source_sha256": "60bb7ca99feabb50095537ffe3cca350f32967864c5e002ed77463e65f397f4c",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": true
+    },
+    {
+      "id": "EN_AMAZON",
+      "locator": "/segments/5/text",
+      "source_text": "December has a talent for filling every gap. There are things to finish, places to be, and usually someone looking for the tape. This book makes room for a small, ordinary good thing: being together while the day is still happening.\n\nAcross 24 days, three short parts offer approximately ten minutes of shared time each day. No extra shopping, craft supplies, or elaborate preparation. Just a place to begin.\n\nLET’S TAKE A MOMENT\nA short pause gives the day a little breathing room. Each includes a practical TRY IT TOMORROW idea.\n\nLET’S DO THIS TOGETHER\nA shared game or activity gives everyone something to join in with. Each game includes a TWO PEOPLE version.\n\nLET’S TALK\nOne conversation prompt opens a little space to hear from each other. Keep it light or say a little more.\n\nThese glimpses come from three different days. EMPTY HANDS invites you to safely put down what you’re holding for a brief pause. THE FAMILY MACHINE brings together everyone’s movements and sounds. Another day asks: WHO DID SOMETHING THAT ALMOST NOBODY NOTICED? A conversation about one specific helpful act.\n\nMimi, Luli, Dilo, Alio, and Nini, the five Happy Makers, add humor along the way.\n\nSome days you may do all three parts. Some days may be shorter. A missed day can stay missed. The calendar leaves room for family life as it is.\n\nThe point is the time you share now: a pause, a bit of play, a chance to listen. Small enough to fit into December. Enough to be together.",
+      "source_sha256": "e1491402c50706f3881ea84c424227647b6cdd20921be3887059f0a32faa4e7a",
+      "protected_tokens": [],
+      "numbers": [
+        "24"
+      ],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_A1",
+      "locator": "/segments/6/text",
+      "source_text": "THE HAPPY MAKERS PRESENT\n\nBEFORE CHRISTMAS SLIPS BY\n\nA 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.\n\nMake a little room for each other this December.",
+      "source_sha256": "d20660f41d5628d8ab888f946319b33894e1bbe894d63119ca20db92383ba7a6",
+      "protected_tokens": [],
+      "numbers": [
+        "24"
+      ],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_A2",
+      "locator": "/segments/7/text",
+      "source_text": "LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK\n\nA short pause, a shared game or activity, and one conversation prompt. Three small parts, approximately ten minutes total each day. Each pause includes a practical TRY IT TOMORROW idea.",
+      "source_sha256": "a7ff4691803b04339ec437739fa6d3b8bb4321ca68a71ad5279b0819831b37bf",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_A3",
+      "locator": "/segments/8/text",
+      "source_text": "Three glimpses from different days: EMPTY HANDS, a brief pause to safely put down what you’re holding. THE FAMILY MACHINE, everyone’s movements and sounds together. WHO DID SOMETHING THAT ALMOST NOBODY NOTICED? A conversation about one specific helpful act.",
+      "source_sha256": "9bb68d630d4cd0cad6b83674ee1d278560950d9050e837a1d90019b61ccbed7b",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_A4",
+      "locator": "/segments/9/text",
+      "source_text": "TWO PEOPLE\n\nEvery game includes a version for two. Take the time you have, keep a day shorter, or leave a missed day behind. There is room for your family’s December.",
+      "source_sha256": "b4d43c0ba55e6db00aa8d0852ad0fc4993191ff263656c2afecd249efaa61e5a",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_A5",
+      "locator": "/segments/10/text",
+      "source_text": "Time together can be small. A pause, a bit of play, a conversation that stays light if that’s what suits today. Let the five Happy Makers bring some humor to the moment you share.",
+      "source_sha256": "b728e3ed1f68da43adb8dd55e5ec589041560b3e27bf098ce3149e4d999d626a",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_S1_HOOK",
+      "locator": "/segments/11/text",
+      "source_text": "TEN MINUTES TOGETHER. NOTHING TO PREP.",
+      "source_sha256": "dbcd969b5d68b4550991cdc24520b9a5a46780f50ffbabc14d891ef54dbd9d4c",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_S1",
+      "locator": "/segments/12/text",
+      "source_text": "December has a way of turning “a quiet ten minutes” into a scheduling problem. BEFORE CHRISTMAS SLIPS BY offers 24 days of short pauses, shared games or activities, and one conversation prompt a day. Approximately ten minutes total, with no extra shopping or elaborate prep. A small way to spend time together while December is happening. Save this for a busy December day.",
+      "source_sha256": "ea7e71fea2eb1efbeb69ebcae842a364858ad9857ff49b13a8d232bfa1a8aa1c",
+      "protected_tokens": [],
+      "numbers": [
+        "24"
+      ],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_S2_HOOK",
+      "locator": "/segments/13/text",
+      "source_text": "LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK",
+      "source_sha256": "60bb7ca99feabb50095537ffe3cca350f32967864c5e002ed77463e65f397f4c",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_S2",
+      "locator": "/segments/14/text",
+      "source_text": "Three glimpses from three different days. EMPTY HANDS invites a brief pause to safely put down what you’re holding. THE FAMILY MACHINE gathers everyone’s movements and sounds. Another day asks: WHO DID SOMETHING THAT ALMOST NOBODY NOTICED? A conversation about one specific helpful act. A pause, some play, a chance to hear each other. Share this with someone who would enjoy ten minutes together.",
+      "source_sha256": "684f0194b7d397334b4918de9165852bb97150cc1ac5646f643caf1502db9beb",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_S3_HOOK",
+      "locator": "/segments/15/text",
+      "source_text": "JUST TWO OF YOU TODAY?",
+      "source_sha256": "ad81a673daaf4df7fbeec2a19ed711017dc938f81cd6c893758630f4bed08a89",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN_S3",
+      "locator": "/segments/16/text",
+      "source_text": "Just two of you today? Two is plenty. Every game in BEFORE CHRISTMAS SLIPS BY has a TWO PEOPLE version, so there’s still room for a bit of play. Do a shorter day when that suits, or let a missed day stay missed. The useful bit is the time you spend together now. Comment with your favorite small way to spend time together.",
+      "source_sha256": "b8dac28ff429e4eac5058ebb7f564bc6c81ad7832187c392dc959fd5254453a0",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    }
+  ],
+  "required_strings": [
+    "BEFORE CHRISTMAS SLIPS BY",
+    "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.",
+    "LET’S TAKE A MOMENT",
+    "LET’S DO THIS TOGETHER",
+    "LET’S TALK",
+    "TRY IT TOMORROW",
+    "TWO PEOPLE",
+    "A BOOK THAT FITS INTO YOUR DECEMBER."
+  ],
+  "required_string_counts": {
+    "BEFORE CHRISTMAS SLIPS BY": 4,
+    "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together.": 2,
+    "LET’S TAKE A MOMENT": 4,
+    "LET’S DO THIS TOGETHER": 4,
+    "LET’S TALK": 4,
+    "TRY IT TOMORROW": 2,
+    "TWO PEOPLE": 3,
+    "A BOOK THAT FITS INTO YOUR DECEMBER.": 1
+  },
+  "preserve_numbers": false,
+  "default_status": "PREMIUM_WORKING",
+  "print_ready": false,
+  "release_authorized": false,
+  "manifest_sha256": "55af922dfb77d7f6024c0f3a4a39e98ff7da2c4b81ee7d695b0da8cadfd332f1"
+}

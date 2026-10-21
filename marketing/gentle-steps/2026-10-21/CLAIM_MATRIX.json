@@ -1,0 +1,87 @@
+{
+  "claims": [
+    {
+      "id": "C01",
+      "fact": "24 days; three main parts each day; about ten minutes total",
+      "evidence": [
+        "PL R6 intro and day headings",
+        "EN_SOURCE_COUNTS.json",
+        "current product marketing briefs"
+      ],
+      "strength": "approximate duration, not a guaranteed outcome"
+    },
+    {
+      "id": "C02",
+      "fact": "24 tomorrow bridges; 24 two-person game variants",
+      "evidence": [
+        "PL R6 explicit marker counts24/24",
+        "EN_SOURCE_COUNTS.json four packs"
+      ],
+      "strength": "feature"
+    },
+    {
+      "id": "C03",
+      "fact": "No extra shopping/craft preparation required",
+      "evidence": [
+        "PL R6 before-you-start",
+        "current EN/PL owner subtitles"
+      ],
+      "strength": "scope is activity supplies, not the purchase price of the book"
+    },
+    {
+      "id": "C04",
+      "fact": "Day19 EMPTY HANDS / PUSTE RĘCE pause",
+      "evidence": [
+        "PL R6 Day19 ZWOLNIJ",
+        "EN week04 day_19 PAUSE, source page38"
+      ],
+      "strength": "teaser only"
+    },
+    {
+      "id": "C05",
+      "fact": "Day10 THE FAMILY MACHINE / RODZINNA MASZYNA game",
+      "evidence": [
+        "PL R6 Day10 GRAMY",
+        "EN week02 day_10 PLAY, source page20"
+      ],
+      "strength": "teaser only; no whole rules"
+    },
+    {
+      "id": "C06",
+      "fact": "Day07 conversation noticing a specific helpful act",
+      "evidence": [
+        "PL R6 Day07 MIĘDZY NAMI",
+        "EN week02 day_07 BETWEEN US, source pages14-15"
+      ],
+      "strength": "teaser only"
+    },
+    {
+      "id": "C07",
+      "fact": "Five Christmas Happy Makers; no Bibi",
+      "evidence": [
+        "October13 campaign master CORRECTION LOCK",
+        "PL R6 character biographies"
+      ],
+      "strength": "exact approved identities required for art"
+    },
+    {
+      "id": "C08",
+      "fact": "A joke, thank-you or game may carry on after Christmas",
+      "evidence": [
+        "PL R6 PO24DNIACH / LISTODHAPPYMAKERS"
+      ],
+      "strength": "possibility only; shared time now is primary"
+    },
+    {
+      "id": "C09",
+      "fact": "No current sale/listing/release/publication claim",
+      "evidence": [
+        "current dependency mailboxes and publication hold"
+      ],
+      "strength": "unverified; omitted from copy"
+    }
+  ],
+  "pl_source_blob": "896cf92bf6ed126ef62e623fd9cac640270e853f",
+  "pl_source_sha256": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3",
+  "en_source_pdf_sha256": "d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1"
+}
