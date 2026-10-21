@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-21T09:12:39.800333+02:00",
+  "scope": "local executable steps from current Interactive Book Contract workflow",
+  "passed": 17,
+  "steps": [
+    {
+      "step": "Validate legacy synthetic fixture",
+      "result": "PASS"
+    },
+    {
+      "step": "Run legacy contract regression suite",
+      "result": "PASS"
+    },
+    {
+      "step": "Validate legacy opener candidate against v0 contract",
+      "result": "PASS"
+    },
+    {
+      "step": "Validate published-source evidence boundary",
+      "result": "PASS"
+    },
+    {
+      "step": "Run published-source provenance regression suite",
+      "result": "PASS"
+    },
+    {
+      "step": "Rebuild active source graphs from locked page evidence",
+      "result": "PASS"
+    },
+    {
+      "step": "Validate active source graphs",
+      "result": "PASS"
+    },
+    {
+      "step": "Run active graph regression suite",
+      "result": "PASS"
+    },
+    {
+      "step": "Rebuild World 02 source graphs",
+      "result": "PASS"
+    },
+    {
+      "step": "Validate World 02 source graphs",
+      "result": "PASS"
+    },
+    {
+      "step": "Run World 02 regression suite",
+      "result": "PASS"
+    },
+    {
+      "step": "Run World 02 Level 18 source-lock regressions",
+      "result": "PASS"
+    },
+    {
+      "step": "Run World 02 Level 19 source-lock regressions",
+      "result": "PASS"
+    },
+    {
+      "step": "Run World 02 Level 20 source-lock regressions",
+      "result": "PASS"
+    },
+    {
+      "step": "Rebuild World 02 endgame from locked visual evidence",
+      "result": "PASS"
+    },
+    {
+      "step": "Validate World 02 endgame source graph",
+      "result": "PASS"
+    },
+    {
+      "step": "Run World 02 endgame source-lock regressions",
+      "result": "PASS"
+    }
+  ],
+  "limits": [
+    "Six existing World01 private-PDF-dependent tests are skipped in this scratch environment.",
+    "This is not hosted CI, Android/device validation, source freeze or release approval."
+  ]
+}

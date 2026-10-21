@@ -1,0 +1,412 @@
+{
+  "evidence_version": 1,
+  "mission_id": "world02_mission_020",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "filename": "paperback 10 STORIES WORLD 02 FINAL standard(1).pdf",
+    "isbn": "9798249971823",
+    "sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "bytes": 66576954,
+    "pages": 104,
+    "page_range": [
+      86,
+      92
+    ]
+  },
+  "method": "Visual block-by-block verification of every published Level 20 page (86-92) on 2026-10-21 against freshly rendered pixels of the directly SHA-256-verified 66,576,954-byte canonical paperback. Canonically validated 2026-10-02 transcription was cross-checked against PDF text and visual page/speaker order, including split text spans on pages 87-88. Whitespace and layout wrapping are normalized; printed words, punctuation, labels and list bullets are retained. Decorative page furniture is excluded consistently with earlier World 02 packs. Printed editorial/science claims remain unchanged and separately watchlisted.",
+  "page_inventory": [
+    {
+      "page": 86,
+      "content_blocks": 1
+    },
+    {
+      "page": 87,
+      "content_blocks": 5
+    },
+    {
+      "page": 88,
+      "content_blocks": 5
+    },
+    {
+      "page": 89,
+      "content_blocks": 4
+    },
+    {
+      "page": 90,
+      "content_blocks": 5
+    },
+    {
+      "page": 91,
+      "content_blocks": 4
+    },
+    {
+      "page": 92,
+      "content_blocks": 3
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p86_b01",
+      "node_id": "world02_mission_020_node_001",
+      "page": 86,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 20:",
+        "title": "The Reality Glitch",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "TRUTH DETECTOR",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "How to spot Fake News and Deepfakes in the wild.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p87_b01",
+      "node_id": "world02_mission_020_node_002",
+      "page": 87,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Sunday afternoon. Dilo ran into the kitchen, holding his tablet like a treasure map. He was breathing hard and wide-eyed, completely panicked."
+      }
+    },
+    {
+      "evidence_id": "p87_b02",
+      "node_id": "world02_mission_020_node_003",
+      "page": 87,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "GUYS! LOOK! The President is playing Minecraft with a polar bear! It's LIVE!"
+      }
+    },
+    {
+      "evidence_id": "p87_b03",
+      "node_id": "world02_mission_020_node_004",
+      "page": 87,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "He shoved the screen in Alio's face. On the screen, a blocky bear was indeed building a dirt house with a man in a suit."
+      }
+    },
+    {
+      "evidence_id": "p87_b04",
+      "node_id": "world02_mission_020_node_005",
+      "page": 87,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "NO WAY! Can bears use controllers? Are they taking over?! Is this the end?! I need to build a bunker! I need to make the walls out of super-strong logic!"
+      }
+    },
+    {
+      "evidence_id": "p87_b05",
+      "node_id": "world02_mission_020_node_006",
+      "page": 87,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio grabbed his helmet, ready to prepare for the scary bear invasion. But then... he paused. He squinted at the screen. He remembered Luli's training on internet safety."
+      }
+    },
+    {
+      "evidence_id": "p88_b01",
+      "node_id": "world02_mission_020_node_007",
+      "page": 88,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Wait a minute. Dilo, zoom in."
+      }
+    },
+    {
+      "evidence_id": "p88_b02",
+      "node_id": "world02_mission_020_node_008",
+      "page": 88,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Why? It's amazing! Two million people watched it!"
+      }
+    },
+    {
+      "evidence_id": "p88_b03",
+      "node_id": "world02_mission_020_node_009",
+      "page": 88,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "The bear has five fingers. Bears have paws. And the President's shadow is going the wrong way toward the sun."
+      }
+    },
+    {
+      "evidence_id": "p88_b04",
+      "node_id": "world02_mission_020_node_010",
+      "page": 88,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "(Looking over Alio's shoulder, her eyes full of pity) The poor bear looks so confused. He probably just wants to go back to the ice. Can we invite him to dinner? I will make him a fish sandwich so he feels loved."
+      }
+    },
+    {
+      "evidence_id": "p88_b05",
+      "node_id": "world02_mission_020_node_011",
+      "page": 88,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo froze. He zoomed in. The bear did indeed have a weirdly smooth human hand holding the controller."
+      }
+    },
+    {
+      "evidence_id": "p89_b01",
+      "node_id": "world02_mission_020_node_012",
+      "page": 89,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "It's... a glitch?"
+      }
+    },
+    {
+      "evidence_id": "p89_b02",
+      "node_id": "world02_mission_020_node_013",
+      "page": 89,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "(Standing at the head of the table, turning on her red laser pointer and acting like a teacher) It's a Fake, noob. The weird blurry spots around the bear's nose mean a computer drawing tool made it. Also, bears don't have human fingernails. I have already written a paper on the dangers of believing everything you see online."
+      }
+    },
+    {
+      "evidence_id": "p89_b03",
+      "node_id": "world02_mission_020_node_014",
+      "page": 89,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "But it looked so real! I almost shared it with the whole clan! I almost told my friends the bear attack was here!"
+      }
+    },
+    {
+      "evidence_id": "p89_b04",
+      "node_id": "world02_mission_020_node_015",
+      "page": 89,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "It's AI. Artificial Intelligence. Someone typed 'Bear playing Minecraft' into a computer, and the computer painted it. It's like a fake costume in a game. Just because you see it on a screen, doesn't mean it's real."
+      }
+    },
+    {
+      "evidence_id": "p90_b01",
+      "node_id": "world02_mission_020_node_016",
+      "page": 90,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "(Sighing, rubbing her eyes, and doing a quick calming trick by pressing her feet hard into the floor). That's the trap. The internet is a library where half the books are written by jokers, bots, and mean trolls. You have to check the author before you believe the story."
+      }
+    },
+    {
+      "evidence_id": "p90_b02",
+      "node_id": "world02_mission_020_node_017",
+      "page": 90,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio took off his helmet. He looked at Dilo with a very proud, very satisfied smile."
+      }
+    },
+    {
+      "evidence_id": "p90_b03",
+      "node_id": "world02_mission_020_node_018",
+      "page": 90,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Dilo, you just got tricked. Maybe YOU need the helmet to protect your brain from bad data."
+      }
+    },
+    {
+      "evidence_id": "p90_b04",
+      "node_id": "world02_mission_020_node_019",
+      "page": 90,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Dilo stared at the screen, feeling entirely betrayed by the screens he loved so much."
+      }
+    },
+    {
+      "evidence_id": "p90_b05",
+      "node_id": "world02_mission_020_node_020",
+      "page": 90,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "I... I need to go delete a comment. But whatever, at least my gaming reflexes are still the best. You're still a nugget, Alio."
+      }
+    },
+    {
+      "evidence_id": "p91_b01",
+      "node_id": "world02_mission_020_node_021",
+      "page": 91,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 058",
+        "heading": "THE BRAIN SECRET (The Truth Bias)",
+        "science_label": "The Science:",
+        "science": "For thousands of years of human history, 'Seeing was Believing'. Our brains are wired to trust our eyes completely (Visual Confirmation Bias). But in the age of AI, you have to manually wake up your Prefrontal Cortex (The Wizard) to double-check the facts!",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo saw the video and instantly believed the bear attack was real. His brain defaulted to the ancient \"Truth Bias.\""
+      }
+    },
+    {
+      "evidence_id": "p91_b02",
+      "node_id": "world02_mission_020_node_022",
+      "page": 91,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 059",
+        "heading": "THE TOOL ('The Glitch Spotter')",
+        "science_label": "The Science:",
+        "science": "How to spot a fake?\n\n• Hands: AI is famously bad at drawing fingers (too many, too few, weird joints).\n• Shadows: Do they match the light source in the background?\n• Source: Who posted it? A real scientist or an account named 'CoolGamer99'?",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio used his training to Pause and Zoom, noticing the five human fingers on a polar bear's paw."
+      }
+    },
+    {
+      "evidence_id": "p91_b03",
+      "node_id": "world02_mission_020_node_023",
+      "page": 91,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 060",
+        "heading": "THE GLITCH ('It's on the internet, so it's true')",
+        "science_label": "The Science:",
+        "science": "The internet is not an encyclopedia. It is a giant graffiti wall. Anyone can write on it. Even a bot.",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo argued that it was real because \"two million people watched it.\" Popularity does not equal truth.",
+        "correction_label": "Correction:",
+        "correction": "Adopt the 'Skeptical Scientist' mindset. Always ask: 'Is this real, or is it a cool edit?'"
+      }
+    },
+    {
+      "evidence_id": "p91_b04",
+      "node_id": "world02_mission_020_node_024",
+      "page": 91,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Dilo almost shared the fake video with his entire gaming clan.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Have you ever seen a picture or video online that looked totally real, but turned out to be fake? How did you find out the truth?"
+      }
+    },
+    {
+      "evidence_id": "p92_b01",
+      "node_id": "world02_mission_020_node_025",
+      "page": 92,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "Luli explained how AI paints pictures based on typed text.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "'Spot the Fake'. Ask your Captain (parent) to find 3 photos online (2 real animals, and 1 AI hybrid like a 'Cat-Octopus' or 'Flying Dog'). Be detectives, zoom in, and find the glitch!"
+      }
+    },
+    {
+      "evidence_id": "p92_b02",
+      "node_id": "world02_mission_020_node_026",
+      "page": 92,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why is fake news so dangerous? Shocking or scary images bypass the logical brain (Prefrontal Cortex) and shoot straight into the Amygdala (Lizard Brain) in milliseconds. This causes an emotional spike of fear or anger, which makes you want to share the post immediately to warn others. Fake news spreads 6 times faster than real news because it hijacks your nervous system!"
+      }
+    },
+    {
+      "evidence_id": "p92_b03",
+      "node_id": "world02_mission_020_node_027",
+      "page": 92,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“PAUSE AND ZOOM”",
+        "meaning_label": "MEANING:",
+        "meaning": "Something looks shocking, emotional, or perfectly engineered to make me react.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "I will not panic, and I will not share it. I will engage the Wizard. I will pause, zoom in, look for the glitch, and ask the Logic Guardian before accepting it as truth.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Don't believe everything on the internet, that's obviously fake.'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'Pause and Zoom. Let's use our Wizard Brains to find the glitch together.'"
+      }
+    }
+  ]
+}

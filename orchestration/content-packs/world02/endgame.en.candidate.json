@@ -1,0 +1,2697 @@
+{
+  "schema_version": "1.0.0",
+  "product_id": "level_up_your_brain_world_02",
+  "content_pack_id": "world02_endgame_source_graph",
+  "content_version": "0.1.0",
+  "canonical_locale": "en",
+  "supported_locales": [
+    "en"
+  ],
+  "planned_locales": [
+    "pl-PL"
+  ],
+  "minimum_runtime_contract": "world02-endgame-source-only-1.0.0",
+  "scope_id": "world02_endgame",
+  "candidate_scope": "published_endgame_pages_93_104",
+  "release_status": "source_candidate_only",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "source_bytes": 66576954,
+    "source_pages": 104,
+    "page_range": [
+      93,
+      104
+    ],
+    "evidence_manifest": "orchestration/content-sources/world02-endgame-page-evidence.json",
+    "evidence_sha256": "ca24aeb4e87893e06d7d8ffe26239dd277a21447bf4708baca7a7a2f4e852d1c"
+  },
+  "page_inventory": [
+    {
+      "page": 93,
+      "surface": "completion",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 93"
+      },
+      "content_blocks": 5
+    },
+    {
+      "page": 94,
+      "surface": "handover",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 94"
+      },
+      "reading_order_note": "Skill grid is represented in visual row-major order; original locations are retained. No branching is implied.",
+      "content_blocks": 9
+    },
+    {
+      "page": 95,
+      "surface": "support_squad",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 95"
+      },
+      "content_blocks": 10
+    },
+    {
+      "page": 96,
+      "surface": "emergency_codes",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 96"
+      },
+      "content_blocks": 4
+    },
+    {
+      "page": 97,
+      "surface": "loadout_cutout",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 97"
+      },
+      "print_role": "cutout_front",
+      "table_semantic_id": "world02_endgame_loadout",
+      "same_table_as_page": 99,
+      "visual_furniture_wins_over_text_layer": true,
+      "content_blocks": 14
+    },
+    {
+      "page": 98,
+      "surface": "custom_family_code",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 98"
+      },
+      "print_role": "cutout_reverse",
+      "source_mechanics": "Three blank writing areas only. Source does not specify a save button, score, validation, character limit, account, or cloud sync.",
+      "content_blocks": 3
+    },
+    {
+      "page": 99,
+      "surface": "loadout_reference",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 99"
+      },
+      "print_role": "reference_duplicate",
+      "table_semantic_id": "world02_endgame_loadout",
+      "same_table_as_page": 97,
+      "visual_furniture_wins_over_text_layer": true,
+      "content_blocks": 14
+    },
+    {
+      "page": 100,
+      "surface": "system_freeze_bonus_hack",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 100"
+      },
+      "source_mechanics": "Printed three-step in-person family instruction. No software countdown or enforcement is specified.",
+      "content_blocks": 7
+    },
+    {
+      "page": 101,
+      "surface": "mental_swipe_bonus_hack",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 101"
+      },
+      "source_mechanics": "Physical hand gesture in an instruction, not a printed interactive screen or swipe-to-dismiss game.",
+      "content_blocks": 7
+    },
+    {
+      "page": 102,
+      "surface": "hub_bonus",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 102"
+      },
+      "source_mechanics": "External QR bonus to Hub; no implementation of the Calm/Energy wheels is specified inside the book.",
+      "content_blocks": 8
+    },
+    {
+      "page": 103,
+      "surface": "certificate",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 103"
+      },
+      "print_role": "cutout_certificate",
+      "source_mechanics": "One blank player-name writing line. It does not authorize identity collection, account gating, grading, or invented rewards.",
+      "content_blocks": 13
+    },
+    {
+      "page": 104,
+      "surface": "closing",
+      "furniture": {
+        "system": "SYSTEM: ONLINE",
+        "index": "LVL_INDEX: 104"
+      },
+      "content_blocks": 1
+    }
+  ],
+  "nodes": [
+    {
+      "node_id": "world02_endgame_p093_block_01",
+      "sequence": 1,
+      "node_type": "page_header",
+      "subtype": "completion",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p093_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 93,
+        "page_sequence": 1,
+        "evidence_id": "p93_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p093_block_02",
+      "sequence": 2,
+      "node_type": "achievement_banner",
+      "subtype": "completion",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p093_block_03",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 93,
+        "page_sequence": 2,
+        "evidence_id": "p93_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p093_block_03",
+      "sequence": 3,
+      "node_type": "system_log",
+      "subtype": "completion",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p093_block_04",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 93,
+        "page_sequence": 3,
+        "evidence_id": "p93_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p093_block_04",
+      "sequence": 4,
+      "node_type": "rank",
+      "subtype": "completion",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p093_block_05",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 93,
+        "page_sequence": 4,
+        "evidence_id": "p93_b04"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p093_block_05",
+      "sequence": 5,
+      "node_type": "closing",
+      "subtype": "completion",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p094_block_01",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 93,
+        "page_sequence": 5,
+        "evidence_id": "p93_b05"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p094_block_01",
+      "sequence": 6,
+      "node_type": "page_header",
+      "subtype": "handover",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p094_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 94,
+        "page_sequence": 1,
+        "evidence_id": "p94_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p094_block_02",
+      "sequence": 7,
+      "node_type": "handover_banner",
+      "subtype": "handover",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p094_block_03",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 94,
+        "page_sequence": 2,
+        "evidence_id": "p94_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p094_block_03",
+      "sequence": 8,
+      "node_type": "intro",
+      "subtype": "handover",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p094_block_04",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 94,
+        "page_sequence": 3,
+        "evidence_id": "p94_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p094_block_04",
+      "sequence": 9,
+      "node_type": "skill",
+      "subtype": "handover",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p094_block_05",
+      "source_features": {
+        "spatial_position": "top_left"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 94,
+        "page_sequence": 4,
+        "evidence_id": "p94_b04"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p094_block_05",
+      "sequence": 10,
+      "node_type": "skill",
+      "subtype": "handover",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p094_block_06",
+      "source_features": {
+        "spatial_position": "top_right"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 94,
+        "page_sequence": 5,
+        "evidence_id": "p94_b05"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p094_block_06",
+      "sequence": 11,
+      "node_type": "skill",
+      "subtype": "handover",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p094_block_07",
+      "source_features": {
+        "spatial_position": "bottom_left"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 94,
+        "page_sequence": 6,
+        "evidence_id": "p94_b06"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p094_block_07",
+      "sequence": 12,
+      "node_type": "skill",
+      "subtype": "handover",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p094_block_08",
+      "source_features": {
+        "spatial_position": "bottom_right"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 94,
+        "page_sequence": 7,
+        "evidence_id": "p94_b07"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p094_block_08",
+      "sequence": 13,
+      "node_type": "system_log",
+      "subtype": "handover",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p094_block_09",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 94,
+        "page_sequence": 8,
+        "evidence_id": "p94_b08"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p094_block_09",
+      "sequence": 14,
+      "node_type": "motto",
+      "subtype": "handover",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p095_block_01",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 94,
+        "page_sequence": 9,
+        "evidence_id": "p94_b09"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p095_block_01",
+      "sequence": 15,
+      "node_type": "page_header",
+      "subtype": "support_squad",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p095_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 95,
+        "page_sequence": 1,
+        "evidence_id": "p95_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p095_block_02",
+      "sequence": 16,
+      "node_type": "callout",
+      "subtype": "support_squad",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p095_block_03",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 95,
+        "page_sequence": 2,
+        "evidence_id": "p95_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p095_block_03",
+      "sequence": 17,
+      "node_type": "mission_data",
+      "subtype": "support_squad",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p095_block_04",
+      "source_features": {
+        "spatial_position": "left_column"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 95,
+        "page_sequence": 3,
+        "evidence_id": "p95_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p095_block_04",
+      "sequence": 18,
+      "node_type": "system_log",
+      "subtype": "support_squad",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p095_block_05",
+      "source_features": {
+        "spatial_position": "right_column"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 95,
+        "page_sequence": 4,
+        "evidence_id": "p95_b04"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p095_block_05",
+      "sequence": 19,
+      "node_type": "section_heading",
+      "subtype": "support_squad",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p095_block_06",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 95,
+        "page_sequence": 5,
+        "evidence_id": "p95_b05"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p095_block_06",
+      "sequence": 20,
+      "node_type": "squad_motto",
+      "subtype": "support_squad",
+      "speaker_id": "nini",
+      "next_id": "world02_endgame_p095_block_07",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 95,
+        "page_sequence": 6,
+        "evidence_id": "p95_b06"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p095_block_07",
+      "sequence": 21,
+      "node_type": "squad_motto",
+      "subtype": "support_squad",
+      "speaker_id": "alio",
+      "next_id": "world02_endgame_p095_block_08",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 95,
+        "page_sequence": 7,
+        "evidence_id": "p95_b07"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p095_block_08",
+      "sequence": 22,
+      "node_type": "squad_motto",
+      "subtype": "support_squad",
+      "speaker_id": "dilo",
+      "next_id": "world02_endgame_p095_block_09",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 95,
+        "page_sequence": 8,
+        "evidence_id": "p95_b08"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p095_block_09",
+      "sequence": 23,
+      "node_type": "squad_motto",
+      "subtype": "support_squad",
+      "speaker_id": "luli",
+      "next_id": "world02_endgame_p095_block_10",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 95,
+        "page_sequence": 9,
+        "evidence_id": "p95_b09"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p095_block_10",
+      "sequence": 24,
+      "node_type": "squad_motto",
+      "subtype": "support_squad",
+      "speaker_id": "mimi",
+      "next_id": "world02_endgame_p096_block_01",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 95,
+        "page_sequence": 10,
+        "evidence_id": "p95_b10"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p096_block_01",
+      "sequence": 25,
+      "node_type": "page_header",
+      "subtype": "emergency_codes",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p096_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 96,
+        "page_sequence": 1,
+        "evidence_id": "p96_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p096_block_02",
+      "sequence": 26,
+      "node_type": "system_log",
+      "subtype": "emergency_codes",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p096_block_03",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 96,
+        "page_sequence": 2,
+        "evidence_id": "p96_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p096_block_03",
+      "sequence": 27,
+      "node_type": "emergency_code",
+      "subtype": "emergency_codes",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p096_block_04",
+      "source_features": {
+        "code_id": "reverse_uno"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 96,
+        "page_sequence": 3,
+        "evidence_id": "p96_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p096_block_04",
+      "sequence": 28,
+      "node_type": "emergency_code",
+      "subtype": "emergency_codes",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_01",
+      "source_features": {
+        "code_id": "low_battery"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 96,
+        "page_sequence": 4,
+        "evidence_id": "p96_b04"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_01",
+      "sequence": 29,
+      "node_type": "page_header",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 1,
+        "evidence_id": "p97_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_02",
+      "sequence": 30,
+      "node_type": "table_header",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_03",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 2,
+        "evidence_id": "p97_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_03",
+      "sequence": 31,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_04",
+      "source_features": {
+        "row_id": "level11",
+        "level": 11,
+        "semantic_row_id": "world02_endgame_loadout_level11"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 3,
+        "evidence_id": "p97_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_04",
+      "sequence": 32,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_05",
+      "source_features": {
+        "row_id": "level12",
+        "level": 12,
+        "semantic_row_id": "world02_endgame_loadout_level12"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 4,
+        "evidence_id": "p97_b04"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_05",
+      "sequence": 33,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_06",
+      "source_features": {
+        "row_id": "level13",
+        "level": 13,
+        "semantic_row_id": "world02_endgame_loadout_level13"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 5,
+        "evidence_id": "p97_b05"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_06",
+      "sequence": 34,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_07",
+      "source_features": {
+        "row_id": "level14",
+        "level": 14,
+        "semantic_row_id": "world02_endgame_loadout_level14"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 6,
+        "evidence_id": "p97_b06"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_07",
+      "sequence": 35,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_08",
+      "source_features": {
+        "row_id": "level15",
+        "level": 15,
+        "semantic_row_id": "world02_endgame_loadout_level15"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 7,
+        "evidence_id": "p97_b07"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_08",
+      "sequence": 36,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_09",
+      "source_features": {
+        "row_id": "level16",
+        "level": 16,
+        "semantic_row_id": "world02_endgame_loadout_level16"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 8,
+        "evidence_id": "p97_b08"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_09",
+      "sequence": 37,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_10",
+      "source_features": {
+        "row_id": "level17",
+        "level": 17,
+        "semantic_row_id": "world02_endgame_loadout_level17"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 9,
+        "evidence_id": "p97_b09"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_10",
+      "sequence": 38,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_11",
+      "source_features": {
+        "row_id": "level18",
+        "level": 18,
+        "semantic_row_id": "world02_endgame_loadout_level18"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 10,
+        "evidence_id": "p97_b10"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_11",
+      "sequence": 39,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_12",
+      "source_features": {
+        "row_id": "level19",
+        "level": 19,
+        "semantic_row_id": "world02_endgame_loadout_level19"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 11,
+        "evidence_id": "p97_b11"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_12",
+      "sequence": 40,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_13",
+      "source_features": {
+        "row_id": "level20",
+        "level": 20,
+        "semantic_row_id": "world02_endgame_loadout_level20"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 12,
+        "evidence_id": "p97_b12"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_13",
+      "sequence": 41,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p097_block_14",
+      "source_features": {
+        "row_id": "bonus1",
+        "level": null,
+        "semantic_row_id": "world02_endgame_loadout_bonus1"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 13,
+        "evidence_id": "p97_b13"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p097_block_14",
+      "sequence": 42,
+      "node_type": "loadout_row",
+      "subtype": "loadout_cutout",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p098_block_01",
+      "source_features": {
+        "row_id": "bonus2",
+        "level": null,
+        "semantic_row_id": "world02_endgame_loadout_bonus2"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 97,
+        "page_sequence": 14,
+        "evidence_id": "p97_b14"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p098_block_01",
+      "sequence": 43,
+      "node_type": "page_header",
+      "subtype": "custom_family_code",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p098_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 98,
+        "page_sequence": 1,
+        "evidence_id": "p98_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p098_block_02",
+      "sequence": 44,
+      "node_type": "print_instructions",
+      "subtype": "custom_family_code",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p098_block_03",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 98,
+        "page_sequence": 2,
+        "evidence_id": "p98_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p098_block_03",
+      "sequence": 45,
+      "node_type": "blank_form",
+      "subtype": "custom_family_code",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_01",
+      "source_features": {
+        "writable_fields": [
+          {
+            "field_id": "secret_code",
+            "label": "SECRET CODE:",
+            "value": ""
+          },
+          {
+            "field_id": "meaning",
+            "label": "MEANING:",
+            "value": ""
+          },
+          {
+            "field_id": "operation",
+            "label": "INITIATE OPERATION:",
+            "value": ""
+          }
+        ]
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 98,
+        "page_sequence": 3,
+        "evidence_id": "p98_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_01",
+      "sequence": 46,
+      "node_type": "page_header",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 1,
+        "evidence_id": "p99_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_02",
+      "sequence": 47,
+      "node_type": "table_header",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_03",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 2,
+        "evidence_id": "p99_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_03",
+      "sequence": 48,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_04",
+      "source_features": {
+        "row_id": "level11",
+        "level": 11,
+        "semantic_row_id": "world02_endgame_loadout_level11"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 3,
+        "evidence_id": "p99_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_04",
+      "sequence": 49,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_05",
+      "source_features": {
+        "row_id": "level12",
+        "level": 12,
+        "semantic_row_id": "world02_endgame_loadout_level12"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 4,
+        "evidence_id": "p99_b04"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_05",
+      "sequence": 50,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_06",
+      "source_features": {
+        "row_id": "level13",
+        "level": 13,
+        "semantic_row_id": "world02_endgame_loadout_level13"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 5,
+        "evidence_id": "p99_b05"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_06",
+      "sequence": 51,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_07",
+      "source_features": {
+        "row_id": "level14",
+        "level": 14,
+        "semantic_row_id": "world02_endgame_loadout_level14"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 6,
+        "evidence_id": "p99_b06"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_07",
+      "sequence": 52,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_08",
+      "source_features": {
+        "row_id": "level15",
+        "level": 15,
+        "semantic_row_id": "world02_endgame_loadout_level15"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 7,
+        "evidence_id": "p99_b07"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_08",
+      "sequence": 53,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_09",
+      "source_features": {
+        "row_id": "level16",
+        "level": 16,
+        "semantic_row_id": "world02_endgame_loadout_level16"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 8,
+        "evidence_id": "p99_b08"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_09",
+      "sequence": 54,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_10",
+      "source_features": {
+        "row_id": "level17",
+        "level": 17,
+        "semantic_row_id": "world02_endgame_loadout_level17"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 9,
+        "evidence_id": "p99_b09"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_10",
+      "sequence": 55,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_11",
+      "source_features": {
+        "row_id": "level18",
+        "level": 18,
+        "semantic_row_id": "world02_endgame_loadout_level18"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 10,
+        "evidence_id": "p99_b10"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_11",
+      "sequence": 56,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_12",
+      "source_features": {
+        "row_id": "level19",
+        "level": 19,
+        "semantic_row_id": "world02_endgame_loadout_level19"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 11,
+        "evidence_id": "p99_b11"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_12",
+      "sequence": 57,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_13",
+      "source_features": {
+        "row_id": "level20",
+        "level": 20,
+        "semantic_row_id": "world02_endgame_loadout_level20"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 12,
+        "evidence_id": "p99_b12"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_13",
+      "sequence": 58,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p099_block_14",
+      "source_features": {
+        "row_id": "bonus1",
+        "level": null,
+        "semantic_row_id": "world02_endgame_loadout_bonus1"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 13,
+        "evidence_id": "p99_b13"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p099_block_14",
+      "sequence": 59,
+      "node_type": "loadout_row",
+      "subtype": "loadout_reference",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p100_block_01",
+      "source_features": {
+        "row_id": "bonus2",
+        "level": null,
+        "semantic_row_id": "world02_endgame_loadout_bonus2"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 99,
+        "page_sequence": 14,
+        "evidence_id": "p99_b14"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p100_block_01",
+      "sequence": 60,
+      "node_type": "page_header",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p100_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 100,
+        "page_sequence": 1,
+        "evidence_id": "p100_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p100_block_02",
+      "sequence": 61,
+      "node_type": "glitch",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p100_block_03",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 100,
+        "page_sequence": 2,
+        "evidence_id": "p100_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p100_block_03",
+      "sequence": 62,
+      "node_type": "hack",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p100_block_04",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 100,
+        "page_sequence": 3,
+        "evidence_id": "p100_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p100_block_04",
+      "sequence": 63,
+      "node_type": "instruction_step",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p100_block_05",
+      "source_features": {
+        "step": 1
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 100,
+        "page_sequence": 4,
+        "evidence_id": "p100_b04"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p100_block_05",
+      "sequence": 64,
+      "node_type": "instruction_step",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p100_block_06",
+      "source_features": {
+        "step": 2
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 100,
+        "page_sequence": 5,
+        "evidence_id": "p100_b05"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p100_block_06",
+      "sequence": 65,
+      "node_type": "instruction_step",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p100_block_07",
+      "source_features": {
+        "step": 3
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 100,
+        "page_sequence": 6,
+        "evidence_id": "p100_b06"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p100_block_07",
+      "sequence": 66,
+      "node_type": "explanation",
+      "subtype": "system_freeze_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p101_block_01",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 100,
+        "page_sequence": 7,
+        "evidence_id": "p100_b07"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p101_block_01",
+      "sequence": 67,
+      "node_type": "page_header",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p101_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 101,
+        "page_sequence": 1,
+        "evidence_id": "p101_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p101_block_02",
+      "sequence": 68,
+      "node_type": "glitch",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p101_block_03",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 101,
+        "page_sequence": 2,
+        "evidence_id": "p101_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p101_block_03",
+      "sequence": 69,
+      "node_type": "hack",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p101_block_04",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 101,
+        "page_sequence": 3,
+        "evidence_id": "p101_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p101_block_04",
+      "sequence": 70,
+      "node_type": "instruction_step",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p101_block_05",
+      "source_features": {
+        "step": 1
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 101,
+        "page_sequence": 4,
+        "evidence_id": "p101_b04"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p101_block_05",
+      "sequence": 71,
+      "node_type": "instruction_step",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p101_block_06",
+      "source_features": {
+        "step": 2
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 101,
+        "page_sequence": 5,
+        "evidence_id": "p101_b05"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p101_block_06",
+      "sequence": 72,
+      "node_type": "instruction_step",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p101_block_07",
+      "source_features": {
+        "step": 3
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 101,
+        "page_sequence": 6,
+        "evidence_id": "p101_b06"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p101_block_07",
+      "sequence": 73,
+      "node_type": "explanation",
+      "subtype": "mental_swipe_bonus_hack",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p102_block_01",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 101,
+        "page_sequence": 7,
+        "evidence_id": "p101_b07"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p102_block_01",
+      "sequence": 74,
+      "node_type": "page_header",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p102_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 102,
+        "page_sequence": 1,
+        "evidence_id": "p102_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p102_block_02",
+      "sequence": 75,
+      "node_type": "artwork",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p102_block_03",
+      "source_features": {
+        "asset_id": "world02_endgame_family_group_p102",
+        "description": "Five grayscale Happy Makers figures, in the printed source pixels; shirts read RISE, SHINE, EVOLVE, REPEAT, !. Exact asset crop not yet exported; no generated replacement.",
+        "source_object": {
+          "pdf_xref": 1890,
+          "bbox_points": [
+            128.16477966308594,
+            92.6485595703125,
+            312.664794921875,
+            369.3985900878906
+          ],
+          "width_pixels": 410,
+          "height_pixels": 615,
+          "has_mask": true,
+          "pixmap_digest_md5": "a97c0329adf156919160789a16528523",
+          "export_status": "not_exported_or_runtime_approved"
+        }
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 102,
+        "page_sequence": 2,
+        "evidence_id": "p102_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p102_block_03",
+      "sequence": 76,
+      "node_type": "motto",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p102_block_04",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 102,
+        "page_sequence": 3,
+        "evidence_id": "p102_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p102_block_04",
+      "sequence": 77,
+      "node_type": "intro",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p102_block_05",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 102,
+        "page_sequence": 4,
+        "evidence_id": "p102_b04"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p102_block_05",
+      "sequence": 78,
+      "node_type": "tools_intro",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p102_block_06",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 102,
+        "page_sequence": 5,
+        "evidence_id": "p102_b05"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p102_block_06",
+      "sequence": 79,
+      "node_type": "tool_description",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p102_block_07",
+      "source_features": {
+        "tool_id": "calm_wheel"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 102,
+        "page_sequence": 6,
+        "evidence_id": "p102_b06"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p102_block_07",
+      "sequence": 80,
+      "node_type": "tool_description",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p102_block_08",
+      "source_features": {
+        "tool_id": "energy_wheel"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 102,
+        "page_sequence": 7,
+        "evidence_id": "p102_b07"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p102_block_08",
+      "sequence": 81,
+      "node_type": "qr_link",
+      "subtype": "hub_bonus",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_01",
+      "source_features": {
+        "target_provenance": "Decoded from canonical page QR with cv2.QRCodeDetector at 8x rendering; no PDF link annotation exists.",
+        "source_object": {
+          "pdf_xref": 1889,
+          "bbox_points": [
+            200.03741455078125,
+            565.0840454101562,
+            242.78741455078125,
+            607.8340454101562
+          ],
+          "width_pixels": 123,
+          "height_pixels": 123,
+          "has_mask": false,
+          "pixmap_digest_md5": "11d62de9d38c4712e0dda0fcee35bdd8",
+          "export_status": "not_exported_or_runtime_approved"
+        }
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 102,
+        "page_sequence": 8,
+        "evidence_id": "p102_b08"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_01",
+      "sequence": 82,
+      "node_type": "page_header",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_02",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 1,
+        "evidence_id": "p103_b01"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_02",
+      "sequence": 83,
+      "node_type": "certificate_status",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_03",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 2,
+        "evidence_id": "p103_b02"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_03",
+      "sequence": 84,
+      "node_type": "blank_form",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_04",
+      "source_features": {
+        "writable_fields": [
+          {
+            "field_id": "player_name",
+            "label": "player name",
+            "value": ""
+          }
+        ]
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 3,
+        "evidence_id": "p103_b03"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_04",
+      "sequence": 85,
+      "node_type": "rank",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_05",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 4,
+        "evidence_id": "p103_b04"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_05",
+      "sequence": 86,
+      "node_type": "section_heading",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_06",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 5,
+        "evidence_id": "p103_b05"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_06",
+      "sequence": 87,
+      "node_type": "achievement",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_07",
+      "source_features": {
+        "achievement_id": "daily_loop"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 6,
+        "evidence_id": "p103_b06"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_07",
+      "sequence": 88,
+      "node_type": "achievement",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_08",
+      "source_features": {
+        "achievement_id": "reality_glitch"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 7,
+        "evidence_id": "p103_b07"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_08",
+      "sequence": 89,
+      "node_type": "achievement",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_09",
+      "source_features": {
+        "achievement_id": "teflon_shield"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 8,
+        "evidence_id": "p103_b08"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_09",
+      "sequence": 90,
+      "node_type": "achievement",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_10",
+      "source_features": {
+        "achievement_id": "pivot_dance"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 9,
+        "evidence_id": "p103_b09"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_10",
+      "sequence": 91,
+      "node_type": "achievement",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_11",
+      "source_features": {
+        "achievement_id": "squad_sync"
+      },
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 10,
+        "evidence_id": "p103_b10"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_11",
+      "sequence": 92,
+      "node_type": "oath",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_12",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 11,
+        "evidence_id": "p103_b11"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_12",
+      "sequence": 93,
+      "node_type": "motto",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p103_block_13",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 12,
+        "evidence_id": "p103_b12"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p103_block_13",
+      "sequence": 94,
+      "node_type": "approval",
+      "subtype": "certificate",
+      "speaker_id": null,
+      "next_id": "world02_endgame_p104_block_01",
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 103,
+        "page_sequence": 13,
+        "evidence_id": "p103_b13"
+      }
+    },
+    {
+      "node_id": "world02_endgame_p104_block_01",
+      "sequence": 95,
+      "node_type": "closing",
+      "subtype": "closing",
+      "speaker_id": null,
+      "next_id": null,
+      "source_features": {},
+      "provenance": {
+        "source_id": "world02_paperback_2026_09_17",
+        "source_sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+        "page": 104,
+        "page_sequence": 1,
+        "evidence_id": "p104_b01"
+      }
+    }
+  ],
+  "localized_copy": [
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p093_block_01",
+      "fields": {
+        "heading": "MISSION ACCOMPLISHED!",
+        "status": "FINAL_RANK_CONFIRMED"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p093_block_02",
+      "fields": {
+        "heading": "MISSION ACCOMPLISHED!",
+        "status": "STATUS: LEGENDARY_ACHIEVEMENT"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p093_block_03",
+      "fields": {
+        "label": "SYSTEM LOG >>",
+        "callout": "BRAVE BRAIN DETECTED\nAT MAXIMUM CAPACITY",
+        "body": "YOU HAVEN'T JUST FINISHED WORLD 02.\nYOU HAVE RE-CODED YOUR REALITY.\nYOU'VE MASTERED THE DAILY LOOP,\nSILENCED THE MENTAL SPAM,\nAND UNLOCKED THE TRUTH."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p093_block_04",
+      "fields": {
+        "label": "NEW RANK UNLOCKED:",
+        "rank": "NEURO-COMMANDER"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p093_block_05",
+      "fields": {
+        "text": "THE GAME OF LIFE JUST GOT AN UPGRADE."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p094_block_01",
+      "fields": {
+        "heading": "ENDGAME PROTOCOL",
+        "status": "SYSTEM_HANDOVER_COMPLETE"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p094_block_02",
+      "fields": {
+        "heading": "COMMAND\nTRANSFERRED",
+        "subheading": "YOU ARE THE MASTER OF YOUR MIND"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p094_block_03",
+      "fields": {
+        "text": "THE ADVANCED TRAINING IS OVER.",
+        "callout": "YOU NOW HOLD THE GOLDEN\nCONTROLLER."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p094_block_04",
+      "fields": {
+        "marker": ">>",
+        "text": "YOU KNOW HOW\nTO AUTOMATE\nTHE BORING\nQUESTS TO SAVE\nYOUR BRAIN\nBATTERY."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p094_block_05",
+      "fields": {
+        "marker": ">>",
+        "text": "YOU KNOW HOW\nTO USE THE\nTEFLON SHIELD\nSO MEAN WORDS\nJUST SLIDE OFF\nYOU."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p094_block_06",
+      "fields": {
+        "marker": ">>",
+        "text": "YOU KNOW HOW\nTO SPOT A\nREALITY GLITCH\nAND NOT GET\nTRICKED BY\nBOTS."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p094_block_07",
+      "fields": {
+        "marker": ">>",
+        "text": "YOU KNOW THAT\nDISAPPOINTMENT\nIS JUST A SIGNAL\nFOR A PIVOT\nDANCE—\nCHANGING\nDIRECTION TO\nFIND A BETTER\nPATH."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p094_block_08",
+      "fields": {
+        "label": "SYSTEM LOG >>",
+        "text": "WARNING: REAL LIFE HAS NO \"PAUSE\" BUTTON.\nBUT THAT'S OKAY. YOU DON'T NEED A BREAK ANYMORE.\nYOU HAVE THE SKILLS TO SYNC YOUR DREAM TEAM\nAND WIN ANY CO-OP MISSION."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p094_block_09",
+      "fields": {
+        "text": "[ SYNC. PLAY. MASTER. ]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p095_block_01",
+      "fields": {
+        "heading": "NEVER FIGHT SOLO",
+        "status": "SQUAD_LINK_UPGRADED"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p095_block_02",
+      "fields": {
+        "text": "YOU ARE NOT ALONE!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p095_block_03",
+      "fields": {
+        "label": "MISSION DATA >>",
+        "text": "YOU HAVE\nUNLOCKED THE\nELITE WORLD 02\nCODES, BUT\nREMEMBER YOU\nALSO HAVE BACKUP.\nTO WIN THE FINAL\nENDGAME OF LIFE,\nEVEN A NEURO-\nCOMMANDER NEEDS\nA TEAM."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p095_block_04",
+      "fields": {
+        "label": "SYSTEM LOG >>",
+        "text": "THE HAPPY MAKERS\nFAMILY IS NOW YOUR\nPERSONAL SUPPORT\nSQUAD. THEY DON'T\nDISAPPEAR WHEN\nYOU CLOSE THIS\nBOOK. THEY ARE\nSYNCED AND READY\nTO BACK YOU UP."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p095_block_05",
+      "fields": {
+        "heading": "SQUAD MOTTOS (WORLD 02 EDITION)"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p095_block_06",
+      "fields": {
+        "speaker_label": "NINI",
+        "text": "\"BUCKET EMPTY? A MEGA-SQUEEZE\nIS INCOMING! SYSTEM RESET\nINITIALIZED.\""
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p095_block_07",
+      "fields": {
+        "speaker_label": "ALIO",
+        "text": "\"IS A BIG BOSS COMING? THE TRUTH\nDETECTOR SAYS YOU'VE GOT THIS!\nLET'S BUILD A SUPER-FORTRESS.\""
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p095_block_08",
+      "fields": {
+        "speaker_label": "DILO",
+        "text": "\"MENTAL SPAM? USE YOUR TEFLON\nSHIELD. IT'S JUST LAG. DO THE PIVOT\nDANCE AND KEEP PLAYING.\""
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p095_block_09",
+      "fields": {
+        "speaker_label": "LULI",
+        "text": "\"DETECTED A REALITY GLITCH?\nPAUSE. CHECK THE WHITEBOARD.\nTHE LOGIC GUARDIAN IS ON IT.\""
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p095_block_10",
+      "fields": {
+        "speaker_label": "MIMI",
+        "text": "\"FEELING SCARED OR ANGRY?\nBREATHE. WAKE UP YOUR WIZARD.\nTHE CEO OF CALM IS IN CONTROL.\""
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p096_block_01",
+      "fields": {
+        "heading": "SPECIAL UNLOCK: THE\nEMERGENCY CODES",
+        "status": "[ NEW PAGE: SPECIAL CODES ]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p096_block_02",
+      "fields": {
+        "label": "SYSTEM LOG >>",
+        "text": "Hey Player! Did you know parents get glitches too?\nSometimes they are tired, hungry, or their Lizard Brain is driving the\nbus. Here are two SPECIAL codes to use when things get crazy."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p096_block_03",
+      "fields": {
+        "heading": "THE 'REVERSE UNO' CARD (FOR KIDS)",
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“CAPTAIN, YOUR LIZARD IS DRIVING!”",
+        "meaning_label": "MEANING:",
+        "meaning": "Use this code if you see Mom or Dad turning\nred and getting angry.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "It reminds them (in a safe, funny\nway) that they need to take a tactical breath! You have the\npower to help them reset!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p096_block_04",
+      "fields": {
+        "heading": "THE 'LOW BATTERY' MODE (FOR PARENTS)",
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“CAPTAIN IS ON 1% BATTERY.”",
+        "meaning_label": "MEANING:",
+        "meaning": "Parents use this when they are completely out\nof energy. It means: 'I love you, but I have no energy for\ngames or arguing right now.'",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "System is shutting down. Please\nhelp the Captain by following instructions quickly and\nquietly so their system doesn't completely crash."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_01",
+      "fields": {
+        "heading": "ULTIMATE LOADOUT: KEYS & FAMILY CODES",
+        "print_label": "CUT-OUT"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_02",
+      "fields": {
+        "level": "LEVEL ID",
+        "code": "SECRET CODE",
+        "meaning": "MEANING / ACTION"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_03",
+      "fields": {
+        "level_label": "LEVEL 11",
+        "code_label": "CODE:",
+        "code": "SHIELDS ARE UP!",
+        "meaning_label": "MEANING:",
+        "meaning": "ROUTINE IS DONE. NO ARGUING. I\nAM OFF-DUTY."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_04",
+      "fields": {
+        "level_label": "LEVEL 12",
+        "code_label": "CODE:",
+        "code": "SYSTEM\nREBOOTING...",
+        "meaning_label": "MEANING:",
+        "meaning": "LIZARD BRAIN TAKEOVER. SLEEP\nTO CLEAN BRAIN."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_05",
+      "fields": {
+        "level_label": "LEVEL 13",
+        "code_label": "CODE:",
+        "code": "DOWNLOAD\nCOMPLETE",
+        "meaning_label": "MEANING:",
+        "meaning": "EYE CONTACT MADE, MESSAGE\nRECEIVED."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_06",
+      "fields": {
+        "level_label": "LEVEL 14",
+        "code_label": "CODE:",
+        "code": "I AM TEFLON!",
+        "meaning_label": "MEANING:",
+        "meaning": "MEAN WORDS DETECTED. LETTING\nTHEM SLIDE OFF."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_07",
+      "fields": {
+        "level_label": "LEVEL 15",
+        "code_label": "CODE:",
+        "code": "ALL HANDS ON DECK!",
+        "meaning_label": "MEANING:",
+        "meaning": "DANGER ZONE DETECTED. 10-\nMINUTE SPEED CLEAN!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_08",
+      "fields": {
+        "level_label": "LEVEL 16",
+        "code_label": "CODE:",
+        "code": "SWAP GOGGLES",
+        "meaning_label": "MEANING:",
+        "meaning": "MISUNDERSTANDING? SWITCH\nPLACES & LOOK AGAIN."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_09",
+      "fields": {
+        "level_label": "LEVEL 17",
+        "code_label": "CODE:",
+        "code": "DELETE SPAM\nMESSAGE",
+        "meaning_label": "MEANING:",
+        "meaning": "FAKE, SCARY THOUGHT. SENDING\nIT TO TRASH."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_10",
+      "fields": {
+        "level_label": "LEVEL 18",
+        "code_label": "CODE:",
+        "code": "I NEED GREEN\nENERGY",
+        "meaning_label": "MEANING:",
+        "meaning": "SCREEN FACE DETECTED. TIME\nFOR OUTDOOR DETOX."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_11",
+      "fields": {
+        "level_label": "LEVEL 19",
+        "code_label": "CODE:",
+        "code": "WE ARE PIVOTING!",
+        "meaning_label": "MEANING:",
+        "meaning": "PLAN FAILED. SHAKE OUT MAD\nENERGY. NEW WAY!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_12",
+      "fields": {
+        "level_label": "LEVEL 20",
+        "code_label": "CODE:",
+        "code": "PAUSE AND ZOOM",
+        "meaning_label": "MEANING:",
+        "meaning": "SHOCKING POST? USE WIZARD\nBRAIN TO FIND FAKE."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_13",
+      "fields": {
+        "level_label": "BONUS 1",
+        "code_label": "CODE:",
+        "code": "CAPTAIN ON 1%\nBATTERY",
+        "meaning_label": "MEANING:",
+        "meaning": "PARENT EXHAUSTED. BE KIND,\nFOLLOW RULES QUICKLY."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p097_block_14",
+      "fields": {
+        "level_label": "BONUS 2",
+        "code_label": "CODE:",
+        "code": "LIZARD IS DRIVING!",
+        "meaning_label": "MEANING:",
+        "meaning": "PARENT GETTING ANGRY. NEEDS A\nDEEP BREATH!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p098_block_01",
+      "fields": {
+        "heading": "CREATE YOUR OWN SECRET CODE"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p098_block_02",
+      "fields": {
+        "text": "Cut this out and hang it on your fridge\nwith the Cheat Sheet facing forward,\nkeeping your newly invented Family Code\npressed safely against the door to hide it from\nenemy spies, aliens, and mutant ants!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p098_block_03",
+      "fields": {
+        "heading": "OUR SECRET FAMILY CODE"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_01",
+      "fields": {
+        "heading": "ULTIMATE LOADOUT: KEYS & FAMILY CODES"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_02",
+      "fields": {
+        "level": "LEVEL ID",
+        "code": "SECRET CODE",
+        "meaning": "MEANING / ACTION"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_03",
+      "fields": {
+        "level_label": "LEVEL 11",
+        "code_label": "CODE:",
+        "code": "SHIELDS ARE UP!",
+        "meaning_label": "MEANING:",
+        "meaning": "ROUTINE IS DONE. NO ARGUING. I\nAM OFF-DUTY."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_04",
+      "fields": {
+        "level_label": "LEVEL 12",
+        "code_label": "CODE:",
+        "code": "SYSTEM\nREBOOTING...",
+        "meaning_label": "MEANING:",
+        "meaning": "LIZARD BRAIN TAKEOVER. SLEEP\nTO CLEAN BRAIN."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_05",
+      "fields": {
+        "level_label": "LEVEL 13",
+        "code_label": "CODE:",
+        "code": "DOWNLOAD\nCOMPLETE",
+        "meaning_label": "MEANING:",
+        "meaning": "EYE CONTACT MADE, MESSAGE\nRECEIVED."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_06",
+      "fields": {
+        "level_label": "LEVEL 14",
+        "code_label": "CODE:",
+        "code": "I AM TEFLON!",
+        "meaning_label": "MEANING:",
+        "meaning": "MEAN WORDS DETECTED. LETTING\nTHEM SLIDE OFF."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_07",
+      "fields": {
+        "level_label": "LEVEL 15",
+        "code_label": "CODE:",
+        "code": "ALL HANDS ON DECK!",
+        "meaning_label": "MEANING:",
+        "meaning": "DANGER ZONE DETECTED. 10-\nMINUTE SPEED CLEAN!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_08",
+      "fields": {
+        "level_label": "LEVEL 16",
+        "code_label": "CODE:",
+        "code": "SWAP GOGGLES",
+        "meaning_label": "MEANING:",
+        "meaning": "MISUNDERSTANDING? SWITCH\nPLACES & LOOK AGAIN."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_09",
+      "fields": {
+        "level_label": "LEVEL 17",
+        "code_label": "CODE:",
+        "code": "DELETE SPAM\nMESSAGE",
+        "meaning_label": "MEANING:",
+        "meaning": "FAKE, SCARY THOUGHT. SENDING\nIT TO TRASH."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_10",
+      "fields": {
+        "level_label": "LEVEL 18",
+        "code_label": "CODE:",
+        "code": "I NEED GREEN\nENERGY",
+        "meaning_label": "MEANING:",
+        "meaning": "SCREEN FACE DETECTED. TIME\nFOR OUTDOOR DETOX."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_11",
+      "fields": {
+        "level_label": "LEVEL 19",
+        "code_label": "CODE:",
+        "code": "WE ARE PIVOTING!",
+        "meaning_label": "MEANING:",
+        "meaning": "PLAN FAILED. SHAKE OUT MAD\nENERGY. NEW WAY!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_12",
+      "fields": {
+        "level_label": "LEVEL 20",
+        "code_label": "CODE:",
+        "code": "PAUSE AND ZOOM",
+        "meaning_label": "MEANING:",
+        "meaning": "SHOCKING POST? USE WIZARD\nBRAIN TO FIND FAKE."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_13",
+      "fields": {
+        "level_label": "BONUS 1",
+        "code_label": "CODE:",
+        "code": "CAPTAIN ON 1%\nBATTERY",
+        "meaning_label": "MEANING:",
+        "meaning": "PARENT EXHAUSTED. BE KIND,\nFOLLOW RULES QUICKLY."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p099_block_14",
+      "fields": {
+        "level_label": "BONUS 2",
+        "code_label": "CODE:",
+        "code": "LIZARD IS DRIVING!",
+        "meaning_label": "MEANING:",
+        "meaning": "PARENT GETTING ANGRY. NEEDS A\nDEEP BREATH!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p100_block_01",
+      "fields": {
+        "heading": "BONUS HACK: THE 'SYSTEM FREEZE' OVERRIDE"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p100_block_02",
+      "fields": {
+        "heading": "THE GLITCH:",
+        "text": "TWO LIZARDS ARE IN THE SAME ROOM, YELLING. BOTH\nWIZARDS ARE TOTALLY OFFLINE.\n\nA MASSIVE FAMILY BOSS FIGHT IS STARTING."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p100_block_03",
+      "fields": {
+        "heading": "THE HACK:",
+        "text": "BEFORE THE GAME COMPLETELY CRASHES, YOUR FAMILY\nNEEDS TO AGREE ON A COMPLETELY ABSURD SAFE WORD.\n\nFOR EXAMPLE: \"FLYING PINK BROCCOLI!\"\n\nTHE MOMENT ANYONE SHOUTS IT, EVERYONE MUST\nINSTANTLY INITIATE THE SYSTEM FREEZE PROTOCOL :"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p100_block_04",
+      "fields": {
+        "heading": "STEP 1: FREEZE.",
+        "text": "EVERYONE STOPS MOVING AND TALKING FOR 3 FULL SECONDS."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p100_block_05",
+      "fields": {
+        "heading": "STEP 2: THE REBOOT.",
+        "text": "THE PERSON WHO SHOUTED THE CODE MUST IMMEDIATELY\nASK A COMPLETELY ILLOGICAL MATH QUESTION.\n\nEXAMPLE: \"QUICK! WHAT IS 5 PLUS A BANANA?!\""
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p100_block_06",
+      "fields": {
+        "heading": "STEP 3: ANSWER.",
+        "text": "EVERYONE HAS TO TRY AND ANSWER IT."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p100_block_07",
+      "fields": {
+        "heading": "WHY IT WORKS (THE NEURO-MAGIC):",
+        "text": "Your Lizard brain only knows how to FIGHT OR RUN.\nIt has ZERO SENSE OF HUMOR and is terrible at math.\nWhen you ask an absurd, funny question,\nyour brain is forced to immediately\nWAKE UP THE LOGICAL WIZARD to process the nonsense.\nThe argument LOSES ITS POWER, you usually end up laughing,\nand you GET YOUR CONTROLLER BACK!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p101_block_01",
+      "fields": {
+        "heading": "BONUS HACK: THE 'MENTAL SWIPE' MANEUVER"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p101_block_02",
+      "fields": {
+        "heading": "THE GLITCH:",
+        "text": "YOU ARE TRYING TO SLEEP OR FOCUS, BUT YOUR BRAIN\nKEEPS SENDING YOU SCARY \"WHAT IF?\" THOUGHTS.\n\nTHE ENERGY VAMPIRE IS SPAMMING YOUR SYSTEM WITH\nJUNK MAIL."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p101_block_03",
+      "fields": {
+        "heading": "THE HACK:",
+        "text": "YOU NEED TO TREAT THAT BAD THOUGHT EXACTLY LIKE\nAN ANNOYING POP-UP NOTIFICATION ON A\nSMARTPHONE SCREEN."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p101_block_04",
+      "fields": {
+        "heading": "STEP 1: SPOT THE SPAM.",
+        "text": "CATCH THE THOUGHT AND TELL YOURSELF, \"WAIT, THIS\nISN'T A FACT. THIS IS JUST A SPAM NOTIFICATION.\""
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p101_block_05",
+      "fields": {
+        "heading": "STEP 2: THE SWIPE.",
+        "text": "LIFT YOUR ACTUAL HAND IN THE AIR AND PHYSICALLY\n\"SWIPE LEFT\" TO PUSH THAT INVISIBLE POP-UP OFF YOUR\nSCREEN."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p101_block_06",
+      "fields": {
+        "heading": "STEP 3: DELETE.",
+        "text": "SAY \"DELETE\" OUT LOUD (OR IN YOUR HEAD) AND\nIMMEDIATELY SHIFT YOUR FOCUS BACK TO WHAT YOU WERE\nDOING."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p101_block_07",
+      "fields": {
+        "heading": "WHY IT WORKS (THE NEURO-MAGIC):",
+        "text": "Thoughts are not facts. They are just random system alerts. When\nyou physically \"swipe\" them away, you are training your brain to\nrealize that YOU ARE THE CAPTAIN. You don't have to open,\nread, or argue with every single pop-up message your brain sends\nyou. JUST SWIPE, DELETE, AND KEEP PLAYING!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p102_block_01",
+      "fields": {
+        "heading": "BONUS LEVEL UNLOCKED!",
+        "status": "ACCESS_THE_HUB_v.2.0"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p102_block_02",
+      "fields": {}
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p102_block_03",
+      "fields": {
+        "text": "RISE. SHINE. EVOLVE. REPEAT!"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p102_block_04",
+      "fields": {
+        "text": "You have mastered the advanced skills.\nYou have synced your Dream Team.\nNow, welcome back to the Rise Shine Evolve Learning Hub."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p102_block_05",
+      "fields": {
+        "heading": "TWO TINY TOOLS FOR YOUR FAMILY:",
+        "text": "ONE TO SLOW DOWN AND SOFTEN,\nONE TO WAKE UP AND BRIGHTEN."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p102_block_06",
+      "fields": {
+        "heading": "THE CALM WHEEL",
+        "text": "A ONE-CLICK, ONE-MINUTE RESET FOR THE WHOLE FAMILY.\n\nUSE IT WHEN EVERYONE NEEDS A SMALL PAUSE, A SOFT LANDING\nOR A CALMER BODY AND BRAIN."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p102_block_07",
+      "fields": {
+        "heading": "THE ENERGY WHEEL",
+        "text": "ONE-MINUTE BOOSTS FOR DAYS THAT FEEL A LITTLE SLOW.\n\nUSE IT WHEN EVERYONE NEEDS GENTLE MOVEMENT, A BRIGHTER MOOD\nOR A QUICK WAKE-UP SPARK - WITHOUT OVERWHELMING ANYONE."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p102_block_08",
+      "fields": {
+        "label": "SCAN TO WARP TO THE HUB",
+        "target": "https://rise-shine-evolve-learning-hub.com/"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_01",
+      "fields": {
+        "heading": "CERTIFICATE OF COMPLETION",
+        "subheading": "WORLD 02: ADVANCED TRAINING"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_02",
+      "fields": {
+        "text": "OFFICIAL\nCERTIFIED\nSQUAD_OK"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_03",
+      "fields": {
+        "heading": "THIS IS TO CERTIFY THAT"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_04",
+      "fields": {
+        "label": "HAS OFFICIALLY ASCENDED TO THE RANK OF",
+        "rank": "[ NEURO-COMMANDER ]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_05",
+      "fields": {
+        "heading": "MISSION LOG >> ACHIEVEMENTS UNLOCKED:"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_06",
+      "fields": {
+        "text": "MASTER OF THE DAILY LOOP: FOR AUTOMATING BORING QUESTS TO SAVE BRAIN\nBATTERY."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_07",
+      "fields": {
+        "text": "REALITY GLITCH EXPERT: FOR USING THE TRUTH DETECTOR TO SPOT FAKES."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_08",
+      "fields": {
+        "text": "TEFLON SHIELD OPERATOR: FOR LETTING \"MENTAL SPAM\" SLIDE AWAY\nEFFORTLESSLY."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_09",
+      "fields": {
+        "text": "PIVOT DANCE PRO: FOR TURNING DISAPPOINTMENTS INTO NEW, BETTER PATHS."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_10",
+      "fields": {
+        "text": "SQUAD SYNC SPECIALIST: FOR MASTERING THE ART OF THE FAMILY DREAM TEAM."
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_11",
+      "fields": {
+        "heading": "NEURO-COMMANDER OATH:",
+        "text": "\"I PROMISE TO USE MY GOLDEN CONTROLLER FOR GOOD.\nI WILL WAKE UP MY WIZARD WHEN MY LIZARD GOES WILD,\nAND I WILL ALWAYS REMEMBER THAT I AM THE ARCHITECT OF MY OWN MINDSET.\""
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_12",
+      "fields": {
+        "text": "[ SYNC. PLAY. MASTER. ]"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p103_block_13",
+      "fields": {
+        "text": "SQUAD APPROVAL: MIMI, DILO, NINI, LULI, ALIO"
+      }
+    },
+    {
+      "locale": "en",
+      "node_id": "world02_endgame_p104_block_01",
+      "fields": {
+        "text": "THE CODES ARE IN YOUR HEAD.\n\nTHE CONTROLLER IS IN YOUR HANDS.\n\nGO WIN THE DAY, NEURO-COMMANDER."
+      }
+    }
+  ]
+}
