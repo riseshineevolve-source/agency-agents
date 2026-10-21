@@ -1,0 +1,1679 @@
+{
+  "run_sha256": "66f35ad4a19bd77272b211652ccf43c8212a4517e1593b7852b23305e81a6bcd",
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "diagnostic": "COMPLETE",
+  "issues": [
+    {
+      "id": "EDITORIAL-001",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page016.block04"
+      ],
+      "detail": "HM01: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-002",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page019.block31",
+        "page019.block32",
+        "page019.block33"
+      ],
+      "detail": "HM02: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-003",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page019.block35",
+        "page019.block36",
+        "page019.block37"
+      ],
+      "detail": "HM02: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-004",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page023.block07"
+      ],
+      "detail": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-005",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page023.block09"
+      ],
+      "detail": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-006",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page023.block11"
+      ],
+      "detail": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-007",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page023.block13"
+      ],
+      "detail": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-008",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page027.block19",
+        "page027.block20"
+      ],
+      "detail": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-009",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page027.block22"
+      ],
+      "detail": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-010",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page027.block24",
+        "page027.block25"
+      ],
+      "detail": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-011",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page027.block27",
+        "page027.block28",
+        "page027.block29"
+      ],
+      "detail": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-012",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page027.block31",
+        "page027.block32"
+      ],
+      "detail": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-013",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page027.block34",
+        "page027.block35"
+      ],
+      "detail": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-014",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page037.block05",
+        "page037.block06"
+      ],
+      "detail": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-015",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page037.block08"
+      ],
+      "detail": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-016",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page037.block10",
+        "page037.block11"
+      ],
+      "detail": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-017",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page037.block13",
+        "page037.block14"
+      ],
+      "detail": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-018",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page037.block16",
+        "page037.block17",
+        "page037.block18"
+      ],
+      "detail": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-019",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page037.block20",
+        "page037.block21"
+      ],
+      "detail": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-020",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page037.block23",
+        "page037.block24"
+      ],
+      "detail": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-021",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page037.block26",
+        "page037.block27",
+        "page037.block28"
+      ],
+      "detail": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-022",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page041.block21"
+      ],
+      "detail": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-023",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page041.block26",
+        "page041.block27",
+        "page041.block28"
+      ],
+      "detail": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-024",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page041.block30"
+      ],
+      "detail": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-025",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page045.block07"
+      ],
+      "detail": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-026",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page045.block09"
+      ],
+      "detail": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-027",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page045.block11"
+      ],
+      "detail": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-028",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page045.block13"
+      ],
+      "detail": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-029",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page049.block05"
+      ],
+      "detail": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-030",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page049.block07"
+      ],
+      "detail": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-031",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page049.block09"
+      ],
+      "detail": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-032",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page049.block11"
+      ],
+      "detail": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-033",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page049.block13"
+      ],
+      "detail": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-034",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page049.block15"
+      ],
+      "detail": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-035",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page053.block15",
+        "page053.block16",
+        "page053.block17"
+      ],
+      "detail": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-036",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page053.block19",
+        "page053.block20"
+      ],
+      "detail": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-037",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page053.block22"
+      ],
+      "detail": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-038",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page053.block24"
+      ],
+      "detail": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-039",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page053.block26",
+        "page053.block27"
+      ],
+      "detail": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-040",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page061.block07"
+      ],
+      "detail": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-041",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page061.block09"
+      ],
+      "detail": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-042",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page061.block11"
+      ],
+      "detail": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-043",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page061.block13"
+      ],
+      "detail": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-044",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page065.block23",
+        "page065.block24"
+      ],
+      "detail": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-045",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page065.block26",
+        "page065.block27"
+      ],
+      "detail": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-046",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page065.block29"
+      ],
+      "detail": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-047",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page065.block31"
+      ],
+      "detail": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-048",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page069.block05"
+      ],
+      "detail": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-049",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page069.block07"
+      ],
+      "detail": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-050",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page069.block09"
+      ],
+      "detail": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-051",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page069.block11"
+      ],
+      "detail": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-052",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page069.block13"
+      ],
+      "detail": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-053",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page069.block15"
+      ],
+      "detail": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-054",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page073.block07"
+      ],
+      "detail": "HM15: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-055",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page073.block09"
+      ],
+      "detail": "HM15: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-056",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page073.block11"
+      ],
+      "detail": "HM15: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-057",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page087.block13"
+      ],
+      "detail": "HM18: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-058",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page091.block05"
+      ],
+      "detail": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-059",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page091.block07"
+      ],
+      "detail": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-060",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page091.block09"
+      ],
+      "detail": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-061",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page091.block11"
+      ],
+      "detail": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-062",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page091.block13"
+      ],
+      "detail": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-063",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page091.block15"
+      ],
+      "detail": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-064",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page095.block07"
+      ],
+      "detail": "HM20: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-065",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page095.block09"
+      ],
+      "detail": "HM20: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-066",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page099.block07",
+        "page099.block08"
+      ],
+      "detail": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-067",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page099.block10",
+        "page099.block11"
+      ],
+      "detail": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-068",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page099.block13"
+      ],
+      "detail": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-069",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page099.block15"
+      ],
+      "detail": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-070",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page099.block17",
+        "page099.block18",
+        "page099.block19"
+      ],
+      "detail": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-071",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page099.block21"
+      ],
+      "detail": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-072",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page105.block08"
+      ],
+      "detail": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-073",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page105.block10"
+      ],
+      "detail": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-074",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page105.block12"
+      ],
+      "detail": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-075",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page105.block14"
+      ],
+      "detail": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-076",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page109.block11"
+      ],
+      "detail": "HM23: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-077",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page109.block13"
+      ],
+      "detail": "HM23: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-078",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page113.block09"
+      ],
+      "detail": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-079",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page113.block11"
+      ],
+      "detail": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-080",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page113.block13"
+      ],
+      "detail": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-081",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page113.block15"
+      ],
+      "detail": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-082",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page117.block05"
+      ],
+      "detail": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-083",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page117.block07"
+      ],
+      "detail": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-084",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page117.block09"
+      ],
+      "detail": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-085",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page117.block11"
+      ],
+      "detail": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-086",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page117.block13"
+      ],
+      "detail": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-087",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page121.block15",
+        "page121.block16",
+        "page121.block17"
+      ],
+      "detail": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-088",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page121.block19",
+        "page121.block20",
+        "page121.block21"
+      ],
+      "detail": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-089",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page121.block23",
+        "page121.block24"
+      ],
+      "detail": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-090",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page121.block26"
+      ],
+      "detail": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-091",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page121.block28",
+        "page121.block29",
+        "page121.block30"
+      ],
+      "detail": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-092",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page129.block05"
+      ],
+      "detail": "HM28: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-093",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page129.block11",
+        "page129.block12"
+      ],
+      "detail": "HM28: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-094",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page129.block14"
+      ],
+      "detail": "HM28: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-095",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page133.block05"
+      ],
+      "detail": "HM29: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-096",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page133.block11"
+      ],
+      "detail": "HM29: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-097",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page137.block08"
+      ],
+      "detail": "HM30: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-098",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page137.block09"
+      ],
+      "detail": "HM30: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-099",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page007.block05"
+      ],
+      "detail": "BIO_QUOTE_FALSE_SALIENCE: a beep is not evidence of importance; use a distinctive tech boast rather than a misleading maxim.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-100",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page012.block03"
+      ],
+      "detail": "SUPPORT_COMMS_DRY_TAIL: replace generic tabs/battery maxim and doom with an actual family negotiation over the wall.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-101",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page019.block03",
+        "page019.block04",
+        "page019.block05",
+        "page019.block06",
+        "page019.block07",
+        "page019.block08",
+        "page019.block09",
+        "page019.block10",
+        "page019.block11",
+        "page019.block12",
+        "page019.block13",
+        "page019.block14",
+        "page019.block15",
+        "page019.block16",
+        "page019.block17",
+        "page019.block18",
+        "page019.block19",
+        "page019.block20",
+        "page019.block21"
+      ],
+      "detail": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-102",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page030.block03",
+        "page030.block04",
+        "page030.block05",
+        "page030.block06",
+        "page030.block07",
+        "page030.block08",
+        "page030.block09",
+        "page030.block10",
+        "page030.block11"
+      ],
+      "detail": "CASE05_PACING: make the dormant-locker activation a visible event rather than a sequence of repeated explanations of ignorance.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-103",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page034.block16"
+      ],
+      "detail": "SUPPORT_COMMS_REPEAT: setup must invite a human response rather than recite the pattern.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-104",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page034.block18"
+      ],
+      "detail": "SUPPORT_COMMS_MORAL_END: replace procedural maxim with sibling payoff.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-105",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page035.block06",
+        "page035.block07"
+      ],
+      "detail": "SUPPORT_COMMS_RELATIONSHIP: Nini joins the family joke instead of grading an idea.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-106",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page035.block09",
+        "page035.block10"
+      ],
+      "detail": "SUPPORT_COMMS_ACTION: Bibi has a concrete archive task and can answer the printer joke without supplying its meaning.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-107",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page040.block05",
+        "page040.block06",
+        "page040.block07"
+      ],
+      "detail": "BRIDGE_OVERCLAIM: 'records it should not know about' suggests a watcher beyond observed system capability; retain ordinary reader belonging and the actual activation mystery.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-108",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page044.block03",
+        "page044.block04",
+        "page044.block05",
+        "page044.block06",
+        "page044.block07",
+        "page044.block08",
+        "page044.block09"
+      ],
+      "detail": "CASE08_EARLY_ELIMINATION: the opener lists route eliminations before the task; show urgency and leave the actual choice with the reader.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-109",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page053.block03",
+        "page053.block04",
+        "page053.block05",
+        "page053.block06",
+        "page053.block07",
+        "page053.block08",
+        "page053.block09",
+        "page053.block10",
+        "page053.block11",
+        "page053.block12",
+        "page053.block13"
+      ],
+      "detail": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-110",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page060.block08"
+      ],
+      "detail": "CASE12_FORMULA: the handler query should sound like this bird interview, not another abstract last-reliable-placement explanation.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-111",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page068.block04",
+        "page068.block05",
+        "page068.block06"
+      ],
+      "detail": "CASE14_TRANSITION: retain the memory theme and coordinator's trigger without a narrator's 'more useful' evaluation.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-112",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page072.block09"
+      ],
+      "detail": "CASE15_FORMULA: make the witness's actual value clear through the existing bag-swap situation.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-113",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page082.block15"
+      ],
+      "detail": "CASE17_FORMULA: use the physical ticket question instead of another last-reliable-point paragraph.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-114",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page090.block15"
+      ],
+      "detail": "CASE19_FORMULA: reduce physical-side-of-digital-mystery abstraction; keep log and eyewitness roles distinct.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-115",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page103.block05",
+        "page103.block06"
+      ],
+      "detail": "FIRST_INSTRUCTION_CONTINUITY: RULE 0 FIRST was already an instruction at80; qualify the fuller note and keep the reader's saved maps in the foreground.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-116",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page104.block03",
+        "page104.block04",
+        "page104.block05",
+        "page104.block06",
+        "page104.block07",
+        "page104.block08",
+        "page104.block09",
+        "page104.block10"
+      ],
+      "detail": "CASE22_LOCAL_VOICE: another handoff query needs its own shelf/contents problem and natural reader-facing handoff.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-117",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page108.block14",
+        "page108.block15",
+        "page108.block16",
+        "page108.block17"
+      ],
+      "detail": "CASE23_DUPLICATE_JOKE: one visual setup here; deliver the full scoreboard exchange at109.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-118",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page116.block03"
+      ],
+      "detail": "CASE24_MORAL_TAIL: carry Alio's observation into a human image instead of spelling out a general reminder.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-119",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page116.block11",
+        "page116.block12"
+      ],
+      "detail": "CASE25_WITHHELD_THOUGHT: Bibi should share the ordinary question raised by the visible label, not imply she is withholding an answer.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-120",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page120.block16"
+      ],
+      "detail": "BRIDGE_COMMS_WARMTH: replace methodology verdict with sibling recognition and Bibi backing Dilo's useful filing.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-121",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page120.block17"
+      ],
+      "detail": "BRIDGE_COMMS_PAYOFF: end at the crowded family table, rather than a general wall-space observation.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-122",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page128.block07"
+      ],
+      "detail": "INSTRUCTION_COUNT: the margin is another instruction, not literally the second after both photograph and torn note.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-123",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page128.block13"
+      ],
+      "detail": "CASE28_MORAL_TAIL: use the already-open evidence files and waiting wall to embody the need to test the exciting idea.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-124",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page140.block08"
+      ],
+      "detail": "VICTORY_NOISE_CALLBACK: a simple family signal pays off the pending noise without restating the book's maxim at the reveal.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-125",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page141.block16"
+      ],
+      "detail": "FINALE_MECHANISM_CLARITY: retain real cases, matching and conditional archive reopening in shorter natural clauses.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-126",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page143.block09"
+      ],
+      "detail": "BELONGING_VS_CERTIFICATION: what the work earns is the field badge; the reader already has a place at the family table.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-127",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page143.block21"
+      ],
+      "detail": "FINALE_REPEATED_NEGATION: recognition of the reader's retained evidence replaces a third statement that nobody can fill the place for them.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-128",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page144.block04"
+      ],
+      "detail": "FINALE_HUMAN_BEAT: keep the empty hook visible instead of explaining the invitation again.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-129",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page144.block06"
+      ],
+      "detail": "FINALE_PAYOFF: warm, concrete acknowledgement of reader work and the place the family kept.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-130",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page108.block13"
+      ],
+      "detail": "R1_NATIVE_MEANING: Jude is a person, not a place; make known location, companion and next witness question concrete.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    },
+    {
+      "id": "EDITORIAL-131",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page212.block12"
+      ],
+      "detail": "R1_CHRONOLOGY: the earlier photograph already carried RULE 0 FIRST. This nonmechanic summary must call the repaired note a fuller instruction; all answer and physical-join text remains exact.",
+      "resolution": "Single writer integrated exact target; all material R1 findings closed by real native/audience/meaning/logic final reviews on df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1.",
+      "evidence": "../../reviews/FINAL_REVIEW_BUNDLE.json"
+    }
+  ],
+  "independent_review": "FULL_R1_PLUS_HASH_BOUND_EIGHT_UNIT_CLOSURE"
+}

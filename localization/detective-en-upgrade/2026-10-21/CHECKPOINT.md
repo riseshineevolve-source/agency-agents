@@ -1,32 +1,19 @@
-# Detective Academy EN V6 — owner-directed corrections, 21 October 2026
+# Detective EN V7 checkpoint
 
-Current full English candidate: `candidate/candidate.json`, SHA256 `d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc`.
-V5 remains the unchanged historical baseline. V6 changes exactly27of3067units;3040remain identical.
+Status: OWNER_READ_CANDIDATE. Complete English editorial pass; no owner content freeze or publication.
 
-## Closed exceptions
+Exact candidate: `df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1`. Source authority: owner's explicit request to use rse-language for another complete English upgrade, especially witty, affectionate Happy Makers Comms. Baseline V6: `d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc`.
 
-- Case03: only PHOTO A/PHOTO B external labels. The real017/071difference remains inside photographs. The page27callback now relies on internal photograph evidence, not removed captions.
-- Case02: whole-grid corner and explicit local shared-edge/same-room beside.
-- Case07: explicit metal frame C2 grid-distance anchor, all visible wheeled equipment cases, matched solution wording. C2is an owner-authorized repair, not a claim that old source identified its range marker.
-- Case10: visible wheeled robot arm replaces ambiguous chargingpod; hint updated.
-- Case15: independent row/column direction offsets, same-room shared-edge beside, symbol-led key matching actual usable furniture.
-- Case20: explicit lower-row/right-column/one-row-one-column instructions; E5/E7/F7allusablecadetbunks; E7/F7markers corrected in both unsolved97and solved211.
+All225folios and30mainComms were actually read. V7 changes229stableunits/48folios and105spoken turns in25mainComms;05/11/16/17/27remain whole strong scenes. Earlier V6vsowner225 changed15mainComms/27turns, with no extra V5→V6Comms editing. Three-way artifact makes the difference reviewable.
 
-All five repaired maps have exactly ONE complete intended witness assignment. Nine independently enumerated variants pass. Four actual corrected figure leaves preserve all raster payloads, walls and witness placements. Two independent exact-text reviewers and the independent figure reviewer passed their stated scopes. Existing Case26message and Case30inputs remain unchanged.
+Actual independent native/audience/meaning/logic reviews PASS on the exact final hash. R1concrete findings are retained and closed. CLI `run-r2` reports OWNER_READ_CANDIDATE with deterministicPASS and no unresolved issues/source ambiguities.
 
-## Files
+All27V6fixes, maps,90hints,30answers and reasoning remain exact. Only nonmechanic summary212block12 fixes the first-instruction chronology. Four0records/14maps/finaleinputs unchanged. No new map solve or invented geometry claim.
 
-- `proof/DETECTIVE_EN_V6_READING_PROOF.pdf`: complete225-page reading proof with177textproofleaves and48original illustration/evidence leaves. Includes the six bounded visual amendments.
-- `proof/DETECTIVE_EN_V6_CORRECTED_FIGURES.pdf`: original leaves24,25,97,211with actual caption/symbol corrections.
-- `candidate/reader-manuscript.md`: clean full reader text companion.
-- `candidate/change-ledger.json`: exact27before/afterchanges.
-- `integration/EDITORIAL_IMPORT_PACKET_V6.json`: 118operations from original225or27fromV5, plus3067targethashes and figure contract. Consume all prior V5story improvements too.
-- `qa/FINAL_LANGUAGE_CHECK_V6.json`, `qa/FINAL_V6_SUMMARY.json`, `reviews/`: actual hash-bound QA and scope limits.
+Reading artifact:225folios, `9b43919e74ecb0cb6ba6779b110d2cd1ba82b86cfc146bddc0dde279c6277f20`, 56604852bytes.173text leaves and52locked/source-designed leaves.225copy/offpagechecks and52pixel-identitychecksPASS. Independent visual69folio sample/25fullsizePASS; unsampled156notvisuallyapproved.
 
-## Production handoff
+Comparison artifact:34pages, `4483f5234e563e22215d0d24c0f7e23f28d67e5c09a1cfc0c54bd005c328910a`. All34visually inspected;495main-scene spoken-version roundtripsPASS.
 
-The exclusive BookFactory writer remains responsible for real product import and final layout. Source16maps to destination15; source27maps to destination26in the recovered Studio adapter. Do not paste by folio number alone. Preserve the prior eight raster-slot receipts requirement. The attached reading proof is suitable for content review; it is not final BookFactory typesetting or KDP print approval. Product source/renderer, PLR8, main and publication are unchanged.
+Import `integration/EDITORIAL_IMPORT_PACKET_V7.json` through the existing sole BookFactory writer. It includes original225/V6 operations,3067target hashes, speaker mapping and retained destination remaps. Four corrected V6figure leaves reused unchanged. Actual product import, final fitting, receiving-chat acknowledgment and print proof remain unclaimed.
 
-Source PDF: owner225pageattachment `DETECTIVE_ACADEMY_EN_20261021_225P.pdf`, Library id `libfile_cfd6cede96588191806f3fac3602a3b9`, SHA256 `9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0`. Original source bytes are not duplicated in this package. Current RSE language CLI is required for rechecks. `run-r2` is the canonical bounded run; the earlier preparation run is historical and excluded.
-
-Model/revenue policies acknowledged: bounded exception work, deterministic checks first, no Actions dispatch or paid fallback. Runtime model controls were not exposed; no client model change is claimed. No content freeze, release or publication granted.
+Source branch: `codex/detective-en-story-upgrade-20261021`, PR43. No main merge or Actions dispatch. CI at final checkpoint not confirmed as green. Historical V5/V6artifacts stay versioned. PLV04R8/FINAL70authority unchanged.

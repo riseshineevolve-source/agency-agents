@@ -1,0 +1,175 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "owner_authority": "../OWNER_AUTHORITY.json",
+  "patches": [
+    {
+      "source_folio": 24,
+      "kind": "external_photo_caption",
+      "new_text": "PHOTO A",
+      "rect": [
+        63.0,
+        151.5,
+        265.0,
+        170.3
+      ],
+      "photograph_pixels": "PRESERVED",
+      "font": "Original embedded Roboto Condensed Bold, 12.6pt"
+    },
+    {
+      "source_folio": 25,
+      "kind": "external_photo_caption",
+      "new_text": "PHOTO B",
+      "rect": [
+        63.0,
+        151.5,
+        265.0,
+        170.3
+      ],
+      "photograph_pixels": "PRESERVED",
+      "font": "Original embedded Roboto Condensed Bold, 12.6pt"
+    },
+    {
+      "source_folio": 97,
+      "kind": "blocked_square_to_usable_circle",
+      "cell": "E7",
+      "rect": [
+        330.1183974566627,
+        542.3094233801605,
+        334.38318809182726,
+        546.5742141583644
+      ],
+      "affected_rect": [
+        329.6683974566627,
+        541.8594233801605,
+        334.83318809182725,
+        547.0242141583644
+      ],
+      "source_map_bbox": [
+        134.92221069335938,
+        194.89300537109375,
+        472.1687316894531,
+        552.4793090820312
+      ],
+      "map_image_xref": 1804,
+      "classification": "usable cadet bunk",
+      "native_marker_bbox": [
+        595,
+        1059,
+        13,
+        13
+      ],
+      "new_shape": "open circle",
+      "floor_grey": 0.9254901960784314
+    },
+    {
+      "source_folio": 97,
+      "kind": "blocked_square_to_usable_circle",
+      "cell": "F7",
+      "rect": [
+        376.37497280729417,
+        542.3094233801605,
+        380.3117026243692,
+        546.2461533292718
+      ],
+      "affected_rect": [
+        375.9249728072942,
+        541.8594233801605,
+        380.7617026243692,
+        546.6961533292719
+      ],
+      "source_map_bbox": [
+        134.92221069335938,
+        194.89300537109375,
+        472.1687316894531,
+        552.4793090820312
+      ],
+      "map_image_xref": 1804,
+      "classification": "usable cadet bunk",
+      "native_marker_bbox": [
+        736,
+        1059,
+        12,
+        12
+      ],
+      "new_shape": "open circle",
+      "floor_grey": 0.8862745098039215
+    },
+    {
+      "source_folio": 211,
+      "kind": "blocked_square_to_usable_circle",
+      "cell": "E7",
+      "rect": [
+        340.55406350755504,
+        563.0824078201153,
+        344.7417303894281,
+        567.2728036303039
+      ],
+      "affected_rect": [
+        340.10406350755505,
+        562.6324078201153,
+        345.1917303894281,
+        567.7228036303039
+      ],
+      "source_map_bbox": [
+        148.8877716064453,
+        221.726318359375,
+        480.03558349609375,
+        573.0748901367188
+      ],
+      "map_image_xref": 3437,
+      "classification": "usable cadet bunk",
+      "native_marker_bbox": [
+        595,
+        1059,
+        13,
+        13
+      ],
+      "new_shape": "open circle",
+      "floor_grey": 0.9254901960784314
+    },
+    {
+      "source_folio": 211,
+      "kind": "blocked_square_to_usable_circle",
+      "cell": "F7",
+      "rect": [
+        385.9741427647929,
+        563.0824078201153,
+        389.83968142498327,
+        566.9504654910586
+      ],
+      "affected_rect": [
+        385.5241427647929,
+        562.6324078201153,
+        390.28968142498326,
+        567.4004654910586
+      ],
+      "source_map_bbox": [
+        148.8877716064453,
+        221.726318359375,
+        480.03558349609375,
+        573.0748901367188
+      ],
+      "map_image_xref": 3437,
+      "classification": "usable cadet bunk",
+      "native_marker_bbox": [
+        736,
+        1059,
+        12,
+        12
+      ],
+      "new_shape": "open circle",
+      "floor_grey": 0.8823529411764706
+    }
+  ],
+  "corrected_figures_pdf": "DETECTIVE_EN_V6_CORRECTED_FIGURES.pdf",
+  "corrected_figures_pdf_sha256": "97f93e50551c25f7def860f3142b7010919d67e32b1a4a9995c0aa4a4e0302e9",
+  "source_folios": [
+    24,
+    25,
+    97,
+    211
+  ],
+  "room_geometry_and_all_witness_coordinates": "UNCHANGED",
+  "production_renderer_modified": false
+}

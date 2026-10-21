@@ -1,0 +1,1064 @@
+{
+  "reviewer": "actual independent agent /root/v6_puzzle_review",
+  "reviewed_utc": "2026-10-21T15:18:23.710184+00:00",
+  "status": "DIAGNOSTIC_COMPLETE__NOT_A_V7_CANDIDATE_REVIEW",
+  "source_v6_candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "complete_reader_sha256": "671b626959cf7896342f1bf30c0acc8add7db8e00b4432896450e4531204cc44",
+  "read_scope": "Entire clean reader225folios including all story/hints/solutions and original-art references; all30mainComms; complete priorCommsdiff; olderdevelopmentaldiagnostic. No new map solves or unseen art approvals.",
+  "source_inputs_sha256": {
+    "detective-v6/candidate/reader-manuscript.md": "671b626959cf7896342f1bf30c0acc8add7db8e00b4432896450e4531204cc44",
+    "detective-v7/diagnostic/comms-source-v6.json": "fa522d1300073aa7aa97db670bc186d121e42cbdcb2bed0a44c6b755243deda8",
+    "detective-v7/diagnostic/ALL_COMMS_V6_WITH_PRIOR_DIFF.txt": "6602983919a07058433d90536735afd788156449a22dcc04c53dc9e2b7b77e42",
+    "detective-upgrade/qa/developmental-logic-diagnostic.md": "d4cb6cc1a85f9d80f0430dc51f1a8da2cb1b9f25efbd11c66e427a0beada220c"
+  },
+  "read_folios": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225
+  ],
+  "main_comms_cases_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "all27_v6_delta_ids_locked": [
+    "page020.block04",
+    "page020.block08",
+    "page024.block04",
+    "page025.block04",
+    "page027.block04",
+    "page027.block05",
+    "page042.block04",
+    "page042.block08",
+    "page042.block09",
+    "page042.block10",
+    "page054.block03",
+    "page054.block04",
+    "page054.block08",
+    "page074.block04",
+    "page074.block05",
+    "page074.block07",
+    "page074.block08",
+    "page074.block10",
+    "page074.block12",
+    "page096.block03",
+    "page096.block05",
+    "page096.block06",
+    "page096.block07",
+    "page154.block07",
+    "page164.block09",
+    "page165.block11",
+    "page190.block11"
+  ],
+  "all_puzzle_hint_solution_and_art_truth": "PRESERVE_BYTE_IDENTICAL_V6; review-onlynewnotes",
+  "protected_core": {
+    "real_plain0_records": [
+      "black-envelope intake record",
+      "Trophy Hall return tag",
+      "Open Night evidence label",
+      "old locker routing card"
+    ],
+    "look_twice_record_marked": false,
+    "0:07": "falseclocklead,notfifthmark",
+    "selected_maps": [
+      2,
+      4,
+      6,
+      7,
+      10,
+      12,
+      13,
+      15,
+      17,
+      19,
+      20,
+      22,
+      23,
+      25
+    ],
+    "code": [
+      "BALL",
+      "STAR",
+      "BOLT",
+      "HEART",
+      "KEY",
+      "MOON"
+    ],
+    "note_scrap_order": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "note_message": "THE ANSWER IS IN WHAT YOU LEAVE EMPTY.",
+    "rule_zero": "ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.",
+    "final_access": "D3",
+    "field_team": "fiveactivefielddetectives;Bibiarchive mentor;readerfills06",
+    "reader_identity": "chosenbyreaderonRecruitCredential,neverassignedbyroute",
+    "system_capabilities": [
+      "MATCH",
+      "ROUTE",
+      "VERIFY"
+    ],
+    "system_does_not": [
+      "createcases",
+      "moveevidence",
+      "selectsuspect",
+      "solveverdicts",
+      "choosereadername"
+    ],
+    "new_triangle": "newquestionafterclosure,notcurrentCase03photoevidence"
+  },
+  "source_p120_visual_mapping": {
+    "source_png": "reviews/story-diagnostic/source-p120.png",
+    "turns": [
+      {
+        "speaker": "NINI",
+        "text": "I knew we kept those maps for a reason."
+      },
+      {
+        "speaker": "DILO",
+        "text": "I kept mine because the stack looked impressive."
+      },
+      {
+        "speaker": "LULI",
+        "text": "Same evidence. Very different methodology."
+      },
+      {
+        "speaker": "BIBI",
+        "text": "And the parcel finally delivered something useful instead of confusion."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "The Case Wall is finally earning its wall space."
+      }
+    ],
+    "actual_source_visual_inspected": true
+  },
+  "case_function_and_continuity_map": [
+    {
+      "case": 1,
+      "editable_story_folios_to_review": [
+        16
+      ],
+      "main_comms_folio": 16,
+      "main_comms_stable_ids": [
+        "page016.block04"
+      ],
+      "locked_outcome": "KNOX D2",
+      "entry_truth_and_story_job": "Internal stock, not outside delivery. Reader proves location, not author or culprit.",
+      "exit_payoff_or_next_dependency": "Black envelope/0 plus blank RecruitCredential invite reader; no explanation of route.",
+      "no_drift_boundary": "Tunnel/minivan banter is hypothetical; no actual tunnel established.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 2,
+      "editable_story_folios_to_review": [
+        19
+      ],
+      "main_comms_folio": 19,
+      "main_comms_stable_ids": [
+        "page019.block23",
+        "page019.block24",
+        "page019.block26",
+        "page019.block27",
+        "page019.block29",
+        "page019.block31",
+        "page019.block32",
+        "page019.block33",
+        "page019.block35",
+        "page019.block36",
+        "page019.block37"
+      ],
+      "locked_outcome": "Dax D2",
+      "entry_truth_and_story_job": "Cup returned with apparent blank return sheet;Max signed it out;tag adds second real0.",
+      "exit_payoff_or_next_dependency": "Dax tells Cup already back, then wrong attachment exposes signed return27.",
+      "no_drift_boundary": "Companion is interview lead, not thief;do not conclude returnrecord genuineabsence forever.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 3,
+      "editable_story_folios_to_review": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "main_comms_folio": 23,
+      "main_comms_stable_ids": [
+        "page023.block05",
+        "page023.block07",
+        "page023.block09",
+        "page023.block11",
+        "page023.block13"
+      ],
+      "locked_outcome": "Ten current differences",
+      "entry_truth_and_story_job": "Two image records must be compared;externalcaptions only PHOTOA/B.",
+      "exit_payoff_or_next_dependency": "017current/071older only after photo task, confirmed paperpacket27,index36.",
+      "no_drift_boundary": "No numbers/chronologyspoiler in captions;no triangle/tread differences;InspectorGlitterimaginary.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 4,
+      "editable_story_folios_to_review": [
+        27
+      ],
+      "main_comms_folio": 27,
+      "main_comms_stable_ids": [
+        "page027.block19",
+        "page027.block20",
+        "page027.block22",
+        "page027.block24",
+        "page027.block25",
+        "page027.block27",
+        "page027.block28",
+        "page027.block29",
+        "page027.block31",
+        "page027.block32",
+        "page027.block34",
+        "page027.block35"
+      ],
+      "locked_outcome": "Zuri F4",
+      "entry_truth_and_story_job": "Cup closes via signedform;071staysopen;sealedboxintactsafe;third0record.",
+      "exit_payoff_or_next_dependency": "Zuri clarifies handoff, corrected filing wakes locker30.",
+      "no_drift_boundary": "Do not edit locked V6 reveal27block04/05;do not open box or invent dangerous contents.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 5,
+      "editable_story_folios_to_review": [
+        30,
+        31
+      ],
+      "main_comms_folio": 31,
+      "main_comms_stable_ids": [
+        "page031.block05",
+        "page031.block07",
+        "page031.block09",
+        "page031.block11",
+        "page031.block13",
+        "page031.block15"
+      ],
+      "locked_outcome": "BALL STAR BOLT HEART KEY MOON",
+      "entry_truth_and_story_job": "Dormant locker wakes after verifiedcasefiled;Dilo did not author its clues.",
+      "exit_payoff_or_next_dependency": "Codeopens old sealedroutingcard INCOMPLETE+plain0;fourmarks now complete34/35.",
+      "no_drift_boundary": "Save exact sixsymbols;no fifth real0;no newbadge in realrack.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 6,
+      "editable_story_folios_to_review": [
+        36,
+        37
+      ],
+      "main_comms_folio": 37,
+      "main_comms_stable_ids": [
+        "page037.block05",
+        "page037.block06",
+        "page037.block08",
+        "page037.block10",
+        "page037.block11",
+        "page037.block13",
+        "page037.block14",
+        "page037.block16",
+        "page037.block17",
+        "page037.block18",
+        "page037.block20",
+        "page037.block21",
+        "page037.block23",
+        "page037.block24",
+        "page037.block26",
+        "page037.block27",
+        "page037.block28"
+      ],
+      "locked_outcome": "Arlo D2",
+      "entry_truth_and_story_job": "071archiveindexbrings BibiHeritage;displayRomanSpoonunderDragonToothlabel.",
+      "exit_payoff_or_next_dependency": "Arlo establishes labelmoved,not stolenobject41.",
+      "no_drift_boundary": "Never treat071as typo;no realdragon/soup evidence or actual crime inferred.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 7,
+      "editable_story_folios_to_review": [
+        41
+      ],
+      "main_comms_folio": 41,
+      "main_comms_stable_ids": [
+        "page041.block17",
+        "page041.block18",
+        "page041.block19",
+        "page041.block21",
+        "page041.block23",
+        "page041.block24",
+        "page041.block26",
+        "page041.block27",
+        "page041.block28",
+        "page041.block30"
+      ],
+      "locked_outcome": "Zoe C6",
+      "entry_truth_and_story_job": "Mooncostumemissing;Graylastinventory,route not yetchecked.",
+      "exit_payoff_or_next_dependency": "Zoegives timewindow;costumeremainsmissing44 until route08 solved.",
+      "no_drift_boundary": "V6C2metalframe/allvisiblewheeledcases/localbeside exact;no hideplace early.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 8,
+      "editable_story_folios_to_review": [
+        44,
+        45
+      ],
+      "main_comms_folio": 45,
+      "main_comms_stable_ids": [
+        "page045.block05",
+        "page045.block07",
+        "page045.block09",
+        "page045.block11",
+        "page045.block13"
+      ],
+      "locked_outcome": "Route C",
+      "entry_truth_and_story_job": "ClosedPaintCorridor/lockedStaffStairs/currenturgency.",
+      "exit_payoff_or_next_dependency": "ReachPropRoom;costumemovedfor drill48,not stolen.",
+      "no_drift_boundary": "Do not announce correct route/rooms in Comms;no newdoor permission.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 9,
+      "editable_story_folios_to_review": [
+        48,
+        49
+      ],
+      "main_comms_folio": 49,
+      "main_comms_stable_ids": [
+        "page049.block05",
+        "page049.block07",
+        "page049.block09",
+        "page049.block11",
+        "page049.block13",
+        "page049.block15"
+      ],
+      "locked_outcome": "Plain0 recurringAcademymark;fourrecords",
+      "entry_truth_and_story_job": "Fourmarks already saved;taskexcludeslookalikes,not newcountdiscovery.",
+      "exit_payoff_or_next_dependency": "Bibi recognizesformafter classification52 butzero meaningunknown.",
+      "no_drift_boundary": "Memorynot proof;LookTwicefileunmarked;no hiddenwatcher.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 10,
+      "editable_story_folios_to_review": [
+        53
+      ],
+      "main_comms_folio": 53,
+      "main_comms_stable_ids": [
+        "page053.block15",
+        "page053.block16",
+        "page053.block17",
+        "page053.block19",
+        "page053.block20",
+        "page053.block22",
+        "page053.block24",
+        "page053.block26",
+        "page053.block27"
+      ],
+      "locked_outcome": "Ember D5",
+      "entry_truth_and_story_job": "Twostudentownershipsheets,samerover;access not ownership verdict.",
+      "exit_payoff_or_next_dependency": "Emberdescribesactualaccess;copieddemorecordremoved56.",
+      "no_drift_boundary": "V6robotarm/hint154/localbesideexact;no newownershipproofbefore interview.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 11,
+      "editable_story_folios_to_review": [
+        56,
+        57
+      ],
+      "main_comms_folio": 57,
+      "main_comms_stable_ids": [
+        "page057.block05",
+        "page057.block07",
+        "page057.block09",
+        "page057.block11",
+        "page057.block13",
+        "page057.block15"
+      ],
+      "locked_outcome": "Record D",
+      "entry_truth_and_story_job": "Fair15:20–16:05;phonefoundbesideoatbar;A–Donlytimestampedrecords.",
+      "exit_payoff_or_next_dependency": "Wrongtimestampremoved60,breakfastcleared;nextdayparrot.",
+      "no_drift_boundary": "Do not pre-revealD/08:07orcountfood/pensfalseevidence.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 12,
+      "editable_story_folios_to_review": [
+        60,
+        61
+      ],
+      "main_comms_folio": 61,
+      "main_comms_stable_ids": [
+        "page061.block05",
+        "page061.block07",
+        "page061.block09",
+        "page061.block11",
+        "page061.block13"
+      ],
+      "locked_outcome": "Nell G2",
+      "entry_truth_and_story_job": "Parrotrepeatsfourwordssoundinglikeaccessphrase;Wintermappedhandler.",
+      "exit_payoff_or_next_dependency": "Nelltracesordinaryrehearsalcue65,not passwordleak.",
+      "no_drift_boundary": "Mapprovescontactlead,notuniquepossibleteacher;no phrase invented.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 13,
+      "editable_story_folios_to_review": [
+        65
+      ],
+      "main_comms_folio": 65,
+      "main_comms_stable_ids": [
+        "page065.block18",
+        "page065.block19",
+        "page065.block21",
+        "page065.block23",
+        "page065.block24",
+        "page065.block26",
+        "page065.block27",
+        "page065.block29",
+        "page065.block31"
+      ],
+      "locked_outcome": "Bodhi B7",
+      "entry_truth_and_story_job": "Photo4:17 and later differentcameraposition;Remymaintenance.",
+      "exit_payoff_or_next_dependency": "Bodhisayscameramovedafterframe,duringcleanup68.",
+      "no_drift_boundary": "No before/afteranswerinComms,foxcarryingcamera remainsjoke.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 14,
+      "editable_story_folios_to_review": [
+        68,
+        69
+      ],
+      "main_comms_folio": 69,
+      "main_comms_stable_ids": [
+        "page069.block05",
+        "page069.block07",
+        "page069.block09",
+        "page069.block11",
+        "page069.block13",
+        "page069.block15"
+      ],
+      "locked_outcome": "NOAH",
+      "entry_truth_and_story_job": "Onejourneyimpossibleunderprinted2min/edge;memorycanbemistaken.",
+      "exit_payoff_or_next_dependency": "Badmemorynot badperson72;no guiltclaim.",
+      "no_drift_boundary": "Do not supplyNoah/4minvs2minbeforetask.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 15,
+      "editable_story_folios_to_review": [
+        72,
+        73
+      ],
+      "main_comms_folio": 73,
+      "main_comms_stable_ids": [
+        "page073.block05",
+        "page073.block07",
+        "page073.block09",
+        "page073.block11"
+      ],
+      "locked_outcome": "Harper D2",
+      "entry_truth_and_story_job": "Busdeparture;nearlyidenticalbagsandbluezip,noownershipproof.",
+      "exit_payoff_or_next_dependency": "Harperuntanglesbags76;zipidentifiedbagnotowner.",
+      "no_drift_boundary": "AllV6row/column/same-roombeside/keyexact;not timedreaderchallenge.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 16,
+      "editable_story_folios_to_review": [
+        76,
+        77,
+        80,
+        81
+      ],
+      "main_comms_folio": 77,
+      "main_comms_stable_ids": [
+        "page077.block06",
+        "page077.block08",
+        "page077.block10",
+        "page077.block12",
+        "page077.block14",
+        "page077.block16"
+      ],
+      "locked_outcome": "OldAcademyAnnex;2002;RULE0FIRST",
+      "entry_truth_and_story_job": "Sixchildreninoldphoto,oneBibi;familyhatjokesnondating;primaryevidence.",
+      "exit_payoff_or_next_dependency": "Datedphotoallows ownhandwritingline80/81;Bibi remembers writingphotoline,notmeaning.",
+      "no_drift_boundary": "No note21authorshipreveal;no new dates/crests/faces;RULE0FIRST exact.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 17,
+      "editable_story_folios_to_review": [
+        82,
+        83
+      ],
+      "main_comms_folio": 83,
+      "main_comms_stable_ids": [
+        "page083.block05",
+        "page083.block07",
+        "page083.block09",
+        "page083.block11",
+        "page083.block13",
+        "page083.block15"
+      ],
+      "locked_outcome": "Axel E3",
+      "entry_truth_and_story_job": "NeedAnnexrecords;stationopen-dayticketpassedwithoutloss;Reedlastplacement.",
+      "exit_payoff_or_next_dependency": "Axelconfirmsdeliberatehandoff86;clockissue separate.",
+      "no_drift_boundary": "Helmetmetaphor not actualclue;no transferdetailsbeforemap.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 18,
+      "editable_story_folios_to_review": [
+        86,
+        87
+      ],
+      "main_comms_folio": 87,
+      "main_comms_stable_ids": [
+        "page087.block05",
+        "page087.block07",
+        "page087.block09",
+        "page087.block11",
+        "page087.block13"
+      ],
+      "locked_outcome": "A-B-C-D",
+      "entry_truth_and_story_job": "Threeclocks: cafe7slow/watch2fast/camerareal;0:07apparentfalsepattern.",
+      "exit_payoff_or_next_dependency": "Correctedtimes15:15/16/17/18;Dilocrossesout0:07voluntarily90.",
+      "no_drift_boundary": "No realmarkaddition;Dilo correctsrecord,notmechanicallyrepairswatch.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 19,
+      "editable_story_folios_to_review": [
+        90,
+        91
+      ],
+      "main_comms_folio": 91,
+      "main_comms_stable_ids": [
+        "page091.block05",
+        "page091.block07",
+        "page091.block09",
+        "page091.block11",
+        "page091.block13",
+        "page091.block15"
+      ],
+      "locked_outcome": "Mack A7",
+      "entry_truth_and_story_job": "Annexrecordsretrieved;rarebookstillonshelf,digitalcheckout logged.",
+      "exit_payoff_or_next_dependency": "Mackexplainsreturncartclippedscanner94.",
+      "no_drift_boundary": "Ghostconditionaljoke;no hardwarecapabilitiesor realghostinvented.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 20,
+      "editable_story_folios_to_review": [
+        94,
+        95
+      ],
+      "main_comms_folio": 95,
+      "main_comms_stable_ids": [
+        "page095.block05",
+        "page095.block07",
+        "page095.block09",
+        "page095.block11",
+        "page095.block13",
+        "page095.block15"
+      ],
+      "locked_outcome": "Pax F5",
+      "entry_truth_and_story_job": "Modularwetpanelmoved,twoaccountsappearincompatible.",
+      "exit_payoff_or_next_dependency": "Paxestablishesbothtruthfulbefore/after98;retaincomplete map.",
+      "no_drift_boundary": "AllV6bunkkey/rowcolumn/diagonalexact;fourfigurePDFfrozen;pear not mapclue.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 21,
+      "editable_story_folios_to_review": [
+        98,
+        99,
+        102,
+        103
+      ],
+      "main_comms_folio": 99,
+      "main_comms_stable_ids": [
+        "page099.block05",
+        "page099.block07",
+        "page099.block08",
+        "page099.block10",
+        "page099.block11",
+        "page099.block13",
+        "page099.block15",
+        "page099.block17",
+        "page099.block18",
+        "page099.block19",
+        "page099.block21"
+      ],
+      "locked_outcome": "B-D-A-C;THE ANSWER IS IN WHAT YOU LEAVE EMPTY.",
+      "entry_truth_and_story_job": "Printercoughreturns;brittlepapertears;familyhelpsDilo,no laughteratdamage.",
+      "exit_payoff_or_next_dependency": "Reconstructedmessage saved102;unknownwhatemptymeans;handwritingpreserved.",
+      "no_drift_boundary": "NoBibiauthorshipbefore140;do not interpretroomletters/messageearly;qualifyfirstinstruction.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 22,
+      "editable_story_folios_to_review": [
+        104,
+        105
+      ],
+      "main_comms_folio": 105,
+      "main_comms_stable_ids": [
+        "page105.block05",
+        "page105.block06",
+        "page105.block08",
+        "page105.block10",
+        "page105.block12",
+        "page105.block14"
+      ],
+      "locked_outcome": "Cody C4",
+      "entry_truth_and_story_job": "Wronginstrumentcasesonshelves;Zaralastreliableplacement.",
+      "exit_payoff_or_next_dependency": "Codylocatesmix-upduringreturnrush108,notperformance;map saved.",
+      "no_drift_boundary": "No newlabelsrevealingorder;no emptymap-set prophecy.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 23,
+      "editable_story_folios_to_review": [
+        108,
+        109
+      ],
+      "main_comms_folio": 109,
+      "main_comms_stable_ids": [
+        "page109.block05",
+        "page109.block07",
+        "page109.block09",
+        "page109.block11",
+        "page109.block13"
+      ],
+      "locked_outcome": "Rae F6",
+      "entry_truth_and_story_job": "WeekendAdventurePark;climbingvsarcadewristbandsroutesunclear.",
+      "exit_payoff_or_next_dependency": "Wristbandtrailrepaired112;trackingyardseenonwalkback.",
+      "no_drift_boundary": "Scoreboardjokeonce;no newscore/wristbandidentifieroractualgameoutcome.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 24,
+      "editable_story_folios_to_review": [
+        112,
+        113
+      ],
+      "main_comms_folio": 113,
+      "main_comms_stable_ids": [
+        "page113.block05",
+        "page113.block07",
+        "page113.block09",
+        "page113.block11",
+        "page113.block13",
+        "page113.block15"
+      ],
+      "locked_outcome": "EastPath→WestGate",
+      "entry_truth_and_story_job": "Muddytrailarrow;Alio voluntarily pauses theory;observewholetrail.",
+      "exit_payoff_or_next_dependency": "Fadingmudbeatsdecorativearrow116;RuleZero callback128.",
+      "no_drift_boundary": "No directionearly;no V10photo-treadlink;rules114exact.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 25,
+      "editable_story_folios_to_review": [
+        116,
+        117,
+        120
+      ],
+      "main_comms_folio": 117,
+      "main_comms_stable_ids": [
+        "page117.block05",
+        "page117.block07",
+        "page117.block09",
+        "page117.block11",
+        "page117.block13"
+      ],
+      "locked_outcome": "Casey D5",
+      "entry_truth_and_story_job": "Noaddressee;returnlabelARCHIVERESTORATION;helpfulpeoplelosthandoff.",
+      "exit_payoff_or_next_dependency": "ReceptionconfirmsCasey;staffopensparcelforoverlays/clips120;routeannounces14complete.",
+      "no_drift_boundary": "No actualbiscuitcontents;roomcompanionnotproofCaseypersonallymovedparcel.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 26,
+      "editable_story_folios_to_review": [
+        121,
+        124
+      ],
+      "main_comms_folio": 121,
+      "main_comms_stable_ids": [
+        "page121.block15",
+        "page121.block16",
+        "page121.block17",
+        "page121.block19",
+        "page121.block20",
+        "page121.block21",
+        "page121.block23",
+        "page121.block24",
+        "page121.block26",
+        "page121.block28",
+        "page121.block29",
+        "page121.block30"
+      ],
+      "locked_outcome": "CHECK THE OLD MAP",
+      "entry_truth_and_story_job": "Route14setcomplete;Nini applies reconstructedemptyinstructiontosavedmaps.",
+      "exit_payoff_or_next_dependency": "14ROOMinitialsordered,notZONEs;saveexactmessage124.",
+      "no_drift_boundary": "Set02/04/06/07/10/12/13/15/17/19/20/22/23/25;Case01excluded;no earlyletters.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 27,
+      "editable_story_folios_to_review": [
+        125
+      ],
+      "main_comms_folio": 125,
+      "main_comms_stable_ids": [
+        "page125.block12",
+        "page125.block14",
+        "page125.block15",
+        "page125.block16",
+        "page125.block18",
+        "page125.block19",
+        "page125.block21",
+        "page125.block22",
+        "page125.block23",
+        "page125.block25"
+      ],
+      "locked_outcome": "SealedtrainingroombehindcurrentArchivewall",
+      "entry_truth_and_story_job": "Toolsfromparcel;retainedoldplan;threefixedlandmarksavailable.",
+      "exit_payoff_or_next_dependency": "Readeraligns;roomlandsonArchivewall128;RULEFIRSTROOMSECONDmargin.",
+      "no_drift_boundary": "NorthStair/CourtyardColumn/WestLiftShaft;no newlandmark/fold/actualtunnel.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 28,
+      "editable_story_folios_to_review": [
+        128,
+        129
+      ],
+      "main_comms_folio": 129,
+      "main_comms_stable_ids": [
+        "page129.block05",
+        "page129.block07",
+        "page129.block09",
+        "page129.block11",
+        "page129.block12",
+        "page129.block14"
+      ],
+      "locked_outcome": "ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.",
+      "entry_truth_and_story_job": "RULE0FIRSTandRULEFIRSTROOMSECONDcombinedbutmissingwordunknown.",
+      "exit_payoff_or_next_dependency": "Fullruleearned132,saved130instruction;notpasswordwallstillsealed.",
+      "no_drift_boundary": "Fact/theory/unsupporteddefinitionslocked;do not validateevidencefreetunnelasTHEORY.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 29,
+      "editable_story_folios_to_review": [
+        132,
+        133,
+        136
+      ],
+      "main_comms_folio": 133,
+      "main_comms_stable_ids": [
+        "page133.block05",
+        "page133.block07",
+        "page133.block09",
+        "page133.block11",
+        "page133.block13"
+      ],
+      "locked_outcome": "Vega D3",
+      "entry_truth_and_story_job": "Rulemethod promptsoldservicepositionrecord;largestmap,Sethcompanion.",
+      "exit_payoff_or_next_dependency": "AccessD3saved136;bringCaseWall+Credential.",
+      "no_drift_boundary": "No D3/Vegabeforemap;noinventedSethanchorcoord;allninepositionsprotected.",
+      "diagnostic_all_main_turns_read": true
+    },
+    {
+      "case": 30,
+      "editable_story_folios_to_review": [
+        137,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ],
+      "main_comms_folio": 137,
+      "main_comms_stable_ids": [
+        "page137.block08",
+        "page137.block09"
+      ],
+      "locked_outcome": "ASSUMPTIONS;D3;BALL STAR BOLT HEART KEY MOON;readerCallSign",
+      "entry_truth_and_story_job": "Fourearnedinputs,no newclue;oldrouteMATCH/ROUTE/VERIFY only.",
+      "exit_payoff_or_next_dependency": "HandwritingprovesBibiauthor140;readergetsfieldslot06certificate145;newtrianglefile146/147.",
+      "no_drift_boundary": "Fivefielddetectives+Bibiarchive mentor;readernameselfchosen;no casecreation/culprit/theory-solved-system;triangleNEWnotCase03difference.",
+      "diagnostic_all_main_turns_read": true
+    }
+  ],
+  "deliverables": [
+    "reviews/story-diagnostic/DIAGNOSTIC.md",
+    "reviews/story-diagnostic/CONTINUITY_MAP.json",
+    "reviews/story-diagnostic/source-p120.png"
+  ],
+  "candidate_or_product_edits": false,
+  "final_v7_hash_bound_review": "PENDING root candidate"
+}

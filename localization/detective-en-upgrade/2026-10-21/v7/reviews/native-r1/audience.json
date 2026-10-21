@@ -1,0 +1,96 @@
+{
+  "reviewer": "Actual independent agent /root/v6_native_review",
+  "reviewed_utc": "2026-10-21T15:37:32.202814+00:00",
+  "candidate_sha256": "9f25b542e0162aa357c8409c3927622ee52ba1508e5bcbe3443d608c14e29fe5",
+  "status": "FIX",
+  "scope": "Complete V7reader manuscript225folios read in three full ranges1-75/76-150/151-225, all30Commscomparison scenes and stable-IDturns reviewed, all edits_story entries and boundary receipt inspected. Evidence-artfolios are placeholders in this text manuscript; no new visual or fullpuzzle solve claimed.",
+  "baseline_candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "source_hashes": {
+    "candidate/candidate.json": "9f25b542e0162aa357c8409c3927622ee52ba1508e5bcbe3443d608c14e29fe5",
+    "candidate/reader-manuscript.md": "c3625314d849184a8d0526783526fbaed5c99a1e32c4779a81526685c5642eac",
+    "candidate/comms-comparison.json": "e1d86659636d94ea11ca52cee46417da4040caa56cc06b4ed96a9c07fcbe7f93",
+    "edits_story.json": "b9ae233c81c9d7b26602994bb27b3e3fc1a4b9365449e36b7d066d06cf6e4cd4",
+    "qa/BOUNDARY_CHECK.json": "651c105765483dfe9c1463c6274427bd721272a777654ac8238060bd37819b41"
+  },
+  "independent_preservation_checks": {
+    "all27V6repairunits": "BYTE_IDENTICAL",
+    "all1314index_hints_solutions_units_folio148plus": "BYTE_IDENTICAL",
+    "stableIDorder": "EXACT"
+  },
+  "owner_brief_assessment": "Substantive improvement in comedy mechanisms, family reciprocity and nativeEnglish.25scenes contain changes; some are bounded ending improvements, not25whole-scene rewrites. No whole scene requires another broad rewrite after material clarity fixes.",
+  "print_ready": false,
+  "limits": [
+    "Native/audience judgment is not a promise of bestseller success or universal humor response.",
+    "Protected mechanics inherited from V6; no repeated allmaps enumeration.",
+    "No productionlayout or changedillustration approval."
+  ],
+  "stage": "audience",
+  "open_findings": [
+    {
+      "id": "V7-NATIVE-CASE13-CLOSURE",
+      "status": "FIX",
+      "severity": "material",
+      "stage": [
+        "native_language",
+        "audience"
+      ],
+      "segments": [
+        "page068.block04",
+        "page068.block05",
+        "page068.block06"
+      ],
+      "folio": 68,
+      "finding": "Grouped transition edit deleted the actual explanation of Case13. Bodhi gives the missing piece, but the reader is never told what he established about the camera before the story moves to rehearsal memories.",
+      "evidence": "Accepted V6 says camera moved after4:17duringcleanup; V7 jumps from missingpiece to Mimi remembering disagreement. Solution199 says only that the contact can help establishwhen, so it does not close the narrative.",
+      "minimal_fix": "Restore camera closure before Mimi transition, using accepted source fact: The camera was moved during cleanup, after the4:17frame. It had not moved itself. Preserve next coordinator trigger and all puzzle facts."
+    },
+    {
+      "id": "V7-NATIVE-JUDE-PERSON-AS-PLACE",
+      "status": "FIX",
+      "severity": "material_comprehension",
+      "stage": [
+        "native_language",
+        "audience"
+      ],
+      "segments": [
+        "page108.block13"
+      ],
+      "folio": 108,
+      "finding": "Jude is the last place where a person and a location still line up calls a person a place and obscures the local witness objective.",
+      "evidence": "The surrounding file has two wristband routes and a return desk; the reader needs Jude known-location→onecompanion→askaboutcrossing, not an abstract anchor metaphor.",
+      "minimal_fix": "For example: The log still fixes Jude's location. One person shared his area at that point. Find that person, and the return desk will have someone to ask where the wristband trails crossed. Keep witness certainty distinct from proven bandtransfer."
+    },
+    {
+      "id": "V7-AUDIENCE-CASE21-YOU",
+      "status": "FIX",
+      "severity": "material_reader_agency",
+      "stage": [
+        "audience"
+      ],
+      "segments": [
+        "page099.block21"
+      ],
+      "folio": 99,
+      "finding": "You fit the pieces follows Luli asking Dilo to check joins with her. It therefore reads naturally as Dilo assigning Luli the actual assembly, rather than explicitly entrusting the reader with the central deduction.",
+      "evidence": "The scene's new tender repair is good and should remain; one address word closes the pronoun ambiguity without another scene rewrite.",
+      "minimal_fix": "Detective, you fit the pieces. I'll check every join."
+    },
+    {
+      "id": "V7-INHERITED-FIRST-INSTRUCTION",
+      "status": "SOURCE_SCOPE_EXCEPTION",
+      "severity": "inherited_chronology_wording",
+      "stage": [
+        "native_language",
+        "audience"
+      ],
+      "segments": [
+        "page212.block12"
+      ],
+      "folio": 212,
+      "finding": "Protected solution WHYITMATTERS still says For the first time, the larger mystery gives the team an instruction although RULE0FIRST was already given at80. Root repaired the same chronology at103, leaving this inherited explanatory sentence stale.",
+      "evidence": "This is unchanged V6text and does not affect answer B-D-A-C or reconstructed message. It is narrative explanation, not a new mechanics defect.",
+      "minimal_fix": "If within owner source-repair authority, change only the explanatory sentence to: The reconstructed note gives the team a fuller instruction to investigate, rather than another unexplained mark. Otherwise retain explicitly as an inherited exception; no all-clear chronology claim."
+    }
+  ],
+  "stage_assessment": "Distinctvoices, reciprocal teasing, practicalcare and readerplace support8-12audience. No Alio pile-on or forcedresponse/emotion. Block on lostclosure, Judeclarity and ambiguousreaderassemblyaddress."
+}

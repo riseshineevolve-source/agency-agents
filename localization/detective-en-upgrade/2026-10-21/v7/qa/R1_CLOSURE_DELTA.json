@@ -1,0 +1,46 @@
+{
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "previous_sha256": "9f25b542e0162aa357c8409c3927622ee52ba1508e5bcbe3443d608c14e29fe5",
+  "changed_units": [
+    {
+      "id": "page019.block03",
+      "before": "That morning, Mimi crosses Trophy Hall with coffee in one hand and the other deep in her bag. Her phone is ",
+      "after": "That morning, Mimi crosses Trophy Hall with coffee in one hand and the other deep in her bag. Her phone appears "
+    },
+    {
+      "id": "page019.block04",
+      "before": "not helping by being somewhere else.\n\nThe ",
+      "after": "to have taken the morning off.\n\nThe "
+    },
+    {
+      "id": "page068.block04",
+      "before": "Mimi is still thinking about the two people who remembered those few minutes ",
+      "after": "The camera was moved during cleanup, after the 4:17 frame. It did not move itself.\n\nMimi is still "
+    },
+    {
+      "id": "page068.block05",
+      "before": "differently. Back at the Academy the following morning, the Scenario ",
+      "after": "thinking about the two people who remembered those few minutes differently. Back at the "
+    },
+    {
+      "id": "page068.block06",
+      "before": "Theater coordinator overhears the discussion and puts four rehearsal statements on the Case Table.\n",
+      "after": "Academy the following morning, the Scenario Theater coordinator overhears the discussion and puts four rehearsal statements on the Case Table.\n"
+    },
+    {
+      "id": "page099.block21",
+      "before": "You fit the pieces. I'll check every join.\n",
+      "after": "Detective, you fit the pieces. I'll check every join.\n"
+    },
+    {
+      "id": "page108.block13",
+      "before": "Jude is the last place where a person and a location still line up in the log. Solve that area and\nhis companion becomes the anchor point the desk needs before the wristband trails split in\ntwo directions.\n",
+      "after": "The log fixes Jude's location. One other person shared that area. Find them so the return desk can ask where the two wristband trails crossed.\n"
+    },
+    {
+      "id": "page212.block12",
+      "before": "For the first time, the larger mystery gives the team an instruction instead of another pattern to notice.\n",
+      "after": "The repaired note gives the team a fuller instruction than RULE 0 FIRST. They still need to work out what it asks them to examine.\n"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "pdf_sha256": "9b43919e74ecb0cb6ba6779b110d2cd1ba82b86cfc146bddc0dde279c6277f20",
+  "method": "Fresh PyMuPDF Matrix(1.3,1.3) RGB pixels versus inspected PNGs",
+  "checks": [
+    {
+      "folio": 19,
+      "image": "detective-v7/proof/renders/book-019.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "8fdeaaa973acdde842ad7ce999f17f8ac495f504fa1cfef56f06354d08abd919"
+    },
+    {
+      "folio": 23,
+      "image": "detective-v7/proof/renders/book-023.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "839bccbd13cb218a03c87d4578512d5a3fb657687920530c085c91d8d7d8ff16"
+    },
+    {
+      "folio": 27,
+      "image": "detective-v7/proof/renders/book-027.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "98a0b59ac396545b3ade13163a438ba1bf196593c80882584c188d1a92a3b9f7"
+    },
+    {
+      "folio": 53,
+      "image": "detective-v7/proof/renders/book-053.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "09eb98095a02aab93328f66ec6b05e261679e3f93ea5afdfb7aa3a258f096fa6"
+    },
+    {
+      "folio": 65,
+      "image": "detective-v7/proof/renders/book-065.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "be1974263fc9fdfed04dfda68e0e398dc6a7dd464a6d03238a24a200b2550307"
+    },
+    {
+      "folio": 68,
+      "image": "detective-v7/proof/renders/book-068.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "d70a59b443e97c4a5d25c2c7f0995d6d49d39b1dced0602d9fce24de5e4d5bb5"
+    },
+    {
+      "folio": 69,
+      "image": "detective-v7/proof/renders/book-069.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "f61e0a9f3348e07a00b3f32acb17c2366e94f02386c2c63680dcdcae673e0e40"
+    },
+    {
+      "folio": 99,
+      "image": "detective-v7/proof/renders/book-099.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "e2c5476ba464560786e40b1ed0f6e18ef68c0d0c3436ddf0a60c214e56720737"
+    },
+    {
+      "folio": 109,
+      "image": "detective-v7/proof/renders/book-109.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "d0f5eb197c6133a08c113b9801a4c422377692d1b9b88440ffade65f84d7e6bb"
+    },
+    {
+      "folio": 113,
+      "image": "detective-v7/proof/renders/book-113.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "3bc72cd468ddde5dfbd4e7e313570f619b0ddec1cda718c48778c462400ac1fe"
+    },
+    {
+      "folio": 120,
+      "image": "detective-v7/proof/renders/book-120.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "15acc1fe7948adf72f38125cd868dbb42d037c0c724c15419a487b29ec3fad59"
+    },
+    {
+      "folio": 121,
+      "image": "detective-v7/proof/renders/book-121.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "21ca945e456d16d4eef4832d0610646842e19448b9b26c1247e19593ac2c97a8"
+    },
+    {
+      "folio": 129,
+      "image": "detective-v7/proof/renders/book-129.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "47ec3e1c39588ab4155d3d1b023b64f2ba807db863d91b839fb77c06684fd56b"
+    },
+    {
+      "folio": 133,
+      "image": "detective-v7/proof/renders/book-133.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "b2f49e8c37d240d4a56319df4386ed5612d774f55fa16f7558c0d2415009dd41"
+    },
+    {
+      "folio": 137,
+      "image": "detective-v7/proof/renders/book-137.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "892dd9db2e18bcb38fdbb07ed3ff207b597410eea5302c983e7e5e0bc1c968da"
+    },
+    {
+      "folio": 141,
+      "image": "detective-v7/proof/renders/book-141.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "84726bc97031235b2d7ba7b2be61dcb1aeb5d3e23836b9e6c54d03f3dda19aa6"
+    },
+    {
+      "folio": 143,
+      "image": "detective-v7/proof/renders/book-143.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "5104c39a0c994852bd125cf9343edd80c73d64f07457089fe1a61fee23987ff8"
+    },
+    {
+      "folio": 144,
+      "image": "detective-v7/proof/renders/book-144.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "2bbb6a927bf604073ce60a446e615c57d251ee8a1e9b3dcdfc9a4b2512bdfb67"
+    },
+    {
+      "folio": 148,
+      "image": "detective-v7/proof/renders/book-148.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "8afaf0b31bfa67f187ad73e3680f75d9469f61ef7525d5d135786c4d3a22aea6"
+    },
+    {
+      "folio": 149,
+      "image": "detective-v7/proof/renders/book-149.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "149adf98fbd4a0971f3c1d23f3a49e8b8f7a025ced289b09ea55c10cd911570a"
+    },
+    {
+      "folio": 154,
+      "image": "detective-v7/proof/renders/book-154.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "c4e35cfb6ca404026802408bb3730ed5d426ae816f2eb235139b0baad67dffed"
+    },
+    {
+      "folio": 212,
+      "image": "detective-v7/proof/renders/book-212.png",
+      "fresh_pdf_pixels_match": true,
+      "png_sha256": "88ca10cd4733725e10b5be59d9e128ecb0dd298e0ee51db9fee7676e93616134"
+    }
+  ]
+}

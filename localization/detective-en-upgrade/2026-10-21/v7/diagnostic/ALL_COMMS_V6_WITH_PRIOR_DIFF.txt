@@ -1,0 +1,252 @@
+
+CASE 01 / folio16 / prior changed=True
+MIMI: Internal stock. Good. We start with what we can prove.
+ALIO: My leading theory has a secret tunnel and a minivan. No evidence yet. I will put a question mark beside it.
+  SOURCE: Or we investigate my leading theory: a secret tunnel and a mini van delivery. Very efficient. Very suspicious.
+LULI: A good place for the question mark, Alio.
+  SOURCE: A tunnel, a minivan, and zero evidence. Impressive start, Alio.
+NINI: A small one. We need room for the facts.
+  SOURCE: Let's park the minivan for a minute and follow the facts first.
+DILO: If a tunnel turns up later, you can have the whole margin.
+  SOURCE: Agreed. If the tunnel appears later, I'll happily upgrade the theory.
+
+CASE 02 / folio19 / prior changed=True
+ALIO: The Cup has returned itself with suspiciously good posture.
+LULI: The Cup is not suspicious.
+ALIO: Its paperwork is.
+MIMI: Better. Investigate the missing handoff, not the trophy's personality.
+NINI: I liked the posture theory. But I am writing down the useful question.
+  SOURCE: That may be Alio's fastest promotion from theory to useful question.
+
+CASE 03 / folio23 / prior changed=True
+NINI: I have found a sparkle. I am calling it Inspector Glitter.
+  SOURCE: The trophy shelf is trying very hard to look important.
+LULI: Does Inspector Glitter show a difference between the photographs?
+  SOURCE: It is a trophy shelf.
+NINI: Not yet. I may have promoted it too soon.
+  SOURCE: So we compare everything and trust nothing glamorous.
+DILO: A difficult first day.
+  SOURCE: A harsh day for shiny objects.
+LULI: Inspector Glitter can sit with you. We still need all ten differences.
+  SOURCE: A normal day for evidence.
+
+CASE 04 / folio27 / prior changed=False
+DILO: It is a very suspicious black box.
+MIMI: It is a labeled evidence box.
+DILO: Exactly. Suspicion with paperwork.
+NINI: Please do not interrogate the box before the people.
+ALIO: May I stare at it professionally?
+MIMI: You have been doing that for a full minute.
+
+CASE 05 / folio31 / prior changed=False
+DILO: I challenge you to beat my locker.
+LULI: Does it know this is a competition?
+DILO: It has been briefed.
+LULI: Then we shall read its clues politely.
+NINI: If the locker wins, does it get a badge?
+DILO: Absolutely not. Conflict of interest.
+
+CASE 06 / folio37 / prior changed=True
+NINI: I had emotionally prepared for a dragon tooth.
+LULI: I know. I was hoping for the tooth too. We have a Roman spoon.
+  SOURCE: We have a Roman spoon.
+NINI: Less dramatic. Better for soup.
+DILO: So do we have a missing dragon tooth or an overpromoted spoon?
+LULI: Right now, we have a label and an object that disagree.
+BIBI: Which is why we ask before we name a crime.
+NINI: The spoon is taking this very well.
+BIBI: And one tiny number from the Look-Twice file got us here. Good catch.
+
+CASE 07 / folio41 / prior changed=False
+MIMI: Alio, how many cupboards have you checked?
+ALIO: Only the dramatic ones.
+NINI: The moon costume is larger than most cupboards.
+ALIO: Excellent. We have eliminated several cupboards.
+MIMI: A triumph of fieldwork.
+
+CASE 08 / folio45 / prior changed=True
+ALIO: My route is beautifully straight.
+MIMI: Buildings sometimes interrupt a straight line.
+ALIO: I shall discuss that with the building.
+MIMI: After you read its door signs.
+DILO: I will hold the map. You handle negotiations with the door signs.
+  SOURCE: Please do not negotiate with any load-bearing walls.
+
+CASE 09 / folio49 / prior changed=True
+DILO: You know something.
+BIBI: I remember something. That is not the same thing.
+LULI: We will check it with you.
+  SOURCE: Thank you.
+ALIO: I have prepared several incorrect memories in solidarity.
+BIBI: Keep them away from the evidence table.
+ALIO: Cruelly reasonable.
+
+CASE 10 / folio53 / prior changed=False
+DILO: Two teams. One rover. One truly upsetting cable tangle.
+LULI: Which problem are you solving first?
+DILO: Access record.
+LULI: Correct answer. Disturbing speed.
+DILO: Please log that separately.
+
+CASE 11 / folio57 / prior changed=False
+NINI: Your phone has been living beside the oat bar.
+MIMI: It was undercover.
+NINI: Does the oat bar know?
+MIMI: We protect our sources.
+DILO: I would like that entered in the bag report.
+MIMI: You would not.
+
+CASE 12 / folio61 / prior changed=True
+DILO: Please speak clearly for the notebook.
+NINI: Wait. I think it is asking us for something.
+  SOURCE: Try listening before your next question.
+DILO: The witness said cracker.
+NINI: A clear request. We are making progress.
+DILO: My neatest interview so far.
+
+CASE 13 / folio65 / prior changed=True
+ALIO: My fox theory has one weakness.
+LULI: Pockets?
+ALIO: Several weaknesses. I am making a list.
+NINI: I will keep a space for the answer.
+  SOURCE: Add "fox operating camera equipment".
+ALIO: Useful. Thank you.
+  SOURCE: Cruel. Fair.
+LULI: Start with what the camera saw.
+  SOURCE: Evidence remains stubbornly unfoxy.
+
+CASE 14 / folio69 / prior changed=True
+DILO: One statement has broken the clock.
+NINI: Or one person mixed up two moments.
+LULI: Test the journey before you test the person.
+MIMI: Exactly.
+ALIO: Can I remain suspicious of the clock?
+LULI: Certainly. Help me count its minutes.
+  SOURCE: Quietly.
+
+CASE 15 / folio73 / prior changed=True
+MIMI: Next trip: readable name tags.
+ALIO: What about satellite tracking?
+MIMI: My tags work indoors.
+ALIO: Unexpectedly advanced technology. I will write mine large.
+  SOURCE: Unexpectedly advanced technology.
+
+CASE 16 / folio77 / prior changed=False
+ALIO: That hat could shelter the whole team.
+BIBI: It also had an excellent detective underneath it.
+MIMI: The hat is not admissible dating evidence.
+BIBI: Finally, a sensible Academy policy.
+DILO: Can we still admire it respectfully?
+BIBI: Within controlled limits.
+
+CASE 17 / folio83 / prior changed=False
+ALIO: Railway-investigation helmet: deployed.
+LULI: It is the same helmet.
+ALIO: It has changed departments.
+BIBI: Then perhaps its first assignment can be reading the ticket sleeve.
+DILO: Does the helmet earn travel points?
+BIBI: Only if it buys its own ticket.
+
+CASE 18 / folio87 / prior changed=False
+MIMI: Can your watch accept being wrong?
+DILO: It is handling the news with dignity.
+NINI: And its owner?
+DILO: Less gracefully. I am correcting the record.
+LULI: Good. Corrected time first.
+
+CASE 19 / folio91 / prior changed=True
+DILO: I was going to say digital ghost.
+LULI: And now?
+DILO: I am postponing the ghost until evidence requests one.
+LULI: I like this plot development.
+NINI: If it turns up later, I am asking whether it likes books.
+  SOURCE: Ghost application denied pending scanner records.
+DILO: After the scanner, then.
+  SOURCE: Temporary denial.
+
+CASE 20 / folio95 / prior changed=False
+NINI: This panel looks like a very worried pear.
+MIMI: Give it a place on the art wall, not the witness list.
+NINI: Understood. Pear excluded from questioning.
+DILO: Does the pear have an alibi?
+MIMI: The pear is paint.
+NINI: Strong alibi.
+
+CASE 21 / folio99 / prior changed=False
+NINI: Nobody move the pieces.
+DILO: Both hands visible. I am learning.
+LULI: Tear edges first. Sentence second.
+BIBI: And keep the handwriting visible when you sleeve it.
+NINI: Familiar?
+BIBI: Maybe. Which is exactly why I am not calling it evidence yet.
+DILO: Understood. The paper gets the first interview.
+
+CASE 22 / folio105 / prior changed=True
+ALIO: Three identical black instrument cases. Excellent. Objects have joined witness protection.
+LULI: They are labeled.
+ALIO: Weak cover identities.
+NINI: The instruments would like their own beds back.
+  SOURCE: Shelves first. Careers later.
+DILO: Then we had better sort out the bedrooms.
+  SOURCE: I am recording "careers later."
+
+CASE 23 / folio109 / prior changed=False
+DILO: The arcade scoreboard has challenged me personally.
+MIMI: It displayed a number.
+DILO: In a tone.
+LULI: Solve the wristband case before you start a feud with a scoreboard.
+DILO: Feud postponed.
+
+CASE 24 / folio113 / prior changed=True
+ALIO: I have paused my dramatic theory.
+LULI: Voluntarily?
+ALIO: The muddy evidence requested a word.
+LULI: Give it the floor.
+MIMI: I will wait here while you check.
+  SOURCE: The arrow shouts. The mud explains.
+ALIO: Good. I would like my next theory to have feet.
+  SOURCE: Painful. But memorable.
+
+CASE 25 / folio117 / prior changed=True
+NINI: This parcel has met more helpful people than it can remember.
+MIMI: Then we help it in a less creative order.
+DILO: Revolutionary idea: one label, one destination.
+ALIO: And possibly biscuits.
+MIMI: We can investigate lunch after the handoff. I saved you a place.
+  SOURCE: Please stop investigating lunch.
+
+CASE 26 / folio121 / prior changed=False
+NINI: Empty does not always mean useless.
+DILO: My bedroom would like that entered into evidence.
+LULI: Your bedroom is not an admissible precedent.
+MIMI: Fortunately.
+BIBI: Old systems sometimes hide meaning in what they do not fill.
+
+CASE 27 / folio125 / prior changed=False
+BIBI: Clean hands. Flat map. No heroic folding.
+ALIO: What about a small heroic point?
+BIBI: One finger. A landmark. I can allow it.
+DILO: We solved a parcel just to earn permission for one finger.
+BIBI: A worthy investment.
+
+CASE 28 / folio129 / prior changed=False
+ALIO: I have put my tunnel theory on a separate card.
+LULI: How much evidence is on the card?
+ALIO: At present? Decorative confidence.
+MIMI: Better than the muddy arrows. At least your theory admits it is guessing.
+BIBI: That would have saved my old squad several afternoons.
+
+CASE 29 / folio133 / prior changed=False
+MIMI: Largest map in the book. Same rule as always: prove it.
+NINI: Take your time. We are not going anywhere.
+DILO: I can be quiet for one map.
+LULI: New evidence already.
+BIBI: Make the call when you're ready.
+
+CASE 30 / folio137 / prior changed=True
+MIMI: Use what you earned.
+  SOURCE: No new clue. Use what you earned.
+DILO: Victory noise?
+LULI: Pending evidence.
+NINI: Very pending.
+BIBI: Begin.

@@ -1,0 +1,2063 @@
+[
+  {
+    "id": "page016.block04",
+    "page": 16,
+    "before": "MIMI: Internal stock. Good. We start with what we can prove.\nALIO: My leading theory has a secret tunnel and a minivan. No evidence yet. I will put a question mark beside it.\nLULI: A good place for the question mark, Alio.\nNINI: A small one. We need room for the facts.\nDILO: If a tunnel turns up later, you can have the whole margin.",
+    "after": "MIMI: Internal stock. No courier. Let's find who was at Delivery.\nALIO: My theory has a secret tunnel and a minivan.\nLULI: Does it have any evidence?\nNINI: Not yet. I've drawn it a question mark to park beside.\nDILO: Good. The minivan was blocking my notes.",
+    "issue": "HM01: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "0fd672c90bc90429265948efcd94b9e2f2cab0eb6c0f69e7050b7c66abefff6e",
+    "target_sha256": "0a0c492ccb7fba940c15c722d818271db1c1bae896ed6edb208c7889a9a834c7"
+  },
+  {
+    "id": "page019.block31",
+    "page": 19,
+    "before": "Better. Investigate\nthe missing handoff,\n",
+    "after": "Can its excellent posture tell us ",
+    "issue": "HM02: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "e4088381091a03c2254a70dde1dcd38941ae0d08a8b1ee42a10c64f0c0a17750",
+    "target_sha256": "94d1d0aff41c06685664d12bcf0257e53d2b6d4d0c58df73473f2f092c002e52"
+  },
+  {
+    "id": "page019.block32",
+    "page": 19,
+    "before": "not the trophy's\n",
+    "after": "who brought it ",
+    "issue": "HM02: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "4df6041ece2b03bbe4286071ecc44ddf5c86d6de547f25f9a19e37c2a33168de",
+    "target_sha256": "25161350e2a8adaa528658bc74a6cb088e880c89334723c45706c497212cf32d"
+  },
+  {
+    "id": "page019.block33",
+    "page": 19,
+    "before": "personality.\n",
+    "after": "back?\n",
+    "issue": "HM02: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "3006adfba537439c45140154171c222cb2247c0d49d3d0b0a151fb1308fec556",
+    "target_sha256": "f7fd6df7af5d149905c4f0d4c65e25cacf15cf8ae82b291ae081972d7494481d"
+  },
+  {
+    "id": "page019.block35",
+    "page": 19,
+    "before": "I liked the posture\n",
+    "after": "You take the map, ",
+    "issue": "HM02: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "53d5237384a22fe0aed39c579e87a3108fe619ea085f165653ad580ef8f24a0e",
+    "target_sha256": "801591c955b7b6b76f2328f6d37a1f5169e86006d525ae845587f86e845df2d7"
+  },
+  {
+    "id": "page019.block36",
+    "page": 19,
+    "before": "theory. But I am\nwriting down the\nuseful ",
+    "after": "Detective. I'll watch the extremely well-behaved ",
+    "issue": "HM02: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "269c8b5a06e4ea92b0273f3f42a411c8f29204ba4e7e250fa884a5197721a854",
+    "target_sha256": "4dcca9aeb02d36b76449aa78536a33b4422bd2a09503c8787bc59001f448fa60"
+  },
+  {
+    "id": "page019.block37",
+    "page": 19,
+    "before": "question.\n",
+    "after": "Cup.\n",
+    "issue": "HM02: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "c4756922cc56e0b104c85f18c6a826c4c87296e42576787d336c61c23dcc1bb8",
+    "target_sha256": "58591671d38a762052b1549e969738b3e065829394ab7cb523afc723ab142be7"
+  },
+  {
+    "id": "page023.block07",
+    "page": 23,
+    "before": "Does Inspector Glitter show a difference between the photographs?\n",
+    "after": "Has Inspector Glitter actually found a difference?\n",
+    "issue": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "b41ab34a2d3e353ddb010596938a7181ffc54bb2b5d42ce0ae603cc4b1f36fe1",
+    "target_sha256": "7c795a695afbd55aba48624099cb79268ee4018a9065f59be7675e7d4e581522"
+  },
+  {
+    "id": "page023.block09",
+    "page": 23,
+    "before": "Not yet. I may have promoted it too soon.\n",
+    "after": "Not yet. Mostly sparkling.\n",
+    "issue": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "a6462eb88ba0dc49f6bf4a64be0acf948ce744b1bc4082634a9605c83afa86ce",
+    "target_sha256": "e28d324c86ff4065c812802d3894093e0eed1db3e73f3afe9fa65696f6cb019a"
+  },
+  {
+    "id": "page023.block11",
+    "page": 23,
+    "before": "A difficult first day.\n",
+    "after": "Should I be worried about my job?\n",
+    "issue": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "f83ab0b59154134de395f1ad78254d3185de9419a84327013299222ce57c713a",
+    "target_sha256": "35a2066edbc559a305d4e1745e42e79f528df1e2ead9dce5d247ddc9fefc2b4c"
+  },
+  {
+    "id": "page023.block13",
+    "page": 23,
+    "before": "Inspector Glitter can sit with you. We still need all ten differences.\n",
+    "after": "Only if you start shedding glitter. Pass me Photo B.\n",
+    "issue": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "82ad3f55e1300005395fd2044ab1258009a37e872503bc67d5358e525a70e83d",
+    "target_sha256": "b7bdb43f2defcacdf57bff70f58548d9a9c8e3f110824f193a830aa5ae21d638"
+  },
+  {
+    "id": "page027.block19",
+    "page": 27,
+    "before": "It is a very\nsuspicious\n",
+    "after": "I'm watching the box for ",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "163e6daa902a87431ed4a772fd7c1d1de6a78b07ffda58fbcac44da5922ac29b",
+    "target_sha256": "b47834c58eab73bfd17ef1f0938f9c2a763d77dbdc54f2c816646916370ea4de"
+  },
+  {
+    "id": "page027.block20",
+    "page": 27,
+    "before": "black box.\n",
+    "after": "suspicious movements.\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "d2e53681135d8f36ca9a5c73febdd137a3cced585de74345aa45b73d5062e866",
+    "target_sha256": "eeb769a49477ac5173605de5cefb9e3da5af1d7e4ed1b81ba8da4f8e87aed64c"
+  },
+  {
+    "id": "page027.block22",
+    "page": 27,
+    "before": "It is a labeled\nevidence box.\n",
+    "after": "It's an evidence box, Dilo.\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "af1a6e5467aa03313399c81b1f62cc4f770957ccba7825fb0472297a77b850c5",
+    "target_sha256": "4ae08a3b060ca89b4a09652dcac43f2e35d12b6a45a7df59312f75de16773e84"
+  },
+  {
+    "id": "page027.block24",
+    "page": 27,
+    "before": "Exactly. Suspicion\n",
+    "after": "And so far, ",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "42446bb7153d744fdc2fc41b06ed20d04229519dbb2631835c85ef6b26d12fea",
+    "target_sha256": "07065250b010dbe97521f354eaf93db03975cd2b44fc10ae9b2f01b0476f37cf"
+  },
+  {
+    "id": "page027.block25",
+    "page": 27,
+    "before": "with paperwork.\n",
+    "after": "very convincing.\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "702240700c54762e85a06d77db31cbe86661fbe386f57ab77f6f593756e2919a",
+    "target_sha256": "9a8472359b47b90546afdc05b7ec5050f9c82e2a397dbd0e954f4ef314edc9ae"
+  },
+  {
+    "id": "page027.block27",
+    "page": 27,
+    "before": "Please do not\ninterrogate the\n",
+    "after": "If it moves, we can all ",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "eb8a6ad2581071c8fec1f40d2e8953013cc24f6f2ca297d6df4ac373924cd8dc",
+    "target_sha256": "d7ee13007735de462ff8572f4ab7affeeb0848dde503dc2859eb41f967c6e748"
+  },
+  {
+    "id": "page027.block28",
+    "page": 27,
+    "before": "box before the\n",
+    "after": "be impressed. Who carried ",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "c741a69afad8fff755c8847ab2914f8260fbd2c88413b12bfdb8f683bba9dddf",
+    "target_sha256": "5fea44254d1183341668079f25a007548bcf324ee9ce910c6a02c63082d8a505"
+  },
+  {
+    "id": "page027.block29",
+    "page": 27,
+    "before": "people.\n",
+    "after": "it?\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "d6707e82b67ff1142be1f7b1799df6277a772475e3df40e09f1810ee7adc2972",
+    "target_sha256": "7ab9a210fb2d3ef0f880a125e63306dd5f05e568140bd254f225f2a924bf70cb"
+  },
+  {
+    "id": "page027.block31",
+    "page": 27,
+    "before": "May I stare at\n",
+    "after": "I can make it ",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "2295aa9c4ae8d635d4b60e044be93ad032a2b0f9b98f13506b6c27cd6cf6aee2",
+    "target_sha256": "3edf3a8c82143f2aafd5b22a06a7b4e95b2ab79a85487a6fce9b6e683b4065a9"
+  },
+  {
+    "id": "page027.block32",
+    "page": 27,
+    "before": "it\nprofessionally?\n",
+    "after": "blink first.\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "6cf8ed71fc428bb200a834a29795353fcaf31107fd191284e6fd5223ea17fb84",
+    "target_sha256": "144fde6d759c85b46e8339832b8b1bc58a89edef5d5aceff4465c79edcde2c72"
+  },
+  {
+    "id": "page027.block34",
+    "page": 27,
+    "before": "You have been\ndoing that for a\n",
+    "after": "If you manage that, I'm giving the box ",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "40f5fdbeca576098a53acf33b1e8b54b2bdee398c1bfd4139aef577e2ace82bc",
+    "target_sha256": "a297812a3bcbe3d6e94a551ed7d0c60f6e521dc7ede541206d5eaf7ff3ebf736"
+  },
+  {
+    "id": "page027.block35",
+    "page": 27,
+    "before": "full minute.\n",
+    "after": "your helmet.\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "14163b446b03d5ccd1d27a9e9cadab867ac6d6cbb1b038f6f3529d44492c9262",
+    "target_sha256": "7f33f2d353ceda937f2c2fe1c5a45aa9a1e54044b61ae5fb5d640f4d5fa88cc6"
+  },
+  {
+    "id": "page037.block05",
+    "page": 37,
+    "before": "I had emotionally prepared\n",
+    "after": "I had plans for ",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "a7e34f68e49335c1543954a0e5d9d4a2a9e165dcb2cdba93de971cdb1bd9d8a4",
+    "target_sha256": "c03e6334b2a6661a904e7e1f899ba83725aedac430ca06cb6b44eb4c98b634c0"
+  },
+  {
+    "id": "page037.block06",
+    "page": 37,
+    "before": "for a dragon tooth.\n",
+    "after": "that dragon tooth.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "4ec08c1d7ce7536a240d4592b9f3386fa9f0f00533200f508b3675da409af22d",
+    "target_sha256": "6125a1388242fcbb7f5e48de76ab785aa30aecb4da40a7a312be9ca96c6f3c26"
+  },
+  {
+    "id": "page037.block08",
+    "page": 37,
+    "before": "I know. I was hoping for\nthe tooth too. We have a\nRoman spoon.\n",
+    "after": "So did I. None of them involved stirring soup.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "216c16b0d9ac71e545e1c2c384df42ab625a4a83e9a9cd160018fe687fd55b30",
+    "target_sha256": "98b791bb18571ecdbeda75db80b965923ae05df9e7d0f9f6f5c0882ca90a7f17"
+  },
+  {
+    "id": "page037.block10",
+    "page": 37,
+    "before": "Less dramatic. Better for\n",
+    "after": "Perhaps the dragon was a ",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "3a1406270c4c1bef831c7a6279de0cfb2f9916371128788e6ed65d05f4f8c08d",
+    "target_sha256": "0e7a4cf70ace8d058ffb1ea7476b05ff223f1dada4aa16c1295c67d5fb929bd1"
+  },
+  {
+    "id": "page037.block11",
+    "page": 37,
+    "before": "soup.\n",
+    "after": "cook.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "95bca29b057096da02f364954e95d584019dbd7e94582b924f5110e9fdd0e4b9",
+    "target_sha256": "b5c78996d745fe98f3ec83c51667d251d1f5e8c268fab263d47fedb4cd149b9e"
+  },
+  {
+    "id": "page037.block13",
+    "page": 37,
+    "before": "So do we have a missing\n",
+    "after": "That explains the spoon. Slight ",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "f69c0f71c23de94f81d9cd5d7182df34b6afc48895a80454ab663fa56d79e263",
+    "target_sha256": "c43a05dfa23fb6dbbf6ba25db761e2232fe027e2327e340e35711c0a42ba56a6"
+  },
+  {
+    "id": "page037.block14",
+    "page": 37,
+    "before": "dragon tooth or an\noverpromoted spoon?\n",
+    "after": "problem with the Romans.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "14aa9c4c93c027fc900b1ba752d95b37080bc04260f064cfdbb42ed51f22d5ab",
+    "target_sha256": "6bdb6a4ff6f8ab645aa4438ec5048cf71894022102d9a7f36e1bccef50d1b119"
+  },
+  {
+    "id": "page037.block16",
+    "page": 37,
+    "before": "Right now, we have a label\n",
+    "after": "We'll ask about the label ",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "c33c92da2212df4ee2d1d9a9061b3c3c6640813c2ccd9a219faa8529fd86f74c",
+    "target_sha256": "90beb63cc65da406b9f2e529c4475f58c3bb08c0ef126053e8af9e8015eeda05"
+  },
+  {
+    "id": "page037.block17",
+    "page": 37,
+    "before": "and an object that\n",
+    "after": "before we rewrite ",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "eb4c5e426057dee84a503615e9313091a51ea85d478a2f72510d98eba1c269f9",
+    "target_sha256": "86e81467bd3294bb8f4afac8a77b7af1e54a73d5eceb4769513486896c5f2734"
+  },
+  {
+    "id": "page037.block18",
+    "page": 37,
+    "before": "disagree.\n",
+    "after": "history.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "618ffa133dbbc48c3cec1c3bb63f5c30e5721dafbfda2cae8abefe758725d727",
+    "target_sha256": "2c8e31c9f9d4d0d4a8a2f42d1715eca6afc2c36bdfa7f3d908d0562b2c367bec"
+  },
+  {
+    "id": "page037.block20",
+    "page": 37,
+    "before": "Which is why we ask before\n",
+    "after": "A relief. I've only just put history ",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "55236adfd79f5b8e173230ae99b63841f59c45ea3f73966574f9b54ed039ce68",
+    "target_sha256": "6844632b16e14273b1935cfe1caee53683fcb3f78c99eaca80a0045675bf7db2"
+  },
+  {
+    "id": "page037.block21",
+    "page": 37,
+    "before": "we name a crime.\n",
+    "after": "back on its shelves.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "72a2213121d32cfd4195eb5555292cd00d7b8275a90c092803ff603ce59bcdf6",
+    "target_sha256": "59bf003d2c271b2de97fbc69407d4f59216fb249fb15e3d5c44f52f54fdd59d1"
+  },
+  {
+    "id": "page037.block23",
+    "page": 37,
+    "before": "The spoon is taking this\n",
+    "after": "Can we keep the dragon in ",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "26b4537cda6cbc9ddb764dd4a7da89e9926b210a365d252c3f8d7ceed135a567",
+    "target_sha256": "9d83bc7309515e6c1a82198df28f54567a28f6b2d50d5e13440bef3f18c49130"
+  },
+  {
+    "id": "page037.block24",
+    "page": 37,
+    "before": "very well.\n",
+    "after": "the margin?\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "62c6b99f781719f3605706b57a1a3859f8b0a85d83529282b48d71b631b5bea0",
+    "target_sha256": "9917a35cc77d77634a99206d75850a1f400a05dd2e2a05defa7f88d1b1dd8ed6"
+  },
+  {
+    "id": "page037.block26",
+    "page": 37,
+    "before": "And one tiny number from\n",
+    "after": "Pencil only. I'd ",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "81bfcb529707374d49296bb58d8b5413e92ed3a48cb25bb81783018f169855e6",
+    "target_sha256": "fd99bf4513f228cccab169a5c4da34765b3f61b86947b554553814f77f28925b"
+  },
+  {
+    "id": "page037.block27",
+    "page": 37,
+    "before": "the Look-Twice file got us\n",
+    "after": "like a chance ",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "01851e3cf6a631eccb100f804783b6df9503891142870575df35c5d118308c55",
+    "target_sha256": "c69719f6ca6f9aba8b17d405f6b0afa9ee28381e157c060e37f8175ccded7068"
+  },
+  {
+    "id": "page037.block28",
+    "page": 37,
+    "before": "here. Good catch.\n",
+    "after": "to object.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "09c577619d0b5d147e6d6e36511101ec4f29c83461811fa9aa22e0831383c463",
+    "target_sha256": "733358c5b89175592f77692e38049427b8d4be794417582ad4d863b96531fd37"
+  },
+  {
+    "id": "page041.block21",
+    "page": 41,
+    "before": "Only the\ndramatic ones.\n",
+    "after": "The dramatic ones. Then the large ones.\n",
+    "issue": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "acb53cee78f4a2bc2bd4719fe218a7619f5f7e767fa8ce755c82d10a2aafc432",
+    "target_sha256": "2e8293543df38ddb36d07e0aedb7edc97a5ce9d45317cec1671c208be20acdaa"
+  },
+  {
+    "id": "page041.block26",
+    "page": 41,
+    "before": "Excellent. We have\n",
+    "after": "Exactly. Now we can ",
+    "issue": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "ef535a35a89f882166467c2946c27fa46eac1ad150aaed6c38e57997da4b397f",
+    "target_sha256": "ed96a6260fa29806afe0fc015eeaea5a82f91cbcda1dd985209cfc4fcf4cf2ec"
+  },
+  {
+    "id": "page041.block27",
+    "page": 41,
+    "before": "eliminated several\n",
+    "after": "stop opening tiny ",
+    "issue": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "6262c94f2f20facfe933bde5ff168fa52e714b302943de814728a32d066f0395",
+    "target_sha256": "2eeea8549e644a14009a1be90a3dbef69d39be118949ce566915d9ab7888e94f"
+  },
+  {
+    "id": "page041.block28",
+    "page": 41,
+    "before": "cupboards.\n",
+    "after": "doors.\n",
+    "issue": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "101b2d1e78dfe7a1f11546f226ee35eaf7fa2ad26de2d03acc90487c1964f438",
+    "target_sha256": "f74e1512b4e8c96d103df6e1e3374c82377e8c462f415461167093ef39789bd2"
+  },
+  {
+    "id": "page041.block30",
+    "page": 41,
+    "before": "A triumph of fieldwork.\n",
+    "after": "Good. I was starting to introduce myself to the brooms.\n",
+    "issue": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "d7c7bd289ea81eed1902c18b1f0e2f165e3411b9052473c9a19249d1f4cffa06",
+    "target_sha256": "c3c863c10347a8f3431a832befa41fa814a6e3a4a2612e00cf2c25e1a509468a"
+  },
+  {
+    "id": "page045.block07",
+    "page": 45,
+    "before": "Buildings sometimes interrupt a straight line.\n",
+    "after": "Have you shown it to the walls?\n",
+    "issue": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "2d44f0976d1c2436fade2d4a65f27e978c59e7726f59f323a779b57445ad2482",
+    "target_sha256": "a8bfa5db1c4dd1233336888aab7a09ebddcc804f1e5a7abb34b9fd8cbfbdb806"
+  },
+  {
+    "id": "page045.block09",
+    "page": 45,
+    "before": "I shall discuss that with the building.\n",
+    "after": "The building has rejected my first draft.\n",
+    "issue": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "5caf2fd5170699745b709815bf8844e2d1e0f00a8fb1f7d28bb534406dbe02ad",
+    "target_sha256": "d8180a52e7a9eb507697776c3c3aba3f6deefdc8a4c58d0828a4ad0d07e405b0"
+  },
+  {
+    "id": "page045.block11",
+    "page": 45,
+    "before": "After you read its door signs.\n",
+    "after": "Then let's find out where it will let us through.\n",
+    "issue": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "c610413f5d7879e183b36574938fd77d20dbfa21c1ff51130b7b0d387be234bd",
+    "target_sha256": "d1dc5755920a95c0a9a812e50124b879f1daf2c9ba0181bfddf271786c6e5f3d"
+  },
+  {
+    "id": "page045.block13",
+    "page": 45,
+    "before": "I will hold the map. You handle negotiations with the door signs.\n",
+    "after": "I'll hold the map. No folding the building to make it fit.\n",
+    "issue": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "b03c06c010ee29389f613cd5ab944d2ca34cc1fe02a80beb8821675af924468e",
+    "target_sha256": "b36f39331ffc84fff6f4b6baea814a1e5f6ece0412499205552d4aa9b1092820"
+  },
+  {
+    "id": "page049.block05",
+    "page": 49,
+    "before": "You know something.\n",
+    "after": "You nearly said something.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "43bba344b21a627929913aa87e7f66662d5a67155956e6a8674e7d8720413bea",
+    "target_sha256": "e2c8ae736bc37807b96a011ffb6e284b015d71745ea902a631bff8bc2925fbcf"
+  },
+  {
+    "id": "page049.block07",
+    "page": 49,
+    "before": "I remember something. That is not the same thing.\n",
+    "after": "Something looks familiar. That isn't the same as knowing.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "824acaaa8700d3474f70383c52c8162b591abd27a126303f89e47abd206eec25",
+    "target_sha256": "fc45c86fc27d05470ac9dfc26102cca8f8378c974d4bbb9c000788c8a07e2e37"
+  },
+  {
+    "id": "page049.block09",
+    "page": 49,
+    "before": "We will check it with you.\n",
+    "after": "Then we'll find something you can check it against.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "7061869cf751b29eff95af4eed0d59f59c8f29f8773b8f3acc32f6073b984173",
+    "target_sha256": "b018954c655e10105cb142047997520fde686a1e3bd286ff832e0b3d6bb89e67"
+  },
+  {
+    "id": "page049.block11",
+    "page": 49,
+    "before": "I have prepared several incorrect memories in solidarity.\n",
+    "after": "I remember being promised cake on an investigation.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "8785fda6a8e45a7089f2accf3fbfa38c51e3c994763afbf137f03f8c98bd115a",
+    "target_sha256": "7e60cc2a99931c5fea828e5e896061f8a9b90dc0a94975e47cd85d63e0a92b3e"
+  },
+  {
+    "id": "page049.block13",
+    "page": 49,
+    "before": "Keep them away from the evidence table.\n",
+    "after": "You promised yourself the cake, Alio.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "9c12c25da5f519d6f1999fb7e2b592dd3ed66ff417a80fbdcf488df62eacd624",
+    "target_sha256": "9691c04a83a24e2a75defa8961109e2dae5a41c4d4d185553bb5e07e7e938a6a"
+  },
+  {
+    "id": "page049.block15",
+    "page": 49,
+    "before": "Cruelly reasonable.\n",
+    "after": "A very reliable source. Terrible at delivery.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "3306f4196f30ad194d3bcb91c23aa282fab387fe4f17e186e9f94deb11519214",
+    "target_sha256": "d8e169a4539fcffe208cab770bd7b7268fe66b9ff0f814f375f895808251e6bc"
+  },
+  {
+    "id": "page053.block15",
+    "page": 53,
+    "before": "Two teams.\nOne rover. One\n",
+    "after": "Two teams. One rover. I refuse ",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "19b36646df7035ea5ffad4f5a7abdfb947cf614c7c920c9dd9ea931c3ac2f5b5",
+    "target_sha256": "930e6dc5b3a6ee761285120532a8cd4b34f2f816c17ccedce62485d26fd587d6"
+  },
+  {
+    "id": "page053.block16",
+    "page": 53,
+    "before": "truly upsetting\n",
+    "after": "to split it ",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "f992f1258cba82fe101b3fefe4385f1a8db3b627b44d7c3c6226edc6a72a2ae6",
+    "target_sha256": "8101305c325cc2c3bc718f175c179465aaaa669e44bd03f60f62666ce2bafed3"
+  },
+  {
+    "id": "page053.block17",
+    "page": 53,
+    "before": "cable tangle.\n",
+    "after": "down the middle.\n",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "df1765b02f208b3e59cddca61dc52c22d75db923941d8e6273e10526de5ac859",
+    "target_sha256": "24e3ca233d562db425bc02c3332af390300826ec65bdfab2976d3e71bebd16d7"
+  },
+  {
+    "id": "page053.block19",
+    "page": 53,
+    "before": "Which problem\nare you solving\n",
+    "after": "Generous. The wheels would be ",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "9f93a5690cdad8eab8ff122b8f17cd6f9c0b46ecac00ca281c6e401dbcd1a08a",
+    "target_sha256": "5c7aeaa14ba9beb1c7395439f3151e9b0892b6657a961cb4ae85ea5445e6dc02"
+  },
+  {
+    "id": "page053.block20",
+    "page": 53,
+    "before": "first?\n",
+    "after": "awkward.\n",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "f7cc2795122ef4fda004c34b05041091502a21f323f8fcc3b5106a92a284bf90",
+    "target_sha256": "6ed0ec2fa4fa307b8631db1c225423e155835b3292f997cec1be63b5d68dfb59"
+  },
+  {
+    "id": "page053.block22",
+    "page": 53,
+    "before": "Access record.\n",
+    "after": "We'll check who actually had access.\n",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "fab3232cec89f70af7cf034a4fbcbf031b70fa4048a98a20d33b0c8df7619f10",
+    "target_sha256": "731956f4fe95320c2087f01cc7b43368cf7c6ebfe3906512bf686d20a1216144"
+  },
+  {
+    "id": "page053.block24",
+    "page": 53,
+    "before": "Correct answer.\nDisturbing speed.\n",
+    "after": "While you do, can I untangle that cable?\n",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "21e5080cb78e750ceea41c3ef88d0e9418558e2ec7f4ca49f4aeb420313b516f",
+    "target_sha256": "bdd34cec73d0857ffc9696ab42af6e93903a3c74fc51fb72e9ea885207b6eadf"
+  },
+  {
+    "id": "page053.block26",
+    "page": 53,
+    "before": "Please log that\n",
+    "after": "Careful. It may have a ",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "32c6d6e0507df42fe29a1a06cef01ac668fdbac2dfd1d80df3483d1eabcf9b2b",
+    "target_sha256": "fbd20c3f174f707e65ac6d9637b745487f808b3a182a84d6a44cbc128c1b6d44"
+  },
+  {
+    "id": "page053.block27",
+    "page": 53,
+    "before": "separately.\n",
+    "after": "third owner.\n",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "54621e3cea525db52858ed366daa6ba8869e087358450e2818484c2e15575269",
+    "target_sha256": "03913165c728e2b8ac2df05e35c49ec05d91628acf690830ee122849f7f79586"
+  },
+  {
+    "id": "page061.block07",
+    "page": 61,
+    "before": "Wait. I think it is asking us for something.\n",
+    "after": "It says 'cracker'.\n",
+    "issue": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "781d3baf6d0b31388f5a51c170cd640eab0b6119209fb645e5321e3063f7bc12",
+    "target_sha256": "c4e73429b51bbf9127528bcce82c259d4ef8eb32a5014d2dc2685f16de9d4c12"
+  },
+  {
+    "id": "page061.block09",
+    "page": 61,
+    "before": "The witness said cracker.\n",
+    "after": "I've got that. What about the password?\n",
+    "issue": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "33b3396cc533ceb5c9f2a7d804777596f284aa3671f3b7d1641318122d3fb167",
+    "target_sha256": "9f25140b6f4355e00cb2213ea67340274fa4f3e94e19e6f7c3585392c780154d"
+  },
+  {
+    "id": "page061.block11",
+    "page": 61,
+    "before": "A clear request. We are making progress.\n",
+    "after": "I think it has set a price.\n",
+    "issue": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "08add740fe74a7642bd355e72ebcbf57a6158e8c4a3ffda1f9eeb68163fb8269",
+    "target_sha256": "8eceb96e08dbacc1a58180b317bd86f58ca40b4484afd20cdb4c5de916372623"
+  },
+  {
+    "id": "page061.block13",
+    "page": 61,
+    "before": "My neatest interview so far.\n",
+    "after": "I'll ask the handler. My first interview with a snack budget.\n",
+    "issue": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "e0e9c37f9d8543f2faf65ee973c476ee38ec288ea15d8a7e85140cc1994c2f2e",
+    "target_sha256": "fb28e5cc11e1e65082807d3bb23070ec292686fd78dd48c1b11bb2e5ad7e602c"
+  },
+  {
+    "id": "page065.block23",
+    "page": 65,
+    "before": "Several\nweaknesses. I am\n",
+    "after": "It needs somewhere to ",
+    "issue": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "bec24441841cb94444ac4954b42c058075b3fdf18914cf61e5841b6f1eacf88a",
+    "target_sha256": "cd5b1a53c9025105b3409a347bdef936b8f84bcdc0dd097c4c6e8dd27643864e"
+  },
+  {
+    "id": "page065.block24",
+    "page": 65,
+    "before": "making a list.\n",
+    "after": "keep the camera.\n",
+    "issue": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "2c6fcf1b5c685905d95c9cdf9f60ba1e76f94c46e89f2cf26f9a512d90b6c53f",
+    "target_sha256": "7ef0494ccf321fa4df19d74bb6eae33143e875dfc8664cffa2cafab7026a62c8"
+  },
+  {
+    "id": "page065.block26",
+    "page": 65,
+    "before": "I will keep a\nspace ",
+    "after": "A tiny camera strap. ",
+    "issue": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "4d5a79b55b20da82c9740f5f2bc438a5b4f197564b41e1e0d16ada9a8ef43644",
+    "target_sha256": "c795a119ba04486216a80598adffe5ae18ee43126f465076bd76dc94823a276d"
+  },
+  {
+    "id": "page065.block27",
+    "page": 65,
+    "before": "for the\nanswer.\n",
+    "after": "I'll draw one.\n",
+    "issue": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "82f6b71937f5d6992d45071347804f54ecae56467d4e8c1b294dafb0a245fe61",
+    "target_sha256": "62e7f702f7fdb57f72b01578c6a1d7c34b3d1414dbd19114deccad5479dae4c5"
+  },
+  {
+    "id": "page065.block29",
+    "page": 65,
+    "before": "Useful. Thank you.\n",
+    "after": "At last. Someone taking the equipment problem seriously.\n",
+    "issue": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "94a6a120d067103751725c095e609798c8d72278dc9a08698037eaf8977060bf",
+    "target_sha256": "b958d538fe40bd599f7e91635cc114567d605212677725f3bca8369a9ce4b0df"
+  },
+  {
+    "id": "page065.block31",
+    "page": 65,
+    "before": "Start with what\nthe camera saw.\n",
+    "after": "Now you've got me wondering about the strap. Hand me the actual photo before this gets worse.\n",
+    "issue": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "8ee95ef264fe88c60745c7921964178b3b200ed58352cf702a255ced583dfec3",
+    "target_sha256": "43f0faf9fccbb86fdb5717bac9992ca8f0e7babd4f17c9e51afb8375bd87611d"
+  },
+  {
+    "id": "page069.block05",
+    "page": 69,
+    "before": "One statement has broken the clock.\n",
+    "after": "One of these statements has broken the clock.\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "f224ab6dc150249aeb0f0b67d4f0df61c681f27f8c91057c34982c80102f6063",
+    "target_sha256": "c30eeb284181538404d46ff0aaf2b06c50c763cbc230a81e9fe7c6ac6e4721d0"
+  },
+  {
+    "id": "page069.block07",
+    "page": 69,
+    "before": "Or one person mixed up two moments.\n",
+    "after": "Or somebody mixed up two moments.\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "d87a42c7e37ba97c46f91748954de1585f75cc9ddca829914db6c6f01f355435",
+    "target_sha256": "edfad0be5b2277bbc8d0a9e411d7e0b20b2201abde5b451f54c0203c232efe98"
+  },
+  {
+    "id": "page069.block09",
+    "page": 69,
+    "before": "Test the journey before you test the person.\n",
+    "after": "Could happen. I once announced I'd packed lunch. I'd packed three books.\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "4f800706f7fa2a12141db9c6bd9b2a98559a35606aeca27ded1117bb0e04ee5a",
+    "target_sha256": "8286fdf037c357eb28736b1d87db098bace3fcc485b4c43a65ee7e6d84926029"
+  },
+  {
+    "id": "page069.block11",
+    "page": 69,
+    "before": "Exactly.\n",
+    "after": "I remember. Your bag was very well fed.\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "c711db93f7da311560b92127820a54204250ba6a27cd08bc43991164f90186e3",
+    "target_sha256": "dc3b1600f70a89903e38c756bcd2787c51ae5b3761490e51fc5adc79c5b572a0"
+  },
+  {
+    "id": "page069.block13",
+    "page": 69,
+    "before": "Can I remain suspicious of the clock?\n",
+    "after": "Did it share?\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "db15f3b976ac6f06ecec29615fb9ad7b986e54c6f1a1b8de9379724ed68e950c",
+    "target_sha256": "c70b261df4490338aa05307083e2f08bfa0f73ce0abc3c3101dfd11fe97f05b1"
+  },
+  {
+    "id": "page069.block15",
+    "page": 69,
+    "before": "Certainly. Help me count its minutes.\n",
+    "after": "Not a crumb. Three books and not one on cooking.\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "3742ac9a42dcfdc67fb0197297927c4a271f79527c6fc58dd61ebb9fdd57cf81",
+    "target_sha256": "ce7e60338e68b0a6a9b3ccff360dd0c6563263fc13c278e35d1f93b940589892"
+  },
+  {
+    "id": "page073.block07",
+    "page": 73,
+    "before": "What about satellite tracking?\n",
+    "after": "I was going to suggest satellite tracking.\n",
+    "issue": "HM15: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "712413646d7aaba3d380ac59a6a282702f2cf6471e11db0a6409887fcdaf323a",
+    "target_sha256": "7ada9b4f383f2431e521846a7638958699ddf68dc2a9a447a9fb3af73a8c87d8"
+  },
+  {
+    "id": "page073.block09",
+    "page": 73,
+    "before": "My tags work indoors.\n",
+    "after": "Mine doesn't need charging.\n",
+    "issue": "HM15: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "9b70d6bed77a258a506d50e58117dd37a5626bf5d39d4e9da8ee6cac911e7869",
+    "target_sha256": "e05a24646971b04c1633d5ec8962d747b6bfd579dd4288590adfe732e507e3fe"
+  },
+  {
+    "id": "page073.block11",
+    "page": 73,
+    "before": "Unexpectedly advanced technology. I will write mine large.\n",
+    "after": "Ruthless. You've beaten me with a piece of cardboard.\n",
+    "issue": "HM15: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "6c9e327ede51271b5528523a285b8af14f38271b235fcf2ed460f29b8ac92184",
+    "target_sha256": "4a2ada29deef365577b05abf17486a6eb739d25f2d78ef786ae488f4ba1a3b67"
+  },
+  {
+    "id": "page087.block13",
+    "page": 87,
+    "before": "Good. Corrected time first.\n",
+    "after": "I'll check the new times. You can tell the watch it hasn't lost its job.\n",
+    "issue": "HM18: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "84f3601c765ff4594a518ea4c5195355659fdb6a3de4f1787e23446c4f00a646",
+    "target_sha256": "4d724014abc4bb245044c5bdc4a3936a11b20e6bda9102523404d39017ef21a1"
+  },
+  {
+    "id": "page091.block05",
+    "page": 91,
+    "before": "I was going to say digital ghost.\n",
+    "after": "I was going to say 'digital ghost'.\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "0c99b21d44c164f709328cb594bce7c84fc9505bf1128b521cb8706bf49d6f56",
+    "target_sha256": "0154e9edeee7af87a0730265996df03cdda558693887bf1e7d1136f25be8a76e"
+  },
+  {
+    "id": "page091.block07",
+    "page": 91,
+    "before": "And now?\n",
+    "after": "Was?\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "2b575e934a2843f1bc47791bb3ebc6fd9f9c78d69b5d12c960b18e480e117147",
+    "target_sha256": "0f903c88e540a3a814a9c6f81714566d92ea2f74dcf9828b63785b4db7aa78a6"
+  },
+  {
+    "id": "page091.block09",
+    "page": 91,
+    "before": "I am postponing the ghost until evidence requests one.\n",
+    "after": "I'm checking the scanner first. The ghost can wait outside.\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "711ad1bb42c921f29c651d0dc7cee0cddd12c0f1f0bf88b8d1090b930e399f8a",
+    "target_sha256": "64058c1bdfa8535f32ad412c0ffe8e4a3168bc0e5b0cd5a4626caea6dffdafb2"
+  },
+  {
+    "id": "page091.block11",
+    "page": 91,
+    "before": "I like this plot development.\n",
+    "after": "In a library? It'll complain about the silence.\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "9fbf84c8545e20a75b8b8d71c7c43170c0ff9ec20030f9bd4e1b2c1768437cdb",
+    "target_sha256": "3feacc50f2a414557b2a78bbf79017ff2986edb44bff699c9e958e13fd2fab19"
+  },
+  {
+    "id": "page091.block13",
+    "page": 91,
+    "before": "If it turns up later, I am asking whether it likes books.\n",
+    "after": "I'll find it something to read.\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "623de27757920c4946baa8a5edb2525a4546578ea4e4a89c363f036d51c1cfcd",
+    "target_sha256": "dfab26b20c512117a4816836e9d6f5c387b154daf1b7096e443bda0b7a246203"
+  },
+  {
+    "id": "page091.block15",
+    "page": 91,
+    "before": "After the scanner, then.\n",
+    "after": "A paper one. I'm not giving it the Wi-Fi password.\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "ade1e1729350a717a55214c4905a7ba8ddee8d94c950ab275c9e762c531a58ad",
+    "target_sha256": "712427c9c953cd6a47581f0efe734848b6ea65e729eb27b87df908b22a066941"
+  },
+  {
+    "id": "page095.block07",
+    "page": 95,
+    "before": "Give it a place on the art wall, not the witness list.\n",
+    "after": "Can I have the panel before you frame it?\n",
+    "issue": "HM20: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "7c77061f66211f23c78e45f3cb217fd499e3878fc5465f825d355dff685a04de",
+    "target_sha256": "9910e9476216d62783aef4b4826e4427c6c0ed796732faec892ec3845b7c8889"
+  },
+  {
+    "id": "page095.block09",
+    "page": 95,
+    "before": "Understood. Pear excluded from questioning.\n",
+    "after": "It's looking very nervous. Be nice.\n",
+    "issue": "HM20: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "bd2acf68527c6f6ba25a2e4823d999ef7af3e0ba00fd099da135a1743490cf2e",
+    "target_sha256": "7afbd8deb56084ca4636ee53166335db0bcab3227535f39833f0dee8002536d9"
+  },
+  {
+    "id": "page099.block07",
+    "page": 99,
+    "before": "Both hands visible. I am\n",
+    "after": "I'm not touching anything ",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "3df6797ecf7de9ac4d70b8c0ef97892a655b2f49ab191538e53290fd6d8f603d",
+    "target_sha256": "bc1db9f83808ef73e20c194c2bea3f3c4fb5540c9f004f8b50a1f93c1c9d9ec1"
+  },
+  {
+    "id": "page099.block08",
+    "page": 99,
+    "before": "learning.\n",
+    "after": "else.\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "52c70a639b586d4bccdda343faad072eee74f63c055553df39384880fd446557",
+    "target_sha256": "8a36980c8570c909006e311aea8b0cb16dd1a0a152394d766bbce031e5597df8"
+  },
+  {
+    "id": "page099.block10",
+    "page": 99,
+    "before": "Tear edges first. Sentence\n",
+    "after": "Stay here. I need you to check the joins ",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "fed53f18e673830bf15aded02d831c3e48bb5552a2a092b2380dac0e83f7e89a",
+    "target_sha256": "811507dd9738156e41ca829efbaf6d7a439b1d40d2299b7c7c4adcf52fd44deb"
+  },
+  {
+    "id": "page099.block11",
+    "page": 99,
+    "before": "second.\n",
+    "after": "with me.\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "40b54271fc64040a3034d655ee19d6eeb17452f1968a35bbe78c7c5c687aa219",
+    "target_sha256": "46a7b197ca1fa3f73d2f571acd83bb1a29f1b726a917c8f285a279ba31948489"
+  },
+  {
+    "id": "page099.block13",
+    "page": 99,
+    "before": "And keep the handwriting\nvisible when you sleeve it.\n",
+    "after": "Keep the handwriting visible. It may matter once the edges fit.\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "09d2597039114217e8aa78e8b0c4162271044ccb1abd57f751d9ad3b46f1432c",
+    "target_sha256": "9abdc1c326f09fe0ee996dcbfd26b0392e4d046e064befd59aadc857f4dfb74f"
+  },
+  {
+    "id": "page099.block15",
+    "page": 99,
+    "before": "Familiar?\n",
+    "after": "Do you know whose it is?\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "1613ef9e6e4f8bf985c5350c77d0a29425dc88d7ccfef46120c9bda150e53ab3",
+    "target_sha256": "865e879dd37851d77e8b56367840c03c1def41266db8579961e42ffcef3631e9"
+  },
+  {
+    "id": "page099.block17",
+    "page": 99,
+    "before": "Maybe. Which is exactly\n",
+    "after": "Maybe. The archive ",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "390a162fda187c23edf12e3ebede9d8caf4790c19384ef3e670dd3ed94ee1a09",
+    "target_sha256": "00e13ff155a7df74d9cff542047bf18fa0f81e9b3f0652e8172fcf1d862c8787"
+  },
+  {
+    "id": "page099.block18",
+    "page": 99,
+    "before": "why I am not calling it\n",
+    "after": "will have to back ",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "73ebe078895a2ea61e67c96deea32134355937621d8f7abea13b7435b124b3cf",
+    "target_sha256": "a53da0ee986c2e236e47aa45640bd68b4f6859592fe227027fbe4fa35f6593d8"
+  },
+  {
+    "id": "page099.block19",
+    "page": 99,
+    "before": "evidence yet.\n",
+    "after": "me up.\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "5f149e8ef3fe3c47c099027441bfe1a3873476b27d9db826a341e3075dab28a0",
+    "target_sha256": "9bd11da8f4d3bf541336359533d176785da86f9530e92c700488cc3979cbc7f2"
+  },
+  {
+    "id": "page099.block21",
+    "page": 99,
+    "before": "Understood. The paper\ngets the first interview.\n",
+    "after": "Detective, you fit the pieces. I'll check every join.\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "bdb7f4a4c9b5bf58978aa14a581ee40ff8986d7186199000761df65b73ed1703",
+    "target_sha256": "1dfd370da41697b78f83c355bb54e7e32410c4cdbb9172a13a2a8b160da67641"
+  },
+  {
+    "id": "page105.block08",
+    "page": 105,
+    "before": "They are labeled.\n",
+    "after": "Their names are on the labels.\n",
+    "issue": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "cc31ac44c640bb53fc488884762507c9b51900eefde60e559b769eaa37b50f19",
+    "target_sha256": "95c3bb8fdd0ab9d3f2e65cbfaba7b84dd13558aed4af3d04f7f968e7167a629a"
+  },
+  {
+    "id": "page105.block10",
+    "page": 105,
+    "before": "Weak cover identities.\n",
+    "after": "Not everyone is cut out for a life undercover.\n",
+    "issue": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "64abd461d5ab69cc0d1ce035e9ba166cc236793a9185544b0713d15aa94df6a3",
+    "target_sha256": "52105513e7d98c72ad3db11e60b78164521eaf41c18eed8a8d5398d838d9eeae"
+  },
+  {
+    "id": "page105.block12",
+    "page": 105,
+    "before": "The instruments would like their own beds back.\n",
+    "after": "They've had a long rehearsal. Can we get them home?\n",
+    "issue": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "b914173dafaaa4a78cb5c576444484e0b87711dae854bf8b5fcd8b7eb335bb0c",
+    "target_sha256": "f12ac13a6b865e9a1b9a5c0cdf33d2e85bf0549f8bced4f72d6b0aebca782855"
+  },
+  {
+    "id": "page105.block14",
+    "page": 105,
+    "before": "Then we had better sort out the bedrooms.\n",
+    "after": "I'll check the shelves. I'm not reading a bedtime story to an instrument case.\n",
+    "issue": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "3c531c1184e3367a8cf1507b1ba494c3a2d15704b111bc55ab0d3b8c9ce12b3c",
+    "target_sha256": "34e3ca5f9f720c04565871cb4de5f9e7f253b108a0beae5172bac9ee1999d296"
+  },
+  {
+    "id": "page109.block11",
+    "page": 109,
+    "before": "Solve the wristband case before you start a feud with a scoreboard.\n",
+    "after": "I've got the wristband file. Can you bear to leave your rival unsupervised?\n",
+    "issue": "HM23: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "0d0e7591d12e66a9f446586f0e37af6583e36bb3c2963633ef9d44f001e4b99f",
+    "target_sha256": "8b84b4a9a72b4f428dc4c6dd3ce68694bb78acaca216509611ed67a47e90e239"
+  },
+  {
+    "id": "page109.block13",
+    "page": 109,
+    "before": "Feud postponed.\n",
+    "after": "For the case. Tell it I haven't surrendered.\n",
+    "issue": "HM23: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "25360ca4f7527832adab8ed1062c194baf37e78005432e19afee844ddf63418e",
+    "target_sha256": "432222d47049501e5495c92018d5d6d2d58914b9b2926ee2184d2843e57951dc"
+  },
+  {
+    "id": "page113.block09",
+    "page": 113,
+    "before": "The muddy evidence requested a word.\n",
+    "after": "Yes. I thought I'd see what the mud had to say first.\n",
+    "issue": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "d44563fab0fb409e1cc5326437111923ab7401b23987da83de4c0fe8f5686725",
+    "target_sha256": "fe676a72a75cee84d83f0da69ccc820a208002991ffea0b1c4dad846003cc641"
+  },
+  {
+    "id": "page113.block11",
+    "page": 113,
+    "before": "Give it the floor.\n",
+    "after": "Then I'll be quiet too.\n",
+    "issue": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "63968981e0315ae0b9502d825a01cfcd96809477223404e7f563225bb6dcc7c7",
+    "target_sha256": "9c97b2b181eace1440b1aae4c5d96d49953cd297e4f9c2a5e858aa82d7c0bc42"
+  },
+  {
+    "id": "page113.block13",
+    "page": 113,
+    "before": "I will wait here while you check.\n",
+    "after": "Both of you? I should photograph this.\n",
+    "issue": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "c44eb30a177cbaac23f92d010a836dd1ac277c0165467ec4fbcf26b7281de02c",
+    "target_sha256": "22fb0c7554707ab5b7abd30de9340f24fb229483c75ce1d5cdd3799ba5b29514"
+  },
+  {
+    "id": "page113.block15",
+    "page": 113,
+    "before": "Good. I would like my next theory to have feet.\n",
+    "after": "Footprints first. My good behaviour can wait for the family album.\n",
+    "issue": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "908684d6b8f25b423a5593e0f580e5fe4e5789f3a85f5a5a929f881cfcc2e779",
+    "target_sha256": "91c1f81b9ac95d4a153b53fe2b3497d5a9a4a3a50363d8ee625fbff773e24d98"
+  },
+  {
+    "id": "page117.block05",
+    "page": 117,
+    "before": "This parcel has met more helpful people than it can remember.\n",
+    "after": "This parcel has met a lot of people. Has anyone asked where it wants to go?\n",
+    "issue": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "9f4bd0075720c1fb6ed2a40138608bb872df15b09fb12595ef7f66703ba8a50b",
+    "target_sha256": "6cb93fa3b57e64b1b373b6262ec8e0f00704bd39e0b5f81a35e8e521e584bc54"
+  },
+  {
+    "id": "page117.block07",
+    "page": 117,
+    "before": "Then we help it in a less creative order.\n",
+    "after": "Let's find out before somebody helpfully moves it again.\n",
+    "issue": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "eede3f1a344ac1ca25ce5b75504e82411d4adfd937d890491b5941e494f301ab",
+    "target_sha256": "e71e3a5d08c270004e6eb15683614e4dfd93b5ad4e044bf466cc78d82c87e0b1"
+  },
+  {
+    "id": "page117.block09",
+    "page": 117,
+    "before": "Revolutionary idea: one label, one destination.\n",
+    "after": "I'll guard it. No unauthorised helping.\n",
+    "issue": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "9de98597221f3089d386aa50ed7275d6f4ad2ffd36bf7e5340ffafd2cdb27ec8",
+    "target_sha256": "700212b4648cfa33697bd6ec1df6cf4ff7a3281e1ff5fe941d420f9314666b17"
+  },
+  {
+    "id": "page117.block11",
+    "page": 117,
+    "before": "And possibly biscuits.\n",
+    "after": "What about morale biscuits?\n",
+    "issue": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "b8d41867452e3bc7bcf050fa4143f4d877257b01db640dbe5f7aad8b4865d690",
+    "target_sha256": "970094471ecdafaba126ed15ad218ef6a4fb8a36c94ec238ff1e215d5ad236cd"
+  },
+  {
+    "id": "page117.block13",
+    "page": 117,
+    "before": "We can investigate lunch after the handoff. I saved you a place.\n",
+    "after": "For us. The parcel has had quite enough people trying to improve its day.\n",
+    "issue": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "07b99ccd93ac25d27792d6d0516daf08d35a1c39c97d051fca98323b5da68e7f",
+    "target_sha256": "e1612e6157be38b44b172d4cd08b88d054eb7023e1155a1dc47601f765656341"
+  },
+  {
+    "id": "page121.block15",
+    "page": 121,
+    "before": "Empty does not\n",
+    "after": "Empty rooms. We've been ",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "c2cf3df11d656a80801e106a0f618ac0dfdd63a24e40d04b440518278a2437fd",
+    "target_sha256": "5d02f8927eaa924cdac344c17b0df7247b959c2aac8c932cf616ab1384d5b882"
+  },
+  {
+    "id": "page121.block16",
+    "page": 121,
+    "before": "always mean\n",
+    "after": "looking at everyone ",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "b422d040df8f68fc0fec868d92bcd24696e7bf39a8ad767ffcf458cb0a8b2c54",
+    "target_sha256": "fb47caf270379cb6e4dbd22cbc557a68786bad361e6ab0f4b32d3fa6447d8774"
+  },
+  {
+    "id": "page121.block17",
+    "page": 121,
+    "before": "useless.\n",
+    "after": "except nobody.\n",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "687858bbfae09d49ff2c45563eef3ca1af15f04ba3811db2b318b765cbe10763",
+    "target_sha256": "aade4d6cfab29908bf09db4dc67d58866823d7840b5949c13f5f72aa2144c56a"
+  },
+  {
+    "id": "page121.block19",
+    "page": 121,
+    "before": "My bedroom\nwould like that\n",
+    "after": "Nobody has been ",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "6496af787c5c79387d56380ee78ecad23c92daf4baeda3f017d50031e5eeb3bd",
+    "target_sha256": "aa0cd0cdfbf891b29741a3d7b9f2353e1090dc3aa7aca8811786308c3297701e"
+  },
+  {
+    "id": "page121.block20",
+    "page": 121,
+    "before": "entered into\n",
+    "after": "very ",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "01cff8bd477279ad589ef3865875abfb6a08568f252e4593990932290ed38810",
+    "target_sha256": "46d0575341893578cb487d378fc11b4f652071a1e930fe93ecd94c8e2225ede6"
+  },
+  {
+    "id": "page121.block21",
+    "page": 121,
+    "before": "evidence.\n",
+    "after": "quiet.\n",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "3fae6b8b47c2df8a2f7420268e45479acb5c172f54bd1bda5a42273a169763b3",
+    "target_sha256": "ba326090fa91a1e5bf96cf08ccee9bc50a6f9a2adf967752dfc107aeb6c034e9"
+  },
+  {
+    "id": "page121.block23",
+    "page": 121,
+    "before": "Your bedroom is\nnot an admissible\n",
+    "after": "Already my favourite ",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "755ce70e1c80acaee0027ada86aa18de00706a00209ce59dde8761e16739d346",
+    "target_sha256": "0695b80b2c99310bbe9c6cc0769bf4534afe48c2a0863397195d73ef50f5645d"
+  },
+  {
+    "id": "page121.block24",
+    "page": 121,
+    "before": "precedent.\n",
+    "after": "witness.\n",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "9dee4934d9e693044b19765440b243185cced19d08d4e30c4cccbd6bd26e9921",
+    "target_sha256": "c0326809d3bd049bbb804e92fb1b73e6a252ad191198ce2ca0cd473acd34fa60"
+  },
+  {
+    "id": "page121.block26",
+    "page": 121,
+    "before": "Fortunately.\n",
+    "after": "I'm telling your brothers you said that.\n",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "a03eff58a2479daf9e01afffdc8166cada20dadaca27a9d4152f3380300ed376",
+    "target_sha256": "7dd8b0ec11f37cb97807477381095888811bf7059a1ebf82d6536549a7d1d7f2"
+  },
+  {
+    "id": "page121.block28",
+    "page": 121,
+    "before": "Old systems sometimes\n",
+    "after": "A historic moment. ",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "0f26aa2a521af12e9a1c7bee6102a11363918126e4592f485f80f7607550b5fb",
+    "target_sha256": "8e903ca5d218bf53a86d2b85e721d3a79248b2d3a828a1d5a663af276f6d50f8"
+  },
+  {
+    "id": "page121.block29",
+    "page": 121,
+    "before": "hide meaning in what\n",
+    "after": "Detective, pull your maps ",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "65c79e1db514745588ac128d2de4412622f940a33ea37ec38fb76901516c8b77",
+    "target_sha256": "96b056f54f7158ae2ca13a094f1886bba3f859fbcbcbf37035c5f972a96cc8ae"
+  },
+  {
+    "id": "page121.block30",
+    "page": 121,
+    "before": "they do not fill.\n",
+    "after": "closer before they recover.\n",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "72094c2c05acb66f566c5a8286784fdbe6436b9fcb141760130c48226b993c05",
+    "target_sha256": "51d50a2ef22ed13e8cc61786e9ea4ea96797afcff3151dfec4b68dbf7b521a7d"
+  },
+  {
+    "id": "page129.block05",
+    "page": 129,
+    "before": "I have put my tunnel theory on a separate card.\n",
+    "after": "I have put my tunnel proposal on a separate card.\n",
+    "issue": "HM28: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "91960427bd11ac884d008bd6aedee4dd8f557485cb6c6aa1e7c6dd8a92a067f6",
+    "target_sha256": "14e64c2858a23ee68c3cc19fde8828753a3bb91b90d32b63933cc1556f5eebdc"
+  },
+  {
+    "id": "page129.block11",
+    "page": 129,
+    "before": "Better than the muddy arrows. At least your theory admits it is\n",
+    "after": "I'd like a card. Some of my very organised plans are mostly ",
+    "issue": "HM28: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "5359a5d4242f1176de32fd4f501f2a103c546eead60dcd34aff3c1e525b57fa9",
+    "target_sha256": "25e343e9f8fc0f9380af7ede51174d5e54943d803496f0a1b1c7394578bcefd6"
+  },
+  {
+    "id": "page129.block12",
+    "page": 129,
+    "before": "guessing.\n",
+    "after": "that.\n",
+    "issue": "HM28: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "e9013de7983b3f2dc5deac7018fe6ed5399f33bc2414b756a82b9a763bdba3fa",
+    "target_sha256": "07497dc06e8ff89566b30a0d0c8e9f50118695f794d9c5649254dd98bf7236b1"
+  },
+  {
+    "id": "page129.block14",
+    "page": 129,
+    "before": "That would have saved my old squad several afternoons.\n",
+    "after": "Make it two. I used to call mine 'experience'.\n",
+    "issue": "HM28: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "b24aeae3658f6079e22e93d58ce8454feb74e8c5eae46025d4cffae33653d5e9",
+    "target_sha256": "6fb8646c21182b529e15d662435c4fb7988d9947e7a923e9de5193e03b879f3a"
+  },
+  {
+    "id": "page133.block05",
+    "page": 133,
+    "before": "Largest map in the book. Same rule as always: prove it.\n",
+    "after": "That's a lot of map. I'll clear some space.\n",
+    "issue": "HM29: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "750064f6ff54d46e6bdac6be50593b4f0631bc3f22dbfa40d2344921381feed0",
+    "target_sha256": "fecc231715675c5cf7031f69274d361b5b2f91098db1bc9b22e1faeb3655c84c"
+  },
+  {
+    "id": "page133.block11",
+    "page": 133,
+    "before": "New evidence already.\n",
+    "after": "I've written that down. In pencil, to be fair.\n",
+    "issue": "HM29: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "75a079c075dc162f8d651877f07958b0f0af6f337f2b070e17567729b49ae762",
+    "target_sha256": "455569a0dec9f41598fc8d270f10e3a83fb49e9dc97bdc89c7073afca40a92a9"
+  },
+  {
+    "id": "page137.block08",
+    "page": 137,
+    "before": "already proved.\n\nHAPPY MAKERS COMMS\n1 MIMI: Use what you earned.\n2 DILO: Victory noise?\n",
+    "after": "already proved.\n\nHAPPY MAKERS COMMS\n1 MIMI: Case Wall ready? Then the panel's yours.\n2 DILO: And the victory noise is mine.\n",
+    "issue": "HM30: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "028c19f5875ec97d98828f15178c053025cc47e0d93844134596a0cd481e5595",
+    "target_sha256": "9fdac79b3db172a35c7f96f25a5c13c1bdf9f384d9cf0abb4f351b490c38f195"
+  },
+  {
+    "id": "page137.block09",
+    "page": 137,
+    "before": "3 LULI: Pending evidence.\n4 NINI: Very pending.\n5 BIBI: Begin.\n",
+    "after": "3 LULI: Keep it in your head until the door opens.\n4 NINI: Mine's already getting a bit loud in there.\n5 BIBI: Go on, Detective. We'll be right behind you.\n",
+    "issue": "HM30: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth.",
+    "before_sha256": "1d3bef4820272cff857167a7077cdbede808aca319db2d7b06bb7c213800b2c6",
+    "target_sha256": "ff0728558492a63b31adad88a1bbf001cb43d6f366efa355a9fe3361dfd1a58c"
+  },
+  {
+    "id": "page007.block05",
+    "page": 7,
+    "before": "MIMI: I've got a plan! ...actually, wait, where's my phone?\nLULI: Facts first. Opinions later. Snacks somewhere in between.\nDILO: If it's weird enough to beep... it's probably important.",
+    "after": "MIMI: I've got a plan! ...actually, wait, where's my phone?\nLULI: Facts first. Opinions later. Snacks somewhere in between.\nDILO: If it beeps, I can probably make it beep again.",
+    "issue": "BIO_QUOTE_FALSE_SALIENCE: a beep is not evidence of importance; use a distinctive tech boast rather than a misleading maxim.",
+    "before_sha256": "517bd9ff4d85dacc173e96cfd15c2492f4fce7dbd1a7df55ec6409322a2f1005",
+    "target_sha256": "e4a9b2f13de9c525ecab9b81366dbe47000b33db710560d3bee19fedccd3c672"
+  },
+  {
+    "id": "page012.block03",
+    "page": 12,
+    "before": "DILO: I can fit all my theories on that wall.\nLULI: Try the evidence first.\nALIO: What about a small shelf for promising theories?\nNINI: Mine needs a cushion.\nBIBI: Give it a question mark. We need to know which parts are still guesses.\nMIMI: A detective without key notes in one place is like solving a case with 37 tabs open and 2% battery. Bold, chaotic, doomed.",
+    "after": "DILO: I can fit all my theories on that wall.\nLULI: And the evidence?\nALIO: We could put in a small shelf.\nNINI: For the theories? Mine needs a cushion.\nBIBI: Give it a question mark. I want to know which things we haven't proved.\nMIMI: No cushions on the Case Wall. We are already one theory away from needing a bigger building.",
+    "issue": "SUPPORT_COMMS_DRY_TAIL: replace generic tabs/battery maxim and doom with an actual family negotiation over the wall.",
+    "before_sha256": "e5f70c66788ae0f86da863b9f902359a1563b2dd8380dee8de8b7f10ef32408b",
+    "target_sha256": "0e16a6c619774fb9f9ee87efc06fcfc9f9b8ee87a048c47edc74c82c8b69f761"
+  },
+  {
+    "id": "page019.block03",
+    "page": 19,
+    "before": "That morning, Mimi crosses Trophy Hall with\ncoffee in one hand and the other buried in her\nbag, looking for the phone she was holding five\n",
+    "after": "That morning, Mimi crosses Trophy Hall with coffee in one hand and the other deep in her bag. Her phone appears ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "46a0436489bccda0d942cce839a96d2af05458d6ec55706291834264fbb101cf",
+    "target_sha256": "f4d0c4cb1825838cb46353e4eda12ed763b5ee860bd059ce9902c4d397e3f13f"
+  },
+  {
+    "id": "page019.block04",
+    "page": 19,
+    "before": "minutes ago. She notices the Founders' Cup is\n",
+    "after": "to have taken the morning off.\n\nThe ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "0e7eb37c07c7d2fe15f4ad6c7cec180003208d38dcb5977392a3338de1fca9c0",
+    "target_sha256": "3868be452f143e0344bdfa16479b41eb02a7042a7fd56d0dc88575db8c134974"
+  },
+  {
+    "id": "page019.block05",
+    "page": 19,
+    "before": "missing from its display case. That part is\n",
+    "after": "Founders' Cup has gone. That part is ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "551154126a5e474520e935cbd4123b83382b3e8eaed8541807472335fb9a1f1b",
+    "target_sha256": "c82328f82b2e98fbbf60fdd7f765e14f1ecc1a13d4c72756565e3f55fce32c18"
+  },
+  {
+    "id": "page019.block06",
+    "page": 19,
+    "before": "normal. Max signed it out for a Hall\ndemonstration. A few hours later, Dilo passes the\n",
+    "after": "normal: Max signed it out for a Hall demonstration.\n\nA few hours later, ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "b4a3744b76f3a64123c3936ea2030779efb5c86379795c0f40f4517684e0d0d7",
+    "target_sha256": "cea95fcfd687e19f8193a8a80cc1494c9a78dcbfe7e859f6e2c9ad61cf272fa7"
+  },
+  {
+    "id": "page019.block07",
+    "page": 19,
+    "before": "same case and mentions that the Cup is back -\npolished, centered and apparently having a much\n",
+    "after": "Dilo passes the display case.\n\"It's back.\"\nMimi stops looking for her phone.\n\nThe ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "0d57867b4b323939e7374000d786b1884f8f65d95264c311fe53390b3a08b144",
+    "target_sha256": "120e1b475392ed6fac1c5c7af83cbcc505c5f5661ee2a0812bb6b8809e4b5217"
+  },
+  {
+    "id": "page019.block08",
+    "page": 19,
+    "before": "more organized day than the rest of them. Mimi\n",
+    "after": "Cup is polished, centred and doing an excellent ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "34dafae2ea8adfbc5a31f2f6bd3f90a4fa819b406f4df06ddf0c18545080795d",
+    "target_sha256": "1eca486f9127c858b45d7f5a517aa0fe106e482116096082330d2690d4006cc8"
+  },
+  {
+    "id": "page019.block09",
+    "page": 19,
+    "before": "stops. \"Back?\" Bibi checks the return sheet.\n",
+    "after": "impression of a Cup with nothing ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "925070f6db5c5da060a711cbc98bca873c701baf9d9aaf925706e39ebe20563e",
+    "target_sha256": "cd4ee4345983c939c6508d5f82d35851e91dc5727b0b4d44a09d697ccfc76cd2"
+  },
+  {
+    "id": "page019.block10",
+    "page": 19,
+    "before": "Blank.\n",
+    "after": "to ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "33432e546f3587e483cef5aa45b20a1612e81cf8220fb873caf098f601a5765c",
+    "target_sha256": "4b00b1b86bfdb5b29032e1b1fe199a2b85fedc2c2a9bf1345a9880080c7c7a85"
+  },
+  {
+    "id": "page019.block11",
+    "page": 19,
+    "before": "Clipped to the return record is an Academy\n",
+    "after": "explain. Its return sheet is blank. No ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "c7016b35ab8993bdb28476a9326b5dcf5dd11576ed4b62cac64a19606e824b08",
+    "target_sha256": "c917184b23adf959bb0b4408f4645aa799b2d9c57508981259d41d763b5cf1ed"
+  },
+  {
+    "id": "page019.block12",
+    "page": 19,
+    "before": "return tag stamped with one plain 0 - the\nsame mark printed on the black envelope\n",
+    "after": "time. No signature. No handoff.\n\nBibi checks the tag clipped to the return ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "7c088ca52187ba08cd080844051c91d1e7c9eeaf9fcd85593e6e1b2f2f06b603",
+    "target_sha256": "ae2702192b08b69cb3517e60fb7abab4404c8fb7d057f09706cb5bdc52d20173"
+  },
+  {
+    "id": "page019.block13",
+    "page": 19,
+    "before": "that brought you here. Nobody calls it a\npattern yet. The Hall record still has one\nsolid checkpoint from the demonstration\n",
+    "after": "record. One plain 0, just like the mark on the black envelope that brought you here. Nobody ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "c697c97ea4de37677816a6ce90252965ed20f82ae4cd79a9430645750d7eddc6",
+    "target_sha256": "e199a25c24ed79145f768124443b2cbbd898b9070fe55e26cad5fb16f8b61024"
+  },
+  {
+    "id": "page019.block14",
+    "page": 19,
+    "before": "window: Max's position, plus one other\nperson in the same room. That person is\n",
+    "after": "calls it a pattern yet.\n\nOne part of the demonstration record ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "17a33fac410ebfbca89b71bf6e8c68a19b2dfe85587d8751ccd9240f5db3438d",
+    "target_sha256": "1ec2502a57b33fa3da1b45f9742a35321f542e3c31d92871687045d943a46fb3"
+  },
+  {
+    "id": "page019.block15",
+    "page": 19,
+    "before": "not a suspect. They are the one pair of\n",
+    "after": "can still be checked: Max's location, and the ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "b1f9d3f1de94771b99c97d5708770ea6fc54e687e52383237e9580ba382ff1c7",
+    "target_sha256": "1feda0d0a09eaea35f3fb000661a4b4823c4cd4d0982f48978fb8e56f98725f2"
+  },
+  {
+    "id": "page019.block16",
+    "page": 19,
+    "before": "eyes that can answer the question the\n",
+    "after": "one person who shared that room.\n",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "d29018eeffd6d9a56c737601803deae3e60a8b28e76de2e60352bd4c8e121317",
+    "target_sha256": "b32c2f9ef66fad9fedc1ac44e64b68346025e1035b22ff54fa3018ab95428fa0"
+  },
+  {
+    "id": "page019.block17",
+    "page": 19,
+    "before": "paperwork cannot:\n",
+    "after": "\"Not a ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "9a3b57405a31c6a8aa7e0293e45c3aedbe2484aeacde8df2f1d99d18a0ec5a45",
+    "target_sha256": "d7d4e2771b082bda5d1b4aaf1629048735e5c75d5084a1360d53b3ea1dabbe44"
+  },
+  {
+    "id": "page019.block18",
+    "page": 19,
+    "before": "No return time. No signature. No\n",
+    "after": "suspect,\" Mimi says. \"Someone who ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "c91743288511eb15101f7c0a57dd8d9a3e55f76b3eb67fc42c1432dba48595dc",
+    "target_sha256": "b613192e60c4d0a11009fa68d33c4e0b9e9f4216b307f930c70a22ba017d5f98"
+  },
+  {
+    "id": "page019.block19",
+    "page": 19,
+    "before": "handoff.\n",
+    "after": "may ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "1d67f84b7e8f37809726385553325e24145a7937bdb1975a02bcdf22f300f4b8",
+    "target_sha256": "45306da393c491a48addb835d90e843d028b7fb64071bff75b91efae6fca0d5b"
+  },
+  {
+    "id": "page019.block20",
+    "page": 19,
+    "before": "Was the Cup already back during that\ncheckpoint - or did it return later, after\n",
+    "after": "have seen it.\"\n\nWas the Cup already back at that checkpoint, or ",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "7e111ece2d356fc7f10d6452c254aa0cac382f1835c846d9625d958d51179e37",
+    "target_sha256": "c0977bacd6f1ce488ded9d6509e65d4b82d37e3a590d290c36ca0ce3a1be6542"
+  },
+  {
+    "id": "page019.block21",
+    "page": 19,
+    "before": "the record went dark?\n",
+    "after": "did it return later?\n",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape.",
+    "before_sha256": "6b035ca0452a58f7c1e7d09c488e6449e8ac2daa1bea59baaa8e0e1fe4f8f71f",
+    "target_sha256": "eda5789ceb6294ef07b05c2c3a9db7442d8656c713bcc174d70d08b32795eef5"
+  },
+  {
+    "id": "page030.block03",
+    "page": 30,
+    "before": "Zuri's account gives Mimi enough to repair the evidence-box handoff and route the sealed box\nback to the Trace Lab.\n",
+    "after": "Zuri's account repairs the handoff. Mimi routes the sealed evidence box back to the Trace Lab and files the correction.\n\nDilo's ",
+    "issue": "CASE05_PACING: make the dormant-locker activation a visible event rather than a sequence of repeated explanations of ignorance.",
+    "before_sha256": "9ed28e64b4df62b1222f1d81008516899691a47b06a1705e54edbd3cbf37aabe",
+    "target_sha256": "c3a59a35dc0bf43700eff97f3b5909c5da94995ab71fc4bdf7b6fff989baa10a"
+  },
+  {
+    "id": "page030.block04",
+    "page": 30,
+    "before": "The moment she files the correction, Dilo's console flashes.\n",
+    "after": "console flashes.\n\nUnder the Case Table, a dormant locker has ",
+    "issue": "CASE05_PACING: make the dormant-locker activation a visible event rather than a sequence of repeated explanations of ignorance.",
+    "before_sha256": "9a3590b8eec067715dcd170b97cde5e805410f5d36d701ec76d044190824e956",
+    "target_sha256": "8cd6fff644edcedfb3d95245185d1833e485e21005d613927c977c9a6bbb3b7f"
+  },
+  {
+    "id": "page030.block05",
+    "page": 30,
+    "before": "A dormant locker beneath the Case Table has linked itself to the current Academy session.\n",
+    "after": "linked itself to the current Academy session. That has never happened before. Behind its six-symbol panel ",
+    "issue": "CASE05_PACING: make the dormant-locker activation a visible event rather than a sequence of repeated explanations of ignorance.",
+    "before_sha256": "9be03e8d36a175bdc2bb0f697763ca92fd9b8cc5e06b2c6a18cf6ce5bc1257fa",
+    "target_sha256": "51ad54d15944e80eecf2d8f906c46d6e3b12ace405bbbd1f35c6b5dfcfdf2ecb"
+  },
+  {
+    "id": "page030.block06",
+    "page": 30,
+    "before": "That has never happened before.\n",
+    "after": "is an old, sealed Academy envelope.\n\n",
+    "issue": "CASE05_PACING: make the dormant-locker activation a visible event rather than a sequence of repeated explanations of ignorance.",
+    "before_sha256": "8cff380667c2fc74a2ef985989cf22d26182dd161e6e10968e6b52cf0220fc8b",
+    "target_sha256": "d7aa53f0c4f7244bb32cbf4d4fb0cf58ea382ba161b1768fd0e9ec64ed9bfb7c"
+  },
+  {
+    "id": "page030.block07",
+    "page": 30,
+    "before": "Behind its six-symbol panel sits an old sealed Academy envelope.\n",
+    "after": "Dilo reads the screen twice. The locker has waited until ",
+    "issue": "CASE05_PACING: make the dormant-locker activation a visible event rather than a sequence of repeated explanations of ignorance.",
+    "before_sha256": "15b9ffe88076f6bfa6e3f4c5bc44a0b130a242df3d140fb374c88d405a7abb35",
+    "target_sha256": "9493034bf893c460c43c3d26fa4130b7f2501f79c9f2eb3ecdc0f18f14333350"
+  },
+  {
+    "id": "page030.block08",
+    "page": 30,
+    "before": "Nobody knows why the locker woke up.\n",
+    "after": "a verified case was filed. Nobody knows ",
+    "issue": "CASE05_PACING: make the dormant-locker activation a visible event rather than a sequence of repeated explanations of ignorance.",
+    "before_sha256": "bc6e0a3a1a8fecd5349f9545114506173a9d5c2577acc9e07a32b2017f9e1b40",
+    "target_sha256": "9c4adc4d53428b92132284c1b5da5fe2de843e9a87872a73a9028625b5a179e8"
+  },
+  {
+    "id": "page030.block09",
+    "page": 30,
+    "before": "Nobody knows why it waited for a verified case to be filed.\n",
+    "after": "why it has woken up, or what the envelope is doing there.\n\n",
+    "issue": "CASE05_PACING: make the dormant-locker activation a visible event rather than a sequence of repeated explanations of ignorance.",
+    "before_sha256": "1934426c2769eab575196fd6857525a0d101de6cf035c7b949397e1235ad39e4",
+    "target_sha256": "e114e69386b38d78a88e7a1a94218942c3ec9f30d8f43ba1465298b502cf17a7"
+  },
+  {
+    "id": "page030.block10",
+    "page": 30,
+    "before": "Dilo looks at the keypad.\n",
+    "after": "He looks at the keypad.\n",
+    "issue": "CASE05_PACING: make the dormant-locker activation a visible event rather than a sequence of repeated explanations of ignorance.",
+    "before_sha256": "29d1a563a1063ee18c918e07c641ae51e2929237a28eb3bc867dcfe7bf2415e3",
+    "target_sha256": "b1d7f36fa8e00180b60da4d4b99da4ee62196312de5ba58869d01502d17873b2"
+  },
+  {
+    "id": "page034.block16",
+    "page": 34,
+    "before": "Four marks. One incomplete route.\nOne machine with dramatic timing.\n",
+    "after": "Four marks. One incomplete route. Does this printer ever send anything straightforward?\n",
+    "issue": "SUPPORT_COMMS_REPEAT: setup must invite a human response rather than recite the pattern.",
+    "before_sha256": "b059fc7ef5f90fedf8a213220026820cba31dbce03d3c4fee002e93fd066ff3e",
+    "target_sha256": "5289e17e9cd870d77a488bc072a4e5df2f202418905dbbdaf8edbf66af73665b"
+  },
+  {
+    "id": "page034.block18",
+    "page": 34,
+    "before": "Pattern first. Explanation later.\n",
+    "after": "You'd complain if it did.\n",
+    "issue": "SUPPORT_COMMS_MORAL_END: replace procedural maxim with sibling payoff.",
+    "before_sha256": "1ae4c7c2536e06e43d6f0bf458c12494f13c35f4bcffa5e5b3a6b8d1da614a42",
+    "target_sha256": "0d944218d75cbc8b4d7ccfa3ecf6c01062356c6b1ddc02881c399eebfe8338dc"
+  },
+  {
+    "id": "page035.block06",
+    "page": 35,
+    "before": "Good. We still have room for a better\n",
+    "after": "Could it send something with a name? I'm running out of things to call ",
+    "issue": "SUPPORT_COMMS_RELATIONSHIP: Nini joins the family joke instead of grading an idea.",
+    "before_sha256": "952913cbe4259eab9ecb3ad3948a3df7f945d2032dfe5dc02b7cc5a92ee5759b",
+    "target_sha256": "a3d0c539df05e55de8d1fb3d0410b57fb5ff2433b0dd2863203abbfc81489bb5"
+  },
+  {
+    "id": "page035.block07",
+    "page": 35,
+    "before": "idea.\n",
+    "after": "'the thing'.\n",
+    "issue": "SUPPORT_COMMS_RELATIONSHIP: Nini joins the family joke instead of grading an idea.",
+    "before_sha256": "2f21cacc50be29570b27c2a323321c134227be39cc7f888aa5ce09ff86e38776",
+    "target_sha256": "a9469f682c417b371bb4c3a3690ca28c686384b84eb1548daa5cd2240add7819"
+  },
+  {
+    "id": "page035.block09",
+    "page": 35,
+    "before": "And now we have something worth\n",
+    "after": "I'll take these to the archive. If it asks for ",
+    "issue": "SUPPORT_COMMS_ACTION: Bibi has a concrete archive task and can answer the printer joke without supplying its meaning.",
+    "before_sha256": "054fbb0a64c385b51d017f12932f4fcd632997abf4b67ff2e2dfbf9f7a462f35",
+    "target_sha256": "712062ba260d049e03bfe0224ce17f1988730309ce40b39ec1055808cf3c67ea"
+  },
+  {
+    "id": "page035.block10",
+    "page": 35,
+    "before": "taking to the archive.\n",
+    "after": "me, tell it I'm checking its references.\n",
+    "issue": "SUPPORT_COMMS_ACTION: Bibi has a concrete archive task and can answer the printer joke without supplying its meaning.",
+    "before_sha256": "fb69be87387cce621e88d577e91a11f564c88dcaf110a3aa2e74182776b5b014",
+    "target_sha256": "fca54f5ae3e54b1b55ebb375b1b9c115c923b61cb68382ce825a46be97825b18"
+  },
+  {
+    "id": "page040.block05",
+    "page": 40,
+    "before": "By the end of the first stretch of cases, nobody asks whether you are coming with them\nanymore. Mimi just leaves space beside the next file. Real staff have asked for help, live\n",
+    "after": "By the end of the first stretch of cases, nobody asks whether you are coming with them anymore. Mimi just leaves space beside the next file. Real staff have asked for help. Your filed answers have woken part of an ",
+    "issue": "BRIDGE_OVERCLAIM: 'records it should not know about' suggests a watcher beyond observed system capability; retain ordinary reader belonging and the actual activation mystery.",
+    "before_sha256": "6d6bf5a04c5e3357672c73ebc5df8fe0c3c709e8551981a9e7e9b8b0cfe640ed",
+    "target_sha256": "36c3505c270e1bf6eb7a76cc24d82b14f5b4592cce39ef73a911998fb02a25de"
+  },
+  {
+    "id": "page040.block06",
+    "page": 40,
+    "before": "cases have arrived and an old system keeps touching records it should not know about.\n",
+    "after": "old Academy system. It still has not explained why.\n\nOn the Case Wall, four matching marks wait beside ",
+    "issue": "BRIDGE_OVERCLAIM: 'records it should not know about' suggests a watcher beyond observed system capability; retain ordinary reader belonging and the actual activation mystery.",
+    "before_sha256": "4835e7b012febcd18cade08619b4db45942b944367c8290e528d589454605283",
+    "target_sha256": "45ffff68aa39684f07e4a5cf2ef6a5229d9626f44229477d20ca8f683fda558c"
+  },
+  {
+    "id": "page040.block07",
+    "page": 40,
+    "before": "Now the team has a pattern - and no explanation yet.\n",
+    "after": "an incomplete route. And beside the next file, there is room for you.\n",
+    "issue": "BRIDGE_OVERCLAIM: 'records it should not know about' suggests a watcher beyond observed system capability; retain ordinary reader belonging and the actual activation mystery.",
+    "before_sha256": "dad1bc9dc1c9c8dea49399373b9437a8651383ed2544afe42169b89e1c1d922e",
+    "target_sha256": "279513e7ba5d15d50af52867360d2754022bb94329a16af6bd3a457087de5bd3"
+  },
+  {
+    "id": "page044.block03",
+    "page": 44,
+    "before": "Zoe's account gives the trainer a real time window. The moon costume is still missing.\n",
+    "after": "Zoe narrows the time when the moon costume went missing. She has not found ",
+    "issue": "CASE08_EARLY_ELIMINATION: the opener lists route eliminations before the task; show urgency and leave the actual choice with the reader.",
+    "before_sha256": "25fd3f28bface9bed012dcdc15a18b3a419d0d6255a334ecaf95a2c92419bd0f",
+    "target_sha256": "74c0941554604c03cfc1d5f46cec6172a55c2826337fde20a1bd15496404321a"
+  },
+  {
+    "id": "page044.block04",
+    "page": 44,
+    "before": "The rehearsal clock is running.\n",
+    "after": "the costume.\n\nThe rehearsal clock ",
+    "issue": "CASE08_EARLY_ELIMINATION: the opener lists route eliminations before the task; show urgency and leave the actual choice with the reader.",
+    "before_sha256": "12b98f39dcd7a98e3678d287947669dca3b7cbc9535c47c6db559c9fa4647126",
+    "target_sha256": "d7a1b2fecaadfdf0526fe18a49a16e9296f7cba6716bfc86b5d297d26baea690"
+  },
+  {
+    "id": "page044.block05",
+    "page": 44,
+    "before": "The prop room is on the far side of the Undercover Wing, and Alio has already drawn three\n\"faster\" routes to reach it.\n",
+    "after": "keeps running. The prop room is on the far side of the Undercover Wing, and Alio has drawn three routes to ",
+    "issue": "CASE08_EARLY_ELIMINATION: the opener lists route eliminations before the task; show urgency and leave the actual choice with the reader.",
+    "before_sha256": "a86c1ed139cc32bd31e2ec24b81c4d32d09dd791373ab95b86291355c04da5e1",
+    "target_sha256": "33726b1115c6a9b23b329e213fbd9c512c6ad8d461bca697c7f75d0013ca388b"
+  },
+  {
+    "id": "page044.block06",
+    "page": 44,
+    "before": "One runs into the closed Paint Corridor.\n",
+    "after": "reach it.\n\nThey look beautifully quick on ",
+    "issue": "CASE08_EARLY_ELIMINATION: the opener lists route eliminations before the task; show urgency and leave the actual choice with the reader.",
+    "before_sha256": "aab9b96946e31b065d29b3c2a1b982d28ae85b05b1053e91411f025604c8efb2",
+    "target_sha256": "7c1e99c6235a3bf933836bacef1351150f191b10aef2638410954c1a186f95c5"
+  },
+  {
+    "id": "page044.block07",
+    "page": 44,
+    "before": "One depends on the locked Staff Stairs.\n",
+    "after": "paper. Paper is less bothered by closed ",
+    "issue": "CASE08_EARLY_ELIMINATION: the opener lists route eliminations before the task; show urgency and leave the actual choice with the reader.",
+    "before_sha256": "3578995ccdfcb8aed2d3a2088df89d43e06e2ea0cee1a0c2438d72391403957a",
+    "target_sha256": "5552a9613f743df1f000107f5ad596e6cbb90f6209feac12b81fc3472f0074f6"
+  },
+  {
+    "id": "page044.block08",
+    "page": 44,
+    "before": "One might actually work.\n",
+    "after": "corridors and locked doors ",
+    "issue": "CASE08_EARLY_ELIMINATION: the opener lists route eliminations before the task; show urgency and leave the actual choice with the reader.",
+    "before_sha256": "57fb0388384aae45e1aab97f89bb083c31b4d0b7f3bf6ae773b3fae6d06313db",
+    "target_sha256": "6634630c0b2957727ea6e86921043d0afdb31c848c1dd8d972539508924ac9a5"
+  },
+  {
+    "id": "page044.block09",
+    "page": 44,
+    "before": "The team cannot check the prop room - or close the costume trail - until you find the route that\nsurvives the building.\n",
+    "after": "than people are.\n\nBefore anyone can check the prop room, you need a route that the team can actually use.\n",
+    "issue": "CASE08_EARLY_ELIMINATION: the opener lists route eliminations before the task; show urgency and leave the actual choice with the reader.",
+    "before_sha256": "9f6bc4b48321821fd685c70c916685bbf75c42c3773833f0e68c1ca33be45018",
+    "target_sha256": "0d996812769bffb6870ccbfab1c25c816dcdd16823a23586dbec9463a99b16d8"
+  },
+  {
+    "id": "page053.block03",
+    "page": 53,
+    "before": "Bibi disappears into the archive with the\ntrue 0 samples and leaves the rest of the\n",
+    "after": "Bibi goes into the archive with the true 0 samples.\n\"Records, not guesses,\" she ",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "ee2f7a9691e757c5af7861c59f79b2a245be5059b578654ff63d0956da510c40",
+    "target_sha256": "21836d10afef2bea276fc32b4741d73d2a99a892d36ee2b2ceaaf9a00d7836b0"
+  },
+  {
+    "id": "page053.block04",
+    "page": 53,
+    "before": "team with one instruction: \"Records, not\nguesses.\" Ten minutes later, the Academy\n",
+    "after": "reminds the team.\n\nTen minutes later, the Academy Science & Prototype ",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "99fff158bc64da123d871748f01c87956e8a8e937952956a9db6887fd23c10ba",
+    "target_sha256": "3c8a90eebd45ca7e7ac89e15473eb6ee4558a65376d87806ef5d26807972446a"
+  },
+  {
+    "id": "page053.block05",
+    "page": 53,
+    "before": "Science & Prototype Fair sends over a\nproblem that looks almost designed to\ntest her patience. A Tech Lab mentor rolls\n",
+    "after": "Fair sends over a problem with two perfectly respectable pieces of paper and one inconvenient robot.\n\nA Tech Lab ",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "5ab10f744bf74c086a0c0e791d0504e78bbadabfeeba7f55559f5e3541e88595",
+    "target_sha256": "b1eebb515cb3eeafb327f96bf1fc2c281e32f687522823057479b8fe4b9c4278"
+  },
+  {
+    "id": "page053.block06",
+    "page": 53,
+    "before": "a silver training rover up to the Case\nTable. Behind it come two students. Both\n",
+    "after": "mentor rolls a silver training rover up to the Case Table. Two students follow, ",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "0b1fb2b1a680f3119603d2977dca5c4aed312299f54086c7a32333f61976632a",
+    "target_sha256": "d2d426af945cb8640a34e20ce6e177b187f5330dd47031f03d41619b538339c4"
+  },
+  {
+    "id": "page053.block07",
+    "page": 53,
+    "before": "are carrying ownership sheets.\n",
+    "after": "each carrying an ownership ",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "8b72ae62f0bf9ecc10b0685a406e6e2f7aba38b1ca4811cd2ab1a4777d8e6821",
+    "target_sha256": "c516abb1fd30787affe883848a45b94274e1320281f203d89fa2aa12b72dbba3"
+  },
+  {
+    "id": "page053.block08",
+    "page": 53,
+    "before": "Both sheets look legitimate. Both list\nthe same rover. Dilo crouches beside\nthe machine. \"At least the robot seems\n",
+    "after": "sheet. Both sheets look legitimate. Both name the same rover.\n\nDilo crouches beside it.\n\"At least the ",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "8bcf63b4e47a3d1462819a787e9458eead7c60a9f5bbcc88bca7948d10e070e2",
+    "target_sha256": "8cf2d8901468858cba12f34427d17a7fa64b49f257f4aeacca8a9886d8143db9"
+  },
+  {
+    "id": "page053.block09",
+    "page": 53,
+    "before": "calm.\" The access log is less calm.\nDash is the last placement everyone\n",
+    "after": "robot seems calm.\"\n\nThe access log cannot settle which team had it ",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "3999b445f84f1b07edd42bce7e65fac3f07ef3005794c1c71fa5fcea33478520",
+    "target_sha256": "03d4bd849b51f9ff3e7d4c77c36d3aa5d534b717df83b481f3c060ff50322ad9"
+  },
+  {
+    "id": "page053.block10",
+    "page": 53,
+    "before": "agrees on. Rebuild his area and the\n",
+    "after": "during the disputed window. Dash's location is ",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "3192157ea1c92bf752d2d3f8643fd4b05ae79bcb27f044ccdd116feed897b4ad",
+    "target_sha256": "6e3fc85f9e9746825863dfab000bc117106697760284b9ccdb7408ed2ed336c2"
+  },
+  {
+    "id": "page053.block11",
+    "page": 53,
+    "before": "team gets the human overlap the\nsystem log is missing - someone who\n",
+    "after": "the last part everyone agrees on. Find the person who shared his ",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "bb11d7836a214e05c5982d55c4bf0cc55d1b30f771fb5fff8a0744f065305969",
+    "target_sha256": "443e74e0e018c3b18696dbe1bc45d832f5f1fdb4711fb17cec7ae2d0d392d491"
+  },
+  {
+    "id": "page053.block12",
+    "page": 53,
+    "before": "can say which team actually had\naccess when one rover somehow\n",
+    "after": "area, and the team will have someone to ask what ",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "3c5fa29d6d96bdf3a7e79de264e86a05bbe3c4f0c985184835729ccaff2d5888",
+    "target_sha256": "c97da441a7cb7f89b3d7c9aabe41c96b74ef0674bd8608df00c9ad5b6d70e380"
+  },
+  {
+    "id": "page053.block13",
+    "page": 53,
+    "before": "became two ownership records.\n",
+    "after": "happened around the rover.\n",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question.",
+    "before_sha256": "49b97ddde9f61e692ae4709b3b2acb8f18fd5fb073fcc16fe94199c0f6b495c2",
+    "target_sha256": "da5def0593d1bb7af4f43065d0028706a37c9de5ee6fb4b655d41aa1d44b967a"
+  },
+  {
+    "id": "page060.block08",
+    "page": 60,
+    "before": "Winter is the one handler the rehearsal record places with certainty. Find the one other person\nin Winter's mapped area: that gives the team a grounded\nplace to start asking where those four words came from.\n",
+    "after": "The rehearsal record puts Winter in one definite area. Who else was there? Find Winter's companion, and Nini will have someone to ask who won't answer every question with a snack request.\n",
+    "issue": "CASE12_FORMULA: the handler query should sound like this bird interview, not another abstract last-reliable-placement explanation.",
+    "before_sha256": "071f902b0f07f5fde24b372a82590ee3fdd873de8bd2d5e8d3615c558fb89ee2",
+    "target_sha256": "d3132cfb2b9177e55b2bb68311ed746e44705e042e19f9dc7f7131018c39041d"
+  },
+  {
+    "id": "page068.block04",
+    "page": 68,
+    "before": "The camera was moved after the 4:17 frame during cleanup. It did not move itself, and nobody\nneeds Alio's fox-with-pockets theory.\n",
+    "after": "The camera was moved during cleanup, after the 4:17 frame. It did not move itself.\n\nMimi is still ",
+    "issue": "CASE14_TRANSITION: retain the memory theme and coordinator's trigger without a narrator's 'more useful' evaluation.",
+    "before_sha256": "12b2411c1aca82de4aae8e0195c46d9275b81417c2a0ffc61d4d36671194848a",
+    "target_sha256": "ed4ef96ac0a4e340880ecb9263d180c0a8eeb6d76094250ac51a7f67c1de803b"
+  },
+  {
+    "id": "page068.block05",
+    "page": 68,
+    "before": "What stays with Mimi is something more useful: two people remembered the same few\nminutes differently.\n",
+    "after": "thinking about the two people who remembered those few minutes differently. Back at the ",
+    "issue": "CASE14_TRANSITION: retain the memory theme and coordinator's trigger without a narrator's 'more useful' evaluation.",
+    "before_sha256": "6c2d2c912ec3a537465fd3d573ca89bbaee0eae7b9cb88dc9690354bc6216100",
+    "target_sha256": "55b1b59404c48507cb2f58cf29ad85e1061541fd43cf0966449640dc81837579"
+  },
+  {
+    "id": "page068.block06",
+    "page": 68,
+    "before": "Back at the Academy the following morning, the Scenario Theater coordinator overhears that\nconversation and drops four rehearsal statements onto the Case Table.\n",
+    "after": "Academy the following morning, the Scenario Theater coordinator overhears the discussion and puts four rehearsal statements on the Case Table.\n",
+    "issue": "CASE14_TRANSITION: retain the memory theme and coordinator's trigger without a narrator's 'more useful' evaluation.",
+    "before_sha256": "7f27073573a427f0613e74fdb5802c67e0d44597b8ff6a0af3391f889441d278",
+    "target_sha256": "3830786220bdbcc1e3942a9ba21db4cdeadfaa5cd52d0cb714b086ab06323d7e"
+  },
+  {
+    "id": "page072.block09",
+    "page": 72,
+    "before": "Milo is the cleanest fixed point in the departure record. His room companion saw one of the\nbags before helpfulness became a chain reaction.\n",
+    "after": "Milo's location is certain. One person shared his room and saw a backpack before all the helpful swapping began. Find that person, and the team can untangle who moved what.\n",
+    "issue": "CASE15_FORMULA: make the witness's actual value clear through the existing bag-swap situation.",
+    "before_sha256": "4dca6177fcbec226b3ab2714811aff07cda1f30fe2824d3463cc5ded8dad3afc",
+    "target_sha256": "7db9274df508e4c8878afd1486e267200b8c7bc2610e0d2a5391a420da7a0433"
+  },
+  {
+    "id": "page082.block15",
+    "page": 82,
+    "before": "Reed is the last reliable point in the station trail. Rebuild his area and find the person who can\ntell the team where the ticket went next - and whether anyone meant to pass it on at all.\n",
+    "after": "The station record fixes Reed's location. It also puts one person in that area with him. The ticket cannot tell you where it went next, or whether it was passed on deliberately. That person might.\n",
+    "issue": "CASE17_FORMULA: use the physical ticket question instead of another last-reliable-point paragraph.",
+    "before_sha256": "d7562ab600bf6b3826f0b4eca5cb68cbf407311f2cb536ca63f6bbbe285b3998",
+    "target_sha256": "a422f39d3518f47611496f48be9a6f5f6204b387995a2ab50b92143be59a640b"
+  },
+  {
+    "id": "page090.block15",
+    "page": 90,
+    "before": "Sasha is fixed on the scanner log. Rebuild her area and the team gets the physical side of a\ndigital mystery: someone who can say whether the scanner was used, bumped, tested - or\nsimply produced a checkout nobody made.\n",
+    "after": "The log puts Sasha in one known location. Find the one person who shared that area. The librarian has a screen full of checkout data; what the file needs is someone who saw what happened beside the scanner.\n",
+    "issue": "CASE19_FORMULA: reduce physical-side-of-digital-mystery abstraction; keep log and eyewitness roles distinct.",
+    "before_sha256": "294c2bca0fdaf04806f5ba0a1ac30e8217cb844df95fc0fc7219114fbd63202a",
+    "target_sha256": "59d5ef4b7a5c1499324356d56252242bc02a3f91548227fe8f9fb44ad759fd0b"
+  },
+  {
+    "id": "page103.block05",
+    "page": 103,
+    "before": "For the first time, Room Zero has given you an instruction instead of another pattern. It\nhas not bothered to explain how to use it. Nini slides the growing stack of solved maps\ninto your reach. Nobody asks whether you are keeping them anymore. Of course you are.\nSo the squad keeps working the real cases that arrive - and keeps every record that might\n",
+    "after": "The repaired note gives you more to work with than RULE 0 FIRST. It still refuses to say what to look at. Nini slides the growing stack of solved maps into your reach. Nobody asks whether you're keeping them anymore. Of course you are. If the old route wants something examined, you have a table full of evidence ready for it. Meanwhile, real cases ",
+    "issue": "FIRST_INSTRUCTION_CONTINUITY: RULE 0 FIRST was already an instruction at80; qualify the fuller note and keep the reader's saved maps in the foreground.",
+    "before_sha256": "83086e7c1d22d14d5f515ccf8b3b2ecc531a594ab502cd15a6a2ce934dda0996",
+    "target_sha256": "b7d89411a175d2cb45dad62ce991d6388d8d14fbccd0188733783fb8149c7e7b"
+  },
+  {
+    "id": "page103.block06",
+    "page": 103,
+    "before": "matter later.\n",
+    "after": "keep arriving.\n",
+    "issue": "FIRST_INSTRUCTION_CONTINUITY: RULE 0 FIRST was already an instruction at80; qualify the fuller note and keep the reader's saved maps in the foreground.",
+    "before_sha256": "fb7a46e60df8d2f6f62227cefce742dfcd962d84f916b209984e05e3a64c66c9",
+    "target_sha256": "3bb1d3447f79be59ba6b51db0393aaf852bda574c977ba763632cc0397ff1348"
+  },
+  {
+    "id": "page104.block03",
+    "page": 104,
+    "before": "By morning, the repaired note is safe on the Case Wall.\nAt Sound Lab, the shelves ",
+    "after": "By morning, the repaired note is safe on the Case Wall. At Sound Lab, at least one problem ",
+    "issue": "CASE22_LOCAL_VOICE: another handoff query needs its own shelf/contents problem and natural reader-facing handoff.",
+    "before_sha256": "149cc942851e1f371085e939e3bd36eee854bdfcc9afde9d07d509be05399ea6",
+    "target_sha256": "a9d4cf8484b2fbe5b544b304cc59f7fa73350fc01ce4d0283cafa86acac1aa9e"
+  },
+  {
+    "id": "page104.block04",
+    "page": 104,
+    "before": "need their proper ",
+    "after": "can be put back ",
+    "issue": "CASE22_LOCAL_VOICE: another handoff query needs its own shelf/contents problem and natural reader-facing handoff.",
+    "before_sha256": "a33e792f2d64b2fa0fb47fe82cc0c44c988b35dda3550dd8048ff19abe39985f",
+    "target_sha256": "aab1d880d41206952c8b0bd90112772c5afc21c2d5f66c4ff9d46ed80a53f547"
+  },
+  {
+    "id": "page104.block05",
+    "page": 104,
+    "before": "contents back.\nThree nearly identical instrument cases have been returned to the wrong ",
+    "after": "on a shelf.\n\nThree nearly identical instrument cases have been returned to the wrong ",
+    "issue": "CASE22_LOCAL_VOICE: another handoff query needs its own shelf/contents problem and natural reader-facing handoff.",
+    "before_sha256": "622ca1761fd54bb9d5c63bebc64a8edf17f06cf2cfd8024b002b393c38ce7cc3",
+    "target_sha256": "506d5953e390e9140f48639542e1a2d78a9c4dd027bfcae5f432c15c01426a38"
+  },
+  {
+    "id": "page104.block06",
+    "page": 104,
+    "before": "shelves after\nrehearsal.\nZara is the last reliable placement before the shelves ",
+    "after": "shelves after rehearsal. Zara's location is the last certain point before the mix-up. ",
+    "issue": "CASE22_LOCAL_VOICE: another handoff query needs its own shelf/contents problem and natural reader-facing handoff.",
+    "before_sha256": "8eb50ac82ec6e9025b07131371db93314d814aa23b0b01dfebe93a52606770e1",
+    "target_sha256": "6fea4e9dddcd4ed51611603f6f1e08a42412ea49ef34005ae5f8bad638771170"
+  },
+  {
+    "id": "page104.block07",
+    "page": 104,
+    "before": "changed.\nHer room companion saw the cases before the ",
+    "after": "One person shared her room and saw the cases before ",
+    "issue": "CASE22_LOCAL_VOICE: another handoff query needs its own shelf/contents problem and natural reader-facing handoff.",
+    "before_sha256": "c3c7f34520a69170fa1b1a09102976803b5338fc19a75b5c67357253598c3bd3",
+    "target_sha256": "1f6df9809df49e6da61b760eab416e093662309fceb50ba38cb88f67bb167369"
+  },
+  {
+    "id": "page104.block08",
+    "page": 104,
+    "before": "mix-up. Find that person so Sound Lab has one\nclean witness to the original shelf order - and keep the complete map.\nMimi brings the file within ",
+    "after": "they were moved.\n\nFind that person so Sound Lab can check the original shelf order. Keep the complete map too.\n\nMimi turns the file so you can read it.\n",
+    "issue": "CASE22_LOCAL_VOICE: another handoff query needs its own shelf/contents problem and natural reader-facing handoff.",
+    "before_sha256": "c0c2fefec6d60f1b6817974024d4c3d6a2053855ca56778856abbf7a47cde1a0",
+    "target_sha256": "a89da1dbbdd36dd71ae31e0c9caa7ac1edc2bd0c38f7bb23df3d3b6dda77490f"
+  },
+  {
+    "id": "page104.block09",
+    "page": 104,
+    "before": "your reach. \"Let us put these ",
+    "after": "\"Shall we start with where they were ",
+    "issue": "CASE22_LOCAL_VOICE: another handoff query needs its own shelf/contents problem and natural reader-facing handoff.",
+    "before_sha256": "4e9af58f72461ca7f33368d4920b1f5251faa211e95e6ab18d323f94e2ade194",
+    "target_sha256": "0e30c58b1beba7dca8622ca09ba06cd7ef7120d19c0a290a2704edad62d5ced8"
+  },
+  {
+    "id": "page104.block10",
+    "page": 104,
+    "before": "back properly.\"\n",
+    "after": "meant to be?\"\n",
+    "issue": "CASE22_LOCAL_VOICE: another handoff query needs its own shelf/contents problem and natural reader-facing handoff.",
+    "before_sha256": "7b39e6dae877626c6b7ca69345d64840548e0368b50596357b259b1b043fedfc",
+    "target_sha256": "1764cd549376bee66dfecf364edced5fe03ee0d55779bfbc1dd5c479d4d629e4"
+  },
+  {
+    "id": "page108.block14",
+    "page": 108,
+    "before": "Dilo checks the arcade scoreboard.\n",
+    "after": "Dilo glances at the arcade ",
+    "issue": "CASE23_DUPLICATE_JOKE: one visual setup here; deliver the full scoreboard exchange at109.",
+    "before_sha256": "23d1c6f1154a9524579cbba6fb71a08fe70c955f0c70d29a876d59c9956dcb26",
+    "target_sha256": "4f4281ed796e83762c248e80cd7c0a0bcec4fce5e6b295c290341510968e14b6"
+  },
+  {
+    "id": "page108.block15",
+    "page": 108,
+    "before": "\"Unrelated,\" Luli says.\n",
+    "after": "scoreboard. Luli opens ",
+    "issue": "CASE23_DUPLICATE_JOKE: one visual setup here; deliver the full scoreboard exchange at109.",
+    "before_sha256": "2bac40703d5331036d220878cf86e3087b25042a2fc48136cf330fe9dea169fc",
+    "target_sha256": "1fd5115794fa99633d329270e783d8965e2d632eced842c6246abd5895ee4eef"
+  },
+  {
+    "id": "page108.block16",
+    "page": 108,
+    "before": "\"I haven't said anything.\"\n",
+    "after": "the wristband file where ",
+    "issue": "CASE23_DUPLICATE_JOKE: one visual setup here; deliver the full scoreboard exchange at109.",
+    "before_sha256": "85a24cba50cef1efba1ecd05352c0c859012663fe2992527730a076d3117126a",
+    "target_sha256": "9049bc0491974f057a47ea9f0f34be0b3c02dbb32cf1ce3c82a8c4b0ba0de925"
+  },
+  {
+    "id": "page108.block17",
+    "page": 108,
+    "before": "\"You were about to.\"\n",
+    "after": "he can see it.\n",
+    "issue": "CASE23_DUPLICATE_JOKE: one visual setup here; deliver the full scoreboard exchange at109.",
+    "before_sha256": "aaedb17994aea72ec25fb7aa88b900f6a423aac5938ffc71d38bbd658f4f60d8",
+    "target_sha256": "f3db48f868c0df6764972ceac6722c48f35fd6c8bc76f405f890ef66043e6343"
+  },
+  {
+    "id": "page116.block03",
+    "page": 116,
+    "before": "The muddy trail ends at the West Gate with no backwards walker and one useful reminder: the\nloudest-looking clue is not always the one that matters.\n",
+    "after": "The trail ends at the West Gate. Nobody walked backwards. Alio puts a small question mark beside the tread arrow on his tracking sheet. It was very sure of itself for something that pointed the wrong way.\n",
+    "issue": "CASE24_MORAL_TAIL: carry Alio's observation into a human image instead of spelling out a general reminder.",
+    "before_sha256": "74bc1ff1abd4166d97bf54069400ef122a169205e2415423929cf200ca44cfbd",
+    "target_sha256": "25f268bee85e0ad8f7e8adcc9603cd2f315c18f04a9f0ceaca37ebe3728dd2ed"
+  },
+  {
+    "id": "page116.block11",
+    "page": 116,
+    "before": "Bibi reads the return label twice.\n",
+    "after": "Bibi reads ARCHIVE RESTORATION twice.\n\"If it belongs ",
+    "issue": "CASE25_WITHHELD_THOUGHT: Bibi should share the ordinary question raised by the visible label, not imply she is withholding an answer.",
+    "before_sha256": "129184d5d4c244490f26eae22332e742e5d99462a8fbc72de471ceb4af2b92ce",
+    "target_sha256": "011e435a3964c5b5c897f29300a6033afae715ae6e105bbe9aad709bd48b93a5"
+  },
+  {
+    "id": "page116.block12",
+    "page": 116,
+    "before": "This time, she does not say what she is thinking.\n",
+    "after": "in the archive, let's find out who was meant to receive it.\"\n",
+    "issue": "CASE25_WITHHELD_THOUGHT: Bibi should share the ordinary question raised by the visible label, not imply she is withholding an answer.",
+    "before_sha256": "4c818d22cba4205ae5901dc4b5a4b2531e4f17803d5d798c0f9bdc3b77a9620a",
+    "target_sha256": "c3ad4cd0f1eca4b6265b36f2c50ff96c2c2118088ab50b7e96aa210ad3f85b7c"
+  },
+  {
+    "id": "page120.block16",
+    "page": 120,
+    "before": "Same evidence. Very different methodology.\nAnd the parcel finally delivered something\nuseful instead of confusion.\n",
+    "after": "Two reasons to keep the maps. Yours is very you.\nUseful evidence and an excellent stack. Let him have both.\n",
+    "issue": "BRIDGE_COMMS_WARMTH: replace methodology verdict with sibling recognition and Bibi backing Dilo's useful filing.",
+    "before_sha256": "bb785c4d147ba7eedd26e4de59b5538a873ef5e42769ea344ba87e177ed3931f",
+    "target_sha256": "86002949c716e5df63081f8f8b146a6a1e895ab3b901ec4ed12570a33d8ead56"
+  },
+  {
+    "id": "page120.block17",
+    "page": 120,
+    "before": "The Case Wall is finally earning its wall space.\n",
+    "after": "Then let me have some table. My elbow has become a paperweight.\n",
+    "issue": "BRIDGE_COMMS_PAYOFF: end at the crowded family table, rather than a general wall-space observation.",
+    "before_sha256": "c450e4bb1a9c277fe32a2b3dadbf04b506e47764149e9644a08a15a3545e5744",
+    "target_sha256": "7ddb5787a2402cbcb01670edf83f7eabdfdbd3a0b60adf39954cb014b75d4332"
+  },
+  {
+    "id": "page128.block07",
+    "page": 128,
+    "before": "On the old-plan margin is a second instruction:\n",
+    "after": "The old plan has its own instruction in the margin:\n",
+    "issue": "INSTRUCTION_COUNT: the margin is another instruction, not literally the second after both photograph and torn note.",
+    "before_sha256": "8930e6729706bf44de975ab87b3ae4fe62fb22f80cda81e606a215d9f16d630c",
+    "target_sha256": "6095bfa76443b4470a10f428921a41c0052e991e5be7a6458e1238f35b402bfb"
+  },
+  {
+    "id": "page128.block13",
+    "page": 128,
+    "before": "This close to the end, one exciting assumption could send all this careful work in the wrong direction.\n",
+    "after": "Mimi puts the old plan beside the tracking-yard file. The wall can wait until the team has checked what it thinks it knows.\n",
+    "issue": "CASE28_MORAL_TAIL: use the already-open evidence files and waiting wall to embody the need to test the exciting idea.",
+    "before_sha256": "017644fd8c119c5f19de2848ac7fd7db92d8a5858f80a45723f6b4e3c6b85d96",
+    "target_sha256": "9c239b4c02901a819782c34b20262c155558e4097d16d350a2c3f3694a7671f7"
+  },
+  {
+    "id": "page140.block08",
+    "page": 140,
+    "before": "\"Evidence first.\"\n",
+    "after": "\"Not yet.\"\n",
+    "issue": "VICTORY_NOISE_CALLBACK: a simple family signal pays off the pending noise without restating the book's maxim at the reveal.",
+    "before_sha256": "2e6a676dd5512a7b9464178f30efe7ad7415135210e3e65ce74850baa362f965",
+    "target_sha256": "3a4acb8299e42c76330d1923b6ddb4018932e2c6952275d4d0b4ef10b1a00fa7"
+  },
+  {
+    "id": "page141.block16",
+    "page": 141,
+    "before": "The cases were real. The old route could flag\na current record that matched one of its\nunfinished training steps, then reopen\narchived material when a verified step\nunlocked it.\n",
+    "after": "The cases were real. The route could match a current case record to an unfinished training step. When we verified that step, it could reopen the archive material for the next one.\n",
+    "issue": "FINALE_MECHANISM_CLARITY: retain real cases, matching and conditional archive reopening in shorter natural clauses.",
+    "before_sha256": "79e61dd92c484e63d3bc042dd039a9d1bfab1bf23c7c3a528eaddf634bd8305d",
+    "target_sha256": "cac8f66497efd4803fa13f48f7cb2732fa2a7f4fcce68b06fda8dac1b4744a9d"
+  },
+  {
+    "id": "page143.block09",
+    "page": 143,
+    "before": "Only you could earn the place.\n",
+    "after": "Only you could earn the field badge.\n",
+    "issue": "BELONGING_VS_CERTIFICATION: what the work earns is the field badge; the reader already has a place at the family table.",
+    "before_sha256": "e666566edb8358b1d7baac3aa02acb2396d97fbba12d5a38cf03d6c0831f3c18",
+    "target_sha256": "7ca55ee795f0e3f0a5439108e6cce5a656f1560aef5e032cd872979150d737be"
+  },
+  {
+    "id": "page143.block21",
+    "page": 143,
+    "before": "But nobody could fill it for you.\n",
+    "after": "And you have the evidence to fill it.\n",
+    "issue": "FINALE_REPEATED_NEGATION: recognition of the reader's retained evidence replaces a third statement that nobody can fill the place for them.",
+    "before_sha256": "057028e1002b836f74c39a6b0289410493310e7e8cc7c491d3907c6ee086b540",
+    "target_sha256": "8c57a0c738f0825f9d63c957147d98e82cdddc36098f9614853d0846ca9a82d8"
+  },
+  {
+    "id": "page144.block04",
+    "page": 144,
+    "before": "“There was a place waiting,” she says. “But the Academy could not fill it for you.”\n",
+    "after": "\"For your field badge,\" Bibi says, keeping the hook turned towards you.\n",
+    "issue": "FINALE_HUMAN_BEAT: keep the empty hook visible instead of explaining the invitation again.",
+    "before_sha256": "c500920b8c2847e043cefe6d8427f480eb55a116784ba024732f0fd5c41e91bb",
+    "target_sha256": "9c2b0acf03cb250acf1529ae45df97070a345c82d57427698a51cdbe2714767e"
+  },
+  {
+    "id": "page144.block06",
+    "page": 144,
+    "before": "“You did that part.”\n",
+    "after": "\"We saved the hook. You did the work.\"\n",
+    "issue": "FINALE_PAYOFF: warm, concrete acknowledgement of reader work and the place the family kept.",
+    "before_sha256": "5ed59720e5b2078235f54efb7537e7991c3d0dc04d659e2b3b21752f6e0dd0c4",
+    "target_sha256": "0e8621f7ffc43084dd29737ca899969e7b157d48cc61346dbac530abca7379b7"
+  },
+  {
+    "id": "page108.block13",
+    "page": 108,
+    "before": "Jude is the last place where a person and a location still line up in the log. Solve that area and\nhis companion becomes the anchor point the desk needs before the wristband trails split in\ntwo directions.\n",
+    "after": "The log fixes Jude's location. One other person shared that area. Find them so the return desk can ask where the two wristband trails crossed.\n",
+    "issue": "R1_NATIVE_MEANING: Jude is a person, not a place; make known location, companion and next witness question concrete.",
+    "before_sha256": "a95d69f5128c0be916c00866a3478e3f0af45a7c96d8b72b0f67a4e54000cf33",
+    "target_sha256": "b8a95247c6301d2d63aa5790e0b73cb581b6d9d10d8a6514a8c318741ed9f916"
+  },
+  {
+    "id": "page212.block12",
+    "page": 212,
+    "before": "For the first time, the larger mystery gives the team an instruction instead of another pattern to notice.\n",
+    "after": "The repaired note gives the team a fuller instruction than RULE 0 FIRST. They still need to work out what it asks them to examine.\n",
+    "issue": "R1_CHRONOLOGY: the earlier photograph already carried RULE 0 FIRST. This nonmechanic summary must call the repaired note a fuller instruction; all answer and physical-join text remains exact.",
+    "before_sha256": "2cf75f1b8c7cb1c889f93cf8532da91c1a6156cb24fa05cacc30ab360a43b9f5",
+    "target_sha256": "4187c0ef10c1a58d0e48abd8681bd50e2a469b51a5802de5737e14340c9e52d3"
+  }
+]

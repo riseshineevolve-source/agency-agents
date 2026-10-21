@@ -1,0 +1,22 @@
+{
+  "reviewer": "root: actual visual inspection",
+  "status": "PASS",
+  "comparison_pdf_sha256": "4483f5234e563e22215d0d24c0f7e23f28d67e5c09a1cfc0c54bd005c328910a",
+  "scope": "All34pages in six updated contact sheets; cover and denseCase06 in fullsize; all30scene versions also verified by495speech-stringroundtripchecks.",
+  "images_seen": [
+    "proof/contact-sheets/compare-01.png",
+    "proof/contact-sheets/compare-02.png",
+    "proof/contact-sheets/compare-03.png",
+    "proof/contact-sheets/compare-04.png",
+    "proof/contact-sheets/compare-05.png",
+    "proof/contact-sheets/compare-06.png",
+    "proof/renders/compare-01.png",
+    "proof/renders/compare-07.png"
+  ],
+  "findings": [
+    "Three columns stay aligned and legible; consistent speaker labels and heading/footer spacing.",
+    "No clipped turns, overlapping columns, missing glyphs or footer collisions seen.",
+    "Source/V6/V7labels, per-scene counts and golden-keep labels match the audit."
+  ],
+  "print_ready": false
+}

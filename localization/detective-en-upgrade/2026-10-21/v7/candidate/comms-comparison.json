@@ -1,0 +1,2236 @@
+{
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "scenes": [
+    {
+      "case": 1,
+      "source_folio": 16,
+      "turns": [
+        {
+          "speaker": "MIMI",
+          "source_text": "Internal stock. Good. We start with what we can prove.",
+          "v6_text": "Internal stock. Good. We start with what we can prove.",
+          "ids": [
+            "page016.block04"
+          ],
+          "changed": false,
+          "v7_text": "Internal stock. No courier. Let's find who was at Delivery.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Or we investigate my leading theory: a secret tunnel and a mini van delivery. Very efficient. Very suspicious.",
+          "v6_text": "My leading theory has a secret tunnel and a minivan. No evidence yet. I will put a question mark beside it.",
+          "ids": [
+            "page016.block04"
+          ],
+          "changed": true,
+          "v7_text": "My theory has a secret tunnel and a minivan.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "A tunnel, a minivan, and zero evidence. Impressive start, Alio.",
+          "v6_text": "A good place for the question mark, Alio.",
+          "ids": [
+            "page016.block04"
+          ],
+          "changed": true,
+          "v7_text": "Does it have any evidence?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Let's park the minivan for a minute and follow the facts first.",
+          "v6_text": "A small one. We need room for the facts.",
+          "ids": [
+            "page016.block04"
+          ],
+          "changed": true,
+          "v7_text": "Not yet. I've drawn it a question mark to park beside.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Agreed. If the tunnel appears later, I'll happily upgrade the theory.",
+          "v6_text": "If a tunnel turns up later, you can have the whole margin.",
+          "ids": [
+            "page016.block04"
+          ],
+          "changed": true,
+          "v7_text": "Good. The minivan was blocking my notes.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 2,
+      "source_folio": 19,
+      "turns": [
+        {
+          "speaker": "ALIO",
+          "source_text": "The Cup has returned itself with suspiciously good posture.",
+          "v6_text": "The Cup has returned itself with suspiciously good posture.",
+          "ids": [
+            "page019.block23",
+            "page019.block24"
+          ],
+          "speaker_id": "page019.block22",
+          "changed": false,
+          "v7_text": "The Cup has returned itself with suspiciously good posture.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "The Cup is not suspicious.",
+          "v6_text": "The Cup is not suspicious.",
+          "ids": [
+            "page019.block26",
+            "page019.block27"
+          ],
+          "speaker_id": "page019.block25",
+          "changed": false,
+          "v7_text": "The Cup is not suspicious.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Its paperwork is.",
+          "v6_text": "Its paperwork is.",
+          "ids": [
+            "page019.block29"
+          ],
+          "speaker_id": "page019.block28",
+          "changed": false,
+          "v7_text": "Its paperwork is.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "Better. Investigate the missing handoff, not the trophy's personality.",
+          "v6_text": "Better. Investigate the missing handoff, not the trophy's personality.",
+          "ids": [
+            "page019.block31",
+            "page019.block32",
+            "page019.block33"
+          ],
+          "speaker_id": "page019.block30",
+          "changed": false,
+          "v7_text": "Can its excellent posture tell us who brought it back?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "That may be Alio's fastest promotion from theory to useful question.",
+          "v6_text": "I liked the posture theory. But I am writing down the useful question.",
+          "ids": [
+            "page019.block35",
+            "page019.block36",
+            "page019.block37"
+          ],
+          "speaker_id": "page019.block34",
+          "changed": true,
+          "v7_text": "You take the map, Detective. I'll watch the extremely well-behaved Cup.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 3,
+      "source_folio": 23,
+      "turns": [
+        {
+          "speaker": "NINI",
+          "source_text": "The trophy shelf is trying very hard to look important.",
+          "v6_text": "I have found a sparkle. I am calling it Inspector Glitter.",
+          "ids": [
+            "page023.block05"
+          ],
+          "speaker_id": "page023.block04",
+          "changed": true,
+          "v7_text": "I have found a sparkle. I am calling it Inspector Glitter.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "It is a trophy shelf.",
+          "v6_text": "Does Inspector Glitter show a difference between the photographs?",
+          "ids": [
+            "page023.block07"
+          ],
+          "speaker_id": "page023.block06",
+          "changed": true,
+          "v7_text": "Has Inspector Glitter actually found a difference?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "So we compare everything and trust nothing glamorous.",
+          "v6_text": "Not yet. I may have promoted it too soon.",
+          "ids": [
+            "page023.block09"
+          ],
+          "speaker_id": "page023.block08",
+          "changed": true,
+          "v7_text": "Not yet. Mostly sparkling.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "A harsh day for shiny objects.",
+          "v6_text": "A difficult first day.",
+          "ids": [
+            "page023.block11"
+          ],
+          "speaker_id": "page023.block10",
+          "changed": true,
+          "v7_text": "Should I be worried about my job?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "A normal day for evidence.",
+          "v6_text": "Inspector Glitter can sit with you. We still need all ten differences.",
+          "ids": [
+            "page023.block13"
+          ],
+          "speaker_id": "page023.block12",
+          "changed": true,
+          "v7_text": "Only if you start shedding glitter. Pass me Photo B.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 4,
+      "source_folio": 27,
+      "turns": [
+        {
+          "speaker": "DILO",
+          "source_text": "It is a very suspicious black box.",
+          "v6_text": "It is a very suspicious black box.",
+          "ids": [
+            "page027.block19",
+            "page027.block20"
+          ],
+          "speaker_id": "page027.block18",
+          "changed": false,
+          "v7_text": "I'm watching the box for suspicious movements.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "It is a labeled evidence box.",
+          "v6_text": "It is a labeled evidence box.",
+          "ids": [
+            "page027.block22"
+          ],
+          "speaker_id": "page027.block21",
+          "changed": false,
+          "v7_text": "It's an evidence box, Dilo.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Exactly. Suspicion with paperwork.",
+          "v6_text": "Exactly. Suspicion with paperwork.",
+          "ids": [
+            "page027.block24",
+            "page027.block25"
+          ],
+          "speaker_id": "page027.block23",
+          "changed": false,
+          "v7_text": "And so far, very convincing.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Please do not interrogate the box before the people.",
+          "v6_text": "Please do not interrogate the box before the people.",
+          "ids": [
+            "page027.block27",
+            "page027.block28",
+            "page027.block29"
+          ],
+          "speaker_id": "page027.block26",
+          "changed": false,
+          "v7_text": "If it moves, we can all be impressed. Who carried it?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "May I stare at it professionally?",
+          "v6_text": "May I stare at it professionally?",
+          "ids": [
+            "page027.block31",
+            "page027.block32"
+          ],
+          "speaker_id": "page027.block30",
+          "changed": false,
+          "v7_text": "I can make it blink first.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "You have been doing that for a full minute.",
+          "v6_text": "You have been doing that for a full minute.",
+          "ids": [
+            "page027.block34",
+            "page027.block35"
+          ],
+          "speaker_id": "page027.block33",
+          "changed": false,
+          "v7_text": "If you manage that, I'm giving the box your helmet.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 5,
+      "source_folio": 31,
+      "turns": [
+        {
+          "speaker": "DILO",
+          "source_text": "I challenge you to beat my locker.",
+          "v6_text": "I challenge you to beat my locker.",
+          "ids": [
+            "page031.block05"
+          ],
+          "speaker_id": "page031.block04",
+          "changed": false,
+          "v7_text": "I challenge you to beat my locker.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Does it know this is a competition?",
+          "v6_text": "Does it know this is a competition?",
+          "ids": [
+            "page031.block07"
+          ],
+          "speaker_id": "page031.block06",
+          "changed": false,
+          "v7_text": "Does it know this is a competition?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "It has been briefed.",
+          "v6_text": "It has been briefed.",
+          "ids": [
+            "page031.block09"
+          ],
+          "speaker_id": "page031.block08",
+          "changed": false,
+          "v7_text": "It has been briefed.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Then we shall read its clues politely.",
+          "v6_text": "Then we shall read its clues politely.",
+          "ids": [
+            "page031.block11"
+          ],
+          "speaker_id": "page031.block10",
+          "changed": false,
+          "v7_text": "Then we shall read its clues politely.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "If the locker wins, does it get a badge?",
+          "v6_text": "If the locker wins, does it get a badge?",
+          "ids": [
+            "page031.block13"
+          ],
+          "speaker_id": "page031.block12",
+          "changed": false,
+          "v7_text": "If the locker wins, does it get a badge?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Absolutely not. Conflict of interest.",
+          "v6_text": "Absolutely not. Conflict of interest.",
+          "ids": [
+            "page031.block15"
+          ],
+          "speaker_id": "page031.block14",
+          "changed": false,
+          "v7_text": "Absolutely not. Conflict of interest.",
+          "changed_v7": false
+        }
+      ],
+      "changed_v7": false
+    },
+    {
+      "case": 6,
+      "source_folio": 37,
+      "turns": [
+        {
+          "speaker": "NINI",
+          "source_text": "I had emotionally prepared for a dragon tooth.",
+          "v6_text": "I had emotionally prepared for a dragon tooth.",
+          "ids": [
+            "page037.block05",
+            "page037.block06"
+          ],
+          "speaker_id": "page037.block04",
+          "changed": false,
+          "v7_text": "I had plans for that dragon tooth.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "We have a Roman spoon.",
+          "v6_text": "I know. I was hoping for the tooth too. We have a Roman spoon.",
+          "ids": [
+            "page037.block08"
+          ],
+          "speaker_id": "page037.block07",
+          "changed": true,
+          "v7_text": "So did I. None of them involved stirring soup.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Less dramatic. Better for soup.",
+          "v6_text": "Less dramatic. Better for soup.",
+          "ids": [
+            "page037.block10",
+            "page037.block11"
+          ],
+          "speaker_id": "page037.block09",
+          "changed": false,
+          "v7_text": "Perhaps the dragon was a cook.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "So do we have a missing dragon tooth or an overpromoted spoon?",
+          "v6_text": "So do we have a missing dragon tooth or an overpromoted spoon?",
+          "ids": [
+            "page037.block13",
+            "page037.block14"
+          ],
+          "speaker_id": "page037.block12",
+          "changed": false,
+          "v7_text": "That explains the spoon. Slight problem with the Romans.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Right now, we have a label and an object that disagree.",
+          "v6_text": "Right now, we have a label and an object that disagree.",
+          "ids": [
+            "page037.block16",
+            "page037.block17",
+            "page037.block18"
+          ],
+          "speaker_id": "page037.block15",
+          "changed": false,
+          "v7_text": "We'll ask about the label before we rewrite history.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "Which is why we ask before we name a crime.",
+          "v6_text": "Which is why we ask before we name a crime.",
+          "ids": [
+            "page037.block20",
+            "page037.block21"
+          ],
+          "speaker_id": "page037.block19",
+          "changed": false,
+          "v7_text": "A relief. I've only just put history back on its shelves.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "The spoon is taking this very well.",
+          "v6_text": "The spoon is taking this very well.",
+          "ids": [
+            "page037.block23",
+            "page037.block24"
+          ],
+          "speaker_id": "page037.block22",
+          "changed": false,
+          "v7_text": "Can we keep the dragon in the margin?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "And one tiny number from the Look-Twice file got us here. Good catch.",
+          "v6_text": "And one tiny number from the Look-Twice file got us here. Good catch.",
+          "ids": [
+            "page037.block26",
+            "page037.block27",
+            "page037.block28"
+          ],
+          "speaker_id": "page037.block25",
+          "changed": false,
+          "v7_text": "Pencil only. I'd like a chance to object.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 7,
+      "source_folio": 41,
+      "turns": [
+        {
+          "speaker": "MIMI",
+          "source_text": "Alio, how many cupboards have you checked?",
+          "v6_text": "Alio, how many cupboards have you checked?",
+          "ids": [
+            "page041.block17",
+            "page041.block18",
+            "page041.block19"
+          ],
+          "speaker_id": "page041.block16",
+          "changed": false,
+          "v7_text": "Alio, how many cupboards have you checked?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Only the dramatic ones.",
+          "v6_text": "Only the dramatic ones.",
+          "ids": [
+            "page041.block21"
+          ],
+          "speaker_id": "page041.block20",
+          "changed": false,
+          "v7_text": "The dramatic ones. Then the large ones.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "The moon costume is larger than most cupboards.",
+          "v6_text": "The moon costume is larger than most cupboards.",
+          "ids": [
+            "page041.block23",
+            "page041.block24"
+          ],
+          "speaker_id": "page041.block22",
+          "changed": false,
+          "v7_text": "The moon costume is larger than most cupboards.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Excellent. We have eliminated several cupboards.",
+          "v6_text": "Excellent. We have eliminated several cupboards.",
+          "ids": [
+            "page041.block26",
+            "page041.block27",
+            "page041.block28"
+          ],
+          "speaker_id": "page041.block25",
+          "changed": false,
+          "v7_text": "Exactly. Now we can stop opening tiny doors.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "A triumph of fieldwork.",
+          "v6_text": "A triumph of fieldwork.",
+          "ids": [
+            "page041.block30"
+          ],
+          "speaker_id": "page041.block29",
+          "changed": false,
+          "v7_text": "Good. I was starting to introduce myself to the brooms.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 8,
+      "source_folio": 45,
+      "turns": [
+        {
+          "speaker": "ALIO",
+          "source_text": "My route is beautifully straight.",
+          "v6_text": "My route is beautifully straight.",
+          "ids": [
+            "page045.block05"
+          ],
+          "speaker_id": "page045.block04",
+          "changed": false,
+          "v7_text": "My route is beautifully straight.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "Buildings sometimes interrupt a straight line.",
+          "v6_text": "Buildings sometimes interrupt a straight line.",
+          "ids": [
+            "page045.block07"
+          ],
+          "speaker_id": "page045.block06",
+          "changed": false,
+          "v7_text": "Have you shown it to the walls?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "I shall discuss that with the building.",
+          "v6_text": "I shall discuss that with the building.",
+          "ids": [
+            "page045.block09"
+          ],
+          "speaker_id": "page045.block08",
+          "changed": false,
+          "v7_text": "The building has rejected my first draft.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "After you read its door signs.",
+          "v6_text": "After you read its door signs.",
+          "ids": [
+            "page045.block11"
+          ],
+          "speaker_id": "page045.block10",
+          "changed": false,
+          "v7_text": "Then let's find out where it will let us through.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Please do not negotiate with any load-bearing walls.",
+          "v6_text": "I will hold the map. You handle negotiations with the door signs.",
+          "ids": [
+            "page045.block13"
+          ],
+          "speaker_id": "page045.block12",
+          "changed": true,
+          "v7_text": "I'll hold the map. No folding the building to make it fit.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 9,
+      "source_folio": 49,
+      "turns": [
+        {
+          "speaker": "DILO",
+          "source_text": "You know something.",
+          "v6_text": "You know something.",
+          "ids": [
+            "page049.block05"
+          ],
+          "speaker_id": "page049.block04",
+          "changed": false,
+          "v7_text": "You nearly said something.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "I remember something. That is not the same thing.",
+          "v6_text": "I remember something. That is not the same thing.",
+          "ids": [
+            "page049.block07"
+          ],
+          "speaker_id": "page049.block06",
+          "changed": false,
+          "v7_text": "Something looks familiar. That isn't the same as knowing.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Thank you.",
+          "v6_text": "We will check it with you.",
+          "ids": [
+            "page049.block09"
+          ],
+          "speaker_id": "page049.block08",
+          "changed": true,
+          "v7_text": "Then we'll find something you can check it against.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "I have prepared several incorrect memories in solidarity.",
+          "v6_text": "I have prepared several incorrect memories in solidarity.",
+          "ids": [
+            "page049.block11"
+          ],
+          "speaker_id": "page049.block10",
+          "changed": false,
+          "v7_text": "I remember being promised cake on an investigation.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "Keep them away from the evidence table.",
+          "v6_text": "Keep them away from the evidence table.",
+          "ids": [
+            "page049.block13"
+          ],
+          "speaker_id": "page049.block12",
+          "changed": false,
+          "v7_text": "You promised yourself the cake, Alio.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Cruelly reasonable.",
+          "v6_text": "Cruelly reasonable.",
+          "ids": [
+            "page049.block15"
+          ],
+          "speaker_id": "page049.block14",
+          "changed": false,
+          "v7_text": "A very reliable source. Terrible at delivery.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 10,
+      "source_folio": 53,
+      "turns": [
+        {
+          "speaker": "DILO",
+          "source_text": "Two teams. One rover. One truly upsetting cable tangle.",
+          "v6_text": "Two teams. One rover. One truly upsetting cable tangle.",
+          "ids": [
+            "page053.block15",
+            "page053.block16",
+            "page053.block17"
+          ],
+          "speaker_id": "page053.block14",
+          "changed": false,
+          "v7_text": "Two teams. One rover. I refuse to split it down the middle.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Which problem are you solving first?",
+          "v6_text": "Which problem are you solving first?",
+          "ids": [
+            "page053.block19",
+            "page053.block20"
+          ],
+          "speaker_id": "page053.block18",
+          "changed": false,
+          "v7_text": "Generous. The wheels would be awkward.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Access record.",
+          "v6_text": "Access record.",
+          "ids": [
+            "page053.block22"
+          ],
+          "speaker_id": "page053.block21",
+          "changed": false,
+          "v7_text": "We'll check who actually had access.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Correct answer. Disturbing speed.",
+          "v6_text": "Correct answer. Disturbing speed.",
+          "ids": [
+            "page053.block24"
+          ],
+          "speaker_id": "page053.block23",
+          "changed": false,
+          "v7_text": "While you do, can I untangle that cable?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Please log that separately.",
+          "v6_text": "Please log that separately.",
+          "ids": [
+            "page053.block26",
+            "page053.block27"
+          ],
+          "speaker_id": "page053.block25",
+          "changed": false,
+          "v7_text": "Careful. It may have a third owner.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 11,
+      "source_folio": 57,
+      "turns": [
+        {
+          "speaker": "NINI",
+          "source_text": "Your phone has been living beside the oat bar.",
+          "v6_text": "Your phone has been living beside the oat bar.",
+          "ids": [
+            "page057.block05"
+          ],
+          "speaker_id": "page057.block04",
+          "changed": false,
+          "v7_text": "Your phone has been living beside the oat bar.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "It was undercover.",
+          "v6_text": "It was undercover.",
+          "ids": [
+            "page057.block07"
+          ],
+          "speaker_id": "page057.block06",
+          "changed": false,
+          "v7_text": "It was undercover.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Does the oat bar know?",
+          "v6_text": "Does the oat bar know?",
+          "ids": [
+            "page057.block09"
+          ],
+          "speaker_id": "page057.block08",
+          "changed": false,
+          "v7_text": "Does the oat bar know?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "We protect our sources.",
+          "v6_text": "We protect our sources.",
+          "ids": [
+            "page057.block11"
+          ],
+          "speaker_id": "page057.block10",
+          "changed": false,
+          "v7_text": "We protect our sources.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "I would like that entered in the bag report.",
+          "v6_text": "I would like that entered in the bag report.",
+          "ids": [
+            "page057.block13"
+          ],
+          "speaker_id": "page057.block12",
+          "changed": false,
+          "v7_text": "I would like that entered in the bag report.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "You would not.",
+          "v6_text": "You would not.",
+          "ids": [
+            "page057.block15"
+          ],
+          "speaker_id": "page057.block14",
+          "changed": false,
+          "v7_text": "You would not.",
+          "changed_v7": false
+        }
+      ],
+      "changed_v7": false
+    },
+    {
+      "case": 12,
+      "source_folio": 61,
+      "turns": [
+        {
+          "speaker": "DILO",
+          "source_text": "Please speak clearly for the notebook.",
+          "v6_text": "Please speak clearly for the notebook.",
+          "ids": [
+            "page061.block05"
+          ],
+          "speaker_id": "page061.block04",
+          "changed": false,
+          "v7_text": "Please speak clearly for the notebook.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Try listening before your next question.",
+          "v6_text": "Wait. I think it is asking us for something.",
+          "ids": [
+            "page061.block07"
+          ],
+          "speaker_id": "page061.block06",
+          "changed": true,
+          "v7_text": "It says 'cracker'.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "The witness said cracker.",
+          "v6_text": "The witness said cracker.",
+          "ids": [
+            "page061.block09"
+          ],
+          "speaker_id": "page061.block08",
+          "changed": false,
+          "v7_text": "I've got that. What about the password?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "A clear request. We are making progress.",
+          "v6_text": "A clear request. We are making progress.",
+          "ids": [
+            "page061.block11"
+          ],
+          "speaker_id": "page061.block10",
+          "changed": false,
+          "v7_text": "I think it has set a price.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "My neatest interview so far.",
+          "v6_text": "My neatest interview so far.",
+          "ids": [
+            "page061.block13"
+          ],
+          "speaker_id": "page061.block12",
+          "changed": false,
+          "v7_text": "I'll ask the handler. My first interview with a snack budget.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 13,
+      "source_folio": 65,
+      "turns": [
+        {
+          "speaker": "ALIO",
+          "source_text": "My fox theory has one weakness.",
+          "v6_text": "My fox theory has one weakness.",
+          "ids": [
+            "page065.block18",
+            "page065.block19"
+          ],
+          "speaker_id": "page065.block17",
+          "changed": false,
+          "v7_text": "My fox theory has one weakness.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Pockets?",
+          "v6_text": "Pockets?",
+          "ids": [
+            "page065.block21"
+          ],
+          "speaker_id": "page065.block20",
+          "changed": false,
+          "v7_text": "Pockets?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Several weaknesses. I am making a list.",
+          "v6_text": "Several weaknesses. I am making a list.",
+          "ids": [
+            "page065.block23",
+            "page065.block24"
+          ],
+          "speaker_id": "page065.block22",
+          "changed": false,
+          "v7_text": "It needs somewhere to keep the camera.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Add \"fox operating camera equipment\".",
+          "v6_text": "I will keep a space for the answer.",
+          "ids": [
+            "page065.block26",
+            "page065.block27"
+          ],
+          "speaker_id": "page065.block25",
+          "changed": true,
+          "v7_text": "A tiny camera strap. I'll draw one.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Cruel. Fair.",
+          "v6_text": "Useful. Thank you.",
+          "ids": [
+            "page065.block29"
+          ],
+          "speaker_id": "page065.block28",
+          "changed": true,
+          "v7_text": "At last. Someone taking the equipment problem seriously.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Evidence remains stubbornly unfoxy.",
+          "v6_text": "Start with what the camera saw.",
+          "ids": [
+            "page065.block31"
+          ],
+          "speaker_id": "page065.block30",
+          "changed": true,
+          "v7_text": "Now you've got me wondering about the strap. Hand me the actual photo before this gets worse.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 14,
+      "source_folio": 69,
+      "turns": [
+        {
+          "speaker": "DILO",
+          "source_text": "One statement has broken the clock.",
+          "v6_text": "One statement has broken the clock.",
+          "ids": [
+            "page069.block05"
+          ],
+          "speaker_id": "page069.block04",
+          "changed": false,
+          "v7_text": "One of these statements has broken the clock.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Or one person mixed up two moments.",
+          "v6_text": "Or one person mixed up two moments.",
+          "ids": [
+            "page069.block07"
+          ],
+          "speaker_id": "page069.block06",
+          "changed": false,
+          "v7_text": "Or somebody mixed up two moments.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Test the journey before you test the person.",
+          "v6_text": "Test the journey before you test the person.",
+          "ids": [
+            "page069.block09"
+          ],
+          "speaker_id": "page069.block08",
+          "changed": false,
+          "v7_text": "Could happen. I once announced I'd packed lunch. I'd packed three books.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "Exactly.",
+          "v6_text": "Exactly.",
+          "ids": [
+            "page069.block11"
+          ],
+          "speaker_id": "page069.block10",
+          "changed": false,
+          "v7_text": "I remember. Your bag was very well fed.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Can I remain suspicious of the clock?",
+          "v6_text": "Can I remain suspicious of the clock?",
+          "ids": [
+            "page069.block13"
+          ],
+          "speaker_id": "page069.block12",
+          "changed": false,
+          "v7_text": "Did it share?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Quietly.",
+          "v6_text": "Certainly. Help me count its minutes.",
+          "ids": [
+            "page069.block15"
+          ],
+          "speaker_id": "page069.block14",
+          "changed": true,
+          "v7_text": "Not a crumb. Three books and not one on cooking.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 15,
+      "source_folio": 73,
+      "turns": [
+        {
+          "speaker": "MIMI",
+          "source_text": "Next trip: readable name tags.",
+          "v6_text": "Next trip: readable name tags.",
+          "ids": [
+            "page073.block05"
+          ],
+          "speaker_id": "page073.block04",
+          "changed": false,
+          "v7_text": "Next trip: readable name tags.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "What about satellite tracking?",
+          "v6_text": "What about satellite tracking?",
+          "ids": [
+            "page073.block07"
+          ],
+          "speaker_id": "page073.block06",
+          "changed": false,
+          "v7_text": "I was going to suggest satellite tracking.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "My tags work indoors.",
+          "v6_text": "My tags work indoors.",
+          "ids": [
+            "page073.block09"
+          ],
+          "speaker_id": "page073.block08",
+          "changed": false,
+          "v7_text": "Mine doesn't need charging.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Unexpectedly advanced technology.",
+          "v6_text": "Unexpectedly advanced technology. I will write mine large.",
+          "ids": [
+            "page073.block11"
+          ],
+          "speaker_id": "page073.block10",
+          "changed": true,
+          "v7_text": "Ruthless. You've beaten me with a piece of cardboard.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 16,
+      "source_folio": 77,
+      "turns": [
+        {
+          "speaker": "ALIO",
+          "source_text": "That hat could shelter the whole team.",
+          "v6_text": "That hat could shelter the whole team.",
+          "ids": [
+            "page077.block06"
+          ],
+          "speaker_id": "page077.block05",
+          "changed": false,
+          "v7_text": "That hat could shelter the whole team.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "It also had an excellent detective underneath it.",
+          "v6_text": "It also had an excellent detective underneath it.",
+          "ids": [
+            "page077.block08"
+          ],
+          "speaker_id": "page077.block07",
+          "changed": false,
+          "v7_text": "It also had an excellent detective underneath it.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "The hat is not admissible dating evidence.",
+          "v6_text": "The hat is not admissible dating evidence.",
+          "ids": [
+            "page077.block10"
+          ],
+          "speaker_id": "page077.block09",
+          "changed": false,
+          "v7_text": "The hat is not admissible dating evidence.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "Finally, a sensible Academy policy.",
+          "v6_text": "Finally, a sensible Academy policy.",
+          "ids": [
+            "page077.block12"
+          ],
+          "speaker_id": "page077.block11",
+          "changed": false,
+          "v7_text": "Finally, a sensible Academy policy.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Can we still admire it respectfully?",
+          "v6_text": "Can we still admire it respectfully?",
+          "ids": [
+            "page077.block14"
+          ],
+          "speaker_id": "page077.block13",
+          "changed": false,
+          "v7_text": "Can we still admire it respectfully?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "Within controlled limits.",
+          "v6_text": "Within controlled limits.",
+          "ids": [
+            "page077.block16"
+          ],
+          "speaker_id": "page077.block15",
+          "changed": false,
+          "v7_text": "Within controlled limits.",
+          "changed_v7": false
+        }
+      ],
+      "changed_v7": false
+    },
+    {
+      "case": 17,
+      "source_folio": 83,
+      "turns": [
+        {
+          "speaker": "ALIO",
+          "source_text": "Railway-investigation helmet: deployed.",
+          "v6_text": "Railway-investigation helmet: deployed.",
+          "ids": [
+            "page083.block05"
+          ],
+          "speaker_id": "page083.block04",
+          "changed": false,
+          "v7_text": "Railway-investigation helmet: deployed.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "It is the same helmet.",
+          "v6_text": "It is the same helmet.",
+          "ids": [
+            "page083.block07"
+          ],
+          "speaker_id": "page083.block06",
+          "changed": false,
+          "v7_text": "It is the same helmet.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "It has changed departments.",
+          "v6_text": "It has changed departments.",
+          "ids": [
+            "page083.block09"
+          ],
+          "speaker_id": "page083.block08",
+          "changed": false,
+          "v7_text": "It has changed departments.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "Then perhaps its first assignment can be reading the ticket sleeve.",
+          "v6_text": "Then perhaps its first assignment can be reading the ticket sleeve.",
+          "ids": [
+            "page083.block11"
+          ],
+          "speaker_id": "page083.block10",
+          "changed": false,
+          "v7_text": "Then perhaps its first assignment can be reading the ticket sleeve.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Does the helmet earn travel points?",
+          "v6_text": "Does the helmet earn travel points?",
+          "ids": [
+            "page083.block13"
+          ],
+          "speaker_id": "page083.block12",
+          "changed": false,
+          "v7_text": "Does the helmet earn travel points?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "Only if it buys its own ticket.",
+          "v6_text": "Only if it buys its own ticket.",
+          "ids": [
+            "page083.block15"
+          ],
+          "speaker_id": "page083.block14",
+          "changed": false,
+          "v7_text": "Only if it buys its own ticket.",
+          "changed_v7": false
+        }
+      ],
+      "changed_v7": false
+    },
+    {
+      "case": 18,
+      "source_folio": 87,
+      "turns": [
+        {
+          "speaker": "MIMI",
+          "source_text": "Can your watch accept being wrong?",
+          "v6_text": "Can your watch accept being wrong?",
+          "ids": [
+            "page087.block05"
+          ],
+          "speaker_id": "page087.block04",
+          "changed": false,
+          "v7_text": "Can your watch accept being wrong?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "It is handling the news with dignity.",
+          "v6_text": "It is handling the news with dignity.",
+          "ids": [
+            "page087.block07"
+          ],
+          "speaker_id": "page087.block06",
+          "changed": false,
+          "v7_text": "It is handling the news with dignity.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "And its owner?",
+          "v6_text": "And its owner?",
+          "ids": [
+            "page087.block09"
+          ],
+          "speaker_id": "page087.block08",
+          "changed": false,
+          "v7_text": "And its owner?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Less gracefully. I am correcting the record.",
+          "v6_text": "Less gracefully. I am correcting the record.",
+          "ids": [
+            "page087.block11"
+          ],
+          "speaker_id": "page087.block10",
+          "changed": false,
+          "v7_text": "Less gracefully. I am correcting the record.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Good. Corrected time first.",
+          "v6_text": "Good. Corrected time first.",
+          "ids": [
+            "page087.block13"
+          ],
+          "speaker_id": "page087.block12",
+          "changed": false,
+          "v7_text": "I'll check the new times. You can tell the watch it hasn't lost its job.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 19,
+      "source_folio": 91,
+      "turns": [
+        {
+          "speaker": "DILO",
+          "source_text": "I was going to say digital ghost.",
+          "v6_text": "I was going to say digital ghost.",
+          "ids": [
+            "page091.block05"
+          ],
+          "speaker_id": "page091.block04",
+          "changed": false,
+          "v7_text": "I was going to say 'digital ghost'.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "And now?",
+          "v6_text": "And now?",
+          "ids": [
+            "page091.block07"
+          ],
+          "speaker_id": "page091.block06",
+          "changed": false,
+          "v7_text": "Was?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "I am postponing the ghost until evidence requests one.",
+          "v6_text": "I am postponing the ghost until evidence requests one.",
+          "ids": [
+            "page091.block09"
+          ],
+          "speaker_id": "page091.block08",
+          "changed": false,
+          "v7_text": "I'm checking the scanner first. The ghost can wait outside.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "I like this plot development.",
+          "v6_text": "I like this plot development.",
+          "ids": [
+            "page091.block11"
+          ],
+          "speaker_id": "page091.block10",
+          "changed": false,
+          "v7_text": "In a library? It'll complain about the silence.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Ghost application denied pending scanner records.",
+          "v6_text": "If it turns up later, I am asking whether it likes books.",
+          "ids": [
+            "page091.block13"
+          ],
+          "speaker_id": "page091.block12",
+          "changed": true,
+          "v7_text": "I'll find it something to read.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Temporary denial.",
+          "v6_text": "After the scanner, then.",
+          "ids": [
+            "page091.block15"
+          ],
+          "speaker_id": "page091.block14",
+          "changed": true,
+          "v7_text": "A paper one. I'm not giving it the Wi-Fi password.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 20,
+      "source_folio": 95,
+      "turns": [
+        {
+          "speaker": "NINI",
+          "source_text": "This panel looks like a very worried pear.",
+          "v6_text": "This panel looks like a very worried pear.",
+          "ids": [
+            "page095.block05"
+          ],
+          "speaker_id": "page095.block04",
+          "changed": false,
+          "v7_text": "This panel looks like a very worried pear.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "Give it a place on the art wall, not the witness list.",
+          "v6_text": "Give it a place on the art wall, not the witness list.",
+          "ids": [
+            "page095.block07"
+          ],
+          "speaker_id": "page095.block06",
+          "changed": false,
+          "v7_text": "Can I have the panel before you frame it?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Understood. Pear excluded from questioning.",
+          "v6_text": "Understood. Pear excluded from questioning.",
+          "ids": [
+            "page095.block09"
+          ],
+          "speaker_id": "page095.block08",
+          "changed": false,
+          "v7_text": "It's looking very nervous. Be nice.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Does the pear have an alibi?",
+          "v6_text": "Does the pear have an alibi?",
+          "ids": [
+            "page095.block11"
+          ],
+          "speaker_id": "page095.block10",
+          "changed": false,
+          "v7_text": "Does the pear have an alibi?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "The pear is paint.",
+          "v6_text": "The pear is paint.",
+          "ids": [
+            "page095.block13"
+          ],
+          "speaker_id": "page095.block12",
+          "changed": false,
+          "v7_text": "The pear is paint.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Strong alibi.",
+          "v6_text": "Strong alibi.",
+          "ids": [
+            "page095.block15"
+          ],
+          "speaker_id": "page095.block14",
+          "changed": false,
+          "v7_text": "Strong alibi.",
+          "changed_v7": false
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 21,
+      "source_folio": 99,
+      "turns": [
+        {
+          "speaker": "NINI",
+          "source_text": "Nobody move the pieces.",
+          "v6_text": "Nobody move the pieces.",
+          "ids": [
+            "page099.block05"
+          ],
+          "speaker_id": "page099.block04",
+          "changed": false,
+          "v7_text": "Nobody move the pieces.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Both hands visible. I am learning.",
+          "v6_text": "Both hands visible. I am learning.",
+          "ids": [
+            "page099.block07",
+            "page099.block08"
+          ],
+          "speaker_id": "page099.block06",
+          "changed": false,
+          "v7_text": "I'm not touching anything else.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Tear edges first. Sentence second.",
+          "v6_text": "Tear edges first. Sentence second.",
+          "ids": [
+            "page099.block10",
+            "page099.block11"
+          ],
+          "speaker_id": "page099.block09",
+          "changed": false,
+          "v7_text": "Stay here. I need you to check the joins with me.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "And keep the handwriting visible when you sleeve it.",
+          "v6_text": "And keep the handwriting visible when you sleeve it.",
+          "ids": [
+            "page099.block13"
+          ],
+          "speaker_id": "page099.block12",
+          "changed": false,
+          "v7_text": "Keep the handwriting visible. It may matter once the edges fit.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Familiar?",
+          "v6_text": "Familiar?",
+          "ids": [
+            "page099.block15"
+          ],
+          "speaker_id": "page099.block14",
+          "changed": false,
+          "v7_text": "Do you know whose it is?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "Maybe. Which is exactly why I am not calling it evidence yet.",
+          "v6_text": "Maybe. Which is exactly why I am not calling it evidence yet.",
+          "ids": [
+            "page099.block17",
+            "page099.block18",
+            "page099.block19"
+          ],
+          "speaker_id": "page099.block16",
+          "changed": false,
+          "v7_text": "Maybe. The archive will have to back me up.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Understood. The paper gets the first interview.",
+          "v6_text": "Understood. The paper gets the first interview.",
+          "ids": [
+            "page099.block21"
+          ],
+          "speaker_id": "page099.block20",
+          "changed": false,
+          "v7_text": "Detective, you fit the pieces. I'll check every join.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 22,
+      "source_folio": 105,
+      "turns": [
+        {
+          "speaker": "ALIO",
+          "source_text": "Three identical black instrument cases. Excellent. Objects have joined witness protection.",
+          "v6_text": "Three identical black instrument cases. Excellent. Objects have joined witness protection.",
+          "ids": [
+            "page105.block05",
+            "page105.block06"
+          ],
+          "speaker_id": "page105.block04",
+          "changed": false,
+          "v7_text": "Three identical black instrument cases. Excellent. Objects have joined witness protection.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "They are labeled.",
+          "v6_text": "They are labeled.",
+          "ids": [
+            "page105.block08"
+          ],
+          "speaker_id": "page105.block07",
+          "changed": false,
+          "v7_text": "Their names are on the labels.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Weak cover identities.",
+          "v6_text": "Weak cover identities.",
+          "ids": [
+            "page105.block10"
+          ],
+          "speaker_id": "page105.block09",
+          "changed": false,
+          "v7_text": "Not everyone is cut out for a life undercover.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Shelves first. Careers later.",
+          "v6_text": "The instruments would like their own beds back.",
+          "ids": [
+            "page105.block12"
+          ],
+          "speaker_id": "page105.block11",
+          "changed": true,
+          "v7_text": "They've had a long rehearsal. Can we get them home?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "I am recording \"careers later.\"",
+          "v6_text": "Then we had better sort out the bedrooms.",
+          "ids": [
+            "page105.block14"
+          ],
+          "speaker_id": "page105.block13",
+          "changed": true,
+          "v7_text": "I'll check the shelves. I'm not reading a bedtime story to an instrument case.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 23,
+      "source_folio": 109,
+      "turns": [
+        {
+          "speaker": "DILO",
+          "source_text": "The arcade scoreboard has challenged me personally.",
+          "v6_text": "The arcade scoreboard has challenged me personally.",
+          "ids": [
+            "page109.block05"
+          ],
+          "speaker_id": "page109.block04",
+          "changed": false,
+          "v7_text": "The arcade scoreboard has challenged me personally.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "It displayed a number.",
+          "v6_text": "It displayed a number.",
+          "ids": [
+            "page109.block07"
+          ],
+          "speaker_id": "page109.block06",
+          "changed": false,
+          "v7_text": "It displayed a number.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "In a tone.",
+          "v6_text": "In a tone.",
+          "ids": [
+            "page109.block09"
+          ],
+          "speaker_id": "page109.block08",
+          "changed": false,
+          "v7_text": "In a tone.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Solve the wristband case before you start a feud with a scoreboard.",
+          "v6_text": "Solve the wristband case before you start a feud with a scoreboard.",
+          "ids": [
+            "page109.block11"
+          ],
+          "speaker_id": "page109.block10",
+          "changed": false,
+          "v7_text": "I've got the wristband file. Can you bear to leave your rival unsupervised?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Feud postponed.",
+          "v6_text": "Feud postponed.",
+          "ids": [
+            "page109.block13"
+          ],
+          "speaker_id": "page109.block12",
+          "changed": false,
+          "v7_text": "For the case. Tell it I haven't surrendered.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 24,
+      "source_folio": 113,
+      "turns": [
+        {
+          "speaker": "ALIO",
+          "source_text": "I have paused my dramatic theory.",
+          "v6_text": "I have paused my dramatic theory.",
+          "ids": [
+            "page113.block05"
+          ],
+          "speaker_id": "page113.block04",
+          "changed": false,
+          "v7_text": "I have paused my dramatic theory.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Voluntarily?",
+          "v6_text": "Voluntarily?",
+          "ids": [
+            "page113.block07"
+          ],
+          "speaker_id": "page113.block06",
+          "changed": false,
+          "v7_text": "Voluntarily?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "The muddy evidence requested a word.",
+          "v6_text": "The muddy evidence requested a word.",
+          "ids": [
+            "page113.block09"
+          ],
+          "speaker_id": "page113.block08",
+          "changed": false,
+          "v7_text": "Yes. I thought I'd see what the mud had to say first.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Give it the floor.",
+          "v6_text": "Give it the floor.",
+          "ids": [
+            "page113.block11"
+          ],
+          "speaker_id": "page113.block10",
+          "changed": false,
+          "v7_text": "Then I'll be quiet too.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "The arrow shouts. The mud explains.",
+          "v6_text": "I will wait here while you check.",
+          "ids": [
+            "page113.block13"
+          ],
+          "speaker_id": "page113.block12",
+          "changed": true,
+          "v7_text": "Both of you? I should photograph this.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "Painful. But memorable.",
+          "v6_text": "Good. I would like my next theory to have feet.",
+          "ids": [
+            "page113.block15"
+          ],
+          "speaker_id": "page113.block14",
+          "changed": true,
+          "v7_text": "Footprints first. My good behaviour can wait for the family album.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 25,
+      "source_folio": 117,
+      "turns": [
+        {
+          "speaker": "NINI",
+          "source_text": "This parcel has met more helpful people than it can remember.",
+          "v6_text": "This parcel has met more helpful people than it can remember.",
+          "ids": [
+            "page117.block05"
+          ],
+          "speaker_id": "page117.block04",
+          "changed": false,
+          "v7_text": "This parcel has met a lot of people. Has anyone asked where it wants to go?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "Then we help it in a less creative order.",
+          "v6_text": "Then we help it in a less creative order.",
+          "ids": [
+            "page117.block07"
+          ],
+          "speaker_id": "page117.block06",
+          "changed": false,
+          "v7_text": "Let's find out before somebody helpfully moves it again.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Revolutionary idea: one label, one destination.",
+          "v6_text": "Revolutionary idea: one label, one destination.",
+          "ids": [
+            "page117.block09"
+          ],
+          "speaker_id": "page117.block08",
+          "changed": false,
+          "v7_text": "I'll guard it. No unauthorised helping.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "And possibly biscuits.",
+          "v6_text": "And possibly biscuits.",
+          "ids": [
+            "page117.block11"
+          ],
+          "speaker_id": "page117.block10",
+          "changed": false,
+          "v7_text": "What about morale biscuits?",
+          "changed_v7": true
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "Please stop investigating lunch.",
+          "v6_text": "We can investigate lunch after the handoff. I saved you a place.",
+          "ids": [
+            "page117.block13"
+          ],
+          "speaker_id": "page117.block12",
+          "changed": true,
+          "v7_text": "For us. The parcel has had quite enough people trying to improve its day.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 26,
+      "source_folio": 121,
+      "turns": [
+        {
+          "speaker": "NINI",
+          "source_text": "Empty does not always mean useless.",
+          "v6_text": "Empty does not always mean useless.",
+          "ids": [
+            "page121.block15",
+            "page121.block16",
+            "page121.block17"
+          ],
+          "speaker_id": "page121.block14",
+          "changed": false,
+          "v7_text": "Empty rooms. We've been looking at everyone except nobody.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "My bedroom would like that entered into evidence.",
+          "v6_text": "My bedroom would like that entered into evidence.",
+          "ids": [
+            "page121.block19",
+            "page121.block20",
+            "page121.block21"
+          ],
+          "speaker_id": "page121.block18",
+          "changed": false,
+          "v7_text": "Nobody has been very quiet.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Your bedroom is not an admissible precedent.",
+          "v6_text": "Your bedroom is not an admissible precedent.",
+          "ids": [
+            "page121.block23",
+            "page121.block24"
+          ],
+          "speaker_id": "page121.block22",
+          "changed": false,
+          "v7_text": "Already my favourite witness.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "Fortunately.",
+          "v6_text": "Fortunately.",
+          "ids": [
+            "page121.block26"
+          ],
+          "speaker_id": "page121.block25",
+          "changed": false,
+          "v7_text": "I'm telling your brothers you said that.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "Old systems sometimes hide meaning in what they do not fill.",
+          "v6_text": "Old systems sometimes hide meaning in what they do not fill.",
+          "ids": [
+            "page121.block28",
+            "page121.block29",
+            "page121.block30"
+          ],
+          "speaker_id": "page121.block27",
+          "changed": false,
+          "v7_text": "A historic moment. Detective, pull your maps closer before they recover.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 27,
+      "source_folio": 125,
+      "turns": [
+        {
+          "speaker": "BIBI",
+          "source_text": "Clean hands. Flat map. No heroic folding.",
+          "v6_text": "Clean hands. Flat map. No heroic folding.",
+          "ids": [
+            "page125.block12"
+          ],
+          "speaker_id": "page125.block11",
+          "changed": false,
+          "v7_text": "Clean hands. Flat map. No heroic folding.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "What about a small heroic point?",
+          "v6_text": "What about a small heroic point?",
+          "ids": [
+            "page125.block14",
+            "page125.block15",
+            "page125.block16"
+          ],
+          "speaker_id": "page125.block13",
+          "changed": false,
+          "v7_text": "What about a small heroic point?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "One finger. A landmark. I can allow it.",
+          "v6_text": "One finger. A landmark. I can allow it.",
+          "ids": [
+            "page125.block18",
+            "page125.block19"
+          ],
+          "speaker_id": "page125.block17",
+          "changed": false,
+          "v7_text": "One finger. A landmark. I can allow it.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "We solved a parcel just to earn permission for one finger.",
+          "v6_text": "We solved a parcel just to earn permission for one finger.",
+          "ids": [
+            "page125.block21",
+            "page125.block22",
+            "page125.block23"
+          ],
+          "speaker_id": "page125.block20",
+          "changed": false,
+          "v7_text": "We solved a parcel just to earn permission for one finger.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "A worthy investment.",
+          "v6_text": "A worthy investment.",
+          "ids": [
+            "page125.block25"
+          ],
+          "speaker_id": "page125.block24",
+          "changed": false,
+          "v7_text": "A worthy investment.",
+          "changed_v7": false
+        }
+      ],
+      "changed_v7": false
+    },
+    {
+      "case": 28,
+      "source_folio": 129,
+      "turns": [
+        {
+          "speaker": "ALIO",
+          "source_text": "I have put my tunnel theory on a separate card.",
+          "v6_text": "I have put my tunnel theory on a separate card.",
+          "ids": [
+            "page129.block05"
+          ],
+          "speaker_id": "page129.block04",
+          "changed": false,
+          "v7_text": "I have put my tunnel proposal on a separate card.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "How much evidence is on the card?",
+          "v6_text": "How much evidence is on the card?",
+          "ids": [
+            "page129.block07"
+          ],
+          "speaker_id": "page129.block06",
+          "changed": false,
+          "v7_text": "How much evidence is on the card?",
+          "changed_v7": false
+        },
+        {
+          "speaker": "ALIO",
+          "source_text": "At present? Decorative confidence.",
+          "v6_text": "At present? Decorative confidence.",
+          "ids": [
+            "page129.block09"
+          ],
+          "speaker_id": "page129.block08",
+          "changed": false,
+          "v7_text": "At present? Decorative confidence.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "MIMI",
+          "source_text": "Better than the muddy arrows. At least your theory admits it is guessing.",
+          "v6_text": "Better than the muddy arrows. At least your theory admits it is guessing.",
+          "ids": [
+            "page129.block11",
+            "page129.block12"
+          ],
+          "speaker_id": "page129.block10",
+          "changed": false,
+          "v7_text": "I'd like a card. Some of my very organised plans are mostly that.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "That would have saved my old squad several afternoons.",
+          "v6_text": "That would have saved my old squad several afternoons.",
+          "ids": [
+            "page129.block14"
+          ],
+          "speaker_id": "page129.block13",
+          "changed": false,
+          "v7_text": "Make it two. I used to call mine 'experience'.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 29,
+      "source_folio": 133,
+      "turns": [
+        {
+          "speaker": "MIMI",
+          "source_text": "Largest map in the book. Same rule as always: prove it.",
+          "v6_text": "Largest map in the book. Same rule as always: prove it.",
+          "ids": [
+            "page133.block05"
+          ],
+          "speaker_id": "page133.block04",
+          "changed": false,
+          "v7_text": "That's a lot of map. I'll clear some space.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Take your time. We are not going anywhere.",
+          "v6_text": "Take your time. We are not going anywhere.",
+          "ids": [
+            "page133.block07"
+          ],
+          "speaker_id": "page133.block06",
+          "changed": false,
+          "v7_text": "Take your time. We are not going anywhere.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "I can be quiet for one map.",
+          "v6_text": "I can be quiet for one map.",
+          "ids": [
+            "page133.block09"
+          ],
+          "speaker_id": "page133.block08",
+          "changed": false,
+          "v7_text": "I can be quiet for one map.",
+          "changed_v7": false
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "New evidence already.",
+          "v6_text": "New evidence already.",
+          "ids": [
+            "page133.block11"
+          ],
+          "speaker_id": "page133.block10",
+          "changed": false,
+          "v7_text": "I've written that down. In pencil, to be fair.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "Make the call when you're ready.",
+          "v6_text": "Make the call when you're ready.",
+          "ids": [
+            "page133.block13"
+          ],
+          "speaker_id": "page133.block12",
+          "changed": false,
+          "v7_text": "Make the call when you're ready.",
+          "changed_v7": false
+        }
+      ],
+      "changed_v7": true
+    },
+    {
+      "case": 30,
+      "source_folio": 137,
+      "turns": [
+        {
+          "speaker": "MIMI",
+          "source_text": "No new clue. Use what you earned.",
+          "v6_text": "Use what you earned.",
+          "ids": [
+            "page137.block08"
+          ],
+          "changed": true,
+          "v7_text": "Case Wall ready? Then the panel's yours.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "DILO",
+          "source_text": "Victory noise?",
+          "v6_text": "Victory noise?",
+          "ids": [
+            "page137.block08"
+          ],
+          "changed": false,
+          "v7_text": "And the victory noise is mine.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "LULI",
+          "source_text": "Pending evidence.",
+          "v6_text": "Pending evidence.",
+          "ids": [
+            "page137.block09"
+          ],
+          "changed": false,
+          "v7_text": "Keep it in your head until the door opens.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "NINI",
+          "source_text": "Very pending.",
+          "v6_text": "Very pending.",
+          "ids": [
+            "page137.block09"
+          ],
+          "changed": false,
+          "v7_text": "Mine's already getting a bit loud in there.",
+          "changed_v7": true
+        },
+        {
+          "speaker": "BIBI",
+          "source_text": "Begin.",
+          "v6_text": "Begin.",
+          "ids": [
+            "page137.block09"
+          ],
+          "changed": false,
+          "v7_text": "Go on, Detective. We'll be right behind you.",
+          "changed_v7": true
+        }
+      ],
+      "changed_v7": true
+    }
+  ]
+}

@@ -1,13 +1,8 @@
 {
-  "state": "V7_EDITORIAL_WRITER_ACTIVE",
-  "owner": "rse-language/root",
-  "baseline_candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
-  "authority": "Owner explicitly requested full English re-upgrade with rse-language, especially witty, warm Happy Makers Comms; 2026-10-21.",
-  "scope": "All prose and Comms independently diagnosed; all V6 puzzle repairs and immutable puzzle truth protected.",
-  "writers": 1,
-  "reviewers": [
-    "v6_native_review",
-    "v6_puzzle_review"
-  ],
-  "production_writer": "Existing exclusive BookFactory writer; no renderer modification, main merge, content freeze or publication."
+  "state": "V7_OWNER_READ_CANDIDATE__INDEPENDENT_REVIEWS_PASS__PRODUCTION_HANDOFF_PENDING",
+  "owner": null,
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "checkpoint": "v7/CHECKPOINT.md",
+  "rule": "V6preservedhistorically;V7isowner-authorizedsame-languageeditorialupgrade. ExistingBookFactoryremainsexclusiveproductionwriter.",
+  "next_safe_task": "Existing sole BookFactory writer consumes exact V7 editorial import packet and preserved V6 figures; bind mapped import and final typesetting/print receipts. No further prose rewrite without a concrete defect or new owner request."
 }

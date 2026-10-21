@@ -1,0 +1,160 @@
+[
+  {
+    "sheet": "proof/contact-sheets/book-01.png",
+    "folios": [
+      7,
+      12,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      26,
+      27,
+      30,
+      31,
+      34,
+      35,
+      37
+    ]
+  },
+  {
+    "sheet": "proof/contact-sheets/book-02.png",
+    "folios": [
+      40,
+      41,
+      42,
+      44,
+      45,
+      49,
+      53,
+      54,
+      57,
+      60,
+      61,
+      65,
+      68,
+      69,
+      72,
+      73
+    ]
+  },
+  {
+    "sheet": "proof/contact-sheets/book-03.png",
+    "folios": [
+      74,
+      77,
+      82,
+      83,
+      87,
+      90,
+      91,
+      95,
+      96,
+      97,
+      99,
+      103,
+      104,
+      105,
+      108,
+      109
+    ]
+  },
+  {
+    "sheet": "proof/contact-sheets/book-04.png",
+    "folios": [
+      113,
+      116,
+      117,
+      120,
+      121,
+      125,
+      128,
+      129,
+      133,
+      137,
+      140,
+      141,
+      143,
+      144,
+      145,
+      148
+    ]
+  },
+  {
+    "sheet": "proof/contact-sheets/book-05.png",
+    "folios": [
+      149,
+      154,
+      211,
+      212,
+      225
+    ]
+  },
+  {
+    "sheet": "proof/contact-sheets/compare-01.png",
+    "folios": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "sheet": "proof/contact-sheets/compare-02.png",
+    "folios": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "sheet": "proof/contact-sheets/compare-03.png",
+    "folios": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "sheet": "proof/contact-sheets/compare-04.png",
+    "folios": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "sheet": "proof/contact-sheets/compare-05.png",
+    "folios": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "sheet": "proof/contact-sheets/compare-06.png",
+    "folios": [
+      31,
+      32,
+      33,
+      34
+    ]
+  }
+]

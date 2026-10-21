@@ -1,0 +1,88 @@
+{
+  "reviewer": "Actual independent agent /root/v6_native_review",
+  "reviewed_utc": "2026-10-21T15:42:05.148569+00:00",
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "status": "PASS",
+  "scope": "Final8-unit delta and affected neighbors reread on exactdf4b39candidate; reused actual complete225folio R1read and all30scene reviews for3059byteidentical units, explicitly validated against preserved9f25baseline. No pretend repeat wholebookreview.",
+  "full_review_baseline_sha256": "9f25b542e0162aa357c8409c3927622ee52ba1508e5bcbe3443d608c14e29fe5",
+  "unchanged_review_inheritance_units": 3059,
+  "actual_final_delta_units": [
+    "page019.block03",
+    "page019.block04",
+    "page068.block04",
+    "page068.block05",
+    "page068.block06",
+    "page099.block21",
+    "page108.block13",
+    "page212.block12"
+  ],
+  "evidence": "Actual wholebook native/audience R1review at reviews/native-r1/, followed by exact8-unit delta and dependencyclosure review. Independent identity checks are reviews/native-final/preservation-check.json; closed findings and reader-export checks are in this receipt.",
+  "findings": [
+    {
+      "id": "V7-NATIVE-CASE13-CLOSURE",
+      "status": "CLOSED",
+      "segments": [
+        "page068.block04",
+        "page068.block05",
+        "page068.block06"
+      ],
+      "evidence": "Camera moved duringcleanup after4:17 is explicitly restored before Mimi/coordinator transition. The localcase now has its accepted resolution and the thematic memorytransition remainsnatural."
+    },
+    {
+      "id": "V7-NATIVE-JUDE-PERSON-AS-PLACE",
+      "status": "CLOSED",
+      "segments": [
+        "page108.block13"
+      ],
+      "evidence": "Direct knownlocation→onecompanion→askaboutcrossing paragraph removes person-as-place abstraction and keeps possible eyewitness knowledge distinct from proven bandtransfer."
+    },
+    {
+      "id": "V7-AUDIENCE-CASE21-YOU",
+      "status": "CLOSED",
+      "segments": [
+        "page099.block21"
+      ],
+      "evidence": "Explicit Detective address gives assembly to the reader while Dilo offers checkingsupport. Familyhelp no longer ambiguously replaces reader's work."
+    },
+    {
+      "id": "V7-INHERITED-FIRST-INSTRUCTION",
+      "status": "CLOSED",
+      "segments": [
+        "page212.block12"
+      ],
+      "evidence": "Precisely authorized nonmechanic summary now describes a fuller instruction than RULE0FIRST. Earlier instruction at80 is acknowledged; tearorder/message/answer/steps remainunchanged."
+    },
+    {
+      "id": "V7-NATIVE-PHONE-PERSPECTIVE",
+      "status": "KEEP",
+      "segments": [
+        "page019.block03",
+        "page019.block04"
+      ],
+      "evidence": "Phone appears to have taken the morning off is natural personification of Mimi's search, not an incompatible assertion of location before later bagdiscovery."
+    },
+    {
+      "id": "V7-GLOBAL-FAMILY-READER",
+      "status": "KEEP",
+      "segments": [
+        "page006.block02",
+        "page009.block02",
+        "page133.block07",
+        "page141.block13",
+        "page143.block12",
+        "page145.block19"
+      ],
+      "evidence": "Fivefielddetectives+archivementor remains separate from reader'ssixthfieldslot; fivebadges→six, unhurriedtime and already-on-team distinction are preserved."
+    }
+  ],
+  "open_findings": [],
+  "owner_brief_assessment": "In editorial judgment the V7text delivers substantially livelier, distinct familyvoices, intelligent affectionate turns and cumulative ordinary readerbelonging. Strong original engines retained; no further broad comedyrewrite warranted.",
+  "print_ready": false,
+  "limits": [
+    "Native-language and audience review does not establish bestseller sales or every reader's humorresponse.",
+    "No productionlayout, illustration or physicalprintapproval.",
+    "Core puzzlemechanics inherited from unchanged V6evidence; no repeated allmapenumeration claimed."
+  ],
+  "stage": "audience",
+  "stage_assessment": "PASS: childcomprehension, distinct affectionatevoices, reciprocalteasing without Alio pile-on, Nini'simaginativecare and explicit readeragency are sustained; certification earns a fieldbadge, not familyaffection."
+}

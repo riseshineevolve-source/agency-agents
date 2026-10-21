@@ -1,0 +1,1444 @@
+{
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "reading_proof_sha256": "9b43919e74ecb0cb6ba6779b110d2cd1ba82b86cfc146bddc0dde279c6277f20",
+  "reading_folios": 225,
+  "v7_text_folios": 173,
+  "locked_art_and_designed_source_folios": 52,
+  "copy_checks": [
+    {
+      "folio": 1,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 2,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 3,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 4,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 5,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 6,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 7,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 8,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 9,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 10,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 11,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 12,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 13,
+      "source": "unchanged_designed_source",
+      "status": "PASS"
+    },
+    {
+      "folio": 14,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 15,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 16,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 17,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 18,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 19,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 20,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 21,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 22,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 23,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 24,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 25,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 26,
+      "source": "unchanged_designed_source",
+      "status": "PASS"
+    },
+    {
+      "folio": 27,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 28,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 29,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 30,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 31,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 32,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 33,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 34,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 35,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 36,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 37,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 38,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 39,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 40,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 41,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 42,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 43,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 44,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 45,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 46,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 47,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 48,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 49,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 50,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 51,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 52,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 53,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 54,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 55,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 56,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 57,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 58,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 59,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 60,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 61,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 62,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 63,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 64,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 65,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 66,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 67,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 68,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 69,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 70,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 71,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 72,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 73,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 74,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 75,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 76,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 77,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 78,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 79,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 80,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 81,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 82,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 83,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 84,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 85,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 86,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 87,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 88,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 89,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 90,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 91,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 92,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 93,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 94,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 95,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 96,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 97,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 98,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 99,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 100,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 101,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 102,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 103,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 104,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 105,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 106,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 107,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 108,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 109,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 110,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 111,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 112,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 113,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 114,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 115,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 116,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 117,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 118,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 119,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 120,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 121,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 122,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 123,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 124,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 125,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 126,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 127,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 128,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 129,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 130,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 131,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 132,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 133,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 134,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 135,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 136,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 137,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 138,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 139,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 140,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 141,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 142,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 143,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 144,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 145,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 146,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 147,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 148,
+      "source": "unchanged_designed_source",
+      "status": "PASS"
+    },
+    {
+      "folio": 149,
+      "source": "unchanged_designed_source",
+      "status": "PASS"
+    },
+    {
+      "folio": 150,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 151,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 152,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 153,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 154,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 155,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 156,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 157,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 158,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 159,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 160,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 161,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 162,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 163,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 164,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 165,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 166,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 167,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 168,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 169,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 170,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 171,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 172,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 173,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 174,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 175,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 176,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 177,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 178,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 179,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 180,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 181,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 182,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 183,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 184,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 185,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 186,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 187,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 188,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 189,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 190,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 191,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 192,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 193,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 194,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 195,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 196,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 197,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 198,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 199,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 200,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 201,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 202,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 203,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 204,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 205,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 206,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 207,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 208,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 209,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 210,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 211,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 212,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 213,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 214,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 215,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 216,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 217,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 218,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 219,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 220,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 221,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 222,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 223,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 224,
+      "source": "v6_locked_evidence_art",
+      "status": "PASS"
+    },
+    {
+      "folio": 225,
+      "source": "v7_editorial_text",
+      "status": "PASS"
+    }
+  ],
+  "comparison_sha256": "4483f5234e563e22215d0d24c0f7e23f28d67e5c09a1cfc0c54bd005c328910a",
+  "comparison_pages": 34,
+  "comparison_fit": [
+    {
+      "title": "CASE 01",
+      "page": 2,
+      "column_bottoms": [
+        172,
+        200,
+        228
+      ]
+    },
+    {
+      "title": "CASE 02",
+      "page": 3,
+      "column_bottoms": [
+        214,
+        214,
+        214
+      ]
+    },
+    {
+      "title": "CASE 03",
+      "page": 4,
+      "column_bottoms": [
+        228,
+        214,
+        214
+      ]
+    },
+    {
+      "title": "CASE 04",
+      "page": 5,
+      "column_bottoms": [
+        203,
+        203,
+        175
+      ]
+    },
+    {
+      "title": "CASE 05",
+      "page": 6,
+      "column_bottoms": [
+        217,
+        217,
+        217
+      ]
+    },
+    {
+      "title": "CASE 06",
+      "page": 7,
+      "column_bottoms": [
+        97,
+        83,
+        97
+      ]
+    },
+    {
+      "title": "CASE 07",
+      "page": 8,
+      "column_bottoms": [
+        228,
+        228,
+        228
+      ]
+    },
+    {
+      "title": "CASE 08",
+      "page": 9,
+      "column_bottoms": [
+        242,
+        242,
+        242
+      ]
+    },
+    {
+      "title": "CASE 09",
+      "page": 10,
+      "column_bottoms": [
+        189,
+        189,
+        175
+      ]
+    },
+    {
+      "title": "CASE 10",
+      "page": 11,
+      "column_bottoms": [
+        242,
+        242,
+        242
+      ]
+    },
+    {
+      "title": "CASE 11",
+      "page": 12,
+      "column_bottoms": [
+        217,
+        217,
+        217
+      ]
+    },
+    {
+      "title": "CASE 12",
+      "page": 13,
+      "column_bottoms": [
+        256,
+        256,
+        242
+      ]
+    },
+    {
+      "title": "CASE 13",
+      "page": 14,
+      "column_bottoms": [
+        217,
+        217,
+        175
+      ]
+    },
+    {
+      "title": "CASE 14",
+      "page": 15,
+      "column_bottoms": [
+        217,
+        217,
+        189
+      ]
+    },
+    {
+      "title": "CASE 15",
+      "page": 16,
+      "column_bottoms": [
+        295,
+        281,
+        281
+      ]
+    },
+    {
+      "title": "CASE 16",
+      "page": 17,
+      "column_bottoms": [
+        203,
+        203,
+        203
+      ]
+    },
+    {
+      "title": "CASE 17",
+      "page": 18,
+      "column_bottoms": [
+        203,
+        203,
+        203
+      ]
+    },
+    {
+      "title": "CASE 18",
+      "page": 19,
+      "column_bottoms": [
+        256,
+        256,
+        242
+      ]
+    },
+    {
+      "title": "CASE 19",
+      "page": 20,
+      "column_bottoms": [
+        189,
+        189,
+        189
+      ]
+    },
+    {
+      "title": "CASE 20",
+      "page": 21,
+      "column_bottoms": [
+        203,
+        203,
+        217
+      ]
+    },
+    {
+      "title": "CASE 21",
+      "page": 22,
+      "column_bottoms": [
+        150,
+        150,
+        136
+      ]
+    },
+    {
+      "title": "CASE 22",
+      "page": 23,
+      "column_bottoms": [
+        228,
+        214,
+        200
+      ]
+    },
+    {
+      "title": "CASE 23",
+      "page": 24,
+      "column_bottoms": [
+        228,
+        228,
+        228
+      ]
+    },
+    {
+      "title": "CASE 24",
+      "page": 25,
+      "column_bottoms": [
+        217,
+        217,
+        189
+      ]
+    },
+    {
+      "title": "CASE 25",
+      "page": 26,
+      "column_bottoms": [
+        242,
+        228,
+        214
+      ]
+    },
+    {
+      "title": "CASE 26",
+      "page": 27,
+      "column_bottoms": [
+        228,
+        228,
+        228
+      ]
+    },
+    {
+      "title": "CASE 27",
+      "page": 28,
+      "column_bottoms": [
+        242,
+        242,
+        242
+      ]
+    },
+    {
+      "title": "CASE 28",
+      "page": 29,
+      "column_bottoms": [
+        214,
+        214,
+        228
+      ]
+    },
+    {
+      "title": "CASE 29",
+      "page": 30,
+      "column_bottoms": [
+        242,
+        242,
+        256
+      ]
+    },
+    {
+      "title": "CASE 30",
+      "page": 31,
+      "column_bottoms": [
+        256,
+        256,
+        256
+      ]
+    },
+    {
+      "title": "CASE WALL · ROZMOWA",
+      "page": 32,
+      "column_bottoms": [
+        133,
+        161,
+        175
+      ]
+    },
+    {
+      "title": "CZTERY ZNAKI · ROZMOWA",
+      "page": 33,
+      "column_bottoms": [
+        267,
+        267,
+        253
+      ]
+    },
+    {
+      "title": "STARE SPRAWY WRACAJĄ",
+      "page": 34,
+      "column_bottoms": [
+        228,
+        228,
+        200
+      ]
+    }
+  ],
+  "offpage_text": "NONE",
+  "actual_visual_review": "PASS: independent69folio/25fullsize reading-proof sample; all34comparisonpages seen byroot. Unsampled readingfolios excluded fromvisualclaim; all225copy/offpage and52pixel-identitychecks PASS.",
+  "content_review": "Four real independent stages PASS for exact candidate hash",
+  "production_layout": "NOT_RUN",
+  "print_ready": false,
+  "visual_receipts": [
+    "../reviews/proof-native/VISUAL_REVIEW.json",
+    "VISUAL_COMPARISON_REVIEW.json"
+  ]
+}
