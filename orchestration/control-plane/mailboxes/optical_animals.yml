@@ -1,30 +1,33 @@
 lane: optical_animals
 title: "Optical Animals"
 updated: 2026-10-21
-status: DECORATIVE_BIRD_FIVE_INTRO_VISUAL_SET_COMPLETE__PRINT_RESOLUTION_OPEN
-branch_or_repo_state: "V4 48-page coloring-only source unchanged. Local last-observed branch rse/optical-night-production-2026-10-09 @504a3d2; existing work preserved. No product commit/push or body integration."
+status: INTRO_ART_REFINEMENT_V2_COMPLETE__LIGHT_ENTER__PRINT_RESOLUTION_OPEN
+branch_or_repo_state: "V4 48-page coloring-only source and heroes unchanged. No body integration or product branch changes."
 milestone: >-
-  Owner selected decorative bird across all five intro pages and authorized final
-  spectacular visual versions. Completed coordinated title, publishing, Before,
-  Color and Enter pages, one bird each, shared ornate box/type. Exact copy checked.
-  Corrected Color bird beak to keep all four test fields clear. Five-page PDF saved.
+  Completed owner V2 art refinements: four clearly different bird poses with
+  feather-derived optical backgrounds. Publishing ISBN has no line; copyright
+  paragraph smaller. Before uses deliberate sentence/clause line breaks and no
+  long dash. Enter is only a delicate feather continuation, no full bird/dense
+  border;2.81% black area versus previous37.34%. Exact copy and clear test fields
+  independently reviewed. Five-page PDF saved and post-save render verified.
 blocker: >-
-  Actual generated images1103x1426, approximately127ppi full bleed; visual design
-  complete but faithful print derivatives/native typography and final print proof
-  remain. Do not claim native300ppi or KDP release readiness.
-owner_gate: "Final visual feedback and eventual physical-proof/KDP publication approval; decorative-bird family direction is already selected."
+  Native generated sources1103x1426, about127ppi at full bleed. Print derivatives,
+  native typography and physical trim/paper proof remain; no KDP-ready claim.
+owner_gate: "Final visual feedback and eventual paper/gutter/KDP release gates. Do not claim guaranteed absence of show-through."
 dependencies_needed: []
 reusable_outputs:
-  - "Final visual five-page PDF SHA256 ea50f7dd0100cafa45be8477eb469b76d5a803919b1c87e6509a2952cc79f216"
-  - "WILD_ILLUSIONS_DECORATIVE_BIRD_INTRO_FINAL_5_PAGES.pdf; libfile_a7c748e88e408191a99a329b0f60b2f2 version3"
-  - "Independent visual/copy review PASS; targeted Color overlap repaired; all five final renders inspected."
-  - "Blank ISBN/no box, exact URL/Facebook and separate final small AI note retained; no series name invented."
-  - "V4 SHA256 unchanged 2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13"
+  - "WILD_ILLUSIONS_DECORATIVE_BIRD_INTRO_ART_REFINEMENT_V2.pdf"
+  - "libfile_a7c748e88e408191a99a329b0f60b2f2 version5; previous malformed version4 superseded"
+  - "Final post-save PDF SHA256 eab166f74baf822cdabdaf9804d05e898c28fe616041ea92cbba18c8288572ed"
+  - "Five621x810pt pages; ReportLab PDF1.4; all pages render after save with stable hash."
+  - "Latest owner override: Enter has only sparse feather echo, not a fifth full bird."
+  - "V4 SHA256 unchanged2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13"
 next_safe_task: >-
-  Prepare faithful print derivatives/native typography for chosen five-page
-  decorative-bird design. Then patch only accepted first five pages and verify
-  unchanged body. No seek-and-find, tokens, masks, hero changes or volume rebuild.
-checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-decorative-bird-five-intro-final-design.md
+  Prepare faithful print assets/native typography for this updated direction.
+  Preserve Before punctuation/line layout, ISBN without rule and low-ink Enter.
+  Patch accepted intro only, verify unchanged body. No seek-and-find, token,
+  mask, hero, roster or whole-volume rebuild work.
+checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-intro-art-refinement-v2.md
 model_policy_ack: rse-weekly-usage-2026-10-21-v1
 recommended_profile: production
 runtime_model_observed: UNKNOWN
