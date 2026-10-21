@@ -1,53 +1,56 @@
 # First release readiness — 2026-10-21
 
-Status: INTERIOR_DELIVERED__COVER_METADATA_PROOF_PRICE_AND_FINAL_REVIEW_OPEN
+Status: PREMIUM_INTERIOR_DELIVERED__MATCHING_COVER_METADATA_PHYSICAL_PROOF_PRICE_OPEN
 Scope: central receipt reconciliation only; no product files changed.
-Evidence snapshot: agency-agents @ cd3c51119a4c1aaed6d37002bc44c90f4f415c02; Optical mailbox blob 7d562791485a6a533b78cdcea105f34ef405f63d; full-book checkpoint blob 2096643c8e2d284b781d1b23b0fd3db16ec27595.
+Evidence snapshot: agency-agents @ adb2fa30c57a1d45c17aa74b12f7227de821ff60; Optical mailbox blob b86bebcf61cc47cd778fa0f10c758c1a5abb79db; premium checkpoint blob b83711fcf792882ba748128c38ac0dfd2bfce2a0.
 Primary remains Optical Animals / Wild Illusions. Gentle Steps remains the existing fallback.
 
 ## Optical Animals: current exact artifact
 
 | Field | Producer receipt |
 |---|---|
-| Full interior | `WILD_ILLUSIONS_KDP_INTERIOR_FINAL_48P_PRINT.pdf` |
-| SHA256 | `42befffa23a295d0e05c7020fba66f765158c2714000a71af735fab366513516` |
-| Location | Library `libfile_889cc56741a48191a8df99b6c5f86acc`, version 1; `/AI AGENTS/WILD_ILLUSIONS_KDP_INTERIOR_FINAL_48P_PRINT.pdf` |
-| Size / format | 104,811,441 bytes; 48 single pages; PDF 1.7 |
+| Current full interior | `WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf` |
+| SHA256 | `bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef` |
+| Location | Library `libfile_507fe3cae5088191be459397753617d0`, version 1; `/AI AGENTS/WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf` |
+| Size / format | 104,838,751 bytes; 48 single pages; PDF 1.7 |
 | Bleed page | 621 × 810 pt (8.625 × 11.25 in) |
 | Trim | 612 × 792 pt (8.5 × 11 in); alternating outer bleed |
-| Preserved body | All 43 pages 6–48: original order, identical content/image streams and rendered pixels; compressed image streams byte-identical; body image placements minimum 300 ppi |
-| Original V4 | SHA256 `2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13` remains unchanged |
-| Full-wrap cover | No exact matching filename/hash/specification receipt in the inspected current evidence; UNKNOWN |
+| Illustration custody | All 22 encoded body image streams byte-identical to original V4; body image placements minimum 300 ppi |
+| Retained body pages | 41 retained body pages, excluding new 45/48: normalized painting content and rendered pixels identical |
+| Original V4 | SHA256 `2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13` unchanged |
+| Full-wrap cover | Exact matching filename/hash/specification receipt still UNKNOWN |
 
-Source: [producer full-book receipt](../projects/optical-animals/checkpoints/2026-10-21-full-book-print-interior.md) and [producer mailbox](../control-plane/mailboxes/optical_animals.yml).
-These are producer-reported hashes and checks verified against durable Git receipts. Central has not independently downloaded/rehashed or rerendered private PDF bytes. This is a delivered interior candidate, not release approval.
+Source: [premium producer receipt](../projects/optical-animals/checkpoints/2026-10-21-premium-revision-final.md) and [producer mailbox](../control-plane/mailboxes/optical_animals.yml).
+Hashes and checks above are producer-reported and verified against durable Git receipts. Central has not downloaded/rehashed private PDF bytes or rerendered the book. Digital delivery is not owner acceptance or release approval.
 
-## Resolved assembly and superseded evidence
+## Audit response and superseded evidence
 
-The latest accepted five-page selection is: attached paired-peacock title; newest large-bird Publishing; newest large-bird Before You Begin; attached Color Your Way; attached broad-left-optical-frame Enter the Collection. This explicitly supersedes the previous sparse 2.81%-black Enter selection.
+The premium revision supersedes `WILD_ILLUSIONS_KDP_INTERIOR_FINAL_48P_PRINT.pdf` (hash `42befffa23a295d0e05c7020fba66f765158c2714000a71af735fab366513516`), earlier intro-only v5 and malformed v4. Do not use older print-master recommendations.
 
-Intro uses faithful scalable black contour tracing of approximately 127 ppi sources, with a bounded Publishing type repair. It is not native 300 ppi source detail and not a native-typesetting rebuild. Producer reports independent visual QA, outlined type, stable post-save hash, strict parsing and all 48 pages rendered successfully. The old blanket “not integrated / print derivatives not delivered” blocker is closed by this receipt; physical print quality still requires proof.
+The producer records owner authorization to implement audit improvements. Main “Wild Illusions / A Premium Op Art Coloring Book” retained; secondary line is now “20 Animal Designs to Color.” Before accurately distinguishes 18 single-page designs with blank backs and two facing-page artworks. Publishing has no empty ISBN label; this does not finalize the ISBN choice. Publishing/Before body type uses native EB Garamond outlines; approved intro art/source originals remain unchanged.
 
-Earlier five-page art-refinement PDF version 5 is historical visual work, not the current full interior. Malformed version 4 remains excluded.
+Page 44 remains blank to protect horse43. Page45 says “Let your imagination take flight.” Original butterfly46–47 retained; page48 says “Stay curious. See differently.” There are now19 blank pages, not21. The two spread exceptions are disclosed. The previous central “blank44–45/closing48/title audit pending” item is fulfilled by a concrete response; owner visual acceptance and paper/ink/gutter proof remain open.
+
+Producer reports independent visual/copy and technical PASS against the final hash: strict parsing, all48 MuPDF and Poppler renders, pdftotext zero stderr, correct alternating trim, no live fonts/soft masks/metadata/annotations. Intro consists of faithful vector contours; a300ppi render does not establish native300ppi source detail.
+
+Validation nuance: unused nonpainting default font blocks were removed after a real warning. Whole decoded body streams are therefore NOT byte-identical to V4. All22 encoded illustration streams are unchanged;41 retained body pages have identical normalized painting content and rendered pixels. The former blanket “43 whole content streams unchanged” assertion must not carry forward to this premium artifact.
 
 ## Actual remaining gates
 
 | Requirement | Current evidence / next remedy | Existing owner |
 |---|---|---|
-| Digital assembly/preflight | Producer PASS; exact 48-page interior now identified. No duplicate render or art revision requested centrally | optical_animals |
-| Latest owner review | Owner subsequently requested detailed audit, specifically blank pages 44–45 before butterfly, possible minimal closing sentence on blank page 48, and whether “Optical” accurately describes title/art. This is review feedback, not authority to silently alter art, page count or title. No resulting audit receipt observed yet | optical_animals |
-| Matching full wrap | Expose existing exact cover filename/location/SHA256 and binding, paper, ink, bleed/trim, page-count match. Do not recreate a cover before resolving existing assets | optical_animals |
-| Final metadata | Exact title/subtitle/author/language/ISBN choice must match accepted interior, cover and listing. Blank ISBN label is not a finalized ISBN choice. Review of “Optical” remains with product/owner | optical_animals; marketing consumes accepted facts |
-| Previewer / physical proof | No actual KDP Previewer or physical paper/ink/gutter proof receipt supplied. Digital preflight is separate; no paid proof order or upload authorized | optical_animals / authorized owner |
-| Rights / AI declaration / account | Provenance, rights, truthful generated-content declaration and required account setup status remain unverified; keep private account details outside public Git | optical_animals / authorized owner |
-| Price and royalty | Marketplace/currency, confirmed paper/ink/binding, actual current print cost and proposed launch price/royalty missing. Digital page geometry alone does not settle print cost | marketing_autopilot after verified specification |
-| Consolidated submission decision | Not ready until accepted exact interior + matching cover + required proof + price exist | central_control_tower |
-
-Producer lists blank pages 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 45, 48; capybara spread 6–7 and butterfly 46–47. Those existing page identities explain the focused owner review; they are not central authorization to remove pages or insert copy.
+| Digital interior/audit response | Producer PASS on current premium hash; no central rerender/rebuild needed | optical_animals |
+| Owner visual acceptance | Revised exact interior delivered; acceptance not observed | optical_animals / owner |
+| Matching full wrap | Expose existing filename/location/SHA256 and48-page trim, bleed, binding, paper, ink match. Resolve existing source before any cover recreation | optical_animals |
+| Final metadata | Producer title/subtitle direction is recorded; confirm exact author/language/ISBN choice and agreement across cover/interior/listing | optical_animals; marketing consumes accepted facts |
+| Previewer / physical proof | No actual KDP Previewer or physical paper/ink/gutter proof receipt supplied. Producer still requires physical proof. Digital PASS does not replace it | optical_animals / authorized owner |
+| Rights / AI declaration / account | Exact legal/AI copy preserved by producer; final rights/declaration and required account status still unverified. Private details stay outside public Git | optical_animals / authorized owner |
+| Price and royalty | Need marketplace/currency, confirmed paper/ink/binding, current actual print cost and proposed launch price/royalty | marketing_autopilot after verified spec |
+| Consolidated submission decision | Not ready until exact accepted interior + matching cover + required proof + price exist | central_control_tower |
 
 ## Existing Gentle Steps fallback comparison
 
-Triggered by the concrete Optical intro print hold, not by assumption that missing receipts prove missing files.
+Existing comparison retained because the matching Optical cover and actual print proof remain unverified. The previous intro digital hold is closed; missing receipts do not prove missing files.
 
 - Current Gentle Steps mailbox confirms app audit/native artifacts, not book release readiness. Android tests are not a book-publication prerequisite.
 - [Existing asset inventory](../../marketing/GENTLE_STEPS_ASSET_INVENTORY_2026-10-01.md) names `24 Gentle Paperback ok(3).pdf` and `24 Gentle Steps to Christmas COVER HARDCOVER(2).pdf` in source folder `1SCQUodkBUwSC4Y06EVfdIxya4wUqIASx`. These are historical pointers, not current hash-bound files. A hardcover-named cover cannot be presumed to fit that paperback.
@@ -61,12 +64,10 @@ Decision: DO NOT SWITCH YET. Existing evidence does not establish Gentle Steps a
 
 ## Central handoff and next receipt
 
-Central's own mailbox request `first-release-oa-files-20261021` is now partially fulfilled by the exact full-interior delivery and body-custody/preflight evidence. No explicit acknowledgment of that request ID was observed; artifact delivery must not be mislabelled as task acknowledgment.
+Central request `first-release-oa-files-20261021` is partially fulfilled by the premium interior and concrete audit response. Explicit acknowledgment of that request ID is still not observed; artifact delivery is not task acknowledgment. The producer explicitly acknowledged only the model policy.
 
-Next action: existing Optical writer exposes the matching full-wrap cover receipt and confirmed paper/ink/binding for the 48-page interior, and records its bounded response to the owner's blank-page/title audit. Marketing can then supply a source-dated cost/price calculation. No new renderer, third product, source freeze, paid order, publication or production merge.
-
-Gentle Steps and marketing mailbox blobs remain unchanged from the previous comparison. No evidence supports switching the launch queue.
+Next action: existing Optical writer exposes the matching full-wrap cover receipt and confirmed paper/ink/binding for this premium48-page hash. Do not repeat the audit, reopen corrected page45/48 copy or rebuild artwork. Marketing then provides source-dated cost/price arithmetic. Existing fallback mailboxes remain unchanged; no evidence supports switching the queue.
 
 ## Cost and privacy
 
-No Actions run/retry, spending, billing/subscription change or repo visibility change performed. Owner's stated $7 ceiling is not verified remaining balance. Art bytes and private account details remain outside Git. Central edits only its Brain, Control Plane and own mailbox, with expected-HEAD protection.
+No Actions, spending, billing/subscription change, paid proof order, upload, publication, source freeze or production merge. Central writes only its Brain, Control Plane and own mailbox with expected-HEAD protection. Latest separate Mind Bloom/Supabase discussion does not authorize central product or database writes in this release task.

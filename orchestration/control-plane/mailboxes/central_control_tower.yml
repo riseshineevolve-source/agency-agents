@@ -1,7 +1,7 @@
 lane: central_control_tower
 title: RSE Central Control Tower
 updated: 2026-10-21
-status: OA_FULL_48P_INTERIOR_RECEIVED__COVER_PROOF_PRICE_AND_OWNER_AUDIT_OPEN
+status: OA_PREMIUM48P_RECEIVED__AUDIT_RESPONSE_DELIVERED__COVER_PROOF_PRICE_OPEN
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   observed_base: 3b4d9e7ab19134849eee2eb2b8619b1129d768d8
@@ -9,12 +9,12 @@ branch_or_repo_state:
   core_chats: 11
   supplemental_streams_and_desks: 5
   chat_liveness: not_established_by_registry_or_mailbox
-  reconciled_evidence_base: cd3c51119a4c1aaed6d37002bc44c90f4f415c02
+  reconciled_evidence_base: adb2fa30c57a1d45c17aa74b12f7227de821ff60
 milestone: >-
-  Received exact full48-page OA print interior and producer digital-preflight/body-custody
-  receipt. Assembly and print-derivative delivery are no longer missing. Later owner
-  blank-page/title audit remains open; cover, metadata, actual proof and price still
-  required. No release or sale claimed.
+  Reconciled final premium48-page interior and concrete owner-audit response.
+  Updated current hash, native outlined typography, correct spread copy and45/48
+  minimal text.22 encoded illustration streams unchanged;41 retained rendered
+  pages identical. Matching cover, owner acceptance, actual proof and price open.
 blocker: Primary candidate OA full-wrap cover, exact final interior acceptance, pricing and actual publication
   packet remain unverified. Producers must expose exact existing assets or named blockers. Earlier Gentle Steps CI
   recorded a budget block; latest owner permits extremely sparing Actions under a stated $7
@@ -24,7 +24,7 @@ owner_gate: null
 dependencies_needed:
 - lane: optical_animals
   priority: P0
-  need: preserve_delivered48page_interior_expose_matching_cover_spec_metadata_and_bounded_owner_audit
+  need: preserve_current_premium48page_hash_expose_matching_cover_spec_metadata_and_actual_proof
   complete_when: release_packet_inputs_exist_or_specific_missing_cover_source_or_quality_defect_is_recorded
 - lane: marketing_autopilot
   priority: P0
@@ -124,15 +124,15 @@ policy_notifications:
 
 release_readiness:
   card: orchestration/brain/RSE_FIRST_RELEASE_READINESS_2026-10-21.md
-  evidence_base: cd3c51119a4c1aaed6d37002bc44c90f4f415c02
+  evidence_base: adb2fa30c57a1d45c17aa74b12f7227de821ff60
   evidence_level: PRODUCER_RECEIPTS_READ__PRIVATE_ARTIFACT_BYTES_NOT_REHASHED
-  new_fact: OA_FULL48P_DELIVERED_PRODUCER_PREFLIGHT_PASS_BODY43_IDENTICAL_COVER_PROOF_PRICE_OPEN
-  current_interior_sha256: 42befffa23a295d0e05c7020fba66f765158c2714000a71af735fab366513516
-  current_interior_filename: WILD_ILLUSIONS_KDP_INTERIOR_FINAL_48P_PRINT.pdf
+  new_fact: OA_PREMIUM48P_AUDIT_RESPONSE_DELIVERED_PRODUCER_DIGITAL_PASS_COVER_PROOF_PRICE_OPEN
+  current_interior_sha256: bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef
+  current_interior_filename: WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf
   current_interior_library_version: 1
   historical_intro_review_version: 5
   decorative_bird_direction: OWNER_SELECTED_NO_NEW_FAMILY_DECISION
-  final_visual_feedback: OWNER_BLANK_PAGE_TITLE_AUDIT_PENDING
+  final_visual_feedback: AUDIT_RESPONSE_DELIVERED_OWNER_VISUAL_ACCEPTANCE_NOT_OBSERVED
   print_masters_and_full_interior: DELIVERED_PRODUCER_RECEIPT_NOT_CENTRAL_BYTES_REHASHED
   previous_V7_is_current_final: false
   fallback_compared: gentle_steps_existing_book_receipts
@@ -145,16 +145,17 @@ release_packet_requests:
     to: optical_animals
     priority: P0
     need: >-
-      PARTIALLY FULFILLED: exact48-page interior, SHA256, Library location, unchanged
-      body43pages and producer digital preflight delivered in full-book receipt.
-      Do not repeat assembly or regenerate artwork. Expose existing full-wrap cover
-      filename/location/SHA256 and matching48-page trim/bleed/binding/paper/ink,
-      then exact metadata lock. No cover recreation before existing source is resolved.
-      Respond within own lane to latest owner audit: blank44-45 before butterfly,
-      possible minimal closing text on48, and Optical title/art accuracy. These are
-      review items, not final approved changes. Preserve actual Previewer/physical-proof
-      gates and no paid order/upload/publication.
-    fulfillment: PARTIAL_INTERIOR_DELIVERED_COVER_AND_RELEASE_INPUTS_PENDING
+      PARTIALLY FULFILLED: current WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf,
+      SHA256 bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef,
+      Library libfile_507fe3cae5088191be459397753617d0 version1 and producer digital
+      PASS delivered. Owner audit response is now concrete:44blank,45prelude,
+      48closing, accurate18single+2spread copy and title direction recorded.
+      Preserve this candidate; no repeated audit/art rebuild. Expose existing
+      full-wrap filename/location/SHA256, matching48page trim/bleed/binding/paper/ink
+      and final author/language/ISBN metadata. Resolve existing cover before recreation.
+      Preserve owner visual acceptance and actual Previewer/physical-proof gates.
+      No paid order/upload/publication authorized.
+    fulfillment: PARTIAL_PREMIUM_INTERIOR_AND_AUDIT_RESPONSE_DELIVERED_COVER_RELEASE_INPUTS_PENDING
     acknowledgment: PENDING_EXPLICIT_PRODUCER_ENTRY
   - id: first-release-gs-existing-pair-20261021
     to: gentle_steps
@@ -240,6 +241,7 @@ historical_intro_receipt_reconciliation:
   producer_request_ack: NOT_OBSERVED
 
 full_interior_receipt_reconciliation:
+  historical_superseded_by: premium_interior_receipt_reconciliation
   observed_head: cd3c51119a4c1aaed6d37002bc44c90f4f415c02
   producer_mailbox_blob: 7d562791485a6a533b78cdcea105f34ef405f63d
   producer_checkpoint_blob: 2096643c8e2d284b781d1b23b0fd3db16ec27595
@@ -256,5 +258,27 @@ full_interior_receipt_reconciliation:
   superseded: SPARSE_ENTER_AND_NOT_INTEGRATED_STATUS
   owner_followup: BOUNDED_BLANK44_45_CLOSING48_AND_OPTICAL_TITLE_AUDIT_PENDING
   next_receipt: EXISTING_MATCHING_WRAP_SHA_AND_PAPER_INK_BINDING
+  explicit_request_id_acknowledgment: NOT_OBSERVED
+  release_ready: false
+
+premium_interior_receipt_reconciliation:
+  observed_head: adb2fa30c57a1d45c17aa74b12f7227de821ff60
+  producer_mailbox_blob: b86bebcf61cc47cd778fa0f10c758c1a5abb79db
+  producer_checkpoint_blob: b83711fcf792882ba748128c38ac0dfd2bfce2a0
+  checkpoint: orchestration/projects/optical-animals/checkpoints/2026-10-21-premium-revision-final.md
+  filename: WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf
+  sha256: bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef
+  library_id: libfile_507fe3cae5088191be459397753617d0
+  library_version: 1
+  size_bytes: 104838751
+  pages: 48
+  media_points: [621, 810]
+  trim_points: [612, 792]
+  blank_pages: 19
+  body_custody: ALL22_ENCODED_IMAGES_IDENTICAL_41_RETAINED_PAINT_AND_RENDER_IDENTICAL
+  whole_decoded_body_streams_unchanged: false
+  audit_response: DELIVERED_NOT_OWNER_ACCEPTANCE
+  digital_qa: PRODUCER_PASS_ON_FINAL_HASH_NOT_CENTRAL_BYTES_REHASHED
+  next_receipt: MATCHING_WRAP_SHA_AND_PAPER_INK_BINDING
   explicit_request_id_acknowledgment: NOT_OBSERVED
   release_ready: false
