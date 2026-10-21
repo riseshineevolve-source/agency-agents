@@ -1,11 +1,8 @@
 {
-  "state": "OWNER_AUTHORIZED_V6_BOUNDED_PUZZLE_REPAIRS",
-  "owner": "codex-detective-v6-owner-fixes-20261021",
-  "updated_utc": "2026-10-21T14:21:15.057Z",
-  "expires_utc": "2026-10-21T16:21:15.057Z",
-  "base_branch_head": "97e901aca69b710b01016bed54f4a1a3f7082b60",
-  "baseline_candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
-  "scope": "Owner explicitly requests PHOTO A/B only external captions and repairs Cases02/07/10/15/20 for clear child instructions and exactly one full assignment; matching hints/solutions/figure corrections allowed.",
-  "rule": "One localization candidate writer; independent reviewers write review outputs only. Existing BookFactory remains sole production writer. No main merge, production renderer edit, publication or freeze.",
-  "next_safe_task": "Write separate V6, verify bounded delta and 5 complete witness rosters, review affected closure, supply full manuscript and precise map/caption repair evidence to product writer."
+  "state": "V6_OWNER_READ_CANDIDATE__SOURCE_EXCEPTIONS_CLOSED__PRODUCTION_HANDOFF_PENDING",
+  "owner": null,
+  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "checkpoint": "v6/CHECKPOINT.md",
+  "rule": "V5retained; V6is exact owner-authorized bounded correction. Existing BookFactory remains sole production writer.",
+  "next_safe_task": "Existing BookFactory writer consumes exact V6 text/figure packet, binds mapped destination receipts and final illustrated typesetting. No new localization rewrite without concrete defect."
 }

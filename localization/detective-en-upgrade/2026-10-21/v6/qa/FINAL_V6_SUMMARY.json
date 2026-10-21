@@ -1,0 +1,53 @@
+{
+  "status": "V6_OWNER_READ_CANDIDATE__SIX_SOURCE_EXCEPTIONS_REPAIRED",
+  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "baseline_v5_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "units": 3067,
+  "changed_units_from_v5": 27,
+  "unchanged_units_from_v5": 3040,
+  "changed_source_folios": [
+    20,
+    24,
+    25,
+    27,
+    42,
+    54,
+    74,
+    96,
+    154,
+    164,
+    165,
+    190
+  ],
+  "operations_from_original225": 118,
+  "repaired_map_cases": [
+    2,
+    7,
+    10,
+    15,
+    20
+  ],
+  "independent_variants_checked": 9,
+  "each_complete_assignment_count": 1,
+  "intended_rosters_and_case26_case30_payoffs": "PRESERVED",
+  "case03": "PHOTO A/B only external captions. Inside-photo017/071evidence and later archive trail preserved.",
+  "figure_edits": "Four marker replacements on two Case20 leaves, plus two external photo captions. All raster artwork unchanged.",
+  "reading_proof": "225pages,177text leaves plus48original evidence leaves including corrected figures.",
+  "language_qa": "OWNER_READ_CANDIDATE",
+  "figure_qa": "PASS_ACTUAL_AUTHORIZED_FIGURE_PATCHES",
+  "production_import_and_final_typesetting": "PENDING_SOLE_BOOK_FACTORY_WRITER",
+  "physical_print": "NOT_RUN",
+  "freeze_granted": false,
+  "publication": false,
+  "github_ci": "NOT_CONFIRMED_AT_FINAL_HEAD__LOCAL_CHECKS_COMPLETED_NO_ACTIONS_DISPATCH",
+  "model_policy_ack": {
+    "policy": "rse-weekly-usage-2026-10-21-v1",
+    "recommended_profile": "production",
+    "runtime_model_observed": "NOT_EXPOSED",
+    "runtime_reasoning_observed": "NOT_EXPOSED",
+    "runtime_speed_observed": "NOT_EXPOSED",
+    "application_status": "RECOMMENDATION_ONLY"
+  },
+  "revenue_policy_ack": "Bounded owner-requested six-case release-blocker correction only; no factory features or new translation.",
+  "next_safe_task": "Existing BookFactory writer consumes exact V6 text/figure packet, binds mapped destination receipts and final illustrated typesetting. No new localization rewrite without concrete defect."
+}

@@ -1,0 +1,14 @@
+{
+  "owner_instruction_original": "1 case 03- wogole nie dawajmy podpisu w takim razie file 017 i file 071 ani older ani current . samo photo A i photo B zeby od razu nie wskazywac ze jest roznia 017 i 071. ok to zrob fixy wszystkich innych podanych cases tak zeby bylo jasno logicznie spojnie dobrze i dawalo tylko jedno mozliwe rozwiazanie i doprecyzuj tak wskazowki ze dziecko dokladnie rozumie wszystko",
+  "date_local": "2026-10-21",
+  "timezone": "Europe/Warsaw",
+  "scope": "Bounded source repairs Cases02/03/07/10/15/20, matching hints/solutions/callback, and Case20 usable-bunk symbols.",
+  "baseline_candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "intended_witness_rosters": "Preserved. Expected rosters may only be compared after enumeration.",
+  "case07_anchor": "New precise C2 metal-frame anchor chosen within explicit owner repair authority; not identified retrospectively as the old range marker.",
+  "case20_art_decision": "E5/E7/F7 visually identical bunk beds are all usable cadet bunks; E7/F7 require open circles on unsolved97 and solved211.",
+  "caption_decision": "External black-bar captions only PHOTO A and PHOTO B; photographic evidence017/071 is preserved inside the photos.",
+  "production_writer": "Existing exclusive BookFactory writer retains production source/renderer. This lane creates a localized candidate and bounded source-patch evidence.",
+  "freeze_or_release": false
+}

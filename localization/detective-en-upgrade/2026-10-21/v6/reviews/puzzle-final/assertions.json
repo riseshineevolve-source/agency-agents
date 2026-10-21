@@ -1,0 +1,51 @@
+{
+  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "baseline_v5_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "stable_ids": 3067,
+  "changed_units": 27,
+  "unchanged_units": 3040,
+  "exact_changed_ids_match_declared_ledger": true,
+  "each_ledger_before_after_hash_checked": true,
+  "caption_A_exact": "PHOTO A",
+  "caption_B_exact": "PHOTO B",
+  "no_017_071_text_before_completion_of_photo_puzzle": true,
+  "obsolete_repaired_referents_absent": true,
+  "case26_changed_case_empty_room_initials": [
+    {
+      "case": 2,
+      "empty_room_derived_from_independent_full_assignment": "Coach's Office",
+      "initial": "C"
+    },
+    {
+      "case": 7,
+      "empty_room_derived_from_independent_full_assignment": "Costume Room",
+      "initial": "C"
+    },
+    {
+      "case": 10,
+      "empty_room_derived_from_independent_full_assignment": "Kinetics Lab",
+      "initial": "K"
+    },
+    {
+      "case": 15,
+      "empty_room_derived_from_independent_full_assignment": "Equipment Room",
+      "initial": "E"
+    },
+    {
+      "case": 20,
+      "empty_room_derived_from_independent_full_assignment": "Drying Room",
+      "initial": "D"
+    }
+  ],
+  "case26_full_extraction_retained": "CHECKTHEOLDMAP",
+  "case26_scope_note": "Only five changed spatial models recomputed here; other nine selected-case semantics inherited from accepted source audit, and all intended full rosters unchanged.",
+  "case30_final_fields_unchanged": true,
+  "case30_fields": {
+    "RULE_WORD": "ASSUMPTIONS",
+    "ACCESS": "D3",
+    "CODE": "BALL\u2013STAR\u2013BOLT\u2013HEART\u2013KEY\u2013MOON",
+    "CALL_SIGN": "reader official call sign"
+  },
+  "nine_independent_repair_variants_unique": true,
+  "actual_map_patch_pixels_reviewed": false
+}

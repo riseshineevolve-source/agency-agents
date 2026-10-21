@@ -1,0 +1,108 @@
+{
+  "status": "PASS_ACTUAL_FOUR_LEAF_FIGURE_PATCH_PDF",
+  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "corrected_figures_pdf_sha256": "97f93e50551c25f7def860f3142b7010919d67e32b1a4a9995c0aa4a4e0302e9",
+  "reading_proof_pdf_sha256": "b247627072f41b610a6697b6532239981c2a9a31f815c0c5ff0d43ee334963e5",
+  "patch_manifest_sha256": "fd4dc3ee30352759186f99e87e5549d835290afc17ec133da0f07c49a21a4088",
+  "scope": "Original folios24/25/97/211 only. Independent original-vs-corrected render/payload comparisons and fullproof consistency, plus actual visual inspection of supplied exactPDF renders.",
+  "pages": [
+    {
+      "source_folio": 24,
+      "corrected_figures_leaf": 1,
+      "all_original_image_payloads_and_placements_preserved": true,
+      "original_image_count": 2,
+      "pixel_comparison_scale": 3.0,
+      "changed_pixels": 4695,
+      "changed_pixels_outside_declared_patch_rectangles": 0,
+      "matches_full_225_proof_exact_render": true,
+      "provided_png_exact_pdf_render": true,
+      "provided_png_sha256": "93b2d9c6263cdc059119340c2bbc9b520b5c587165d9562b1e45efbe2e54d483",
+      "caption": "PHOTO A",
+      "photograph_pixels_exact": true,
+      "internal_evidence_number_visual_review": "017"
+    },
+    {
+      "source_folio": 25,
+      "corrected_figures_leaf": 2,
+      "all_original_image_payloads_and_placements_preserved": true,
+      "original_image_count": 2,
+      "pixel_comparison_scale": 3.0,
+      "changed_pixels": 3588,
+      "changed_pixels_outside_declared_patch_rectangles": 0,
+      "matches_full_225_proof_exact_render": true,
+      "provided_png_exact_pdf_render": true,
+      "provided_png_sha256": "a47e40426be7e6768b6015ce953ea483e544b5409cdf538b1e359c0a534c5137",
+      "caption": "PHOTO B",
+      "photograph_pixels_exact": true,
+      "internal_evidence_number_visual_review": "071"
+    },
+    {
+      "source_folio": 97,
+      "corrected_figures_leaf": 3,
+      "all_original_image_payloads_and_placements_preserved": true,
+      "original_image_count": 2,
+      "pixel_comparison_scale": 3.0,
+      "changed_pixels": 507,
+      "changed_pixels_outside_declared_patch_rectangles": 0,
+      "matches_full_225_proof_exact_render": true,
+      "provided_png_exact_pdf_render": true,
+      "provided_png_sha256": "cff245d8eb6ab3514998380129a6ee4e68d00f049db11e4bb81bb5407d81669a",
+      "markers": [
+        {
+          "cell": "E7",
+          "original_center_gray": 0,
+          "new_center_gray": 236,
+          "visible_dark_outline": true,
+          "visible_open_center": true
+        },
+        {
+          "cell": "F7",
+          "original_center_gray": 4,
+          "new_center_gray": 226,
+          "visible_dark_outline": true,
+          "visible_open_center": true
+        }
+      ],
+      "E5_and_all_other_pixels_unchanged_outside_two_marker_rectangles": true,
+      "witness_labels_positions_furniture_and_walls_unchanged": true
+    },
+    {
+      "source_folio": 211,
+      "corrected_figures_leaf": 4,
+      "all_original_image_payloads_and_placements_preserved": true,
+      "original_image_count": 5,
+      "pixel_comparison_scale": 3.0,
+      "changed_pixels": 484,
+      "changed_pixels_outside_declared_patch_rectangles": 0,
+      "matches_full_225_proof_exact_render": true,
+      "provided_png_exact_pdf_render": true,
+      "provided_png_sha256": "b4348c2e2ac3536beab1c024383ebea8e8594bd406d935c95e240dc1fc054a57",
+      "markers": [
+        {
+          "cell": "E7",
+          "original_center_gray": 0,
+          "new_center_gray": 236,
+          "visible_dark_outline": true,
+          "visible_open_center": true
+        },
+        {
+          "cell": "F7",
+          "original_center_gray": 4,
+          "new_center_gray": 225,
+          "visible_dark_outline": true,
+          "visible_open_center": true
+        }
+      ],
+      "E5_and_all_other_pixels_unchanged_outside_two_marker_rectangles": true,
+      "witness_labels_positions_furniture_and_walls_unchanged": true
+    }
+  ],
+  "not_claimed": [
+    "BookFactoryproductionimport",
+    "nativeproductsourceupdated",
+    "full225illustratedlayoutapproval",
+    "physicalprint",
+    "PRINT_READY"
+  ]
+}

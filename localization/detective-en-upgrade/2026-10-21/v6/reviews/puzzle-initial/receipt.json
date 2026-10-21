@@ -1,0 +1,13 @@
+{
+  "reviewer": "actual independent agent /root/v6_puzzle_review",
+  "stage": "initial repair-model/dependency review",
+  "source_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "baseline_v5_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "candidate_v6_reviewed": false,
+  "status": "NINE_INDEPENDENT_REPAIR_MODELS_UNIQUE_INTENDED_ROSTERS",
+  "files_sha256": {
+    "independent-results.json": "4461eac89c3c7d8ebe674008b044b9f2cc32edc08709a18ab63841ef711494a8",
+    "independent-enumeration.py": "93f75a4ba06481aab58ba07957d2e439eb5c3b13e058d8f6d756511d80b9c83a",
+    "review.md": "99eb8d3a2820a09373ba8c1b7efdb387d98625986a579d58e1a7f872dcc1d0c4"
+  }
+}
