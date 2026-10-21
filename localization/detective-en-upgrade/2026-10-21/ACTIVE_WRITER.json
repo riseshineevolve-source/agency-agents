@@ -1,8 +1,13 @@
 {
-  "state": "V6_OWNER_READ_CANDIDATE__SOURCE_EXCEPTIONS_CLOSED__PRODUCTION_HANDOFF_PENDING",
-  "owner": null,
-  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
-  "checkpoint": "v6/CHECKPOINT.md",
-  "rule": "V5retained; V6is exact owner-authorized bounded correction. Existing BookFactory remains sole production writer.",
-  "next_safe_task": "Existing BookFactory writer consumes exact V6 text/figure packet, binds mapped destination receipts and final illustrated typesetting. No new localization rewrite without concrete defect."
+  "state": "V7_EDITORIAL_WRITER_ACTIVE",
+  "owner": "rse-language/root",
+  "baseline_candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "authority": "Owner explicitly requested full English re-upgrade with rse-language, especially witty, warm Happy Makers Comms; 2026-10-21.",
+  "scope": "All prose and Comms independently diagnosed; all V6 puzzle repairs and immutable puzzle truth protected.",
+  "writers": 1,
+  "reviewers": [
+    "v6_native_review",
+    "v6_puzzle_review"
+  ],
+  "production_writer": "Existing exclusive BookFactory writer; no renderer modification, main merge, content freeze or publication."
 }
