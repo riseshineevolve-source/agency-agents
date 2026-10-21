@@ -1,0 +1,4728 @@
+{
+  "format": "rse-language-candidate-v1",
+  "language": "pl",
+  "run_sha256": "6043bfb7c975ef521bb7483f880a320b776d0d35c0f2c0d7a5232ee6e458206c",
+  "writer_packet_sha256": "fe8f52b80454c6028e0825b3506bcea838e5e986b461a51c2e3235b2ceb37a60",
+  "segments": [
+    {
+      "id": "web.0001",
+      "text": "Przejdź do treści"
+    },
+    {
+      "id": "web.0002",
+      "text": "{slot_1}Menu {slot_2}☰"
+    },
+    {
+      "id": "web.0003",
+      "text": "Centrum wiedzy"
+    },
+    {
+      "id": "web.0004",
+      "text": "Dzieci"
+    },
+    {
+      "id": "web.0005",
+      "text": "Nastolatki"
+    },
+    {
+      "id": "web.0006",
+      "text": "Dorośli"
+    },
+    {
+      "id": "web.0007",
+      "text": "Seniorzy"
+    },
+    {
+      "id": "web.0008",
+      "text": "Poradniki"
+    },
+    {
+      "id": "web.0009",
+      "text": "Darmowe materiały"
+    },
+    {
+      "id": "web.0010",
+      "text": "Kontakt"
+    },
+    {
+      "id": "web.0011",
+      "text": "Strona główna"
+    },
+    {
+      "id": "web.0012",
+      "text": "Dorośli"
+    },
+    {
+      "id": "web.0013",
+      "text": "Praktyczne sposoby na więcej spokoju, trwalsze nawyki i lepsze porozumienie w rodzinie."
+    },
+    {
+      "id": "web.0014",
+      "text": "Od czego warto zacząć"
+    },
+    {
+      "id": "web.0015",
+      "text": "Stres i regeneracja układu nerwowego"
+    },
+    {
+      "id": "web.0016",
+      "text": "Jasna komunikacja w domu i na co dzień"
+    },
+    {
+      "id": "web.0017",
+      "text": "Nawyki, które pomagają dbać o energię i regularność"
+    },
+    {
+      "id": "web.0018",
+      "text": "Nastawienie i odzyskiwanie równowagi w trudnych chwilach"
+    },
+    {
+      "id": "web.0019",
+      "text": "Proste codzienne zwyczaje dla lepszego samopoczucia"
+    },
+    {
+      "id": "web.0020",
+      "text": "Spróbuj przez tydzień"
+    },
+    {
+      "id": "web.0021",
+      "text": "Wybierz jedną rzecz, nad którą chcesz popracować."
+    },
+    {
+      "id": "web.0022",
+      "text": "Przez 7 dni codziennie wypróbuj jeden mały krok."
+    },
+    {
+      "id": "web.0023",
+      "text": "Zobacz, co się zmienia, i zachowaj to, co Ci służy."
+    },
+    {
+      "id": "web.0024",
+      "text": "Częste pytania"
+    },
+    {
+      "id": "web.0025",
+      "text": "{slot_1}Czy są tu już wszystkie materiały? {slot_2}Ta część strony już działa. Z czasem planujemy dodawać kolejne materiały."
+    },
+    {
+      "id": "web.0026",
+      "text": "{slot_1}Od czego zacząć? {slot_2}Wybierz jeden temat i jedną codzienną praktykę z naszego tygodniowego planu."
+    },
+    {
+      "id": "web.0027",
+      "text": "Zajrzyj do Darmowych materiałów"
+    },
+    {
+      "id": "web.0028",
+      "text": "Przeglądaj książki w Bibliotece"
+    },
+    {
+      "id": "web.0029",
+      "text": "Zobacz wszystkie ścieżki"
+    },
+    {
+      "id": "web.0030",
+      "text": "Wróć do centrum wiedzy"
+    },
+    {
+      "id": "web.0031",
+      "text": "ŚWIĘTA SĄ TEŻ PO DRODZE"
+    },
+    {
+      "id": "web.0032",
+      "text": "Poznaj historię i wybierz wersję"
+    },
+    {
+      "id": "web.0033",
+      "text": "© 2026 Rise.Shine.Evolve. Wszelkie prawa zastrzeżone."
+    },
+    {
+      "id": "web.0034",
+      "text": "Bądź na bieżąco z Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0035",
+      "text": "Nawigacja główna"
+    },
+    {
+      "id": "web.0036",
+      "text": "Polski"
+    },
+    {
+      "id": "web.0037",
+      "text": "Książka czy aplikacja?"
+    },
+    {
+      "id": "web.0038",
+      "text": "Bliżej siebie w rodzinie | Świąteczne zapowiedzi | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0039",
+      "text": "Praktyczne pomysły dla dorosłych i wydane książki do wspólnego odkrywania z dziećmi. Zapowiedzi angielskiej książki świątecznej i aplikacji oraz osobno przygotowywanej polskiej wersji."
+    },
+    {
+      "id": "web.0040",
+      "text": "Dzieci"
+    },
+    {
+      "id": "web.0041",
+      "text": "Nastolatki"
+    },
+    {
+      "id": "web.0042",
+      "text": "Seniorzy"
+    },
+    {
+      "id": "web.0043",
+      "text": "Biblioteka"
+    },
+    {
+      "id": "web.0044",
+      "text": "W przygotowaniu"
+    },
+    {
+      "id": "web.0045",
+      "text": "Darmowe materiały"
+    },
+    {
+      "id": "web.0046",
+      "text": "Happy Me Adventures"
+    },
+    {
+      "id": "web.0047",
+      "text": "Trochę więcej odwagi, trochę więcej spokoju. I bliżej siebie na co dzień."
+    },
+    {
+      "id": "web.0048",
+      "text": "Możecie czytać na papierze lub odkrywać świat w interaktywnej formie. To osobne wersje, a każda ma własny status wydania."
+    },
+    {
+      "id": "web.0049",
+      "text": "{slot_1}Książka {slot_2}→ {slot_3}Drukowana przygoda z zagadkami {slot_4}Dostępne"
+    },
+    {
+      "id": "web.0050",
+      "text": "Dopracowujemy przed wydaniem aplikację na Androida, w której towarzyszy Wam rodzina Happy Makers. Poprzez zabawę ma wspierać pewność siebie, radzenie sobie z silnymi emocjami, uważność i bliskość w domu."
+    },
+    {
+      "id": "web.0051",
+      "text": "Z myślą o zwykłych rodzinnych dniach"
+    },
+    {
+      "id": "web.0052",
+      "text": "Dorastanie to także zmartwienia, pomyłki i chwile, gdy trudno znaleźć właściwe słowa. W planowanej aplikacji dzieci i dorośli będą mogli wspólnie przyglądać się takim sytuacjom."
+    },
+    {
+      "id": "web.0053",
+      "text": "To zapowiedź. Ostateczne funkcje i zalecany wiek użytkowników podamy po ich zweryfikowaniu."
+    },
+    {
+      "id": "web.0054",
+      "text": "Wolisz zacząć już teraz, z książką w ręku?"
+    },
+    {
+      "id": "web.0055",
+      "text": "Zanim wybierzesz"
+    },
+    {
+      "id": "web.0056",
+      "text": "Czym jest Happy Me Adventures?"
+    },
+    {
+      "id": "web.0057",
+      "text": "Happy Me Adventures to obecna nazwa przygotowywanej aplikacji na Androida. Projekt dotyczy pewności siebie, silnych emocji, uważności i rodzinnej bliskości. Dopracowujemy aplikację przed wydaniem."
+    },
+    {
+      "id": "web.0058",
+      "text": "Czy aplikacja jest już w Google Play?"
+    },
+    {
+      "id": "web.0059",
+      "text": "Planujemy wydanie w Google Play. Nie ma jeszcze zweryfikowanej strony aplikacji w sklepie ani potwierdzonej daty premiery."
+    },
+    {
+      "id": "web.0060",
+      "text": "Czy to ta sama rzecz co wydana książka?"
+    },
+    {
+      "id": "web.0061",
+      "text": "Nie. Wydana książka nosi tytuł The Confident, Mindful & Happy Me Adventure. Happy Me Adventures to nazwa projektu aplikacji na Androida. To osobne produkty."
+    },
+    {
+      "id": "web.0062",
+      "text": "Dla kogo powstaje i na czym będzie działać?"
+    },
+    {
+      "id": "web.0063",
+      "text": "To projekt na Androida dla dzieci i ich rodzin. Ostateczne funkcje oraz zalecany wiek potwierdzimy przed premierą."
+    },
+    {
+      "id": "web.0064",
+      "text": "Co jeszcze warto odkryć"
+    },
+    {
+      "id": "web.0065",
+      "text": "Zagadki detektywistyczne • 8–12 lat"
+    },
+    {
+      "id": "web.0066",
+      "text": "Happy Makers Detective Academy: The Mystery of Room Zero"
+    },
+    {
+      "id": "web.0067",
+      "text": "Sprawy, które łączą się w większą tajemnicę. Przyglądaj się szczegółom, myśl samodzielnie i prowadź śledztwo z Happy Makers."
+    },
+    {
+      "id": "web.0068",
+      "text": "Zajrzyj do Akademii Detektywów"
+    },
+    {
+      "id": "web.0069",
+      "text": "Android • 24 dni rodzinnego adwentu"
+    },
+    {
+      "id": "web.0070",
+      "text": "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem."
+    },
+    {
+      "id": "web.0071",
+      "text": "Poznaj ŚWIĘTA SĄ TEŻ PO DRODZE"
+    },
+    {
+      "id": "web.0072",
+      "text": "rise.shine.evolve@gmail.com"
+    },
+    {
+      "id": "web.0073",
+      "text": "Warunki korzystania"
+    },
+    {
+      "id": "web.0074",
+      "text": "Polityka prywatności"
+    },
+    {
+      "id": "web.0075",
+      "text": "Zwroty i zwrot pieniędzy"
+    },
+    {
+      "id": "web.0076",
+      "text": "Zamknij"
+    },
+    {
+      "id": "web.0077",
+      "text": "Happy Me Adventures"
+    },
+    {
+      "id": "web.0078",
+      "text": "Android • Planowane wydanie w Google Play"
+    },
+    {
+      "id": "web.0079",
+      "text": "Jeden pomysł, dwa sposoby odkrywania"
+    },
+    {
+      "id": "web.0080",
+      "text": "Aplikacja"
+    },
+    {
+      "id": "web.0081",
+      "text": "Android • Interaktywne zadania"
+    },
+    {
+      "id": "web.0082",
+      "text": "Wydana książka The Confident, Mindful & Happy Me Adventure zaprasza na 31 dni wspólnej przygody. Przygotowywana aplikacja na Androida nosi nazwę Happy Me Adventures."
+    },
+    {
+      "id": "web.0083",
+      "text": "Wydanie w Google Play jest planowane. Aplikacji nie można jeszcze pobrać. Nie podajemy adresu sklepu, ceny ani potwierdzonej daty premiery."
+    },
+    {
+      "id": "web.0084",
+      "text": "Wybór wersji"
+    },
+    {
+      "id": "web.0085",
+      "text": "Powiązane projekty"
+    },
+    {
+      "id": "web.0086",
+      "text": "Informacje prawne"
+    },
+    {
+      "id": "web.0087",
+      "text": "Zamknij politykę prywatności"
+    },
+    {
+      "id": "web.0088",
+      "text": "Happy Me Adventures | Zapowiedź aplikacji na Androida | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0089",
+      "text": "Przygotowujemy Happy Me Adventures: projekt na Androida o pewności siebie i rodzinnej bliskości. Planowane wydanie w Google Play; pobieranie nie jest jeszcze dostępne."
+    },
+    {
+      "id": "web.0090",
+      "text": "Happy Makers przedstawiają • Android"
+    },
+    {
+      "id": "web.0091",
+      "text": "ŚWIĘTA SĄ TEŻ PO DRODZE"
+    },
+    {
+      "id": "web.0092",
+      "text": "Dziesięć minut dla siebie nawzajem, nawet w zabieganym grudniu."
+    },
+    {
+      "id": "web.0093",
+      "text": "Przygotowywana aplikacja poprowadzi Was przez 24 rodzinne dni. To ten sam świąteczny pomysł w osobnej wersji na urządzenie. Zakup książki nie obejmuje aplikacji."
+    },
+    {
+      "id": "web.0094",
+      "text": "Jeden pomysł na 24 rodzinne dni. Drukowane odliczanie do świąt i aplikacja na Androida to osobne wydania. Żadne nie jest jeszcze dostępne."
+    },
+    {
+      "id": "web.0095",
+      "text": "{slot_1}Książka {slot_2}→ {slot_3}Drukowane rodzinne odliczanie do świąt {slot_4}W przygotowaniu"
+    },
+    {
+      "id": "web.0096",
+      "text": "Każdy dzień ma swój rytm"
+    },
+    {
+      "id": "web.0097",
+      "text": "Zatrzymajcie się na chwilę. Pobawcie się. Porozmawiajcie. Pobądźcie bliżej."
+    },
+    {
+      "id": "web.0098",
+      "text": "{slot_1}Każdego dnia po kolei: {slot_2}ZŁAPMY CHWILĘ{slot_3}, {slot_4}ZRÓBMY COŚ RAZEM {slot_5}i {slot_6}POGADAJMY{slot_7}. Dodatkowa część {slot_8}NA JUTRO {slot_9}podsuwa pomysł do wykorzystania w codziennych sytuacjach."
+    },
+    {
+      "id": "web.0099",
+      "text": "Najpierw przygotowujemy aplikację po angielsku. Polska wersja jest planowana osobno. Ta strona nie jest działającą aplikacją ani jej stroną w Google Play."
+    },
+    {
+      "id": "web.0100",
+      "text": "Jeszcze nie w Google Play"
+    },
+    {
+      "id": "web.0101",
+      "text": "Prace nad wersją na Androida trwają. Nie ma jeszcze potwierdzonej daty premiery, ceny ani zweryfikowanego linku do pobrania."
+    },
+    {
+      "id": "web.0102",
+      "text": "Zobacz osobną zapowiedź książki po angielsku"
+    },
+    {
+      "id": "web.0103",
+      "text": "Która forma będzie Wam bliższa?"
+    },
+    {
+      "id": "web.0104",
+      "text": "Czym jest świąteczna aplikacja na Androida?"
+    },
+    {
+      "id": "web.0105",
+      "text": "To przygotowywana rodzinna aplikacja świąteczna na 24 dni. Każdego dnia zaprosi do krótkiej chwili zatrzymania, wspólnej zabawy i rozmowy. Nie została jeszcze wydana."
+    },
+    {
+      "id": "web.0106",
+      "text": "Czy książka i aplikacja mają ten sam tytuł?"
+    },
+    {
+      "id": "web.0107",
+      "text": "Tak, angielska książka i aplikacja mają obecnie ten sam świąteczny tytuł. Każda jest wydawana i kupowana oddzielnie."
+    },
+    {
+      "id": "web.0108",
+      "text": "Czym te wersje różnią się w praktyce?"
+    },
+    {
+      "id": "web.0109",
+      "text": "Drukowane odliczanie do świąt pozwala spędzić ten czas bez ekranu. Wersja na Androida prowadzi przez aktywności na urządzeniu. W obu chodzi o około 10 minut dziennie dla rodziny. Książki nie można jeszcze kupić, a aplikacji pobrać."
+    },
+    {
+      "id": "web.0110",
+      "text": "Czy aplikację można już pobrać?"
+    },
+    {
+      "id": "web.0111",
+      "text": "Nie. Nie ma jeszcze wersji do pobrania ani zweryfikowanej strony w Google Play. Prace nad aplikacją na Androida trwają, a data premiery nie została potwierdzona."
+    },
+    {
+      "id": "web.0112",
+      "text": "Czy będzie wersja po polsku?"
+    },
+    {
+      "id": "web.0113",
+      "text": "Pracujemy nad polską wersją językową. Polskiej aplikacji nie można jeszcze pobrać."
+    },
+    {
+      "id": "web.0114",
+      "text": "Małe chwile, trochę ciekawości i więcej miejsca dla siebie nawzajem."
+    },
+    {
+      "id": "web.0115",
+      "text": "Wszystkie ścieżki"
+    },
+    {
+      "id": "web.0116",
+      "text": "Wróć do centrum wiedzy"
+    },
+    {
+      "id": "web.0117",
+      "text": "Android"
+    },
+    {
+      "id": "web.0118",
+      "text": "Android • W przygotowaniu"
+    },
+    {
+      "id": "web.0119",
+      "text": "24 dni z przewodnikiem na Androidzie"
+    },
+    {
+      "id": "web.0120",
+      "text": "24 dni"
+    },
+    {
+      "id": "web.0121",
+      "text": "Świąteczne aktywności dla całej rodziny"
+    },
+    {
+      "id": "web.0122",
+      "text": "Android"
+    },
+    {
+      "id": "web.0123",
+      "text": "W przygotowaniu • Bez wersji do pobrania"
+    },
+    {
+      "id": "web.0124",
+      "text": "Około 10 minut"
+    },
+    {
+      "id": "web.0125",
+      "text": "Wspólnego czasu każdego dnia"
+    },
+    {
+      "id": "web.0126",
+      "text": "Wolicie grudzień z książką, bez ekranu?"
+    },
+    {
+      "id": "web.0127",
+      "text": "Obie wersje mają obecnie ten sam tytuł, ale każda ma własny status wydania."
+    },
+    {
+      "id": "web.0128",
+      "text": "Informacje o aplikacji"
+    },
+    {
+      "id": "web.0129",
+      "text": "ŚWIĘTA SĄ TEŻ PO DRODZE | Rodzinna aplikacja świąteczna na Androida"
+    },
+    {
+      "id": "web.0130",
+      "text": "Projekt na 24 dni rodzinnych aktywności na Androidzie: chwila zatrzymania, zabawa i rozmowa każdego dnia. W przygotowaniu, bez możliwości pobrania z Google Play."
+    },
+    {
+      "id": "web.0131",
+      "text": "Wróć do Biblioteki"
+    },
+    {
+      "id": "web.0132",
+      "text": "Niech w grudniu znajdzie się miejsce na chwile, do których będziecie wracać."
+    },
+    {
+      "id": "web.0133",
+      "text": "Adwentowa podróż, która zbliża Was do siebie dzięki prostym codziennym zabawom i chwilom uważności."
+    },
+    {
+      "id": "web.0134",
+      "text": "Co to za książka?"
+    },
+    {
+      "id": "web.0135",
+      "text": "Ciepły, uważny kalendarz adwentowy w formie książki."
+    },
+    {
+      "id": "web.0136",
+      "text": "24 krótkie zadania, po jednym na każdy dzień adwentu."
+    },
+    {
+      "id": "web.0137",
+      "text": "Dla zabieganych rodzin. Bez oczekiwania, że wszystko musi wyjść idealnie."
+    },
+    {
+      "id": "web.0138",
+      "text": "Co znajdziecie w środku"
+    },
+    {
+      "id": "web.0139",
+      "text": "Minutowe ćwiczenia uważności, które sprawiają dzieciom przyjemność."
+    },
+    {
+      "id": "web.0140",
+      "text": "Krótkie, zabawne gry bez bałaganu."
+    },
+    {
+      "id": "web.0141",
+      "text": "Jedno ciepłe zdanie, które każdego dnia wypowiadacie razem."
+    },
+    {
+      "id": "web.0142",
+      "text": "Za co rodziny mogą ją polubić"
+    },
+    {
+      "id": "web.0143",
+      "text": "Wystarczy 10 minut dziennie."
+    },
+    {
+      "id": "web.0144",
+      "text": "Bez przygotowań, materiałów i bałaganu."
+    },
+    {
+      "id": "web.0145",
+      "text": "Wspiera codzienne zwyczaje, radzenie sobie z emocjami i rodzinne więzi."
+    },
+    {
+      "id": "web.0146",
+      "text": "Dla dzieci w wieku 4–14 lat. Także tych starszych, które na rodzinne pomysły mają zwykle gotowe „serio?”."
+    },
+    {
+      "id": "web.0147",
+      "text": "Spokojniejszy, przytulniejszy grudzień, bliżej siebie."
+    },
+    {
+      "id": "web.0148",
+      "text": "Przez tę przygodę poprowadzi Was rodzina Happy Makers"
+    },
+    {
+      "id": "web.0149",
+      "text": "Nini: mała osóbka z ogromnym zapasem radości."
+    },
+    {
+      "id": "web.0150",
+      "text": "Alio: czułość, psoty i pomysły, na które nikt inny by nie wpadł."
+    },
+    {
+      "id": "web.0151",
+      "text": "Dilo: na zimowych sportach zna się świetnie. Na swojej fryzurze, jego zdaniem, jeszcze lepiej."
+    },
+    {
+      "id": "web.0152",
+      "text": "Luli: ciekawa świata odkrywczyni świątecznych cudów. Oczywiście w dobrym stylu."
+    },
+    {
+      "id": "web.0153",
+      "text": "Mimi: serce rodziny, z własnym wyczuciem stylu."
+    },
+    {
+      "id": "web.0154",
+      "text": "Ich ciepłe, żartobliwe uwagi będą Wam towarzyszyć w całej książce."
+    },
+    {
+      "id": "web.0155",
+      "text": "Prezent dla rodziny"
+    },
+    {
+      "id": "web.0156",
+      "text": "Dla małych i dużych rodzin."
+    },
+    {
+      "id": "web.0157",
+      "text": "{slot_1}Zwykły kalendarz kryje małe niespodzianki. {slot_2}Ten proponuje małe zmiany, które możecie odkrywać w sobie i w rodzinie."
+    },
+    {
+      "id": "web.0158",
+      "text": "Pomysł na coroczną tradycję, o którą dzieci poproszą znów za rok."
+    },
+    {
+      "id": "web.0159",
+      "text": "Co zostaje na dłużej"
+    },
+    {
+      "id": "web.0160",
+      "text": "Małe wspomnienia, zbierane dzień po dniu."
+    },
+    {
+      "id": "web.0161",
+      "text": "Wspólne działanie, śmiech i zaufanie."
+    },
+    {
+      "id": "web.0162",
+      "text": "Łagodne sposoby na chwilę spokoju w zabieganym miesiącu."
+    },
+    {
+      "id": "web.0163",
+      "text": "Zaproście do grudnia więcej spokoju i bliskości. Twórzcie wspomnienia, do których będzie chciało się wracać."
+    },
+    {
+      "id": "web.0164",
+      "text": "Na papierze czy na urządzeniu?"
+    },
+    {
+      "id": "web.0165",
+      "text": "Książka"
+    },
+    {
+      "id": "web.0166",
+      "text": "Planowane drukowane odliczanie do świąt, bez ekranu."
+    },
+    {
+      "id": "web.0167",
+      "text": "Aplikacja"
+    },
+    {
+      "id": "web.0168",
+      "text": "Osobny przewodnik na Androida. W przygotowaniu."
+    },
+    {
+      "id": "web.0169",
+      "text": "Wybierz wersję"
+    },
+    {
+      "id": "web.0170",
+      "text": "Książka drukowana"
+    },
+    {
+      "id": "web.0171",
+      "text": "Aplikacja na Androida"
+    },
+    {
+      "id": "web.0172",
+      "text": "Polityka prywatności"
+    },
+    {
+      "id": "web.0173",
+      "text": "Czytaj"
+    },
+    {
+      "id": "web.0174",
+      "text": "Graj"
+    },
+    {
+      "id": "web.0175",
+      "text": "Okładka czeka na ostateczne zatwierdzenie."
+    },
+    {
+      "id": "web.0176",
+      "text": "Poznaj książkę"
+    },
+    {
+      "id": "web.0177",
+      "text": "ŚWIĘTA SĄ TEŻ PO DRODZE | Opis i wersje | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0178",
+      "text": "ŚWIĘTA SĄ TEŻ PO DRODZE | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0179",
+      "text": "Akta sprawy 00: czarna koperta"
+    },
+    {
+      "id": "web.0180",
+      "text": "W drużynie brakuje jednego detektywa. Może właśnie Twojego dziecka?"
+    },
+    {
+      "id": "web.0181",
+      "text": "{slot_1}W Akademii pojawia się koperta bez nadawcy i znaczka. Widnieje na niej tylko dziwny znak: {slot_2}0{slot_3}."
+    },
+    {
+      "id": "web.0182",
+      "text": "W środku leży niewypełniona legitymacja rekruta. Nie ma na niej ani imienia, ani detektywistycznego pseudonimu."
+    },
+    {
+      "id": "web.0183",
+      "text": "Przypadek? Zbieg okoliczności? A może zaproszenie właśnie dla Ciebie?"
+    },
+    {
+      "id": "web.0184",
+      "text": "{slot_1}Witaj w {slot_2}Happy Makers Detective Academy: The Mystery of Room Zero{slot_3}. To śledztwo bez ekranu dla dzieci w wieku 8–12 lat. Tutaj czytelnik staje się uczestnikiem historii."
+    },
+    {
+      "id": "web.0185",
+      "text": "Zaczynamy śledztwo"
+    },
+    {
+      "id": "web.0186",
+      "text": "Każda sprawa odsłania kolejny fragment większej tajemnicy."
+    },
+    {
+      "id": "web.0187",
+      "text": "Najpierw wybierasz detektywistyczny pseudonim i dołączasz do drużyny Happy Makers. Potem ruszasz ze śledztwem, które prowadzi przez całą książkę."
+    },
+    {
+      "id": "web.0188",
+      "text": "Ten szczegół łatwo przeoczyć. Ale czy możesz sobie na to pozwolić?"
+    },
+    {
+      "id": "web.0189",
+      "text": "{slot_1}To jedno spójne śledztwo, a nie zbiór osobnych kart pracy. {slot_2}Przyglądaj się dowodom, sprawdzaj swoje założenia i wyjaśniaj, co naprawdę wynika ze wskazówek."
+    },
+    {
+      "id": "web.0190",
+      "text": "Co czeka Cię w Akademii"
+    },
+    {
+      "id": "web.0191",
+      "text": "Zeznania świadków, mapy, współrzędne, szyfry i ilustracje."
+    },
+    {
+      "id": "web.0192",
+      "text": "Zadania wymagające wyobraźni przestrzennej, ustalania kolejności i chronologii oraz wyciągania wniosków."
+    },
+    {
+      "id": "web.0193",
+      "text": "Droga od rekruta do detektywa."
+    },
+    {
+      "id": "web.0194",
+      "text": "{slot_1}Możesz skorzystać z {slot_2}systemu podpowiedzi na 3 poziomach{slot_3}, gdy wskazówka okaże się zbyt trudna."
+    },
+    {
+      "id": "web.0195",
+      "text": "Odpowiedzi wyjaśniają tok rozumowania i pokazują, jak pasują do siebie dowody."
+    },
+    {
+      "id": "web.0196",
+      "text": "Jedna ukryta tajemnica, która łączy całą książkę."
+    },
+    {
+      "id": "web.0197",
+      "text": "Własna legitymacja detektywa i końcowy certyfikat."
+    },
+    {
+      "id": "web.0198",
+      "text": "Twój detektywistyczny pseudonim staje się częścią historii."
+    },
+    {
+      "id": "web.0199",
+      "text": "Łącz wskazówki. Niech każdy wniosek ma oparcie w dowodach."
+    },
+    {
+      "id": "web.0200",
+      "text": "Śledztwo utknęło w miejscu? Zajrzyj do podpowiedzi."
+    },
+    {
+      "id": "web.0201",
+      "text": "Każdy detektyw czasem potrzebuje pomocy. Podpowiedzi są dobrowolne i naprowadzają na trop, ale ostatni wniosek należy do Ciebie."
+    },
+    {
+      "id": "web.0202",
+      "text": "Więcej niż zbiór zagadek: historia, którą rozwiązujesz."
+    },
+    {
+      "id": "web.0203",
+      "text": "Dla ciekawych świata dzieci, które lubią tajemnice. Wystarczy ołówek, by wejść w przygodę przypominającą prawdziwe akta sprawy. Happy Makers towarzyszą Ci w rozmowach, wskazówkach, żartach i chwilach, gdy przydaje się odrobina zachęty."
+    },
+    {
+      "id": "web.0204",
+      "text": "Prowadzisz śledztwo bez internetu, we własnym tempie. W tle cały czas czeka tajemnica, która łączy wszystkie sprawy."
+    },
+    {
+      "id": "web.0205",
+      "text": "30 spraw. Jedna ukryta tajemnica. Jedno wolne miejsce w drużynie: dla Ciebie."
+    },
+    {
+      "id": "web.0206",
+      "text": "Czym tak naprawdę jest Pokój Zero?"
+    },
+    {
+      "id": "web.0207",
+      "text": "Format i dostępność"
+    },
+    {
+      "id": "web.0208",
+      "text": "Książka z zagadkami detektywistycznymi"
+    },
+    {
+      "id": "web.0209",
+      "text": "Powiązane akta śledztwa"
+    },
+    {
+      "id": "web.0210",
+      "text": "Zalecany wiek"
+    },
+    {
+      "id": "web.0211",
+      "text": "Bez internetu"
+    },
+    {
+      "id": "web.0212",
+      "text": "Wystarczy ołówek, bez ekranu"
+    },
+    {
+      "id": "web.0213",
+      "text": "01 • Dowód"
+    },
+    {
+      "id": "web.0214",
+      "text": "Znika puchar."
+    },
+    {
+      "id": "web.0215",
+      "text": "02 • Świadek"
+    },
+    {
+      "id": "web.0216",
+      "text": "Coś nie zgadza się w alibi."
+    },
+    {
+      "id": "web.0217",
+      "text": "03 • Mapa"
+    },
+    {
+      "id": "web.0218",
+      "text": "Miejsca kryją kolejne wskazówki."
+    },
+    {
+      "id": "web.0219",
+      "text": "1. Zauważ"
+    },
+    {
+      "id": "web.0220",
+      "text": "Delikatna wskazówka, czemu warto się przyjrzeć."
+    },
+    {
+      "id": "web.0221",
+      "text": "2. Skup się"
+    },
+    {
+      "id": "web.0222",
+      "text": "Dokładniejsza podpowiedź, która zawęża pole poszukiwań."
+    },
+    {
+      "id": "web.0223",
+      "text": "3. Daj się naprowadzić"
+    },
+    {
+      "id": "web.0224",
+      "text": "Więcej pomocy w dotarciu do rozwiązania. Samą odpowiedź nadal odkrywasz samodzielnie."
+    },
+    {
+      "id": "web.0225",
+      "text": "Podejmij pierwszą sprawę"
+    },
+    {
+      "id": "web.0226",
+      "text": "Oficjalna okładka Happy Makers Detective Academy: The Mystery of Room Zero."
+    },
+    {
+      "id": "web.0227",
+      "text": "Wnętrze książki Happy Makers Detective Academy: strony akt sprawy."
+    },
+    {
+      "id": "web.0228",
+      "text": "O książce"
+    },
+    {
+      "id": "web.0229",
+      "text": "Wskazówki prowadzące do tajemnicy"
+    },
+    {
+      "id": "web.0230",
+      "text": "Happy Makers Detective Academy i rodzina Happy Makers. Cztery symbole: powiązane sprawy, mapy i szyfry, wskazówki oraz wiek 8–12 lat."
+    },
+    {
+      "id": "web.0231",
+      "text": "Zajrzyj do środka"
+    },
+    {
+      "id": "web.0232",
+      "text": "Happy Makers witają rekruta, zapraszają do odebrania legitymacji i rozpoczęcia sprawy 01."
+    },
+    {
+      "id": "web.0233",
+      "text": "Happy Makers oglądają mapę i łączą dowody z 30 spraw."
+    },
+    {
+      "id": "web.0234",
+      "text": "Książka, postacie Happy Makers i trzy poziomy podpowiedzi: zauważ, skup się i daj się naprowadzić."
+    },
+    {
+      "id": "web.0235",
+      "text": "Happy Makers Detective Academy: The Mystery of Room Zero | Opis i wersje | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0236",
+      "text": "Akta 30 powiązanych spraw i jedna detektywistyczna przygoda bez internetu. Happy Makers Detective Academy dla dzieci w wieku 8–12 lat."
+    },
+    {
+      "id": "web.0237",
+      "text": "Happy Makers Detective Academy: The Mystery of Room Zero | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0238",
+      "text": "Grandma Bibi Anti-Boredom Club"
+    },
+    {
+      "id": "web.0239",
+      "text": "Szczegóły czekają na potwierdzenie"
+    },
+    {
+      "id": "web.0240",
+      "text": "Kolorowanka? Tak. Ale kredki to dopiero początek."
+    },
+    {
+      "id": "web.0241",
+      "text": "Rok zabawnych przygód babci i wnucząt w czarno-białych ilustracjach. Kolory wybierasz Ty."
+    },
+    {
+      "id": "web.0242",
+      "text": "Na końcu czeka miejsce na własny, niepowtarzalny dziennik przygód z Twoją babcią."
+    },
+    {
+      "id": "web.0243",
+      "text": "Uwaga: możliwe duże ilości słodyczy. I jeszcze większe ilości śmiechu."
+    },
+    {
+      "id": "web.0244",
+      "text": "Przy okazji poćwiczysz pisownię nazw miesięcy po angielsku."
+    },
+    {
+      "id": "web.0245",
+      "text": "Pokoloruj po swojemu. Z dumą pokaż, co powstało!"
+    },
+    {
+      "id": "web.0246",
+      "text": "Gotowi na przygodę z Happy Makers?"
+    },
+    {
+      "id": "web.0247",
+      "text": "Dotychczasowa okładka książki Rise.Shine.Evolve. Grandma Bibi Anti-Boredom Club."
+    },
+    {
+      "id": "web.0248",
+      "text": "Grandma Bibi Anti-Boredom Club | Opis i wersje | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0249",
+      "text": "„Nudzę się!” Babcia Bibi ma na to pomysł."
+    },
+    {
+      "id": "web.0250",
+      "text": "Grandma Bibi Anti-Boredom Club | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0251",
+      "text": "Dorastanie przynosi wielkie emocje. Ta książka daje dzieciom podręczny zestaw sposobów, by łatwiej się w nich odnaleźć."
+    },
+    {
+      "id": "web.0252",
+      "text": "{slot_1}Dorastanie: wyzwanie dla całej rodziny {slot_2}Tyle nowych rzeczy do odkrycia! {slot_3}Tylko dlaczego czasem od razu na najwyższym poziomie trudności? {slot_4}Dookoła hałas, w środku uczucia trudne do rozplątania, a do tego pytanie: jak tu pasować do reszty?"
+    },
+    {
+      "id": "web.0253",
+      "text": "{slot_1}Twoje dziecko się martwi, chce wszystko robić idealnie albo boi się zabrać głos? {slot_2}Chcesz je wesprzeć z czułością, bez przesłuchania i wykładu. Tylko jak wybrać odpowiednie sposoby na emocje? {slot_3}Od czego zacząć?"
+    },
+    {
+      "id": "web.0254",
+      "text": "{slot_1}Happy Makers przychodzą z pomocą {slot_2}Poznaj {slot_3}The Confident, Mindful & Happy Me {slot_4}Adventure{slot_5}. To więcej niż książka do czytania: {slot_6}interaktywny, twórczy zestaw zadań, które pomagają nabierać odwagi i odkrywać własne możliwości. {slot_7}Zamiast „nie umiem” pojawia się „mogę się nauczyć”, a nuda ustępuje miejsca przygodzie."
+    },
+    {
+      "id": "web.0255",
+      "text": "{slot_1}Poznaj swoich towarzyszy {slot_2}W tej przygodzie nie jesteś sam. {slot_3}Towarzyszy Ci rodzina Happy Makers: Mimi, Luli, Dilo, Alio i Nini."
+    },
+    {
+      "id": "web.0256",
+      "text": "{slot_1}Do odwagi nie potrzeba specjalnego kostiumu. {slot_2}Możesz rozwijać mocne strony, które już w Tobie są, {slot_3}i {slot_4}coraz śmielej z nich korzystać."
+    },
+    {
+      "id": "web.0257",
+      "text": "{slot_1}31 dni wspólnej przygody {slot_2}Takiej, która mieści się w zwykłym życiu. {slot_3}Bez presji. {slot_4}Bez obowiązku bycia idealnym. {slot_5}10 minut dziennie na bliskość {slot_6}i wspólną zabawę."
+    },
+    {
+      "id": "web.0258",
+      "text": "5 etapów, które pomagają budować odporność na trudności"
+    },
+    {
+      "id": "web.0259",
+      "text": "{slot_1}Tydzień 1: Mam swoje miejsce {slot_2}Zaczynamy od podstaw. {slot_3}Poznajemy sposoby kierowania uwagi z powrotem na tu i teraz, budujemy poczucie bezpieczeństwa i oparcia. Przypominamy, że Twoja wartość nie zależy od tego, co dzieje się wokół."
+    },
+    {
+      "id": "web.0260",
+      "text": "{slot_1}Tydzień 2: Oswajam zmartwienia i złość {slot_2}Emocje mniej onieśmielają, gdy lepiej je rozumiemy. {slot_3}Zabawne porównania pomagają je rozpoznawać i szukać sposobów na zmartwienia, złość i gwałtowne reakcje."
+    },
+    {
+      "id": "web.0261",
+      "text": "{slot_1}Tydzień 3: Nabieram pewności siebie {slot_2}Przyglądamy się poczuciu własnej wartości. {slot_3}Twórcze zadania pomagają odkrywać swoje mocne strony i budować wiarę w siebie."
+    },
+    {
+      "id": "web.0262",
+      "text": "{slot_1}Tydzień 4: Relacje i życzliwość {slot_2}Pewność siebie to także umiejętność bycia z ludźmi. {slot_3}Ćwiczymy empatię, dbanie o przyjaźń, stawianie własnych granic i proszenie o pomoc."
+    },
+    {
+      "id": "web.0263",
+      "text": "{slot_1}Tydzień 5: Marzenia i cele {slot_2}Przed nami finał i nowe możliwości! {slot_3}Łączymy poznane sposoby, przygotowujemy się na przyszłość, wyznaczamy cele, sięgamy po marzenia i świętujemy postępy."
+    },
+    {
+      "id": "web.0264",
+      "text": "A to dopiero początek."
+    },
+    {
+      "id": "web.0265",
+      "text": "{slot_1}Przygoda nie kończy się po 31. dniu. {slot_2}Uzupełniona książka staje się Twoim {slot_3}podręcznym zbiorem sposobów na trudne chwile{slot_4}. {slot_5}Gdy później zrobi się trudno, możesz do niej wrócić, wybrać potrzebny sposób i skorzystać z niego, by znaleźć wsparcie."
+    },
+    {
+      "id": "web.0266",
+      "text": "Co chcemy dać Twojemu dziecku"
+    },
+    {
+      "id": "web.0267",
+      "text": "{slot_1}Chcemy pomóc Twojemu dziecku odkrywać własne możliwości. {slot_2}Dać mu coś więcej niż pochwałę: praktyczne narzędzia, które pomagają radzić sobie z trudnościami, działać samodzielnie i nabierać pewności siebie każdego dnia."
+    },
+    {
+      "id": "web.0268",
+      "text": "Odkryj, ile potrafi Twoje dziecko"
+    },
+    {
+      "id": "web.0269",
+      "text": "{slot_1}Zróbmy ten krok: {slot_2}RISE{slot_3}. {slot_4}SHINE{slot_5}. {slot_6}EVOLVE{slot_7}. {slot_8}Razem."
+    },
+    {
+      "id": "web.0270",
+      "text": "Wydana książka w miękkiej oprawie: 31 dni przygody, do korzystania bez internetu."
+    },
+    {
+      "id": "web.0271",
+      "text": "Osobny, interaktywny projekt na Androida. W przygotowaniu."
+    },
+    {
+      "id": "web.0272",
+      "text": "Miękka oprawa"
+    },
+    {
+      "id": "web.0273",
+      "text": "Dostępne"
+    },
+    {
+      "id": "web.0274",
+      "text": "Happy Me Adventures • Android"
+    },
+    {
+      "id": "web.0275",
+      "text": "Zobacz na Amazonie"
+    },
+    {
+      "id": "web.0276",
+      "text": "Oficjalna okładka The Confident, Mindful & Happy Me Adventure."
+    },
+    {
+      "id": "web.0277",
+      "text": "O książce"
+    },
+    {
+      "id": "web.0278",
+      "text": "The Confident, Mindful & Happy Me Adventure | Opis i wersje | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0279",
+      "text": "Historie i przygotowywana wersja mobilna, które pomagają odkrywać codzienną odwagę."
+    },
+    {
+      "id": "web.0280",
+      "text": "The Confident, Mindful & Happy Me Adventure | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0281",
+      "text": "Optical Animals: zwierzęta, iluzje i kolorowanka w wydaniu premium."
+    },
+    {
+      "id": "web.0282",
+      "text": "Kolorowanka"
+    },
+    {
+      "id": "web.0283",
+      "text": "Optical Animals | Opis i formaty | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0284",
+      "text": "Zwierzęta i iluzje optyczne spotykają się z Twoimi kolorami."
+    },
+    {
+      "id": "web.0285",
+      "text": "Optical Animals | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0286",
+      "text": "Optical Halloween: niemożliwa architektura i halloweenowe ilustracje pełne iluzji."
+    },
+    {
+      "id": "web.0287",
+      "text": "Optical Halloween | Opis i formaty | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0288",
+      "text": "Halloweenowe sceny, w których przestrzeń płata figle."
+    },
+    {
+      "id": "web.0289",
+      "text": "Optical Halloween | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0290",
+      "text": "Interaktywny projekt na Androida dla nastolatków. Skupienie, nawyki i własne decyzje. W przygotowaniu."
+    },
+    {
+      "id": "web.0291",
+      "text": "Project Unstoppable | Opis i wersje | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0292",
+      "text": "Skupienie, pewność siebie i samodzielne decyzje na co dzień."
+    },
+    {
+      "id": "web.0293",
+      "text": "Project Unstoppable | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0294",
+      "text": "Level Up Your Brain - World 01"
+    },
+    {
+      "id": "web.0295",
+      "text": "Życie ma sporo trudnych poziomów. Szkoda, że dzieci nie dostają do niego instrukcji."
+    },
+    {
+      "id": "web.0296",
+      "text": "Gdy dziecko lepiej radzi sobie z emocjami, całej rodzinie może być łatwiej złapać oddech."
+    },
+    {
+      "id": "web.0297",
+      "text": "Wielkie emocje, wybuchy i trudne powroty ze szkoły. A Ty masz jeszcze cały dzień do ogarnięcia. Przydają się krótkie, zrozumiałe sposoby, które przemówią także do dziecka myślącego w języku gier."
+    },
+    {
+      "id": "web.0298",
+      "text": "Witaj w Level Up Your Brain"
+    },
+    {
+      "id": "web.0299",
+      "text": "{slot_1}Współczesny, zabawny i praktyczny przewodnik dla rodzin. {slot_2}Przekłada wiedzę o mózgu na krótkie przygody, które można wpleść w codzienność, i sposoby radzenia sobie z emocjami w prawdziwych sytuacjach."
+    },
+    {
+      "id": "web.0300",
+      "text": "Do zastosowania. Bez lania wody i wykładów."
+    },
+    {
+      "id": "web.0301",
+      "text": "{slot_1}Trudno namówić dziecko do czytania o radzeniu sobie z emocjami? 10 przezabawnych historii przemyca sposoby pracy z nastawieniem i samokontrolą. {slot_2}Charakterystyczne czarno-białe grafiki czerpią ze świata gier. 100% dziecięcej aprobaty! {slot_3}A w domu? Mniej wybuchów, szybszy powrót do równowagi, lepsze decyzje i więcej spokoju."
+    },
+    {
+      "id": "web.0302",
+      "text": "Jak działają 5-minutowe misje?"
+    },
+    {
+      "id": "web.0303",
+      "text": "{slot_1}Przeczytajcie historię {slot_2}Krótkie, zabawne przygody Happy Makers. Zmutowane mrówki, tajny atrament szpiegów i emocje gotowe do wybuchu? Tu jest dla nich miejsce."
+    },
+    {
+      "id": "web.0304",
+      "text": "{slot_1}Zajrzyjcie do Neuro-Coaching Console {slot_2}To krótka, praktyczna ściąga, która prostym językiem wyjaśnia, co dzieje się w tle: od neuronów lustrzanych i ciała migdałowatego po chwile, gdy mózg coś źle odczyta."
+    },
+    {
+      "id": "web.0305",
+      "text": "{slot_1}Czas na praktykę {slot_2}Wypróbujcie poznany sposób od razu. Pomoże Wam podejść do takich codziennych tematów jak:"
+    },
+    {
+      "id": "web.0306",
+      "text": "Napady złości i nadmiar emocji"
+    },
+    {
+      "id": "web.0307",
+      "text": "Gdy po szkole puszczają wszystkie hamulce"
+    },
+    {
+      "id": "web.0308",
+      "text": "Złość i sposoby na uspokojenie"
+    },
+    {
+      "id": "web.0309",
+      "text": "Nuda i motywacja"
+    },
+    {
+      "id": "web.0310",
+      "text": "Odkładanie zadań i zmęczenie umysłu"
+    },
+    {
+      "id": "web.0311",
+      "text": "Przyjaźń i odnajdywanie się wśród ludzi"
+    },
+    {
+      "id": "web.0312",
+      "text": "Dbanie o siebie i higienę"
+    },
+    {
+      "id": "web.0313",
+      "text": "Nastawienie na naukę i radzenie sobie z trudnościami"
+    },
+    {
+      "id": "web.0314",
+      "text": "Poznajcie rodzinę, która Wam towarzyszy"
+    },
+    {
+      "id": "web.0315",
+      "text": "Nini ma 5 lat. Emocji wystarczyłoby jej dla całej drużyny, radości też."
+    },
+    {
+      "id": "web.0316",
+      "text": "Alio zakłada durszlak na głowę. Ochrona myśli? Jego zdaniem warto spróbować."
+    },
+    {
+      "id": "web.0317",
+      "text": "Dilo zna się na grach. Obowiązki domowe zalicza do zadań pobocznych, które najchętniej by pominął."
+    },
+    {
+      "id": "web.0318",
+      "text": "Luli, spokojna siostra, z książką w ręku wyrusza tam, dokąd zaprowadzi ją wyobraźnia."
+    },
+    {
+      "id": "web.0319",
+      "text": "Mimi szuka telefonu, świecąc sobie latarką. Z tego samego telefonu."
+    },
+    {
+      "id": "web.0320",
+      "text": "10 praktycznych narzędzi ukrytych w historiach"
+    },
+    {
+      "id": "web.0321",
+      "text": "Poziom 1: Po szkole koniec sił. O emocjach, które wybuchają, gdy zapas samokontroli się wyczerpie."
+    },
+    {
+      "id": "web.0322",
+      "text": "Poziom 2: Rozczarowanie przy lodach. O empatii i neuronach lustrzanych."
+    },
+    {
+      "id": "web.0323",
+      "text": "Poziom 3: Niewidzialne punkty doświadczenia. Jak uczyć się na błędach i rozwijać umiejętności."
+    },
+    {
+      "id": "web.0324",
+      "text": "Poziom 4: Znudzony szpieg. O ciekawości i pytaniu, które potrafi przyciągnąć uwagę."
+    },
+    {
+      "id": "web.0325",
+      "text": "Poziom 5: Gad w salonie. O złości i odzyskiwaniu dostępu do spokojnego myślenia."
+    },
+    {
+      "id": "web.0326",
+      "text": "Poziom 6: Uwaga, budowa! O nastawieniu na naukę i umiejętnościach, które rozwijają się z czasem."
+    },
+    {
+      "id": "web.0327",
+      "text": "Poziom 7: Roślina, której czegoś brakuje. O przyjaźni i małych gestach, dzięki którym może rosnąć."
+    },
+    {
+      "id": "web.0328",
+      "text": "Poziom 8: Brudny samochód sportowy. O dbaniu o siebie jak o coś, co ma nam dobrze służyć."
+    },
+    {
+      "id": "web.0329",
+      "text": "Poziom 9: Brokułowa twierdza. O jedzeniu jako paliwie i materiale do budowy."
+    },
+    {
+      "id": "web.0330",
+      "text": "Poziom 10: Wampir energii. O zmęczeniu umysłu i zaczynaniu od trudnego zadania."
+    },
+    {
+      "id": "web.0331",
+      "text": "Co docenią rodzice"
+    },
+    {
+      "id": "web.0332",
+      "text": "Krótkie rozdziały i skojarzenia z grami zachęcają do czytania także dzieci, które zwykle trudno namówić na książkę."
+    },
+    {
+      "id": "web.0333",
+      "text": "Złożone zagadnienia psychologiczne zmieniają się w łatwe do zapamiętania sposoby radzenia sobie z trudnościami."
+    },
+    {
+      "id": "web.0334",
+      "text": "Praktyczne pomoce dla dzieci, przystępnie wyjaśniające pojęcia z psychologii."
+    },
+    {
+      "id": "web.0335",
+      "text": "Na zabiegany dzień: wspólne czytanie przed snem i 2 minuty rozmowy."
+    },
+    {
+      "id": "web.0336",
+      "text": "Pomóż dziecku rozwijać umiejętności radzenia sobie z emocjami, by coraz rzadziej reagowało odruchowo."
+    },
+    {
+      "id": "web.0337",
+      "text": "Praktyczne umiejętności, które mogą przydać się na długo."
+    },
+    {
+      "id": "web.0338",
+      "text": "Aplikacja • Planowane"
+    },
+    {
+      "id": "web.0339",
+      "text": "Planowane"
+    },
+    {
+      "id": "web.0340",
+      "text": "Happy Makers przedstawiają"
+    },
+    {
+      "id": "web.0341",
+      "text": "Oficjalna okładka Level Up Your Brain - World 01."
+    },
+    {
+      "id": "web.0342",
+      "text": "Level Up Your Brain - World 01 | Opis i wersje | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0343",
+      "text": "Zabawne historie o emocjach, relacjach i codziennych decyzjach."
+    },
+    {
+      "id": "web.0344",
+      "text": "Level Up Your Brain - World 01 | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0345",
+      "text": "Level Up Your Brain - World 02"
+    },
+    {
+      "id": "web.0346",
+      "text": "{slot_1}Życie to skomplikowana gra. {slot_2}Jest tylko pewna trudność: {slot_3}dzieci nie dostają do niej instrukcji obsługi."
+    },
+    {
+      "id": "web.0347",
+      "text": "{slot_1}A gdyby ograniczyć powracające rodzinne kłótnie, {slot_2}wypracować lepsze nawyki {slot_3}i pomóc dziecku działać bardziej samodzielnie?"
+    },
+    {
+      "id": "web.0348",
+      "text": "Mniej sprzeczek i chaosu, więcej współpracy i spokoju. Technologia, codzienne zwyczaje i emocje bez 27 przypomnień od rodzica. Taki kierunek nam się podoba."
+    },
+    {
+      "id": "web.0349",
+      "text": "{slot_1}W rodzinnej codzienności da się coś zmienić. {slot_2}W World 02 ruszamy od chaosu w stronę lepszej współpracy, sprawniejszych codziennych czynności i spokojniejszego domu."
+    },
+    {
+      "id": "web.0350",
+      "text": "{slot_1}Podstawy już za nami. Czas na kolejny poziom. {slot_2}Ten współczesny, pełen humoru przewodnik pomaga odnaleźć się w codziennych rutynach i cyfrowym świecie, stawiając na {slot_3}rodzinną współpracę."
+    },
+    {
+      "id": "web.0351",
+      "text": "Samo czytanie to początek. To, co wypróbujecie, ma szansę zmienić coś w codzienności."
+    },
+    {
+      "id": "web.0352",
+      "text": "Krótkie, zrozumiałe dla dzieci sposoby radzenia sobie z trudnościami."
+    },
+    {
+      "id": "web.0353",
+      "text": "{slot_1}10 zabawnych opowieści przybliża sposoby radzenia sobie z emocjami i dbania o codzienne zwyczaje. Do tego oryginalna, inspirowana grami czarno-biała {slot_2}grafika: przejrzysta i stworzona z myślą o dzieciach."
+    },
+    {
+      "id": "web.0354",
+      "text": "Jak działają 5-minutowe misje?"
+    },
+    {
+      "id": "web.0355",
+      "text": "{slot_1}Przeczytajcie historię {slot_2}Happy Makers spotykają pikselowe zombie i myśli, których nikt nie zapraszał. {slot_3}Jest też udawany niedźwiedź polarny grający w Minecrafta."
+    },
+    {
+      "id": "web.0356",
+      "text": "{slot_1}Zajrzyjcie do Neuro-Coaching Console {slot_2}Krótka, praktyczna ściąga wyjaśnia wszystko prostym językiem: {slot_3}dopaminowe wyczerpanie, łączenie nawyków i rozumienie tego, jak inni myślą. {slot_4}Porozmawiajcie o tym przez 2 minuty."
+    },
+    {
+      "id": "web.0357",
+      "text": "{slot_1}Czas na praktykę {slot_2}Wypróbujcie poznany sposób od razu. Przyda się przy takich tematach jak:"
+    },
+    {
+      "id": "web.0358",
+      "text": "{slot_1}Spory o ekrany {slot_2}i dopaminowe wyczerpanie"
+    },
+    {
+      "id": "web.0359",
+      "text": "{slot_1}Poranne {slot_2}i {slot_3}wieczorne {slot_4}sprzeczki wokół codziennych czynności"
+    },
+    {
+      "id": "web.0360",
+      "text": "{slot_1}Dzieci, które {slot_2}nie reagują na prośby, {slot_3}i wybiórcze słuchanie"
+    },
+    {
+      "id": "web.0361",
+      "text": "{slot_1}Surowe ocenianie siebie, {slot_2}zmartwienia i niechciane treści w głowie"
+    },
+    {
+      "id": "web.0362",
+      "text": "{slot_1}Kłótnie rodzeństwa, {slot_2}liczenie, kto komu co, i współpraca"
+    },
+    {
+      "id": "web.0363",
+      "text": "{slot_1}Konflikty wśród rówieśników {slot_2}i reagowanie na przykre słowa"
+    },
+    {
+      "id": "web.0364",
+      "text": "{slot_1}Wielkie rozczarowanie, {slot_2}gdy miłe plany nie dochodzą do skutku"
+    },
+    {
+      "id": "web.0365",
+      "text": "{slot_1}Bezpieczeństwo w sieci: {slot_2}rozpoznawanie {slot_3}fałszywych informacji {slot_4}dzięki {slot_5}krytycznemu myśleniu{slot_6}."
+    },
+    {
+      "id": "web.0366",
+      "text": "Happy Makers też uczą się nowych rzeczy"
+    },
+    {
+      "id": "web.0367",
+      "text": "Nini rozdaje radość i pomaga innym odzyskać dobry nastrój."
+    },
+    {
+      "id": "web.0368",
+      "text": "Alio uczy się odróżniać prawdę od fałszu w internecie."
+    },
+    {
+      "id": "web.0369",
+      "text": "Dilo szuka sposobu na nadmiar ekranowych bodźców."
+    },
+    {
+      "id": "web.0370",
+      "text": "Luli sprawdza mity za pomocą logiki i pomaga rodzeństwu się dogadać."
+    },
+    {
+      "id": "web.0371",
+      "text": "Mimi koordynuje życie rodziny, starając się, żeby codzienność jakoś działała."
+    },
+    {
+      "id": "web.0372",
+      "text": "10 kolejnych narzędzi do wypróbowania"
+    },
+    {
+      "id": "web.0373",
+      "text": "Poziom 11: Codzienna sekwencja. O dyscyplinie i dołączaniu nowego nawyku do czynności, którą już wykonujesz."
+    },
+    {
+      "id": "web.0374",
+      "text": "Poziom 12: Nocna regeneracja. O śnie jako czasie porządków i odnowy w mózgu."
+    },
+    {
+      "id": "web.0375",
+      "text": "Poziom 13: Sieć z przerwami. O słuchaniu i filtrowaniu tego, co słyszymy."
+    },
+    {
+      "id": "web.0376",
+      "text": "Poziom 14: Tarcza ochronna. O odporności na przykre słowa."
+    },
+    {
+      "id": "web.0377",
+      "text": "Poziom 15: Spór na statku kosmicznym. O tym, co daje 10 minut wspólnej pracy."
+    },
+    {
+      "id": "web.0378",
+      "text": "Poziom 16: 6 czy 9? O różnych punktach widzenia i rozumieniu cudzego sposobu myślenia."
+    },
+    {
+      "id": "web.0379",
+      "text": "Poziom 17: Niechciane wiadomości. O krytycznym myśleniu i radzeniu sobie z negatywnymi myślami."
+    },
+    {
+      "id": "web.0380",
+      "text": "Poziom 18: Postać wciągnięta w ekran. O umiarze w korzystaniu z ekranów i dopaminowym zmęczeniu."
+    },
+    {
+      "id": "web.0381",
+      "text": "Poziom 19: Zmiana kierunku w tańcu. O elastyczności, gdy przychodzi rozczarowanie."
+    },
+    {
+      "id": "web.0382",
+      "text": "Poziom 20: Rzeczywistość w krzywym zwierciadle. O sprawdzaniu, co jest prawdą, i rozpoznawaniu fałszywych wiadomości."
+    },
+    {
+      "id": "web.0383",
+      "text": "Krótkie rozdziały ze skojarzeniami ze świata gier zachęcają także dzieci, które zwykle niechętnie czytają."
+    },
+    {
+      "id": "web.0384",
+      "text": "Tematy z dzisiejszego życia: umiar w korzystaniu z ekranów, codzienne zwyczaje, nastawienie, bezpieczeństwo w sieci i krytyczne myślenie."
+    },
+    {
+      "id": "web.0385",
+      "text": "Mniej konfliktów, sprawniejsze codzienne czynności, lepsza współpraca i spokojniejszy dom. W tę stronę zmierzamy."
+    },
+    {
+      "id": "web.0386",
+      "text": "Oficjalna okładka Level Up Your Brain - World 02."
+    },
+    {
+      "id": "web.0387",
+      "text": "Level Up Your Brain - World 02 | Opis i wersje | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0388",
+      "text": "Kolejne historie o nawykach, skupieniu i współczesnym życiu rodzinnym."
+    },
+    {
+      "id": "web.0389",
+      "text": "Level Up Your Brain - World 02 | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0390",
+      "text": "Calm vs Energy Cards"
+    },
+    {
+      "id": "web.0391",
+      "text": "{slot_1}60 sekund na małą zmianę w ciągu dnia. {slot_2}Pomóż dziecku rozpoznać, czego teraz potrzebuje: {slot_3}wyciszenia {slot_4}czy zdrowego {slot_5}pobudzenia{slot_6}."
+    },
+    {
+      "id": "web.0392",
+      "text": "Kiedy warto sięgnąć po karty"
+    },
+    {
+      "id": "web.0393",
+      "text": "Gdy po szkole puszczają emocje"
+    },
+    {
+      "id": "web.0394",
+      "text": "Przed snem"
+    },
+    {
+      "id": "web.0395",
+      "text": "Przed odrabianiem lekcji lub zajęciem wymagającym skupienia"
+    },
+    {
+      "id": "web.0396",
+      "text": "Gdy nuda zaczyna przeradzać się w chaos"
+    },
+    {
+      "id": "web.0397",
+      "text": "Jak korzystać"
+    },
+    {
+      "id": "web.0398",
+      "text": "{slot_1}Wybierzcie {slot_2}wyciszenie {slot_3}lub {slot_4}energię{slot_5}."
+    },
+    {
+      "id": "web.0399",
+      "text": "Przez 1 minutę wykonujcie razem jedną małą czynność."
+    },
+    {
+      "id": "web.0400",
+      "text": "Powtórzcie jutro. Powtarzanie pomaga się uczyć."
+    },
+    {
+      "id": "web.0401",
+      "text": "Kiedy przyda się taka chwila na reset?"
+    },
+    {
+      "id": "web.0402",
+      "text": "Po szkole, przed snem lub odrabianiem lekcji, a także wtedy, gdy nuda zaczyna przeradzać się w chaos."
+    },
+    {
+      "id": "web.0403",
+      "text": "Ile to trwa?"
+    },
+    {
+      "id": "web.0404",
+      "text": "Około 60 sekund. Wybieracie wyciszenie lub energię, robicie jedną małą rzecz i wracacie do swoich zajęć."
+    },
+    {
+      "id": "web.0405",
+      "text": "Czy to zastępuje rozmowę o emocjach?"
+    },
+    {
+      "id": "web.0406",
+      "text": "Nie. To krótka chwila, która może pomóc przygotować się do późniejszej rozmowy i współpracy."
+    },
+    {
+      "id": "web.0407",
+      "text": "Wróć do Darmowych materiałów"
+    },
+    {
+      "id": "web.0408",
+      "text": "Wyciszenie czy energia?"
+    },
+    {
+      "id": "web.0409",
+      "text": "Mała wskazówka:"
+    },
+    {
+      "id": "web.0410",
+      "text": "Warto połączyć z:"
+    },
+    {
+      "id": "web.0411",
+      "text": "sposobami na radzenie sobie z silnymi emocjami"
+    },
+    {
+      "id": "web.0412",
+      "text": "nawykami i codziennymi czynnościami"
+    },
+    {
+      "id": "web.0413",
+      "text": "Calm vs Energy Cards | 60 sekund na reset dla dzieci | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0414",
+      "text": "Wybierzcie wyciszenie lub energię i przez 60 sekund zróbcie razem jedną małą rzecz. Dla rodzin po szkole, przed snem i między zajęciami."
+    },
+    {
+      "id": "web.0415",
+      "text": "Wyciszenie czy energia? Wybierzcie i zróbcie razem małą rzecz, która zmieści się w zwykłym dniu."
+    },
+    {
+      "id": "web.0416",
+      "text": "Family Motto Cards"
+    },
+    {
+      "id": "web.0417",
+      "text": "{slot_1}Krótkie zdania, do których łatwo wrócić. {slot_2}Powtarzane rodzinne hasła stają się znajome. Pomagają przypomnieć sobie, jak zareagować, gdy emocje rosną, motywacja spada albo zaczyna się kłótnia."
+    },
+    {
+      "id": "web.0418",
+      "text": "Jak zacząć? Wystarczy około minuty"
+    },
+    {
+      "id": "web.0419",
+      "text": "Wybierzcie jedno rodzinne hasło na ten tydzień."
+    },
+    {
+      "id": "web.0420",
+      "text": "Powiedzcie je raz dziennie, na przykład przy śniadaniu."
+    },
+    {
+      "id": "web.0421",
+      "text": "Gdy przyda się w prawdziwej sytuacji, powtórzcie to samo zdanie spokojnym głosem."
+    },
+    {
+      "id": "web.0422",
+      "text": "Kiedy szczególnie się przydają"
+    },
+    {
+      "id": "web.0423",
+      "text": "Rano i przy zmianie zajęcia"
+    },
+    {
+      "id": "web.0424",
+      "text": "Gdy potrzeba otuchy w trudnej chwili"
+    },
+    {
+      "id": "web.0425",
+      "text": "Gdy chcecie współpracować i pamiętać, że jesteście drużyną"
+    },
+    {
+      "id": "web.0426",
+      "text": "Czym są karty rodzinnych haseł?"
+    },
+    {
+      "id": "web.0427",
+      "text": "To krótkie zdania, które rodzina mówi każdego dnia. Powtarzanie pomaga przypomnieć je sobie wtedy, gdy naprawdę się przydadzą."
+    },
+    {
+      "id": "web.0428",
+      "text": "Kiedy ich używać?"
+    },
+    {
+      "id": "web.0429",
+      "text": "Przy śniadaniu, przed szkołą lub po niej. Także przy trudniejszych zmianach zajęcia, na przykład przed snem lub odrabianiem lekcji."
+    },
+    {
+      "id": "web.0430",
+      "text": "A jeśli dziecko nie przepada za czytaniem?"
+    },
+    {
+      "id": "web.0431",
+      "text": "Zdania są krótkie i proste. Chodzi o zapamiętanie ich i wspólne wypowiadanie, a nie o naukę przy biurku."
+    },
+    {
+      "id": "web.0432",
+      "text": "Przeglądaj Bibliotekę"
+    },
+    {
+      "id": "web.0433",
+      "text": "Nasze rodzinne hasło"
+    },
+    {
+      "id": "web.0434",
+      "text": "Warto połączyć z:"
+    },
+    {
+      "id": "web.0435",
+      "text": "książką o silnych emocjach i sposobach radzenia sobie z nimi"
+    },
+    {
+      "id": "web.0436",
+      "text": "książką o nawykach i codziennych zwyczajach"
+    },
+    {
+      "id": "web.0437",
+      "text": "Family Motto Cards | Codzienna otucha dla dzieci | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0438",
+      "text": "Krótkie rodzinne hasła, które dzięki powtarzaniu stają się znajomymi odpowiedziami. Dla otuchy, współpracy i rozwoju emocjonalnego."
+    },
+    {
+      "id": "web.0439",
+      "text": "Krótkie zdania stają się nawykiem, który dodaje otuchy, ułatwia współpracę i wspiera rozwój emocjonalny."
+    },
+    {
+      "id": "web.0440",
+      "text": "{slot_1}Szybkie pomoce dla całej rodziny. {slot_2}Na wielkie emocje, rozsypany rytm dnia i chwile, gdy od razu przydałby się mały reset."
+    },
+    {
+      "id": "web.0441",
+      "text": "Na zmęczone dni, trudne powroty ze szkoły, szykowanie się do snu i nudę, która wymyka się spod kontroli. Do wykorzystania już dziś, bez długiego programu."
+    },
+    {
+      "id": "web.0442",
+      "text": "Od tego polecamy zacząć"
+    },
+    {
+      "id": "web.0443",
+      "text": "60 sekund, by pomóc dziecku rozpoznać, czy potrzebuje wyciszenia, czy zdrowego pobudzenia."
+    },
+    {
+      "id": "web.0444",
+      "text": "Krótkie rodzinne hasła, do których łatwiej wrócić dzięki powtarzaniu."
+    },
+    {
+      "id": "web.0445",
+      "text": "Word Search"
+    },
+    {
+      "id": "web.0446",
+      "text": "Chwila skupienia bez ekranu: szukaj słów ze świata Happy Makers."
+    },
+    {
+      "id": "web.0447",
+      "text": "Word Search Studio"
+    },
+    {
+      "id": "web.0448",
+      "text": "Stwórz własną wykreślankę w kilka sekund. Na podróż, spokojne chwile i przerwy na wyciszenie."
+    },
+    {
+      "id": "web.0449",
+      "text": "Szukasz czegoś, co łączy historie z praktycznymi sposobami?"
+    },
+    {
+      "id": "web.0450",
+      "text": "Czy za korzystanie z materiałów trzeba płacić?"
+    },
+    {
+      "id": "web.0451",
+      "text": "Nie. Są bezpłatne, krótkie i gotowe do użycia w zabieganej rodzinnej codzienności."
+    },
+    {
+      "id": "web.0452",
+      "text": "Ile czasu zajmują?"
+    },
+    {
+      "id": "web.0453",
+      "text": "Zwykle 1–5 minut. Zmieszczą się po szkole, przed snem i w chwilach nudy lub emocjonalnego przeciążenia."
+    },
+    {
+      "id": "web.0454",
+      "text": "Od którego materiału zacząć?"
+    },
+    {
+      "id": "web.0455",
+      "text": "sposoby radzenia sobie z silnymi emocjami"
+    },
+    {
+      "id": "web.0456",
+      "text": "nawyki, codzienne czynności i równowaga w korzystaniu z ekranów"
+    },
+    {
+      "id": "web.0457",
+      "text": "przejrzyj całą Bibliotekę"
+    },
+    {
+      "id": "web.0458",
+      "text": "Na początek polecamy:"
+    },
+    {
+      "id": "web.0459",
+      "text": "zacznij od krótkiego resetu, a potem wybierz kolejny materiał"
+    },
+    {
+      "id": "web.0460",
+      "text": "wykorzystaj jako chwilę skupienia bez ekranu"
+    },
+    {
+      "id": "web.0461",
+      "text": "Język"
+    },
+    {
+      "id": "web.0462",
+      "text": "Darmowe materiały dla rodzin | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0463",
+      "text": "Gotowe do użycia pomoce na wyciszenie, małe zadania i zabawy słowne. Wspierają uwagę i współpracę bez wykładów."
+    },
+    {
+      "id": "web.0464",
+      "text": "Krótkie pomoce na wyciszenie, małe zadania i zabawy słowne dla skupienia i bliskości. Do wykorzystania już teraz."
+    },
+    {
+      "id": "web.0465",
+      "text": "{slot_1}Krótka chwila wyciszenia bez ekranu. {slot_2}Word Search pomaga spokojnie się skupić i odpocząć od urządzeń, bez poczucia, że przerwa od ekranu jest karą."
+    },
+    {
+      "id": "web.0466",
+      "text": "Kiedy się przyda"
+    },
+    {
+      "id": "web.0467",
+      "text": "Przyjemna łamigłówka pomaga ćwiczyć skupienie i cierpliwość, bez poczucia odrabiania lekcji."
+    },
+    {
+      "id": "web.0468",
+      "text": "Czas bez urządzeń"
+    },
+    {
+      "id": "web.0469",
+      "text": "Krótkie rodzinne zabawy"
+    },
+    {
+      "id": "web.0470",
+      "text": "Czekanie, podróże i spokojne chwile"
+    },
+    {
+      "id": "web.0471",
+      "text": "Otwórz Word Search"
+    },
+    {
+      "id": "web.0472",
+      "text": "Ile czasu zajmuje wykreślanka?"
+    },
+    {
+      "id": "web.0473",
+      "text": "Większość dzieci kończy ją w 3–10 minut. To krótka przerwa na skupienie."
+    },
+    {
+      "id": "web.0474",
+      "text": "Czy sprawdzi się jako czas bez ekranu?"
+    },
+    {
+      "id": "web.0475",
+      "text": "Tak. Ta zabawa bez ekranu wspiera skupienie, cierpliwość i wytrwałość."
+    },
+    {
+      "id": "web.0476",
+      "text": "Czy można tworzyć własne wykreślanki?"
+    },
+    {
+      "id": "web.0477",
+      "text": "Masz ochotę stworzyć własną wykreślankę?"
+    },
+    {
+      "id": "web.0478",
+      "text": "Spróbuj też:"
+    },
+    {
+      "id": "web.0479",
+      "text": "Warto połączyć z książką:"
+    },
+    {
+      "id": "web.0480",
+      "text": "misje pomagające zachować umiar w korzystaniu z ekranów"
+    },
+    {
+      "id": "web.0481",
+      "text": "sposoby radzenia sobie z trudnościami"
+    },
+    {
+      "id": "web.0482",
+      "text": "Tak. Skorzystaj z:"
+    },
+    {
+      "id": "web.0483",
+      "text": "wybór poziomu trudności i kształtu wykreślanki"
+    },
+    {
+      "id": "web.0484",
+      "text": "Word Search dla dzieci | Skupienie bez ekranu | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0485",
+      "text": "Krótka wykreślanka ze słowami Happy Makers dla dzieci i rodzin. Chwila zabawy z dala od ekranów."
+    },
+    {
+      "id": "web.0486",
+      "text": "Przyjazna dzieciom wykreślanka bez ekranu. Dla skupienia, cierpliwości i spokoju."
+    },
+    {
+      "id": "web.0487",
+      "text": "Twórz własne wykreślanki w kilka sekund. Na podróż samochodem, spokojny czas i chwilę oddechu bez ekranu."
+    },
+    {
+      "id": "web.0488",
+      "text": "Otwórz Word Search Studio"
+    },
+    {
+      "id": "web.0489",
+      "text": "Czy Studio jest płatne?"
+    },
+    {
+      "id": "web.0490",
+      "text": "Nie. Studio jest częścią Darmowych materiałów."
+    },
+    {
+      "id": "web.0491",
+      "text": "Do czego można je wykorzystać?"
+    },
+    {
+      "id": "web.0492",
+      "text": "Na przerwy na skupienie, spokojny czas, podróż, zabawę bez ekranu i ćwiczenie cierpliwości, które nie przypomina szkolnego zadania."
+    },
+    {
+      "id": "web.0493",
+      "text": "Czy może pomóc w zachowaniu umiaru w korzystaniu z ekranów?"
+    },
+    {
+      "id": "web.0494",
+      "text": "Podpowiedź:"
+    },
+    {
+      "id": "web.0495",
+      "text": "aktywności pomagające zachować umiar w korzystaniu z ekranów"
+    },
+    {
+      "id": "web.0496",
+      "text": "Tak. To praktyczny pomysł na czas bez ekranu. Warto też zajrzeć do:"
+    },
+    {
+      "id": "web.0497",
+      "text": "Word Search Studio | Własne wykreślanki | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0498",
+      "text": "Twórz wykreślanki o wybranym kształcie i poziomie trudności. Na przerwy na skupienie, spokojne chwile i rodzinną zabawę bez ekranu."
+    },
+    {
+      "id": "web.0499",
+      "text": "Własne wykreślanki w kilka chwil. Dla skupienia, spokoju i rodzinnej zabawy bez ekranu."
+    },
+    {
+      "id": "web.0500",
+      "text": "Zaloguj się"
+    },
+    {
+      "id": "web.0501",
+      "text": "{slot_1}Poznaj rodzinę {slot_2}Happy Makers"
+    },
+    {
+      "id": "web.0502",
+      "text": "{slot_1}Zobacz książkę na {slot_2}Amazonie"
+    },
+    {
+      "id": "web.0503",
+      "text": "{slot_1}Umówmy się: {slot_2}życie rodzinne to {slot_3}gra zespołowa."
+    },
+    {
+      "id": "web.0504",
+      "text": "{slot_1}Gracie razem, choć wyzwania potrafią zaskoczyć. {slot_2}A niektóre poranki od razu włączają {slot_3}tryb trudny{slot_4}."
+    },
+    {
+      "id": "web.0505",
+      "text": "{slot_1}Tu z pomocą przychodzi {slot_2}RISE{slot_3}.{slot_4}SHINE{slot_5}.{slot_6}EVOLVE{slot_7}. Centrum wiedzy dla rodzin."
+    },
+    {
+      "id": "web.0506",
+      "text": "{slot_1}Codzienne wyzwania {slot_2}przekładamy na proste pomoce do wykorzystania w praktyce:"
+    },
+    {
+      "id": "web.0507",
+      "text": "Coś przydatnego dla każdego w rodzinie."
+    },
+    {
+      "id": "web.0508",
+      "text": "Bez nudnych wykładów, zawstydzania i oczekiwania, że będzie idealnie."
+    },
+    {
+      "id": "web.0509",
+      "text": "Wybierz swoją ścieżkę"
+    },
+    {
+      "id": "web.0510",
+      "text": "Na zwykłe dni. Także te, w których wszystko dzieje się naraz."
+    },
+    {
+      "id": "web.0511",
+      "text": "{slot_1}Podręczny zestaw sposobów {slot_2}dla małych bohaterów codzienności."
+    },
+    {
+      "id": "web.0512",
+      "text": "Mobilne i interaktywne misje z historiami, które pomagają odkrywać emocje, budować pewność siebie i mierzyć się ze spadkiem energii."
+    },
+    {
+      "id": "web.0513",
+      "text": "Odkryj materiały dla dzieci"
+    },
+    {
+      "id": "web.0514",
+      "text": "{slot_1}Konkretne wsparcie na co dzień. {slot_2}Przydatne wskazówki do gry zwanej życiem."
+    },
+    {
+      "id": "web.0515",
+      "text": "Pomoce i poradniki o stresie, skupieniu i tym, co w dorastaniu bywa trudne. Po ludzku, bez pouczania. Projekty są w przygotowaniu."
+    },
+    {
+      "id": "web.0516",
+      "text": "Odkryj materiały dla nastolatków"
+    },
+    {
+      "id": "web.0517",
+      "text": "Miejsce wsparcia dla tych, którzy pomagają rodzinie działać."
+    },
+    {
+      "id": "web.0518",
+      "text": "Rodzicielstwo z poszanowaniem neuroróżnorodności, mniej obciążające sposoby na codzienność i chwile na odzyskanie równowagi. Bo opiekunowie też mają potrzeby, zwłaszcza gdy ich bateria pokazuje 1%."
+    },
+    {
+      "id": "web.0519",
+      "text": "Odkryj materiały dla dorosłych"
+    },
+    {
+      "id": "web.0520",
+      "text": "Potrzebujecie czegoś na już?"
+    },
+    {
+      "id": "web.0521",
+      "text": "Zajrzyjcie do Darmowych materiałów."
+    },
+    {
+      "id": "web.0522",
+      "text": "Znajdziecie tam jednominutowe zadania i krótkie aktywności, które pomagają się wyciszyć lub dodać sobie energii."
+    },
+    {
+      "id": "web.0523",
+      "text": "{slot_1}Czasem nie potrzeba całego programu. {slot_2}Przyda się po prostu {slot_3}krótki reset{slot_4}."
+    },
+    {
+      "id": "web.0524",
+      "text": "Sięgnij po coś na teraz"
+    },
+    {
+      "id": "web.0525",
+      "text": "Rodzina Happy Makers"
+    },
+    {
+      "id": "web.0526",
+      "text": "{slot_1}Luli, Dilo, Alio i młodsza Nini to czworo rodzeństwa. {slot_2}Razem z pozostałymi członkami rodziny przeżywają przygody, {slot_3}w których rozwijają się i odkrywają świat."
+    },
+    {
+      "id": "web.0527",
+      "text": "{slot_1}Odkryj naszą Bibliotekę {slot_2}Kliknij okładkę, by poznać pełny opis i dowiedzieć się, czego oczekiwać po książce."
+    },
+    {
+      "id": "web.0528",
+      "text": "{slot_1}Level Up Your Brain - {slot_2}World 02"
+    },
+    {
+      "id": "web.0529",
+      "text": "10 zabawnych historii. Kolejny poziom pracy nad nawykami, technologią, codziennymi czynnościami i współpracą."
+    },
+    {
+      "id": "web.0530",
+      "text": "Dowiedz się więcej"
+    },
+    {
+      "id": "web.0531",
+      "text": "{slot_1}Level Up Your Brain - {slot_2}World 01"
+    },
+    {
+      "id": "web.0532",
+      "text": "10 zabawnych historii o wytrwałości, odruchowych reakcjach mózgu i rozumieniu własnego umysłu."
+    },
+    {
+      "id": "web.0533",
+      "text": "{slot_1}The Confident, Mindful & Happy Me {slot_2}Adventure"
+    },
+    {
+      "id": "web.0534",
+      "text": "31 dni odkrywania własnej wartości, silnych emocji i mocnych stron. Pełna zabawy przygoda z nastawieniem na naukę dla dzieci w wieku 6–10 lat."
+    },
+    {
+      "id": "web.0535",
+      "text": "{slot_1}ŚWIĘTA SĄ TEŻ {slot_2}PO DRODZE"
+    },
+    {
+      "id": "web.0536",
+      "text": "Uważność, bycie razem, chwila refleksji i świąteczne odkrycia."
+    },
+    {
+      "id": "web.0537",
+      "text": "{slot_1}Grandma Bibi {slot_2}Anti-Boredom Club"
+    },
+    {
+      "id": "web.0538",
+      "text": "12 miesięcy przygód i kolorowania z Babcią Bibi."
+    },
+    {
+      "id": "web.0539",
+      "text": "{slot_1}Happy Makers przedstawiają {slot_2}Detective Academy: The Mystery of Room Zero"
+    },
+    {
+      "id": "web.0540",
+      "text": "30 powiązanych spraw. 1 ukryta tajemnica. Dla dzieci w wieku 8–12 lat."
+    },
+    {
+      "id": "web.0541",
+      "text": "Przygody bliskie codzienności"
+    },
+    {
+      "id": "web.0542",
+      "text": "31-dniowy pomysł na mobilną przygodę dla nastolatków. Sposoby na przykre komentarze rówieśników, skupienie i nastawienie. Codzienność czasem rzuca wyzwanie jak gra ze 100 poziomami."
+    },
+    {
+      "id": "web.0543",
+      "text": "{slot_1}Zobacz zapowiedź na Androida {slot_2}→"
+    },
+    {
+      "id": "web.0544",
+      "text": "Odkryj ścieżkę dla seniorów"
+    },
+    {
+      "id": "web.0545",
+      "text": "{slot_1}Witaj w naszej {slot_2}specjalnej sekcji „Darmowe materiały”."
+    },
+    {
+      "id": "web.0546",
+      "text": "Bezpłatne materiały, które pomagają:"
+    },
+    {
+      "id": "web.0547",
+      "text": "{slot_1}RISE{slot_2}, {slot_3}SHINE {slot_4}i {slot_5}EVOLVE{slot_6}."
+    },
+    {
+      "id": "web.0548",
+      "text": "Darmowe materiały"
+    },
+    {
+      "id": "web.0549",
+      "text": "{slot_1}Mały zbiór bezpłatnych pomocy na wyciszenie, drobnych aktywności i zabaw ze słowami dla całej rodziny. {slot_2}Regularnie dodajemy kolejne materiały."
+    },
+    {
+      "id": "web.0550",
+      "text": "Na telefonie możesz korzystać z aktywności w pionie i w poziomie."
+    },
+    {
+      "id": "web.0551",
+      "text": "Wskazówka dla użytkowników telefonów"
+    },
+    {
+      "id": "web.0552",
+      "text": "Materiały otwierają się w osobnej karcie przeglądarki. Na telefonie wybierz ułożenie ekranu, w którym jest Ci wygodniej."
+    },
+    {
+      "id": "web.0553",
+      "text": "Family Motto Generator"
+    },
+    {
+      "id": "web.0554",
+      "text": "Stwórzcie krótkie rodzinne hasło na ten tydzień, trudne chwile i wspólne świętowanie."
+    },
+    {
+      "id": "web.0555",
+      "text": "Stwórz rodzinne hasło"
+    },
+    {
+      "id": "web.0556",
+      "text": "Koło wyciszenia i energii"
+    },
+    {
+      "id": "web.0557",
+      "text": "Dwa tryby rodzinnego koła: wyciszcie się i zwolnijcie albo rozchmurzcie się i dodajcie sobie energii. Zakręćcie, zatrzymajcie koło i sprawdźcie wskazówkę Happy Makers."
+    },
+    {
+      "id": "web.0558",
+      "text": "Zakręć kołem"
+    },
+    {
+      "id": "web.0559",
+      "text": "Wyzwanie na 1 minutę"
+    },
+    {
+      "id": "web.0560",
+      "text": "Jeden klik, jedno krótkie zadanie od Happy Makers. Na radość, pomysłowość lub bliskość."
+    },
+    {
+      "id": "web.0561",
+      "text": "Podejmij krótkie wyzwanie"
+    },
+    {
+      "id": "web.0562",
+      "text": "Happy Makers: szukanie słów"
+    },
+    {
+      "id": "web.0563",
+      "text": "Szukaj nazw i imion ze świata Happy Makers. Ukończ rundę, świętuj z konfetti i odśwież stronę, by zagrać od nowa."
+    },
+    {
+      "id": "web.0564",
+      "text": "Zacznij szukać słów"
+    },
+    {
+      "id": "web.0565",
+      "text": "Twórz duże wykreślanki do druku. Wybierz temat, kształt i poziom trudności, a potem jednym kliknięciem wydrukuj lub pobierz."
+    },
+    {
+      "id": "web.0566",
+      "text": "Otwórz studio wykreślanek"
+    },
+    {
+      "id": "web.0567",
+      "text": "Kolejne Darmowe materiały od Happy Makers są w drodze"
+    },
+    {
+      "id": "web.0568",
+      "text": "Przygotowujemy kolejne pomysły na wspólny rozwój całej rodziny."
+    },
+    {
+      "id": "web.0569",
+      "text": "Nowe rodzinne wyzwania w przygotowaniu"
+    },
+    {
+      "id": "web.0570",
+      "text": "Więcej zabaw już wkrótce."
+    },
+    {
+      "id": "web.0571",
+      "text": "Dziękujemy!"
+    },
+    {
+      "id": "web.0572",
+      "text": "Jesteś z nami! Miło Cię powitać."
+    },
+    {
+      "id": "web.0573",
+      "text": "{slot_1}Zyskujesz dostęp do: {slot_2}bezpłatnych materiałów edukacyjnych i kart pracy, {slot_3}wiadomości o nowych wydaniach i premierach, {slot_4}wyjątkowych zapowiedzi przyszłych książek i kursów oraz {slot_5}ofert i materiałów dostępnych z wyprzedzeniem."
+    },
+    {
+      "id": "web.0574",
+      "text": "Bądźmy w kontakcie"
+    },
+    {
+      "id": "web.0575",
+      "text": "rise.shine.evolve@gmail.com"
+    },
+    {
+      "id": "web.0576",
+      "text": "Wypisz się i usuń konto"
+    },
+    {
+      "id": "web.0577",
+      "text": "Poznaj rodzinę Happy Makers"
+    },
+    {
+      "id": "web.0578",
+      "text": "Poznaj pogodnych towarzyszy, którzy będą wracać w kolejnych przygodach."
+    },
+    {
+      "id": "web.0579",
+      "text": "Mimi: kochana królowa codziennego chaosu"
+    },
+    {
+      "id": "web.0580",
+      "text": "Luli: pomysłowa i pełna blasku"
+    },
+    {
+      "id": "web.0581",
+      "text": "Dilo: mistrz pikselowego stylu"
+    },
+    {
+      "id": "web.0582",
+      "text": "Alio: energia, pomysły i psoty"
+    },
+    {
+      "id": "web.0583",
+      "text": "Mała Nini"
+    },
+    {
+      "id": "web.0584",
+      "text": "Nini: iskierka radości"
+    },
+    {
+      "id": "web.0585",
+      "text": "Babcia Bibi"
+    },
+    {
+      "id": "web.0586",
+      "text": "Babcia Bibi: królowa ciepła i blasku"
+    },
+    {
+      "id": "web.0587",
+      "text": "Więcej w przygotowaniu"
+    },
+    {
+      "id": "web.0588",
+      "text": "Zajrzyj ponownie, by poznać kolejnych członków rodziny Happy Makers."
+    },
+    {
+      "id": "web.0589",
+      "text": "{slot_1}Co powstanie, gdy połączymy {slot_2}odrobinę uważności i przygodę {slot_3}ze szczyptą rodzinnych cudów?"
+    },
+    {
+      "id": "web.0590",
+      "text": "Oto oni:"
+    },
+    {
+      "id": "web.0591",
+      "text": "Happy Makers"
+    },
+    {
+      "id": "web.0592",
+      "text": "{slot_1}Poznaj swoich nowych {slot_2}przyjaciół{slot_3}."
+    },
+    {
+      "id": "web.0593",
+      "text": "{slot_1}Sympatyczni, godni zaufania przewodnicy z poczuciem humoru. {slot_2}Pomagają czerpać radość z bycia {slot_3}sobą {slot_4}i odnajdywać przygodę w codzienności."
+    },
+    {
+      "id": "web.0594",
+      "text": "{slot_1}Odkrywajcie razem z {slot_2}RISE.{slot_3}SHINE.{slot_4}EVOLVE. {slot_5}Nasze centrum wiedzy {slot_6}w Waszym domu."
+    },
+    {
+      "id": "web.0595",
+      "text": "{slot_1}Wciągające historie zmieniają codzienne {slot_2}trudności w okazje do rozwoju:"
+    },
+    {
+      "id": "web.0596",
+      "text": "{slot_1}szukanie spokoju w pośpiechu {slot_2}i odwagi w zupełnie zwyczajny wtorek."
+    },
+    {
+      "id": "web.0597",
+      "text": "{slot_1}Rozwój emocjonalny traktują poważnie. {slot_2}Z siebie za to chętnie się śmieją."
+    },
+    {
+      "id": "web.0598",
+      "text": "{slot_1}Bo dzieci chętnie wchodzą do świata, w którym mogą {slot_2}się śmiać {slot_3}i samodzielnie odkrywać."
+    },
+    {
+      "id": "web.0599",
+      "text": "Wyruszmy razem, by:"
+    },
+    {
+      "id": "web.0600",
+      "text": "To coś więcej niż seria książek. To cały świat Happy Makers."
+    },
+    {
+      "id": "web.0601",
+      "text": "{slot_1}Społeczność, w której jest miejsce na {slot_2}czułość {slot_3}• {slot_4}humor {slot_5}• {slot_6}i kibicowanie sobie nawzajem."
+    },
+    {
+      "id": "web.0602",
+      "text": "Gotowi odkryć swoje mocne strony?"
+    },
+    {
+      "id": "web.0603",
+      "text": "Wróć do galerii postaci"
+    },
+    {
+      "id": "web.0604",
+      "text": "Zamknij materiał"
+    },
+    {
+      "id": "web.0605",
+      "text": "Dołącz do społeczności Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0606",
+      "text": "Zapisz się do newslettera i zyskaj dostęp do wyjątkowych bezpłatnych materiałów."
+    },
+    {
+      "id": "web.0607",
+      "text": "{slot_1}Bezpłatne materiały pomagają ruszyć z miejsca: {slot_2}RISE{slot_3}. {slot_4}Pomoce wspierają rozwijanie mocnych stron: {slot_5}SHINE{slot_6}. {slot_7}Treści zachęcają do dalszego rozwoju: {slot_8}EVOLVE{slot_9}."
+    },
+    {
+      "id": "web.0608",
+      "text": "Utwórz konto"
+    },
+    {
+      "id": "web.0609",
+      "text": "Jesteś tu pierwszy raz? Wybierz „Utwórz konto”."
+    },
+    {
+      "id": "web.0610",
+      "text": "Masz już konto? Wybierz „Zaloguj się”."
+    },
+    {
+      "id": "web.0611",
+      "text": "Konto z tym adresem e-mail już istnieje. Zaloguj się."
+    },
+    {
+      "id": "web.0612",
+      "text": "Nie pamiętasz hasła?"
+    },
+    {
+      "id": "web.0613",
+      "text": "Wpisz imię"
+    },
+    {
+      "id": "web.0614",
+      "text": "Wpisz adres e-mail"
+    },
+    {
+      "id": "web.0615",
+      "text": "Hasło"
+    },
+    {
+      "id": "web.0616",
+      "text": "Pokaż hasło"
+    },
+    {
+      "id": "web.0617",
+      "text": "Nowe hasło"
+    },
+    {
+      "id": "web.0618",
+      "text": "Powtórz hasło"
+    },
+    {
+      "id": "web.0619",
+      "text": "Pokaż hasła"
+    },
+    {
+      "id": "web.0620",
+      "text": "{slot_1}Sprawdź pocztę i kliknij link weryfikacyjny, aby uzyskać dostęp do Darmowych materiałów i społeczności. {slot_2}Jeśli wiadomość nie dotrze w ciągu kilku minut, sprawdź spam lub spróbuj ponownie."
+    },
+    {
+      "id": "web.0621",
+      "text": "{slot_1}Data wejścia w życie: {slot_2}1 stycznia 2025 r."
+    },
+    {
+      "id": "web.0622",
+      "text": "1. Jakie dane zbieramy"
+    },
+    {
+      "id": "web.0623",
+      "text": "Zbieramy informacje, które dobrowolnie przekazujesz podczas zapisu do newslettera naszej społeczności:"
+    },
+    {
+      "id": "web.0624",
+      "text": "Imię"
+    },
+    {
+      "id": "web.0625",
+      "text": "Adres e-mail"
+    },
+    {
+      "id": "web.0626",
+      "text": "Preferencje dotyczące komunikacji"
+    },
+    {
+      "id": "web.0627",
+      "text": "2. Jak wykorzystujemy dane"
+    },
+    {
+      "id": "web.0628",
+      "text": "Wykorzystujemy Twoje dane w następujących celach:"
+    },
+    {
+      "id": "web.0629",
+      "text": "Wysyłanie treści edukacyjnych i newsletterów"
+    },
+    {
+      "id": "web.0630",
+      "text": "Zapewnianie dostępu do bezpłatnych materiałów edukacyjnych"
+    },
+    {
+      "id": "web.0631",
+      "text": "Przekazywanie informacji o usługach i nowych wydaniach"
+    },
+    {
+      "id": "web.0632",
+      "text": "Ulepszanie materiałów edukacyjnych"
+    },
+    {
+      "id": "web.0633",
+      "text": "Wypełnianie obowiązków prawnych"
+    },
+    {
+      "id": "web.0634",
+      "text": "3. Udostępnianie danych"
+    },
+    {
+      "id": "web.0635",
+      "text": "Nie sprzedajemy, nie wymieniamy ani w inny sposób nie przekazujemy Twoich danych osobowych osobom trzecim bez Twojej zgody, z wyjątkiem przypadków opisanych w tej polityce lub wymaganych przez prawo."
+    },
+    {
+      "id": "web.0636",
+      "text": "4. Ochrona danych"
+    },
+    {
+      "id": "web.0637",
+      "text": "Stosujemy odpowiednie zabezpieczenia, aby chronić Twoje dane przed nieuprawnionym dostępem, zmianą, ujawnieniem lub zniszczeniem. Hasła są szyfrowane i bezpiecznie przechowywane."
+    },
+    {
+      "id": "web.0638",
+      "text": "5. Twoje prawa wynikające z GDPR i RODO"
+    },
+    {
+      "id": "web.0639",
+      "text": "Zgodnie z unijnym ogólnym rozporządzeniem o ochronie danych (GDPR), określanym w Polsce jako RODO, przysługują Ci następujące prawa:"
+    },
+    {
+      "id": "web.0640",
+      "text": "{slot_1}Prawo dostępu do danych (art. 15 RODO): {slot_2}możesz zażądać dostępu do swoich danych osobowych."
+    },
+    {
+      "id": "web.0641",
+      "text": "{slot_1}Prawo do sprostowania danych (art. 16 RODO): {slot_2}możesz poprawić nieprawidłowe lub niekompletne dane."
+    },
+    {
+      "id": "web.0642",
+      "text": "{slot_1}Prawo do usunięcia danych (art. 17 RODO): {slot_2}możesz zażądać usunięcia danych, korzystając z prawa do bycia zapomnianym."
+    },
+    {
+      "id": "web.0643",
+      "text": "{slot_1}Prawo do ograniczenia przetwarzania (art. 18 RODO): {slot_2}możesz ograniczyć przetwarzanie swoich danych osobowych."
+    },
+    {
+      "id": "web.0644",
+      "text": "{slot_1}Prawo do przenoszenia danych (art. 20 RODO): {slot_2}możesz otrzymać swoje dane w uporządkowanym formacie."
+    },
+    {
+      "id": "web.0645",
+      "text": "{slot_1}Prawo do sprzeciwu (art. 21 RODO): {slot_2}możesz wnieść sprzeciw wobec przetwarzania danych."
+    },
+    {
+      "id": "web.0646",
+      "text": "{slot_1}Prawo do wycofania zgody: {slot_2}możesz w każdej chwili wypisać się z newslettera."
+    },
+    {
+      "id": "web.0647",
+      "text": "{slot_1}Prawo do złożenia skargi: {slot_2}możesz złożyć skargę do organu nadzorczego, w Polsce do Urzędu Ochrony Danych Osobowych (UODO)."
+    },
+    {
+      "id": "web.0648",
+      "text": "6. Podstawy prawne przetwarzania (art. 6 RODO)"
+    },
+    {
+      "id": "web.0649",
+      "text": "Przetwarzamy dane na następujących podstawach prawnych:"
+    },
+    {
+      "id": "web.0650",
+      "text": "{slot_1}Zgoda (art. 6 ust. 1 lit. a RODO): {slot_2}zapis do newslettera i dostęp do społeczności."
+    },
+    {
+      "id": "web.0651",
+      "text": "{slot_1}Prawnie uzasadniony interes (art. 6 ust. 1 lit. f RODO): {slot_2}ulepszanie usług i rozwijanie treści edukacyjnych."
+    },
+    {
+      "id": "web.0652",
+      "text": "7. Okres przechowywania danych"
+    },
+    {
+      "id": "web.0653",
+      "text": "Dane związane z subskrypcją newslettera przechowujemy wyłącznie tak długo, jak jest to niezbędne do realizacji wskazanych celów lub wymagane przez prawo. Dane dotyczące zapisu do newslettera przechowujemy do czasu wypisania się z niego."
+    },
+    {
+      "id": "web.0654",
+      "text": "8. Przetwarzanie danych w innych krajach"
+    },
+    {
+      "id": "web.0655",
+      "text": "Twoje dane mogą być przekazywane do innych krajów i w nich przetwarzane. Zapewniamy odpowiednie zabezpieczenia zgodnie z rozdziałem V RODO."
+    },
+    {
+      "id": "web.0656",
+      "text": "9. Kontakt i inspektor ochrony danych"
+    },
+    {
+      "id": "web.0657",
+      "text": "uodo.gov.pl"
+    },
+    {
+      "id": "web.0658",
+      "text": "Niniejsza polityka jest zgodna z unijnym ogólnym rozporządzeniem o ochronie danych (GDPR), określanym w Polsce jako RODO, oraz kalifornijską ustawą o ochronie prywatności konsumentów (CCPA)."
+    },
+    {
+      "id": "web.0659",
+      "text": "Rise.Shine.Evolve. • Centrum wiedzy, które zachęca do odkrywania"
+    },
+    {
+      "id": "web.0660",
+      "text": "Wyjdź z widoku do druku"
+    },
+    {
+      "id": "web.0661",
+      "text": "Rodzinne"
+    },
+    {
+      "id": "web.0662",
+      "text": "RISE.SHINE.EVOLVE.REPEAT."
+    },
+    {
+      "id": "web.0663",
+      "text": "Uważnie i z poczuciem sprawczości, dzień po dniu."
+    },
+    {
+      "id": "web.0664",
+      "text": "Inspiracje"
+    },
+    {
+      "id": "web.0665",
+      "text": "Stwórz własne"
+    },
+    {
+      "id": "web.0666",
+      "text": "Wybierz wartości ważne dla Ciebie i Twojej rodziny."
+    },
+    {
+      "id": "web.0667",
+      "text": "01 • Pierwsza wartość"
+    },
+    {
+      "id": "web.0668",
+      "text": "Wpisz własną wartość"
+    },
+    {
+      "id": "web.0669",
+      "text": "02 • Druga wartość"
+    },
+    {
+      "id": "web.0670",
+      "text": "Wygeneruj rodzinne hasło"
+    },
+    {
+      "id": "web.0671",
+      "text": "Koła Happy Makers: wyciszenie i energia"
+    },
+    {
+      "id": "web.0672",
+      "text": "Dwa krótkie sposoby dla rodziny: na wyciszenie albo pobudzenie. Zakręć kołem, zatrzymaj je i sprawdź wskazówkę Happy Makers."
+    },
+    {
+      "id": "web.0673",
+      "text": "Koło wyciszenia"
+    },
+    {
+      "id": "web.0674",
+      "text": "Koło energii"
+    },
+    {
+      "id": "web.0675",
+      "text": "🎡 Zakręć"
+    },
+    {
+      "id": "web.0676",
+      "text": "Wszystkie"
+    },
+    {
+      "id": "web.0677",
+      "text": "Ruch"
+    },
+    {
+      "id": "web.0678",
+      "text": "Oddech"
+    },
+    {
+      "id": "web.0679",
+      "text": "Bliskość"
+    },
+    {
+      "id": "web.0680",
+      "text": "Zakręć"
+    },
+    {
+      "id": "web.0681",
+      "text": "Happy Makers: wyzwanie na 1 minutę"
+    },
+    {
+      "id": "web.0682",
+      "text": "{slot_1}Jeden klik odsłania małe zadanie. {slot_2}1 minuta na spokój, odwagę, skupienie lub radość. {slot_3}Mała rzecz, która ma znaczenie. Bez przygotowań, z Happy Makers."
+    },
+    {
+      "id": "web.0683",
+      "text": "Daj mi wyzwanie na 1 minutę"
+    },
+    {
+      "id": "web.0684",
+      "text": "★ Podpowiedź"
+    },
+    {
+      "id": "web.0685",
+      "text": "↻ Zmień słowa"
+    },
+    {
+      "id": "web.0686",
+      "text": "Słowa do znalezienia"
+    },
+    {
+      "id": "web.0687",
+      "text": "Świetnie!"
+    },
+    {
+      "id": "web.0688",
+      "text": "Wszystkie słowa znalezione!"
+    },
+    {
+      "id": "web.0689",
+      "text": "Wylosuj nowe słowa Happy Makers"
+    },
+    {
+      "id": "web.0690",
+      "text": "HAPPY MAKERS PRZEDSTAWIAJĄ"
+    },
+    {
+      "id": "web.0691",
+      "text": "Happy Makers Detective Academy"
+    },
+    {
+      "id": "web.0692",
+      "text": "The Mystery of Room Zero"
+    },
+    {
+      "id": "web.0693",
+      "text": "Zalogowano jako:"
+    },
+    {
+      "id": "web.0694",
+      "text": "Każde dziecko może"
+    },
+    {
+      "id": "web.0695",
+      "text": "Każda rodzina może"
+    },
+    {
+      "id": "web.0696",
+      "text": "Każdy z nas może"
+    },
+    {
+      "id": "web.0697",
+      "text": "Poznaj świat"
+    },
+    {
+      "id": "web.0698",
+      "text": "oraz"
+    },
+    {
+      "id": "web.0699",
+      "text": "Praktyczne pomoce dla rodzin. Zacznij od"
+    },
+    {
+      "id": "web.0700",
+      "text": "krótkich zadań na pewność siebie i uważność"
+    },
+    {
+      "id": "web.0701",
+      "text": "możesz"
+    },
+    {
+      "id": "web.0702",
+      "text": "Twoje mocne strony pomagają Ci"
+    },
+    {
+      "id": "web.0703",
+      "text": "odkrywaj swoje mocne strony, by"
+    },
+    {
+      "id": "web.0704",
+      "text": "Spokój"
+    },
+    {
+      "id": "web.0705",
+      "text": "Pewność siebie"
+    },
+    {
+      "id": "web.0706",
+      "text": "Radość"
+    },
+    {
+      "id": "web.0707",
+      "text": "Dzieci"
+    },
+    {
+      "id": "web.0708",
+      "text": "Nastolatki"
+    },
+    {
+      "id": "web.0709",
+      "text": "Dorośli"
+    },
+    {
+      "id": "web.0710",
+      "text": "Pomóż dziecku odkrywać jego mocne strony"
+    },
+    {
+      "id": "web.0711",
+      "text": "Praktyczne, nietuzinkowe materiały dla rozwijających się umysłów"
+    },
+    {
+      "id": "web.0712",
+      "text": "Wspieraj dziecko w uczeniu się nowych umiejętności"
+    },
+    {
+      "id": "web.0713",
+      "text": "budowaniu pewności siebie i odkrywaniu własnych talentów"
+    },
+    {
+      "id": "web.0714",
+      "text": "by z nadzieją patrzyło w przyszłość i mogło"
+    },
+    {
+      "id": "web.0715",
+      "text": "rozwijać skrzydła"
+    },
+    {
+      "id": "web.0716",
+      "text": "Nowa seria"
+    },
+    {
+      "id": "web.0717",
+      "text": "Dostępne"
+    },
+    {
+      "id": "web.0718",
+      "text": "Książka drukowana"
+    },
+    {
+      "id": "web.0719",
+      "text": "Osobista przygoda"
+    },
+    {
+      "id": "web.0720",
+      "text": "W przygotowaniu"
+    },
+    {
+      "id": "web.0721",
+      "text": "Dla rodziny"
+    },
+    {
+      "id": "web.0722",
+      "text": "Dostępność niepotwierdzona"
+    },
+    {
+      "id": "web.0723",
+      "text": "Niepotwierdzone"
+    },
+    {
+      "id": "web.0724",
+      "text": "Książka 1"
+    },
+    {
+      "id": "web.0725",
+      "text": "Iluzje optyczne"
+    },
+    {
+      "id": "web.0726",
+      "text": "Materiały dla nastolatków pomagają budować pewność siebie"
+    },
+    {
+      "id": "web.0727",
+      "text": "rozwijać umiejętność myślenia i oceny sytuacji"
+    },
+    {
+      "id": "web.0728",
+      "text": "i przygotowywać się na kolejne etapy życia"
+    },
+    {
+      "id": "web.0729",
+      "text": "W przygotowaniu"
+    },
+    {
+      "id": "web.0730",
+      "text": "Aplikacja na Androida"
+    },
+    {
+      "id": "web.0731",
+      "text": "Kariera i rozwój osobisty"
+    },
+    {
+      "id": "web.0732",
+      "text": "Odkrywaj kolejne możliwości"
+    },
+    {
+      "id": "web.0733",
+      "text": "Pomysł na prostą, przyjazną i czytelną aplikację dla seniorów, która wspiera pewność siebie"
+    },
+    {
+      "id": "web.0734",
+      "text": "kontakt z innymi i codzienne sprawy"
+    },
+    {
+      "id": "web.0735",
+      "text": "Planowane wydanie w Google Play"
+    },
+    {
+      "id": "web.0736",
+      "text": "Przydatne linki"
+    },
+    {
+      "id": "web.0737",
+      "text": "Nowość"
+    },
+    {
+      "id": "web.0738",
+      "text": "W przygotowaniu"
+    },
+    {
+      "id": "web.0739",
+      "text": "Zróbmy ten krok:"
+    },
+    {
+      "id": "web.0740",
+      "text": "E-mail"
+    },
+    {
+      "id": "web.0741",
+      "text": "Obserwuj nas"
+    },
+    {
+      "id": "web.0742",
+      "text": "Dołącz do społeczności, która uczy się i rozwija razem."
+    },
+    {
+      "id": "web.0743",
+      "text": "Dowiedz się więcej"
+    },
+    {
+      "id": "web.0744",
+      "text": "Rozwój osobisty"
+    },
+    {
+      "id": "web.0745",
+      "text": "Z pomocą naszych bohaterów"
+    },
+    {
+      "id": "web.0746",
+      "text": "doświadczenia i wyzwania dorastania"
+    },
+    {
+      "id": "web.0747",
+      "text": "Jacy są Happy Makers?"
+    },
+    {
+      "id": "web.0748",
+      "text": "Bez nudnych wykładów"
+    },
+    {
+      "id": "web.0749",
+      "text": "100% frajdy"
+    },
+    {
+      "id": "web.0750",
+      "text": "Każde dziecko może RISE"
+    },
+    {
+      "id": "web.0751",
+      "text": "Do codziennej odwagi nie potrzeba peleryny."
+    },
+    {
+      "id": "web.0752",
+      "text": "Każda rodzina może SHINE"
+    },
+    {
+      "id": "web.0753",
+      "text": "Także w te dni, gdy nic nie idzie zgodnie z planem."
+    },
+    {
+      "id": "web.0754",
+      "text": "Każdy z nas może EVOLVE"
+    },
+    {
+      "id": "web.0755",
+      "text": "Małymi krokami, we własnym tempie."
+    },
+    {
+      "id": "web.0756",
+      "text": "Ten materiał jest teraz niedostępny. Spróbuj ponownie za chwilę."
+    },
+    {
+      "id": "web.0757",
+      "text": "Level Up Your Brain World 01"
+    },
+    {
+      "id": "web.0758",
+      "text": "10 zabawnych historii o wytrwałości, radzeniu sobie z odruchowymi reakcjami mózgu i rozumieniu własnego umysłu."
+    },
+    {
+      "id": "web.0759",
+      "text": "Zobacz na Amazonie"
+    },
+    {
+      "id": "web.0760",
+      "text": "Nie udało się zapisać subskrypcji. Spróbuj ponownie."
+    },
+    {
+      "id": "web.0761",
+      "text": "Sprawdź pocztę i kliknij link weryfikacyjny, aby przejść do Darmowych materiałów i społeczności."
+    },
+    {
+      "id": "web.0762",
+      "text": "Potwierdzam zapoznanie się z polityką i akceptuję jej postanowienia:"
+    },
+    {
+      "id": "web.0763",
+      "text": "Wyrażam zgodę na otrzymywanie wiadomości e-mail od Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0764",
+      "text": "Pytania dotyczące polityki prywatności i wnioski związane z przysługującymi Ci prawami możesz kierować do:"
+    },
+    {
+      "id": "web.0765",
+      "text": "Z polskim organem nadzorczym możesz skontaktować się przez stronę:"
+    },
+    {
+      "id": "web.0766",
+      "text": "hasło"
+    },
+    {
+      "id": "web.0767",
+      "text": "Generator"
+    },
+    {
+      "id": "web.0768",
+      "text": "Nie muszę być idealny."
+    },
+    {
+      "id": "web.0769",
+      "text": "Jestem ważny taki, jaki jestem."
+    },
+    {
+      "id": "web.0770",
+      "text": "Życzliwość wobec siebie zaczyna się od uznania, że jesteś ważny bez żadnych warunków. Nie trzeba na to zasługiwać."
+    },
+    {
+      "id": "web.0771",
+      "text": "Wszelkie prawa zastrzeżone. Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0772",
+      "text": "Skopiowano do schowka."
+    },
+    {
+      "id": "web.0773",
+      "text": "Koło wyciszenia Happy Makers"
+    },
+    {
+      "id": "web.0774",
+      "text": "Minuta rodzinnego resetu, gdy ciało i uwaga potrzebują chwili spokoju. Bohater Happy Makers wybierze krótką praktykę na ten moment."
+    },
+    {
+      "id": "web.0775",
+      "text": "Wybierz kategorie praktyk, które mogą się pojawić."
+    },
+    {
+      "id": "web.0776",
+      "text": "Kliknij raz, by zakręcić, i drugi raz, by zatrzymać koło. Wskaźnik u góry pokaże ikonę, a ta poprowadzi Was do wspólnej praktyki wyciszającej."
+    },
+    {
+      "id": "web.0777",
+      "text": "Wasza chwila wyciszenia"
+    },
+    {
+      "id": "web.0778",
+      "text": "Zakręć kołem i zatrzymaj je, by odkryć praktykę wyciszającą."
+    },
+    {
+      "id": "web.0779",
+      "text": "Jak działa koło wyciszenia"
+    },
+    {
+      "id": "web.0780",
+      "text": "Sięgnij po koło między zajęciami, po aktywności lub przed snem. Wybierz filtr, zakręć i zatrzymaj, gdy zechcesz. Sprawdź ikonę pod wskaźnikiem u góry. Na karcie poniżej znajdziesz minutowe ćwiczenie od bohatera i jego żartobliwy komentarz. Wykonajcie je razem, z ciekawością."
+    },
+    {
+      "id": "web.0781",
+      "text": "Koło energii Happy Makers"
+    },
+    {
+      "id": "web.0782",
+      "text": "Minuta łagodnego pobudzenia na ospały dzień. Trochę ruchu, pogody ducha lub rozbudzenia, bez nadmiaru bodźców."
+    },
+    {
+      "id": "web.0783",
+      "text": "Kliknij raz, by zakręcić, i drugi raz, by zatrzymać koło. Wskaźnik u góry wybierze ikonę i pasującą do niej zabawną aktywność dodającą energii."
+    },
+    {
+      "id": "web.0784",
+      "text": "Wasza porcja energii"
+    },
+    {
+      "id": "web.0785",
+      "text": "Zakręć kołem i zatrzymaj je, by odkryć aktywność dodającą energii."
+    },
+    {
+      "id": "web.0786",
+      "text": "Jak działa koło energii"
+    },
+    {
+      "id": "web.0787",
+      "text": "Gdy ogarnia Was senność lub ospałość, wybierzcie filtr i zakręćcie kołem. Zatrzymajcie je drugim kliknięciem. Sprawdźcie ikonę pod wskaźnikiem u góry. Na karcie poniżej czeka krótka aktywność z ruchem, oddechem lub bliskością, by wspólnie dodać sobie energii."
+    },
+    {
+      "id": "web.0788",
+      "text": "Dotknij pierwszej litery słowa, a potem kolejno każdej następnej, aż do ostatniej."
+    },
+    {
+      "id": "web.0789",
+      "text": "Dotknij pierwszej i ostatniej litery słowa, aby sprawdzić swój wybór."
+    },
+    {
+      "id": "web.0790",
+      "text": "Słowa mogą biec poziomo, pionowo lub po skosie, wprost albo wspak."
+    },
+    {
+      "id": "web.0791",
+      "text": "© 2026 Rise.Shine.Evolve. • Centrum wiedzy, które zachęca do odkrywania"
+    },
+    {
+      "id": "web.0792",
+      "text": "Drukowana książka • Akta spraw do pracy z ołówkiem"
+    },
+    {
+      "id": "web.0793",
+      "text": "Interaktywna aplikacja na Androida"
+    },
+    {
+      "id": "web.0794",
+      "text": "Książka drukowana • W przygotowaniu"
+    },
+    {
+      "id": "web.0795",
+      "text": "Rise.Shine.Evolve. • Strona główna"
+    },
+    {
+      "id": "web.0796",
+      "text": "Sekwencja otwierająca Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0797",
+      "text": "Happy Makers tańczą."
+    },
+    {
+      "id": "web.0798",
+      "text": "Okładka Level Up Your Brain - World 01."
+    },
+    {
+      "id": "web.0799",
+      "text": "Zobacz zapowiedź Level Up Your Brain - World 02"
+    },
+    {
+      "id": "web.0800",
+      "text": "Okładka Level Up Your Brain - World 02."
+    },
+    {
+      "id": "web.0801",
+      "text": "Książka dostępna • Aplikacja planowana"
+    },
+    {
+      "id": "web.0802",
+      "text": "Zobacz zapowiedź Level Up Your Brain - World 01"
+    },
+    {
+      "id": "web.0803",
+      "text": "Okładka Level Up Your Brain - World 01."
+    },
+    {
+      "id": "web.0804",
+      "text": "Poznaj The Confident, Mindful & Happy Me Adventure"
+    },
+    {
+      "id": "web.0805",
+      "text": "Okładka The Confident, Mindful & Happy Me Adventure."
+    },
+    {
+      "id": "web.0806",
+      "text": "Książka dostępna • Aplikacja w przygotowaniu"
+    },
+    {
+      "id": "web.0807",
+      "text": "Zobacz drukowaną książkę ŚWIĘTA SĄ TEŻ PO DRODZE"
+    },
+    {
+      "id": "web.0808",
+      "text": "Książka i aplikacja w przygotowaniu"
+    },
+    {
+      "id": "web.0809",
+      "text": "Poznaj Grandma Bibi Anti-Boredom Club"
+    },
+    {
+      "id": "web.0810",
+      "text": "Dotychczasowa okładka Grandma Bibi Anti-Boredom Club od Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0811",
+      "text": "Dostępność książki niepotwierdzona"
+    },
+    {
+      "id": "web.0812",
+      "text": "Poznaj Happy Makers Detective Academy: The Mystery of Room Zero"
+    },
+    {
+      "id": "web.0813",
+      "text": "Okładka Happy Makers Detective Academy: The Mystery of Room Zero."
+    },
+    {
+      "id": "web.0814",
+      "text": "Książka w przygotowaniu"
+    },
+    {
+      "id": "web.0815",
+      "text": "Poznaj Optical Animals"
+    },
+    {
+      "id": "web.0816",
+      "text": "Okładka w przygotowaniu."
+    },
+    {
+      "id": "web.0817",
+      "text": "Poznaj Optical Halloween"
+    },
+    {
+      "id": "web.0818",
+      "text": "Grafika aplikacji czeka na zatwierdzenie."
+    },
+    {
+      "id": "web.0819",
+      "text": "ADRES E-MAIL"
+    },
+    {
+      "id": "web.0820",
+      "text": "Film przedstawiający rodzinę Happy Makers."
+    },
+    {
+      "id": "web.0821",
+      "text": "Mimi tańczy."
+    },
+    {
+      "id": "web.0822",
+      "text": "Luli tańczy."
+    },
+    {
+      "id": "web.0823",
+      "text": "Dilo tańczy."
+    },
+    {
+      "id": "web.0824",
+      "text": "Alio tańczy."
+    },
+    {
+      "id": "web.0825",
+      "text": "Nini tańczy."
+    },
+    {
+      "id": "web.0826",
+      "text": "Babcia Bibi tańczy."
+    },
+    {
+      "id": "web.0827",
+      "text": "Sekwencja zamykająca Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0828",
+      "text": "Aktywność z Darmowych materiałów"
+    },
+    {
+      "id": "web.0829",
+      "text": "IMIĘ"
+    },
+    {
+      "id": "web.0830",
+      "text": "HASŁO"
+    },
+    {
+      "id": "web.0831",
+      "text": "NOWE HASŁO"
+    },
+    {
+      "id": "web.0832",
+      "text": "POWTÓRZ HASŁO"
+    },
+    {
+      "id": "web.0833",
+      "text": "Np. otwartość na mówienie o swoich słabościach"
+    },
+    {
+      "id": "web.0834",
+      "text": "Np. wdzięczność"
+    },
+    {
+      "id": "web.0835",
+      "text": "Poprzednie"
+    },
+    {
+      "id": "web.0836",
+      "text": "Kopiuj tekst"
+    },
+    {
+      "id": "web.0837",
+      "text": "Widok do wydruku i powieszenia na lodówce"
+    },
+    {
+      "id": "web.0838",
+      "text": "Plansza do szukania słów"
+    },
+    {
+      "id": "web.0839",
+      "text": "Zamknij szczegóły książki detektywistycznej"
+    },
+    {
+      "id": "web.0840",
+      "text": "Oficjalna okładka Happy Makers Detective Academy: sześć postaci Happy Makers, czerń i złoto."
+    },
+    {
+      "id": "web.0841",
+      "text": "Aplikacja jest dopiero planowana. Nie ogłosiliśmy daty ani osobnej strony produktu."
+    },
+    {
+      "id": "web.0842",
+      "text": "Rise.Shine.Evolve. | Uczymy się życia przez zabawę"
+    },
+    {
+      "id": "web.0843",
+      "text": "Rodzinne historie, książki i zabawne aktywności na co dzień. Wydane tytuły Happy Makers, praktyczne poradniki i pomoce dla całej rodziny."
+    },
+    {
+      "id": "web.0844",
+      "text": "Dzieci"
+    },
+    {
+      "id": "web.0845",
+      "text": "{slot_1}Praktyczne materiały dla dzieci i zabieganych rodzin. Wspierają {slot_2}radzenie sobie z trudnościami {slot_3}i {slot_4}emocjami{slot_5}, pomagają budować spokojniejsze zwyczaje i pewność siebie. Bez długich wykładów."
+    },
+    {
+      "id": "web.0846",
+      "text": "Od tego często zaczynacie"
+    },
+    {
+      "id": "web.0847",
+      "text": "Co znajdziesz w tej części"
+    },
+    {
+      "id": "web.0848",
+      "text": "Wyciszenie i sposoby radzenia sobie z silnymi emocjami"
+    },
+    {
+      "id": "web.0849",
+      "text": "Łatwe do zapamiętania sposoby na złość i frustrację"
+    },
+    {
+      "id": "web.0850",
+      "text": "Język, który zachęca do uczenia się, i ćwiczenie odporności na trudności"
+    },
+    {
+      "id": "web.0851",
+      "text": "Przyjaźń i odnajdywanie się wśród ludzi"
+    },
+    {
+      "id": "web.0852",
+      "text": "Poranki, wieczory i doprowadzanie spraw do końca"
+    },
+    {
+      "id": "web.0853",
+      "text": "Rodzinne sposoby na umiar w korzystaniu z urządzeń"
+    },
+    {
+      "id": "web.0854",
+      "text": "Co odkryjesz dalej?"
+    },
+    {
+      "id": "web.0855",
+      "text": "Biblioteka"
+    },
+    {
+      "id": "web.0856",
+      "text": "Nastolatki"
+    },
+    {
+      "id": "web.0857",
+      "text": "Dorośli"
+    },
+    {
+      "id": "web.0858",
+      "text": "Seniorzy"
+    },
+    {
+      "id": "web.0859",
+      "text": "{slot_1}Czy chodzi tylko o emocje? {slot_2}Nie. Obok emocji znajdziesz tu codzienne zwyczaje, nawyki, pewność siebie, przyjaźń i umiar w korzystaniu z ekranów."
+    },
+    {
+      "id": "web.0860",
+      "text": "{slot_1}Od czego zacząć? {slot_2}Od World 01, jeśli szukasz podstaw radzenia sobie z emocjami i trudnościami. Potem sięgnij po World 02: nawyki, codzienne czynności i życie z technologią."
+    },
+    {
+      "id": "web.0861",
+      "text": "{slot_1}Jak korzystać, gdy rodzina ma mało czasu? {slot_2}Wybierz krótki materiał i wypróbuj jedną myśl już dziś. Wracajcie do niej przez kolejny tydzień. Małe, regularne próby łatwiej zmieścić w codzienności."
+    },
+    {
+      "id": "web.0862",
+      "text": "Wróć na stronę główną"
+    },
+    {
+      "id": "web.0863",
+      "text": "10 zabawnych historii i przystępne pomoce o mózgu: emocje, empatia, uczenie się na błędach i wyciszenie."
+    },
+    {
+      "id": "web.0864",
+      "text": "Kolejny poziom: nawyki, codzienne czynności, umiar w korzystaniu z ekranów, współpraca i cyfrowe życie."
+    },
+    {
+      "id": "web.0865",
+      "text": "31 dni z codziennymi wskazówkami o pewności siebie, uważności i nastawieniu na naukę."
+    },
+    {
+      "id": "web.0866",
+      "text": "Książki, zagadki i zapowiedzi aplikacji dla dzieci | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0867",
+      "text": "Wydane książki dla dzieci o radzeniu sobie z trudnościami i pewności siebie. Zapowiedzi Detective, kolorowanek optycznych i aplikacji Happy Me Adventures."
+    },
+    {
+      "id": "web.0868",
+      "text": "{slot_1}Umiejętności na życie, ukryte w historiach. {slot_2}Level Up Your Brain powstało z myślą o zabieganych rodzinach, krótkich chwilach skupienia i sytuacjach, w których coś praktycznego przyda się od razu."
+    },
+    {
+      "id": "web.0869",
+      "text": "Jak zbudowana jest seria"
+    },
+    {
+      "id": "web.0870",
+      "text": "{slot_1}Przeczytajcie historię {slot_2}Krótkie, zabawne rozdziały przyciągają dziecięcą uwagę."
+    },
+    {
+      "id": "web.0871",
+      "text": "{slot_1}Zajrzyjcie do Neuro-Coaching Console {slot_2}Poznajcie wyjaśnienie działania mózgu, napisane tak, by dziecko mogło je zrozumieć."
+    },
+    {
+      "id": "web.0872",
+      "text": "{slot_1}Wypróbujcie poznany sposób {slot_2}Skorzystajcie z krótkiej pomocy w prawdziwej codziennej sytuacji."
+    },
+    {
+      "id": "web.0873",
+      "text": "Od której książki zaczniecie?"
+    },
+    {
+      "id": "web.0874",
+      "text": "{slot_1}podstawy radzenia sobie z trudnościami {slot_2}Silne emocje, empatia, błędy, ciekawość i nuda, złość, nastawienie na naukę, przyjaźń, dbanie o siebie i podstawy gospodarowania energią."
+    },
+    {
+      "id": "web.0875",
+      "text": "Poznaj World 01"
+    },
+    {
+      "id": "web.0876",
+      "text": "{slot_1}kolejny poziom {slot_2}Nawyki, codzienne czynności, słuchanie, odporność na trudności, współpraca, myślenie, cyfrowy świat i umiar w korzystaniu z ekranów."
+    },
+    {
+      "id": "web.0877",
+      "text": "Poznaj World 02"
+    },
+    {
+      "id": "web.0878",
+      "text": "Szukasz więcej praktycznych pomocy?"
+    },
+    {
+      "id": "web.0879",
+      "text": "Poznaj rodzinę Happy Makers"
+    },
+    {
+      "id": "web.0880",
+      "text": "Czym jest ta seria?"
+    },
+    {
+      "id": "web.0881",
+      "text": "Seria pomaga rozwijać umiejętności przydatne na co dzień poprzez krótką historię, przystępne dla dziecka wyjaśnienie działania mózgu w Neuro-Coaching Console i praktyczny sposób do wykorzystania od razu."
+    },
+    {
+      "id": "web.0882",
+      "text": "Od której książki zacząć?"
+    },
+    {
+      "id": "web.0883",
+      "text": "Wybierz World 01 dla podstaw radzenia sobie z emocjami i trudnościami. World 02 przyda się przy nawykach, codziennych czynnościach, sporach o ekrany i cyfrowym życiu."
+    },
+    {
+      "id": "web.0884",
+      "text": "Czy seria dotyczy tylko emocji?"
+    },
+    {
+      "id": "web.0885",
+      "text": "Nie. Obejmuje także nawyki, codzienne zwyczaje, relacje, dbanie o siebie, współpracę, skupienie i umiejętności cyfrowe."
+    },
+    {
+      "id": "web.0886",
+      "text": "Zobacz wszystkie ścieżki"
+    },
+    {
+      "id": "web.0887",
+      "text": "Co jeszcze przygotowujemy"
+    },
+    {
+      "id": "web.0888",
+      "text": "Drukowane World 01 i World 02 zostały wydane. Żadna z interaktywnych wersji aplikacji nie została jeszcze opublikowana."
+    },
+    {
+      "id": "web.0889",
+      "text": "Zobacz wszystkie zapowiedzi"
+    },
+    {
+      "id": "web.0890",
+      "text": "Przeglądaj wydane książki"
+    },
+    {
+      "id": "web.0891",
+      "text": "Powiązana książka detektywistyczna dla dzieci w wieku 8–12 lat. Przygotowujemy ją do wydania w KDP."
+    },
+    {
+      "id": "web.0892",
+      "text": "Powiązany projekt na Androida jest dopracowywany przed wydaniem. Nie można go jeszcze pobrać z Google Play."
+    },
+    {
+      "id": "web.0893",
+      "text": "Level Up Your Brain | Sposoby na emocje, nawyki i ekrany"
+    },
+    {
+      "id": "web.0894",
+      "text": "Historie o codziennych umiejętnościach dla rodzin. 5-minutowe zadania, przystępne wyjaśnienia działania mózgu i praktyczne rodzinne wskazówki."
+    },
+    {
+      "id": "web.0895",
+      "text": "Grudzień i tak ma dużo planów. Tu wystarczy 10 minut dla rodziny."
+    },
+    {
+      "id": "web.0896",
+      "text": "Rodzinne odliczanie do świąt na zwykłe wieczory. Więcej bliskości bez dokładania skomplikowanego projektu. Angielska książka drukowana jest w przygotowaniu."
+    },
+    {
+      "id": "web.0897",
+      "text": "{slot_1}Aplikacja {slot_2}→ {slot_3}24 dni z przewodnikiem na Androidzie {slot_4}W przygotowaniu"
+    },
+    {
+      "id": "web.0898",
+      "text": "24 dni dla Waszej rodziny"
+    },
+    {
+      "id": "web.0899",
+      "text": "Mniej pośpiechu. Więcej śmiechu i prawdziwej uwagi dla siebie nawzajem."
+    },
+    {
+      "id": "web.0900",
+      "text": "Każdego dnia chwila uważności, wspólna zabawa i rozmowa. Bez projektu plastycznego, listy zakupów i skomplikowanych przygotowań. Z drukowaną wersją możecie iść we własnym tempie."
+    },
+    {
+      "id": "web.0901",
+      "text": "{slot_1}ZŁAPMY CHWILĘ: zauważcie to, co dzieje się teraz. Do tego {slot_2}NA JUTRO{slot_3}, czyli mały, praktyczny pomysł do zabrania w codzienność."
+    },
+    {
+      "id": "web.0902",
+      "text": "ZRÓBMY COŚ RAZEM: rodzinna aktywność dla przyjemności. Każda ma wariant W DWIE OSOBY."
+    },
+    {
+      "id": "web.0903",
+      "text": "POGADAJMY: czas na rodzinną rozmowę. Ciepło, bez wykładu."
+    },
+    {
+      "id": "web.0904",
+      "text": "Happy Makers wnoszą humor, pomyłki i energię, którą rodziny dobrze znają. W dniu 24 wracają w opowieści do wcześniejszych wspólnych chwil."
+    },
+    {
+      "id": "web.0905",
+      "text": "Książka drukowana w przygotowaniu"
+    },
+    {
+      "id": "web.0906",
+      "text": "Wydanie angielskiej książki nie zostało jeszcze potwierdzone. Nie ma zweryfikowanej strony na Amazonie, ceny ani daty premiery. Ostateczna okładka nie została zatwierdzona do pokazania na stronie."
+    },
+    {
+      "id": "web.0907",
+      "text": "Zobacz osobną zapowiedź na Androida"
+    },
+    {
+      "id": "web.0908",
+      "text": "Czym jest ta świąteczna książka?"
+    },
+    {
+      "id": "web.0909",
+      "text": "To przygotowywana angielska książka z rodzinnymi aktywnościami na święta. 24 krótkie aktywności, po około 10 minut: chwila zatrzymania, zabawa i rozmowa oraz mały pomysł na kolejny dzień."
+    },
+    {
+      "id": "web.0910",
+      "text": "Dla jakich rodzin powstaje?"
+    },
+    {
+      "id": "web.0911",
+      "text": "Dla rodzin z dziećmi w wieku około 8–12 lat i dorosłych, którzy chcą uczestniczyć razem z nimi. Każda zabawa ma wariant W DWIE OSOBY."
+    },
+    {
+      "id": "web.0912",
+      "text": "Jak wygląda każdy dzień?"
+    },
+    {
+      "id": "web.0913",
+      "text": "Zauważacie obecną chwilę, bawicie się razem i rozmawiacie. Część poświęcona zatrzymaniu zawiera też mały, praktyczny pomysł na jutro."
+    },
+    {
+      "id": "web.0914",
+      "text": "To książka czy aplikacja?"
+    },
+    {
+      "id": "web.0915",
+      "text": "To osobne wersje o tym samym obecnym tytule: planowane drukowane odliczanie do świąt bez ekranu i przygotowywana aplikacja z przewodnikiem na Androida. Żadna nie została jeszcze wydana."
+    },
+    {
+      "id": "web.0916",
+      "text": "Czy można już kupić książkę lub pobrać aplikację?"
+    },
+    {
+      "id": "web.0917",
+      "text": "Jeszcze nie. Książka nie ma potwierdzonego wydania, zweryfikowanego linku do Amazona, ceny ani daty premiery. Aplikacja nie jest dostępna w Google Play."
+    },
+    {
+      "id": "web.0918",
+      "text": "Czy pokazana okładka jest ostateczna?"
+    },
+    {
+      "id": "web.0919",
+      "text": "Nie pokazujemy ostatecznej okładki. Wcześniejsze grafiki z roboczym tytułem nie są przedstawiane jako gotowe wydanie."
+    },
+    {
+      "id": "web.0920",
+      "text": "Czy jest już polska wersja?"
+    },
+    {
+      "id": "web.0921",
+      "text": "Jeszcze nie. Polska adaptacja powstaje osobno. Ta strona przedstawia zapowiedź produktu w języku angielskim."
+    },
+    {
+      "id": "web.0922",
+      "text": "ŚWIĘTA SĄ TEŻ PO DRODZE • Książka"
+    },
+    {
+      "id": "web.0923",
+      "text": "Książka • W przygotowaniu"
+    },
+    {
+      "id": "web.0924",
+      "text": "Drukowane rodzinne odliczanie do świąt"
+    },
+    {
+      "id": "web.0925",
+      "text": "01 • ZŁAPMY CHWILĘ"
+    },
+    {
+      "id": "web.0926",
+      "text": "02 • ZRÓBMY COŚ RAZEM"
+    },
+    {
+      "id": "web.0927",
+      "text": "03 • POGADAJMY"
+    },
+    {
+      "id": "web.0928",
+      "text": "Odliczanie do świąt dla całej rodziny"
+    },
+    {
+      "id": "web.0929",
+      "text": "Każdego dnia, bez skomplikowanych przygotowań"
+    },
+    {
+      "id": "web.0930",
+      "text": "Rodziny"
+    },
+    {
+      "id": "web.0931",
+      "text": "Dzieci w wieku około 8–12 lat i uczestniczący z nimi dorośli"
+    },
+    {
+      "id": "web.0932",
+      "text": "Ten sam tytuł i pomysł na 24 dni co w książce. Wersji na Androida nie można jeszcze pobrać."
+    },
+    {
+      "id": "web.0933",
+      "text": "Dla kogo i co jest w środku"
+    },
+    {
+      "id": "web.0934",
+      "text": "ŚWIĘTA SĄ TEŻ PO DRODZE | Rodzinna książka z aktywnościami świątecznymi"
+    },
+    {
+      "id": "web.0935",
+      "text": "24 świąteczne aktywności dla rodziny, po około 10 minut. Chwila zatrzymania, zabawa i rozmowa. Angielska książka w przygotowaniu, jeszcze niedostępna na Amazonie."
+    },
+    {
+      "id": "web.0936",
+      "text": "{slot_1}31 dni prowadzonej krok po kroku przygody pomaga dzieciom budować {slot_2}poczucie własnej wartości {slot_3}i ćwiczyć {slot_4}uważność{slot_5}. Proste sposoby na emocje mieszczą się także w życiu zabieganej rodziny."
+    },
+    {
+      "id": "web.0937",
+      "text": "{slot_1}Aplikacja {slot_2}→ {slot_3}Interaktywne zadania na Androida {slot_4}W przygotowaniu"
+    },
+    {
+      "id": "web.0938",
+      "text": "Co znajdziesz w środku"
+    },
+    {
+      "id": "web.0939",
+      "text": "Codzienne wskazówki, które zachęcają do wiary w siebie i szacunku do siebie"
+    },
+    {
+      "id": "web.0940",
+      "text": "Krótkie chwile uważności, które pomagają rozpoznać i nazwać uczucia"
+    },
+    {
+      "id": "web.0941",
+      "text": "Myśl „mogę się nauczyć” i ćwiczenie radzenia sobie z trudnościami"
+    },
+    {
+      "id": "web.0942",
+      "text": "Małe, powtarzane działania sprzyjające spokojniejszym dniom"
+    },
+    {
+      "id": "web.0943",
+      "text": "Jak korzystać w rodzinie"
+    },
+    {
+      "id": "web.0944",
+      "text": "Czytajcie jedną krótką stronę dziennie. To około 10 minut dla siebie nawzajem."
+    },
+    {
+      "id": "web.0945",
+      "text": "Wybierzcie jedną malutką rzecz do wypróbowania tego dnia."
+    },
+    {
+      "id": "web.0946",
+      "text": "Powtarzajcie przez 31 dni i zachowajcie sposoby, które najbardziej Wam służą."
+    },
+    {
+      "id": "web.0947",
+      "text": "{slot_1}Czy to zwykła książka z opowiadaniami? {slot_2}To prowadzona krok po kroku 31-dniowa przygoda. Codzienne wskazówki dotyczą pewności siebie, uważności i nastawienia na naukę. Na samym czytaniu się nie kończy."
+    },
+    {
+      "id": "web.0948",
+      "text": "{slot_1}Ile czasu potrzeba dziennie? {slot_2}Kilku minut. Zwykle rodzina czyta jedną stronę i wybiera jedną małą praktykę."
+    },
+    {
+      "id": "web.0949",
+      "text": "{slot_1}Dla kogo jest ta książka? {slot_2}Dla dzieci, którym przydaje się wsparcie w budowaniu pewności siebie, pracy nad nastawieniem i radzeniu sobie z silnymi emocjami. Także dla rodziców, którzy szukają prostego zwyczaju do regularnego powtarzania."
+    },
+    {
+      "id": "web.0950",
+      "text": "Kup na Amazonie"
+    },
+    {
+      "id": "web.0951",
+      "text": "The Confident, Mindful & Happy Me Adventure"
+    },
+    {
+      "id": "web.0952",
+      "text": "Wydana książka drukowana • Dostępne"
+    },
+    {
+      "id": "web.0953",
+      "text": "Drukowane historie i zagadki"
+    },
+    {
+      "id": "web.0954",
+      "text": "To wydana książka drukowana."
+    },
+    {
+      "id": "web.0955",
+      "text": "Osobny projekt na Androida jest dopracowywany przed wydaniem i nie jest dostępny w Google Play. Aktualną cenę i dostępność książki sprawdzisz na Amazonie."
+    },
+    {
+      "id": "web.0956",
+      "text": "Okładka The Confident, Mindful & Happy Me Adventure."
+    },
+    {
+      "id": "web.0957",
+      "text": "The Confident, Mindful & Happy Me Adventure | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0958",
+      "text": "31 dni dziecięcej przygody z pewnością siebie i uważnością. Własna wartość, silne emocje, spokojniejsze nawyki i nastawienie na naukę, także w zabieganej rodzinie."
+    },
+    {
+      "id": "web.0959",
+      "text": "Wróć do całej Biblioteki"
+    },
+    {
+      "id": "web.0960",
+      "text": "Pokazujemy wyłącznie potwierdzoną lub ogłoszoną wersję. Nie ma jeszcze zweryfikowanego linku do sprzedawcy ani daty premiery."
+    },
+    {
+      "id": "web.0961",
+      "text": "Pytania od rodzin"
+    },
+    {
+      "id": "web.0962",
+      "text": "Czym jest Happy Makers Detective Academy?"
+    },
+    {
+      "id": "web.0963",
+      "text": "Happy Makers Detective Academy: The Mystery of Room Zero to przygotowywana książka z powiązanymi sprawami do rozwiązania i rodziną Happy Makers."
+    },
+    {
+      "id": "web.0964",
+      "text": "Dla dzieci w jakim wieku powstaje?"
+    },
+    {
+      "id": "web.0965",
+      "text": "Dla dzieci w wieku 8–12 lat."
+    },
+    {
+      "id": "web.0966",
+      "text": "W jakim formacie będzie dostępna?"
+    },
+    {
+      "id": "web.0967",
+      "text": "Trwają prace nad przygotowaniem książki drukowanej do wydania w KDP. Szczegóły wydania podamy po ich zweryfikowaniu."
+    },
+    {
+      "id": "web.0968",
+      "text": "Kiedy i gdzie będzie można ją kupić?"
+    },
+    {
+      "id": "web.0969",
+      "text": "Książka nie została jeszcze wydana. Nie ma zweryfikowanej strony u sprzedawcy ani daty premiery. Nie podajemy linku do zakupu."
+    },
+    {
+      "id": "web.0970",
+      "text": "Czy pokazana okładka jest ostateczna?"
+    },
+    {
+      "id": "web.0971",
+      "text": "Pokazana grafika okładki służy wyłącznie jako zapowiedź. Drukowane wydanie i szczegóły publikacji są w przygotowaniu."
+    },
+    {
+      "id": "web.0972",
+      "text": "Książka 1 • W przygotowaniu"
+    },
+    {
+      "id": "web.0973",
+      "text": "Potwierdzona wersja tego pomysłu"
+    },
+    {
+      "id": "web.0974",
+      "text": "Sprawy detektywistyczne bez ekranu, do rozwiązywania ołówkiem"
+    },
+    {
+      "id": "web.0975",
+      "text": "Aktualne informacje o wydaniu"
+    },
+    {
+      "id": "web.0976",
+      "text": "Happy Makers Detective Academy: The Mystery of Room Zero | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0977",
+      "text": "Zapowiedź Happy Makers Detective Academy: The Mystery of Room Zero. Powiązane sprawy dla dzieci w wieku 8–12 lat. Przygotowujemy książkę do wydania w KDP."
+    },
+    {
+      "id": "web.0978",
+      "text": "Rodzinna książka z pomysłami twórczymi i kolorowaniem z Babcią Bibi ze świata Happy Makers. Wyobraźnia, zabawa i wspólnie spędzony czas."
+    },
+    {
+      "id": "web.0979",
+      "text": "Czym jest projekt Grandma Bibi?"
+    },
+    {
+      "id": "web.0980",
+      "text": "To projekt rodzinnej książki z kolorowaniem i twórczymi pomysłami ze świata Happy Makers."
+    },
+    {
+      "id": "web.0981",
+      "text": "Czy można już kupić książkę?"
+    },
+    {
+      "id": "web.0982",
+      "text": "Status wydania i dostępność u sprzedawców nie zostały zweryfikowane. Nie ma potwierdzonego linku do zakupu tego produktu."
+    },
+    {
+      "id": "web.0983",
+      "text": "Czy potwierdzono wiek odbiorców, format i długość przygody?"
+    },
+    {
+      "id": "web.0984",
+      "text": "Nie ma jeszcze zweryfikowanego konkretnego przedziału wieku, ostatecznych szczegółów wydania ani długości przygody."
+    },
+    {
+      "id": "web.0985",
+      "text": "Optical Animals • Czarno-białe ilustracje do kolorowania • 20 ilustracji • 8,5 × 11 cali"
+    },
+    {
+      "id": "web.0986",
+      "text": "Przyjrzyj się jeszcze raz. Zwierzęca anatomia i iluzje optyczne łączą się w kształty, które odkrywasz przez kolorowanie."
+    },
+    {
+      "id": "web.0987",
+      "text": "Optical Halloween • Czarno-białe ilustracje do kolorowania • Koncepcja 20 stron"
+    },
+    {
+      "id": "web.0988",
+      "text": "Iluzje, nietypowe punkty widzenia i architektura, która lubi się bawić przestrzenią."
+    },
+    {
+      "id": "web.0989",
+      "text": "Wypróbuj dziś rodzinny materiał z naszej bezpłatnej kolekcji"
+    },
+    {
+      "id": "web.0990",
+      "text": "Wróć do Biblioteki"
+    },
+    {
+      "id": "web.0991",
+      "text": "Grandma Bibi Anti-Boredom Club"
+    },
+    {
+      "id": "web.0992",
+      "text": "Dostępność wydania niepotwierdzona"
+    },
+    {
+      "id": "web.0993",
+      "text": "Zapowiedź rodzinnej książki z twórczymi aktywnościami"
+    },
+    {
+      "id": "web.0994",
+      "text": "Informacje o wydaniu czekają na weryfikację"
+    },
+    {
+      "id": "web.0995",
+      "text": "Wydanie Grandma Bibi, jego szczegóły i dostępność u sprzedawców nie zostały zweryfikowane. Nie podajemy linku do zakupu, ostatecznej okładki ani ustalonej długości przygody."
+    },
+    {
+      "id": "web.0996",
+      "text": "Grandma Bibi Anti-Boredom Club | Zapowiedź | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.0997",
+      "text": "Rodzinny projekt z Babcią Bibi: twórczość i kolorowanie. Wydanie i dostępność u sprzedawców niepotwierdzone, bez linku do zakupu."
+    },
+    {
+      "id": "web.0998",
+      "text": "Wróć do centrum wiedzy"
+    },
+    {
+      "id": "web.0999",
+      "text": "Wybierz coś dla siebie"
+    },
+    {
+      "id": "web.1000",
+      "text": "Które książki można już kupić?"
+    },
+    {
+      "id": "web.1001",
+      "text": "Level Up Your Brain - World 01, Level Up Your Brain - World 02 i The Confident, Mindful & Happy Me Adventure zostały wydane. Prowadzą do nich osobne linki na Amazonie. Aktualna cena i dostępność zależą od sprzedawcy."
+    },
+    {
+      "id": "web.1002",
+      "text": "Co oznacza „W przygotowaniu”?"
+    },
+    {
+      "id": "web.1003",
+      "text": "Pracujemy nad projektem. Nie ma jeszcze zweryfikowanego linku do zakupu lub pobrania ani potwierdzonej daty premiery. Zapowiedź przedstawia kierunek prac."
+    },
+    {
+      "id": "web.1004",
+      "text": "Czy aplikacje World 01 i World 02 są już dostępne?"
+    },
+    {
+      "id": "web.1005",
+      "text": "Nie. Obie książki zostały wydane na papierze, ale interaktywne aplikacje nie zostały jeszcze opublikowane."
+    },
+    {
+      "id": "web.1006",
+      "text": "Czy świąteczna książka i aplikacja to jeden zakup?"
+    },
+    {
+      "id": "web.1007",
+      "text": "Mają wspólny tytuł, ale są publikowane i udostępniane niezależnie. Obecnie książki nie można kupić, a aplikacji pobrać."
+    },
+    {
+      "id": "web.1008",
+      "text": "Książki i przygody Happy Makers"
+    },
+    {
+      "id": "web.1009",
+      "text": "Nastolatki"
+    },
+    {
+      "id": "web.1010",
+      "text": "Ten sam rodzinny pomysł świąteczny przygotowujemy także w innym formacie."
+    },
+    {
+      "id": "web.1011",
+      "text": "Wybierz historię powyżej, by poznać szczegóły i dostępne wersje."
+    },
+    {
+      "id": "web.1012",
+      "text": "Poznaj Project Unstoppable"
+    },
+    {
+      "id": "web.1013",
+      "text": "Aplikacja na Androida • W przygotowaniu"
+    },
+    {
+      "id": "web.1014",
+      "text": "Pytania o Bibliotekę"
+    },
+    {
+      "id": "web.1015",
+      "text": "Wydane książki i zapowiedzi | Biblioteka Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.1016",
+      "text": "Wydane książki rodzinne Rise.Shine.Evolve. ze zweryfikowanymi linkami do Amazona. Zapowiedzi Detective, książek optycznych i aplikacji na Androida."
+    },
+    {
+      "id": "web.1017",
+      "text": "Ilustracje"
+    },
+    {
+      "id": "web.1018",
+      "text": "20 ilustracji"
+    },
+    {
+      "id": "web.1019",
+      "text": "Planowany format"
+    },
+    {
+      "id": "web.1020",
+      "text": "8,5 × 11 cali"
+    },
+    {
+      "id": "web.1021",
+      "text": "Dla kogo"
+    },
+    {
+      "id": "web.1022",
+      "text": "Dzieci i ich rodziny"
+    },
+    {
+      "id": "web.1023",
+      "text": "Twoje kolory pomagają odkrywać"
+    },
+    {
+      "id": "web.1024",
+      "text": "Czarno-białe ilustracje łączą anatomię i iluzję optyczną. Przyglądaj się kształtom, zauważaj, jak na siebie oddziałują, i odkrywaj je za pomocą wybranych przez siebie kolorów."
+    },
+    {
+      "id": "web.1025",
+      "text": "Twórczość bez pośpiechu"
+    },
+    {
+      "id": "web.1026",
+      "text": "Planowany format 8,5 × 11 cali daje miejsce na 20 ilustracji. Dla dzieci i rodzin, które lubią uważnie patrzeć i kolorować."
+    },
+    {
+      "id": "web.1027",
+      "text": "To zapowiedź projektu w przygotowaniu"
+    },
+    {
+      "id": "web.1028",
+      "text": "Optical Animals nie zostało jeszcze wydane. Książka powstaje, a okładka nie została zatwierdzona do pokazania na stronie. Liczba ilustracji i planowany format są znane. Cena, data i strona u sprzedawcy nie są jeszcze znane."
+    },
+    {
+      "id": "web.1029",
+      "text": "Czym jest Optical Animals?"
+    },
+    {
+      "id": "web.1030",
+      "text": "To projekt czarno-białej kolorowanki premium, która łączy anatomię zwierząt z iluzjami optycznymi."
+    },
+    {
+      "id": "web.1031",
+      "text": "Ile ilustracji i jaki format przewidujecie?"
+    },
+    {
+      "id": "web.1032",
+      "text": "20 ilustracji. Planowany format książki to 8,5 × 11 cali."
+    },
+    {
+      "id": "web.1033",
+      "text": "Dla dzieci i ich rodzin. Konkretny przedział wieku nie został potwierdzony."
+    },
+    {
+      "id": "web.1034",
+      "text": "Projekt jest w przygotowaniu i nie został jeszcze wydany. Nie ma zweryfikowanej strony u sprzedawcy, ceny ani daty premiery."
+    },
+    {
+      "id": "web.1035",
+      "text": "Czy jest już ostateczna okładka?"
+    },
+    {
+      "id": "web.1036",
+      "text": "Okładka nie została zatwierdzona do pokazania na stronie. Zapowiedź tworzą litery i formy graficzne."
+    },
+    {
+      "id": "web.1037",
+      "text": "Odkryj całą Bibliotekę"
+    },
+    {
+      "id": "web.1038",
+      "text": "Sięgnij po Darmowe materiały na teraz"
+    },
+    {
+      "id": "web.1039",
+      "text": "Optical Animals"
+    },
+    {
+      "id": "web.1040",
+      "text": "W przygotowaniu"
+    },
+    {
+      "id": "web.1041",
+      "text": "Czarno-biała kolorowanka z iluzjami optycznymi"
+    },
+    {
+      "id": "web.1042",
+      "text": "Status wydania:"
+    },
+    {
+      "id": "web.1043",
+      "text": "W przygotowaniu. Książka nie jest w sprzedaży, a data premiery jest nieznana. To zapowiedź projektu bez ostatecznej okładki."
+    },
+    {
+      "id": "web.1044",
+      "text": "Poznaj też drugą kolorowankę optyczną:"
+    },
+    {
+      "id": "web.1045",
+      "text": "Oba projekty są w przygotowaniu."
+    },
+    {
+      "id": "web.1046",
+      "text": "Optical Animals | Zapowiedź projektu w przygotowaniu | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.1047",
+      "text": "Czarno-biała kolorowanka premium w przygotowaniu: anatomia i iluzje, 20 ilustracji, planowany format 8,5 × 11 cali. Dla dzieci i rodzin."
+    },
+    {
+      "id": "web.1048",
+      "text": "Koncepcja"
+    },
+    {
+      "id": "web.1049",
+      "text": "20 stron"
+    },
+    {
+      "id": "web.1050",
+      "text": "Format"
+    },
+    {
+      "id": "web.1051",
+      "text": "Czarno-białe ilustracje z iluzjami optycznymi"
+    },
+    {
+      "id": "web.1052",
+      "text": "W centrum uwagi"
+    },
+    {
+      "id": "web.1053",
+      "text": "Perspektywa i architektura"
+    },
+    {
+      "id": "web.1054",
+      "text": "Halloween z innego punktu widzenia"
+    },
+    {
+      "id": "web.1055",
+      "text": "Czarno-białe sceny halloweenowe bawią się iluzją, perspektywą i architekturą. Podążaj za kształtami i sprawdzaj, jak Twoje kolory zmieniają odbiór sceny."
+    },
+    {
+      "id": "web.1056",
+      "text": "Sezonowy pomysł na twórczy czas"
+    },
+    {
+      "id": "web.1057",
+      "text": "Projekt powstaje obok Optical Animals w rozwijanej kolekcji. Rodziny mogą wybrać temat, który je ciekawi. Zalecany przedział wieku nie jest jeszcze ustalony."
+    },
+    {
+      "id": "web.1058",
+      "text": "Pomysł nadal się rozwija"
+    },
+    {
+      "id": "web.1059",
+      "text": "Na razie koncepcja obejmuje 20 stron. Ostateczne wydanie, okładka, termin i informacje o sprzedawcach nie zostały potwierdzone. Książka nie jest w sprzedaży."
+    },
+    {
+      "id": "web.1060",
+      "text": "Czym jest Optical Halloween?"
+    },
+    {
+      "id": "web.1061",
+      "text": "To przygotowywana czarno-biała kolorowanka halloweenowa z iluzjami optycznymi, oparta na perspektywie i architekturze."
+    },
+    {
+      "id": "web.1062",
+      "text": "Czy książka z 20 stronami jest już gotowa?"
+    },
+    {
+      "id": "web.1063",
+      "text": "20 stron to obecna koncepcja. Ostateczne opublikowane wydanie nie zostało potwierdzone."
+    },
+    {
+      "id": "web.1064",
+      "text": "Zalecany wiek nie jest jeszcze potwierdzony. Rodziny będą mogły sprawdzić szczegóły po ustaleniu ostatecznego wydania."
+    },
+    {
+      "id": "web.1065",
+      "text": "Gdzie można ją kupić?"
+    },
+    {
+      "id": "web.1066",
+      "text": "Książka jest w przygotowaniu i nie jest w sprzedaży. Nie ma zweryfikowanego linku do sprzedawcy ani daty premiery."
+    },
+    {
+      "id": "web.1067",
+      "text": "Czy grafika w zapowiedzi jest ostateczną okładką?"
+    },
+    {
+      "id": "web.1068",
+      "text": "Nie. Litery i formy graficzne służą jako zapowiedź. Nie pokazujemy ostatecznej okładki."
+    },
+    {
+      "id": "web.1069",
+      "text": "Optical Halloween"
+    },
+    {
+      "id": "web.1070",
+      "text": "Optical Halloween | W przygotowaniu | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.1071",
+      "text": "Projekt czarno-białej kolorowanki halloweenowej z iluzjami optycznymi, perspektywą i architekturą. Wstępna koncepcja: 20 stron."
+    },
+    {
+      "id": "web.1072",
+      "text": "World 01 to rodzinny zestaw sposobów na codzienne sprawy: krótkie historie ze zwykłego życia, proste wyjaśnienie działania mózgu i praktyczna pomoc do wykorzystania."
+    },
+    {
+      "id": "web.1073",
+      "text": "Jak działają 5-minutowe misje"
+    },
+    {
+      "id": "web.1074",
+      "text": "{slot_1}Przeczytajcie historię {slot_2}Krótkie, zabawne rozdziały przyciągają uwagę."
+    },
+    {
+      "id": "web.1075",
+      "text": "{slot_1}Wypróbujcie poznany sposób {slot_2}Zastosujcie krótką praktyczną technikę od razu, w prawdziwej sytuacji."
+    },
+    {
+      "id": "web.1076",
+      "text": "Co znajdziecie w World 01"
+    },
+    {
+      "id": "web.1077",
+      "text": "{slot_1}Poziom 1 {slot_2}Emocje po szkole: gdy zapas samokontroli się wyczerpie."
+    },
+    {
+      "id": "web.1078",
+      "text": "{slot_1}Poziom 2 {slot_2}Lodowe nieszczęście: empatia i neurony lustrzane."
+    },
+    {
+      "id": "web.1079",
+      "text": "{slot_1}Poziom 3 {slot_2}Niewidzialne punkty doświadczenia: błędy, ćwiczenie i uczenie się."
+    },
+    {
+      "id": "web.1080",
+      "text": "{slot_1}Poziom 4 {slot_2}Znudzony szpieg: ciekawość i pytanie, które przyciąga uwagę."
+    },
+    {
+      "id": "web.1081",
+      "text": "{slot_1}Poziom 5 {slot_2}Gad w salonie: złość i powrót do świadomego myślenia."
+    },
+    {
+      "id": "web.1082",
+      "text": "{slot_1}Poziom 6 {slot_2}Hałas na budowie: nastawienie na naukę i „jeszcze tego nie umiem”."
+    },
+    {
+      "id": "web.1083",
+      "text": "{slot_1}Poziom 7 {slot_2}Roślina bez sił: przyjaźń, o którą dbamy małymi gestami."
+    },
+    {
+      "id": "web.1084",
+      "text": "{slot_1}Poziom 8 {slot_2}Brudne Ferrari: dbanie o siebie jak o sprawny samochód."
+    },
+    {
+      "id": "web.1085",
+      "text": "{slot_1}Poziom 9 {slot_2}Brokułowa forteca: jedzenie jako paliwo i budulec."
+    },
+    {
+      "id": "web.1086",
+      "text": "{slot_1}Poziom 10 {slot_2}Wampir energii: zmęczenie umysłu i trudne zadanie na początek."
+    },
+    {
+      "id": "web.1087",
+      "text": "{slot_1}Ile czasu zajmuje jedna historia? {slot_2}Samo czytanie trwa krótko. Potem wystarczy kilka minut rozmowy o Neuro-Coaching Console."
+    },
+    {
+      "id": "web.1088",
+      "text": "{slot_1}To karty pracy czy opowiadania? {slot_2}Zabawna historia łączy się z przystępnym wyjaśnieniem działania mózgu i praktycznym sposobem do wypróbowania od razu. To więcej niż same ćwiczenia na karcie."
+    },
+    {
+      "id": "web.1089",
+      "text": "{slot_1}Jakie tematy obejmuje World 01? {slot_2}Trudne emocje po szkole, empatię, uczenie się na błędach, ciekawość i nudę, złość, nastawienie na naukę, przyjaźń, dbanie o siebie i podstawy gospodarowania energią."
+    },
+    {
+      "id": "web.1090",
+      "text": "Zobacz World 01 na Amazonie"
+    },
+    {
+      "id": "web.1091",
+      "text": "To wydana książka drukowana. Interaktywne aplikacje World 01 i World 02 nie zostały jeszcze opublikowane. Aktualną cenę i dostępność sprawdzisz na Amazonie."
+    },
+    {
+      "id": "web.1092",
+      "text": "Okładka Level Up Your Brain - World 01."
+    },
+    {
+      "id": "web.1093",
+      "text": "Level Up Your Brain - World 01 | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.1094",
+      "text": "Level Up Your Brain - World 01: 10 zabawnych historii i przystępne pomoce o mózgu. Silne emocje, złość, empatia, nastawienie na naukę, relacje i decyzje dla zabieganych rodzin."
+    },
+    {
+      "id": "web.1095",
+      "text": "World 02 to kolejny poziom rodzinnych umiejętności: nawyki, codzienne zwyczaje, technologia i współpraca. 10 zabawnych historii, proste wyjaśnienia działania mózgu i sposoby do wykorzystania od razu."
+    },
+    {
+      "id": "web.1096",
+      "text": "Co znajdziecie w World 02"
+    },
+    {
+      "id": "web.1097",
+      "text": "{slot_1}Poziom 11 {slot_2}Forteca dla zębów i codzienna pętla: dyscyplina i dołączanie nowych nawyków do już istniejących."
+    },
+    {
+      "id": "web.1098",
+      "text": "{slot_1}Poziom 12 {slot_2}Nocna odnowa: odpoczynek i porządki w mózgu."
+    },
+    {
+      "id": "web.1099",
+      "text": "{slot_1}Poziom 13 {slot_2}Szwankujące Wi-Fi: słuchanie i filtrowanie dźwięków."
+    },
+    {
+      "id": "web.1100",
+      "text": "{slot_1}Poziom 14 {slot_2}Tarcza, do której nic nie przywiera: odporność na przykre słowa."
+    },
+    {
+      "id": "web.1101",
+      "text": "{slot_1}Poziom 15 {slot_2}Bunt na statku kosmicznym: wkład każdego i 10 minut wspólnej pracy."
+    },
+    {
+      "id": "web.1102",
+      "text": "{slot_1}Poziom 16 {slot_2}6 czy 9? Punkt widzenia i rozumienie cudzego sposobu myślenia."
+    },
+    {
+      "id": "web.1103",
+      "text": "{slot_1}Poziom 17 {slot_2}Niechciane wiadomości w głowie: krytyczne myślenie i reagowanie na negatywne myśli."
+    },
+    {
+      "id": "web.1104",
+      "text": "{slot_1}Poziom 18 {slot_2}Ekranowe zombie: umiar i dopaminowe zmęczenie."
+    },
+    {
+      "id": "web.1105",
+      "text": "{slot_1}Poziom 19 {slot_2}Zmiana kierunku w tańcu: elastyczność i rozczarowanie."
+    },
+    {
+      "id": "web.1106",
+      "text": "{slot_1}Poziom 20 {slot_2}Rzeczywistość w krzywym zwierciadle: ocena prawdy i wykrywanie fałszywych informacji."
+    },
+    {
+      "id": "web.1107",
+      "text": "{slot_1}O czym jest World 02? {slot_2}O kolejnym poziomie nawyków i codziennych zwyczajów: umiarze w korzystaniu z ekranów, słuchaniu, współpracy i krytycznym myśleniu."
+    },
+    {
+      "id": "web.1108",
+      "text": "{slot_1}Czy potrzeba dużo czasu? {slot_2}Wystarczy krótka historia, Neuro-Coaching Console i jeden praktyczny sposób do zastosowania."
+    },
+    {
+      "id": "web.1109",
+      "text": "{slot_1}Czy są tu tematy związane z ekranami? {slot_2}Tak. Przystępne dla dzieci historie dotyczą umiaru w korzystaniu z ekranów i dopaminowego wyczerpania."
+    },
+    {
+      "id": "web.1110",
+      "text": "Zobacz World 02 na Amazonie"
+    },
+    {
+      "id": "web.1111",
+      "text": "Okładka Level Up Your Brain - World 02."
+    },
+    {
+      "id": "web.1112",
+      "text": "Level Up Your Brain - World 02 | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.1113",
+      "text": "Level Up Your Brain - World 02: 10 zabawnych historii i pomoce o mózgu. Urządzenia, nawyki, współpraca, pewność siebie i spokojniejsze decyzje. 5-minutowe rodzinne zadania."
+    },
+    {
+      "id": "web.1114",
+      "text": "Pomysł na prostą, przyjazną aplikację dla seniorów. Czytelność, pewność siebie, kontakt z innymi i praktyczna pomoc na co dzień."
+    },
+    {
+      "id": "web.1115",
+      "text": "Seniorzy | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.1116",
+      "text": "Ścieżka dla seniorów jest w przygotowaniu. Wydane książki rodzinne i Darmowe materiały można odkrywać razem. Nie potwierdzono konkretnego produktu ani premiery dla seniorów."
+    },
+    {
+      "id": "web.1117",
+      "text": "Znajdź wydane książki, zapowiedzi, ścieżki dla różnych grup wiekowych, poradniki i gotowe bezpłatne pomoce."
+    },
+    {
+      "id": "web.1118",
+      "text": "Ścieżki i światy bohaterów"
+    },
+    {
+      "id": "web.1119",
+      "text": "Wydane książki"
+    },
+    {
+      "id": "web.1120",
+      "text": "Książki w przygotowaniu i wydania o niepotwierdzonej dostępności"
+    },
+    {
+      "id": "web.1121",
+      "text": "ŚWIĘTA SĄ TEŻ PO DRODZE • Książka"
+    },
+    {
+      "id": "web.1122",
+      "text": "Projekty na Androida w przygotowaniu"
+    },
+    {
+      "id": "web.1123",
+      "text": "Project Unstoppable App"
+    },
+    {
+      "id": "web.1124",
+      "text": "ŚWIĘTA SĄ TEŻ PO DRODZE • Android"
+    },
+    {
+      "id": "web.1125",
+      "text": "Praktyczne poradniki"
+    },
+    {
+      "id": "web.1126",
+      "text": "Silne emocje u dzieci"
+    },
+    {
+      "id": "web.1127",
+      "text": "Pewność siebie u dzieci"
+    },
+    {
+      "id": "web.1128",
+      "text": "Gdy po szkole puszczają emocje"
+    },
+    {
+      "id": "web.1129",
+      "text": "Umiar w korzystaniu z ekranów u dzieci"
+    },
+    {
+      "id": "web.1130",
+      "text": "Wszystkie poradniki"
+    },
+    {
+      "id": "web.1131",
+      "text": "Darmowe materiały"
+    },
+    {
+      "id": "web.1132",
+      "text": "Wszystkie ścieżki"
+    },
+    {
+      "id": "web.1133",
+      "text": "Wszystkie ścieżki | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.1134",
+      "text": "Uporządkowany spis wszystkich ścieżek dla różnych grup wiekowych, poradników, wydanych książek, zapowiedzi i bezpłatnych materiałów."
+    },
+    {
+      "id": "web.1135",
+      "text": "Praktyczne tematy o życiu nastolatków i porozumieniu w rodzinie."
+    },
+    {
+      "id": "web.1136",
+      "text": "Emocje pod presją"
+    },
+    {
+      "id": "web.1137",
+      "text": "Umiar w korzystaniu z technologii i pomocne codzienne zwyczaje"
+    },
+    {
+      "id": "web.1138",
+      "text": "Komunikacja, pewność siebie i radzenie sobie z trudnościami"
+    },
+    {
+      "id": "web.1139",
+      "text": "Wróć do ścieżki dla dzieci"
+    },
+    {
+      "id": "web.1140",
+      "text": "Project Unstoppable • Wersja"
+    },
+    {
+      "id": "web.1141",
+      "text": "Nastolatki: skupienie, pewność siebie i zapowiedź na Androida | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.1142",
+      "text": "Tematy dla nastolatków: umiar w korzystaniu z ekranów i porozumienie w rodzinie. Project Unstoppable i kolorowanki optyczne w przygotowaniu."
+    },
+    {
+      "id": "web.1143",
+      "text": "Zabawne historie, codzienne umiejętności. Z myślą o zabieganych rodzinach."
+    },
+    {
+      "id": "web.1144",
+      "text": "{slot_1}Happy Makers to sympatyczna, nieco chaotyczna rodzina z serii {slot_2}Level Up Your Brain{slot_3}. Jej zabawne misje pomagają dzieciom i dorosłym radzić sobie z trudnościami i emocjami, budować codzienne zwyczaje i nawyki, zachowywać umiar w korzystaniu z ekranów oraz podejmować decyzje."
+    },
+    {
+      "id": "web.1145",
+      "text": "Poznaj rodzinę"
+    },
+    {
+      "id": "web.1146",
+      "text": "Mimi: mama, która koordynuje rodzinne życie. Potrafi szukać telefonu, świecąc sobie latarką z tego samego telefonu."
+    },
+    {
+      "id": "web.1147",
+      "text": "Nini: żywe srebro pełne emocji i energii, które ciągle uczy się czegoś nowego."
+    },
+    {
+      "id": "web.1148",
+      "text": "Dilo: miłośnik gier, który najchętniej pominąłby obowiązki. Przy ekranie zawsze potrzebuje jeszcze tylko 5 minut."
+    },
+    {
+      "id": "web.1149",
+      "text": "Alio: pomysłowy, z głową pełną myśli. Czasem chroni je durszlakiem założonym na głowę."
+    },
+    {
+      "id": "web.1150",
+      "text": "Luli: spokojna siostra, miłośniczka czytania i logiki. Z książką wyrusza na wyprawy w wyobraźni."
+    },
+    {
+      "id": "web.1151",
+      "text": "Od tego polecamy zacząć"
+    },
+    {
+      "id": "web.1152",
+      "text": "Level Up Your Brain - World 01"
+    },
+    {
+      "id": "web.1153",
+      "text": "Level Up Your Brain - World 02"
+    },
+    {
+      "id": "web.1154",
+      "text": "Kim są Happy Makers?"
+    },
+    {
+      "id": "web.1155",
+      "text": "To rodzina, w której łatwo rozpoznać coś z własnego domu. Bohaterowie serii pomagają dzieciom i dorosłym ćwiczyć codzienne umiejętności poprzez historie i zadania."
+    },
+    {
+      "id": "web.1156",
+      "text": "To propozycja dla dzieci czy dla rodziców?"
+    },
+    {
+      "id": "web.1157",
+      "text": "Dla obu grup. Dzieci czytają historie, a rodzice korzystają z krótkiej Neuro-Coaching Console i Secret Family Code, by wspierać je w codziennych sytuacjach."
+    },
+    {
+      "id": "web.1158",
+      "text": "Dlaczego książki łatwo zmieścić w codzienności?"
+    },
+    {
+      "id": "web.1159",
+      "text": "Krótkie historie, zrozumiałe pojęcia dotyczące mózgu i praktyczne sposoby pasują do zabieganego rytmu dnia."
+    },
+    {
+      "id": "web.1160",
+      "text": "Happy Makers występują w wydanych książkach rodzinnych i przygotowywanym projekcie Detective."
+    },
+    {
+      "id": "web.1161",
+      "text": "Happy Makers | Poznaj rodzinę z Level Up Your Brain"
+    },
+    {
+      "id": "web.1162",
+      "text": "Zabawna rodzina Happy Makers, w której łatwo rozpoznać własną codzienność. Krótkie zadania z historią i proste pomoce o mózgu dla zabieganych domów."
+    },
+    {
+      "id": "web.1163",
+      "text": "Złap skupienie. Nabierz pewności siebie. Wybierz jeden mały krok."
+    },
+    {
+      "id": "web.1164",
+      "text": "Przygotowywana aplikacja na Androida dla nastolatków. Pewność siebie, nastawienie, odporność na trudności i skupienie na co dzień."
+    },
+    {
+      "id": "web.1165",
+      "text": "Gdy wszystko naraz woła o uwagę"
+    },
+    {
+      "id": "web.1166",
+      "text": "Szkoła, znajomi i rozmowy w domu konkurują o uwagę. W przygotowywanym Project Unstoppable zajmujemy się praktycznym myśleniem i trwalszymi nawykami przydatnymi w takich sytuacjach."
+    },
+    {
+      "id": "web.1167",
+      "text": "Ostateczne funkcje, zalecany wiek i szczegóły wydania potwierdzimy przed premierą."
+    },
+    {
+      "id": "web.1168",
+      "text": "Przeczytaj dostępny poradnik o umiarze w korzystaniu z ekranów"
+    },
+    {
+      "id": "web.1169",
+      "text": "Wróć do ścieżki dla nastolatków"
+    },
+    {
+      "id": "web.1170",
+      "text": "Czy Project Unstoppable jest już dostępne?"
+    },
+    {
+      "id": "web.1171",
+      "text": "Wydanie w Google Play jest planowane. Aplikacji nie można jeszcze pobrać, a data premiery nie została potwierdzona."
+    },
+    {
+      "id": "web.1172",
+      "text": "Dla kogo powstaje Project Unstoppable?"
+    },
+    {
+      "id": "web.1173",
+      "text": "To przygotowywana aplikacja na Androida dla nastolatków, poświęcona pewności siebie, skupieniu i radzeniu sobie z trudnościami. Ostateczne szczegóły wydania potwierdzimy przed premierą."
+    },
+    {
+      "id": "web.1174",
+      "text": "Z czego można skorzystać, czekając na premierę?"
+    },
+    {
+      "id": "web.1175",
+      "text": "Z dostępnego poradnika o umiarze w korzystaniu z ekranów i Darmowych materiałów. To niezależne pomoce, osobne od przygotowywanej aplikacji."
+    },
+    {
+      "id": "web.1176",
+      "text": "Project Unstoppable App"
+    },
+    {
+      "id": "web.1177",
+      "text": "Android • W przygotowaniu"
+    },
+    {
+      "id": "web.1178",
+      "text": "Wydanie w Google Play jest planowane. Nie ma jeszcze możliwości pobrania, zweryfikowanej strony w sklepie ani daty premiery."
+    },
+    {
+      "id": "web.1179",
+      "text": "Project Unstoppable | Zapowiedź na Androida | Rise.Shine.Evolve."
+    },
+    {
+      "id": "web.1180",
+      "text": "Aplikacja na Androida dla nastolatków w przygotowaniu: pewność siebie, skupienie i radzenie sobie z trudnościami. Planowane wydanie w Google Play, bez możliwości pobrania."
+    }
+  ]
+}

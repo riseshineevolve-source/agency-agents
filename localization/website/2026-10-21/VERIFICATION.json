@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "stats": {
+    "pages": 35,
+    "style_blocks": 23,
+    "inline_js": 10,
+    "external_local_js": 3,
+    "relative_links": 573,
+    "book_language_en": 0
+  },
+  "errors": [],
+  "surface_fit": "NOT_RUN",
+  "browser_interaction": "NOT_RUN",
+  "publication": false,
+  "scope": "Source structure/CSS and generated syntax/references only; native and meaning reviews are separate evidence."
+}

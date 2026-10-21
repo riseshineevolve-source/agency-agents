@@ -1,7 +1,7 @@
-lane: polish_localization
++lane: polish_localization
 title: Polish Localization Engine
 updated: '2026-10-21'
-status: LANGUAGE_STUDIO_V1_TESTED__GENTLE_GUIDES_V3_EDITORIAL_CANDIDATE__DETECTIVE_R8_PROTECTED
+status: WEBSITE_PL_SOURCE_MAPPED_CANDIDATE__35_PAGES_2087_UNITS__SOURCE_GATES_OPEN
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   engine_base_branch: codex/polish-engine-main-reconcile
@@ -17,6 +17,7 @@ branch_or_repo_state:
   language_tool_branch: codex/polish-engine-language-studio-20261021
   language_tool_base_main: 4b123f5ccdb77f7a8e4390624f7466d16ba665a6
   language_tool_relation: ISOLATED_ADDITIVE_BRANCH_FROM_MAIN__NO_MERGE_OF_DIVERGED_OLD_ENGINE
+  website_localization_branch: codex/polish-website-native-source-20261021
 milestone:
   gentle_steps_pl:
     source: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md
@@ -44,9 +45,11 @@ milestone:
     checksum_manifest: SHA256_MANIFEST.json
     verified_source_teasers:
       article1: Day19 Empty Hands / Day10 Family Machine / Day07 Unnoticed Thanks
-      article2: Day21 One Sound Quieter / Day22 Reverse Charades / Day14 Picked-up Family Habits
-    source_authority: Exact R6 Git blob 896cf92bf6ed126ef62e623fd9cac640270e853f; SHA256 68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3;
-      V2 EN provenance inherited, source mechanisms rechecked against PL R6
+      article2: Day21 One Sound Quieter / Day22 Reverse Charades / Day14 Picked-up
+        Family Habits
+    source_authority: Exact R6 Git blob 896cf92bf6ed126ef62e623fd9cac640270e853f;
+      SHA256 68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3; V2
+      EN provenance inherited, source mechanisms rechecked against PL R6
     owner_locked_terms: PRESERVED_NO_RECONFIRMATION_NEEDED
     approval: EDITORIAL_REVIEW_PASS__OWNER_APPROVAL_NOT_GRANTED
     website_release: NOT_PUBLISHED
@@ -64,7 +67,8 @@ milestone:
     twelve_print_scale_pngs: MISSING_NOT_VERIFIED
     print_editorial_safety_proof: BLOCK
   detective_pl:
-    existing_source_freeze: 2026-10-08 V10 EN freeze for explicitly named PL source retained as historical scoped receipt
+    existing_source_freeze: 2026-10-08 V10 EN freeze for explicitly named PL source
+      retained as historical scoped receipt
     latest_complete_private_library: /RSE/Detective Academy/PL Versions/V04/R8
     latest_r8_status: FULL_30_CASES_90_HINTS_30_SOLUTIONS__HASH_AND_STRUCTURE_PASS__NOT_PRINT_READY
     latest_r8_reader_sha256: d547b13c953346b35b8b7910fd94a4819ba680319deede73e5bfdfe41ae148a3
@@ -84,8 +88,8 @@ milestone:
     final70_assignment: localization/pl-PL/production/detective-academy/versions/v02/V02_FINAL70_ASSIGNMENT.md
     final70_owner_decision: localization/pl-PL/production/detective-academy/versions/v02/OWNER_DECISION_2026-10-13_NEW30_FINAL_LOCK_PLUS_ZANTA_RESERVE.md
     final70_qa: PASS_FINAL70_TEXT_IDENTITY_REBIND__PHYSICAL_MAP_PROOF_NOT_DONE
-    final70_identity_counts: 40 prior frozen + NEW30; ZYRA assigned once; ZANTA reserve unused; 38 peripheral spatial witnesses
-      keep source names
+    final70_identity_counts: 40 prior frozen + NEW30; ZYRA assigned once; ZANTA reserve
+      unused; 38 peripheral spatial witnesses keep source names
   rse_language_studio:
     skill: .agents/skills/rse-language/SKILL.md
     cli: scripts/rse-language.py
@@ -96,52 +100,98 @@ milestone:
     languages:
     - pl
     - en
-    tests: 31/31 facade tests PASS locally after final guard; 59/59 legacy engine tests PASS separately
-    legacy_engine_regression: 59 tests PASS locally on byte-verified hydrated engine snapshot 8b484a528cd2ef85d23d5efc5c5c341a2fd02985
+    tests: 31/31 facade tests PASS locally after final guard; 59/59 legacy engine
+      tests PASS separately
+    legacy_engine_regression: 59 tests PASS locally on byte-verified hydrated engine
+      snapshot 8b484a528cd2ef85d23d5efc5c5c341a2fd02985
     skill_validation: PASS
     skill_installed_commit: 423eb90
     ci: NO_WORKFLOW_RUNS_RETURNED_FOR_5475185__FINAL_HEAD_NOT_YET_OBSERVED
-    automatic_prose_generation: Calling skill/assistant performs writing and review; CLI guards workflow and exports
+    automatic_prose_generation: Calling skill/assistant performs writing and review;
+      CLI guards workflow and exports
     production_release: NOT_AUTHORIZED
-    trial: Actual isolated writer and four stage reviews; correct transfer PASS, unresolved original source mechanics => OWNER_GATE,
-      no false owner-read readiness
+    trial: Actual isolated writer and four stage reviews; correct transfer PASS, unresolved
+      original source mechanics => OWNER_GATE, no false owner-read readiness
     trial_path: tools/rse-language/trial-2026-10-21
     pr: https://github.com/riseshineevolve-source/agency-agents/pull/40
     implementation_head: 547518585b2d8c598f93f55f0dc72d61d2d8e71e
+  website_pl_native:
+    source_repository: riseshineevolve-source/RISE.SHINE.EVOLVE
+    source_head: e6efa82b5194bfb492632aafd58655bb1ff1465d
+    source_pr: 609
+    consumer_issue: 608
+    output_root: localization/website/2026-10-21
+    pages: 35
+    unique_units: 2087
+    approved_guides_preserved: 6
+    writing_route: fresh native writer from wording-free brief; source backcheck;
+      conservative privacy route
+    static_native_review: 1180 KEEP after real full review and targeted closure
+    legal_schema_reviews: 64 +29 KEEP after full source/native review and targeted
+      closure
+    dynamic_reviews: actual main502 reader units +145Motto+65WordHunt+53Studio; source
+      safety/fact gates preserved
+    deterministic_checks: 35pages DOM/CSS parity,573relative refs,10inline+3externalJS
+      PASS;2500WordHuntgrids;270Studio trials
+    source_git_blob_verification: 56/56 PASS
+    browser_surface_fit: NOT_RUN
+    live_website_changed: false
+    published: false
+    main_merged: false
+    ci: NOT_CONFIRMED_AT_NEW_HEAD
+    source_gates: legacy Christmas data/ages, Nini age, breath-holds and benefits
+      claims, privacy truth, GooglePlay status; exact segment evidence in reports
+    model_routing: central recommendation acknowledged; actual runtime model switch
+      unverified; no paid fallback
 blocker:
-- Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer evidence
-  not available.
-- Authorized Desktop Commander device offline as checked 2026-10-19; no physical print or device proof.
-- 'PR #37 exact-head green CI not verified; do not promote as proven PASS or merge blindly.'
-- Detective R8 text proof has no embedded artwork; master PDF page 80 is footer-only; both must be re-rendered with final
-  Book Factory template.
-- Physical Case03 photos, Case12 G2 map, Case21 four fragments, Case26 14 maps, Case27 overlay, human PL family read-aloud
-  and owner KDP layout proof remain unverified.
-- R8 original manifest self-hash and owner handoff SHA mismatch the retrieved auxiliary bytes; 7/7 substantive source hashes
-  PASS, no body corruption inferred.
+- Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page
+  PNGs and print-scale reviewer evidence not available.
+- Authorized Desktop Commander device offline as checked 2026-10-19; no physical print
+  or device proof.
+- 'PR #37 exact-head green CI not verified; do not promote as proven PASS or merge
+  blindly.'
+- Detective R8 text proof has no embedded artwork; master PDF page 80 is footer-only;
+  both must be re-rendered with final Book Factory template.
+- Physical Case03 photos, Case12 G2 map, Case21 four fragments, Case26 14 maps, Case27
+  overlay, human PL family read-aloud and owner KDP layout proof remain unverified.
+- R8 original manifest self-hash and owner handoff SHA mismatch the retrieved auxiliary
+  bytes; 7/7 substantive source hashes PASS, no body corruption inferred.
 owner_gate:
-- The PL/EN daily headings, PL headline and EN subtitle are OWNER-LOCKED (2026-10-13); no owner reconfirmation needed. Await
-  sole Gentle Steps writer for atomic source/app migration after visual/CI pass.
-- 'English primary short strapline editorial completion 2026-10-19: A BOOK THAT FITS INTO YOUR DECEMBER. Separate from the
-  owner-locked EN subtitle; do not insert on cover without actual layout review.'
-- Final Gentle PL print-scale visual/editorial/safety approval and release freeze remain owner-controlled.
-- Before moving Detective PL onto the latest evolving EN production master, obtain explicit current source authority and freeze;
-  do not equate historical V10 scoped freeze with later EN editions.
+- The PL/EN daily headings, PL headline and EN subtitle are OWNER-LOCKED (2026-10-13);
+  no owner reconfirmation needed. Await sole Gentle Steps writer for atomic source/app
+  migration after visual/CI pass.
+- 'English primary short strapline editorial completion 2026-10-19: A BOOK THAT FITS
+  INTO YOUR DECEMBER. Separate from the owner-locked EN subtitle; do not insert on
+  cover without actual layout review.'
+- Final Gentle PL print-scale visual/editorial/safety approval and release freeze
+  remain owner-controlled.
+- Before moving Detective PL onto the latest evolving EN production master, obtain
+  explicit current source authority and freeze; do not equate historical V10 scoped
+  freeze with later EN editions.
 dependencies_needed:
 - lane: gentle_steps
-  need: Producer to supply actual R6 final-template PDF, editable final template snapshot and 12 distinct PNG views with hash-bound
-    source and reviewer evidence. Do not rewrite Polish content on app branch. Owner-attached cover reference contains abcabc
-    placeholder back copy and front lower badge; do not promote this reference as a finished cover. Current production wrap
-    was not inspected here.
+  need: Producer to supply actual R6 final-template PDF, editable final template snapshot
+    and 12 distinct PNG views with hash-bound source and reviewer evidence. Do not
+    rewrite Polish content on app branch. Owner-attached cover reference contains
+    abcabc placeholder back copy and front lower badge; do not promote this reference
+    as a finished cover. Current production wrap was not inspected here.
 - lane: central_control_tower
-  need: Consume V3 bilingual Gentle Steps guides at localization/campaigns/gentle-steps/2026-10-21/v3 after owner editorial
-    approval. Website sole writer connects verified product/preview link and checks real formats/title, language routing and
-    current design. No website files changed by localization.
+  need: Consume V3 bilingual Gentle Steps guides at localization/campaigns/gentle-steps/2026-10-21/v3
+    after owner editorial approval. Website sole writer connects verified product/preview
+    link and checks real formats/title, language routing and current design. No website
+    files changed by localization.
 - lane: detective_book_factory
-  need: Consume EXACT Library V04 R8 Reader + Master + 90 hints + 30 solutions (all SHA-verified) as latest PL language candidate;
-    produce complete designed Polish KDP proof using owner-approved art and maps. Test Case03 / 12 / 21 / 26 / 27, FOUR 0
-    records and FINAL70; real print proof and owner visual gate. Do not use V03 REV6 or generate a competing translation.
-    For future newest EN parity, request exact explicit source freeze.
+  need: Consume EXACT Library V04 R8 Reader + Master + 90 hints + 30 solutions (all
+    SHA-verified) as latest PL language candidate; produce complete designed Polish
+    KDP proof using owner-approved art and maps. Test Case03 / 12 / 21 / 26 / 27,
+    FOUR 0 records and FINAL70; real print proof and owner visual gate. Do not use
+    V03 REV6 or generate a competing translation. For future newest EN parity, request
+    exact explicit source freeze.
+- lane: website_factory
+  need: Consume source-mapped35pagePL candidate at localization/website/2026-10-21
+    on this feature branch. Integrate onlyPL assets/data and preserveapprovedGuides/ENlayout.
+    Resolve exactsource/fact/safety gates, browserdesktop/mobile parity and actualdeployment
+    before noindexrelease; no publication authorized by localization QA.
 reusable_outputs:
 - https://github.com/riseshineevolve-source/agency-agents/pull/37
 - scripts/gentle-steps-r6-proof.py
@@ -161,7 +211,10 @@ reusable_outputs:
 - scripts/test-rse-language.py
 - localization/campaigns/gentle-steps/2026-10-21/v3
 - https://github.com/riseshineevolve-source/agency-agents/pull/40
-next_safe_task: Review V3 guides and consume via sole website writer; use installed $rse-language for new PL/EN content runs.
-  Preserve R6 and existing Detective PL R8; next product work remains actual source-bound designed proof. New latest-EN Detective
-  migration still requires explicit current freeze.
-checkpoint_reference: localization/checkpoints/2026-10-21-language-studio-and-gentle-guides.md
+- localization/website/2026-10-21/README.md
+- localization/website/2026-10-21/QA_SUMMARY.md
+- localization/website/2026-10-21/RSE_WEBSITE_PL_SOURCE_MAPPED_20261021.zip
+next_safe_task: Website Factory integrate complete PL candidate and validate actual
+  browser interactions/surface fit, resolve documented source gates before release.
+  Preserve Gentle Steps R6 and Detective PL R8; no new book translation.
+checkpoint_reference: localization/website/2026-10-21/README.md

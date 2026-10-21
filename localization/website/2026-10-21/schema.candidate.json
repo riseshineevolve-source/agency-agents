@@ -1,0 +1,124 @@
+{
+  "format": "rse-language-candidate-v1",
+  "language": "pl",
+  "run_sha256": "7d029d24378796b3ee501747b234251cbfa57a3eb16e56a843dcb23bf9f4f6d2",
+  "writer_packet_sha256": "34c99a3ac756c5335fe60c0a0c7d476d0293a3eeb4eaab27b66ff158e7812cb5",
+  "segments": [
+    {
+      "id": "schema.0001",
+      "text": "Wybierz World 01, jeśli szukasz podstaw radzenia sobie z trudnościami i silnymi emocjami. World 02 przyda się przy nawykach, codziennych czynnościach i umiarze w korzystaniu z ekranów. The Confident, Mindful & Happy Me Adventure proponuje jedną wskazówkę na każdy dzień, by budować pewność siebie."
+    },
+    {
+      "id": "schema.0002",
+      "text": "Jakie projekty dla dzieci są w przygotowaniu?"
+    },
+    {
+      "id": "schema.0003",
+      "text": "Przygotowujemy Happy Makers Detective Academy: The Mystery of Room Zero dla dzieci w wieku 8–12 lat oraz projekty kolorowanek Optical Animals i Optical Halloween. Aplikacja Happy Me Adventures na Androida jest dopracowywana przed wydaniem."
+    },
+    {
+      "id": "schema.0004",
+      "text": "Czy jest już aplikacja, z której można korzystać?"
+    },
+    {
+      "id": "schema.0005",
+      "text": "Happy Me Adventures nie jest jeszcze dostępne w Google Play. Interaktywne aplikacje World 01 i World 02 również nie zostały wydane. Już teraz można korzystać z wydanych książek i Darmowych materiałów."
+    },
+    {
+      "id": "schema.0006",
+      "text": "Happy Makers to rodzina z książek Level Up Your Brain, w której łatwo rozpoznać coś z własnego domu. Zabawne misje z historią pomagają dzieciom i rodzicom ćwiczyć umiejętności przydatne na co dzień."
+    },
+    {
+      "id": "schema.0007",
+      "text": "Wybierz jedną codzienną sytuację rodzinną, w której chcesz coś zmienić. Sięgnij po poradnik, aktywność z Darmowych materiałów lub wydaną książkę do wspólnego czytania z dzieckiem."
+    },
+    {
+      "id": "schema.0008",
+      "text": "Czy można już kupić świąteczną książkę lub pobrać aplikację?"
+    },
+    {
+      "id": "schema.0009",
+      "text": "Żadna ze świątecznych wersji nie jest jeszcze w sprzedaży. Angielska książka drukowana ŚWIĘTA SĄ TEŻ PO DRODZE nie ma zweryfikowanej strony na Amazonie, a osobna aplikacja na Androida nie jest dostępna w Google Play."
+    },
+    {
+      "id": "schema.0010",
+      "text": "Polskie adaptacje są w przygotowaniu. Te strony przedstawiają zapowiedzi angielskich projektów. Polska wersja nie jest jeszcze dostępna, a polskiej aplikacji nie można pobrać."
+    },
+    {
+      "id": "schema.0011",
+      "text": "Książki Rise.Shine.Evolve. i zapowiedzi aplikacji"
+    },
+    {
+      "id": "schema.0012",
+      "text": "Bezpłatne, praktyczne materiały dla rodzin. Dla spokoju, skupienia i współpracy."
+    },
+    {
+      "id": "schema.0013",
+      "text": "Zacznij od Calm vs Energy: 60 sekund na mały reset. Potem sięgnij po Word Search, by zrobić przerwę na skupienie bez ekranu."
+    },
+    {
+      "id": "schema.0014",
+      "text": "Seria Level Up Your Brain"
+    },
+    {
+      "id": "schema.0015",
+      "text": "Z jakich materiałów można skorzystać już dziś?"
+    },
+    {
+      "id": "schema.0016",
+      "text": "Dostępne są poradnik o umiarze w korzystaniu z ekranów i Darmowe materiały. Wydane książki rodzinne mogą wspierać wspólne rozmowy. To pomoce niezależne od przygotowywanej aplikacji dla nastolatków."
+    },
+    {
+      "id": "schema.0017",
+      "text": "Czy kolorowanki zostały już wydane?"
+    },
+    {
+      "id": "schema.0018",
+      "text": "Optical Animals i Optical Halloween są w przygotowaniu. Strony z zapowiedziami przedstawiają obecne koncepcje. Nie ma jeszcze linków do zakupu."
+    },
+    {
+      "id": "schema.0019",
+      "text": "31-dniowa przygoda dla dzieci, która pomaga budować pewność siebie i ćwiczyć uważność."
+    },
+    {
+      "id": "schema.0020",
+      "text": "Krótki rodzinny reset: wybierzcie wyciszenie lub energię, a potem zróbcie jedną małą rzecz."
+    },
+    {
+      "id": "schema.0021",
+      "text": "Karty wspierają rozmowę o emocjach, ale jej nie zastępują. Krótki reset na początek pomaga przygotować się do późniejszej rozmowy i współpracy."
+    },
+    {
+      "id": "schema.0022",
+      "text": "Wykreślanka ze słowami ze świata Happy Makers."
+    },
+    {
+      "id": "schema.0023",
+      "text": "Krótka zabawa w szukanie słów ze świata Happy Makers."
+    },
+    {
+      "id": "schema.0024",
+      "text": "Tak. W Word Search Studio możesz tworzyć własne wykreślanki, wybierając poziom trudności i kształt."
+    },
+    {
+      "id": "schema.0025",
+      "text": "Karty rodzinnych haseł, które na co dzień dodają otuchy i zachęcają do współpracy."
+    },
+    {
+      "id": "schema.0026",
+      "text": "Family Motto Cards: krótkie rodzinne hasła, które dzięki wspólnemu powtarzaniu stają się znajomą odpowiedzią w codziennych sytuacjach."
+    },
+    {
+      "id": "schema.0027",
+      "text": "Twórz krótkie wykreślanki dla dzieci. Na skupienie, przerwy na wyciszenie i wspólną rodzinną zabawę."
+    },
+    {
+      "id": "schema.0028",
+      "text": "Twórz własne wykreślanki o wybranym kształcie i poziomie trudności."
+    },
+    {
+      "id": "schema.0029",
+      "text": "Tak. To praktyczny pomysł na czas bez ekranu. Warto połączyć go z World 02, w którym znajdziesz misje dotyczące umiaru w korzystaniu z ekranów."
+    }
+  ]
+}
