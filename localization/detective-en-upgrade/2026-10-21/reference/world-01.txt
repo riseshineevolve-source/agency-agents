@@ -1,0 +1,2208 @@
+=== PDF PAGE 1 ===
+SYSTEM: ONLINE
+LVL_INDEX: 01
+WORLD
+01
+
+
+=== PDF PAGE 2 ===
+SYSTEM: ONLINE
+LVL_INDEX: 02
+© 2026 Rise.Shine.Evolve. All rights reserved. 
+ISBN Paperback: 9798247194682
+No part of this publication may be reproduced, stored in a retrieval system,
+ or transmitted in any form or by any means without prior written permission
+from the publisher, except for brief quotations used in reviews or as otherwise
+permitted by applicable copyright law.
+The development of this book was supported by AI-assisted tools.
+Come visit us online - we saved a cozy spot just for you:
+https://rise-shine-evolve-learning-hub.com
+Follow us on Facebook:
+Rise.Shine.Evolve.Learning Hub
+A NOTE FOR PARENTS
+This book is built around simple, family-friendly ideas: respecting individual differences,
+noticing feelings and body cues, easing unnecessary pressure, and choosing connection
+over conflict. It’s more than a story. It’s a playful toolkit for understanding big feelings,
+trying practical strategies, and building everyday coping skills together.
+This book is an educational resource and is not a substitute for medical, 
+psychological, or other professional advice, diagnosis, or treatment.
+
+
+=== PDF PAGE 3 ===
+SYSTEM: ONLINE
+LVL_INDEX: 03
+ 
+DEDICATION
+CLASSIFIED: OPEN IMMEDIATELY
+
+
+=== PDF PAGE 4 ===
+SYSTEM: ONLINE
+LVL_INDEX: 04
+ 
+SYSTEM BOOT...
+INTAKE_SEQUENCE_01
+
+
+=== PDF PAGE 5 ===
+SYSTEM: ONLINE
+LVL_INDEX: 05
+ 
+INTRODUCTION
+INTAKE_SEQUENCE_02
+
+
+=== PDF PAGE 6 ===
+SYSTEM: ONLINE
+LVL_INDEX: 06
+ 
+FAMILY SECRET CODES
+INTAKE_SEQUENCE_03
+
+
+=== PDF PAGE 7 ===
+SYSTEM: ONLINE
+LVL_INDEX: 07
+NINI - THE JOY SPARK
+The Glittery Volcano
+BIO_DATA
+ + Hug Machine         + Bucket Filler
+ + Dance Button        + Giggle Generator
+SKILL_TREE
+The sweetest (and loudest) member of the
+crew. She is a walking heart emoji who runs
+the family on hugs, kisses, and random living
+room dance parties. She loves everything
+sparkly and can sense if you are sad from
+three rooms away. Sometimes she erupts like
+a tiny, pink volcano, but she always gives the
+best Mega-Squeezes in the world.
+BIO_DATA
+CHOOSE THE PLAYER
+THE HAPPY MAKERS 
+CHARACTER RECAP
+
+
+=== PDF PAGE 8 ===
+SYSTEM: ONLINE
+LVL_INDEX: 08
+ALIO - PLAYFUL POWER
+The Chief Inspector of Imaginary Dangers
+BIO_DATA
+ + Chaos Starter             + Helmet Wearer  
+ + Question Asker          + Jump Expert
+SKILL_TREE
+BIO_DATA
+CHOOSE THE PLAYER
+He runs on 120% pure energy and curiosity. 
+He takes everyday life very seriously, 
+which is why he sometimes wears
+ a bicycle helmet to eat breakfast - just in case
+ gravity suddenly stops working. 
+He loves to dress up in costumes, go on
+ top-secret missions, and build super-strong
+ forts out of sofa cushions.
+THE HAPPY MAKERS 
+CHARACTER RECAP
+
+
+=== PDF PAGE 9 ===
+SYSTEM: ONLINE
+LVL_INDEX: 09
+DILO - THE PIXEL STRIKER
+The Professor of 'Funny Stories'
+BIO_DATA
+ + Level Crusher            + Fact Inventor
+ + Goal Goblin                + Tech Whiz
+SKILL_TREE
+BIO_DATA
+CHOOSE THE PLAYER
+He is a soccer star who views real life
+ as a video game with bad graphics 
+and way too many rules. 
+He thinks making his bed is an unfair side-quest
+ and loves to pull playful pranks 
+ on his little brother.
+ He acts tough, but secretly, he would fight
+ a real-life dragon for his siblings.
+THE HAPPY MAKERS 
+CHARACTER RECAP
+
+
+=== PDF PAGE 10 ===
+SYSTEM: ONLINE
+LVL_INDEX: 10
+LULI - THE CREATIVE GLOW
+The Minister of Chill
+BIO_DATA
+ + Idea Whisperer           + Book Diver
+ + Mystery Brain             + Clue Collector
+SKILL_TREE
+BIO_DATA
+CHOOSE THE PLAYER
+The family's Logic Guardian. While everyone else
+ is screaming about mutant ants
+ or missing shoes, Luli is usually hanging
+ upside down on her aerial silks, 
+reading a 400-page book. She doesn't need
+ glasses to see right through her brothers' silly
+excuses. She treats life like a giant puzzle
+ and is always ready to use logic to save the day.
+THE HAPPY MAKERS 
+CHARACTER RECAP
+
+
+=== PDF PAGE 11 ===
+SYSTEM: ONLINE
+LVL_INDEX: 11
+MIMI - THE CHAOS QUEEN
+The Brain Captain
+BIO_DATA
++ Wizard Waker             + Ferrari Mechanic 
++ Lost-Things Finder    + Mood Stabilizer
+SKILL_TREE
+BIO_DATA
+CHOOSE THE PLAYER
+The loving boss of this crazy crew. 
+She runs mainly on love, deep breaths, 
+and a lot of coffee. She can find a tiny missing
+ Lego piece in three seconds, but she never
+ knows where her phone is. 
+She is trying to teach her team how to be
+ the best versions of themselves, even when
+ her own battery is flashing red at 1%.
+THE HAPPY MAKERS 
+CHARACTER RECAP
+
+
+=== PDF PAGE 12 ===
+SYSTEM: ONLINE
+LVL_INDEX: 12
+
+
+=== PDF PAGE 13 ===
+SYSTEM: ONLINE
+LVL_INDEX: 13
+THE GAME MAP: WORLD 01
+ 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+The After-School Crash > > > > > > [ LVL_INDEX 15 ]
+The Ice Cream Tragedy  > > > > > > [ LVL_INDEX 23 ]
+The Invisible XP  > > > > > > > > >   [ LVL_INDEX 33 ]
+The Spy Who Was Bored > > > > >  [ LVL_INDEX 42 ]
+The Lizard in the Living Room  > > [ LVL_INDEX 51 ] 
+Construction Noise > > > > > > > >  [ LVL_INDEX 60 ]
+The Bankrupt Plant > > > > > > > >  [ LVL_INDEX 68 ]
+The Muddy Ferrari > > > > > > > > > [ LVL_INDEX 76 ]
+The Broccoli Fortress  > > > > > >   [ LVL_INDEX 84 ]
+The Energy Vampire > > > > > > >   [ LVL_INDEX 92 ]
+THE TUTORIAL / MISSION SELECT
+MISSION SELECT
+
+
+=== PDF PAGE 14 ===
+SYSTEM: ONLINE
+LVL_INDEX: 14
+
+
+=== PDF PAGE 15 ===
+SYSTEM: ONLINE
+MISSION OBJECTIVE
+LOADING MAP ASSETS... [COMPLETED]
+LVL_INDEX: 15
+LEVEL 1:
+The After-School Crash
+KEY ACQUIRED: REGULATION
+Learning to shake off the heavy school energy before it causes
+a system crash.
+
+
+=== PDF PAGE 16 ===
+DILO
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 16
+THE AFTER-SCHOOL CRASH
+SYSTEM LOG >> Alio, still wearing his safety helmet, immediately
+tripped over Dilo's bag and fell flat on his face.
+SYSTEM LOG >> Monday, 16:00. The front door opened. The entire
+Happy Makers crew spilled into the hallway at the exact same time. It
+was a complete disaster.
+Dilo pushed past everyone, dropping his heavy, smelly sports bag right
+in the middle of the doorway like a roadblock.
+Out of my way, noobs! First to the bathroom
+wins! The King claims the throne!
+(Screaming) A TRAP! Dilo set a booby trap!
+And his bag smells like rotten cheese! I am
+poisoned! My nose is burning! I need a
+doctor!
+
+
+=== PDF PAGE 17 ===
+SYSTEM: ONLINE
+LVL_INDEX: 17
+NINI
+LULI
+MIMI
+SYSTEM LOG >> Nini was squished against the wall. She dropped to
+her knees, her face turning bright red, pulling angrily at her jacket.
+SYSTEM LOG >> Mimi walked in last, carrying three bags of groceries.
+The hallway looked like a battlefield. Everyone was hungry. Everyone
+was tired. The grumpy monsters inside their heads were completely
+taking over.
+(Crying loudly) Dilo breathed my air! And my
+zipper is stuck! It hates me! Everything is
+terrible and the lights are too loud!
+(Squeezing past the crying bodies, holding a
+book over her ears) Lights cannot be loud,
+Nini. But your crying is breaking the sound
+barrier. If everyone could just vanish into
+their rooms, that would be highly logical.
+(Closing her eyes, leaning against the door
+frame, taking a huge, slow breath) Okay.
+Freeze. Everyone, stop moving right now.
+
+
+=== PDF PAGE 18 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 18
+MIMI
+MIMI
+SYSTEM LOG >> Alio stopped crying about his nose. Nini froze with
+her jacket half-on.
+(Sniffling) Like... a dirty dog?
+Exactly. Shake your hands! Shake your legs!
+Wiggle your shoulders! Shake all that mad,
+scratchy school energy off your bodies right
+here on the doormat. We are not bringing it
+into the house. Shake!
+You guys were so good all day at school. You
+followed the rules, you sat still, and you held
+all your wild energy inside like a tight balloon.
+But now you are home, you feel safe, and
+your balloons just popped all over my hallway.
+You have too much wild energy. Stand up.
+We are doing the Wet Dog Shake.
+
+
+=== PDF PAGE 19 ===
+SYSTEM: ONLINE
+LVL_INDEX: 19
+MIMI
+MIMI
+SYSTEM LOG >> Alio and Nini ran to the living room and lay on their
+stomachs. Mimi took three heavy sofa cushions and placed them
+gently on top of their backs, squishing them nicely like little turtles
+hiding in their shells.
+SYSTEM LOG >> Ten minutes later, the turtles emerged from their
+shells. Alio cheerfully went to unpack his lunchbox, and Nini
+hummed a happy song. The crash was defeated. But the very next
+day, their emotional control would be tested again... on the hot
+sidewalk.
+SYSTEM LOG >> It looked ridiculous. Dilo peeked out of the bathroom
+and saw his entire family wiggling and shaking like wet puppies. But
+after ten seconds, Alio took a deep breath. Nini giggled, and her zipper
+magically unstuck.
+10 minutes of calm, quiet time. Let your
+batteries recharge.
+Better. Now, step two: Decompression Mode.
+Nobody talks. Nobody does homework. Alio,
+Nini, go to the rug. Time for the Turtle Shell.
+
+
+=== PDF PAGE 20 ===
+// FILE: 001
+// FILE: 002
+// FILE: 003
+SYSTEM: ONLINE
+LVL_INDEX: 20
+THE NEURO-COACHING CONSOLE
+■■
+■■■ THE GLITCH ('The Hallway Explosion')
+The Science: Trying to argue or fix problems the second you walk through
+the door never works. If your body feels scratchy and mad, do the 'Wet
+Dog Shake' on the doormat! Wiggle your arms and legs super fast for 10
+seconds to shake the angry chemicals out of your muscles.
+        THE BRAIN SECRET (The School Balloon)
+The Science: When you are at school, you use a lot of brain energy to
+follow rules, focus, and be polite. Psychologists call this 'Executive
+Function.' It's like blowing air into a tight balloon all day. When you finally
+reach your safe space (your home), your brain drops its guard and the
+balloon pops! This is called 'Restraint Collapse.' 
+In The Story: Alio and Nini were perfectly good all day, but they exploded
+over a stuck zipper and a smelly bag the minute they walked in. They
+weren't really mad at those things; their tired school balloons just popped!
+THE TOOL ('The 10-Minute Turtle Shell')
+The Science: A tired, overloaded brain cannot answer questions like 'How
+was your day?'. It needs a sensory break. Deep pressure on your muscles
+sends a signal to your nervous system that you are anchored and safe,
+helping you calm down quickly. 
+In The Story: Mimi didn't force them to talk. She put heavy cushions on
+Alio and Nini's backs (The Turtle Shell) and gave them 10 minutes of quiet
+Decompression Mode to reboot their systems.
+■
+
+
+=== PDF PAGE 21 ===
+SYSTEM: ONLINE
+LVL_INDEX: 21
+QUEST
+XP REWARD
+■ TALK ABOUT IT
+In The Story: Alio and Nini's 'balloons'
+popped as soon as they walked in.
+Your Turn: How does your body feel when
+you hold your feelings in all day? Does
+your head feel tight? Do your legs feel
+jumpy?
+■ FAMILY MISSION 
+In The Story: Dilo's bag caused a hallway
+traffic jam. 
+Your Turn: Create a 'Drop Zone' (a specific
+basket or corner) right by the door.
+Tomorrow, see who can drop their bag in the
+Drop Zone fastest without causing a crash!
+To avoid a hallway traffic jam, leave your
+bags there and go do your Decompression
+Mode. THEN - when your brain is rested -
+your very first mission is to go back to the
+Drop Zone, unpack your lunchbox and clean
+your water bottle!
+
+
+=== PDF PAGE 22 ===
+SYSTEM: ONLINE
+// FILE: BRAIN_HACK
+LVL_INDEX: 22
+SECRET CODE: “DECOMPRESSION MODE”
+MEANING: I just got home. My brain is tired from being good all day.
+I need quiet time before I can talk.
+INITIATE OPERATION: Drop bags. Shake off the energy. 10 minutes
+of silence and deep pressure. No questions allowed!
+PLAYER MISSION - TRAIN YOUR CAPTAIN: 
+If your parent says: Why are you screaming the second we get home?!
+Stop fighting!'
+Teach them to say instead: 'Your school balloons just popped! Let's do
+the Wet Dog Shake and go into Decompression Mode.'
+■ TOP SECRET SCIENCE (For Big and Small Brains)
+How does the 'Wet Dog Shake' and 'Turtle Shell' actually change your
+brain? When you are stressed at school, your body is flooded with Cortisol
+(the stress hormone) and your 'Fight or Flight' system is in control. Shaking
+your body physically burns off that extra adrenaline. Then, adding deep
+pressure (Proprioceptive Input) activates your 'Rest and Digest' system. It
+tells your brain to stop producing Cortisol and start releasing Serotonin
+(the calming chemical). You are literally hacking your nervous system!
+SECRET FAMILY CODE
+■
+■
+■
+★
+
+
+=== PDF PAGE 23 ===
+SYSTEM: ONLINE
+MISSION OBJECTIVE
+LOADING MAP ASSETS... [COMPLETED]
+LVL_INDEX: 23
+LEVEL 2:
+The Ice Cream Tragedy
+KEY ACQUIRED: EMPATHY
+Learning that you can't fix a melted cone, but you can fix a
+melted mood using Mirror Neurons.
+
+
+=== PDF PAGE 24 ===
+SYSTEM: ONLINE
+LVL_INDEX: 24
+MIMI
+LULI
+MIMI
+THE ICE CREAM TRAGEDY
+SYSTEM LOG >> The tragedy struck at exactly 14:03 on Tuesday on
+the Sidewalk of Doom. The sun was melting the asphalt. Mimi was
+digging frantically in her gigantic bag that contained half the house.
+She let out a long, exhausted breath, trying to keep her own inner
+grumpy monster from waking up in the heat. She was shining a bright
+flashlight into the dark depths of the bag.
+Oh. Right. It's a tactical search light. I knew
+that.
+Where is my phone?! Is it under the spare
+shoes or the emergency lasagna? I can't
+find it anywhere! I need to call Grandma!
+Mammi, you are using your phone's flashlight
+to look for your phone.
+
+
+=== PDF PAGE 25 ===
+DILO
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 25
+SYSTEM LOG >> Alio turned pale, his eyes wide with terror. He
+scrambled behind Nini's legs.
+SYSTEM LOG >> Mimi did a quick 'Wet Dog Shake' with her hands to
+physically throw off the stress. Meanwhile, Alio was holding the Holy
+Grail of summer: a triple-scoop Choco-Mint-Explosion cone. And
+then... gravity attacked. SPLAT. The ice cream hit the sidewalk face
+down. It wasn't just a fall; it was a crime scene.
+NOOOO! My life is over! It's bleeding
+chocolate! The ants are eating my happiness!
+And Dilo said if an ant eats sugar, it mutates
+into a giant monster and stomps on toes!
+It's true. I saw a documentary on YouTube.
+And yesterday I tried to charge my phone
+by rubbing it on the cat to create static
+electricity, so I know science. You better
+run, Alio.
+
+
+=== PDF PAGE 26 ===
+ALIO
+SYSTEM: ONLINE
+ALIO
+LVL_INDEX: 26
+NINI
+LULI
+Save me! I don't want
+mutant ant!
+But Dilo looked so professional!
+to be squished by a
+Dilo! Stop it! Ants don't mutate, and Alio's
+heart is shattered into a million pieces!
+Alio, don't listen to him. The only thing that
+happened is that the cat got so static-
+charged she is now a magnet. She walked
+through the living room and every piece of
+dust, glitter, and popcorn stuck to her fur.
+She looks like a walking vacuum cleaner
+bag.
+SYSTEM LOG >> 
+glittery sneaker.
+Nini, wearing a tulle skirt and cat ears, stomped her
+
+
+=== PDF PAGE 27 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 27
+NINI
+SYSTEM LOG >> 
+sad meringue.
+Nini crouched down next to Alio, looking like a tiny,
+SYSTEM LOG >> Nini sat down right next to him on the hot pavement
+and pointed above his head.
+I don't have a bucket. I don't have anything.
+Just a puddle.
+Alio, look at me. Forget the ants. Your
+invisible energy bucket just tipped over, didn't
+it?
+
+
+=== PDF PAGE 28 ===
+SYSTEM: ONLINE
+LVL_INDEX: 28
+NINI
+NINI
+It sits right here. Everybody has one. It's
+invisible. When it's full, you feel brave and
+kind. When it's empty, everything feels extra
+loud and unfair. I can't fill mine just by
+wishing. But when I pour kindness into your
+bucket, my brain releases happy chemicals
+that fill mine too! It's like wireless charging or
+like magic WI-FI!
+I'm not fixing the ice cream. I'm just sitting in
+the sadness with you until your bucket refills.
+Now, try to make a smile. Even a fake one.
+Just lift the corners of your mouth.
+SYSTEM LOG >> Emergency refill protocol! Nini wrapped Alio in a
+tactical 'Mega-Squeeze' hug.
+SYSTEM LOG >> Alio made a wobbly, weird grimace. It looked funny.
+He giggled a tiny bit through his tears.
+
+
+=== PDF PAGE 29 ===
+DILO
+SYSTEM: ONLINE
+LVL_INDEX: 29
+NINI
+Touching moment, guys. Now, if you'll excuse
+me, I'm going to find the cat. If I rub her fast
+enough against the carpet, I think I can power
+the entire neighborhood.
+See? Your face muscles just sent a text
+message to your brain saying 'We are smiling,
+so things must be okay!'
+SYSTEM LOG >> Alio took a deep, shuddering breath. The problem
+wasn't gone, but he wasn't alone anymore. And that made all the
+difference. Alio Status Update: Battery +10%. Sadness Reduced.
+
+
+=== PDF PAGE 30 ===
+// FILE: 004
+// FILE: 005
+// FILE: 006
+SYSTEM: ONLINE
+LVL_INDEX: 30
+THE NEURO-COACHING CONSOLE
+■■
+■■■ THE GLITCH ('The Face Trick')
+The Science: This is the 'Fake It 'Til You Make It' trick. If you force your
+face muscles to smile, they send a signal to your brain saying, 'Hey! We
+are smiling! Release the happy chemicals!'
+In The Story: Nini told Alio to make a 'fake smile.' Even though Alio was
+sad, making the wobbly grimace actually made him giggle. His face
+tricked his brain into feeling 1% better!
+      THE BRAIN SECRET (The Copycat Cells) 
+The Science: Your brain has special tiny radar sensors called 'Mirror
+Neurons.' They help you 'catch' other people's feelings. When you see 
+a friend cry, your brain practices that feeling so you can understand them.
+In The Story: Remember when Nini crouched down and looked sad with
+Alio? That was her Mirror Neurons working! She didn't just watch him; she
+felt a little bit of his sadness so she could help him.
+ THE TOOL ('The Silent Sit')
+The Science: Sometimes words don't work. By just sitting calmly near
+a sad person, your slow breathing acts like a remote control that helps
+slow down their racing heart. 
+In The Story: Nini said, 'I'm not fixing the ice cream. I'm just sitting in the
+sadness with you.' She didn't buy him a new cone immediately; she just
+sat on the hot pavement. Her calm body helped Alio's body stop
+panicking.
+■
+
+
+=== PDF PAGE 31 ===
+SYSTEM: ONLINE
+// FILE: BRAIN_HACK
+LVL_INDEX: 31
+QUEST
+XP REWARD
+■ TALK ABOUT IT
+In The Story: Alio admitted his bucket was
+empty ('Just a puddle'). 
+Your Turn: Is your bucket full, half-full, or
+empty right now? Who did you see today
+who looked like they had 'low battery'?
+■ FAMILY MISSION
+In The Story: Nini recharged Alio with 
+a 'Mega-Squeeze' hug. 
+Your Turn: Find someone today who
+needs a refill. Do one tiny thing (smile,
+wave, share, hug) to recharge them.
+■ TOP SECRET SCIENCE (For Big and Small Brains)
+Did you know feelings are contagious? When Nini sat calmly next to Alio,
+her slow heartbeat sent a secret invisible signal to Alio's body that said 'It
+is safe now.' This helped him calm down without using any words.
+Scientists call this Co-regulation, but we just call it 'sharing your calm'.
+
+
+=== PDF PAGE 32 ===
+SYSTEM: ONLINE
+LVL_INDEX: 32
+SECRET FAMILY CODE
+■
+■
+■
+SECRET CODE: “MY BUCKET TIPPED OVER!”
+MEANING: My emotional bucket is EMPTY. I am sad, or
+overwhelmed. I'm glitching and don't have the strength to fix anything
+right now.
+INITIATE OPERATION: The Family Team activates immediately the:
+Refill & Hug operation (aka Magic WI-FI).
+PLAYER MISSION - TRAIN YOUR CAPTAIN: 
+If your parent says: 'Stop crying, it's just ice cream, we will buy another
+one!', 
+teach them to say: 'Your bucket spilled. I am just going to sit here in the
+sadness with you until it refills.'
+★
+
+
+=== PDF PAGE 33 ===
+SYSTEM: ONLINE
+MISSION OBJECTIVE
+LOADING MAP ASSETS... [COMPLETED]
+LVL_INDEX: 33
+LEVEL 3:
+The Invisible XP
+KEY ACQUIRED: PATIENCE
+Realizing that real life isn't 'broken' - it just has slow download
+speeds. Grinding is where the magic happens.
+
+
+=== PDF PAGE 34 ===
+DILO
+SYSTEM: ONLINE
+LVL_INDEX: 34
+MIMI
+THE INVISIBLE XP
+SYSTEM LOG >> Wednesday afternoon. Dilo threw his soccer cleats
+at the wall. Thump. The wall shook. Dilo's face was completely red.
+SYSTEM LOG >> Mimi walked in with a vacuum cleaner, tripping over
+the cleats. She turned it off. She closed her eyes for a second, took a
+deep, calming breath to stay focused, and sat on the edge of the bed.
+Retirement! Real life has too much lag. In the
+game, I'm a master. Here, I am... buffering. I
+quit.
+Games cheat, Dilo. They give you gold coins
+just for walking. They TRICK your brain into
+feeling like a winner instantly. Real life makes
+you wait for the treasure.
+
+
+=== PDF PAGE 35 ===
+DILO
+SYSTEM: ONLINE
+DILO
+LVL_INDEX: 35
+MIMI
+So... I am leveling up? Even if I look like a
+confused penguin?
+I hate waiting. I practiced soccer for a whole
+week. And I still missed the goal. I want the
+win NOW. I'm filing a bug report on reality.
+Dilo, look at me. Your body is your real
+Avatar. Every sprint, every drill... that is
+Invisible XP (Experience Points). You aren't
+just running; you are building tiny super-
+highways inside your brain. You just can't see
+the progress bar above your head yet.
+SYSTEM LOG >> 
+SYSTEM LOG >> Dilo rolled over.
+Mimi stroked his messy hair.
+
+
+=== PDF PAGE 36 ===
+DILO
+SYSTEM: ONLINE
+LVL_INDEX: 36
+MIMI
+MIMI
+Okay, I get the XP thing. But Mammi... I just
+can't. My legs feel like jelly. The sofa is
+pulling me in like a black hole. I can't
+practice for an hour.
+Who said anything about an hour? That is too
+big. Your brain is scared of the big work.
+Yes. You are just stuck in 'The Training
+Level.' It feels slow, but it's where the muscles
+are built. Only noobs quit during The Training
+Level. Pros know they have to grind to unlock
+the skills.
+SYSTEM LOG >> Mimi tapped his nose.
+SYSTEM LOG >> Dilo sighed and sat up. He looked at his cleats. Then
+he flopped back down.
+
+
+=== PDF PAGE 37 ===
+DILO
+SYSTEM: ONLINE
+LVL_INDEX: 37
+MIMI
+MIMI
+SYSTEM LOG >> 
+SYSTEM LOG >> 
+SYSTEM LOG >> Dilo stood up.
+Dilo caught the cleat.
+She picked up a cleat and tossed it to him.
+10 minutes? That's barely an intro cutscene.
+Exactly. Anyone can do 10 minutes.
+Let's make a deal. Just go outside and juggle
+the ball for 10 minutes. Only 10 minutes. If
+you still hate it after that, you can come back
+and be a vegetable. Deal?
+
+
+=== PDF PAGE 38 ===
+SYSTEM: ONLINE
+DILO
+LVL_INDEX: 38
+Fine. 10 minutes. But I'm taking the timer.
+SYSTEM LOG >> He went outside. He kicked the ball once, then twice.
+The air felt nice. He forgot to check the timer. 20 minutes later, he was
+still playing. The hardest part wasn't the practice, it was just standing
+up. Keep playing and grinding, because in real life, XP points are
+invisible right until the moment you finally level up.
+
+
+=== PDF PAGE 39 ===
+// FILE: 007
+// FILE: 008
+// FILE: 009
+SYSTEM: ONLINE
+LVL_INDEX: 39
+THE NEURO-COACHING CONSOLE
+■■
+■■■
+ THE TOOL ('The 10-Minute Deal')
+The Science: The hardest part of any task is starting. This is called
+'Friction.' Your brain thinks the work will be painful and huge. But if you
+make the task tiny, the brain says: 'Oh, I can do that!' 
+In The Story: Dilo couldn't imagine practicing for an hour ('The sofa is 
+ a black hole'). But when Mimi said 'Just do 10 minutes,' his brain stopped
+being scared. And guess what? Once he started, he didn't want to stop!
+       THE BRAIN SECRET (The Dopamine Trap)
+The Science: Video games give you 'Fast Dopamine' (instant treats). Real
+skills give you 'Slow Dopamine' (pride that comes later). Your brain is lazy.
+It wants the fast treat! But the slow treat lasts much longer. 
+In The Story: Mimi explained that games 'cheat' by giving gold coins
+easily. Real life (soccer) is harder because the rewards (XP) are invisible
+at first.
+ THE GLITCH ('The Training Level')
+The Science: When you make mistakes, you aren't failing. You are
+building Myelin. That's a fancy word for brain-insulation. It makes your
+thoughts faster.
+In The Story: Dilo thought he was a 'confused penguin.' Mimi corrected
+him: he was just in 'The Training Level.' Every time he missed the goal, his
+brain was actually learning how to aim better next time.
+■
+
+
+=== PDF PAGE 40 ===
+SYSTEM: ONLINE
+// FILE: BRAIN_HACK
+LVL_INDEX: 40
+QUEST
+XP REWARD
+■ TALK ABOUT IT 
+In The Story: Dilo used a timer to trick his
+brain into starting. 
+Your Turn: Is there something you are
+avoiding right now? What if you only did it
+for 5 minutes?
+■ FAMILY MISSION
+In the Story: Dilo agreed to the '10-Minute
+Deal' and ended up playing longer. 
+Your Turn: Pick one boring chore today.
+Set a timer for 10 minutes. Race against
+the clock! When it rings, you are free to
+stop (but we bet you won't want to!).
+■ TOP SECRET SCIENCE (For Big and Small Brains) 
+Scientific Fact: The brain uses a lot of energy to switch tasks (from resting
+to working). This is called Limbic Friction. By proposing 'only 10 minutes',
+Mimi lowered the friction. It's like lowering the height of a hurdle so Dilo
+could jump over it easily. Once he was running, his brain released
+adrenaline and dopamine, making it easy to keep going!
+
+
+=== PDF PAGE 41 ===
+SYSTEM: ONLINE
+LVL_INDEX: 41
+SECRET FAMILY CODE
+■
+■
+■
+SECRET CODE: “I AM FARMING XP!”
+MEANING: I didn't fail. I just found a way that doesn't work, and I am
+learning from my mistakes to get better. This is just the 'Training Level,'
+and it's making me stronger.
+INITIATE OPERATION: The Family Team removes the pressure.
+Every 'glitch' is just a step toward a level-up. Celebrate the effort and
+the new brain connections being built.
+PLAYER MISSION - TRAIN YOUR CAPTAIN: 
+If your parent says: 'You need to practice for an hour if you want to be
+good!', 
+teach them to say: 'The friction is too high! Let's make a 10-Minute
+Deal.'
+★
+
+
+=== PDF PAGE 42 ===
+SYSTEM: ONLINE
+MISSION OBJECTIVE
+LOADING MAP ASSETS... [COMPLETED]
+LVL_INDEX: 42
+LEVEL 4:
+The Spy Who Was Bored
+KEY ACQUIRED: CURIOSITY
+Using the 'Wonder Hook' to turn brain-soup into a spy mission.
+
+
+=== PDF PAGE 43 ===
+DILO
+SYSTEM: ONLINE
+LVL_INDEX: 43
+LULI
+THE SPY WHO WAS BORED
+SYSTEM LOG >> 
+SYSTEM LOG >> Dilo rolled onto his side.
+Luli didn't look up from her book.
+SYSTEM LOG >> Thursday, 16:00. Dilo lay on the rug, staring blankly
+at the ceiling. He looked like a starfish that had washed ashore and
+given up. He sighed so loudly it made the windows rattle.
+BOOOORED. My brain is rotting. I can feel
+the gray matter turning into soup.
+Then feed it. There's a library right there.
+
+
+=== PDF PAGE 44 ===
+DILO
+SYSTEM: ONLINE
+DILO
+LVL_INDEX: 44
+LULI
+LULI
+Rug is fine. Rug doesn't require effort.
+Books? No thanks. Reading is just staring at
+dead trees with ink tattoos on them. It's too
+quiet. And it smells like old people.
+Here. This key fits a secret door.
+You uncultured potato. Books aren't dead
+trees. They are Skeleton Keys. Yesterday I
+was floating in a black hole. Today I am in a
+spy base in London. You are stuck on a rug
+smelling like feet.
+SYSTEM LOG >> Luli lowered her book and rolled her eyes.
+
+
+=== PDF PAGE 45 ===
+DILO
+DILO
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 45
+SYSTEM LOG >> Just then, Alio walked into the room, holding a
+half-eaten banana. He saw the book in Dilo's hand and screamed.
+SYSTEM LOG >> He opened the first page, skeptical. Suddenly, he
+paused. He read a sentence out loud: 'Did you know that real spies
+used invisible ink made from... pee?' Dilo sat up straighter.
+SYSTEM LOG >> She grabbed a book with a black cover and threw it
+at him. Dilo caught it.
+Wait, seriously? Pee?
+Spycraft? Exploding pens? Seriously?
+Drop it! Drop it! Alio yelled, diving behind the
+sofa. Dilo said books are carnivorous! He
+said if an ant eats sugar, it mutates into a
+giant monster and stomps on toes!
+
+
+=== PDF PAGE 46 ===
+DILO
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 46
+LULI
+SYSTEM LOG >> 
+SYSTEM LOG >> 
+SYSTEM LOG >> Dilo looked at the book,
+mischievous smile spread across his face.
+Luli slammed her own book shut.
+Alio peeked over the sofa, trembling.
+then at Alio. A slow,
+It's true, Alio. This is a Wild Encyclopedia. I
+can hear its stomach rumbling. It hasn't
+eaten a finger since... breakfast.
+Mammi! The book wants to eat Dilo!
+...Actually, let it eat him, he was mean. But
+then it will come for me! And I am too young
+to be a snack!
+Alio! Books don't eat people. They feed
+brains. Get off the sofa, you look like a
+frightened squirrel.
+
+
+=== PDF PAGE 47 ===
+DILO
+ALIO
+SYSTEM: ONLINE
+// FILE: INVENTORY
+LVL_INDEX: 47
+LULI
+It says here you can also use lemon juice. I
+need lemons. And a dark room.
+Are you sure? Maybe I should throw some
+cheese at it? To distract it?
+That's... actually creative. But no. Look, Dilo
+disappeared.
+ITEM ACQUIRED: A book is the only key that
+in the universe.
+SYSTEM LOG >> Alio tiptoed closer. Dilo was silent. The rug was
+forgotten. He wasn't in the living room anymore; his brain was in a
+secret laboratory.
+fits every lock
+
+
+=== PDF PAGE 48 ===
+// FILE: 010
+// FILE: 011
+// FILE: 012
+SYSTEM: ONLINE
+LVL_INDEX: 48
+THE NEURO-COACHING CONSOLE
+■■
+■■■ THE GLITCH ('Reading is pointless!')
+The Science: Your brain is smart/lazy. It doesn't want to waste energy on
+things that seem useless. If it thinks a book is just 'dead trees,' it turns off
+to save power. 
+In The Story: Dilo thought reading had no point. But when he found the
+'Spy Trick,' his brain woke up and said: 'Wait! This information is a
+weapon! I need it!' Suddenly, reading wasn't boring - it was a mission.
+ THE TOOL ('The Wonder Hook')
+The Science: Your brain loves mysteries. When you ask 'How does this
+work?', your brain releases a chemical called Dopamine to help you find
+the answer. This is called Curiosity. 
+In The Story: Dilo didn't want to read. But when he saw the fact about
+the 'invisible ink' (the pee!), his brain got hooked. He asked: 'Wait,
+seriously?' That question was the key that unlocked his focus.
+     THE BRAIN SECRET (Daydream Mode)
+The Science: Being bored is NOT bad! When you aren't doing anything,
+your brain enters 'Default Mode.' It connects random ideas to create new
+ones. Boredom is just the 'Waiting Room' for your best ideas. 
+In The Story: Dilo was lying on the rug feeling like his brain was 'soup.'
+But that empty feeling was necessary so he could be ready to catch the
+next cool idea.
+■
+
+
+=== PDF PAGE 49 ===
+SYSTEM: ONLINE
+// FILE: BRAIN_HACK
+LVL_INDEX: 49
+QUEST
+XP REWARD
+■ TALK ABOUT IT
+In The Story: Luli said books are
+'Skeleton Keys' that can take you to
+London or a black hole. 
+Your Turn: If you could have a key to ANY
+room (Outer Space, Dinosaur Times,
+Under the Ocean), which one would you
+open right now?
+■ FAMILY MISSION 
+In The Story: Dilo found one weird fact
+about spies. 
+Your Turn: Open a random book to a
+random page. Hunt for ONE weird word or
+fact. You just stole a piece of knowledge!
+■ TOP SECRET SCIENCE (For Big and Small Brains) 
+Why does boredom feel so uncomfortable? Because your brain is used to
+constant entertainment (like sugar for the mind). When you take the
+entertainment away, the brain throws a tantrum! But if you wait just 5
+minutes past the boredom, you enter the Creative Zone. That is where
+Lego masterpieces and great drawings are invented.
+
+
+=== PDF PAGE 50 ===
+SYSTEM: ONLINE
+LVL_INDEX: 50
+SECRET FAMILY CODE
+■
+■
+■
+SECRET CODE: “SPY GEAR OFFLINE”
+MEANING: My brain has lost its signal and turned into soup. I am
+bored and my focus is gone, so I might start looking for trouble.
+INITIATE OPERATION: The Family Team deploys a Wonder Hook.
+Provide a mystery or a weird fact to reboot curiosity and get the signal
+back.
+PLAYER MISSION - TRAIN YOUR CAPTAIN:
+If your parent says: 'If you're bored, go clean your room!',
+teach them to say: 'Boredom means your brain is in the Waiting
+Room. Let's find a Wonder Hook in a book to unlock a new level!'
+★
+
+
+=== PDF PAGE 51 ===
+SYSTEM: ONLINE
+MISSION OBJECTIVE
+LOADING MAP ASSETS... [COMPLETED]
+LVL_INDEX: 51
+LEVEL 5:
+The Lizard in the Living Room
+KEY ACQUIRED: CALM
+How to stop the 'Dance of Rage' and use breathing to wake up
+the tiny Wizard sleeping in your forehead.
+
+
+=== PDF PAGE 52 ===
+SYSTEM: ONLINE
+LVL_INDEX: 52
+NINI
+MIMI
+THE LIZARD IN THE LIVING
+ROOM
+Stop! Who
+Breathe!
+I HATE THIS!
+is dying? Lizard and Wizard!
+SYSTEM LOG >> Then Alio ran into the room, wearing a colander on
+his head and carrying a butterfly net.
+SYSTEM LOG >> Friday morning. Nini squealed, yanking a knot on her
+favorite necklace. It was a sound only dogs could hear. Her face was
+red, and she was doing a little 'dance of rage' - stomping her feet and
+shaking her fists. 'It's tight! It hurts! I feel hot and scratchy all over!'
+Mimi rushed in, waving a wooden spoon like a wand. She took a huge,
+theatrical breath to show Nini how it's done.
+
+
+=== PDF PAGE 53 ===
+ALIO
+SYSTEM: ONLINE
+ALIO
+LVL_INDEX: 53
+NINI
+Where?! Where is the lizard?! Dilo said if an
+Anger Lizard gets into your nose, it lays
+eggs in your brain!
+Oh no... Dilo didn't say how to get a lizard out
+of a brain! Do we need to use a vacuum
+cleaner?! Mammi, get the vacuum!
+Alio... The Lizard is NOT real. It's inside my
+HEAD. It's a feeling!
+SYSTEM LOG >> Alio dropped the net. He turned pale.
+SYSTEM LOG >> He started waving the net around Nini's head. 'Calm
+down, Nini! I'll catch it! Don't sneeze, or you'll shoot eggs everywhere!'
+Nini stopped crying for a second and looked at her brother with huge,
+wet eyes.
+
+
+=== PDF PAGE 54 ===
+ALIO
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 54
+LULI
+MIMI
+SYSTEM LOG >> Luli snorted laughter into her juice box.
+Oh. So I don't have to call the zoo?
+I'm blowing out the lizard! PHEW! Go away,
+reptile! Leave Nini alone!
+Alio, you are impossible. It's a metaphor. The
+Lizard (Amygdala) is the part of your brain
+that panics and fights. The Wizard (Prefrontal
+Cortex) is the smart part that solves
+problems. They are both in there.
+No. But they cannot both be awake at the
+same time. Right now, Nini's Lizard is
+screaming so loud that her Wizard is hiding in
+the basement. We have to breathe to wake
+the Wizard up. In... Out...
+
+
+=== PDF PAGE 55 ===
+SYSTEM: ONLINE
+LVL_INDEX: 55
+NINI
+MIMI
+NINI
+SYSTEM LOG >> Your inner Wizard is always there, waiting for a deep
+breath to wake him up.
+SYSTEM LOG >> They breathed together three times. Big, slow,
+swooshing breaths. Nini's shoulders dropped. Her fists opened. The red
+color faded from her cheeks. She took one last deep breath and
+blinked, looking at the necklace in her hand.
+Also... Alio looks like a space-chef.
+See? You can't fix a delicate knot with angry
+paws. You needed the Wizard's steady
+hands.
+It worked. My brain feels... cooler. Like
+someone opened a window. She touched the
+knot gently. A minute ago, the knot looked like
+a monster. Now it's just a string. My Wizard
+says we need a needle to fix it.
+
+
+=== PDF PAGE 56 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 56
+Attention crew! The Lizard is gone! I repeat,
+the Lizard is gone! Now serving victory
+cookies in the kitchen!
+
+
+=== PDF PAGE 57 ===
+// FILE: 013
+// FILE: 014
+// FILE: 015
+SYSTEM: ONLINE
+LVL_INDEX: 57
+THE NEURO-COACHING CONSOLE
+■■
+■■■
+ THE TOOL ('Box Breathing')
+The Science: How do you bring the Wizard back? By breathing slowly!
+Slow breaths send a signal to your brain saying: 'We are safe. Turn off
+the alarm.' 
+In The Story: Mimi and Alio breathed loudly ('In... Out...'). After three
+breaths, Nini said her brain felt 'cooler' and like 'someone opened a
+window.' That was the moment the Lizard went to sleep and the Wizard
+woke up.
+ THE GLITCH ('I have too much energy!')
+The Science: Sometimes the Lizard gives you TOO much energy to sit
+still. Your body wants to fight! If you feel 'hot and scratchy,' you need to
+shake the energy out first. 
+In The Story: At the beginning, Nini was doing a 'Dance of Rage'. That
+is actually good! If breathing is too hard, try 'The Wet Dog Shake', shake
+your hands and legs for 10 seconds to get the Lizard energy out!
+         THE BRAIN SECRET (Lizard vs. Wizard) 
+The Science: Your brain has two bosses. The 'Lizard' (Amygdala) handles
+danger and panic. The 'Wizard' (Prefrontal Cortex) handles thinking and
+solving puzzles. When the Lizard sees danger (or a knot!), he locks the
+Wizard in the basement. 
+In The Story: Luli explained that the Lizard isn't a real animal, but a part of
+the brain. When Nini got frustrated, her Lizard took over, and she couldn't
+'think' anymore.
+■
+
+
+=== PDF PAGE 58 ===
+XP REWARD
+Practice 'Box Breathing'
+■ FAMILY MISSION
+In The Story: The family breathed together,
+and then Alio announced 'Victory Cookies.'
+Your Turn:
+Tonight before bed. Draw a square in the
+air with your finger: Breathe In (4s) -> Hold
+(4s) -> Breathe Out (4s) -> Hold (4s).
+SYSTEM: ONLINE
+LVL_INDEX: 58
+QUEST
+■ TALK ABOUT IT 
+In The Story: Nini realized that when she
+was calm, the 'monster knot' turned back
+into 'just a string.' 
+Your Turn: What is your 'Lizard' feel like?
+(Hot face? Fast heart?) What helps you
+wake your Wizard up?
+
+
+=== PDF PAGE 59 ===
+SYSTEM: ONLINE
+LVL_INDEX: 59
+SECRET FAMILY CODE
+■
+■
+■
+SECRET CODE: “LIZARD ON THE CONTROLLER!”
+MEANING: My Lizard Brain has locked my Wizard in the basement
+and is smashing all the buttons! I am about to erupt, and I can't think
+straight.
+INITIATE OPERATION: Emergency Pause! Everyone stops talking
+and performs Wizard Breath together. Stay calm until the Wizard is
+back in charge.
+PLAYER MISSION - TRAIN YOUR CAPTAIN:
+If your parent says: 'Calm down right now, there is no reason to
+scream!',
+teach them to say: 'Your Lizard is driving! Let's shake out the mad
+energy and breathe to wake up your Wizard.'
+★
+// FILE: BRAIN_HACK
+■ TOP SECRET SCIENCE (For Big and Small Brains) 
+Why did Nini say her brain felt 'cooler'? When the Amygdala (Lizard) is
+active, your heart beats fast and your body temperature actually rises
+because it prepares to fight! When you breathe deeply, you lower your
+heart rate, and your body literally cools down. That 'cool' feeling is the
+physical proof that the Wizard is back in charge.
+
+
+=== PDF PAGE 60 ===
+SYSTEM: ONLINE
+MISSION OBJECTIVE
+LOADING MAP ASSETS... [COMPLETED]
+LVL_INDEX: 60
+LEVEL 6:
+Construction Noise
+KEY ACQUIRED: GRIT
+Understanding that feeling 'stupid' is actually just the sound of
+heavy machinery hacking a path through your Brain Jungle.
+
+
+=== PDF PAGE 61 ===
+ALIO
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 61
+CONSTRUCTION NOISE
+SYSTEM LOG >> Mimi dropped the laundry basket on Dilo, who was
+sneaking in with a carrot.
+SYSTEM LOG >> Saturday morning. The tower crashed. Again. Alio
+kicked the blocks across the room. A red square landed with a plop in
+the cat's water bowl. The cat looked highly offended and left the room.
+SYSTEM LOG >> Mimi burst into the room, holding a basket of laundry.
+She set it down heavily and pressed her hands flat against her thighs to
+ground herself before dealing with the chaos. 'Pause! Who is
+screaming? Alio, stop destroying the floor! Why are you acting like a
+tornado?'
+Because my brain hurts! I'm trying to build the
+Super-Helix, but my hands won't listen to my
+brain!
+I QUIT! I'm too stupid! This tower hates me!
+Physics is a bully!
+
+
+=== PDF PAGE 62 ===
+DILO
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 62
+MIMI
+Pull it out! Pull it out! Mammi! It's hissing!
+It's true. I see a tail. It's sticking out of your
+left ear. Oh, wait, it's wiggling.
+Dilo, stay. Alio, listen. Your brain hurts
+because you are in a Jungle.
+SYSTEM LOG >> Luli, lying on the rug, didn't look up from her book.
+SYSTEM LOG >> Alio froze, holding a blue block like a weapon. 'A
+jungle? A... are there snakes? Dilo said if I think too hard, a brain-
+snake will crawl out of my ear!'
+Dilo peeked out from under a pair of pants, crunching his carrot.
+
+
+=== PDF PAGE 63 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 63
+LULI
+MIMI
+MIMI
+So... I'm not broken?
+Alio, relax. That's Mammi spraying air
+freshener because Dilo took his shoes off.
+And honestly, the snake smells better than
+Dilo's feet.
+Alio, look at me. There are no snakes. But
+your brain IS a jungle full of thick vines.
+When you try something new (like this
+tower), you have to hack a path through
+the vines. It is heavy work. It makes you
+sweat. It makes your head feel tight. That
+feeling 
+isn't 
+'stupid'. 
+That 
+feeling 
+is
+Construction Noise.
+No. You are just holding a heavy machete.
+The first time you walk the path, it's hard.
+The tenth time, the vines are gone and it's
+a highway. But you have to hack the vines
+first.
+
+
+=== PDF PAGE 64 ===
+ALIO
+SYSTEM: ONLINE
+// FILE: SYSTEM NOTE
+LVL_INDEX: 64
+MIMI
+Smart. Sleep helps
+road.
+Okay. I will hack the vines. But... I think I
+need a nap first. The machete is heavy.
+the workers pave the
+SYSTEM LOG >> Alio picked up his winter hat and pulled it over his
+ears. 'I'm sleeping in this. Just in case Dilo was 1% right about the
+snakes.'
+REMEMBER: Struggle and frustration are not failure. They are simply
+ the noise of heavy construction machinery in your head.
+
+
+=== PDF PAGE 65 ===
+// FILE: 016
+// FILE: 017
+// FILE: 018
+SYSTEM: ONLINE
+LVL_INDEX: 65
+THE NEURO-COACHING CONSOLE
+■■
+■■■
+ THE TOOL ('The Power of YET')
+The Science: When you say 'I can't,' your brain stops releasing chemicals
+needed for learning. It gives up. When you add 'YET,' your brain stays
+open and keeps looking for a solution. 
+In The Story: Alio shouted 'I'm too stupid!' (Fixed Mindset). He should
+have said: 'I haven't figured out the Super-Helix YET.' That means the
+road is under construction, not closed!
+         THE BRAIN SECRET (Brain Roads) 
+The Science: This is Neuroplasticity. Your brain is full of neurons that
+want to hold hands. When you learn something hard, they have to stretch
+and connect through a 'thick jungle.' This uses a ton of energy (sugar and
+oxygen), which is why you feel tired or frustrated!
+In The Story: Alio yelled that his brain 'hurts' and feels 'fuzzy.' Mimi
+explained this is normal because he is 'hacking vines' (making new
+connections) in the jungle.
+ THE GLITCH ('Save The File')
+The Science: If you try and try and still can't do it, stop! Your brain needs
+sleep to 'glue' the new connections together. This is called Consolidation.
+In The Story: Alio decided to take a nap because 'the machete is heavy.'
+This was actually brilliant! While he sleeps (even in his winter hat), his
+brain will turn that rough jungle path into a smoother road for tomorrow.
+■
+
+
+=== PDF PAGE 66 ===
+SYSTEM: ONLINE
+// FILE: BRAIN_HACK
+LVL_INDEX: 66
+QUEST
+XP REWARD
+■ TALK ABOUT IT 
+In The Story: Alio felt frustrated by the
+'bully physics.' 
+Your Turn: What is something that used to
+be a 'Jungle' for you but is now a
+'Highway'? (Walking? Reading? Brushing
+teeth?) What feels like a Jungle right now?
+■ FAMILY MISSION 
+In The Story: Alio realized the struggle
+was just 'Construction Noise.' 
+Your Turn: Pick one hard thing today.
+When you feel frustrated, say to yourself:
+'Excuse me, I am hacking vines right now!'
+■ TOP SECRET SCIENCE (For Big and Small Brains) 
+Why is frustration so painful? The brain consumes 20% of the body's
+energy. Creating new synaptic pathways (learning) is metabolically
+expensive. That feeling of 'brain hurt' or anger is literally your brain burning
+fuel rapidly to build infrastructure. It's not a sign of inability; it's a sign of
+high-intensity effort. It's 'mental sweating'.
+
+
+=== PDF PAGE 67 ===
+SYSTEM: ONLINE
+LVL_INDEX: 67
+SECRET FAMILY CODE
+■
+■
+■
+SECRET CODE: “BRAIN UNDER CONSTRUCTION!”
+MEANING: Frustration is just the sound of heavy machinery. The brain
+is literally building new roads, and it's loud and messy.
+INITIATE OPERATION: Respect the Construction Site. Give the
+worker some space. A short break or a snack helps the 'brain pavers'
+finish the road faster.
+PLAYER MISSION - TRAIN YOUR CAPTAIN: 
+If your parent says: 'Don't say you are stupid, just try harder!',
+teach them to say: 'I hear Construction Noise! You are just hacking
+vines right now. You just haven't figured it out YET.'
+★
+
+
+=== PDF PAGE 68 ===
+SYSTEM: ONLINE
+MISSION OBJECTIVE
+LOADING MAP ASSETS... [COMPLETED]
+LVL_INDEX: 68
+LEVEL 7:
+The Bankrupt Plant
+KEY ACQUIRED: FRIENDSHIP
+Learning that friends prefer water and attention over cold, hard
+cash.
+
+
+=== PDF PAGE 69 ===
+SYSTEM: ONLINE
+LVL_INDEX: 69
+NINI
+MIMI
+NINI
+THE BANKRUPT PLANT
+SYSTEM LOG >> Mimi walked in and touched the dry soil.
+SYSTEM LOG >> Saturday afternoon. Nini was crying over a dry,
+brown plant named Barnaby. It was a messy day, and Mimi was doing
+her tactical shoulder-taps to stay calm in the chaos.
+I... I forgot the water. I was busy drawing him
+a portrait.
+Nini, did you water him? Or did you just sing
+songs to him?
+'I'm bankrupt!' she wailed. 'Barnaby is
+crunchy! He was my best friend, but now he
+looks like a stick!'
+
+
+=== PDF PAGE 70 ===
+DILO
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 70
+MIMI
+Don't worry, Nini! I can save him! Eat
+money, Barnaby! Be rich and happy!
+Actually, Barnaby told me he prefers pizza. I
+will take this coin and buy him a slice. I'll eat
+it for him. It's a spiritual transfer.
+the
+Friendship isn't about portraits, Nini. It's like a
+Piggy Bank. Every time you listen or help, you
+put a coin IN (Deposit). Every time you ignore
+a friend, you take a coin OUT (Withdrawal).
+Barnaby is empty.
+SYSTEM LOG >> Suddenly, Alio marched into the room, shaking his
+plastic piggy bank. Clink, clink.
+SYSTEM LOG >> Alio tried to shove a shiny coin into the plant's pot.
+Dilo swooped in from the hallway like a hawk.
+
+
+=== PDF PAGE 71 ===
+DILO
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 71
+MIMI
+Fine. No spiritual pizza. You guys have no
+vision.
+Phew! Thanks, Mammi! I really need this. I'm
+saving for a helicopter to escape the mutant
+ants from the sidewalk. Do you think Barnaby
+can fly a helicopter too? Or should I buy him
+a tiny parachute?
+Dilo! Give it back! You cannot steal
+plant's charity fund!
+from a
+SYSTEM LOG >> 
+SYSTEM LOG >> 
+Dilo grumbled, rolling his eyes.
+Nini wiped her eyes and hugged Alio.
+SYSTEM LOG >> He tossed the coin back. Alio caught it and clutched
+it tight to his chest.
+
+
+=== PDF PAGE 72 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 72
+NINI
+Quick! Operation: Water Bomb!
+Alio, you are the weirdest, sweetest brother.
+Barnaby doesn't need a parachute. He
+needs a drink.
+SYSTEM LOG >> Together, they grabbed the watering can. Water
+spilled everywhere. Barnaby didn't turn gold, but he stood a little
+straighter. True friendship is made of small deposits of kindness (and
+water), not gold coins.
+
+
+=== PDF PAGE 73 ===
+// FILE: 019
+// FILE: 020
+// FILE: 021
+SYSTEM: ONLINE
+LVL_INDEX: 73
+THE NEURO-COACHING CONSOLE
+■■
+■■■
+       THE BRAIN SECRET (The Magic Ratio) 
+The Science: Friendships aren't built on big parties. They are built on tiny
+moments. Scientists found a 'Magic Number': It takes 5 nice things to fix 1
+mean thing. Negativity is heavy!
+In The Story: Nini drew a portrait (nice), but she forgot to water Barnaby
+for days (mean/neglect). The 'Withdrawals' were bigger than the 'Deposits,'
+so the friendship dried up.
+ THE GLITCH ('My friend is mean to me')
+The Science: Sometimes a friend snaps. Maybe their internal Piggy Bank
+is empty because they are tired or hungry. Be patient. 
+In The Story: If Barnaby doesn't grow leaves tomorrow, it doesn't mean
+he hates Nini. It just means he needs time to refill his tank. Be patient with
+friends who are 'running on empty.'
+ THE TOOL ('The Question Ball')
+The Science: Conversation is like a game of catch. If you hold the ball
+(talk only about yourself), the game stops. You have to throw it back!
+In The Story: Nini was busy 'singing and drawing' (doing her own thing)
+instead of looking at what Barnaby actually needed. To be a good
+friend, you have to ask: 'What do YOU need right now?'
+■
+
+
+=== PDF PAGE 74 ===
+SYSTEM: ONLINE
+// FILE: BRAIN_HACK
+LVL_INDEX: 74
+QUEST
+XP REWARD
+■ TALK ABOUT IT 
+In The Story: Alio tried to make a deposit
+with money, but Nini explained that
+time/care is better. 
+Your Turn: Have you put a coin IN or
+taken a coin OUT of a friend's bank today?
+Who is a friend that always makes you feel
+'rich'?
+■ FAMILY MISSION
+In The Story: Alio and Nini worked
+together to water the plant. 
+Your Turn: Make 3 'Deposits' today 
+(A hug, a compliment, or helping without
+being asked). Watch how the mood in the
+house changes!
+■ TOP SECRET SCIENCE (For Big and Small Brains)
+Did you know that ignoring someone hurts the brain just like a pinched
+finger? Scientists found that 'social pain' (feeling lonely or ignored) lights
+up the same part of the brain as physical pain. That is why Nini felt so bad
+about forgetting Barnaby, and why putting 'deposits' of attention makes us
+feel physically good!
+
+
+=== PDF PAGE 75 ===
+SYSTEM: ONLINE
+LVL_INDEX: 75
+SECRET FAMILY CODE
+■
+■
+■
+SECRET CODE: “MAKING A DEPOSIT”
+MEANING: I am going to do one small, kind thing (a hug, sharing a
+toy) to fill up someone's emotional bank.
+INITIATE OPERATION: Ask the other person: 'What do you need right
+now?'
+PLAYER MISSION - TRAIN YOUR CAPTAIN: 
+If your parent says: 'Why are you fighting with your sister again?',
+teach them to say: 'It looks like the Emotional Bank is empty! Let's
+make a deposit.'
+★
+
+
+=== PDF PAGE 76 ===
+SYSTEM: ONLINE
+MISSION OBJECTIVE
+LOADING MAP ASSETS... [COMPLETED]
+LVL_INDEX: 76
+LEVEL 8:
+The Muddy Ferrari
+KEY ACQUIRED: SELF-CARE
+Washing your face is actually high-performance car
+maintenance.
+
+
+=== PDF PAGE 77 ===
+ALIO
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 77
+LULI
+THE MUDDY FERRARI
+SYSTEM LOG >> 
+her book.
+Luli wrinkled her nose and didn't even look up from
+SYSTEM LOG >> Sunday afternoon. Alio walked into the living room,
+looking like a swamp monster made of mud and orange snack dust.
+He left a trail of dirty footprints across Mimi's clean floor.
+You smell
+cheese.
+I'm not washing! It's my tactical camouflage!
+But Dilo said that dirt creates a protective
+shield against aliens. He said aliens only
+kidnap clean children because they smell like
+soap, and soap is a delicacy in their galaxy.
+like a wet dog that 
+rolled in old
+
+
+=== PDF PAGE 78 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 78
+LULI
+MIMI
+SYSTEM LOG >> Luli finally looked up.
+SYSTEM LOG >> Mimi walked in, holding a laundry basket. She
+grabbed Alio by the arm, holding him at a safe distance (because of the
+smell). She took a sharp breath through her nose, counting to three
+before speaking.
+So... if I wash, the aliens will eat me! I don't
+want to be a snack, Mammi!
+Dilo... your creativity in inventing nonsense is
+Nobel-worthy.
+Alio. Aliens don't eat soap. Dilo smells like a
+gym locker that hasn't been opened in ten
+years, that's why he says that. He just
+doesn't want to shower.
+
+
+=== PDF PAGE 79 ===
+ALIO
+SYSTEM: ONLINE
+DILO
+LVL_INDEX: 79
+MIMI
+MIMI
+Hey! I'm cultivating a natural microbiome!
+Promise? Do you have a license to fight
+aliens if they come for my clean skin?
+I have a 'Mammi License'. That
+rank than a General.
+Go to the bath. Listen to me: Your body is the
+only vehicle you get for life. If you treat it like a
+Ferrari - wash it, fuel it, rest it - it wins races. If
+you treat it like a trash can, it runs like a trash
+can.
+is a higher
+SYSTEM LOG >> Alio looked at the car poster on Dilo's wall, then at
+his own dirty hands.
+
+
+=== PDF PAGE 80 ===
+SYSTEM: ONLINE
+ALIO
+// FILE: SYSTEM NOTE
+LVL_INDEX: 80
+Okay. I'll risk it. But if they kidnap me, Dilo
+has to do my chores forever.
+SYSTEM NOTE: Soap is not a punishment, it's Ferrari maintenance.
+
+
+=== PDF PAGE 81 ===
+// FILE: 022
+// FILE: 023
+// FILE: 024
+SYSTEM: ONLINE
+LVL_INDEX: 81
+THE NEURO-COACHING CONSOLE
+■■
+■■■
+ THE TOOL ('The Power Pose')
+The Science: Your body language changes your brain chemistry. If you
+act brave with your body, your brain starts to feel brave.
+In The Story: Alio was slumping and hiding. Try this: Stand like a
+Superhero (hands on hips, chest out, chin up) for 2 minutes. It lowers
+stress and boosts confidence!
+       THE BRAIN SECRET (The Superhero Suit) 
+The Science: This is called 'Enclothed Cognition.' When you are clean
+and dressed in fresh clothes, your brain actually thinks sharper! Taking
+care of your body sends a secret text message to your brain saying: 
+'I matter. I am important.' 
+In The Story: Alio wanted to stay dirty (Trash Can Mode), but Mimi
+explained that to 'win races' in life, you have to treat your body like 
+a Ferrari. A shiny car drives better!
+ THE GLITCH ('I feel lazy and gross')
+The Science: When you feel tired and grumpy, your nervous system is
+overheated. You need a reset button. 
+In The Story: If Alio is too tired to wash, he can use the 'Seal Trick.'
+Splash cold water on your face. This triggers an ancient reflex (The Dive
+Reflex) that instantly slows your heart and wakes up your brain.
+■
+
+
+=== PDF PAGE 82 ===
+SYSTEM: ONLINE
+// FILE: BRAIN_HACK
+LVL_INDEX: 82
+QUEST
+XP REWARD
+■ TALK ABOUT IT 
+In The Story: Dilo claimed he was
+'cultivating a microbiome' (gross!). 
+Your Turn: Are you treating your body like
+a Treasure or a Trash Can today? What
+makes you feel 'shiny' and ready?
+■ FAMILY MISSION
+In The Story: Alio went to perform 'Ferrari
+Maintenance.' 
+Your Turn: Treat yourself like a VIP guest
+tonight. Fresh pajamas, brushed teeth,
+clean face. Notice if you sleep better!
+■ TOP SECRET SCIENCE (For Big and Small Brains)
+Why does cold water work? Humans have a secret superpower called the
+Mammalian Dive Reflex. When cold water hits your nose and cheeks, your
+brain thinks you are diving underwater. It instantly slows down your
+heartbeat to save oxygen and calms you down. It is the fastest way to stop
+a panic attack or wake up from a slump!
+
+
+=== PDF PAGE 83 ===
+SYSTEM: ONLINE
+LVL_INDEX: 83
+SECRET FAMILY CODE
+■
+■
+■
+SECRET CODE: “FERRARI MAINTENANCE”
+MEANING: I am taking care of my body (washing, sleeping) because it
+is the only vehicle I have for this game of life.
+INITIATE OPERATION: Go wash or rest without complaining. Your
+brain will thank you.
+PLAYER MISSION - TRAIN YOUR CAPTAIN:
+If your parent says: 'You are filthy, get in the bath right now!',
+teach them to say: ‘Your hardware needs a wash. Time for Ferrari
+Maintenance to reset your system and boost your processing speed.’
+★
+
+
+=== PDF PAGE 84 ===
+SYSTEM: ONLINE
+MISSION OBJECTIVE
+LOADING MAP ASSETS... [COMPLETED]
+LVL_INDEX: 84
+LEVEL 9:
+The Broccoli Fortress
+KEY ACQUIRED: FUEL
+Building a mood out of Bricks so the Wolf can't blow your house
+down.
+
+
+=== PDF PAGE 85 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 85
+MIMI
+THE BROCCOLI FORTRESS
+SYSTEM LOG >> Alio looked at the vegetable soup suspiciously.
+SYSTEM LOG >> Sunday dinner. 'Cake is dinner!' fought Alio, guarding
+his plate with a fork like a knight. 'It has eggs! It's basically a sweet
+omelet!'
+Mimi sighed, sitting down next to him. She squeezed her own hands
+together to shake off the frustration of cooking for an hour just to
+argue about cake.
+I don't trust the green things. Dilo said the
+government puts microchips in broccoli to
+control our dreams and make us do math in our
+sleep. It really looks suspicious. Maybe it's
+listening to us?!
+Alio, your stomach talks to your brain. Cake is
+'Straw'. It burns fast - whoosh - and leaves you
+tired and grumpy. Vegetables and protein are
+'Bricks'. If you build your mood out of Straw,
+the Wolf of Grumpiness will blow your house
+down before bedtime.
+
+
+=== PDF PAGE 86 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 86
+MIMI
+NINI
+SYSTEM LOG >> Mimi closed her eyes and took a deep breath
+(waking her Wizard).
+SYSTEM LOG >> Alio seems not convinced, still poking a broccoli
+floret. Suddenly, Nini sprinkled some edible glitter on the table.
+Seriously? I'll see through walls? And see
+what Dilo hides under his bed?
+Alio. Dilo has watched too many movies.
+Broccoli are little trees of power. No chips.
+Just vitamins.
+Alio, don't you know? Broccoli is magical! It
+doesn't have chips... it has X-Ray Fuel. If
+you eat it, you will have super-vision!
+
+
+=== PDF PAGE 87 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 87
+NINI
+MIMI
+Can I have a little bit of Straw for the roof?
+Every fortress needs a decoration.
+Of course! But you need at least three trees
+to activate the power.
+Yes. A strong house can handle a little bit of
+straw on top. But the walls must be brick.
+SYSTEM LOG >> 
+SYSTEM LOG >> Luli shook her head.
+Mimi smiled and put a small cookie next to his soup.
+SYSTEM LOG >> Alio immediately stuffed the broccoli into his mouth.
+Crunch, crunch. 'I'm eating Bricks! I'm building a Fortress! Dilo,
+beware, X-Ray Alio is coming for your secrets!'
+
+
+=== PDF PAGE 88 ===
+SYSTEM: ONLINE
+// FILE: SYSTEM NOTE
+LVL_INDEX: 88
+LULI
+Alio's naivety is the only way to get him to eat
+vegetables. Genius strategy, Nini.
+SYSTEM NOTE: Build your body with bricks so your house is strong
+enough to weather any storm.
+
+
+=== PDF PAGE 89 ===
+// FILE: 025
+// FILE: 026
+// FILE: 027
+SYSTEM: ONLINE
+LVL_INDEX: 89
+THE NEURO-COACHING CONSOLE
+■■
+■■■
+ THE TOOL ('The Colour Game')
+The Science: Your brain needs different materials to build thoughts.
+In The Story: Alio ate 'Green Trees' (Broccoli). Try this challenge: Eat 3
+different colors at dinner. (Warning: Beige, French Fries, and Bread do not
+count as colors!)
+ THE GLITCH ('I am HANGRY!')
+The Science: Hangry = Hungry + Angry. This happens when your blood
+sugar crashes. Your Brain Wizard goes to sleep because he has no fuel.
+In The Story: If Alio only ate cake, he would be energetic for 10 minutes
+and then furious (The Wolf of Grumpiness). Fix: Never argue on an
+empty stomach. Eat a 'Brick' (nuts, cheese, fruit) first!
+      THE BRAIN SECRET (The Happy Juice) 
+The Science: Did you know 90% of your Serotonin (The Happy Juice) is
+made in your tummy, not your head? What you eat literally becomes your
+feelings. Food is Mood!
+In The Story: Mimi explained that cake (sugar) burns fast like straw,
+leaving you grumpy. Vegetables and protein (Bricks) give you steady
+power to be happy and strong.
+■
+
+
+=== PDF PAGE 90 ===
+SYSTEM: ONLINE
+// FILE: BRAIN_HACK
+LVL_INDEX: 90
+QUEST
+XP REWARD
+■ TALK ABOUT IT 
+In The Story: Alio wanted to build a
+'Fortress' to spy on Dilo. 
+Your Turn: Are you building your body
+with Straw or Bricks today? How do you
+feel after eating too much sugar? (Jumpy?
+Then tired?)
+■ FAMILY MISSION 
+In The Story: Nini used imagination to
+make food fun. 
+Your Turn: Look at your dinner plate.
+Point to the 'Bricks' (Protein/Veg) and the
+'Straw' (Carbs/Sugar). Make sure your
+house is strong!
+■ TOP SECRET SCIENCE (For Big and Small Brains) 
+Why does sugar make me grumpy? Sugar gives you a huge spike of
+energy (The Zoomies!), but then your blood sugar falls down a steep
+cliff. That fall triggers stress hormones like cortisol. That is why you feel
+cranky 30 minutes after a candy bar. Protein (Bricks) releases energy
+slowly, like a log burning on a fire, keeping you warm and happy for
+hours.
+
+
+=== PDF PAGE 91 ===
+SYSTEM: ONLINE
+LVL_INDEX: 91
+SECRET FAMILY CODE
+■
+■
+■
+SECRET CODE: “BUILDING WITH BRICKS”
+MEANING: I am eating healthy protein or vegetables to build a strong
+mood that won't crash later.
+INITIATE OPERATION: Eat 3 Bricks (healthy foods) before asking for
+Straw (sweets).
+PLAYER MISSION - TRAIN YOUR CAPTAIN: 
+If your parent says: 'Eat your vegetables or you get no dessert!', 
+teach them to say: 'Let's fortify your base! How many Bricks are we
+laying down for solid stats before we add the Straw roof?’
+★
+
+
+=== PDF PAGE 92 ===
+SYSTEM: ONLINE
+MISSION OBJECTIVE
+LOADING MAP ASSETS... [COMPLETED]
+LVL_INDEX: 92
+LEVEL 10:
+The Energy Vampire
+KEY ACQUIRED: ENERGY
+Defeating the Energy Vampire by eating a metaphorical ugly
+frog.
+
+
+=== PDF PAGE 93 ===
+DILO
+SYSTEM: ONLINE
+LVL_INDEX: 93
+MIMI
+THE ENERGY VAMPIRE
+SYSTEM LOG >> Meanwhile, Luli was calmly eating an apple in the
+eye of the storm. She pointed under the kitchen table.
+SYSTEM LOG >> Mimi was standing in the middle of the room, holding
+a real sock. She rubbed her forehead, trying to find her own Wizard in
+the mess.
+SYSTEM LOG >> It was 20:00. The Sunday Panic. Dilo ran aimlessly
+in circles, clutching his head. The entire weekend was gone.
+No time! Battery 5%! I have math, geography,
+and I promised to clean my room! Why is the
+weekend only 4 minutes long?!
+Dilo, stop running! You spent 4 hours
+organizing digital socks, but your real socks
+are on the floor!
+
+
+=== PDF PAGE 94 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 94
+LULI
+MIMI
+Alio?
+Shhh! Dilo said the Energy Vampire comes at
+20:00. He sucks the juice right out of the top
+of your head! I don't want to be a dead
+battery! I want to keep my juice!
+Um, Mammi? Why is Alio wearing his bicycle
+helmet inside?
+SYSTEM LOG >> Mimi sighed, pulling Alio out by his foot.
+SYSTEM LOG >> Mimi lifted the tablecloth. Alio was curled up in a ball,
+helmet strapped tight, holding a flashlight.
+
+
+=== PDF PAGE 95 ===
+ALIO
+SYSTEM: ONLINE
+LVL_INDEX: 95
+MIMI
+MIMI
+LULI
+Brain Drain? Is that a monster with fangs?
+Alio, take off the helmet. Dilo is talking
+nonsense. But... he is right about the
+Vampire. The Vampire is called Brain Drain.
+Next time, you have to Eat the Frog in the
+morning.
+It's when you worry. Dilo started the day with
+100% Battery. But every time he looked at
+his homework and said 'Not now,' it cost him
+10% energy. He wasted his whole battery
+worrying about the work, not doing it. Now he
+has to fight the Boss Level with only 5%
+power.
+
+
+=== PDF PAGE 96 ===
+ALIO
+SYSTEM: ONLINE
+ALIO
+// FILE: SYSTEM_TIPS
+LVL_INDEX: 96
+LULI
+A FROG?! A real, green, slimy frog?! I have
+to eat it for breakfast?! NOOOO!
+Aaa. That makes sense. Homework is
+disgusting like frogs. I would rather eat the
+frog than let the Vampire steal my juice.
+A metaphorical frog, you nugget! The Frog is
+the hard task. Like math. Or cleaning.
+SYSTEM LOG >> He tried to put his helmet back on.
+SYSTEM TIP: Do the hard thing in the morning, and you will save your
+energy (and you won't need a helmet).
+
+
+=== PDF PAGE 97 ===
+// FILE: 028
+// FILE: 029
+// FILE: 030
+SYSTEM: ONLINE
+LVL_INDEX: 97
+THE NEURO-COACHING CONSOLE
+■■
+■■■ THE GLITCH ('I'm too tired to start')
+The Science: Your brain tries to 'save energy' by keeping you on the
+couch. You have to trick it. 
+In The Story: Dilo was running in circles, panicked. He needed the
+'Rocket Launch': Count backwards 5-4-3-2-1... GO! and just move
+your body. Don't think, just launch.
+         THE BRAIN SECRET (Brain Drain) 
+The Science: You have a limited amount of 'Willpower Fuel' each day.
+Scientists call this Decision Fatigue. Every time you look at a task and
+decide not to do it, you burn fuel. 
+In The Story: Dilo spent all day playing games and avoiding his chores.
+By 20:00, he hadn't done the work, but he was exhausted anyway! Why?
+Because 'avoiding' takes as much energy as 'doing.'
+ THE TOOL ('Eat The Frog')
+The Science: Your brain is freshest in the morning. If you do the hardest,
+ugliest task first ('Eating the Frog'), your brain releases Dopamine (relief!).
+The rest of the day feels easy because you aren't carrying a heavy frog in
+your pocket. 
+In The Story: If Dilo had done his math (The Frog) at 10:00 AM, he would
+have had 100% battery for his digital socks later.
+■
+
+
+=== PDF PAGE 98 ===
+SYSTEM: ONLINE
+// FILE: BRAIN_HACK
+LVL_INDEX: 98
+QUEST
+XP REWARD
+■ TALK ABOUT IT
+In The Story: Alio was scared of the
+'Vampire' (Panic). 
+Your Turn: What is your 'Frog' for
+tomorrow? (Homework? Cleaning a cage?
+Writing a thank-you card?) What sucks
+your battery the most?
+■ FAMILY MISSION 
+In The Story: Mimi identified the 'Real
+Socks' vs. 'Digital Socks' problem. 
+Your Turn: Tomorrow morning, do your
+'Frog' task immediately. Notice how light
+and free you feel afterwards!
+■ TOP SECRET SCIENCE (For Big and Small Brains) 
+Why does avoiding work make me tired? Because your brain runs 
+a 'background app' called Worry. Even when you are playing a game, 
+if you know you have homework, that background app is draining 
+your battery (Decision Fatigue). Doing the task closes the app and 
+stops the drain.
+
+
+=== PDF PAGE 99 ===
+SYSTEM: ONLINE
+LVL_INDEX: 99
+■
+■
+■
+SECRET FAMILY CODE
+SECRET CODE: “EATING THE FROG”
+MEANING: I am doing the hardest, most annoying chore right now so I
+can enjoy the rest of my day without worrying.
+INITIATE OPERATION: Pick the worst task. Count 5-4-3-2-1 and just
+do it! No complaining.
+PLAYER MISSION - TRAIN YOUR CAPTAIN: 
+If your parent says: 'Why did you wait until Sunday night to do this?!',
+teach them to say: 'The Brain Drain got you! Next weekend, we will
+Eat the Frog on Saturday morning!'
+★
+
+
+=== PDF PAGE 100 ===
+SYSTEM: ONLINE
+LVL_INDEX: 100
+ 
+DILO
+NINI
+LULI
+ALIO
+MISSION ACCOMPLISHED!
+FINAL_RANK_CONFIRMED
+
+
+=== PDF PAGE 101 ===
+SYSTEM: ONLINE
+LVL_INDEX: 101
+ 
+DILO
+NINI
+LULI
+ALIO
+ENDGAME PROTOCOL
+SYSTEM_HANDOVER_COMPLETE
+
+
+=== PDF PAGE 102 ===
+SYSTEM: ONLINE
+LVL_INDEX: 102
+ 
+ULTIMATE LOADOUT: KEYS & FAMILY CODES
+
+
+=== PDF PAGE 103 ===
+ 
+DILO
+NINI
+LULI
+ALIO
+CUT-OUT
+ULTIMATE LOADOUT: KEYS & FAMILY CODES
+SYSTEM: ONLINE
+LVL_INDEX: 103
+
+
+=== PDF PAGE 104 ===
+SYSTEM: ONLINE
+LVL_INDEX: 104
+CREATE YOUR OWN SECRET CODE
+OUR SECRET FAMILY CODE
+■INITIATE OPERATION: 
+MEANING:
+■
+SECRET CODE: 
+■
+Cut this out and hang it on your fridge
+with the Cheat Sheet facing forward, 
+keeping your newly invented Family Code
+ pressed safely against the door to hide it from
+ enemy spies, aliens, and mutant ants!
+
+
+=== PDF PAGE 105 ===
+SYSTEM: ONLINE
+LVL_INDEX: 105
+DILO
+ALIO
+NINI
+MIMI
+LULI
+Too Serious? 'Eat broccoli for
+super-vision.'
+Sad? 'I'm here to refill your bucket.'
+Chaotic? 'Pause. Find escape key in a
+book.'
+Scared or Angry? 'Breathe. Wake up your
+Wizard.'
+Mistake? 'Relax, it's just Lag. Farming XP.'
+NEVER FIGHT SOLO
+SQUAD_LINK_ESTABLISHED
+
+
+=== PDF PAGE 106 ===
+SYSTEM: ONLINE
+LVL_INDEX: 106
+ 
+REMEMBER: YOU ARE THE CONTROLLER. Glitches are
+temporary. Your superpowers are permanent.
+DEVELOPER NOTES
+SECRET_MESSAGE_DECRYPTED
+FINAL MSG
+DEV
+DEV
+You are brave. You are important. 
+You are enough. 
+Now, go out there and show the world 
+your upgrades. 
+Good luck, Mindset Master!
+This book gave you the cheat codes. 
+But YOU are the Player holding the controller.
+This is your life and your adventure. 
+You have everything you need to win the day.
+GAME STATUS: INFINITE MODE ON. 
+And watch out for mutant ants. 
+Just in case Dilo was right.
+
+
+=== PDF PAGE 107 ===
+SYSTEM: ONLINE
+LVL_INDEX: 107
+OFFICIAL CERTIFICATE
+SIGNED BY THE SUPPORT SQUAD:
+Alio, Dilo, Nini, Luli, Mimi
+YOU HAVE UNLOCKED THE RANK OF:
+BRAVE BRAIN MASTER
+REMEMBER: YOU ARE THE CONTROLLER. 
+Glitches are temporary. 
+Your superpowers are permanent.
+AWARDED TO PLAYER:
+ 
+.........................................
+OFFICIAL
+CERTIFIED
+
+
+=== PDF PAGE 108 ===
+SYSTEM: ONLINE
+LVL_INDEX: 108
+BONUS LEVEL UNLOCKED!
+ACCESS_THE_HUB_v.1.0
+RISE. SHINE. EVOLVE. REPEAT !
+ SCAN TO WARP TO THE HUB
+BONUS LEVEL UNLOCKED!
+ACCESS_THE_HUB_v.1.0
+You have mastered the skills. You have collected the keys. 
+Now, welcome to the Rise Shine Evolve Learning Hub.
+RISE. SHINE. EVOLVE. REPEAT! 
+Now it’s your turn! 
+Head to our online HQ and unlock the GIFTS section. 
+Create your official Family Motto there in seconds. 
+But that’s not all! 
+Get ready to unlock even more power-ups and secret gifts!
+Every superhero squad needs a code to live by. 
+The Happy Makers Family lives by: 

@@ -1,0 +1,2019 @@
+{
+  "review_type": "Independent whole-candidate developmental and detective-logic review",
+  "status": "KEEP",
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "run_sha256": "a5e5fec3aad490b2177cf40a1cba1190bfd1790082ce788ea99b3daa74cab8f6",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "scope": "Actual canonical final candidate read as complete narrative/frontmatter/instructions/case bridges pp1–147, all original53 editorial deltas and subsequent actual narrow changes, plus current backmatter delta. Earlier full-source225 and completev10 review supplemented by direct opening/evidence visual recovery. No summary-only review.",
+  "counts": {
+    "segments": 3067,
+    "actual_changed_units": 91,
+    "changed_pages": 44,
+    "final_ledger_entries": 58,
+    "protected_units": 2367,
+    "protected_drift": 0
+  },
+  "final_delta_review": {
+    "status": "KEEP",
+    "id": "page122.block03",
+    "review": "Actual final reads listed on the next page; p123 contains exact selected14. Only directional reference changed; no extraction fact changed."
+  },
+  "critical_repairs": [
+    {
+      "page": 6,
+      "status": "KEEP",
+      "finding": "Five field detectives plus one archive mentor now matches roles, five existing badges and later sixth field place."
+    },
+    {
+      "page": 9,
+      "status": "KEEP",
+      "finding": "Five badges and empty hook06 seeded before finale; source-attested v10 beat restores fair callback."
+    },
+    {
+      "page": 22,
+      "status": "KEEP",
+      "finding": "Ten differences now establish complete comparison and record provenance; no numerological why-ten question."
+    },
+    {
+      "page": 27,
+      "status": "KEEP",
+      "finding": "Photo file captions acknowledged; does not pretend reader discovered already printed provenance. No retired triangle/tread differences restored."
+    },
+    {
+      "page": 34,
+      "status": "KEEP",
+      "finding": "Printer remains available; no missing restart before p98 cough."
+    },
+    {
+      "page": 48,
+      "status": "KEEP",
+      "finding": "Bibi explicitly waits for reader classification; no pre-certified true set."
+    },
+    {
+      "page": 60,
+      "status": "KEEP",
+      "finding": "Room companion is a grounded next contact, not the only conceivable teacher of the parrot."
+    },
+    {
+      "page": 80,
+      "status": "KEEP",
+      "finding": "Exact RULE0FIRST message now present before p81 copy instruction and p82 recurrence."
+    },
+    {
+      "page": 86,
+      "status": "KEEP",
+      "finding": "Apparent timeline mismatch no longer presented as proved convenient alibi; 0:07 remains unproved until clock correction."
+    },
+    {
+      "page": 91,
+      "status": "KEEP",
+      "finding": "Final Dilo response now After the scanner, then; answers revised Nini line coherently."
+    },
+    {
+      "page": 94,
+      "status": "KEEP",
+      "finding": "All-position retention framed as continuing rule, preserving fourteen-map dependency."
+    },
+    {
+      "page": 102,
+      "status": "KEEP",
+      "finding": "Nini asks Empty what instead of predicting incomplete future map set; Dilo helps with sleeve."
+    },
+    {
+      "page": 104,
+      "status": "KEEP",
+      "finding": "Repeated waiting removed; final says the shelves, so no invented count. Existing three instrument cases retained."
+    },
+    {
+      "page": 108,
+      "status": "KEEP",
+      "finding": "Nini keeps note beside maps; no repeated premature explanation of empty."
+    },
+    {
+      "page": 112,
+      "status": "KEEP",
+      "finding": "Pre-solve narrative no longer declares mud correct and arrow wrong; immutable task scaffolding remains."
+    },
+    {
+      "page": 116,
+      "status": "KEEP",
+      "finding": "Contact is next person reception can ask, not automatically a proven parcel handoff."
+    },
+    {
+      "page": 122,
+      "status": "KEEP",
+      "finding": "Final V4 this page→the next page pointer accurate for list on p123; case set and extraction mechanics unchanged."
+    },
+    {
+      "page": 125,
+      "status": "KEEP",
+      "finding": "Landmarks available for alignment, not already certified as matching; result remains after task."
+    },
+    {
+      "page": 128,
+      "status": "KEEP",
+      "finding": "Earlier/all this work replaces unsupported elapsed weeks."
+    },
+    {
+      "page": 130,
+      "status": "KEEP",
+      "finding": "After-solve CaseWall save action restored without revealing missing word."
+    },
+    {
+      "page": 137,
+      "status": "KEEP",
+      "finding": "Four panel fields and existing speaker turns now coherent; RULEWORD/CODE/ACCESS/CALLSIGN truth unchanged."
+    },
+    {
+      "page": 138,
+      "status": "KEEP",
+      "finding": "Four retrieval actions separated; no new answer."
+    },
+    {
+      "page": 140,
+      "status": "KEEP",
+      "finding": "Display explicitly shows images; physical stamp/templates no longer materialize outside unopened room."
+    },
+    {
+      "page": 142,
+      "status": "KEEP",
+      "finding": "Already signed credential no longer called blank."
+    },
+    {
+      "page": 143,
+      "status": "KEEP",
+      "finding": "Both optional canonical edits reverted to source; empty-place emotional payoff preserved. Reader-order matches actual final words."
+    },
+    {
+      "page": 145,
+      "status": "KEEP",
+      "finding": "Deferred victory noise receives affectionate payoff; certification work and unchanged closing exchange preserved."
+    },
+    {
+      "page": 158,
+      "status": "KEEP",
+      "finding": "Production pagination placeholder removed; all fourteen case numbers retained."
+    }
+  ],
+  "family_canon": {
+    "status": "KEEP",
+    "direct_reference_read": true,
+    "findings": [
+      "WORLD02 physical39 explicitly Nini is Mimi daughter;WORLD01 physical24 Luli calls Mimi Mammi;WORLD01 physical36 Dilo calls Mimi Mammi;WORLD01 physical78 Alio calls Mimi Mammi.",
+      "WORLD01 physical10 calls Luli family logic guardian and refers to her brothers. WORLD02 physical26 identifies Alio as Dilo little brother.",
+      "HAPPYME physical13–16 place Nini,Alio,Dilo,Luli in age order; candidate adds no ages. Bibi grandma and mentor already current Detective canon."
+    ],
+    "conclusion": "Mother/four siblings, older sister and youngest relationships are reference-supported owner-authorized canon, not invented puzzle facts."
+  },
+  "whole_story_assessment": {
+    "plot_thrust": "KEEP: invitation→four marked records→archive memory→retained maps→rule and coordinate→sixth role.",
+    "pacing": "KEEP: strongest stalled stretch22–25 now reduces repetitive deferral language; existing local stakes retained. Case structure still necessarily repeats companion interview shell, an inherited format rather than a new defect.",
+    "fair_revelations": "KEEP: local testimony follows reader solve; final inputs earned earlier. Authorship has handwriting setup. Four marks remain four; unmarked LookTwice remains routed. New triangular sequel question does not claim retired visual match.",
+    "reader_agency": "KEEP: reader retains own credential, map placements and CaseWall evidence; system cannot choose name/verdicts or solve cases. Certification recognizes actual work.",
+    "character_growth": "KEEP: Dilo corrects watch and drops0:07 himself, then helps repair sleeve and eventually earns victory noise. Alio marks uncertain theories and pauses direction assumption. Nini owns questions and empty-map insight. Luli supports without losing precision.",
+    "causal_mechanism": "KEEP: MATCH/ROUTE/VERIFY and CASECREATIONNONE preserved; system routes archive material, does not arrange real incidents or restoreCup."
+  },
+  "per_changed_unit": [
+    {
+      "id": "page006.block02",
+      "page": 6,
+      "status": "KEEP",
+      "candidate_text_sha256": "43431ad6f78b4fc30b5f6d3057c1a4e9c2055733c94ea1953c68ee3adc64beb1",
+      "meaning_review": "Read in full with page and neighboring case context. Six field detectives contradicts five active roster plus mentor; family relation missing from source introductions.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page007.block02",
+      "page": 7,
+      "status": "KEEP",
+      "candidate_text_sha256": "c9cb522d79a8d2ec06222b4ec261d52a8651298ee802c3ca30df5e97f7ce7d03",
+      "meaning_review": "Read in full with page and neighboring case context. Restore Mimi as mother in reciprocal family, preserving phone setup. Make Luli an older sister with remembered relationships, seed scoreboard anticipation.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page007.block03",
+      "page": 7,
+      "status": "KEEP",
+      "candidate_text_sha256": "f089c6b2f0f261da45c51e5ff1b2255ec3a00f2855ab0cef37b092274223de7e",
+      "meaning_review": "Read in full with page and neighboring case context. Restore Mimi as mother in reciprocal family, preserving phone setup. Make Luli an older sister with remembered relationships, seed scoreboard anticipation.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page008.block02",
+      "page": 8,
+      "status": "KEEP",
+      "candidate_text_sha256": "dc5bf732ddd97a3c2c7c30375f5325811ad92f3d6b493f3ef97dd600dc613d26",
+      "meaning_review": "Read in full with page and neighboring case context. Nini not miniature adult; seed naming affection and remove surprise at her competence. Replace age/memory gag with specific hat seed; honest incomplete memory retained elsewhere.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page008.block04",
+      "page": 8,
+      "status": "KEEP",
+      "candidate_text_sha256": "93203dbf0b1ba24adb63823dd460c3a74b0f8be93d18398f03d689637708de66",
+      "meaning_review": "Read in full with page and neighboring case context. Nini not miniature adult; seed naming affection and remove surprise at her competence. Replace age/memory gag with specific hat seed; honest incomplete memory retained elsewhere.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page009.block02",
+      "page": 9,
+      "status": "KEEP",
+      "candidate_text_sha256": "dd7b7e6ddd26c03f8ac14f8875aac56dcf88625b7b0c99748deaaebcf6b2b9d0",
+      "meaning_review": "Read in full with page and neighboring case context. Restore missing physical sixth-hook seed necessary for finale recall; offer ordinary inclusion without promising earned affection.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page012.block03",
+      "page": 12,
+      "status": "KEEP",
+      "candidate_text_sha256": "e5f70c66788ae0f86da863b9f902359a1563b2dd8380dee8de8b7f10ef32408b",
+      "meaning_review": "Read in full with page and neighboring case context. Current instructional comms repeat previous instructions in six generic voices; family wants and turn-taking make practical distinction memorable.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page016.block04",
+      "page": 16,
+      "status": "KEEP",
+      "candidate_text_sha256": "0fd672c90bc90429265948efcd94b9e2f2cab0eb6c0f69e7050b7c66abefff6e",
+      "meaning_review": "Read in full with page and neighboring case context. Early Alio pile-on gives three children same corrective voice; let Alio revise theory himself, seed later decorative-confidence payoff.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page019.block35",
+      "page": 19,
+      "status": "KEEP",
+      "candidate_text_sha256": "53d5237384a22fe0aed39c579e87a3108fe619ea085f165653ad580ef8f24a0e",
+      "meaning_review": "Read in full with page and neighboring case context. Nini sounds like an adult performance assessor; keep affection for Alio while backing his improved question.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page019.block36",
+      "page": 19,
+      "status": "KEEP",
+      "candidate_text_sha256": "269c8b5a06e4ea92b0273f3f42a411c8f29204ba4e7e250fa884a5197721a854",
+      "meaning_review": "Read in full with page and neighboring case context. Nini sounds like an adult performance assessor; keep affection for Alio while backing his improved question.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page022.block12",
+      "page": 22,
+      "status": "KEEP",
+      "candidate_text_sha256": "faa4d59452cf6c45130606b98f6653e51fd60b1bd79825ec84439c1f971cf071",
+      "meaning_review": "Read in full with page and neighboring case context. Ten treated as unexplained numerology; focus on provenance, which the printed photo labels already partly disclose.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page023.block05",
+      "page": 23,
+      "status": "KEEP",
+      "candidate_text_sha256": "ff6cd34d45f80c7ca469a2939f854dc8cbc74fa52e796e54b1a8b3efc213a2d4",
+      "meaning_review": "Read in full with page and neighboring case context. Restore Nini's particular attachment and agency without declaring a sparkle a real clue or restoring obsolete differences.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page023.block07",
+      "page": 23,
+      "status": "KEEP",
+      "candidate_text_sha256": "b41ab34a2d3e353ddb010596938a7181ffc54bb2b5d42ce0ae603cc4b1f36fe1",
+      "meaning_review": "Read in full with page and neighboring case context. Restore Nini's particular attachment and agency without declaring a sparkle a real clue or restoring obsolete differences.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page023.block09",
+      "page": 23,
+      "status": "KEEP",
+      "candidate_text_sha256": "a6462eb88ba0dc49f6bf4a64be0acf948ce744b1bc4082634a9605c83afa86ce",
+      "meaning_review": "Read in full with page and neighboring case context. Restore Nini's particular attachment and agency without declaring a sparkle a real clue or restoring obsolete differences.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page023.block11",
+      "page": 23,
+      "status": "KEEP",
+      "candidate_text_sha256": "f83ab0b59154134de395f1ad78254d3185de9419a84327013299222ce57c713a",
+      "meaning_review": "Read in full with page and neighboring case context. Restore Nini's particular attachment and agency without declaring a sparkle a real clue or restoring obsolete differences.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page023.block13",
+      "page": 23,
+      "status": "KEEP",
+      "candidate_text_sha256": "82ad3f55e1300005395fd2044ab1258009a37e872503bc67d5358e525a70e83d",
+      "meaning_review": "Read in full with page and neighboring case context. Restore Nini's particular attachment and agency without declaring a sparkle a real clue or restoring obsolete differences.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page027.block03",
+      "page": 27,
+      "status": "KEEP",
+      "candidate_text_sha256": "e383570cbf0e9f77d7c3ecc1e8468e3901e84c7dc6973f1ebceeb9578072ec2c",
+      "meaning_review": "Read in full with page and neighboring case context. Avoid pretending the reader discovered provenance not already printed in captions.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page027.block04",
+      "page": 27,
+      "status": "KEEP",
+      "candidate_text_sha256": "2288151ab60e0a953b99ecd277475557ca74239d175a12feaacf96481629dca3",
+      "meaning_review": "Read in full with page and neighboring case context. Avoid pretending the reader discovered provenance not already printed in captions.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page027.block05",
+      "page": 27,
+      "status": "KEEP",
+      "candidate_text_sha256": "94f1dda86770b832707c6374a0ccf04a3fa0d825b20d52144066dfc5b03779fd",
+      "meaning_review": "Read in full with page and neighboring case context. Avoid pretending the reader discovered provenance not already printed in captions.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page034.block08",
+      "page": 34,
+      "status": "KEEP",
+      "candidate_text_sha256": "0ddaf918ec87f3cebe1e0ecdc21044e986e627a38b9d6b0ef0b1656868b7043f",
+      "meaning_review": "Read in full with page and neighboring case context. Printer must remain able to cough at p98 without an invented restart.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page037.block08",
+      "page": 37,
+      "status": "KEEP",
+      "candidate_text_sha256": "216c16b0d9ac71e545e1c2c384df42ab625a4a83e9a9cd160018fe687fd55b30",
+      "meaning_review": "Read in full with page and neighboring case context. Luli repeatedly corrects without showing shared hopes; a small admission gives her range.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page045.block13",
+      "page": 45,
+      "status": "KEEP",
+      "candidate_text_sha256": "b03c06c010ee29389f613cd5ab944d2ca34cc1fe02a80beb8821675af924468e",
+      "meaning_review": "Read in full with page and neighboring case context. Dilo contributes practical help and lets Alio retain agency instead of adding another rebuke.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page048.block07",
+      "page": 48,
+      "status": "KEEP",
+      "candidate_text_sha256": "dcce2eea110872fdc6b3e88eff9cd90cb441ad2f6332b224caefcc00cdab9404",
+      "meaning_review": "Read in full with page and neighboring case context. Keep recognition after reader classification; avoid pre-certifying the true set.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page048.block08",
+      "page": 48,
+      "status": "KEEP",
+      "candidate_text_sha256": "2a8d3479d8cdf33018960d968f83802e49d0c339b615689ca84c116df590ba7d",
+      "meaning_review": "Read in full with page and neighboring case context. Keep recognition after reader classification; avoid pre-certifying the true set.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page048.block09",
+      "page": 48,
+      "status": "KEEP",
+      "candidate_text_sha256": "fb335af5c90c62e8884084af483bd3ec30b39a425227aa82d4eba322b2b5826d",
+      "meaning_review": "Read in full with page and neighboring case context. Keep recognition after reader classification; avoid pre-certifying the true set.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page049.block09",
+      "page": 49,
+      "status": "KEEP",
+      "candidate_text_sha256": "7061869cf751b29eff95af4eed0d59f59c8f29f8773b8f3acc32f6073b984173",
+      "meaning_review": "Read in full with page and neighboring case context. Precision becomes shared support rather than grading Bibi.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page060.block08",
+      "page": 60,
+      "status": "KEEP",
+      "candidate_text_sha256": "071f902b0f07f5fde24b372a82590ee3fdd873de8bd2d5e8d3615c558fb89ee2",
+      "meaning_review": "Read in full with page and neighboring case context. Mapped snapshot proves next contact, not universal exclusivity of contact with the bird.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page061.block07",
+      "page": 61,
+      "status": "KEEP",
+      "candidate_text_sha256": "781d3baf6d0b31388f5a51c170cd640eab0b6119209fb645e5321e3063f7bc12",
+      "meaning_review": "Read in full with page and neighboring case context. Nini listens to a creature instead of issuing an adult interview maxim.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page065.block16",
+      "page": 65,
+      "status": "KEEP",
+      "candidate_text_sha256": "a75097cb9fa1963a911e0d2bb6f76eaad6016a10594fd35095f4735686aac104",
+      "meaning_review": "Read in full with page and neighboring case context. Keep playful theory but let Alio mark its uncertainty himself; sibling supports his contribution. Nini helps rather than joining two consecutive attacks on Alio's competence. Let Alio accept practical support without a canned self-put-down. Avoid third consecutive correction aimed at Alio; return shared attention to the actual task.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page065.block26",
+      "page": 65,
+      "status": "KEEP",
+      "candidate_text_sha256": "4d5a79b55b20da82c9740f5f2bc438a5b4f197564b41e1e0d16ada9a8ef43644",
+      "meaning_review": "Read in full with page and neighboring case context. Keep playful theory but let Alio mark its uncertainty himself; sibling supports his contribution. Nini helps rather than joining two consecutive attacks on Alio's competence. Let Alio accept practical support without a canned self-put-down. Avoid third consecutive correction aimed at Alio; return shared attention to the actual task.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page065.block27",
+      "page": 65,
+      "status": "KEEP",
+      "candidate_text_sha256": "82f6b71937f5d6992d45071347804f54ecae56467d4e8c1b294dafb0a245fe61",
+      "meaning_review": "Read in full with page and neighboring case context. Keep playful theory but let Alio mark its uncertainty himself; sibling supports his contribution. Nini helps rather than joining two consecutive attacks on Alio's competence. Let Alio accept practical support without a canned self-put-down. Avoid third consecutive correction aimed at Alio; return shared attention to the actual task.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page065.block29",
+      "page": 65,
+      "status": "KEEP",
+      "candidate_text_sha256": "94a6a120d067103751725c095e609798c8d72278dc9a08698037eaf8977060bf",
+      "meaning_review": "Read in full with page and neighboring case context. Keep playful theory but let Alio mark its uncertainty himself; sibling supports his contribution. Nini helps rather than joining two consecutive attacks on Alio's competence. Let Alio accept practical support without a canned self-put-down. Avoid third consecutive correction aimed at Alio; return shared attention to the actual task.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page065.block31",
+      "page": 65,
+      "status": "KEEP",
+      "candidate_text_sha256": "8ee95ef264fe88c60745c7921964178b3b200ed58352cf702a255ced583dfec3",
+      "meaning_review": "Read in full with page and neighboring case context. Keep playful theory but let Alio mark its uncertainty himself; sibling supports his contribution. Nini helps rather than joining two consecutive attacks on Alio's competence. Let Alio accept practical support without a canned self-put-down. Avoid third consecutive correction aimed at Alio; return shared attention to the actual task.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page069.block15",
+      "page": 69,
+      "status": "KEEP",
+      "candidate_text_sha256": "3742ac9a42dcfdc67fb0197297927c4a271f79527c6fc58dd61ebb9fdd57cf81",
+      "meaning_review": "Read in full with page and neighboring case context. Give Alio a useful role instead of silencing him.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page073.block11",
+      "page": 73,
+      "status": "KEEP",
+      "candidate_text_sha256": "6c9e327ede51271b5528523a285b8af14f38271b235fcf2ed460f29b8ac92184",
+      "meaning_review": "Read in full with page and neighboring case context. Complete banter with a useful voluntary action while keeping established joke.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page080.block05",
+      "page": 80,
+      "status": "KEEP",
+      "candidate_text_sha256": "4e39e9fd89a40ca318edd4421e46a63a426e4e89db423d5dcb029634d74daefc",
+      "meaning_review": "Read in full with page and neighboring case context. Source checkpoint promises exact line but drops it; recover already verified line from repeated source/solution, not new clue.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page086.block05",
+      "page": 86,
+      "status": "KEEP",
+      "candidate_text_sha256": "247215f02f7d96ae9690d80916a73dfd9051fac83d5257d9c1ab7fd1888d3328",
+      "meaning_review": "Read in full with page and neighboring case context. Seven minutes before an event is not inherently an alibi; retain apparent inconsistency without claiming innocence proof.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page086.block06",
+      "page": 86,
+      "status": "KEEP",
+      "candidate_text_sha256": "8f7511848c74abb0978808f108cbb9a2feb67db01e4e26c3e1414a7863530c93",
+      "meaning_review": "Read in full with page and neighboring case context. Seven minutes before an event is not inherently an alibi; retain apparent inconsistency without claiming innocence proof.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page091.block13",
+      "page": 91,
+      "status": "KEEP",
+      "candidate_text_sha256": "623de27757920c4946baa8a5edb2525a4546578ea4e4a89c363f036d51c1cfcd",
+      "meaning_review": "Read in full with page and neighboring case context. Reduce bureaucratic Nini; let her curiosity accept Dilo's provisional imaginary visitor without making it evidence. New Nini curiosity needs a responsive final Dilo turn rather than obsolete application-denial reply.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page091.block15",
+      "page": 91,
+      "status": "KEEP",
+      "candidate_text_sha256": "ade1e1729350a717a55214c4905a7ba8ddee8d94c950ab275c9e762c531a58ad",
+      "meaning_review": "Read in full with page and neighboring case context. Reduce bureaucratic Nini; let her curiosity accept Dilo's provisional imaginary visitor without making it evidence. New Nini curiosity needs a responsive final Dilo turn rather than obsolete application-denial reply.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page094.block09",
+      "page": 94,
+      "status": "KEEP",
+      "candidate_text_sha256": "f616f93ebfe50768c95a1b9b9bdaaea2daeec7c7acb326b39ea6cfb8d19d4ee9",
+      "meaning_review": "Read in full with page and neighboring case context. Retention matters throughout, not newly in this case; preserve full-map dependency.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page098.block16",
+      "page": 98,
+      "status": "KEEP",
+      "candidate_text_sha256": "5030f20f8924a247691583d38f6ab1a9575b4f50764ddd2573d6a8685f7c3bd9",
+      "meaning_review": "Read in full with page and neighboring case context. Dilo's accidental damage needs immediate practical care before method; preserve consequence and crucial silence.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page102.block06",
+      "page": 102,
+      "status": "KEEP",
+      "candidate_text_sha256": "fd05b8162ce52043e7a62967bdfb3303d89e8f2dd666e3cb760a61d99e240a81",
+      "meaning_review": "Read in full with page and neighboring case context. Remove clairvoyant claim that future set incomplete; return Dilo to useful participation instead of surveillance joke.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page102.block07",
+      "page": 102,
+      "status": "KEEP",
+      "candidate_text_sha256": "0bbb3918e94048b1121ae63b81afe8d182b35a33379a8c00cf39f0f247071c76",
+      "meaning_review": "Read in full with page and neighboring case context. Remove clairvoyant claim that future set incomplete; return Dilo to useful participation instead of surveillance joke.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page104.block03",
+      "page": 104,
+      "status": "KEEP",
+      "candidate_text_sha256": "149cc942851e1f371085e939e3bd36eee854bdfcc9afde9d07d509be05399ea6",
+      "meaning_review": "Read in full with page and neighboring case context. Repeated waiting shell stalls stretch; shift emphasis to a real local need without manufacturing stakes. Replace another deferral tease with concrete help and reader agency.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page104.block04",
+      "page": 104,
+      "status": "KEEP",
+      "candidate_text_sha256": "a33e792f2d64b2fa0fb47fe82cc0c44c988b35dda3550dd8048ff19abe39985f",
+      "meaning_review": "Read in full with page and neighboring case context. Repeated waiting shell stalls stretch; shift emphasis to a real local need without manufacturing stakes. Replace another deferral tease with concrete help and reader agency.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page104.block05",
+      "page": 104,
+      "status": "KEEP",
+      "candidate_text_sha256": "622ca1761fd54bb9d5c63bebc64a8edf17f06cf2cfd8024b002b393c38ce7cc3",
+      "meaning_review": "Read in full with page and neighboring case context. Repeated waiting shell stalls stretch; shift emphasis to a real local need without manufacturing stakes. Replace another deferral tease with concrete help and reader agency.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page104.block06",
+      "page": 104,
+      "status": "KEEP",
+      "candidate_text_sha256": "8eb50ac82ec6e9025b07131371db93314d814aa23b0b01dfebe93a52606770e1",
+      "meaning_review": "Read in full with page and neighboring case context. Repeated waiting shell stalls stretch; shift emphasis to a real local need without manufacturing stakes. Replace another deferral tease with concrete help and reader agency.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page104.block07",
+      "page": 104,
+      "status": "KEEP",
+      "candidate_text_sha256": "c3c7f34520a69170fa1b1a09102976803b5338fc19a75b5c67357253598c3bd3",
+      "meaning_review": "Read in full with page and neighboring case context. Repeated waiting shell stalls stretch; shift emphasis to a real local need without manufacturing stakes. Replace another deferral tease with concrete help and reader agency.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page104.block08",
+      "page": 104,
+      "status": "KEEP",
+      "candidate_text_sha256": "c0c2fefec6d60f1b6817974024d4c3d6a2053855ca56778856abbf7a47cde1a0",
+      "meaning_review": "Read in full with page and neighboring case context. Repeated waiting shell stalls stretch; shift emphasis to a real local need without manufacturing stakes. Replace another deferral tease with concrete help and reader agency.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page104.block09",
+      "page": 104,
+      "status": "KEEP",
+      "candidate_text_sha256": "4e9af58f72461ca7f33368d4920b1f5251faa211e95e6ab18d323f94e2ade194",
+      "meaning_review": "Read in full with page and neighboring case context. Repeated waiting shell stalls stretch; shift emphasis to a real local need without manufacturing stakes. Replace another deferral tease with concrete help and reader agency.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page104.block10",
+      "page": 104,
+      "status": "KEEP",
+      "candidate_text_sha256": "7b39e6dae877626c6b7ca69345d64840548e0368b50596357b259b1b043fedfc",
+      "meaning_review": "Read in full with page and neighboring case context. Repeated waiting shell stalls stretch; shift emphasis to a real local need without manufacturing stakes. Replace another deferral tease with concrete help and reader agency.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page105.block12",
+      "page": 105,
+      "status": "KEEP",
+      "candidate_text_sha256": "b914173dafaaa4a78cb5c576444484e0b87711dae854bf8b5fcd8b7eb335bb0c",
+      "meaning_review": "Read in full with page and neighboring case context. Nini cares for an imagined object; Alio turns his own joke toward the task rather than being stopped by a maxim.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page105.block14",
+      "page": 105,
+      "status": "KEEP",
+      "candidate_text_sha256": "3c531c1184e3367a8cf1507b1ba494c3a2d15704b111bc55ab0d3b8c9ce12b3c",
+      "meaning_review": "Read in full with page and neighboring case context. Nini cares for an imagined object; Alio turns his own joke toward the task rather than being stopped by a maxim.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page108.block06",
+      "page": 108,
+      "status": "KEEP",
+      "candidate_text_sha256": "2b45083fd134b3a2eb3fb0313550959541437aa26dd1ecf33821ed573a04acb7",
+      "meaning_review": "Read in full with page and neighboring case context. Third repeated refusal beat in short stretch; remove without changing saved note or complete maps.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page112.block03",
+      "page": 112,
+      "status": "KEEP",
+      "candidate_text_sha256": "e07e38cd87a86deba6ac32aa252b81d07aa60cd28fee1c16ca357421ea0382d4",
+      "meaning_review": "Read in full with page and neighboring case context. Remove duplicate pre-solve answer announcement; reader still receives immutable explicit mud rules on p114.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page112.block04",
+      "page": 112,
+      "status": "KEEP",
+      "candidate_text_sha256": "de3c1fce15207e51bc72a0f5aeb34c108c6f925133d1c69907e39b37cc5fc6b7",
+      "meaning_review": "Read in full with page and neighboring case context. Remove duplicate pre-solve answer announcement; reader still receives immutable explicit mud rules on p114.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page112.block05",
+      "page": 112,
+      "status": "KEEP",
+      "candidate_text_sha256": "48f463710a0949b5f5d15b03fabb23549162755159742ca40b611b0ffbced8c5",
+      "meaning_review": "Read in full with page and neighboring case context. Remove duplicate pre-solve answer announcement; reader still receives immutable explicit mud rules on p114.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page112.block06",
+      "page": 112,
+      "status": "KEEP",
+      "candidate_text_sha256": "1babdd3383c645e5a8b255bbe8eefc7e42887a7ed3b865c347ee7b9d4bb26275",
+      "meaning_review": "Read in full with page and neighboring case context. Remove duplicate pre-solve answer announcement; reader still receives immutable explicit mud rules on p114.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page112.block07",
+      "page": 112,
+      "status": "KEEP",
+      "candidate_text_sha256": "099c0e1450810aab48c3358f95a815f43b963f1e7f1107b0d03a8d96602c8461",
+      "meaning_review": "Read in full with page and neighboring case context. Remove duplicate pre-solve answer announcement; reader still receives immutable explicit mud rules on p114.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page112.block08",
+      "page": 112,
+      "status": "KEEP",
+      "candidate_text_sha256": "71030bf24462a875053b4f06a5d54d527cafd374a3fd75947fdce164547af595",
+      "meaning_review": "Read in full with page and neighboring case context. Remove duplicate pre-solve answer announcement; reader still receives immutable explicit mud rules on p114.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page112.block09",
+      "page": 112,
+      "status": "KEEP",
+      "candidate_text_sha256": "7843bbb4db2a6d7dafc2bf7e77d1dd0e5be2e15c2754b069eb4eb88225f9176a",
+      "meaning_review": "Read in full with page and neighboring case context. Remove duplicate pre-solve answer announcement; reader still receives immutable explicit mud rules on p114.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page112.block10",
+      "page": 112,
+      "status": "KEEP",
+      "candidate_text_sha256": "81a28def16a5d2901f7d6fc707d61ba48492c586059d79c65c061d25e9cd0be4",
+      "meaning_review": "Read in full with page and neighboring case context. Remove duplicate pre-solve answer announcement; reader still receives immutable explicit mud rules on p114.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page112.block11",
+      "page": 112,
+      "status": "KEEP",
+      "candidate_text_sha256": "d446e16652312da5751a499da344f224a7d9121a7d98ded5558898f60b32c9b3",
+      "meaning_review": "Read in full with page and neighboring case context. Remove duplicate pre-solve answer announcement; reader still receives immutable explicit mud rules on p114.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page113.block13",
+      "page": 113,
+      "status": "KEEP",
+      "candidate_text_sha256": "c44eb30a177cbaac23f92d010a836dd1ac277c0165467ec4fbcf26b7281de02c",
+      "meaning_review": "Read in full with page and neighboring case context. Keep Alio's voluntary self-correction, add patience; remove second premature declaration of right clue.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page113.block15",
+      "page": 113,
+      "status": "KEEP",
+      "candidate_text_sha256": "908684d6b8f25b423a5593e0f580e5fe4e5789f3a85f5a5a929f881cfcc2e779",
+      "meaning_review": "Read in full with page and neighboring case context. Keep Alio's voluntary self-correction, add patience; remove second premature declaration of right clue.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page116.block10",
+      "page": 116,
+      "status": "KEEP",
+      "candidate_text_sha256": "625635c603801c42b893776cc019db1a8a562db80599e58491d2a9aedcff81d7",
+      "meaning_review": "Read in full with page and neighboring case context. Companion placement alone does not prove a handoff or comprehensive witness knowledge.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page117.block13",
+      "page": 117,
+      "status": "KEEP",
+      "candidate_text_sha256": "07b99ccd93ac25d27792d6d0516daf08d35a1c39c97d051fca98323b5da68e7f",
+      "meaning_review": "Read in full with page and neighboring case context. Mimi repeatedly blocks food request; let practical care carry the affectionate limit.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page122.block03",
+      "page": 122,
+      "status": "KEEP",
+      "candidate_text_sha256": "b257119bd6ad5016d3bad2316d16112639c0b47f67c585098db72c2a48263cc2",
+      "meaning_review": "Read in full with page and neighboring case context. The selected-map list is printed on physical p123, not p122; correct pointer only, retain all14case mechanics.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page125.block04",
+      "page": 125,
+      "status": "KEEP",
+      "candidate_text_sha256": "a21c827c2916e97ba8bb596b477dfc1c5c17c548bbe56c845c0cc0b04e4fa29a",
+      "meaning_review": "Read in full with page and neighboring case context. Missing sentence stop obscures earned instruction. Opener solves alignment before reader acts; present landmarks for test and reserve result for p128.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page125.block07",
+      "page": 125,
+      "status": "KEEP",
+      "candidate_text_sha256": "879a9525a0630931ca8b431f86487fc08ecf78ef07d20fce872d87310e097c41",
+      "meaning_review": "Read in full with page and neighboring case context. Missing sentence stop obscures earned instruction. Opener solves alignment before reader acts; present landmarks for test and reserve result for p128.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page125.block08",
+      "page": 125,
+      "status": "KEEP",
+      "candidate_text_sha256": "cb02251bc759e6808b2f56966ec432ba3eacef53cd0accc582c95099fce03a7b",
+      "meaning_review": "Read in full with page and neighboring case context. Missing sentence stop obscures earned instruction. Opener solves alignment before reader acts; present landmarks for test and reserve result for p128.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page125.block09",
+      "page": 125,
+      "status": "KEEP",
+      "candidate_text_sha256": "e6f06b10aa064fc163b52d7b7ba123708bf38168c323fd976d875d8559cd8c4e",
+      "meaning_review": "Read in full with page and neighboring case context. Missing sentence stop obscures earned instruction. Opener solves alignment before reader acts; present landmarks for test and reserve result for p128.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page125.block10",
+      "page": 125,
+      "status": "KEEP",
+      "candidate_text_sha256": "d25249a38a42998f4ff5e15cf7455231d6f8ff7d13e28a700d543b19343ed76b",
+      "meaning_review": "Read in full with page and neighboring case context. Missing sentence stop obscures earned instruction. Opener solves alignment before reader acts; present landmarks for test and reserve result for p128.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page128.block09",
+      "page": 128,
+      "status": "KEEP",
+      "candidate_text_sha256": "e29187a3dcb4a5e81971f02aaeae40ec45f8f8578de6a4b83b2a333425b7c70d",
+      "meaning_review": "Read in full with page and neighboring case context. Elapsed weeks not established; preserve chronology without inflating it. Remove unsupported weeks and catastrophe framing while preserving need to test assumptions.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page128.block13",
+      "page": 128,
+      "status": "KEEP",
+      "candidate_text_sha256": "017644fd8c119c5f19de2848ac7fd7db92d8a5858f80a45723f6b4e3c6b85d96",
+      "meaning_review": "Read in full with page and neighboring case context. Elapsed weeks not established; preserve chronology without inflating it. Remove unsupported weeks and catastrophe framing while preserving need to test assumptions.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page130.block03",
+      "page": 130,
+      "status": "KEEP",
+      "candidate_text_sha256": "c747c2abbd61d6eedd43bdab3412c184b6bb6650ea4e6da91db6339da921d70b",
+      "meaning_review": "Read in full with page and neighboring case context. Finale retrieves restored Rule Zero from Case Wall, but current source supplies no save instruction after solve; add precise handoff without revealing answer.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page132.block09",
+      "page": 132,
+      "status": "KEEP",
+      "candidate_text_sha256": "616e445520b5120bbc0b7d6685ac36093f5b5128cbe290bfbfc6b85663806699",
+      "meaning_review": "Read in full with page and neighboring case context. Repeated adult register makes Dilo another Luli; concrete expectation preserves failed shortcut joke.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page137.block05",
+      "page": 137,
+      "status": "KEEP",
+      "candidate_text_sha256": "73f74fb8ee512152adbded8f84614c10b4bbbf8a0ce1ab99ee2c7e22807a7387",
+      "meaning_review": "Read in full with page and neighboring case context. Extraction/layout reading order tangles opener and dialogue; restore coherent narrative and actual turn order without changing four fields. Restore coherent source reading order while preserving fragment token locks. Preserve speaker tokens and counts while repairing reading order.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page137.block06",
+      "page": 137,
+      "status": "KEEP",
+      "candidate_text_sha256": "ce2499824d6439a2af9dc64925a286a121ef1931eab2f07128ac0f2563214da4",
+      "meaning_review": "Read in full with page and neighboring case context. Extraction/layout reading order tangles opener and dialogue; restore coherent narrative and actual turn order without changing four fields. Restore coherent source reading order while preserving fragment token locks. Preserve speaker tokens and counts while repairing reading order.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page137.block07",
+      "page": 137,
+      "status": "KEEP",
+      "candidate_text_sha256": "29904ad6aac3228b70dd1bc222d302c7fe66976952f32887bc50844207bd5b11",
+      "meaning_review": "Read in full with page and neighboring case context. Extraction/layout reading order tangles opener and dialogue; restore coherent narrative and actual turn order without changing four fields. Restore coherent source reading order while preserving fragment token locks. Preserve speaker tokens and counts while repairing reading order.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page137.block08",
+      "page": 137,
+      "status": "KEEP",
+      "candidate_text_sha256": "028c19f5875ec97d98828f15178c053025cc47e0d93844134596a0cd481e5595",
+      "meaning_review": "Read in full with page and neighboring case context. Extraction/layout reading order tangles opener and dialogue; restore coherent narrative and actual turn order without changing four fields. Restore coherent source reading order while preserving fragment token locks. Preserve speaker tokens and counts while repairing reading order.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page137.block09",
+      "page": 137,
+      "status": "KEEP",
+      "candidate_text_sha256": "1d3bef4820272cff857167a7077cdbede808aca319db2d7b06bb7c213800b2c6",
+      "meaning_review": "Read in full with page and neighboring case context. Extraction/layout reading order tangles opener and dialogue; restore coherent narrative and actual turn order without changing four fields. Restore coherent source reading order while preserving fragment token locks. Preserve speaker tokens and counts while repairing reading order.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page138.block05",
+      "page": 138,
+      "status": "KEEP",
+      "candidate_text_sha256": "6559f0ae909dd847b55ea5b56782bb660c83e6637f2f26d5734d7cbe4dcc9855",
+      "meaning_review": "Read in full with page and neighboring case context. Make four exact retrieval actions individually readable; no answer or mechanism change.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page138.block06",
+      "page": 138,
+      "status": "KEEP",
+      "candidate_text_sha256": "6f5e0dc114aab3a231d4e0527588bb2b582274f8560f4dcb81dd826447a3fe5f",
+      "meaning_review": "Read in full with page and neighboring case context. Make four exact retrieval actions individually readable; no answer or mechanism change.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page138.block07",
+      "page": 138,
+      "status": "KEEP",
+      "candidate_text_sha256": "9bafab93dc8cd5d5454735f5858f2656c2a54a91d873d01566a790b933208fe0",
+      "meaning_review": "Read in full with page and neighboring case context. Make four exact retrieval actions individually readable; no answer or mechanism change.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page140.block10",
+      "page": 140,
+      "status": "KEEP",
+      "candidate_text_sha256": "d628c7415dbaf366e0bcb80f3f9e07e6bbffb49bbae2ff8a83d1a799a47a97e4",
+      "meaning_review": "Read in full with page and neighboring case context. Physical archive objects appear outside sealed room before it opens; frame display evidence as display images, not recovered objects.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page142.block12",
+      "page": 142,
+      "status": "KEEP",
+      "candidate_text_sha256": "706d4be4649f9369a6753750447db0baccfbad7d2f667d011b07dedef0148348",
+      "meaning_review": "Read in full with page and neighboring case context. Signed credential cannot still be blank; preserve owner choice and call sign.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page145.block17",
+      "page": 145,
+      "status": "KEEP",
+      "candidate_text_sha256": "a61a37fbf42164db2dbbfc2175b64895539ac7293f1d221a6f28d3994e956697",
+      "meaning_review": "Read in full with page and neighboring case context. Pay off deferred victory noise with family affection while leaving reader participation voluntary and preserving golden closing exchange.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page158.block07",
+      "page": 158,
+      "status": "KEEP",
+      "candidate_text_sha256": "ac4a13bb18e0e87aaaff1ffad92a6cbdc5965bf1880a95cf65a89e558849b762",
+      "meaning_review": "Read in full with page and neighboring case context. Production pagination placeholder intrudes into finished reader hint; preserve all fourteen case numbers and clue truth.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    },
+    {
+      "id": "page158.block08",
+      "page": 158,
+      "status": "KEEP",
+      "candidate_text_sha256": "7f75655fe2d3058eac6836b4955cbe79ddf523b298653533b6f44fc2fbf6dde7",
+      "meaning_review": "Read in full with page and neighboring case context. Production pagination placeholder intrudes into finished reader hint; preserve all fourteen case numbers and clue truth.",
+      "truth_review": "No change to map placement, answer, code, case-selection set or physical clue truth."
+    }
+  ],
+  "ledger_review": [
+    {
+      "entry": 1,
+      "page": 19,
+      "affected_ids": [
+        "page019.block35",
+        "page019.block36"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 2,
+      "page": 22,
+      "affected_ids": [
+        "page022.block12"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 3,
+      "page": 23,
+      "affected_ids": [
+        "page023.block05",
+        "page023.block07",
+        "page023.block09",
+        "page023.block11",
+        "page023.block13"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 4,
+      "page": 27,
+      "affected_ids": [
+        "page027.block03",
+        "page027.block04",
+        "page027.block05"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 5,
+      "page": 34,
+      "affected_ids": [
+        "page034.block08"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 6,
+      "page": 37,
+      "affected_ids": [
+        "page037.block08"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 7,
+      "page": 45,
+      "affected_ids": [
+        "page045.block13"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 8,
+      "page": 48,
+      "affected_ids": [
+        "page048.block07",
+        "page048.block08",
+        "page048.block09"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 9,
+      "page": 49,
+      "affected_ids": [
+        "page049.block09"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 10,
+      "page": 60,
+      "affected_ids": [
+        "page060.block08"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 11,
+      "page": 61,
+      "affected_ids": [
+        "page061.block07"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 12,
+      "page": 65,
+      "affected_ids": [
+        "page065.block16",
+        "page065.block26",
+        "page065.block27",
+        "page065.block29",
+        "page065.block31"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 13,
+      "page": 65,
+      "affected_ids": [
+        "page065.block16",
+        "page065.block26",
+        "page065.block27",
+        "page065.block29",
+        "page065.block31"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 14,
+      "page": 65,
+      "affected_ids": [
+        "page065.block16",
+        "page065.block26",
+        "page065.block27",
+        "page065.block29",
+        "page065.block31"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 15,
+      "page": 65,
+      "affected_ids": [
+        "page065.block16",
+        "page065.block26",
+        "page065.block27",
+        "page065.block29",
+        "page065.block31"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 16,
+      "page": 69,
+      "affected_ids": [
+        "page069.block15"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 17,
+      "page": 73,
+      "affected_ids": [
+        "page073.block11"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 18,
+      "page": 86,
+      "affected_ids": [
+        "page086.block05",
+        "page086.block06"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 19,
+      "page": 91,
+      "affected_ids": [
+        "page091.block13",
+        "page091.block15"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 20,
+      "page": 91,
+      "affected_ids": [
+        "page091.block13",
+        "page091.block15"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 21,
+      "page": 94,
+      "affected_ids": [
+        "page094.block09"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 22,
+      "page": 98,
+      "affected_ids": [
+        "page098.block16"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 23,
+      "page": 102,
+      "affected_ids": [
+        "page102.block06",
+        "page102.block07"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 24,
+      "page": 104,
+      "affected_ids": [
+        "page104.block03",
+        "page104.block04",
+        "page104.block05",
+        "page104.block06",
+        "page104.block07",
+        "page104.block08",
+        "page104.block09",
+        "page104.block10"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 25,
+      "page": 104,
+      "affected_ids": [
+        "page104.block03",
+        "page104.block04",
+        "page104.block05",
+        "page104.block06",
+        "page104.block07",
+        "page104.block08",
+        "page104.block09",
+        "page104.block10"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 26,
+      "page": 105,
+      "affected_ids": [
+        "page105.block12",
+        "page105.block14"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 27,
+      "page": 108,
+      "affected_ids": [
+        "page108.block06"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 28,
+      "page": 112,
+      "affected_ids": [
+        "page112.block03",
+        "page112.block04",
+        "page112.block05",
+        "page112.block06",
+        "page112.block07",
+        "page112.block08",
+        "page112.block09",
+        "page112.block10",
+        "page112.block11"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 29,
+      "page": 113,
+      "affected_ids": [
+        "page113.block13",
+        "page113.block15"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 30,
+      "page": 116,
+      "affected_ids": [
+        "page116.block10"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 31,
+      "page": 117,
+      "affected_ids": [
+        "page117.block13"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 32,
+      "page": 125,
+      "affected_ids": [
+        "page125.block04",
+        "page125.block07",
+        "page125.block08",
+        "page125.block09",
+        "page125.block10"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 33,
+      "page": 125,
+      "affected_ids": [
+        "page125.block04",
+        "page125.block07",
+        "page125.block08",
+        "page125.block09",
+        "page125.block10"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 34,
+      "page": 128,
+      "affected_ids": [
+        "page128.block09",
+        "page128.block13"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 35,
+      "page": 128,
+      "affected_ids": [
+        "page128.block09",
+        "page128.block13"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 36,
+      "page": 132,
+      "affected_ids": [
+        "page132.block09"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 37,
+      "page": 137,
+      "affected_ids": [
+        "page137.block05",
+        "page137.block06",
+        "page137.block07",
+        "page137.block08",
+        "page137.block09"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 38,
+      "page": 138,
+      "affected_ids": [
+        "page138.block05",
+        "page138.block06",
+        "page138.block07"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 39,
+      "page": 140,
+      "affected_ids": [
+        "page140.block10"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 40,
+      "page": 142,
+      "affected_ids": [
+        "page142.block12"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 41,
+      "page": 145,
+      "affected_ids": [
+        "page145.block17"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 42,
+      "page": 158,
+      "affected_ids": [
+        "page158.block07",
+        "page158.block08"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 43,
+      "page": 6,
+      "affected_ids": [
+        "page006.block02"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 44,
+      "page": 7,
+      "affected_ids": [
+        "page007.block02",
+        "page007.block03"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 45,
+      "page": 7,
+      "affected_ids": [
+        "page007.block02",
+        "page007.block03"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 46,
+      "page": 8,
+      "affected_ids": [
+        "page008.block02",
+        "page008.block04"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 47,
+      "page": 8,
+      "affected_ids": [
+        "page008.block02",
+        "page008.block04"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 48,
+      "page": 9,
+      "affected_ids": [
+        "page009.block02"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 49,
+      "page": 12,
+      "affected_ids": [
+        "page012.block03"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 50,
+      "page": 16,
+      "affected_ids": [
+        "page016.block04"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 51,
+      "page": 137,
+      "affected_ids": [
+        "page137.block05",
+        "page137.block06",
+        "page137.block07",
+        "page137.block08",
+        "page137.block09"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 52,
+      "page": 137,
+      "affected_ids": [
+        "page137.block05",
+        "page137.block06",
+        "page137.block07",
+        "page137.block08",
+        "page137.block09"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 53,
+      "page": 137,
+      "affected_ids": [
+        "page137.block05",
+        "page137.block06",
+        "page137.block07",
+        "page137.block08",
+        "page137.block09"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 54,
+      "page": 137,
+      "affected_ids": [
+        "page137.block05",
+        "page137.block06",
+        "page137.block07",
+        "page137.block08",
+        "page137.block09"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 55,
+      "page": 137,
+      "affected_ids": [
+        "page137.block05",
+        "page137.block06",
+        "page137.block07",
+        "page137.block08",
+        "page137.block09"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 56,
+      "page": 80,
+      "affected_ids": [
+        "page080.block05"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 57,
+      "page": 122,
+      "affected_ids": [
+        "page122.block03"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    },
+    {
+      "entry": 58,
+      "page": 130,
+      "affected_ids": [
+        "page130.block03"
+      ],
+      "status": "KEEP",
+      "review": "Actual final passage read, compared with source and neighboring story; no unresolved logic or clue-truth defect."
+    }
+  ],
+  "all_story_coverage": [
+    {
+      "case": 1,
+      "pages": [
+        16,
+        17,
+        18
+      ],
+      "locked_answer": "KNOX at D2",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Recruit traces internally released envelope; first earned map answer."
+    },
+    {
+      "case": 2,
+      "pages": [
+        19,
+        20,
+        21
+      ],
+      "locked_answer": "Dax at D2",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Cup back; return record apparently blank; witness opens image discrepancy."
+    },
+    {
+      "case": 3,
+      "pages": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "locked_answer": "All 10 current differences",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Two current-reference attachments disagree; 017/071 becomes archive lead."
+    },
+    {
+      "case": 4,
+      "pages": [
+        27,
+        28,
+        29
+      ],
+      "locked_answer": "Zuri at F4",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Cup closes; 071 stays open; sealed box adds third marked record."
+    },
+    {
+      "case": 5,
+      "pages": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "locked_answer": "BALL–STAR–BOLT–HEART–KEY–MOON",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Filed verified local case wakes locker; old incomplete routing card makes fourth mark."
+    },
+    {
+      "case": 6,
+      "pages": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "locked_answer": "Arlo at D2",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "071 index directs Bibi to Heritage; misplaced label introduces source/context method."
+    },
+    {
+      "case": 7,
+      "pages": [
+        41,
+        42,
+        43
+      ],
+      "locked_answer": "Zoe at C6",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Heritage label closes; moon costume missing; room witness supplies time window."
+    },
+    {
+      "case": 8,
+      "pages": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "locked_answer": "Route C",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Closed/locked routes give genuine obstacle before costume can be found."
+    },
+    {
+      "case": 9,
+      "pages": [
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "locked_answer": "Plain0 is recurring Academy mark",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Costume closes; controlled matching distinguishes four marks from lookalikes; Bibi remembers form."
+    },
+    {
+      "case": 10,
+      "pages": [
+        53,
+        54,
+        55
+      ],
+      "locked_answer": "Ember at D5",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Rover access conflict tests records while Bibi researches."
+    },
+    {
+      "case": 11,
+      "pages": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "locked_answer": "Record D",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Mimi phone habit pays off; wrong timestamp would corrupt timeline."
+    },
+    {
+      "case": 12,
+      "pages": [
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "locked_answer": "Nell at G2",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Parrot apparent password leak becomes context lesson."
+    },
+    {
+      "case": 13,
+      "pages": [
+        65,
+        66,
+        67
+      ],
+      "locked_answer": "Bodhi at B7",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Camera moved; 4:17 frame must be separated from cleanup memory."
+    },
+    {
+      "case": 14,
+      "pages": [
+        68,
+        69,
+        70,
+        71
+      ],
+      "locked_answer": "NOAH",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Impossible journey tests confident memory without moral accusation."
+    },
+    {
+      "case": 15,
+      "pages": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "locked_answer": "Harper at D2",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Bus departure creates short deadline; blue zip identifies bag but not owner."
+    },
+    {
+      "case": 16,
+      "pages": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "locked_answer": "Old Academy Annex;2002",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Bibi chooses primary evidence over memory; photograph gives RULE0FIRST."
+    },
+    {
+      "case": 17,
+      "pages": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "locked_answer": "Axel at E3",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Annex research trip intercepted by ticket handoff case."
+    },
+    {
+      "case": 18,
+      "pages": [
+        86,
+        87,
+        88,
+        89
+      ],
+      "locked_answer": "A–B–C–D",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Three clocks dissolve false0:07 clue and alibi; Dilo corrects record."
+    },
+    {
+      "case": 19,
+      "pages": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "locked_answer": "Mack at A7",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Dilo voluntarily drops pet theory; rare-book scanner discrepancy tests physical vs digital trace."
+    },
+    {
+      "case": 20,
+      "pages": [
+        94,
+        95,
+        96,
+        97
+      ],
+      "locked_answer": "Pax at F5",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Moved wet panel makes two truthful accounts appear incompatible; complete map saved."
+    },
+    {
+      "case": 21,
+      "pages": [
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "locked_answer": "B–D–A–C;THE ANSWER IS IN WHAT YOU LEAVE EMPTY",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Printer cough returns; Dilo tears fragile old note; physical joins before sentence."
+    },
+    {
+      "case": 22,
+      "pages": [
+        104,
+        105,
+        106,
+        107
+      ],
+      "locked_answer": "Cody at C4",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Instrument shelves local mix-up; note waits while map set grows."
+    },
+    {
+      "case": 23,
+      "pages": [
+        108,
+        109,
+        110,
+        111
+      ],
+      "locked_answer": "Rae at F6",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Wristband crossed routes produce another spatial record; weekend gives time passage."
+    },
+    {
+      "case": 24,
+      "pages": [
+        112,
+        113,
+        114,
+        115
+      ],
+      "locked_answer": "East Path→West Gate",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Misleading tread direction loses to decreasing mud; Alio suspends theory."
+    },
+    {
+      "case": 25,
+      "pages": [
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "locked_answer": "Casey at D5",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Parcel handoff releases practical overlay tools;14-map set complete."
+    },
+    {
+      "case": 26,
+      "pages": [
+        121,
+        122,
+        123,
+        124
+      ],
+      "locked_answer": "CHECK THE OLD MAP",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "All14 retained spatial maps turn absence into instruction."
+    },
+    {
+      "case": 27,
+      "pages": [
+        125,
+        126,
+        127
+      ],
+      "locked_answer": "Sealed training room behind current Archive wall",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Overlay tools and three fixed landmarks reveal physically missing room."
+    },
+    {
+      "case": 28,
+      "pages": [
+        128,
+        129,
+        130,
+        131
+      ],
+      "locked_answer": "ZERO ASSUMPTIONS.NOTICE FIRST.THEORIZE SECOND.",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Rule before room; observed mud vs arrow carries into claim sorting."
+    },
+    {
+      "case": 29,
+      "pages": [
+        132,
+        133,
+        134,
+        135,
+        136
+      ],
+      "locked_answer": "Vega at D3",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Restored method leads to final historical service map; coordinate earned."
+    },
+    {
+      "case": 30,
+      "pages": [
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ],
+      "locked_answer": "ASSUMPTIONS;D3;BALL–STAR–BOLT–HEART–KEY–MOON;reader call sign",
+      "status": "KEEP",
+      "coverage": "Whole current case opener, instructions, comms and following closure/bridge read against source and evidence-payoff map. Unchanged hints/solutions checked by exact source comparison.",
+      "story_function": "Four earned entries release route log; Bibi authored note; reader fills fieldslot06."
+    }
+  ],
+  "reader_order": {
+    "status": "KEEP",
+    "candidate_hash_matches": true,
+    "pages": [
+      {
+        "page": 141,
+        "status": "KEEP",
+        "omitted_tokens": {},
+        "added_tokens": {},
+        "manual_sequence_review": "Speaker mapping and event order read; same dialogue and narrative content, labels attached to intended speech. Certificate instruction repositioned as instruction; no speech reassigned."
+      },
+      {
+        "page": 142,
+        "status": "KEEP",
+        "omitted_tokens": {},
+        "added_tokens": {},
+        "manual_sequence_review": "Speaker mapping and event order read; same dialogue and narrative content, labels attached to intended speech. Certificate instruction repositioned as instruction; no speech reassigned."
+      },
+      {
+        "page": 143,
+        "status": "KEEP",
+        "omitted_tokens": {},
+        "added_tokens": {},
+        "manual_sequence_review": "Speaker mapping and event order read; same dialogue and narrative content, labels attached to intended speech. Certificate instruction repositioned as instruction; no speech reassigned."
+      },
+      {
+        "page": 145,
+        "status": "KEEP",
+        "omitted_tokens": {},
+        "added_tokens": {},
+        "manual_sequence_review": "Speaker mapping and event order read; same dialogue and narrative content, labels attached to intended speech. Certificate instruction repositioned as instruction; no speech reassigned."
+      },
+      {
+        "page": 146,
+        "status": "KEEP",
+        "omitted_tokens": {},
+        "added_tokens": {},
+        "manual_sequence_review": "Speaker mapping and event order read; same dialogue and narrative content, labels attached to intended speech. Certificate instruction repositioned as instruction; no speech reassigned."
+      },
+      {
+        "page": 147,
+        "status": "KEEP",
+        "omitted_tokens": {},
+        "added_tokens": {},
+        "manual_sequence_review": "Speaker mapping and event order read; same dialogue and narrative content, labels attached to intended speech. Certificate instruction repositioned as instruction; no speech reassigned."
+      }
+    ],
+    "limit": "Exact non-header/non-speaker-token multiplicity compared per overridden page, then intended speaker/event ordering read manually. This is text/order review, not rendered225-page print proof."
+  },
+  "source_debt_not_introduced_by_candidate": [
+    {
+      "pages": [
+        24,
+        25,
+        36
+      ],
+      "status": "SOURCE_GATE",
+      "finding": "Protected captions call PhotoA ARCHIVED017 and PhotoB LATER071 while narrative treats071 as older archival file. Candidate acknowledges caption information rather than inventing new chronology. Production source lane owns wording/art reconciliation."
+    },
+    {
+      "pages": [
+        141,
+        142,
+        143,
+        145,
+        146,
+        147
+      ],
+      "status": "KEEP",
+      "finding": "Canonical segment extraction order separates labels from speeches; reader-order.json and reader-manuscript.md now provide intended attribution/order without wording drift. BookFactory must use those mappings when integrating."
+    }
+  ],
+  "blocked_alternatives": [
+    {
+      "status": "BLOCK",
+      "action": "Restore v10 triangle/tread/old ten differences absent from latest art."
+    },
+    {
+      "status": "BLOCK",
+      "action": "Introduce system surveillance, hidden watcher, case creation, culprit or unproved handoff from shared-room placement."
+    },
+    {
+      "status": "BLOCK",
+      "action": "Change protected answer, code, map geometry, named rooms, timestamp arithmetic or selected14case set."
+    }
+  ],
+  "limitations": [
+    "No final layout or print proof claimed. Source-audit lane owns spatial uniqueness and art fidelity.",
+    "Receipt applies only to exact candidate hash recorded above; no later wording covered."
+  ],
+  "required_content_fixes": []
+}

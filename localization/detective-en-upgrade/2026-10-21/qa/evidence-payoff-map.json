@@ -1,0 +1,427 @@
+{
+  "authority": "latest designed225 source is current;v10 retained beats only",
+  "read_scope": "All current225 extractable narrative, hints and solutions read, plus complete v10. Independently visually read current openingpp1–18 and evidence pages71,79,80,89,101,123,127,131,139 using source-audit renders. Map geometry/uniqueness remains separate source-audit lane; no unseen art certified.",
+  "source_sha256": "5fa5a54685165a346f622a1d0518a737602da3e14ba673d5563f1246bfeccc21",
+  "constraints": [
+    "No maps, placements, room names, puzzle clue statements, answers, codes or spatial truth edited.",
+    "No new culprit, hidden mechanism, trace match, timestamp, route fact or image detail invented.",
+    "SOURCE_GATE means internal evidence recovery/verification, not new owner approval."
+  ],
+  "evidence": [
+    {
+      "id": "black_envelope",
+      "locked_detail": "plain0;blank credential;internal stock release",
+      "setup_pages": [
+        3,
+        16
+      ],
+      "payoff_pages": [
+        19,
+        34,
+        140,
+        142
+      ],
+      "status": "KEEP",
+      "notes": "Currentvisualp3/p16verified invitation and internalstockrelease;system cannot choose reader name."
+    },
+    {
+      "id": "four_zeros",
+      "locked_detail": "envelope intake;TrophyHall tag;OpenNight label;oldlocker card",
+      "setup_pages": [
+        19,
+        27,
+        34
+      ],
+      "payoff_pages": [
+        48,
+        50,
+        52,
+        141
+      ],
+      "status": "KEEP",
+      "notes": "Exactly four marked records.LookTwice routed but unmarked;no fifth0."
+    },
+    {
+      "id": "photo_refs",
+      "locked_detail": "foreground evidence label017/071",
+      "setup_pages": [
+        24,
+        25
+      ],
+      "payoff_pages": [
+        27,
+        36,
+        146
+      ],
+      "status": "FIX",
+      "notes": "Use current label not v10 newspaper;do not imply digit typo.Latest outside captions disclose references early."
+    },
+    {
+      "id": "ten_differences",
+      "locked_detail": "label,cushion,shield rim,ringaward,phonebase,recorder,pen,crystal,pedals,camera",
+      "setup_pages": [
+        24,
+        25,
+        26
+      ],
+      "payoff_pages": [
+        27,
+        183,
+        184
+      ],
+      "status": "KEEP",
+      "notes": "Current exact ten supersede v10 ten.Dont restore triangle,tread,globeisland or notebookstrap."
+    },
+    {
+      "id": "signed_return",
+      "locked_detail": "Max signed return form behind wrong image",
+      "setup_pages": [
+        27
+      ],
+      "payoff_pages": [
+        27,
+        141
+      ],
+      "status": "FIX",
+      "notes": "Explain incomplete visible record vs recovered original;system routes record not Cup."
+    },
+    {
+      "id": "sealed_box",
+      "locked_detail": "intact seal;contents safe;intake0",
+      "setup_pages": [
+        27
+      ],
+      "payoff_pages": [
+        30,
+        34
+      ],
+      "status": "KEEP",
+      "notes": "Witness repairs handoff;no tampering or culprit implication."
+    },
+    {
+      "id": "locker_code",
+      "locked_detail": "BALL STAR BOLT HEART KEY MOON",
+      "setup_pages": [
+        32,
+        33,
+        35
+      ],
+      "payoff_pages": [
+        138,
+        142,
+        225
+      ],
+      "status": "KEEP",
+      "notes": "One earned sequence retained exactly;not123456;latest final fieldCODE."
+    },
+    {
+      "id": "incomplete_card",
+      "locked_detail": "STATUS INCOMPLETE;plainblack0",
+      "setup_pages": [
+        34
+      ],
+      "payoff_pages": [
+        52,
+        120,
+        141,
+        142
+      ],
+      "status": "KEEP",
+      "notes": "Incomplete route mystery,not criminal threat."
+    },
+    {
+      "id": "bibi_forms",
+      "locked_detail": "recognizes old form;not zero meaning",
+      "setup_pages": [
+        52
+      ],
+      "payoff_pages": [
+        76,
+        140,
+        141
+      ],
+      "status": "KEEP",
+      "notes": "Recognition may prompt archive search,not solve rule."
+    },
+    {
+      "id": "phone_timestamp",
+      "locked_detail": "RecordD08:07 outside15:20–16:05",
+      "setup_pages": [
+        56,
+        59
+      ],
+      "payoff_pages": [
+        60,
+        196
+      ],
+      "status": "KEEP",
+      "notes": "Phone habit pays off;time mismatch not object oddity is proof."
+    },
+    {
+      "id": "parrot_phrase",
+      "locked_detail": "same four words as ordinary rehearsal cue",
+      "setup_pages": [
+        60
+      ],
+      "payoff_pages": [
+        65,
+        197
+      ],
+      "status": "FIX",
+      "notes": "Record yields contact;does not prove no other possible teacher."
+    },
+    {
+      "id": "camera_frame",
+      "locked_detail": "4:17 frame;later moved position",
+      "setup_pages": [
+        65
+      ],
+      "payoff_pages": [
+        68
+      ],
+      "status": "KEEP",
+      "notes": "Cleanup after photo is witness account,not deduction from proximity."
+    },
+    {
+      "id": "photo_date",
+      "locked_detail": "OldAcademyAnnex;2002;badge1999–2003;sticker2001+;processedbefore2004",
+      "setup_pages": [
+        76,
+        79
+      ],
+      "payoff_pages": [
+        80,
+        82,
+        204
+      ],
+      "status": "KEEP",
+      "notes": "Currentvisualp79 verified crest/TRAININGANNEX,dates1999–2003,2001+,pre2004;offered1998/2002/2008 gives2002."
+    },
+    {
+      "id": "photo_handwriting",
+      "locked_detail": "Bibi handwriting;RULE0FIRST",
+      "setup_pages": [
+        76,
+        80
+      ],
+      "payoff_pages": [
+        81,
+        82,
+        128,
+        140
+      ],
+      "status": "FIX",
+      "notes": "Currentp80 genuinely omits RULE0FIRST after introductory colon;message exists p82 and latest solutionp204/v10. Restore source-attested linep80. R/Tcomparisondetails remain display claim,not independentlylegible handwriting in p80."
+    },
+    {
+      "id": "false_time_pattern",
+      "locked_detail": "0:07;three clocks",
+      "setup_pages": [
+        86,
+        89
+      ],
+      "payoff_pages": [
+        90,
+        207
+      ],
+      "status": "KEEP",
+      "notes": "Discarded false lead remains discarded;do not revive as genuine zero clue."
+    },
+    {
+      "id": "blue_zip",
+      "locked_detail": "bag identification",
+      "setup_pages": [
+        72
+      ],
+      "payoff_pages": [
+        76
+      ],
+      "status": "KEEP",
+      "notes": "Object identity not ownership."
+    },
+    {
+      "id": "wet_panel",
+      "locked_detail": "panel moved between accounts",
+      "setup_pages": [
+        94
+      ],
+      "payoff_pages": [
+        98
+      ],
+      "status": "KEEP",
+      "notes": "Truthful statements can refer to different moments."
+    },
+    {
+      "id": "torn_note",
+      "locked_detail": "physical joinB–D–A–C;THEANSWERISINWHATYOULEAVEEMPTY",
+      "setup_pages": [
+        98,
+        99,
+        101
+      ],
+      "payoff_pages": [
+        102,
+        121,
+        122,
+        140
+      ],
+      "status": "KEEP",
+      "notes": "Physical join before sentence;handwriting preserved but authorship not asserted early."
+    },
+    {
+      "id": "fourteen_maps",
+      "locked_detail": "02,04,06,07,10,12,13,15,17,19,20,22,23,25",
+      "setup_pages": [
+        20,
+        28,
+        38,
+        42,
+        54,
+        62,
+        66,
+        74,
+        84,
+        92,
+        96,
+        106,
+        110,
+        118
+      ],
+      "payoff_pages": [
+        120,
+        121,
+        122,
+        123,
+        220
+      ],
+      "status": "KEEP",
+      "notes": "Currentp123 list/boxes/ROOMnotZONE visuallyverified. Exactempty-roomletters/maps require source-audit geometryverification;no invented names."
+    },
+    {
+      "id": "mud_tread",
+      "locked_detail": "mud100→70→35→10;decorativearrow",
+      "setup_pages": [
+        112,
+        115
+      ],
+      "payoff_pages": [
+        116,
+        128,
+        217
+      ],
+      "status": "FIX",
+      "notes": "DirectionEastPathtoWestGate fixed;current no Case03 shoeprint match.Pre-solve narrator overguides."
+    },
+    {
+      "id": "overlay_tools",
+      "locked_detail": "transparent sleeves;alignmentclips",
+      "setup_pages": [
+        116,
+        120
+      ],
+      "payoff_pages": [
+        125
+      ],
+      "status": "KEEP",
+      "notes": "Practical parcel payoff;tools do not supply alignments automatically."
+    },
+    {
+      "id": "old_plan",
+      "locked_detail": "NorthStair;CourtyardColumn;WestLiftShaft;oneoldsealedroom",
+      "setup_pages": [
+        125,
+        127
+      ],
+      "payoff_pages": [
+        128,
+        221
+      ],
+      "status": "FIX",
+      "notes": "Available anchors before puzzle;verified match after puzzle.RuleFirstRoomSecond exact."
+    },
+    {
+      "id": "rule_zero",
+      "locked_detail": "ZEROASSUMPTIONS.NOTICEFIRST.THEORIZESECOND",
+      "setup_pages": [
+        130,
+        131
+      ],
+      "payoff_pages": [
+        132,
+        138,
+        222,
+        225
+      ],
+      "status": "FIX",
+      "notes": "Currentp131 verifiedsixclaims/wordbank/sortzones/wordresponse;no CaseWallsave. Restore source-attested save action ineditablep132transition.Fullrulephrase alreadyprintedp132;missingwordASSUMPTIONSunchanged."
+    },
+    {
+      "id": "service_map",
+      "locked_detail": "VegaD3 sharing Seth area",
+      "setup_pages": [
+        134,
+        135
+      ],
+      "payoff_pages": [
+        136,
+        138,
+        223,
+        225
+      ],
+      "status": "KEEP",
+      "notes": "D3 must come from last map,not invented new final coordinate."
+    },
+    {
+      "id": "authorship_log",
+      "locked_detail": "R/Tcomparison;ROUTENOTEAUTHOR BIBI",
+      "setup_pages": [
+        140
+      ],
+      "payoff_pages": [
+        141
+      ],
+      "status": "FIX",
+      "notes": "Stage physical stamp/templates after room opens or make display clearly display.Recognize note after proof."
+    },
+    {
+      "id": "route_mechanism",
+      "locked_detail": "MATCH/ROUTE/VERIFY;CASECREATIONNONE",
+      "setup_pages": [
+        140,
+        141
+      ],
+      "payoff_pages": [
+        142
+      ],
+      "status": "KEEP",
+      "notes": "Real cases not generated.No system solves reader work.No hiddenvillain."
+    },
+    {
+      "id": "sixth_hook",
+      "locked_detail": "five badges;empty06",
+      "setup_pages": [
+        9
+      ],
+      "payoff_pages": [
+        143,
+        144,
+        145
+      ],
+      "status": "FIX",
+      "notes": "Currentvisualp9 genuinelyomits earlyracksetup;finalp143 falselyasserts previouslyseen. Restore source-attestedv10racksetup orremovefalsecallback;preferrestoreforearnedpayoff.Currentp6Sixdetectivescontradictsfivefieldsplusmentorroles."
+    },
+    {
+      "id": "next_triangle",
+      "locked_detail": "triangular archive symbol;cutout photograph;RETURNBEFORETHEFIRSTMEETING",
+      "setup_pages": [
+        146,
+        147
+      ],
+      "payoff_pages": [
+        147
+      ],
+      "status": "KEEP",
+      "notes": "Current sequel hook is new question.Do not assert same triangle seen in latest Case03;olderv10setup retired."
+    }
+  ]
+}

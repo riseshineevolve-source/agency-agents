@@ -1,0 +1,1772 @@
+{
+  "source_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "status": "IMMUTABLE_TRUTH_AND_MECHANICS_AUDIT_NOT_CONTENT_FREEZE",
+  "preservation": "All source puzzle images/maps/borders/landmarks/labels/clues/answers/solutionmaps/hints are byte-and-meaning protected. Narrative revisions cannot add/remove/reorder mechanic, reveal answers early, alter numbers or replace figure pixels. Protected sourceblock registry is intake.json protected_ids.",
+  "coverage": {
+    "physical_pages": 225,
+    "cases": 30,
+    "text_read": "all225 including rasterOCR recovered; humanvisualfrontreview delegated",
+    "v10_text_read": "all115 pages",
+    "puzzle_visuals_inspected": [
+      18,
+      21,
+      24,
+      25,
+      29,
+      33,
+      39,
+      43,
+      47,
+      51,
+      55,
+      59,
+      63,
+      67,
+      71,
+      75,
+      79,
+      80,
+      85,
+      89,
+      93,
+      97,
+      101,
+      107,
+      111,
+      115,
+      119,
+      123,
+      127,
+      131,
+      135,
+      139
+    ],
+    "not_claimed": "No independent exhaustive CSP verification of all map uniqueness; solution assignments and geometry visually inventoried. No print approval.",
+    "map_placements": 107
+  },
+  "standard_map_rules": [
+    "Letters are columns; numbers are rows; north means smaller row number.",
+    "Place every witness once, different row and column for every witness.",
+    "Use printed witnesses and visible map features only.",
+    "Companion is interview lead, not culprit.",
+    "Keep every final witness position after verdict.",
+    "Use case-specific standable/blocked objects and original walls/doorways.",
+    "ROOM extraction excludes ZONES; do not infer usability from gray shading."
+  ],
+  "cases": [
+    {
+      "case": 1,
+      "start_page": 16,
+      "puzzle_page": 18,
+      "board_page": 17,
+      "solution_page": 179,
+      "answer_exact": "KNOX at D2",
+      "solution_text_sha256": "481043709b438630129d63d5b29ccfac922ee53858ebf5e0027b30befbba5252",
+      "solution_text": "CASE 01 // SOLUTION\nTHE ENVELOPE THAT WAS NEVER DELIVERED\nHAPPY MAKERS / DETECTIVE ACADEMY\n179\nSOLUTION FILE // VERIFIED RESULT\nANSWER: KNOX at D2\nHOW THE EVIDENCE FITS\n01\nQUILL is in row 1 and PIP is in row 3.\n02\nMORSE is in column C and KNOX is in\ncolumn D.\n03\nEvery helper must use a different row and\na different column.\n04\nColumns C and D are already taken by\nMORSE and KNOX, so QUILL and PIP\nmust use A and B.\n05\nPIP is left of QUILL, which makes PIP A3\nand QUILL B1.\n06\nRows 1 and 3 are now used. MORSE and\nKNOX must use rows 2 and 4.\n07\nMORSE is in a lower row than KNOX, so\nMORSE is C4 and KNOX is D2.\n08\nD2 is inside Delivery.\nWHY IT MATTERS\nThe first file teaches the Academy method properly: combine different clue types, then use elimination\nto finish the grid.\n",
+      "hint_pages": [
+        152,
+        161,
+        170
+      ],
+      "protected_evidence_pages": [
+        17,
+        18
+      ],
+      "solution_map_page": 180,
+      "placements": [
+        {
+          "name": "QUILL",
+          "coordinate": "B1"
+        },
+        {
+          "name": "PIP",
+          "coordinate": "A3"
+        },
+        {
+          "name": "MORSE",
+          "coordinate": "C4"
+        },
+        {
+          "name": "KNOX",
+          "coordinate": "D2"
+        }
+      ]
+    },
+    {
+      "case": 2,
+      "start_page": 19,
+      "puzzle_page": 21,
+      "board_page": 20,
+      "solution_page": 181,
+      "answer_exact": "Dax at D2",
+      "solution_text_sha256": "8ca5c18418e3b66fb99b17a658f99623b7a39b18b690d03df0afdbe633b1a9c8",
+      "solution_text": "CASE 02 // SOLUTION\nTHE TROPHY THAT CAME BACK TOO EARLY\nHAPPY MAKERS / DETECTIVE ACADEMY\n181\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Dax at D2\nHOW THE EVIDENCE FITS\n01\nNova is fixed at B3.\n02\nDax is D2 in the Display Room.\n03\nRook resolves to A6 and Atlas to F4.\n04\nMax is forced to E1; Ivy takes C5.\n05\nDax is the only other person sharing\nMax's final room, so Dax is the answer.\nWHY IT MATTERS\nThe team now has a specific witness to interview about the unexplained return, without treating\nproximity as guilt.\n",
+      "hint_pages": [
+        152,
+        161,
+        170
+      ],
+      "protected_evidence_pages": [
+        20,
+        21
+      ],
+      "solution_map_page": 182,
+      "placements": [
+        {
+          "name": "Nova",
+          "coordinate": "B3"
+        },
+        {
+          "name": "Dax",
+          "coordinate": "D2"
+        },
+        {
+          "name": "Rook",
+          "coordinate": "A6"
+        },
+        {
+          "name": "Atlas",
+          "coordinate": "F4"
+        },
+        {
+          "name": "Ivy",
+          "coordinate": "C5"
+        },
+        {
+          "name": "Max",
+          "coordinate": "E1"
+        }
+      ],
+      "empty_room": "Coach’s Office",
+      "extracted_initial": "C"
+    },
+    {
+      "case": 3,
+      "start_page": 22,
+      "puzzle_page": 25,
+      "board_page": 24,
+      "solution_page": 183,
+      "answer_exact": "ALL 10 DIFFERENCES",
+      "solution_text_sha256": "c0a20efd6cb59cefa0e2e598b5925692d627b2415050cfecd1ae58aeec762d94",
+      "solution_text": "CASE 03 // SOLUTION\nLULI'S LOOK-TWICE FILE\nHAPPY MAKERS / DETECTIVE ACADEMY\n183\nSOLUTION FILE // VERIFIED RESULT\nANSWER: ALL 10 DIFFERENCES\nHOW THE EVIDENCE FITS\n01\nFOREGROUND CASE LABEL — Photo A: 017;\nPhoto B: 071.\n02\nCENTRE SOFA CUSHION — Photo A: pale\npattern; Photo B: small checks.\n03\nSHIELD RIM — Photo A: narrow dark rim; Photo\nB: wide bright dotted rim.\n04\nRING-SHAPED AWARD — Photo A: tall narrow\noval; Photo B: wider rounder ring.\n05\nPHONE STAND BASE — Photo A: rectangular\nbase; Photo B: circular base.\n06\nRECORDER FRONT — Photo A: plain front;\nPhoto B: visible buttons.\n07\nPEN — Photo A: horizontal; Photo B: diagonal.\n08\nRIGHT GLASS-CASE CRYSTAL — Photo A: tall\nnarrow crystal; Photo B: wide diamond-shaped\ncrystal.\n09\nPIANO PEDALS — Photo A: 2 pedals; Photo B: 3\npedals.\n10\nSHELF CAMERA — Photo A: black raised top;\nPhoto B: silver-topped.\n",
+      "hint_pages": [
+        152,
+        161,
+        170
+      ],
+      "protected_evidence_pages": [
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "case": 4,
+      "start_page": 27,
+      "puzzle_page": 29,
+      "board_page": 28,
+      "solution_page": 185,
+      "answer_exact": "Zuri at F4",
+      "solution_text_sha256": "ac4d45921237e3609308db60e709923ebef0142d50169c35d1354f7ddbae984b",
+      "solution_text": "CASE 04 // SOLUTION\nTHE EVIDENCE BOX IN THE WRONG TENT\nHAPPY MAKERS / DETECTIVE ACADEMY\n185\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Zuri at F4\nHOW THE EVIDENCE FITS\n01\nEcho is fixed at A2.\n02\nZuri is F4 in the Pickup Tent.\n03\nBriar resolves to D3 beside the ring-toss\nstand.\n04\nClover is C5; Kai is B6.\n05\nPixel is E1 in the Pickup Tent.\n06\nZuri is the only other person sharing\nPixel's final room, so Zuri is the answer.\nWHY IT MATTERS\nThe team now knows which person can clarify the evidence-box handoff at Open Night.\n",
+      "hint_pages": [
+        152,
+        161,
+        170
+      ],
+      "protected_evidence_pages": [
+        28,
+        29
+      ],
+      "solution_map_page": 186,
+      "placements": [
+        {
+          "name": "Echo",
+          "coordinate": "A2"
+        },
+        {
+          "name": "Kai",
+          "coordinate": "B6"
+        },
+        {
+          "name": "Zuri",
+          "coordinate": "F4"
+        },
+        {
+          "name": "Briar",
+          "coordinate": "D3"
+        },
+        {
+          "name": "Clover",
+          "coordinate": "C5"
+        },
+        {
+          "name": "Pixel",
+          "coordinate": "E1"
+        }
+      ],
+      "empty_room": "Hospitality Room",
+      "extracted_initial": "H"
+    },
+    {
+      "case": 5,
+      "start_page": 30,
+      "puzzle_page": 33,
+      "board_page": 32,
+      "solution_page": 187,
+      "answer_exact": "BALL -> STAR -> BOLT -> HEART -> KEY -> MOON",
+      "solution_text_sha256": "8ea5067e5ae12ea9c05b1da675a94ace0ffcabdec1b6f0e87987129565fd7ff4",
+      "solution_text": "CASE 05 // SOLUTION\nDILO'S CODE THAT DEFINITELY WASN'T 123456\nHAPPY MAKERS / DETECTIVE ACADEMY\n187\nSOLUTION FILE // VERIFIED RESULT\nANSWER: BALL -> STAR -> BOLT -> HEART -> KEY -> MOON\nHOW THE EVIDENCE FITS\n01\nSTAR must sit immediately before BOLT.\n02\nBALL must be somewhere before STAR.\n03\nHEART must come after BOLT and\ncannot be fifth.\n04\nKEY must come before MOON.\n05\nHEART must also come before MOON.\n06\nTesting the possible positions leaves one\nsequence: BALL -> STAR -> BOLT ->\nHEART -> KEY -> MOON.\nWHY IT MATTERS\nThe code opens the dormant locker and reveals an old routing card stamped 0 and marked\nINCOMPLETE. The code itself is saved for the final lock.\n",
+      "hint_pages": [
+        153,
+        162,
+        171
+      ],
+      "protected_evidence_pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "case": 6,
+      "start_page": 36,
+      "puzzle_page": 39,
+      "board_page": 38,
+      "solution_page": 188,
+      "answer_exact": "Arlo at D2",
+      "solution_text_sha256": "148be572c87e51594ac00a1b47dc3806ec64d9c9b6f2a5858313454f9df0dd68",
+      "solution_text": "CASE 06 // SOLUTION\nTHE DRAGON TOOTH THAT WAS ACTUALLY A SPOON\nHAPPY MAKERS / DETECTIVE ACADEMY\n188\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Arlo at D2\nHOW THE EVIDENCE FITS\n01\nScout is fixed at E3.\n02\nArlo must be D2 in the Foyer.\n03\nVale resolves to F5 in the Gallery.\n04\nWren is C4 and Hugo is A6 in the\nDinosaur Gallery.\n05\nUma is B1 in the Foyer.\n06\nArlo is the only other person with Uma,\nso Arlo is the answer.\nWHY IT MATTERS\nThe team now has the witness who can tell Uma whether the display object or the label changed during\nthe missing window; the map still proves contact, not blame.\n",
+      "hint_pages": [
+        153,
+        162,
+        171
+      ],
+      "protected_evidence_pages": [
+        38,
+        39
+      ],
+      "solution_map_page": 189,
+      "placements": [
+        {
+          "name": "Scout",
+          "coordinate": "E3"
+        },
+        {
+          "name": "Hugo",
+          "coordinate": "A6"
+        },
+        {
+          "name": "Arlo",
+          "coordinate": "D2"
+        },
+        {
+          "name": "Vale",
+          "coordinate": "F5"
+        },
+        {
+          "name": "Wren",
+          "coordinate": "C4"
+        },
+        {
+          "name": "Uma",
+          "coordinate": "B1"
+        }
+      ],
+      "empty_room": "Egypt Room",
+      "extracted_initial": "E"
+    },
+    {
+      "case": 7,
+      "start_page": 41,
+      "puzzle_page": 43,
+      "board_page": 42,
+      "solution_page": 190,
+      "answer_exact": "Zoe at C6",
+      "solution_text_sha256": "1c03d234b68134fa6ebb07c4d2e5426e5ed68e8e0000d46e381b652f8a6fee16",
+      "solution_text": "CASE 07 // SOLUTION\nTHE COSTUME THAT WALKED AWAY\nHAPPY MAKERS / DETECTIVE ACADEMY\n190\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Zoe at C6\nHOW THE EVIDENCE FITS\n01\nRocket is fixed at E5.\n02\nWilla resolves to B1.\n03\nBlaze resolves to A3 in the Rehearsal\nRoom.\n04\nIndigo is forced to D2 in the Dressing\nRoom.\n05\nZoe is C6 beside the costume cart; Gray\nis F4.\n06\nZoe is the only other person in Gray's\nfinal space.\nWHY IT MATTERS\nThe trainer now has a real person to question about when the moon costume left its rack.\n",
+      "hint_pages": [
+        153,
+        162,
+        171
+      ],
+      "protected_evidence_pages": [
+        42,
+        43
+      ],
+      "solution_map_page": 191,
+      "placements": [
+        {
+          "name": "Blaze",
+          "coordinate": "A3"
+        },
+        {
+          "name": "Indigo",
+          "coordinate": "D2"
+        },
+        {
+          "name": "Willa",
+          "coordinate": "B1"
+        },
+        {
+          "name": "Zoe",
+          "coordinate": "C6"
+        },
+        {
+          "name": "Rocket",
+          "coordinate": "E5"
+        },
+        {
+          "name": "Gray",
+          "coordinate": "F4"
+        }
+      ],
+      "empty_room": "Costume Room",
+      "extracted_initial": "C"
+    },
+    {
+      "case": 8,
+      "start_page": 44,
+      "puzzle_page": 47,
+      "board_page": 46,
+      "solution_page": 192,
+      "answer_exact": "C",
+      "solution_text_sha256": "e671ae97c0e194cdc981a0e3d9510523dade16d8c15bc26aab0e0e909a9cddb0",
+      "solution_text": "CASE 08 // SOLUTION\nALIO'S ABSOLUTELY SAFE SHORTCUT\nHAPPY MAKERS / DETECTIVE ACADEMY\n192\nSOLUTION FILE // VERIFIED RESULT\nANSWER: C\nHOW THE EVIDENCE FITS\n01\nRoute A fails because the Paint Corridor\nis closed.\n02\nRoute B fails because the Staff Stairs are\nlocked.\n03\nRoute C uses Costume Storage and the\nSide Hall, both open.\n04\nRoute C is the only valid shortcut.\nWHY IT MATTERS\nThe squad reaches the prop room without entering the closed Paint Corridor or using the locked Staff\nStairs.\n",
+      "hint_pages": [
+        153,
+        162,
+        171
+      ],
+      "protected_evidence_pages": [
+        46,
+        47
+      ]
+    },
+    {
+      "case": 9,
+      "start_page": 48,
+      "puzzle_page": 51,
+      "board_page": 50,
+      "solution_page": 193,
+      "answer_exact": "THE PLAIN 0 IS A RECURRING ACADEMY MARK.",
+      "solution_text_sha256": "f9e390345f960217a3ce6dc1bdaa9445f09010d176779ba21e1db3ad13bc34bc",
+      "solution_text": "CASE 09 // SOLUTION\nTHE SYMBOL THAT SHOULDN'T BE HERE\nHAPPY MAKERS / DETECTIVE ACADEMY\n193\nSOLUTION FILE // VERIFIED RESULT\nANSWER: THE PLAIN 0 IS A RECURRING ACADEMY MARK.\nHOW THE EVIDENCE FITS\n01\nRemove the poster circle and stage dial;\ntheir shapes and functions differ.\n02\nThe remaining marks use the same plain\n0 form.\n03\nThey occur on unrelated evidence across\nmultiple cases.\n04\nThe pattern is real, but its meaning\nremains unknown.\nWHY IT MATTERS\nBibi's reaction now deserves an archive check, but the mark still proves no theory by itself.\n",
+      "hint_pages": [
+        154,
+        163,
+        172
+      ],
+      "protected_evidence_pages": [
+        50,
+        51
+      ]
+    },
+    {
+      "case": 10,
+      "start_page": 53,
+      "puzzle_page": 55,
+      "board_page": 54,
+      "solution_page": 194,
+      "answer_exact": "Ember at D5",
+      "solution_text_sha256": "fc8f8e59842f9570f5fdcf9031b0259579020c1c692284d3ca6d48b77fc966fa",
+      "solution_text": "CASE 10 // SOLUTION\nTHE ROBOT WITH TWO OWNERS\nHAPPY MAKERS / DETECTIVE ACADEMY\n194\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Ember at D5\nHOW THE EVIDENCE FITS\n01\nWyatt is fixed at B7 in the Robotics Lab.\n02\nEmber resolves to D5; Beck to C1.\n03\nNico is F6, Vera G4 and Finn A2.\n04\nDash is E3 in the Assembly Hall.\n05\nEmber is the only other person in the\nAssembly Hall, so Ember is the answer.\nWHY IT MATTERS\nThe Tech Lab now has a contact who can clarify the split access records before anyone claims the\nrover.\n",
+      "hint_pages": [
+        154,
+        163,
+        172
+      ],
+      "protected_evidence_pages": [
+        54,
+        55
+      ],
+      "solution_map_page": 195,
+      "placements": [
+        {
+          "name": "Ember",
+          "coordinate": "D5"
+        },
+        {
+          "name": "Nico",
+          "coordinate": "F6"
+        },
+        {
+          "name": "Wyatt",
+          "coordinate": "B7"
+        },
+        {
+          "name": "Finn",
+          "coordinate": "A2"
+        },
+        {
+          "name": "Beck",
+          "coordinate": "C1"
+        },
+        {
+          "name": "Vera",
+          "coordinate": "G4"
+        },
+        {
+          "name": "Dash",
+          "coordinate": "E3"
+        }
+      ],
+      "empty_room": "Kinetics Lab",
+      "extracted_initial": "K"
+    },
+    {
+      "case": 11,
+      "start_page": 56,
+      "puzzle_page": 59,
+      "board_page": 58,
+      "solution_page": 196,
+      "answer_exact": "D",
+      "solution_text_sha256": "1d93d267106c8910c618386521f1cc679c519e0746b50ec5240fdd006e4f3a86",
+      "solution_text": "CASE 11 // SOLUTION\nMIMI'S EVIDENCE BAG PROBLEM\nHAPPY MAKERS / DETECTIVE ACADEMY\n196\nSOLUTION FILE // VERIFIED RESULT\nANSWER: D\nHOW THE EVIDENCE FITS\n01\nThe science-fair evidence window begins\nat 15:20.\n02\nItems A-C are labeled inside that window.\n03\nPens and snack are ordinary bag\ncontents but not contradictory evidence.\n04\nThe phone photo record is from 08:07, so\nit was created outside the science-fair\nevent window.\n05\nRecord D is the only timestamped record\noutside 15:20-16:05.\nWHY IT MATTERS\nRemoving Record D keeps an unrelated timestamp from distorting the Science & Prototype Fair timeline.\n",
+      "hint_pages": [
+        154,
+        163,
+        172
+      ],
+      "protected_evidence_pages": [
+        58,
+        59
+      ]
+    },
+    {
+      "case": 12,
+      "start_page": 60,
+      "puzzle_page": 63,
+      "board_page": 62,
+      "solution_page": 197,
+      "answer_exact": "Nell at G2",
+      "solution_text_sha256": "07a4d18968f9ff0799370444daf7b30e7192888b3c7e9d745d29811495a61caf",
+      "solution_text": "CASE 12 // SOLUTION\nTHE PARROT WHO KNEW THE PASSWORD\nHAPPY MAKERS / DETECTIVE ACADEMY\n197\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Nell at G2\nHOW THE EVIDENCE FITS\n01\nCove is B7.\n02\nNell resolves to G2 in the Stage Wing; Iris\nto A5.\n03\nKira is E6 in the Bird Room and Eli is F4\nin the Green Room.\n04\nSage resolves to C3 in the Rehearsal\nRoom.\n05\nWinter is D1 in the Stage Wing.\n06\nNell is the only other person with Winter,\nso Nell is the answer.\nWHY IT MATTERS\nNell can trace the four-word phrase to an ordinary rehearsal cue, showing that the parrot repeated\nfamiliar words rather than exposing a password.\n",
+      "hint_pages": [
+        154,
+        163,
+        172
+      ],
+      "protected_evidence_pages": [
+        62,
+        63
+      ],
+      "solution_map_page": 198,
+      "placements": [
+        {
+          "name": "Kira",
+          "coordinate": "E6"
+        },
+        {
+          "name": "Nell",
+          "coordinate": "G2"
+        },
+        {
+          "name": "Iris",
+          "coordinate": "A5"
+        },
+        {
+          "name": "Eli",
+          "coordinate": "F4"
+        },
+        {
+          "name": "Cove",
+          "coordinate": "B7"
+        },
+        {
+          "name": "Sage",
+          "coordinate": "C3"
+        },
+        {
+          "name": "Winter",
+          "coordinate": "D1"
+        }
+      ],
+      "empty_room": "Training Room",
+      "extracted_initial": "T"
+    },
+    {
+      "case": 13,
+      "start_page": 65,
+      "puzzle_page": 67,
+      "board_page": 66,
+      "solution_page": 199,
+      "answer_exact": "Bodhi at B7",
+      "solution_text_sha256": "34d3d2273f14a8066aac409b0cefaaf35b6c106490c90ece1335a1ce9677dbcd",
+      "solution_text": "CASE 13 // SOLUTION\nTHE CAMERA THAT BLINKED AT 4:17\nHAPPY MAKERS / DETECTIVE ACADEMY\n199\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Bodhi at B7\nHOW THE EVIDENCE FITS\n01\nMoxie resolves to C5 and Skye to E4 in\nthe Ranger Station.\n02\nJuno is F3 and Eden G2.\n03\nBodhi resolves to B7 after applying the\ndirectional chain.\n04\nWillow is A1 and Remy is D6.\n05\nBodhi is the only other person in Remy's\nResearch Lab, so Bodhi is the answer.\nWHY IT MATTERS\nThe maintenance trail now has a witness who can help establish when the camera moved.\n",
+      "hint_pages": [
+        155,
+        164,
+        173
+      ],
+      "protected_evidence_pages": [
+        66,
+        67
+      ],
+      "solution_map_page": 200,
+      "placements": [
+        {
+          "name": "Juno",
+          "coordinate": "F3"
+        },
+        {
+          "name": "Skye",
+          "coordinate": "E4"
+        },
+        {
+          "name": "Eden",
+          "coordinate": "G2"
+        },
+        {
+          "name": "Willow",
+          "coordinate": "A1"
+        },
+        {
+          "name": "Bodhi",
+          "coordinate": "B7"
+        },
+        {
+          "name": "Moxie",
+          "coordinate": "C5"
+        },
+        {
+          "name": "Remy",
+          "coordinate": "D6"
+        }
+      ],
+      "empty_room": "Habitat Paddock",
+      "extracted_initial": "H"
+    },
+    {
+      "case": 14,
+      "start_page": 68,
+      "puzzle_page": 71,
+      "board_page": 70,
+      "solution_page": 201,
+      "answer_exact": "NOAH",
+      "solution_text_sha256": "18781f5ca923652cb5d334b8630579d4562801a120f77dc01c286c29e98ce900",
+      "solution_text": "CASE 14 // SOLUTION\nONE WITNESS IS ACCIDENTALLY IMPOSSIBLE\nHAPPY MAKERS / DETECTIVE ACADEMY\n201\nSOLUTION FILE // VERIFIED RESULT\nANSWER: NOAH\nHOW THE EVIDENCE FITS\n01\nDressing and Stage are not directly\nconnected; Hall sits between them.\n02\nEach edge takes 2 minutes.\n03\nStage -> Hall -> Dressing therefore takes\n4 minutes.\n04\nNOAH claims the same move happened\nbetween 16:10 and 16:12.\n05\nHis memory is the impossible one. It can\nbe mistaken without being dishonest.\nWHY IT MATTERS\nThe team has proved a timing error, not a lie - an important distinction for later cases.\n",
+      "hint_pages": [
+        155,
+        164,
+        173
+      ],
+      "protected_evidence_pages": [
+        70,
+        71
+      ]
+    },
+    {
+      "case": 15,
+      "start_page": 72,
+      "puzzle_page": 75,
+      "board_page": 74,
+      "solution_page": 202,
+      "answer_exact": "Harper at D2",
+      "solution_text_sha256": "347b6fc5feea9395d734250929a087609631019cc5a3d0881612bf92139e4b03",
+      "solution_text": "CASE 15 // SOLUTION\nTHE BACKPACK THAT CHANGED OWNERS\nHAPPY MAKERS / DETECTIVE ACADEMY\n202\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Harper at D2\nHOW THE EVIDENCE FITS\n01\nDuke resolves to E5 in the First Aid Hut.\n02\nPiper is F4 and Cruz C3.\n03\nJett is G7 in the Welcome Lodge.\n04\nHarper resolves to D2; Inez to B6.\n05\nMilo is A1 in the Games Cabin.\n06\nHarper is the only other person in Milo's\nGames Cabin, so Harper is the answer.\nWHY IT MATTERS\nThe backpack handoff can now be traced without turning an ordinary mix-up into an accusation.\n",
+      "hint_pages": [
+        155,
+        164,
+        173
+      ],
+      "protected_evidence_pages": [
+        74,
+        75
+      ],
+      "solution_map_page": 203,
+      "placements": [
+        {
+          "name": "Harper",
+          "coordinate": "D2"
+        },
+        {
+          "name": "Piper",
+          "coordinate": "F4"
+        },
+        {
+          "name": "Duke",
+          "coordinate": "E5"
+        },
+        {
+          "name": "Cruz",
+          "coordinate": "C3"
+        },
+        {
+          "name": "Jett",
+          "coordinate": "G7"
+        },
+        {
+          "name": "Inez",
+          "coordinate": "B6"
+        },
+        {
+          "name": "Milo",
+          "coordinate": "A1"
+        }
+      ],
+      "empty_room": "Equipment Room",
+      "extracted_initial": "E"
+    },
+    {
+      "case": 16,
+      "start_page": 76,
+      "puzzle_page": 79,
+      "board_page": 78,
+      "solution_page": 204,
+      "answer_exact": "building: OLD ACADEMY ANNEX; year: 2002",
+      "solution_text_sha256": "4c0c973aadaa179181bd81499b48b30fceeef997b418376a7c9f367fded3293d",
+      "solution_text": "CASE 16 // SOLUTION\nGRANDMA BIBI'S VERY OLD, VERY EMBARRASSING\nPHOTOGRAPH\nHAPPY MAKERS / DETECTIVE ACADEMY\n204\nSOLUTION FILE // VERIFIED RESULT\nANSWER: building: OLD ACADEMY ANNEX; year: 2002\nHOW THE EVIDENCE FITS\n01\nThe visible crest and TRAINING ANNEX\nplaque identify the Old Academy Annex.\n02\nThe striped badge can only be from\n1999-2003.\n03\nThe security sticker requires 2001 or\nlater.\n04\nThe processing log says the envelope\nwas used before its 2004 expiry.\n05\nOf the three offered years, only 2002\nsatisfies every clue.\n06\nThe back of the photograph adds the\nunexplained message: RULE 0 FIRST.\nWHY IT MATTERS\nThe verified date and building make the message on the back of Bibi's photograph usable evidence.\n",
+      "hint_pages": [
+        155,
+        164,
+        173
+      ],
+      "protected_evidence_pages": [
+        78,
+        79
+      ]
+    },
+    {
+      "case": 17,
+      "start_page": 82,
+      "puzzle_page": 85,
+      "board_page": 84,
+      "solution_page": 205,
+      "answer_exact": "Axel at E3",
+      "solution_text_sha256": "56bc87cab7555d8beda3d7c367f52ec94b0b5901f749e04d607b5f80eb1c6bd8",
+      "solution_text": "CASE 17 // SOLUTION\nTHE TRAIN TICKET THAT WASN'T LOST\nHAPPY MAKERS / DETECTIVE ACADEMY\n205\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Axel at E3\nHOW THE EVIDENCE FITS\n01\nKoa resolves to F6 and Luna to G7 in the\nWaiting Lounge.\n02\nMika is B4 in the Ticket Office; Sunny\nresolves to D5.\n03\nOtis is A1.\n04\nAxel is E3, exactly three rows north of\nKoa.\n05\nReed is C2 in the Main Corridor.\n06\nAxel is the only other person in Reed's\nfinal area.\nWHY IT MATTERS\nThe station inquiry now has a contact, while the conflicting clocks remain a separate problem to solve.\n",
+      "hint_pages": [
+        156,
+        165,
+        174
+      ],
+      "protected_evidence_pages": [
+        84,
+        85
+      ],
+      "solution_map_page": 206,
+      "placements": [
+        {
+          "name": "Otis",
+          "coordinate": "A1"
+        },
+        {
+          "name": "Mika",
+          "coordinate": "B4"
+        },
+        {
+          "name": "Koa",
+          "coordinate": "F6"
+        },
+        {
+          "name": "Sunny",
+          "coordinate": "D5"
+        },
+        {
+          "name": "Luna",
+          "coordinate": "G7"
+        },
+        {
+          "name": "Axel",
+          "coordinate": "E3"
+        },
+        {
+          "name": "Reed",
+          "coordinate": "C2"
+        }
+      ],
+      "empty_room": "Observation Car",
+      "extracted_initial": "O"
+    },
+    {
+      "case": 18,
+      "start_page": 86,
+      "puzzle_page": 89,
+      "board_page": 88,
+      "solution_page": 207,
+      "answer_exact": "A → B → C → D",
+      "solution_text_sha256": "5e5ad9deaf15b21231e38163aa23d573f14fe7d5aa9958e2b61043af4c4457e4",
+      "solution_text": "CASE 18 // SOLUTION\nTHE SEVEN-MINUTE ALIBI\nHAPPY MAKERS / DETECTIVE ACADEMY\n207\nSOLUTION FILE // VERIFIED RESULT\nANSWER: A \u0000 B \u0000 C \u0000 D\nHOW THE EVIDENCE FITS\n01\nCafe 15:08 becomes real 15:15.\n02\nDilo 15:18 becomes real 15:16.\n03\nStation 15:17 is already real 15:17.\n04\nCafe 15:11 becomes real 15:18.\n05\nThe only order is A, B, C, D.\nWHY IT MATTERS\nThe suspicious 0:07 collapses into ordinary clock arithmetic, giving the team a clean false lead to\ndiscard.\n",
+      "hint_pages": [
+        156,
+        165,
+        174
+      ],
+      "protected_evidence_pages": [
+        88,
+        89
+      ]
+    },
+    {
+      "case": 19,
+      "start_page": 90,
+      "puzzle_page": 93,
+      "board_page": 92,
+      "solution_page": 208,
+      "answer_exact": "Mack at A7",
+      "solution_text_sha256": "fb5fb806de7d13948bd895f865828e5a917b50832da1e0205b05a58f46d44ec0",
+      "solution_text": "CASE 19 // SOLUTION\nTHE LIBRARY BOOK THAT CHECKED ITSELF OUT\nHAPPY MAKERS / DETECTIVE ACADEMY\n208\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Mack at A7\nHOW THE EVIDENCE FITS\n01\nKian resolves to F4.\n02\nTheo is C1 and Dex G2 in the Reference\nRoom.\n03\nAvery resolves to E5 and Ollie to D3.\n04\nMack is A7, south-west of Ollie.\n05\nSasha is B6 in the Returns Hall.\n06\nMack is the only other person in Sasha's\nfinal area.\nWHY IT MATTERS\nThe librarian now has a concrete person to ask whether the scanner was used, bumped or misread.\n",
+      "hint_pages": [
+        156,
+        165,
+        174
+      ],
+      "protected_evidence_pages": [
+        92,
+        93
+      ],
+      "solution_map_page": 209,
+      "placements": [
+        {
+          "name": "Avery",
+          "coordinate": "E5"
+        },
+        {
+          "name": "Theo",
+          "coordinate": "C1"
+        },
+        {
+          "name": "Ollie",
+          "coordinate": "D3"
+        },
+        {
+          "name": "Dex",
+          "coordinate": "G2"
+        },
+        {
+          "name": "Mack",
+          "coordinate": "A7"
+        },
+        {
+          "name": "Kian",
+          "coordinate": "F4"
+        },
+        {
+          "name": "Sasha",
+          "coordinate": "B6"
+        }
+      ],
+      "empty_room": "Library Office",
+      "extracted_initial": "L"
+    },
+    {
+      "case": 20,
+      "start_page": 94,
+      "puzzle_page": 97,
+      "board_page": 96,
+      "solution_page": 210,
+      "answer_exact": "Pax at F5",
+      "solution_text_sha256": "705de8f945e51372e148bc2e0088750ac705fdd9c6e1f6f1ba0d5a0fd52cc90b",
+      "solution_text": "CASE 20 // SOLUTION\nTHE PAINT-SPLATTERED ALIBI\nHAPPY MAKERS / DETECTIVE ACADEMY\n210\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Pax at F5\nHOW THE EVIDENCE FITS\n01\nMara resolves to D4 and Asa to B2 in the\nMain Studio.\n02\nLuca becomes A1.\n03\nToby resolves to C6 in the Workshop\nHall.\n04\nPax is F5 and Sid E7.\n05\nDemi is G3 in the Safety Station.\n06\nPax is the only other person in Demi's\nfinal room.\nWHY IT MATTERS\nPax can explain why the two paint accounts seemed to clash, and the complete placement map you\npreserved becomes evidence again later.\n",
+      "hint_pages": [
+        156,
+        165,
+        174
+      ],
+      "protected_evidence_pages": [
+        96,
+        97
+      ],
+      "solution_map_page": 211,
+      "placements": [
+        {
+          "name": "Sid",
+          "coordinate": "E7"
+        },
+        {
+          "name": "Pax",
+          "coordinate": "F5"
+        },
+        {
+          "name": "Luca",
+          "coordinate": "A1"
+        },
+        {
+          "name": "Mara",
+          "coordinate": "D4"
+        },
+        {
+          "name": "Asa",
+          "coordinate": "B2"
+        },
+        {
+          "name": "Toby",
+          "coordinate": "C6"
+        },
+        {
+          "name": "Demi",
+          "coordinate": "G3"
+        }
+      ],
+      "empty_room": "Drying Room",
+      "extracted_initial": "D"
+    },
+    {
+      "case": 21,
+      "start_page": 98,
+      "puzzle_page": 101,
+      "board_page": 100,
+      "solution_page": 212,
+      "answer_exact": "B → D → A → C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.",
+      "solution_text_sha256": "461a1cb277b4184fa0891f066f2af455d89c19c0a6927515e47864fb81159a4c",
+      "solution_text": "CASE 21 // SOLUTION\nTHE NOTE IN FOUR PIECES\nHAPPY MAKERS / DETECTIVE ACADEMY\n212\nSOLUTION FILE // VERIFIED RESULT\nANSWER: B \u0000 D \u0000 A \u0000 C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.\nHOW THE EVIDENCE FITS\n01\nB must begin because it has the straight\nleft edge.\n02\nB's right notch joins D.\n03\nD joins A, then A joins C.\n04\nThe completed note reads: THE ANSWER\nIS IN WHAT YOU LEAVE EMPTY.\nWHY IT MATTERS\nFor the first time, the larger mystery gives the team an instruction instead of another pattern to notice.\n",
+      "hint_pages": [
+        157,
+        166,
+        175
+      ],
+      "protected_evidence_pages": [
+        100,
+        101
+      ]
+    },
+    {
+      "case": 22,
+      "start_page": 104,
+      "puzzle_page": 107,
+      "board_page": 106,
+      "solution_page": 213,
+      "answer_exact": "Cody at C4",
+      "solution_text_sha256": "ba5c3063ba5b8b536e3d9bcf27863e388b1025089b67b6d919b3ec47355eea6b",
+      "solution_text": "CASE 22 // SOLUTION\nTHE MUSIC ROOM MIX-UP\nHAPPY MAKERS / DETECTIVE ACADEMY\n213\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Cody at C4\nHOW THE EVIDENCE FITS\n01\nWes resolves to D3 in the Instrument\nLocker Room.\n02\nCody resolves diagonally to C4 in the\nRehearsal Room.\n03\nGia is B1; Lex E6; Imani F7.\n04\nNia is G5 in the Practice Hall.\n05\nZara is A2 in the Rehearsal Room.\n06\nCody is the only other person in Zara's\nfinal room.\nWHY IT MATTERS\nThe local mix-up can move forward, and the completed map becomes part of the evidence set needed\nlater.\n",
+      "hint_pages": [
+        157,
+        166,
+        175
+      ],
+      "protected_evidence_pages": [
+        106,
+        107
+      ],
+      "solution_map_page": 214,
+      "placements": [
+        {
+          "name": "Lex",
+          "coordinate": "E6"
+        },
+        {
+          "name": "Imani",
+          "coordinate": "F7"
+        },
+        {
+          "name": "Cody",
+          "coordinate": "C4"
+        },
+        {
+          "name": "Nia",
+          "coordinate": "G5"
+        },
+        {
+          "name": "Gia",
+          "coordinate": "B1"
+        },
+        {
+          "name": "Wes",
+          "coordinate": "D3"
+        },
+        {
+          "name": "Zara",
+          "coordinate": "A2"
+        }
+      ],
+      "empty_room": "Music Archive",
+      "extracted_initial": "M"
+    },
+    {
+      "case": 23,
+      "start_page": 108,
+      "puzzle_page": 111,
+      "board_page": 110,
+      "solution_page": 215,
+      "answer_exact": "Rae at F6",
+      "solution_text_sha256": "a19d64f4765c6b3a0a3bd40cb8bef1baa61caabce15baff6a396c1f374742d7b",
+      "solution_text": "CASE 23 // SOLUTION\nTHE WRISTBAND SWITCH AT ADVENTURE PARK\nHAPPY MAKERS / DETECTIVE ACADEMY\n215\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Rae at F6\nHOW THE EVIDENCE FITS\n01\nVivi resolves to G7 and Pia to B2.\n02\nMae resolves to C5 and Cora to D1.\n03\nOzzy becomes A3.\n04\nJude is E4 in the Prize Tent.\n05\nRae is F6, exactly two columns east of\nCora.\n06\nRae is the only other person in Jude's\nfinal room.\nWHY IT MATTERS\nThe wristband inquiry has a next contact, and another complete map joins the growing set.\n",
+      "hint_pages": [
+        157,
+        166,
+        175
+      ],
+      "protected_evidence_pages": [
+        110,
+        111
+      ],
+      "solution_map_page": 216,
+      "placements": [
+        {
+          "name": "Vivi",
+          "coordinate": "G7"
+        },
+        {
+          "name": "Cora",
+          "coordinate": "D1"
+        },
+        {
+          "name": "Ozzy",
+          "coordinate": "A3"
+        },
+        {
+          "name": "Rae",
+          "coordinate": "F6"
+        },
+        {
+          "name": "Mae",
+          "coordinate": "C5"
+        },
+        {
+          "name": "Pia",
+          "coordinate": "B2"
+        },
+        {
+          "name": "Jude",
+          "coordinate": "E4"
+        }
+      ],
+      "empty_room": "Access Office",
+      "extracted_initial": "A"
+    },
+    {
+      "case": 24,
+      "start_page": 112,
+      "puzzle_page": 115,
+      "board_page": 114,
+      "solution_page": 217,
+      "answer_exact": "EAST PATH -> WEST GATE",
+      "solution_text_sha256": "a54b88b79b52af8f20b0a774e73c886e4af33b15004f9406efb7aa6c6941726f",
+      "solution_text": "CASE 24 // SOLUTION\nTHE FOOTPRINTS THAT WALKED BACKWARDS\nHAPPY MAKERS / DETECTIVE ACADEMY\n217\nSOLUTION FILE // VERIFIED RESULT\nANSWER: EAST PATH -> WEST GATE\nHOW THE EVIDENCE FITS\n01\nThe first print after wet mud must carry\nthe most mud.\n02\nMud decreases 100 -> 70 -> 35 -> 10.\n03\nThat sequence runs from the East Path\ntoward the West Gate.\n04\nThe tread arrow is a pattern on the sole,\nnot proof of walking direction.\nWHY IT MATTERS\nThe changing mud defeats the misleading arrow: observation wins over the most obvious-looking\nsymbol.\n",
+      "hint_pages": [
+        157,
+        166,
+        175
+      ],
+      "protected_evidence_pages": [
+        114,
+        115
+      ]
+    },
+    {
+      "case": 25,
+      "start_page": 116,
+      "puzzle_page": 119,
+      "board_page": 118,
+      "solution_page": 218,
+      "answer_exact": "Casey at D5",
+      "solution_text_sha256": "81b021a78ffd019eee4ff55cd170f59169d3da3acdc6bbf2ade84ee65ea558b1",
+      "solution_text": "CASE 25 // SOLUTION\nTHE PACKAGE WITH NO NAME\nHAPPY MAKERS / DETECTIVE ACADEMY\n218\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Casey at D5\nHOW THE EVIDENCE FITS\n01\nCasey resolves to D5 in the Lobby.\n02\nWynn is B7 and Tate C6 in the Laundry.\n03\nGabe resolves to F3 and Rio E2.\n04\nSol becomes G1.\n05\nNori is A4 in the Lobby.\n06\nCasey is the only other person in Nori's\nfinal room.\nWHY IT MATTERS\nCasey restores the missing parcel handoff, the Archive Restoration tools can be used, and the final\nrequired spatial map is complete.\n",
+      "hint_pages": [
+        158,
+        167,
+        176
+      ],
+      "protected_evidence_pages": [
+        118,
+        119
+      ],
+      "solution_map_page": 219,
+      "placements": [
+        {
+          "name": "Gabe",
+          "coordinate": "F3"
+        },
+        {
+          "name": "Casey",
+          "coordinate": "D5"
+        },
+        {
+          "name": "Rio",
+          "coordinate": "E2"
+        },
+        {
+          "name": "Tate",
+          "coordinate": "C6"
+        },
+        {
+          "name": "Sol",
+          "coordinate": "G1"
+        },
+        {
+          "name": "Wynn",
+          "coordinate": "B7"
+        },
+        {
+          "name": "Nori",
+          "coordinate": "A4"
+        }
+      ],
+      "empty_room": "Parcel Room",
+      "extracted_initial": "P"
+    },
+    {
+      "case": 26,
+      "start_page": 121,
+      "puzzle_page": 123,
+      "board_page": 122,
+      "solution_page": 220,
+      "answer_exact": "CHECK THE OLD MAP",
+      "solution_text_sha256": "65d7424487ab1124395f04c9cb6558478634e4a1be627fc1e3c4407728b3c3b0",
+      "solution_text": "CASE 26 // SOLUTION\nTHE CASE OF THE EMPTY ROOMS\nHAPPY MAKERS / DETECTIVE ACADEMY\n220\nSOLUTION FILE // VERIFIED RESULT\nANSWER: CHECK THE OLD MAP\nHOW THE EVIDENCE FITS\n01\nEach marked spatial case has exactly\none empty final ROOM.\n02\nRecord the first letter of that room in\ncase order.\n03\nThe fourteen letters are C H E C K T H E\nO L D M A P.\n04\nThe hidden instruction is CHECK THE\nOLD MAP.\nWHY IT MATTERS\nThe accumulated map work finally turns into a direction for the larger mystery.\n",
+      "hint_pages": [
+        158,
+        167,
+        176
+      ],
+      "protected_evidence_pages": [
+        122,
+        123
+      ]
+    },
+    {
+      "case": 27,
+      "start_page": 125,
+      "puzzle_page": 127,
+      "board_page": 126,
+      "solution_page": 221,
+      "answer_exact": "SEALED TRAINING ROOM BEHIND THE CURRENT ARCHIVE WALL",
+      "solution_text_sha256": "88489965378cb4eea5c3d670fe874776b8353cb1558a738f071f83c02d03733c",
+      "solution_text": "CASE 27 // SOLUTION\nBIBI'S MAP HAS ONE ROOM WITH ZERO DOORS\nHAPPY MAKERS / DETECTIVE ACADEMY\n221\nSOLUTION FILE // VERIFIED RESULT\nANSWER: SEALED TRAINING ROOM BEHIND THE CURRENT ARCHIVE WALL\nHOW THE EVIDENCE FITS\n01\nThe North Stair fixes rotation.\n02\nThe Courtyard Column fixes horizontal\nposition.\n03\nThe West Lift Shaft confirms scale.\n04\nThe old sealed training room lands\ndirectly behind the current Archive wall.\n05\nThe note says RULE FIRST, ROOM\nSECOND.\nWHY IT MATTERS\nThe team now has a real place to investigate instead of a theory about a missing room.\n",
+      "hint_pages": [
+        158,
+        167,
+        176
+      ],
+      "protected_evidence_pages": [
+        126,
+        127
+      ]
+    },
+    {
+      "case": 28,
+      "start_page": 128,
+      "puzzle_page": 131,
+      "board_page": 130,
+      "solution_page": 222,
+      "answer_exact": "ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.",
+      "solution_text_sha256": "67e94d644c9330ab066e292ad9576a0cbd58e113df59ebd732836340714fa2b6",
+      "solution_text": "CASE 28 // SOLUTION\nRULE ZERO\nHAPPY MAKERS / DETECTIVE ACADEMY\n222\nSOLUTION FILE // VERIFIED RESULT\nANSWER: ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.\nHOW THE EVIDENCE FITS\n01\nSort direct observations into FACT.\n02\nKeep the unfinished-training-system idea\nas a THEORY.\n03\nMove the secret watcher and guaranteed\ntunnel into UNSUPPORTED\nASSUMPTION.\n04\nThe restored rule is ZERO\nASSUMPTIONS. NOTICE FIRST.\nTHEORIZE SECOND.\nWHY IT MATTERS\nRule Zero is restored, giving the team the method it needs before opening the sealed route.\n",
+      "hint_pages": [
+        158,
+        167,
+        176
+      ],
+      "protected_evidence_pages": [
+        130,
+        131
+      ]
+    },
+    {
+      "case": 29,
+      "start_page": 132,
+      "puzzle_page": 135,
+      "board_page": 134,
+      "solution_page": 223,
+      "answer_exact": "Vega at D3",
+      "solution_text_sha256": "a225c160b031749bb65520f519c3f8f83fa6fadb76605d96b96cf25e278b0796",
+      "solution_text": "CASE 29 // SOLUTION\nTHE MAP BENEATH THE MAP\nHAPPY MAKERS / DETECTIVE ACADEMY\n223\nSOLUTION FILE // VERIFIED RESULT\nANSWER: Vega at D3\nHOW THE EVIDENCE FITS\n01\nWade resolves to F7.\n02\nJules is E8 and Bryn G9.\n03\nRen is H5 and Cato I4.\n04\nVega resolves to D3; Mavis A2 and Poppy\nC6.\n05\nSeth is B1 in the Equipment Hall.\n06\nVega is the only other person in Seth's\nfinal area.\n07\nThe final access coordinate is D3.\nWHY IT MATTERS\nThe Room Zero panel can now be tested with an earned coordinate rather than a guessed one.\n",
+      "hint_pages": [
+        159,
+        168,
+        177
+      ],
+      "protected_evidence_pages": [
+        134,
+        135
+      ],
+      "solution_map_page": 224,
+      "placements": [
+        {
+          "name": "Mavis",
+          "coordinate": "A2"
+        },
+        {
+          "name": "Cato",
+          "coordinate": "I4"
+        },
+        {
+          "name": "Jules",
+          "coordinate": "E8"
+        },
+        {
+          "name": "Bryn",
+          "coordinate": "G9"
+        },
+        {
+          "name": "Vega",
+          "coordinate": "D3"
+        },
+        {
+          "name": "Ren",
+          "coordinate": "H5"
+        },
+        {
+          "name": "Poppy",
+          "coordinate": "C6"
+        },
+        {
+          "name": "Wade",
+          "coordinate": "F7"
+        },
+        {
+          "name": "Seth",
+          "coordinate": "B1"
+        }
+      ]
+    },
+    {
+      "case": 30,
+      "start_page": 137,
+      "puzzle_page": 139,
+      "board_page": 138,
+      "solution_page": 225,
+      "answer_exact": "RULE WORD = ASSUMPTIONS / ACCESS = D3 / CODE =\nBALL–STAR–BOLT–HEART–KEY–MOON / CALL SIGN = reader's official call sign",
+      "solution_text_sha256": "be5fe52b92028c55b5802fed2e3032e3ebffc17846bd2f6564755d0c6e7cdfe1",
+      "solution_text": "CASE 30 // SOLUTION\nTHE MYSTERY OF ROOM ZERO\nHAPPY MAKERS / DETECTIVE ACADEMY\n225\nSOLUTION FILE // VERIFIED RESULT\nANSWER: RULE WORD = ASSUMPTIONS / ACCESS = D3 / CODE =\nBALL–STAR–BOLT–HEART–KEY–MOON / CALL SIGN = reader's official call sign\nHOW THE EVIDENCE FITS\n01\nRULE WORD is ASSUMPTIONS, the\nmissing word restored in Rule Zero.\n02\nACCESS is D3, earned from Case 29.\n03\nCODE is BALL, STAR, BOLT, HEART, KEY,\nMOON, earned in Case 05.\n04\nCALL SIGN is the Official Call Sign\nalready written on the Recruit Credential.\n05\nAll four entries come from evidence the\nreader personally earned earlier in the\nbook.\n06\nThe routing log can now certify Field\nPosition 06.\nWHY IT MATTERS\nThe final lock does not reward a lucky guess. It rewards keeping, checking and reconnecting evidence\nacross the whole investigation.\n",
+      "hint_pages": [
+        159,
+        168,
+        177
+      ],
+      "protected_evidence_pages": [
+        138,
+        139
+      ]
+    }
+  ],
+  "case01_current_clues": [
+    "QUILL was in row 1.",
+    "PIP was in row 3.",
+    "MORSE was in column C.",
+    "KNOX was in column D.",
+    "PIP was somewhere to the left of QUILL.",
+    "MORSE was in a lower row than KNOX."
+  ],
+  "case03_ten_current_differences": [
+    {
+      "location": "foreground case label",
+      "A": "017",
+      "B": "071"
+    },
+    {
+      "location": "centre sofa cushion",
+      "A": "pale pattern",
+      "B": "small checks"
+    },
+    {
+      "location": "shield rim",
+      "A": "narrow dark rim",
+      "B": "wide bright dotted rim"
+    },
+    {
+      "location": "ring-shaped award",
+      "A": "tall narrow oval",
+      "B": "wider rounder ring"
+    },
+    {
+      "location": "phone stand base",
+      "A": "rectangular",
+      "B": "circular"
+    },
+    {
+      "location": "recorder front",
+      "A": "plain",
+      "B": "visible buttons"
+    },
+    {
+      "location": "pen",
+      "A": "horizontal",
+      "B": "diagonal"
+    },
+    {
+      "location": "right glass-case crystal",
+      "A": "tall narrow",
+      "B": "wide diamond-shaped"
+    },
+    {
+      "location": "piano pedals",
+      "A": "2",
+      "B": "3"
+    },
+    {
+      "location": "shelf camera",
+      "A": "black raised top",
+      "B": "silver-topped"
+    }
+  ],
+  "case05_exhaustive_permutation_check": {
+    "permutations": 720,
+    "valid_sequences": 1,
+    "sequence": [
+      "BALL",
+      "STAR",
+      "BOLT",
+      "HEART",
+      "KEY",
+      "MOON"
+    ]
+  },
+  "case08": {
+    "routes": {
+      "A": "LOBBY → PAINT CORRIDOR → SIDE HALL → PROP ROOM",
+      "B": "LOBBY → STAFF STAIRS → PROP ROOM",
+      "C": "LOBBY → COSTUME STORAGE → SIDE HALL → PROP ROOM"
+    },
+    "conditions": "Paint Corridor closes at16:30; staffstairslocked; prose explicitlyPaintCorridorclosednow; nowaiting",
+    "answer": "C"
+  },
+  "case09": {
+    "true_plain_zero_records": [
+      "black-envelope intake record",
+      "Trophy Hall tag",
+      "Open Night evidence label",
+      "old locker routing card"
+    ],
+    "exclusions": [
+      "Look-Twice routing file (unmarked)",
+      "poster decoration",
+      "stage-light dial"
+    ],
+    "meaning_at_case09": "Recurring deliberate Academy mark only; explanation unknown."
+  },
+  "case11": {
+    "case_window": "15:20–16:05",
+    "A": "prototype access card SF-10 /15:31",
+    "B": "loose cable tie SF-10 /HALL B /15:44",
+    "C": "silverwheelcap SF-10 /15:52",
+    "D": "Mimi’s phone personalphoto08:07",
+    "ordinary_nontimestamped_records": [
+      "E blackpen teamnotes",
+      "F bluepen teamnotes",
+      "G oatbar MIMI DO NOT CATALOG"
+    ],
+    "answer": "D"
+  },
+  "case14": {
+    "edges": [
+      "DRESSING ↔ HALL",
+      "HALL ↔ STAGE",
+      "HALL ↔ PROP"
+    ],
+    "minutes_per_edge": 2,
+    "accounts": {
+      "MAYA": "At16:10 IwasinDressing.Istayedthere.",
+      "LEO": "At16:12 IcrossedtheHalltowardStage.",
+      "SOFIA": "IwasinPropforthe16:14photo.",
+      "NOAH": "16:10bellonStage; alreadyDressing16:12"
+    },
+    "answer": "NOAH;4minutesrequired2claimed;errornotprovenlie"
+  },
+  "case16": {
+    "buildings": [
+      "OLD ACADEMY ANNEX",
+      "CITY LIBRARY",
+      "NORTH STATION"
+    ],
+    "offered_years": [
+      1998,
+      2002,
+      2008
+    ],
+    "badge_range": [
+      1999,
+      2003
+    ],
+    "security_upgrade_completed": 2001,
+    "envelope_expiry": 2004,
+    "processing_log": "usedbeforeexpiry",
+    "photo_people": 6,
+    "answer": [
+      "OLD ACADEMY ANNEX",
+      2002
+    ],
+    "back_message": "RULE 0 FIRST"
+  },
+  "case18": {
+    "clock_offsets_minutes": {
+      "cafe": -7,
+      "Dilo": 2,
+      "station": 0
+    },
+    "records": {
+      "A": {
+        "shown": "15:08",
+        "source": "cafe",
+        "real": "15:15",
+        "event": "Ticket envelope placed on counter."
+      },
+      "B": {
+        "shown": "15:18",
+        "source": "Dilo",
+        "real": "15:16",
+        "event": "Team enters platform."
+      },
+      "C": {
+        "shown": "15:17",
+        "source": "station",
+        "real": "15:17",
+        "event": "Ticket seen in hand."
+      },
+      "D": {
+        "shown": "15:11",
+        "source": "cafe",
+        "real": "15:18",
+        "event": "Empty envelope collected."
+      }
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "red_herring": "0:07 is ordinary clockarithmetic, not RoomZeroevidence"
+  },
+  "case21": {
+    "scraps": {
+      "A": "WHAT YOU",
+      "B": "THE ANSWER IS",
+      "C": "LEAVE EMPTY.",
+      "D": "IN"
+    },
+    "physical_order": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "method": "StraightleftedgeB;tearjoinsbeforesemanticconfirmation",
+    "message": "THE ANSWER IS IN WHAT YOU LEAVE EMPTY."
+  },
+  "case24": {
+    "travel": [
+      "EAST PATH",
+      "WEST GATE"
+    ],
+    "mud": [
+      100,
+      70,
+      35,
+      10
+    ],
+    "tread": "EAST",
+    "conditions": "One uninterrupted walk; nofreshmud; decorativearrowdoesnotprovewalkingdirection"
+  },
+  "case26": {
+    "selected_cases": [
+      2,
+      4,
+      6,
+      7,
+      10,
+      12,
+      13,
+      15,
+      17,
+      19,
+      20,
+      22,
+      23,
+      25
+    ],
+    "excluded_case": 1,
+    "letters": "C H E C K T H E O L D M A P",
+    "message": "CHECK THE OLD MAP",
+    "procedure": "ExactlyonenamedROOMzeropeoplein eachcompletedmap; initialincaseorder; ignoreZONES;retainallplacements"
+  },
+  "case27": {
+    "anchors": {
+      "C1": "NORTH STAIR",
+      "F3": "COURTYARD COLUMN",
+      "A5": "WEST LIFT SHAFT"
+    },
+    "scale": "1:1",
+    "orientation": "No rotation;samescale",
+    "old_training_room_coordinates": [
+      "D2",
+      "E2",
+      "D3",
+      "E3"
+    ],
+    "current_overlay": "ARCHIVE WALL",
+    "margin_note": "RULE FIRST, ROOM SECOND."
+  },
+  "case28": {
+    "claims": {
+      "A": "The same plain0appearedacrossunrelatedcases.",
+      "B": "Fourteenempty-roominitialsspellCHECKTHEOLDMAP.",
+      "C": "AnoldroomsitsbehindthecurrentArchivewall.",
+      "D": "Someonehasbeensecretlywatchingeverycase.",
+      "E": "TheoldAcademymayhaveleftanunfinishedtrainingsystem.",
+      "F": "Theremustbeadramaticundergroundtunnel."
+    },
+    "sort": {
+      "FACT": [
+        "A",
+        "B",
+        "C"
+      ],
+      "THEORY": [
+        "E"
+      ],
+      "UNSUPPORTED ASSUMPTION": [
+        "D",
+        "F"
+      ]
+    },
+    "word_bank": [
+      "ASSUMPTIONS",
+      "QUESTIONS",
+      "SHORTCUTS",
+      "CERTAINTY"
+    ],
+    "rule": "ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND."
+  },
+  "case30": {
+    "RULE WORD": {
+      "answer": "ASSUMPTIONS",
+      "source_case": 28
+    },
+    "ACCESS": {
+      "answer": "D3",
+      "source_case": 29
+    },
+    "CODE": {
+      "answer": [
+        "BALL",
+        "STAR",
+        "BOLT",
+        "HEART",
+        "KEY",
+        "MOON"
+      ],
+      "source_case": 5
+    },
+    "CALL SIGN": {
+      "answer": "reader’s officialcallsign",
+      "source_page": 9
+    },
+    "field_slots": 4,
+    "certified_position": "06"
+  },
+  "truth_and_reveal_order": [
+    "The intake envelope came from internal Academy stock, with no courier or outside delivery.",
+    "Exactly four controlled records carry the same plain 0. The Look-Twice file was routed but not marked.",
+    "017 is the current Trophy Hall reference; 071 is an older linked Heritage/intake archive file, not a typo.",
+    "The local cases are real, with ordinary resolutions. A room companion is not guilty merely by placement.",
+    "Bibi recognizes the old form, then the photograph and her handwriting; she does not know the zero meaning or missing rule before evidence supplies it.",
+    "Bibi wrote archive route notes as a trainee. The routing log and matching handwriting confirm this only at the finale.",
+    "The old route performs MATCH / ROUTE / VERIFY; CASE CREATION: NONE. It cannot create cases, choose a suspect, investigate, solve cases or choose the reader’s name.",
+    "There are five active field detectives and one archive mentor, Bibi. The reader earns field position06.",
+    "Book1 Room Zero closes. Archive File001 opens a new question with a triangular symbol, a cut-out person and RETURN BEFORE THE FIRST MEETING. It does not explain Book1 through a villain."
+  ],
+  "dependency_closure": [
+    {
+      "from": [
+        3
+      ],
+      "to": [
+        4,
+        6,
+        146
+      ],
+      "lock": "017/071 leadonly; nooldtriangleorfootprintcallback"
+    },
+    {
+      "from": [
+        2,
+        4,
+        5
+      ],
+      "to": [
+        9,
+        34,
+        35,
+        52
+      ],
+      "lock": "fourmarkedrecordsandunknownmeaning"
+    },
+    {
+      "from": [
+        16
+      ],
+      "to": [
+        80,
+        81,
+        17,
+        28,
+        140
+      ],
+      "lock": "datebuildingandRULE0FIRST"
+    },
+    {
+      "from": [
+        21,
+        25
+      ],
+      "to": [
+        26,
+        27
+      ],
+      "lock": "emptynote,mapsetandtransparentoverlays"
+    },
+    {
+      "from": [
+        2,
+        4,
+        6,
+        7,
+        10,
+        12,
+        13,
+        15,
+        17,
+        19,
+        20,
+        22,
+        23,
+        25
+      ],
+      "to": [
+        26
+      ],
+      "lock": "allplacements,roomgeometry,names,initials"
+    },
+    {
+      "from": [
+        26,
+        27,
+        28,
+        29,
+        5,
+        9
+      ],
+      "to": [
+        30,
+        140,
+        141,
+        142,
+        143,
+        145
+      ],
+      "lock": "earnedfourinputs,rulebeforeopening,readeragency"
+    }
+  ],
+  "source_issues": [
+    {
+      "id": "SRC-080-MISSING-RULE",
+      "pages": [
+        80,
+        81,
+        82
+      ],
+      "status": "CONFIRMED_VISUAL",
+      "finding": "p80promisesyounghandwritingthenblank;RULE0FIRSTonlyappearsinheadingandlaterp82;p81askscopyexactline.",
+      "recommendation": "AddexactlockedRULE0FIRSTasboundednarrativerepair;nofigurechange."
+    },
+    {
+      "id": "SRC-122-THIS-PAGE",
+      "pages": [
+        122,
+        123
+      ],
+      "status": "CONFIRMED",
+      "finding": "p122says14selectedcaseslistedonthispage;listisactuallyonp123."
+    },
+    {
+      "id": "SRC-131-SAVE-MISSING",
+      "pages": [
+        131,
+        132,
+        138
+      ],
+      "status": "CONFIRMED_VISUAL",
+      "finding": "V10RuleZeroCaseWallsaveinstructionmissingfromlatest;p131answeronly,p132revealsfullrule;finaleexpectsretrieval."
+    },
+    {
+      "id": "SRC-158-PAGINATION-NOTE",
+      "pages": [
+        158
+      ],
+      "status": "CONFIRMED",
+      "finding": "ReaderfacingHint1stillhasproductionasidefinalpaginationassignedafterlayoutdespite225physicalindex."
+    },
+    {
+      "id": "SRC-009-RACK-SETUP",
+      "pages": [
+        9,
+        143
+      ],
+      "status": "CONFIRMED_VISUAL_FRONT_REVIEW",
+      "finding": "Current p9 omits the rack and empty-hook06 setup; p143 still recalls it. Restore only narrative setup, retaining form pixels."
+    },
+    {
+      "id": "SRC-006-ROSTER",
+      "pages": [
+        6,
+        8,
+        141
+      ],
+      "status": "CONFIRMED_VISUAL_FRONT_REVIEW",
+      "finding": "Six detectives on p6 compresses five field detectives and one archive mentor; the finale distinguishes these roles."
+    }
+  ],
+  "visual_evidence": [
+    {
+      "page": 18,
+      "path": "detective-upgrade/qa/audit-vis/p018.png",
+      "sha256": "469398c1f442f1815f536617ff5df7e77e347229276c7cf949ca61fc71361979"
+    },
+    {
+      "page": 21,
+      "path": "detective-upgrade/qa/audit-vis/p021.png",
+      "sha256": "bb80d289e5a62aa27b1830ca8cb20b301d4a2a4df5b84252f7c600cdbd955733"
+    },
+    {
+      "page": 24,
+      "path": "detective-upgrade/qa/audit-vis/p024.png",
+      "sha256": "23086ad70d41c1f8dc81333bdeda9512c357d1d08d0ec3aa98cb5a40cfa548b9"
+    },
+    {
+      "page": 25,
+      "path": "detective-upgrade/qa/audit-vis/p025.png",
+      "sha256": "b3cb5aea983067a299ef1cab4804adf2518f0a0fb9482dc3f1bf321101dab4ab"
+    },
+    {
+      "page": 29,
+      "path": "detective-upgrade/qa/audit-vis/p029.png",
+      "sha256": "8c6a95bdbbc7f15a7c5686e3b76f2c0d8a4acd210707f7e640e3544e97b2ce37"
+    },
+    {
+      "page": 33,
+      "path": "detective-upgrade/qa/audit-vis/p033.png",
+      "sha256": "7463228787972f3fe18c8b79920f5753a031cde4a926fed431d85b201000ee12"
+    },
+    {
+      "page": 39,
+      "path": "detective-upgrade/qa/audit-vis/p039.png",
+      "sha256": "c0218e69dd55446b26aa4e70771b68784d94d8e5c5c615d290738643f2ae61f1"
+    },
+    {
+      "page": 43,
+      "path": "detective-upgrade/qa/audit-vis/p043.png",
+      "sha256": "3c3df57918e0b5ddce436ae7a5052f5f1bc6f7cd493a0cdb5cf1043d0c84181c"
+    },
+    {
+      "page": 47,
+      "path": "detective-upgrade/qa/audit-vis/p047.png",
+      "sha256": "12a725ea1063a3b36a59e1f189b4619c357ec1b2c11f180fcf6a47ea4868d9c4"
+    },
+    {
+      "page": 51,
+      "path": "detective-upgrade/qa/audit-vis/p051.png",
+      "sha256": "51ed21b11f609948d90db344bcdfac5a01ea41a8b6c5efc1aa6ca2a67023ac25"
+    },
+    {
+      "page": 55,
+      "path": "detective-upgrade/qa/audit-vis/p055.png",
+      "sha256": "8b169560ef84be809a5d8b227b6e46b629f3a22fba3e53d6aab9fffa82730775"
+    },
+    {
+      "page": 59,
+      "path": "detective-upgrade/qa/audit-vis/p059.png",
+      "sha256": "f94c87913612524b15640204a840773fa72513b8ad1eda44f6b4f4ba4b164e99"
+    },
+    {
+      "page": 63,
+      "path": "detective-upgrade/qa/audit-vis/p063.png",
+      "sha256": "a7400f2993ef4aaa2fc95376eda08e4b36ab31bbd1bfd35484457975b4c33693"
+    },
+    {
+      "page": 67,
+      "path": "detective-upgrade/qa/audit-vis/p067.png",
+      "sha256": "93c9ef5e3c007f76b603c8abdadf210df17cd44e90b123f82e109a0f6306eaab"
+    },
+    {
+      "page": 71,
+      "path": "detective-upgrade/qa/audit-vis/p071.png",
+      "sha256": "c8d54ba6312ed973178c27139351eb985d1f6412154dc9481943a9ea673bff1b"
+    },
+    {
+      "page": 75,
+      "path": "detective-upgrade/qa/audit-vis/p075.png",
+      "sha256": "0612fb8997eef3fd6b713986b5fbe5a51f256c66d457bc78a6669042b7aa53df"
+    },
+    {
+      "page": 79,
+      "path": "detective-upgrade/qa/audit-vis/p079.png",
+      "sha256": "13c6222a92ca748bf0da1b6f7ed65400d16ec25dc0a59837cb15693354e529dd"
+    },
+    {
+      "page": 80,
+      "path": "detective-upgrade/qa/audit-vis/p080.png",
+      "sha256": "cf6770c04a7153373200a3f9db403428603bf81570bcc0b0521adaf25fd2c264"
+    },
+    {
+      "page": 85,
+      "path": "detective-upgrade/qa/audit-vis/p085.png",
+      "sha256": "a92b33bb939d82757f9738f514207524ec30410913c1cb42b45498da83972d7b"
+    },
+    {
+      "page": 89,
+      "path": "detective-upgrade/qa/audit-vis/p089.png",
+      "sha256": "07e998a3dc91e39e5f296ef6ccb3890f1e25bbc89811cb91b4f96c05ed04e547"
+    },
+    {
+      "page": 93,
+      "path": "detective-upgrade/qa/audit-vis/p093.png",
+      "sha256": "85d54eaf8a7a785c8f9f280baaf3eef754e169e28429dcafa9ae6d21d32d9ea8"
+    },
+    {
+      "page": 97,
+      "path": "detective-upgrade/qa/audit-vis/p097.png",
+      "sha256": "649795663020b963a3b35192b2effd983c3eac7a685fdd90ce9ec26dd49e3bb7"
+    },
+    {
+      "page": 101,
+      "path": "detective-upgrade/qa/audit-vis/p101.png",
+      "sha256": "ccd4d2eb71bcd7bd71c13a3f04791e403dfedc75c270ac4c2b7ce06a574f9915"
+    },
+    {
+      "page": 107,
+      "path": "detective-upgrade/qa/audit-vis/p107.png",
+      "sha256": "76dc319187d15ee465fcdceddee387db1b386c23206e6ec4f5b5c4127e8e61c7"
+    },
+    {
+      "page": 111,
+      "path": "detective-upgrade/qa/audit-vis/p111.png",
+      "sha256": "1b990369aed83bcc0dfaa90f7fa965ec27f794f5d963995133348f7d6db9cb3b"
+    },
+    {
+      "page": 115,
+      "path": "detective-upgrade/qa/audit-vis/p115.png",
+      "sha256": "0283142a1ed9cb92631d9c39a080d5828454612d5641f3f3a12b9446d36aa735"
+    },
+    {
+      "page": 119,
+      "path": "detective-upgrade/qa/audit-vis/p119.png",
+      "sha256": "8963b7d95cf31303f43562081c106c65379fd13e7ec4eb1969b81ed787d02f31"
+    },
+    {
+      "page": 123,
+      "path": "detective-upgrade/qa/audit-vis/p123.png",
+      "sha256": "4ac2e3df566b4829bb51b3649d932ac85a78e67591d5dc8a68de61a1fa57028c"
+    },
+    {
+      "page": 127,
+      "path": "detective-upgrade/qa/audit-vis/p127.png",
+      "sha256": "2c8a0748507487079ed5889a7f34a4a4f724a6be34056d4beae805826df0daf8"
+    },
+    {
+      "page": 131,
+      "path": "detective-upgrade/qa/audit-vis/p131.png",
+      "sha256": "ec6adbc7f84f9ec69a98bb1c41c4597f23067e6a8aa25c3f649dafa93b696241"
+    },
+    {
+      "page": 135,
+      "path": "detective-upgrade/qa/audit-vis/p135.png",
+      "sha256": "1b4dad2d8ba73e48cce69437015b02f2c20b4969b72fb10f68bb28509bca37cb"
+    },
+    {
+      "page": 139,
+      "path": "detective-upgrade/qa/audit-vis/p139.png",
+      "sha256": "d481488a19f591051349501db74497836fb57142edc245764c72514e18d3cea8"
+    }
+  ]
+}

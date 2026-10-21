@@ -1,0 +1,7 @@
+{
+  "state": "EDITORIAL_CANDIDATE_COMPLETE__CONTINUATION_AVAILABLE",
+  "owner": null,
+  "updated_utc": "2026-10-21T08:54:03.401472+00:00",
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "rule": "Acquire solewriter lease by Git expected-head guarded commit before any candidate edit. Preserve completedproseKEEP; only real unresolved source/layout defects justify furtherchanges. Never start competingmaster. Current runtime BookFactory exclusivewriter ownership retained."
+}

@@ -1,7 +1,7 @@
 +lane: polish_localization
 title: Polish Localization Engine
 updated: '2026-10-21'
-status: WEBSITE_PL_SOURCE_MAPPED_CANDIDATE__35_PAGES_2087_UNITS__SOURCE_GATES_OPEN
+status: WEBSITE_PL35_CANDIDATE_SAVED__DETECTIVE_EN_FULL_UPGRADE_REVIEW_PASS__SOURCE_PRINT_GATES_OPEN
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   engine_base_branch: codex/polish-engine-main-reconcile
@@ -18,6 +18,9 @@ branch_or_repo_state:
   language_tool_base_main: 4b123f5ccdb77f7a8e4390624f7466d16ba665a6
   language_tool_relation: ISOLATED_ADDITIVE_BRANCH_FROM_MAIN__NO_MERGE_OF_DIVERGED_OLD_ENGINE
   website_localization_branch: codex/polish-website-native-source-20261021
+  website_localization_pr: https://github.com/riseshineevolve-source/agency-agents/pull/42
+  website_checkpoint_head: 0945b126b40671bd7fa9a769cfbe3e9229559a7c
+  detective_en_upgrade_branch: codex/detective-en-story-upgrade-20261021
 milestone:
   gentle_steps_pl:
     source: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md
@@ -143,6 +146,33 @@ milestone:
       claims, privacy truth, GooglePlay status; exact segment evidence in reports
     model_routing: central recommendation acknowledged; actual runtime model switch
       unverified; no paid fallback
+  detective_en_story_upgrade:
+    owner_authority: 'Explicit21October2026request: fullcurrentEnglish bookupgrade,
+      preserveallmaps/puzzles;otherHappyMakersbooksreferencecanon.'
+    source_pdf_sha256: 9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0
+    source_intake: source/intake-v4.json
+    source_intake_sha256: fab419c8d30324a04e7368c8acd38faa574088d69169e4451eeb6419cb37a155
+    candidate_sha256: ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e
+    root: localization/detective-en-upgrade/2026-10-21
+    source_pages: 225
+    source_units: 3067
+    changed_units: 91
+    changed_pages: 44
+    protected_units_unchanged: 2367
+    solved_map_placements_preserved: 107
+    reviews: Actualwholeprose nativeEnglish/familyvoice/audience,truth/mechanics,globalstory/logic;
+      finalexactcandidateacceptedaftertargetedfixes.
+    tool: rse-language upgrade en→en, detective-academy project,bounded700prosesurfaces;
+      noPLmigration/freeze.
+    cli: DeterministicPASS; OWNER_GATE forinheritedCase03captionambiguity.
+    proof: 225folioEDITORIALTEXTproof, notillustratedproductPDF;225visiblewordchecksPASS,0offpageblocks,criticalPNGvisualchecks.
+    archive_sha256: ca4153cd5a6b9c1d70fa03b9340ed751ef87f43852a72a97865726470a5f292c
+    production_source_changed: false
+    pl_r8_changed: false
+    freeze_granted: false
+    publication: false
+    continuation: 24hourlyrunsrequested; createdtask resumesaftercheckpoint, one writerlease.
+      ProseKEEP unlessrealdefect; continueactualsource/layoutintegrationchecks.
 blocker:
 - Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page
   PNGs and print-scale reviewer evidence not available.
@@ -192,6 +222,12 @@ dependencies_needed:
     on this feature branch. Integrate onlyPL assets/data and preserveapprovedGuides/ENlayout.
     Resolve exactsource/fact/safety gates, browserdesktop/mobile parity and actualdeployment
     before noindexrelease; no publication authorized by localization QA.
+- lane: detective_book_factory
+  need: ConsumeEXACTENupgradecandidateec93cfc7 fromlocalization/detective-en-upgrade/2026-10-21.91changedblocks44folios;
+    map/puzzleunitsunchanged. Respectverifiedreader-order141–147, restoreRULE0FIRSTphysicalp80/rackseedp9
+    andnarrowp122/p130/p158UXrepairs. Re-renderillustrated225pagebookthroughsoleproductwriter;
+    compareallsourceart/107placements/4marks andactualprintfit. OneinheritedCase03ARCHIVED017/LATER071captionchronologyquerybefore
+    release. EditorialproofisNOTPRINT_READY.
 reusable_outputs:
 - https://github.com/riseshineevolve-source/agency-agents/pull/37
 - scripts/gentle-steps-r6-proof.py
@@ -214,7 +250,10 @@ reusable_outputs:
 - localization/website/2026-10-21/README.md
 - localization/website/2026-10-21/QA_SUMMARY.md
 - localization/website/2026-10-21/RSE_WEBSITE_PL_SOURCE_MAPPED_20261021.zip
-next_safe_task: Website Factory integrate complete PL candidate and validate actual
-  browser interactions/surface fit, resolve documented source gates before release.
-  Preserve Gentle Steps R6 and Detective PL R8; no new book translation.
-checkpoint_reference: localization/website/2026-10-21/README.md
+- localization/detective-en-upgrade/2026-10-21/README.md
+- localization/detective-en-upgrade/2026-10-21/candidate/candidate.json
+- localization/detective-en-upgrade/2026-10-21/RSE_DETECTIVE_EN_STORY_UPGRADE_20261021.zip
+next_safe_task: Continue source-boundBookFactoryintegration/225foliofigureandfitchecksusingexactENcandidate;
+  preservecompletedproseKEEPandPLR8. WebsiteFactoryconsumes35pagePLcandidatefromPR42.
+  Noautomaticrelease/freezes.
+checkpoint_reference: localization/detective-en-upgrade/2026-10-21/CHECKPOINT.md

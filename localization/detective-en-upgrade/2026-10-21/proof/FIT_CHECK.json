@@ -1,0 +1,1134 @@
+{
+  "pages": 225,
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "manuscript_sha256": "77fc543a0e306a0aea2d7791ef7c6181314117b95f44130a5d07af15b37f0116",
+  "pdf_sha256": "9a3a3cc1160e049708ab1bb8b9314dc7ad96619c29a2c5bb17a5e3b47e8c67be",
+  "page_fit": [
+    {
+      "source_folio": 1,
+      "estimated_scale": 1.0,
+      "flow_height": 227.0
+    },
+    {
+      "source_folio": 2,
+      "estimated_scale": 1.0,
+      "flow_height": 160.39999999999998
+    },
+    {
+      "source_folio": 3,
+      "estimated_scale": 1.0,
+      "flow_height": 229.79999999999998
+    },
+    {
+      "source_folio": 4,
+      "estimated_scale": 1.0,
+      "flow_height": 209.2
+    },
+    {
+      "source_folio": 5,
+      "estimated_scale": 1.0,
+      "flow_height": 307.4
+    },
+    {
+      "source_folio": 6,
+      "estimated_scale": 1.0,
+      "flow_height": 287.2
+    },
+    {
+      "source_folio": 7,
+      "estimated_scale": 1.0,
+      "flow_height": 507.0
+    },
+    {
+      "source_folio": 8,
+      "estimated_scale": 1.0,
+      "flow_height": 422.0
+    },
+    {
+      "source_folio": 9,
+      "estimated_scale": 1.0,
+      "flow_height": 243.79999999999998
+    },
+    {
+      "source_folio": 10,
+      "estimated_scale": 1.0,
+      "flow_height": 274.0
+    },
+    {
+      "source_folio": 11,
+      "estimated_scale": 1.0,
+      "flow_height": 330.0
+    },
+    {
+      "source_folio": 12,
+      "estimated_scale": 1.0,
+      "flow_height": 378.99999999999994
+    },
+    {
+      "source_folio": 13,
+      "estimated_scale": 1.0,
+      "flow_height": 106.39999999999999
+    },
+    {
+      "source_folio": 14,
+      "estimated_scale": 1.0,
+      "flow_height": 60.2
+    },
+    {
+      "source_folio": 15,
+      "estimated_scale": 1.0,
+      "flow_height": 84
+    },
+    {
+      "source_folio": 16,
+      "estimated_scale": 1.0,
+      "flow_height": 315.2
+    },
+    {
+      "source_folio": 17,
+      "estimated_scale": 1.0,
+      "flow_height": 250.99999999999997
+    },
+    {
+      "source_folio": 18,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 19,
+      "estimated_scale": 1.0,
+      "flow_height": 451.4
+    },
+    {
+      "source_folio": 20,
+      "estimated_scale": 1.0,
+      "flow_height": 255.8
+    },
+    {
+      "source_folio": 21,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 22,
+      "estimated_scale": 1.0,
+      "flow_height": 168.6
+    },
+    {
+      "source_folio": 23,
+      "estimated_scale": 1.0,
+      "flow_height": 298.0
+    },
+    {
+      "source_folio": 24,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 25,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 26,
+      "estimated_scale": 1.0,
+      "flow_height": 259.4
+    },
+    {
+      "source_folio": 27,
+      "estimated_scale": 1.0,
+      "flow_height": 525.0
+    },
+    {
+      "source_folio": 28,
+      "estimated_scale": 1.0,
+      "flow_height": 270.0
+    },
+    {
+      "source_folio": 29,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 30,
+      "estimated_scale": 1.0,
+      "flow_height": 140.2
+    },
+    {
+      "source_folio": 31,
+      "estimated_scale": 1.0,
+      "flow_height": 343.2
+    },
+    {
+      "source_folio": 32,
+      "estimated_scale": 1.0,
+      "flow_height": 277.8
+    },
+    {
+      "source_folio": 33,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 34,
+      "estimated_scale": 1.0,
+      "flow_height": 360.2
+    },
+    {
+      "source_folio": 35,
+      "estimated_scale": 1.0,
+      "flow_height": 275.0
+    },
+    {
+      "source_folio": 36,
+      "estimated_scale": 1.0,
+      "flow_height": 235.2
+    },
+    {
+      "source_folio": 37,
+      "estimated_scale": 1.0,
+      "flow_height": 433.59999999999997
+    },
+    {
+      "source_folio": 38,
+      "estimated_scale": 1.0,
+      "flow_height": 301.0
+    },
+    {
+      "source_folio": 39,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 40,
+      "estimated_scale": 1.0,
+      "flow_height": 150.8
+    },
+    {
+      "source_folio": 41,
+      "estimated_scale": 1.0,
+      "flow_height": 394.59999999999997
+    },
+    {
+      "source_folio": 42,
+      "estimated_scale": 1.0,
+      "flow_height": 277.0
+    },
+    {
+      "source_folio": 43,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 44,
+      "estimated_scale": 1.0,
+      "flow_height": 126.0
+    },
+    {
+      "source_folio": 45,
+      "estimated_scale": 1.0,
+      "flow_height": 298.0
+    },
+    {
+      "source_folio": 46,
+      "estimated_scale": 1.0,
+      "flow_height": 104.6
+    },
+    {
+      "source_folio": 47,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 48,
+      "estimated_scale": 1.0,
+      "flow_height": 154.39999999999998
+    },
+    {
+      "source_folio": 49,
+      "estimated_scale": 1.0,
+      "flow_height": 343.2
+    },
+    {
+      "source_folio": 50,
+      "estimated_scale": 1.0,
+      "flow_height": 104.6
+    },
+    {
+      "source_folio": 51,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 52,
+      "estimated_scale": 1.0,
+      "flow_height": 231.6
+    },
+    {
+      "source_folio": 53,
+      "estimated_scale": 1.0,
+      "flow_height": 408.8
+    },
+    {
+      "source_folio": 54,
+      "estimated_scale": 1.0,
+      "flow_height": 331.6
+    },
+    {
+      "source_folio": 55,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 56,
+      "estimated_scale": 1.0,
+      "flow_height": 154.39999999999998
+    },
+    {
+      "source_folio": 57,
+      "estimated_scale": 1.0,
+      "flow_height": 343.2
+    },
+    {
+      "source_folio": 58,
+      "estimated_scale": 1.0,
+      "flow_height": 95.6
+    },
+    {
+      "source_folio": 59,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 60,
+      "estimated_scale": 1.0,
+      "flow_height": 168.6
+    },
+    {
+      "source_folio": 61,
+      "estimated_scale": 1.0,
+      "flow_height": 298.0
+    },
+    {
+      "source_folio": 62,
+      "estimated_scale": 1.0,
+      "flow_height": 277.0
+    },
+    {
+      "source_folio": 63,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 64,
+      "estimated_scale": 1.0,
+      "flow_height": 150.8
+    },
+    {
+      "source_folio": 65,
+      "estimated_scale": 1.0,
+      "flow_height": 482.4
+    },
+    {
+      "source_folio": 66,
+      "estimated_scale": 1.0,
+      "flow_height": 291.2
+    },
+    {
+      "source_folio": 67,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 68,
+      "estimated_scale": 1.0,
+      "flow_height": 154.39999999999998
+    },
+    {
+      "source_folio": 69,
+      "estimated_scale": 1.0,
+      "flow_height": 343.2
+    },
+    {
+      "source_folio": 70,
+      "estimated_scale": 1.0,
+      "flow_height": 104.6
+    },
+    {
+      "source_folio": 71,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 72,
+      "estimated_scale": 1.0,
+      "flow_height": 154.39999999999998
+    },
+    {
+      "source_folio": 73,
+      "estimated_scale": 1.0,
+      "flow_height": 252.79999999999998
+    },
+    {
+      "source_folio": 74,
+      "estimated_scale": 1.0,
+      "flow_height": 298.2
+    },
+    {
+      "source_folio": 75,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 76,
+      "estimated_scale": 1.0,
+      "flow_height": 221.0
+    },
+    {
+      "source_folio": 77,
+      "estimated_scale": 1.0,
+      "flow_height": 367.2
+    },
+    {
+      "source_folio": 78,
+      "estimated_scale": 1.0,
+      "flow_height": 135.6
+    },
+    {
+      "source_folio": 79,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 80,
+      "estimated_scale": 1.0,
+      "flow_height": 136.6
+    },
+    {
+      "source_folio": 81,
+      "estimated_scale": 1.0,
+      "flow_height": 146.4
+    },
+    {
+      "source_folio": 82,
+      "estimated_scale": 1.0,
+      "flow_height": 199.6
+    },
+    {
+      "source_folio": 83,
+      "estimated_scale": 1.0,
+      "flow_height": 343.2
+    },
+    {
+      "source_folio": 84,
+      "estimated_scale": 1.0,
+      "flow_height": 284.0
+    },
+    {
+      "source_folio": 85,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 86,
+      "estimated_scale": 1.0,
+      "flow_height": 154.39999999999998
+    },
+    {
+      "source_folio": 87,
+      "estimated_scale": 1.0,
+      "flow_height": 298.0
+    },
+    {
+      "source_folio": 88,
+      "estimated_scale": 1.0,
+      "flow_height": 116.8
+    },
+    {
+      "source_folio": 89,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 90,
+      "estimated_scale": 1.0,
+      "flow_height": 182.8
+    },
+    {
+      "source_folio": 91,
+      "estimated_scale": 1.0,
+      "flow_height": 343.2
+    },
+    {
+      "source_folio": 92,
+      "estimated_scale": 1.0,
+      "flow_height": 301.0
+    },
+    {
+      "source_folio": 93,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 94,
+      "estimated_scale": 1.0,
+      "flow_height": 182.8
+    },
+    {
+      "source_folio": 95,
+      "estimated_scale": 1.0,
+      "flow_height": 343.2
+    },
+    {
+      "source_folio": 96,
+      "estimated_scale": 1.0,
+      "flow_height": 282.2
+    },
+    {
+      "source_folio": 97,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 98,
+      "estimated_scale": 1.0,
+      "flow_height": 197.0
+    },
+    {
+      "source_folio": 99,
+      "estimated_scale": 1.0,
+      "flow_height": 388.4
+    },
+    {
+      "source_folio": 100,
+      "estimated_scale": 1.0,
+      "flow_height": 95.6
+    },
+    {
+      "source_folio": 101,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 102,
+      "estimated_scale": 1.0,
+      "flow_height": 189.0
+    },
+    {
+      "source_folio": 103,
+      "estimated_scale": 1.0,
+      "flow_height": 150.8
+    },
+    {
+      "source_folio": 104,
+      "estimated_scale": 1.0,
+      "flow_height": 140.2
+    },
+    {
+      "source_folio": 105,
+      "estimated_scale": 1.0,
+      "flow_height": 298.0
+    },
+    {
+      "source_folio": 106,
+      "estimated_scale": 1.0,
+      "flow_height": 289.2
+    },
+    {
+      "source_folio": 107,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 108,
+      "estimated_scale": 1.0,
+      "flow_height": 211.2
+    },
+    {
+      "source_folio": 109,
+      "estimated_scale": 1.0,
+      "flow_height": 298.0
+    },
+    {
+      "source_folio": 110,
+      "estimated_scale": 1.0,
+      "flow_height": 364.6
+    },
+    {
+      "source_folio": 111,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 112,
+      "estimated_scale": 1.0,
+      "flow_height": 126.0
+    },
+    {
+      "source_folio": 113,
+      "estimated_scale": 1.0,
+      "flow_height": 343.2
+    },
+    {
+      "source_folio": 114,
+      "estimated_scale": 1.0,
+      "flow_height": 128.6
+    },
+    {
+      "source_folio": 115,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 116,
+      "estimated_scale": 1.0,
+      "flow_height": 154.39999999999998
+    },
+    {
+      "source_folio": 117,
+      "estimated_scale": 1.0,
+      "flow_height": 298.0
+    },
+    {
+      "source_folio": 118,
+      "estimated_scale": 1.0,
+      "flow_height": 268.0
+    },
+    {
+      "source_folio": 119,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 120,
+      "estimated_scale": 1.0,
+      "flow_height": 443.4
+    },
+    {
+      "source_folio": 121,
+      "estimated_scale": 1.0,
+      "flow_height": 380.4
+    },
+    {
+      "source_folio": 122,
+      "estimated_scale": 1.0,
+      "flow_height": 138.0
+    },
+    {
+      "source_folio": 123,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 124,
+      "estimated_scale": 1.0,
+      "flow_height": 136.6
+    },
+    {
+      "source_folio": 125,
+      "estimated_scale": 1.0,
+      "flow_height": 366.2
+    },
+    {
+      "source_folio": 126,
+      "estimated_scale": 1.0,
+      "flow_height": 119.6
+    },
+    {
+      "source_folio": 127,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 128,
+      "estimated_scale": 1.0,
+      "flow_height": 171.2
+    },
+    {
+      "source_folio": 129,
+      "estimated_scale": 1.0,
+      "flow_height": 298.0
+    },
+    {
+      "source_folio": 130,
+      "estimated_scale": 1.0,
+      "flow_height": 138.2
+    },
+    {
+      "source_folio": 131,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 132,
+      "estimated_scale": 1.0,
+      "flow_height": 213.8
+    },
+    {
+      "source_folio": 133,
+      "estimated_scale": 1.0,
+      "flow_height": 298.0
+    },
+    {
+      "source_folio": 134,
+      "estimated_scale": 1.0,
+      "flow_height": 310.4
+    },
+    {
+      "source_folio": 135,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 136,
+      "estimated_scale": 1.0,
+      "flow_height": 150.8
+    },
+    {
+      "source_folio": 137,
+      "estimated_scale": 1.0,
+      "flow_height": 385.0
+    },
+    {
+      "source_folio": 138,
+      "estimated_scale": 1.0,
+      "flow_height": 214.6
+    },
+    {
+      "source_folio": 139,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 140,
+      "estimated_scale": 1.0,
+      "flow_height": 252.79999999999998
+    },
+    {
+      "source_folio": 141,
+      "estimated_scale": 1.0,
+      "flow_height": 297.2
+    },
+    {
+      "source_folio": 142,
+      "estimated_scale": 1.0,
+      "flow_height": 278.59999999999997
+    },
+    {
+      "source_folio": 143,
+      "estimated_scale": 1.0,
+      "flow_height": 297.4
+    },
+    {
+      "source_folio": 144,
+      "estimated_scale": 1.0,
+      "flow_height": 122.4
+    },
+    {
+      "source_folio": 145,
+      "estimated_scale": 1.0,
+      "flow_height": 332.8
+    },
+    {
+      "source_folio": 146,
+      "estimated_scale": 1.0,
+      "flow_height": 191.2
+    },
+    {
+      "source_folio": 147,
+      "estimated_scale": 1.0,
+      "flow_height": 215.0
+    },
+    {
+      "source_folio": 148,
+      "estimated_scale": 0.992721979621543,
+      "flow_height": 1236
+    },
+    {
+      "source_folio": 149,
+      "estimated_scale": 0.9798261550103219,
+      "flow_height": 1266
+    },
+    {
+      "source_folio": 150,
+      "estimated_scale": 1.0,
+      "flow_height": 183
+    },
+    {
+      "source_folio": 151,
+      "estimated_scale": 1.0,
+      "flow_height": 174.6
+    },
+    {
+      "source_folio": 152,
+      "estimated_scale": 1.0,
+      "flow_height": 289.0
+    },
+    {
+      "source_folio": 153,
+      "estimated_scale": 1.0,
+      "flow_height": 289.0
+    },
+    {
+      "source_folio": 154,
+      "estimated_scale": 1.0,
+      "flow_height": 267.8
+    },
+    {
+      "source_folio": 155,
+      "estimated_scale": 1.0,
+      "flow_height": 267.8
+    },
+    {
+      "source_folio": 156,
+      "estimated_scale": 1.0,
+      "flow_height": 267.8
+    },
+    {
+      "source_folio": 157,
+      "estimated_scale": 1.0,
+      "flow_height": 267.8
+    },
+    {
+      "source_folio": 158,
+      "estimated_scale": 1.0,
+      "flow_height": 303.19999999999993
+    },
+    {
+      "source_folio": 159,
+      "estimated_scale": 1.0,
+      "flow_height": 198.6
+    },
+    {
+      "source_folio": 160,
+      "estimated_scale": 1.0,
+      "flow_height": 167.6
+    },
+    {
+      "source_folio": 161,
+      "estimated_scale": 1.0,
+      "flow_height": 331.4
+    },
+    {
+      "source_folio": 162,
+      "estimated_scale": 1.0,
+      "flow_height": 289.0
+    },
+    {
+      "source_folio": 163,
+      "estimated_scale": 1.0,
+      "flow_height": 267.8
+    },
+    {
+      "source_folio": 164,
+      "estimated_scale": 1.0,
+      "flow_height": 267.8
+    },
+    {
+      "source_folio": 165,
+      "estimated_scale": 1.0,
+      "flow_height": 267.8
+    },
+    {
+      "source_folio": 166,
+      "estimated_scale": 1.0,
+      "flow_height": 267.8
+    },
+    {
+      "source_folio": 167,
+      "estimated_scale": 1.0,
+      "flow_height": 289.0
+    },
+    {
+      "source_folio": 168,
+      "estimated_scale": 1.0,
+      "flow_height": 177.39999999999998
+    },
+    {
+      "source_folio": 169,
+      "estimated_scale": 1.0,
+      "flow_height": 167.6
+    },
+    {
+      "source_folio": 170,
+      "estimated_scale": 1.0,
+      "flow_height": 310.2
+    },
+    {
+      "source_folio": 171,
+      "estimated_scale": 1.0,
+      "flow_height": 310.2
+    },
+    {
+      "source_folio": 172,
+      "estimated_scale": 1.0,
+      "flow_height": 289.0
+    },
+    {
+      "source_folio": 173,
+      "estimated_scale": 1.0,
+      "flow_height": 289.0
+    },
+    {
+      "source_folio": 174,
+      "estimated_scale": 1.0,
+      "flow_height": 267.8
+    },
+    {
+      "source_folio": 175,
+      "estimated_scale": 1.0,
+      "flow_height": 267.8
+    },
+    {
+      "source_folio": 176,
+      "estimated_scale": 1.0,
+      "flow_height": 289.0
+    },
+    {
+      "source_folio": 177,
+      "estimated_scale": 1.0,
+      "flow_height": 219.79999999999998
+    },
+    {
+      "source_folio": 178,
+      "estimated_scale": 1.0,
+      "flow_height": 203.0
+    },
+    {
+      "source_folio": 179,
+      "estimated_scale": 1.0,
+      "flow_height": 470.0
+    },
+    {
+      "source_folio": 180,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 181,
+      "estimated_scale": 1.0,
+      "flow_height": 286.2
+    },
+    {
+      "source_folio": 182,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 183,
+      "estimated_scale": 1.0,
+      "flow_height": 561.8
+    },
+    {
+      "source_folio": 184,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 185,
+      "estimated_scale": 1.0,
+      "flow_height": 300.4
+    },
+    {
+      "source_folio": 186,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 187,
+      "estimated_scale": 1.0,
+      "flow_height": 355.4
+    },
+    {
+      "source_folio": 188,
+      "estimated_scale": 1.0,
+      "flow_height": 342.79999999999995
+    },
+    {
+      "source_folio": 189,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 190,
+      "estimated_scale": 1.0,
+      "flow_height": 349.79999999999995
+    },
+    {
+      "source_folio": 191,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 192,
+      "estimated_scale": 1.0,
+      "flow_height": 345.59999999999997
+    },
+    {
+      "source_folio": 193,
+      "estimated_scale": 1.0,
+      "flow_height": 331.4
+    },
+    {
+      "source_folio": 194,
+      "estimated_scale": 1.0,
+      "flow_height": 286.2
+    },
+    {
+      "source_folio": 195,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 196,
+      "estimated_scale": 1.0,
+      "flow_height": 381.0
+    },
+    {
+      "source_folio": 197,
+      "estimated_scale": 1.0,
+      "flow_height": 371.0
+    },
+    {
+      "source_folio": 198,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 199,
+      "estimated_scale": 1.0,
+      "flow_height": 328.59999999999997
+    },
+    {
+      "source_folio": 200,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 201,
+      "estimated_scale": 1.0,
+      "flow_height": 345.6
+    },
+    {
+      "source_folio": 202,
+      "estimated_scale": 1.0,
+      "flow_height": 286.2
+    },
+    {
+      "source_folio": 203,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 204,
+      "estimated_scale": 1.0,
+      "flow_height": 402.2
+    },
+    {
+      "source_folio": 205,
+      "estimated_scale": 1.0,
+      "flow_height": 364.0
+    },
+    {
+      "source_folio": 206,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 207,
+      "estimated_scale": 1.0,
+      "flow_height": 289.0
+    },
+    {
+      "source_folio": 208,
+      "estimated_scale": 1.0,
+      "flow_height": 321.59999999999997
+    },
+    {
+      "source_folio": 209,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 210,
+      "estimated_scale": 1.0,
+      "flow_height": 364.0
+    },
+    {
+      "source_folio": 211,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 212,
+      "estimated_scale": 1.0,
+      "flow_height": 306.0
+    },
+    {
+      "source_folio": 213,
+      "estimated_scale": 1.0,
+      "flow_height": 364.0
+    },
+    {
+      "source_folio": 214,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 215,
+      "estimated_scale": 1.0,
+      "flow_height": 307.4
+    },
+    {
+      "source_folio": 216,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 217,
+      "estimated_scale": 1.0,
+      "flow_height": 331.4
+    },
+    {
+      "source_folio": 218,
+      "estimated_scale": 1.0,
+      "flow_height": 307.4
+    },
+    {
+      "source_folio": 219,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 220,
+      "estimated_scale": 1.0,
+      "flow_height": 362.59999999999997
+    },
+    {
+      "source_folio": 221,
+      "estimated_scale": 1.0,
+      "flow_height": 327.2
+    },
+    {
+      "source_folio": 222,
+      "estimated_scale": 1.0,
+      "flow_height": 386.59999999999997
+    },
+    {
+      "source_folio": 223,
+      "estimated_scale": 1.0,
+      "flow_height": 331.4
+    },
+    {
+      "source_folio": 224,
+      "estimated_scale": 1.0,
+      "flow_height": 21.2
+    },
+    {
+      "source_folio": 225,
+      "estimated_scale": 1.0,
+      "flow_height": 449.0
+    }
+  ],
+  "status": "EDITORIAL_PROOF_NOT_PRODUCT_LAYOUT"
+}

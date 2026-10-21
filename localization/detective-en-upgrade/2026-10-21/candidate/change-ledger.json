@@ -1,0 +1,692 @@
+[
+  {
+    "page": 19,
+    "old": "That may be Alio's\nfastest promotion from\ntheory to useful\nquestion.",
+    "new": "I liked the posture\ntheory. But I am\nwriting down the\nuseful question.",
+    "defect": "Nini sounds like an adult performance assessor; keep affection for Alio while backing his improved question.",
+    "actual_changed_ids": [
+      "page019.block35",
+      "page019.block36"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 22,
+    "old": "\"Ten differences,\" she says. \"Then we ask why there are ten.\"",
+    "new": "\"Ten differences,\" she says. \"A complete list. Then we check which record each photograph belongs to.\"",
+    "defect": "Ten treated as unexplained numerology; focus on provenance, which the printed photo labels already partly disclose.",
+    "actual_changed_ids": [
+      "page022.block12"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 23,
+    "old": "01  NINI\nThe trophy shelf is trying very hard to look important.\n02  LULI\nIt is a trophy shelf.\n03  NINI\nSo we compare everything and trust nothing glamorous.\n04  DILO\nA harsh day for shiny objects.\n05  LULI\nA normal day for evidence.",
+    "new": "01  NINI\nI have found a sparkle. I am calling it Inspector Glitter.\n02  LULI\nDoes Inspector Glitter show a difference between the photographs?\n03  NINI\nNot yet. I may have promoted it too soon.\n04  DILO\nA difficult first day.\n05  LULI\nInspector Glitter can sit with you. We still need all ten differences.",
+    "defect": "Restore Nini's particular attachment and agency without declaring a sparkle a real clue or restoring obsolete differences.",
+    "actual_changed_ids": [
+      "page023.block05",
+      "page023.block07",
+      "page023.block09",
+      "page023.block11",
+      "page023.block13"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 27,
+    "old": "Your ten-change list gives Trophy Hall the break it\nneeds. The evidence case label in the foreground\nis different.",
+    "new": "Your ten-change list confirms that these are not\ntwo copies of one room check. The file captions\npoint to different records; the evidence case label\ninside the photographs confirms the mismatch.",
+    "defect": "Avoid pretending the reader discovered provenance not already printed in captions.",
+    "actual_changed_ids": [
+      "page027.block03",
+      "page027.block04",
+      "page027.block05"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 34,
+    "old": "Mimi finally turns the intake printer off.",
+    "new": "Mimi checks the intake tray. For once, nothing new slides out.",
+    "defect": "Printer must remain able to cough at p98 without an invented restart.",
+    "actual_changed_ids": [
+      "page034.block08"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 37,
+    "old": "2\nLULI\nWe have a Roman spoon.",
+    "new": "2\nLULI\nI know. I was hoping for\nthe tooth too. We have a\nRoman spoon.",
+    "defect": "Luli repeatedly corrects without showing shared hopes; a small admission gives her range.",
+    "actual_changed_ids": [
+      "page037.block08"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 45,
+    "old": "05  DILO\nPlease do not negotiate with any load-bearing walls.",
+    "new": "05  DILO\nI will hold the map. You handle negotiations with the door signs.",
+    "defect": "Dilo contributes practical help and lets Alio retain agency instead of adding another rebuke.",
+    "actual_changed_ids": [
+      "page045.block13"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 48,
+    "old": "Bibi reaches the table, sees the true set -\nand stops.\nFor the first time all day, nobody fills the silence.",
+    "new": "Bibi reaches the table and starts to say something.\nThen she catches herself and waits for your classification.\nMemory can wait while you test the marks.",
+    "defect": "Keep recognition after reader classification; avoid pre-certifying the true set.",
+    "actual_changed_ids": [
+      "page048.block07",
+      "page048.block08",
+      "page048.block09"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 49,
+    "old": "03  LULI\nThank you.",
+    "new": "03  LULI\nWe will check it with you.",
+    "defect": "Precision becomes shared support rather than grading Bibi.",
+    "actual_changed_ids": [
+      "page049.block09"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 60,
+    "old": "that is the only other person who may have been close enough for\nthe bird to learn those four words.",
+    "new": "that gives the team a grounded\nplace to start asking where those four words came from.",
+    "defect": "Mapped snapshot proves next contact, not universal exclusivity of contact with the bird.",
+    "actual_changed_ids": [
+      "page060.block08"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 61,
+    "old": "02  NINI\nTry listening before your next question.",
+    "new": "02  NINI\nWait. I think it is asking us for something.",
+    "defect": "Nini listens to a creature instead of issuing an adult interview maxim.",
+    "actual_changed_ids": [
+      "page061.block07"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 65,
+    "old": "Alio quietly\nwrites \"fox with pockets\" on a scrap of\npaper. Nini turns the scrap over.",
+    "new": "Alio quietly\nwrites \"fox with pockets\" on a scrap of\npaper. Underneath, he adds a question\nmark. Nini pushes a pencil his way.",
+    "defect": "Keep playful theory but let Alio mark its uncertainty himself; sibling supports his contribution.",
+    "actual_changed_ids": [
+      "page065.block16",
+      "page065.block26",
+      "page065.block27",
+      "page065.block29",
+      "page065.block31"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 65,
+    "old": "NINI\n4\nAdd \"fox\noperating\ncamera\nequipment\".",
+    "new": "NINI\n4\nI will keep a\nspace for the\nanswer.",
+    "defect": "Nini helps rather than joining two consecutive attacks on Alio's competence.",
+    "actual_changed_ids": [
+      "page065.block16",
+      "page065.block26",
+      "page065.block27",
+      "page065.block29",
+      "page065.block31"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 65,
+    "old": "Cruel. Fair.",
+    "new": "Useful. Thank you.",
+    "defect": "Let Alio accept practical support without a canned self-put-down.",
+    "actual_changed_ids": [
+      "page065.block16",
+      "page065.block26",
+      "page065.block27",
+      "page065.block29",
+      "page065.block31"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 65,
+    "old": "Evidence remains\nstubbornly unfoxy.",
+    "new": "Start with what\nthe camera saw.",
+    "defect": "Avoid third consecutive correction aimed at Alio; return shared attention to the actual task.",
+    "actual_changed_ids": [
+      "page065.block16",
+      "page065.block26",
+      "page065.block27",
+      "page065.block29",
+      "page065.block31"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 69,
+    "old": "06  LULI\nQuietly.",
+    "new": "06  LULI\nCertainly. Help me count its minutes.",
+    "defect": "Give Alio a useful role instead of silencing him.",
+    "actual_changed_ids": [
+      "page069.block15"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 73,
+    "old": "04  ALIO\nUnexpectedly advanced technology.",
+    "new": "04  ALIO\nUnexpectedly advanced technology. I will write mine large.",
+    "defect": "Complete banter with a useful voluntary action while keeping established joke.",
+    "actual_changed_ids": [
+      "page073.block11"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 86,
+    "old": "The station file still makes Reed look oddly safe from the handoff: one uncorrected timestamp\nappears to place him elsewhere seven minutes before another record says the ticket changed\nhands.\nThat would be a very convenient alibi.",
+    "new": "The station file still seems to disagree with that account: one uncorrected timestamp\nplaces Reed elsewhere seven minutes before another record says the ticket changed hands.\nDilo circles the gap. It looks important. It has not proved anything yet.",
+    "defect": "Seven minutes before an event is not inherently an alibi; retain apparent inconsistency without claiming innocence proof.",
+    "actual_changed_ids": [
+      "page086.block05",
+      "page086.block06"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 91,
+    "old": "05  NINI\nGhost application denied pending scanner records.",
+    "new": "05  NINI\nIf it turns up later, I am asking whether it likes books.",
+    "defect": "Reduce bureaucratic Nini; let her curiosity accept Dilo's provisional imaginary visitor without making it evidence.",
+    "actual_changed_ids": [
+      "page091.block13",
+      "page091.block15"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 91,
+    "old": "Temporary denial.",
+    "new": "After the scanner, then.",
+    "defect": "New Nini curiosity needs a responsive final Dilo turn rather than obsolete application-denial reply.",
+    "actual_changed_ids": [
+      "page091.block13",
+      "page091.block15"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 94,
+    "old": "This time, the instruction from page 11 matters: keep every final position.",
+    "new": "Keep following the instruction from page 11: record every final position.",
+    "defect": "Retention matters throughout, not newly in this case; preserve full-map dependency.",
+    "actual_changed_ids": [
+      "page094.block09"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 98,
+    "old": "Nobody laughs.\nFor the first time,",
+    "new": "Nobody laughs.\nMimi puts the evidence mat under the scraps.\n\"Leave them there, Dilo. We can work with this.\"\nLuli moves the nearest folder out of his way.\nFor the first time,",
+    "defect": "Dilo's accidental damage needs immediate practical care before method; preserve consequence and crucial silence.",
+    "actual_changed_ids": [
+      "page098.block16"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 102,
+    "old": "Nini looks at the saved maps, then at the four scraps.\n\"If that sentence means what it says,\" she says, \"we are not ready to test it yet.\"\nNo one tears anything else.",
+    "new": "Nini looks at the saved maps, then at the four scraps.\n\"Empty what?\" she asks.\nLuli leaves the question beside the note instead of filling it in.\nDilo steadies the sleeve while Mimi closes it.",
+    "defect": "Remove clairvoyant claim that future set incomplete; return Dilo to useful participation instead of surveillance joke.",
+    "actual_changed_ids": [
+      "page102.block06",
+      "page102.block07"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 104,
+    "old": "By morning, the torn-note message is still sitting on the Case Wall and still refusing to be\nuseful.\nThat is irritating.\nThe Academy Sound Lab brings a problem that at least behaves like a normal case.",
+    "new": "By morning, the repaired note is safe on the Case Wall.\nAt Sound Lab, the shelves need their proper contents back.",
+    "defect": "Repeated waiting shell stalls stretch; shift emphasis to a real local need without manufacturing stakes.",
+    "actual_changed_ids": [
+      "page104.block03",
+      "page104.block04",
+      "page104.block05",
+      "page104.block06",
+      "page104.block07",
+      "page104.block08",
+      "page104.block09",
+      "page104.block10"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 104,
+    "old": "The note from Room Zero can wait.\nFor now.",
+    "new": "Mimi brings the file within your reach. \"Let us put these back properly.\"",
+    "defect": "Replace another deferral tease with concrete help and reader agency.",
+    "actual_changed_ids": [
+      "page104.block03",
+      "page104.block04",
+      "page104.block05",
+      "page104.block06",
+      "page104.block07",
+      "page104.block08",
+      "page104.block09",
+      "page104.block10"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 105,
+    "old": "04  NINI\nShelves first. Careers later.\n05  DILO\nI am recording \"careers later.\"",
+    "new": "04  NINI\nThe instruments would like their own beds back.\n05  DILO\nThen we had better sort out the bedrooms.",
+    "defect": "Nini cares for an imagined object; Alio turns his own joke toward the task rather than being stopped by a maxim.",
+    "actual_changed_ids": [
+      "page105.block12",
+      "page105.block14"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 108,
+    "old": "The Room Zero message still refuses to explain what empty is supposed to mean.\n",
+    "new": "Nini keeps the repaired note beside the maps.\n",
+    "defect": "Third repeated refusal beat in short stretch; remove without changing saved note or complete maps.",
+    "actual_changed_ids": [
+      "page108.block06"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 112,
+    "old": "Dilo likes that detail.\nLuli does not dislike it. She simply refuses to promote resembles into is.\nThere is one piece of evidence the footprints themselves are changing from step to step: the\namount of mud.\nThe arrow on the tread is loud.\nThe mud is useful.",
+    "new": "Dilo crouches beside it.\nAlio starts pointing along the arrow, then lowers his hand.\n\"Wait. Let me look at the whole trail.\"\nMimi holds the tracking sheet where both of them can see it.",
+    "defect": "Remove duplicate pre-solve answer announcement; reader still receives immutable explicit mud rules on p114.",
+    "actual_changed_ids": [
+      "page112.block03",
+      "page112.block04",
+      "page112.block05",
+      "page112.block06",
+      "page112.block07",
+      "page112.block08",
+      "page112.block09",
+      "page112.block10",
+      "page112.block11"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 113,
+    "old": "05  MIMI\nThe arrow shouts. The mud explains.\n06  ALIO\nPainful. But memorable.",
+    "new": "05  MIMI\nI will wait here while you check.\n06  ALIO\nGood. I would like my next theory to have feet.",
+    "defect": "Keep Alio's voluntary self-correction, add patience; remove second premature declaration of right clue.",
+    "actual_changed_ids": [
+      "page113.block13",
+      "page113.block15"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 116,
+    "old": "Solve the Lobby and you recover the handoff immediately before him - the person who can tell\nreception who gave Nori the parcel when the paper trail disappeared.",
+    "new": "Rebuild the Lobby snapshot and find his room companion - the next person reception can ask\nabout the missing parcel handoff.",
+    "defect": "Companion placement alone does not prove a handoff or comprehensive witness knowledge.",
+    "actual_changed_ids": [
+      "page116.block10"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 117,
+    "old": "05  MIMI\nPlease stop investigating lunch.",
+    "new": "05  MIMI\nWe can investigate lunch after the handoff. I saved you a place.",
+    "defect": "Mimi repeatedly blocks food request; let practical care carry the affectionate limit.",
+    "actual_changed_ids": [
+      "page117.block13"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 125,
+    "old": "Fourteen empty-room initials give you one\ninstruction: CHECK THE OLD MAP Bibi",
+    "new": "Fourteen empty-room initials give you one\ninstruction: CHECK THE OLD MAP. Bibi",
+    "defect": "Missing sentence stop obscures earned instruction.",
+    "actual_changed_ids": [
+      "page125.block04",
+      "page125.block07",
+      "page125.block08",
+      "page125.block09",
+      "page125.block10"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 125,
+    "old": "The North Stair matches. The\nCourtyard Column matches. The West\nLift Shaft matches. The rest of the\nbuilding has changed with time.\nAlmost all of it. One room exists only\non the old plan.",
+    "new": "Three landmarks appear on both\nplans: the North Stair, the Courtyard\nColumn and the West Lift Shaft.\nMuch of the building has changed.\nBefore you can trust either plan\nalone, you need to line them up.",
+    "defect": "Opener solves alignment before reader acts; present landmarks for test and reserve result for p128.",
+    "actual_changed_ids": [
+      "page125.block04",
+      "page125.block07",
+      "page125.block08",
+      "page125.block09",
+      "page125.block10"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 128,
+    "old": "Weeks ago, you saved RULE 0 FIRST from Bibi's photograph.",
+    "new": "Earlier, you saved RULE 0 FIRST from Bibi's photograph.",
+    "defect": "Elapsed weeks not established; preserve chronology without inflating it.",
+    "actual_changed_ids": [
+      "page128.block09",
+      "page128.block13"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 128,
+    "old": "one exciting assumption could wreck weeks of careful work.",
+    "new": "one exciting assumption could send all this careful work in the wrong direction.",
+    "defect": "Remove unsupported weeks and catastrophe framing while preserving need to test assumptions.",
+    "actual_changed_ids": [
+      "page128.block09",
+      "page128.block13"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 132,
+    "old": "Dilo waits.\nNothing.\n\"Rude,\" he says. \"But methodologically consistent.\"",
+    "new": "Dilo waits.\nNothing.\n\"I was hoping for at least a click,\" he says.",
+    "defect": "Repeated adult register makes Dilo another Luli; concrete expectation preserves failed shortcut joke.",
+    "actual_changed_ids": [
+      "page132.block09"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 137,
+    "old": "The access coordinate brings the squad back to the sealed panel behind the Archive. It\nlights four empty fields: No new clue. RULE WORD / ACCESS / CODE / CALL SIGN Dilo\nlooks at the panel, then at the Case Wall, then at you. Then it waits. No printer cough. For\nthe first time since the black envelope arrived, the Academy is not asking you to discover\nsomething new. No hidden drawer. It is asking whether you kept enough of what you\nalready proved. HAPPY MAKERS COMMS 1 MIMI 2 DILO No new clue. Use what you\nearned. Victory noise? 3 LULI 4 NINI Pending evidence. Very pending. 5 BIBI Begin.",
+    "new": "The access coordinate brings the squad back to the sealed panel behind the Archive.\nIt lights four empty fields:\nRULE WORD / ACCESS / CODE / CALL SIGN\nThen it waits.\nNo printer cough. No hidden drawer. No new clue.\nDilo looks at the panel, then at the Case Wall, then at you.\nFor the first time since the black envelope arrived, the Academy is asking for nothing new.\nIt is asking whether you kept what you already proved.\n\nHAPPY MAKERS COMMS\nMIMI: Use what you earned.\nDILO: Victory noise?\nLULI: Pending evidence.\nNINI: Very pending.\nBIBI: Begin.",
+    "defect": "Extraction/layout reading order tangles opener and dialogue; restore coherent narrative and actual turn order without changing four fields.",
+    "actual_changed_ids": [
+      "page137.block05",
+      "page137.block06",
+      "page137.block07",
+      "page137.block08",
+      "page137.block09"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 138,
+    "old": "YOUR OBJECTIVE COMPLETE the four final checks using answers already in your book.\nWITNESS BOARD // CLUE EVIDENCE Every final field comes from earlier work; do not\ninvent a new answer. RULE WORD is the missing word you restored in Rule Zero. ACCESS\nis the final coordinate you saved from the service map. CODE is the six-symbol sequence\nalready on your Case Wall. CALL SIGN is the Official Call Sign on your Recruit Credential.",
+    "new": "YOUR OBJECTIVE\nCOMPLETE the four final checks using answers already in your book.\n\nWITNESS BOARD // CLUE EVIDENCE\nEvery final field comes from earlier work; do not invent a new answer.\nRULE WORD is the missing word you restored in Rule Zero.\nACCESS is the final coordinate you saved from the service map.\nCODE is the six-symbol sequence already on your Case Wall.\nCALL SIGN is the Official Call Sign on your Recruit Credential.",
+    "defect": "Make four exact retrieval actions individually readable; no answer or mechanism change.",
+    "actual_changed_ids": [
+      "page138.block05",
+      "page138.block06",
+      "page138.block07"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 140,
+    "old": "A dated routing log appears beside the old Academy plan, the physical 0 stamp and the intake\ntemplates.",
+    "new": "The display shows a dated routing log beside images of the old Academy plan, a plain 0 stamp\nand intake templates.",
+    "defect": "Physical archive objects appear outside sealed room before it opens; frame display evidence as display images, not recovered objects.",
+    "actual_changed_ids": [
+      "page140.block10"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 142,
+    "old": "Bibi looks at the blank Recruit Credential you chose to sign at the beginning.",
+    "new": "Bibi looks at the Recruit Credential you chose to sign at the beginning.",
+    "defect": "Signed credential cannot still be blank; preserve owner choice and call sign.",
+    "actual_changed_ids": [
+      "page142.block12"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 145,
+    "old": "No fanfare is required.\nDilo disagrees, but he has been overruled.",
+    "new": "No fanfare is required.\nDilo tries a tiny victory noise. Nini adds an even tinier one.\nMimi is smiling too much to overrule either of them.",
+    "defect": "Pay off deferred victory noise with family affection while leaving reader participation voluntary and preserving golden closing exchange.",
+    "actual_changed_ids": [
+      "page145.block17"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "page": 158,
+    "old": "Use the case numbers, not old page numbers; final pagination is\nassigned only after layout.",
+    "new": "Use the case numbers in this list to find the selected maps.",
+    "defect": "Production pagination placeholder intrudes into finished reader hint; preserve all fourteen case numbers and clue truth.",
+    "actual_changed_ids": [
+      "page158.block07",
+      "page158.block08"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page006.block02",
+    "page": 6,
+    "old": "WHO THEY ARE\nSix detectives.\nSix different ways of looking at the same mess.\nThey compare clues, challenge each other's theories and keep asking questions until the story starts to make sense.",
+    "new": "WHO THEY ARE\nFive field detectives. One archive mentor.\nMimi, her children Luli, Dilo, Alio and Nini, and Grandma Bibi.\nA family with six different ways of looking at the same mess.\nThey compare clues, challenge each other's theories and keep asking questions until the story starts to make sense.",
+    "defect": "Six field detectives contradicts five active roster plus mentor; family relation missing from source introductions.",
+    "actual_changed_ids": [
+      "page006.block02"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page007.block02",
+    "page": 7,
+    "old": "MIMI\nFIELD DETECTIVE // CASE CAPTAIN\nRuns the case table.\nFinds the tiny clue.\nMay need help finding her own phone.\nSTRENGTH: Turns a muddle into the next useful step.\nFUNNY HABIT: Organizes everything except what she just put down.\nSMALL CLUES. BIG IDEAS.",
+    "new": "MIMI\nFIELD DETECTIVE // CASE CAPTAIN\nRuns the case table.\nCan spot a theory forming on her children's faces.\nFinds the tiny clue.\nMay need their help finding her own phone.\nSTRENGTH: Turns a muddle into the next useful step.\nFUNNY HABIT: Organizes everything except what she just put down.\nSMALL CLUES. BIG IDEAS.",
+    "defect": "Restore Mimi as mother in reciprocal family, preserving phone setup.",
+    "actual_changed_ids": [
+      "page007.block02",
+      "page007.block03"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page007.block03",
+    "page": 7,
+    "old": "LULI\nFIELD DETECTIVE // CLUE ANALYST\nReads the small print.\nQuestions the big claim.\nSpots contradictions.\nShort replies. Long books.\nSTRENGTH: Spots contradictions and tests what evidence proves.\nFUNNY HABIT: Can forget a book is not a substitute for lunch.\nSMALL QUESTIONS. BIG DISCOVERIES.",
+    "new": "LULI\nFIELD DETECTIVE // CLUE ANALYST\nThe older sister who reads the small print.\nQuestions the big claim.\nSpots contradictions.\nShort replies. Long books.\nMay know what Dilo is about to say before he does.\nSTRENGTH: Spots contradictions and tests what evidence proves.\nFUNNY HABIT: Can forget a book is not a substitute for lunch.\nSMALL QUESTIONS. BIG DISCOVERIES.",
+    "defect": "Make Luli an older sister with remembered relationships, seed scoreboard anticipation.",
+    "actual_changed_ids": [
+      "page007.block02",
+      "page007.block03"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page008.block02",
+    "page": 8,
+    "old": "NINI\nFIELD DETECTIVE // PEOPLE & COURAGE\nGives nervous people room to speak.\nNotices feelings and details everyone skipped.\nAsks small, surprisingly good questions.\nSTRENGTH: Looks beyond the obvious.\nFUNNY HABIT: Can become fond of a theory before it earns its place.",
+    "new": "NINI\nFIELD DETECTIVE // PEOPLE & COURAGE\nThe youngest in the family.\nGives nervous people room to speak.\nNotices feelings and details everyone skipped.\nAsks small questions that can change a whole case.\nSTRENGTH: Looks beyond the obvious.\nFUNNY HABIT: Gives names to things nobody else thought needed one.",
+    "defect": "Nini not miniature adult; seed naming affection and remove surprise at her competence.",
+    "actual_changed_ids": [
+      "page008.block02",
+      "page008.block04"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page008.block04",
+    "page": 8,
+    "old": "GRANDMA BIBI\nARCHIVE MENTOR // OLD ACADEMY GUIDE\nKnows old shelves and stranger stories.\nConnects historical records and knows what to verify.\nSays when a memory is incomplete.\nStops nonsense without putting down her team.\nSTRENGTH: Finds context and the missing pieces.\nFUNNY HABIT: Remembers the adventure; the date may need a label.",
+    "new": "GRANDMA BIBI\nARCHIVE MENTOR // OLD ACADEMY GUIDE\nKnows old shelves and stranger stories.\nConnects historical records and knows what to verify.\nSays when a memory is incomplete.\nStops nonsense without putting down her team.\nSTRENGTH: Finds context and the missing pieces.\nFUNNY HABIT: Will defend an excellent old hat against the whole family.",
+    "defect": "Replace age/memory gag with specific hat seed; honest incomplete memory retained elsewhere.",
+    "actual_changed_ids": [
+      "page008.block02",
+      "page008.block04"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page009.block02",
+    "page": 9,
+    "old": "If you are in, this is the moment.\nNo one else can fill this out for you.",
+    "new": "If you are in, this is the moment.\nNo one else can fill this out for you.\nBeside the Case Table stands a small certification rack. Five badges hang on it. Hook 06 is empty.\nMimi slides a pencil over. \"Start with the name you want us to use.\"",
+    "defect": "Restore missing physical sixth-hook seed necessary for finale recall; offer ordinary inclusion without promising earned affection.",
+    "actual_changed_ids": [
+      "page009.block02"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page012.block03",
+    "page": 12,
+    "old": "DILO: So we just copy stuff to the wall? Easy!\nLULI: Yes! But the right stuff. Wrong clues = confused detectives.\nALIO: The Case Wall helps us see the big picture. Clues make more sense together!\nNINI: It's like a puzzle! The messier it looks at first, the more fun it is to solve.\nBIBI: Details matter! One small clue can change everything.\nMIMI: A detective without key notes in one place is like solving a case with 37 tabs open and 2% battery. Bold, chaotic, doomed.",
+    "new": "DILO: I can fit all my theories on that wall.\nLULI: Try the evidence first.\nALIO: What about a small shelf for promising theories?\nNINI: Mine needs a cushion.\nBIBI: Give it a question mark. We need to know which parts are still guesses.\nMIMI: A detective without key notes in one place is like solving a case with 37 tabs open and 2% battery. Bold, chaotic, doomed.",
+    "defect": "Current instructional comms repeat previous instructions in six generic voices; family wants and turn-taking make practical distinction memorable.",
+    "actual_changed_ids": [
+      "page012.block03"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page016.block04",
+    "page": 16,
+    "old": "MIMI: Internal stock. Good. We start with what we can prove.\nALIO: Or we investigate my leading theory: a secret tunnel and a mini van delivery. Very efficient. Very suspicious.\nLULI: A tunnel, a minivan, and zero evidence. Impressive start, Alio.\nNINI: Let's park the minivan for a minute and follow the facts first.\nDILO: Agreed. If the tunnel appears later, I'll happily upgrade the theory.",
+    "new": "MIMI: Internal stock. Good. We start with what we can prove.\nALIO: My leading theory has a secret tunnel and a minivan. No evidence yet. I will put a question mark beside it.\nLULI: A good place for the question mark, Alio.\nNINI: A small one. We need room for the facts.\nDILO: If a tunnel turns up later, you can have the whole margin.",
+    "defect": "Early Alio pile-on gives three children same corrective voice; let Alio revise theory himself, seed later decorative-confidence payoff.",
+    "actual_changed_ids": [
+      "page016.block04"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page137.block05",
+    "page": 137,
+    "old": "The access coordinate brings the squad back to the sealed panel behind the Archive. It\n",
+    "new": "The access coordinate brings the squad back to the sealed panel behind the Archive.\n",
+    "defect": "Restore coherent source reading order while preserving fragment token locks.",
+    "actual_changed_ids": [
+      "page137.block05",
+      "page137.block06",
+      "page137.block07",
+      "page137.block08",
+      "page137.block09"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page137.block06",
+    "page": 137,
+    "old": "lights four empty fields: No new clue. RULE WORD / ACCESS / CODE / CALL SIGN Dilo\nlooks at the panel, then at the Case Wall, then at you. Then it waits. No printer cough. For\nthe first time since the black envelope arrived, the Academy is not asking you to discover\n",
+    "new": "It lights four empty fields:\nRULE WORD / ACCESS / CODE / CALL SIGN\nThen it waits.\nNo printer cough. No hidden drawer. No new clue.\nDilo looks at the panel, then at the Case Wall, then at you.\nFor the first time since the black envelope arrived, the Academy is asking for nothing new.\n",
+    "defect": "Restore coherent source reading order while preserving fragment token locks.",
+    "actual_changed_ids": [
+      "page137.block05",
+      "page137.block06",
+      "page137.block07",
+      "page137.block08",
+      "page137.block09"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page137.block07",
+    "page": 137,
+    "old": "something new. No hidden drawer. It is asking whether you kept enough of what you\n",
+    "new": "It is asking whether you kept what you\n",
+    "defect": "Restore coherent source reading order while preserving fragment token locks.",
+    "actual_changed_ids": [
+      "page137.block05",
+      "page137.block06",
+      "page137.block07",
+      "page137.block08",
+      "page137.block09"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page137.block08",
+    "page": 137,
+    "old": "already proved. HAPPY MAKERS COMMS 1 MIMI 2 DILO No new clue. Use what you\n",
+    "new": "already proved.\n\nHAPPY MAKERS COMMS\n1 MIMI: Use what you earned.\n2 DILO: Victory noise?\n",
+    "defect": "Preserve speaker tokens and counts while repairing reading order.",
+    "actual_changed_ids": [
+      "page137.block05",
+      "page137.block06",
+      "page137.block07",
+      "page137.block08",
+      "page137.block09"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page137.block09",
+    "page": 137,
+    "old": "earned. Victory noise? 3 LULI 4 NINI Pending evidence. Very pending. 5 BIBI Begin.\n",
+    "new": "3 LULI: Pending evidence.\n4 NINI: Very pending.\n5 BIBI: Begin.\n",
+    "defect": "Preserve speaker tokens and counts while repairing reading order.",
+    "actual_changed_ids": [
+      "page137.block05",
+      "page137.block06",
+      "page137.block07",
+      "page137.block08",
+      "page137.block09"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page080.block05",
+    "page": 80,
+    "old": "Her younger handwriting is still there:\n",
+    "new": "Her younger handwriting is still there:\nRULE 0 FIRST\n",
+    "defect": "Source checkpoint promises exact line but drops it; recover already verified line from repeated source/solution, not new clue.",
+    "actual_changed_ids": [
+      "page080.block05"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page122.block03",
+    "page": 122,
+    "old": "• Use only the fourteen completed spatial cases listed on this page. Case 01 is not part of this extraction set.\n",
+    "new": "• Use only the fourteen completed spatial cases listed on the next page. Case 01 is not part of this extraction set.\n",
+    "defect": "The selected-map list is printed on physical p123, not p122; correct pointer only, retain all14case mechanics.",
+    "actual_changed_ids": [
+      "page122.block03"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page130.block03",
+    "page": 130,
+    "old": "that correctly restores Rule Zero.\n",
+    "new": "that correctly restores Rule Zero.\nAfter you solve it, copy the complete restored rule to MESSAGES / RULES on your Case Wall, page 13.\n",
+    "defect": "Finale retrieves restored Rule Zero from Case Wall, but current source supplies no save instruction after solve; add precise handoff without revealing answer.",
+    "actual_changed_ids": [
+      "page130.block03"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  }
+]

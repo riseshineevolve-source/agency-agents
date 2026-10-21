@@ -1,0 +1,6 @@
+{
+  "automation_id": "6ad877735e0481918f42f96b3c8a6e08",
+  "schedule": "BEGIN:VEVENT\nDTSTART:20261021T082731Z\nRRULE:FREQ=HOURLY;COUNT=24\nEND:VEVENT",
+  "setup_state": "RESUME_AFTER_THIS_CHECKPOINT_PERSISTED",
+  "scope": "Autonomous continuation with one writer lease; completed proseKEEP, no automatic wholebookrewrite/publishing"
+}

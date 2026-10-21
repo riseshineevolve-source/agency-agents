@@ -1,0 +1,11 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "final_intake": "source/intake-v4.json",
+  "final_intake_sha256": "fab419c8d30324a04e7368c8acd38faa574088d69169e4451eeb6419cb37a155",
+  "run": "run-v4",
+  "manifest_sha256": "a5e5fec3aad490b2177cf40a1cba1190bfd1790082ce788ea99b3daa74cab8f6",
+  "segments": 3067,
+  "editable_prose_blocks": 700,
+  "protected_blocks": 2367,
+  "history": "v1original;v2firsthuman-verifiedfront snapshot697editable;v3adds2split-fragmentrepairpermissionswithouttextchange. Restoredv2fromoriginalimmutabletoolrun. Anyearlier auditmessagecounting699asv2orprintingv1SHAis superseded by theseactualchecks. V4addsone reference-onlypermission page122.block03 thispage\u2192nextpage; allothercanonicalsourcewordingunchanged."
+}
