@@ -1,0 +1,388 @@
+{
+  "evidence_version": 1,
+  "mission_id": "world02_mission_019",
+  "source": {
+    "source_id": "world02_paperback_2026_09_17",
+    "filename": "paperback 10 STORIES WORLD 02 FINAL standard(1).pdf",
+    "isbn": "9798249971823",
+    "sha256": "e94d2937cc459a5c7c3c5968c64ba39f2a03702f929488e42b00b5db3f9f7f76",
+    "bytes": 66576954,
+    "pages": 104,
+    "page_range": [
+      79,
+      85
+    ]
+  },
+  "method": "Source-order transcription from the published World 02 paperback as locked in the 2026-10-02 canonically revalidated Level 19 extraction (pp. 79–85). Source-text and speaker order are retained exactly; no visual-only text is invented. Printed editorial/science claims remain unchanged and separately watchlisted.",
+  "page_inventory": [
+    {
+      "page": 79,
+      "content_blocks": 1
+    },
+    {
+      "page": 80,
+      "content_blocks": 5
+    },
+    {
+      "page": 81,
+      "content_blocks": 4
+    },
+    {
+      "page": 82,
+      "content_blocks": 4
+    },
+    {
+      "page": 83,
+      "content_blocks": 4
+    },
+    {
+      "page": 84,
+      "content_blocks": 4
+    },
+    {
+      "page": 85,
+      "content_blocks": 3
+    }
+  ],
+  "records": [
+    {
+      "evidence_id": "p79_b01",
+      "node_id": "world02_mission_019_node_001",
+      "page": 79,
+      "type": "opener",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "level_label": "LEVEL 19:",
+        "title": "The Pivot Dance",
+        "key_label": "KEY ACQUIRED:",
+        "key_acquired": "FLEXIBILITY",
+        "objective_label": "MISSION OBJECTIVE",
+        "objective": "How to survive disappointment without a meltdown.",
+        "status_label": "LOADING MAP ASSETS... [COMPLETED]"
+      }
+    },
+    {
+      "evidence_id": "p80_b01",
+      "node_id": "world02_mission_019_node_002",
+      "page": 80,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Sunday Morning. Plan: Water Park. Alio was fully geared up: Swimsuit, flippers, goggles, and a snorkel. He looked like a highly trained frog-man ready for a water mission in the hallway. Then... THUNDER. Rain smashed against the window like angry rocks."
+      }
+    },
+    {
+      "evidence_id": "p80_b02",
+      "node_id": "world02_mission_019_node_003",
+      "page": 80,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Crew... I'm sorry. Mission Abort. The Water Park is closed due to lightning."
+      }
+    },
+    {
+      "evidence_id": "p80_b03",
+      "node_id": "world02_mission_019_node_004",
+      "page": 80,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "NO! YOU PROMISED! YOU ARE A LIAR! YOU CONTROL THE WEATHER!"
+      }
+    },
+    {
+      "evidence_id": "p80_b04",
+      "node_id": "world02_mission_019_node_005",
+      "page": 80,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio threw his goggles across the room. He flopped onto the floor, flapping his flippers against the wood like a stuck, very angry seal. Nini started crying quietly, holding her pink pool noodle."
+      }
+    },
+    {
+      "evidence_id": "p80_b05",
+      "node_id": "world02_mission_019_node_006",
+      "page": 80,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "nini",
+      "copy": {
+        "speaker_label": "NINI",
+        "text": "My heart bucket is broken! I wanted the big slide! The water park was my dream!"
+      }
+    },
+    {
+      "evidence_id": "p81_b01",
+      "node_id": "world02_mission_019_node_007",
+      "page": 81,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "Great. Now my weekend is ruined. I hate rain. I'm going back to bed to be lazy. I will become one with the mattress and never play soccer again."
+      }
+    },
+    {
+      "evidence_id": "p81_b02",
+      "node_id": "world02_mission_019_node_008",
+      "page": 81,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Stop. We can be sad. It hurts. But calling me a liar won't stop the rain. (Mimi says their feelings are okay, but immediately jumps up and down, shaking her arms to literally shake the stress out of her body, showing them how to reset). We hit a wall. We have two choices. Option A: We cry for 4 hours, ruin the day, and eat dry toast. Option B: We PIVOT."
+      }
+    },
+    {
+      "evidence_id": "p81_b03",
+      "node_id": "world02_mission_019_node_009",
+      "page": 81,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Pivot?"
+      }
+    },
+    {
+      "evidence_id": "p81_b04",
+      "node_id": "world02_mission_019_node_010",
+      "page": 81,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "First, we do the Shake-Out Dance! Everyone, stand up! Shake your hands! Shake your legs! Wiggle the mad energy right out of your muscles! (Mimi jumps up and down, shaking her arms wildly)."
+      }
+    },
+    {
+      "evidence_id": "p82_b01",
+      "node_id": "world02_mission_019_node_011",
+      "page": 82,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "luli",
+      "copy": {
+        "speaker_label": "LULI",
+        "text": "(Shaking one hand very logically) We change direction. Like in basketball. Plan: 'Indoor Beach'. I am taking charge of the planning. I have already figured out the exact heat needed to make it feel like Hawaii. I've turned the heater up and placed a fan behind the toaster to make a warm, bread-smelling ocean breeze. Alio, I need you to design the shape of the towel-beach so no one kicks each other."
+      }
+    },
+    {
+      "evidence_id": "p82_b02",
+      "node_id": "world02_mission_019_node_012",
+      "page": 82,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "That sounds... silly."
+      }
+    },
+    {
+      "evidence_id": "p82_b03",
+      "node_id": "world02_mission_019_node_013",
+      "page": 82,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "(Suddenly interested, wiping his tears) Can we play video games on the beach? And can I build a sandcastle out of sofa cushions?"
+      }
+    },
+    {
+      "evidence_id": "p82_b04",
+      "node_id": "world02_mission_019_node_014",
+      "page": 82,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "mimi",
+      "copy": {
+        "speaker_label": "MIMI",
+        "text": "Yes. Beach rules apply. Alio, stand up. Stop flapping. You are not a seal. Pivot with me. Keep one foot down and turn the other way."
+      }
+    },
+    {
+      "evidence_id": "p83_b01",
+      "node_id": "world02_mission_019_node_015",
+      "page": 83,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "Alio wiped his nose. He looked at the rain outside, then at the freezer where the ice cream was kept. Nini suddenly started singing a happy Hawaiian hula song, moving her hips and showing Dilo how to do the hand movements."
+      }
+    },
+    {
+      "evidence_id": "p83_b02",
+      "node_id": "world02_mission_019_node_016",
+      "page": 83,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "dilo",
+      "copy": {
+        "speaker_label": "DILO",
+        "text": "(Laughing even though he didn't want to) Fine. I guess I can practice hitting the ball with my head using the soft beach ball. But I'm not doing the hula dance."
+      }
+    },
+    {
+      "evidence_id": "p83_b03",
+      "node_id": "world02_mission_019_node_017",
+      "page": 83,
+      "type": "dialogue",
+      "subtype": null,
+      "speaker_id": "alio",
+      "copy": {
+        "speaker_label": "ALIO",
+        "text": "Okay. But I'm keeping the flippers on. Pass the spoon."
+      }
+    },
+    {
+      "evidence_id": "p83_b04",
+      "node_id": "world02_mission_019_node_018",
+      "page": 83,
+      "type": "system_log",
+      "subtype": null,
+      "speaker_id": "system",
+      "copy": {
+        "log_label": "SYSTEM LOG >>",
+        "text": "They pivoted successfully. The Dream Team worked together to build the ultimate indoor beach. But the final boss of World 02 was waiting for them later that afternoon on the internet, and it was wearing a suit..."
+      }
+    },
+    {
+      "evidence_id": "p84_b01",
+      "node_id": "world02_mission_019_node_019",
+      "page": 84,
+      "type": "console",
+      "subtype": "brain_secret",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "THE NEURO-COACHING CONSOLE",
+        "file_label": "// FILE: 055",
+        "heading": "THE BRAIN SECRET (Prediction Error)",
+        "science_label": "The Science:",
+        "science": "Kids often have 'Sticky Brains' (Cognitive Rigidity). Your brain loves to predict the future. When reality doesn't match the plan, your brain panics and throws an Error Code! It feels physically painful.",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio reacted like the world was ending because his brain predicted waterslides, and reality delivered thunder."
+      }
+    },
+    {
+      "evidence_id": "p84_b02",
+      "node_id": "world02_mission_019_node_020",
+      "page": 84,
+      "type": "console",
+      "subtype": "tool",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 056",
+        "heading": "THE TOOL ('The Pivot')",
+        "science_label": "The Science:",
+        "science": "Teach your brain that \"Change does not equal Danger\".",
+        "in_story_label": "In The Story:",
+        "in_story": "Use the basketball metaphor. When a defender blocks you, you don't cry and sit on the court. You PIVOT (keep one foot planted, move the other) to find a new path around them!"
+      }
+    },
+    {
+      "evidence_id": "p84_b03",
+      "node_id": "world02_mission_019_node_021",
+      "page": 84,
+      "type": "console",
+      "subtype": "glitch",
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: 057",
+        "heading": "THE GLITCH ('You promised!')",
+        "science_label": "The Science:",
+        "science": "To a child's brain, a 'Plan' feels like a blood oath.",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio called Mimi a liar because the weather changed.",
+        "correction_label": "Correction:",
+        "correction": "A plan is an intention. Validate your disappointment ('My bucket is broken'), but remember your Captain cannot control the weather!"
+      }
+    },
+    {
+      "evidence_id": "p84_b04",
+      "node_id": "world02_mission_019_node_022",
+      "page": 84,
+      "type": "quest",
+      "subtype": "talk_about_it",
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "QUEST",
+        "heading": "TALK ABOUT IT",
+        "in_story_label": "In The Story:",
+        "in_story": "Alio flapped on the floor like a seal because his plan was ruined.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "What is the hardest part for you when an exciting plan gets cancelled? Do you get angry, sad, or do you want to hide?"
+      }
+    },
+    {
+      "evidence_id": "p85_b01",
+      "node_id": "world02_mission_019_node_023",
+      "page": 85,
+      "type": "quest",
+      "subtype": "family_mission",
+      "speaker_id": null,
+      "copy": {
+        "reward_label": "XP REWARD",
+        "heading": "FAMILY MISSION",
+        "in_story_label": "In The Story:",
+        "in_story": "They built an indoor beach to save the day.",
+        "your_turn_label": "Your Turn:",
+        "your_turn": "Brainstorm a 'Rainy Day Menu'. Write down 5 cool things to do when plans get cancelled (Fort building, Movie marathon, Indoor camping). Next time things go wrong, shout: 'PIVOT!' and look at the menu!"
+      }
+    },
+    {
+      "evidence_id": "p85_b02",
+      "node_id": "world02_mission_019_node_024",
+      "page": 85,
+      "type": "science",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "file_label": "// FILE: BRAIN_HACK",
+        "heading": "TOP SECRET SCIENCE (For Big and Small Brains)",
+        "body": "Why did Mimi start jumping and shaking? When you face a massive disappointment, your body shoots adrenaline into your muscles, preparing you to fight. Doing a \"Shake-Out Dance\" physically burns off the stress chemicals, sending a message back to the brain that you are safe and ready to Pivot."
+      }
+    },
+    {
+      "evidence_id": "p85_b03",
+      "node_id": "world02_mission_019_node_025",
+      "page": 85,
+      "type": "secret_code",
+      "subtype": null,
+      "speaker_id": null,
+      "copy": {
+        "page_heading": "SECRET FAMILY CODE",
+        "code_label": "SECRET CODE:",
+        "code": "“WE ARE PIVOTING!”",
+        "meaning_label": "MEANING:",
+        "meaning": "The original plan failed due to reality glitching (rain, sickness). The brain's simulation has crashed, and disappointment is peaking.",
+        "operation_label": "INITIATE OPERATION:",
+        "operation": "We are not giving up. Validate the disappointment, do the Shake-Out dance, keep one foot planted and turn the steering wheel to find a new, ridiculous alternative destination.",
+        "training_heading": "PLAYER MISSION - TRAIN YOUR CAPTAIN:",
+        "parent_label": "If your parent says:",
+        "parent_says": "'Stop whining about the rain, we can't control the weather!'",
+        "teach_label": "Teach them to say instead:",
+        "teach_to_say": "'I know it hurts that the plan broke. Let's do the Shake-Out Dance and Pivot!'"
+      }
+    }
+  ]
+}

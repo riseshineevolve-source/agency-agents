@@ -39,7 +39,7 @@
         "secret_code": 1
       },
       "family_code": "WE ARE PIVOTING!",
-      "status": "canonical_validated_typed_pack_pending"
+      "status": "typed_pack_recovered_local_checks_passed_not_promoted"
     },
     "20": {
       "mission_id": "world02_mission_020",
