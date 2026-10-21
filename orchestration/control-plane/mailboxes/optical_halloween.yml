@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-21
-status: MODERN_BALANCED_V06_OWNER_REVIEW
+status: SOURCE_LOCK_V07_OWNER_VISUAL_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Four owner-selected scenes refined into modern optical coloring art; two carrier sources fused. Three new queen concepts generated and strengthened after owner corrected over-lightening. Final QueenA gray floor ghosts cleaned and verified. Seven final candidates displayed; all earlier versions preserved."
+milestone: "Owner rejected V06 over-whitening. Four new retouches created directly from dark reattached sources, plus a genuinely new high-downview suspended wax queen feeding five patterned floor candles. Queen crop/reflection/gray issues corrected; waiter blue stair marks removed after one failed color-only attempt. Five final images displayed."
 blocker: null
-owner_gate: "Owner aesthetic response to revised boy/painter/waiter/fused carrier and three queen alternatives. Independent jury recommends QueenA, then C, then B. No automatic approved20 or print/release claim."
+owner_gate: "Owner visual response to five V07 images, especially suspended queen. No automatic approved20 or print/release claim."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Await owner visual selection/refinement on the seven concrete V06 images. Keep black essential to optical rhythm, reflection and3D while avoiding entire black backgrounds/stair flights; no fixed black/white percentage. Preserve modern interiors, selected heroes and original files. No unsolicited restyle or factory work."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_MODERN_OPTICAL_COLORING_V06.md"
+next_safe_task: "Review V07 five-image dark-source bank with owner. Preserve current source-rich contrast and protagonists; no V06 pale-room reset. Only specific owner local refinement or proven blocker. Approx10–15% background relief is artistic intent, not a measured certification. No factory work."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_DARK_SOURCE_SUSPENDED_QUEEN_V07.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V06 actual-image review: coherent anatomy, two carrier grips, source-corresponding waiter cloche, connected exterior queen candles; QueenA floor ghosts removed and verified. Candidate art proofs only, small headband margin and native resolution not print-certified."
+closing_pass_qa: "Actual V07 image review: faithful dark DNA, coherent main anatomy/2carriergrips, high suspended queen with5connected patterned floorcandles/5completeheadbandflames and matching bounded mirror. Waiter final blue stair contamination fixed and verified. NativeRGB proof status only."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -58,3 +58,14 @@ modern_balanced_v06:
   - "FinalQueenA exec-ab357472-4b08-4a4a-85a2-a72963f32710.png; local gray-floor cleanup independentlyverified, boundedmirror preserved."
   - "All15 approved original hashes and all5 supplied upload hashes unchanged; all strong earlier candidates retained."
   - "Seven final nativeRGB proofs displayed; exactprompts, edits, refs, hashes and QA in checkpoint. No PNGbinaryuploadtoGitHub, no printmaster/factory claim."
+
+dark_source_suspended_queen_v07:
+  - "Highestpriority: owner resent5 DARK source files and rejected excess V06 whitening; use those directly, never pale V06 rooms as main-scene inputs."
+  - "Keep black essential to3D/opart/reflections; only local background relief.10–15% refers approximately to existing backgroundblack, not whole-page percentagepoints; exactbackgroundreduction NOT certified."
+  - "Five specialists: reference artdirection/BrandGuardian, queenstory, queenoptics, coloringQA, Reality/Finish; root ImagePromptEngineer and only durablewriter."
+  - "Four source-faithful retouches: boy, selected painterB, longhairedmaskedwaiter and fusedcarrier. Queen new highoblique-downview levitation, continuouswax gown feeds five modern varied patterned floorcandles."
+  - "Queenfinal exec-252549a8-7e79-40c8-be8c-f15a3019449d.png: fullheadbandflames, no grayfloorghosts, mirrorstripes match actualstripedcandle, contemporaryrectangularportals; reviewed as successful new perspective."
+  - "Waiterfinal exec-9de5b600-2585-47e1-a8a6-da5d918c02c7.png: introducedblue stair edges removed by local3tread redraw;653coloredpixels to1, sourcebaseline1. Firstcolor-onlyattempt failed and is not final."
+  - "5/5 reattached source hashes and15/15 approvedoriginal hashes unchanged; all strong prior art preserved."
+  - "Whole-page black stats are descriptive only; not uniformlylower afterfusion/thickercontours/newpaintstroke. Do notclaimexact10–15%backgroundremoval withoutbackgroundmask."
+  - "FivefinalnativeRGBimages displayed; exactprompts/failedattempt/finalhashes/QA in checkpoint. No PNGbinaries inGitHub, no print/factory certification."
