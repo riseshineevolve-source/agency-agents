@@ -69,3 +69,31 @@ returned:
 This proves the deterministic GitHub -> n8n health path on real repository data.
 
 Before activation/publish, add an explicit `PENDING` state for latest workflow runs that are queued/in_progress or otherwise have no terminal conclusion. PASS and ATTENTION behavior remains unchanged.
+
+
+## Live authenticated inspection — 2026-10-21
+
+Supersedes the assumption that only a one-time October 7 test exists.
+
+- Workspace origin recovered from prior configuration: https://riseshineevolve.app.n8n.cloud
+- Secure owner-assisted login completed; authenticated Overview and execution pages were observed.
+- Banner: "Your trial is over. Upgrade now to keep automating."
+- Overview contains exactly two workflows: RSE CONTROL TOWER — HEALTH CHECK (Published) and RSE LANE CHECKPOINT. Lane Checkpoint was last updated approximately one week ago; its publication/execution status was not verified.
+- Overview displayed 163 production executions, zero failed production executions, and average runtime 0.56 seconds in the dashboard's current reporting window. Do not treat these as lifetime totals.
+- Health Check has real hourly execution history through October 21. Most recent displayed execution: #352, October 21 07:00:15, Succeeded in 588 ms. The panel timezone was not verified, so do not translate that timestamp to Warsaw time.
+- Observed Health Check nodes: Every Hour, Fetch latest run, Classify run health, Completed and Success?, No Final Conclusion Yet?, PASS, PENDING, ATTENTION.
+- The classification group explicitly states: "Ends every run in exactly one state: PASS, PENDING or ATTENTION. No notifications are sent."
+- Workflow execution success is not proof that current RSE product health is PASS. Exact node output/current GitHub-run freshness was not extracted.
+- GitHub Control Plane main configuration was freshly read: workflow_dispatch only, 10-minute job timeout, artifact retention one day. Hourly n8n polling must not be mistaken for fresh hourly GitHub Control Plane generation.
+- No paid plan, subscription, credentials, permissions, workflow publication or schedule change was made.
+
+### Concrete remaining blocker
+
+Export JSON was found in the workflow menu. The browser's native credential protection then rejected further interaction/download before any export file was returned. A fresh-tab attempt and browser runtime reset did not clear the restriction. No workflow export is claimed saved. Do not reconstruct workflow JSON from screenshots.
+
+### Continuation
+
+1. Recover an authenticated browser context that permits normal post-login workflow downloads.
+2. Export both actual workflow definitions without credentials and preserve them in a private durable destination.
+3. Read Lane Checkpoint state, billing/trial details and latest Health Check classified output.
+4. Keep paid n8n upgrade closed. Decide a zero-subscription execution route only after inspecting actual definitions and costs; do not reactivate billable GitHub Actions as a substitute.
