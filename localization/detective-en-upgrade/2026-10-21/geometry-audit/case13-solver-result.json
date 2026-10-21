@@ -1,0 +1,48 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "grid_sha256": "094c60a7cca7055b605c6a3cf5a0bb98c6469af60c557303344cdd782571b51b",
+  "method": "All row/column-distinct seven-witness placements checked against all seven literal clues on unsolved visually transcribed map. Expected roster used only after enumeration.",
+  "baseline_room_only": {
+    "full_assignment_count": 1,
+    "assignments": [
+      {
+        "Moxie": "C5",
+        "Skye": "E4",
+        "Juno": "F3",
+        "Eden": "G2",
+        "Bodhi": "B7",
+        "Willow": "A1",
+        "Remy": "D6"
+      }
+    ],
+    "answer_counts": {
+      "Bodhi at B7": 1
+    },
+    "search_nodes": 39,
+    "expected_assignment_matches": true
+  },
+  "sensitivity_companion_means_any_named_area": {
+    "full_assignment_count": 1,
+    "assignments": [
+      {
+        "Moxie": "C5",
+        "Skye": "E4",
+        "Juno": "F3",
+        "Eden": "G2",
+        "Bodhi": "B7",
+        "Willow": "A1",
+        "Remy": "D6"
+      }
+    ],
+    "answer_counts": {
+      "Bodhi at B7": 1
+    },
+    "search_nodes": 39,
+    "expected_assignment_matches": true
+  },
+  "limits": [
+    "Formal result depends on explicitly stored visual grid/object transcription.",
+    "Not a production render, physical print proof or all-case uniqueness approval."
+  ]
+}

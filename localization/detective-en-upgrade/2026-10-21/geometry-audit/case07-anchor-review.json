@@ -1,0 +1,81 @@
+{
+  "reviewer": "Independent case13_uniqueness agent, follow-up Case 07 anchor inspection",
+  "date": "2026-10-21",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "decision": "BLOCK_SOURCE_ANCHOR",
+  "scope": "Visual identification of Case 07 clue 03 stage range marker on actual source folio 43; no attempt to infer its identity from solution roster.",
+  "source_folios": [
+    42,
+    43
+  ],
+  "candidate_units": [
+    "page042.block08",
+    "page042.block09"
+  ],
+  "clue": "Willa was 2 grid steps from the stage range marker. Count row difference plus column difference.",
+  "visual_evidence": {
+    "case07-renders/p42.png": "a7f9dbd2d91895b1b384aa950775a2718e9e488e72a5f222ace4af7441a643f2",
+    "case07-renders/p43.png": "a7e8db22edb72305c5b16099c688e5b1ee475f464babbcede4434ff8c9f3aa4d"
+  },
+  "observations": [
+    {
+      "squares": [
+        "A1",
+        "D1",
+        "D6"
+      ],
+      "observation": "Three very similar wheeled road-case/cart silhouettes with black blocked-object markers. D1 has no distinct visible range label or target marker."
+    },
+    {
+      "squares": [
+        "C1",
+        "C4"
+      ],
+      "observation": "Two five-lamp light-strip silhouettes, each with a black blocked-object marker; neither is text-labelled as the range marker."
+    },
+    {
+      "squares": [
+        "C2"
+      ],
+      "observation": "A blocked wheeled rectangular metal rack/crate-like silhouette with crossed braces. No printed label identifies it as a stage range marker. Its exact semantic object name is visually uncertain."
+    },
+    {
+      "squares": [],
+      "observation": "Visible figure labels identify Dressing Room, Costume Room, Rehearsal Room, Stage Office and Prop Room. Legend distinguishes usable floor, blocked object, wall and doorway; it does not designate a range-marker symbol."
+    }
+  ],
+  "independent_map_crosscheck": {
+    "compared_to": "root-map-grids-06-07.json case07",
+    "room_rows": [
+      "DDDDCC",
+      "DDDDCC",
+      "RRSCCC",
+      "RRSSSP",
+      "RRSSSP",
+      "RRPPPP"
+    ],
+    "blocked": [
+      "A1",
+      "C1",
+      "D1",
+      "C2",
+      "F2",
+      "C3",
+      "D3",
+      "C4",
+      "A5",
+      "A6",
+      "D6",
+      "E6",
+      "F6"
+    ],
+    "status": "Room membership and blocked-cell transcription agree with actual rendered pixels."
+  },
+  "finding": "The visible map does not give an unambiguous independently identifiable stage range marker. Naming C2 or D1 from a solution that happens to fit would be circular. A source-side identity/annotation is needed before this clue can receive a faithful whole-source geometry PASS.",
+  "candidate_action": "KEEP pending source clarification; no guessed anchor, clue rewrite, object relabelling or solution alteration.",
+  "limits": [
+    "This report establishes an unresolved visual referent, not that any particular conditional solution is mathematically wrong.",
+    "Conditional enumeration results from root are not claimed as independently recomputed by this reviewer."
+  ]
+}

@@ -8,7 +8,19 @@
 - Exact V4baselineec93cfc7... is historical, not current. V5changes only six U+0000 characters to ASCIIhyphens in page207.block05 andpage212.block05. The other3065targettexts are byte-identical to acceptedV4. No letter, answerorder, clue, message, map, figure or107placement changes. Four plain-zero records preserved.
 - These are real visible source defects: original PDF shows missing-glyph boxes in Case18/21answer sequences. New output reads A - B - C - D and B - D - A - C. This bounded source-presentation repair is within owner upgrade authority, not a source freeze or speculative story improvement.
 
-## Evidence closed in this continuation
+## New full spatial audit: findings, not an all-green certificate
+
+All16spatialmaps covering107printedplacements now have actual-original transcription and exhaustive clue/objective enumeration; Case12prior receipt retained without routine rerun. Six actual collaborating agents supplied reviews, including independent assignment-set crosschecks on02/04/06/07/13. CandidateV5 and originalPDF remain byte-identical. See geometry-audit/SPATIAL_AUDIT_README.md, SPATIAL_AUDIT_MANIFEST.json and qa/SOURCE_PUZZLE_GATE_STATUS.json.
+
+- Case13closed: exactlyone full assignment, BodhiB7; printedany-distanceNW/SW and touching-corner constraints. Actual emptyHideRoom unchanged. Case01/04/06/17/22/23/25/29also reproduce printedfullrosters uniquely under recordedsource models. Case29has9placements; SethB1 is derived, not assumed.
+- NEW SOURCE GATE Case07: stage range marker cannot be identified from actualmap43. C2fits printedroster conditionally, but choosing it from solution-fit is circular; D1gives3assignments. No anchor/clue/art changed. integration/CASE07_SOURCE_ANCHOR_GATE.md isolates authoritative source-resolution contract.
+- NEW SOURCE GATE Case20: actualmap97 black-blocksE7/F7 while printedsolution210placesSidE7. Strictblackmarkers give0assignments; unblockingE7conditionally gives1printedroster. No exception applied. integration/CASE20_SOURCE_SYMBOL_GATE.md requests authoritative object/symbol resolution and destination evidence from soleproductwriter.
+- Sourceclarity limits remain: Case02room-corner+diagonalbeside permits2rosters with sameDaxD2 answer; Case10pod naming/adjacency affectsrosters and broadestmodel answers; Case15uniqueHarperD2 requires naturalwall-awarebeside, while plaincoordinateadjacency gives15/38rosters and multipleanswers. Page11doesnot globallydefinebeside/corner/walladjacency. Do not invent a globalrule. Case19/22/23metric and compassconventions are explicitly recorded, not universalunqualifieduniqueness claims.
+- Case06audit-onlytranscriptioncorrected before independentacceptance: E5blockeddisplaycase added, E4pedestal, A6bench. Both independently enumerated assignmentsets stayuniqueArloD2. No source or candidatecorrection occurred.
+
+Earlier languagePASS is retained in its actualscope; these newly discovered source-figure gates supersede any assumption that languageQA proves whole-puzzle correctness. ExistingCase03captionOWNER_GATE remains separate. No fullillustratedV5import/render receipt exists yet. RecoveryZIP and textproof remain unchanged; recover these newer additive auditfiles from latestGit after unpackingZIP.
+
+## Evidence closed before this spatial continuation
 
 1. Case12: actual map/hints/solution checked; independently transcribed7x7grid and exhaustive row/column solver yields exactly one full assignment. NellG2/WinterD1 bothStageWing. All7positions match. Source equipment-silhouette sensitivity does not change uniqueness.
 2. Case18: original clock evidence gives real15:15/15:16/15:17/15:18, henceA-B-C-D.
@@ -34,4 +46,5 @@ Read integration/CONSUMER_HANDOFF_SUPPLEMENT.md and current EDITORIAL_IMPORT_PAC
 
 Actual product-writer import, destination receipts and full illustratedV5render/fit remain external to this lane. Case03protected ARCHIVED017/LATER071 vs older071 caption remains an explicit source/art gate; do not invent chronology. Owner reading, artwork-resolution, physical print and release separate. No merge/main/publication/freeze/PRINT_READY granted.
 
-Continue only unclosed independent source-figure checks, such as Case13directional-chain full uniqueness and remaining spatial-case clue/geometry uniqueness, or consume an actual BookFactoryV5return receipt if supplied. Completed Case12/18/21/26/27checks and accepted prose KEEP. No routine green retests/status-only commits. Read ACTIVE_WRITER first and acquire an expected-head lease before edits. Historical baseline evidence stays in Git history, current package and versioned reports.
+The spatial enumeration audit is complete with explicit source gates/interpretation limits. Next useful work: independently assess any newly supplied source/art resolution for Case03/07/20 or a source-approved map-rule/icon clarification (especially02/10/15), or validate an actual BookFactoryV5import/render return against current93-operation/3067-hash packet and all16maps. Continue unaffected product layout through its solewriter; do not create a competing renderer or assume receipt. No repeated all-map solver run, routine green retests, prose rewrite or status-only commits. Read ACTIVE_WRITER first; acquire an expected-head lease only for concrete new evidence work. Historical baseline reports remain preserved.
+

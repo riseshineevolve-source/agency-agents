@@ -1,0 +1,211 @@
+{
+  "case06_orthogonal": {
+    "full_assignment_count": 1,
+    "answer_counts": {
+      "Arlo at D2": 1
+    },
+    "assignments": [
+      {
+        "Scout": "E3",
+        "Hugo": "A6",
+        "Arlo": "D2",
+        "Vale": "F5",
+        "Wren": "C4",
+        "Uma": "B1"
+      }
+    ]
+  },
+  "case06_eight_neighbor_sensitivity": {
+    "full_assignment_count": 1,
+    "answer_counts": {
+      "Arlo at D2": 1
+    },
+    "assignments": [
+      {
+        "Scout": "E3",
+        "Hugo": "A6",
+        "Arlo": "D2",
+        "Vale": "F5",
+        "Wren": "C4",
+        "Uma": "B1"
+      }
+    ]
+  },
+  "case07_conditional_only": {
+    "anchor_omitted_not_full_validation": {
+      "full_assignment_count": 10,
+      "answer_counts": {
+        "Zoe at C6": 2,
+        "Indigo at B1": 2,
+        "Rocket at E5": 2,
+        "Willa at C6": 1,
+        "Willa at F4": 1,
+        "Indigo at D2": 2
+      },
+      "assignments": [
+        {
+          "Blaze": "A3",
+          "Indigo": "B1",
+          "Willa": "D2",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "F4"
+        },
+        {
+          "Blaze": "A3",
+          "Indigo": "B1",
+          "Willa": "F4",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "D2"
+        },
+        {
+          "Blaze": "A3",
+          "Indigo": "B2",
+          "Willa": "F1",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "D4"
+        },
+        {
+          "Blaze": "A4",
+          "Indigo": "B1",
+          "Willa": "F3",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "D2"
+        },
+        {
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "B1",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "F4"
+        },
+        {
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "C6",
+          "Zoe": "B1",
+          "Rocket": "E5",
+          "Gray": "F4"
+        },
+        {
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "F4",
+          "Zoe": "B1",
+          "Rocket": "E5",
+          "Gray": "C6"
+        },
+        {
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "F4",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "B1"
+        },
+        {
+          "Blaze": "A4",
+          "Indigo": "D2",
+          "Willa": "F3",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "B1"
+        },
+        {
+          "Blaze": "B3",
+          "Indigo": "A2",
+          "Willa": "F1",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "D4"
+        }
+      ]
+    },
+    "D1": {
+      "full_assignment_count": 3,
+      "answer_counts": {
+        "Rocket at E5": 2,
+        "Zoe at C6": 1
+      },
+      "assignments": [
+        {
+          "Blaze": "A3",
+          "Indigo": "B2",
+          "Willa": "F1",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "D4"
+        },
+        {
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "B1",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "F4"
+        },
+        {
+          "Blaze": "B3",
+          "Indigo": "A2",
+          "Willa": "F1",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "D4"
+        }
+      ]
+    },
+    "C2": {
+      "full_assignment_count": 1,
+      "answer_counts": {
+        "Zoe at C6": 1
+      },
+      "assignments": [
+        {
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "B1",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "F4"
+        }
+      ]
+    },
+    "C1": {
+      "full_assignment_count": 1,
+      "answer_counts": {
+        "Zoe at C6": 1
+      },
+      "assignments": [
+        {
+          "Blaze": "A3",
+          "Indigo": "B1",
+          "Willa": "D2",
+          "Zoe": "C6",
+          "Rocket": "E5",
+          "Gray": "F4"
+        }
+      ]
+    },
+    "C4": {
+      "full_assignment_count": 1,
+      "answer_counts": {
+        "Willa at C6": 1
+      },
+      "assignments": [
+        {
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "C6",
+          "Zoe": "B1",
+          "Rocket": "E5",
+          "Gray": "F4"
+        }
+      ]
+    }
+  },
+  "all_assignment_sets_equal_root": true
+}

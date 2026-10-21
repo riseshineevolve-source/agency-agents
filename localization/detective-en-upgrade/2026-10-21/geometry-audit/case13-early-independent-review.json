@@ -1,0 +1,67 @@
+{
+  "reviewer": "constraint_review independent agent",
+  "reviewed_utc": "2026-10-21T12:16:21.767100+00:00",
+  "scope": "Independent actual-pixel review of source66/67 and source20/21/28/29, Case13 full uniqueness, and Case02/04 interpretation scope. Source11 actual pixels were inspected in preceding bounded solver review. No previously completed Case12/18/21/26/27 checks rerun; no whole-book or print approval.",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "file_sha256": {
+    "upload/DETECTIVE_ACADEMY_EN_20261021_225P.pdf": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+    "detective-upgrade/candidate/candidate.json": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+    "detective-upgrade/geometry-audit/case13-grid.json": "094c60a7cca7055b605c6a3cf5a0bb98c6469af60c557303344cdd782571b51b",
+    "detective-upgrade/geometry-audit/solve-case13.py": "3f191f1f77c04f84e25b7980315aaf56dbdab0ccc83589bace1144828c9e76c9",
+    "detective-upgrade/geometry-audit/case13-solver-result.json": "671bb318e9b67dbaa1ac67b3d43c3ff307bed39b696cd5514493bcbade2590a3",
+    "detective-upgrade/geometry-audit/early-map-grids.json": "a96a67041280f28d68f8cc62ac96e7b0cb9968550af89a075e78ce25d921a42f",
+    "detective-upgrade/geometry-audit/solve-early-maps.py": "2014a2a27ba9ea5a96f8933bf4a13b45ab57f984e4fd4a2f47470764194f495b",
+    "detective-upgrade/geometry-audit/early-map-solver-results.json": "80b2612a81f93472f5bbf36e7abcb942d57f8a9a45efb5b2d53f2cebefea9bb5",
+    "detective-upgrade/geometry-audit/independent-case13-early.py": "e219044bfd3bde09e7fca4dc52251c61ff9b8fad351015b93a45142bafb8d422",
+    "detective-upgrade/geometry-audit/independent-case13-early-results.json": "d7abfe52f652ec8efaa96e0cf17095a60915b82cd0595510f59c35ada9ee95a2",
+    "detective-upgrade/geometry-audit/case13-renders/p66.png": "df5946db7d14f82e7a4fb05416491af482ce45696c75a3d5cec54ef108349e0c",
+    "detective-upgrade/geometry-audit/case13-renders/p67.png": "0835f6cb1ee4d1f968458ce8b3a63fd4f98b096db39f70f4bd74e17a3f8d4ebe"
+  },
+  "method": "Separate complete permutations of columns and rows with literal predicates; no original solver import and no expected assignment access. Compared complete sets of assignments against original solver outputs after enumeration. Viewed source66/67 stored original renders; independently rendered and viewed original20/21/28/29.",
+  "case13": {
+    "source_grid_and_objects": "PASS. Thick-wall topology and all nine blocked markers match stored49square grid. Open doors separate named rooms. HabitatPaddock remains H; no historical category changed.",
+    "literal_directions": "PASS. Source66 explicitly says north and west by any number, south and west by any number. Willow column<Bodhi column and row<Bodhi row; Bodhi column<Moxie column and row>Moxie row. No equal diagonal-distance condition is licensed.",
+    "touching_diagonal": "PASS. Juno diagonally next to Skye; corners touched means absolute column difference1 and absolute row difference1.",
+    "other_constraints": "PASS. Skye and Moxie in RangerStation, Moxie row5; Eden shares Juno room; Remy exactly one other room occupant; all witnesses distinct row and column; blocked squares excluded.",
+    "expected_solution_independence": "PASS. Stored solver references expected_assignment_for_comparison_only only after enumeration. Independent checker never reads expected fields.",
+    "full_assignment_count_room_only": 1,
+    "full_assignment_count_any_named_area": 1,
+    "assignment": {
+      "Juno": "F3",
+      "Skye": "E4",
+      "Eden": "G2",
+      "Willow": "A1",
+      "Bodhi": "B7",
+      "Moxie": "C5",
+      "Remy": "D6"
+    },
+    "answer": "Bodhi B7",
+    "direction_witness": "Willow A1 to Bodhi B7 has unequal west/north distances1 and6; Bodhi B7 relative Moxie C5 has west1/south2. These are permitted by explicit any-number wording.",
+    "verdict": "PASS unique full roster, unchanged under room/zone sensitivity."
+  },
+  "early_map_scope": {
+    "actual_grid_pixels": "PASS. Case02 thick boundaries and black/circle object marks match source21; Case04 boundaries, PickupTent F4/F5 and named rooms match source29.",
+    "expected_solution_independence": "PASS. Expected fields are only result postchecks in original solver; independent permutation checker never reads them.",
+    "case02": {
+      "source_words": "Rook was in a corner and beside a teacher's desk.",
+      "baseline": "Four outer-grid corners plus shared-edge beside yields unique full roster and Dax D2. Alternate eight-neighbor beside also unique when corner means outer-grid corner.",
+      "interpretation_caveat": "Source20 does not explicitly say grid corner; source11 does not define beside. Room-boundary corner plus eight-neighbor beside permits two full rosters, both answering Dax D2. Do not describe all possible interpretations as a unique full roster.",
+      "broader_corner_count": 2,
+      "broader_corner_answers": {
+        "Dax at D2": 2
+      },
+      "verdict": "PASS under documented baseline; caveat KEEP."
+    },
+    "case04": {
+      "objective_fact": "Source28 actual objective explicitly says the one person who shared Pixel's Pickup Tent. This independently establishes Pixel in PickupTent when the whole printed task is used; it is not taken from expected solution.",
+      "with_complete_task": "All four beside/same-room sensitivity variants uniquely answer Zuri F4 with expected full roster.",
+      "witness_only_diagnostic": "Removing objective fact while using eight-neighbor beside permits two full rosters and alternative companions Clover C5 or Zuri F4. This is a weaker diagnostic model, not the complete printed task.",
+      "diagnostic_count": 2,
+      "verdict": "PASS with printed objective fact; preserve witness-only sensitivity disclosure."
+    }
+  },
+  "all_assignment_sets_equal_original_solvers": true,
+  "changes": "Only new independent checker/results and this review created. No approved candidate, source artwork, production renderer, original completed report or existing solver changed.",
+  "disposition": "KEEP accepted V5 prose. No new source/candidate defect identified in these bounded cases."
+}

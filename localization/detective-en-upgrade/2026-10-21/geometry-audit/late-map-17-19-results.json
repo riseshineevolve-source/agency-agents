@@ -1,0 +1,94 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "grid_sha256": "ddbc97f116094504ff99a47896d9065819324d49fa5ae037bb3803828e3afa08",
+  "baseline_semantics": {
+    "grid_steps": "Manhattan row difference plus column difference; no routefinding or diagonal steps.",
+    "south_west": "Strictly west and strictly south, any positive row/column distance.",
+    "rows_north": "Exact specified row difference, without same-column requirement; distinct-column rule still applies."
+  },
+  "case17": {
+    "baseline": {
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Mika": "B4",
+          "Koa": "F6",
+          "Luna": "G7",
+          "Sunny": "D5",
+          "Axel": "E3",
+          "Otis": "A1",
+          "Reed": "C2"
+        }
+      ],
+      "answer_counts": {
+        "Axel at E3": 1
+      },
+      "search_nodes": 33,
+      "expected_roster_present": true,
+      "sole_roster_matches_expected": true
+    },
+    "sensitivity_north_means_same_column": {
+      "full_assignment_count": 0,
+      "assignments": [],
+      "answer_counts": {},
+      "search_nodes": 13,
+      "expected_roster_present": false,
+      "sole_roster_matches_expected": false
+    }
+  },
+  "case19": {
+    "baseline": {
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Kian": "F4",
+          "Theo": "C1",
+          "Dex": "G2",
+          "Avery": "E5",
+          "Mack": "A7",
+          "Ollie": "D3",
+          "Sasha": "B6"
+        }
+      ],
+      "answer_counts": {
+        "Mack at A7": 1
+      },
+      "search_nodes": 307,
+      "expected_roster_present": true,
+      "sole_roster_matches_expected": true
+    },
+    "sensitivity_sw_means_exact_diagonal": {
+      "full_assignment_count": 0,
+      "assignments": [],
+      "answer_counts": {},
+      "search_nodes": 302,
+      "expected_roster_present": false,
+      "sole_roster_matches_expected": false
+    },
+    "sensitivity_sw_means_touching_diagonal": {
+      "full_assignment_count": 0,
+      "assignments": [],
+      "answer_counts": {},
+      "search_nodes": 302,
+      "expected_roster_present": false,
+      "sole_roster_matches_expected": false
+    },
+    "sensitivity_grid_steps_include_diagonal": {
+      "full_assignment_count": 0,
+      "assignments": [],
+      "answer_counts": {},
+      "search_nodes": 3,
+      "expected_roster_present": false,
+      "sole_roster_matches_expected": false
+    },
+    "sensitivity_north_means_same_column": {
+      "full_assignment_count": 0,
+      "assignments": [],
+      "answer_counts": {},
+      "search_nodes": 161,
+      "expected_roster_present": false,
+      "sole_roster_matches_expected": false
+    }
+  }
+}

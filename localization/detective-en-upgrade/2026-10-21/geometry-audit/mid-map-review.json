@@ -1,0 +1,154 @@
+{
+  "reviewer": "early_maps_uniqueness independent subagent",
+  "stage": "Independent original-map wall/object transcription and exhaustive full-assignment audit",
+  "created_utc": "2026-10-21T12:15:59.822160+00:00",
+  "source": {
+    "path": "upload/DETECTIVE_ACADEMY_EN_20261021_225P.pdf",
+    "sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+    "authority": "Current owner225 original only; historical editions not used"
+  },
+  "candidate": {
+    "path": "detective-upgrade/candidate/candidate.json",
+    "sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+    "disposition": "KEEP; no candidate/source prose changes"
+  },
+  "scope": {
+    "cases": [
+      10,
+      15
+    ],
+    "rules_page": 11,
+    "clue_pages": [
+      54,
+      74
+    ],
+    "map_pages": [
+      55,
+      75
+    ],
+    "solution_pages": [
+      194,
+      195,
+      202,
+      203
+    ],
+    "hint_pages": [
+      154,
+      155,
+      163,
+      164,
+      172,
+      173
+    ]
+  },
+  "method": [
+    "Directly viewed original unsolved map folios55/75 at full-page and enlarged grid resolutions. Transcribed all49 square room memberships, blocked objects and usable circle-marked icons per map. Printed solutions inspected as post-enumeration comparisons only.",
+    "Domains use printed clues, visible map features, one witness per row/column, seven witnesses and exactly-one-companion constraints. Literal north-east means east and north by any positive amounts, as explicitly stated inCase15clue1; equal-offset diagonal is a separate sensitivity only.",
+    "Beside tested as shared edge or eight-neighbour, and with/without same-room physical separation. Same-room is a natural wall-aware interpretation, not an explicitly printed global requirement. The legend says walls cannot pass; that is not by itself an explicit definition of beside. Source74 Cruz clue has no room qualifier.",
+    "Case10 names charging pod in witness clue but cryopod in blocked key. Source map has no object-name labels; alternate plausible tall-box mapping is exposed rather than decided by expected answer."
+  ],
+  "findings": [
+    {
+      "case": 10,
+      "classification": "KEEP_WITH_SOURCE_CONVENTION_LIMITS",
+      "requested_answer": "Ember at D5",
+      "baseline": "Shared-edge beside, blocked wheeled unitsA5/B6 as charging pods, roundC7 coolanttank, squareB1/E1 partscrates: exactly1full assignment, matching expected source after solving. Same-room restriction does not change it.",
+      "full_roster": {
+        "Ember": "D5",
+        "Nico": "F6",
+        "Wyatt": "B7",
+        "Finn": "A2",
+        "Beck": "C1",
+        "Vera": "G4",
+        "Dash": "E3"
+      },
+      "adjacency_sensitivity": "With eight-neighbour beside there are2full rosters, both EmberD5 answers. Alternative changes WyattB7 toB4 and VeraG4 toG7. Both respect same-room object adjacency. Thus full-roster uniqueness is conditional on shared-edge beside.",
+      "object_vocabulary_sensitivity": "Tall circle-marked box iconsA4/B3 resemble pod/bunk artwork; if interpreted as charging pods instead of wheeled black-blocked unitsA5/B6, shared-edge solver gives1roster with WyattB4/VeraG7 and same EmberD5 answer. Source key lists bunk/seat usable and console/crate/cryopod/locker/tank blocked, while clue calls charging pod; no explicit symbol-name legend resolves that vocabulary. With this alternate mapping plus diagonal adjacency11rosters and varying answers appear.",
+      "source_status": "Objective answer robust under ordinary edge adjacency and either tested pod mapping, and under intended pod mapping with diagonal adjacency; full-roster and broadest interpretation are not unconditionally certified.",
+      "action": "Preserve accepted prose and actual original art. Isolate object-vocabulary/adjacency convention as source interpretation caveat; never infer icon identity solely from expected WyattB7."
+    },
+    {
+      "case": 15,
+      "classification": "KEEP_UNIQUE_UNDER_NATURAL_WALL_AWARE_CONVENTION",
+      "requested_answer": "Harper at D2",
+      "full_roster": {
+        "Harper": "D2",
+        "Piper": "F4",
+        "Duke": "E5",
+        "Cruz": "C3",
+        "Jett": "G7",
+        "Inez": "B6",
+        "Milo": "A1"
+      },
+      "evidence": "Under the natural same-room/wall-aware interpretation of beside cot, literal NE any positive north/east offsets gives exactly1full assignment for shared-edge or eight-neighbour beside. Both match source roster after solving. Duke has3FirstAidHut row5candidate squares before other constraints; no source solution was used to pinDukeE5.",
+      "wall_geometry": "CotC4 lies RangerCabin. ItsC5neighbour is across solid wall. CotC7 lies FirstAidHut; B7 andC6 are across solid walls, D7 shares its room. These actual walls distinguish natural physical beside from unrestricted coordinate adjacency. EquipmentRoom includesB3/B7; RangerCabin includesC3/D3; no room inferred from label proximity.",
+      "sensitivity": "Unrestricted coordinate adjacency across room walls gives15full assignments for edge-beside,38for eight-neighbour; many putCruzB7 across the solid wall from cotC7, orCruzB3 diagonal across wall fromcotC4. The source does not explicitly define whether beside can cross a wall, so these remain a documented convention sensitivity, not an invented prohibited rule. Equal-offset NE gives1roster too, but was not substituted for the explicit any-number-of-squares definition.",
+      "action": "KEEP accepted prose. Natural wall-aware reading supports intended unique roster; do not claim unconditional uniqueness from unqualified beside. Future importer/solver should retain drawn walls and explicit non-equal NE, and disclose its adjacency convention rather than forcing equal diagonals or expected coordinates."
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "detective-upgrade/geometry-audit/mid-map-grids.json",
+      "sha256": "e705cc036d23610fe6cb596916500ab202ac5c1d4ac8350ebde90796e1286e60"
+    },
+    {
+      "path": "detective-upgrade/geometry-audit/solve-mid-maps.py",
+      "sha256": "008c533686960bb39cd97c78991e0e50d6a2bc83bf10507c0494d139c329329f"
+    },
+    {
+      "path": "detective-upgrade/geometry-audit/mid-map-solver-results.json",
+      "sha256": "02bc7d8903f8d6bbb1b6395bc6cc91470749f71a97f8b39d20e676a90418eb81"
+    }
+  ],
+  "render_receipt": {
+    "method": "PyMuPDF Matrix1.7 fullpage folios54/55/74/75/195/203; Matrix3 clipRect(110,190,485,560) folios55/75. All original bytes, no redrawing.",
+    "files": [
+      {
+        "path": "detective-upgrade/geometry-audit/mid-map-renders/p054.png",
+        "sha256": "28f357086aeedf1ecdf530483dae426cbbf6060532fd9ba99d438396bbb5cc18"
+      },
+      {
+        "path": "detective-upgrade/geometry-audit/mid-map-renders/p055-grid.png",
+        "sha256": "b88763bca9aa6e5a21ae9216ddd346603885edb96c07feb4a4389d88058a9cb6"
+      },
+      {
+        "path": "detective-upgrade/geometry-audit/mid-map-renders/p055.png",
+        "sha256": "b54d569efaf0b4d2ffeaa4b67af888edb857d3f6dd78fc3c40b4e43359aad4bb"
+      },
+      {
+        "path": "detective-upgrade/geometry-audit/mid-map-renders/p074.png",
+        "sha256": "c429a06e4fdc86c60286aac96a8b4e0d7ec5c965dfa7ae235ce2c436e577b098"
+      },
+      {
+        "path": "detective-upgrade/geometry-audit/mid-map-renders/p075-grid.png",
+        "sha256": "f35bf8ac5d0ba9e5c4b6f1b6911d8548ebbbc5002e113de887d4d321f2112d9f"
+      },
+      {
+        "path": "detective-upgrade/geometry-audit/mid-map-renders/p075.png",
+        "sha256": "eb21b775bd66d134c097c41fd4c95e15c9f58532df41564a824cea58f21a5192"
+      },
+      {
+        "path": "detective-upgrade/geometry-audit/mid-map-renders/p195.png",
+        "sha256": "a905483cfdfe3df68b874b18b3858f5ed19d729c7b42a6762e58ea5f059b7ac9"
+      },
+      {
+        "path": "detective-upgrade/geometry-audit/mid-map-renders/p203.png",
+        "sha256": "df5c9beedaf06352f7992e43eb382c0ecb33f3faee7a74a518c1e6188c9e23fa"
+      }
+    ]
+  },
+  "validation": {
+    "command": "python detective-upgrade/geometry-audit/solve-mid-maps.py",
+    "exit_code": 0,
+    "actual_source_and_candidate_hashes_verified": true,
+    "prose_edits": 0,
+    "git_mutations": 0,
+    "production_edits": 0,
+    "print_ready": false
+  },
+  "limits": [
+    "OnlyCases10/15reviewed. This is not whole-book, physical layout, production fit or release approval.",
+    "All semantic sensitivities are explicit; no hidden source-answer coordinate constraints.",
+    "PNG review evidence is reproducible; compact JSON/Python artifacts contain source hashes and render receipts."
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "case": 13,
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "source_folios": [
+    11,
+    66,
+    67
+  ],
+  "transcription_method": "Independent visual reading of exact unsolved source folio 67 at 1.8x, with original printed object markers and walls. Source solution is comparison only.",
+  "columns_west_to_east": "ABCDEFG",
+  "grid_rows_north_to_south": [
+    "MMMMHHH",
+    "MMMMMHH",
+    "IMMRRHH",
+    "IIRRRHH",
+    "IIRRVVH",
+    "IIRLVVV",
+    "ILLLVVV"
+  ],
+  "room_codes": {
+    "M": "Medical Room",
+    "H": "Habitat Paddock",
+    "I": "Hide Room",
+    "R": "Ranger Station",
+    "L": "Research Lab",
+    "V": "Visitor Walkway"
+  },
+  "zone_codes": [
+    "V"
+  ],
+  "blocked_squares": [
+    "F1",
+    "G1",
+    "C2",
+    "E3",
+    "G3",
+    "C4",
+    "A6",
+    "G6",
+    "F7"
+  ],
+  "blocked_basis": {
+    "F1": "giant fern, black marker",
+    "G1": "giant fern, black marker",
+    "C2": "crate/medical kit, black marker",
+    "E3": "crate, black marker",
+    "G3": "feeding trough, black marker",
+    "C4": "ranger desk, black marker",
+    "A6": "giant fern, black marker",
+    "G6": "dinosaur statue, black marker",
+    "F7": "info kiosk, black marker"
+  },
+  "explicit_usable_object_squares": [
+    "B1",
+    "C1",
+    "A3",
+    "A4",
+    "E6"
+  ],
+  "clues": [
+    "Juno was diagonally next to Skye; their corners touched.",
+    "Skye stayed in the Ranger Station.",
+    "Eden shared a room with Juno.",
+    "Willow was north-west of Bodhi: north and west by any number of squares.",
+    "Bodhi was south-west of Moxie: south and west by any number of squares.",
+    "Moxie was in the Ranger Station and in row 5.",
+    "Remy's room contained exactly one other person."
+  ],
+  "standard_rules_used": [
+    "Every witness exactly once",
+    "Every witness different row and different column",
+    "Use only printed clues and visible map features"
+  ],
+  "interpretations": {
+    "diagonal_touch": "Absolute row difference1 AND absolute column difference1.",
+    "north_west_any_distance": "Strictly smaller column AND smaller row, no distance equality constraint.",
+    "south_west_any_distance": "Strictly smaller column AND larger row.",
+    "doorways": "Room membership follows visible named room boundary; doors do not merge the regions.",
+    "room_zone_sensitivity": "Compute both literal room-only companionship and permissive same-area companionship to test whether Visitor Walkway treatment affects uniqueness."
+  },
+  "expected_assignment_for_comparison_only": {
+    "Juno": "F3",
+    "Skye": "E4",
+    "Eden": "G2",
+    "Willow": "A1",
+    "Bodhi": "B7",
+    "Moxie": "C5",
+    "Remy": "D6"
+  },
+  "comparison_folios": [
+    199,
+    200
+  ],
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978"
+}

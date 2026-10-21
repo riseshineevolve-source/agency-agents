@@ -1,0 +1,936 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "grids_sha256": "e705cc036d23610fe6cb596916500ab202ac5c1d4ac8350ebde90796e1286e60",
+  "cases": [
+    {
+      "case": 10,
+      "variants": {
+        "edge_beside": {
+          "full_assignment_count": 1,
+          "assignments": [
+            {
+              "Wyatt": "B7",
+              "Ember": "D5",
+              "Nico": "F6",
+              "Beck": "C1",
+              "Finn": "A2",
+              "Vera": "G4",
+              "Dash": "E3"
+            }
+          ],
+          "answers": {
+            "Ember at D5": 1
+          },
+          "search_nodes": 25,
+          "domain_sizes": {
+            "Ember": 2,
+            "Nico": 2,
+            "Wyatt": 1,
+            "Finn": 5,
+            "Beck": 2,
+            "Vera": 11,
+            "Dash": 37
+          },
+          "matches_expected_post_enumeration": true
+        },
+        "edge_same_room": {
+          "full_assignment_count": 1,
+          "assignments": [
+            {
+              "Wyatt": "B7",
+              "Ember": "D5",
+              "Nico": "F6",
+              "Beck": "C1",
+              "Finn": "A2",
+              "Vera": "G4",
+              "Dash": "E3"
+            }
+          ],
+          "answers": {
+            "Ember at D5": 1
+          },
+          "search_nodes": 25,
+          "domain_sizes": {
+            "Ember": 2,
+            "Nico": 2,
+            "Wyatt": 1,
+            "Finn": 5,
+            "Beck": 2,
+            "Vera": 11,
+            "Dash": 37
+          },
+          "matches_expected_post_enumeration": true
+        },
+        "eight_neighbour_beside": {
+          "full_assignment_count": 2,
+          "assignments": [
+            {
+              "Nico": "F6",
+              "Wyatt": "B4",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "A2",
+              "Vera": "G7",
+              "Dash": "E3"
+            },
+            {
+              "Nico": "F6",
+              "Wyatt": "B7",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "A2",
+              "Vera": "G4",
+              "Dash": "E3"
+            }
+          ],
+          "answers": {
+            "Ember at D5": 2
+          },
+          "search_nodes": 53,
+          "domain_sizes": {
+            "Ember": 4,
+            "Nico": 2,
+            "Wyatt": 2,
+            "Finn": 5,
+            "Beck": 3,
+            "Vera": 7,
+            "Dash": 37
+          },
+          "matches_expected_post_enumeration": false
+        },
+        "eight_neighbour_same_room": {
+          "full_assignment_count": 2,
+          "assignments": [
+            {
+              "Nico": "F6",
+              "Wyatt": "B4",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "A2",
+              "Vera": "G7",
+              "Dash": "E3"
+            },
+            {
+              "Nico": "F6",
+              "Wyatt": "B7",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "A2",
+              "Vera": "G4",
+              "Dash": "E3"
+            }
+          ],
+          "answers": {
+            "Ember at D5": 2
+          },
+          "search_nodes": 53,
+          "domain_sizes": {
+            "Ember": 4,
+            "Nico": 2,
+            "Wyatt": 2,
+            "Finn": 5,
+            "Beck": 3,
+            "Vera": 7,
+            "Dash": 37
+          },
+          "matches_expected_post_enumeration": false
+        },
+        "charging_pod_as_circle_marked_tall_box_edge": {
+          "full_assignment_count": 1,
+          "assignments": [
+            {
+              "Wyatt": "B4",
+              "Ember": "D5",
+              "Nico": "F6",
+              "Beck": "C1",
+              "Finn": "A2",
+              "Vera": "G7",
+              "Dash": "E3"
+            }
+          ],
+          "answers": {
+            "Ember at D5": 1
+          },
+          "search_nodes": 15,
+          "domain_sizes": {
+            "Ember": 2,
+            "Nico": 2,
+            "Wyatt": 1,
+            "Finn": 5,
+            "Beck": 2,
+            "Vera": 11,
+            "Dash": 37
+          },
+          "matches_expected_post_enumeration": false
+        },
+        "charging_pod_as_circle_marked_tall_box_diagonal": {
+          "full_assignment_count": 11,
+          "assignments": [
+            {
+              "Nico": "F4",
+              "Wyatt": "B3",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "A2",
+              "Vera": "E6",
+              "Dash": "G7"
+            },
+            {
+              "Nico": "F4",
+              "Wyatt": "B3",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "A2",
+              "Vera": "E7",
+              "Dash": "G6"
+            },
+            {
+              "Nico": "F4",
+              "Wyatt": "B3",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "A2",
+              "Vera": "G7",
+              "Dash": "E6"
+            },
+            {
+              "Nico": "F6",
+              "Wyatt": "B3",
+              "Beck": "C1",
+              "Ember": "D4",
+              "Finn": "A2",
+              "Vera": "G7",
+              "Dash": "E5"
+            },
+            {
+              "Nico": "F6",
+              "Wyatt": "B3",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "A2",
+              "Vera": "G4",
+              "Dash": "E7"
+            },
+            {
+              "Nico": "F6",
+              "Wyatt": "B3",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "A2",
+              "Vera": "G7",
+              "Dash": "E4"
+            },
+            {
+              "Nico": "F6",
+              "Wyatt": "B3",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "E2",
+              "Vera": "G7",
+              "Dash": "A4"
+            },
+            {
+              "Nico": "F6",
+              "Wyatt": "B3",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "G4",
+              "Vera": "A7",
+              "Dash": "E2"
+            },
+            {
+              "Nico": "F6",
+              "Wyatt": "B3",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "G4",
+              "Vera": "E7",
+              "Dash": "A2"
+            },
+            {
+              "Nico": "F6",
+              "Wyatt": "B3",
+              "Beck": "A2",
+              "Ember": "D5",
+              "Finn": "G4",
+              "Vera": "E7",
+              "Dash": "C1"
+            },
+            {
+              "Nico": "F6",
+              "Wyatt": "B4",
+              "Beck": "C1",
+              "Ember": "D5",
+              "Finn": "A2",
+              "Vera": "G7",
+              "Dash": "E3"
+            }
+          ],
+          "answers": {
+            "Vera at E6": 1,
+            "Vera at E7": 1,
+            "Vera at G7": 1,
+            "Ember at D4": 1,
+            "Nico at F6": 1,
+            "Ember at D5": 3,
+            "Wyatt at B3": 1,
+            "Beck at C1": 1,
+            "Beck at A2": 1
+          },
+          "search_nodes": 101,
+          "domain_sizes": {
+            "Ember": 4,
+            "Nico": 2,
+            "Wyatt": 2,
+            "Finn": 5,
+            "Beck": 3,
+            "Vera": 7,
+            "Dash": 37
+          },
+          "matches_expected_post_enumeration": false
+        }
+      }
+    },
+    {
+      "case": 15,
+      "variants": {
+        "edge_beside": {
+          "full_assignment_count": 15,
+          "assignments": [
+            {
+              "Duke": "C5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "E6",
+              "Harper": "F1",
+              "Piper": "D2",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "E6",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "E6",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "E6",
+              "Harper": "F4",
+              "Piper": "D2",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "E6",
+              "Harper": "C2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "E6",
+              "Harper": "C2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "C4",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A6"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "C6",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "C6",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "D6",
+              "Harper": "C2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G3",
+              "Cruz": "B7",
+              "Inez": "D6",
+              "Harper": "C2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G4",
+              "Cruz": "B7",
+              "Inez": "D3",
+              "Harper": "C2",
+              "Piper": "F1",
+              "Milo": "A6"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G6",
+              "Cruz": "B7",
+              "Inez": "D3",
+              "Harper": "C2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G6",
+              "Cruz": "B7",
+              "Inez": "D3",
+              "Harper": "C2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G7",
+              "Cruz": "C3",
+              "Inez": "B6",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            }
+          ],
+          "answers": {
+            "Cruz at B7": 8,
+            "Harper at D2": 3,
+            "Piper at D2": 1,
+            "Harper at C2": 3
+          },
+          "search_nodes": 1160,
+          "domain_sizes": {
+            "Harper": 41,
+            "Piper": 41,
+            "Duke": 3,
+            "Cruz": 7,
+            "Jett": 6,
+            "Inez": 12,
+            "Milo": 41
+          },
+          "matches_expected_post_enumeration": false
+        },
+        "edge_same_room": {
+          "full_assignment_count": 1,
+          "assignments": [
+            {
+              "Duke": "E5",
+              "Cruz": "C3",
+              "Jett": "G7",
+              "Inez": "B6",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            }
+          ],
+          "answers": {
+            "Harper at D2": 1
+          },
+          "search_nodes": 776,
+          "domain_sizes": {
+            "Harper": 41,
+            "Piper": 41,
+            "Duke": 3,
+            "Cruz": 4,
+            "Jett": 6,
+            "Inez": 12,
+            "Milo": 41
+          },
+          "matches_expected_post_enumeration": true
+        },
+        "eight_neighbour_beside": {
+          "full_assignment_count": 38,
+          "assignments": [
+            {
+              "Duke": "C5",
+              "Jett": "G3",
+              "Inez": "E6",
+              "Cruz": "B7",
+              "Harper": "F1",
+              "Piper": "D2",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G3",
+              "Inez": "E6",
+              "Cruz": "B7",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G3",
+              "Inez": "E6",
+              "Cruz": "B7",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G3",
+              "Inez": "E6",
+              "Cruz": "B7",
+              "Harper": "F4",
+              "Piper": "D2",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G3",
+              "Inez": "E7",
+              "Cruz": "B6",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G3",
+              "Inez": "E7",
+              "Cruz": "B6",
+              "Harper": "F4",
+              "Piper": "D2",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G4",
+              "Inez": "E7",
+              "Cruz": "B3",
+              "Harper": "F1",
+              "Piper": "D2",
+              "Milo": "A6"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G4",
+              "Inez": "E7",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A6"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G6",
+              "Inez": "E7",
+              "Cruz": "B3",
+              "Harper": "F1",
+              "Piper": "D2",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G6",
+              "Inez": "E7",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G6",
+              "Inez": "E7",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "F7",
+              "Inez": "E6",
+              "Cruz": "B3",
+              "Harper": "G1",
+              "Piper": "D2",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "F7",
+              "Inez": "E6",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "G1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G7",
+              "Inez": "E6",
+              "Cruz": "B3",
+              "Harper": "F1",
+              "Piper": "D2",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G7",
+              "Inez": "E6",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "C5",
+              "Jett": "G7",
+              "Inez": "E6",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "G3",
+              "Inez": "E6",
+              "Cruz": "B7",
+              "Harper": "C2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "G3",
+              "Inez": "E6",
+              "Cruz": "B7",
+              "Harper": "C2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "G3",
+              "Inez": "E7",
+              "Cruz": "B6",
+              "Harper": "C2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "G4",
+              "Inez": "E7",
+              "Cruz": "B3",
+              "Harper": "C2",
+              "Piper": "F1",
+              "Milo": "A6"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "G6",
+              "Inez": "E7",
+              "Cruz": "B3",
+              "Harper": "C2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "G6",
+              "Inez": "E7",
+              "Cruz": "B3",
+              "Harper": "C2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "F7",
+              "Inez": "E6",
+              "Cruz": "B3",
+              "Harper": "C2",
+              "Piper": "G1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "G7",
+              "Inez": "E6",
+              "Cruz": "B3",
+              "Harper": "C2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "D5",
+              "Jett": "G7",
+              "Inez": "E6",
+              "Cruz": "B3",
+              "Harper": "C2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G3",
+              "Inez": "C4",
+              "Cruz": "B7",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A6"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G3",
+              "Inez": "C6",
+              "Cruz": "B7",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G3",
+              "Inez": "C6",
+              "Cruz": "B7",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G3",
+              "Inez": "C7",
+              "Cruz": "B6",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G4",
+              "Inez": "C7",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A6"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G6",
+              "Inez": "C7",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G6",
+              "Inez": "C7",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "F7",
+              "Inez": "C4",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "G1",
+              "Milo": "A6"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "F7",
+              "Inez": "C6",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "G1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G7",
+              "Inez": "C4",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A6"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G7",
+              "Inez": "B6",
+              "Cruz": "C3",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G7",
+              "Inez": "C6",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F1",
+              "Milo": "A4"
+            },
+            {
+              "Duke": "E5",
+              "Jett": "G7",
+              "Inez": "C6",
+              "Cruz": "B3",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            }
+          ],
+          "answers": {
+            "Cruz at B7": 5,
+            "Harper at D2": 9,
+            "Piper at D2": 2,
+            "Cruz at B3": 18,
+            "Harper at C2": 4
+          },
+          "search_nodes": 1638,
+          "domain_sizes": {
+            "Harper": 41,
+            "Piper": 41,
+            "Duke": 3,
+            "Cruz": 13,
+            "Jett": 6,
+            "Inez": 9,
+            "Milo": 41
+          },
+          "matches_expected_post_enumeration": false
+        },
+        "eight_neighbour_same_room": {
+          "full_assignment_count": 1,
+          "assignments": [
+            {
+              "Duke": "E5",
+              "Jett": "G7",
+              "Cruz": "C3",
+              "Inez": "B6",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            }
+          ],
+          "answers": {
+            "Harper at D2": 1
+          },
+          "search_nodes": 900,
+          "domain_sizes": {
+            "Harper": 41,
+            "Piper": 41,
+            "Duke": 3,
+            "Cruz": 7,
+            "Jett": 6,
+            "Inez": 9,
+            "Milo": 41
+          },
+          "matches_expected_post_enumeration": true
+        },
+        "equal_diagonal_NE_edge_beside": {
+          "full_assignment_count": 1,
+          "assignments": [
+            {
+              "Duke": "E5",
+              "Jett": "G7",
+              "Cruz": "C3",
+              "Inez": "B6",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            }
+          ],
+          "answers": {
+            "Harper at D2": 1
+          },
+          "search_nodes": 751,
+          "domain_sizes": {
+            "Harper": 41,
+            "Piper": 41,
+            "Duke": 3,
+            "Cruz": 7,
+            "Jett": 6,
+            "Inez": 12,
+            "Milo": 41
+          },
+          "matches_expected_post_enumeration": true
+        },
+        "equal_diagonal_NE_eight_neighbour_beside": {
+          "full_assignment_count": 1,
+          "assignments": [
+            {
+              "Duke": "E5",
+              "Jett": "G7",
+              "Inez": "B6",
+              "Cruz": "C3",
+              "Harper": "D2",
+              "Piper": "F4",
+              "Milo": "A1"
+            }
+          ],
+          "answers": {
+            "Harper at D2": 1
+          },
+          "search_nodes": 1094,
+          "domain_sizes": {
+            "Harper": 41,
+            "Piper": 41,
+            "Duke": 3,
+            "Cruz": 13,
+            "Jett": 6,
+            "Inez": 9,
+            "Milo": 41
+          },
+          "matches_expected_post_enumeration": true
+        }
+      }
+    }
+  ],
+  "scope": "Literal clues and original figure only; no source solution coordinates enter domains or constraints; no print/layout approval."
+}

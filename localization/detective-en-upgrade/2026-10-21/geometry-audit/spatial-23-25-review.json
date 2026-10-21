@@ -1,0 +1,241 @@
+{
+  "status": "PASS_KEEP__TWO_COMPLETE_SPATIAL_ASSIGNMENTS_UNIQUE",
+  "reviewer": "independent actual agent spatial_23_25",
+  "date_utc": "2026-10-21T12:15:04.059631+00:00",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "source_and_candidate_verified_from_actual_bytes": true,
+  "scope": "Original unsolved Case23/25 maps and printed clue/objective constraints plus standardp11 rules. No candidate, source, renderer or Git changes. Expected solutions comparison-only after enumeration.",
+  "method": [
+    "Rendered actual owner225PDF map pages111/119 at2x using PyMuPDF; visually inspected room walls, doorways, object silhouettes and printed blocked-square markers.",
+    "Read actual PDF clue pages110/118 and intake verified standard rulesp11. Every witness once, distinct row and column, blocked objects excluded, permitted seats usable.",
+    "MRV backtracking exhausts all available row/column assignments; early pruning only uses literal numbered clues. Room companion exactly-one-other enforced; expected roster is never constraint.",
+    "Compared complete solutions against original solution215/216 and218/219 only after enumeration."
+  ],
+  "cases": [
+    {
+      "case": 23,
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Vivi": "G7",
+          "Pia": "B2",
+          "Cora": "D1",
+          "Rae": "F6",
+          "Mae": "C5",
+          "Ozzy": "A3",
+          "Jude": "E4"
+        }
+      ],
+      "answers": {
+        "Rae at F6": 1
+      },
+      "search_nodes": 528,
+      "matches_expected_post_enumeration": true
+    },
+    {
+      "case": 25,
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Casey": "D5",
+          "Wynn": "B7",
+          "Tate": "C6",
+          "Gabe": "F3",
+          "Rio": "E2",
+          "Sol": "G1",
+          "Nori": "A4"
+        }
+      ],
+      "answers": {
+        "Casey at D5": 1
+      },
+      "search_nodes": 350,
+      "matches_expected_post_enumeration": true
+    }
+  ],
+  "interpretation_limits": [
+    "Grid steps interpreted as row difference plus column difference (Manhattan coordinate distance), consistent with the same-book explicit explanation in Case07. No wall-constrained walking route is stated in Case23.",
+    "North-east / south-west mean any-distance strict directional quadrant. No equal row/column difference is imposed unless text says diagonally next to. In Case25 diagonally next to requires exactly one row and one column.",
+    "Case23 uses area in objective and named room/area boundaries for companion checks; visual map has no separate ROOM/ZONE type labels on these named areas. No invisible category invented."
+  ],
+  "visual_findings": [
+    "Case23 Snack Stand includes A2/B2, B3/C3, C4; unoccupied C4 has blocked cotton-candy object. Balloon Corner includes benchA3 plus A4/B4/B5:E5; MaeC5 and OzzyA3 share it. Prize Tent reaches E4/F4, F2:F5 and E6:F7; JudeE4/RaeF6 share it.",
+    "Case25 Lobby reaches D4:D5 via its right-hand leg; CaseyD5 is not Guest Suite. Laundry bar stoolsA5/C5/B7 resolve WynnB7 by global constraints. GuestSuite includes D2/E2/D3/E3/F3/E4/F4/G4/E5."
+  ],
+  "files": {
+    "spatial-23-25-grid.json": "2df572ed08891fef2cf92e3baf73e588895f49328a79c38939c69e9990a279f5",
+    "spatial-23-25-solver.py": "5aab39cda8414506e3e33c54b4a766e5ea55dbf99deb5a91465544e526a15939",
+    "spatial-23-25-results.json": "de31dd58d1adab28a140cc76655856e573cdf3a725ce4c5764cebd7a12c985be"
+  },
+  "render_reproduction": {
+    "command": "PyMuPDF fitz.open(owner_pdf)[page-1].get_pixmap(matrix=fitz.Matrix(2,2)).save(path)",
+    "render_hashes": {
+      "spatial-23-25-renders/111.png": "d91e1a96d02df32a282ba3d09538d19c37c35a3418d518b424089621f1df69b6",
+      "spatial-23-25-renders/119.png": "ce57bf0bb5cc6116638bab0fc252916439ef8c8aefeeaee79c7451067a6de207"
+    },
+    "raster_artifacts_optional_reproducible": true
+  },
+  "candidate_clue_identity": [
+    {
+      "id": "page110.block01",
+      "text_equal": true,
+      "source_text_sha256": "dec80305319c702b141d348f18433f8a4e6ebaaf1da94aecb97b9904232b65de"
+    },
+    {
+      "id": "page110.block02",
+      "text_equal": true,
+      "source_text_sha256": "d9d675aa97d1539cb9f4bb95da3088a1abc772378fe180a6dd9c3096c81d03e2"
+    },
+    {
+      "id": "page110.block03",
+      "text_equal": true,
+      "source_text_sha256": "e5ef533e026c01fcc579550ac625b7191dc894615db5a6ec5f2593dfb7d62830"
+    },
+    {
+      "id": "page110.block04",
+      "text_equal": true,
+      "source_text_sha256": "0e6ca236584e13f97cf905d2cee7adabbcbaef9d4c1d1ce6f4d251121a4e42aa"
+    },
+    {
+      "id": "page110.block05",
+      "text_equal": true,
+      "source_text_sha256": "5180615cda5a346a0c858386cc06482c2521588f4396021ef1b0620884eacc40"
+    },
+    {
+      "id": "page110.block06",
+      "text_equal": true,
+      "source_text_sha256": "0f68ab2231070322f5b4359c1865543740c4eb0eb5d1d5537dd8aefbf67d6365"
+    },
+    {
+      "id": "page110.block07",
+      "text_equal": true,
+      "source_text_sha256": "a7df660cc948b3730ab56e1a0806d0d7af82b839d45b782aa1c284d1a6159265"
+    },
+    {
+      "id": "page110.block08",
+      "text_equal": true,
+      "source_text_sha256": "01fa6794207f712a615bb5cf0eb8a3584fb912db1e067ad12b691185460ba337"
+    },
+    {
+      "id": "page110.block09",
+      "text_equal": true,
+      "source_text_sha256": "1af94bee6d8119d8dff6002002e8996f61cf185d9c4b0fae148ee9ecc7a36dde"
+    },
+    {
+      "id": "page110.block10",
+      "text_equal": true,
+      "source_text_sha256": "5e4d2ddc4ed3e3586aa434d89a2e8016df17ee188e6780b102b5520ca38b524d"
+    },
+    {
+      "id": "page110.block11",
+      "text_equal": true,
+      "source_text_sha256": "995db452be68854e8b25ee80a06236dfb0d0466215e464939bb995125f974417"
+    },
+    {
+      "id": "page110.block12",
+      "text_equal": true,
+      "source_text_sha256": "8d196255a565b694dde8f7191dcac56aed7398a825132b86e70f7eeb0ae798de"
+    },
+    {
+      "id": "page110.block13",
+      "text_equal": true,
+      "source_text_sha256": "ae70482a710a913a842b4ad99e110aa207b186fb4297278ffd2b631161ca58c5"
+    },
+    {
+      "id": "page110.block14",
+      "text_equal": true,
+      "source_text_sha256": "3a090f93cc0ec901c0bb7a89b9da61ec00e4999cf24be24ff58e81df7ea6276e"
+    },
+    {
+      "id": "page110.block15",
+      "text_equal": true,
+      "source_text_sha256": "33e7d636c8aa955d329692445b802c437523c32e0acc7df2aa91f70b79b3da75"
+    },
+    {
+      "id": "page110.block16",
+      "text_equal": true,
+      "source_text_sha256": "72ccc96ce54477e834e998b54c235f9182ddc290e2d92c7c4815fc98d22e2296"
+    },
+    {
+      "id": "page110.block17",
+      "text_equal": true,
+      "source_text_sha256": "0f9af4708df5df0b4600d1c5da503884f79b2535303f516c5b053948f6dbfb6f"
+    },
+    {
+      "id": "page110.block18",
+      "text_equal": true,
+      "source_text_sha256": "e00e6031fc5e7ef95c526573343419859e112cebd550f10e2089bf393f5ed2bd"
+    },
+    {
+      "id": "page118.block01",
+      "text_equal": true,
+      "source_text_sha256": "58a5cae5e6342f7534b353d8212191152419a9ecfac429ba6ad47e005ea74efd"
+    },
+    {
+      "id": "page118.block02",
+      "text_equal": true,
+      "source_text_sha256": "dfc527a06e2b605a5dc1dfc2a1be345f6b6b1e52f1d638f751b11aae46e927a3"
+    },
+    {
+      "id": "page118.block03",
+      "text_equal": true,
+      "source_text_sha256": "0b50b45c1e5b1c582baa86cec8483b23243214ddc9795d7f522a2494dfb6ba17"
+    },
+    {
+      "id": "page118.block04",
+      "text_equal": true,
+      "source_text_sha256": "68bd9e6f69ccc62d0684c22caa852d56229decd53574252c25463793bc71259d"
+    },
+    {
+      "id": "page118.block05",
+      "text_equal": true,
+      "source_text_sha256": "5d0f41009dcee137c96281d86e8c6a0fb968e1351e1e59e6d88970acf8618df0"
+    },
+    {
+      "id": "page118.block06",
+      "text_equal": true,
+      "source_text_sha256": "db1b75bb605f4a07015072ff9a32584b8eb85574aec6f9abae0bb0e6a2c61d99"
+    },
+    {
+      "id": "page118.block07",
+      "text_equal": true,
+      "source_text_sha256": "a60be9798d906d38a9b03e8f92a089945cfb3f8260e7f89dd48f0a60222e92e9"
+    },
+    {
+      "id": "page118.block08",
+      "text_equal": true,
+      "source_text_sha256": "fa05534466e61150f8018ddf9fc0e98372d1ff56fcb269ae7818cba33b585aa9"
+    },
+    {
+      "id": "page118.block09",
+      "text_equal": true,
+      "source_text_sha256": "90e3530d6ea22366d08e5388e9d61a8137d1a1e4d1166856e1b86d088e0da54f"
+    },
+    {
+      "id": "page118.block10",
+      "text_equal": true,
+      "source_text_sha256": "09cb3ab4744b1d8e5efc2286383d9175a199a7b587b475117ea01a7ef8ccfdaa"
+    },
+    {
+      "id": "page118.block11",
+      "text_equal": true,
+      "source_text_sha256": "4983c0557ae0dd286a0d551fb4b9ae5579613720abafb8db5c294939ecf36cb9"
+    },
+    {
+      "id": "page118.block12",
+      "text_equal": true,
+      "source_text_sha256": "0f9af4708df5df0b4600d1c5da503884f79b2535303f516c5b053948f6dbfb6f"
+    },
+    {
+      "id": "page118.block13",
+      "text_equal": true,
+      "source_text_sha256": "f10f7170eeb4986f69d764a4cb97c3f8e9337963222188a647fc4c0ac289d0e4"
+    }
+  ],
+  "not_claimed": [
+    "Whole-book or physical print acceptance",
+    "BookFactory import/render receipt",
+    "Release freeze or PRINT_READY"
+  ]
+}

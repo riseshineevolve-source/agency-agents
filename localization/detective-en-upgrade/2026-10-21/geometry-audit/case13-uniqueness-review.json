@@ -1,0 +1,101 @@
+{
+  "reviewer": "Independent case13_uniqueness agent",
+  "date": "2026-10-21",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "decision": "PASS / KEEP",
+  "scope": "Case 13 complete seven-person spatial uniqueness from original unsolved clue/map folios, including diagonal corner-touch and any-distance north-west/south-west chain.",
+  "source_folios": {
+    "standard_rules": 11,
+    "clues": 66,
+    "unsolved_map": 67,
+    "hints": [
+      155,
+      164,
+      173
+    ],
+    "comparison_solution": [
+      199,
+      200
+    ]
+  },
+  "visual_evidence": {
+    "case13-renders/p199.png": "119850faf24ce5dabc942822b0cd4740076c43ef0593cc064db861a5b2e05ef5",
+    "case13-renders/p200.png": "f0dcfbcccf1aedf251c338138af8c88aa1d927a8342a8a69b98385c89ddc74f6",
+    "case13-renders/p66.png": "df5946db7d14f82e7a4fb05416491af482ce45696c75a3d5cec54ef108349e0c",
+    "case13-renders/p67.png": "0835f6cb1ee4d1f968458ce8b3a63fd4f98b096db39f70f4bd74e17a3f8d4ebe"
+  },
+  "solver_evidence": {
+    "case13-grid.json": "094c60a7cca7055b605c6a3cf5a0bb98c6469af60c557303344cdd782571b51b",
+    "solve-case13.py": "3f191f1f77c04f84e25b7980315aaf56dbdab0ccc83589bace1144828c9e76c9",
+    "case13-solver-result.json": "671bb318e9b67dbaa1ac67b3d43c3ff307bed39b696cd5514493bcbade2590a3"
+  },
+  "independence": [
+    "Unsolved original map 67 was visually read for all 49 room memberships and nine blocked squares.",
+    "The expected solution roster is stored only in a comparison field and never used as a search constraint.",
+    "Search covers each possible distinct-row/distinct-column assignment over unblocked squares, applying only the literal clue constraints.",
+    "The unique enumerated roster was compared afterward with original solution folios 199 and 200."
+  ],
+  "result": {
+    "full_assignment_count": 1,
+    "roster": {
+      "Juno": "F3",
+      "Skye": "E4",
+      "Eden": "G2",
+      "Willow": "A1",
+      "Bodhi": "B7",
+      "Moxie": "C5",
+      "Remy": "D6"
+    },
+    "answer": "Bodhi at B7"
+  },
+  "literal_checks": [
+    {
+      "clue": 1,
+      "check": "Juno F3 and Skye E4 differ by one row and one column; corners touch.",
+      "status": "PASS"
+    },
+    {
+      "clue": 2,
+      "check": "Skye E4 is Ranger Station.",
+      "status": "PASS"
+    },
+    {
+      "clue": 3,
+      "check": "Juno F3 and Eden G2 both lie in Habitat Paddock.",
+      "status": "PASS"
+    },
+    {
+      "clue": 4,
+      "check": "Willow A1 is west of and north of Bodhi B7; distances need not be equal.",
+      "status": "PASS"
+    },
+    {
+      "clue": 5,
+      "check": "Bodhi B7 is west of and south of Moxie C5; distances need not be equal.",
+      "status": "PASS"
+    },
+    {
+      "clue": 6,
+      "check": "Moxie C5 is Ranger Station, row 5.",
+      "status": "PASS"
+    },
+    {
+      "clue": 7,
+      "check": "Remy D6 shares Research Lab with exactly Bodhi B7.",
+      "status": "PASS"
+    },
+    {
+      "clue": "standard rules",
+      "check": "All seven rows and columns used exactly once; no occupied square has a black blocked-object marker.",
+      "status": "PASS"
+    }
+  ],
+  "room_zone_sensitivity": "Treating all named areas as potential rooms produces the same sole full assignment and answer; Visitor Walkway treatment does not affect this result.",
+  "auxiliary_correction_confirmed": "The empty named room is Hide Room. Habitat Paddock contains Juno and Eden. Both names begin H, so the previously recorded initial H does not change.",
+  "candidate_action": "KEEP; no source, puzzle, prose, clue or solution edits.",
+  "limits": [
+    "Depends on the explicitly stored visual room/object transcription.",
+    "This is a source-geometry uniqueness audit, not an illustrated production import, physical print proof or PRINT_READY decision."
+  ]
+}

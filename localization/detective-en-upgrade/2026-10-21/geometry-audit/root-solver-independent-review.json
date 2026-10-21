@@ -1,0 +1,140 @@
+{
+  "reviewer": "constraint_review independent agent",
+  "reviewed_utc": "2026-10-21T12:13:19.451793+00:00",
+  "scope": "Only source folios11,38,39,42,43 and Case06/07 transcriptions plus two independent solver implementations. No whole-book, illustrated product, publication or print-ready certification.",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "candidate_disposition": "KEEP; no candidate text or production code modified",
+  "file_sha256": {
+    "upload/DETECTIVE_ACADEMY_EN_20261021_225P.pdf": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+    "detective-upgrade/candidate/candidate.json": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+    "detective-upgrade/source/intake-v5.json": "89b2ec319b5510c664c2932ac6895d185e53fd4b36fc0cf3afa468b79de15003",
+    "detective-upgrade/geometry-audit/root-map-grids-06-07.json": "f6dd1e052e9fe074091d9c6f9738f1544c05c007681c7cff6176ff46fc461f54",
+    "detective-upgrade/geometry-audit/solve-root-maps-06-07.py": "e2af0bd5e840237e4c154e94a82df91074b85767972afc30bc4c905648b756c7",
+    "detective-upgrade/geometry-audit/root-map-results-06-07.json": "9a2f7bfcf099172103479f8195aaac42e8cdb4f6484447a25ad814273a6d8c2c",
+    "detective-upgrade/geometry-audit/independent-enumeration-06-07.py": "ca99445f8ccf50f08cf4d0fdaa22dd933714ce79a553f6e6247a284052ae1b44",
+    "detective-upgrade/geometry-audit/independent-enumeration-results-06-07.json": "5281d49c93bf3b12074d8f48906c731265bbfaf49945e691cfd3866aa5d256e4",
+    "detective-upgrade/geometry-audit/unsolved-39.png": "6b9e22f1c352a9a3869479423a5d38ab947b6d477d3608983fb4f7e492254804",
+    "detective-upgrade/geometry-audit/unsolved-43.png": "a7e8db22edb72305c5b16099c688e5b1ee475f464babbcede4434ff8c9f3aa4d"
+  },
+  "source_inspection": {
+    "actual_pixels_viewed": [
+      11,
+      38,
+      39,
+      42,
+      43
+    ],
+    "method": "Viewed original-map renders39/43; independently rendered originalPDF11/38/42 with PyMuPDF and inspected pixels; extracted source text38/42 matched visible statements. Source11 is raster and was read visually.",
+    "room_topology": "PASS: both six-row room maps trace thick room walls; door openings separate named rooms. Coordinates/objects reviewed against actual unsolved maps."
+  },
+  "genuine_audit_metadata_defects_corrected": [
+    {
+      "case": 6,
+      "field": "blocked",
+      "before_missing": [
+        "E5"
+      ],
+      "after_added": [
+        "E5"
+      ],
+      "evidence": "Source39 E5 visibly holds a display case and black blocked square."
+    },
+    {
+      "case": 6,
+      "field": "display_cases",
+      "before": [
+        "D1",
+        "A2",
+        "E4",
+        "A5"
+      ],
+      "after": [
+        "D1",
+        "A2",
+        "A5",
+        "E5"
+      ],
+      "evidence": "E4 is a pedestal, not a display case; E5 is a display case."
+    },
+    {
+      "case": 6,
+      "field": "benches",
+      "before": [
+        "A1",
+        "C4",
+        "C5",
+        "F6"
+      ],
+      "after": [
+        "A1",
+        "C4",
+        "C5",
+        "A6",
+        "F6"
+      ],
+      "evidence": "A6 visibly contains a bench with usable-floor circle; root independently confirmed omission."
+    },
+    {
+      "case": 6,
+      "field": "pedestals",
+      "after": [
+        "A3",
+        "D3",
+        "E4"
+      ],
+      "evidence": "Added explicit category provenance for visually matching pedestal objects; all already blocked."
+    }
+  ],
+  "correction_provenance": "Independent reviewer identified E5 blocked/display-case omission and E4 misclassification from source39 pixels. Root independently confirmed and identified A6 bench omission; root delegated correction of this audit JSON and rerun. No source artwork or approved candidate altered.",
+  "solver_review": {
+    "expected_roster_is_not_search_constraint": "PASS. Root evaluate() accesses expected only in returned comparisons. Independent enumerator never reads expected; it enumerates all column and row permutations before literal filtering.",
+    "independent_method": "Separate itertools.permutations of all six columns and six rows, with literal fixed witnesses, blocked-floor/area/adjacency filters; complete assignment-set equality asserted against root solver, including all10 anchor-omitted results.",
+    "distinct_rows_and_columns": "PASS: root maintains used row/column sets; independent enumeration generates permutations.",
+    "case06": "PASS_AFTER_METADATA_CORRECTION: one full roster under both orthogonal and eight-neighbor beside interpretations; answer Arlo D2. Corrected object metadata does not change the prior unique roster.",
+    "case07_literal_encoding": {
+      "Blaze_only_Rehearsal": "PASS: Blaze in R, all other witnesses excluded from R.",
+      "Indigo_Dressing_or_Rehearsal": "PASS; Blaze-only constraint then rules out Rehearsal.",
+      "Willa_distance": "PASS conditionally: absolute column difference plus absolute row difference exactly2, as explicit source42 text. Anchor itself remains unidentified.",
+      "Zoe_outerwall_beside_cart": "PASS for stated model: outer-grid columnA/F or row1/6 and orthogonal adjacency to visible wheeled roadcases A1,D1,D6. Source43 shows these silhouettes; no distinct labeled costume-cart identity is supplied. This does not identify the stage range.",
+      "Rocket_E5": "PASS",
+      "Gray_exactly_one_companion": "PASS: exactly one other witness in Gray named area; Gray excluded from count."
+    },
+    "case07_conditional_counts": {
+      "D1": {
+        "count": 3,
+        "answers": {
+          "Rocket at E5": 2,
+          "Zoe at C6": 1
+        }
+      },
+      "C2": {
+        "count": 1,
+        "answers": {
+          "Zoe at C6": 1
+        }
+      },
+      "C1": {
+        "count": 1,
+        "answers": {
+          "Zoe at C6": 1
+        }
+      },
+      "C4": {
+        "count": 1,
+        "answers": {
+          "Willa at C6": 1
+        }
+      }
+    },
+    "all_assignment_sets_equal_root": true
+  },
+  "case07_source_anchor_gate": {
+    "status": "BLOCK_UNRESOLVED_SOURCE_REFERENCE",
+    "source_text": "Willa was 2 grid steps from the stage range marker. Count row difference plus column difference.",
+    "actual_pixels": "No stage-range-marker label identifies a square. C1/C4 look like light strips, D1 like a roadcase, C2 like a metal rolling rack/crate. Shape interpretation cannot silently become an authoritative marker.",
+    "why_not_infer_from_expected": "C2 produces the printed expected roster uniquely, but choosing it for that reason is circular. D1 also admits the expected roster, while allowing two alternatives and a different companion. C1 gives same companion with different roster; C4 changes companion.",
+    "required_evidence": "Authoritative mapping of source42 stage range marker to a particular source43 square, or an owner-authorized source correction. Until then all anchor-specific results remain conditional; no text rewrite proposed."
+  },
+  "verdict": "Case06 corrected audit PASS; Case07 conditional solver PASS with source-anchor BLOCK; accepted V5 prose KEEP."
+}
