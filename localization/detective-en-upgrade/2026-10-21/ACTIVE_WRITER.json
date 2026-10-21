@@ -1,8 +1,11 @@
 {
-  "state": "V5_KEEP__ALL_CASE_EVIDENCE_COVERAGE_COMPLETE__EXTERNAL_DEPENDENCIES_PAUSED",
-  "owner": null,
-  "updated_utc": "2026-10-21T13:10:51.594165+00:00",
-  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
-  "rule": "Expected-head solewriter lease required only when actualnewsource/productinput permits substantiveevidence work. V5KEEP. BookFactoryexclusiveproductwriter; no assumedsource/artunlocks.",
-  "next_safe_task": "Wait for actual source/artresolution Case03/07/20 or approvedmap-rule/iconclarity02/10/15, or soleBookFactorywriterV5import/illustratedrender/8raster-slotreceipts. Then acquire expected-headlease andreview boundeddependencyclosure. All30case evidencecoverage indexed; do notrepeatgreens or inventprosework. No productionedits/freeze/publication."
+  "state": "OWNER_AUTHORIZED_V6_BOUNDED_PUZZLE_REPAIRS",
+  "owner": "codex-detective-v6-owner-fixes-20261021",
+  "updated_utc": "2026-10-21T14:21:15.057Z",
+  "expires_utc": "2026-10-21T16:21:15.057Z",
+  "base_branch_head": "97e901aca69b710b01016bed54f4a1a3f7082b60",
+  "baseline_candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "scope": "Owner explicitly requests PHOTO A/B only external captions and repairs Cases02/07/10/15/20 for clear child instructions and exactly one full assignment; matching hints/solutions/figure corrections allowed.",
+  "rule": "One localization candidate writer; independent reviewers write review outputs only. Existing BookFactory remains sole production writer. No main merge, production renderer edit, publication or freeze.",
+  "next_safe_task": "Write separate V6, verify bounded delta and 5 complete witness rosters, review affected closure, supply full manuscript and precise map/caption repair evidence to product writer."
 }
