@@ -1,38 +1,35 @@
 lane: optical_animals
 title: "Optical Animals"
 updated: 2026-10-21
-status: ATTACHED_VERSION1_AUDIT_COMPLETE__ENDING_COPY_EXPORT_DECISION
-branch_or_repo_state: "Approved V4 body pages6-48 and hero originals unchanged. Product branch feat/optical-animals-book-creator unchanged. Print artifact assembled outside Git."
+status: FINAL_PREMIUM_REVISION_DELIVERED__DIGITAL_GATES_PASS__PHYSICAL_PROOF_RELEASE_PENDING
+branch_or_repo_state: "Approved originals unchanged; product branch feat/optical-animals-book-creator unchanged. Deterministic final PDF assembled outside Git."
 milestone: >-
-  Owner requested detailed audit of a separate Canva attachment version1.
-  Four reviewers assessed all20 artworks, editorial flow and production.
-  Overall8/10; art8.6, optics7.9, intro9, coloring8, ending6, currentexport7.
-  Seven-page audit with20individual scores and feedback saved. No book edits.
+  Owner authorized implementing agent audit improvements. Delivered final48-page
+  premium revision: accurate18single+2spread copy, natural20AnimalDesignstoColor
+  subtitle, native outlined Publishing/Before typography, no empty ISBN label,
+  quiet prelude45 and closing48. Original22 grayscale illustration payloads
+  preserved. Independent final visual/copy and technical gatesPASS.
 blocker: >-
-  Owner choice of minimal48ending exception versus49/50strict blank backs;
-  Before blank-reverse claim must reflect2spreads. Attached Canva export needs
-  alpha flattening and metadata cleanup; prior printmaster preflight is separate.
-owner_gate: "Ending placement and accurate Before/title wording; then deterministic export and physical proof/release. No hero regeneration or paid action."
+  No remaining objective digital-PDF blocker found. Physical paper/ink/gutter
+  proof and owner visual/release approval remain. Subjective10/10 not guaranteed.
+owner_gate: "Owner visual acceptance, physical proof and explicit release/upload authorization; no paid order or publication performed."
 dependencies_needed: []
 reusable_outputs:
-  - "Latest audit: WILD_ILLUSIONS_AUDYT_VERSION_1_PL.pdf;libfile_d2b98bcb4f788191935306298ef677ff version0"
-  - "Audited Canva attachment SHA56c1790953c8a4bd2761ed7c8474d2b88676f0e7a47c32c471842c6c1c32ee0f; unchanged"
-  - "44protectshorse43;45protectsbutterfly46;48protectsbutterfly47. Do not delete blanks blindly."
-  - "Wild Illusions / Op Art accurate collection framing; not20distinctclassicillusions."
-  - "WILD_ILLUSIONS_KDP_INTERIOR_FINAL_48P_PRINT.pdf"
-  - "libfile_889cc56741a48191a8df99b6c5f86acc version1; file_00000000ca5c81f495f21d7d5b9dde1e"
-  - "Final post-save SHA25642befffa23a295d0e05c7020fba66f765158c2714000a71af735fab366513516"
-  - "48single pages;621x810pt bleed,612x792pt trim with alternating outer bleed."
-  - "All43body content/image streams and renders identical; compressed image streams byte-identical."
-  - "Intro is faithful vector contour tracing of127ppi sources, not invented/native300ppi detail."
-  - "Publishing local160text threshold repairs faint stems; other art remains128. All fonts outlined/no live dependencies."
-  - "All pages render after save, strict parsing passes, hash stable."
-  - "V4 original SHA256 unchanged2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13"
+  - "CURRENT: WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf;48pages,104838751bytes"
+  - "libfile_507fe3cae5088191be459397753617d0 version1;file_0000000092bc81f8aa50c7cf4a3a4618"
+  - "Post-save SHA256bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef"
+  - "621x810pt bleed;612x792pt alternating trim;zero softmasks,fonts,metadata,annotations."
+  - "All22bodyimage encoded streams byte-identical to V4;41retainedbody normalized paint/render identical."
+  - "Removed nonpainting default font blocks; fixed pypdf false-truthiness guard. Poppler text+all48page renders zero stderr."
+  - "44fullyblank;45prelude;46-47butterfly;48closing.19blankpages. Accurate spread exceptions disclosed."
+  - "All original hero/intro/source bytes unchanged; cheetah mirror fragments confirmed intentional, no erasure."
+  - "Audit history: WILD_ILLUSIONS_AUDYT_VERSION_1_PL.pdf;libfile_d2b98bcb4f788191935306298ef677ff version0"
+  - "Original V4 SHA2562dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13"
 next_safe_task: >-
-  Owner chooses ending/copy option from audit. Preserve all approved originals.
-  Apply only authorized editorial/export changes to selected current version,
-  then preflight again. Earlier validated48-page printmaster remains separate.
-checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-version1-detailed-audit.md
+  Owner visual/physical proof review of CURRENT premium revision. Apply only
+  specific authorized proof corrections; preserve approved originals. No
+  arbitrary score inflation, automatic publication or obsolete printmaster reuse.
+checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-premium-revision-final.md
 model_policy_ack: rse-weekly-usage-2026-10-21-v1
 recommended_profile: production
 runtime_model_observed: UNKNOWN
