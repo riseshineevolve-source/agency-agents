@@ -1,7 +1,7 @@
 lane: central_control_tower
 title: RSE Central Control Tower
 updated: 2026-10-21
-status: FIRST_REVENUE_EXECUTION_QUEUE__OA_PRIMARY_CANDIDATE__PRODUCER_ACKS_PENDING
+status: OA_INTRO_PRINT_HOLD_VERIFIED__EXACT_RELEASE_RECEIPTS_REQUESTED
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   observed_base: 3b4d9e7ab19134849eee2eb2b8619b1129d768d8
@@ -119,3 +119,56 @@ policy_notifications:
   receipt_state: PUBLISHED_IN_REPO__READ_AND_EXECUTION_UNVERIFIED
   ack_request: Record sprint ID, current assignment, exact output or blocker and next action in OWN lane
     mailbox/checkpoint. Do not ask owner to relay tasks or overwrite another lane.
+
+release_readiness:
+  card: orchestration/brain/RSE_FIRST_RELEASE_READINESS_2026-10-21.md
+  evidence_base: 5aedc3c8c6f09f65aa70e5d4911f7f8acc819926
+  evidence_level: PRODUCER_RECEIPTS_READ__PRIVATE_ARTIFACT_BYTES_NOT_REHASHED
+  new_fact: OA_current_intro_is_five_page_review_only_not_integrated_128ppi_print_hold
+  current_intro_review_sha256: d086da6c77f03646f4cbeb0d178f4ec5502e4512aa9d3951b3ebbd403df94842
+  previous_V7_is_current_final: false
+  fallback_compared: gentle_steps_existing_book_receipts
+  fallback_result: NOT_PROVEN_MORE_COMPLETE__HISTORICAL_PAPERBACK_AND_HARDCOVER_POINTERS_NOT_MATCHED
+  candidate_switched: false
+  consolidated_owner_release_decision_ready: false
+  producer_revenue_acknowledgments: NOT_OBSERVED
+release_packet_requests:
+  - id: first-release-oa-files-20261021
+    to: optical_animals
+    priority: P0
+    need: >-
+      Expose exact existing V4 filename/location and current full-wrap cover filename/location/SHA256,
+      binding/trim/bleed/paper/ink/page-count match and exact metadata lock.
+      Current five-page intro review is not integrated; retain later owner feedback.
+      State bounded native-resolution/vector-text and footer-safe-area remedy,
+      then expose final accepted 48-page interior hash and retained-page verification.
+      Preserve approved art/order and actual Previewer/physical-proof gates.
+      Do not recreate a cover until existing cover source is resolved.
+    acknowledgment: PENDING_EXPLICIT_PRODUCER_ENTRY
+  - id: first-release-gs-existing-pair-20261021
+    to: gentle_steps
+    priority: P1_FALLBACK_COMPARISON
+    need: >-
+      Inventory only already-existing EN/PL book interiors and matching full-wrap covers,
+      exact filenames/locations/hashes/page counts/trim/binding/current title/source locks.
+      Historical inventory points to a paperback interior and a hardcover-named cover:
+      establish matching pair rather than assuming compatibility. Supply actual current
+      PL R6 final-template PDF and twelve print-scale views/reviewer proof or exact missing
+      source. Do not create app features, a third product or new renderer.
+    acknowledgment: PENDING_EXPLICIT_PRODUCER_ENTRY
+  - id: first-release-metadata-cost-20261021
+    to: marketing_autopilot
+    priority: P0_AFTER_VERIFIED_PRODUCT_SPEC
+    need: >-
+      Consume verified current product metadata and exact print specification.
+      Return existing listing/copy draft and marketplace/currency/current actual print cost,
+      proposed launch price and royalty arithmetic with source/date.
+      Historical Gentle Steps copy contains legacy labels; preserve later owner locks.
+      No public post, store price update, spend or fabricated listing/ASIN.
+    acknowledgment: PENDING_EXPLICIT_PRODUCER_ENTRY
+model_policy_ack: rse-weekly-usage-2026-10-21-v1
+recommended_profile: coordinator
+runtime_model_observed: UNKNOWN_NO_CLIENT_SETTING_READ
+runtime_reasoning_observed: UNKNOWN_NO_CLIENT_SETTING_READ
+runtime_speed_observed: UNKNOWN_NO_CLIENT_SETTING_READ
+application_status: RECOMMENDATION_ONLY
