@@ -1,0 +1,264 @@
+{
+  "format": "rse-language-candidate-v1",
+  "language": "pl",
+  "run_sha256": "bc5f8684cef2c33fd482bc4c64f18c25cf00b33a4bcb9bcc44f6ebce8302c85e",
+  "writer_packet_sha256": "40777d58c013e13aba9dee8aa1b87f9129a3d5ef3ef9a873d310cf7d5fb0878b",
+  "segments": [
+    {
+      "id": "legal.0001",
+      "text": "← Wróć do Rise.Shine.Evolve."
+    },
+    {
+      "id": "legal.0002",
+      "text": "Polityka prywatności"
+    },
+    {
+      "id": "legal.0003",
+      "text": "Ta polityka wyjaśnia, jak strona Rise.Shine.Evolve. postępuje z danymi osobowymi, gdy przeglądasz stronę, dokonujesz wyboru dotyczącego analityki, zapisujesz się na aktualności lub kontaktujesz się z nami."
+    },
+    {
+      "id": "legal.0004",
+      "text": "1. Kto odpowiada za tę stronę?"
+    },
+    {
+      "id": "legal.0005",
+      "text": "rise.shine.evolve@gmail.com"
+    },
+    {
+      "id": "legal.0006",
+      "text": "2. Jakie informacje mogą być przetwarzane?"
+    },
+    {
+      "id": "legal.0007",
+      "text": "{slot_1}Analityka strony, wyłącznie po uzyskaniu zgody. {slot_2}Jeśli zezwolisz na analitykę, Google Analytics 4 może przetwarzać informacje o korzystaniu ze strony, takie jak:"
+    },
+    {
+      "id": "legal.0008",
+      "text": "odwiedzane strony i podstawowe zdarzenia związane z interakcjami;"
+    },
+    {
+      "id": "legal.0009",
+      "text": "informacje o przeglądarce, urządzeniu i systemie operacyjnym;"
+    },
+    {
+      "id": "legal.0010",
+      "text": "informacje o źródle odwiedzin i przybliżonej lokalizacji geograficznej;"
+    },
+    {
+      "id": "legal.0011",
+      "text": "identyfikatory internetowe oraz analityczne pliki cookie lub podobne identyfikatory używane przez Google Analytics."
+    },
+    {
+      "id": "legal.0012",
+      "text": "Wykorzystujemy te informacje, aby dowiedzieć się, które strony i materiały są przydatne, oraz ulepszać stronę. Nie korzystamy z tej konfiguracji GA4 do personalizacji reklam, remarketingu ani Google Signals."
+    },
+    {
+      "id": "legal.0013",
+      "text": "{slot_1}Zapis do newslettera lub społeczności. {slot_2}Jeśli się zapiszesz, przekazane przez Ciebie informacje mogą obejmować imię, adres e-mail i preferencje dotyczące komunikacji."
+    },
+    {
+      "id": "legal.0014",
+      "text": "{slot_1}Wiadomości, które do nas wysyłasz. {slot_2}Jeśli kontaktujesz się z nami bezpośrednio, przetwarzamy informacje zawarte w Twojej wiadomości, aby móc na nią odpowiedzieć."
+    },
+    {
+      "id": "legal.0015",
+      "text": "3. Podstawa prawna"
+    },
+    {
+      "id": "legal.0016",
+      "text": "{slot_1}Podstawą korzystania z Google Analytics na tej stronie jest Twoja {slot_2}zgoda{slot_3}. Analityka pozostaje wyłączona, dopóki na nią nie zezwolisz. W przypadku opcjonalnego newslettera lub podobnych wiadomości związanych z zapisem również opieramy się na zgodzie wyrażonej przez Ciebie w odpowiednim formularzu."
+    },
+    {
+      "id": "legal.0017",
+      "text": "{slot_1}Zgodę na analitykę możesz wycofać w dowolnym momencie. Służy do tego stale dostępny na stronie przycisk {slot_2}Ustawienia prywatności{slot_3}."
+    },
+    {
+      "id": "legal.0018",
+      "text": "Otwórz ustawienia prywatności"
+    },
+    {
+      "id": "legal.0019",
+      "text": "4. Google Analytics 4"
+    },
+    {
+      "id": "legal.0020",
+      "text": "{slot_1}Na stronie produkcyjnej Rise.Shine.Evolve. korzystamy z Google Analytics 4 o identyfikatorze pomiaru {slot_2}G-WW6C0S6031{slot_3}. Wdrożenie wykorzystuje Basic Consent Mode v2 z podejściem stawiającym prywatność na pierwszym miejscu:"
+    },
+    {
+      "id": "legal.0021",
+      "text": "{slot_1}analytics_storage {slot_2}ma wartość denied, dopóki nie zezwolisz na analitykę;"
+    },
+    {
+      "id": "legal.0022",
+      "text": "{slot_1}ad_storage{slot_2}, {slot_3}ad_user_data {slot_4}i {slot_5}ad_personalization {slot_6}pozostają ustawione na denied;"
+    },
+    {
+      "id": "legal.0023",
+      "text": "Google Signals i sygnały personalizacji reklam pozostają wyłączone;"
+    },
+    {
+      "id": "legal.0024",
+      "text": "tag Google nie jest ładowany w środowiskach podglądu ani lokalnych;"
+    },
+    {
+      "id": "legal.0025",
+      "text": "respektujemy sygnał Global Privacy Control, pozostawiając analitykę wyłączoną."
+    },
+    {
+      "id": "legal.0026",
+      "text": "{slot_1}Okres przechowywania danych o zdarzeniach ustawiony w tej usłudze GA4 wynosi {slot_2}14 miesięcy{slot_3}."
+    },
+    {
+      "id": "legal.0027",
+      "text": "5. Zapisywanie wyboru dotyczącego zgody i pliki cookie"
+    },
+    {
+      "id": "legal.0028",
+      "text": "Strona zapisuje Twój wybór dotyczący analityki lokalnie w przeglądarce, aby zapamiętać, czy na nią zezwalasz, czy ją odrzucasz. Ten wybór jest niezależny od samego Google Analytics."
+    },
+    {
+      "id": "legal.0029",
+      "text": "Jeśli odrzucisz analitykę, tag Google Analytics nie zostanie załadowany. Jeśli później wycofasz wcześniej udzieloną zgodę, strona zmieni jej stan na denied dla przyszłych pomiarów i w miarę możliwości podejmie próbę usunięcia własnych plików cookie Google Analytics ustawionych w tej domenie."
+    },
+    {
+      "id": "legal.0030",
+      "text": "6. Dostawcy usług i przetwarzanie danych w innych krajach"
+    },
+    {
+      "id": "legal.0031",
+      "text": "Usługę analityczną dostarcza Google. Gdy analityka jest włączona, Google może przetwarzać dane analityczne w krajach poza właściwą dla Ciebie jurysdykcją. Takie przetwarzanie podlega odpowiednim zabezpieczeniom dostawcy dotyczącym ochrony i przekazywania danych."
+    },
+    {
+      "id": "legal.0032",
+      "text": "Inni dostawcy usług wykorzystywanych w opcjonalnych funkcjach, takich jak wysyłka newslettera, mogą przetwarzać informacje niezbędne do świadczenia tych usług. Nie sprzedajemy danych osobowych reklamodawcom."
+    },
+    {
+      "id": "legal.0033",
+      "text": "7. Jak długo przechowujemy dane"
+    },
+    {
+      "id": "legal.0034",
+      "text": "{slot_1}Dane o zdarzeniach GA4: {slot_2}usługa jest skonfigurowana tak, aby przechowywać dane o zdarzeniach przez 14 miesięcy."
+    },
+    {
+      "id": "legal.0035",
+      "text": "{slot_1}Wybór dotyczący zgody na analitykę: {slot_2}jest przechowywany w Twojej przeglądarce do czasu jego zmiany lub wyczyszczenia pamięci przeglądarki."
+    },
+    {
+      "id": "legal.0036",
+      "text": "{slot_1}Dane związane z newsletterem: {slot_2}przechowujemy je tak długo, jak są potrzebne do obsługi subskrypcji, chyba że się wypiszesz lub prawo wymaga dłuższego okresu przechowywania."
+    },
+    {
+      "id": "legal.0037",
+      "text": "{slot_1}Wiadomości bezpośrednie: {slot_2}przechowujemy je wyłącznie tak długo, jak jest to w uzasadniony sposób niezbędne do udzielenia odpowiedzi i prowadzenia odpowiedniej dokumentacji."
+    },
+    {
+      "id": "legal.0038",
+      "text": "8. Twoje prawa dotyczące prywatności"
+    },
+    {
+      "id": "legal.0039",
+      "text": "W zależności od obowiązujących przepisów mogą przysługiwać Ci prawa dostępu do danych osobowych, ich sprostowania i usunięcia, ograniczenia ich przetwarzania lub wniesienia sprzeciwu wobec przetwarzania, a w niektórych okolicznościach także otrzymania kopii danych umożliwiającej ich przeniesienie. Jeśli przetwarzanie opiera się na zgodzie, możesz ją wycofać."
+    },
+    {
+      "id": "legal.0040",
+      "text": "Może przysługiwać Ci również prawo do złożenia skargi do właściwego dla Ciebie organu ochrony danych. W Polsce organem nadzorczym jest Prezes Urzędu Ochrony Danych Osobowych (UODO)."
+    },
+    {
+      "id": "legal.0041",
+      "text": "9. Dzieci i treści dla rodzin"
+    },
+    {
+      "id": "legal.0042",
+      "text": "Rise.Shine.Evolve. publikuje treści edukacyjne dla rodzin, ale ta strona nie wymaga od dziecka włączenia analityki. Analityka pozostaje wyłączona do czasu wyrażenia zgody. Z funkcji wymagających podania danych osobowych dzieci powinny korzystać wyłącznie przy odpowiednim udziale rodzica lub opiekuna."
+    },
+    {
+      "id": "legal.0043",
+      "text": "10. Zmiany w tej polityce"
+    },
+    {
+      "id": "legal.0044",
+      "text": "Możemy aktualizować tę politykę, gdy zmienia się strona, konfiguracja analityki lub dostawcy usług. Aktualna wersja i data aktualizacji będą publikowane na tej stronie."
+    },
+    {
+      "id": "legal.0045",
+      "text": "Rise.Shine.Evolve."
+    },
+    {
+      "id": "legal.0046",
+      "text": "Ostatnia aktualizacja: 18 września 2026"
+    },
+    {
+      "id": "legal.0047",
+      "text": "Google Analytics jest"
+    },
+    {
+      "id": "legal.0048",
+      "text": "domyślnie wyłączony"
+    },
+    {
+      "id": "legal.0049",
+      "text": "na tej stronie. Tag Google Analytics jest ładowany dopiero wtedy, gdy aktywnie wybierzesz"
+    },
+    {
+      "id": "legal.0050",
+      "text": "Zezwól na analitykę"
+    },
+    {
+      "id": "legal.0051",
+      "text": ". Ta konfiguracja nie włącza przechowywania danych reklamowych, Google Signals, remarketingu ani personalizacji reklam."
+    },
+    {
+      "id": "legal.0052",
+      "text": "Stronę prowadzi Rise.Shine.Evolve. Pytania i wnioski dotyczące prywatności kieruj na adres"
+    },
+    {
+      "id": "legal.0053",
+      "text": "Rise.Shine.Evolve. · Polityka prywatności ·"
+    },
+    {
+      "id": "legal.0054",
+      "text": "Polityka prywatności | Rise.Shine.Evolve."
+    },
+    {
+      "id": "legal.0055",
+      "text": "Polityka prywatności strony Rise.Shine.Evolve., newslettera i pomiarów Google Analytics prowadzonych na podstawie zgody."
+    },
+    {
+      "id": "consent.001",
+      "text": "Ustawienia prywatności"
+    },
+    {
+      "id": "consent.002",
+      "text": "Otwórz ustawienia prywatności dotyczące analityki"
+    },
+    {
+      "id": "consent.003",
+      "text": "Prywatność i analityka"
+    },
+    {
+      "id": "consent.004",
+      "text": "W tej przeglądarce jest aktywny sygnał Global Privacy Control, dlatego analityka pozostaje wyłączona. Przechowywanie danych reklamowych i personalizacja reklam również pozostają wyłączone."
+    },
+    {
+      "id": "consent.005",
+      "text": "Korzystamy z Google Analytics wyłącznie wtedy, gdy zezwolisz na analitykę. Pomaga nam to zrozumieć, które strony i materiały Rise.Shine.Evolve. są przydatne. Przechowywanie danych reklamowych i personalizacja reklam pozostają wyłączone."
+    },
+    {
+      "id": "consent.006",
+      "text": "Polityka prywatności"
+    },
+    {
+      "id": "consent.007",
+      "text": "Zamknij"
+    },
+    {
+      "id": "consent.008",
+      "text": "Odrzuć analitykę"
+    },
+    {
+      "id": "consent.009",
+      "text": "Zezwól na analitykę"
+    }
+  ]
+}

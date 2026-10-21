@@ -1,0 +1,10 @@
+{
+  "pinned_commit": "e6efa82b5194bfb492632aafd58655bb1ff1465d",
+  "git_blob_matches": 56,
+  "only_hydration_terminal_newline_removed": [
+    "assets/js/rse-analytics-consent.js",
+    "assets/js/rse-catalog-nav.js",
+    "assets/word-search-studio/inline.js"
+  ],
+  "decoded_studio_and_text_candidates_changed": false
+}

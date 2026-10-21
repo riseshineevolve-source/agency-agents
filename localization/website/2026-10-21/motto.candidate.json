@@ -1,0 +1,588 @@
+{
+  "format": "rse-language-candidate-v1",
+  "language": "pl",
+  "run_sha256": "65cf8850aa343cfc07ce97de558b48ebc340f837262e5dc6520088e76f3a7b15",
+  "segments": [
+    {
+      "id": "motto.0001",
+      "text": "Nie musisz być bez skazy, żeby mieć swoją wartość."
+    },
+    {
+      "id": "motto.0002",
+      "text": "Godności nie dostaje się za dobre zachowanie. Masz ją od urodzenia."
+    },
+    {
+      "id": "motto.0003",
+      "text": "W naszym domu jest miejsce na każde uczucie."
+    },
+    {
+      "id": "motto.0004",
+      "text": "Także wtedy, gdy jest głośno, smutno albo wszystko się miesza."
+    },
+    {
+      "id": "motto.0005",
+      "text": "Słuchamy, żeby zrozumieć. Nie wszystko trzeba od razu naprawiać."
+    },
+    {
+      "id": "motto.0006",
+      "text": "Czasem serce potrzebuje po prostu kogoś, kto wysłucha."
+    },
+    {
+      "id": "motto.0007",
+      "text": "Żaden błąd nie jest większy od naszej miłości."
+    },
+    {
+      "id": "motto.0008",
+      "text": "Gdy coś nie wyjdzie, wciąż masz nas. Jak siatkę, która łapie po upadku."
+    },
+    {
+      "id": "motto.0009",
+      "text": "Uczymy się, oduczamy i rośniemy dalej."
+    },
+    {
+      "id": "motto.0010",
+      "text": "Po drodze może być trochę bałaganu. Zmiana rzadko idzie równym krokiem."
+    },
+    {
+      "id": "motto.0011",
+      "text": "Na odpoczynek nie trzeba zasłużyć."
+    },
+    {
+      "id": "motto.0012",
+      "text": "Nie musimy być bez przerwy zajęci. Pauza też jest potrzebna."
+    },
+    {
+      "id": "motto.0013",
+      "text": "Do siebie też mówimy życzliwie."
+    },
+    {
+      "id": "motto.0014",
+      "text": "Głos w głowie towarzyszy nam długo. Warto ćwiczyć w nim trochę czułości."
+    },
+    {
+      "id": "motto.0015",
+      "text": "Możemy się nie zgadzać i nadal grać w jednej drużynie."
+    },
+    {
+      "id": "motto.0016",
+      "text": "Spór nie musi zrywać tego, co nas łączy."
+    },
+    {
+      "id": "motto.0017",
+      "text": "Łagodność też wymaga odwagi."
+    },
+    {
+      "id": "motto.0018",
+      "text": "Pokazać, że coś nas porusza, to czasem naprawdę odważny krok."
+    },
+    {
+      "id": "motto.0019",
+      "text": "Wolimy być blisko niż wygrać każdą kłótnię."
+    },
+    {
+      "id": "motto.0020",
+      "text": "Chwila, w której się słyszymy, może być cenniejsza od ostatniego słowa."
+    },
+    {
+      "id": "motto.0021",
+      "text": "Zwolnijmy. Odetchnijmy głęboko. Kochajmy mocno."
+    },
+    {
+      "id": "motto.0022",
+      "text": "Świat potrafi pędzić. My możemy na chwilę wybrać inne tempo."
+    },
+    {
+      "id": "motto.0023",
+      "text": "Świętujemy kroki naprzód, nawet te niedoskonałe."
+    },
+    {
+      "id": "motto.0024",
+      "text": "Mały krok też jest powodem do radości."
+    },
+    {
+      "id": "motto.0025",
+      "text": "Szanujemy twoje granice."
+    },
+    {
+      "id": "motto.0026",
+      "text": "W domu zaczynamy uczyć się zgody, odmowy i szacunku do siebie."
+    },
+    {
+      "id": "motto.0027",
+      "text": "Sami ustalamy, co dla nas znaczy sukces."
+    },
+    {
+      "id": "motto.0028",
+      "text": "Nie musimy dopasowywać życia do cudzej listy osiągnięć."
+    },
+    {
+      "id": "motto.0029",
+      "text": "Życzliwość to nasz pierwszy rodzinny język."
+    },
+    {
+      "id": "motto.0030",
+      "text": "Zanim pokażemy, jacy jesteśmy błyskotliwi, spróbujmy być dobrzy dla siebie."
+    },
+    {
+      "id": "motto.0031",
+      "text": "Jesteśmy dla siebie. Zostawiamy sobie przestrzeń."
+    },
+    {
+      "id": "motto.0032",
+      "text": "Czasem najcenniejszym podarunkiem jest czyjaś obecność."
+    },
+    {
+      "id": "motto.0033",
+      "text": "Doceniamy drobiazgi, z których składa się dzień."
+    },
+    {
+      "id": "motto.0034",
+      "text": "Zwyczajny wtorek też może dać nam powód do radości."
+    },
+    {
+      "id": "motto.0035",
+      "text": "Zajmujemy się problemem, nie atakujemy człowieka."
+    },
+    {
+      "id": "motto.0036",
+      "text": "Można zmienić zachowanie, nie przekreślając osoby."
+    },
+    {
+      "id": "motto.0037",
+      "text": "Najpierw ciekawość, potem ocena."
+    },
+    {
+      "id": "motto.0038",
+      "text": "Zanim pomyślimy najgorzej, zapytajmy, co się stało."
+    },
+    {
+      "id": "motto.0039",
+      "text": "W zgiełku szukamy spokoju razem."
+    },
+    {
+      "id": "motto.0040",
+      "text": "Dom może być schronieniem, gdy na zewnątrz jest za głośno."
+    },
+    {
+      "id": "motto.0041",
+      "text": "Na łzy też jest u nas miejsce."
+    },
+    {
+      "id": "motto.0042",
+      "text": "Smutku nie trzeba chować. Płacz może być sposobem, by go wyrazić."
+    },
+    {
+      "id": "motto.0043",
+      "text": "Możemy zacząć jeszcze raz."
+    },
+    {
+      "id": "motto.0044",
+      "text": "Poranek przynosi nową kartkę. Nie musi na niej być ciągu dalszego wczorajszej pomyłki."
+    },
+    {
+      "id": "motto.0045",
+      "text": "Słuchamy także własnego głosu."
+    },
+    {
+      "id": "motto.0046",
+      "text": "Uczymy się rozpoznawać intuicję i coraz lepiej ufać sobie."
+    },
+    {
+      "id": "motto.0047",
+      "text": "Mówmy swoją prawdę stanowczo. Kochajmy łagodnie. Rozwijajmy się swobodnie."
+    },
+    {
+      "id": "motto.0048",
+      "text": "Można mieć siłę, czułość i odwagę bycia sobą jednocześnie."
+    },
+    {
+      "id": "motto.0049",
+      "text": "Nasza historia należy do nas."
+    },
+    {
+      "id": "motto.0050",
+      "text": "Mamy wpływ na to, jak ją opowiadamy i co dopiszemy dalej."
+    },
+    {
+      "id": "motto.0051",
+      "text": "Tu można upaść i znów szykować się do lotu."
+    },
+    {
+      "id": "motto.0052",
+      "text": "Miłość zostaje także po porażce. Z takim oparciem łatwiej próbować ponownie."
+    },
+    {
+      "id": "motto.0053",
+      "text": "Głębokie korzenie, szeroko rozłożone skrzydła."
+    },
+    {
+      "id": "motto.0054",
+      "text": "Poczucie przynależności daje oparcie, z którego można ruszać po swojemu."
+    },
+    {
+      "id": "motto.0055",
+      "text": "Po pomyłce można się podnieść."
+    },
+    {
+      "id": "motto.0056",
+      "text": "Błąd nie musi być końcem opowieści. Może pokazać, czego spróbować następnym razem."
+    },
+    {
+      "id": "motto.0057",
+      "text": "Jesteśmy dla siebie portem i wiatrem w żagle."
+    },
+    {
+      "id": "motto.0058",
+      "text": "W domu można odpocząć, a potem nabrać ochoty na dalsze odkrycia."
+    },
+    {
+      "id": "motto.0059",
+      "text": "Budujemy na miłości. Dalej niesie nas wytrwałość."
+    },
+    {
+      "id": "motto.0060",
+      "text": "Ciepło daje oparcie, a wytrwałość pomaga zrobić kolejny krok."
+    },
+    {
+      "id": "motto.0061",
+      "text": "Przetrwajmy burzę. A jeśli się da, zatańczmy w deszczu."
+    },
+    {
+      "id": "motto.0062",
+      "text": "Także w trudnym czasie może znaleźć się miejsce na radość i nowe możliwości."
+    },
+    {
+      "id": "motto.0063",
+      "text": "Podnosimy się razem, małymi odważnymi krokami."
+    },
+    {
+      "id": "motto.0064",
+      "text": "Wspólna droga składa się z drobnych działań. Każde może nas przybliżyć do celu."
+    },
+    {
+      "id": "motto.0065",
+      "text": "Wielkie marzenia mogą startować z domu."
+    },
+    {
+      "id": "motto.0066",
+      "text": "Rodzinne wsparcie bywa pierwszym krokiem do ambitnych planów."
+    },
+    {
+      "id": "motto.0067",
+      "text": "Pomagamy sobie rosnąć."
+    },
+    {
+      "id": "motto.0068",
+      "text": "Własne osiągnięcia często mają w tle kogoś, kto podał rękę."
+    },
+    {
+      "id": "motto.0069",
+      "text": "Odwaga jest naszym kompasem."
+    },
+    {
+      "id": "motto.0070",
+      "text": "Może pomóc wybrać kierunek. Drogę nadal sprawdzamy krok po kroku."
+    },
+    {
+      "id": "motto.0071",
+      "text": "Każde dziecko ma swój blask. Pomagamy go dostrzec."
+    },
+    {
+      "id": "motto.0072",
+      "text": "Zauważamy naturalne możliwości każdego dziecka i dajemy im miejsce."
+    },
+    {
+      "id": "motto.0073",
+      "text": "Każda iskra jest inna. Razem tworzymy ogień."
+    },
+    {
+      "id": "motto.0074",
+      "text": "Nie musimy być tacy sami, żeby tworzyć jedną rodzinę."
+    },
+    {
+      "id": "motto.0075",
+      "text": "Wybieramy prawdziwość, nie nieskazitelność."
+    },
+    {
+      "id": "motto.0076",
+      "text": "Charakter i szczerość są dla nas ważniejsze niż idealny obrazek."
+    },
+    {
+      "id": "motto.0077",
+      "text": "Świecąc po swojemu, pomagamy błyszczeć innym."
+    },
+    {
+      "id": "motto.0078",
+      "text": "Prowadzić innych to także dawać im przestrzeń do własnego działania."
+    },
+    {
+      "id": "motto.0079",
+      "text": "Jesteśmy sobą jako rodzina. Każde z nas jest też osobnym człowiekiem."
+    },
+    {
+      "id": "motto.0080",
+      "text": "Nasze „my” ma miejsce na każde „ja”. Bez potrzeby tłumaczenia się z tego."
+    },
+    {
+      "id": "motto.0081",
+      "text": "W zwykłych chwilach szukamy odrobiny magii."
+    },
+    {
+      "id": "motto.0082",
+      "text": "Codzienny rytm też daje powody do zachwytu i wdzięczności."
+    },
+    {
+      "id": "motto.0083",
+      "text": "Każdy talent może znaleźć swój głos."
+    },
+    {
+      "id": "motto.0084",
+      "text": "Próbuj, twórz i mów odważnie to, co jest twoją prawdą."
+    },
+    {
+      "id": "motto.0085",
+      "text": "Nasz blask zaczyna się w środku."
+    },
+    {
+      "id": "motto.0086",
+      "text": "Pewność siebie może wyrastać z charakteru i zaufania do siebie, nie tylko z cudzych pochwał."
+    },
+    {
+      "id": "motto.0087",
+      "text": "Razem możemy się wyróżniać."
+    },
+    {
+      "id": "motto.0088",
+      "text": "Nie musimy wtapiać się w tło. Wierność swoim wartościom i odmienność też mają siłę."
+    },
+    {
+      "id": "motto.0089",
+      "text": "Dbamy o to, co rozpala nas od środka."
+    },
+    {
+      "id": "motto.0090",
+      "text": "Dajemy czas pasjom i talentom, przy których czujemy, że żyjemy."
+    },
+    {
+      "id": "motto.0091",
+      "text": "Każde z nas rośnie po swojemu. Wciąż jesteśmy blisko."
+    },
+    {
+      "id": "motto.0092",
+      "text": "Rozwój jednej osoby może wzmacniać to, co łączy całą rodzinę."
+    },
+    {
+      "id": "motto.0093",
+      "text": "Zmiana zaczyna się od serca i dociera do kolejnego."
+    },
+    {
+      "id": "motto.0094",
+      "text": "Empatia i więź mogą otwierać drogę do zmiany między ludźmi."
+    },
+    {
+      "id": "motto.0095",
+      "text": "Każde z nas jest dziełem, które wciąż powstaje."
+    },
+    {
+      "id": "motto.0096",
+      "text": "Nie ma ostatniego pociągnięcia pędzlem. Możemy rozwijać się dalej."
+    },
+    {
+      "id": "motto.0097",
+      "text": "Dajemy miejsce na ten etap, gdy wszystko jest jeszcze w rozsypce."
+    },
+    {
+      "id": "motto.0098",
+      "text": "Rozwój nie biegnie po prostej. Wysiłek liczy się także wtedy, gdy trudno zobaczyć, dokąd prowadzi."
+    },
+    {
+      "id": "motto.0099",
+      "text": "Małe kroki potrafią przynieść dużą zmianę."
+    },
+    {
+      "id": "motto.0100",
+      "text": "Wracamy do prób i zauważamy postęp, który przychodzi po trochu."
+    },
+    {
+      "id": "motto.0101",
+      "text": "Dajemy sobie oparcie, żeby rosnąć."
+    },
+    {
+      "id": "motto.0102",
+      "text": "Staramy się budować dom, w którym każdy może rozkwitać na swój sposób."
+    },
+    {
+      "id": "motto.0103",
+      "text": "Uczymy się lubić drogę, nie tylko metę."
+    },
+    {
+      "id": "motto.0104",
+      "text": "To, czego doświadczamy i czego się uczymy, jest równie ważne jak końcowy cel."
+    },
+    {
+      "id": "motto.0105",
+      "text": "Z wczorajszych lekcji budujemy jutrzejszą zmianę."
+    },
+    {
+      "id": "motto.0106",
+      "text": "Dawne doświadczenia mogą dawać nam paliwo do dalszego rozwoju."
+    },
+    {
+      "id": "motto.0107",
+      "text": "Wciąż się uczymy. Wciąż się zmieniamy."
+    },
+    {
+      "id": "motto.0108",
+      "text": "Rozwój nie kończy się w określonym wieku. Ta podróż pozostaje otwarta."
+    },
+    {
+      "id": "motto.0109",
+      "text": "Rise.Shine.Evolve. I od nowa."
+    },
+    {
+      "id": "motto.0110",
+      "text": "Zauważaj, wybieraj, działaj. Do takiego uważnego życia możemy wracać każdego dnia."
+    },
+    {
+      "id": "motto.0111",
+      "text": "Miłość"
+    },
+    {
+      "id": "motto.0112",
+      "text": "Empatia"
+    },
+    {
+      "id": "motto.0113",
+      "text": "Życzliwość"
+    },
+    {
+      "id": "motto.0114",
+      "text": "Odwaga"
+    },
+    {
+      "id": "motto.0115",
+      "text": "Zaufanie"
+    },
+    {
+      "id": "motto.0116",
+      "text": "Prawda"
+    },
+    {
+      "id": "motto.0117",
+      "text": "Wyrozumiałość"
+    },
+    {
+      "id": "motto.0118",
+      "text": "Wolność"
+    },
+    {
+      "id": "motto.0119",
+      "text": "Spokój"
+    },
+    {
+      "id": "motto.0120",
+      "text": "Radość"
+    },
+    {
+      "id": "motto.0121",
+      "text": "Szacunek"
+    },
+    {
+      "id": "motto.0122",
+      "text": "Rozwój"
+    },
+    {
+      "id": "motto.0123",
+      "text": "Nadzieja"
+    },
+    {
+      "id": "motto.0124",
+      "text": "Siła"
+    },
+    {
+      "id": "motto.0125",
+      "text": "Równowaga"
+    },
+    {
+      "id": "motto.0126",
+      "text": "Cierpliwość"
+    },
+    {
+      "id": "motto.0127",
+      "text": "Wdzięczność"
+    },
+    {
+      "id": "motto.0128",
+      "text": "Uczciwość"
+    },
+    {
+      "id": "motto.0129",
+      "text": "Współczucie"
+    },
+    {
+      "id": "motto.0130",
+      "text": "Przebaczenie"
+    },
+    {
+      "id": "motto.0131",
+      "text": "Otwartość na własną wrażliwość"
+    },
+    {
+      "id": "motto.0132",
+      "text": "Nasza kotwica: {v1}.\nNasze skrzydła: {v2}."
+    },
+    {
+      "id": "motto.0133",
+      "text": "Początek naszej rodziny to spotkanie dwóch ważnych spraw:\n{v1} oraz {v2}."
+    },
+    {
+      "id": "motto.0134",
+      "text": "To ćwiczymy łagodnie: {v1}.\nA to odważnie: {v2}."
+    },
+    {
+      "id": "motto.0135",
+      "text": "Gdy świat hałasuje,\nprzypominamy sobie, co dla nas ważne: {v1} oraz {v2}."
+    },
+    {
+      "id": "motto.0136",
+      "text": "To mówi, kim jesteśmy: {v1}.\nTo buduje naszą więź: {v2}."
+    },
+    {
+      "id": "motto.0137",
+      "text": "Nasz kompas: {v1}.\nKierunek, który wskazuje: {v2}."
+    },
+    {
+      "id": "motto.0138",
+      "text": "Nasze korzenie: {v1}.\nTo, ku czemu sięgamy: {v2}."
+    },
+    {
+      "id": "motto.0139",
+      "text": "To chronimy: {v1}.\nDzięki temu możemy dawać innym coś równie ważnego: {v2}."
+    },
+    {
+      "id": "motto.0140",
+      "text": "To niesiemy z przeszłości: {v1}.\nTak widzimy przyszłość: {v2}."
+    },
+    {
+      "id": "motto.0141",
+      "text": "Najpierw nasz wybór: {v1}.\nPotem nasze odkrycie: {v2}."
+    },
+    {
+      "id": "motto.0142",
+      "text": "Tu szukamy otuchy: {v1}.\nTu wskazówki na dalszą drogę: {v2}."
+    },
+    {
+      "id": "motto.0143",
+      "text": "To nas łączy: {v1}.\nTo daje nam wolność: {v2}."
+    },
+    {
+      "id": "motto.0144",
+      "text": "Nasz fundament: {v1}.\nNasz horyzont: {v2}."
+    },
+    {
+      "id": "motto.0145",
+      "text": "To zostaje z nami: {v1}.\nW tę stronę chcemy się rozwijać: {v2}."
+    }
+  ],
+  "writer_packet_sha256": "58bb1bdc1426871fe48582de89c8cf43ce7fb0f5df0e27893c84c2d47bfff936"
+}

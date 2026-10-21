@@ -1,0 +1,3509 @@
+{
+  "language": "pl",
+  "segments": [
+    {
+      "id": "dynamic.0001",
+      "text": "option",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0002",
+      "text": "hidden",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0003",
+      "text": "Wybierz…",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0004",
+      "text": "click",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0005",
+      "text": "fridge-mode",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0006",
+      "text": "Trzy oznaki spokoju",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0007",
+      "text": "Przez minutę poszukaj w myślach trzech oznak, że twoje ciało jest teraz bezpieczne. Zauważ każdą z osobna i pozwól sobie ją uznać.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0008",
+      "text": "Trzy dowody. Zamartwianie się może już zamknąć księgę.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0009",
+      "text": "Ścisz myśli",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0010",
+      "text": "Przez minutę wyobrażaj sobie, że przy każdym wydechu ściszasz myśli o jeden stopień.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0011",
+      "text": "O, ciszej. Wreszcie słyszę własne myśli, a nie całe zebranie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0012",
+      "text": "Spójrz szerzej",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0013",
+      "text": "Przez minutę rozluźnij spojrzenie. Zamiast wpatrywać się w jeden punkt, zauważaj także to, co jest po bokach.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0014",
+      "text": "Krok w tył i widać więcej szczegółów. Ciekawe.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0015",
+      "text": "Można odpuścić",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0016",
+      "text": "Przez minutę przy każdym oddechu wybieraj jedną część ciała i w myślach pozwalaj jej się rozluźnić.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0017",
+      "text": "Pozwolenie wydane. Bez pieczątki, za to z rozmachem.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0018",
+      "text": "Oddech bez atrakcji",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0019",
+      "text": "Przez minutę oddychaj możliwie równo. Zauważaj powtarzający się rytm i sprawdź, jak ci z nim jest.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0020",
+      "text": "Zwyczajny oddech. Dziś awansuje na gwiazdę programu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0021",
+      "text": "Jedno małe dziękuję",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0022",
+      "text": "Przez minutę pomyśl o jednej rzeczy, za którą czujesz wdzięczność. Zamiast robić listę, zauważ, czy towarzyszy jej ciepło w ciele.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0023",
+      "text": "Jedno dziękuję wystarczy. Nie trzeba robić prezentacji!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0024",
+      "text": "Pogoda w środku",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0025",
+      "text": "Przez minutę nazwij po cichu swoją emocję jak pogodę: deszcz, wiatr, słońce. Oddychaj i daj jej zmieniać się we własnym tempie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0026",
+      "text": "Nie muszę gonić burzy. Mogę po prostu ją zauważyć.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0027",
+      "text": "Jedno prawdziwe zdanie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0028",
+      "text": "Przez minutę wracaj do jednego prawdziwego zdania, na przykład: „Jestem tutaj”, „Teraz jest bezpiecznie” albo „To się zmienia”. Wybierz tylko takie, które pasuje do twojej sytuacji, i oddychaj.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0029",
+      "text": "Prawda ma tę zaletę, że dramat nie ma z nią o czym dyskutować.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0030",
+      "text": "Barki w dół",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0031",
+      "text": "Przez minutę powoli krąż barkami. Gdy je opuszczasz, zrób wydech i wyobraź sobie, że opadają jak ciężka zasłona.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0032",
+      "text": "Sprawdzam, czy moja szyja chce już wysłać podziękowanie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0033",
+      "text": "Ściana do pomocy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0034",
+      "text": "Przez minutę delikatnie naciskaj dłońmi na ścianę przy wydechu. Na wdechu zwalniaj nacisk.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0035",
+      "text": "Ściana: asystent, który zawsze stoi na stanowisku.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0036",
+      "text": "Stopy jak korzenie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0037",
+      "text": "Stań na minutę z lekko ugiętymi kolanami. Wyobraź sobie korzenie wyrastające ze stóp i rób długie wydechy.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0038",
+      "text": "Dąb ma świetną postawę. I ani razu nie był na kursie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0039",
+      "text": "Zaciśnij i puść",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0040",
+      "text": "Przez minutę powtarzaj: łagodnie zaciśnij dłonie na 2 sekundy, potem je otwórz i pozostaw otwarte przez 4 sekundy.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0041",
+      "text": "Odpuszczanie w wersji luksusowej. Cały sprzęt masz pod ręką.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0042",
+      "text": "Tak, nie, spokojnie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0043",
+      "text": "Przez minutę delikatnie potakuj głową, a potem łagodnie kręć nią na „nie”. Oddychaj równo.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0044",
+      "text": "Moje ciało właśnie powiedziało spokojowi „tak”.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0045",
+      "text": "Przytulenie dla siebie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0046",
+      "text": "Przez minutę obejmuj się ramionami. Utrzymuj delikatny nacisk i wydłużaj wydechy.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0047",
+      "text": "Mam własną przytulną kryjówkę. Wchodzę bez hasła!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0048",
+      "text": "Szczęka ma wolne",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0049",
+      "text": "Przez minutę rozluźniaj żuchwę i pozwalaj językowi spokojnie spoczywać.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0050",
+      "text": "Szczęka też zasługuje na wolne. Tyle spraw dziś przeżuła.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0051",
+      "text": "Wydech trochę dłużej",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0052",
+      "text": "Przez minutę rób zwykły wdech, a po nim wydech nieco dłuższy od wdechu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0053",
+      "text": "Wydech dostał zadanie. Obyło się bez negocjacji.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0054",
+      "text": "Ciche „haa”",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0055",
+      "text": "Przez minutę wydychaj powietrze jak przy bezgłośnym „haa”. Bez liczenia.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0056",
+      "text": "Pełna elegancja. Nawet westchnienie nie robi zamieszania.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0057",
+      "text": "Mrucz na wydechu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0058",
+      "text": "Przez minutę delikatnie mrucz przy każdym wydechu. Zauważaj wibracje w klatce piersiowej.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0059",
+      "text": "Wygląda przytulnie. Brzmi przytulnie. Zostaję przy mruczeniu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0060",
+      "text": "Zupa do ostudzenia",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0061",
+      "text": "Przez minutę wydychaj powietrze tak, jakby trzeba było ostudzić zupę. Obserwuj barki i rób tak do chwili, gdy przestaną się unosić.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0062",
+      "text": "Zupa nie musi nawet istnieć. A i tak ma dziś ważne zadanie!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0063",
+      "text": "Cztery razy trzy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0064",
+      "text": "Przez minutę powtarzaj rytm: wdech przez 3 sekundy, zatrzymanie na 3, wydech przez 3 i zatrzymanie na 3.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0065",
+      "text": "Cztery kroki w stałej kolejności. Ta zagadka lubi porządek.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0066",
+      "text": "Westchnij bez teatru",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0067",
+      "text": "Przez minutę delikatnie wzdychaj i pozwalaj sobie puszczać napięcie. Bez wielkich aktorskich westchnień.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0068",
+      "text": "Westchnienie skrojone na miarę. Bez dramatycznej peleryny.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0069",
+      "text": "Dłoń na klatce",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0070",
+      "text": "Połóż dłoń na klatce piersiowej na minutę. Oddychaj powoli i zauważaj dotyk dłoni jako sygnał, by się zatrzymać.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0071",
+      "text": "Spokojna dłoń ma czasem więcej do powiedzenia niż przemowa.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0072",
+      "text": "Wydech jak wąż",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0073",
+      "text": "Przez minutę rób ciche „ssss” przy wydechu. Pozwól rytmowi zwolnić, bez liczenia.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0074",
+      "text": "Tryb ninja. Słychać tylko „ssss”.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0075",
+      "text": "Razem, bez słów",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0076",
+      "text": "Przez minutę siedź albo stój blisko rodziny. Oddychaj powoli. Nie trzeba rozmawiać.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0077",
+      "text": "Rodzinne spotkanie bez porządku obrad. Wreszcie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0078",
+      "text": "Życzliwość w spojrzeniu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0079",
+      "text": "Przez minutę kieruj łagodne, życzliwe spojrzenie ku jednej osobie, a potem wracaj do zwykłego spojrzenia.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0080",
+      "text": "Mały błysk zamiast wielkiej przemowy!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0081",
+      "text": "Otwarta postawa",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0082",
+      "text": "Przez minutę rozluźnij dłonie, rozkrzyżuj ręce i przyjmij otwartą postawę.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0083",
+      "text": "Ciało też umie powiedzieć „miło cię widzieć”. I to bez megafonu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0084",
+      "text": "Gramy razem",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0085",
+      "text": "Przez minutę oddychaj powoli i pomyśl o rodzinie jak o jednej drużynie. Wyobraź sobie, że wszystkim gra w środku ta sama muzyka.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0086",
+      "text": "Tryb współpracy włączony. Gramy do jednej bramki.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0087",
+      "text": "Trochę więcej miejsca",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0088",
+      "text": "Przez minutę daj sobie i innym nieco więcej miejsca niż zwykle. Oddychaj i zauważ, jak wam z tym dystansem.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0089",
+      "text": "Uprzejmość w najlepszej rozdzielczości: każdy mieści łokcie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0090",
+      "text": "Nasz znak na nowy początek",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0091",
+      "text": "Przez minutę ćwiczcie rodzinny znak nowego początku: łagodny wyraz twarzy i opuszczone barki. Niech każdy umie go rozpoznać.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0092",
+      "text": "Nasz rodzinny protokół. Bardzo elegancki i całkiem bezgłośny.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0093",
+      "text": "Krąg z oddechem",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0094",
+      "text": "Przez minutę stańcie razem w luźnym kręgu. Zostawcie sobie miejsce i oddychajcie powoli, po prostu będąc blisko.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0095",
+      "text": "Rodzina w kółeczku. Od razu robi się jakoś bardziej razem!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0096",
+      "text": "O 10% odważniej",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0097",
+      "text": "Przez minutę wyprostuj się odrobinę bardziej i oddychaj równo. Wypróbuj postawę, w której jest miejsce na odwagę i życzliwość.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0098",
+      "text": "Odwaga nie musi podnosić głosu. Czasem tylko prostuje plecy.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0099",
+      "text": "Próba przed startem",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0100",
+      "text": "Przez minutę wyobrażaj sobie początek następnej małej czynności. Zobacz, jak płynnie wykonujesz jej pierwszy krok.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0101",
+      "text": "Krótka próba przed rozpoczęciem. Bez rezerwowania sali.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0102",
+      "text": "Trzy pozy zwycięstwa",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0103",
+      "text": "Przez minutę zmieniaj trzy spokojne pozy zwycięstwa. Oddychaj przy tym równo.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0104",
+      "text": "Trzy pozy, trochę punktów doświadczenia. Peleryna zbędna.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0105",
+      "text": "Mały ruch radości",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0106",
+      "text": "Przez minutę lekko się uśmiechnij i wybierz jeden drobny ruch: kołysanie, podskok albo poruszenie barkiem.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0107",
+      "text": "Taki mały ruch, a ja już mam ochotę na następny!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0108",
+      "text": "Rozejrzyj się uważnie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0109",
+      "text": "Przez minutę poszerzaj pole widzenia i oddychaj równo. Spróbuj skupić uwagę bez napinania się w oczekiwaniu na kłopoty.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0110",
+      "text": "Czujność tak, alarm na całą okolicę niekoniecznie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0111",
+      "text": "Hasło bez mikrofonu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0112",
+      "text": "Przez minutę bezgłośnie układaj usta w swoje hasło dodające siły. Wyprostuj się i spróbuj zgrać słowa z postawą.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0113",
+      "text": "Próba mikrofonu w środku. Siła i życzliwość słyszą się doskonale.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0114",
+      "text": "Pewnie i bez ruchu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0115",
+      "text": "Przez minutę pozostań bez ruchu, z wyprostowaną sylwetką i spokojnym oddechem. Zauważ, na co masz w tej chwili wpływ.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0116",
+      "text": "Pewność siebie weszła po cichu. Nie potrzebuje fanfar.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0117",
+      "text": "Zaczynam teraz",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0118",
+      "text": "Przez minutę przy każdym wydechu powtarzaj po cichu: „Zaczynam teraz”.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0119",
+      "text": "Początek już jest. Perfekcja może dołączyć później.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0120",
+      "text": "Marsz w miejscu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0121",
+      "text": "Przez minutę maszeruj w miejscu w równym rytmie, poruszając ramionami. Niech ruch łagodnie cię rozrusza.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0122",
+      "text": "Klasyka. Nogi znają ją bez instrukcji obsługi.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0123",
+      "text": "Na zmianę przez środek",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0124",
+      "text": "Przez minutę dotykaj prawą dłonią lewego kolana, potem lewą dłonią prawego. Płynnie zmieniaj strony.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0125",
+      "text": "Prawa do lewej, lewa do prawej. Most otwarty.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0126",
+      "text": "Ramiona do startu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0127",
+      "text": "Przez minutę łagodnie wymachuj ramionami, jakby napędzały rakietę. Ruszaj się płynnie, ze stabilnym oparciem na ziemi.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0128",
+      "text": "Zgoda na start. Pod warunkiem zachowania rakietowej elegancji.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0129",
+      "text": "Skręt na przejaśnienie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0130",
+      "text": "Przez minutę powoli skręcaj tułów. Przy każdym skręcie zrób wydech i wyobraź sobie, że odgarniasz mgłę z myśli.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0131",
+      "text": "Mgła otrzymała uprzejmą prośbę o opuszczenie lokalu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0132",
+      "text": "Lekkie stopy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0133",
+      "text": "Przez minutę stawiaj lekkie, przesuwane kroki jak na rozgrzewce. Cicho i z odrobiną zabawy.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0134",
+      "text": "Trener lubi taką pracę nóg. Podłoga też.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0135",
+      "text": "Miejsce na wdech",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0136",
+      "text": "Przez minutę kieruj barki lekko do tyłu, a przy wdechu delikatnie unoś klatkę piersiową.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0137",
+      "text": "Sprawdzam, czy w tej postawie łatwiej mi zabłysnąć.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0138",
+      "text": "Palce w ruch",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0139",
+      "text": "Przez minutę szybko dotykaj kciuka kolejnymi palcami. Reszta ciała może pozostać spokojna.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0140",
+      "text": "Energia w ukryciu. Zdradzają ją tylko palce.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0141",
+      "text": "Tupnij z wyczuciem",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0142",
+      "text": "Przez minutę, z lekko ugiętymi kolanami, wykonuj łagodne, kontrolowane tupnięcia. Kieruj energię w dół.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0143",
+      "text": "Siła i spokój. Bardzo udana para.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0144",
+      "text": "Oddech z konfetti",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0145",
+      "text": "Przez minutę wypuszczaj powietrze małymi, delikatnymi porcjami. Wyobraź sobie, że rozsypujesz oddechem konfetti.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0146",
+      "text": "Miniaturowe fajerwerki. I nikt nie musi potem zamiatać!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0147",
+      "text": "Chłodny powiew",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0148",
+      "text": "Przez minutę wdychaj powietrze nosem i wydychaj je jak chłodny strumień. Wyobrażaj sobie, że przewietrzasz myśli.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0149",
+      "text": "Odświeżanie w toku. Proszę nie zamykać wyobraźni.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0150",
+      "text": "Jeden lwi wydech",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0151",
+      "text": "Zrób jeden mocny wydech „HAA”, a potem oddychaj równo do końca minuty.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0152",
+      "text": "Ryk z dobrymi manierami. Bardzo proszę: HAA.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0153",
+      "text": "Trzy na trzy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0154",
+      "text": "Przez minutę rób wdech przez 3 sekundy i wydech przez 3 sekundy. Trzymaj się równego rytmu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0155",
+      "text": "Rytm złapany. Można ruszać dalej.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0156",
+      "text": "Wdech mocy, wydech spokoju",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0157",
+      "text": "Przez minutę wyobrażaj sobie moc przy wdechu i spokój przy wydechu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0158",
+      "text": "Paliwo dobrze dobrane: trochę mocy, trochę świętego spokoju.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0159",
+      "text": "Mruczący rozruch",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0160",
+      "text": "Przez minutę mrucz przy każdym wydechu. Spróbuj połączyć odrobinę energii ze spokojnym rytmem.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0161",
+      "text": "Stara sztuczka. Wciąż mam ochotę ją wypróbować.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0162",
+      "text": "Wdech po trochu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0163",
+      "text": "Przez minutę bierz małe, lekkie porcje wdechu, a potem rób jeden dłuższy wydech. Łagodnie i miarowo.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0164",
+      "text": "Sprawdzam ten mały napęd. Bez detektywistycznego pośpiechu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0165",
+      "text": "Kołyszemy się razem",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0166",
+      "text": "Przez minutę łagodnie kołyszcie się we wspólnym rytmie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0167",
+      "text": "Razem łapiemy rytm. Przemówienie otwierające odwołane.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0168",
+      "text": "Cichy podziw",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0169",
+      "text": "Przez minutę pomyśl o jednej godnej uznania cesze u kogoś z osób, które widzisz. Sprawdź, czy pojawia się przy tym ciepło.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0170",
+      "text": "Takie ciepło chowam na potem. Moje sekretne paliwo!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0171",
+      "text": "Nasze rodzinne hasło",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0172",
+      "text": "Przez minutę powtarzaj w myślach wasze rodzinne zawołanie. Ruszaj się z poczuciem, że razem możecie coś zrobić.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0173",
+      "text": "Rodzina z charakterem. Nawet gdy nie słychać ani słowa.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0174",
+      "text": "Podaj uśmiech dalej",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0175",
+      "text": "Przez minutę przekazujcie sobie po kolei mały uśmiech wokół grupy. Bez słów.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0176",
+      "text": "Sprytna moc. Nie trzeba nawet włączać dźwięku.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0177",
+      "text": "Doceniam to, co pomaga",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0178",
+      "text": "Przez minutę po cichu doceń jedną rzecz, która teraz ci pomaga. Zauważ, co daje ci poczucie sensu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0179",
+      "text": "Dobre paliwo ma korzenie. Przynajmniej w mojej wyobraźni.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0180",
+      "text": "Mały plan w środku",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0181",
+      "text": "Przez minutę niech każda osoba wybierze w myślach jeden mały następny krok. Zachowajcie ten zamiar dla siebie i chwilę przy nim pobądźcie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0182",
+      "text": "Cicha współpraca na najwyższym szczeblu. Bez kalendarza spotkań.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0183",
+      "text": "Odwaga obok siebie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0184",
+      "text": "Przez minutę stań prosto blisko innych i oddychaj równo.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0185",
+      "text": "Siła drużyny odblokowana. Nikt nie musi grać sam.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0186",
+      "text": "calm-wheel-visual",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0187",
+      "text": "energy-wheel-visual",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0188",
+      "text": "<div class=\"hm-empty\">Żadne ćwiczenie nie pasuje do wybranego filtra.</div>",
+      "protected": false,
+      "protected_tokens": [
+        "<div class=\"hm-empty\">",
+        "</div>"
+      ]
+    },
+    {
+      "id": "dynamic.0189",
+      "text": "energy",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0190",
+      "text": "hm-result-card hm-result-card--energy",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0191",
+      "text": "hm-result-card hm-result-card--calm",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0192",
+      "text": "Zatrzymaj i zobacz",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0193",
+      "text": "🎡 Zatrzymaj i zobacz",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0194",
+      "text": "Apartament dla ciała",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0195",
+      "text": "Przez minutę wyobraź sobie odpoczynek w pięciogwiazdkowym hotelu. Rozluźnij czoło, szczękę i barki, a potem oddychaj. Klucz jest u ciebie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0196",
+      "text": "Apartament spokoju. W cenie pobytu żadnych pilnych spraw.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0197",
+      "text": "Pokój w szerokim kadrze",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0198",
+      "text": "Przez minutę obejmij wzrokiem cały pokój, zamiast skupiać się na jednym problemie. Oddychaj, jakby obraz przeszedł w tryb kinowy.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0199",
+      "text": "Pokój jest jednak większy niż ten cały dramat.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0200",
+      "text": "Podłoga daje oparcie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0201",
+      "text": "Przez minutę przy każdym wydechu delikatnie dociskaj stopy do podłoża. Zauważaj ich oparcie, jak mały dowód pod stopami.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0202",
+      "text": "Dowód znaleziony. Podłoga nie zamierza wdawać się w rozmyślania.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0203",
+      "text": "Trzy dobre drobiazgi",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0204",
+      "text": "Przez minutę poszukaj wokół siebie trzech małych dobrych rzeczy. Zauważ, jak odczuwasz w ciele te drobne odkrycia.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0205",
+      "text": "I ten drobiazg też się liczy. I tamten. O, jeszcze jeden!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0206",
+      "text": "Twarz o 10% życzliwsza",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0207",
+      "text": "Przez minutę spróbuj mieć wyraz twarzy o 10% życzliwszy niż twoje myśli. Obserwuj, jak na to reagujesz.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0208",
+      "text": "Twarz ma też ustawienia luksusowe. Właśnie sprawdzam menu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0209",
+      "text": "Barki bez abonamentu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0210",
+      "text": "Przez minutę, gdy tylko zauważysz napięte barki, opuść je raz i zrób dłuższy wydech.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0211",
+      "text": "Ten abonament na napięcie? Poproszę anulować.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0212",
+      "text": "Posegreguj myśli",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0213",
+      "text": "Przez minutę nadawaj myślom ciche etykiety: „planowanie”, „obawa”, „wspomnienie”. Pozwalaj im przechodzić dalej bez wdawania się w rozmowę.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0214",
+      "text": "Filtr poczty działa. Nie wszystko wymaga natychmiastowej odpowiedzi.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0215",
+      "text": "Dłonie puszczają",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0216",
+      "text": "Przez minutę trzymaj dłonie otwarte i rozluźnione. Nie ściskaj ich. Oddychaj powoli, jakby dłonie pokazywały, jak można odpuścić.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0217",
+      "text": "Otwarte dłonie. Może i resztę dnia da się potrzymać trochę lżej.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0218",
+      "text": "Gracz o 10% wyższy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0219",
+      "text": "Przez minutę siedź albo stój o 10% wyżej: wydłuż sylwetkę i zostaw barki luźne.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0220",
+      "text": "Punkty doświadczenia zdobyte. Peleryna nadal niepotrzebna.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0221",
+      "text": "Zapisz następny krok",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0222",
+      "text": "Przez minutę trzymaj w myślach jedną małą czynność, którą zrobisz jako następną. Łagodnie do niej wracaj.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0223",
+      "text": "Punkt zapisu znaleziony. Już wiem, od czego zacznę.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0224",
+      "text": "Uśmiech prawie niewidoczny",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0225",
+      "text": "Przez minutę pozwól sobie na delikatny, ledwie widoczny uśmiech i oddychaj powoli.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0226",
+      "text": "Taki mały błysk. A ja go widzę!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0227",
+      "text": "Prowadź o 20% wolniej",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0228",
+      "text": "Przez minutę ruszaj się i oddychaj o 20% wolniej niż zwykle. Wyobraź sobie osobę, która spokojnie prowadzi grupę.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0229",
+      "text": "Siły nie mierzy się prędkością. Zwłaszcza przy rodzinnym wyjściu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0230",
+      "text": "Gdzie ukryło się napięcie?",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0231",
+      "text": "Przez minutę szukaj napięcia w ciele, jak małych lampek alarmowych. Każde zauważone miejsce rozluźnij raz.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0232",
+      "text": "Podejrzana znaleziona. To znowu szczęka.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0233",
+      "text": "Po prostu bądź",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0234",
+      "text": "Przez minutę zrób przerwę od naprawiania, ulepszania i pouczania. Po prostu bądź i oddychaj równo.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0235",
+      "text": "Perfekcja dzwoniła. Nie odbieram.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0236",
+      "text": "Przerwa dla spojrzenia",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0237",
+      "text": "Przez minutę patrz na neutralny przedmiot i powoli mrugaj.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0238",
+      "text": "Przerwa prezesa. Bez gości i prezentacji.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0239",
+      "text": "Wydech jak aksamit",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0240",
+      "text": "Przez minutę rób wydech dłuższy od wdechu. Wyobrażaj sobie, że wygładza cię w środku jak miękka tkanina.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0241",
+      "text": "Aksamitna robota. Nawet bez maszyny do szycia.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0242",
+      "text": "Mały zachwyt",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0243",
+      "text": "Przez minutę poszukaj jednej drobnej rzeczy, która budzi twój zachwyt. Daj sobie chwilę, by się nią nacieszyć.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0244",
+      "text": "Można tak po prostu się zachwycić? To ja poproszę!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0245",
+      "text": "Głos z filmu przyrodniczego",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0246",
+      "text": "Przez minutę, jeśli w ogóle coś powiesz, mów powoli i neutralnie, jak narrator filmu przyrodniczego.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0247",
+      "text": "Oto rodzina w swoim naturalnym środowisku. Próbuje złapać oddech.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0248",
+      "text": "Dłoń mówi „jestem”",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0249",
+      "text": "Przez minutę trzymaj dłoń na klatce piersiowej i oddychaj równo. Potraktuj ten dotyk jak ciche przypomnienie obecności i poczucia bezpieczeństwa.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0250",
+      "text": "Moja dłoń mówi: „Jestem”. Sprawdzam, jak mi z tym jest.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0251",
+      "text": "Odłóż mały kamyk",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0252",
+      "text": "Przez minutę wyobrażaj sobie jedną drobną irytację jako kamyk. Z każdym wydechem łagodnie odkładaj go na bok.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0253",
+      "text": "Mniej kamyków do noszenia. Więcej miejsca na życie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0254",
+      "text": "Spojrzenie i powrót",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0255",
+      "text": "Przez minutę kieruj życzliwe spojrzenie ku jednej osobie, a potem wracaj do neutralnego wyrazu twarzy. Powtarzaj.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0256",
+      "text": "Tak się łączymy. Bez kabli i wielkiej przemowy!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0257",
+      "text": "Cichy bohater",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0258",
+      "text": "Przez minutę stój prosto i oddychaj powoli. Wypróbuj odwagę, która nie potrzebuje głośnego głosu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0259",
+      "text": "Bohater nie musi krzyczeć. Może po prostu stać na swoim miejscu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0260",
+      "text": "Blisko, daleko, pomiędzy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0261",
+      "text": "Przez minutę nasłuchuj najbliższego dźwięku, potem najdalszego i ciszy pomiędzy nimi.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0262",
+      "text": "Cisza też dostarcza wskazówek. Trzeba jej tylko posłuchać.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0263",
+      "text": "Rozluźnij cztery miejsca",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0264",
+      "text": "Przez minutę po kolei rozluźniaj brwi, język, dłonie i brzuch. Zauważaj, ile napięcia odnajdujesz w tych miejscach.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0265",
+      "text": "Rozluźnienie. Luksus, do którego nie potrzeba rezerwacji.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0266",
+      "text": "Przycisk w opuszkach",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0267",
+      "text": "Przez minutę powoli stykaj opuszki palców i oddychaj. Wyobraź sobie, że naciskasz ukryty przycisk nowego początku.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0268",
+      "text": "Sekretny przycisk jest w palcach! Tak go sobie wyobrażam.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0269",
+      "text": "Życzliwy głos w głowie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0270",
+      "text": "Przez minutę mów do siebie w myślach spokojnie i życzliwie, jak dobry trener. Odpocznij od dramatycznych monologów.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0271",
+      "text": "Wewnętrzny teatr odwołuje dzisiejszy spektakl.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0272",
+      "text": "Jedno słowo na teraz",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0273",
+      "text": "Przez minutę oddychaj, wracając do jednego wybranego słowa: „stabilność”, „życzliwość” albo „odwaga”. Niech przypomina ci o twoim zamiarze.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0274",
+      "text": "Jedno słowo, a już inaczej patrzę na tę pogodę.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0275",
+      "text": "Twarz na przerwie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0276",
+      "text": "Przez minutę rozluźniaj usta i policzki. Wyobraź sobie, że twarz odpoczywa po stresującym dniu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0277",
+      "text": "Minuta wolnego dla buzi. Zasłużyła!",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0278",
+      "text": "Spokój rusza do pracy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0279",
+      "text": "Przez minutę oddychaj powoli i wyobrażaj sobie, jak potem płynnie wykonujesz jedną pomocną czynność.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0280",
+      "text": "Spokój też potrafi wstać z fotela i coś zrobić.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0281",
+      "text": "Mój rytm dnia",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0282",
+      "text": "Przez minutę oddychaj równo. Wyobraź sobie, że zostawiasz na dniu swój podpis: działasz celowo, życzliwie i bez zbędnego poruszenia.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0283",
+      "text": "Tak. Ten nastrój mi odpowiada.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0284",
+      "text": "Wzrok na bramkę",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0285",
+      "text": "Przez minutę wybierz jeden punkt w pokoju, pozostań bez ruchu i oddychaj powoli. Jak napastnik skupiony na bramce.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0286",
+      "text": "Skupienie też można trenować. Piłka na razie ma wolne.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0287",
+      "text": "Presja, którą wykorzystasz",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0288",
+      "text": "Przez minutę stój stabilnie, otwórz klatkę piersiową, rozluźnij barki i oddychaj. Spróbuj potraktować presję jak paliwo do pewniejszego działania.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0289",
+      "text": "Presja ta sama. Ja próbuję zagrać inaczej.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0290",
+      "text": "Próba przed sytuacją",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0291",
+      "text": "Przez minutę wyobraź sobie jedną sytuację, z którą chcesz dziś dobrze sobie poradzić. Przećwicz w myślach własną reakcję: spokojny oddech, wyraz twarzy i wybory.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0292",
+      "text": "Trening w głowie. Potem sprawdzę to w życiu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0293",
+      "text": "Ładowanie przez stopy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0294",
+      "text": "Przez minutę delikatnie dociskaj stopy do podłoża przy każdym wydechu. Wyobraź sobie, że tak ładuje się twoja bateria.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0295",
+      "text": "Ładowarka pod stopami. W mojej wyobraźni działa bez kabla.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0296",
+      "text": "Jedna zasada na minutę",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0297",
+      "text": "Wybierz jedną małą zasadę: wolny oddech, luźne barki albo spokojne dłonie. Trzymaj się jej przez całą minutę, bez odstępstw.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0298",
+      "text": "Minuta trzymania się zasady. Zobaczę, co zabiorę z niej na później.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0299",
+      "text": "Wypoleruj spokój",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0300",
+      "text": "Przez minutę oddychaj powoli. Przy wydechu wyobrażaj sobie wygładzanie powietrza, jak przy polerowaniu szklanego ekranu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0301",
+      "text": "Mózg ten sam. Właśnie sprawdzam inne ustawienia.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0302",
+      "text": "Misja: cichy uśmiech",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0303",
+      "text": "Przez minutę spróbuj rozbawić się samą mimiką. Bez wydawania dźwięków.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0304",
+      "text": "Chichot na najwyższym poziomie wtajemniczenia. Nic nie słychać.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0305",
+      "text": "Od iskry do spokoju",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0306",
+      "text": "Przez minutę wydłużaj wydech względem wdechu. Przy każdym rozluźniaj jeden mały alarm: brwi, szczękę, dłonie albo barki. Powtarzaj, aż poczujesz uspokojenie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0307",
+      "text": "Mogę mieć talent dramatyczny i nadal próbować złapać spokój.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0308",
+      "text": "Trzy przeoczone szczegóły",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0309",
+      "text": "Przez minutę rozglądaj się po pokoju. Zauważ po cichu trzy szczegóły, które wcześniej umykały twojej uwadze.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0310",
+      "text": "Spokój przyszedł w kurtce ciekawości. Całkiem mu do twarzy.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0311",
+      "text": "Sześć wydechów i od nowa",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0312",
+      "text": "Przez minutę licz tylko wydechy, od 1 do 6. Po szóstym zacznij od nowa. Pozostaw twarz rozluźnioną.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0313",
+      "text": "Moja sekretna przewaga? Chwila na odświeżenie myśli.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0314",
+      "text": "auto",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0315",
+      "text": "muted",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0316",
+      "text": "function",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0317",
+      "text": "challenge-title",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0318",
+      "text": "challenge-instruction",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0319",
+      "text": "challenge-character",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0320",
+      "text": "challenge-comment",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0321",
+      "text": "challenge-category",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0322",
+      "text": "hm-category-icon",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0323",
+      "text": "result-card",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0324",
+      "text": "div",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0325",
+      "text": "word-chip",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0326",
+      "text": "puzzle-name",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0327",
+      "text": "confetti",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0328",
+      "text": "#ffd700",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0329",
+      "text": "#8A2BE2",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0330",
+      "text": "#ffffff",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0331",
+      "text": "celebration",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0332",
+      "text": "https://gegaodrfqwhrfdqtiokb.supabase.co",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0333",
+      "text": "sb_publishable_eQ8wSa9kvfNwu8Uz033h-A_IFDuUAaK",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0334",
+      "text": "Wyloguj się",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0335",
+      "text": "login",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0336",
+      "text": "errorMsg",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0337",
+      "text": "existingAccountMsg",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0338",
+      "text": "none",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0339",
+      "text": "block",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0340",
+      "text": "Ukryj hasło",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0341",
+      "text": "brevoEmail",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0342",
+      "text": "Zresetuj hasło",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0343",
+      "text": "Ustaw nowe hasło",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0344",
+      "text": "Mimi to mama, która ogarnia posiłki, plany, dzieci, pytania i znikające skarpetki w tempie trudnym do zmierzenia. Spokojna? Niekoniecznie. Powolna? Nigdy. Skuteczna nawet w samym środku chaosu? Zdecydowanie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0345",
+      "text": "Mimi sama mianowała się strażniczką rodzinnego stylu. Swobodę wyrażania siebie chroni jak skarb narodowy. Chaos jakoś zniesie, ale gryzące się kolory? Wtedy wkracza policja modowa. Czyli ona.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0346",
+      "text": "Myśli szybko, ripostuje jeszcze szybciej i bezbłędnie wyczuwa, gdzie znowu zrobił się bałagan. Codzienny rozgardiasz potrafi jednocześnie uporządkować i upiększyć. Ciepła i nie do zatrzymania, jest sercem rodziny oraz jej bardzo szybkim silnikiem.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0347",
+      "text": "Ninja od wielu spraw naraz",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0348",
+      "text": "Tropicielka zgub",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0349",
+      "text": "Nagina czas",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0350",
+      "text": "Łagodzi rodzinne nastroje",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0351",
+      "text": "Żongluje kalendarzem",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0352",
+      "text": "Luli łączy twórczą wyobraźnię z elegancją i umysłem stratega. Uwielbia detektywów, tajemnice i książki, w których kolejny zwrot akcji zmienia wszystko.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0353",
+      "text": "Długie, gładkie włosy, błyszczące kolczyki i ubrania w odważnych kolorach od razu przyciągają wzrok. Ale Luli ma też siłę i świetną kondycję. Wspina się i biega szybciej od większości chłopców, zanim ci zdążą uznać, że to już zawody.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0354",
+      "text": "Na szarfach porusza się płynnie i pewnie, jakby grawitacja przyznała jej specjalne przywileje. Spokojna, elegancka i skłonna do namysłu, wnosi do towarzystwa ciepło. Z nią nawet zwykła chwila zyskuje odrobinę luksusu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0355",
+      "text": "Umysł do tajemnic",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0356",
+      "text": "Królowa stylu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0357",
+      "text": "Zbieraczka poszlak",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0358",
+      "text": "Dyskretnie podsuwa pomysły",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0359",
+      "text": "Zaczytana po uszy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0360",
+      "text": "Dilo ma naturalny talent do piłki i gier. Szybkie nogi, szybkie palce, szybkie opinie. Strzela obiema stopami i przeskakuje kolejne poziomy, jakby znał skróty. Bywa uparty, ale potrafi też zaskoczyć hojnością.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0361",
+      "text": "Ma 9 lat i sporo do powiedzenia o piłce, technologii oraz stylu. Jego postawione na żel kolce trzymają się nawet wtedy, gdy pogoda łamie parasole. Ciekawość i energię Dilo trudno zatrzymać tylko dla siebie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0362",
+      "text": "Kiedy pojawia się Dilo, sprawy przyspieszają. I robią się ciekawsze.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0363",
+      "text": "Mały bramkowy potworek",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0364",
+      "text": "Pogromca poziomów",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0365",
+      "text": "Dowódca stylu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0366",
+      "text": "Gwiazda uporu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0367",
+      "text": "Hojny rozdawca smakołyków",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0368",
+      "text": "Alio działa na 120% energii i ciekawości, z solidną porcją życzliwych psot. Skacze, buduje ogromne miasta z klocków, testuje i wynajduje rzeczy absolutnie niezbędne. Przynajmniej według niego.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0369",
+      "text": "Jego bardzo poważna sekwencja kung-fu trwa dokładnie 12 sekund i kończy się dramatyczną pozą oraz śmiechem. Gdy Alio milczy, prawdopodobnie właśnie powstaje plan. Zabawny, chaotyczny albo jedno i drugie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0370",
+      "text": "Z Alio nuda nie ma gdzie usiąść.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0371",
+      "text": "Ekspert od podskoków",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0372",
+      "text": "Uruchamia chaos",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0373",
+      "text": "Wynalazca zabaw",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0374",
+      "text": "Sprinter po przekąski",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0375",
+      "text": "Rakietowy napęd zabawy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0376",
+      "text": "Nini jest malutka, ale jej radość zajmuje cały pokój, jeszcze zanim nadejdzie pora przekąski. Śpiewa, tańczy i chichocze. Świat jest jej sceną, a ona nie ma wątpliwości, kto tu jest gwiazdą.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0377",
+      "text": "Ma 4 lata i zarządza rodzinną gospodarką przytulania. Bez negocjacji. Wielkie oczy, wielkie serce i radość rozsypująca się wszędzie jak urodzinowe konfetti.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0378",
+      "text": "Maszyna do przytulania",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0379",
+      "text": "Fabryka chichotu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0380",
+      "text": "Mała trąba powietrzna",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0381",
+      "text": "Taniec na przycisk",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0382",
+      "text": "Kropelka słońca",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0383",
+      "text": "Bibi to babcia, która wiek traktuje jak drobną literówkę. Krótkie modne włosy, stylowe okulary i odważne, nowoczesne ubrania sprawiają, że każdy chodnik staje się jej wybiegiem. Często nawet o tym nie wie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0384",
+      "text": "Ciepła, pełna energii i zawsze gotowa na przygodę, jeździ z wnukami na nartach i piecze muffiny znikające w kilka minut. W jodze też potrafi wygrać. A potem z urokiem o tym przypomnieć.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0385",
+      "text": "Gdyby fajne babcie potrzebowały światowej ambasadorki, Bibi miałaby tę posadę. Elegancja, niespożyta energia i pewność siebie godna królowej.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0386",
+      "text": "Cesarzowa stylu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0387",
+      "text": "Ikona energii",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0388",
+      "text": "Magnes na przygody",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0389",
+      "text": "Elegancja w ruchu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0390",
+      "text": "Dowódczyni zabawy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0391",
+      "text": "\n                    <p style=\"margin: 0 auto 18px auto; text-align: center;\">\n                        <span style=\"display: block; color: #ffd700; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;\">The Confident, Mindful & Happy Me Adventure</span>\n                    </p>\n                    <div style=\"text-align: center; margin-bottom: 18px;\">\n                        <button onclick=\"window.open('assets/images/infografika.html', '_blank', 'noopener,noreferrer')\" style=\"background: linear-gradient(45deg, #8A2BE2, #9932CC); border: 2px solid #ffd700; border-radius: 20px; padding: 12px 24px; color: #ffffff; font-size: 0.95rem; font-weight: bold; cursor: pointer; box-shadow: 0 0 18px rgba(138, 43, 226, 0.5);\">\n                            Zobacz drogę przez książkę\n                        </button>\n                    </div>\n                    <img src=\"assets/images/Confident, Mindful & Happy Me cover.png\" data-cover-base=\"Confident, Mindful & Happy Me\" alt=\"The Confident, Mindful &amp; Happy Me Adventure cover\" style=\"width: 240px; height: auto; border-radius: 16px; border: 2px solid #ffd700; box-shadow: 0 0 22px rgba(255,215,0,0.35); margin: 0 auto 24px auto; display: block;\">\n\n                    <div style=\"color: #ffffff; font-size: 1.12rem; line-height: 1.7; text-align: center; margin-bottom: 30px; max-width: 900px; margin-left: auto; margin-right: auto;\">\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\"><strong style=\"color: #8A2BE2;\">Kiedy emocje robią się większe od dziecka</strong><br>Zmartwienia potrafią zajmować mnóstwo miejsca, a perfekcjonizm nie daje odetchnąć nawet po drobnym błędzie.<br>Jak pomóc dziecku usłyszeć własny głos, gdy dookoła słychać, jakie powinno być?<br>I jak porozmawiać o tym wszystkim, żeby rozmowa nie przypominała przesłuchania?</p>\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\">Ta książka zaprasza do krótkiej, twórczej przygody z emocjami.<br>To interaktywny zestaw pomysłów, do których dziecko może wracać i które może dopasowywać do siebie.<br>Bez konieczności znalezienia idealnych słów już na pierwszej stronie.</p>\n\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\"><strong style=\"color: #8A2BE2;\">Trudny poziom? Zagrajmy razem</strong><br>Codzienność bywa jak gra, w której nagle pojawia się trudniejszy poziom. <br class=\"mobile-only\"><span style=\"color:#ffd700; font-weight:700;\">Nie trzeba przechodzić go samemu. </span><br class=\"mobile-only\"><span style=\"color:#ffd700; font-weight:700;\">Poznaj swoich przewodników</span><br>Mimi, Luli, Dilo, Alio i Nini towarzyszą dziecku w odkrywaniu emocji i własnych mocnych stron.<br>Czasem życie przypomina kolejkę górską, a czasem aż chciałoby się narzucić pelerynę.<br>Tutaj jest miejsce i na takie chwile, i na spokojne poszukiwanie własnych sposobów działania.</p>\n\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\"><strong style=\"color: #8A2BE2;\">Małe spotkanie każdego dnia</strong><br>31 dni i 10 minut dziennie.<br>Krótka codzienna chwila na twórczą pracę, zauważenie uczuć i rozmowę.</p>\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\">Książka staje się osobistym zasobem<br>Po dniu 31 zostają własne odpowiedzi, odkrycia i pomysły dziecka.<br>Można do nich wracać, gdy kolejny dzień okaże się trudny. <br class=\"mobile-only\"><span style=\"color:#ffd700; font-weight:700;\">To jego własna emocjonalna apteczka pomysłów</span></p>\n\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\"><strong style=\"color: #8A2BE2;\">Pięć etapów jednej przygody</strong><br>Najpierw poczucie oparcia, potem bliższe poznawanie uczuć i własnych możliwości.<br>Dalej relacje z innymi oraz marzenia o tym, co przed nami.<br>Każdy etap ma swój temat i zostawia przestrzeń na własne odpowiedzi.<br>Te pięć tygodni łączy się w drogę przez 31 dni. <br class=\"mobile-only\">Zobacz, co czeka po kolei.</p>\n\n                        <p style=\"margin-top: 24px; font-weight: 700; color: #ffd700;\">Droga przez pięć tygodni</p>\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\"><strong style=\"color:#8A2BE2;\">Tydzień 1: bezpieczeństwo i oparcie</strong><br><span style=\"color: #ffffff;\">Zauważanie tego, co daje poczucie bezpieczeństwa.</span><br><span style=\"color: #ffffff;\">Pierwsze sposoby na odnalezienie oparcia w sobie i otoczeniu.</span></p>\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\"><strong style=\"color:#8A2BE2;\">Tydzień 2: bliżej emocji</strong><br><span style=\"color: #ffffff;\">Rozpoznawanie uczuć, także lęku i złości.</span><br><span style=\"color: #ffffff;\">Poszukiwanie słów i sposobów na to, co dzieje się w środku.</span></p>\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\"><strong style=\"color:#8A2BE2;\">Tydzień 3: własne mocne strony</strong><br><span style=\"color: #ffffff;\">Przyglądanie się temu, co dziecku wychodzi i co jest dla niego ważne.</span><br><span style=\"color: #ffffff;\">Małe próby budowania pewności siebie.</span></p>\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\"><strong style=\"color:#8A2BE2;\">Tydzień 4: razem z innymi</strong><br><span style=\"color: #ffffff;\">Empatia i przyjaźń, z miejscem na własne granice.</span><br><span style=\"color: #ffffff;\">Ćwiczenie proszenia o wsparcie.</span></p>\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\"><strong style=\"color:#8A2BE2;\">Tydzień 5: co dalej?</strong><br><span style=\"color: #ffffff;\">Cele i marzenia, które dziecko chce poznawać.</span><br><span style=\"color: #ffffff;\">Zauważanie przebytej drogi i świętowanie rozwoju.</span></p>\n\n                        <p style=\"margin-top: 24px; font-weight: bold; color: #8A2BE2;\">A po ostatniej stronie?</p>\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\">Przygoda nie musi kończyć się wraz z dniem 31.<br>Zostaje książka pełna osobistych odpowiedzi, do której można wrócić jak do <span style=\"color:#ffd700; font-weight:700; text-transform: uppercase;\">własnego zbioru podpowiedzi</span>.<br>W trudnej chwili może stać się punktem wyjścia do rozmowy i przypomnienia sobie tego, co było pomocne.</p>\n\n                        <p style=\"margin-top: 24px; font-weight: bold; color: #8A2BE2;\">Miejsce na własny głos</p>\n                        <p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\">Dziecko nie potrzebuje gotowej roli do odegrania.<br>Potrzebuje przestrzeni, by zauważać siebie, próbować i odkrywać własne możliwości.</p>\n                        <p style=\"margin-bottom: 18px; color:#ffd700; font-weight:700;\">Zacznijcie od dziesięciu minut razem.</p>\n                        <p style=\"margin-bottom: 0; font-weight: 800;\">\n                            Rise.Shine.Evolve. Zaproszenie, by <span class=\"word-rise\">wstać</span>.\n                            <span class=\"word-shine\">zabłysnąć</span>.\n                            <span class=\"word-evolve\">rozwijać się</span>.\n                            <span style=\"color:#ffd700; font-weight:700;\">Razem z ludźmi, którzy są obok.</span>\n                        </p>\n                    </div>\n\n                    <div style=\"text-align: center; margin-top: 30px;\">\n                        <button onclick=\"window.open('https://www.amazon.com/dp/B0G6ZBD7YF/ref=sr_1_1?crid=1JNI65G7Y5W2T&dib=eyJ2IjoiMSJ9.6sPvd45HQ0DwFx7rDVm4GzEvVHvx5Nfyyk4-aOOpL-R9ARZwGRkFwI6K0rPa1EX0ZBKEzsfqQGLw0d4jZ5-ItQ.HHZ--L7lh4LL8MZJqdljxFqBdMTp3g8LL8IgiH3QPb0&dib_tag=se&keywords=the+confident+mindful+%26+happy+me+adventure&qid=1765802239&s=digital-text&sprefix=%2Cdigital-text%2C354&sr=1-1', '_blank', 'noopener,noreferrer')\" style=\"\n                            background: linear-gradient(45deg, #8A2BE2, #9932CC);\n                            border: 3px solid #ffd700;\n                            border-radius: 25px;\n                            padding: 18px 36px;\n                            color: #ffffff;\n                            font-size: 1.05rem;\n                            font-weight: bold;\n                            cursor: pointer;\n                            box-shadow: 0 0 30px rgba(138, 43, 226, 0.6);\n                            transition: all 0.3s ease;\n                            letter-spacing: 0.5px;\n                        \" onmouseover=\"this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 0 40px rgba(138, 43, 226, 0.8)';\" onmouseout=\"this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 0 30px rgba(138, 43, 226, 0.6)';\">\n                            Zobacz książkę na Amazon\n                        </button>\n                    </div>\n                ",
+      "protected": false,
+      "protected_tokens": [
+        "<p style=\"margin: 0 auto 18px auto; text-align: center;\">",
+        "<span style=\"display: block; color: #ffd700; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;\">",
+        "</span>",
+        "</p>",
+        "<div style=\"text-align: center; margin-bottom: 18px;\">",
+        "<button onclick=\"window.open('assets/images/infografika.html', '_blank', 'noopener,noreferrer')\" style=\"background: linear-gradient(45deg, #8A2BE2, #9932CC); border: 2px solid #ffd700; border-radius: 20px; padding: 12px 24px; color: #ffffff; font-size: 0.95rem; font-weight: bold; cursor: pointer; box-shadow: 0 0 18px rgba(138, 43, 226, 0.5);\">",
+        "</button>",
+        "</div>",
+        "<img src=\"assets/images/Confident, Mindful & Happy Me cover.png\" data-cover-base=\"Confident, Mindful & Happy Me\" alt=\"The Confident, Mindful &amp; Happy Me Adventure cover\" style=\"width: 240px; height: auto; border-radius: 16px; border: 2px solid #ffd700; box-shadow: 0 0 22px rgba(255,215,0,0.35); margin: 0 auto 24px auto; display: block;\">",
+        "<div style=\"color: #ffffff; font-size: 1.12rem; line-height: 1.7; text-align: center; margin-bottom: 30px; max-width: 900px; margin-left: auto; margin-right: auto;\">",
+        "<p style=\"margin-bottom: 18px; text-align: justify; text-align-last: center;\">",
+        "<strong style=\"color: #8A2BE2;\">",
+        "</strong>",
+        "<br>",
+        "<br class=\"mobile-only\">",
+        "<span style=\"color:#ffd700; font-weight:700;\">",
+        "<p style=\"margin-top: 24px; font-weight: 700; color: #ffd700;\">",
+        "<strong style=\"color:#8A2BE2;\">",
+        "<span style=\"color: #ffffff;\">",
+        "<p style=\"margin-top: 24px; font-weight: bold; color: #8A2BE2;\">",
+        "<span style=\"color:#ffd700; font-weight:700; text-transform: uppercase;\">",
+        "<p style=\"margin-bottom: 18px; color:#ffd700; font-weight:700;\">",
+        "<p style=\"margin-bottom: 0; font-weight: 800;\">",
+        "<span class=\"word-rise\">",
+        "<span class=\"word-shine\">",
+        "<span class=\"word-evolve\">",
+        "<div style=\"text-align: center; margin-top: 30px;\">",
+        "<button onclick=\"window.open('https://www.amazon.com/dp/B0G6ZBD7YF/ref=sr_1_1?crid=1JNI65G7Y5W2T&dib=eyJ2IjoiMSJ9.6sPvd45HQ0DwFx7rDVm4GzEvVHvx5Nfyyk4-aOOpL-R9ARZwGRkFwI6K0rPa1EX0ZBKEzsfqQGLw0d4jZ5-ItQ.HHZ--L7lh4LL8MZJqdljxFqBdMTp3g8LL8IgiH3QPb0&dib_tag=se&keywords=the+confident+mindful+%26+happy+me+adventure&qid=1765802239&s=digital-text&sprefix=%2Cdigital-text%2C354&sr=1-1', '_blank', 'noopener,noreferrer')\" style=\"\n                            background: linear-gradient(45deg, #8A2BE2, #9932CC);\n                            border: 3px solid #ffd700;\n                            border-radius: 25px;\n                            padding: 18px 36px;\n                            color: #ffffff;\n                            font-size: 1.05rem;\n                            font-weight: bold;\n                            cursor: pointer;\n                            box-shadow: 0 0 30px rgba(138, 43, 226, 0.6);\n                            transition: all 0.3s ease;\n                            letter-spacing: 0.5px;\n                        \" onmouseover=\"this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 0 40px rgba(138, 43, 226, 0.8)';\" onmouseout=\"this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 0 30px rgba(138, 43, 226, 0.6)';\">"
+      ]
+    },
+    {
+      "id": "dynamic.0392",
+      "text": "\n                    <div style=\"text-align: center; margin-bottom: 18px;\">\n                        <span style=\"color: #8A2BE2; font-weight: bold; font-size: 1.6rem; text-shadow: 0 0 20px rgba(138, 43, 226, 0.8); text-decoration: underline;\">Level Up Your Brain – World 02</span>\n                    </div>\n\n                    <h2 style=\"color: #ffd700; font-size: 2.4rem; margin-bottom: 15px; text-shadow: 0 0 30px rgba(255, 215, 0, 0.8); text-align: center; text-decoration: underline;\">10 zabawnych opowiadań w czarno-białym świecie gry</h2>\n                    <img src=\"assets/images/LEVEL UP YOUR BRAIN COVER WORLD 02.jpg\" data-cover-base=\"LEVEL UP YOUR BRAIN COVER WORLD 02\" alt=\"Level Up Your Brain World 02 cover\" style=\"width: 240px; height: auto; border-radius: 16px; border: 2px solid #ffd700; box-shadow: 0 0 22px rgba(255,215,0,0.35); margin: 0 auto 24px auto; display: block;\">\n\n                    <div style=\"color: #ffffff; font-size: 1.05rem; line-height: 1.75; text-align: center; margin-bottom: 30px; max-width: 900px; margin-left: auto; margin-right: auto;\">\n                        <p style=\"margin-bottom: 18px; font-weight: 700; color: #8A2BE2; text-transform: uppercase; text-decoration: underline;\">Gdy podstawy już za wami, codzienność odblokowuje kolejne zadania.<br>Ekrany, poranne i wieczorne rutyny, prośby, które jakby nie docierały do uszu.<br>Czasem aż 27 powtórzeń tego samego polecenia. Brzmi znajomo?</p>\n                        <p style=\"margin-bottom: 18px; font-weight: 700; color: #ffd700;\">Do tego kłótnie rodzeństwa, przykre słowa i myśli, które mówią o nas niezbyt życzliwie.<br>Odwołany plan też potrafi wywrócić dzień do góry nogami.<br>A internet dorzuca własne wyzwania: bezpieczeństwo i wiadomości, którym trudno ufać.</p>\n                        <p style=\"margin-bottom: 18px;\">World 02 zaprasza rodzinę do dalszych ćwiczeń w formie opowieści i misji.</p>\n                        <p style=\"margin-bottom: 18px;\">Krótkie historie prowadzą przez sprawy, które naprawdę pojawiają się w domu.<br>Z humorem, czarno-białą grafiką i językiem gry.</p>\n                        <p style=\"margin-bottom: 18px;\">Pikselowe zombie? Niewidzialny spam? To dopiero początek.<br>Nawet niedźwiedź polarny grający w Minecraft może okazać się ważnym tropem.<br>Zwłaszcza gdy trzeba sprawdzić, czy film jest prawdziwy.</p>\n                        <p style=\"margin-bottom: 18px;\">Po każdej historii przychodzi pora na prosty pomysł do wypróbowania.</p>\n                        <p style=\"margin-bottom: 10px;\"><span style=\"color: #8A2BE2; font-weight: 700; text-decoration: underline;\">Mała misja zamiast wielkiej przemowy</span></p>\n                        <p style=\"margin-bottom: 18px;\"><span style=\"color: #ffd700; font-weight:700;\">Czytajcie, rozmawiajcie, sprawdzajcie w życiu</span></p>\n                        <p style=\"margin-bottom: 18px;\">Dla rodzin, które chcą zrobić miejsce na rozmowę w zwyczajnym dniu.<br>I dla dzieci, którym łatwiej wejść w temat przez przygodę niż przez pouczenie.</p>\n\n                        <p style=\"margin-bottom: 14px; color: #ffd700; font-weight: 700; text-decoration: underline;\">Jak działa pięciominutowa misja?</p>\n                        <ul class=\"book-detail-bullets\">\n                            <li style=\"margin-bottom: 10px;\"><span style=\"font-weight:700; color:#ffd700;\">1. Przeczytajcie historię</span><br>Wejdźcie na kolejny krótki poziom rodzinnej przygody.<br>Zobaczcie, z czym mierzą się bohaterowie.</li>\n                            <li style=\"margin-bottom: 10px;\"><span style=\"font-weight:700; color:#ffd700;\">2. Zajrzyjcie do Neuro-Coaching Console</span><br>Poznajcie krótkie wyjaśnienie i kod wiedzy.<br>Porozmawiajcie przez 2 minuty.<br>Wybierzcie jedno narzędzie, które pasuje do waszego dnia.</li>\n                            <li><span style=\"font-weight:700; color:#ffd700;\">3. Wypróbujcie je</span><br>Przenieście pomysł z opowieści do codziennej sytuacji.</li>\n                        </ul>\n                        <ul class=\"book-detail-bullets book-detail-bullets--level-up\">\n                            <li style=\"margin-bottom: 8px;\"><span style=\"text-decoration: underline; font-weight:700;\">Od nawyku do nowej reakcji</span> Każda misja podsuwa inny sposób przyjrzenia się codzienności.</li>\n                            <li style=\"margin-bottom: 8px;\"><span style=\"text-decoration: underline; font-weight:700;\">Rutyny</span> można budować małymi krokami, łącząc <span style=\"text-decoration: underline; font-weight:700;\">nowy nawyk</span> z czymś, co już robimy.</li>\n                            <li style=\"margin-bottom: 8px;\">Gdy do głowy wpadają przykre słowa, przydaje się <span style=\"text-decoration: underline; font-weight:700;\">teflonowa tarcza</span> jako obraz tego, czego nie trzeba zatrzymywać przy sobie.</li>\n                            <li style=\"margin-bottom: 8px;\"><span style=\"text-decoration: underline; font-weight:700;\">Rodzinny statek</span>też potrzebuje współpracy, a nie tylko kapitana wydającego polecenia.</li>\n                            <li style=\"margin-bottom: 8px;\"><span style=\"text-decoration: underline; font-weight:700;\">Inna perspektywa</span>może zmienić rozmowę. Wystarczy spojrzeć na zagadkę 6/9.</li>\n                            <li style=\"margin-bottom: 8px;\"><span style=\"text-decoration: underline; font-weight:700;\">Mentalny spam</span> zaprasza do sprawdzania myśli, zanim uznamy je za prawdę.</li>\n                            <li style=\"margin-bottom: 8px;\"><span style=\"text-decoration: underline; font-weight:700;\">Taniec zmiany kierunku</span> to sposób opowieści na rozczarowanie i odwołane plany.</li>\n                            <li><span style=\"text-decoration: underline; font-weight:700;\">Internet</span> ma także swoje <span style=\"text-decoration: underline; font-weight:700;\">zakłócenia rzeczywistości</span> Warto ćwiczyć odróżnianie informacji od <span style=\"text-decoration: underline; font-weight:700;\">fałszywych wiadomości</span>.</li>\n                        </ul>\n\n                        <p style=\"margin-bottom: 14px; color: #ffd700; font-weight: 700; text-decoration: underline;\">Poznajcie swoją drużynę</p>\n                        <ul class=\"book-detail-bullets book-detail-bullets--icons-only\">\n                            <li style=\"margin-bottom: 8px;\">Nini wnosi radość nawet na trudniejszy poziom.</li>\n                            <li style=\"margin-bottom: 8px;\">Alio ćwiczy wykrywanie prawdy wśród zaskakujących wiadomości.</li>\n                            <li style=\"margin-bottom: 8px;\">Dilo przygląda się równowadze między ekranem a resztą dnia.</li>\n                            <li style=\"margin-bottom: 8px;\">Luli wnosi logikę i pomaga szukać porozumienia.</li>\n                            <li>Mimi kieruje rodzinnym statkiem, choć załoga miewa własne pomysły.</li>\n                        </ul>\n\n                        <p style=\"margin-bottom: 14px; color: #ffd700; font-weight: 700; text-decoration: underline;\">Poziomy 11–20</p>\n                        <ul class=\"book-detail-bullets book-detail-bullets--controller\">\n                            <li style=\"margin-bottom: 7px;\">11. Pętla nawyku: jak łączyć nawyki i ułatwiać sobie start.</li>\n                            <li style=\"margin-bottom: 7px;\">12. Nocny odpoczynek: opowieść o mózgowej zmywarce.</li>\n                            <li style=\"margin-bottom: 7px;\">13. Wadliwe Wi-Fi: słuchanie i filtrowanie tego, co do nas dociera.</li>\n                            <li style=\"margin-bottom: 7px;\">14. Teflonowa tarcza: co zrobić z przykrymi słowami.</li>\n                            <li style=\"margin-bottom: 7px;\">15. Bunt na statku: wkład we wspólnotę i 10-minutowa mobilizacja.</li>\n                            <li style=\"margin-bottom: 7px;\">16. Zagadka 6/9: różne perspektywy i teoria umysłu.</li>\n                            <li style=\"margin-bottom: 7px;\">17. Mentalny spam: pierwsze kroki w krytycznym myśleniu.</li>\n                            <li style=\"margin-bottom: 7px;\">18. Pikselowe zombie: ekrany i to, co książka nazywa dopaminowym wypaleniem.</li>\n                            <li style=\"margin-bottom: 7px;\">19. Taniec zmiany kierunku: gdy plany się zmieniają i przychodzi rozczarowanie.</li>\n                            <li>20. Zakłócona rzeczywistość: fałszywe wiadomości i sprawdzanie informacji.</li>\n                        </ul>\n\n                        <p style=\"margin-bottom: 14px; color: #ffd700; font-weight: 700; text-decoration: underline;\">Dlaczego taka forma?</p>\n                        <ul class=\"book-detail-bullets\">\n                            <li style=\"margin-bottom: 7px;\">Krótkie rozdziały mogą ułatwić start także dzieciom, które niechętnie sięgają po książkę.</li>\n                            <li style=\"margin-bottom: 7px;\">Zabawne historie otwierają temat bez długiego wykładu.</li>\n                            <li>Praktyczny pomysł po lekturze daje okazję, by od razu czegoś spróbować.</li>\n                        </ul>\n\n                        <p style=\"margin-bottom: 10px; font-weight:700; color:#8A2BE2; text-decoration: underline;\">Kolejny poziom zaczyna się w zwyczajnym rodzinnym dniu.</p>\n                        <p style=\"margin-bottom: 0; font-weight:700; color:#ffd700;\">Wybierzcie jedną historię i sprawdźcie, dokąd zaprowadzi was rozmowa.</p>\n                    </div>\n\n                    <div style=\"text-align: center; margin-top: 30px;\">\n                        <button onclick=\"window.open('https://www.amazon.com/dp/B0GRG4CBJD', '_blank', 'noopener,noreferrer')\" style=\"\n                            background: linear-gradient(45deg, #8A2BE2, #9932CC);\n                            border: 3px solid #ffd700;\n                            border-radius: 25px;\n                            padding: 18px 36px;\n                            color: #ffffff;\n                            font-size: clamp(0.78rem, 3.8vw, 1.05rem);\n                            font-weight: bold;\n                            white-space: nowrap;\n                            cursor: pointer;\n                            box-shadow: 0 0 30px rgba(138, 43, 226, 0.6);\n                            transition: all 0.3s ease;\n                            letter-spacing: 0.5px;\n                        \" onmouseover=\"this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 0 40px rgba(138, 43, 226, 0.8)';\" onmouseout=\"this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 0 30px rgba(138, 43, 226, 0.6)';\">\n                            Zobacz książkę na Amazon\n                        </button>\n                        <div style=\"margin-top: 14px;\">\n                            <a href=\"https://www.amazon.com/dp/B0GRG4CBJD\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ffd700; font-weight: 700; text-decoration: underline;\">\n                                Otwórz stronę książki na Amazon\n                            </a>\n                        </div>\n                    </div>\n                ",
+      "protected": false,
+      "protected_tokens": [
+        "<div style=\"text-align: center; margin-bottom: 18px;\">",
+        "<span style=\"color: #8A2BE2; font-weight: bold; font-size: 1.6rem; text-shadow: 0 0 20px rgba(138, 43, 226, 0.8); text-decoration: underline;\">",
+        "</span>",
+        "</div>",
+        "<h2 style=\"color: #ffd700; font-size: 2.4rem; margin-bottom: 15px; text-shadow: 0 0 30px rgba(255, 215, 0, 0.8); text-align: center; text-decoration: underline;\">",
+        "</h2>",
+        "<img src=\"assets/images/LEVEL UP YOUR BRAIN COVER WORLD 02.jpg\" data-cover-base=\"LEVEL UP YOUR BRAIN COVER WORLD 02\" alt=\"Level Up Your Brain World 02 cover\" style=\"width: 240px; height: auto; border-radius: 16px; border: 2px solid #ffd700; box-shadow: 0 0 22px rgba(255,215,0,0.35); margin: 0 auto 24px auto; display: block;\">",
+        "<div style=\"color: #ffffff; font-size: 1.05rem; line-height: 1.75; text-align: center; margin-bottom: 30px; max-width: 900px; margin-left: auto; margin-right: auto;\">",
+        "<p style=\"margin-bottom: 18px; font-weight: 700; color: #8A2BE2; text-transform: uppercase; text-decoration: underline;\">",
+        "<br>",
+        "</p>",
+        "<p style=\"margin-bottom: 18px; font-weight: 700; color: #ffd700;\">",
+        "<p style=\"margin-bottom: 18px;\">",
+        "<p style=\"margin-bottom: 10px;\">",
+        "<span style=\"color: #8A2BE2; font-weight: 700; text-decoration: underline;\">",
+        "<span style=\"color: #ffd700; font-weight:700;\">",
+        "<p style=\"margin-bottom: 14px; color: #ffd700; font-weight: 700; text-decoration: underline;\">",
+        "<ul class=\"book-detail-bullets\">",
+        "<li style=\"margin-bottom: 10px;\">",
+        "<span style=\"font-weight:700; color:#ffd700;\">",
+        "</li>",
+        "<li>",
+        "</ul>",
+        "<ul class=\"book-detail-bullets book-detail-bullets--level-up\">",
+        "<li style=\"margin-bottom: 8px;\">",
+        "<span style=\"text-decoration: underline; font-weight:700;\">",
+        "<ul class=\"book-detail-bullets book-detail-bullets--icons-only\">",
+        "<ul class=\"book-detail-bullets book-detail-bullets--controller\">",
+        "<li style=\"margin-bottom: 7px;\">",
+        "<p style=\"margin-bottom: 10px; font-weight:700; color:#8A2BE2; text-decoration: underline;\">",
+        "<p style=\"margin-bottom: 0; font-weight:700; color:#ffd700;\">",
+        "<div style=\"text-align: center; margin-top: 30px;\">",
+        "<button onclick=\"window.open('https://www.amazon.com/dp/B0GRG4CBJD', '_blank', 'noopener,noreferrer')\" style=\"\n                            background: linear-gradient(45deg, #8A2BE2, #9932CC);\n                            border: 3px solid #ffd700;\n                            border-radius: 25px;\n                            padding: 18px 36px;\n                            color: #ffffff;\n                            font-size: clamp(0.78rem, 3.8vw, 1.05rem);\n                            font-weight: bold;\n                            white-space: nowrap;\n                            cursor: pointer;\n                            box-shadow: 0 0 30px rgba(138, 43, 226, 0.6);\n                            transition: all 0.3s ease;\n                            letter-spacing: 0.5px;\n                        \" onmouseover=\"this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 0 40px rgba(138, 43, 226, 0.8)';\" onmouseout=\"this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 0 30px rgba(138, 43, 226, 0.6)';\">",
+        "</button>",
+        "<div style=\"margin-top: 14px;\">",
+        "<a href=\"https://www.amazon.com/dp/B0GRG4CBJD\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ffd700; font-weight: 700; text-decoration: underline;\">",
+        "</a>"
+      ]
+    },
+    {
+      "id": "dynamic.0393",
+      "text": "\n                    <div style=\"text-align: center; margin-bottom: 18px;\">\n                        <span style=\"color: #8A2BE2; font-weight: bold; font-size: 1.6rem; text-shadow: 0 0 20px rgba(138, 43, 226, 0.8); text-decoration: underline;\">Level Up Your Brain – World 01</span>\n                    </div>\n\n                    <h2 style=\"color: #5eeff3; font-size: 2.4rem; margin-bottom: 15px; text-shadow: 0 0 30px rgba(94, 239, 243, 0.8); text-align: center; text-decoration: underline;\">10 zabawnych historii w czarno-białej oprawie gry</h2>\n                    <img src=\"assets/images/10 stories cover.jpg\" data-cover-base=\"10 stories cover\" alt=\"Level Up Your Brain World 01 cover\" style=\"width: 240px; height: auto; border-radius: 16px; border: 2px solid #5eeff3; box-shadow: 0 0 22px rgba(94,239,243,0.35); margin: 0 auto 24px auto; display: block;\">\n\n                    <div style=\"color: #ffffff; font-size: 1.05rem; line-height: 1.75; text-align: center; margin-bottom: 30px; max-width: 900px; margin-left: auto; margin-right: auto;\">\n                        <p style=\"margin-bottom: 16px; font-weight: 700; color: #8A2BE2; text-transform: uppercase; text-decoration: underline;\">Po szkole emocje czasem wysypują się razem z zawartością plecaka.</p>\n                        <p style=\"margin-bottom: 16px; font-weight:700; color:#5eeff3;\">Wybuchy, nuda, „nie chce mi się” i drobne sprawy, które nagle robią się ogromne.</p>\n                        <p style=\"margin-bottom: 16px;\">Gdy czasu jest mało, trudno znaleźć chwilę na długą rozmowę. Dlatego ta przygoda zaczyna się od krótkiej misji.</p>\n                        <p style=\"margin-bottom: 16px;\"><span style=\"color: #5eeff3; font-weight: 700; text-decoration: underline;\">Poradnik codzienności w świecie opowieści i gry</span></p>\n                        <p style=\"margin-bottom: 16px;\">Happy Makers zapraszają do historii o zmutowanych mrówkach, niewidzialnym atramencie i emocjonalnych wulkanach.<br>Pod przygodą kryją się znajome rodzinne sytuacje.</p>\n                        <p style=\"margin-bottom: 16px;\"><span style=\"color: #8A2BE2; font-weight: 700; text-decoration: underline;\">Pięciominutowa misja: historia, krótki kod i próba w życiu</span></p>\n                        <p style=\"margin-bottom: 16px;\">Nie trzeba przerabiać całego tematu naraz.<br>Wystarczy wspólna lektura, 2 minuty rozmowy i jeden pomysł do wypróbowania.<br>Każdy poziom zostawia miejsce na wasze własne odpowiedzi.</p>\n\n                        <p style=\"margin-bottom: 14px; color: #5eeff3; font-weight: 700; text-decoration: underline;\">Jak przejść misję?</p>\n                        <ul class=\"book-detail-bullets book-detail-bullets--purple\">\n                            <li style=\"margin-bottom: 10px;\"><span style=\"font-weight:700; color:#5eeff3;\">1. Przeczytajcie przygodę</span> i zobaczcie, co przydarzyło się rodzinie Happy Makers.</li>\n                            <li style=\"margin-bottom: 10px;\"><span style=\"font-weight:700; color:#5eeff3;\">2. Otwórzcie Neuro-Coaching Console</span> z krótkim kodem oraz prostymi wyjaśnieniami neuronów lustrzanych, ciała migdałowatego i błędów mózgu. Poświęćcie 2 minuty na rozmowę.</li>\n                            <li><span style=\"font-weight:700; color:#5eeff3;\">3. Zastosujcie pomysł</span> w jednej zwyczajnej sytuacji.</li>\n                        </ul>\n                        <ul class=\"book-detail-bullets book-detail-bullets--purple book-detail-bullets--level-up\">\n                            <li style=\"margin-bottom: 8px;\">Co można tu poćwiczyć?</li>\n                            <li style=\"margin-bottom: 8px;\">Zauważanie emocji po całym dniu szkolnej samokontroli.</li>\n                            <li style=\"margin-bottom: 8px;\">Sposoby na wybuchy złości i szukanie uspokojenia.</li>\n                            <li style=\"margin-bottom: 8px;\">Ciekawość, gdy pojawia się nuda i trudno znaleźć motywację.</li>\n                            <li style=\"margin-bottom: 8px;\">Podejście do odkładania zadań i wyczerpania.</li>\n                            <li style=\"margin-bottom: 8px;\">Przyjaźń i małe gesty, które ją budują.</li>\n                            <li style=\"margin-bottom: 8px;\">Higienę i codzienne dbanie o siebie.</li>\n                            <li>Myślenie, że czegoś nie umiem jeszcze, zamiast że nie umiem wcale.</li>\n                        </ul>\n\n                        <p style=\"margin-bottom: 14px; color: #5eeff3; font-weight: 700; text-decoration: underline;\">Drużyna gotowa do przygody</p>\n                        <ul class=\"book-detail-bullets book-detail-bullets--purple book-detail-bullets--icons-only\">\n                            <li style=\"margin-bottom: 8px;\">Nini ma 5 lat i przypomina emocjonalny wulkan brokatu.</li>\n                            <li style=\"margin-bottom: 8px;\">Alio zakłada durszlak, który ma chronić jego myśli.</li>\n                            <li style=\"margin-bottom: 8px;\">Dilo uważa obowiązki za wyjątkowo kiepskie zadania poboczne.</li>\n                            <li style=\"margin-bottom: 8px;\">Luli znajduje w książkach portale do innych światów.</li>\n                            <li>Mimi szuka telefonu, świecąc jego własną latarką.</li>\n                        </ul>\n\n                        <p style=\"margin-bottom: 14px; color: #5eeff3; font-weight: 700; text-decoration: underline;\">Poziomy 1–10</p>\n                        <ul class=\"book-detail-bullets book-detail-bullets--purple book-detail-bullets--controller\">\n                            <li style=\"margin-bottom: 7px;\">1. Powrót ze szkoły: emocje po całym dniu i szukanie równowagi.</li>\n                            <li style=\"margin-bottom: 7px;\">2. Lodowa tragedia: empatia i neurony lustrzane.</li>\n                            <li style=\"margin-bottom: 7px;\">3. Niewidzialne punkty doświadczenia: błędy jako okazja do nauki.</li>\n                            <li style=\"margin-bottom: 7px;\">4. Znudzony szpieg: ciekawość pomaga szukać nowego tropu.</li>\n                            <li style=\"margin-bottom: 7px;\">5. Jaszczurka w salonie: złość i budzenie czarodzieja.</li>\n                            <li style=\"margin-bottom: 7px;\">6. Hałas budowy: słowo „jeszcze” i otwartość na rozwój.</li>\n                            <li style=\"margin-bottom: 7px;\">7. Bankrutująca roślina: przyjaźń potrzebuje małych wpłat.</li>\n                            <li style=\"margin-bottom: 7px;\">8. Zabłocone Ferrari: dbanie o siebie i własne potrzeby.</li>\n                            <li style=\"margin-bottom: 7px;\">9. Forteca brokułu: paliwo, cegły i codzienna energia.</li>\n                            <li>10. Wampir energii: wyczerpanie i próba zrobienia trudnego zadania najpierw.</li>\n                        </ul>\n\n                        <p style=\"margin-bottom: 14px; color: #5eeff3; font-weight: 700; text-decoration: underline;\">Dlaczego w formie opowieści?</p>\n                        <ul class=\"book-detail-bullets book-detail-bullets--purple\">\n                            <li style=\"margin-bottom: 7px;\">Humor pomaga zacząć rozmowę o rzeczach, o których czasem trudno mówić wprost.</li>\n                            <li style=\"margin-bottom: 7px;\">Krótkie misje mieszczą się w dniu, w którym dzieje się już bardzo dużo.</li>\n                            <li style=\"margin-bottom: 7px;\">Język gry i czarno-biała grafika tworzą wspólny świat przygody.</li>\n                            <li>Pomysły z książki można wypróbować i sprawdzić, co pasuje do waszej rodziny.</li>\n                        </ul>\n\n                        <p style=\"margin-bottom: 10px; font-weight: 700; color: #8A2BE2; text-decoration: underline;\">Zacznijcie od jednej historii. Reszta rozmowy może potoczyć się po swojemu.</p>\n                        <p style=\"margin-bottom: 10px; font-weight: 700; color: #5eeff3;\">Mały krok dzisiaj może stać się początkiem kolejnych prób.</p>\n                        <p style=\"margin-bottom: 0; font-weight: 700; color: #5eeff3;\">Wejdźcie na pierwszy poziom razem.</p>\n                    </div>\n\n                    <div style=\"text-align: center; margin-top: 30px;\">\n                        <button onclick=\"window.open('https://www.amazon.com/Level-Up-Your-Brain-Understand/dp/B0GQ4B7VQQ/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1772309140&sr=1-2', '_blank', 'noopener,noreferrer')\" style=\"\n                            background: linear-gradient(45deg, #8A2BE2, #9932CC);\n                            border: 3px solid #5eeff3;\n                            border-radius: 25px;\n                            padding: 18px 36px;\n                            color: #ffffff;\n                            font-size: clamp(0.78rem, 3.8vw, 1.05rem);\n                            font-weight: bold;\n                            white-space: nowrap;\n                            cursor: pointer;\n                            box-shadow: 0 0 30px rgba(138, 43, 226, 0.6);\n                            letter-spacing: 0.5px;\n                            transition: all 0.3s ease;\n                        \">\n                            Zobacz książkę na Amazon\n                        </button>\n                    </div>\n                ",
+      "protected": false,
+      "protected_tokens": [
+        "<div style=\"text-align: center; margin-bottom: 18px;\">",
+        "<span style=\"color: #8A2BE2; font-weight: bold; font-size: 1.6rem; text-shadow: 0 0 20px rgba(138, 43, 226, 0.8); text-decoration: underline;\">",
+        "</span>",
+        "</div>",
+        "<h2 style=\"color: #5eeff3; font-size: 2.4rem; margin-bottom: 15px; text-shadow: 0 0 30px rgba(94, 239, 243, 0.8); text-align: center; text-decoration: underline;\">",
+        "</h2>",
+        "<img src=\"assets/images/10 stories cover.jpg\" data-cover-base=\"10 stories cover\" alt=\"Level Up Your Brain World 01 cover\" style=\"width: 240px; height: auto; border-radius: 16px; border: 2px solid #5eeff3; box-shadow: 0 0 22px rgba(94,239,243,0.35); margin: 0 auto 24px auto; display: block;\">",
+        "<div style=\"color: #ffffff; font-size: 1.05rem; line-height: 1.75; text-align: center; margin-bottom: 30px; max-width: 900px; margin-left: auto; margin-right: auto;\">",
+        "<p style=\"margin-bottom: 16px; font-weight: 700; color: #8A2BE2; text-transform: uppercase; text-decoration: underline;\">",
+        "</p>",
+        "<p style=\"margin-bottom: 16px; font-weight:700; color:#5eeff3;\">",
+        "<p style=\"margin-bottom: 16px;\">",
+        "<span style=\"color: #5eeff3; font-weight: 700; text-decoration: underline;\">",
+        "<br>",
+        "<span style=\"color: #8A2BE2; font-weight: 700; text-decoration: underline;\">",
+        "<p style=\"margin-bottom: 14px; color: #5eeff3; font-weight: 700; text-decoration: underline;\">",
+        "<ul class=\"book-detail-bullets book-detail-bullets--purple\">",
+        "<li style=\"margin-bottom: 10px;\">",
+        "<span style=\"font-weight:700; color:#5eeff3;\">",
+        "</li>",
+        "<li>",
+        "</ul>",
+        "<ul class=\"book-detail-bullets book-detail-bullets--purple book-detail-bullets--level-up\">",
+        "<li style=\"margin-bottom: 8px;\">",
+        "<ul class=\"book-detail-bullets book-detail-bullets--purple book-detail-bullets--icons-only\">",
+        "<ul class=\"book-detail-bullets book-detail-bullets--purple book-detail-bullets--controller\">",
+        "<li style=\"margin-bottom: 7px;\">",
+        "<p style=\"margin-bottom: 10px; font-weight: 700; color: #8A2BE2; text-decoration: underline;\">",
+        "<p style=\"margin-bottom: 10px; font-weight: 700; color: #5eeff3;\">",
+        "<p style=\"margin-bottom: 0; font-weight: 700; color: #5eeff3;\">",
+        "<div style=\"text-align: center; margin-top: 30px;\">",
+        "<button onclick=\"window.open('https://www.amazon.com/Level-Up-Your-Brain-Understand/dp/B0GQ4B7VQQ/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1772309140&sr=1-2', '_blank', 'noopener,noreferrer')\" style=\"\n                            background: linear-gradient(45deg, #8A2BE2, #9932CC);\n                            border: 3px solid #5eeff3;\n                            border-radius: 25px;\n                            padding: 18px 36px;\n                            color: #ffffff;\n                            font-size: clamp(0.78rem, 3.8vw, 1.05rem);\n                            font-weight: bold;\n                            white-space: nowrap;\n                            cursor: pointer;\n                            box-shadow: 0 0 30px rgba(138, 43, 226, 0.6);\n                            letter-spacing: 0.5px;\n                            transition: all 0.3s ease;\n                        \">",
+        "</button>"
+      ]
+    },
+    {
+      "id": "dynamic.0394",
+      "text": "<div class=\"rse-launch\"><h2>ŚWIĘTA SĄ TEŻ PO DRODZE</h2><p>Książka w przygotowaniu. Treść i okładka powstają, a publikacja i dostępność nie są jeszcze potwierdzone.</p><p><a href=\"/library/christmas-book/\">Zobacz podgląd angielskiej książki</a> · <a href=\"/apps/gentle-steps/\">Poznaj osobną aplikację Gentle Steps na Androida</a></p></div>",
+      "protected": false,
+      "protected_tokens": [
+        "<div class=\"rse-launch\">",
+        "<h2>",
+        "</h2>",
+        "<p>",
+        "</p>",
+        "<a href=\"/library/christmas-book/\">",
+        "</a>",
+        "<a href=\"/apps/gentle-steps/\">",
+        "</div>"
+      ]
+    },
+    {
+      "id": "dynamic.0395",
+      "text": "<div class=\"rse-launch\"><h2>Babcia Bibi zaprasza do tworzenia</h2><p>Rodzinny projekt z kreatywnością i kolorowaniem. Publikacja, dostępność w sklepach i ostateczny czas trwania aktywności nie są jeszcze potwierdzone.</p><p><a href=\"/library/grandma-book/\">Zobacz aktualny opis projektu</a></p></div>",
+      "protected": false,
+      "protected_tokens": [
+        "<div class=\"rse-launch\">",
+        "<h2>",
+        "</h2>",
+        "<p>",
+        "</p>",
+        "<a href=\"/library/grandma-book/\">",
+        "</a>",
+        "</div>"
+      ]
+    },
+    {
+      "id": "dynamic.0396",
+      "text": "giftsRequested",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0397",
+      "text": "true",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0398",
+      "text": "#gifts",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0399",
+      "text": "signup",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0400",
+      "text": "Wpisz poprawny adres e-mail.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0401",
+      "text": "Trwa wypisywanie…",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0402",
+      "text": "string",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0403",
+      "text": "Wypisanie jest chwilowo niedostępne. Skontaktuj się z pomocą.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0404",
+      "text": "Nie znaleziono tego adresu e-mail w bazie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0405",
+      "text": "Nie udało się wypisać z listy.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0406",
+      "text": "Otwórz wiadomość w swojej skrzynce i potwierdź usunięcie konta.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0407",
+      "text": "Wypisanie jest chwilowo niedostępne. Spróbuj ponownie później.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0408",
+      "text": "DOMContentLoaded",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0409",
+      "text": "focusin",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0410",
+      "text": "input",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0411",
+      "text": "submit",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0412",
+      "text": "\n                <h3 style=\"color: #ffd700; margin-bottom: 15px;\">Wypisanie potwierdzone</h3>\n                <p style=\"margin-bottom: 20px;\">Twój dostęp został odebrany. Po potwierdzeniu zamkniemy to okno i wrócimy do głównej zakładki.</p>\n                <button onclick=\"this.parentElement.remove(); selectTab(document.querySelector('.tab'), 'main');\" style=\"\n                    background: #8A2BE2;\n                    border: none;\n                    border-radius: 15px;\n                    padding: 10px 20px;\n                    color: #ffffff;\n                    font-weight: bold;\n                    cursor: pointer;\n                \">Rozumiem</button>\n            ",
+      "protected": false,
+      "protected_tokens": [
+        "<h3 style=\"color: #ffd700; margin-bottom: 15px;\">",
+        "</h3>",
+        "<p style=\"margin-bottom: 20px;\">",
+        "</p>",
+        "<button onclick=\"this.parentElement.remove(); selectTab(document.querySelector('.tab'), 'main');\" style=\"\n                    background: #8A2BE2;\n                    border: none;\n                    border-radius: 15px;\n                    padding: 10px 20px;\n                    color: #ffffff;\n                    font-weight: bold;\n                    cursor: pointer;\n                \">",
+        "</button>"
+      ]
+    },
+    {
+      "id": "dynamic.0413",
+      "text": "Przeglądarka zablokowała wyskakujące okno.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0414",
+      "text": "<div style=\"width:100%;padding:12px 8px;\">Ładowanie darmowych materiałów…</div>",
+      "protected": false,
+      "protected_tokens": [
+        "<div style=\"width:100%;padding:12px 8px;\">",
+        "</div>"
+      ]
+    },
+    {
+      "id": "dynamic.0415",
+      "text": "<div style=\"width:100%;padding:12px 8px;\">Ładowanie Word Search Studio…</div>",
+      "protected": false,
+      "protected_tokens": [
+        "<div style=\"width:100%;padding:12px 8px;\">",
+        "</div>"
+      ]
+    },
+    {
+      "id": "dynamic.0416",
+      "text": "flex",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0417",
+      "text": "show",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0418",
+      "text": "Te warunki dotyczą korzystania z witryny i materiałów edukacyjnych Rise.Shine.Evolve. Happy Me Adventures jest zapowiedziane w Google Play.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0419",
+      "text": "<p><strong>Data obowiązywania:</strong> 1 stycznia 2025 r.</p>\n            <h4>1. Jakie dane zbieramy</h4>\n            <p>Gdy zapisujesz się do newslettera naszej społeczności, zbieramy bezpośrednio od ciebie następujące dane:</p>\n            <ul>\n              <li>Imię.</li>\n              <li>Adres e-mail.</li>\n              <li>Preferencje dotyczące kontaktu.</li>\n            </ul>\n            <h4>2. W jakim celu wykorzystujemy dane</h4>\n            <p>Wykorzystujemy dane w następujących celach:</p>\n            <ul>\n              <li>Przesyłanie materiałów edukacyjnych i newslettera.</li>\n              <li>Zapewnienie dostępu do bezpłatnych zasobów.</li>\n              <li>Informowanie o usługach i premierach.</li>\n              <li>Ulepszanie naszych treści.</li>\n              <li>Wypełnianie obowiązków prawnych.</li>\n            </ul>\n            <h4>3. Udostępnianie danych</h4>\n            <p>Nie sprzedajemy danych osobowych, nie handlujemy nimi ani nie przekazujemy ich innym podmiotom bez zgody, z wyjątkiem przypadków opisanych w tej polityce lub wymaganych przez prawo.</p>\n            <h4>4. Bezpieczeństwo danych</h4>\n            <p>Stosujemy środki mające chronić dane przed nieuprawnionym dostępem, zmianą, ujawnieniem i zniszczeniem. Hasła są szyfrowane i bezpiecznie przechowywane.</p>\n            <h4>5. Twoje prawa</h4>\n            <p>W związku z przetwarzaniem danych przysługują ci następujące prawa:</p>\n            <ul>\n              <li><strong>Prawo dostępu</strong> na podstawie art. 15 RODO: możesz uzyskać dostęp do swoich danych osobowych.</li>\n              <li><strong>Prawo do sprostowania</strong> na podstawie art. 16 RODO: możesz żądać poprawienia nieprawidłowych lub uzupełnienia niekompletnych danych.</li>\n              <li><strong>Prawo do usunięcia</strong> na podstawie art. 17 RODO: możesz żądać usunięcia danych.</li>\n              <li><strong>Prawo do ograniczenia przetwarzania</strong> na podstawie art. 18 RODO: możesz żądać ograniczenia przetwarzania danych.</li>\n              <li><strong>Prawo do przenoszenia danych</strong> na podstawie art. 20 RODO: możesz otrzymać swoje dane w ustrukturyzowanym formacie i żądać ich przeniesienia.</li>\n              <li><strong>Prawo sprzeciwu</strong> na podstawie art. 21 RODO: możesz sprzeciwić się przetwarzaniu danych.</li>\n              <li><strong>Prawo wycofania zgody</strong> możesz w dowolnej chwili wycofać zgodę i wypisać się z newslettera.</li>\n              <li><strong>Prawo wniesienia skargi</strong> możesz złożyć skargę do Urzędu Ochrony Danych Osobowych.</li>\n            </ul>\n            <h4>6. Podstawy prawne przetwarzania</h4>\n            <p>Przetwarzamy dane na następujących podstawach:</p>\n            <ul>\n              <li><strong>Zgoda, art. 6 ust. 1 lit. a RODO</strong> w przypadku newslettera i dostępu do społeczności.</li>\n              <li><strong>Prawnie uzasadniony interes, art. 6 ust. 1 lit. f RODO</strong> w celu poprawy usług i rozwoju treści.</li>\n            </ul>\n            <h4>7. Okres przechowywania danych</h4>\n            <p>Przechowujemy dane nie dłużej, niż jest to potrzebne do realizacji celu lub wymagane przez prawo. Dane newslettera przechowujemy do czasu wypisania się z niego.</p>\n            <h4>8. Przekazywanie danych do innych państw</h4>\n            <p>Dane mogą być przekazywane do państw innych niż twoje państwo i tam przetwarzane. W takich przypadkach zapewniamy zabezpieczenia zgodne z rozdziałem V RODO.</p>\n            <h4>9. Kontakt i inspektor ochrony danych</h4>\n            <p>W sprawach danych osobowych skontaktuj się z nami: <a href=\"mailto:rise.shine.evolve@gmail.com\">rise.shine.evolve@gmail.com</a></p>\n            <p>Informacje Urzędu Ochrony Danych Osobowych: <a href=\"https://uodo.gov.pl\" target=\"_blank\" rel=\"noopener noreferrer\">https://uodo.gov.pl</a></p>\n            <p>Niniejsza polityka jest zgodna z GDPR (UE), RODO (Polska) i CCPA (Kalifornia).</p>\n            <p>Rise.Shine.Evolve</p>",
+      "protected": false,
+      "protected_tokens": [
+        "<p>",
+        "<strong>",
+        "</strong>",
+        "</p>",
+        "<h4>",
+        "</h4>",
+        "<ul>",
+        "<li>",
+        "</li>",
+        "</ul>",
+        "<a href=\"mailto:rise.shine.evolve@gmail.com\">",
+        "</a>",
+        "<a href=\"https://uodo.gov.pl\" target=\"_blank\" rel=\"noopener noreferrer\">"
+      ]
+    },
+    {
+      "id": "dynamic.0420",
+      "text": "Happy Me Adventures jest zapowiedziane w Google Play. Właściwe zasady sklepu dołączymy, gdy aplikacja będzie dostępna.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0421",
+      "text": "open",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0422",
+      "text": "aria-hidden",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0423",
+      "text": "false",
+      "protected": true,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0424",
+      "text": "Project Unstoppable jest zapowiedziane w Google Play. Warunki udostępnimy wraz z dostępną aplikacją.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0425",
+      "text": "Project Unstoppable jest zapowiedziane w Google Play. Właściwe zasady sklepu dołączymy, gdy aplikacja będzie dostępna.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0426",
+      "text": "W grudniu plecaki, papier do pakowania i pilne „na jutro!” potrafią zająć cały dzień. Tu plan jest celowo mały: 10 minut, żeby pobyć rodziną, zamiast wyłącznie zespołem od logistyki.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0427",
+      "text": "Odliczajcie do świąt, bawiąc się w zwyczajne dni.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0428",
+      "text": "ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0429",
+      "text": "Krótka pauza, wspólna zabawa i okazja do rozmowy. A potem pomysł do wypróbowania jutro, żeby coś z tej chwili zostało z wami na kolejny dzień.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0430",
+      "text": "Bez przygotowań",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0431",
+      "text": "Nie trzeba szykować prac plastycznych ani kupować materiałów. Do zabawy wystarczą już 2 osoby.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0432",
+      "text": "Chodzi o to, żeby naprawdę być razem w grudniu. Perfekcja nie jest warunkiem udziału.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0433",
+      "text": "W przygotowaniu. Zamówienia nie są jeszcze dostępne.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0434",
+      "text": "W przygotowaniu. Plik do pobrania nie jest jeszcze dostępny.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0435",
+      "text": "Kolorowanie z drugim dnem",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0436",
+      "text": "Spójrz jeszcze raz. Co się tam ukryło?",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0437",
+      "text": "Zwierzę wtapia się w otoczenie. Mocne czarne linie, otwarte białe pola i geometryczny rytm tworzą niecodzienną przygodę z kolorowaniem.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0438",
+      "text": "20 ilustracji",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0439",
+      "text": "Starannie opracowywany zestaw ilustracji zwierząt.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0440",
+      "text": "Anatomia spotyka iluzję",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0441",
+      "text": "Wzory przechodzą przez sylwetkę zwierzęcia i płynnie łączą ją z tłem.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0442",
+      "text": "Miejsce na twój kolor",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0443",
+      "text": "Duże, wyraźne kształty zostawiają swobodę. Bez tłoku drobnych pól z numerami.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0444",
+      "text": "Ostateczny wybór ilustracji i szczegóły publikacji są jeszcze w przygotowaniu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0445",
+      "text": "Niemożliwe perspektywy",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0446",
+      "text": "Tutaj przestrzeń lubi zaskakiwać.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0447",
+      "text": "Niemożliwe pokoje, nieoczekiwane kąty, odbicia i czarno-białe wzory. Oprócz potworów czeka tu także tajemnica.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0448",
+      "text": "Głębia, która myli wzrok",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0449",
+      "text": "Mocna geometria, spirale, odbicia i niezwykłe punkty widzenia.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0450",
+      "text": "Halloweenowi bohaterowie",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0451",
+      "text": "W planowanej serii pojawią się różne postacie i scenerie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0452",
+      "text": "Przestrzeń na kolor",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0453",
+      "text": "Czarna, graficzna kreska i duże otwarte pola czekają na własne kolory.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0454",
+      "text": "Ilustracje i wydanie drukowane są jeszcze w przygotowaniu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0455",
+      "text": "Babcia Bibi ma plan. A jej plany rzadko są całkiem przewidywalne.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0456",
+      "text": "Pomysły i wspólne aktywności z charakterem Bibi: rodzinna wyobraźnia, trochę twórczości i drobne psoty.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0457",
+      "text": "Rodzinny projekt",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0458",
+      "text": "Twórcze pomysły i zabawa, w którą wchodzicie razem.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0459",
+      "text": "Pomysł nabiera kształtu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0460",
+      "text": "Aktywności twórcze są w opracowaniu. Szczegóły ostatecznego wydania nie zostały jeszcze potwierdzone.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0461",
+      "text": "Na razie pokazujemy projekt. Format i miejsce publikacji podamy po ich potwierdzeniu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0462",
+      "text": "Szczegóły publikacji niepotwierdzone",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0463",
+      "text": "Misje dla nastolatków",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0464",
+      "text": "Mniej motywacyjnego gadania. Więcej misji, które mogą się przydać.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0465",
+      "text": "Powstaje interaktywna aplikacja na Androida dla nastolatków, o skupieniu, rutynach i samodzielnych codziennych wyborach.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0466",
+      "text": "Skupienie, nawyki i praktyczne wyzwania",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0467",
+      "text": "Najpierw Android",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0468",
+      "text": "Aplikacja na Androida jest nadal w opracowaniu. Nie ma jeszcze strony w Google Play.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0469",
+      "text": "Przed premierą nie obiecujemy płatnego dostępu, daty wydania ani dostępności w sklepie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0470",
+      "text": "Małe misje, wielkie emocje i kolejne kroki przez zabawę.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0471",
+      "text": "Happy Makers zapraszają dzieci do zauważania uczuć, ćwiczenia pewności siebie i krótkich rodzinnych chwil.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0472",
+      "text": "Wielkie emocje",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0473",
+      "text": "Zauważ emocję, nazwij sytuację i sprawdź, jak inaczej można zareagować.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0474",
+      "text": "Mała codzienna odwaga",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0475",
+      "text": "Krótkie, wykonalne pomysły pomagają ćwiczyć pewność siebie w codziennych sytuacjach.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0476",
+      "text": "Razem jako rodzina",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0477",
+      "text": "Zwykłe chwile stają się okazją do rozmowy, zabawy i wspólnego uczenia się.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0478",
+      "text": "Codzienna odwaga może rosnąć dzięki rozmowom, małym próbom i czasowi spędzanemu razem.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0479",
+      "text": "Książka opublikowana",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0480",
+      "text": "Dostępna na Amazon",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0481",
+      "text": "Czy to zbiór opowiadań?",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0482",
+      "text": "To prowadzona przygoda na 31 dni, z codziennymi zachętami do ćwiczenia pewności siebie, uważności i otwartości na rozwój.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0483",
+      "text": "Ile czasu potrzeba każdego dnia?",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0484",
+      "text": "Kilka minut. Większość rodzin czyta jedną stronę dziennie i wybiera jedno małe działanie do przećwiczenia.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0485",
+      "text": "Zwykłe chwile też mogą być prawdziwą przygodą.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0486",
+      "text": "10 zabawnych opowiadań z Happy Makers o emocjach po szkole, przyjaźni, błędach i nowych początkach. Przeczytajcie wspólnie jedną historię, a potem porozmawiajcie o jednym małym pomyśle na przyszłość.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0487",
+      "text": "10 poziomów opowieści",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0488",
+      "text": "Krótkie, zabawne historie o codziennych emocjach.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0489",
+      "text": "Uczucia i przyjaźń",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0490",
+      "text": "Zauważaj własne reakcje, słuchaj innych i próbuj odpowiadać inaczej.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0491",
+      "text": "Rodzinny czas bez ekranów",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0492",
+      "text": "Opublikowana książka drukowana po angielsku do wspólnego czytania i rozmów.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0493",
+      "text": "Angielska książka drukowana jest opublikowana. Bieżące wydania, cenę, dostępność i dostawę sprawdzisz na Amazon. Aplikacja nie została jeszcze wydana.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0494",
+      "text": "Interaktywna aplikacja",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0495",
+      "text": "Planowana. Jeszcze niewydana i niedostępna do pobrania.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0496",
+      "text": "Ile trwa jedna historia?",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0497",
+      "text": "Przeczytajcie krótki poziom, zajrzyjcie do krótkiej części Neuro-Coaching Console i poświęćcie kilka minut na rozmowę.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0498",
+      "text": "Zeszyt ćwiczeń czy zbiór opowiadań?",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0499",
+      "text": "To zabawne opowiadania. Każdy poziom zawiera proste wyjaśnienie działania mózgu i praktyczny kod do wypróbowania od razu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0500",
+      "text": "Jakie umiejętności poznajemy w World 01?",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0501",
+      "text": "World 01 porusza emocje po szkole, empatię, błędy, ciekawość zamiast nudy, sposoby radzenia sobie ze złością, rozwój, przyjaźń, dbanie o siebie i podstawy codziennej energii.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0502",
+      "text": "Nawyki zaczynają się od ciekawego pytania.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0503",
+      "text": "10 nowych historii Level Up Your Brain o ekranach, rutynach, współpracy i przemyślanych wyborach. Rozmowa ma wciągać, zamiast zamieniać się w pracę domową.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0504",
+      "text": "Zabawne historie o nawykach, rutynach i skupieniu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0505",
+      "text": "Ekrany i równowaga",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0506",
+      "text": "Przyjrzyjcie się swoim nawykom przy ekranach i zróbcie miejsce na inne zajęcia.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0507",
+      "text": "O czym jest World 02?",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0508",
+      "text": "World 02 to dalsze ćwiczenia dla współczesnej rodziny: ekrany, rutyny, nawyki, słuchanie, współpraca i krytyczne myślenie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0509",
+      "text": "Czy potrzeba na to dużo czasu?",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0510",
+      "text": "Niewiele: jeden krótki poziom, Neuro-Coaching Console i jeden prosty kod do wypróbowania w życiu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0511",
+      "text": "Czy są tu sposoby na czas przed ekranem?",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0512",
+      "text": "Tak. Są poziomy o równowadze w korzystaniu z ekranów i o tym, co książka nazywa „dopaminowym wypaleniem”, przedstawione w sposób zrozumiały dla dzieci.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0513",
+      "text": "Czarna koperta. Znak 0. Zaproszenie do śledztwa z Happy Makers. Mapy, wskazówki, szyfry i dedukcja prowadzą przez sprawy, które łączą się w coraz większą tajemnicę.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0514",
+      "text": "Jedna zagadka, wiele tropów",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0515",
+      "text": "30 połączonych akt sprawy, powracające dowody i jedna tajemnica rozwijająca się przez całą książkę.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0516",
+      "text": "Naprawdę jesteś detektywem",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0517",
+      "text": "Wybierz kryptonim, otwieraj kolejne akta i pracuj na swój status detektywa.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0518",
+      "text": "Skarbiec podpowiedzi",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0519",
+      "text": "Trudna wskazówka? Trzy poziomy pomocy naprowadzają na trop, zamiast od razu zdradzać pełne rozwiązanie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0520",
+      "text": "Wskazówki czekają. Książka drukowana jest jeszcze w przygotowaniu.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0521",
+      "text": "Zapowiedź. Zamówienia nie są jeszcze dostępne.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0522",
+      "text": "\n        <article class=\"{js_expr_1}\">\n          <div class=\"hm-result-card-header\">\n            <div class=\"hm-pill-row\">\n              <div class=\"hm-pill\">{js_expr_2}</div>\n              <div class=\"hm-pill hm-pill-character\">Towarzyszy ci: {js_expr_3}</div>\n            </div>\n          </div>\n          <div class=\"hm-result-title-row\">\n            <h2 class=\"hm-result-title\">{js_expr_4}</h2>\n            <div class=\"{js_expr_5}\">\n              <video class=\"hm-result-video\" id=\"{js_expr_6}\" autoplay muted loop playsinline></video>\n              <div class=\"hm-result-fallback\" id=\"{js_expr_7}\" aria-hidden=\"true\">{js_expr_8}</div>\n            </div>\n          </div>\n          <div class=\"hm-result-type\">Małe ćwiczenie dla rodziny</div>\n          <p class=\"hm-result-instruction\">{js_expr_9}</p>\n          <div class=\"hm-result-comment\">\n            <div class=\"hm-result-comment-signer\">{js_expr_10}</div>\n            <div class=\"hm-result-comment-quote\">{js_expr_11}</div>\n          </div>\n        </article>\n      ",
+      "protected": false,
+      "protected_tokens": [
+        "{js_expr_1}",
+        "{js_expr_2}",
+        "{js_expr_3}",
+        "{js_expr_4}",
+        "{js_expr_5}",
+        "{js_expr_6}",
+        "{js_expr_7}",
+        "{js_expr_8}",
+        "{js_expr_9}",
+        "{js_expr_10}",
+        "{js_expr_11}",
+        "<article class=\"{js_expr_1}\">",
+        "<div class=\"hm-result-card-header\">",
+        "<div class=\"hm-pill-row\">",
+        "<div class=\"hm-pill\">",
+        "</div>",
+        "<div class=\"hm-pill hm-pill-character\">",
+        "<div class=\"hm-result-title-row\">",
+        "<h2 class=\"hm-result-title\">",
+        "</h2>",
+        "<div class=\"{js_expr_5}\">",
+        "<video class=\"hm-result-video\" id=\"{js_expr_6}\" autoplay muted loop playsinline>",
+        "</video>",
+        "<div class=\"hm-result-fallback\" id=\"{js_expr_7}\" aria-hidden=\"true\">",
+        "<div class=\"hm-result-type\">",
+        "<p class=\"hm-result-instruction\">",
+        "</p>",
+        "<div class=\"hm-result-comment\">",
+        "<div class=\"hm-result-comment-signer\">",
+        "<div class=\"hm-result-comment-quote\">",
+        "</article>"
+      ]
+    },
+    {
+      "id": "dynamic.0523",
+      "text": "Koło energii się kręci! Kliknij jeszcze raz, by je zatrzymać i odkryć następny pomysł na rozruszanie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0524",
+      "text": "Koło spokoju się kręci! Kliknij jeszcze raz, by je zatrzymać i odkryć ćwiczenie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0525",
+      "text": "Filtr zmieniony. Zakręć kołem energii po kolejny wynik.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0526",
+      "text": "Filtr zmieniony. Zakręć kołem spokoju po kolejne ćwiczenie.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0527",
+      "text": "Towarzyszy ci: <strong>{js_expr_1}</strong>",
+      "protected": false,
+      "protected_tokens": [
+        "{js_expr_1}",
+        "<strong>",
+        "</strong>"
+      ]
+    },
+    {
+      "id": "dynamic.0528",
+      "text": "Znalezione słowa: {js_expr_1} / {js_expr_2}",
+      "protected": false,
+      "protected_tokens": [
+        "{js_expr_1}",
+        "{js_expr_2}"
+      ]
+    },
+    {
+      "id": "dynamic.0529",
+      "text": "Wykreślanka {js_expr_1} ukończona!",
+      "protected": false,
+      "protected_tokens": [
+        "{js_expr_1}"
+      ]
+    },
+    {
+      "id": "dynamic.0530",
+      "text": "Konto: {js_expr_1}",
+      "protected": false,
+      "protected_tokens": [
+        "{js_expr_1}"
+      ]
+    },
+    {
+      "id": "dynamic.0531",
+      "text": "✅ Pobrano: {js_expr_1}",
+      "protected": false,
+      "protected_tokens": [
+        "{js_expr_1}"
+      ]
+    },
+    {
+      "id": "dynamic.0532",
+      "text": "Otwórz Amazon ↗",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0533",
+      "text": "Otwórz Google Play ↗",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0534",
+      "text": "Otwórz App Store ↗",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0535",
+      "text": "Otwórz potwierdzoną stronę produktu w ",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0536",
+      "text": "Dostępne. Wybierz wydanie w ",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0537",
+      "text": "Zobacz pełny opis książki",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0538",
+      "text": "Wybierz format",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0539",
+      "text": "Książka i aplikacja to odrębne wydania. Każde ma własny status, a linki pojawiają się po potwierdzeniu premiery.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0540",
+      "text": "Wydanie książkowe",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0541",
+      "text": "Tu znajdziesz bieżący status publikacji. Link do sprzedawcy pojawi się, gdy wydanie będzie rzeczywiście dostępne.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0542",
+      "text": "Wydanie aplikacji",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0543",
+      "text": "Tu znajdziesz bieżący status prac i pobierania. Link do sklepu pojawi się po potwierdzeniu premiery.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0544",
+      "text": "Zamknij szczegóły produktu",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0545",
+      "text": "Książka &amp; aplikacja ↓",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0546",
+      "text": "Co znajdziesz w środku",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0547",
+      "text": "Dobrze wiedzieć",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0548",
+      "text": "Jedna historia. Wybierz swój format.",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0549",
+      "text": "Dostępne formaty",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0550",
+      "text": "Książka i aplikacja to odrębne wydania. ",
+      "protected": false,
+      "protected_tokens": []
+    },
+    {
+      "id": "dynamic.0551",
+      "text": "Każde wydanie ma własną dostępność. Link do zakupu pojawia się dopiero po publikacji.",
+      "protected": false,
+      "protected_tokens": []
+    }
+  ],
+  "format": "rse-language-candidate-v1",
+  "run_sha256": "40a2bc61100c0070d21ac4ddca16496358c47e2b736ef43a0bc1e5fda0a9d4c0",
+  "writer_packet_sha256": "ec1e7b0d670a57903c647b2a3366fe1ee114b7cdded57e51c9efab05c2d3e9d5"
+}

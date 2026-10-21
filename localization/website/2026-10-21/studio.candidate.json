@@ -1,0 +1,220 @@
+{
+  "format": "rse-language-candidate-v1",
+  "language": "pl",
+  "run_sha256": "0d12012d94584b2904ff1cd0bf8e88b42e4d95d69e93fb26cb7e8bc02bd26d05",
+  "segments": [
+    {
+      "id": "studio.0001",
+      "text": "Wykreślanka | Rise Shine Evolve"
+    },
+    {
+      "id": "studio.0002",
+      "text": "Wykreślanka"
+    },
+    {
+      "id": "studio.0003",
+      "text": "Znajdź wszystkie słowa ukryte wśród liter!"
+    },
+    {
+      "id": "studio.0004",
+      "text": "Wybierz słowa"
+    },
+    {
+      "id": "studio.0005",
+      "text": "Wybierz gotowy zestaw albo wpisz własne słowa."
+    },
+    {
+      "id": "studio.0006",
+      "text": "Wybierz zestaw…"
+    },
+    {
+      "id": "studio.0007",
+      "text": "Miesiące"
+    },
+    {
+      "id": "studio.0008",
+      "text": "Dni tygodnia"
+    },
+    {
+      "id": "studio.0009",
+      "text": "Liczby od 0 do 10"
+    },
+    {
+      "id": "studio.0010",
+      "text": "Liczby od 11 do 19"
+    },
+    {
+      "id": "studio.0011",
+      "text": "Dziesiątki od 20 do 90 i 100"
+    },
+    {
+      "id": "studio.0012",
+      "text": "Własne słowa"
+    },
+    {
+      "id": "studio.0013",
+      "text": "kot dom las słońce książka"
+    },
+    {
+      "id": "studio.0014",
+      "text": "💡 Wpisz od 5 do 12 słów, oddzielając je spacjami."
+    },
+    {
+      "id": "studio.0015",
+      "text": "Wybierz kształt"
+    },
+    {
+      "id": "studio.0016",
+      "text": "Kwadrat"
+    },
+    {
+      "id": "studio.0017",
+      "text": "Okrąg"
+    },
+    {
+      "id": "studio.0018",
+      "text": "Sześciokąt"
+    },
+    {
+      "id": "studio.0019",
+      "text": "Romb"
+    },
+    {
+      "id": "studio.0020",
+      "text": "Serce"
+    },
+    {
+      "id": "studio.0021",
+      "text": "Wybierz poziom trudności"
+    },
+    {
+      "id": "studio.0022",
+      "text": "Łatwy"
+    },
+    {
+      "id": "studio.0023",
+      "text": "Średni"
+    },
+    {
+      "id": "studio.0024",
+      "text": "Trudny"
+    },
+    {
+      "id": "studio.0025",
+      "text": "Utwórz wykreślankę"
+    },
+    {
+      "id": "studio.0026",
+      "text": "Zaznacz pierwszą literę słowa, a potem kolejno każdą następną, aż do ostatniej."
+    },
+    {
+      "id": "studio.0027",
+      "text": "Pokaż podpowiedź"
+    },
+    {
+      "id": "studio.0028",
+      "text": "Ukryj podpowiedź"
+    },
+    {
+      "id": "studio.0029",
+      "text": "Drukuj / zapisz jako PDF"
+    },
+    {
+      "id": "studio.0030",
+      "text": "Rozwiązanie do druku / PDF"
+    },
+    {
+      "id": "studio.0031",
+      "text": "Twoje postępy"
+    },
+    {
+      "id": "studio.0032",
+      "text": "Znalezione słowa:"
+    },
+    {
+      "id": "studio.0033",
+      "text": "Kształt:"
+    },
+    {
+      "id": "studio.0034",
+      "text": "Słowa do znalezienia"
+    },
+    {
+      "id": "studio.0035",
+      "text": "O wykreślance"
+    },
+    {
+      "id": "studio.0036",
+      "text": "Poziom trudności:"
+    },
+    {
+      "id": "studio.0037",
+      "text": "Autor: RISE.SHINE.EVOLVE."
+    },
+    {
+      "id": "studio.0038",
+      "text": "Wybierz gotowy zestaw albo wpisz własne słowa."
+    },
+    {
+      "id": "studio.0039",
+      "text": "Podaj od 5 do 12 słów, aby utworzyć wykreślankę w wybranym kształcie."
+    },
+    {
+      "id": "studio.0040",
+      "text": "Słowa mogą mieć najwyżej 16 liter."
+    },
+    {
+      "id": "studio.0041",
+      "text": "Nie udało się utworzyć wykreślanki. Spróbuj użyć mniejszej liczby słów lub krótszych słów."
+    },
+    {
+      "id": "studio.0042",
+      "text": "Brawo, wszystkie słowa znalezione!"
+    },
+    {
+      "id": "studio.0043",
+      "text": "Happy Makers nadają ci honorowy tytuł:"
+    },
+    {
+      "id": "studio.0044",
+      "text": "Mistrz tropienia słów!"
+    },
+    {
+      "id": "studio.0045",
+      "text": "Wykreślanka: rozwiązanie"
+    },
+    {
+      "id": "studio.0046",
+      "text": "Znajdź w powyższej siatce wszystkie słowa z listy. Mogą biec poziomo, pionowo lub po skosie, zależnie od poziomu trudności."
+    },
+    {
+      "id": "studio.0047",
+      "text": "Liczba słów:"
+    },
+    {
+      "id": "studio.0048",
+      "text": "Słowo"
+    },
+    {
+      "id": "studio.0049",
+      "text": "styczeń luty marzec kwiecień maj czerwiec lipiec sierpień wrzesień październik listopad grudzień"
+    },
+    {
+      "id": "studio.0050",
+      "text": "poniedziałek wtorek środa czwartek piątek sobota niedziela"
+    },
+    {
+      "id": "studio.0051",
+      "text": "zero jeden dwa trzy cztery pięć sześć siedem osiem dziewięć dziesięć"
+    },
+    {
+      "id": "studio.0052",
+      "text": "jedenaście dwanaście trzynaście czternaście piętnaście szesnaście siedemnaście osiemnaście dziewiętnaście"
+    },
+    {
+      "id": "studio.0053",
+      "text": "dwadzieścia trzydzieści czterdzieści pięćdziesiąt sześćdziesiąt siedemdziesiąt osiemdziesiąt dziewięćdziesiąt sto"
+    }
+  ],
+  "writer_packet_sha256": "5da2a5177bdc4cfe8ea2902fb99d1bb493d5baefe776c2718088bfd6b4b96ab6"
+}

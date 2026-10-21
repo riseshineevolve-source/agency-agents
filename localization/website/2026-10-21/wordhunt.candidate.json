@@ -1,0 +1,268 @@
+{
+  "format": "rse-language-candidate-v1",
+  "language": "pl",
+  "run_sha256": "26f09e637584a1adc209b68bd80df225f4733b2969512446d8d730684d79c01d",
+  "segments": [
+    {
+      "id": "wordhunt.0001",
+      "text": "Wykreślanka Happy Makers"
+    },
+    {
+      "id": "wordhunt.0002",
+      "text": "RISE"
+    },
+    {
+      "id": "wordhunt.0003",
+      "text": "SHINE"
+    },
+    {
+      "id": "wordhunt.0004",
+      "text": "EVOLVE"
+    },
+    {
+      "id": "wordhunt.0005",
+      "text": "ZŁOTO"
+    },
+    {
+      "id": "wordhunt.0006",
+      "text": "FIOLET"
+    },
+    {
+      "id": "wordhunt.0007",
+      "text": "ISKRA"
+    },
+    {
+      "id": "wordhunt.0008",
+      "text": "JASNOŚĆ"
+    },
+    {
+      "id": "wordhunt.0009",
+      "text": "ENERGIA"
+    },
+    {
+      "id": "wordhunt.0010",
+      "text": "SPOKÓJ"
+    },
+    {
+      "id": "wordhunt.0011",
+      "text": "RADOŚĆ"
+    },
+    {
+      "id": "wordhunt.0012",
+      "text": "POŚWIATA"
+    },
+    {
+      "id": "wordhunt.0013",
+      "text": "PREZENT"
+    },
+    {
+      "id": "wordhunt.0014",
+      "text": "Rodzinna ekipa Happy Makers"
+    },
+    {
+      "id": "wordhunt.0015",
+      "text": "MIMI"
+    },
+    {
+      "id": "wordhunt.0016",
+      "text": "LULI"
+    },
+    {
+      "id": "wordhunt.0017",
+      "text": "DILO"
+    },
+    {
+      "id": "wordhunt.0018",
+      "text": "ALIO"
+    },
+    {
+      "id": "wordhunt.0019",
+      "text": "NINI"
+    },
+    {
+      "id": "wordhunt.0020",
+      "text": "BIBI"
+    },
+    {
+      "id": "wordhunt.0021",
+      "text": "MAMA"
+    },
+    {
+      "id": "wordhunt.0022",
+      "text": "TATA"
+    },
+    {
+      "id": "wordhunt.0023",
+      "text": "RODZINA"
+    },
+    {
+      "id": "wordhunt.0024",
+      "text": "DRUŻYNA"
+    },
+    {
+      "id": "wordhunt.0025",
+      "text": "MIŁOŚĆ"
+    },
+    {
+      "id": "wordhunt.0026",
+      "text": "UŚMIECH"
+    },
+    {
+      "id": "wordhunt.0027",
+      "text": "Magia tworzenia"
+    },
+    {
+      "id": "wordhunt.0028",
+      "text": "SZCZĘŚCIE"
+    },
+    {
+      "id": "wordhunt.0029",
+      "text": "MAKERS"
+    },
+    {
+      "id": "wordhunt.0030",
+      "text": "MAGIA"
+    },
+    {
+      "id": "wordhunt.0031",
+      "text": "ZABAWA"
+    },
+    {
+      "id": "wordhunt.0032",
+      "text": "TWORZENIE"
+    },
+    {
+      "id": "wordhunt.0033",
+      "text": "KOLOR"
+    },
+    {
+      "id": "wordhunt.0034",
+      "text": "ŚMIECH"
+    },
+    {
+      "id": "wordhunt.0035",
+      "text": "SERCE"
+    },
+    {
+      "id": "wordhunt.0036",
+      "text": "ODWAGA"
+    },
+    {
+      "id": "wordhunt.0037",
+      "text": "ŚMIAŁOŚĆ"
+    },
+    {
+      "id": "wordhunt.0038",
+      "text": "ŻYCZLIWOŚĆ"
+    },
+    {
+      "id": "wordhunt.0039",
+      "text": "ZAPAŁ"
+    },
+    {
+      "id": "wordhunt.0040",
+      "text": "Iskry przygody"
+    },
+    {
+      "id": "wordhunt.0041",
+      "text": "PODRÓŻE"
+    },
+    {
+      "id": "wordhunt.0042",
+      "text": "ZAGADKA"
+    },
+    {
+      "id": "wordhunt.0043",
+      "text": "MISJA"
+    },
+    {
+      "id": "wordhunt.0044",
+      "text": "PRACOWNIA"
+    },
+    {
+      "id": "wordhunt.0045",
+      "text": "POMYSŁY"
+    },
+    {
+      "id": "wordhunt.0046",
+      "text": "SŁOWA"
+    },
+    {
+      "id": "wordhunt.0047",
+      "text": "BOHATEROWIE"
+    },
+    {
+      "id": "wordhunt.0048",
+      "text": "GWIAZDY"
+    },
+    {
+      "id": "wordhunt.0049",
+      "text": "KSIĘŻYC"
+    },
+    {
+      "id": "wordhunt.0050",
+      "text": "SŁOŃCE"
+    },
+    {
+      "id": "wordhunt.0051",
+      "text": "MARZENIE"
+    },
+    {
+      "id": "wordhunt.0052",
+      "text": "POŚWIATA"
+    },
+    {
+      "id": "wordhunt.0053",
+      "text": "Świętujemy razem"
+    },
+    {
+      "id": "wordhunt.0054",
+      "text": "KONFETTI"
+    },
+    {
+      "id": "wordhunt.0055",
+      "text": "ŚWIĘTOWANIE"
+    },
+    {
+      "id": "wordhunt.0056",
+      "text": "ZWYCIĘZCA"
+    },
+    {
+      "id": "wordhunt.0057",
+      "text": "PREZENT"
+    },
+    {
+      "id": "wordhunt.0058",
+      "text": "MUZYKA"
+    },
+    {
+      "id": "wordhunt.0059",
+      "text": "TANIEC"
+    },
+    {
+      "id": "wordhunt.0060",
+      "text": "HOJNOŚĆ"
+    },
+    {
+      "id": "wordhunt.0061",
+      "text": "SHINE"
+    },
+    {
+      "id": "wordhunt.0062",
+      "text": "HURRA"
+    },
+    {
+      "id": "wordhunt.0063",
+      "text": "MIGOTANIE"
+    },
+    {
+      "id": "wordhunt.0064",
+      "text": "SZCZĘŚCIE"
+    },
+    {
+      "id": "wordhunt.0065",
+      "text": "ZŁOTO"
+    }
+  ],
+  "writer_packet_sha256": "759cdf7367769414913244636e1665690165f28d91e662438654a73ccb56e449"
+}
