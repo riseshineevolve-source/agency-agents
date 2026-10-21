@@ -1,16 +1,37 @@
 lane: optical_animals
 title: "Optical Animals"
-updated: 2026-10-20
-status: FINAL_COLORING_ONLY_V4__INTRO_V7_OWNER_VISUAL_REVIEW
-branch_or_repo_state: "Local optical-night-production-20261009 @ 504a3d2; approved art and other uncommitted work preserved. Owner-attached V4 48-page PDF is current sole coloring-book edition source."
-milestone: "Explicit owner override: final attached 48-page V4 coloring book; NO seek-and-find. Owner requested ONLY introduction refinement, retaining five distinct intro pages. Bounded V7 proof changes only blank intro page 3. Pages 1-2, 4-48 unchanged."
-blocker: null
-owner_gate: "Owner acceptance or targeted refinement of page 3, then final print preflight and explicit KDP publication approval."
+updated: 2026-10-21
+status: COLORING_ONLY_V4__OWNER_COPY_RECOVERED__FIVE_PAGE_INTRO_REVIEW
+branch_or_repo_state: "Local optical-night-production-20261009, branch rse/optical-night-production-2026-10-09 @ 504a3d2b710f4758be26e4a00cfb47c7ef2129ff. Existing dirty/staged work preserved. No product commit/push. V4 source unchanged."
+milestone: >-
+  Reconstructed current Control Plane and later owner intro instructions. V4
+  remains 48-page coloring-only authority; no seek-and-find. Recovered exact
+  Before You Begin copy supersedes earlier unapproved V7 Look Closer candidate.
+  Prepared standalone five-page intro review using four supplied PNGs and native
+  vector/text page3. No candidate intro integrated into V4; approved heroes and
+  pages6-48 untouched.
+blocker: >-
+  New supplied intro rasters are approximately128ppi at full bleed; native
+  production derivatives/vector text and publishing AI-footer safe placement
+  remain open. Embedded V4 rasters place at300ppi, which does not prove native
+  pre-upscale detail.
+owner_gate: "Choose/refine intro visual family, especially page3; then final bounded print preparation and explicit physical-proof/KDP release gates."
 dependencies_needed: []
 reusable_outputs:
-  - "Owner canonical V4 SHA256: 2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13"
-  - "Chat V7 48p owner-review proof SHA256: 6a32408db50f38806f3c88d188a5e7ab0b5894d5b5f8531a908767c82f7359c6"
-  - "V7 first-five preview and five-page contact sheet available in current owner chat."
-  - "Deterministic QA: 47/47 original pages pixel-identical, 47 original content streams and 26 original image objects unchanged."
-next_safe_task: "After owner visual review, refine page 3 only if needed; no old RUN44/RUN49 seek-and-find, no final hero changes or volume rebuild; after acceptance verify print and seek release permission."
-checkpoint_reference: "Local tools/optical-book-creator/checkpoints/2026-10-20-owner-canonical-v4-coloring-only-intro-five.md"
+  - "Canonical V4 SHA256: 2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13"
+  - "New five-page REVIEW ONLY PDF SHA256: b991d98cce4429bba76693adb58c3e9ae17c9db1629e75b870679c1e120e5c58"
+  - "Review artifact: libfile_a7c748e88e408191a99a329b0f60b2f2 version1"
+  - "QA: five pages621x810pt, exact normalized owner copy, source hash unchanged, rendered inspection; independent reviewer confirms readable/unclipped and flags simpler provisional page3 style."
+  - "Recovered publishing instructions: copyright, blank ISBN/no box, small AI sentence separately at end. Do not copy ISBN9798177104409 from unrelated reference. RSE series name remains unchosen."
+next_safe_task: >-
+  Consume owner intro feedback; make only bounded chosen intro refinements.
+  Prepare print-resolution/trim-safe intro once look is selected, then integrate
+  only accepted intro with unchanged V4 artwork/order and verify retained pages.
+  Do not restore old masks/tokens/search/grand/answers or rebuild whole volume.
+checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-owner-copy-recovery-intro-review.md
+model_policy_ack: rse-weekly-usage-2026-10-21-v1
+recommended_profile: production
+runtime_model_observed: UNKNOWN
+runtime_reasoning_observed: UNKNOWN
+runtime_speed_observed: UNKNOWN
+application_status: RECOMMENDATION_ONLY
