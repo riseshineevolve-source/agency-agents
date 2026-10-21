@@ -34,3 +34,7 @@ Use `$rse-language` with `Improve this book in its current language`. The assist
 Hourly continuation was requested for24hours. Read `ACTIVE_WRITER.json` before claiming the solewriter lease. Completed prose is KEEP: do not manufacture another whole-book rewrite. Continue source-caption clarification, figure-aware/fullpage integration checks and exact-candidate proof comparison; persist actual work. Do not publish, merge main, overwrite the BookFactory writer, translatePLR8 or grant a freeze.
 
 OriginalPDFs remain unchanged. Their durable identities and hashes are in `source-inventory.json`. Historical tool manifests retain absolute source paths; when recovering into another workspace, create a fresh working run from the exact intake rather than altering historical manifests, then bind unchanged content/reviews transparently by per-unit hashes.
+
+## Persisted handoff and active continuation
+
+Candidate/reviews/proof/ZIP saved at PR43, initialcandidatecheckpoint3bcf22c0ced32b3d9303902b331abffcad290815. WebsitePL35pagepackage is PR42. Automation update confirmed enabled,24hourlyruns from2026-10-21T09:59:43Z. Read currentautomation.json; archivedZIPcontains historicalsetup receipt from beforefinalactivation. No hostedCIruns returned for exactcandidatecommit; localchecksareseparate.

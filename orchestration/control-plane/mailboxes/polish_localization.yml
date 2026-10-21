@@ -21,6 +21,8 @@ branch_or_repo_state:
   website_localization_pr: https://github.com/riseshineevolve-source/agency-agents/pull/42
   website_checkpoint_head: 0945b126b40671bd7fa9a769cfbe3e9229559a7c
   detective_en_upgrade_branch: codex/detective-en-story-upgrade-20261021
+  detective_en_upgrade_pr: https://github.com/riseshineevolve-source/agency-agents/pull/43
+  detective_en_candidate_checkpoint: 3bcf22c0ced32b3d9303902b331abffcad290815
 milestone:
   gentle_steps_pl:
     source: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md
@@ -171,8 +173,9 @@ milestone:
     pl_r8_changed: false
     freeze_granted: false
     publication: false
-    continuation: 24hourlyrunsrequested; createdtask resumesaftercheckpoint, one writerlease.
-      ProseKEEP unlessrealdefect; continueactualsource/layoutintegrationchecks.
+    continuation: ACTIVE_CONFIRMED:24hourlyruns starting2026-10-21T09:59:43Z; actualbackendtimezoneAmerica/Los_Angeles.
+      One writerlease; completedproseKEEP, source/layoutintegrationchecks onlyunlessconcretedefect.
+    ci: No workflow runs returned for exact3bcf22c0head; not claimedgreen.
 blocker:
 - Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page
   PNGs and print-scale reviewer evidence not available.
