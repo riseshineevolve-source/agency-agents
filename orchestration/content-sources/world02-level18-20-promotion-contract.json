@@ -50,15 +50,15 @@
       "nodes": 27,
       "types": {
         "opener": 1,
-        "dialogue": 12,
-        "system_log": 7,
+        "dialogue": 13,
+        "system_log": 6,
         "console": 3,
         "quest": 2,
         "science": 1,
         "secret_code": 1
       },
       "family_code": "PAUSE AND ZOOM",
-      "status": "canonical_validated_typed_pack_pending"
+      "status": "canonical_pixels_verified_typed_pack_local_checks_passed_not_promoted"
     }
   },
   "constraints": {
