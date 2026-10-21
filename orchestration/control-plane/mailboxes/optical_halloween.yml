@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-21
-status: WAITER_FLIGHT_V08_OWNER_REVIEW
+status: INVERTED_TABLE_WAITER_V09_OWNER_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Owner-requested waiter scene redesign completed: stronger airborne stride, modern levitating oval banquet, flowing cloth and curved optical gallery; no stairs or checkerboard. Cloche/tray/flower framing corrected and verified. Other fourV07 scenes preserved unchanged."
+milestone: "V09 waiter: actual upside-down modern table with four upward legs, inverted settings, contemporary short blazer and plain shirt; cabinet and every flower removed. Cropped table leg corrected. Other four V07 scenes preserved."
 blocker: null
-owner_gate: "Owner visual response to V08 airborne modern waiter, alongside retainedV07 boy/painter/carrier/suspendedqueen. No approved20 or print/release claim."
+owner_gate: "Owner visual response to V09 inverted-table waiter; other four V07 scenes retained. No approved20 or release claim."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Review concreteV08 waiter with owner. Keep its new no-checker/no-stairs scene and preserved masked long-haired identity; keep otherV07 scenes unchanged unless owner requests a change. Only targeted owner refinement or proven blocker; no factory work."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_AIRBORNE_MODERN_WAITER_V08.md"
+next_safe_task: "Review V09 waiter with owner; preserve actual inverted table, modern clothing and no cabinet/flowers. Only targeted refinement or proven blocker; no factory work."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_UPSIDE_DOWN_TABLE_WAITER_V09.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V08 waiter actual-image QA: coherent2arms/2legs and strongflight, modern levitatingovalbanquet, no stairs/checkers; final entirecloche/tray/callapetals complete with narrowproofmargins. V07other4 technicalreview retained. NativeRGBartproof, not print certification."
+closing_pass_qa: "V09 final actual-image root review: four complete upward table legs, downward settings, all major limbs/props complete; no cabinet/flowers/stairs/checkers. 1103x1426 RGB, zero chromatic pixels above channel-spread15. Native art candidate pending owner visual response."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -77,3 +77,11 @@ waiter_flight_v08:
   - "Finalexec-b2b29982-b420-4cb1-8047-921e69e3ff8a.png SHA256833c6f61d1e75c8d545940ca65b535f5c15198e4018e939460edf8f63463e75f."
   - "ExistingReality/Finish reviewerverifiedfinalwholecloche/trayandcallapetalscomplete, nofurtherrenderneeded. Narrowmargins/native1103x1426RGBproofnotprintmaster."
   - "Onlywaiterbankupdated; otherfourV07artworksandalloriginalsourcespreserved. NoPNGbinaryuploadtoGitHub."
+
+upside_down_table_waiter_v09:
+  - "Owner specifically rejected legless table ambiguity, cabinet, flowers and old costume."
+  - "Actual modern four-legged table upside down; short contemporary blazer/plain shirt; no floral motifs."
+  - "Initial V09 preserved; top-cropped leg corrected in targeted second render."
+  - "Final exec-4e031372-f71c-45ce-8a31-bb7a2053ddf2.png SHA256 d490216584ae6f32f1fb8585278b13c48d0cff23e248a444490656aba35b5a6a."
+  - "Foreground mirror and convex cloche optical motifs remain stylized; do not claim traced physical reflection accuracy."
+  - "Root sole GitHub writer. Other four V07 scenes and approved originals untouched; image binaries remain in owner conversation."
