@@ -1,17 +1,63 @@
 lane: unstoppable
 title: "Unstoppable / Book-First"
-updated: 2026-10-08
-status: OWNER_GATE_CONTENT_FREEZE
-branch_or_repo_state: "riseshineevolve-source/unstoppable-me@codex/unstoppable-book-first-20261008 head 7c02caf"
-milestone: book_source_locked_factory_adapter_ready
+updated: 2026-10-21
+status: OWNER_READ_CANDIDATE_V3_COMPLETE__CONTENT_NOT_FROZEN
+branch_or_repo_state:
+  repository: riseshineevolve-source/unstoppable-me
+  branch: codex/unstoppable-book-first-20261008
+  head: 4452c365a94cc55eb0cadf4dc4d227541b2db91d
+  writer_scope: unstoppable_only
+  app_and_main: unchanged
+milestone: >-
+  Completed the owner's full English book upgrade for ages 10-14 and saved
+  the complete reader PDF. V3 has 31 days, 22,516 words and 201 pages:
+  191 core plus 10 Hint and Check pages. The reader's baseline, cumulative
+  tool selection, reciprocal Happy Makers scenes, independent finale and
+  findable five-tool kit now form one journey.
 blocker: null
-owner_gate: exact_owner_read_candidate_v2_content_approval_and_freeze
+owner_gate: >-
+  Review exact V3 SHA256 c5e2cc7a34f09583f42091ffa5a9cb1c14b63402dd7fe2c75016cbd05b93d95e;
+  only explicit approval of this candidate permits content freeze and shared
+  Book Factory production. Previous V2 approval is not inferred.
+source:
+  path: book/source/PROJECT_UNSTOPPABLE_EN_OWNER_READ_CANDIDATE_V3.txt
+  git_blob: 518204282ef9283410a00512b85e93c1710030f4
+  sha256: c5e2cc7a34f09583f42091ffa5a9cb1c14b63402dd7fe2c75016cbd05b93d95e
+  previous_v2_and_original_puzzle_registry: preserved_exactly
+  content_frozen: false
+reader_pdf:
+  filename: PROJECT_UNSTOPPABLE_EN_V3_COMPLETE_TEXT.pdf
+  library_file_id: libfile_089359f5deb88191b377c83d5b59780e
+  sha256: 7b76b68ae84a81b87bd07f6e661c523dc4e43b77bb3e132396d7a44e864b416e
+  pages: 201
+  trim_inches: [6, 10]
+verification:
+  source_and_structure: PASS
+  original_mechanics_assertions: PASS_296
+  v3_prompt_and_key_assertions: PASS_108
+  actual_maze_internal_boundaries: PASS_228
+  source_to_pdf_page_matches: PASS_201_OF_201
+  pdf_geometry_footer_and_reader_safe_area: PASS_201_OF_201
+  exact_original_figure_pixel_arrays: PASS_9_OF_9
+  footer_only_pages: 0
+  visual_and_editorial_review: PASS_WITH_SCOPES_RECORDED_IN_FINAL_REPORT
+  deterministic_book_map: PASS_REGEN_EQUAL
+  exact_head_github_actions: NO_RUN_FOUND
+  exact_head_runs_observed: 0
+  production_factory_binding: NOT_RUN_CONTENT_UNFROZEN
+  kdp_previewer_and_physical_proof: NOT_RUN
 dependencies_needed: []
 reusable_outputs:
-  - book/source/PROJECT_UNSTOPPABLE_EN_OWNER_READ_CANDIDATE_V2.txt
-  - book/source/PUZZLE_TRUTH_REGISTRY.json
-  - book/build/source-lock-report.json
-  - book/build/project-unstoppable.en.book-map.json
-  - book/BOOK_FACTORY_INTERFACE.md
-next_safe_task: after_owner_approval_create_content_freeze_manifest_then_bind_shared_book_factory
-checkpoint_reference: "riseshineevolve-source/unstoppable-me:CHECKPOINT.yml"
+  - book/OWNER_READ_CANDIDATE_V3_MANIFEST.json
+  - book/source/PUZZLE_PROMPT_ADDENDUM_V3.json
+  - book/build/project-unstoppable.en.v3.book-map.json
+  - book/tools/build_book_map_v3.py
+  - book/tools/verify_reader_pdf_v3.py
+  - book/tests/check_rendered_maze_assets.py
+  - book/reviews/V3_FINAL_READER_REVIEW.md
+  - book/BOOK_FACTORY_INTERFACE_V3.md
+next_safe_task: >-
+  Consume owner editorial feedback or explicit exact-V3 freeze approval.
+  Preserve shared Book Factory's exclusive writer; no app/backend busywork,
+  main merge, source freeze, KDP submission or publication inferred.
+checkpoint_reference: "riseshineevolve-source/unstoppable-me@4452c365a94cc55eb0cadf4dc4d227541b2db91d:CHECKPOINT.yml"
