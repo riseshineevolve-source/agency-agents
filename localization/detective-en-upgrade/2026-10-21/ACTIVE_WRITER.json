@@ -1,8 +1,8 @@
 {
-  "state": "V5_KEEP__SPATIAL_AUDIT_COMPLETE_WITH_SOURCE_GATES__PRODUCT_RECEIPT_PENDING",
-  "owner": null,
-  "updated_utc": "2026-10-21T12:19:35.965266+00:00",
+  "state": "NONSPATIAL_SOURCE_DERIVATION_AUDIT",
+  "owner": "detective-en-nonspatial-20261021T1303",
+  "updated_utc": "2026-10-21T13:04:09.151Z",
+  "expires_utc": "2026-10-21T13:59:09.151Z",
   "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
-  "rule": "Acquire solewriter lease using expected-head guarded commit before concrete new edits. Preserve V5KEEP and historical receipts. BookFactory retains exclusiveproductwriter. No speculative globalrule, anchor or symbol repair.",
-  "next_safe_task": "V5KEEP unchanged. Consume actual source/art clarification forCase03/07/20 or approvedmap-rule/iconclarity02/10/15; validateactualBookFactoryV5illustratedimport/render/8raster-slotreceipts. All16spatialenumerationscompletewithreportedlimits: do not repeatgreenchecks or inventprosework. No productionedits/freeze/publication."
+  "rule": "One lane evidence writer. V5KEEP unchanged. Audit only unclosed literal nonspatial figure-to-answer derivations, production read-only."
 }
