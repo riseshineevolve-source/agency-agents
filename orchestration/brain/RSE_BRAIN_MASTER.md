@@ -7,6 +7,15 @@ Primary durable repo: `riseshineevolve-source/agency-agents`
 
 ## Latest portfolio reconciliation — 2026-10-21
 
+Current owner revenue direction supersedes the old execution priority order:
+`orchestration/brain/RSE_FIRST_REVENUE_PLAN_2026-10-21.md` and
+`orchestration/control-plane/RSE_REVENUE_SPRINT_2026-10-21.yml`.
+Central selects OA as first finish candidate (not proven release-ready), Gentle
+Steps book next; delivered Detective/Studio receives bounded review/fixes only.
+One primary launch, no new factory/app features without a concrete blocker.
+Other lanes safely checkpoint then park enhancements. Writer/source/release
+gates remain; no new publication, income or background execution is claimed.
+
 Owner model-budget instruction: all RSE chats/desks consume
 `orchestration/control-plane/RSE_MODEL_ROUTING_V1.yml` at startup/next checkpoint.
 The per-lane selection and central broadcast are recorded; actual client model

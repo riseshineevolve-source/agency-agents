@@ -1,5 +1,20 @@
 # RSE Brain Changelog
 
+## 2026-10-21 — first-revenue execution reset
+
+- Owner asks to prioritize earning after seven weeks without new publication.
+- Reconciled actual225p Detective/Studio delivery and fresh Gentle Steps native
+  receipts; stopped treating these as unfinished tool/app feature programs.
+- Selected OA as first finish candidate, next seasonal book preparation; recorded
+  actual missing cover/metadata/proof/price readiness rather than claiming ready.
+- Assigned all16 streams a single role, parked noncritical enhancements after
+  safe checkpoint, and limited Build Desk to concrete release-blocking defects.
+- Replaced stale competing priority orders with current queue, preserving the
+  previous stack in Git history. No product/other-lane mailbox writes, release,
+  source freeze, new paid action or guaranteed first-sale date.
+- Plan: `RSE_FIRST_REVENUE_PLAN_2026-10-21.md`; machine queue and central notice
+  carry exact outputs/acceptance criteria. Recipient execution is unverified.
+
 ## 2026-10-21 — owner-requested model routing for weekly allowance
 
 - Added concrete model/reasoning routes for all eleven core chats and five

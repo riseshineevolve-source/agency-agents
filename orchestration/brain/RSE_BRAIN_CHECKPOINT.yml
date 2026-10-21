@@ -2,6 +2,17 @@ version: 9
 updated: 2026-10-21
 status: CENTRAL_RECONCILIATION_COMPLETE__PRODUCT_GATES_REMAIN
 checkpoint_type: central_portfolio_delta_no_product_writer_transfer
+first_revenue_execution:
+  updated: 2026-10-21
+  plan: orchestration/brain/RSE_FIRST_REVENUE_PLAN_2026-10-21.md
+  queue: orchestration/control-plane/RSE_REVENUE_SPRINT_2026-10-21.yml
+  primary_candidate: optical_animals
+  primary_release_readiness: UNVERIFIED_COVER_METADATA_PREFLIGHT_PRICE_AND_APPROVAL
+  next_preparation: gentle_steps_book
+  existing_tool_delivery: detective225p_and_Studio_complete_owner_print_review_open
+  recipients: 16
+  acknowledgment_and_execution: UNVERIFIED
+  new_publication_or_sales_claimed: false
 model_policy_rollout:
   updated: 2026-10-21
   id: rse-weekly-usage-2026-10-21-v1
