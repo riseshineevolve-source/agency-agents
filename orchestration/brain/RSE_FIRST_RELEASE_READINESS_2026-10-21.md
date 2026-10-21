@@ -1,95 +1,63 @@
 # First release readiness — 2026-10-21
 
-Status: GRAYSCALE_SELECTED__OWNER_TONAL_CHOICE__COMBINED_FINAL_MASTER_PENDING
+Status: FINAL_GRAY15_INTERIOR_RECEIPT_VERIFIED__MATCHING_COVER_PROOF_PRICE_PENDING
 Scope: central receipt reconciliation only; no product files changed.
-Evidence snapshot: agency-agents @ c0313ca9f43a487f36d501ed2239e342862953cc; Optical mailbox blob a2f22d28edc2154fa45ab10798702e07dafeb7bd; gray-trial checkpoint blob edd805eb2d95b86c9adac5af2a6c7e4d4f4fde23; RSE layout checkpoint blob d016aa9639bf6004405028d523c9d49cc3b9be0b.
+Evidence snapshot: agency-agents @ 10bc83654aaf1405eade7d50630bf7e10344e739; Optical mailbox blob f1fcc40c073379f0425369a3c14060e875ffc5e0; final checkpoint blob cede2bf063c2e23e87e416772d14ce6111eb59bf.
 Primary remains Optical Animals / Wild Illusions. Gentle Steps remains the existing fallback.
 
-## Latest owner decision and current master gap
+## Current owner direction and delivered interior
 
-The later producer checkpoint records the owner's decision to retain grayscale and request a one-image lightening trial. No whole-book strength has been selected. The retained grayscale PDF below predates the latest RSE identity, shared typography and quiet copy. It is a preserved source artifact, **not the current combined final publication master**. The pure B/W files are a delivered alternative, not the chosen publication treatment.
+The [final producer receipt](../projects/optical-animals/checkpoints/2026-10-21-final-gray15-kdp.md) records owner approval of 15% lighter gray across the whole book. The tonal choice is CLOSED. The final combined grayscale/RSE master is delivered. Do not ask for the original/10%/15% choice again, restore historical gray typography, or substitute the B/W alternative.
 
-| Current input | Exact receipt | Meaning |
-|---|---|---|
-| Original / 10% / 15% lion comparison | `WILD_ILLUSIONS_LION_GRAY_LIGHTENING_COMPARE.png`; Library `libfile_452c81f31b44819182aed386057e1439` v0; SHA256 `65a07dcbb6210bdc59540abf5bb0d8b0095dede712bc83250ca0ffc87d62d742` | Owner tonal choice pending; producer recommends 15% for this image only |
-| Lion 10% | `WILD_ILLUSIONS_LION_GRAY_LIGHTER_10.png`; Library `libfile_d4b0d0861bd88191a46c02d27ec6116d` v0; SHA256 `c7398cf7a94b153c0a239a775c2575438c9a99107b9ecb271816350068b9edd8` | One-image derivative, not a book master |
-| Lion 15% | `WILD_ILLUSIONS_LION_GRAY_LIGHTER_15.png`; Library `libfile_654e400d6660819194db2cf4557bdf7e` v0; SHA256 `9fe519cfbda4689a9604957bf6c2aa62f97edf2a6e1509fd75be1cc37578fe5a` | One-image derivative, not global authorization |
-| Latest RSE layout/copy baseline | `2026-10-21-rse-pure-bw-canva.md`; blob `d016aa9639bf6004405028d523c9d49cc3b9be0b` | Preserve shared type, RSE identity and latest story when composing the selected-gray master |
-| B/W KDP alternative | `WILD_ILLUSIONS_RSE_PURE_BW_KDP.pdf`; Library `libfile_aed6ac5d16d08191bed955fc490808df` v0; SHA256 `20481cc911c8970b356cc8846a2519dc4885ae296f5549719269d57e1b04d0d0` | Digital derivative only; not selected grayscale |
-| Combined grayscale + latest RSE KDP/Canva master | No delivery receipt yet | Final filename/hash/preflight must come from the existing writer after tonal selection |
-
-Trial receipt reports native 2588×3375 lossless assets, locked black values 0–24 and white 255, no spatial edits and measured digital gray-density reductions of 9.9982% / 15.0001%. These are encoded-tone measurements, not physical ink measurements. No global adjustment was applied. Central read producer receipts; no private image bytes were rehashed.
-
-Sources: [owner grayscale decision and trial](../projects/optical-animals/checkpoints/2026-10-21-gray-lightening-trial.md), [latest RSE typography/copy and Canva handoff](../projects/optical-animals/checkpoints/2026-10-21-rse-pure-bw-canva.md).
-
-## Optical Animals: retained grayscale source artifact
-
-| Field | Producer receipt |
+| Input | Exact producer receipt |
 |---|---|
-| Retained older grayscale interior | `WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf` |
-| SHA256 | `bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef` |
-| Location | Library `libfile_507fe3cae5088191be459397753617d0`, version 1; `/AI AGENTS/WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf` |
-| Size / format | 104,838,751 bytes; 48 single pages; PDF 1.7 |
-| Bleed page | 621 × 810 pt (8.625 × 11.25 in) |
-| Trim | 612 × 792 pt (8.5 × 11 in); alternating outer bleed |
-| Illustration custody | All 22 encoded body image streams byte-identical to original V4; body image placements minimum 300 ppi |
-| Retained body pages | 41 retained body pages, excluding new 45/48: normalized painting content and rendered pixels identical |
-| Original V4 | SHA256 `2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13` unchanged |
-| Full-wrap cover | Exact matching filename/hash/specification receipt still UNKNOWN |
+| Current KDP interior | `WILD_ILLUSIONS_RSE_FINAL_GRAY15_KDP.pdf` |
+| SHA256 | `20442ed44576f27b92d59bde138285d7529e978bfd196948ac1f29a6be16821f` |
+| Durable identity | Library `libfile_507fe3cae5088191be459397753617d0`, version 2; `/AI AGENTS/WILD_ILLUSIONS_RSE_FINAL_GRAY15_KDP.pdf` |
+| Size / pages | 66,633,025 bytes; 48 pages; 20 artworks on 22 image pages; 19 blank pages |
+| Page / trim | 621 × 810 pt bleed; alternating 612 × 792 pt trim; finished 8.5 × 11 in |
+| Art | Native 2588 × 3375 lossless DeviceGray; at least 300 ppi; protected black/white and geometry retained |
+| Canva PDF | `WILD_ILLUSIONS_RSE_FINAL_GRAY15_CANVA.pdf`; 65,019,398 bytes; Library `libfile_4b6440500a0c81918a1f0315513d5ab3` v0 |
+| Canva SHA256 | `b5853b0f8ce66dadee5d20071e5e9d08a89598ac17c586e87256ec9de225d8e0` |
+| Canva pack | `WILD_ILLUSIONS_RSE_FINAL_GRAY15_CANVA_PACK.zip`; 133,719,479 bytes; Library `libfile_2ae552e0151881919c6a1c49b01aef5a` v0; 58 files |
+| Pack SHA256 | `ff3bc147ea90757f417a81eb7b8b98812f120fca8b05d239b1ae98a5cd4003db` |
+| Matching full wrap | No exact current filename/hash/specification receipt supplied |
 
-Historical source: [premium producer receipt](../projects/optical-animals/checkpoints/2026-10-21-premium-revision-final.md) and [producer mailbox](../control-plane/mailboxes/optical_animals.yml).
-Hashes and checks above are producer-reported and verified against durable Git receipts. Central has not downloaded/rehashed private PDF bytes or rerendered the book. Digital delivery is not owner acceptance or release approval.
+Final interior includes latest RSE Optical Art Series identity, 16/54/11 pt typography, accurate single-sided wording, page45 “One last flight.” and page48 “A good place to pause.” Opening6–7 and butterfly46–47 each use one shared tone curve. The approved lion trial is pixel-exact. Measured gray-density reduction14.9937–15.0111% is a digital-tone metric, not physical ink consumption.
 
-## Historical premium audit response and superseded evidence
+Digital QA is producer-reported PASS on the final hashes: strict parsing, all48 pages of both PDFs rendered warning-free by MuPDF and Poppler, all22 art pixel payloads equal intended derivatives, all26 non-art pages unchanged, blank-page count checked. KDP reports zero fonts/metadata/annotations/masks; Canva embeds EB Garamond; pack CRC and post-save hashes PASS. Central verified durable Git receipts, **not private artifact bytes**; no duplicate render or independent rehash claimed.
 
-At its delivery, the premium revision superseded `WILD_ILLUSIONS_KDP_INTERIOR_FINAL_48P_PRINT.pdf` (hash `42befffa23a295d0e05c7020fba66f765158c2714000a71af735fab366513516`), earlier intro-only v5 and malformed v4. Do not use older print-master recommendations.
+## Remaining release inputs and assigned remedy
 
-The following describes the older premium revision; latest RSE copy takes precedence. In particular page45 is now “One last flight.” and page48 “A good place to pause.” in the RSE layout baseline. Publishing identifies RSE Optical Art Series; utility copy is EB Garamond 16pt, shared headings54pt and AI note11pt. Do not reintroduce the earlier closing/prelude copy or typography when restoring gray artwork.
-
-The producer records owner authorization to implement audit improvements. Main “Wild Illusions / A Premium Op Art Coloring Book” retained; secondary line is now “20 Animal Designs to Color.” Before accurately distinguishes 18 single-page designs with blank backs and two facing-page artworks. Publishing has no empty ISBN label; this does not finalize the ISBN choice. Publishing/Before body type uses native EB Garamond outlines; approved intro art/source originals remain unchanged.
-
-Page 44 remains blank to protect horse43. Page45 says “Let your imagination take flight.” Original butterfly46–47 retained; page48 says “Stay curious. See differently.” There are now19 blank pages, not21. The two spread exceptions are disclosed. The previous central “blank44–45/closing48/title audit pending” item is fulfilled by a concrete response; owner visual acceptance and paper/ink/gutter proof remain open.
-
-Producer reports independent visual/copy and technical PASS against the final hash: strict parsing, all48 MuPDF and Poppler renders, pdftotext zero stderr, correct alternating trim, no live fonts/soft masks/metadata/annotations. Intro consists of faithful vector contours; a300ppi render does not establish native300ppi source detail.
-
-Validation nuance: unused nonpainting default font blocks were removed after a real warning. Whole decoded body streams are therefore NOT byte-identical to V4. All22 encoded illustration streams are unchanged;41 retained body pages have identical normalized painting content and rendered pixels. The former blanket “43 whole content streams unchanged” assertion must not carry forward to this premium artifact.
-
-## Actual remaining gates
-
-| Requirement | Current evidence / next remedy | Existing owner |
+| Input | Current state / exact next receipt | Existing owner |
 |---|---|---|
-| Selected-gray final master | PENDING: tonal owner choice, then sole writer combines selected gray artwork with latest RSE typography/copy, delivers exact KDP/Canva hashes and focused final preflight. Historical digital PASS does not transfer to that future file | optical_animals |
-| Owner visual acceptance | Grayscale retained; original/10%/15% lion trial delivered. Whole-book strength and later combined-master acceptance not observed | optical_animals / owner |
-| Canva import | Digital import PDF/ZIP delivered for B/W alternative; actual account import not performed. Recheck after actual edits/export if used; no central device/account work | optical_animals |
-| Matching full wrap | Expose existing filename/location/SHA256 and48-page trim, bleed, binding, paper, ink match. Resolve existing source before any cover recreation | optical_animals |
-| Final metadata | Producer title/subtitle direction is recorded; confirm exact author/language/ISBN choice and agreement across cover/interior/listing | optical_animals; marketing consumes accepted facts |
-| Previewer / physical proof | No actual KDP Previewer or physical paper/ink/gutter proof receipt supplied. Producer still requires physical proof. Digital PASS does not replace it | optical_animals / authorized owner |
-| Rights / AI declaration / account | Exact legal/AI copy preserved by producer; final rights/declaration and required account status still unverified. Private details stay outside public Git | optical_animals / authorized owner |
-| Price and royalty | Need marketplace/currency, confirmed paper/ink/binding, current actual print cost and proposed launch price/royalty | marketing_autopilot after verified spec |
-| Consolidated submission decision | Not ready until exact accepted interior + matching cover + required proof + price exist | central_control_tower |
+| Tonal selection / combined interior | CLOSED: 15% owner approval and final KDP/Canva deliveries recorded | optical_animals |
+| Full wrap | Inventory EXISTING approved cover first: exact filename/location/SHA256; match 48 pages, trim/bleed, binding, paper, ink and title. If none exists, report missing source/asset explicitly before any new design | optical_animals |
+| Metadata | Confirm exact title/subtitle/author/language/ISBN choice and agreement across final cover/interior/listing | optical_animals; marketing consumes verified facts |
+| Previewer / physical proof | No actual KDP Print Previewer or physical paper/ink/gutter proof receipt. Keep existing proof gate; digital PASS does not replace it | optical_animals / authorized owner |
+| Rights / declaration / account | Final rights, truthful AI-content declaration, ISBN and required account status unverified. Store no private account details in public Git | optical_animals / authorized owner |
+| Price / royalty | Marketplace/currency, confirmed binding/paper/ink, actual current print cost, proposed price and royalty arithmetic still missing | marketing_autopilot |
+| Canva import | Actual account import not performed; optional if direct KDP PDF used. Any edited Canva export requires fresh focused preflight | optical_animals |
+| Consolidated decision | Not ready: needs exact matching pair, required proof, metadata and price | central_control_tower |
+
+No store upload, paid proof order, publication or release approval inferred.
 
 ## Existing Gentle Steps fallback comparison
 
-Existing comparison retained because the matching Optical cover and actual print proof remain unverified. The previous intro digital hold is closed; missing receipts do not prove missing files.
+Matching Optical cover remains an unresolved asset dependency, so the existing fallback was checked against current relevant mailboxes. Gentle Steps and marketing blobs remain `4a6ff368b177d970fcdf45051e48529482c9e95c` and `f6b5a9db10164f35d60f5ca258c070949781290a`. Localization blob `eafd1c37c70d9418a0a4b5b9fc998ac2fa5b8614` still reports missing actual PL R6 final-template PDF, twelve print-scale views and reviewer evidence.
 
-- Current Gentle Steps mailbox confirms app audit/native artifacts, not book release readiness. Android tests are not a book-publication prerequisite.
-- [Existing asset inventory](../../marketing/GENTLE_STEPS_ASSET_INVENTORY_2026-10-01.md) names `24 Gentle Paperback ok(3).pdf` and `24 Gentle Steps to Christmas COVER HARDCOVER(2).pdf` in source folder `1SCQUodkBUwSC4Y06EVfdIxya4wUqIASx`. These are historical pointers, not current hash-bound files. A hardcover-named cover cannot be presumed to fit that paperback.
-- [Current marketing brief](../../marketing/GENTLE_STEPS_PRODUCT_MARKETING_BRIEF_2026-10-07.md) and [October 13 copy pack](../../marketing/GENTLE_STEPS_A_PLUS_SOCIAL_AMAZON_COPY_PACK_2026-10-13.md) establish the later EN/PL title/subtitle direction. Cover/interior matching against those locks is still unproven. Reuse approved current labels; older examples inside these documents still contain legacy labels.
-- EN source content hash `d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1` is a content-source receipt, NOT a final interior PDF hash.
-- PL R6 blob `896cf92bf6ed126ef62e623fd9cac640270e853f` is a source receipt, NOT print proof. [Localization mailbox](../control-plane/mailboxes/polish_localization.yml) explicitly lacks actual current final-template PDF, twelve distinct print-scale page views and reviewer evidence.
-- Current book interior/cover hashes, page/trim match, Previewer/physical-proof receipts and actual pricing remain unverified for this fallback.
+[Existing inventory](../../marketing/GENTLE_STEPS_ASSET_INVENTORY_2026-10-01.md), blob `21ec934b20421c837a2a69bb2c7bf318c5f5517a`, names `24 Gentle Paperback ok(3).pdf` and `24 Gentle Steps to Christmas COVER HARDCOVER(2).pdf`. These historical pointers are not a current hash-bound matching pair. Current book hashes, matching page/trim/binding, actual proof and price remain unverified. App/native test success does not establish book readiness.
 
-Decision: DO NOT SWITCH YET. Existing evidence does not establish Gentle Steps as a more complete publishable package. Request existing matching paperback assets and current source-bound proofs from its sole writer; do not open a third product or new renderer.
+Decision: DO NOT SWITCH. Gentle Steps is not proven more complete; Optical now has a final combined interior receipt. Existing fallback request remains with the sole writer. No third product, renderer or duplicate book work.
 
+## Central handoff
 
-## Central handoff and next receipt
+Request `first-release-oa-files-20261021` has its combined-interior portion fulfilled by actual producer output. Its matching-cover/metadata portion remains open. Explicit acknowledgment of that central request ID is NOT OBSERVED; output receipt and model-policy acknowledgment are separate facts.
 
-Central request `first-release-oa-files-20261021` remains partially fulfilled historically. Latest delivery is a grayscale trial and separate RSE layout baseline, not the combined final master. Explicit acknowledgment of the central request ID is still not observed; delivery and model-policy acknowledgment do not establish task acknowledgment.
+Next receipt: existing Optical writer supplies the exact approved full-wrap cover with hash and 48-page paper/ink/binding specification, or explicitly records that it is missing. Marketing binds listing and actual print-cost arithmetic to that specification. No further tonal decision is needed.
 
-Next owner action is already concrete: choose original / 10% / 15% using the delivered lion comparison. Existing Optical writer then combines only that selected gray treatment with the latest RSE layout/copy, delivers KDP/Canva identities and focused preflight, and exposes the existing matching full-wrap receipt plus paper/ink/binding. Central must not pick a strength or apply global image changes. Cover inventory can proceed without waiting for the tonal choice. Marketing may prepare source-faithful copy but must bind final metadata and actual print-cost arithmetic to the confirmed specification.
-
-Gentle Steps and marketing mailbox blobs remain `4a6ff368b177d970fcdf45051e48529482c9e95c` and `f6b5a9db10164f35d60f5ca258c070949781290a`; neither exposes a newly completed book packet or explicit request acknowledgment. Existing fallback comparison remains unchanged: no evidence supports a queue switch or third product.
+Historical premium gray v1 (`bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef`) and pure-B/W alternatives remain preserved, superseded for current upload. [Earlier trial](../projects/optical-animals/checkpoints/2026-10-21-gray-lightening-trial.md) is historical evidence only.
 
 ## Cost and privacy
 
-No Actions, spending, billing/subscription change, paid proof order, upload, publication, source freeze or production merge. Central writes only its Brain, Control Plane and own mailbox with expected-HEAD protection. Latest separate Mind Bloom/Supabase discussion does not authorize central product or database writes in this release task.
+No Actions, spending, billing changes, paid proof order, upload, publication, source freeze or production merge. Only central Brain/Control Plane and own mailbox updated with expected-HEAD protection. Separate Mind Bloom/n8n work does not authorize product/database writes here.
