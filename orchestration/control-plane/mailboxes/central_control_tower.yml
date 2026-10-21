@@ -210,3 +210,15 @@ actions_containment_implementation:
   acknowledgments: PENDING
   privacy: PUBLIC_FORK_DETACH_REQUIRED_ADMIN_OPERATION_UNAVAILABLE
   n8n: CLOUD_PANEL_DID_NOT_LOAD_CURRENT_STATUS_UNVERIFIED
+
+actions_containment_receipt:
+  checkpoint: orchestration/brain/checkpoints/2026-10-21-actions-cost-containment.md
+  agency_commit: 3e28e295ed825a723c6f9ab3839f65a55911c801
+  website_commit: 89e5e1c8a05f76df95b1b7472cb5e81f9853613f
+  workflows_changed_on_main: 16
+  validation: LOCAL_YAML_PASS_REMOTE_TARGETED_READBACK_PASS
+  branch_sync_required_before_push: true
+  preserve_required_local_and_release_checks: true
+  recipient_ack: PENDING
+  privacy: PUBLIC_FORK_ADMIN_SIGN_IN_REQUIRED
+  n8n: INSTANCE_SELECTION_LOGIN_SCREEN_NO_AUTHENTICATED_SESSION
