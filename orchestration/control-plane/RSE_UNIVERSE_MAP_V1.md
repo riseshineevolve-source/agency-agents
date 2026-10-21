@@ -7,6 +7,14 @@ Primary durable repo: riseshineevolve-source/agency-agents
 
 ## Current execution overrides — 2026-10-21
 
+Newest owner revenue instruction: follow
+`orchestration/control-plane/RSE_REVENUE_SPRINT_2026-10-21.yml` and
+`orchestration/brain/RSE_FIRST_REVENUE_PLAN_2026-10-21.md` for current sequencing.
+One primary OA launch candidate, next Gentle Steps book preparation, bounded
+review of delivered Detective/Studio. Park noncritical enhancements after safe
+checkpoint. This supersedes historical commercial ordering, not source/writer/
+privacy/proof/release gates. Candidate does not mean publication-ready.
+
 Read `orchestration/brain/checkpoints/2026-10-21-central-portfolio-takeover.md`
 before treating dated product observations below as current status.
 

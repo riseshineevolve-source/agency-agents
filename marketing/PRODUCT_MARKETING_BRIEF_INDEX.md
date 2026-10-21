@@ -64,3 +64,7 @@ Historical files remain useful for:
 - previous experiments;
 - performance comparison;
 - asset reuse.
+
+## October21 revenue override
+
+Current Wild Illusions coloring-only authority: `marketing/WILD_ILLUSIONS_PRODUCT_MARKETING_BRIEF_2026-10-21.md`. Older seek-and-find/growth proposals are historical. Full creative/art review packet is private.

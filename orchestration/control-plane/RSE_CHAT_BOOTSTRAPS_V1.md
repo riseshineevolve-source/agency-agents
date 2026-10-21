@@ -6,6 +6,12 @@ Parent: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
 
 These are intentionally short. Every chat reconstructs current truth from GitHub rather than from the opening message.
 
+Owner instruction for ALL chats/desks (2026-10-21): before the next substantive
+task, read `orchestration/control-plane/RSE_MODEL_ROUTING_V1.yml`. Use its lane
+profile when runtime controls allow; acknowledge in your own checkpoint/mailbox
+with observed settings. The shared policy is a repo handoff, not an automatic
+model switch or a new product writer. Original opening prompts below remain.
+
 ## 1. RSE Central Control Tower
 
 ```

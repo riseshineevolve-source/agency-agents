@@ -5,6 +5,10 @@ Updated: 2026-10-21
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
 
+## 2026-10-21 Revenue sprint continuation
+
+Wild Illusions is now the primary finish under the current revenue plan. Read `marketing/WILD_ILLUSIONS_PRODUCT_MARKETING_BRIEF_2026-10-21.md` and current Optical mailbox before action. Gentle Steps below is a preserved owner-read packet, not the primary new-work queue. Runtime policy is acknowledged as recommendation-only; actual model/reasoning/speed are UNKNOWN. No public/paid gate is cleared.
+
 ## 2026-10-21 Marketing recovery override
 
 Current Marketing checkpoint: `marketing/gentle-steps/2026-10-21/RECOVERY_NOTES.md`.

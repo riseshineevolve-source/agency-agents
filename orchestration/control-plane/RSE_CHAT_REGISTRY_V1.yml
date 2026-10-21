@@ -8,6 +8,12 @@ policy:
   default_max_active_specialists: 4
   central_product_lane_mode: read_sync_only
   mailbox_root: orchestration/control-plane/mailboxes
+  model_routing: orchestration/control-plane/RSE_MODEL_ROUTING_V1.yml
+  model_policy_read: startup_and_next_meaningful_checkpoint
+  model_policy_runtime_application: verify_do_not_assume_repo_changes_client
+  revenue_execution_queue: orchestration/control-plane/RSE_REVENUE_SPRINT_2026-10-21.yml
+  primary_finish_candidate: optical_animals
+  revenue_queue_read: startup_and_next_meaningful_checkpoint
 
 chats:
   central_control_tower:
@@ -56,7 +62,7 @@ chats:
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
     branch: gentle-steps/premium-visual-20261013
     previous_branch: gentle-steps/app-en-full24-purple-gold
-    current_checkpoint: docs/GENTLE_STEPS_FINAL_PRE_DEVICE_AUDIT_2026-10-20.md
+    current_checkpoint: docs/GENTLE_STEPS_FINAL_PRE_DEVICE_AUDIT_2026-10-21.md
     writer_scope: gentle_steps_only
     bootstrap: orchestration/bootstrap/GENTLE_STEPS_EXECUTION_BOOTSTRAP.md
     mailbox: orchestration/control-plane/mailboxes/gentle_steps.yml
@@ -149,8 +155,9 @@ supplemental_streams:
     mode: dedicated_illustration_only
     writer_scope: optical_halloween_art_only
     bootstrap: orchestration/bootstrap/OPTICAL_HALLOWEEN_ILLUSTRATION_STUDIO_BOOTSTRAP.md
-    checkpoint_reference: orchestration/projects/optical-halloween/volume-01/selected-15/README.md
-    current_reference: owner_approved_creative_15_of_20_not_print_gold
+    mailbox: orchestration/control-plane/mailboxes/optical_halloween.yml
+    checkpoint_reference: orchestration/projects/optical-halloween/volume-01/2026-10-21_FINAL_FIVE_CANDIDATES_OWNER_REVIEW.md
+    current_reference: five_candidates_owner_review_selected15_preserved_not_print_gold
     liveness: not_observable_from_registry
   website_factory:
     title: RSE Website Factory

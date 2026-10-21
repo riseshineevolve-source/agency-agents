@@ -1,9 +1,17 @@
 lane: optical_halloween
 title: "Optical Halloween — Illustration Studio"
+scope: "ILLUSTRATIONS ONLY: art generation, targeted revisions, candidate bank and visual QA."
+bootstrap_reference: "orchestration/bootstrap/OPTICAL_HALLOWEEN_ILLUSTRATION_STUDIO_BOOTSTRAP.md"
+worlds:
+  - "The House That Remembers"
+  - "The Midnight Carnival Below the City"
+  - "The Eclipse Museum of Lost Nights"
+read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
+excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-21
-status: FIVE_CANDIDATES_OWNER_VISUAL_REVIEW
+status: FIVE_FINAL_ART_CANDIDATES_QA_PASS
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "All five missing concepts generated and visually reviewed: frame carrier v01, falling skeleton v02, painter ladder v03, flying waiter v01, candle queen v02."
+milestone: "Owner requested final prompt development and generation: five complete closing-pass images generated and reviewed5/5; carrier v02, skeleton v03, painter v04, waiter v02, queen v03. Exact prompts, Polish descriptions and hashes recorded."
 blocker: null
 owner_gate: "Owner visual acceptance or targeted refinement of the five art candidates. Not yet approved20; not print masters or KDP release."
 dependencies_needed: []
@@ -12,6 +20,9 @@ reusable_outputs:
   - "Five individual ImageGen candidates displayed in owner conversation; final hashes and runtime filenames in checkpoint."
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
-next_safe_task: "Collect owner visual approval/refinements; retain approved15 untouched. After acceptance establish slots and prepare real print-resolution/binary assets in authorized production scope."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_FINAL_FIVE_CANDIDATES_OWNER_REVIEW.md"
+  - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
+next_safe_task: "Generation and technical visual QA of missing five are complete. Owner final visual choice/acceptance or a specific requested correction; then record art roster lock. Preserve approved15 and all prior BESTs. No open-ended regeneration or factory/assembly/pagination/KDP continuation."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_FINAL_FIVE_PROMPTS_AND_DESCRIPTIONS_V02.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
+
+closing_pass_qa: "Brand Guardian and Reality/Finish agents each passed5/5; no remaining concrete technical visual defect identified. Owner approval and print certification are separate."

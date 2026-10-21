@@ -19,6 +19,19 @@ Unattended 24/7 execution is a separate runtime layer (n8n / Agents API / Tempor
 
 ## Mandatory opening sequence for every execution chat
 
+Owner first-revenue direction (2026-10-21): read your assignment in
+`orchestration/control-plane/RSE_REVENUE_SPRINT_2026-10-21.yml` at the next
+meaningful checkpoint. Follow one-primary-launch sequencing. Finish the current
+atomic change safely before parking noncritical enhancements; preserve source,
+ownership and final release gates. Acknowledge in your own checkpoint/mailbox.
+
+Owner model/weekly-usage instruction (2026-10-21): read
+`orchestration/control-plane/RSE_MODEL_ROUTING_V1.yml` at startup and the next
+meaningful checkpoint. Apply the lane profile only through available model/
+reasoning/speed controls. Record acknowledgment and observed settings in your
+own mailbox/checkpoint; distinguish recommendation from verified application.
+Do not overwrite another writer or imply this repo switches an open chat model.
+
 1. Read:
    - `orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md`
    - `orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml`

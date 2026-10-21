@@ -3,9 +3,19 @@ Date: 2026-10-21 (Europe/Warsaw)
 Status: FIVE_CANDIDATES_OWNER_VISUAL_REVIEW. NOT owner approved. NOT print masters.
 
 ## Scope and canon
-The owner pasted the Optical Animals takeover boilerplate but explicitly requested the missing five Optical Halloween illustrations, with two frame-carrier references and OPTICAL_HALLOWEEN_SELECTED_15_20261020(1).zip. The current selected-15 README confirms exactly these five missing concepts. Work stayed in Halloween's illustration-only lane. No Animals, Detective Academy, masks, tokens, book assembly, or KDP changes.
+Owner correction on 2026-10-21 explicitly confirms OPTICAL HALLOWEEN ILLUSTRATION STUDIO as this chat's sole product lane. Canonical entry point: `orchestration/bootstrap/OPTICAL_HALLOWEEN_ILLUSTRATION_STUDIO_BOOTSTRAP.md`, read first for this corrected takeover. The earlier Optical Animals entry point is superseded; Animals remains a read-only visual quality reference. The owner's two frame-carrier references and OPTICAL_HALLOWEEN_SELECTED_15_20261020(1).zip belong to Halloween. The current selected-15 README confirms the five missing concepts. Scope is premium illustration creation, revision, candidate preservation and visual QA only. No tokens, seek-and-find, factory masks, book assembly, pagination, KDP packaging or other product mutations.
 
 Read RSE Control Plane, Animals bootstrap/current mailbox, Halloween illustration-studio contract, 2026-10-13 restyle specification, current selected-15 README and earlier five-draft contact. The newer selected-15 canon supersedes old wardrobe/tailor slots. The approved mannequin/tailor is unchanged. No Hxx numbers assigned to new candidates because page mapping is not established.
+
+## Three-world studio context — owner-confirmed routing
+All three worlds remain separate candidate banks, sharing the quality principles in `orchestration/projects/optical-halloween/OPTICAL_HALLOWEEN_VISUAL_DNA_V1.md`:
+- **The House That Remembers** — domestic memory, hospitality, hinges/folded architecture; source `orchestration/projects/optical-halloween/world-bibles/HOUSE_MASTER_V01.md`.
+- **The Midnight Carnival Below the City** — suspended musical response, performance, rigging/cloth and mechanical parallax; source `orchestration/projects/optical-halloween/world-bibles/CARNIVAL_MASTER_V01.md`.
+- **The Eclipse Museum of Lost Nights** — protected future possibilities, bounded future glass, porcelain/cabinets/vitrines; source `orchestration/projects/optical-halloween/world-bibles/MUSEUM_MASTER_V01.md`.
+
+The bibles describe concept banks, not owner-approved generated art. Their old narrative rosters must not override current owner instructions or the latest approved visual selection. The 2026-10-11 House two-volume strategy is an editorial reference; the 2026-10-20 selected-15 canon plus this five-candidate checkpoint govern the present art pass. No new Carnival/Museum production or regeneration of approved House art was initiated by this routing correction.
+
+Mandatory board retained: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker and UI/Print Finish-Gate Reviewer. Existing independent reviews of the five remain valid; this correction changes routing/context, not their pixels or approval status.
 
 ## Frozen sources
 All FIFTEEN supplied PNG originals were SHA-256 checked against MANIFEST_15.csv after work: 15/15 match; zero changes. ZIP source and attached references were not overwritten.
@@ -38,4 +48,4 @@ Concrete defects corrected before handoff: skeleton cropped fingers, queen cropp
 Threshold black coverage (luminance<128) approximately carrier45.44%, skeleton39.45%, painter32.11%, waiter38.04%, queen31.59%. Painter/queen keep more white for coloring. These RGB proofs have edge antialiasing and some intermediate values; not literal 1-bit production plates.
 
 ## Owner gate and next safe task
-Owner visual selection/refinement of these five. Do not silently add them to the approved15 or call the set approved20. After acceptance, establish final slot/order, prepare actual >=2550x3300 portrait print assets with appropriate binary ink and margins, and perform print QA in the authorized production lane. Publication is not authorized by this art pass.
+Owner visual selection/refinement of these five is the current art gate. Do not silently add them to the approved15 or call the set approved20. After acceptance, record the art roster lock and preserve each BEST version with its provenance. Continue only illustration work and visual QA under the Halloween bootstrap. Any factory integration, book assembly, pagination or KDP work requires a separate explicit owner instruction; it is not an automatic next task for this lane.

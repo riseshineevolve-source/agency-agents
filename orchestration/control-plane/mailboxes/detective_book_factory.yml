@@ -1,15 +1,15 @@
 lane: detective_book_factory
 title: "Detective Academy / Book Factory"
-updated: 2026-10-20
-status: STUDIO_SOURCE_DURABLE__FREEZE_ADAPTIVE_FACING_PHOTOS_IMPLEMENTED__REAL_VALIDATION_BLOCKED
+updated: 2026-10-21
+status: COMPLETE_OWNER_REVIEW
 exclusive_writer: codex_work_29b36a8d7861
-branch_or_repo_state: "feature/rse-book-factory-v2 @d45d4f602de35c2d3a2d319365d1b29d15d77e8a; Studio source truly registered"
-milestone: "Recoveredmodules+UI tests passed separately; new versioned production, freeze/selected-only, adaptive layout and24/25PhotoA/B now committed. Combinednewrealexport not yet run."
-blocker: "Sharedexecutor409environment_offline. No RemoteDesktopdevice connected on intended rise.shine.evolve account. CIrun39487502681 ended with0steps; reason unavailable."
-owner_gate: "Ordinary repairs/fullbuilds remain explicitly authorized; needworkingexecutionenvironment, not renewed writerpermission."
-dependencies_needed: [working_executor_or_connected_remote_device]
+branch_or_repo_state: "feature/rse-book-factory-v2 @8f7f7f05b4a82f8eef1692b2fe41b81be25887d9"
+milestone: "Full225-page PDF and Studio ZIP delivered.60tests and real Chromium workflow PASS. Selected25 correction preserves224other leaves. A24left/B25right; actual hollow question marks; measured source conversations;107solved roster entries preserved."
+blocker: null
+owner_gate: "Review delivered PDF and print proof.296original image instances under300effectivePPI; no fake upscaling or KDP-ready claim. Ordinary folio repairs remain authorized; owner approval not inferred."
+dependencies_needed: []
 reusable_outputs:
   - orchestration/control-plane/owner-decisions/2026-10-20_BOOK_FACTORY_EXCLUSIVE_WRITER_TRANSFER.md
-  - orchestration/brain/checkpoints/2026-10-20-book-factory-registered-studio-freeze-adaptive-recovery.md
-next_safe_task: "Restoreoneexecutor; hydratecurrentbranch+privateinputs, runsequentialtests/fullUI225p, realfreeze-selectedpixelproof, finalQA, packageanddeliverPDF+toolZIP. No finalreleaseclaim beforethese."
-checkpoint_reference: orchestration/brain/checkpoints/2026-10-20-book-factory-registered-studio-freeze-adaptive-recovery.md
+  - orchestration/brain/checkpoints/2026-10-21-book-factory-full-pdf-studio-verified-delivery.md
+next_safe_task: "Consume owner feedback by physical folio; preserve every other page and explicitly frozen leaf. New complex books need their own editable family profile. No automatic publication or product main merge."
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-21-book-factory-full-pdf-studio-verified-delivery.md

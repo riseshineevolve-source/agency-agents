@@ -1,6 +1,15 @@
 version: 25
 updated: 2026-09-28
 brain_status: canonical
+current_revenue_execution_override:
+  updated: 2026-10-21
+  authority: owner_requests_first_revenue_execution_plan
+  canonical_priority: orchestration/brain/COMMERCIAL_PRIORITY_STACK.md
+  queue: orchestration/control-plane/RSE_REVENUE_SPRINT_2026-10-21.yml
+  first_finish_candidate: optical_animals
+  next_book_preparation: gentle_steps_book
+  rule: current_queue_overrides_historical_priority_and_status_fields_below
+  new_product_launch_claimed: false
 latest_central_reconciliation:
   updated: 2026-10-21
   reference: orchestration/brain/checkpoints/2026-10-21-central-portfolio-takeover.md

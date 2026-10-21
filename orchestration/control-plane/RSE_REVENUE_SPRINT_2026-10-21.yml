@@ -1,0 +1,151 @@
+version: 1
+updated: 2026-10-21
+id: rse-first-revenue-2026-10-21
+authority: owner_asks_to_organize_all_work_for_earning_after_seven_weeks_without_publication
+status: PLAN_PUBLISHED__LANE_ACKNOWLEDGMENT_AND_EXECUTION_NOT_ASSUMED
+human_plan: orchestration/brain/RSE_FIRST_REVENUE_PLAN_2026-10-21.md
+primary_finish_candidate: optical_animals
+selection_basis: inferred_shortest_remaining_path_48_page_coloring_only_interior_and_intro_only_scope
+readiness: NOT_YET_PROVEN__COVER_METADATA_PREFLIGHT_AND_APPROVAL_MUST_BE_ESTABLISHED
+next_commercial_product: gentle_steps_book
+technical_wrapup_only: detective_book_factory
+max_primary_launches_in_production: 1
+max_secondary_product_preparation_tracks: 1
+product_source_writer_transfer: false
+publication_authorized_by_this_plan: false
+paid_spend_authorized_by_this_plan: false
+
+outcomes:
+  first: complete_hash_bound_release_packet_for_one_actual_product
+  second: required_preview_proof_owner_price_and_publication_approval
+  third: verified_live_retail_URL_and_purchase_availability
+  fourth: approved_organic_launch_and_observed_orders_or_actionable_conversion_evidence
+  not_success_metrics: [more_chats, more_commits, more_variants, architecture_completion_percent]
+
+targets:
+  timezone: Europe/Warsaw
+  nature: execution_targets_not_guaranteed_background_runs_or_Amazon_go_live_dates
+  2026-10-21: reconcile_existing_files_close_only_current_intro_exceptions_and_prepare_sales_copy
+  2026-10-22: one_complete_release_packet_or_exact_missing_assets_and_assigned_remedy
+  after_required_proof_and_owner_approval: submit_first_candidate_at_next_available_session
+  after_verified_live_listing: publish_only_approved_organic_assets_and_exact_buy_link
+
+switch_rule:
+  trigger: primary_packet_has_real_unresolved_source_cover_or_print_blocker
+  action: compare_already_existing_Gentle_Steps_release_assets_without_new_product_build
+  switch_only_if: another_existing_product_has_more_complete_verified_publishable_packet
+  never: start_third_product_or_rebuild_factory_to_avoid_missing_asset
+  existing_backlist: verify_any_existing_retail_listing_before_assuming_it_is_live_or_saleable
+
+release_packet_required:
+  - exact_interior_PDF_filename_page_count_dimensions_and_SHA256
+  - exact_full_wrap_cover_PDF_bound_to_current_paper_ink_page_count_trim_and_SHA256
+  - approved_title_subtitle_author_language_and_matching_listing_copy
+  - actual_ISBN_choice_and_account_payment_tax_setup_status_if_needed
+  - focused_preflight_and_actual_Print_Previewer_evidence
+  - representative_physical_proof_when_required_by_existing_product_gate
+  - source_provenance_rights_and_truthful_KDP_AI_generated_content_declaration
+  - proposed_launch_price_with_current_actual_print_cost_and_royalty_calculation
+  - one_consolidated_owner_decision_on_exact_files_price_and_submission
+  - verified_listing_URL_after_LIVE_not_search_link_or_invented_ASIN
+
+stop_rules:
+  - no_new_features_tools_templates_series_or_art_variants_without_proven_release_blocker
+  - preserve_owner_requested_bounded_final_polish_and_approved_originals
+  - no_global_rebuild_or_full_reaudit_after_a_local_change
+  - website_redesign_Play_approval_AI_indexing_and_other_products_do_not_block_KDP
+  - no_automatic_publication_source_freeze_paid_ads_or_waiver_of_print_quality
+  - no_Actions_retry_loop_when_account_budget_prevents_runner_start
+  - finish_current_atomic_change_and_checkpoint_before_parking_noncritical_lanes
+
+assignments:
+  central_control_tower:
+    priority: P0
+    task: own_one_launch_queue_collect_packet_route_exact_missing_assets_and_consolidate_owner_decision
+    complete_when: packet_has_actual_files_evidence_price_and_one_remaining_owner_decision
+  optical_animals:
+    priority: P0
+    task: finish_existing_intro_only_preserve_V4_animals_order_and_other_pages_expose_exact_interior_and_current_cover
+    complete_when: release_packet_inputs_exist_or_specific_missing_cover_source_or_quality_defect_is_recorded
+  marketing_autopilot:
+    priority: P0
+    task: prepare_one_Optical_Animals_listing_and_launch_price_from_verified_product_plus_three_reusable_organic_assets
+    complete_when: source_faithful_listing_keywords_categories_actual_price_calculation_and_drafts_ready_for_review
+    secondary: inventory_verified_existing_Gentle_Steps_listing_or_source_assets_no_assumed_ASIN
+    public_posting: held_for_exact_content_approval_and_verified_sale_link
+  gentle_steps:
+    priority: P1
+    task: expose_existing_EN_PL_book_cover_and_interior_inputs_then_supply_actual_PL_R6_template_proof_without_new_app_features
+    complete_when: exact_book_asset_inventory_and_real_R6_print_proof_or_specific_missing_file_recorded
+    app: owner_phone_test_only_then_concrete_defect_fixes
+  polish_localization:
+    priority: P1
+    task: verify_actual_Gentle_Steps_print_fit_and_bounded_existing_language_exceptions_no_new_translation_program
+    complete_when: source_bound_print_exceptions_closed_or_exact_blocker_handed_back
+    detective: preserve_existing_V10_R8_authority_and_proof_work_no_latest_EN_migration_by_assumption
+  detective_book_factory:
+    priority: P1_BOUNDED_REVIEW
+    task: preserve_delivered_225_page_PDF_and_Studio_accept_folio_specific_feedback_only
+    complete_when: true_print_blockers_from_existing_review_are_resolved_or_exact_proof_decision_is_exposed
+    no_work: new_generic_engine_features_or_automatic_replacement_of_all_296_lower_PPI_instances
+  build_desk:
+    priority: P1_SUPPORT_ONLY
+    task: existing_exclusive_Book_Factory_writer_handles_only_reproducible_release_blocking_tool_defects
+    complete_when: current_verified_Studio_remains_reproducible_without_new_feature_work
+    writer_boundary: no_new_parallel_product_writer_or_branch_handoff
+  website_factory:
+    priority: P1_SALES_SUPPORT
+    task: prepare_minimal_existing_product_link_integration_preserving_approved_copy_then_apply_only_after_release_authorization
+    complete_when: exact_live_buy_link_can_be_connected_without_waiting_for_full_site_or_PL_rebuild
+  ai_discovery:
+    priority: P2_AFTER_LISTING
+    task: preserve_current_work_then_only_correct_verified_product_entity_link_and_indexing_exceptions
+    complete_when: current_checkpoint_saved_no_new_prompt_or_article_expansion_blocks_launch
+  optical_halloween:
+    priority: P1_ART_REVIEW_ONLY
+    task: finish_owner_review_of_existing_five_candidates_preserve_selected15_no_new_worlds_or_extra_variants
+    complete_when: exact_five_selected_or_bounded_feedback_checkpointed
+    assembly_and_publication: not_authorized_by_this_plan_illustration_only_scope_preserved
+  world_app_factory:
+    priority: PARK_AFTER_SAFE_CHECKPOINT
+    task: preserve_current_provenance_runtime_work_and_stop_new_features_until_first_launch_packet_complete
+    complete_when: own_checkpoint_protects_current_branch_and_any_uncommitted_work
+  happy_me:
+    priority: PARK_AT_EXTERNAL_GATES
+    task: retain_current_package_and_auth_device_signing_privacy_tasks_no_new_feature_work
+    complete_when: existing_release_handoff_preserved_handle_only_actual_blocking_or_safety_defects
+  senior_mind_bloom:
+    priority: PARK_AFTER_SAFE_CHECKPOINT
+    task: complete_current_bounded_Senior_verification_checkpoint_then_no_new_features_Mind_Bloom_stays_private_frozen
+    complete_when: latest_code_test_state_recorded_without_release_or_Child_Mode_enablement
+  unstoppable:
+    priority: PARK_SOURCE_CANDIDATE
+    task: preserve_current_owner_read_candidate_no_new_book_layout_or_app_build
+    complete_when: source_and_next_owner_gate_are_checkpointed
+  opinie:
+    priority: PARK_NONCOMMERCIAL
+    task: preserve_sanitized_code_and_local_private_data_no_new_remote_case_work
+    complete_when: safe_current_state_retained
+  quick_desk:
+    priority: READ_ONLY
+    task: answer_only_release_packet_readiness_exact_blocker_and_next_owner_decision
+    complete_when: no_duplicate_audit_or_product_writer_started
+
+communication:
+  source: central_mailbox_revenue_notice_and_registry_queue_pointer
+  acknowledgment: each_existing_writer_in_own_mailbox_or_checkpoint_only
+  closed_chats_woken: false
+  receipt_or_completion_claimed: false
+  follow_up: changed_evidence_only_no_hourly_manual_polling
+
+current_evidence:
+  optical_animals: V4_48pages_intro_V7_owner_review_cover_readiness_unverified
+  gentle_steps: app_c98e5fe_local_native_PASS_real_phone_pending_PL_book_proof_separate
+  detective: delivered225pages_Studio60tests_ChromiumPASS_print_review_open
+  halloween: five_generated_candidates_owner_review_not_approved20_not_print_masters
+  new_product_LIVE_claim: false
+
+official_release_references:
+  - https://kdp.amazon.com/en_US/help/topic/G201834190
+  - https://kdp.amazon.com/en_US/help/topic/G200627450
+  - https://kdp.amazon.com/en_US/help/topic/G200672390

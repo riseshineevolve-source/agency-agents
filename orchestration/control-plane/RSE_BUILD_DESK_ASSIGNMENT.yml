@@ -1,19 +1,21 @@
 version: 1
-updated: 2026-10-07
-status: ACTIVE
+updated: '2026-10-21'
+status: BOUNDED_RELEASE_SUPPORT__NO_NEW_FACTORY_FEATURES
 primary_assignment:
   lane: detective_book_factory
-  reason: highest_current_finish_value_and_heavy_engineering_need
+  reason: existing_Studio_and_225p_PDF_delivered_only_actual_release_blocking_defects_remain
   allowed_mode: auxiliary_task_branch_or_lane_writer_only_if_explicitly_handed_off
-fallback_order:
-  - gentle_steps
-  - world_app_factory
-  - optical_animals
+  objective: Preserve current verified Studio; repair only reproducible tool defects preventing actual
+    release. No engine expansion, new family or new product writer.
+fallback_order: []
 switch_rule:
-  - switch only when current assignment is at a genuine owner/external gate or Central explicitly reassigns
+- No automatic fallback to another app/tool build.
+- A different bounded task requires Central assignment, actual launch value and one-writer-safe handoff.
 collision_rule:
-  - never edit a branch/worktree with another active writer
-  - if lane writer is active, use a separate task branch/worktree and return a checkpoint/PR rather than writing the lane surface directly
+- never edit a branch/worktree with another active writer
+- if lane writer is active, use a separate task branch/worktree and return a checkpoint/PR rather than
+  writing the lane surface directly
 source_of_truth:
-  - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
-  - orchestration/control-plane/RSE_BUILD_DESK_BOOTSTRAP.md
+- orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+- orchestration/control-plane/RSE_BUILD_DESK_BOOTSTRAP.md
+revenue_queue: orchestration/control-plane/RSE_REVENUE_SPRINT_2026-10-21.yml
