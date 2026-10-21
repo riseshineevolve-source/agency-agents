@@ -1,7 +1,7 @@
 lane: world_app_factory
 title: "World 01 + World 02 / Interactive App Factory"
 updated: 2026-10-21
-status: CHARACTER_TEXT_SOURCE_SLICE_PASS__REMAINING_INTRO_ENDGAME_GAPS__UPLOAD_GATED
+status: INTRODUCTION_TEXT_SOURCE_SLICE_PASS__PR12_UPDATED__REMAINING_ENDGAME_GAPS
 branch_or_repo_state:
   source_repo: riseshineevolve-source/agency-agents
   source_branch: codex/world02-level19-recovery-20261021
@@ -13,11 +13,11 @@ branch_or_repo_state:
   existing_level18_runtime_pr: https://github.com/riseshineevolve-source/spark-joy-fam/pull/11
   existing_level18_runtime_head: 42465032c7e103bbfe6cc8326843d38fa61a3568
   local_runtime_branch: codex/world-factory-recovery-20261021
-  local_runtime_head: 9d10d66c3f79ac289bf6acf68d9a001741907b0f
+  local_runtime_head: 07b71ea36303f2d04ce778408d27877986296523
   runtime_worktree: owner_device_GitHub/world-factory-recovery-20261021
   runtime_new_pr: https://github.com/riseshineevolve-source/spark-joy-fam/pull/12
-  remote_runtime_head: 8eae6fb9feecdf93381fd234eb8bea92dab6a136
-  runtime_pushed: previous_approved_head_only
+  remote_runtime_head: 07b71ea36303f2d04ce778408d27877986296523
+  runtime_pushed: all_owner_authorized_changes_to_existing_PR12
 milestone: >-
   Consolidated World01/02 context and sole-writer scope. Recovered the exact
   Level19 pair from19d31c8 and created a visually verified Level20 pair from
@@ -28,19 +28,14 @@ milestone: >-
   with duplicate cutout/reference tables, four blank fields, exact variants
   and source-art/QR provenance; endgame now has a separate local internal renderer and owner-test app.
 blocker: >-
-  Hosted CI cause confirmed from annotation: The job was not started because
-  an Actions budget is preventing further use. No job steps executed.
-  Last verified local code has passed dual native builds and package inspection.
-  Owner Desktop Commander device is now online; local status/diff was inspected
-  and final worktree is clean. Source-bound parent notes passed in both apps.
-  Expanded runtime upload was rejected by automatic approval review.
+  Hosted Actions remains budget-blocked and is not rerun. Current local web
+  scope is verified. Remaining product work is title/map source metadata,
+  World01 ending parity, current-content native rebuild and physical-device QA.
 owner_gate: >-
-  Earlier exact commit remains uploaded in draft PR12. New local payload
-  includes full endgame source, original PDF artwork, owner-test code and QA
-  artifacts. Explicit owner approval is required before uploading this
-  expanded payload; do not retry via alternate connector or destination.
-  Public integration/deployment, editorial decisions, physical-device QA,
-  final identity/signing, legal and store release remain gated.
+  Owner explicitly authorized all current World01/02 changes and future fixes
+  to spark-joy-fam PR12 on21 October; this supersedes the historical upload gate.
+  No public integration/deployment, editorial approval, physical-device QA,
+  final identity/signing, legal or store release approval is implied.
 dependencies_needed: []
 reusable_outputs:
   - orchestration/projects/world-app-factory/PROJECT_BRIEF.md
@@ -56,7 +51,8 @@ reusable_outputs:
 verification:
   source_workflow: all17_executable_steps_PASS_locally
   focused_source_tests: {level19: 10, level20: 12, endgame: 15}
-  runtime_tests: {files: 33, passed: 140}
+  runtime_tests: {files: 35, passed: 150, timing: before_final_UTF8_data_correction}
+  final_affected_tests: {files: 1, passed: 5, timing: after_UTF8_correction}
   runtime_typecheck_lint_build_release_audit: PASS
   browser: actual_World01_Chrome_390x844_entry_headings_START_no_overflow_no_errors_PASS
   new_head_hosted_ci: local_expansion_not_uploaded__previous_head_actions_budget
@@ -74,13 +70,11 @@ editorial_watch:
   - Existing whole-World02 and endgame factual/child-safety review remains required before public release.
   - World01 Levels7-10 code authority was resolved by owner on2026-09-30; never reopen stale summary conflict.
 next_safe_task: >-
-  Continue remaining canonical boot/introduction pages after the now-proven
-  page2 parent-note slice in both worlds. Establish World01 endgame pages100-108
-  parity while preserving the resolved September30 family-code authority.
-  Current code2466997 and local checkpoint46206c0 are local only. Do not redo
-  unchanged green checks or upload expanded payload before explicit approval.
-  Native artifacts still prove16673c0 only; full frontmatter and full-book
-  completion are not established. Preserve Gentle Steps independence.
+  Bind remaining title/map metadata World01 pp1,13 and World02 pp1,12, then
+  establish World01 ending parity pp100-108 preserving resolved codes.
+  World01 pp12,14 are visually blank except page furniture. Rebuild both native
+  packages once after content closure; physical phone and editorial/release gates
+  remain. Do not repeat unchanged green checks or start unrelated features.
 checkpoint_reference: >-
   PR39 @ aa02797a717e37a4d493e92268f5312f060279cc:
   orchestration/projects/world-app-factory/CHECKPOINT.yml
@@ -245,3 +239,39 @@ character_source_followup_2026_10_21:
   runtime_model_reasoning_speed_observed: UNKNOWN
   application_status: RECOMMENDATION_ONLY
   next_safe_task: remaining_canonical_intro_text_then_World01_endgame_parity_without_reopening_resolved_codes
+
+introduction_source_followup_2026_10_21:
+  code_commit: 3df9b996a2f59d53a5f5b2b381e313ae37dc6bb6
+  checkpoint_commit: 07b71ea36303f2d04ce778408d27877986296523
+  scope: visible_introduction_text_pages3to6_both_worlds_55nodes_each
+  method: manual_visual_transcription_exact_canonical_PDF_SHA_page_raster_hashes
+  stable_ids_and_world_specific_copy: preserved
+  full_page_art_parity: NOT_CLAIMED
+  full_regression: PASS_35files_150tests_before_final_UTF8_data_correction
+  final_affected_tests: PASS_5_after_UTF8_correction_and_mojibake_regression_guard
+  final_typecheck_both_web_builds: PASS
+  lint_release_audit: PASS_before_data_only_UTF8_correction
+  browser: PASS_both_worlds_110nodes_Enter_Space_focus_16px_320_390_offline_reload_progress_unchanged_mission_entry_no_overflow_no_pageerrors
+  character_browser_regression: PASS
+  unicode_fix: explicit_UTF8_input_and_curly_apostrophe_guard_visually_verified
+  browser_proof: release/qa-introduction-source-20261021/browser-proof.json
+  verification: release/INTRODUCTION_SOURCE_VERIFICATION_2026-10-21.json
+  handoff: release/INTRODUCTION_SOURCE_HANDOFF_2026-10-21.md
+  current_upload_authority: explicit_owner_all_current_World01_World02_and_future_PR12_fixes
+  upload_destination: riseshineevolve-source/spark-joy-fam_PR12
+  runtime_PR12_head: 07b71ea36303f2d04ce778408d27877986296523
+  historical_upload_gate: SUPERSEDED_by_owner_authorization
+  upload_review_resolution: fresh_GitHub_PR_head_repo_branch_SHA_and_git_remote_verified_guarded_fast_forward
+  current_native: NOT_REBUILT_UI_SLICE_prior16673c0_receipt_preserved
+  adb_readonly: two_emulators_no_physical_phone_other_lane_devices_untouched
+  remaining_intro_metadata: World01_pages1_13_World02_pages1_12
+  blank_page_observation: World01_pages12_14_only_page_furniture_no_product_copy
+  World01_endgame_pages100to108: NOT_PROVEN
+  public_entry: World01_only_World02_internal
+  publication_ready: false
+  hosted_ci: budget_block_not_retried_skip_ci
+  model_policy_ack: rse-weekly-usage-2026-10-21-v1
+  recommended_profile: production
+  runtime_model_reasoning_speed_observed: UNKNOWN
+  application_status: RECOMMENDATION_ONLY
+  revenue_policy_ack: direct_owner_bounded_finalization_Gentle_Steps_independent
