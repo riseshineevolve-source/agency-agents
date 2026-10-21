@@ -1,7 +1,7 @@
 lane: central_control_tower
 title: RSE Central Control Tower
 updated: 2026-10-21
-status: OA_INTRO_PRINT_HOLD_VERIFIED__EXACT_RELEASE_RECEIPTS_REQUESTED
+status: OA_DECORATIVE_BIRD_DESIGN_RECEIVED__PRINT_PACKET_STILL_OPEN
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   observed_base: 3b4d9e7ab19134849eee2eb2b8619b1129d768d8
@@ -9,14 +9,17 @@ branch_or_repo_state:
   core_chats: 11
   supplemental_streams_and_desks: 5
   chat_liveness: not_established_by_registry_or_mailbox
-  reconciled_evidence_base: 51e76a2556b6116620f5957c83950feff5654cf0
-milestone: 'Reconciled new delivery: Detective225p PDF and Studio complete for owner review; Gentle Steps
+  reconciled_evidence_base: 1c205adf39752eb91922b02854375049fbb1734c
+milestone: 'Received completed five-page decorative-bird visual design v3; replaced superseded v2
+  identity and closed the family-direction question. Print derivatives/native typography,
+  matching cover, proof and price remain open. Reconciled earlier delivery: Detective225p PDF and Studio complete for owner review; Gentle Steps
   fresh local native build and phone-test package ready; Halloween five candidates generated. Replaced
   diffuse priority queue with one OA release candidate, next seasonal book preparation and bounded existing
   tool defects only. No new product publication or sale is claimed.'
 blocker: Primary candidate OA full-wrap cover, exact final interior acceptance, pricing and actual publication
-  packet remain unverified. Producers must expose exact existing assets or named blockers. GitHub Actions
-  budget block is explicitly recorded in fresh Gentle Steps evidence; no paid fix or retry loop. A repo
+  packet remain unverified. Producers must expose exact existing assets or named blockers. Earlier Gentle Steps CI
+  recorded a budget block; latest owner permits extremely sparing Actions under a stated $7
+  ceiling, current remaining balance unverified. No billing change or retry loop. A repo
   notice does not wake or acknowledge another chat.
 owner_gate: null
 dependencies_needed:
@@ -122,10 +125,14 @@ policy_notifications:
 
 release_readiness:
   card: orchestration/brain/RSE_FIRST_RELEASE_READINESS_2026-10-21.md
-  evidence_base: 5aedc3c8c6f09f65aa70e5d4911f7f8acc819926
+  evidence_base: 1c205adf39752eb91922b02854375049fbb1734c
   evidence_level: PRODUCER_RECEIPTS_READ__PRIVATE_ARTIFACT_BYTES_NOT_REHASHED
-  new_fact: OA_current_intro_is_five_page_review_only_not_integrated_128ppi_print_hold
-  current_intro_review_sha256: d086da6c77f03646f4cbeb0d178f4ec5502e4512aa9d3951b3ebbd403df94842
+  new_fact: OA_five_decorative_bird_visual_designs_delivered_copy_QA_PASS_not_integrated_127ppi_print_hold
+  current_intro_review_sha256: ea50f7dd0100cafa45be8477eb469b76d5a803919b1c87e6509a2952cc79f216
+  current_intro_version: 3
+  decorative_bird_direction: OWNER_SELECTED_NO_NEW_FAMILY_DECISION
+  final_visual_feedback: OPEN
+  print_masters_and_full_interior: NOT_DELIVERED
   previous_V7_is_current_final: false
   fallback_compared: gentle_steps_existing_book_receipts
   fallback_result: NOT_PROVEN_MORE_COMPLETE__HISTORICAL_PAPERBACK_AND_HARDCOVER_POINTERS_NOT_MATCHED
@@ -139,8 +146,9 @@ release_packet_requests:
     need: >-
       Expose exact existing V4 filename/location and current full-wrap cover filename/location/SHA256,
       binding/trim/bleed/paper/ink/page-count match and exact metadata lock.
-      Current five-page intro review is not integrated; retain later owner feedback.
-      State bounded native-resolution/vector-text and footer-safe-area remedy,
+      Current version3 decorative-bird visual set is delivered but not integrated.
+      Do not reopen the selected motif or generate additional family variants.
+      Prepare faithful print derivatives/native typography and verify print-safe placement,
       then expose final accepted 48-page interior hash and retained-page verification.
       Preserve approved art/order and actual Previewer/physical-proof gates.
       Do not recreate a cover until existing cover source is resolved.
@@ -172,3 +180,20 @@ runtime_model_observed: UNKNOWN_NO_CLIENT_SETTING_READ
 runtime_reasoning_observed: UNKNOWN_NO_CLIENT_SETTING_READ
 runtime_speed_observed: UNKNOWN_NO_CLIENT_SETTING_READ
 application_status: RECOMMENDATION_ONLY
+
+resource_policy_notice:
+  id: rse-actions-cost-privacy-owner-20261021
+  authority: latest_owner_instruction_in_current_conversation
+  owner_stated_actions_budget_usd: 7
+  current_balance_independently_verified: false
+  recipients: all_registered_lanes
+  directive: >-
+    Actions only extremely sparingly for a named necessary gate. Prefer existing
+    valid receipts and local deterministic checks. No metadata-only workflow runs,
+    redundant matrix rebuilds or cloud reruns or retry loop when budget blocks allocation.
+    The stated ceiling does not authorize billing changes or imply remaining credit.
+    Keep unpublished content and private account data out of public repository writes.
+  delivery_state: PUBLISHED_IN_CENTRAL_MAILBOX__NO_RECIPIENT_ACK_ASSUMED
+  this_reconciliation_cloud_runs_started: 0
+  repo_visibility_changed: false
+  n8n_current_execution_and_subscription_status: UNVERIFIED_NO_RENEWAL_OR_NEW_WORKFLOW_AUTHORIZED
