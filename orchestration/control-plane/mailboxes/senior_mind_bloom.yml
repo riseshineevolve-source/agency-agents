@@ -1,7 +1,7 @@
 lane: senior_mind_bloom
 title: "Senior / Hello Today + Mind Bloom"
 updated: 2026-10-21
-status: SENIOR_CACHE_PUSHED_LOCAL_PASS__CLOUD_DEVICE_HELD__MIND_BLOOM_FROZEN
+status: SENIOR_OWNER_REQUESTED_FULL_AUDIT_AND_FIXES_ACTIVE__MIND_BLOOM_FROZEN
 branch_or_repo_state:
   senior:
     repository: riseshineevolve-source/hello-today-android.
@@ -82,3 +82,20 @@ source_push_receipt:
   pr: https://github.com/riseshineevolve-source/hello-today-android./pull/77
   main_merge: false
   app_publication: false
+
+owner_requested_audit_20261021:
+  authority: latest_explicit_owner_request_for_RSE_agents_full_app_UX_accessibility_logic_language_visual_audit_and_fixes
+  supersedes_park_for_this_scope: true
+  active_writer_worktree: 'C:\Users\danie\GitHub\senior-offline-family-20261021'
+  base_head: 73a6e10f17b6f06fd6813c78bc1f1491fba2c40b
+  agents: [Accessibility_Auditor, Mobile_App_Builder_Reality_Checker, PL_EN_language_family_ear_logic_reviewer]
+  current_state: local_fixes_and_API36_emulator_validation_in_progress_not_committed
+  checks_so_far: baseline_API36_phone_Day1_9_PASS__backend_Firestore_focused_13_PASS
+  first_integrated_build: unit_tests_passed__instrumentation_compile_failed_new_test_import_being_corrected
+  device_environment: local_API36_Pixel6_and_PixelC_google_apis_emulators_started_no_physical_device_claim
+  cloud_runs_started: 0
+  actions_containment_ack: latest_central_manual_only_budget_containment_branch_sync_required_before_push
+  production_child_mode: OFF
+  month01: DRAFT_publication_boundary_preserved
+  protected_editorial_corpora: EN_PL_unchanged
+  mind_bloom: unchanged_private_single_owner_frozen_phase2b_closed
