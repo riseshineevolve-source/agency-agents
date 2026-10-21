@@ -1,22 +1,23 @@
 name: Test Installer
 
-# No path filter on purpose: the installer's contract can break from the other
-# side too — a renamed division, a file that loses its frontmatter, a change to
-# lib.sh — so these run on every PR.
 on:
-  pull_request:
-  push:
-    branches: [main]
+  workflow_dispatch:
+
+# Owner-authorized budget containment: manual gates only; local checks remain required.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   test-install:
     name: install.sh behavior (${{ matrix.os }})
     runs-on: ${{ matrix.os }}
+    timeout-minutes: 10
     strategy:
       fail-fast: false
       matrix:
         # macOS ships bash 3.2, Linux ships bash 5 — the scripts must pass on both.
-        os: [ubuntu-latest, macos-latest]
+        os: [ubuntu-latest]
     steps:
       - uses: actions/checkout@v4
 

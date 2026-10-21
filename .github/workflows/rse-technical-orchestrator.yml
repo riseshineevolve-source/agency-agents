@@ -1,19 +1,17 @@
 name: RSE Technical Orchestrator validation
 
 on:
-  pull_request:
-    paths:
-      - 'orchestration/**'
-      - '.github/workflows/rse-technical-orchestrator.yml'
-  push:
-    branches: [main]
-    paths:
-      - 'orchestration/**'
-      - '.github/workflows/rse-technical-orchestrator.yml'
+  workflow_dispatch:
+
+# Owner-authorized budget containment: manual gates only; local checks remain required.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   validate-contract:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 

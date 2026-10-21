@@ -190,3 +190,14 @@ Track monthly:
 
 Success metric:
 published throughput, not number of agent runs.
+
+
+## Owner-directed containment — 2026-10-21
+
+Owner ceiling: USD 7; remaining balance not independently verified. Do not raise budgets.
+Agency Actions: temporary manual-only mode for all 14 workflows, no schedule/push/PR triggers. Tests remain mandatory locally before merge/release; manual execution only for a named cloud-only release gate with recorded purpose, commit and estimated minutes. Do not infer PASS from absence of CI. Required checks, if configured, must not be bypassed; run the named workflow manually or keep merge blocked.
+Linux only for installer; macOS removed from the default matrix. Jobs capped at 10 minutes; duplicate manual runs cancel prior runs; report retention one day. Cloud run count for this change: zero.
+Website central cost exception: SEO/Lighthouse and production-verification schedules/blanket triggers are to be made manual-only; product source untouched. Other lane workflows are not claimed changed until exact commits are recorded.
+All 16 lanes: acknowledge this policy in your own mailbox at next checkpoint. Do not restore schedules, broad push triggers, costly runner matrices or repeated retries without central review. Repo notices do not wake closed chats.
+Privacy blocker: agency-agents is a public fork of msitarzewski/agency-agents. Detach the fork first, preserving repository/history/issues, then set private and verify existing authenticated writers. No deletion/recreation or new public copy. Administrative tool is not exposed by current GitHub connector. Remote host lacks gh CLI.
+n8n: no matching plugin found; Cloud panel failed to load in this attempt. Current subscription/trial/execution/export status remains unverified. No paid renewal, migration or new workflow activation is claimed.

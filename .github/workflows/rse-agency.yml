@@ -1,25 +1,17 @@
 name: RSE AI Agency validation
 
 on:
-  pull_request:
-    paths:
-      - 'rse/**'
-      - 'specialized/rse-orchestrator.md'
-      - 'scripts/**'
-      - 'divisions.json'
-      - '.github/workflows/rse-agency.yml'
-  push:
-    branches: [main]
-    paths:
-      - 'rse/**'
-      - 'specialized/rse-orchestrator.md'
-      - 'scripts/**'
-      - 'divisions.json'
-      - '.github/workflows/rse-agency.yml'
+  workflow_dispatch:
+
+# Owner-authorized budget containment: manual gates only; local checks remain required.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   validate-smart-codex-install:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4

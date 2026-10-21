@@ -1,16 +1,18 @@
 name: Check Tools Consistency
 
-# Runs on every PR (no path filter on purpose): a new or renamed tool must trip
-# this check even when nobody touched tools.json or the install/convert scripts.
 on:
-  pull_request:
-  push:
-    branches: [main]
+  workflow_dispatch:
+
+# Owner-authorized budget containment: manual gates only; local checks remain required.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   check-tools:
     name: tools.json is the single source of truth
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 

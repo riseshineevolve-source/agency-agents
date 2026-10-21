@@ -1,31 +1,18 @@
 name: Lint Agent Files
 
 on:
-  pull_request:
-    paths:
-      - "academic/**"
-      - "design/**"
-      - "engineering/**"
-      - "finance/**"
-      - "game-development/**"
-      - "gis/**"
-      - "healthcare/**"
-      - "marketing/**"
-      - "paid-media/**"
-      - "sales/**"
-      - "security/**"
-      - "product/**"
-      - "project-management/**"
-      - "research/**"
-      - "testing/**"
-      - "support/**"
-      - "spatial-computing/**"
-      - "specialized/**"
+  workflow_dispatch:
+
+# Owner-authorized budget containment: manual gates only; local checks remain required.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   lint:
     name: Validate agent frontmatter and structure
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
         with:
@@ -34,7 +21,7 @@ jobs:
       - name: Get changed agent files
         id: changed
         run: |
-          FILES=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- \
+          FILES=$(git ls-files -- \
             'academic/**/*.md' 'design/**/*.md' 'engineering/**/*.md' 'finance/**/*.md' 'game-development/**/*.md' 'gis/**/*.md' 'healthcare/**/*.md' 'marketing/**/*.md' 'paid-media/**/*.md' 'sales/**/*.md' 'security/**/*.md' 'product/**/*.md' \
             'project-management/**/*.md' 'research/**/*.md' 'testing/**/*.md' 'support/**/*.md' \
             'spatial-computing/**/*.md' 'specialized/**/*.md')

@@ -1,36 +1,9 @@
 name: Refresh converted-output manifest
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "academic/**"
-      - "design/**"
-      - "engineering/**"
-      - "finance/**"
-      - "game-development/**"
-      - "gis/**"
-      - "healthcare/**"
-      - "marketing/**"
-      - "paid-media/**"
-      - "product/**"
-      - "project-management/**"
-      - "research/**"
-      - "sales/**"
-      - "security/**"
-      - "spatial-computing/**"
-      - "specialized/**"
-      - "support/**"
-      - "testing/**"
-      - "divisions.json"
-      - "tools.json"
-      - "runbooks.json"
-      - "scripts/convert.sh"
-      - "scripts/lib.sh"
-      - "scripts/test-convert-outputs.sh"
-      - ".github/workflows/update-convert-manifest.yml"
+  workflow_dispatch:
 
+# Owner-authorized budget containment: manual gates only; local checks remain required.
 permissions:
   contents: write
 
@@ -42,7 +15,7 @@ jobs:
   refresh:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     steps:
       - name: Checkout main
         uses: actions/checkout@v4

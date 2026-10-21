@@ -1,88 +1,15 @@
 name: Interactive Book Contract
 
 on:
-  push:
-    paths:
-      - 'scripts/validate-interactive-book-pack.py'
-      - 'scripts/test-interactive-book-validator.py'
-      - 'scripts/validate-world01-pilot-provenance.py'
-      - 'scripts/test-world01-pilot-provenance.py'
-      - 'scripts/build-world01-graph.py'
-      - 'scripts/validate-interactive-book-graph.py'
-      - 'scripts/test-interactive-book-graph.py'
-      - 'scripts/build-world02-graph.py'
-      - 'scripts/validate-world02-graph.py'
-      - 'scripts/test-world02-graph.py'
-      - 'scripts/test-world02-level18.py'
-      - 'orchestration/content-packs/world02/**'
-      - 'orchestration/content-sources/world02-level11-page-evidence.json'
-      - 'orchestration/content-sources/world02-level12-page-evidence.json'
-      - 'orchestration/content-sources/world02-level13-page-evidence.json'
-      - 'orchestration/content-sources/world02-level14-page-evidence.json'
-      - 'orchestration/content-sources/world02-level15-page-evidence.json'
-      - 'orchestration/content-sources/world02-level16-page-evidence.json'
-      - 'orchestration/content-sources/world02-level17-page-evidence.json'
-      - 'orchestration/content-sources/world02-level18*'
-      - 'orchestration/content-sources/world02-level19*'
-      - 'orchestration/content-sources/world02-level20*'
-      - 'orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md'
-      - 'orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_GRAPH_V1.md'
-      - 'orchestration/architecture/fixtures/interactive-book/**'
-      - 'orchestration/content-packs/world01/**'
-      - 'orchestration/content-sources/world01-paperback-opener-evidence.json'
-      - 'orchestration/content-sources/world01-level1-page-evidence.json'
-      - 'orchestration/content-sources/world01-level2-page-evidence.json'
-      - 'orchestration/content-sources/world01-level3-page-evidence.json'
-      - 'orchestration/content-sources/world01-level4-page-evidence.json'
-      - 'orchestration/content-sources/world01-level5-page-evidence.json'
-      - 'orchestration/content-sources/world01-level6-page-evidence.json'
-      - 'orchestration/content-sources/world01-level7-page-evidence.json'
-      - 'orchestration/content-sources/world01-level8-page-evidence.json'
-      - 'orchestration/content-sources/world01-level9-page-evidence.json'
-      - 'orchestration/content-sources/world01-level10-page-evidence.json'
-      - '.github/workflows/interactive-book-contract.yml'
-  pull_request:
-    paths:
-      - 'scripts/validate-interactive-book-pack.py'
-      - 'scripts/test-interactive-book-validator.py'
-      - 'scripts/validate-world01-pilot-provenance.py'
-      - 'scripts/test-world01-pilot-provenance.py'
-      - 'scripts/build-world01-graph.py'
-      - 'scripts/validate-interactive-book-graph.py'
-      - 'scripts/test-interactive-book-graph.py'
-      - 'scripts/build-world02-graph.py'
-      - 'scripts/validate-world02-graph.py'
-      - 'scripts/test-world02-graph.py'
-      - 'scripts/test-world02-level18.py'
-      - 'orchestration/content-packs/world02/**'
-      - 'orchestration/content-sources/world02-level11-page-evidence.json'
-      - 'orchestration/content-sources/world02-level12-page-evidence.json'
-      - 'orchestration/content-sources/world02-level13-page-evidence.json'
-      - 'orchestration/content-sources/world02-level14-page-evidence.json'
-      - 'orchestration/content-sources/world02-level15-page-evidence.json'
-      - 'orchestration/content-sources/world02-level16-page-evidence.json'
-      - 'orchestration/content-sources/world02-level17-page-evidence.json'
-      - 'orchestration/content-sources/world02-level18*'
-      - 'orchestration/content-sources/world02-level19*'
-      - 'orchestration/content-sources/world02-level20*'
-      - 'orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_CONTRACT_V0.md'
-      - 'orchestration/architecture/RSE_INTERACTIVE_BOOK_CONTENT_GRAPH_V1.md'
-      - 'orchestration/architecture/fixtures/interactive-book/**'
-      - 'orchestration/content-packs/world01/**'
-      - 'orchestration/content-sources/world01-paperback-opener-evidence.json'
-      - 'orchestration/content-sources/world01-level1-page-evidence.json'
-      - 'orchestration/content-sources/world01-level2-page-evidence.json'
-      - 'orchestration/content-sources/world01-level3-page-evidence.json'
-      - 'orchestration/content-sources/world01-level4-page-evidence.json'
-      - 'orchestration/content-sources/world01-level5-page-evidence.json'
-      - 'orchestration/content-sources/world01-level6-page-evidence.json'
-      - 'orchestration/content-sources/world01-level7-page-evidence.json'
-      - 'orchestration/content-sources/world01-level8-page-evidence.json'
-      - 'orchestration/content-sources/world01-level9-page-evidence.json'
-      - 'orchestration/content-sources/world01-level10-page-evidence.json'
+  workflow_dispatch:
 
+# Owner-authorized budget containment: manual gates only; local checks remain required.
 permissions:
   contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   validate-contract:

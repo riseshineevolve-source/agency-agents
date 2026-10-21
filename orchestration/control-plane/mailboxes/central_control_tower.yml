@@ -197,3 +197,16 @@ resource_policy_notice:
   this_reconciliation_cloud_runs_started: 0
   repo_visibility_changed: false
   n8n_current_execution_and_subscription_status: UNVERIFIED_NO_RENEWAL_OR_NEW_WORKFLOW_AUTHORIZED
+
+actions_containment_implementation:
+  date: '2026-10-21'
+  authority: owner_explicit_implement_request
+  workflow_count: 14
+  mode: MANUAL_ONLY_TEMPORARY_BUDGET_CONTAINMENT
+  source_checks: LOCAL_REQUIRED_NO_GREEN_CI_INFERRED
+  cloud_runs_started: 0
+  policy: orchestration/control-plane/RSE_RESOURCE_COST_ROUTING_V1.md
+  recipients: all_registered_lanes
+  acknowledgments: PENDING
+  privacy: PUBLIC_FORK_DETACH_REQUIRED_ADMIN_OPERATION_UNAVAILABLE
+  n8n: CLOUD_PANEL_DID_NOT_LOAD_CURRENT_STATUS_UNVERIFIED
