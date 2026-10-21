@@ -9,6 +9,12 @@ Existing engine: `scripts/localization-engine.py`, `scripts/localization/`,
 `localization/pl-PL/engine/`, project production checkpoints and terminology.
 Read current sources; do not presume these live on main.
 
+Initial tool delivery is PR https://github.com/riseshineevolve-source/agency-agents/pull/40
+on `codex/polish-engine-language-studio-20261021`. If main/mailbox does not yet
+contain the tool, resolve that PR current head and read the CLI, profiles and
+repo skill from that exact commit. Prefer main once the reviewed change is merged.
+Do not require the user to repeat the bootstrap prompt.
+
 The uploaded 2026-10-21 premium-upgrade prompt informed this workflow. Its three
 proposed PREMIUM_BOOK_* bootstrap/protocol/runbook paths were absent from main
 at the October 21 implementation check. Do not pretend they were read. If later

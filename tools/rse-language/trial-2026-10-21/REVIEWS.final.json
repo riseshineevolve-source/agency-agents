@@ -1,0 +1,133 @@
+{
+  "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+  "reviews": [
+    {
+      "stage": "native_language",
+      "status": "PASS",
+      "reviewer": "independent-polish-native-and-book-register-reviewer",
+      "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+      "scope": [
+        "intro",
+        "game"
+      ],
+      "evidence": "Actual independent review saved in review-native-final.json; complete final candidate was read and hash verified.",
+      "findings": [],
+      "evidence_file": "review-native-final.json",
+      "evidence_sha256": "72330487eb47efa95cd7e48882d5fe898a3e2f45ab7f16754e733525666cdb6c"
+    },
+    {
+      "stage": "meaning",
+      "status": "PASS",
+      "reviewer": "Independent bilingual meaning and activity-mechanics reviewer",
+      "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+      "scope": [
+        "intro",
+        "game"
+      ],
+      "evidence": "Actual independent review saved in review-meaning-final.json; complete final candidate was read and hash verified.",
+      "findings": [
+        {
+          "segment_id": "intro",
+          "decision": "KEEP",
+          "status": "PASS",
+          "severity": null,
+          "source_meaning": "December is busy; readers can take a short break together.",
+          "candidate_wording": "W grudniu często jest sporo do zrobienia. Jeśli macie ochotę, możecie zrobić sobie krótką przerwę i pobyć razem.",
+          "assessment": "The unchanged neighboring unit preserves the December context, general busyness, brevity, togetherness and optional invitation. Często is compatible with the ordinary seasonal generalization. Jeśli macie ochotę makes the existing optionality explicit and does not add an obligation or factual benefit.",
+          "minimal_correction_requirement": null
+        },
+        {
+          "segment_id": "game",
+          "decision": "KEEP",
+          "status": "PASS",
+          "severity": null,
+          "source_meaning": "A 2-minute sound activity with one quiet starter, subsequent repetition plus one added sound, permission for anyone to pass, restart on loss of order, completion after everyone has had a turn, and literal timer-token retention.",
+          "candidate_wording": "Przeznaczcie na zabawę 2 minuty. Jedna osoba zaczyna od cichego dźwięku. Każda kolejna osoba powtarza dotychczasowy ciąg dźwięków i dodaje jeden dźwięk. Każdy może pominąć swoją kolej. Jeśli nie pamiętacie już kolejności dźwięków, zacznijcie od nowa. Zakończcie zabawę, gdy każdy będzie już po swojej turze. W etykiecie minutnika zachowajcie dokładny zapis {minutes}.",
+          "assessment": "All required actions, conditions, counts, permissions and the exact token remain present. The changed phrase po swojej turze expresses the same completed-turn condition as has had a turn and makes the actor/action relationship direct. The cumulative sound wording remains coherent with the supplied brief’s preceding-material and preserved-order requirements. No new precedence between timing and completion, starter-selection method, direction, round, variant, score or penalty appears.",
+          "change_review": {
+            "before": "gdy każdy będzie już po swojej kolejce",
+            "after": "gdy każdy będzie już po swojej turze",
+            "meaning_result": "Same completion condition; no new mechanic."
+          },
+          "minimal_correction_requirement": null
+        }
+      ],
+      "evidence_file": "review-meaning-final.json",
+      "evidence_sha256": "52a063e6bcff4be421e09b4da0c09f7a6ba8a23aed9c9f4d1f405784b7752495"
+    },
+    {
+      "stage": "audience",
+      "status": "PASS",
+      "reviewer": "audience_logic_review / independent Polish family ear and consent review",
+      "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+      "scope": [
+        "intro",
+        "game"
+      ],
+      "evidence": "Actual independent review saved in review-audience-final.json; complete final candidate was read and hash verified.",
+      "findings": [
+        {
+          "segment_id": "intro",
+          "status": "KEEP",
+          "evidence": [
+            "W grudniu często jest sporo do zrobienia. Jeśli macie ochotę, możecie zrobić sobie krótką przerwę i pobyć razem."
+          ],
+          "assessment": "Contemporary, ordinary Polish written for families. The seasonal setup is concrete and modest. “Jeśli macie ochotę, możecie” leaves the shared pause optional, without guilt, benefit promises, emotional disclosure, or pressure to participate. It leads naturally to the game.",
+          "minimal_correction": null
+        },
+        {
+          "segment_id": "game",
+          "status": "KEEP",
+          "evidence": [
+            "Każdy może pominąć swoją kolej.",
+            "Zakończcie zabawę, gdy każdy będzie już po swojej turze.",
+            "W etykiecie minutnika zachowajcie dokładny zapis {minutes}."
+          ],
+          "assessment": "The revised “po swojej turze” is natural in game instructions and clearly identifies a participant’s turn. The explicit permission to skip applies to every participant, gives no explanation requirement or penalty, and remains compatible with the completion sentence. Direct full sentences are readable without coaching language, fake warmth, forced slang, or manufactured humor. The timer-label sentence remains understandable as the instruction required by the brief.",
+          "minimal_correction": null
+        }
+      ],
+      "evidence_file": "review-audience-final.json",
+      "evidence_sha256": "55074ae8097422e6e841d63d583a1c8499a36f52a70a94aadd924dca16824ad2"
+    },
+    {
+      "stage": "logic",
+      "status": "PASS",
+      "reviewer": "audience_logic_review / independent Polish logic and continuity review",
+      "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+      "scope": [
+        "intro",
+        "game"
+      ],
+      "evidence": "Actual independent review saved in review-logic-final.json; complete final candidate was read and hash verified.",
+      "findings": [
+        {
+          "segment_id": "intro",
+          "status": "KEEP",
+          "evidence": [
+            "W grudniu często jest sporo do zrobienia. Jeśli macie ochotę, możecie zrobić sobie krótką przerwę i pobyć razem."
+          ],
+          "assessment": "December busyness sets up the optional short shared pause; the game supplies its concrete next action. There is no new causal promise, unclear pronoun, missing event, or broken transition. The unchanged neighboring segment remains compatible with the revised ending in game.",
+          "minimal_correction": null,
+          "neighboring_segments_checked": [
+            "game"
+          ]
+        },
+        {
+          "segment_id": "game",
+          "status": "KEEP",
+          "evidence": [
+            "Przeznaczcie na zabawę 2 minuty. Jedna osoba zaczyna od cichego dźwięku. Każda kolejna osoba powtarza dotychczasowy ciąg dźwięków i dodaje jeden dźwięk. Każdy może pominąć swoją kolej. Jeśli nie pamiętacie już kolejności dźwięków, zacznijcie od nowa. Zakończcie zabawę, gdy każdy będzie już po swojej turze. W etykiecie minutnika zachowajcie dokładny zapis {minutes}."
+          ],
+          "assessment": "The order is coherent: duration setup, one quiet starter, accumulated sequence plus one added sound per following participant, permission to skip, restart on lost order, finish after all turns, timer-label instruction. “Dotychczasowy ciąg dźwięków” identifies the accumulated material; “kolejności dźwięków” identifies its order. “Każdy” consistently refers to participants. “Kolej” in the pass instruction and “tura” in the completion instruction are compatible references to a participant’s turn; no extra round or required performance is implied. Sound/order/turn repetition remains functional.",
+          "minimal_correction": null,
+          "neighboring_segments_checked": [
+            "intro"
+          ]
+        }
+      ],
+      "evidence_file": "review-logic-final.json",
+      "evidence_sha256": "9361beb91d1243bc6fc39a993648c11ed28b2981ed431fa07f9199217f14197a"
+    }
+  ]
+}

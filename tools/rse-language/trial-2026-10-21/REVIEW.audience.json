@@ -1,0 +1,66 @@
+{
+  "stage": "audience",
+  "reviewer": "audience_logic_review / independent Polish family ear and consent review",
+  "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+  "scope": {
+    "candidate": "/workspace/scratch/e6eabdc4c3a0/tool-trial/run/candidate.final.json",
+    "segments": [
+      "intro",
+      "game"
+    ],
+    "coverage": "Read the complete exact final candidate and brief afresh; reviewed the changed game, unchanged intro neighbor, their dependency closure, and global invariants.",
+    "inputs": [
+      "/workspace/scratch/e6eabdc4c3a0/tool-trial/run/candidate.final.json",
+      "/workspace/scratch/e6eabdc4c3a0/tool-trial/run/functional-brief.json"
+    ],
+    "english_source_inspected": false,
+    "other_reviewers_inspected": false,
+    "dependency_closure": [
+      "intro",
+      "game"
+    ],
+    "metadata": "The writer_packet_sha256 field is metadata, outside the reader-facing segment text."
+  },
+  "role": "/workspace/scratch/e6eabdc4c3a0/rse/specialized/polish-family-ear-reviewer.md",
+  "findings": [
+    {
+      "segment_id": "intro",
+      "status": "KEEP",
+      "evidence": [
+        "W grudniu często jest sporo do zrobienia. Jeśli macie ochotę, możecie zrobić sobie krótką przerwę i pobyć razem."
+      ],
+      "assessment": "Contemporary, ordinary Polish written for families. The seasonal setup is concrete and modest. “Jeśli macie ochotę, możecie” leaves the shared pause optional, without guilt, benefit promises, emotional disclosure, or pressure to participate. It leads naturally to the game.",
+      "minimal_correction": null
+    },
+    {
+      "segment_id": "game",
+      "status": "KEEP",
+      "evidence": [
+        "Każdy może pominąć swoją kolej.",
+        "Zakończcie zabawę, gdy każdy będzie już po swojej turze.",
+        "W etykiecie minutnika zachowajcie dokładny zapis {minutes}."
+      ],
+      "assessment": "The revised “po swojej turze” is natural in game instructions and clearly identifies a participant’s turn. The explicit permission to skip applies to every participant, gives no explanation requirement or penalty, and remains compatible with the completion sentence. Direct full sentences are readable without coaching language, fake warmth, forced slang, or manufactured humor. The timer-label sentence remains understandable as the instruction required by the brief.",
+      "minimal_correction": null
+    }
+  ],
+  "global_checks": [
+    {
+      "check": "Optionality and social pressure",
+      "status": "KEEP",
+      "evidence": "The optional invitation in intro is followed by universal permission to skip a turn in game; no later line revokes that permission."
+    },
+    {
+      "check": "Audience and voice continuity",
+      "status": "KEEP",
+      "evidence": "Both segments address the same plural family audience using concise, unforced written Polish; no character voice or disclosure task is added."
+    },
+    {
+      "check": "Functional repetition",
+      "status": "KEEP",
+      "evidence": "Repeated sound and turn vocabulary explains the activity; the invitation and game perform different functions and do not repeat a motivational claim."
+    }
+  ],
+  "overall_status": "PASS",
+  "material_defects": []
+}

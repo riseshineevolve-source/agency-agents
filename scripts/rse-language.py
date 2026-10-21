@@ -405,6 +405,55 @@ def review_check(run, candidate_sha, reviews):
     return list(stages)
 
 
+def ledger_check(directory, run, candidate_sha):
+    path = directory / "issue-ledger.json"
+    ledger = load(path)
+    require(isinstance(ledger, dict) and ledger.get("run_sha256") == run["manifest_sha256"], "Issue ledger is stale for source/run")
+    if "candidate_sha256" in ledger:
+        require(ledger["candidate_sha256"] == candidate_sha, "Issue ledger is stale for candidate bytes")
+    diagnostic = ledger.get("diagnostic", "NOT_RUN")
+    require(isinstance(diagnostic, str) and diagnostic.strip(), "Invalid diagnostic status")
+    complete = diagnostic in {"PASS", "COMPLETE"} or diagnostic.startswith("COMPLETE_")
+    require(complete or diagnostic in {"NOT_RUN", "IN_PROGRESS", "PENDING"}, "Unknown diagnostic status")
+    issues = ledger.get("issues")
+    require(isinstance(issues, list) and all(isinstance(i, dict) for i in issues), "Issue ledger needs an issue list")
+    source_ids = {s["id"] for s in run["segments"]}
+    seen, unresolved = set(), []
+    classifications = {"KEEP", "FIX", "BLOCK", "OWNER_GATE"}
+    for issue in issues:
+        iid = issue.get("id")
+        require(isinstance(iid, str) and iid.strip() and iid not in seen, "Issue IDs must be nonempty and unique")
+        seen.add(iid)
+        require(issue.get("segment_id") is None or issue["segment_id"] in source_ids, f"Unknown issue segment: {iid}")
+        initial = issue.get("classification")
+        final = issue.get("final_classification", initial)
+        require(initial in classifications and final in classifications, f"Invalid issue classification: {iid}")
+        if final == "KEEP" and initial != "KEEP":
+            require(any(isinstance(issue.get(k), str) and issue[k].strip() for k in ["resolution", "evidence"]), f"Resolved issue lacks resolution/evidence: {iid}")
+        if final != "KEEP":
+            unresolved.append({"id": iid, "classification": final, "segment_id": issue.get("segment_id")})
+    ambiguities = ledger.get("source_ambiguities", [])
+    require(isinstance(ambiguities, list) and all(isinstance(i, dict) for i in ambiguities), "Source ambiguities must be a list of objects")
+    unresolved_source = []
+    for index, ambiguity in enumerate(ambiguities, 1):
+        require(ambiguity.get("segment_id") is None or ambiguity["segment_id"] in source_ids, "Unknown source-ambiguity segment")
+        state = ambiguity.get("status", "OPEN")
+        require(state in {"OPEN", "PRESERVE_SOURCE", "OWNER_GATE", "BLOCK", "RESOLVED", "ACKNOWLEDGED"}, "Invalid source ambiguity status")
+        if state == "RESOLVED":
+            require(any(isinstance(ambiguity.get(k), str) and ambiguity[k].strip() for k in ["resolution", "evidence"]), "Resolved source ambiguity needs resolution/evidence")
+        else:
+            unresolved_source.append({"id": ambiguity.get("id", f"source-ambiguity-{index}"), "status": state, "segment_id": ambiguity.get("segment_id")})
+    kinds = {i["classification"] for i in unresolved}
+    source_states = {i["status"] for i in unresolved_source}
+    status = ("BLOCK" if "BLOCK" in kinds or "BLOCK" in source_states else
+              "OWNER_GATE" if "OWNER_GATE" in kinds or "OWNER_GATE" in source_states else
+              "SOURCE_REVIEW_REQUIRED" if unresolved_source else
+              "DIAGNOSTIC_REQUIRED" if not complete else
+              "LANGUAGE_REVIEW_REQUIRED" if "FIX" in kinds else None)
+    return {"status": status, "diagnostic": diagnostic, "unresolved_issues": unresolved,
+            "unresolved_source_ambiguities": unresolved_source, "issue_ledger_sha256": hash_bytes(path.read_bytes())}
+
+
 def check(args):
     directory, run = run_load(args.run)
     candidate_path = Path(args.candidate).resolve()
@@ -413,7 +462,8 @@ def check(args):
     packet_check(run, candidate, args.packet)
     candidate_sha = hash_bytes(candidate_path.read_bytes())
     stages = review_check(run, candidate_sha, load(args.reviews)) if args.reviews else []
-    result = {"status": "OWNER_READ_CANDIDATE" if stages else "LANGUAGE_REVIEW_REQUIRED",
+    ledger = ledger_check(directory, run, candidate_sha)
+    result = {**ledger, "status": ledger["status"] or ("OWNER_READ_CANDIDATE" if stages else "LANGUAGE_REVIEW_REQUIRED"),
               "deterministic_qa": "PASS", "candidate_sha256": candidate_sha, "changed_segments": changes,
               "specialist_reviews": stages or "NOT_RUN", "surface_fit": "NOT_RUN",
               "owner_approval": "NOT_GRANTED", "print_ready": False, "release_authorized": False}
@@ -482,7 +532,7 @@ def main(argv=None):
     try:
         result = {"prepare": prepare, "packet": packet, "check": check, "export": export}[args.command](args)
         print(json.dumps(result, ensure_ascii=False, indent=2))
-        return 0
+        return 2 if result.get("status") == "BLOCK" else 0
     except (Block, OSError, ValueError, KeyError, TypeError, subprocess.SubprocessError, zipfile.BadZipFile, ET.ParseError, re.error) as exc:
         print(json.dumps({"status": "BLOCK", "reason": str(exc)}, ensure_ascii=False), file=sys.stderr)
         return 2

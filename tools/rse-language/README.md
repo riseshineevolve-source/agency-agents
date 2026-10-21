@@ -78,7 +78,10 @@ each receipt name the raw candidate file SHA-256. Required stages are
 `status: PASS` and substantive `evidence`. The assistant records actual independent
 findings. Code checks bindings; it cannot prove quality or reviewer independence.
 
-No reviews means `LANGUAGE_REVIEW_REQUIRED`, even when deterministic QA passes.
+An unrun diagnostic means `DIAGNOSTIC_REQUIRED`; unresolved source defects, FIX,
+BLOCK or OWNER_GATE entries prevent owner-read readiness. With a complete clean
+diagnostic, missing reviews mean `LANGUAGE_REVIEW_REQUIRED`, even when
+deterministic QA passes.
 Complete receipts permit `OWNER_READ_CANDIDATE`, never owner approval, print
 readiness or release. Text may not be silently shortened by layout/render agents.
 
@@ -92,3 +95,8 @@ Use existing `scripts/localization-engine.py` QA/terminology/real-template guard
 when present on the authorized engine branch. This facade supplements that engine
 and does not declare absent checks PASS. Current reviews, physical proofs,
 publication and production integration remain distinct evidence.
+
+A real isolated-writer trial and actual review receipts are retained under
+`tools/rse-language/trial-2026-10-21/`. It deliberately preserves three ambiguous
+source rules and demonstrates the final OWNER_GATE instead of a false readiness
+claim. This is evaluation evidence, not a production game release.

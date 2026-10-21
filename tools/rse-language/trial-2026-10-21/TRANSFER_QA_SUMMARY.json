@@ -1,0 +1,30 @@
+{
+  "source_sha256": "46fbf894591c73acab01aa54faedbf841bb2e46847fb5e95eeac7ae8651151ad",
+  "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+  "export_sha256": "235186a96dd3917cdae7a91d448037c311e00c93c896ae43852edf270162485e",
+  "independent_reviews": [
+    "native_language",
+    "meaning",
+    "audience",
+    "logic"
+  ],
+  "initial_finding": "One concrete native collocation FIX, applied by sole writer and re-reviewed.",
+  "deterministic_qa": "PASS",
+  "engine_qa": "REVIEW: 0 errors, 2/2 mapped and deterministic pass; 2 fit items + 2 engine-specific semantic binding items open.",
+  "owner_approval": "NOT_GRANTED",
+  "surface_fit": "NOT_RUN",
+  "human_family_read_aloud": "NOT_RUN",
+  "ci": "NOT_RUN",
+  "remote_commit": "NOT_RUN: prohibited in local trial; parent handles persistence.",
+  "print_ready": false,
+  "release_authorized": false,
+  "source_ambiguities_preserved": [
+    "2-minute duration versus completion precedence",
+    "restart scope and turn counting",
+    "how passing interacts with the completion condition"
+  ],
+  "historical_cli_status_before_source_gate_patch": "OWNER_READ_CANDIDATE",
+  "status": "SOURCE_CLARITY_OWNER_GATE_OPEN",
+  "review_scope": "Transfer-preservation and Polish quality PASS; not a complete ready-to-use game proof.",
+  "current_cli_after_parent_patch": "NOT_RERUN_BY_THIS_AGENT; parent will checkpoint updated gating."
+}

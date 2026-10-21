@@ -31,7 +31,7 @@ class LanguageToolTests(unittest.TestCase):
         with contextlib.redirect_stdout(out), contextlib.redirect_stderr(err):
             code = engine.main(list(map(str, args)))
         self.assertEqual(code, expect, err.getvalue() or out.getvalue())
-        return json.loads(out.getvalue() if code == 0 else err.getvalue())
+        return json.loads(err.getvalue() or out.getvalue())
 
     def prepare(self, target="en", extra=()):
         return self.cli("prepare", "--source", self.source, "--from", "en", "--to", target,
@@ -53,10 +53,22 @@ class LanguageToolTests(unittest.TestCase):
     def check(self, expect=0, extra=()):
         return self.cli("check", "--run", self.run, "--candidate", self.run / "candidate.json", *extra, expect=expect)
 
+    def complete_ledger(self, **updates):
+        ledger = self.read("issue-ledger.json")
+        ledger.update(diagnostic="COMPLETE", **updates)
+        self.write("issue-ledger.json", ledger)
+
+    def write_reviews(self):
+        sha = engine.hash_bytes((self.run / "candidate.json").read_bytes())
+        reviews = {"candidate_sha256": sha, "reviews": [{"stage": stage, "status": "PASS", "reviewer": "Independent reviewer", "candidate_sha256": sha, "evidence": "Read all source and target segments; findings recorded."} for stage in engine.STAGES]}
+        self.write("reviews.json", reviews)
+
+
     def test_same_language_baseline_is_review_required(self):
         result = self.prepare()
         self.assertEqual(result["mode"], "upgrade")
         self.assertEqual((self.run / "source.md").read_bytes(), self.source.read_bytes())
+        self.complete_ledger()
         checked = self.check()
         self.assertEqual(checked["deterministic_qa"], "PASS")
         self.assertEqual(checked["status"], "LANGUAGE_REVIEW_REQUIRED")
@@ -137,6 +149,7 @@ class LanguageToolTests(unittest.TestCase):
 
     def test_stale_receipts_block_and_hash_bound_reviews_pass(self):
         self.prepare()
+        self.complete_ledger()
         candidate_sha = engine.hash_bytes((self.run / "candidate.json").read_bytes())
         reviews = {"candidate_sha256": candidate_sha, "reviews": [{"stage": stage, "status": "PASS", "reviewer": "Independent reviewer", "candidate_sha256": candidate_sha, "evidence": "Read all source and target segments; findings recorded."} for stage in engine.STAGES]}
         self.write("reviews.json", reviews)
@@ -145,6 +158,65 @@ class LanguageToolTests(unittest.TestCase):
         self.assertEqual(result["owner_approval"], "NOT_GRANTED")
         (self.run / "candidate.json").write_text((self.run / "candidate.json").read_text() + " ")
         self.assertIn("stale", self.check(expect=2, extra=("--reviews", self.run / "reviews.json"))["reason"])
+
+    def test_unrun_diagnostic_blocks_owner_read_even_with_reviews(self):
+        self.prepare()
+        self.write_reviews()
+        result = self.check(extra=("--reviews", self.run / "reviews.json"))
+        self.assertEqual(result["status"], "DIAGNOSTIC_REQUIRED")
+        self.assertEqual(result["deterministic_qa"], "PASS")
+        self.assertEqual(result["diagnostic"], "NOT_RUN")
+
+    def test_unresolved_issues_keep_their_real_gate(self):
+        self.prepare()
+        self.write_reviews()
+        for classification, status, exit_code in [("FIX", "LANGUAGE_REVIEW_REQUIRED", 0), ("BLOCK", "BLOCK", 2), ("OWNER_GATE", "OWNER_GATE", 0)]:
+            self.complete_ledger(issues=[{"id": "ISSUE-1", "segment_id": "s0002", "classification": classification, "reason": "Concrete source-backed defect"}])
+            result = self.check(expect=exit_code, extra=("--reviews", self.run / "reviews.json"))
+            self.assertEqual(result["status"], status)
+            self.assertEqual(result["unresolved_issues"][0]["id"], "ISSUE-1")
+
+    def test_stale_issue_ledger_blocks(self):
+        self.prepare()
+        self.complete_ledger()
+        ledger = self.read("issue-ledger.json")
+        ledger["run_sha256"] = "0" * 64
+        self.write("issue-ledger.json", ledger)
+        self.assertIn("ledger is stale", self.check(expect=2)["reason"])
+        ledger["run_sha256"] = self.read("run.json")["manifest_sha256"]
+        ledger["candidate_sha256"] = "0" * 64
+        self.write("issue-ledger.json", ledger)
+        self.assertIn("stale for candidate", self.check(expect=2)["reason"])
+
+    def test_resolved_issues_need_evidence_before_owner_read(self):
+        self.prepare()
+        self.write_reviews()
+        issue = {"id": "ISSUE-1", "segment_id": "s0002", "classification": "FIX", "final_classification": "KEEP"}
+        self.complete_ledger(issues=[issue])
+        self.assertIn("lacks resolution/evidence", self.check(expect=2, extra=("--reviews", self.run / "reviews.json"))["reason"])
+        issue["resolution"] = "Targeted fix applied and independently reviewed on this candidate."
+        self.complete_ledger(issues=[issue])
+        result = self.check(extra=("--reviews", self.run / "reviews.json"))
+        self.assertEqual(result["status"], "OWNER_READ_CANDIDATE")
+        self.assertEqual(result["unresolved_issues"], [])
+
+    def test_preserved_or_acknowledged_source_ambiguity_stays_open(self):
+        self.prepare()
+        self.write_reviews()
+        for status in ["OPEN", "PRESERVE_SOURCE", "ACKNOWLEDGED"]:
+            self.complete_ledger(source_ambiguities=[{"segment_id": "s0002", "status": status, "detail": "Timing and turn completion precedence undefined", "severity": "note", "rationale": "Do not invent source truth"}])
+            result = self.check(extra=("--reviews", self.run / "reviews.json"))
+            self.assertEqual(result["status"], "SOURCE_REVIEW_REQUIRED")
+            self.assertTrue(result["unresolved_source_ambiguities"])
+        self.complete_ledger(source_ambiguities=[{"segment_id": "s0002", "status": "RESOLVED", "resolution": "Source owner supplied exact missing precedence; authorized source authority recorded."}])
+        self.assertEqual(self.check(extra=("--reviews", self.run / "reviews.json"))["status"], "OWNER_READ_CANDIDATE")
+
+    def test_invalid_issue_status_is_not_silently_clean(self):
+        self.prepare()
+        for issue in [{"id": "I1", "classification": "APPROVED"}, {"id": "I1", "classification": "KEEP", "segment_id": "unknown"}]:
+            self.complete_ledger(issues=[issue])
+            self.check(expect=2)
+
 
     def test_missing_or_unresolved_review_does_not_pass(self):
         self.prepare()

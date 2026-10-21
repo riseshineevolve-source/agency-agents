@@ -1,0 +1,55 @@
+{
+  "status": "OWNER_GATE",
+  "diagnostic": "COMPLETE_BOUNDED_SOURCE_AND_EMPTY_TARGET",
+  "unresolved_issues": [
+    {
+      "id": "SOURCE-TIMING-001",
+      "classification": "OWNER_GATE",
+      "segment_id": "game"
+    },
+    {
+      "id": "SOURCE-RESTART-002",
+      "classification": "OWNER_GATE",
+      "segment_id": "game"
+    },
+    {
+      "id": "SOURCE-PASS-003",
+      "classification": "OWNER_GATE",
+      "segment_id": "game"
+    }
+  ],
+  "unresolved_source_ambiguities": [
+    {
+      "id": "SOURCE-TIMING-001",
+      "status": "OPEN",
+      "segment_id": "game"
+    },
+    {
+      "id": "SOURCE-RESTART-002",
+      "status": "OPEN",
+      "segment_id": "game"
+    },
+    {
+      "id": "SOURCE-PASS-003",
+      "status": "OPEN",
+      "segment_id": "game"
+    }
+  ],
+  "issue_ledger_sha256": "01874b35a8bca1e54bcf0a4c5b7c92dea9ff77c475906e73e224f403e2f7c81c",
+  "deterministic_qa": "PASS",
+  "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+  "changed_segments": [
+    "intro",
+    "game"
+  ],
+  "specialist_reviews": [
+    "native_language",
+    "meaning",
+    "audience",
+    "logic"
+  ],
+  "surface_fit": "NOT_RUN",
+  "owner_approval": "NOT_GRANTED",
+  "print_ready": false,
+  "release_authorized": false
+}
