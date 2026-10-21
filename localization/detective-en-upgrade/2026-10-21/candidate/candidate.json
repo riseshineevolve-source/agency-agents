@@ -1,7 +1,7 @@
 {
   "format": "rse-language-candidate-v1",
   "language": "en",
-  "run_sha256": "a5e5fec3aad490b2177cf40a1cba1190bfd1790082ce788ea99b3daa74cab8f6",
+  "run_sha256": "d4df215fce4db32d5ebcab6a2ee218c9d5875b3632fd53d91219e48fc88f0c5e",
   "segments": [
     {
       "id": "page001.block01",
@@ -10917,7 +10917,7 @@
     },
     {
       "id": "page207.block05",
-      "text": "ANSWER: A \u0000 B \u0000 C \u0000 D\n"
+      "text": "ANSWER: A - B - C - D\n"
     },
     {
       "id": "page207.block06",
@@ -11289,7 +11289,7 @@
     },
     {
       "id": "page212.block05",
-      "text": "ANSWER: B \u0000 D \u0000 A \u0000 C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.\n"
+      "text": "ANSWER: B - D - A - C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.\n"
     },
     {
       "id": "page212.block06",

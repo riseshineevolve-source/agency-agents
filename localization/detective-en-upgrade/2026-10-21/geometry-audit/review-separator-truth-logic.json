@@ -1,0 +1,103 @@
+{
+  "reviewer": "special_geometry",
+  "stage": "actual exact-candidate delta closure: native_language,meaning,audience,logic",
+  "status": "PASS_BOUNDED_SEPARATOR_REPAIR",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "base_candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "source_intake_v5_sha256": "89b2ec319b5510c664c2932ac6895d185e53fd4b36fc0cf3afa468b79de15003",
+  "reviewed_utc": "2026-10-21T11:07:11.195643+00:00",
+  "actual_stage": true,
+  "scope": {
+    "changed_ids": [
+      "page207.block05",
+      "page212.block05"
+    ],
+    "source_original_pixels_viewed": [
+      89,
+      101,
+      127,
+      207,
+      212
+    ],
+    "source_native_dependencies_read": [
+      86,
+      87,
+      88,
+      98,
+      99,
+      100,
+      102,
+      125,
+      126,
+      156,
+      157,
+      158,
+      165,
+      166,
+      167,
+      174,
+      175,
+      176,
+      207,
+      212,
+      221
+    ],
+    "unchanged_target_text_units_verified": 3065,
+    "scope_limit": "Only two separator repairs and their dependency closure were substantively rereviewed. Other3065units are proven byte-identical to accepted V4, not falsely claimed freshly reread."
+  },
+  "byte_verification": {
+    "candidate_ids_same_order": true,
+    "changed_id_set_exact": true,
+    "only_three_nulls_to_three_ascii_hyphens_each": true,
+    "unchanged_text_units_digest_sha256": "93431611407f9f752f7d7b6208c8bcce325f1cc67b3697661bec795ebbe67e4f"
+  },
+  "delta": [
+    {
+      "id": "page207.block05",
+      "old": "ANSWER: A \u0000 B \u0000 C \u0000 D\n",
+      "new": "ANSWER: A - B - C - D\n"
+    },
+    {
+      "id": "page212.block05",
+      "old": "ANSWER: B \u0000 D \u0000 A \u0000 C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.\n",
+      "new": "ANSWER: B - D - A - C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.\n"
+    }
+  ],
+  "reviews": [
+    {
+      "stage": "native_language",
+      "status": "PASS",
+      "finding": "Both ANSWER sequences read clearly with spaced ASCII hyphens. Existing Case21 level3 hint uses hyphenated B-D-A-C. No syntax, spelling, voice, dialogue or register changed."
+    },
+    {
+      "stage": "meaning",
+      "status": "PASS",
+      "finding": "Actual source89 clock offsets independently yield15:15,15:16,15:17,15:18 and A-B-C-D; source101 physical edge classes force B-D-A-C and unchanged complete message. Letter identities and order remain exact."
+    },
+    {
+      "stage": "audience",
+      "status": "PASS",
+      "finding": "Readable separators replace three visible .notdef boxes per answer. Existing answer layout/context makes ordering clear for age8–12; no added clue, difficulty change or premature solution."
+    },
+    {
+      "stage": "logic",
+      "status": "PASS",
+      "finding": "Chronological and tear-edge sequences agree with all inspected hints/solution explanations. Only six malformed separators change;3065othertext units match accepted V4 byte-for-byte."
+    }
+  ],
+  "font_coverage_check": {
+    "RobotoCondensedBold_ASCII_hyphen_glyph_id": 18,
+    "DejaVuSans_ASCII_hyphen_glyph_id": 16,
+    "glyph_supported": true,
+    "actual_new_pdf_visual_review": "NOT_PERFORMED_IN_THIS_RECEIPT"
+  },
+  "open_findings": [],
+  "still_open_external_scopes": [
+    "Full illustrated candidate product render/fit",
+    "InheritedCase03captionchronology",
+    "Physical/printandreleasegates"
+  ],
+  "candidate_edited_by_reviewer": false,
+  "production_edited_by_reviewer": false
+}

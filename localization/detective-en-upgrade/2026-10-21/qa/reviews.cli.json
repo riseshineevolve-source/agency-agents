@@ -1,41 +1,41 @@
 {
-  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
   "reviews": [
     {
       "stage": "native_language",
       "status": "PASS",
-      "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
-      "reviewer": "detective_voice",
-      "evidence": "Actual full candidate prose diagnostic + changed-unit/dependency closure review; exactcandidate binding checked. Existing source caption gate remains separate.",
-      "evidence_file": "review-native-voice.json",
-      "evidence_sha256": "aed832165ad279ba08149d007b968ce1ba38e621e18810e3a79468375a80ddff"
+      "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+      "reviewer": "case12_geometry",
+      "evidence": "Actual delta review of changed two units, source figures and dependency closure;3065unchanged units bound to accepted V4 review baseline, not falsely re-reviewed.",
+      "evidence_file": "../geometry-audit/review-separator-native-audience.json",
+      "evidence_sha256": "102aadfae12248c926f938e10ef6b14507e3163ad7f39bb73f3bb5e80714e811"
     },
     {
       "stage": "audience",
       "status": "PASS",
-      "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
-      "reviewer": "detective_voice",
-      "evidence": "Actual full candidate prose diagnostic + changed-unit/dependency closure review; exactcandidate binding checked. Existing source caption gate remains separate.",
-      "evidence_file": "review-native-voice.json",
-      "evidence_sha256": "aed832165ad279ba08149d007b968ce1ba38e621e18810e3a79468375a80ddff"
+      "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+      "reviewer": "case12_geometry",
+      "evidence": "Actual delta review of changed two units, source figures and dependency closure;3065unchanged units bound to accepted V4 review baseline, not falsely re-reviewed.",
+      "evidence_file": "../geometry-audit/review-separator-native-audience.json",
+      "evidence_sha256": "102aadfae12248c926f938e10ef6b14507e3163ad7f39bb73f3bb5e80714e811"
     },
     {
       "stage": "meaning",
       "status": "PASS",
-      "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
-      "reviewer": "detective_source_audit",
-      "evidence": "Actual full candidate prose diagnostic + changed-unit/dependency closure review; exactcandidate binding checked. Existing source caption gate remains separate.",
-      "evidence_file": "review-truth-mechanics.json",
-      "evidence_sha256": "91a281502ec114921f481f67372f11f0d40112824aa45f2de1f2834b8cee65e9"
+      "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+      "reviewer": "special_geometry",
+      "evidence": "Actual delta review of changed two units, source figures and dependency closure;3065unchanged units bound to accepted V4 review baseline, not falsely re-reviewed.",
+      "evidence_file": "../geometry-audit/review-separator-truth-logic.json",
+      "evidence_sha256": "eed56efc2afb4599b910538b9de7bebeeb9d350d199acf4d5df2f3df0b83a2a7"
     },
     {
       "stage": "logic",
       "status": "PASS",
-      "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
-      "reviewer": "detective_story_logic",
-      "evidence": "Actual full candidate prose diagnostic + changed-unit/dependency closure review; exactcandidate binding checked. Existing source caption gate remains separate.",
-      "evidence_file": "review-story-logic.json",
-      "evidence_sha256": "ffe91d3d60c6eb3f3503720b7ea2afecfa28cfc85c0481407ab3cd2afafc6287"
+      "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+      "reviewer": "special_geometry",
+      "evidence": "Actual delta review of changed two units, source figures and dependency closure;3065unchanged units bound to accepted V4 review baseline, not falsely re-reviewed.",
+      "evidence_file": "../geometry-audit/review-separator-truth-logic.json",
+      "evidence_sha256": "eed56efc2afb4599b910538b9de7bebeeb9d350d199acf4d5df2f3df0b83a2a7"
     }
   ]
 }

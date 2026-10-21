@@ -1,0 +1,27 @@
+{
+  "case": 12,
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "source_folios": [11, 62, 63],
+  "transcription_method": "Human visual review of exact source render, not OCR geometry or historical placement lookup.",
+  "grid_rows_north_to_south": ["TTTSSSS", "TTTTRSS", "CTRRRSS", "CCRRRGS", "CBRBBGG", "CBBBBGG", "CCBGGGG"],
+  "columns_west_to_east": "ABCDEFG",
+  "room_codes": {"T": "Training Room", "S": "Stage Wing", "R": "Rehearsal Room", "C": "Costume Room", "B": "Bird Room", "G": "Green Room"},
+  "blocked_squares": ["B1", "E1", "F1", "C4", "C6", "E7", "F7"],
+  "blocked_basis": "Visible filled black-square object markers at B1,E1,F1,C4,C6,E7; F7 toy basket is also excluded by the explicit case-specific blocked-object list. Room-name placards are labels, not obstacles.",
+  "explicit_usable_object_squares": ["A2", "A4", "F5", "G7"],
+  "figure_shape_sensitivity_cells": ["C4", "E7"],
+  "figure_shape_sensitivity_reason": "Both have explicit black blocked-object markers. Decorative pet-equipment silhouettes alone can be read less precisely than the marker; sensitivity tests include each as usable to see whether this affects the result.",
+  "clues": [
+    "Kira was in the Bird Room, and nobody else entered it.",
+    "Nell was in the Stage Wing and in row 2.",
+    "Iris was the third person from the south.",
+    "Eli was either in the Green Room or the Bird Room.",
+    "Cove was in column B and against an outer wall.",
+    "Exactly one of Sage and Kira was in the Rehearsal Room.",
+    "Winter's area contained exactly one other person."
+  ],
+  "standard_rules_used": ["Each witness exactly once", "Different row and different column for every witness", "Use printed clues and visible features only"],
+  "interpretations": {"third_from_south": "With seven witnesses using seven distinct rows of a seven-row map, third from south means row5.", "against_outer_wall_columnB": "Only B1 or B7; B1 is visibly blocked.", "doors": "Doorways connect travel, but do not merge the named room/area membership regions."},
+  "expected_assignment_for_comparison_only": {"Kira": "E6", "Nell": "G2", "Iris": "A5", "Eli": "F4", "Cove": "B7", "Sage": "C3", "Winter": "D1"},
+  "comparison_basis": "Source solution folios197–198; expected assignment is checked only after exhaustive enumeration, never used as a constraint."
+}

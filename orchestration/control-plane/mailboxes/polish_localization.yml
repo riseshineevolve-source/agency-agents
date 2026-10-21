@@ -1,7 +1,7 @@
 lane: polish_localization
 title: Polish Localization Engine
 updated: '2026-10-21'
-status: DETECTIVE_EN_KEEP__SOURCE_FIGURE_AND_IMPORT_PACKET_SAVED__PRODUCT_INTEGRATION_PENDING
+status: DETECTIVE_EN_V5_SEPARATOR_REPAIR_REVIEW_PASS__GEOMETRY_CHECKS_CLOSED__ILLUSTRATED_IMPORT_PENDING
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   engine_base_branch: codex/polish-engine-main-reconcile
@@ -146,20 +146,22 @@ milestone:
   detective_en_story_upgrade:
     owner_authority: 'Explicit21October2026request: fullcurrentEnglish bookupgrade, preserveallmaps/puzzles;otherHappyMakersbooksreferencecanon.'
     source_pdf_sha256: 9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0
-    source_intake: source/intake-v4.json
-    source_intake_sha256: fab419c8d30324a04e7368c8acd38faa574088d69169e4451eeb6419cb37a155
-    candidate_sha256: ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e
+    source_intake: source/intake-v5.json
+    source_intake_sha256: 89b2ec319b5510c664c2932ac6895d185e53fd4b36fc0cf3afa468b79de15003
+    candidate_sha256: 9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978
     root: localization/detective-en-upgrade/2026-10-21
     source_pages: 225
     source_units: 3067
-    changed_units: 91
-    changed_pages: 44
-    protected_units_unchanged: 2367
+    changed_units: 93
+    changed_pages: 46
+    protected_units_unchanged: 2365
     solved_map_placements_preserved: 107
-    reviews: Actualwholeprose nativeEnglish/familyvoice/audience,truth/mechanics,globalstory/logic; finalexactcandidateacceptedaftertargetedfixes.
+    reviews: Actual hashboundV5delta native/audience/meaning/logic PASS; acceptedV4whole-book reviews
+      explicitly reused only for3065unchanged units.
     tool: rse-language upgrade en→en, detective-academy project,bounded700prosesurfaces; noPLmigration/freeze.
-    cli: DeterministicPASS; OWNER_GATE forinheritedCase03captionambiguity.
-    proof: 225folioEDITORIALTEXTproof, notillustratedproductPDF;225visiblewordchecksPASS,0offpageblocks,criticalPNGvisualchecks.
+    cli: V5deterministicPASS; inheritedCase03captionOWNER_GATE.
+    proof: ExactV5 225folioTEXTproof;225wordchecks/0offpage;207/212actualPNGvisualpass; savedPDFserializationdiffers
+      but225texts/225renders roundtripidentical.
     archive_sha256: ca4153cd5a6b9c1d70fa03b9340ed751ef87f43852a72a97865726470a5f292c
     production_source_changed: false
     pl_r8_changed: false
@@ -167,22 +169,23 @@ milestone:
     publication: false
     continuation: ACTIVE_CONFIRMED:24hourlyruns starting2026-10-21T09:59:43Z; actualbackendtimezoneAmerica/Los_Angeles.
       One writerlease; completedproseKEEP, source/layoutintegrationchecks onlyunlessconcretedefect.
-    ci: No workflow runs returned for lease head20e202ed; local evidence separate; final commit CI not
-      confirmed.
+    ci: Current final head not yet verified; localQA distinct; no hosted green claim.
     integration_evidence: localization/detective-en-upgrade/2026-10-21/integration
     integration_source_pages_fingerprinted: 225
     integration_image_instances: 568
     independent_visual_dependency_folios: 20
     visual_png_reproduction: 20/20 exact hashes PASS
-    consumer_packet: 91 exact before/after operations;3067 target unit hashes;8 raster units require explicit
-      writer slots
+    consumer_packet: 93exactoperations/3067target hashes;8raster units requireproductslots;93changes46folios.
     consumer_capability: Registered Studio recovered; exact-V12 parser cannot directly consume candidate
       JSON. Product writer needs versioned source adapter; no renderer changed.
     consumer_folio_remap: source16 story/Comms→destination15;source27 changed Case04 narrative→destination26;source
       IDs remain stable.
     source_rationale_correction: p122 raster and p123 both show14case list; retained nextpage locator
       accurate; old missing-list rationale superseded.
-    integration_prose_changed: false
+    integration_prose_changed: V5twoanswerglyphrepairs only; no narrative rewriting.
+    v5_delta: 6corruptseparatorglyphs only in207/212;other3065V4targettexts identical;oldV4ec93... historical.
+    geometry_checks: Case12unique fullassignment; Case18clockorder;Case21uniqueedgepath;Case26fourteenimage/emptyroomchecks;Case27landmark/roomoverlap.
+    auxiliary_correction: Case13emptyHideRoom notoccupiedHabitatPaddock; Hinitial unchanged.
 blocker:
 - Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale
   reviewer evidence not available.
@@ -224,11 +227,10 @@ dependencies_needed:
     gates, browserdesktop/mobile parity and actualdeployment before noindexrelease; no publication authorized
     by localization QA.
 - lane: detective_book_factory
-  need: Consume exactEN candidateec93cfc7 via integration/CONSUMER_HANDOFF_SUPPLEMENT.md and INTEGRATION_EVIDENCE_20261021.zip.91operations/3067unit
-    hashes. CurrentStudio directV12parser rejects newcandidate; soleproductwriter adds versioned semantic
-    source adapter and destination receipts. Source16Comms→dest15;source27narrative→dest26. Eight raster
-    slots unbound. Preserve107placements/four0marks; provide actualillustratedcandidatePDF/fit. No productionwrite
-    bylocalization; Case03caption gate remains. Mailbox is durablehandoff, not acknowledgment.
+  need: Consume currentV5 9ebae1... via latestcheckpoint and RSE_DETECTIVE_EN_V5_SOURCE_GEOMETRY_20261021.zip.93operations46folios;only6NUL→hyphen
+    delta fromacceptedV4. Preserve107placements/four0marks, source16Comms→dest15/source27narrative→dest26,8raster
+    slots. CurrentV12parserneedsproductwriteradapter; supplyactualillustratedV5proof. SourceCase03caption
+    gate remains. No acknowledgment inferred.
 reusable_outputs:
 - https://github.com/riseshineevolve-source/agency-agents/pull/37
 - scripts/gentle-steps-r6-proof.py
@@ -254,7 +256,7 @@ reusable_outputs:
 - localization/detective-en-upgrade/2026-10-21/README.md
 - localization/detective-en-upgrade/2026-10-21/candidate/candidate.json
 - localization/detective-en-upgrade/2026-10-21/RSE_DETECTIVE_EN_STORY_UPGRADE_20261021.zip
-next_safe_task: Preserve accepted EN KEEP. Audit only unclosed source-figure/clue-solution geometry/uniqueness
-  (Cases12/21/26/27 and remaining relevant evidence) using exact9dbsource; consume real BookFactory import/render
-  return. No repeated green language checks or status-only commits. WebsitePL remains PR42; PLR8 unchanged.
+next_safe_task: CurrentV5 9ebae1... KEEP. Unclosed source-case geometry/uniqueness (Case13directionalchain
+  then remaining spatialcases) or actual BookFactoryV5import/render receipt. Do not repeat completed12/18/21/26/27checks.
+  No production edits, sourcefreeze orpublication.
 checkpoint_reference: localization/detective-en-upgrade/2026-10-21/CHECKPOINT.md

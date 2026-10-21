@@ -4522,8 +4522,10 @@
       "page207.block11",
       "page207.block12"
     ],
-    "changed_ids": [],
-    "decision": "KEEP",
+    "changed_ids": [
+      "page207.block05"
+    ],
+    "decision": "FIX",
     "review_scope": "Narrative/voice/logic and reader handoffs; all printed clues/hints/answers retained except explicitly allowed non-clue production-aside deletion at p158. Artwork remains source-bound."
   },
   {
@@ -4655,8 +4657,10 @@
       "page212.block11",
       "page212.block12"
     ],
-    "changed_ids": [],
-    "decision": "KEEP",
+    "changed_ids": [
+      "page212.block05"
+    ],
+    "decision": "FIX",
     "review_scope": "Narrative/voice/logic and reader handoffs; all printed clues/hints/answers retained except explicitly allowed non-clue production-aside deletion at p158. Artwork remains source-bound."
   },
   {

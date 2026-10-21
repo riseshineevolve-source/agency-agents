@@ -1,8 +1,8 @@
 {
-  "state": "SOURCE_FIGURE_LOGIC_AUDIT_IN_PROGRESS",
-  "owner": "detective-en-source-audit-20261021T1059",
-  "updated_utc": "2026-10-21T10:59:40.063Z",
-  "expires_utc": "2026-10-21T11:54:40.063Z",
-  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
-  "rule": "Single evidence writer; accepted prose KEEP; production read-only. Audit only unclosed map/clue/solution agreement."
+  "state": "CURRENT_V5_KEEP__SOURCE_GEOMETRY_AND_GLYPH_REPAIR_COMPLETE__CONTINUATION_AVAILABLE",
+  "owner": null,
+  "updated_utc": "2026-10-21T11:16:01.005780+00:00",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "rule": "Acquire solewriter lease by Git expected-head guarded commit before any candidate edit. Preserve completedproseKEEP; only real unresolved source/layout defects justify furtherchanges. Never start competingmaster. Current runtime BookFactory exclusivewriter ownership retained.",
+  "next_safe_task": "Unclosed Case13/remaining spatial-case uniqueness or actual productwriter V5import/render receipts. Keep completed prose/checks; source-caption gate remains."
 }

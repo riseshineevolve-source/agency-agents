@@ -672,7 +672,7 @@
     "page": 122,
     "old": "• Use only the fourteen completed spatial cases listed on this page. Case 01 is not part of this extraction set.\n",
     "new": "• Use only the fourteen completed spatial cases listed on the next page. Case 01 is not part of this extraction set.\n",
-    "defect": "The selected-map list is printed on physical p123, not p122; correct pointer only, retain all14case mechanics.",
+    "defect": "Retain accepted explicit locator to duplicate list on p123; original p122 also contains that list in raster evidence. All14case mechanics retained.",
     "actual_changed_ids": [
       "page122.block03"
     ],
@@ -686,6 +686,28 @@
     "defect": "Finale retrieves restored Rule Zero from Case Wall, but current source supplies no save instruction after solve; add precise handoff without revealing answer.",
     "actual_changed_ids": [
       "page130.block03"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page207.block05",
+    "page": 207,
+    "old": "ANSWER: A \u0000 B \u0000 C \u0000 D\n",
+    "new": "ANSWER: A - B - C - D\n",
+    "defect": "Replace three visible missing-glyph separators with ASCII hyphens only; exact established order/message retained.",
+    "actual_changed_ids": [
+      "page207.block05"
+    ],
+    "reasoning_status": "writer proposal for independent review"
+  },
+  {
+    "id": "page212.block05",
+    "page": 212,
+    "old": "ANSWER: B \u0000 D \u0000 A \u0000 C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.\n",
+    "new": "ANSWER: B - D - A - C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.\n",
+    "defect": "Replace three visible missing-glyph separators with ASCII hyphens only; exact established order/message retained.",
+    "actual_changed_ids": [
+      "page212.block05"
     ],
     "reasoning_status": "writer proposal for independent review"
   }

@@ -1,84 +1,37 @@
-# Detective Academy EN: full-book editorial upgrade
+# Detective EN — current V5 checkpoint, 21 October 2026
 
-21October2026. Complete English editorial candidate, authored through RSE Language Studio in same-language `upgrade` mode. Source authority is the owner's latest225-pagePDF SHA256 `9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0`. V10 and the four other Happy Makers books were comparison/voice sources, never replacements for latest puzzle truth.
+## Current authority and result
 
-## Exact result
+- Original illustrated225PDF SHA256 `9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0` remains sole puzzle/figure truth and is unchanged.
+- Current one-master candidate: `candidate/candidate.json`, SHA256 `9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978`.
+- 3067units/225sourcefolios;93changed source units across46sourcefolios.2365protected units unchanged.702editable surfaces include two newly bounded presentation repairs; no new prose rewrite.
+- Exact V4baselineec93cfc7... is historical, not current. V5changes only six U+0000 characters to ASCIIhyphens in page207.block05 andpage212.block05. The other3065targettexts are byte-identical to acceptedV4. No letter, answerorder, clue, message, map, figure or107placement changes. Four plain-zero records preserved.
+- These are real visible source defects: original PDF shows missing-glyph boxes in Case18/21answer sequences. New output reads A - B - C - D and B - D - A - C. This bounded source-presentation repair is within owner upgrade authority, not a source freeze or speculative story improvement.
 
-- Canonical candidate: `candidate/candidate.json`, SHA256 `ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e`.
-- All3067source units across225folios represented;91 targeted changes across44pages. Fullsource diagnostics covered all30cases,90hints and30solutions.2367protected units remain unchanged;107solvedmap placements and currentCase03differences preserved.
-- Final intake is `source/intake-v4.json`; run is `run-v4`.700specific prose/error-repair surfaces were eligible, the remainder protected. This is a bounded narrative/reader-UX upgrade across the book, not a puzzle rewrite, PLtranslation, source freeze or print approval.
-- Actual nativeEnglish/familyvoice, truth/mechanics and globalstory/logic reviews accepted the exact candidate after concrete corrections. Review receipts and per-unit hashes are under `qa/`. CLI deterministicQA PASS. One inherited sourcecaption question remains OWNER_GATE; it was not hidden to turn the report green.
+## Evidence closed in this continuation
 
-## What improved
+1. Case12: actual map/hints/solution checked; independently transcribed7x7grid and exhaustive row/column solver yields exactly one full assignment. NellG2/WinterD1 bothStageWing. All7positions match. Source equipment-silhouette sensitivity does not change uniqueness.
+2. Case18: original clock evidence gives real15:15/15:16/15:17/15:18, henceA-B-C-D.
+3. Case21: visible edge classes force sole B-D-A-C path among24piece permutations; message unchanged. No physical cutting/print proof claimed.
+4. Case26: all14source/solution map-image payloads identical; actual solvedmap room-occupancy renders inspected, initials CHECKTHEOLDMAP. Auxiliary old truth-lock incorrectly named HabitatPaddock forCase13; actual empty HideRoom yields sameH. Historical lock bytes retained; correction is geometry-audit/case13-empty-room-crosscheck.json andcase26-extraction-review.json.
+5. Case27: three fixed landmarks C1/F3/A5 align old/current plan without rotation; oldTrainingRoomD2:E3 corresponds currentArchiveWall. No new location invented.
 
-Recovered Inspector Glitter and interactive CaseWallbanter; clarified the familyrelationships using actual HappyMakersreferencecanon; restored distinct youngerNini and affectionate responses. Preserved the strongest existing chair/space/belonging, oatbar, helmet, hat, scoreboard and certification scenes.
+## Actual language and proof QA
 
-Repaired early sixth-hook setup, missing `RULE 0 FIRST`, premature overlay/mud conclusions, printer and chronology continuity, blank/signedcredential contradiction, room-opening staging, a wrong-page instruction and a production-pagination aside. Deferred celebration now pays off as a shared family moment. No obsoleteV10triangle/tread clues were restored.
+Two real independent delta reviewers bind exactV5 for native_language/audience/meaning/logic, with unchanged3065texts explicitly covered by prior acceptedV4whole-book reviews. No pretend repeat fullbook review. `qa/FINAL_LANGUAGE_CHECK_V5.json`: deterministicPASS, diagnosticCOMPLETE, no open defects; inherited Case03captionOWNER_GATE remains. Recheck via qa/finalize-v5.py with reviewed languageCLI.
 
-## Reading and proof
+`proof/DETECTIVE_EN_V5_EDITORIAL_TEXT_PROOF.pdf`:225folios, all225visible-wordmultisets equal reader companion,0off-page textblocks; actual207/212PNGs visually inspected with clean separators/no boxes. It remains a textproof without original illustrations, not productionPDF or print readiness.
 
-`candidate/reader-manuscript.md` is a reading companion; original diagrams/evidence are referenced by sourcefolio. `proof/DETECTIVE_EN_V4_EDITORIAL_TEXT_PROOF.pdf` is225folios of text proof. It retains the final wording and verified finale speaker order; it is **not the illustrated225-page productPDF**. Original puzzle artwork remains in the supplied sourcePDF.
+Persisted PDF serialization/metadata differs from raw generated PDF, so hashes are distinguished: generatedfee463f877fd3dc60ce467519e0f8c5ab78d4958f92e866e8a03e558336f1f25; saved2d5eedc12a7f05738aa9d786aa281fba2db3635fe336572e64d52ad2e03b36a0. Roundtrip actual225texts and225renders at36dpi are identical. Same durable proof identity is libfile_c794bcf37e1481918d7f14cbe5d38389; see proof/SAVED_V5_ROUNDTRIP_QA.json.
 
-Proof checks:225pagewise visible-word multiset matches,0off-page text blocks, rendered criticalfolios visually inspected. These do not establish fit in the actual BookFactory pagefamilies. The layout writer must consume exact candidate blocks and reading-order map, preserve artwork/speaker attribution, re-render the full book and repeat physical/page-family checks. No production renderer or existing BookFactory file was edited here.
+## Recovery and consumer
 
-## Remaining source/release gate
+Current full recovery package: `RSE_DETECTIVE_EN_V5_SOURCE_GEOMETRY_20261021.zip`. Unpack into this root; it includes source/intake-v5.json, run-v5, current candidate/reader, scripts, current import packet, proof, review evidence, and immutable V4baseline. Do not overwrite currentV5 with the historical initial ZIP or intakeV4. Original PDFs/durable IDs remain source-inventory.json. WebsitePL is separately retained at PR42 and PLR8 untouched.
 
-Case03 uses protected captions `ARCHIVED FILE017` and `LATER FILE071`, while the story later establishes071asoldermaterial. Confirm that LATER denotes later retrieval/attachment, or approve a neutral filelabel before release. Do not invent a different photo/date or reintroduce old artwork clues. The candidate's local-case/retrieval explanation was reviewed as coherent; this residual caption wording belongs to source/art integration.
+Read integration/CONSUMER_HANDOFF_SUPPLEMENT.md and current EDITORIAL_IMPORT_PACKET.json. Exact source-to-new-layout migration still matters: source16Comms→destination15; source27changedCase04narrative→destination26. Eight raster units lack executed product slot receipts. Registered Studio was recovered/pinnedcc6d4381..., but its exact-V12 parser cannot import thisJSON directly. Only existing BookFactorywriter adds/consumes versioned adapter; no production renderer/branch changed here.
 
-The source artwork also retains the BookFactory's previously reported resolution/print-proof limitations. No upscaling, KDP-readiness, bestseller outcome or absolutezero-errors guarantee is claimed. Final owner reading and real illustrated proof remain separate.
+## Remaining real work and next safe task
 
-## Reusable tool and continuation
+Actual product-writer import, destination receipts and full illustratedV5render/fit remain external to this lane. Case03protected ARCHIVED017/LATER071 vs older071 caption remains an explicit source/art gate; do not invent chronology. Owner reading, artwork-resolution, physical print and release separate. No merge/main/publication/freeze/PRINT_READY granted.
 
-Use `$rse-language` with `Improve this book in its current language`. The assistant authors/reviews; CLI snapshots and enforces scope/tokens/reviews. Sources, prose, diagnostics, reader-order, version history and checks are included, so the next run continues this one candidate.
-
-Hourly continuation was requested for24hours. Read `ACTIVE_WRITER.json` before claiming the solewriter lease. Completed prose is KEEP: do not manufacture another whole-book rewrite. Continue source-caption clarification, figure-aware/fullpage integration checks and exact-candidate proof comparison; persist actual work. Do not publish, merge main, overwrite the BookFactory writer, translatePLR8 or grant a freeze.
-
-OriginalPDFs remain unchanged. Their durable identities and hashes are in `source-inventory.json`. Historical tool manifests retain absolute source paths; when recovering into another workspace, create a fresh working run from the exact intake rather than altering historical manifests, then bind unchanged content/reviews transparently by per-unit hashes.
-
-## Persisted handoff and active continuation
-
-Candidate/reviews/proof/ZIP saved at PR43, initialcandidatecheckpoint3bcf22c0ced32b3d9303902b331abffcad290815. WebsitePL35pagepackage is PR42. Automation update confirmed enabled,24hourlyruns from2026-10-21T09:59:43Z. Read currentautomation.json; archivedZIPcontains historicalsetup receipt from beforefinalactivation. No hostedCIruns returned for exactcandidatecommit; localchecksareseparate.
-
-## Integration evidence continuation — 21 October 2026
-
-The candidate remains byte-identical KEEP. Independent source-figure review
-visually checked 20 original folios; independent handoff review checked all
-3,067 IDs and 91 exact operations. Protected drift remains zero. The new source
-art ledger fingerprints all 225 leaves and 568 displayed image instances; this
-is not all-page semantic or print approval. The 20 visual evidence PNG hashes
-were reproduced exactly from the authoritative source via the supplied script.
-
-Read `integration/CONSUMER_HANDOFF_SUPPLEMENT.md` first. Actual Studio recovery
-now succeeds, superseding the old offline dependency. The observed registered
-archive SHA is cc6d4381cfa867b28db4dd858a260640b5e8aefbae3c344738daaf9494ae40cb,
-different from the historical delivery checkpoint. Per-module hashes are pinned.
-Its exact-V12 parser and PDF/raster imports cannot consume this candidate JSON
-without a sole-product-writer source adapter. No production module was edited.
-
-Critical consumer mapping: source16 story/Comms now belongs on destination15;
-source27 changed Case04 narrative goes to destination26. Eight changed raster
-units lack executable slot bindings. Never apply source folio numbers blindly
-to migrated product pages. The import packet records all before/after bytes,
-hashes, source bboxes and unresolved destination receipts.
-
-Documentary correction: the fourteen-case list appears inside raster p122 AND
-on p123. Retained candidate `next page` is accurate; the old missing-list defect
-rationale is superseded. Historical 5fa5... diagnostics hash extracted TXT,
-not the PDF. Historical handoff status is superseded by final accepted reviews.
-These corrections do not change candidate wording or require new prose reviews.
-
-Durable full data/scripts: `integration/INTEGRATION_EVIDENCE_20261021.zip`.
-Unzip into `integration/` to recover the full JSON packet/art ledger, read-only
-builder, verifier, reviews and visual-evidence reproduction script. Repository
-also exposes the supplement, independent reviews and compact validation reports.
-Candidate/source PDFs remain at their previously registered durable identities.
-
-Remaining work is actual versioned product-writer import/illustrated render,
-eight raster slot bindings, and unchanged Case03 caption/print/release gates.
-No new source defect justifies rewriting accepted prose. Continue only genuinely
-unclosed source-figure checks (e.g. independent clue/solution geometry audit of
-Cases12/21/26/27 or unverified spatial uniqueness); consume any real product
-return receipt when available. Do not repeat completed language/review checks
-or create routine status-only commits. The automation is not fully blocked:
-independent source-figure audit work remains, while production writes stay with
-Book Factory. No owner question is needed for this handoff.
+Continue only unclosed independent source-figure checks, such as Case13directional-chain full uniqueness and remaining spatial-case clue/geometry uniqueness, or consume an actual BookFactoryV5return receipt if supplied. Completed Case12/18/21/26/27checks and accepted prose KEEP. No routine green retests/status-only commits. Read ACTIVE_WRITER first and acquire an expected-head lease before edits. Historical baseline evidence stays in Git history, current package and versioned reports.

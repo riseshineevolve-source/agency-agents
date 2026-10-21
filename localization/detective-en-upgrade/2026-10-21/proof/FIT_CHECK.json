@@ -1,8 +1,8 @@
 {
   "pages": 225,
-  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
-  "manuscript_sha256": "77fc543a0e306a0aea2d7791ef7c6181314117b95f44130a5d07af15b37f0116",
-  "pdf_sha256": "9a3a3cc1160e049708ab1bb8b9314dc7ad96619c29a2c5bb17a5e3b47e8c67be",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "manuscript_sha256": "187d5f060be76af9d8d978e089c229c7675df4e25a4c33235809ee0a58c1aaf2",
+  "pdf_sha256": "fee463f877fd3dc60ce467519e0f8c5ab78d4958f92e866e8a03e558336f1f25",
   "page_fit": [
     {
       "source_folio": 1,

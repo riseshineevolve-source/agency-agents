@@ -7,16 +7,16 @@ import argparse, collections, hashlib, json, re
 from pathlib import Path
 import fitz
 SOURCE='9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0'
-CANDIDATE='ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e'
-INTAKE='fab419c8d30324a04e7368c8acd38faa574088d69169e4451eeb6419cb37a155'
+CANDIDATE='9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978'
+INTAKE='89b2ec319b5510c664c2932ac6895d185e53fd4b36fc0cf3afa468b79de15003'
 def sha(p):return hashlib.sha256(Path(p).read_bytes()).hexdigest()
 def th(s):return hashlib.sha256(s.encode()).hexdigest()
 def write(path,obj):path.write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n')
 def run(root,pdf,studio,studio_archive):
  assert sha(pdf)==SOURCE,'Wrong source PDF'
  assert sha(root/'candidate/candidate.json')==CANDIDATE,'Wrong candidate'
- assert sha(root/'source/intake-v4.json')==INTAKE,'Wrong source intake'
- intake=json.loads((root/'source/intake-v4.json').read_text())['segments']
+ assert sha(root/'source/intake-v5.json')==INTAKE,'Wrong source intake'
+ intake=json.loads((root/'source/intake-v5.json').read_text())['segments']
  candidate=json.loads((root/'candidate/candidate.json').read_text())['segments']
  assert [s['id'] for s in intake]==[s['id'] for s in candidate]
  target={s['id']:s['text'] for s in candidate}; source={s['id']:s for s in intake}
@@ -24,8 +24,8 @@ def run(root,pdf,studio,studio_archive):
  for s in intake:bypage[s['page']].append(s)
  protected=[s['id'] for s in intake if s['protected']]
  changed=[s for s in intake if s['text']!=target[s['id']]]
- assert len(protected)==2367 and all(source[i]['text']==target[i] for i in protected)
- assert len(changed)==91 and len({s['page'] for s in changed})==44
+ assert len(protected)==2365 and all(source[i]['text']==target[i] for i in protected)
+ assert len(changed)==93 and len({s['page'] for s in changed})==46
  ledger=json.loads((root/'candidate/change-ledger.json').read_text()); reasons=collections.defaultdict(list)
  for item in ledger:
   for sid in item['actual_changed_ids']:reasons[sid].append(item['defect'])
@@ -84,7 +84,7 @@ def run(root,pdf,studio,studio_archive):
   'source_intake_sha256':INTAKE,'candidate_sha256':CANDIDATE,
   'mode':'upgrade','language':'en','status':'REVIEWED_EDITORIAL__INTEGRATION_PENDING',
   'release_authority':False,'source_folios':225,'total_units':3067,
-  'changed_units':91,'changed_source_pages':44,'protected_units':2367,
+  'changed_units':93,'changed_source_pages':46,'protected_units':2365,
   'reader_order':{'path':'../candidate/reader-order.json','sha256':sha(root/'candidate/reader-order.json')},
   'post_migration_rule_authority':'Studio spread_layout.py OPENING_BINDINGS/SPECIAL_BINDINGS; hints only until writer verifies consumed code/input revision',
   'units':[{'id':s['id'],'source_folio':s['page'],'protected':s['protected'],

@@ -7,11 +7,10 @@ source authority. Candidate wording remains KEEP.
 ## Current authority
 
 - Original illustrated source PDF: `9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0`.
-- Exact candidate: `ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e`.
-- Intake V4: `fab419c8d30324a04e7368c8acd38faa574088d69169e4451eeb6419cb37a155`.
-- 3,067 units, 225 source folios, 91 changes on 44 source folios; 2,367 protected
-  units unchanged. Four actual language/audience/meaning/logic reviews accepted
-  this exact hash. Final deterministic check is PASS with the inherited caption
+- Exact candidate: `9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978`.
+- Intake V5: `89b2ec319b5510c664c2932ac6895d185e53fd4b36fc0cf3afa468b79de15003`.
+- 3,067 units, 225 source folios, 93 changes on 46 source folios; 2,365 protected
+  units unchanged. Four actual stage delta reviews accepted this exact hash; unchanged3065texts retain acceptedV4whole-book baseline evidence. Final deterministic check is PASS with the inherited caption
   OWNER_GATE. Earlier `DIAGNOSTIC_REQUIRED` prose is historical.
 
 Data files and reproducibility scripts are included in `INTEGRATION_EVIDENCE_20261021.zip`. Unzip it into this integration directory.
@@ -109,3 +108,14 @@ remain as above. Historical diagnostics are retained byte-for-byte.
 No main merge, freeze, publication, PL R8 translation, or production write is
 made by this supplement. Mailbox delivery is durable and does not establish
 consumer acknowledgment.
+
+## V5 separator repairs and source geometry closure
+
+CurrentV5 adds only6NUL→ASCIIhyphen substitutions in page207.block05 and
+page212.block05. Both are proven visible source glyph defects. Letter orders
+A-B-C-D andB-D-A-C unchanged. Import actual V5text; never reintroduce NULs
+from canonical V12 or old PDF font mapping. geometry-audit contains two actual
+delta reviews and independent Case12/18/21/26/27source checks. CorrectCase13
+empty-room auxiliary name is HideRoom; Hinitial unchanged. Source107placements
+and allmaps/figures unchanged. Current fullpackage V5supersedes initial archive;
+old reports boundec93... are baseline evidence, not new currenthash reviews.

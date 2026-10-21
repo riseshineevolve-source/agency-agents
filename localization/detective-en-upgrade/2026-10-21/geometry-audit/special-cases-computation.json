@@ -1,0 +1,268 @@
+{
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "source_pages_rendered": [
+    86,
+    87,
+    88,
+    89,
+    98,
+    99,
+    100,
+    101,
+    125,
+    126,
+    127,
+    156,
+    157,
+    158,
+    165,
+    166,
+    167,
+    174,
+    175,
+    176,
+    207,
+    212,
+    221
+  ],
+  "render_engine": "PyMuPDF 1.26.6",
+  "render_method": "Matrix(1.5,1.5), alpha=False",
+  "case18": {
+    "source_evidence_folio": 89,
+    "events_visually_transcribed": {
+      "A": {
+        "shown": "15:08",
+        "clock": "cafe",
+        "correction_minutes": 7,
+        "real_minutes": 915,
+        "real_time": "15:15"
+      },
+      "B": {
+        "shown": "15:18",
+        "clock": "Dilo",
+        "correction_minutes": -2,
+        "real_minutes": 916,
+        "real_time": "15:16"
+      },
+      "C": {
+        "shown": "15:17",
+        "clock": "station",
+        "correction_minutes": 0,
+        "real_minutes": 917,
+        "real_time": "15:17"
+      },
+      "D": {
+        "shown": "15:11",
+        "clock": "cafe",
+        "correction_minutes": 7,
+        "real_minutes": 918,
+        "real_time": "15:18"
+      }
+    },
+    "computed_order": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "source_solution_folio": 207,
+    "display_nulls_in_source": 3,
+    "status": "PUZZLE_TRUTH_KEEP__SOURCE_GLYPH_REPAIR_REQUIRED"
+  },
+  "case21": {
+    "edge_transcription": {
+      "A": {
+        "left": "double_zigzag",
+        "right": "rounded"
+      },
+      "B": {
+        "left": "straight",
+        "right": "single_chevron"
+      },
+      "C": {
+        "left": "rounded",
+        "right": "straight"
+      },
+      "D": {
+        "left": "single_chevron",
+        "right": "double_zigzag"
+      }
+    },
+    "transcription_method": "Actual visible outline inspection of p101, not sentence-only reconstruction",
+    "orientation_assumption": "Writing kept face-up and upright as printed; whole-note rotation is the same solved object, not a different readable answer. No arbitrary independent flips certified.",
+    "permutations_tested": 24,
+    "orders_matching_edge_classes": [
+      [
+        "B",
+        "D",
+        "A",
+        "C"
+      ]
+    ],
+    "reconstructed_message": "THE ANSWER IS IN WHAT YOU LEAVE EMPTY.",
+    "hint_and_solution_order_agree": true,
+    "display_nulls_in_source_p212": 3,
+    "display_nulls_in_candidate_page212_block05": 3,
+    "status": "PUZZLE_TRUTH_KEEP__SOURCE_GLYPH_REPAIR_REQUIRED",
+    "not_claimed": "No pixel-exact cut-out registration or physical print proof. The source cards are stylized matching-edge shapes."
+  },
+  "case27": {
+    "anchors_visually_verified": {
+      "C1": {
+        "name": "North Stair",
+        "center_grid": [
+          2.5,
+          0.5
+        ]
+      },
+      "F3": {
+        "name": "Courtyard Column",
+        "center_grid": [
+          5.5,
+          2.5
+        ]
+      },
+      "A5": {
+        "name": "West Lift Shaft",
+        "center_grid": [
+          0.5,
+          4.5
+        ]
+      }
+    },
+    "old_plan_training_room_cells": [
+      "D2",
+      "E2",
+      "D3",
+      "E3"
+    ],
+    "current_plan_correspondence": "ARCHIVE WALL covers same D2:E3 rectangle",
+    "source_page127_margin_note": "RULE FIRST, ROOM SECOND.",
+    "landmark_centres_affine_determinant": 16,
+    "rotation_required": false,
+    "scale_change_required": false,
+    "status": "VISIBLE_SOURCE_OVERLAY_LOGIC_KEEP",
+    "not_claimed": "Grid membership is human visual transcription. No automated segmentation certificate, physical transparency overlay, or print-scale approval."
+  },
+  "renders": [
+    {
+      "source_folio": 86,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p086.png",
+      "sha256": "93fb4731c651967ea3d8b36e4cf30af878c1e41844093c27499eff5f1a1921ef"
+    },
+    {
+      "source_folio": 87,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p087.png",
+      "sha256": "ae781e6bf81b899e5aa85be28f13d069423cad212c09647f42c3cd34573e109b"
+    },
+    {
+      "source_folio": 88,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p088.png",
+      "sha256": "8bf4500e49f26e45ffbd28bcf53b070599bae9af49abe633f385b728f8115458"
+    },
+    {
+      "source_folio": 89,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p089.png",
+      "sha256": "24a326a9f9fb67fdb08acd4daa730dbf855c75dc33891e9f1da27ddfb83eef16"
+    },
+    {
+      "source_folio": 98,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p098.png",
+      "sha256": "ee237433f20a69ea1d5c075077d7c6b7bb119722f64c2b49416bf019fbdd7d40"
+    },
+    {
+      "source_folio": 99,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p099.png",
+      "sha256": "54945b46373002cbee37a6c97a7032d10618ffa295d99cb8cd2060af8131a285"
+    },
+    {
+      "source_folio": 100,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p100.png",
+      "sha256": "e495220c52f97e0fcabf478a71cb184b36b7a8ae214b2b9278fe4673a59fa7b5"
+    },
+    {
+      "source_folio": 101,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p101.png",
+      "sha256": "bf2dca7ffe2fee242da5f7279dbd06a1f9a4fcc82474e291962e1dee2fe8a430"
+    },
+    {
+      "source_folio": 125,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p125.png",
+      "sha256": "1f8e94524785d0141c3d98206c51816d6b413124a50f71076b9856e475d4f380"
+    },
+    {
+      "source_folio": 126,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p126.png",
+      "sha256": "3a7c66230d3626864b8954cbb7e860b8b571731ed608b9b036d33e5c56213d79"
+    },
+    {
+      "source_folio": 127,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p127.png",
+      "sha256": "c4ff362d1e81fb5b81179fc804a3f2f3e87242d88b5dcc109e8fb0bd6b7c126a"
+    },
+    {
+      "source_folio": 156,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p156.png",
+      "sha256": "fc14d11e0cbc8a9bcec8b46e1b582e60c41639b1c379b96b0edab1b5274031fb"
+    },
+    {
+      "source_folio": 157,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p157.png",
+      "sha256": "5fd99bea9c63c72efb76e5d7731b6a103113fc96f58fe53e3f8fe3352911cd37"
+    },
+    {
+      "source_folio": 158,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p158.png",
+      "sha256": "aeb996d5f43d6c6f03272a5f150ff798e497efdd48e838820fd4db8e992bb020"
+    },
+    {
+      "source_folio": 165,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p165.png",
+      "sha256": "9b65959047983606707e642ee63baba0a8778c2489fd5d466f1790320caf13ca"
+    },
+    {
+      "source_folio": 166,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p166.png",
+      "sha256": "4b5d4d1a0117f64ec314e78debc88384d2de82903262d7db98419a190c9d380e"
+    },
+    {
+      "source_folio": 167,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p167.png",
+      "sha256": "a2812982318a7a24964e6bdb4bdde8a074a960a823a2cd190c0e65568529267c"
+    },
+    {
+      "source_folio": 174,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p174.png",
+      "sha256": "f9eb4cf9b512d75e50cfa4e93a4ed7f34d683cb086d1aaccc095c7f97a1afce0"
+    },
+    {
+      "source_folio": 175,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p175.png",
+      "sha256": "f832a94b48f1e12a5011946307cd7ff6a7b07ce5e2b78c5027dab1335afe3344"
+    },
+    {
+      "source_folio": 176,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p176.png",
+      "sha256": "c029902c9736f9b9f2c24fde9a9fd6f243c6e1dd89df0c0a227c8755deccf73f"
+    },
+    {
+      "source_folio": 207,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p207.png",
+      "sha256": "848dee81b68559a11a3e63dadf96e8b1458003a89be73d93c3f280ec11bf1e29"
+    },
+    {
+      "source_folio": 212,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p212.png",
+      "sha256": "c11987861fe07a871378332e052dffc08acf00b56f6ecf06a1916e6225ea81ac"
+    },
+    {
+      "source_folio": 221,
+      "render_png": "detective-upgrade/geometry-audit/special-renders/p221.png",
+      "sha256": "1dcff138ed813d9fc5874774e8db5fb47120c10f4a2f1076135c78c75233529c"
+    }
+  ],
+  "candidate_mutated": false,
+  "source_pdf_mutated": false,
+  "production_mutated": false
+}

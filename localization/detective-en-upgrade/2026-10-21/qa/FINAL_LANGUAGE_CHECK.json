@@ -9,9 +9,9 @@
       "segment_id": null
     }
   ],
-  "issue_ledger_sha256": "2dac59c99a007ceb183e034af7e99ac9599aa5742dec2109373270916afd17fc",
+  "issue_ledger_sha256": "1cdf91c3d9bd5b7d2db0a045fda82d6ae8405e6cfacaa8e04baf9cf2cb9be829",
   "deterministic_qa": "PASS",
-  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
   "changed_segments": [
     "page006.block02",
     "page007.block02",
@@ -103,7 +103,9 @@
     "page142.block12",
     "page145.block17",
     "page158.block07",
-    "page158.block08"
+    "page158.block08",
+    "page207.block05",
+    "page212.block05"
   ],
   "specialist_reviews": [
     "native_language",
