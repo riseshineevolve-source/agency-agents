@@ -1,38 +1,110 @@
 lane: central_control_tower
-title: "RSE Central Control Tower"
-updated: 2026-10-20
-status: DETECTIVE_225P_CURRENT_ARTIFACT_AUDITED__P0_TEMPLATE_REPAIRS_PENDING_WRITER
-branch_or_repo_state: "Detective v2 observed c8046bf7dc435617e296936398c172a0a3ceb0f7; current225p PDF SHA53c4c92bfff44bf38f30c014d746ce9b1ade472e7e78745d1e414e38c24d26fb; actual October20 engine only Library source package, no canonical product code commit established; other-lane observations below remain historical October10"
-milestone: "Independently hashed current225p source-verified maps PDF and owner180MB art ZIP; inspected all225 thumbnails plus enlarged exceptions; created17p visual repair packet. Correct15-map repair protected; current solution legend regression now16folios, not historical31. Current tool/UI not independently run."
-blocker: "Current product engine source not established in GitHub; resolved October20 code ZIP materialization unavailable in this run. Central is explicitly read/sync-only; existing sole product writer has not acknowledged this new task. Desktop currently offline. Do not start competing writer."
-owner_gate: "No further approval needed for owner-requested bounded visual repairs by existing writer. Exclusive writer reassignment required only if Central chat is to implement product source itself; final visual/source-freeze/print/release gates remain."
+title: RSE Central Control Tower
+updated: 2026-10-21
+status: PORTFOLIO_RECONCILED__CENTRAL_ONLY__DEDICATED_WRITERS_PRESERVED
+branch_or_repo_state:
+  repository: riseshineevolve-source/agency-agents
+  observed_base: 3b4d9e7ab19134849eee2eb2b8619b1129d768d8
+  scope: central_Brain_Control_Plane_and_deterministic_reporting_only
+  core_chats: 11
+  supplemental_streams_and_desks: 5
+  chat_liveness: not_established_by_registry_or_mailbox
+milestone: >-
+  Reconciled current refs, readiness evidence, stale mailbox claims and
+  dependencies. Registered later streams separately from eleven core chats.
+  Preserved Detective/Book Factory exclusive writer; no product source/art/copy,
+  backend, release, production merge or deployment changed.
+blocker: >-
+  Central hourly execution is unverified. Latest returned Control Plane run
+  37866993686 (Oct9 #135) failed with zero steps in job113615965551.
+  Cause unproven; not an executed source assertion failure. Mailbox handoffs
+  do not wake closed chats or prove acknowledgment.
+owner_gate: null
 dependencies_needed:
-  - lane: world_app_factory
-    need: "Consume merged canonical World02 Level18 source in offline hidden shared runtime; reconcile Level19 branch/mailbox ref drift; never infer PR11 merge from green CI."
-    evidence: "agency-agents PR35 MERGED; spark-joy-fam PR11 OPEN head 42465032c7e103bbfe6cc8326843d38fa61a3568 and earlier exact-head Android CI PASS"
   - lane: detective_book_factory
-    need: "Existing sole writer: consume2026-10-20 P0 current-artifact audit + structured receipt; persist current October20 engine source-only in product GitHub; fix shared p007-008 decoration/portrait slots,p019 aspect ratio,p020 witness geometry/blank Notes,Case08 evidence binding,16solution legends and remaining Gold family drift. Preserve current15map axes,p006,p012,eight evidence boards,V12,4zero records. Deliver actual full225p PDF+contacts+UI E2E+source/recipe/commit, not synthetic CI. Acknowledge receipt; no second writer."
-  - lane: marketing_autopilot
-    need: "Replace historical 141-page D02/D04/D07 proof locators with verified current V12 Gold output before PRELINK scheduling or claims; paid activation off."
+    need: >-
+      Existing exclusive writer retains implementation. Use Oct20 registered
+      Studio recovery checkpoint and current product branch; validate actual
+      combined engine/UI, selected/frozen pages and adaptive layout there.
+      Central consumes verified milestones only. Earlier missing-source/writer-
+      transfer request is superseded. No duplicate writer or build.
+  - lane: senior_mind_bloom
+    need: >-
+      Refresh own bootstrap-only mailbox. Senior PR77 head48b5406 changes code
+      after green d684382; verify current head and record actual result. Keep
+      Child Mode disabled. Mind Bloom private deployment has recorded privacy
+      completion; preserve feature freeze and closed Phase2B.
   - lane: gentle_steps
-    need: "Generated app-pl.js drift CLOSED at new remote 41da0d25 with exact-head Polish R6 CI PASS 38035491491, plus EN/SEO/Android EN PASS; do not repeat previous generator repair. Remaining: PL-specific native Android AAB/device verification, 320px/200% CSS overflow, locked R6 production book-template PDF/print-scale proof to Polish writer."
+    need: >-
+      Refresh own Oct10 mailbox from premium head6bfaa8c and audited runtime
+      1d06a11 (seven workflows PASS). App labels and PL Android build are done;
+      collect real Android evidence. Independently supply hash-bound R6 full-book
+      production-template PDF and12 print-scale PNGs to Polish writer.
   - lane: polish_localization
-    need: "Consume exact real-template R6 evidence when producer provides it, run final editorial and safety fit gate; do not report print QA PASS from local app browser tests."
+    need: >-
+      Reconcile stale owner_labels_migrated_into_app=false against premium app.
+      Consume actual R6 print proof, not app browser checks. Review Website
+      source-mapped native PL for seven route pairs in issue608; preserve approved
+      EN meaning. Provide editorial status for four Advent guide drafts;
+      draft storage is not publication. Existing Detective V10-scoped freeze/R8
+      candidate and authorized designed-PL proof handoff remain intact; only
+      migration to latest evolving EN needs explicit source authority/freeze.
+  - lane: website_factory
+    need: >-
+      Repair is Draft609 at4277a0b stacked on604. Verify current source after
+      no-step startup failure. Preserve original approved EN and common
+      layout/palette across audiences; integrate reviewed source-mapped PL.
+      Prepare narrow Christmas old-copy/new-title authority comparison.
+      Receive owner/legal-reviewed Happy Me product-specific privacy packet;
+      general website privacy is insufficient. HTML/sitemap/hreflang writes
+      remain exclusively Website-owned. Release/noindex gates remain.
+  - lane: ai_discovery
+    need: >-
+      Keep isolated verifier Draft607 separate from Website source. Locate exact
+      prior48-question artifact (GitHub benchmark currently proves20); preserve
+      prior questions then prepare Advent/December additions from reviewed truth.
+      Preserve issue584 indexing/recrawl evidence; guide drafts are not published.
   - lane: optical_animals
-    need: "Reconcile local exact-source Final20 bytes and visual selection solely in Optical writer; no unauthorized roster or source promotion."
-  - lane: unstoppable
-    need: "Preserve exact V2 Owner-Read content candidate pending existing owner freeze; do not prematurely bind release."
+    need: >-
+      V4 coloring-only; introduction refinement only. Preserve animals/order and
+      approved originals. No seek-and-find from old bootstrap. Consume owner
+      feedback and current proof solely in existing art lane.
+  - lane: optical_halloween
+    need: >-
+      Preserve selected15 and frozen atelier15. Reconcile five remaining drafts
+      from selected-15 README, not obsolete F01-F05 wholesale. Illustration-only;
+      creative selection is not print GOLD.
   - lane: happy_me
-    need: "Keep auth-dashboard, real email callback, real device, signing, Play, privacy and Families release gates; prior repository QA is not live hardware evidence."
+    need: >-
+      Keep Auth/email/native callback, device, signing and Play gates. Correct
+      Oct20 artifacts APK12280213431 and unsignedAAB12281721175 expire Nov3.
+      Route product-specific privacy packet to Website. ACTIVE_HEALTHY backend
+      does not establish Auth/device/release readiness.
+  - lane: world_app_factory
+    need: >-
+      Runtime PR11 is OPEN at4246503 with exact-head Android90 PASS, not merged.
+      Reconcile Level19 provenance/ref drift in sole writer; preserve World01
+      entry and hidden World02. Refresh dated mailbox/checkpoint when changed.
+  - lane: marketing_autopilot
+    need: >-
+      Use current verified product truth, not historical release-PASS prose.
+      Prepare Gentle Steps with locked labels/strapline. Detective publication
+      unconfirmed; activation/release claims held. No public posting or paid
+      spend authorized by this central sync.
+  - lane: opinie
+    need: >-
+      Verify accessible repo/local worktree before creation;404 means existence/
+      access unverified. Refresh own mailbox from sanitized evidence. Real case
+      data remains local/offline.
 reusable_outputs:
-  - orchestration/brain/checkpoints/2026-10-20-book-factory-current-artifact-and-tool-audit.md
-  - orchestration/control-plane/requests/2026-10-20-book-factory-p0.json
-  - /AI AGENTS/RSE_BOOK_FACTORY_AUDYT_2026-10-20.pdf
-  - /RSE/Detective Academy/Owner Review/2026-10-10/EIGHT_STAGE_ASSEMBLY_AND_SOURCE_HASH_RECEIPT_20261010.json
-  - /RSE/Detective Academy/Owner Review/2026-10-10/DETECTIVE_8_CASES_READY_FOR_RENDERER_STAGE_PAGES_20261010.pdf
-  - orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
-  - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
+  - orchestration/brain/checkpoints/2026-10-21-central-portfolio-takeover.md
   - orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
-  - orchestration/brain/checkpoints/2026-10-09-central-control-tower-reconcile-1730.md
-next_safe_task: "Obtain existing Detective writer acknowledgment and canonical latest-code commit; execute bounded owner repairs there. Central supplies exact artifact-bound evidence, no duplicate product writer. Read requests/2026-10-20-book-factory-p0.json and linked checkpoint. Other lane dependencies retained from prior checkpoint, not freshly reverified."
-checkpoint_reference: orchestration/brain/checkpoints/2026-10-20-book-factory-current-artifact-and-tool-audit.md
+  - scripts/rse-control-plane-status.py
+  - scripts/test-rse-control-plane-status.py
+next_safe_task: >-
+  Use dated snapshot to expose stale reporting; consume writer-owned refreshes
+  and reconcile changed evidence only. Investigate central workflow startup
+  metadata when accessible without paid activation. Configured cron is not live
+  24/7 operation; do not repeat green product work. Implementation stays in
+  existing lanes. No current cross-portfolio owner decision is required.
+checkpoint_reference: orchestration/brain/checkpoints/2026-10-21-central-portfolio-takeover.md

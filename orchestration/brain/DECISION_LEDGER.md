@@ -5,6 +5,14 @@ Last reconciled: 2026-09-24
 
 This file records decisions that must not disappear when chats become inaccessible.
 
+## Current execution authority — 2026-10-21
+
+The owner explicitly keeps Detective/Book Factory in the other chat; this Central
+takeover covers management and synchronization only. Registry, current lane
+mailboxes and `checkpoints/2026-10-21-central-portfolio-takeover.md` override
+older ownership/readiness observations below. No commercial reprioritization,
+product writer transfer, new source freeze or release approval is made here.
+
 ## Global
 
 - [LOCKED] GitHub/repository state overrides chat recollection when they conflict.

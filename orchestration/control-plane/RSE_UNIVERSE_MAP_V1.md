@@ -5,6 +5,32 @@ Date: 2026-10-07
 Owner: RSE Central Control Tower
 Primary durable repo: riseshineevolve-source/agency-agents
 
+## Current execution overrides — 2026-10-21
+
+Read `orchestration/brain/checkpoints/2026-10-21-central-portfolio-takeover.md`
+before treating dated product observations below as current status.
+
+- Central owns Brain, Control Plane, priorities and dependency routing only.
+  Detective/Book Factory retains its existing exclusive writer. No transfer is
+  made by this takeover, including to a Build Desk or a helper agent.
+- Optical Animals is the owner-attached **48-page V4 coloring-only edition**.
+  The current lane mailbox overrides the historical seek-and-find scope below:
+  refine the introduction only; preserve approved animals/order; no token,
+  mask, seek-and-find or whole-volume rebuild work.
+- Gentle Steps current app work is on `gentle-steps/premium-visual-20261013`;
+  the October 20 pre-device audit supersedes old failed-PL/build assertions.
+- Detective PL retains its historical V10-scoped source freeze, complete R8
+  candidate and authorized designed-proof handoff. Only migration to the latest
+  evolving EN master requires explicit current source authority/freeze; do not
+  restart translation or block the already authorized R8 proof work.
+- The registry preserves eleven core chats and separately records five later
+  streams/desks under `supplemental_streams`. These are not five additional
+  independent writers. Their registration does not assert chat liveness.
+- Website owns HTML, design and reviewed-copy integration. AI Discovery's
+  isolated verifier/measurement work must not overlap those source files.
+- Closed chats do not continuously execute because a registry or prompt exists.
+  Mailbox updates are durable handoffs, not evidence of delivery or execution.
+
 ## North star
 
 RSE is operated as one portfolio factory, not a set of independent chats.

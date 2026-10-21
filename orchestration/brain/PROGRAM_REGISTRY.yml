@@ -1,6 +1,13 @@
 version: 25
 updated: 2026-09-28
 brain_status: canonical
+latest_central_reconciliation:
+  updated: 2026-10-21
+  reference: orchestration/brain/checkpoints/2026-10-21-central-portfolio-takeover.md
+  routing: orchestration/control-plane/mailboxes/central_control_tower.yml
+  current_execution_registry: orchestration/control-plane/RSE_CHAT_REGISTRY_V1.yml
+  rule: latest_delta_and_current_lane_evidence_override_dated_program_observations
+  product_writer_transfer: false
 control_plane_v1:
   status: CANONICAL_EXECUTION_OWNERSHIP_OVERRIDE
   effective: 2026-10-07

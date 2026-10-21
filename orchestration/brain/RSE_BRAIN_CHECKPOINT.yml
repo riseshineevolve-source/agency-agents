@@ -1,7 +1,17 @@
-version: 8
-updated: 2026-09-21
-status: PASS
-checkpoint_type: full_chat_history_reconciliation_and_brain_rebuild
+version: 9
+updated: 2026-10-21
+status: CENTRAL_RECONCILIATION_COMPLETE__PRODUCT_GATES_REMAIN
+checkpoint_type: central_portfolio_delta_no_product_writer_transfer
+latest_delta:
+  reference: orchestration/brain/checkpoints/2026-10-21-central-portfolio-takeover.md
+  central_mailbox: orchestration/control-plane/mailboxes/central_control_tower.yml
+  scope: central_management_and_deterministic_reporting_only
+  core_chats: 11
+  supplemental_streams_and_desks: 5
+  product_source_mutation: false
+  other_lane_mailbox_mutation: false
+  hosted_hourly_execution: unverified_latest_returned_run_zero_steps
+  historical_sections_below: dated_observations_not_current_release_or_ownership_authority
 authority:
   primary_repo: riseshineevolve-source/agency-agents
   brain_master: orchestration/brain/RSE_BRAIN_MASTER.md

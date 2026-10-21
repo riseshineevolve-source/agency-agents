@@ -2,6 +2,19 @@
 
 Agents may propose these changes, but may not silently execute or finalize them.
 
+## Current gate interpretation — 2026-10-21
+
+Use `checkpoints/2026-10-21-central-portfolio-takeover.md` for latest evidence.
+Historical heads/readiness assertions below are not current observations.
+This reconciliation creates no new approval request. Detective/Book Factory
+keeps its writer. OA is coloring-only/intro-only; do not restart seek-and-find.
+App CI does not replace device, actual print-template, signing or release proof.
+Website609 retains PL parity/visual/release gates; green604 does not approve
+rejected copy. Mind Bloom stays private/frozen with Phase2B closed.
+Detective PL's existing V10-scoped freeze/R8 candidate and authorized designed
+proof handoff remain intact. A new explicit authority/freeze is needed only for
+migration onto the latest evolving EN master, not to redo the prior scoped work.
+
 ## Global
 - publish/release to production/store where not already explicitly delegated,
 - pricing,

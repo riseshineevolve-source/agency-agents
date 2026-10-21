@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-10-20
+updated: 2026-10-21
 authority: orchestration/control-plane/RSE_UNIVERSE_MAP_V1.md
 policy:
   one_writer_per_surface: true
@@ -43,6 +43,8 @@ chats:
     repo: riseshineevolve-source/riseshineevolve
     branch: feat/optical-animals-book-creator
     writer_scope: optical_animals_only
+    current_scope_override: coloring_only_V4_intro_refinement_no_seek_and_find
+    scope_authority: orchestration/control-plane/mailboxes/optical_animals.yml
     bootstrap: orchestration/bootstrap/OPTICAL_ANIMALS_REPO_BOOTSTRAP.md
     mailbox: orchestration/control-plane/mailboxes/optical_animals.yml
     tools: [github, desktop_commander, codex, image_generation]
@@ -52,7 +54,9 @@ chats:
   gentle_steps:
     title: Gentle Steps / Before Christmas Slips By
     repo: riseshineevolve-source/RISE.SHINE.EVOLVE
-    branch: gentle-steps/app-en-full24-purple-gold
+    branch: gentle-steps/premium-visual-20261013
+    previous_branch: gentle-steps/app-en-full24-purple-gold
+    current_checkpoint: docs/GENTLE_STEPS_FINAL_PRE_DEVICE_AUDIT_2026-10-20.md
     writer_scope: gentle_steps_only
     bootstrap: orchestration/bootstrap/GENTLE_STEPS_EXECUTION_BOOTSTRAP.md
     mailbox: orchestration/control-plane/mailboxes/gentle_steps.yml
@@ -134,3 +138,55 @@ chats:
       - happy_me
       - unstoppable
     stop: paid_activation_publication_or_unverified_product_claim
+
+# Later streams and auxiliary desks are tracked separately from the original
+# eleven. Registration records scope, not a running chat or a writer transfer.
+# Central maintains these records; only each existing writer may update its own
+# product/source surface. There are deliberately no invented lane mailboxes.
+supplemental_streams:
+  optical_halloween:
+    title: Optical Halloween Illustration Studio
+    mode: dedicated_illustration_only
+    writer_scope: optical_halloween_art_only
+    bootstrap: orchestration/bootstrap/OPTICAL_HALLOWEEN_ILLUSTRATION_STUDIO_BOOTSTRAP.md
+    checkpoint_reference: orchestration/projects/optical-halloween/volume-01/selected-15/README.md
+    current_reference: owner_approved_creative_15_of_20_not_print_gold
+    liveness: not_observable_from_registry
+  website_factory:
+    title: RSE Website Factory
+    aliases: [website]
+    mode: existing_dedicated_writer
+    writer_scope: website_html_css_navigation_and_approved_content_integration
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    branch: fix/owner-live-copy-parity-pl-layout-20261020
+    current_reference: https://github.com/riseshineevolve-source/RISE.SHINE.EVOLVE/pull/609
+    checkpoint_reference: docs/website-factory/CHECKPOINT_SOURCE_RESTORE_2026-10-20.md
+    read_dependencies: [polish_localization, ai_discovery, happy_me, gentle_steps]
+    liveness: not_observable_from_registry
+  ai_discovery:
+    title: RSE AI Discovery Engine
+    mode: bounded_dedicated_verifier_and_discovery_work
+    writer_scope: isolated_discovery_verifier_and_measurement_surfaces_only
+    repo: riseshineevolve-source/RISE.SHINE.EVOLVE
+    branch: ai-discovery/fix-guide-delivery-markers-20261020
+    current_reference: https://github.com/riseshineevolve-source/RISE.SHINE.EVOLVE/pull/607
+    read_dependencies: [website_factory, polish_localization, marketing_autopilot]
+    shared_surface_rule: website_writer_alone_changes_html_sitemap_hreflang_and_product_copy
+    liveness: not_observable_from_registry
+  build_desk:
+    title: RSE Build Desk
+    mode: auxiliary_explicit_assignment_only
+    owner_lane: central_control_tower
+    writer_scope: separate_assigned_task_branch_only_no_parallel_lane_writer
+    bootstrap: orchestration/control-plane/RSE_BUILD_DESK_BOOTSTRAP.md
+    checkpoint_reference: orchestration/control-plane/RSE_BUILD_DESK_ASSIGNMENT.yml
+    current_reference: no_new_product_assignment_by_this_reconciliation
+    liveness: not_observable_from_registry
+  quick_desk:
+    title: RSE Quick Desk
+    mode: read_only
+    owner_lane: central_control_tower
+    writer_scope: none
+    bootstrap: orchestration/control-plane/RSE_CHAT_BOOTSTRAPS_V1.md
+    current_reference: status_and_owner_decision_routing_only
+    liveness: not_observable_from_registry

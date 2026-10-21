@@ -2,8 +2,31 @@
 
 Status: CANONICAL
 Rebuilt: 2026-09-18
-Last reconciled: 2026-09-26
+Last reconciled: 2026-10-21 (central portfolio delta; historical sections retained)
 Primary durable repo: `riseshineevolve-source/agency-agents`
+
+## Latest portfolio reconciliation — 2026-10-21
+
+Current delta: `orchestration/brain/checkpoints/2026-10-21-central-portfolio-takeover.md`.
+Current routing: `orchestration/control-plane/mailboxes/central_control_tower.yml`.
+These supersede dated implementation/gate observations below where they conflict;
+they do not change the owner-locked commercial priority order.
+
+Central writes central management only. Detective/Book Factory stays with its
+existing exclusive writer. Other dedicated product, art, localization, Website
+and marketing surfaces remain read/sync-only for Central.
+
+Optical Animals is V4 coloring-only, introduction refinement only, with no
+seek-and-find. Gentle Steps premium EN/PL app is ready for manual Android testing;
+its actual PL book-template proof remains a separate dependency. Senior's latest
+head is ahead of green CI. Website repair is Draft #609 and is not release-ready.
+Happy Me has a live healthy backend recorded on October 20 but retains Auth,
+device, signing, privacy and Play gates. Mind Bloom remains private/frozen.
+Detective PL retains its V10-scoped freeze/R8 candidate and authorized proof
+handoff; only migration to latest evolving EN needs new authority/freeze.
+
+The registry now covers the original eleven chats plus five supplemental
+streams/desks without creating parallel source writers or claiming liveness.
 
 ## 2026-10-07 execution-ownership override
 

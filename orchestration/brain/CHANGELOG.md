@@ -1,5 +1,18 @@
 # RSE Brain Changelog
 
+## 2026-10-21 — central portfolio takeover and reporting repair
+
+- Reconciled eleven core chats plus five separately registered later streams/desks.
+- Preserved Detective/Book Factory exclusive writer and all other source boundaries.
+- Corrected central OA coloring-only scope, Gentle Steps premium branch/readiness,
+  Senior current-head CI gap, Mind Bloom private state and Website609 routing.
+- Recorded dependency handoffs in Central mailbox only; delivery/liveness not inferred.
+- Added deterministic mailbox freshness and supplemental coverage to snapshot;
+  seven targeted tests PASS, eleven-core/five-supplemental validation PASS.
+- Hosted hourly execution remains unverified after observed zero-step startup
+  failure; no billing/root-cause assumption or release/production change.
+- Evidence: `checkpoints/2026-10-21-central-portfolio-takeover.md`.
+
 ## 2026-09-18 — Brain v1 full recovery rebuild
 
 Source set reviewed:

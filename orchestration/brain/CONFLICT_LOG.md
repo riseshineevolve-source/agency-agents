@@ -1,6 +1,45 @@
 # RSE Conflict Log
 
-Last reconciled: 2026-09-24
+Last reconciled: 2026-10-21
+
+## Current reconciliation — 2026-10-21
+
+Detailed evidence: `checkpoints/2026-10-21-central-portfolio-takeover.md`.
+
+- **Detective PL:** blanket historical "no full PL before EN freeze" wording
+  must not erase the existing V10-scoped freeze, complete R8 candidate or
+  authorized designed-proof handoff recorded in the Oct20 Polish mailbox.
+  Only migration to latest evolving EN requires new explicit source authority
+  and freeze. Central does not implement or reopen either source lane.
+
+- **Ownership:** old central mailbox requested Book Factory writer acknowledgment
+  and described missing canonical source. The October 20 exclusive-writer and
+  registered-Studio checkpoints supersede that state. This Central takeover is
+  read/sync-only on product source; no writer transfer or duplicate build.
+- **Optical Animals:** older map/bootstrap seek-and-find instructions conflict
+  with October 20 owner override. V4 coloring-only and intro-only scope wins.
+- **Gentle Steps:** October 10 mailbox and localization's
+  `owner_labels_migrated_into_app: false` conflict with October 20 premium app
+  audit and seven successful runtime workflows. App heading/build work is closed;
+  actual PL book-template proof and real-device tests remain distinct and open.
+- **Senior:** green CI at `d684382f0ff0cb2158dc7373af71de4166f0a171` does
+  not validate `48b5406fbe1ab9a07204b08bd09cfce6eb418284`, which changes
+  offline cache code. Current-head verification is pending, not a proven failure.
+- **Mind Bloom:** old zero-owner-account/privacy-incomplete observations are
+  superseded by the private deployment checkpoint. Preserve evidence qualifiers,
+  private-only scope, feature freeze and closed Phase 2B.
+- **Website:** #604 green CI does not approve rejected copy or validate #609.
+  #609's exact-head run ended before any steps; do not call it source-test FAIL
+  or PASS. Preserve original EN copy and source-mapped PL/template parity gates.
+- **AI prompt count:** current GitHub benchmark proves 20 prompts. The user's
+  earlier 48-question set has not been located; neither discard it nor claim it
+  is integrated. Locate exact source before extending it with Advent intents.
+- **Automation:** the most recent returned central snapshot run is October 9
+  #135 with zero job steps. Hourly workflow configuration is not proof of
+  current execution. Root cause is unproven; no billing assumption or paid fix.
+
+Other lane mailboxes stay lane-owned. Central records these discrepancies and
+routes refresh requests through its own mailbox instead of editing theirs.
 
 ## Resolved
 

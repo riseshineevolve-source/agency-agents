@@ -2,8 +2,18 @@
 
 Status: **CANONICAL**
 Owner decision: 2026-09-24
-Last execution-state sync: 2026-09-26
+Last execution-state sync: 2026-10-21 (delta; priority order unchanged)
 Applies to: central RSE Orchestrator, Brain Sync, Day/Night/24-7 shift, marketing synchronization, Codex budget governor.
+
+## Current execution-state authority — 2026-10-21
+
+Keep the locked priority order below. The old per-project execution descriptions
+are historical; use `checkpoints/2026-10-21-central-portfolio-takeover.md` and
+current lane checkpoints/mailboxes for present blockers and safe tasks.
+In particular, Optical Animals is now V4 coloring-only/intro refinement, not a
+seek-and-find pipeline. Gentle Steps premium EN/PL app is pre-device ready, not
+blocked by the historical PL generator/Android failures. Central coordinates
+these streams and does not take over their implementation writers.
 
 ## Priority order
 
