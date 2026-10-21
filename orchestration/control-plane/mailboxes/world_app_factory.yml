@@ -1,7 +1,7 @@
 lane: world_app_factory
 title: "World 01 + World 02 / Interactive App Factory"
 updated: 2026-10-21
-status: SOURCE_VERIFIED__RUNTIME_DRAFT_PR12__HOSTED_CI_STARTUP_FAILURE
+status: BOTH_INTERNAL_APPS_NATIVE_PASS__EXPANDED_UPLOAD_APPROVAL_PENDING
 branch_or_repo_state:
   source_repo: riseshineevolve-source/agency-agents
   source_branch: codex/world02-level19-recovery-20261021
@@ -13,11 +13,11 @@ branch_or_repo_state:
   existing_level18_runtime_pr: https://github.com/riseshineevolve-source/spark-joy-fam/pull/11
   existing_level18_runtime_head: 42465032c7e103bbfe6cc8326843d38fa61a3568
   local_runtime_branch: codex/world-factory-recovery-20261021
-  local_runtime_head: 8eae6fb9feecdf93381fd234eb8bea92dab6a136
+  local_runtime_head: c9aacb7a19f3c00b0fe30f45c29480e9773987f1
   runtime_worktree: owner_device_GitHub/world-factory-recovery-20261021
   runtime_new_pr: https://github.com/riseshineevolve-source/spark-joy-fam/pull/12
   remote_runtime_head: 8eae6fb9feecdf93381fd234eb8bea92dab6a136
-  runtime_pushed: true
+  runtime_pushed: previous_approved_head_only
 milestone: >-
   Consolidated World01/02 context and sole-writer scope. Recovered the exact
   Level19 pair from19d31c8 and created a visually verified Level20 pair from
@@ -26,19 +26,19 @@ milestone: >-
   tested local runtime. Restored40source headings and breathing START.
   Visually recovered all12endgame pages93-104 into95explicit source blocks,
   with duplicate cutout/reference tables, four blank fields, exact variants
-  and source-art/QR provenance; endgame runtime remains unimplemented.
+  and source-art/QR provenance; endgame now has a separate local internal renderer and owner-test app.
 blocker: >-
-  Exact-head GitHub Actions run 39562430663 failed before any job steps
-  executed (job 119096614977). This is not an executed test assertion or
-  Android build failure. Two annotations exist, but their endpoint is not
-  supported by the connector and gh is unavailable on the device; underlying
-  cause remains unverified. Runtime push and draft PR creation succeeded.
+  Hosted CI cause confirmed from annotation: The job was not started because
+  an Actions budget is preventing further use. No job steps executed.
+  Current local code has passed dual native builds and package inspection.
+  Expanded runtime upload was rejected by automatic approval review.
 owner_gate: >-
-  Previous push gate resolved by explicit owner authorization on 2026-10-21.
-  The exact approved commit is uploaded to the canonical runtime repo in
-  draft PR12, stacked on PR11. Editorial adaptation, real-device, legal,
-  signing and public/store release remain gated; no main merge or deployment
-  is authorized by this upload approval.
+  Earlier exact commit remains uploaded in draft PR12. New local payload
+  includes full endgame source, original PDF artwork, owner-test code and QA
+  artifacts. Explicit owner approval is required before uploading this
+  expanded payload; do not retry via alternate connector or destination.
+  Public integration/deployment, editorial decisions, physical-device QA,
+  final identity/signing, legal and store release remain gated.
 dependencies_needed: []
 reusable_outputs:
   - orchestration/projects/world-app-factory/PROJECT_BRIEF.md
@@ -54,12 +54,12 @@ reusable_outputs:
 verification:
   source_workflow: all17_executable_steps_PASS_locally
   focused_source_tests: {level19: 10, level20: 12, endgame: 15}
-  runtime_tests: {files: 29, passed: 126}
+  runtime_tests: {files: 31, passed: 134}
   runtime_typecheck_lint_build_release_audit: PASS
   browser: actual_World01_Chrome_390x844_entry_headings_START_no_overflow_no_errors_PASS
-  new_head_hosted_ci: failed_before_any_steps_cause_unverified
+  new_head_hosted_ci: local_expansion_not_uploaded__previous_head_actions_budget
   runtime_hosted_run: https://github.com/riseshineevolve-source/spark-joy-fam/actions/runs/39562430663
-  new_runtime_android_build_and_device: not_run
+  new_runtime_android_build_and_device: dual_local_native_PASS__physical_device_NOT_TESTED
   world01_source_limit: six_existing_private_PDF_dependent_tests_skipped_in_scratch
 source_locks:
   world01_pdf_sha256: adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549
@@ -72,12 +72,47 @@ editorial_watch:
   - Existing whole-World02 and endgame factual/child-safety review remains required before public release.
   - World01 Levels7-10 code authority was resolved by owner on2026-09-30; never reopen stale summary conflict.
 next_safe_task: >-
-  Inspect or resolve the hosted runner startup failure when its annotation
-  is accessible, then require exact-head Android verification before any
-  integration/release claim. Preserve draft PR12 and existing PR11 without
-  merging. A later bounded endgame renderer consumes the verified source
-  graph and exact source art. Keep World01 public entry and hidden World02;
-  do not delay Gentle Steps or independently start Polish production.
+  Read latest local CHECKPOINT.yml and owner-test readiness receipt. Assess
+  remaining source-to-screen coverage and release gaps locally. Do not redo
+  passing full tests/builds without new changes. Do not upload the expanded
+  payload until explicit owner approval. Keep draft PRs unmerged, World01
+  production entry unchanged and World02 in separate internal entry.
+  Do not delay Gentle Steps or independently start Polish production.
 checkpoint_reference: >-
   PR39 @ aa02797a717e37a4d493e92268f5312f060279cc:
   orchestration/projects/world-app-factory/CHECKPOINT.yml
+
+local_completion_2026_10_21:
+  code_commit: 865ab61481199c1e8dbb785dbdac20d5fc6acdfc
+  checkpoint_commit: c9aacb7a19f3c00b0fe30f45c29480e9773987f1
+  world02_internal_scope: levels11_to20_plus12_endgame_pages_95_source_blocks
+  shared_progress: namespaced_offline_resume_invalid_ID_filter
+  browser: both_maps_level20_all12_endgame_pages_forms_resume_offline_no_overflow_or_errors_PASS
+  browser_proof: release/qa-world02-complete-20261021/browser-proof.json
+  native_receipt: release/LOCAL_DUAL_NATIVE_RECEIPT_2026-10-21.json
+  readiness: release/OWNER_TEST_READINESS_2026-10-21.md
+  native_each_world: lintDebug_lintRelease_testDebugUnitTest_assembleDebug_bundleRelease_PASS
+  package_inspection: aapt2_apksigner_zip_PASS
+  apk: debug_signed_internal_owner_test
+  aab: unsigned
+  world02_app_id: provisional_owner_test_suffix
+  physical_device: no_adb_device_connected_NOT_TESTED
+  source_frontmatter_coverage_and_full_editorial: remaining_assessment
+  publication_ready: false
+automation:
+  title: Domknij World 01 i 02
+  enabled: true
+  timezone: Europe/Warsaw
+  first: 2026-10-21T11:08:27+02:00
+  last: 2026-10-22T10:08:27+02:00
+  frequency: hourly
+  occurrences: 24
+  continuous_execution_guaranteed: false
+model_policy_ack:
+  policy: rse-weekly-usage-2026-10-21-v1
+  recommended_profile: production
+  runtime_model_observed: UNKNOWN
+  runtime_reasoning_observed: UNKNOWN
+  runtime_speed_observed: UNKNOWN
+  application_status: RECOMMENDATION_ONLY
+priority_ack: latest_direct_owner_World24h_request_bounded_without_blocking_Gentle_Steps
