@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-21
-status: FIVE_FINAL_ART_CANDIDATES_QA_PASS
+status: PREMIUM_REBUILD_BEST_CANDIDATES_OWNER_VISUAL_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Owner requested final prompt development and generation: five complete closing-pass images generated and reviewed5/5; carrier v02, skeleton v03, painter v04, waiter v02, queen v03. Exact prompts, Polish descriptions and hashes recorded."
+milestone: "Owner rejected previous flat pass. Five substantively rebuilt premium optical candidates now reviewed: restored source waiter, sculptural wax queen, wind-swept painter/helicoid stairs, dimensional room carrier and twisting falling bellboy. Exact prompts/provenance/QA in V03."
 blocker: null
-owner_gate: "Owner visual acceptance or targeted refinement of the five art candidates. Not yet approved20; not print masters or KDP release."
+owner_gate: "Owner aesthetic response to the five PREMIUM REBUILD current BEST candidates. Prior V02 was not owner approved and is superseded as recommendation. Not approved20 or print masters."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,8 +21,14 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Generation and technical visual QA of missing five are complete. Owner final visual choice/acceptance or a specific requested correction; then record art roster lock. Preserve approved15 and all prior BESTs. No open-ended regeneration or factory/assembly/pagination/KDP continuation."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_FINAL_FIVE_PROMPTS_AND_DESCRIPTIONS_V02.md"
+next_safe_task: "Present current PREMIUM REBUILD BEST5 for owner visual response. Preserve restored earlier waiter identity, image-wide dimensional black bands and source-consistent reflections. Only specific requested edits or concrete blockers; no automatic simplification, extra regeneration or factory work."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_PREMIUM_REBUILD_V03.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Brand Guardian and Reality/Finish agents each passed5/5; no remaining concrete technical visual defect identified. Owner approval and print certification are separate."
+closing_pass_qa: "Earlier anatomy-only PASS was artistically insufficient. Expanded board independently reviewed substantive optical improvement and final local repairs;5 strong current candidates, not objective10/10 or print certification."
+
+premium_rebuild_notes:
+  - "Approved15 original PNGs remain hash-identical."
+  - "Earlier actual masked long-haired flying waiter source recovered; reject latest rectangular salon regression."
+  - "Removed painter orphan boot and false reflection, queen hatch/headband trim issue, carrier/painter gray reflection wash, and skeleton reflected-uniform mismatch."
+  - "Native RGB art proofs; no binary image upload to GitHub, no print/factory certification."
