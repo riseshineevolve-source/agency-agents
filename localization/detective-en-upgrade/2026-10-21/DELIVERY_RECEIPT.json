@@ -1,0 +1,16 @@
+{
+  "status": "BOTH_SAVED_SUCCESSFULLY",
+  "local_metadata_applied": true,
+  "items": [
+    {
+      "local_path": "deliverables/RSE_DETECTIVE_EN_STORY_UPGRADE_20261021.zip",
+      "library_file_id": "libfile_3f1a66f9ea048191bb2a4871ec205d4e",
+      "sha256": "ca4153cd5a6b9c1d70fa03b9340ed751ef87f43852a72a97865726470a5f292c"
+    },
+    {
+      "local_path": "detective-upgrade/proof/DETECTIVE_EN_V4_EDITORIAL_TEXT_PROOF.pdf",
+      "library_file_id": "libfile_c794bcf37e1481918d7f14cbe5d38389",
+      "sha256": "9a3a3cc1160e049708ab1bb8b9314dc7ad96619c29a2c5bb17a5e3b47e8c67be"
+    }
+  ]
+}
