@@ -1,35 +1,38 @@
 lane: optical_animals
 title: "Optical Animals"
 updated: 2026-10-21
-status: FINAL_PREMIUM_REVISION_DELIVERED__DIGITAL_GATES_PASS__PHYSICAL_PROOF_RELEASE_PENDING
-branch_or_repo_state: "Approved originals unchanged; product branch feat/optical-animals-book-creator unchanged. Deterministic final PDF assembled outside Git."
+status: RSE_PURE_BW_VARIANT_DELIVERED__CANVA_KDP_DIGITAL_QA_PASS__OWNER_VISUAL_PHYSICAL_GATE
+branch_or_repo_state: "Approved originals and prior grayscale final unchanged; product branch feat/optical-animals-book-creator unchanged. Separate deterministic B/W handoff outside Git."
 milestone: >-
-  Owner authorized implementing agent audit improvements. Delivered final48-page
-  premium revision: accurate18single+2spread copy, natural20AnimalDesignstoColor
-  subtitle, native outlined Publishing/Before typography, no empty ISBN label,
-  quiet prelude45 and closing48. Original22 grayscale illustration payloads
-  preserved. Independent final visual/copy and technical gatesPASS.
+  Delivered complete48-page pure black/white RSE Optical Art Series variant:
+  KDP master, live-text Canva PDF,58-file Canva ZIP and before/after comparison.
+  Uniform EB Garamond16pt utility copy,54pt headings,11pt AI note. Single-page
+  and single-sided wording retained. Ordinary reverse pages white; restrained
+  story on5, One last flight on45, A good place to pause on48.
 blocker: >-
-  No remaining objective digital-PDF blocker found. Physical paper/ink/gutter
-  proof and owner visual/release approval remain. Subjective10/10 not guaranteed.
-owner_gate: "Owner visual acceptance, physical proof and explicit release/upload authorization; no paid order or publication performed."
+  No remaining objective digital blocker. Global B/W removes soft gray modeling
+  intentionally. Actual Canva import and physical paper/ink/gutter proof remain
+  untested; owner visual choice and release authorization remain.
+owner_gate: "Choose B/W vs retained grayscale after comparison; inspect actual Canva import if editing and physical proof before release. No upload, paid order or publication performed."
 dependencies_needed: []
 reusable_outputs:
-  - "CURRENT: WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf;48pages,104838751bytes"
-  - "libfile_507fe3cae5088191be459397753617d0 version1;file_0000000092bc81f8aa50c7cf4a3a4618"
-  - "Post-save SHA256bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef"
-  - "621x810pt bleed;612x792pt alternating trim;zero softmasks,fonts,metadata,annotations."
-  - "All22bodyimage encoded streams byte-identical to V4;41retainedbody normalized paint/render identical."
-  - "Removed nonpainting default font blocks; fixed pypdf false-truthiness guard. Poppler text+all48page renders zero stderr."
-  - "44fullyblank;45prelude;46-47butterfly;48closing.19blankpages. Accurate spread exceptions disclosed."
-  - "All original hero/intro/source bytes unchanged; cheetah mirror fragments confirmed intentional, no erasure."
-  - "Audit history: WILD_ILLUSIONS_AUDYT_VERSION_1_PL.pdf;libfile_d2b98bcb4f788191935306298ef677ff version0"
-  - "Original V4 SHA2562dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13"
+  - "NEW B/W KDP: WILD_ILLUSIONS_RSE_PURE_BW_KDP.pdf;48pages;6588081bytes;libfile_aed6ac5d16d08191bed955fc490808df v0"
+  - "KDP SHA25620481cc911c8970b356cc8846a2519dc4885ae296f5549719269d57e1b04d0d0"
+  - "CANVA: WILD_ILLUSIONS_RSE_PURE_BW_CANVA.pdf;4974454bytes;libfile_a8703b24693c8191a29f163073eb2d9e v0"
+  - "Canva SHA256ed9e1887d62569c4038ab1bea3614fb7aae833f8b9d7fcc76e50831489ebb567"
+  - "CANVA ZIP: WILD_ILLUSIONS_RSE_PURE_BW_CANVA_PACK.zip;11299101bytes;libfile_8882efb1921c8191bb606d8e0f2c25bb v0"
+  - "ZIP SHA25614fefb0e9ad70f96b137ec426f365d2d24997e2f506c0fd83e11fbc332630f06;58files;48numbered300ppi PNGs,5introbackgrounds,livePDF,copy manifest,Polish guide,fontlicense,hashes"
+  - "Comparison: WILD_ILLUSIONS_BW_COMPARISON.png;libfile_ac9e0caf2568819197f5031f580e70ec v0"
+  - "All22native body image pixels exact to authorized BW80 assets,2588x3375,1bit DeviceGray,lossless,no resampling/dither/despeckle."
+  - "621x810pt bleed;612x792pt alternating trim;KDP zero fonts,softmasks,metadata,annotations.19whitepages;44blank,45prelude,46-47butterfly,48closing."
+  - "Final p2AI/p3marker border collisions resolved. Independent art,type,editorial,technical checks pass; post-save hashes unchanged and strict48page parse/render/Poppler checks pass."
+  - "RETAINED GRAYSCALE: WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf;104838751bytes;libfile_507fe3cae5088191be459397753617d0 v1;SHA256bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef"
+  - "OriginalV4 SHA2562dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13;all approved source originals unchanged."
 next_safe_task: >-
-  Owner visual/physical proof review of CURRENT premium revision. Apply only
-  specific authorized proof corrections; preserve approved originals. No
-  arbitrary score inflation, automatic publication or obsolete printmaster reuse.
-checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-premium-revision-final.md
+  Owner compare pure B/W against retained grayscale; actual Canva import review
+  if editing and physical proof. Apply only concrete authorized corrections.
+  No arbitrary score inflation, automatic publication or original hero overwrite.
+checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-rse-pure-bw-canva.md
 model_policy_ack: rse-weekly-usage-2026-10-21-v1
 recommended_profile: production
 runtime_model_observed: UNKNOWN
