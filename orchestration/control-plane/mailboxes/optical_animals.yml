@@ -1,45 +1,41 @@
 lane: optical_animals
 title: "Optical Animals"
 updated: 2026-10-21
-status: GRAYSCALE_SELECTED__LION_LIGHTENING_TRIAL_DELIVERED__OWNER_TONAL_CHOICE
-branch_or_repo_state: "Owner chose grayscale art; ONE writer. Original heroes, grayscale premium PDF and product branch unchanged. B/W version retained as alternative."
+status: FINAL_GRAY15_INTERIOR_DELIVERED__DIGITAL_QA_PASS__COVER_AND_PHYSICAL_RELEASE_GATE
+branch_or_repo_state: "ONE writer. Final selected grayscale interior delivered; approved source originals and product branch feat/optical-animals-book-creator unchanged."
 milestone: >-
-  Owner retains grayscale and requested a one-image trial. Delivered lion page27
-  with10% and15% lighter gray plus original/comparison detail, using exact native
-  pixels and protected black/white.15% visually recommended, not globally applied.
-  Prior RSE identity, uniform intro type and restrained copy remain the layout
-  baseline for a future selected-gray master.
+  Owner approved whole-book15% lighter gray. Delivered48-page KDP interior,
+  live-text Canva PDF and58-file Canva pack. All20 artworks/22imagepages retain
+  black/white and native geometry; both spreads use shared tone curves.
+  Latest RSE Optical Art Series identity,16/54/11pt intro typography, accurate
+  single-sided wording, quiet page45 and closing48 all included.
 blocker: >-
-  Owner tonal choice after the requested one-image trial. No global adjustment
-  or new full-book grayscale master yet. Old gray PDF predates latest RSE
-  typography/story; do not treat it as the new combined final. Actual Canva
-  import, physical proof, separate cover and release remain unfinished.
-owner_gate: "Visual choice of tonal strength before whole-book application; later actual Canva import, physical proof and release. No upload or paid order."
-dependencies_needed: []
+  No remaining objective digital-interior blocker. Separate approved full-wrap
+  cover is not included. Actual Canva import, KDP account preview/upload and
+  physical paper/ink/gutter proof remain unperformed. No publication or paid order.
+owner_gate: "Cover matched to48pages/paper, KDP Print Previewer, physical proof and owner release.15% tonal choice is APPROVED and applied; do not reopen that gate."
+dependencies_needed:
+  - "Separate approved full-wrap cover for final48-page8.5x11 interior/paper."
 reusable_outputs:
-  - "LATEST TRIAL comparison: WILD_ILLUSIONS_LION_GRAY_LIGHTENING_COMPARE.png;libfile_452c81f31b44819182aed386057e1439 v0"
-  - "Lion10: WILD_ILLUSIONS_LION_GRAY_LIGHTER_10.png;libfile_d4b0d0861bd88191a46c02d27ec6116d v0;SHA256c7398cf7a94b153c0a239a775c2575438c9a99107b9ecb271816350068b9edd8"
-  - "Lion15: WILD_ILLUSIONS_LION_GRAY_LIGHTER_15.png;libfile_654e400d6660819194db2cf4557bdf7e v0;SHA2569fe519cfbda4689a9604957bf6c2aa62f97edf2a6e1509fd75be1cc37578fe5a"
-  - "Native2588x3375 grayscale derivatives,300ppi,no spatial edits. Digital gray density reduced9.9982%/15.0001%;black0..24 andwhite255 unchanged. Full book unchanged."
-  - "RSE intro/copy layout baseline:2026-10-21-rse-pure-bw-canva.md. Preserve it when restoring gray art; earlier gray premium PDF lacks latest type/story."
-  - "ALTERNATIVE B/W KDP: WILD_ILLUSIONS_RSE_PURE_BW_KDP.pdf;48pages;6588081bytes;libfile_aed6ac5d16d08191bed955fc490808df v0"
-  - "KDP SHA25620481cc911c8970b356cc8846a2519dc4885ae296f5549719269d57e1b04d0d0"
-  - "ALTERNATIVE CANVA: WILD_ILLUSIONS_RSE_PURE_BW_CANVA.pdf;4974454bytes;libfile_a8703b24693c8191a29f163073eb2d9e v0"
-  - "Canva SHA256ed9e1887d62569c4038ab1bea3614fb7aae833f8b9d7fcc76e50831489ebb567"
-  - "CANVA ZIP: WILD_ILLUSIONS_RSE_PURE_BW_CANVA_PACK.zip;11299101bytes;libfile_8882efb1921c8191bb606d8e0f2c25bb v0"
-  - "ZIP SHA25614fefb0e9ad70f96b137ec426f365d2d24997e2f506c0fd83e11fbc332630f06;58files;48numbered300ppi PNGs,5introbackgrounds,livePDF,copy manifest,Polish guide,fontlicense,hashes"
-  - "Comparison: WILD_ILLUSIONS_BW_COMPARISON.png;libfile_ac9e0caf2568819197f5031f580e70ec v0"
-  - "All22native body image pixels exact to authorized BW80 assets,2588x3375,1bit DeviceGray,lossless,no resampling/dither/despeckle."
-  - "621x810pt bleed;612x792pt alternating trim;KDP zero fonts,softmasks,metadata,annotations.19whitepages;44blank,45prelude,46-47butterfly,48closing."
-  - "Final p2AI/p3marker border collisions resolved. Independent art,type,editorial,technical checks pass; post-save hashes unchanged and strict48page parse/render/Poppler checks pass."
-  - "RETAINED GRAYSCALE: WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf;104838751bytes;libfile_507fe3cae5088191be459397753617d0 v1;SHA256bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef"
-  - "OriginalV4 SHA2562dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13;all approved source originals unchanged."
+  - "CURRENT: WILD_ILLUSIONS_RSE_FINAL_GRAY15_KDP.pdf;48pages;66633025bytes;libfile_507fe3cae5088191be459397753617d0 v2;file_00000000bc0081f587e6201bee2f9eb9"
+  - "KDP SHA25620442ed44576f27b92d59bde138285d7529e978bfd196948ac1f29a6be16821f"
+  - "Canva: WILD_ILLUSIONS_RSE_FINAL_GRAY15_CANVA.pdf;65019398bytes;libfile_4b6440500a0c81918a1f0315513d5ab3 v0"
+  - "Canva SHA256b5853b0f8ce66dadee5d20071e5e9d08a89598ac17c586e87256ec9de225d8e0"
+  - "ZIP: WILD_ILLUSIONS_RSE_FINAL_GRAY15_CANVA_PACK.zip;133719479bytes;libfile_2ae552e0151881919c6a1c49b01aef5a v0"
+  - "ZIP SHA256ff3bc147ea90757f417a81eb7b8b98812f120fca8b05d239b1ae98a5cd4003db;48grayscale300ppiPNGs,5introbackgrounds,livePDF,copy/layout,Polishguide,fontlicense,hashes."
+  - "All22embedded art payloads exactly equal intended gray15derivatives;2588x3375;8bit DeviceGray;losslessFlate/PNGpredictor15;>=300ppi;zeroSMask."
+  - "Gray density reduction14.9937–15.0111%;protected0..24black/255white exact;geometry unchanged;lion27pixel-exactapprovedtrial;pairsharedLUTs6-7and46-47."
+  - "621x810pt bleed;alternating612x792pt trim.19whitepages8,10,...44;45prelude,46-47butterfly,48closing.26non-artpages unchanged from approvedRSElayout."
+  - "Root and independent art/technical QA PASS;all48pages inbothPDFs warning-freeMuPDF/Poppler;KDP0fonts/metadata/annots/masks;CanvaEBGaramond16/54/11embedded."
+  - "All3saves succeeded;post-save hashes unchanged. Canonical grayscale identity updated fromv1withguard;historicalv1 retained."
+  - "HISTORICAL v1 gray source SHA256bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef;superseded for finalupload,localoriginalunchanged."
+  - "PureBW alternatives retained at priorcheckpoint2026-10-21-rse-pure-bw-canva.md;notselectedforpublication."
 next_safe_task: >-
-  Owner visual review of original/10%/15% lion. After strength is selected,
-  combine chosen grayscale art with latest RSE shared typography/story and
-  reassemble/preflight KDP and Canva. Preserve approved originals. Do not
-  publish automatically or revert latest editorial changes with older gray PDF.
-checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-gray-lightening-trial.md
+  Provide/check separate approved cover, inspect KDP preview and physical proof,
+  then owner release. Use CURRENT FINAL_GRAY15_KDP directly if no edits.
+  Re-preflight after any Canva edits. Preserve approved originals; no automatic
+  publication, paid order, arbitrary score guarantee or rollback to old intro.
+checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-final-gray15-kdp.md
 model_policy_ack: rse-weekly-usage-2026-10-21-v1
 recommended_profile: production
 runtime_model_observed: UNKNOWN
