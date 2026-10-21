@@ -1,7 +1,7 @@
 lane: polish_localization
 title: Polish Localization Engine
 updated: '2026-10-21'
-status: DETECTIVE_EN_V5_KEEP__ALL16_SPATIAL_AUDITED__CASE07_20_SOURCE_GATES__PRODUCT_IMPORT_PENDING
+status: DETECTIVE_EN_V5_KEEP__30_CASE_EVIDENCE_INDEX_COMPLETE__WAITING_EXTERNAL_SOURCE_AND_PRODUCT_INPUT
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   engine_base_branch: codex/polish-engine-main-reconcile
@@ -162,8 +162,8 @@ milestone:
     pl_r8_changed: false
     freeze_granted: false
     publication: false
-    continuation: ACTIVE_CONFIRMED:24hourlyruns starting2026-10-21T09:59:43Z; actualbackendtimezoneAmerica/Los_Angeles. One
-      writerlease; completedproseKEEP, source/layoutintegrationchecks onlyunlessconcretedefect.
+    continuation: 'PAUSED_EXTERNAL_DEPENDENCIES: all16spatial+14nonspatial evidenceindexed; no further justifiedlocalizedwriting/checks
+      until actualsource/artdecision orBookFactoryV5artifact. CurrentV5KEEP.'
     ci: Current final head not yet verified; localQA distinct; no hosted green claim.
     integration_evidence: localization/detective-en-upgrade/2026-10-21/integration
     integration_source_pages_fingerprinted: 225
@@ -187,6 +187,10 @@ milestone:
       No guessedrepairs.
     geometry_prose_changes: 0
     geometry_receipt: localization/detective-en-upgrade/2026-10-21/qa/SOURCE_PUZZLE_GATE_STATUS.json
+    nonspatial_coverage: Twoactualindependent reviewers assessed14nonspatialcases. Allhave substantive priorsemanticreceipts;0newpuzzlesolves/renders,0newdefects,0prosechanges.
+      No repeatinggreenchecks.
+    all_case_evidence_index: localization/detective-en-upgrade/2026-10-21/qa/ALL_CASE_EVIDENCE_INDEX.json
+    remaining_handoff: localization/detective-en-upgrade/2026-10-21/integration/REMAINING_WORK_HANDOFF.md
 blocker:
 - Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer evidence
   not available.
@@ -232,7 +236,9 @@ dependencies_needed:
     delta fromacceptedV4. Preserve107placements/four0marks, source16Comms→dest15/source27narrative→dest26,8raster slots. CurrentV12parserneedsproductwriteradapter;
     supplyactualillustratedV5proof. SourceCase03caption gate remains. No acknowledgment inferred. Additiveactual16map/107placement
     audit nowcomplete withsourcegates: Case07identifyanchor independently;Case20resolveblockedE7versusSidE7. CheckCASE07_SOURCE_ANCHOR_GATE.md,CASE20_SOURCE_SYMBOL_GATE.md
-    andSOURCE_PUZZLE_GATE_STATUS.json;02/10/15conventionclaritylimits. Continueunaffectedslots;no receiptacknowledgmentinferred.'
+    andSOURCE_PUZZLE_GATE_STATUS.json;02/10/15conventionclaritylimits. Continueunaffectedslots;no receiptacknowledgmentinferred.
+    Full30case evidenceindex and precise external-input acceptancecontract nowin ALL_CASE_EVIDENCE_INDEX.json / REMAINING_WORK_HANDOFF.md.
+    Localization continuationpauseduntilactualinput; no furthercontentrewritejustified.'
 reusable_outputs:
 - https://github.com/riseshineevolve-source/agency-agents/pull/37
 - scripts/gentle-steps-r6-proof.py
@@ -258,7 +264,7 @@ reusable_outputs:
 - localization/detective-en-upgrade/2026-10-21/README.md
 - localization/detective-en-upgrade/2026-10-21/candidate/candidate.json
 - localization/detective-en-upgrade/2026-10-21/RSE_DETECTIVE_EN_STORY_UPGRADE_20261021.zip
-next_safe_task: 'V5KEEP unchanged. Consume actual source/art clarification forCase03/07/20 or approvedmap-rule/iconclarity02/10/15;
-  validateactualBookFactoryV5illustratedimport/render/8raster-slotreceipts. All16spatialenumerationscompletewithreportedlimits:
-  do not repeatgreenchecks or inventprosework. No productionedits/freeze/publication.'
+next_safe_task: Wait for actual source/artresolution Case03/07/20 or approvedmap-rule/iconclarity02/10/15, or soleBookFactorywriterV5import/illustratedrender/8raster-slotreceipts.
+  Then acquire expected-headlease andreview boundeddependencyclosure. All30case evidencecoverage indexed; do notrepeatgreens
+  or inventprosework. No productionedits/freeze/publication.
 checkpoint_reference: localization/detective-en-upgrade/2026-10-21/CHECKPOINT.md

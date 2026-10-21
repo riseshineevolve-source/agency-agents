@@ -42,9 +42,19 @@ Current full recovery package: `RSE_DETECTIVE_EN_V5_SOURCE_GEOMETRY_20261021.zip
 
 Read integration/CONSUMER_HANDOFF_SUPPLEMENT.md and current EDITORIAL_IMPORT_PACKET.json. Exact source-to-new-layout migration still matters: source16Comms→destination15; source27changedCase04narrative→destination26. Eight raster units lack executed product slot receipts. Registered Studio was recovered/pinnedcc6d4381..., but its exact-V12 parser cannot import thisJSON directly. Only existing BookFactorywriter adds/consumes versioned adapter; no production renderer/branch changed here.
 
+## All-case coverage assessment and external handoff
+
+Two actual independent reviewers checked whether any nonspatial source-figure/answer proof was missing before authorizing more tests. All14nonspatialcases already have substantive accepted semantic evidence, beyond byte preservation. Case05's720-permutation proof and priorCase18/21/26/27checks were retained, not repeated. No missing semanticcheck or new source defect was demonstrated in this assessment; no new prose/figure edits or puzzle solves/renders were performed.
+
+New qa/ALL_CASE_EVIDENCE_INDEX.json links all30cases to accepted source/answer receipts, physical folios, the16map audit and explicit unresolved gates. qa/nonspatial-coverage-early.json and nonspatial-coverage-late.json record the real independent coverage assessments. Historical checkpoint hash references in those reports refer to commit53287a3, not this updated checkpoint. No new whole-bookPASS is claimed.
+
+See integration/REMAINING_WORK_HANDOFF.md for the bounded next actions and all8raster stableIDs. Fresh BookFactory mailbox/deliverycheckpoint still name the originalsource9dbPDF; no actualV5import/render or source-resolution receipt was supplied. CurrentV5, recoveryZIP and textproof are unchanged.
+
+All remaining justified tasks require actual external source/art authority or soleproductwriter output, followed by owner/physical review. Automatic continuation is paused at those dependencies; no repeated greenchecks or inventedprosework. Resume on actual new source decision/productartifact, not a routine status refresh. ExistingCase03/07/20gates and02/10/15claritylimits remain explicit. This is not contentfreeze, print approval or release.
+
 ## Remaining real work and next safe task
 
 Actual product-writer import, destination receipts and full illustratedV5render/fit remain external to this lane. Case03protected ARCHIVED017/LATER071 vs older071 caption remains an explicit source/art gate; do not invent chronology. Owner reading, artwork-resolution, physical print and release separate. No merge/main/publication/freeze/PRINT_READY granted.
 
-The spatial enumeration audit is complete with explicit source gates/interpretation limits. Next useful work: independently assess any newly supplied source/art resolution for Case03/07/20 or a source-approved map-rule/icon clarification (especially02/10/15), or validate an actual BookFactoryV5import/render return against current93-operation/3067-hash packet and all16maps. Continue unaffected product layout through its solewriter; do not create a competing renderer or assume receipt. No repeated all-map solver run, routine green retests, prose rewrite or status-only commits. Read ACTIVE_WRITER first; acquire an expected-head lease only for concrete new evidence work. Historical baseline reports remain preserved.
+The all-case evidence inventory is closed in its stated scope, with source gates/interpretation limits retained. Next substantive work requires an actual newly supplied source/art resolution forCase03/07/20 or approvedmap-rule/iconclarity02/10/15, or actualBookFactoryV5import/render/slotreceipts. No further localization-owned edit or puzzle retest is justified now. BookFactory remains soleproductwriter and may continue unaffected layout; do not create a competing renderer or assume acknowledgment. Resume on concrete new input, read ACTIVE_WRITER and acquire an expected-head lease before any edits. Historical reports remain preserved. Automatic continuation paused because these remaining dependencies are external.
 

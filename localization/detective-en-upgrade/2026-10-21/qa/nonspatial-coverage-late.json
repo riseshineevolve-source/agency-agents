@@ -1,0 +1,165 @@
+{
+  "reviewer": "actual independent agent /root/nonspatial_coverage_late",
+  "reviewed_utc": "2026-10-21T13:06:41.080406+00:00",
+  "stage": "Evidence coverage assessment before authorizing any new nonspatial puzzle test",
+  "decision": "RETAIN_ACCEPTED_SEMANTIC_EVIDENCE__NO_NEW_PUZZLE_TEST_JUSTIFIED",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "source_and_candidate_identity_checked_from_actual_bytes": true,
+  "reviewed_cases": [
+    16,
+    18,
+    21,
+    24,
+    26,
+    27,
+    28,
+    30
+  ],
+  "actual_work": "Read prior actual-source visual/semantic receipt scope and case findings; distinguish those from byte-preservation checks. No original figure re-render, new enumeration, independent puzzle derivation, or prose edit was performed in this coverage review.",
+  "evidence_references": [
+    {
+      "path": "qa/truth-and-mechanics-lock.json",
+      "sha256": "cb355bd47976abab5bd3850fbfb7d7106ee3682745ff861843dc637bc1223428"
+    },
+    {
+      "path": "qa/review-truth-mechanics.json",
+      "sha256": "91a281502ec114921f481f67372f11f0d40112824aa45f2de1f2834b8cee65e9"
+    },
+    {
+      "path": "geometry-audit/special-cases-review.json",
+      "sha256": "2287b8e4758213d842f024ba30315e70f5a859af5f56f515313e59f0a8ff273e"
+    },
+    {
+      "path": "geometry-audit/case26-extraction-review.json",
+      "sha256": "930f436507b0a6427c0466bc513a2e30b3a4b25b2455b026c269f3de3c2936d6"
+    },
+    {
+      "path": "integration/review-figure-dependencies.json",
+      "sha256": "dd136d9aed974a00a8b950d29ae6b09780e9d3e36206fb66e338cbd9f4246731"
+    },
+    {
+      "path": "geometry-audit/review-separator-truth-logic.json",
+      "sha256": "eed56efc2afb4599b910538b9de7bebeeb9d350d199acf4d5df2f3df0b83a2a7"
+    },
+    {
+      "path": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "sha256": "4a9d718fd9120fbd4109be02ca5894c4a4993331a3d5e5b32ab02d415b7043ab"
+    },
+    {
+      "path": "geometry-audit/case13-empty-room-crosscheck.json",
+      "sha256": "74a975b729d5d23ae4273ac8d57095f437c378dfb3f2754aba2db4df504cac5b"
+    }
+  ],
+  "case_coverage": [
+    {
+      "case": 16,
+      "coverage": "INHERITED_ACCEPTED_SEMANTIC_COVERAGE",
+      "references": [
+        "qa/truth-and-mechanics-lock.json: case16, coverage.puzzle_visuals_inspected folio79",
+        "qa/review-truth-mechanics.json: TM-RULE-REPAIRS",
+        "integration/review-figure-dependencies.json: FIG-080-NOTE"
+      ],
+      "existing_semantic_evidence": "Three offered buildings/years, badge years1999\u20132003, completed security upgrade2001, expiry2004 with used-before-expiry log and six people are recorded from the original source; accepted answer OldAcademyAnnex/2002 and RULE0FIRST back-message are part of that lock. Actual original puzzle folio79 was already visually inspected. Later rendered folio80 confirms missing promised line; candidate supplies exact locked text.",
+      "new_missing_source_figure_check_identified": false,
+      "remaining_gate": "Actual illustrated V5 placement/fit of repaired page080.block05; no supplied product render."
+    },
+    {
+      "case": 18,
+      "coverage": "PRIOR_CLOSED_NOT_RERUN",
+      "references": [
+        "geometry-audit/special-cases-review.json: CASE18_CLOCK_TRUTH",
+        "geometry-audit/review-separator-truth-logic.json"
+      ],
+      "existing_semantic_evidence": "Actual rendered source89 record times and clock offsets independently calculated to15:15/15:16/15:17/15:18 -> A-B-C-D. V5 separator repair has separate bounded review.",
+      "new_missing_source_figure_check_identified": false
+    },
+    {
+      "case": 21,
+      "coverage": "PRIOR_CLOSED_NOT_RERUN",
+      "references": [
+        "geometry-audit/special-cases-review.json: CASE21_TEAR_TRUTH",
+        "geometry-audit/review-separator-truth-logic.json"
+      ],
+      "existing_semantic_evidence": "Actual source101 edge shapes,24-permutation class-path check, upright orientation and resulting B-D-A-C phrase recorded; V5 separator repair separately reviewed.",
+      "new_missing_source_figure_check_identified": false,
+      "remaining_gate": "Physical cut/print proof distinct from source semantic coverage."
+    },
+    {
+      "case": 24,
+      "coverage": "INHERITED_ACCEPTED_SEMANTIC_COVERAGE",
+      "references": [
+        "qa/truth-and-mechanics-lock.json: case24, coverage.puzzle_visuals_inspected folio115",
+        "qa/review-truth-mechanics.json: TM-FOOTPRINTS"
+      ],
+      "existing_semantic_evidence": "Actual source figure115 was visually inspected and mud100/70/35/10, uninterrupted walk/no fresh mud, EastPath\u2192WestGate and misleading EAST tread-arrow are explicitly recorded. Accepted exact-candidate review backchecks clue/puzzle/hint/solution dependencies112\u2013115/128/217 and protects reveal timing. This is semantic evidence, not only image-hash preservation.",
+      "new_missing_source_figure_check_identified": false
+    },
+    {
+      "case": 26,
+      "coverage": "PRIOR_CLOSED_NOT_RERUN",
+      "references": [
+        "geometry-audit/case26-extraction-review.json",
+        "geometry-audit/case13-empty-room-crosscheck.json",
+        "qa/SOURCE_PUZZLE_GATE_STATUS.json"
+      ],
+      "existing_semantic_evidence": "All14 actual source/solution image pairs and named empty-room initials yieldCHECKTHEOLDMAP; historical Case13room-name rationale corrected toHideRoom with sameH.",
+      "new_missing_source_figure_check_identified": false,
+      "remaining_gate": "Uses retained printed solved rosters. Newly isolated source07/20 gates mean this must not be promoted into proof that every upstream map is independently solvable."
+    },
+    {
+      "case": 27,
+      "coverage": "PRIOR_CLOSED_NOT_RERUN",
+      "references": [
+        "geometry-audit/special-cases-review.json: CASE27_OVERLAY_TRUTH"
+      ],
+      "existing_semantic_evidence": "Actual plans127 show fixedC1/F3/A5 anchors without rotation/scale change and OldTrainingRoomD2:E3 overlapping currentArchiveWall; actual margin message recorded.",
+      "new_missing_source_figure_check_identified": false
+    },
+    {
+      "case": 28,
+      "coverage": "INHERITED_ACCEPTED_SEMANTIC_COVERAGE",
+      "references": [
+        "qa/truth-and-mechanics-lock.json: case28, coverage.puzzle_visuals_inspected folio131",
+        "qa/review-truth-mechanics.json: TM-RULE-REPAIRS",
+        "integration/review-figure-dependencies.json: FIG-130-CASEWALL"
+      ],
+      "existing_semantic_evidence": "Actual figure131 and damaged rule/word bank were already visually inspected. Literal claimsA/B/C fact,E theory,D/F unsupportedassumption and resulting ZEROASSUMPTIONS/NOTICEFIRST/THEORIZESECOND are recorded; exact-candidate review confirms preservation and new CaseWall save instruction.",
+      "new_missing_source_figure_check_identified": false,
+      "remaining_gate": "Upstream source-map issues07/20 remain visible; actual illustrated fit of additional objective line130 not proven."
+    },
+    {
+      "case": 30,
+      "coverage": "INHERITED_ACCEPTED_SEMANTIC_COVERAGE",
+      "references": [
+        "qa/truth-and-mechanics-lock.json: case30, coverage.puzzle_visuals_inspected folio139",
+        "qa/review-truth-mechanics.json: TM-FINAL-INPUTS, TM-SYSTEM-LIMITS",
+        "integration/review-figure-dependencies.json: FIG-FINALE-SPEAKERS"
+      ],
+      "existing_semantic_evidence": "Actual final figure139 was already viewed. Four fields are explicitly bound to prior earned sources: RULEWORD/ASSUMPTIONS\u219028, ACCESS/D3\u219029, CODE/BALL\u2013STAR\u2013BOLT\u2013HEART\u2013KEY\u2013MOON\u219005, official readerCALLSIGN\u219009frontmatter. Exact-candidate finalinput/reveal-order and finale speaker checks cover remaining dependencies.",
+      "new_missing_source_figure_check_identified": false,
+      "remaining_gate": "No actual illustrated V5 consumer return; final slot preservation and fit remain product checks."
+    }
+  ],
+  "new_puzzle_tests_run": 0,
+  "new_source_defects_found": 0,
+  "candidate_or_source_changes": 0,
+  "carry_forward_gates": [
+    "ExistingCase03caption chronology",
+    "SourceCase07unidentified range-marker referent",
+    "SourceCase20blockedE7 versus SidE7 solution",
+    "Sourceclarity/adjacency/icon limits reported for02/10/15",
+    "Actual illustratedV5import/render and8raster-slotreceipts",
+    "Physical owner print/read approval and release"
+  ],
+  "limits": [
+    "This is an evidence-coverage assessment, not a fresh independent re-derivation of already accepted puzzles.",
+    "Inherited receipts are retained only in their stated scopes and exact-hash succession; this report does not create a new whole-book PASS.",
+    "No full225page semantic/layout/print certificate, owner content approval, freeze or release permission is granted."
+  ],
+  "receipt_inheritance": {
+    "current_candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+    "basis": "Accepted V4 whole-book wording coverage is retained only for the3065unchanged texts. Separate actualV5delta review covers six separator repairs in207/212. This report is not a new V5whole-book semantic review.",
+    "accepted_v4_candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e"
+  }
+}

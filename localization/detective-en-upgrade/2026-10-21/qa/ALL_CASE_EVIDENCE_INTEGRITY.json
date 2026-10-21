@@ -1,0 +1,16 @@
+{
+  "checked_utc": "2026-10-21T13:11:32.883030+00:00",
+  "status": "PASS_COVERAGE_INDEX_AND_REFERENCE_INTEGRITY_ONLY",
+  "all_cases": 30,
+  "spatial_cases": 16,
+  "nonspatial_cases": 14,
+  "case_hint_links": 90,
+  "case_solution_links": 30,
+  "coverage_receipt_reference_hashes_verified": 13,
+  "index_sha256": "f33c81f96ee9e3326f60d1c1c554a23ca6b207d683579141fdb7891b01f775c2",
+  "historical_checkpoint_git_context": "53287a38d42c15a4e945d451871cf331b49e1eb0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "new_puzzle_tests": 0,
+  "scope": "Evidence identity and completecaseindex only; no new semanticallgreen, illustratedfit or sourcegateclosure."
+}

@@ -1,0 +1,208 @@
+{
+  "reviewer": "Actual independent subagent /root/nonspatial_coverage_early",
+  "reviewed_utc": "2026-10-21T13:06:29.310326+00:00",
+  "stage": "Evidence coverage / inheritance assessment, not repeat puzzle solution testing",
+  "status": "ACCEPTED_PRIOR_SEMANTIC_COVERAGE_REUSED__NO_NEW_TEST_JUSTIFIED",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "accepted_v4_candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "cases": [
+    {
+      "case": 3,
+      "disposition": "CURRENT_PHOTO_INVENTORY_INHERITED__CAPTION_OWNER_GATE_RETAINED",
+      "existing_semantic_evidence": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case03_ten_current_differences"
+      },
+      "additional_existing_review": "qa/review-truth-mechanics.json; integration/review-figure-dependencies.json for currentphoto/caption review",
+      "board_folio": 24,
+      "figure_folio": 25,
+      "solution_folio": 183,
+      "hint_folios": [
+        152,
+        161,
+        170
+      ],
+      "reason_no_duplicate_check": "Actual current photoA/B visual inventory lists ten differences, not obsoleteV10 shapes/treads. TM-CURRENT-PHOTOS explicitly preserves current evidence. Integration reviewer directly viewed24/25 and isolated caption chronology; no new photo or chronology proof is justified.",
+      "scope_text_inheritance": {
+        "accepted_baseline": "V4",
+        "scoped_units_checked": 130,
+        "changed_from_accepted_v4": []
+      },
+      "new_semantic_test_executed": false,
+      "new_candidate_edit": false
+    },
+    {
+      "case": 5,
+      "disposition": "ACCEPTED_EXHAUSTIVE_SEQUENCE_PROOF_INHERITED",
+      "existing_semantic_evidence": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case05_exhaustive_permutation_check"
+      },
+      "additional_existing_review": "qa/review-truth-mechanics.json; integration/review-figure-dependencies.json for currentphoto/caption review",
+      "board_folio": 32,
+      "figure_folio": 33,
+      "solution_folio": 187,
+      "hint_folios": [
+        153,
+        162,
+        171
+      ],
+      "reason_no_duplicate_check": "Existing720-permutation enumeration records exactlyone sequence BALL\u2013STAR\u2013BOLT\u2013HEART\u2013KEY\u2013MOON. No re-enumeration performed.",
+      "scope_text_inheritance": {
+        "accepted_baseline": "V4",
+        "scoped_units_checked": 103,
+        "changed_from_accepted_v4": []
+      },
+      "new_semantic_test_executed": false,
+      "new_candidate_edit": false
+    },
+    {
+      "case": 8,
+      "disposition": "ACCEPTED_ROUTE_ELIMINATION_INHERITED",
+      "existing_semantic_evidence": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case08"
+      },
+      "additional_existing_review": "qa/review-truth-mechanics.json; integration/review-figure-dependencies.json for currentphoto/caption review",
+      "board_folio": 46,
+      "figure_folio": 47,
+      "solution_folio": 192,
+      "hint_folios": [
+        153,
+        162,
+        171
+      ],
+      "reason_no_duplicate_check": "Existing source route model listsA/B/C: PaintCorridorclosednow/no waiting excludesA; lockedstaffstairs excludesB; C remains. This is semantic elimination, not merely imagehash parity.",
+      "scope_text_inheritance": {
+        "accepted_baseline": "V4",
+        "scoped_units_checked": 84,
+        "changed_from_accepted_v4": []
+      },
+      "new_semantic_test_executed": false,
+      "new_candidate_edit": false
+    },
+    {
+      "case": 9,
+      "disposition": "ACCEPTED_MARK_CLASSIFICATION_INHERITED",
+      "existing_semantic_evidence": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case09"
+      },
+      "additional_existing_review": "qa/review-truth-mechanics.json; integration/review-figure-dependencies.json for currentphoto/caption review",
+      "board_folio": 50,
+      "figure_folio": 51,
+      "solution_folio": 193,
+      "hint_folios": [
+        154,
+        163,
+        172
+      ],
+      "reason_no_duplicate_check": "Existing source inventory identifies four trueplain0records and explicit lookalike exclusions; TM-FOUR-MARKS checks meaning and avoids premature explanation. No fifth mark introduced.",
+      "scope_text_inheritance": {
+        "accepted_baseline": "V4",
+        "scoped_units_checked": 88,
+        "changed_from_accepted_v4": []
+      },
+      "new_semantic_test_executed": false,
+      "new_candidate_edit": false
+    },
+    {
+      "case": 11,
+      "disposition": "ACCEPTED_TIMESTAMP_CLASSIFICATION_INHERITED",
+      "existing_semantic_evidence": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case11"
+      },
+      "additional_existing_review": "qa/review-truth-mechanics.json; integration/review-figure-dependencies.json for currentphoto/caption review",
+      "board_folio": 58,
+      "figure_folio": 59,
+      "solution_folio": 196,
+      "hint_folios": [
+        154,
+        163,
+        172
+      ],
+      "reason_no_duplicate_check": "Existing source model specifies15:20\u201316:05 window, qualifyingA/B/Ctimestamps and personalphotoD08:07; ordinary E/F/G items are explicitly distinguished. No new timestamp test needed.",
+      "scope_text_inheritance": {
+        "accepted_baseline": "V4",
+        "scoped_units_checked": 88,
+        "changed_from_accepted_v4": []
+      },
+      "new_semantic_test_executed": false,
+      "new_candidate_edit": false
+    },
+    {
+      "case": 14,
+      "disposition": "ACCEPTED_GRAPH_TIME_DERIVATION_INHERITED",
+      "existing_semantic_evidence": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case14"
+      },
+      "additional_existing_review": "qa/review-truth-mechanics.json; integration/review-figure-dependencies.json for currentphoto/caption review",
+      "board_folio": 70,
+      "figure_folio": 71,
+      "solution_folio": 201,
+      "hint_folios": [
+        155,
+        164,
+        173
+      ],
+      "reason_no_duplicate_check": "Existing source model lists graph edges and2min peredge; NoahStage16:10\u2192Dressing16:12 needs4minutes, not2. Other accounts remain feasible; no claim of deliberate lie. No repeat graphsolver.",
+      "scope_text_inheritance": {
+        "accepted_baseline": "V4",
+        "scoped_units_checked": 84,
+        "changed_from_accepted_v4": []
+      },
+      "new_semantic_test_executed": false,
+      "new_candidate_edit": false
+    }
+  ],
+  "evidence_files": [
+    {
+      "path": "qa/truth-and-mechanics-lock.json",
+      "sha256": "cb355bd47976abab5bd3850fbfb7d7106ee3682745ff861843dc637bc1223428"
+    },
+    {
+      "path": "qa/review-truth-mechanics.json",
+      "sha256": "91a281502ec114921f481f67372f11f0d40112824aa45f2de1f2834b8cee65e9"
+    },
+    {
+      "path": "integration/review-figure-dependencies.json",
+      "sha256": "dd136d9aed974a00a8b950d29ae6b09780e9d3e36206fb66e338cbd9f4246731"
+    },
+    {
+      "path": "geometry-audit/review-separator-truth-logic.json",
+      "sha256": "eed56efc2afb4599b910538b9de7bebeeb9d350d199acf4d5df2f3df0b83a2a7"
+    },
+    {
+      "path": "CHECKPOINT.md",
+      "sha256": "f206c72eb61aa4b43a1f6694ff07bf47b3f42123c74d250b9554ec87a3f99f5c"
+    }
+  ],
+  "assessment": [
+    "All six scoped nonspatial cases have concrete original-figure/answer semantics in the accepted source lock, not only preservation statements.",
+    "The existing source lock expressly records actual puzzle visuals24/25/33/47/51/59/71 as inspected. The accepted truth/mechanics receipt gives source225coverage and preserves designed evidence/solutions.",
+    "Relevant source/candidate pages are unchanged from acceptedV4. V5 delta repair elsewhere does not reopen these checks. Source/candidate/baseline bytehashes were verified for inheritance only.",
+    "Case05 exhaustive720-permutation proof and other green source derivations were not rerun."
+  ],
+  "real_remaining_dependencies": [
+    {
+      "case": 3,
+      "status": "INHERITED_OWNER_GATE",
+      "need": "Authoritative caption/art chronology resolution for ARCHIVED017/LATER071 vs older071; do not guess."
+    },
+    {
+      "scope": "production",
+      "status": "EXTERNAL_PRODUCT_RECEIPT_PENDING",
+      "need": "Actual illustratedV5import/render/slot receipts; source visual inspection cannot establish surfacefit."
+    }
+  ],
+  "new_missing_semantic_check_found": false,
+  "new_prose_or_art_changes": 0,
+  "limitations": [
+    "This is an assessment of accepted evidence coverage, not a new independent fullvisualPASS or a new six-case solve.",
+    "Inherited source semantics are not granted production/print approval by this receipt.",
+    "Case03caption gate remains open; other branch sourcegates remain unaffected."
+  ]
+}
