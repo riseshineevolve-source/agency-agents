@@ -1,8 +1,9 @@
 {
-  "state": "V8_OWNER_READ_CANDIDATE__ACTUAL_REVIEWS_PASS__PRODUCTION_HANDOFF_PENDING",
-  "owner": null,
+  "state": "V9_HM_COMMS_ONLY_WORKING",
+  "owner": "root_hm_comms_20261022",
   "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
-  "checkpoint": "v8/CHECKPOINT.md",
-  "rule": "V7historical;V8owner-authorizedjointEnglishaudit. ExistingBookFactoryexclusiveproductionwriter. AllV6repairs retained.",
-  "next_safe_task": "Existing soleBookFactorywriter consumes exact V8 editorial import packet, inherited V7sourcecontract and preserved V6figures; bind final typeset import/fit/print receipts. No further prose pass without concrete defect or new ownerrequest."
+  "checkpoint": "v9/OWNER_AUTHORITY.json",
+  "rule": "Explicitownerrequest2026-10-22: onlyHMComms; restoreoriginalrichness/mergeV7. AllV8nonCommslocked. Rootsolewriter,fouractualreviewers.",
+  "next_safe_task": "Complete34dialogues183turns, exactboundaries and independentreviews; existingsoleBookFactoryproductionwriterunchanged.",
+  "baseline_candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e"
 }
