@@ -1,27 +1,28 @@
 lane: optical_animals
 title: "Optical Animals"
 updated: 2026-10-22
-status: INTRO_PATTERN_V5_DELIVERED__DIGITAL_QA_PASS__OWNER_PRINT_RELEASE_GATES
+status: FINAL_INTRO_V6_DELIVERED__DIGITAL_QA_PASS__KDP_PREVIEW_AND_PHYSICAL_GATES
 branch_or_repo_state: "ONE writer. Product branch feat/optical-animals-book-creator. Approved22hero artwork streams remain byte-identical; no hero or source art changed."
 milestone: >-
-  On the 48-page coloring-only V4 interior, the exact page4 right-edge pattern
-  now continues across the gutter onto page5's LEFT long vertical edge, upright,
-  with a soft white title exclusion. The same vertical edge echo repeats on
-  blank reverse pages8,10,...42,44; pages45 and48 retain the subtle motif.
-  Intro layout/production copy retained. 26 unrevised page paint streams and all
-  22 approved hero streams are byte-identical. Digital PDF/ZIP QA passed.
-blocker: "Physical paper/ink/gutter proof, matching approved full-wrap cover, actual KDP Print Previewer, and final release inputs/approval remain unverified."
-owner_gate: "Owner reviews the revised p4–5 spread and the physical proof; matching cover, KDP Previewer, metadata/price, then explicit release decision. No publication performed."
+  Owner selected “A wing at rest still carries the shape of flight.” for p45
+  before the butterfly spread. It is centered in two lines in the existing
+  24pt italic style. The p4 right-edge source motif continues across the gutter
+  onto p5's LEFT long vertical edge; the same vertical echo repeats on blank
+  reverse pages8,10,...42,44. The title exclusion keeps “Enter the Collection”
+  clear. Digital KDP/Canva PDFs and pack passed page, rendering and integrity
+  checks; 26 unrevised page streams and all22 approved hero streams are unchanged.
+blocker: "KDP Print Previewer, matching approved full-wrap cover, and physical paper/ink/gutter proof remain unverified."
+owner_gate: "Use the interior PDF in KDP Previewer; resolve any print issue, pair the approved cover, review physical proof, and make the final publication decision. No upload or publication performed by this lane."
 dependencies_needed:
-  - "Approved full-wrap cover matched to the current 48-page trim, paper and ink."
+  - "Approved full-wrap cover matched to current 48-page trim, paper and ink."
 reusable_outputs:
-  - "KDP WILD_ILLUSIONS_OPTICAL_ART_FINAL_KDP.pdf;70119234 bytes;SHA256 49fd39ef2fbe341c7676f30dea77ff400a5b068f70913e71d724bc366a9dc466;Library libfile_507fe3cae5088191be459397753617d0 v10 file_00000000784c81f5b0b9c453f3df2faa"
-  - "Canva WILD_ILLUSIONS_OPTICAL_ART_FINAL_CANVA.pdf;69909499 bytes;SHA256 1eb76a21d8f8949915f42b30f32a19088f454a23b8cdc49f8fba45fc2dd759b0;Library libfile_4b6440500a0c81918a1f0315513d5ab3 v8 file_00000000d5d481f5889d8f69234aee95"
-  - "Canva pack WILD_ILLUSIONS_OPTICAL_ART_FINAL_CANVA_PACK.zip;216156331 bytes;SHA256 0f29222490ebbaf675d9f1b4d18be2473af0b0c92a5f4836aea9849cff15eb5d;Library libfile_2ae552e0151881919c6a1c49b01aef5a v8 file_00000000d00c81f5ae2425e391118a60"
-  - "22 updated pages Poppler/MuPDF verified; 26 other page streams unchanged; 22 approved art streams byte-identical; ZIP 94 entries and checksum manifest PASS."
-  - "P4 to p5 exact source pattern continued across spine to p5 left long vertical edge; same vertical echo on blank reverse backs8,10,...42,44. Title exclusion keeps heading clear."
-next_safe_task: "Stop at owner visual and physical/release gates: inspect revised p4–5 transition, obtain matching cover and physical proof, run actual KDP Print Previewer, assemble final metadata/price/release packet. Intro-only scope; no token/mask or whole-volume art changes."
-checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-22-intro-edge-pattern-v5.md
+  - "KDP WILD_ILLUSIONS_OPTICAL_ART_FINAL_KDP.pdf;70116789 bytes;SHA256 0539d87d3535194a22e0506e23eeea3c8bc8fafe45d58f547aa2adae3f5fcd1d;Library libfile_507fe3cae5088191be459397753617d0 v11 file_00000000673881f6b1a42985fe07010b"
+  - "Canva WILD_ILLUSIONS_OPTICAL_ART_FINAL_CANVA.pdf;69909498 bytes;SHA256 0112de28dab12054f377d5d3a8168114463185c206522420fd099451d4465f6a;Library libfile_4b6440500a0c81918a1f0315513d5ab3 v9 file_0000000006bc81f6adfc66c24b758f0f"
+  - "Canva pack WILD_ILLUSIONS_OPTICAL_ART_FINAL_CANVA_PACK.zip;216150846 bytes;SHA256 21304c87b45de05bc90bc7f26224d45b28ca2152d7923f62ed52a8813eb13a9d;Library libfile_2ae552e0151881919c6a1c49b01aef5a v9 file_000000007ba481f6aba3831193cd40af"
+  - "22 changed pages rendered and verified; 26 unchanged page paint streams; 22 approved art streams unchanged; ZIP 95 entries, integrity and checksum manifest PASS."
+  - "P45 chosen text: A wing at rest still carries / the shape of flight. Pattern p4 right edge to p5 left vertical edge, repeated on blank reverses."
+next_safe_task: "Owner uploads the interior to KDP Print Previewer and checks the result. Then use the matching approved cover and physical proof. Current scope is intro-only; no mask/token/whole-volume work."
+checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-22-final-intro-v6.md
 model_policy_ack: rse-weekly-usage-2026-10-21-v1
 recommended_profile: production
 runtime_model_observed: UNKNOWN
