@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: SPIRAL_DESSERT_WAITER_V13_OWNER_REVIEW
+status: MOTH_DESSERT_MIRROR_V14_OWNER_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V13 replaces rejected skull-as-food with elegant spiral layered cake in foreground cloche and wall mirror; candle and accepted composition retained."
+milestone: "V14 uses cloche for nocturnal moth-wing spiral dessert and striped candle; mirror rebuilt with coherent back-view two-arm service gesture and actual inverted-table supports."
 blocker: null
-owner_gate: "Owner visual response to V13 spiral dessert. Skull proposal rejected; no print/release claim."
+owner_gate: "Owner visual response to V14 moth dessert and revised mirror. No print/release claim."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Owner review V13 spiral cake cloche; preserve accepted scene. Targeted refinement only."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SPIRAL_DESSERT_WAITER_V13.md"
+next_safe_task: "Owner review V14; preserve accepted room/service composition. Targeted refinement only."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_MOTH_DESSERT_MIRROR_WAITER_V14.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V13 actual-image review: skull absent from foreground and mirror, spiral cake/candle present; accepted flying service composition retained. Mirror remains stylized."
+closing_pass_qa: "V14 actual-image review: mirror arm gesture, palm support and inverted-table solid supports clearer; dessert/candle repeat. Reflected dessert remains stylized frontal presentation rather than certified ray-traced rear view."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -107,3 +107,8 @@ vanitas_cloche_v12:
 spiral_dessert_v13:
   - "Owner rejected skull as food. Replaced with spiral cake in foreground and reflected cloche."
   - "Latest exec-2ffc2952-3431-4edb-8403-c4239dd5d316.png SHA256 403c4594abfee94796e4dec50d969815a5f7847a9435a626941800e5792b8613."
+
+moth_dessert_mirror_v14:
+  - "Two chocolate moth wings with crescent cutouts add mature nocturnal Halloween to optical dessert."
+  - "Mirror rebuilt: reflected plate arm left, supported cloche right, same striped waiter/table motifs."
+  - "Latest exec-f70af428-42fb-4c82-a665-c315e136bac7.png SHA256 be890d3ad58707e0948e3b770602edd811f2379203715dfe25320abbd564bed7."
