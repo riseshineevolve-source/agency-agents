@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: SKELETON_WEB_SOLE_V24_DELIVERED
+status: SKELETON_OPTICAL_LOBBY_V25_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V24 skeleton local finish delivered: distant candelabrum removed, repeated moth sole replaced with dimensional web tread. Other scene finals untouched."
+milestone: "V25 targeted upper lobby relief: nested optical portals replace flat black arch voids, following owner crop."
 blocker: null
-owner_gate: "Owner visual response to V24; no other scene reopened or print release."
+owner_gate: "Owner visual response to V25 local lobby edit; no other scene reopened."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve V24 skeleton, V21 other three finals and waiter lock. Only explicit owner corrections/proven blockers."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_WEB_SOLE_V24.md"
+next_safe_task: "Preserve V25 skeleton and all other finals; only explicit owner corrections/proven blockers."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_OPTICAL_LOBBY_V25.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V24 actual image inspected: empty central tabletop, web sole with white ribs and black recesses, no moth; diamond clasp/reflection and white shaft panels preserved."
+closing_pass_qa: "Owner crop inspected: top lobby targeted correctly. Broad nested portals retain black contrast and add white coloring bands; source figure/web sole/reflection retained."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -174,3 +174,7 @@ skeleton_web_sole_v24:
   - "Owner removes repeated candelabrum and moth motif. Central tabletop empty; dimensional web tread inside full sole."
   - "Latest exec-2d8ba8cd-5c48-4c51-a2ab-ec9905f1eef3.png SHA256 d44762114c6dbfdd4fc054111c59dd9ad86f638548c9387c0f6122ffd8f111da."
   - "Other finals untouched; earlier versions preserved. No objective quality score or print certification."
+
+skeleton_optical_lobby_v25:
+  - "Owner crop identifies upper lobby, not shaft. Nested arch and angular portals replace flat black recesses."
+  - "Latest exec-5a041f89-4241-4a2f-b779-477b40f658d6.png SHA256 bd5e869769514f29db2967e8301d8c6a247ed9c273268d9825d807c5fe0ac3d6."
