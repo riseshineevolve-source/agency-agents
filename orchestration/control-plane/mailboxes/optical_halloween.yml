@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: SKELETON_TWO_REFERENCE_MERGE_V29_DELIVERED
+status: SKELETON_SOURCE_MODERN_FINISH_V30_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V29 two-reference merge delivered: smooth ribbon balcony shapes and modern lobby from second image, windows and potted trees on every descending floor."
+milestone: "V30 latest owner source modernized locally: contemporary lobby and balcony finishes; all receding floors/windows/trees and optical depth retained."
 blocker: null
-owner_gate: "Owner visual response to V29 merged skeleton; other scene finals remain closed."
+owner_gate: "Owner visual response to V30; other illustration finals closed."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve V29 merge; every floor now has window/tree per latest owner instruction. Only explicit corrections/proven blockers."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_TWO_REFERENCE_MERGE_V29.md"
+next_safe_task: "Preserve V30 latest-source modern finish and other finals; only explicit corrections/proven blockers."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_SOURCE_MODERN_FINISH_V30.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Actual V29 reviewed: four descending floors each window/tree, broad ribbon slab curves, modern lobby retained; skeleton/pose/reflection/web sole retained visually."
+closing_pass_qa: "Actual V30 reviewed: modern seats/table/lights/piers and panel balconies; source multi-floor depth/window/tree rhythm and skeleton/reflection/web sole retained visually."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -194,3 +194,7 @@ skeleton_furnished_balconies_v28:
 skeleton_two_reference_merge_v29:
   - "Current two attachments merged. Second supplies balcony shape/modern lobby; first supplies window/tree content. Latest all-floor content requirement supersedes plain bottom."
   - "Final exec-2c2c9ea9-c7b3-471b-9c81-c05785dfd17d.png SHA256 ccf1737acbced6925671d3cb8d210f59b8ba58557c638ebf5f8e450e8cedf0a1."
+
+skeleton_source_modern_finish_v30:
+  - "Latest owner source image20261022-134620 overrides V29 simplified floor count. Modernize finishes only; preserve many receding floors."
+  - "Final exec-65751afd-27c2-41e9-9a1e-67b48dba857c.png SHA256 3b48aba930fc2f1e213a5ab8f724cd7fe11ac767802f5ac149c38914d0aeec66."
