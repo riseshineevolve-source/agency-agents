@@ -8,12 +8,12 @@ worlds:
   - "The Eclipse Museum of Lost Nights"
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
-updated: 2026-10-21
-status: INVERTED_TABLE_WAITER_V09_OWNER_REVIEW
+updated: 2026-10-22
+status: HAUNTED_ROOM_WAITER_V10_OWNER_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V09 waiter: actual upside-down modern table with four upward legs, inverted settings, contemporary short blazer and plain shirt; cabinet and every flower removed. Cropped table leg corrected. Other four V07 scenes preserved."
+milestone: "V10 restores recognizable haunted modern interior, folded optical architecture, wall mirror and bounded floor reflection. Actual upside-down table and contemporary waiter retained."
 blocker: null
-owner_gate: "Owner visual response to V09 inverted-table waiter; other four V07 scenes retained. No approved20 or release claim."
+owner_gate: "Owner visual response to V10 haunted room waiter. Other four V07 scenes retained."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Review V09 waiter with owner; preserve actual inverted table, modern clothing and no cabinet/flowers. Only targeted refinement or proven blocker; no factory work."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-21_UPSIDE_DOWN_TABLE_WAITER_V09.md"
+next_safe_task: "Owner review of V10; preserve room and Halloween atmosphere together with inverted table and modern outfit. Targeted refinement only."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_HAUNTED_ROOM_WAITER_V10.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V09 final actual-image root review: four complete upward table legs, downward settings, all major limbs/props complete; no cabinet/flowers/stairs/checkers. 1103x1426 RGB, zero chromatic pixels above channel-spread15. Native art candidate pending owner visual response."
+closing_pass_qa: "V10 root actual-image review: identifiable room planes/doorway, complete upward table legs, modern clothing, pumpkin/bat/ghost accents, wall and floor reflections. Most gray floor wash removed; thin pale reflection lines remain. Native art candidate."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -85,3 +85,9 @@ upside_down_table_waiter_v09:
   - "Final exec-4e031372-f71c-45ce-8a31-bb7a2053ddf2.png SHA256 d490216584ae6f32f1fb8585278b13c48d0cff23e248a444490656aba35b5a6a."
   - "Foreground mirror and convex cloche optical motifs remain stylized; do not claim traced physical reflection accuracy."
   - "Root sole GitHub writer. Other four V07 scenes and approved originals untouched; image binaries remain in owner conversation."
+
+haunted_room_waiter_v10:
+  - "Owner rejected V09 loss of room, optics and Halloween. Restored architectural enclosure with warped striped ceiling, doorway and mirrors."
+  - "Final exec-325639f2-b291-43ab-af79-c725ab3af339.png SHA256 8ac6cd6e730b99653a80185a13b38376ac28b6be9d6c01dc9004db6fd793ea2c."
+  - "Removed contradictory upper-table dishes/pumpkin and corresponding mirror objects; inverted settings retained."
+  - "No additional scene regeneration; no print certification; prior strong versions preserved."
