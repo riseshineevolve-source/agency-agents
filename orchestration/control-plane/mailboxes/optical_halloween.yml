@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: VANITAS_CLOCHE_WAITER_V12_OWNER_REVIEW
+status: SPIRAL_DESSERT_WAITER_V13_OWNER_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V12 merges accepted V11 room/service composition with palm-supported foreground cloche from owner second reference. Sculptural optical skull and striped candle add mature Halloween mood."
+milestone: "V13 replaces rejected skull-as-food with elegant spiral layered cake in foreground cloche and wall mirror; candle and accepted composition retained."
 blocker: null
-owner_gate: "Owner visual response to V12 skull/candle cloche and palm support. No print/release claim."
+owner_gate: "Owner visual response to V13 spiral dessert. Skull proposal rejected; no print/release claim."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Owner visual response to V12; preserve accepted room, inverted table and service action. Targeted refinement only."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_VANITAS_CLOCHE_WAITER_V12.md"
+next_safe_task: "Owner review V13 spiral cake cloche; preserve accepted scene. Targeted refinement only."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SPIRAL_DESSERT_WAITER_V13.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V12 actual-image root review: complete foreground dome, upward palm support, skull/candle inside and repeated in mirror, full exposed table legs, no childlike Halloween symbols. Reflections stylized, not certified physical projection."
+closing_pass_qa: "V13 actual-image review: skull absent from foreground and mirror, spiral cake/candle present; accepted flying service composition retained. Mirror remains stylized."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -103,3 +103,7 @@ vanitas_cloche_v12:
   - "Skull with broad optical band plus one striped candle inside dome; no pumpkin/ghost/flowers."
   - "Final exec-adb210f9-572f-4756-b7c9-ac3e62e27d9e.png SHA256 5d6fc78f43038bd60f5fca0c0a3d757c00c9dcc93694ad2904a0a9e525cf835e."
   - "Previous versions and other four V07 scenes retained; illustration-only owner candidate."
+
+spiral_dessert_v13:
+  - "Owner rejected skull as food. Replaced with spiral cake in foreground and reflected cloche."
+  - "Latest exec-2ffc2952-3431-4edb-8403-c4239dd5d316.png SHA256 403c4594abfee94796e4dec50d969815a5f7847a9435a626941800e5792b8613."
