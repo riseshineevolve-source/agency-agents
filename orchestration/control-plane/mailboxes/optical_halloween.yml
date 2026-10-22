@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: REFLECTION_FINISH_WAITER_V17_OWNER_REVIEW
+status: WAITER_APPROVED_FOUR_V18_OWNER_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V17 foreshortens/reduces right floor moth and encloses inverted shoe reflection in flat optical mirror lens. Strong upper composition preserved; local draft issue independently identified and corrected."
+milestone: "Owner-approved V17 waiter locked byte-identical. Four attached scenes upgraded to modern optical Halloween near-finals with specialist visual QA and local graywash/mirror corrections."
 blocker: null
-owner_gate: "Owner visual response to V17 local final; no objective10/10, physical-projection or release certification."
+owner_gate: "Owner visual response to four V18 near-final scenes. Waiter V17 explicitly approved and locked. No full20 or print/release certification."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Owner visual review of V17 reflection finish; preserve composition, targeted owner refinements only."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_REFLECTION_FINISH_WAITER_V17.md"
+next_safe_task: "Review four V18 candidates with owner; waiter locked. Only targeted refinements/proven blockers; no factory work."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_FOUR_MODERN_HALLOWEEN_NEAR_FINAL_V18.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V17 root actual-image review: reduced foreshortened moth, complete actual airborne shoes, bounded oval shoe reflection resolves isolated-boot presentation. Independent draft QA informed targeted final correction."
+closing_pass_qa: "Two specialist actual-output reviews: main limbs/frames/props complete. Skeleton/painter broad floor graywash cleaned; queen extra upright mirror candle removed. Near-final art proofs, stylized reflections; waiter approved."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -127,3 +127,17 @@ reflection_finish_v17:
   - "Owner requested local shoe/moth corrections; preserve strong complete scene."
   - "Independent visual QA confirmed initial shoe looked detached; final encloses compressed reflection in floor mirror lens."
   - "Final exec-15f07953-ae6f-4ee1-a01c-d02d6ba4375f.png SHA256 d3a75f11ad9031bb351d2c2c545e714ef6f76582db21d849c7df4df1b5cf255f."
+
+waiter_final_owner_lock:
+  approved: true
+  approved_on: 2026-10-22
+  file: "exec-15f07953-ae6f-4ee1-a01c-d02d6ba4375f.png"
+  sha256: "d3a75f11ad9031bb351d2c2c545e714ef6f76582db21d849c7df4df1b5cf255f"
+  instruction: "Preserve byte-identical; oval mirror below shoe explicitly selected by owner."
+
+four_modern_near_final_v18:
+  - "Current four owner uploads inspected directly; historical best ideas retained from V05-V07 durable context."
+  - "Skeleton: contemporary peeling atrium/partial hand mirror; painter: rich modern gallery/mirror/ladder."
+  - "Carrier: portable crescent-chair room in optical frame, curved walkways; queen: suspended wax gown/five floor candles, corrected mirror."
+  - "Exact files/hashes/prompts/QA/limits in current checkpoint; all strong prior versions retained."
+  - "These four await owner visual review; no print/factory work."
