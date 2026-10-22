@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: SKELETON_MODERN_LOBBY_SIMPLE_DEPTH_V26_DELIVERED
+status: SKELETON_THREE_MODERN_BALCONIES_V27_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V26 modern upper lobby and simplified lower depth delivered: sculptural seats/loop table/offset portals above; broad folded ribbons and large portals below."
+milestone: "V27 three modern balcony levels delivered on inner shaft, followed by one simple outlined window; missing third guardrail corrected."
 blocker: null
-owner_gate: "Owner visual response to V26 targeted background edits; other finals remain closed."
+owner_gate: "Owner visual response to V27; other illustration finals remain closed."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve V26 skeleton and other scene finals; only explicit owner corrections/proven blockers."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_MODERN_LOBBY_SIMPLE_DEPTH_V26.md"
+next_safe_task: "Preserve V27 skeleton and other finals; only explicit owner corrections/proven blockers."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_THREE_MODERN_BALCONIES_V27.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Actual V26 reviewed: modern lobby; small bottom clutter replaced with broad portal/ribbon depth; character, reflection, web sole and curling floor visually retained."
+closing_pass_qa: "Actual final counted: three completed balcony guardrails, one plain lower window. Modern lobby, skeleton, reflected skull and web sole retained."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -182,3 +182,7 @@ skeleton_optical_lobby_v25:
 skeleton_modern_lobby_simple_depth_v26:
   - "Owner authorized modern upper lobby and reduced bottom detail only. Other finals untouched; V25 preserved."
   - "Latest exec-ab2117ef-6248-4ae7-a504-872724b7f82e.png SHA256 25e6176625af1943d3b114a29f256e4864cfb199ac48341c45c21b2dbce80dba."
+
+skeleton_three_modern_balconies_v27:
+  - "Three completed modern balcony levels, then plain window. First attempt missing third guardrail retained; corrected final inspected."
+  - "Final exec-56f4eb89-89af-4d40-9e56-fce897ebce20.png SHA256 c0e391db3a3f7d2338f59d72c2accd7483e6dbf0337e97cb49bc3583f33a407a."
