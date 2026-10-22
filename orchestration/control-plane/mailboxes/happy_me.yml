@@ -1,13 +1,13 @@
 lane: happy_me
 title: "Happy Me 24/7"
-updated: 2026-10-21
-status: FOUR_FIX_INTEGRATED__LOCAL_ANDROID_PASS__EXTERNAL_GATES_REMAIN
+updated: 2026-10-22
+status: XIAOMI14T_LAUNCH_PASS__VISUAL_RECHECK_INCOMPLETE__EXTERNAL_GATES_REMAIN
 branch_or_repo_state:
   repository: riseshineevolve-source/riseshineevolve
   branch: codex/happy-me-production-hardening
-  branch_head: b16e9c79027ee4587a08b096403726aadf01fd59
-  validated_application_source_head: bba40e6ab49933027ace686eab3ad1b650d785d1
-  application_source_ci: "Mobile quality #314 / run 39567799896 / FAILURE_BEFORE_ANY_JOB_STEPS; local source and Android verification PASS"
+  branch_head: 68739ef131f1c86952cf55e3da6244237883defd
+  validated_application_source_head: 68739ef131f1c86952cf55e3da6244237883defd
+  application_source_ci: "Prior #314 / run 39567799896 failed before any job steps; fix commit 68739ef locally web-built, Android assembleDebug and bundleRelease PASS; hosted workflow not rerun"
   latest_release_infra_ci: "Mobile quality #313 / run 39457157580 / PASS"
   writer: this_dedicated_happy_me_lane
 milestone:
@@ -90,6 +90,7 @@ dependencies_needed:
     need: upload key / Play App Signing credentials remain outside Git
 reusable_outputs:
   - "release/HAPPY_ME_PHONE_TEST_OWNER_HANDOFF_20261021_PL.md"
+  - "release/HAPPY_ME_XIAOMI14T_DEVICE_QA_20261022.md"
   - "HAPPY_ME_4FIX_INTEGRATION_2026-10-21.md"
   - "release/happy-me-4fix-build-20261021.json"
   - "HAPPY_ME_RELEASE_CHECKPOINT_311.md"
@@ -97,7 +98,7 @@ reusable_outputs:
   - "HAPPY_ME_PLAY_LISTING_OWNER_REVIEW_V2.md"
   - "release/happy-me-branding/store/candidates/"
   - "release/happy-me-privacy/HAPPY_ME_PUBLIC_PRIVACY_SUPPORT_DEPLOYMENT_PACKET.md"
-next_safe_task: progress genuine Auth/email/device/signing/privacy gates; inspect hosted CI startup cause only when accessible; no repeated green checks or speculative source edits
+next_safe_task: owner to foreground updated app on Xiaomi for visual recheck; enable USB debugging (Security settings) only if automated touch control is desired; then continue genuine Auth/email/signing/privacy gates; no speculative edits
 checkpoint_reference: HAPPY_ME_4FIX_INTEGRATION_2026-10-21.md
 
 model_policy_ack: rse-weekly-usage-2026-10-21-v1
@@ -116,9 +117,24 @@ resource_policy_ack:
   new_cloud_workflows_started_this_followup: 0
   billing_changes: none
 external_gate_refresh:
-  backend: ACTIVE_HEALTHY_fresh_project_read_2026_10_21
-  android_phone: NONE_ADB_DEVICE_LIST_EMPTY
-  emulator: NONE_CONFIGURED_NO_AVD_OR_SYSTEM_IMAGE
+  backend: ACTIVE_HEALTHY_last_fresh_project_read_2026_10_21
+  android_phone: XIAOMI_14T_ANDROID_14_CONNECTED__ADB_READ_SCREEN_PASS__SHELL_TOUCH_BLOCKED_BY_DEVICE_SECURITY
+  emulators: TWO_ADB_EMULATORS_VISIBLE__NOT_USED_FOR_THIS_DEVICE_QA
   auth_dashboard: no_configuration_read_tool_exposed
   auth_email_and_native_proof: NOT_RUN
   phone_packet: release/HAPPY_ME_PHONE_TEST_OWNER_HANDOFF_20261021_PL.md
+
+device_qa_2026_10_22:
+  install_launch: PASS
+  initial_login_view: VISUALLY_CAPTURED__PRIVACY_NOTICE_DISMISSED_BY_OWNER
+  reproduced_defect: literal_escaped_newlines_in_root_index_html_rendered_at_top_left
+  source_fix_commit: 68739ef131f1c86952cf55e3da6244237883defd
+  post_fix_web_build_android_assembleDebug_bundleRelease: PASS
+  packaged_apk_index_check: PASS__NO_LITERAL_BACKSLASH_N
+  updated_install: PASS__ADB_INSTALL_R__APP_DATA_PRESERVED
+  post_fix_visual_recheck: INCOMPLETE__BLACK_SCREEN_CAPTURE_WHILE_MAINACTIVITY_RESUMED
+  crashes: NONE_OBSERVED_IN_FILTERED_LOGS
+  updated_apk_sha256: 26a340c2d6a4baf988a441c4175c1fcdc47c25df3a964789ce1912ccb43c7b68
+  updated_unsigned_aab_sha256: a62de5d0d44f3ba6cd738d898d35d8c8c0d4c0e13d3e7f52f23f80f513f8af92
+  artifacts_path: C:/Users/danie/Releases/happy-me-device-qa-20261022/
+  checkpoint: release/HAPPY_ME_XIAOMI14T_DEVICE_QA_20261022.md
