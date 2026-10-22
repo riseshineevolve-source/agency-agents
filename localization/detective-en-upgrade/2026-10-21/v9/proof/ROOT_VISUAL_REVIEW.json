@@ -1,0 +1,10 @@
+{
+  "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "book_pdf_sha256": "48c91d7a578cb340018d20fd1656a31e140d41114d50667c254718b169f2f64a",
+  "standalone_pdf_sha256": "05cd3424f2d9f2fc36b59f31f130a5e8c8a221abf459591b2b2978fa85eaa4bf",
+  "status": "PASS",
+  "actual_scope": "Rootvisuallyinspectedall8freshPopplercontactscovering35changedbook+34standalonefolios. Rootfullsizeimagesbook73andstandalone9alsoinspected. No69pagefullsizereadclaimed.",
+  "render_binding": "POPPLER_RENDER_RECEIPT.json",
+  "findings": [],
+  "production_print": "NOT_RUN"
+}

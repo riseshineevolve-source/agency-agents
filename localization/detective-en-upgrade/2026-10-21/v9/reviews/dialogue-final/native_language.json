@@ -1,0 +1,288 @@
+{
+  "reviewer": "Actual independent agent /root/hm9_dialogue_humor",
+  "reviewed_utc": "2026-10-22T10:11:18.566443+00:00",
+  "stage": "native_language",
+  "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "baseline_candidate_sha256": "138fffc57d1d8e6da7ee41f8e4c98eba680c5cb7b9ca2b01f87d8633abd3670e",
+  "status": "PASS",
+  "scope": "Actual final closure: all17changed turns in15scenes checked against preservedR1 wording and exact closure ledger; all34shortHMComms units/183turns reread in final clean manuscript to check their full exchanges and recurring jokes. This is not a new225folio whole-book read or a re-solve of unchanged puzzles. Native English/read-aloud/comic premise and payoff assessed; no native-speaker or professional identity claimed.",
+  "actual_delta_check": "All and only the17ledgerturns differ between preservedR1 and final scene files; speaker/turn order remains34scenes/183turns.",
+  "reader_manuscript_sha256": "149bf6fedac374a5bb9fb1403ba3b1b99127b307a1869eddf2e4a996b45131ff",
+  "scene_file_sha256": "c4b1f3d2f9e89cfd8254c771af1f3acde68b54753b8f842ae94ade100af64d97",
+  "canonical_source_file_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "findings": [
+    {
+      "finding_id": "NATIVE-R1-01",
+      "scene_id": "CASE14",
+      "turn": 6,
+      "status": "RESOLVED",
+      "actual_final_text": "Not one on cooking. Next time you can check my lunch before we leave. You've become very thorough since the cake investigation.",
+      "closure_evidence": "Answers the recipe question directly; the self-promised cake callback gives Alio a fair return tease."
+    },
+    {
+      "finding_id": "NATIVE-R1-02",
+      "scene_id": "CASE21",
+      "turn": 2,
+      "status": "RESOLVED",
+      "actual_final_text": "I was going to reach for it again. I'll suggest first. Better for the paper, slightly harder on my patience.",
+      "closure_evidence": "Reach for it again explicitly acknowledges the earlier tear; suggesting first keeps Dilo useful and the tone gentle."
+    },
+    {
+      "finding_id": "NATIVE-R1-03",
+      "scene_id": "CASE06",
+      "turn": 4,
+      "status": "RESOLVED",
+      "actual_final_text": "That explains the spoon. My history book's missing the chapter about Roman dragon chefs, though.",
+      "closure_evidence": "History-book chapter now supplies a shared comic premise for fictional Roman dragon chefs, with no unsupported geographical commute."
+    },
+    {
+      "finding_id": "NATIVE-R1-04",
+      "scene_id": "CASE06",
+      "turn": 8,
+      "status": "RESOLVED",
+      "actual_final_text": "Good. Leave me room to object. You take the room record, Detective; we'll keep the imaginary dragon out of your way.",
+      "closure_evidence": "Reader takes the existing room record; no spoon-inspection side task is introduced."
+    },
+    {
+      "finding_id": "NATIVE-R1-05",
+      "scene_id": "CASE23",
+      "turn": 2,
+      "status": "RESOLVED",
+      "actual_final_text": "It displayed a number.",
+      "closure_evidence": "Number -> In a tone restored without explanation between setup and cap."
+    },
+    {
+      "finding_id": "NATIVE-R1-06",
+      "scene_id": "CASE05",
+      "turn": 6,
+      "status": "RESOLVED",
+      "actual_final_text": "Absolutely not. Conflict of interest.",
+      "closure_evidence": "Original short conflict-of-interest cap restored after the fuller dialogue; no explanatory tail."
+    },
+    {
+      "finding_id": "NATIVE-R1-07",
+      "scene_id": "CASE08",
+      "turn": 5,
+      "status": "RESOLVED",
+      "actual_final_text": "I'll hold the map. Please don't negotiate with any load-bearing walls. I'm not holding up the roof while you explain your route.",
+      "closure_evidence": "Roof reference gives Dilo a physical stake while keeping the load-bearing meaning understandable, without glossary exposition."
+    }
+  ],
+  "unresolved_findings": [],
+  "source_ambiguities": [],
+  "coverage": [
+    {
+      "scene_id": "INTRO07",
+      "turns_read": 3,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE01",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE02",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE03",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE04",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE05",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "THREAD34",
+      "turns_read": 4,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE06",
+      "turns_read": 8,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE07",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE08",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE09",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE10",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE11",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE12",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE13",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE14",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE15",
+      "turns_read": 4,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE16",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE17",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE18",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE19",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE20",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE21",
+      "turns_read": 7,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE22",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE23",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE24",
+      "turns_read": 6,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE25",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "THREAD120",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE26",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE27",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE28",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE29",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    },
+    {
+      "scene_id": "CASE30",
+      "turns_read": 5,
+      "status": "KEEP",
+      "final_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+    }
+  ],
+  "final_assessment": {
+    "language": "Natural, intelligible English dialogue; clear turn responses. Longer turns now have intention and setup rather than only adding captions. Selected miniature caps remain short.",
+    "humor": "Original minivan/zeroevidence, professionalstaring, emotionpreparedspoon, cable, locker and hatkernels coexist with goodV7InspectorGlitter/cake/fox/booklunch/cardboard/WiFi/familyalbum/adulthumility additions. Comic devices remain varied enough for this bounded edition.",
+    "case21": "Quiet supportive repair remains. Dilo suggests before reaching, Luli invites him to check, Bibi retains uncertainty, reader shares the task.",
+    "teasing": "Sharper lines are reciprocated, with adults also teased and Alio given retorts and useful ideas.",
+    "reader": "Specific shared-work invitations and final trust support belonging without every scene ending in a generic motivational slogan.",
+    "revision_limit": "Earlier explicitlynonblocking polish notes remain editorial preferences, not unresolved material defects. No further serial taste-driven rewrite requested.",
+    "production_or_sales": "Text PASS only. No print-layout, physical proof or bestseller guarantee."
+  }
+}

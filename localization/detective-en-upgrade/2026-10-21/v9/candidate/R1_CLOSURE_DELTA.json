@@ -1,0 +1,121 @@
+[
+  {
+    "scene": "CASE01",
+    "turn": 3,
+    "before": "A tunnel, a minivan, and zero evidence. Impressive start, Alio. You've arranged the transport before finding anything to investigate.",
+    "after": "A tunnel, a minivan, and zero evidence. Impressive start, Alio.",
+    "reason": "Retain original sharp short kernel without claimingnoexistingcase."
+  },
+  {
+    "scene": "CASE05",
+    "turn": 6,
+    "before": "Absolutely not. Conflict of interest. I can't give my own locker a prize. We'd never hear the end of it.",
+    "after": "Absolutely not. Conflict of interest.",
+    "reason": "Restore original shortcap; no jokeexplanation."
+  },
+  {
+    "scene": "CASE06",
+    "turn": 4,
+    "before": "That explains the spoon. Slight problem with the Romans. Unless we're about to discover a dragon with a very long commute.",
+    "after": "That explains the spoon. My history book's missing the chapter about Roman dragon chefs, though.",
+    "reason": "Coherent Roman/dragon history fantasy and correctdelegation toplayableroomrecord."
+  },
+  {
+    "scene": "CASE06",
+    "turn": 8,
+    "before": "Good. Leave me room to object. You check the actual spoon, Detective; we'll keep the imaginary dragon out of your way.",
+    "after": "Good. Leave me room to object. You take the room record, Detective; we'll keep the imaginary dragon out of your way.",
+    "reason": "Coherent Roman/dragon history fantasy and correctdelegation toplayableroomrecord."
+  },
+  {
+    "scene": "CASE08",
+    "turn": 5,
+    "before": "I'll hold the map. Please don't negotiate with any load-bearing walls. Those are the ones holding the building up, and I'd like them to keep doing that.",
+    "after": "I'll hold the map. Please don't negotiate with any load-bearing walls. I'm not holding up the roof while you explain your route.",
+    "reason": "Integrateload-bearingstakes inphysicalfamilybanter, notdictionaryaside."
+  },
+  {
+    "scene": "CASE11",
+    "turn": 1,
+    "before": "Your phone has been living beside the oat bar. I've found it, but I think they were getting quite close.",
+    "after": "Your phone has been living beside the oat bar. I think they were getting quite close.",
+    "reason": "Phone alreadyfound byMimi inlockedstory; no newNinidiscovery."
+  },
+  {
+    "scene": "CASE14",
+    "turn": 6,
+    "before": "Not a crumb. Not one on cooking, either. Let's check this journey before we blame anyone. Alio can inspect my lunch next time; he clearly has standards.",
+    "after": "Not one on cooking. Next time you can check my lunch before we leave. You've become very thorough since the cake investigation.",
+    "reason": "Actualreplytorecipequestion, callbackselfpromisedcake."
+  },
+  {
+    "scene": "CASE15",
+    "turn": 2,
+    "before": "I was going to suggest satellite tracking. A small dot on a screen for each of us. Possibly a theme tune.",
+    "after": "I was going to suggest satellite tracking. A small dot on a screen for each bag. Possibly a theme tune.",
+    "reason": "Futuretrackingforbagstargetstheproblem."
+  },
+  {
+    "scene": "CASE21",
+    "turn": 2,
+    "before": "I was going to reach. I've upgraded to suggesting. Better for the paper, slightly harder on my patience.",
+    "after": "I was going to reach for it again. I'll suggest first. Better for the paper, slightly harder on my patience.",
+    "reason": "Reachagain acknowledgesprioraccidentwhileDilochoosesusefulcarefulwork."
+  },
+  {
+    "scene": "CASE22",
+    "turn": 5,
+    "before": "I'll check the shelves. I'm not explaining three freshly renamed instruments to their teacher. And if anyone suggests a bedtime story, Alio's reading it.",
+    "after": "I'll check the shelves. I'm not explaining three freshly renamed instruments to their teacher.",
+    "reason": "Removebedtimestorytagwhosepremiseisnotpresent."
+  },
+  {
+    "scene": "CASE23",
+    "turn": 2,
+    "before": "It displayed a number. You supplied the personal insult.",
+    "after": "It displayed a number.",
+    "reason": "Restoreprecisenumber→Inatone comicantecedent."
+  },
+  {
+    "scene": "CASE01",
+    "turn": 5,
+    "before": "Good. It was blocking mine. If a tunnel turns up later, we'll apologise to the minivan. Until then, it stays in the margin.",
+    "after": "Good. It was blocking mine. If a tunnel turns up later, we'll apologize to the minivan. Until then, it stays in the margin.",
+    "reason": "ConsistentAmerican spelling innewComms only; protectedV8 untouched."
+  },
+  {
+    "scene": "CASE03",
+    "turn": 4,
+    "before": "Should I be worried about my job? I can stand by a shelf looking important. I've practised.",
+    "after": "Should I be worried about my job? I can stand by a shelf looking important. I've practiced.",
+    "reason": "ConsistentAmerican spelling innewComms only; protectedV8 untouched."
+  },
+  {
+    "scene": "CASE20",
+    "turn": 1,
+    "before": "This panel looks like a very worried pear. I think it's realised we've brought notebooks.",
+    "after": "This panel looks like a very worried pear. I think it's realized we've brought notebooks.",
+    "reason": "ConsistentAmerican spelling innewComms only; protectedV8 untouched."
+  },
+  {
+    "scene": "CASE24",
+    "turn": 6,
+    "before": "Footprints first. My good behaviour can wait for the family album. Put it next to Mum finding her phone; I'd like this album to be fair.",
+    "after": "Footprints first. My good behavior can wait for the family album. Put it next to Mom finding her phone; I'd like this album to be fair.",
+    "reason": "ConsistentAmerican spelling innewComms only; protectedV8 untouched."
+  },
+  {
+    "scene": "CASE26",
+    "turn": 3,
+    "before": "Already my favourite witness. No interruptions, no dramatic entrances, and no equipment requests.",
+    "after": "Already my favorite witness. No interruptions, no dramatic entrances, and no equipment requests.",
+    "reason": "ConsistentAmerican spelling innewComms only; protectedV8 untouched."
+  },
+  {
+    "scene": "CASE27",
+    "turn": 1,
+    "before": "Clean hands. Flat map. No heroic folding. This plan is older than all your favourite excuses.",
+    "after": "Clean hands. Flat map. No heroic folding. This plan is older than all your favorite excuses.",
+    "reason": "ConsistentAmerican spelling innewComms only; protectedV8 untouched."
+  }
+]

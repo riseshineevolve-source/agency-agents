@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "page007.block05",
+    "page": 7,
+    "before": "MIMI: I've got a plan! ...actually, wait, where's my phone?\nLULI: Facts first. Opinions later. Snacks somewhere in between.\nDILO: If it beeps, I can probably make it beep again.",
+    "after": "MIMI: I've got a plan. Three clear steps, one shared folder... and a phone I appear to have filed somewhere exceptionally secure.\nLULI: Please tell me the plan isn't on the phone. I've brought an emergency book, but it doesn't cover this.\nDILO: I can help make it beep. If it's in your hand again, though, I'm counting that as my quickest solve.",
+    "before_sha256": "e4a9b2f13de9c525ecab9b81366dbe47000b33db710560d3bee19fedccd3c672",
+    "target_sha256": "a9d54bceb692128bde1621c26b99627ec59576e7ce8c66744093ee21bf99208d"
+  },
+  {
+    "id": "page012.block03",
+    "page": 12,
+    "before": "DILO: I can fit all my theories on that wall.\nLULI: And the evidence?\nALIO: We could put in a small shelf.\nNINI: For the theories? Mine needs a cushion.\nBIBI: Give it a question mark. I want to know which things we haven't proved.\nMIMI: No cushions on the Case Wall. We are already one theory away from needing a bigger building.",
+    "after": "DILO: I can fit all my theories on that wall. I may have to write small around the really important ones.\nLULI: And the evidence? Or is that going to have to book an appointment?\nALIO: We could put in a small shelf. Then the theories would look established, even the ones we made up five minutes ago.\nNINI: For the theories? Mine needs a cushion. It's been standing around waiting for a fact.\nBIBI: A question mark would be more useful. Then I can tell which ideas still need checking when I come back with the next file.\nMIMI: No cushions on the Case Wall. Detective, bring your notes over here. This family has plenty of imagination; let's leave some room for what we can actually prove.",
+    "before_sha256": "0e16a6c619774fb9f9ee87efc06fcfc9f9b8ee87a048c47edc74c82c8b69f761",
+    "target_sha256": "dbe937adf4a8119fbd956e70fa16a8d124a0afc375b8b6d664e75522358ebfe2"
+  },
+  {
+    "id": "page016.block04",
+    "page": 16,
+    "before": "MIMI: Internal stock. No courier. Let's find who was at Delivery.\nALIO: My theory has a secret tunnel and a minivan.\nLULI: Does it have any evidence?\nNINI: Not yet. I've drawn it a question mark to park beside.\nDILO: Good. The minivan was blocking my notes.",
+    "after": "MIMI: Internal stock. No courier. Good. We can check who was at Delivery without inventing anyone new.\nALIO: Or we investigate my leading theory: a secret tunnel and a minivan. Very efficient. Very suspicious. I haven't decided who drives.\nLULI: A tunnel, a minivan, and zero evidence. Impressive start, Alio.\nNINI: Let's park the minivan for a minute and follow the facts first. Detective, there's room for your notes here.\nDILO: Good. It was blocking mine. If a tunnel turns up later, we'll apologize to the minivan. Until then, it stays in the margin.",
+    "before_sha256": "0a0c492ccb7fba940c15c722d818271db1c1bae896ed6edb208c7889a9a834c7",
+    "target_sha256": "ff5bbb26d7839ab563105b0e1addfbe1bc31d5e519f84ab9d66c73d0e2cb4721"
+  },
+  {
+    "id": "page019.block23",
+    "page": 19,
+    "before": "The Cup has\nreturned itself\nwith suspiciously\n",
+    "after": "The Cup has returned itself with suspiciously good posture. Look at it. You'd think ",
+    "before_sha256": "c831780bd62f8a3765d72f46edd62296b1ccf0a4c603d97ebc4780d023737b7f",
+    "target_sha256": "1c9886721d41ee004c546269a34494a343910ca36e21457b2f71d20ce5f64806"
+  },
+  {
+    "id": "page019.block24",
+    "page": 19,
+    "before": "good posture.\n",
+    "after": "it had never left.\n",
+    "before_sha256": "91c4d1e88374eec23000a1cece817fb470a2171f1897288f79165874ddd55dfb",
+    "target_sha256": "daf3f3de7c26495e3e52bf16e58682bb76481f6bf0e8869195a2dbc416a1485c"
+  },
+  {
+    "id": "page019.block26",
+    "page": 19,
+    "before": "The Cup is not\n",
+    "after": "It was signed out, Alio. That's allowed. Being polished afterwards is rather grand, but ",
+    "before_sha256": "8dd39c4ea68c119a3759c3e674ded3b59bf87c912976062c325f306d2a0c16be",
+    "target_sha256": "d805dd501bd6754e3de6b1b6fdfa2dee9e5c2b90a45657423c218c49eb1b7a8e"
+  },
+  {
+    "id": "page019.block27",
+    "page": 19,
+    "before": "suspicious.\n",
+    "after": "still not a crime.\n",
+    "before_sha256": "e805088e04438002fe93652ffb835800ef4c40d19bb725189a383ecf0b96faa6",
+    "target_sha256": "334dbd8d9e366cae4f16e04580fccdaeefbfb9a13a0f8cbafe18066542e78ac7"
+  },
+  {
+    "id": "page019.block29",
+    "page": 19,
+    "before": "Its paperwork is.\n",
+    "after": "Then I withdraw my complaint about the Cup. Its paperwork, however, is doing an excellent impression of a blank page.\n",
+    "before_sha256": "329e5965784b64cc6896e7d45bae69197a7cf9df496e55b273b0360ae39deb8e",
+    "target_sha256": "2762dadf4043ac52664e5c8b8f20b35473f6a5793d6afd730d999049f1e99ece"
+  },
+  {
+    "id": "page019.block31",
+    "page": 19,
+    "before": "Can its excellent posture tell us ",
+    "after": "Better. We need someone who can help explain the missing handoff, not a confession from ",
+    "before_sha256": "94d1d0aff41c06685664d12bcf0257e53d2b6d4d0c58df73473f2f092c002e52",
+    "target_sha256": "80371ca6d6099858b7593eff4fb0014934bc867ed32b44f1c58dd4d594d879df"
+  },
+  {
+    "id": "page019.block32",
+    "page": 19,
+    "before": "who brought it ",
+    "after": "a trophy. I'll put the return sheet ",
+    "before_sha256": "25161350e2a8adaa528658bc74a6cb088e880c89334723c45706c497212cf32d",
+    "target_sha256": "f555562839f22ca371fde697f3979fe75a6b9caf525df22705594da93ded3fdd"
+  },
+  {
+    "id": "page019.block33",
+    "page": 19,
+    "before": "back?\n",
+    "after": "beside your map.\n",
+    "before_sha256": "f7fd6df7af5d149905c4f0d4c65e25cacf15cf8ae82b291ae081972d7494481d",
+    "target_sha256": "dc05223206c93fa86e97bb1bdfac01fc7ca329ff45f3cd7df3ad48e19faed6a7"
+  },
+  {
+    "id": "page019.block35",
+    "page": 19,
+    "before": "You take the map, ",
+    "after": "That may be Alio's fastest promotion from theory ",
+    "before_sha256": "801591c955b7b6b76f2328f6d37a1f5169e86006d525ae845587f86e845df2d7",
+    "target_sha256": "9bfa7296dcfa137879f19e9681e33b7680b2b92100b146f74e1d8bfd2616a1a9"
+  },
+  {
+    "id": "page019.block36",
+    "page": 19,
+    "before": "Detective. I'll watch the extremely well-behaved ",
+    "after": "to useful question. You take the map, Detective. I'll watch the extremely ",
+    "before_sha256": "4dcca9aeb02d36b76449aa78536a33b4422bd2a09503c8787bc59001f448fa60",
+    "target_sha256": "bb7896cee54289065660bb8e9effcd6521fa17c29e03010e073383f4dc1634e3"
+  },
+  {
+    "id": "page019.block37",
+    "page": 19,
+    "before": "Cup.\n",
+    "after": "well-behaved Cup.\n",
+    "before_sha256": "58591671d38a762052b1549e969738b3e065829394ab7cb523afc723ab142be7",
+    "target_sha256": "e8734b08faa13c628586a2317c3984d8f055bd761c99378d917267e7c1ce9616"
+  },
+  {
+    "id": "page023.block05",
+    "page": 23,
+    "before": "I have found a sparkle. I am calling it Inspector Glitter.\n",
+    "after": "The trophy shelf is trying very hard to look important. I've appointed its brightest sparkle Inspector Glitter.\n",
+    "before_sha256": "ff6cd34d45f80c7ca469a2939f854dc8cbc74fa52e796e54b1a8b3efc213a2d4",
+    "target_sha256": "f511a6b38eaddd7a7f838bc1473e2daa1324858d637a478d5317e4155b36a33f"
+  },
+  {
+    "id": "page023.block07",
+    "page": 23,
+    "before": "Has Inspector Glitter actually found a difference?\n",
+    "after": "Has Inspector Glitter found a difference between the photographs, or has it mainly been admiring its own reflection?\n",
+    "before_sha256": "7c795a695afbd55aba48624099cb79268ee4018a9065f59be7675e7d4e581522",
+    "target_sha256": "47fe0026d5ca5fcc883281de24a1e6c122c247ed9f3ab873b2ac0933efbc9eed"
+  },
+  {
+    "id": "page023.block09",
+    "page": 23,
+    "before": "Not yet. Mostly sparkling.\n",
+    "after": "Mostly admiring. A difficult first case. I'll compare the pictures while it recovers from not being in charge.\n",
+    "before_sha256": "e28d324c86ff4065c812802d3894093e0eed1db3e73f3afe9fa65696f6cb019a",
+    "target_sha256": "367302e3fb0968c487e5a402430a7d646bb5bd549ff801bd3cefb9994cc7a9b1"
+  },
+  {
+    "id": "page023.block11",
+    "page": 23,
+    "before": "Should I be worried about my job?\n",
+    "after": "Should I be worried about my job? I can stand by a shelf looking important. I've practiced.\n",
+    "before_sha256": "35a2066edbc559a305d4e1745e42e79f528df1e2ead9dce5d247ddc9fefc2b4c",
+    "target_sha256": "821f5f1a05eab3169ffbfdbf3dcfb47a25693b43b77e826809cf1fd121580abe"
+  },
+  {
+    "id": "page023.block13",
+    "page": 23,
+    "before": "Only if you start shedding glitter. Pass me Photo B.\n",
+    "after": "Only if you start shedding glitter. Pass me Photo B, please. Let's give the whole room a proper look before the shelf gets any more attention.\n",
+    "before_sha256": "b7bdb43f2defcacdf57bff70f58548d9a9c8e3f110824f193a830aa5ae21d638",
+    "target_sha256": "10537585fc95fee03d8a4331ae2cffc1e652554f186e8cbe3cb9290db9e98310"
+  },
+  {
+    "id": "page027.block19",
+    "page": 27,
+    "before": "I'm watching the box for ",
+    "after": "That is a very suspicious black box. It's arrived at the wrong ",
+    "before_sha256": "b47834c58eab73bfd17ef1f0938f9c2a763d77dbdc54f2c816646916370ea4de",
+    "target_sha256": "c2d7776744562fb05453e9641c421f05aa9f63e78f2b36910b4bba023389416d"
+  },
+  {
+    "id": "page027.block20",
+    "page": 27,
+    "before": "suspicious movements.\n",
+    "after": "tent without looking remotely sorry.\n",
+    "before_sha256": "eeb769a49477ac5173605de5cefb9e3da5af1d7e4ed1b81ba8da4f8e87aed64c",
+    "target_sha256": "76bc5e0ee701b9d2f4be128617b182143f69f518b7975cde1b3eab29e4cd5c70"
+  },
+  {
+    "id": "page027.block22",
+    "page": 27,
+    "before": "It's an evidence box, Dilo.\n",
+    "after": "It's a labeled evidence box. The seal is intact. Let's save the interrogation voice for somebody who can answer.\n",
+    "before_sha256": "4ae08a3b060ca89b4a09652dcac43f2e35d12b6a45a7df59312f75de16773e84",
+    "target_sha256": "8b0bfb36d9334157c1cdfabf87b5272c0174ac3e0e452c2997887d486ec4c70c"
+  },
+  {
+    "id": "page027.block24",
+    "page": 27,
+    "before": "And so far, ",
+    "after": "Exactly. Suspicion with paperwork. You have ",
+    "before_sha256": "07065250b010dbe97521f354eaf93db03975cd2b44fc10ae9b2f01b0476f37cf",
+    "target_sha256": "8dcd656e8f395f7c4c0a0ba34a786c23a3e75c48db09ddac3389d4fb769902db"
+  },
+  {
+    "id": "page027.block25",
+    "page": 27,
+    "before": "very convincing.\n",
+    "after": "to admire the preparation.\n",
+    "before_sha256": "9a8472359b47b90546afdc05b7ec5050f9c82e2a397dbd0e954f4ef314edc9ae",
+    "target_sha256": "f73fe1cd9a33b027dabafd15b99a57b33cd09fa68710a70cae488058d975a474"
+  },
+  {
+    "id": "page027.block27",
+    "page": 27,
+    "before": "If it moves, we can all be ",
+    "after": "Please don't interrogate the box before the people. Who ",
+    "before_sha256": "1ed18c34b34a209562ab29b6f7fba6b5f88498717d19743a2a535de8e9305c27",
+    "target_sha256": "161031b82bb354dba9dcc988cef69b015d1924b2026e5416e3bcf7ad80dc5802"
+  },
+  {
+    "id": "page027.block28",
+    "page": 27,
+    "before": "impressed. First, who was with ",
+    "after": "was with Pixel? That's someone we can ",
+    "before_sha256": "42087cc42b9a893e04abe6217440c027336d5bc70476ac816b99c69d3570e713",
+    "target_sha256": "5ca587fc6c134bc24d955b5468219eeaffc4a6990b5689d3b38fd0053bb59bca"
+  },
+  {
+    "id": "page027.block29",
+    "page": 27,
+    "before": "Pixel?\n",
+    "after": "actually ask.\n",
+    "before_sha256": "4da735f187de4b834317a2de5c397c7ac1af6b68b3ea4dfdaebbc2c3238fcbfa",
+    "target_sha256": "ee36e3645c1be2363bdeb265c5cc3080d2e71e5f669c2ac00647da2f61fa83f6"
+  },
+  {
+    "id": "page027.block31",
+    "page": 27,
+    "before": "I can make it ",
+    "after": "May I stare at the box professionally while we find out? ",
+    "before_sha256": "3edf3a8c82143f2aafd5b22a06a7b4e95b2ab79a85487a6fce9b6e683b4065a9",
+    "target_sha256": "73626874933f7e27f62067fbd1924517757d0ac99bb43232bc6984b0e7cb97c6"
+  },
+  {
+    "id": "page027.block32",
+    "page": 27,
+    "before": "blink first.\n",
+    "after": "I think it's avoiding eye contact.\n",
+    "before_sha256": "144fde6d759c85b46e8339832b8b1bc58a89edef5d5aceff4465c79edcde2c72",
+    "target_sha256": "c972a17c89b1ecf28f0ba1aca81729f09d9f6ee43cd9fb30c7af84f4cc66e447"
+  },
+  {
+    "id": "page027.block34",
+    "page": 27,
+    "before": "If you manage that, I'm giving the box ",
+    "after": "You've been doing that for a full minute. If it blinks first, it ",
+    "before_sha256": "a297812a3bcbe3d6e94a551ed7d0c60f6e521dc7ede541206d5eaf7ff3ebf736",
+    "target_sha256": "4c99d8c0d334cffd534cb0e081d3e6564d6665b59b70f9d6cd3fd451e0752bd5"
+  },
+  {
+    "id": "page027.block35",
+    "page": 27,
+    "before": "your helmet.\n",
+    "after": "can wear your helmet.\n",
+    "before_sha256": "7f33f2d353ceda937f2c2fe1c5a45aa9a1e54044b61ae5fb5d640f4d5fa88cc6",
+    "target_sha256": "ab39fc86edda1a95a8fa0cad1600f07a622503ba371bd365b6980d66034888ac"
+  },
+  {
+    "id": "page031.block05",
+    "page": 31,
+    "before": "I challenge you to beat my locker.\n",
+    "after": "I challenge you to beat my locker. I've given it a very stern talk about not embarrassing me.\n",
+    "before_sha256": "e3800fbd4230fcbddae9c6ed6fa8a13c07cc4a17de2195918f1276e2f5778474",
+    "target_sha256": "71443a1e30898524398067556658997e4f36ad3f659171b08b0c63bcce5044dd"
+  },
+  {
+    "id": "page031.block07",
+    "page": 31,
+    "before": "Does it know this is a competition?\n",
+    "after": "Does it know this is a competition? Or have you challenged a door without telling the door?\n",
+    "before_sha256": "9814d8eda22b1b3817a328636e28b3079f30d4125d942d09c0a54b82f24faac5",
+    "target_sha256": "be8a328fe037b3bc6bcb289fe5888f0a5a2cf80653ec2f55b76813510357cf6a"
+  },
+  {
+    "id": "page031.block09",
+    "page": 31,
+    "before": "It has been briefed.\n",
+    "after": "It has been briefed. Begin when you're ready, Detective. The locker and I have cleared our afternoon.\n",
+    "before_sha256": "c747c3ed308854c2608208d022f1a34872ea0ac07f3c48833c7b5427a8ab8cdd",
+    "target_sha256": "85ce2b960a1baee8e18ee7fc7e746cb5e38730d5e870a430b22a2abf4e4fbec9"
+  },
+  {
+    "id": "page031.block11",
+    "page": 31,
+    "before": "Then we shall read its clues politely.\n",
+    "after": "Then we shall read its clues politely. I'd hate to frighten it into forgetting its own code.\n",
+    "before_sha256": "41572a3cde9a1eb2a5e0be2c0b4617b0ce7c33c1b64a81ee91b9d6dc917b1e51",
+    "target_sha256": "09aa748b0b1165ca0cf6334bb2684f5b4e2ead1f2f902a8f8f201a9ee90e6530"
+  },
+  {
+    "id": "page031.block13",
+    "page": 31,
+    "before": "If the locker wins, does it get a badge?\n",
+    "after": "If the locker wins, does it get a badge? We'd need somewhere to clip it.\n",
+    "before_sha256": "69f86b355641a991534261cf084333ed98e0021270eb72b8cff3a1c26d367b4d",
+    "target_sha256": "c32e3caa73502d0875d11c47909297494a0923d6d5a156d94b0c2c94c5872e9e"
+  },
+  {
+    "id": "page034.block16",
+    "page": 34,
+    "before": "Four marks. One incomplete route. Does this printer ever send anything straightforward?\n",
+    "after": "Four marks. One incomplete route. Does this printer ever send anything straightforward? 'Dear Dilo, here is the answer' would be a refreshing change.\n",
+    "before_sha256": "5289e17e9cd870d77a488bc072a4e5df2f202418905dbbdaf8edbf66af73665b",
+    "target_sha256": "4923c87622ef73c1bd2d323f5c8303de8e04801e47bc3cb15d549fa7a47872fa"
+  },
+  {
+    "id": "page034.block18",
+    "page": 34,
+    "before": "You'd complain if it did.\n",
+    "after": "You'd complain there was nothing to solve. Then you'd check the back in case it had hidden the interesting bit.\n",
+    "before_sha256": "0d944218d75cbc8b4d7ccfa3ecf6c01062356c6b1ddc02881c399eebfe8338dc",
+    "target_sha256": "9dc83ea319088a2b1250c750c6acaa0325b41d3f70af08dd371213968432a912"
+  },
+  {
+    "id": "page035.block06",
+    "page": 35,
+    "before": "Could it send something with a name? I'm running out of things to call ",
+    "after": "Could it at least send something with a name? I've got 'the thing', 'the other thing' and 'the thing we mustn't lose'. My notes ",
+    "before_sha256": "a3d0c539df05e55de8d1fb3d0410b57fb5ff2433b0dd2863203abbfc81489bb5",
+    "target_sha256": "a6b5ea9d2af85d7f3e0f4d23606018b58ec93711c9f6a1c6ad65335f18273eb0"
+  },
+  {
+    "id": "page035.block07",
+    "page": 35,
+    "before": "'the thing'.\n",
+    "after": "are becoming very unhelpful.\n",
+    "before_sha256": "a9469f682c417b371bb4c3a3690ca28c686384b84eb1548daa5cd2240add7819",
+    "target_sha256": "ec2849641d48477431690461643bb4b827ed33272a7ca37e5ecfac88bc38231e"
+  },
+  {
+    "id": "page035.block09",
+    "page": 35,
+    "before": "I'll take these to the archive. If it asks for ",
+    "after": "I'll take these to the archive. Names, dates and something to compare them with. If ",
+    "before_sha256": "712062ba260d049e03bfe0224ce17f1988730309ce40b39ec1055808cf3c67ea",
+    "target_sha256": "86f4ad5b2470f1961b2677ea801ca1207ec7f13cbff4cff559f7da4575c1e8fc"
+  },
+  {
+    "id": "page035.block10",
+    "page": 35,
+    "before": "me, tell it I'm checking its references.\n",
+    "after": "the printer asks for me, tell it I'm checking its references.\n",
+    "before_sha256": "fca54f5ae3e54b1b55ebb375b1b9c115c923b61cb68382ce825a46be97825b18",
+    "target_sha256": "aabef10203fb4bf6c3440b2ea7459c898ae34dfc1e7384a388d36a69d03f3228"
+  },
+  {
+    "id": "page037.block05",
+    "page": 37,
+    "before": "I had plans for ",
+    "after": "I had emotionally prepared for a dragon tooth. There was going to ",
+    "before_sha256": "c03e6334b2a6661a904e7e1f899ba83725aedac430ca06cb6b44eb4c98b634c0",
+    "target_sha256": "9a8951bbfc4197ea3bbdda44a2466ec6bf393599dbe4e25f6f1088057f348334"
+  },
+  {
+    "id": "page037.block06",
+    "page": 37,
+    "before": "that dragon tooth.\n",
+    "after": "be a drawing. Possibly a very impressive warning sign.\n",
+    "before_sha256": "6125a1388242fcbb7f5e48de76ab785aa30aecb4da40a7a312be9ca96c6f3c26",
+    "target_sha256": "9f9cb54676643fb8b1a86f0189b880f4b42c7b9ea87e1ee60d3b08a0b7df6b5e"
+  },
+  {
+    "id": "page037.block08",
+    "page": 37,
+    "before": "So did I. None of them involved stirring soup.\n",
+    "after": "So had I. None of my plans involved stirring soup with a Roman spoon.\n",
+    "before_sha256": "98b791bb18571ecdbeda75db80b965923ae05df9e7d0f9f6f5c0882ca90a7f17",
+    "target_sha256": "1b0c1176d791d071e239b029f45527f9742a6a4b54f31621d572ef7ab1affdb2"
+  },
+  {
+    "id": "page037.block10",
+    "page": 37,
+    "before": "Perhaps the dragon was a ",
+    "after": "Perhaps the dragon was a cook. We haven't checked ",
+    "before_sha256": "0e7a4cf70ace8d058ffb1ea7476b05ff223f1dada4aa16c1295c67d5fb929bd1",
+    "target_sha256": "78dac51fe3797ff6d4bab15ce723001fea5a6b101a923fc44374642bc6d1c512"
+  },
+  {
+    "id": "page037.block11",
+    "page": 37,
+    "before": "cook.\n",
+    "after": "its qualifications.\n",
+    "before_sha256": "b5c78996d745fe98f3ec83c51667d251d1f5e8c268fab263d47fedb4cd149b9e",
+    "target_sha256": "a1009dafa4d0733dd0598193acd16e0c6931e4c77d38e2967c438f4839547fa4"
+  },
+  {
+    "id": "page037.block13",
+    "page": 37,
+    "before": "That explains the spoon. Slight ",
+    "after": "That explains the spoon. My history book's missing ",
+    "before_sha256": "c43a05dfa23fb6dbbf6ba25db761e2232fe027e2327e340e35711c0a42ba56a6",
+    "target_sha256": "ac51ebc412e912be4fe32cbe16d7bd33486e1b00087ba44aabde86945a64de54"
+  },
+  {
+    "id": "page037.block14",
+    "page": 37,
+    "before": "problem with the Romans.\n",
+    "after": "the chapter about Roman dragon chefs, though.\n",
+    "before_sha256": "6bdb6a4ff6f8ab645aa4438ec5048cf71894022102d9a7f36e1bccef50d1b119",
+    "target_sha256": "eb1fc4424381293fef6de5dca74d5cc654c26b94d381da4799d5225e60a64949"
+  },
+  {
+    "id": "page037.block16",
+    "page": 37,
+    "before": "We'll ask about the label ",
+    "after": "We have a label and an object that disagree. ",
+    "before_sha256": "90beb63cc65da406b9f2e529c4475f58c3bb08c0ef126053e8af9e8015eeda05",
+    "target_sha256": "1f044c1d1db6909980a24bfd42f4cc24a095fb8b23ab14c2cd6be0a669ac9086"
+  },
+  {
+    "id": "page037.block17",
+    "page": 37,
+    "before": "before we rewrite ",
+    "after": "Let's ask about that before we ",
+    "before_sha256": "86e81467bd3294bb8f4afac8a77b7af1e54a73d5eceb4769513486896c5f2734",
+    "target_sha256": "9d62d485e80103a9c362148159397d2afbadc357da7d1e032b0c7edb268e8721"
+  },
+  {
+    "id": "page037.block18",
+    "page": 37,
+    "before": "history.\n",
+    "after": "rewrite history.\n",
+    "before_sha256": "2c8e31c9f9d4d0d4a8a2f42d1715eca6afc2c36bdfa7f3d908d0562b2c367bec",
+    "target_sha256": "9d71943798ae10460a962b9ea0555a556588452719c7be8f0c6221df1db9dcf9"
+  },
+  {
+    "id": "page037.block23",
+    "page": 37,
+    "before": "Can we keep the dragon in ",
+    "after": "Can we keep the dragon in the margin? Pencil only. I know ",
+    "before_sha256": "9d83bc7309515e6c1a82198df28f54567a28f6b2d50d5e13440bef3f18c49130",
+    "target_sha256": "4f96f95d6c58db4948c718afb8a37553a4d02782ac04c3c4b0a3e70efa7e95f8"
+  },
+  {
+    "id": "page037.block24",
+    "page": 37,
+    "before": "the margin?\n",
+    "after": "you're going to ask.\n",
+    "before_sha256": "9917a35cc77d77634a99206d75850a1f400a05dd2e2a05defa7f88d1b1dd8ed6",
+    "target_sha256": "4198807b3bb8894fb2b45227388b5144d1f0a97ccfba7378b76738e65624beda"
+  },
+  {
+    "id": "page037.block26",
+    "page": 37,
+    "before": "Pencil only. I'd ",
+    "after": "Good. Leave me room to object. You take ",
+    "before_sha256": "fd99bf4513f228cccab169a5c4da34765b3f61b86947b554553814f77f28925b",
+    "target_sha256": "6ac95dd48b1a8170996c3256cf6578bc51219a0ad2714a687cf1f8667b969f52"
+  },
+  {
+    "id": "page037.block27",
+    "page": 37,
+    "before": "like a chance ",
+    "after": "the room record, Detective; we'll keep the imaginary ",
+    "before_sha256": "c69719f6ca6f9aba8b17d405f6b0afa9ee28381e157c060e37f8175ccded7068",
+    "target_sha256": "f92ff0acc839232fe6b1917b5426b5b22a318c73a889f869a5d8867809fce39f"
+  },
+  {
+    "id": "page037.block28",
+    "page": 37,
+    "before": "to object.\n",
+    "after": "dragon out of your way.\n",
+    "before_sha256": "733358c5b89175592f77692e38049427b8d4be794417582ad4d863b96531fd37",
+    "target_sha256": "66d5b5482a1c1208c39fa93c288ce66d364780efe08554b71b758f920e9f1803"
+  },
+  {
+    "id": "page041.block17",
+    "page": 41,
+    "before": "Alio, how many\n",
+    "after": "Alio, how many cupboards have you checked? ",
+    "before_sha256": "a9ff46514694e669ab6cbe20f72daff18c5d8517e51544bbb3a939a426a2bf73",
+    "target_sha256": "9cd2a5874c27d4ea3a767a061fe0597ec4fd6874c9979ca5facba759ee543862"
+  },
+  {
+    "id": "page041.block18",
+    "page": 41,
+    "before": "cupboards\n",
+    "after": "Please tell me ",
+    "before_sha256": "1d9701facacbcb764a8d82524e802653bd5ced331c40eb209af69ae06149e890",
+    "target_sha256": "030104d8277b9475356f9fe46df8bb8e32ffb1bf8b522f9726b67b62dd8c3d53"
+  },
+  {
+    "id": "page041.block19",
+    "page": 41,
+    "before": "have you\nchecked?\n",
+    "after": "we're counting cupboards, not dramatic entrances.\n",
+    "before_sha256": "277f9909467f5b39d24094e9b629bbd0c128210b4cbd83ca3789fce9f9995ed4",
+    "target_sha256": "9600a7f4471070cdc006382826b985760c51a78d54043f62b06d29c80f0aabfb"
+  },
+  {
+    "id": "page041.block21",
+    "page": 41,
+    "before": "The dramatic ones. Then the large ones.\n",
+    "after": "Only the dramatic ones. I opened the last one very slowly in case the moon was hiding behind the coats.\n",
+    "before_sha256": "2e8293543df38ddb36d07e0aedb7edc97a5ce9d45317cec1671c208be20acdaa",
+    "target_sha256": "cb7c45c7176401e526063d1b2845c40223e45a0b043cdbda378c93cb080b5198"
+  },
+  {
+    "id": "page041.block23",
+    "page": 41,
+    "before": "The moon\ncostume is larger\n",
+    "after": "The moon costume is larger than most cupboards. If it were behind the coats, ",
+    "before_sha256": "8fee28b88c02a0ab05a50e66044c669b9936469eca4b95d5cf25d465ea61bd6c",
+    "target_sha256": "ea2ca1ff1f166a1bebc085f26622defdd154afd06c950b4d0ed8c867e2eca9b4"
+  },
+  {
+    "id": "page041.block24",
+    "page": 41,
+    "before": "than most\ncupboards.\n",
+    "after": "the coats would be standing in the corridor.\n",
+    "before_sha256": "b84759619a0beeec1804e58ae11c30587f1f4bb5cdf1fe76ac7dd3993dccee74",
+    "target_sha256": "22f462c210df3c3cfa69e066c270fc967f08e0bca821358838ca8967ec6cf25d"
+  },
+  {
+    "id": "page041.block26",
+    "page": 41,
+    "before": "Exactly. Now we can ",
+    "after": "Excellent. We've eliminated the little cupboards. I ",
+    "before_sha256": "ed96a6260fa29806afe0fc015eeaea5a82f91cbcda1dd985209cfc4fcf4cf2ec",
+    "target_sha256": "516567d64b514adea1412e23a39d4063c7e77f76ae99528b3a37ed4d5ceba152"
+  },
+  {
+    "id": "page041.block27",
+    "page": 41,
+    "before": "stop opening tiny ",
+    "after": "knew all that slow opening would ",
+    "before_sha256": "2eeea8549e644a14009a1be90a3dbef69d39be118949ce566915d9ab7888e94f",
+    "target_sha256": "76ca6a0d6c5161879a176482fb42e07e64136a24c0b77a389be2b2bf43623e11"
+  },
+  {
+    "id": "page041.block28",
+    "page": 41,
+    "before": "doors.\n",
+    "after": "produce results.\n",
+    "before_sha256": "f74e1512b4e8c96d103df6e1e3374c82377e8c462f415461167093ef39789bd2",
+    "target_sha256": "cac638d6b20a500d0a63439e663c15a98213fecd64f0ebb56c509ed214383966"
+  },
+  {
+    "id": "page041.block30",
+    "page": 41,
+    "before": "Good. I was starting to introduce myself to the brooms.\n",
+    "after": "A triumph of fieldwork. Let's check the room record next. The brooms and I are running out of conversation.\n",
+    "before_sha256": "c3c863c10347a8f3431a832befa41fa814a6e3a4a2612e00cf2c25e1a509468a",
+    "target_sha256": "442c6f2094dbbe88fb66ed880918cd79c15c94984519956a0192604a98edd6db"
+  },
+  {
+    "id": "page045.block05",
+    "page": 45,
+    "before": "My route is beautifully straight.\n",
+    "after": "My route is beautifully straight. No unnecessary turns, no wasted walking. Very impressive on paper.\n",
+    "before_sha256": "b1f17e41259795e3d20a3812b15c5dc7ce0a6639ee4a1d0a9d73fe207b455783",
+    "target_sha256": "1f99836db37cfb17aa87ab666e751aa2e8b28b340523f2cc2fa4ede49b06a640"
+  },
+  {
+    "id": "page045.block07",
+    "page": 45,
+    "before": "Have you shown it to the walls?\n",
+    "after": "Have you shown it to the walls? They seem to have plans of their own.\n",
+    "before_sha256": "a8bfa5db1c4dd1233336888aab7a09ebddcc804f1e5a7abb34b9fd8cbfbdb806",
+    "target_sha256": "b7f23b1fb44f44e92b31b676389e82e2e7539d7051715ef7eb40f10c90dd69b6"
+  },
+  {
+    "id": "page045.block09",
+    "page": 45,
+    "before": "The building has rejected my first draft.\n",
+    "after": "The building has rejected my first draft. I was going to discuss it with the wall, but it hasn't offered an appointment.\n",
+    "before_sha256": "d8180a52e7a9eb507697776c3c3aba3f6deefdc8a4c58d0828a4ad0d07e405b0",
+    "target_sha256": "9b242d22be5b4b4bd1f6e63b4bfccbbfc3c7c1cf6cc8737902160789a524336d"
+  },
+  {
+    "id": "page045.block11",
+    "page": 45,
+    "before": "Then let's find out where it will let us through.\n",
+    "after": "Read the door signs first. You may find the building is easier to work with when you use its doors.\n",
+    "before_sha256": "d1dc5755920a95c0a9a812e50124b879f1daf2c9ba0181bfddf271786c6e5f3d",
+    "target_sha256": "955edb78a16811f465a7b9893d123e75851190e0e158c46bfd40afa6791bf28c"
+  },
+  {
+    "id": "page045.block13",
+    "page": 45,
+    "before": "I'll hold the map. No folding the building to make it fit.\n",
+    "after": "I'll hold the map. Please don't negotiate with any load-bearing walls. I'm not holding up the roof while you explain your route.\n",
+    "before_sha256": "b36f39331ffc84fff6f4b6baea814a1e5f6ece0412499205552d4aa9b1092820",
+    "target_sha256": "99220e30c0383a338fb9bf08c698729697b9c9d1576d5e1f3213d931cab6570e"
+  },
+  {
+    "id": "page049.block05",
+    "page": 49,
+    "before": "You nearly said something.\n",
+    "after": "You're looking at that symbol as if it owes you an explanation. Do you know it?\n",
+    "before_sha256": "e2c8ae736bc37807b96a011ffb6e284b015d71745ea902a631bff8bc2925fbcf",
+    "target_sha256": "a4000da291f2a8ae57caf63cea8af036249aaeb9e6017f4acaec20602b9d990b"
+  },
+  {
+    "id": "page049.block07",
+    "page": 49,
+    "before": "Something looks familiar. That isn't the same as knowing.\n",
+    "after": "I remember something. That's not the same as knowing. Give me the record beside it before I start trusting a memory on its own.\n",
+    "before_sha256": "fc45c86fc27d05470ac9dfc26102cca8f8378c974d4bbb9c000788c8a07e2e37",
+    "target_sha256": "b1bd9150e5fac32893aa444ea5828602e88255a613e900b8580e1d476b03c18d"
+  },
+  {
+    "id": "page049.block09",
+    "page": 49,
+    "before": "Then we'll find something you can check it against.\n",
+    "after": "I'll find it. We can check them together. You can keep the dramatic pause while I look.\n",
+    "before_sha256": "b018954c655e10105cb142047997520fde686a1e3bd286ff832e0b3d6bb89e67",
+    "target_sha256": "fa42385cd78393c770398f8a17aee03abd9ffaa895897f69e7de13f54a9018c6"
+  },
+  {
+    "id": "page049.block11",
+    "page": 49,
+    "before": "I remember being promised cake on an investigation.\n",
+    "after": "While we're checking memories, I remember being promised cake on an investigation. Very clearly. Excellent detail.\n",
+    "before_sha256": "7e60cc2a99931c5fea828e5e896061f8a9b90dc0a94975e47cd85d63e0a92b3e",
+    "target_sha256": "2bb929093ba538e20c03afa0a9da7c1139b86e6270b07c6a464793bdb552c670"
+  },
+  {
+    "id": "page049.block13",
+    "page": 49,
+    "before": "You promised yourself the cake, Alio.\n",
+    "after": "You promised yourself the cake, Alio. I was there for that announcement.\n",
+    "before_sha256": "9691c04a83a24e2a75defa8961109e2dae5a41c4d4d185553bb5e07e7e938a6a",
+    "target_sha256": "3966afcbdb3f3d37e86ee342997f4708c0a31f4fba75a4f1143ef1a3ef8f2366"
+  },
+  {
+    "id": "page049.block15",
+    "page": 49,
+    "before": "A very reliable source. Terrible at delivery.\n",
+    "after": "A very reliable source. Terrible at delivery. I'd like to interview whoever was supposed to bake it. Unfortunately, I believe that's also me.\n",
+    "before_sha256": "d8e169a4539fcffe208cab770bd7b7268fe66b9ff0f814f375f895808251e6bc",
+    "target_sha256": "9d7a1c337a1e03c3003e48dae81a3f6b6ee4aa6228ac06416a29968e3041e376"
+  },
+  {
+    "id": "page053.block15",
+    "page": 53,
+    "before": "Two teams. One rover. I refuse ",
+    "after": "Two teams. One rover. One truly upsetting cable tangle. ",
+    "before_sha256": "930e6dc5b3a6ee761285120532a8cd4b34f2f816c17ccedce62485d26fd587d6",
+    "target_sha256": "cf0830923112f0eed526dcbfccd3db5dacdb430a80d984d7115ee1b905da4c6d"
+  },
+  {
+    "id": "page053.block16",
+    "page": 53,
+    "before": "to split it ",
+    "after": "Nobody move; I can make ",
+    "before_sha256": "8101305c325cc2c3bc718f175c179465aaaa669e44bd03f60f62666ce2bafed3",
+    "target_sha256": "18942f0871bf57026543da4d0ce928170e8fbedb725574aa763be1cdc2e3b431"
+  },
+  {
+    "id": "page053.block17",
+    "page": 53,
+    "before": "down the middle.\n",
+    "after": "this considerably more complicated.\n",
+    "before_sha256": "24e3ca233d562db425bc02c3332af390300826ec65bdfab2976d3e71bebd16d7",
+    "target_sha256": "3f99166cbf764125a3ab5c6581242971bda83b5f8514ce74cef260ea754f98d2"
+  },
+  {
+    "id": "page053.block19",
+    "page": 53,
+    "before": "Generous. The wheels would be ",
+    "after": "Which problem are you solving first? The rover, the cable, or your urge to ",
+    "before_sha256": "5c7aeaa14ba9beb1c7395439f3151e9b0892b6657a961cb4ae85ea5445e6dc02",
+    "target_sha256": "a7c397241f4f171cc337d4a130c8d9a8c310774c10b1462271ddc557dc12b840"
+  },
+  {
+    "id": "page053.block20",
+    "page": 53,
+    "before": "awkward.\n",
+    "after": "take something apart?\n",
+    "before_sha256": "6ed0ec2fa4fa307b8631db1c225423e155835b3292f997cec1be63b5d68dfb59",
+    "target_sha256": "cc5ef5d8a4fab6c5f90e10f3f6f6bb25a255897ea252bf5d2a40c34ac9869a2a"
+  },
+  {
+    "id": "page053.block22",
+    "page": 53,
+    "before": "We'll check who actually had access.\n",
+    "after": "The access record. We need someone who can help explain it. You may note that I said this before touching a screwdriver.\n",
+    "before_sha256": "731956f4fe95320c2087f01cc7b43368cf7c6ebfe3906512bf686d20a1216144",
+    "target_sha256": "b9a5e9a869a1c3878c83595f5277b48a9cb95c88cea0866b3152cbc2f11d4030"
+  },
+  {
+    "id": "page053.block24",
+    "page": 53,
+    "before": "While you do, can I untangle that cable?\n",
+    "after": "Correct answer. Disturbing speed. I'll untangle the cable while you recover from being sensible.\n",
+    "before_sha256": "bdd34cec73d0857ffc9696ab42af6e93903a3c74fc51fb72e9ea885207b6eadf",
+    "target_sha256": "3b4b2de59c52d82f37086d852d622eb432fee69398f6dbedbc0ddf12c9b86a69"
+  },
+  {
+    "id": "page053.block26",
+    "page": 53,
+    "before": "Careful. It may have a ",
+    "after": "Careful. It may have a third owner. And please log that sensible moment separately; I may ",
+    "before_sha256": "fbd20c3f174f707e65ac6d9637b745487f808b3a182a84d6a44cbc128c1b6d44",
+    "target_sha256": "397ffd37c184caa74fa85f077e49102654f57dcfe2c43c3cdb89345e270bf0ea"
+  },
+  {
+    "id": "page053.block27",
+    "page": 53,
+    "before": "third owner.\n",
+    "after": "need it in a future family discussion.\n",
+    "before_sha256": "03913165c728e2b8ac2df05e35c49ec05d91628acf690830ee122849f7f79586",
+    "target_sha256": "aa6a7ca06e6bbaa3893fce689a1c2154eaf6363930fd76e4cfc169823e7c4844"
+  },
+  {
+    "id": "page057.block05",
+    "page": 57,
+    "before": "Your phone has been living beside the oat bar.\n",
+    "after": "Your phone has been living beside the oat bar. I think they were getting quite close.\n",
+    "before_sha256": "fb42bd0d891a0e0018cf760c08be674a48e49c9eb19489a37e5615230259301d",
+    "target_sha256": "c3f1d9f39439176d41722801669f512e145ca35e1c439b1f6c3e78b509d6f311"
+  },
+  {
+    "id": "page057.block07",
+    "page": 57,
+    "before": "It was undercover.\n",
+    "after": "It was undercover. You can't expect a good investigation to happen in the most obvious compartment.\n",
+    "before_sha256": "d7cb45818cd7fe55b9822d57310a07feda7fd7ec7979d79bcaadfafe58895c49",
+    "target_sha256": "be63257677cd7e5f426694e5ff9c5afa17b89ec5bdc125cd17c424f8a29bfbd0"
+  },
+  {
+    "id": "page057.block09",
+    "page": 57,
+    "before": "Does the oat bar know?\n",
+    "after": "Does the oat bar know? It's been very quiet about its new colleague.\n",
+    "before_sha256": "2979eb6d32a4c70b2205742c2d16620aeb47dd982ee38f3c20974716ed5ecdb0",
+    "target_sha256": "83a25ae5664661f2205b58472b2e995ffd50bcc88063e33c404e4d72d9d23678"
+  },
+  {
+    "id": "page057.block11",
+    "page": 57,
+    "before": "We protect our sources.\n",
+    "after": "We protect our sources. And occasionally forget which compartment they're in. This is a complicated profession.\n",
+    "before_sha256": "ec62796d05211c8ab79dd0cc3c8f01b548edff9f3f4ce1f32f4d48509f72a6f0",
+    "target_sha256": "650c62c7fd2f0360b29ae7415d092792e9accde7c27703998a811f6aa2db8a2f"
+  },
+  {
+    "id": "page057.block13",
+    "page": 57,
+    "before": "I would like that entered in the bag report.\n",
+    "after": "I'd like that entered in the bag report. Preferably next to the bit where you tell us to label everything.\n",
+    "before_sha256": "eca87fb1a69dbc5f5b86cc4d41c18ee6cba67cf3b39a9d1293f603488d9a8287",
+    "target_sha256": "7394bc894099ee3be624a640260e43283c32cb5f5d7d1f293ffe930737bc56ec"
+  },
+  {
+    "id": "page061.block05",
+    "page": 61,
+    "before": "Please speak clearly for the notebook.\n",
+    "after": "Please speak clearly for the notebook. Name, reason for being here, and anything you remember about the password.\n",
+    "before_sha256": "4e276e5e9145c4ba6251ed27d666d6a97a16fccecfd994796a69f43b9b96be02",
+    "target_sha256": "ec40d3a91e32c2fa1e53699f4a8902b3662c08c1b7fa6afe555ccf066477185d"
+  },
+  {
+    "id": "page061.block07",
+    "page": 61,
+    "before": "It says 'cracker'.\n",
+    "after": "Try listening before your next question. It says 'cracker'. I don't think it's finished answering that one.\n",
+    "before_sha256": "c4e73429b51bbf9127528bcce82c259d4ef8eb32a5014d2dc2685f16de9d4c12",
+    "target_sha256": "d516073db7ba510e34575b75f636d1afd8bc309595882edd61f52ba4ac9fd8f0"
+  },
+  {
+    "id": "page061.block09",
+    "page": 61,
+    "before": "I've got that. What about the password?\n",
+    "after": "I've got 'cracker'. It keeps repeating it. At least its statement is consistent.\n",
+    "before_sha256": "9f25140b6f4355e00cb2213ea67340274fa4f3e94e19e6f7c3585392c780154d",
+    "target_sha256": "18f43a076975664d5fe3c22b799535f2aabc2d3bc53970ec7f52ca8ad4a29cc9"
+  },
+  {
+    "id": "page061.block11",
+    "page": 61,
+    "before": "I think it has set a price.\n",
+    "after": "I think it's set a price. You're trying to run a serious interview and it's trying to order lunch.\n",
+    "before_sha256": "8eceb96e08dbacc1a58180b317bd86f58ca40b4484afd20cdb4c5de916372623",
+    "target_sha256": "3f057fac8e9a5f2043d9d30e27e344eba02586f2030a1646d8e6100ba85424c4"
+  },
+  {
+    "id": "page061.block13",
+    "page": 61,
+    "before": "I'll ask the handler. My first interview with a snack budget.\n",
+    "after": "I'll ask the handler. My first interview with a snack budget. Please don't tell Alio; he'll start charging biscuits for his theories.\n",
+    "before_sha256": "fb28e5cc11e1e65082807d3bb23070ec292686fd78dd48c1b11bb2e5ad7e602c",
+    "target_sha256": "50facfef4d7cd61610f1f2f3cb32b30d4a525611766affabdb13b4a8322f5c63"
+  },
+  {
+    "id": "page065.block18",
+    "page": 65,
+    "before": "My fox theory\n",
+    "after": "My fox theory has one weakness. I'm prepared to hear it, as ",
+    "before_sha256": "354489a3008da88047f0d8ecde16e2686df01ff8cb7122f0aa33147f25125c7f",
+    "target_sha256": "8ad77d71075c9b49d78646b174c43c3bdc13268f09439c9fdf1fe9eeda79a21d"
+  },
+  {
+    "id": "page065.block19",
+    "page": 65,
+    "before": "has one\nweakness.\n",
+    "after": "long as everyone remembers how good the rest of it is.\n",
+    "before_sha256": "938cef32f7bea0c3bff69a7e5d950f77c10d95fe01edf432df547e902d09fc32",
+    "target_sha256": "2729dac7199b29500cf1ff058e52fd1da1d70cd91f266375fb43fe6ccdc1e373"
+  },
+  {
+    "id": "page065.block21",
+    "page": 65,
+    "before": "Pockets?\n",
+    "after": "Pockets? Where was your fox planning to keep the camera?\n",
+    "before_sha256": "59173142dac5c79a74254efc5cf7d5c3c2d59324e85cd14f169244629c70771f",
+    "target_sha256": "b58b2cdbdec21286ffbbe406a91f14ac4acfe0d9a7262dee9abf3c2bf50eae7f"
+  },
+  {
+    "id": "page065.block23",
+    "page": 65,
+    "before": "It needs somewhere to ",
+    "after": "Several weaknesses. I'm making a list. I had rather hoped ",
+    "before_sha256": "cd5b1a53c9025105b3409a347bdef936b8f84bcdc0dd097c4c6e8dd27643864e",
+    "target_sha256": "9acb76beac78e10bc991532276accebf8b201b93f3b98c84006beb87eb714045"
+  },
+  {
+    "id": "page065.block24",
+    "page": 65,
+    "before": "keep the camera.\n",
+    "after": "the pockets would count as an equipment problem.\n",
+    "before_sha256": "7ef0494ccf321fa4df19d74bb6eae33143e875dfc8664cffa2cafab7026a62c8",
+    "target_sha256": "745ff8ce4bd2cc440a6bbdd85f1c8b7142d448ebc3a76d4118b7894c90e228a3"
+  },
+  {
+    "id": "page065.block26",
+    "page": 65,
+    "before": "A tiny camera strap. ",
+    "after": "Add 'fox operating camera equipment'. And 'somebody teaching it'. This is ",
+    "before_sha256": "c795a119ba04486216a80598adffe5ae18ee43126f465076bd76dc94823a276d",
+    "target_sha256": "410e74bdca4bb0455bfe0d44c778973f2eebae7f7f4f281d8c462627a80da8b1"
+  },
+  {
+    "id": "page065.block27",
+    "page": 65,
+    "before": "I'll draw one.\n",
+    "after": "becoming quite a large project for one fox.\n",
+    "before_sha256": "62e7f702f7fdb57f72b01578c6a1d7c34b3d1414dbd19114deccad5479dae4c5",
+    "target_sha256": "1c1818482dc0961cc1d2fe63c59af206c86301c8d305012fcf3988f5f1f068ba"
+  },
+  {
+    "id": "page065.block29",
+    "page": 65,
+    "before": "At last. Someone taking the equipment problem seriously.\n",
+    "after": "Cruel. Fair. I'll draw it a tiny camera strap, then let it retire from the case with some dignity.\n",
+    "before_sha256": "b958d538fe40bd599f7e91635cc114567d605212677725f3bca8369a9ce4b0df",
+    "target_sha256": "8d391bd492a9d709eebc6c26071e8423e87f4d9c429d408fc1e13b5d9c98e072"
+  },
+  {
+    "id": "page065.block31",
+    "page": 65,
+    "before": "Now you've got me wondering about the strap. Hand me the actual photo before this gets worse.\n",
+    "after": "Keep the drawing. Hand me the actual photo. The evidence is still stubbornly unfoxy, and I'd like to finish before you design its uniform.\n",
+    "before_sha256": "43f0faf9fccbb86fdb5717bac9992ca8f0e7babd4f17c9e51afb8375bd87611d",
+    "target_sha256": "439500d4a52bcf4cf08d900c6aa0091c5f3aa370453c98517efc3d5d44d282dc"
+  },
+  {
+    "id": "page069.block05",
+    "page": 69,
+    "before": "One of these statements has broken the clock.\n",
+    "after": "One of these statements has broken the clock. I'd like the clock to know I was on its side.\n",
+    "before_sha256": "c30eeb284181538404d46ff0aaf2b06c50c763cbc230a81e9fe7c6ac6e4721d0",
+    "target_sha256": "72c94b0be87efd2f94936e56a491f8196ac2e367beddfa4e811959c885e8e62b"
+  },
+  {
+    "id": "page069.block07",
+    "page": 69,
+    "before": "Or somebody mixed up two moments.\n",
+    "after": "Or somebody mixed up two moments. Before we arrest the clock, can we check that?\n",
+    "before_sha256": "edfad0be5b2277bbc8d0a9e411d7e0b20b2201abde5b451f54c0203c232efe98",
+    "target_sha256": "4033861fed332062c67fa38bc524e16b581e5e5018fa88ffcb94913a30032fcf"
+  },
+  {
+    "id": "page069.block09",
+    "page": 69,
+    "before": "Could happen. I once announced I'd packed lunch. I'd packed three books.\n",
+    "after": "Could happen. I once announced I'd packed lunch. I'd packed three books. I'd been very thorough about the wrong thing.\n",
+    "before_sha256": "8286fdf037c357eb28736b1d87db098bace3fcc485b4c43a65ee7e6d84926029",
+    "target_sha256": "affee15d47bbc8c9c856d87b4fa45cbd99127e9bb218121049f41eaa51145b2b"
+  },
+  {
+    "id": "page069.block11",
+    "page": 69,
+    "before": "I remember. Your bag was very well fed.\n",
+    "after": "I remember. Your bag was very well fed. You had to share my lunch, and the books didn't contribute a thing.\n",
+    "before_sha256": "dc3b1600f70a89903e38c756bcd2787c51ae5b3761490e51fc5adc79c5b572a0",
+    "target_sha256": "99b93d7230bedb0fbd1343adef5dbd4f483ea566d5e4c365b9d46daefb59b2ed"
+  },
+  {
+    "id": "page069.block13",
+    "page": 69,
+    "before": "Did it share?\n",
+    "after": "Three books? Not even one recipe? I'd have expected better preparation from this family.\n",
+    "before_sha256": "c70b261df4490338aa05307083e2f08bfa0f73ce0abc3c3101dfd11fe97f05b1",
+    "target_sha256": "e80fa6f488c53d4b73b2ad5802d85d0940f5e3c57cd2bab991e953360c0beb01"
+  },
+  {
+    "id": "page069.block15",
+    "page": 69,
+    "before": "Not a crumb. Three books and not one on cooking.\n",
+    "after": "Not one on cooking. Next time you can check my lunch before we leave. You've become very thorough since the cake investigation.\n",
+    "before_sha256": "ce7e60338e68b0a6a9b3ccff360dd0c6563263fc13c278e35d1f93b940589892",
+    "target_sha256": "21b910ab5ce12830e42862d11b96884659ffac380e60546116284be7927e8f7f"
+  },
+  {
+    "id": "page073.block05",
+    "page": 73,
+    "before": "Next trip: readable name tags.\n",
+    "after": "Next trip: readable name tags. Big letters. Nothing that requires a family meeting to identify.\n",
+    "before_sha256": "2770dd359554da3f14ba69cb364359183cdd525aa76094ee65aabde0216d2f6c",
+    "target_sha256": "9f553fcbe6e9af718bf71c37635b3d8ae70db490153094ff73fd65b06d39e8d2"
+  },
+  {
+    "id": "page073.block07",
+    "page": 73,
+    "before": "I was going to suggest satellite tracking.\n",
+    "after": "I was going to suggest satellite tracking. A small dot on a screen for each bag. Possibly a theme tune.\n",
+    "before_sha256": "7ada9b4f383f2431e521846a7638958699ddf68dc2a9a447a9fb3af73a8c87d8",
+    "target_sha256": "16897c11cbe4e9c577f947fd1db3b5008c063bdac0e745de8e3bf6c02b9d4264"
+  },
+  {
+    "id": "page073.block09",
+    "page": 73,
+    "before": "Mine doesn't need charging.\n",
+    "after": "My tags work indoors, don't need charging and won't announce our arrival every time we walk into a room.\n",
+    "before_sha256": "e05a24646971b04c1633d5ec8962d747b6bfd579dd4288590adfe732e507e3fe",
+    "target_sha256": "ed8113b7296c03c7a25c4809c713d85e8f4e87b6980ea6ffd4e2a68b9727595f"
+  },
+  {
+    "id": "page073.block11",
+    "page": 73,
+    "before": "Ruthless. You've beaten me with a piece of cardboard.\n",
+    "after": "Ruthless. You've beaten me with a piece of cardboard. May I at least draw a satellite on mine? I'd like to lose with dignity.\n",
+    "before_sha256": "4a2ada29deef365577b05abf17486a6eb739d25f2d78ef786ae488f4ba1a3b67",
+    "target_sha256": "f3f2e4e3887231eeadcc412ac26d5a853d2d33c5728a12ec81617eed17eac0a6"
+  },
+  {
+    "id": "page077.block06",
+    "page": 77,
+    "before": "That hat could shelter the whole team.\n",
+    "after": "That hat could shelter the whole team. If it rains on our next investigation, I know where I'm standing.\n",
+    "before_sha256": "ac9ec0c95f5263a1a66e149dc3dc1faa5a1f5d689a00ec255f0f757cda3a27e4",
+    "target_sha256": "86b11d7ff4ae248f5060067a0c5fd98258e76a614f88429762a54b8d33cc98d7"
+  },
+  {
+    "id": "page077.block08",
+    "page": 77,
+    "before": "It also had an excellent detective underneath it.\n",
+    "after": "It also had an excellent detective underneath it. I brought the hat for company, not for a review of its roof space.\n",
+    "before_sha256": "4404b053a5581161b31745a4341ea8a5918e911a7a132628eae7eb9a41301a33",
+    "target_sha256": "713e0efaceb476b53e2303452b77caf5931d9b2507c3f0c5defa1e03970c2b71"
+  },
+  {
+    "id": "page077.block10",
+    "page": 77,
+    "before": "The hat is not admissible dating evidence.\n",
+    "after": "We're finding the photograph's date, not the hat's. Admire it all you like; it doesn't tell us when the picture was taken.\n",
+    "before_sha256": "dca493dc477e16748e0f0f948182ac12bd4be218a0a37b545c65c706a3ec85d4",
+    "target_sha256": "c7a26fab2a54f69a010941db138b40f53a33fa7c65900b4886f4140c7a429c4d"
+  },
+  {
+    "id": "page077.block12",
+    "page": 77,
+    "before": "Finally, a sensible Academy policy.\n",
+    "after": "Finally, a sensible Academy policy. My wardrobe has suffered quite enough questioning for one afternoon.\n",
+    "before_sha256": "726556d9c1485cc3fae3d4e6c0f57d3faa05a80bbee268dce9ac7f9829485a40",
+    "target_sha256": "289533563c8213936249d28b68782513f565f722291197b1955a7820fb3ce61e"
+  },
+  {
+    "id": "page077.block14",
+    "page": 77,
+    "before": "Can we still admire it respectfully?\n",
+    "after": "Can we still admire it respectfully? I think Alio wants to add an extra room.\n",
+    "before_sha256": "65366ee0be5398e0b2af841c17d0ccf591bd861947a007aac90311ca9a43cca7",
+    "target_sha256": "494e5ea7d1846c775467571d3e0f475bf8faacb71ae810374393e8a12b1d7c35"
+  },
+  {
+    "id": "page077.block16",
+    "page": 77,
+    "before": "Within controlled limits.\n",
+    "after": "Within controlled limits. One more room and I'm charging rent. Now pass me the photograph, please.\n",
+    "before_sha256": "8792c1250be0d31a30a7d83f7b7eae2dab02f4d7e6f3f883eb04b46136f68e6a",
+    "target_sha256": "147aa9797484d2a2b8deee8fb301e43f1c401e3c5a7c5e0bd3314b6f778ac7af"
+  },
+  {
+    "id": "page083.block05",
+    "page": 83,
+    "before": "Railway-investigation helmet: deployed.\n",
+    "after": "Railway-investigation helmet: deployed. Ready for tracks, tunnels and announcements that sound unnecessarily urgent.\n",
+    "before_sha256": "b3fda738d9ed30b6486901f0394bf75731b6e3e7c06c66c97dc23e015ba34c40",
+    "target_sha256": "4b5510d56fe4c2895b4993996fb213ab42ae0fc908635beb03371d2a87a581fa"
+  },
+  {
+    "id": "page083.block07",
+    "page": 83,
+    "before": "It is the same helmet.\n",
+    "after": "It's the same helmet. You wore it to the last investigation.\n",
+    "before_sha256": "e20c6be6cfa08386ac62951f1937e5a0b794989b38f98d322f882aeb442bac63",
+    "target_sha256": "8712694641f58ab5137021c0ae9678e359f2d0b9b64291c5e07366fa371b7baf"
+  },
+  {
+    "id": "page083.block09",
+    "page": 83,
+    "before": "It has changed departments.\n",
+    "after": "It has changed departments. Please respect its professional development.\n",
+    "before_sha256": "4f9c70bd54ffe4ec6c571ce038bbeba98accd2fcd89af32dd0436a0eac1b11aa",
+    "target_sha256": "1094e02535c3b7101a8f734fb1295cc834c06232f9b6cffa8257091fa850455a"
+  },
+  {
+    "id": "page083.block11",
+    "page": 83,
+    "before": "Then perhaps its first assignment can be reading the ticket sleeve.\n",
+    "after": "Then perhaps its first assignment can be reading the ticket sleeve. I'd hate to discover we've promoted something that can't read.\n",
+    "before_sha256": "eba2794fd1252cf8db6a5352f229a283ba4edf454edd9660bb4178937ebf6055",
+    "target_sha256": "d5f330f5dd029d8e206f88958fff52f2c28ac260691c5b3f836e48ae9f694591"
+  },
+  {
+    "id": "page083.block13",
+    "page": 83,
+    "before": "Does the helmet earn travel points?\n",
+    "after": "Does the helmet earn travel points? Its owner will want to exchange them for snacks.\n",
+    "before_sha256": "f0f3d7f3bf2ead35456223e1c1f81c2540e2e7ae053c33842570baf5db504b35",
+    "target_sha256": "86db3afedeb77f13ff712785a8a4174153cc82bb6584f4fa5a581e8249050fa7"
+  },
+  {
+    "id": "page083.block15",
+    "page": 83,
+    "before": "Only if it buys its own ticket.\n",
+    "after": "Only if it buys its own ticket. I am not explaining a separate seat for the headgear.\n",
+    "before_sha256": "bf42fc7ab5bbeef4ad3b08b9476a89d0ddfa0b25d2efd7491724e2ad0dd7229f",
+    "target_sha256": "94de4eaac239543f3ec69c51b48f33fc520d9073d5f06e408c262a3f038ab918"
+  },
+  {
+    "id": "page087.block05",
+    "page": 87,
+    "before": "Can your watch accept being wrong?\n",
+    "after": "Can your watch accept being wrong, or should I break the news to it privately?\n",
+    "before_sha256": "8dcb907e7d004cc4680a86cf684d184197493ef8752e37eb21e13b068a7d8a33",
+    "target_sha256": "f23d53b52e5ba1f8d505fb6ef81823370a2dfc61a694a75a442ff5f9fe8cb249"
+  },
+  {
+    "id": "page087.block07",
+    "page": 87,
+    "before": "It is handling the news with dignity.\n",
+    "after": "It's handling the news with dignity. No dramatic beeping. A very professional response.\n",
+    "before_sha256": "f7403fc2b65e5f64dfda384cc98bb9959c3538be4d1b9f644076c0f5e1dfdf1c",
+    "target_sha256": "645353a95eba9ccf225b54b4addf57c58eb30d012f02213dcb7b4a602af9f928"
+  },
+  {
+    "id": "page087.block11",
+    "page": 87,
+    "before": "Less gracefully. I am correcting the record.\n",
+    "after": "Less gracefully. I'm correcting the record. I'd like it noted that I did this before anyone made me.\n",
+    "before_sha256": "d2ca41339814d4fa4b87325b79ad880eef4c370920a4cae137fcc2fda2f55c1e",
+    "target_sha256": "8a56840f7bffc032dbd020120498a5c67513bf451f2abb5e21dabf35cca4cee0"
+  },
+  {
+    "id": "page087.block13",
+    "page": 87,
+    "before": "I'll check the new times. You can tell the watch it hasn't lost its job.\n",
+    "after": "I'll check the new times with you. Tell the watch it hasn't lost its job. Please give its owner the same message.\n",
+    "before_sha256": "4d724014abc4bb245044c5bdc4a3936a11b20e6bda9102523404d39017ef21a1",
+    "target_sha256": "1c98518aec74daa374d85fd5bd2aa4a41be990bf63c11138ccc3e85f532c9f72"
+  },
+  {
+    "id": "page091.block05",
+    "page": 91,
+    "before": "I was going to say 'digital ghost'.\n",
+    "after": "I was going to say 'digital ghost'. A good theory, I thought. Very modern. No old-fashioned bedsheet.\n",
+    "before_sha256": "0154e9edeee7af87a0730265996df03cdda558693887bf1e7d1136f25be8a76e",
+    "target_sha256": "09352c02a79448d64757a061e433713311f8af4002c6cca3b893e385085e006f"
+  },
+  {
+    "id": "page091.block07",
+    "page": 91,
+    "before": "Was?\n",
+    "after": "Going to? What's happened to it?\n",
+    "before_sha256": "0f903c88e540a3a814a9c6f81714566d92ea2f74dcf9828b63785b4db7aa78a6",
+    "target_sha256": "d9dda18efb9d26176d784ef12b63c2c509d9699568e8c3080a534856a9b9115c"
+  },
+  {
+    "id": "page091.block09",
+    "page": 91,
+    "before": "I'm checking the scanner first. The ghost can wait outside.\n",
+    "after": "I'm checking the scanner first. The ghost can wait outside until we know whether the machine made a mistake.\n",
+    "before_sha256": "64058c1bdfa8535f32ad412c0ffe8e4a3168bc0e5b0cd5a4626caea6dffdafb2",
+    "target_sha256": "4a34d4253cd94e480767bbfcc2dd79c0e2724a81a11921e9ca0ab3d342f2541b"
+  },
+  {
+    "id": "page091.block11",
+    "page": 91,
+    "before": "In a library? It'll complain about the silence.\n",
+    "after": "Look at you. Keeping a perfectly good ghost out of the evidence until it's earned its place.\n",
+    "before_sha256": "3feacc50f2a414557b2a78bbf79017ff2986edb44bff699c9e958e13fd2fab19",
+    "target_sha256": "2fbfd9685f8c6df15b37e01a56a2dd138ffe93afec3bf7a67baee15d87e66876"
+  },
+  {
+    "id": "page091.block13",
+    "page": 91,
+    "before": "I'll find it something to read.\n",
+    "after": "I'll find it a book while it waits. Something with a proper ending. It must be tired of unfinished business.\n",
+    "before_sha256": "dfab26b20c512117a4816836e9d6f5c387b154daf1b7096e443bda0b7a246203",
+    "target_sha256": "cc141a930a6e7a709f5226942e254ad6be1a9db151dfa951f31c715830afcc52"
+  },
+  {
+    "id": "page091.block15",
+    "page": 91,
+    "before": "A paper one. I'm not giving it the Wi-Fi password.\n",
+    "after": "A paper one. I'm not giving it the Wi-Fi password. Getting it out of the library would be enough trouble.\n",
+    "before_sha256": "712427c9c953cd6a47581f0efe734848b6ea65e729eb27b87df908b22a066941",
+    "target_sha256": "2b60012faf5d539575282c0799d6aff98e8442a777b927a1c89e79b817a5656e"
+  },
+  {
+    "id": "page095.block05",
+    "page": 95,
+    "before": "This panel looks like a very worried pear.\n",
+    "after": "This panel looks like a very worried pear. I think it's realized we've brought notebooks.\n",
+    "before_sha256": "1dd3d1a636e55646c27cb8f94e1efab3593bf38c510ed2c8a7345671f009d24e",
+    "target_sha256": "92297ad9d8b8dc0dad716b705c5f7adbfb3405161d8470a0eee2aff3ebfe3d11"
+  },
+  {
+    "id": "page095.block07",
+    "page": 95,
+    "before": "Can I have the panel before you frame it?\n",
+    "after": "Give it a place on the art wall, not the witness list. We have enough people to question without interviewing the paint.\n",
+    "before_sha256": "9910e9476216d62783aef4b4826e4427c6c0ed796732faec892ec3845b7c8889",
+    "target_sha256": "3f7f7abc4ca00bfb7ee82e19390699343a01feb44ed862369a8fef0689eb511b"
+  },
+  {
+    "id": "page095.block09",
+    "page": 95,
+    "before": "It's looking very nervous. Be nice.\n",
+    "after": "Understood. Pear excluded from questioning. I'll tell it the good news when it stops looking so nervous.\n",
+    "before_sha256": "7afbd8deb56084ca4636ee53166335db0bcab3227535f39833f0dee8002536d9",
+    "target_sha256": "5e1d6194b1ea4a59bdda7ef8b4d9ad43db8dd1dffbf347ab8f04d30334641f7c"
+  },
+  {
+    "id": "page095.block11",
+    "page": 95,
+    "before": "Does the pear have an alibi?\n",
+    "after": "Does the pear have an alibi? We shouldn't rule it out just because it's having a difficult day.\n",
+    "before_sha256": "cad4ded2fac4dd0ce3517884a5fe03c6f94158b8b3c3d613855c93622bafb4e6",
+    "target_sha256": "21680aeb864a43ddcc2c0aeb7889466635e035ddeecdb3a5bc3cbe614528529d"
+  },
+  {
+    "id": "page095.block13",
+    "page": 95,
+    "before": "The pear is paint.\n",
+    "after": "The pear is paint, Dilo. Please don't make me put that in the notebook.\n",
+    "before_sha256": "c537b779775caa36588cff001db82f85508b0bab3c17d6474888b3874fcce4a4",
+    "target_sha256": "91d2d4f255ce06fa3f13de9de27f35d67a756fbf190039041feaa75161dd2537"
+  },
+  {
+    "id": "page099.block05",
+    "page": 99,
+    "before": "Nobody move the pieces.\n",
+    "after": "Nobody move the pieces yet. I want to see which edges belong together before we make the message say something we like.\n",
+    "before_sha256": "170e1ab101aa808e862755d7af21fcd6249d6a58e7da5c73568d6c3f717ae05c",
+    "target_sha256": "8b64c8cdf68cfe7abaa2906bb10f00a042b1bbf5ead8edb569a8428d0d30362b"
+  },
+  {
+    "id": "page099.block07",
+    "page": 99,
+    "before": "I'm not touching anything ",
+    "after": "I was going to reach for it again. I'll suggest first. Better for the paper, slightly ",
+    "before_sha256": "bc1db9f83808ef73e20c194c2bea3f3c4fb5540c9f004f8b50a1f93c1c9d9ec1",
+    "target_sha256": "f823307737f0f7f9f7090ba8ea74107f87649bd664c166a5c0ad66b370c6e80e"
+  },
+  {
+    "id": "page099.block08",
+    "page": 99,
+    "before": "else.\n",
+    "after": "harder on my patience.\n",
+    "before_sha256": "8a36980c8570c909006e311aea8b0cb16dd1a0a152394d766bbce031e5597df8",
+    "target_sha256": "9f0347adfd269eb3b88f2dd46360dbbd9ec390ffa13bdd6117bcfe90f687d792"
+  },
+  {
+    "id": "page099.block10",
+    "page": 99,
+    "before": "Stay here. I need you to check the joins ",
+    "after": "Good. Suggest away. Check the joins with me; if I try to force two edges together, you ",
+    "before_sha256": "811507dd9738156e41ca829efbaf6d7a439b1d40d2299b7c7c4adcf52fd44deb",
+    "target_sha256": "5371c00651da50e6c92dea191be623622d9f48a9f12023d81eac552a90e09f04"
+  },
+  {
+    "id": "page099.block11",
+    "page": 99,
+    "before": "with me.\n",
+    "after": "get to stop me.\n",
+    "before_sha256": "46a7b197ca1fa3f73d2f571acd83bb1a29f1b726a917c8f285a279ba31948489",
+    "target_sha256": "3e1d094eca81898b5472c0dfa4f8a8d014712a773bb33ff7a8addcd79a98fb85"
+  },
+  {
+    "id": "page099.block13",
+    "page": 99,
+    "before": "Keep the handwriting visible. It may matter once the edges fit.\n",
+    "after": "And keep the handwriting visible when we sleeve it. Edges first, words next. We'll want to read it without taking the whole thing apart again.\n",
+    "before_sha256": "9abdc1c326f09fe0ee996dcbfd26b0392e4d046e064befd59aadc857f4dfb74f",
+    "target_sha256": "cb2d661f4ec0457ec14369a570879036322fe801efa005dd58f25e3c621da5d8"
+  },
+  {
+    "id": "page099.block15",
+    "page": 99,
+    "before": "Do you know whose it is?\n",
+    "after": "That was a very particular look at the writing. Do you know whose it is?\n",
+    "before_sha256": "865e879dd37851d77e8b56367840c03c1def41266db8579961e42ffcef3631e9",
+    "target_sha256": "b2b91cdf0e7b5105640a4c90157f35a3e81cacce2eb804afb2cb6eacbb3a2de4"
+  },
+  {
+    "id": "page099.block17",
+    "page": 99,
+    "before": "Maybe. The archive ",
+    "after": "Maybe. The archive will have to back me up. I ",
+    "before_sha256": "00e13ff155a7df74d9cff542047bf18fa0f81e9b3f0652e8172fcf1d862c8787",
+    "target_sha256": "11221b88449014ce1960b7aecb5aac548ed6ae541c2fefc67216c42883fea0b7"
+  },
+  {
+    "id": "page099.block18",
+    "page": 99,
+    "before": "will have to back ",
+    "after": "don't get to turn a memory into a fact just because I'm ",
+    "before_sha256": "a53da0ee986c2e236e47aa45640bd68b4f6859592fe227027fbe4fa35f6593d8",
+    "target_sha256": "bc3d988b6cdbaf0413d0dd4e78a0eb9698df559f1632580b483a4931ff09c5f1"
+  },
+  {
+    "id": "page099.block19",
+    "page": 99,
+    "before": "me up.\n",
+    "after": "the oldest person at the table.\n",
+    "before_sha256": "9bd11da8f4d3bf541336359533d176785da86f9530e92c700488cc3979cbc7f2",
+    "target_sha256": "db6392118072813971bdfb7d578636b4bae23c425a00962b21ebfad9b561abd1"
+  },
+  {
+    "id": "page099.block21",
+    "page": 99,
+    "before": "Detective, you fit the pieces. I'll check every join.\n",
+    "after": "Then you've got the archive, we've got the joins, and Detective has the pieces. I like this plan. I can help without hurrying the paper.\n",
+    "before_sha256": "1dfd370da41697b78f83c355bb54e7e32410c4cdbb9172a13a2a8b160da67641",
+    "target_sha256": "b02571b257e69c8169c407987756b2e187dbfddc19be04550b27665f935cffba"
+  },
+  {
+    "id": "page105.block05",
+    "page": 105,
+    "before": "Three identical black instrument cases. Excellent. Objects have joined\n",
+    "after": "Three identical black instrument cases. Excellent. The objects have joined witness protection. We may have to ",
+    "before_sha256": "c9bfd9f1f4c5551df4e7669206997bdccdfd2360a339330504357d87862f8e95",
+    "target_sha256": "07b00c5b4b0330ac48845e46d51537ab5eb22255882f92f94088bdd835cbad4a"
+  },
+  {
+    "id": "page105.block06",
+    "page": 105,
+    "before": "witness protection.\n",
+    "after": "give them new names.\n",
+    "before_sha256": "b3bcbed0f8cfa60c36ff82ac5a01da5fc9b4de4c9b3254258dbbd32c44375bdb",
+    "target_sha256": "12267de8f2c559e3e7b95da9bc4ecf18b902724b55808edc03e1acb0c39a4e54"
+  },
+  {
+    "id": "page105.block08",
+    "page": 105,
+    "before": "Their names are on the labels.\n",
+    "after": "Their names are on the labels. Whoever arranged the protection has made one fairly serious mistake.\n",
+    "before_sha256": "95c3bb8fdd0ab9d3f2e65cbfaba7b84dd13558aed4af3d04f7f968e7167a629a",
+    "target_sha256": "e06cfd52e13e6341cea7c5e29c9be69e8c12f1afbe239217cee7b63b568780ce"
+  },
+  {
+    "id": "page105.block10",
+    "page": 105,
+    "before": "Not everyone is cut out for a life undercover.\n",
+    "after": "Weak cover identities. I could run this operation better with a marker pen and ten minutes.\n",
+    "before_sha256": "52105513e7d98c72ad3db11e60b78164521eaf41c18eed8a8d5398d838d9eeae",
+    "target_sha256": "5eea4386eea920a05f6c8813a20900e57ac21bb13be51428740ddb4714da6327"
+  },
+  {
+    "id": "page105.block12",
+    "page": 105,
+    "before": "They've had a long rehearsal. Can we get them home?\n",
+    "after": "Please don't improve their labels. They've had a long rehearsal. Let's get them onto the right shelves before you start them on new careers.\n",
+    "before_sha256": "f12ac13a6b865e9a1b9a5c0cdf33d2e85bf0549f8bced4f72d6b0aebca782855",
+    "target_sha256": "90fc30183103c306e7019b7843cde8dfb4f4ff8488860bb88f980b9884b13e0f"
+  },
+  {
+    "id": "page105.block14",
+    "page": 105,
+    "before": "I'll check the shelves. I'm not reading a bedtime story to an instrument case.\n",
+    "after": "I'll check the shelves. I'm not explaining three freshly renamed instruments to their teacher.\n",
+    "before_sha256": "34e3ca5f9f720c04565871cb4de5f9e7f253b108a0beae5172bac9ee1999d296",
+    "target_sha256": "272fb90b99c5494ad791d93405ad518b296053d4085fbf21712221dd89ed9517"
+  },
+  {
+    "id": "page109.block05",
+    "page": 109,
+    "before": "The arcade scoreboard has challenged me personally.\n",
+    "after": "The arcade scoreboard has challenged me personally. I wasn't even playing. It just sat there showing me a score it knew I'd want to beat.\n",
+    "before_sha256": "517272a89a3bdded837a519a9c37513bc0a09f485380a46a74ec2bd8233b12e4",
+    "target_sha256": "3aafbc530a0d58f91f5fc1da94943c74875a499cac89ab74dfe35cd48923b152"
+  },
+  {
+    "id": "page109.block11",
+    "page": 109,
+    "before": "I've got the wristband file. Can you bear to leave your rival unsupervised?\n",
+    "after": "I've got the wristband file. Can you bear to leave your rival unsupervised while we find someone who can help with the record?\n",
+    "before_sha256": "8b84b4a9a72b4f428dc4c6dd3ce68694bb78acaca216509611ed67a47e90e239",
+    "target_sha256": "108ba16497a16b5b68a2a60c27d83ab100637f9435f4cded4294d083b74ae36e"
+  },
+  {
+    "id": "page109.block13",
+    "page": 109,
+    "before": "For the case. Tell it I haven't surrendered.\n",
+    "after": "For the case. Tell it I haven't surrendered. And if the score changes while I'm away, I want a witness.\n",
+    "before_sha256": "432222d47049501e5495c92018d5d6d2d58914b9b2926ee2184d2843e57951dc",
+    "target_sha256": "83a7ecdf8310c0eec3f589053736564245464885dd23ba0bc95117327afb57c5"
+  },
+  {
+    "id": "page113.block05",
+    "page": 113,
+    "before": "I have paused my dramatic theory.\n",
+    "after": "I've paused my dramatic theory. It's waiting very patiently. Much better manners than people usually give it credit for.\n",
+    "before_sha256": "35cd87f896a0d8bdfd08690217f43d6a283feb506db7cdd59ec089e884a58161",
+    "target_sha256": "1fec60753da12d6d8f08234412e2a210013f05962814d8cc53a5a53ba6042313"
+  },
+  {
+    "id": "page113.block09",
+    "page": 113,
+    "before": "Yes. I thought I'd see what the mud had to say first.\n",
+    "after": "Yes. The muddy evidence requested a word. I'm trying this new thing where I listen before drawing a tunnel.\n",
+    "before_sha256": "fe676a72a75cee84d83f0da69ccc820a208002991ffea0b1c4dad846003cc641",
+    "target_sha256": "9b6b918bfc813ece0325a8e1cc9c7d7bd4265ef1b29c7622e47adaa4e5ff9dde"
+  },
+  {
+    "id": "page113.block11",
+    "page": 113,
+    "before": "Then I'll be quiet too.\n",
+    "after": "Then I'll be quiet too. We've got actual prints to compare, and I want to hear what you notice.\n",
+    "before_sha256": "9c97b2b181eace1440b1aae4c5d96d49953cd297e4f9c2a5e858aa82d7c0bc42",
+    "target_sha256": "509e2833708c6ea57b0ec82c085aac52cd4a1bdb2e65a2eef0649467010ba077"
+  },
+  {
+    "id": "page113.block13",
+    "page": 113,
+    "before": "Both of you? I should photograph this.\n",
+    "after": "Both of you? I should photograph this. The family will never believe it happened without evidence.\n",
+    "before_sha256": "22fb0c7554707ab5b7abd30de9340f24fb229483c75ce1d5cdd3799ba5b29514",
+    "target_sha256": "d2162146e62f60677f411a46eb7ebdc2e6c9b734af1d9708a632b16812fe570e"
+  },
+  {
+    "id": "page113.block15",
+    "page": 113,
+    "before": "Footprints first. My good behaviour can wait for the family album.\n",
+    "after": "Footprints first. My good behavior can wait for the family album. Put it next to Mom finding her phone; I'd like this album to be fair.\n",
+    "before_sha256": "91c1f81b9ac95d4a153b53fe2b3497d5a9a4a3a50363d8ee625fbff773e24d98",
+    "target_sha256": "45d0d9855e8cf4d86207833b78ce58a5eb611de630fadac6f8e61a2fb86ba7ff"
+  },
+  {
+    "id": "page117.block05",
+    "page": 117,
+    "before": "This parcel has met a lot of people. Has anyone asked where it wants to go?\n",
+    "after": "This parcel has met more helpful people than it can remember. If one more person says 'Leave it with me', we may need a map of its holidays.\n",
+    "before_sha256": "6cb93fa3b57e64b1b373b6262ec8e0f00704bd39e0b5f81a35e8e521e584bc54",
+    "target_sha256": "0ce661d6e2e2beaf95d884479166053e7edc6cee46b202f1ba37d08b0946688b"
+  },
+  {
+    "id": "page117.block07",
+    "page": 117,
+    "before": "Let's find out before somebody helpfully moves it again.\n",
+    "after": "Then let's help it in a less creative order. Check the handoff before anybody moves it again.\n",
+    "before_sha256": "e71e3a5d08c270004e6eb15683614e4dfd93b5ad4e044bf466cc78d82c87e0b1",
+    "target_sha256": "64759c8d8dc2ccdbe140441fcf86f05ff9c11eb138f19d40fcd39b3aa3719580"
+  },
+  {
+    "id": "page117.block09",
+    "page": 117,
+    "before": "I'll guard it. No unauthorised helping.\n",
+    "after": "I'll guard it. Revolutionary idea: one label, one destination. No unauthorized helping while the Detective works.\n",
+    "before_sha256": "700212b4648cfa33697bd6ec1df6cf4ff7a3281e1ff5fe941d420f9314666b17",
+    "target_sha256": "4e5d3155b51d8b6d7e4d5c6cd693c7871596fe271f3d2940f1a50f214107f00b"
+  },
+  {
+    "id": "page117.block11",
+    "page": 117,
+    "before": "What about morale biscuits?\n",
+    "after": "What about morale biscuits? For the people. I haven't completely misunderstood the parcel.\n",
+    "before_sha256": "970094471ecdafaba126ed15ad218ef6a4fb8a36c94ec238ff1e215d5ad236cd",
+    "target_sha256": "b7f90e6ef4725dcc1c9c00f2dd45bd1476fe5eb4edb636daa2f33aee922c3254"
+  },
+  {
+    "id": "page117.block13",
+    "page": 117,
+    "before": "For us. The parcel has had quite enough people trying to improve its day.\n",
+    "after": "Allowed. Bring enough for our Detective too. Advice for the parcel can wait until we've checked where it's meant to go.\n",
+    "before_sha256": "e1612e6157be38b44b172d4cd08b88d054eb7023e1155a1dc47601f765656341",
+    "target_sha256": "21964e8d227368eee9e045c640874ea01ecb99e0e9e24579dc74b92f84ec159c"
+  },
+  {
+    "id": "page120.block15",
+    "page": 120,
+    "before": "I knew we kept those maps for a reason.\nI kept mine because the stack looked\nimpressive.\n",
+    "after": "I knew we kept those maps for a reason. Our table looks as if we've been collecting paper professionally.\nWe have. Every one is a solved case. I also kept mine because the stack looked impressive. Both things can be true.\n",
+    "before_sha256": "b2b679d71284f16e335467e3a567ce914107c050f718025b224688e11ef79347",
+    "target_sha256": "3651e977a3121b115c408391bb0764aea3a5b81dc8509d6e2ccabf728f6537df"
+  },
+  {
+    "id": "page120.block16",
+    "page": 120,
+    "before": "Two reasons to keep the maps. Yours is very you.\nUseful evidence and an excellent stack. Let him have both.\n",
+    "after": "They can. Let's lay out the selected maps before you start measuring your achievements with a ruler.\nUseful evidence and an excellent stack. Let him have both.\n",
+    "before_sha256": "86002949c716e5df63081f8f8b146a6a1e895ab3b901ec4ed12570a33d8ead56",
+    "target_sha256": "30c51c2940a7eca7b737c12b514e7bd7cc9537dd341e7407280b26cab99fac7c"
+  },
+  {
+    "id": "page120.block17",
+    "page": 120,
+    "before": "Then let me have some table. My elbow has become a paperweight.\n",
+    "after": "Then let me have some table. My elbow has become a paperweight. If there's anything else we must keep, you'll have to file me alongside it.\n",
+    "before_sha256": "7ddb5787a2402cbcb01670edf83f7eabdfdbd3a0b60adf39954cb014b75d4332",
+    "target_sha256": "a4b396ada71e425afc3a28e09ea1a4e18f52e4e4b61bee86084d045a0597669a"
+  },
+  {
+    "id": "page121.block15",
+    "page": 121,
+    "before": "Empty rooms. We've been ",
+    "after": "Empty rooms. We've been looking at everyone except nobody. ",
+    "before_sha256": "5d02f8927eaa924cdac344c17b0df7247b959c2aac8c932cf616ab1384d5b882",
+    "target_sha256": "f0b954d947f8e0404dcab974077045902f50144692d0662621ea6197a1145a40"
+  },
+  {
+    "id": "page121.block16",
+    "page": 121,
+    "before": "looking at everyone ",
+    "after": "I suppose nobody wasn't going to ",
+    "before_sha256": "fb47caf270379cb6e4dbd22cbc557a68786bad361e6ab0f4b32d3fa6447d8774",
+    "target_sha256": "00f1b901e13e9138edf4b19f5a1578f6527b6d25b0ae07148e825292630af24e"
+  },
+  {
+    "id": "page121.block17",
+    "page": 121,
+    "before": "except nobody.\n",
+    "after": "put a hand up.\n",
+    "before_sha256": "aade4d6cfab29908bf09db4dc67d58866823d7840b5949c13f5f72aa2144c56a",
+    "target_sha256": "a1fcd4ab198860f7abfeb3153e386c2bf75f9f90f8665a8826a40a42b668b51a"
+  },
+  {
+    "id": "page121.block19",
+    "page": 121,
+    "before": "Nobody has been ",
+    "after": "Nobody has been very quiet. Before we give it a medal, I should ",
+    "before_sha256": "aa0cd0cdfbf891b29741a3d7b9f2353e1090dc3aa7aca8811786308c3297701e",
+    "target_sha256": "ebb1e4b6aeb1dfb64c96aa1f8c7798a7397d8d3deb5ec4b3eed13d446d474810"
+  },
+  {
+    "id": "page121.block20",
+    "page": 121,
+    "before": "very ",
+    "after": "mention that it's contributed ",
+    "before_sha256": "46d0575341893578cb487d378fc11b4f652071a1e930fe93ecd94c8e2225ede6",
+    "target_sha256": "984c565957cd1d7c18fd8d88f65a068b66730572541df1ca10db3eadc4b823eb"
+  },
+  {
+    "id": "page121.block21",
+    "page": 121,
+    "before": "quiet.\n",
+    "after": "nothing to the conversation.\n",
+    "before_sha256": "ba326090fa91a1e5bf96cf08ccee9bc50a6f9a2adf967752dfc107aeb6c034e9",
+    "target_sha256": "e073eec53584db3013610c36ee9174c2d11fa73e6e45b4684ec78b123ede6877"
+  },
+  {
+    "id": "page121.block23",
+    "page": 121,
+    "before": "Already my favourite ",
+    "after": "Already my favorite witness. No interruptions, no dramatic entrances, and ",
+    "before_sha256": "0695b80b2c99310bbe9c6cc0769bf4534afe48c2a0863397195d73ef50f5645d",
+    "target_sha256": "c9ff2c30904bf92b76f1596484b92b8c5de571fcfc39bb069bc5d0dac2198691"
+  },
+  {
+    "id": "page121.block24",
+    "page": 121,
+    "before": "witness.\n",
+    "after": "no equipment requests.\n",
+    "before_sha256": "c0326809d3bd049bbb804e92fb1b73e6a252ad191198ce2ca0cd473acd34fa60",
+    "target_sha256": "c5aeba4a43a5bf937417d9de414fd802d2c1f8e29da016428dd36e2b14398428"
+  },
+  {
+    "id": "page121.block26",
+    "page": 121,
+    "before": "I'm telling your brothers you said that.\n",
+    "after": "Your brothers are right here, Luli. Besides, I've heard you explain a footnote over an entire dinner.\n",
+    "before_sha256": "7dd8b0ec11f37cb97807477381095888811bf7059a1ebf82d6536549a7d1d7f2",
+    "target_sha256": "a6f57b481f7a9e90ba9acf6d65db14a11628210072f693b1904802d72194d5ec"
+  },
+  {
+    "id": "page121.block28",
+    "page": 121,
+    "before": "A historic moment. ",
+    "after": "Which I enjoyed. But let's give nobody ",
+    "before_sha256": "8e903ca5d218bf53a86d2b85e721d3a79248b2d3a828a1d5a663af276f6d50f8",
+    "target_sha256": "380288a9a8bed74fe6259e11836e3e63d5a751c03e733d304dd5105de7f954a3"
+  },
+  {
+    "id": "page121.block29",
+    "page": 121,
+    "before": "Detective, pull your maps ",
+    "after": "a turn. Detective, pull the maps closer; I ",
+    "before_sha256": "96b056f54f7158ae2ca13a094f1886bba3f859fbcbcbf37035c5f972a96cc8ae",
+    "target_sha256": "581d6b3fa52ba6762dcd8c010bd2ec542e3e3e32247681ac36b8cff84a496b5e"
+  },
+  {
+    "id": "page121.block30",
+    "page": 121,
+    "before": "closer before they recover.\n",
+    "after": "want to see what we've been walking past.\n",
+    "before_sha256": "51d50a2ef22ed13e8cc61786e9ea4ea96797afcff3151dfec4b68dbf7b521a7d",
+    "target_sha256": "328de629ce8fc593cc096da52cf49f1a290e94f53b0bfb68670853a9b3cf9082"
+  },
+  {
+    "id": "page125.block12",
+    "page": 125,
+    "before": "Clean hands.\nFlat map. No\nheroic folding.\n",
+    "after": "Clean hands. Flat map. No heroic folding. This plan is older than all your favorite excuses.\n",
+    "before_sha256": "f310226c59643e43b2e1e3bbac2670f1fb7d4cbdc20077461bd068fa79718b67",
+    "target_sha256": "55150fabf2e49b5aff803973cf11b606d3a13edcb78c8c43a391ff3ae8fcf8f1"
+  },
+  {
+    "id": "page125.block14",
+    "page": 125,
+    "before": "What about a\n",
+    "after": "Am I allowed one heroic finger? I only want to ",
+    "before_sha256": "dc7c084d6472709d7e70443df9787d39ff69174daf22f412ca10c0773ffaffe9",
+    "target_sha256": "c33a8854676ec87267ab92a2f6765cbd013fce0f0ab05976acfa48f8970d4779"
+  },
+  {
+    "id": "page125.block15",
+    "page": 125,
+    "before": "small heroic\n",
+    "after": "point. I can do it at a ",
+    "before_sha256": "08b6c1860e7210e2cd327c1933b7b48e9f1c106238e5089c0cfa52d4f8ef8d12",
+    "target_sha256": "972cd7843b67b5d83c64a4d4ae4969434e87dc83b0392551cbd735931c37175f"
+  },
+  {
+    "id": "page125.block16",
+    "page": 125,
+    "before": "point?\n",
+    "after": "perfectly sensible distance.\n",
+    "before_sha256": "4dc21b471c53b2511fed91260749ab5b601ff333deb2f319284c771791944021",
+    "target_sha256": "d3b8b794e0433aa085c87173937bf2b4b5f651eaf79180d5a34fe2ba9fea94dd"
+  },
+  {
+    "id": "page125.block18",
+    "page": 125,
+    "before": "One finger. A\nlandmark. I can\n",
+    "after": "One clean finger, above a landmark. No prodding. The building has survived this long without you ",
+    "before_sha256": "7e05398e80954184a9a4a2fc242f2acb36ef74233027aff741a55b27a49e41a4",
+    "target_sha256": "65f0b1e05357cbf4fbd2773d054ed601a8512d09c7f0762c10a8b7df23447b31"
+  },
+  {
+    "id": "page125.block19",
+    "page": 125,
+    "before": "allow it.\n",
+    "after": "poking a new room into it.\n",
+    "before_sha256": "a05eba2645e59a6c56baee9c4d2e17edcc6a8525f39157ab504df2c1f51c94fc",
+    "target_sha256": "581750f0847373f3bc90338018066a368ef1e03edc84f0b966600233ed5bc294"
+  },
+  {
+    "id": "page125.block21",
+    "page": 125,
+    "before": "We solved a parcel\n",
+    "after": "We solved a whole parcel mystery, recovered your archive ",
+    "before_sha256": "405a1c55839c3495db6c2342fa911d6deede8b072ac832d0d43aeed1155d1256",
+    "target_sha256": "a57671aa0d3d0d2dc6b893f423ecae3ad910e86ed59afa2d62e0b4efeeff2bbd"
+  },
+  {
+    "id": "page125.block22",
+    "page": 125,
+    "before": "just to earn\npermission for one\n",
+    "after": "tools and earned permission for one finger. I was hoping for at least ",
+    "before_sha256": "c8386b311791d7d35c5f5556fe99796e5009b95be07c8eeb508e2715de8c8fe7",
+    "target_sha256": "7cdc8d87c3bf57ec8cb65771f5e7d636e5b94182c94efb82f117bc93a768da8f"
+  },
+  {
+    "id": "page125.block23",
+    "page": 125,
+    "before": "finger.\n",
+    "after": "a whole hand.\n",
+    "before_sha256": "66a911062d15cfc2df89aab78d2dff5d65324ca29f34b33c597223adf0222951",
+    "target_sha256": "08e29ea3b632680e198ed19816cb1aade688b6cdfac45fff81ac50caa93603dc"
+  },
+  {
+    "id": "page125.block25",
+    "page": 125,
+    "before": "A worthy investment.\n",
+    "after": "A worthy investment. The sleeve can touch the map; your finger can hover. Now, who's going to help me line up the plans?\n",
+    "before_sha256": "a84f315bd561dfe4fabe5aace38c4ab341d869179fab83e748bf0d697c2e89b1",
+    "target_sha256": "f936db233af4131f8f4b1bc4f1355c5b2ffd4597e0c9ac950134c094c279d39a"
+  },
+  {
+    "id": "page129.block05",
+    "page": 129,
+    "before": "I have put my tunnel proposal on a separate card.\n",
+    "after": "I've put my tunnel proposal on a separate card. It looks much more convincing with a heading and a straight border.\n",
+    "before_sha256": "14e64c2858a23ee68c3cc19fde8828753a3bb91b90d32b63933cc1556f5eebdc",
+    "target_sha256": "a6adaafefdc4f626c73c057d6bda8f5d95d8528efa761227b076ae30a0465bd0"
+  },
+  {
+    "id": "page129.block07",
+    "page": 129,
+    "before": "How much evidence is on the card?\n",
+    "after": "How much evidence is on the card? I'm asking before you draw a crest for it.\n",
+    "before_sha256": "2f00cf12702d48fd2b46a343abb210e8e9e6914caecb51d742c3309efb4abc66",
+    "target_sha256": "e077bb577105b13a063d050b05e456521ce92a00e8322b88b094505503ef176a"
+  },
+  {
+    "id": "page129.block09",
+    "page": 129,
+    "before": "At present? Decorative confidence.\n",
+    "after": "At present? Decorative confidence. I gave that quite a lot of space.\n",
+    "before_sha256": "7fca885ef5cf5511fce4ccf0c363ab5c242385347e0ec0423d2ca1918d328902",
+    "target_sha256": "f7b1744e19dd08215528a18caeaa1accba249b420cc1f6facb97b62d55f7f2ba"
+  },
+  {
+    "id": "page129.block11",
+    "page": 129,
+    "before": "I'd like a card. Some of my very organised plans are mostly ",
+    "after": "I'd like a card. Some of my very organized plans are mostly that. I've been calling it 'being prepared' and hoping nobody asks ",
+    "before_sha256": "25e343e9f8fc0f9380af7ede51174d5e54943d803496f0a1b1c7394578bcefd6",
+    "target_sha256": "6794f8e76d4d4a0246586a3d7b4c377b959f617b8e49561fd4131f2c32bc79aa"
+  },
+  {
+    "id": "page129.block12",
+    "page": 129,
+    "before": "that.\n",
+    "after": "for details.\n",
+    "before_sha256": "07497dc06e8ff89566b30a0d0c8e9f50118695f794d9c5649254dd98bf7236b1",
+    "target_sha256": "e80698bf70d9b466c34e5f0ee909070efcca372029101b2c9b5083d247ce2006"
+  },
+  {
+    "id": "page129.block14",
+    "page": 129,
+    "before": "Make it two. I used to call mine 'experience'.\n",
+    "after": "Make it two. I used to call mine 'experience'. That's why I like your question, Luli. It used to annoy me terribly.\n",
+    "before_sha256": "6fb8646c21182b529e15d662435c4fb7988d9947e7a923e9de5193e03b879f3a",
+    "target_sha256": "5aa31f59a58eb7013fe2a3e22e050dd1fd946ddcfd027abad64a1c89f5bf78ec"
+  },
+  {
+    "id": "page133.block05",
+    "page": 133,
+    "before": "That's a lot of map. I'll clear some space.\n",
+    "after": "That's a lot of map. I'll clear some space. Nobody balance anything on the Detective's elbow; I've tried that system and can't recommend it.\n",
+    "before_sha256": "fecc231715675c5cf7031f69274d361b5b2f91098db1bc9b22e1faeb3655c84c",
+    "target_sha256": "b63f2fa74dd0f7b4c980dbc4d7cd59b80d3bdec6ee0dae6afded8c77efde4bd2"
+  },
+  {
+    "id": "page133.block07",
+    "page": 133,
+    "before": "Take your time. We are not going anywhere.\n",
+    "after": "Take your time. We're not going anywhere. If you need to stare at one corner for a while, I'll check the other one with you.\n",
+    "before_sha256": "27bedd90c11559b4acebf3e14e136c6b513350f121a69d33a11ef091263863f9",
+    "target_sha256": "d49a98e1948b76525776243558cf11c8aadc996773e0948a0e07cf779b9e8e3a"
+  },
+  {
+    "id": "page133.block09",
+    "page": 133,
+    "before": "I can be quiet for one map.\n",
+    "after": "I can be quiet for one map. A big one. I'm making a serious offer here.\n",
+    "before_sha256": "22daaf8699907684e553571ff6779452d15bc07a649c831beef71538d45bd2aa",
+    "target_sha256": "1406872a1a435bd765a69c600df2cd16ee5a8366184e74acc06f335aaf2677ba"
+  },
+  {
+    "id": "page133.block13",
+    "page": 133,
+    "before": "Make the call when you're ready.\n",
+    "after": "Make the call when you're ready. We're here.\n",
+    "before_sha256": "56b393bba6d5703fd01556f1957f0c0b7fb7b58f1c1c21878d6716671ddc6c25",
+    "target_sha256": "d58e2bdb384944c1a8be7399960a2aa7371463ed61c3f526b509b3deea48fa89"
+  },
+  {
+    "id": "page137.block08",
+    "page": 137,
+    "before": "already proved.\n\nHAPPY MAKERS COMMS\n1 MIMI: Case Wall ready? Then the panel's yours.\n2 DILO: And the victory noise is mine.\n",
+    "after": "already proved.\n\nHAPPY MAKERS COMMS\n1 MIMI: No new clue. Use what you earned. Your Case Wall has the record; the panel's ready when you are.\n2 DILO: Victory noise? I've been saving a very good one. I'm worried it's going to escape without permission.\n",
+    "before_sha256": "9fdac79b3db172a35c7f96f25a5c13c1bdf9f384d9cf0abb4f351b490c38f195",
+    "target_sha256": "94e7dcdd8b7a6df497ed452d81ed25cd73ef0982aac41ea45cb515d0c4a838b0"
+  },
+  {
+    "id": "page137.block09",
+    "page": 137,
+    "before": "3 LULI: Keep it in your head until the door opens.\n4 NINI: Mine's already getting a bit loud in there.\n5 BIBI: Go on, Detective. We'll be right behind you.\n",
+    "after": "3 LULI: Keep it in your head until the door opens. If you're going to celebrate early, at least do it where the rest of us can't hear it.\n4 NINI: Mine's already getting loud in there. We can compare them afterwards. Detective gets to hear the door first.\n5 BIBI: Go on, Detective. You've been with us from the black envelope to this panel. We're right behind you.\n",
+    "before_sha256": "ff0728558492a63b31adad88a1bbf001cb43d6f366efa355a9fe3361dfd1a58c",
+    "target_sha256": "df9207028151f7d40cf7781d833bc9ddb812aef4bd31f0d7c6931f8545ca9e3b"
+  }
+]

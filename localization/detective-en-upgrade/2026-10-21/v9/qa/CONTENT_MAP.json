@@ -1,0 +1,497 @@
+{
+  "source_folios": 225,
+  "canonical_units": 3067,
+  "dialogue_scenes": [
+    {
+      "id": "INTRO07",
+      "folios": [
+        7
+      ],
+      "turns": 3,
+      "speakers": [
+        "MIMI",
+        "LULI",
+        "DILO"
+      ]
+    },
+    {
+      "id": "CASEWALL12",
+      "folios": [
+        12
+      ],
+      "turns": 6,
+      "speakers": [
+        "DILO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "BIBI",
+        "MIMI"
+      ]
+    },
+    {
+      "id": "CASE01",
+      "folios": [
+        16
+      ],
+      "turns": 5,
+      "speakers": [
+        "MIMI",
+        "ALIO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ]
+    },
+    {
+      "id": "CASE02",
+      "folios": [
+        19
+      ],
+      "turns": 5,
+      "speakers": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "NINI"
+      ]
+    },
+    {
+      "id": "CASE03",
+      "folios": [
+        23
+      ],
+      "turns": 5,
+      "speakers": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI"
+      ]
+    },
+    {
+      "id": "CASE04",
+      "folios": [
+        27
+      ],
+      "turns": 6,
+      "speakers": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ]
+    },
+    {
+      "id": "CASE05",
+      "folios": [
+        31
+      ],
+      "turns": 6,
+      "speakers": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ]
+    },
+    {
+      "id": "THREAD34",
+      "folios": [
+        34,
+        35
+      ],
+      "turns": 4,
+      "speakers": [
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ]
+    },
+    {
+      "id": "CASE06",
+      "folios": [
+        37
+      ],
+      "turns": 8,
+      "speakers": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI"
+      ]
+    },
+    {
+      "id": "CASE07",
+      "folios": [
+        41
+      ],
+      "turns": 5,
+      "speakers": [
+        "MIMI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ]
+    },
+    {
+      "id": "CASE08",
+      "folios": [
+        45
+      ],
+      "turns": 5,
+      "speakers": [
+        "ALIO",
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "DILO"
+      ]
+    },
+    {
+      "id": "CASE09",
+      "folios": [
+        49
+      ],
+      "turns": 6,
+      "speakers": [
+        "DILO",
+        "BIBI",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "ALIO"
+      ]
+    },
+    {
+      "id": "CASE10",
+      "folios": [
+        53
+      ],
+      "turns": 5,
+      "speakers": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ]
+    },
+    {
+      "id": "CASE11",
+      "folios": [
+        57
+      ],
+      "turns": 6,
+      "speakers": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "MIMI",
+        "DILO",
+        "MIMI"
+      ]
+    },
+    {
+      "id": "CASE12",
+      "folios": [
+        61
+      ],
+      "turns": 5,
+      "speakers": [
+        "DILO",
+        "NINI",
+        "DILO",
+        "NINI",
+        "DILO"
+      ]
+    },
+    {
+      "id": "CASE13",
+      "folios": [
+        65
+      ],
+      "turns": 6,
+      "speakers": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "LULI"
+      ]
+    },
+    {
+      "id": "CASE14",
+      "folios": [
+        69
+      ],
+      "turns": 6,
+      "speakers": [
+        "DILO",
+        "NINI",
+        "LULI",
+        "MIMI",
+        "ALIO",
+        "LULI"
+      ]
+    },
+    {
+      "id": "CASE15",
+      "folios": [
+        73
+      ],
+      "turns": 4,
+      "speakers": [
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "ALIO"
+      ]
+    },
+    {
+      "id": "CASE16",
+      "folios": [
+        77
+      ],
+      "turns": 6,
+      "speakers": [
+        "ALIO",
+        "BIBI",
+        "MIMI",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ]
+    },
+    {
+      "id": "CASE17",
+      "folios": [
+        83
+      ],
+      "turns": 6,
+      "speakers": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ]
+    },
+    {
+      "id": "CASE18",
+      "folios": [
+        87
+      ],
+      "turns": 5,
+      "speakers": [
+        "MIMI",
+        "DILO",
+        "NINI",
+        "DILO",
+        "LULI"
+      ]
+    },
+    {
+      "id": "CASE19",
+      "folios": [
+        91
+      ],
+      "turns": 6,
+      "speakers": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ]
+    },
+    {
+      "id": "CASE20",
+      "folios": [
+        95
+      ],
+      "turns": 6,
+      "speakers": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "DILO",
+        "MIMI",
+        "NINI"
+      ]
+    },
+    {
+      "id": "CASE21",
+      "folios": [
+        99
+      ],
+      "turns": 7,
+      "speakers": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI",
+        "DILO"
+      ]
+    },
+    {
+      "id": "CASE22",
+      "folios": [
+        105
+      ],
+      "turns": 5,
+      "speakers": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "DILO"
+      ]
+    },
+    {
+      "id": "CASE23",
+      "folios": [
+        109
+      ],
+      "turns": 5,
+      "speakers": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ]
+    },
+    {
+      "id": "CASE24",
+      "folios": [
+        113
+      ],
+      "turns": 6,
+      "speakers": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "LULI",
+        "MIMI",
+        "ALIO"
+      ]
+    },
+    {
+      "id": "CASE25",
+      "folios": [
+        117
+      ],
+      "turns": 5,
+      "speakers": [
+        "NINI",
+        "MIMI",
+        "DILO",
+        "ALIO",
+        "MIMI"
+      ]
+    },
+    {
+      "id": "THREAD120",
+      "folios": [
+        120
+      ],
+      "turns": 5,
+      "speakers": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "MIMI"
+      ]
+    },
+    {
+      "id": "CASE26",
+      "folios": [
+        121
+      ],
+      "turns": 5,
+      "speakers": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "MIMI",
+        "BIBI"
+      ]
+    },
+    {
+      "id": "CASE27",
+      "folios": [
+        125
+      ],
+      "turns": 5,
+      "speakers": [
+        "BIBI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ]
+    },
+    {
+      "id": "CASE28",
+      "folios": [
+        129
+      ],
+      "turns": 5,
+      "speakers": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "BIBI"
+      ]
+    },
+    {
+      "id": "CASE29",
+      "folios": [
+        133
+      ],
+      "turns": 5,
+      "speakers": [
+        "MIMI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI"
+      ]
+    },
+    {
+      "id": "CASE30",
+      "folios": [
+        137
+      ],
+      "turns": 5,
+      "speakers": [
+        "MIMI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ]
+    }
+  ],
+  "all_other_content": "ExactV8GOLDENKEEP; actualfullV8reviewreceipts inheritedonlyafterbyteidentity."
+}

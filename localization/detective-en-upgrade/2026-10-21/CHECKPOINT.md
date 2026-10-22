@@ -1,15 +1,13 @@
-# Detective Academy EN V8 checkpoint
+# HM Comms final checkpoint
 
-Status: OWNER_READ_CANDIDATE. Complete owner-authorized multidisciplinary English audit and integrated editorial corrections.
+Status: OWNER_READ_CANDIDATE. Owner-authorizedHMComms-onlyoriginal/V7merge andricherfamilyscenescomplete.
 
-Exact candidate SHA256: `d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e`. Baseline V7: `df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1`.
+Canonical candidate SHA256: `fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3`. V8baseline: `d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e`.
 
-Four actual independent specialists covered story/native/humor; audience/developmental sensitivity/mentor support; all30 puzzle meaning/logic; reader engagement/promise/marketing. One root writer integrated47semanticgroups,146stableunits on41folios. Strong existing Comms preserved; onlyCase04Nini taskredirect changed in main30scenes. Hat becomes a current-tableprop, Dilo ending preserves carefulgrowth; mapdefinitions, supportnavigation, rulecopyorder, contract/payoff,15mapreasoning,05codeproof,26extractiontable,27alignmentreasoning improved.
+34scenes,183spoken turns,173spokenstringschanged,210stableunitschangedon35sourcefolios.2847outside-Commsunits andmixed137narrativeprefix exact. All143nonCommsV8repairs andall27V6repairs exact.30cases/90hints/30solutions/maps unchanged.
 
-Actual fresh independent CSP: all16maps each ONE FULL roster. All14othercases actuallychecked,90hints/30solutions read. All27V6repairs,16witnessboards,30answerheaders and107printedplacements unchanged. Case02unmarkedC3blocked byclearpositivekey; Case19actualF7blackmarker modeled. Case26explicit8zoneexclusions close unprintedROOM/ZONEkeygap. Four0records/14mapset/finaleinputs preserved.
+FouractualindependentstagesPASS exacthash; actualR1FIXreceipts retained, actual17turn15sceneclosure. Native/comedy reviewer additionallyrereadall34finalshortdialogues. CLI deterministicPASS/OWNER_READ_CANDIDATE; noopenissues/sourceambiguities. Thisisnotanew225foliopuzzleaudit.
 
-Final independent native/audience/meaning/logic PASS on exacthash. Historicalbc90/460a reasoningFIXreceipts retained, not relabelledPASS. Run-r2canonical; runhistorical.
+Complete225pagePDF SHA256: `48c91d7a578cb340018d20fd1656a31e140d41114d50667c254718b169f2f64a`. Standalone34pageCommsPDF SHA256: `05cd3424f2d9f2fc36b59f31f130a5e8c8a221abf459591b2b2978fa85eaa4bf`. Bookminimum10.5pt;standalone11.5pt. Independent190leaftext/pixelidentity,35strictnonCommsremainders and183speakerpairsPASS. Actualvisualreceiptgovernssamplecoverage; rootall69foliosin8contactsoverview.
 
-Reading PDF225pages SHA256 `67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230`.173regeneratedtextleaves atminimum10.5pt;50evidence/designedsourceleavespixelidenticalV7,148/184boundednativePDFtextpatches. Actual independent fullsizechanged-folio checks and saved-PDFbindings inreviews; root225folio contact-layout pass isthumbnail-only. FinalBookFactorytypesetting/physicalprint notclaimed.
-
-Consume integration/EDITORIAL_IMPORT_PACKET_V8.json through existing soleBookFactorywriter; originalV7contractand16→15/27→26 remaps remain. No productrenderer/source, PLversion, mainmerge, publication, contentfreeze or Actionsdispatch. HostedCIgreen notconfirmed.
+ExistingsoleBookFactorywriterreceives210operationdelta plus3067targethashes andsame183speakerorder. Productionimport/physicalprint/release remainseparate. No productrenderer,PL,mainmerge,publication,freezeorhostedCIgreen claim.

@@ -1,9 +1,9 @@
-# Detective Academy English — current V8
+# Detective Academy English - V8 with final HM Comms
 
-The current complete English editorial master is under `v8/`; exact candidate, reading PDF, actual joint review and scope are in `v8/CHECKPOINT.md`.
+Current complete editorial master: `v9/candidate/candidate.json`, exacthash andactualreviews in `v9/CHECKPOINT.md`. TheownerrequestedonlyHMComms changesafterV8. AllV8nonCommscontent,puzzles,hints,solutionsandfiguresremainexact. HistoricalV8/V7/V6stayversioned.
 
-V8 completes the owner-requested multidisciplinary whole-book audit: four actual specialist agents, one writer,47semantic repairs/146stableunits/41folios. All30cases/90hints/30solutions reviewed. All16maps have one full roster under actual fresh independent enumeration; all14other tasks checked. All27V6repairs,107placements and final inputs remain.
+Fouractualreviewers/onewriterrestoredoriginalcomicvoicesandmergedsuccessfulV7familybeatsinto34fullerexchanges/183turns. Finalnative/comedy,audience,meaningandcontinuityPASS.210stableunitschangeon35folios;2847nonCommsunits andallpriorpuzzlerepairsremainexact.
 
-The225pageEnglishPDF and28pagePolishaudit/change report are saved, together with the complete source/QA/review archive. Exact Library identities and versions are in `v8/qa/LIBRARY_RECEIPT.json`. Historical V7/V6 remain versioned.
+Standalone34pageCommsPDF andcomplete225pagebookweresaved, withthecomplete103fileprovenance/review/QAarchive. Exactidentitiesandversions: `v9/qa/LIBRARY_RECEIPT.json`. IndependentPDFbinding:190leavestext/pixelsidentical,35reflowedleavesnonCommsremainderequal,all183speakerturnspresent. Finalvisualscopeisexplicit,notafalse225fullsizeprintclaim.
 
-Existing soleBookFactorywriter consumes `v8/integration/EDITORIAL_IMPORT_PACKET_V8.json` over inheritedV7sourcecontract. Productionlayout/physicalprint/release are separate. No PLmigration, productrendererchange, mainmerge, publication or freeze.
+TheexistingsoleBookFactorywriterconsumes`v9/integration/EDITORIAL_IMPORT_PACKET_HM_COMMS_FINAL.json`overV8/V7contracts. Preservefullspokenwordingandportraitorder; donotabridgetofit. Productiontypesetting/physicalprint/releaseareseparate. NoPLmigration,productrendererchange,merge,publicationorfreeze.

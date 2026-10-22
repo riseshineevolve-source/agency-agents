@@ -1,0 +1,28 @@
+{
+  "owner_authority": "OWNER_AUTHORITY.json",
+  "current_product_truth": "V8lockedexceptexplicitHMCommsallowlist",
+  "sources": [
+    {
+      "version": "owner225original",
+      "pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+      "access": "Priorverified30caseComms in source-scenes.json; no claimednewPDFdownload."
+    },
+    {
+      "version": "V7",
+      "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+      "path": "recovery/unpacked/detective-v7/candidate/candidate.json"
+    },
+    {
+      "version": "V8",
+      "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+      "pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+      "authority": "OwnerpreserveseverythingexceptComms."
+    }
+  ],
+  "result": {
+    "version": "V8withfinalHMComms",
+    "internal_revision": "V9",
+    "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+  },
+  "no_puzzle_reaudit": "UnchangedV8mechanicalreceipts inheritedafterexactbyte/pixelbinding; no repeatedsuccessespretended."
+}

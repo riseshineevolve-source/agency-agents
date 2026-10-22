@@ -1,0 +1,291 @@
+{
+  "stage": "audience",
+  "candidate_sha256": "138fffc57d1d8e6da7ee41f8e4c98eba680c5cb7b9ca2b01f87d8633abd3670e",
+  "status": "FIX",
+  "reviewer": "/root/hm9_reader_ear — independent 8–12 reader/family-ear and supportive-mentor editorial reviewer",
+  "scope": "Actual full read of all34 dialogue scenes/183turns in the R1candidate, compared with original-main30/V7/V8 diagnostic and supplied neighboring locked V8context. Text-only audience/readaloud review; no new puzzle solve, clinical assessment, final PDF/layout or human child test claimed.",
+  "evidence": "The longer scenes generally have intelligible reactions and payoffs. Sharp affectionate teasing survives, adults can be wrong, Nini has agency, and Luli sometimes joins/self-teases rather than policing every joke. Case21 gives Dilo a careful continuing role; Case16 clarifies date evidence while retaining the present-day hat. The earlier Case26 brothers-reference defect is resolved. Three bounded clarity/continuity fixes remain.",
+  "findings": [
+    {
+      "id": "HM9-AUD-R1-01",
+      "severity": "FIX",
+      "status": "OPEN",
+      "scene_id": "CASE06",
+      "turn_1based": 8,
+      "segment_ids": [
+        "page037.block26",
+        "page037.block27",
+        "page037.block28"
+      ],
+      "evidence": "Bibi tells the reader \"You check the actual spoon, Detective\". The next locked objective is to find the witness sharing Uma's room, not to inspect a spoon. A young reader could search for an evidence interaction the case does not provide.",
+      "recommendation": "Retain the imaginary-dragon payoff but direct the actual job toward Uma's companion or finding someone who saw the display, without solving it."
+    },
+    {
+      "id": "HM9-AUD-R1-02",
+      "severity": "FIX",
+      "status": "OPEN",
+      "scene_id": "CASE11",
+      "turn_1based": 1,
+      "segment_ids": [
+        "page057.block05"
+      ],
+      "evidence": "Nini newly says \"I've found it\" after the locked preceding story has Mimi taking her phone from the evidence bag. This reads as an unexplained second claim to the same discovery.",
+      "recommendation": "Delete \"I've found it, but\" and let Nini comment on the phone/oat-bar companionship. No need to change who found the phone."
+    },
+    {
+      "id": "HM9-AUD-R1-03",
+      "severity": "FIX",
+      "status": "OPEN",
+      "scene_id": "CASE14",
+      "turn_1based": 6,
+      "segment_ids": [
+        "page069.block15"
+      ],
+      "evidence": "Alio now asks \"Not even one recipe?\" and Luli responds \"Not a crumb.\" Her former food-answer fragment no longer answers the new question.",
+      "recommendation": "Start \"Not one on cooking.\" then continue the journey check/Alio lunch-inspection reply; remove \"Not a crumb\" and unnecessary \"either\"."
+    }
+  ],
+  "coverage": [
+    {
+      "scene_id": "INTRO07",
+      "turns_read": 3,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "turns_read": 6,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE01",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE02",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE03",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE04",
+      "turns_read": 6,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE05",
+      "turns_read": 6,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "THREAD34",
+      "turns_read": 4,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE06",
+      "turns_read": 8,
+      "decision": "FIX",
+      "finding_ids": [
+        "HM9-AUD-R1-01"
+      ]
+    },
+    {
+      "scene_id": "CASE07",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE08",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE09",
+      "turns_read": 6,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE10",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE11",
+      "turns_read": 6,
+      "decision": "FIX",
+      "finding_ids": [
+        "HM9-AUD-R1-02"
+      ]
+    },
+    {
+      "scene_id": "CASE12",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE13",
+      "turns_read": 6,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE14",
+      "turns_read": 6,
+      "decision": "FIX",
+      "finding_ids": [
+        "HM9-AUD-R1-03"
+      ]
+    },
+    {
+      "scene_id": "CASE15",
+      "turns_read": 4,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE16",
+      "turns_read": 6,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE17",
+      "turns_read": 6,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE18",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE19",
+      "turns_read": 6,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE20",
+      "turns_read": 6,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE21",
+      "turns_read": 7,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE22",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE23",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE24",
+      "turns_read": 6,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE25",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "THREAD120",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE26",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE27",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE28",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE29",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    },
+    {
+      "scene_id": "CASE30",
+      "turns_read": 5,
+      "decision": "KEEP",
+      "finding_ids": []
+    }
+  ],
+  "nonblocking_notes": [
+    {
+      "scene_id": "CASE05",
+      "note": "The final turn explains conflict of interest after its short punchline. Humor/native reviewer may prefer a tighter tail; not an audience blocker because it gives an unfamiliar phrase context."
+    },
+    {
+      "scene_id": "CASE08",
+      "note": "The load-bearing definition trades joke speed for younger-reader comprehension. This is understandable, not an audience failure; avoid adding still more explanation."
+    },
+    {
+      "scene_id": "CASE13",
+      "note": "Meaning reviewer should ensure \"evidence still stubbornly unfoxy\" is read as a fanciful-theory jab, not a new established deduction before the contact is earned."
+    }
+  ],
+  "positive_keeps": [
+    "Case01 restored fuller exuberant tunnel/minivan pitch and recognizable sibling response.",
+    "Case09 Bibi remains competent while checking memory; cake self-delivery is intelligible.",
+    "Case14 Luli owns a relatable error rather than teaching others from perfect authority (with bounded reply repair pending).",
+    "Case16 \"photograph's date\" removes romantic-dating ambiguity; Bibi remains able to out-tease others.",
+    "Case18 Dilo corrects his record and Luli gives practical support without a pep talk.",
+    "Case21 no group ridicule, explicit useful joins role and careful pace after paper accident.",
+    "Case23 short In a tone survives inside fuller competitive conversation.",
+    "Case24 gives Alio a reciprocal comeback about Mum's phone, balancing the teasing.",
+    "Case25 reader included through sharing biscuits and a working role, not motivational slogans.",
+    "Case26 direct present-brothers reply and Bibi's kind dinner response repair old shorthand.",
+    "Case28 adults admit their decorative confidence; it is not just a joke at Alio's expense.",
+    "Case29 allows time and practical shared checking while preserving the reader's verdict.",
+    "Case30 family accompanies the reader and the victory-noise thread has a clear continuation."
+  ],
+  "unresolved_items": 3,
+  "candidate_edited_by_reviewer": false
+}

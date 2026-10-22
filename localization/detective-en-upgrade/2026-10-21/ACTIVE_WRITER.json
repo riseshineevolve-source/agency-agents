@@ -1,9 +1,9 @@
 {
-  "state": "V9_HM_COMMS_ONLY_WORKING",
-  "owner": "root_hm_comms_20261022",
-  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
-  "checkpoint": "v9/OWNER_AUTHORITY.json",
-  "rule": "Explicitownerrequest2026-10-22: onlyHMComms; restoreoriginalrichness/mergeV7. AllV8nonCommslocked. Rootsolewriter,fouractualreviewers.",
-  "next_safe_task": "Complete34dialogues183turns, exactboundaries and independentreviews; existingsoleBookFactoryproductionwriterunchanged.",
-  "baseline_candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e"
+  "state": "HM_COMMS_FINAL_OWNER_READ_CANDIDATE__V8_PROTECTED__PRODUCTION_HANDOFF_PENDING",
+  "owner": null,
+  "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "baseline_v8_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "checkpoint": "v9/CHECKPOINT.md",
+  "rule": "OnlyHMCommsupdatedbyexplicitownerrequest. AllotherV8text/puzzlesprotectedandverifiedunchanged. ExistingexclusiveBookFactoryproductionwriterunchanged.",
+  "next_safe_task": "ExistingsoleBookFactorywriterconsumesexactHMCommsfinaldelta overlockedV8. Preservefullspokenwordingand183speakerorder; verifyrealproductionfitandphysicalproof. No furtherdialoguerewritewithoutactualdefectorownerrequest."
 }

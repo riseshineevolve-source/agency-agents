@@ -1,0 +1,196 @@
+{
+  "stage": "meaning",
+  "status": "PASS",
+  "candidate_sha256": "138fffc57d1d8e6da7ee41f8e4c98eba680c5cb7b9ca2b01f87d8633abd3670e",
+  "reviewer": "Actual independent agent /root/hm9_truth_mechanics",
+  "scope": "Actual R1 reading of all34 newly authored HMComms scenes and all183 turns in the clean manuscript, comparison against original main30/V7/V8 and diagnostic context locks; direct canonical-to-scene binding and exact non-Comms boundary checks. No unchanged puzzle was re-solved. Not a new full225-folio or visual/print review.",
+  "baseline_v8_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "clean_comms_sha256": "8d12cbb7c2d6283ef4d8ea0fcc5a042672442ad1f80995c43c888f5223f338eb",
+  "scene_data_sha256": "09da911ce9ab9a8c8e4174cfc92d32b68dbffac7abc91628ed4a7f96a6add6d9",
+  "findings": [],
+  "unresolved_issues": [],
+  "source_ambiguities": [],
+  "counts": {
+    "scenes_read": 34,
+    "turns_read": 183,
+    "changed_units_verified": 212,
+    "changed_folios": 35,
+    "protected_non_comms_units_exact": 2847,
+    "v8_non_comms_repairs_exact": 143,
+    "v6_repair_units_exact": 27
+  },
+  "boundary_evidence": "BOUNDARY_REVIEW.json",
+  "scene_findings": [
+    {
+      "scene_id": "INTRO07",
+      "status": "KEEP",
+      "evidence": "Phone-in-hand remark is explicitly conditional, so it does not prematurely recover the phone. Beep skill remains a modest offer."
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "status": "KEEP",
+      "evidence": "Theories waiting for facts and question marks remain optional conversational play; no new required Case Wall field or anti-hint rule."
+    },
+    {
+      "scene_id": "CASE01",
+      "status": "KEEP",
+      "evidence": "Tunnel/minivan clearly unproved; no real courier or outside delivery introduced. No training-grid answer exposed."
+    },
+    {
+      "scene_id": "CASE02",
+      "status": "KEEP",
+      "evidence": "Explicitly asks for someone who can explain the missing handoff; no confession/culprit/carrier solution promised by the map."
+    },
+    {
+      "scene_id": "CASE03",
+      "status": "KEEP",
+      "evidence": "Inspector Glitter is an imaginary appointment, not an eleventh evidence difference. No 017/071 or older/current reveal; whole room compared."
+    },
+    {
+      "scene_id": "CASE04",
+      "status": "KEEP",
+      "evidence": "Sealed safe box unchanged. Pixel companion is explicitly the person to ask. Blink/helmet joke does not make the box move or answer the case."
+    },
+    {
+      "scene_id": "CASE05",
+      "status": "KEEP",
+      "evidence": "Locker competition is comic personification; no code symbols, positions, bypass or new constraint."
+    },
+    {
+      "scene_id": "THREAD34",
+      "status": "KEEP",
+      "evidence": "Exactly four marks and an incomplete route. No fifth photo mark, author or routing-system explanation."
+    },
+    {
+      "scene_id": "CASE06",
+      "status": "KEEP",
+      "evidence": "Roman spoon/label disagreement preserved. Dragon cook/commute is overt fantasy; no theft or culprit claim."
+    },
+    {
+      "scene_id": "CASE07",
+      "status": "KEEP",
+      "evidence": "Cupboard scene does not locate the costume. Ends at room record; no premature prop-room reveal."
+    },
+    {
+      "scene_id": "CASE08",
+      "status": "KEEP",
+      "evidence": "Wall/door-sign dialogue retains physical route limits; no new shortcut or permission to cross a locked/closed route."
+    },
+    {
+      "scene_id": "CASE09",
+      "status": "KEEP",
+      "evidence": "Bibi distinguishes memory from knowledge. Cake conversation is self-promised family anecdote, not case evidence."
+    },
+    {
+      "scene_id": "CASE10",
+      "status": "KEEP",
+      "evidence": "Access record/witness help retained; third-owner cable joke is visibly absurd, not a new real claimant."
+    },
+    {
+      "scene_id": "CASE11",
+      "status": "KEEP",
+      "evidence": "Phone already found in story; conversation attributes a small family action without changing the timestamp task. No wrong-record answer."
+    },
+    {
+      "scene_id": "CASE12",
+      "status": "KEEP",
+      "evidence": "Cracker remains a snack request, not the four-word access phrase. Handler is consulted; no premature rehearsal-cue answer."
+    },
+    {
+      "scene_id": "CASE13",
+      "status": "KEEP",
+      "evidence": "Fox equipment is an openly retiring unproved theory. Camera strap is already a story prop; no new photographic clue."
+    },
+    {
+      "scene_id": "CASE14",
+      "status": "KEEP",
+      "evidence": "Distinguishes mistaken memory from guilt; directs checking the journey, not accusing someone. No timing answer or shortcut."
+    },
+    {
+      "scene_id": "CASE15",
+      "status": "KEEP",
+      "evidence": "Tags and satellite are a future-prevention argument; neither is introduced as current evidence solving the swap."
+    },
+    {
+      "scene_id": "CASE16",
+      "status": "KEEP",
+      "evidence": "Hat is the present hat beside the box. Explicit line says it does not date the photograph; no claim it appears in the image."
+    },
+    {
+      "scene_id": "CASE17",
+      "status": "KEEP",
+      "evidence": "Existing helmet changes imaginary departments, not equipment or map evidence. No ticket-handoff answer."
+    },
+    {
+      "scene_id": "CASE18",
+      "status": "KEEP",
+      "evidence": "Watch error acknowledged without changing printed offsets or giving chronological order. Dilo voluntarily corrects record."
+    },
+    {
+      "scene_id": "CASE19",
+      "status": "KEEP",
+      "evidence": "Scanner is checked before ghost fantasy. Machine-error possibility is already implied by the checkout contradiction, not the bump/cart answer."
+    },
+    {
+      "scene_id": "CASE20",
+      "status": "KEEP",
+      "evidence": "Pear is explicitly paint, not a witness or placed object. No witness-timing conclusion supplied."
+    },
+    {
+      "scene_id": "CASE21",
+      "status": "KEEP",
+      "evidence": "Edges before message, all pieces kept, handwriting visible, memory requires archive confirmation. Dilo remains involved and practises careful handling."
+    },
+    {
+      "scene_id": "CASE22",
+      "status": "KEEP",
+      "evidence": "No instrument names or actual new label clue invented. Family rejects changing labels; original shelf order still needs witness lead."
+    },
+    {
+      "scene_id": "CASE23",
+      "status": "KEEP",
+      "evidence": "Return-record helper sought, not the actual switcher/route outcome. Scoreboard remains comic distraction."
+    },
+    {
+      "scene_id": "CASE24",
+      "status": "KEEP",
+      "evidence": "No West Gate/direction answer or altered mud rule. Whole prints take priority over fantasy; family-album evidence is clearly comic."
+    },
+    {
+      "scene_id": "CASE25",
+      "status": "KEEP",
+      "evidence": "Parcel not opened or moved; no sleeves/clips revealed. Actual handoff/destination still checked; biscuits explicitly for people."
+    },
+    {
+      "scene_id": "THREAD120",
+      "status": "KEEP",
+      "evidence": "Selected maps laid out; no 16-map extraction claim. All maps being solved is true without including Case01 in the selected14."
+    },
+    {
+      "scene_id": "CASE26",
+      "status": "KEEP",
+      "evidence": "Nobody is a joke, not a person or new evidence. No message or zone-key change; maps stay the source."
+    },
+    {
+      "scene_id": "CASE27",
+      "status": "KEEP",
+      "evidence": "Hovering finger is character handling, not a one-anchor alignment method. Recovered sleeve exists in story; no folding/scale change/new coordinate."
+    },
+    {
+      "scene_id": "CASE28",
+      "status": "KEEP",
+      "evidence": "Tunnel remains decorative confidence; adult anecdotes do not supply the missing rule word or evidence."
+    },
+    {
+      "scene_id": "CASE29",
+      "status": "KEEP",
+      "evidence": "Reader gets time and collaborative support. No companion/access answer or new urgency."
+    },
+    {
+      "scene_id": "CASE30",
+      "status": "KEEP",
+      "evidence": "No new clue, four inputs unchanged, door still awaits earned checks. Victory noise remains prospective; no room/author/badge reveal."
+    }
+  ],
+  "limits": "Canonical meaning/scope review only. Inherited V8 puzzle verification remains applicable because the puzzle content is unchanged; no assertion of new mathematical solves, final layout or physical print approval."
+}

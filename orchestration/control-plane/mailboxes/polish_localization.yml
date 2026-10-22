@@ -1,7 +1,7 @@
 lane: polish_localization
 title: Polish Localization Engine
 updated: '2026-10-22'
-status: V8_OWNER_READ_CANDIDATE__ACTUAL_JOINT_WHOLE_BOOK_AUDIT_COMPLETE
+status: HM_COMMS_FINAL_OWNER_READ_CANDIDATE__V8_NON_COMMS_LOCKED_AND_PRESERVED
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   engine_base_branch: codex/polish-engine-main-reconcile
@@ -331,6 +331,64 @@ milestone:
     ci: NOT_CONFIRMED_GREEN; no Actionsdispatch
     handoff: ExistingexclusiveBookFactorywriter consumesV8packet over inheritedV7contract and fourV6correctedleaves. Finalproductionfit/print/ownerrelease
       separate.
+  detective_hm_comms_final:
+    owner_authority: 'Explicit22Octoberrequest: restorefulleroriginalHMComms, mergegoodV7, sharpwarmfamilywit; onlyCommsunlocked,
+      allV8puzzlesandothertextpreserved.'
+    path: localization/detective-en-upgrade/2026-10-21/v9
+    baseline_v8_sha256: d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e
+    candidate_sha256: fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3
+    scenes: 34
+    spoken_turns: 183
+    changed_spoken_turns: 173
+    changed_stable_units: 210
+    changed_folios: 35
+    single_writer: root
+    actual_specialist_agents: 4
+    actual_reviews: native/comedy,audience,meaning,family-continuitylogicPASSexacthash; actualR1FIXhistoryand17turn15sceneclosure
+      retained; all34initialdialoguesread.
+    protected: 2847nonCommsunits,mixed137prefix,143nonCommsV8repairs,27V6repairs,allpuzzles/hints/solutions and183speakerorder
+      exact.
+    book_pdf_sha256: 48c91d7a578cb340018d20fd1656a31e140d41114d50667c254718b169f2f64a
+    book_pages: 225
+    comms_pdf_sha256: 05cd3424f2d9f2fc36b59f31f130a5e8c8a221abf459591b2b2978fa85eaa4bf
+    comms_pages: 34
+    pdf_checks: Independent190leaftext/pixelidentity+35strictnonCommsremainders+183speech/speakerroundtripsPASS. Actualindependent16fullsizePopplerviews;
+      root69folios/8contactsoverview+2fullsize. Bookmin10.5pt,Comms11.5pt.
+    cli: OWNER_READ_CANDIDATE deterministicPASS; noopenissues/sourceambiguities. Unchangedpuzzlesnotre-solved.
+    archive_sha256: 816115c0c16433104455fe81dad7fd4bae9caaebdfcb2613c54fb6cc1cd8b3c5
+    archive_files: 103
+    library:
+    - local_path: /workspace/scratch/e6eabdc4c3a0/detective-v9/proof/HAPPY_MAKERS_COMMS_FINAL_EN.pdf
+      purpose: create_library_file
+      status: succeeded
+      file_id: file_00000000fed481f59d2bbb625ade087e
+      library_file_id: libfile_0e1f9470e4688191bc996d9a967513e9
+      file_name: HAPPY_MAKERS_COMMS_FINAL_EN.pdf
+      local_metadata_applied: true
+      path: /HAPPY_MAKERS_COMMS_FINAL_EN.pdf
+      current_version_number: 0
+    - local_path: /workspace/scratch/e6eabdc4c3a0/detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf
+      purpose: replace_library_file
+      status: succeeded
+      file_id: file_0000000058ac81f59ab0dc80f646dc3d
+      library_file_id: libfile_94471e8e05548191adec7eee0ccdf2e0
+      file_name: DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf
+      local_metadata_applied: true
+      path: /DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf
+      current_version_number: 3
+    - local_path: /workspace/scratch/e6eabdc4c3a0/deliverables/RSE_DETECTIVE_HM_COMMS_FINAL_20261022.zip
+      purpose: replace_library_file
+      status: succeeded
+      file_id: file_00000000fd6481f5bcbd6069b3371fdc
+      library_file_id: libfile_da1bed141d108191a32b9d5d4a7a893b
+      file_name: RSE_DETECTIVE_HM_COMMS_FINAL_20261022.zip
+      local_metadata_applied: true
+      path: /RSE_DETECTIVE_HM_COMMS_FINAL_20261022.zip
+      current_version_number: 4
+    production_source_renderer_PL_main_merge_publication_freeze: false
+    ci: Nohostedgreenclaim; noActionsdispatch
+    handoff: ExistingsoleBookFactorywriter consumes210HMCommsdeltaoverV8/V7contracts. Fullspokenwording andportraitorder retained;
+      noabridgingtofit. Finaltypesetting/physicalproofseparate.
 blocker:
 - Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer evidence
   not available.
@@ -372,9 +430,9 @@ dependencies_needed:
     assets/data and preserveapprovedGuides/ENlayout. Resolve exactsource/fact/safety gates, browserdesktop/mobile parity and
     actualdeployment before noindexrelease; no publication authorized by localization QA.
 - lane: detective_book_factory
-  need: Consume EXACT V8 candidate d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e and v8/integration/EDITORIAL_IMPORT_PACKET_V8.json
-    over inherited V7 original-source packet.146V8operations/3067targethashes; all27V6repairs/fourcorrectedleaves preserved.
-    Existing16→15/27→26remaps retained. Finalproductimport/fit/print receipts remain pending; no PLmigration.
+  need: Consume EXACT HMCommsfinal candidate fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3 and v9/integration/EDITORIAL_IMPORT_PACKET_HM_COMMS_FINAL.json
+    over existingV8/V7contracts.210Commsoperations/3067targethashes,183unchangedspeakerportraitorder; allV8nonComms/27V6repairs/figuresretained.
+    Fullwordingmustsurviveimport; finaltypesetfit/art/physicalproof remainswithsoleBookFactorywriter. NoPLmigration.
 reusable_outputs:
 - https://github.com/riseshineevolve-source/agency-agents/pull/37
 - scripts/gentle-steps-r6-proof.py
@@ -404,9 +462,14 @@ reusable_outputs:
 - localization/detective-en-upgrade/2026-10-21/v8/candidate/candidate.json
 - localization/detective-en-upgrade/2026-10-21/v8/proof/DETECTIVE_EN_V8_FULL_ENGLISH.pdf
 - localization/detective-en-upgrade/2026-10-21/v8/proof/DETECTIVE_EN_V8_AUDYT_I_ZMIANY.pdf
-next_safe_task: Existing soleBookFactorywriter consumes exact V8 editorial import packet, inherited V7sourcecontract and preserved
-  V6figures; bind final typeset import/fit/print receipts. No further prose pass without concrete defect or new ownerrequest.
-checkpoint_reference: localization/detective-en-upgrade/2026-10-21/v8/CHECKPOINT.md
+- localization/detective-en-upgrade/2026-10-21/v9/README.md
+- localization/detective-en-upgrade/2026-10-21/v9/CHECKPOINT.md
+- localization/detective-en-upgrade/2026-10-21/v9/candidate/candidate.json
+- localization/detective-en-upgrade/2026-10-21/v9/candidate/HAPPY_MAKERS_COMMS_FINAL_EN.md
+- localization/detective-en-upgrade/2026-10-21/v9/integration/EDITORIAL_IMPORT_PACKET_HM_COMMS_FINAL.json
+next_safe_task: ExistingsoleBookFactorywriterconsumesexactHMCommsfinaldelta overlockedV8. Preservefullspokenwordingand183speakerorder;
+  verifyrealproductionfitandphysicalproof. No furtherdialoguerewritewithoutactualdefectorownerrequest.
+checkpoint_reference: localization/detective-en-upgrade/2026-10-21/v9/CHECKPOINT.md
 model_policy_ack:
   policy: rse-weekly-usage-2026-10-21-v1
   recommended_profile: production
@@ -414,8 +477,7 @@ model_policy_ack:
   runtime_reasoning_observed: NOT_EXPOSED
   runtime_speed_observed: NOT_EXPOSED
   application_status: RECOMMENDATION_ONLY
-revenue_policy_ack: Owner-requested actualjointwholeEnglishauditandbounded146unitrepairs complete. Fourusefulspecialists,onewriter.
-  Noenginefeatures, competingtranslation, Actionsdispatch orpublication.
+revenue_policy_ack: 'OwnerHMComms-onlyrequestcomplete: fouractualusefulreviewers,onewriter,bounded34scenes. Noenginefeatures,puzzlere-audits,publicationorpaidfallback.'
 resolved_en_source_exceptions:
   version: V6
   cases:
