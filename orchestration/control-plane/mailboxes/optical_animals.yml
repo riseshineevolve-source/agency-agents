@@ -1,41 +1,40 @@
 lane: optical_animals
 title: "Optical Animals"
-updated: 2026-10-21
-status: FINAL_GRAY15_INTERIOR_DELIVERED__DIGITAL_QA_PASS__COVER_AND_PHYSICAL_RELEASE_GATE
-branch_or_repo_state: "ONE writer. Final selected grayscale interior delivered; approved source originals and product branch feat/optical-animals-book-creator unchanged."
+updated: 2026-10-22
+status: OPTICAL_ART_ARTISTIC_INTRO_DELIVERED__DIGITAL_QA_PASS__RELEASE_GATES_UNCHANGED
+branch_or_repo_state: "ONE writer. Only8intro/interlude pages revised;22approvedGRAY15bodyimage encoded streams unchanged. Product branch unchanged."
 milestone: >-
-  Owner approved whole-book15% lighter gray. Delivered48-page KDP interior,
-  live-text Canva PDF and58-file Canva pack. All20 artworks/22imagepages retain
-  black/white and native geometry; both spreads use shared tone curves.
-  Latest RSE Optical Art Series identity,16/54/11pt intro typography, accurate
-  single-sided wording, quiet page45 and closing48 all included.
+  Owner artistic revision delivered: Optical Art Series without RSEprefix,
+  Cormorant Garamond17pt/54pt/12ptAI, visible subtle gray intro and white text
+  panels. A Slower Look has one purposeful sentence; Color Your Way holds all
+  tool guidance once; Enter is title-only. Matching quiet page5motifs on44,45,48
+  and better butterfly/closing sentences.48pages; all digital/art/editorial QA PASS.
 blocker: >-
-  No remaining objective digital-interior blocker. Separate approved full-wrap
-  cover is not included. Actual Canva import, KDP account preview/upload and
-  physical paper/ink/gutter proof remain unperformed. No publication or paid order.
-owner_gate: "Cover matched to48pages/paper, KDP Print Previewer, physical proof and owner release.15% tonal choice is APPROVED and applied; do not reopen that gate."
+  No objective digital-interior blocker. Separate approved full-wrap cover,
+  actual Canva account import if editing, KDP preview and physical proof remain
+  unperformed. No publication, paid order or account upload.
+owner_gate: "Cover matched to48pages/paper, KDP Print Previewer, physical proof and release. GRAY15body and current requested intro changes completed."
 dependencies_needed:
-  - "Separate approved full-wrap cover for final48-page8.5x11 interior/paper."
+  - "Separate approved full-wrap cover for final48-page8.5x11 interior."
 reusable_outputs:
-  - "CURRENT: WILD_ILLUSIONS_RSE_FINAL_GRAY15_KDP.pdf;48pages;66633025bytes;libfile_507fe3cae5088191be459397753617d0 v2;file_00000000bc0081f587e6201bee2f9eb9"
-  - "KDP SHA25620442ed44576f27b92d59bde138285d7529e978bfd196948ac1f29a6be16821f"
-  - "Canva: WILD_ILLUSIONS_RSE_FINAL_GRAY15_CANVA.pdf;65019398bytes;libfile_4b6440500a0c81918a1f0315513d5ab3 v0"
-  - "Canva SHA256b5853b0f8ce66dadee5d20071e5e9d08a89598ac17c586e87256ec9de225d8e0"
-  - "ZIP: WILD_ILLUSIONS_RSE_FINAL_GRAY15_CANVA_PACK.zip;133719479bytes;libfile_2ae552e0151881919c6a1c49b01aef5a v0"
-  - "ZIP SHA256ff3bc147ea90757f417a81eb7b8b98812f120fca8b05d239b1ae98a5cd4003db;48grayscale300ppiPNGs,5introbackgrounds,livePDF,copy/layout,Polishguide,fontlicense,hashes."
-  - "All22embedded art payloads exactly equal intended gray15derivatives;2588x3375;8bit DeviceGray;losslessFlate/PNGpredictor15;>=300ppi;zeroSMask."
-  - "Gray density reduction14.9937–15.0111%;protected0..24black/255white exact;geometry unchanged;lion27pixel-exactapprovedtrial;pairsharedLUTs6-7and46-47."
-  - "621x810pt bleed;alternating612x792pt trim.19whitepages8,10,...44;45prelude,46-47butterfly,48closing.26non-artpages unchanged from approvedRSElayout."
-  - "Root and independent art/technical QA PASS;all48pages inbothPDFs warning-freeMuPDF/Poppler;KDP0fonts/metadata/annots/masks;CanvaEBGaramond16/54/11embedded."
-  - "All3saves succeeded;post-save hashes unchanged. Canonical grayscale identity updated fromv1withguard;historicalv1 retained."
-  - "HISTORICAL v1 gray source SHA256bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef;superseded for finalupload,localoriginalunchanged."
-  - "PureBW alternatives retained at priorcheckpoint2026-10-21-rse-pure-bw-canva.md;notselectedforpublication."
+  - "CURRENT KDP: WILD_ILLUSIONS_OPTICAL_ART_FINAL_KDP.pdf;69109094bytes;libfile_507fe3cae5088191be459397753617d0 v3;file_00000000cc8081f5b3c569e7719ab687"
+  - "KDP SHA256429938d2ad7c4fe8a4379fbd11651fd339949573bd1b81348d456b882dde42f2"
+  - "CURRENT CANVA: WILD_ILLUSIONS_OPTICAL_ART_FINAL_CANVA.pdf;68821320bytes;libfile_4b6440500a0c81918a1f0315513d5ab3 v1;file_000000009f0481f5b42d63ec6e82eb53"
+  - "Canva SHA256e15d77beac00b00a304118128ecae02ba62ef2dbcd7d4104054f699c7422c350"
+  - "CURRENT ZIP: WILD_ILLUSIONS_OPTICAL_ART_CANVA_PACK.zip;144078051bytes;libfile_2ae552e0151881919c6a1c49b01aef5a v1;file_00000000a65081f5ba785637f1747bb1"
+  - "ZIP SHA2565bb377562c893d49e8af015f73d9841d44a466b01cb1db459e59cbaac13674ea;71files includes48PNGs,8backgrounds,3fonts/license,copy/positions,guide,hashes,recoverableproducerandoriginal5backgroundinputs."
+  - "Onlypages1-5,44,45,48revised. All40unrevisedpaintstreams and22GRAY15artencodedstreams byte-identical.48pages621x810bleed;alternating612x792trim;18blankbacks8,10,...42."
+  - "Introblackpixels preserved;cartoucheswhite;directionalgraymodelingvisible.44/45/48 exactpage5fragment,3.38%pagearea,max20%gray,average0.525%digitalgraydensity."
+  - "A Slower Look: For a little while, there is only a line to follow and a color to choose."
+  - "45: Turn the page, and the pattern opens its wings. 48: What caught your eye first may not be what you notice now."
+  - "All tool guidance onlyon4;single-page/single-sided+2spreadfacts movedtoPublishing. Publisher/copyright/website retained;Facebookpromotionalcopyremoved. NoemptyISBNorRSEseriesprefix."
+  - "Root and independent art/editorial QA PASS;Poppler8revisedpages inbothPDFs warning-free;alllivechangedspansCormorant;KDP0fonts/metadata/annots/SMask;all3saves andpost-savehashes PASS."
 next_safe_task: >-
-  Provide/check separate approved cover, inspect KDP preview and physical proof,
-  then owner release. Use CURRENT FINAL_GRAY15_KDP directly if no edits.
-  Re-preflight after any Canva edits. Preserve approved originals; no automatic
-  publication, paid order, arbitrary score guarantee or rollback to old intro.
-checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-21-final-gray15-kdp.md
+  Owner visual/physical proof and separate approved cover/release. Use CURRENT
+  KDP directly if no edits; re-preflight any Canva export. Preserve GRAY15heroes,
+  current minimal copy and matched motif system. Producer archived in ZIP so
+  another workspace cleanup cannot erase reconstruction instructions.
+checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-22-optical-art-intro-final.md
 model_policy_ack: rse-weekly-usage-2026-10-21-v1
 recommended_profile: production
 runtime_model_observed: UNKNOWN
