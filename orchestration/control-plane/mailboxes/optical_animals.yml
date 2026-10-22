@@ -1,29 +1,25 @@
 lane: optical_animals
 title: "Optical Animals"
 updated: 2026-10-22
-status: OWNER_POLISH_V2_DELIVERED__ART_AND_DIGITAL_QA_PASS__RELEASE_GATES_UNCHANGED
-branch_or_repo_state: "ONE writer. Product branch unchanged. All22approvedGRAY15body encoded image streams byte-identical."
+status: HORIZONTAL_SIGNATURE_PROPOSAL_DELIVERED__DIGITAL_QA_PASS__OWNER_VISUAL_GATE
+branch_or_repo_state: "ONE writer; product branch unchanged; all22GRAY15hero encoded streams unchanged."
 milestone: >-
-  Owner corrections completed: Publishing14.5pt, heading46pt, AI10.5pt inside
-  cartouche, restored cozy spot and Facebook, removed single-sided counts.
-  A Slower Look title/divider recentered with24pt quote. Sparse20%gray matched
-  p5/45corner pattern; P5heading on306pt trim axis. Better butterfly sentences.
-blocker: "No digital interior blocker. Separate cover, actual Canva import if editing, KDP preview and physical proof remain unperformed."
-owner_gate: "Owner visual review, full-wrap cover, KDP preview, physical proof and release. No publication performed."
+  Publishing emphasis and raised AI note complete. Before butterfly sentence
+  replaced. Horizontal page4source continuation replaces vertical motif.
+  Small20%gray signature proposed on all reverses plus5/45/48.
+blocker: "No digital blocker. Owner visual acceptance of recurring reverse motif and release gates remain."
+owner_gate: "Visual acceptance, cover, physical proof, KDP preview and release."
 dependencies_needed:
-  - "Approved full-wrap cover matched to48pages and paper."
+  - "Approved full-wrap cover matched to48pages/paper."
 reusable_outputs:
-  - "CURRENT WILD_ILLUSIONS_OPTICAL_ART_REFINED_KDP.pdf;68918180bytes;SHA256 5f8407571a4d015ed6acdcce6e571399be7f899a1035ca8e1515ad27a1cb37e8;libfile_507fe3cae5088191be459397753617d0 v5 file_00000000743c81f7a0437a0538a3a3b7"
-  - "CURRENT WILD_ILLUSIONS_OPTICAL_ART_REFINED_CANVA.pdf;68620082bytes;SHA256 6f4a03681034a15a041772409bbea832aed04e7ef0ca114797f3beaebbab773c;libfile_4b6440500a0c81918a1f0315513d5ab3 v3 file_0000000044bc81f7b99b4bb0ad1f3a4e"
-  - "CURRENT WILD_ILLUSIONS_OPTICAL_ART_REFINED_CANVA_PACK.zip;143504931bytes;SHA256 35541dbc8a0899ddb1cc28768e3985eab2cdba6074a2a58b4430c3a8cf60d525;libfile_2ae552e0151881919c6a1c49b01aef5a v3 file_00000000828081f7aa537f136396ce86"
-  - "48pages621x810ptbleed; alternating612x792trim;18blankbacks8,10,...42;all40unrevisedpaintstreams and22GRAY15images unchanged."
-  - "P5/P45backgrounds pixel-identical;8.769%pagepatterncoverage,max20%gray,average1.397%gray density. Original source motifs only."
-  - "45: Let these wings unfold at the pace of your pencil. 48: The next thing can begin a little more slowly."
-  - "Root and independent art/editorial QA PASS;16revised-page Poppler renders warning-free plus final p5check. KDP0fonts/annots/SMask. ZIP71visibleentries,48PNGs,fonts,backgrounds,copylayout,manifest and producer."
-next_safe_task: >-
-  Owner visual review and physical proof; separate approved cover/release.
-  Use current KDP directly; re-preflight any Canva export. Preserve GRAY15heroes.
-checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-22-owner-polish-v2.md
+  - "CURRENT WILD_ILLUSIONS_OPTICAL_ART_SIGNATURE_KDP.pdf;69793569bytes;SHA256 9cd711f7b3b706096904c295091df119ed349a9d39cf44fdc4f3e3c92e831100;libfile_507fe3cae5088191be459397753617d0 v6 file_000000004c9481f69aafd5427e904bab"
+  - "CURRENT WILD_ILLUSIONS_OPTICAL_ART_SIGNATURE_CANVA.pdf;69554600bytes;SHA256 7cf7001f6ab84930fea258025039ee54a525b3a6c05d01e559971868e9266802;libfile_4b6440500a0c81918a1f0315513d5ab3 v4 file_00000000553c81f6a09d6e159612fd5e"
+  - "CURRENT WILD_ILLUSIONS_OPTICAL_ART_SIGNATURE_CANVA_PACK.zip;145514342bytes;SHA256 6f92c068f972321f25612d25dc0e86c5d009b29c7d1601e9bdf8d3135923d982;libfile_2ae552e0151881919c6a1c49b01aef5a v4 file_00000000a11881f6846e1d68730ae9ea"
+  - "Horizontal signature exact page4lower-right1050x430sourcepixels,mirrorLR,20%graymax,4.414%visiblearea,average0.241%graydensity. Pages5,8,10,...42,44,45,48."
+  - "45: Even wings can be still for a while. 48: The next thing can begin a little more slowly."
+  - "48pages;23utility/reverse pages changed;25other paintstreams and22encoded hero images unchanged;all46changed-page Poppler renders warning-free."
+next_safe_task: "Owner visual review of horizontal recurring motif, physical proof and approved cover/release. Preserve heroes; re-preflight any Canva export."
+checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-22-horizontal-signature-v3.md
 model_policy_ack: rse-weekly-usage-2026-10-21-v1
 recommended_profile: production
 runtime_model_observed: UNKNOWN
