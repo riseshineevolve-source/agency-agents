@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: SKELETON_MASQUERADE_V22_DELIVERED
+status: SKELETON_SHAFT_SOLE_V23_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Owner-requested skeleton refinement V22 delivered: angular masquerade jacket/crescent cap, bounded curved skull reflection and distant candelabrum. Source room/fall preserved; other V21 finals and approved waiter untouched."
+milestone: "V23 skeleton local changes delivered: diamond cap clasp matching reflection, three white beveled shaft panels for coloring, winged nocturnal sole tread. Source geometry/costume/fall retained; other finals untouched."
 blocker: null
-owner_gate: "Owner response to V22 skeleton-only refinement. Other final scenes preserved, no speculative redesign or print release."
+owner_gate: "Owner response to V23 skeleton local refinement; no other scene reopened or print release."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve V22 latest skeleton, V21 other three finals and waiter lock. Only explicit owner correction/proven blocker."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_MASQUERADE_REFLECTION_V22.md"
+next_safe_task: "Preserve V23 latest skeleton, V21 other three finals and waiter lock. Only explicit owner corrections/proven blockers."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_COLORABLE_SHAFT_SOLE_V23.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V22 root actual-image review: main five-digit hand/two arms/two boots, complete main props, same source geometry; one bounded partial skull/costume reflection. Stylized optics, no exact physical tracing claim."
+closing_pass_qa: "V23 root actual-image review: cap badge matches reflected one, white shaft panels retain deep black frames, winged sole motif enclosed; five-digit main hand/two boots unchanged."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -164,3 +164,8 @@ skeleton_masquerade_v22:
   - "Owner explicitly asks better clothing/extra reflection/Halloween after V21 delivery; skeleton-only change."
   - "Latest exec-cd318d70-59ad-455d-b676-73fd874f944e.png SHA256 ebc344117b8d4c2afa2037d22a52748c08fe9135a26d64eefc35f2eeb9b5ceaf."
   - "Angular jacket, high collar/feather shoulder, crescent badge, curved bounded source-corresponding skull reflection; source background unchanged."
+
+skeleton_shaft_sole_v23:
+  - "Crescent removed from actual/reflected cap; angular diamond clasp substituted."
+  - "Three broad white bevelled left-shaft panels add enclosed coloring space without global lightening."
+  - "Latest exec-110a4afd-dd22-4c28-964e-60c30ade422d.png SHA256 a377471ca901deb078012a4709c6a6869b9ab244a4366de8760d43e9439dec8d; winged nocturnal tread inside sole."
