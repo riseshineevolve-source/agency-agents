@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: SKELETON_FURNISHED_BALCONIES_V28_DELIVERED
+status: SKELETON_TWO_REFERENCE_MERGE_V29_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V28 owner attachment base restored: decorated upper level retained, two lower modern balconies furnished with bold plants and geometric lights, then plain large bottom opening."
+milestone: "V29 two-reference merge delivered: smooth ribbon balcony shapes and modern lobby from second image, windows and potted trees on every descending floor."
 blocker: null
-owner_gate: "Owner visual response to V28; no other scene reopened."
+owner_gate: "Owner visual response to V29 merged skeleton; other scene finals remain closed."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve V28 skeleton and other finals. Latest attachment supersedes V27 cleared facade; only explicit corrections/proven blockers."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_FURNISHED_BALCONIES_V28.md"
+next_safe_task: "Preserve V29 merge; every floor now has window/tree per latest owner instruction. Only explicit corrections/proven blockers."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_TWO_REFERENCE_MERGE_V29.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V28 actual image reviewed: original furnished upper facade plus two lower furnished balconies; simple bottom portal. Character and optical composition retained."
+closing_pass_qa: "Actual V29 reviewed: four descending floors each window/tree, broad ribbon slab curves, modern lobby retained; skeleton/pose/reflection/web sole retained visually."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -190,3 +190,7 @@ skeleton_three_modern_balconies_v27:
 skeleton_furnished_balconies_v28:
   - "Latest owner attachment is authoritative: rich upper balcony retained; two lower levels have broad-leaf planters and geometric lights behind modern railings."
   - "Final exec-4d2acb08-85bd-445c-b32c-85e83058de73.png SHA256 78fd07865b8c508b5b4502ec4e6807703972aa4112dd814eeef749a8404c3af8."
+
+skeleton_two_reference_merge_v29:
+  - "Current two attachments merged. Second supplies balcony shape/modern lobby; first supplies window/tree content. Latest all-floor content requirement supersedes plain bottom."
+  - "Final exec-2c2c9ea9-c7b3-471b-9c81-c05785dfd17d.png SHA256 ccf1737acbced6925671d3cb8d210f59b8ba58557c638ebf5f8e450e8cedf0a1."
