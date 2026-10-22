@@ -5,7 +5,7 @@ status: XIAOMI14T_LAUNCH_AND_AUTH_SCREEN_VISUAL_QA_PASS__AUTH_EMAIL_AND_PLAY_GAT
 branch_or_repo_state:
   repository: riseshineevolve-source/riseshineevolve
   branch: codex/happy-me-production-hardening
-  branch_head: 68739ef131f1c86952cf55e3da6244237883defd
+  branch_head: 67f613d5fb62b4988a0bb592b56cc7f8960d3bf9
   validated_application_source_head: 68739ef131f1c86952cf55e3da6244237883defd
   application_source_ci: "Prior #314 / run 39567799896 failed before any job steps; fix commit 68739ef locally web-built, Android assembleDebug and bundleRelease PASS; hosted workflow not rerun"
   latest_release_infra_ci: "Mobile quality #313 / run 39457157580 / PASS"
