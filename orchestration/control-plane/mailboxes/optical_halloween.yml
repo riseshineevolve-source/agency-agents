@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: HAUNTED_ROOM_WAITER_V10_OWNER_REVIEW
+status: MASQUERADE_TABLE_SERVICE_V11_OWNER_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V10 restores recognizable haunted modern interior, folded optical architecture, wall mirror and bounded floor reflection. Actual upside-down table and contemporary waiter retained."
+milestone: "V11 removes childish Halloween symbols; masked contemporary waiter sets inverted table while flying. Large transparent inverted glass foreground closeup restores optical refraction."
 blocker: null
-owner_gate: "Owner visual response to V10 haunted room waiter. Other four V07 scenes retained."
+owner_gate: "Owner visual response to V11 service-action composition. Stylized mirror support geometry still needs attention before print-final approval."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Owner review of V10; preserve room and Halloween atmosphere together with inverted table and modern outfit. Targeted refinement only."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_HAUNTED_ROOM_WAITER_V10.md"
+next_safe_task: "Owner review V11 service action and glass closeup; preserve room, adult masquerade mood and removed pumpkin/ghosts. If selected, local mirror-support cleanup before print-final status."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_MASQUERADE_TABLE_SERVICE_WAITER_V11.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V10 root actual-image review: identifiable room planes/doorway, complete upward table legs, modern clothing, pumpkin/bat/ghost accents, wall and floor reflections. Most gray floor wash removed; thin pale reflection lines remain. Native art candidate."
+closing_pass_qa: "V11 source inspected; actual service action, complete exposed table legs, large inverted glass and mature mask. Duplicate mirror dome removed. Mirror support/goblet geometry stylized; no exact-reflection or release claim."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -91,3 +91,9 @@ haunted_room_waiter_v10:
   - "Final exec-325639f2-b291-43ab-af79-c725ab3af339.png SHA256 8ac6cd6e730b99653a80185a13b38376ac28b6be9d6c01dc9004db6fd793ea2c."
   - "Removed contradictory upper-table dishes/pumpkin and corresponding mirror objects; inverted settings retained."
   - "No additional scene regeneration; no print certification; prior strong versions preserved."
+
+masquerade_service_v11:
+  - "Owner removes pumpkins/ghosts; eclipse lamp and sculptural masked host convey atmosphere."
+  - "Foreground inverted transparent dome refracts room stripes; other hand sets actual inverted table."
+  - "Latest exec-c4ab97cb-e8ec-4b9e-9452-59afb8a64751.png SHA256 b3dc24c6ed52e0ec1d2f7dbde9a29c3084f8b38f080da568ca63554cfd381b23."
+  - "All 3 renders retained, including framing correction and duplicate-mirror-dome cleanup; stylized reflected support remains a known limitation."
