@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: THREE_DIRECTION_V19_OWNER_REVIEW
+status: OWNER_REFERENCE_RESTORE_V20_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Owner corrections V19: original stronger fall with shirt/vest skeleton, high-angle painter without mirror, completely new faceless rear hooded wax queen with five monumental candles. Waiter locked, carrier retained."
+milestone: "Latest skeleton steering applied: modern source atrium/layout preserved, bellboy falling pose. Painter loop/convex bucket upgraded, new rear queen atelier, earlier carrier source recovered hash-identical. Waiter locked."
 blocker: null
-owner_gate: "Owner review of three V19 directions. Carrier retained but not newly approved; waiter V17 approved. No print/release claim."
+owner_gate: "Owner visual response to V20 candidates and restored earlier carrier source. Waiter approved; no other implicit approval or print release."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Owner visual response to three V19 directions; locked waiter untouched, carrier preserved. Targeted refinement only."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_THREE_DIRECTION_REVISIONS_V19.md"
+next_safe_task: "Owner review V20. Skeleton must preserve latest modern atrium source; no old-hotel regression. Carrier earlier source restored, no regeneration."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_OWNER_REFERENCE_RESTORE_V20.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V19 painter and hooded queen independently checked, no major crop/anatomy blockers. Skeleton draft third leg removed; six-digit hand correction overremoved then final restored four fingers plus thumb. All earlier drafts preserved."
+closing_pass_qa: "V20 independent skeleton/painter actual-image review confirms main five-digit hand/two legs and painter framing. Skeleton/queen graywash cleaned. Carrier original recovered with exact V07 source hash, not regenerated fusion."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -146,3 +146,9 @@ three_direction_v19:
   - "Owner rejected V18 skeleton stripedhood/fall, painter mirror/view, queen glamourportrait/room; no implicit approval of other scenes."
   - "Skeleton final exec-bdafd1ea-306d-4bb4-84c6-d8095bc473a7.png; painter exec-bd9c5e09-9750-44bb-8068-cda3ebbb6ee9.png; queen exec-501ac4cf-466d-4f08-89da-ba321e793c7c.png."
   - "Exact hashes, prompts, failed anatomy correction and successful final, QA limits in checkpoint. Waiter lock retained."
+
+owner_reference_restore_v20:
+  - "Latest owner skeleton attachment locks modern atrium and original page layout; earlier hotel/luggage draft superseded."
+  - "Skeleton exec-e4880c0c-8958-46b5-955e-6d314f7fb2cc.png; painter exec-bee6236e-ec29-48e2-add0-3260dd6aaaaf.png; queen exec-e3f81b3d-7661-49bb-884f-c1fc72b603f9.png."
+  - "Carrier earlier selected source20261021-171623 recovered exact SHA256 cf1518115c320090f7d889634280a075a2058b707c7cc20ee8f9d816e6bff320. V07 generated fusion not resolved; do not conflate."
+  - "All hashes/prompts/limitations and superseded attempt in checkpoint. No factory changes."
