@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: MOTH_DESSERT_MIRROR_V14_OWNER_REVIEW
+status: MASQUERADE_MIRROR_FLOOR_V15_OWNER_REVIEW
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V14 uses cloche for nocturnal moth-wing spiral dessert and striped candle; mirror rebuilt with coherent back-view two-arm service gesture and actual inverted-table supports."
+milestone: "V15 replaces blank floor with curved shoe/cloche/table reflection bands and strengthens black crescent mask, raised collar, feather shoulder and glove."
 blocker: null
-owner_gate: "Owner visual response to V14 moth dessert and revised mirror. No print/release claim."
+owner_gate: "Owner visual response to V15 costume/mask and nonlinear mirror floor. No print/release claim."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Owner review V14; preserve accepted room/service composition. Targeted refinement only."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_MOTH_DESSERT_MIRROR_WAITER_V14.md"
+next_safe_task: "Owner review V15; preserve accepted cloche/table/room/service composition. Targeted refinement only."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_MASQUERADE_MIRROR_FLOOR_WAITER_V15.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V14 actual-image review: mirror arm gesture, palm support and inverted-table solid supports clearer; dessert/candle repeat. Reflected dessert remains stylized frontal presentation rather than certified ray-traced rear view."
+closing_pass_qa: "V15 actual-image review: readable stronger black mask/couture, curved floor reflections of existing motifs, white coloring cells retained. Optical projections stylized, not certified physical tracing."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -112,3 +112,8 @@ moth_dessert_mirror_v14:
   - "Two chocolate moth wings with crescent cutouts add mature nocturnal Halloween to optical dessert."
   - "Mirror rebuilt: reflected plate arm left, supported cloche right, same striped waiter/table motifs."
   - "Latest exec-f70af428-42fb-4c82-a665-c315e136bac7.png SHA256 be890d3ad58707e0948e3b770602edd811f2379203715dfe25320abbd564bed7."
+
+masquerade_mirror_floor_v15:
+  - "Owner requested stronger Halloween character and less empty floor. Added defined black crescent mask, angular collar, feather shoulder and glove."
+  - "Flowing floor bands repeat cloche/moth/candle, shoe/leg and table settings; nonlinear optical motifs rather than certified ray tracing."
+  - "Latest exec-2c69317f-9c6e-49be-8baa-b4c36d8c31bc.png SHA256 29d241beca5b329b539c21f684dba0afb909167d044083b6c32deaa97f79eca8."
