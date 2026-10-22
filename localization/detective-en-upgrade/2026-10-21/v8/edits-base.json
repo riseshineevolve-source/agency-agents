@@ -1,0 +1,252 @@
+[
+  {
+    "ids": [
+      "page005.block05"
+    ],
+    "text": "YOU MAKE THE CALL\nThey do not get to make your verdict for you.\nThe maps grow larger, and different cases ask you to test the evidence in different ways.",
+    "issue": "V8-OPENING-PROMISE: replace unsupported monotonic difficulty promise; retain varied breathing spaces.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page005.block07"
+    ],
+    "text": "And somewhere inside the Academy, one question keeps returning:\nWHAT IS ROOM ZERO?\nLET'S MEET THE HAPPY MAKERS",
+    "issue": "V8-OPENING-QUESTION: attach colon to its actual mystery question, before cast transition.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page009.block02"
+    ],
+    "text": "If you are in, this is the moment.\nChoose the name and call sign you want us to use. Someone can help you write them.\nBeside the Case Table stands a small certification rack. Five badges hang on it. Hook 06 is empty.\nMimi slides a pencil over. \"Start with your name.\"",
+    "issue": "V8-ACCESSIBLE-CREDENTIAL: retain reader choice while allowing a scribe or family help.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page009.block04"
+    ],
+    "text": "Your call sign is a detective nickname you choose. Use the same one whenever the book asks.\nYour best detective skill can be anything useful: noticing tiny details, remembering odd facts, asking good questions, staying calm, drawing maps, spotting patterns - or something only you know how to do.\nThe credential gets you into the investigation.\nThe cases decide what kind of detective you become.",
+    "issue": "V8-CALLSIGN-DEFINITION: explain required finale input at first use.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page012.block04"
+    ],
+    "text": "HINT VAULT + SOLUTION FILES\nStuck? Find your case in the index on pages 148–149. It lists all three hint pages and the solution page.\nHINT LEVEL 1: A small nudge.\nHINT LEVEL 2: Narrow the search.\nHINT LEVEL 3: A bigger push.\nSOLUTION FILES: Full answers and explanations.\nRead only your case's entry to avoid other answers. You can pause, try again or work with someone. Using a hint counts as detective work.",
+    "issue": "V8-EARLY-SUPPORT: expose navigation and help permission before Case01, not only in backmatter.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page027.block15",
+      "page027.block16",
+      "page027.block17"
+    ],
+    "text": "the handoff. Pixel is the last confirmed person in the transfer record. Rebuild the tent snapshot and find the one person who shared her tent. That gives Mimi a witness to ask about the gap in the transfer record.\n",
+    "issue": "V8-CASE04-PROMISE: ask for provable contact rather than an unreported choice among carrier histories.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page027.block27",
+      "page027.block28",
+      "page027.block29"
+    ],
+    "text": "If it moves, we can all be impressed. First, who was with Pixel?\n",
+    "issue": "V8-CASE04-PROMISE: align Nini's comic redirect with actual solvable task; preserve blink/helmet joke.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page030.block03"
+    ],
+    "text": "Zuri's account lets Mimi correct the transfer record. She routes the sealed evidence box back to the Trace Lab and files the correction.\n\nDilo's ",
+    "issue": "V8-CASE04-PAYOFF: name the concrete administrative result without inventing a carrier event.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page040.block05",
+      "page040.block06",
+      "page040.block07"
+    ],
+    "text": "By the end of the first stretch of cases, nobody asks whether you are coming with them anymore. Mimi just leaves space beside the next file. Real staff have asked for help. Your filed answers have woken part of an old Academy system. It still has not explained why.\n\nOn the Case Wall, four matching marks wait beside an incomplete route.\n",
+    "issue": "V8-FUNCTION-REPETITION: remove second identical place-beside-file belonging beat within same bridge.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page052.block04",
+      "page052.block05",
+      "page052.block06",
+      "page052.block07",
+      "page052.block08",
+      "page052.block09"
+    ],
+    "text": "Bibi studies your filed classification and taps the matching Academy form once.\n\"This is the form I remember,\" she says. \"I do not remember what the zero meant.\"\nShe takes the copy to the archive to check it against the original.\nFor once, nobody fills the gap with a tunnel.\nUnder OPEN QUESTIONS, add one note beneath the question you already saved: BIBI RECOGNIZES THE OLD FORM. ZERO'S MEANING STILL UNKNOWN.\n",
+    "issue": "V8-FUNCTION-REPETITION: one archive departure, retain uncertainty and exact CaseWall note.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page076.block09"
+    ],
+    "text": "She puts it directly in front of you, takes off her wide-brimmed hat and lays it beside the box.\n",
+    "issue": "V8-HAT-ART-CLOSURE: make hat a present-table prop; actual evidence photograph contains no hat.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page076.block12"
+    ],
+    "text": "Alio notices the hat beside the box before he looks at the photograph.\n",
+    "issue": "V8-HAT-ART-CLOSURE: explicitly locate hat outside the evidence image; preserve architecture and full Comms.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page081.block04",
+      "page081.block05",
+      "page081.block06"
+    ],
+    "text": "Under MESSAGES / RULES on your Case Wall, copy RULE 0 FIRST from the back of the photograph. Those are the only words the evidence gives you. Leave the missing rule open until you can prove the rest.\n",
+    "issue": "V8-CASEWALL-CLARITY: remove verbatim repeated heading; make exact copy item explicit.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page094.block08"
+    ],
+    "text": "Demi's movement log is the last clean point before those accounts split. Put the room back together and one witness can tell you which account came before the wet panel moved and which came after.\n",
+    "issue": "V8-PAINT-SYNTAX: clarify before/after contrast.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page108.block12"
+    ],
+    "text": "The return desk knows where both wristbands ended up, but there is a gap in the handoff record.\n",
+    "issue": "V8-CASE23-PROMISE: preserve incomplete transfer without promising an unreported crossing location.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page108.block13"
+    ],
+    "text": "The log fixes Jude's location. One other person shared that area. Find them so the return desk has a witness to ask about the missing handoff.\n",
+    "issue": "V8-CASE23-PROMISE: align setup with solved contact, preserve all wristband facts.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page120.block05"
+    ],
+    "text": "Casey confirms that the parcel is a return for Archive Restoration, not a Guest House delivery. After Reception checks the handoff, staff open it. Inside are transparent overlay sleeves and old alignment clips borrowed long ago from Archive Restoration - exactly the kind Bibi needs for delicate plan work.\n",
+    "issue": "V8-PARCEL-DESTINATION: close destination question using existing return label and borrowed-tool facts; no invented addressee.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page126.block04"
+    ],
+    "text": "• Keep both plans at the same scale and orientation.\n• Compare matching coordinates on the two printed plans to line up the three fixed landmarks. You can solve this directly on the page.\n• Then find the room that exists only on the old plan.\n",
+    "issue": "V8-PLAN-PLAYABILITY: explain on-page comparison, so reader does not require a separate physical overlay.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page130.block03"
+    ],
+    "text": "that correctly restores Rule Zero.\nAfter you solve it, turn to page 132 and copy the complete restored rule to MESSAGES / RULES on your Case Wall, page 13.\n",
+    "issue": "V8-RULE-COPY-ORDER: full rule tail is first supplied132, after damaged card131.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page141.block11"
+    ],
+    "text": "When my squad trained here, we started with zero assumptions. We left route notes so unfinished training could be continued by the next session.\n",
+    "issue": "V8-READER-AGE: do not assume every child, teen or family reader is Bibi's depicted trainee age; retain2002evidence.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page146.block04",
+      "page146.block05",
+      "page146.block06",
+      "page146.block07",
+      "page146.block08",
+      "page146.block09",
+      "page146.block10",
+      "page146.block11",
+      "page146.block12"
+    ],
+    "text": "For one whole minute, the Academy manages to be quiet.\nAlmost.\nThe team puts down its pencils. Bibi closes the Book 1 routing log and slides it into the archive tray.\nBeside it is a small release flap.\nDilo leans forward, then stops and looks at Bibi.\n\"May I?\"\nBibi checks that the routing log is safely filed, then nods.\nHe lifts the flap gently.\n",
+    "issue": "V8-DILO-ARC: preserve curious sequel trigger while paying off careful handling learned inCase21.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page148.block15"
+    ],
+    "text": "FILE 22/23  /  PHOTOS 24/25  /  RECORD 26\n",
+    "issue": "V8-PHOTO-NAVIGATION: index must point to both photos and the actual response page; real PDF line patched too.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page184.block15",
+      "page184.block16",
+      "page184.block17"
+    ],
+    "text": "Ten deliberate changes show that the photographs are not duplicate copies. The changed 017 / 071 reference gives the team an archive lead to check against the paper records.\n",
+    "issue": "V8-PHOTO-FEEDBACK: replace scolding eleventh-answer aside with useful positive explanation; photo and ten markers unchanged.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page193.block07",
+      "page193.block08",
+      "page193.block09"
+    ],
+    "text": "01\nLeave out the unmarked Look-Twice file, the poster circle and the stage dial.\n02\nThe four remaining Academy records carry the same plain 0.\n",
+    "issue": "V8-MARK-KEY-COMPLETENESS: explicitly explain all three excluded cards, including unmarked routed photo file.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page014.block02"
+    ],
+    "text": "No answers here. Just doors.\nCase 01 is just ahead.",
+    "issue": "V8-OPENING-NAVIGATION: page15 is a transition beforeCase01page16; remove any implication of immediate next-page target.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  }
+]

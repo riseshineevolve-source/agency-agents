@@ -1,0 +1,246 @@
+[
+  {
+    "id": "page020.block04",
+    "page": 20,
+    "before": "• Use the Standard Map Case Rules on page 11.\n• PERSON MAY STAND ON: bleacher, desk, stool.\n• SQUARE BLOCKED BY: globe, lab bench, piano, teacher's desk.\n",
+    "after": "Use the Standard Map Case Rules on page 11.\nIn this case, beside means one square up, down, left or right, in the same room. Diagonal squares and squares across a wall do not count.\nPERSON MAY STAND ON: clear floor and objects marked with an open circle.\nSQUARE BLOCKED BY: walls and objects marked with a black square.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "483ac1be8ce7c0ea28b2f279bd6b47179ab2f104d45aca07be9d24cc4d68bda4",
+    "target_sha256": "f1b635ede7e739e16797346b7c4d5b3f9731880f266bd56b5f0bb3be90958dd4"
+  },
+  {
+    "id": "page020.block08",
+    "page": 20,
+    "before": "03\nRook was in a corner and beside a teacher's desk.\n",
+    "after": "03\nRook was in one of the four corners of the whole grid, directly beside a teacher's desk.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "5a5c3f35a23c95b70b71eb10e40615242af5ecb9707512ce3731b392ba96c87b",
+    "target_sha256": "8aa2534b56c8e931ceecbdfc240041324f81feb333e0b937bc7304b0cceb1ec8"
+  },
+  {
+    "id": "page024.block04",
+    "page": 24,
+    "before": "PHOTO A // ARCHIVED FILE 017\n",
+    "after": "PHOTO A\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "f7482498ba23dafe01818d051d8f3d6c2d7d8147b1b8690bcd5eebe6d5aca675",
+    "target_sha256": "43933c5ac5a6667ece04720dec872d203bdbca21e866786aba3ec27e21ac8624"
+  },
+  {
+    "id": "page025.block04",
+    "page": 25,
+    "before": "PHOTO B // LATER FILE 071\n",
+    "after": "PHOTO B\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "6510ab8473813e465f60759e8d7bba7a21791f16a016825f0ef4a568d800daa8",
+    "target_sha256": "2cc285c611a8e13a85fdaf896f4b752a7584ef5d0716bd0e845fd8df1337aa82"
+  },
+  {
+    "id": "page027.block04",
+    "page": 27,
+    "before": "two copies of one room check. The file captions\npoint to different records; the evidence case label\ninside the photographs confirms the ",
+    "after": "two copies of one room check. The number on the\nevidence case inside Photo A is 017. In Photo B,\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "2288151ab60e0a953b99ecd277475557ca74239d175a12feaacf96481629dca3",
+    "target_sha256": "3179d15bc2242a84680c6fb0a5f537239e0daef1c5bc4894cedd965b4a8a2e50"
+  },
+  {
+    "id": "page027.block05",
+    "page": 27,
+    "before": "mismatch. Photo A shows 017 - the current\nTrophy Hall file reference. Photo B shows 071.\nThey cannot be photographs of the same room\ncheck. Trophy Hall goes back to the original paper\npacket. Photo B belongs to an older reference file.\n",
+    "after": "it is 071. The team checks the original paper\npacket: 017 is the current Trophy Hall reference.\nPhoto B belongs to the older 071 file. The\nphotographs belong to different records.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "94f1dda86770b832707c6374a0ccf04a3fa0d825b20d52144066dfc5b03779fd",
+    "target_sha256": "f20963f30253c7d134312abfdb7051c04ac06c8c6db526f906771e87e8467bd9"
+  },
+  {
+    "id": "page042.block04",
+    "page": 42,
+    "before": "• Use the Standard Map Case Rules on page 11.\n• PERSON MAY STAND ON: bar stool, chair, massage table.\n• SQUARE BLOCKED BY: buffet, cart, palm, piano, range, washer.\n",
+    "after": "Use the Standard Map Case Rules on page 11.\nIn this case, beside means one square up, down, left or right, in the same room. Diagonal squares and squares across a wall do not count.\nPERSON MAY STAND ON: clear floor and objects marked with an open circle.\nSQUARE BLOCKED BY: walls and objects marked with a black square.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "c77323e251e44b7933c7912bfaac5d89c1418fcb70e77d1560c1d1f99dfbc65a",
+    "target_sha256": "f1b635ede7e739e16797346b7c4d5b3f9731880f266bd56b5f0bb3be90958dd4"
+  },
+  {
+    "id": "page042.block08",
+    "page": 42,
+    "before": "03\nWilla was 2 grid steps from the stage range marker. Count row difference\n",
+    "after": "03\nWilla was exactly 2 grid steps from the metal frame at C2. Add the row difference\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "93fa438fbadf3d42c32137e162f42306cc1ad59ba0c910f60ebfdb6c677786f5",
+    "target_sha256": "59117703f74d12ae21addb848abbeedc696297dca9da2cd72d9337637164f469"
+  },
+  {
+    "id": "page042.block09",
+    "page": 42,
+    "before": "plus column difference.\n",
+    "after": "and the column difference. This is grid distance, not a walking route.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "6fb61b0b71d57cf8d0792584d5a1bfbd68b1dc0602e8faf84d64a4b0862c8d45",
+    "target_sha256": "53d2f881f94813b5aa0c71885545875f3b3f54095df0ecf2929d1e061011b812"
+  },
+  {
+    "id": "page042.block10",
+    "page": 42,
+    "before": "04\nZoe was against an outer wall and beside a costume cart.\n",
+    "after": "04\nZoe was against an outer wall and directly beside a wheeled equipment case.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "dbb72b8aa0ecd572f098cb60f06c881860e2bef3cbe46e02498be75abd86a546",
+    "target_sha256": "6477e3404b2563cbca65d32d5df5c90e7b9446b75dd65421b3c78a7fb8283530"
+  },
+  {
+    "id": "page054.block03",
+    "page": 54,
+    "before": "• Use the Standard Map Case Rules on page 11.\n",
+    "after": "Use the Standard Map Case Rules on page 11.\nIn this case, beside means one square up, down, left or right, in the same room. Diagonal squares and squares across a wall do not count.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "5180615cda5a346a0c858386cc06482c2521588f4396021ef1b0620884eacc40",
+    "target_sha256": "35bf486acbee91c65223e443f9a25ace9b7c99e6c44989471701720c51273994"
+  },
+  {
+    "id": "page054.block04",
+    "page": 54,
+    "before": "• PERSON MAY STAND ON: bunk, seat.\n• SQUARE BLOCKED BY: console, crate, cryopod, locker, tank.\n",
+    "after": "PERSON MAY STAND ON: clear floor and objects marked with an open circle.\nSQUARE BLOCKED BY: walls and objects marked with a black square.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "a0a98aa67494267c2fb50ad2a875fe6be4e2d42feada39f58b5551acfc4c2a1a",
+    "target_sha256": "24c9871377c944a1cb972431190f4e021ba588974cbaa54a3b1bdb4206418275"
+  },
+  {
+    "id": "page054.block08",
+    "page": 54,
+    "before": "03\nWyatt was in column B and beside a charging pod.\n",
+    "after": "03\nWyatt was in column B, directly beside the wheeled robot arm in the Robotics Lab.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "5b4ac19482d59bbd54239cd7989533e8551c90e8800ae8b9e1c40e92f718b1c8",
+    "target_sha256": "1acca3cf906a4e76daa111f194dfa33028768b393d1a3aa66e7bcf3f45112ef3"
+  },
+  {
+    "id": "page074.block04",
+    "page": 74,
+    "before": "• Use the Standard Map Case Rules on page 11.\n",
+    "after": "Use the Standard Map Case Rules on page 11.\nIn this case, beside means one square up, down, left or right, in the same room. Diagonal squares and squares across a wall do not count.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "5180615cda5a346a0c858386cc06482c2521588f4396021ef1b0620884eacc40",
+    "target_sha256": "35bf486acbee91c65223e443f9a25ace9b7c99e6c44989471701720c51273994"
+  },
+  {
+    "id": "page074.block05",
+    "page": 74,
+    "before": "• PERSON MAY STAND ON: canoe, cot, stool.\n• SQUARE BLOCKED BY: backpacks, canoe rack, games shelf, welcome desk.\n",
+    "after": "PERSON MAY STAND ON: clear floor and objects marked with an open circle.\nSQUARE BLOCKED BY: walls and objects marked with a black square.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "d2597028b1aca529572cd545b84957f2d3e550aed28aaf082e3d286f2b3a2f3c",
+    "target_sha256": "24c9871377c944a1cb972431190f4e021ba588974cbaa54a3b1bdb4206418275"
+  },
+  {
+    "id": "page074.block07",
+    "page": 74,
+    "before": "01\nHarper was north-east of Cruz: north and east by any number of squares.\n",
+    "after": "01\nHarper was at least one row above Cruz and at least one column to Cruz's right.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "7c0654d1b70484b820f660d6a2ea45ce1e2e7693c8331e8d776cb008f75f0728",
+    "target_sha256": "7f3d5b17365fcdc464f9c35c4e8c95a4ce5f550d9d3d02d82ffb317ac300368f"
+  },
+  {
+    "id": "page074.block08",
+    "page": 74,
+    "before": "02\nPiper was north-east of Duke.\n",
+    "after": "02\nPiper was at least one row above Duke and at least one column to Duke's right.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "0807d7489a76a057dcd84911f99493175612ad63cc77b82aadd3e87e78ce71c6",
+    "target_sha256": "ffc3f2757785c08059c937b4e942dfbf2ca25e73f35c63fe31176877608e3216"
+  },
+  {
+    "id": "page074.block10",
+    "page": 74,
+    "before": "04\nCruz was beside a camp cot.\n",
+    "after": "04\nCruz was directly beside a camp cot in the same room.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "13df9810ddb56b85afe1a6627af853ec27e26300934ba15d53fd4ac9c2a96182",
+    "target_sha256": "5398a7b6d03737f2beefb9dacd96d0402c2cf1d52c73035662343aebc4759cf6"
+  },
+  {
+    "id": "page074.block12",
+    "page": 74,
+    "before": "06\nInez shared a room with a cot but was not beside it.\n",
+    "after": "06\nInez shared a room with a cot but was not directly beside any cot in that room.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "d7f1091c6b935909e6765807895679622fe5b2419ab8c04032b135c64f1337ab",
+    "target_sha256": "658a1dd98f29ce6c97cbf798ef177bfda2f3e38a0ee03ff25dda04ffe31f4ae6"
+  },
+  {
+    "id": "page096.block03",
+    "page": 96,
+    "before": "• Use the Standard Map Case Rules on page 11.\n• PERSON MAY STAND ON: cadet bunk, pilot seat.\n• SQUARE BLOCKED BY: flight console, fusion reactor, oxygen tank, sleep pod, suit locker, supply crate.\n",
+    "after": "Use the Standard Map Case Rules on page 11.\nPERSON MAY STAND ON: clear floor, cadet bunks and pilot seats.\nThe bunk beds at E5, E7 and F7 are all usable cadet bunks, marked with open circles.\nSQUARE BLOCKED BY: walls and objects marked with a black square.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "78028a342e28c2c8565a154e95940d9d446983579e0724f1b9e20e36dbed7ab9",
+    "target_sha256": "702375b08e3db64753331bb95831f3ad0acf24b1f3c208bc617b030f7556e175"
+  },
+  {
+    "id": "page096.block05",
+    "page": 96,
+    "before": "01\nSid was somewhere south of Pax.\n",
+    "after": "01\nSid was in a lower row than Pax.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "f348381db2aabfe57805a9fb4e6aa39b3e4953ac48c31c9fa3856f07d69e9866",
+    "target_sha256": "86a8b5e889b6fd7b35e1697f4cd95a07b0181265b05587fc78e27e273038c6de"
+  },
+  {
+    "id": "page096.block06",
+    "page": 96,
+    "before": "02\nPax was south-east of Mara.\n",
+    "after": "02\nPax was in a lower row than Mara and in a column to Mara's right.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "c15be0e4765b6ea3d1a0a1783f735abbed2e4845b57813305cda7ca0ca37eeac",
+    "target_sha256": "638b94314a8f486cda6d1241d51b190e9e6a382876de21eb7a49b3b02d3696c4"
+  },
+  {
+    "id": "page096.block07",
+    "page": 96,
+    "before": "03\nLuca was diagonally next to Asa.\n",
+    "after": "03\nLuca was diagonally next to Asa: exactly one row and one column away.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "7ce8721877c2d5e6ae4cc2b6be8d2f6a603c52b92f92f3d339d1d9f58d216477",
+    "target_sha256": "ff28adda1db0aa07900e1d2a90b21b9c461ba60a2b490f8eaab28693123dd868"
+  },
+  {
+    "id": "page154.block07",
+    "page": 154,
+    "before": "Wyatt has the tightest starting clue: column B plus the charging pod.\n",
+    "after": "Start with Wyatt: column B and the wheeled robot arm in the Robotics Lab. Check the usable squares directly beside that arm.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "93b12e37f59056cf038f25b97fdbe24ace525f23a668bdcd940bca68823982db",
+    "target_sha256": "e387a9b9de1e99464662e5bef8bda91774688885ecab39078ae433e73470e0bc"
+  },
+  {
+    "id": "page164.block09",
+    "page": 164,
+    "before": "Then use the two north-east relationships and the cot clues.\n",
+    "after": "Use both 'above and to the right' clues. Cruz must be beside a cot in the same room; a cot beyond a wall does not count.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "cbfa907064fabc3a0b6ca9ac187ed583f7b53504c7694ecbfa4063a5f6f9e838",
+    "target_sha256": "e1fb39746997cdad3101ed7b39908c75439bc75698820495277195c166fb679f"
+  },
+  {
+    "id": "page165.block11",
+    "page": 165,
+    "before": "Use Asa's same-room clue and Luca's diagonal relationship before the north/south chain.\n",
+    "after": "Use Asa's same-room clue and Luca's one-row, one-column diagonal link. Then compare the rows and columns in the Mara-Pax-Sid chain.\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "9598ab1ec3e6093ee39b7fe72142f63985015bb09cfcd5dc1d2b7d54170e0b85",
+    "target_sha256": "5193c7b1fa71b49aefd2b0e3189d79ca4a1da864d5c9ea17197c5bb37953f17f"
+  },
+  {
+    "id": "page190.block11",
+    "page": 190,
+    "before": "05\nZoe is C6 beside the costume cart; Gray\n",
+    "after": "05\nZoe is C6 beside a wheeled equipment case; Gray\n",
+    "authority": "OWNER_AUTHORITY.json",
+    "baseline_sha256": "05911c2b76d600894b1d0a218b4b389a6f4906f8c9f5d6a8e6eeea9eab3c51b7",
+    "target_sha256": "ef0c6d067db229532209552c8673f18b6cc97d15f7f1224681c158831aa6418c"
+  }
+]
+

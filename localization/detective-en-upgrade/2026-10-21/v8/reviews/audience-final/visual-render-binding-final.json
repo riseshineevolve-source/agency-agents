@@ -1,0 +1,303 @@
+{
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "source_pdf": "/workspace/scratch/e6eabdc4c3a0/detective-v8/proof/DETECTIVE_EN_V8_FULL_ENGLISH.pdf",
+  "source_pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "renderer": "Poppler pdftoppm; separate process per saved-PDF page; 108 dpi RGB PNG",
+  "visual_scope": "All 41 changed folios plus full-title check on 204. Prior direct full-size reviews inherited only after pixel identity comparison; 148 and 197 were directly reviewed from final saved PDF.",
+  "folios": [
+    {
+      "folio": 5,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-005.png",
+      "sha256": "bd3ba1e7812ab35907ad640d2a7fd64a3338ccbf056f2057814e27a71871a7ca",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-005.png"
+    },
+    {
+      "folio": 9,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-009.png",
+      "sha256": "79636b802e962b083c70dcf44c4ee3a8d1e8001f46095ceae902d3c404f0bd6e",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-009.png"
+    },
+    {
+      "folio": 11,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-011.png",
+      "sha256": "eb470f702439afc35d608dd929de013ff35683e3ac3085753dab922ab2a53ad2",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-011.png"
+    },
+    {
+      "folio": 12,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-012.png",
+      "sha256": "c8aa78435ee6ba4d913164ca2fc563cf9b331ce627a0c13d9a21b0472b58d607",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-012.png"
+    },
+    {
+      "folio": 14,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-014.png",
+      "sha256": "676dcc1b8e3f4ea1a4a6797eb4acfe5b7601241cf13b490ca25300277910032a",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-014.png"
+    },
+    {
+      "folio": 27,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-027.png",
+      "sha256": "775f4b329bb0cf4315d98e18a9c62d87b5174cb8775e5afc18a6b91fc0229d20",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-027.png"
+    },
+    {
+      "folio": 30,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-030.png",
+      "sha256": "bd8a0984ba975d1319754a2fb0d5868fa476791c70ae6c9477df8dc1e0d08567",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-030.png"
+    },
+    {
+      "folio": 40,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-040.png",
+      "sha256": "f945525ecf68cbe5b23556f088b941426291516ca5837f73ca64a5b3017b6d5c",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-040.png"
+    },
+    {
+      "folio": 52,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-052.png",
+      "sha256": "ef67e542f114c02b023b44336bbb5d77db3f14db40901d9af88c9da0c617c8d2",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-052.png"
+    },
+    {
+      "folio": 76,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-076.png",
+      "sha256": "9056ecc628dee4698703ef576918b14cb3a5ee43781896e939c042da64c8f7e9",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-076.png"
+    },
+    {
+      "folio": 81,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-081.png",
+      "sha256": "d1fa7e03e90bcf54410000535c0203342d84dbe4709db01917c2603eec48935a",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-081.png"
+    },
+    {
+      "folio": 94,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-094.png",
+      "sha256": "853728c46a5484b002c4ad07febed5c032680453d8e4d216c3e7d430cefb94f6",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-094.png"
+    },
+    {
+      "folio": 108,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-108.png",
+      "sha256": "7b1e969004a424d4e3d199f87ab7583281a2f795bb28ea23d5175c811ae403b5",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-108.png"
+    },
+    {
+      "folio": 120,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-120.png",
+      "sha256": "554bc968bb74a695e721772a1d622b009e9ce8dad6343d40ca5a4e9e72f4a811",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-120.png"
+    },
+    {
+      "folio": 122,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-122.png",
+      "sha256": "19c637324e81285e93a30101288ffe27b87cd667fb59313c345af4f81e465c18",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-122.png"
+    },
+    {
+      "folio": 126,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-126.png",
+      "sha256": "0be81d9da211f27b9996203e8c61cd035821cddab75ea5ad31c9636ae06e30a3",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-126.png"
+    },
+    {
+      "folio": 130,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-130.png",
+      "sha256": "d432a97a0879678a494728e468e75be8e03f2c472692d42fd026f71d23d8a82a",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-130.png"
+    },
+    {
+      "folio": 141,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-141.png",
+      "sha256": "b7a52825e8c124cd8e4654cc918511b4a79460bafcea753447c4b797f3dd0a5e",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-141.png"
+    },
+    {
+      "folio": 146,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-146.png",
+      "sha256": "49b07bfef181396594f313e78053f2f6821d57cb9899c4c17286da2bd853306a",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-146.png"
+    },
+    {
+      "folio": 148,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-148.png",
+      "sha256": "20e80fec118bcdc0edd453d2afe4b863a691cc258a99d9c6f96a5aa825925908",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/final-folio-148.png"
+    },
+    {
+      "folio": 167,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-167.png",
+      "sha256": "ba9faffdfbf78e6fdb091fef656b40ec585d0238058bd3eb247b8a3563bd159e",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-167.png"
+    },
+    {
+      "folio": 181,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-181.png",
+      "sha256": "b3fe3467ab9f7c7d842fba00a10110a55f7d8448b3f2eb8c6a08c19cb32739af",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-181.png"
+    },
+    {
+      "folio": 184,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/saved-672-folio-184.png",
+      "sha256": "e370844a9701fb426670d02ffa4b0293c8b4e73d83a07e605696f3f1812e5216",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-184.png"
+    },
+    {
+      "folio": 185,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-185.png",
+      "sha256": "d62365f67bbcb4db4b94a6dffcb622cd5450905e9ab9a68dc7940c4f8a47933f",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-185.png"
+    },
+    {
+      "folio": 187,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-187.png",
+      "sha256": "c12ed46bdc95b52ce9fdb831d842952e91a267edb22ec3fff6719cebd1b41997",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-187.png"
+    },
+    {
+      "folio": 188,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-188.png",
+      "sha256": "c3f2778bf3de85278360fc87ffa714822937be9131244cb6700d868370fcf418",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-188.png"
+    },
+    {
+      "folio": 190,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-190.png",
+      "sha256": "7d76f22837724d9b0be0eda792087f5f12b2df463cc49fcd3e38312f8d0492e3",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-190.png"
+    },
+    {
+      "folio": 193,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-193.png",
+      "sha256": "b9947d0ef6125b645c3b7912b486d71cf1d4a24432a3a4761e0db39ef83affa6",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-193.png"
+    },
+    {
+      "folio": 194,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-194.png",
+      "sha256": "5286d0cf4c69392c4a6d9b6832330914c0e3b0006921aace2acd5d3e0d7e7987",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-194.png"
+    },
+    {
+      "folio": 197,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-197.png",
+      "sha256": "2f459974f27050eefbeada5a172ec67f03b6144758022e5e4742af7dd5dc8391",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/final-folio-197.png"
+    },
+    {
+      "folio": 199,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-199.png",
+      "sha256": "01381dc06a8579f4122529b33987e6e7d560f1f61ae37df4e57afb68014fc719",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-199.png"
+    },
+    {
+      "folio": 202,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-202.png",
+      "sha256": "8f3100f7d394fb79ed680837438c7b8c4dc1c962d92dfc0510db926a76eacc8e",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-202.png"
+    },
+    {
+      "folio": 204,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-204.png",
+      "sha256": "0e75299ccae6fe2565b4280ac6875ebcd01b0b6a9f6ea4dc46e220f3f88de8b5",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-204.png"
+    },
+    {
+      "folio": 205,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-205.png",
+      "sha256": "09e7e46458d7a1f1ef65d9de28a9851158f12d6fa79a1ceac0665d6f8b325fdf",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-205.png"
+    },
+    {
+      "folio": 208,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-208.png",
+      "sha256": "3fb848bc2f47f2dd6a059734c240b0726b06dc0b89afb8086ea99fca6e48cbc3",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-208.png"
+    },
+    {
+      "folio": 210,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-210.png",
+      "sha256": "c039c565d8da777ff30ac6d4439e65b8a001c2224862e97e28fa50f9e1d619af",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-210.png"
+    },
+    {
+      "folio": 213,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-213.png",
+      "sha256": "6cd17382e0ba7f50d2440b7afdc1ef9d59a14fb25dda2d780391727b07d9be38",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-213.png"
+    },
+    {
+      "folio": 215,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-215.png",
+      "sha256": "93e68ad0beef5fb22691c5c785f36640076d984ea7e10e792274f70c8c78e07d",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-215.png"
+    },
+    {
+      "folio": 218,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-218.png",
+      "sha256": "378e5412d164627722c14a660c0d39fb23a652a5300bfe4f7a85cb4de7c1a1d9",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-218.png"
+    },
+    {
+      "folio": 220,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-220.png",
+      "sha256": "cb42dc495f7693c0ba06cc5621b33409f9786d73f91847b494761aeaa9605ede",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-220.png"
+    },
+    {
+      "folio": 221,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-221.png",
+      "sha256": "c6e55aaceff5e1a7241f2fc202cc8171f0013b09387ae2fbe6c1d2105f685618",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-221.png"
+    },
+    {
+      "folio": 223,
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-final/folio-223.png",
+      "sha256": "a677f7f20a6c08a3b69be27aa969f65bd2e3cdab36565f6f82287b9f1b2ea1f3",
+      "pixel_identical_to_already_visually_reviewed_png": true,
+      "reviewed_reference": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visuals-poppler/folio-223.png"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "canonical_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "all90hint_entries": true,
+  "hint_changed_segments": [
+    "page167.block07"
+  ],
+  "PL-F13-CONDITIONAL": "PASS",
+  "PL-F20-COUNT": "PASS explicitcorrectrejectedoptionsandtwo-companionreason",
+  "PL-F17-OTIS": "PASS",
+  "PL-F10-DASH": "PASS",
+  "PL-26-ROOM-ELIGIBILITY": "PASS",
+  "PL-27-ROTATION-REASON": "PASS",
+  "PL-28-RULE-TAIL": "PASScopyredirectto132",
+  "all16freshfull_assignment_counts": {
+    "1": 1,
+    "2": 1,
+    "4": 1,
+    "6": 1,
+    "7": 1,
+    "10": 1,
+    "12": 1,
+    "13": 1,
+    "15": 1,
+    "17": 1,
+    "19": 1,
+    "20": 1,
+    "22": 1,
+    "23": 1,
+    "25": 1,
+    "29": 1
+  }
+}

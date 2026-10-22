@@ -1,0 +1,13 @@
+{
+  "id": "V8-READER-EXPORT-TITLE-204",
+  "scope": "derivative_reader_artifact",
+  "status": "CLOSED",
+  "canonical_segments": [
+    "page204.block02",
+    "page204.block03"
+  ],
+  "evidence": "The initial final-review reader export omitted PHOTOGRAPH on page204 although canonical page204.block03 retained it. Root repaired title assembly. The current reader-manuscript page204 now displays the complete title including PHOTOGRAPH; independently reread and verified. Canonical wording was never defective. All 30 solution titles were then verified complete in the reader manuscript and exact final PDF. PDF page 204 was inspected at full-page size; PHOTOGRAPH is visible and legible.",
+  "reader_manuscript_sha256": "e8cfe4c85d054787b13da94563906c9ef92c715d97716df3e5b71d14060f8282",
+  "affects_canonical_native_status": false,
+  "pdf_sha256": "40c38884d5732b74f3766aaa4a26938069b82b5eeb497ee0e5a1ea17597d8ce2"
+}

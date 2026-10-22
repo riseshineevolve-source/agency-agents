@@ -1,0 +1,624 @@
+{
+  "run_sha256": "27102be7b01cb6a80f585ed7925dc3c14d899e1fe778365fa52a1b12360010d8",
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "diagnostic": "COMPLETE",
+  "issues": [
+    {
+      "id": "V8-001",
+      "segment_id": "page005.block05",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page005.block05"
+      ],
+      "detail": "V8-OPENING-PROMISE: replace unsupported monotonic difficulty promise; retain varied breathing spaces.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-002",
+      "segment_id": "page005.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page005.block07"
+      ],
+      "detail": "V8-OPENING-QUESTION: attach colon to its actual mystery question, before cast transition.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-003",
+      "segment_id": "page009.block02",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page009.block02"
+      ],
+      "detail": "V8-ACCESSIBLE-CREDENTIAL: retain reader choice while allowing a scribe or family help.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-004",
+      "segment_id": "page009.block04",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page009.block04"
+      ],
+      "detail": "V8-CALLSIGN-DEFINITION: explain required finale input at first use.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-005",
+      "segment_id": "page012.block04",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page012.block04"
+      ],
+      "detail": "V8-EARLY-SUPPORT: expose navigation and help permission before Case01, not only in backmatter.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-006",
+      "segment_id": "page027.block15",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page027.block15",
+        "page027.block16",
+        "page027.block17"
+      ],
+      "detail": "V8-CASE04-PROMISE: ask for provable contact rather than an unreported choice among carrier histories.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-007",
+      "segment_id": "page027.block27",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page027.block27",
+        "page027.block28",
+        "page027.block29"
+      ],
+      "detail": "V8-CASE04-PROMISE: align Nini's comic redirect with actual solvable task; preserve blink/helmet joke.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-008",
+      "segment_id": "page030.block03",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page030.block03"
+      ],
+      "detail": "V8-CASE04-PAYOFF: name the concrete administrative result without inventing a carrier event.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-009",
+      "segment_id": "page040.block05",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page040.block05",
+        "page040.block06",
+        "page040.block07"
+      ],
+      "detail": "V8-FUNCTION-REPETITION: remove second identical place-beside-file belonging beat within same bridge.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-010",
+      "segment_id": "page052.block04",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page052.block04",
+        "page052.block05",
+        "page052.block06",
+        "page052.block07",
+        "page052.block08",
+        "page052.block09"
+      ],
+      "detail": "V8-FUNCTION-REPETITION: one archive departure, retain uncertainty and exact CaseWall note.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-011",
+      "segment_id": "page076.block09",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page076.block09"
+      ],
+      "detail": "V8-HAT-ART-CLOSURE: make hat a present-table prop; actual evidence photograph contains no hat.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-012",
+      "segment_id": "page076.block12",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page076.block12"
+      ],
+      "detail": "V8-HAT-ART-CLOSURE: explicitly locate hat outside the evidence image; preserve architecture and full Comms.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-013",
+      "segment_id": "page081.block04",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page081.block04",
+        "page081.block05",
+        "page081.block06"
+      ],
+      "detail": "V8-CASEWALL-CLARITY: remove verbatim repeated heading; make exact copy item explicit.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-014",
+      "segment_id": "page094.block08",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page094.block08"
+      ],
+      "detail": "V8-PAINT-SYNTAX: clarify before/after contrast.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-015",
+      "segment_id": "page108.block12",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page108.block12"
+      ],
+      "detail": "V8-CASE23-PROMISE: preserve incomplete transfer without promising an unreported crossing location.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-016",
+      "segment_id": "page108.block13",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page108.block13"
+      ],
+      "detail": "V8-CASE23-PROMISE: align setup with solved contact, preserve all wristband facts.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-017",
+      "segment_id": "page120.block05",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page120.block05"
+      ],
+      "detail": "V8-PARCEL-DESTINATION: close destination question using existing return label and borrowed-tool facts; no invented addressee.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-018",
+      "segment_id": "page126.block04",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page126.block04"
+      ],
+      "detail": "V8-PLAN-PLAYABILITY: explain on-page comparison, so reader does not require a separate physical overlay.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-019",
+      "segment_id": "page130.block03",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page130.block03"
+      ],
+      "detail": "V8-RULE-COPY-ORDER: full rule tail is first supplied132, after damaged card131.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-020",
+      "segment_id": "page141.block11",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page141.block11"
+      ],
+      "detail": "V8-READER-AGE: do not assume every child, teen or family reader is Bibi's depicted trainee age; retain2002evidence.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-021",
+      "segment_id": "page146.block04",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page146.block04",
+        "page146.block05",
+        "page146.block06",
+        "page146.block07",
+        "page146.block08",
+        "page146.block09",
+        "page146.block10",
+        "page146.block11",
+        "page146.block12"
+      ],
+      "detail": "V8-DILO-ARC: preserve curious sequel trigger while paying off careful handling learned inCase21.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-022",
+      "segment_id": "page148.block15",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page148.block15"
+      ],
+      "detail": "V8-PHOTO-NAVIGATION: index must point to both photos and the actual response page; real PDF line patched too.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-023",
+      "segment_id": "page184.block15",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page184.block15",
+        "page184.block16",
+        "page184.block17"
+      ],
+      "detail": "V8-PHOTO-FEEDBACK: replace scolding eleventh-answer aside with useful positive explanation; photo and ten markers unchanged.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-024",
+      "segment_id": "page193.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page193.block07",
+        "page193.block08",
+        "page193.block09"
+      ],
+      "detail": "V8-MARK-KEY-COMPLETENESS: explicitly explain all three excluded cards, including unmarked routed photo file.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-025",
+      "segment_id": "page014.block02",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page014.block02"
+      ],
+      "detail": "V8-OPENING-NAVIGATION: page15 is a transition beforeCase01page16; remove any implication of immediate next-page target.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-026",
+      "segment_id": "page011.block02",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page011.block02"
+      ],
+      "detail": "V8-GLOBAL-MAP-CLARITY: define adjacency, independent direction offsets, grid distance, marker precedence and occupancy. Independent solver confirms all16 rosters unchanged.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-027",
+      "segment_id": "page122.block04",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page122.block04"
+      ],
+      "detail": "V8-ROOM-ZONE-KEY: replace reliance on unprinted ROOM/ZONE labels with explicit task-local key.14derived emptyrooms unchanged.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-028",
+      "segment_id": "page167.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page167.block07"
+      ],
+      "detail": "V8-ROOM-ZONE-HINT: match corrected extraction key.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-029",
+      "segment_id": "page220.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page220.block07",
+        "page220.block08",
+        "page220.block09",
+        "page220.block10",
+        "page220.block11",
+        "page220.block12"
+      ],
+      "detail": "V8-EXTRACTION-EXPLANATION: actual14row case→emptyroom→initial trace, independently derived.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-030",
+      "segment_id": "page181.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page181.block07",
+        "page181.block08",
+        "page181.block09"
+      ],
+      "detail": "V8-WORKED-MAP02: show usable-cell exclusions and row/column elimination.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-031",
+      "segment_id": "page185.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page185.block07",
+        "page185.block08",
+        "page185.block09",
+        "page185.block10"
+      ],
+      "detail": "V8-WORKED-MAP04: explain all decisive alternatives; retain Pixel/Zuri task.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-032",
+      "segment_id": "page188.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page188.block07",
+        "page188.block08",
+        "page188.block09",
+        "page188.block10",
+        "page188.block11"
+      ],
+      "detail": "V8-WORKED-MAP06: teach room-boundary adjacency and row exclusion.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-033",
+      "segment_id": "page190.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page190.block07",
+        "page190.block08",
+        "page190.block09",
+        "page190.block10"
+      ],
+      "detail": "V8-WORKED-MAP07: explain exact-distance alternatives while retaining V6block11 verbatim.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-034",
+      "segment_id": "page190.block12",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page190.block12"
+      ],
+      "detail": "V8-WORKED-MAP07: explain final PropRoom occupancy; V6block11 unchanged.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-035",
+      "segment_id": "page194.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page194.block07",
+        "page194.block08",
+        "page194.block09"
+      ],
+      "detail": "V8-WORKED-MAP10: expose row coverage and exact-one occupancy instead of result list.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-036",
+      "segment_id": "page197.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page197.block07",
+        "page197.block08",
+        "page197.block09",
+        "page197.block10",
+        "page197.block11",
+        "page197.block12",
+        "page197.block13"
+      ],
+      "detail": "V8-WORKED-MAP12: explain row rank, solo-room logic and companion constraint.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-037",
+      "segment_id": "page199.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page199.block07",
+        "page199.block08",
+        "page199.block09",
+        "page199.block10",
+        "page199.block11",
+        "page199.block12"
+      ],
+      "detail": "V8-WORKED-MAP13: name tested candidates, failed branches and final occupancy dependency.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-038",
+      "segment_id": "page202.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page202.block07",
+        "page202.block08",
+        "page202.block09",
+        "page202.block10"
+      ],
+      "detail": "V8-WORKED-MAP15: show interacting direction/cot branches rather than unsupported forced claims.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-039",
+      "segment_id": "page205.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page205.block07",
+        "page205.block08",
+        "page205.block09",
+        "page205.block10",
+        "page205.block11",
+        "page205.block12",
+        "page205.block13"
+      ],
+      "detail": "V8-WORKED-MAP17: clarify row-only north clue and how occupancy selects corridor.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-040",
+      "segment_id": "page208.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page208.block07",
+        "page208.block08",
+        "page208.block09",
+        "page208.block10",
+        "page208.block11"
+      ],
+      "detail": "V8-WORKED-MAP19: show both complete remaining finishes, including failed occupancy.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-041",
+      "segment_id": "page210.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page210.block07",
+        "page210.block08",
+        "page210.block09",
+        "page210.block10",
+        "page210.block11",
+        "page210.block12"
+      ],
+      "detail": "V8-WORKED-MAP20: keep all three usable bunks and explain occupancy choice.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-042",
+      "segment_id": "page213.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page213.block07",
+        "page213.block08",
+        "page213.block09",
+        "page213.block10",
+        "page213.block11",
+        "page213.block12"
+      ],
+      "detail": "V8-WORKED-MAP22: provide starting domains, a failed branch and all-clue finish.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-043",
+      "segment_id": "page215.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page215.block07",
+        "page215.block08",
+        "page215.block09",
+        "page215.block10",
+        "page215.block11"
+      ],
+      "detail": "V8-WORKED-MAP23: show exact distance and directional chain; east clue fixes column only.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-044",
+      "segment_id": "page218.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page218.block07",
+        "page218.block08",
+        "page218.block09",
+        "page218.block10"
+      ],
+      "detail": "V8-WORKED-MAP25: make branch testing and exact-one occupancy visible; use checked failed roster.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-045",
+      "segment_id": "page223.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page223.block07",
+        "page223.block08",
+        "page223.block09",
+        "page223.block10",
+        "page223.block11",
+        "page223.block12"
+      ],
+      "detail": "V8-WORKED-MAP29: explain last-grid branches and exact-one constraint without guessing coordinate.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-046",
+      "segment_id": "page187.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page187.block07",
+        "page187.block08",
+        "page187.block09",
+        "page187.block10",
+        "page187.block11",
+        "page187.block12"
+      ],
+      "detail": "V8-CODE-PROOF: explain why only one order exists instead of an unexplained testing claim.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    },
+    {
+      "id": "V8-047",
+      "segment_id": "page221.block07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "segments": [
+        "page221.block07",
+        "page221.block08",
+        "page221.block09",
+        "page221.block10",
+        "page221.block11"
+      ],
+      "detail": "V8-OVERLAY-PROOF: one point cannot fix rotation; use actual three-anchor coordinate comparison.",
+      "resolution": "Exact sole-writer target independently checked; final native/audience/meaning/logic PASS bound to d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e."
+    }
+  ],
+  "source_ambiguities": []
+}

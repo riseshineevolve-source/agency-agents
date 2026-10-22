@@ -1,19 +1,15 @@
-# Detective EN V7 checkpoint
+# Detective Academy EN V8 checkpoint
 
-Status: OWNER_READ_CANDIDATE. Complete English editorial pass; no owner content freeze or publication.
+Status: OWNER_READ_CANDIDATE. Complete owner-authorized multidisciplinary English audit and integrated editorial corrections.
 
-Exact candidate: `df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1`. Source authority: owner's explicit request to use rse-language for another complete English upgrade, especially witty, affectionate Happy Makers Comms. Baseline V6: `d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc`.
+Exact candidate SHA256: `d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e`. Baseline V7: `df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1`.
 
-All225folios and30mainComms were actually read. V7 changes229stableunits/48folios and105spoken turns in25mainComms;05/11/16/17/27remain whole strong scenes. Earlier V6vsowner225 changed15mainComms/27turns, with no extra V5→V6Comms editing. Three-way artifact makes the difference reviewable.
+Four actual independent specialists covered story/native/humor; audience/developmental sensitivity/mentor support; all30 puzzle meaning/logic; reader engagement/promise/marketing. One root writer integrated47semanticgroups,146stableunits on41folios. Strong existing Comms preserved; onlyCase04Nini taskredirect changed in main30scenes. Hat becomes a current-tableprop, Dilo ending preserves carefulgrowth; mapdefinitions, supportnavigation, rulecopyorder, contract/payoff,15mapreasoning,05codeproof,26extractiontable,27alignmentreasoning improved.
 
-Actual independent native/audience/meaning/logic reviews PASS on the exact final hash. R1concrete findings are retained and closed. CLI `run-r2` reports OWNER_READ_CANDIDATE with deterministicPASS and no unresolved issues/source ambiguities.
+Actual fresh independent CSP: all16maps each ONE FULL roster. All14othercases actuallychecked,90hints/30solutions read. All27V6repairs,16witnessboards,30answerheaders and107printedplacements unchanged. Case02unmarkedC3blocked byclearpositivekey; Case19actualF7blackmarker modeled. Case26explicit8zoneexclusions close unprintedROOM/ZONEkeygap. Four0records/14mapset/finaleinputs preserved.
 
-All27V6fixes, maps,90hints,30answers and reasoning remain exact. Only nonmechanic summary212block12 fixes the first-instruction chronology. Four0records/14maps/finaleinputs unchanged. No new map solve or invented geometry claim.
+Final independent native/audience/meaning/logic PASS on exacthash. Historicalbc90/460a reasoningFIXreceipts retained, not relabelledPASS. Run-r2canonical; runhistorical.
 
-Reading artifact:225folios, `9b43919e74ecb0cb6ba6779b110d2cd1ba82b86cfc146bddc0dde279c6277f20`, 56604852bytes.173text leaves and52locked/source-designed leaves.225copy/offpagechecks and52pixel-identitychecksPASS. Independent visual69folio sample/25fullsizePASS; unsampled156notvisuallyapproved.
+Reading PDF225pages SHA256 `67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230`.173regeneratedtextleaves atminimum10.5pt;50evidence/designedsourceleavespixelidenticalV7,148/184boundednativePDFtextpatches. Actual independent fullsizechanged-folio checks and saved-PDFbindings inreviews; root225folio contact-layout pass isthumbnail-only. FinalBookFactorytypesetting/physicalprint notclaimed.
 
-Comparison artifact:34pages, `4483f5234e563e22215d0d24c0f7e23f28d67e5c09a1cfc0c54bd005c328910a`. All34visually inspected;495main-scene spoken-version roundtripsPASS.
-
-Import `integration/EDITORIAL_IMPORT_PACKET_V7.json` through the existing sole BookFactory writer. It includes original225/V6 operations,3067target hashes, speaker mapping and retained destination remaps. Four corrected V6figure leaves reused unchanged. Actual product import, final fitting, receiving-chat acknowledgment and print proof remain unclaimed.
-
-Source branch: `codex/detective-en-story-upgrade-20261021`, PR43. No main merge or Actions dispatch. CI at final checkpoint not confirmed as green. Historical V5/V6artifacts stay versioned. PLV04R8/FINAL70authority unchanged.
+Consume integration/EDITORIAL_IMPORT_PACKET_V8.json through existing soleBookFactorywriter; originalV7contractand16→15/27→26 remaps remain. No productrenderer/source, PLversion, mainmerge, publication, contentfreeze or Actionsdispatch. HostedCIgreen notconfirmed.

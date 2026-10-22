@@ -1,0 +1,846 @@
+[
+  {
+    "case": 13,
+    "target": "Remy",
+    "pre_companion_count": 8,
+    "verified_rosters": [
+      {
+        "roster": {
+          "Juno": "F3",
+          "Skye": "E4",
+          "Eden": "G2",
+          "Willow": "A1",
+          "Bodhi": "B6",
+          "Moxie": "C5",
+          "Remy": "D7"
+        },
+        "target_room": "Research Lab",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Juno": "F3",
+          "Skye": "E4",
+          "Eden": "G2",
+          "Willow": "A1",
+          "Bodhi": "B7",
+          "Moxie": "C5",
+          "Remy": "D6"
+        },
+        "target_room": "Research Lab",
+        "other_people": [
+          "Bodhi"
+        ],
+        "count": 1,
+        "passes_exactly_one_other": true
+      },
+      {
+        "roster": {
+          "Juno": "F3",
+          "Skye": "E4",
+          "Eden": "G2",
+          "Willow": "A1",
+          "Bodhi": "B6",
+          "Moxie": "D5",
+          "Remy": "C7"
+        },
+        "target_room": "Research Lab",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Juno": "F3",
+          "Skye": "E4",
+          "Eden": "G2",
+          "Willow": "A1",
+          "Bodhi": "B7",
+          "Moxie": "D5",
+          "Remy": "C6"
+        },
+        "target_room": "Ranger Station",
+        "other_people": [
+          "Skye",
+          "Moxie"
+        ],
+        "count": 2,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Juno": "F3",
+          "Skye": "E4",
+          "Eden": "G2",
+          "Willow": "A1",
+          "Bodhi": "C6",
+          "Moxie": "D5",
+          "Remy": "B7"
+        },
+        "target_room": "Research Lab",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Juno": "F3",
+          "Skye": "E4",
+          "Eden": "G2",
+          "Willow": "A1",
+          "Bodhi": "C7",
+          "Moxie": "D5",
+          "Remy": "B6"
+        },
+        "target_room": "Hide Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Juno": "F3",
+          "Skye": "E4",
+          "Eden": "G2",
+          "Willow": "B1",
+          "Bodhi": "C6",
+          "Moxie": "D5",
+          "Remy": "A7"
+        },
+        "target_room": "Hide Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Juno": "F3",
+          "Skye": "E4",
+          "Eden": "G2",
+          "Willow": "B6",
+          "Bodhi": "C7",
+          "Moxie": "D5",
+          "Remy": "A1"
+        },
+        "target_room": "Medical Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      }
+    ]
+  },
+  {
+    "case": 15,
+    "target": "Milo",
+    "pre_companion_count": 9,
+    "verified_rosters": [
+      {
+        "roster": {
+          "Harper": "D2",
+          "Piper": "F1",
+          "Duke": "C5",
+          "Cruz": "B4",
+          "Jett": "G3",
+          "Inez": "E7",
+          "Milo": "A6"
+        },
+        "target_room": "Equipment Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Harper": "F1",
+          "Piper": "D2",
+          "Duke": "C5",
+          "Cruz": "B4",
+          "Jett": "G3",
+          "Inez": "E7",
+          "Milo": "A6"
+        },
+        "target_room": "Equipment Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Harper": "C2",
+          "Piper": "F1",
+          "Duke": "D5",
+          "Cruz": "B4",
+          "Jett": "G3",
+          "Inez": "E7",
+          "Milo": "A6"
+        },
+        "target_room": "Equipment Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Harper": "C2",
+          "Piper": "F1",
+          "Duke": "E5",
+          "Cruz": "B4",
+          "Jett": "G7",
+          "Inez": "D3",
+          "Milo": "A6"
+        },
+        "target_room": "Equipment Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Harper": "C2",
+          "Piper": "G1",
+          "Duke": "E5",
+          "Cruz": "B4",
+          "Jett": "F7",
+          "Inez": "D3",
+          "Milo": "A6"
+        },
+        "target_room": "Equipment Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Harper": "D2",
+          "Piper": "F1",
+          "Duke": "E5",
+          "Cruz": "B4",
+          "Jett": "G3",
+          "Inez": "C7",
+          "Milo": "A6"
+        },
+        "target_room": "Equipment Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Harper": "D2",
+          "Piper": "G1",
+          "Duke": "E5",
+          "Cruz": "C3",
+          "Jett": "F7",
+          "Inez": "B6",
+          "Milo": "A4"
+        },
+        "target_room": "Equipment Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Harper": "D2",
+          "Piper": "F1",
+          "Duke": "E5",
+          "Cruz": "C3",
+          "Jett": "G7",
+          "Inez": "B6",
+          "Milo": "A4"
+        },
+        "target_room": "Equipment Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Harper": "D2",
+          "Piper": "F4",
+          "Duke": "E5",
+          "Cruz": "C3",
+          "Jett": "G7",
+          "Inez": "B6",
+          "Milo": "A1"
+        },
+        "target_room": "Games Cabin",
+        "other_people": [
+          "Harper"
+        ],
+        "count": 1,
+        "passes_exactly_one_other": true
+      }
+    ]
+  },
+  {
+    "case": 19,
+    "target": "Sasha",
+    "pre_companion_count": 2,
+    "verified_rosters": [
+      {
+        "roster": {
+          "Avery": "E5",
+          "Theo": "B2",
+          "Ollie": "D3",
+          "Dex": "A1",
+          "Mack": "C7",
+          "Kian": "F4",
+          "Sasha": "G6"
+        },
+        "target_room": "Service Corridor",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Avery": "E5",
+          "Theo": "C1",
+          "Ollie": "D3",
+          "Dex": "G2",
+          "Mack": "A7",
+          "Kian": "F4",
+          "Sasha": "B6"
+        },
+        "target_room": "Returns Hall",
+        "other_people": [
+          "Mack"
+        ],
+        "count": 1,
+        "passes_exactly_one_other": true
+      }
+    ]
+  },
+  {
+    "case": 22,
+    "target": "Zara",
+    "pre_companion_count": 11,
+    "verified_rosters": [
+      {
+        "roster": {
+          "Lex": "G4",
+          "Imani": "F5",
+          "Cody": "D2",
+          "Nia": "E7",
+          "Gia": "B1",
+          "Wes": "C3",
+          "Zara": "A6"
+        },
+        "target_room": "Music Archive",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Lex": "E6",
+          "Imani": "F7",
+          "Cody": "D4",
+          "Nia": "G5",
+          "Gia": "B1",
+          "Wes": "C3",
+          "Zara": "A2"
+        },
+        "target_room": "Rehearsal Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Lex": "E6",
+          "Imani": "F7",
+          "Cody": "C4",
+          "Nia": "G5",
+          "Gia": "B1",
+          "Wes": "D3",
+          "Zara": "A2"
+        },
+        "target_room": "Rehearsal Room",
+        "other_people": [
+          "Cody"
+        ],
+        "count": 1,
+        "passes_exactly_one_other": true
+      },
+      {
+        "roster": {
+          "Lex": "G4",
+          "Imani": "F5",
+          "Cody": "C2",
+          "Nia": "E7",
+          "Gia": "B1",
+          "Wes": "D3",
+          "Zara": "A6"
+        },
+        "target_room": "Music Archive",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Lex": "E3",
+          "Imani": "F4",
+          "Cody": "C6",
+          "Nia": "G5",
+          "Gia": "B1",
+          "Wes": "D7",
+          "Zara": "A2"
+        },
+        "target_room": "Rehearsal Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Lex": "F5",
+          "Imani": "G4",
+          "Cody": "C6",
+          "Nia": "E2",
+          "Gia": "B1",
+          "Wes": "D7",
+          "Zara": "A3"
+        },
+        "target_room": "Rehearsal Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Lex": "F4",
+          "Imani": "G3",
+          "Cody": "C6",
+          "Nia": "E2",
+          "Gia": "B1",
+          "Wes": "D7",
+          "Zara": "A5"
+        },
+        "target_room": "Rehearsal Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Lex": "C6",
+          "Imani": "D7",
+          "Cody": "E3",
+          "Nia": "G5",
+          "Gia": "B1",
+          "Wes": "F4",
+          "Zara": "A2"
+        },
+        "target_room": "Rehearsal Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Lex": "D7",
+          "Imani": "E6",
+          "Cody": "G3",
+          "Nia": "C5",
+          "Gia": "B1",
+          "Wes": "F4",
+          "Zara": "A2"
+        },
+        "target_room": "Rehearsal Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Lex": "C6",
+          "Imani": "D7",
+          "Cody": "A3",
+          "Nia": "G5",
+          "Gia": "E4",
+          "Wes": "B2",
+          "Zara": "F1"
+        },
+        "target_room": "Office Passage",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Lex": "C6",
+          "Imani": "D7",
+          "Cody": "A3",
+          "Nia": "F5",
+          "Gia": "E4",
+          "Wes": "B2",
+          "Zara": "G1"
+        },
+        "target_room": "Office Passage",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      }
+    ]
+  },
+  {
+    "case": 25,
+    "target": "Nori",
+    "pre_companion_count": 6,
+    "verified_rosters": [
+      {
+        "roster": {
+          "Gabe": "F3",
+          "Casey": "D4",
+          "Rio": "E2",
+          "Tate": "A6",
+          "Sol": "G1",
+          "Wynn": "B7",
+          "Nori": "C5"
+        },
+        "target_room": "Laundry",
+        "other_people": [
+          "Tate",
+          "Wynn"
+        ],
+        "count": 2,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Gabe": "F3",
+          "Casey": "D4",
+          "Rio": "E2",
+          "Tate": "B6",
+          "Sol": "G1",
+          "Wynn": "A5",
+          "Nori": "C7"
+        },
+        "target_room": "Laundry",
+        "other_people": [
+          "Tate",
+          "Wynn"
+        ],
+        "count": 2,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Gabe": "F3",
+          "Casey": "D4",
+          "Rio": "E2",
+          "Tate": "C6",
+          "Sol": "G1",
+          "Wynn": "B7",
+          "Nori": "A5"
+        },
+        "target_room": "Laundry",
+        "other_people": [
+          "Tate",
+          "Wynn"
+        ],
+        "count": 2,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Gabe": "F4",
+          "Casey": "D5",
+          "Rio": "E3",
+          "Tate": "A6",
+          "Sol": "G1",
+          "Wynn": "B7",
+          "Nori": "C2"
+        },
+        "target_room": "Parcel Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Gabe": "F4",
+          "Casey": "D5",
+          "Rio": "E3",
+          "Tate": "A6",
+          "Sol": "G2",
+          "Wynn": "B7",
+          "Nori": "C1"
+        },
+        "target_room": "Parcel Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Gabe": "F3",
+          "Casey": "D5",
+          "Rio": "E2",
+          "Tate": "C6",
+          "Sol": "G1",
+          "Wynn": "B7",
+          "Nori": "A4"
+        },
+        "target_room": "Lobby",
+        "other_people": [
+          "Casey"
+        ],
+        "count": 1,
+        "passes_exactly_one_other": true
+      }
+    ]
+  },
+  {
+    "case": 29,
+    "target": "Seth",
+    "pre_companion_count": 14,
+    "verified_rosters": [
+      {
+        "roster": {
+          "Mavis": "A2",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "F9",
+          "Vega": "B3",
+          "Ren": "H5",
+          "Poppy": "C6",
+          "Wade": "D7",
+          "Seth": "G1"
+        },
+        "target_room": "Science Lab",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "A2",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "B3",
+          "Ren": "H5",
+          "Poppy": "C6",
+          "Wade": "D7",
+          "Seth": "F1"
+        },
+        "target_room": "Equipment Hall",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "B1",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "C3",
+          "Ren": "H5",
+          "Poppy": "F2",
+          "Wade": "D7",
+          "Seth": "A6"
+        },
+        "target_room": "Map Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "B2",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "C3",
+          "Ren": "H5",
+          "Poppy": "F1",
+          "Wade": "D7",
+          "Seth": "A6"
+        },
+        "target_room": "Map Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "B1",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "C9",
+          "Vega": "G2",
+          "Ren": "H5",
+          "Poppy": "D3",
+          "Wade": "F7",
+          "Seth": "A6"
+        },
+        "target_room": "Map Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "A2",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "B3",
+          "Ren": "H5",
+          "Poppy": "C6",
+          "Wade": "F7",
+          "Seth": "D1"
+        },
+        "target_room": "Equipment Hall",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "A2",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "D3",
+          "Ren": "H5",
+          "Poppy": "C6",
+          "Wade": "F7",
+          "Seth": "B1"
+        },
+        "target_room": "Equipment Hall",
+        "other_people": [
+          "Vega"
+        ],
+        "count": 1,
+        "passes_exactly_one_other": true
+      },
+      {
+        "roster": {
+          "Mavis": "B1",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "C2",
+          "Ren": "H5",
+          "Poppy": "D3",
+          "Wade": "F7",
+          "Seth": "A6"
+        },
+        "target_room": "Map Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "B1",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "C3",
+          "Ren": "H5",
+          "Poppy": "D2",
+          "Wade": "F7",
+          "Seth": "A6"
+        },
+        "target_room": "Map Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "B1",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "D3",
+          "Ren": "H5",
+          "Poppy": "C2",
+          "Wade": "F7",
+          "Seth": "A6"
+        },
+        "target_room": "Map Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "B2",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "C3",
+          "Ren": "H5",
+          "Poppy": "D1",
+          "Wade": "F7",
+          "Seth": "A6"
+        },
+        "target_room": "Map Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "B2",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "D3",
+          "Ren": "H5",
+          "Poppy": "C1",
+          "Wade": "F7",
+          "Seth": "A6"
+        },
+        "target_room": "Map Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "C1",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "D3",
+          "Ren": "H5",
+          "Poppy": "B2",
+          "Wade": "F7",
+          "Seth": "A6"
+        },
+        "target_room": "Map Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      },
+      {
+        "roster": {
+          "Mavis": "C2",
+          "Cato": "I4",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Vega": "D3",
+          "Ren": "H5",
+          "Poppy": "B1",
+          "Wade": "F7",
+          "Seth": "A6"
+        },
+        "target_room": "Map Room",
+        "other_people": [],
+        "count": 0,
+        "passes_exactly_one_other": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "ids": [
+      "page011.block02"
+    ],
+    "issue": "V8-GLOBAL-MAP-CLARITY: define adjacency, independent direction offsets, grid distance, marker precedence and occupancy. Independent solver confirms all16 rosters unchanged.",
+    "text": "Some cases use an Academy floor grid to reconstruct where people were standing. Use these rules unless a case gives a more specific instruction.\n1 COORDINATES\nLetters label columns from left to right. Numbers label rows from top to bottom.\nD3 = column D, row 3. Use the labels printed beside the map you are solving.\n2 PLACE THE WITNESSES\nUse only printed witness statements, the map key and visible map features.\n1. Place every witness exactly once, on a usable square.\n2. Each witness must use a different row and a different column.\n3. Start with a certain position. Cross its row and column off the options for everyone else, then check the clues again.\n4. “Exactly one other person” means two people in that named room or area in total. Use this clue while placing people, not just after you finish.\n5. A room companion is a lead for the next interview, not automatically guilty.\n6. Keep every final position on the completed map. Do not erase it after recording the verdict.\n3 CLUE WORDS\nBESIDE: one square up, down, left or right, in the same room or area. Diagonals and squares across a wall do not count.\nDIAGONALLY NEXT TO: exactly one row and one column away; the two squares touch at a corner.\nNORTH / SOUTH / EAST / WEST: up / down / right / left. North-west means above and left; the two distances need not match. The same applies to the other paired directions.\nA row-distance clue fixes only the row difference; a column-distance clue fixes only the column difference, unless the clue also specifies the other direction.\nGRID STEPS: add the row difference and the column difference. Count grid distance, not a walking route around walls.\nOUTER WALL: the outside edge of the whole grid.\n4 READ EACH CASE'S MAP KEY\nA printed open circle means an object square is usable. A printed black square means it is blocked. Follow the marker when an object has one.\nOtherwise, use clear floor and only the objects permitted by that case's key. Other object squares are blocked.\nUse named room or area boundaries when checking who shares a space. Case 26 gives its own room-and-zone key for the later map task.",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page122.block04"
+    ],
+    "issue": "V8-ROOM-ZONE-KEY: replace reliance on unprinted ROOM/ZONE labels with explicit task-local key.14derived emptyrooms unchanged.",
+    "text": "• In each completed map, find the one named room containing zero people. Offices, labs, the Observation Car and the Music Archive count as rooms too.\n• Do not take letters from these zones: Archive Passage, Visitor Walkway, Mail Platform, Baggage Platform, Service Corridor, Office Passage, Funhouse Queue or Roof Terrace.\n",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page167.block07"
+    ],
+    "issue": "V8-ROOM-ZONE-HINT: match corrected extraction key.",
+    "text": "Use the room-and-zone key in the Case 26 rules. Skip the listed zones, even when they have no people. Offices, labs, the Observation Car and the Music Archive can supply letters.\n",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  },
+  {
+    "ids": [
+      "page220.block07",
+      "page220.block08",
+      "page220.block09",
+      "page220.block10",
+      "page220.block11",
+      "page220.block12"
+    ],
+    "issue": "V8-EXTRACTION-EXPLANATION: actual14row case→emptyroom→initial trace, independently derived.",
+    "text": "01\nUse only the fourteen selected completed maps and the room-and-zone key in Case 26.\n02\nEach map has exactly one eligible room with no people. Take its first letter, in case order.\n03\nCHECK YOUR FOURTEEN MAPS\n02 — Coach's Office — C\n04 — Hospitality Room — H\n06 — Egypt Room — E\n07 — Costume Room — C\n10 — Kinetics Lab — K\n12 — Training Room — T\n13 — Hide Room — H\n15 — Equipment Room — E\n17 — Observation Car — O\n19 — Library Office — L\n20 — Drying Room — D\n22 — Music Archive — M\n23 — Access Office — A\n25 — Parcel Room — P\n04\nThe fourteen letters read C H E C K T H E O L D M A P: CHECK THE OLD MAP.\n",
+    "classification": "FIX",
+    "final_classification": "PENDING"
+  }
+]

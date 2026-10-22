@@ -1,0 +1,27 @@
+{
+  "source_pdf_sha256":"9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256":"9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "method":"Independent visual transcription of original unsolved source maps 85 and 93, rendered at 2x. Coordinates run west to east and north to south. Expected rosters are comparison only.",
+  "columns":"ABCDEFG",
+  "case17":{
+    "folios":{"clues":84,"map":85,"hints":[156,165,174],"solution":[205,206]},
+    "room_codes":{"T":"Ticket Office","O":"Observation Car","M":"Main Corridor","P":"Mail Platform","W":"Waiting Lounge","B":"Baggage Platform"},
+    "room_rows":["TOOOOOO","TMMOOOO","TMMMMPP","TTMMMMP","TTTWWPP","BTTTWWW","BBBBBWW"],
+    "blocked":["C1","F1","B2","F3","A4","F4","G4","E6","A7","B7","D7"],
+    "benches":["C2","D5","F7"],
+    "seats":["E1","F2","E3","G7"],
+    "clues":["Otis was either in the Ticket Office or on the Baggage Platform.","Mika was in the Ticket Office and in column B.","Koa was in the Waiting Lounge and in row 6.","Sunny was on a bench.","Luna was in the Waiting Lounge and in column G.","Axel was exactly three rows north of Koa.","Reed's final area contained exactly one other person."],
+    "expected_comparison_only":{"Otis":"A1","Mika":"B4","Koa":"F6","Sunny":"D5","Luna":"G7","Axel":"E3","Reed":"C2"}
+  },
+  "case19":{
+    "folios":{"clues":92,"map":93,"hints":[156,165,174],"solution":[208,209]},
+    "room_codes":{"A":"Archive Room","R":"Reference Room","S":"Study Hall","T":"Returns Hall","O":"Library Office","C":"Service Corridor"},
+    "room_rows":["AARRRRR","AAARRRR","AAAASSC","ATSSSSC","TTTOSCC","TTOOSCC","TTOOOCC"],
+    "blocked":["D1","G1","A2","E2","B3","G3","A4","A5","B5","A6","C6","E6"],
+    "piano":"E6",
+    "usable_objects":["B1","C1","D3","C4","E5","G5","D6","G6","E7","F7"],
+    "clues":["Avery was exactly two rows north of Mack.","Theo was 7 grid steps from the piano.","Exactly one of Ollie and Avery was in the Archive Room.","Dex shared a room with Theo.","Mack was south-west of Ollie.","Kian was in the Study Hall and in column F.","Sasha's final area contained exactly one other person."],
+    "expected_comparison_only":{"Avery":"E5","Theo":"C1","Ollie":"D3","Dex":"G2","Mack":"A7","Kian":"F4","Sasha":"B6"}
+  }
+}
+

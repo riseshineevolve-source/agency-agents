@@ -1,0 +1,180 @@
+[
+  {
+    "case": 2,
+    "empty_room": "Coach's Office",
+    "initial": "C",
+    "all_occupancy": {
+      "Photo Booth": 1,
+      "Display Room": 2,
+      "Coach's Office": 0,
+      "Trophy Hall": 2,
+      "Equipment Room": 1
+    }
+  },
+  {
+    "case": 4,
+    "empty_room": "Hospitality Room",
+    "initial": "H",
+    "all_occupancy": {
+      "Supply Room": 1,
+      "Packing Room": 2,
+      "Pickup Tent": 2,
+      "Kitchen": 1,
+      "Hospitality Room": 0
+    }
+  },
+  {
+    "case": 6,
+    "empty_room": "Egypt Room",
+    "initial": "E",
+    "all_occupancy": {
+      "Foyer": 2,
+      "Archive Passage": 0,
+      "Dinosaur Gallery": 2,
+      "Egypt Room": 0,
+      "Gallery": 2
+    }
+  },
+  {
+    "case": 7,
+    "empty_room": "Costume Room",
+    "initial": "C",
+    "all_occupancy": {
+      "Dressing Room": 2,
+      "Costume Room": 0,
+      "Rehearsal Room": 1,
+      "Stage Office": 1,
+      "Prop Room": 2
+    }
+  },
+  {
+    "case": 10,
+    "empty_room": "Kinetics Lab",
+    "initial": "K",
+    "all_occupancy": {
+      "Tool Room": 2,
+      "Kinetics Lab": 0,
+      "Robotics Lab": 1,
+      "Assembly Hall": 2,
+      "Demo Stage": 1,
+      "Control Booth": 1
+    }
+  },
+  {
+    "case": 12,
+    "empty_room": "Training Room",
+    "initial": "T",
+    "all_occupancy": {
+      "Training Room": 0,
+      "Stage Wing": 2,
+      "Costume Room": 2,
+      "Rehearsal Room": 1,
+      "Bird Room": 1,
+      "Green Room": 1
+    }
+  },
+  {
+    "case": 13,
+    "empty_room": "Hide Room",
+    "initial": "H",
+    "all_occupancy": {
+      "Medical Room": 1,
+      "Habitat Paddock": 2,
+      "Hide Room": 0,
+      "Ranger Station": 2,
+      "Research Lab": 2,
+      "Visitor Walkway": 0
+    }
+  },
+  {
+    "case": 15,
+    "empty_room": "Equipment Room",
+    "initial": "E",
+    "all_occupancy": {
+      "Games Cabin": 2,
+      "Equipment Room": 0,
+      "Ranger Cabin": 2,
+      "First Aid Hut": 1,
+      "Lakeside Dock": 1,
+      "Welcome Lodge": 1
+    }
+  },
+  {
+    "case": 17,
+    "empty_room": "Observation Car",
+    "initial": "O",
+    "all_occupancy": {
+      "Ticket Office": 2,
+      "Observation Car": 0,
+      "Main Corridor": 2,
+      "Mail Platform": 0,
+      "Waiting Lounge": 3,
+      "Baggage Platform": 0
+    }
+  },
+  {
+    "case": 19,
+    "empty_room": "Library Office",
+    "initial": "L",
+    "all_occupancy": {
+      "Archive Room": 1,
+      "Reference Room": 2,
+      "Study Hall": 2,
+      "Returns Hall": 2,
+      "Library Office": 0,
+      "Service Corridor": 0
+    }
+  },
+  {
+    "case": 20,
+    "empty_room": "Drying Room",
+    "initial": "D",
+    "all_occupancy": {
+      "Studio A": 1,
+      "Main Studio": 2,
+      "Drying Room": 0,
+      "Safety Station": 2,
+      "Workshop Hall": 1,
+      "Supply Room": 1
+    }
+  },
+  {
+    "case": 22,
+    "empty_room": "Music Archive",
+    "initial": "M",
+    "all_occupancy": {
+      "Instrument Locker Room": 2,
+      "Office Passage": 0,
+      "Rehearsal Room": 2,
+      "Green Room": 1,
+      "Practice Hall": 2,
+      "Music Archive": 0
+    }
+  },
+  {
+    "case": 23,
+    "empty_room": "Access Office",
+    "initial": "A",
+    "all_occupancy": {
+      "Midway": 2,
+      "Snack Stand": 1,
+      "Funhouse Queue": 0,
+      "Balloon Corner": 2,
+      "Access Office": 0,
+      "Prize Tent": 2
+    }
+  },
+  {
+    "case": 25,
+    "empty_room": "Parcel Room",
+    "initial": "P",
+    "all_occupancy": {
+      "Parcel Room": 0,
+      "Kitchen": 1,
+      "Lobby": 2,
+      "Guest Suite": 2,
+      "Laundry": 2,
+      "Roof Terrace": 0
+    }
+  }
+]

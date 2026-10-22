@@ -1,0 +1,1166 @@
+{
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "folios": 225,
+  "regenerated_text_folios": 173,
+  "unchanged_evidence_designed_folios": 50,
+  "native_text_patch_folios": [
+    148,
+    184
+  ],
+  "patch_rectangles": {
+    "148": [
+      93.5,
+      363.5,
+      292.0,
+      374.0
+    ],
+    "184": [
+      65.0,
+      646.0,
+      547.0,
+      700.0
+    ]
+  },
+  "225serialization_and_offpage_checks": [
+    {
+      "folio": 1,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 2,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 3,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 4,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 5,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 6,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 7,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 8,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 9,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 10,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 11,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 12,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 13,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 14,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 15,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 16,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 17,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 18,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 19,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 20,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 21,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 22,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 23,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 24,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 25,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 26,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 27,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 28,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 29,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 30,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 31,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 32,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 33,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 34,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 35,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 36,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 37,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 38,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 39,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 40,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 41,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 42,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 43,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 44,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 45,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 46,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 47,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 48,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 49,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 50,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 51,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 52,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 53,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 54,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 55,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 56,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 57,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 58,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 59,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 60,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 61,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 62,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 63,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 64,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 65,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 66,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 67,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 68,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 69,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 70,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 71,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 72,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 73,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 74,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 75,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 76,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 77,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 78,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 79,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 80,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 81,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 82,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 83,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 84,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 85,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 86,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 87,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 88,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 89,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 90,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 91,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 92,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 93,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 94,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 95,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 96,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 97,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 98,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 99,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 100,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 101,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 102,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 103,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 104,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 105,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 106,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 107,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 108,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 109,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 110,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 111,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 112,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 113,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 114,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 115,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 116,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 117,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 118,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 119,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 120,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 121,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 122,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 123,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 124,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 125,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 126,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 127,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 128,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 129,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 130,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 131,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 132,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 133,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 134,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 135,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 136,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 137,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 138,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 139,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 140,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 141,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 142,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 143,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 144,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 145,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 146,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 147,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 148,
+      "donor": "native_text_patch",
+      "status": "PASS"
+    },
+    {
+      "folio": 149,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 150,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 151,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 152,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 153,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 154,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 155,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 156,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 157,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 158,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 159,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 160,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 161,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 162,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 163,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 164,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 165,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 166,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 167,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 168,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 169,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 170,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 171,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 172,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 173,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 174,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 175,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 176,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 177,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 178,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 179,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 180,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 181,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 182,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 183,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 184,
+      "donor": "native_text_patch",
+      "status": "PASS"
+    },
+    {
+      "folio": 185,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 186,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 187,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 188,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 189,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 190,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 191,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 192,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 193,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 194,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 195,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 196,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 197,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 198,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 199,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 200,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 201,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 202,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 203,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 204,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 205,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 206,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 207,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 208,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 209,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 210,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 211,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 212,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 213,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 214,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 215,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 216,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 217,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 218,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 219,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 220,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 221,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 222,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 223,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    },
+    {
+      "folio": 224,
+      "donor": "retained_evidence_or_designed",
+      "status": "PASS"
+    },
+    {
+      "folio": 225,
+      "donor": "v8_canonical_text",
+      "status": "PASS"
+    }
+  ],
+  "unchanged_evidence_pixel_identity": "PASS",
+  "two_patch_changed_pixels_inside_text_rectangles": "PASS",
+  "actual_visual_review": {
+    "status": "PASS",
+    "audience_fullsize_folios": 42,
+    "audience_receipt": "reviews/audience-final/audience.json",
+    "reader_fullsize_folios": 19,
+    "reader_receipt": "reviews/reader-market-final/visual.json",
+    "all47_evidence_answerart_pixel_binding": "reviews/puzzles-final/FINAL_EVIDENCE_RENDER_BINDING_67278523.json",
+    "root_contact_scope": "225folios atthumbnail scale from40cproof;224pixelidentity+148finalfullsizeclosurebindcurrent672proof.",
+    "native_export": "All30solutiontitles and120/141–147speakersequences rechecked in currentPDF."
+  },
+  "production_typesetting_and_physical_print": "NOT_RUN",
+  "print_ready": false
+}

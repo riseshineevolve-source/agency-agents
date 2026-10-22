@@ -1,0 +1,60 @@
+{
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "status": "PASS",
+  "reviews": [
+    {
+      "stage": "native_language",
+      "status": "PASS",
+      "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+      "reviewer": "Actual independent agent /root/v8_story_humor",
+      "scope": "Actual complete 225-folio V8 bc90 reader-manuscript reread, all 46 initial semantic edit groups, then actual bounded follow-up of all final delta units against preserved bc90bytes and assembled affected pages 14/194/199/205/210. Final total: 47 semantic groups and 146 changed units on 41 folios against V7. All 30 main Comms, hints/solutions and story dependencies read. All 3,067 canonical targets independently matched rich target_text; unchanged art-label text inherits the actual R1 read after byte equality verification. No native-speaker or professional identity claimed.",
+      "evidence": "Actual independent review, findings, closure and scope: reviews/story-humor-final/native_language.json",
+      "receipt_sha256": "6fec8f59897e2307664d161e8ce9427e6c2086d4092aabdaf0c3734fdd78b5f6"
+    },
+    {
+      "stage": "audience",
+      "status": "PASS",
+      "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+      "reviewer": "v8_child_mentor — independent child/teen/family and supportive-mentor editorial audience reviewer",
+      "scope": "Complete 225-folio manuscript coverage; full V8-r1 reread plus bounded final changes with neighbors/dependencies; 146 changed segments, 41 changed folios and 47 semantic groups. Full-size saved-PDF visual scope is all 41 changed folios plus full-title folio 204.",
+      "evidence": "Actual independent review, findings, closure and scope: reviews/audience-final/audience.json",
+      "receipt_sha256": "ce4c70d4bf85422a83570646375444bb57dad24501bb9298640a7aa747f6b436"
+    },
+    {
+      "stage": "logic",
+      "status": "PASS",
+      "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+      "reviewer": "Actual independent agent /root/v8_reader_market",
+      "scope": "Actual complete 225-folio V8 R1 reading, including all 30 cases and all hints/solutions, at bc90b44439e6380104a67873383e946923577b86ece0b6f482380b6c9e73c76b; then verified exact R2/final delta, affected neighbors and dependency closure on d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e. No pretend repeated whole-book read after bounded fixes.",
+      "evidence": "Actual independent review, findings, closure and scope: reviews/reader-market-final/logic.json",
+      "receipt_sha256": "50321883e24a0852b5fab65f97463bec2c033ae20f4d42b5c6f9f3e46d97dd29"
+    },
+    {
+      "stage": "meaning",
+      "status": "PASS",
+      "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+      "reviewer": "Actual independent agent /root/v8_puzzle_logic",
+      "scope": {
+        "cases_actually_reviewed": 30,
+        "spatial_maps_actually_modeled_and_exhaustively_enumerated": 16,
+        "nonspatial_cases_actually_resolved": 14,
+        "hint_entries_actually_read_and_checked": 90,
+        "answer_and_reasoning_sections_actually_read": 30,
+        "unsolved_evidence_folios_rendered_and_visually_inspected": 31,
+        "original_evidence_source": "All31unsolvedV8evidencefoliosand16answer-artfoliosverifiedbyactualrenderpixelhashasidenticaltoindividuallyinspectedV7figures. Case03solution184embeddedphotographicartidentical;newnativecaptionreviewedascandidatetext.",
+        "closed_map_roster_uniqueness": "ExactlyONE FULL witnessassignment for each of16 maps, notmerelyuniqueintendedcontact.",
+        "final_V8_proof_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+        "render_binding_receipt": "FINAL_EVIDENCE_RENDER_BINDING.json",
+        "previous_verified_V8_proof_sha256": "40c38884d5732b74f3766aaa4a26938069b82b5eeb497ee0e5a1ea17597d8ce2",
+        "current_render_carrythrough_receipt": "FINAL_EVIDENCE_RENDER_BINDING_67278523.json",
+        "final_border_only_revision": "Folio148borderrepaired;canonicaltextunchanged. Root225pagetextand224pagepixelidentityreceiptread;all47evidence/answerartpixelsindependentlyreverifiedagainstinitialbinding."
+      },
+      "evidence": "Actual all30case review, fresh16-map CSP,14nonspatial resolutions,90hint read, reasoning/claim closure: reviews/puzzles-final/FINAL_MEANING_LOGIC_CLOSURE.json",
+      "receipt_sha256": "5454665dbc99f7ff04a28e5a7f5735b44c6e8f94e6017c933fb02f8d98d63600"
+    }
+  ],
+  "actual_specialist_agents": 4,
+  "one_writer": "/root",
+  "reading_pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "normalization_only": "Interchange wrapper of actual independent PASS reports; not simulated reviewer output."
+}

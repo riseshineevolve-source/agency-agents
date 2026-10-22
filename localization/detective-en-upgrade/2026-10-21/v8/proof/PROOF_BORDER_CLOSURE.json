@@ -1,0 +1,11 @@
+{
+  "old_pdf_sha256": "40c38884d5732b74f3766aaa4a26938069b82b5eeb497ee0e5a1ea17597d8ce2",
+  "new_pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "text_identical_folios": 225,
+  "render_identical_folios": 224,
+  "only_render_change": 148,
+  "reason": "Constrain white text knockout to interior of Case03 index card, preserve original card border.",
+  "comparison_scale": 0.5,
+  "status": "PASS"
+}

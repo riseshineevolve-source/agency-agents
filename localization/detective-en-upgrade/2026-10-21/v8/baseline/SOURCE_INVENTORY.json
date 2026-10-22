@@ -1,0 +1,13 @@
+{
+  "baseline_source": "recovery/unpacked/detective-v7/candidate/candidate.json",
+  "baseline_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "baseline_version": "V7",
+  "reading_pdf_sha256": "9b43919e74ecb0cb6ba6779b110d2cd1ba82b86cfc146bddc0dde279c6277f20",
+  "original_owner_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "canonical_segments": 3067,
+  "source_folios": 225,
+  "cases": 30,
+  "hints": 90,
+  "solutions": 30,
+  "authority_reason": "Latest completed, hash-verified V7 master and actual corrected figures; V6 retained in source archive."
+}

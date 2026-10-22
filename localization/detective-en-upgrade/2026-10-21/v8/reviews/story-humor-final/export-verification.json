@@ -1,0 +1,1189 @@
+{
+  "format": "detective-v8-native-export-verification-v1",
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "reader_manuscript_sha256": "e8cfe4c85d054787b13da94563906c9ef92c715d97716df3e5b71d14060f8282",
+  "pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "pdf_pages": 225,
+  "status": "PASS",
+  "all_30_solution_titles": [
+    {
+      "case": 1,
+      "source_folio": 179,
+      "canonical_title": "THE ENVELOPE THAT WAS NEVER DELIVERED",
+      "canonical_title_ids": [
+        "page179.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 2,
+      "source_folio": 181,
+      "canonical_title": "THE TROPHY THAT CAME BACK TOO EARLY",
+      "canonical_title_ids": [
+        "page181.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 3,
+      "source_folio": 183,
+      "canonical_title": "LULI'S LOOK-TWICE FILE",
+      "canonical_title_ids": [
+        "page183.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 4,
+      "source_folio": 185,
+      "canonical_title": "THE EVIDENCE BOX IN THE WRONG TENT",
+      "canonical_title_ids": [
+        "page185.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 5,
+      "source_folio": 187,
+      "canonical_title": "DILO'S CODE THAT DEFINITELY WASN'T 123456",
+      "canonical_title_ids": [
+        "page187.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 6,
+      "source_folio": 188,
+      "canonical_title": "THE DRAGON TOOTH THAT WAS ACTUALLY A SPOON",
+      "canonical_title_ids": [
+        "page188.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 7,
+      "source_folio": 190,
+      "canonical_title": "THE COSTUME THAT WALKED AWAY",
+      "canonical_title_ids": [
+        "page190.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 8,
+      "source_folio": 192,
+      "canonical_title": "ALIO'S ABSOLUTELY SAFE SHORTCUT",
+      "canonical_title_ids": [
+        "page192.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 9,
+      "source_folio": 193,
+      "canonical_title": "THE SYMBOL THAT SHOULDN'T BE HERE",
+      "canonical_title_ids": [
+        "page193.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 10,
+      "source_folio": 194,
+      "canonical_title": "THE ROBOT WITH TWO OWNERS",
+      "canonical_title_ids": [
+        "page194.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 11,
+      "source_folio": 196,
+      "canonical_title": "MIMI'S EVIDENCE BAG PROBLEM",
+      "canonical_title_ids": [
+        "page196.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 12,
+      "source_folio": 197,
+      "canonical_title": "THE PARROT WHO KNEW THE PASSWORD",
+      "canonical_title_ids": [
+        "page197.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 13,
+      "source_folio": 199,
+      "canonical_title": "THE CAMERA THAT BLINKED AT 4:17",
+      "canonical_title_ids": [
+        "page199.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 14,
+      "source_folio": 201,
+      "canonical_title": "ONE WITNESS IS ACCIDENTALLY IMPOSSIBLE",
+      "canonical_title_ids": [
+        "page201.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 15,
+      "source_folio": 202,
+      "canonical_title": "THE BACKPACK THAT CHANGED OWNERS",
+      "canonical_title_ids": [
+        "page202.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 16,
+      "source_folio": 204,
+      "canonical_title": "GRANDMA BIBI'S VERY OLD, VERY EMBARRASSING PHOTOGRAPH",
+      "canonical_title_ids": [
+        "page204.block02",
+        "page204.block03"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 17,
+      "source_folio": 205,
+      "canonical_title": "THE TRAIN TICKET THAT WASN'T LOST",
+      "canonical_title_ids": [
+        "page205.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 18,
+      "source_folio": 207,
+      "canonical_title": "THE SEVEN-MINUTE ALIBI",
+      "canonical_title_ids": [
+        "page207.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 19,
+      "source_folio": 208,
+      "canonical_title": "THE LIBRARY BOOK THAT CHECKED ITSELF OUT",
+      "canonical_title_ids": [
+        "page208.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 20,
+      "source_folio": 210,
+      "canonical_title": "THE PAINT-SPLATTERED ALIBI",
+      "canonical_title_ids": [
+        "page210.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 21,
+      "source_folio": 212,
+      "canonical_title": "THE NOTE IN FOUR PIECES",
+      "canonical_title_ids": [
+        "page212.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 22,
+      "source_folio": 213,
+      "canonical_title": "THE MUSIC ROOM MIX-UP",
+      "canonical_title_ids": [
+        "page213.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 23,
+      "source_folio": 215,
+      "canonical_title": "THE WRISTBAND SWITCH AT ADVENTURE PARK",
+      "canonical_title_ids": [
+        "page215.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 24,
+      "source_folio": 217,
+      "canonical_title": "THE FOOTPRINTS THAT WALKED BACKWARDS",
+      "canonical_title_ids": [
+        "page217.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 25,
+      "source_folio": 218,
+      "canonical_title": "THE PACKAGE WITH NO NAME",
+      "canonical_title_ids": [
+        "page218.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 26,
+      "source_folio": 220,
+      "canonical_title": "THE CASE OF THE EMPTY ROOMS",
+      "canonical_title_ids": [
+        "page220.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 27,
+      "source_folio": 221,
+      "canonical_title": "BIBI'S MAP HAS ONE ROOM WITH ZERO DOORS",
+      "canonical_title_ids": [
+        "page221.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 28,
+      "source_folio": 222,
+      "canonical_title": "RULE ZERO",
+      "canonical_title_ids": [
+        "page222.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 29,
+      "source_folio": 223,
+      "canonical_title": "THE MAP BENEATH THE MAP",
+      "canonical_title_ids": [
+        "page223.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    },
+    {
+      "case": 30,
+      "source_folio": 225,
+      "canonical_title": "THE MYSTERY OF ROOM ZERO",
+      "canonical_title_ids": [
+        "page225.block02"
+      ],
+      "reader_title_complete": true,
+      "pdf_title_complete": true
+    }
+  ],
+  "all_47_changed_semantic_group_joins": [
+    {
+      "group": 1,
+      "page": 5,
+      "ids": [
+        "page005.block05"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 2,
+      "page": 5,
+      "ids": [
+        "page005.block07"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 3,
+      "page": 9,
+      "ids": [
+        "page009.block02"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 4,
+      "page": 9,
+      "ids": [
+        "page009.block04"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 5,
+      "page": 12,
+      "ids": [
+        "page012.block04"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 6,
+      "page": 27,
+      "ids": [
+        "page027.block15",
+        "page027.block16",
+        "page027.block17"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 7,
+      "page": 27,
+      "ids": [
+        "page027.block27",
+        "page027.block28",
+        "page027.block29"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 8,
+      "page": 30,
+      "ids": [
+        "page030.block03"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 9,
+      "page": 40,
+      "ids": [
+        "page040.block05",
+        "page040.block06",
+        "page040.block07"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 10,
+      "page": 52,
+      "ids": [
+        "page052.block04",
+        "page052.block05",
+        "page052.block06",
+        "page052.block07",
+        "page052.block08",
+        "page052.block09"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 11,
+      "page": 76,
+      "ids": [
+        "page076.block09"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 12,
+      "page": 76,
+      "ids": [
+        "page076.block12"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 13,
+      "page": 81,
+      "ids": [
+        "page081.block04",
+        "page081.block05",
+        "page081.block06"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 14,
+      "page": 94,
+      "ids": [
+        "page094.block08"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 15,
+      "page": 108,
+      "ids": [
+        "page108.block12"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 16,
+      "page": 108,
+      "ids": [
+        "page108.block13"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 17,
+      "page": 120,
+      "ids": [
+        "page120.block05"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 18,
+      "page": 126,
+      "ids": [
+        "page126.block04"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 19,
+      "page": 130,
+      "ids": [
+        "page130.block03"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 20,
+      "page": 141,
+      "ids": [
+        "page141.block11"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 21,
+      "page": 146,
+      "ids": [
+        "page146.block04",
+        "page146.block05",
+        "page146.block06",
+        "page146.block07",
+        "page146.block08",
+        "page146.block09",
+        "page146.block10",
+        "page146.block11",
+        "page146.block12"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 22,
+      "page": 148,
+      "ids": [
+        "page148.block15"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 23,
+      "page": 184,
+      "ids": [
+        "page184.block15",
+        "page184.block16",
+        "page184.block17"
+      ],
+      "reader_contains_complete_joined_text": false,
+      "reader_artwork_placeholder_expected": true,
+      "artwork_text_visually_verified": true,
+      "export_verified": true
+    },
+    {
+      "group": 24,
+      "page": 193,
+      "ids": [
+        "page193.block07",
+        "page193.block08",
+        "page193.block09"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 25,
+      "page": 14,
+      "ids": [
+        "page014.block02"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 26,
+      "page": 11,
+      "ids": [
+        "page011.block02"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 27,
+      "page": 122,
+      "ids": [
+        "page122.block04"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 28,
+      "page": 167,
+      "ids": [
+        "page167.block07"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 29,
+      "page": 220,
+      "ids": [
+        "page220.block07",
+        "page220.block08",
+        "page220.block09",
+        "page220.block10",
+        "page220.block11",
+        "page220.block12"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 30,
+      "page": 181,
+      "ids": [
+        "page181.block07",
+        "page181.block08",
+        "page181.block09"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 31,
+      "page": 185,
+      "ids": [
+        "page185.block07",
+        "page185.block08",
+        "page185.block09",
+        "page185.block10"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 32,
+      "page": 188,
+      "ids": [
+        "page188.block07",
+        "page188.block08",
+        "page188.block09",
+        "page188.block10",
+        "page188.block11"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 33,
+      "page": 190,
+      "ids": [
+        "page190.block07",
+        "page190.block08",
+        "page190.block09",
+        "page190.block10"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 34,
+      "page": 190,
+      "ids": [
+        "page190.block12"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 35,
+      "page": 194,
+      "ids": [
+        "page194.block07",
+        "page194.block08",
+        "page194.block09"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 36,
+      "page": 197,
+      "ids": [
+        "page197.block07",
+        "page197.block08",
+        "page197.block09",
+        "page197.block10",
+        "page197.block11",
+        "page197.block12",
+        "page197.block13"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 37,
+      "page": 199,
+      "ids": [
+        "page199.block07",
+        "page199.block08",
+        "page199.block09",
+        "page199.block10",
+        "page199.block11",
+        "page199.block12"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 38,
+      "page": 202,
+      "ids": [
+        "page202.block07",
+        "page202.block08",
+        "page202.block09",
+        "page202.block10"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 39,
+      "page": 205,
+      "ids": [
+        "page205.block07",
+        "page205.block08",
+        "page205.block09",
+        "page205.block10",
+        "page205.block11",
+        "page205.block12",
+        "page205.block13"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 40,
+      "page": 208,
+      "ids": [
+        "page208.block07",
+        "page208.block08",
+        "page208.block09",
+        "page208.block10",
+        "page208.block11"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 41,
+      "page": 210,
+      "ids": [
+        "page210.block07",
+        "page210.block08",
+        "page210.block09",
+        "page210.block10",
+        "page210.block11",
+        "page210.block12"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 42,
+      "page": 213,
+      "ids": [
+        "page213.block07",
+        "page213.block08",
+        "page213.block09",
+        "page213.block10",
+        "page213.block11",
+        "page213.block12"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 43,
+      "page": 215,
+      "ids": [
+        "page215.block07",
+        "page215.block08",
+        "page215.block09",
+        "page215.block10",
+        "page215.block11"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 44,
+      "page": 218,
+      "ids": [
+        "page218.block07",
+        "page218.block08",
+        "page218.block09",
+        "page218.block10"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 45,
+      "page": 223,
+      "ids": [
+        "page223.block07",
+        "page223.block08",
+        "page223.block09",
+        "page223.block10",
+        "page223.block11",
+        "page223.block12"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 46,
+      "page": 187,
+      "ids": [
+        "page187.block07",
+        "page187.block08",
+        "page187.block09",
+        "page187.block10",
+        "page187.block11",
+        "page187.block12"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    },
+    {
+      "group": 47,
+      "page": 221,
+      "ids": [
+        "page221.block07",
+        "page221.block08",
+        "page221.block09",
+        "page221.block10",
+        "page221.block11"
+      ],
+      "reader_contains_complete_joined_text": true,
+      "reader_artwork_placeholder_expected": false,
+      "artwork_text_visually_verified": false,
+      "export_verified": true
+    }
+  ],
+  "narrative_and_speaker_order": [
+    {
+      "page": 120,
+      "source_brand_folio_metadata_ignored": true,
+      "reader_pdf_narrative_identical_ignoring_whitespace_and_punctuation": true,
+      "canonical_speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "MIMI"
+      ],
+      "pdf_speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "MIMI"
+      ],
+      "reader_speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "MIMI"
+      ],
+      "speaker_order_matches": true,
+      "canonical_narrative_and_utterance_mapping_manually_read": true
+    },
+    {
+      "page": 141,
+      "source_brand_folio_metadata_ignored": true,
+      "reader_pdf_narrative_identical_ignoring_whitespace_and_punctuation": true,
+      "canonical_speaker_order": [
+        "BIBI",
+        "LULI",
+        "MIMI",
+        "ALIO",
+        "EVERYONE",
+        "DILO",
+        "BIBI",
+        "NINI",
+        "BIBI"
+      ],
+      "pdf_speaker_order": [
+        "BIBI",
+        "LULI",
+        "MIMI",
+        "ALIO",
+        "EVERYONE",
+        "DILO",
+        "BIBI",
+        "NINI",
+        "BIBI"
+      ],
+      "reader_speaker_order": [
+        "BIBI",
+        "LULI",
+        "MIMI",
+        "ALIO",
+        "EVERYONE",
+        "DILO",
+        "BIBI",
+        "NINI",
+        "BIBI"
+      ],
+      "speaker_order_matches": true,
+      "canonical_narrative_and_utterance_mapping_manually_read": true
+    },
+    {
+      "page": 142,
+      "source_brand_folio_metadata_ignored": true,
+      "reader_pdf_narrative_identical_ignoring_whitespace_and_punctuation": true,
+      "canonical_speaker_order": [
+        "LULI",
+        "MIMI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "BIBI",
+        "NINI"
+      ],
+      "pdf_speaker_order": [
+        "LULI",
+        "MIMI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "BIBI",
+        "NINI"
+      ],
+      "reader_speaker_order": [
+        "LULI",
+        "MIMI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "BIBI",
+        "NINI"
+      ],
+      "speaker_order_matches": true,
+      "canonical_narrative_and_utterance_mapping_manually_read": true
+    },
+    {
+      "page": 143,
+      "source_brand_folio_metadata_ignored": true,
+      "reader_pdf_narrative_identical_ignoring_whitespace_and_punctuation": true,
+      "canonical_speaker_order": [
+        "LULI",
+        "MIMI",
+        "DILO",
+        "BIBI",
+        "MIMI"
+      ],
+      "pdf_speaker_order": [
+        "LULI",
+        "MIMI",
+        "DILO",
+        "BIBI",
+        "MIMI"
+      ],
+      "reader_speaker_order": [
+        "LULI",
+        "MIMI",
+        "DILO",
+        "BIBI",
+        "MIMI"
+      ],
+      "speaker_order_matches": true,
+      "canonical_narrative_and_utterance_mapping_manually_read": true
+    },
+    {
+      "page": 144,
+      "source_brand_folio_metadata_ignored": true,
+      "reader_pdf_narrative_identical_ignoring_whitespace_and_punctuation": true,
+      "canonical_speaker_order": [],
+      "pdf_speaker_order": [],
+      "reader_speaker_order": [],
+      "speaker_order_matches": true,
+      "canonical_narrative_and_utterance_mapping_manually_read": true
+    },
+    {
+      "page": 145,
+      "source_brand_folio_metadata_ignored": true,
+      "reader_pdf_narrative_identical_ignoring_whitespace_and_punctuation": true,
+      "canonical_speaker_order": [
+        "MIMI",
+        "LULI",
+        "MIMI",
+        "DILO",
+        "BIBI"
+      ],
+      "pdf_speaker_order": [
+        "MIMI",
+        "LULI",
+        "MIMI",
+        "DILO",
+        "BIBI"
+      ],
+      "reader_speaker_order": [
+        "MIMI",
+        "LULI",
+        "MIMI",
+        "DILO",
+        "BIBI"
+      ],
+      "speaker_order_matches": true,
+      "canonical_narrative_and_utterance_mapping_manually_read": true
+    },
+    {
+      "page": 146,
+      "source_brand_folio_metadata_ignored": true,
+      "reader_pdf_narrative_identical_ignoring_whitespace_and_punctuation": true,
+      "canonical_speaker_order": [
+        "NINI",
+        "LULI",
+        "DILO",
+        "MIMI"
+      ],
+      "pdf_speaker_order": [
+        "NINI",
+        "LULI",
+        "DILO",
+        "MIMI"
+      ],
+      "reader_speaker_order": [
+        "NINI",
+        "LULI",
+        "DILO",
+        "MIMI"
+      ],
+      "speaker_order_matches": true,
+      "canonical_narrative_and_utterance_mapping_manually_read": true
+    },
+    {
+      "page": 147,
+      "source_brand_folio_metadata_ignored": true,
+      "reader_pdf_narrative_identical_ignoring_whitespace_and_punctuation": true,
+      "canonical_speaker_order": [
+        "BIBI",
+        "BIBI",
+        "DILO",
+        "LULI",
+        "ALIO",
+        "MIMI"
+      ],
+      "pdf_speaker_order": [
+        "BIBI",
+        "BIBI",
+        "DILO",
+        "LULI",
+        "ALIO",
+        "MIMI"
+      ],
+      "reader_speaker_order": [
+        "BIBI",
+        "BIBI",
+        "DILO",
+        "LULI",
+        "ALIO",
+        "MIMI"
+      ],
+      "speaker_order_matches": true,
+      "canonical_narrative_and_utterance_mapping_manually_read": true
+    }
+  ],
+  "visual_full_page_inspections_completed": [
+    184,
+    204
+  ],
+  "scope": "Exact title and normalized text-order/assembly verification. This is not production layout or physical print approval.",
+  "initial_inspected_pdf_sha256": "40c38884d5732b74f3766aaa4a26938069b82b5eeb497ee0e5a1ea17597d8ce2",
+  "current_proof_binding": {
+    "status": "PASS",
+    "verified_utc": "2026-10-22T07:59:31.378168+00:00",
+    "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+    "prior_pdf_sha256": "40c38884d5732b74f3766aaa4a26938069b82b5eeb497ee0e5a1ea17597d8ce2",
+    "current_pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+    "current_pdf_pages": 225,
+    "closure_receipt_path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/proof/PROOF_BORDER_CLOSURE.json",
+    "closure_receipt_sha256": "e5a198c1eaa1f5b444b5e5f0b4ff4c638d863bc331dcb08872c9ebded7812860",
+    "closure_receipt_checked": true,
+    "reported_text_identical_folios": 225,
+    "reported_render_identical_folios": 224,
+    "reported_only_render_change": 148,
+    "independently_rechecked_current_pdf_sha256": true,
+    "all_30_solution_titles_rechecked_in_current_pdf": true,
+    "requested_speaker_orders_rechecked_in_current_pdf": true,
+    "prior_visual_scope_unchanged": [
+      184,
+      204
+    ],
+    "comparison_scope_note": "The border-closure receipt supplies the 225 text / 224 render comparison. This agent independently verified the current file hash and 225-page count and rechecked all 30 title strings and requested canonical speaker orders. Prior visual inspection scope remains valid because folios184/204 are among the reported unchanged renders. No new full-book visual or print approval is claimed."
+  }
+}

@@ -1,0 +1,618 @@
+[
+  {
+    "ids": [
+      "page005.block05"
+    ],
+    "text": "YOU MAKE THE CALL\nThey do not get to make your verdict for you.\nThe maps grow larger, and different cases ask you to test the evidence in different ways.",
+    "issue": "V8-OPENING-PROMISE: replace unsupported monotonic difficulty promise; retain varied breathing spaces.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "YOU MAKE THE CALL\nThey do not get to make your verdict for you.\nThe cases get harder as your investigation grows.",
+    "after": "YOU MAKE THE CALL\nThey do not get to make your verdict for you.\nThe maps grow larger, and different cases ask you to test the evidence in different ways."
+  },
+  {
+    "ids": [
+      "page005.block07"
+    ],
+    "text": "And somewhere inside the Academy, one question keeps returning:\nWHAT IS ROOM ZERO?\nLET'S MEET THE HAPPY MAKERS",
+    "issue": "V8-OPENING-QUESTION: attach colon to its actual mystery question, before cast transition.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "WHAT IS ROOM ZERO?\nAnd somewhere inside the Academy, one question keeps returning:\nLET'S MEET THE HAPPY MAKERS",
+    "after": "And somewhere inside the Academy, one question keeps returning:\nWHAT IS ROOM ZERO?\nLET'S MEET THE HAPPY MAKERS"
+  },
+  {
+    "ids": [
+      "page009.block02"
+    ],
+    "text": "If you are in, this is the moment.\nChoose the name and call sign you want us to use. Someone can help you write them.\nBeside the Case Table stands a small certification rack. Five badges hang on it. Hook 06 is empty.\nMimi slides a pencil over. \"Start with your name.\"",
+    "issue": "V8-ACCESSIBLE-CREDENTIAL: retain reader choice while allowing a scribe or family help.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "If you are in, this is the moment.\nNo one else can fill this out for you.\nBeside the Case Table stands a small certification rack. Five badges hang on it. Hook 06 is empty.\nMimi slides a pencil over. \"Start with the name you want us to use.\"",
+    "after": "If you are in, this is the moment.\nChoose the name and call sign you want us to use. Someone can help you write them.\nBeside the Case Table stands a small certification rack. Five badges hang on it. Hook 06 is empty.\nMimi slides a pencil over. \"Start with your name.\""
+  },
+  {
+    "ids": [
+      "page009.block04"
+    ],
+    "text": "Your call sign is a detective nickname you choose. Use the same one whenever the book asks.\nYour best detective skill can be anything useful: noticing tiny details, remembering odd facts, asking good questions, staying calm, drawing maps, spotting patterns - or something only you know how to do.\nThe credential gets you into the investigation.\nThe cases decide what kind of detective you become.",
+    "issue": "V8-CALLSIGN-DEFINITION: explain required finale input at first use.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "Your best detective skill can be anything useful: noticing tiny details, remembering odd facts, asking good questions, staying calm, drawing maps, spotting patterns - or something only you know how to do.\nThe credential gets you into the investigation.\nThe cases decide what kind of detective you become.",
+    "after": "Your call sign is a detective nickname you choose. Use the same one whenever the book asks.\nYour best detective skill can be anything useful: noticing tiny details, remembering odd facts, asking good questions, staying calm, drawing maps, spotting patterns - or something only you know how to do.\nThe credential gets you into the investigation.\nThe cases decide what kind of detective you become."
+  },
+  {
+    "ids": [
+      "page012.block04"
+    ],
+    "text": "HINT VAULT + SOLUTION FILES\nStuck? Find your case in the index on pages 148–149. It lists all three hint pages and the solution page.\nHINT LEVEL 1: A small nudge.\nHINT LEVEL 2: Narrow the search.\nHINT LEVEL 3: A bigger push.\nSOLUTION FILES: Full answers and explanations.\nRead only your case's entry to avoid other answers. You can pause, try again or work with someone. Using a hint counts as detective work.",
+    "issue": "V8-EARLY-SUPPORT: expose navigation and help permission before Case01, not only in backmatter.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "HINT VAULT + SOLUTION FILES\nStuck? Use the Hint Vault at the back of the book.\nHINT LEVEL 1: A small nudge.\nHINT LEVEL 2: Narrow the search.\nHINT LEVEL 3: A bigger push.\nSOLUTION FILES: Full answers at the back.",
+    "after": "HINT VAULT + SOLUTION FILES\nStuck? Find your case in the index on pages 148–149. It lists all three hint pages and the solution page.\nHINT LEVEL 1: A small nudge.\nHINT LEVEL 2: Narrow the search.\nHINT LEVEL 3: A bigger push.\nSOLUTION FILES: Full answers and explanations.\nRead only your case's entry to avoid other answers. You can pause, try again or work with someone. Using a hint counts as detective work."
+  },
+  {
+    "ids": [
+      "page027.block15",
+      "page027.block16",
+      "page027.block17"
+    ],
+    "text": "the handoff. Pixel is the last confirmed person in the transfer record. Rebuild the tent snapshot and find the one person who shared her tent. That gives Mimi a witness to ask about the gap in the transfer record.\n",
+    "issue": "V8-CASE04-PROMISE: ask for provable contact rather than an unreported choice among carrier histories.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "the handoff. Pixel is the last confirmed\nperson in the transfer record. Rebuild the\ntent snapshot and find the witness who can\nsay whether Pixel arrived with the box,\nfound it there or saw it change hands.\n",
+    "after": "the handoff. Pixel is the last confirmed person in the transfer record. Rebuild the tent snapshot and find the one person who shared her tent. That gives Mimi a witness to ask about the gap in the transfer record.\n"
+  },
+  {
+    "ids": [
+      "page027.block27",
+      "page027.block28",
+      "page027.block29"
+    ],
+    "text": "If it moves, we can all be impressed. First, who was with Pixel?\n",
+    "issue": "V8-CASE04-PROMISE: align Nini's comic redirect with actual solvable task; preserve blink/helmet joke.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "If it moves, we can all be impressed. Who carried it?\n",
+    "after": "If it moves, we can all be impressed. First, who was with Pixel?\n"
+  },
+  {
+    "ids": [
+      "page030.block03"
+    ],
+    "text": "Zuri's account lets Mimi correct the transfer record. She routes the sealed evidence box back to the Trace Lab and files the correction.\n\nDilo's ",
+    "issue": "V8-CASE04-PAYOFF: name the concrete administrative result without inventing a carrier event.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "Zuri's account repairs the handoff. Mimi routes the sealed evidence box back to the Trace Lab and files the correction.\n\nDilo's ",
+    "after": "Zuri's account lets Mimi correct the transfer record. She routes the sealed evidence box back to the Trace Lab and files the correction.\n\nDilo's "
+  },
+  {
+    "ids": [
+      "page040.block05",
+      "page040.block06",
+      "page040.block07"
+    ],
+    "text": "By the end of the first stretch of cases, nobody asks whether you are coming with them anymore. Mimi just leaves space beside the next file. Real staff have asked for help. Your filed answers have woken part of an old Academy system. It still has not explained why.\n\nOn the Case Wall, four matching marks wait beside an incomplete route.\n",
+    "issue": "V8-FUNCTION-REPETITION: remove second identical place-beside-file belonging beat within same bridge.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "By the end of the first stretch of cases, nobody asks whether you are coming with them anymore. Mimi just leaves space beside the next file. Real staff have asked for help. Your filed answers have woken part of an old Academy system. It still has not explained why.\n\nOn the Case Wall, four matching marks wait beside an incomplete route. And beside the next file, there is room for you.\n",
+    "after": "By the end of the first stretch of cases, nobody asks whether you are coming with them anymore. Mimi just leaves space beside the next file. Real staff have asked for help. Your filed answers have woken part of an old Academy system. It still has not explained why.\n\nOn the Case Wall, four matching marks wait beside an incomplete route.\n"
+  },
+  {
+    "ids": [
+      "page052.block04",
+      "page052.block05",
+      "page052.block06",
+      "page052.block07",
+      "page052.block08",
+      "page052.block09"
+    ],
+    "text": "Bibi studies your filed classification and taps the matching Academy form once.\n\"This is the form I remember,\" she says. \"I do not remember what the zero meant.\"\nShe takes the copy to the archive to check it against the original.\nFor once, nobody fills the gap with a tunnel.\nUnder OPEN QUESTIONS, add one note beneath the question you already saved: BIBI RECOGNIZES THE OLD FORM. ZERO'S MEANING STILL UNKNOWN.\n",
+    "issue": "V8-FUNCTION-REPETITION: one archive departure, retain uncertainty and exact CaseWall note.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "Bibi studies your filed classification, taps the matching Academy form once and reaches for her coat.\n\"This is the form I remember,\" she says. \"I do not remember what the zero meant.\"\nThen she heads for the archive.\nThat is all the team gets - and, for once, nobody fills the gap with a tunnel.\nUnder OPEN QUESTIONS, add one note beneath the question you already saved: BIBI\nRECOGNIZES THE OLD FORM. ZERO'S MEANING STILL UNKNOWN.\nBibi takes the question - and the form - into the archive.\n",
+    "after": "Bibi studies your filed classification and taps the matching Academy form once.\n\"This is the form I remember,\" she says. \"I do not remember what the zero meant.\"\nShe takes the copy to the archive to check it against the original.\nFor once, nobody fills the gap with a tunnel.\nUnder OPEN QUESTIONS, add one note beneath the question you already saved: BIBI RECOGNIZES THE OLD FORM. ZERO'S MEANING STILL UNKNOWN.\n"
+  },
+  {
+    "ids": [
+      "page076.block09"
+    ],
+    "text": "She puts it directly in front of you, takes off her wide-brimmed hat and lays it beside the box.\n",
+    "issue": "V8-HAT-ART-CLOSURE: make hat a present-table prop; actual evidence photograph contains no hat.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "She puts it directly in front of you.\n",
+    "after": "She puts it directly in front of you, takes off her wide-brimmed hat and lays it beside the box.\n"
+  },
+  {
+    "ids": [
+      "page076.block12"
+    ],
+    "text": "Alio notices the hat beside the box before he looks at the photograph.\n",
+    "issue": "V8-HAT-ART-CLOSURE: explicitly locate hat outside the evidence image; preserve architecture and full Comms.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "Alio notices the hat first.\n",
+    "after": "Alio notices the hat beside the box before he looks at the photograph.\n"
+  },
+  {
+    "ids": [
+      "page081.block04",
+      "page081.block05",
+      "page081.block06"
+    ],
+    "text": "Under MESSAGES / RULES on your Case Wall, copy RULE 0 FIRST from the back of the photograph. Those are the only words the evidence gives you. Leave the missing rule open until you can prove the rest.\n",
+    "issue": "V8-CASEWALL-CLARITY: remove verbatim repeated heading; make exact copy item explicit.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "Nobody at the table knows the missing rule yet.\nUnder MESSAGES / RULES, copy that exact line from the back of the photograph.\nNothing more. Do not complete the sentence from imagination.\n",
+    "after": "Under MESSAGES / RULES on your Case Wall, copy RULE 0 FIRST from the back of the photograph. Those are the only words the evidence gives you. Leave the missing rule open until you can prove the rest.\n"
+  },
+  {
+    "ids": [
+      "page094.block08"
+    ],
+    "text": "Demi's movement log is the last clean point before those accounts split. Put the room back together and one witness can tell you which account came before the wet panel moved and which came after.\n",
+    "issue": "V8-PAINT-SYNTAX: clarify before/after contrast.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "Demi's movement log is the last clean point before those accounts split. Put the room back\ntogether and one witness can separate before the wet panel moved from after it moved.\n",
+    "after": "Demi's movement log is the last clean point before those accounts split. Put the room back together and one witness can tell you which account came before the wet panel moved and which came after.\n"
+  },
+  {
+    "ids": [
+      "page108.block12"
+    ],
+    "text": "The return desk knows where both wristbands ended up, but there is a gap in the handoff record.\n",
+    "issue": "V8-CASE23-PROMISE: preserve incomplete transfer without promising an unreported crossing location.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "The return desk knows where both wristbands ended up. It cannot tell where the two routes\ncrossed.\n",
+    "after": "The return desk knows where both wristbands ended up, but there is a gap in the handoff record.\n"
+  },
+  {
+    "ids": [
+      "page108.block13"
+    ],
+    "text": "The log fixes Jude's location. One other person shared that area. Find them so the return desk has a witness to ask about the missing handoff.\n",
+    "issue": "V8-CASE23-PROMISE: align setup with solved contact, preserve all wristband facts.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "The log fixes Jude's location. One other person shared that area. Find them so the return desk can ask where the two wristband trails crossed.\n",
+    "after": "The log fixes Jude's location. One other person shared that area. Find them so the return desk has a witness to ask about the missing handoff.\n"
+  },
+  {
+    "ids": [
+      "page120.block05"
+    ],
+    "text": "Casey confirms that the parcel is a return for Archive Restoration, not a Guest House delivery. After Reception checks the handoff, staff open it. Inside are transparent overlay sleeves and old alignment clips borrowed long ago from Archive Restoration - exactly the kind Bibi needs for delicate plan work.\n",
+    "issue": "V8-PARCEL-DESTINATION: close destination question using existing return label and borrowed-tool facts; no invented addressee.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "After Reception confirms the handoff with Casey, staff finally open the parcel. Inside are transparent\noverlay sleeves and old alignment clips borrowed long ago from Archive Restoration - exactly the\nkind Bibi needs for delicate plan work.\n",
+    "after": "Casey confirms that the parcel is a return for Archive Restoration, not a Guest House delivery. After Reception checks the handoff, staff open it. Inside are transparent overlay sleeves and old alignment clips borrowed long ago from Archive Restoration - exactly the kind Bibi needs for delicate plan work.\n"
+  },
+  {
+    "ids": [
+      "page126.block04"
+    ],
+    "text": "• Keep both plans at the same scale and orientation.\n• Compare matching coordinates on the two printed plans to line up the three fixed landmarks. You can solve this directly on the page.\n• Then find the room that exists only on the old plan.\n",
+    "issue": "V8-PLAN-PLAYABILITY: explain on-page comparison, so reader does not require a separate physical overlay.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "• Keep both plans at the same scale and orientation.\n• Align the three fixed landmarks before looking for the room that exists only on the old plan.\n",
+    "after": "• Keep both plans at the same scale and orientation.\n• Compare matching coordinates on the two printed plans to line up the three fixed landmarks. You can solve this directly on the page.\n• Then find the room that exists only on the old plan.\n"
+  },
+  {
+    "ids": [
+      "page130.block03"
+    ],
+    "text": "that correctly restores Rule Zero.\nAfter you solve it, turn to page 132 and copy the complete restored rule to MESSAGES / RULES on your Case Wall, page 13.\n",
+    "issue": "V8-RULE-COPY-ORDER: full rule tail is first supplied132, after damaged card131.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "that correctly restores Rule Zero.\nAfter you solve it, copy the complete restored rule to MESSAGES / RULES on your Case Wall, page 13.\n",
+    "after": "that correctly restores Rule Zero.\nAfter you solve it, turn to page 132 and copy the complete restored rule to MESSAGES / RULES on your Case Wall, page 13.\n"
+  },
+  {
+    "ids": [
+      "page141.block11"
+    ],
+    "text": "When my squad trained here, we started with zero assumptions. We left route notes so unfinished training could be continued by the next session.\n",
+    "issue": "V8-READER-AGE: do not assume every child, teen or family reader is Bibi's depicted trainee age; retain2002evidence.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "When I was your age, my squad started here\nwith zero assumptions. We left route notes\nso unfinished training could be continued by\nthe next session.\n",
+    "after": "When my squad trained here, we started with zero assumptions. We left route notes so unfinished training could be continued by the next session.\n"
+  },
+  {
+    "ids": [
+      "page146.block04",
+      "page146.block05",
+      "page146.block06",
+      "page146.block07",
+      "page146.block08",
+      "page146.block09",
+      "page146.block10",
+      "page146.block11",
+      "page146.block12"
+    ],
+    "text": "For one whole minute, the Academy manages to be quiet.\nAlmost.\nThe team puts down its pencils. Bibi closes the Book 1 routing log and slides it into the archive tray.\nBeside it is a small release flap.\nDilo leans forward, then stops and looks at Bibi.\n\"May I?\"\nBibi checks that the routing log is safely filed, then nods.\nHe lifts the flap gently.\n",
+    "issue": "V8-DILO-ARC: preserve curious sequel trigger while paying off careful handling learned inCase21.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "For one whole minute, the Academy manages to be quiet.\nAlmost.\nThe team puts down its pencils. Bibi closes the Book 1 routing log and slides it into the archive tray.\nBeside it is a small release flap.\nBibi points at it.\n“That can wait.”\nDilo waits.\nTechnically.\nThen he lifts the flap.\n",
+    "after": "For one whole minute, the Academy manages to be quiet.\nAlmost.\nThe team puts down its pencils. Bibi closes the Book 1 routing log and slides it into the archive tray.\nBeside it is a small release flap.\nDilo leans forward, then stops and looks at Bibi.\n\"May I?\"\nBibi checks that the routing log is safely filed, then nods.\nHe lifts the flap gently.\n"
+  },
+  {
+    "ids": [
+      "page148.block15"
+    ],
+    "text": "FILE 22/23  /  PHOTOS 24/25  /  RECORD 26\n",
+    "issue": "V8-PHOTO-NAVIGATION: index must point to both photos and the actual response page; real PDF line patched too.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "FILE 22/23  /  BOARD 24  /  PUZZLE 25\n",
+    "after": "FILE 22/23  /  PHOTOS 24/25  /  RECORD 26\n"
+  },
+  {
+    "ids": [
+      "page184.block15",
+      "page184.block16",
+      "page184.block17"
+    ],
+    "text": "Ten deliberate changes show that the photographs are not duplicate copies. The changed 017 / 071 reference gives the team an archive lead to check against the paper records.\n",
+    "issue": "V8-PHOTO-FEEDBACK: replace scolding eleventh-answer aside with useful positive explanation; photo and ten markers unchanged.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "Ten controlled differences prove the two images are not duplicate copies. The changed 017 /\n071 reference gives the team a real archive lead; the other changes remain evidence, not\nexcuses to invent an eleventh answer.\n",
+    "after": "Ten deliberate changes show that the photographs are not duplicate copies. The changed 017 / 071 reference gives the team an archive lead to check against the paper records.\n"
+  },
+  {
+    "ids": [
+      "page193.block07",
+      "page193.block08",
+      "page193.block09"
+    ],
+    "text": "01\nLeave out the unmarked Look-Twice file, the poster circle and the stage dial.\n02\nThe four remaining Academy records carry the same plain 0.\n",
+    "issue": "V8-MARK-KEY-COMPLETENESS: explicitly explain all three excluded cards, including unmarked routed photo file.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nRemove the poster circle and stage dial;\ntheir shapes and functions differ.\n02\nThe remaining marks use the same plain\n0 form.\n",
+    "after": "01\nLeave out the unmarked Look-Twice file, the poster circle and the stage dial.\n02\nThe four remaining Academy records carry the same plain 0.\n"
+  },
+  {
+    "ids": [
+      "page014.block02"
+    ],
+    "text": "No answers here. Just doors.\nCase 01 is just ahead.",
+    "issue": "V8-OPENING-NAVIGATION: page15 is a transition beforeCase01page16; remove any implication of immediate next-page target.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "No answers here. Just doors.\nTurn the page. Case 01 is waiting.",
+    "after": "No answers here. Just doors.\nCase 01 is just ahead."
+  },
+  {
+    "ids": [
+      "page011.block02"
+    ],
+    "issue": "V8-GLOBAL-MAP-CLARITY: define adjacency, independent direction offsets, grid distance, marker precedence and occupancy. Independent solver confirms all16 rosters unchanged.",
+    "text": "Some cases use an Academy floor grid to reconstruct where people were standing. Use these rules unless a case gives a more specific instruction.\n1 COORDINATES\nLetters label columns from left to right. Numbers label rows from top to bottom.\nD3 = column D, row 3. Use the labels printed beside the map you are solving.\n2 PLACE THE WITNESSES\nUse only printed witness statements, the map key and visible map features.\n1. Place every witness exactly once, on a usable square.\n2. Each witness must use a different row and a different column.\n3. Start with a certain position. Cross its row and column off the options for everyone else, then check the clues again.\n4. “Exactly one other person” means two people in that named room or area in total. Use this clue while placing people, not just after you finish.\n5. A room companion is a lead for the next interview, not automatically guilty.\n6. Keep every final position on the completed map. Do not erase it after recording the verdict.\n3 CLUE WORDS\nBESIDE: one square up, down, left or right, in the same room or area. Diagonals and squares across a wall do not count.\nDIAGONALLY NEXT TO: exactly one row and one column away; the two squares touch at a corner.\nNORTH / SOUTH / EAST / WEST: up / down / right / left. North-west means above and left; the two distances need not match. The same applies to the other paired directions.\nA row-distance clue fixes only the row difference; a column-distance clue fixes only the column difference, unless the clue also specifies the other direction.\nGRID STEPS: add the row difference and the column difference. Count grid distance, not a walking route around walls.\nOUTER WALL: the outside edge of the whole grid.\n4 READ EACH CASE'S MAP KEY\nA printed open circle means an object square is usable. A printed black square means it is blocked. Follow the marker when an object has one.\nOtherwise, use clear floor and only the objects permitted by that case's key. Other object squares are blocked.\nUse named room or area boundaries when checking who shares a space. Case 26 gives its own room-and-zone key for the later map task.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "Some cases use an Academy floor grid to reconstruct where people were standing.\nRead these rules once. Later map cases will only give you the case-specific key.\n1 HOW TO READ A COORDINATE\nLetters run across the columns.\nNumbers run down the rows.\nD3 = column D, row 3.\nUse one coordinate system: the labels printed beside the grid you are solving.\n2 STANDARD MAP CASE RULES\n1. Place every witness exactly once.\n2. Each witness finishes in a different row and a different column.\n3. Use only printed witness statements and visible map features.\n4. If a case asks for a room or area companion, that person is a lead for the next interview, not automatically guilty.\n5. Keep every final witness position on the completed map. Do not erase it after writing the verdict.\n3 MAP LEGEND\nPERSON MAY STAND ON: open numbered/coordinate squares shown as usable floor space.\nSQUARE BLOCKED BY: walls, fixed furniture, equipment or other clearly illustrated obstacles.\nROOM / ZONE: named areas on the map. If a rule specifically says ROOM, a ZONE does not count.\nThere is no secret gray category. If something is blocked, the map shows why.",
+    "after": "Some cases use an Academy floor grid to reconstruct where people were standing. Use these rules unless a case gives a more specific instruction.\n1 COORDINATES\nLetters label columns from left to right. Numbers label rows from top to bottom.\nD3 = column D, row 3. Use the labels printed beside the map you are solving.\n2 PLACE THE WITNESSES\nUse only printed witness statements, the map key and visible map features.\n1. Place every witness exactly once, on a usable square.\n2. Each witness must use a different row and a different column.\n3. Start with a certain position. Cross its row and column off the options for everyone else, then check the clues again.\n4. “Exactly one other person” means two people in that named room or area in total. Use this clue while placing people, not just after you finish.\n5. A room companion is a lead for the next interview, not automatically guilty.\n6. Keep every final position on the completed map. Do not erase it after recording the verdict.\n3 CLUE WORDS\nBESIDE: one square up, down, left or right, in the same room or area. Diagonals and squares across a wall do not count.\nDIAGONALLY NEXT TO: exactly one row and one column away; the two squares touch at a corner.\nNORTH / SOUTH / EAST / WEST: up / down / right / left. North-west means above and left; the two distances need not match. The same applies to the other paired directions.\nA row-distance clue fixes only the row difference; a column-distance clue fixes only the column difference, unless the clue also specifies the other direction.\nGRID STEPS: add the row difference and the column difference. Count grid distance, not a walking route around walls.\nOUTER WALL: the outside edge of the whole grid.\n4 READ EACH CASE'S MAP KEY\nA printed open circle means an object square is usable. A printed black square means it is blocked. Follow the marker when an object has one.\nOtherwise, use clear floor and only the objects permitted by that case's key. Other object squares are blocked.\nUse named room or area boundaries when checking who shares a space. Case 26 gives its own room-and-zone key for the later map task."
+  },
+  {
+    "ids": [
+      "page122.block04"
+    ],
+    "issue": "V8-ROOM-ZONE-KEY: replace reliance on unprinted ROOM/ZONE labels with explicit task-local key.14derived emptyrooms unchanged.",
+    "text": "• In each completed map, find the one named room containing zero people. Offices, labs, the Observation Car and the Music Archive count as rooms too.\n• Do not take letters from these zones: Archive Passage, Visitor Walkway, Mail Platform, Baggage Platform, Service Corridor, Office Passage, Funhouse Queue or Roof Terrace.\n",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "• In each final map, find the one named ROOM containing zero people.\n",
+    "after": "• In each completed map, find the one named room containing zero people. Offices, labs, the Observation Car and the Music Archive count as rooms too.\n• Do not take letters from these zones: Archive Passage, Visitor Walkway, Mail Platform, Baggage Platform, Service Corridor, Office Passage, Funhouse Queue or Roof Terrace.\n"
+  },
+  {
+    "ids": [
+      "page167.block07"
+    ],
+    "issue": "V8-ROOM-ZONE-HINT: match corrected extraction key.",
+    "text": "Use the room-and-zone key in the Case 26 rules. Skip the listed zones, even when they have no people. Offices, labs, the Observation Car and the Music Archive can supply letters.\n",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "Count people only in spaces marked ROOM. Ignore ZONES.\n",
+    "after": "Use the room-and-zone key in the Case 26 rules. Skip the listed zones, even when they have no people. Offices, labs, the Observation Car and the Music Archive can supply letters.\n"
+  },
+  {
+    "ids": [
+      "page220.block07",
+      "page220.block08",
+      "page220.block09",
+      "page220.block10",
+      "page220.block11",
+      "page220.block12"
+    ],
+    "issue": "V8-EXTRACTION-EXPLANATION: actual14row case→emptyroom→initial trace, independently derived.",
+    "text": "01\nUse only the fourteen selected completed maps and the room-and-zone key in Case 26.\n02\nEach map has exactly one eligible room with no people. Take its first letter, in case order.\n03\nCHECK YOUR FOURTEEN MAPS\n02 — Coach's Office — C\n04 — Hospitality Room — H\n06 — Egypt Room — E\n07 — Costume Room — C\n10 — Kinetics Lab — K\n12 — Training Room — T\n13 — Hide Room — H\n15 — Equipment Room — E\n17 — Observation Car — O\n19 — Library Office — L\n20 — Drying Room — D\n22 — Music Archive — M\n23 — Access Office — A\n25 — Parcel Room — P\n04\nThe fourteen letters read C H E C K T H E O L D M A P: CHECK THE OLD MAP.\n",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nEach marked spatial case has exactly\none empty final ROOM.\n02\nRecord the first letter of that room in\ncase order.\n03\nThe fourteen letters are C H E C K T H E\nO L D M A P.\n04\nThe hidden instruction is CHECK THE\nOLD MAP.\n",
+    "after": "01\nUse only the fourteen selected completed maps and the room-and-zone key in Case 26.\n02\nEach map has exactly one eligible room with no people. Take its first letter, in case order.\n03\nCHECK YOUR FOURTEEN MAPS\n02 — Coach's Office — C\n04 — Hospitality Room — H\n06 — Egypt Room — E\n07 — Costume Room — C\n10 — Kinetics Lab — K\n12 — Training Room — T\n13 — Hide Room — H\n15 — Equipment Room — E\n17 — Observation Car — O\n19 — Library Office — L\n20 — Drying Room — D\n22 — Music Archive — M\n23 — Access Office — A\n25 — Parcel Room — P\n04\nThe fourteen letters read C H E C K T H E O L D M A P: CHECK THE OLD MAP.\n"
+  },
+  {
+    "ids": [
+      "page181.block07",
+      "page181.block08",
+      "page181.block09"
+    ],
+    "text": "01\nNova is B3. That row and column are now unavailable to everyone else.\n02\nDax needs column D in the Display Room. D1 contains a blocked globe, so Dax must be D2.\n03\nRook's only usable whole-grid corner beside a teacher's desk is A6. Atlas's Equipment Room squares F5 and F6 are blocked, leaving F4.\n04\nIvy's desk-chair options are A6, C5 and F1. Rook uses column A and Atlas uses column F, so Ivy is C5.\n05\nOnly row 1 and column E remain for Max: E1 in the Display Room.\n06\nThe room contains Max and Dax, so Dax at D2 is the answer.\n",
+    "issue": "V8-WORKED-MAP02: show usable-cell exclusions and row/column elimination.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nNova is fixed at B3.\n02\nDax is D2 in the Display Room.\n03\nRook resolves to A6 and Atlas to F4.\n04\nMax is forced to E1; Ivy takes C5.\n05\nDax is the only other person sharing\nMax's final room, so Dax is the answer.\n",
+    "after": "01\nNova is B3. That row and column are now unavailable to everyone else.\n02\nDax needs column D in the Display Room. D1 contains a blocked globe, so Dax must be D2.\n03\nRook's only usable whole-grid corner beside a teacher's desk is A6. Atlas's Equipment Room squares F5 and F6 are blocked, leaving F4.\n04\nIvy's desk-chair options are A6, C5 and F1. Rook uses column A and Atlas uses column F, so Ivy is C5.\n05\nOnly row 1 and column E remain for Max: E1 in the Display Room.\n06\nThe room contains Max and Dax, so Dax at D2 is the answer.\n"
+  },
+  {
+    "ids": [
+      "page185.block07",
+      "page185.block08",
+      "page185.block09",
+      "page185.block10"
+    ],
+    "text": "01\nEcho is A2. Zuri's Pickup Tent has only F4 in row 4; Clover's Packing Room has only C5 in row 5.\n02\nBriar's same-room squares beside the ring-toss stand are C2 and D3. Clover has column C, so Briar is D3.\n03\nKai's Kitchen options are A5, B5 and B6. Echo uses column A and Clover uses row 5, leaving B6.\n04\nPixel must share the Pickup Tent with exactly one person. The last unused row and column meet at E1, in that tent.\n05\nIts other occupant is Zuri at F4. Every row, column and witness clue now fits.\n",
+    "issue": "V8-WORKED-MAP04: explain all decisive alternatives; retain Pixel/Zuri task.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nEcho is fixed at A2.\n02\nZuri is F4 in the Pickup Tent.\n03\nBriar resolves to D3 beside the ring-toss\nstand.\n04\nClover is C5; Kai is B6.\n05\nPixel is E1 in the Pickup Tent.\n06\nZuri is the only other person sharing\nPixel's final room, so Zuri is the answer.\n",
+    "after": "01\nEcho is A2. Zuri's Pickup Tent has only F4 in row 4; Clover's Packing Room has only C5 in row 5.\n02\nBriar's same-room squares beside the ring-toss stand are C2 and D3. Clover has column C, so Briar is D3.\n03\nKai's Kitchen options are A5, B5 and B6. Echo uses column A and Clover uses row 5, leaving B6.\n04\nPixel must share the Pickup Tent with exactly one person. The last unused row and column meet at E1, in that tent.\n05\nIts other occupant is Zuri at F4. Every row, column and witness clue now fits.\n"
+  },
+  {
+    "ids": [
+      "page188.block07",
+      "page188.block08",
+      "page188.block09",
+      "page188.block10",
+      "page188.block11"
+    ],
+    "text": "01\nScout is E3. Arlo's only usable Foyer square in row 2 is D2.\n02\nWren needs a bench beside the skeleton in the same room: C4. The bench at C5 is across a room boundary.\n03\nHugo can stand at A4 or A6 beside a Dinosaur Gallery display case. Wren uses row 4, so Hugo is A6.\n04\nVale's Gallery squares beside the statue are F3 and F5. Scout uses row 3, leaving F5.\n05\nThe last unused row and column meet at B1. Uma is there in the Foyer.\n06\nArlo at D2 is the only other person in Uma's room.\n",
+    "issue": "V8-WORKED-MAP06: teach room-boundary adjacency and row exclusion.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nScout is fixed at E3.\n02\nArlo must be D2 in the Foyer.\n03\nVale resolves to F5 in the Gallery.\n04\nWren is C4 and Hugo is A6 in the\nDinosaur Gallery.\n05\nUma is B1 in the Foyer.\n06\nArlo is the only other person with Uma,\nso Arlo is the answer.\n",
+    "after": "01\nScout is E3. Arlo's only usable Foyer square in row 2 is D2.\n02\nWren needs a bench beside the skeleton in the same room: C4. The bench at C5 is across a room boundary.\n03\nHugo can stand at A4 or A6 beside a Dinosaur Gallery display case. Wren uses row 4, so Hugo is A6.\n04\nVale's Gallery squares beside the statue are F3 and F5. Scout uses row 3, leaving F5.\n05\nThe last unused row and column meet at B1. Uma is there in the Foyer.\n06\nArlo at D2 is the only other person in Uma's room.\n"
+  },
+  {
+    "ids": [
+      "page190.block07",
+      "page190.block08",
+      "page190.block09",
+      "page190.block10"
+    ],
+    "text": "01\nRocket is E5. Blaze is alone in Rehearsal, so Indigo must be in Dressing and Willa cannot use B3 in Rehearsal.\n02\nWilla's usable two-step squares from C2 are A2, B1, B3 and E2. B3 is excluded and Rocket uses column E, leaving A2 or B1.\n03\nZoe's outer-wall squares beside a wheeled case are A2, B1 and C6. If Zoe takes A2 or B1, Willa must take the other. They would use row 2 and columns A/B, leaving no separate row and column for Indigo in Dressing. Therefore Zoe is C6.\n04\nBlaze and Willa need columns A/B, leaving D2 for Indigo. Row 2 is now used, so Willa is B1.\n",
+    "issue": "V8-WORKED-MAP07: explain exact-distance alternatives while retaining V6block11 verbatim.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nRocket is fixed at E5.\n02\nWilla resolves to B1.\n03\nBlaze resolves to A3 in the Rehearsal\nRoom.\n04\nIndigo is forced to D2 in the Dressing\nRoom.\n",
+    "after": "01\nRocket is E5. Blaze is alone in Rehearsal, so Indigo must be in Dressing and Willa cannot use B3 in Rehearsal.\n02\nWilla's usable two-step squares from C2 are A2, B1, B3 and E2. B3 is excluded and Rocket uses column E, leaving A2 or B1.\n03\nZoe's outer-wall squares beside a wheeled case are A2, B1 and C6. If Zoe takes A2 or B1, Willa must take the other. They would use row 2 and columns A/B, leaving no separate row and column for Indigo in Dressing. Therefore Zoe is C6.\n04\nBlaze and Willa need columns A/B, leaving D2 for Indigo. Row 2 is now used, so Willa is B1.\n"
+  },
+  {
+    "ids": [
+      "page190.block12"
+    ],
+    "text": "is F4. Gray must share Zoe's Prop Room to have exactly one companion; Blaze takes A3.\n06\nZoe is the only other person in Gray's\n",
+    "issue": "V8-WORKED-MAP07: explain final PropRoom occupancy; V6block11 unchanged.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "is F4.\n06\nZoe is the only other person in Gray's\n",
+    "after": "is F4. Gray must share Zoe's Prop Room to have exactly one companion; Blaze takes A3.\n06\nZoe is the only other person in Gray's\n"
+  },
+  {
+    "ids": [
+      "page194.block07",
+      "page194.block08",
+      "page194.block09"
+    ],
+    "text": "01\nWyatt is B7, beside the robot arm at B6. B5 is blocked.\n02\nEmber's demo-seat choices D4/D5 reserve column D; Nico's F4/F6 choices reserve F. Beck's outer-wall crate choices C1/D1 therefore reduce to C1.\n03\nAfter checking used rows/columns and Dash's companion clue, only Dash can fill row 3, and only Ember can fill row 5. Ember is D5; Dash is E3 or G3.\n04\nFinn cannot use G4: that would leave both Vera and Nico needing row 6. Finn must use row 2.\n05\nIf Nico took F4, Dash at E3 would have two Assembly companions, while Dash at G3 would have none. So Nico is F6. Vera is G4, Dash is E3 and Finn is A2.\n06\nDash and Ember are the two Assembly Hall occupants. Ember at D5 is the answer.\n",
+    "issue": "V8-WORKED-MAP10: expose row coverage and exact-one occupancy instead of result list.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nWyatt is fixed at B7 in the Robotics Lab.\n02\nEmber resolves to D5; Beck to C1.\n03\nNico is F6, Vera G4 and Finn A2.\n04\nDash is E3 in the Assembly Hall.\n05\nEmber is the only other person in the\nAssembly Hall, so Ember is the answer.\n",
+    "after": "01\nWyatt is B7, beside the robot arm at B6. B5 is blocked.\n02\nEmber's demo-seat choices D4/D5 reserve column D; Nico's F4/F6 choices reserve F. Beck's outer-wall crate choices C1/D1 therefore reduce to C1.\n03\nAfter checking used rows/columns and Dash's companion clue, only Dash can fill row 3, and only Ember can fill row 5. Ember is D5; Dash is E3 or G3.\n04\nFinn cannot use G4: that would leave both Vera and Nico needing row 6. Finn must use row 2.\n05\nIf Nico took F4, Dash at E3 would have two Assembly companions, while Dash at G3 would have none. So Nico is F6. Vera is G4, Dash is E3 and Finn is A2.\n06\nDash and Ember are the two Assembly Hall occupants. Ember at D5 is the answer.\n"
+  },
+  {
+    "ids": [
+      "page197.block07",
+      "page197.block08",
+      "page197.block09",
+      "page197.block10",
+      "page197.block11",
+      "page197.block12",
+      "page197.block13"
+    ],
+    "text": "01\nCove is B7. Seven people use all seven rows, so third from the south puts Iris in row 5.\n02\nKira is alone in Bird Room. Eli must therefore use Green Room, and Sage must use Rehearsal Room.\n03\nKira cannot use rows 5 or 7, leaving row 6. Eli then cannot use Green Room rows 5 or 6, so Eli is F4.\n04\nNell cannot use column F and must be G2 in Stage Wing. The remaining rows put Sage in row 3 and Winter in row 1.\n05\nWinter needs exactly one companion. A row-1 Training Room square would leave Winter alone, so Winter is D1 in Stage Wing with Nell.\n06\nWith column D taken, Kira is E6, Sage C3 and Iris A5. Nell at G2 is Winter's one companion.\n",
+    "issue": "V8-WORKED-MAP12: explain row rank, solo-room logic and companion constraint.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nCove is B7.\n02\nNell resolves to G2 in the Stage Wing; Iris\nto A5.\n03\nKira is E6 in the Bird Room and Eli is F4\nin the Green Room.\n04\nSage resolves to C3 in the Rehearsal\nRoom.\n05\nWinter is D1 in the Stage Wing.\n06\nNell is the only other person with Winter,\nso Nell is the answer.\n",
+    "after": "01\nCove is B7. Seven people use all seven rows, so third from the south puts Iris in row 5.\n02\nKira is alone in Bird Room. Eli must therefore use Green Room, and Sage must use Rehearsal Room.\n03\nKira cannot use rows 5 or 7, leaving row 6. Eli then cannot use Green Room rows 5 or 6, so Eli is F4.\n04\nNell cannot use column F and must be G2 in Stage Wing. The remaining rows put Sage in row 3 and Winter in row 1.\n05\nWinter needs exactly one companion. A row-1 Training Room square would leave Winter alone, so Winter is D1 in Stage Wing with Nell.\n06\nWith column D taken, Kira is E6, Sage C3 and Iris A5. Nell at G2 is Winter's one companion.\n"
+  },
+  {
+    "ids": [
+      "page199.block07",
+      "page199.block08",
+      "page199.block09",
+      "page199.block10",
+      "page199.block11",
+      "page199.block12"
+    ],
+    "text": "01\nMoxie can use C5 or D5 in Ranger Station, reserving row 5. Skye's other usable Ranger positions must fit Juno's touching-corner clue and Eden's same-room clue.\n02\nTest C6, D4 and D3 for Skye. C6 leaves no way to place both Eden and Bodhi; D4 leaves Juno's diagonal squares blocked or in a used row/column; D3 leaves columns F/G unfillable. Skye must be E4.\n03\nJuno at D3 would also leave no F/G place for Eden in that room. Therefore Juno is F3 and Eden G2.\n04\nNow test the remaining north-west chain with Remy's exactly-one-companion clue. Moxie at D5 never gives Remy one companion. With Moxie at C5, Bodhi at B6 would leave Remy at D7 alone.\n05\nThe complete fit is Moxie C5, Willow A1, Bodhi B7 and Remy D6. Recheck every row, column and direction.\n06\nBodhi at B7 and Remy at D6 are the two Research Lab occupants, so Bodhi is the answer.\n",
+    "issue": "V8-WORKED-MAP13: name tested candidates, failed branches and final occupancy dependency.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nMoxie resolves to C5 and Skye to E4 in\nthe Ranger Station.\n02\nJuno is F3 and Eden G2.\n03\nBodhi resolves to B7 after applying the\ndirectional chain.\n04\nWillow is A1 and Remy is D6.\n05\nBodhi is the only other person in Remy's\nResearch Lab, so Bodhi is the answer.\n",
+    "after": "01\nMoxie can use C5 or D5 in Ranger Station, reserving row 5. Skye's other usable Ranger positions must fit Juno's touching-corner clue and Eden's same-room clue.\n02\nTest C6, D4 and D3 for Skye. C6 leaves no way to place both Eden and Bodhi; D4 leaves Juno's diagonal squares blocked or in a used row/column; D3 leaves columns F/G unfillable. Skye must be E4.\n03\nJuno at D3 would also leave no F/G place for Eden in that room. Therefore Juno is F3 and Eden G2.\n04\nNow test the remaining north-west chain with Remy's exactly-one-companion clue. Moxie at D5 never gives Remy one companion. With Moxie at C5, Bodhi at B6 would leave Remy at D7 alone.\n05\nThe complete fit is Moxie C5, Willow A1, Bodhi B7 and Remy D6. Recheck every row, column and direction.\n06\nBodhi at B7 and Remy at D6 are the two Research Lab occupants, so Bodhi is the answer.\n"
+  },
+  {
+    "ids": [
+      "page202.block07",
+      "page202.block08",
+      "page202.block09",
+      "page202.block10"
+    ],
+    "text": "01\nThe two above-and-right links, cot clues and Jett's solo Welcome Lodge leave column A for Milo. Equipment Room would give Milo no companion, so Milo is A1 in Games Cabin.\n02\nJett must use column G: the only other usable G square outside that solo room is G1, whose row Milo now uses.\n03\nThe available column-F square is F4. Test Harper and Piper there. Harper at F4 forces Cruz to D7 and eventually leaves Jett needing blocked G2. Therefore Piper is F4.\n04\nCruz cannot use B4 or D4 because row 4 is taken. D7 again leaves no row for Jett, so Cruz is C3.\n05\nHarper must be above and right of Cruz. E2 is blocked and F/G are reserved, leaving D2. Duke's C5/D5 options use taken columns, so Duke is E5.\n06\nInez is B6 and Jett G7. Milo's only Games Cabin companion is Harper at D2.\n",
+    "issue": "V8-WORKED-MAP15: show interacting direction/cot branches rather than unsupported forced claims.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nDuke resolves to E5 in the First Aid Hut.\n02\nPiper is F4 and Cruz C3.\n03\nJett is G7 in the Welcome Lodge.\n04\nHarper resolves to D2; Inez to B6.\n05\nMilo is A1 in the Games Cabin.\n06\nHarper is the only other person in Milo's\nGames Cabin, so Harper is the answer.\n",
+    "after": "01\nThe two above-and-right links, cot clues and Jett's solo Welcome Lodge leave column A for Milo. Equipment Room would give Milo no companion, so Milo is A1 in Games Cabin.\n02\nJett must use column G: the only other usable G square outside that solo room is G1, whose row Milo now uses.\n03\nThe available column-F square is F4. Test Harper and Piper there. Harper at F4 forces Cruz to D7 and eventually leaves Jett needing blocked G2. Therefore Piper is F4.\n04\nCruz cannot use B4 or D4 because row 4 is taken. D7 again leaves no row for Jett, so Cruz is C3.\n05\nHarper must be above and right of Cruz. E2 is blocked and F/G are reserved, leaving D2. Duke's C5/D5 options use taken columns, so Duke is E5.\n06\nInez is B6 and Jett G7. Milo's only Games Cabin companion is Harper at D2.\n"
+  },
+  {
+    "ids": [
+      "page205.block07",
+      "page205.block08",
+      "page205.block09",
+      "page205.block10",
+      "page205.block11",
+      "page205.block12",
+      "page205.block13"
+    ],
+    "text": "01\nLuna reserves column G. Koa's F6/G6 choices therefore reduce to F6; Luna is then G7. Axel must be in row 3.\n02\nSunny's bench options reduce to C2/D5, and Mika's Ticket Office choices to B4/B5.\n03\nOtis cannot use Baggage Platform: its usable squares lose rows 6/7 and column B. Otis therefore joins Mika in Ticket Office. C5 would block both remaining bench choices for Sunny, so Otis must use column A.\n04\nReed cannot join two people in Ticket Office or Waiting Lounge and still have exactly one companion. Reed must pair with Axel in Main Corridor.\n05\nSunny must be D5, leaving Mika B4. Of the remaining columns A/C/E, Reed can use only C2 in that corridor.\n06\nOtis is A1 and Axel E3. Axel at E3 is Reed's only companion and the answer.\n",
+    "issue": "V8-WORKED-MAP17: clarify row-only north clue and how occupancy selects corridor.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nKoa resolves to F6 and Luna to G7 in the\nWaiting Lounge.\n02\nMika is B4 in the Ticket Office; Sunny\nresolves to D5.\n03\nOtis is A1.\n04\nAxel is E3, exactly three rows north of\nKoa.\n05\nReed is C2 in the Main Corridor.\n06\nAxel is the only other person in Reed's\nfinal area.\n",
+    "after": "01\nLuna reserves column G. Koa's F6/G6 choices therefore reduce to F6; Luna is then G7. Axel must be in row 3.\n02\nSunny's bench options reduce to C2/D5, and Mika's Ticket Office choices to B4/B5.\n03\nOtis cannot use Baggage Platform: its usable squares lose rows 6/7 and column B. Otis therefore joins Mika in Ticket Office. C5 would block both remaining bench choices for Sunny, so Otis must use column A.\n04\nReed cannot join two people in Ticket Office or Waiting Lounge and still have exactly one companion. Reed must pair with Axel in Main Corridor.\n05\nSunny must be D5, leaving Mika B4. Of the remaining columns A/C/E, Reed can use only C2 in that corridor.\n06\nOtis is A1 and Axel E3. Axel at E3 is Reed's only companion and the answer.\n"
+  },
+  {
+    "ids": [
+      "page208.block07",
+      "page208.block08",
+      "page208.block09",
+      "page208.block10",
+      "page208.block11"
+    ],
+    "text": "01\nTheo's seven-step squares from the piano at E6 are A3, B2 and C1. Kian's Study Hall options are F3 and F4.\n02\nTest those anchors with Avery's two-row gap, Mack's south-west clue and exactly one of Ollie/Avery in Archive Room. Theo at A3 gives no full row-and-column fit. Both surviving arrangements put Kian F4, Avery E5 and Ollie D3.\n03\nCompare the two remaining finishes:\nTHEO / DEX / MACK / SASHA / SASHA'S COMPANIONS\nB2 / A1 / C7 / G6 / 0\nC1 / G2 / A7 / B6 / 1\n04\nThe first leaves Sasha alone in Service Corridor, so it fails. The second puts Sasha B6 and Mack A7 together in Returns Hall.\n05\nMack at A7 is the only answer satisfying every clue, including the companion count.\n",
+    "issue": "V8-WORKED-MAP19: show both complete remaining finishes, including failed occupancy.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nKian resolves to F4.\n02\nTheo is C1 and Dex G2 in the Reference\nRoom.\n03\nAvery resolves to E5 and Ollie to D3.\n04\nMack is A7, south-west of Ollie.\n05\nSasha is B6 in the Returns Hall.\n06\nMack is the only other person in Sasha's\nfinal area.\n",
+    "after": "01\nTheo's seven-step squares from the piano at E6 are A3, B2 and C1. Kian's Study Hall options are F3 and F4.\n02\nTest those anchors with Avery's two-row gap, Mack's south-west clue and exactly one of Ollie/Avery in Archive Room. Theo at A3 gives no full row-and-column fit. Both surviving arrangements put Kian F4, Avery E5 and Ollie D3.\n03\nCompare the two remaining finishes:\nTHEO / DEX / MACK / SASHA / SASHA'S COMPANIONS\nB2 / A1 / C7 / G6 / 0\nC1 / G2 / A7 / B6 / 1\n04\nThe first leaves Sasha alone in Service Corridor, so it fails. The second puts Sasha B6 and Mack A7 together in Returns Hall.\n05\nMack at A7 is the only answer satisfying every clue, including the companion count.\n"
+  },
+  {
+    "ids": [
+      "page210.block07",
+      "page210.block08",
+      "page210.block09",
+      "page210.block10",
+      "page210.block11",
+      "page210.block12"
+    ],
+    "text": "01\nMara's Main Studio choices are D4 and E4. Asa must share that room and have a usable touching diagonal for Luca.\n02\nTest those positions with the rows below Mara needed by Pax/Sid and Toby's solo Workshop Hall. Check Demi's one-companion clue: Mara at E4 or Asa at E3 would put Demi in Main Studio with both Mara and Asa. That gives Demi two companions, so both options fail. Mara must be D4 and Asa B2.\n03\nLuca can then use A1 or A3. The remaining top/third rows and Demi's one-companion clue force Luca A1 and Demi G3 in Safety Station.\n04\nPax can use E5/F5 and Sid E7/F7. All three bunks are usable. Only F5 puts a second person in Demi's Safety Station, so Pax is F5 and Sid E7.\n05\nRows 5 and 7 are taken, leaving C6 for Toby. Every placement now fits.\n06\nPax at F5 is Demi's only room companion.\n",
+    "issue": "V8-WORKED-MAP20: keep all three usable bunks and explain occupancy choice.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nMara resolves to D4 and Asa to B2 in the\nMain Studio.\n02\nLuca becomes A1.\n03\nToby resolves to C6 in the Workshop\nHall.\n04\nPax is F5 and Sid E7.\n05\nDemi is G3 in the Safety Station.\n06\nPax is the only other person in Demi's\nfinal room.\n",
+    "after": "01\nMara's Main Studio choices are D4 and E4. Asa must share that room and have a usable touching diagonal for Luca.\n02\nTest those positions with the rows below Mara needed by Pax/Sid and Toby's solo Workshop Hall. Check Demi's one-companion clue: Mara at E4 or Asa at E3 would put Demi in Main Studio with both Mara and Asa. That gives Demi two companions, so both options fail. Mara must be D4 and Asa B2.\n03\nLuca can then use A1 or A3. The remaining top/third rows and Demi's one-companion clue force Luca A1 and Demi G3 in Safety Station.\n04\nPax can use E5/F5 and Sid E7/F7. All three bunks are usable. Only F5 puts a second person in Demi's Safety Station, so Pax is F5 and Sid E7.\n05\nRows 5 and 7 are taken, leaving C6 for Toby. Every placement now fits.\n06\nPax at F5 is Demi's only room companion.\n"
+  },
+  {
+    "ids": [
+      "page213.block07",
+      "page213.block08",
+      "page213.block09",
+      "page213.block10",
+      "page213.block11",
+      "page213.block12"
+    ],
+    "text": "01\nWes needs a room with instrument lockers but cannot be beside a locker in that room. His usable options are B2, C3, D3, D7, E7, F4, F5, F6 and G5.\n02\nGia's seven-step options from the piano at A7 are B1, C2, D3, E4, F5 and G6.\n03\nTest these with both touching diagonals, Imani/Nia's shared room and exactly one of Nia/Lex in Practice Hall. Keep checking Zara's exactly-one companion too.\n04\nFor example, Wes C3 can lead to Cody D4 and Zara A2. But D4 is Green Room, leaving Zara alone in Rehearsal Room. That finish fails even though the diagonal fits.\n05\nThe only complete fit is Wes D3, Cody C4, Gia B1, Lex E6, Imani F7, Nia G5 and Zara A2.\n06\nZara and Cody are the two Rehearsal Room occupants. Cody at C4 is the answer.\n",
+    "issue": "V8-WORKED-MAP22: provide starting domains, a failed branch and all-clue finish.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nWes resolves to D3 in the Instrument\nLocker Room.\n02\nCody resolves diagonally to C4 in the\nRehearsal Room.\n03\nGia is B1; Lex E6; Imani F7.\n04\nNia is G5 in the Practice Hall.\n05\nZara is A2 in the Rehearsal Room.\n06\nCody is the only other person in Zara's\nfinal room.\n",
+    "after": "01\nWes needs a room with instrument lockers but cannot be beside a locker in that room. His usable options are B2, C3, D3, D7, E7, F4, F5, F6 and G5.\n02\nGia's seven-step options from the piano at A7 are B1, C2, D3, E4, F5 and G6.\n03\nTest these with both touching diagonals, Imani/Nia's shared room and exactly one of Nia/Lex in Practice Hall. Keep checking Zara's exactly-one companion too.\n04\nFor example, Wes C3 can lead to Cody D4 and Zara A2. But D4 is Green Room, leaving Zara alone in Rehearsal Room. That finish fails even though the diagonal fits.\n05\nThe only complete fit is Wes D3, Cody C4, Gia B1, Lex E6, Imani F7, Nia G5 and Zara A2.\n06\nZara and Cody are the two Rehearsal Room occupants. Cody at C4 is the answer.\n"
+  },
+  {
+    "ids": [
+      "page215.block07",
+      "page215.block08",
+      "page215.block09",
+      "page215.block10",
+      "page215.block11"
+    ],
+    "text": "01\nVivi's seven-step options from the gondola at A6 are C1, E3, G5 and G7. None is Snack Stand, so Pia is there at B2, B3 or C3.\n02\nMae's bench companion must be Ozzy at A3. Row 3 is now used, so Pia is B2.\n03\nMae shares Ozzy's Balloon Corner. Cora's north-east clue and Rae's two-column east clue leave Mae C5/D5 and Cora D1/E1.\n04\nRows 1 and 5 are reserved, so Vivi must be G7. Rae cannot use G and must be F6, forcing Cora D1 and Mae C5.\n05\nThe unused row and column put Jude at E4 in Prize Tent. Rae at F6 is its only other occupant and the answer.\n",
+    "issue": "V8-WORKED-MAP23: show exact distance and directional chain; east clue fixes column only.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nVivi resolves to G7 and Pia to B2.\n02\nMae resolves to C5 and Cora to D1.\n03\nOzzy becomes A3.\n04\nJude is E4 in the Prize Tent.\n05\nRae is F6, exactly two columns east of\nCora.\n06\nRae is the only other person in Jude's\nfinal room.\n",
+    "after": "01\nVivi's seven-step options from the gondola at A6 are C1, E3, G5 and G7. None is Snack Stand, so Pia is there at B2, B3 or C3.\n02\nMae's bench companion must be Ozzy at A3. Row 3 is now used, so Pia is B2.\n03\nMae shares Ozzy's Balloon Corner. Cora's north-east clue and Rae's two-column east clue leave Mae C5/D5 and Cora D1/E1.\n04\nRows 1 and 5 are reserved, so Vivi must be G7. Rae cannot use G and must be F6, forcing Cora D1 and Mae C5.\n05\nThe unused row and column put Jude at E4 in Prize Tent. Rae at F6 is its only other occupant and the answer.\n"
+  },
+  {
+    "ids": [
+      "page218.block07",
+      "page218.block08",
+      "page218.block09",
+      "page218.block10"
+    ],
+    "text": "01\nCasey can use D4 or D5 in the Lobby. Wynn's Laundry stools are A5, C5 and B7; test each with Tate's touching diagonal and the unused rows/columns.\n02\nGabe and Rio must occupy touching diagonal squares with Rio north-west. Sol must also be north-east of Gabe. Test the linked placements together, then count Nori's companions.\n03\nOne tempting finish is Casey D5, Tate A6, Wynn B7, Gabe F4, Rio E3 and Sol G1. It leaves Nori C2 alone in Parcel Room, so it fails.\n04\nThe only full fit is Wynn B7, Tate C6, Rio E2, Gabe F3, Sol G1, Casey D5 and Nori A4.\n05\nNori and Casey are the two Lobby occupants. Casey at D5 is the answer.\n",
+    "issue": "V8-WORKED-MAP25: make branch testing and exact-one occupancy visible; use checked failed roster.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nCasey resolves to D5 in the Lobby.\n02\nWynn is B7 and Tate C6 in the Laundry.\n03\nGabe resolves to F3 and Rio E2.\n04\nSol becomes G1.\n05\nNori is A4 in the Lobby.\n06\nCasey is the only other person in Nori's\nfinal room.\n",
+    "after": "01\nCasey can use D4 or D5 in the Lobby. Wynn's Laundry stools are A5, C5 and B7; test each with Tate's touching diagonal and the unused rows/columns.\n02\nGabe and Rio must occupy touching diagonal squares with Rio north-west. Sol must also be north-east of Gabe. Test the linked placements together, then count Nori's companions.\n03\nOne tempting finish is Casey D5, Tate A6, Wynn B7, Gabe F4, Rio E3 and Sol G1. It leaves Nori C2 alone in Parcel Room, so it fails.\n04\nThe only full fit is Wynn B7, Tate C6, Rio E2, Gabe F3, Sol G1, Casey D5 and Nori A4.\n05\nNori and Casey are the two Lobby occupants. Casey at D5 is the answer.\n"
+  },
+  {
+    "ids": [
+      "page223.block07",
+      "page223.block08",
+      "page223.block09",
+      "page223.block10",
+      "page223.block11",
+      "page223.block12"
+    ],
+    "text": "01\nThe Mavis–Vega–Cato chain needs three increasing rows. Cato must also be north-east of Ren in Control Room. Earlier Control options and blocked I3 cannot fit the chain, leaving Cato I4 and Ren H5.\n02\nWade's same-room desk neighbours are D7, F7 and G6. Test Jules's touching diagonal and Bryn's shared room: G6 fails, Jules is E8 and Bryn needs row 9.\n03\nWade at D7 leaves Seth alone in every remaining finish. Wade must be F7, so Bryn is G9.\n04\nThe remaining rows are 1/2/3/6 and columns A/B/C/D. Seth in row 6 would be alone in Map Room. Poppy must use row 6: C6 in Training Room. Mavis is A2 in the same room.\n05\nVega's direction chain leaves B3 or D3. B3 would leave Seth D1 alone in Equipment Hall; D3 leaves Seth B1 with exactly one companion.\n06\nVega at D3 is Seth's only companion. D3 is the earned access coordinate.\n",
+    "issue": "V8-WORKED-MAP29: explain last-grid branches and exact-one constraint without guessing coordinate.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nWade resolves to F7.\n02\nJules is E8 and Bryn G9.\n03\nRen is H5 and Cato I4.\n04\nVega resolves to D3; Mavis A2 and Poppy\nC6.\n05\nSeth is B1 in the Equipment Hall.\n06\nVega is the only other person in Seth's\nfinal area.\n07\nThe final access coordinate is D3.\n",
+    "after": "01\nThe Mavis–Vega–Cato chain needs three increasing rows. Cato must also be north-east of Ren in Control Room. Earlier Control options and blocked I3 cannot fit the chain, leaving Cato I4 and Ren H5.\n02\nWade's same-room desk neighbours are D7, F7 and G6. Test Jules's touching diagonal and Bryn's shared room: G6 fails, Jules is E8 and Bryn needs row 9.\n03\nWade at D7 leaves Seth alone in every remaining finish. Wade must be F7, so Bryn is G9.\n04\nThe remaining rows are 1/2/3/6 and columns A/B/C/D. Seth in row 6 would be alone in Map Room. Poppy must use row 6: C6 in Training Room. Mavis is A2 in the same room.\n05\nVega's direction chain leaves B3 or D3. B3 would leave Seth D1 alone in Equipment Hall; D3 leaves Seth B1 with exactly one companion.\n06\nVega at D3 is Seth's only companion. D3 is the earned access coordinate.\n"
+  },
+  {
+    "ids": [
+      "page187.block07",
+      "page187.block08",
+      "page187.block09",
+      "page187.block10",
+      "page187.block11",
+      "page187.block12"
+    ],
+    "text": "01\nThe order clues give a chain: BALL before STAR, STAR immediately before BOLT, then HEART, then MOON.\n02\nThree symbols must come before HEART, so HEART cannot be earlier than fourth. It cannot be fifth, and sixth would leave no place for MOON. HEART must be fourth.\n03\nThe three earlier slots must therefore be BALL, STAR, BOLT, in that order.\n04\nKEY must come before MOON, so the two remaining slots are KEY fifth and MOON sixth.\n05\nThe one complete order is BALL -> STAR -> BOLT -> HEART -> KEY -> MOON. Every clue is true.\n",
+    "issue": "V8-CODE-PROOF: explain why only one order exists instead of an unexplained testing claim.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nSTAR must sit immediately before BOLT.\n02\nBALL must be somewhere before STAR.\n03\nHEART must come after BOLT and\ncannot be fifth.\n04\nKEY must come before MOON.\n05\nHEART must also come before MOON.\n06\nTesting the possible positions leaves one\nsequence: BALL -> STAR -> BOLT ->\nHEART -> KEY -> MOON.\n",
+    "after": "01\nThe order clues give a chain: BALL before STAR, STAR immediately before BOLT, then HEART, then MOON.\n02\nThree symbols must come before HEART, so HEART cannot be earlier than fourth. It cannot be fifth, and sixth would leave no place for MOON. HEART must be fourth.\n03\nThe three earlier slots must therefore be BALL, STAR, BOLT, in that order.\n04\nKEY must come before MOON, so the two remaining slots are KEY fifth and MOON sixth.\n05\nThe one complete order is BALL -> STAR -> BOLT -> HEART -> KEY -> MOON. Every clue is true.\n"
+  },
+  {
+    "ids": [
+      "page221.block07",
+      "page221.block08",
+      "page221.block09",
+      "page221.block10",
+      "page221.block11"
+    ],
+    "text": "01\nBoth plans already have the same scale and orientation. Match the North Stair at C1.\n02\nCheck that the Courtyard Column also matches at F3 and the West Lift Shaft at A5. All three landmarks must agree.\n03\nOn the old plan, Training Room covers D2–E3. The same coordinates on the current plan show Archive wall. That locates the sealed room behind the current Archive.\n04\nThe margin note says RULE FIRST, ROOM SECOND. Locate the room, then follow that instruction before trying to enter.\n",
+    "issue": "V8-OVERLAY-PROOF: one point cannot fix rotation; use actual three-anchor coordinate comparison.",
+    "classification": "FIX",
+    "final_classification": "PENDING",
+    "before": "01\nThe North Stair fixes rotation.\n02\nThe Courtyard Column fixes horizontal\nposition.\n03\nThe West Lift Shaft confirms scale.\n04\nThe old sealed training room lands\ndirectly behind the current Archive wall.\n05\nThe note says RULE FIRST, ROOM\nSECOND.\n",
+    "after": "01\nBoth plans already have the same scale and orientation. Match the North Stair at C1.\n02\nCheck that the Courtyard Column also matches at F3 and the West Lift Shaft at A5. All three landmarks must agree.\n03\nOn the old plan, Training Room covers D2–E3. The same coordinates on the current plan show Archive wall. That locates the sealed room behind the current Archive.\n04\nThe margin note says RULE FIRST, ROOM SECOND. Locate the room, then follow that instruction before trying to enter.\n"
+  }
+]

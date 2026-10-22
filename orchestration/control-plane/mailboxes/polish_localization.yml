@@ -1,7 +1,7 @@
 lane: polish_localization
 title: Polish Localization Engine
-updated: '2026-10-21'
-status: V7_OWNER_READ_CANDIDATE__HM_COMMS_AND_EN_EDITORIAL_UPGRADE
+updated: '2026-10-22'
+status: V8_OWNER_READ_CANDIDATE__ACTUAL_JOINT_WHOLE_BOOK_AUDIT_COMPLETE
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   engine_base_branch: codex/polish-engine-main-reconcile
@@ -264,6 +264,73 @@ milestone:
     ci: FinalheadhostedgreenNOT_CONFIRMED; no Actionsdispatch.
     handoff: ExistingsoleBookFactorywriter consumes exact V7importpacket with allV6repairs andunchangedfigurecontract. Actualimport/fit/printreceipts
       pending; no PLmigration.
+  detective_en_v8_joint_audit:
+    owner_authority: 'Explicit22October request: actual agents for joint whole-book English audit, all errors and weak passages
+      fixed, final full version.'
+    path: localization/detective-en-upgrade/2026-10-21/v8
+    candidate_sha256: d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e
+    baseline_v7_sha256: df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1
+    source_folios: 225
+    stable_units: 3067
+    changed_units: 146
+    changed_folios: 41
+    semantic_groups: 47
+    actual_specialist_agents: 4
+    single_writer: root
+    agent_lenses:
+    - native/story/comedy
+    - child-teen/support/mentor/developmental sensitivity
+    - all30puzzle meaning/logic
+    - reader/promise/marketing/sales
+    actual_review: Four real independent final stages PASS exacthash; fullbaseline/all-case reading plus exact bounded final
+      closure, not fabricated repeated whole-book rereads.
+    puzzles: All16freshCSP fullrosters=1;all14nonspatialactuallyresolved;90hints/30solutionsread;05all720→1;21all24uprightorders→1;26derived14maps.
+    preservation: All27V6repairs,16witnessboards,30answerheaders,107printedplacements and31puzzle/evidencefigures unchanged.
+    corrections: Explicitgeometry/marker/occupancykey;8zoneexclusions+14rowtrace;15workedmaps+05code/27overlayproof;hatprop;accessiblecredential/help;Rulecopy132;promise/payoff04/23/25;Diloending;148/184nativePDFtextpatches.
+    comms_delta: All30mainComms reviewed; onlyNiniCase04taskredirectchangedfromV7. Strong existing jokes preserved.
+    reading_pdf_sha256: 67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230
+    reading_pdf_pages: 225
+    report_pdf_sha256: e0fe8a671016fccc88d50f17ad2724cea4851cafe964c662b2605f0462bd6ece
+    report_pdf_pages: 28
+    proof: 225serialization/offpage checksPASS;minimum173regeneratedbody10.5pt;50retainedleavespixelidentical;148/184boundedtextpatches;actualaudience42fullsize+reader19+independentevidencebindings;root225thumbnail-layoutscope.
+    archive_sha256: 1ed8fac4b427ad5bca9688db6e7f75a413bb0cecc7c1bec4bd819586e7744e0a
+    library:
+    - local_path: /workspace/scratch/e6eabdc4c3a0/detective-v8/proof/DETECTIVE_EN_V8_FULL_ENGLISH.pdf
+      purpose: replace_library_file
+      status: succeeded
+      file_id: file_00000000ffc08230b3b827aea067a782
+      library_file_id: libfile_94471e8e05548191adec7eee0ccdf2e0
+      file_name: DETECTIVE_EN_V8_FULL_ENGLISH.pdf
+      local_metadata_applied: true
+      path: /DETECTIVE_EN_V8_FULL_ENGLISH.pdf
+      current_version_number: 2
+    - local_path: /workspace/scratch/e6eabdc4c3a0/detective-v8/proof/DETECTIVE_EN_V8_AUDYT_I_ZMIANY.pdf
+      purpose: create_library_file
+      status: succeeded
+      file_id: file_0000000070bc81f58119832627ba50a3
+      library_file_id: libfile_c5cc6b82c3d8819196e2d15ff4923828
+      file_name: DETECTIVE_EN_V8_AUDYT_I_ZMIANY.pdf
+      local_metadata_applied: true
+      path: /DETECTIVE_EN_V8_AUDYT_I_ZMIANY.pdf
+      current_version_number: 0
+    - local_path: /workspace/scratch/e6eabdc4c3a0/deliverables/RSE_DETECTIVE_EN_V8_AUDIT_20261022.zip
+      purpose: replace_library_file
+      status: succeeded
+      file_id: file_000000008d1081f7a7e16a6902a3d831
+      library_file_id: libfile_da1bed141d108191a32b9d5d4a7a893b
+      file_name: RSE_DETECTIVE_EN_V8_AUDIT_20261022.zip
+      local_metadata_applied: true
+      path: /RSE_DETECTIVE_EN_V8_AUDIT_20261022.zip
+      current_version_number: 3
+    cli: run-r2 OWNER_READ_CANDIDATE deterministicPASS, no unresolvedissues/sourceambiguities.
+    production_source_or_renderer_changed: false
+    pl_versions_changed: false
+    main_merged: false
+    published: false
+    frozen: false
+    ci: NOT_CONFIRMED_GREEN; no Actionsdispatch
+    handoff: ExistingexclusiveBookFactorywriter consumesV8packet over inheritedV7contract and fourV6correctedleaves. Finalproductionfit/print/ownerrelease
+      separate.
 blocker:
 - Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer evidence
   not available.
@@ -305,9 +372,9 @@ dependencies_needed:
     assets/data and preserveapprovedGuides/ENlayout. Resolve exactsource/fact/safety gates, browserdesktop/mobile parity and
     actualdeployment before noindexrelease; no publication authorized by localization QA.
 - lane: detective_book_factory
-  need: Consume exact V7 candidate df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1 and v7/integration/EDITORIAL_IMPORT_PACKET_V7.json.229V6deltas/310original225deltas;3067targethashes.
-    All27V6repairs andfourcorrectedsourceleaves24/25/97/211 retained. Existingfolioremap16→15/27→26 retained. Supplyactualfinaltypesetimport/fitreceipts;
-    no chatdelivery or printapproval inferred.
+  need: Consume EXACT V8 candidate d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e and v8/integration/EDITORIAL_IMPORT_PACKET_V8.json
+    over inherited V7 original-source packet.146V8operations/3067targethashes; all27V6repairs/fourcorrectedleaves preserved.
+    Existing16→15/27→26remaps retained. Finalproductimport/fit/print receipts remain pending; no PLmigration.
 reusable_outputs:
 - https://github.com/riseshineevolve-source/agency-agents/pull/37
 - scripts/gentle-steps-r6-proof.py
@@ -333,9 +400,13 @@ reusable_outputs:
 - localization/detective-en-upgrade/2026-10-21/README.md
 - localization/detective-en-upgrade/2026-10-21/candidate/candidate.json
 - localization/detective-en-upgrade/2026-10-21/RSE_DETECTIVE_EN_STORY_UPGRADE_20261021.zip
-next_safe_task: Existing sole BookFactory writer consumes exact V7 editorial import packet and preserved V6 figures; bind
-  mapped import and final typesetting/print receipts. No further prose rewrite without a concrete defect or new owner request.
-checkpoint_reference: localization/detective-en-upgrade/2026-10-21/v7/CHECKPOINT.md
+- localization/detective-en-upgrade/2026-10-21/v8/README.md
+- localization/detective-en-upgrade/2026-10-21/v8/candidate/candidate.json
+- localization/detective-en-upgrade/2026-10-21/v8/proof/DETECTIVE_EN_V8_FULL_ENGLISH.pdf
+- localization/detective-en-upgrade/2026-10-21/v8/proof/DETECTIVE_EN_V8_AUDYT_I_ZMIANY.pdf
+next_safe_task: Existing soleBookFactorywriter consumes exact V8 editorial import packet, inherited V7sourcecontract and preserved
+  V6figures; bind final typeset import/fit/print receipts. No further prose pass without concrete defect or new ownerrequest.
+checkpoint_reference: localization/detective-en-upgrade/2026-10-21/v8/CHECKPOINT.md
 model_policy_ack:
   policy: rse-weekly-usage-2026-10-21-v1
   recommended_profile: production
@@ -343,8 +414,8 @@ model_policy_ack:
   runtime_reasoning_observed: NOT_EXPOSED
   runtime_speed_observed: NOT_EXPOSED
   application_status: RECOMMENDATION_ONLY
-revenue_policy_ack: Owner-requested completeEnglisheditorialreview andboundedprose/Commsupgrade; noenginefeatures, competingtranslation,
-  publication or productrendererchanges.
+revenue_policy_ack: Owner-requested actualjointwholeEnglishauditandbounded146unitrepairs complete. Fourusefulspecialists,onewriter.
+  Noenginefeatures, competingtranslation, Actionsdispatch orpublication.
 resolved_en_source_exceptions:
   version: V6
   cases:
