@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-22
-status: OWNER_REFERENCE_RESTORE_V20_REVIEW
+status: FOUR_OWNER_BASE_FINALS_V21_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Latest skeleton steering applied: modern source atrium/layout preserved, bellboy falling pose. Painter loop/convex bucket upgraded, new rear queen atelier, earlier carrier source recovered hash-identical. Waiter locked."
+milestone: "Four final illustrations delivered from definitive six owner attachments: faceless suspended queen, stronger-line low-angle painter, original broad room carrier and source-background falling bellboy. Independent narrow visual QA passed. Waiter locked."
 blocker: null
-owner_gate: "Owner visual response to V20 candidates and restored earlier carrier source. Waiter approved; no other implicit approval or print release."
+owner_gate: "Illustration finishing complete for requested four. Only explicit owner correction or real later release decision; no speculative regeneration. Waiter already approved; no full20/KDP certification."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Owner review V20. Skeleton must preserve latest modern atrium source; no old-hotel regression. Carrier earlier source restored, no regeneration."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_OWNER_REFERENCE_RESTORE_V20.md"
+next_safe_task: "Preserve four V21 final files and approved waiter. No further work unless explicit owner correction or proven concrete blocker; factory work remains excluded."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_FOUR_OWNER_BASE_FINALS_V21.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "V20 independent skeleton/painter actual-image review confirms main five-digit hand/two legs and painter framing. Skeleton/queen graywash cleaned. Carrier original recovered with exact V07 source hash, not regenerated fusion."
+closing_pass_qa: "V21 independent actual-image QA passes all4: main skeleton five digits/two legs, painter two arms/boots/complete ladder, queen faceless/five candles/full flames/coherent mirror, carrier two grips/two boots. Definitive source compositions retained."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -152,3 +152,10 @@ owner_reference_restore_v20:
   - "Skeleton exec-e4880c0c-8958-46b5-955e-6d314f7fb2cc.png; painter exec-bee6236e-ec29-48e2-add0-3260dd6aaaaf.png; queen exec-e3f81b3d-7661-49bb-884f-c1fc72b603f9.png."
   - "Carrier earlier selected source20261021-171623 recovered exact SHA256 cf1518115c320090f7d889634280a075a2058b707c7cc20ee8f9d816e6bff320. V07 generated fusion not resolved; do not conflate."
   - "All hashes/prompts/limitations and superseded attempt in checkpoint. No factory changes."
+
+four_owner_base_finals_v21:
+  - "Owner explicitly stops endless iteration and defines six latest attachments as final bases; last references override discarded modernization/highangle/hoodedroom directions."
+  - "QUEEN exec-028f2d73-bc94-424f-ab58-c6b62b73e186.png; PAINTER exec-52fe9883-c451-45be-b531-9934d742e47c.png."
+  - "CARRIER exec-950818a8-e107-4259-b731-4c49057d4f0f.png; SKELETON exec-01ed7349-2f14-4bd1-b63f-55ee9a514629.png."
+  - "Exactly four generations this pass; source-faithful finals delivered, independent narrow QA passed. Exact hashes/prompts in checkpoint."
+  - "Preserve these and previously approved waiter. No more unsolicited redesign; no book/factory/printmaster claims."
