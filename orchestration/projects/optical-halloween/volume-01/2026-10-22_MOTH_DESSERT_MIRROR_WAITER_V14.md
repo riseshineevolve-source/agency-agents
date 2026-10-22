@@ -1,0 +1,20 @@
+# Optical Halloween — Moth dessert and mirror V14
+
+2026-10-22. Owner requests better mirror and stronger Halloween use of serving tray. V13 edited via last conversation image. Earlier strong versions preserved; other scenes untouched.
+
+Output generated_images/exec-f70af428-42fb-4c82-a665-c315e136bac7.png. SHA256 be890d3ad58707e0948e3b770602edd811f2379203715dfe25320abbd564bed7.
+
+Actual-image root review: optical spiral dessert now has two sculptural chocolate moth wings with crescent cutouts and one striped candle inside transparent foreground cloche. No skull-as-food, pumpkins, ghosts or flowers. Mirror rebuilt with back of same long-haired striped waiter: plate-setting arm on mirror left, palm-supported cloche on mirror right, coherent two-arm gesture. Reflected inverted table has solid tapered legs, downward settings; dessert wings/candle repeat. Mirror now better communicates full service action. Reflected dessert still presents its front symbolically, not a certified ray-traced rear view, so avoid claims of geometrically perfect mirror. Main room/table/action preserved. No concrete framing blocker identified. Owner aesthetic review pending; native art proof, no print/release certification.
+
+Image shown and persisted via ImageGen; no binary upload to GitHub, no factory work.
+
+## Prompt
+Targeted premium revision of the LAST generated waiter illustration. Preserve accepted full composition: masked modern long-haired flying waiter setting a plate onto actual upside-down table overhead, full exposed upward legs, blackwhite optical modern room, palm-supported large clear serving cloche foreground left, eclipse lamp, white colorable floor. No pumpkins, sheet ghosts, skull food, flowers, stairs or checkerboard.
+
+Improve two areas:
+1. USE THE SERVING CLOCHE for a sophisticated Halloween midnight patisserie scene. Keep the spiral cake but make it a sculptural crescent-shaped layered dessert with ONE broad crisp optical spiral on its rounded top. Two elegant dark-chocolate MOTH WINGS rise from the back of the cake like a couture topper, each a simple bold outlined tapered wing with white crescent cutouts and broad black accents, not a cute cartoon bat, not busy insect detail. A single striped candle beside the cake, flame gently tilted. The moth is a chocolate decoration, no bodyparts or gore. A refined nocturnal masquerade dessert, beautiful and recognizable as food. The glass dome subtly bends/magnifies the outer wing tips and surrounding striped wall at its curved edges, while the central cake is clear; thick bold glass contours, clean white gaps, no gray haze. Keep the entire tray/dome/hand inside canvas.
+2. REBUILD ONLY the content of the RIGHT WALL MIRROR as a coherent reflection of this actual scene viewed from behind the waiter. Same hairstyle, striped short jacket, upward-reaching plate-setting arm and other extended forearm supporting the tray BELOW on an OPEN PALM. Show the SAME crescent spiral cake, two chocolate moth wings and SINGLE striped candle under the SAME clear upright dome, seen from its REAR SIDE, naturally foreshortened and PARTIALLY OCCLUDED by the waiter's shoulder/forearm. The reflected tray must be attached visually to his hand rather than floating above his head. Do not paste a front-facing duplicate of the cake or foreground cloche into the mirror. Reflection should be SMALLER and deeper in the room with correct overlaps. Reflect the actual inverted table as thick slab, upward solid tapered table legs (never goblet-shaped supports), downward plates and stemmed goblets. Keep mirror frame intact. Same objects in reflection, no extra cloche, extra candle, extra arms, extra head or unrelated scene.
+
+All remaining artwork preserved. Thick bold black-and-white COLORING art, broad optical black rhythm, white enclosed areas. No graywash, hatching, filigree or text. Refined Halloween mood through nocturnal moth dessert, masquerade and spatial impossibility, no scattered decorative icons.
+
+Next step: owner visual response to moth-dessert and revised mirror.
