@@ -5,6 +5,25 @@ Purpose: convert RSE product quality into reach, demand, sales and repeatable le
 Primary operating objective: **REVENUE ASAP / FINISH -> PUBLISH -> SELL -> LEARN -> SCALE**
 Authority boundary: this document does not itself rewrite the canonical RSE Brain or Commercial Priority Stack. Central RSE Technical Orchestrator reconciles those surfaces.
 
+## Current execution and evidence override — 2026-10-22
+
+Current sequencing comes from `../control-plane/RSE_REVENUE_SPRINT_2026-10-21.yml`
+and later explicit owner instructions, not dated product orders below.
+Use [Practical Growth Rules](RSE_PRACTICAL_GROWTH_RULES_2026-10-22.md) for the
+outcome contract, observed-vs-hypothesized buyer research, offer brief,
+48-hour exploratory test and existing Performance Memory reporting.
+
+Current Optical Animals is coloring-only. Historical seek-and-find/token/sampler
+examples below do not authorize those claims or features. Validate every brief
+against its current product mailbox and exact source version.
+Do not reopen approved product design for a marketing experiment.
+
+Adopt source-preserving layered animation as a method, using existing production
+tools first. HTML preview is not MP4 delivery. HyperFrames is a verified possible
+implementation, not an installed tool or a required new platform.
+No new vendor, subscription, AI influencer identity, affiliate program or B2B
+implementation agency is launched by this addendum. Marketing remains sole writer.
+
 ## 1. Core operating doctrine
 
 RSE already has enough architecture, products and agents to move. The main commercial bottleneck is distribution, release closure and learning velocity.

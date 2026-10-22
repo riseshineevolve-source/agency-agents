@@ -5,6 +5,17 @@ Rebuilt: 2026-09-18
 Last reconciled: 2026-10-21 (central portfolio delta; historical sections retained)
 Primary durable repo: `riseshineevolve-source/agency-agents`
 
+## Practical operating update — 2026-10-22
+
+Owner-authorized source-advice evaluation is implemented in
+`orchestration/strategy/RSE_PRACTICAL_GROWTH_RULES_2026-10-22.md`,
+Autonomy Protocol, Growth OS and the recovery entrypoint. Use outcome contracts,
+source-backed buyer insight, concrete offers, bounded content tests and existing
+Performance Memory. Preserve current revenue sequencing, source locks and sole
+writers. Tool suggestions are classified; no new tool or agency is launched.
+Central mailbox carries an extension to the existing marketing request.
+Recipient adoption is unverified until their own checkpoint acknowledges it.
+
 ## Latest portfolio reconciliation — 2026-10-21
 
 Current owner revenue direction supersedes the old execution priority order:

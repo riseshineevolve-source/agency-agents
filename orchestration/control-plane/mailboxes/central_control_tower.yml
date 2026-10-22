@@ -1,6 +1,6 @@
 lane: central_control_tower
 title: RSE Central Control Tower
-updated: 2026-10-21
+updated: 2026-10-22
 status: OA_FINAL_GRAY15_INTERIOR_DELIVERED__COVER_PROOF_PRICE_PENDING
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
@@ -340,3 +340,37 @@ n8n_authenticated_receipt_reconciliation:
   paid_upgrade_or_replacement_host: NOT_AUTHORIZED
   budget_notice: USD7_TOTAL_CEILING_NOT_ADDITIONAL_CREDIT_BALANCE_UNKNOWN
   cloud_runs_started_by_this_reconciliation: 0
+
+practical_growth_update:
+  id: rse-practical-growth-20261022
+  authority: owner_explicit_analyse_select_and_implement_external_advice
+  date: '2026-10-22'
+  policy: orchestration/strategy/RSE_PRACTICAL_GROWTH_RULES_2026-10-22.md
+  implemented_surfaces:
+    - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
+    - orchestration/strategy/RSE_GROWTH_OPERATING_SYSTEM_2026_Q4.md
+    - orchestration/RESUME_FROM_ZERO.md
+    - orchestration/brain/RSE_BRAIN_MASTER.md
+  recipients: all_registered_lanes
+  application: read_at_startup_or_next_real_checkpoint_no_restart_or_duplicate_work
+  adoption_state: PUBLISHED_IN_REPO__RECIPIENT_ACK_AND_EXECUTION_UNVERIFIED
+  ack_request: Record policy ID with next real output in OWN checkpoint; no status-only commits.
+  outcome_rules: concrete_deliverable_done_condition_source_version_test_evidence_next_action
+  reporting_rules: separate_PREPARED_VERIFIED_LIVE_observation_time_and_UNKNOWN
+  scheduler_rules: enabled_is_not_running_successful_poll_is_not_current_product_health
+  no_new_installation_subscription_publication_or_spend: true
+  product_or_marketing_writer_transfer: false
+  existing_request_extension:
+    request_id: first-release-metadata-cost-20261021
+    to: marketing_autopilot
+    need: >-
+      Consume latest Optical producer checkpoint and exact current version, preserving
+      coloring-only scope and existing title/art locks. Complete existing listing and
+      three organic draft request using situation/objection/verified proof/one CTA.
+      Add TWO hook variants to ONE existing master and an exploratory48hour test card
+      with platform, cost/time cap, justified exposure threshold and KEEP/ITERATE/
+      INCONCLUSIVE/STOP rule. Use existing Performance Memory after an authorized live
+      test. Prefer already-approved Happy Makers/product assets; no new influencer.
+      Hold for real buy URL, first-family approval and required release permissions.
+      No publication, pricing change, affiliate program or paid media inferred.
+    delivery: DEPENDENCY_NOTICE_ONLY_NOT_MARKETING_PRODUCTION_COMPLETED
