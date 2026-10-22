@@ -1,27 +1,27 @@
 lane: optical_animals
 title: "Optical Animals"
 updated: 2026-10-22
-status: FINAL_LAYOUT_V4_DELIVERED__DIGITAL_QA_PASS__PHYSICAL_RELEASE_GATES
-branch_or_repo_state: "ONE writer. Product branch unchanged. Approved22GRAY15hero streams preserved byte-for-byte."
+status: INTRO_PATTERN_V5_DELIVERED__DIGITAL_QA_PASS__OWNER_PRINT_RELEASE_GATES
+branch_or_repo_state: "ONE writer. Product branch feat/optical-animals-book-creator. Approved22hero artwork streams remain byte-identical; no hero or source art changed."
 milestone: >-
-  Publishing uses SemiBold series, website and Facebook address; legal copy
- 14.5pt; one complete blank line before raised AI note. Butterfly45 sentence:
-  Between one wingbeat and the next, the world is still. Horizontal Color Your
-  Way gutter continuation p4 right edge to p5 left edge; subtle mark on every
-  blank reverse plus5/45/48.
-blocker: "No digital interior blocker. Physical proof and approved full-wrap cover remain."
-owner_gate: "Owner physical proof, cover, KDP Print Previewer and release. No publication performed."
+  On the 48-page coloring-only V4 interior, the exact page4 right-edge pattern
+  now continues across the gutter onto page5's LEFT long vertical edge, upright,
+  with a soft white title exclusion. The same vertical edge echo repeats on
+  blank reverse pages8,10,...42,44; pages45 and48 retain the subtle motif.
+  Intro layout/production copy retained. 26 unrevised page paint streams and all
+  22 approved hero streams are byte-identical. Digital PDF/ZIP QA passed.
+blocker: "Physical paper/ink/gutter proof, matching approved full-wrap cover, actual KDP Print Previewer, and final release inputs/approval remain unverified."
+owner_gate: "Owner reviews the revised p4–5 spread and the physical proof; matching cover, KDP Previewer, metadata/price, then explicit release decision. No publication performed."
 dependencies_needed:
-  - "Approved full-wrap cover matched to48page trim and paper."
+  - "Approved full-wrap cover matched to the current 48-page trim, paper and ink."
 reusable_outputs:
-  - "CURRENT WILD_ILLUSIONS_OPTICAL_ART_FINAL_KDP.pdf;69800726bytes;SHA256 1747c22c4104afe0c91ee846b295974cabdc35ce696e0a634a30b2f2b991a1ca;libfile_507fe3cae5088191be459397753617d0 v8 file_00000000ab2081f69230200f0dbffdca"
-  - "CURRENT WILD_ILLUSIONS_OPTICAL_ART_FINAL_CANVA.pdf;69609070bytes;SHA256 adb0b009be5943693eef36cdde1d334534ad213851175b6d2bb19a09bf39695a;libfile_4b6440500a0c81918a1f0315513d5ab3 v6 file_00000000bafc81f6a01415d35fe77e34"
-  - "CURRENT WILD_ILLUSIONS_OPTICAL_ART_FINAL_CANVA_PACK.zip;214858764bytes;SHA256 0111340bbc99f2a4066e01875f94885035784739b8a6bffaca25b975eb7bf045;libfile_2ae552e0151881919c6a1c49b01aef5a v6 file_000000003ad481f6b21355ed7b27d83b"
-  - "23 changed pages including all blank backs; 25 other pages retained; all22hero artwork streams unchanged."
-  - "Horizontal source motif:20%graymax,4.414%pixel coverage,0.241%average density; same family on all blank backs8,10,...42 and44; title5, butterfly45, close48."
-  - "Root and independent art-coherence QA PASS; final p2/p45 render and text QA PASS; packaged93-entry checksum manifest PASS."
-next_safe_task: "Owner print proof and approved cover/release. Preserve approved heroes; re-preflight any Canva export."
-checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-22-final-layout-v4.md
+  - "KDP WILD_ILLUSIONS_OPTICAL_ART_FINAL_KDP.pdf;70119234 bytes;SHA256 49fd39ef2fbe341c7676f30dea77ff400a5b068f70913e71d724bc366a9dc466;Library libfile_507fe3cae5088191be459397753617d0 v10 file_00000000784c81f5b0b9c453f3df2faa"
+  - "Canva WILD_ILLUSIONS_OPTICAL_ART_FINAL_CANVA.pdf;69909499 bytes;SHA256 1eb76a21d8f8949915f42b30f32a19088f454a23b8cdc49f8fba45fc2dd759b0;Library libfile_4b6440500a0c81918a1f0315513d5ab3 v8 file_00000000d5d481f5889d8f69234aee95"
+  - "Canva pack WILD_ILLUSIONS_OPTICAL_ART_FINAL_CANVA_PACK.zip;216156331 bytes;SHA256 0f29222490ebbaf675d9f1b4d18be2473af0b0c92a5f4836aea9849cff15eb5d;Library libfile_2ae552e0151881919c6a1c49b01aef5a v8 file_00000000d00c81f5ae2425e391118a60"
+  - "22 updated pages Poppler/MuPDF verified; 26 other page streams unchanged; 22 approved art streams byte-identical; ZIP 94 entries and checksum manifest PASS."
+  - "P4 to p5 exact source pattern continued across spine to p5 left long vertical edge; same vertical echo on blank reverse backs8,10,...42,44. Title exclusion keeps heading clear."
+next_safe_task: "Stop at owner visual and physical/release gates: inspect revised p4–5 transition, obtain matching cover and physical proof, run actual KDP Print Previewer, assemble final metadata/price/release packet. Intro-only scope; no token/mask or whole-volume art changes."
+checkpoint_reference: orchestration/projects/optical-animals/checkpoints/2026-10-22-intro-edge-pattern-v5.md
 model_policy_ack: rse-weekly-usage-2026-10-21-v1
 recommended_profile: production
 runtime_model_observed: UNKNOWN
