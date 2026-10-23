@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-23
-status: WAX_QUEEN_IMPOSSIBLE_GOWN_V43_DELIVERED
+status: WAX_QUEEN_CONTINUOUS_GOWN_GEOMETRIC_CANDLES_V44_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Queen V43 substantial concept upgrade delivered after actual14/dog/jester comparison: giant open gown canopy, exposed underside/thickness, hollow candle and diverse wax forms, cleaned bold floor reflections."
+milestone: "Queen V44 owner correction delivered: visible waist-originating gown pleats form geometric hollow/stepped candle bodies; left candle reworked into cut-through prism; local gray bevel cleanup completed."
 blocker: null
-owner_gate: "Owner visual review of V43; fresh jury vetoed V42 finality and found V43 concept materially stronger. No owner final approval inferred."
+owner_gate: "Owner visual review of V44. Reviewers confirm materially clearer gown-to-candle continuity; minor upper-right drape ambiguity remains honestly recorded. No owner final approval inferred."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve V43 and earlier bank. Other scenes/skeleton V37/waiter remain closed. Only explicit owner steering/proven blockers; illustrations only."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_WAX_QUEEN_IMPOSSIBLE_GOWN_V43.md"
+next_safe_task: "Preserve V44, V43 and earlier bank. Await owner visual feedback; other scenes/skeleton V37/waiter remain closed. Illustrations only."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_WAX_QUEEN_CONTINUOUS_GOWN_GEOMETRIC_CANDLES_V44.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Actual base V43 reviewed by two fresh concept/coloring critics, final by root. Floor gray wash/streaks removed locally. Six visible physical candle forms retained honestly; no exact-five or ray-correct claim."
+closing_pass_qa: "Actual V44 compared against V43 by coloring/Brand Guardian and Reality/Finish reviewer; visible waist-to-candle material continuity improves. Gray bevel/arch fills removed locally and verified in final. Six physical candle forms; no all-paths-unoccluded or ray-correct claim."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -244,3 +244,10 @@ wax_queen_impossible_gown_v43:
   - "Queen high above, immense open wax canopy, visible front/back/thickness, cut-through candle and mirror revealing hidden geometry; floor gray/streak cleanup."
   - "Final exec-ad6dcc30-f1ef-4395-8f94-3fa02c32d9ce.png SHA256 0b5589fdad1c00ce0655e1aa31488fa15fda303952673cabe3291402d3908ce5."
   - "Output has six visible physical candle forms despite internal five target; latest owner does not impose count. No exact optical/printmaster certification."
+
+wax_queen_continuous_gown_geometric_candles_v44:
+  - "Owner likes square/hollow candles but rejects V43 loss of literal gown formation. Broad exposed waist pleats now become major candle sidewalls; geometric left/center/right forms retained."
+  - "Final exec-11f247c8-974e-4274-98a2-a745e19ef979.png SHA256 61e03d8679b876c25126d57adb178c90aec19d7c383e2c6167ce20dc12b42f20."
+  - "Base exec-e625efa9-0687-475e-9e34-88974ad66607.png retained. Two ImageGen calls: targeted material revision and local gray-to-white finish."
+  - "Reviewers confirm stronger gown reading; upper-right join can partly suggest drape and smaller paths are occluded. No final owner approval inferred; six visible actual candles."
+  - "V43 source hash unchanged; no all-original re-audit claimed. Other scenes and locked waiter untouched. No book/factory work."
