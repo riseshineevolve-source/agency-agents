@@ -1,0 +1,9 @@
+{
+  "run_sha256": "28de85cb14208002e44a2186fcd692af7fce73924485788385eff1a72c5476ff",
+  "allowed_changed_segments": [
+    "PL01",
+    "PL02"
+  ],
+  "protected_segments": [],
+  "reason": "Owner authorizes same-language article upgrade; only these two campaign article files. Brand strings, product facts and source actions remain immutable; R6 book/app/website excluded."
+}

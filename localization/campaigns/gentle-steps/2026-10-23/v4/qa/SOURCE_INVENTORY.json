@@ -1,0 +1,55 @@
+{
+  "authority": "User23Oct requests new upgraded PL/ENversions of the two previous articles",
+  "current_editorial_baseline": "GitV3 at00beb0ffe274eb68ef424ece01b175194884c898; more recent editorial work than Library V2. Compare and preserve best accepted wording; do not silently treat V2 as latest.",
+  "R6_source_hash": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3",
+  "R6_source_commit": "8b484a528cd2ef85d23d5efc5c5c341a2fd02985",
+  "current_tool_head_R6": "404 at that branch; read exact known historical product source, not claim latest body download",
+  "locks_hash": "898103dc13204f88371eec429f24dc4ee943637626d9da64d551022a378978ae",
+  "scope": "Four campaign article files inclSEO. All book24days/app/website/other projects excluded",
+  "baseline_files": [
+    {
+      "path": "baseline/R6_MASTER.md",
+      "sha256": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3"
+    },
+    {
+      "path": "baseline/CAMPAIGN_LOCKS.md",
+      "sha256": "898103dc13204f88371eec429f24dc4ee943637626d9da64d551022a378978ae"
+    },
+    {
+      "path": "baseline/V3_QA.md",
+      "sha256": "343eadcd39d5de349a956288679717c3a064da18df189b7a157bf44ec4a0876f"
+    },
+    {
+      "path": "baseline/library/02_kalendarz_z_zadaniami_PL.md",
+      "sha256": "ffd8c4fa1236ed5217aa06af30b4dd52b1df98de8f4f8af7d30dde64ae7cc8e3"
+    },
+    {
+      "path": "baseline/library/02_advent_activities_EN.md",
+      "sha256": "070ce73901b64c6af2821c9c452d82579568703557ae396bbf8d0821714fda17"
+    },
+    {
+      "path": "baseline/library/01_december_family_time_EN.md",
+      "sha256": "34c897392db2977544069eab8f711d3983a8029bf2558f1e7cbcd9836c4efe17"
+    },
+    {
+      "path": "baseline/library/01_grudzien_bez_pospiechu_PL.md",
+      "sha256": "2ca6d40575427fd48e30ced0b31ebcec2a4ca1a5d4df1d36ef564e0a5a6cf9e2"
+    },
+    {
+      "path": "baseline/v3/02_kalendarz_z_zadaniami_PL.md",
+      "sha256": "3268fe2aa35f45fd200009993f539f770a220bcb6d2bb849a119d8397f4c11fd"
+    },
+    {
+      "path": "baseline/v3/02_advent_activities_EN.md",
+      "sha256": "fdf9864a2b17ff883003d3fbdf84a124f37f12d59e6338f5f970995f219773f1"
+    },
+    {
+      "path": "baseline/v3/01_december_family_time_EN.md",
+      "sha256": "e8f0b6bd3f00f99f1b1297d8599cfcc3e5712c6ba70f21856a8daecfe9658b59"
+    },
+    {
+      "path": "baseline/v3/01_grudzien_bez_pospiechu_PL.md",
+      "sha256": "411c254834682609e60755a2044a4cec786c82386cd46ad0d8ea50f66928d2ff"
+    }
+  ]
+}

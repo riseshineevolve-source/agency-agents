@@ -1,0 +1,28 @@
+{
+  "run_sha256": "3f720ddf7d224bbc3b2c58d3f2cb76852c34e84f3af2137ef4ef4c16f54a6136",
+  "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+  "diagnostic": "COMPLETE",
+  "issues": [
+    {
+      "id": "UPGRADE-EN01",
+      "classification": "FIX",
+      "status": "RESOLVED",
+      "segments": [
+        "EN01"
+      ],
+      "detail": "Actual diagnostic identified shared sales cadence, abstract/emotional pressure or register defects; upgrade preserves recognised openings and source-backed games.",
+      "resolution": "Root candidate and bounded13phrase closure; all actual four-stage final receipts PASS exact candidate. Initial diagnostic/R1FIX preserved."
+    },
+    {
+      "id": "UPGRADE-EN02",
+      "classification": "FIX",
+      "status": "RESOLVED",
+      "segments": [
+        "EN02"
+      ],
+      "detail": "Actual diagnostic identified shared sales cadence, abstract/emotional pressure or register defects; upgrade preserves recognised openings and source-backed games.",
+      "resolution": "Root candidate and bounded13phrase closure; all actual four-stage final receipts PASS exact candidate. Initial diagnostic/R1FIX preserved."
+    }
+  ],
+  "source_ambiguities": []
+}

@@ -1,0 +1,139 @@
+lane: polish_localization
+title: Polish Localization Engine
+updated: '2026-10-23'
+status: HM_COMMS_V10_RHYTHM_OWNER_READ_CANDIDATE__NON_COMMS_PRESERVED
+branch_or_repo_state:
+  repository: riseshineevolve-source/agency-agents
+  engine_base_branch: codex/polish-engine-main-reconcile
+  engine_base_head: 8ecd3b93c50d34eb17e3080c8f736f4a8b41becf
+  isolated_proof_branch: codex/polish-engine-r6-proof-20261019
+  proof_head: f48bb98b97bc41723bcd5ffce3df4ea4d5600a2b
+  proof_pr: https://github.com/riseshineevolve-source/agency-agents/pull/37
+  main_observed_head: b0f08175ddb23adc6e98daff6f7ac8ba1ba4fffe
+  detective_r8_recovery_branch: codex/detective-pl-v04-r8-recovery-20261019
+  detective_r8_checkpoint_head: cfe524a2ca6eef401d60b7233a5a47664e5caeb9
+  detective_r8_pr: https://github.com/riseshineevolve-source/agency-agents/pull/38
+  branch_relation: DIVERGED__NO_BLIND_MERGE
+  language_tool_branch: codex/polish-engine-language-studio-20261021
+  language_tool_base_main: 4b123f5ccdb77f7a8e4390624f7466d16ba665a6
+  language_tool_relation: ISOLATED_ADDITIVE_BRANCH_FROM_MAIN__NO_MERGE_OF_DIVERGED_OLD_ENGINE
+  website_localization_branch: codex/polish-website-native-source-20261021
+  website_localization_pr: https://github.com/riseshineevolve-source/agency-agents/pull/42
+  website_checkpoint_head: 0945b126b40671bd7fa9a769cfbe3e9229559a7c
+  detective_en_upgrade_branch: codex/detective-en-story-upgrade-20261021
+  detective_en_upgrade_pr: https://github.com/riseshineevolve-source/agency-agents/pull/43
+  detective_en_candidate_checkpoint: 6c4e735ef71fcf01d6bbe1364bb07ba7e8fd9cfb
+  language_tool_current_head: 65191b3518399691dcdcbeaec905539dcfbaab9f
+  detective_v10_parent_head: 22a43c14a6069bb3f37443c128c3e2d4b890436e
+milestone: Owner-requested English HMComms rhythm revision complete. One actual agent author, three independent
+  reviewers cover four stages. All34scenes/183turns, all30case-intro/task contexts considered. Real R1FIX and eight-turn
+  final closure, CLI PASS, PDF preservation PASS. Exact candidate 86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a
+blocker:
+- Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer
+  evidence not available.
+- Authorized Desktop Commander device offline as checked 2026-10-19; no physical print or device proof.
+- 'PR #37 exact-head green CI not verified; do not promote as proven PASS or merge blindly.'
+- Detective R8 text proof has no embedded artwork; master PDF page 80 is footer-only; both must be re-rendered with
+  final Book Factory template.
+- Physical Case03 photos, Case12 G2 map, Case21 four fragments, Case26 14 maps, Case27 overlay, human PL family
+  read-aloud and owner KDP layout proof remain unverified.
+- R8 original manifest self-hash and owner handoff SHA mismatch the retrieved auxiliary bytes; 7/7 substantive source
+  hashes PASS, no body corruption inferred.
+- V6 EN content and four corrected source leaves are complete; actual sole-BookFactory import, final typesetting
+  and print proof receipts remain pending.
+owner_gate:
+- The PL/EN daily headings, PL headline and EN subtitle are OWNER-LOCKED (2026-10-13); no owner reconfirmation needed.
+  Await sole Gentle Steps writer for atomic source/app migration after visual/CI pass.
+- 'English primary short strapline editorial completion 2026-10-19: A BOOK THAT FITS INTO YOUR DECEMBER. Separate
+  from the owner-locked EN subtitle; do not insert on cover without actual layout review.'
+- Final Gentle PL print-scale visual/editorial/safety approval and release freeze remain owner-controlled.
+- Before moving Detective PL onto the latest evolving EN production master, obtain explicit current source authority
+  and freeze; do not equate historical V10 scoped freeze with later EN editions.
+dependencies_needed:
+- lane: gentle_steps
+  need: Producer to supply actual R6 final-template PDF, editable final template snapshot and 12 distinct PNG views
+    with hash-bound source and reviewer evidence. Do not rewrite Polish content on app branch. Owner-attached cover
+    reference contains abcabc placeholder back copy and front lower badge; do not promote this reference as a finished
+    cover. Current production wrap was not inspected here.
+- lane: central_control_tower
+  need: Consume V3 bilingual Gentle Steps guides at localization/campaigns/gentle-steps/2026-10-21/v3 after owner
+    editorial approval. Website sole writer connects verified product/preview link and checks real formats/title,
+    language routing and current design. No website files changed by localization.
+- lane: detective_book_factory
+  need: Consume EXACT Library V04 R8 Reader + Master + 90 hints + 30 solutions (all SHA-verified) as latest PL language
+    candidate; produce complete designed Polish KDP proof using owner-approved art and maps. Test Case03 / 12 /
+    21 / 26 / 27, FOUR 0 records and FINAL70; real print proof and owner visual gate. Do not use V03 REV6 or generate
+    a competing translation. For future newest EN parity, request exact explicit source freeze.
+- lane: website_factory
+  need: Consume source-mapped35pagePL candidate at localization/website/2026-10-21 on this feature branch. Integrate
+    onlyPL assets/data and preserveapprovedGuides/ENlayout. Resolve exactsource/fact/safety gates, browserdesktop/mobile
+    parity and actualdeployment before noindexrelease; no publication authorized by localization QA.
+- lane: detective_book_factory
+  need: Consume EXACT V10 HMComms candidate 86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a and
+    v10/integration/EDITORIAL_IMPORT_PACKET_HM_COMMS_V10.json over V9/V8/V7 contracts.215Comms operations/3067target
+    hashes;183speaker/portrait turns unchanged. All nonComms text and prior puzzle repairs retained. Preserve full
+    wording through production fit; final art/physical proof stays with existing sole BookFactory writer. No PL
+    migration.
+reusable_outputs:
+- https://github.com/riseshineevolve-source/agency-agents/pull/37
+- scripts/gentle-steps-r6-proof.py
+- scripts/test-localization-gentle-steps-r6-fit.py
+- localization/pl-PL/production/gentle-steps/book-versions/v3/R6_PROOF_AND_LABEL_CHANGE_GATE_2026-10-19.md
+- https://github.com/riseshineevolve-source/agency-agents/pull/38
+- localization/pl-PL/production/detective-academy/versions/v04/V04_R8_EXACT_SOURCE_RECOVERY_AND_PRINT_HANDOFF_2026-10-19.md
+- localization/pl-PL/production/detective-academy/versions/v04/V04_R8_RECOVERY_QA_2026-10-19.json
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/01_grudzien_bez_pospiechu_PL.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/01_december_family_time_EN.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/02_kalendarz_z_zadaniami_PL.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/02_advent_activities_EN.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/00_README_EDITORIAL_HANDOFF.md
+- .agents/skills/rse-language/SKILL.md
+- tools/rse-language/README.md
+- scripts/rse-language.py
+- scripts/test-rse-language.py
+- localization/campaigns/gentle-steps/2026-10-21/v3
+- https://github.com/riseshineevolve-source/agency-agents/pull/40
+- localization/website/2026-10-21/README.md
+- localization/website/2026-10-21/QA_SUMMARY.md
+- localization/website/2026-10-21/RSE_WEBSITE_PL_SOURCE_MAPPED_20261021.zip
+- localization/detective-en-upgrade/2026-10-21/README.md
+- localization/detective-en-upgrade/2026-10-21/candidate/candidate.json
+- localization/detective-en-upgrade/2026-10-21/RSE_DETECTIVE_EN_STORY_UPGRADE_20261021.zip
+- localization/detective-en-upgrade/2026-10-21/v8/README.md
+- localization/detective-en-upgrade/2026-10-21/v8/candidate/candidate.json
+- localization/detective-en-upgrade/2026-10-21/v8/proof/DETECTIVE_EN_V8_FULL_ENGLISH.pdf
+- localization/detective-en-upgrade/2026-10-21/v8/proof/DETECTIVE_EN_V8_AUDYT_I_ZMIANY.pdf
+- localization/detective-en-upgrade/2026-10-21/v9/README.md
+- localization/detective-en-upgrade/2026-10-21/v9/CHECKPOINT.md
+- localization/detective-en-upgrade/2026-10-21/v9/candidate/candidate.json
+- localization/detective-en-upgrade/2026-10-21/v9/candidate/HAPPY_MAKERS_COMMS_FINAL_EN.md
+- localization/detective-en-upgrade/2026-10-21/v9/integration/EDITORIAL_IMPORT_PACKET_HM_COMMS_FINAL.json
+- localization/detective-en-upgrade/2026-10-21/v10/README.md
+- localization/detective-en-upgrade/2026-10-21/v10/CHECKPOINT.md
+- localization/detective-en-upgrade/2026-10-21/v10/candidate/candidate.json
+- localization/detective-en-upgrade/2026-10-21/v10/candidate/HAPPY_MAKERS_COMMS_RHYTHM_EN.md
+- localization/detective-en-upgrade/2026-10-21/v10/integration/EDITORIAL_IMPORT_PACKET_HM_COMMS_V10.json
+next_safe_task: Existing sole BookFactory writer consumes exact V10 HMComms delta. Preserve full dialogue and183speaker
+  order; verify production fit/art and physical proof. No further dialogue rewrite without actual defect or owner
+  request.
+checkpoint_reference: localization/detective-en-upgrade/2026-10-21/v10/CHECKPOINT.md
+model_policy_ack:
+  policy: rse-weekly-usage-2026-10-21-v1
+  recommended_profile: production
+  runtime_model_observed: NOT_EXPOSED
+  runtime_reasoning_observed: NOT_EXPOSED
+  runtime_speed_observed: NOT_EXPOSED
+  application_status: RECOMMENDATION_ONLY
+revenue_policy_ack: 'Four actual useful agents: one dialogue writer, three independent reviewers; bounded34scenes.
+  No puzzle re-audit, engine feature, paid fallback or publication.'
+resolved_en_source_exceptions:
+  version: V6
+  cases:
+  - 2
+  - 3
+  - 7
+  - 10
+  - 15
+  - 20
+  status: OWNER_AUTHORIZED_REPAIRS_COMPLETE
+  candidate_sha256: d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc

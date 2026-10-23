@@ -1,0 +1,44 @@
+{
+  "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+  "reviews": [
+    {
+      "stage": "native_language",
+      "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+      "status": "PASS",
+      "reviewer": "/root/advent_en_editor",
+      "evidence": "reviews/en-final/native_language.json",
+      "receipt_sha256": "528ac85a4712b50e913a637e3576fa35acc8f0b42d3b78705b4bb2d1a5df7898",
+      "scope": "Complete final EN01 and EN02, including metadata, headings, all body paragraphs and CTAs; read-aloud rhythm, natural UK idiom, scene specificity, humour and independent article functions. Compared actual final text with exact reviewed R1, not only the change description. No candidate edits made."
+    },
+    {
+      "stage": "audience",
+      "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+      "status": "PASS",
+      "reviewer": "/root/advent_en_editor",
+      "evidence": "reviews/en-final/audience.json",
+      "receipt_sha256": "0278e4759c11656ed7529c28cb05472099b96124818d83e1e76721404ac8d87a",
+      "scope": "Complete final EN01 and EN02 as parent-facing editorial articles: practical family life, participation choices, emotional demands, humour, guilt, plausible scenes, article intent and claim framing. Rechecked every changed EN02 paragraph against reviewed R1 and reread both complete final articles. No candidate edits made."
+    },
+    {
+      "stage": "meaning",
+      "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+      "status": "PASS",
+      "reviewer": "/root/advent_truth_editor",
+      "evidence": "reviews/truth-final/en-meaning.json",
+      "receipt_sha256": "4170c2e1e23217b48d44a83ace23b93f5d38aca3176b754b59eb660187982afd",
+      "scope": "Both complete final EN articles, YAML metadata and CTAs reread; meaning closure against R1, all declared changes, campaign locks and six PL R6 source actions."
+    },
+    {
+      "stage": "logic",
+      "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+      "status": "PASS",
+      "reviewer": "/root/advent_truth_editor",
+      "evidence": "reviews/truth-final/en-logic.json",
+      "receipt_sha256": "fed0622490637da93d31b83d5326f0108367bd486201a9da7861a0c681d1781f",
+      "scope": "Both complete final EN articles, YAML metadata and CTAs reread; logic closure against R1, all declared changes, campaign locks and six PL R6 source actions."
+    }
+  ],
+  "actual_reviewers": 3,
+  "sole_candidate_writer": "root",
+  "normalization_only": true
+}

@@ -1,0 +1,103 @@
+{
+  "reviewer": "/root/advent_truth_editor",
+  "stage": "meaning",
+  "actual_stage": "meaning",
+  "review_round": "FINAL_CLOSURE",
+  "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+  "candidate_path": "candidate/candidate-en.json",
+  "previous_reviewed_candidate_sha256": "b1fa0509f3518aecd626382b19990dbaef110a2f96ac10eea8f77964d52d50b4",
+  "status": "PASS",
+  "actual_review": true,
+  "read_complete": true,
+  "review_scope": "Both complete final EN articles, YAML metadata and CTAs reread; meaning closure against R1, all declared changes, campaign locks and six PL R6 source actions.",
+  "evidence": "Read all final text, checked the six teaser functions/actions and every number, modality, product/availability/benefit statement, participation choice and named label. The bounded R1 findings are resolved; no required meaning/mechanics/claims defect remains.",
+  "source_master_sha256": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3",
+  "source_master_hash_verified": true,
+  "source_locators": {
+    "Day19": "1038-1051",
+    "Day10": "586-606",
+    "Day7": "449-456",
+    "Day21": "1140-1153",
+    "Day22": "1206-1223",
+    "Day14": "810-817"
+  },
+  "source_limitation": "EN teaser provenance is inherited from the V3 handoff and checked for meaning/mechanics against corresponding PL R6. No latest EN book master download or fresh full-book authentication is claimed.",
+  "article_text_matches_json_segments": true,
+  "article_sha256": {
+    "EN01": "3b70938f8b87321f0e9ee35a7661d6d5705d7c88ed17f3b6c4de8461b0edba99",
+    "EN02": "b2b90073b08c69259443b17dd888d22786acb5ee1685e498b33077c65c196b54"
+  },
+  "actual_delta_matches_declared_changes": true,
+  "delta_evidence": {
+    "declared_changes_path": "qa/FINAL_CHANGES.json",
+    "all_languages_change_count": 13,
+    "by_article": {
+      "PL01": 3,
+      "PL02": 5,
+      "EN01": 0,
+      "EN02": 5
+    },
+    "method": "Reconstructed final Markdown from immutable baseline/reviewed-r1 using the declared replacements; each before string occurs once, and every reconstructed file equals its actual final file."
+  },
+  "articles": [
+    {
+      "segment_id": "EN01",
+      "decision": "KEEP",
+      "source_days": [
+        19,
+        10,
+        7
+      ],
+      "observation": "Complete final article including metadata and CTA reread; bytes unchanged from R1. Empty Hands, Family Machine and the specific helpful-act question preserve source actions and optional responses. No causal promise from the older V3 wording is reintroduced. Product and flexibility claims remain campaign-backed."
+    },
+    {
+      "segment_id": "EN02",
+      "decision": "KEEP",
+      "source_days": [
+        21,
+        22,
+        14
+      ],
+      "observation": "Complete final article including metadata and CTA reread. One controllable source is reduced for a minute; a common charades prompt is chosen before acting, then shown simultaneously without speech or agreed gestures. The habits conversation now asks about direct borrowing. TWO PEOPLE and TRY IT TOMORROW name real supporting features. No availability, format, developmental benefit or age promise is added."
+    }
+  ],
+  "required_findings": [],
+  "unresolved_findings": [],
+  "resolved_findings": [
+    {
+      "id": "TRUTH-EN02-HABIT",
+      "segment_id": "EN02",
+      "decision": "RESOLVED",
+      "locator": {
+        "path": "candidate/02_advent_activities_EN.md",
+        "line": 35,
+        "section": "LET’S TALK"
+      },
+      "quote": "Which small habit have you borrowed, and from whom?",
+      "evidence": "Restores direct borrowing and names the relationship requested by Day 14. No earliest-origin claim or task remains."
+    }
+  ],
+  "additional_closure": [
+    {
+      "segment_id": "EN02",
+      "locator": "ZRÓBMY COŚ RAZEM / LET’S DO THIS TOGETHER, Reverse Charades paragraph",
+      "decision": "KEEP",
+      "evidence": "Future guessing role, quiet prompt selection and then simultaneous showing make the temporal order clear without printing starter choice, rotation, special finale or full two-person rules."
+    }
+  ],
+  "global_invariants": {
+    "campaign_title_and_label_wording_preserved": true,
+    "packaging_subtitle_not_rewritten": true,
+    "24_days_three_parts_approx_ten_minutes": true,
+    "next_day_and_two_person_features_preserved": true,
+    "three_distinct_source_days_per_article": true,
+    "complete_source_day_reproduced": false,
+    "full_game_rules_reproduced": false,
+    "invented_availability_price_format_or_purchase_link": false,
+    "developmental_benefit_or_age_suitability_promise": false,
+    "forced_gratitude_or_vulnerable_disclosure": false,
+    "catch_up_or_perfect_attendance_obligation": false
+  },
+  "source_edits": false,
+  "publication_or_print_approval": false
+}

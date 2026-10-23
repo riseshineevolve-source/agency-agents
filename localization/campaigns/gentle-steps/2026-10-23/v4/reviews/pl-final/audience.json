@@ -1,0 +1,64 @@
+{
+  "reviewer": "/root/advent_pl_editor",
+  "candidate_path": "candidate/candidate-pl.json",
+  "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+  "previous_reviewed_candidate_sha256": "784cc2be74e46e9806d8808b42f899d63f654047e1a774492faac65506fd064d",
+  "language": "pl-PL",
+  "review_round": "FINAL_BOUNDED_CLOSURE",
+  "status": "PASS",
+  "scope": {
+    "segment_ids": [
+      "PL01",
+      "PL02"
+    ],
+    "actual_read": "Both complete final PL articles read, including YAML metadata, title, every paragraph, all three teasers, participation and no-prep text, campaign closing and CTA. Full R1 manuscript comparison; actual changes matched to FINAL_CHANGES.json.",
+    "change_verification": [
+      {
+        "segment_id": "PL01",
+        "file": "01_grudzien_bez_pospiechu_PL.md",
+        "final_sha256": "28ff3b4f417354f98cc0b6778947d7b393a9e7d3a3479bbe7ffb1a6ee9b1ca00",
+        "r1_sha256": "78241c662375f33307f33b346e4011c5e440000e5791ad60ce01a747dfc56173",
+        "registered_replacements": 3,
+        "exact_replay_matches_final": true,
+        "json_text_equals_manuscript": true
+      },
+      {
+        "segment_id": "PL02",
+        "file": "02_kalendarz_z_zadaniami_PL.md",
+        "final_sha256": "e7e7a0164d545f5ab0851d03f3be862bdd3b209c4174b8a9912ad326d6badefd",
+        "r1_sha256": "329f0aa098ad2e8e0923d0d22a682a27dcdb16b97bebb3ea558d63deb8bb4ab8",
+        "registered_replacements": 5,
+        "exact_replay_matches_final": true,
+        "json_text_equals_manuscript": true
+      }
+    ],
+    "actual_changed_ids": [
+      "PL01",
+      "PL02"
+    ],
+    "registered_PL_replacements": 8,
+    "unregistered_manuscript_drift": false,
+    "limits": "Text editorial judgement only; no owner acceptance, human family read-aloud, layout, print or release approval."
+  },
+  "candidate_edited_by_reviewer": false,
+  "findings": [],
+  "open_required_findings": [],
+  "stage": "audience",
+  "finding_closure": [
+    {
+      "id": "PL-R1-AUD-01",
+      "segment_id": "PL01",
+      "paragraph_locator": "Under “POGADAJMY”, explanatory paragraph ending",
+      "status": "CLOSED",
+      "evidence": "Można powiedzieć po prostu: „Dzięki, to mi naprawdę pomogło”. A można najpierw posłuchać, co zauważyli inni.",
+      "assessment": "The defensive mandatory-thanks disclaimer is gone. The normal thank-you and option to listen carry the low-pressure tone directly."
+    }
+  ],
+  "neighbor_and_dependency_review": [
+    "The revised PL02 habit example concerns a shared expression and tone rather than a person denying a saying. It invites recognition without an accusation.",
+    "The deleted charades closing no longer casts a family member as the one who complicates or defends the game. Shared activity humour remains in the source-backed example.",
+    "Five minutes, two people, joining a preferred part and skipping a day remain clear. No catch-up obligation, forced vulnerability, preschool voice, developmental claim or prediction of better child behaviour appears.",
+    "PL01 remains a practical family-time article; PL02 remains an activity-calendar article about preparation and participation. Neither requires an ideal family evening."
+  ],
+  "overall_assessment": "Adult parent/family audience fit passes. Warm and engaging without guilt or manufactured emotional outcomes. No unresolved audience finding in the reviewed final scope."
+}

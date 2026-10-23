@@ -1,0 +1,170 @@
+{
+  "format": "rse-language-run-v1",
+  "source_path": "/workspace/scratch/e6eabdc4c3a0/gentle-articles-v4/baseline/intake-en.json",
+  "source_sha256": "98b98434d1973757e6e8162f04652a1ced3b0b4877dc208cb277b529555407b8",
+  "source_snapshot": "source.json",
+  "source_language": "en",
+  "target_language": "en",
+  "mode": "upgrade",
+  "scope": "bounded",
+  "project": "gentle-steps",
+  "profile": {
+    "schema_version": 1,
+    "project": "gentle-steps",
+    "languages": {
+      "pl": {
+        "required_review_stages": [
+          "native_language",
+          "meaning",
+          "audience",
+          "logic"
+        ],
+        "required_strings": [],
+        "forbidden_strings": []
+      },
+      "en": {
+        "required_review_stages": [
+          "native_language",
+          "meaning",
+          "audience",
+          "logic"
+        ],
+        "required_strings": [],
+        "forbidden_strings": []
+      }
+    },
+    "locks": [
+      {
+        "id": "title",
+        "pl": "ŚWIĘTA SĄ TEŻ PO DRODZE",
+        "en": "BEFORE CHRISTMAS SLIPS BY"
+      },
+      {
+        "id": "subtitle",
+        "pl": "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.",
+        "en": "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together."
+      },
+      {
+        "id": "pause",
+        "pl": "ZŁAPMY CHWILĘ",
+        "en": "LET’S TAKE A MOMENT"
+      },
+      {
+        "id": "play",
+        "pl": "ZRÓBMY COŚ RAZEM",
+        "en": "LET’S DO THIS TOGETHER"
+      },
+      {
+        "id": "talk",
+        "pl": "POGADAJMY",
+        "en": "LET’S TALK"
+      },
+      {
+        "id": "tomorrow",
+        "pl": "NA JUTRO",
+        "en": "TRY IT TOMORROW"
+      },
+      {
+        "id": "two-people",
+        "pl": "W DWIE OSOBY",
+        "en": "TWO PEOPLE"
+      },
+      {
+        "id": "strapline",
+        "pl": "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.",
+        "en": "A BOOK THAT FITS INTO YOUR DECEMBER."
+      }
+    ],
+    "protect_patterns": [
+      "\\{\\{[^{}]+\\}\\}",
+      "\\{[A-Za-z_][A-Za-z0-9_]*\\}",
+      "%\\d*\\$?[sdf]"
+    ],
+    "voice": {
+      "pl": "Naturalny współczesny polski, dobry rejestr książkowy, bez kalek, coachingu, wymuszonego slangu i długich myślników.",
+      "en": "Natural idiomatic English in the source/project variety. Precise, warm and unforced. No translationese or synthetic sentiment."
+    },
+    "authority": "marketing/GENTLE_STEPS_LOCALIZED_CAMPAIGN_MASTER_2026-10-13.md; current polish_localization mailbox",
+    "protected_product_truth": [
+      "24 days; three main sections per day; 24 NA JUTRO; two-person variants",
+      "R6 body protected; article edit is not book/app rewrite authorization",
+      "Exact subtitle differs from short strapline; EN strapline editorial completion, not historical Oct13 owner lock",
+      "No automatic migration of stale PDF labels/title without declared scope"
+    ]
+  },
+  "adapter": {
+    "kind": "json",
+    "document": {
+      "segments": [
+        {
+          "id": "EN01",
+          "text": "---\nlocale: en\narticle: december-family-time\nstatus: editorial-candidate-not-published\nseo_title: \"How to Make Time for Family During a Busy December\"\nmeta_description: \"Work, school, presents. Where does family time fit? Meet a 24-day family Advent calendar with short games and conversations, no extra shopping or prep.\"\n---\n\n# December Is Full. How Do You Make Time for Each Other?\n\nBy bedtime, you’ve reminded everyone about shoes, homework, dinner and whatever they need for school tomorrow. You’ve talked all day. Somehow, you haven’t had time to hear what made anyone laugh.\n\nDecember doesn’t cancel work, school or laundry. It adds concerts, presents and a dozen things that suddenly have to happen before Christmas.\n\n**You’d like to enjoy a little of December together, too.**\n\n## Ten minutes when nobody’s rushing anyone\n\nAfter dinner, let the next job wait. Sit down together and open a book.\n\nThat’s the idea behind **Before Christmas Slips By**, a 24-day family Advent calendar from Rise.Shine.Evolve. and The Happy Makers, with short pauses, games and conversations. Here are glimpses from **three different days**.\n\n### LET’S TAKE A MOMENT\n\n**Empty Hands.** Put the phone, mug or dish towel somewhere safe. Rest your hands on your knees. For a minute, there’s nothing to carry, clean or put away. When did your hands last have absolutely nothing to do?\n\n### LET’S DO THIS TOGETHER\n\nIn the **Family Machine**, everyone adds their own movement and sound. Soon the living room sounds like a factory nobody knows how to switch off. Now try stopping all at once. Without agreeing on a signal.\n\n### LET’S TALK\n\n**“Who’s done something helpful lately that almost nobody noticed?”**\n\nSomeone helped a younger sibling. Someone remembered the thing everyone else forgot. A simple “I noticed. Thank you” can change the feel of an ordinary evening.\n\n## What if tonight isn’t the night?\n\nSkip it. Tomorrow doesn’t need a double session. The games include two-person versions, and **TRY IT TOMORROW** suggests how to use that short pause again tomorrow. There’s no extra shopping or activity prep.\n\nSometimes the evening you remember is the one with the ridiculous noises and an unexpected thank-you.\n\n**BEFORE CHRISTMAS SLIPS BY. A BOOK THAT FITS INTO YOUR DECEMBER.**\n\n**Discover the calendar and see what you could do together.**\n"
+        },
+        {
+          "id": "EN02",
+          "text": "---\nlocale: en\narticle: advent-calendar-activities\nstatus: editorial-candidate-not-published\nseo_title: \"Activity Advent Calendar for Families | No Prep Needed\"\nmeta_description: \"No envelopes to fill or supplies to buy. Discover a family activity Advent calendar with 24 ready-to-use days of games and conversations, about ten minutes a day.\"\n---\n\n# An Activity Advent Calendar That Doesn’t Give Parents More Work\n\nThe children are asleep. You remember tomorrow’s Advent envelope is supposed to contain an activity. What activity? And do you have everything you need for it?\n\nThere’s another way to do an activity Advent calendar. No cards to print, little gifts to buy or new ideas to come up with every night. **The surprise is what you’ll do together.**\n\n**Before Christmas Slips By**, from Rise.Shine.Evolve. and The Happy Makers, gives families 24 ready-to-use days: a short pause, a game and something to talk about. Around ten minutes when the adults get to play, too.\n\n## What’s inside?\n\nHere are three small glimpses from **three different days**.\n\n### LET’S TAKE A MOMENT\n\n**One Sound Quieter.** The TV is on. Notifications keep chiming. Someone’s trying to tell a story. Don’t ask everyone to be quiet. Turn down one source of noise, such as the TV, for a minute. Listen to the room with a little less going on.\n\n### LET’S DO THIS TOGETHER\n\n**Reverse Charades.** One person guesses while everyone else acts out the same thing at once, without agreeing on the gestures. With “building a snowman,” three people may appear to be playing three different winter sports. That’s part of the fun.\n\n### LET’S TALK\n\n**“What little things have we picked up from each other?”**\n\nA phrase your mum says. A song your child got stuck in everyone’s head. The way Grandad makes a sandwich. You start to notice how much of each other you carry around. Including that ridiculous expression nobody can stop saying.\n\n## Open the book and you’re ready\n\nThe games include two-person versions. **TRY IT TOMORROW** suggests how to use that short pause again tomorrow. No extra shopping or activity prep.\n\nHome late? Someone’s had enough? Skip a day. Nobody has to join, and there’s nothing to catch up on.\n\nMaybe tomorrow’s question will be **“What are we doing together tonight?”**\n\n**A BOOK THAT FITS INTO YOUR DECEMBER.**\n\n**Take a look inside Before Christmas Slips By.**\n"
+        }
+      ]
+    },
+    "segment_specs": [
+      {
+        "id": "EN01",
+        "text": "---\nlocale: en\narticle: december-family-time\nstatus: editorial-candidate-not-published\nseo_title: \"How to Make Time for Family During a Busy December\"\nmeta_description: \"Work, school, presents. Where does family time fit? Meet a 24-day family Advent calendar with short games and conversations, no extra shopping or prep.\"\n---\n\n# December Is Full. How Do You Make Time for Each Other?\n\nBy bedtime, you’ve reminded everyone about shoes, homework, dinner and whatever they need for school tomorrow. You’ve talked all day. Somehow, you haven’t had time to hear what made anyone laugh.\n\nDecember doesn’t cancel work, school or laundry. It adds concerts, presents and a dozen things that suddenly have to happen before Christmas.\n\n**You’d like to enjoy a little of December together, too.**\n\n## Ten minutes when nobody’s rushing anyone\n\nAfter dinner, let the next job wait. Sit down together and open a book.\n\nThat’s the idea behind **Before Christmas Slips By**, a 24-day family Advent calendar from Rise.Shine.Evolve. and The Happy Makers, with short pauses, games and conversations. Here are glimpses from **three different days**.\n\n### LET’S TAKE A MOMENT\n\n**Empty Hands.** Put the phone, mug or dish towel somewhere safe. Rest your hands on your knees. For a minute, there’s nothing to carry, clean or put away. When did your hands last have absolutely nothing to do?\n\n### LET’S DO THIS TOGETHER\n\nIn the **Family Machine**, everyone adds their own movement and sound. Soon the living room sounds like a factory nobody knows how to switch off. Now try stopping all at once. Without agreeing on a signal.\n\n### LET’S TALK\n\n**“Who’s done something helpful lately that almost nobody noticed?”**\n\nSomeone helped a younger sibling. Someone remembered the thing everyone else forgot. A simple “I noticed. Thank you” can change the feel of an ordinary evening.\n\n## What if tonight isn’t the night?\n\nSkip it. Tomorrow doesn’t need a double session. The games include two-person versions, and **TRY IT TOMORROW** suggests how to use that short pause again tomorrow. There’s no extra shopping or activity prep.\n\nSometimes the evening you remember is the one with the ridiculous noises and an unexpected thank-you.\n\n**BEFORE CHRISTMAS SLIPS BY. A BOOK THAT FITS INTO YOUR DECEMBER.**\n\n**Discover the calendar and see what you could do together.**\n"
+      },
+      {
+        "id": "EN02",
+        "text": "---\nlocale: en\narticle: advent-calendar-activities\nstatus: editorial-candidate-not-published\nseo_title: \"Activity Advent Calendar for Families | No Prep Needed\"\nmeta_description: \"No envelopes to fill or supplies to buy. Discover a family activity Advent calendar with 24 ready-to-use days of games and conversations, about ten minutes a day.\"\n---\n\n# An Activity Advent Calendar That Doesn’t Give Parents More Work\n\nThe children are asleep. You remember tomorrow’s Advent envelope is supposed to contain an activity. What activity? And do you have everything you need for it?\n\nThere’s another way to do an activity Advent calendar. No cards to print, little gifts to buy or new ideas to come up with every night. **The surprise is what you’ll do together.**\n\n**Before Christmas Slips By**, from Rise.Shine.Evolve. and The Happy Makers, gives families 24 ready-to-use days: a short pause, a game and something to talk about. Around ten minutes when the adults get to play, too.\n\n## What’s inside?\n\nHere are three small glimpses from **three different days**.\n\n### LET’S TAKE A MOMENT\n\n**One Sound Quieter.** The TV is on. Notifications keep chiming. Someone’s trying to tell a story. Don’t ask everyone to be quiet. Turn down one source of noise, such as the TV, for a minute. Listen to the room with a little less going on.\n\n### LET’S DO THIS TOGETHER\n\n**Reverse Charades.** One person guesses while everyone else acts out the same thing at once, without agreeing on the gestures. With “building a snowman,” three people may appear to be playing three different winter sports. That’s part of the fun.\n\n### LET’S TALK\n\n**“What little things have we picked up from each other?”**\n\nA phrase your mum says. A song your child got stuck in everyone’s head. The way Grandad makes a sandwich. You start to notice how much of each other you carry around. Including that ridiculous expression nobody can stop saying.\n\n## Open the book and you’re ready\n\nThe games include two-person versions. **TRY IT TOMORROW** suggests how to use that short pause again tomorrow. No extra shopping or activity prep.\n\nHome late? Someone’s had enough? Skip a day. Nobody has to join, and there’s nothing to catch up on.\n\nMaybe tomorrow’s question will be **“What are we doing together tonight?”**\n\n**A BOOK THAT FITS INTO YOUR DECEMBER.**\n\n**Take a look inside Before Christmas Slips By.**\n"
+      }
+    ]
+  },
+  "freeze": null,
+  "segments": [
+    {
+      "id": "EN01",
+      "locator": "/segments/0/text",
+      "source_text": "---\nlocale: en\narticle: december-family-time\nstatus: editorial-candidate-not-published\nseo_title: \"How to Make Time for Family During a Busy December\"\nmeta_description: \"Work, school, presents. Where does family time fit? Meet a 24-day family Advent calendar with short games and conversations, no extra shopping or prep.\"\n---\n\n# December Is Full. How Do You Make Time for Each Other?\n\nBy bedtime, you’ve reminded everyone about shoes, homework, dinner and whatever they need for school tomorrow. You’ve talked all day. Somehow, you haven’t had time to hear what made anyone laugh.\n\nDecember doesn’t cancel work, school or laundry. It adds concerts, presents and a dozen things that suddenly have to happen before Christmas.\n\n**You’d like to enjoy a little of December together, too.**\n\n## Ten minutes when nobody’s rushing anyone\n\nAfter dinner, let the next job wait. Sit down together and open a book.\n\nThat’s the idea behind **Before Christmas Slips By**, a 24-day family Advent calendar from Rise.Shine.Evolve. and The Happy Makers, with short pauses, games and conversations. Here are glimpses from **three different days**.\n\n### LET’S TAKE A MOMENT\n\n**Empty Hands.** Put the phone, mug or dish towel somewhere safe. Rest your hands on your knees. For a minute, there’s nothing to carry, clean or put away. When did your hands last have absolutely nothing to do?\n\n### LET’S DO THIS TOGETHER\n\nIn the **Family Machine**, everyone adds their own movement and sound. Soon the living room sounds like a factory nobody knows how to switch off. Now try stopping all at once. Without agreeing on a signal.\n\n### LET’S TALK\n\n**“Who’s done something helpful lately that almost nobody noticed?”**\n\nSomeone helped a younger sibling. Someone remembered the thing everyone else forgot. A simple “I noticed. Thank you” can change the feel of an ordinary evening.\n\n## What if tonight isn’t the night?\n\nSkip it. Tomorrow doesn’t need a double session. The games include two-person versions, and **TRY IT TOMORROW** suggests how to use that short pause again tomorrow. There’s no extra shopping or activity prep.\n\nSometimes the evening you remember is the one with the ridiculous noises and an unexpected thank-you.\n\n**BEFORE CHRISTMAS SLIPS BY. A BOOK THAT FITS INTO YOUR DECEMBER.**\n\n**Discover the calendar and see what you could do together.**\n",
+      "source_sha256": "e8f0b6bd3f00f99f1b1297d8599cfcc3e5712c6ba70f21856a8daecfe9658b59",
+      "protected_tokens": [],
+      "numbers": [
+        "24",
+        "24"
+      ],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "EN02",
+      "locator": "/segments/1/text",
+      "source_text": "---\nlocale: en\narticle: advent-calendar-activities\nstatus: editorial-candidate-not-published\nseo_title: \"Activity Advent Calendar for Families | No Prep Needed\"\nmeta_description: \"No envelopes to fill or supplies to buy. Discover a family activity Advent calendar with 24 ready-to-use days of games and conversations, about ten minutes a day.\"\n---\n\n# An Activity Advent Calendar That Doesn’t Give Parents More Work\n\nThe children are asleep. You remember tomorrow’s Advent envelope is supposed to contain an activity. What activity? And do you have everything you need for it?\n\nThere’s another way to do an activity Advent calendar. No cards to print, little gifts to buy or new ideas to come up with every night. **The surprise is what you’ll do together.**\n\n**Before Christmas Slips By**, from Rise.Shine.Evolve. and The Happy Makers, gives families 24 ready-to-use days: a short pause, a game and something to talk about. Around ten minutes when the adults get to play, too.\n\n## What’s inside?\n\nHere are three small glimpses from **three different days**.\n\n### LET’S TAKE A MOMENT\n\n**One Sound Quieter.** The TV is on. Notifications keep chiming. Someone’s trying to tell a story. Don’t ask everyone to be quiet. Turn down one source of noise, such as the TV, for a minute. Listen to the room with a little less going on.\n\n### LET’S DO THIS TOGETHER\n\n**Reverse Charades.** One person guesses while everyone else acts out the same thing at once, without agreeing on the gestures. With “building a snowman,” three people may appear to be playing three different winter sports. That’s part of the fun.\n\n### LET’S TALK\n\n**“What little things have we picked up from each other?”**\n\nA phrase your mum says. A song your child got stuck in everyone’s head. The way Grandad makes a sandwich. You start to notice how much of each other you carry around. Including that ridiculous expression nobody can stop saying.\n\n## Open the book and you’re ready\n\nThe games include two-person versions. **TRY IT TOMORROW** suggests how to use that short pause again tomorrow. No extra shopping or activity prep.\n\nHome late? Someone’s had enough? Skip a day. Nobody has to join, and there’s nothing to catch up on.\n\nMaybe tomorrow’s question will be **“What are we doing together tonight?”**\n\n**A BOOK THAT FITS INTO YOUR DECEMBER.**\n\n**Take a look inside Before Christmas Slips By.**\n",
+      "source_sha256": "fdf9864a2b17ff883003d3fbdf84a124f37f12d59e6338f5f970995f219773f1",
+      "protected_tokens": [],
+      "numbers": [
+        "24",
+        "24"
+      ],
+      "protected_numbers": [],
+      "protected": false
+    }
+  ],
+  "required_strings": [
+    "BEFORE CHRISTMAS SLIPS BY",
+    "LET’S TAKE A MOMENT",
+    "LET’S DO THIS TOGETHER",
+    "LET’S TALK",
+    "TRY IT TOMORROW",
+    "A BOOK THAT FITS INTO YOUR DECEMBER."
+  ],
+  "required_string_counts": {
+    "BEFORE CHRISTMAS SLIPS BY": 1,
+    "LET’S TAKE A MOMENT": 2,
+    "LET’S DO THIS TOGETHER": 2,
+    "LET’S TALK": 2,
+    "TRY IT TOMORROW": 2,
+    "A BOOK THAT FITS INTO YOUR DECEMBER.": 2
+  },
+  "preserve_numbers": false,
+  "default_status": "PREMIUM_WORKING",
+  "print_ready": false,
+  "release_authorized": false,
+  "manifest_sha256": "3f720ddf7d224bbc3b2c58d3f2cb76852c34e84f3af2137ef4ef4c16f54a6136"
+}

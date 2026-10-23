@@ -1,0 +1,85 @@
+{
+  "sole_writer": "root",
+  "changes": [
+    {
+      "file": "01_grudzien_bez_pospiechu_PL.md",
+      "before": "kiedy akurat macie na to przestrzeń",
+      "after": "kiedy macie ochotę i kilka minut",
+      "reason": "PLnative: replace coaching abstraction with ordinary decision and time"
+    },
+    {
+      "file": "01_grudzien_bez_pospiechu_PL.md",
+      "before": "Finał to próba zatrzymania się w tym samym momencie",
+      "after": "Jednym z wyzwań jest zatrzymanie się w tym samym momencie",
+      "reason": "Sourcefinale includes acceleration/slowdown; stopping is only one challenge"
+    },
+    {
+      "file": "01_grudzien_bez_pospiechu_PL.md",
+      "before": " To pytanie do rozmowy, nie obowiązkowa runda podziękowań.",
+      "after": "",
+      "reason": "Audience: optional wording already present; remove defensive editorial explanation"
+    },
+    {
+      "file": "02_kalendarz_z_zadaniami_PL.md",
+      "before": "Zdarzą się ruch, improwizacja i zagadkowe gesty kogoś, kto był absolutnie pewien, że świetnie pokazuje bałwana.",
+      "after": "Zdarzą się ruch, improwizacja i gesty, przy których nawet ich autor zaczyna się zastanawiać, co właściwie pokazuje.",
+      "reason": "Keep strongest actualcharades example; avoid three snowman setups"
+    },
+    {
+      "file": "02_kalendarz_z_zadaniami_PL.md",
+      "before": "zamiast tą, która wszystko rozdaje",
+      "after": "zamiast wszystko rozdawać",
+      "reason": "Nativecase error; recast cleanly"
+    },
+    {
+      "file": "02_kalendarz_z_zadaniami_PL.md",
+      "before": "Jedna osoba zgaduje, pozostali wybierają dla niej po cichu wspólne hasło. Potem pokazują je jednocześnie",
+      "after": "Jedna osoba będzie zgadywać. Pozostali wybierają po cichu wspólne hasło, a potem pokazują je jednocześnie",
+      "reason": "Clarify prompt selection occurs before guessing, not simultaneously"
+    },
+    {
+      "file": "02_kalendarz_z_zadaniami_PL.md",
+      "before": "Kto pierwszy zaczął to mówić albo robić? Czasem śledztwo prowadzi do osoby, która teraz najgłośniej twierdzi, że wcale tak nie mówi.",
+      "after": "Od kogo przejęliście te małe zwyczaje? Może ktoś dopiero teraz usłyszy, że wszyscy jego „no dobra” mówią dokładnie tym samym tonem.",
+      "reason": "Return to direct borrowed habit, not earliest origin hunt"
+    },
+    {
+      "file": "02_kalendarz_z_zadaniami_PL.md",
+      "before": "Warto zajrzeć do środka i pomyśleć o własnej rodzinie przy takiej zabawie. Kto najbardziej komplikowałby kalambury? A kto po minucie nadal tłumaczyłby, że przecież pokazywał zupełnie oczywistego bałwana?\n\n",
+      "after": "",
+      "reason": "Remove repetitive charades cap and imaginedparticipanttarget; keep strong source-backed shared-scene joke"
+    },
+    {
+      "file": "02_advent_activities_EN.md",
+      "before": "An Activity Advent Calendar the Grown Ups Can Enjoy Too",
+      "after": "An Activity Advent Calendar Where Parents Get to Play Too",
+      "reason": "Native noun hyphen defect; choose clear parent-facing title"
+    },
+    {
+      "file": "02_advent_activities_EN.md",
+      "before": " Nobody has to become a quieter sort of person.",
+      "after": "",
+      "reason": "Remove awkward personality-change reassurance; action already specific"
+    },
+    {
+      "file": "02_advent_activities_EN.md",
+      "before": "One person guesses while the others quietly choose a shared prompt. Everyone else then acts it out at once",
+      "after": "One person will be guessing. The others quietly choose a shared prompt, then act it out at once",
+      "reason": "Clarify prompt choice before guessing; same source mechanism"
+    },
+    {
+      "file": "02_advent_activities_EN.md",
+      "before": "You can trace a small family habit back to whoever started it, including the person who insists they've never said that in their life.",
+      "after": "Which small habit have you borrowed, and from whom? You might even hear a favourite expression delivered in a very familiar tone.",
+      "reason": "Source asks direct borrowing, not tracing earliest origin"
+    },
+    {
+      "file": "02_advent_activities_EN.md",
+      "before": "Look through the activities with your own family in mind. Who would make charades unnecessarily complicated? Who would still be defending their extremely obvious snowman after the game had finished?",
+      "after": "Have a look through the activities and choose something you'd like to join in with. The grown-ups are allowed to be every bit as ridiculous as everyone else.",
+      "reason": "Invite adults into shared humour rather than cast family member as target"
+    }
+  ],
+  "r1_immutable": "baseline/reviewed-r1",
+  "reasons": "Actual independent reviewer findings plus bounded chronology clarification"
+}

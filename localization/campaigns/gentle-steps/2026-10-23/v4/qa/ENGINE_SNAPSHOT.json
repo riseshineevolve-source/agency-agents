@@ -1,0 +1,8 @@
+{
+  "pr": 40,
+  "commit": "65191b3518399691dcdcbeaec905539dcfbaab9f",
+  "cli_sha256": "0278fb90b94593a19eba0ecbcfae01b04bc28b0588372d54a955c24bfc03d4dc",
+  "profile_sha256": "ada2d921a3eac44e5e95a314c63de5df09153876959d1a156047ab59bb62218a",
+  "mode": "Two independent same-language upgrades PL->PL,EN->EN; no translation step",
+  "engine_modified": false
+}

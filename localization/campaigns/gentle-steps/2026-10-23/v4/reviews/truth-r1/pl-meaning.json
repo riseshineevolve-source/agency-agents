@@ -1,0 +1,96 @@
+{
+  "reviewer": "/root/advent_truth_editor",
+  "stage": "meaning",
+  "actual_stage": "meaning",
+  "review_round": "R1",
+  "candidate_sha256": "784cc2be74e46e9806d8808b42f899d63f654047e1a774492faac65506fd064d",
+  "candidate_path": "candidate/candidate-pl.json",
+  "status": "FIX",
+  "actual_review": true,
+  "read_complete": true,
+  "review_scope": "Both complete PL articles, YAML metadata and closing CTA; actual meaning review against immutable current Git V3 baseline, campaign locks, prior QA and six corresponding PL R6 source sections.",
+  "evidence": "Read both complete candidate articles and compared all six source-backed teaser functions, numbers, modality, consent, product claims and labels. Three bounded findings across PL/EN are listed with article IDs and exact line locators.",
+  "source_master_sha256": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3",
+  "source_master_hash_verified": true,
+  "source_limitation": "EN teaser provenance is inherited from the V3 handoff and checked for meaning/mechanics against corresponding PL R6. No latest EN book master download or fresh full-book authentication is claimed.",
+  "article_text_matches_json_segments": true,
+  "article_sha256": {
+    "PL01": "78241c662375f33307f33b346e4011c5e440000e5791ad60ce01a747dfc56173",
+    "PL02": "329f0aa098ad2e8e0923d0d22a682a27dcdb16b97bebb3ea558d63deb8bb4ab8"
+  },
+  "articles": [
+    {
+      "segment_id": "PL01",
+      "decision": "FIX",
+      "source_days": [
+        19,
+        10,
+        7
+      ],
+      "observation": "Complete article and metadata read. Empty Hands preserves safe putting-down, hands on knees and one minute. Family Machine preserves an individual repeating movement/sound and no agreed stop signal. Noticing a specific helpful act and possible ordinary thanks remains optional. The sole mechanics defect is identifying one part as the entire finale. 24 days, three parts, approximate ten minutes, next-day prompt, two-person variants and no catch-up are preserved."
+    },
+    {
+      "segment_id": "PL02",
+      "decision": "FIX",
+      "source_days": [
+        21,
+        22,
+        14
+      ],
+      "observation": "Complete article and metadata read. The pause reduces one controllable sound source for a minute. Reverse Charades has one guesser, a quiet shared prompt and simultaneous showing without speech or agreed gestures, while starter, rotation and special final round remain unexposed. The shared-habits heading/examples are retained, but the added first-origin question needs narrowing. Product and voluntary participation truth is preserved."
+    }
+  ],
+  "required_findings": [
+    {
+      "id": "TRUTH-PL01-FINALE",
+      "segment_id": "PL01",
+      "decision": "FIX",
+      "severity": "required",
+      "type": "teaser_scope_overstates_finale",
+      "locator": {
+        "path": "candidate/01_grudzien_bez_pospiechu_PL.md",
+        "line": 31,
+        "section": "ZRÓBMY COŚ RAZEM"
+      },
+      "quote": "Finał to próba zatrzymania się w tym samym momencie, bez umówionego sygnału.",
+      "source_locator": "baseline/R6_MASTER.md:596-602; Day 10 finale lists speeding up, slowing down, then stopping together without an agreed signal.",
+      "finding": "Stopping together is a genuine part of the finale. Defining the whole finale as this one action narrows the source mechanics. The teaser may omit other steps, but should identify this as one challenge rather than the complete finale.",
+      "required_change": "Use partial-challenge wording, for example Jedno z wyzwań to zatrzymać się w tym samym momencie, bez umówionego sygnału. Do not expand to the full rules."
+    },
+    {
+      "id": "TRUTH-PL02-HABIT",
+      "segment_id": "PL02",
+      "decision": "FIX",
+      "severity": "required",
+      "type": "borrowed_habit_becomes_first_origin_inquiry",
+      "locator": {
+        "path": "candidate/02_kalendarz_z_zadaniami_PL.md",
+        "line": 37,
+        "section": "POGADAJMY"
+      },
+      "quote": "Kto pierwszy zaczął to mówić albo robić? Czasem śledztwo prowadzi do osoby, która teraz najgłośniej twierdzi, że wcale tak nie mówi.",
+      "source_locator": "baseline/R6_MASTER.md:810-817; Day 14 asks for a thing learned from a family member and naming who it came from.",
+      "finding": "The exact heading and examples remain correct, but the added first-origin question changes the conversational job from noticing what we took from one another to determining who originally started a habit. That origin may be unknown and is not requested by the source.",
+      "required_change": "Ask whom the reader picked it up from, or keep the examples and recognition joke without first-origin investigation. Preserve the light tone; no full set of source instructions is needed."
+    }
+  ],
+  "nonblocking_notes": [
+    {
+      "decision": "KEEP",
+      "scope": "campaign_fidelity",
+      "note": "Existing titles and exact section/supporting labels retain approved wording. Descriptive two-person variants are acceptable; PL01 was not required to gain W DWIE OSOBY, and PL02 retains that label. No packaging subtitle is rewritten."
+    },
+    {
+      "decision": "KEEP",
+      "scope": "teaser_boundary",
+      "note": "Basic actions are allowed. Each article previews three distinct source days and neither prints a complete source day nor complete full-game rules."
+    },
+    {
+      "decision": "KEEP",
+      "scope": "claims_and_consent",
+      "note": "No current availability, price, format, purchase URL, developmental or age-suitability promise. No compelled gratitude, vulnerable disclosure or perfect attendance; participants may skip, listen or choose fewer parts."
+    }
+  ],
+  "source_edits": false,
+  "publication_or_print_approval": false
+}

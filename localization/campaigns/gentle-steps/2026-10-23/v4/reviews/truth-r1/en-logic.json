@@ -1,0 +1,70 @@
+{
+  "reviewer": "/root/advent_truth_editor",
+  "stage": "logic",
+  "actual_stage": "logic",
+  "review_round": "R1",
+  "candidate_sha256": "b1fa0509f3518aecd626382b19990dbaef110a2f96ac10eea8f77964d52d50b4",
+  "candidate_path": "candidate/candidate-en.json",
+  "status": "FIX",
+  "actual_review": true,
+  "read_complete": true,
+  "review_scope": "Both complete EN articles, YAML metadata and closing CTA; actual logic review against immutable current Git V3 baseline, campaign locks, prior QA and six corresponding PL R6 source sections.",
+  "evidence": "Read both complete candidate articles for event order, references, day separation, conversational objectives, teaser completeness and functional repetition. Article-specific observations and required targeted fixes are recorded.",
+  "source_master_sha256": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3",
+  "source_master_hash_verified": true,
+  "source_limitation": "EN teaser provenance is inherited from the V3 handoff and checked for meaning/mechanics against corresponding PL R6. No latest EN book master download or fresh full-book authentication is claimed.",
+  "article_text_matches_json_segments": true,
+  "article_sha256": {
+    "EN01": "3b70938f8b87321f0e9ee35a7661d6d5705d7c88ed17f3b6c4de8461b0edba99",
+    "EN02": "74c115bd61340e90f47d4423875acb83eb0f7033385a885717eddd2729597390"
+  },
+  "articles": [
+    {
+      "segment_id": "EN01",
+      "decision": "KEEP",
+      "observation": "The unfinished-evening setting, invitation, product explanation, teasers and optional participation progress cleanly. Christmas-jumper/laundry details are hypothetical familiar context rather than testimonial evidence. Laundry and factory callbacks are coherent. There is no complete day/full game or dependency on unavailable material."
+    },
+    {
+      "segment_id": "EN02",
+      "decision": "FIX",
+      "observation": "The parents-preparing-envelope opening leads clearly into adults joining the fun; this remains distinct from EN01. Sound, charades and habits come from three separate days. Snowman callbacks are purposeful rather than a duplicate activity. Tracing the original starter adds an unnecessary origin-finding objective; direct borrowing restores continuity with the exact question."
+    }
+  ],
+  "required_findings": [
+    {
+      "id": "TRUTH-EN02-HABIT",
+      "segment_id": "EN02",
+      "decision": "FIX",
+      "severity": "required",
+      "type": "borrowed_habit_becomes_first_origin_inquiry",
+      "locator": {
+        "path": "candidate/02_advent_activities_EN.md",
+        "line": 35,
+        "section": "LET’S TALK"
+      },
+      "quote": "You can trace a small family habit back to whoever started it, including the person who insists they've never said that in their life.",
+      "source_locator": "baseline/R6_MASTER.md:810-817; Day 14 asks for a thing learned from a family member and naming who it came from. EN source provenance remains inherited from V3.",
+      "finding": "The heading and ordinary family examples are faithful. Tracing a habit to whoever started it adds an origin-finding task rather than noticing the family member from whom a participant picked it up.",
+      "required_change": "Keep direct borrowing/recognition: identify whom you picked the phrase or habit up from, without claiming its earliest origin can be established. The recognition joke can remain."
+    }
+  ],
+  "nonblocking_notes": [
+    {
+      "decision": "KEEP",
+      "scope": "campaign_fidelity",
+      "note": "Existing titles and exact section/supporting labels retain approved wording. Descriptive two-person variants are acceptable; PL01 was not required to gain W DWIE OSOBY, and PL02 retains that label. No packaging subtitle is rewritten."
+    },
+    {
+      "decision": "KEEP",
+      "scope": "teaser_boundary",
+      "note": "Basic actions are allowed. Each article previews three distinct source days and neither prints a complete source day nor complete full-game rules."
+    },
+    {
+      "decision": "KEEP",
+      "scope": "claims_and_consent",
+      "note": "No current availability, price, format, purchase URL, developmental or age-suitability promise. No compelled gratitude, vulnerable disclosure or perfect attendance; participants may skip, listen or choose fewer parts."
+    }
+  ],
+  "source_edits": false,
+  "publication_or_print_approval": false
+}

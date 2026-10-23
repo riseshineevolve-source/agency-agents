@@ -1,0 +1,12 @@
+{
+  "version": "V4",
+  "date": "2026-10-23",
+  "status": "OWNER_READ_CANDIDATE",
+  "path": "localization/campaigns/gentle-steps/2026-10-23/v4/",
+  "candidates": {
+    "pl": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+    "en": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9"
+  },
+  "source_baseline": "V3editorial at00beb0ffe274eb68ef424ece01b175194884c898, comparedwitholderLibraryV2",
+  "no_website_app_or_book_changes": true
+}

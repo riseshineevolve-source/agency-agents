@@ -1,0 +1,20 @@
+[
+  {
+    "language": "pl",
+    "docx": "/workspace/scratch/e6eabdc4c3a0/gentle-articles-v4/deliverables/SWIETA_SA_TEZ_PO_DRODZE_ARTYKULY_PL_V4.docx",
+    "sha256": "4da0fd81efb9a9b182dab65a2a3e69a280b476b90478b20ae630d789042df31a",
+    "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+    "exact_paragraph_roundtrip": "PASS",
+    "paragraphs": 41,
+    "render_visual": "PASS all2pages actually inspected"
+  },
+  {
+    "language": "en",
+    "docx": "/workspace/scratch/e6eabdc4c3a0/gentle-articles-v4/deliverables/BEFORE_CHRISTMAS_SLIPS_BY_ARTICLES_EN_V4.docx",
+    "sha256": "7cade75a9a9582303615d881d9c14d798ed984259acceaf95e5b471271bf5387",
+    "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+    "exact_paragraph_roundtrip": "PASS",
+    "paragraphs": 41,
+    "render_visual": "PASS all2pages actually inspected"
+  }
+]
