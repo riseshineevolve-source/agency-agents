@@ -21,3 +21,7 @@ Next: owner reviews copy/visual family; consume exact producer release files and
 ## 2026-10-23 keyword research continuation
 
 Outcome: owner-requested deep audit replaces seven descriptive keyword candidates with five researched relevance candidates and two unused slots. Scope: marketing research, own mailbox and performance learning only. Input: existing source hash/tagline lock, fresh main dd8f8792 product mailbox compared unchanged. Three specialist agents independently reviewed KDP policy, indexed marketplace wording and product relevance. Official policy/publisher pages opened; live Amazon search/autocomplete unavailable. Volume/conversion/competition UNKNOWN. No KDP entry, public activation or spend. See KEYWORD_RESEARCH.md and KEYWORDS_RESEARCHED.json; older private packets retain historical seven and are superseded for this recommendation. Final actual title/subtitle/category comparison remains necessary at entry. No global copy review or artwork rebuild; this is a bounded metadata research change.
+
+### Owner-requested child coverage, 2026-10-23
+
+Owner subsequently requested two additional child-oriented slots. Current researched JSON now has seven: add animal coloring for older kids and optical illusion coloring for kids. These supersede the earlier two-empty-slots recommendation. Based on indexed Amazon offers 1641260122,1544814003 and B0B9PQ7HQF. No preschool/easy/numeric-age claim; no volume/conversion/autocomplete claim. Source and public/paid gates unchanged.

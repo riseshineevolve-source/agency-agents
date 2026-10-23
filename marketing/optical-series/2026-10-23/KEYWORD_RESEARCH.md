@@ -1,3 +1,5 @@
+> AKTUALIZACJA WŁAŚCICIELKI: po tym audycie dodano dwa pola pod dzieci. Bieżąca siódemka jest w KEYWORDS_RESEARCHED.json; poniższy audyt pięciu pól pozostaje historią decyzji.
+
 # Wild Illusions: audyt słów kluczowych Amazon
 
 Data: 23 października 2026. Rynek roboczy: Amazon.com, książka drukowana po angielsku.
@@ -83,3 +85,10 @@ Przy wprowadzaniu danych porównać pięć pól z finalnymi metadanymi oraz wyni
 Nie obiecujemy, że te pięć fraz jest idealne albo na pewno sprzeda książkę. Rekomendujemy je jako konkretniejszy punkt startu, oparty na treści produktu i zaobserwowanym języku ofert.
 
 Ten audyt zastępuje poprzednią siódemkę jako bieżącą rekomendację. Starsze paczki ZIP/PDF pozostają wersjami historycznymi; nie zostały po cichu przepisane. Nowy lekki opis Amazon z ostatniego czatu pozostaje osobną wersją tekstu; zakres tego zadania to słowa kluczowe.
+
+## Uzupełnienie na prośbę właścicielki: dzieci
+
+6. animal coloring for older kids
+7. optical illusion coloring for kids
+
+Frazy uzupełniają pięć dotychczasowych pól. Pierwsza wskazuje starsze dzieci, druga połączenie optycznych ilustracji z kolorowaniem dla dzieci. Nie przypisujemy liczbowego wieku ani łatwości. Kierunek zgodny ze szczegółowymi ilustracjami; to hipotezy trafności, nie potwierdzona sprzedaż. Indeksowane przykłady języka: https://www.amazon.com/Animal-Coloring-Book-Older-Kids/dp/1641260122 oraz https://www.amazon.com/Optical-Illusions-Coloring-Book-Illustrations/dp/B0B9PQ7HQF . Sprawdzone 2026-10-23. Starszy plik TXT w prywatnym przekazaniu zachowuje pięciopolowy audyt historyczny.
