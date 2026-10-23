@@ -8,12 +8,12 @@ worlds:
   - "The Eclipse Museum of Lost Nights"
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
-updated: 2026-10-22
-status: SKELETON_SOURCE_MODERN_FINISH_V30_DELIVERED
+updated: 2026-10-23
+status: SKELETON_WINDOWS_OPTICAL_DRAW_V31_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V30 latest owner source modernized locally: contemporary lobby and balcony finishes; all receding floors/windows/trees and optical depth retained."
+milestone: "V31 modern rectangular windows delivered; lobby table removed and replaced by warped floor bands drawing into nested portals."
 blocker: null
-owner_gate: "Owner visual response to V30; other illustration finals closed."
+owner_gate: "Owner visual response to V31; other illustration finals remain closed."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve V30 latest-source modern finish and other finals; only explicit corrections/proven blockers."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-22_SKELETON_SOURCE_MODERN_FINISH_V30.md"
+next_safe_task: "Preserve V31 and other finals; only explicit owner corrections/proven blockers."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_SKELETON_MODERN_WINDOWS_OPTICAL_DRAW_V31.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Actual V30 reviewed: modern seats/table/lights/piers and panel balconies; source multi-floor depth/window/tree rhythm and skeleton/reflection/web sole retained visually."
+closing_pass_qa: "Actual V31 reviewed: rectangular white-pane windows; table absent; optical floor bands meet portals. Pose/reflection/sole/balconies/trees retained visually."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -198,3 +198,7 @@ skeleton_two_reference_merge_v29:
 skeleton_source_modern_finish_v30:
   - "Latest owner source image20261022-134620 overrides V29 simplified floor count. Modernize finishes only; preserve many receding floors."
   - "Final exec-65751afd-27c2-41e9-9a1e-67b48dba857c.png SHA256 3b48aba930fc2f1e213a5ab8f724cd7fe11ac767802f5ac149c38914d0aeec66."
+
+skeleton_windows_optical_draw_v31:
+  - "Modern windows; table-free lobby with broad optical floor bands and portal depth."
+  - "Final exec-9791de11-4a0c-4097-88f1-0e000ea2ea61.png SHA256 81bd25e913129160fb95475333e8b36223b2d66f383a206347d9629f045f982b."
