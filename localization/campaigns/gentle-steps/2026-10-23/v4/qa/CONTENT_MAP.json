@@ -1,0 +1,59 @@
+{
+  "coverage": "Four complete articles inclSEOmeta, title,opening,sixteasers/labelseachlanguage,support,closingCTA",
+  "units": [
+    {
+      "id": "PL01",
+      "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+      "article_sha256": "28ff3b4f417354f98cc0b6778947d7b393a9e7d3a3479bbe7ffb1a6ee9b1ca00",
+      "words_excluding_metadata": 402,
+      "source_days": [
+        19,
+        10,
+        7
+      ],
+      "format": "Independent same-language upgrade; not translation",
+      "function": "Everyday evening and practical entry"
+    },
+    {
+      "id": "PL02",
+      "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+      "article_sha256": "e7e7a0164d545f5ab0851d03f3be862bdd3b209c4174b8a9912ad326d6badefd",
+      "words_excluding_metadata": 364,
+      "source_days": [
+        21,
+        22,
+        14
+      ],
+      "format": "Independent same-language upgrade; not translation",
+      "function": "Ready-made activity appeal and adult participation"
+    },
+    {
+      "id": "EN01",
+      "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+      "article_sha256": "3b70938f8b87321f0e9ee35a7661d6d5705d7c88ed17f3b6c4de8461b0edba99",
+      "words_excluding_metadata": 475,
+      "source_days": [
+        19,
+        10,
+        7
+      ],
+      "format": "Independent same-language upgrade; not translation",
+      "function": "Everyday evening and practical entry"
+    },
+    {
+      "id": "EN02",
+      "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+      "article_sha256": "b2b90073b08c69259443b17dd888d22786acb5ee1685e498b33077c65c196b54",
+      "words_excluding_metadata": 435,
+      "source_days": [
+        21,
+        22,
+        14
+      ],
+      "format": "Independent same-language upgrade; not translation",
+      "function": "Ready-made activity appeal and adult participation"
+    }
+  ],
+  "excluded": "R6book24daybody/labels master, app, website, formats/availability/prices, unverified links",
+  "stable_ids": "PL01,PL02,EN01,EN02 complete logical articles; review paragraph locators provide finer diagnosis"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "OWNER_READ_CANDIDATE",
+  "candidates": {
+    "pl": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+    "en": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9"
+  },
+  "source_revisions": "qa/SOURCE_INVENTORY.json",
+  "actual_stage_passes": 8,
+  "actual_reviewers": 3,
+  "candidate_writer": "root",
+  "sourcebook_changed": false,
+  "website_changed": false,
+  "published": false,
+  "word_reader_prose_exact": "PASS",
+  "all_rendered_pages_inspected": "qa/VISUAL_REVIEW.json",
+  "cli_checks": "PASS both independent same-language runs"
+}

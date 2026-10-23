@@ -1,0 +1,34 @@
+{
+  "status": "LANGUAGE_REVIEW_REQUIRED",
+  "diagnostic": "COMPLETE",
+  "unresolved_issues": [
+    {
+      "id": "UPGRADE-PL01",
+      "classification": "FIX",
+      "segment_id": null
+    },
+    {
+      "id": "UPGRADE-PL02",
+      "classification": "FIX",
+      "segment_id": null
+    }
+  ],
+  "unresolved_source_ambiguities": [],
+  "issue_ledger_sha256": "3dda64c57111042ddc9f617c28e385c89a4a98b173c6acf8adc9e7f75d49ebe9",
+  "deterministic_qa": "PASS",
+  "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+  "changed_segments": [
+    "PL01",
+    "PL02"
+  ],
+  "specialist_reviews": [
+    "native_language",
+    "meaning",
+    "audience",
+    "logic"
+  ],
+  "surface_fit": "NOT_RUN",
+  "owner_approval": "NOT_GRANTED",
+  "print_ready": false,
+  "release_authorized": false
+}

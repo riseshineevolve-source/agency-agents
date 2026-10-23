@@ -1,0 +1,62 @@
+{
+  "reviewer": "/root/advent_en_editor",
+  "role": "audience",
+  "stage": "r1-complete-candidate-review",
+  "status": "FIX",
+  "candidate_sha256": "b1fa0509f3518aecd626382b19990dbaef110a2f96ac10eea8f77964d52d50b4",
+  "scope": "Complete EN01 and EN02 as parent-facing editorial articles: practical family life, consent, emotional demands, tone of humour, guilt, plausibility of scenes, article purpose and claim framing. No candidate edits made.",
+  "complete_read": true,
+  "findings": [
+    {
+      "id": "EN-R1-A01",
+      "segment_id": "EN01",
+      "paragraph": "Start while the evening is still unfinished paragraph; Leave room for the evening you actually have section",
+      "status": "KEEP",
+      "evidence": "The invitation can begin with whoever wants to join. Five minutes, two people and an evening alone are all permitted, with no double session afterwards. This feels like usable flexibility rather than another standard parents must meet.",
+      "targeted_action": "Keep optional participation, the available-evening approach and the no-catch-up wording."
+    },
+    {
+      "id": "EN-R1-A02",
+      "segment_id": "EN01",
+      "paragraph": "LET’S TALK examples and thank-you paragraph",
+      "status": "KEEP",
+      "evidence": "A lost glove and a remembered task are recognisable helpful acts. 'You might want to say' makes the thank-you an ordinary option, and the paragraph avoids promising a repaired mood or requiring a gratitude speech.",
+      "targeted_action": "Keep this voluntary, specific treatment. Source-mechanics fidelity is a separate review responsibility."
+    },
+    {
+      "id": "EN-R1-A03",
+      "segment_id": "EN02",
+      "paragraph": "opening four body paragraphs; Ready for a weeknight support paragraphs",
+      "status": "KEEP",
+      "evidence": "The envelope problem is specific and recognises a familiar workload. The article permits enjoyment of handmade calendars, then explains the ready-page alternative. The adult taking a turn and the right to sit out are useful, distinct reasons for this audience to care. There is no promise that reluctant children will join or that a game will improve behaviour.",
+      "targeted_action": "Keep the adult-participant purpose, flexible use and absence of developmental promises. No further broad reassurance is needed."
+    },
+    {
+      "id": "EN-R1-A04",
+      "segment_id": "EN02",
+      "paragraph": "final body paragraph beginning 'Look through the activities with your own family in mind'",
+      "status": "FIX",
+      "priority": "medium",
+      "evidence": "'Who would make charades unnecessarily complicated?' asks the reader to cast a family member as the difficult participant. The follow-up about defending an 'extremely obvious snowman' keeps the joke focused on that person's misplaced certainty. The source's earlier winter-sports image is inclusive: everyone may look different, and that is the fun. The new closing questions are more pointed and can turn the invitation into teasing someone in advance.",
+      "targeted_action": "Keep the inviting imagined-game close, but aim the humour at the collective scene, ambiguous movements or the prompt itself rather than asking which person will overcomplicate it. A short bounded replacement or omission of these two questions is enough."
+    },
+    {
+      "id": "EN-R1-A05",
+      "segment_id": "EN02",
+      "paragraph": "One Sound Quieter paragraph; last sentence",
+      "status": "FIX",
+      "priority": "low",
+      "evidence": "'Nobody has to become a quieter sort of person' introduces a judgement about a family member's temperament when the task is only to turn down a controllable source. It gives an otherwise concrete, nonjudgemental moment an unnecessary personal frame.",
+      "targeted_action": "Resolve together with EN-R1-N04. Stay with changing the room's sound briefly."
+    },
+    {
+      "id": "EN-R1-A06",
+      "segment_id": "EN01+EN02",
+      "paragraph": "complete manuscripts and CTAs",
+      "status": "KEEP",
+      "evidence": "The articles avoid urgency, scarcity, purchase pressure, forced disclosure and promises of better family relationships. Recognisable scenes carry the copy more than slogans. Both give a clear next reading action without inventing an external route or current format availability.",
+      "targeted_action": "Keep. No audience blocker found; resolve the two bounded EN02 tone issues before final acceptance."
+    }
+  ],
+  "approval_limits": "This is an independent model audience review, not a claim of human family testing, truth/mechanics clearance, owner acceptance or publication approval."
+}

@@ -1,0 +1,34 @@
+{
+  "format": "rse-language-brief-v1",
+  "run_sha256": "3f720ddf7d224bbc3b2c58d3f2cb76852c34e84f3af2137ef4ef4c16f54a6136",
+  "units": [
+    {
+      "id": "EN01",
+      "locator": "/segments/0/text",
+      "function": "Recognisable real December family life into a practical small shared pause",
+      "reader_action": "Understand what to try and recognise product fit; choose freely whether to join or inspect book",
+      "immutable_facts": "24days; about10minutes; three main sections; tomorrow idea; two-person variants; exact campaign labels/titles; no external benefit or availability claim",
+      "mechanics": "Three teasers from distinct days only:19/10/7 for article01,21/22/14 for article02. Preserve specific source action and no signal in Machine; shared secret prompt in reversecharades. These are excerpts not full instructions.",
+      "safety_consent": "Optional participation, skip/catch-up not required; gratitude example not obligatory; no forced disclosure or parent guilt",
+      "chronology": "Ordinary December evening; no invented launch date or product availability",
+      "character_voice": "Idiomatic British English parent-facing prose, contractions and concrete everyday humour",
+      "emotional_job": "Recognition, amusement and usable invitation; do not equate book use with being a good parent",
+      "humor_job": "Observational family specifics tied to real source activities; adults join in rather than manage a performance",
+      "dependencies": "baseline/CAMPAIGN_LOCKS.md; baseline/R6_MASTER.md six source sections; other article has a distinct reader intent; source book unchanged"
+    },
+    {
+      "id": "EN02",
+      "locator": "/segments/1/text",
+      "function": "Concrete activity-calendar discovery and adult participant role with no organising burden",
+      "reader_action": "Understand what to try and recognise product fit; choose freely whether to join or inspect book",
+      "immutable_facts": "24days; about10minutes; three main sections; tomorrow idea; two-person variants; exact campaign labels/titles; no external benefit or availability claim",
+      "mechanics": "Three teasers from distinct days only:19/10/7 for article01,21/22/14 for article02. Preserve specific source action and no signal in Machine; shared secret prompt in reversecharades. These are excerpts not full instructions.",
+      "safety_consent": "Optional participation, skip/catch-up not required; gratitude example not obligatory; no forced disclosure or parent guilt",
+      "chronology": "Ordinary December evening; no invented launch date or product availability",
+      "character_voice": "Idiomatic British English parent-facing prose, contractions and concrete everyday humour",
+      "emotional_job": "Recognition, amusement and usable invitation; do not equate book use with being a good parent",
+      "humor_job": "Observational family specifics tied to real source activities; adults join in rather than manage a performance",
+      "dependencies": "baseline/CAMPAIGN_LOCKS.md; baseline/R6_MASTER.md six source sections; other article has a distinct reader intent; source book unchanged"
+    }
+  ]
+}

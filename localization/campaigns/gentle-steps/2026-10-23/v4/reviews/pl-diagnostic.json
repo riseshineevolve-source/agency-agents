@@ -1,0 +1,149 @@
+{
+  "reviewer": "/root/advent_pl_editor",
+  "stage": "initial_diagnostic",
+  "roles": [
+    "native_language",
+    "audience"
+  ],
+  "language": "pl-PL",
+  "mode": "upgrade",
+  "status": "DIAGNOSTIC_COMPLETE_NOT_CANDIDATE_APPROVAL",
+  "authority": "Current Git V3 is same-language editing baseline; older Library V2 is comparison only. Campaign locks govern product strings; R6 is read-only mechanics authority. No website, book master or tool edits.",
+  "sources": [
+    {
+      "path": "baseline/v3/01_grudzien_bez_pospiechu_PL.md",
+      "sha256": "411c254834682609e60755a2044a4cec786c82386cd46ad0d8ea50f66928d2ff"
+    },
+    {
+      "path": "baseline/v3/02_kalendarz_z_zadaniami_PL.md",
+      "sha256": "3268fe2aa35f45fd200009993f539f770a220bcb6d2bb849a119d8397f4c11fd"
+    },
+    {
+      "path": "baseline/library/01_grudzien_bez_pospiechu_PL.md",
+      "sha256": "2ca6d40575427fd48e30ced0b31ebcec2a4ca1a5d4df1d36ef564e0a5a6cf9e2"
+    },
+    {
+      "path": "baseline/library/02_kalendarz_z_zadaniami_PL.md",
+      "sha256": "ffd8c4fa1236ed5217aa06af30b4dd52b1df98de8f4f8af7d30dde64ae7cc8e3"
+    },
+    {
+      "path": "baseline/CAMPAIGN_LOCKS.md",
+      "sha256": "898103dc13204f88371eec429f24dc4ee943637626d9da64d551022a378978ae"
+    },
+    {
+      "path": "baseline/R6_MASTER.md",
+      "sha256": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3"
+    }
+  ],
+  "audience": {
+    "primary": "Rodzic/opiekun czytający o rodzinnym czasie w zwykłym, pełnym obowiązków grudniu.",
+    "family_ear": "Dorośli są uczestnikami, a dzieci mogą być w różnym wieku; szkoła i trening wskazują na rodzinę szkolną, nie wyłącznie przedszkolną. Bez obietnic poprawienia więzi, zachowania dzieci lub nastroju.",
+    "voice": "Ciepły, rzeczowy język dorosłego człowieka; sceny i humor zamiast sentencji o bliskości. Zgoda na brak ochoty oraz pominięcie dnia bez odrabiania."
+  },
+  "article_functions": [
+    {
+      "id": "PL01",
+      "article": "december-family-time",
+      "function": "Rozpoznawalny zwykły wieczór i rozmowy logistyczne prowadzą do łatwego sposobu na wspólne kilka minut. Emocjonalnym punktem jest konkretna sytuacja i zwykłe zauważenie pomocy, bez nakazu tworzenia wspomnień. Produkt ma pojawić się jako gotowy pomysł dla rodziców bez wolnego popołudnia."
+    },
+    {
+      "id": "PL02",
+      "article": "advent-calendar-activities",
+      "function": "Odpowiada rodzicowi szukającemu kalendarza z zadaniami: kto ma wymyślić 24 pomysły i przygotować materiały? Pokazuje gotową różnorodność i frajdę również dla dorosłych. Zaskoczeniem jest wspólna aktywność, bez oceniania kalendarzy z prezentami."
+    }
+  ],
+  "issues": [
+    {
+      "id": "PL01-FIX-01",
+      "locator": "PL01/lead/emphasised_third_paragraph",
+      "decision": "FIX",
+      "evidence": "A przecież chcielibyście też mieć z tego grudnia coś wspólnego do wspominania.",
+      "defect": "Zdanie dopisuje rodzicowi aspirację i sugeruje niedosyt po rozpoznawalnym otwarciu. „A przecież” lekko naciska: grudzień ma pozostawić wspomnienia. Konkretna scena już skutecznie pokazała problem.",
+      "targeted_fix": "Utrzymać łatwą propozycję na ten wieczór; nie stawiać rodzicowi celu produkowania wspomnień."
+    },
+    {
+      "id": "PL01-FIX-02",
+      "locator": "PL01/closing/paragraph_before_locked_line",
+      "decision": "FIX",
+      "evidence": "Czasem zostaje w pamięci właśnie ten wieczór, kiedy ktoś wydawał niedorzeczne dźwięki, a ktoś inny usłyszał zwykłe „dzięki”.",
+      "defect": "Powtarza oba przed chwilą przeczytane przykłady i wraca do tego samego celu pamiętania. Artykuł ma już naturalne zamknięcie w zgodzie na pominięcie dnia; ten akapit dokłada sentymentalną puentę.",
+      "targeted_fix": "Dać domknięcie wynikające z łatwości użycia lub zakończyć bliżej praktycznej propozycji; nie dopisywać gwarancji pamiętnego wieczoru."
+    },
+    {
+      "id": "PL02-FIX-01",
+      "locator": "PL02/talk/follow_up",
+      "decision": "FIX",
+      "evidence": "Niby drobiazgi, a potem odkrywacie, ile jest w was siebie nawzajem.",
+      "defect": "Po trzech trafnych konkretach pojawia się abstrakcyjna, podniosła fraza o tożsamości. Brzmi bardziej jak sentencja niż swobodny polski artykuł; sens rodzinnego podłapywania zwyczajów łatwiej uchwycić na przykładzie.",
+      "targeted_fix": "Zachować powiedzonko/piosenkę/kanapki i wrócić do konkretnego krążenia zwyczajów. V2 ma użyteczną, naturalniejszą funkcję: „Takie małe rzeczy krążą po rodzinie”."
+    },
+    {
+      "id": "PL02-FIX-02",
+      "locator": "PL02/closing/child_question",
+      "decision": "FIX",
+      "evidence": "Może następnego wieczoru zamiast „Co dziś dostanę?” usłyszycie: „Co dzisiaj razem robimy?”",
+      "defect": "Modalne „może” nie tworzy twardej obietnicy, ale puenta nadal przeciwstawia dziecko oczekujące rzeczy dziecku wybierającemu wspólny czas. Może brzmieć jak ocena rodzin kupujących drobiazgi i prognoza zmiany zachowania dziecka.",
+      "targeted_fix": "Zachować ciekawość tego, co rodzina zrobi razem; usunąć ocenę prezentów oraz przewidywanie, co rodzic usłyszy od dziecka."
+    }
+  ],
+  "golden_keep": [
+    {
+      "locator": "PL01/opening",
+      "quote": "Rano: „Pospiesz się”. Po południu: „Zjadłeś coś?”. Wieczorem: „Gdzie jest strój na jutro?”.",
+      "reason": "Natychmiast rozpoznawalny rytm zwykłej rodziny, konkret zamiast ogólnego języka o zabieganiu. Zachować także domknięcie o tym, co kogo rozśmieszyło."
+    },
+    {
+      "locator": "PL01/problem",
+      "quote": "Grudzień nie odwołuje szkoły, pracy ani treningów.",
+      "reason": "Krótka, idiomatyczna obserwacja; utrzymuje szkolny, dorosły rejestr."
+    },
+    {
+      "locator": "PL01/machine",
+      "quote": "Salon zaczyna brzmieć jak fabryka, której nikt nie umie wyłączyć.",
+      "reason": "Humor wyrasta z prawdziwej mechaniki, bez infantylizacji i bez żartu kosztem uczestnika."
+    },
+    {
+      "locator": "PL01/talk",
+      "quote": "Czasem wystarczy zwykłe „Dzięki, to mi naprawdę pomogło”.",
+      "reason": "Zwykła, opcjonalnie brzmiąca konkretna wdzięczność zgodna z dniem 7. Nie usuwać samego podziękowania tylko dlatego, że projekt unika wymuszonej wdzięczności."
+    },
+    {
+      "locator": "PL01/flexibility",
+      "quote": "To nie wyjdzie. Bez nadrabiania dwóch dni jutro.",
+      "reason": "Naturalna, zdecydowana zgoda na pominięcie; bez terapii i odrabiania."
+    },
+    {
+      "locator": "PL02/opening",
+      "quote": "Dzieci już śpią. Ty przypominasz sobie, że w jutrzejszej kopercie miało być zadanie. Tylko jakie?",
+      "reason": "Wyraźny, odrębny problem artykułu 2; nie zastępować kolejnym ogólnym opisem pełnego grudnia."
+    },
+    {
+      "locator": "PL02/value",
+      "quote": "Niespodzianką jest to, co zrobicie razem.",
+      "reason": "Celny, krótki opis różnicy produktu, bez kupowania moralnej przewagi."
+    },
+    {
+      "locator": "PL02/one_sound",
+      "quote": "Nie uciszajcie wszystkich. Ściszcie na minutę jedno źródło dźwięku, na przykład telewizor.",
+      "reason": "Precyzyjne działanie i brak wymogu idealnej ciszy. Źródło dźwięku, nie uciszanie osoby."
+    },
+    {
+      "locator": "PL02/charades",
+      "quote": "Przy „lepieniu bałwana” trzy osoby mogą wyglądać, jakby uprawiały trzy różne sporty.",
+      "reason": "Wyrazisty, źródłowy humor zrozumiały również starszym dzieciom i dorosłym."
+    },
+    {
+      "locator": "PL02/flexibility",
+      "quote": "Późny trening? Ktoś ma dość? Dzień może wypaść. Nie trzeba nadrabiać ani namawiać wszystkich za wszelką cenę.",
+      "reason": "Krótka, konkretna dobrowolność; zachować sens bez pompowania kolejnych zapewnień."
+    }
+  ],
+  "cross_article_keep_and_limits": [
+    "Każdy artykuł pokazuje trzy różne dni: PL01 dni 19/10/7; PL02 dni 21/22/14. Nie zmieniać tego w rzekomy pełny dzień.",
+    "Zachować trzy dokładne nagłówki, tytuł produktu, zatwierdzoną polską linię kampanii oraz atrybucję Rise.Shine.Evolve. i The Happy Makers.",
+    "24 dni; około dziesięciu minut, nie obowiązek pełnych dziesięciu; W DWIE OSOBY i NA JUTRO; bez dodatkowych zakupów i przygotowywania zabaw. Nie rozszerzać tego na brak użycia jakichkolwiek domowych przedmiotów.",
+    "Powtarzalne cechy produktu i nagłówki są potrzebnymi informacjami wspólnymi. Nie wymuszać rozbieżności przez zmianę zablokowanych fraz.",
+    "Nie cofać do V2: „może znaczyć więcej niż niejeden prezent”, status „Nowe wydanie w przygotowaniu” i CTA o formatach to słabsze lub niezweryfikowane elementy."
+  ],
+  "writer_handoff": "Targeted revisions only. No full candidate written by reviewer. Await exact candidate JSON/manuscripts and SHA-256 for actual native_language + audience review."
+}

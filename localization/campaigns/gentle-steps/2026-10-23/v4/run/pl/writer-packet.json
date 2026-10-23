@@ -1,0 +1,16 @@
+{
+  "format": "rse-language-writer-packet-v1",
+  "status": "FUNCTION_BRIEF_REQUIRED",
+  "target_language": "pl",
+  "source_visibility": "same_language_baseline",
+  "run_sha256": "28de85cb14208002e44a2186fcd692af7fce73924485788385eff1a72c5476ff",
+  "units": [
+    {
+      "id": "PL01"
+    },
+    {
+      "id": "PL02"
+    }
+  ],
+  "instruction": "Fill and validate functional-brief.json using packet before drafting. The CLI does not generate prose."
+}

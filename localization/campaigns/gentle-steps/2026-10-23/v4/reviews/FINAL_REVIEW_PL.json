@@ -1,0 +1,110 @@
+{
+  "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+  "reviews": [
+    {
+      "stage": "native_language",
+      "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+      "status": "PASS",
+      "reviewer": "/root/advent_pl_editor",
+      "evidence": "reviews/pl-final/native_language.json",
+      "receipt_sha256": "587db739ea39e3d624bbf80e5282a443193dc773d636e37ee22e3fe68e7de998",
+      "scope": {
+        "segment_ids": [
+          "PL01",
+          "PL02"
+        ],
+        "actual_read": "Both complete final PL articles read, including YAML metadata, title, every paragraph, all three teasers, participation and no-prep text, campaign closing and CTA. Full R1 manuscript comparison; actual changes matched to FINAL_CHANGES.json.",
+        "change_verification": [
+          {
+            "segment_id": "PL01",
+            "file": "01_grudzien_bez_pospiechu_PL.md",
+            "final_sha256": "28ff3b4f417354f98cc0b6778947d7b393a9e7d3a3479bbe7ffb1a6ee9b1ca00",
+            "r1_sha256": "78241c662375f33307f33b346e4011c5e440000e5791ad60ce01a747dfc56173",
+            "registered_replacements": 3,
+            "exact_replay_matches_final": true,
+            "json_text_equals_manuscript": true
+          },
+          {
+            "segment_id": "PL02",
+            "file": "02_kalendarz_z_zadaniami_PL.md",
+            "final_sha256": "e7e7a0164d545f5ab0851d03f3be862bdd3b209c4174b8a9912ad326d6badefd",
+            "r1_sha256": "329f0aa098ad2e8e0923d0d22a682a27dcdb16b97bebb3ea558d63deb8bb4ab8",
+            "registered_replacements": 5,
+            "exact_replay_matches_final": true,
+            "json_text_equals_manuscript": true
+          }
+        ],
+        "actual_changed_ids": [
+          "PL01",
+          "PL02"
+        ],
+        "registered_PL_replacements": 8,
+        "unregistered_manuscript_drift": false,
+        "limits": "Text editorial judgement only; no owner acceptance, human family read-aloud, layout, print or release approval."
+      }
+    },
+    {
+      "stage": "audience",
+      "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+      "status": "PASS",
+      "reviewer": "/root/advent_pl_editor",
+      "evidence": "reviews/pl-final/audience.json",
+      "receipt_sha256": "892cb6c0b7ff94e18959d12a1f47afc87c6d4616747828fce0d86594a83e3683",
+      "scope": {
+        "segment_ids": [
+          "PL01",
+          "PL02"
+        ],
+        "actual_read": "Both complete final PL articles read, including YAML metadata, title, every paragraph, all three teasers, participation and no-prep text, campaign closing and CTA. Full R1 manuscript comparison; actual changes matched to FINAL_CHANGES.json.",
+        "change_verification": [
+          {
+            "segment_id": "PL01",
+            "file": "01_grudzien_bez_pospiechu_PL.md",
+            "final_sha256": "28ff3b4f417354f98cc0b6778947d7b393a9e7d3a3479bbe7ffb1a6ee9b1ca00",
+            "r1_sha256": "78241c662375f33307f33b346e4011c5e440000e5791ad60ce01a747dfc56173",
+            "registered_replacements": 3,
+            "exact_replay_matches_final": true,
+            "json_text_equals_manuscript": true
+          },
+          {
+            "segment_id": "PL02",
+            "file": "02_kalendarz_z_zadaniami_PL.md",
+            "final_sha256": "e7e7a0164d545f5ab0851d03f3be862bdd3b209c4174b8a9912ad326d6badefd",
+            "r1_sha256": "329f0aa098ad2e8e0923d0d22a682a27dcdb16b97bebb3ea558d63deb8bb4ab8",
+            "registered_replacements": 5,
+            "exact_replay_matches_final": true,
+            "json_text_equals_manuscript": true
+          }
+        ],
+        "actual_changed_ids": [
+          "PL01",
+          "PL02"
+        ],
+        "registered_PL_replacements": 8,
+        "unregistered_manuscript_drift": false,
+        "limits": "Text editorial judgement only; no owner acceptance, human family read-aloud, layout, print or release approval."
+      }
+    },
+    {
+      "stage": "meaning",
+      "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+      "status": "PASS",
+      "reviewer": "/root/advent_truth_editor",
+      "evidence": "reviews/truth-final/pl-meaning.json",
+      "receipt_sha256": "b1f47ce50b438d3a9892b5f1ee149babcc2ec024218768ebde14b1a786a22e0d",
+      "scope": "Both complete final PL articles, YAML metadata and CTAs reread; meaning closure against R1, all declared changes, campaign locks and six PL R6 source actions."
+    },
+    {
+      "stage": "logic",
+      "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+      "status": "PASS",
+      "reviewer": "/root/advent_truth_editor",
+      "evidence": "reviews/truth-final/pl-logic.json",
+      "receipt_sha256": "08c94741f7479dc2e66857b91db6199dbfa9081d4a62761c7648c5d61257cd3c",
+      "scope": "Both complete final PL articles, YAML metadata and CTAs reread; logic closure against R1, all declared changes, campaign locks and six PL R6 source actions."
+    }
+  ],
+  "actual_reviewers": 3,
+  "sole_candidate_writer": "root",
+  "normalization_only": true
+}

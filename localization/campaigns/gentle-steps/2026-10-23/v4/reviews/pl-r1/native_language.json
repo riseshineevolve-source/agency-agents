@@ -1,0 +1,85 @@
+{
+  "reviewer": "/root/advent_pl_editor",
+  "candidate_sha256": "784cc2be74e46e9806d8808b42f899d63f654047e1a774492faac65506fd064d",
+  "candidate_path": "candidate/candidate-pl.json",
+  "language": "pl-PL",
+  "review_round": "R1",
+  "scope": {
+    "segment_ids": [
+      "PL01",
+      "PL02"
+    ],
+    "actual_read": [
+      {
+        "segment_id": "PL01",
+        "path": "candidate/01_grudzien_bez_pospiechu_PL.md",
+        "sha256": "78241c662375f33307f33b346e4011c5e440000e5791ad60ce01a747dfc56173",
+        "coverage": "complete YAML metadata, title, all body paragraphs, headings and CTA"
+      },
+      {
+        "segment_id": "PL02",
+        "path": "candidate/02_kalendarz_z_zadaniami_PL.md",
+        "sha256": "329f0aa098ad2e8e0923d0d22a682a27dcdb16b97bebb3ea558d63deb8bb4ab8",
+        "coverage": "complete YAML metadata, title, all body paragraphs, headings and CTA"
+      }
+    ],
+    "comparison": "Both complete current V3 PL baselines plus the prior V2 comparison and 2026-10-13 campaign locks; source mechanics context from R6 days 7, 10, 14, 19, 21, 22.",
+    "limitations": "Text editorial review; not owner acceptance, human family read-aloud, layout, publication or print approval."
+  },
+  "candidate_edited_by_reviewer": false,
+  "stage": "native_language",
+  "status": "FIX",
+  "upgrade_assessment": {
+    "verdict": "Substantive improvement over V3; retain the new coherent scenes. Bounded correction required, not another wholesale rewrite.",
+    "improvements": [
+      "PL01 now leads to a ready idea for the current evening instead of asking parents to create shared memories. The after-dinner scene is concrete and idiomatic.",
+      "PL02 now has a clear activity-calendar preparation problem, recognises parents who enjoy making a calendar, and gives adults a credible role in playing.",
+      "Concrete family habits replace the abstract phrase about how much of each other is inside the family. The final child/gift comparison has gone.",
+      "Humour still comes from recognisable domestic situations and the actual activities; no preschool voice or invented developmental benefit."
+    ],
+    "specifics_reviewed": "The socks, dishes, fridge list and comic late-evening specificity are plausible scene details. They are not independent defects requiring removal."
+  },
+  "findings": [
+    {
+      "id": "PL-R1-NL-01",
+      "segment_id": "PL02",
+      "paragraph_locator": "Under “Co będziecie robić”, first paragraph, final sentence",
+      "status": "FIX",
+      "severity": "medium",
+      "evidence": "Można wreszcie być osobą, która zgaduje, zamiast tą, która wszystko rozdaje.",
+      "defect": "Preposition “zamiast” governs the genitive. “Zamiast tą” is a case error; the nearby “być osobą” does not change that government.",
+      "targeted_fix": "Use a grammatical genitive construction or recast the second half; retain the adult-as-player idea."
+    },
+    {
+      "id": "PL-R1-NL-02",
+      "segment_id": "PL01",
+      "paragraph_locator": "Under “Można zacząć przed końcem listy zadań”, product paragraph, final sentence",
+      "status": "FIX",
+      "severity": "medium",
+      "evidence": "Możecie otworzyć książkę, kiedy akurat macie na to przestrzeń.",
+      "defect": "“Mieć na to przestrzeń” shifts this otherwise concrete family article into coaching-register abstraction. The intended sense is simply a suitable/free moment.",
+      "targeted_fix": "Name the ordinary time/occasion directly without the abstract “przestrzeń”."
+    },
+    {
+      "id": "PL-R1-NL-03",
+      "segment_id": "PL02",
+      "paragraph_locator": "“Co będziecie robić” introduction + “Kalambury na opak” teaser + closing paragraph beginning “Warto zajrzeć do środka”",
+      "status": "FIX",
+      "severity": "medium",
+      "evidence": [
+        "świetnie pokazuje bałwana",
+        "Przy „lepieniu bałwana” trzy osoby mogą wyglądać, jakby uprawiały trzy różne sporty.",
+        "Kto najbardziej komplikowałby kalambury? A kto po minucie nadal tłumaczyłby, że przecież pokazywał zupełnie oczywistego bałwana?"
+      ],
+      "defect": "The same snowman/charades joke is previewed, delivered and then explained again with two further questions. The strongest concrete joke already works in the real teaser; the repeated payoff makes the enlarged article feel padded rather than more varied.",
+      "targeted_fix": "Keep the real charades teaser and reduce one of its surrounding callbacks, especially the long closing one. Preserve a direct invitation to imagine doing something with the family."
+    }
+  ],
+  "keep": [
+    "Both original concrete openings and current distinct article functions.",
+    "PL01 after-dinner scene, Family Machine factory image and ordinary closing list.",
+    "PL02 picture/hidden-preparation observation, adult participation and concrete habit examples.",
+    "Existing exact campaign strings and the clear three-different-days framing."
+  ],
+  "blockers": []
+}

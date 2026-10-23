@@ -1,0 +1,18 @@
+{
+  "status": "DIAGNOSTIC_REQUIRED",
+  "diagnostic": "NOT_RUN",
+  "unresolved_issues": [],
+  "unresolved_source_ambiguities": [],
+  "issue_ledger_sha256": "7c23f35d90a4e589bdadac69ed354099ddc2dea09b52f64fd4848dd61c58bef4",
+  "deterministic_qa": "PASS",
+  "candidate_sha256": "b1fa0509f3518aecd626382b19990dbaef110a2f96ac10eea8f77964d52d50b4",
+  "changed_segments": [
+    "EN01",
+    "EN02"
+  ],
+  "specialist_reviews": "NOT_RUN",
+  "surface_fit": "NOT_RUN",
+  "owner_approval": "NOT_GRANTED",
+  "print_ready": false,
+  "release_authorized": false
+}

@@ -1,0 +1,23 @@
+{
+  "status": "OWNER_READ_CANDIDATE",
+  "diagnostic": "COMPLETE",
+  "unresolved_issues": [],
+  "unresolved_source_ambiguities": [],
+  "issue_ledger_sha256": "eaefd78aab65d8c2f49be02ace653e9eedd7adbbcf358d55f8fbdf80ab0f6af8",
+  "deterministic_qa": "PASS",
+  "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+  "changed_segments": [
+    "PL01",
+    "PL02"
+  ],
+  "specialist_reviews": [
+    "native_language",
+    "meaning",
+    "audience",
+    "logic"
+  ],
+  "surface_fit": "NOT_RUN",
+  "owner_approval": "NOT_GRANTED",
+  "print_ready": false,
+  "release_authorized": false
+}

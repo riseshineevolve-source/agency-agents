@@ -1,0 +1,133 @@
+{
+  "schema": "rse-independent-diagnostic-v1",
+  "reviewer": "/root/advent_truth_editor",
+  "stage": "initial_diagnostic",
+  "mode": "upgrade",
+  "scope": [
+    "meaning",
+    "mechanics",
+    "claims",
+    "logic",
+    "continuity",
+    "consent"
+  ],
+  "source_master": {
+    "path": "baseline/R6_MASTER.md",
+    "sha256": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3",
+    "hash_verified": true,
+    "reviewed_locators": {
+      "day19_empty_hands": "1038-1051",
+      "day10_family_machine": "586-606",
+      "day07_specific_help": "449-456",
+      "day21_one_sound_quieter": "1140-1153",
+      "day22_reverse_charades": "1206-1223",
+      "day14_shared_habits": "810-817"
+    }
+  },
+  "other_sources_read": [
+    "baseline/CAMPAIGN_LOCKS.md",
+    "baseline/V3_QA.md"
+  ],
+  "source_limitation": "EN teaser provenance is inherited from the V3 handoff. Meaning and mechanics were independently checked against the corresponding PL R6 sections. No latest EN book master was downloaded or independently authenticated in this review.",
+  "baseline_articles": [
+    {
+      "article_id": "01_grudzien_bez_pospiechu_PL",
+      "path": "baseline/v3/01_grudzien_bez_pospiechu_PL.md",
+      "sha256": "411c254834682609e60755a2044a4cec786c82386cd46ad0d8ea50f66928d2ff",
+      "read_complete": true,
+      "teaser_days": [
+        19,
+        10,
+        7
+      ],
+      "decision": "KEEP",
+      "material_truth_or_mechanics_errors": [],
+      "findings": []
+    },
+    {
+      "article_id": "01_december_family_time_EN",
+      "path": "baseline/v3/01_december_family_time_EN.md",
+      "sha256": "e8f0b6bd3f00f99f1b1297d8599cfcc3e5712c6ba70f21856a8daecfe9658b59",
+      "read_complete": true,
+      "teaser_days": [
+        19,
+        10,
+        7
+      ],
+      "decision": "FIX",
+      "material_truth_or_mechanics_errors": [],
+      "findings": [
+        "CLAIM-EN1"
+      ]
+    },
+    {
+      "article_id": "02_kalendarz_z_zadaniami_PL",
+      "path": "baseline/v3/02_kalendarz_z_zadaniami_PL.md",
+      "sha256": "3268fe2aa35f45fd200009993f539f770a220bcb6d2bb849a119d8397f4c11fd",
+      "read_complete": true,
+      "teaser_days": [
+        21,
+        22,
+        14
+      ],
+      "decision": "KEEP",
+      "material_truth_or_mechanics_errors": [],
+      "findings": []
+    },
+    {
+      "article_id": "02_advent_activities_EN",
+      "path": "baseline/v3/02_advent_activities_EN.md",
+      "sha256": "fdf9864a2b17ff883003d3fbdf84a124f37f12d59e6338f5f970995f219773f1",
+      "read_complete": true,
+      "teaser_days": [
+        21,
+        22,
+        14
+      ],
+      "decision": "KEEP",
+      "material_truth_or_mechanics_errors": [],
+      "findings": []
+    }
+  ],
+  "findings": [
+    {
+      "id": "CLAIM-EN1",
+      "decision": "FIX",
+      "segment": "01_december_family_time_EN / LET’S TALK / example paragraph",
+      "evidence": "A simple ‘I noticed. Thank you’ can change the feel of an ordinary evening.",
+      "reason": "The added causal benefit is modest but not stated in the R6 activity or campaign truth. The source supplies noticing a concrete helpful action and an ordinary thank-you; it does not promise an effect on the evening.",
+      "targeted_fix": "Retain the specific thank-you as a possible ordinary response without attaching a promised emotional effect."
+    }
+  ],
+  "keep": [
+    "All six real teaser choices and their assigned section functions.",
+    "Three distinct source days in each article; these are not a continuous reproduced calendar day.",
+    "Safe putting-down action and one-minute pause in Empty Hands.",
+    "Own movement plus own sound, coordination and no agreed stop signal in Family Machine.",
+    "An unnoticed helpful act described concretely; an ordinary thank-you remains optional in the article framing.",
+    "One controllable sound source is reduced for a minute rather than demanding total silence.",
+    "One guesser, simultaneous shared prompt, and no agreed gestures in Reverse Charades; illustrative snowman comedy is source-backed.",
+    "Ordinary family phrases, songs and habits for the shared-habits conversation; no compulsory personal disclosure.",
+    "The separate article intents: an ordinary busy evening in article 1 and replacing parent-led Advent preparation in article 2.",
+    "24 days, approximately ten minutes, three short daily parts, next-day prompt and two-person alternatives are campaign-backed.",
+    "Permission to skip a day and avoid catch-up pressure.",
+    "No current sales availability, format inventory, price, unverified purchase link, developmental benefit, or age-suitability promise.",
+    "Preserve baseline label occurrences; descriptive references to two-person versions do not rename an owner-locked label. PL01 has a descriptive mention, PL02 names W DWIE OSOBY, and EN has descriptive two-person wording."
+  ],
+  "candidate_review_invariants": [
+    "Preserve approved product titles, existing exact section/supporting label wording and occurrence counts. Descriptive two-person mentions may remain descriptive; do not insert exact labels simply to equalize articles.",
+    "Retain the 24-day product truth and three distinct functional daily parts.",
+    "Keep source-day provenance separate; article 1 uses days 19,10,7 and article 2 uses days 21,22,14.",
+    "Maintain teaser scope: basic action is permitted, but do not reproduce a complete source day or a complete full game. Do not fabricate rules to replace intentionally omitted starter, rotation, reset or finale details.",
+    "Do not convert a concrete noticing/thanks example into a compulsory round, performance, gratitude test or claim about family change.",
+    "Maintain sound reduction as one source rather than enforced silence and do not invite unsafe placement of held objects.",
+    "No invented availability, links, benefits or age guarantee.",
+    "Treat PL and EN as sibling campaigns; do not equalize them merely for parallel wording."
+  ],
+  "candidate_status": "awaiting exact candidate paths and hashes; this diagnostic is not candidate approval",
+  "source_edits": false,
+  "diagnostic_adjustment": {
+    "source": "Root source/brief clarification",
+    "detail": "Removed initial suggestions to add exact supporting labels because current Git V3 occurrence counts are protected. Clarified that basic teaser actions are allowed. No stricter rule than the current article brief is imposed."
+  }
+}

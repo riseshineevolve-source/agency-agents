@@ -1,0 +1,62 @@
+{
+  "reviewer": "/root/advent_en_editor",
+  "role": "native_language",
+  "stage": "r1-complete-candidate-review",
+  "status": "FIX",
+  "candidate_sha256": "b1fa0509f3518aecd626382b19990dbaef110a2f96ac10eea8f77964d52d50b4",
+  "scope": "Complete EN01 and EN02, including metadata, headings, every body paragraph, locked labels and CTAs; checked against the two candidate Markdown files. UK English, read-aloud rhythm, idiom, scene specificity, humour and article-level differentiation. No candidate edits made.",
+  "complete_read": true,
+  "findings": [
+    {
+      "id": "EN-R1-N01",
+      "segment_id": "EN01",
+      "paragraph": "opening three body paragraphs and 'Start while the evening is still unfinished' paragraph",
+      "status": "KEEP",
+      "evidence": "The contrast between reminders and hearing what made someone laugh is clear. The jumper in the wash and the claimed end of the sofa give the article a recognisable UK household setting. 'Anyone fancy doing something together?' is a plausible spoken invitation, and the willing-participants sentence provides a usable entry into the evening.",
+      "targeted_action": "Keep. This resolves the diagnostic's practical-entry concern without demanding that the family first arrange a perfect evening."
+    },
+    {
+      "id": "EN-R1-N02",
+      "segment_id": "EN01",
+      "paragraph": "three teaser paragraphs; support and closing paragraphs",
+      "status": "KEEP",
+      "evidence": "'Tea towel' now agrees with the UK variety. The factory that will not stop is concrete and funny; the unnoticed glove/help example stays with an ordinary act. The flexibility paragraph and laundry return complete the unfinished-evening thread. The prose is easy to read aloud, and the article no longer relies on generic emotional-outcome claims.",
+      "targeted_action": "Keep the bounded character and scene work. No additional native-language rewrite is necessary for EN01."
+    },
+    {
+      "id": "EN-R1-N03",
+      "segment_id": "EN02",
+      "paragraph": "H1",
+      "status": "FIX",
+      "priority": "low",
+      "evidence": "The heading has 'Grown Ups', while the same noun is correctly 'grown-ups' in the metadata and the fourth body paragraph. As a plural noun it needs the hyphen.",
+      "targeted_action": "Change the heading noun to 'Grown-Ups', preserving the chosen title-case scheme."
+    },
+    {
+      "id": "EN-R1-N04",
+      "segment_id": "EN02",
+      "paragraph": "LET’S TAKE A MOMENT, One Sound Quieter paragraph; last sentence",
+      "status": "FIX",
+      "priority": "medium",
+      "evidence": "'Nobody has to become a quieter sort of person' shifts from a precise sound-source action to a constructed reassurance about personality. 'A quieter sort of person' is grammatical but feels written to pre-empt an objection the scene has not raised, and is less natural than the concrete sentences before it.",
+      "targeted_action": "End the teaser with the observable room/one-less-sound experience, or make any retained clarification about the controllable sound source. Do not add a personality-change frame."
+    },
+    {
+      "id": "EN-R1-N05",
+      "segment_id": "EN02",
+      "paragraph": "Reverse Charades and LET’S TALK example paragraphs",
+      "status": "KEEP",
+      "evidence": "The winter-sports image preserves the source joke and is easy to picture. The mum/song/Grandad examples are naturally phrased, and the denied family saying supplies a light ending without the former abstract 'carry around' line.",
+      "targeted_action": "Keep. The source-mechanics reviewer should own the exact guesser/prompt chronology; this native-language pass does not certify mechanics."
+    },
+    {
+      "id": "EN-R1-N06",
+      "segment_id": "EN01+EN02",
+      "paragraph": "whole-article structure, support sections and CTAs",
+      "status": "KEEP",
+      "evidence": "EN01 now answers how to begin within an unfinished evening. EN02 frames a ready-on-the-page calendar through the adult's chance to play and an imagined charades scene. The shared product facts and three locked labels are functional overlaps, while the surrounding arguments and support paragraphs differ. The next action is clear and no destination or availability is invented.",
+      "targeted_action": "Preserve the differentiation. Apply the specific EN02 fixes rather than lengthening or rebuilding both articles."
+    }
+  ],
+  "approval_limits": "This is an independent model review, not a claim of human native-speaker approval, source-mechanics approval, owner acceptance, print readiness or publication approval."
+}

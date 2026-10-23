@@ -1,0 +1,115 @@
+{
+  "reviewer": "/root/advent_truth_editor",
+  "stage": "meaning",
+  "actual_stage": "meaning",
+  "review_round": "FINAL_CLOSURE",
+  "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
+  "candidate_path": "candidate/candidate-pl.json",
+  "previous_reviewed_candidate_sha256": "784cc2be74e46e9806d8808b42f899d63f654047e1a774492faac65506fd064d",
+  "status": "PASS",
+  "actual_review": true,
+  "read_complete": true,
+  "review_scope": "Both complete final PL articles, YAML metadata and CTAs reread; meaning closure against R1, all declared changes, campaign locks and six PL R6 source actions.",
+  "evidence": "Read all final text, checked the six teaser functions/actions and every number, modality, product/availability/benefit statement, participation choice and named label. The bounded R1 findings are resolved; no required meaning/mechanics/claims defect remains.",
+  "source_master_sha256": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3",
+  "source_master_hash_verified": true,
+  "source_locators": {
+    "Day19": "1038-1051",
+    "Day10": "586-606",
+    "Day7": "449-456",
+    "Day21": "1140-1153",
+    "Day22": "1206-1223",
+    "Day14": "810-817"
+  },
+  "source_limitation": "EN teaser provenance is inherited from the V3 handoff and checked for meaning/mechanics against corresponding PL R6. No latest EN book master download or fresh full-book authentication is claimed.",
+  "article_text_matches_json_segments": true,
+  "article_sha256": {
+    "PL01": "28ff3b4f417354f98cc0b6778947d7b393a9e7d3a3479bbe7ffb1a6ee9b1ca00",
+    "PL02": "e7e7a0164d545f5ab0851d03f3be862bdd3b209c4174b8a9912ad326d6badefd"
+  },
+  "actual_delta_matches_declared_changes": true,
+  "delta_evidence": {
+    "declared_changes_path": "qa/FINAL_CHANGES.json",
+    "all_languages_change_count": 13,
+    "by_article": {
+      "PL01": 3,
+      "PL02": 5,
+      "EN01": 0,
+      "EN02": 5
+    },
+    "method": "Reconstructed final Markdown from immutable baseline/reviewed-r1 using the declared replacements; each before string occurs once, and every reconstructed file equals its actual final file."
+  },
+  "articles": [
+    {
+      "segment_id": "PL01",
+      "decision": "KEEP",
+      "source_days": [
+        19,
+        10,
+        7
+      ],
+      "observation": "Complete final article including metadata and CTA reread. Safe one-minute Empty Hands; individual repeating movement/sound and partial no-signal stop challenge; unnoticed helpful act with optional simple thanks/listening are faithful. Removing the explicit no-compulsory-thanks sentence does not remove consent because both responses remain optional. 24 days, three parts, approximate ten minutes, NA JUTRO, descriptive two-person option and no catch-up remain correct."
+    },
+    {
+      "segment_id": "PL02",
+      "decision": "KEEP",
+      "source_days": [
+        21,
+        22,
+        14
+      ],
+      "observation": "Complete final article including metadata and CTA reread. The pause reduces one controllable sound source for a minute. Reverse Charades now clearly selects a common prompt before simultaneous speech-free showing without agreed gestures. The conversation returns to whom a habit was learned from. W DWIE OSOBY and NA JUTRO are preserved exactly; fewer parts, skipping and no attendance obligation remain possible."
+    }
+  ],
+  "required_findings": [],
+  "unresolved_findings": [],
+  "resolved_findings": [
+    {
+      "id": "TRUTH-PL01-FINALE",
+      "segment_id": "PL01",
+      "decision": "RESOLVED",
+      "locator": {
+        "path": "candidate/01_grudzien_bez_pospiechu_PL.md",
+        "line": 31,
+        "section": "ZRÓBMY COŚ RAZEM"
+      },
+      "quote": "Jednym z wyzwań jest zatrzymanie się w tym samym momencie, bez umówionego sygnału.",
+      "evidence": "Now identifies stopping as one challenge, rather than the entire R6 finale; own repeating movement/sound and no agreed signal are preserved. The rest of the full game is intentionally unexposed."
+    },
+    {
+      "id": "TRUTH-PL02-HABIT",
+      "segment_id": "PL02",
+      "decision": "RESOLVED",
+      "locator": {
+        "path": "candidate/02_kalendarz_z_zadaniami_PL.md",
+        "line": 37,
+        "section": "POGADAJMY"
+      },
+      "quote": "Od kogo przejęliście te małe zwyczaje?",
+      "evidence": "Restores direct borrowing from another family member, matching Day 14. No first-origin investigation remains; the familiar-tone example is ordinary recognition."
+    }
+  ],
+  "additional_closure": [
+    {
+      "segment_id": "PL02",
+      "locator": "ZRÓBMY COŚ RAZEM / LET’S DO THIS TOGETHER, Reverse Charades paragraph",
+      "decision": "KEEP",
+      "evidence": "Future guessing role, quiet prompt selection and then simultaneous showing make the temporal order clear without printing starter choice, rotation, special finale or full two-person rules."
+    }
+  ],
+  "global_invariants": {
+    "campaign_title_and_label_wording_preserved": true,
+    "packaging_subtitle_not_rewritten": true,
+    "24_days_three_parts_approx_ten_minutes": true,
+    "next_day_and_two_person_features_preserved": true,
+    "three_distinct_source_days_per_article": true,
+    "complete_source_day_reproduced": false,
+    "full_game_rules_reproduced": false,
+    "invented_availability_price_format_or_purchase_link": false,
+    "developmental_benefit_or_age_suitability_promise": false,
+    "forced_gratitude_or_vulnerable_disclosure": false,
+    "catch_up_or_perfect_attendance_obligation": false
+  },
+  "source_edits": false,
+  "publication_or_print_approval": false
+}

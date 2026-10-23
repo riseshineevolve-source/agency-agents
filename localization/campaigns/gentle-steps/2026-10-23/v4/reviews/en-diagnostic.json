@@ -1,0 +1,149 @@
+{
+  "reviewer": "/root/advent_en_editor",
+  "stage": "baseline-diagnostic",
+  "review_roles": ["native_language", "audience"],
+  "mode": "upgrade",
+  "locale": "en-GB",
+  "scope": "Both complete V3 English campaign articles, including metadata, headings and CTAs. This is a diagnostic, not approval of an unwritten V4 candidate.",
+  "complete_read": true,
+  "sources_read": [
+    {
+      "path": "baseline/v3/01_december_family_time_EN.md",
+      "sha256": "e8f0b6bd3f00f99f1b1297d8599cfcc3e5712c6ba70f21856a8daecfe9658b59"
+    },
+    {
+      "path": "baseline/v3/02_advent_activities_EN.md",
+      "sha256": "fdf9864a2b17ff883003d3fbdf84a124f37f12d59e6338f5f970995f219773f1"
+    },
+    {"path": "baseline/CAMPAIGN_LOCKS.md", "scope": "complete"},
+    {"path": "baseline/V3_QA.md", "scope": "complete"},
+    {"path": "baseline/library/01_december_family_time_EN.md", "scope": "complete V2 comparison"},
+    {"path": "baseline/library/02_advent_activities_EN.md", "scope": "complete V2 comparison"},
+    {"path": "baseline/R6_MASTER.md", "scope": "the six cited teaser mechanisms only; not a new full-source approval"}
+  ],
+  "overall": {
+    "disposition": "FIX",
+    "evidence": "V3 already has a credible parent-facing opening, idiomatic contractions and six useful, distinguishable activities. Its main weakness is editorial rather than pervasive bad English: both pieces become nearly the same compact product tour and then repeat identical service information. Article 1 offers recognition more convincingly than a concrete way into a difficult evening; article 2 promises less work but scarcely develops its distinctive pleasure that adults get to play too. One clear UK/US vocabulary mismatch and a few abstract or generic lines can be fixed without discarding the strong source-backed scenes.",
+    "direction": "Make article 1 useful for the parent whose evening is still in progress; make article 2 an engaging look at a ready-made activity calendar and what it is like to join in. Build any new prose around ordinary choices and observable moments. Preserve the core teaser actions and the existing best lines. Do not pad both articles with more versions of the same no-prep reassurance.",
+    "no_blockers_found_in_review_scope": true
+  },
+  "findings": [
+    {
+      "id": "EN-D01",
+      "disposition": "KEEP",
+      "article": "december-family-time",
+      "locator": "lines 11-15",
+      "evidence": "The opening distinguishes practical talk from hearing what made anyone laugh, then anchors December in work, school and laundry. That is recognisable family life in plain English, not generic togetherness rhetoric.",
+      "targeted_action": "Keep the opening's function and the strongest wording. Any expansion should advance the evening rather than add another list of seasonal pressures."
+    },
+    {
+      "id": "EN-D02",
+      "disposition": "FIX",
+      "priority": "medium",
+      "article": "december-family-time",
+      "locator": "lines 17-21",
+      "evidence": "The answer to 'How do you make time?' is currently only 'After dinner, let the next job wait. Sit down together and open a book.' It jumps from a complicated evening to an instruction without showing how this differs from another job the parent has to organise. 'Ten minutes when nobody’s rushing anyone' also implies a perfectly cooperative interval that the rest of the piece rightly says is unnecessary.",
+      "targeted_action": "Develop one brief, plausible entry into the evening: a moment that is already available, a ready prompt and whoever is willing to join. Keep it an invitation, with no requirement to finish dinner, gather everyone or create a calm mood first. This should be the article's practical contribution, not another slogan."
+    },
+    {
+      "id": "EN-D03",
+      "disposition": "FIX",
+      "priority": "low",
+      "article": "december-family-time",
+      "locator": "line 25",
+      "evidence": "'Dish towel' is American vocabulary in a campaign whose other article has 'mum' and 'Grandad'.",
+      "targeted_action": "Use 'tea towel' for coherent UK English. Do not normalise the locked subtitle's 'Prep' or any other owner-locked string."
+    },
+    {
+      "id": "EN-D04",
+      "disposition": "KEEP",
+      "article": "december-family-time",
+      "locator": "lines 25 and 29",
+      "evidence": "Empty Hands makes its pause tangible through the phone, mug and hands on knees. Family Machine changes the energy and supplies a comic image: a factory nobody knows how to switch off. The stop-without-a-signal detail gives the teaser a particular reason to be interesting.",
+      "targeted_action": "Retain these distinct functions and the no-agreed-signal condition. Keep teaser scope; there is no need to add the full game's start, pacing and reset rules."
+    },
+    {
+      "id": "EN-D05",
+      "disposition": "FIX",
+      "priority": "medium",
+      "article": "december-family-time",
+      "locator": "line 35",
+      "evidence": "The specific question and examples are effective, but 'can change the feel of an ordinary evening' replaces the actual noticing with a broad promised emotional result. It also makes the thank-you sound like a tool for improving the household atmosphere.",
+      "targeted_action": "Let the line stay with a specific helpful act being noticed and an ordinary, voluntary thank-you. Avoid a guaranteed mood change, a speech or pressure on each person to be grateful. Preserve the source question's helpful-act function."
+    },
+    {
+      "id": "EN-D06",
+      "disposition": "KEEP",
+      "article": "december-family-time",
+      "locator": "lines 37-41",
+      "evidence": "'Skip it. Tomorrow doesn’t need a double session' is brisk, natural and practically useful. The return to ridiculous noises and an unexpected thank-you ties the ending to things the reader has actually seen.",
+      "targeted_action": "Retain the no-catch-up rule and concrete return, unless a new close already performs exactly the same job. Do not restore V2's more abstract 'perform family togetherness on command' phrase."
+    },
+    {
+      "id": "EN-D07",
+      "disposition": "KEEP",
+      "article": "advent-calendar-activities",
+      "locator": "lines 11-15",
+      "evidence": "Remembering an empty Advent envelope after the children are asleep is a specific parent problem. 'The surprise is what you’ll do together' is short and gives the alternative a positive appeal. 'The adults get to play, too' supplies a promising article-specific angle.",
+      "targeted_action": "Keep those functions. A parent who uses a bought calendar should still be able to recognise the alternative without being told their current choice is inadequate."
+    },
+    {
+      "id": "EN-D08",
+      "disposition": "FIX",
+      "priority": "high",
+      "article": "advent-calendar-activities",
+      "locator": "lines 15-19, 35-43; compare article 1 lines 21 and 37-43",
+      "evidence": "After mentioning that adults get to play, article 2 immediately follows the same three-glimpse product tour as article 1. Its final support paragraph repeats almost verbatim: 'The games include two-person versions', 'TRY IT TOMORROW suggests how to use that short pause again tomorrow', and 'No extra shopping or activity prep.' The same strapline closes both. The two reader intents are labelled but not fully developed.",
+      "targeted_action": "Give article 2 a clearer job: show the appeal of an activity calendar whose idea is already on the page and whose adult can join the game. Use the existing teaser differences to demonstrate variety. Give its support paragraph a different purpose from article 1's permission to skip. Keep truthful product information without duplicating the paragraph architecture merely for symmetry."
+    },
+    {
+      "id": "EN-D09",
+      "disposition": "KEEP",
+      "article": "advent-calendar-activities",
+      "locator": "lines 23 and 27",
+      "evidence": "One Sound Quieter names a controllable sound source rather than demanding silence from children. Reverse Charades is instantly visual and the winter-sports joke comes from the genuine source mechanic of simultaneous, uncoordinated acting.",
+      "targeted_action": "Keep one sound source turned down for a short interval, plus one guesser and the others showing the same prompt without agreeing their gestures. Do not turn this into a silence exercise, competitive failure or joke at a participant's expense."
+    },
+    {
+      "id": "EN-D10",
+      "disposition": "FIX",
+      "priority": "low",
+      "article": "advent-calendar-activities",
+      "locator": "line 33",
+      "evidence": "The mum/song/Grandad examples are familiar and specific. 'You start to notice how much of each other you carry around' moves into a sentimental abstraction between those examples and a much livelier joke about the expression nobody can stop saying.",
+      "targeted_action": "Let the inherited phrase, habit or song do the work. Retain the unsentimental family joke and keep this a noticing prompt rather than an exercise in emotional disclosure."
+    },
+    {
+      "id": "EN-D11",
+      "disposition": "KEEP",
+      "article": "advent-calendar-activities",
+      "locator": "line 39",
+      "evidence": "'Nobody has to join' is clear, unobtrusive consent. 'There’s nothing to catch up on' keeps the calendar from becoming a scorecard.",
+      "targeted_action": "Preserve optional participation and no catch-up. Do not replace either with a promise that reluctant children will become enthusiastic."
+    },
+    {
+      "id": "EN-D12",
+      "disposition": "FIX",
+      "priority": "medium",
+      "article": "both",
+      "locator": "article 1 line 45; article 2 line 45",
+      "evidence": "'Discover the calendar and see what you could do together' is generic after the reader has just seen what they could do. 'Take a look inside' names a clearer next action, but neither article contains a verified destination.",
+      "targeted_action": "Give each CTA one clear reader action tied to its article intent, while leaving the destination unlinked until the actual preview or product route is verified by the responsible website writer. Do not invent availability, editions, prices or a URL."
+    },
+    {
+      "id": "EN-D13",
+      "disposition": "KEEP",
+      "article": "both",
+      "locator": "global",
+      "evidence": "Contractions, ordinary vocabulary and the absence of developmental promises make the English mostly natural already. The six teasers cover rest, collaborative movement, noticing help, reducing noise, comic mime and inherited family habits; they should not be made emotionally or mechanically uniform.",
+      "targeted_action": "Preserve that range, exact section labels, 24-day identity, approximate ten-minute claim and source-backed no-extra-shopping/prep promise. Avoid imported Polish sentence shapes, wellness vocabulary, manufactured urgency and extra reassurance after the same point is established."
+    }
+  ],
+  "final_review_requirements": {
+    "await_exact_candidate_sha256": true,
+    "read_complete_candidate": true,
+    "review_roles": ["native_language", "audience"],
+    "receipt_must_bind_final_wording": true,
+    "no_owner_approval_or_publication_claim": true
+  }
+}

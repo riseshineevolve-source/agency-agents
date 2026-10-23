@@ -1,0 +1,80 @@
+{
+  "reviewer": "/root/advent_truth_editor",
+  "stage": "meaning",
+  "actual_stage": "meaning",
+  "review_round": "R1",
+  "candidate_sha256": "b1fa0509f3518aecd626382b19990dbaef110a2f96ac10eea8f77964d52d50b4",
+  "candidate_path": "candidate/candidate-en.json",
+  "status": "FIX",
+  "actual_review": true,
+  "read_complete": true,
+  "review_scope": "Both complete EN articles, YAML metadata and closing CTA; actual meaning review against immutable current Git V3 baseline, campaign locks, prior QA and six corresponding PL R6 source sections.",
+  "evidence": "Read both complete candidate articles and compared all six source-backed teaser functions, numbers, modality, consent, product claims and labels. Three bounded findings across PL/EN are listed with article IDs and exact line locators.",
+  "source_master_sha256": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3",
+  "source_master_hash_verified": true,
+  "source_limitation": "EN teaser provenance is inherited from the V3 handoff and checked for meaning/mechanics against corresponding PL R6. No latest EN book master download or fresh full-book authentication is claimed.",
+  "article_text_matches_json_segments": true,
+  "article_sha256": {
+    "EN01": "3b70938f8b87321f0e9ee35a7661d6d5705d7c88ed17f3b6c4de8461b0edba99",
+    "EN02": "74c115bd61340e90f47d4423875acb83eb0f7033385a885717eddd2729597390"
+  },
+  "articles": [
+    {
+      "segment_id": "EN01",
+      "decision": "KEEP",
+      "source_days": [
+        19,
+        10,
+        7
+      ],
+      "observation": "Complete article and metadata read. Safe one-minute Empty Hands action, individual repeating sound/movement and partial no-signal stop challenge are faithful. Specific helpful acts and thanks remain possibilities, and listening is an equally valid response. The baseline causal promise about changing the feel of the evening has been removed. All product/flexibility claims match the campaign and corresponding PL R6 mechanics."
+    },
+    {
+      "segment_id": "EN02",
+      "decision": "FIX",
+      "source_days": [
+        21,
+        22,
+        14
+      ],
+      "observation": "Complete article and metadata read. One controllable sound source, one-minute duration, quiet common prompt and simultaneous speech-free charades remain correct. The shared-habits examples are faithful, but the line about tracing the original starter changes the question. TWO PEOPLE and TRY IT TOMORROW name genuine supporting features, and no purchase availability, format, benefit or age promise has been added."
+    }
+  ],
+  "required_findings": [
+    {
+      "id": "TRUTH-EN02-HABIT",
+      "segment_id": "EN02",
+      "decision": "FIX",
+      "severity": "required",
+      "type": "borrowed_habit_becomes_first_origin_inquiry",
+      "locator": {
+        "path": "candidate/02_advent_activities_EN.md",
+        "line": 35,
+        "section": "LET’S TALK"
+      },
+      "quote": "You can trace a small family habit back to whoever started it, including the person who insists they've never said that in their life.",
+      "source_locator": "baseline/R6_MASTER.md:810-817; Day 14 asks for a thing learned from a family member and naming who it came from. EN source provenance remains inherited from V3.",
+      "finding": "The heading and ordinary family examples are faithful. Tracing a habit to whoever started it adds an origin-finding task rather than noticing the family member from whom a participant picked it up.",
+      "required_change": "Keep direct borrowing/recognition: identify whom you picked the phrase or habit up from, without claiming its earliest origin can be established. The recognition joke can remain."
+    }
+  ],
+  "nonblocking_notes": [
+    {
+      "decision": "KEEP",
+      "scope": "campaign_fidelity",
+      "note": "Existing titles and exact section/supporting labels retain approved wording. Descriptive two-person variants are acceptable; PL01 was not required to gain W DWIE OSOBY, and PL02 retains that label. No packaging subtitle is rewritten."
+    },
+    {
+      "decision": "KEEP",
+      "scope": "teaser_boundary",
+      "note": "Basic actions are allowed. Each article previews three distinct source days and neither prints a complete source day nor complete full-game rules."
+    },
+    {
+      "decision": "KEEP",
+      "scope": "claims_and_consent",
+      "note": "No current availability, price, format, purchase URL, developmental or age-suitability promise. No compelled gratitude, vulnerable disclosure or perfect attendance; participants may skip, listen or choose fewer parts."
+    }
+  ],
+  "source_edits": false,
+  "publication_or_print_approval": false
+}

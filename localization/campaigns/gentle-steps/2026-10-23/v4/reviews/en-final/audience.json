@@ -1,0 +1,61 @@
+{
+  "reviewer": "/root/advent_en_editor",
+  "role": "audience",
+  "stage": "final-bounded-closure-complete-reread",
+  "status": "PASS",
+  "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+  "scope": "Complete final EN01 and EN02 as parent-facing editorial articles: practical family life, participation choices, emotional demands, humour, guilt, plausible scenes, article intent and claim framing. Rechecked every changed EN02 paragraph against reviewed R1 and reread both complete final articles. No candidate edits made.",
+  "complete_read": true,
+  "comparison": {
+    "reviewed_r1_sha256": "b1fa0509f3518aecd626382b19990dbaef110a2f96ac10eea8f77964d52d50b4",
+    "en01_unchanged": true,
+    "en02_actual_replacements": 5,
+    "candidate_json_matches_both_markdown_files": true
+  },
+  "findings": [
+    {
+      "id": "EN-F-A01",
+      "segment_id": "EN01",
+      "paragraph": "unfinished-evening invitation, LET’S TALK paragraph and flexibility section",
+      "status": "KEEP",
+      "evidence": "The article invites willing participants rather than requiring everyone to gather. Specific helpful acts can be acknowledged without a gratitude speech or a guaranteed mood change. A shorter interval, two participants, an evening alone and a skipped day remain legitimate choices.",
+      "targeted_action": "Retain. No guilt, forced disclosure or participation pressure found in the complete reread."
+    },
+    {
+      "id": "EN-F-A02",
+      "segment_id": "EN02",
+      "paragraph": "One Sound Quieter paragraph",
+      "status": "KEEP",
+      "resolves": ["EN-R1-A05"],
+      "evidence": "Removing the quieter-person sentence keeps the action about a sound source the family can control. The teaser asks no one to alter their temperament and ends with an ordinary sensory observation.",
+      "targeted_action": "Retain. R1 audience concern resolved."
+    },
+    {
+      "id": "EN-F-A03",
+      "segment_id": "EN02",
+      "paragraph": "final body paragraph beginning 'Have a look through the activities'",
+      "status": "KEEP",
+      "resolves": ["EN-R1-A04"],
+      "evidence": "The replacement asks adults to choose something they would like to join, then includes them in shared silliness. It no longer invites the reader to identify a difficult participant or laugh at someone's supposed overconfidence. The source-backed winter-sports image carries the charades humour earlier in the article.",
+      "targeted_action": "Retain. R1 participant-directed humour concern resolved."
+    },
+    {
+      "id": "EN-F-A04",
+      "segment_id": "EN02",
+      "paragraph": "shared-habits teaser and Ready for a weeknight section",
+      "status": "KEEP",
+      "evidence": "The borrowing question stays with an everyday phrase, song or way of making a sandwich rather than demanding an intimate disclosure or an investigation into who first started a habit. The options to use one part, sit out and skip without a backlog remain explicit.",
+      "targeted_action": "Retain. No new audience defect introduced by the bounded revisions."
+    },
+    {
+      "id": "EN-F-A05",
+      "segment_id": "EN01+EN02",
+      "paragraph": "complete articles, including metadata and CTAs",
+      "status": "KEEP",
+      "evidence": "The copy recognises parental workload through plausible scenes while offering a ready idea, not a higher standard of family life. The distinct evening-entry and adult-participation purposes are maintained. No urgency, scarcity, purchase pressure, behavioural promise or guaranteed relationship benefit appears. The next action is a preview-reading action without an invented URL or current-edition claim.",
+      "targeted_action": "Retain. No unresolved audience FIX or BLOCK remains in this review scope."
+    }
+  ],
+  "unresolved_findings": [],
+  "approval_limits": "Independent model audience review only; no claim of human family testing, full truth/mechanics clearance, owner acceptance or publication approval."
+}

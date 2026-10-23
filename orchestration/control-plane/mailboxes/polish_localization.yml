@@ -1,7 +1,7 @@
 lane: polish_localization
 title: Polish Localization Engine
 updated: '2026-10-23'
-status: HM_COMMS_V10_RHYTHM_OWNER_READ_CANDIDATE__NON_COMMS_PRESERVED
+status: GENTLE_STEPS_ARTICLES_V4_OWNER_READ_CANDIDATE__PL_EN_SAME_LANGUAGE_UPGRADES
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   engine_base_branch: codex/polish-engine-main-reconcile
@@ -25,9 +25,13 @@ branch_or_repo_state:
   detective_en_candidate_checkpoint: 6c4e735ef71fcf01d6bbe1364bb07ba7e8fd9cfb
   language_tool_current_head: 65191b3518399691dcdcbeaec905539dcfbaab9f
   detective_v10_parent_head: 22a43c14a6069bb3f37443c128c3e2d4b890436e
-milestone: Owner-requested English HMComms rhythm revision complete. One actual agent author, three independent
-  reviewers cover four stages. All34scenes/183turns, all30case-intro/task contexts considered. Real R1FIX and eight-turn
-  final closure, CLI PASS, PDF preservation PASS. Exact candidate 86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a
+  gentle_articles_upgrade_branch: codex/gentle-steps-articles-upgrade-20261023
+  gentle_articles_parent_head: 00beb0ffe274eb68ef424ece01b175194884c898
+milestone: Owner-requested V4 same-language upgrades complete for twoGentleSteps articles inPLandEN. One writer
+  and three actual independent reviewers, eight real finalstagePASS receipts; both rse-language checksPASS. Exact
+  PL e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee; EN 39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9.
+  TwoWord readercopies render-verified, fourMarkdownsources/SEOupdated with original Libraryidentities. All prior
+  book/app/site work unchanged.
 blocker:
 - Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer
   evidence not available.
@@ -56,9 +60,10 @@ dependencies_needed:
     reference contains abcabc placeholder back copy and front lower badge; do not promote this reference as a finished
     cover. Current production wrap was not inspected here.
 - lane: central_control_tower
-  need: Consume V3 bilingual Gentle Steps guides at localization/campaigns/gentle-steps/2026-10-21/v3 after owner
-    editorial approval. Website sole writer connects verified product/preview link and checks real formats/title,
-    language routing and current design. No website files changed by localization.
+  need: Consume V4 bilingual Gentle Steps articles at localization/campaigns/gentle-steps/2026-10-23/v4/ after owner
+    editorial acceptance. Two distinct intents, four same-language upgrades, eight actualreviewstagesPASS and twoCLIchecksPASS.
+    Preserve exact candidate hashes; website sole writer attaches verified matching preview/product route and actual
+    format availability. No website/app/book changes or publication by localization.
 - lane: detective_book_factory
   need: Consume EXACT Library V04 R8 Reader + Master + 90 hints + 30 solutions (all SHA-verified) as latest PL language
     candidate; produce complete designed Polish KDP proof using owner-approved art and maps. Test Case03 / 12 /
@@ -113,10 +118,15 @@ reusable_outputs:
 - localization/detective-en-upgrade/2026-10-21/v10/candidate/candidate.json
 - localization/detective-en-upgrade/2026-10-21/v10/candidate/HAPPY_MAKERS_COMMS_RHYTHM_EN.md
 - localization/detective-en-upgrade/2026-10-21/v10/integration/EDITORIAL_IMPORT_PACKET_HM_COMMS_V10.json
-next_safe_task: Existing sole BookFactory writer consumes exact V10 HMComms delta. Preserve full dialogue and183speaker
-  order; verify production fit/art and physical proof. No further dialogue rewrite without actual defect or owner
-  request.
-checkpoint_reference: localization/detective-en-upgrade/2026-10-21/v10/CHECKPOINT.md
+- localization/campaigns/gentle-steps/2026-10-23/v4/README.md
+- localization/campaigns/gentle-steps/2026-10-23/v4/candidate/candidate-pl.json
+- localization/campaigns/gentle-steps/2026-10-23/v4/candidate/candidate-en.json
+- localization/campaigns/gentle-steps/2026-10-23/v4/qa/FINAL_SUMMARY.json
+- localization/campaigns/gentle-steps/2026-10-23/v4/qa/LIBRARY_RECEIPT.json
+next_safe_task: Owner reads twoPL/twoEN V4articles. Existing sole websitewriter may consume exact approved Markdown
+  and attach verified matching preview route; verify actualpagefit and current formats before any separate publication.
+  Existing DetectiveV10handoff remains valid and unchanged.
+checkpoint_reference: localization/campaigns/gentle-steps/2026-10-23/v4/qa/FINAL_SUMMARY.json
 model_policy_ack:
   policy: rse-weekly-usage-2026-10-21-v1
   recommended_profile: production
@@ -124,8 +134,8 @@ model_policy_ack:
   runtime_reasoning_observed: NOT_EXPOSED
   runtime_speed_observed: NOT_EXPOSED
   application_status: RECOMMENDATION_ONLY
-revenue_policy_ack: 'Four actual useful agents: one dialogue writer, three independent reviewers; bounded34scenes.
-  No puzzle re-audit, engine feature, paid fallback or publication.'
+revenue_policy_ack: Bounded twoarticles xPL/EN; one writer, threeactualreviewers, targeted13phraseclosure. No book/puzzle
+  re-audit, newenginefeatures, paidfallback or publication.
 resolved_en_source_exceptions:
   version: V6
   cases:

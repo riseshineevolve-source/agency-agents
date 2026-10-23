@@ -1,0 +1,61 @@
+{
+  "reviewer": "/root/advent_en_editor",
+  "role": "native_language",
+  "stage": "final-bounded-closure-complete-reread",
+  "status": "PASS",
+  "candidate_sha256": "39e4a04916ea2f1d507fd755b44a06532ad28c06508339e7d12929f8cf5ecfe9",
+  "scope": "Complete final EN01 and EN02, including metadata, headings, all body paragraphs and CTAs; read-aloud rhythm, natural UK idiom, scene specificity, humour and independent article functions. Compared actual final text with exact reviewed R1, not only the change description. No candidate edits made.",
+  "complete_read": true,
+  "comparison": {
+    "reviewed_r1_sha256": "b1fa0509f3518aecd626382b19990dbaef110a2f96ac10eea8f77964d52d50b4",
+    "en01_unchanged": true,
+    "en02_actual_replacements": 5,
+    "candidate_json_matches_both_markdown_files": true,
+    "changes_match_declared_final_changes": true
+  },
+  "findings": [
+    {
+      "id": "EN-F-N01",
+      "segment_id": "EN01",
+      "paragraph": "complete article, with emphasis on opening, unfinished-evening invitation, three teasers and flexibility/closing section",
+      "status": "KEEP",
+      "evidence": "The full unchanged article still reads naturally aloud. The Christmas jumper, tea towel, sofa and lost glove are coherent UK household details. The willing-participants invitation supplies a plausible entry into an evening that is still in progress. The factory image, specific helpful act and return to the laundry carry the argument without an abstract emotional promise.",
+      "targeted_action": "Retain. No material native-language defect found."
+    },
+    {
+      "id": "EN-F-N02",
+      "segment_id": "EN02",
+      "paragraph": "H1 and One Sound Quieter paragraph",
+      "status": "KEEP",
+      "resolves": ["EN-R1-N03", "EN-R1-N04"],
+      "evidence": "'An Activity Advent Calendar Where Parents Get to Play Too' clearly states this article's audience and angle without the former malformed noun. One Sound Quieter now ends on the audible room experience, with no awkward claim about changing personality.",
+      "targeted_action": "Retain. Both R1 native-language fixes are resolved."
+    },
+    {
+      "id": "EN-F-N03",
+      "segment_id": "EN02",
+      "paragraph": "Reverse Charades and shared-habits teaser paragraphs",
+      "status": "KEEP",
+      "evidence": "The guesser's role is introduced before the others choose and act the prompt, removing the earlier simultaneous-selection implication. The movement/snow-sports image remains clear and amusing. 'Which small habit have you borrowed, and from whom?' is natural written English after the mum/song/Grandad examples, and the familiar tone is an observable detail rather than sentimental abstraction.",
+      "targeted_action": "Retain. This confirms clear English sequence and wording; formal source-mechanics clearance remains with the truth reviewer."
+    },
+    {
+      "id": "EN-F-N04",
+      "segment_id": "EN02",
+      "paragraph": "Ready for a weeknight section, final invitation and CTA",
+      "status": "KEEP",
+      "evidence": "The changed final invitation is conversational and develops the adult's chance to join in. The support section is concise and easy to follow. Permission for grown-ups to be ridiculous is a light inclusive line, not a judgement about a named or imagined family member.",
+      "targeted_action": "Retain. No further stylistic rewrite is justified by a demonstrated reader defect."
+    },
+    {
+      "id": "EN-F-N05",
+      "segment_id": "EN01+EN02",
+      "paragraph": "whole-article structures, metadata and CTAs",
+      "status": "KEEP",
+      "evidence": "EN01 addresses how to begin with the evening already available; EN02 presents the ready-made calendar through parents participating. The shared labels and product facts are functional, while the scene work and surrounding argument remain distinct. UK variety is consistent. Metadata matches article intent and the CTAs do not invent a route or availability.",
+      "targeted_action": "Retain. No unresolved native-language FIX or BLOCK remains in this review scope."
+    }
+  ],
+  "unresolved_findings": [],
+  "approval_limits": "Independent model language review only; no claim of human native-speaker approval, full truth/mechanics clearance, owner acceptance, print readiness or publication approval."
+}
