@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-23
-status: SKELETON_LOBBY_DEPTH_PAIRED_PLANTS_V36_DELIVERED
+status: SKELETON_SECOND_OPTICAL_CORRIDOR_V37_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "V36 lobby depth restored with dimensional receding portals and curved floor bands; second matching optical ribbon plant added at right."
+milestone: "V37 upper-right stairs replaced with second receding optical corridor and flat curved floor bands; central corridor and paired plants retained."
 blocker: null
-owner_gate: "Owner visual response to V36 lobby-only refinement; other scenes closed."
+owner_gate: "Owner visual response to V37 staircase-to-corridor edit; other scenes closed."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve V36 and other finals; only explicit owner correction/proven blocker."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_SKELETON_LOBBY_DEPTH_PAIRED_PLANTS_V36.md"
+next_safe_task: "Preserve V37 and other finals; only explicit owner correction/proven blocker."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_SKELETON_SECOND_OPTICAL_CORRIDOR_V37.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Actual V36 reviewed: spatial portal returns/vanishing depth and paired matching lobby plants; figure/reflection/sole/balcony botany retained visually."
+closing_pass_qa: "Actual V37 inspected: stairs absent, second optical corridor present. Central depth/paired plants and main skeleton/reflection/sole/balconies retained visually."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -222,3 +222,7 @@ skeleton_optical_night_plants_v35:
 skeleton_lobby_depth_paired_plants_v36:
   - "Top lobby only: dimensional deep tunnel and second matching optical plant; no table."
   - "Final exec-b1973aad-9439-459f-900c-7c1181f733d6.png SHA256 8219517aff2cc8efb96479cbb3630bc530520f48fbccbe87a53c0bfad812bd52."
+
+skeleton_second_optical_corridor_v37:
+  - "Stair opening becomes flat optical corridor with receding portals. No other scene reopened."
+  - "Final exec-884cea99-b9a2-421d-8ed9-5ddcd8fae7ee.png SHA256 02d269b9bd812066d24868f830fcb6270f4491283b66856bd91c5f67ef6d0640."
