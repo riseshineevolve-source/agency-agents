@@ -1,0 +1,235 @@
+{
+  "reviewer": "/root/hm10_comedy_editor",
+  "stage": "native_language",
+  "candidate_sha256": "7b5d441751ec0be8622ca5afd76aea7203f6bc752bc27b2fdee472e31c1bcef2",
+  "final_scenes_sha256": "b6be2bf21e784a6cf2c3e45884a56ee8f3ed444ec6e13c2c855ab30a8cdc3ee8",
+  "status": "FIX",
+  "comedy_status": "FIX",
+  "actual_review": true,
+  "review_scope": "All 34 complete scenes and 183 final turns, reader Markdown checked against final-scenes exact strings; canonical candidate.json hash verified. Read against all case introductions and task neighbours from earlier diagnostic. No candidate edits. No puzzle re-solving.",
+  "scenes_reviewed": 34,
+  "turns_reviewed": 183,
+  "native_idiom_assessment": "Natural English overall. No material wholesale grammar or idiom failure. Four bounded referent/comic comprehension fixes remain.",
+  "comedy_assessment": "A substantial, real upgrade over rejected V9: human motives, linked answers, varied premises and affectionate shared fallibility. Existing short punch turns should remain short. No general expansion, compression or template rewrite requested.",
+  "canonical_boundary_status": "PASS",
+  "proof_pdf_review": "NOT_RUN__NO_PDF_YET",
+  "required_findings": [
+    {
+      "id": "COM09",
+      "scene_id": "CASE09",
+      "turn": 6,
+      "severity": "required",
+      "type": "missing_referent",
+      "quote": "Then I need a better witness. Mine keeps agreeing with Grandma.",
+      "finding": "No witness supporting Alio has been introduced. 'Mine' therefore has no clear referent, and 'better witness' does not clearly mean Alio himself, a sibling, or his memory. The final comeback cannot land immediately.",
+      "required_change": "Give Alio's cake comeback an explicit referent or let him respond directly to having promised himself. Writer's proposed quiet-agreement/self-baking ending resolves this without changing the scene."
+    },
+    {
+      "id": "COM23",
+      "scene_id": "CASE23",
+      "turn": 5,
+      "severity": "required",
+      "type": "unestablished_comic_stake",
+      "quote": "I could. Easily. You're not allowed to count that as me playing, though.",
+      "finding": "The initial boast answers Luli, but 'count that as me playing' refers to no established rule, count or dispute. Luli has invited precisely this talk. It is unclear what Dilo is protecting himself from, so the final clause asks the reader to invent the joke's stakes.",
+      "required_change": "Retain Dilo's boast. Either finish there or make any further defence refer to something the preceding conversation actually establishes. Do not add an explanatory setup solely to support this tail."
+    },
+    {
+      "id": "COM26",
+      "scene_id": "CASE26",
+      "turn": 4,
+      "severity": "required",
+      "type": "spoken_comprehension",
+      "quote": "Nobody didn't get a word in then, either.",
+      "finding": "The good dinner/footnote jab already makes Luli fallible. This following clause switches 'nobody' between the imaginary witness and an ordinary negative pronoun while adding 'didn't'. On a first spoken reading, the family point is obscured by a double-negative puzzle.",
+      "required_change": "Make the interrupted family member(s) concrete, or stop after the dinner jab. Keep Bibi's affectionate defence of the footnote."
+    },
+    {
+      "id": "COM30",
+      "scene_id": "CASE30",
+      "turn": 4,
+      "severity": "required",
+      "type": "wrong_nearest_referent",
+      "quote": "Mine's in there too. It's getting very crowded.",
+      "finding": "Luli has just said 'your head' to Dilo. Nini's 'in there too' therefore puts her victory noise into Dilo's head. The intended shared excitement becomes an unexplained shared-head image.",
+      "required_change": "Make Nini's own head the location or otherwise give her anticipation a clear physical referent. Keep the victory noise unreleased."
+    }
+  ],
+  "nonblocking_notes": [
+    "CASE08 locked-route assertion, CASE18 new-watch source and CASE22 labels-as-solution are independently owned by meaning review. Their responses are comically sound; preserve those chains while fixing facts.",
+    "CASE21, CASE29 and Bibi’s final reassurance do not need jokes inserted.",
+    "No unearned all-caps comic emphasis or broad office-jargon problem remains in this candidate."
+  ],
+  "scenes": [
+    {
+      "scene_id": "INTRO07",
+      "status": "PASS",
+      "actual_review_observation": "PASS: Luli weaponises Mimi’s own instruction; Dilo turns finding Mom’s phone into a familiar chore. Three genuinely linked turns."
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "status": "PASS",
+      "actual_review_observation": "PASS: theories compete for wall space, Nini reserves unknowns, Bibi includes everyone in fallibility. Mimi makes reader physically welcome."
+    },
+    {
+      "scene_id": "CASE01",
+      "status": "PASS",
+      "actual_review_observation": "PASS: imagined minivan gains seats and a window request. The family plays with one clear absurd proposal; no instruction tail."
+    },
+    {
+      "scene_id": "CASE02",
+      "status": "PASS",
+      "actual_review_observation": "PASS: suspicious tidiness becomes Alio’s own guilty habit; he defends himself, Mimi reclaims the file, Nini supplies a compact impossibility."
+    },
+    {
+      "scene_id": "CASE03",
+      "status": "PASS",
+      "actual_review_observation": "PASS: useless glitter inspector makes Dilo volunteer, then Luli punctures his stamina. Short final instruction is physical scene business, not a lecture."
+    },
+    {
+      "scene_id": "CASE04",
+      "status": "PASS",
+      "actual_review_observation": "PASS: Dilo assigns himself a seated sacrifice; Alio asks for the same privilege; Mimi exposes the disproportionate manpower. The box serves a human joke."
+    },
+    {
+      "scene_id": "CASE05",
+      "status": "PASS",
+      "actual_review_observation": "PASS: Luli knows the nearly-solved claim before Dilo makes it. Locker knowing its answer gives Nini’s badge question a clear final rebuttal."
+    },
+    {
+      "scene_id": "THREAD34",
+      "status": "PASS",
+      "actual_review_observation": "PASS: Luli accurately predicts Dilo; Nini admits incomprehensible notes; Bibi carries the joke into an archive invitation. Distinct voices."
+    },
+    {
+      "scene_id": "CASE06",
+      "status": "PASS",
+      "actual_review_observation": "PASS: drawing becomes soup, cookbook, Grandma’s burned dinners and then real history. Bibi’s final literal defence is clear, warm and properly responsive."
+    },
+    {
+      "scene_id": "CASE07",
+      "status": "PASS",
+      "actual_review_observation": "PASS: slow fruitless search is visible; Alio counts exclusions as achievement; Mimi’s brooms bookend her weary affection."
+    },
+    {
+      "scene_id": "CASE08",
+      "status": "PASS",
+      "actual_review_observation": "PASS for language/comic chain: immediate reconsidering versus a family expedition to reconsider is intelligible; Dilo wants a seat. Story guard owns unsupported locked-door assertion."
+    },
+    {
+      "scene_id": "CASE09",
+      "status": "FIX",
+      "actual_review_observation": "FIX: cake self-promise is sound; final witness referent is missing. First five turns need no reauthoring."
+    },
+    {
+      "scene_id": "CASE10",
+      "status": "PASS",
+      "actual_review_observation": "PASS: coveted rover, convenient proposed custody, room beside chair and voluntary sitter offer all reveal the same Dilo motive."
+    },
+    {
+      "scene_id": "CASE11",
+      "status": "PASS",
+      "actual_review_observation": "PASS: protected original undercover exchange now earns a label-rule jab and breakfast/source payoff. Good short turns preserved."
+    },
+    {
+      "scene_id": "CASE12",
+      "status": "PASS",
+      "actual_review_observation": "PASS: repeated cracker makes Dilo a slow waiter; Nini understands the bird sooner. Handler exit stays inside the joke."
+    },
+    {
+      "scene_id": "CASE13",
+      "status": "PASS",
+      "actual_review_observation": "PASS: Nini solves imaginary equipment problem; Luli catches herself wanting to see the fox. Her susceptibility supplies warmth and avoids permanent-corrector role."
+    },
+    {
+      "scene_id": "CASE14",
+      "status": "PASS",
+      "actual_review_observation": "PASS: book-lunch memory turns into chapter checking and fictional feast against half a real sandwich. Luli can tell the joke on herself."
+    },
+    {
+      "scene_id": "CASE15",
+      "status": "PASS",
+      "actual_review_observation": "PASS: uncharged satellite idea loses to tags; Alio returns the family-problem framing against Mimi’s phone. Clear affectionate bite."
+    },
+    {
+      "scene_id": "CASE16",
+      "status": "PASS",
+      "actual_review_observation": "PASS: Bibi defends the oversized hat through sandwich preservation; rental boundary ends a coherent shared fantasy. Mimi has family history rather than another rule."
+    },
+    {
+      "scene_id": "CASE17",
+      "status": "PASS",
+      "actual_review_observation": "PASS: helmet caution becomes actual backpack hazard, announced passing, then small sandwich priority. Speech is idiomatic and the human action is clear."
+    },
+    {
+      "scene_id": "CASE18",
+      "status": "PASS",
+      "actual_review_observation": "PASS for voice/comedy: owner pivot preserved, Dilo admits correction, Luli helps without humiliating him. Story guard owns the new-watch issue."
+    },
+    {
+      "scene_id": "CASE19",
+      "status": "PASS",
+      "actual_review_observation": "PASS: Luli loses the chance to tease because Dilo checked first; Nini cares for imaginary guest; Wi-Fi line is a specific Dilo finish."
+    },
+    {
+      "scene_id": "CASE20",
+      "status": "PASS",
+      "actual_review_observation": "PASS: Pear named Pear is simple Nini literalism and sets up the compact paint/alibi cap. No need to lengthen it."
+    },
+    {
+      "scene_id": "CASE21",
+      "status": "PASS",
+      "actual_review_observation": "PASS: quiet repair intentionally earns no comedy demand. Dilo regrets; Luli trusts; Bibi has incomplete recognition; Dilo participates. Tender rather than lecture-like."
+    },
+    {
+      "scene_id": "CASE22",
+      "status": "PASS",
+      "actual_review_observation": "PASS for language/comedy: viewpoint destroys Alio’s left-right system; labels remain on objects. Story guard owns labels-as-solution ambiguity."
+    },
+    {
+      "scene_id": "CASE23",
+      "status": "FIX",
+      "actual_review_observation": "FIX: number/tone centre is excellent; Luli’s invitation lets Dilo boast. Last clause invokes an unestablished count/rule."
+    },
+    {
+      "scene_id": "CASE24",
+      "status": "PASS",
+      "actual_review_observation": "PASS: shared silence earns Mimi’s photograph and Alio’s fair family album. Phone comeback distributes fallibility."
+    },
+    {
+      "scene_id": "CASE25",
+      "status": "PASS",
+      "actual_review_observation": "PASS: guarding against helping traps biscuit-fetching, then Mimi grants a destination. Clear physical family conversation with a proper final turn."
+    },
+    {
+      "scene_id": "THREAD120",
+      "status": "PASS",
+      "actual_review_observation": "PASS: Dilo’s visible pride, librarian audience, Bibi’s comparison with unfinished projects and Mimi’s elbow all concern the same actual stack."
+    },
+    {
+      "scene_id": "CASE26",
+      "status": "FIX",
+      "actual_review_observation": "FIX: favourite quiet witness and dinner-long footnote work; Nobody didn’t clause is a comprehension snag. Bibi’s defence is worth preserving."
+    },
+    {
+      "scene_id": "CASE27",
+      "status": "PASS",
+      "actual_review_observation": "PASS: excited clean finger is permission negotiation, Dilo teases, Bibi makes clear she trusts the whole child while protecting map. Excellent warmth."
+    },
+    {
+      "scene_id": "CASE28",
+      "status": "PASS",
+      "actual_review_observation": "PASS: decorative confidence lands unannounced, then adults admit their matching flaw. Last experience line needs no explanation."
+    },
+    {
+      "scene_id": "CASE29",
+      "status": "PASS",
+      "actual_review_observation": "PASS: supportive space and quiet are right here; no demand for a punch in every turn. Luli postpones teasing instead of mocking the effort."
+    },
+    {
+      "scene_id": "CASE30",
+      "status": "FIX",
+      "actual_review_observation": "FIX: shared anticipation and trusted-reader finish work. Nini’s location needs her own head, without releasing noise before the next scene."
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "reviewer": "/root/hm10_story_guard",
+  "candidate_sha256": "7b5d441751ec0be8622ca5afd76aea7203f6bc752bc27b2fdee472e31c1bcef2",
+  "final_scenes_sha256": "b6be2bf21e784a6cf2c3e45884a56ee8f3ed444ec6e13c2c855ab30a8cdc3ee8",
+  "status": "FIX",
+  "actual_review": true,
+  "review_scope": "All34 complete scenes/183turns read against original scene/task context and inherited meaning locks, full140\u2013147finale consulted. Canonical final strings bound. No unchanged puzzle re-solved.",
+  "scenes_reviewed": 34,
+  "turns_reviewed": 183,
+  "canonical_boundary_status": "PASS",
+  "proof_pdf_review": "NOT_RUN__NO_PDF_YET",
+  "required_findings": [
+    {
+      "id": "STORY08",
+      "scene_id": "CASE08",
+      "turn": 2,
+      "severity": "required",
+      "type": "unsupported_case_specific_fact",
+      "quote": "It also gets us to a locked door.",
+      "finding": "The task establishes that a route using the locked Staff Stairs fails, but the scene context does not establish that Alio's shortest route uses it. This assertion adds route evidence or prematurely evaluates one route without artwork verification.",
+      "required_change": "Make the obstacle discussion hypothetical or otherwise avoid asserting a particular drawn route fails; preserve the family exchange."
+    },
+    {
+      "id": "STORY18",
+      "scene_id": "CASE18",
+      "turn": 5,
+      "severity": "required",
+      "type": "new_timing_source",
+      "quote": "We can use my watch while yours enjoys being dignified.",
+      "finding": "The task compares four historical records converted from three specified clocks. Offering a new watch as usable timing evidence can imply a fourth uncalibrated source replaces printed offsets.",
+      "required_change": "Retain Luli helping check corrected records and the dignity joke without introducing her watch as a timing source."
+    },
+    {
+      "id": "STORY22",
+      "scene_id": "CASE22",
+      "turn": 5,
+      "severity": "required",
+      "type": "bounded_task_surrogate_ambiguity",
+      "quote": "Let's use those. I don't want to solve this again every time Alio changes seats.",
+      "finding": "The preceding label/left-right joke is valid identity humor, but the concluding solve directive can imply labels settle the shelf mix-up. Actual task finds Zara's contact to establish original shelf order. No printed label evidence proves the order.",
+      "required_change": "Keep labels as stable case identification or keep the joke; avoid presenting them as a substitute solution to the shelf-order/witness task. No extra task-reminder ending is required."
+    }
+  ],
+  "nonblocking_notes": [
+    {
+      "scene_id": "CASE01",
+      "turn": 3,
+      "status": "PASS",
+      "quote": "You've arranged transport before finding a single clue?",
+      "reason": "Luli addresses Alio's just-invented tunnel/minivan theory; naturally reads as no supporting clue for his transport. No statement that envelope file lacks evidence. Optional narrower referent allowed, not required."
+    },
+    {
+      "scene_id": "CASE30",
+      "turn": 4,
+      "status": "OPTIONAL_CLARITY",
+      "quote": "Mine's in there too. It's getting very crowded.",
+      "reason": "Nearest head referent is Dilo's; intended shared anticipation may be read as Nini's noise occupying his head. Own-head referent would improve immediate clarity, but joke changes no field, timing or evidence."
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "INTRO07",
+      "status": "PASS",
+      "actual_review_observation": "Missing phone remains missing; household badge joke does not award field certification."
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "status": "PASS",
+      "actual_review_observation": "Facts/theories/unknown corner banter creates no extra required wall field; reader gets room."
+    },
+    {
+      "scene_id": "CASE01",
+      "status": "PASS",
+      "actual_review_observation": "Internal origin accurate; tunnel/minivan explicitly Alio fantasy; no helper or coordinate exposed."
+    },
+    {
+      "scene_id": "CASE02",
+      "status": "PASS",
+      "actual_review_observation": "Cup back and blank sheet accurate; harmless scissors history; ask someone present, no carrier claim."
+    },
+    {
+      "scene_id": "CASE03",
+      "status": "PASS",
+      "actual_review_observation": "Sparkle is comic appointment; all ten differences remain to find; no017/071 or old/current leak."
+    },
+    {
+      "scene_id": "CASE04",
+      "status": "PASS",
+      "actual_review_observation": "Pixel companion explicitly next useful witness; seated box patrol family joke creates no handoff answer."
+    },
+    {
+      "scene_id": "CASE05",
+      "status": "PASS",
+      "actual_review_observation": "Competition metaphor retains six symbols/one locker; no sequence position or bypass."
+    },
+    {
+      "scene_id": "THREAD34",
+      "status": "PASS",
+      "actual_review_observation": "Four marks still unexplained; archive names unknown; printer answer request is frustrated joke."
+    },
+    {
+      "scene_id": "CASE06",
+      "status": "PASS",
+      "actual_review_observation": "Dragon is explicitly Nini drawing; burned dinners harmless history, no changed actual spoon evidence."
+    },
+    {
+      "scene_id": "CASE07",
+      "status": "PASS",
+      "actual_review_observation": "Cupboards not costume discovery; giant costume size supports comic fruitless search; no prop-room reveal."
+    },
+    {
+      "scene_id": "CASE08",
+      "status": "FIX",
+      "actual_review_observation": "Unverified assertion about shortest route adds route-specific evidence; requires hypothetical treatment."
+    },
+    {
+      "scene_id": "CASE09",
+      "status": "PASS",
+      "actual_review_observation": "Bibi checks uncertain memory; cake self-promise clear family history; no mark meaning or author."
+    },
+    {
+      "scene_id": "CASE10",
+      "status": "PASS",
+      "actual_review_observation": "Rover-sitting convenience joke does not claim ownership; sheets first; no duplicate revelation."
+    },
+    {
+      "scene_id": "CASE11",
+      "status": "PASS",
+      "actual_review_observation": "Phone found and oat bar are established; source/breakfast metaphor no wrong A\u2013D timestamp."
+    },
+    {
+      "scene_id": "CASE12",
+      "status": "PASS",
+      "actual_review_observation": "Cracker/order misunderstanding and handler retain unknown four-word source; no cue reveal."
+    },
+    {
+      "scene_id": "CASE13",
+      "status": "PASS",
+      "actual_review_observation": "Fox remains drawn theory, not witness; strap is imaginary drawing addition, no timing result."
+    },
+    {
+      "scene_id": "CASE14",
+      "status": "PASS",
+      "actual_review_observation": "Certainty distinguished from mixed memories; lunch/books history safe; no journey answer or speed change."
+    },
+    {
+      "scene_id": "CASE15",
+      "status": "PASS",
+      "actual_review_observation": "Name tags explicitly next-trip future measure; satellite idea not installed current GPS."
+    },
+    {
+      "scene_id": "CASE16",
+      "status": "PASS",
+      "actual_review_observation": "Current hat only; sandwiches harmless recalled use, no hat in photo/date clue; building/year untouched."
+    },
+    {
+      "scene_id": "CASE17",
+      "status": "PASS",
+      "actual_review_observation": "Helmet/backpack/sandwich family exchange; tickets ordinary ticket-hall prop, no ticket handoff solution."
+    },
+    {
+      "scene_id": "CASE18",
+      "status": "FIX",
+      "actual_review_observation": "Dilo accepts correction and Luli supports him; added watch could be new source, requires removal or disambiguation."
+    },
+    {
+      "scene_id": "CASE19",
+      "status": "PASS",
+      "actual_review_observation": "Digital ghost held outside evidence; scanner checked but cart bump not revealed; growth retained."
+    },
+    {
+      "scene_id": "CASE20",
+      "status": "PASS",
+      "actual_review_observation": "Pear explicitly paint; desire to know mover not claim map proves mover; no two-account timing revelation."
+    },
+    {
+      "scene_id": "CASE21",
+      "status": "PASS",
+      "actual_review_observation": "Tender invitation after mistake, no ridicule; joins checked, sleeve follows fit; familiar hand unconfirmed."
+    },
+    {
+      "scene_id": "CASE22",
+      "status": "FIX",
+      "actual_review_observation": "Left/right relative viewpoint joke works; last directive risks labels becoming shelf-order solve method."
+    },
+    {
+      "scene_id": "CASE23",
+      "status": "PASS",
+      "actual_review_observation": "Scoreboard number/tone comedy; wristband file pulls Dilo away; no map-carrier/switcher promise."
+    },
+    {
+      "scene_id": "CASE24",
+      "status": "PASS",
+      "actual_review_observation": "Alio voluntarily pauses and Luli follows; no arrow method/direction/West Gate answer."
+    },
+    {
+      "scene_id": "CASE25",
+      "status": "PASS",
+      "actual_review_observation": "Parcel stays unmoved and unopened; cookies outside parcel, no contents/destination reveal."
+    },
+    {
+      "scene_id": "THREAD120",
+      "status": "PASS",
+      "actual_review_observation": "Exactly14selected maps named; finished stack pride and elbow joke do not add01 or alter order."
+    },
+    {
+      "scene_id": "CASE26",
+      "status": "PASS",
+      "actual_review_observation": "Rooms with nobody accurate; nobody witness metaphor adds no person, extraction clue or answer."
+    },
+    {
+      "scene_id": "CASE27",
+      "status": "PASS",
+      "actual_review_observation": "Clean hands/hover above sleeve no physical manipulation requirement; trusting finger joke no one-anchor solve."
+    },
+    {
+      "scene_id": "CASE28",
+      "status": "PASS",
+      "actual_review_observation": "Tunnel decorative confidence unproved; adults self-own; no missing rule word or author reveal."
+    },
+    {
+      "scene_id": "CASE29",
+      "status": "PASS",
+      "actual_review_observation": "Space/time/support retained; no companion/D3; family quiet helps rather than pressures reader."
+    },
+    {
+      "scene_id": "CASE30",
+      "status": "PASS",
+      "actual_review_observation": "Wall and credential ready; victory held until door opens; four inputs and later author/room/badge intact. Optional noise-head clarity."
+    }
+  ],
+  "stage": "logic",
+  "focus": "Independent logic-stage receipt from same actual complete review: comms do not alter task mechanics, admit new evidence sources or bypass fixed proof; protected canonical puzzles/hints/solutions exact.",
+  "protected_2847_units_exact": true,
+  "v8_143_non_comms_repairs_exact": true,
+  "mixed137_prefix_exact": true,
+  "speaker_order_183_exact": true,
+  "unchanged_puzzles_resolved_again": false
+}

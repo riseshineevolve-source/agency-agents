@@ -1,0 +1,542 @@
+{
+  "reviewer": "/root/hm10_story_guard",
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "final_scenes_sha256": "f668196ee4ab019f9e6cc62a3bab897fc1edb4623362fe5bd03057d6c37db9c3",
+  "baseline_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "status": "PASS",
+  "canonical_units": 3067,
+  "canonical_id_order_exact": true,
+  "changed_units": 215,
+  "out_of_allowlist_changes": [],
+  "protected_nonallowlist_units": 2847,
+  "protected_nonallowlist_byte_differences": [],
+  "partial137_prefix_exact": true,
+  "partial137_prefix_sha256": "5c89ec026ac0186446a7a74cd25659af1602bd5e90813d600dc98d538632d03c",
+  "v8_non_comms_repairs_exact": {
+    "count": 143,
+    "differences": []
+  },
+  "speaker_portrait_binding": "Existing labels/portrait units retained by exact protected canonical unit equality; turn IDs and speaker metadata compared to source for all34. Same final string order verified inside canonical units.",
+  "scene_count": 34,
+  "turn_count": 183,
+  "scenes": [
+    {
+      "scene_id": "INTRO07",
+      "turn_count": 3,
+      "speaker_order": [
+        "MIMI",
+        "LULI",
+        "DILO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "BIBI",
+        "MIMI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE01",
+      "turn_count": 5,
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE02",
+      "turn_count": 5,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "NINI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE03",
+      "turn_count": 5,
+      "speaker_order": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE04",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE05",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "THREAD34",
+      "turn_count": 4,
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE06",
+      "turn_count": 8,
+      "speaker_order": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE07",
+      "turn_count": 5,
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE08",
+      "turn_count": 5,
+      "speaker_order": [
+        "ALIO",
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "DILO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE09",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "BIBI",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "ALIO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE10",
+      "turn_count": 5,
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE11",
+      "turn_count": 6,
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "MIMI",
+        "DILO",
+        "MIMI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE12",
+      "turn_count": 5,
+      "speaker_order": [
+        "DILO",
+        "NINI",
+        "DILO",
+        "NINI",
+        "DILO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE13",
+      "turn_count": 6,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "LULI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE14",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "NINI",
+        "LULI",
+        "MIMI",
+        "ALIO",
+        "LULI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE15",
+      "turn_count": 4,
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "ALIO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE16",
+      "turn_count": 6,
+      "speaker_order": [
+        "ALIO",
+        "BIBI",
+        "MIMI",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE17",
+      "turn_count": 6,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE18",
+      "turn_count": 5,
+      "speaker_order": [
+        "MIMI",
+        "DILO",
+        "NINI",
+        "DILO",
+        "LULI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE19",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE20",
+      "turn_count": 6,
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "DILO",
+        "MIMI",
+        "NINI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE21",
+      "turn_count": 7,
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI",
+        "DILO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE22",
+      "turn_count": 5,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "DILO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE23",
+      "turn_count": 5,
+      "speaker_order": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE24",
+      "turn_count": 6,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "LULI",
+        "MIMI",
+        "ALIO"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE25",
+      "turn_count": 5,
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "DILO",
+        "ALIO",
+        "MIMI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "THREAD120",
+      "turn_count": 5,
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "MIMI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE26",
+      "turn_count": 5,
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "MIMI",
+        "BIBI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE27",
+      "turn_count": 5,
+      "speaker_order": [
+        "BIBI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE28",
+      "turn_count": 5,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "BIBI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE29",
+      "turn_count": 5,
+      "speaker_order": [
+        "MIMI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    },
+    {
+      "scene_id": "CASE30",
+      "turn_count": 5,
+      "speaker_order": [
+        "MIMI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ],
+      "speaker_order_vs_source": "PASS",
+      "canonical_turn_text_binding": "PASS",
+      "binding_fail_turns": []
+    }
+  ],
+  "puzzle_solves_repeated": false,
+  "pdf_binding": {
+    "status": "PASS",
+    "receipt": "PDF_PRESERVATION_BINDING.json",
+    "receipt_sha256": "ca7fea0ca6e507300c5c26931433d5f3775745555f72f9cbf53a923215991073",
+    "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+    "book_pdf_sha256": "3ae4a92a35d1181b49211178b2bb3cedee4e95fff80f42c1c890de2f2aecc074",
+    "standalone_pdf_sha256": "45f0cb47f4c487ec838f8eb1e26b0526c023ba35e7fd3b28a2566c7bf3798dd5",
+    "untouched190_exact_text_pixels": true,
+    "changed35_strict_nonComms_remainder_exact": true,
+    "all183_speech_speaker_pairs_both_outputs": true,
+    "visual_scope": "Lowresolutionpixelidentityonlyon190untouchedleaves;changedlayoutvisualreviewseparate."
+  },
+  "r1_closure": {
+    "r1_candidate_sha256": "7b5d441751ec0be8622ca5afd76aea7203f6bc752bc27b2fdee472e31c1bcef2",
+    "delta_turns": 8,
+    "changed_complete_scenes_actually_reread": [
+      "CASE02",
+      "CASE08",
+      "CASE09",
+      "CASE18",
+      "CASE22",
+      "CASE23",
+      "CASE26",
+      "CASE30"
+    ],
+    "unchanged_scenes_exact": 26,
+    "all_actual_deltas_match_writer_manifest": true
+  }
+}

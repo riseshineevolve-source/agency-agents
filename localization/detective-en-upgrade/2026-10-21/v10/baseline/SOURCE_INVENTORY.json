@@ -1,0 +1,9 @@
+{
+  "authority": "OWNER_AUTHORITY.json",
+  "baseline_v9_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "baseline_v8_pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "engine": "qa/ENGINE_SNAPSHOT.json",
+  "only_editable_content": "220HMComms stable IDs; mixed137narrativeprefix protected",
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "unchanged_puzzle_audit": "Prior verifiedV8/V9 evidence retained after exact binding; no new unchanged puzzle solve claimed."
+}

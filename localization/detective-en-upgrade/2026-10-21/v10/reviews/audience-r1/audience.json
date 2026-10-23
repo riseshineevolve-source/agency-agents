@@ -1,0 +1,220 @@
+{
+  "candidate_sha256": "7b5d441751ec0be8622ca5afd76aea7203f6bc752bc27b2fdee472e31c1bcef2",
+  "candidate_file": "candidate/final-scenes.json",
+  "reviewer_role": "Audience/family-ear editorial reviewer, ages 8–12",
+  "scope": "All 34 actual R1 scenes / all 183 turns, read with CASE_CONTEXT_PACKET.md, VERSION_REFERENCE.md, source-scenes.json and baseline character/story context. No candidate edits.",
+  "overall_status": "FIX",
+  "required_fix_ids": [
+    "CASE09",
+    "CASE23",
+    "CASE26",
+    "CASE30"
+  ],
+  "limits": "Editorial inference, not testing with children or psychological evaluation. PASS evaluates comprehension, humor and family voice; it does not overrule story/fact/solver guards. PDF readability sample pending.",
+  "scenes": [
+    {
+      "id": "INTRO07",
+      "status": "PASS",
+      "finding": "The command not to move anything becomes Luli’s excuse for leaving Mom’s lost phone lost; Dilo claims a family chore as detective work. Immediate familiar family stakes.",
+      "turn_count": 3
+    },
+    {
+      "id": "CASEWALL12",
+      "status": "PASS",
+      "finding": "Dilo’s self-importance, Alio’s comparison trick, and Nini’s unknown corner give distinct desires. Bibi joins the joke; Mimi lets the reader see through the family physically occupying the wall. No lesson after punch.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE01",
+      "status": "PASS",
+      "finding": "A minivan with family seats makes the absurd theory visual and gives Nini and Dilo a way to play along. Luli’s sharp transport jab does not become a pile-on.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE02",
+      "status": "PASS",
+      "finding": "Alio’s suspicious tidiness becomes an everyday scissors argument; he pushes back. The blank return sheet remains recognizable. Nini’s no-pockets line follows the Cup comparison without relying on a puzzle answer.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE03",
+      "status": "PASS",
+      "finding": "Sparkle gets a name and Dilo wants its easy important-looking job. Luli’s chair-at-lunchtime jab targets his comfort, not his worth. Ten differences supplies task context without teaching a method.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE04",
+      "status": "PASS",
+      "finding": "Dilo gives himself the seated duty, Mimi catches him, Alio contests the senior privilege, and Mimi takes the walking job. Everyone can tease and answer; the box is clearly sealed.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE05",
+      "status": "PASS",
+      "finding": "Dilo reserves the right to say he nearly solved it. Luli’s answer-space jab and locker’s unfair knowledge turn a competitive kid habit into a concrete joke. More legible than conflict of interest.",
+      "turn_count": 6
+    },
+    {
+      "id": "THREAD34",
+      "status": "PASS",
+      "finding": "Luli recognizes Dilo’s inability to accept an easy answer. Nini’s thing-from-thing note is familiar to young readers. Bibi’s archive visit turns backs-of-things into a family callback.",
+      "turn_count": 4
+    },
+    {
+      "id": "CASE06",
+      "status": "PASS",
+      "finding": "Nini wants to keep her dragon; Luli helps; Dilo adds a real cooking question. Grandma’s burned dinners are the surprise and she answers Nini cleanly: Those dinners happened. Adults can be silly and useful.",
+      "turn_count": 8
+    },
+    {
+      "id": "CASE07",
+      "status": "PASS",
+      "finding": "Mimi is tired of cupboards; Alio insists the search did eliminate places. Nini’s huge costume makes the physical mismatch clear. Brooms get names as a cap, not a safety lecture.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE08",
+      "status": "PASS",
+      "finding": "As comedy, the saved-time/locked-door exchange is clear and Alio owns a face-saving delay. Dilo wants to sit while reconsidering, a recognizable family complaint. This audience pass does not override the separate story-truth objection to asserting a locked door.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE09",
+      "status": "FIX",
+      "finding": "Alio’s Mine keeps agreeing with Grandma has no established witness referent. His own memory, himself, and another family member are possible. The punchline asks the reader to reconstruct who Mine is rather than enjoy Grandma exposing the self-promised cake.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE10",
+      "status": "PASS",
+      "finding": "Dilo wants the rover beside him and Luli sees the motive. He bargains rather than merely accepting a lesson. Temporary rover sitter is readable desire, not evidence of incompetence.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE11",
+      "status": "PASS",
+      "finding": "The rapid phone/oat-bar/source exchange retains its strong nucleus. Dilo can cite Mom’s own standard; her eating the source delivers a concrete final turn rather than explaining the joke.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE12",
+      "status": "PASS",
+      "finding": "Nini interprets the parrot’s cracker request while Dilo understands the bird but wants his serious question answered. Slow waiter gives a clear comic result; no child is lectured to listen better.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE13",
+      "status": "PASS",
+      "finding": "Nini now helps Alio’s tiny camera equipment fantasy; Luli is drawn in too. This restores a playmate and a comeback instead of everyone disproving the fox. Clear to readers without solving camera case.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE14",
+      "status": "PASS",
+      "finding": "The book-lunch memory is shown through checking chapters and a fictional feast. Mom sharing sandwich is care shown in the family anecdote. Luli admits fallibility and ends with a dry answer.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE15",
+      "status": "PASS",
+      "finding": "Mimi wins with tags and Alio immediately returns fire about her phone. Both remain competent enough to propose solutions; cardboard does not become a lecture about technology.",
+      "turn_count": 4
+    },
+    {
+      "id": "CASE16",
+      "status": "PASS",
+      "finding": "Bibi counters the hat insult with a grandmother already occupying it and successful sandwich shelter. Mimi’s own childhood memory broadens affection. The family participates in the architecture conceit.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE17",
+      "status": "PASS",
+      "finding": "Backpack danger, Coming through, and a tiny sandwich make the railway helmet physical rather than bureaucratic. Alio answers back. Optional craft concern: three relatives target him here; avoid sharpening all three jabs in revision, since he needs his dignity across the book.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE18",
+      "status": "PASS",
+      "finding": "Watch dignity versus owner pride is short and readable. Dilo has already corrected himself; Luli works with him rather than praising improvement. The separate introduced-watch-source truth issue remains outside this comedy pass.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE19",
+      "status": "PASS",
+      "finding": "Luli admits she wanted to tease; Nini hosts the waiting ghost; Dilo withholds Wi-Fi. Luli’s thwarted-teasing line is a sibling desire rather than a lesson about speculation. Ghost requires no supernatural knowledge.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE20",
+      "status": "PASS",
+      "finding": "Pear’s eyebrows and literal name make the visual game concrete. Mimi is gently impatient and lands the straight paint line. Strong alibi stops the scene where it should stop.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE21",
+      "status": "PASS",
+      "finding": "Dilo’s short regret is answered by an actual job beside Luli. Bibi’s uncertain recognition stays uncertain. No joke exploits the torn paper; Dilo takes one edge and gives the reader the next. Quiet care preserved.",
+      "turn_count": 7
+    },
+    {
+      "id": "CASE22",
+      "status": "PASS",
+      "finding": "Left changes as Alio walks around the table; labels do not. This is an understandable spatial joke with Alio owning the failure of his temporary system. Story guard must separately resolve whether labels are falsely offered as the puzzle solution.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE23",
+      "status": "FIX",
+      "finding": "The first three lines are excellent. The last line says boasting on the walk is not to count as playing, but no rule or competing interpretation has established why it might count. That final reservation is too hard to cash out as a joke; give him an immediately clear complaint about leaving his scoreboard rival.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE24",
+      "status": "PASS",
+      "finding": "Voluntarily is an affectionate sibling sting; Alio’s phone/fair-album comeback balances Mom’s photographing rare quiet. The scene shows looking before speaking without narrating his moral progress.",
+      "turn_count": 6
+    },
+    {
+      "id": "CASE25",
+      "status": "PASS",
+      "finding": "Over-helped parcel, pocketed hands and impossible cookie delivery form a physical sequence. Alio has an answer to being suspected and Mimi changes the rule for food. Family warmth comes from shared cookies.",
+      "turn_count": 5
+    },
+    {
+      "id": "THREAD120",
+      "status": "PASS",
+      "finding": "Dilo showing off a solved stack is earned silly pride. Bibi’s unfinished-project jab is pointed but supports the achievement, and Mom’s trapped elbow gives it a physical cost. No motivational tag.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE26",
+      "status": "FIX",
+      "finding": "Nobody personification works in Dilo and Luli’s lines. Mimi’s Nobody didn’t get a word in then, either combines that personification with an ordinary double negative; it takes a second parse to see that nobody is the silent witness. Preserve the pointed footnote-at-dinner jab and Bibi enjoying it, but make the silence outcome immediately readable.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE27",
+      "status": "PASS",
+      "finding": "Bibi sets one care boundary, invites Alio to show his observation, and defends him against Dilo while still protecting the map. Alio’s excitement has a real place. Her warmth appears as trust and comic spatial preference, not praise.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE28",
+      "status": "PASS",
+      "finding": "Evidence question, decorative confidence, and adults asking for their own cards make a clear escalation. Abstract phrase has a visible theory card and heading for support. Adults are implicated without a long confession.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE29",
+      "status": "PASS",
+      "finding": "Team makes room and holds the curling map; Nini’s patience has a concrete job. Dilo offers quiet and Luli postpones teasing. Bibi leaves space for thought. Shared patience survives, with no demand for speed or extra reassurance sermon.",
+      "turn_count": 5
+    },
+    {
+      "id": "CASE30",
+      "status": "FIX",
+      "finding": "Luli explicitly puts Dilo’s victory noise in his head. Nini’s Mine’s in there too points into that same head, so crowded appears to mean noises sharing Dilo’s head. Give Nini her own head or a different unambiguous shared space; retain the held-breath family anticipation.",
+      "turn_count": 5
+    }
+  ]
+}

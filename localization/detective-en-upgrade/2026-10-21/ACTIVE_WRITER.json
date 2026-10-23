@@ -1,10 +1,9 @@
 {
-  "state": "HM_COMMS_RHYTHM_UPGRADE_WORKING",
-  "owner": "root_integrator_and_hm10_writer",
-  "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
-  "baseline_v8_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
-  "checkpoint": "v10/OWNER_AUTHORITY.json",
-  "rule": "New23Octoberownerrequest: HMCommsstillwordy/unfunny. Onefreshdialoguewriter, independentcomedy/audience/storyreviewers, all30caseintro/taskcontexts. No nonComms/puzzle changes.",
-  "next_safe_task": "ExistingsoleBookFactorywriterconsumesexactHMCommsfinaldelta overlockedV8. Preservefullspokenwordingand183speakerorder; verifyrealproductionfitandphysicalproof. No furtherdialoguerewritewithoutactualdefectorownerrequest.",
-  "baseline_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3"
+  "state": "HM_COMMS_V10_RHYTHM_OWNER_READ_CANDIDATE",
+  "owner": null,
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "baseline_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "checkpoint": "v10/CHECKPOINT.md",
+  "rule": "Only220HMComms units editable.2847protected nonComms units exact; all143V8nonComms repairs exact.34scenes/183speaker turns. No further rewrite without defect/owner request.",
+  "next_safe_task": "Existing sole BookFactory writer consumes exact V10 HMComms delta. Preserve full dialogue and183speaker order; verify production fit/art and physical proof. No further dialogue rewrite without actual defect or owner request."
 }

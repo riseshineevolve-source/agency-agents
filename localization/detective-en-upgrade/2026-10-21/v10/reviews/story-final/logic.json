@@ -1,0 +1,311 @@
+{
+  "reviewer": "/root/hm10_story_guard",
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "final_scenes_sha256": "f668196ee4ab019f9e6cc62a3bab897fc1edb4623362fe5bd03057d6c37db9c3",
+  "status": "PASS",
+  "actual_review": true,
+  "review_scope": "All34/183actually reviewed atR1; final8affectedcomplete scenes actually reread with intro/task context.26unchangedscene strings and speaker/ID sequence inherited only after exact comparison. No unchanged puzzle re-solved.",
+  "scenes_in_review_scope": 34,
+  "turns_in_review_scope": 183,
+  "final_changed_complete_scenes_actually_reread": [
+    "CASE02",
+    "CASE08",
+    "CASE09",
+    "CASE18",
+    "CASE22",
+    "CASE23",
+    "CASE26",
+    "CASE30"
+  ],
+  "unchanged_scene_count_exact": 26,
+  "r1_candidate_sha256": "7b5d441751ec0be8622ca5afd76aea7203f6bc752bc27b2fdee472e31c1bcef2",
+  "closure_delta_count": 8,
+  "all_manifest_deltas_exact": true,
+  "closure_deltas": [
+    {
+      "scene": "CASE02",
+      "turn": 5,
+      "speaker": "NINI",
+      "before": "And no pockets. We should probably ask someone who was in the room.",
+      "after": "I want to hear the scissors story later. The long version."
+    },
+    {
+      "scene": "CASE08",
+      "turn": 2,
+      "speaker": "MIMI",
+      "before": "It also gets us to a locked door. What happens to all that time you saved?",
+      "after": "Does that include the time we spend standing at locked doors?"
+    },
+    {
+      "scene": "CASE09",
+      "turn": 6,
+      "speaker": "ALIO",
+      "before": "Then I need a better witness. Mine keeps agreeing with Grandma.",
+      "after": "I was hoping one of you had agreed quietly. Now I'll have to bake it myself."
+    },
+    {
+      "scene": "CASE18",
+      "turn": 5,
+      "speaker": "LULI",
+      "before": "You have. I'll check the new ones with you. We can use my watch while yours enjoys being dignified.",
+      "after": "You have. I'll check the new times with you. The watch can carry on being dignified."
+    },
+    {
+      "scene": "CASE22",
+      "turn": 5,
+      "speaker": "DILO",
+      "before": "Let's use those. I don't want to solve this again every time Alio changes seats.",
+      "after": "Tell me before you change seats, Alio. I'm only just learning your system."
+    },
+    {
+      "scene": "CASE23",
+      "turn": 5,
+      "speaker": "DILO",
+      "before": "I could. Easily. You're not allowed to count that as me playing, though.",
+      "after": "Easily. Walk slowly. I haven't told you about my best score yet."
+    },
+    {
+      "scene": "CASE26",
+      "turn": 4,
+      "speaker": "MIMI",
+      "before": "Luli, you once explained a footnote all the way through dinner. Nobody didn't get a word in then, either.",
+      "after": "Luli, you once explained a footnote all the way through dinner. Your brothers barely managed to ask for the salt."
+    },
+    {
+      "scene": "CASE30",
+      "turn": 4,
+      "speaker": "NINI",
+      "before": "Mine's in there too. It's getting very crowded.",
+      "after": "Mine's already getting loud in my head."
+    }
+  ],
+  "canonical_boundary_status": "PASS",
+  "required_findings": [],
+  "unresolved_source_ambiguities": [],
+  "nonblocking_notes": [],
+  "scenes": [
+    {
+      "scene_id": "INTRO07",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Missing phone remains missing; household badge joke does not award field certification."
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Facts/theories/unknown corner banter creates no extra required wall field; reader gets room."
+    },
+    {
+      "scene_id": "CASE01",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Internal origin accurate; tunnel/minivan explicitly Alio fantasy; no helper or coordinate exposed."
+    },
+    {
+      "scene_id": "CASE02",
+      "status": "PASS",
+      "review_basis": "ACTUAL_FINAL_COMPLETE_SCENE_READ_IN_CONTEXT",
+      "observation": "Actual complete scene reread. Nini requests the later scissors story; no pockets ambiguity and no task/answer claim. Harmless curiosity extends the family exchange without puzzle instruction."
+    },
+    {
+      "scene_id": "CASE03",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Sparkle is comic appointment; all ten differences remain to find; no017/071 or old/current leak."
+    },
+    {
+      "scene_id": "CASE04",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Pixel companion explicitly next useful witness; seated box patrol family joke creates no handoff answer."
+    },
+    {
+      "scene_id": "CASE05",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Competition metaphor retains six symbols/one locker; no sequence position or bypass."
+    },
+    {
+      "scene_id": "THREAD34",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Four marks still unexplained; archive names unknown; printer answer request is frustrated joke."
+    },
+    {
+      "scene_id": "CASE06",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Dragon is explicitly Nini drawing; burned dinners harmless history, no changed actual spoon evidence."
+    },
+    {
+      "scene_id": "CASE07",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Cupboards not costume discovery; giant costume size supports comic fruitless search; no prop-room reveal."
+    },
+    {
+      "scene_id": "CASE08",
+      "status": "PASS",
+      "review_basis": "ACTUAL_FINAL_COMPLETE_SCENE_READ_IN_CONTEXT",
+      "observation": "Actual complete scene reread. Locked-door question is hypothetical, no specific drawn route newly classified. Alio reconsiders without bypassing closed/locked rules."
+    },
+    {
+      "scene_id": "CASE09",
+      "status": "PASS",
+      "review_basis": "ACTUAL_FINAL_COMPLETE_SCENE_READ_IN_CONTEXT",
+      "observation": "Actual complete scene reread. Self-promised cake and need to bake it answer Bibi directly; no invented witness or archive memory becomes evidence."
+    },
+    {
+      "scene_id": "CASE10",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Rover-sitting convenience joke does not claim ownership; sheets first; no duplicate revelation."
+    },
+    {
+      "scene_id": "CASE11",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Phone found and oat bar are established; source/breakfast metaphor no wrong A–D timestamp."
+    },
+    {
+      "scene_id": "CASE12",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Cracker/order misunderstanding and handler retain unknown four-word source; no cue reveal."
+    },
+    {
+      "scene_id": "CASE13",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Fox remains drawn theory, not witness; strap is imaginary drawing addition, no timing result."
+    },
+    {
+      "scene_id": "CASE14",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Certainty distinguished from mixed memories; lunch/books history safe; no journey answer or speed change."
+    },
+    {
+      "scene_id": "CASE15",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Name tags explicitly next-trip future measure; satellite idea not installed current GPS."
+    },
+    {
+      "scene_id": "CASE16",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Current hat only; sandwiches harmless recalled use, no hat in photo/date clue; building/year untouched."
+    },
+    {
+      "scene_id": "CASE17",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Helmet/backpack/sandwich family exchange; tickets ordinary ticket-hall prop, no ticket handoff solution."
+    },
+    {
+      "scene_id": "CASE18",
+      "status": "PASS",
+      "review_basis": "ACTUAL_FINAL_COMPLETE_SCENE_READ_IN_CONTEXT",
+      "observation": "Actual complete scene reread. Luli checks corrected times; no new watch or fourth clock. Dilo accepts correction while dignity joke remains."
+    },
+    {
+      "scene_id": "CASE19",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Digital ghost held outside evidence; scanner checked but cart bump not revealed; growth retained."
+    },
+    {
+      "scene_id": "CASE20",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Pear explicitly paint; desire to know mover not claim map proves mover; no two-account timing revelation."
+    },
+    {
+      "scene_id": "CASE21",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Tender invitation after mistake, no ridicule; joins checked, sleeve follows fit; familiar hand unconfirmed."
+    },
+    {
+      "scene_id": "CASE22",
+      "status": "PASS",
+      "review_basis": "ACTUAL_FINAL_COMPLETE_SCENE_READ_IN_CONTEXT",
+      "observation": "Actual complete scene reread. Dilo responds to Alio relative-position system; labels no longer proposed as shelf-order solution. Zara contact task untouched."
+    },
+    {
+      "scene_id": "CASE23",
+      "status": "PASS",
+      "review_basis": "ACTUAL_FINAL_COMPLETE_SCENE_READ_IN_CONTEXT",
+      "observation": "Actual complete scene reread. Boast grows directly from Luli invitation to walk to wristband file; no invented play-counting condition and no switcher answer."
+    },
+    {
+      "scene_id": "CASE24",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Alio voluntarily pauses and Luli follows; no arrow method/direction/West Gate answer."
+    },
+    {
+      "scene_id": "CASE25",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Parcel stays unmoved and unopened; cookies outside parcel, no contents/destination reveal."
+    },
+    {
+      "scene_id": "THREAD120",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Exactly14selected maps named; finished stack pride and elbow joke do not add01 or alter order."
+    },
+    {
+      "scene_id": "CASE26",
+      "status": "PASS",
+      "review_basis": "ACTUAL_FINAL_COMPLETE_SCENE_READ_IN_CONTEXT",
+      "observation": "Actual complete scene reread. Brother/salt dinner history clarifies interruption joke; no changes to14selected maps, eligibility, initials or order; no message revealed."
+    },
+    {
+      "scene_id": "CASE27",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Clean hands/hover above sleeve no physical manipulation requirement; trusting finger joke no one-anchor solve."
+    },
+    {
+      "scene_id": "CASE28",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Tunnel decorative confidence unproved; adults self-own; no missing rule word or author reveal."
+    },
+    {
+      "scene_id": "CASE29",
+      "status": "PASS",
+      "review_basis": "ACTUAL_R1_REVIEW_INHERITED_AFTER_COMPLETE_TURN_BYTE_EQUALITY",
+      "observation": "Space/time/support retained; no companion/D3; family quiet helps rather than pressures reader."
+    },
+    {
+      "scene_id": "CASE30",
+      "status": "PASS",
+      "review_basis": "ACTUAL_FINAL_COMPLETE_SCENE_READ_IN_CONTEXT",
+      "observation": "Actual complete scene reread. Nini noise explicitly in her own head; anticipation holds until door opening;4prior inputs and no author/room/certification leak."
+    }
+  ],
+  "pdf_binding": {
+    "status": "PASS",
+    "receipt": "PDF_PRESERVATION_BINDING.json",
+    "receipt_sha256": "ca7fea0ca6e507300c5c26931433d5f3775745555f72f9cbf53a923215991073",
+    "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+    "book_pdf_sha256": "3ae4a92a35d1181b49211178b2bb3cedee4e95fff80f42c1c890de2f2aecc074",
+    "standalone_pdf_sha256": "45f0cb47f4c487ec838f8eb1e26b0526c023ba35e7fd3b28a2566c7bf3798dd5",
+    "untouched190_exact_text_pixels": true,
+    "changed35_strict_nonComms_remainder_exact": true,
+    "all183_speech_speaker_pairs_both_outputs": true,
+    "visual_scope": "Lowresolutionpixelidentityonlyon190untouchedleaves;changedlayoutvisualreviewseparate."
+  },
+  "stage": "logic",
+  "focus": "Comms preserve fixed mechanics/evidence. ThreeR1riskclosures08/18/22actuallychecked,143V8repairs and2847protectedunits exact.",
+  "protected_2847_units_exact": true,
+  "v8_143_non_comms_repairs_exact": true,
+  "mixed137_prefix_exact": true,
+  "speaker_order_183_exact": true,
+  "unchanged_puzzles_resolved_again": false
+}

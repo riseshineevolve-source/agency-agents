@@ -1,0 +1,9 @@
+{
+  "archive_path": "/workspace/scratch/e6eabdc4c3a0/deliverables/RSE_DETECTIVE_HM_COMMS_V10_20261023.zip",
+  "archive_sha256": "3526ccbe2e61d0fbd44b7b67ac61d9f41cd1d379eccb78ed111bc923e13460d7",
+  "bytes": 114945679,
+  "files": 112,
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "complete_final_sources_reviews_qa": true,
+  "baseline_v8_pdf_included": true
+}

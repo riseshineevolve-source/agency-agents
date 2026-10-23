@@ -1,0 +1,11 @@
+{
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "book_pdf_sha256": "3ae4a92a35d1181b49211178b2bb3cedee4e95fff80f42c1c890de2f2aecc074",
+  "standalone_pdf_sha256": "45f0cb47f4c487ec838f8eb1e26b0526c023ba35e7fd3b28a2566c7bf3798dd5",
+  "reviewer": "root integrator",
+  "status": "PASS",
+  "actual_scope": "All35changed book leaves and34standalone pages inspected as8contact-sheet overviews. Additional full-size saved Poppler book27,137 and standalone19,24 inspected. Not all225pages full-size; no physical print claim.",
+  "findings": [],
+  "inherited_furniture": "Protected book leaves retain V8 running header; filename and metadata V10.",
+  "layout": "No clipping or overlapping speech, clear speaker labels and legible12pt standalone; min10.5pt book verified by adapter."
+}

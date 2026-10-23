@@ -1,0 +1,1340 @@
+{
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "book_pdf_sha256": "3ae4a92a35d1181b49211178b2bb3cedee4e95fff80f42c1c890de2f2aecc074",
+  "book_pages": 225,
+  "standalone_pdf_sha256": "45f0cb47f4c487ec838f8eb1e26b0526c023ba35e7fd3b28a2566c7bf3798dd5",
+  "standalone_pages": 34,
+  "changed_book_folios": [
+    7,
+    12,
+    16,
+    19,
+    23,
+    27,
+    31,
+    34,
+    35,
+    37,
+    41,
+    45,
+    49,
+    53,
+    57,
+    61,
+    65,
+    69,
+    73,
+    77,
+    83,
+    87,
+    91,
+    95,
+    99,
+    105,
+    109,
+    113,
+    117,
+    120,
+    121,
+    125,
+    129,
+    133,
+    137
+  ],
+  "unchanged_v8_text_and_pixel_identical_folios": 190,
+  "all225_offpage_checks": "PASS",
+  "standalone_all183_spoken_turn_roundtrips": "PASS",
+  "minimum_book_body_font": 10.5,
+  "standalone_font": 12.0,
+  "book_fits": [
+    {
+      "folio": 7,
+      "body_font_min": 10.5,
+      "raw_height": 503.6
+    },
+    {
+      "folio": 12,
+      "body_font_min": 10.5,
+      "raw_height": 418.9
+    },
+    {
+      "folio": 16,
+      "body_font_min": 10.5,
+      "raw_height": 299.1
+    },
+    {
+      "folio": 19,
+      "body_font_min": 10.5,
+      "raw_height": 371.3
+    },
+    {
+      "folio": 23,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 27,
+      "body_font_min": 10.5,
+      "raw_height": 378.6
+    },
+    {
+      "folio": 31,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 34,
+      "body_font_min": 10.5,
+      "raw_height": 285.4
+    },
+    {
+      "folio": 35,
+      "body_font_min": 10.5,
+      "raw_height": 214.9
+    },
+    {
+      "folio": 37,
+      "body_font_min": 10.5,
+      "raw_height": 254.3
+    },
+    {
+      "folio": 41,
+      "body_font_min": 10.5,
+      "raw_height": 272.9
+    },
+    {
+      "folio": 45,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 49,
+      "body_font_min": 10.5,
+      "raw_height": 212.1
+    },
+    {
+      "folio": 53,
+      "body_font_min": 10.5,
+      "raw_height": 329.1
+    },
+    {
+      "folio": 57,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 61,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 65,
+      "body_font_min": 10.5,
+      "raw_height": 336.3
+    },
+    {
+      "folio": 69,
+      "body_font_min": 10.5,
+      "raw_height": 212.1
+    },
+    {
+      "folio": 73,
+      "body_font_min": 10.5,
+      "raw_height": 155.8
+    },
+    {
+      "folio": 77,
+      "body_font_min": 10.5,
+      "raw_height": 221.8
+    },
+    {
+      "folio": 83,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 87,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 91,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 95,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 99,
+      "body_font_min": 10.5,
+      "raw_height": 219.1
+    },
+    {
+      "folio": 105,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 109,
+      "body_font_min": 10.5,
+      "raw_height": 191.0
+    },
+    {
+      "folio": 113,
+      "body_font_min": 10.5,
+      "raw_height": 212.1
+    },
+    {
+      "folio": 117,
+      "body_font_min": 10.5,
+      "raw_height": 191.0
+    },
+    {
+      "folio": 120,
+      "body_font_min": 10.5,
+      "raw_height": 333.7
+    },
+    {
+      "folio": 121,
+      "body_font_min": 10.5,
+      "raw_height": 272.9
+    },
+    {
+      "folio": 125,
+      "body_font_min": 10.5,
+      "raw_height": 244.7
+    },
+    {
+      "folio": 129,
+      "body_font_min": 10.5,
+      "raw_height": 191.0
+    },
+    {
+      "folio": 133,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 137,
+      "body_font_min": 10.5,
+      "raw_height": 310.8
+    }
+  ],
+  "standalone_fits": [
+    {
+      "scene": "INTRO07",
+      "folio": 1,
+      "bottom_y": 494.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASEWALL12",
+      "folio": 2,
+      "bottom_y": 294.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE01",
+      "folio": 3,
+      "bottom_y": 355.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE02",
+      "folio": 4,
+      "bottom_y": 338.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE03",
+      "folio": 5,
+      "bottom_y": 372.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE04",
+      "folio": 6,
+      "bottom_y": 294.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE05",
+      "folio": 7,
+      "bottom_y": 311.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "THREAD34",
+      "folio": 8,
+      "bottom_y": 382.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE06",
+      "folio": 9,
+      "bottom_y": 155.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE07",
+      "folio": 10,
+      "bottom_y": 355.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE08",
+      "folio": 11,
+      "bottom_y": 372.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE09",
+      "folio": 12,
+      "bottom_y": 277.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE10",
+      "folio": 13,
+      "bottom_y": 355.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE11",
+      "folio": 14,
+      "bottom_y": 294.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE12",
+      "folio": 15,
+      "bottom_y": 372.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE13",
+      "folio": 16,
+      "bottom_y": 311.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE14",
+      "folio": 17,
+      "bottom_y": 277.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE15",
+      "folio": 18,
+      "bottom_y": 416.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE16",
+      "folio": 19,
+      "bottom_y": 294.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE17",
+      "folio": 20,
+      "bottom_y": 294.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE18",
+      "folio": 21,
+      "bottom_y": 355.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE19",
+      "folio": 22,
+      "bottom_y": 294.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE20",
+      "folio": 23,
+      "bottom_y": 311.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE21",
+      "folio": 24,
+      "bottom_y": 250.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE22",
+      "folio": 25,
+      "bottom_y": 372.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE23",
+      "folio": 26,
+      "bottom_y": 355.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE24",
+      "folio": 27,
+      "bottom_y": 294.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE25",
+      "folio": 28,
+      "bottom_y": 355.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "THREAD120",
+      "folio": 29,
+      "bottom_y": 372.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE26",
+      "folio": 30,
+      "bottom_y": 338.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE27",
+      "folio": 31,
+      "bottom_y": 372.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE28",
+      "folio": 32,
+      "bottom_y": 355.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE29",
+      "folio": 33,
+      "bottom_y": 372.0,
+      "font_size": 12.0
+    },
+    {
+      "scene": "CASE30",
+      "folio": 34,
+      "bottom_y": 372.0,
+      "font_size": 12.0
+    }
+  ],
+  "all_page_checks": [
+    {
+      "folio": 1,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 2,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 3,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 4,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 5,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 6,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 7,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 8,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 9,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 10,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 11,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 12,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 13,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 14,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 15,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 16,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 17,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 18,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 19,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 20,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 21,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 22,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 23,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 24,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 25,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 26,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 27,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 28,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 29,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 30,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 31,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 32,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 33,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 34,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 35,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 36,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 37,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 38,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 39,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 40,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 41,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 42,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 43,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 44,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 45,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 46,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 47,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 48,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 49,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 50,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 51,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 52,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 53,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 54,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 55,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 56,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 57,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 58,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 59,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 60,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 61,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 62,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 63,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 64,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 65,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 66,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 67,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 68,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 69,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 70,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 71,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 72,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 73,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 74,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 75,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 76,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 77,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 78,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 79,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 80,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 81,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 82,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 83,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 84,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 85,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 86,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 87,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 88,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 89,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 90,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 91,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 92,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 93,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 94,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 95,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 96,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 97,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 98,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 99,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 100,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 101,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 102,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 103,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 104,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 105,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 106,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 107,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 108,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 109,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 110,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 111,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 112,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 113,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 114,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 115,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 116,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 117,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 118,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 119,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 120,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 121,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 122,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 123,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 124,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 125,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 126,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 127,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 128,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 129,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 130,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 131,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 132,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 133,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 134,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 135,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 136,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 137,
+      "authorised_dialogue_reflow": true
+    },
+    {
+      "folio": 138,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 139,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 140,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 141,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 142,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 143,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 144,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 145,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 146,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 147,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 148,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 149,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 150,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 151,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 152,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 153,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 154,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 155,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 156,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 157,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 158,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 159,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 160,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 161,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 162,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 163,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 164,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 165,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 166,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 167,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 168,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 169,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 170,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 171,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 172,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 173,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 174,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 175,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 176,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 177,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 178,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 179,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 180,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 181,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 182,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 183,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 184,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 185,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 186,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 187,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 188,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 189,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 190,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 191,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 192,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 193,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 194,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 195,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 196,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 197,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 198,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 199,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 200,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 201,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 202,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 203,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 204,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 205,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 206,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 207,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 208,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 209,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 210,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 211,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 212,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 213,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 214,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 215,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 216,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 217,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 218,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 219,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 220,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 221,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 222,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 223,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 224,
+      "text_and_render_identical_v8": true
+    },
+    {
+      "folio": 225,
+      "text_and_render_identical_v8": true
+    }
+  ],
+  "contact_sheets": [],
+  "visual_review": "PENDING",
+  "production_typesetting_or_physical_print": "NOT_RUN",
+  "print_ready": false,
+  "candidate_author": "hm10_writer",
+  "integrator": "root"
+}

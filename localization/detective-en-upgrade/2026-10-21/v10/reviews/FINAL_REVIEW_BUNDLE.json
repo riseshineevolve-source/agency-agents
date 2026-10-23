@@ -1,0 +1,46 @@
+{
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "status": "PASS",
+  "reviews": [
+    {
+      "stage": "native_language",
+      "status": "PASS",
+      "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+      "reviewer": "/root/hm10_comedy_editor",
+      "scope": "Final closure against immutable reviewed R1. Compared all 183 turn texts and speaker/id order across all 34 scenes; exactly eight changed turns. Read all eight affected complete scenes and their full supplied introduction/task/following-story neighbours. Previously reviewed 175 unchanged turns retain their actual R1 assessment. Final reader Markdown contains every final string.",
+      "evidence": "reviews/comedy-final/native_language.json",
+      "receipt_sha256": "6cd5229548b75c221329f9e8a33b6b4281209ca8d7d870fdb8231c56645f1f3c"
+    },
+    {
+      "stage": "audience",
+      "status": "PASS",
+      "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+      "reviewer": "/root/hm10_family_ear",
+      "scope": "All 34 scenes / all 183 turns compared against reviewed R1; all eight affected scenes reread in full against case context; prior audience findings explicitly closed.",
+      "evidence": "reviews/audience-final/audience.json",
+      "receipt_sha256": "53af85e9b9b62bfcc57643ca9d90ad79a3df9c269647549e95e14659729990a3"
+    },
+    {
+      "stage": "meaning",
+      "status": "PASS",
+      "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+      "reviewer": "/root/hm10_story_guard",
+      "scope": "All34/183actually reviewed atR1; final8affectedcomplete scenes actually reread with intro/task context.26unchangedscene strings and speaker/ID sequence inherited only after exact comparison. No unchanged puzzle re-solved.",
+      "evidence": "reviews/story-final/meaning.json",
+      "receipt_sha256": "aef8ac1d23726d749639c6d0c9467cd626a56d52f5ff8102a0eea274f031ea18"
+    },
+    {
+      "stage": "logic",
+      "status": "PASS",
+      "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+      "reviewer": "/root/hm10_story_guard",
+      "scope": "All34/183actually reviewed atR1; final8affectedcomplete scenes actually reread with intro/task context.26unchangedscene strings and speaker/ID sequence inherited only after exact comparison. No unchanged puzzle re-solved.",
+      "evidence": "reviews/story-final/logic.json",
+      "receipt_sha256": "8152d313282d84d4deefe08cc43cc069c74054922dd60b24098bc8c77337d3aa"
+    }
+  ],
+  "actual_specialist_agents": 4,
+  "one_writer": "hm10_writer",
+  "root": "mechanical integration and QA only",
+  "normalization_only": true
+}

@@ -1,0 +1,1351 @@
+[
+  {
+    "scene": "INTRO07",
+    "ids": [
+      "page007.block05"
+    ],
+    "before": "MIMI: I've got a plan. Three clear steps, one shared folder... and a phone I appear to have filed somewhere exceptionally secure.\nLULI: Please tell me the plan isn't on the phone. I've brought an emergency book, but it doesn't cover this.\nDILO: I can help make it beep. If it's in your hand again, though, I'm counting that as my quickest solve.",
+    "after": "MIMI: All right. Files ready, team ready... where's my phone?\nLULI: You said, 'Nobody move anything.' We took you seriously.\nDILO: Do we get detective badges for finding it, or is that still a household chore?"
+  },
+  {
+    "scene": "CASEWALL12",
+    "ids": [
+      "page012.block03"
+    ],
+    "before": "DILO: I can fit all my theories on that wall. I may have to write small around the really important ones.\nLULI: And the evidence? Or is that going to have to book an appointment?\nALIO: We could put in a small shelf. Then the theories would look established, even the ones we made up five minutes ago.\nNINI: For the theories? Mine needs a cushion. It's been standing around waiting for a fact.\nBIBI: A question mark would be more useful. Then I can tell which ideas still need checking when I come back with the next file.\nMIMI: No cushions on the Case Wall. Detective, bring your notes over here. This family has plenty of imagination; let's leave some room for what we can actually prove.",
+    "after": "DILO: I was thinking my best theories could go across the top. In big letters.\nLULI: How big are the facts allowed to be?\nALIO: Mine can go underneath Dilo's. Then mine will look more reasonable.\nNINI: Could I have that little corner? I want to write 'We don't know yet.'\nBIBI: Leave her plenty of room. That's usually our biggest category.\nMIMI: Everyone step back a little. I'd like our new detective to see the wall before we fill it with ourselves."
+  },
+  {
+    "scene": "CASE01",
+    "ids": [
+      "page016.block04"
+    ],
+    "before": "MIMI: Internal stock. No courier. Good. We can check who was at Delivery without inventing anyone new.\nALIO: Or we investigate my leading theory: a secret tunnel and a minivan. Very efficient. Very suspicious. I haven't decided who drives.\nLULI: A tunnel, a minivan, and zero evidence. Impressive start, Alio.\nNINI: Let's park the minivan for a minute and follow the facts first. Detective, there's room for your notes here.\nDILO: Good. It was blocking mine. If a tunnel turns up later, we'll apologize to the minivan. Until then, it stays in the margin.",
+    "after": "MIMI: The envelope came from inside the Academy. No courier. That gives us somewhere to start.\nALIO: I've already got a secret tunnel and a minivan. We could start there.\nLULI: You've arranged transport before finding a single clue?\nNINI: He drew the minivan first. It's got all our names on the seats.\nDILO: Then I want a window. I can watch for the evidence on the way."
+  },
+  {
+    "scene": "CASE02",
+    "ids": [
+      "page019.block23",
+      "page019.block24"
+    ],
+    "before": "The Cup has returned itself with suspiciously good posture. Look at it. You'd think it had never left.\n",
+    "after": "Look how neatly the Cup's sitting there. That is exactly how I put things back when I hope nobody asks where they've been.\n"
+  },
+  {
+    "scene": "CASE02",
+    "ids": [
+      "page019.block26",
+      "page019.block27"
+    ],
+    "before": "It was signed out, Alio. That's allowed. Being polished afterwards is rather grand, but still not a crime.\n",
+    "after": "We know. You line your shoes up after you've used someone's good scissors.\n"
+  },
+  {
+    "scene": "CASE02",
+    "ids": [
+      "page019.block29"
+    ],
+    "before": "Then I withdraw my complaint about the Cup. Its paperwork, however, is doing an excellent impression of a blank page.\n",
+    "after": "That happened once. And this Cup is much tidier than my shoes.\n"
+  },
+  {
+    "scene": "CASE02",
+    "ids": [
+      "page019.block31",
+      "page019.block32",
+      "page019.block33"
+    ],
+    "before": "Better. We need someone who can help explain the missing handoff, not a confession from a trophy. I'll put the return sheet beside your map.\n",
+    "after": "Well, I'm glad we've cleared the scissors up. The Cup still has a blank return sheet.\n"
+  },
+  {
+    "scene": "CASE02",
+    "ids": [
+      "page019.block35",
+      "page019.block36",
+      "page019.block37"
+    ],
+    "before": "That may be Alio's fastest promotion from theory to useful question. You take the map, Detective. I'll watch the extremely well-behaved Cup.\n",
+    "after": "I want to hear the scissors story later. The long version.\n"
+  },
+  {
+    "scene": "CASE03",
+    "ids": [
+      "page023.block05"
+    ],
+    "before": "The trophy shelf is trying very hard to look important. I've appointed its brightest sparkle Inspector Glitter.\n",
+    "after": "I've found a sparkle on the trophy shelf. I'm calling it Inspector Glitter.\n"
+  },
+  {
+    "scene": "CASE03",
+    "ids": [
+      "page023.block07"
+    ],
+    "before": "Has Inspector Glitter found a difference between the photographs, or has it mainly been admiring its own reflection?\n",
+    "after": "Has Inspector Glitter found any of our ten differences?\n"
+  },
+  {
+    "scene": "CASE03",
+    "ids": [
+      "page023.block09"
+    ],
+    "before": "Mostly admiring. A difficult first case. I'll compare the pictures while it recovers from not being in charge.\n",
+    "after": "Not yet. It likes that shelf too much to look anywhere else.\n"
+  },
+  {
+    "scene": "CASE03",
+    "ids": [
+      "page023.block11"
+    ],
+    "before": "Should I be worried about my job? I can stand by a shelf looking important. I've practiced.\n",
+    "after": "I could do that job. Stand somewhere shiny and look important.\n"
+  },
+  {
+    "scene": "CASE03",
+    "ids": [
+      "page023.block13"
+    ],
+    "before": "Only if you start shedding glitter. Pass me Photo B, please. Let's give the whole room a proper look before the shelf gets any more attention.\n",
+    "after": "You'd want a chair by lunchtime. Pass me the other photo.\n"
+  },
+  {
+    "scene": "CASE04",
+    "ids": [
+      "page027.block19",
+      "page027.block20"
+    ],
+    "before": "That is a very suspicious black box. It's arrived at the wrong tent without looking remotely sorry.\n",
+    "after": "I'll watch the evidence box. Alio, you can patrol the tents.\n"
+  },
+  {
+    "scene": "CASE04",
+    "ids": [
+      "page027.block22"
+    ],
+    "before": "It's a labeled evidence box. The seal is intact. Let's save the interrogation voice for somebody who can answer.\n",
+    "after": "That's generous. You get to sit down while he does all the walking.\n"
+  },
+  {
+    "scene": "CASE04",
+    "ids": [
+      "page027.block24",
+      "page027.block25"
+    ],
+    "before": "Exactly. Suspicion with paperwork. You have to admire the preparation.\n",
+    "after": "Someone has to stay with the box. I'm prepared to make that sacrifice.\n"
+  },
+  {
+    "scene": "CASE04",
+    "ids": [
+      "page027.block27",
+      "page027.block28",
+      "page027.block29"
+    ],
+    "before": "Please don't interrogate the box before the people. Who was with Pixel? That's someone we can actually ask.\n",
+    "after": "I'll find out who was with Pixel. They might actually have something to tell us.\n"
+  },
+  {
+    "scene": "CASE04",
+    "ids": [
+      "page027.block31",
+      "page027.block32"
+    ],
+    "before": "May I stare at the box professionally while we find out? I think it's avoiding eye contact.\n",
+    "after": "Can I make my report sitting down, or is that a senior detective skill?\n"
+  },
+  {
+    "scene": "CASE04",
+    "ids": [
+      "page027.block34",
+      "page027.block35"
+    ],
+    "before": "You've been doing that for a full minute. If it blinks first, it can wear your helmet.\n",
+    "after": "Sit beside your brother. I'll patrol. Apparently it takes two of you to stop a sealed box going anywhere.\n"
+  },
+  {
+    "scene": "CASE05",
+    "ids": [
+      "page031.block05"
+    ],
+    "before": "I challenge you to beat my locker. I've given it a very stern talk about not embarrassing me.\n",
+    "after": "Six symbols. One locker. Detective, shall we see which of us gets it first?\n"
+  },
+  {
+    "scene": "CASE05",
+    "ids": [
+      "page031.block07"
+    ],
+    "before": "Does it know this is a competition? Or have you challenged a door without telling the door?\n",
+    "after": "If the Detective solves it, are you going to say you were just about to?\n"
+  },
+  {
+    "scene": "CASE05",
+    "ids": [
+      "page031.block09"
+    ],
+    "before": "It has been briefed. Begin when you're ready, Detective. The locker and I have cleared our afternoon.\n",
+    "after": "Only if I was. Which I might be. It's important to keep that possibility open.\n"
+  },
+  {
+    "scene": "CASE05",
+    "ids": [
+      "page031.block11"
+    ],
+    "before": "Then we shall read its clues politely. I'd hate to frighten it into forgetting its own code.\n",
+    "after": "I'll leave a little space beside the answer for 'Dilo was nearly there.'\n"
+  },
+  {
+    "scene": "CASE05",
+    "ids": [
+      "page031.block13"
+    ],
+    "before": "If the locker wins, does it get a badge? We'd need somewhere to clip it.\n",
+    "after": "What if the locker beats both of you? Does it get a badge?\n"
+  },
+  {
+    "scene": "CASE05",
+    "ids": [
+      "page031.block15"
+    ],
+    "before": "Absolutely not. Conflict of interest.\n",
+    "after": "No. It already knows the answer. That's a very unfair advantage.\n"
+  },
+  {
+    "scene": "THREAD34",
+    "ids": [
+      "page034.block16"
+    ],
+    "before": "Four marks. One incomplete route. Does this printer ever send anything straightforward? 'Dear Dilo, here is the answer' would be a refreshing change.\n",
+    "after": "Four matching marks, and still no explanation. Could the printer send a nice ordinary answer for once?\n"
+  },
+  {
+    "scene": "THREAD34",
+    "ids": [
+      "page034.block18"
+    ],
+    "before": "You'd complain there was nothing to solve. Then you'd check the back in case it had hidden the interesting bit.\n",
+    "after": "You'd turn it over to look for the puzzle on the back.\n"
+  },
+  {
+    "scene": "THREAD34",
+    "ids": [
+      "page035.block06",
+      "page035.block07"
+    ],
+    "before": "Could it at least send something with a name? I've got 'the thing', 'the other thing' and 'the thing we mustn't lose'. My notes are becoming very unhelpful.\n",
+    "after": "I'd settle for a name. My notes say 'the thing from the thing.' I knew what I meant when I wrote it.\n"
+  },
+  {
+    "scene": "THREAD34",
+    "ids": [
+      "page035.block09",
+      "page035.block10"
+    ],
+    "before": "I'll take these to the archive. Names, dates and something to compare them with. If the printer asks for me, tell it I'm checking its references.\n",
+    "after": "Bring them to the archive with me. We can look for proper names while Dilo checks the backs of things.\n"
+  },
+  {
+    "scene": "CASE06",
+    "ids": [
+      "page037.block05",
+      "page037.block06"
+    ],
+    "before": "I had emotionally prepared for a dragon tooth. There was going to be a drawing. Possibly a very impressive warning sign.\n",
+    "after": "I'd already drawn the dragon. Now I've got a perfectly good dragon and a case about a spoon.\n"
+  },
+  {
+    "scene": "CASE06",
+    "ids": [
+      "page037.block08"
+    ],
+    "before": "So had I. None of my plans involved stirring soup with a Roman spoon.\n",
+    "after": "You could give it some soup.\n"
+  },
+  {
+    "scene": "CASE06",
+    "ids": [
+      "page037.block10",
+      "page037.block11"
+    ],
+    "before": "Perhaps the dragon was a cook. We haven't checked its qualifications.\n",
+    "after": "That works. It can be a dragon who cooks.\n"
+  },
+  {
+    "scene": "CASE06",
+    "ids": [
+      "page037.block13",
+      "page037.block14"
+    ],
+    "before": "That explains the spoon. My history book's missing the chapter about Roman dragon chefs, though.\n",
+    "after": "I'm interested again. Does it breathe fire into the pan, or is that why it needs the spoon?\n"
+  },
+  {
+    "scene": "CASE06",
+    "ids": [
+      "page037.block16",
+      "page037.block17",
+      "page037.block18"
+    ],
+    "before": "We have a label and an object that disagree. Let's ask about that before we rewrite history.\n",
+    "after": "I was trying to help Nini finish a drawing. I seem to have started a cookbook.\n"
+  },
+  {
+    "scene": "CASE06",
+    "ids": [
+      "page037.block20",
+      "page037.block21"
+    ],
+    "before": "A relief. I've only just put history back on its shelves.\n",
+    "after": "Leave me a page. I've burned enough dinners to contribute.\n"
+  },
+  {
+    "scene": "CASE06",
+    "ids": [
+      "page037.block23",
+      "page037.block24"
+    ],
+    "before": "Can we keep the dragon in the margin? Pencil only. I know you're going to ask.\n",
+    "after": "Grandma! You're supposed to be helping with the real history.\n"
+  },
+  {
+    "scene": "CASE06",
+    "ids": [
+      "page037.block26",
+      "page037.block27",
+      "page037.block28"
+    ],
+    "before": "Good. Leave me room to object. You take the room record, Detective; we'll keep the imaginary dragon out of your way.\n",
+    "after": "I am. Those dinners happened.\n"
+  },
+  {
+    "scene": "CASE07",
+    "ids": [
+      "page041.block17",
+      "page041.block18",
+      "page041.block19"
+    ],
+    "before": "Alio, how many cupboards have you checked? Please tell me we're counting cupboards, not dramatic entrances.\n",
+    "after": "Alio, was that the third cupboard or the fourth? I'm starting to recognize the brooms.\n"
+  },
+  {
+    "scene": "CASE07",
+    "ids": [
+      "page041.block21"
+    ],
+    "before": "Only the dramatic ones. I opened the last one very slowly in case the moon was hiding behind the coats.\n",
+    "after": "Fourth. I checked behind the coats as well.\n"
+  },
+  {
+    "scene": "CASE07",
+    "ids": [
+      "page041.block23",
+      "page041.block24"
+    ],
+    "before": "The moon costume is larger than most cupboards. If it were behind the coats, the coats would be standing in the corridor.\n",
+    "after": "That moon costume wouldn't fit behind the coats. It barely fits through a door.\n"
+  },
+  {
+    "scene": "CASE07",
+    "ids": [
+      "page041.block26",
+      "page041.block27",
+      "page041.block28"
+    ],
+    "before": "Excellent. We've eliminated the little cupboards. I knew all that slow opening would produce results.\n",
+    "after": "Then we've ruled out four cupboards. And all those coats.\n"
+  },
+  {
+    "scene": "CASE07",
+    "ids": [
+      "page041.block30"
+    ],
+    "before": "A triumph of fieldwork. Let's check the room record next. The brooms and I are running out of conversation.\n",
+    "after": "Splendid. Let's leave before I start calling the brooms by name.\n"
+  },
+  {
+    "scene": "CASE08",
+    "ids": [
+      "page045.block05"
+    ],
+    "before": "My route is beautifully straight. No unnecessary turns, no wasted walking. Very impressive on paper.\n",
+    "after": "My shortest route gets us there in almost no time. I even drew it in one stroke.\n"
+  },
+  {
+    "scene": "CASE08",
+    "ids": [
+      "page045.block07"
+    ],
+    "before": "Have you shown it to the walls? They seem to have plans of their own.\n",
+    "after": "Does that include the time we spend standing at locked doors?\n"
+  },
+  {
+    "scene": "CASE08",
+    "ids": [
+      "page045.block09"
+    ],
+    "before": "The building has rejected my first draft. I was going to discuss it with the wall, but it hasn't offered an appointment.\n",
+    "after": "Small delay while we reconsider.\n"
+  },
+  {
+    "scene": "CASE08",
+    "ids": [
+      "page045.block11"
+    ],
+    "before": "Read the door signs first. You may find the building is easier to work with when you use its doors.\n",
+    "after": "Would you like to reconsider here, or after we've all followed you there?\n"
+  },
+  {
+    "scene": "CASE08",
+    "ids": [
+      "page045.block13"
+    ],
+    "before": "I'll hold the map. Please don't negotiate with any load-bearing walls. I'm not holding up the roof while you explain your route.\n",
+    "after": "Here, please. I know his reconsidering face. I'd rather see it sitting down.\n"
+  },
+  {
+    "scene": "CASE09",
+    "ids": [
+      "page049.block05"
+    ],
+    "before": "You're looking at that symbol as if it owes you an explanation. Do you know it?\n",
+    "after": "You stopped halfway through saying something. Do you know that mark?\n"
+  },
+  {
+    "scene": "CASE09",
+    "ids": [
+      "page049.block07"
+    ],
+    "before": "I remember something. That's not the same as knowing. Give me the record beside it before I start trusting a memory on its own.\n",
+    "after": "I remember something about it. I want to check before I let you all run off with my memory.\n"
+  },
+  {
+    "scene": "CASE09",
+    "ids": [
+      "page049.block09"
+    ],
+    "before": "I'll find it. We can check them together. You can keep the dramatic pause while I look.\n",
+    "after": "I'll get the records. You can guard Alio while I'm gone.\n"
+  },
+  {
+    "scene": "CASE09",
+    "ids": [
+      "page049.block11"
+    ],
+    "before": "While we're checking memories, I remember being promised cake on an investigation. Very clearly. Excellent detail.\n",
+    "after": "While we're checking memories, I distinctly remember being promised cake on this investigation.\n"
+  },
+  {
+    "scene": "CASE09",
+    "ids": [
+      "page049.block13"
+    ],
+    "before": "You promised yourself the cake, Alio. I was there for that announcement.\n",
+    "after": "You promised yourself cake. Quite loudly. Nobody had a chance to agree.\n"
+  },
+  {
+    "scene": "CASE09",
+    "ids": [
+      "page049.block15"
+    ],
+    "before": "A very reliable source. Terrible at delivery. I'd like to interview whoever was supposed to bake it. Unfortunately, I believe that's also me.\n",
+    "after": "I was hoping one of you had agreed quietly. Now I'll have to bake it myself.\n"
+  },
+  {
+    "scene": "CASE10",
+    "ids": [
+      "page053.block15",
+      "page053.block16",
+      "page053.block17"
+    ],
+    "before": "Two teams. One rover. One truly upsetting cable tangle. Nobody move; I can make this considerably more complicated.\n",
+    "after": "Two teams claiming one rover. I could keep it here while we sort this out.\n"
+  },
+  {
+    "scene": "CASE10",
+    "ids": [
+      "page053.block19",
+      "page053.block20"
+    ],
+    "before": "Which problem are you solving first? The rover, the cable, or your urge to take something apart?\n",
+    "after": "Here beside you? How convenient.\n"
+  },
+  {
+    "scene": "CASE10",
+    "ids": [
+      "page053.block22"
+    ],
+    "before": "The access record. We need someone who can help explain it. You may note that I said this before touching a screwdriver.\n",
+    "after": "I know how to look after a rover. I could even fix that cable.\n"
+  },
+  {
+    "scene": "CASE10",
+    "ids": [
+      "page053.block24"
+    ],
+    "before": "Correct answer. Disturbing speed. I'll untangle the cable while you recover from being sensible.\n",
+    "after": "Dilo, you haven't looked at either ownership sheet. You've already found room for it next to your chair.\n"
+  },
+  {
+    "scene": "CASE10",
+    "ids": [
+      "page053.block26",
+      "page053.block27"
+    ],
+    "before": "Careful. It may have a third owner. And please log that sensible moment separately; I may need it in a future family discussion.\n",
+    "after": "Fine. Sheets first. But if anyone needs a temporary rover sitter, I'm still available.\n"
+  },
+  {
+    "scene": "CASE11",
+    "ids": [
+      "page057.block05"
+    ],
+    "before": "Your phone has been living beside the oat bar. I think they were getting quite close.\n",
+    "after": "Your phone has been living beside the oat bar.\n"
+  },
+  {
+    "scene": "CASE11",
+    "ids": [
+      "page057.block07"
+    ],
+    "before": "It was undercover. You can't expect a good investigation to happen in the most obvious compartment.\n",
+    "after": "It was undercover.\n"
+  },
+  {
+    "scene": "CASE11",
+    "ids": [
+      "page057.block09"
+    ],
+    "before": "Does the oat bar know? It's been very quiet about its new colleague.\n",
+    "after": "Does the oat bar know?\n"
+  },
+  {
+    "scene": "CASE11",
+    "ids": [
+      "page057.block11"
+    ],
+    "before": "We protect our sources. And occasionally forget which compartment they're in. This is a complicated profession.\n",
+    "after": "We protect our sources.\n"
+  },
+  {
+    "scene": "CASE11",
+    "ids": [
+      "page057.block13"
+    ],
+    "before": "I'd like that entered in the bag report. Preferably next to the bit where you tell us to label everything.\n",
+    "after": "Can I put that in the bag report? Right beside 'Always know where your equipment is.'\n"
+  },
+  {
+    "scene": "CASE11",
+    "ids": [
+      "page057.block15"
+    ],
+    "before": "You would not.\n",
+    "after": "You would not. Pass me my source. I haven't had breakfast.\n"
+  },
+  {
+    "scene": "CASE12",
+    "ids": [
+      "page061.block05"
+    ],
+    "before": "Please speak clearly for the notebook. Name, reason for being here, and anything you remember about the password.\n",
+    "after": "For the record: where did you hear those four words?\n"
+  },
+  {
+    "scene": "CASE12",
+    "ids": [
+      "page061.block07"
+    ],
+    "before": "Try listening before your next question. It says 'cracker'. I don't think it's finished answering that one.\n",
+    "after": "It's asking for a cracker, Dilo.\n"
+  },
+  {
+    "scene": "CASE12",
+    "ids": [
+      "page061.block09"
+    ],
+    "before": "I've got 'cracker'. It keeps repeating it. At least its statement is consistent.\n",
+    "after": "I heard. I've written it down three times. I was hoping we'd get to the password.\n"
+  },
+  {
+    "scene": "CASE12",
+    "ids": [
+      "page061.block11"
+    ],
+    "before": "I think it's set a price. You're trying to run a serious interview and it's trying to order lunch.\n",
+    "after": "It thinks you're taking its order.\n"
+  },
+  {
+    "scene": "CASE12",
+    "ids": [
+      "page061.block13"
+    ],
+    "before": "I'll ask the handler. My first interview with a snack budget. Please don't tell Alio; he'll start charging biscuits for his theories.\n",
+    "after": "Right. I'll ask the handler. First witness who's made me feel like a slow waiter.\n"
+  },
+  {
+    "scene": "CASE13",
+    "ids": [
+      "page065.block18",
+      "page065.block19"
+    ],
+    "before": "My fox theory has one weakness. I'm prepared to hear it, as long as everyone remembers how good the rest of it is.\n",
+    "after": "My fox theory has one weakness. I'm trying to work around it.\n"
+  },
+  {
+    "scene": "CASE13",
+    "ids": [
+      "page065.block21"
+    ],
+    "before": "Pockets? Where was your fox planning to keep the camera?\n",
+    "after": "Pockets?\n"
+  },
+  {
+    "scene": "CASE13",
+    "ids": [
+      "page065.block23",
+      "page065.block24"
+    ],
+    "before": "Several weaknesses. I'm making a list. I had rather hoped the pockets would count as an equipment problem.\n",
+    "after": "Exactly. Where does a fox keep a camera?\n"
+  },
+  {
+    "scene": "CASE13",
+    "ids": [
+      "page065.block26",
+      "page065.block27"
+    ],
+    "before": "Add 'fox operating camera equipment'. And 'somebody teaching it'. This is becoming quite a large project for one fox.\n",
+    "after": "It needs a little strap. Here, I'll draw one around its neck.\n"
+  },
+  {
+    "scene": "CASE13",
+    "ids": [
+      "page065.block29"
+    ],
+    "before": "Cruel. Fair. I'll draw it a tiny camera strap, then let it retire from the case with some dignity.\n",
+    "after": "Thank you. Someone has finally taken the equipment problem seriously.\n"
+  },
+  {
+    "scene": "CASE13",
+    "ids": [
+      "page065.block31"
+    ],
+    "before": "Keep the drawing. Hand me the actual photo. The evidence is still stubbornly unfoxy, and I'd like to finish before you design its uniform.\n",
+    "after": "Lovely. Now I want to see the fox. This is why I shouldn't sit next to you two.\n"
+  },
+  {
+    "scene": "CASE14",
+    "ids": [
+      "page069.block05"
+    ],
+    "before": "One of these statements has broken the clock. I'd like the clock to know I was on its side.\n",
+    "after": "Somebody sounds very sure about a journey that doesn't seem to fit.\n"
+  },
+  {
+    "scene": "CASE14",
+    "ids": [
+      "page069.block07"
+    ],
+    "before": "Or somebody mixed up two moments. Before we arrest the clock, can we check that?\n",
+    "after": "Maybe they've mixed up two moments. I've done that.\n"
+  },
+  {
+    "scene": "CASE14",
+    "ids": [
+      "page069.block09"
+    ],
+    "before": "Could happen. I once announced I'd packed lunch. I'd packed three books. I'd been very thorough about the wrong thing.\n",
+    "after": "So have I. I was absolutely certain I'd packed lunch once. Three books. Not a sandwich in sight.\n"
+  },
+  {
+    "scene": "CASE14",
+    "ids": [
+      "page069.block11"
+    ],
+    "before": "I remember. Your bag was very well fed. You had to share my lunch, and the books didn't contribute a thing.\n",
+    "after": "I remember. You kept checking the bag, as if lunch might be in a different chapter.\n"
+  },
+  {
+    "scene": "CASE14",
+    "ids": [
+      "page069.block13"
+    ],
+    "before": "Three books? Not even one recipe? I'd have expected better preparation from this family.\n",
+    "after": "Three books? Surely one of them had something to eat in it.\n"
+  },
+  {
+    "scene": "CASE14",
+    "ids": [
+      "page069.block15"
+    ],
+    "before": "Not one on cooking. Next time you can check my lunch before we leave. You've become very thorough since the cake investigation.\n",
+    "after": "A magnificent feast. I read it while Mom gave me half her sandwich.\n"
+  },
+  {
+    "scene": "CASE15",
+    "ids": [
+      "page073.block05"
+    ],
+    "before": "Next trip: readable name tags. Big letters. Nothing that requires a family meeting to identify.\n",
+    "after": "Next trip, big readable name tags. On every backpack.\n"
+  },
+  {
+    "scene": "CASE15",
+    "ids": [
+      "page073.block07"
+    ],
+    "before": "I was going to suggest satellite tracking. A small dot on a screen for each bag. Possibly a theme tune.\n",
+    "after": "I was going to suggest satellite tracking. We could find a bag anywhere on Earth.\n"
+  },
+  {
+    "scene": "CASE15",
+    "ids": [
+      "page073.block09"
+    ],
+    "before": "My tags work indoors, don't need charging and won't announce our arrival every time we walk into a room.\n",
+    "after": "With a tag, I can find mine without asking you to charge anything.\n"
+  },
+  {
+    "scene": "CASE15",
+    "ids": [
+      "page073.block11"
+    ],
+    "before": "Ruthless. You've beaten me with a piece of cardboard. May I at least draw a satellite on mine? I'd like to lose with dignity.\n",
+    "after": "Fine. One for each bag. And a little one for your phone, since we're solving family problems.\n"
+  },
+  {
+    "scene": "CASE16",
+    "ids": [
+      "page077.block06"
+    ],
+    "before": "That hat could shelter the whole team. If it rains on our next investigation, I know where I'm standing.\n",
+    "after": "If it rains on our next case, I'm standing under that hat.\n"
+  },
+  {
+    "scene": "CASE16",
+    "ids": [
+      "page077.block08"
+    ],
+    "before": "It also had an excellent detective underneath it. I brought the hat for company, not for a review of its roof space.\n",
+    "after": "Ask first. There may be a grandmother under it.\n"
+  },
+  {
+    "scene": "CASE16",
+    "ids": [
+      "page077.block10"
+    ],
+    "before": "We're finding the photograph's date, not the hat's. Admire it all you like; it doesn't tell us when the picture was taken.\n",
+    "after": "She used to make me carry it in a separate bag. My sandwiches traveled underneath.\n"
+  },
+  {
+    "scene": "CASE16",
+    "ids": [
+      "page077.block12"
+    ],
+    "before": "Finally, a sensible Academy policy. My wardrobe has suffered quite enough questioning for one afternoon.\n",
+    "after": "And arrived in perfect condition. You're welcome.\n"
+  },
+  {
+    "scene": "CASE16",
+    "ids": [
+      "page077.block14"
+    ],
+    "before": "Can we still admire it respectfully? I think Alio wants to add an extra room.\n",
+    "after": "So Alio's not wrong. We could all fit under there.\n"
+  },
+  {
+    "scene": "CASE16",
+    "ids": [
+      "page077.block16"
+    ],
+    "before": "Within controlled limits. One more room and I'm charging rent. Now pass me the photograph, please.\n",
+    "after": "You may visit. No one is moving in.\n"
+  },
+  {
+    "scene": "CASE17",
+    "ids": [
+      "page083.block05"
+    ],
+    "before": "Railway-investigation helmet: deployed. Ready for tracks, tunnels and announcements that sound unnecessarily urgent.\n",
+    "after": "Helmet on. Ready for the railway investigation.\n"
+  },
+  {
+    "scene": "CASE17",
+    "ids": [
+      "page083.block07"
+    ],
+    "before": "It's the same helmet. You wore it to the last investigation.\n",
+    "after": "We're in the ticket hall. The biggest danger so far is you turning around with that backpack.\n"
+  },
+  {
+    "scene": "CASE17",
+    "ids": [
+      "page083.block09"
+    ],
+    "before": "It has changed departments. Please respect its professional development.\n",
+    "after": "I've been giving you plenty of warning.\n"
+  },
+  {
+    "scene": "CASE17",
+    "ids": [
+      "page083.block11"
+    ],
+    "before": "Then perhaps its first assignment can be reading the ticket sleeve. I'd hate to discover we've promoted something that can't read.\n",
+    "after": "Yes. 'Coming through' is why I'm standing over here with the tickets.\n"
+  },
+  {
+    "scene": "CASE17",
+    "ids": [
+      "page083.block13"
+    ],
+    "before": "Does the helmet earn travel points? Its owner will want to exchange them for snacks.\n",
+    "after": "Did he pack anything besides the helmet?\n"
+  },
+  {
+    "scene": "CASE17",
+    "ids": [
+      "page083.block15"
+    ],
+    "before": "Only if it buys its own ticket. I am not explaining a separate seat for the headgear.\n",
+    "after": "Oh, yes. A very small sandwich. He knows what takes priority.\n"
+  },
+  {
+    "scene": "CASE18",
+    "ids": [
+      "page087.block05"
+    ],
+    "before": "Can your watch accept being wrong, or should I break the news to it privately?\n",
+    "after": "How's your watch taking the news that it's wrong?\n"
+  },
+  {
+    "scene": "CASE18",
+    "ids": [
+      "page087.block07"
+    ],
+    "before": "It's handling the news with dignity. No dramatic beeping. A very professional response.\n",
+    "after": "Quietly. With dignity. I'm proud of it.\n"
+  },
+  {
+    "scene": "CASE18",
+    "ids": [
+      "page087.block11"
+    ],
+    "before": "Less gracefully. I'm correcting the record. I'd like it noted that I did this before anyone made me.\n",
+    "after": "I'm getting there. I've crossed my old times out, haven't I?\n"
+  },
+  {
+    "scene": "CASE18",
+    "ids": [
+      "page087.block13"
+    ],
+    "before": "I'll check the new times with you. Tell the watch it hasn't lost its job. Please give its owner the same message.\n",
+    "after": "You have. I'll check the new times with you. The watch can carry on being dignified.\n"
+  },
+  {
+    "scene": "CASE19",
+    "ids": [
+      "page091.block05"
+    ],
+    "before": "I was going to say 'digital ghost'. A good theory, I thought. Very modern. No old-fashioned bedsheet.\n",
+    "after": "I was going to say 'digital ghost.'\n"
+  },
+  {
+    "scene": "CASE19",
+    "ids": [
+      "page091.block07"
+    ],
+    "before": "Going to? What's happened to it?\n",
+    "after": "Was?\n"
+  },
+  {
+    "scene": "CASE19",
+    "ids": [
+      "page091.block09"
+    ],
+    "before": "I'm checking the scanner first. The ghost can wait outside until we know whether the machine made a mistake.\n",
+    "after": "I'm checking the scanner first. The ghost can wait outside.\n"
+  },
+  {
+    "scene": "CASE19",
+    "ids": [
+      "page091.block11"
+    ],
+    "before": "Look at you. Keeping a perfectly good ghost out of the evidence until it's earned its place.\n",
+    "after": "You see, now you've made it harder for me to tease you. I had a whole speech ready.\n"
+  },
+  {
+    "scene": "CASE19",
+    "ids": [
+      "page091.block13"
+    ],
+    "before": "I'll find it a book while it waits. Something with a proper ending. It must be tired of unfinished business.\n",
+    "after": "You could lend the ghost a book while it waits.\n"
+  },
+  {
+    "scene": "CASE19",
+    "ids": [
+      "page091.block15"
+    ],
+    "before": "A paper one. I'm not giving it the Wi-Fi password. Getting it out of the library would be enough trouble.\n",
+    "after": "A paper one. I'm not giving it the Wi-Fi password.\n"
+  },
+  {
+    "scene": "CASE20",
+    "ids": [
+      "page095.block05"
+    ],
+    "before": "This panel looks like a very worried pear. I think it's realized we've brought notebooks.\n",
+    "after": "That paint smear looks like a very worried pear. See the eyebrows?\n"
+  },
+  {
+    "scene": "CASE20",
+    "ids": [
+      "page095.block07"
+    ],
+    "before": "Give it a place on the art wall, not the witness list. We have enough people to question without interviewing the paint.\n",
+    "after": "I'd rather see who moved the panel. Before you give every splash a name.\n"
+  },
+  {
+    "scene": "CASE20",
+    "ids": [
+      "page095.block09"
+    ],
+    "before": "Understood. Pear excluded from questioning. I'll tell it the good news when it stops looking so nervous.\n",
+    "after": "Just the pear. It's called Pear.\n"
+  },
+  {
+    "scene": "CASE20",
+    "ids": [
+      "page095.block11"
+    ],
+    "before": "Does the pear have an alibi? We shouldn't rule it out just because it's having a difficult day.\n",
+    "after": "Easy to remember. Does Pear have an alibi?\n"
+  },
+  {
+    "scene": "CASE20",
+    "ids": [
+      "page095.block13"
+    ],
+    "before": "The pear is paint, Dilo. Please don't make me put that in the notebook.\n",
+    "after": "The pear is paint, Dilo.\n"
+  },
+  {
+    "scene": "CASE21",
+    "ids": [
+      "page099.block05"
+    ],
+    "before": "Nobody move the pieces yet. I want to see which edges belong together before we make the message say something we like.\n",
+    "after": "Leave them just there. We can still see the torn edges.\n"
+  },
+  {
+    "scene": "CASE21",
+    "ids": [
+      "page099.block07",
+      "page099.block08"
+    ],
+    "before": "I was going to reach for it again. I'll suggest first. Better for the paper, slightly harder on my patience.\n",
+    "after": "I only meant to catch it.\n"
+  },
+  {
+    "scene": "CASE21",
+    "ids": [
+      "page099.block10",
+      "page099.block11"
+    ],
+    "before": "Good. Suggest away. Check the joins with me; if I try to force two edges together, you get to stop me.\n",
+    "after": "I know. Come around here. I need someone to check the joins with me.\n"
+  },
+  {
+    "scene": "CASE21",
+    "ids": [
+      "page099.block13"
+    ],
+    "before": "And keep the handwriting visible when we sleeve it. Edges first, words next. We'll want to read it without taking the whole thing apart again.\n",
+    "after": "We'll put it in a sleeve when it fits. Keep the writing where we can see it.\n"
+  },
+  {
+    "scene": "CASE21",
+    "ids": [
+      "page099.block15"
+    ],
+    "before": "That was a very particular look at the writing. Do you know whose it is?\n",
+    "after": "Do you recognize it?\n"
+  },
+  {
+    "scene": "CASE21",
+    "ids": [
+      "page099.block17",
+      "page099.block18",
+      "page099.block19"
+    ],
+    "before": "Maybe. The archive will have to back me up. I don't get to turn a memory into a fact just because I'm the oldest person at the table.\n",
+    "after": "It feels familiar. I'd like to find another sample before I say more.\n"
+  },
+  {
+    "scene": "CASE21",
+    "ids": [
+      "page099.block21"
+    ],
+    "before": "Then you've got the archive, we've got the joins, and Detective has the pieces. I like this plan. I can help without hurrying the paper.\n",
+    "after": "I'll check this edge. You take the next one, Detective.\n"
+  },
+  {
+    "scene": "CASE22",
+    "ids": [
+      "page105.block05",
+      "page105.block06"
+    ],
+    "before": "Three identical black instrument cases. Excellent. The objects have joined witness protection. We may have to give them new names.\n",
+    "after": "I can tell the three cases apart now. That one was on the left.\n"
+  },
+  {
+    "scene": "CASE22",
+    "ids": [
+      "page105.block08"
+    ],
+    "before": "Their names are on the labels. Whoever arranged the protection has made one fairly serious mistake.\n",
+    "after": "Before you walked around the table, or after?\n"
+  },
+  {
+    "scene": "CASE22",
+    "ids": [
+      "page105.block10"
+    ],
+    "before": "Weak cover identities. I could run this operation better with a marker pen and ten minutes.\n",
+    "after": "Ah. I had a system until you asked that.\n"
+  },
+  {
+    "scene": "CASE22",
+    "ids": [
+      "page105.block12"
+    ],
+    "before": "Please don't improve their labels. They've had a long rehearsal. Let's get them onto the right shelves before you start them on new careers.\n",
+    "after": "I like the labels. They stay on the same case when I walk around it.\n"
+  },
+  {
+    "scene": "CASE22",
+    "ids": [
+      "page105.block14"
+    ],
+    "before": "I'll check the shelves. I'm not explaining three freshly renamed instruments to their teacher.\n",
+    "after": "Tell me before you change seats, Alio. I'm only just learning your system.\n"
+  },
+  {
+    "scene": "CASE23",
+    "ids": [
+      "page109.block05"
+    ],
+    "before": "The arcade scoreboard has challenged me personally. I wasn't even playing. It just sat there showing me a score it knew I'd want to beat.\n",
+    "after": "The arcade scoreboard has challenged me personally.\n"
+  },
+  {
+    "scene": "CASE23",
+    "ids": [
+      "page109.block11"
+    ],
+    "before": "I've got the wristband file. Can you bear to leave your rival unsupervised while we find someone who can help with the record?\n",
+    "after": "I've got the wristband file. Come on. I'll let you tell me how easily you could beat it on the way.\n"
+  },
+  {
+    "scene": "CASE23",
+    "ids": [
+      "page109.block13"
+    ],
+    "before": "For the case. Tell it I haven't surrendered. And if the score changes while I'm away, I want a witness.\n",
+    "after": "Easily. Walk slowly. I haven't told you about my best score yet.\n"
+  },
+  {
+    "scene": "CASE24",
+    "ids": [
+      "page113.block05"
+    ],
+    "before": "I've paused my dramatic theory. It's waiting very patiently. Much better manners than people usually give it credit for.\n",
+    "after": "I've paused my dramatic theory.\n"
+  },
+  {
+    "scene": "CASE24",
+    "ids": [
+      "page113.block09"
+    ],
+    "before": "Yes. The muddy evidence requested a word. I'm trying this new thing where I listen before drawing a tunnel.\n",
+    "after": "Yes. I want to get a proper look at the prints before I say anything else.\n"
+  },
+  {
+    "scene": "CASE24",
+    "ids": [
+      "page113.block11"
+    ],
+    "before": "Then I'll be quiet too. We've got actual prints to compare, and I want to hear what you notice.\n",
+    "after": "Then I'll be quiet too.\n"
+  },
+  {
+    "scene": "CASE24",
+    "ids": [
+      "page113.block13"
+    ],
+    "before": "Both of you? I should photograph this. The family will never believe it happened without evidence.\n",
+    "after": "Both of you? I should get a photograph. Nobody at home will believe me.\n"
+  },
+  {
+    "scene": "CASE24",
+    "ids": [
+      "page113.block15"
+    ],
+    "before": "Footprints first. My good behavior can wait for the family album. Put it next to Mom finding her phone; I'd like this album to be fair.\n",
+    "after": "Footprints first. Put my good behavior next to you finding your phone. I'd like the family album to be fair.\n"
+  },
+  {
+    "scene": "CASE25",
+    "ids": [
+      "page117.block05"
+    ],
+    "before": "This parcel has met more helpful people than it can remember. If one more person says 'Leave it with me', we may need a map of its holidays.\n",
+    "after": "Everyone who touched this parcel was helping. It must be exhausting to be that well looked after.\n"
+  },
+  {
+    "scene": "CASE25",
+    "ids": [
+      "page117.block07"
+    ],
+    "before": "Then let's help it in a less creative order. Check the handoff before anybody moves it again.\n",
+    "after": "Let's give it a rest. Nobody move it until we know where it belongs.\n"
+  },
+  {
+    "scene": "CASE25",
+    "ids": [
+      "page117.block09"
+    ],
+    "before": "I'll guard it. Revolutionary idea: one label, one destination. No unauthorized helping while the Detective works.\n",
+    "after": "I'll stay with it. Alio, if you're about to help, put your hands in your pockets.\n"
+  },
+  {
+    "scene": "CASE25",
+    "ids": [
+      "page117.block11"
+    ],
+    "before": "What about morale biscuits? For the people. I haven't completely misunderstood the parcel.\n",
+    "after": "I was going to get us some cookies. Difficult now.\n"
+  },
+  {
+    "scene": "CASE25",
+    "ids": [
+      "page117.block13"
+    ],
+    "before": "Allowed. Bring enough for our Detective too. Advice for the parcel can wait until we've checked where it's meant to go.\n",
+    "after": "Hands out, then. That's the first delivery here with a clear destination.\n"
+  },
+  {
+    "scene": "THREAD120",
+    "ids": [
+      "page120.block15"
+    ],
+    "before": "I knew we kept those maps for a reason. Our table looks as if we've been collecting paper professionally.\nWe have. Every one is a solved case. I also kept mine because the stack looked impressive. Both things can be true.\n",
+    "after": "Fourteen selected maps. I knew we'd need all that careful filing.\nI kept mine because the stack looked impressive. I've been showing people.\n"
+  },
+  {
+    "scene": "THREAD120",
+    "ids": [
+      "page120.block16"
+    ],
+    "before": "They can. Let's lay out the selected maps before you start measuring your achievements with a ruler.\nUseful evidence and an excellent stack. Let him have both.\n",
+    "after": "That explains why you asked if the librarian was coming round.\nLet him show it off. He's usually showing me something he hasn't finished yet.\n"
+  },
+  {
+    "scene": "THREAD120",
+    "ids": [
+      "page120.block17"
+    ],
+    "before": "Then let me have some table. My elbow has become a paperweight. If there's anything else we must keep, you'll have to file me alongside it.\n",
+    "after": "He can show them my elbow. It's been holding this corner down for ten minutes.\n"
+  },
+  {
+    "scene": "CASE26",
+    "ids": [
+      "page121.block15",
+      "page121.block16",
+      "page121.block17"
+    ],
+    "before": "Empty rooms. We've been looking at everyone except nobody. I suppose nobody wasn't going to put a hand up.\n",
+    "after": "We've been looking at where everyone stood. Now it's the rooms with nobody in them.\n"
+  },
+  {
+    "scene": "CASE26",
+    "ids": [
+      "page121.block19",
+      "page121.block20",
+      "page121.block21"
+    ],
+    "before": "Nobody has been very quiet. Before we give it a medal, I should mention that it's contributed nothing to the conversation.\n",
+    "after": "Nobody's been very patient. Hasn't interrupted once.\n"
+  },
+  {
+    "scene": "CASE26",
+    "ids": [
+      "page121.block23",
+      "page121.block24"
+    ],
+    "before": "Already my favorite witness. No interruptions, no dramatic entrances, and no equipment requests.\n",
+    "after": "Already my favorite witness.\n"
+  },
+  {
+    "scene": "CASE26",
+    "ids": [
+      "page121.block26"
+    ],
+    "before": "Your brothers are right here, Luli. Besides, I've heard you explain a footnote over an entire dinner.\n",
+    "after": "Luli, you once explained a footnote all the way through dinner. Your brothers barely managed to ask for the salt.\n"
+  },
+  {
+    "scene": "CASE26",
+    "ids": [
+      "page121.block28",
+      "page121.block29",
+      "page121.block30"
+    ],
+    "before": "Which I enjoyed. But let's give nobody a turn. Detective, pull the maps closer; I want to see what we've been walking past.\n",
+    "after": "I enjoyed that footnote. But I would like to hear what we've missed.\n"
+  },
+  {
+    "scene": "CASE27",
+    "ids": [
+      "page125.block12"
+    ],
+    "before": "Clean hands. Flat map. No heroic folding. This plan is older than all your favorite excuses.\n",
+    "after": "Clean hands, please. And no folding the old map to make room for your elbows.\n"
+  },
+  {
+    "scene": "CASE27",
+    "ids": [
+      "page125.block14",
+      "page125.block15",
+      "page125.block16"
+    ],
+    "before": "Am I allowed one heroic finger? I only want to point. I can do it at a perfectly sensible distance.\n",
+    "after": "May I point? I've got a very clean finger and nowhere else to put my excitement.\n"
+  },
+  {
+    "scene": "CASE27",
+    "ids": [
+      "page125.block18",
+      "page125.block19"
+    ],
+    "before": "One clean finger, above a landmark. No prodding. The building has survived this long without you poking a new room into it.\n",
+    "after": "Above the sleeve. Go on. I want to see what you've noticed.\n"
+  },
+  {
+    "scene": "CASE27",
+    "ids": [
+      "page125.block21",
+      "page125.block22",
+      "page125.block23"
+    ],
+    "before": "We solved a whole parcel mystery, recovered your archive tools and earned permission for one finger. I was hoping for at least a whole hand.\n",
+    "after": "All those cases, and he's finally been trusted with one finger.\n"
+  },
+  {
+    "scene": "CASE27",
+    "ids": [
+      "page125.block25"
+    ],
+    "before": "A worthy investment. The sleeve can touch the map; your finger can hover. Now, who's going to help me line up the plans?\n",
+    "after": "I trust the rest of him too. I just prefer it farther from my map.\n"
+  },
+  {
+    "scene": "CASE28",
+    "ids": [
+      "page129.block05"
+    ],
+    "before": "I've put my tunnel proposal on a separate card. It looks much more convincing with a heading and a straight border.\n",
+    "after": "I've put my tunnel theory on a separate card. With a proper heading. It looks quite convincing.\n"
+  },
+  {
+    "scene": "CASE28",
+    "ids": [
+      "page129.block07"
+    ],
+    "before": "How much evidence is on the card? I'm asking before you draw a crest for it.\n",
+    "after": "How much evidence is on the card?\n"
+  },
+  {
+    "scene": "CASE28",
+    "ids": [
+      "page129.block09"
+    ],
+    "before": "At present? Decorative confidence. I gave that quite a lot of space.\n",
+    "after": "At present? Decorative confidence.\n"
+  },
+  {
+    "scene": "CASE28",
+    "ids": [
+      "page129.block11",
+      "page129.block12"
+    ],
+    "before": "I'd like a card. Some of my very organized plans are mostly that. I've been calling it 'being prepared' and hoping nobody asks for details.\n",
+    "after": "I'd like a card. I've put that into several very organized plans.\n"
+  },
+  {
+    "scene": "CASE28",
+    "ids": [
+      "page129.block14"
+    ],
+    "before": "Make it two. I used to call mine 'experience'. That's why I like your question, Luli. It used to annoy me terribly.\n",
+    "after": "Make it two. I used to call mine 'experience.'\n"
+  },
+  {
+    "scene": "CASE29",
+    "ids": [
+      "page133.block05"
+    ],
+    "before": "That's a lot of map. I'll clear some space. Nobody balance anything on the Detective's elbow; I've tried that system and can't recommend it.\n",
+    "after": "That's a lot of map. Slide the folders over. Let's give our Detective some room.\n"
+  },
+  {
+    "scene": "CASE29",
+    "ids": [
+      "page133.block07"
+    ],
+    "before": "Take your time. We're not going anywhere. If you need to stare at one corner for a while, I'll check the other one with you.\n",
+    "after": "Take your time. I'll stay at this end so it doesn't curl up on you.\n"
+  },
+  {
+    "scene": "CASE29",
+    "ids": [
+      "page133.block09"
+    ],
+    "before": "I can be quiet for one map. A big one. I'm making a serious offer here.\n",
+    "after": "I can be quiet for one map. If that helps.\n"
+  },
+  {
+    "scene": "CASE29",
+    "ids": [
+      "page133.block11"
+    ],
+    "before": "I've written that down. In pencil, to be fair.\n",
+    "after": "It does. I'll save anything worth teasing you about until afterwards.\n"
+  },
+  {
+    "scene": "CASE29",
+    "ids": [
+      "page133.block13"
+    ],
+    "before": "Make the call when you're ready. We're here.\n",
+    "after": "There. All of us here, and space to think. Begin when you're ready.\n"
+  },
+  {
+    "scene": "CASE30",
+    "ids": [
+      "page137.block08"
+    ],
+    "before": "already proved.\n\nHAPPY MAKERS COMMS\n1 MIMI: No new clue. Use what you earned. Your Case Wall has the record; the panel's ready when you are.\n2 DILO: Victory noise? I've been saving a very good one. I'm worried it's going to escape without permission.\n",
+    "after": "already proved.\n\nHAPPY MAKERS COMMS\n1 MIMI: Case Wall ready? Credential too? Then the panel's yours, Detective.\n2 DILO: And the victory noise is mine. I've been saving a good one.\n"
+  },
+  {
+    "scene": "CASE30",
+    "ids": [
+      "page137.block09"
+    ],
+    "before": "3 LULI: Keep it in your head until the door opens. If you're going to celebrate early, at least do it where the rest of us can't hear it.\n4 NINI: Mine's already getting loud in there. We can compare them afterwards. Detective gets to hear the door first.\n5 BIBI: Go on, Detective. You've been with us from the black envelope to this panel. We're right behind you.\n",
+    "after": "3 LULI: Keep it in your head until the door opens.\n4 NINI: Mine's already getting loud in my head.\n5 BIBI: Go on. You've brought us this far. We're right behind you.\n"
+  }
+]

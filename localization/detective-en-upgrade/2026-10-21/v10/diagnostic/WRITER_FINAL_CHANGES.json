@@ -1,0 +1,70 @@
+{
+  "r1_sha256": "280991d8720d182226d418acdc5e6ee6cb5322aa132edb14443a0491bdb4b9bc",
+  "final_sha256": "5ca81b843a0a4735fb1cd4bd321e2adfb31b38ff754be73345736e3bec676344",
+  "changed_turns": [
+    {
+      "scene": "CASE02",
+      "turn": 5,
+      "speaker": "NINI",
+      "before": "And no pockets. We should probably ask someone who was in the room.",
+      "after": "I want to hear the scissors story later. The long version.",
+      "reason": "Author final reread + independent family-ear confirmation: pockets has no clear link to blank sheet/scissors story; give Nini an immediately understandable interest in the family mishap."
+    },
+    {
+      "scene": "CASE08",
+      "turn": 2,
+      "speaker": "MIMI",
+      "before": "It also gets us to a locked door. What happens to all that time you saved?",
+      "after": "Does that include the time we spend standing at locked doors?",
+      "reason": "Story: make door delay hypothetical; do not invent a property of any route."
+    },
+    {
+      "scene": "CASE09",
+      "turn": 6,
+      "speaker": "ALIO",
+      "before": "Then I need a better witness. Mine keeps agreeing with Grandma.",
+      "after": "I was hoping one of you had agreed quietly. Now I'll have to bake it myself.",
+      "reason": "All reviewers/author: replace undefined witness pronoun with a concrete self-own about the cake."
+    },
+    {
+      "scene": "CASE18",
+      "turn": 5,
+      "speaker": "LULI",
+      "before": "You have. I'll check the new ones with you. We can use my watch while yours enjoys being dignified.",
+      "after": "You have. I'll check the new times with you. The watch can carry on being dignified.",
+      "reason": "Story: retain correction support and watch joke without adding a fourth timing source."
+    },
+    {
+      "scene": "CASE22",
+      "turn": 5,
+      "speaker": "DILO",
+      "before": "Let's use those. I don't want to solve this again every time Alio changes seats.",
+      "after": "Tell me before you change seats, Alio. I'm only just learning your system.",
+      "reason": "Story: keep the orientation joke about Alio; labels are no longer proposed as the puzzle-solving method."
+    },
+    {
+      "scene": "CASE23",
+      "turn": 5,
+      "speaker": "DILO",
+      "before": "I could. Easily. You're not allowed to count that as me playing, though.",
+      "after": "Easily. Walk slowly. I haven't told you about my best score yet.",
+      "reason": "Comedy/audience: answer sister's invitation with an immediately legible boast; remove unexplained game-counting rule."
+    },
+    {
+      "scene": "CASE26",
+      "turn": 4,
+      "speaker": "MIMI",
+      "before": "Luli, you once explained a footnote all the way through dinner. Nobody didn't get a word in then, either.",
+      "after": "Luli, you once explained a footnote all the way through dinner. Your brothers barely managed to ask for the salt.",
+      "reason": "Comedy/audience: give the interruption joke concrete people; remove nobody/double-negative decoding."
+    },
+    {
+      "scene": "CASE30",
+      "turn": 4,
+      "speaker": "NINI",
+      "before": "Mine's in there too. It's getting very crowded.",
+      "after": "Mine's already getting loud in my head.",
+      "reason": "All reviewers: explicitly place Nini's imagined victory noise in her own head."
+    }
+  ]
+}

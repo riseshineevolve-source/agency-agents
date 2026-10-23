@@ -1,0 +1,211 @@
+{
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "book_pdf_sha256": "3ae4a92a35d1181b49211178b2bb3cedee4e95fff80f42c1c890de2f2aecc074",
+  "standalone_pdf_sha256": "45f0cb47f4c487ec838f8eb1e26b0526c023ba35e7fd3b28a2566c7bf3798dd5",
+  "reviewer_role": "Audience/family-ear editorial reviewer, ages 8–12",
+  "overall_status": "PASS",
+  "method": "Direct visual inspection of all 16 actual Poppler-rendered full-page PNG files with view_image, in four batches of four. Individual pages inspected at supplied full-page resolution, not contact-sheet or extraction-only approval.",
+  "sample_scope": "12 full-book leaves 7,19,23,41,49,65,77,83,95,109,121,137 and 4 standalone pages for CASE02/16/21/30, indexed 4/19/24/34.",
+  "samples_inspected": 16,
+  "required_visual_fixes": [],
+  "observations": "Bold book speaker labels and individually separated standalone cards keep turn-taking legible. No clipped dialogue, overlap, missing glyphs, or misplaced speaker labels observed in this sample. Dialogue remains easy to read against case prose. The full-book running header visibly retains ENGLISH READING EDITION V8 from the source reading edition; this sample pass concerns dialogue readability, not a changed production edition label.",
+  "limits": "Sampled screen reading proof only; no claim of checking all 225 book pages visually, testing with children, professional psychological evaluation, or a physical printed proof. This is not a production print-ready certification.",
+  "samples": [
+    {
+      "artifact": "full_book",
+      "pdf_page": 7,
+      "path": "detective-v10/proof/renders/book-007.png",
+      "png_sha256": "d8d0c7d5d262def66e55fb04aa682baa00b32e5256fed390512be51da7eddfc2",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Dense squad biographies remain readable; three dialogue turns sit below profiles with separate bold speaker labels and generous clearance before footer."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 19,
+      "path": "detective-v10/proof/renders/book-019.png",
+      "png_sha256": "81ddf467367f4c053eb89cbf5bc3d5b5f058b44baeb93fcbb012c040534db3d4",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Case prose and five dialogue turns remain visibly distinct; revised scissors-story Nini turn is whole and readable."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 23,
+      "path": "detective-v10/proof/renders/book-023.png",
+      "png_sha256": "4bb5aeead36305ee4b529fb6ebf35a039ac462c72074914772aa71829d6cdf0b",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Five short turns with bold labels keep the sparkle exchange easy to scan; last reply does not collide with footer."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 41,
+      "path": "detective-v10/proof/renders/book-041.png",
+      "png_sha256": "491540bcd56bff94af4f08b4a5498461febc60cd3c711098ffc98834d7c0f512",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Long setup paragraph and cupboard exchange have clear line breaks and no overlap; Nini costume-size contrast readable."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 49,
+      "path": "detective-v10/proof/renders/book-049.png",
+      "png_sha256": "ccd2b1d2d1a626a5609c41cb849fd6532e1a99b1016505ed4e4e3b0df5a0be91",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Revised cake self-own fits on a clear final line; no undefined witness reference visible."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 65,
+      "path": "detective-v10/proof/renders/book-065.png",
+      "png_sha256": "79bdf5404e7ab7a222c3d6acc8e0dd831606560f1b358ac42d078e5aaa09050a",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Long camera setup and six-turn fox banter are visually separate; Pockets remains a short one-line beat; Nini strap and Alio reply unbroken."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 77,
+      "path": "detective-v10/proof/renders/book-077.png",
+      "png_sha256": "f7ffb2df45847ebb08cc3674566a1aa8aa59e8345ab2ff1960c44b257d11cda3",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Long title uses two lines; hat/sandwich turns are intact with clear speaker labels and no title/body collision."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 83,
+      "path": "detective-v10/proof/renders/book-083.png",
+      "png_sha256": "c2419b2ab612110062057a619353dc3a48d273a7c3838f98be0a8673788282bc",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Railway helmet six-turn exchange fits as readable separate lines; quoted Coming through is rendered cleanly."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 95,
+      "path": "detective-v10/proof/renders/book-095.png",
+      "png_sha256": "6503c412012c19f269916e97389080507823a6b1093f1628d2a192f3940694ca",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Short pear exchange retains six separate turns; Strong alibi is an immediate uncluttered final beat."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 109,
+      "path": "detective-v10/proof/renders/book-109.png",
+      "png_sha256": "419af511c4abd4b551eab6f0616afaea77f76d71803a78b918f6356050cd799a",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Scoreboard first three lines remain visibly separate; Luli wraps only her own line; revised best-score closing intact."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 121,
+      "path": "detective-v10/proof/renders/book-121.png",
+      "png_sha256": "bd6b61eb4478d07ea0c4a32ed1993d608b8a92ac1ad96d83d2a80aa86ca47466",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Long empty-room setup and family exchange separate clearly; salt request wraps within Mimi turn; Bibi has her own last line."
+    },
+    {
+      "artifact": "full_book",
+      "pdf_page": 137,
+      "path": "detective-v10/proof/renders/book-137.png",
+      "png_sha256": "8688416848be060501a369bd5e13b0096ac7b87af0922a30d3ad37b7eaca2a30",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Final fields stay in intro; five speaker turns below heading remain clear; Nini own-head correction readable."
+    },
+    {
+      "artifact": "standalone_comms",
+      "pdf_page": 4,
+      "scene": "CASE02",
+      "path": "detective-v10/proof/renders/comms-04.png",
+      "png_sha256": "06d4cbeae9269ced12c6de4bca3d7ad8f9e3d7106a166eccbea04df20486c640",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "All five cards fit; Nini revised scissors-story tag and speaker label are visible; no card clips or crowding."
+    },
+    {
+      "artifact": "standalone_comms",
+      "pdf_page": 19,
+      "scene": "CASE16",
+      "path": "detective-v10/proof/renders/comms-19.png",
+      "png_sha256": "444e53830a111549f145342e4a4ef597a56e853933a910524caf09e287e04559",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Six cards preserve hat-shelter rhythm; Mimi sandwich wrap stays inside her card; last Bibi punchline readable."
+    },
+    {
+      "artifact": "standalone_comms",
+      "pdf_page": 24,
+      "scene": "CASE21",
+      "path": "detective-v10/proof/renders/comms-24.png",
+      "png_sha256": "b280a7367c948ecef53e242c3c2904d8eec45ad368ee194e629cdd513f75cc04",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Seven quiet exchange cards retain order and ample distinction; edge-check offer is fully visible; no orphaned speaker label."
+    },
+    {
+      "artifact": "standalone_comms",
+      "pdf_page": 34,
+      "scene": "CASE30",
+      "path": "detective-v10/proof/renders/comms-34.png",
+      "png_sha256": "1b2ea7d13f0b9e7a90f764c44cfabb05d98b753d5bb6a063387c383cfe8b315c",
+      "dimensions_px": [
+        850,
+        1100
+      ],
+      "visual_status": "PASS",
+      "observation": "Five cards keep final invitation and victory-noise turns separate; Nini explicitly own-head text is fully visible."
+    }
+  ]
+}

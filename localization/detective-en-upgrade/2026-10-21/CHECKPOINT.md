@@ -1,13 +1,9 @@
-# HM Comms final checkpoint
+# Current V10 checkpoint
 
-Status: OWNER_READ_CANDIDATE. Owner-authorizedHMComms-onlyoriginal/V7merge andricherfamilyscenescomplete.
+Status: OWNER_READ_CANDIDATE. English HMComms-only rhythm revision complete.
 
-Canonical candidate SHA256: `fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3`. V8baseline: `d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e`.
+Canonical SHA256: `86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a`. Baseline V9: `fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3`.
 
-34scenes,183spoken turns,173spokenstringschanged,210stableunitschangedon35sourcefolios.2847outside-Commsunits andmixed137narrativeprefix exact. All143nonCommsV8repairs andall27V6repairs exact.30cases/90hints/30solutions/maps unchanged.
+34scenes /183turns; 215changed stable units on35folios.2847protected units and143V8non-Comms repairs exact. Four actual stages PASS; actual R1 fixes retained; CLI deterministic PASS. No new full-book puzzle audit claimed.
 
-FouractualindependentstagesPASS exacthash; actualR1FIXreceipts retained, actual17turn15sceneclosure. Native/comedy reviewer additionallyrereadall34finalshortdialogues. CLI deterministicPASS/OWNER_READ_CANDIDATE; noopenissues/sourceambiguities. Thisisnotanew225foliopuzzleaudit.
-
-Complete225pagePDF SHA256: `48c91d7a578cb340018d20fd1656a31e140d41114d50667c254718b169f2f64a`. Standalone34pageCommsPDF SHA256: `05cd3424f2d9f2fc36b59f31f130a5e8c8a221abf459591b2b2978fa85eaa4bf`. Bookminimum10.5pt;standalone11.5pt. Independent190leaftext/pixelidentity,35strictnonCommsremainders and183speakerpairsPASS. Actualvisualreceiptgovernssamplecoverage; rootall69foliosin8contactsoverview.
-
-ExistingsoleBookFactorywriterreceives210operationdelta plus3067targethashes andsame183speakerorder. Productionimport/physicalprint/release remainseparate. No productrenderer,PL,mainmerge,publication,freezeorhostedCIgreen claim.
+Complete225page PDF: `3ae4a92a35d1181b49211178b2bb3cedee4e95fff80f42c1c890de2f2aecc074`. Standalone34page PDF: `45f0cb47f4c487ec838f8eb1e26b0526c023ba35e7fd3b28a2566c7bf3798dd5`. Book minimum10.5pt; standalone12pt. Independent PDF preservation binding PASS; visual sample scope recorded separately. No production or physical-print approval.

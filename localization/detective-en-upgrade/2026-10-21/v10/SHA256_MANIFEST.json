@@ -1,0 +1,560 @@
+{
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "files": [
+    {
+      "path": "detective-v10/CHECKPOINT.md",
+      "sha256": "7c9766f39bb65fd30e18ce98ad5d8a8d5b5f0a4e8292e1f61a592c9b967ce092",
+      "bytes": 836
+    },
+    {
+      "path": "detective-v10/OWNER_AUTHORITY.json",
+      "sha256": "be3b5efed7c88c32d96194a8d387207161637f3a9a76bd078eee638e27db4215",
+      "bytes": 6443
+    },
+    {
+      "path": "detective-v10/README.md",
+      "sha256": "319893be6535168c63d4fe7d9f1e8652686b5c34b4c471ad3403559e272580d6",
+      "bytes": 1938
+    },
+    {
+      "path": "detective-v10/RECOVERY.md",
+      "sha256": "6c7ec00d115350d8d2e93aee79e71a567b92f89c173a9331fe0e59f9f87f24df",
+      "bytes": 583
+    },
+    {
+      "path": "detective-v10/assemble_reviews.py",
+      "sha256": "0f2b9993b7098e84fa8c204f6a566a17cd4a18ffb906ab170de26da524b2e396",
+      "bytes": 1120
+    },
+    {
+      "path": "detective-v10/baseline/SOURCE_INVENTORY.json",
+      "sha256": "947455924f8869f1fdbec4d6eef661fd22e9148e2a9fb9bd3c0a271592a9da48",
+      "bytes": 575
+    },
+    {
+      "path": "detective-v10/baseline/candidate-v9.json",
+      "sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+      "bytes": 332680
+    },
+    {
+      "path": "detective-v10/baseline/reader-v9.md",
+      "sha256": "eb17a4babf5861e609d359a839ff35c9f088f392c7e76f9ea3e494c7d0077969",
+      "bytes": 132740
+    },
+    {
+      "path": "detective-v10/baseline/reviewed-r1/HAPPY_MAKERS_COMMS_RHYTHM_EN.md",
+      "sha256": "c9da127e85197e5668f1067cb5cd737530d00056c2d2f12c343fe2be4f1fd12c",
+      "bytes": 14104
+    },
+    {
+      "path": "detective-v10/baseline/reviewed-r1/candidate.json",
+      "sha256": "7b5d441751ec0be8622ca5afd76aea7203f6bc752bc27b2fdee472e31c1bcef2",
+      "bytes": 325566
+    },
+    {
+      "path": "detective-v10/baseline/reviewed-r1/final-scenes.json",
+      "sha256": "b6be2bf21e784a6cf2c3e45884a56ee8f3ed444ec6e13c2c855ab30a8cdc3ee8",
+      "bytes": 261888
+    },
+    {
+      "path": "detective-v10/baseline/v10-intake.json",
+      "sha256": "d9677b5c7f1cb3a717a3ca9bcd6a2c565f8d3639aff50a09e5874da43bf1cb06",
+      "bytes": 596723
+    },
+    {
+      "path": "detective-v10/build_candidate.py",
+      "sha256": "ec8b7dd325ca110e6ed8100321fdf1b4c9c2d9fb0a40dba46f582e3f5b28eed2",
+      "bytes": 10919
+    },
+    {
+      "path": "detective-v10/build_proofs.py",
+      "sha256": "33814b2a6426541536b5eef471b5861fc3993658a93105f9ea9ed5b306736532",
+      "bytes": 7141
+    },
+    {
+      "path": "detective-v10/candidate/HAPPY_MAKERS_COMMS_RHYTHM_EN.md",
+      "sha256": "17ef4ecf1d52138d2a4481a3f54d4c00065581bd208aef94f065a39a8ea44eac",
+      "bytes": 14066
+    },
+    {
+      "path": "detective-v10/candidate/HM_COMMS_WRITER_FINAL.md",
+      "sha256": "8cc24c50b1545f8557676f606369cd2357aefc916d422f2563eea4eabbc44e8e",
+      "bytes": 13959
+    },
+    {
+      "path": "detective-v10/candidate/HM_COMMS_WRITER_R1.md",
+      "sha256": "7244ec11d4cf8dde55ed3c37735ff7ec910e9d2819c379d784f4966f50746517",
+      "bytes": 13994
+    },
+    {
+      "path": "detective-v10/candidate/ORIGINAL_V7_V8_V9_FINAL_COMPARISON.json",
+      "sha256": "547dfac4a00727119efc93dcbd00c5db109987e3f96f40e62ba3361f56b52543",
+      "bytes": 83552
+    },
+    {
+      "path": "detective-v10/candidate/candidate-pages.json",
+      "sha256": "cba6b484e9a763ecc82b5b84eb618059d81f421e2ff9339616a08471cb50d461",
+      "bytes": 147393
+    },
+    {
+      "path": "detective-v10/candidate/candidate-segments.json",
+      "sha256": "a395bbbafc8e3af907921ea106661f8a7286b4361991208dccd099e2212af1c3",
+      "bytes": 2940366
+    },
+    {
+      "path": "detective-v10/candidate/candidate.json",
+      "sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+      "bytes": 325528
+    },
+    {
+      "path": "detective-v10/candidate/change-ledger.json",
+      "sha256": "bd5503e16cde89e86d3f9e8a7508a5420196bc2200617ac43ea9b7b6c17b40f7",
+      "bytes": 87947
+    },
+    {
+      "path": "detective-v10/candidate/edit-units.json",
+      "sha256": "95043d6d025a24c6dc3b46e43ec0762647499e25795c655e1c356d9dea967ba5",
+      "bytes": 49868
+    },
+    {
+      "path": "detective-v10/candidate/final-scenes.json",
+      "sha256": "f668196ee4ab019f9e6cc62a3bab897fc1edb4623362fe5bd03057d6c37db9c3",
+      "bytes": 261850
+    },
+    {
+      "path": "detective-v10/candidate/reader-manuscript.md",
+      "sha256": "0d97a18f9d1f807a1cbfa861d3fa3171f4b847cca64eddd94ae5d3897bdf8063",
+      "bytes": 125588
+    },
+    {
+      "path": "detective-v10/candidate/reader-order.json",
+      "sha256": "cbe1204c0bccad0038c760c7529b9b9e0972281957b8f04bec4bd6d54f68318e",
+      "bytes": 8071
+    },
+    {
+      "path": "detective-v10/diagnostic/CASE_CONTEXT_PACKET.md",
+      "sha256": "982f37ffd49953e6c2c14605c75e6e80b331e8654d5b1979d295c0e0f8494843",
+      "bytes": 111799
+    },
+    {
+      "path": "detective-v10/diagnostic/VERSION_REFERENCE.md",
+      "sha256": "649a66d0d9384d48a24ed091dc7cc6804dadee6863da7826bc55f32b644393ab",
+      "bytes": 46418
+    },
+    {
+      "path": "detective-v10/diagnostic/WRITER_FINAL_CHANGES.json",
+      "sha256": "4f6efc24e335c1c66332f702139ca9c7c21ef4bddd5fe657160164a56d15b15e",
+      "bytes": 3319
+    },
+    {
+      "path": "detective-v10/diagnostic/WRITER_FINAL_READ.md",
+      "sha256": "1b8786ad2f1253d461bd346da568d24ea90938dc41f9b7e2098d98f8021e663d",
+      "bytes": 1405
+    },
+    {
+      "path": "detective-v10/diagnostic/WRITER_R1_CHOICES.md",
+      "sha256": "2b15cce016b524bfbcecefae4f811037c61127ed3a07cd2a92673e2c6a83ca82",
+      "bytes": 4139
+    },
+    {
+      "path": "detective-v10/diagnostic/WRITER_SCENE_PLAN.json",
+      "sha256": "a5ad9ed43d97ee1caf88a9d3cfae5f04db065506d4648bf7e2772ae272eeff4c",
+      "bytes": 19621
+    },
+    {
+      "path": "detective-v10/diagnostic/source-scenes.json",
+      "sha256": "b45472bdea1d09b28e846ff957fd4de3b85dc8fbf9f31e0329f1f6e314561998",
+      "bytes": 262002
+    },
+    {
+      "path": "detective-v10/dialogue-writer-final.json",
+      "sha256": "5ca81b843a0a4735fb1cd4bd321e2adfb31b38ff754be73345736e3bec676344",
+      "bytes": 13420
+    },
+    {
+      "path": "detective-v10/dialogue-writer-r1.json",
+      "sha256": "280991d8720d182226d418acdc5e6ee6cb5322aa132edb14443a0491bdb4b9bc",
+      "bytes": 13458
+    },
+    {
+      "path": "detective-v10/finalize.py",
+      "sha256": "2e872e3e3d32ea8fac708bb412f6f405f4880e2805ac2cf5ddf51016a86ec170",
+      "bytes": 7105
+    },
+    {
+      "path": "detective-v10/integration/EDITORIAL_IMPORT_PACKET_HM_COMMS_V10.json",
+      "sha256": "4f9daeca1e786f48b07f439ad1b591264823ba201966bf412f8ea30966d5fd37",
+      "bytes": 375874
+    },
+    {
+      "path": "detective-v10/package.py",
+      "sha256": "1702498b615d66890ba149ad188ba578b13fab5e168ff54607251b5220d9b97c",
+      "bytes": 2403
+    },
+    {
+      "path": "detective-v10/prepare_git.py",
+      "sha256": "6085a541cee73d8f8423f7cb71cfb754a52091c84273ad728a67be41ecb08294",
+      "bytes": 5270
+    },
+    {
+      "path": "detective-v10/proof/DETECTIVE_EN_V10_FULL_ENGLISH.pdf",
+      "sha256": "3ae4a92a35d1181b49211178b2bb3cedee4e95fff80f42c1c890de2f2aecc074",
+      "bytes": 56659074
+    },
+    {
+      "path": "detective-v10/proof/HAPPY_MAKERS_COMMS_V10_EN.pdf",
+      "sha256": "45f0cb47f4c487ec838f8eb1e26b0526c023ba35e7fd3b28a2566c7bf3798dd5",
+      "bytes": 98370
+    },
+    {
+      "path": "detective-v10/proof/POPPLER_RENDER_RECEIPT.json",
+      "sha256": "00c62ec7fbcbb2456ab4b53a92422f52e8aad34ecb5562b43578484bf4b5e375",
+      "bytes": 10344
+    },
+    {
+      "path": "detective-v10/proof/PROOF_QA.json",
+      "sha256": "20acf93efae73cddbdae6412c2b06162e314049a747debeb2a3c6c76e3eb0c75",
+      "bytes": 24701
+    },
+    {
+      "path": "detective-v10/proof/ROOT_VISUAL_REVIEW.json",
+      "sha256": "1f02fb899d21fd103017b9f47edd840823e04610d669360c858576108211e679",
+      "bytes": 821
+    },
+    {
+      "path": "detective-v10/qa/BOUNDARY_CHECK.json",
+      "sha256": "0a84bc8b14fc34e8f4e9ab884d80e8439ce4d04571072b03471d9261566a29a0",
+      "bytes": 970
+    },
+    {
+      "path": "detective-v10/qa/CLI_CHECK.json",
+      "sha256": "e8a2423356f03ffa0ef5c8cb8c35e421065ad82590b4dfa6fad681cf706fdf17",
+      "bytes": 5534
+    },
+    {
+      "path": "detective-v10/qa/CLI_CHECK.stdout.json",
+      "sha256": "e8a2423356f03ffa0ef5c8cb8c35e421065ad82590b4dfa6fad681cf706fdf17",
+      "bytes": 5534
+    },
+    {
+      "path": "detective-v10/qa/CLI_CHECK_before_pdf_binding.json",
+      "sha256": "e8a2423356f03ffa0ef5c8cb8c35e421065ad82590b4dfa6fad681cf706fdf17",
+      "bytes": 5534
+    },
+    {
+      "path": "detective-v10/qa/CLI_CHECK_before_visual_binding.json",
+      "sha256": "e8a2423356f03ffa0ef5c8cb8c35e421065ad82590b4dfa6fad681cf706fdf17",
+      "bytes": 5534
+    },
+    {
+      "path": "detective-v10/qa/CONTENT_MAP.json",
+      "sha256": "ca85d22f382e7d411c200d8508d3a945126b15e2cd2da7865b1a557011a68342",
+      "bytes": 21264
+    },
+    {
+      "path": "detective-v10/qa/ENGINE_SNAPSHOT.json",
+      "sha256": "52ef64ccf43c8a88a33b44fb6377804d3580e18b2a56d497b54390ed19fda96c",
+      "bytes": 431
+    },
+    {
+      "path": "detective-v10/qa/FINAL_CONTENT_VERIFICATION.json",
+      "sha256": "10cfdf754e3e70f347b229443c8043793b0400193ee9fd5ebc7c17986c0244a3",
+      "bytes": 878
+    },
+    {
+      "path": "detective-v10/qa/GOLDEN_KEEP.json",
+      "sha256": "bb8643567c3bf154eb360a1a6ae23bce5397dd16e600f1c1a2b5fd44a7a8884f",
+      "bytes": 131389
+    },
+    {
+      "path": "detective-v10/render_poppler.py",
+      "sha256": "960c74eeabada78cde0ba6d17338876b334dc89fe2c1e72609307d6a43d77f4f",
+      "bytes": 2530
+    },
+    {
+      "path": "detective-v10/reviews/FINAL_REVIEW_BUNDLE.json",
+      "sha256": "a7e2fe29958b7f1e8c5971ae43522645b93aae8a53ea710959a30ba4a1e2ed97",
+      "bytes": 2740
+    },
+    {
+      "path": "detective-v10/reviews/audience-diagnostic/FINDINGS.md",
+      "sha256": "037e98b3a6191dc300c4b2096570970f4fe16c5aebde5cb07f3e19fe77ec4ea0",
+      "bytes": 21595
+    },
+    {
+      "path": "detective-v10/reviews/audience-diagnostic/build_findings.py",
+      "sha256": "99b3cf132fb6f0c9e439978c064acd1ba037cc44bc408a2acc5a8fdd44aebda9",
+      "bytes": 20421
+    },
+    {
+      "path": "detective-v10/reviews/audience-diagnostic/findings.json",
+      "sha256": "05b543ab748993eb30079083374ee6337917a5348083472d095de54328cd02ab",
+      "bytes": 25235
+    },
+    {
+      "path": "detective-v10/reviews/audience-final/FINDINGS.md",
+      "sha256": "1d4db77d00ed6f8ec62305d26858d103262a033c77ece9bda728f0e77ce1c690",
+      "bytes": 2182
+    },
+    {
+      "path": "detective-v10/reviews/audience-final/VISUAL_REVIEW.json",
+      "sha256": "6e4ae7b53d371a0899e0b99cb48b24dfad5e43dd25ffa9f8c62ccbff26cb2374",
+      "bytes": 8759
+    },
+    {
+      "path": "detective-v10/reviews/audience-final/audience.json",
+      "sha256": "53af85e9b9b62bfcc57643ca9d90ad79a3df9c269647549e95e14659729990a3",
+      "bytes": 16101
+    },
+    {
+      "path": "detective-v10/reviews/audience-r1/FINDINGS.md",
+      "sha256": "7eba4af278c6e7a636eb625c6f034f64c70f94de2d8b26e883810a901b0230e8",
+      "bytes": 8921
+    },
+    {
+      "path": "detective-v10/reviews/audience-r1/audience.json",
+      "sha256": "a379cc17236193fa234fc93f2127f9aaba62add9dc2b3eb09863d6c417a289ef",
+      "bytes": 11626
+    },
+    {
+      "path": "detective-v10/reviews/audience-r1/build_receipt.py",
+      "sha256": "86a8bd706a26a46df8b63f51db47cc7bdcb4d21a7f3177bc53d55f3f158ca074",
+      "bytes": 10356
+    },
+    {
+      "path": "detective-v10/reviews/bind_saved_pdfs.py",
+      "sha256": "566fce6d3611253c080d63787faa6b71d1fc7aa175903e83f9f535fd07441c8e",
+      "bytes": 9044
+    },
+    {
+      "path": "detective-v10/reviews/comedy-diagnostic/FINDINGS.md",
+      "sha256": "e8e0aeb41ceea97dde0d9a572b78a5311b1822a82c55e6aefd04e8d312ac1828",
+      "bytes": 32543
+    },
+    {
+      "path": "detective-v10/reviews/comedy-diagnostic/findings.json",
+      "sha256": "20ebec91dd0e35f95d2827f0366bd763787a994463c67c8dc73660dfe15a5d45",
+      "bytes": 41127
+    },
+    {
+      "path": "detective-v10/reviews/comedy-final/FINDINGS.md",
+      "sha256": "36276478d5f95bff7d4ff9154ef82d6fbd7ee50ecf0fa1727c99e70a8e0f8bcc",
+      "bytes": 2598
+    },
+    {
+      "path": "detective-v10/reviews/comedy-final/native_language.json",
+      "sha256": "6cd5229548b75c221329f9e8a33b6b4281209ca8d7d870fdb8231c56645f1f3c",
+      "bytes": 9418
+    },
+    {
+      "path": "detective-v10/reviews/comedy-r1/FINDINGS.md",
+      "sha256": "d0ab1d4513fa62ddaa9edc2c5d4188be8cc9187c9efbbfc1028c6bb622cc500c",
+      "bytes": 8954
+    },
+    {
+      "path": "detective-v10/reviews/comedy-r1/native_language.json",
+      "sha256": "54096beca3e3cf07b171afb4cd4a7017e3db6467c4394cd26a0733f8ddaff630",
+      "bytes": 12591
+    },
+    {
+      "path": "detective-v10/reviews/story-diagnostic/FINDINGS.md",
+      "sha256": "c6794c5005a3fa6b5e9b5e73aa7b0e7e071d6b7dab0e5e3a4edf1f619af2f8f4",
+      "bytes": 11081
+    },
+    {
+      "path": "detective-v10/reviews/story-diagnostic/locks.json",
+      "sha256": "62d939481c5a198c03e10e180dc220d95d0d494a7c8a38ba1b5178df34052cda",
+      "bytes": 37476
+    },
+    {
+      "path": "detective-v10/reviews/story-final/BOUNDARY_REVIEW.json",
+      "sha256": "d0e6dccba8afa90611a25858faac4f7d799851d75d2524c6d1a8cb9dd3ccf2b0",
+      "bytes": 12444
+    },
+    {
+      "path": "detective-v10/reviews/story-final/FINDINGS.md",
+      "sha256": "b49a268748868dde18179c7b145205c8fe47837bc85da427ddf04a42e8d796f3",
+      "bytes": 2395
+    },
+    {
+      "path": "detective-v10/reviews/story-final/PDF_PRESERVATION_BINDING.json",
+      "sha256": "ca7fea0ca6e507300c5c26931433d5f3775745555f72f9cbf53a923215991073",
+      "bytes": 192178
+    },
+    {
+      "path": "detective-v10/reviews/story-final/logic.json",
+      "sha256": "8152d313282d84d4deefe08cc43cc069c74054922dd60b24098bc8c77337d3aa",
+      "bytes": 13933
+    },
+    {
+      "path": "detective-v10/reviews/story-final/meaning.json",
+      "sha256": "aef8ac1d23726d749639c6d0c9467cd626a56d52f5ff8102a0eea274f031ea18",
+      "bytes": 13730
+    },
+    {
+      "path": "detective-v10/reviews/story-r1/BOUNDARY_REVIEW.json",
+      "sha256": "574c899317dc35fbe92c1a22f7a8f681a3a6e089fbaef6c8db11f3c171605ce0",
+      "bytes": 11362
+    },
+    {
+      "path": "detective-v10/reviews/story-r1/FINDINGS.md",
+      "sha256": "55c16cf38fae4ff1806b42b7e6a82a59d46019264b8fae31bffd85a3263326e9",
+      "bytes": 6187
+    },
+    {
+      "path": "detective-v10/reviews/story-r1/logic.json",
+      "sha256": "c1d72e95ca3a20da23f70c198e3dff1bb6e23fbbf7f9d0e27c35219e489dcb45",
+      "bytes": 10717
+    },
+    {
+      "path": "detective-v10/reviews/story-r1/meaning.json",
+      "sha256": "8b2b19ede0a94f9d0648ed6f01269e4393e74bff56690957e1c66907a78ac1c7",
+      "bytes": 10419
+    },
+    {
+      "path": "detective-v10/run/SOURCE_AND_WORKFLOW.md",
+      "sha256": "fcedb84a066d262d7fe6852e872a2498ce88bbaed2be7f75aef0e485ab93a3da",
+      "bytes": 482
+    },
+    {
+      "path": "detective-v10/run/candidate.json",
+      "sha256": "a1ab57d3d27392c44f6852357aa89c798c9550a00ec36e458d203c267959c684",
+      "bytes": 332680
+    },
+    {
+      "path": "detective-v10/run/change-scope.json",
+      "sha256": "a8687e1ef423aa57b59fd5b904676e4bc1982f9ca6b416b31c3fbbfc660b86b9",
+      "bytes": 70822
+    },
+    {
+      "path": "detective-v10/run/functional-brief.json",
+      "sha256": "d0a64b4925016a3d86de82073080067b9f5133edf7fbb2a2d6b4bb891c6f400d",
+      "bytes": 3534092
+    },
+    {
+      "path": "detective-v10/run/issue-ledger.json",
+      "sha256": "aaa6f56dfb8d466dfbf9848eb172408023855379dc1c95a68d6109df1ce67540",
+      "bytes": 22527
+    },
+    {
+      "path": "detective-v10/run/run.json",
+      "sha256": "9e1ded77ea3c95231cbf043c6cf36928e46e546085b5196ef8c1cedb9ab79a28",
+      "bytes": 2447853
+    },
+    {
+      "path": "detective-v10/run/source.json",
+      "sha256": "d9677b5c7f1cb3a717a3ca9bcd6a2c565f8d3639aff50a09e5874da43bf1cb06",
+      "bytes": 596723
+    },
+    {
+      "path": "detective-v10/run/writer-packet.json",
+      "sha256": "70a6e4d917ecf7d85f75c9ef014754557909de1170be38d61b310be7cfa815b6",
+      "bytes": 132268
+    },
+    {
+      "path": "detective-v8/build_book.py",
+      "sha256": "19891f353f991b0e032b8191de143f3c6804254495632749788610ead2ecb3dd",
+      "bytes": 11449
+    },
+    {
+      "path": "detective-v8/candidate/candidate-pages.json",
+      "sha256": "abf6fd5bda1ae6b104e75fb46305c5ad65bb67e855fd22023cbcd486e5b799b8",
+      "bytes": 143823
+    },
+    {
+      "path": "detective-v8/candidate/candidate-segments.json",
+      "sha256": "70a94bd476ca1aa8054d6cdcc40ffa7d4593b3af93728ca1e6b46672e1eac557",
+      "bytes": 2722489
+    },
+    {
+      "path": "detective-v8/candidate/candidate.json",
+      "sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+      "bytes": 321958
+    },
+    {
+      "path": "detective-v8/candidate/reader-manuscript.md",
+      "sha256": "e8cfe4c85d054787b13da94563906c9ef92c715d97716df3e5b71d14060f8282",
+      "bytes": 121995
+    },
+    {
+      "path": "detective-v8/candidate/reader-order.json",
+      "sha256": "bea1650c5bb86909e93dddbf76cb1463a45ea500d1996cf8d31bc028646e3c52",
+      "bytes": 7970
+    },
+    {
+      "path": "detective-v8/proof/DETECTIVE_EN_V8_FULL_ENGLISH.pdf",
+      "sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+      "bytes": 56960625
+    },
+    {
+      "path": "detective-v8/qa/BOUNDARY_CHECK.json",
+      "sha256": "fe47b084cca33d59311014b53fbcb0ee350076e95ae5f72a1941f53dd3e90c48",
+      "bytes": 1350
+    },
+    {
+      "path": "detective-v8/qa/FINAL_CONTENT_VERIFICATION.json",
+      "sha256": "4faecaa6a79a07b8bbc9b10c92c9cf8db3014a531e494016ea92840e01f1e5f7",
+      "bytes": 4252
+    },
+    {
+      "path": "detective-v8/reviews/FINAL_REVIEW_BUNDLE.json",
+      "sha256": "ac2bee6743d3b3306d067fb55b83ae4eed9c7ae0a6c6790455b58c35aff25db2",
+      "bytes": 4862
+    },
+    {
+      "path": "detective-v9/candidate/candidate-segments.json",
+      "sha256": "ae9d379e1710b38a4e8d88ba79ae47c2abcbbf1acd35ad1d7ec73ecb1c44b10c",
+      "bytes": 2848113
+    },
+    {
+      "path": "detective-v9/candidate/candidate.json",
+      "sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+      "bytes": 332680
+    },
+    {
+      "path": "detective-v9/candidate/reader-manuscript.md",
+      "sha256": "eb17a4babf5861e609d359a839ff35c9f088f392c7e76f9ea3e494c7d0077969",
+      "bytes": 132740
+    },
+    {
+      "path": "detective-v9/candidate/reader-order.json",
+      "sha256": "e0c7a3d397b0773e16e909dd42ddedbc35120163f6300fd42fccd2d9445f8818",
+      "bytes": 8231
+    },
+    {
+      "path": "detective-v9/qa/FINAL_CONTENT_VERIFICATION.json",
+      "sha256": "0900e2bf621583336bc0cac8cd0d227a9edaae7c7bc7792bf330565e67d8575c",
+      "bytes": 1023
+    },
+    {
+      "path": "detective-v9/reviews/FINAL_REVIEW_BUNDLE.json",
+      "sha256": "f436d7050d3a65174147e6067eac8a3f98d815174f457f76856ed8057c1eae04",
+      "bytes": 3490
+    },
+    {
+      "path": "engine-v10/scripts/rse-language.py",
+      "sha256": "0278fb90b94593a19eba0ecbcfae01b04bc28b0588372d54a955c24bfc03d4dc",
+      "bytes": 32786
+    },
+    {
+      "path": "engine-v10/tools/rse-language/profiles/detective-academy.json",
+      "sha256": "8277acb8fe5092150aa5f6ccf07eba8c37da72698529f3b181ac144b9ccd8c6d",
+      "bytes": 1411
+    },
+    {
+      "path": "engine-v10/tools/rse-language/profiles/generic.json",
+      "sha256": "6ddb1bdf0272cec0379fc99589194d0f036d99e8a1447ab49788423b171d8a7c",
+      "bytes": 900
+    },
+    {
+      "path": "engine-v10/tools/rse-language/profiles/gentle-steps.json",
+      "sha256": "ada2d921a3eac44e5e95a314c63de5df09153876959d1a156047ab59bb62218a",
+      "bytes": 2420
+    },
+    {
+      "path": "recovery/unpacked/detective-v7/candidate/candidate.json",
+      "sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+      "bytes": 312647
+    }
+  ]
+}
