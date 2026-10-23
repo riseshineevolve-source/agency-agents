@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-10-12
+updated: 2026-10-23
 status: active
 rules:
   evidence_over_opinion: true
@@ -38,7 +38,7 @@ content_records:
     format: "static_post"
     cta: "Save this for launch."
     publish_date: null
-    metricool_id: 393913647
+    metricool_id: 393922755
     metricool_uuid: "3243633179662699620"
     reach: null
     impressions: null
@@ -66,7 +66,7 @@ content_records:
     format: "static_post"
     cta: "Save this for launch."
     publish_date: null
-    metricool_id: 393913669
+    metricool_id: 393922769
     metricool_uuid: "1523112052178897394"
     reach: null
     impressions: null
@@ -94,7 +94,7 @@ content_records:
     format: "short"
     cta: "Save this for launch."
     publish_date: null
-    metricool_id: 393916027
+    metricool_id: 393922888
     metricool_uuid: "4250962956201968702"
     reach: null
     impressions: null
@@ -122,7 +122,7 @@ content_records:
     format: "static_post"
     cta: "See how the investigation starts."
     publish_date: null
-    metricool_id: 393913951
+    metricool_id: 393922791
     metricool_uuid: "5114947460425400881"
     qualitative_feedback: []
     next_hypothesis: "Test whether visible ownership mechanic drives stronger engagement than broad hero positioning."
@@ -137,7 +137,7 @@ content_records:
     format: "static_post"
     cta: "See how it starts."
     publish_date: null
-    metricool_id: 393913973
+    metricool_id: 393922808
     metricool_uuid: "7895200067862348903"
     qualitative_feedback: []
     next_hypothesis: "Test whether visible ownership mechanic drives stronger saves/shares than broad hero positioning."
@@ -152,7 +152,7 @@ content_records:
     format: "short"
     cta: "None beyond embedded creative."
     publish_date: null
-    metricool_id: 393916045
+    metricool_id: 393922914
     metricool_uuid: "8907545330705186959"
     qualitative_feedback: []
     next_hypothesis: "Compare retention against the hero Short."
@@ -167,7 +167,7 @@ content_records:
     format: "static_post"
     cta: "Follow the evidence."
     publish_date: null
-    metricool_id: 393914009
+    metricool_id: 393922826
     metricool_uuid: "8264543925561610208"
     qualitative_feedback: []
     next_hypothesis: "Measure whether connected-investigation proof outperforms ownership-first positioning."
@@ -182,7 +182,7 @@ content_records:
     format: "static_post"
     cta: "Follow the evidence."
     publish_date: null
-    metricool_id: 393914055
+    metricool_id: 393922843
     metricool_uuid: "9180528762412680202"
     qualitative_feedback: []
     next_hypothesis: "Measure saves/shares for concrete product depth."
@@ -197,7 +197,7 @@ content_records:
     format: "short"
     cta: "Follow the evidence."
     publish_date: null
-    metricool_id: 393916074
+    metricool_id: 393922930
     metricool_uuid: "-1256672881579571813"
     qualitative_feedback: []
     next_hypothesis: "Compare retention and replays against ownership Shorts."
@@ -212,7 +212,7 @@ content_records:
     format: "static_post"
     cta: "See how the Hint Vault works."
     publish_date: null
-    metricool_id: 393914078
+    metricool_id: 393922862
     metricool_uuid: "-1181287121253544116"
     qualitative_feedback: []
     next_hypothesis: "Test whether friction-reduction proof drives stronger parent engagement."
@@ -227,7 +227,7 @@ content_records:
     format: "static_post"
     cta: "See how the Hint Vault works."
     publish_date: null
-    metricool_id: 393914111
+    metricool_id: 393922878
     metricool_uuid: "-4101855348932063354"
     qualitative_feedback: []
     next_hypothesis: "Test whether friction-reduction proof earns saves/shares."
@@ -242,7 +242,7 @@ content_records:
     format: "short"
     cta: "None beyond embedded creative."
     publish_date: null
-    metricool_id: 393916104
+    metricool_id: 393922947
     metricool_uuid: "859565692823684684"
     qualitative_feedback: []
     next_hypothesis: "Compare educational feature retention against hero/depth Shorts."
@@ -367,3 +367,13 @@ detective_prelink_hold_2026_10_12:
     - "assign fresh dates from the actual release date"
     - "replace prelaunch CTAs where appropriate"
     - "activate the frozen four-master rollout"
+
+metricool_reconciliation_2026_10_23:
+  brand_id: 7018771
+  source: live_Metricool_getScheduledPosts
+  checked_window: '2026-10-01 to 2026-12-31 Europe/Warsaw'
+  uuid_matched: 12
+  corrected_numeric_ids: 12
+  live_publications_claim: false
+  verified_state: '12 draft=true, PENDING; historical date fields are not activation schedule'
+  publish_hold: 'Detective KDP live verified plus owner signal required'
