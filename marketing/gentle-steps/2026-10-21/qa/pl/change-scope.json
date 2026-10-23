@@ -1,0 +1,16 @@
+{
+  "run_sha256": "01e43f01336cfc26fac6cf44c59522487df768c229db8ace36190739e3886631",
+  "allowed_changed_segments": [
+    "PL_A4",
+    "PL_A5"
+  ],
+  "protected_segments": [
+    "PL_BRAND",
+    "PL_TITLE",
+    "PL_SUBTITLE",
+    "PL_STRAPLINE",
+    "PL_LABELS",
+    "PL_BACK"
+  ],
+  "reason": "Two bounded native-language fixes identified by independent Polish reviewer; owner strong back-cover copy and locked strings preserved."
+}

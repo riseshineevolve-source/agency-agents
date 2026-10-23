@@ -1,9 +1,38 @@
 # RSE Marketing Autopilot — Resume From Zero
 
 Status: CANONICAL RECOVERY ENTRYPOINT
-Updated: 2026-10-07
+Updated: 2026-10-23
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
+
+## 2026-10-23 final-cover production continuation
+
+Actual A+/FB/IG production now delivered:5native-text A+ modules,9ad exports,5carousel cards and12s silent slideshow using owner final cover. Read `marketing/optical-series/2026-10-23/LAUNCH_ASSET_RECEIPTS.json` and latest checkpoint. CreativeClaw new generation was blocked before start; final source/SVG composition completed. Nothing published/scheduled/paid.
+
+## 2026-10-23 Optical owner override
+
+Wild Illusions full family upgraded under exact owner line **Art to color. A moment of your own.** Then Halloween preparation completed. Read `marketing/optical-series/2026-10-23/CHECKPOINT.md` and current product mailboxes. Halloween remains pre-release without finalretailtitle/final20/assembledbook claims. This overlay supersedes older Animals V4/intro-pending marketing state below; source files are not modified. Product/public/paid gates remain separate.
+
+## 2026-10-21 Revenue sprint continuation
+
+Wild Illusions is now the primary finish under the current revenue plan. Read `marketing/WILD_ILLUSIONS_PRODUCT_MARKETING_BRIEF_2026-10-21.md` and current Optical mailbox before action. Gentle Steps below is a preserved owner-read packet, not the primary new-work queue. Runtime policy is acknowledged as recommendation-only; actual model/reasoning/speed are UNKNOWN. No public/paid gate is cleared.
+
+## 2026-10-21 Marketing recovery override
+
+Current Marketing checkpoint: `marketing/gentle-steps/2026-10-21/RECOVERY_NOTES.md`.
+Current Gentle Steps owner-read copy and visual handoff:
+`marketing/gentle-steps/2026-10-21/PRODUCTION_BRIEF.md` and `COPY_PACK.md` in that directory.
+Read these after the current Control Plane and dependency mailboxes. They do not grant public/paid/print approval.
+
+- Preserve October13 exact PL/EN titles, subtitles and labels; use current R6 and pinned EN product truth. Old R4/R5/legacy-label paragraphs below are historical.
+- Gentle Steps now has one independently reviewed PL back cover, native EN Amazon description, five A+ modules per language and three social masters per language. Copy is OWNER_READ_CANDIDATE; exact final files end in `.final.json`. Files without `.final` are immutable pre-review baselines only.
+- Detective front selection was resolved September25 in its actual visual lock; older "reopened" wording below is stale. October12 Frozen Gold marketing assets remain immutable. Its owner publication hold still applies until explicit book-live signal and verified listing.
+- Screen Zombie was closed by the September22 owner decision in the private production pack: ACCEPTED ENOUGH / NO MORE ITERATION. Do not restart the old drafting loop below.
+- Optical is current V4 coloring-only48p, with introduction-only refinement. Old seek-and-find marketing proposals must not be reused.
+- Gentle Steps October20 final pre-device audit supersedes old app build/label failures; actual Android and PL-book print proof remain separate gates.
+- Metricool and Creative Claw were read-only verified October21. No new media job, schedule, publication, spend or product-source change occurred. Empty Instagram endpoint rows are not zero sales, and scheduled queries do not enumerate unpublished drafts. No measured winner is inferred.
+
+Continue from the lane mailbox and this packet's real owner/source/release dependencies, not dated restart instructions.
 
 ## 2026-10-07 Control Plane override
 

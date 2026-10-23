@@ -1,0 +1,22 @@
+{
+  "run_sha256": "55af922dfb77d7f6024c0f3a4a39e98ff7da2c4b81ee7d695b0da8cadfd332f1",
+  "issues": [
+    {
+      "id": "EN_A4-idiom",
+      "segment_id": "EN_A4",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "resolution": "Applied the exact reviewer replacement and obtained final hash-bound recheck."
+    },
+    {
+      "id": "EN_S3-idiom",
+      "segment_id": "EN_S3",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "resolution": "Applied the exact reviewer replacement and obtained final hash-bound recheck."
+    }
+  ],
+  "diagnostic": "COMPLETE_REVIEWED_ALL_SEGMENTS",
+  "candidate_sha256": "2e8317a077247eea851a7487af5985e901dabd0a72fd33ffbd632af00ed2b213",
+  "source_ambiguities": []
+}

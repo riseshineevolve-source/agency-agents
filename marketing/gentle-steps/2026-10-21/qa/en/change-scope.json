@@ -1,0 +1,15 @@
+{
+  "run_sha256": "55af922dfb77d7f6024c0f3a4a39e98ff7da2c4b81ee7d695b0da8cadfd332f1",
+  "allowed_changed_segments": [
+    "EN_A4",
+    "EN_S3"
+  ],
+  "protected_segments": [
+    "EN_BRAND",
+    "EN_TITLE",
+    "EN_SUBTITLE",
+    "EN_STRAPLINE",
+    "EN_LABELS"
+  ],
+  "reason": "Two bounded clarity fixes from independent English review; time belongs to book activities rather than calendar-day duration."
+}

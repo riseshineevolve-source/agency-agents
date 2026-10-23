@@ -1,0 +1,60 @@
+{
+  "status": "PREPARED_NOT_LIVE",
+  "input_cover_sha256": "381d278bc5a9c08a6b9771fedf44012e8a2df0907a4744126148eabe804d6d3f",
+  "source_pdf_sha256": "d745547dc08df36b12c1f4b8ef66987a66d8656d4ab365778c99b4854ad92660",
+  "artifacts": [
+    {
+      "local_path": "/workspace/scratch/c039b8197431/output/WILD_ILLUSIONS_APLUS_FB_IG_PACK_20261023.zip",
+      "sha256": "0f5948a0fb7b171d6f3e2f88bf595609c72ab0f9a9cdd061bb2eba9bdfce0b79",
+      "bytes": 54356524,
+      "library_file_id": "libfile_3213551d97808191942fbad0e2daca2f",
+      "file_id": "file_000000002aec81f5b96fb0b735ee0da7",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/c039b8197431/output/WILD_ILLUSIONS_APLUS_PREVIEW_20261023.jpg",
+      "sha256": "54df6c54527827281c4032626831b90674f01d23c88a0533badc1fadc7a4cf9d",
+      "bytes": 1407767,
+      "library_file_id": "libfile_700369623288819185460c1d0fbafc5a",
+      "file_id": "file_000000008f6881f58c8b205e04f75ce1",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/c039b8197431/output/WILD_ILLUSIONS_ADS_PREVIEW_20261023.jpg",
+      "sha256": "bb142dbba585e47cbe56a19f1bf5330d8a71f3cbc8d730c30bb8fd65aab1bb21",
+      "bytes": 858091,
+      "library_file_id": "libfile_6fbc7ac6d73081918623e91cf60f952b",
+      "file_id": "file_00000000e16081f59daaa960495bcdf7",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/c039b8197431/output/WILD_ILLUSIONS_REEL_12S_20261023.mp4",
+      "sha256": "c25810a7c5528bed6a025670b1541c3567f1bcdbb9530401a2f0e921cb75c771",
+      "bytes": 558468,
+      "library_file_id": "libfile_8745400f1700819184e405dd54892fe8",
+      "file_id": "file_00000000854c81f5bf781a903c952e28",
+      "current_version_number": 0
+    }
+  ],
+  "counts": {
+    "aplus_modules": 5,
+    "static_ad_exports": 9,
+    "carousel_cards": 5,
+    "silent_slideshow_mp4": 1,
+    "editable_svg": 24
+  },
+  "qa": {
+    "all_native_images_loaded": 25,
+    "svg_xml_parsed": 24,
+    "aplus_rgb_dimensions_under_2mb": true,
+    "source_art_and_cover_hashes_unchanged": true,
+    "independent_policy_review": "amazon_kdp_keyword_audit PASS on exact5modules; new removed in module5",
+    "independent_visual_review": "amazon_kdp_keyword_audit viewed finalcontactandcovercard PASS",
+    "root_visual_review": "All5A+ and3Feed viewed; final3Stories/3Squares/5carousel viewed on finalcontact. Actual Amazon/Meta previews not performed.",
+    "video_full_decode": "PASS;all12seconds decoded;not an audio/playback audition"
+  },
+  "creative_claw": "Cover imported and saved brand read; generation blocked before start by insufficient credits,3available/24required; no credits charged. Existing source/SVG composition completed.",
+  "metricool": "Brand7018771 read verified; no writes, scheduling, review messages or paid activation.",
+  "language_review": "Owner A+ copied except new removed from module5; publishing and native-sales reviewers consulted. Historical Language Studio run not rerun for this image batch; no new facade-pass claim.",
+  "remaining": "Owner visual selection and actual Amazon/Meta preview; verified live ASIN/link before release. No product source changes."
+}

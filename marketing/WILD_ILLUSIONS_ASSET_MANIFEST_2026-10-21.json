@@ -1,0 +1,47 @@
+{
+  "source_pdf_sha256": "2dbe312fe0b8df5cecac2c1bf2c90e20d7ab69a30996eee05d444e98a9174e13",
+  "status": "OWNER_VISUAL_REVIEW_REQUIRED",
+  "assets": [
+    {
+      "id": "WI_S1",
+      "page": 9,
+      "source_image_sha256": "801223b3ae32071556b05e7c430c81723c25acb0c557f514e6f56b663760de13",
+      "png": "WI_01_REVIEW.png",
+      "png_sha256": "57386c2684189c22fa5696231b1acc43888fe49f3a49c24b749853491c455e7f",
+      "size": [
+        1080,
+        1350
+      ],
+      "full_source_image_preserved": true,
+      "regenerated": false
+    },
+    {
+      "id": "WI_S2",
+      "page": 11,
+      "source_image_sha256": "8ed94ed796f16c80bc31fbfbbd34fa9e9a1308860d2b55bb037aa1c093377c47",
+      "png": "WI_02_REVIEW.png",
+      "png_sha256": "18a64a8046e2ac240c8deb818024865ba62b17388a2bcac1f70612f7329fc167",
+      "size": [
+        1080,
+        1350
+      ],
+      "full_source_image_preserved": true,
+      "regenerated": false
+    },
+    {
+      "id": "WI_S3",
+      "page": 33,
+      "source_image_sha256": "45cdbf90082ac189257c88c784e04782b2e679dedfcc8ac57a517f19b1261a35",
+      "png": "WI_03_REVIEW.png",
+      "png_sha256": "e35d2d908ec3eeae979945b52fd131ec18ea241803c4eda8e07d56903c791338",
+      "size": [
+        1080,
+        1350
+      ],
+      "full_source_image_preserved": true,
+      "regenerated": false
+    }
+  ],
+  "root_visual_qa": "ALL_THREE_VIEWED__NO_CLIPPING_OR_TEXT_OVERLAP",
+  "packet_sha256": "13f426f4f31ee1337babd0fa101a34ba5b446b0c4097edabac8ee0ad8df21dc8"
+}

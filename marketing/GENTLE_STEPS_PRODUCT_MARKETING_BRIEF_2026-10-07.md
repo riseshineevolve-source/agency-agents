@@ -7,6 +7,12 @@ Primary markets: United States + United Kingdom
 Product family: The Happy Makers
 Publication surface: KDP book first; ebook/app derivatives only when live and verified
 
+## Current authority overlay - 2026-10-21
+
+Current copy: `marketing/gentle-steps/2026-10-21/COPY_PACK.md`; production/source/evidence handoff: `PRODUCTION_BRIEF.md` in that directory. Status OWNER_READ_CANDIDATE, not an owner freeze or publication approval. Old body-source/label examples below are historical where they conflict.
+
+EN body evidence is the owner-approved V2 R3 source PDF SHA256 `d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1`, mapped at runtime `1d06a11e071918d817d618d17da8cb83aeda1651`. All four mapped packs show24 days/72 main sections/24 tomorrow bridges/24 two-person variants. Use the existing October13 title/subtitle and LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK locks. Old source-lock marketing subtitle is not current packaging authority. EN short strapline A BOOK THAT FITS INTO YOUR DECEMBER. is editorial-approved, separate from the exact owner subtitle; cover placement needs visual review. Product sources remain read-only to Marketing.
+
 ## 1. CURRENT PRODUCT IDENTITY — LOCKED
 
 ### Series header

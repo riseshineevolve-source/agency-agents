@@ -1,0 +1,465 @@
+{
+  "format": "rse-language-run-v1",
+  "source_path": "/workspace/scratch/c039b8197431/marketing-control/marketing/gentle-steps/2026-10-21/copy.pl.json",
+  "source_sha256": "d86bd727f6d9eccd3ddbef36497e5c718e68c197764321c63cb30ba997a19f9f",
+  "source_snapshot": "source.json",
+  "source_language": "pl",
+  "target_language": "pl",
+  "mode": "upgrade",
+  "scope": "bounded",
+  "project": "gentle-steps",
+  "profile": {
+    "schema_version": 1,
+    "project": "gentle-steps",
+    "languages": {
+      "pl": {
+        "required_review_stages": [
+          "native_language",
+          "meaning",
+          "audience",
+          "logic"
+        ],
+        "required_strings": [],
+        "forbidden_strings": []
+      },
+      "en": {
+        "required_review_stages": [
+          "native_language",
+          "meaning",
+          "audience",
+          "logic"
+        ],
+        "required_strings": [],
+        "forbidden_strings": []
+      }
+    },
+    "locks": [
+      {
+        "id": "title",
+        "pl": "ŚWIĘTA SĄ TEŻ PO DRODZE",
+        "en": "BEFORE CHRISTMAS SLIPS BY"
+      },
+      {
+        "id": "subtitle",
+        "pl": "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.",
+        "en": "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together."
+      },
+      {
+        "id": "pause",
+        "pl": "ZŁAPMY CHWILĘ",
+        "en": "LET’S TAKE A MOMENT"
+      },
+      {
+        "id": "play",
+        "pl": "ZRÓBMY COŚ RAZEM",
+        "en": "LET’S DO THIS TOGETHER"
+      },
+      {
+        "id": "talk",
+        "pl": "POGADAJMY",
+        "en": "LET’S TALK"
+      },
+      {
+        "id": "tomorrow",
+        "pl": "NA JUTRO",
+        "en": "TRY IT TOMORROW"
+      },
+      {
+        "id": "two-people",
+        "pl": "W DWIE OSOBY",
+        "en": "TWO PEOPLE"
+      },
+      {
+        "id": "strapline",
+        "pl": "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.",
+        "en": "A BOOK THAT FITS INTO YOUR DECEMBER."
+      }
+    ],
+    "protect_patterns": [
+      "\\{\\{[^{}]+\\}\\}",
+      "\\{[A-Za-z_][A-Za-z0-9_]*\\}",
+      "%\\d*\\$?[sdf]"
+    ],
+    "voice": {
+      "pl": "Naturalny współczesny polski, dobry rejestr książkowy, bez kalek, coachingu, wymuszonego slangu i długich myślników.",
+      "en": "Natural idiomatic English in the source/project variety. Precise, warm and unforced. No translationese or synthetic sentiment."
+    },
+    "authority": "marketing/GENTLE_STEPS_LOCALIZED_CAMPAIGN_MASTER_2026-10-13.md; current polish_localization mailbox",
+    "protected_product_truth": [
+      "24 days; three main sections per day; 24 NA JUTRO; two-person variants",
+      "R6 body protected; article edit is not book/app rewrite authorization",
+      "Exact subtitle differs from short strapline; EN strapline editorial completion, not historical Oct13 owner lock",
+      "No automatic migration of stale PDF labels/title without declared scope"
+    ]
+  },
+  "adapter": {
+    "kind": "json",
+    "document": {
+      "edition": "Gentle Steps PL marketing owner-read candidate",
+      "date": "2026-10-21",
+      "status": "PREMIUM_WORKING",
+      "segments": [
+        {
+          "id": "PL_BRAND",
+          "text": "THE HAPPY MAKERS PRESENT",
+          "protected": true
+        },
+        {
+          "id": "PL_TITLE",
+          "text": "ŚWIĘTA SĄ TEŻ PO DRODZE",
+          "protected": true
+        },
+        {
+          "id": "PL_SUBTITLE",
+          "text": "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.",
+          "protected": true
+        },
+        {
+          "id": "PL_STRAPLINE",
+          "text": "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.",
+          "protected": true
+        },
+        {
+          "id": "PL_LABELS",
+          "text": "ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY",
+          "protected": true
+        },
+        {
+          "id": "PL_BACK",
+          "text": "W grudniu łatwo być razem i ciągle się mijać.\n\nSzkoła, praca, treningi, zakupy, prezenty, rzeczy na jutro. A kiedy wreszcie pojawia się wolna chwila, często nie ma już siły wymyślać, co zrobić razem.\n\nDlatego ta książka robi tę część za was.\n\nPrzez 24 dni daje gotowy pomysł na około 10 minut wspólnego czasu. Bez dodatkowych zakupów. Bez przygotowań.\n\nKażdego dnia:\n\nZŁAPMY CHWILĘ\nKrótki moment, żeby zwolnić i odłożyć na bok to, co jeszcze czeka.\n\nZRÓBMY COŚ RAZEM\nProste aktywności, które angażują całą rodzinę: trochę ruchu, współpracy, śmiechu, improwizacji i wspólnego kombinowania.\n\nPOGADAJMY\nJedno pytanie, które może zaprowadzić trochę dalej niż zwykłe „jak było?”.\n\nCzasem będzie dziesięć minut, czasem mniej, a czasem któryś dzień po prostu wypadnie. Nie trzeba nadrabiać na siłę.\n\nMoże zostanie z wami nowy rodzinny żart. Jedno konkretne „dziękuję”. Gra, do której wrócicie w zwykły wtorek. A dziś wystarczy chwila, w której naprawdę jesteście ze sobą.\n\nŚWIĘTA SĄ TEŻ PO DRODZE."
+        },
+        {
+          "id": "PL_A1",
+          "text": "ŚWIĘTA SĄ TEŻ PO DRODZE\n\nRodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.\n\nKSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU."
+        },
+        {
+          "id": "PL_A2",
+          "text": "Każdy dzień ma trzy krótkie części.\n\nZŁAPMY CHWILĘ\nKrótka przerwa od tego, co jeszcze czeka.\n\nZRÓBMY COŚ RAZEM\nGra lub zabawa, w której jest miejsce na ruch, współpracę i śmiech.\n\nPOGADAJMY\nJedno pytanie o was i waszą codzienność."
+        },
+        {
+          "id": "PL_A3",
+          "text": "Trzy przykłady z trzech różnych dni.\n\nPUSTE RĘCE: krótka chwila, w której nie trzeba niczego trzymać ani robić.\n\nRODZINNA MASZYNA: każdy dodaje własny ruch i dźwięk do wspólnej zabawy.\n\nJedno pytanie o pomocną rzecz, którą ktoś zrobił, choć łatwo było jej nie zauważyć."
+        },
+        {
+          "id": "PL_A4",
+          "text": "Dziś tylko we dwoje?\n\nKażda gra ma wariant W DWIE OSOBY. Nie trzeba zbierać całej rodziny ani odkładać książki do spokojniejszego wieczoru. A przy każdej krótkiej przerwie znajdziecie NA JUTRO: mały pomysł do wykorzystania poza książką."
+        },
+        {
+          "id": "PL_A5",
+          "text": "Nie trzeba czekać, aż wszystko będzie gotowe.\n\nMimi, Luli, Dilo, Alio i Nini dorzucają własne komentarze do grudniowych dni. Czasem z takiej chwili zostaje żart, czasem gra do powtórzenia. Najpierw jest jednak te kilka minut razem.\n\nKSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU."
+        },
+        {
+          "id": "PL_S1_HOOK",
+          "text": "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU."
+        },
+        {
+          "id": "PL_S1",
+          "text": "W grudniu pomysłów zwykle nie brakuje. Czasem brakuje siły, żeby jeszcze jeden wymyślić.\n\n„ŚWIĘTA SĄ TEŻ PO DRODZE” daje gotowy pomysł na około 10 minut razem: krótką przerwę, wspólną aktywność i jedno pytanie. Przez 24 dni, bez dodatkowych zakupów i przygotowań.\n\nNie musicie mieć całego wieczoru. Czasem wystarczy jego mały kawałek.\n\nZapisz na grudzień."
+        },
+        {
+          "id": "PL_S2_HOOK",
+          "text": "ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY"
+        },
+        {
+          "id": "PL_S2",
+          "text": "Puste ręce na krótką chwilę. Rodzinna Maszyna, do której każdy dodaje własny ruch i dźwięk. Pytanie o pomocną rzecz, którą ktoś zrobił, choć łatwo było jej nie zauważyć.\n\nTo trzy przykłady z trzech różnych dni książki „ŚWIĘTA SĄ TEŻ PO DRODZE”. Każdy dzień łączy krótką przerwę, wspólną aktywność i pytanie. Razem około 10 minut.\n\nKtóry z tych trzech pomysłów najbardziej pasuje do waszego domu?"
+        },
+        {
+          "id": "PL_S3_HOOK",
+          "text": "DZIAŁA TAKŻE WE DWOJE."
+        },
+        {
+          "id": "PL_S3",
+          "text": "Nie zawsze wszyscy wracają o tej samej porze. Ktoś ma trening, ktoś lekcje, ktoś później kończy pracę.\n\nW książce „ŚWIĘTA SĄ TEŻ PO DRODZE” każda gra ma wariant W DWIE OSOBY. Można skorzystać z niej także wtedy, kiedy dziś jest was tylko dwoje. Bez czekania na pełny skład i idealnie wolny wieczór.\n\nZachowaj ten pomysł na zabiegany grudzień."
+        }
+      ]
+    },
+    "segment_specs": [
+      {
+        "id": "PL_BRAND",
+        "text": "THE HAPPY MAKERS PRESENT",
+        "protected": true
+      },
+      {
+        "id": "PL_TITLE",
+        "text": "ŚWIĘTA SĄ TEŻ PO DRODZE",
+        "protected": true
+      },
+      {
+        "id": "PL_SUBTITLE",
+        "text": "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.",
+        "protected": true
+      },
+      {
+        "id": "PL_STRAPLINE",
+        "text": "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.",
+        "protected": true
+      },
+      {
+        "id": "PL_LABELS",
+        "text": "ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY",
+        "protected": true
+      },
+      {
+        "id": "PL_BACK",
+        "text": "W grudniu łatwo być razem i ciągle się mijać.\n\nSzkoła, praca, treningi, zakupy, prezenty, rzeczy na jutro. A kiedy wreszcie pojawia się wolna chwila, często nie ma już siły wymyślać, co zrobić razem.\n\nDlatego ta książka robi tę część za was.\n\nPrzez 24 dni daje gotowy pomysł na około 10 minut wspólnego czasu. Bez dodatkowych zakupów. Bez przygotowań.\n\nKażdego dnia:\n\nZŁAPMY CHWILĘ\nKrótki moment, żeby zwolnić i odłożyć na bok to, co jeszcze czeka.\n\nZRÓBMY COŚ RAZEM\nProste aktywności, które angażują całą rodzinę: trochę ruchu, współpracy, śmiechu, improwizacji i wspólnego kombinowania.\n\nPOGADAJMY\nJedno pytanie, które może zaprowadzić trochę dalej niż zwykłe „jak było?”.\n\nCzasem będzie dziesięć minut, czasem mniej, a czasem któryś dzień po prostu wypadnie. Nie trzeba nadrabiać na siłę.\n\nMoże zostanie z wami nowy rodzinny żart. Jedno konkretne „dziękuję”. Gra, do której wrócicie w zwykły wtorek. A dziś wystarczy chwila, w której naprawdę jesteście ze sobą.\n\nŚWIĘTA SĄ TEŻ PO DRODZE."
+      },
+      {
+        "id": "PL_A1",
+        "text": "ŚWIĘTA SĄ TEŻ PO DRODZE\n\nRodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.\n\nKSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU."
+      },
+      {
+        "id": "PL_A2",
+        "text": "Każdy dzień ma trzy krótkie części.\n\nZŁAPMY CHWILĘ\nKrótka przerwa od tego, co jeszcze czeka.\n\nZRÓBMY COŚ RAZEM\nGra lub zabawa, w której jest miejsce na ruch, współpracę i śmiech.\n\nPOGADAJMY\nJedno pytanie o was i waszą codzienność."
+      },
+      {
+        "id": "PL_A3",
+        "text": "Trzy przykłady z trzech różnych dni.\n\nPUSTE RĘCE: krótka chwila, w której nie trzeba niczego trzymać ani robić.\n\nRODZINNA MASZYNA: każdy dodaje własny ruch i dźwięk do wspólnej zabawy.\n\nJedno pytanie o pomocną rzecz, którą ktoś zrobił, choć łatwo było jej nie zauważyć."
+      },
+      {
+        "id": "PL_A4",
+        "text": "Dziś tylko we dwoje?\n\nKażda gra ma wariant W DWIE OSOBY. Nie trzeba zbierać całej rodziny ani odkładać książki do spokojniejszego wieczoru. A przy każdej krótkiej przerwie znajdziecie NA JUTRO: mały pomysł do wykorzystania poza książką."
+      },
+      {
+        "id": "PL_A5",
+        "text": "Nie trzeba czekać, aż wszystko będzie gotowe.\n\nMimi, Luli, Dilo, Alio i Nini dorzucają własne komentarze do grudniowych dni. Czasem z takiej chwili zostaje żart, czasem gra do powtórzenia. Najpierw jest jednak te kilka minut razem.\n\nKSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU."
+      },
+      {
+        "id": "PL_S1_HOOK",
+        "text": "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU."
+      },
+      {
+        "id": "PL_S1",
+        "text": "W grudniu pomysłów zwykle nie brakuje. Czasem brakuje siły, żeby jeszcze jeden wymyślić.\n\n„ŚWIĘTA SĄ TEŻ PO DRODZE” daje gotowy pomysł na około 10 minut razem: krótką przerwę, wspólną aktywność i jedno pytanie. Przez 24 dni, bez dodatkowych zakupów i przygotowań.\n\nNie musicie mieć całego wieczoru. Czasem wystarczy jego mały kawałek.\n\nZapisz na grudzień."
+      },
+      {
+        "id": "PL_S2_HOOK",
+        "text": "ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY"
+      },
+      {
+        "id": "PL_S2",
+        "text": "Puste ręce na krótką chwilę. Rodzinna Maszyna, do której każdy dodaje własny ruch i dźwięk. Pytanie o pomocną rzecz, którą ktoś zrobił, choć łatwo było jej nie zauważyć.\n\nTo trzy przykłady z trzech różnych dni książki „ŚWIĘTA SĄ TEŻ PO DRODZE”. Każdy dzień łączy krótką przerwę, wspólną aktywność i pytanie. Razem około 10 minut.\n\nKtóry z tych trzech pomysłów najbardziej pasuje do waszego domu?"
+      },
+      {
+        "id": "PL_S3_HOOK",
+        "text": "DZIAŁA TAKŻE WE DWOJE."
+      },
+      {
+        "id": "PL_S3",
+        "text": "Nie zawsze wszyscy wracają o tej samej porze. Ktoś ma trening, ktoś lekcje, ktoś później kończy pracę.\n\nW książce „ŚWIĘTA SĄ TEŻ PO DRODZE” każda gra ma wariant W DWIE OSOBY. Można skorzystać z niej także wtedy, kiedy dziś jest was tylko dwoje. Bez czekania na pełny skład i idealnie wolny wieczór.\n\nZachowaj ten pomysł na zabiegany grudzień."
+      }
+    ]
+  },
+  "freeze": null,
+  "segments": [
+    {
+      "id": "PL_BRAND",
+      "locator": "/segments/0/text",
+      "source_text": "THE HAPPY MAKERS PRESENT",
+      "source_sha256": "5717eea799de8d18b05b8975a141a42f5bad5e433e95656048453044c5842d56",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": true
+    },
+    {
+      "id": "PL_TITLE",
+      "locator": "/segments/1/text",
+      "source_text": "ŚWIĘTA SĄ TEŻ PO DRODZE",
+      "source_sha256": "04d1f7e86db2ccebd02f850444ddea23626f1782f54400303ec96c4d62191aef",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": true
+    },
+    {
+      "id": "PL_SUBTITLE",
+      "locator": "/segments/2/text",
+      "source_text": "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.",
+      "source_sha256": "76e8dfa3eca6d3fb28ddd3a5b3c4e70f8a06ab800da8a4e3fbd8c0eb2b0ce0e3",
+      "protected_tokens": [],
+      "numbers": [
+        "24",
+        "10"
+      ],
+      "protected_numbers": [],
+      "protected": true
+    },
+    {
+      "id": "PL_STRAPLINE",
+      "locator": "/segments/3/text",
+      "source_text": "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.",
+      "source_sha256": "cf40cf1990ecee1287f0f10e20f343269910c509a5f595b6ddc9183d8904222b",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": true
+    },
+    {
+      "id": "PL_LABELS",
+      "locator": "/segments/4/text",
+      "source_text": "ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY",
+      "source_sha256": "1be988345e4cbb63a1967f62775b33b427fdde012f6ea16a2c22854e42790560",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": true
+    },
+    {
+      "id": "PL_BACK",
+      "locator": "/segments/5/text",
+      "source_text": "W grudniu łatwo być razem i ciągle się mijać.\n\nSzkoła, praca, treningi, zakupy, prezenty, rzeczy na jutro. A kiedy wreszcie pojawia się wolna chwila, często nie ma już siły wymyślać, co zrobić razem.\n\nDlatego ta książka robi tę część za was.\n\nPrzez 24 dni daje gotowy pomysł na około 10 minut wspólnego czasu. Bez dodatkowych zakupów. Bez przygotowań.\n\nKażdego dnia:\n\nZŁAPMY CHWILĘ\nKrótki moment, żeby zwolnić i odłożyć na bok to, co jeszcze czeka.\n\nZRÓBMY COŚ RAZEM\nProste aktywności, które angażują całą rodzinę: trochę ruchu, współpracy, śmiechu, improwizacji i wspólnego kombinowania.\n\nPOGADAJMY\nJedno pytanie, które może zaprowadzić trochę dalej niż zwykłe „jak było?”.\n\nCzasem będzie dziesięć minut, czasem mniej, a czasem któryś dzień po prostu wypadnie. Nie trzeba nadrabiać na siłę.\n\nMoże zostanie z wami nowy rodzinny żart. Jedno konkretne „dziękuję”. Gra, do której wrócicie w zwykły wtorek. A dziś wystarczy chwila, w której naprawdę jesteście ze sobą.\n\nŚWIĘTA SĄ TEŻ PO DRODZE.",
+      "source_sha256": "3a1461722612dd4f9fdc8aca2e5f40f227aa5a9af46eacf7e3716f37bc7782a6",
+      "protected_tokens": [],
+      "numbers": [
+        "24",
+        "10"
+      ],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_A1",
+      "locator": "/segments/6/text",
+      "source_text": "ŚWIĘTA SĄ TEŻ PO DRODZE\n\nRodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.\n\nKSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.",
+      "source_sha256": "0e04849ba5d6cee893e719f6767ae597617cd032970e934a715b37b87d52bae9",
+      "protected_tokens": [],
+      "numbers": [
+        "24",
+        "10"
+      ],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_A2",
+      "locator": "/segments/7/text",
+      "source_text": "Każdy dzień ma trzy krótkie części.\n\nZŁAPMY CHWILĘ\nKrótka przerwa od tego, co jeszcze czeka.\n\nZRÓBMY COŚ RAZEM\nGra lub zabawa, w której jest miejsce na ruch, współpracę i śmiech.\n\nPOGADAJMY\nJedno pytanie o was i waszą codzienność.",
+      "source_sha256": "12a054c81eecd244a81222b1e90714327ceda3e3c2ac6ac7d347cf59444f6cba",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_A3",
+      "locator": "/segments/8/text",
+      "source_text": "Trzy przykłady z trzech różnych dni.\n\nPUSTE RĘCE: krótka chwila, w której nie trzeba niczego trzymać ani robić.\n\nRODZINNA MASZYNA: każdy dodaje własny ruch i dźwięk do wspólnej zabawy.\n\nJedno pytanie o pomocną rzecz, którą ktoś zrobił, choć łatwo było jej nie zauważyć.",
+      "source_sha256": "e09c921b3cdf2de9e09dead7833d44aa038aa29474770407655292a325c073a9",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_A4",
+      "locator": "/segments/9/text",
+      "source_text": "Dziś tylko we dwoje?\n\nKażda gra ma wariant W DWIE OSOBY. Nie trzeba zbierać całej rodziny ani odkładać książki do spokojniejszego wieczoru. A przy każdej krótkiej przerwie znajdziecie NA JUTRO: mały pomysł do wykorzystania poza książką.",
+      "source_sha256": "3688301a14aa3aba5231aecf6a7e4fa648a099a229057425db10999f1ef2df32",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_A5",
+      "locator": "/segments/10/text",
+      "source_text": "Nie trzeba czekać, aż wszystko będzie gotowe.\n\nMimi, Luli, Dilo, Alio i Nini dorzucają własne komentarze do grudniowych dni. Czasem z takiej chwili zostaje żart, czasem gra do powtórzenia. Najpierw jest jednak te kilka minut razem.\n\nKSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.",
+      "source_sha256": "077ee5cc67c137fdf2c70c57dcbcc49f23684dda6e127b117d27b6fb9b22ac12",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_S1_HOOK",
+      "locator": "/segments/11/text",
+      "source_text": "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.",
+      "source_sha256": "cf40cf1990ecee1287f0f10e20f343269910c509a5f595b6ddc9183d8904222b",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_S1",
+      "locator": "/segments/12/text",
+      "source_text": "W grudniu pomysłów zwykle nie brakuje. Czasem brakuje siły, żeby jeszcze jeden wymyślić.\n\n„ŚWIĘTA SĄ TEŻ PO DRODZE” daje gotowy pomysł na około 10 minut razem: krótką przerwę, wspólną aktywność i jedno pytanie. Przez 24 dni, bez dodatkowych zakupów i przygotowań.\n\nNie musicie mieć całego wieczoru. Czasem wystarczy jego mały kawałek.\n\nZapisz na grudzień.",
+      "source_sha256": "2af5f8f68809e53d8f85d21125efdad8b61fb9bb9d40715a4fc2db4823a60be8",
+      "protected_tokens": [],
+      "numbers": [
+        "10",
+        "24"
+      ],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_S2_HOOK",
+      "locator": "/segments/13/text",
+      "source_text": "ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY",
+      "source_sha256": "1be988345e4cbb63a1967f62775b33b427fdde012f6ea16a2c22854e42790560",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_S2",
+      "locator": "/segments/14/text",
+      "source_text": "Puste ręce na krótką chwilę. Rodzinna Maszyna, do której każdy dodaje własny ruch i dźwięk. Pytanie o pomocną rzecz, którą ktoś zrobił, choć łatwo było jej nie zauważyć.\n\nTo trzy przykłady z trzech różnych dni książki „ŚWIĘTA SĄ TEŻ PO DRODZE”. Każdy dzień łączy krótką przerwę, wspólną aktywność i pytanie. Razem około 10 minut.\n\nKtóry z tych trzech pomysłów najbardziej pasuje do waszego domu?",
+      "source_sha256": "83bd39f657bf831b2849f6c77507f0f91b218d90e808f87deb63e4654fd24e9a",
+      "protected_tokens": [],
+      "numbers": [
+        "10"
+      ],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_S3_HOOK",
+      "locator": "/segments/15/text",
+      "source_text": "DZIAŁA TAKŻE WE DWOJE.",
+      "source_sha256": "cc8a6a37f8a2499e55cd12074b21258cbee64fcc9a6d38a46d7672f4febaac45",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    },
+    {
+      "id": "PL_S3",
+      "locator": "/segments/16/text",
+      "source_text": "Nie zawsze wszyscy wracają o tej samej porze. Ktoś ma trening, ktoś lekcje, ktoś później kończy pracę.\n\nW książce „ŚWIĘTA SĄ TEŻ PO DRODZE” każda gra ma wariant W DWIE OSOBY. Można skorzystać z niej także wtedy, kiedy dziś jest was tylko dwoje. Bez czekania na pełny skład i idealnie wolny wieczór.\n\nZachowaj ten pomysł na zabiegany grudzień.",
+      "source_sha256": "a9c75e97a28ee937cb4f8c4add0af1813a854e803b09eb37678b3723c308ae7b",
+      "protected_tokens": [],
+      "numbers": [],
+      "protected_numbers": [],
+      "protected": false
+    }
+  ],
+  "required_strings": [
+    "ŚWIĘTA SĄ TEŻ PO DRODZE",
+    "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.",
+    "ZŁAPMY CHWILĘ",
+    "ZRÓBMY COŚ RAZEM",
+    "POGADAJMY",
+    "NA JUTRO",
+    "W DWIE OSOBY",
+    "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU."
+  ],
+  "required_string_counts": {
+    "ŚWIĘTA SĄ TEŻ PO DRODZE": 6,
+    "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.": 2,
+    "ZŁAPMY CHWILĘ": 4,
+    "ZRÓBMY COŚ RAZEM": 4,
+    "POGADAJMY": 4,
+    "NA JUTRO": 1,
+    "W DWIE OSOBY": 2,
+    "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.": 4
+  },
+  "preserve_numbers": false,
+  "default_status": "PREMIUM_WORKING",
+  "print_ready": false,
+  "release_authorized": false,
+  "manifest_sha256": "01e43f01336cfc26fac6cf44c59522487df768c229db8ace36190739e3886631"
+}

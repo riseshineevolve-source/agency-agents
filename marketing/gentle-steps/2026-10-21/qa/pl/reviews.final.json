@@ -1,0 +1,37 @@
+{
+  "candidate_sha256": "012bfa971a90cfc75c5015626fb85dbb438f41b76837df6bb35c340bf3316956",
+  "reviews": [
+    {
+      "stage": "native_language",
+      "candidate_sha256": "012bfa971a90cfc75c5015626fb85dbb438f41b76837df6bb35c340bf3316956",
+      "status": "PASS",
+      "reviewer": "/root/polish_copy_review",
+      "evidence": "Complete initial read, two concrete collocation/clarity fixes, bounded recheck on exact final candidate; no unresolved defects.",
+      "recorded_by": "root from actual specialist responses and final hash-bound rechecks"
+    },
+    {
+      "stage": "meaning",
+      "candidate_sha256": "012bfa971a90cfc75c5015626fb85dbb438f41b76837df6bb35c340bf3316956",
+      "status": "PASS",
+      "reviewer": "/root/marketing_context_audit",
+      "evidence": "Compared every segment against actual PL R6 and supplied pinned EN evidence: daily total about ten minutes, 24 days, three sections, variants and distinct-day teasers; no unsupported product outcomes.",
+      "recorded_by": "root from actual specialist responses and final hash-bound rechecks"
+    },
+    {
+      "stage": "audience",
+      "candidate_sha256": "012bfa971a90cfc75c5015626fb85dbb438f41b76837df6bb35c340bf3316956",
+      "status": "PASS",
+      "reviewer": "/root/polish_copy_review",
+      "evidence": "No parent guilt, forced sharing, perfection pressure or promised relationship improvement; shorter/skipped days allowed.",
+      "recorded_by": "root from actual specialist responses and final hash-bound rechecks"
+    },
+    {
+      "stage": "logic",
+      "candidate_sha256": "012bfa971a90cfc75c5015626fb85dbb438f41b76837df6bb35c340bf3316956",
+      "status": "PASS",
+      "reviewer": "/root/marketing_context_audit",
+      "evidence": "All segment references coherent; no complete day or playable-game disclosure; one social CTA per master; no unverified commercial CTA.",
+      "recorded_by": "root from actual specialist responses and final hash-bound rechecks"
+    }
+  ]
+}

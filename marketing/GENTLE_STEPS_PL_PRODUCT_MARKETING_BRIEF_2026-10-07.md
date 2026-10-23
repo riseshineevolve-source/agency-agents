@@ -7,6 +7,12 @@ Primary market: Poland
 Product family: The Happy Makers
 Publication surface: KDP / ebook / app only when each format is live and verified
 
+## Current authority overlay - 2026-10-21
+
+Current copy: `marketing/gentle-steps/2026-10-21/COPY_PACK.md`; production/source/evidence handoff: `PRODUCTION_BRIEF.md` in that directory. Status OWNER_READ_CANDIDATE, not an owner freeze or publication approval. Old R4/R5 source/label examples below are historical where they conflict.
+
+PL body authority is immutable R6 blob `896cf92bf6ed126ef62e623fd9cac640270e853f`, LF SHA256 `68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3`. Source verification shows24 days/72 main sections/24 NA JUTRO/24 W DWIE OSOBY. Use exact October13 title/subtitle and ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY labels. The reviewed back-cover candidate deliberately uses noun descriptions below invitation headings. Product R6, app and final cover files are unchanged by Marketing.
+
 ## 1. CURRENT PRODUCT IDENTITY — LOCKED
 
 ### Series header

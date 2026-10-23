@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-10-12
+updated: 2026-10-23
 status: active
 rules:
   evidence_over_opinion: true
@@ -247,6 +247,169 @@ content_records:
     qualitative_feedback: []
     next_hypothesis: "Compare educational feature retention against hero/depth Shorts."
 
+  - content_id: "GS_20261021_PL_S1"
+    campaign_id: "gentle_steps_owner_review_20261021"
+    product: "Gentle Steps / Before Christmas Slips By"
+    buyer_state: "recognition / ownership"
+    blocker_hypothesis: "Too little energy to organise another activity"
+    angle: "December friction / ready idea"
+    hook: "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU."
+    platform: "instagram_facebook_native_adaptation_pending"
+    format: "editorial_master_no_visual_export"
+    cta: "see exact final native caption"
+    publish_date: null
+    metricool_id: null
+    reach: null
+    impressions: null
+    views: null
+    avg_watch_time: null
+    retention: null
+    saves: null
+    shares: null
+    comments: null
+    clicks: null
+    ctr: null
+    conversion: null
+    sales: null
+    refunds_returns: null
+    qualitative_feedback: []
+    next_hypothesis: "After owner visual/release gates compare saves, shares and qualified destination actions; no winner classification before delivery."
+  - content_id: "GS_20261021_PL_S2"
+    campaign_id: "gentle_steps_owner_review_20261021"
+    product: "Gentle Steps / Before Christmas Slips By"
+    buyer_state: "recognition / ownership"
+    blocker_hypothesis: "Cannot picture the actual experience"
+    angle: "Three verified teasers from distinct days"
+    hook: "ZŁAPMY CHWILĘ / ZRÓBMY COŚ RAZEM / POGADAJMY"
+    platform: "instagram_facebook_native_adaptation_pending"
+    format: "editorial_master_no_visual_export"
+    cta: "see exact final native caption"
+    publish_date: null
+    metricool_id: null
+    reach: null
+    impressions: null
+    views: null
+    avg_watch_time: null
+    retention: null
+    saves: null
+    shares: null
+    comments: null
+    clicks: null
+    ctr: null
+    conversion: null
+    sales: null
+    refunds_returns: null
+    qualitative_feedback: []
+    next_hypothesis: "After owner visual/release gates compare saves, shares and qualified destination actions; no winner classification before delivery."
+  - content_id: "GS_20261021_PL_S3"
+    campaign_id: "gentle_steps_owner_review_20261021"
+    product: "Gentle Steps / Before Christmas Slips By"
+    buyer_state: "recognition / ownership"
+    blocker_hypothesis: "Assumes whole family must attend"
+    angle: "Two-person flexibility"
+    hook: "DZIAŁA TAKŻE WE DWOJE."
+    platform: "instagram_facebook_native_adaptation_pending"
+    format: "editorial_master_no_visual_export"
+    cta: "see exact final native caption"
+    publish_date: null
+    metricool_id: null
+    reach: null
+    impressions: null
+    views: null
+    avg_watch_time: null
+    retention: null
+    saves: null
+    shares: null
+    comments: null
+    clicks: null
+    ctr: null
+    conversion: null
+    sales: null
+    refunds_returns: null
+    qualitative_feedback: []
+    next_hypothesis: "After owner visual/release gates compare saves, shares and qualified destination actions; no winner classification before delivery."
+  - content_id: "GS_20261021_EN_S1"
+    campaign_id: "gentle_steps_owner_review_20261021"
+    product: "Gentle Steps / Before Christmas Slips By"
+    buyer_state: "recognition / ownership"
+    blocker_hypothesis: "Too little energy to organise another activity"
+    angle: "December friction / ready idea"
+    hook: "TEN MINUTES TOGETHER. NOTHING TO PREP."
+    platform: "instagram_facebook_native_adaptation_pending"
+    format: "editorial_master_no_visual_export"
+    cta: "see exact final native caption"
+    publish_date: null
+    metricool_id: null
+    reach: null
+    impressions: null
+    views: null
+    avg_watch_time: null
+    retention: null
+    saves: null
+    shares: null
+    comments: null
+    clicks: null
+    ctr: null
+    conversion: null
+    sales: null
+    refunds_returns: null
+    qualitative_feedback: []
+    next_hypothesis: "After owner visual/release gates compare saves, shares and qualified destination actions; no winner classification before delivery."
+  - content_id: "GS_20261021_EN_S2"
+    campaign_id: "gentle_steps_owner_review_20261021"
+    product: "Gentle Steps / Before Christmas Slips By"
+    buyer_state: "recognition / ownership"
+    blocker_hypothesis: "Cannot picture the actual experience"
+    angle: "Three verified teasers from distinct days"
+    hook: "LET’S TAKE A MOMENT / LET’S DO THIS TOGETHER / LET’S TALK"
+    platform: "instagram_facebook_native_adaptation_pending"
+    format: "editorial_master_no_visual_export"
+    cta: "see exact final native caption"
+    publish_date: null
+    metricool_id: null
+    reach: null
+    impressions: null
+    views: null
+    avg_watch_time: null
+    retention: null
+    saves: null
+    shares: null
+    comments: null
+    clicks: null
+    ctr: null
+    conversion: null
+    sales: null
+    refunds_returns: null
+    qualitative_feedback: []
+    next_hypothesis: "After owner visual/release gates compare saves, shares and qualified destination actions; no winner classification before delivery."
+  - content_id: "GS_20261021_EN_S3"
+    campaign_id: "gentle_steps_owner_review_20261021"
+    product: "Gentle Steps / Before Christmas Slips By"
+    buyer_state: "recognition / ownership"
+    blocker_hypothesis: "Assumes whole family must attend"
+    angle: "Two-person flexibility"
+    hook: "JUST TWO OF YOU TODAY?"
+    platform: "instagram_facebook_native_adaptation_pending"
+    format: "editorial_master_no_visual_export"
+    cta: "see exact final native caption"
+    publish_date: null
+    metricool_id: null
+    reach: null
+    impressions: null
+    views: null
+    avg_watch_time: null
+    retention: null
+    saves: null
+    shares: null
+    comments: null
+    clicks: null
+    ctr: null
+    conversion: null
+    sales: null
+    refunds_returns: null
+    qualitative_feedback: []
+    next_hypothesis: "After owner visual/release gates compare saves, shares and qualified destination actions; no winner classification before delivery."
+
 campaign_records: []
 
 record_schema:
@@ -367,3 +530,143 @@ detective_prelink_hold_2026_10_12:
     - "assign fresh dates from the actual release date"
     - "replace prelaunch CTAs where appropriate"
     - "activate the frozen four-master rollout"
+
+
+live_evidence_snapshot_2026_10_21:
+  source: Metricool_read_only
+  brand_id: 7018771
+  brand_label: Rise.Shine.Evolve.
+  timezone: Europe/Warsaw
+  networks_returned: [facebook, instagram, youtube]
+  tiktok: NOT_VERIFIED
+  organic_query_window: 2026-09-18T00:00:00+02:00_to_2026-10-20T23:59:59+02:00
+  instagram_posts_rows: 0
+  instagram_reels_rows: 0
+  scheduled_query_window: 2026-10-21T00:00:00+02:00_to_2026-12-31T23:59:59+01:00
+  scheduled_items: 0
+  unpublished_draft_inventory: NOT_RETURNED_BY_ENDPOINT
+  detective_existing_drafts: REPO_RECORDED_12__NOT_REENUMERATED_LIVE
+  creative_claw_theme: Rise.Shine.Evolve.__PRESENT
+  creative_claw_current_christmas_identity_pack: NOT_RESOLVED_IN_SEARCH
+  current_winner: NONE_PROVEN
+  interpretation: Empty endpoints are not zero sales or a failed-campaign verdict; six Gentle Steps items are repo-only editorial masters, not Metricool drafts.
+  changes_to_live_accounts: NONE
+  paid_generation_or_spend: NONE
+
+optical_upgrade_2026_10_23:
+  status: PREPARED_NOT_LIVE
+  source: Owner current tagline; directly attached Animals PDF; approved selected Halloween art
+  repurpose: Exact product art reused; no verified performance winner inferred
+  metricool: RSEbrand7018771 readverified today; no draft/schedule/publication write
+  creative_claw: Project asset queries returned0; native SVGsource framing used with original artwork
+  records:
+  - content_id: OA_MASTER_01
+    product: Wild Illusions
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare personal creative-time positioning with animal/pattern proof after release
+  - content_id: OA_MASTER_02
+    product: Wild Illusions
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare personal creative-time positioning with animal/pattern proof after release
+  - content_id: OA_MASTER_03
+    product: Wild Illusions
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare personal creative-time positioning with animal/pattern proof after release
+  - content_id: OH_MASTER_01
+    product: Optical Halloween
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare character curiosity with optical architecture after final product freeze/release
+  - content_id: OH_MASTER_02
+    product: Optical Halloween
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare character curiosity with optical architecture after final product freeze/release
+  - content_id: OH_MASTER_03
+    product: Optical Halloween
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare character curiosity with optical architecture after final product freeze/release
+
+optical_keyword_research_20261023:
+  status: RELEVANCE_RESEARCHED_NOT_DEMAND_VALIDATED
+  source: Current product PDF plus official KDP, Dover and public indexed Amazon offers
+  finding: Prior seven overemphasized mood/artwork. Reflection and monochrome terms
+    risk wrong product intent.
+  recommendation:
+  - optical illusion coloring
+  - intricate animals to color
+  - geometric coloring patterns
+  - detailed wildlife coloring
+  - mindful coloring
+  unused_slots:
+  - 6
+  - 7
+  search_volume: null
+  conversion: null
+  organic_keyword_attribution: null
+  autocomplete: NOT_VERIFIED
+  publication: NONE
+  paid_spend: NONE
+  evidence: marketing/optical-series/2026-10-23/KEYWORD_RESEARCH.md
+
+optical_final_cover_campaign_20261023:
+  status: PREPARED_NOT_LIVE
+  source: Owner final cover and unchanged fox/zebra/toucan interior art
+  source_cover_sha256: 381d278bc5a9c08a6b9771fedf44012e8a2df0907a4744126148eabe804d6d3f
+  repurpose: Existing approved product art; no measured winner inferred
+  creative_claw: No generation started or charged; insufficient credits; source/SVG
+    composition delivered
+  metricool: RSE7018771 verified read; no writes
+  records:
+  - content_id: WI_FINALCOVER_01
+    concept: optical_discovery
+    reach: null
+    clicks: null
+    orders: null
+    metricool_id: null
+    status: PRIVATE_OWNER_REVIEW
+  - content_id: WI_FINALCOVER_02
+    concept: palette_choice
+    reach: null
+    clicks: null
+    orders: null
+    metricool_id: null
+    status: PRIVATE_OWNER_REVIEW
+  - content_id: WI_FINALCOVER_03
+    concept: slower_look
+    reach: null
+    clicks: null
+    orders: null
+    metricool_id: null
+    status: PRIVATE_OWNER_REVIEW
+  next: After owner release and verifiedliveURL, observe performance before calling
+    a winner
+  evidence: marketing/optical-series/2026-10-23/LAUNCH_ASSET_RECEIPTS.json

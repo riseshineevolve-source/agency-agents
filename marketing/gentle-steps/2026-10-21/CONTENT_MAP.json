@@ -1,0 +1,504 @@
+{
+  "segments": [
+    {
+      "id": "PL_BRAND",
+      "language": "pl",
+      "surface": "identity",
+      "protected": true,
+      "function": "identity lock",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_TITLE",
+      "language": "pl",
+      "surface": "identity",
+      "protected": true,
+      "function": "identity lock",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_SUBTITLE",
+      "language": "pl",
+      "surface": "identity",
+      "protected": true,
+      "function": "identity lock",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_STRAPLINE",
+      "language": "pl",
+      "surface": "identity",
+      "protected": true,
+      "function": "identity lock",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_LABELS",
+      "language": "pl",
+      "surface": "identity",
+      "protected": true,
+      "function": "identity lock",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_BACK",
+      "language": "pl",
+      "surface": "back-cover",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_A1",
+      "language": "pl",
+      "surface": "A+",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_A2",
+      "language": "pl",
+      "surface": "A+",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_A3",
+      "language": "pl",
+      "surface": "A+",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07",
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_A4",
+      "language": "pl",
+      "surface": "A+",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_A5",
+      "language": "pl",
+      "surface": "A+",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_S1_HOOK",
+      "language": "pl",
+      "surface": "social-hook",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_S1",
+      "language": "pl",
+      "surface": "social",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_S2_HOOK",
+      "language": "pl",
+      "surface": "social-hook",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_S2",
+      "language": "pl",
+      "surface": "social",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07",
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_S3_HOOK",
+      "language": "pl",
+      "surface": "social-hook",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "PL_S3",
+      "language": "pl",
+      "surface": "social",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/pl/check.accepted.json"
+    },
+    {
+      "id": "EN_BRAND",
+      "language": "en",
+      "surface": "identity",
+      "protected": true,
+      "function": "identity lock",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_TITLE",
+      "language": "en",
+      "surface": "identity",
+      "protected": true,
+      "function": "identity lock",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_SUBTITLE",
+      "language": "en",
+      "surface": "identity",
+      "protected": true,
+      "function": "identity lock",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_STRAPLINE",
+      "language": "en",
+      "surface": "identity",
+      "protected": true,
+      "function": "identity lock",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_LABELS",
+      "language": "en",
+      "surface": "identity",
+      "protected": true,
+      "function": "identity lock",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_AMAZON",
+      "language": "en",
+      "surface": "Amazon",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07",
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_A1",
+      "language": "en",
+      "surface": "A+",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_A2",
+      "language": "en",
+      "surface": "A+",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_A3",
+      "language": "en",
+      "surface": "A+",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07",
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_A4",
+      "language": "en",
+      "surface": "A+",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_A5",
+      "language": "en",
+      "surface": "A+",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_S1_HOOK",
+      "language": "en",
+      "surface": "social-hook",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_S1",
+      "language": "en",
+      "surface": "social",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_S2_HOOK",
+      "language": "en",
+      "surface": "social-hook",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_S2",
+      "language": "en",
+      "surface": "social",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07",
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_S3_HOOK",
+      "language": "en",
+      "surface": "social-hook",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    },
+    {
+      "id": "EN_S3",
+      "language": "en",
+      "surface": "social",
+      "protected": false,
+      "function": "single surface-specific proof/benefit; see CLAIM_MATRIX",
+      "source_dependencies": [
+        "C01",
+        "C02",
+        "C03",
+        "C07"
+      ],
+      "review": "4 stages PASS; exact QA candidate hash in qa/en/check.accepted.json"
+    }
+  ],
+  "repetition_policy": "Deliberate campaign repetition across placements; no repeated full day or rules",
+  "coverage": "34/34 segments reviewed; all current copy surfaces covered",
+  "exclusions": [
+    "book/app body",
+    "Website HTML",
+    "final art",
+    "price/release/listing",
+    "full-day instructions"
+  ]
+}
