@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-23
-status: WAX_QUEEN_OWNER_REFERENCES_MOLTEN_GOWN_V47_DELIVERED
+status: ROOM_CARRIER_MERGED_PRINT_FINAL_V48_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Queen V47 uses two owner-supplied earlier images as primary wax-material references: molten shoulders/gown, intermediate candle growths and softened modern hollow forms; V46 shorter folded-box construction explicitly owner-rejected."
+milestone: "Carrier V48 merged current broad-room upload with two actual recovered earlier broad/near-boot references. One art final plus verified 8.5x11 vector PDF and 2550x3300 binary300ppi PNG delivered and saved."
 blocker: null
-owner_gate: "Owner comparison of V47 molten material with supplied earlier examples. V46 agent passes did not equal owner acceptance; technical QA cannot close this material-reading gate."
+owner_gate: "Owner visual/release judgment of delivered carrier V48. Queen V47 remains in candidate bank, no final approval inferred. Standalone artwork export is not book/KDP release."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve V47, rejected V46 construction and earlier bank. Await owner material-reading feedback; other scenes/skeleton V37/waiter remain closed. Illustrations only."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_WAX_QUEEN_OWNER_REFERENCES_MOLTEN_GOWN_V47.md"
+next_safe_task: "Preserve V48 art and both print files; do not regenerate without owner correction/proven blocker. Other scenes and locked waiter untouched. No book assembly or release."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_ROOM_CARRIER_MERGED_PRINT_FINAL_V48.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Fresh optical and Reality/Finish reviewers compared actual V47 with both owner wax references. Shared molten volume and intermediate growths stronger; foreground exact paths partly occluded. Five physical candles and neutral-color check pass. Owner material-reading gate remains."
+closing_pass_qa: "Carrier actual art and actual300ppi export independently reviewed: two grips/boots, full hat/frame/furniture, no reflected glove. PDF1page612x792pt/0rasterimages; PNG2550x3300binary. Source-contour conversion adds no native detail; all comparison differences lie on source boundaries."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -272,3 +272,12 @@ wax_queen_owner_references_molten_gown_v47:
   - "Five physical candles, five-flame wreath, hood/twohands and updated reflections. Zero pixels with RGB channel spread over15; not binary/printmaster certification."
   - "Fresh optical and Reality reviewers see stronger shared molten material. Exact foreground waist-to-wall paths partly occluded; owner visual gate persists."
   - "All V46/V45 and supplied sources preserved, other scenes and approved waiter untouched. Exact prompts/source hashes in checkpoint; no book/factory work."
+
+room_carrier_merged_print_final_v48:
+  - "Owner explicitly reopens carrier upload and requests one merged final for print ASAP; single-artwork export authorized, no book assembly."
+  - "Actual earlier 20261022-115626 and115632 references recovered and inspected; hashes match documented broad-source and near-boot support. V18 crescent-chair replacement excluded."
+  - "Art exec-bfc21afe-626f-4511-8ea1-62bb6dc92da1.png SHA256 04c97d00c1c9e254016c05f6320b0e31a7094a213663b3758c516ed0ec724687."
+  - "PDF Optical_Halloween_Room_Carrier_FINAL_8.5x11.pdf SHA256 6f0763da14c85ff07b3bc2364d55a6305f59216bbff6b8d43e529fcc31487548; durable ID libfile_fe27edf2fedc8191b83492da3830f2d8."
+  - "PNG Optical_Halloween_Room_Carrier_FINAL_300ppi.png SHA256 d4085cd2d78c6692521fca4a921e343f2749562e8110302ac6df6fdada079b78; durable ID libfile_832fedc5ab208191a652b1f345185d3b."
+  - "Source1103x1426 converted to neutral vector contours and binary300ppi grid, not new high-native-detail generation. Page/render checks pass; conversion is not source-pixel identity."
+  - "Both outputs saved successfully, metadata applied; all originals and previous art retained. QueenV47/other scenes and approved waiter untouched."
