@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-23
-status: WAX_QUEEN_CONTINUOUS_GOWN_GEOMETRIC_CANDLES_V44_DELIVERED
+status: WAX_QUEEN_FULL_HEIGHT_SKIRT_NO_CUTOFF_V45_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Queen V44 owner correction delivered: visible waist-originating gown pleats form geometric hollow/stepped candle bodies; left candle reworked into cut-through prism; local gray bevel cleanup completed."
+milestone: "Queen V45 crop-proven hem cutoff removed: full-height skirt reaches mirror floor; geometric candles become raised wax folds. Central stepped sidewall locally fused after strict review."
 blocker: null
-owner_gate: "Owner visual review of V44. Reviewers confirm materially clearer gown-to-candle continuity; minor upper-right drape ambiguity remains honestly recorded. No owner final approval inferred."
+owner_gate: "Owner visual review of V45 final. Previous V44 acceptance superseded by owner cutoff crop. Specific hem and central-prop blockers now resolved; no owner final approval inferred."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve V44, V43 and earlier bank. Await owner visual feedback; other scenes/skeleton V37/waiter remain closed. Illustrations only."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_WAX_QUEEN_CONTINUOUS_GOWN_GEOMETRIC_CANDLES_V44.md"
+next_safe_task: "Preserve V45 initial/final and earlier bank. Await owner visual feedback; other scenes/skeleton V37/waiter remain closed. Illustrations only."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_WAX_QUEEN_FULL_HEIGHT_SKIRT_NO_CUTOFF_V45.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Actual V44 compared against V43 by coloring/Brand Guardian and Reality/Finish reviewer; visible waist-to-candle material continuity improves. Gray bevel/arch fills removed locally and verified in final. Six physical candle forms; no all-paths-unoccluded or ray-correct claim."
+closing_pass_qa: "Actual owner crop proved real hanging-hem blocker; prior V44 pass overcredited matching bands. Initial V45 removes hem/gap. Final targeted central sidewall edit independently verified as shared broad wax plane. Six physical candle forms; no every-small-path or ray-correct claim."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -251,3 +251,11 @@ wax_queen_continuous_gown_geometric_candles_v44:
   - "Base exec-e625efa9-0687-475e-9e34-88974ad66607.png retained. Two ImageGen calls: targeted material revision and local gray-to-white finish."
   - "Reviewers confirm stronger gown reading; upper-right join can partly suggest drape and smaller paths are occluded. No final owner approval inferred; six visible actual candles."
   - "V43 source hash unchanged; no all-original re-audit claimed. Other scenes and locked waiter untouched. No book/factory work."
+
+wax_queen_full_height_skirt_no_cutoff_v45:
+  - "Owner crop image20261023-084007 inspected directly; real scalloped hem above candles identified. V44 earlier continuity pass superseded, all sources retained."
+  - "Full skirt now extends waist-to-mirror with no suspended cutoff. Raised hollow/stepped wax forms retain geometric language, optical depth and lower reflection."
+  - "Initial V45 exec-de03ff0b-f507-43a8-8c37-9cd5ace46f1b.png preserved. Strict Reality review found central separate outline; one local sidewall fusion corrected it."
+  - "Final exec-7cd56710-05a6-4e97-94cf-dab756f1eab9.png SHA256 2c27e6ab1b4755389beed8704d40e7407245030d912b7e4786a10eab2b3365f1."
+  - "Final central white face and black band visibly continue into gown/floor; no further targeted issue found. Small/distant paths not all individually traceable; no owner approval inferred."
+  - "Two built-in ImageGen edits, exact prompts/hashes/reviewer findings in checkpoint. Other scenes and approved waiter untouched; no book/factory work."
