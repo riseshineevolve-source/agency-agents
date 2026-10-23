@@ -1,0 +1,75 @@
+{
+  "stage": "logic",
+  "reviewer": "audience_logic_review / independent Polish logic and continuity review",
+  "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+  "scope": {
+    "candidate": "/workspace/scratch/e6eabdc4c3a0/tool-trial/run/candidate.final.json",
+    "segments": [
+      "intro",
+      "game"
+    ],
+    "coverage": "Read the complete exact final candidate and brief afresh; reviewed the changed game, unchanged intro neighbor, their dependency closure, and global invariants.",
+    "inputs": [
+      "/workspace/scratch/e6eabdc4c3a0/tool-trial/run/candidate.final.json",
+      "/workspace/scratch/e6eabdc4c3a0/tool-trial/run/functional-brief.json"
+    ],
+    "english_source_inspected": false,
+    "other_reviewers_inspected": false,
+    "dependency_closure": [
+      "intro",
+      "game"
+    ],
+    "metadata": "The writer_packet_sha256 field is metadata, outside the reader-facing segment text."
+  },
+  "role": "/workspace/scratch/e6eabdc4c3a0/rse/specialized/polish-logic-editor.md",
+  "findings": [
+    {
+      "segment_id": "intro",
+      "status": "KEEP",
+      "evidence": [
+        "W grudniu często jest sporo do zrobienia. Jeśli macie ochotę, możecie zrobić sobie krótką przerwę i pobyć razem."
+      ],
+      "assessment": "December busyness sets up the optional short shared pause; the game supplies its concrete next action. There is no new causal promise, unclear pronoun, missing event, or broken transition. The unchanged neighboring segment remains compatible with the revised ending in game.",
+      "minimal_correction": null,
+      "neighboring_segments_checked": [
+        "game"
+      ]
+    },
+    {
+      "segment_id": "game",
+      "status": "KEEP",
+      "evidence": [
+        "Przeznaczcie na zabawę 2 minuty. Jedna osoba zaczyna od cichego dźwięku. Każda kolejna osoba powtarza dotychczasowy ciąg dźwięków i dodaje jeden dźwięk. Każdy może pominąć swoją kolej. Jeśli nie pamiętacie już kolejności dźwięków, zacznijcie od nowa. Zakończcie zabawę, gdy każdy będzie już po swojej turze. W etykiecie minutnika zachowajcie dokładny zapis {minutes}."
+      ],
+      "assessment": "The order is coherent: duration setup, one quiet starter, accumulated sequence plus one added sound per following participant, permission to skip, restart on lost order, finish after all turns, timer-label instruction. “Dotychczasowy ciąg dźwięków” identifies the accumulated material; “kolejności dźwięków” identifies its order. “Każdy” consistently refers to participants. “Kolej” in the pass instruction and “tura” in the completion instruction are compatible references to a participant’s turn; no extra round or required performance is implied. Sound/order/turn repetition remains functional.",
+      "minimal_correction": null,
+      "neighboring_segments_checked": [
+        "intro"
+      ]
+    }
+  ],
+  "global_checks": [
+    {
+      "check": "Immutable details and token",
+      "status": "KEEP",
+      "evidence": "December, ASCII digit 2 with minutes, one initial participant, a quiet initial sound, preceding sequence repeated with one sound appended, universal pass permission, restart on lost order, completion after participant turns, and exact {minutes} token are present."
+    },
+    {
+      "check": "Timing and stopping",
+      "status": "KEEP",
+      "evidence": "The 2-minute allocation and completion condition both remain. Their precedence is unspecified in the brief and remains unspecified in the candidate; no rule has been invented to resolve it."
+    },
+    {
+      "check": "Restart continuity",
+      "status": "KEEP",
+      "evidence": "The restart trigger is stated without inventing starter choice, turn direction, rounds, or restart effects on turn counting."
+    },
+    {
+      "check": "Dependency closure and global invariants",
+      "status": "KEEP",
+      "evidence": "Both segments and their transition were checked. Segment IDs and order match the brief, run_sha256 matches the brief, the final metadata does not enter the guide’s prose, and there are no unresolved referents, cross-segment contradictions, nonfunctional repetitions, or new mechanics."
+    }
+  ],
+  "overall_status": "PASS",
+  "material_defects": []
+}

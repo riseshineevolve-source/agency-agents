@@ -1,0 +1,4 @@
+interface:
+  display_name: "RSE Language Studio"
+  short_description: "Native PL/EN books, edits and source-safe QA"
+  default_prompt: "Use $rse-language to create or improve the PL or EN edition of this RSE book."

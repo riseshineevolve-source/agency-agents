@@ -1,0 +1,92 @@
+{
+  "run_sha256": "cd5c7ee8ed05e1dc3742e480bf5c12c463b2b45a06ef1667d1791f98aaae9131",
+  "diagnostic": "COMPLETE_BOUNDED_SOURCE_AND_EMPTY_TARGET",
+  "issues": [
+    {
+      "id": "LANG-INTRO",
+      "segment_id": "intro",
+      "classification": "FIX",
+      "reason": "No Polish candidate yet; localize the authorized introductory function.",
+      "resolution": "Localized by isolated native author; independently reviewed on exact final candidate.",
+      "final_classification": "KEEP"
+    },
+    {
+      "id": "LANG-GAME",
+      "segment_id": "game",
+      "classification": "FIX",
+      "reason": "No Polish candidate yet; localize while retaining every timing, turn, pass, reset and finish condition, plus token.",
+      "resolution": "Localized by isolated native author; independently reviewed on exact final candidate.",
+      "final_classification": "KEEP"
+    },
+    {
+      "id": "PL-COLLOCATION-001",
+      "segment_id": "game",
+      "classification": "FIX",
+      "exact_phrase": "gdy każdy będzie już po swojej kolejce",
+      "minimal_fix": "gdy każdy będzie już po swojej turze",
+      "evidence": "review-native-v1.json",
+      "resolution": "Sole writer applied minimal fix; review-native-final.json confirms resolved.",
+      "final_classification": "KEEP"
+    },
+    {
+      "id": "SOURCE-TIMING-001",
+      "segment_id": "game",
+      "classification": "OWNER_GATE",
+      "status": "OPEN",
+      "title": "2-minute duration versus all-participants completion",
+      "reason": "The source states both a 2-minute duration and finishing when everyone has had a turn, without precedence if these conditions diverge.",
+      "material_to_game_usability": true,
+      "resolution": "UNRESOLVED_SOURCE_AUTHORITY_REQUIRED; candidate preserves source."
+    },
+    {
+      "id": "SOURCE-RESTART-002",
+      "segment_id": "game",
+      "classification": "OWNER_GATE",
+      "status": "OPEN",
+      "title": "Restart scope and turn counting",
+      "reason": "The source requests a restart after losing sound order without stating who restarts or whether completed turns still count toward ending.",
+      "material_to_game_usability": true,
+      "resolution": "UNRESOLVED_SOURCE_AUTHORITY_REQUIRED; candidate preserves source."
+    },
+    {
+      "id": "SOURCE-PASS-003",
+      "segment_id": "game",
+      "classification": "OWNER_GATE",
+      "status": "OPEN",
+      "title": "Passing versus completion",
+      "reason": "The source allows any participant to pass and also ends when everyone has had a turn, without explicitly defining how a pass counts.",
+      "material_to_game_usability": true,
+      "resolution": "UNRESOLVED_SOURCE_AUTHORITY_REQUIRED; candidate preserves source."
+    }
+  ],
+  "source_ambiguities": [
+    {
+      "id": "SOURCE-TIMING-001",
+      "segment_id": "game",
+      "classification": "OWNER_GATE",
+      "status": "OPEN",
+      "material_to_game_usability": true,
+      "detail": "The source states both a 2-minute duration and finishing when everyone has had a turn, without precedence if these conditions diverge.",
+      "localization_action": "Preserved without invented rule; source-author clarification needed for a complete playable-game proof."
+    },
+    {
+      "id": "SOURCE-RESTART-002",
+      "segment_id": "game",
+      "classification": "OWNER_GATE",
+      "status": "OPEN",
+      "material_to_game_usability": true,
+      "detail": "The source requests a restart after losing sound order without stating who restarts or whether completed turns still count toward ending.",
+      "localization_action": "Preserved without invented rule; source-author clarification needed for a complete playable-game proof."
+    },
+    {
+      "id": "SOURCE-PASS-003",
+      "segment_id": "game",
+      "classification": "OWNER_GATE",
+      "status": "OPEN",
+      "material_to_game_usability": true,
+      "detail": "The source allows any participant to pass and also ends when everyone has had a turn, without explicitly defining how a pass counts.",
+      "localization_action": "Preserved without invented rule; source-author clarification needed for a complete playable-game proof."
+    }
+  ],
+  "status": "TRANSFER_PRESERVATION_REVIEW_PASS; THREE_SOURCE_CLARITY_OWNER_GATES_OPEN"
+}

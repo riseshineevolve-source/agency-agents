@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-21",
+  "status": "EDITORIAL_CANDIDATE_NOT_PUBLISHED",
+  "source_r6_sha256": "68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3",
+  "source_r6_git_blob": "896cf92bf6ed126ef62e623fd9cac640270e853f",
+  "reviewers": [
+    "/root/articles (writer and source analyst)",
+    "/root/articles/english_review (independent EN review before final attribution)",
+    "/root (PL, meaning, attribution, source identity)",
+    "/root/articles (independent complete final reread after root patches)"
+  ],
+  "final_findings": "KEEP; no material FIX or BLOCK on four current hashes",
+  "article_checks": [
+    {
+      "file": "01_december_family_time_EN.md",
+      "sha256": "e8f0b6bd3f00f99f1b1297d8599cfcc3e5712c6ba70f21856a8daecfe9658b59",
+      "words_with_headings": 327,
+      "sections": 3,
+      "source_days": [
+        19,
+        10,
+        7
+      ]
+    },
+    {
+      "file": "01_grudzien_bez_pospiechu_PL.md",
+      "sha256": "411c254834682609e60755a2044a4cec786c82386cd46ad0d8ea50f66928d2ff",
+      "words_with_headings": 316,
+      "sections": 3,
+      "source_days": [
+        19,
+        10,
+        7
+      ]
+    },
+    {
+      "file": "02_advent_activities_EN.md",
+      "sha256": "fdf9864a2b17ff883003d3fbdf84a124f37f12d59e6338f5f970995f219773f1",
+      "words_with_headings": 340,
+      "sections": 3,
+      "source_days": [
+        21,
+        22,
+        14
+      ]
+    },
+    {
+      "file": "02_kalendarz_z_zadaniami_PL.md",
+      "sha256": "3268fe2aa35f45fd200009993f539f770a220bcb6d2bb849a119d8397f4c11fd",
+      "words_with_headings": 302,
+      "sections": 3,
+      "source_days": [
+        21,
+        22,
+        14
+      ]
+    }
+  ],
+  "owner_approval": "NOT_GRANTED",
+  "publication": "NOT_PERFORMED",
+  "product_source_changes": false
+}

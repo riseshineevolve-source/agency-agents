@@ -1,7 +1,7 @@
 lane: polish_localization
-title: "Polish Localization Engine"
-updated: 2026-10-20
-status: GENTLE_GUIDES_V2_EDITORIAL_CANDIDATE_LIBRARY_READY__DETECTIVE_R8_HASH_PASS__PRINT_GATES_OPEN
+title: Polish Localization Engine
+updated: '2026-10-21'
+status: LANGUAGE_STUDIO_V1_TESTED__GENTLE_GUIDES_V3_EDITORIAL_CANDIDATE__DETECTIVE_R8_PROTECTED
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   engine_base_branch: codex/polish-engine-main-reconcile
@@ -14,6 +14,9 @@ branch_or_repo_state:
   detective_r8_checkpoint_head: cfe524a2ca6eef401d60b7233a5a47664e5caeb9
   detective_r8_pr: https://github.com/riseshineevolve-source/agency-agents/pull/38
   branch_relation: DIVERGED__NO_BLIND_MERGE
+  language_tool_branch: codex/polish-engine-language-studio-20261021
+  language_tool_base_main: 4b123f5ccdb77f7a8e4390624f7466d16ba665a6
+  language_tool_relation: ISOLATED_ADDITIVE_BRANCH_FROM_MAIN__NO_MERGE_OF_DIVERGED_OLD_ENGINE
 milestone:
   gentle_steps_pl:
     source: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md
@@ -32,8 +35,7 @@ milestone:
     na_jutro: 24
     existing_r6_copy: PROTECTED__NO_REWRITE
   gentle_steps_ai_discovery_guides:
-    version: V2_EDITORIAL_CANDIDATE_2026_10_20
-    storage_root: /RSE/Gentle Steps/AI Discovery/2026-10-20
+    version: V3_EDITORIAL_CANDIDATE_2026_10_21
     guide1_pl: 01_grudzien_bez_pospiechu_PL.md
     guide1_en: 01_december_family_time_EN.md
     guide2_pl: 02_kalendarz_z_zadaniami_PL.md
@@ -41,12 +43,18 @@ milestone:
     editorial_handoff: 00_README_EDITORIAL_HANDOFF.md
     checksum_manifest: SHA256_MANIFEST.json
     verified_source_teasers:
-      article1: "Day19 Empty Hands / Day10 Family Machine / Day07 Unnoticed Thanks"
-      article2: "Day21 One Sound Quieter / Day22 Reverse Charades / Day14 Picked-up Family Habits"
-    source_authority: "PL R6 exact Git blob 896cf92b; EN V2 R3 source SHA256 d8970cdb"
+      article1: Day19 Empty Hands / Day10 Family Machine / Day07 Unnoticed Thanks
+      article2: Day21 One Sound Quieter / Day22 Reverse Charades / Day14 Picked-up Family Habits
+    source_authority: Exact R6 Git blob 896cf92bf6ed126ef62e623fd9cac640270e853f; SHA256 68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3;
+      V2 EN provenance inherited, source mechanisms rechecked against PL R6
     owner_locked_terms: PRESERVED_NO_RECONFIRMATION_NEEDED
-    approval: OWNER_EDITORIAL_REVIEW_NEEDED
+    approval: EDITORIAL_REVIEW_PASS__OWNER_APPROVAL_NOT_GRANTED
     website_release: NOT_PUBLISHED
+    previous_v2_storage_root: /RSE/Gentle Steps/AI Discovery/2026-10-20
+    repository_root: localization/campaigns/gentle-steps/2026-10-21
+    cta: UNLINKED_PREVIEW_INVITATIONS__WEBSITE_WRITER_VALIDATES_REAL_DESTINATION
+    book_or_app_source_changed: false
+    archive_library_file_id: libfile_8e6a48cd11c48191bbc1ec7b5c4922c6
   template_fit:
     r6_contract: localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R6_FINAL_TEMPLATE_PROOF_CONTRACT_2026-10-08.json
     new_validator: scripts/gentle-steps-r6-proof.py
@@ -56,7 +64,7 @@ milestone:
     twelve_print_scale_pngs: MISSING_NOT_VERIFIED
     print_editorial_safety_proof: BLOCK
   detective_pl:
-    existing_source_freeze: "2026-10-08 V10 EN freeze for explicitly named PL source retained as historical scoped receipt"
+    existing_source_freeze: 2026-10-08 V10 EN freeze for explicitly named PL source retained as historical scoped receipt
     latest_complete_private_library: /RSE/Detective Academy/PL Versions/V04/R8
     latest_r8_status: FULL_30_CASES_90_HINTS_30_SOLUTIONS__HASH_AND_STRUCTURE_PASS__NOT_PRINT_READY
     latest_r8_reader_sha256: d547b13c953346b35b8b7910fd94a4819ba680319deede73e5bfdfe41ae148a3
@@ -76,38 +84,84 @@ milestone:
     final70_assignment: localization/pl-PL/production/detective-academy/versions/v02/V02_FINAL70_ASSIGNMENT.md
     final70_owner_decision: localization/pl-PL/production/detective-academy/versions/v02/OWNER_DECISION_2026-10-13_NEW30_FINAL_LOCK_PLUS_ZANTA_RESERVE.md
     final70_qa: PASS_FINAL70_TEXT_IDENTITY_REBIND__PHYSICAL_MAP_PROOF_NOT_DONE
-    final70_identity_counts: "40 prior frozen + NEW30; ZYRA assigned once; ZANTA reserve unused; 38 peripheral spatial witnesses keep source names"
+    final70_identity_counts: 40 prior frozen + NEW30; ZYRA assigned once; ZANTA reserve unused; 38 peripheral spatial witnesses
+      keep source names
+  rse_language_studio:
+    skill: .agents/skills/rse-language/SKILL.md
+    cli: scripts/rse-language.py
+    guide: tools/rse-language/README.md
+    modes:
+    - same_language_upgrade
+    - cross_language_native_authoring
+    languages:
+    - pl
+    - en
+    tests: 31/31 facade tests PASS locally after final guard; 59/59 legacy engine tests PASS separately
+    legacy_engine_regression: 59 tests PASS locally on byte-verified hydrated engine snapshot 8b484a528cd2ef85d23d5efc5c5c341a2fd02985
+    skill_validation: PASS
+    skill_installed_commit: 423eb90
+    ci: NO_WORKFLOW_RUNS_RETURNED_FOR_5475185__FINAL_HEAD_NOT_YET_OBSERVED
+    automatic_prose_generation: Calling skill/assistant performs writing and review; CLI guards workflow and exports
+    production_release: NOT_AUTHORIZED
+    trial: Actual isolated writer and four stage reviews; correct transfer PASS, unresolved original source mechanics => OWNER_GATE,
+      no false owner-read readiness
+    trial_path: tools/rse-language/trial-2026-10-21
+    pr: https://github.com/riseshineevolve-source/agency-agents/pull/40
+    implementation_head: 547518585b2d8c598f93f55f0dc72d61d2d8e71e
 blocker:
-  - "Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer evidence not available."
-  - "Authorized Desktop Commander device offline as checked 2026-10-19; no physical print or device proof."
-  - "PR #37 exact-head green CI not verified; do not promote as proven PASS or merge blindly."
-  - "Detective R8 text proof has no embedded artwork; master PDF page 80 is footer-only; both must be re-rendered with final Book Factory template."
-  - "Physical Case03 photos, Case12 G2 map, Case21 four fragments, Case26 14 maps, Case27 overlay, human PL family read-aloud and owner KDP layout proof remain unverified."
-  - "R8 original manifest self-hash and owner handoff SHA mismatch the retrieved auxiliary bytes; 7/7 substantive source hashes PASS, no body corruption inferred."
+- Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer evidence
+  not available.
+- Authorized Desktop Commander device offline as checked 2026-10-19; no physical print or device proof.
+- 'PR #37 exact-head green CI not verified; do not promote as proven PASS or merge blindly.'
+- Detective R8 text proof has no embedded artwork; master PDF page 80 is footer-only; both must be re-rendered with final
+  Book Factory template.
+- Physical Case03 photos, Case12 G2 map, Case21 four fragments, Case26 14 maps, Case27 overlay, human PL family read-aloud
+  and owner KDP layout proof remain unverified.
+- R8 original manifest self-hash and owner handoff SHA mismatch the retrieved auxiliary bytes; 7/7 substantive source hashes
+  PASS, no body corruption inferred.
 owner_gate:
-  - "The PL/EN daily headings, PL headline and EN subtitle are OWNER-LOCKED (2026-10-13); no owner reconfirmation needed. Await sole Gentle Steps writer for atomic source/app migration after visual/CI pass."
-  - "English primary short strapline editorial completion 2026-10-19: A BOOK THAT FITS INTO YOUR DECEMBER. Separate from the owner-locked EN subtitle; do not insert on cover without actual layout review."
-  - "Final Gentle PL print-scale visual/editorial/safety approval and release freeze remain owner-controlled."
-  - "Before moving Detective PL onto the latest evolving EN production master, obtain explicit current source authority and freeze; do not equate historical V10 scoped freeze with later EN editions."
+- The PL/EN daily headings, PL headline and EN subtitle are OWNER-LOCKED (2026-10-13); no owner reconfirmation needed. Await
+  sole Gentle Steps writer for atomic source/app migration after visual/CI pass.
+- 'English primary short strapline editorial completion 2026-10-19: A BOOK THAT FITS INTO YOUR DECEMBER. Separate from the
+  owner-locked EN subtitle; do not insert on cover without actual layout review.'
+- Final Gentle PL print-scale visual/editorial/safety approval and release freeze remain owner-controlled.
+- Before moving Detective PL onto the latest evolving EN production master, obtain explicit current source authority and freeze;
+  do not equate historical V10 scoped freeze with later EN editions.
 dependencies_needed:
-  - lane: gentle_steps
-    need: "Producer to supply actual R6 final-template PDF, editable final template snapshot and 12 distinct PNG views with hash-bound source and reviewer evidence. Do not rewrite Polish content on app branch."
-  - lane: central_control_tower
-    need: "Coordinate ALREADY owner-locked PL/EN Gentle Steps headings/subtitle without reconfirmation. Consume two bilingual Gentle Steps AI Discovery guides from /RSE/Gentle Steps/AI Discovery/2026-10-20 after owner editorial review; website writer must update legacy product page first, then check true format links, hreflang, canonical, mobile and design. Do not overwrite approved parent guides. English short campaign line A BOOK THAT FITS INTO YOUR DECEMBER. is editorial-approved but cover placement is product-owned."
-  - lane: detective_book_factory
-    need: "Consume EXACT Library V04 R8 Reader + Master + 90 hints + 30 solutions (all SHA-verified) as latest PL language candidate; produce complete designed Polish KDP proof using owner-approved art and maps. Test Case03 / 12 / 21 / 26 / 27, FOUR 0 records and FINAL70; real print proof and owner visual gate. Do not use V03 REV6 or generate a competing translation. For future newest EN parity, request exact explicit source freeze."
+- lane: gentle_steps
+  need: Producer to supply actual R6 final-template PDF, editable final template snapshot and 12 distinct PNG views with hash-bound
+    source and reviewer evidence. Do not rewrite Polish content on app branch. Owner-attached cover reference contains abcabc
+    placeholder back copy and front lower badge; do not promote this reference as a finished cover. Current production wrap
+    was not inspected here.
+- lane: central_control_tower
+  need: Consume V3 bilingual Gentle Steps guides at localization/campaigns/gentle-steps/2026-10-21/v3 after owner editorial
+    approval. Website sole writer connects verified product/preview link and checks real formats/title, language routing and
+    current design. No website files changed by localization.
+- lane: detective_book_factory
+  need: Consume EXACT Library V04 R8 Reader + Master + 90 hints + 30 solutions (all SHA-verified) as latest PL language candidate;
+    produce complete designed Polish KDP proof using owner-approved art and maps. Test Case03 / 12 / 21 / 26 / 27, FOUR 0
+    records and FINAL70; real print proof and owner visual gate. Do not use V03 REV6 or generate a competing translation.
+    For future newest EN parity, request exact explicit source freeze.
 reusable_outputs:
-  - https://github.com/riseshineevolve-source/agency-agents/pull/37
-  - scripts/gentle-steps-r6-proof.py
-  - scripts/test-localization-gentle-steps-r6-fit.py
-  - localization/pl-PL/production/gentle-steps/book-versions/v3/R6_PROOF_AND_LABEL_CHANGE_GATE_2026-10-19.md
-  - https://github.com/riseshineevolve-source/agency-agents/pull/38
-  - localization/pl-PL/production/detective-academy/versions/v04/V04_R8_EXACT_SOURCE_RECOVERY_AND_PRINT_HANDOFF_2026-10-19.md
-  - localization/pl-PL/production/detective-academy/versions/v04/V04_R8_RECOVERY_QA_2026-10-19.json
-  - /RSE/Gentle Steps/AI Discovery/2026-10-20/01_grudzien_bez_pospiechu_PL.md
-  - /RSE/Gentle Steps/AI Discovery/2026-10-20/01_december_family_time_EN.md
-  - /RSE/Gentle Steps/AI Discovery/2026-10-20/02_kalendarz_z_zadaniami_PL.md
-  - /RSE/Gentle Steps/AI Discovery/2026-10-20/02_advent_activities_EN.md
-  - /RSE/Gentle Steps/AI Discovery/2026-10-20/00_README_EDITORIAL_HANDOFF.md
-next_safe_task: "Owner-review the two bilingual Gentle Steps editorial guide drafts in the Library; website/AI Discovery sole writer later connects product link only after legacy listing/title repair. Continue proof/CI handoffs for Gentle PL and verified Detective R8; no product/source rewrites."
-checkpoint_reference: localization/pl-PL/production/detective-academy/versions/v04/V04_R8_EXACT_SOURCE_RECOVERY_AND_PRINT_HANDOFF_2026-10-19.md
+- https://github.com/riseshineevolve-source/agency-agents/pull/37
+- scripts/gentle-steps-r6-proof.py
+- scripts/test-localization-gentle-steps-r6-fit.py
+- localization/pl-PL/production/gentle-steps/book-versions/v3/R6_PROOF_AND_LABEL_CHANGE_GATE_2026-10-19.md
+- https://github.com/riseshineevolve-source/agency-agents/pull/38
+- localization/pl-PL/production/detective-academy/versions/v04/V04_R8_EXACT_SOURCE_RECOVERY_AND_PRINT_HANDOFF_2026-10-19.md
+- localization/pl-PL/production/detective-academy/versions/v04/V04_R8_RECOVERY_QA_2026-10-19.json
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/01_grudzien_bez_pospiechu_PL.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/01_december_family_time_EN.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/02_kalendarz_z_zadaniami_PL.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/02_advent_activities_EN.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/00_README_EDITORIAL_HANDOFF.md
+- .agents/skills/rse-language/SKILL.md
+- tools/rse-language/README.md
+- scripts/rse-language.py
+- scripts/test-rse-language.py
+- localization/campaigns/gentle-steps/2026-10-21/v3
+- https://github.com/riseshineevolve-source/agency-agents/pull/40
+next_safe_task: Review V3 guides and consume via sole website writer; use installed $rse-language for new PL/EN content runs.
+  Preserve R6 and existing Detective PL R8; next product work remains actual source-bound designed proof. New latest-EN Detective
+  migration still requires explicit current freeze.
+checkpoint_reference: localization/checkpoints/2026-10-21-language-studio-and-gentle-guides.md

@@ -1,0 +1,238 @@
+{
+  "reviewer": "Independent bilingual meaning and activity-mechanics reviewer",
+  "stage": "meaning",
+  "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+  "scope": {
+    "candidate": "run/candidate.final.json",
+    "source": "run/source.json",
+    "functional_brief": "run/functional-brief.json",
+    "segments": [
+      "intro",
+      "game"
+    ],
+    "changed_unit": "game",
+    "neighbor_rechecked": "intro",
+    "method": "Read the complete exact final candidate, source and functional brief. Rechecked every meaning and mechanics requirement against the final text. Used candidate.authored.json only to verify the claimed text delta. No other reviewer findings or remote services were consulted.",
+    "envelope_exclusion": "Source edition=test and year=2026 are metadata outside localized segment text; the functional brief does not require them in the candidate envelope."
+  },
+  "findings": [
+    {
+      "segment_id": "intro",
+      "decision": "KEEP",
+      "status": "PASS",
+      "severity": null,
+      "source_meaning": "December is busy; readers can take a short break together.",
+      "candidate_wording": "W grudniu często jest sporo do zrobienia. Jeśli macie ochotę, możecie zrobić sobie krótką przerwę i pobyć razem.",
+      "assessment": "The unchanged neighboring unit preserves the December context, general busyness, brevity, togetherness and optional invitation. Często is compatible with the ordinary seasonal generalization. Jeśli macie ochotę makes the existing optionality explicit and does not add an obligation or factual benefit.",
+      "minimal_correction_requirement": null
+    },
+    {
+      "segment_id": "game",
+      "decision": "KEEP",
+      "status": "PASS",
+      "severity": null,
+      "source_meaning": "A 2-minute sound activity with one quiet starter, subsequent repetition plus one added sound, permission for anyone to pass, restart on loss of order, completion after everyone has had a turn, and literal timer-token retention.",
+      "candidate_wording": "Przeznaczcie na zabawę 2 minuty. Jedna osoba zaczyna od cichego dźwięku. Każda kolejna osoba powtarza dotychczasowy ciąg dźwięków i dodaje jeden dźwięk. Każdy może pominąć swoją kolej. Jeśli nie pamiętacie już kolejności dźwięków, zacznijcie od nowa. Zakończcie zabawę, gdy każdy będzie już po swojej turze. W etykiecie minutnika zachowajcie dokładny zapis {minutes}.",
+      "assessment": "All required actions, conditions, counts, permissions and the exact token remain present. The changed phrase po swojej turze expresses the same completed-turn condition as has had a turn and makes the actor/action relationship direct. The cumulative sound wording remains coherent with the supplied brief’s preceding-material and preserved-order requirements. No new precedence between timing and completion, starter-selection method, direction, round, variant, score or penalty appears.",
+      "change_review": {
+        "before": "gdy każdy będzie już po swojej kolejce",
+        "after": "gdy każdy będzie już po swojej turze",
+        "meaning_result": "Same completion condition; no new mechanic."
+      },
+      "minimal_correction_requirement": null
+    }
+  ],
+  "mechanics_coverage": [
+    {
+      "unit": "intro",
+      "check": "Meaning and function",
+      "source_requirement": "December busyness and an optional short shared pause.",
+      "candidate_evidence": "W grudniu; sporo do zrobienia; Jeśli macie ochotę, możecie; krótką przerwę i pobyć razem.",
+      "status": "PASS"
+    },
+    {
+      "unit": "intro",
+      "check": "Claims and modality",
+      "source_requirement": "No promised benefit, compulsory participation or new event.",
+      "candidate_evidence": "No such claim or obligation is introduced; willingness wording preserves the source invitation.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Starting position",
+      "source_requirement": "No physical starting position specified.",
+      "candidate_evidence": "None added.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Starter and selection",
+      "source_requirement": "One person starts; no method for selecting that person.",
+      "candidate_evidence": "Jedna osoba zaczyna; selection remains unspecified.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Starter action and volume",
+      "source_requirement": "Start with a quiet sound.",
+      "candidate_evidence": "od cichego dźwięku.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Turn order and direction",
+      "source_requirement": "A following person acts; no spatial direction.",
+      "candidate_evidence": "Każda kolejna osoba; no spatial direction supplied.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Successor action",
+      "source_requirement": "Repeat preceding sound material and append one sound, preserving its order.",
+      "candidate_evidence": "powtarza dotychczasowy ciąg dźwięków i dodaje jeden dźwięk.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Duration and numbers",
+      "source_requirement": "2 minutes; one starter; one added sound.",
+      "candidate_evidence": "2 minuty; Jedna osoba; jeden dźwięk. ASCII 2 retained.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Permission to pass",
+      "source_requirement": "Anyone may pass, without explanation or substitute performance.",
+      "candidate_evidence": "Każdy może pominąć swoją kolej. No condition is attached.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Reset condition",
+      "source_requirement": "Loss of sound order triggers a restart.",
+      "candidate_evidence": "Jeśli nie pamiętacie już kolejności dźwięków, zacznijcie od nowa.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Rounds",
+      "source_requirement": "No round count specified.",
+      "candidate_evidence": "None introduced.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Optional continuation",
+      "source_requirement": "No continuation after completion specified.",
+      "candidate_evidence": "None introduced.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Final or advanced round",
+      "source_requirement": "No final/advanced round specified.",
+      "candidate_evidence": "None introduced.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Small-group variant",
+      "source_requirement": "No two-person or other variant specified.",
+      "candidate_evidence": "None introduced.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Safety and consent qualifiers",
+      "source_requirement": "Quiet initial sound and unconditional permission to pass; no penalties.",
+      "candidate_evidence": "Quiet initial sound and permission retained; no penalty, disclosure duty or forced emotion added.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Ending condition, changed wording",
+      "source_requirement": "Stop when everyone has had a turn.",
+      "candidate_evidence": "Zakończcie zabawę, gdy każdy będzie już po swojej turze. The replacement clearly refers to a completed turn; it does not alter the ending trigger.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Chronology",
+      "source_requirement": "Duration setup; quiet start; successor action; pass permission; restart; ending; label instruction.",
+      "candidate_evidence": "All seven candidate sentences retain that order.",
+      "status": "PASS"
+    },
+    {
+      "unit": "game",
+      "check": "Exact token and timer-label instruction",
+      "source_requirement": "Preserve literal {minutes} and translate the surrounding instruction.",
+      "candidate_evidence": "W etykiecie minutnika zachowajcie dokładny zapis {minutes}. The exact token occurs once.",
+      "status": "PASS"
+    }
+  ],
+  "global_invariants": [
+    {
+      "check": "Exact final-byte identity",
+      "status": "PASS",
+      "evidence": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+      "expected_hash_match": true
+    },
+    {
+      "check": "Complete source-unit coverage and order",
+      "status": "PASS",
+      "evidence": "Final segment IDs are exactly intro, game, in source order; no missing, duplicate or extra segment."
+    },
+    {
+      "check": "Unchanged neighbor",
+      "status": "PASS",
+      "evidence": "Intro text is byte-for-byte equal to its authored version."
+    },
+    {
+      "check": "Authorized prose delta",
+      "status": "PASS",
+      "evidence": "Game text equals the authored game after only the specified kolejce to turze phrase replacement."
+    },
+    {
+      "check": "Duration digit and exact placeholder",
+      "status": "PASS",
+      "evidence": "Game contains ASCII 2 as its sole digit sequence and exactly one unchanged {minutes} token."
+    },
+    {
+      "check": "Language and run binding",
+      "status": "PASS",
+      "evidence": "language=pl; candidate run_sha256 equals functional-brief run_sha256."
+    },
+    {
+      "check": "Packet-binding metadata isolation",
+      "status": "PASS",
+      "evidence": "writer_packet_sha256 is a 64-character lowercase hexadecimal envelope value and introduces no reader-facing fact or rule. This meaning review does not independently certify the packet file hash."
+    },
+    {
+      "check": "No invented mechanics",
+      "status": "PASS",
+      "evidence": "No unsupported selection, spatial direction, round count, advanced round, continuation, variant, penalty or precedence rule."
+    }
+  ],
+  "source_ambiguities": [
+    {
+      "unit": "game",
+      "issue": "The source gives both 2 minutes and completion after everyone has had a turn without specifying precedence.",
+      "candidate_handling": "Both retained without a precedence rule.",
+      "translation_action": "None; do not invent one."
+    },
+    {
+      "unit": "game",
+      "issue": "The source does not define whether restart resets elapsed time, starter selection or completed-turn coverage.",
+      "candidate_handling": "Restart remains unspecified in those respects.",
+      "translation_action": "None; clarification would require a source decision."
+    },
+    {
+      "unit": "game",
+      "issue": "The source does not explicitly define how passing counts toward everyone having had a turn.",
+      "candidate_handling": "The right to pass remains unconditional, and the final sentence still refers to everyone having completed their turn. No sound performance is required of a person who passes.",
+      "translation_action": "None; retain permission without extra conditions."
+    }
+  ],
+  "material_defect_count": 0,
+  "overall_status": "PASS"
+}

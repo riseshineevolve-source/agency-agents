@@ -1,0 +1,14 @@
+{
+  "segments": [
+    {
+      "id": "intro",
+      "text": "W grudniu często jest sporo do zrobienia. Jeśli macie ochotę, możecie zrobić sobie krótką przerwę i pobyć razem."
+    },
+    {
+      "id": "game",
+      "text": "Przeznaczcie na zabawę 2 minuty. Jedna osoba zaczyna od cichego dźwięku. Każda kolejna osoba powtarza dotychczasowy ciąg dźwięków i dodaje jeden dźwięk. Każdy może pominąć swoją kolej. Jeśli nie pamiętacie już kolejności dźwięków, zacznijcie od nowa. Zakończcie zabawę, gdy każdy będzie już po swojej turze. W etykiecie minutnika zachowajcie dokładny zapis {minutes}."
+    }
+  ],
+  "edition": "test",
+  "year": 2026
+}

@@ -1,0 +1,14 @@
+{
+  "segments": [
+    {
+      "id": "intro",
+      "text": "December is busy. You can take a short break together."
+    },
+    {
+      "id": "game",
+      "text": "For 2 minutes, one person starts with a quiet sound. The next person repeats it and adds a sound. Anyone may pass. If you lose the order, start again. Stop when everyone has had a turn. Keep the timer label {minutes}."
+    }
+  ],
+  "edition": "test",
+  "year": 2026
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "project": "gentle-steps",
+  "languages": {
+    "pl": {
+      "required_review_stages": [
+        "native_language",
+        "meaning",
+        "audience",
+        "logic"
+      ],
+      "required_strings": [],
+      "forbidden_strings": []
+    },
+    "en": {
+      "required_review_stages": [
+        "native_language",
+        "meaning",
+        "audience",
+        "logic"
+      ],
+      "required_strings": [],
+      "forbidden_strings": []
+    }
+  },
+  "locks": [
+    {
+      "id": "title",
+      "pl": "ŚWIĘTA SĄ TEŻ PO DRODZE",
+      "en": "BEFORE CHRISTMAS SLIPS BY"
+    },
+    {
+      "id": "subtitle",
+      "pl": "Rodzinny kalendarz adwentowy na 24 dni. Nic do kupienia. Nic do przygotowania. Tylko WY. 10 minut razem.",
+      "en": "A 24-Day Family Advent Calendar. Nothing to Buy. Nothing to Prep. Just You. Ten Minutes Together."
+    },
+    {
+      "id": "pause",
+      "pl": "ZŁAPMY CHWILĘ",
+      "en": "LET’S TAKE A MOMENT"
+    },
+    {
+      "id": "play",
+      "pl": "ZRÓBMY COŚ RAZEM",
+      "en": "LET’S DO THIS TOGETHER"
+    },
+    {
+      "id": "talk",
+      "pl": "POGADAJMY",
+      "en": "LET’S TALK"
+    },
+    {
+      "id": "tomorrow",
+      "pl": "NA JUTRO",
+      "en": "TRY IT TOMORROW"
+    },
+    {
+      "id": "two-people",
+      "pl": "W DWIE OSOBY",
+      "en": "TWO PEOPLE"
+    },
+    {
+      "id": "strapline",
+      "pl": "KSIĄŻKA, KTÓRA MIEŚCI SIĘ W GRUDNIU.",
+      "en": "A BOOK THAT FITS INTO YOUR DECEMBER."
+    }
+  ],
+  "protect_patterns": [
+    "\\{\\{[^{}]+\\}\\}",
+    "\\{[A-Za-z_][A-Za-z0-9_]*\\}",
+    "%\\d*\\$?[sdf]"
+  ],
+  "voice": {
+    "pl": "Naturalny współczesny polski, dobry rejestr książkowy, bez kalek, coachingu, wymuszonego slangu i długich myślników.",
+    "en": "Natural idiomatic English in the source/project variety. Precise, warm and unforced. No translationese or synthetic sentiment."
+  },
+  "authority": "marketing/GENTLE_STEPS_LOCALIZED_CAMPAIGN_MASTER_2026-10-13.md; current polish_localization mailbox",
+  "protected_product_truth": [
+    "24 days; three main sections per day; 24 NA JUTRO; two-person variants",
+    "R6 body protected; article edit is not book/app rewrite authorization",
+    "Exact subtitle differs from short strapline; EN strapline editorial completion, not historical Oct13 owner lock",
+    "No automatic migration of stale PDF labels/title without declared scope"
+  ]
+}

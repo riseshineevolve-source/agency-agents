@@ -1,0 +1,16 @@
+{
+  "format": "rse-language-candidate-v1",
+  "language": "pl",
+  "run_sha256": "cd5c7ee8ed05e1dc3742e480bf5c12c463b2b45a06ef1667d1791f98aaae9131",
+  "segments": [
+    {
+      "id": "intro",
+      "text": "W grudniu często jest sporo do zrobienia. Jeśli macie ochotę, możecie zrobić sobie krótką przerwę i pobyć razem."
+    },
+    {
+      "id": "game",
+      "text": "Przeznaczcie na zabawę 2 minuty. Jedna osoba zaczyna od cichego dźwięku. Każda kolejna osoba powtarza dotychczasowy ciąg dźwięków i dodaje jeden dźwięk. Każdy może pominąć swoją kolej. Jeśli nie pamiętacie już kolejności dźwięków, zacznijcie od nowa. Zakończcie zabawę, gdy każdy będzie już po swojej turze. W etykiecie minutnika zachowajcie dokładny zapis {minutes}."
+    }
+  ],
+  "writer_packet_sha256": "710bdea889818fa676e5b7c815c4e012263c18fdd77c3d0c425e34ba3a29ddbe"
+}

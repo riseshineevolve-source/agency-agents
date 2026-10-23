@@ -1,0 +1,30 @@
+name: RSE language tool
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/rse-language.py'
+      - 'scripts/test-rse-language.py'
+      - 'tools/rse-language/**'
+      - '.agents/skills/rse-language/**'
+      - '.github/workflows/rse-language.yml'
+  push:
+    paths:
+      - 'scripts/rse-language.py'
+      - 'scripts/test-rse-language.py'
+      - 'tools/rse-language/**'
+      - '.agents/skills/rse-language/**'
+      - '.github/workflows/rse-language.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  source-and-language-contract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 scripts/test-rse-language.py

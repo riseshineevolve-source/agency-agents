@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "project": "generic",
+  "languages": {
+    "pl": {
+      "required_review_stages": [
+        "native_language",
+        "meaning",
+        "audience",
+        "logic"
+      ],
+      "required_strings": [],
+      "forbidden_strings": []
+    },
+    "en": {
+      "required_review_stages": [
+        "native_language",
+        "meaning",
+        "audience",
+        "logic"
+      ],
+      "required_strings": [],
+      "forbidden_strings": []
+    }
+  },
+  "locks": [],
+  "protect_patterns": [
+    "\\{\\{[^{}]+\\}\\}",
+    "\\{[A-Za-z_][A-Za-z0-9_]*\\}",
+    "%\\d*\\$?[sdf]"
+  ],
+  "voice": {
+    "pl": "Naturalny współczesny polski, dobry rejestr książkowy, bez kalek, coachingu, wymuszonego slangu i długich myślników.",
+    "en": "Natural idiomatic English in the source/project variety. Precise, warm and unforced. No translationese or synthetic sentiment."
+  }
+}

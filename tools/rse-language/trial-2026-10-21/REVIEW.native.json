@@ -1,0 +1,43 @@
+{
+  "reviewer": "independent-polish-native-and-book-register-reviewer",
+  "stage": "native_language",
+  "candidate_sha256": "1fff0878dd99472827fd9f0633576a3be46b7c33ad17d28afe41db3892989983",
+  "scope": {
+    "candidate": "/workspace/scratch/e6eabdc4c3a0/tool-trial/run/candidate.final.json",
+    "language": "pl",
+    "segments": [
+      "intro",
+      "game"
+    ],
+    "method": "Fresh Polish-only review of every sentence in the complete final candidate, including a mental read-aloud; grammar, syntax, collocation, idiom, semantic selection and contemporary written family-book register.",
+    "excluded": "No English source, other reviewers or remote services were consulted.",
+    "constraint": "The timer-label sentence is required translatable fixture content. It and {minutes} remain in the game segment."
+  },
+  "segment_reviews": [
+    {
+      "segment_id": "intro",
+      "status": "KEEP",
+      "sentences_reviewed": 2,
+      "reason": "Both complete sentences read naturally aloud. Inflection, word order, collocations and warm written register are sound; the untouched neighboring segment has no material defect."
+    },
+    {
+      "segment_id": "game",
+      "status": "KEEP",
+      "sentences_reviewed": 7,
+      "reason": "All seven sentences reviewed in sequence. Instructions use natural imperatives, coherent agreement and ordinary Polish phrasing. „Po swojej turze” now names a completed player turn naturally and resolves the prior collocation defect. The timer-label sentence is linguistically sound under the supplied fixture constraint."
+    }
+  ],
+  "findings": [],
+  "resolved_findings": [
+    {
+      "segment_id": "game",
+      "previous_exact_phrase": "gdy każdy będzie już po swojej kolejce",
+      "final_exact_phrase": "gdy każdy będzie już po swojej turze",
+      "defect_type": "collocation",
+      "status": "RESOLVED",
+      "evidence": "The final candidate contains the exact targeted noun correction. The construction now naturally refers to each participant having completed a turn.",
+      "meaning_change": "NONE"
+    }
+  ],
+  "overall_status": "PASS"
+}
