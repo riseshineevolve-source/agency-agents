@@ -1,0 +1,1176 @@
+{
+  "reviewer": "/root/hm9_truth_mechanics",
+  "stage": "meaning_diagnostic",
+  "baseline_v8_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "review_scope": "Actual read of all34 scenes/183turns original main30,V7,V8; V8neighbors/instructions andfull140–147payoff. Unchanged puzzle solves not repeated.",
+  "source_packet_sha256": "bd4390a5f5312e2a5e0178d03d8b5beac039fb40bf6d513e60e53f899302bb88",
+  "scenes_reviewed": 34,
+  "turns_reviewed": 183,
+  "allowlist_units": 220,
+  "total_canonical_units": 3067,
+  "protected_nonallowlist_units": 2847,
+  "allowed_ids": [
+    "page007.block05",
+    "page012.block03",
+    "page016.block04",
+    "page019.block23",
+    "page019.block24",
+    "page019.block26",
+    "page019.block27",
+    "page019.block29",
+    "page019.block31",
+    "page019.block32",
+    "page019.block33",
+    "page019.block35",
+    "page019.block36",
+    "page019.block37",
+    "page023.block05",
+    "page023.block07",
+    "page023.block09",
+    "page023.block11",
+    "page023.block13",
+    "page027.block19",
+    "page027.block20",
+    "page027.block22",
+    "page027.block24",
+    "page027.block25",
+    "page027.block27",
+    "page027.block28",
+    "page027.block29",
+    "page027.block31",
+    "page027.block32",
+    "page027.block34",
+    "page027.block35",
+    "page031.block05",
+    "page031.block07",
+    "page031.block09",
+    "page031.block11",
+    "page031.block13",
+    "page031.block15",
+    "page034.block16",
+    "page034.block18",
+    "page035.block06",
+    "page035.block07",
+    "page035.block09",
+    "page035.block10",
+    "page037.block05",
+    "page037.block06",
+    "page037.block08",
+    "page037.block10",
+    "page037.block11",
+    "page037.block13",
+    "page037.block14",
+    "page037.block16",
+    "page037.block17",
+    "page037.block18",
+    "page037.block20",
+    "page037.block21",
+    "page037.block23",
+    "page037.block24",
+    "page037.block26",
+    "page037.block27",
+    "page037.block28",
+    "page041.block17",
+    "page041.block18",
+    "page041.block19",
+    "page041.block21",
+    "page041.block23",
+    "page041.block24",
+    "page041.block26",
+    "page041.block27",
+    "page041.block28",
+    "page041.block30",
+    "page045.block05",
+    "page045.block07",
+    "page045.block09",
+    "page045.block11",
+    "page045.block13",
+    "page049.block05",
+    "page049.block07",
+    "page049.block09",
+    "page049.block11",
+    "page049.block13",
+    "page049.block15",
+    "page053.block15",
+    "page053.block16",
+    "page053.block17",
+    "page053.block19",
+    "page053.block20",
+    "page053.block22",
+    "page053.block24",
+    "page053.block26",
+    "page053.block27",
+    "page057.block05",
+    "page057.block07",
+    "page057.block09",
+    "page057.block11",
+    "page057.block13",
+    "page057.block15",
+    "page061.block05",
+    "page061.block07",
+    "page061.block09",
+    "page061.block11",
+    "page061.block13",
+    "page065.block18",
+    "page065.block19",
+    "page065.block21",
+    "page065.block23",
+    "page065.block24",
+    "page065.block26",
+    "page065.block27",
+    "page065.block29",
+    "page065.block31",
+    "page069.block05",
+    "page069.block07",
+    "page069.block09",
+    "page069.block11",
+    "page069.block13",
+    "page069.block15",
+    "page073.block05",
+    "page073.block07",
+    "page073.block09",
+    "page073.block11",
+    "page077.block06",
+    "page077.block08",
+    "page077.block10",
+    "page077.block12",
+    "page077.block14",
+    "page077.block16",
+    "page083.block05",
+    "page083.block07",
+    "page083.block09",
+    "page083.block11",
+    "page083.block13",
+    "page083.block15",
+    "page087.block05",
+    "page087.block07",
+    "page087.block09",
+    "page087.block11",
+    "page087.block13",
+    "page091.block05",
+    "page091.block07",
+    "page091.block09",
+    "page091.block11",
+    "page091.block13",
+    "page091.block15",
+    "page095.block05",
+    "page095.block07",
+    "page095.block09",
+    "page095.block11",
+    "page095.block13",
+    "page095.block15",
+    "page099.block05",
+    "page099.block07",
+    "page099.block08",
+    "page099.block10",
+    "page099.block11",
+    "page099.block13",
+    "page099.block15",
+    "page099.block17",
+    "page099.block18",
+    "page099.block19",
+    "page099.block21",
+    "page105.block05",
+    "page105.block06",
+    "page105.block08",
+    "page105.block10",
+    "page105.block12",
+    "page105.block14",
+    "page109.block05",
+    "page109.block07",
+    "page109.block09",
+    "page109.block11",
+    "page109.block13",
+    "page113.block05",
+    "page113.block07",
+    "page113.block09",
+    "page113.block11",
+    "page113.block13",
+    "page113.block15",
+    "page117.block05",
+    "page117.block07",
+    "page117.block09",
+    "page117.block11",
+    "page117.block13",
+    "page120.block15",
+    "page120.block16",
+    "page120.block17",
+    "page121.block15",
+    "page121.block16",
+    "page121.block17",
+    "page121.block19",
+    "page121.block20",
+    "page121.block21",
+    "page121.block23",
+    "page121.block24",
+    "page121.block26",
+    "page121.block28",
+    "page121.block29",
+    "page121.block30",
+    "page125.block12",
+    "page125.block14",
+    "page125.block15",
+    "page125.block16",
+    "page125.block18",
+    "page125.block19",
+    "page125.block21",
+    "page125.block22",
+    "page125.block23",
+    "page125.block25",
+    "page129.block05",
+    "page129.block07",
+    "page129.block09",
+    "page129.block11",
+    "page129.block12",
+    "page129.block14",
+    "page133.block05",
+    "page133.block07",
+    "page133.block09",
+    "page133.block11",
+    "page133.block13",
+    "page137.block08",
+    "page137.block09"
+  ],
+  "partial_unit_lock": {
+    "id": "page137.block08",
+    "protected_prefix": "already proved.\n\n",
+    "protected_prefix_sha256": "5c89ec026ac0186446a7a74cd25659af1602bd5e90813d600dc98d538632d03c"
+  },
+  "global_invariants": [
+    "All V8 non-Comms segmentbytes unchanged; all3067stableIDs retained.",
+    "Existing183turns,34sceneidentities andspeakerorder retained.",
+    "Only220allowlistedIDs may change, with137block08narrativeprefix additionallyprotected.",
+    "All90hints,30solutions,16maps/witnessboards andallV8logicrepairs unchanged.",
+    "Exactlyfourplain0records; fourteen extractionmaps excludeCase01; no newclues/solutions.",
+    "Bibi currenthat isbesidephotobox, never evidencedbyhatinactualphoto.",
+    "Dilo learns carefulhandling; joke atmistake maynotundoCase21supportandfinalcarearc.",
+    "Final4inputs andchosenCallSignunmodified; routing matches/routes/verifiesrealcases, cannotcreateorsolvethem."
+  ],
+  "diagnostic_blockers": [],
+  "bounded_factual_watchpoints": [
+    "CASE02/04/23 witnesslead-versus-carrieranswer",
+    "CASE03 noearlyPhotoA/Bolder/currentor017/071giveaway",
+    "CASE16 currenthatnotpicturedhat",
+    "CASE21 noauthororcontentrevealbeforetearedgesolve",
+    "CASE26 room-zonekeyandselected14set",
+    "CASE27 threeanchorsnotone",
+    "CASE30 timingandfourinputs"
+  ],
+  "scenes": [
+    {
+      "scene_id": "INTRO07",
+      "folios": [
+        7
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Biography-linked sampler before the recruit claims a credential.",
+      "immutable_truth": "Mimi is mother/captain; Luli older sister/analyst; Dilo code-tech child. Phone misplacement and beeps are character habits, not a new case.",
+      "original_restore_and_rewrite_boundaries": "Do not discover the missing phone early or promise Dilo can unlock any device; the actual phone recovery belongs to Case11.",
+      "speaker_order": [
+        "MIMI",
+        "LULI",
+        "DILO"
+      ],
+      "segment_ids": [
+        "page007.block05"
+      ],
+      "v8_context_sha256": "60580eefc5cbbe76a71da3d8cde2962e55287b94fedb071412ca21ebc471cb50"
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "folios": [
+        12
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Explains theories vs evidence around the Case Wall before Case01.",
+      "immutable_truth": "Wall has four named record zones; only explicitly instructed items are copied. Question marks distinguish unproved ideas. Hint use/help/pauses are allowed.",
+      "original_restore_and_rewrite_boundaries": "Do not make every theory a mandatory copied field, add a cushion/shelf as real required apparatus, or imply using hints invalidates detective work.",
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "BIBI",
+        "MIMI"
+      ],
+      "segment_ids": [
+        "page012.block03"
+      ],
+      "v8_context_sha256": "a0093d1525121cbcfc4aa35b2988ffbc2653604ee6b239ebc199d7d208978afd"
+    },
+    {
+      "scene_id": "CASE01",
+      "folios": [
+        16
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "First training grid, black-envelope internal-stock origin.",
+      "immutable_truth": "No courier/no outside delivery; identify Delivery occupant from four visiting helpers. Alio tunnel/minivan is clearly unproved fantasy.",
+      "original_restore_and_rewrite_boundaries": "Do not imply a real vehicle, secret tunnel, courier or outside delivery caused the envelope; do not reveal the helper or coordinate.",
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "segment_ids": [
+        "page016.block04"
+      ],
+      "v8_context_sha256": "b38b29e649c930f1df78ecfe47dc57360a4e828a3108da6c50c4eed21b1e10a6"
+    },
+    {
+      "scene_id": "CASE02",
+      "folios": [
+        19
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Founders Cup returned with an incomplete return record.",
+      "immutable_truth": "The current objective is Max's only room companion and coordinate, a witness lead; not a thief verdict. The Cup is physically back. Second plain0 sighting, not yet explained.",
+      "original_restore_and_rewrite_boundaries": "Keep posture/animate-Cup comedy metaphorical. Do not promise the map alone identifies the carrier, exact return time or culprit.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "NINI"
+      ],
+      "segment_ids": [
+        "page019.block23",
+        "page019.block24",
+        "page019.block26",
+        "page019.block27",
+        "page019.block29",
+        "page019.block31",
+        "page019.block32",
+        "page019.block33",
+        "page019.block35",
+        "page019.block36",
+        "page019.block37"
+      ],
+      "v8_context_sha256": "074803997adb4d741858ca789d81983052aa4af6ba852f5e7dccc370eee67374"
+    },
+    {
+      "scene_id": "CASE03",
+      "folios": [
+        23
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Compare two reference photographs before establishing which record is wrong.",
+      "immutable_truth": "Ten differences; labels PhotoA/PhotoB only on evidence surfaces. Both reference copies purport to show the same check; actual017/071 mismatch not exposed early.",
+      "original_restore_and_rewrite_boundaries": "Do not identify either picture as older/current, foreground the number mismatch, add glitter as an eleventh actual difference, or narrow search to the trophy shelf alone.",
+      "speaker_order": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI"
+      ],
+      "segment_ids": [
+        "page023.block05",
+        "page023.block07",
+        "page023.block09",
+        "page023.block11",
+        "page023.block13"
+      ],
+      "v8_context_sha256": "e73a911d90c5c56108d653caf2692b85c6cbc943be932a4f3774ccedd96e4b55"
+    },
+    {
+      "scene_id": "CASE04",
+      "folios": [
+        27
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "OpenNight sealed evidencebox wrongly in PickupTent.",
+      "immutable_truth": "Box sealed/contentssafe; Pixel is last confirmed transfer-record person; find her only same-tent companion as interview lead. Third plain0 sighting.",
+      "original_restore_and_rewrite_boundaries": "Original no-interrogating-box/professional-stare can be restored. Do not supply Zuri, invent box movement, identify actual carrier, claim the gap is already solved or undo V8 lead-only promise.",
+      "speaker_order": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ],
+      "segment_ids": [
+        "page027.block19",
+        "page027.block20",
+        "page027.block22",
+        "page027.block24",
+        "page027.block25",
+        "page027.block27",
+        "page027.block28",
+        "page027.block29",
+        "page027.block31",
+        "page027.block32",
+        "page027.block34",
+        "page027.block35"
+      ],
+      "v8_context_sha256": "8094888f2df7ec73088161facf80bd56247069689eae1df8f232b7ec1d8fb657"
+    },
+    {
+      "scene_id": "CASE05",
+      "folios": [
+        31
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Dormant six-symbol locker wakes after a filed verifiedcase.",
+      "immutable_truth": "One unique six-symbol order; each symbolonce; allprintedclues simultaneouslytrue. Sealed Academyenvelopebehindpanel. Dilo is competingmetaphorically, not alteringrules.",
+      "original_restore_and_rewrite_boundaries": "No123456 attempt, hints to codepositions, brute-forceclaimsornewtechbypass. Do not revealBALL–STAR–BOLT–HEART–KEY–MOON.",
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "segment_ids": [
+        "page031.block05",
+        "page031.block07",
+        "page031.block09",
+        "page031.block11",
+        "page031.block13",
+        "page031.block15"
+      ],
+      "v8_context_sha256": "7ebe218b523b9da9fbe96f567216abe8ad676f162f385efce9c72317db2f86a0"
+    },
+    {
+      "scene_id": "THREAD34",
+      "folios": [
+        34,
+        35
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "After locker opens; fourmatchingmarks, incompleteoldroute, archive next.",
+      "immutable_truth": "Exactlyfourcontrolledplain0records: blackenvelopeintake,TrophyHalltag,OpenNightevidencelabel,lockerroutingcard. LookTwice routedbutnotmarked. STATUS:INCOMPLETE. Bibi takesreferences toarchive.",
+      "original_restore_and_rewrite_boundaries": "Do not countphotosasfifthmark, explainrouteauthor/functionearly, turnprinterintosentientcasecreator, or implyoldroutealreadyunderstood. Keep34/35fourturnspeakersplit.",
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ],
+      "segment_ids": [
+        "page034.block16",
+        "page034.block18",
+        "page035.block06",
+        "page035.block07",
+        "page035.block09",
+        "page035.block10"
+      ],
+      "v8_context_sha256": "7d84bb860c103540023b5d5be1f6cd6d79b1fdda8015d1b49ac8d0ec09cc1bdc"
+    },
+    {
+      "scene_id": "CASE06",
+      "folios": [
+        37
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "017/071trail leadsHeritage; dragonlabelaboveRomanSpoon.",
+      "immutable_truth": "ActualobjectisRomanSpoon; label/objectdisagree; object-vs-labelmovementnotyetknown. Uma'ssameroomcontactisobjective.",
+      "original_restore_and_rewrite_boundaries": "Dragoncook/soupfantasyclearlyjoke. Do not claimtherewasaactualdragontooth,theft,identifiedmoverorcrime; Bibi's71trailreferenceisalreadyestablishedandrestorablesafely.",
+      "speaker_order": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI"
+      ],
+      "segment_ids": [
+        "page037.block05",
+        "page037.block06",
+        "page037.block08",
+        "page037.block10",
+        "page037.block11",
+        "page037.block13",
+        "page037.block14",
+        "page037.block16",
+        "page037.block17",
+        "page037.block18",
+        "page037.block20",
+        "page037.block21",
+        "page037.block23",
+        "page037.block24",
+        "page037.block26",
+        "page037.block27",
+        "page037.block28"
+      ],
+      "v8_context_sha256": "0c680a6fc4dae9174ce51e67142be7491ea896f778742c377631e346c9325de0"
+    },
+    {
+      "scene_id": "CASE07",
+      "folios": [
+        41
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Mooncostume missingfromrack inUndercoverTrainingWing.",
+      "immutable_truth": "Grayinventorysnapshotgiveswitnesslead; mooncostumeisgiant. Itswhereaboutsnotyetfound; Zoe laternarrowswindowthenroutecasefindsprop-room.",
+      "original_restore_and_rewrite_boundaries": "Do not makecupboardsearchactuallyfindcostume, revealprop-roomnow, or turnwitnessleadintothief.",
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ],
+      "segment_ids": [
+        "page041.block17",
+        "page041.block18",
+        "page041.block19",
+        "page041.block21",
+        "page041.block23",
+        "page041.block24",
+        "page041.block26",
+        "page041.block27",
+        "page041.block28",
+        "page041.block30"
+      ],
+      "v8_context_sha256": "411ca5c1cf473ceed612b24528891bee616d5cbb0f9fedc1488dce07ec377d90"
+    },
+    {
+      "scene_id": "CASE08",
+      "folios": [
+        45
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "ThreeAlio routes, actualurgentneedreachprop-room.",
+      "immutable_truth": "Onlyonepermittedroute; closedPaintCorridorandlockedStaffStairsunusable; nowaiting. Neitherbuildingnorwallcanbemoved/unlockedbyjoke.",
+      "original_restore_and_rewrite_boundaries": "Load-bearing-walljokeisoriginalandvalid. Do notintroduceanactualshortcut,tunnel,staffpassorpermissionthatmakesanotherroutework.",
+      "speaker_order": [
+        "ALIO",
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "DILO"
+      ],
+      "segment_ids": [
+        "page045.block05",
+        "page045.block07",
+        "page045.block09",
+        "page045.block11",
+        "page045.block13"
+      ],
+      "v8_context_sha256": "e2f2543e6456fc5eaa4ba6bcd30cd8f503beebb36319634f69956aad768ab01e"
+    },
+    {
+      "scene_id": "CASE09",
+      "folios": [
+        49
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Testfourtrueplain0marksagainstlookalikes.",
+      "immutable_truth": "MatchshapeANDrecordcontext. Ordinarycircles/dialsnottrueAcademymarks. Bibi recognizesbutnotknows untilverified.",
+      "original_restore_and_rewrite_boundaries": "No memoryasproof, no additionalplain0mark, noauthor/revealspoiler. Cake/incorrectmemoryjokesmayremainobviouslyjokes, notnew evidence.",
+      "speaker_order": [
+        "DILO",
+        "BIBI",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "ALIO"
+      ],
+      "segment_ids": [
+        "page049.block05",
+        "page049.block07",
+        "page049.block09",
+        "page049.block11",
+        "page049.block13",
+        "page049.block15"
+      ],
+      "v8_context_sha256": "92cbcd32dbf4d75538179610b66cbc5f55e888a568b93044071b5ced44e03eb8"
+    },
+    {
+      "scene_id": "CASE10",
+      "folios": [
+        53
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Twoownershipsheets,onecalmrover,disputedaccesswindow.",
+      "immutable_truth": "Onelegitimateactualaccessrecordmustbechecked; Dash'scontactandcoordinateobjective. Ownershippapercontradictionnotyetexplained.",
+      "original_restore_and_rewrite_boundaries": "Do notsplitrobotphysically,givenewthirdrealowner, or revealduplicatedemosheet/correctteam. Cablethirdownerisclearcomicmetaphor.",
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ],
+      "segment_ids": [
+        "page053.block15",
+        "page053.block16",
+        "page053.block17",
+        "page053.block19",
+        "page053.block20",
+        "page053.block22",
+        "page053.block24",
+        "page053.block26",
+        "page053.block27"
+      ],
+      "v8_context_sha256": "756dbbfaa6f150b6a4f7f212267248fc6c3cd9ad65cb1c026b29e6e41efc92bd"
+    },
+    {
+      "scene_id": "CASE11",
+      "folios": [
+        57
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Mimi'sphonefoundalongsideoatbarinevidencebag.",
+      "immutable_truth": "Phoneisnowfound; caseobjectiveistimestampoutside15:20–16:05. OnlyA–Dtimestampedrecordsused. Breakfastisnotactuallyculpable.",
+      "original_restore_and_rewrite_boundaries": "Undercoveroatbarjokeoriginalsafe. Do notchangetimewindow, revealwrongrecord, removephonealreadyfoundorhintsasfail.",
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "MIMI",
+        "DILO",
+        "MIMI"
+      ],
+      "segment_ids": [
+        "page057.block05",
+        "page057.block07",
+        "page057.block09",
+        "page057.block11",
+        "page057.block13",
+        "page057.block15"
+      ],
+      "v8_context_sha256": "cf27b08ea54562614fd436966df9b4725ed22a775fbb7591d9cc9db296277b07"
+    },
+    {
+      "scene_id": "CASE12",
+      "folios": [
+        61
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Parrotrepeatsfourwordssoundinglikebackstagephrase.",
+      "immutable_truth": "Winter'ssameareacontactobjective. Parrotsnackrequestiscomic; animal-careteam/handlerpresent. Passwordsourceunprovedatthismoment.",
+      "original_restore_and_rewrite_boundaries": "Do notrevealordinaryrehearsalcueyetoractualphrase; noforcedbirdhandling/feedingwithoutanimalhandler. Do notequatecrackerwordwithtruefour-wordpassword.",
+      "speaker_order": [
+        "DILO",
+        "NINI",
+        "DILO",
+        "NINI",
+        "DILO"
+      ],
+      "segment_ids": [
+        "page061.block05",
+        "page061.block07",
+        "page061.block09",
+        "page061.block11",
+        "page061.block13"
+      ],
+      "v8_context_sha256": "d3a9185de7996ada0ef9332ef59f4d7a337fb15bc7bb1e8e693d3f3563e610db"
+    },
+    {
+      "scene_id": "CASE13",
+      "folios": [
+        65
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Blurry4:17cameraimageandlaterdifferentposition.",
+      "immutable_truth": "Remysignedmaintenancesheet; findhumanroomcompaniontotimemove. Camera hasstrap; foxwithpocketsisunprovedmargintheorywithquestionmark.",
+      "original_restore_and_rewrite_boundaries": "Nofoxiscaught/noactualanimalsuspectevidence; donotrevealcleanupaftermove/timingyetorletstrapjokeaddforensicclue.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "LULI"
+      ],
+      "segment_ids": [
+        "page065.block18",
+        "page065.block19",
+        "page065.block21",
+        "page065.block23",
+        "page065.block24",
+        "page065.block26",
+        "page065.block27",
+        "page065.block29",
+        "page065.block31"
+      ],
+      "v8_context_sha256": "a456aef81f72fb6c70b0ae0d30f061e3ebd0960401d0047697a39d70f6606e53"
+    },
+    {
+      "scene_id": "CASE14",
+      "folios": [
+        69
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Onejourneycannotfitprintedtraveltimes.",
+      "immutable_truth": "A mistakenmemory, notnecessarilyliar/guilt. Eachprintededge2min; noaddedshortcuts. Count/testjourneys, notconfidence.",
+      "original_restore_and_rewrite_boundaries": "Restoretestjourneybeforepersonifuseful. Do notrevealwhichstatementorintroducewalking-speedchange/shortcut. Lunchbooksanecdoteisfinecharacterhistory, notcaseevidence.",
+      "speaker_order": [
+        "DILO",
+        "NINI",
+        "LULI",
+        "MIMI",
+        "ALIO",
+        "LULI"
+      ],
+      "segment_ids": [
+        "page069.block05",
+        "page069.block07",
+        "page069.block09",
+        "page069.block11",
+        "page069.block13",
+        "page069.block15"
+      ],
+      "v8_context_sha256": "fef2f14517703afb2e3bf6cb998c9e39faca45956b4337eb37e6a60461560b03"
+    },
+    {
+      "scene_id": "CASE15",
+      "folios": [
+        73
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Nearlyidenticalbackpacks swappedbeforebusdeparture.",
+      "immutable_truth": "Milo'sonlyroomcompanionhaspre-swapobservation; readablelabelsarefutureprevention,notcurrentevidence. Bluezipdoesnotproveownership.",
+      "original_restore_and_rewrite_boundaries": "Do notmakeGPSlive/currentoraddtagsalreadyonbagsthatsettleownership; donotrevealmoverorwitness. Name-tagvssatellitejokesokay.",
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "ALIO"
+      ],
+      "segment_ids": [
+        "page073.block05",
+        "page073.block07",
+        "page073.block09",
+        "page073.block11"
+      ],
+      "v8_context_sha256": "be64d1edfb39e03e8e5847271276c5378febca257c067dbfd387673b22f2850e"
+    },
+    {
+      "scene_id": "CASE16",
+      "folios": [
+        77
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Bibi bringsphotobox, removescurrenthatandsetsbesidebox.",
+      "immutable_truth": "Photographshows6children,oneBibi; actualphoto hasNOhat. Currentwidebrimhatbesideboxisjokereferent. Building/yearfromdatedprintedclues,notmemory/clothing.",
+      "original_restore_and_rewrite_boundaries": "Critical: do notsaythehatisshowninthephotographorwasworninthatsameyear. Defendcurrenthat/architecture; dateadmissibilityjokeokay. Donotrevealbuilding/year/RULE0FIRSTbeforefollowingpages.",
+      "speaker_order": [
+        "ALIO",
+        "BIBI",
+        "MIMI",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "segment_ids": [
+        "page077.block06",
+        "page077.block08",
+        "page077.block10",
+        "page077.block12",
+        "page077.block14",
+        "page077.block16"
+      ],
+      "v8_context_sha256": "4ec6955a91facbd3757a149f3f043e04db88843ea33df07d8deaf2d05160fcc6"
+    },
+    {
+      "scene_id": "CASE17",
+      "folios": [
+        83
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "RiversideStationenrouteAnnexrecords.",
+      "immutable_truth": "Specialopen-dayticketchangedhands,noreportedloss. Reed'scontactcanexplainhandoff. Alio'ssamehelmetisanongoingprop.",
+      "original_restore_and_rewrite_boundaries": "Helmetdepartment/travelpointsmetaphorokay; noextraequipmentclue, noactualticket-owneranswer, no claimticketstolen.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "segment_ids": [
+        "page083.block05",
+        "page083.block07",
+        "page083.block09",
+        "page083.block11",
+        "page083.block13",
+        "page083.block15"
+      ],
+      "v8_context_sha256": "06552a2828ee7a431190f4a23337587ad063d9d1c7008c2a1bcab1e2dd64fc82"
+    },
+    {
+      "scene_id": "CASE18",
+      "folios": [
+        87
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Fourrecords,threeclocks,apparent0:07gap.",
+      "immutable_truth": "Cafe7slow; DiloWatch2fast; Stationcamera realtime. Normalizeallclockstogetchronology. 0:07notarecurringplain0mark.",
+      "original_restore_and_rewrite_boundaries": "Watchwrongnessmayacknowledgetwofastasprintedbutavoidnewoffsets, reset-before-recordingclaimsorchronologyanswer. PreserveDilowillingnesstocorrectrecord.",
+      "speaker_order": [
+        "MIMI",
+        "DILO",
+        "NINI",
+        "DILO",
+        "LULI"
+      ],
+      "segment_ids": [
+        "page087.block05",
+        "page087.block07",
+        "page087.block09",
+        "page087.block11",
+        "page087.block13"
+      ],
+      "v8_context_sha256": "1da42648dad621c8e71928f5cff8d1193241af8df4c3a40d9073cca418fe2a26"
+    },
+    {
+      "scene_id": "CASE19",
+      "folios": [
+        91
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Rarebookstillonshelfbutcheckoutlogged.",
+      "immutable_truth": "Sasha'ssameareacontactobjective. Digitalghostunprovedjoke. Correctedclockepisodehasclosedand0:07demoted.",
+      "original_restore_and_rewrite_boundaries": "Do notrevealscannerbump/cartcauseorpretendghostreal; noartificialnewtechabilitythatbypassesmap.",
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "segment_ids": [
+        "page091.block05",
+        "page091.block07",
+        "page091.block09",
+        "page091.block11",
+        "page091.block13",
+        "page091.block15"
+      ],
+      "v8_context_sha256": "8e1e6870896408edbfee7660f24243ddb84e7a3e1942069ce33eaeee7be02646"
+    },
+    {
+      "scene_id": "CASE20",
+      "folios": [
+        95
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Wetmodularcockpitpanelmoved,accountsappeartocontradict.",
+      "immutable_truth": "Demi'ssameroomcontacttimingobjective; paintedpearjokeonpanelonly. Completefinalmapmustbekept.",
+      "original_restore_and_rewrite_boundaries": "Do notmakepearactualobject/NPC/mapposition, orrevealtwoaccountsaretrueatdifferenttimesbeforePaxconfirms.",
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "DILO",
+        "MIMI",
+        "NINI"
+      ],
+      "segment_ids": [
+        "page095.block05",
+        "page095.block07",
+        "page095.block09",
+        "page095.block11",
+        "page095.block13",
+        "page095.block15"
+      ],
+      "v8_context_sha256": "74c77ead9521917699a66850b6faf8cba3dd86715e000107fff17a383738b87d"
+    },
+    {
+      "scene_id": "CASE21",
+      "folios": [
+        99
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "BrittlenotejusttornintofourscrapsbyDilo; nobodysmocks.",
+      "immutable_truth": "Fourpiecesallusedonce; tearedgesfirst,sentenceconfirmationsecond. Bibi handwritingpossiblyfamiliarbutnotyetconfirmed. Dilohelpsrepair, futurecaregrowthretained.",
+      "original_restore_and_rewrite_boundaries": "No punchlineblamingDilo/vanishedsupport, noedgerearrangementbyguessinggrammar, noactualinstructionorBibiauthorrevealbeforephysicalsolve. Sleevekeepwritingvisibleisvalid.",
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI",
+        "DILO"
+      ],
+      "segment_ids": [
+        "page099.block05",
+        "page099.block07",
+        "page099.block08",
+        "page099.block10",
+        "page099.block11",
+        "page099.block13",
+        "page099.block15",
+        "page099.block17",
+        "page099.block18",
+        "page099.block19",
+        "page099.block21"
+      ],
+      "v8_context_sha256": "514d9c22bd041b67c04eebd9504ab0440c760bf1f29c99dc4b822d4df2c7ff26"
+    },
+    {
+      "scene_id": "CASE22",
+      "folios": [
+        105
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "SoundLabcasewith3nearlyidenticalblackinstrumentcases.",
+      "immutable_truth": "Wrongreturnedshelvesafterrehearsal; Zara'scontactidentifiesoriginalshelforder; mapretained. Labelsnotreliablycaseplacementproofalone.",
+      "original_restore_and_rewrite_boundaries": "Witnessprotectionmetaphorokay; noextraidentityclueonactuallabels, no names/contentsof3casesinventedasrequiredpuzzleevidence.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "DILO"
+      ],
+      "segment_ids": [
+        "page105.block05",
+        "page105.block06",
+        "page105.block08",
+        "page105.block10",
+        "page105.block12",
+        "page105.block14"
+      ],
+      "v8_context_sha256": "353623d7a3cffeb24fa5c91b02063ba734cf298ff9264dc35771a83e6f41f006"
+    },
+    {
+      "scene_id": "CASE23",
+      "folios": [
+        109
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "AdventureParkaccesswristbandreturnhandoffgap.",
+      "immutable_truth": "Oneclimbing,onearcadewristband; bothfinaldestinationsalreadyknown. Jude'sroomcontactisnextwitnesslead. Scoreboardcompetitioncomicdistractor.",
+      "original_restore_and_rewrite_boundaries": "Do notpromise mapidentifiesactualswitcher/carrierorwhichpersonusedclimbing; no inventedracebet/scorethatbecomesadditionalpuzzlefact.",
+      "speaker_order": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ],
+      "segment_ids": [
+        "page109.block05",
+        "page109.block07",
+        "page109.block09",
+        "page109.block11",
+        "page109.block13"
+      ],
+      "v8_context_sha256": "9798cff8c534afa529fef3075eb767eeeb18de00f3b71e5eba8a74a70ea6662b"
+    },
+    {
+      "scene_id": "CASE24",
+      "folios": [
+        113
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Trackingyardarrowtreadmisdirects; compareentiremudtrail.",
+      "immutable_truth": "Oneuninterruptedwalk,nofreshmud; transferstrongestfirstthenfades. Arrowdecorative,notdirectionevidence. TrueWestGateendnotyetrevealed.",
+      "original_restore_and_rewrite_boundaries": "Mudexplainssourceoriginalsafeasmethodnudgebutdonotrevealwestgate,direction,alterarrowdecorativeruleoraddsecondwalker.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "LULI",
+        "MIMI",
+        "ALIO"
+      ],
+      "segment_ids": [
+        "page113.block05",
+        "page113.block07",
+        "page113.block09",
+        "page113.block11",
+        "page113.block13",
+        "page113.block15"
+      ],
+      "v8_context_sha256": "dc70bbda556a9a8833b53f41e3437412b74d80f9c5c1b8ebc4692b3f3cd2fe25"
+    },
+    {
+      "scene_id": "CASE25",
+      "folios": [
+        117
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Noaddresseeparcel,ARCHIVERESTORATIONreturnlabel,manyhelpfulhandoffs.",
+      "immutable_truth": "Norilasttrustedrecord; hiscompanionnextinterviewlead. Actualcontentssealed/unseenuntilReceptionopenslater.",
+      "original_restore_and_rewrite_boundaries": "No earlyoverlaysleeve/clipreveal, noactualdeliveryrecipientclaimnotsourced. Biscuitsforfamily,notreallyinsideparcel; theycanjokeaboutlunchwithoutmoving/openingparcel.",
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "DILO",
+        "ALIO",
+        "MIMI"
+      ],
+      "segment_ids": [
+        "page117.block05",
+        "page117.block07",
+        "page117.block09",
+        "page117.block11",
+        "page117.block13"
+      ],
+      "v8_context_sha256": "a761bf77b5c01306ef33e0b404ff9bf74a90518de3d54a00a7f7500fa1725e5f"
+    },
+    {
+      "scene_id": "THREAD120",
+      "folios": [
+        120
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Parcelresolved/openedbyReception;14selectedmapssetcomplete.",
+      "immutable_truth": "ArchiveRestorationtoolsborrowedlongagoreturntoBibi. Fourteenfilesexactsystemlist; Case01trainingmapNOTselected. NinihasCase21savednote.",
+      "original_restore_and_rewrite_boundaries": "Do nottreatall16mapsasextractionset, changeselectedcountorreadmessagebeforeCase26solve. Stackjokeokay; noerase/cut/reshufflemethodcontrarycaseorder.",
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "MIMI"
+      ],
+      "segment_ids": [
+        "page120.block15",
+        "page120.block16",
+        "page120.block17"
+      ],
+      "v8_context_sha256": "32b24517f6036ce5b6bcd4253968246aa2a3ac9b60c2ccb9eb434da8e126c575"
+    },
+    {
+      "scene_id": "CASE26",
+      "folios": [
+        121
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "NowtestCase21notewith14selectedcompletedspatialmaps.",
+      "immutable_truth": "People/rooms/emptyspacesunchanged; eachnamedeligibleemptyroom, excludedzonesperV8key, initialsincaseorder. No additionalmapadded.",
+      "original_restore_and_rewrite_boundaries": "Nobody/emptybedroomjokesnotnewpersonorphysicalemptyroomevidence. Do notrevealCHECKTHEOLDMAPorimplyanyemptyzonecounts. V8room-zonekeyand14rowanswertraceprotected.",
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "MIMI",
+        "BIBI"
+      ],
+      "segment_ids": [
+        "page121.block15",
+        "page121.block16",
+        "page121.block17",
+        "page121.block19",
+        "page121.block20",
+        "page121.block21",
+        "page121.block23",
+        "page121.block24",
+        "page121.block26",
+        "page121.block28",
+        "page121.block29",
+        "page121.block30"
+      ],
+      "v8_context_sha256": "a24262329fc6d6942f4ad523e8c25e26bdde7564e6a1cb55d84eb062df68ec7f"
+    },
+    {
+      "scene_id": "CASE27",
+      "folios": [
+        125
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Oldandmodernplanscomparableat3landmarks.",
+      "immutable_truth": "Sameorientation/scale; NorthStair,CourtyardColumn,WestLiftShaftallanchorcomparison. Cansolveprintedpagewithoutcutting/folding/physicaloverlay.",
+      "original_restore_and_rewrite_boundaries": "Originalclean-hands/noheroicfoldingvalid. Do not implyonly1landmarksuffices,actualfold/cut/rotationneeded, permissiontopointisnecessarymechanic, orgivenosealed-roomcoordinate.",
+      "speaker_order": [
+        "BIBI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "segment_ids": [
+        "page125.block12",
+        "page125.block14",
+        "page125.block15",
+        "page125.block16",
+        "page125.block18",
+        "page125.block19",
+        "page125.block21",
+        "page125.block22",
+        "page125.block23",
+        "page125.block25"
+      ],
+      "v8_context_sha256": "dc273207f934e74b983b84bc013ea64acf01ea638805ab33eabdd31034ec53c5"
+    },
+    {
+      "scene_id": "CASE28",
+      "folios": [
+        129
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "RuleZeroincomplete; sortingclaimsreconstructsmissingword.",
+      "immutable_truth": "RULEFIRSTROOMSECONDandRULE0FIRSTalreadyknown; wallwaits. Factualclaimsvslinkedtheoryvsunsupportedassumption; tunnelstillunsupportedfantasy.",
+      "original_restore_and_rewrite_boundaries": "No ASSUMPTIONSanswer/fullrestoredruleearly; donotframeunsupportedtunnelascertainfact or claimthearrowwastrue. Oldsquadexperienceanecdoteplausible, notauthorreveal.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "BIBI"
+      ],
+      "segment_ids": [
+        "page129.block05",
+        "page129.block07",
+        "page129.block09",
+        "page129.block11",
+        "page129.block12",
+        "page129.block14"
+      ],
+      "v8_context_sha256": "9c3af8ec9062b6b5fc5478989754319f686e74c586d254cb8977553bb96fcf43"
+    },
+    {
+      "scene_id": "CASE29",
+      "folios": [
+        133
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "Largestservicemapneededforpanelaccesscoordinate.",
+      "immutable_truth": "RuleZeroalreadyfullyrestored; notapassword. Sethfixedanchor, onlycompanionaccesscoordinateearnedbymap. Readerunhurried; teamhelpswithoutanswer.",
+      "original_restore_and_rewrite_boundaries": "NoD3/personanswer orimaginedsecondvalidlocation. Dilo'squietpromisehypotheticalcomic,notchangetimelimit. No pressureagainsthelp/hints.",
+      "speaker_order": [
+        "MIMI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI"
+      ],
+      "segment_ids": [
+        "page133.block05",
+        "page133.block07",
+        "page133.block09",
+        "page133.block11",
+        "page133.block13"
+      ],
+      "v8_context_sha256": "c252ea1088739539d8c5d1136d3787875fb476288814e0eb3f6378076868b5bc"
+    },
+    {
+      "scene_id": "CASE30",
+      "folios": [
+        137
+      ],
+      "status": "KEEP_FACTS__COMMS_STYLE_UNLOCKED",
+      "scene_function": "All4finalfieldssourcedfromearlierearnedwork.",
+      "immutable_truth": "RULEWORD/ACCESS/CODE/CALLSIGN; no newclue orinventedanswer. Samecall signfromRecruitCredential. Doorstillclosedon137andnewroomrevealafter4checks.",
+      "original_restore_and_rewrite_boundaries": "Protectpage137.block08narrativeprefix. Noanswernewhint,nofifthfield,noopen-door/routeauthor/sixthbadgeprematurereveal; victorynoiseanticipatednotcompletedbefore140/145.",
+      "speaker_order": [
+        "MIMI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ],
+      "segment_ids": [
+        "page137.block08",
+        "page137.block09"
+      ],
+      "v8_context_sha256": "951e2414742e22e2b99dbb09b2004e5384040bfa8778ca8264ede411fcf0e0e3"
+    }
+  ],
+  "final_candidate_review": "PENDING exact authoredcandidate andhash; thisdiagnostic doesnotapproveunseenwording"
+}

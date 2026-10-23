@@ -1,0 +1,200 @@
+{
+  "reviewer": "/root/hm9_reader_ear",
+  "stage": "audience_visual_surface_fit",
+  "status": "PASS",
+  "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "book_pdf_sha256": "48c91d7a578cb340018d20fd1656a31e140d41114d50667c254718b169f2f64a",
+  "standalone_pdf_sha256": "05cd3424f2d9f2fc36b59f31f130a5e8c8a221abf459591b2b2978fa85eaa4bf",
+  "render_engine": "Independent reviewer Poppler pdftoppm invocations, singlepage -scale-to1100, then actual view_image review. Final independently rendered PNGs stored beside binding.json.",
+  "actual_fullsize_sample": {
+    "book_folios": [
+      7,
+      12,
+      27,
+      37,
+      65,
+      69,
+      77,
+      99,
+      105,
+      120,
+      125,
+      137
+    ],
+    "standalone_pages": [
+      1,
+      9,
+      24,
+      34
+    ],
+    "standalone_scene_ids": [
+      "INTRO07",
+      "CASE06",
+      "CASE21",
+      "CASE30"
+    ],
+    "total_fullpage_views": 16,
+    "claimed_all225_fullsize": false,
+    "excluded_from_this_review": "Other213bookfolios and30standalonepages not reviewed fullsize here. Root contact-sheet inspection and meaning-agent full text/unchangedleaf checks are separate evidence."
+  },
+  "findings": [],
+  "observations": [
+    "Longer dialogue remains easily separated by bold speaker names in the book and individual pale boxes in the standalone set. No text was visually crammed to fit.",
+    "The dense intro07andFileA27/65andbridge120 samples leave clean margins, readable body text and no collisions.",
+    "Standalone Case06eightturns andCase21sevenlongerturns fit with adequate spacing; the final speech is not cut off.",
+    "Book titles, running furniture and footer numbering are complete. Extra duplicate body folio numbers seen in the superseded0b188proof are absent in these final48c91sampledleaves.",
+    "The final standalone reader proof uses consistently sized speech boxes appropriate to actual text height. No orphan speech continuation or misattributed turn observed."
+  ],
+  "font_evidence": {
+    "book_reported_minimum_body_pt": 10.5,
+    "standalone_reported_body_pt": 11.5,
+    "source": "CurrentPROOF_QA plus direct visual sample; this reviewer does not assert physical print readability certification."
+  },
+  "preview_artifact_resolution": "Multi-image tool previews sometimes omitted shared header/title pixels or initial speaker glyphs. Crops from the exact independently rendered PNGs show complete title/header/firstturn text; byte/image evidence does not support a PDF glyph defect. Supplemental running-title and firstturn crop views were actually inspected. No book change was made for a preview artifact.",
+  "supplemental_inspected_crops": [
+    {
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v9/reviews/audience-final/visual-poppler-final/running-title-crops.png",
+      "sha256": "379996d63ad267bec2ea4b70dc0925213fa6fc1678362d21c38f43b222615f82"
+    },
+    {
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v9/reviews/audience-final/visual-poppler-final/standalone-firstturn-crops.png",
+      "sha256": "b14fe5471c18f4f9dea4d9612aa6d6f5d8d5d5d7b4df603a796e085882dc6ba0"
+    },
+    {
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v9/reviews/audience-final/visual-poppler-final/book-012-header.png",
+      "sha256": "61c374832fb32db94bea77d004750f45ad295d519537664ce1cffd962e84dd68"
+    }
+  ],
+  "fullpage_png_binding": [
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 7,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-007.png",
+      "png_sha256": "ec80303743ccd802b76399681f7f85c27a9ff44f3f3bfed4d59593f227f5df61",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 12,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-012.png",
+      "png_sha256": "dba120b178360bc044c778717b74a4dc86efbb855c991846d7626f6a61bf6c26",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 27,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-027.png",
+      "png_sha256": "ff2c8e0794e8518db66be959c13e46a415fa1b4738b393f7064bd3e37001d39c",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 37,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-037.png",
+      "png_sha256": "4ef8d0f8ac7329e9d0bc41e102ef86d1ea5fcd20bea190dc715cda8445121b2d",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 65,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-065.png",
+      "png_sha256": "3993fd405a254038cc8e723f72d8fa6411acde5e97258ee4ddca330a931e30a7",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 69,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-069.png",
+      "png_sha256": "9830db776c14c97c3a662015fb4e82a1c68cfe2ab1249f8813c10bab5b845384",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 77,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-077.png",
+      "png_sha256": "9c075a2783e1adfda3575e9874348798a9dc66d23311f5855e4e9f3fb0e46002",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 99,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-099.png",
+      "png_sha256": "269266c6981ea56cd4e327ba448595fac852ab64de2d86c35586e961468ab4ed",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 105,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-105.png",
+      "png_sha256": "28698ada091ef119650c9e4c60ac040ee5c8f498d2db92541f24981d37160e0c",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 120,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-120.png",
+      "png_sha256": "6625685e9db85113ee1731f919dee750fd5d765f552fd9d9a7287e2b4415afd9",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 125,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-125.png",
+      "png_sha256": "8d270381f92b4ffee5a36549e3d141b48da319bba366c01a0e0f964309598a67",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/DETECTIVE_EN_V8_HM_COMMS_FINAL.pdf",
+      "page": 137,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/book-137.png",
+      "png_sha256": "e4bb153ae244681e265e1247875a29bc2f814bbfa674e72b5b6ec65dbb9d846c",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/HAPPY_MAKERS_COMMS_FINAL_EN.pdf",
+      "page": 1,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/comms-01.png",
+      "png_sha256": "9c7ce3389fd77892d9396eefe340da44ad2237a3883894f8a3f95afd84a9b3c0",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/HAPPY_MAKERS_COMMS_FINAL_EN.pdf",
+      "page": 9,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/comms-09.png",
+      "png_sha256": "396d73cb91b3fa32f87c86ed61303196c6a4377d2a1b64269d64ba1777671bac",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/HAPPY_MAKERS_COMMS_FINAL_EN.pdf",
+      "page": 24,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/comms-24.png",
+      "png_sha256": "d2d0739911fa3e78ebd3b14443379dfa1035ee9fdfc761fc4113222c9ee4692d",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    },
+    {
+      "pdf": "detective-v9/proof/HAPPY_MAKERS_COMMS_FINAL_EN.pdf",
+      "page": 34,
+      "png": "detective-v9/reviews/audience-final/visual-poppler-final/comms-34.png",
+      "png_sha256": "7bdcfde9ab6eabec516bdf38cd09fc6663bcbf48912c9a891190eb2b4204c681",
+      "actual_full_page_view_image_inspection": "PASS",
+      "notes": "Readable complete speech; clear speaker separation; no clipped/overlapping text, footer collision or overflow observed."
+    }
+  ],
+  "physical_proof_or_final_KDP_layout": "NOT_RUN",
+  "unresolved_items": []
+}

@@ -1,0 +1,80 @@
+{
+  "reviewer": "independent actual sub-agent spatial_intro_29",
+  "status": "PASS_KEEP_WITH_EXPLICIT_DIRECTION_CONVENTION",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "files": {
+    "grid": "spatial-intro-29-grid.json",
+    "solver": "spatial-intro-29-solver.py",
+    "results": "spatial-intro-29-results.json"
+  },
+  "file_sha256": {
+    "grid": "b47cc614b81cda3631c73b7d7b390949f1ca589a4f312efb9db98bdfa12d98c6",
+    "solver": "88eca84373759b15454b94be3e694ab5a814d17cd2bfc0e6e477c564e70ee14f",
+    "results": "b43725cf9ae4907b620b134f06bcfa518029924ed04085413c884219a3bc6236"
+  },
+  "evidence_pages": {
+    "intro": [
+      17,
+      18,
+      179,
+      180
+    ],
+    "case29": [
+      11,
+      132,
+      134,
+      135,
+      223,
+      224
+    ]
+  },
+  "method": "Read original raster intake/clue/map pages and current source intake. Transcribe boundaries and all blocked markers from unsolved maps. Enumerate all distinct-row/column witness assignments from literal clues. Expected solution roster is stored only for post-enumeration comparison; no source solution fact injected into domains. Actual solved map inspected only for final comparison.",
+  "intro_case01": {
+    "status": "PASS_KEEP",
+    "full_assignment_count": 1,
+    "answer": "Knox D2",
+    "assignment": {
+      "Quill": "B1",
+      "Pip": "A3",
+      "Morse": "C4",
+      "Knox": "D2"
+    },
+    "geometry": "Delivery is entire D column. No blocked interior cells. Archive A1:B2; Library A3:B4; Workshop C1:C4. All six clues together force the complete roster."
+  },
+  "case29": {
+    "status": "PASS_KEEP",
+    "full_assignment_count": 1,
+    "answer": "Vega D3",
+    "assignment": {
+      "Mavis": "A2",
+      "Cato": "I4",
+      "Jules": "E8",
+      "Bryn": "G9",
+      "Vega": "D3",
+      "Ren": "H5",
+      "Poppy": "C6",
+      "Wade": "F7",
+      "Seth": "B1"
+    },
+    "room_companion": "Seth B1 and Vega D3 are the sole Equipment Hall occupants. Service Corridor has Jules E8 and Bryn G9. Training Room has Mavis A2/Poppy C6. Control Room Ren H5/Cato I4. Operations Office Wade F7.",
+    "adjacency_sensitivity": "Both edge-only and eight-neighbour beside yield exactly the same unique complete assignment. Jules diagonally next to Wade means both coordinate differences exactly one.",
+    "direction_convention": "North-west/north-east interpreted as strict column and row inequality at arbitrary distances, consistent with wording that separately specifies diagonally next. Forcing all compass relations onto 45-degree rays yields zero solutions; this artificial tighter convention is not silently assumed. In the accepted source roster Mavis A2 is northwest of Vega D3 despite unequal horizontal/vertical distances.",
+    "story_context": "Page132 calls Seth certain but supplies no visible coordinate. No assumed Seth coordinate was used; B1 is derived by elimination. All source objective constraints included.",
+    "grid_details": "9x9,13 blocked cells. Black-square marked water-refill D9 and bin E9 included under general map key despite not individually named in blocked key."
+  },
+  "reproduction": {
+    "solver": "python detective-upgrade/geometry-audit/spatial-intro-29-solver.py",
+    "renders": "PyMuPDF original[folio-1].get_pixmap(matrix=fitz.Matrix(2,2)); selected reproducible PNG hashes recorded below, PNGs need not be committed."
+  },
+  "render_sha256": {
+    "page017.png": "5b9d321774a404de8637a074be251f9437306f9792e82416502059892c4fe367",
+    "page018.png": "c29473e0e793cf23fce020df930740a105fd7309015d21ddc58d1652b5044e1c",
+    "page135.png": "b5f7bf993bf3860fc88fe37410d142b27089a7df5106454541dda0e8f181497a",
+    "page224.png": "c8fdeb5de3b2a6da4aced46b1407fc80bb0965d8a2a01bd531cebdf234ae0c28"
+  },
+  "manuscript_changed": false,
+  "source_changed": false,
+  "production_renderer_changed": false,
+  "scope_limit": "Independent geometry/logic check of Case01 andCase29 only; not a full illustrated candidate proof, print proof, source freeze or release approval."
+}

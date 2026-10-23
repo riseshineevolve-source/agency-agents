@@ -1,0 +1,126 @@
+{
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "proof_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "render_method": "Fresh process opens the saved PDF; 1.2x full-size raster; no in-memory authoring document reused.",
+  "inspected_folios": [
+    5,
+    9,
+    14,
+    27,
+    30,
+    40,
+    52,
+    76,
+    79,
+    81,
+    94,
+    108,
+    120,
+    141,
+    145,
+    146,
+    147,
+    148,
+    204
+  ],
+  "changed_from_40c_inspected_render_folios": [
+    148
+  ],
+  "renders": [
+    {
+      "folio": 5,
+      "png_sha256": "ce3087796d34a6af58f1659cf56d030dcea26d9caa2b1584a77da327b14f7865",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-005.png"
+    },
+    {
+      "folio": 9,
+      "png_sha256": "58f48ddc80ceb983733e6ea0e39554e118b990778ac8e009ecfb6e4b3a90918f",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-009.png"
+    },
+    {
+      "folio": 14,
+      "png_sha256": "f49b4f5ec833477f67ed87640794fe9a81a5f4ec9744d01d766b332f03a2748f",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-014.png"
+    },
+    {
+      "folio": 27,
+      "png_sha256": "285d5aa91a3dd84e988028e7632e9c36bdd8a3c1e163734158300864f75763fa",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-027.png"
+    },
+    {
+      "folio": 30,
+      "png_sha256": "12531d230ab64ebf49eb2b2beaebc02e84b562f89d451b93fb0ca71469ae8d53",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-030.png"
+    },
+    {
+      "folio": 40,
+      "png_sha256": "cc8edaa05eae0f7d52b2d76940d09e82f944bec4635e6a19899d8f6ee60e3e2e",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-040.png"
+    },
+    {
+      "folio": 52,
+      "png_sha256": "37868899f116fedd655de216c7dc5162c5c92e4660757d9a80649e6ae59fb214",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-052.png"
+    },
+    {
+      "folio": 76,
+      "png_sha256": "fba8d90ab6e01cb04e3d28c4aa5eeb3b5046c259dde6538b95a0899a459b902d",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-076.png"
+    },
+    {
+      "folio": 81,
+      "png_sha256": "84a352ba22d826f7e499dbf19bc6ca6684657c8ee3c8d93f719a02a7380c9383",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-081.png"
+    },
+    {
+      "folio": 94,
+      "png_sha256": "5300457702ff2485f3ce9dc99851a5ef863699451db4da84255e41a564e654b8",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-094.png"
+    },
+    {
+      "folio": 108,
+      "png_sha256": "2e81c85d26b4e8a46372bef8c46b72ff5713cf33ea0f955bb4ffb531c0698d0a",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-108.png"
+    },
+    {
+      "folio": 120,
+      "png_sha256": "f6fdf0036e14b468e33cfabab13dc803ccc505518f69921048a1ca91dd1c04b0",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-120.png"
+    },
+    {
+      "folio": 141,
+      "png_sha256": "3e79934c3a370f398b5222efbb104b6843873f076d377cb9c96af6f85a920861",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-141.png"
+    },
+    {
+      "folio": 146,
+      "png_sha256": "3e33c332c85afdc8cbd51d01c434e9712e0c17f4459522694e50e7e0c8441cd7",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-146.png"
+    },
+    {
+      "folio": 148,
+      "png_sha256": "a1dfeec2fa55f5aff1be5e67a0c6ca3c314094b075421eb657ab5c10caa7adff",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-148.png"
+    },
+    {
+      "folio": 145,
+      "png_sha256": "0b7a0967d0c2e93a2168cb8702e6ee7779dcf349f3040392f8acf6b97cd8f942",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-145.png"
+    },
+    {
+      "folio": 147,
+      "png_sha256": "da9aef2cd3fe064e3aeff24e7eb81bdaf4fb0ac9fcf8d3f0e2d968844007de7b",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-147.png"
+    },
+    {
+      "folio": 79,
+      "png_sha256": "6e88de3cd11904dec5264a1672d775f552434d2e1b0a132da3096322bd96025c",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-079.png"
+    },
+    {
+      "folio": 204,
+      "png_sha256": "aa7ad183a58449e8025b96ac6d9bb4e9f1f9c26cda9626abb6bed9f07028387a",
+      "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/visual-work/final-204.png"
+    }
+  ]
+}

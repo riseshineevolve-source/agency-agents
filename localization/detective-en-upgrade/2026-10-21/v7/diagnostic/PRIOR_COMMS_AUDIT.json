@@ -1,0 +1,27 @@
+{
+  "source": "Owner225PDF SHA2569db84d4f...",
+  "baseline_v6_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "principal_case_comms": 30,
+  "scenes_changed_from_owner225": 15,
+  "scenes_unchanged_from_owner225": 15,
+  "changed_cases": [
+    1,
+    2,
+    3,
+    6,
+    8,
+    9,
+    12,
+    13,
+    14,
+    15,
+    19,
+    22,
+    24,
+    25,
+    30
+  ],
+  "changed_turns": 27,
+  "v6_vs_v5_comms_changes": 0,
+  "scope": "Whitespace-normalized spoken dialogue in30principalcasecomms; source-folio locations explicit; not all narration/footer/frontmatter. Case30original interleaved extraction reconstructed from verified source reading order."
+}

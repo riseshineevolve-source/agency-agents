@@ -1,0 +1,45 @@
+{
+  "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "status": "PASS",
+  "reviews": [
+    {
+      "stage": "native_language",
+      "status": "PASS",
+      "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+      "reviewer": "Actual independent agent /root/hm9_dialogue_humor",
+      "scope": "Actual final closure: all17changed turns in15scenes checked against preservedR1 wording and exact closure ledger; all34shortHMComms units/183turns reread in final clean manuscript to check their full exchanges and recurring jokes. This is not a new225folio whole-book read or a re-solve of unchanged puzzles. Native English/read-aloud/comic premise and payoff assessed; no native-speaker or professional identity claimed.",
+      "evidence": "reviews/dialogue-final/native_language.json",
+      "receipt_sha256": "ece614c08df2be42d217a94733bcd4726fa5ec51ae1a94516e7215f3ffaf8ea8"
+    },
+    {
+      "stage": "audience",
+      "status": "PASS",
+      "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+      "reviewer": "/root/hm9_reader_ear — independent 8–12 reader/family-ear and supportive-mentor editorial reviewer",
+      "scope": "R1 actual full review covered all34HMComms scenes/183turns. This exact final closure independently compares all183turns against that reviewed R1:17changedturns on15scenes; all15affected scenes reread in full with needed locked V8neighbors. Remaining19scenes/unchangedturns retain the actual R1review by exact wording identity. All34final scenes were also visible/read in the closure transcript; no claim of another whole225folio audit or human child test.",
+      "evidence": "reviews/audience-final/audience.json",
+      "receipt_sha256": "54556f2a272f5cf63848a1ee2e4aca33f047d3f0668e3f155bc38417d66a05b0"
+    },
+    {
+      "stage": "logic",
+      "status": "PASS",
+      "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+      "reviewer": "hm9_character_family",
+      "scope": "Actual17changedturns across15scenes, completeaffectedscenes, neighboring/callback dependency closure including Case09cake, presenthat16, Dilo18/19/21andlockedfinale140/145/146. Actual protected-text/speaker-order comparison. Not a new fullbook reread, freshpuzzle-solve or printreview.",
+      "evidence": "reviews/character-final/logic.json",
+      "receipt_sha256": "1d8c2af28cb365b36130273ce78cbf41d433bae3a88282f1eeede9b42b671724"
+    },
+    {
+      "stage": "meaning",
+      "status": "PASS",
+      "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+      "reviewer": "Actual independent agent /root/hm9_truth_mechanics",
+      "scope": "Actual initial R1 reading of all34 authored scenes/183turns on138fffc57…, then final follow-up on17 changed turns across15scenes, each read in its complete scene with current context/locks. All34 current scene data and183 canonical speaker bindings checked. The other19 scenes inherit R1 substantive reading after exact equality verification. No repeated225-folio audit, unchanged puzzle solve, or unseen PDF approval.",
+      "evidence": "reviews/meaning-final/meaning.json",
+      "receipt_sha256": "931a959b05020fa33fe5b75a99bf21d80d39be961a65fa79f17bbd32be4e2eaf"
+    }
+  ],
+  "actual_specialist_agents": 4,
+  "one_writer": "root",
+  "normalization_only": "InterchangewrapperofrealindependentstagePASSreceipts, no simulatedreview."
+}

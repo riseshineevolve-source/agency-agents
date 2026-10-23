@@ -1,0 +1,50 @@
+{
+  "reviewer": "actual independent agent /root/v6_puzzle_review",
+  "baseline_reviewed_candidate_sha256": "9f25b542e0162aa357c8409c3927622ee52ba1508e5bcbe3443d608c14e29fe5",
+  "stage": "R2 author repair advice, not approval of an unseen candidate",
+  "root_scope_amendment": "Root explicitly permits page212.block12 prose summary correction within full English text upgrade. No answer, clue, hint or join step is unlocked.",
+  "repairs": [
+    {
+      "id": "V7-R1-CAMERA-CLOSURE-OMITTED",
+      "segments": [
+        "page068.block04",
+        "page068.block05",
+        "page068.block06"
+      ],
+      "reason": "Restore accepted Case13 outcome omitted by group rewrite.",
+      "suggested_text_to_prepend": "Bodhi confirms the camera was moved during cleanup, after the 4:17 frame."
+    },
+    {
+      "id": "NATIVE-R1-DILO-READER-ADDRESS",
+      "segments": [
+        "page099.block21"
+      ],
+      "reason": "Name the reader as addressee rather than accidentally handing the solve to Luli.",
+      "suggested_text": "Detective, you fit the pieces. I'll check every join.\n"
+    },
+    {
+      "id": "NATIVE-R1-JUDE-LOCATION",
+      "segments": [
+        "page108.block13"
+      ],
+      "reason": "Replace person-as-place metaphor with the actual evidence relationship and follow-up interview.",
+      "suggested_text": "The log fixes Jude’s location. One other person shared that area. Find them so the return desk can ask where the two wristband trails crossed.\n"
+    },
+    {
+      "id": "V7-R2-FIRST-INSTRUCTION-SUMMARY",
+      "segments": [
+        "page212.block12"
+      ],
+      "reason": "Earlier RULE 0 FIRST is already an instruction. Precise prose summary resolves inherited chronology without changing puzzle mechanics.",
+      "suggested_text": "The repaired note gives the team a fuller instruction than RULE 0 FIRST, but does not yet tell them what to examine.\n",
+      "must_keep_exact": [
+        "page212.block05",
+        "page212.block07",
+        "page212.block08",
+        "page212.block09",
+        "page212.block10"
+      ]
+    }
+  ],
+  "new_hash_bound_review": "Required after root applies batched changes. R1 receipts remain FIX on9f25."
+}

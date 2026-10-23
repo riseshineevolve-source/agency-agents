@@ -1,0 +1,91 @@
+{
+  "reviewer": "Independent case13_uniqueness agent: late Case 17 and 19 follow-up",
+  "date": "2026-10-21",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "decision": "PASS / KEEP under explicitly recorded grid-step and directional semantics",
+  "scope": "Independent complete-assignment enumeration of spatial Cases 17 and 19 on visually transcribed original unsolved maps. Original clue boards, source standard rules and candidate clue units were inspected.",
+  "evidence_files": {
+    "late-map-17-19-grid.json": "ddbc97f116094504ff99a47896d9065819324d49fa5ae037bb3803828e3afa08",
+    "late-map-17-19-solver.py": "c6170878021972f5591310cde0d26cb8edce4286a55680b895ad248ae916a838",
+    "late-map-17-19-results.json": "96b00847b84c43e0f73ab85325183b7eda1c9c91a22d93f54f150c3a2d601b44"
+  },
+  "visual_evidence": {
+    "late-map-17-19-renders/p11.png": "38e8d64fe53b4ce013d691e0c4043f601d7fc886f456b8b09432bc9afa9989b7",
+    "late-map-17-19-renders/p84.png": "e6bff0edfb927880fb2a1470c43883dbad69de28a790ece09f3d0f293b289eb6",
+    "late-map-17-19-renders/p85.png": "b8911e91dcf630c26102f463bf65eebb1c2ec7ca5997760cf56a82b82b1712bd",
+    "late-map-17-19-renders/p92.png": "f61b92a1d4e69a7043645f685ce3ac7178bae40bef09bcaf761af74687433350",
+    "late-map-17-19-renders/p93.png": "13b143b4d2c360b1df7397a00d7781e4dca2695be64f61c50669b406a8abe323"
+  },
+  "independence": [
+    "All 49 room memberships and blocked cells were independently transcribed from unsolved map pixels.",
+    "The expected roster field is used only after all clue-consistent assignments have been enumerated.",
+    "Every witness uses an unblocked cell and a unique row and column; all seven clues are applied, including exactly-one companion.",
+    "Original solutions 205/206 and 208/209 are comparison evidence, never positional constraints."
+  ],
+  "case17": {
+    "decision": "PASS / KEEP",
+    "full_assignment_count": 1,
+    "answer": "Axel at E3",
+    "assignment": {
+      "Mika": "B4",
+      "Koa": "F6",
+      "Luna": "G7",
+      "Sunny": "D5",
+      "Axel": "E3",
+      "Otis": "A1",
+      "Reed": "C2"
+    },
+    "literal_checks": [
+      "Otis A1 is Ticket Office.",
+      "Mika B4 is Ticket Office, column B.",
+      "Koa F6 is Waiting Lounge, row 6.",
+      "Sunny D5 is the visible usable bench.",
+      "Luna G7 is Waiting Lounge, column G.",
+      "Axel E3 is exactly three rows north of Koa F6, with no extra same-column requirement.",
+      "Reed C2 and Axel E3 are the sole two occupants of Main Corridor."
+    ],
+    "sensitivity": "An added same-column requirement for north yields zero solutions and violates the source rule requiring all witnesses in different columns. The literal phrase specifies rows, so only row difference is constrained.",
+    "adjacency": "No adjacency constraint occurs in this case; none was invented."
+  },
+  "case19": {
+    "decision": "PASS / KEEP under explicit metric and directional reading",
+    "full_assignment_count": 1,
+    "answer": "Mack at A7",
+    "assignment": {
+      "Kian": "F4",
+      "Theo": "C1",
+      "Dex": "G2",
+      "Avery": "E5",
+      "Mack": "A7",
+      "Ollie": "D3",
+      "Sasha": "B6"
+    },
+    "literal_checks": [
+      "Avery E5 is exactly two rows north of Mack A7.",
+      "Theo C1 is seven Manhattan grid steps from piano E6: |C-E| + |1-6| = 2 + 5.",
+      "Ollie D3 is Archive Room, Avery E5 is Study Hall: exactly one is Archive.",
+      "Dex G2 and Theo C1 share Reference Room.",
+      "Mack A7 is strictly west and south of Ollie D3; row/column differences are four and three.",
+      "Kian F4 is Study Hall, column F.",
+      "Sasha B6 and Mack A7 are the only occupants of Returns Hall."
+    ],
+    "semantics_note": "Source Case 19 folio 92 says only grid steps; no metric is defined there. Visually inspected source global folio 11 likewise defines no distance metric. Manhattan counting is a convention inference consistent with the explicit row-plus-column definition printed earlier in Case 07 folio 42; it is not claimed to be a locally or globally stated Case 19 rule. The natural south-west reading used here is the strict south-west quadrant, not exact diagonal alignment or touching adjacency. These settings yield the sole expected roster; alternative metric/direction settings do not.",
+    "sensitivities": {
+      "exact_SW_diagonal": "0 solutions",
+      "touching_SW_diagonal": "0 solutions",
+      "grid_steps_include_diagonal_Chebyshev": "0 solutions",
+      "north_requires_same_column": "0 solutions"
+    },
+    "adjacency": "No touching/next-to clue occurs in Case 19. Do not impose diagonal-touch constraints on south-west.",
+    "printed_wording": {
+      "distance": "Theo was 7 grid steps from the piano.",
+      "direction": "Mack was south-west of Ollie."
+    }
+  },
+  "candidate_action": "KEEP; no prose, puzzle, solution, source figure or renderer edits, and no Git operations.",
+  "limits": [
+    "Formal uniqueness depends on the stored visual transcription and explicit semantic settings.",
+    "This does not establish production illustrated-import fidelity, physical print proof or PRINT_READY."
+  ]
+}

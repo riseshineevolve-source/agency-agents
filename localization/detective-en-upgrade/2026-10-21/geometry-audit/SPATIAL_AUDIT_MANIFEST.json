@@ -1,0 +1,224 @@
+{
+  "recorded_utc": "2026-10-21T12:18:25.908583+00:00",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "artifacts": [
+    {
+      "path": "geometry-audit/SPATIAL_AUDIT_README.md",
+      "sha256": "198d877cc7ce6f5fa525eb69b0ca5ef36dd5badc61c3028adc95addbe79c2bc2",
+      "bytes": 5227
+    },
+    {
+      "path": "geometry-audit/case07-anchor-review.json",
+      "sha256": "cb0426f90ff50c9e10f7e422245422e0f923e555b94da99c05c1025f8c283e68",
+      "bytes": 3156
+    },
+    {
+      "path": "geometry-audit/case13-early-independent-review.json",
+      "sha256": "55ab99b2e3f905c734a370069e0022118bf92be6b190fc2ee1d2deacd6405e24",
+      "bytes": 6300
+    },
+    {
+      "path": "geometry-audit/case13-empty-room-crosscheck.json",
+      "sha256": "74a975b729d5d23ae4273ac8d57095f437c378dfb3f2754aba2db4df504cac5b",
+      "bytes": 1695
+    },
+    {
+      "path": "geometry-audit/case13-grid.json",
+      "sha256": "094c60a7cca7055b605c6a3cf5a0bb98c6469af60c557303344cdd782571b51b",
+      "bytes": 2809
+    },
+    {
+      "path": "geometry-audit/case13-solver-result.json",
+      "sha256": "671bb318e9b67dbaa1ac67b3d43c3ff307bed39b696cd5514493bcbade2590a3",
+      "bytes": 1430
+    },
+    {
+      "path": "geometry-audit/case13-uniqueness-review.json",
+      "sha256": "579b7bea1bb2842a928968d231dd9b47f094e0c765f65bef74196508f0bb5168",
+      "bytes": 3897
+    },
+    {
+      "path": "geometry-audit/early-map-grids.json",
+      "sha256": "a96a67041280f28d68f8cc62ac96e7b0cb9968550af89a075e78ce25d921a42f",
+      "bytes": 5563
+    },
+    {
+      "path": "geometry-audit/early-map-review.json",
+      "sha256": "a997614a6f3a51d28f7ed96765dec6f61e5c803f212a678be36f504479657e00",
+      "bytes": 9032
+    },
+    {
+      "path": "geometry-audit/early-map-solver-results.json",
+      "sha256": "80b2612a81f93472f5bbf36e7abcb942d57f8a9a45efb5b2d53f2cebefea9bb5",
+      "bytes": 10881
+    },
+    {
+      "path": "geometry-audit/independent-case13-early-results.json",
+      "sha256": "d7abfe52f652ec8efaa96e0cf17095a60915b82cd0595510f59c35ada9ee95a2",
+      "bytes": 6661
+    },
+    {
+      "path": "geometry-audit/independent-case13-early.py",
+      "sha256": "e219044bfd3bde09e7fca4dc52251c61ff9b8fad351015b93a45142bafb8d422",
+      "bytes": 4701
+    },
+    {
+      "path": "geometry-audit/independent-enumeration-06-07.py",
+      "sha256": "ca99445f8ccf50f08cf4d0fdaa22dd933714ce79a553f6e6247a284052ae1b44",
+      "bytes": 3534
+    },
+    {
+      "path": "geometry-audit/independent-enumeration-results-06-07.json",
+      "sha256": "5281d49c93bf3b12074d8f48906c731265bbfaf49945e691cfd3866aa5d256e4",
+      "bytes": 4271
+    },
+    {
+      "path": "geometry-audit/late-map-17-19-grid.json",
+      "sha256": "ddbc97f116094504ff99a47896d9065819324d49fa5ae037bb3803828e3afa08",
+      "bytes": 2275
+    },
+    {
+      "path": "geometry-audit/late-map-17-19-results.json",
+      "sha256": "96b00847b84c43e0f73ab85325183b7eda1c9c91a22d93f54f150c3a2d601b44",
+      "bytes": 2791
+    },
+    {
+      "path": "geometry-audit/late-map-17-19-review.json",
+      "sha256": "f6261526287a8ba74f17da2b9755c19ca92d01c8a73cd76e5266bcdba5799928",
+      "bytes": 5243
+    },
+    {
+      "path": "geometry-audit/late-map-17-19-solver.py",
+      "sha256": "c6170878021972f5591310cde0d26cb8edce4286a55680b895ad248ae916a838",
+      "bytes": 4223
+    },
+    {
+      "path": "geometry-audit/mid-map-grids.json",
+      "sha256": "e705cc036d23610fe6cb596916500ab202ac5c1d4ac8350ebde90796e1286e60",
+      "bytes": 2921
+    },
+    {
+      "path": "geometry-audit/mid-map-review.json",
+      "sha256": "f1d6a7a82ae09c37be1380b7b33bb28fa07066730e917121983511e132500601",
+      "bytes": 8596
+    },
+    {
+      "path": "geometry-audit/mid-map-solver-results.json",
+      "sha256": "02bc7d8903f8d6bbb1b6395bc6cc91470749f71a97f8b39d20e676a90418eb81",
+      "bytes": 23785
+    },
+    {
+      "path": "geometry-audit/root-map-grids-06-07.json",
+      "sha256": "f6dd1e052e9fe074091d9c6f9738f1544c05c007681c7cff6176ff46fc461f54",
+      "bytes": 2552
+    },
+    {
+      "path": "geometry-audit/root-map-results-06-07.json",
+      "sha256": "9a2f7bfcf099172103479f8195aaac42e8cdb4f6484447a25ad814273a6d8c2c",
+      "bytes": 5605
+    },
+    {
+      "path": "geometry-audit/root-solver-independent-review.json",
+      "sha256": "a095d6a17363a981b37bd588a4f14ce0fbd5ea645de9e2947448e8579b950552",
+      "bytes": 7201
+    },
+    {
+      "path": "geometry-audit/solve-case13.py",
+      "sha256": "3f191f1f77c04f84e25b7980315aaf56dbdab0ccc83589bace1144828c9e76c9",
+      "bytes": 3312
+    },
+    {
+      "path": "geometry-audit/solve-early-maps.py",
+      "sha256": "2014a2a27ba9ea5a96f8933bf4a13b45ab57f984e4fd4a2f47470764194f495b",
+      "bytes": 4532
+    },
+    {
+      "path": "geometry-audit/solve-mid-maps.py",
+      "sha256": "008c533686960bb39cd97c78991e0e50d6a2bc83bf10507c0494d139c329329f",
+      "bytes": 4485
+    },
+    {
+      "path": "geometry-audit/solve-root-maps-06-07.py",
+      "sha256": "e2af0bd5e840237e4c154e94a82df91074b85767972afc30bc4c905648b756c7",
+      "bytes": 3350
+    },
+    {
+      "path": "geometry-audit/spatial-20-22-grid.json",
+      "sha256": "10596299851dc2cda61b13dcd80a1da85932afd9e3379172aa1910d721cbd705",
+      "bytes": 2209
+    },
+    {
+      "path": "geometry-audit/spatial-20-22-results.json",
+      "sha256": "9640d967eaceda21f8d491e1af070ffb5ac4520e57e6e3b4f093ae6a5a9e134d",
+      "bytes": 4856
+    },
+    {
+      "path": "geometry-audit/spatial-20-22-review.json",
+      "sha256": "74c33a6d90d390f3299e265dbe487c7dd594949ec8247809c4db565cf1ae649a",
+      "bytes": 5436
+    },
+    {
+      "path": "geometry-audit/spatial-20-22-solver.py",
+      "sha256": "a991ef5f0aec8db72db503123b76acc765aecf5882ccf60561397f4da874adc5",
+      "bytes": 4467
+    },
+    {
+      "path": "geometry-audit/spatial-23-25-grid.json",
+      "sha256": "2df572ed08891fef2cf92e3baf73e588895f49328a79c38939c69e9990a279f5",
+      "bytes": 2229
+    },
+    {
+      "path": "geometry-audit/spatial-23-25-results.json",
+      "sha256": "de31dd58d1adab28a140cc76655856e573cdf3a725ce4c5764cebd7a12c985be",
+      "bytes": 1593
+    },
+    {
+      "path": "geometry-audit/spatial-23-25-review.json",
+      "sha256": "134019f758c121be5c24bd14d71c704489385c57b0985e97f2f0ea979008b99a",
+      "bytes": 9310
+    },
+    {
+      "path": "geometry-audit/spatial-23-25-solver.py",
+      "sha256": "5aab39cda8414506e3e33c54b4a766e5ea55dbf99deb5a91465544e526a15939",
+      "bytes": 3523
+    },
+    {
+      "path": "geometry-audit/spatial-intro-29-grid.json",
+      "sha256": "b47cc614b81cda3631c73b7d7b390949f1ca589a4f312efb9db98bdfa12d98c6",
+      "bytes": 2086
+    },
+    {
+      "path": "geometry-audit/spatial-intro-29-results.json",
+      "sha256": "b43725cf9ae4907b620b134f06bcfa518029924ed04085413c884219a3bc6236",
+      "bytes": 2133
+    },
+    {
+      "path": "geometry-audit/spatial-intro-29-review.json",
+      "sha256": "fe0a47fe519ea8d0009309b4f10b47477fc170ad21e78ffa4350750f4b8eb8d0",
+      "bytes": 4126
+    },
+    {
+      "path": "geometry-audit/spatial-intro-29-solver.py",
+      "sha256": "88eca84373759b15454b94be3e694ab5a814d17cd2bfc0e6e477c564e70ee14f",
+      "bytes": 4118
+    },
+    {
+      "path": "integration/CASE07_SOURCE_ANCHOR_GATE.md",
+      "sha256": "46073d068f6e9bc693aea40a12aad078b5cf58b2e211f75f426fb7011cb2e524",
+      "bytes": 2544
+    },
+    {
+      "path": "integration/CASE20_SOURCE_SYMBOL_GATE.md",
+      "sha256": "a3207a5456674ca66cd8786cfeaed20b2b657cfb80d052e8b0f656f9c13a67bb",
+      "bytes": 2105
+    },
+    {
+      "path": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "sha256": "4a9d718fd9120fbd4109be02ca5894c4a4993331a3d5e5b32ab02d415b7043ab",
+      "bytes": 5162
+    }
+  ],
+  "recovery": "Additive Git evidence after unchanged currentV5 recoveryZIP. OriginalsourceLibraryIDs in source-inventory.json. ReproduciblelocalPNGs omitted from commit; renderhashes and commands in reviews.",
+  "prior_retained_case12_review_sha256": "47db475526886516555a3e2bbebf9c9359bad1f1e2e52e023767614443798464"
+}

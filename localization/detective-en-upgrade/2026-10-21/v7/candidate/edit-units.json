@@ -1,0 +1,1149 @@
+[
+  {
+    "ids": [
+      "page016.block04"
+    ],
+    "before": "MIMI: Internal stock. Good. We start with what we can prove.\nALIO: My leading theory has a secret tunnel and a minivan. No evidence yet. I will put a question mark beside it.\nLULI: A good place for the question mark, Alio.\nNINI: A small one. We need room for the facts.\nDILO: If a tunnel turns up later, you can have the whole margin.",
+    "after": "MIMI: Internal stock. No courier. Let's find who was at Delivery.\nALIO: My theory has a secret tunnel and a minivan.\nLULI: Does it have any evidence?\nNINI: Not yet. I've drawn it a question mark to park beside.\nDILO: Good. The minivan was blocking my notes.",
+    "issue": "HM01: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page019.block31",
+      "page019.block32",
+      "page019.block33"
+    ],
+    "before": "Better. Investigate\nthe missing handoff,\nnot the trophy's\npersonality.\n",
+    "after": "Can its excellent posture tell us who brought it back?\n",
+    "issue": "HM02: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page019.block35",
+      "page019.block36",
+      "page019.block37"
+    ],
+    "before": "I liked the posture\ntheory. But I am\nwriting down the\nuseful question.\n",
+    "after": "You take the map, Detective. I'll watch the extremely well-behaved Cup.\n",
+    "issue": "HM02: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page023.block07"
+    ],
+    "before": "Does Inspector Glitter show a difference between the photographs?\n",
+    "after": "Has Inspector Glitter actually found a difference?\n",
+    "issue": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page023.block09"
+    ],
+    "before": "Not yet. I may have promoted it too soon.\n",
+    "after": "Not yet. Mostly sparkling.\n",
+    "issue": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page023.block11"
+    ],
+    "before": "A difficult first day.\n",
+    "after": "Should I be worried about my job?\n",
+    "issue": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page023.block13"
+    ],
+    "before": "Inspector Glitter can sit with you. We still need all ten differences.\n",
+    "after": "Only if you start shedding glitter. Pass me Photo B.\n",
+    "issue": "HM03: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page027.block19",
+      "page027.block20"
+    ],
+    "before": "It is a very\nsuspicious\nblack box.\n",
+    "after": "I'm watching the box for suspicious movements.\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page027.block22"
+    ],
+    "before": "It is a labeled\nevidence box.\n",
+    "after": "It's an evidence box, Dilo.\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page027.block24",
+      "page027.block25"
+    ],
+    "before": "Exactly. Suspicion\nwith paperwork.\n",
+    "after": "And so far, very convincing.\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page027.block27",
+      "page027.block28",
+      "page027.block29"
+    ],
+    "before": "Please do not\ninterrogate the\nbox before the\npeople.\n",
+    "after": "If it moves, we can all be impressed. Who carried it?\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page027.block31",
+      "page027.block32"
+    ],
+    "before": "May I stare at\nit\nprofessionally?\n",
+    "after": "I can make it blink first.\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page027.block34",
+      "page027.block35"
+    ],
+    "before": "You have been\ndoing that for a\nfull minute.\n",
+    "after": "If you manage that, I'm giving the box your helmet.\n",
+    "issue": "HM04: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page037.block05",
+      "page037.block06"
+    ],
+    "before": "I had emotionally prepared\nfor a dragon tooth.\n",
+    "after": "I had plans for that dragon tooth.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page037.block08"
+    ],
+    "before": "I know. I was hoping for\nthe tooth too. We have a\nRoman spoon.\n",
+    "after": "So did I. None of them involved stirring soup.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page037.block10",
+      "page037.block11"
+    ],
+    "before": "Less dramatic. Better for\nsoup.\n",
+    "after": "Perhaps the dragon was a cook.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page037.block13",
+      "page037.block14"
+    ],
+    "before": "So do we have a missing\ndragon tooth or an\noverpromoted spoon?\n",
+    "after": "That explains the spoon. Slight problem with the Romans.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page037.block16",
+      "page037.block17",
+      "page037.block18"
+    ],
+    "before": "Right now, we have a label\nand an object that\ndisagree.\n",
+    "after": "We'll ask about the label before we rewrite history.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page037.block20",
+      "page037.block21"
+    ],
+    "before": "Which is why we ask before\nwe name a crime.\n",
+    "after": "A relief. I've only just put history back on its shelves.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page037.block23",
+      "page037.block24"
+    ],
+    "before": "The spoon is taking this\nvery well.\n",
+    "after": "Can we keep the dragon in the margin?\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page037.block26",
+      "page037.block27",
+      "page037.block28"
+    ],
+    "before": "And one tiny number from\nthe Look-Twice file got us\nhere. Good catch.\n",
+    "after": "Pencil only. I'd like a chance to object.\n",
+    "issue": "HM06: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page041.block21"
+    ],
+    "before": "Only the\ndramatic ones.\n",
+    "after": "The dramatic ones. Then the large ones.\n",
+    "issue": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page041.block26",
+      "page041.block27",
+      "page041.block28"
+    ],
+    "before": "Excellent. We have\neliminated several\ncupboards.\n",
+    "after": "Exactly. Now we can stop opening tiny doors.\n",
+    "issue": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page041.block30"
+    ],
+    "before": "A triumph of fieldwork.\n",
+    "after": "Good. I was starting to introduce myself to the brooms.\n",
+    "issue": "HM07: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page045.block07"
+    ],
+    "before": "Buildings sometimes interrupt a straight line.\n",
+    "after": "Have you shown it to the walls?\n",
+    "issue": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page045.block09"
+    ],
+    "before": "I shall discuss that with the building.\n",
+    "after": "The building has rejected my first draft.\n",
+    "issue": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page045.block11"
+    ],
+    "before": "After you read its door signs.\n",
+    "after": "Then let's find out where it will let us through.\n",
+    "issue": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page045.block13"
+    ],
+    "before": "I will hold the map. You handle negotiations with the door signs.\n",
+    "after": "I'll hold the map. No folding the building to make it fit.\n",
+    "issue": "HM08: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page049.block05"
+    ],
+    "before": "You know something.\n",
+    "after": "You nearly said something.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page049.block07"
+    ],
+    "before": "I remember something. That is not the same thing.\n",
+    "after": "Something looks familiar. That isn't the same as knowing.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page049.block09"
+    ],
+    "before": "We will check it with you.\n",
+    "after": "Then we'll find something you can check it against.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page049.block11"
+    ],
+    "before": "I have prepared several incorrect memories in solidarity.\n",
+    "after": "I remember being promised cake on an investigation.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page049.block13"
+    ],
+    "before": "Keep them away from the evidence table.\n",
+    "after": "You promised yourself the cake, Alio.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page049.block15"
+    ],
+    "before": "Cruelly reasonable.\n",
+    "after": "A very reliable source. Terrible at delivery.\n",
+    "issue": "HM09: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page053.block15",
+      "page053.block16",
+      "page053.block17"
+    ],
+    "before": "Two teams.\nOne rover. One\ntruly upsetting\ncable tangle.\n",
+    "after": "Two teams. One rover. I refuse to split it down the middle.\n",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page053.block19",
+      "page053.block20"
+    ],
+    "before": "Which problem\nare you solving\nfirst?\n",
+    "after": "Generous. The wheels would be awkward.\n",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page053.block22"
+    ],
+    "before": "Access record.\n",
+    "after": "We'll check who actually had access.\n",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page053.block24"
+    ],
+    "before": "Correct answer.\nDisturbing speed.\n",
+    "after": "While you do, can I untangle that cable?\n",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page053.block26",
+      "page053.block27"
+    ],
+    "before": "Please log that\nseparately.\n",
+    "after": "Careful. It may have a third owner.\n",
+    "issue": "HM10: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page061.block07"
+    ],
+    "before": "Wait. I think it is asking us for something.\n",
+    "after": "It says 'cracker'.\n",
+    "issue": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page061.block09"
+    ],
+    "before": "The witness said cracker.\n",
+    "after": "I've got that. What about the password?\n",
+    "issue": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page061.block11"
+    ],
+    "before": "A clear request. We are making progress.\n",
+    "after": "I think it has set a price.\n",
+    "issue": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page061.block13"
+    ],
+    "before": "My neatest interview so far.\n",
+    "after": "I'll ask the handler. My first interview with a snack budget.\n",
+    "issue": "HM12: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page065.block23",
+      "page065.block24"
+    ],
+    "before": "Several\nweaknesses. I am\nmaking a list.\n",
+    "after": "It needs somewhere to keep the camera.\n",
+    "issue": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page065.block26",
+      "page065.block27"
+    ],
+    "before": "I will keep a\nspace for the\nanswer.\n",
+    "after": "A tiny camera strap. I'll draw one.\n",
+    "issue": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page065.block29"
+    ],
+    "before": "Useful. Thank you.\n",
+    "after": "At last. Someone taking the equipment problem seriously.\n",
+    "issue": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page065.block31"
+    ],
+    "before": "Start with what\nthe camera saw.\n",
+    "after": "Now you've got me wondering about the strap. Hand me the actual photo before this gets worse.\n",
+    "issue": "HM13: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page069.block05"
+    ],
+    "before": "One statement has broken the clock.\n",
+    "after": "One of these statements has broken the clock.\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page069.block07"
+    ],
+    "before": "Or one person mixed up two moments.\n",
+    "after": "Or somebody mixed up two moments.\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page069.block09"
+    ],
+    "before": "Test the journey before you test the person.\n",
+    "after": "Could happen. I once announced I'd packed lunch. I'd packed three books.\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page069.block11"
+    ],
+    "before": "Exactly.\n",
+    "after": "I remember. Your bag was very well fed.\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page069.block13"
+    ],
+    "before": "Can I remain suspicious of the clock?\n",
+    "after": "Did it share?\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page069.block15"
+    ],
+    "before": "Certainly. Help me count its minutes.\n",
+    "after": "Not a crumb. Three books and not one on cooking.\n",
+    "issue": "HM14: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page073.block07"
+    ],
+    "before": "What about satellite tracking?\n",
+    "after": "I was going to suggest satellite tracking.\n",
+    "issue": "HM15: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page073.block09"
+    ],
+    "before": "My tags work indoors.\n",
+    "after": "Mine doesn't need charging.\n",
+    "issue": "HM15: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page073.block11"
+    ],
+    "before": "Unexpectedly advanced technology. I will write mine large.\n",
+    "after": "Ruthless. You've beaten me with a piece of cardboard.\n",
+    "issue": "HM15: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page087.block13"
+    ],
+    "before": "Good. Corrected time first.\n",
+    "after": "I'll check the new times. You can tell the watch it hasn't lost its job.\n",
+    "issue": "HM18: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page091.block05"
+    ],
+    "before": "I was going to say digital ghost.\n",
+    "after": "I was going to say 'digital ghost'.\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page091.block07"
+    ],
+    "before": "And now?\n",
+    "after": "Was?\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page091.block09"
+    ],
+    "before": "I am postponing the ghost until evidence requests one.\n",
+    "after": "I'm checking the scanner first. The ghost can wait outside.\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page091.block11"
+    ],
+    "before": "I like this plot development.\n",
+    "after": "In a library? It'll complain about the silence.\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page091.block13"
+    ],
+    "before": "If it turns up later, I am asking whether it likes books.\n",
+    "after": "I'll find it something to read.\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page091.block15"
+    ],
+    "before": "After the scanner, then.\n",
+    "after": "A paper one. I'm not giving it the Wi-Fi password.\n",
+    "issue": "HM19: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page095.block07"
+    ],
+    "before": "Give it a place on the art wall, not the witness list.\n",
+    "after": "Can I have the panel before you frame it?\n",
+    "issue": "HM20: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page095.block09"
+    ],
+    "before": "Understood. Pear excluded from questioning.\n",
+    "after": "It's looking very nervous. Be nice.\n",
+    "issue": "HM20: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page099.block07",
+      "page099.block08"
+    ],
+    "before": "Both hands visible. I am\nlearning.\n",
+    "after": "I'm not touching anything else.\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page099.block10",
+      "page099.block11"
+    ],
+    "before": "Tear edges first. Sentence\nsecond.\n",
+    "after": "Stay here. I need you to check the joins with me.\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page099.block13"
+    ],
+    "before": "And keep the handwriting\nvisible when you sleeve it.\n",
+    "after": "Keep the handwriting visible. It may matter once the edges fit.\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page099.block15"
+    ],
+    "before": "Familiar?\n",
+    "after": "Do you know whose it is?\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page099.block17",
+      "page099.block18",
+      "page099.block19"
+    ],
+    "before": "Maybe. Which is exactly\nwhy I am not calling it\nevidence yet.\n",
+    "after": "Maybe. The archive will have to back me up.\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page099.block21"
+    ],
+    "before": "Understood. The paper\ngets the first interview.\n",
+    "after": "Detective, you fit the pieces. I'll check every join.\n",
+    "issue": "HM21: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page105.block08"
+    ],
+    "before": "They are labeled.\n",
+    "after": "Their names are on the labels.\n",
+    "issue": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page105.block10"
+    ],
+    "before": "Weak cover identities.\n",
+    "after": "Not everyone is cut out for a life undercover.\n",
+    "issue": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page105.block12"
+    ],
+    "before": "The instruments would like their own beds back.\n",
+    "after": "They've had a long rehearsal. Can we get them home?\n",
+    "issue": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page105.block14"
+    ],
+    "before": "Then we had better sort out the bedrooms.\n",
+    "after": "I'll check the shelves. I'm not reading a bedtime story to an instrument case.\n",
+    "issue": "HM22: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page109.block11"
+    ],
+    "before": "Solve the wristband case before you start a feud with a scoreboard.\n",
+    "after": "I've got the wristband file. Can you bear to leave your rival unsupervised?\n",
+    "issue": "HM23: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page109.block13"
+    ],
+    "before": "Feud postponed.\n",
+    "after": "For the case. Tell it I haven't surrendered.\n",
+    "issue": "HM23: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page113.block09"
+    ],
+    "before": "The muddy evidence requested a word.\n",
+    "after": "Yes. I thought I'd see what the mud had to say first.\n",
+    "issue": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page113.block11"
+    ],
+    "before": "Give it the floor.\n",
+    "after": "Then I'll be quiet too.\n",
+    "issue": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page113.block13"
+    ],
+    "before": "I will wait here while you check.\n",
+    "after": "Both of you? I should photograph this.\n",
+    "issue": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page113.block15"
+    ],
+    "before": "Good. I would like my next theory to have feet.\n",
+    "after": "Footprints first. My good behaviour can wait for the family album.\n",
+    "issue": "HM24: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page117.block05"
+    ],
+    "before": "This parcel has met more helpful people than it can remember.\n",
+    "after": "This parcel has met a lot of people. Has anyone asked where it wants to go?\n",
+    "issue": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page117.block07"
+    ],
+    "before": "Then we help it in a less creative order.\n",
+    "after": "Let's find out before somebody helpfully moves it again.\n",
+    "issue": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page117.block09"
+    ],
+    "before": "Revolutionary idea: one label, one destination.\n",
+    "after": "I'll guard it. No unauthorised helping.\n",
+    "issue": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page117.block11"
+    ],
+    "before": "And possibly biscuits.\n",
+    "after": "What about morale biscuits?\n",
+    "issue": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page117.block13"
+    ],
+    "before": "We can investigate lunch after the handoff. I saved you a place.\n",
+    "after": "For us. The parcel has had quite enough people trying to improve its day.\n",
+    "issue": "HM25: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page121.block15",
+      "page121.block16",
+      "page121.block17"
+    ],
+    "before": "Empty does not\nalways mean\nuseless.\n",
+    "after": "Empty rooms. We've been looking at everyone except nobody.\n",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page121.block19",
+      "page121.block20",
+      "page121.block21"
+    ],
+    "before": "My bedroom\nwould like that\nentered into\nevidence.\n",
+    "after": "Nobody has been very quiet.\n",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page121.block23",
+      "page121.block24"
+    ],
+    "before": "Your bedroom is\nnot an admissible\nprecedent.\n",
+    "after": "Already my favourite witness.\n",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page121.block26"
+    ],
+    "before": "Fortunately.\n",
+    "after": "I'm telling your brothers you said that.\n",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page121.block28",
+      "page121.block29",
+      "page121.block30"
+    ],
+    "before": "Old systems sometimes\nhide meaning in what\nthey do not fill.\n",
+    "after": "A historic moment. Detective, pull your maps closer before they recover.\n",
+    "issue": "HM26: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page129.block05"
+    ],
+    "before": "I have put my tunnel theory on a separate card.\n",
+    "after": "I have put my tunnel proposal on a separate card.\n",
+    "issue": "HM28: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page129.block11",
+      "page129.block12"
+    ],
+    "before": "Better than the muddy arrows. At least your theory admits it is\nguessing.\n",
+    "after": "I'd like a card. Some of my very organised plans are mostly that.\n",
+    "issue": "HM28: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page129.block14"
+    ],
+    "before": "That would have saved my old squad several afternoons.\n",
+    "after": "Make it two. I used to call mine 'experience'.\n",
+    "issue": "HM28: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page133.block05"
+    ],
+    "before": "Largest map in the book. Same rule as always: prove it.\n",
+    "after": "That's a lot of map. I'll clear some space.\n",
+    "issue": "HM29: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page133.block11"
+    ],
+    "before": "New evidence already.\n",
+    "after": "I've written that down. In pencil, to be fair.\n",
+    "issue": "HM29: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page137.block08"
+    ],
+    "before": "already proved.\n\nHAPPY MAKERS COMMS\n1 MIMI: Use what you earned.\n2 DILO: Victory noise?\n",
+    "after": "already proved.\n\nHAPPY MAKERS COMMS\n1 MIMI: Case Wall ready? Then the panel's yours.\n2 DILO: And the victory noise is mine.\n",
+    "issue": "HM30: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page137.block09"
+    ],
+    "before": "3 LULI: Pending evidence.\n4 NINI: Very pending.\n5 BIBI: Begin.\n",
+    "after": "3 LULI: Keep it in your head until the door opens.\n4 NINI: Mine's already getting a bit loud in there.\n5 BIBI: Go on, Detective. We'll be right behind you.\n",
+    "issue": "HM30: concrete scene diagnostic in reviews/comedy-diagnostic/diagnostic.json and story-diagnostic/DIAGNOSTIC.md; retain speaker/portrait order and puzzle truth."
+  },
+  {
+    "ids": [
+      "page007.block05"
+    ],
+    "before": "MIMI: I've got a plan! ...actually, wait, where's my phone?\nLULI: Facts first. Opinions later. Snacks somewhere in between.\nDILO: If it's weird enough to beep... it's probably important.",
+    "after": "MIMI: I've got a plan! ...actually, wait, where's my phone?\nLULI: Facts first. Opinions later. Snacks somewhere in between.\nDILO: If it beeps, I can probably make it beep again.",
+    "issue": "BIO_QUOTE_FALSE_SALIENCE: a beep is not evidence of importance; use a distinctive tech boast rather than a misleading maxim."
+  },
+  {
+    "ids": [
+      "page012.block03"
+    ],
+    "before": "DILO: I can fit all my theories on that wall.\nLULI: Try the evidence first.\nALIO: What about a small shelf for promising theories?\nNINI: Mine needs a cushion.\nBIBI: Give it a question mark. We need to know which parts are still guesses.\nMIMI: A detective without key notes in one place is like solving a case with 37 tabs open and 2% battery. Bold, chaotic, doomed.",
+    "after": "DILO: I can fit all my theories on that wall.\nLULI: And the evidence?\nALIO: We could put in a small shelf.\nNINI: For the theories? Mine needs a cushion.\nBIBI: Give it a question mark. I want to know which things we haven't proved.\nMIMI: No cushions on the Case Wall. We are already one theory away from needing a bigger building.",
+    "issue": "SUPPORT_COMMS_DRY_TAIL: replace generic tabs/battery maxim and doom with an actual family negotiation over the wall."
+  },
+  {
+    "ids": [
+      "page019.block03",
+      "page019.block04",
+      "page019.block05",
+      "page019.block06",
+      "page019.block07",
+      "page019.block08",
+      "page019.block09",
+      "page019.block10",
+      "page019.block11",
+      "page019.block12",
+      "page019.block13",
+      "page019.block14",
+      "page019.block15",
+      "page019.block16",
+      "page019.block17",
+      "page019.block18",
+      "page019.block19",
+      "page019.block20",
+      "page019.block21"
+    ],
+    "before": "That morning, Mimi crosses Trophy Hall with\ncoffee in one hand and the other buried in her\nbag, looking for the phone she was holding five\nminutes ago. She notices the Founders' Cup is\nmissing from its display case. That part is\nnormal. Max signed it out for a Hall\ndemonstration. A few hours later, Dilo passes the\nsame case and mentions that the Cup is back -\npolished, centered and apparently having a much\nmore organized day than the rest of them. Mimi\nstops. \"Back?\" Bibi checks the return sheet.\nBlank.\nClipped to the return record is an Academy\nreturn tag stamped with one plain 0 - the\nsame mark printed on the black envelope\nthat brought you here. Nobody calls it a\npattern yet. The Hall record still has one\nsolid checkpoint from the demonstration\nwindow: Max's position, plus one other\nperson in the same room. That person is\nnot a suspect. They are the one pair of\neyes that can answer the question the\npaperwork cannot:\nNo return time. No signature. No\nhandoff.\nWas the Cup already back during that\ncheckpoint - or did it return later, after\nthe record went dark?\n",
+    "after": "That morning, Mimi crosses Trophy Hall with coffee in one hand and the other deep in her bag. Her phone appears to have taken the morning off.\n\nThe Founders' Cup has gone. That part is normal: Max signed it out for a Hall demonstration.\n\nA few hours later, Dilo passes the display case.\n\"It's back.\"\nMimi stops looking for her phone.\n\nThe Cup is polished, centred and doing an excellent impression of a Cup with nothing to explain. Its return sheet is blank. No time. No signature. No handoff.\n\nBibi checks the tag clipped to the return record. One plain 0, just like the mark on the black envelope that brought you here. Nobody calls it a pattern yet.\n\nOne part of the demonstration record can still be checked: Max's location, and the one person who shared that room.\n\"Not a suspect,\" Mimi says. \"Someone who may have seen it.\"\n\nWas the Cup already back at that checkpoint, or did it return later?\n",
+    "issue": "CASE02_FLOW: displaced blank-return details interrupt the question; reduce checkpoint jargon and give the missing handoff a clear narrative shape."
+  },
+  {
+    "ids": [
+      "page030.block03",
+      "page030.block04",
+      "page030.block05",
+      "page030.block06",
+      "page030.block07",
+      "page030.block08",
+      "page030.block09",
+      "page030.block10",
+      "page030.block11"
+    ],
+    "before": "Zuri's account gives Mimi enough to repair the evidence-box handoff and route the sealed box\nback to the Trace Lab.\nThe moment she files the correction, Dilo's console flashes.\nA dormant locker beneath the Case Table has linked itself to the current Academy session.\nThat has never happened before.\nBehind its six-symbol panel sits an old sealed Academy envelope.\nNobody knows why the locker woke up.\nNobody knows why it waited for a verified case to be filed.\nDilo looks at the keypad.\n\"One mystery at a time.\"\n",
+    "after": "Zuri's account repairs the handoff. Mimi routes the sealed evidence box back to the Trace Lab and files the correction.\n\nDilo's console flashes.\n\nUnder the Case Table, a dormant locker has linked itself to the current Academy session. That has never happened before. Behind its six-symbol panel is an old, sealed Academy envelope.\n\nDilo reads the screen twice. The locker has waited until a verified case was filed. Nobody knows why it has woken up, or what the envelope is doing there.\n\nHe looks at the keypad.\n\"One mystery at a time.\"\n",
+    "issue": "CASE05_PACING: make the dormant-locker activation a visible event rather than a sequence of repeated explanations of ignorance."
+  },
+  {
+    "ids": [
+      "page034.block16"
+    ],
+    "before": "Four marks. One incomplete route.\nOne machine with dramatic timing.\n",
+    "after": "Four marks. One incomplete route. Does this printer ever send anything straightforward?\n",
+    "issue": "SUPPORT_COMMS_REPEAT: setup must invite a human response rather than recite the pattern."
+  },
+  {
+    "ids": [
+      "page034.block18"
+    ],
+    "before": "Pattern first. Explanation later.\n",
+    "after": "You'd complain if it did.\n",
+    "issue": "SUPPORT_COMMS_MORAL_END: replace procedural maxim with sibling payoff."
+  },
+  {
+    "ids": [
+      "page035.block06",
+      "page035.block07"
+    ],
+    "before": "Good. We still have room for a better\nidea.\n",
+    "after": "Could it send something with a name? I'm running out of things to call 'the thing'.\n",
+    "issue": "SUPPORT_COMMS_RELATIONSHIP: Nini joins the family joke instead of grading an idea."
+  },
+  {
+    "ids": [
+      "page035.block09",
+      "page035.block10"
+    ],
+    "before": "And now we have something worth\ntaking to the archive.\n",
+    "after": "I'll take these to the archive. If it asks for me, tell it I'm checking its references.\n",
+    "issue": "SUPPORT_COMMS_ACTION: Bibi has a concrete archive task and can answer the printer joke without supplying its meaning."
+  },
+  {
+    "ids": [
+      "page040.block05",
+      "page040.block06",
+      "page040.block07"
+    ],
+    "before": "By the end of the first stretch of cases, nobody asks whether you are coming with them\nanymore. Mimi just leaves space beside the next file. Real staff have asked for help, live\ncases have arrived and an old system keeps touching records it should not know about.\nNow the team has a pattern - and no explanation yet.\n",
+    "after": "By the end of the first stretch of cases, nobody asks whether you are coming with them anymore. Mimi just leaves space beside the next file. Real staff have asked for help. Your filed answers have woken part of an old Academy system. It still has not explained why.\n\nOn the Case Wall, four matching marks wait beside an incomplete route. And beside the next file, there is room for you.\n",
+    "issue": "BRIDGE_OVERCLAIM: 'records it should not know about' suggests a watcher beyond observed system capability; retain ordinary reader belonging and the actual activation mystery."
+  },
+  {
+    "ids": [
+      "page044.block03",
+      "page044.block04",
+      "page044.block05",
+      "page044.block06",
+      "page044.block07",
+      "page044.block08",
+      "page044.block09"
+    ],
+    "before": "Zoe's account gives the trainer a real time window. The moon costume is still missing.\nThe rehearsal clock is running.\nThe prop room is on the far side of the Undercover Wing, and Alio has already drawn three\n\"faster\" routes to reach it.\nOne runs into the closed Paint Corridor.\nOne depends on the locked Staff Stairs.\nOne might actually work.\nThe team cannot check the prop room - or close the costume trail - until you find the route that\nsurvives the building.\n",
+    "after": "Zoe narrows the time when the moon costume went missing. She has not found the costume.\n\nThe rehearsal clock keeps running. The prop room is on the far side of the Undercover Wing, and Alio has drawn three routes to reach it.\n\nThey look beautifully quick on paper. Paper is less bothered by closed corridors and locked doors than people are.\n\nBefore anyone can check the prop room, you need a route that the team can actually use.\n",
+    "issue": "CASE08_EARLY_ELIMINATION: the opener lists route eliminations before the task; show urgency and leave the actual choice with the reader."
+  },
+  {
+    "ids": [
+      "page053.block03",
+      "page053.block04",
+      "page053.block05",
+      "page053.block06",
+      "page053.block07",
+      "page053.block08",
+      "page053.block09",
+      "page053.block10",
+      "page053.block11",
+      "page053.block12",
+      "page053.block13"
+    ],
+    "before": "Bibi disappears into the archive with the\ntrue 0 samples and leaves the rest of the\nteam with one instruction: \"Records, not\nguesses.\" Ten minutes later, the Academy\nScience & Prototype Fair sends over a\nproblem that looks almost designed to\ntest her patience. A Tech Lab mentor rolls\na silver training rover up to the Case\nTable. Behind it come two students. Both\nare carrying ownership sheets.\nBoth sheets look legitimate. Both list\nthe same rover. Dilo crouches beside\nthe machine. \"At least the robot seems\ncalm.\" The access log is less calm.\nDash is the last placement everyone\nagrees on. Rebuild his area and the\nteam gets the human overlap the\nsystem log is missing - someone who\ncan say which team actually had\naccess when one rover somehow\nbecame two ownership records.\n",
+    "after": "Bibi goes into the archive with the true 0 samples.\n\"Records, not guesses,\" she reminds the team.\n\nTen minutes later, the Academy Science & Prototype Fair sends over a problem with two perfectly respectable pieces of paper and one inconvenient robot.\n\nA Tech Lab mentor rolls a silver training rover up to the Case Table. Two students follow, each carrying an ownership sheet. Both sheets look legitimate. Both name the same rover.\n\nDilo crouches beside it.\n\"At least the robot seems calm.\"\n\nThe access log cannot settle which team had it during the disputed window. Dash's location is the last part everyone agrees on. Find the person who shared his area, and the team will have someone to ask what happened around the rover.\n",
+    "issue": "CASE10_JARGON_AND_SHELL: replace human-overlap language with the concrete ownership problem and a clear witness question."
+  },
+  {
+    "ids": [
+      "page060.block08"
+    ],
+    "before": "Winter is the one handler the rehearsal record places with certainty. Find the one other person\nin Winter's mapped area: that gives the team a grounded\nplace to start asking where those four words came from.\n",
+    "after": "The rehearsal record puts Winter in one definite area. Who else was there? Find Winter's companion, and Nini will have someone to ask who won't answer every question with a snack request.\n",
+    "issue": "CASE12_FORMULA: the handler query should sound like this bird interview, not another abstract last-reliable-placement explanation."
+  },
+  {
+    "ids": [
+      "page068.block04",
+      "page068.block05",
+      "page068.block06"
+    ],
+    "before": "The camera was moved after the 4:17 frame during cleanup. It did not move itself, and nobody\nneeds Alio's fox-with-pockets theory.\nWhat stays with Mimi is something more useful: two people remembered the same few\nminutes differently.\nBack at the Academy the following morning, the Scenario Theater coordinator overhears that\nconversation and drops four rehearsal statements onto the Case Table.\n",
+    "after": "The camera was moved during cleanup, after the 4:17 frame. It did not move itself.\n\nMimi is still thinking about the two people who remembered those few minutes differently. Back at the Academy the following morning, the Scenario Theater coordinator overhears the discussion and puts four rehearsal statements on the Case Table.\n",
+    "issue": "CASE14_TRANSITION: retain the memory theme and coordinator's trigger without a narrator's 'more useful' evaluation."
+  },
+  {
+    "ids": [
+      "page072.block09"
+    ],
+    "before": "Milo is the cleanest fixed point in the departure record. His room companion saw one of the\nbags before helpfulness became a chain reaction.\n",
+    "after": "Milo's location is certain. One person shared his room and saw a backpack before all the helpful swapping began. Find that person, and the team can untangle who moved what.\n",
+    "issue": "CASE15_FORMULA: make the witness's actual value clear through the existing bag-swap situation."
+  },
+  {
+    "ids": [
+      "page082.block15"
+    ],
+    "before": "Reed is the last reliable point in the station trail. Rebuild his area and find the person who can\ntell the team where the ticket went next - and whether anyone meant to pass it on at all.\n",
+    "after": "The station record fixes Reed's location. It also puts one person in that area with him. The ticket cannot tell you where it went next, or whether it was passed on deliberately. That person might.\n",
+    "issue": "CASE17_FORMULA: use the physical ticket question instead of another last-reliable-point paragraph."
+  },
+  {
+    "ids": [
+      "page090.block15"
+    ],
+    "before": "Sasha is fixed on the scanner log. Rebuild her area and the team gets the physical side of a\ndigital mystery: someone who can say whether the scanner was used, bumped, tested - or\nsimply produced a checkout nobody made.\n",
+    "after": "The log puts Sasha in one known location. Find the one person who shared that area. The librarian has a screen full of checkout data; what the file needs is someone who saw what happened beside the scanner.\n",
+    "issue": "CASE19_FORMULA: reduce physical-side-of-digital-mystery abstraction; keep log and eyewitness roles distinct."
+  },
+  {
+    "ids": [
+      "page103.block05",
+      "page103.block06"
+    ],
+    "before": "For the first time, Room Zero has given you an instruction instead of another pattern. It\nhas not bothered to explain how to use it. Nini slides the growing stack of solved maps\ninto your reach. Nobody asks whether you are keeping them anymore. Of course you are.\nSo the squad keeps working the real cases that arrive - and keeps every record that might\nmatter later.\n",
+    "after": "The repaired note gives you more to work with than RULE 0 FIRST. It still refuses to say what to look at. Nini slides the growing stack of solved maps into your reach. Nobody asks whether you're keeping them anymore. Of course you are. If the old route wants something examined, you have a table full of evidence ready for it. Meanwhile, real cases keep arriving.\n",
+    "issue": "FIRST_INSTRUCTION_CONTINUITY: RULE 0 FIRST was already an instruction at80; qualify the fuller note and keep the reader's saved maps in the foreground."
+  },
+  {
+    "ids": [
+      "page104.block03",
+      "page104.block04",
+      "page104.block05",
+      "page104.block06",
+      "page104.block07",
+      "page104.block08",
+      "page104.block09",
+      "page104.block10"
+    ],
+    "before": "By morning, the repaired note is safe on the Case Wall.\nAt Sound Lab, the shelves need their proper contents back.\nThree nearly identical instrument cases have been returned to the wrong shelves after\nrehearsal.\nZara is the last reliable placement before the shelves changed.\nHer room companion saw the cases before the mix-up. Find that person so Sound Lab has one\nclean witness to the original shelf order - and keep the complete map.\nMimi brings the file within your reach. \"Let us put these back properly.\"\n",
+    "after": "By morning, the repaired note is safe on the Case Wall. At Sound Lab, at least one problem can be put back on a shelf.\n\nThree nearly identical instrument cases have been returned to the wrong shelves after rehearsal. Zara's location is the last certain point before the mix-up. One person shared her room and saw the cases before they were moved.\n\nFind that person so Sound Lab can check the original shelf order. Keep the complete map too.\n\nMimi turns the file so you can read it.\n\"Shall we start with where they were meant to be?\"\n",
+    "issue": "CASE22_LOCAL_VOICE: another handoff query needs its own shelf/contents problem and natural reader-facing handoff."
+  },
+  {
+    "ids": [
+      "page108.block14",
+      "page108.block15",
+      "page108.block16",
+      "page108.block17"
+    ],
+    "before": "Dilo checks the arcade scoreboard.\n\"Unrelated,\" Luli says.\n\"I haven't said anything.\"\n\"You were about to.\"\n",
+    "after": "Dilo glances at the arcade scoreboard. Luli opens the wristband file where he can see it.\n",
+    "issue": "CASE23_DUPLICATE_JOKE: one visual setup here; deliver the full scoreboard exchange at109."
+  },
+  {
+    "ids": [
+      "page116.block03"
+    ],
+    "before": "The muddy trail ends at the West Gate with no backwards walker and one useful reminder: the\nloudest-looking clue is not always the one that matters.\n",
+    "after": "The trail ends at the West Gate. Nobody walked backwards. Alio puts a small question mark beside the tread arrow on his tracking sheet. It was very sure of itself for something that pointed the wrong way.\n",
+    "issue": "CASE24_MORAL_TAIL: carry Alio's observation into a human image instead of spelling out a general reminder."
+  },
+  {
+    "ids": [
+      "page116.block11",
+      "page116.block12"
+    ],
+    "before": "Bibi reads the return label twice.\nThis time, she does not say what she is thinking.\n",
+    "after": "Bibi reads ARCHIVE RESTORATION twice.\n\"If it belongs in the archive, let's find out who was meant to receive it.\"\n",
+    "issue": "CASE25_WITHHELD_THOUGHT: Bibi should share the ordinary question raised by the visible label, not imply she is withholding an answer."
+  },
+  {
+    "ids": [
+      "page120.block16"
+    ],
+    "before": "Same evidence. Very different methodology.\nAnd the parcel finally delivered something\nuseful instead of confusion.\n",
+    "after": "Two reasons to keep the maps. Yours is very you.\nUseful evidence and an excellent stack. Let him have both.\n",
+    "issue": "BRIDGE_COMMS_WARMTH: replace methodology verdict with sibling recognition and Bibi backing Dilo's useful filing."
+  },
+  {
+    "ids": [
+      "page120.block17"
+    ],
+    "before": "The Case Wall is finally earning its wall space.\n",
+    "after": "Then let me have some table. My elbow has become a paperweight.\n",
+    "issue": "BRIDGE_COMMS_PAYOFF: end at the crowded family table, rather than a general wall-space observation."
+  },
+  {
+    "ids": [
+      "page128.block07"
+    ],
+    "before": "On the old-plan margin is a second instruction:\n",
+    "after": "The old plan has its own instruction in the margin:\n",
+    "issue": "INSTRUCTION_COUNT: the margin is another instruction, not literally the second after both photograph and torn note."
+  },
+  {
+    "ids": [
+      "page128.block13"
+    ],
+    "before": "This close to the end, one exciting assumption could send all this careful work in the wrong direction.\n",
+    "after": "Mimi puts the old plan beside the tracking-yard file. The wall can wait until the team has checked what it thinks it knows.\n",
+    "issue": "CASE28_MORAL_TAIL: use the already-open evidence files and waiting wall to embody the need to test the exciting idea."
+  },
+  {
+    "ids": [
+      "page140.block08"
+    ],
+    "before": "\"Evidence first.\"\n",
+    "after": "\"Not yet.\"\n",
+    "issue": "VICTORY_NOISE_CALLBACK: a simple family signal pays off the pending noise without restating the book's maxim at the reveal."
+  },
+  {
+    "ids": [
+      "page141.block16"
+    ],
+    "before": "The cases were real. The old route could flag\na current record that matched one of its\nunfinished training steps, then reopen\narchived material when a verified step\nunlocked it.\n",
+    "after": "The cases were real. The route could match a current case record to an unfinished training step. When we verified that step, it could reopen the archive material for the next one.\n",
+    "issue": "FINALE_MECHANISM_CLARITY: retain real cases, matching and conditional archive reopening in shorter natural clauses."
+  },
+  {
+    "ids": [
+      "page143.block09"
+    ],
+    "before": "Only you could earn the place.\n",
+    "after": "Only you could earn the field badge.\n",
+    "issue": "BELONGING_VS_CERTIFICATION: what the work earns is the field badge; the reader already has a place at the family table."
+  },
+  {
+    "ids": [
+      "page143.block21"
+    ],
+    "before": "But nobody could fill it for you.\n",
+    "after": "And you have the evidence to fill it.\n",
+    "issue": "FINALE_REPEATED_NEGATION: recognition of the reader's retained evidence replaces a third statement that nobody can fill the place for them."
+  },
+  {
+    "ids": [
+      "page144.block04"
+    ],
+    "before": "“There was a place waiting,” she says. “But the Academy could not fill it for you.”\n",
+    "after": "\"For your field badge,\" Bibi says, keeping the hook turned towards you.\n",
+    "issue": "FINALE_HUMAN_BEAT: keep the empty hook visible instead of explaining the invitation again."
+  },
+  {
+    "ids": [
+      "page144.block06"
+    ],
+    "before": "“You did that part.”\n",
+    "after": "\"We saved the hook. You did the work.\"\n",
+    "issue": "FINALE_PAYOFF: warm, concrete acknowledgement of reader work and the place the family kept."
+  },
+  {
+    "ids": [
+      "page108.block13"
+    ],
+    "before": "Jude is the last place where a person and a location still line up in the log. Solve that area and\nhis companion becomes the anchor point the desk needs before the wristband trails split in\ntwo directions.\n",
+    "after": "The log fixes Jude's location. One other person shared that area. Find them so the return desk can ask where the two wristband trails crossed.\n",
+    "issue": "R1_NATIVE_MEANING: Jude is a person, not a place; make known location, companion and next witness question concrete."
+  },
+  {
+    "ids": [
+      "page212.block12"
+    ],
+    "before": "For the first time, the larger mystery gives the team an instruction instead of another pattern to notice.\n",
+    "after": "The repaired note gives the team a fuller instruction than RULE 0 FIRST. They still need to work out what it asks them to examine.\n",
+    "issue": "R1_CHRONOLOGY: the earlier photograph already carried RULE 0 FIRST. This nonmechanic summary must call the repaired note a fuller instruction; all answer and physical-join text remains exact."
+  }
+]

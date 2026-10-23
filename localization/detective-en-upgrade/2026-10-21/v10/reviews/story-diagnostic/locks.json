@@ -1,0 +1,931 @@
+{
+  "reviewer": "/root/hm10_story_guard",
+  "stage": "story_diagnostic",
+  "status": "CONSTRAINTS_COMPLETE__CANDIDATE_NOT_YET_REVIEWED",
+  "review_scope": "Actual read of all34 source scene contexts including30 case introductions and playable task neighbors; full baseline finale140–147; inheritedV9 meaning locks consulted. Unchanged puzzles not re-solved.",
+  "source_scenes_sha256": "b45472bdea1d09b28e846ff957fd4de3b85dc8fbf9f31e0329f1f6e314561998",
+  "context_packet_sha256": "982f37ffd49953e6c2c14605c75e6e80b331e8654d5b1979d295c0e0f8494843",
+  "baseline_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "baseline_reader_sha256": "eb17a4babf5861e609d359a839ff35c9f088f392c7e76f9ea3e494c7d0077969",
+  "inherited_meaning_locks_sha256": "2539546844f4c3fd63c45cd589b5c9988879ea3b6db7e024420b9c60f3e9f5b7",
+  "scenes_reviewed": 34,
+  "turns_reviewed": 183,
+  "allowlist_units": 220,
+  "partial_unit_lock": {
+    "id": "page137.block08",
+    "protected_prefix": "already proved.\n\n",
+    "protected_prefix_sha256": "5c89ec026ac0186446a7a74cd25659af1602bd5e90813d600dc98d538632d03c"
+  },
+  "global_invariants": [
+    "All V8 non-Comms segmentbytes unchanged; all3067stableIDs retained.",
+    "Existing183turns,34sceneidentities andspeakerorder retained.",
+    "Only220allowlistedIDs may change, with137block08narrativeprefix additionallyprotected.",
+    "All90hints,30solutions,16maps/witnessboards andallV8logicrepairs unchanged.",
+    "Exactlyfourplain0records; fourteen extractionmaps excludeCase01; no newclues/solutions.",
+    "Bibi currenthat isbesidephotobox, never evidencedbyhatinactualphoto.",
+    "Dilo learns carefulhandling; joke atmistake maynotundoCase21supportandfinalcarearc.",
+    "Final4inputs andchosenCallSignunmodified; routing matches/routes/verifiesrealcases, cannotcreateorsolvethem."
+  ],
+  "editorial_boundary": "Invent harmless family history and let comic exchanges be comic. No demand that every joke redirects to task or restates rules. Do not invent case evidence, pre-answer a task, change instructions or promise a stronger result than task supplies. ExistingV9 comms style is not golden.",
+  "scenes": [
+    {
+      "scene_id": "INTRO07",
+      "folios": [
+        7
+      ],
+      "speaker_order": [
+        "MIMI",
+        "LULI",
+        "DILO"
+      ],
+      "context_folios_actually_read": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "known_at_scene": "Family roles and phone habit established.",
+      "unknown_at_scene": "Phone is not yet recovered; credential/call sign not yet selected.",
+      "rewrite_watchpoint": "Character self-own and family response may be funny without a solve prompt.",
+      "inherited_truth": "Mimi is mother/captain; Luli older sister/analyst; Dilo code-tech child. Phone misplacement and beeps are character habits, not a new case.",
+      "inherited_boundary": "Do not discover the missing phone early or promise Dilo can unlock any device; the actual phone recovery belongs to Case11.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "folios": [
+        12
+      ],
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "BIBI",
+        "MIMI"
+      ],
+      "context_folios_actually_read": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "known_at_scene": "Four wall zones and optional hint/help practice printed.",
+      "unknown_at_scene": "Larger route is not understood.",
+      "rewrite_watchpoint": "Do not turn invented shelving or theory furniture into reader apparatus.",
+      "inherited_truth": "Wall has four named record zones; only explicitly instructed items are copied. Question marks distinguish unproved ideas. Hint use/help/pauses are allowed.",
+      "inherited_boundary": "Do not make every theory a mandatory copied field, add a cushion/shelf as real required apparatus, or imply using hints invalidates detective work.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE01",
+      "folios": [
+        16
+      ],
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "context_folios_actually_read": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "known_at_scene": "Internal-stock envelope, four helpers, no outside delivery.",
+      "unknown_at_scene": "Delivery occupant/coordinate is for reader to deduce.",
+      "rewrite_watchpoint": "A tunnel/vehicle may be explicitly fanciful, never an observed clue.",
+      "inherited_truth": "No courier/no outside delivery; identify Delivery occupant from four visiting helpers. Alio tunnel/minivan is clearly unproved fantasy.",
+      "inherited_boundary": "Do not imply a real vehicle, secret tunnel, courier or outside delivery caused the envelope; do not reveal the helper or coordinate.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE02",
+      "folios": [
+        19
+      ],
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "NINI"
+      ],
+      "context_folios_actually_read": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "known_at_scene": "Cup physically returned, blank return sheet, Max known in checkpoint.",
+      "unknown_at_scene": "Room companion and return timing/handoff are not yet established.",
+      "rewrite_watchpoint": "Do not promise map proves who returned Cup; Cup movement comedy stays metaphorical.",
+      "inherited_truth": "The current objective is Max's only room companion and coordinate, a witness lead; not a thief verdict. The Cup is physically back. Second plain0 sighting, not yet explained.",
+      "inherited_boundary": "Keep posture/animate-Cup comedy metaphorical. Do not promise the map alone identifies the carrier, exact return time or culprit.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE03",
+      "folios": [
+        23
+      ],
+      "speaker_order": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI"
+      ],
+      "context_folios_actually_read": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "known_at_scene": "Dax saw Cup already back; two reference copies disagree; ten differences needed.",
+      "unknown_at_scene": "Neither photo record assignment nor 017/071 mismatch is yet stated at this scene.",
+      "rewrite_watchpoint": "No old/current labels, highlighted number clue or invented eleventh difference.",
+      "inherited_truth": "Ten differences; labels PhotoA/PhotoB only on evidence surfaces. Both reference copies purport to show the same check; actual017/071 mismatch not exposed early.",
+      "inherited_boundary": "Do not identify either picture as older/current, foreground the number mismatch, add glitter as an eleventh actual difference, or narrow search to the trophy shelf alone.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE04",
+      "folios": [
+        27
+      ],
+      "speaker_order": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ],
+      "context_folios_actually_read": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "known_at_scene": "017 current/071 old resolved; Cup returned normally; sealed evidence box wrongly in Pickup Tent.",
+      "unknown_at_scene": "Pixel room companion and missing handoff still to determine.",
+      "rewrite_watchpoint": "No Zuri answer, actual carrier identification or supernatural box behavior as fact.",
+      "inherited_truth": "Box sealed/contentssafe; Pixel is last confirmed transfer-record person; find her only same-tent companion as interview lead. Third plain0 sighting.",
+      "inherited_boundary": "Original no-interrogating-box/professional-stare can be restored. Do not supply Zuri, invent box movement, identify actual carrier, claim the gap is already solved or undo V8 lead-only promise.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE05",
+      "folios": [
+        31
+      ],
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "context_folios_actually_read": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "known_at_scene": "Zuri account corrected prior record; dormant locker woke after verified file; sealed envelope inside.",
+      "unknown_at_scene": "Six-symbol order and old routing purpose unknown.",
+      "rewrite_watchpoint": "Competition need not recap rules; never implies bypass, altered clues or Dilo created locker.",
+      "inherited_truth": "One unique six-symbol order; each symbolonce; allprintedclues simultaneouslytrue. Sealed Academyenvelopebehindpanel. Dilo is competingmetaphorically, not alteringrules.",
+      "inherited_boundary": "No123456 attempt, hints to codepositions, brute-forceclaimsornewtechbypass. Do not revealBALL–STAR–BOLT–HEART–KEY–MOON.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "THREAD34",
+      "folios": [
+        34,
+        35
+      ],
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ],
+      "context_folios_actually_read": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "known_at_scene": "Code accepted; route incomplete; exactly four marked records; unmarked Look-Twice photos retained.",
+      "unknown_at_scene": "Meaning, author and purpose of old route unknown.",
+      "rewrite_watchpoint": "Printer complaints can be comic anthropomorphism; not evidence of sentience/case creation.",
+      "inherited_truth": "Exactlyfourcontrolledplain0records: blackenvelopeintake,TrophyHalltag,OpenNightevidencelabel,lockerroutingcard. LookTwice routedbutnotmarked. STATUS:INCOMPLETE. Bibi takesreferences toarchive.",
+      "inherited_boundary": "Do not countphotosasfifthmark, explainrouteauthor/functionearly, turnprinterintosentientcasecreator, or implyoldroutealreadyunderstood. Keep34/35fourturnspeakersplit.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE06",
+      "folios": [
+        37
+      ],
+      "speaker_order": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI"
+      ],
+      "context_folios_actually_read": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "known_at_scene": "071 older Heritage trail; display label says tooth, actual item Roman spoon.",
+      "unknown_at_scene": "Object versus label movement unknown; Uma companion is reader task.",
+      "rewrite_watchpoint": "Dragon cook may be imaginary family play, never new ancient-history evidence.",
+      "inherited_truth": "ActualobjectisRomanSpoon; label/objectdisagree; object-vs-labelmovementnotyetknown. Uma'ssameroomcontactisobjective.",
+      "inherited_boundary": "Dragoncook/soupfantasyclearlyjoke. Do not claimtherewasaactualdragontooth,theft,identifiedmoverorcrime; Bibi's71trailreferenceisalreadyestablishedandrestorablesafely.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE07",
+      "folios": [
+        41
+      ],
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ],
+      "context_folios_actually_read": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "known_at_scene": "Arlo resolved spoon label issue; giant moon costume absent at last inventory.",
+      "unknown_at_scene": "Companion and costume location unknown; prop room discovery belongs later.",
+      "rewrite_watchpoint": "Cupboard activity must not silently solve disappearance.",
+      "inherited_truth": "Grayinventorysnapshotgiveswitnesslead; mooncostumeisgiant. Itswhereaboutsnotyetfound; Zoe laternarrowswindowthenroutecasefindsprop-room.",
+      "inherited_boundary": "Do not makecupboardsearchactuallyfindcostume, revealprop-roomnow, or turnwitnessleadintothief.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE08",
+      "folios": [
+        45
+      ],
+      "speaker_order": [
+        "ALIO",
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "DILO"
+      ],
+      "context_folios_actually_read": [
+        "44",
+        "45",
+        "46",
+        "47",
+        "48"
+      ],
+      "known_at_scene": "Zoe only narrowed missing window; three possible routes drawn.",
+      "unknown_at_scene": "Only valid permitted route and costume location remain to find.",
+      "rewrite_watchpoint": "No new pass/door permission/tunnel/wait option; fixed closed/locked routes remain unusable.",
+      "inherited_truth": "Onlyonepermittedroute; closedPaintCorridorandlockedStaffStairsunusable; nowaiting. Neitherbuildingnorwallcanbemoved/unlockedbyjoke.",
+      "inherited_boundary": "Load-bearing-walljokeisoriginalandvalid. Do notintroduceanactualshortcut,tunnel,staffpassorpermissionthatmakesanotherroutework.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE09",
+      "folios": [
+        49
+      ],
+      "speaker_order": [
+        "DILO",
+        "BIBI",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "ALIO"
+      ],
+      "context_folios_actually_read": [
+        "48",
+        "49",
+        "50",
+        "51",
+        "52"
+      ],
+      "known_at_scene": "Costume found in prop room; four saved records ready for context-and-shape classification.",
+      "unknown_at_scene": "Bibi has uncertain memory, not verified meaning or author.",
+      "rewrite_watchpoint": "Harmless cake memory banter may differ from case evidence; no fifth mark.",
+      "inherited_truth": "MatchshapeANDrecordcontext. Ordinarycircles/dialsnottrueAcademymarks. Bibi recognizesbutnotknows untilverified.",
+      "inherited_boundary": "No memoryasproof, no additionalplain0mark, noauthor/revealspoiler. Cake/incorrectmemoryjokesmayremainobviouslyjokes, notnew evidence.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE10",
+      "folios": [
+        53
+      ],
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ],
+      "context_folios_actually_read": [
+        "52",
+        "53",
+        "54",
+        "55",
+        "56"
+      ],
+      "known_at_scene": "Fair rover claimed by two legitimate-looking sheets; Dash location fixed.",
+      "unknown_at_scene": "Witness, duplicate demo record and correct team are not yet established.",
+      "rewrite_watchpoint": "Cable joke cannot supply third genuine owner or dismantling clue.",
+      "inherited_truth": "Onelegitimateactualaccessrecordmustbechecked; Dash'scontactandcoordinateobjective. Ownershippapercontradictionnotyetexplained.",
+      "inherited_boundary": "Do notsplitrobotphysically,givenewthirdrealowner, or revealduplicatedemosheet/correctteam. Cablethirdownerisclearcomicmetaphor.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE11",
+      "folios": [
+        57
+      ],
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "MIMI",
+        "DILO",
+        "MIMI"
+      ],
+      "context_folios_actually_read": [
+        "56",
+        "57",
+        "58",
+        "59",
+        "60"
+      ],
+      "known_at_scene": "Duplicate demo record already removed; phone found beside bag items; fair window15:20–16:05.",
+      "unknown_at_scene": "Wrong timestamp A–D is reader task.",
+      "rewrite_watchpoint": "Family food/phone teasing is safe; do not make breakfast part of timestamp evidence.",
+      "inherited_truth": "Phoneisnowfound; caseobjectiveistimestampoutside15:20–16:05. OnlyA–Dtimestampedrecordsused. Breakfastisnotactuallyculpable.",
+      "inherited_boundary": "Undercoveroatbarjokeoriginalsafe. Do notchangetimewindow, revealwrongrecord, removephonealreadyfoundorhintsasfail.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE12",
+      "folios": [
+        61
+      ],
+      "speaker_order": [
+        "DILO",
+        "NINI",
+        "DILO",
+        "NINI",
+        "DILO"
+      ],
+      "context_folios_actually_read": [
+        "60",
+        "61",
+        "62",
+        "63",
+        "64"
+      ],
+      "known_at_scene": "Parrot repeats four words sounding like access phrase; animal-care team at theater.",
+      "unknown_at_scene": "Source of phrase and Winter companion unknown.",
+      "rewrite_watchpoint": "Cracker/snack interview comedy does not reveal true phrase or ordinary stage cue.",
+      "inherited_truth": "Winter'ssameareacontactobjective. Parrotsnackrequestiscomic; animal-careteam/handlerpresent. Passwordsourceunprovedatthismoment.",
+      "inherited_boundary": "Do notrevealordinaryrehearsalcueyetoractualphrase; noforcedbirdhandling/feedingwithoutanimalhandler. Do notequatecrackerwordwithtruefour-wordpassword.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE13",
+      "folios": [
+        65
+      ],
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "LULI"
+      ],
+      "context_folios_actually_read": [
+        "64",
+        "65",
+        "66",
+        "67",
+        "68"
+      ],
+      "known_at_scene": "Stage cue explained parrot; camera blurry frame4:17 and moved position; Remy signed setup sheet.",
+      "unknown_at_scene": "When movement occurred and companion remain unknown.",
+      "rewrite_watchpoint": "Fox fantasy not forensic explanation; strap exists but gives no added clue.",
+      "inherited_truth": "Remysignedmaintenancesheet; findhumanroomcompaniontotimemove. Camera hasstrap; foxwithpocketsisunprovedmargintheorywithquestionmark.",
+      "inherited_boundary": "Nofoxiscaught/noactualanimalsuspectevidence; donotrevealcleanupaftermove/timingyetorletstrapjokeaddforensicclue.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE14",
+      "folios": [
+        69
+      ],
+      "speaker_order": [
+        "DILO",
+        "NINI",
+        "LULI",
+        "MIMI",
+        "ALIO",
+        "LULI"
+      ],
+      "context_folios_actually_read": [
+        "68",
+        "69",
+        "70",
+        "71",
+        "72"
+      ],
+      "known_at_scene": "Camera cleanup-after-photo resolved; four theater memories tested by printed2min edges.",
+      "unknown_at_scene": "Which journey impossible remains unknown; mistake is not guilt.",
+      "rewrite_watchpoint": "Family lunch/book anecdote fine; no alternate speed or hidden shortcut.",
+      "inherited_truth": "A mistakenmemory, notnecessarilyliar/guilt. Eachprintededge2min; noaddedshortcuts. Count/testjourneys, notconfidence.",
+      "inherited_boundary": "Restoretestjourneybeforepersonifuseful. Do notrevealwhichstatementorintroducewalking-speedchange/shortcut. Lunchbooksanecdoteisfinecharacterhistory, notcaseevidence.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE15",
+      "folios": [
+        73
+      ],
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "ALIO"
+      ],
+      "context_folios_actually_read": [
+        "72",
+        "73",
+        "74",
+        "75",
+        "76"
+      ],
+      "known_at_scene": "Previous journey error innocent; pre-dawn field trip and helpful backpack swaps.",
+      "unknown_at_scene": "Milo companion and actual ownership chronology remain unknown.",
+      "rewrite_watchpoint": "Future labels/GPS jokes do not create existing tags or live tracker evidence.",
+      "inherited_truth": "Milo'sonlyroomcompanionhaspre-swapobservation; readablelabelsarefutureprevention,notcurrentevidence. Bluezipdoesnotproveownership.",
+      "inherited_boundary": "Do notmakeGPSlive/currentoraddtagsalreadyonbagsthatsettleownership; donotrevealmoverorwitness. Name-tagvssatellitejokesokay.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE16",
+      "folios": [
+        77
+      ],
+      "speaker_order": [
+        "ALIO",
+        "BIBI",
+        "MIMI",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "context_folios_actually_read": [
+        "76",
+        "77",
+        "78",
+        "79",
+        "80"
+      ],
+      "known_at_scene": "Bibi current hat lies beside box; photo shows6 children incl Bibi; she recalls people and own handwriting uncertainly.",
+      "unknown_at_scene": "Building/year still require dated clues; back note not yet admissible/read.",
+      "rewrite_watchpoint": "Never imply current hat pictured or dates photograph; no Old Annex/year/RULE0FIRST answer.",
+      "inherited_truth": "Photographshows6children,oneBibi; actualphoto hasNOhat. Currentwidebrimhatbesideboxisjokereferent. Building/yearfromdatedprintedclues,notmemory/clothing.",
+      "inherited_boundary": "Critical: do notsaythehatisshowninthephotographorwasworninthatsameyear. Defendcurrenthat/architecture; dateadmissibilityjokeokay. Donotrevealbuilding/year/RULE0FIRSTbeforefollowingpages.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE17",
+      "folios": [
+        83
+      ],
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "context_folios_actually_read": [
+        "82",
+        "83",
+        "84",
+        "85",
+        "86"
+      ],
+      "known_at_scene": "Photo established Old Academy Annex; RULE0FIRST now available; ticket changed hands without reported loss.",
+      "unknown_at_scene": "Reed companion and handoff intent not yet verified.",
+      "rewrite_watchpoint": "Same helmet can acquire a comic job, not new route authority or ticket evidence.",
+      "inherited_truth": "Specialopen-dayticketchangedhands,noreportedloss. Reed'scontactcanexplainhandoff. Alio'ssamehelmetisanongoingprop.",
+      "inherited_boundary": "Helmetdepartment/travelpointsmetaphorokay; noextraequipmentclue, noactualticket-owneranswer, no claimticketstolen.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE18",
+      "folios": [
+        87
+      ],
+      "speaker_order": [
+        "MIMI",
+        "DILO",
+        "NINI",
+        "DILO",
+        "LULI"
+      ],
+      "context_folios_actually_read": [
+        "86",
+        "87",
+        "88",
+        "89",
+        "90"
+      ],
+      "known_at_scene": "Axel confirms deliberate ticket handoff;3 clocks with cafe7slow/watch2fast/camera real.",
+      "unknown_at_scene": "Correct event order and apparent gap explanation require conversion.",
+      "rewrite_watchpoint": "Dilo accepts correction; no new offsets or0:07 recurring mark.",
+      "inherited_truth": "Cafe7slow; DiloWatch2fast; Stationcamera realtime. Normalizeallclockstogetchronology. 0:07notarecurringplain0mark.",
+      "inherited_boundary": "Watchwrongnessmayacknowledgetwofastasprintedbutavoidnewoffsets, reset-before-recordingclaimsorchronologyanswer. PreserveDilowillingnesstocorrectrecord.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE19",
+      "folios": [
+        91
+      ],
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "context_folios_actually_read": [
+        "90",
+        "91",
+        "92",
+        "93",
+        "94"
+      ],
+      "known_at_scene": "Clock gap dissolved; Dilo crossed it off voluntarily; book remains on shelf despite checkout log.",
+      "unknown_at_scene": "Scanner bump cause and Sasha companion unknown.",
+      "rewrite_watchpoint": "Digital ghost imaginary; growth means he checks before asserting.",
+      "inherited_truth": "Sasha'ssameareacontactobjective. Digitalghostunprovedjoke. Correctedclockepisodehasclosedand0:07demoted.",
+      "inherited_boundary": "Do notrevealscannerbump/cartcauseorpretendghostreal; noartificialnewtechabilitythatbypassesmap.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE20",
+      "folios": [
+        95
+      ],
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "DILO",
+        "MIMI",
+        "NINI"
+      ],
+      "context_folios_actually_read": [
+        "94",
+        "95",
+        "96",
+        "97",
+        "98"
+      ],
+      "known_at_scene": "Mack resolved cart/scanner cause; wet cockpit panel moved; Demi log fixed.",
+      "unknown_at_scene": "Companion and relative timing of two accounts not yet known.",
+      "rewrite_watchpoint": "Pear stays a paint resemblance, never a person/object map clue; maps retained.",
+      "inherited_truth": "Demi'ssameroomcontacttimingobjective; paintedpearjokeonpanelonly. Completefinalmapmustbekept.",
+      "inherited_boundary": "Do notmakepearactualobject/NPC/mapposition, orrevealtwoaccountsaretrueatdifferenttimesbeforePaxconfirms.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE21",
+      "folios": [
+        99
+      ],
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI",
+        "DILO"
+      ],
+      "context_folios_actually_read": [
+        "98",
+        "99",
+        "100",
+        "101",
+        "102"
+      ],
+      "known_at_scene": "Brittle note torn into4 after Dilo hurried; family quietly supports repair.",
+      "unknown_at_scene": "Joins, full instruction, meaning and author unverified; Bibi only suspects familiar hand.",
+      "rewrite_watchpoint": "No humiliation punchline, force-by-grammar joins, author reveal or premature instruction. Warm humor compatible with care.",
+      "inherited_truth": "Fourpiecesallusedonce; tearedgesfirst,sentenceconfirmationsecond. Bibi handwritingpossiblyfamiliarbutnotyetconfirmed. Dilohelpsrepair, futurecaregrowthretained.",
+      "inherited_boundary": "No punchlineblamingDilo/vanishedsupport, noedgerearrangementbyguessinggrammar, noactualinstructionorBibiauthorrevealbeforephysicalsolve. Sleevekeepwritingvisibleisvalid.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE22",
+      "folios": [
+        105
+      ],
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "DILO"
+      ],
+      "context_folios_actually_read": [
+        "104",
+        "105",
+        "106",
+        "107",
+        "108"
+      ],
+      "known_at_scene": "Repaired note safely on wall;3 instrument cases returned to wrong shelves.",
+      "unknown_at_scene": "Zara companion and original shelf order need testimony.",
+      "rewrite_watchpoint": "Renaming/witness protection jokes not new labels sufficient to solve case.",
+      "inherited_truth": "Wrongreturnedshelvesafterrehearsal; Zara'scontactidentifiesoriginalshelforder; mapretained. Labelsnotreliablycaseplacementproofalone.",
+      "inherited_boundary": "Witnessprotectionmetaphorokay; noextraidentityclueonactuallabels, no names/contentsof3casesinventedasrequiredpuzzleevidence.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE23",
+      "folios": [
+        109
+      ],
+      "speaker_order": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ],
+      "context_folios_actually_read": [
+        "108",
+        "109",
+        "110",
+        "111",
+        "112"
+      ],
+      "known_at_scene": "Cody placed instrument error in return rush;2 wristbands final destinations known.",
+      "unknown_at_scene": "Jude companion/missing handoff remain unknown.",
+      "rewrite_watchpoint": "Map finds witness, never actual switcher/carrier. Scoreboard joke can stay personal and brief.",
+      "inherited_truth": "Oneclimbing,onearcadewristband; bothfinaldestinationsalreadyknown. Jude'sroomcontactisnextwitnesslead. Scoreboardcompetitioncomicdistractor.",
+      "inherited_boundary": "Do notpromise mapidentifiesactualswitcher/carrierorwhichpersonusedclimbing; no inventedracebet/scorethatbecomesadditionalpuzzlefact.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE24",
+      "folios": [
+        113
+      ],
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "LULI",
+        "MIMI",
+        "ALIO"
+      ],
+      "context_folios_actually_read": [
+        "112",
+        "113",
+        "114",
+        "115",
+        "116"
+      ],
+      "known_at_scene": "Park wristband handoff now clean; muddy single trail with decorative tread arrow.",
+      "unknown_at_scene": "True direction/end still for reader.",
+      "rewrite_watchpoint": "No West Gate early, second walker, fresh mud or arrow-as-proof. Alio voluntarily slows down.",
+      "inherited_truth": "Oneuninterruptedwalk,nofreshmud; transferstrongestfirstthenfades. Arrowdecorative,notdirectionevidence. TrueWestGateendnotyetrevealed.",
+      "inherited_boundary": "Mudexplainssourceoriginalsafeasmethodnudgebutdonotrevealwestgate,direction,alterarrowdecorativeruleoraddsecondwalker.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE25",
+      "folios": [
+        117
+      ],
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "DILO",
+        "ALIO",
+        "MIMI"
+      ],
+      "context_folios_actually_read": [
+        "116",
+        "117",
+        "118",
+        "119",
+        "120"
+      ],
+      "known_at_scene": "West Gate result known; parcel no addressee, Archive Restoration return label; Nori last trusted record.",
+      "unknown_at_scene": "Companion, handoff destination and sealed contents not known yet.",
+      "rewrite_watchpoint": "Do not open parcel or reveal sleeves/clips before Reception checks on120.",
+      "inherited_truth": "Norilasttrustedrecord; hiscompanionnextinterviewlead. Actualcontentssealed/unseenuntilReceptionopenslater.",
+      "inherited_boundary": "No earlyoverlaysleeve/clipreveal, noactualdeliveryrecipientclaimnotsourced. Biscuitsforfamily,notreallyinsideparcel; theycanjokeaboutlunchwithoutmoving/openingparcel.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "THREAD120",
+      "folios": [
+        120
+      ],
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "MIMI"
+      ],
+      "context_folios_actually_read": [
+        "119",
+        "120",
+        "121",
+        "122",
+        "123"
+      ],
+      "known_at_scene": "Casey identifies return; Reception opened parcel; sleeves/clips to Bibi; system selected14files.",
+      "unknown_at_scene": "Empty-room instruction extraction not solved yet.",
+      "rewrite_watchpoint": "Case01 stays recruitment file; stack banter does not change exact selected set/order.",
+      "inherited_truth": "ArchiveRestorationtoolsborrowedlongagoreturntoBibi. Fourteenfilesexactsystemlist; Case01trainingmapNOTselected. NinihasCase21savednote.",
+      "inherited_boundary": "Do nottreatall16mapsasextractionset, changeselectedcountorreadmessagebeforeCase26solve. Stackjokeokay; noerase/cut/reshufflemethodcontrarycaseorder.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE26",
+      "folios": [
+        121
+      ],
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "MIMI",
+        "BIBI"
+      ],
+      "context_folios_actually_read": [
+        "120",
+        "121",
+        "122",
+        "123",
+        "124"
+      ],
+      "known_at_scene": "Note plus14completed maps point to empty spaces; retained placements fixed.",
+      "unknown_at_scene": "Instruction from eligible empty-room initials still unread.",
+      "rewrite_watchpoint": "No CHECKTHEOLDMAP early; room/zone key fixed; nobody metaphor not additional witness.",
+      "inherited_truth": "People/rooms/emptyspacesunchanged; eachnamedeligibleemptyroom, excludedzonesperV8key, initialsincaseorder. No additionalmapadded.",
+      "inherited_boundary": "Nobody/emptybedroomjokesnotnewpersonorphysicalemptyroomevidence. Do notrevealCHECKTHEOLDMAPorimplyanyemptyzonecounts. V8room-zonekeyand14rowanswertraceprotected.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE27",
+      "folios": [
+        125
+      ],
+      "speaker_order": [
+        "BIBI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "context_folios_actually_read": [
+        "124",
+        "125",
+        "126",
+        "127",
+        "128"
+      ],
+      "known_at_scene": "CHECKTHEOLDMAP now earned; sleeves available; old/modern plans share3landmarks.",
+      "unknown_at_scene": "Sealed room location for reader after alignment.",
+      "rewrite_watchpoint": "One hovering finger joke does not replace3anchors; scale/orientation unchanged, no cutting/folding required.",
+      "inherited_truth": "Sameorientation/scale; NorthStair,CourtyardColumn,WestLiftShaftallanchorcomparison. Cansolveprintedpagewithoutcutting/folding/physicaloverlay.",
+      "inherited_boundary": "Originalclean-hands/noheroicfoldingvalid. Do not implyonly1landmarksuffices,actualfold/cut/rotationneeded, permissiontopointisnecessarymechanic, orgivenosealed-roomcoordinate.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE28",
+      "folios": [
+        129
+      ],
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "BIBI"
+      ],
+      "context_folios_actually_read": [
+        "128",
+        "129",
+        "130",
+        "131",
+        "132"
+      ],
+      "known_at_scene": "Room behind Archive wall; RULEFIRSTROOMSECOND plusRULE0FIRST; muddy arrow counterexample known.",
+      "unknown_at_scene": "Missing rule word/full restored rule still for reader.",
+      "rewrite_watchpoint": "Decorative confidence is family joke, no tunnel proof or ASSUMPTIONS giveaway.",
+      "inherited_truth": "RULEFIRSTROOMSECONDandRULE0FIRSTalreadyknown; wallwaits. Factualclaimsvslinkedtheoryvsunsupportedassumption; tunnelstillunsupportedfantasy.",
+      "inherited_boundary": "No ASSUMPTIONSanswer/fullrestoredruleearly; donotframeunsupportedtunnelascertainfact or claimthearrowwastrue. Oldsquadexperienceanecdoteplausible, notauthorreveal.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE29",
+      "folios": [
+        133
+      ],
+      "speaker_order": [
+        "MIMI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI"
+      ],
+      "context_folios_actually_read": [
+        "132",
+        "133",
+        "134",
+        "135",
+        "136"
+      ],
+      "known_at_scene": "Full rule restored; rule is instruction not password; Seth fixed; map supplies access.",
+      "unknown_at_scene": "Companion/access coordinate still unknown here.",
+      "rewrite_watchpoint": "Unhurried support, no D3 answer or new location; quiet promise may be comic without pressure.",
+      "inherited_truth": "RuleZeroalreadyfullyrestored; notapassword. Sethfixedanchor, onlycompanionaccesscoordinateearnedbymap. Readerunhurried; teamhelpswithoutanswer.",
+      "inherited_boundary": "NoD3/personanswer orimaginedsecondvalidlocation. Dilo'squietpromisehypotheticalcomic,notchangetimelimit. No pressureagainsthelp/hints.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    },
+    {
+      "scene_id": "CASE30",
+      "folios": [
+        137
+      ],
+      "speaker_order": [
+        "MIMI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ],
+      "context_folios_actually_read": [
+        "136",
+        "137",
+        "138",
+        "139",
+        "140"
+      ],
+      "known_at_scene": "Saved rule word/access/code/chosen credential call sign;4empty fields; no new clue.",
+      "unknown_at_scene": "Checks unentered, panel shut; Bibi author/route function/training room/certification only140+.",
+      "rewrite_watchpoint": "Victory noise anticipatory. Protect narrative prefix. Do not promise new fifth task or input.",
+      "inherited_truth": "RULEWORD/ACCESS/CODE/CALLSIGN; no newclue orinventedanswer. Samecall signfromRecruitCredential. Doorstillclosedon137andnewroomrevealafter4checks.",
+      "inherited_boundary": "Protectpage137.block08narrativeprefix. Noanswernewhint,nofifthfield,noopen-door/routeauthor/sixthbadgeprematurereveal; victorynoiseanticipatednotcompletedbefore140/145.",
+      "status": "CONTEXT_REVIEWED__MEANING_LOCKED_COMMS_STYLE_OPEN"
+    }
+  ]
+}

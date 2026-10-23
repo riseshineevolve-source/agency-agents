@@ -1,0 +1,238 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "grid_sha256": "f6dd1e052e9fe074091d9c6f9738f1544c05c007681c7cff6176ff46fc461f54",
+  "case06": {
+    "orthogonal": {
+      "full_assignment_count": 1,
+      "answer_counts": {
+        "Arlo at D2": 1
+      },
+      "assignments": [
+        {
+          "Scout": "E3",
+          "Arlo": "D2",
+          "Hugo": "A6",
+          "Vale": "F5",
+          "Wren": "C4",
+          "Uma": "B1"
+        }
+      ],
+      "assignments_truncated": false,
+      "expected_is_among_results": true,
+      "unique_full_expected": true
+    },
+    "eight_neighbor": {
+      "full_assignment_count": 1,
+      "answer_counts": {
+        "Arlo at D2": 1
+      },
+      "assignments": [
+        {
+          "Scout": "E3",
+          "Arlo": "D2",
+          "Vale": "F5",
+          "Wren": "C4",
+          "Hugo": "A6",
+          "Uma": "B1"
+        }
+      ],
+      "assignments_truncated": false,
+      "expected_is_among_results": true,
+      "unique_full_expected": true
+    }
+  },
+  "case07": {
+    "unidentified_anchor_omitted_not_a_full_puzzle_check": {
+      "full_assignment_count": 10,
+      "answer_counts": {
+        "Willa at F4": 1,
+        "Willa at C6": 1,
+        "Zoe at C6": 2,
+        "Indigo at B1": 2,
+        "Rocket at E5": 2,
+        "Indigo at D2": 2
+      },
+      "assignments": [
+        {
+          "Rocket": "E5",
+          "Zoe": "B1",
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "F4",
+          "Gray": "C6"
+        },
+        {
+          "Rocket": "E5",
+          "Zoe": "B1",
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "C6",
+          "Gray": "F4"
+        },
+        {
+          "Rocket": "E5",
+          "Zoe": "C6",
+          "Blaze": "A3",
+          "Indigo": "B1",
+          "Willa": "D2",
+          "Gray": "F4"
+        },
+        {
+          "Rocket": "E5",
+          "Zoe": "C6",
+          "Blaze": "A3",
+          "Indigo": "B1",
+          "Willa": "F4",
+          "Gray": "D2"
+        },
+        {
+          "Rocket": "E5",
+          "Zoe": "C6",
+          "Blaze": "A3",
+          "Indigo": "B2",
+          "Willa": "F1",
+          "Gray": "D4"
+        },
+        {
+          "Rocket": "E5",
+          "Zoe": "C6",
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "B1",
+          "Gray": "F4"
+        },
+        {
+          "Rocket": "E5",
+          "Zoe": "C6",
+          "Blaze": "A3",
+          "Indigo": "D2",
+          "Willa": "F4",
+          "Gray": "B1"
+        },
+        {
+          "Rocket": "E5",
+          "Zoe": "C6",
+          "Blaze": "B3",
+          "Indigo": "A2",
+          "Willa": "F1",
+          "Gray": "D4"
+        },
+        {
+          "Rocket": "E5",
+          "Zoe": "C6",
+          "Blaze": "A4",
+          "Indigo": "B1",
+          "Willa": "F3",
+          "Gray": "D2"
+        },
+        {
+          "Rocket": "E5",
+          "Zoe": "C6",
+          "Blaze": "A4",
+          "Indigo": "D2",
+          "Willa": "F3",
+          "Gray": "B1"
+        }
+      ],
+      "assignments_truncated": false,
+      "expected_is_among_results": true,
+      "unique_full_expected": false
+    },
+    "conditional_anchors_not_source_validation": {
+      "D1": {
+        "full_assignment_count": 3,
+        "answer_counts": {
+          "Zoe at C6": 1,
+          "Rocket at E5": 2
+        },
+        "assignments": [
+          {
+            "Rocket": "E5",
+            "Willa": "B1",
+            "Zoe": "C6",
+            "Blaze": "A3",
+            "Indigo": "D2",
+            "Gray": "F4"
+          },
+          {
+            "Rocket": "E5",
+            "Willa": "F1",
+            "Zoe": "C6",
+            "Blaze": "A3",
+            "Indigo": "B2",
+            "Gray": "D4"
+          },
+          {
+            "Rocket": "E5",
+            "Willa": "F1",
+            "Zoe": "C6",
+            "Blaze": "B3",
+            "Indigo": "A2",
+            "Gray": "D4"
+          }
+        ],
+        "assignments_truncated": false,
+        "expected_is_among_results": true,
+        "unique_full_expected": false
+      },
+      "C2": {
+        "full_assignment_count": 1,
+        "answer_counts": {
+          "Zoe at C6": 1
+        },
+        "assignments": [
+          {
+            "Rocket": "E5",
+            "Willa": "B1",
+            "Zoe": "C6",
+            "Blaze": "A3",
+            "Indigo": "D2",
+            "Gray": "F4"
+          }
+        ],
+        "assignments_truncated": false,
+        "expected_is_among_results": true,
+        "unique_full_expected": true
+      },
+      "C1": {
+        "full_assignment_count": 1,
+        "answer_counts": {
+          "Zoe at C6": 1
+        },
+        "assignments": [
+          {
+            "Rocket": "E5",
+            "Willa": "D2",
+            "Zoe": "C6",
+            "Blaze": "A3",
+            "Indigo": "B1",
+            "Gray": "F4"
+          }
+        ],
+        "assignments_truncated": false,
+        "expected_is_among_results": false,
+        "unique_full_expected": false
+      },
+      "C4": {
+        "full_assignment_count": 1,
+        "answer_counts": {
+          "Willa at C6": 1
+        },
+        "assignments": [
+          {
+            "Rocket": "E5",
+            "Zoe": "B1",
+            "Blaze": "A3",
+            "Willa": "C6",
+            "Indigo": "D2",
+            "Gray": "F4"
+          }
+        ],
+        "assignments_truncated": false,
+        "expected_is_among_results": false,
+        "unique_full_expected": false
+      }
+    }
+  }
+}

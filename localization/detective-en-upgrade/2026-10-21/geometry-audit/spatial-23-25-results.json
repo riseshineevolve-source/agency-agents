@@ -1,0 +1,54 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "grid_sha256": "2df572ed08891fef2cf92e3baf73e588895f49328a79c38939c69e9990a279f5",
+  "solver_sha256": "5aab39cda8414506e3e33c54b4a766e5ea55dbf99deb5a91465544e526a15939",
+  "conventions": {
+    "grid_steps": "Manhattan distance row difference + column difference, not wall-constrained walking path",
+    "north_east_south_west": "Strict quadrant any distance, not necessarily equal coordinate differences",
+    "diagonally_next_to": "Exactly one row and one column apart",
+    "global": "Every witness once; different row and column; printed blocked squares excluded"
+  },
+  "cases": [
+    {
+      "case": 23,
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Vivi": "G7",
+          "Pia": "B2",
+          "Cora": "D1",
+          "Rae": "F6",
+          "Mae": "C5",
+          "Ozzy": "A3",
+          "Jude": "E4"
+        }
+      ],
+      "answers": {
+        "Rae at F6": 1
+      },
+      "search_nodes": 528,
+      "matches_expected_post_enumeration": true
+    },
+    {
+      "case": 25,
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Casey": "D5",
+          "Wynn": "B7",
+          "Tate": "C6",
+          "Gabe": "F3",
+          "Rio": "E2",
+          "Sol": "G1",
+          "Nori": "A4"
+        }
+      ],
+      "answers": {
+        "Casey at D5": 1
+      },
+      "search_nodes": 350,
+      "matches_expected_post_enumeration": true
+    }
+  ]
+}

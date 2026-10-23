@@ -1,0 +1,35 @@
+{
+  "status": "SAVED",
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "files": [
+    {
+      "local_path": "/workspace/scratch/e6eabdc4c3a0/detective-v7/proof/DETECTIVE_EN_V7_FULL_READING_PROOF.pdf",
+      "file_name": "DETECTIVE_EN_V7_FULL_READING_PROOF.pdf",
+      "library_file_id": "libfile_94471e8e05548191adec7eee0ccdf2e0",
+      "file_id": "file_00000000b50081f5aa7af3389654b0cc",
+      "path": "/DETECTIVE_EN_V7_FULL_READING_PROOF.pdf",
+      "current_version_number": 1
+    },
+    {
+      "local_path": "/workspace/scratch/e6eabdc4c3a0/detective-v7/proof/HM_COMMS_ORIGINAL_V6_V7_COMPARISON.pdf",
+      "file_name": "HM_COMMS_ORIGINAL_V6_V7_COMPARISON.pdf",
+      "library_file_id": "libfile_32596ac49ce8819187e3c7cf9a0807f6",
+      "file_id": "file_00000000cb1c81f5b8b6ca276b6bf178",
+      "path": "/HM_COMMS_ORIGINAL_V6_V7_COMPARISON.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/e6eabdc4c3a0/deliverables/RSE_DETECTIVE_EN_V7_EDITORIAL_20261021.zip",
+      "file_name": "RSE_DETECTIVE_EN_V7_EDITORIAL_20261021.zip",
+      "library_file_id": "libfile_da1bed141d108191a32b9d5d4a7a893b",
+      "file_id": "file_00000000246c81f5a60d2631d0c1d00b",
+      "path": "/RSE_DETECTIVE_EN_V7_EDITORIAL_20261021.zip",
+      "current_version_number": 2
+    }
+  ],
+  "all_local_bytes_unchanged": true,
+  "archive_sha256": "70a5c5e6440704be14c1e48873876fc2d334dbb286bbaa37db85e7550f2336df",
+  "reading_proof_sha256": "9b43919e74ecb0cb6ba6779b110d2cd1ba82b86cfc146bddc0dde279c6277f20",
+  "comparison_sha256": "4483f5234e563e22215d0d24c0f7e23f28d67e5c09a1cfc0c54bd005c328910a",
+  "stable_identity": "Reading proof and recovery archive replace their existing identities; prior versions retained. Comparison is a new item."
+}

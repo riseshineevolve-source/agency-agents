@@ -1,0 +1,88 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "grid_sha256": "b47cc614b81cda3631c73b7d7b390949f1ca589a4f312efb9db98bdfa12d98c6",
+  "intro_case01": {
+    "full_assignment_count": 1,
+    "assignments": [
+      {
+        "Quill": "B1",
+        "Pip": "A3",
+        "Morse": "C4",
+        "Knox": "D2"
+      }
+    ],
+    "answers": [
+      {
+        "Knox": "D2"
+      }
+    ],
+    "matches_expected_post_enumeration": true
+  },
+  "case29": [
+    {
+      "mode": "edge",
+      "direction_45_degree_sensitivity": false,
+      "full_assignment_count": 1,
+      "stored_assignments": [
+        {
+          "Wade": "F7",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Ren": "H5",
+          "Cato": "I4",
+          "Vega": "D3",
+          "Mavis": "A2",
+          "Poppy": "C6",
+          "Seth": "B1"
+        }
+      ],
+      "answers": {
+        "Vega at D3": 1
+      },
+      "search_nodes": 138,
+      "matches_expected_post_enumeration": true
+    },
+    {
+      "mode": "eight_neighbour",
+      "direction_45_degree_sensitivity": false,
+      "full_assignment_count": 1,
+      "stored_assignments": [
+        {
+          "Wade": "F7",
+          "Jules": "E8",
+          "Bryn": "G9",
+          "Ren": "H5",
+          "Cato": "I4",
+          "Vega": "D3",
+          "Mavis": "A2",
+          "Poppy": "C6",
+          "Seth": "B1"
+        }
+      ],
+      "answers": {
+        "Vega at D3": 1
+      },
+      "search_nodes": 140,
+      "matches_expected_post_enumeration": true
+    },
+    {
+      "mode": "edge",
+      "direction_45_degree_sensitivity": true,
+      "full_assignment_count": 0,
+      "stored_assignments": [],
+      "answers": {},
+      "search_nodes": 51,
+      "matches_expected_post_enumeration": false
+    },
+    {
+      "mode": "eight_neighbour",
+      "direction_45_degree_sensitivity": true,
+      "full_assignment_count": 0,
+      "stored_assignments": [],
+      "answers": {},
+      "search_nodes": 53,
+      "matches_expected_post_enumeration": false
+    }
+  ]
+}

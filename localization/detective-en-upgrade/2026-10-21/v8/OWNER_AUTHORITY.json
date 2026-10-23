@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-22",
+  "baseline_candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "owner_authority": "Explicit current request for actual multidisciplinary agents to jointly audit the entire English book, fix all concrete errors and weak passages, and return a complete upgraded English version.",
+  "route": "rse-language same-language upgrade en→en; whole-book diagnostic, exact bounded change allowlist; no production translation.",
+  "writer": "/root only",
+  "actual_reviewers": [
+    "/root/v8_story_humor: story/native/comedy",
+    "/root/v8_child_mentor: child/teen/psychological sensitivity/mentor/support",
+    "/root/v8_puzzle_logic: puzzles/meaning/logic/all30",
+    "/root/v8_reader_market: engagement/promise/reader/marketing/sales"
+  ],
+  "preserve": [
+    "all27V6repairbytes",
+    "all30answerheaders",
+    "all107printedwitnesspositions",
+    "31puzzle/evidencefigures",
+    "names",
+    "four0records",
+    "14mapset",
+    "CHECKTHEOLDMAP",
+    "finaleASSUMPTIONS/D3/BALL–STAR–BOLT–HEART–KEY–MOON/callsign"
+  ],
+  "bounded_unfreezed_clarity_surfaces": "Mapdefinitions; onehint; workedreasoning; twoPDFnavigation/feedbacktextpatches on148/184. No frozencontenthasbeenunlocked. No newpuzzlemechanicoranswer.",
+  "scope_exclusions": [
+    "productionBookFactorysource/renderer",
+    "PLversions",
+    "publication",
+    "mainmerge",
+    "releasefreeze",
+    "salesguarantee"
+  ],
+  "source_age_note": "Copyright2026doesnotsetdiegeticpresent; 2002answerunchanged. Removeassumedreaderageonly."
+}

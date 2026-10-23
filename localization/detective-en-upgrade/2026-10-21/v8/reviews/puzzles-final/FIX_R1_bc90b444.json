@@ -1,0 +1,35 @@
+{
+  "reviewed_candidate_sha256": "bc90b44439e6380104a67873383e946923577b86ece0b6f482380b6c9e73c76b",
+  "disposition": "FIX",
+  "findings": [
+    {
+      "id": "PL-F13-CONDITIONAL",
+      "folio": 199,
+      "severity": "logic_explanation",
+      "problem": "BodhiB6\u2192RemyD7 asserted without first fixingMoxieC5; MoxieD5 givesRemyC7 instead.",
+      "required_fix": "RejectMoxieD5 first, then conditionB6\u2192D7 onMoxieC5."
+    },
+    {
+      "id": "PL-F20-COUNT",
+      "folio": 210,
+      "severity": "logic_explanation",
+      "problem": "Rows/columns alone do not eliminateMaraE4/AsaE3; exactlyoneDemi companion is needed.",
+      "required_fix": "State both alternatives forceDemiintoMainStudio withMara+Asa, givingtwootherpeople."
+    },
+    {
+      "id": "PL-F17-OTIS",
+      "folio": 205,
+      "severity": "teaching_clarity",
+      "problem": "Explicitly excludeOtisC5 before assumingAxelnotTicketOffice.",
+      "suggested_fix": "C5blocksSunnyC2bycolumnandSunnyD5byrow, soOtiscolumnA."
+    },
+    {
+      "id": "PL-F10-DASH",
+      "folio": 194,
+      "severity": "teaching_clarity",
+      "problem": "DashE3/G3 domain also usescompanionclue, notjustrow/column elimination.",
+      "suggested_fix": "Mentioncompanionclue whennarrowingDash."
+    }
+  ],
+  "verification_evidence": "Fresh complete enumeration without target-companion count identifies valid alternatives; no main answer/unique-full-roster discrepancy."
+}

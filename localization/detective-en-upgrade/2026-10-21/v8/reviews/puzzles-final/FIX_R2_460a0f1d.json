@@ -1,0 +1,23 @@
+{
+  "reviewed_candidate_sha256": "460a0f1dbd823110cdd8a89a1f838162d629277853b801dc0828ba663ede739e",
+  "disposition": "FIX",
+  "findings": [
+    {
+      "id": "PL-F20-REFERENT",
+      "folio": 210,
+      "segment_range": [
+        "page210.block07",
+        "page210.block09"
+      ],
+      "problem": "The phrase either alternative has lost its intended named alternatives MaraE4/AsaE3. The preceding sentence names MaraD4/E4, so current wording can falsely imply both fail.",
+      "minimal_fix": "Name Mara atE4 or Asa atE3 explicitly before saying both fail."
+    }
+  ],
+  "previous_R1_fixes": {
+    "PL-F13-CONDITIONAL": "PASS",
+    "PL-F20-COUNT": "Reason added correctly, but referent ambiguity requires above tiny followup.",
+    "PL-F17-OTIS": "PASS",
+    "PL-F10-DASH": "PASS"
+  },
+  "other_semantic_or_answer_defects_found": 0
+}

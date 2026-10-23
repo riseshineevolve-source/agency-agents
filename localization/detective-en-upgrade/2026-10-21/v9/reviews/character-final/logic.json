@@ -1,0 +1,110 @@
+{
+  "reviewer": "hm9_character_family",
+  "stage": "logic",
+  "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "status": "PASS",
+  "result": "PASS",
+  "review_type": "ACTUAL_BOUNDED_CLOSURE_OVER_ACTUAL_FULL_R1_REVIEW",
+  "prior_actual_full_review": {
+    "candidate_sha256": "138fffc57d1d8e6da7ee41f8e4c98eba680c5cb7b9ca2b01f87d8633abd3670e",
+    "receipt": "reviews/character-r1/logic.json",
+    "scenes": 34,
+    "spoken_turns": 183,
+    "status_preserved": "FIX"
+  },
+  "scope": "Actual17changedturns across15scenes, completeaffectedscenes, neighboring/callback dependency closure including Case09cake, presenthat16, Dilo18/19/21andlockedfinale140/145/146. Actual protected-text/speaker-order comparison. Not a new fullbook reread, freshpuzzle-solve or printreview.",
+  "reviewed_changed_scene_ids": [
+    "CASE01",
+    "CASE03",
+    "CASE05",
+    "CASE06",
+    "CASE08",
+    "CASE11",
+    "CASE14",
+    "CASE15",
+    "CASE20",
+    "CASE21",
+    "CASE22",
+    "CASE23",
+    "CASE24",
+    "CASE26",
+    "CASE27"
+  ],
+  "reviewed_additional_callback_scene_ids": [
+    "CASE09",
+    "CASE16",
+    "CASE18",
+    "CASE19",
+    "CASE28",
+    "CASE29",
+    "CASE30",
+    "INTRO07",
+    "CASEWALL12",
+    "THREAD34",
+    "THREAD120"
+  ],
+  "complete_affected_scenes_read": 15,
+  "changed_turns_actually_compared": 17,
+  "closure": [
+    {
+      "finding": "FAM-R1-01",
+      "scene_id": "CASE14",
+      "status": "RESOLVED",
+      "evidence": "Luli now answers the recipe question directly with Not one on cooking, then offers Alio lunch-check duty and recalls his Case09self-promisedcake. Actual Case09 callback and fullCase14 reread; the orphaned crumb answer is gone."
+    },
+    {
+      "finding": "FAM-R1-02",
+      "scene_id": "CASE22",
+      "status": "RESOLVED",
+      "evidence": "The unsupported bedtime-story sentence is removed. Dilo now checks shelves and refuses to explain the newly-renamed-instrument problem which Alio and Nini have actually raised."
+    },
+    {
+      "finding": "FAM-R1-03",
+      "scene_id": "CASE23",
+      "status": "RESOLVED",
+      "evidence": "Mimi now only says It displayed a number. Dilo's In a tone directly answers the number and the original clean short reversal is restored."
+    },
+    {
+      "finding": "FAM-R1-04",
+      "scene_id": "CASE15",
+      "status": "RESOLVED",
+      "evidence": "Satellite dots now track each bag rather than each person. The silly costly alternative targets the actual backpack issue; cardboard/name-tag retort remains earned."
+    },
+    {
+      "finding": "FAM-R1-05",
+      "scene_id": "CASE06",
+      "status": "RESOLVED",
+      "evidence": "The commute tag is replaced by a missing history-book chapter about Roman dragon chefs. This directly connects the dragon-cook fantasy to Roman history. Final reader delegation is now the room record, matching the playable puzzle."
+    },
+    {
+      "finding": "FAM-R1-06",
+      "scene_id": "CASE01",
+      "status": "RESOLVED",
+      "evidence": "The extra no-case overstatement is removed. Original sharp tunnel/minivan/zeroevidence/impressive-start kernel stands on its own; envelope case still exists."
+    },
+    {
+      "finding": "FAM-R1-07",
+      "scene_id": "CASE02",
+      "status": "OPTIONAL_PREFERENCE_NOT_REQUIRED",
+      "evidence": "Useful question remains a defensible affectionate shorthand for the line of inquiry opened by blank paperwork; exact original kernel and not a material logic/continuity defect. No further rewrite requested."
+    }
+  ],
+  "open_material_findings": [],
+  "findings": [],
+  "assessment": "R1 full review plus this bounded closure supports a coherent fuller family-voice Comms candidate. Short punchlines retain their function; adults and Luli share fallibility, boys remain useful, Nini has agency. Case21 uses self-owned restraint and reciprocal help without ridicule. Pauses29/30preserve anticipation. No further style-only rewriting recommended.",
+  "deterministic_scope_evidence": {
+    "candidate_sha256_actually_verified": true,
+    "34_scene183_turn_speaker_orders_exact": true,
+    "source_units": 3067,
+    "allowlist_units": 220,
+    "protected_units": 2847,
+    "all_outside_allowlist_exact": true,
+    "outside_allowlist_changed_ids": [],
+    "mixed137narrative_prefix_exact": true,
+    "r1_to_final_actual_17turn_delta_matches_declared": true,
+    "final_changed_units_from_v8": 210
+  },
+  "production_layout_or_physical_print_review": false,
+  "puzzle_correctness": "Inherited exactV8protected content. No new solver run claimed.",
+  "no_candidate_edits_by_reviewer": true
+}

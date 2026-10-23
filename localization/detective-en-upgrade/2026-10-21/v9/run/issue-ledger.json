@@ -1,0 +1,567 @@
+{
+  "run_sha256": "ef26d771633a2ca5c9473619d504cea66d6c603bed1ccb6057d09e90e0eae26e",
+  "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "diagnostic": "COMPLETE",
+  "issues": [
+    {
+      "id": "HM9-INTRO07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page007.block05"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASEWALL12",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page012.block03"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE01",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page016.block04"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE02",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page019.block23",
+        "page019.block24",
+        "page019.block26",
+        "page019.block27",
+        "page019.block29",
+        "page019.block31",
+        "page019.block32",
+        "page019.block33",
+        "page019.block35",
+        "page019.block36",
+        "page019.block37"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE03",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page023.block05",
+        "page023.block07",
+        "page023.block09",
+        "page023.block11",
+        "page023.block13"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE04",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page027.block19",
+        "page027.block20",
+        "page027.block22",
+        "page027.block24",
+        "page027.block25",
+        "page027.block27",
+        "page027.block28",
+        "page027.block29",
+        "page027.block31",
+        "page027.block32",
+        "page027.block34",
+        "page027.block35"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE05",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page031.block05",
+        "page031.block07",
+        "page031.block09",
+        "page031.block11",
+        "page031.block13",
+        "page031.block15"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-THREAD34",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page034.block16",
+        "page034.block18",
+        "page035.block06",
+        "page035.block07",
+        "page035.block09",
+        "page035.block10"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE06",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page037.block05",
+        "page037.block06",
+        "page037.block08",
+        "page037.block10",
+        "page037.block11",
+        "page037.block13",
+        "page037.block14",
+        "page037.block16",
+        "page037.block17",
+        "page037.block18",
+        "page037.block20",
+        "page037.block21",
+        "page037.block23",
+        "page037.block24",
+        "page037.block26",
+        "page037.block27",
+        "page037.block28"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE07",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page041.block17",
+        "page041.block18",
+        "page041.block19",
+        "page041.block21",
+        "page041.block23",
+        "page041.block24",
+        "page041.block26",
+        "page041.block27",
+        "page041.block28",
+        "page041.block30"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE08",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page045.block05",
+        "page045.block07",
+        "page045.block09",
+        "page045.block11",
+        "page045.block13"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE09",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page049.block05",
+        "page049.block07",
+        "page049.block09",
+        "page049.block11",
+        "page049.block13",
+        "page049.block15"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE10",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page053.block15",
+        "page053.block16",
+        "page053.block17",
+        "page053.block19",
+        "page053.block20",
+        "page053.block22",
+        "page053.block24",
+        "page053.block26",
+        "page053.block27"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE11",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page057.block05",
+        "page057.block07",
+        "page057.block09",
+        "page057.block11",
+        "page057.block13",
+        "page057.block15"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE12",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page061.block05",
+        "page061.block07",
+        "page061.block09",
+        "page061.block11",
+        "page061.block13"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE13",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page065.block18",
+        "page065.block19",
+        "page065.block21",
+        "page065.block23",
+        "page065.block24",
+        "page065.block26",
+        "page065.block27",
+        "page065.block29",
+        "page065.block31"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE14",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page069.block05",
+        "page069.block07",
+        "page069.block09",
+        "page069.block11",
+        "page069.block13",
+        "page069.block15"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE15",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page073.block05",
+        "page073.block07",
+        "page073.block09",
+        "page073.block11"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE16",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page077.block06",
+        "page077.block08",
+        "page077.block10",
+        "page077.block12",
+        "page077.block14",
+        "page077.block16"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE17",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page083.block05",
+        "page083.block07",
+        "page083.block09",
+        "page083.block11",
+        "page083.block13",
+        "page083.block15"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE18",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page087.block05",
+        "page087.block07",
+        "page087.block09",
+        "page087.block11",
+        "page087.block13"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE19",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page091.block05",
+        "page091.block07",
+        "page091.block09",
+        "page091.block11",
+        "page091.block13",
+        "page091.block15"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE20",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page095.block05",
+        "page095.block07",
+        "page095.block09",
+        "page095.block11",
+        "page095.block13",
+        "page095.block15"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE21",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page099.block05",
+        "page099.block07",
+        "page099.block08",
+        "page099.block10",
+        "page099.block11",
+        "page099.block13",
+        "page099.block15",
+        "page099.block17",
+        "page099.block18",
+        "page099.block19",
+        "page099.block21"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE22",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page105.block05",
+        "page105.block06",
+        "page105.block08",
+        "page105.block10",
+        "page105.block12",
+        "page105.block14"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE23",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page109.block05",
+        "page109.block07",
+        "page109.block09",
+        "page109.block11",
+        "page109.block13"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE24",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page113.block05",
+        "page113.block07",
+        "page113.block09",
+        "page113.block11",
+        "page113.block13",
+        "page113.block15"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE25",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page117.block05",
+        "page117.block07",
+        "page117.block09",
+        "page117.block11",
+        "page117.block13"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-THREAD120",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page120.block15",
+        "page120.block16",
+        "page120.block17"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE26",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page121.block15",
+        "page121.block16",
+        "page121.block17",
+        "page121.block19",
+        "page121.block20",
+        "page121.block21",
+        "page121.block23",
+        "page121.block24",
+        "page121.block26",
+        "page121.block28",
+        "page121.block29",
+        "page121.block30"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE27",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page125.block12",
+        "page125.block14",
+        "page125.block15",
+        "page125.block16",
+        "page125.block18",
+        "page125.block19",
+        "page125.block21",
+        "page125.block22",
+        "page125.block23",
+        "page125.block25"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE28",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page129.block05",
+        "page129.block07",
+        "page129.block09",
+        "page129.block11",
+        "page129.block12",
+        "page129.block14"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE29",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page133.block05",
+        "page133.block07",
+        "page133.block09",
+        "page133.block11",
+        "page133.block13"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    },
+    {
+      "id": "HM9-CASE30",
+      "classification": "FIX",
+      "final_classification": "KEEP",
+      "status": "RESOLVED",
+      "segments": [
+        "page137.block08",
+        "page137.block09"
+      ],
+      "detail": "Owner-requested original/V7merge, full conversational response and warmfamilyvoice; actual4diagnosticreviews refer toscopedscene.",
+      "resolution": "Rootwriter authored actualdialogue; finalindependentreviewstored separately."
+    }
+  ]
+}

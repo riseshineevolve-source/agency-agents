@@ -1,0 +1,43 @@
+{
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "pdf_sha256": "e0fe8a671016fccc88d50f17ad2724cea4851cafe964c662b2605f0462bd6ece",
+  "report_pages": 28,
+  "copy": "All47semanticbeforeaftergroupsfromcanonicaleditunits.",
+  "offpage": "NONE",
+  "actual_visual_review": {
+    "status": "PASS",
+    "reviewer": "root",
+    "contact_folios": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "fullsize_scope": "Opening summary and table transition; final identification; representative fullsize source/delta pages during27→28pagepaginationrepair.",
+    "notes": "Removed one-line spillpage. All47beforeaftergroups retained. Contact inspection is layout scope, not a fresh separate language review."
+  }
+}

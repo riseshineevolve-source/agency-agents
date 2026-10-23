@@ -1,0 +1,1053 @@
+{
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "minimum_regenerated_body_font": 10.5,
+  "folios": [
+    {
+      "folio": 1,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 225.5
+    },
+    {
+      "folio": 2,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 159.1
+    },
+    {
+      "folio": 3,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 228.2
+    },
+    {
+      "folio": 4,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 207.7
+    },
+    {
+      "folio": 5,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 305.5
+    },
+    {
+      "folio": 6,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 285.2
+    },
+    {
+      "folio": 7,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 503.6
+    },
+    {
+      "folio": 8,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 419.1
+    },
+    {
+      "folio": 9,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 256.3
+    },
+    {
+      "folio": 10,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 271.9
+    },
+    {
+      "folio": 11,
+      "columns": 2,
+      "body_font_min": 10.5,
+      "details": [
+        {
+          "body_font_min": 10.5,
+          "raw_height": 420.8
+        },
+        {
+          "body_font_min": 10.5,
+          "raw_height": 519.5
+        }
+      ]
+    },
+    {
+      "folio": 12,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 418.9
+    },
+    {
+      "folio": 14,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 59.7
+    },
+    {
+      "folio": 15,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 83.0
+    },
+    {
+      "folio": 16,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 299.1
+    },
+    {
+      "folio": 17,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 249.3
+    },
+    {
+      "folio": 19,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 357.2
+    },
+    {
+      "folio": 20,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 317.6
+    },
+    {
+      "folio": 22,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 167.4
+    },
+    {
+      "folio": 23,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 27,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 364.5
+    },
+    {
+      "folio": 28,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 296.5
+    },
+    {
+      "folio": 30,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 195.4
+    },
+    {
+      "folio": 31,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 32,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 276.1
+    },
+    {
+      "folio": 34,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 271.3
+    },
+    {
+      "folio": 35,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 186.7
+    },
+    {
+      "folio": 36,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 233.5
+    },
+    {
+      "folio": 37,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 240.2
+    },
+    {
+      "folio": 38,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 327.3
+    },
+    {
+      "folio": 40,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 118.0
+    },
+    {
+      "folio": 41,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 272.9
+    },
+    {
+      "folio": 42,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 331.7
+    },
+    {
+      "folio": 44,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 160.2
+    },
+    {
+      "folio": 45,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 46,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 103.9
+    },
+    {
+      "folio": 48,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 153.3
+    },
+    {
+      "folio": 49,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 50,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 103.9
+    },
+    {
+      "folio": 52,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 148.9
+    },
+    {
+      "folio": 53,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 315.0
+    },
+    {
+      "folio": 54,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 343.8
+    },
+    {
+      "folio": 56,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 153.3
+    },
+    {
+      "folio": 57,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 58,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 94.9
+    },
+    {
+      "folio": 60,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 153.3
+    },
+    {
+      "folio": 61,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 62,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 303.5
+    },
+    {
+      "folio": 64,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 111.0
+    },
+    {
+      "folio": 65,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 350.4
+    },
+    {
+      "folio": 66,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 303.5
+    },
+    {
+      "folio": 68,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 160.3
+    },
+    {
+      "folio": 69,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 70,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 103.9
+    },
+    {
+      "folio": 72,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 167.4
+    },
+    {
+      "folio": 73,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 155.8
+    },
+    {
+      "folio": 74,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 338.7
+    },
+    {
+      "folio": 76,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 233.5
+    },
+    {
+      "folio": 77,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 221.8
+    },
+    {
+      "folio": 78,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 134.7
+    },
+    {
+      "folio": 80,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 96.9
+    },
+    {
+      "folio": 81,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 120.7
+    },
+    {
+      "folio": 82,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 198.2
+    },
+    {
+      "folio": 83,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 84,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 324.6
+    },
+    {
+      "folio": 86,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 153.3
+    },
+    {
+      "folio": 87,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 88,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 116.0
+    },
+    {
+      "folio": 90,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 181.5
+    },
+    {
+      "folio": 91,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 92,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 327.3
+    },
+    {
+      "folio": 94,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 181.5
+    },
+    {
+      "folio": 95,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 96,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 308.6
+    },
+    {
+      "folio": 98,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 195.6
+    },
+    {
+      "folio": 99,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 219.1
+    },
+    {
+      "folio": 100,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 94.9
+    },
+    {
+      "folio": 102,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 148.9
+    },
+    {
+      "folio": 103,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 111.0
+    },
+    {
+      "folio": 104,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 174.3
+    },
+    {
+      "folio": 105,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 106,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 308.6
+    },
+    {
+      "folio": 108,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 195.6
+    },
+    {
+      "folio": 109,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 110,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 383.6
+    },
+    {
+      "folio": 112,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 125.1
+    },
+    {
+      "folio": 113,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 198.0
+    },
+    {
+      "folio": 114,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 127.7
+    },
+    {
+      "folio": 116,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 167.4
+    },
+    {
+      "folio": 117,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 118,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 294.5
+    },
+    {
+      "folio": 120,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 333.7
+    },
+    {
+      "folio": 121,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 258.8
+    },
+    {
+      "folio": 122,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 179.4
+    },
+    {
+      "folio": 124,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 96.9
+    },
+    {
+      "folio": 125,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 244.7
+    },
+    {
+      "folio": 126,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 132.8
+    },
+    {
+      "folio": 128,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 170.0
+    },
+    {
+      "folio": 129,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 130,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 137.2
+    },
+    {
+      "folio": 132,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 212.3
+    },
+    {
+      "folio": 133,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 176.9
+    },
+    {
+      "folio": 134,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 336.7
+    },
+    {
+      "folio": 136,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 111.0
+    },
+    {
+      "folio": 137,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 310.8
+    },
+    {
+      "folio": 138,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 174.4
+    },
+    {
+      "folio": 140,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 212.3
+    },
+    {
+      "folio": 141,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 295.6
+    },
+    {
+      "folio": 142,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 274.4
+    },
+    {
+      "folio": 143,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 295.7
+    },
+    {
+      "folio": 144,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 82.8
+    },
+    {
+      "folio": 145,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 330.9
+    },
+    {
+      "folio": 146,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 190.1
+    },
+    {
+      "folio": 147,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 213.8
+    },
+    {
+      "folio": 150,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 206.1
+    },
+    {
+      "folio": 151,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 155.8
+    },
+    {
+      "folio": 152,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 224.5
+    },
+    {
+      "folio": 153,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 224.5
+    },
+    {
+      "folio": 154,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 217.5
+    },
+    {
+      "folio": 155,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 203.4
+    },
+    {
+      "folio": 156,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 203.4
+    },
+    {
+      "folio": 157,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 203.4
+    },
+    {
+      "folio": 158,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 238.6
+    },
+    {
+      "folio": 159,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 134.7
+    },
+    {
+      "folio": 160,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 148.8
+    },
+    {
+      "folio": 161,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 266.7
+    },
+    {
+      "folio": 162,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 224.5
+    },
+    {
+      "folio": 163,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 203.4
+    },
+    {
+      "folio": 164,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 217.5
+    },
+    {
+      "folio": 165,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 217.5
+    },
+    {
+      "folio": 166,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 203.4
+    },
+    {
+      "folio": 167,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 238.6
+    },
+    {
+      "folio": 168,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 113.6
+    },
+    {
+      "folio": 169,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 148.8
+    },
+    {
+      "folio": 170,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 245.6
+    },
+    {
+      "folio": 171,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 245.6
+    },
+    {
+      "folio": 172,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 224.5
+    },
+    {
+      "folio": 173,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 224.5
+    },
+    {
+      "folio": 174,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 203.4
+    },
+    {
+      "folio": 175,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 203.4
+    },
+    {
+      "folio": 176,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 224.5
+    },
+    {
+      "folio": 177,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 155.8
+    },
+    {
+      "folio": 178,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 162.9
+    },
+    {
+      "folio": 179,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 305.3
+    },
+    {
+      "folio": 181,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 291.3
+    },
+    {
+      "folio": 183,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 302.6
+    },
+    {
+      "folio": 185,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 284.3
+    },
+    {
+      "folio": 187,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 284.3
+    },
+    {
+      "folio": 188,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 291.3
+    },
+    {
+      "folio": 190,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 319.5
+    },
+    {
+      "folio": 192,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 220.9
+    },
+    {
+      "folio": 193,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 206.8
+    },
+    {
+      "folio": 194,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 305.4
+    },
+    {
+      "folio": 196,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 261.6
+    },
+    {
+      "folio": 197,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 319.5
+    },
+    {
+      "folio": 199,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 347.7
+    },
+    {
+      "folio": 201,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 227.9
+    },
+    {
+      "folio": 202,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 319.5
+    },
+    {
+      "folio": 204,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 277.2
+    },
+    {
+      "folio": 205,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 333.6
+    },
+    {
+      "folio": 207,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 242.0
+    },
+    {
+      "folio": 208,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 370.0
+    },
+    {
+      "folio": 210,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 347.7
+    },
+    {
+      "folio": 212,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 235.0
+    },
+    {
+      "folio": 213,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 305.4
+    },
+    {
+      "folio": 215,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 284.3
+    },
+    {
+      "folio": 217,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 220.9
+    },
+    {
+      "folio": 218,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 284.3
+    },
+    {
+      "folio": 220,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 535.5
+    },
+    {
+      "folio": 221,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 249.1
+    },
+    {
+      "folio": 222,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 263.2
+    },
+    {
+      "folio": 223,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 319.5
+    },
+    {
+      "folio": 225,
+      "columns": 1,
+      "body_font_min": 10.5,
+      "raw_height": 277.2
+    }
+  ]
+}

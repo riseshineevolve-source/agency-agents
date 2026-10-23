@@ -1,0 +1,170 @@
+[
+  {
+    "variant": "eight",
+    "C3_unmarked_stool_blocked": true,
+    "case": 2,
+    "solution_count": 1,
+    "solutions": [
+      {
+        "Nova": "B3",
+        "Dax": "D2",
+        "Rook": "A6",
+        "Atlas": "F4",
+        "Ivy": "C5",
+        "Max": "E1"
+      }
+    ]
+  },
+  {
+    "variant": "eight",
+    "C3_unmarked_stool_blocked": true,
+    "case": 4,
+    "solution_count": 1,
+    "solutions": [
+      {
+        "Echo": "A2",
+        "Kai": "B6",
+        "Zuri": "F4",
+        "Briar": "D3",
+        "Clover": "C5",
+        "Pixel": "E1"
+      }
+    ]
+  },
+  {
+    "variant": "eight",
+    "C3_unmarked_stool_blocked": true,
+    "case": 6,
+    "solution_count": 1,
+    "solutions": [
+      {
+        "Scout": "E3",
+        "Hugo": "A6",
+        "Arlo": "D2",
+        "Vale": "F5",
+        "Wren": "C4",
+        "Uma": "B1"
+      }
+    ]
+  },
+  {
+    "variant": "eight",
+    "C3_unmarked_stool_blocked": true,
+    "case": 22,
+    "solution_count": 1,
+    "solutions": [
+      {
+        "Lex": "E6",
+        "Imani": "F7",
+        "Cody": "C4",
+        "Nia": "G5",
+        "Gia": "B1",
+        "Wes": "D3",
+        "Zara": "A2"
+      }
+    ]
+  },
+  {
+    "variant": "eight",
+    "C3_unmarked_stool_blocked": true,
+    "case": 29,
+    "solution_count": 1,
+    "solutions": [
+      {
+        "Mavis": "A2",
+        "Cato": "I4",
+        "Jules": "E8",
+        "Bryn": "G9",
+        "Vega": "D3",
+        "Ren": "H5",
+        "Poppy": "C6",
+        "Wade": "F7",
+        "Seth": "B1"
+      }
+    ]
+  },
+  {
+    "variant": "edge",
+    "C3_unmarked_stool_blocked": true,
+    "case": 2,
+    "solution_count": 1,
+    "solutions": [
+      {
+        "Nova": "B3",
+        "Dax": "D2",
+        "Rook": "A6",
+        "Atlas": "F4",
+        "Ivy": "C5",
+        "Max": "E1"
+      }
+    ]
+  },
+  {
+    "variant": "edge",
+    "C3_unmarked_stool_blocked": true,
+    "case": 4,
+    "solution_count": 1,
+    "solutions": [
+      {
+        "Echo": "A2",
+        "Kai": "B6",
+        "Zuri": "F4",
+        "Briar": "D3",
+        "Clover": "C5",
+        "Pixel": "E1"
+      }
+    ]
+  },
+  {
+    "variant": "edge",
+    "C3_unmarked_stool_blocked": true,
+    "case": 6,
+    "solution_count": 1,
+    "solutions": [
+      {
+        "Scout": "E3",
+        "Hugo": "A6",
+        "Arlo": "D2",
+        "Vale": "F5",
+        "Wren": "C4",
+        "Uma": "B1"
+      }
+    ]
+  },
+  {
+    "variant": "edge",
+    "C3_unmarked_stool_blocked": true,
+    "case": 22,
+    "solution_count": 1,
+    "solutions": [
+      {
+        "Lex": "E6",
+        "Imani": "F7",
+        "Cody": "C4",
+        "Nia": "G5",
+        "Gia": "B1",
+        "Wes": "D3",
+        "Zara": "A2"
+      }
+    ]
+  },
+  {
+    "variant": "edge",
+    "C3_unmarked_stool_blocked": true,
+    "case": 29,
+    "solution_count": 1,
+    "solutions": [
+      {
+        "Mavis": "A2",
+        "Cato": "I4",
+        "Jules": "E8",
+        "Bryn": "G9",
+        "Vega": "D3",
+        "Ren": "H5",
+        "Poppy": "C6",
+        "Wade": "F7",
+        "Seth": "B1"
+      }
+    ]
+  }
+]

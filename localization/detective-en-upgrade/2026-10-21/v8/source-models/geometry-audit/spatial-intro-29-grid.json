@@ -1,0 +1,28 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "intro_case01": {
+    "clue_page": 17, "map_page": 18, "solution_page": 180,
+    "columns": "ABCD",
+    "room_codes": {"A":"Archive","L":"Library","W":"Workshop","D":"Delivery"},
+    "room_rows": ["AAWD","AAWD","LLWD","LLWD"],
+    "blocked": [],
+    "literal_clues": ["QUILL row 1", "PIP row 3", "MORSE column C", "KNOX column D", "PIP somewhere left of QUILL", "MORSE lower row than KNOX"],
+    "objective": "Who was at Delivery and their square",
+    "expected_comparison_only": {"Quill":"B1","Pip":"A3","Morse":"C4","Knox":"D2"}
+  },
+  "case29": {
+    "clue_page": 134, "map_page": 135, "solution_pages": [223,224],
+    "columns": "ABCDEFGHI",
+    "room_codes": {"T":"Training Room","E":"Equipment Hall","S":"Science Lab","C":"Control Room","A":"Archive Chamber","M":"Map Room","V":"Service Corridor","O":"Operations Office"},
+    "room_rows": ["TEEEEESSS","TEEEEESCC","TTTEEASSC","TTAAAASSC","TTTAAAOCC","MMTAAAOOC","MMVOOOOOC","MMVVVVOOO","MMVVVVVOO"],
+    "blocked": ["A1","I1","F3","G3","I3","A5","G5","E7","C8","A9","D9","E9","I9"],
+    "teacher_desks": ["A5","G5","E7"],
+    "usable_objects": {"stools":["C1","D1","E1","H3"],"desks":["A2","B4","B7","B8","G7","G8"],"bleachers":["I2","E5","D6","I7"]},
+    "literal_clues": ["Mavis north-west of Vega", "Cato north-east of Ren", "Jules diagonally next to Wade", "Bryn shared a space with Jules", "Vega north-west of Cato", "Ren in Control Room", "Poppy shared a room with Mavis", "Wade Operations Office beside teacher's desk", "Seth final area exactly one other person"],
+    "objective": "One person sharing Seth's mapped area and their access coordinate",
+    "story_fact_page132": "Seth's placement is described as certain but no coordinate is supplied in the visible pre-solution story.",
+    "expected_comparison_only": {"Mavis":"A2","Cato":"I4","Jules":"E8","Bryn":"G9","Vega":"D3","Ren":"H5","Poppy":"C6","Wade":"F7","Seth":"B1"}
+  }
+}
+

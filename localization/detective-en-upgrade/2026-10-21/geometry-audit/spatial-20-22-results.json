@@ -1,0 +1,185 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "grid_sha256": "10596299851dc2cda61b13dcd80a1da85932afd9e3379172aa1910d721cbd705",
+  "cases": {
+    "case20": {
+      "any_distance": {
+        "full_assignment_count": 0,
+        "answers": {},
+        "assignments": [],
+        "search_nodes": 70,
+        "truncated_assignments": false,
+        "domain_sizes": {
+          "Mara": 2,
+          "Asa": 6,
+          "Luca": 33,
+          "Pax": 33,
+          "Sid": 33,
+          "Toby": 8,
+          "Demi": 33
+        },
+        "expected_full_roster_present_post_enumeration": false,
+        "unique_expected_full_roster_post_enumeration": false
+      },
+      "same_ray": {
+        "full_assignment_count": 0,
+        "answers": {},
+        "assignments": [],
+        "search_nodes": 32,
+        "truncated_assignments": false,
+        "domain_sizes": {
+          "Mara": 2,
+          "Asa": 6,
+          "Luca": 33,
+          "Pax": 33,
+          "Sid": 33,
+          "Toby": 8,
+          "Demi": 33
+        },
+        "expected_full_roster_present_post_enumeration": false,
+        "unique_expected_full_roster_post_enumeration": false
+      },
+      "printed_furniture_list_bunks_usable_sensitivity": {
+        "full_assignment_count": 1,
+        "answers": {
+          "('Pax', 'F5')": 1
+        },
+        "assignments": [
+          {
+            "Mara": "D4",
+            "Asa": "B2",
+            "Luca": "A1",
+            "Toby": "C6",
+            "Pax": "F5",
+            "Sid": "E7",
+            "Demi": "G3"
+          }
+        ],
+        "search_nodes": 102,
+        "truncated_assignments": false,
+        "domain_sizes": {
+          "Mara": 2,
+          "Asa": 6,
+          "Luca": 35,
+          "Pax": 35,
+          "Sid": 35,
+          "Toby": 8,
+          "Demi": 35
+        },
+        "expected_full_roster_present_post_enumeration": true,
+        "unique_expected_full_roster_post_enumeration": true
+      },
+      "only_E7_unblocked_sensitivity": {
+        "full_assignment_count": 1,
+        "answers": {
+          "('Pax', 'F5')": 1
+        },
+        "assignments": [
+          {
+            "Mara": "D4",
+            "Asa": "B2",
+            "Luca": "A1",
+            "Toby": "C6",
+            "Pax": "F5",
+            "Sid": "E7",
+            "Demi": "G3"
+          }
+        ],
+        "search_nodes": 81,
+        "truncated_assignments": false,
+        "domain_sizes": {
+          "Mara": 2,
+          "Asa": 6,
+          "Luca": 34,
+          "Pax": 34,
+          "Sid": 34,
+          "Toby": 8,
+          "Demi": 34
+        },
+        "expected_full_roster_present_post_enumeration": true,
+        "unique_expected_full_roster_post_enumeration": true
+      },
+      "only_F7_unblocked_sensitivity": {
+        "full_assignment_count": 0,
+        "answers": {},
+        "assignments": [],
+        "search_nodes": 91,
+        "truncated_assignments": false,
+        "domain_sizes": {
+          "Mara": 2,
+          "Asa": 6,
+          "Luca": 34,
+          "Pax": 34,
+          "Sid": 34,
+          "Toby": 8,
+          "Demi": 34
+        },
+        "expected_full_roster_present_post_enumeration": false,
+        "unique_expected_full_roster_post_enumeration": false
+      }
+    },
+    "case22": {
+      "edge": {
+        "full_assignment_count": 1,
+        "answers": {
+          "('Cody', 'C4')": 1
+        },
+        "assignments": [
+          {
+            "Gia": "B1",
+            "Wes": "D3",
+            "Cody": "C4",
+            "Imani": "F7",
+            "Lex": "E6",
+            "Nia": "G5",
+            "Zara": "A2"
+          }
+        ],
+        "search_nodes": 4409,
+        "truncated_assignments": false,
+        "domain_sizes": {
+          "Wes": 9,
+          "Cody": 41,
+          "Gia": 6,
+          "Imani": 41,
+          "Lex": 41,
+          "Nia": 41,
+          "Zara": 41
+        },
+        "expected_full_roster_present_post_enumeration": true,
+        "unique_expected_full_roster_post_enumeration": true
+      },
+      "eight": {
+        "full_assignment_count": 1,
+        "answers": {
+          "('Cody', 'C4')": 1
+        },
+        "assignments": [
+          {
+            "Gia": "B1",
+            "Wes": "D3",
+            "Cody": "C4",
+            "Imani": "F7",
+            "Lex": "E6",
+            "Nia": "G5",
+            "Zara": "A2"
+          }
+        ],
+        "search_nodes": 3571,
+        "truncated_assignments": false,
+        "domain_sizes": {
+          "Wes": 7,
+          "Cody": 41,
+          "Gia": 6,
+          "Imani": 41,
+          "Lex": 41,
+          "Nia": 41,
+          "Zara": 41
+        },
+        "expected_full_roster_present_post_enumeration": true,
+        "unique_expected_full_roster_post_enumeration": true
+      }
+    }
+  }
+}

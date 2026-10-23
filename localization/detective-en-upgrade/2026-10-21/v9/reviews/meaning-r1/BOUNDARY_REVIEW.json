@@ -1,0 +1,674 @@
+{
+  "reviewer": "/root/hm9_truth_mechanics",
+  "stage": "meaning_boundary",
+  "status": "PASS",
+  "candidate_sha256": "138fffc57d1d8e6da7ee41f8e4c98eba680c5cb7b9ca2b01f87d8633abd3670e",
+  "baseline_v8_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "canonical_units": 3067,
+  "stable_id_order": "PASS",
+  "allowlisted_units": 220,
+  "changed_units": 212,
+  "changed_folios": [
+    7,
+    12,
+    16,
+    19,
+    23,
+    27,
+    31,
+    34,
+    35,
+    37,
+    41,
+    45,
+    49,
+    53,
+    57,
+    61,
+    65,
+    69,
+    73,
+    77,
+    83,
+    87,
+    91,
+    95,
+    99,
+    105,
+    109,
+    113,
+    117,
+    120,
+    121,
+    125,
+    129,
+    133,
+    137
+  ],
+  "outside_allowlist": [],
+  "protected_non_allowlist_units_exact": 2847,
+  "protected_mixed137_prefix": {
+    "value": "already proved.\n\n",
+    "sha256": "5c89ec026ac0186446a7a74cd25659af1602bd5e90813d600dc98d538632d03c",
+    "status": "PASS"
+  },
+  "all_183_turn_order_and_canonical_binding": "PASS",
+  "scene_checks": [
+    {
+      "scene_id": "INTRO07",
+      "turn_count": 3,
+      "speaker_order": [
+        "MIMI",
+        "LULI",
+        "DILO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "BIBI",
+        "MIMI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE01",
+      "turn_count": 5,
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE02",
+      "turn_count": 5,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "NINI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE03",
+      "turn_count": 5,
+      "speaker_order": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE04",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE05",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "THREAD34",
+      "turn_count": 4,
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE06",
+      "turn_count": 8,
+      "speaker_order": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE07",
+      "turn_count": 5,
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE08",
+      "turn_count": 5,
+      "speaker_order": [
+        "ALIO",
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "DILO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE09",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "BIBI",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "ALIO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE10",
+      "turn_count": 5,
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE11",
+      "turn_count": 6,
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "MIMI",
+        "DILO",
+        "MIMI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE12",
+      "turn_count": 5,
+      "speaker_order": [
+        "DILO",
+        "NINI",
+        "DILO",
+        "NINI",
+        "DILO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE13",
+      "turn_count": 6,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "LULI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE14",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "NINI",
+        "LULI",
+        "MIMI",
+        "ALIO",
+        "LULI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE15",
+      "turn_count": 4,
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "ALIO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE16",
+      "turn_count": 6,
+      "speaker_order": [
+        "ALIO",
+        "BIBI",
+        "MIMI",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE17",
+      "turn_count": 6,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE18",
+      "turn_count": 5,
+      "speaker_order": [
+        "MIMI",
+        "DILO",
+        "NINI",
+        "DILO",
+        "LULI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE19",
+      "turn_count": 6,
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE20",
+      "turn_count": 6,
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "DILO",
+        "MIMI",
+        "NINI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE21",
+      "turn_count": 7,
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI",
+        "DILO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE22",
+      "turn_count": 5,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "DILO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE23",
+      "turn_count": 5,
+      "speaker_order": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE24",
+      "turn_count": 6,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "LULI",
+        "MIMI",
+        "ALIO"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE25",
+      "turn_count": 5,
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "DILO",
+        "ALIO",
+        "MIMI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "THREAD120",
+      "turn_count": 5,
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "MIMI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE26",
+      "turn_count": 5,
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "MIMI",
+        "BIBI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE27",
+      "turn_count": 5,
+      "speaker_order": [
+        "BIBI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE28",
+      "turn_count": 5,
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "BIBI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE29",
+      "turn_count": 5,
+      "speaker_order": [
+        "MIMI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    },
+    {
+      "scene_id": "CASE30",
+      "turn_count": 5,
+      "speaker_order": [
+        "MIMI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ],
+      "canonical_dialogue_binding": "PASS",
+      "meaning_review": "PASS"
+    }
+  ],
+  "v8_non_comms_repairs_exact": {
+    "count": 143,
+    "ids": [
+      "page005.block05",
+      "page005.block07",
+      "page009.block02",
+      "page009.block04",
+      "page012.block04",
+      "page027.block15",
+      "page027.block16",
+      "page027.block17",
+      "page030.block03",
+      "page040.block05",
+      "page040.block06",
+      "page040.block07",
+      "page052.block04",
+      "page052.block05",
+      "page052.block06",
+      "page052.block07",
+      "page052.block08",
+      "page052.block09",
+      "page076.block09",
+      "page076.block12",
+      "page081.block04",
+      "page081.block05",
+      "page081.block06",
+      "page094.block08",
+      "page108.block12",
+      "page108.block13",
+      "page120.block05",
+      "page126.block04",
+      "page130.block03",
+      "page141.block11",
+      "page146.block04",
+      "page146.block05",
+      "page146.block06",
+      "page146.block07",
+      "page146.block08",
+      "page146.block09",
+      "page146.block10",
+      "page146.block11",
+      "page146.block12",
+      "page148.block15",
+      "page184.block15",
+      "page184.block16",
+      "page184.block17",
+      "page193.block07",
+      "page193.block08",
+      "page193.block09",
+      "page014.block02",
+      "page011.block02",
+      "page122.block04",
+      "page167.block07",
+      "page220.block07",
+      "page220.block08",
+      "page220.block09",
+      "page220.block10",
+      "page220.block11",
+      "page220.block12",
+      "page181.block07",
+      "page181.block08",
+      "page181.block09",
+      "page185.block07",
+      "page185.block08",
+      "page185.block09",
+      "page185.block10",
+      "page188.block07",
+      "page188.block08",
+      "page188.block09",
+      "page188.block10",
+      "page188.block11",
+      "page190.block07",
+      "page190.block08",
+      "page190.block09",
+      "page190.block10",
+      "page190.block12",
+      "page194.block07",
+      "page194.block08",
+      "page194.block09",
+      "page197.block07",
+      "page197.block08",
+      "page197.block09",
+      "page197.block10",
+      "page197.block11",
+      "page197.block12",
+      "page197.block13",
+      "page199.block07",
+      "page199.block08",
+      "page199.block09",
+      "page199.block10",
+      "page199.block11",
+      "page199.block12",
+      "page202.block07",
+      "page202.block08",
+      "page202.block09",
+      "page202.block10",
+      "page205.block07",
+      "page205.block08",
+      "page205.block09",
+      "page205.block10",
+      "page205.block11",
+      "page205.block12",
+      "page205.block13",
+      "page208.block07",
+      "page208.block08",
+      "page208.block09",
+      "page208.block10",
+      "page208.block11",
+      "page210.block07",
+      "page210.block08",
+      "page210.block09",
+      "page210.block10",
+      "page210.block11",
+      "page210.block12",
+      "page213.block07",
+      "page213.block08",
+      "page213.block09",
+      "page213.block10",
+      "page213.block11",
+      "page213.block12",
+      "page215.block07",
+      "page215.block08",
+      "page215.block09",
+      "page215.block10",
+      "page215.block11",
+      "page218.block07",
+      "page218.block08",
+      "page218.block09",
+      "page218.block10",
+      "page223.block07",
+      "page223.block08",
+      "page223.block09",
+      "page223.block10",
+      "page223.block11",
+      "page223.block12",
+      "page187.block07",
+      "page187.block08",
+      "page187.block09",
+      "page187.block10",
+      "page187.block11",
+      "page187.block12",
+      "page221.block07",
+      "page221.block08",
+      "page221.block09",
+      "page221.block10",
+      "page221.block11"
+    ],
+    "status": "PASS"
+  },
+  "v8_comms_function_unlock": {
+    "ids": [
+      "page027.block27",
+      "page027.block28",
+      "page027.block29"
+    ],
+    "explanation": "Only the three Case04 Nini dialogue units overlap the earlier V8 repair ledger. The precise Pixel companion interview-lead redirect remains explicit in new wording."
+  },
+  "all27_v6_repairs_exact": "PASS",
+  "all_hint_solution_and_map_canonical_content": "BYTE_IDENTICAL_TO_V8",
+  "puzzle_solves_repeated": false,
+  "new_proof_or_artwork_visual_review": "NOT_RUN; this receipt binds canonical dialogue and protected text, not an unseen PDF."
+}

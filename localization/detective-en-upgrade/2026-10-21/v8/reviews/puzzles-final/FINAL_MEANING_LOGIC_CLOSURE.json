@@ -1,0 +1,826 @@
+{
+  "format": "detective-v8-final-meaning-and-logic-review-v1",
+  "canonical_candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "disposition": "PASS_MEANING_AND_PUZZLE_LOGIC",
+  "reviewer_role": "Independent all30puzzlelogic/coherence reviewer; rootsolewriter",
+  "scope": {
+    "cases_actually_reviewed": 30,
+    "spatial_maps_actually_modeled_and_exhaustively_enumerated": 16,
+    "nonspatial_cases_actually_resolved": 14,
+    "hint_entries_actually_read_and_checked": 90,
+    "answer_and_reasoning_sections_actually_read": 30,
+    "unsolved_evidence_folios_rendered_and_visually_inspected": 31,
+    "original_evidence_source": "All31unsolvedV8evidencefoliosand16answer-artfoliosverifiedbyactualrenderpixelhashasidenticaltoindividuallyinspectedV7figures. Case03solution184embeddedphotographicartidentical;newnativecaptionreviewedascandidatetext.",
+    "closed_map_roster_uniqueness": "ExactlyONE FULL witnessassignment for each of16 maps, notmerelyuniqueintendedcontact.",
+    "final_V8_proof_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+    "render_binding_receipt": "FINAL_EVIDENCE_RENDER_BINDING.json",
+    "previous_verified_V8_proof_sha256": "40c38884d5732b74f3766aaa4a26938069b82b5eeb497ee0e5a1ea17597d8ce2",
+    "current_render_carrythrough_receipt": "FINAL_EVIDENCE_RENDER_BINDING_67278523.json",
+    "final_border_only_revision": "Folio148borderrepaired;canonicaltextunchanged. Root225pagetextand224pagepixelidentityreceiptread;all47evidence/answerartpixelsindependentlyreverifiedagainstinitialbinding."
+  },
+  "method": {
+    "visible_source": "ReadfullV7readerandall31unsolvedevidencefigures. ReadallV8changedsemanticunitsandnewsolutionchainsagainstsamevisibleevidence;recheckedlatestcanonicalrepairs.",
+    "fresh_solver": "New CSP separately implementedfromprintedcluesandvisuallycheckedgridtranscriptions;neverconstrainswithprintedanswercoordinates. Enforcesusablecells,allpeopleonce,distinctrows/cols,unary/binaryclues,andexactlyonecompanionduringsearch.",
+    "final_rerun": "final-spatial-rerun.json usesactualnewglobalconventions, C3Case02blocked, F7Case19blocked, E5/E7/F7Case20allusable.",
+    "nonspatial": "05:720permutations→1;21:24uprighttear-classorders→1;26:derivedfromnew14mapfullsolutions. Remainingcasesdirectlycheckedagainstallprintedcandidateevidenceandoptions.",
+    "reasoning_chain_validation": "Newprintedchainscheckedagainstactualcandidatebranches. Explicitbadrostersin19/22/25validatedagainstallordinaryconstraintsandthenfailedthecompanioncount. 13/20furtherconditionalerrorsfoundandcorrectedbyroot.",
+    "final_rule_closure": "Definitionsp11makeManhattan,compass,row-onlyaxis,beside,diagonal,objectmarkerpriorityexplicitandconsistent."
+  },
+  "counts": {
+    "spatial_case_ids": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      10,
+      12,
+      13,
+      15,
+      17,
+      19,
+      20,
+      22,
+      23,
+      25,
+      29
+    ],
+    "spatial_complete_assignment_count_each": 1,
+    "nonspatial_case_ids": [
+      3,
+      5,
+      8,
+      9,
+      11,
+      14,
+      16,
+      18,
+      21,
+      24,
+      26,
+      27,
+      28,
+      30
+    ],
+    "closed_fixed_final_fields": {
+      "RULEWORD": "ASSUMPTIONS",
+      "ACCESS": "D3",
+      "CODE": "BALL–STAR–BOLT–HEART–KEY–MOON"
+    },
+    "reader_choice_field": "CALLSIGN=earlierofficialcallsign"
+  },
+  "cross_case_checks": {
+    "four0records": [
+      "black-envelopeintakerecord",
+      "TrophyHalltag",
+      "OpenNightevidencelabel",
+      "oldlockerroutingcard"
+    ],
+    "look_twice_not_fifth_mark": true,
+    "photo_captions": "PHOTOA/PHOTOBonly; inside-photo017/071evidenceandlaterpaperrecordchronologyretained.",
+    "selected_map_ids": [
+      2,
+      4,
+      6,
+      7,
+      10,
+      12,
+      13,
+      15,
+      17,
+      19,
+      20,
+      22,
+      23,
+      25
+    ],
+    "derived_instruction": "CHECKTHEOLDMAP",
+    "case13_empty_room": "HideRoom",
+    "case01_excluded_from_extraction": true,
+    "case29_coordinate_saved_and_reused": true,
+    "same_call_sign_on_credential_panel_and_certificate": true,
+    "route_system_limits": "MATCH/ROUTE/VERIFY;CASECREATIONNONE;doesnotchooseculpritorsolve;alllocalstoriesconsistentwithcontact-mapoutcomes.",
+    "field_position_count": "Fivefielddetectivesplusreader=sixfieldpositions;Bibiisarchivementor.",
+    "reused_evidence": "05code,16RULE0FIRST,21empty-note,26oldmapinstruction,27margininstruction,28ASSUMPTIONS,29D3allcorrectlyrouteintofinale."
+  },
+  "resolved_findings": [
+    {
+      "id": "PL-11-CONVENTIONS",
+      "closure": "PASSstandardkeydefinedandall16fullrostersstillunique."
+    },
+    {
+      "id": "PL-26-ROOM-ELIGIBILITY",
+      "closure": "PASSexplicitkey,hintand14rowtableagreewithfreshrosters."
+    },
+    {
+      "id": "PL-27-ROTATION-REASON",
+      "closure": "PASSfixedscale/orientationandthreeactualcoordinateanchors."
+    },
+    {
+      "id": "PL-28-RULE-TAIL",
+      "closure": "PASScopyredirectto132wherefullruleisprinted."
+    },
+    {
+      "id": "PL-09-UNMARKED-EXCLUSION",
+      "closure": "PASSexplicitLookTwiceunmarkedexclusion."
+    },
+    {
+      "id": "PL-F13-CONDITIONAL",
+      "closure": "PASSMoxieD5rejectedfirst;BodhiB6→RemyD7explicitlyconditionedonMoxieC5."
+    },
+    {
+      "id": "PL-F20-COUNT",
+      "closure": "PASScurrenttextnamesMaraE4/AsaE3andcorrectlyexplainsDemiwithtwootherpeople."
+    },
+    {
+      "id": "PL-F20-REFERENT",
+      "closure": "PASSnamedalternativesrestored."
+    },
+    {
+      "id": "PL-F17-OTIS",
+      "closure": "PASSC5wouldblockbothSunnybenchchoices,forcingOtiscolumnA."
+    },
+    {
+      "id": "PL-F10-DASH",
+      "closure": "PASScompanionclueexplicitwhenrestrictingDash."
+    }
+  ],
+  "cases": [
+    {
+      "case": 1,
+      "actual_unsolved_folio_seen": 18,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Quill": "B1",
+        "Pip": "A3",
+        "Morse": "C4",
+        "Knox": "D2"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 2,
+      "actual_unsolved_folio_seen": 21,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Nova": "B3",
+        "Dax": "D2",
+        "Rook": "A6",
+        "Atlas": "F4",
+        "Ivy": "C5",
+        "Max": "E1"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 3,
+      "actual_unsolved_folio_seen": [
+        24,
+        25
+      ],
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Manual side-by-side visual inspection of both actual evidence photographs, with printed count-per-location rule.",
+      "closed_output": "Ten changed locations",
+      "answer": [
+        "case label 017/071",
+        "centre cushion pale/checks",
+        "shield narrow dark rim/wide bright dotted rim",
+        "ring award narrow oval/wider rounder",
+        "phone stand rectangular/circular base",
+        "recorder plain/buttoned front",
+        "pen horizontal/diagonal",
+        "right crystal narrow/wide diamond",
+        "piano two/three pedals",
+        "shelf camera black-raised/silver top"
+      ],
+      "unique_scope": "10 semantic changed locations; descriptions can vary.",
+      "limitations": "Manual deliberate-change inventory; no claim of pixel-identical unchanged areas. Pixel difference is unsuitable because photographic raster detail changes/noise spread beyond deliberate object edits.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 4,
+      "actual_unsolved_folio_seen": 29,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Echo": "A2",
+        "Kai": "B6",
+        "Zuri": "F4",
+        "Briar": "D3",
+        "Clover": "C5",
+        "Pixel": "E1"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 5,
+      "actual_unsolved_folio_seen": 33,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "New exhaustive 720-permutation enumeration of the six printed clue relations.",
+      "answer": [
+        "BALL",
+        "STAR",
+        "BOLT",
+        "HEART",
+        "KEY",
+        "MOON"
+      ],
+      "solution_count": 1,
+      "reason": "BALL<STAR<BOLT<HEART<MOON puts HEART at least fourth. HEART cannot be fifth and must precede MOON, so HEART fourth; the first three are BALL STAR BOLT, and KEY fifth MOON sixth.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 6,
+      "actual_unsolved_folio_seen": 39,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Scout": "E3",
+        "Hugo": "A6",
+        "Arlo": "D2",
+        "Vale": "F5",
+        "Wren": "C4",
+        "Uma": "B1"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 7,
+      "actual_unsolved_folio_seen": 43,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Blaze": "A3",
+        "Indigo": "D2",
+        "Willa": "B1",
+        "Zoe": "C6",
+        "Rocket": "E5",
+        "Gray": "F4"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 8,
+      "actual_unsolved_folio_seen": 47,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Manual route filtering over all three printed paths.",
+      "candidates": {
+        "A": "fails closed Paint Corridor",
+        "B": "fails locked Staff Stairs",
+        "C": "Lobby→Costume Storage→Side Hall→Prop Room contains neither forbidden area"
+      },
+      "answer": "C",
+      "solution_count": 1,
+      "reason": "The separate p46 instruction explicitly treats Paint Corridor as closed now; p47 closure-at16:30 wording cannot reopen it.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 9,
+      "actual_unsolved_folio_seen": 51,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Manual classification of all seven visible evidence items by symbol and record context.",
+      "answer": {
+        "true_marks": [
+          "black-envelope intake record",
+          "Trophy Hall tag",
+          "Open Night evidence label",
+          "old locker routing card"
+        ],
+        "excluded": [
+          "Look-Twice routing file: no 0 mark",
+          "poster: striped decoration",
+          "stage-light dial: dial face/needle"
+        ]
+      },
+      "solution_count": 1,
+      "reason": "Exactly four deliberate plain 0 marks occur on Academy case records; routing is not marking.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 10,
+      "actual_unsolved_folio_seen": 55,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Ember": "D5",
+        "Nico": "F6",
+        "Wyatt": "B7",
+        "Finn": "A2",
+        "Beck": "C1",
+        "Vera": "G4",
+        "Dash": "E3"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 11,
+      "actual_unsolved_folio_seen": 59,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Compare each A-D visible timestamp against inclusive 15:20–16:05 window.",
+      "times": {
+        "A": "15:31",
+        "B": "15:44",
+        "C": "15:52",
+        "D": "08:07"
+      },
+      "answer": "D",
+      "solution_count": 1,
+      "reason": "Only D is outside the window. E-G are explicitly excluded from timestamp question.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 12,
+      "actual_unsolved_folio_seen": 63,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Kira": "E6",
+        "Nell": "G2",
+        "Iris": "A5",
+        "Eli": "F4",
+        "Cove": "B7",
+        "Sage": "C3",
+        "Winter": "D1"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 13,
+      "actual_unsolved_folio_seen": 67,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Juno": "F3",
+        "Skye": "E4",
+        "Eden": "G2",
+        "Willow": "A1",
+        "Bodhi": "B7",
+        "Moxie": "C5",
+        "Remy": "D6"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 14,
+      "actual_unsolved_folio_seen": 71,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Manual graph traversal and elapsed-time calculation.",
+      "graph_edges": [
+        "Dressing–Hall",
+        "Hall–Stage",
+        "Hall–Prop"
+      ],
+      "edge_minutes": 2,
+      "answer": "Noah",
+      "solution_count": 1,
+      "reason": "Stage–Hall–Dressing takes4min; Noah claims16:10→16:12, only2min. Maya staying inDressing, Leo atHall towardStage16:12 and Sofia inProp16:14 impose no impossible travel.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 15,
+      "actual_unsolved_folio_seen": 75,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Harper": "D2",
+        "Piper": "F4",
+        "Duke": "E5",
+        "Cruz": "C3",
+        "Jett": "G7",
+        "Inez": "B6",
+        "Milo": "A1"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 16,
+      "actual_unsolved_folio_seen": 79,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Intersect all printed building/year constraints against all offered choices.",
+      "building_choices": [
+        "Old Academy Annex",
+        "City Library",
+        "North Station"
+      ],
+      "year_choices": [
+        1998,
+        2002,
+        2008
+      ],
+      "answer": {
+        "building": "Old Academy Annex",
+        "year": 2002
+      },
+      "solution_count": 1,
+      "reason": "TRAINING ANNEX plaque/crest identifies building. Badge range1999–2003 plus after2001 upgrade plus before2004 expiry excludes1998 and2008; offered2002 remains. No external real-world technology dating used.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 17,
+      "actual_unsolved_folio_seen": 85,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Otis": "A1",
+        "Mika": "B4",
+        "Koa": "F6",
+        "Sunny": "D5",
+        "Luna": "G7",
+        "Axel": "E3",
+        "Reed": "C2"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 18,
+      "actual_unsolved_folio_seen": 89,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Fresh arithmetic for all four visible records.",
+      "real_times": {
+        "A": "15:15",
+        "B": "15:16",
+        "C": "15:17",
+        "D": "15:18"
+      },
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "solution_count": 1,
+      "reason": "Add7 to cafe15:08/15:11; subtract2 fromDilo15:18; camera15:17 unchanged. All four corrected times are distinct.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 19,
+      "actual_unsolved_folio_seen": 93,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Avery": "E5",
+        "Theo": "C1",
+        "Ollie": "D3",
+        "Dex": "G2",
+        "Mack": "A7",
+        "Kian": "F4",
+        "Sasha": "B6"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 20,
+      "actual_unsolved_folio_seen": 97,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Sid": "E7",
+        "Pax": "F5",
+        "Luca": "A1",
+        "Mara": "D4",
+        "Asa": "B2",
+        "Toby": "C6",
+        "Demi": "G3"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 21,
+      "actual_unsolved_folio_seen": 101,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Manually transcribed physical tear classes plus fresh exhaustive enumeration of24 upright-lettered orders, independent of sentence text.",
+      "answer": {
+        "order": [
+          "B",
+          "D",
+          "A",
+          "C"
+        ],
+        "message": "THE ANSWER IS IN WHAT YOU LEAVE EMPTY."
+      },
+      "solution_count": 1,
+      "reason": "B leftflat; its singlepoint matchesD leftnotch; D doublerightpoint matchesA doublenotch; A bulge matchesC curvednotch; C rightflat. The joined sentence confirms this order.",
+      "limitations": "Shape classes are visually read, not automatically measured contour matching.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 22,
+      "actual_unsolved_folio_seen": 107,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Lex": "E6",
+        "Imani": "F7",
+        "Cody": "C4",
+        "Nia": "G5",
+        "Gia": "B1",
+        "Wes": "D3",
+        "Zara": "A2"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 23,
+      "actual_unsolved_folio_seen": 111,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Vivi": "G7",
+        "Cora": "D1",
+        "Ozzy": "A3",
+        "Rae": "F6",
+        "Mae": "C5",
+        "Pia": "B2",
+        "Jude": "E4"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 24,
+      "actual_unsolved_folio_seen": 115,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Manual monotone mud-transfer reasoning over all four printed mud values.",
+      "mud": [
+        100,
+        70,
+        35,
+        10
+      ],
+      "answer": "East Path→West Gate",
+      "solution_count": 1,
+      "reason": "One uninterrupted walk with no mud added forces descending transfer sequence; 100 isEastPath,10 isWestGate. Decorative tread arrow is expressly non-directional evidence.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 25,
+      "actual_unsolved_folio_seen": 119,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Gabe": "F3",
+        "Casey": "D5",
+        "Rio": "E2",
+        "Tate": "C6",
+        "Sol": "G1",
+        "Wynn": "B7",
+        "Nori": "A4"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 26,
+      "actual_unsolved_folio_seen": 123,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Fresh extraction from the newly solved FULL rosters of all14 listed maps; room/zone exclusions explicit in audit and proposed localkey.",
+      "answer": "CHECK THE OLD MAP",
+      "solution_count": 1,
+      "reason": "Each selected map has exactlyone empty eligible room; initials areCHECKTHEOLDMAP. Case01 and29 are outside selected set. Case13 zero-room isHideRoom.",
+      "derived_table_file": "case26-derived-extraction.json",
+      "final_candidate_meaning_and_logic": "PASS",
+      "room_eligibility_closure": "p122namesOffice/Lab/ObservationCar/MusicArchiveasrooms andexcludesactualeightextraemptyzones;hint167matches;solution220providesall14actualroomnamesandinitials."
+    },
+    {
+      "case": 27,
+      "actual_unsolved_folio_seen": 127,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Manual geometric overlay check using allthree fixed landmark coordinates and fixed scale/orientation.",
+      "anchors": {
+        "C1": "North Stair",
+        "F3": "Courtyard Column",
+        "A5": "West Lift Shaft"
+      },
+      "answer": "Old Training Room atD2–E3, coincident with current Archive wall",
+      "solution_count": 1,
+      "reason": "With scale and orientation fixed, check C1NorthStair, F3CourtyardColumn and A5WestLift. The only old room spansD2–E3, coincident with currentArchiveWall. Repairedsolution221 now states this without falsely claiming onepoint fixesrotation.",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 28,
+      "actual_unsolved_folio_seen": 131,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Manual classification of allsix printed claims using preceding independently verified evidence, then evaluate allfour word-bank choices.",
+      "answer": {
+        "FACT": [
+          "A",
+          "B",
+          "C"
+        ],
+        "THEORY": [
+          "E"
+        ],
+        "UNSUPPORTED ASSUMPTION": [
+          "D",
+          "F"
+        ],
+        "word": "ASSUMPTIONS",
+        "rule": "ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND."
+      },
+      "solution_count": 1,
+      "reason": "A matches fourmarkedrecords; B matches independentlyderived initials; C matches alignedplan; E is plausibleunfinishedtrainingexplanation notyetproved; D secretwatcher andF guaranteedtunnel add evidence-free claims. Questions are needed, shortcuts irrelevant, and certainty is not the shared unsupported category.",
+      "final_candidate_meaning_and_logic": "PASS",
+      "copy_instruction_closure": "p130explicitlyredirectsreader aftersolving toprintedfullrule onp132, thenCaseWall13."
+    },
+    {
+      "case": 29,
+      "actual_unsolved_folio_seen": 135,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "spatial",
+      "actual_new_review": "FULL fresh independent enumeration",
+      "solution_count": 1,
+      "answer_full_roster": {
+        "Mavis": "A2",
+        "Cato": "I4",
+        "Jules": "E8",
+        "Bryn": "G9",
+        "Vega": "D3",
+        "Ren": "H5",
+        "Poppy": "C6",
+        "Wade": "F7",
+        "Seth": "B1"
+      },
+      "receipt": "spatial-enumerations.json",
+      "pedagogical_deduction_notes": "MAP_DEDUCTION_CHAINS.md",
+      "final_candidate_meaning_and_logic": "PASS"
+    },
+    {
+      "case": 30,
+      "actual_unsolved_folio_seen": 139,
+      "whole_case_story_objective_read": true,
+      "all_three_hints_read_and_checked": true,
+      "solution_and_reasoning_read_and_checked": true,
+      "kind": "nonspatial",
+      "method": "Dependency check of allfour visible final fields against earlier independently solved outputs and intended reader choice.",
+      "answer": {
+        "RULE WORD": "ASSUMPTIONS",
+        "ACCESS": "D3",
+        "CODE": [
+          "BALL",
+          "STAR",
+          "BOLT",
+          "HEART",
+          "KEY",
+          "MOON"
+        ],
+        "CALL SIGN": "Exact official call sign previously chosen by reader"
+      },
+      "unique_scope": "Three closed fields are fixed; fourth is a consistency check against reader-selected credential, intentionally not a globally fixed answer.",
+      "reason": "Sources explicitlyCase28/29/05/RecruitCredential. Final panel has no fresh clue or invented answer.",
+      "final_candidate_meaning_and_logic": "PASS",
+      "scope_note": "CALLSIGN is an intentional readerchoice made earlier; audit checks equality with credential, not a singlefixedglobalcallsign. Three otherfields fixed."
+    }
+  ],
+  "limits": [
+    "Geometrywasmanuallyreadfromrenderedfiguresandcrosscheckedagainsthistoricalcellmodels;solverdoesnotautomaticallyrecognizewallsoriconsfrompixels.",
+    "Nonspatialsemanticclassificationand10deliberatephotodifferenceinventorywerevisuallyreasoned,notclaimedaseverypossiblewordinguniqueness.",
+    "Case16yearisuniqueamongthethreeprintedchoices;noextraunprintedyearcandidatesareintroduced.",
+    "Scrapedgeenumerationusesmanuallytranscribeduprightshapeclasses,notautomatedcontourrecognition.",
+    "Callsignmentionedaboveisreaderchoice;blankcredentialresponsesareintentionallyopen.",
+    "ThisislogicandmeaningclosureincludingactualV8evidence-renderbinding;itdoesnotcertifyproductionimport,physicalprint,orall-pagefinaltypesetting."
+  ],
+  "open_logic_blockers": [],
+  "supporting_files": [
+    "../puzzles-r1/independent_solver.py",
+    "final-spatial-rerun.json",
+    "../puzzles-r1/ALL30_PUZZLE_AUDIT_R1.json",
+    "../puzzles-r1/verified-candidate-branches.json",
+    "case20-rejected-alternatives.json",
+    "../puzzles-r1/case05-sequence-check.json",
+    "../puzzles-r1/case21-edge-enumeration.json",
+    "../puzzles-r1/case26-derived-extraction.json",
+    "FIX_R1_bc90b444.json",
+    "FIX_R2_460a0f1d.json"
+  ]
+}

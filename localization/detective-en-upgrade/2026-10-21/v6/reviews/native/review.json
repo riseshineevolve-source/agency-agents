@@ -1,0 +1,135 @@
+{
+  "reviewer": "Actual independent agent /root/v6_native_review",
+  "reviewed_utc": "2026-10-21T14:29:05.864039+00:00",
+  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "baseline_candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "status": "PASS",
+  "review_stages": [
+    "native_language",
+    "audience"
+  ],
+  "scope": "All27changed stable-ID units, their neighbors, Case03p22-27/p36/p183-184 callback closure, original photo evidence and Case07/10/15map referents. Other3040units inherit accepted baseline; no repeated whole-book review claimed.",
+  "actual_changed_ids": [
+    "page020.block04",
+    "page020.block08",
+    "page024.block04",
+    "page025.block04",
+    "page027.block04",
+    "page027.block05",
+    "page042.block04",
+    "page042.block08",
+    "page042.block09",
+    "page042.block10",
+    "page054.block03",
+    "page054.block04",
+    "page054.block08",
+    "page074.block04",
+    "page074.block05",
+    "page074.block07",
+    "page074.block08",
+    "page074.block10",
+    "page074.block12",
+    "page096.block03",
+    "page096.block05",
+    "page096.block06",
+    "page096.block07",
+    "page154.block07",
+    "page164.block09",
+    "page165.block11",
+    "page190.block11"
+  ],
+  "changed_units_reviewed": 27,
+  "unchanged_baseline_units_confirmed": 3040,
+  "findings": [
+    {
+      "id": "NATIVE-CAPTIONS",
+      "status": "KEEP",
+      "segments": [
+        "page024.block04",
+        "page025.block04"
+      ],
+      "evidence": "Exact PHOTO A/B external captions obey owner instruction, remove number/chronology spoilers, and leave internal017/071 difference available to discover."
+    },
+    {
+      "id": "NATIVE-CALLBACK",
+      "status": "KEEP",
+      "segments": [
+        "page027.block04",
+        "page027.block05"
+      ],
+      "evidence": "Callback derives different records from the evidence case within the photographs, rather than removed external captions. p36 adds the Heritage/intake archive destination. No invented human culprit or new chronology."
+    },
+    {
+      "id": "NATIVE-ADJACENCY",
+      "status": "KEEP",
+      "segments": [
+        "page020.block04",
+        "page042.block04",
+        "page054.block03",
+        "page074.block04"
+      ],
+      "evidence": "Plain up/down/left/right language, same-room restriction and explicit exclusion of diagonals/wall crossings are accessible to8-12readers. In this case prevents an unreviewed global rule change."
+    },
+    {
+      "id": "NATIVE-REFERENTS",
+      "status": "KEEP",
+      "segments": [
+        "page042.block08",
+        "page042.block09",
+        "page042.block10",
+        "page054.block08",
+        "page154.block07",
+        "page190.block11"
+      ],
+      "evidence": "Viewed source images. Metal frame C2 is visible; three wheeled equipment cases recognizable; wheeled robot arm visibly distinct from other devices. Hint and solution use matching new terms."
+    },
+    {
+      "id": "NATIVE-DIRECTIONS",
+      "status": "KEEP",
+      "segments": [
+        "page074.block07",
+        "page074.block08",
+        "page096.block05",
+        "page096.block06",
+        "page096.block07"
+      ],
+      "evidence": "Explicit row/column comparisons remove due-south/same-column and exact45-degree ambiguity without giving witness coordinates. At least one permits unequal positive offsets; exactly one row/column means touching diagonal."
+    },
+    {
+      "id": "NATIVE-HINTS",
+      "status": "KEEP",
+      "segments": [
+        "page164.block09",
+        "page165.block11"
+      ],
+      "evidence": "Hints match actual clue vocabulary and reinforce reasoning without introducing extra rules or final answers."
+    },
+    {
+      "id": "NATIVE-SYMBOL-KEYS",
+      "status": "KEEP",
+      "segments": [
+        "page020.block04",
+        "page042.block04",
+        "page054.block04",
+        "page074.block05"
+      ],
+      "evidence": "Symbol-led keys avoid unsupported legacy furniture labels; revised Case15key correctly permits the circle-marked pool tables visible on A1/C2."
+    },
+    {
+      "id": "NATIVE-BUNKS",
+      "status": "KEEP",
+      "segments": [
+        "page096.block03"
+      ],
+      "evidence": "Usable-bunk classification is explicit and child-readable. Actual E7/F7map-circle correction remains separately required."
+    }
+  ],
+  "open_findings": [],
+  "recommended_changes": [],
+  "art_and_layout_status": "NOT_APPROVED_BY_THIS_RECEIPT; original referents inspected, corrected map pixels and production fit require separate evidence.",
+  "print_ready": false,
+  "limits": [
+    "Bounded language/audience review, not a new whole-book semantic or production approval.",
+    "Case20map symbols must actually match usable-bunk wording."
+  ]
+}

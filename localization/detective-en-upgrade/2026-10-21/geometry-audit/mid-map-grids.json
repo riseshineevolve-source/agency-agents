@@ -1,0 +1,21 @@
+{
+ "source_pdf_sha256":"9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+ "candidate_sha256":"9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+ "method":"Direct visual original-map transcription; room walls rather than label proximity; expected placements for post-enumeration comparison only.",
+ "cases":[
+  {"case":10,"columns":"ABCDEFG","clue_page":54,"map_page":55,"solutions_pages":[194,195],"hint_pages":[154,163,172],
+   "room_codes":{"T":"Tool Room","K":"Kinetics Lab","R":"Robotics Lab","A":"Assembly Hall","D":"Demo Stage","C":"Control Booth"},
+   "room_grid":[["T","T","T","T","T","D","D"],["T","K","K","K","A","D","D"],["K","K","K","K","A","D","D"],["K","R","A","A","A","A","D"],["R","R","A","A","A","C","C"],["R","R","R","A","C","C","C"],["R","R","R","A","C","C","C"]],
+   "objects":{"locker":["A1","B2","D2"],"parts_crate":["B1","E1"],"control_console":["F1","G2","B5","G5"],"bunk":["B3","A4"],"demo_seat":["G1","D4","F4","D5","F6","E7"],"charging_pod":["A5","B6"],"coolant_tank":["C7"]},
+   "blocked":["A1","B1","E1","F1","B2","D2","G2","A5","B5","G5","B6","C7"],
+   "icon_vocabulary_limit":"A5/B6 are black-blocked wheeled units treated as charging pods; C7 is black-blocked round tank; B1/E1 are black-blocked square crates. Tall box iconsB3/A4 are circle-marked usable bunks. Source key lists cryopod rather than charging pod; alternate interpretation of charging pod as tall box is tested, never repaired by expected roster.",
+   "expected_for_comparison_only":{"Ember":"D5","Nico":"F6","Wyatt":"B7","Finn":"A2","Beck":"C1","Vera":"G4","Dash":"E3"}},
+  {"case":15,"columns":"ABCDEFG","clue_page":74,"map_page":75,"solutions_pages":[202,203],"hint_pages":[155,164,173],
+   "room_codes":{"G":"Games Cabin","E":"Equipment Room","R":"Ranger Cabin","F":"First Aid Hut","L":"Lakeside Dock","W":"Welcome Lodge"},
+   "room_grid":[["G","G","G","G","L","L","L"],["E","G","G","G","G","L","W"],["E","E","R","R","L","L","W"],["E","R","R","R","L","L","W"],["E","R","F","F","F","L","W"],["E","R","R","F","F","W","W"],["E","E","F","F","F","W","W"]],
+   "objects":{"canoe":["E1","F1"],"cot":["C4","C7"],"circle_marked_table":["A1","C2"],"backpacks":["A7","F6"],"canoe_rack":["A2","A3","F2","F3"],"games_shelf":["E2"],"welcome_desk":["G2"]},
+   "blocked":["A2","A3","F2","F3","E2","G2","A7","F6"],
+   "visual_notes":["EquipmentRoom includesB3 andB7; RangerCabin includesC3/D3 but excludesB3.","GamesCabin includesE2 but notE1. LakesideDock coversE1:G1,F2,E3:F4,F5.","FirstAidHut row5 includesC5,D5,E5; Duke row5 alone is not a singleton before other constraints.","A1/C2 are circle-marked pool-table-like icons; key calls standable stool. No literal clue targets them, so their usability follows printed circle marker without guessing object identity."],
+   "expected_for_comparison_only":{"Harper":"D2","Piper":"F4","Duke":"E5","Cruz":"C3","Jett":"G7","Inez":"B6","Milo":"A1"}}
+ ]
+}

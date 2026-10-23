@@ -1,0 +1,68 @@
+{
+  "reviewer": "case12_geometry",
+  "stage": "independent visual map transcription and finite clue-solution enumeration",
+  "reviewed_utc": "2026-10-21T11:04:27.200829+00:00",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "decision": "KEEP_CASE12_PROSE_AND_PUZZLE__SOURCE_LOGIC_CONFIRMED",
+  "source_folios_visually_inspected": [
+    11,
+    62,
+    63,
+    172,
+    197,
+    198
+  ],
+  "additional_text_backcheck_folios": [
+    60,
+    61,
+    154,
+    163
+  ],
+  "methods": [
+    "Viewed full source rendered pages and high-resolution map crop; manually assigned all49cell centers to their named areas.",
+    "Enumerated all row/column-distinct witness assignments satisfying the seven literal source clues; expected roster consulted as post-enumeration comparison only.",
+    "Checked candidate60\u201361 and protected source hints/solutions; no changed puzzle clues or answer detected."
+  ],
+  "checks": {
+    "G2_visibly_in_Stage_Wing": true,
+    "D1_visibly_in_same_Stage_Wing": true,
+    "full_assignment_count": 1,
+    "answer": "Nell at G2",
+    "source_solution_roster_matches_exhaustive_result": true,
+    "all_three_hints_consistent": true,
+    "protected_units_in_checked_scope_unchanged": 103,
+    "all_silhouette_sensitivity_variants_same_unique_result": true
+  },
+  "deduction_backcheck": [
+    "ColumnB plus outerwall gives B1/B7; B1 blocked, so CoveB7.",
+    "Iris third from south means row5 because seven witnesses occupy seven distinct rows.",
+    "Kira alone in BirdRoom excludes Eli there; Eli must be GreenRoom. Exactlyone Sage/Kira in Rehearsal means Sage there.",
+    "After Cove row7, Nell row2 and Iris row5, Kira cannot use BirdRoom row5 and must use row6. Eli then has only F4 in GreenRoom. This excludes NellF2, giving NellG2.",
+    "Nell occupies StageWing; Winter needs exactly one companion. Other areas cannot satisfy remaining row/column constraints. WinterD1, SageC3, IrisA5 and KiraE6 follow."
+  ],
+  "sensitivity_note": "C4 and E7 have filled black blocked-object markers. Their decorative pet-equipment silhouettes can be interpreted less precisely than the marker. Treating either or both as usable still yields the same unique full assignment. No answer defect is created by that pictorial taxonomy question.",
+  "candidate_prose_review": {
+    "page060.block08": "KEEP: identifies interview lead as a grounded starting point, no exclusive transmission claim or culprit inference.",
+    "page061.block07": "KEEP: Nini infers request before cracker reply; no map clue changed."
+  },
+  "limits": [
+    "Uniqueness is conditioned on the explicitly documented human visual grid transcription and printed standard rules.",
+    "This audits the original map source, not a newly rendered candidate product or physical print.",
+    "No claim about other cases, all225visualpages, overall puzzle uniqueness or release readiness."
+  ],
+  "artifacts": {
+    "case12-grid.json": "c224d3eacf896fa538073cf40bfbf6a2e868dc02d86dbdda67b360c8a22e8fad",
+    "solve-case12.py": "afed0128f2c572075c63c1ff72b6724afc79cbd7a21ae5ef418c9708117c05ee",
+    "case12-solver-result.json": "5575ef99cf30b660be85af1579d8768a780b854e9596eb96de2ee91862e0270e"
+  },
+  "evidence_png_hashes": {
+    "p011.png": "b48b8a6606694bfbf79d741e1916bb82825fc1af7b75a88fa8e08b0148ae4009",
+    "p062.png": "8ce985a020af08b50298e934942400860825919754d7bf904beccef50987ff2b",
+    "p063.png": "78c5b4d7131ec6520a38a30493e7fc8b5a999afa2b699aac093e80d099634b2f",
+    "p172.png": "04242d7ba8b3726d63c19cc71001766c62b1111f6f213aa755fe0ee58e0de585",
+    "p197.png": "8514ca482e3fbac33d71b4dd08b3ca401cd75b5657992f10bab1a534535cc509",
+    "p198.png": "de6be5248afe8bcbda067836f3cb51c25c5606ae7d897372276f9422514bbd11"
+  },
+  "production_or_candidate_changed": false
+}

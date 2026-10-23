@@ -1,0 +1,321 @@
+{
+  "role": "voice review, not replacement manuscript",
+  "source_basis": [
+    "reference/world-01.txt",
+    "reference/world-02.txt",
+    "reference/happy-me.txt",
+    "reference/gentle-steps.txt",
+    "source/detective-225.txt",
+    "source/detective-v10.txt"
+  ],
+  "page_convention": "Current225 physical PDF pages. V10 physical PDF pages differ from printed PAGE labels.",
+  "coverage_caveat": "Current225 pages1–18 image-only in extraction. Visually reviewed p6,7,8,16 via source-audit renders: profiles and Case01 comms retain V10 material. Other front pages pending source audit. Current225 pages19–147 story reviewed from extraction; puzzle/answer pages are not voice rewrite targets.",
+  "comparison_verdict": "Most current225 case comms match V10. The strongest verified specific loss is Case03 Inspector Glitter; family dilution is broader than this version delta.",
+  "cases": [
+    {
+      "case_id": "CASE_01",
+      "current225_pdf_pages": [
+        16,
+        17,
+        18
+      ],
+      "priority": "HIGH",
+      "placement_and_function": "Visually verified current225p16 retains minivan/tunnel conversation. Preserve current title and newer separated row/column clue revision onp17 (KNOX D2); use optional invitation/care in story or intro, never restore older clue. Avoid another group takedown of Alio; Dilo's promise to update theory is useful.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_02",
+      "current225_pdf_pages": [
+        19
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Keep trophy posture/paperwork pivot. Replace or soften Nini's adult promotion appraisal with a younger concrete observation; add one practical Mimi care gesture before the rules, not inside clues.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_03",
+      "current225_pdf_pages": [
+        22,
+        23
+      ],
+      "priority": "HIGH",
+      "placement_and_function": "Restore/adapt V10 Inspector Glitter scene. Naming the sparkle expresses Nini's investment; Luli tests relevance; Nini keeps dignity; Dilo enjoys the policy. Current shelf exchange loses that individual attachment.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_04",
+      "current225_pdf_pages": [
+        27
+      ],
+      "priority": "LOW",
+      "placement_and_function": "Keep professional staring exchange. Let Alio's body/helmet earn one visible reaction from a sibling; no extra box interrogation riff.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_05",
+      "current225_pdf_pages": [
+        30,
+        31
+      ],
+      "priority": "LOW",
+      "placement_and_function": "Keep locker competition and badge/conflict payoff. Dilo should invite reader challenge rather than perform only for Luli. Avoid inventing locker ownership as a plot fact.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_06",
+      "current225_pdf_pages": [
+        36,
+        37
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Keep overpromoted spoon and Good catch. Nini may wish the dragon needed soup: express care through a concrete object, not an adult lecture. Do not imply a real dragon is evidence.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_07",
+      "current225_pdf_pages": [
+        41
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Keep dramatic cupboards/elimination. Add one known sibling glance or protective gesture; Mimi's triumph line must land fondly rather than as dismissal.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_08",
+      "current225_pdf_pages": [
+        44,
+        45
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Keep load-bearing-wall payoff. After the joke, Mimi makes room for Alio to redraw/check his own route. Confidence remains useful; no one takes his job away.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_09",
+      "current225_pdf_pages": [
+        48,
+        49,
+        52
+      ],
+      "priority": "LOW",
+      "placement_and_function": "Protect Bibi's silence and incomplete memory. Keep solidarity joke if Alio's diction is simplified elsewhere. A quiet hand/seat offer can replace an additional punchline.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_10",
+      "current225_pdf_pages": [
+        53
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Keep cable tangle and please-log-that. Luli can hand Dilo the correct tool while teasing; practical sibling familiarity conveys faith in him.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_11",
+      "current225_pdf_pages": [
+        56,
+        57
+      ],
+      "priority": "GOLDEN_KEEP",
+      "placement_and_function": "Preserve oat-bar undercover exchange and breakfast Exhibit H. It lets the children tease authority safely; Mimi participates and keeps authority. Do not add another missing-phone joke nearby.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_12",
+      "current225_pdf_pages": [
+        60,
+        61
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Keep cracker/listening premise. Nini listens to a living creature's need; allow delight/concern in her reaction so she does not sound like an HR interviewer.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_13",
+      "current225_pdf_pages": [
+        65
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Keep fox-with-pockets loop and Alio listing weaknesses. Make Nini's intervention playful or protective; six dry takedowns risk a pile-on. Let Alio own the useful correction.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_14",
+      "current225_pdf_pages": [
+        68,
+        69
+      ],
+      "priority": "LOW",
+      "placement_and_function": "Preserve confused-not-guilty premise; never joke at the witness's memory/intelligence. One concrete protective family action is sufficient; no added methodological speech.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_15",
+      "current225_pdf_pages": [
+        72,
+        73
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Keep satellite/name-tags comparison. Mimi can check that everyone has their own bag; the care is the family cue. Do not turn it into another lost-property lecture.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_16",
+      "current225_pdf_pages": [
+        76,
+        77
+      ],
+      "priority": "GOLDEN_KEEP",
+      "placement_and_function": "Keep architecture hat, excellent detective underneath, controlled limits. Give Bibi a fond personal response to being recognized by the child recruit; do not invent historical evidence or mock age.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_17",
+      "current225_pdf_pages": [
+        82,
+        83
+      ],
+      "priority": "GOLDEN_KEEP",
+      "placement_and_function": "Preserve Mimi including reader in That's us, and helmet changing departments. Optional protective Dilo gesture beside Alio before boarding; no rule or location change.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_18",
+      "current225_pdf_pages": [
+        86,
+        87
+      ],
+      "priority": "GOLDEN_KEEP",
+      "placement_and_function": "Keep watch dignity/owner and Dilo correcting record. His voluntary repair matters more than a second joke; a sibling notices without gloating.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_19",
+      "current225_pdf_pages": [
+        90,
+        91
+      ],
+      "priority": "GOLDEN_KEEP",
+      "placement_and_function": "Preserve Dilo crosses off theory, Luli notices/says nothing and I like this plot development. Nini's ghost-application line is replaceable: returns her to concrete imagination, reduces bureaucratic chorus.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_20",
+      "current225_pdf_pages": [
+        94,
+        95
+      ],
+      "priority": "GOLDEN_KEEP",
+      "placement_and_function": "Preserve worried pear/strong alibi scene. It is Nini's imaginative attachment doing plot-adjacent work. Add no second anthropomorphic object in same spread.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_21",
+      "current225_pdf_pages": [
+        98,
+        99,
+        102
+      ],
+      "priority": "HIGH",
+      "placement_and_function": "Keep Nobody laughs and repair task. Immediately after paper tears, include brief caring reassurance directed to Dilo; team helps without erasing consequence. Avoid No one tears anything else sounding like public surveillance/shaming.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_22",
+      "current225_pdf_pages": [
+        104,
+        105
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Witness protection/cover identities is a good motif but adult diction clusters. Alio may keep one grand term; Nini should respond in her own concrete terms rather than another supervisor quip.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_23",
+      "current225_pdf_pages": [
+        108,
+        109
+      ],
+      "priority": "GOLDEN_KEEP",
+      "placement_and_function": "Preserve Luli anticipates scoreboard boast and number/In a tone. If adding a callback, use shared gaming history or Luli's climbing confidence, without inventing park/puzzle access permissions.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_24",
+      "current225_pdf_pages": [
+        112,
+        113
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Preserve Alio self-pausing and mud rule. Warmth comes from crediting his choice to check, not celebrating that he was wrong; avoid second Painful/Cruel/Fair beat nearby.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_25",
+      "current225_pdf_pages": [
+        116,
+        117,
+        120
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Keep parcel chain of helping, but biscuits here is currently a generic food-tag. Make callback concrete to established shared snack care or cut it; Mimi need not shut down hunger. Preserve map payoff.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_26",
+      "current225_pdf_pages": [
+        121
+      ],
+      "priority": "MEDIUM",
+      "placement_and_function": "Preserve Nini owns discovery and Dilo bedroom joke. Ensure one supportive/curious sibling response accompanies breakthrough; avoid making five-year-old Nini an archive department head.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_27",
+      "current225_pdf_pages": [
+        125
+      ],
+      "priority": "GOLDEN_KEEP",
+      "placement_and_function": "Preserve heroic folding/one finger/payoff. Bibi grants a bounded way to participate rather than banning Alio from the table. No extra one-finger joke later.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_28",
+      "current225_pdf_pages": [
+        128,
+        129
+      ],
+      "priority": "LOW",
+      "placement_and_function": "Preserve Bibi one-finger nonverbal recall and decorative confidence. Bibi recalls her squad's mistakes with affection; not an occasion for another lecture.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_29",
+      "current225_pdf_pages": [
+        132,
+        133,
+        136
+      ],
+      "priority": "GOLDEN_KEEP",
+      "placement_and_function": "Protect Take your time. We are not going anywhere and Make the call when ready. Keep Dilo quiet promise/Luli evidence response. Let reader solve without live cast commentary.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    },
+    {
+      "case_id": "CASE_30",
+      "current225_pdf_pages": [
+        137,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ],
+      "priority": "GOLDEN_KEEP",
+      "placement_and_function": "Protect chosen call sign, earned place, empty hook, six badges and already-on-team/paperwork exchange. Replace part of exposition only with behavioral reactions, never additional mechanism lore. Victory noise may finally pay off after certification, with reader choice/room for quiet. Do not interrupt Bibi reveal or badge acceptance with a joke.",
+      "logic_lock": "No changes to evidence, solutions, clue wording, rules, verdicts, coordinates or chronology."
+    }
+  ]
+}

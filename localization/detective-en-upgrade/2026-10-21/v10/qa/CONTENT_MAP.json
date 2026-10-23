@@ -1,0 +1,534 @@
+{
+  "candidate_writer": "hm10_writer",
+  "integrator": "root",
+  "source_folios": 225,
+  "cases_contexts_read": 30,
+  "scenes": {
+    "INTRO07": {
+      "id": "INTRO07",
+      "case_hook": "First meeting; Mimi has a plan and has misplaced phone.",
+      "comic_or_emotional_premise": "Children have learned the practical first step in any maternal plan.",
+      "needed_story_value": "Introduce warmth, competence with fallibility; phone stays missing until Case11.",
+      "retain_replace_diagnosis": "Keep phone/confident plan; replace bloated secure-filing conceit and emergency-book tangent.",
+      "speaker_order": [
+        "MIMI",
+        "LULI",
+        "DILO"
+      ],
+      "turn_count": 3
+    },
+    "CASEWALL12": {
+      "id": "CASEWALL12",
+      "case_hook": "Evidence wall must have space for selected earned items.",
+      "comic_or_emotional_premise": "Dilo claims wall space before he has facts; family measures his ambition against the wall.",
+      "needed_story_value": "Playful shared-table ownership before cases; no extra wall instructions.",
+      "retain_replace_diagnosis": "Keep theories vs evidence tension; remove cushions/shelves and explanatory taxonomy.",
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "BIBI",
+        "MIMI"
+      ],
+      "turn_count": 6
+    },
+    "CASE01": {
+      "id": "CASE01",
+      "case_hook": "Internally released envelope; establish Delivery position.",
+      "comic_or_emotional_premise": "Alio prepares a whole getaway before establishing how anyone arrived.",
+      "needed_story_value": "Let reader meet theory-loving brother and pragmatic siblings.",
+      "retain_replace_diagnosis": "Keep minivan/tunnel nucleus and margin; give Alio enthusiasm rather than list-style exposition.",
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "turn_count": 5
+    },
+    "CASE02": {
+      "id": "CASE02",
+      "case_hook": "Returned Cup, blank handoff, find Max companion.",
+      "comic_or_emotional_premise": "Alio recognizes over-innocent behavior because family knows his own version.",
+      "needed_story_value": "Ground suspicion in family experience without declaring anyone guilty.",
+      "retain_replace_diagnosis": "Replace trophy personality/paperwork sequence with Alio wanting to inspect it and sibling recognizing him.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "NINI"
+      ],
+      "turn_count": 5
+    },
+    "CASE03": {
+      "id": "CASE03",
+      "case_hook": "Compare two complete room photographs for ten changes.",
+      "comic_or_emotional_premise": "Nini invents Inspector Glitter; Dilo realizes this suspiciously low-effort job suits him.",
+      "needed_story_value": "Relief from precision task; Luli joins joke yet keeps photos in play.",
+      "retain_replace_diagnosis": "Keep naming and job anxiety; remove explanatory admiration and filler instructions.",
+      "speaker_order": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI"
+      ],
+      "turn_count": 5
+    },
+    "CASE04": {
+      "id": "CASE04",
+      "case_hook": "Sealed evidence box misplaced; identify Pixel room companion as contact.",
+      "comic_or_emotional_premise": "Dilo turns his box vigilance into opportunity to order Alio about; Mimi knows this tactic.",
+      "needed_story_value": "Family roles rub together around unopened box; do not solve carrier or invite opening.",
+      "retain_replace_diagnosis": "Replace interrogating box and blink contest; no generic suspicions with paperwork.",
+      "speaker_order": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ],
+      "turn_count": 6
+    },
+    "CASE05": {
+      "id": "CASE05",
+      "case_hook": "Six-symbol locker has awakened under table; code unknown.",
+      "comic_or_emotional_premise": "Dilo adopts unsolved locker as personal challenge; sisters notice selective sharing of credit.",
+      "needed_story_value": "Competition with affection, final badge button; preserve unknown sequence.",
+      "retain_replace_diagnosis": "Retain competition but replace briefing a door/conflict-of-interest abstraction with Dilo stake.",
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "turn_count": 6
+    },
+    "THREAD34": {
+      "id": "THREAD34",
+      "case_hook": "Four marks establish pattern but route incomplete.",
+      "comic_or_emotional_premise": "Dilo wants printer clarity; family knows he would reject an easy answer.",
+      "needed_story_value": "Breathe between acts; archive departure has forward motion.",
+      "retain_replace_diagnosis": "Keep easy-answer reversal and unnamed-things confusion; remove fictional printer correspondence/reference check.",
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ],
+      "turn_count": 4
+    },
+    "CASE06": {
+      "id": "CASE06",
+      "case_hook": "Expected dragon tooth proves to be spoon; label/object discrepancy.",
+      "comic_or_emotional_premise": "Nini refuses to waste dragon drawing; older siblings get reluctantly involved.",
+      "needed_story_value": "Let fantasy be enjoyed without rewriting case truth.",
+      "retain_replace_diagnosis": "Keep dragon cook/margin permission but make rescue of drawing a physical want; Bibi joins play.",
+      "speaker_order": [
+        "NINI",
+        "LULI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI"
+      ],
+      "turn_count": 8
+    },
+    "CASE07": {
+      "id": "CASE07",
+      "case_hook": "Giant moon costume missing; room snapshot next.",
+      "comic_or_emotional_premise": "Alio checks tiny cupboards; Nini knows obvious size issue; mother has been following him.",
+      "needed_story_value": "Show physical family investigation outside case table.",
+      "retain_replace_diagnosis": "Keep cupboards and brooms kernel, replace stilted triumph and repeated drama commentary.",
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "MIMI"
+      ],
+      "turn_count": 5
+    },
+    "CASE08": {
+      "id": "CASE08",
+      "case_hook": "Reach prop room using currently permitted route.",
+      "comic_or_emotional_premise": "Alio sells shortcut by time saved; family notices whose labor makes it work.",
+      "needed_story_value": "Route humor from practical inconvenience; no answer to route choice.",
+      "retain_replace_diagnosis": "Replace building negotiations and load-bearing-wall fantasy with helmet confidence versus closed passage.",
+      "speaker_order": [
+        "ALIO",
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "DILO"
+      ],
+      "turn_count": 5
+    },
+    "CASE09": {
+      "id": "CASE09",
+      "case_hook": "Classify zero marks; Bibi recognizes but must verify.",
+      "comic_or_emotional_premise": "Family sees Bibi holding memory back; Alio tests same privilege with cake promise.",
+      "needed_story_value": "Give senior mentor uncertainty and agency; warmth without mocking age.",
+      "retain_replace_diagnosis": "Keep memory/knowledge distinction and self-promised cake; end on Alio self-own, not explanation.",
+      "speaker_order": [
+        "DILO",
+        "BIBI",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "ALIO"
+      ],
+      "turn_count": 6
+    },
+    "CASE10": {
+      "id": "CASE10",
+      "case_hook": "Two claimants and rover, resolve access via Dash companion.",
+      "comic_or_emotional_premise": "Dilo could fix cable but cannot resist watching robot; Luli catches proprietary attachment.",
+      "needed_story_value": "Tech enthusiasm becomes family friction; neither claimant prejudged.",
+      "retain_replace_diagnosis": "Replace multiple-owner cable/personified robot with Dilo eyeing rover and sister reading him.",
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ],
+      "turn_count": 5
+    },
+    "CASE11": {
+      "id": "CASE11",
+      "case_hook": "Phone recovered beside oat bar while sorting case bag.",
+      "comic_or_emotional_premise": "Mother tries undercover excuse; children want it preserved beside her instructions to them.",
+      "needed_story_value": "Pay off intro and let parent lose small argument gracefully.",
+      "retain_replace_diagnosis": "Keep strong undercover/source exchange; add only concrete sibling leverage and mother counteroffer.",
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "MIMI",
+        "DILO",
+        "MIMI"
+      ],
+      "turn_count": 6
+    },
+    "CASE12": {
+      "id": "CASE12",
+      "case_hook": "Parrot repeats access words but keeps requesting snack.",
+      "comic_or_emotional_premise": "Dilo follows interview form while Nini listens to actual witness.",
+      "needed_story_value": "Distinct human/bird timing, youngest gets perceptive role; no feeding without handler.",
+      "retain_replace_diagnosis": "Keep snack-budget nucleus; remove abstract witness consistency and biscuits for theories.",
+      "speaker_order": [
+        "DILO",
+        "NINI",
+        "DILO",
+        "NINI",
+        "DILO"
+      ],
+      "turn_count": 5
+    },
+    "CASE13": {
+      "id": "CASE13",
+      "case_hook": "Camera moved; fox theory exists only on Alio scrap.",
+      "comic_or_emotional_premise": "Luli spots fox pocket problem; Nini helps outfit fox instead of refuting it.",
+      "needed_story_value": "Sisters are playful collaborators, not only evidence police.",
+      "retain_replace_diagnosis": "Keep equipment problem but remove exhaustive fox disproof and compulsory evidence tail.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "ALIO",
+        "LULI"
+      ],
+      "turn_count": 6
+    },
+    "CASE14": {
+      "id": "CASE14",
+      "case_hook": "One remembered journey cannot fit travel times, not proof of lying.",
+      "comic_or_emotional_premise": "Luli admits her own confident misremembering; mother and brother turn lunch story against her.",
+      "needed_story_value": "Allow exacting sister fallibility while keeping kindness toward witnesses.",
+      "retain_replace_diagnosis": "Keep three-books lunch; replace clock arrest and moralizing explanation.",
+      "speaker_order": [
+        "DILO",
+        "NINI",
+        "LULI",
+        "MIMI",
+        "ALIO",
+        "LULI"
+      ],
+      "turn_count": 6
+    },
+    "CASE15": {
+      "id": "CASE15",
+      "case_hook": "Backpacks helpfully swapped before bus departure.",
+      "comic_or_emotional_premise": "Mimi low-tech fix competes with Alio expensive solution; son catches mother in own phone habit.",
+      "needed_story_value": "Mother and son can win different parts of exchange.",
+      "retain_replace_diagnosis": "Retain cardboard vs satellite contrast; remove theme tune and technical feature list.",
+      "speaker_order": [
+        "MIMI",
+        "ALIO",
+        "MIMI",
+        "ALIO"
+      ],
+      "turn_count": 4
+    },
+    "CASE16": {
+      "id": "CASE16",
+      "case_hook": "CURRENT hat beside box; old photo needs building/year verification.",
+      "comic_or_emotional_premise": "Alio wants shelter under brim; Mimi reveals inherited family hat defense; Bibi owns her style.",
+      "needed_story_value": "Three generations tease affectionately; current hat cannot date photo.",
+      "retain_replace_diagnosis": "Replace misleading past-tense detective-under-hat line and evidence lecture; keep architecture/rent gently.",
+      "speaker_order": [
+        "ALIO",
+        "BIBI",
+        "MIMI",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "turn_count": 6
+    },
+    "CASE17": {
+      "id": "CASE17",
+      "case_hook": "Ticket handoff at station; helmet on Alio current head.",
+      "comic_or_emotional_premise": "Alio has packed for adventure but is barely through ticket hall; grandmother recalls his packing priority.",
+      "needed_story_value": "Station-specific physical banter; older woman can play along without lecturing.",
+      "retain_replace_diagnosis": "Replace departments/promotion/train points with actual headgear, queue, bags.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "turn_count": 6
+    },
+    "CASE18": {
+      "id": "CASE18",
+      "case_hook": "Dilo watch fast; multiple clocks require correction.",
+      "comic_or_emotional_premise": "Dilo protects dignity of watch while conceding his own reaction was worse.",
+      "needed_story_value": "Growth in accepting corrections; sister offers practical help and small tease.",
+      "retain_replace_diagnosis": "Keep owner pivot and tiny Nini turn; no professionalism explanation.",
+      "speaker_order": [
+        "MIMI",
+        "DILO",
+        "NINI",
+        "DILO",
+        "LULI"
+      ],
+      "turn_count": 5
+    },
+    "CASE19": {
+      "id": "CASE19",
+      "case_hook": "Checkout logged with rare book still on shelf; scanner context.",
+      "comic_or_emotional_premise": "Dilo declines to deploy ghost; Luli notices his growth and almost misses teasing him.",
+      "needed_story_value": "Show earned change after corrected clocks; one imaginary ghost sufficient.",
+      "retain_replace_diagnosis": "Retain deferred digital ghost/Wi-Fi button; remove granting ghost evidence access.",
+      "speaker_order": [
+        "DILO",
+        "LULI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "DILO"
+      ],
+      "turn_count": 6
+    },
+    "CASE20": {
+      "id": "CASE20",
+      "case_hook": "Wet panel moved; smear resembles pear only in Nini imagination.",
+      "comic_or_emotional_premise": "Nini and Dilo bait mother into seeing face in paint.",
+      "needed_story_value": "Let Mimi join childish perception instead of rejecting creativity.",
+      "retain_replace_diagnosis": "Replace third object-alibi scene with invitation to see pear and mother accidental agreement.",
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "NINI",
+        "DILO",
+        "MIMI",
+        "NINI"
+      ],
+      "turn_count": 6
+    },
+    "CASE21": {
+      "id": "CASE21",
+      "case_hook": "Dilo tore brittle note; scraps on evidence mat, nobody laughs.",
+      "comic_or_emotional_premise": "No comic premise; siblings keep him in work after accident.",
+      "needed_story_value": "Repair confidence with practical inclusion; Bibi uncertain handwriting must remain unconfirmed.",
+      "retain_replace_diagnosis": "Keep quiet joins/support; replace lectures and paper interview, no forced apology.",
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "NINI",
+        "BIBI",
+        "DILO"
+      ],
+      "turn_count": 7
+    },
+    "CASE22": {
+      "id": "CASE22",
+      "case_hook": "Three similar instrument cases returned to wrong shelves.",
+      "comic_or_emotional_premise": "Alio thinks he can memorize cases by appearance; sister rotates them mentally; Nini likes labels.",
+      "needed_story_value": "Music-specific awkward confidence without renaming evidence.",
+      "retain_replace_diagnosis": "Replace witness-protection conceit, fake careers and bedtime metaphor.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "NINI",
+        "DILO"
+      ],
+      "turn_count": 5
+    },
+    "CASE23": {
+      "id": "CASE23",
+      "case_hook": "Wristbands swapped near arcade; Dilo distracted by scoreboard.",
+      "comic_or_emotional_premise": "Dilo hears challenge in displayed score; family can drag him away but not quite end rivalry.",
+      "needed_story_value": "Keep a singular very strong compact comic exchange.",
+      "retain_replace_diagnosis": "Retain number/In a tone intact; give Luli actual brother-level bargain instead of task narration.",
+      "speaker_order": [
+        "DILO",
+        "MIMI",
+        "DILO",
+        "LULI",
+        "DILO"
+      ],
+      "turn_count": 5
+    },
+    "CASE24": {
+      "id": "CASE24",
+      "case_hook": "Track fading mud rather than misleading tread arrow.",
+      "comic_or_emotional_premise": "Alio pauses theory himself; sister joins quiet; mother needs evidence of unprecedented household event.",
+      "needed_story_value": "Payoff to theory growth and mother phone loop, not lecture.",
+      "retain_replace_diagnosis": "Keep voluntary pause/family album; remove words put in mud mouth and theory manners.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "LULI",
+        "MIMI",
+        "ALIO"
+      ],
+      "turn_count": 6
+    },
+    "CASE25": {
+      "id": "CASE25",
+      "case_hook": "Unaddressed parcel repeatedly moved by helpers; identify Nori contact.",
+      "comic_or_emotional_premise": "Every family member tries to help without moving parcel until Alio volunteers for snacks.",
+      "needed_story_value": "Household temptation reenacts local problem at safe scale.",
+      "retain_replace_diagnosis": "Replace parcel holidays and unauthorized-help officialdom; keep useful snack turn.",
+      "speaker_order": [
+        "NINI",
+        "MIMI",
+        "DILO",
+        "ALIO",
+        "MIMI"
+      ],
+      "turn_count": 5
+    },
+    "THREAD120": {
+      "id": "THREAD120",
+      "case_hook": "Fourteen selected complete maps recalled; Case01 excluded.",
+      "comic_or_emotional_premise": "Dilo proud of stack; Luli discovers he has displayed it to visitors; Bibi backs him.",
+      "needed_story_value": "Celebrate earned work with family delight before new extraction.",
+      "retain_replace_diagnosis": "Keep impressive stack and table/elbow; avoid implying every saved map is in selected14.",
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI",
+        "MIMI"
+      ],
+      "turn_count": 5
+    },
+    "CASE26": {
+      "id": "CASE26",
+      "case_hook": "Use empty rooms in selected14 completed maps.",
+      "comic_or_emotional_premise": "Nini gives attention to absence; Luli enjoys quiet witness and mother knows her own talking habit.",
+      "needed_story_value": "Change perspective, avoid giving letters/instruction; family shared joke not extra teaching.",
+      "retain_replace_diagnosis": "Keep nobody/favorite witness but rebuild mother reply as pointed familiarity.",
+      "speaker_order": [
+        "NINI",
+        "DILO",
+        "LULI",
+        "MIMI",
+        "BIBI"
+      ],
+      "turn_count": 5
+    },
+    "CASE27": {
+      "id": "CASE27",
+      "case_hook": "Old map needs overlay alignment after recovery of archive tools.",
+      "comic_or_emotional_premise": "Alio negotiates small physical permission; Bibi is severe about maps and soft about his eagerness.",
+      "needed_story_value": "Archive tactility and grandmother affectionate authority.",
+      "retain_replace_diagnosis": "Keep heroic finger and earned tools, remove bureaucratic permission summary.",
+      "speaker_order": [
+        "BIBI",
+        "ALIO",
+        "BIBI",
+        "DILO",
+        "BIBI"
+      ],
+      "turn_count": 5
+    },
+    "CASE28": {
+      "id": "CASE28",
+      "case_hook": "Sort fact/theory/assumption to restore RuleZero.",
+      "comic_or_emotional_premise": "Alio admits decorative confidence on card; adults recognize their own grander names for same habit.",
+      "needed_story_value": "Humility across generations, earned callback to tunnel; no solution word.",
+      "retain_replace_diagnosis": "Keep decorative confidence and experience admissions, remove explanation of what makes them funny.",
+      "speaker_order": [
+        "ALIO",
+        "LULI",
+        "ALIO",
+        "MIMI",
+        "BIBI"
+      ],
+      "turn_count": 5
+    },
+    "CASE29": {
+      "id": "CASE29",
+      "case_hook": "Largest final map; companion plus coordinate still unknown.",
+      "comic_or_emotional_premise": "Small quiet joke only: Dilo offers silence and Luli offers him help keeping it.",
+      "needed_story_value": "Family settles around reader; reassure through actions, no pressure or pre-solve.",
+      "retain_replace_diagnosis": "Keep space/time/support, replace measuring silence as boast with generous offer.",
+      "speaker_order": [
+        "MIMI",
+        "NINI",
+        "DILO",
+        "LULI",
+        "BIBI"
+      ],
+      "turn_count": 5
+    },
+    "CASE30": {
+      "id": "CASE30",
+      "case_hook": "Four fields draw only earlier earned material; before door opens.",
+      "comic_or_emotional_premise": "Dilo saving victory sound; siblings can barely contain own excitement.",
+      "needed_story_value": "Earned climax with reader in charge; no answers and no premature opening.",
+      "retain_replace_diagnosis": "Keep inward noises and grandmother backing; stop before lock/author reveal.",
+      "speaker_order": [
+        "MIMI",
+        "DILO",
+        "LULI",
+        "NINI",
+        "BIBI"
+      ],
+      "turn_count": 5
+    }
+  },
+  "protected_units": 2847,
+  "truth_locks": "reviews/story-diagnostic/locks.json",
+  "no_new_puzzle_solves": true
+}

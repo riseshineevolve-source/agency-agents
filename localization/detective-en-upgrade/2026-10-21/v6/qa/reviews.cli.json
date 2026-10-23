@@ -1,0 +1,41 @@
+{
+  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "reviews": [
+    {
+      "stage": "native_language",
+      "status": "PASS",
+      "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+      "reviewer": "Actual independent agent /root/v6_native_review",
+      "evidence": "Actual independent V6 bounded delta/closure review;3040unchanged units inherit accepted V5. Artwork/production scope is separate.",
+      "evidence_file": "reviews/native/review.json",
+      "evidence_sha256": "64657495715342f7eacded71a7e90afac6bafadfd18088b7818f4c219ff38baf"
+    },
+    {
+      "stage": "audience",
+      "status": "PASS",
+      "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+      "reviewer": "Actual independent agent /root/v6_native_review",
+      "evidence": "Actual independent V6 bounded delta/closure review;3040unchanged units inherit accepted V5. Artwork/production scope is separate.",
+      "evidence_file": "reviews/native/review.json",
+      "evidence_sha256": "64657495715342f7eacded71a7e90afac6bafadfd18088b7818f4c219ff38baf"
+    },
+    {
+      "stage": "meaning",
+      "status": "PASS",
+      "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+      "reviewer": "actual independent agent /root/v6_puzzle_review",
+      "evidence": "Actual independent V6 bounded delta/closure review;3040unchanged units inherit accepted V5. Artwork/production scope is separate.",
+      "evidence_file": "reviews/puzzle-final/review.json",
+      "evidence_sha256": "039a78b446df0ca67224cdfea4f546712a0f391db439cdc3137045f007978b28"
+    },
+    {
+      "stage": "logic",
+      "status": "PASS",
+      "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+      "reviewer": "actual independent agent /root/v6_puzzle_review",
+      "evidence": "Actual independent V6 bounded delta/closure review;3040unchanged units inherit accepted V5. Artwork/production scope is separate.",
+      "evidence_file": "reviews/puzzle-final/review.json",
+      "evidence_sha256": "039a78b446df0ca67224cdfea4f546712a0f391db439cdc3137045f007978b28"
+    }
+  ]
+}

@@ -1,0 +1,3407 @@
+{
+  "reviewer": "/root/hm9_truth_mechanics",
+  "stage": "actual_pdf_preservation_binding",
+  "status": "PASS",
+  "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "baseline_v8_pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "new_pdf_sha256": "48c91d7a578cb340018d20fd1656a31e140d41114d50667c254718b169f2f64a",
+  "book_pages": 225,
+  "method": "Independent saved-PDF text extraction, exact190page text and raster-pixel comparison at scale0.3. For35reflowedfolios, every old/final speech is located in sequence with matching speaker, replaced by the same placeholder, and normalized-whitespace non-Comms remainders compared. This is content binding and low-resolution pixel identity, not a new full-size visual or mathematical puzzle review.",
+  "unchanged_page_count": 190,
+  "unchanged_page_results": [
+    {
+      "folio": 1,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "950dae705ddba0c630d1067c23a7514bf6f75e5da4640055e840db415eb6b284",
+      "new_pixel_sha256": "950dae705ddba0c630d1067c23a7514bf6f75e5da4640055e840db415eb6b284"
+    },
+    {
+      "folio": 2,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "eb03145c7cf4059957d18479c7bf03dfd4c7406d1e1c6a94f5fbaed70173d0b5",
+      "new_pixel_sha256": "eb03145c7cf4059957d18479c7bf03dfd4c7406d1e1c6a94f5fbaed70173d0b5"
+    },
+    {
+      "folio": 3,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "2da5570416a47271854af30b967145bfeb531749c306680cfda7472dfc82a2ad",
+      "new_pixel_sha256": "2da5570416a47271854af30b967145bfeb531749c306680cfda7472dfc82a2ad"
+    },
+    {
+      "folio": 4,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "2af0c866babc54ac1316186b6f7f2d34ba354aa7da391a6af42c4acca2c47504",
+      "new_pixel_sha256": "2af0c866babc54ac1316186b6f7f2d34ba354aa7da391a6af42c4acca2c47504"
+    },
+    {
+      "folio": 5,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "756de2a050a25ec3776937f17380516dfb42f05faf5f88c2656b184cc0eb6a89",
+      "new_pixel_sha256": "756de2a050a25ec3776937f17380516dfb42f05faf5f88c2656b184cc0eb6a89"
+    },
+    {
+      "folio": 6,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "33f625856cea574af6309e017d4c1f22648f8c5a2379a951bd3914e09645c58b",
+      "new_pixel_sha256": "33f625856cea574af6309e017d4c1f22648f8c5a2379a951bd3914e09645c58b"
+    },
+    {
+      "folio": 8,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "9f34beea9b4498b91ffa2043a5932d8c6f06e6c2425204f519298f8379f2bfb4",
+      "new_pixel_sha256": "9f34beea9b4498b91ffa2043a5932d8c6f06e6c2425204f519298f8379f2bfb4"
+    },
+    {
+      "folio": 9,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "cba30f9b9c56d02047199ffaa7db8de1bae458cc2fba36880c5f9e7794714023",
+      "new_pixel_sha256": "cba30f9b9c56d02047199ffaa7db8de1bae458cc2fba36880c5f9e7794714023"
+    },
+    {
+      "folio": 10,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "2cde75ec49528008c8235d24916f2d20f7c66ac2bad9423bec94bdb526aeec2d",
+      "new_pixel_sha256": "2cde75ec49528008c8235d24916f2d20f7c66ac2bad9423bec94bdb526aeec2d"
+    },
+    {
+      "folio": 11,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "3710737f4894906883aa96b74da8fc3bca275a68aa57dfbdcc854d9bda56d039",
+      "new_pixel_sha256": "3710737f4894906883aa96b74da8fc3bca275a68aa57dfbdcc854d9bda56d039"
+    },
+    {
+      "folio": 13,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "a13c0155a0b3d86f9c0479e52904a757daa9516b68a778154242d69dd726f4a6",
+      "new_pixel_sha256": "a13c0155a0b3d86f9c0479e52904a757daa9516b68a778154242d69dd726f4a6"
+    },
+    {
+      "folio": 14,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "0e2086056c8a07458f93057d9762a6c192965d5e87a076c8444c85e951e8154f",
+      "new_pixel_sha256": "0e2086056c8a07458f93057d9762a6c192965d5e87a076c8444c85e951e8154f"
+    },
+    {
+      "folio": 15,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "d3af69efd5104a99c916b7d1f537e46c4f482f6b6642e5af6700ccb466cb18ff",
+      "new_pixel_sha256": "d3af69efd5104a99c916b7d1f537e46c4f482f6b6642e5af6700ccb466cb18ff"
+    },
+    {
+      "folio": 17,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "18edd3c60716b80188f0c4e2f0cc176fce8ccda1f3eef156f4c62c4e7007503a",
+      "new_pixel_sha256": "18edd3c60716b80188f0c4e2f0cc176fce8ccda1f3eef156f4c62c4e7007503a"
+    },
+    {
+      "folio": 18,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "0f50254c2055fb7be37549296ee5f3d9878be98806801e9a0ab45e92c149de0a",
+      "new_pixel_sha256": "0f50254c2055fb7be37549296ee5f3d9878be98806801e9a0ab45e92c149de0a"
+    },
+    {
+      "folio": 20,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "f31f58db93d416414b896e160dc77608675177c2321bce3ac59a3bb9a259318e",
+      "new_pixel_sha256": "f31f58db93d416414b896e160dc77608675177c2321bce3ac59a3bb9a259318e"
+    },
+    {
+      "folio": 21,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "29c9b3c187775a0cd626b49f947ef1a364f600a576b706403e68d28ccaba1402",
+      "new_pixel_sha256": "29c9b3c187775a0cd626b49f947ef1a364f600a576b706403e68d28ccaba1402"
+    },
+    {
+      "folio": 22,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "834e598d0f935aa3c711f588cfc1193b0d67c3e0699c9680d8e03d874ffea81f",
+      "new_pixel_sha256": "834e598d0f935aa3c711f588cfc1193b0d67c3e0699c9680d8e03d874ffea81f"
+    },
+    {
+      "folio": 24,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "f63714fc5332c66762feace7daf4cd05eba3dbec979fdff9ee7bcd26f9019fca",
+      "new_pixel_sha256": "f63714fc5332c66762feace7daf4cd05eba3dbec979fdff9ee7bcd26f9019fca"
+    },
+    {
+      "folio": 25,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "bd41d1532543106192231992c03a25ecb50a3d1581004e6fe3903c2ef4eae2d1",
+      "new_pixel_sha256": "bd41d1532543106192231992c03a25ecb50a3d1581004e6fe3903c2ef4eae2d1"
+    },
+    {
+      "folio": 26,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "fc3bacf91bb5b4ef0a1456e2708c4ab01c9947cf2dc04108580f7bbeee04c202",
+      "new_pixel_sha256": "fc3bacf91bb5b4ef0a1456e2708c4ab01c9947cf2dc04108580f7bbeee04c202"
+    },
+    {
+      "folio": 28,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "1cd24ba2c8f8b170e41095fa322e4fd26d0874b2bc4eb21d8a3f9d551d36c1a2",
+      "new_pixel_sha256": "1cd24ba2c8f8b170e41095fa322e4fd26d0874b2bc4eb21d8a3f9d551d36c1a2"
+    },
+    {
+      "folio": 29,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "14477a29ca9c9605592fd86df413eeb27adfb901a219155a02a6460279a2d328",
+      "new_pixel_sha256": "14477a29ca9c9605592fd86df413eeb27adfb901a219155a02a6460279a2d328"
+    },
+    {
+      "folio": 30,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "262ae563e2c8fd87feee6f792da951818a8ee617e71b13d9aeac5fe5193767a0",
+      "new_pixel_sha256": "262ae563e2c8fd87feee6f792da951818a8ee617e71b13d9aeac5fe5193767a0"
+    },
+    {
+      "folio": 32,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "e69071996448b548a85d65aee286a2086b82c535a684b3b572fcf555f897b975",
+      "new_pixel_sha256": "e69071996448b548a85d65aee286a2086b82c535a684b3b572fcf555f897b975"
+    },
+    {
+      "folio": 33,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "dd723f53fe92e88122cdaac95d4ec6fc675bb6aa0767d97e29611c6c4986fb48",
+      "new_pixel_sha256": "dd723f53fe92e88122cdaac95d4ec6fc675bb6aa0767d97e29611c6c4986fb48"
+    },
+    {
+      "folio": 36,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "9d7f6c0e568a54b4052f1788d95f78acbf4d5d0afdfae666bff2b0300348b94f",
+      "new_pixel_sha256": "9d7f6c0e568a54b4052f1788d95f78acbf4d5d0afdfae666bff2b0300348b94f"
+    },
+    {
+      "folio": 38,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "b890b42e59cc275655110ccd6b5aee4c2adb891cba5da12470603a2525a308fb",
+      "new_pixel_sha256": "b890b42e59cc275655110ccd6b5aee4c2adb891cba5da12470603a2525a308fb"
+    },
+    {
+      "folio": 39,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "41c03ad582f922281ad6d1db31fb329a7f7977a666f9cd656026dddee2be5105",
+      "new_pixel_sha256": "41c03ad582f922281ad6d1db31fb329a7f7977a666f9cd656026dddee2be5105"
+    },
+    {
+      "folio": 40,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "173c6c81b9b848be787e7bcba44def0a988fb8f90650fd83beb84e7565df3e40",
+      "new_pixel_sha256": "173c6c81b9b848be787e7bcba44def0a988fb8f90650fd83beb84e7565df3e40"
+    },
+    {
+      "folio": 42,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "08480d24c728d1b634bad74dc8542c12b615dfd2e2caf36ac94c0ba432eed381",
+      "new_pixel_sha256": "08480d24c728d1b634bad74dc8542c12b615dfd2e2caf36ac94c0ba432eed381"
+    },
+    {
+      "folio": 43,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "3ab626eaefe3941e7aef8bc5ffa8ec8ff2410a65eef176a0f0c5f114dc829ddb",
+      "new_pixel_sha256": "3ab626eaefe3941e7aef8bc5ffa8ec8ff2410a65eef176a0f0c5f114dc829ddb"
+    },
+    {
+      "folio": 44,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "8b5208684f73fb5343ad635a1cbca2495da8625bd90fe76f4032a45e4bb7aa1e",
+      "new_pixel_sha256": "8b5208684f73fb5343ad635a1cbca2495da8625bd90fe76f4032a45e4bb7aa1e"
+    },
+    {
+      "folio": 46,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "8bc5a400507e5b5e1e788c003ad59f55821c7efd5d2a974b68e1aea03ea039e4",
+      "new_pixel_sha256": "8bc5a400507e5b5e1e788c003ad59f55821c7efd5d2a974b68e1aea03ea039e4"
+    },
+    {
+      "folio": 47,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "a56c845b8aa78ab2a1d80034e75cd4a3a16a89f7ee5c85e3b2b171df4db38be7",
+      "new_pixel_sha256": "a56c845b8aa78ab2a1d80034e75cd4a3a16a89f7ee5c85e3b2b171df4db38be7"
+    },
+    {
+      "folio": 48,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "fbc283aa065f0add3957e15dd9117d526a18558e3b95ffcdb1d8feaa33401779",
+      "new_pixel_sha256": "fbc283aa065f0add3957e15dd9117d526a18558e3b95ffcdb1d8feaa33401779"
+    },
+    {
+      "folio": 50,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "b783a2ef90d631a6e9282984bcd82fc22dc867399d0609394d082e63a01bf202",
+      "new_pixel_sha256": "b783a2ef90d631a6e9282984bcd82fc22dc867399d0609394d082e63a01bf202"
+    },
+    {
+      "folio": 51,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "8462d1b45ef0ed371267f1f4a765c478cdc87a230589c497a802f3bf1701ed28",
+      "new_pixel_sha256": "8462d1b45ef0ed371267f1f4a765c478cdc87a230589c497a802f3bf1701ed28"
+    },
+    {
+      "folio": 52,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "bf0d362a3247f4917e07559c1768ea4bad6d49deacd31b03219f4786e2adcd87",
+      "new_pixel_sha256": "bf0d362a3247f4917e07559c1768ea4bad6d49deacd31b03219f4786e2adcd87"
+    },
+    {
+      "folio": 54,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "56f1e13bc3d5979ff75cea2fa1711e5c1db24310b82fba28d34cc8fc6387a947",
+      "new_pixel_sha256": "56f1e13bc3d5979ff75cea2fa1711e5c1db24310b82fba28d34cc8fc6387a947"
+    },
+    {
+      "folio": 55,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "6ea8d2a41b54ff6589569a2a90806ab26e59473ed63eb444f7adbca821309897",
+      "new_pixel_sha256": "6ea8d2a41b54ff6589569a2a90806ab26e59473ed63eb444f7adbca821309897"
+    },
+    {
+      "folio": 56,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "28ddcdd91a613b2ed81ea2a4ea160c962461c166c1aecd28d8dc5b94be013ab0",
+      "new_pixel_sha256": "28ddcdd91a613b2ed81ea2a4ea160c962461c166c1aecd28d8dc5b94be013ab0"
+    },
+    {
+      "folio": 58,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "af5d75b3e2bb8db038fb8d3d90d1e23a51346ab3a0b45e02abcc1b7eb2bd97c9",
+      "new_pixel_sha256": "af5d75b3e2bb8db038fb8d3d90d1e23a51346ab3a0b45e02abcc1b7eb2bd97c9"
+    },
+    {
+      "folio": 59,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "c8bb5fdd25d2f7fd089baa4f691f88c40888f175ac7280d7bcdbf522ca3a261d",
+      "new_pixel_sha256": "c8bb5fdd25d2f7fd089baa4f691f88c40888f175ac7280d7bcdbf522ca3a261d"
+    },
+    {
+      "folio": 60,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "71c560368752facd4ee658d4c0b0b157df944f329af99a250c4409d05e160514",
+      "new_pixel_sha256": "71c560368752facd4ee658d4c0b0b157df944f329af99a250c4409d05e160514"
+    },
+    {
+      "folio": 62,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "0f5488e237db9ef37c7ed44f9c4dcd048c3e25c48a9b14c52822fbbe4971fb8c",
+      "new_pixel_sha256": "0f5488e237db9ef37c7ed44f9c4dcd048c3e25c48a9b14c52822fbbe4971fb8c"
+    },
+    {
+      "folio": 63,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "d8709c6c6ad05090ed80ee5f41e63c2c8f70f66dbfe12aaf59625f11b0871449",
+      "new_pixel_sha256": "d8709c6c6ad05090ed80ee5f41e63c2c8f70f66dbfe12aaf59625f11b0871449"
+    },
+    {
+      "folio": 64,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "4585552928d4bd81ff846bd854e3e78ce4f5769bc09791eb033b8f7bf6bb1d59",
+      "new_pixel_sha256": "4585552928d4bd81ff846bd854e3e78ce4f5769bc09791eb033b8f7bf6bb1d59"
+    },
+    {
+      "folio": 66,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "e55db81cbc28f2d0db29f3c40a17fb9f82ede88f5cc066511df30910ea978f6c",
+      "new_pixel_sha256": "e55db81cbc28f2d0db29f3c40a17fb9f82ede88f5cc066511df30910ea978f6c"
+    },
+    {
+      "folio": 67,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "405466c45637cde578eb0d860d656230a75863a224abe0a1675d6fe9dd35e188",
+      "new_pixel_sha256": "405466c45637cde578eb0d860d656230a75863a224abe0a1675d6fe9dd35e188"
+    },
+    {
+      "folio": 68,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "cfb7edbbd5d46b7e26833195c800264e8761c59efc9067223ee0fdb98fb0d42a",
+      "new_pixel_sha256": "cfb7edbbd5d46b7e26833195c800264e8761c59efc9067223ee0fdb98fb0d42a"
+    },
+    {
+      "folio": 70,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "7dbb1b40b33e30efa59b811db072827c0491c5175970c9800bc46ffae6e7cc5c",
+      "new_pixel_sha256": "7dbb1b40b33e30efa59b811db072827c0491c5175970c9800bc46ffae6e7cc5c"
+    },
+    {
+      "folio": 71,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "1b0ce3be2a79f645f1c90c7d777b4ea23b8da1c4db24c7fca1a95b1599685d30",
+      "new_pixel_sha256": "1b0ce3be2a79f645f1c90c7d777b4ea23b8da1c4db24c7fca1a95b1599685d30"
+    },
+    {
+      "folio": 72,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "0f573233c52f8fa59888b0e9f00e08b3b0cb818dffe7e7a86b52b4247d8ea720",
+      "new_pixel_sha256": "0f573233c52f8fa59888b0e9f00e08b3b0cb818dffe7e7a86b52b4247d8ea720"
+    },
+    {
+      "folio": 74,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "d1bb26fe2c4ffdaa352d99a78e030a4296e1a423483c34b0b53411011fa690b1",
+      "new_pixel_sha256": "d1bb26fe2c4ffdaa352d99a78e030a4296e1a423483c34b0b53411011fa690b1"
+    },
+    {
+      "folio": 75,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "3641b2056cc15efd3f4933b9a4d33c20a65f94aca65a735bb65a44c97abb957c",
+      "new_pixel_sha256": "3641b2056cc15efd3f4933b9a4d33c20a65f94aca65a735bb65a44c97abb957c"
+    },
+    {
+      "folio": 76,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "5be01161e5e34ff7d033c40f9ec81234391dca79e900a0b5efcab5486d748073",
+      "new_pixel_sha256": "5be01161e5e34ff7d033c40f9ec81234391dca79e900a0b5efcab5486d748073"
+    },
+    {
+      "folio": 78,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "7d27c0bd9385f6a240712ee374af04f6de62a8626fc994400c325276f8c8aca0",
+      "new_pixel_sha256": "7d27c0bd9385f6a240712ee374af04f6de62a8626fc994400c325276f8c8aca0"
+    },
+    {
+      "folio": 79,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "721d67c733a4d3c9f4c580391d26e65b0a635eca148c94064e3fbab11fc73e09",
+      "new_pixel_sha256": "721d67c733a4d3c9f4c580391d26e65b0a635eca148c94064e3fbab11fc73e09"
+    },
+    {
+      "folio": 80,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "6cfbd32c404f16164b95a3f8c2588d70e6d9325a8efefd23a922e372ed6b7134",
+      "new_pixel_sha256": "6cfbd32c404f16164b95a3f8c2588d70e6d9325a8efefd23a922e372ed6b7134"
+    },
+    {
+      "folio": 81,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "81f2cd09457a09ed5797cfd476dea8950b004fa3481df0e47cf684522dddfc32",
+      "new_pixel_sha256": "81f2cd09457a09ed5797cfd476dea8950b004fa3481df0e47cf684522dddfc32"
+    },
+    {
+      "folio": 82,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "69430f4b865b4754f84aad1dd81bfeea27c6238e91969c6f899e509d5c491fa8",
+      "new_pixel_sha256": "69430f4b865b4754f84aad1dd81bfeea27c6238e91969c6f899e509d5c491fa8"
+    },
+    {
+      "folio": 84,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "c87570432e8f958f10c48b8a62127d078b4be9d93f213e714fdabdfaa77d1bfb",
+      "new_pixel_sha256": "c87570432e8f958f10c48b8a62127d078b4be9d93f213e714fdabdfaa77d1bfb"
+    },
+    {
+      "folio": 85,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "ee89e04a33beffe60c17c8acf2940420bdcae44b916c85911de6abc06bb158a1",
+      "new_pixel_sha256": "ee89e04a33beffe60c17c8acf2940420bdcae44b916c85911de6abc06bb158a1"
+    },
+    {
+      "folio": 86,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "9d0e372cfc09504be3677dc6fab4b5d943fa1209027b4401095e9921ccfc946f",
+      "new_pixel_sha256": "9d0e372cfc09504be3677dc6fab4b5d943fa1209027b4401095e9921ccfc946f"
+    },
+    {
+      "folio": 88,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "6d17b756e98824a59e65c9d8c4711212bcfd1d74f67d7e70d6b735b11f1174df",
+      "new_pixel_sha256": "6d17b756e98824a59e65c9d8c4711212bcfd1d74f67d7e70d6b735b11f1174df"
+    },
+    {
+      "folio": 89,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "6122cd94e9e3ca34d210d967fe5b5a29e215a0573752eff7fc9798e2300afb45",
+      "new_pixel_sha256": "6122cd94e9e3ca34d210d967fe5b5a29e215a0573752eff7fc9798e2300afb45"
+    },
+    {
+      "folio": 90,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "d9bbd6f298285fe54e978329a6cbd67c02a628314d56860ee2951342d0c1b81e",
+      "new_pixel_sha256": "d9bbd6f298285fe54e978329a6cbd67c02a628314d56860ee2951342d0c1b81e"
+    },
+    {
+      "folio": 92,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "b78c623d0cb29b88516ebd752149fd999a2fb398af39244bdf565b829537dcbe",
+      "new_pixel_sha256": "b78c623d0cb29b88516ebd752149fd999a2fb398af39244bdf565b829537dcbe"
+    },
+    {
+      "folio": 93,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "473a2d3043641a8832da3cd490830509c7b93aee62a6a2ca7b6da11e94fb1a52",
+      "new_pixel_sha256": "473a2d3043641a8832da3cd490830509c7b93aee62a6a2ca7b6da11e94fb1a52"
+    },
+    {
+      "folio": 94,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "cd6a633345f65ada42e6a417666c30613726b86308f1602660c89df5d84ad8fe",
+      "new_pixel_sha256": "cd6a633345f65ada42e6a417666c30613726b86308f1602660c89df5d84ad8fe"
+    },
+    {
+      "folio": 96,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "656eccac9cc5329c1b235898b3e58f73b57742fb1935b7799ec3278ff7ebc6b8",
+      "new_pixel_sha256": "656eccac9cc5329c1b235898b3e58f73b57742fb1935b7799ec3278ff7ebc6b8"
+    },
+    {
+      "folio": 97,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "a5df3e73785835e8e487a5c2f460515c77949093a77f7df0d62ed423d35714c5",
+      "new_pixel_sha256": "a5df3e73785835e8e487a5c2f460515c77949093a77f7df0d62ed423d35714c5"
+    },
+    {
+      "folio": 98,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "d5efb38ff12edc60f10e3049e3dd1aa92c06fc1e353a4f156f224a5ca709a872",
+      "new_pixel_sha256": "d5efb38ff12edc60f10e3049e3dd1aa92c06fc1e353a4f156f224a5ca709a872"
+    },
+    {
+      "folio": 100,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "59986d3f9dcf3d41ee8c218eaab95d39ac090cb85e2f12dd50b5994155b796c7",
+      "new_pixel_sha256": "59986d3f9dcf3d41ee8c218eaab95d39ac090cb85e2f12dd50b5994155b796c7"
+    },
+    {
+      "folio": 101,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "e30dc83439af3418600630b78380b957fc7ed4a3af99537411ec11dbd2104842",
+      "new_pixel_sha256": "e30dc83439af3418600630b78380b957fc7ed4a3af99537411ec11dbd2104842"
+    },
+    {
+      "folio": 102,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "13c96e04b50952d823409ed8740b307110a15dce38f8b0cd21762e71616a142c",
+      "new_pixel_sha256": "13c96e04b50952d823409ed8740b307110a15dce38f8b0cd21762e71616a142c"
+    },
+    {
+      "folio": 103,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "f391ac4d5613e2536e6fc7154badaf3b77dc89f06cc1ba0503bfcfadce0c0e26",
+      "new_pixel_sha256": "f391ac4d5613e2536e6fc7154badaf3b77dc89f06cc1ba0503bfcfadce0c0e26"
+    },
+    {
+      "folio": 104,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "c0ee458ee6859c9d6cfde4b884f4650faf2ecd8b0582c0f5081c31ab82c3320b",
+      "new_pixel_sha256": "c0ee458ee6859c9d6cfde4b884f4650faf2ecd8b0582c0f5081c31ab82c3320b"
+    },
+    {
+      "folio": 106,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "3c546e26e99d51c0fffa07c36696617629d2e96f572bddb87cd1745b9c95ef6a",
+      "new_pixel_sha256": "3c546e26e99d51c0fffa07c36696617629d2e96f572bddb87cd1745b9c95ef6a"
+    },
+    {
+      "folio": 107,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "ddcbd31475fb5074d04cf8f5b9f37e23f903304594519980cf3c3a66700afe82",
+      "new_pixel_sha256": "ddcbd31475fb5074d04cf8f5b9f37e23f903304594519980cf3c3a66700afe82"
+    },
+    {
+      "folio": 108,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "5f108e72eefe4406daea8c4ae0032323831e52187735327e9f98cc401eca5370",
+      "new_pixel_sha256": "5f108e72eefe4406daea8c4ae0032323831e52187735327e9f98cc401eca5370"
+    },
+    {
+      "folio": 110,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "82e31e84c73b9e208681b66bd953296238e0fd3dce0c6bf7fafcd28e6741176e",
+      "new_pixel_sha256": "82e31e84c73b9e208681b66bd953296238e0fd3dce0c6bf7fafcd28e6741176e"
+    },
+    {
+      "folio": 111,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "44d4bcf90cfe316596452813db7396eb92b05a5c0c42c3d6ddc2b6ec5198a3da",
+      "new_pixel_sha256": "44d4bcf90cfe316596452813db7396eb92b05a5c0c42c3d6ddc2b6ec5198a3da"
+    },
+    {
+      "folio": 112,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "69609159a8a1e31fdfaf7db9762ada3731644bc96835d36ae5b7e23c86aaf909",
+      "new_pixel_sha256": "69609159a8a1e31fdfaf7db9762ada3731644bc96835d36ae5b7e23c86aaf909"
+    },
+    {
+      "folio": 114,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "593da1e4153feb5767ecd296d3b80e2e62c2c7f4c54f728673e4711016ec8f5e",
+      "new_pixel_sha256": "593da1e4153feb5767ecd296d3b80e2e62c2c7f4c54f728673e4711016ec8f5e"
+    },
+    {
+      "folio": 115,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "0beeb42a0478bae493c97940f628de724a436661c9cb1e1ebb493a9eeb3465a9",
+      "new_pixel_sha256": "0beeb42a0478bae493c97940f628de724a436661c9cb1e1ebb493a9eeb3465a9"
+    },
+    {
+      "folio": 116,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "f1f216656cf5a21dcfe65b7cb5ba23080f03080aa27cefcc1832dc47df648af7",
+      "new_pixel_sha256": "f1f216656cf5a21dcfe65b7cb5ba23080f03080aa27cefcc1832dc47df648af7"
+    },
+    {
+      "folio": 118,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "af57d323a313a1d78668c52cb746a0afb7c21dd84e1b6f1f1d9bbcacf08d3416",
+      "new_pixel_sha256": "af57d323a313a1d78668c52cb746a0afb7c21dd84e1b6f1f1d9bbcacf08d3416"
+    },
+    {
+      "folio": 119,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "df175fc36f4c67c2486ef9a8ad161d08cf6d3ecbe5aafe222e2d0e9178d45ed8",
+      "new_pixel_sha256": "df175fc36f4c67c2486ef9a8ad161d08cf6d3ecbe5aafe222e2d0e9178d45ed8"
+    },
+    {
+      "folio": 122,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "8830878d8bb9dcfd1c30b5fdc1472bb7d8c332b7eb6f43d4f21ad04d5f01478c",
+      "new_pixel_sha256": "8830878d8bb9dcfd1c30b5fdc1472bb7d8c332b7eb6f43d4f21ad04d5f01478c"
+    },
+    {
+      "folio": 123,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "464cbcc5e3797099cdddbfafc1313a82ec5b18122b174ed03499d5295f0e9f95",
+      "new_pixel_sha256": "464cbcc5e3797099cdddbfafc1313a82ec5b18122b174ed03499d5295f0e9f95"
+    },
+    {
+      "folio": 124,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "d87762d5f610344f6d56e11dfffdb0e95a2a3b92ee90b50471b9f4fa679b3991",
+      "new_pixel_sha256": "d87762d5f610344f6d56e11dfffdb0e95a2a3b92ee90b50471b9f4fa679b3991"
+    },
+    {
+      "folio": 126,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "1a94235189f882bda4c8853dacb95b1b054ad1eae7b13fad7b0679ccbe04c84d",
+      "new_pixel_sha256": "1a94235189f882bda4c8853dacb95b1b054ad1eae7b13fad7b0679ccbe04c84d"
+    },
+    {
+      "folio": 127,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "643220190f235a5171bf302f2b379a3f09ccec15deeaa6b4b3b2c32f5df0b238",
+      "new_pixel_sha256": "643220190f235a5171bf302f2b379a3f09ccec15deeaa6b4b3b2c32f5df0b238"
+    },
+    {
+      "folio": 128,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "08dea403fe6ce87934319fe694413f0319039713a803af4ba6f1e810a2031c79",
+      "new_pixel_sha256": "08dea403fe6ce87934319fe694413f0319039713a803af4ba6f1e810a2031c79"
+    },
+    {
+      "folio": 130,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "9d3ad649000921023142139b2f068627edd3831788298d810691e0e2f6bed63c",
+      "new_pixel_sha256": "9d3ad649000921023142139b2f068627edd3831788298d810691e0e2f6bed63c"
+    },
+    {
+      "folio": 131,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "803827e5d9619856a2be0207ab40e76c9453e0c14202530b61807008590805f1",
+      "new_pixel_sha256": "803827e5d9619856a2be0207ab40e76c9453e0c14202530b61807008590805f1"
+    },
+    {
+      "folio": 132,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "850271b3b3e1893444c34182b94b5b1b4fdf35d864ac7cd013cee697d9787394",
+      "new_pixel_sha256": "850271b3b3e1893444c34182b94b5b1b4fdf35d864ac7cd013cee697d9787394"
+    },
+    {
+      "folio": 134,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "fff4b6a55083e52671fc09d724b91e9fb58495437b1350382af42a78082ced33",
+      "new_pixel_sha256": "fff4b6a55083e52671fc09d724b91e9fb58495437b1350382af42a78082ced33"
+    },
+    {
+      "folio": 135,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "66d0278e2f3a584ee8542394f23c4e36f06d2d20c07811edccdfe58e696b22c2",
+      "new_pixel_sha256": "66d0278e2f3a584ee8542394f23c4e36f06d2d20c07811edccdfe58e696b22c2"
+    },
+    {
+      "folio": 136,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "489018958a83671eca0fce9d892a038ada452c5b8ba0da1a6157551abbe38da9",
+      "new_pixel_sha256": "489018958a83671eca0fce9d892a038ada452c5b8ba0da1a6157551abbe38da9"
+    },
+    {
+      "folio": 138,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "700a0d7496aa45eae260e1c8d9b830303b806cd99fad4a25b737fda71a7fed14",
+      "new_pixel_sha256": "700a0d7496aa45eae260e1c8d9b830303b806cd99fad4a25b737fda71a7fed14"
+    },
+    {
+      "folio": 139,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "0a351d1e91639943709c2484158baa19961b57899f5a6fb4982224a02943d583",
+      "new_pixel_sha256": "0a351d1e91639943709c2484158baa19961b57899f5a6fb4982224a02943d583"
+    },
+    {
+      "folio": 140,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "2d68d7e5e660d2a6b3920182e9f155eb60d3bef65a90792a0784660abede1c58",
+      "new_pixel_sha256": "2d68d7e5e660d2a6b3920182e9f155eb60d3bef65a90792a0784660abede1c58"
+    },
+    {
+      "folio": 141,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "703dc838f6c884939acd9a7367c541fbcbbd199d787d8b594e575713b8cf3a37",
+      "new_pixel_sha256": "703dc838f6c884939acd9a7367c541fbcbbd199d787d8b594e575713b8cf3a37"
+    },
+    {
+      "folio": 142,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "e576dcf5564800fa5e8d7498dd5fad5e57d44b1850f8643d8d2c5dbc2f98117a",
+      "new_pixel_sha256": "e576dcf5564800fa5e8d7498dd5fad5e57d44b1850f8643d8d2c5dbc2f98117a"
+    },
+    {
+      "folio": 143,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "f9ad7fbcfde0b294e62044b6e3b5e9742905425afeb4c4b47d859a138df3b9c9",
+      "new_pixel_sha256": "f9ad7fbcfde0b294e62044b6e3b5e9742905425afeb4c4b47d859a138df3b9c9"
+    },
+    {
+      "folio": 144,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "34e7ad68a39ea04e9ea8c82afa0fc0d49051302594a6b117349c9061f624aef7",
+      "new_pixel_sha256": "34e7ad68a39ea04e9ea8c82afa0fc0d49051302594a6b117349c9061f624aef7"
+    },
+    {
+      "folio": 145,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "2a1e506918096ab27934505e2c4c8dcffd2b8c3565cc8614249c357c6df5daec",
+      "new_pixel_sha256": "2a1e506918096ab27934505e2c4c8dcffd2b8c3565cc8614249c357c6df5daec"
+    },
+    {
+      "folio": 146,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "ce1841da5bc051be039b355aed5df10e8741a74d902bd77d3d93cd3d780dfd13",
+      "new_pixel_sha256": "ce1841da5bc051be039b355aed5df10e8741a74d902bd77d3d93cd3d780dfd13"
+    },
+    {
+      "folio": 147,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "fdd74431dbb3c8b850c7186b0000f597f9b62bb7377d6ac121b47ce50d1a276e",
+      "new_pixel_sha256": "fdd74431dbb3c8b850c7186b0000f597f9b62bb7377d6ac121b47ce50d1a276e"
+    },
+    {
+      "folio": 148,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "7cb4103a4f77daf8b567a5c704447dc6a1756407b528c08cb7892a40eb923005",
+      "new_pixel_sha256": "7cb4103a4f77daf8b567a5c704447dc6a1756407b528c08cb7892a40eb923005"
+    },
+    {
+      "folio": 149,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "9a00592ab4a1b6f05a311172857eb3818032d0d8404b1496ffa78260df905ffd",
+      "new_pixel_sha256": "9a00592ab4a1b6f05a311172857eb3818032d0d8404b1496ffa78260df905ffd"
+    },
+    {
+      "folio": 150,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "5adbea2d9388fe38bbe7fea98fb00714e2ce7372e4875b10b9fdd9c13bea7f95",
+      "new_pixel_sha256": "5adbea2d9388fe38bbe7fea98fb00714e2ce7372e4875b10b9fdd9c13bea7f95"
+    },
+    {
+      "folio": 151,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "40ff5a5a475f044fda44d6afceabff66a9f1509d425913edecea1a9246ef6686",
+      "new_pixel_sha256": "40ff5a5a475f044fda44d6afceabff66a9f1509d425913edecea1a9246ef6686"
+    },
+    {
+      "folio": 152,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "8764fcd04324343e0138d4c034ba799bf7a7b9d28d7a17c6d9e462e426175601",
+      "new_pixel_sha256": "8764fcd04324343e0138d4c034ba799bf7a7b9d28d7a17c6d9e462e426175601"
+    },
+    {
+      "folio": 153,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "de92323e6974ab2e27bbb5d8cf4f4085a792d47bf0940e3c54006ed0f77a8af8",
+      "new_pixel_sha256": "de92323e6974ab2e27bbb5d8cf4f4085a792d47bf0940e3c54006ed0f77a8af8"
+    },
+    {
+      "folio": 154,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "19b694601bdf5fe55cbd03cb5915603445f8eed5762878d3ea2df7eda0283037",
+      "new_pixel_sha256": "19b694601bdf5fe55cbd03cb5915603445f8eed5762878d3ea2df7eda0283037"
+    },
+    {
+      "folio": 155,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "4c39b852ba2e55e4a78578bd4ea4e9b84a7609e51446887639f2f9293f1591a2",
+      "new_pixel_sha256": "4c39b852ba2e55e4a78578bd4ea4e9b84a7609e51446887639f2f9293f1591a2"
+    },
+    {
+      "folio": 156,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "8e9f1730fce092e27142c8c37717def83d3826680695c1e32a24251f0cd01ff1",
+      "new_pixel_sha256": "8e9f1730fce092e27142c8c37717def83d3826680695c1e32a24251f0cd01ff1"
+    },
+    {
+      "folio": 157,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "efcd3f9bc34128d33c9a2df6ab127da1644031b85dfecc384cc4a86e21069942",
+      "new_pixel_sha256": "efcd3f9bc34128d33c9a2df6ab127da1644031b85dfecc384cc4a86e21069942"
+    },
+    {
+      "folio": 158,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "5e90ca20186ff07224914b36a90a36bf630a88fecd8ab24eb2eb34cc7c7d58ee",
+      "new_pixel_sha256": "5e90ca20186ff07224914b36a90a36bf630a88fecd8ab24eb2eb34cc7c7d58ee"
+    },
+    {
+      "folio": 159,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "10f70c63b9623a0e4dbf76ad0aedeffc9aebebca7f0fc7ff3d8beb02314ef899",
+      "new_pixel_sha256": "10f70c63b9623a0e4dbf76ad0aedeffc9aebebca7f0fc7ff3d8beb02314ef899"
+    },
+    {
+      "folio": 160,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "38b3d2716fde5335317697d8aa670e590c16b86dc841d77599c87a6d87ace5d3",
+      "new_pixel_sha256": "38b3d2716fde5335317697d8aa670e590c16b86dc841d77599c87a6d87ace5d3"
+    },
+    {
+      "folio": 161,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "0fb851f47b4d774ba41941fcd05c13a35149156d1e12e4e49e1f1385f29c1977",
+      "new_pixel_sha256": "0fb851f47b4d774ba41941fcd05c13a35149156d1e12e4e49e1f1385f29c1977"
+    },
+    {
+      "folio": 162,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "f9815a2bdb1a320f7e04da2e619be5c42c0f394f619d0050538a30c8cbdf0dee",
+      "new_pixel_sha256": "f9815a2bdb1a320f7e04da2e619be5c42c0f394f619d0050538a30c8cbdf0dee"
+    },
+    {
+      "folio": 163,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "c2820884ae954e1c6bf68f62a3867b5aab0d6365241851bfec7e459878f79177",
+      "new_pixel_sha256": "c2820884ae954e1c6bf68f62a3867b5aab0d6365241851bfec7e459878f79177"
+    },
+    {
+      "folio": 164,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "cd283393972b4bcce4b015e87077cf2e4a8459ae358159d50dccf959f7bee8e7",
+      "new_pixel_sha256": "cd283393972b4bcce4b015e87077cf2e4a8459ae358159d50dccf959f7bee8e7"
+    },
+    {
+      "folio": 165,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "d4888eeaf75efe4b9445807eb172b35a029f5b9eb94ce9d94940509479064aba",
+      "new_pixel_sha256": "d4888eeaf75efe4b9445807eb172b35a029f5b9eb94ce9d94940509479064aba"
+    },
+    {
+      "folio": 166,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "b0b0ec0ebed4345afc7b59eaf16c7f5fc41f063e9a75f075b9fb80813fa29b27",
+      "new_pixel_sha256": "b0b0ec0ebed4345afc7b59eaf16c7f5fc41f063e9a75f075b9fb80813fa29b27"
+    },
+    {
+      "folio": 167,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "4cbacdbfe0f6bcaf8b327cb175b4230027299bd170a502b97e498d36f09cdada",
+      "new_pixel_sha256": "4cbacdbfe0f6bcaf8b327cb175b4230027299bd170a502b97e498d36f09cdada"
+    },
+    {
+      "folio": 168,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "577ccdaf6c545227ad2d81f07519894db44355a0d4be0f71f55e552ac3187128",
+      "new_pixel_sha256": "577ccdaf6c545227ad2d81f07519894db44355a0d4be0f71f55e552ac3187128"
+    },
+    {
+      "folio": 169,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "a1dc5ac576bba8bd7838698c81e1f46b4558491533a6a0dddd93bd51008f1939",
+      "new_pixel_sha256": "a1dc5ac576bba8bd7838698c81e1f46b4558491533a6a0dddd93bd51008f1939"
+    },
+    {
+      "folio": 170,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "e64e9fdf3292d9f231eebbc60d60acf8a5ff4c8ddd9746aa8160118057660df7",
+      "new_pixel_sha256": "e64e9fdf3292d9f231eebbc60d60acf8a5ff4c8ddd9746aa8160118057660df7"
+    },
+    {
+      "folio": 171,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "ee6e48559a36e4481e928a4a787cbea80df0d8495fff641180bc8d4dadafc10d",
+      "new_pixel_sha256": "ee6e48559a36e4481e928a4a787cbea80df0d8495fff641180bc8d4dadafc10d"
+    },
+    {
+      "folio": 172,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "fb29a87abb485b433681b1ce1102db2c159e0df35463cac475ee4c3d47091d3b",
+      "new_pixel_sha256": "fb29a87abb485b433681b1ce1102db2c159e0df35463cac475ee4c3d47091d3b"
+    },
+    {
+      "folio": 173,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "b2dced4c3ccdac713409193dd5f2e169bc0145b67a67190f00f450de0fd21686",
+      "new_pixel_sha256": "b2dced4c3ccdac713409193dd5f2e169bc0145b67a67190f00f450de0fd21686"
+    },
+    {
+      "folio": 174,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "4d1b0dc66807fbd2e404dfd11412a05cc6dafa82bdbe0800616c354cc3974770",
+      "new_pixel_sha256": "4d1b0dc66807fbd2e404dfd11412a05cc6dafa82bdbe0800616c354cc3974770"
+    },
+    {
+      "folio": 175,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "3e5aff39014c42ec3c44e2ee6d2bdbffbdbd87fa709fc01d8aee26f029a214a7",
+      "new_pixel_sha256": "3e5aff39014c42ec3c44e2ee6d2bdbffbdbd87fa709fc01d8aee26f029a214a7"
+    },
+    {
+      "folio": 176,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "49bd5c1ef100ea262cb8d95462099d1dad2a206f9297d95bfc1c4a376812bed0",
+      "new_pixel_sha256": "49bd5c1ef100ea262cb8d95462099d1dad2a206f9297d95bfc1c4a376812bed0"
+    },
+    {
+      "folio": 177,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "ddd6381d27f07074bcbd17c8cd33893e3f63acfbbcec21b42481123d844e2f86",
+      "new_pixel_sha256": "ddd6381d27f07074bcbd17c8cd33893e3f63acfbbcec21b42481123d844e2f86"
+    },
+    {
+      "folio": 178,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "361825e7365cc63799078bb1713850a18b1b6ac1e985b7a706f21821764832ec",
+      "new_pixel_sha256": "361825e7365cc63799078bb1713850a18b1b6ac1e985b7a706f21821764832ec"
+    },
+    {
+      "folio": 179,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "bc377d22b37b727bcda763979ab314e9f4d8a8355e7830e80b23b95f64ccd305",
+      "new_pixel_sha256": "bc377d22b37b727bcda763979ab314e9f4d8a8355e7830e80b23b95f64ccd305"
+    },
+    {
+      "folio": 180,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "5bc0caa40e3e19518db2ea8fb730213d2a1b964d60abc62fe17f82adfbfaba93",
+      "new_pixel_sha256": "5bc0caa40e3e19518db2ea8fb730213d2a1b964d60abc62fe17f82adfbfaba93"
+    },
+    {
+      "folio": 181,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "6858534929e3f0fe20527b1093b65e9abc1bc075fb2d74953915ad6387c3931f",
+      "new_pixel_sha256": "6858534929e3f0fe20527b1093b65e9abc1bc075fb2d74953915ad6387c3931f"
+    },
+    {
+      "folio": 182,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "5c82d56bdd2e373dba27481f869affa721b67edf16cd09e56a761dd4dbfa8f1d",
+      "new_pixel_sha256": "5c82d56bdd2e373dba27481f869affa721b67edf16cd09e56a761dd4dbfa8f1d"
+    },
+    {
+      "folio": 183,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "3921efa13df8018efd036bff8234295a870353641b5dcf17c3576b585b70ab70",
+      "new_pixel_sha256": "3921efa13df8018efd036bff8234295a870353641b5dcf17c3576b585b70ab70"
+    },
+    {
+      "folio": 184,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "bb2575e4d00cca633677fb4926d0c601dd620a77b96058ee94c595a7db687b60",
+      "new_pixel_sha256": "bb2575e4d00cca633677fb4926d0c601dd620a77b96058ee94c595a7db687b60"
+    },
+    {
+      "folio": 185,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "a91fb061d37ddbbb5b41d1e43872e315f9721417cddeba40fe27a9fda03235c1",
+      "new_pixel_sha256": "a91fb061d37ddbbb5b41d1e43872e315f9721417cddeba40fe27a9fda03235c1"
+    },
+    {
+      "folio": 186,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "eff32d06d103b25bd7e7ce8529296bbdd7f1ebc8a2dfda233b97ef121156705a",
+      "new_pixel_sha256": "eff32d06d103b25bd7e7ce8529296bbdd7f1ebc8a2dfda233b97ef121156705a"
+    },
+    {
+      "folio": 187,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "f7835635da3931d14dd0ebc86430dcc43ecdc4827bcb5f68a8b5236fb3d0678f",
+      "new_pixel_sha256": "f7835635da3931d14dd0ebc86430dcc43ecdc4827bcb5f68a8b5236fb3d0678f"
+    },
+    {
+      "folio": 188,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "6ffe29b7952b815a336357c88dd9d189ad59d8129dd73b139cc18eee3ee3900e",
+      "new_pixel_sha256": "6ffe29b7952b815a336357c88dd9d189ad59d8129dd73b139cc18eee3ee3900e"
+    },
+    {
+      "folio": 189,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "69a65f1517a4e8fb80f59111940efd36926f19f36e20bb4badbbaeec9681f42a",
+      "new_pixel_sha256": "69a65f1517a4e8fb80f59111940efd36926f19f36e20bb4badbbaeec9681f42a"
+    },
+    {
+      "folio": 190,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "8a1091342979760afc6fbea16f6fd6e9c75bfb392ddeea29d6bc0a0a0c340293",
+      "new_pixel_sha256": "8a1091342979760afc6fbea16f6fd6e9c75bfb392ddeea29d6bc0a0a0c340293"
+    },
+    {
+      "folio": 191,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "a59805813eb06a733ad0c39f243b9a28f6277b4e33f8cde2a40c2d8ebe664ef1",
+      "new_pixel_sha256": "a59805813eb06a733ad0c39f243b9a28f6277b4e33f8cde2a40c2d8ebe664ef1"
+    },
+    {
+      "folio": 192,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "d4192bad53ec4dbbd389169c89ad474d29e4eea68bb06aa3319d4da0056e1f61",
+      "new_pixel_sha256": "d4192bad53ec4dbbd389169c89ad474d29e4eea68bb06aa3319d4da0056e1f61"
+    },
+    {
+      "folio": 193,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "313953c0247e6769a8f60c9a8576f33daa6c0bebc9f06593278541f61ed2100a",
+      "new_pixel_sha256": "313953c0247e6769a8f60c9a8576f33daa6c0bebc9f06593278541f61ed2100a"
+    },
+    {
+      "folio": 194,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "c4158470ab4593969489be96dd07970affa232f48e0e707509c4a4b9dca46c5a",
+      "new_pixel_sha256": "c4158470ab4593969489be96dd07970affa232f48e0e707509c4a4b9dca46c5a"
+    },
+    {
+      "folio": 195,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "673ba1bcf6457415913899138b26f332d40a13e1ac11bee37bf17186b5c44f92",
+      "new_pixel_sha256": "673ba1bcf6457415913899138b26f332d40a13e1ac11bee37bf17186b5c44f92"
+    },
+    {
+      "folio": 196,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "5c6700de84ac203b42e5d91a9f30136e5cc7284f2b3067c091898c31ffb4cb23",
+      "new_pixel_sha256": "5c6700de84ac203b42e5d91a9f30136e5cc7284f2b3067c091898c31ffb4cb23"
+    },
+    {
+      "folio": 197,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "747d264bc3735734c56a4b4df17f9ec0ea6f38ffeb36d6bd37168440302e3a6f",
+      "new_pixel_sha256": "747d264bc3735734c56a4b4df17f9ec0ea6f38ffeb36d6bd37168440302e3a6f"
+    },
+    {
+      "folio": 198,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "a73d14f8628e726c47fcf52298464e8f9c166d9fbc8eb83007d68b7dee3df50a",
+      "new_pixel_sha256": "a73d14f8628e726c47fcf52298464e8f9c166d9fbc8eb83007d68b7dee3df50a"
+    },
+    {
+      "folio": 199,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "bbfed3353be56e8dd3c06ad0f987110d76c8babfa4a6736bf47f9520a89c2940",
+      "new_pixel_sha256": "bbfed3353be56e8dd3c06ad0f987110d76c8babfa4a6736bf47f9520a89c2940"
+    },
+    {
+      "folio": 200,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "bfc3f20b42af930d59ec3c0867308a9fe3ecae3650195f1d96a8d3fd2e63b3f9",
+      "new_pixel_sha256": "bfc3f20b42af930d59ec3c0867308a9fe3ecae3650195f1d96a8d3fd2e63b3f9"
+    },
+    {
+      "folio": 201,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "5e0438ffb863fddf65ca3fb1cfa497dcee15d28afdc0dbc65f750051a60d09ce",
+      "new_pixel_sha256": "5e0438ffb863fddf65ca3fb1cfa497dcee15d28afdc0dbc65f750051a60d09ce"
+    },
+    {
+      "folio": 202,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "8a9d5aa2c97b84242de01e797173b0edede6614137898c9ebf46613ca4f2d82b",
+      "new_pixel_sha256": "8a9d5aa2c97b84242de01e797173b0edede6614137898c9ebf46613ca4f2d82b"
+    },
+    {
+      "folio": 203,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "744d3d63194d1a3b4120b6334314799d34344e8bfb05baa9ae6ec93a297af674",
+      "new_pixel_sha256": "744d3d63194d1a3b4120b6334314799d34344e8bfb05baa9ae6ec93a297af674"
+    },
+    {
+      "folio": 204,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "259a4232adae3474b54a6a85705908d0dd9ae60cdc79fa2a169ba6772864979f",
+      "new_pixel_sha256": "259a4232adae3474b54a6a85705908d0dd9ae60cdc79fa2a169ba6772864979f"
+    },
+    {
+      "folio": 205,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "48a865786e0c72c297e63b4d3df833c7ae5a5983cf116580f6e5898666197be0",
+      "new_pixel_sha256": "48a865786e0c72c297e63b4d3df833c7ae5a5983cf116580f6e5898666197be0"
+    },
+    {
+      "folio": 206,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "b19aba91c2e8afee4f39449a195125b69642d32cd2a44846563388bc0a34cebb",
+      "new_pixel_sha256": "b19aba91c2e8afee4f39449a195125b69642d32cd2a44846563388bc0a34cebb"
+    },
+    {
+      "folio": 207,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "6cf2caff5672839352ecdc3abf5d6f07f0997625dfee459dfa8ea56e67204606",
+      "new_pixel_sha256": "6cf2caff5672839352ecdc3abf5d6f07f0997625dfee459dfa8ea56e67204606"
+    },
+    {
+      "folio": 208,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "08c34d676ca5ef212127038c560398a6836906d9b10cbd90f22e2983b222f789",
+      "new_pixel_sha256": "08c34d676ca5ef212127038c560398a6836906d9b10cbd90f22e2983b222f789"
+    },
+    {
+      "folio": 209,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "158713abc05482b9ee347236c1acfa870a6e14f31ded76a8644a7352ae21222a",
+      "new_pixel_sha256": "158713abc05482b9ee347236c1acfa870a6e14f31ded76a8644a7352ae21222a"
+    },
+    {
+      "folio": 210,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "ed4f28e3e756f99ce95a856c6fcf55e9f7aa7d4d6ffb6c4b1a44845f5fd64898",
+      "new_pixel_sha256": "ed4f28e3e756f99ce95a856c6fcf55e9f7aa7d4d6ffb6c4b1a44845f5fd64898"
+    },
+    {
+      "folio": 211,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "a0f738e6be7bca203b01820caede78fda8898258c1d96cd554e4dd4fca621465",
+      "new_pixel_sha256": "a0f738e6be7bca203b01820caede78fda8898258c1d96cd554e4dd4fca621465"
+    },
+    {
+      "folio": 212,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "9455d2f4502ea35bf11067b45dec6c0dd3ba551d2cd77adbe96760ce46f99f7f",
+      "new_pixel_sha256": "9455d2f4502ea35bf11067b45dec6c0dd3ba551d2cd77adbe96760ce46f99f7f"
+    },
+    {
+      "folio": 213,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "abdb81185713c274458b58a5d0ac2a15c2e2aecebb7413d0d8b2f378680031eb",
+      "new_pixel_sha256": "abdb81185713c274458b58a5d0ac2a15c2e2aecebb7413d0d8b2f378680031eb"
+    },
+    {
+      "folio": 214,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "952cd66b6b09e9c285d2b1482fda7f87ccdaa322b1817574a65cc69e5556957d",
+      "new_pixel_sha256": "952cd66b6b09e9c285d2b1482fda7f87ccdaa322b1817574a65cc69e5556957d"
+    },
+    {
+      "folio": 215,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "f11636ebafb43803ba5a74642d539601e778b8559ed99fac62f08e70db79e30c",
+      "new_pixel_sha256": "f11636ebafb43803ba5a74642d539601e778b8559ed99fac62f08e70db79e30c"
+    },
+    {
+      "folio": 216,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "4703287aa1fb43db29913e34e7af76458e627025ecc21f446beeada746e87ab6",
+      "new_pixel_sha256": "4703287aa1fb43db29913e34e7af76458e627025ecc21f446beeada746e87ab6"
+    },
+    {
+      "folio": 217,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "f88f1d3b49fadb66129211fce6b2ce98a6d45e3b02bc31ccd80a9e9f65c87800",
+      "new_pixel_sha256": "f88f1d3b49fadb66129211fce6b2ce98a6d45e3b02bc31ccd80a9e9f65c87800"
+    },
+    {
+      "folio": 218,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "ca9121aa9a5e716c65396ff936c8c9fc6adac968a5c7ffd6c07d7bb46117f495",
+      "new_pixel_sha256": "ca9121aa9a5e716c65396ff936c8c9fc6adac968a5c7ffd6c07d7bb46117f495"
+    },
+    {
+      "folio": 219,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "b1edf23ebcd3a749ccec82d9e05b2db75f4a6f93ab8350b5e231092a7523fd43",
+      "new_pixel_sha256": "b1edf23ebcd3a749ccec82d9e05b2db75f4a6f93ab8350b5e231092a7523fd43"
+    },
+    {
+      "folio": 220,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "226aec7ca0e97b1b4b5361f26f288682061b63f401e6f9a23692d36cde1c71ce",
+      "new_pixel_sha256": "226aec7ca0e97b1b4b5361f26f288682061b63f401e6f9a23692d36cde1c71ce"
+    },
+    {
+      "folio": 221,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "728ae443a02294e2e3834591acabf4d9cd41e848e7b0180a8d97f06a292d50c2",
+      "new_pixel_sha256": "728ae443a02294e2e3834591acabf4d9cd41e848e7b0180a8d97f06a292d50c2"
+    },
+    {
+      "folio": 222,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "650f00ebe95d079fc0c4c07e5bfc1dc62cf8dbafec14c52c5f534e0ba097cac5",
+      "new_pixel_sha256": "650f00ebe95d079fc0c4c07e5bfc1dc62cf8dbafec14c52c5f534e0ba097cac5"
+    },
+    {
+      "folio": 223,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "d21efe40e73b748803b71409d37eddaf661a55150bfae6419250a5af69df1fa0",
+      "new_pixel_sha256": "d21efe40e73b748803b71409d37eddaf661a55150bfae6419250a5af69df1fa0"
+    },
+    {
+      "folio": 224,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "4341727092264748ace41bcf3b6b955902d2cd4de7dddac32c2245cf0c79c153",
+      "new_pixel_sha256": "4341727092264748ace41bcf3b6b955902d2cd4de7dddac32c2245cf0c79c153"
+    },
+    {
+      "folio": 225,
+      "text_identical": true,
+      "pixels_identical_at_scale_0_3": true,
+      "v8_pixel_sha256": "dec1ecac3281c497df91b828617c6a15db55bb2f52b41b958729febf943d3e9d",
+      "new_pixel_sha256": "dec1ecac3281c497df91b828617c6a15db55bb2f52b41b958729febf943d3e9d"
+    }
+  ],
+  "reflowed_page_count": 35,
+  "reflowed_page_results": [
+    {
+      "folio": 7,
+      "spoken_turns": 3,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "INTRO07",
+          "turn": 1,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "INTRO07",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "INTRO07",
+          "turn": 3,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "7d08913d5c9158b9e3e5e6cb888ee8e63fcb6f769d84d1fefa693e28e1237c0b",
+      "new_remainder_sha256": "7d08913d5c9158b9e3e5e6cb888ee8e63fcb6f769d84d1fefa693e28e1237c0b"
+    },
+    {
+      "folio": 12,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASEWALL12",
+          "turn": 1,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASEWALL12",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASEWALL12",
+          "turn": 3,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASEWALL12",
+          "turn": 4,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASEWALL12",
+          "turn": 5,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASEWALL12",
+          "turn": 6,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "3113d76db9bf8240b1bf81a165145651f8cc181fa6ee07d3149d314a9810478e",
+      "new_remainder_sha256": "3113d76db9bf8240b1bf81a165145651f8cc181fa6ee07d3149d314a9810478e"
+    },
+    {
+      "folio": 16,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE01",
+          "turn": 1,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE01",
+          "turn": 2,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE01",
+          "turn": 3,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE01",
+          "turn": 4,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE01",
+          "turn": 5,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "6060b819b6a1a0983d01f31f30dc362efb84e63f8144bf01ddffa4f203a11ef2",
+      "new_remainder_sha256": "6060b819b6a1a0983d01f31f30dc362efb84e63f8144bf01ddffa4f203a11ef2"
+    },
+    {
+      "folio": 19,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE02",
+          "turn": 1,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE02",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE02",
+          "turn": 3,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE02",
+          "turn": 4,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE02",
+          "turn": 5,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "ccf7bde9da6c865398718a5bfe30ecd4e64ea45a7a1c4ae8cd2466d5e5aee4d3",
+      "new_remainder_sha256": "ccf7bde9da6c865398718a5bfe30ecd4e64ea45a7a1c4ae8cd2466d5e5aee4d3"
+    },
+    {
+      "folio": 23,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE03",
+          "turn": 1,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE03",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE03",
+          "turn": 3,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE03",
+          "turn": 4,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE03",
+          "turn": 5,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "7f1e6665880bba02139dee8b7cbd3e0a2c3e8db1a14fa5a1b648810970af515a",
+      "new_remainder_sha256": "7f1e6665880bba02139dee8b7cbd3e0a2c3e8db1a14fa5a1b648810970af515a"
+    },
+    {
+      "folio": 27,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE04",
+          "turn": 1,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE04",
+          "turn": 2,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE04",
+          "turn": 3,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE04",
+          "turn": 4,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE04",
+          "turn": 5,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE04",
+          "turn": 6,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "c9322bd6472d95fcb43678e5cc6a56b227a27199d307b0d4bfe4f92ea867ba99",
+      "new_remainder_sha256": "c9322bd6472d95fcb43678e5cc6a56b227a27199d307b0d4bfe4f92ea867ba99"
+    },
+    {
+      "folio": 31,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE05",
+          "turn": 1,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE05",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE05",
+          "turn": 3,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE05",
+          "turn": 4,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE05",
+          "turn": 5,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE05",
+          "turn": 6,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "c1812b382cb7a130700affd2aee250ca4917ba7387c65f8740395c731d411492",
+      "new_remainder_sha256": "c1812b382cb7a130700affd2aee250ca4917ba7387c65f8740395c731d411492"
+    },
+    {
+      "folio": 34,
+      "spoken_turns": 2,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "THREAD34",
+          "turn": 1,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "THREAD34",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "2cbf389501d56a3b74711421e0dff1bc4a315e13da47e9b2e616232458b5cd95",
+      "new_remainder_sha256": "2cbf389501d56a3b74711421e0dff1bc4a315e13da47e9b2e616232458b5cd95"
+    },
+    {
+      "folio": 35,
+      "spoken_turns": 2,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "THREAD34",
+          "turn": 3,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "THREAD34",
+          "turn": 4,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "d89f094b9300a7f7725f95b3543bf12d474619783a6d7a806ffea007d35107a5",
+      "new_remainder_sha256": "d89f094b9300a7f7725f95b3543bf12d474619783a6d7a806ffea007d35107a5"
+    },
+    {
+      "folio": 37,
+      "spoken_turns": 8,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE06",
+          "turn": 1,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE06",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE06",
+          "turn": 3,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE06",
+          "turn": 4,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE06",
+          "turn": 5,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE06",
+          "turn": 6,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE06",
+          "turn": 7,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE06",
+          "turn": 8,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "e2824b04eefce3480d0560978549631bc2777b0861690177132eedff72fcd809",
+      "new_remainder_sha256": "e2824b04eefce3480d0560978549631bc2777b0861690177132eedff72fcd809"
+    },
+    {
+      "folio": 41,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE07",
+          "turn": 1,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE07",
+          "turn": 2,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE07",
+          "turn": 3,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE07",
+          "turn": 4,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE07",
+          "turn": 5,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "3543f2fa9d1ca1a7d4b871bc58e225dc526f5363c11bfd00c8411f889c8834c1",
+      "new_remainder_sha256": "3543f2fa9d1ca1a7d4b871bc58e225dc526f5363c11bfd00c8411f889c8834c1"
+    },
+    {
+      "folio": 45,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE08",
+          "turn": 1,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE08",
+          "turn": 2,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE08",
+          "turn": 3,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE08",
+          "turn": 4,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE08",
+          "turn": 5,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "a49d48a074c2c63dbded2ac6b13f326d06f7dfb8def1040ca1b14d85f7995d72",
+      "new_remainder_sha256": "a49d48a074c2c63dbded2ac6b13f326d06f7dfb8def1040ca1b14d85f7995d72"
+    },
+    {
+      "folio": 49,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE09",
+          "turn": 1,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE09",
+          "turn": 2,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE09",
+          "turn": 3,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE09",
+          "turn": 4,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE09",
+          "turn": 5,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE09",
+          "turn": 6,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "985953cc8dfed9a4c30a3bcf057434ffdaf1e6556d6915d8492d69ba36f897a4",
+      "new_remainder_sha256": "985953cc8dfed9a4c30a3bcf057434ffdaf1e6556d6915d8492d69ba36f897a4"
+    },
+    {
+      "folio": 53,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE10",
+          "turn": 1,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE10",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE10",
+          "turn": 3,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE10",
+          "turn": 4,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE10",
+          "turn": 5,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "3c369efe8e42c25f1852292a70b99ac023b0844dcd3a22969396a1b4215d4793",
+      "new_remainder_sha256": "3c369efe8e42c25f1852292a70b99ac023b0844dcd3a22969396a1b4215d4793"
+    },
+    {
+      "folio": 57,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE11",
+          "turn": 1,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE11",
+          "turn": 2,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE11",
+          "turn": 3,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE11",
+          "turn": 4,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE11",
+          "turn": 5,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE11",
+          "turn": 6,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "57b27f73db812e864f7edaea4be66f76bce23671a05738c0599cd84511ddea09",
+      "new_remainder_sha256": "57b27f73db812e864f7edaea4be66f76bce23671a05738c0599cd84511ddea09"
+    },
+    {
+      "folio": 61,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE12",
+          "turn": 1,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE12",
+          "turn": 2,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE12",
+          "turn": 3,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE12",
+          "turn": 4,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE12",
+          "turn": 5,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "fd72deba59a720c157d1bb4036f9e53f16de75fa0152a4df7ecf88b1afb2314f",
+      "new_remainder_sha256": "fd72deba59a720c157d1bb4036f9e53f16de75fa0152a4df7ecf88b1afb2314f"
+    },
+    {
+      "folio": 65,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE13",
+          "turn": 1,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE13",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE13",
+          "turn": 3,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE13",
+          "turn": 4,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE13",
+          "turn": 5,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE13",
+          "turn": 6,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "e98770c3a0f2f4fc0beb76a0fb29b8b0a4428c065801cf46fa5e5d98d86f19c9",
+      "new_remainder_sha256": "e98770c3a0f2f4fc0beb76a0fb29b8b0a4428c065801cf46fa5e5d98d86f19c9"
+    },
+    {
+      "folio": 69,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE14",
+          "turn": 1,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE14",
+          "turn": 2,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE14",
+          "turn": 3,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE14",
+          "turn": 4,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE14",
+          "turn": 5,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE14",
+          "turn": 6,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "2a3def46f5cf0e1a825abbd32aaf51961830005ae81f21b642f5df1e739556b0",
+      "new_remainder_sha256": "2a3def46f5cf0e1a825abbd32aaf51961830005ae81f21b642f5df1e739556b0"
+    },
+    {
+      "folio": 73,
+      "spoken_turns": 4,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE15",
+          "turn": 1,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE15",
+          "turn": 2,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE15",
+          "turn": 3,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE15",
+          "turn": 4,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "b3438da25b1894b74da2e05191b4abf85601dc4a911b75079de86f23be7ef33d",
+      "new_remainder_sha256": "b3438da25b1894b74da2e05191b4abf85601dc4a911b75079de86f23be7ef33d"
+    },
+    {
+      "folio": 77,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE16",
+          "turn": 1,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE16",
+          "turn": 2,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE16",
+          "turn": 3,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE16",
+          "turn": 4,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE16",
+          "turn": 5,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE16",
+          "turn": 6,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "bd6bee6bdc3dbbbe62278621abc998b41e8d113dddf9543d3615f2287129c59a",
+      "new_remainder_sha256": "bd6bee6bdc3dbbbe62278621abc998b41e8d113dddf9543d3615f2287129c59a"
+    },
+    {
+      "folio": 83,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE17",
+          "turn": 1,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE17",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE17",
+          "turn": 3,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE17",
+          "turn": 4,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE17",
+          "turn": 5,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE17",
+          "turn": 6,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "56bea8f14d024793050e98016d73daa280d91f1e130f5f3474b45662c2c74ede",
+      "new_remainder_sha256": "56bea8f14d024793050e98016d73daa280d91f1e130f5f3474b45662c2c74ede"
+    },
+    {
+      "folio": 87,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE18",
+          "turn": 1,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE18",
+          "turn": 2,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE18",
+          "turn": 3,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE18",
+          "turn": 4,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE18",
+          "turn": 5,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "e1d8e3f55329aa2c1db6f221dd80bab8b481733842118f150a26e32290725fdc",
+      "new_remainder_sha256": "e1d8e3f55329aa2c1db6f221dd80bab8b481733842118f150a26e32290725fdc"
+    },
+    {
+      "folio": 91,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE19",
+          "turn": 1,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE19",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE19",
+          "turn": 3,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE19",
+          "turn": 4,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE19",
+          "turn": 5,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE19",
+          "turn": 6,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "8fa13fcd1f778a0b3fb9ad3627dd005b97b7a4a280054c9a7c73f3af63727ff6",
+      "new_remainder_sha256": "8fa13fcd1f778a0b3fb9ad3627dd005b97b7a4a280054c9a7c73f3af63727ff6"
+    },
+    {
+      "folio": 95,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE20",
+          "turn": 1,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE20",
+          "turn": 2,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE20",
+          "turn": 3,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE20",
+          "turn": 4,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE20",
+          "turn": 5,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE20",
+          "turn": 6,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "9742b5bd8caf1e07d30fdbd8a582ddd7cc6a67021585f20a15211df9a83bb573",
+      "new_remainder_sha256": "9742b5bd8caf1e07d30fdbd8a582ddd7cc6a67021585f20a15211df9a83bb573"
+    },
+    {
+      "folio": 99,
+      "spoken_turns": 7,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE21",
+          "turn": 1,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE21",
+          "turn": 2,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE21",
+          "turn": 3,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE21",
+          "turn": 4,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE21",
+          "turn": 5,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE21",
+          "turn": 6,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE21",
+          "turn": 7,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "5b2042376039f3299c79bcef3a36832a6f59cabb9a25466492732e419398655d",
+      "new_remainder_sha256": "5b2042376039f3299c79bcef3a36832a6f59cabb9a25466492732e419398655d"
+    },
+    {
+      "folio": 105,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE22",
+          "turn": 1,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE22",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE22",
+          "turn": 3,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE22",
+          "turn": 4,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE22",
+          "turn": 5,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "b293bfa65ed690a11aaf6b4d1faa6ed91a40cf5249ccc64da1c5dab8c8741a64",
+      "new_remainder_sha256": "b293bfa65ed690a11aaf6b4d1faa6ed91a40cf5249ccc64da1c5dab8c8741a64"
+    },
+    {
+      "folio": 109,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE23",
+          "turn": 1,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE23",
+          "turn": 2,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE23",
+          "turn": 3,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE23",
+          "turn": 4,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE23",
+          "turn": 5,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "675d96dedee5c7325a644292f0fc77b79d4d9978b70ce9502bf79cf30573a2e7",
+      "new_remainder_sha256": "675d96dedee5c7325a644292f0fc77b79d4d9978b70ce9502bf79cf30573a2e7"
+    },
+    {
+      "folio": 113,
+      "spoken_turns": 6,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE24",
+          "turn": 1,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE24",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE24",
+          "turn": 3,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE24",
+          "turn": 4,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE24",
+          "turn": 5,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE24",
+          "turn": 6,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "88c18f63b4871905aa6f36b5f15d43caacbec2dcc2b643d581df27c5d64068b6",
+      "new_remainder_sha256": "88c18f63b4871905aa6f36b5f15d43caacbec2dcc2b643d581df27c5d64068b6"
+    },
+    {
+      "folio": 117,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE25",
+          "turn": 1,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE25",
+          "turn": 2,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE25",
+          "turn": 3,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE25",
+          "turn": 4,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE25",
+          "turn": 5,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "d29dab577cf57b8cc84404d307e50e841e4eee625ba9886a2c7ae12057e68378",
+      "new_remainder_sha256": "d29dab577cf57b8cc84404d307e50e841e4eee625ba9886a2c7ae12057e68378"
+    },
+    {
+      "folio": 120,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "THREAD120",
+          "turn": 1,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "THREAD120",
+          "turn": 2,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "THREAD120",
+          "turn": 3,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "THREAD120",
+          "turn": 4,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "THREAD120",
+          "turn": 5,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "e603bdbc155b254607c7d743b9e8495282dac041cc72ba22665e9c590fe39ccc",
+      "new_remainder_sha256": "e603bdbc155b254607c7d743b9e8495282dac041cc72ba22665e9c590fe39ccc"
+    },
+    {
+      "folio": 121,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE26",
+          "turn": 1,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE26",
+          "turn": 2,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE26",
+          "turn": 3,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE26",
+          "turn": 4,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE26",
+          "turn": 5,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "c4f5ed963d5df3d67328dcc298ee1c2068830ca8bbed9ee3de7c22886003e6c0",
+      "new_remainder_sha256": "c4f5ed963d5df3d67328dcc298ee1c2068830ca8bbed9ee3de7c22886003e6c0"
+    },
+    {
+      "folio": 125,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE27",
+          "turn": 1,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE27",
+          "turn": 2,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE27",
+          "turn": 3,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE27",
+          "turn": 4,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE27",
+          "turn": 5,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "c910923c5a42354b51359eef74545f737fdac4eb91520d31141f413c12c30b8c",
+      "new_remainder_sha256": "c910923c5a42354b51359eef74545f737fdac4eb91520d31141f413c12c30b8c"
+    },
+    {
+      "folio": 129,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE28",
+          "turn": 1,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE28",
+          "turn": 2,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE28",
+          "turn": 3,
+          "speaker": "ALIO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE28",
+          "turn": 4,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE28",
+          "turn": 5,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "ffe38f871ae7ec96f3da1b20a9c98c7867d8d6fe500aa5660b615f8fb100ac83",
+      "new_remainder_sha256": "ffe38f871ae7ec96f3da1b20a9c98c7867d8d6fe500aa5660b615f8fb100ac83"
+    },
+    {
+      "folio": 133,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE29",
+          "turn": 1,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE29",
+          "turn": 2,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE29",
+          "turn": 3,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE29",
+          "turn": 4,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE29",
+          "turn": 5,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "621468a9a718693e0fc8b66878f7e339554f0e1d8d9623f06151c73942e58ba4",
+      "new_remainder_sha256": "621468a9a718693e0fc8b66878f7e339554f0e1d8d9623f06151c73942e58ba4"
+    },
+    {
+      "folio": 137,
+      "spoken_turns": 5,
+      "all_final_speech_present_and_ordered": true,
+      "speech_checks": [
+        {
+          "scene": "CASE30",
+          "turn": 1,
+          "speaker": "MIMI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE30",
+          "turn": 2,
+          "speaker": "DILO",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE30",
+          "turn": 3,
+          "speaker": "LULI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE30",
+          "turn": 4,
+          "speaker": "NINI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        },
+        {
+          "scene": "CASE30",
+          "turn": 5,
+          "speaker": "BIBI",
+          "old_text_present_in_order": true,
+          "new_text_present_in_order": true,
+          "speaker_label_before_turn": "PASS"
+        }
+      ],
+      "non_comms_remainder_exact": true,
+      "extra_body_folio_only": false,
+      "old_remainder_sha256": "b85f4ff477bf13b7d05b6c2f1a197033b71ac7b3a4a101ca35677f9eeecd48a2",
+      "new_remainder_sha256": "b85f4ff477bf13b7d05b6c2f1a197033b71ac7b3a4a101ca35677f9eeecd48a2"
+    }
+  ],
+  "final_spoken_turns_present_and_ordered": 183,
+  "standalone_pdf_sha256": "05cd3424f2d9f2fc36b59f31f130a5e8c8a221abf459591b2b2978fa85eaa4bf",
+  "standalone_pages": 34,
+  "standalone_all183_turn_speaker_roundtrips": "PASS",
+  "standalone_checks": [
+    {
+      "page": 1,
+      "scene": "INTRO07",
+      "turns": 3,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 2,
+      "scene": "CASEWALL12",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 3,
+      "scene": "CASE01",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 4,
+      "scene": "CASE02",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 5,
+      "scene": "CASE03",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 6,
+      "scene": "CASE04",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 7,
+      "scene": "CASE05",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 8,
+      "scene": "THREAD34",
+      "turns": 4,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 9,
+      "scene": "CASE06",
+      "turns": 8,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 10,
+      "scene": "CASE07",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 11,
+      "scene": "CASE08",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 12,
+      "scene": "CASE09",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 13,
+      "scene": "CASE10",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 14,
+      "scene": "CASE11",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 15,
+      "scene": "CASE12",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 16,
+      "scene": "CASE13",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 17,
+      "scene": "CASE14",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 18,
+      "scene": "CASE15",
+      "turns": 4,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 19,
+      "scene": "CASE16",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 20,
+      "scene": "CASE17",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 21,
+      "scene": "CASE18",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 22,
+      "scene": "CASE19",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 23,
+      "scene": "CASE20",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 24,
+      "scene": "CASE21",
+      "turns": 7,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 25,
+      "scene": "CASE22",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 26,
+      "scene": "CASE23",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 27,
+      "scene": "CASE24",
+      "turns": 6,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 28,
+      "scene": "CASE25",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 29,
+      "scene": "THREAD120",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 30,
+      "scene": "CASE26",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 31,
+      "scene": "CASE27",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 32,
+      "scene": "CASE28",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 33,
+      "scene": "CASE29",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    },
+    {
+      "page": 34,
+      "scene": "CASE30",
+      "turns": 5,
+      "speech_and_speaker_sequence": "PASS"
+    }
+  ],
+  "puzzles_re_solved": false,
+  "unresolved_findings": []
+}

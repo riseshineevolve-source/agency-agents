@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "checks": {
+    "source_candidate_packet_same_order": true,
+    "all_operation_bytes_match": true,
+    "all_operation_hashes_match": true,
+    "all_unit_hashes_match": true,
+    "protected_original_unchanged": true,
+    "exact_changed_set": true,
+    "no_duplicate_operations": true,
+    "all_source_folios_accounted": true,
+    "all_page_unit_sets_exact": true,
+    "source16_comms_routes15": true,
+    "case04_narrative_routes26": true,
+    "page122_rationale_corrected": true,
+    "no_slot_or_print_approval": true,
+    "candidate_hash_bound": true,
+    "intake_hash_bound": true
+  },
+  "packet_sha256": "e32b0692fcf588ce390120c872a78ff1e366a37f3f13dd308a0f2272822728e1",
+  "ledger_sha256": "4b0a8dbe12122a31a4183215767832cd0661c0c4d26464c76fa12251bc589d24",
+  "meaning": "Independent byte/coverage assertions over built handoff; not product render verification."
+}

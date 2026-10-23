@@ -1,0 +1,19 @@
+{
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "files": {
+    "CONSUMER_HANDOFF_SUPPLEMENT.md": "15a0164d1c126ed9801cf463ee49164feaee1e7a417646a64cc99671992316d0",
+    "EDITORIAL_IMPORT_PACKET.json": "e32b0692fcf588ce390120c872a78ff1e366a37f3f13dd308a0f2272822728e1",
+    "INTEGRATION_CHECK.json": "a7a76970c7492615b6de70ca775a17d0d96ac989ed222dd32f7018daf59e91da",
+    "PACKET_VALIDATION.json": "b9fe6417b8f8b2ebaa44181c59923cf58b9b99144c9f6c571edcdff8a06c4ed2",
+    "SOURCE_PAGE_ART_LEDGER.json": "4b0a8dbe12122a31a4183215767832cd0661c0c4d26464c76fa12251bc589d24",
+    "STUDIO_CAPABILITY_SNAPSHOT.json": "98cb72a0f3c074d618a332f76b29b9a77f7afbabc1c19b8ff4d33d6c6db5aa01",
+    "build-integration-packet.py": "1ee908af30fa1462141975cd493de81fd59a29534c3590d318513e90a342554e",
+    "render-reviewed-source-pages.py": "755c6907b9ed433e1c4b438690455c276e0291f3e096a84a16deb5f8bb69ccfa",
+    "review-figure-dependencies.json": "dd136d9aed974a00a8b950d29ae6b09780e9d3e36206fb66e338cbd9f4246731",
+    "review-handoff-contract.json": "0d2c9feabdad79d59236b747a1afd11532b27fb1651a646486c5827382c8969c",
+    "verify-integration-packet.py": "0ad6114b04154c862f8b2f904f0b3c06a2b85f075b6460ce4485fbe1c17d9316"
+  },
+  "source_pdf_bytes_changed": false,
+  "candidate_v5_delta": "6NUL\u2192ASCIIhyphen chars;3065other targetunits identical toV4.",
+  "production_changed": false
+}

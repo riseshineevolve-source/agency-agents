@@ -1,0 +1,9 @@
+{
+  "complete_archive_library_file_id": "libfile_da1bed141d108191a32b9d5d4a7a893b",
+  "current_version_number": 4,
+  "archive_sha256": "816115c0c16433104455fe81dad7fd4bae9caaebdfcb2613c54fb6cc1cd8b3c5",
+  "archive_files": 103,
+  "includes": "FullV9textmetadata/engine/R1andfinalreviews/currentPDFs plusexactV8baselinePDFandreadingadapter; verboseCLIandrichmetadata arearchived.",
+  "omitted_large_text_files": [],
+  "prior_V8_and_V7_contracts": "Alreadyversionedin../v8and../v7; includedinfullarchive."
+}

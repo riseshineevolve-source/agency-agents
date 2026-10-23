@@ -1,0 +1,310 @@
+{
+  "case13": {
+    "room_only": {
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Juno": "F3",
+          "Skye": "E4",
+          "Eden": "G2",
+          "Willow": "A1",
+          "Bodhi": "B7",
+          "Moxie": "C5",
+          "Remy": "D6"
+        }
+      ],
+      "answers": {
+        "Bodhi at B7": 1
+      }
+    },
+    "any_named_area": {
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Juno": "F3",
+          "Skye": "E4",
+          "Eden": "G2",
+          "Willow": "A1",
+          "Bodhi": "B7",
+          "Moxie": "C5",
+          "Remy": "D6"
+        }
+      ],
+      "answers": {
+        "Bodhi at B7": 1
+      }
+    }
+  },
+  "early": {
+    "2": {
+      "edge_beside": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "A6",
+            "Atlas": "F4",
+            "Ivy": "C5",
+            "Max": "E1"
+          }
+        ],
+        "answers": {
+          "Dax at D2": 1
+        }
+      },
+      "edge_beside_same_room": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "A6",
+            "Atlas": "F4",
+            "Ivy": "C5",
+            "Max": "E1"
+          }
+        ],
+        "answers": {
+          "Dax at D2": 1
+        }
+      },
+      "eight_neighbour_beside": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "A6",
+            "Atlas": "F4",
+            "Ivy": "C5",
+            "Max": "E1"
+          }
+        ],
+        "answers": {
+          "Dax at D2": 1
+        }
+      },
+      "eight_neighbour_same_room": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "A6",
+            "Atlas": "F4",
+            "Ivy": "C5",
+            "Max": "E1"
+          }
+        ],
+        "answers": {
+          "Dax at D2": 1
+        }
+      },
+      "edge_witness_clues_only": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "A6",
+            "Atlas": "F4",
+            "Ivy": "C5",
+            "Max": "E1"
+          }
+        ],
+        "answers": {
+          "Dax at D2": 1
+        }
+      },
+      "eight_neighbour_witness_clues_only": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "A6",
+            "Atlas": "F4",
+            "Ivy": "C5",
+            "Max": "E1"
+          }
+        ],
+        "answers": {
+          "Dax at D2": 1
+        }
+      },
+      "room_corner_edge_beside": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "A6",
+            "Atlas": "F4",
+            "Ivy": "C5",
+            "Max": "E1"
+          }
+        ],
+        "answers": {
+          "Dax at D2": 1
+        }
+      },
+      "room_corner_eight_neighbour_beside": {
+        "full_assignment_count": 2,
+        "assignments": [
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "A6",
+            "Atlas": "F4",
+            "Ivy": "C5",
+            "Max": "E1"
+          },
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "C5",
+            "Atlas": "F4",
+            "Ivy": "A6",
+            "Max": "E1"
+          }
+        ],
+        "answers": {
+          "Dax at D2": 2
+        }
+      },
+      "room_corner_eight_neighbour_same_room": {
+        "full_assignment_count": 2,
+        "assignments": [
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "A6",
+            "Atlas": "F4",
+            "Ivy": "C5",
+            "Max": "E1"
+          },
+          {
+            "Nova": "B3",
+            "Dax": "D2",
+            "Rook": "C5",
+            "Atlas": "F4",
+            "Ivy": "A6",
+            "Max": "E1"
+          }
+        ],
+        "answers": {
+          "Dax at D2": 2
+        }
+      }
+    },
+    "4": {
+      "edge_beside": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Echo": "A2",
+            "Kai": "B6",
+            "Zuri": "F4",
+            "Briar": "D3",
+            "Clover": "C5",
+            "Pixel": "E1"
+          }
+        ],
+        "answers": {
+          "Zuri at F4": 1
+        }
+      },
+      "edge_beside_same_room": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Echo": "A2",
+            "Kai": "B6",
+            "Zuri": "F4",
+            "Briar": "D3",
+            "Clover": "C5",
+            "Pixel": "E1"
+          }
+        ],
+        "answers": {
+          "Zuri at F4": 1
+        }
+      },
+      "eight_neighbour_beside": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Echo": "A2",
+            "Kai": "B6",
+            "Zuri": "F4",
+            "Briar": "D3",
+            "Clover": "C5",
+            "Pixel": "E1"
+          }
+        ],
+        "answers": {
+          "Zuri at F4": 1
+        }
+      },
+      "eight_neighbour_same_room": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Echo": "A2",
+            "Kai": "B6",
+            "Zuri": "F4",
+            "Briar": "D3",
+            "Clover": "C5",
+            "Pixel": "E1"
+          }
+        ],
+        "answers": {
+          "Zuri at F4": 1
+        }
+      },
+      "edge_witness_clues_only": {
+        "full_assignment_count": 1,
+        "assignments": [
+          {
+            "Echo": "A2",
+            "Kai": "B6",
+            "Zuri": "F4",
+            "Briar": "D3",
+            "Clover": "C5",
+            "Pixel": "E1"
+          }
+        ],
+        "answers": {
+          "Zuri at F4": 1
+        }
+      },
+      "eight_neighbour_witness_clues_only": {
+        "full_assignment_count": 2,
+        "assignments": [
+          {
+            "Echo": "A2",
+            "Kai": "B6",
+            "Zuri": "F4",
+            "Briar": "D3",
+            "Clover": "C5",
+            "Pixel": "E1"
+          },
+          {
+            "Echo": "A2",
+            "Kai": "B6",
+            "Zuri": "F4",
+            "Briar": "E1",
+            "Clover": "C5",
+            "Pixel": "D3"
+          }
+        ],
+        "answers": {
+          "Zuri at F4": 1,
+          "Clover at C5": 1
+        }
+      }
+    }
+  },
+  "all_assignment_sets_equal_original_solvers": true
+}

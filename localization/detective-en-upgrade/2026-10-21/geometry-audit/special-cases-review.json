@@ -1,0 +1,248 @@
+{
+  "reviewer": "special_geometry",
+  "stage": "independent source-render mechanics and bounded presentation-repair proposal review",
+  "reviewed_utc": "2026-10-21T11:06:02.978632+00:00",
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "status": "KEEP_PUZZLE_TRUTH__TWO_SOURCE_PRESENTATION_DEFECTS",
+  "scope": {
+    "actual_pixels_viewed": [
+      89,
+      101,
+      127,
+      207,
+      212
+    ],
+    "native_source_text_read": [
+      86,
+      87,
+      88,
+      98,
+      99,
+      100,
+      125,
+      126,
+      156,
+      157,
+      158,
+      165,
+      166,
+      167,
+      174,
+      175,
+      176,
+      207,
+      212,
+      221
+    ],
+    "candidate_read": [
+      98,
+      99,
+      102,
+      125
+    ],
+    "not_claimed": [
+      "All225page visual-semantic approval",
+      "Physical tear-cut/print proof",
+      "Independent automated segmentation of every contour",
+      "Illustrated exact-candidate production render"
+    ]
+  },
+  "findings": [
+    {
+      "id": "CASE18_CLOCK_TRUTH",
+      "classification": "KEEP",
+      "source_pages": [
+        88,
+        89,
+        156,
+        165,
+        174,
+        207
+      ],
+      "evidence": "Actual p89 records A15:08 cafe,B15:18 watch,C15:17 camera,D15:11 cafe; actual offsets cafe-7,watch+2,camera real. Independently calculated real15:15/15:16/15:17/15:18 gives A-B-C-D, agreeing solution/hints.",
+      "computation": {
+        "source_evidence_folio": 89,
+        "events_visually_transcribed": {
+          "A": {
+            "shown": "15:08",
+            "clock": "cafe",
+            "correction_minutes": 7,
+            "real_minutes": 915,
+            "real_time": "15:15"
+          },
+          "B": {
+            "shown": "15:18",
+            "clock": "Dilo",
+            "correction_minutes": -2,
+            "real_minutes": 916,
+            "real_time": "15:16"
+          },
+          "C": {
+            "shown": "15:17",
+            "clock": "station",
+            "correction_minutes": 0,
+            "real_minutes": 917,
+            "real_time": "15:17"
+          },
+          "D": {
+            "shown": "15:11",
+            "clock": "cafe",
+            "correction_minutes": 7,
+            "real_minutes": 918,
+            "real_time": "15:18"
+          }
+        },
+        "computed_order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "source_solution_folio": 207,
+        "display_nulls_in_source": 3,
+        "status": "PUZZLE_TRUTH_KEEP__SOURCE_GLYPH_REPAIR_REQUIRED"
+      }
+    },
+    {
+      "id": "CASE21_TEAR_TRUTH",
+      "classification": "KEEP",
+      "source_pages": [
+        100,
+        101,
+        157,
+        166,
+        175,
+        212
+      ],
+      "evidence": "Actual source outlines show B straight-left/single-chevron-right;D single-chevron-left/double-zigzag-right;A double-zigzag-left/rounded-right;C rounded-left/straight-right. Shape-class path independently forces B-D-A-C; wording then confirms THE ANSWER IS IN WHAT YOU LEAVE EMPTY.",
+      "computation": {
+        "edge_transcription": {
+          "A": {
+            "left": "double_zigzag",
+            "right": "rounded"
+          },
+          "B": {
+            "left": "straight",
+            "right": "single_chevron"
+          },
+          "C": {
+            "left": "rounded",
+            "right": "straight"
+          },
+          "D": {
+            "left": "single_chevron",
+            "right": "double_zigzag"
+          }
+        },
+        "transcription_method": "Actual visible outline inspection of p101, not sentence-only reconstruction",
+        "orientation_assumption": "Writing kept face-up and upright as printed; whole-note rotation is the same solved object, not a different readable answer. No arbitrary independent flips certified.",
+        "permutations_tested": 24,
+        "orders_matching_edge_classes": [
+          [
+            "B",
+            "D",
+            "A",
+            "C"
+          ]
+        ],
+        "reconstructed_message": "THE ANSWER IS IN WHAT YOU LEAVE EMPTY.",
+        "hint_and_solution_order_agree": true,
+        "display_nulls_in_source_p212": 3,
+        "display_nulls_in_candidate_page212_block05": 3,
+        "status": "PUZZLE_TRUTH_KEEP__SOURCE_GLYPH_REPAIR_REQUIRED",
+        "not_claimed": "No pixel-exact cut-out registration or physical print proof. The source cards are stylized matching-edge shapes."
+      }
+    },
+    {
+      "id": "CASE27_OVERLAY_TRUTH",
+      "classification": "KEEP",
+      "source_pages": [
+        125,
+        126,
+        127,
+        158,
+        167,
+        176,
+        221
+      ],
+      "evidence": "Actual both plans haveC1NorthStair,F3CourtyardColumn,A5WestLiftShaft in same logical positions and orientation. Old TRAININGROOM D2:E3 exactly occupies current ARCHIVEWALL D2:E3. Closed old rectangle has no visible door gap. Old margin note RULEFIRST,ROOMSECOND agrees source solution. Candidate p125 appropriately postpones alignment conclusion.",
+      "computation": {
+        "anchors_visually_verified": {
+          "C1": {
+            "name": "North Stair",
+            "center_grid": [
+              2.5,
+              0.5
+            ]
+          },
+          "F3": {
+            "name": "Courtyard Column",
+            "center_grid": [
+              5.5,
+              2.5
+            ]
+          },
+          "A5": {
+            "name": "West Lift Shaft",
+            "center_grid": [
+              0.5,
+              4.5
+            ]
+          }
+        },
+        "old_plan_training_room_cells": [
+          "D2",
+          "E2",
+          "D3",
+          "E3"
+        ],
+        "current_plan_correspondence": "ARCHIVE WALL covers same D2:E3 rectangle",
+        "source_page127_margin_note": "RULE FIRST, ROOM SECOND.",
+        "landmark_centres_affine_determinant": 16,
+        "rotation_required": false,
+        "scale_change_required": false,
+        "status": "VISIBLE_SOURCE_OVERLAY_LOGIC_KEEP",
+        "not_claimed": "Grid membership is human visual transcription. No automated segmentation certificate, physical transparency overlay, or print-scale approval."
+      }
+    },
+    {
+      "id": "SOURCE207_NULL_GLYPHS",
+      "classification": "FIX_SOURCE_PRESENTATION",
+      "status": "OPEN_IN_V4",
+      "segment_ids": [
+        "page207.block05"
+      ],
+      "source_pages": [
+        207
+      ],
+      "evidence": "Source native text has three U+0000 separators and actual render visibly has three .notdef boxes. Exact candidate retains malformed source text. This is visible source display corruption, not merely OCR.",
+      "minimal_repair": "Replace only the three U+0000 separators with ASCII hyphens: ANSWER: A - B - C - D. Preserve all other bytes and verified chronology/order."
+    },
+    {
+      "id": "SOURCE212_NULL_GLYPHS",
+      "classification": "FIX_SOURCE_PRESENTATION",
+      "status": "OPEN_IN_V4",
+      "segment_ids": [
+        "page212.block05"
+      ],
+      "source_pages": [
+        212
+      ],
+      "evidence": "Source rawdict RobotoCondensed-Bold12.9pt answer span contains three U+0000 separators; actual render visibly shows three .notdef boxes. Exact candidate retains them.",
+      "minimal_repair": "Replace only three separators with ASCII hyphens: ANSWER: B - D - A - C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY. Preserve all other bytes/order/words."
+    }
+  ],
+  "proposal_review": {
+    "proposal_only": true,
+    "native_language": "PASS: spaced ASCII hyphens are clear natural sequence delimiters under ANSWER; existing Case21 hint already uses B-D-A-C. No prose rewrite.",
+    "meaning": "PASS: exact same record letters, ordering, reconstructed message, numbers and mechanics.",
+    "logic": "PASS: Case18 arithmetic and Case21 independent edge-class chain establish unchanged sequences.",
+    "audience": "PASS: readable separators improve children's answer lookup; no altered difficulty or premature clue.",
+    "final_new_candidate_review": "PENDING_EXACT_NEW_HASH"
+  },
+  "computation_script_sha256": "7d6409ec18610dd1e8505ebb4a0fac2433b87ac412b487903b7bfc135faa629f",
+  "computation_receipt_sha256": "e13ccb8d5f604c2f9de0176a0bd98352fbc0030f5c905b26d059331bc23bc929",
+  "production_mutated": false,
+  "candidate_mutated": false
+}

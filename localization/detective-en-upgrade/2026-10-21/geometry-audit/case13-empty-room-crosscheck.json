@@ -1,0 +1,28 @@
+{
+  "reviewer": "case12_geometry",
+  "stage": "requested independent visual classification of Case13 region label",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "source_folios_visually_inspected": [
+    67,
+    200
+  ],
+  "text_backcheck_folios": [
+    66,
+    199
+  ],
+  "finding": "Historical auxiliary truth lock empty_room=Habitat Paddock is inconsistent with the actual source map.",
+  "classification": "FIX_AUXILIARY_AUDIT_METADATA_ONLY__KEEP_READER_PUZZLE_AND_PROSE",
+  "evidence": {
+    "Habitat_Paddock": "Its label lies in F2. The continuous region includes E1F1G1,F2G2,F3G3,F4G4,G5. EdenG2 and JunoF3 occupy it. E1 is not an isolated room; no E1/F1 wall is drawn.",
+    "Hide_Room": "Left-hand named region contains A3,A4,B4,A5,B5,A6,B6,A7 and has no source solved-map occupant.",
+    "other_occupied_regions": "MedicalRoom WillowA1; RangerStation SkyeE4/MoxieC5; ResearchLab BodhiB7/RemyD6; VisitorWalkway is a zone, not an empty named ROOM."
+  },
+  "case26_initial_effect": "Correct empty Hide Room still starts H, so this diagnostic-name correction does not alter extracted letter H or CHECK THE OLD MAP.",
+  "recommended_action": "Record a dated source-bound override of historical empty-room metadata; do not alter protected source maps, clues, placements, reader wording or accepted candidate.",
+  "production_or_candidate_changed": false,
+  "evidence_png_hashes": {
+    "p67.png": "8c6796d6ac76b9070d271aa257a8d0458c7e61e789d91fd63793272f7a06bd17",
+    "p200.png": "6d46873a31a33f835a5620764a6ce82d96fae04d391143b33aa98463285bac77"
+  }
+}

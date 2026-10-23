@@ -1,0 +1,14 @@
+{
+  "checked_utc": "2026-10-21T12:20:07.493405+00:00",
+  "status": "PASS_ARTIFACT_INTEGRITY_ONLY",
+  "new_artifacts_verified": 43,
+  "review_local_hash_references_verified": 39,
+  "manifest_sha256": "46a97c6b69f147fc5164908f045db426de0449255ed2d29746eca5b8c774572d",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "maps": 16,
+  "printed_placements": 107,
+  "all_new_json_parse": true,
+  "all_new_python_ast_parse": true,
+  "scope": "Actual saved bytes/receipt coherence only; agent solvers/reviews are separate evidence. Not source-gate closure or production proof."
+}

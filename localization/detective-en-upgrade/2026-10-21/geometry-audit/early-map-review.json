@@ -1,0 +1,208 @@
+{
+  "reviewer": "early_maps_uniqueness independent subagent",
+  "stage": "Original-figure spatial transcription plus exhaustive source-clue enumeration",
+  "created_utc": "2026-10-21T12:11:40.980729+00:00",
+  "source": {
+    "path": "upload/DETECTIVE_ACADEMY_EN_20261021_225P.pdf",
+    "sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+    "authority": "Only current owner225 original governs all maps, walls, symbols, rules and clues."
+  },
+  "candidate": {
+    "path": "detective-upgrade/candidate/candidate.json",
+    "sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+    "disposition": "KEEP; no candidate bytes changed"
+  },
+  "scope": {
+    "cases": [
+      2,
+      4
+    ],
+    "rules_page": 11,
+    "clue_pages": [
+      20,
+      28
+    ],
+    "unsolved_map_pages": [
+      21,
+      29
+    ],
+    "solutions_pages": [
+      181,
+      182,
+      185,
+      186
+    ],
+    "hint_pages": [
+      152,
+      161,
+      170
+    ],
+    "source_segments": [
+      "page011.block02",
+      "page020.block03",
+      "page020.block04",
+      "page020.block06",
+      "page020.block07",
+      "page020.block08",
+      "page020.block09",
+      "page020.block10",
+      "page020.block11",
+      "page028.block03",
+      "page028.block04",
+      "page028.block06",
+      "page028.block07",
+      "page028.block08",
+      "page028.block09",
+      "page028.block10",
+      "page028.block11"
+    ]
+  },
+  "method": [
+    "Rendered original source PDF folios11,20,21,28,29,181,182,185,186 with PyMuPDF Matrix1.6x1.6 alpha=False; directly viewed unsolved and solved maps21/29/182/186.",
+    "Transcribed square-centre room membership from actual thick wall geometry, plus every visible furniture/object square and printed standable/blocked keys. Room names alone were not used to infer irregular boundaries.",
+    "Derived domains only from literal printed clues, source objective and grid geometry. Enumerated all row-distinct and column-distinct six-witness placements. Expected coordinates appear solely in post-enumeration comparison.",
+    "Tested shared-edge and eight-neighbour beside, with/without requiring same room; source11 and full-intake term search did not explicitly define beside. Case02 additionally tests outer grid corner versus room-boundary corner.",
+    "Checked resulting source rosters and interview-lead answers against printed solutions and hints only after solving; source answer coordinates did not constrain enumeration."
+  ],
+  "findings": [
+    {
+      "case": 2,
+      "classification": "KEEP_WITH_EXPLICIT_CONVENTION_LIMIT",
+      "requested_answer": "Dax at D2",
+      "full_roster_baseline": {
+        "Nova": "B3",
+        "Dax": "D2",
+        "Rook": "A6",
+        "Atlas": "F4",
+        "Ivy": "C5",
+        "Max": "E1"
+      },
+      "complete_task_baseline_assignment_count": 1,
+      "answer_robust_across_tested_interpretations": true,
+      "evidence": "Exactly one full roster for edge-beside, even when corner is broadened to room corner. With outer-grid corner, roster is also unique under eight-neighbour beside. Source expected roster matches after enumeration. Empty Coach's Office matches source.",
+      "limitation": "The source says in a corner and beside without explicitly defining these terms on page11. If both are broadened simultaneously to room corner plus diagonal adjacency, a second complete roster exists: RookC5 and IvyA6 instead of RookA6 and IvyC5. It shares the same DaxD2 answer and all other positions. C5 is the southeast TrophyHall corner and diagonal to teacherDeskB6. Same-room adjacency does not remove it.",
+      "action": "Retain candidate and isolate terminology sensitivity in QA. Do not claim unconditional full-roster uniqueness across all plausible corner/beside interpretations; do not edit protected source or infer a new rule."
+    },
+    {
+      "case": 4,
+      "classification": "KEEP_UNIQUE_COMPLETE_PRINTED_TASK",
+      "requested_answer": "Zuri at F4",
+      "full_roster": {
+        "Echo": "A2",
+        "Kai": "B6",
+        "Zuri": "F4",
+        "Briar": "D3",
+        "Clover": "C5",
+        "Pixel": "E1"
+      },
+      "complete_task_assignment_count_each_tested_adjacency": 1,
+      "evidence": "The source objective explicitly identifies Pixel's Pickup Tent. Consuming that printed fact, all four edge/eight-neighbour and same-room variants give exactly one roster matching source. F4 genuinely belongs to PickupTent: the room continues down the rightmost F4/F5 corridor. HospitalityRoom is E4,D5,E5,D6,E6,F6. Zuri's row4 clue therefore uniquely yields F4; no room-wall contradiction. Empty HospitalityRoom matches source.",
+      "sensitivity": "If a solver discards the printed objective room fact AND permits diagonal beside, it admits an alternate BriarE1/PixelD3 placement with CloverC5 as companion. That reduced-input problem is not the complete printed task. Edge adjacency remains unique even without the objective room fact.",
+      "action": "KEEP; preserve all printed objective information in any future intake/import. No candidate rewrite justified."
+    }
+  ],
+  "mechanics": {
+    "standard_rules": "Every witness once; all six in distinct rows and columns; only printed statements and visible features. Companion indicates next interview, not guilt.",
+    "case02_standable": [
+      "bleacher",
+      "desk / desk chair",
+      "stool"
+    ],
+    "case02_blocked": [
+      "globe",
+      "lab bench",
+      "piano",
+      "teacher desk"
+    ],
+    "case04_standable": [
+      "bench",
+      "bumper car",
+      "gondola"
+    ],
+    "case04_blocked": [
+      "cotton candy machine",
+      "popcorn cart",
+      "prize shelf",
+      "ring toss stand",
+      "strongman game"
+    ]
+  },
+  "artifacts": [
+    {
+      "path": "detective-upgrade/geometry-audit/early-map-grids.json",
+      "sha256": "a96a67041280f28d68f8cc62ac96e7b0cb9968550af89a075e78ce25d921a42f"
+    },
+    {
+      "path": "detective-upgrade/geometry-audit/solve-early-maps.py",
+      "sha256": "2014a2a27ba9ea5a96f8933bf4a13b45ab57f984e4fd4a2f47470764194f495b"
+    },
+    {
+      "path": "detective-upgrade/geometry-audit/early-map-solver-results.json",
+      "sha256": "80b2612a81f93472f5bbf36e7abcb942d57f8a9a45efb5b2d53f2cebefea9bb5"
+    }
+  ],
+  "render_receipt": {
+    "method": "fitz.open(source); doc[folio-1].get_pixmap(matrix=fitz.Matrix(1.6,1.6),alpha=False).save(path)",
+    "files": [
+      {
+        "folio": 11,
+        "path": "detective-upgrade/geometry-audit/early-map-renders/p011.png",
+        "sha256": "b48b8a6606694bfbf79d741e1916bb82825fc1af7b75a88fa8e08b0148ae4009"
+      },
+      {
+        "folio": 20,
+        "path": "detective-upgrade/geometry-audit/early-map-renders/p020.png",
+        "sha256": "7371d072de63bef5677b5d1d0a8a7c17b56b096eb5c701c9a6f42523317765f3"
+      },
+      {
+        "folio": 21,
+        "path": "detective-upgrade/geometry-audit/early-map-renders/p021.png",
+        "sha256": "626faff5aa8b6ba8f2a39c539d3461f6ba6773966dff3446d86b78ef153d1262"
+      },
+      {
+        "folio": 28,
+        "path": "detective-upgrade/geometry-audit/early-map-renders/p028.png",
+        "sha256": "8ce7b8ff113fb09ef3f9dccbe44b0fecf44c4803df56120d83b84c464f48c56b"
+      },
+      {
+        "folio": 29,
+        "path": "detective-upgrade/geometry-audit/early-map-renders/p029.png",
+        "sha256": "8e6b155d292ca9626ff55d2886cdd4443d876ec2bc8363e4891eb112de127e38"
+      },
+      {
+        "folio": 181,
+        "path": "detective-upgrade/geometry-audit/early-map-renders/p181.png",
+        "sha256": "40e26a2ba411065b3619809e2adcdac09be86b9f4a05c3f12e944aeaaa8812e9"
+      },
+      {
+        "folio": 182,
+        "path": "detective-upgrade/geometry-audit/early-map-renders/p182.png",
+        "sha256": "e4f720ab82f60630037e21aae1090fe3555f98fd6aea2ca0ab1a160876bf1367"
+      },
+      {
+        "folio": 185,
+        "path": "detective-upgrade/geometry-audit/early-map-renders/p185.png",
+        "sha256": "abe84befbe52da110f526e54a43f2a96f1fff1fa5e71b0e67d483ac793be229b"
+      },
+      {
+        "folio": 186,
+        "path": "detective-upgrade/geometry-audit/early-map-renders/p186.png",
+        "sha256": "077b7dff2c1c9fa9cd8e0f875311e94a4fa7cbe69352d288b3ddf2a0f29b484a"
+      }
+    ]
+  },
+  "validation": {
+    "solver_command": "python detective-upgrade/geometry-audit/solve-early-maps.py",
+    "solver_exit_code": 0,
+    "actual_source_and_candidate_hashes_verified": true,
+    "prose_changes": 0,
+    "source_changes": 0,
+    "production_renderer_changes": 0,
+    "print_ready_claim": false
+  },
+  "limits": [
+    "This review covers two source puzzles and source-bound figure interpretation only. It is not a whole-book proof or production layout review.",
+    "No current source convention was fabricated where absent. Case02 full-roster interpretation sensitivity remains explicit.",
+    "The eight original render PNGs are reproducible local review evidence; parent can retain source+hash+reproduction command instead of committing bulky PNGs."
+  ]
+}

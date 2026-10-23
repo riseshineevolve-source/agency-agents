@@ -1,0 +1,119 @@
+{
+  "reviewer": "Independent actual agent /root/spatial_20_22",
+  "review_type": "Original-map room/blocker transcription plus exhaustive solver; expected answers compared only after enumeration",
+  "reviewed_utc": "2026-10-21T12:15:20.222264+00:00",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "candidate_changed": false,
+  "manuscript_decision": "KEEP unchanged V5; source figure/key gate must not be silently repaired in prose",
+  "scope": "Cases20 and22 only; not full-book acceptance, print proof or production-render verification",
+  "standard_rules": {
+    "source_page": 11,
+    "witnesses_once": true,
+    "distinct_rows_and_columns": true,
+    "printed_clues_and_visible_features_only": true
+  },
+  "artifacts": {
+    "spatial-20-22-grid.json": "10596299851dc2cda61b13dcd80a1da85932afd9e3379172aa1910d721cbd705",
+    "spatial-20-22-solver.py": "a991ef5f0aec8db72db503123b76acc765aecf5882ccf60561397f4da874adc5",
+    "spatial-20-22-results.json": "9640d967eaceda21f8d491e1af070ffb5ac4520e57e6e3b4f093ae6a5a9e134d"
+  },
+  "reproduction": {
+    "render": "PyMuPDF get_pixmap(matrix=fitz.Matrix(2,2)) from original source pages11,97,107; no synthetic art",
+    "solver": "python detective-upgrade/geometry-audit/spatial-20-22-solver.py",
+    "render_hashes": {
+      "page11.png": "acb492de4c95917fcc876a2f6cb87d61aba79223de81271aa80d95580e0dcb46",
+      "page107.png": "9b2280ca7e48c8a9c418139ad6b4da7a56f51c167cda5cc0369996bde4913944",
+      "page97.png": "d2fedc10f35b75dca7829f8577e3bda2891f73e33f27e621addd3392bac2cc11"
+    }
+  },
+  "case20": {
+    "status": "BLOCK_SOURCE_FIGURE_KEY_CONFLICT",
+    "source_pages": [
+      96,
+      97,
+      210,
+      211
+    ],
+    "source_and_candidate_ids": [
+      "page096.block02",
+      "page096.block03",
+      "page096.block05",
+      "page096.block06",
+      "page096.block07",
+      "page096.block08",
+      "page096.block09",
+      "page096.block10",
+      "page096.block11",
+      "page210.block05",
+      "page210.block10"
+    ],
+    "figure_reference": "Actual raster map image on originalPDFp97; image not represented by an editable textsegment",
+    "finding": "E7 and F7 bunk-shaped objects have black blocked-square markers; E5 similar bunk-shaped object has usable open-circle marker. The printed case key permits cadet bunk but blocks sleep pod; no visible label independently distinguishes those similar silhouettes. Source solution explicitly places SidE7, a square the current map marks blocked.",
+    "strict_visible_marker_result": {
+      "complete_assignments": 0
+    },
+    "unapplied_sensitivity_only": {
+      "E7_unblocked": 1,
+      "F7_unblocked": 0,
+      "E7_and_F7_unblocked": 1,
+      "conditional_roster": {
+        "Mara": "D4",
+        "Asa": "B2",
+        "Luca": "A1",
+        "Toby": "C6",
+        "Pax": "F5",
+        "Sid": "E7",
+        "Demi": "G3"
+      },
+      "conditional_answer": "Pax F5"
+    },
+    "direction_sensitivity": "Base south-east is any larger row and column. A narrower exact45degree diagonal-ray interpretation has0assignments, reported as sensitivity only. No printed rule defines south-east as exact equal displacement.",
+    "objective_constraint": "Demi final room exactlytwo people; objective asks the other person, no additional hidden room fact.",
+    "source_resolution_proposal_unapplied": [
+      "Authoritative art classification must identify whether E7/F7 are usable cadet bunks or blocked sleep pods.",
+      "If E7 is a usable bunk, product/art writer must correct its blocked-square symbol to the intended usable symbol in original and solved-map artwork; resolve F7 consistently from source authority, not solution-fit.",
+      "If E7 remains blocked, source puzzle/solution needs an authorized coherent correction; localization must not invent a replacement roster.",
+      "Rerun exact-source solver after authoritative resolution and bind receipts to the resulting actual illustrated proof."
+    ],
+    "source_changed": false,
+    "candidate_changed": false
+  },
+  "case22": {
+    "status": "PASS_KEEP",
+    "source_pages": [
+      106,
+      107,
+      213,
+      214
+    ],
+    "clue_ids": [
+      "page106.block02",
+      "page106.block03",
+      "page106.block05",
+      "page106.block06",
+      "page106.block07",
+      "page106.block08",
+      "page106.block09",
+      "page106.block10",
+      "page106.block11",
+      "page106.block12"
+    ],
+    "complete_assignments": 1,
+    "answer": "Cody C4",
+    "full_roster": {
+      "Gia": "B1",
+      "Wes": "D3",
+      "Cody": "C4",
+      "Imani": "F7",
+      "Lex": "E6",
+      "Nia": "G5",
+      "Zara": "A2"
+    },
+    "sensitivity": "Same sole full roster under both edge-only and8-neighbor interpretation of beside. Diagonally next means one step in each axis;7gridsteps uses rowdifference+columndifference. No wall-crossing or traversal premise added to grid distance.",
+    "room_observations": "Instrument Locker Room L and PracticeHallP both contain printed lockers, so Wes domain considers both before elimination. OfficePassageO remains distinct from GreenRoomH; room wording handled literally.",
+    "objective_constraint": "Zara final room exactlytwo; requested other witness is derived after solving.",
+    "expected_roster_checked_after_enumeration": true,
+    "candidate_changed": false
+  }
+}

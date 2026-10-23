@@ -1,0 +1,84 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "grid_sha256": "c224d3eacf896fa538073cf40bfbf6a2e868dc02d86dbdda67b360c8a22e8fad",
+  "method": "Enumerate every row/column-distinct placement satisfying all seven literal clues on the human-transcribed map. Expected roster comparison is post-enumeration only.",
+  "baseline": {
+    "full_assignment_count": 1,
+    "assignments": [
+      {
+        "Cove": "B7",
+        "Nell": "G2",
+        "Kira": "E6",
+        "Iris": "A5",
+        "Eli": "F4",
+        "Sage": "C3",
+        "Winter": "D1"
+      }
+    ],
+    "answer_counts": {
+      "Nell at G2": 1
+    },
+    "search_nodes": 39,
+    "expected_assignment_matches": true
+  },
+  "silhouette_sensitivity_variants": {
+    "treat_as_usable:C4": {
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Cove": "B7",
+          "Nell": "G2",
+          "Kira": "E6",
+          "Iris": "A5",
+          "Eli": "F4",
+          "Sage": "C3",
+          "Winter": "D1"
+        }
+      ],
+      "answer_counts": {
+        "Nell at G2": 1
+      },
+      "search_nodes": 39,
+      "expected_assignment_matches": true
+    },
+    "treat_as_usable:E7": {
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Cove": "B7",
+          "Nell": "G2",
+          "Kira": "E6",
+          "Iris": "A5",
+          "Eli": "F4",
+          "Sage": "C3",
+          "Winter": "D1"
+        }
+      ],
+      "answer_counts": {
+        "Nell at G2": 1
+      },
+      "search_nodes": 39,
+      "expected_assignment_matches": true
+    },
+    "treat_as_usable:C4,E7": {
+      "full_assignment_count": 1,
+      "assignments": [
+        {
+          "Cove": "B7",
+          "Nell": "G2",
+          "Kira": "E6",
+          "Iris": "A5",
+          "Eli": "F4",
+          "Sage": "C3",
+          "Winter": "D1"
+        }
+      ],
+      "answer_counts": {
+        "Nell at G2": 1
+      },
+      "search_nodes": 39,
+      "expected_assignment_matches": true
+    }
+  },
+  "scope": "Current Case12 source logical geometry; not production render or print approval."
+}

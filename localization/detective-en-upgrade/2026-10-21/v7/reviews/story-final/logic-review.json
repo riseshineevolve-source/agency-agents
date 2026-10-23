@@ -1,0 +1,85 @@
+{
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "reviewer": "actual independent agent /root/v6_puzzle_review",
+  "reviewed_utc": "2026-10-21T15:43:38.650480+00:00",
+  "status": "PASS",
+  "scope": "Actual eight-unit R1 closure delta on19/68/99/108/212 plus neighbors and global reveal/role/puzzle-dependency invariants. Explicitly inherits this reviewer’s actual full225folio R1 meaning/logic review for3059unchangedunits. Does not claim a redundant whole-book reread. All27V6repairs preserved; exact one-unit212block12nonmechanic summary exception reviewed.",
+  "findings": [
+    {
+      "id": "V7-R1-CAMERA-CLOSURE-OMITTED",
+      "status": "KEEP",
+      "segments": [
+        "page068.block04",
+        "page068.block05",
+        "page068.block06"
+      ],
+      "finding": "Closed: camera movement during cleanup AFTER the4:17frame is restored immediately after Bodhi supplies the missing piece. Neighbor65setup and68/69memory transition are coherent. No clue, map or answer changed."
+    },
+    {
+      "id": "V7-R2-READER-ADDRESS",
+      "status": "KEEP",
+      "segments": [
+        "page099.block21"
+      ],
+      "finding": "Closed: Detective names the reader as the person fitting pieces. Dilo checks joins supportively, preserving98care/100rules/102reconstruction."
+    },
+    {
+      "id": "V7-R2-JUDE-LOCATION",
+      "status": "KEEP",
+      "segments": [
+        "page108.block13"
+      ],
+      "finding": "Closed: known location, one same-area companion and a follow-up interview replace the person-as-place metaphor. Does not pre-name Rae/F6 or establish culpability."
+    },
+    {
+      "id": "V7-R2-PHONE-PERSPECTIVE",
+      "status": "KEEP",
+      "segments": [
+        "page019.block03",
+        "page019.block04"
+      ],
+      "finding": "Closed: appears to have taken the morning off is search-perspective humor, compatible with finding the phone in the bag56/57."
+    },
+    {
+      "id": "V7-R2-FIRST-INSTRUCTION-SUMMARY",
+      "status": "KEEP",
+      "segments": [
+        "page212.block12"
+      ],
+      "finding": "Closed under narrow nonmechanic prose-summary exception: earlierRULE0FIRST acknowledged; fuller repaired note still needs interpretation. Answer212block05 and join steps07–10 exactV6."
+    },
+    {
+      "id": "R1-UNCHANGED-ACCEPTANCE-INHERITED",
+      "status": "KEEP",
+      "segments": "3059units byte-identical to exact reviewedR1candidate",
+      "finding": "Actual full225folio R1 meaning/logic reviews had only the camera closure open; now fixed. Unchanged all30Comms, source-verified120attribution, hypotheticalfox/ghost, route limits, badge06 andCase26/30chain retain accepted findings."
+    }
+  ],
+  "evidence": "detective-v7/reviews/story-final/CLOSURE_VERIFICATION.json and verify-closure.py; qa/R1_CLOSURE_DELTA.json; actual fullR1 receipts reviews/story-r1/meaning-review.json and logic-review.json; preserved baseline/candidate-v7-r1.json and reader-v7-r1.md.",
+  "open_finding_ids": [],
+  "reviewer_candidate_edits": false,
+  "not_claimed": [
+    "new map solves",
+    "new art/render review",
+    "BookFactory production import",
+    "layout fit",
+    "physical print",
+    "PRINT_READY"
+  ],
+  "input_hashes": {
+    "detective-v7/candidate/candidate.json": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+    "detective-v7/baseline/candidate-v7-r1.json": "9f25b542e0162aa357c8409c3927622ee52ba1508e5bcbe3443d608c14e29fe5",
+    "detective-v7/candidate/change-ledger.json": "a9e6fd6aca6f44ca98808f9cb43810854632058ce20eb45287d115866af0c0b6",
+    "detective-v7/qa/R1_CLOSURE_DELTA.json": "a52ae1f50a008d5a726f68c7469ade1b18e0505f9e2bce793516e3f14c680549",
+    "detective-v7/qa/BOUNDARY_CHECK.json": "ebd8d4bcdc507ae7c91ba647911fec6758c97c1d501375b947ff6dc8edaf2899",
+    "detective-v7/baseline/v7-intake-r2.json": "521781817fb8e72803c142b6e8d495ded5202385b0d5f7d136c4524d1062c4c1",
+    "detective-v7/reviews/story-r1/meaning-review.json": "bf5d4c830ad195551256d90493989a8c95f1308f535cb80ff66e1988e0d196be",
+    "detective-v7/reviews/story-r1/logic-review.json": "5152bcde1f7f82d4bdbb14acff5557f77cdd656eff4cc53832e8fb11f80fcb50"
+  },
+  "evidence_sha256": "7a73e4badfee5d7a1a0e2471fe3821e18e9c0c6f46cac0a6174eeac6f12bed38",
+  "stage": "logic",
+  "dimensions": [
+    "logic"
+  ],
+  "review_contract_note": "Two actual review stages by this same independent reviewer; no fictitious extra reviewer."
+}

@@ -1,0 +1,9 @@
+{
+  "state": "HM_COMMS_V10_RHYTHM_OWNER_READ_CANDIDATE",
+  "owner": null,
+  "candidate_sha256": "86ff889feb104163f8919d0e3fd105c37fd73ba4115adbd7bef16b695131284a",
+  "baseline_candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "checkpoint": "v10/CHECKPOINT.md",
+  "rule": "Only220HMComms units editable.2847protected nonComms units exact; all143V8nonComms repairs exact.34scenes/183speaker turns. No further rewrite without defect/owner request.",
+  "next_safe_task": "Existing sole BookFactory writer consumes exact V10 HMComms delta. Preserve full dialogue and183speaker order; verify production fit/art and physical proof. No further dialogue rewrite without actual defect or owner request."
+}

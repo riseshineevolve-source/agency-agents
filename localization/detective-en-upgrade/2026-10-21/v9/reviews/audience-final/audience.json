@@ -1,0 +1,105 @@
+{
+  "stage": "audience",
+  "candidate_sha256": "fa020029727aebaedbefe36c8a8ea7704ee350a5d9def5ff195b3377fa72d3a3",
+  "status": "PASS",
+  "reviewer": "/root/hm9_reader_ear — independent 8–12 reader/family-ear and supportive-mentor editorial reviewer",
+  "scope": "R1 actual full review covered all34HMComms scenes/183turns. This exact final closure independently compares all183turns against that reviewed R1:17changedturns on15scenes; all15affected scenes reread in full with needed locked V8neighbors. Remaining19scenes/unchangedturns retain the actual R1review by exact wording identity. All34final scenes were also visible/read in the closure transcript; no claim of another whole225folio audit or human child test.",
+  "evidence": "Allthree audience R1defects are concretely repaired. In the other bounded edits the sharp short locker cap, the physical roof joke, Dilo's acknowledged reach-again, the number→In a tone chain and removal of an orphan bedtime tag improve intelligibility without diluting family teasing. US spelling edits change no meaning or audience function. No unresolved material audience defect remains.",
+  "findings": [
+    {
+      "id": "HM9-AUD-R1-01",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "scene_id": "CASE06",
+      "turn_1based": 8,
+      "segment_ids": [
+        "page037.block26",
+        "page037.block27",
+        "page037.block28"
+      ],
+      "evidence": "Bibi tells the reader \"You check the actual spoon, Detective\". The next locked objective is to find the witness sharing Uma's room, not to inspect a spoon. A young reader could search for an evidence interaction the case does not provide.",
+      "recommendation": "Retain the imaginary-dragon payoff but direct the actual job toward Uma's companion or finding someone who saw the display, without solving it.",
+      "resolution": "Bibi now gives the reader the room record, the playable evidence for finding Uma's contact, while imaginary-dragon talk remains a joke. No unsupported physical spoon-inspection task remains."
+    },
+    {
+      "id": "HM9-AUD-R1-02",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "scene_id": "CASE11",
+      "turn_1based": 1,
+      "segment_ids": [
+        "page057.block05"
+      ],
+      "evidence": "Nini newly says \"I've found it\" after the locked preceding story has Mimi taking her phone from the evidence bag. This reads as an unexplained second claim to the same discovery.",
+      "recommendation": "Delete \"I've found it, but\" and let Nini comment on the phone/oat-bar companionship. No need to change who found the phone.",
+      "resolution": "Nini comments on the phone/oat-bar relationship without claiming she found the phone. The locked preceding Mimi discovery is respected."
+    },
+    {
+      "id": "HM9-AUD-R1-03",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "scene_id": "CASE14",
+      "turn_1based": 6,
+      "segment_ids": [
+        "page069.block15"
+      ],
+      "evidence": "Alio now asks \"Not even one recipe?\" and Luli responds \"Not a crumb.\" Her former food-answer fragment no longer answers the new question.",
+      "recommendation": "Start \"Not one on cooking.\" then continue the journey check/Alio lunch-inspection reply; remove \"Not a crumb\" and unnecessary \"either\".",
+      "resolution": "Luli answers the actual recipe question with \"Not one on cooking\" and a cake-investigation callback. The orphan \"Not a crumb\" fragment is removed."
+    }
+  ],
+  "closure_delta": {
+    "actual_changed_turns": 17,
+    "affected_scenes": [
+      "CASE01",
+      "CASE03",
+      "CASE05",
+      "CASE06",
+      "CASE08",
+      "CASE11",
+      "CASE14",
+      "CASE15",
+      "CASE20",
+      "CASE21",
+      "CASE22",
+      "CASE23",
+      "CASE24",
+      "CASE26",
+      "CASE27"
+    ],
+    "unchanged_scenes_inherited_from_actual_R1": [
+      "INTRO07",
+      "CASEWALL12",
+      "CASE02",
+      "CASE04",
+      "THREAD34",
+      "CASE07",
+      "CASE09",
+      "CASE10",
+      "CASE12",
+      "CASE13",
+      "CASE16",
+      "CASE17",
+      "CASE18",
+      "CASE19",
+      "CASE25",
+      "THREAD120",
+      "CASE28",
+      "CASE29",
+      "CASE30"
+    ],
+    "speaker_order_preserved_all34": true,
+    "final_dialogue_scenes": 34,
+    "final_spoken_turns": 183
+  },
+  "audience_judgment": {
+    "natural_exchange": "PASS: fuller turns generally respond to a concrete prior utterance and leave room for short punchlines.",
+    "affectionate_sharpness": "PASS: teasing includes adults and reciprocal replies; Alio owns jokes and shows growing observation.",
+    "age8_to12": "PASS: clear imaginative detective-family humor; no baby talk or forced youth slang. Some dry adult phrases have enough surrounding context.",
+    "support": "PASS: Case21 keeps Dilo useful without ridicule; help in Case29/30 accompanies the reader without requiring performance.",
+    "reader_action": "PASS: repaired Case06 now matches the actual task; no new audience-directed activity or answer is introduced."
+  },
+  "unresolved_items": [],
+  "candidate_edited_by_reviewer": false,
+  "visual_surface_fit": "PASS for actual12book+4standalonefullpage sample on savedPDFs48c91d7a... and05cd3424...; exact hashes/scope and independent PopplerPNGbindings in VISUAL_REVIEW.json. Otherfolios excluded; no all225fullsizeclaim."
+}

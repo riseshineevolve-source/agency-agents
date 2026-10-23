@@ -1,0 +1,173 @@
+{
+  "status": "PASS_INDEPENDENT_OWNER_AUTHORIZED_REPAIR_MODELS",
+  "method": "Independent new backtracking implementation from transcribed source grids. One witness per distinct row/column; all witness clues and exactly-one same-room objective. Expected rosters comparison only. No original report/production/candidate mutation.",
+  "cases": [
+    {
+      "case": 2,
+      "variant": "outer_grid_corner_edge_beside_same_room_False",
+      "complete_assignment_count": 1,
+      "assignment": {
+        "Nova": "B3",
+        "Dax": "D2",
+        "Rook": "A6",
+        "Atlas": "F4",
+        "Ivy": "C5",
+        "Max": "E1"
+      },
+      "contact": [
+        "Dax",
+        "D2"
+      ],
+      "matches_intended_roster_postcheck_only": true
+    },
+    {
+      "case": 2,
+      "variant": "outer_grid_corner_edge_beside_same_room_True",
+      "complete_assignment_count": 1,
+      "assignment": {
+        "Nova": "B3",
+        "Dax": "D2",
+        "Rook": "A6",
+        "Atlas": "F4",
+        "Ivy": "C5",
+        "Max": "E1"
+      },
+      "contact": [
+        "Dax",
+        "D2"
+      ],
+      "matches_intended_roster_postcheck_only": true
+    },
+    {
+      "case": 7,
+      "variant": "frame_C2_all_visible_carts_edge_same_room_False",
+      "complete_assignment_count": 1,
+      "assignment": {
+        "Rocket": "E5",
+        "Willa": "B1",
+        "Zoe": "C6",
+        "Blaze": "A3",
+        "Indigo": "D2",
+        "Gray": "F4"
+      },
+      "contact": [
+        "Zoe",
+        "C6"
+      ],
+      "matches_intended_roster_postcheck_only": true
+    },
+    {
+      "case": 7,
+      "variant": "frame_C2_all_visible_carts_edge_same_room_True",
+      "complete_assignment_count": 1,
+      "assignment": {
+        "Rocket": "E5",
+        "Zoe": "C6",
+        "Willa": "B1",
+        "Blaze": "A3",
+        "Indigo": "D2",
+        "Gray": "F4"
+      },
+      "contact": [
+        "Zoe",
+        "C6"
+      ],
+      "matches_intended_roster_postcheck_only": true
+    },
+    {
+      "case": 10,
+      "variant": "robot_arm_B6_edge_beside_same_room_False",
+      "complete_assignment_count": 1,
+      "assignment": {
+        "Wyatt": "B7",
+        "Ember": "D5",
+        "Nico": "F6",
+        "Beck": "C1",
+        "Finn": "A2",
+        "Vera": "G4",
+        "Dash": "E3"
+      },
+      "contact": [
+        "Ember",
+        "D5"
+      ],
+      "matches_intended_roster_postcheck_only": true
+    },
+    {
+      "case": 10,
+      "variant": "robot_arm_B6_edge_beside_same_room_True",
+      "complete_assignment_count": 1,
+      "assignment": {
+        "Wyatt": "B7",
+        "Ember": "D5",
+        "Nico": "F6",
+        "Beck": "C1",
+        "Finn": "A2",
+        "Vera": "G4",
+        "Dash": "E3"
+      },
+      "contact": [
+        "Ember",
+        "D5"
+      ],
+      "matches_intended_roster_postcheck_only": true
+    },
+    {
+      "case": 15,
+      "variant": "edge_beside_same_room_and_any_positive_NE_offsets",
+      "complete_assignment_count": 1,
+      "assignment": {
+        "Duke": "E5",
+        "Cruz": "C3",
+        "Jett": "G7",
+        "Inez": "B6",
+        "Harper": "D2",
+        "Piper": "F4",
+        "Milo": "A1"
+      },
+      "contact": [
+        "Harper",
+        "D2"
+      ],
+      "matches_intended_roster_postcheck_only": true
+    },
+    {
+      "case": 20,
+      "variant": "usable_bunks_E7",
+      "complete_assignment_count": 1,
+      "assignment": {
+        "Mara": "D4",
+        "Asa": "B2",
+        "Toby": "C6",
+        "Luca": "A1",
+        "Pax": "F5",
+        "Sid": "E7",
+        "Demi": "G3"
+      },
+      "contact": [
+        "Pax",
+        "F5"
+      ],
+      "matches_intended_roster_postcheck_only": true
+    },
+    {
+      "case": 20,
+      "variant": "usable_bunks_E7,F7",
+      "complete_assignment_count": 1,
+      "assignment": {
+        "Mara": "D4",
+        "Asa": "B2",
+        "Toby": "C6",
+        "Luca": "A1",
+        "Pax": "F5",
+        "Sid": "E7",
+        "Demi": "G3"
+      },
+      "contact": [
+        "Pax",
+        "F5"
+      ],
+      "matches_intended_roster_postcheck_only": true
+    }
+  ]
+}

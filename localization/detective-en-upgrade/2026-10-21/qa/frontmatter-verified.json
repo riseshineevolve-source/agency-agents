@@ -1,0 +1,397 @@
+{
+  "status": "HUMAN_VISUAL_VERIFIED_TRANSCRIPTION",
+  "scope": "Content blocks pp1–18 checked against p001.png through p018.png, except p14 case-title index copied by reference to source case titles rather than duplicated here. Decorative headers, page-counter oddities and icon text omitted unless operational. Line breaks normalized; no candidate rewrite.",
+  "pages": [
+    {
+      "pdf_page": 1,
+      "blocks": [
+        {
+          "block_id": "P001_01",
+          "type": "title",
+          "text": "The Happy Makers Present\nDETECTIVE ACADEMY\nTHE MYSTERY OF ROOM ZERO\nBOOK 1"
+        },
+        {
+          "block_id": "P001_02",
+          "type": "visual_labels",
+          "text": "EVIDENCE GRID / ROOM ZERO FILE\nWHO LEFT THIS?\nWHAT HAPPENED IN ROOM ZERO?\nOBSERVE\nANALYZE\nCONNECT\nSOLVE\nSCAN\nANALYZE\nSOLVE\nROOM ZERO"
+        }
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "blocks": [
+        {
+          "block_id": "P002_01",
+          "type": "title",
+          "text": "HAPPY MAKERS DETECTIVE ACADEMY\nTHE MYSTERY OF ROOM ZERO\nPUBLISHING INFORMATION"
+        },
+        {
+          "block_id": "P002_02",
+          "type": "publishing",
+          "text": "© 2026 Rise.Shine.Evolve.\nAll rights reserved.\nISBN Paperback: 9798177104409\nNo part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without prior written permission from the publisher, except for brief quotations used in reviews or as otherwise permitted by applicable copyright law.\nThe development of this book was supported by AI-assisted tools.\nCome visit us online.\nWe saved a cozy spot just for you.\nhttps://rise-shine-evolve-learning-hub.com\nFollow us on Facebook:\nRise.Shine.Evolve.Learning Hub."
+        }
+      ]
+    },
+    {
+      "pdf_page": 3,
+      "blocks": [
+        {
+          "block_id": "P003_01",
+          "type": "title",
+          "text": "THE BLACK ENVELOPE"
+        },
+        {
+          "block_id": "P003_02",
+          "type": "story",
+          "text": "Before anyone explains how the Academy works, the intake printer gives one mechanical cough.\nThen it prints nothing.\nInstead, a black envelope slides from the tray.\nNo stamp.\nNo sender.\nOne strange mark: 0.\nInside is a blank Detective Academy Recruit Credential.\nNo name.\nNo call sign.\nNo detective assigned.\nA mistake?\nA coincidence?\nOR AN INVITATION MEANT FOR YOU?\nWILL YOU CLAIM IT?"
+        }
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "blocks": [
+        {
+          "block_id": "P004_01",
+          "type": "title",
+          "text": "ORIENTATION\nBEFORE YOU DECIDE"
+        },
+        {
+          "block_id": "P004_02",
+          "type": "story",
+          "text": "The Detective Academy is where small real-world mysteries become case files.\nNew calls, reopened records, and strange pieces of evidence arrive through the Academy intake desk.\nTake a look inside.\nThis is how it all begins."
+        },
+        {
+          "block_id": "P004_03",
+          "type": "instructions",
+          "text": "WHAT TO EXPECT\n01 CLUE INSPECTION\n02 READING WITNESS STATEMENTS\n03 COMPARING EVIDENCE\n04 STUDYING MAPS & COORDINATES\n05 DECODING MESSAGES\n06 FOLLOWING PATTERNS\nLOOK CLOSER. CHECK THE FACTS. LET THE EVIDENCE LEAD."
+        }
+      ]
+    },
+    {
+      "pdf_page": 5,
+      "blocks": [
+        {
+          "block_id": "P005_01",
+          "type": "title",
+          "text": "WHAT YOU ARE ABOUT TO WALK INTO"
+        },
+        {
+          "block_id": "P005_02",
+          "type": "story",
+          "text": "The Academy is not one room, and this investigation will not happen in one afternoon."
+        },
+        {
+          "block_id": "P005_03",
+          "type": "panel",
+          "text": "30 CONNECTED CASE FILES\nWitness-board mysteries, map and coordinate puzzles, visual evidence, secret codes, timelines, sequencing challenges and logic deductions."
+        },
+        {
+          "block_id": "P005_04",
+          "type": "panel",
+          "text": "A TEAM THAT THINKS TOGETHER\nThe Happy Makers will be your team.\nThey compare clues, trade theories, drop case notes, make jokes at extremely professional moments and point out things worth checking."
+        },
+        {
+          "block_id": "P005_05",
+          "type": "panel",
+          "text": "YOU MAKE THE CALL\nThey do not get to make your verdict for you.\nThe cases get harder as your investigation grows."
+        },
+        {
+          "block_id": "P005_06",
+          "type": "panel",
+          "text": "STRANGER THINGS HAPPEN\nA trophy returns before anyone logs it. A box marked EVIDENCE lands where it should not. Later, solved maps and forgotten records begin to matter again."
+        },
+        {
+          "block_id": "P005_07",
+          "type": "panel",
+          "text": "WHAT IS ROOM ZERO?\nAnd somewhere inside the Academy, one question keeps returning:\nLET'S MEET THE HAPPY MAKERS"
+        }
+      ]
+    },
+    {
+      "pdf_page": 6,
+      "blocks": [
+        {
+          "block_id": "P006_01",
+          "type": "title",
+          "text": "MEET THE HAPPY MAKERS\nTHE ACADEMY FIELD TEAM"
+        },
+        {
+          "block_id": "P006_02",
+          "type": "panel",
+          "text": "WHO THEY ARE\nSix detectives.\nSix different ways of looking at the same mess.\nThey compare clues, challenge each other's theories and keep asking questions until the story starts to make sense."
+        },
+        {
+          "block_id": "P006_03",
+          "type": "panel",
+          "text": "HOW THEY WORK\nClues first.\nTheories second.\nArguments occasionally.\nThen they test what actually fits and quietly retire the theory that sounded brilliant five minutes ago."
+        },
+        {
+          "block_id": "P006_04",
+          "type": "panel",
+          "text": "WHY A TEAM?\nBecause no one notices everything.\nLuckily, they rarely miss the same thing.\nBad news for mysteries."
+        }
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "blocks": [
+        {
+          "block_id": "P007_01",
+          "type": "title",
+          "text": "THE SQUAD\nMEET THE HAPPY MAKERS // FIELD TEAM 01"
+        },
+        {
+          "block_id": "P007_02",
+          "type": "bio",
+          "text": "MIMI\nFIELD DETECTIVE // CASE CAPTAIN\nRuns the case table.\nFinds the tiny clue.\nMay need help finding her own phone.\nSTRENGTH: Turns a muddle into the next useful step.\nFUNNY HABIT: Organizes everything except what she just put down.\nSMALL CLUES. BIG IDEAS."
+        },
+        {
+          "block_id": "P007_03",
+          "type": "bio",
+          "text": "LULI\nFIELD DETECTIVE // CLUE ANALYST\nReads the small print.\nQuestions the big claim.\nSpots contradictions.\nShort replies. Long books.\nSTRENGTH: Spots contradictions and tests what evidence proves.\nFUNNY HABIT: Can forget a book is not a substitute for lunch.\nSMALL QUESTIONS. BIG DISCOVERIES."
+        },
+        {
+          "block_id": "P007_04",
+          "type": "bio",
+          "text": "DILO\nFIELD DETECTIVE // CODE & TECH\nLoves codes, games and close scores.\nConnects numbers, machines and clever experiments.\nWill help you test them.\nSTRENGTH: Finds patterns and connects the dots.\nFUNNY HABIT: His confidence can finish before the test does.\nTEST THE IDEA. TRY THE EXPERIMENT."
+        },
+        {
+          "block_id": "P007_05",
+          "type": "comms",
+          "text": "MIMI: I've got a plan! ...actually, wait, where's my phone?\nLULI: Facts first. Opinions later. Snacks somewhere in between.\nDILO: If it's weird enough to beep... it's probably important."
+        }
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "blocks": [
+        {
+          "block_id": "P008_01",
+          "type": "title",
+          "text": "THE SQUAD\nMEET THE HAPPY MAKERS // FIELD TEAM 01"
+        },
+        {
+          "block_id": "P008_02",
+          "type": "bio",
+          "text": "NINI\nFIELD DETECTIVE // PEOPLE & COURAGE\nGives nervous people room to speak.\nNotices feelings and details everyone skipped.\nAsks small, surprisingly good questions.\nSTRENGTH: Looks beyond the obvious.\nFUNNY HABIT: Can become fond of a theory before it earns its place."
+        },
+        {
+          "block_id": "P008_03",
+          "type": "bio",
+          "text": "ALIO\nFIELD DETECTIVE // ROUTES & RECON\nAsks the extra question.\nChecks the unexpected corner.\nPacked a helmet for this introduction.\nSTRENGTH: Notices routes and useful physical details.\nFUNNY HABIT: Prepares for imaginary dangers before reading ordinary signs."
+        },
+        {
+          "block_id": "P008_04",
+          "type": "bio",
+          "text": "GRANDMA BIBI\nARCHIVE MENTOR // OLD ACADEMY GUIDE\nKnows old shelves and stranger stories.\nConnects historical records and knows what to verify.\nSays when a memory is incomplete.\nStops nonsense without putting down her team.\nSTRENGTH: Finds context and the missing pieces.\nFUNNY HABIT: Remembers the adventure; the date may need a label."
+        },
+        {
+          "block_id": "P008_05",
+          "type": "transition",
+          "text": "NEXT: CLAIM YOUR RECRUIT CREDENTIAL\nThe Academy can invite you. Only you can choose to step in."
+        }
+      ]
+    },
+    {
+      "pdf_page": 9,
+      "blocks": [
+        {
+          "block_id": "P009_01",
+          "type": "title",
+          "text": "CLAIM YOUR RECRUIT CREDENTIAL"
+        },
+        {
+          "block_id": "P009_02",
+          "type": "story",
+          "text": "If you are in, this is the moment.\nNo one else can fill this out for you."
+        },
+        {
+          "block_id": "P009_03",
+          "type": "form",
+          "text": "DETECTIVE ACADEMY // RECRUIT CREDENTIAL\nDETECTIVE NAME:\nOFFICIAL CALL SIGN:\nMY BEST DETECTIVE SKILL:\nSIGNATURE:\nFIRST CASE DATE:\nACADEMY STATUS: RECRUIT"
+        },
+        {
+          "block_id": "P009_04",
+          "type": "story",
+          "text": "Your best detective skill can be anything useful: noticing tiny details, remembering odd facts, asking good questions, staying calm, drawing maps, spotting patterns - or something only you know how to do.\nThe credential gets you into the investigation.\nThe cases decide what kind of detective you become."
+        }
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "blocks": [
+        {
+          "block_id": "P010_01",
+          "type": "title",
+          "text": "HOW EVERY CASE WORKS\nYOU NEVER NEED TO GUESS WHAT TO DO NEXT. EVERY CASE FOLLOWS THE SAME SIMPLE RHYTHM."
+        },
+        {
+          "block_id": "P010_02",
+          "type": "instructions",
+          "text": "1 CASE FILE - WHAT HAPPENED?\nRead the story first. It tells you where the case came from, what happened, and why this deduction matters.\n2 YOUR OBJECTIVE\nOne exact thing to prove, find, sort, decode or reconstruct.\n3 EVIDENCE\nWitness boards, maps, photographs, records, codes, timelines, scraps and strange Academy files.\n4 HAPPY MAKERS CHAT\nThe squad thinks out loud, jokes, questions theories and helps you notice what deserves attention.\n5 MAKE THE CALL\nUse the response made for that case: circle it, mark it, sort it, enter the code or write the coordinate. Then move on.\n6 SAVE IT?\nOnly some cases send something to the Case Wall. When the book says “CASE WALL → PAGE 13”, copy that item there. Otherwise keep the verdict on the case page."
+        }
+      ]
+    },
+    {
+      "pdf_page": 11,
+      "blocks": [
+        {
+          "block_id": "P011_01",
+          "type": "title",
+          "text": "MAP CASES\nREAD THIS ONCE"
+        },
+        {
+          "block_id": "P011_02",
+          "type": "instructions",
+          "text": "Some cases use an Academy floor grid to reconstruct where people were standing.\nRead these rules once. Later map cases will only give you the case-specific key.\n1 HOW TO READ A COORDINATE\nLetters run across the columns.\nNumbers run down the rows.\nD3 = column D, row 3.\nUse one coordinate system: the labels printed beside the grid you are solving.\n2 STANDARD MAP CASE RULES\n1. Place every witness exactly once.\n2. Each witness finishes in a different row and a different column.\n3. Use only printed witness statements and visible map features.\n4. If a case asks for a room or area companion, that person is a lead for the next interview, not automatically guilty.\n5. Keep every final witness position on the completed map. Do not erase it after writing the verdict.\n3 MAP LEGEND\nPERSON MAY STAND ON: open numbered/coordinate squares shown as usable floor space.\nSQUARE BLOCKED BY: walls, fixed furniture, equipment or other clearly illustrated obstacles.\nROOM / ZONE: named areas on the map. If a rule specifically says ROOM, a ZONE does not count.\nThere is no secret gray category. If something is blocked, the map shows why."
+        }
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "blocks": [
+        {
+          "block_id": "P012_01",
+          "type": "title",
+          "text": "NEXT UP: YOUR CASE WALL + HINT VAULT\nTHE NEXT PAGE IS YOUR CASE WALL. HERE'S HOW IT WORKS:"
+        },
+        {
+          "block_id": "P012_02",
+          "type": "instructions",
+          "text": "1 FIND THE PAGE\nCASE WALL → PAGE 13\nGo to the next page to see your Case Wall.\n2 COPY THE ITEM\nWhen the book tells you to, copy the correct item to the matching spot on the wall.\n3 SOLVE WITH CLUES\nUse the items on your Case Wall to spot connections and answer the big questions later."
+        },
+        {
+          "block_id": "P012_03",
+          "type": "comms",
+          "text": "DILO: So we just copy stuff to the wall? Easy!\nLULI: Yes! But the right stuff. Wrong clues = confused detectives.\nALIO: The Case Wall helps us see the big picture. Clues make more sense together!\nNINI: It's like a puzzle! The messier it looks at first, the more fun it is to solve.\nBIBI: Details matter! One small clue can change everything.\nMIMI: A detective without key notes in one place is like solving a case with 37 tabs open and 2% battery. Bold, chaotic, doomed."
+        },
+        {
+          "block_id": "P012_04",
+          "type": "instructions",
+          "text": "HINT VAULT + SOLUTION FILES\nStuck? Use the Hint Vault at the back of the book.\nHINT LEVEL 1: A small nudge.\nHINT LEVEL 2: Narrow the search.\nHINT LEVEL 3: A bigger push.\nSOLUTION FILES: Full answers at the back."
+        }
+      ]
+    },
+    {
+      "pdf_page": 13,
+      "blocks": [
+        {
+          "block_id": "P013_01",
+          "type": "form",
+          "text": "CASE WALL // RECORD ZONES\nCopy here only the items the book explicitly tells you to keep. Write clearly. Keep it tidy.\nMATCHING MARKS\nMESSAGES / RULES\nCODES / COORDINATES\nOPEN QUESTIONS\nNot every case sends something here. Save only what the book tells you to save."
+        }
+      ]
+    },
+    {
+      "pdf_page": 14,
+      "blocks": [
+        {
+          "block_id": "P014_01",
+          "type": "title",
+          "text": "30 ACTIVE FILES\nREAL MYSTERIES. BRIGHT MINDS. YOUR TURN."
+        },
+        {
+          "block_id": "P014_02",
+          "type": "transition",
+          "text": "No answers here. Just doors.\nTurn the page. Case 01 is waiting."
+        }
+      ]
+    },
+    {
+      "pdf_page": 15,
+      "blocks": [
+        {
+          "block_id": "P015_01",
+          "type": "transition",
+          "text": "SOMETHING IS OFF\nTHE FILES ARE REAL.\nTHE TEAM IS READY.\nBUT SOMETHING DOESN'T FIT.\nIT'S TIME TO LOOK CLOSER."
+        }
+      ]
+    },
+    {
+      "pdf_page": 16,
+      "blocks": [
+        {
+          "block_id": "P016_01",
+          "type": "title",
+          "text": "THE ENVELOPE THAT WAS NEVER DELIVERED\nCASE 01 // TRAINING // MISSION ACTIVE"
+        },
+        {
+          "block_id": "P016_02",
+          "type": "story",
+          "text": "Your Recruit Credential is barely signed when Mimi slides the black-envelope file back across the Case Table.\nThe printer log gives you one solid fact: the envelope was released from internal Academy stock.\nNo courier. No outside delivery.\nFour visiting helpers were in the intake area at that exact minute.\nThe strange 0 can wait.\nFirst, you need the cleanest thing the record can still prove:\nWHO WAS STANDING AT DELIVERY WHEN THE ENVELOPE EMERGED?"
+        },
+        {
+          "block_id": "P016_03",
+          "type": "instructions",
+          "text": "TRAINING NOTE: This first grid teaches the Academy map method. Later map cases use the same logic with fewer obvious starting points."
+        },
+        {
+          "block_id": "P016_04",
+          "type": "comms",
+          "text": "MIMI: Internal stock. Good. We start with what we can prove.\nALIO: Or we investigate my leading theory: a secret tunnel and a mini van delivery. Very efficient. Very suspicious.\nLULI: A tunnel, a minivan, and zero evidence. Impressive start, Alio.\nNINI: Let's park the minivan for a minute and follow the facts first.\nDILO: Agreed. If the tunnel appears later, I'll happily upgrade the theory."
+        }
+      ]
+    },
+    {
+      "pdf_page": 17,
+      "blocks": [
+        {
+          "block_id": "P017_01",
+          "type": "title",
+          "text": "CASE 01 // THE INTAKE GRID"
+        },
+        {
+          "block_id": "P017_02",
+          "type": "instructions",
+          "text": "YOUR OBJECTIVE\nIDENTIFY who was at Delivery when the black envelope emerged and record their square.\nINVESTIGATION RULES\nPlace each helper once on the 4x4 intake map.\nEach helper uses a different row and a different column.\nCombine row clues, column clues and relative clues before using elimination.\nHELPER ROSTER // QUILL / PIP / MORSE / KNOX"
+        },
+        {
+          "block_id": "P017_03",
+          "type": "clues_locked",
+          "text": "WITNESS BOARD\nWITNESS STATEMENTS\n01 QUILL was in row 1.\n02 PIP was in row 3.\n03 MORSE was in column C.\n04 KNOX was in column D.\n05 PIP was somewhere to the left of QUILL.\n06 MORSE was in a lower row than KNOX."
+        }
+      ]
+    },
+    {
+      "pdf_page": 18,
+      "blocks": [
+        {
+          "block_id": "P018_01",
+          "type": "visual_labels",
+          "text": "CASE 01 // THE INTAKE GRID\nHELPER ROSTER // QUILL / PIP / MORSE / KNOX\nARCHIVE\nWORKSHOP\nDELIVERY\nLIBRARY"
+        },
+        {
+          "block_id": "P018_02",
+          "type": "legend_locked",
+          "text": "MAP KEY:\nUSABLE FLOOR (YOU CAN STAND HERE)\nBLOCKED OBJECT (YOU CANNOT PASS)\nWALL (CANNOT PASS)\nDOORWAY (YOU CAN GO THROUGH)\nYOUR VERDICT / RESPONSE\nPERSON / WITNESS:\nCOORDINATE:"
+        }
+      ]
+    }
+  ],
+  "source_discrepancies": [
+    {
+      "pdf_page": 6,
+      "issue": "Six detectives conflicts with five active field slots + archive mentor + reader as sixth field detective in finale. V10 said Five field detectives. One archive mentor."
+    },
+    {
+      "pdf_page": 9,
+      "issue": "V10 sixth-hook badge-rack seed omitted from current image; no hook mention appears anywhere on p9."
+    },
+    {
+      "pdf_page": 11,
+      "issue": "Current map legend differs substantively from V10 corner-marker legend. Do not silently restore V10; coordinate source logic audit."
+    },
+    {
+      "pdf_page": 12,
+      "issue": "Current chat substitutes generic instructional paraphrases for V10 theory/shelf-space banter. Concrete voice-loss/recovery target."
+    },
+    {
+      "pdf_page": 16,
+      "issue": "Current title is THE ENVELOPE THAT WAS NEVER DELIVERED; V10 title differs. Current comms still retain tunnel/minivan."
+    },
+    {
+      "pdf_page": 17,
+      "issue": "Current clues split row and column information. Preserve newer version rather than V10 clue wording."
+    }
+  ]
+}

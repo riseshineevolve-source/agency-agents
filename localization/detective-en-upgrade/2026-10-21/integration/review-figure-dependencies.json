@@ -1,0 +1,271 @@
+{
+  "reviewer": "figure_consistency",
+  "stage": "independent source-render dependency closure; unchanged accepted candidate",
+  "reviewed_utc": "2026-10-21T10:07:24.694855+00:00",
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_mutated": false,
+  "production_mutated": false,
+  "status": "KEEP_CANDIDATE__CORRECT_ONE_AUDIT_RATIONALE__EXISTING_CAPTION_GATE_RETAINED",
+  "scope": {
+    "visually_inspected_original_folios": [
+      13,
+      15,
+      16,
+      17,
+      18,
+      24,
+      25,
+      80,
+      122,
+      123,
+      130,
+      131,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      158
+    ],
+    "methods": [
+      "PyMuPDF1.15x full-page render",
+      "view_image actual visual inspection",
+      "candidate stable-ID comparison and source read-order backcheck"
+    ],
+    "not_claimed": [
+      "Exhaustive all225page visual acceptance",
+      "Full illustrated candidate render or layout fit",
+      "Independent solution/map uniqueness",
+      "Physical print approval",
+      "New language/audience review"
+    ]
+  },
+  "findings": [
+    {
+      "id": "FIG-080-NOTE",
+      "status": "KEEP",
+      "segments": [
+        "page080.block05"
+      ],
+      "pages": [
+        80
+      ],
+      "finding": "Original visibly ends Her younger handwriting is still there: and leaves the rest blank. Candidate supplies RULE 0 FIRST, consistent with existing page header. This repairs a real missing promised note. Actual reflow must preserve the line as visible content."
+    },
+    {
+      "id": "FIG-122-DUPLICATE-LIST",
+      "status": "KEEP",
+      "audit_action": "FIX_RATIONALE_ONLY",
+      "segments": [
+        "page122.block03"
+      ],
+      "pages": [
+        122,
+        123
+      ],
+      "finding": "Candidate next page points accurately to the fourteen-case list on p123. However original p122 ALSO visibly contains the same list inside its raster WITNESS BOARD/EVIDENCE02 figure. Prior audit assertion that original this page was wrong or that the list existed only on p123 is false. This is image-embedded text omitted from the p122 text layer. No candidate rewrite is required; retain the accepted next-page locator and correct documentary rationale.",
+      "visible_list": "02 / 04 / 06 / 07 / 10 / 12 / 13 / 15 / 17 / 19 / 20 / 22 / 23 / 25"
+    },
+    {
+      "id": "FIG-130-CASEWALL",
+      "status": "KEEP",
+      "segments": [
+        "page130.block03"
+      ],
+      "pages": [
+        13,
+        130,
+        131
+      ],
+      "finding": "Candidate instructs saving the restored rule after solving. Actual p13 has MESSAGES / RULES record zone. Actual p131 contains the damaged rule card and exact word bank; no answer is supplied in advance by this added instruction. Preserve p131 protected pixels and check fit of added p130 objective line in production."
+    },
+    {
+      "id": "FIG-158-HINT",
+      "status": "KEEP",
+      "segments": [
+        "page158.block07",
+        "page158.block08"
+      ],
+      "pages": [
+        158
+      ],
+      "finding": "Removed final-pagination production aside is visibly present in original hint. Candidate retains quantity interpretation and all fourteen selected cases while replacing the aside with a reader instruction. No visual dependency or clue quantity changes."
+    },
+    {
+      "id": "FIG-FINALE-SPEAKERS",
+      "status": "KEEP",
+      "pages": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ],
+      "finding": "Actual source portrait/name/number layout agrees with candidate reader-order mapping on mapped pages141,142,143,145,146,147. p144 is unmapped in reader-order but its ordinary source-ID order correctly continues Bibi turning the hook followed by Mimi smiling. In particular page143.block21 belongs to MIMI, page143.block09 is standalone narration, and p141 system-capability claims remain BIBI/NINI/BIBI as mapped. No speaker repair needed."
+    },
+    {
+      "id": "FIG-CASE03-CAPTION",
+      "status": "OWNER_GATE",
+      "segments": [
+        "page024.block04",
+        "page025.block04"
+      ],
+      "pages": [
+        24,
+        25,
+        146
+      ],
+      "finding": "Actual captions visibly read PHOTO A // ARCHIVED FILE017 and PHOTO B // LATER FILE071. Actual inset photograph labels017/071 agree. The LATER caption versus later older-archive explanation remains inherited ambiguous chronology, not resolved by source pixels. Do not infer photographic date or silently edit protected captions. Existing source/art-integration gate stays open."
+    },
+    {
+      "id": "FIG-ART-RENDER-GATE",
+      "status": "BLOCK",
+      "scope": "production integration only",
+      "pages": [
+        80,
+        130,
+        145
+      ],
+      "finding": "No illustrated render consuming this exact candidate was supplied to this reviewer. Original source page130 objective and page145 finale are fitted to old wording; new note/extra instruction/victory lines need real layout proof. This blocks fit/PRINT_READY claims, not editorial KEEP status."
+    },
+    {
+      "id": "FIG-OPENING-FOLIO-BINDING",
+      "status": "KEEP",
+      "audit_action": "CONSUMER_REMAP_REQUIRED",
+      "segments": [
+        "page016.block04"
+      ],
+      "pages": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "finding": "Visual original9db folios15–18 are:15 SOMETHING IS OFF,16 Case01 narrative/comms,17 witnessboard,18 map. Intake stableIDs therefore match authoritative original. Current Studio spread_layout.py OPENING_BINDINGS maps destination15←source16,16←17,17←18,18←15. Consumer must map source stableIDs to destination roles rather than apply page016.block04 to destination16 (which becomes witnessboard). This is production migration, not source/candidate contradiction.",
+      "studio_file": "integration-studio-copy/RSE_BOOK_FACTORY_STUDIO/rse_factory/spread_layout.py",
+      "studio_opening_bindings": {
+        "15": 16,
+        "16": 17,
+        "17": 18,
+        "18": 15
+      }
+    }
+  ],
+  "render_evidence": [
+    {
+      "page": 13,
+      "local_path": "detective-upgrade/integration/figure-review/p013.png",
+      "png_sha256": "e708c2a2741f6f11afc4ef3b44fc77b1853d0e010c484ffa459cd7bbd0959412"
+    },
+    {
+      "page": 15,
+      "local_path": "detective-upgrade/integration/figure-review/p015.png",
+      "png_sha256": "d5c40094ffb8a7a856994f5fe62d7614adbc84ac690a93e63e86a880fd53ead7"
+    },
+    {
+      "page": 16,
+      "local_path": "detective-upgrade/integration/figure-review/p016.png",
+      "png_sha256": "7216e2e91b0be65a58a90569c9805c629717c7b520de8e9864a9a60fab4738e3"
+    },
+    {
+      "page": 17,
+      "local_path": "detective-upgrade/integration/figure-review/p017.png",
+      "png_sha256": "dfb66bb8fe0df23bf9da45205947575f463e27e274375af9b0f5596092fe972a"
+    },
+    {
+      "page": 18,
+      "local_path": "detective-upgrade/integration/figure-review/p018.png",
+      "png_sha256": "bf572651f4f1604d50974c5ac5740ba9a8199e8154c142170678aca4a355c5fe"
+    },
+    {
+      "page": 24,
+      "local_path": "detective-upgrade/integration/figure-review/p024.png",
+      "png_sha256": "2cf2b3c22167f54e0628d832ece4dcf1938d36b86ba2aa7bec208b9f83e08713"
+    },
+    {
+      "page": 25,
+      "local_path": "detective-upgrade/integration/figure-review/p025.png",
+      "png_sha256": "13e9918547783d27a2cd666baebc8c407b4ed2b36d96bbdc8245791c3819630d"
+    },
+    {
+      "page": 80,
+      "local_path": "detective-upgrade/integration/figure-review/p080.png",
+      "png_sha256": "d7dfe50d77933baf8f8c75b670dc8571095663acf7da2cf00424c42d422a9a0a"
+    },
+    {
+      "page": 122,
+      "local_path": "detective-upgrade/integration/figure-review/p122.png",
+      "png_sha256": "215e9b3e11991bfb9559d793659190489ef3d2ca696c273b6961197804a9a8ca"
+    },
+    {
+      "page": 123,
+      "local_path": "detective-upgrade/integration/figure-review/p123.png",
+      "png_sha256": "f13b722a5c8dc91cfb54374227cf81356c4c35280d2b7aa42ff8b64969deec08"
+    },
+    {
+      "page": 130,
+      "local_path": "detective-upgrade/integration/figure-review/p130.png",
+      "png_sha256": "35c309252833c755013ec492715fac14d1b745629d2dc6a638a3b970085652d7"
+    },
+    {
+      "page": 131,
+      "local_path": "detective-upgrade/integration/figure-review/p131.png",
+      "png_sha256": "9f7d921270e23068fd5107d3e24c0ff2dae44d6c281ebba2dd920b18525cce50"
+    },
+    {
+      "page": 141,
+      "local_path": "detective-upgrade/integration/figure-review/p141.png",
+      "png_sha256": "832f5b272ce4c334fcac9a8b01486f5668250f9d131fcee00dcb3fb6082695a3"
+    },
+    {
+      "page": 142,
+      "local_path": "detective-upgrade/integration/figure-review/p142.png",
+      "png_sha256": "b2333a0b801299f92d7dc2be76864af103bb074e70c347da6e40b8fd25d7ae11"
+    },
+    {
+      "page": 143,
+      "local_path": "detective-upgrade/integration/figure-review/p143.png",
+      "png_sha256": "795e6b7b2dbfe3e482968a7d4dd415596cd0e3d6ada3e48376a2f552b710a707"
+    },
+    {
+      "page": 144,
+      "local_path": "detective-upgrade/integration/figure-review/p144.png",
+      "png_sha256": "fadafe6e98682520440426aa8dcd9587b89dd10817144fa4521b7553e33c205e"
+    },
+    {
+      "page": 145,
+      "local_path": "detective-upgrade/integration/figure-review/p145.png",
+      "png_sha256": "f06407e4db1e36f68c32cbc181f6d3af06be2ce935118e9d338a22dd3a577db1"
+    },
+    {
+      "page": 146,
+      "local_path": "detective-upgrade/integration/figure-review/p146.png",
+      "png_sha256": "110253e1b80daa5fd74075d9a0bc5268039e0b2010cbcfcde2a112fb819822d9"
+    },
+    {
+      "page": 147,
+      "local_path": "detective-upgrade/integration/figure-review/p147.png",
+      "png_sha256": "ea8b5cd62fe81bbab7f7f43412808b2e449906fb140ecc49dad3dc44adca8063"
+    },
+    {
+      "page": 158,
+      "local_path": "detective-upgrade/integration/figure-review/p158.png",
+      "png_sha256": "a424ecb5fc9a63aa8008e7342dd3dc409470098b5cc271b8b29f263bf5653d71"
+    }
+  ],
+  "recommendation": "Keep exact candidate. Correct p122 source-navigation audit rationale. Carry existing Case03 caption gate and actual illustrated-render requirement to sole Book Factory writer. No additional prose rewrite justified by inspected dependencies. Bind migrated Studio destination folios by source identity and case/page role; preserve original source folio IDs.",
+  "render_reproduction": {
+    "script": "integration/render-reviewed-source-pages.py",
+    "script_sha256": "755c6907b9ed433e1c4b438690455c276e0291f3e096a84a16deb5f8bb69ccfa",
+    "command": "python3 integration/render-reviewed-source-pages.py --pdf /absolute/path/to/DETECTIVE_ACADEMY_EN_20261021_225P.pdf --output /absolute/output/directory",
+    "review_path_default": "review-figure-dependencies.json next to script",
+    "renderer": "PyMuPDF1.26.6 / MuPDF1.26.11",
+    "actual_reproduction": "PASS: all20PNG byte hashes reproduced using original source9db, Matrix1.15, all other get_pixmap defaults and Pixmap.save(path). Source hash guard rejects another PDF; full225page count required.",
+    "duplicates_committed": false
+  }
+}

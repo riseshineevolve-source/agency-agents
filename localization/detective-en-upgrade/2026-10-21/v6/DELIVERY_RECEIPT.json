@@ -1,0 +1,39 @@
+{
+  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "saved_files": [
+    {
+      "local_path": "/workspace/scratch/e6eabdc4c3a0/detective-v6/proof/DETECTIVE_EN_V6_READING_PROOF.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000bd8081f590c7d8ff12ac0bc8",
+      "library_file_id": "libfile_94471e8e05548191adec7eee0ccdf2e0",
+      "file_name": "DETECTIVE_EN_V6_READING_PROOF.pdf",
+      "local_metadata_applied": true,
+      "path": "/DETECTIVE_EN_V6_READING_PROOF.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/e6eabdc4c3a0/detective-v6/proof/DETECTIVE_EN_V6_CORRECTED_FIGURES.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000003b7c81f79519f768e666bae6",
+      "library_file_id": "libfile_62c7eb47ff80819197789f7327f04864",
+      "file_name": "DETECTIVE_EN_V6_CORRECTED_FIGURES.pdf",
+      "local_metadata_applied": true,
+      "path": "/DETECTIVE_EN_V6_CORRECTED_FIGURES.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/e6eabdc4c3a0/deliverables/RSE_DETECTIVE_EN_V6_FIXED_20261021.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000003ee4822f90e3a5ac95185ff1",
+      "library_file_id": "libfile_da1bed141d108191a32b9d5d4a7a893b",
+      "file_name": "RSE_DETECTIVE_EN_V6_FIXED_20261021.zip",
+      "local_metadata_applied": true,
+      "path": "/RSE_DETECTIVE_EN_V6_FIXED_20261021.zip",
+      "current_version_number": 0
+    }
+  ],
+  "pdf_bytes_match_reviewed_hashes": true
+}

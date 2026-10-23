@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "verified_utc": "2026-10-22T07:59:31.378168+00:00",
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "prior_pdf_sha256": "40c38884d5732b74f3766aaa4a26938069b82b5eeb497ee0e5a1ea17597d8ce2",
+  "current_pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "current_pdf_pages": 225,
+  "closure_receipt_path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/proof/PROOF_BORDER_CLOSURE.json",
+  "closure_receipt_sha256": "e5a198c1eaa1f5b444b5e5f0b4ff4c638d863bc331dcb08872c9ebded7812860",
+  "closure_receipt_checked": true,
+  "reported_text_identical_folios": 225,
+  "reported_render_identical_folios": 224,
+  "reported_only_render_change": 148,
+  "independently_rechecked_current_pdf_sha256": true,
+  "all_30_solution_titles_rechecked_in_current_pdf": true,
+  "requested_speaker_orders_rechecked_in_current_pdf": true,
+  "prior_visual_scope_unchanged": [
+    184,
+    204
+  ],
+  "comparison_scope_note": "The border-closure receipt supplies the 225 text / 224 render comparison. This agent independently verified the current file hash and 225-page count and rechecked all 30 title strings and requested canonical speaker orders. Prior visual inspection scope remains valid because folios184/204 are among the reported unchanged renders. No new full-book visual or print approval is claimed."
+}

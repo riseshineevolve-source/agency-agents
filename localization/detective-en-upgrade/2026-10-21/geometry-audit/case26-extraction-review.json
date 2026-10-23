@@ -1,0 +1,603 @@
+{
+  "reviewer": "root",
+  "stage": "Case26 map-image identity and empty-room visual backcheck",
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "decision": "KEEP_CANDIDATE__CORRECT_AUXILIARY_CASE13_ROOM_METADATA",
+  "selected_cases": [
+    2,
+    4,
+    6,
+    7,
+    10,
+    12,
+    13,
+    15,
+    17,
+    19,
+    20,
+    22,
+    23,
+    25
+  ],
+  "rows": [
+    {
+      "case": 2,
+      "puzzle_folio": 21,
+      "solution_map_folio": 182,
+      "empty_room_visible": "Coach’s Office",
+      "initial": "C",
+      "shared_original_map_image_sha256": "434bea8ea4ae1132d3a4f73ebed0f3016cc8a9abd9baf097125a7daa76904a5a",
+      "placements": [
+        {
+          "name": "Nova",
+          "coordinate": "B3"
+        },
+        {
+          "name": "Dax",
+          "coordinate": "D2"
+        },
+        {
+          "name": "Rook",
+          "coordinate": "A6"
+        },
+        {
+          "name": "Atlas",
+          "coordinate": "F4"
+        },
+        {
+          "name": "Ivy",
+          "coordinate": "C5"
+        },
+        {
+          "name": "Max",
+          "coordinate": "E1"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 4,
+      "puzzle_folio": 29,
+      "solution_map_folio": 186,
+      "empty_room_visible": "Hospitality Room",
+      "initial": "H",
+      "shared_original_map_image_sha256": "aee08305c8f868ac3a72052f07fc19152d5f2a47b9a97f7818ac26a0cce3604c",
+      "placements": [
+        {
+          "name": "Echo",
+          "coordinate": "A2"
+        },
+        {
+          "name": "Kai",
+          "coordinate": "B6"
+        },
+        {
+          "name": "Zuri",
+          "coordinate": "F4"
+        },
+        {
+          "name": "Briar",
+          "coordinate": "D3"
+        },
+        {
+          "name": "Clover",
+          "coordinate": "C5"
+        },
+        {
+          "name": "Pixel",
+          "coordinate": "E1"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 6,
+      "puzzle_folio": 39,
+      "solution_map_folio": 189,
+      "empty_room_visible": "Egypt Room",
+      "initial": "E",
+      "shared_original_map_image_sha256": "b06d42ddc3deef2bee2bbd98f9702ed2e7c4535a61d9a552b49454d191e3ddeb",
+      "placements": [
+        {
+          "name": "Scout",
+          "coordinate": "E3"
+        },
+        {
+          "name": "Hugo",
+          "coordinate": "A6"
+        },
+        {
+          "name": "Arlo",
+          "coordinate": "D2"
+        },
+        {
+          "name": "Vale",
+          "coordinate": "F5"
+        },
+        {
+          "name": "Wren",
+          "coordinate": "C4"
+        },
+        {
+          "name": "Uma",
+          "coordinate": "B1"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 7,
+      "puzzle_folio": 43,
+      "solution_map_folio": 191,
+      "empty_room_visible": "Costume Room",
+      "initial": "C",
+      "shared_original_map_image_sha256": "fb8ceb0726f664012fca333c3778a602811010d64c7160fe5a489918fe20e832",
+      "placements": [
+        {
+          "name": "Blaze",
+          "coordinate": "A3"
+        },
+        {
+          "name": "Indigo",
+          "coordinate": "D2"
+        },
+        {
+          "name": "Willa",
+          "coordinate": "B1"
+        },
+        {
+          "name": "Zoe",
+          "coordinate": "C6"
+        },
+        {
+          "name": "Rocket",
+          "coordinate": "E5"
+        },
+        {
+          "name": "Gray",
+          "coordinate": "F4"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 10,
+      "puzzle_folio": 55,
+      "solution_map_folio": 195,
+      "empty_room_visible": "Kinetics Lab",
+      "initial": "K",
+      "shared_original_map_image_sha256": "75cba49c44a18b93f4554f5ae0916c245095efb2e9ec9c4a26dafcda18090aca",
+      "placements": [
+        {
+          "name": "Ember",
+          "coordinate": "D5"
+        },
+        {
+          "name": "Nico",
+          "coordinate": "F6"
+        },
+        {
+          "name": "Wyatt",
+          "coordinate": "B7"
+        },
+        {
+          "name": "Finn",
+          "coordinate": "A2"
+        },
+        {
+          "name": "Beck",
+          "coordinate": "C1"
+        },
+        {
+          "name": "Vera",
+          "coordinate": "G4"
+        },
+        {
+          "name": "Dash",
+          "coordinate": "E3"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 12,
+      "puzzle_folio": 63,
+      "solution_map_folio": 198,
+      "empty_room_visible": "Training Room",
+      "initial": "T",
+      "shared_original_map_image_sha256": "0b2c3c95fba78fb770fead1004f5cbe959360f97a4c84770e7a5498b9994d46c",
+      "placements": [
+        {
+          "name": "Kira",
+          "coordinate": "E6"
+        },
+        {
+          "name": "Nell",
+          "coordinate": "G2"
+        },
+        {
+          "name": "Iris",
+          "coordinate": "A5"
+        },
+        {
+          "name": "Eli",
+          "coordinate": "F4"
+        },
+        {
+          "name": "Cove",
+          "coordinate": "B7"
+        },
+        {
+          "name": "Sage",
+          "coordinate": "C3"
+        },
+        {
+          "name": "Winter",
+          "coordinate": "D1"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 13,
+      "puzzle_folio": 67,
+      "solution_map_folio": 200,
+      "empty_room_visible": "Hide Room",
+      "initial": "H",
+      "shared_original_map_image_sha256": "0cd28c50bae22cec21ed0dd76bd38989ea4d1425c0befb433c27319c4d20542c",
+      "placements": [
+        {
+          "name": "Juno",
+          "coordinate": "F3"
+        },
+        {
+          "name": "Skye",
+          "coordinate": "E4"
+        },
+        {
+          "name": "Eden",
+          "coordinate": "G2"
+        },
+        {
+          "name": "Willow",
+          "coordinate": "A1"
+        },
+        {
+          "name": "Bodhi",
+          "coordinate": "B7"
+        },
+        {
+          "name": "Moxie",
+          "coordinate": "C5"
+        },
+        {
+          "name": "Remy",
+          "coordinate": "D6"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": {
+        "old": "Habitat Paddock",
+        "new": "Hide Room",
+        "reason": "Habitat Paddock visibly has Eden G2 and Juno F3; Hide Room contains no occupant."
+      }
+    },
+    {
+      "case": 15,
+      "puzzle_folio": 75,
+      "solution_map_folio": 203,
+      "empty_room_visible": "Equipment Room",
+      "initial": "E",
+      "shared_original_map_image_sha256": "809391e9212722bbd69c05a0c0823387c89ec5328cb7693e7043c0e4fb9208a8",
+      "placements": [
+        {
+          "name": "Harper",
+          "coordinate": "D2"
+        },
+        {
+          "name": "Piper",
+          "coordinate": "F4"
+        },
+        {
+          "name": "Duke",
+          "coordinate": "E5"
+        },
+        {
+          "name": "Cruz",
+          "coordinate": "C3"
+        },
+        {
+          "name": "Jett",
+          "coordinate": "G7"
+        },
+        {
+          "name": "Inez",
+          "coordinate": "B6"
+        },
+        {
+          "name": "Milo",
+          "coordinate": "A1"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 17,
+      "puzzle_folio": 85,
+      "solution_map_folio": 206,
+      "empty_room_visible": "Observation Car",
+      "initial": "O",
+      "shared_original_map_image_sha256": "10855bd7ade3f39284f6833ef091261b3e05a13643214ff566d395d64e293dea",
+      "placements": [
+        {
+          "name": "Otis",
+          "coordinate": "A1"
+        },
+        {
+          "name": "Mika",
+          "coordinate": "B4"
+        },
+        {
+          "name": "Koa",
+          "coordinate": "F6"
+        },
+        {
+          "name": "Sunny",
+          "coordinate": "D5"
+        },
+        {
+          "name": "Luna",
+          "coordinate": "G7"
+        },
+        {
+          "name": "Axel",
+          "coordinate": "E3"
+        },
+        {
+          "name": "Reed",
+          "coordinate": "C2"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 19,
+      "puzzle_folio": 93,
+      "solution_map_folio": 209,
+      "empty_room_visible": "Library Office",
+      "initial": "L",
+      "shared_original_map_image_sha256": "e898258d6ae0ec21f0f7b301405b37ffbdd68b16dca957ea3df3aee98d869998",
+      "placements": [
+        {
+          "name": "Avery",
+          "coordinate": "E5"
+        },
+        {
+          "name": "Theo",
+          "coordinate": "C1"
+        },
+        {
+          "name": "Ollie",
+          "coordinate": "D3"
+        },
+        {
+          "name": "Dex",
+          "coordinate": "G2"
+        },
+        {
+          "name": "Mack",
+          "coordinate": "A7"
+        },
+        {
+          "name": "Kian",
+          "coordinate": "F4"
+        },
+        {
+          "name": "Sasha",
+          "coordinate": "B6"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 20,
+      "puzzle_folio": 97,
+      "solution_map_folio": 211,
+      "empty_room_visible": "Drying Room",
+      "initial": "D",
+      "shared_original_map_image_sha256": "51c6fafcd3a47f6af29055fe87a0d88054ab091d1b80e266227ebfff70f23ae2",
+      "placements": [
+        {
+          "name": "Sid",
+          "coordinate": "E7"
+        },
+        {
+          "name": "Pax",
+          "coordinate": "F5"
+        },
+        {
+          "name": "Luca",
+          "coordinate": "A1"
+        },
+        {
+          "name": "Mara",
+          "coordinate": "D4"
+        },
+        {
+          "name": "Asa",
+          "coordinate": "B2"
+        },
+        {
+          "name": "Toby",
+          "coordinate": "C6"
+        },
+        {
+          "name": "Demi",
+          "coordinate": "G3"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 22,
+      "puzzle_folio": 107,
+      "solution_map_folio": 214,
+      "empty_room_visible": "Music Archive",
+      "initial": "M",
+      "shared_original_map_image_sha256": "fbffbe3d2903dc485ebf23dd7a50441a1d3063b0b3b66860bb247ca9239e2e0a",
+      "placements": [
+        {
+          "name": "Lex",
+          "coordinate": "E6"
+        },
+        {
+          "name": "Imani",
+          "coordinate": "F7"
+        },
+        {
+          "name": "Cody",
+          "coordinate": "C4"
+        },
+        {
+          "name": "Nia",
+          "coordinate": "G5"
+        },
+        {
+          "name": "Gia",
+          "coordinate": "B1"
+        },
+        {
+          "name": "Wes",
+          "coordinate": "D3"
+        },
+        {
+          "name": "Zara",
+          "coordinate": "A2"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 23,
+      "puzzle_folio": 111,
+      "solution_map_folio": 216,
+      "empty_room_visible": "Access Office",
+      "initial": "A",
+      "shared_original_map_image_sha256": "14be3f2dc6a8db5401e065af00a5b0c5ccd92025d7a9497f288aba01b91d92f0",
+      "placements": [
+        {
+          "name": "Vivi",
+          "coordinate": "G7"
+        },
+        {
+          "name": "Cora",
+          "coordinate": "D1"
+        },
+        {
+          "name": "Ozzy",
+          "coordinate": "A3"
+        },
+        {
+          "name": "Rae",
+          "coordinate": "F6"
+        },
+        {
+          "name": "Mae",
+          "coordinate": "C5"
+        },
+        {
+          "name": "Pia",
+          "coordinate": "B2"
+        },
+        {
+          "name": "Jude",
+          "coordinate": "E4"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    },
+    {
+      "case": 25,
+      "puzzle_folio": 119,
+      "solution_map_folio": 219,
+      "empty_room_visible": "Parcel Room",
+      "initial": "P",
+      "shared_original_map_image_sha256": "a898f31bb66f29d7e351d1ec3c03a94f2beef868910729e06afd37cb65483a2b",
+      "placements": [
+        {
+          "name": "Gabe",
+          "coordinate": "F3"
+        },
+        {
+          "name": "Casey",
+          "coordinate": "D5"
+        },
+        {
+          "name": "Rio",
+          "coordinate": "E2"
+        },
+        {
+          "name": "Tate",
+          "coordinate": "C6"
+        },
+        {
+          "name": "Sol",
+          "coordinate": "G1"
+        },
+        {
+          "name": "Wynn",
+          "coordinate": "B7"
+        },
+        {
+          "name": "Nori",
+          "coordinate": "A4"
+        }
+      ],
+      "verification": "Actual solved-page render inspected; named empty region has no numbered occupant; original puzzle/solution share exact encoded map image.",
+      "historical_metadata_correction": null
+    }
+  ],
+  "letters": "CHECKTHEOLDMAP",
+  "message": "CHECK THE OLD MAP",
+  "source_figure_pages_visually_inspected": [
+    182,
+    186,
+    189,
+    191,
+    195,
+    198,
+    200,
+    203,
+    206,
+    209,
+    211,
+    214,
+    216,
+    219
+  ],
+  "checks": {
+    "selected_map_count": 14,
+    "source_puzzle_solution_encoded_map_identity": true,
+    "case13_H_initial_retained": true,
+    "candidate_changed": false
+  },
+  "limits": [
+    "Visual occupancy check of printed solution assignments, not independent solution uniqueness for all14spatial cases.",
+    "Named ROOM vs ZONE follows printed game convention; corridors/platforms/queues excluded.",
+    "No production/physical-print proof.",
+    "Historical truth-lock file kept byte-identical; current empty-room correction recorded here."
+  ]
+}

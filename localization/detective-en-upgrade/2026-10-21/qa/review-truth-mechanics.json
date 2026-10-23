@@ -1,0 +1,1179 @@
+{
+  "reviewer": "detective_source_audit",
+  "stage": "independent truth/mechanics review of exact candidate",
+  "status": "PASS",
+  "source_intake_path": "detective-upgrade/source/intake-v4.json",
+  "source_intake_sha256": "fab419c8d30324a04e7368c8acd38faa574088d69169e4451eeb6419cb37a155",
+  "candidate_path": "detective-upgrade/candidate/candidate.json",
+  "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "scope": {
+    "source_segment_count": 3067,
+    "candidate_segment_count": 3067,
+    "source_coverage_pages": 225,
+    "page_map_coverage_pages": 225,
+    "protected_segments": 2367,
+    "protected_segments_unchanged": 2367,
+    "protected_drift": [],
+    "changed_segments": 91,
+    "changed_pages": [
+      6,
+      7,
+      8,
+      9,
+      12,
+      16,
+      19,
+      22,
+      23,
+      27,
+      34,
+      37,
+      45,
+      48,
+      49,
+      60,
+      61,
+      65,
+      69,
+      73,
+      80,
+      86,
+      91,
+      94,
+      98,
+      102,
+      104,
+      105,
+      108,
+      112,
+      113,
+      116,
+      117,
+      122,
+      125,
+      128,
+      130,
+      132,
+      137,
+      138,
+      140,
+      142,
+      145,
+      158
+    ],
+    "map_placements_preserved": 107,
+    "case_count": 30,
+    "independent_read": "Initial complete review of all90 changed V3 units plus restored p143 lines, followed by exact-hash unchanged-unit comparison and a targeted read of final page122.block03 in p122–123 context. Final91 changed units across44 pages covered; all2367 protected units unchanged.",
+    "figure_preservation": "No source PDF or puzzle artwork mutation performed. Candidate is prose JSON, not a rebuilt PDF."
+  },
+  "checks": {
+    "ids_identical": true,
+    "protected_hashes_unchanged": true,
+    "changed_ids_within_allowlist": true,
+    "case01_current_clues_preserved": true,
+    "case03_current_evidence_and_solutions_preserved": true,
+    "all_solution_pages_unchanged": true,
+    "all_hint_content_unchanged_except_authorized_p158_aside": true,
+    "source_pdf_bytes_unchanged": true,
+    "all_audited_figure_renders_unchanged": true,
+    "v4_source_text_identical_to_v3": true,
+    "only_new_word_change_from_reviewed_v3_is_p122_navigation": true
+  },
+  "findings": [
+    {
+      "id": "TM-ROSTER-CANON",
+      "status": "PASS",
+      "pages": [
+        6,
+        7,
+        8
+      ],
+      "finding": "The added family relationships have direct owner-provided reference authority. Mimi is mother, the children are siblings, Luli is older and Nini youngest. No numeric ages were imported.",
+      "evidence": [
+        "WORLD01 physical p10: Luli’s brothers; p24 Luli calls Mimi Mammi; p36 Dilo calls Mimi Mammi; p78 Alio calls Mimi Mammi.",
+        "WORLD02 physical p39: Nini explicitly Mimi’s daughter; p32 Mimi self-refers as Mom; p26 Dilo calls Alio his little brother.",
+        "Happy Me physical pp13–16: Nini5, Alio8, Dilo10, Luli13 establish relative order only."
+      ],
+      "files_read": [
+        "upload/10 STORIES WORLD 01 FINAL paperback(5).pdf",
+        "upload/10 STORIES WORLD 02 FINAL paperback(3).pdf",
+        "upload/Paperback  final fixed print(7).pdf"
+      ]
+    },
+    {
+      "id": "TM-HOOK-SETUP",
+      "status": "PASS",
+      "pages": [
+        9,
+        143,
+        145
+      ],
+      "finding": "Five existing badges and empty hook06 are introduced before the finale callback. The reader’s official call sign and recruit form remain unchanged."
+    },
+    {
+      "id": "TM-FOUR-MARKS",
+      "status": "PASS",
+      "pages": [
+        19,
+        27,
+        34,
+        35,
+        48,
+        49,
+        51,
+        52,
+        193
+      ],
+      "finding": "The intake record, Trophy Hall tag, Open Night label and locker routing card remain the only four marked records. Look-Twice remains routed, not marked. Bibi does not explain the mark before evidence allows it."
+    },
+    {
+      "id": "TM-CURRENT-PHOTOS",
+      "status": "PASS",
+      "pages": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        36,
+        112,
+        146,
+        183,
+        184
+      ],
+      "finding": "The current ten-difference inventory and exact017/071 values are preserved. Inspector Glitter is explicitly an unearned interpretation, not an eleventh difference. Neither the obsolete V10 tread callback nor triangular award callback returns."
+    },
+    {
+      "id": "TM-COMPANION-FAIRNESS",
+      "status": "PASS",
+      "pages": [
+        60,
+        116
+      ],
+      "finding": "Revised prose accurately treats the solved companion as an interview lead, rather than claiming proximity proves the original phrase source or parcel handoff. Neighboring puzzle objectives and solutions are unchanged."
+    },
+    {
+      "id": "TM-RULE-REPAIRS",
+      "status": "PASS",
+      "pages": [
+        80,
+        81,
+        82,
+        128,
+        130,
+        131,
+        132,
+        138,
+        139,
+        222,
+        225
+      ],
+      "finding": "The missing exact RULE0FIRST line is supplied without changing the photograph puzzle. The Case Wall save step is added outside p131 artwork. FACT/THEORY/UNSUPPORTED ASSUMPTION, word bank, correct rule and final RULE WORD remain unchanged."
+    },
+    {
+      "id": "TM-TIMELINE",
+      "status": "PASS",
+      "pages": [
+        65,
+        68,
+        86,
+        88,
+        89,
+        90,
+        199,
+        201,
+        207
+      ],
+      "finding": "Camera time4:17 and subsequent cleanup resolution are retained. The clock record is still explicitly uncorrected; no clock offsets or record times change. Seven-minute gap remains a false lead, not a zero-mark record."
+    },
+    {
+      "id": "TM-FOOTPRINTS",
+      "status": "PASS",
+      "pages": [
+        112,
+        113,
+        114,
+        115,
+        128,
+        217
+      ],
+      "finding": "Narrative now allows the reader to inspect before identifying the relevant changing property; explicit p114 instructions still state fading mud and no fresh mud. Mud100/70/35/10, East Path→West Gate and misleading tread arrow are protected."
+    },
+    {
+      "id": "TM-OVERLAY",
+      "status": "PASS",
+      "pages": [
+        120,
+        121,
+        122,
+        123,
+        125,
+        126,
+        127,
+        128,
+        220,
+        221
+      ],
+      "finding": "Case27 stops pre-solving the alignment; all three original anchors and prior overlay-tool acquisition remain. The current plans, sealed training room and RULEFIRSTROOMSECOND note stay unchanged."
+    },
+    {
+      "id": "TM-FINAL-INPUTS",
+      "status": "PASS",
+      "pages": [
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        145,
+        225
+      ],
+      "finding": "The four fields remain RULE WORD, ACCESS, CODE and CALL SIGN with prior earned sources. ASSUMPTIONS, D3, BALL–STAR–BOLT–HEART–KEY–MOON and the reader’s credential call sign remain exact. Layout reordering does not add a fifth input or expose an answer before the relevant puzzle."
+    },
+    {
+      "id": "TM-SYSTEM-LIMITS",
+      "status": "PASS",
+      "pages": [
+        34,
+        98,
+        140,
+        141,
+        142,
+        143,
+        146,
+        147
+      ],
+      "finding": "Removing the earlier printer-off action avoids an unexplained later restart. Archived note author remains Bibi. MATCH/ROUTE/VERIFY and CASECREATIONNONE remain. The route cannot create cases, choose a suspect or solve for the reader; Book1 closes separately from the next archive question."
+    },
+    {
+      "id": "TM-HINT-ASIDE",
+      "status": "PASS",
+      "pages": [
+        158
+      ],
+      "finding": "Only the obsolete layout-production aside is removed. The actual quantity hint, selected fourteen cases and lookup instruction remain intact."
+    },
+    {
+      "id": "TM-LATE-P091",
+      "status": "PASS",
+      "pages": [
+        91,
+        94,
+        208
+      ],
+      "segments": [
+        "page091.block15"
+      ],
+      "finding": "After the scanner, then. was read with the full p91 exchange and preserves scanner-first investigation."
+    },
+    {
+      "id": "TM-P143-RESTORE",
+      "status": "PASS",
+      "pages": [
+        143
+      ],
+      "segments": [
+        "page143.block09",
+        "page143.block21"
+      ],
+      "finding": "The two lines Only you could earn the place. and But nobody could fill it for you. are now restored byte-exact to source and preserve reader agency."
+    },
+    {
+      "id": "TM-V4-P122-NAVIGATION",
+      "status": "PASS",
+      "pages": [
+        122,
+        123
+      ],
+      "segments": [
+        "page122.block03"
+      ],
+      "finding": "this page becomes the next page. The selected fourteen-case list is physically on p123; Case01 remains excluded. This repairs the locator without altering extraction procedure, selected cases, their order or CHECKTHEOLDMAP answer."
+    }
+  ],
+  "changed_unit_reviews": [
+    {
+      "segment_id": "page006.block02",
+      "page": 6,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "39ce1dee668ba0b07b32a4d3248d335a47e74962c37e3abdd0f83cbc0bf30ccb",
+      "candidate_text_sha256": "43431ad6f78b4fc30b5f6d3057c1a4e9c2055733c94ea1953c68ee3adc64beb1"
+    },
+    {
+      "segment_id": "page007.block02",
+      "page": 7,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "a95f4e2cde0bc8ba083e6c3b141d1314569b9d816fdc54e2c36bb344eea6571c",
+      "candidate_text_sha256": "c9cb522d79a8d2ec06222b4ec261d52a8651298ee802c3ca30df5e97f7ce7d03"
+    },
+    {
+      "segment_id": "page007.block03",
+      "page": 7,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "2962d9133c4846136a28ed5d1ef68374b8f2710b317100d0958dd7caaacd7817",
+      "candidate_text_sha256": "f089c6b2f0f261da45c51e5ff1b2255ec3a00f2855ab0cef37b092274223de7e"
+    },
+    {
+      "segment_id": "page008.block02",
+      "page": 8,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "1711d7dfee3d322ec1cfd8b8002f61f89772a2c8fab4c1a4837f0c2d30aad68b",
+      "candidate_text_sha256": "dc5bf732ddd97a3c2c7c30375f5325811ad92f3d6b493f3ef97dd600dc613d26"
+    },
+    {
+      "segment_id": "page008.block04",
+      "page": 8,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "555636358b4bb0a11d4dc118bf83ddf720bc6af928f26788c5513bdcbf5ac2a9",
+      "candidate_text_sha256": "93203dbf0b1ba24adb63823dd460c3a74b0f8be93d18398f03d689637708de66"
+    },
+    {
+      "segment_id": "page009.block02",
+      "page": 9,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "d45a9852daec9d2a95e6cb285d7f89e8a851ca14a98dfa9b5b95de2e3be51dd5",
+      "candidate_text_sha256": "dd7b7e6ddd26c03f8ac14f8875aac56dcf88625b7b0c99748deaaebcf6b2b9d0"
+    },
+    {
+      "segment_id": "page012.block03",
+      "page": 12,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "8b4ad5c557c067ccd8763bda6290cf6e5e146a88515a7205704e04c1c7b22dcc",
+      "candidate_text_sha256": "e5f70c66788ae0f86da863b9f902359a1563b2dd8380dee8de8b7f10ef32408b"
+    },
+    {
+      "segment_id": "page016.block04",
+      "page": 16,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "45742625f96efc9009bf0129405c7eeeafbc76c2a7ea710d3178e7bffc969ecc",
+      "candidate_text_sha256": "0fd672c90bc90429265948efcd94b9e2f2cab0eb6c0f69e7050b7c66abefff6e"
+    },
+    {
+      "segment_id": "page019.block35",
+      "page": 19,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "dea9b711e2263726cdaf9f1ac2d5948cd650ca279e9bad9783a6b36eec01ef4c",
+      "candidate_text_sha256": "53d5237384a22fe0aed39c579e87a3108fe619ea085f165653ad580ef8f24a0e"
+    },
+    {
+      "segment_id": "page019.block36",
+      "page": 19,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "aa0dcc52e6e55fe84c73ae82fefdf892aaa94328858aea46797158c6a30237f5",
+      "candidate_text_sha256": "269c8b5a06e4ea92b0273f3f42a411c8f29204ba4e7e250fa884a5197721a854"
+    },
+    {
+      "segment_id": "page022.block12",
+      "page": 22,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "136422e966ee684920b5b088d167254dd8d085724894eecc3353956053793114",
+      "candidate_text_sha256": "faa4d59452cf6c45130606b98f6653e51fd60b1bd79825ec84439c1f971cf071"
+    },
+    {
+      "segment_id": "page023.block05",
+      "page": 23,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "f1101441fef0adf68251249be7cefdf05d5bc48a03287ec9c854367b82b23816",
+      "candidate_text_sha256": "ff6cd34d45f80c7ca469a2939f854dc8cbc74fa52e796e54b1a8b3efc213a2d4"
+    },
+    {
+      "segment_id": "page023.block07",
+      "page": 23,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "6f493c6868a9a73c766f2910aa321048e713fcd88930c941755d4d4ec59d2396",
+      "candidate_text_sha256": "b41ab34a2d3e353ddb010596938a7181ffc54bb2b5d42ce0ae603cc4b1f36fe1"
+    },
+    {
+      "segment_id": "page023.block09",
+      "page": 23,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "9ffc0dcd35cd9ba9d21d8bf67106dc74cdc9e2fef7c2d00c2972881e0d90821a",
+      "candidate_text_sha256": "a6462eb88ba0dc49f6bf4a64be0acf948ce744b1bc4082634a9605c83afa86ce"
+    },
+    {
+      "segment_id": "page023.block11",
+      "page": 23,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "f6f96a867c442d57996bf37fd4630756ec713e4c22b9354cc342753a17dd7d28",
+      "candidate_text_sha256": "f83ab0b59154134de395f1ad78254d3185de9419a84327013299222ce57c713a"
+    },
+    {
+      "segment_id": "page023.block13",
+      "page": 23,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "b4fbb81b7c83410542cb2cb5ba5c6946eb0b8d539a8b9b8587598399a678857c",
+      "candidate_text_sha256": "82ad3f55e1300005395fd2044ab1258009a37e872503bc67d5358e525a70e83d"
+    },
+    {
+      "segment_id": "page027.block03",
+      "page": 27,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "879a8a910a636ce8fc274bb45c7cba7594192ef9d1919b8fe1f6636407479626",
+      "candidate_text_sha256": "e383570cbf0e9f77d7c3ecc1e8468e3901e84c7dc6973f1ebceeb9578072ec2c"
+    },
+    {
+      "segment_id": "page027.block04",
+      "page": 27,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "b9f9e0ea320f38e1526c83f1328b5daefef04760b8f5160dff4e86d489311c63",
+      "candidate_text_sha256": "2288151ab60e0a953b99ecd277475557ca74239d175a12feaacf96481629dca3"
+    },
+    {
+      "segment_id": "page027.block05",
+      "page": 27,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "40ef227edb1f791880ea7cc4b6842b8feb9c1750be041621899fef46c00febcf",
+      "candidate_text_sha256": "94f1dda86770b832707c6374a0ccf04a3fa0d825b20d52144066dfc5b03779fd"
+    },
+    {
+      "segment_id": "page034.block08",
+      "page": 34,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "c3c346010ff07915e3b8a80c4d62408b414cb0295a5b9b85bce4458b56ffb6b4",
+      "candidate_text_sha256": "0ddaf918ec87f3cebe1e0ecdc21044e986e627a38b9d6b0ef0b1656868b7043f"
+    },
+    {
+      "segment_id": "page037.block08",
+      "page": 37,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "fd3ef3818f04d79cfb2216928fbfd75e33bb7c59c27102f3d8df4dadfa4a8064",
+      "candidate_text_sha256": "216c16b0d9ac71e545e1c2c384df42ab625a4a83e9a9cd160018fe687fd55b30"
+    },
+    {
+      "segment_id": "page045.block13",
+      "page": 45,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "067acfd3554ba466fbf67b9e5669efb3c4b6f254326dea106d17f8bc1216b458",
+      "candidate_text_sha256": "b03c06c010ee29389f613cd5ab944d2ca34cc1fe02a80beb8821675af924468e"
+    },
+    {
+      "segment_id": "page048.block07",
+      "page": 48,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "9c3786b4fd7751b5c4bd5ce4936422654a5efd279c94d4637b3fb17aff2cfd6f",
+      "candidate_text_sha256": "dcce2eea110872fdc6b3e88eff9cd90cb441ad2f6332b224caefcc00cdab9404"
+    },
+    {
+      "segment_id": "page048.block08",
+      "page": 48,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "a79b0d7e9feff57ea6132b552c4142b045e60650245e277f095d0c01c45fa924",
+      "candidate_text_sha256": "2a8d3479d8cdf33018960d968f83802e49d0c339b615689ca84c116df590ba7d"
+    },
+    {
+      "segment_id": "page048.block09",
+      "page": 48,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "8ec090fc74a722be80b63bc78239b5dedfc98cb5c24888c4132646db4cbb9184",
+      "candidate_text_sha256": "fb335af5c90c62e8884084af483bd3ec30b39a425227aa82d4eba322b2b5826d"
+    },
+    {
+      "segment_id": "page049.block09",
+      "page": 49,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "e84dd29315cc8be0fece5102da6b5d1f87145be474caa94644d017f45e9da67c",
+      "candidate_text_sha256": "7061869cf751b29eff95af4eed0d59f59c8f29f8773b8f3acc32f6073b984173"
+    },
+    {
+      "segment_id": "page060.block08",
+      "page": 60,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "8f0dd9d988373e881e3094ae3a5570bbe2e44720f6b949c3e22b109baac64675",
+      "candidate_text_sha256": "071f902b0f07f5fde24b372a82590ee3fdd873de8bd2d5e8d3615c558fb89ee2"
+    },
+    {
+      "segment_id": "page061.block07",
+      "page": 61,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "d0a0c12ccb1a8578d30ff9928c2cb759accf0699e424f47abc5fc1f7997baa81",
+      "candidate_text_sha256": "781d3baf6d0b31388f5a51c170cd640eab0b6119209fb645e5321e3063f7bc12"
+    },
+    {
+      "segment_id": "page065.block16",
+      "page": 65,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "9bba965946b3b85b75da4a95b16c4994ae352ba537e5e82ad129fa9e60c302c4",
+      "candidate_text_sha256": "a75097cb9fa1963a911e0d2bb6f76eaad6016a10594fd35095f4735686aac104"
+    },
+    {
+      "segment_id": "page065.block26",
+      "page": 65,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "5e28c13336bf47e02c8d0b1293f305237bdf49e283611024e1fa52f172d76308",
+      "candidate_text_sha256": "4d5a79b55b20da82c9740f5f2bc438a5b4f197564b41e1e0d16ada9a8ef43644"
+    },
+    {
+      "segment_id": "page065.block27",
+      "page": 65,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "f468becc680b99734625a7685354454b5dc7eb84ee93f5e597fe3e6c4e1491a5",
+      "candidate_text_sha256": "82f6b71937f5d6992d45071347804f54ecae56467d4e8c1b294dafb0a245fe61"
+    },
+    {
+      "segment_id": "page065.block29",
+      "page": 65,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "fb84c0207ee971748c5b2cab1c45a2ad75be061409248ae3ddbfbd029e2c58b0",
+      "candidate_text_sha256": "94a6a120d067103751725c095e609798c8d72278dc9a08698037eaf8977060bf"
+    },
+    {
+      "segment_id": "page065.block31",
+      "page": 65,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "f4eac09798b71de69c018be683946474637fada8f4b8ea2be34bb4e5e86c32f7",
+      "candidate_text_sha256": "8ee95ef264fe88c60745c7921964178b3b200ed58352cf702a255ced583dfec3"
+    },
+    {
+      "segment_id": "page069.block15",
+      "page": 69,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "d56ac6ba8b963d67822fdecd2eb040b2c8a99c6c90d9ad9c64b4e98850e43ad3",
+      "candidate_text_sha256": "3742ac9a42dcfdc67fb0197297927c4a271f79527c6fc58dd61ebb9fdd57cf81"
+    },
+    {
+      "segment_id": "page073.block11",
+      "page": 73,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "d367db87a8c7a7fbabfd65b5d6a5684cdcbfec9864d6e8191623a9eb04089baa",
+      "candidate_text_sha256": "6c9e327ede51271b5528523a285b8af14f38271b235fcf2ed460f29b8ac92184"
+    },
+    {
+      "segment_id": "page080.block05",
+      "page": 80,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "d211184ad10bee2a36455d87014b6fd6f8b86255923a256318248505ac9b463c",
+      "candidate_text_sha256": "4e39e9fd89a40ca318edd4421e46a63a426e4e89db423d5dcb029634d74daefc"
+    },
+    {
+      "segment_id": "page086.block05",
+      "page": 86,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "26a7125a421b32dbfc449e202c7fe74b42635d4d3e147ab5e4a33e1a3cc0b06d",
+      "candidate_text_sha256": "247215f02f7d96ae9690d80916a73dfd9051fac83d5257d9c1ab7fd1888d3328"
+    },
+    {
+      "segment_id": "page086.block06",
+      "page": 86,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "03edc67ceb503c19324ad1d359673281e2be4559df56b24ccc67b37b181e5c61",
+      "candidate_text_sha256": "8f7511848c74abb0978808f108cbb9a2feb67db01e4e26c3e1414a7863530c93"
+    },
+    {
+      "segment_id": "page091.block13",
+      "page": 91,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "53409a7e43695f2d555c0d982711b18a679815dc7d7fd3ef68e9b5a764cdecf0",
+      "candidate_text_sha256": "623de27757920c4946baa8a5edb2525a4546578ea4e4a89c363f036d51c1cfcd"
+    },
+    {
+      "segment_id": "page091.block15",
+      "page": 91,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "bdf5c7c64e630f8f06a710ae24c3f670aaa6f35cf7a0fbef14581d29312805b9",
+      "candidate_text_sha256": "ade1e1729350a717a55214c4905a7ba8ddee8d94c950ab275c9e762c531a58ad"
+    },
+    {
+      "segment_id": "page094.block09",
+      "page": 94,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "f65ce24746963502849f32b2f5067ccdef6f3822a2ee70532aca90af3b27c2ae",
+      "candidate_text_sha256": "f616f93ebfe50768c95a1b9b9bdaaea2daeec7c7acb326b39ea6cfb8d19d4ee9"
+    },
+    {
+      "segment_id": "page098.block16",
+      "page": 98,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "a52a7b01f07288c0eedd53f83ba84d8942ceb373fa1683479bc82d3c30197018",
+      "candidate_text_sha256": "5030f20f8924a247691583d38f6ab1a9575b4f50764ddd2573d6a8685f7c3bd9"
+    },
+    {
+      "segment_id": "page102.block06",
+      "page": 102,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "3eedcf18b2069c31ca37a8d7582762d154403c12c1ddd9893e2d506aba768a91",
+      "candidate_text_sha256": "fd05b8162ce52043e7a62967bdfb3303d89e8f2dd666e3cb760a61d99e240a81"
+    },
+    {
+      "segment_id": "page102.block07",
+      "page": 102,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "d2ca387b38bbfd3d64a19bca8926c56063e1a59b9a8c603764a3ec79325dacc5",
+      "candidate_text_sha256": "0bbb3918e94048b1121ae63b81afe8d182b35a33379a8c00cf39f0f247071c76"
+    },
+    {
+      "segment_id": "page104.block03",
+      "page": 104,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "9e91cce5a06676cab63cdf507d2e803f985b009c4a16f90352949533136de8c3",
+      "candidate_text_sha256": "149cc942851e1f371085e939e3bd36eee854bdfcc9afde9d07d509be05399ea6"
+    },
+    {
+      "segment_id": "page104.block04",
+      "page": 104,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "a0e53e245cc88e55e9f4177bc0f69732fdc2c306b2c604358bf1aa5e1c5c4dd8",
+      "candidate_text_sha256": "a33e792f2d64b2fa0fb47fe82cc0c44c988b35dda3550dd8048ff19abe39985f"
+    },
+    {
+      "segment_id": "page104.block05",
+      "page": 104,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "663d2a2f3b787bb74d34f7da1a96cb4f5b5374c9cd2e01cca44b31cc192d2fe4",
+      "candidate_text_sha256": "622ca1761fd54bb9d5c63bebc64a8edf17f06cf2cfd8024b002b393c38ce7cc3"
+    },
+    {
+      "segment_id": "page104.block06",
+      "page": 104,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "c2893be022737ba3d50d4f1be9edb315660e0f5c252e6af2766790f2a129a72c",
+      "candidate_text_sha256": "8eb50ac82ec6e9025b07131371db93314d814aa23b0b01dfebe93a52606770e1"
+    },
+    {
+      "segment_id": "page104.block07",
+      "page": 104,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "b195fc375ba07dc5ff6bfc3a02b516db6a5d5e2b599a3304ec70b041b1d2c984",
+      "candidate_text_sha256": "c3c7f34520a69170fa1b1a09102976803b5338fc19a75b5c67357253598c3bd3"
+    },
+    {
+      "segment_id": "page104.block08",
+      "page": 104,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "ac5e8e09cbcf8146ff36b44535a5d6ec1651c216f34781e69924660e92551c75",
+      "candidate_text_sha256": "c0c2fefec6d60f1b6817974024d4c3d6a2053855ca56778856abbf7a47cde1a0"
+    },
+    {
+      "segment_id": "page104.block09",
+      "page": 104,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "b4cdd0167d39636c79ec9a9e23e6c80c0e9adec069cce19b04e27433d165c108",
+      "candidate_text_sha256": "4e9af58f72461ca7f33368d4920b1f5251faa211e95e6ab18d323f94e2ade194"
+    },
+    {
+      "segment_id": "page104.block10",
+      "page": 104,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "eca77cef54aef6b8d79e5d93f75466a1bff75f2cef155c9baed115133f69d6c1",
+      "candidate_text_sha256": "7b39e6dae877626c6b7ca69345d64840548e0368b50596357b259b1b043fedfc"
+    },
+    {
+      "segment_id": "page105.block12",
+      "page": 105,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "188a5baecd2f1c2d7d16bdbe25017a1b779e940c61241d55a447c760a1322979",
+      "candidate_text_sha256": "b914173dafaaa4a78cb5c576444484e0b87711dae854bf8b5fcd8b7eb335bb0c"
+    },
+    {
+      "segment_id": "page105.block14",
+      "page": 105,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "6d1ec09d36d9468910f547fc898be0e7d41085f947a7638f4071560a94ecb679",
+      "candidate_text_sha256": "3c531c1184e3367a8cf1507b1ba494c3a2d15704b111bc55ab0d3b8c9ce12b3c"
+    },
+    {
+      "segment_id": "page108.block06",
+      "page": 108,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "080134d039aca63444bcc64c70ab8c05ae85c835ec408b35a5781ab537f46bb7",
+      "candidate_text_sha256": "2b45083fd134b3a2eb3fb0313550959541437aa26dd1ecf33821ed573a04acb7"
+    },
+    {
+      "segment_id": "page112.block03",
+      "page": 112,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "0bf83729c9f3a5ed515c25a299728e4ee7da2c7490a09cf5bb415b6e51eab02c",
+      "candidate_text_sha256": "e07e38cd87a86deba6ac32aa252b81d07aa60cd28fee1c16ca357421ea0382d4"
+    },
+    {
+      "segment_id": "page112.block04",
+      "page": 112,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "2112e509673275813388e451d7eb81d86cff2aa49f7cc407337ede9f4e7a0b33",
+      "candidate_text_sha256": "de3c1fce15207e51bc72a0f5aeb34c108c6f925133d1c69907e39b37cc5fc6b7"
+    },
+    {
+      "segment_id": "page112.block05",
+      "page": 112,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "3d07a52488446789f04e09ff25c07a82af6dfe79ca71b605d804aec0c97c85f9",
+      "candidate_text_sha256": "48f463710a0949b5f5d15b03fabb23549162755159742ca40b611b0ffbced8c5"
+    },
+    {
+      "segment_id": "page112.block06",
+      "page": 112,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "0c2c641eb08c76b53408737d1ebd1cc0f4203304e1e8065e0154b15bdc52ced6",
+      "candidate_text_sha256": "1babdd3383c645e5a8b255bbe8eefc7e42887a7ed3b865c347ee7b9d4bb26275"
+    },
+    {
+      "segment_id": "page112.block07",
+      "page": 112,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "72bc9e52fbe97378fc9b5a9284f9ae547300635140519e16609149b0553d724e",
+      "candidate_text_sha256": "099c0e1450810aab48c3358f95a815f43b963f1e7f1107b0d03a8d96602c8461"
+    },
+    {
+      "segment_id": "page112.block08",
+      "page": 112,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "ac0028bb5dcefe058cd598dae09034827d1ce00ddc7c66e752cb791eacd26114",
+      "candidate_text_sha256": "71030bf24462a875053b4f06a5d54d527cafd374a3fd75947fdce164547af595"
+    },
+    {
+      "segment_id": "page112.block09",
+      "page": 112,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "9b6a90da4ade147b85206144f686355c28e98dc315544a08d74b6b14f59e12ec",
+      "candidate_text_sha256": "7843bbb4db2a6d7dafc2bf7e77d1dd0e5be2e15c2754b069eb4eb88225f9176a"
+    },
+    {
+      "segment_id": "page112.block10",
+      "page": 112,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "a97e3813577dc4651f295cc3977fd6695b4b9d8553213a06cc156e13f3776db2",
+      "candidate_text_sha256": "81a28def16a5d2901f7d6fc707d61ba48492c586059d79c65c061d25e9cd0be4"
+    },
+    {
+      "segment_id": "page112.block11",
+      "page": 112,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "56bb96835920064b1eaa946f498a8a32f8ac74c21e6d5eab9ccdc9bb0aa07a23",
+      "candidate_text_sha256": "d446e16652312da5751a499da344f224a7d9121a7d98ded5558898f60b32c9b3"
+    },
+    {
+      "segment_id": "page113.block13",
+      "page": 113,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "9eb65146b90c815cd808dd07563655af0ab4ee06382cffaaaaccebdd5dbd0433",
+      "candidate_text_sha256": "c44eb30a177cbaac23f92d010a836dd1ac277c0165467ec4fbcf26b7281de02c"
+    },
+    {
+      "segment_id": "page113.block15",
+      "page": 113,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "066e64e845cd3b77759b8e378b3c6c5bc8cc5b64999ae27e5dae6030877eb9bc",
+      "candidate_text_sha256": "908684d6b8f25b423a5593e0f580e5fe4e5789f3a85f5a5a929f881cfcc2e779"
+    },
+    {
+      "segment_id": "page116.block10",
+      "page": 116,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "4b45854ab966fa9e3ac95c0fc8909fa13e4b8b2e9fb40817af8721cc09db0b5e",
+      "candidate_text_sha256": "625635c603801c42b893776cc019db1a8a562db80599e58491d2a9aedcff81d7"
+    },
+    {
+      "segment_id": "page117.block13",
+      "page": 117,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "88dde96cdb683a16f4c6e538725099ea7b21f1ca2d681480aa01dd28cbf06481",
+      "candidate_text_sha256": "07b99ccd93ac25d27792d6d0516daf08d35a1c39c97d051fca98323b5da68e7f"
+    },
+    {
+      "segment_id": "page122.block03",
+      "page": 122,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "d45dfd3f00c4eba6436f03f3cdd5604758f929ac2312e1af62ceb2502246d5fa",
+      "candidate_text_sha256": "b257119bd6ad5016d3bad2316d16112639c0b47f67c585098db72c2a48263cc2"
+    },
+    {
+      "segment_id": "page125.block04",
+      "page": 125,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "87856d9219a3b91b17c348cf3ecbdd1c0794b6e96b901cba39e32f5486b10f48",
+      "candidate_text_sha256": "a21c827c2916e97ba8bb596b477dfc1c5c17c548bbe56c845c0cc0b04e4fa29a"
+    },
+    {
+      "segment_id": "page125.block07",
+      "page": 125,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "716fe36ea83b26a09ae391a9d1cc0e994e53ee536dd485f0f02ddb832d3386f1",
+      "candidate_text_sha256": "879a9525a0630931ca8b431f86487fc08ecf78ef07d20fce872d87310e097c41"
+    },
+    {
+      "segment_id": "page125.block08",
+      "page": 125,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "01ddcb3132f57b4287140653e773acba8b981f019e3814f8bb6a1c274bf926b3",
+      "candidate_text_sha256": "cb02251bc759e6808b2f56966ec432ba3eacef53cd0accc582c95099fce03a7b"
+    },
+    {
+      "segment_id": "page125.block09",
+      "page": 125,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "92f5395c4fc63f2aa44dfc77f85a2e854a8b257f12e3fdd4ef9d639c61abdd79",
+      "candidate_text_sha256": "e6f06b10aa064fc163b52d7b7ba123708bf38168c323fd976d875d8559cd8c4e"
+    },
+    {
+      "segment_id": "page125.block10",
+      "page": 125,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "4165af8ad47fd9a24e7e7edb011605f54a8167d25c632b49f0187ccb60ee897c",
+      "candidate_text_sha256": "d25249a38a42998f4ff5e15cf7455231d6f8ff7d13e28a700d543b19343ed76b"
+    },
+    {
+      "segment_id": "page128.block09",
+      "page": 128,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "c78919f6217d8dc8dcc7fc40b676e782df79caded32011bde68ad78e6878c57c",
+      "candidate_text_sha256": "e29187a3dcb4a5e81971f02aaeae40ec45f8f8578de6a4b83b2a333425b7c70d"
+    },
+    {
+      "segment_id": "page128.block13",
+      "page": 128,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "d53bbac7c4b977abb05d4ae348f9daaa0918e802104d79f103cd9c2ec795393d",
+      "candidate_text_sha256": "017644fd8c119c5f19de2848ac7fd7db92d8a5858f80a45723f6b4e3c6b85d96"
+    },
+    {
+      "segment_id": "page130.block03",
+      "page": 130,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "a4a44133bef798106fd3b99e693ff53a7ad024e0811a4d4c3267f0b14380b349",
+      "candidate_text_sha256": "c747c2abbd61d6eedd43bdab3412c184b6bb6650ea4e6da91db6339da921d70b"
+    },
+    {
+      "segment_id": "page132.block09",
+      "page": 132,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "217c2ee12385985e48f8f284df0e5f6c8dfdfc1cc757fa9493e8b092dbc3d5dc",
+      "candidate_text_sha256": "616e445520b5120bbc0b7d6685ac36093f5b5128cbe290bfbfc6b85663806699"
+    },
+    {
+      "segment_id": "page137.block05",
+      "page": 137,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "77b9254798dede920cdf129451d26e003976bd950c6a8ef38faed7553a5b8e5f",
+      "candidate_text_sha256": "73f74fb8ee512152adbded8f84614c10b4bbbf8a0ce1ab99ee2c7e22807a7387"
+    },
+    {
+      "segment_id": "page137.block06",
+      "page": 137,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "d18691f124dc858793e5091ccc92daa3f69ab1e1568d9d5789d69164aad0639a",
+      "candidate_text_sha256": "ce2499824d6439a2af9dc64925a286a121ef1931eab2f07128ac0f2563214da4"
+    },
+    {
+      "segment_id": "page137.block07",
+      "page": 137,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "c502335efb994c982a4814778de41a8be0bbba380b36a3ef1d991b60f033e03c",
+      "candidate_text_sha256": "29904ad6aac3228b70dd1bc222d302c7fe66976952f32887bc50844207bd5b11"
+    },
+    {
+      "segment_id": "page137.block08",
+      "page": 137,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "1b0fd717f3183e43c1545f453dfa62c8ee876fbde57bd7f05b38c8491c4e445a",
+      "candidate_text_sha256": "028c19f5875ec97d98828f15178c053025cc47e0d93844134596a0cd481e5595"
+    },
+    {
+      "segment_id": "page137.block09",
+      "page": 137,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "234e0341e777dcd194931a22ade8f06281129f65cd7f7557e58a03ebc61aeaad",
+      "candidate_text_sha256": "1d3bef4820272cff857167a7077cdbede808aca319db2d7b06bb7c213800b2c6"
+    },
+    {
+      "segment_id": "page138.block05",
+      "page": 138,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "5cd7917de2a5b0c50958705925073d40769d69db172ecdca7d085ce7bf623c1b",
+      "candidate_text_sha256": "6559f0ae909dd847b55ea5b56782bb660c83e6637f2f26d5734d7cbe4dcc9855"
+    },
+    {
+      "segment_id": "page138.block06",
+      "page": 138,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "bad962a0bbbacb59cf27c97df5a5b94edff2d717c0964a44d0efd703c591d51a",
+      "candidate_text_sha256": "6f5e0dc114aab3a231d4e0527588bb2b582274f8560f4dcb81dd826447a3fe5f"
+    },
+    {
+      "segment_id": "page138.block07",
+      "page": 138,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "f39cd65e611a715abe22bd5cdb17539d31eb526c19009fa4c5b48acc20a7bc41",
+      "candidate_text_sha256": "9bafab93dc8cd5d5454735f5858f2656c2a54a91d873d01566a790b933208fe0"
+    },
+    {
+      "segment_id": "page140.block10",
+      "page": 140,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "ee545a450452689a6eb7e85bb31a74cbd38d67b7e64dcdcd6f03e9897afd5a2f",
+      "candidate_text_sha256": "d628c7415dbaf366e0bcb80f3f9e07e6bbffb49bbae2ff8a83d1a799a47a97e4"
+    },
+    {
+      "segment_id": "page142.block12",
+      "page": 142,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "baa645cdb24f19ed88632a8a01b59e88e505aa03f41ac6b18d3a18c04ca38be7",
+      "candidate_text_sha256": "706d4be4649f9369a6753750447db0baccfbad7d2f667d011b07dedef0148348"
+    },
+    {
+      "segment_id": "page145.block17",
+      "page": 145,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "df8c0c2660e55b89e81dd1e1db5b6a58b16fd3a9f32bd3de70dd42befc56d2d0",
+      "candidate_text_sha256": "a61a37fbf42164db2dbbfc2175b64895539ac7293f1d221a6f28d3994e956697"
+    },
+    {
+      "segment_id": "page158.block07",
+      "page": 158,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "0ea3aab8927cad010b8775e9320975a309177c76ce7e3cab4bb30c7cfdc64d22",
+      "candidate_text_sha256": "ac4a13bb18e0e87aaaff1ffad92a6cbdc5965bf1880a95cf65a89e558849b762"
+    },
+    {
+      "segment_id": "page158.block08",
+      "page": 158,
+      "status": "PASS",
+      "scope": "Reviewed in assembled page and dependency context; unchanged prior-reviewed text verified by exact unit SHA. For page122.block03, targeted V4 closure read against p123 evidence list.",
+      "source_text_sha256": "6b84ca09508704f532996256102867a3d41cff1753c8e4a7bea6639098958389",
+      "candidate_text_sha256": "7f75655fe2d3058eac6836b4955cbe79ddf523b298653533b6f44fc2fbf6dde7"
+    }
+  ],
+  "numeric_page_audit": [
+    {
+      "page": 9,
+      "authorized_addition": "06: empty-hook setup restored"
+    },
+    {
+      "page": 80,
+      "authorized_addition": "0: exact RULE 0 FIRST line restored"
+    },
+    {
+      "page": 130,
+      "authorized_addition": "13: Case Wall save destination restored"
+    }
+  ],
+  "limitations": [
+    "No independent exhaustive spatial uniqueness proof was performed for every map. This review preserves and backchecks the existing designed evidence and printed solutions.",
+    "This text receipt does not establish surface fit, rebuilt-PDF geometry, print readiness, owner content approval or release authorization.",
+    "Receipt binds only the named candidate SHA-256. Any later candidate wording change requires bounded re-review and a new hash-bound receipt."
+  ],
+  "figure_hash_checks": [
+    {
+      "page": 18,
+      "sha256_match": true
+    },
+    {
+      "page": 21,
+      "sha256_match": true
+    },
+    {
+      "page": 24,
+      "sha256_match": true
+    },
+    {
+      "page": 25,
+      "sha256_match": true
+    },
+    {
+      "page": 29,
+      "sha256_match": true
+    },
+    {
+      "page": 33,
+      "sha256_match": true
+    },
+    {
+      "page": 39,
+      "sha256_match": true
+    },
+    {
+      "page": 43,
+      "sha256_match": true
+    },
+    {
+      "page": 47,
+      "sha256_match": true
+    },
+    {
+      "page": 51,
+      "sha256_match": true
+    },
+    {
+      "page": 55,
+      "sha256_match": true
+    },
+    {
+      "page": 59,
+      "sha256_match": true
+    },
+    {
+      "page": 63,
+      "sha256_match": true
+    },
+    {
+      "page": 67,
+      "sha256_match": true
+    },
+    {
+      "page": 71,
+      "sha256_match": true
+    },
+    {
+      "page": 75,
+      "sha256_match": true
+    },
+    {
+      "page": 79,
+      "sha256_match": true
+    },
+    {
+      "page": 80,
+      "sha256_match": true
+    },
+    {
+      "page": 85,
+      "sha256_match": true
+    },
+    {
+      "page": 89,
+      "sha256_match": true
+    },
+    {
+      "page": 93,
+      "sha256_match": true
+    },
+    {
+      "page": 97,
+      "sha256_match": true
+    },
+    {
+      "page": 101,
+      "sha256_match": true
+    },
+    {
+      "page": 107,
+      "sha256_match": true
+    },
+    {
+      "page": 111,
+      "sha256_match": true
+    },
+    {
+      "page": 115,
+      "sha256_match": true
+    },
+    {
+      "page": 119,
+      "sha256_match": true
+    },
+    {
+      "page": 123,
+      "sha256_match": true
+    },
+    {
+      "page": 127,
+      "sha256_match": true
+    },
+    {
+      "page": 131,
+      "sha256_match": true
+    },
+    {
+      "page": 135,
+      "sha256_match": true
+    },
+    {
+      "page": 139,
+      "sha256_match": true
+    }
+  ],
+  "prior_candidate_sha256": "d8f3cb27b85e7f2579096e494b7b71fa62a3939c403fa52ec99222aead9f85fc",
+  "run_sha256": "a5e5fec3aad490b2177cf40a1cba1190bfd1790082ce788ea99b3daa74cab8f6"
+}

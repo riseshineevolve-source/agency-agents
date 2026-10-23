@@ -1,0 +1,146 @@
+{
+  "reviewer": "actual independent agent /root/v6_puzzle_review",
+  "reviewed_utc": "2026-10-21T14:29:20.362559+00:00",
+  "stage": "exact V6 bounded text meaning/mechanics/logic/backcheck and repaired-case dependency review",
+  "candidate_path": "detective-v6/candidate/candidate.json",
+  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "status": "PASS_EXACT_TEXT_MECHANICS_AND_LOGIC__ACTUAL_ART_PIXELS_PENDING",
+  "dimensions": [
+    "meaning",
+    "mechanics",
+    "logic",
+    "dependency_closure"
+  ],
+  "scope": "27owner-authorized units and relevant neighbor/hint/solution/archive/Case26/Case30 closure; accepted V5 outside scope inherited, not claimed rereviewed wholebook.",
+  "findings": [
+    {
+      "id": "V6-C03-CAPTIONS-AND-REVEAL",
+      "status": "KEEP",
+      "scope": [
+        "page024.block04",
+        "page025.block04",
+        "page027.block04",
+        "page027.block05"
+      ],
+      "finding": "External labels only PHOTO A/B and no numbers/chronology. First number reveal now derives from evidence-case labels INSIDE photographs after task, with paper packet confirming071older. No lost caption reference remains. Ten-difference inventory and archive callbacks preserved."
+    },
+    {
+      "id": "V6-C02-UNIQUE",
+      "status": "KEEP",
+      "scope": [
+        "page020.block04",
+        "page020.block08"
+      ],
+      "finding": "Explicit whole-grid corner plus local same-room shared-edge beside exactly matches independently unique model; marker-led usability avoids object-category guesswork. Hints and solution retain DaxD2 and all six original placements."
+    },
+    {
+      "id": "V6-C07-UNIQUE",
+      "status": "KEEP",
+      "scope": [
+        "page042.block04",
+        "page042.block08",
+        "page042.block09",
+        "page042.block10",
+        "page190.block11"
+      ],
+      "finding": "Authorized explicit C2metal-frame anchor and added grid-distance explanation resolve missing referent. All three visible wheeled cases considered rather than choosing by answer. Local shared-edge/same-room beside yields sole intended six-place roster. Solution wording correctly matches new wheeled-equipment-case referent."
+    },
+    {
+      "id": "V6-C10-UNIQUE",
+      "status": "KEEP",
+      "scope": [
+        "page054.block03",
+        "page054.block04",
+        "page054.block08",
+        "page154.block07"
+      ],
+      "finding": "Unique visible wheeled robot arm in RoboticsLab isB6. Local beside and symbol-led key agree with independent model. Newhint uses same referent and does not give away witness square. Sole intended seven-place roster/EmberD5 retained."
+    },
+    {
+      "id": "V6-C15-UNIQUE",
+      "status": "KEEP",
+      "scope": [
+        "page074.block04",
+        "page074.block05",
+        "page074.block07",
+        "page074.block08",
+        "page074.block10",
+        "page074.block12",
+        "page164.block09"
+      ],
+      "finding": "Previously flagged legacy stoolkey corrected to marker-led usability; MiloA1 pooltable usable by visiblecircle. Both NErelationships now explicit independent positive row/column offsets. Cruz adjacency same-room/sharededge and Ineznegative quantification precise. Exactly one intended roster/HarperD2."
+    },
+    {
+      "id": "V6-C20-UNIQUE-ART-CONTRACT",
+      "status": "KEEP_TEXT__ACTUAL_MAP_PIXELS_PENDING",
+      "scope": [
+        "page096.block03",
+        "page096.block05",
+        "page096.block06",
+        "page096.block07",
+        "page165.block11"
+      ],
+      "finding": "Sidlowerrow, Paxlowerrow/rightcolumn, Lucatouchingdiagonal exactly match independent equations. Explicit allthreebunksE5/E7/F7usable coherent and independently stillunique. Requires actual open-circlepatches E7/F7 on unsolved97 and solved211 before illustrated-source acceptance; this review does not claim thosepatches already rendered."
+    },
+    {
+      "id": "V6-C26-C30-CLOSURE",
+      "status": "KEEP",
+      "scope": [
+        "page122-124",
+        "page137-147",
+        "page225"
+      ],
+      "finding": "Allfive independently solved intended rosters unchanged; emptyroom initialsC/C/K/E/D from cases02/07/10/15/20 retained, so14-case CHECKTHEOLDMAP chain preserved. Finale225fields and archive071callbacks byte-identical to acceptedV5."
+    },
+    {
+      "id": "V6-BOUNDED-SCOPE",
+      "status": "KEEP",
+      "scope": [
+        "page020.block04",
+        "page020.block08",
+        "page024.block04",
+        "page025.block04",
+        "page027.block04",
+        "page027.block05",
+        "page042.block04",
+        "page042.block08",
+        "page042.block09",
+        "page042.block10",
+        "page054.block03",
+        "page054.block04",
+        "page054.block08",
+        "page074.block04",
+        "page074.block05",
+        "page074.block07",
+        "page074.block08",
+        "page074.block10",
+        "page074.block12",
+        "page096.block03",
+        "page096.block05",
+        "page096.block06",
+        "page096.block07",
+        "page154.block07",
+        "page164.block09",
+        "page165.block11",
+        "page190.block11"
+      ],
+      "finding": "3067stableIDs retained; exact27delta matches owner-authorized ledger,3040texts unchanged, allbefore/aftersha values checked. No new ordinary prose rewrite, globalbeside rule, witnessalias, solutioncoordinate or finaltoken change."
+    }
+  ],
+  "open_text_findings": [],
+  "illustrated_gate": "Case20unsolved97/solved211actualE7F7circlepatches and finalillustratedlayout not yet supplied.",
+  "not_claimed": [
+    "new wholebook native-language review",
+    "actual corrected map-pixel inspection",
+    "productionimport",
+    "layoutfit",
+    "physicalprint",
+    "PRINT_READY"
+  ],
+  "evidence": {
+    "independent_script": "reviews/puzzle-initial/independent-enumeration.py",
+    "independent_results": "reviews/puzzle-initial/independent-results.json",
+    "assertions": "reviews/puzzle-final/assertions.json"
+  }
+}

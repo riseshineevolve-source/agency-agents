@@ -1,0 +1,248 @@
+{
+  "canonical_candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "current_V8_proof_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "previous_verified_V8_proof_sha256": "40c38884d5732b74f3766aaa4a26938069b82b5eeb497ee0e5a1ea17597d8ce2",
+  "page_count": 225,
+  "purpose": "Read-only verification after folio148 border-only repair. No new content review or puzzle solving.",
+  "root_border_receipt": "proof/PROOF_BORDER_CLOSURE.json",
+  "verification": "Read root receipt and verified new PDF/candidate hashes. Independently rendered all47 evidence and answer-art leaves at same1.5xRGBsettings and compared exactpixel SHA256 against prioractual40c/V7binding.",
+  "all47_current_evidence_and_answer_art_renders_exact_match": true,
+  "results": [
+    {
+      "folio": 18,
+      "render_sha256": "8dd54bb063c31283a4491291f2fcdf0a14e6545663785d1dd5fce42dbd46a6b9",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 21,
+      "render_sha256": "11bb2a077821ada5f12c126d4b330fee979f5132ba65b1b1c005c8159ff8f160",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 24,
+      "render_sha256": "1106427622d6fce80a40102b1ddb77dded741c4e4e3db0e00b5f4fad9406b943",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 25,
+      "render_sha256": "caa41a3786fff5a44fa18a98dca8aa49d0966206452e60dc3d65746578ee4fcb",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 29,
+      "render_sha256": "2ba7a97ddb0cc1f82a7d2bbcc468fc3618cb3d39d99b3d4d431c5f39d97ccdb3",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 33,
+      "render_sha256": "759341b9ba07636ad5b43dfb4b8cb27956bc1de532888d15b36bed8c5b99f70a",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 39,
+      "render_sha256": "6c54453a9f461a412255ac621351dea29a25b266a8522589c98e6819b8977c4f",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 43,
+      "render_sha256": "0c83461c73aedad22e7f3bf2e8946e6cb07bc5f1e581d66b7f57eedd78cce8c5",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 47,
+      "render_sha256": "f627bd62f5828a04d9f24e7f955f7de4724667a2381ea5010e89e4a4e722ec33",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 51,
+      "render_sha256": "f7a41240349f3437c7a31dd278d16a00f7cf6885f9865f8e728d96c2e2a1ea0e",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 55,
+      "render_sha256": "cf1083de5f2634a000321e7a9389e21fe48aed9dfed3f2f8dfa28078ffb0e306",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 59,
+      "render_sha256": "209c3cff55bcaa298eec75268a42d74a3a5247f8fedbc057d7143fa2ed94eaec",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 63,
+      "render_sha256": "21a7b8e02db65d5d04bb867d5488fd907c93b97bbb05998de7c8db3757e054cf",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 67,
+      "render_sha256": "051f018b2513eecb05b1c3b305c62a509a4564c7934ee22568b0ade75af497ca",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 71,
+      "render_sha256": "509c46d9a425e15dc2ed07a6f908817136d62cf9ee2598c144c4377bedbbaf7a",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 75,
+      "render_sha256": "b007357bb3a596d7098b4caecae065ee1562559775d787d2d3f5a9f2378c2cca",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 79,
+      "render_sha256": "1f58b1dbb6df4a1dbcea1532424eace722bfd031fdc17a40f1de157ca1cda851",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 85,
+      "render_sha256": "aa74c221891a0ee4f24d761c796d9f5c2a5a8dba5b63a5ffe0e5fa6889f46b4c",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 89,
+      "render_sha256": "e1091cf209d1c6d3d63efff9a5c1613038d62bcf9fe49d7280eae710413de529",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 93,
+      "render_sha256": "601af8713f098fa67d351af44a3c644507ddd01eee60bd378b51c8de51c77baf",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 97,
+      "render_sha256": "1681e7df2c6394d81b0f082211b4b32b91357dc8dd2acc0f2d763724e97dd78b",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 101,
+      "render_sha256": "8a6a46d91c3b7cbf6c656449ba8ea0d1a85dd1f41d4676b5b76482f1dfe73b01",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 107,
+      "render_sha256": "b1796b280d07f4e3d65a9e58e4afe37ab67b1d4432eb8fb11a13a14685971226",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 111,
+      "render_sha256": "15f3156346a43f513c3bee061724813fba2dbd25c94b744cb1cf250059624115",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 115,
+      "render_sha256": "7786d2fc9c2072e37727d6e2e606f9ad9f362d97e3cffe0ba8bdcb810d4dbd52",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 119,
+      "render_sha256": "5129d0ef7629cbda5f905b99acc73eb93ca453ed3fb93cf97a1ecde15bdaebfe",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 123,
+      "render_sha256": "a10006fed5bb61070fe997c369002e255a0156bcab3f7f9b87c20943782c738e",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 127,
+      "render_sha256": "f5438e2e0d6c2398d072e875dc8e457c53051a21dc14a81fa9dc38e6e6cf60f7",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 131,
+      "render_sha256": "82ab1b4486153b0dd904222a720cffe10240e4b4449f9c64cd002183a886d1cc",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 135,
+      "render_sha256": "b76bd8523548a801c30448fff38a540c2b86472bd1ca165a3b25ff2da832b6de",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 139,
+      "render_sha256": "1014e142dd147737e8e3d9e9ae597705472a7bca76ca6aa0e9f3809c1804071a",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 180,
+      "render_sha256": "24bfce6340005bf6c859899a732acb98806668a3c8a2286ac347f82b83f65095",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 182,
+      "render_sha256": "3f334f68d3e3cb2ba88f8b51e5d37de928c81619690c219895b9b8bcbed13156",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 186,
+      "render_sha256": "2ec2d7d06950c73c0b4d214d606047c79bbde3781e315c7abff03b077452dbd2",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 189,
+      "render_sha256": "99abf7d07e9bc943982348834b50c7add2ebaa62b8e8594f38aedb8967604afd",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 191,
+      "render_sha256": "d292c3e0893258c5254eef5db0e04f3a6cf76c240f034aacbc3f93b637fe3ce1",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 195,
+      "render_sha256": "262e9e5080888cb11449f1d8faa9e4d7f468b7eb0e94ecd5f16ebf04ce7ae71a",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 198,
+      "render_sha256": "58905e6290bbf213708cd34d4065a8b3a74bfd2d6b01d3b8240207eb3b8a70b4",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 200,
+      "render_sha256": "bdbbf7ee15c33fe6f4c40bfdddecfb63068369e0be1f6d4b645ed837ca59ed22",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 203,
+      "render_sha256": "a7098d7c7dadd4413dab6fe537e2e36a6eab6cc46e0b7a6afd1d78c63905e5ec",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 206,
+      "render_sha256": "baf042d37d465ea46ddd4932f8c4a04dadefb7751f64e1f01c7be70ca515aa16",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 209,
+      "render_sha256": "c7fe07857baecef3b0ecdc5baefb62743ca0ef797d9d8c8657fc1763b86359fd",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 211,
+      "render_sha256": "d480ecee5da362b2fba7e17d908b5012c988dfe0afe6cbd1add459069d2cfed1",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 214,
+      "render_sha256": "5e1529462cc4e5dc530d39466062b81e724d6b7fff4519741213dbd689800f1d",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 216,
+      "render_sha256": "1fb603aec6eef11e1245ea3ea65aaf4b4beeb28978fbbd844d46e7184c86d8d5",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 219,
+      "render_sha256": "3088268ec447c24b5b801b1419122e8fe1a63591a4d21b29d50e3bc445a403d7",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    },
+    {
+      "folio": 224,
+      "render_sha256": "30a0445b5fa6b19622107925623b4c7d5c1a72a77a862a911e652c81da6653e5",
+      "current_67278523_matches_prior_40c38884_and_inspected_V7": true
+    }
+  ],
+  "disposition": "PASS_CURRENT_PROOF_CARRYTHROUGH"
+}

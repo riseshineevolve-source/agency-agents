@@ -1,0 +1,121 @@
+{
+  "reviewer": "case12_geometry",
+  "review_type": "actual independent bounded native-language and audience delta review",
+  "reviewed_utc": "2026-10-21T11:07:32.496789+00:00",
+  "candidate_path": "detective-upgrade/candidate/candidate-v5.pending.json",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "base_candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "stages": [
+    "native_language",
+    "audience"
+  ],
+  "status": "PASS",
+  "scope": {
+    "changed_ids": [
+      "page207.block05",
+      "page212.block05"
+    ],
+    "unchanged_text_units": 3065,
+    "same_full_id_sequence": true,
+    "source_visual_inspection_folios": [
+      207,
+      212
+    ],
+    "nearby_text_and_dependency_review": [
+      "Full solution text207 and212",
+      "Case18instructions88; evidence89 extracted content and independent corrected-time finding; hints156/165/174",
+      "Case21physical-order independent review inherited as source evidence; hints157/166/175"
+    ],
+    "exact_allowed_delta": "Three U+0000 separators replaced by ASCII hyphen in each of two answer lines. Six character substitutions total. No letters, letter order, message, facts or neighboring wording change."
+  },
+  "findings": [
+    {
+      "id": "NATIVE-207-SEPARATOR",
+      "stage": "native_language",
+      "status": "PASS",
+      "segments": [
+        "page207.block05"
+      ],
+      "evidence": "Actual original207 shows three missing-glyph boxes between A B C D. Pending A - B - C - D is conventional readable sequence notation, consistent with following The only order is A,B,C,D and the corrected times15:15/15:16/15:17/15:18. No prose wording or letter order changes."
+    },
+    {
+      "id": "NATIVE-212-SEPARATOR",
+      "stage": "native_language",
+      "status": "PASS",
+      "segments": [
+        "page212.block05"
+      ],
+      "evidence": "Actual original212 shows three missing-glyph boxes between B D A C. Pending B - D - A - C matches literal hyphen notation already printed in HintLevel3 p175 and following joins B\u2192D\u2192A\u2192C. The complete-message sentence after semicolon remains exact."
+    },
+    {
+      "id": "AUDIENCE-ANSWER-CLARITY",
+      "stage": "audience",
+      "status": "PASS",
+      "segments": [
+        "page207.block05",
+        "page212.block05"
+      ],
+      "evidence": "For the established8\u201312audience, readable link separators remove typographic distraction from the final answers. Existing instructions explicitly ask for chronological record letters or physical scrap order, so the hyphens do not create a new subtraction task, rule or earlier spoiler. No voice, humor, age register or family relationship changes."
+    }
+  ],
+  "baseline_review_reuse": {
+    "meaning": "Existing whole-candidate receipts remain evidence only for their exact accepted V4 and the3065byte-identical texts. This actual delta receipt covers new V5 native/audience changes; a separate meaning/logic delta review is required for complete V5 closure. No stale receipt is relabeled as a full new review.",
+    "baseline_four_stage_evidence": [
+      {
+        "stage": "native_language",
+        "status": "PASS",
+        "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+        "evidence_file": "qa/review-native-voice.json",
+        "evidence_sha256": "aed832165ad279ba08149d007b968ce1ba38e621e18810e3a79468375a80ddff",
+        "evidence_hash_matches_recorded_receipt": true
+      },
+      {
+        "stage": "audience",
+        "status": "PASS",
+        "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+        "evidence_file": "qa/review-native-voice.json",
+        "evidence_sha256": "aed832165ad279ba08149d007b968ce1ba38e621e18810e3a79468375a80ddff",
+        "evidence_hash_matches_recorded_receipt": true
+      },
+      {
+        "stage": "meaning",
+        "status": "PASS",
+        "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+        "evidence_file": "qa/review-truth-mechanics.json",
+        "evidence_sha256": "91a281502ec114921f481f67372f11f0d40112824aa45f2de1f2834b8cee65e9",
+        "evidence_hash_matches_recorded_receipt": true
+      },
+      {
+        "stage": "logic",
+        "status": "PASS",
+        "candidate_sha256": "ec93cfc7a99257113fe33d6536574d2d6889c969ec68dac69ca97ad26010a55e",
+        "evidence_file": "qa/review-story-logic.json",
+        "evidence_sha256": "ffe91d3d60c6eb3f3503720b7ea2afecfa28cfc85c0481407ab3cd2afafc6287",
+        "evidence_hash_matches_recorded_receipt": true
+      }
+    ]
+  },
+  "limits": [
+    "No new whole-book rewrite or fresh whole-book native reading performed in this bounded repair.",
+    "Original rendered PDF was visually inspected; pending candidate was reviewed as exact JSONtext. A new illustrated final-candidate render must verify glyph appearance and fit.",
+    "No print approval, content freeze, source-caption chronology decision or release authorization.",
+    "Other geometry/source gates remain unchanged; this review does not approve a different candidate hash."
+  ],
+  "mutation": {
+    "candidate_edited_by_reviewer": false,
+    "production_changed": false
+  },
+  "visual_evidence": [
+    {
+      "source_folio": 207,
+      "local_png": "detective-upgrade/geometry-audit/separator-review-renders/p207.png",
+      "sha256": "848dee81b68559a11a3e63dadf96e8b1458003a89be73d93c3f280ec11bf1e29"
+    },
+    {
+      "source_folio": 212,
+      "local_png": "detective-upgrade/geometry-audit/separator-review-renders/p212.png",
+      "sha256": "c11987861fe07a871378332e052dffc08acf00b56f6ecf06a1916e6225ea81ac"
+    }
+  ]
+}

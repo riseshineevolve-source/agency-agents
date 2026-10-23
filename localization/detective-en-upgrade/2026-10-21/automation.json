@@ -1,0 +1,8 @@
+{
+  "automation_id": "6ad877735e0481918f42f96b3c8a6e08",
+  "schedule": "BEGIN:VEVENT\nDTSTART:20261021T095943Z\nRRULE:FREQ=HOURLY;COUNT=24\nEND:VEVENT",
+  "setup_state": "ACTIVE_CONFIRMED",
+  "scope": "Autonomous continuation with one writer lease; completed proseKEEP, no automatic wholebookrewrite/publishing",
+  "default_timezone": "America/Los_Angeles",
+  "is_enabled": true
+}

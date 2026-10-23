@@ -1,0 +1,472 @@
+# Happy Makers Comms
+
+The Mystery of Room Zero
+
+
+## Meet the Happy Makers
+
+**MIMI:** I've got a plan. Three clear steps, one shared folder... and a phone I appear to have filed somewhere exceptionally secure.
+
+**LULI:** Please tell me the plan isn't on the phone. I've brought an emergency book, but it doesn't cover this.
+
+**DILO:** I can help make it beep. If it's in your hand again, though, I'm counting that as my quickest solve.
+
+
+## Your Case Wall
+
+**DILO:** I can fit all my theories on that wall. I may have to write small around the really important ones.
+
+**LULI:** And the evidence? Or is that going to have to book an appointment?
+
+**ALIO:** We could put in a small shelf. Then the theories would look established, even the ones we made up five minutes ago.
+
+**NINI:** For the theories? Mine needs a cushion. It's been standing around waiting for a fact.
+
+**BIBI:** A question mark would be more useful. Then I can tell which ideas still need checking when I come back with the next file.
+
+**MIMI:** No cushions on the Case Wall. Detective, bring your notes over here. This family has plenty of imagination; let's leave some room for what we can actually prove.
+
+
+## Case 01
+
+**MIMI:** Internal stock. No courier. Good. We can check who was at Delivery without inventing anyone new.
+
+**ALIO:** Or we investigate my leading theory: a secret tunnel and a minivan. Very efficient. Very suspicious. I haven't decided who drives.
+
+**LULI:** A tunnel, a minivan, and zero evidence. Impressive start, Alio.
+
+**NINI:** Let's park the minivan for a minute and follow the facts first. Detective, there's room for your notes here.
+
+**DILO:** Good. It was blocking mine. If a tunnel turns up later, we'll apologize to the minivan. Until then, it stays in the margin.
+
+
+## Case 02
+
+**ALIO:** The Cup has returned itself with suspiciously good posture. Look at it. You'd think it had never left.
+
+**LULI:** It was signed out, Alio. That's allowed. Being polished afterwards is rather grand, but still not a crime.
+
+**ALIO:** Then I withdraw my complaint about the Cup. Its paperwork, however, is doing an excellent impression of a blank page.
+
+**MIMI:** Better. We need someone who can help explain the missing handoff, not a confession from a trophy. I'll put the return sheet beside your map.
+
+**NINI:** That may be Alio's fastest promotion from theory to useful question. You take the map, Detective. I'll watch the extremely well-behaved Cup.
+
+
+## Case 03
+
+**NINI:** The trophy shelf is trying very hard to look important. I've appointed its brightest sparkle Inspector Glitter.
+
+**LULI:** Has Inspector Glitter found a difference between the photographs, or has it mainly been admiring its own reflection?
+
+**NINI:** Mostly admiring. A difficult first case. I'll compare the pictures while it recovers from not being in charge.
+
+**DILO:** Should I be worried about my job? I can stand by a shelf looking important. I've practiced.
+
+**LULI:** Only if you start shedding glitter. Pass me Photo B, please. Let's give the whole room a proper look before the shelf gets any more attention.
+
+
+## Case 04
+
+**DILO:** That is a very suspicious black box. It's arrived at the wrong tent without looking remotely sorry.
+
+**MIMI:** It's a labeled evidence box. The seal is intact. Let's save the interrogation voice for somebody who can answer.
+
+**DILO:** Exactly. Suspicion with paperwork. You have to admire the preparation.
+
+**NINI:** Please don't interrogate the box before the people. Who was with Pixel? That's someone we can actually ask.
+
+**ALIO:** May I stare at the box professionally while we find out? I think it's avoiding eye contact.
+
+**MIMI:** You've been doing that for a full minute. If it blinks first, it can wear your helmet.
+
+
+## Case 05
+
+**DILO:** I challenge you to beat my locker. I've given it a very stern talk about not embarrassing me.
+
+**LULI:** Does it know this is a competition? Or have you challenged a door without telling the door?
+
+**DILO:** It has been briefed. Begin when you're ready, Detective. The locker and I have cleared our afternoon.
+
+**LULI:** Then we shall read its clues politely. I'd hate to frighten it into forgetting its own code.
+
+**NINI:** If the locker wins, does it get a badge? We'd need somewhere to clip it.
+
+**DILO:** Absolutely not. Conflict of interest.
+
+
+## Four Matching Marks
+
+**DILO:** Four marks. One incomplete route. Does this printer ever send anything straightforward? 'Dear Dilo, here is the answer' would be a refreshing change.
+
+**LULI:** You'd complain there was nothing to solve. Then you'd check the back in case it had hidden the interesting bit.
+
+**NINI:** Could it at least send something with a name? I've got 'the thing', 'the other thing' and 'the thing we mustn't lose'. My notes are becoming very unhelpful.
+
+**BIBI:** I'll take these to the archive. Names, dates and something to compare them with. If the printer asks for me, tell it I'm checking its references.
+
+
+## Case 06
+
+**NINI:** I had emotionally prepared for a dragon tooth. There was going to be a drawing. Possibly a very impressive warning sign.
+
+**LULI:** So had I. None of my plans involved stirring soup with a Roman spoon.
+
+**NINI:** Perhaps the dragon was a cook. We haven't checked its qualifications.
+
+**DILO:** That explains the spoon. My history book's missing the chapter about Roman dragon chefs, though.
+
+**LULI:** We have a label and an object that disagree. Let's ask about that before we rewrite history.
+
+**BIBI:** A relief. I've only just put history back on its shelves.
+
+**NINI:** Can we keep the dragon in the margin? Pencil only. I know you're going to ask.
+
+**BIBI:** Good. Leave me room to object. You take the room record, Detective; we'll keep the imaginary dragon out of your way.
+
+
+## Case 07
+
+**MIMI:** Alio, how many cupboards have you checked? Please tell me we're counting cupboards, not dramatic entrances.
+
+**ALIO:** Only the dramatic ones. I opened the last one very slowly in case the moon was hiding behind the coats.
+
+**NINI:** The moon costume is larger than most cupboards. If it were behind the coats, the coats would be standing in the corridor.
+
+**ALIO:** Excellent. We've eliminated the little cupboards. I knew all that slow opening would produce results.
+
+**MIMI:** A triumph of fieldwork. Let's check the room record next. The brooms and I are running out of conversation.
+
+
+## Case 08
+
+**ALIO:** My route is beautifully straight. No unnecessary turns, no wasted walking. Very impressive on paper.
+
+**MIMI:** Have you shown it to the walls? They seem to have plans of their own.
+
+**ALIO:** The building has rejected my first draft. I was going to discuss it with the wall, but it hasn't offered an appointment.
+
+**MIMI:** Read the door signs first. You may find the building is easier to work with when you use its doors.
+
+**DILO:** I'll hold the map. Please don't negotiate with any load-bearing walls. I'm not holding up the roof while you explain your route.
+
+
+## Case 09
+
+**DILO:** You're looking at that symbol as if it owes you an explanation. Do you know it?
+
+**BIBI:** I remember something. That's not the same as knowing. Give me the record beside it before I start trusting a memory on its own.
+
+**LULI:** I'll find it. We can check them together. You can keep the dramatic pause while I look.
+
+**ALIO:** While we're checking memories, I remember being promised cake on an investigation. Very clearly. Excellent detail.
+
+**BIBI:** You promised yourself the cake, Alio. I was there for that announcement.
+
+**ALIO:** A very reliable source. Terrible at delivery. I'd like to interview whoever was supposed to bake it. Unfortunately, I believe that's also me.
+
+
+## Case 10
+
+**DILO:** Two teams. One rover. One truly upsetting cable tangle. Nobody move; I can make this considerably more complicated.
+
+**LULI:** Which problem are you solving first? The rover, the cable, or your urge to take something apart?
+
+**DILO:** The access record. We need someone who can help explain it. You may note that I said this before touching a screwdriver.
+
+**LULI:** Correct answer. Disturbing speed. I'll untangle the cable while you recover from being sensible.
+
+**DILO:** Careful. It may have a third owner. And please log that sensible moment separately; I may need it in a future family discussion.
+
+
+## Case 11
+
+**NINI:** Your phone has been living beside the oat bar. I think they were getting quite close.
+
+**MIMI:** It was undercover. You can't expect a good investigation to happen in the most obvious compartment.
+
+**NINI:** Does the oat bar know? It's been very quiet about its new colleague.
+
+**MIMI:** We protect our sources. And occasionally forget which compartment they're in. This is a complicated profession.
+
+**DILO:** I'd like that entered in the bag report. Preferably next to the bit where you tell us to label everything.
+
+**MIMI:** You would not.
+
+
+## Case 12
+
+**DILO:** Please speak clearly for the notebook. Name, reason for being here, and anything you remember about the password.
+
+**NINI:** Try listening before your next question. It says 'cracker'. I don't think it's finished answering that one.
+
+**DILO:** I've got 'cracker'. It keeps repeating it. At least its statement is consistent.
+
+**NINI:** I think it's set a price. You're trying to run a serious interview and it's trying to order lunch.
+
+**DILO:** I'll ask the handler. My first interview with a snack budget. Please don't tell Alio; he'll start charging biscuits for his theories.
+
+
+## Case 13
+
+**ALIO:** My fox theory has one weakness. I'm prepared to hear it, as long as everyone remembers how good the rest of it is.
+
+**LULI:** Pockets? Where was your fox planning to keep the camera?
+
+**ALIO:** Several weaknesses. I'm making a list. I had rather hoped the pockets would count as an equipment problem.
+
+**NINI:** Add 'fox operating camera equipment'. And 'somebody teaching it'. This is becoming quite a large project for one fox.
+
+**ALIO:** Cruel. Fair. I'll draw it a tiny camera strap, then let it retire from the case with some dignity.
+
+**LULI:** Keep the drawing. Hand me the actual photo. The evidence is still stubbornly unfoxy, and I'd like to finish before you design its uniform.
+
+
+## Case 14
+
+**DILO:** One of these statements has broken the clock. I'd like the clock to know I was on its side.
+
+**NINI:** Or somebody mixed up two moments. Before we arrest the clock, can we check that?
+
+**LULI:** Could happen. I once announced I'd packed lunch. I'd packed three books. I'd been very thorough about the wrong thing.
+
+**MIMI:** I remember. Your bag was very well fed. You had to share my lunch, and the books didn't contribute a thing.
+
+**ALIO:** Three books? Not even one recipe? I'd have expected better preparation from this family.
+
+**LULI:** Not one on cooking. Next time you can check my lunch before we leave. You've become very thorough since the cake investigation.
+
+
+## Case 15
+
+**MIMI:** Next trip: readable name tags. Big letters. Nothing that requires a family meeting to identify.
+
+**ALIO:** I was going to suggest satellite tracking. A small dot on a screen for each bag. Possibly a theme tune.
+
+**MIMI:** My tags work indoors, don't need charging and won't announce our arrival every time we walk into a room.
+
+**ALIO:** Ruthless. You've beaten me with a piece of cardboard. May I at least draw a satellite on mine? I'd like to lose with dignity.
+
+
+## Case 16
+
+**ALIO:** That hat could shelter the whole team. If it rains on our next investigation, I know where I'm standing.
+
+**BIBI:** It also had an excellent detective underneath it. I brought the hat for company, not for a review of its roof space.
+
+**MIMI:** We're finding the photograph's date, not the hat's. Admire it all you like; it doesn't tell us when the picture was taken.
+
+**BIBI:** Finally, a sensible Academy policy. My wardrobe has suffered quite enough questioning for one afternoon.
+
+**DILO:** Can we still admire it respectfully? I think Alio wants to add an extra room.
+
+**BIBI:** Within controlled limits. One more room and I'm charging rent. Now pass me the photograph, please.
+
+
+## Case 17
+
+**ALIO:** Railway-investigation helmet: deployed. Ready for tracks, tunnels and announcements that sound unnecessarily urgent.
+
+**LULI:** It's the same helmet. You wore it to the last investigation.
+
+**ALIO:** It has changed departments. Please respect its professional development.
+
+**BIBI:** Then perhaps its first assignment can be reading the ticket sleeve. I'd hate to discover we've promoted something that can't read.
+
+**DILO:** Does the helmet earn travel points? Its owner will want to exchange them for snacks.
+
+**BIBI:** Only if it buys its own ticket. I am not explaining a separate seat for the headgear.
+
+
+## Case 18
+
+**MIMI:** Can your watch accept being wrong, or should I break the news to it privately?
+
+**DILO:** It's handling the news with dignity. No dramatic beeping. A very professional response.
+
+**NINI:** And its owner?
+
+**DILO:** Less gracefully. I'm correcting the record. I'd like it noted that I did this before anyone made me.
+
+**LULI:** I'll check the new times with you. Tell the watch it hasn't lost its job. Please give its owner the same message.
+
+
+## Case 19
+
+**DILO:** I was going to say 'digital ghost'. A good theory, I thought. Very modern. No old-fashioned bedsheet.
+
+**LULI:** Going to? What's happened to it?
+
+**DILO:** I'm checking the scanner first. The ghost can wait outside until we know whether the machine made a mistake.
+
+**LULI:** Look at you. Keeping a perfectly good ghost out of the evidence until it's earned its place.
+
+**NINI:** I'll find it a book while it waits. Something with a proper ending. It must be tired of unfinished business.
+
+**DILO:** A paper one. I'm not giving it the Wi-Fi password. Getting it out of the library would be enough trouble.
+
+
+## Case 20
+
+**NINI:** This panel looks like a very worried pear. I think it's realized we've brought notebooks.
+
+**MIMI:** Give it a place on the art wall, not the witness list. We have enough people to question without interviewing the paint.
+
+**NINI:** Understood. Pear excluded from questioning. I'll tell it the good news when it stops looking so nervous.
+
+**DILO:** Does the pear have an alibi? We shouldn't rule it out just because it's having a difficult day.
+
+**MIMI:** The pear is paint, Dilo. Please don't make me put that in the notebook.
+
+**NINI:** Strong alibi.
+
+
+## Case 21
+
+**NINI:** Nobody move the pieces yet. I want to see which edges belong together before we make the message say something we like.
+
+**DILO:** I was going to reach for it again. I'll suggest first. Better for the paper, slightly harder on my patience.
+
+**LULI:** Good. Suggest away. Check the joins with me; if I try to force two edges together, you get to stop me.
+
+**BIBI:** And keep the handwriting visible when we sleeve it. Edges first, words next. We'll want to read it without taking the whole thing apart again.
+
+**NINI:** That was a very particular look at the writing. Do you know whose it is?
+
+**BIBI:** Maybe. The archive will have to back me up. I don't get to turn a memory into a fact just because I'm the oldest person at the table.
+
+**DILO:** Then you've got the archive, we've got the joins, and Detective has the pieces. I like this plan. I can help without hurrying the paper.
+
+
+## Case 22
+
+**ALIO:** Three identical black instrument cases. Excellent. The objects have joined witness protection. We may have to give them new names.
+
+**LULI:** Their names are on the labels. Whoever arranged the protection has made one fairly serious mistake.
+
+**ALIO:** Weak cover identities. I could run this operation better with a marker pen and ten minutes.
+
+**NINI:** Please don't improve their labels. They've had a long rehearsal. Let's get them onto the right shelves before you start them on new careers.
+
+**DILO:** I'll check the shelves. I'm not explaining three freshly renamed instruments to their teacher.
+
+
+## Case 23
+
+**DILO:** The arcade scoreboard has challenged me personally. I wasn't even playing. It just sat there showing me a score it knew I'd want to beat.
+
+**MIMI:** It displayed a number.
+
+**DILO:** In a tone.
+
+**LULI:** I've got the wristband file. Can you bear to leave your rival unsupervised while we find someone who can help with the record?
+
+**DILO:** For the case. Tell it I haven't surrendered. And if the score changes while I'm away, I want a witness.
+
+
+## Case 24
+
+**ALIO:** I've paused my dramatic theory. It's waiting very patiently. Much better manners than people usually give it credit for.
+
+**LULI:** Voluntarily?
+
+**ALIO:** Yes. The muddy evidence requested a word. I'm trying this new thing where I listen before drawing a tunnel.
+
+**LULI:** Then I'll be quiet too. We've got actual prints to compare, and I want to hear what you notice.
+
+**MIMI:** Both of you? I should photograph this. The family will never believe it happened without evidence.
+
+**ALIO:** Footprints first. My good behavior can wait for the family album. Put it next to Mom finding her phone; I'd like this album to be fair.
+
+
+## Case 25
+
+**NINI:** This parcel has met more helpful people than it can remember. If one more person says 'Leave it with me', we may need a map of its holidays.
+
+**MIMI:** Then let's help it in a less creative order. Check the handoff before anybody moves it again.
+
+**DILO:** I'll guard it. Revolutionary idea: one label, one destination. No unauthorized helping while the Detective works.
+
+**ALIO:** What about morale biscuits? For the people. I haven't completely misunderstood the parcel.
+
+**MIMI:** Allowed. Bring enough for our Detective too. Advice for the parcel can wait until we've checked where it's meant to go.
+
+
+## The Old Cases Come Back
+
+**NINI:** I knew we kept those maps for a reason. Our table looks as if we've been collecting paper professionally.
+
+**DILO:** We have. Every one is a solved case. I also kept mine because the stack looked impressive. Both things can be true.
+
+**LULI:** They can. Let's lay out the selected maps before you start measuring your achievements with a ruler.
+
+**BIBI:** Useful evidence and an excellent stack. Let him have both.
+
+**MIMI:** Then let me have some table. My elbow has become a paperweight. If there's anything else we must keep, you'll have to file me alongside it.
+
+
+## Case 26
+
+**NINI:** Empty rooms. We've been looking at everyone except nobody. I suppose nobody wasn't going to put a hand up.
+
+**DILO:** Nobody has been very quiet. Before we give it a medal, I should mention that it's contributed nothing to the conversation.
+
+**LULI:** Already my favorite witness. No interruptions, no dramatic entrances, and no equipment requests.
+
+**MIMI:** Your brothers are right here, Luli. Besides, I've heard you explain a footnote over an entire dinner.
+
+**BIBI:** Which I enjoyed. But let's give nobody a turn. Detective, pull the maps closer; I want to see what we've been walking past.
+
+
+## Case 27
+
+**BIBI:** Clean hands. Flat map. No heroic folding. This plan is older than all your favorite excuses.
+
+**ALIO:** Am I allowed one heroic finger? I only want to point. I can do it at a perfectly sensible distance.
+
+**BIBI:** One clean finger, above a landmark. No prodding. The building has survived this long without you poking a new room into it.
+
+**DILO:** We solved a whole parcel mystery, recovered your archive tools and earned permission for one finger. I was hoping for at least a whole hand.
+
+**BIBI:** A worthy investment. The sleeve can touch the map; your finger can hover. Now, who's going to help me line up the plans?
+
+
+## Case 28
+
+**ALIO:** I've put my tunnel proposal on a separate card. It looks much more convincing with a heading and a straight border.
+
+**LULI:** How much evidence is on the card? I'm asking before you draw a crest for it.
+
+**ALIO:** At present? Decorative confidence. I gave that quite a lot of space.
+
+**MIMI:** I'd like a card. Some of my very organized plans are mostly that. I've been calling it 'being prepared' and hoping nobody asks for details.
+
+**BIBI:** Make it two. I used to call mine 'experience'. That's why I like your question, Luli. It used to annoy me terribly.
+
+
+## Case 29
+
+**MIMI:** That's a lot of map. I'll clear some space. Nobody balance anything on the Detective's elbow; I've tried that system and can't recommend it.
+
+**NINI:** Take your time. We're not going anywhere. If you need to stare at one corner for a while, I'll check the other one with you.
+
+**DILO:** I can be quiet for one map. A big one. I'm making a serious offer here.
+
+**LULI:** I've written that down. In pencil, to be fair.
+
+**BIBI:** Make the call when you're ready. We're here.
+
+
+## Case 30
+
+**MIMI:** No new clue. Use what you earned. Your Case Wall has the record; the panel's ready when you are.
+
+**DILO:** Victory noise? I've been saving a very good one. I'm worried it's going to escape without permission.
+
+**LULI:** Keep it in your head until the door opens. If you're going to celebrate early, at least do it where the rest of us can't hear it.
+
+**NINI:** Mine's already getting loud in there. We can compare them afterwards. Detective gets to hear the door first.
+
+**BIBI:** Go on, Detective. You've been with us from the black envelope to this panel. We're right behind you.
+

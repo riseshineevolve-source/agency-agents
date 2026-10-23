@@ -1,0 +1,849 @@
+{
+  "authority": "latest designed225 source is current;v10 retained beats only",
+  "read_scope": "All current225 extractable narrative, hints and solutions read, plus complete v10. Independently visually read current openingpp1–18 and evidence pages71,79,80,89,101,123,127,131,139 using source-audit renders. Map geometry/uniqueness remains separate source-audit lane; no unseen art certified.",
+  "source_sha256": "5fa5a54685165a346f622a1d0518a737602da3e14ba673d5563f1246bfeccc21",
+  "constraints": [
+    "No maps, placements, room names, puzzle clue statements, answers, codes or spatial truth edited.",
+    "No new culprit, hidden mechanism, trace match, timestamp, route fact or image detail invented.",
+    "SOURCE_GATE means internal evidence recovery/verification, not new owner approval."
+  ],
+  "nodes": [
+    {
+      "case": 1,
+      "pages": [
+        16,
+        17,
+        18
+      ],
+      "solution_page": 179,
+      "locked_answer": "KNOX at D2",
+      "story_function": "Recruit traces internally released envelope; first earned map answer.",
+      "status": "KEEP",
+      "bounded_action": "Visually verified currentpp16–18: titleTHEENVELOPETHATWASNEVERDELIVERED;QUILLrow1,PIProw3,MORSEcolumnC,KNOXcolumnD,PIPleftofQUILL,MORSElowerthanKNOX. Preserve revised clues,not older v10 anchor wording;answerKNOXD2unchanged."
+    },
+    {
+      "case": 2,
+      "pages": [
+        19,
+        20,
+        21
+      ],
+      "solution_page": 181,
+      "locked_answer": "Dax at D2",
+      "story_function": "Cup back; return record apparently blank; witness opens image discrepancy.",
+      "status": "FIX",
+      "bounded_action": "Keep specific missing handoff and no blame. Later recovery of signed form must explain that apparent blank return sheet was incomplete file view, not a signature spontaneously appearing."
+    },
+    {
+      "case": 3,
+      "pages": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "solution_page": 183,
+      "locked_answer": "All 10 current differences",
+      "story_function": "Two current-reference attachments disagree; 017/071 becomes archive lead.",
+      "status": "FIX",
+      "bounded_action": "Keep latest ten actual differences. Outer captions label Photo A ARCHIVED FILE017 and Photo B LATER FILE071 before comparison: these pre-identify provenance. Prose must not claim reader alone discovered information already announced. No triangle or tread callback from v10."
+    },
+    {
+      "case": 4,
+      "pages": [
+        27,
+        28,
+        29
+      ],
+      "solution_page": 185,
+      "locked_answer": "Zuri at F4",
+      "story_function": "Cup closes; 071 stays open; sealed box adds third marked record.",
+      "status": "KEEP",
+      "bounded_action": "Retain intact seal, safe contents and witness-only task. Keep chain from photo mismatch to retrieval of existing signed return, then new local incident."
+    },
+    {
+      "case": 5,
+      "pages": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "solution_page": 187,
+      "locked_answer": "BALL–STAR–BOLT–HEART–KEY–MOON",
+      "story_function": "Filed verified local case wakes locker; old incomplete routing card makes fourth mark.",
+      "status": "FIX",
+      "bounded_action": "Keep code and all six clue statements. Remove or revise printer turned off at p34, since p98 later has it cough with no restart. Dilo calling unknown dormant locker my locker can be playful, but should not imply prior ownership/knowledge."
+    },
+    {
+      "case": 6,
+      "pages": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "solution_page": 188,
+      "locked_answer": "Arlo at D2",
+      "story_function": "071 index directs Bibi to Heritage; misplaced label introduces source/context method.",
+      "status": "KEEP",
+      "bounded_action": "Preserve latest clarification that071 is older distinct file, not typo. Do not let spoon title pretend to conceal object; real question is whether object or label moved."
+    },
+    {
+      "case": 7,
+      "pages": [
+        41,
+        42,
+        43
+      ],
+      "solution_page": 190,
+      "locked_answer": "Zoe at C6",
+      "story_function": "Heritage label closes; moon costume missing; room witness supplies time window.",
+      "status": "KEEP",
+      "bounded_action": "Keep costume still missing after solve. Do not resolve it before route case. Avoid adding accusation or identifying mover."
+    },
+    {
+      "case": 8,
+      "pages": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "solution_page": 192,
+      "locked_answer": "Route C",
+      "story_function": "Closed/locked routes give genuine obstacle before costume can be found.",
+      "status": "KEEP",
+      "bounded_action": "Preserve urgency and hard access rules. Do not tell reader Costume Storage/Side Hall route before evidence. Existing resolution at p48 is properly after task."
+    },
+    {
+      "case": 9,
+      "pages": [
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "solution_page": 193,
+      "locked_answer": "Plain0 is recurring Academy mark",
+      "story_function": "Costume closes; controlled matching distinguishes four marks from lookalikes; Bibi remembers form.",
+      "status": "FIX",
+      "bounded_action": "Four matching records already established at p34–35. Frame task as testing false positives/context, not discovering number of marks again. Bibi recognizes form only after reader classification; avoid p48 sees true set pre-solving certainty."
+    },
+    {
+      "case": 10,
+      "pages": [
+        53,
+        54,
+        55
+      ],
+      "solution_page": 194,
+      "locked_answer": "Ember at D5",
+      "story_function": "Rover access conflict tests records while Bibi researches.",
+      "status": "KEEP",
+      "bounded_action": "Keep access vs ownership distinction; map yields interview contact, not legal ownership proof. Current next-case copied demo record closure is sufficient."
+    },
+    {
+      "case": 11,
+      "pages": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "solution_page": 196,
+      "locked_answer": "Record D",
+      "story_function": "Mimi phone habit pays off; wrong timestamp would corrupt timeline.",
+      "status": "KEEP",
+      "bounded_action": "Retain only A–D as timestamp candidates. Snack/phone comedy supports source hygiene. Do not call ordinary bag contents contradictory evidence."
+    },
+    {
+      "case": 12,
+      "pages": [
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "solution_page": 197,
+      "locked_answer": "Nell at G2",
+      "story_function": "Parrot apparent password leak becomes context lesson.",
+      "status": "FIX",
+      "bounded_action": "Change claim that Winter companion is only other person who may have been close enough; map snapshot proves contact lead, not universal exclusion. Preserve ordinary cue explanation and next-page witness naming."
+    },
+    {
+      "case": 13,
+      "pages": [
+        65,
+        66,
+        67
+      ],
+      "solution_page": 199,
+      "locked_answer": "Bodhi at B7",
+      "story_function": "Camera moved; 4:17 frame must be separated from cleanup memory.",
+      "status": "KEEP",
+      "bounded_action": "Keep frame time and later position distinct. Do not make fox theory evidence or assert culprit. Bodhi resolves timing after reader solve."
+    },
+    {
+      "case": 14,
+      "pages": [
+        68,
+        69,
+        70,
+        71
+      ],
+      "solution_page": 201,
+      "locked_answer": "NOAH",
+      "story_function": "Impossible journey tests confident memory without moral accusation.",
+      "status": "KEEP",
+      "bounded_action": "Keep explicit mistaken does not mean dishonest. Current four-minute/two-minute reasoning supports central method and Bibi-memory check later."
+    },
+    {
+      "case": 15,
+      "pages": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "solution_page": 202,
+      "locked_answer": "Harper at D2",
+      "story_function": "Bus departure creates short deadline; blue zip identifies bag but not owner.",
+      "status": "KEEP",
+      "bounded_action": "Retain deadline and blue-zip payoff at p76. A third helpful-person chain repeats later package beat: shorten recap there rather than invent new mishap."
+    },
+    {
+      "case": 16,
+      "pages": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "solution_page": 204,
+      "locked_answer": "Old Academy Annex;2002",
+      "story_function": "Bibi chooses primary evidence over memory; photograph gives RULE0FIRST.",
+      "status": "FIX",
+      "bounded_action": "Visually verifiedp79 currentdatingfacts. Genuine source defectp80: entire message missing after Her younger handwriting is still there,despite p81 exact-copy request and p82RULE0FIRST. Restore source-attested RULE0FIRST line in editablep80;no invention. Sixchildren/youngBibi kept."
+    },
+    {
+      "case": 17,
+      "pages": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "solution_page": 205,
+      "locked_answer": "Axel at E3",
+      "story_function": "Annex research trip intercepted by ticket handoff case.",
+      "status": "KEEP",
+      "bounded_action": "Retain Mimi nodding toward reader: trust made visible. Handoff intention learned afterward from Axel, not inferred from companion placement."
+    },
+    {
+      "case": 18,
+      "pages": [
+        86,
+        87,
+        88,
+        89
+      ],
+      "solution_page": 207,
+      "locked_answer": "A–B–C–D",
+      "story_function": "Three clocks dissolve false0:07 clue and alibi; Dilo corrects record.",
+      "status": "FIX",
+      "bounded_action": "Seven minutes earlier by itself is not an alibi: avoid overclaim oddly safe from handoff unless printed record has actual incompatible locations/times. Frame as apparent timeline conflict. Preserve corrections and ordered answer."
+    },
+    {
+      "case": 19,
+      "pages": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "solution_page": 208,
+      "locked_answer": "Mack at A7",
+      "story_function": "Dilo voluntarily drops pet theory; rare-book scanner discrepancy tests physical vs digital trace.",
+      "status": "KEEP",
+      "bounded_action": "Keep Dilo crossing out0:07 unprompted and Luli noticing quietly. Avoid extra scanner technology facts; use given witness account without inventing hardware."
+    },
+    {
+      "case": 20,
+      "pages": [
+        94,
+        95,
+        96,
+        97
+      ],
+      "solution_page": 210,
+      "locked_answer": "Pax at F5",
+      "story_function": "Moved wet panel makes two truthful accounts appear incompatible; complete map saved.",
+      "status": "FIX",
+      "bounded_action": "Preserve before/after distinction and full positions. Record is Flight Simulation Wing with Main Studio/Safety Station map names; keep established model-space language, never rename rooms to cure aesthetic mismatch."
+    },
+    {
+      "case": 21,
+      "pages": [
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "solution_page": 212,
+      "locked_answer": "B–D–A–C;THE ANSWER IS IN WHAT YOU LEAVE EMPTY",
+      "story_function": "Printer cough returns; Dilo tears fragile old note; physical joins before sentence.",
+      "status": "FIX",
+      "bounded_action": "Keep silence instead of joke on damage and handwriting hint without identification. Resolve printer on/off continuity via p34. Reduce premature Nini claim not ready to test: they can examine existing maps; route later says set incomplete."
+    },
+    {
+      "case": 22,
+      "pages": [
+        104,
+        105,
+        106,
+        107
+      ],
+      "solution_page": 213,
+      "locked_answer": "Cody at C4",
+      "story_function": "Instrument shelves local mix-up; note waits while map set grows.",
+      "status": "FIX",
+      "bounded_action": "Keep local witness and full-map retention, but reduce repeated still refusing to be useful/waiting message language. No new cause, thief or clue."
+    },
+    {
+      "case": 23,
+      "pages": [
+        108,
+        109,
+        110,
+        111
+      ],
+      "solution_page": 215,
+      "locked_answer": "Rae at F6",
+      "story_function": "Wristband crossed routes produce another spatial record; weekend gives time passage.",
+      "status": "FIX",
+      "bounded_action": "Keep explicit wristband access distinction and scoreboard joke. Do not repeat scoreboard joke twice at full length. Note refuses to explain what empty means already points toward rooms before Case26; trim narrator gloss."
+    },
+    {
+      "case": 24,
+      "pages": [
+        112,
+        113,
+        114,
+        115
+      ],
+      "solution_page": 217,
+      "locked_answer": "East Path→West Gate",
+      "story_function": "Misleading tread direction loses to decreasing mud; Alio suspends theory.",
+      "status": "FIX",
+      "bounded_action": "Intro and comms announce mud useful/arrow unhelpful before task; reduce pre-solve evaluation while keeping immutable printed rules intact. Do not restore v10 resemblance to Case03 tread: current ten differences have no tread."
+    },
+    {
+      "case": 25,
+      "pages": [
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "solution_page": 218,
+      "locked_answer": "Casey at D5",
+      "story_function": "Parcel handoff releases practical overlay tools;14-map set complete.",
+      "status": "KEEP",
+      "bounded_action": "Retain tools as useful earned resource and Bibi reading label twice. Do not infer Casey personally passed parcel merely from room-sharing; reception confirms handoff separately as current story does."
+    },
+    {
+      "case": 26,
+      "pages": [
+        121,
+        122,
+        123,
+        124
+      ],
+      "solution_page": 220,
+      "locked_answer": "CHECK THE OLD MAP",
+      "story_function": "All14 retained spatial maps turn absence into instruction.",
+      "status": "KEEP",
+      "bounded_action": "Visually verifiedp123 exact14case list and ROOM/ZONEinstruction. p122 listed on this page must become facing evidence page or page123. Preserve allmaps/letters/Case01exclusion."
+    },
+    {
+      "case": 27,
+      "pages": [
+        125,
+        126,
+        127
+      ],
+      "solution_page": 221,
+      "locked_answer": "Sealed training room behind current Archive wall",
+      "story_function": "Overlay tools and three fixed landmarks reveal physically missing room.",
+      "status": "FIX",
+      "bounded_action": "Intro says all three landmarks match before reader aligns plans. Change to landmarks available for test, reserve match/result for after solve. Preserve same scale/orientation and names. No new tunnels."
+    },
+    {
+      "case": 28,
+      "pages": [
+        128,
+        129,
+        130,
+        131
+      ],
+      "solution_page": 222,
+      "locked_answer": "ZERO ASSUMPTIONS.NOTICE FIRST.THEORIZE SECOND.",
+      "story_function": "Rule before room; observed mud vs arrow carries into claim sorting.",
+      "status": "FIX",
+      "bounded_action": "Visually verifiedp131 sixclaims A–F,wordbank,sortzones and RULEZEROWORDresponse. Save-to-CaseWall instruction genuinely absent. Restore in editable aftersolve transition,p132. Replace weeksago/weeksofwork with earlier/allthiswork;claimA/B/CFACT,Etheory,D/Funsupported unchanged."
+    },
+    {
+      "case": 29,
+      "pages": [
+        132,
+        133,
+        134,
+        135,
+        136
+      ],
+      "solution_page": 223,
+      "locked_answer": "Vega at D3",
+      "story_function": "Restored method leads to final historical service map; coordinate earned.",
+      "status": "KEEP",
+      "bounded_action": "Preserve biggest-map patience and reader gets final call. Rule not password means method alone did not open wall; finale still legitimately asks rule word. Avoid overexplaining why old person placement is coordinate beyond stated archive protocol."
+    },
+    {
+      "case": 30,
+      "pages": [
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ],
+      "solution_page": 225,
+      "locked_answer": "ASSUMPTIONS;D3;BALL–STAR–BOLT–HEART–KEY–MOON;reader call sign",
+      "story_function": "Four earned entries release route log; Bibi authored note; reader fills fieldslot06.",
+      "status": "FIX",
+      "bounded_action": "Restore coherent narrative/comms order p137–138; distinguish display images from physical stamp/templates or stage those after door opens p140. Replace blank credential p142 with signed recruit credential. Tighten repeated nobody could fill it p143–144. Keep hook reveal, certificate and latest honest new triangle question; do not claim triangle previously seen in current Case03."
+    }
+  ],
+  "edges": [
+    {
+      "from": "case01",
+      "to": "case02",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case02",
+      "to": "case03",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case03",
+      "to": "case04",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case04",
+      "to": "case05",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case05",
+      "to": "case06",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case06",
+      "to": "case07",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case07",
+      "to": "case08",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case08",
+      "to": "case09",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case09",
+      "to": "case10",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case10",
+      "to": "case11",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case11",
+      "to": "case12",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case12",
+      "to": "case13",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case13",
+      "to": "case14",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case14",
+      "to": "case15",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case15",
+      "to": "case16",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case16",
+      "to": "case17",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case17",
+      "to": "case18",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case18",
+      "to": "case19",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case19",
+      "to": "case20",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case20",
+      "to": "case21",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case21",
+      "to": "case22",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case22",
+      "to": "case23",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case23",
+      "to": "case24",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case24",
+      "to": "case25",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case25",
+      "to": "case26",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case26",
+      "to": "case27",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case27",
+      "to": "case28",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case28",
+      "to": "case29",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case29",
+      "to": "case30",
+      "type": "chronological_sequence"
+    },
+    {
+      "from": "case01",
+      "to": "case05",
+      "type": "intake_record_matches"
+    },
+    {
+      "from": "case02",
+      "to": "case03",
+      "type": "witness_opens_attachment_check"
+    },
+    {
+      "from": "case03",
+      "to": "case06",
+      "type": "017_071_archive_lead"
+    },
+    {
+      "from": "case03",
+      "to": "case30",
+      "type": "archive_trail_continues_not_current_triangle_match"
+    },
+    {
+      "from": "case04",
+      "to": "case05",
+      "type": "verified_handoff_unlock"
+    },
+    {
+      "from": "case05",
+      "to": "case09",
+      "type": "four_mark_set"
+    },
+    {
+      "from": "case05",
+      "to": "case30",
+      "type": "saved_code"
+    },
+    {
+      "from": "case06",
+      "to": "case07",
+      "type": "archive_forms_recovered"
+    },
+    {
+      "from": "case07",
+      "to": "case08",
+      "type": "time_window_route_obstacle"
+    },
+    {
+      "from": "case08",
+      "to": "case09",
+      "type": "costume_closure"
+    },
+    {
+      "from": "case09",
+      "to": "case16",
+      "type": "archive_research"
+    },
+    {
+      "from": "case10",
+      "to": "case11",
+      "type": "duplicate_record_removed"
+    },
+    {
+      "from": "case12",
+      "to": "case13",
+      "type": "cue_context_closure"
+    },
+    {
+      "from": "case13",
+      "to": "case14",
+      "type": "memory_timing_lesson"
+    },
+    {
+      "from": "case14",
+      "to": "case16",
+      "type": "memory_is_not_proof"
+    },
+    {
+      "from": "case16",
+      "to": "case17",
+      "type": "annex_trip"
+    },
+    {
+      "from": "case16",
+      "to": "case28",
+      "type": "RULE0FIRST"
+    },
+    {
+      "from": "case16",
+      "to": "case30",
+      "type": "handwriting_setup"
+    },
+    {
+      "from": "case17",
+      "to": "case18",
+      "type": "clock_conflict"
+    },
+    {
+      "from": "case18",
+      "to": "case19",
+      "type": "Dilo_discards_false_pattern"
+    },
+    {
+      "from": "case20",
+      "to": "case21",
+      "type": "full_map_saved"
+    },
+    {
+      "from": "case21",
+      "to": "case26",
+      "type": "empty_instruction"
+    },
+    {
+      "from": "case21",
+      "to": "case30",
+      "type": "authorship_payoff"
+    },
+    {
+      "from": "case24",
+      "to": "case28",
+      "type": "appearance_vs_observation"
+    },
+    {
+      "from": "case25",
+      "to": "case27",
+      "type": "overlay_tools"
+    },
+    {
+      "from": "case26",
+      "to": "case27",
+      "type": "CHECKTHEOLDMAP"
+    },
+    {
+      "from": "case27",
+      "to": "case28",
+      "type": "RULEFIRSTROOMSECOND"
+    },
+    {
+      "from": "case28",
+      "to": "case30",
+      "type": "saved_rule_word"
+    },
+    {
+      "from": "case29",
+      "to": "case30",
+      "type": "saved_access_coordinate"
+    },
+    {
+      "from": "case02",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case04",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case06",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case07",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case10",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case12",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case13",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case15",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case17",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case19",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case20",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case22",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case23",
+      "to": "case26",
+      "type": "retained_complete_map"
+    },
+    {
+      "from": "case25",
+      "to": "case26",
+      "type": "retained_complete_map"
+    }
+  ],
+  "non_case_nodes": [
+    {
+      "id": "credential",
+      "setup_pages": [
+        3,
+        9
+      ],
+      "payoff_pages": [
+        138,
+        142,
+        145
+      ],
+      "status": "KEEP",
+      "note": "Currentvisual verified blank credential invitationp3,signedclaimp9. p142must call it signed/recruit credential,not blank."
+    },
+    {
+      "id": "hook06",
+      "setup_pages": [
+        9
+      ],
+      "payoff_pages": [
+        143,
+        144,
+        145
+      ],
+      "status": "FIX",
+      "note": "Currentp9omits rack setup. p143false memory same rack you saw when claimed credential. Restore v10 source-attested brief rack fivebadges/emptyhook06 setup in editable opening companion text;no new fact."
+    },
+    {
+      "id": "team_roles",
+      "setup_pages": [
+        6,
+        7,
+        8
+      ],
+      "payoff_pages": [
+        141,
+        145
+      ],
+      "status": "FIX",
+      "note": "Currentp6 says Sixdetectives;currentp7–8 shows fivefielddetectives plusBibiarchivementor. Reconcile role sentence to fivefielddetectives/onearchivementor;reader later fills sixthfieldslot."
+    }
+  ]
+}

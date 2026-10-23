@@ -1,0 +1,14 @@
+{
+  "run_sha256": "66f35ad4a19bd77272b211652ccf43c8212a4517e1593b7852b23305e81a6bcd",
+  "source_sha256": "521781817fb8e72803c142b6e8d495ded5202385b0d5f7d136c4524d1062c4c1",
+  "mode": "upgrade",
+  "source_language": "en",
+  "target_language": "en",
+  "scope": "bounded",
+  "project": "detective-academy",
+  "full_run_metadata": "Included in recovery archive; recreate with build_candidate.py and pinned source/tool.",
+  "run_json_sha256": "d163e7cdecc440efa27fd5a20f5515fb12faa8b0ab6d654c79658cb0f76f0c32",
+  "functional_brief_sha256": "6d4a0d4b27391373668b1d4292b99c47021f4d52f56f35557b8d35bf77772ba6",
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "deterministic_and_four_independent_stages": "PASS; exact QA/CLI_CHECK.json and reviews/FINAL_REVIEW_BUNDLE.json."
+}

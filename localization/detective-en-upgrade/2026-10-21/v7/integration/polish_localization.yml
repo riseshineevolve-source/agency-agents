@@ -1,0 +1,358 @@
+lane: polish_localization
+title: Polish Localization Engine
+updated: '2026-10-21'
+status: V7_OWNER_READ_CANDIDATE__HM_COMMS_AND_EN_EDITORIAL_UPGRADE
+branch_or_repo_state:
+  repository: riseshineevolve-source/agency-agents
+  engine_base_branch: codex/polish-engine-main-reconcile
+  engine_base_head: 8ecd3b93c50d34eb17e3080c8f736f4a8b41becf
+  isolated_proof_branch: codex/polish-engine-r6-proof-20261019
+  proof_head: f48bb98b97bc41723bcd5ffce3df4ea4d5600a2b
+  proof_pr: https://github.com/riseshineevolve-source/agency-agents/pull/37
+  main_observed_head: b0f08175ddb23adc6e98daff6f7ac8ba1ba4fffe
+  detective_r8_recovery_branch: codex/detective-pl-v04-r8-recovery-20261019
+  detective_r8_checkpoint_head: cfe524a2ca6eef401d60b7233a5a47664e5caeb9
+  detective_r8_pr: https://github.com/riseshineevolve-source/agency-agents/pull/38
+  branch_relation: DIVERGED__NO_BLIND_MERGE
+  language_tool_branch: codex/polish-engine-language-studio-20261021
+  language_tool_base_main: 4b123f5ccdb77f7a8e4390624f7466d16ba665a6
+  language_tool_relation: ISOLATED_ADDITIVE_BRANCH_FROM_MAIN__NO_MERGE_OF_DIVERGED_OLD_ENGINE
+  website_localization_branch: codex/polish-website-native-source-20261021
+  website_localization_pr: https://github.com/riseshineevolve-source/agency-agents/pull/42
+  website_checkpoint_head: 0945b126b40671bd7fa9a769cfbe3e9229559a7c
+  detective_en_upgrade_branch: codex/detective-en-story-upgrade-20261021
+  detective_en_upgrade_pr: https://github.com/riseshineevolve-source/agency-agents/pull/43
+  detective_en_candidate_checkpoint: 6c4e735ef71fcf01d6bbe1364bb07ba7e8fd9cfb
+milestone:
+  gentle_steps_pl:
+    source: localization/pl-PL/production/gentle-steps/book-versions/v3/GENTLE_STEPS_PL_BOOK_VERSION_03_PACKAGING_CANDIDATE_R6_2026-10-08.md
+    r6_git_blob: 896cf92bf6ed126ef62e623fd9cac640270e853f
+    app_consumer: riseshineevolve-source/RISE.SHINE.EVOLVE/gentle-steps-app/content/pl/source
+    app_observed_branch_head: 34d447ba2a475c581ad5a98ccbbac21affa79f3f
+    app_observed_branch: gentle-steps/premium-visual-20261013
+    owner_labels_migrated_into_app: false
+    new_approved_labels_pl: ZŁAPMY_CHWILĘ__ZRÓBMY_COŚ_RAZEM__POGADAJMY
+    new_approved_labels_en: LETS_TAKE_A_MOMENT__LETS_DO_THIS_TOGETHER__LETS_TALK
+    owner_locked_en_subtitle: A_24_DAY_FAMILY_ADVENT_CALENDAR__NOTHING_TO_BUY__NOTHING_TO_PREP__JUST_YOU__TEN_MINUTES_TOGETHER
+    r6_app_source_exact_equal: true
+    r5_r6_day01_to_end_exact_equal: true
+    days: 24
+    main_daily_sections: 72
+    na_jutro: 24
+    existing_r6_copy: PROTECTED__NO_REWRITE
+  gentle_steps_ai_discovery_guides:
+    version: V3_EDITORIAL_CANDIDATE_2026_10_21
+    guide1_pl: 01_grudzien_bez_pospiechu_PL.md
+    guide1_en: 01_december_family_time_EN.md
+    guide2_pl: 02_kalendarz_z_zadaniami_PL.md
+    guide2_en: 02_advent_activities_EN.md
+    editorial_handoff: 00_README_EDITORIAL_HANDOFF.md
+    checksum_manifest: SHA256_MANIFEST.json
+    verified_source_teasers:
+      article1: Day19 Empty Hands / Day10 Family Machine / Day07 Unnoticed Thanks
+      article2: Day21 One Sound Quieter / Day22 Reverse Charades / Day14 Picked-up Family Habits
+    source_authority: Exact R6 Git blob 896cf92bf6ed126ef62e623fd9cac640270e853f; SHA256 68ad0a94b7cb4713c825fe1c6af4507eac5c982cb3b0054000d18ddeaf0457b3;
+      V2 EN provenance inherited, source mechanisms rechecked against PL R6
+    owner_locked_terms: PRESERVED_NO_RECONFIRMATION_NEEDED
+    approval: EDITORIAL_REVIEW_PASS__OWNER_APPROVAL_NOT_GRANTED
+    website_release: NOT_PUBLISHED
+    previous_v2_storage_root: /RSE/Gentle Steps/AI Discovery/2026-10-20
+    repository_root: localization/campaigns/gentle-steps/2026-10-21
+    cta: UNLINKED_PREVIEW_INVITATIONS__WEBSITE_WRITER_VALIDATES_REAL_DESTINATION
+    book_or_app_source_changed: false
+    archive_library_file_id: libfile_8e6a48cd11c48191bbc1ec7b5c4922c6
+  template_fit:
+    r6_contract: localization/pl-PL/production/gentle-steps/book-versions/v3/V03_R6_FINAL_TEMPLATE_PROOF_CONTRACT_2026-10-08.json
+    new_validator: scripts/gentle-steps-r6-proof.py
+    regression_tests: scripts/test-localization-gentle-steps-r6-fit.py
+    regression_ci: NOT_YET_CONFIRMED_AT_EXACT_PR_HEAD
+    real_final_template_pdf: MISSING_NOT_VERIFIED
+    twelve_print_scale_pngs: MISSING_NOT_VERIFIED
+    print_editorial_safety_proof: BLOCK
+  detective_pl:
+    existing_source_freeze: 2026-10-08 V10 EN freeze for explicitly named PL source retained as historical scoped receipt
+    latest_complete_private_library: /RSE/Detective Academy/PL Versions/V04/R8
+    latest_r8_status: FULL_30_CASES_90_HINTS_30_SOLUTIONS__HASH_AND_STRUCTURE_PASS__NOT_PRINT_READY
+    latest_r8_reader_sha256: d547b13c953346b35b8b7910fd94a4819ba680319deede73e5bfdfe41ae148a3
+    latest_r8_master_sha256: 4fdc20d499edb430af322315bdaa21f4502fbe9cbb62ac0c8fab01cc82deefa7
+    latest_r8_hints_sha256: a260d3be8f6589b2ee4dc94284164a4694843768ab7ada6e772df4df8c9082e3
+    latest_r8_solutions_sha256: b50a54f696e4076344b7ec672378977710d21b148b63b1b0b9aaf7968d9adba3
+    original_r8_text_qa: PASS_59_OF_59
+    independent_r8_source_hash_verification: PASS_7_OF_7
+    r8_reader_pdf: TEXT_PROOF_59_US_LETTER_PAGES__NO_ART
+    r8_master_pdf: TEXT_PROOF_80_US_LETTER_PAGES__PAGE_80_FOOTER_ONLY__NO_ART
+    r8_source_bytes_changed: false
+    later_en_revisions: DO_NOT_AUTO_REPLACE_V10_AUTHORITY
+    newest_70_codenames: PRESERVE_PREVIOUS_OWNER_LOCKS_NO_NEW_ALIASES
+    room_zero_final_plain_zero_marks: FOUR__OWNER_LOCK_2026_10_15__NOT_SIX
+    verified_final70_branch: codex/detective-pl-v04-natural-polish-20261015
+    verified_final70_head: f95f713bd8fd2d19ad08c58f22ca639217616aa6
+    final70_assignment: localization/pl-PL/production/detective-academy/versions/v02/V02_FINAL70_ASSIGNMENT.md
+    final70_owner_decision: localization/pl-PL/production/detective-academy/versions/v02/OWNER_DECISION_2026-10-13_NEW30_FINAL_LOCK_PLUS_ZANTA_RESERVE.md
+    final70_qa: PASS_FINAL70_TEXT_IDENTITY_REBIND__PHYSICAL_MAP_PROOF_NOT_DONE
+    final70_identity_counts: 40 prior frozen + NEW30; ZYRA assigned once; ZANTA reserve unused; 38 peripheral spatial witnesses
+      keep source names
+  rse_language_studio:
+    skill: .agents/skills/rse-language/SKILL.md
+    cli: scripts/rse-language.py
+    guide: tools/rse-language/README.md
+    modes:
+    - same_language_upgrade
+    - cross_language_native_authoring
+    languages:
+    - pl
+    - en
+    tests: 31/31 facade tests PASS locally after final guard; 59/59 legacy engine tests PASS separately
+    legacy_engine_regression: 59 tests PASS locally on byte-verified hydrated engine snapshot 8b484a528cd2ef85d23d5efc5c5c341a2fd02985
+    skill_validation: PASS
+    skill_installed_commit: 423eb90
+    ci: NO_WORKFLOW_RUNS_RETURNED_FOR_5475185__FINAL_HEAD_NOT_YET_OBSERVED
+    automatic_prose_generation: Calling skill/assistant performs writing and review; CLI guards workflow and exports
+    production_release: NOT_AUTHORIZED
+    trial: Actual isolated writer and four stage reviews; correct transfer PASS, unresolved original source mechanics => OWNER_GATE,
+      no false owner-read readiness
+    trial_path: tools/rse-language/trial-2026-10-21
+    pr: https://github.com/riseshineevolve-source/agency-agents/pull/40
+    implementation_head: 547518585b2d8c598f93f55f0dc72d61d2d8e71e
+  website_pl_native:
+    source_repository: riseshineevolve-source/RISE.SHINE.EVOLVE
+    source_head: e6efa82b5194bfb492632aafd58655bb1ff1465d
+    source_pr: 609
+    consumer_issue: 608
+    output_root: localization/website/2026-10-21
+    pages: 35
+    unique_units: 2087
+    approved_guides_preserved: 6
+    writing_route: fresh native writer from wording-free brief; source backcheck; conservative privacy route
+    static_native_review: 1180 KEEP after real full review and targeted closure
+    legal_schema_reviews: 64 +29 KEEP after full source/native review and targeted closure
+    dynamic_reviews: actual main502 reader units +145Motto+65WordHunt+53Studio; source safety/fact gates preserved
+    deterministic_checks: 35pages DOM/CSS parity,573relative refs,10inline+3externalJS PASS;2500WordHuntgrids;270Studio trials
+    source_git_blob_verification: 56/56 PASS
+    browser_surface_fit: NOT_RUN
+    live_website_changed: false
+    published: false
+    main_merged: false
+    ci: NOT_CONFIRMED_AT_NEW_HEAD
+    source_gates: legacy Christmas data/ages, Nini age, breath-holds and benefits claims, privacy truth, GooglePlay status;
+      exact segment evidence in reports
+    model_routing: central recommendation acknowledged; actual runtime model switch unverified; no paid fallback
+  detective_en_story_upgrade:
+    owner_authority: 'Explicit21October2026request: fullcurrentEnglish bookupgrade, preserveallmaps/puzzles;otherHappyMakersbooksreferencecanon.'
+    source_pdf_sha256: 9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0
+    source_intake: source/intake-v5.json
+    source_intake_sha256: 89b2ec319b5510c664c2932ac6895d185e53fd4b36fc0cf3afa468b79de15003
+    candidate_sha256: 9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978
+    root: localization/detective-en-upgrade/2026-10-21
+    source_pages: 225
+    source_units: 3067
+    changed_units: 93
+    changed_pages: 46
+    protected_units_unchanged: 2365
+    solved_map_placements_preserved: 107
+    reviews: Actual hashboundV5delta native/audience/meaning/logic PASS; acceptedV4whole-book reviews explicitly reused only
+      for3065unchanged units. Sixactualagents completed spatialaudit; independentassignment-set crosschecks02/04/06/07/13.
+      LanguagePASS never implies newsourcegatePASS.
+    tool: rse-language upgrade en→en, detective-academy project,bounded700prosesurfaces; noPLmigration/freeze.
+    cli: V5deterministicPASS; inheritedCase03captionOWNER_GATE.
+    proof: ExactV5 225folioTEXTproof;225wordchecks/0offpage;207/212actualPNGvisualpass; savedPDFserializationdiffers but225texts/225renders
+      roundtripidentical.
+    archive_sha256: 52e9133814d0e7dd0321caabf80ece5d7f264665b9a435c80a74acec31408c2e
+    production_source_changed: false
+    pl_r8_changed: false
+    freeze_granted: false
+    publication: false
+    continuation: 'PAUSED_EXTERNAL_DEPENDENCIES: all16spatial+14nonspatial evidenceindexed; no further justifiedlocalizedwriting/checks
+      until actualsource/artdecision orBookFactoryV5artifact. CurrentV5KEEP.'
+    ci: Current final head not yet verified; localQA distinct; no hosted green claim.
+    integration_evidence: localization/detective-en-upgrade/2026-10-21/integration
+    integration_source_pages_fingerprinted: 225
+    integration_image_instances: 568
+    independent_visual_dependency_folios: 20
+    visual_png_reproduction: 20/20 exact hashes PASS
+    consumer_packet: 93exactoperations/3067target hashes;8raster units requireproductslots;93changes46folios.
+    consumer_capability: Registered Studio recovered; exact-V12 parser cannot directly consume candidate JSON. Product writer
+      needs versioned source adapter; no renderer changed.
+    consumer_folio_remap: source16 story/Comms→destination15;source27 changed Case04 narrative→destination26;source IDs remain
+      stable.
+    source_rationale_correction: p122 raster and p123 both show14case list; retained nextpage locator accurate; old missing-list
+      rationale superseded.
+    integration_prose_changed: V5twoanswerglyphrepairs only; no narrative rewriting.
+    v5_delta: 6corruptseparatorglyphs only in207/212;other3065V4targettexts identical;oldV4ec93... historical.
+    geometry_checks: All16spatialmaps/107printedplacements audited with actualsource; Case12priorreceipt retained. SourceCase07anchor
+      andCase20blockedE7 conflict;02/10/15sourceconventionlimits. Otherrosters reproduce under recordedmodels. Fullreport/manifest/supplement
+      in geometry-audit andqa.
+    auxiliary_correction: Case13emptyHideRoom notoccupiedHabitatPaddock; Hinitial unchanged.
+    geometry_gates: Case03captionOWNER_GATE retained; Case07stage-range-marker visuallyunidentified; Case20map97blocksE7butsolution210SidE7.
+      No guessedrepairs.
+    geometry_prose_changes: 0
+    geometry_receipt: localization/detective-en-upgrade/2026-10-21/qa/SOURCE_PUZZLE_GATE_STATUS.json
+    nonspatial_coverage: Twoactualindependent reviewers assessed14nonspatialcases. Allhave substantive priorsemanticreceipts;0newpuzzlesolves/renders,0newdefects,0prosechanges.
+      No repeatinggreenchecks.
+    all_case_evidence_index: localization/detective-en-upgrade/2026-10-21/qa/ALL_CASE_EVIDENCE_INDEX.json
+    remaining_handoff: localization/detective-en-upgrade/2026-10-21/integration/REMAINING_WORK_HANDOFF.md
+  detective_en_v6_owner_fixes:
+    candidate_sha256: d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc
+    path: localization/detective-en-upgrade/2026-10-21/v6
+    changed_units: 27
+    unchanged_units: 3040
+    repaired_cases:
+    - 2
+    - 3
+    - 7
+    - 10
+    - 15
+    - 20
+    full_assignments_each_repaired_map: 1
+    independent_models: 9
+    actual_corrected_figures: PASS
+    reading_proof_pages: 225
+    production_import: PENDING_EXISTING_BOOK_FACTORY_WRITER
+  detective_en_v7_editorial:
+    owner_authority: Explicit wholeEnglishupgrade with rse-language and witty, affectionate, story-useful HMComms; current21October2026request.
+    path: localization/detective-en-upgrade/2026-10-21/v7
+    candidate_sha256: df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1
+    baseline_v6_sha256: d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc
+    source_folios: 225
+    stable_units: 3067
+    changed_units_from_v6: 229
+    changed_folios: 48
+    main_comms_assessed: 30
+    main_comms_changed: 25
+    spoken_turns_changed: 105
+    whole_golden_scenes:
+    - 5
+    - 11
+    - 16
+    - 17
+    - 27
+    prior_audit: V6vsowner225 changed15mainComms/27turns;15unchanged; V5toV6Commsdelta0.
+    all27_v6_repairs_preserved: true
+    mechanics: Allclues/maps/90hints/30answers/reasoning exactV6; only nonmechanic212summary chronologycorrected.
+    reviews: Twoactualindependent agents full225folioR1 plus8-unitclosure; native/audience/meaning/logic PASS exacthash.
+    cli: run-r2 OWNER_READ_CANDIDATE; deterministicPASS; no unresolvedissues/sourceambiguities.
+    reading_proof_sha256: 9b43919e74ecb0cb6ba6779b110d2cd1ba82b86cfc146bddc0dde279c6277f20
+    reading_proof_pages: 225
+    proof_checks: 225copy/offpage and52pixel-identityPASS; independent69folio/25fullsizevisualsamplePASS; unsampled156excluded.
+    comms_comparison_sha256: 4483f5234e563e22215d0d24c0f7e23f28d67e5c09a1cfc0c54bd005c328910a
+    comms_comparison_pages: 34
+    comparison_qa: All34pages visuallyinspected;495mainspoken-versionroundtripsPASS.
+    archive_sha256: 70a5c5e6440704be14c1e48873876fc2d334dbb286bbaa37db85e7550f2336df
+    library:
+    - local_path: /workspace/scratch/e6eabdc4c3a0/detective-v7/proof/DETECTIVE_EN_V7_FULL_READING_PROOF.pdf
+      file_name: DETECTIVE_EN_V7_FULL_READING_PROOF.pdf
+      library_file_id: libfile_94471e8e05548191adec7eee0ccdf2e0
+      file_id: file_00000000b50081f5aa7af3389654b0cc
+      path: /DETECTIVE_EN_V7_FULL_READING_PROOF.pdf
+      current_version_number: 1
+    - local_path: /workspace/scratch/e6eabdc4c3a0/detective-v7/proof/HM_COMMS_ORIGINAL_V6_V7_COMPARISON.pdf
+      file_name: HM_COMMS_ORIGINAL_V6_V7_COMPARISON.pdf
+      library_file_id: libfile_32596ac49ce8819187e3c7cf9a0807f6
+      file_id: file_00000000cb1c81f5b8b6ca276b6bf178
+      path: /HM_COMMS_ORIGINAL_V6_V7_COMPARISON.pdf
+      current_version_number: 0
+    - local_path: /workspace/scratch/e6eabdc4c3a0/deliverables/RSE_DETECTIVE_EN_V7_EDITORIAL_20261021.zip
+      file_name: RSE_DETECTIVE_EN_V7_EDITORIAL_20261021.zip
+      library_file_id: libfile_da1bed141d108191a32b9d5d4a7a893b
+      file_id: file_00000000246c81f5a60d2631d0c1d00b
+      path: /RSE_DETECTIVE_EN_V7_EDITORIAL_20261021.zip
+      current_version_number: 2
+    production_source_or_renderer_changed: false
+    main_merged: false
+    published: false
+    frozen: false
+    ci: FinalheadhostedgreenNOT_CONFIRMED; no Actionsdispatch.
+    handoff: ExistingsoleBookFactorywriter consumes exact V7importpacket with allV6repairs andunchangedfigurecontract. Actualimport/fit/printreceipts
+      pending; no PLmigration.
+blocker:
+- Gentle Steps PL R6 actual current final-template whole-book PDF, 12 distinct page PNGs and print-scale reviewer evidence
+  not available.
+- Authorized Desktop Commander device offline as checked 2026-10-19; no physical print or device proof.
+- 'PR #37 exact-head green CI not verified; do not promote as proven PASS or merge blindly.'
+- Detective R8 text proof has no embedded artwork; master PDF page 80 is footer-only; both must be re-rendered with final
+  Book Factory template.
+- Physical Case03 photos, Case12 G2 map, Case21 four fragments, Case26 14 maps, Case27 overlay, human PL family read-aloud
+  and owner KDP layout proof remain unverified.
+- R8 original manifest self-hash and owner handoff SHA mismatch the retrieved auxiliary bytes; 7/7 substantive source hashes
+  PASS, no body corruption inferred.
+- V6 EN content and four corrected source leaves are complete; actual sole-BookFactory import, final typesetting and print
+  proof receipts remain pending.
+owner_gate:
+- The PL/EN daily headings, PL headline and EN subtitle are OWNER-LOCKED (2026-10-13); no owner reconfirmation needed. Await
+  sole Gentle Steps writer for atomic source/app migration after visual/CI pass.
+- 'English primary short strapline editorial completion 2026-10-19: A BOOK THAT FITS INTO YOUR DECEMBER. Separate from the
+  owner-locked EN subtitle; do not insert on cover without actual layout review.'
+- Final Gentle PL print-scale visual/editorial/safety approval and release freeze remain owner-controlled.
+- Before moving Detective PL onto the latest evolving EN production master, obtain explicit current source authority and freeze;
+  do not equate historical V10 scoped freeze with later EN editions.
+dependencies_needed:
+- lane: gentle_steps
+  need: Producer to supply actual R6 final-template PDF, editable final template snapshot and 12 distinct PNG views with hash-bound
+    source and reviewer evidence. Do not rewrite Polish content on app branch. Owner-attached cover reference contains abcabc
+    placeholder back copy and front lower badge; do not promote this reference as a finished cover. Current production wrap
+    was not inspected here.
+- lane: central_control_tower
+  need: Consume V3 bilingual Gentle Steps guides at localization/campaigns/gentle-steps/2026-10-21/v3 after owner editorial
+    approval. Website sole writer connects verified product/preview link and checks real formats/title, language routing and
+    current design. No website files changed by localization.
+- lane: detective_book_factory
+  need: Consume EXACT Library V04 R8 Reader + Master + 90 hints + 30 solutions (all SHA-verified) as latest PL language candidate;
+    produce complete designed Polish KDP proof using owner-approved art and maps. Test Case03 / 12 / 21 / 26 / 27, FOUR 0
+    records and FINAL70; real print proof and owner visual gate. Do not use V03 REV6 or generate a competing translation.
+    For future newest EN parity, request exact explicit source freeze.
+- lane: website_factory
+  need: Consume source-mapped35pagePL candidate at localization/website/2026-10-21 on this feature branch. Integrate onlyPL
+    assets/data and preserveapprovedGuides/ENlayout. Resolve exactsource/fact/safety gates, browserdesktop/mobile parity and
+    actualdeployment before noindexrelease; no publication authorized by localization QA.
+- lane: detective_book_factory
+  need: Consume exact V7 candidate df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1 and v7/integration/EDITORIAL_IMPORT_PACKET_V7.json.229V6deltas/310original225deltas;3067targethashes.
+    All27V6repairs andfourcorrectedsourceleaves24/25/97/211 retained. Existingfolioremap16→15/27→26 retained. Supplyactualfinaltypesetimport/fitreceipts;
+    no chatdelivery or printapproval inferred.
+reusable_outputs:
+- https://github.com/riseshineevolve-source/agency-agents/pull/37
+- scripts/gentle-steps-r6-proof.py
+- scripts/test-localization-gentle-steps-r6-fit.py
+- localization/pl-PL/production/gentle-steps/book-versions/v3/R6_PROOF_AND_LABEL_CHANGE_GATE_2026-10-19.md
+- https://github.com/riseshineevolve-source/agency-agents/pull/38
+- localization/pl-PL/production/detective-academy/versions/v04/V04_R8_EXACT_SOURCE_RECOVERY_AND_PRINT_HANDOFF_2026-10-19.md
+- localization/pl-PL/production/detective-academy/versions/v04/V04_R8_RECOVERY_QA_2026-10-19.json
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/01_grudzien_bez_pospiechu_PL.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/01_december_family_time_EN.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/02_kalendarz_z_zadaniami_PL.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/02_advent_activities_EN.md
+- /RSE/Gentle Steps/AI Discovery/2026-10-20/00_README_EDITORIAL_HANDOFF.md
+- .agents/skills/rse-language/SKILL.md
+- tools/rse-language/README.md
+- scripts/rse-language.py
+- scripts/test-rse-language.py
+- localization/campaigns/gentle-steps/2026-10-21/v3
+- https://github.com/riseshineevolve-source/agency-agents/pull/40
+- localization/website/2026-10-21/README.md
+- localization/website/2026-10-21/QA_SUMMARY.md
+- localization/website/2026-10-21/RSE_WEBSITE_PL_SOURCE_MAPPED_20261021.zip
+- localization/detective-en-upgrade/2026-10-21/README.md
+- localization/detective-en-upgrade/2026-10-21/candidate/candidate.json
+- localization/detective-en-upgrade/2026-10-21/RSE_DETECTIVE_EN_STORY_UPGRADE_20261021.zip
+next_safe_task: Existing sole BookFactory writer consumes exact V7 editorial import packet and preserved V6 figures; bind
+  mapped import and final typesetting/print receipts. No further prose rewrite without a concrete defect or new owner request.
+checkpoint_reference: localization/detective-en-upgrade/2026-10-21/v7/CHECKPOINT.md
+model_policy_ack:
+  policy: rse-weekly-usage-2026-10-21-v1
+  recommended_profile: production
+  runtime_model_observed: NOT_EXPOSED
+  runtime_reasoning_observed: NOT_EXPOSED
+  runtime_speed_observed: NOT_EXPOSED
+  application_status: RECOMMENDATION_ONLY
+revenue_policy_ack: Owner-requested completeEnglisheditorialreview andboundedprose/Commsupgrade; noenginefeatures, competingtranslation,
+  publication or productrendererchanges.
+resolved_en_source_exceptions:
+  version: V6
+  cases:
+  - 2
+  - 3
+  - 7
+  - 10
+  - 15
+  - 20
+  status: OWNER_AUTHORIZED_REPAIRS_COMPLETE
+  candidate_sha256: d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc

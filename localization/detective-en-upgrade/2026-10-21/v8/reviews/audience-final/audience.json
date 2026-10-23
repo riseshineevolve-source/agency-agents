@@ -1,0 +1,235 @@
+{
+  "stage": "audience",
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "status": "PASS",
+  "reviewer": "v8_child_mentor — independent child/teen/family and supportive-mentor editorial audience reviewer",
+  "scope": "Complete 225-folio manuscript coverage; full V8-r1 reread plus bounded final changes with neighbors/dependencies; 146 changed segments, 41 changed folios and 47 semantic groups. Full-size saved-PDF visual scope is all 41 changed folios plus full-title folio 204.",
+  "evidence": "Actual full V8 manuscript read at bc90b44439e6380104a67873383e946923577b86ece0b6f482380b6c9e73c76b, followed by bounded R2 and final d0faccca changes, including named rejected alternatives on p210 and adjacent units. All ten original audience findings are closed. All 42 listed saved-PDF folios were inspected at full size through independent Poppler renders; the final 67278523 PDF was re-rendered for the same scope and all 42 renders were pixel-identical to inspected references. Final index 148 was directly checked after border repair. Instructions, hints, solution steps/tables, photo feedback and full p204 title are readable. No unresolved material audience or readability issue remains. See visual-render-binding-final.json.",
+  "findings": [
+    {
+      "id": "AUD-F01",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "segment_ids": [
+        "page009.block02"
+      ],
+      "evidence": "Help writing the credential is explicitly welcome; reader chooses the identity."
+    },
+    {
+      "id": "AUD-F02",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "segment_ids": [
+        "page009.block04"
+      ],
+      "evidence": "Call sign is defined as a chosen detective nickname, consistently reused."
+    },
+    {
+      "id": "AUD-F03",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "segment_ids": [
+        "page012.block04"
+      ],
+      "evidence": "Early help now names index 148–149 and permits pauses, retries, shared solving and hints."
+    },
+    {
+      "id": "AUD-F04",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "segment_ids": [
+        "page011.block02"
+      ],
+      "evidence": "Shared map glossary defines adjacency, diagonals, direction offsets, row/column-only distances, grid steps, marker precedence and exact-one-companion occupancy."
+    },
+    {
+      "id": "AUD-F05",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "segment_ids": [
+        "page130.block03",
+        "page132.block04"
+      ],
+      "evidence": "Reader is sent to 132 before copying the complete restored rule."
+    },
+    {
+      "id": "AUD-F06",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "segment_ids": [
+        "page181.block07",
+        "page181.block08",
+        "page181.block09"
+      ],
+      "evidence": "First full map answer now explains blocked-square, row/column and chair alternatives; answer remains Dax D2."
+    },
+    {
+      "id": "AUD-F07",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "segment_ids": [
+        "page126.block04"
+      ],
+      "evidence": "Printed plans can be solved directly on page by matching coordinates."
+    },
+    {
+      "id": "AUD-F08",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "segment_ids": [
+        "page146.block04",
+        "page146.block05",
+        "page146.block06",
+        "page146.block07",
+        "page146.block08",
+        "page146.block09",
+        "page146.block10",
+        "page146.block11",
+        "page146.block12"
+      ],
+      "evidence": "Dilo pauses, asks, receives Bibi’s checked nod and gently lifts the flap; curiosity and his learning coexist."
+    },
+    {
+      "id": "AUD-F09",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "segment_ids": [
+        "page184.block15",
+        "page184.block16",
+        "page184.block17"
+      ],
+      "evidence": "Canonical and actual patched PDF use positive ten-change/archive explanation; scolding eleventh-answer phrase is absent."
+    },
+    {
+      "id": "AUD-F10",
+      "severity": "KEEP",
+      "status": "CLOSED",
+      "segment_ids": [
+        "page076.block09",
+        "page076.block12"
+      ],
+      "evidence": "Hat is a present-scene prop beside the box, explicitly outside the unchanged evidence photograph."
+    }
+  ],
+  "proof_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "proof_path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/proof/DETECTIVE_EN_V8_FULL_ENGLISH.pdf",
+  "full_size_visual_folios": [
+    5,
+    9,
+    11,
+    12,
+    14,
+    27,
+    30,
+    40,
+    52,
+    76,
+    81,
+    94,
+    108,
+    120,
+    122,
+    126,
+    130,
+    141,
+    146,
+    148,
+    167,
+    181,
+    184,
+    185,
+    187,
+    188,
+    190,
+    193,
+    194,
+    197,
+    199,
+    202,
+    204,
+    205,
+    208,
+    210,
+    213,
+    215,
+    218,
+    220,
+    221,
+    223
+  ],
+  "original_findings_closed": 10,
+  "unresolved_material_findings": [],
+  "additional_closed_findings": [
+    {
+      "id": "AUD-R2-210",
+      "segment_ids": [
+        "page210.block07",
+        "page210.block08",
+        "page210.block09",
+        "page210.block10",
+        "page210.block11",
+        "page210.block12"
+      ],
+      "status": "CLOSED",
+      "evidence": "Final step names Mara E4 or Asa E3 and explains that either would give Demi two companions; actual step, neighbors and final rendered page rechecked."
+    }
+  ],
+  "preserved_strengths": [
+    {
+      "id": "AUD-K01",
+      "title": "Different strengths establish mutual usefulness",
+      "status": "PRESERVED"
+    },
+    {
+      "id": "AUD-K02",
+      "title": "Participation and name choice preserve agency",
+      "status": "PRESERVED"
+    },
+    {
+      "id": "AUD-K03",
+      "title": "Belonging is established before certification",
+      "status": "PRESERVED"
+    },
+    {
+      "id": "AUD-K04",
+      "title": "The torn-note scene models repair and continued membership",
+      "status": "PRESERVED"
+    },
+    {
+      "id": "AUD-K05",
+      "title": "Errors and proximity are not treated as character faults",
+      "status": "PRESERVED"
+    },
+    {
+      "id": "AUD-K06",
+      "title": "Support remains practical and unforced",
+      "status": "PRESERVED"
+    },
+    {
+      "id": "AUD-K07",
+      "title": "Hints legitimately count as detective tools",
+      "status": "PRESERVED"
+    },
+    {
+      "id": "AUD-K08",
+      "title": "Humor permits imagination without shaming it",
+      "status": "PRESERVED"
+    },
+    {
+      "id": "AUD-K09",
+      "title": "Puzzle response actions are generally explicit and meaningful",
+      "status": "PRESERVED"
+    },
+    {
+      "id": "AUD-K10",
+      "title": "The register can include children and teens without an age claim",
+      "status": "PRESERVED"
+    }
+  ],
+  "limits": "Editorial audience/readability PASS; no clinical credentials or diagnosis, no age claim, no canonical edits. Exhaustive mechanics uniqueness is a separate review; this does not grant freeze, print readiness or release.",
+  "coverage_path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/audience-coverage.json",
+  "summary_path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/audience.md",
+  "visual_binding_path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/audience-final/visual-render-binding-final.json",
+  "coverage_sha256": "3792a398b0c8c6c5544074603fcc3b8ded7a6a1a2028693c23b44ed42c48a5b5",
+  "visual_binding_sha256": "fb827816b141c88dfaaf7f552b7b0549ddb9259ca212e33ada3a6b0530b0b8dd"
+}

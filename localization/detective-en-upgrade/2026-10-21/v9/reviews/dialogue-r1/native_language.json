@@ -1,0 +1,378 @@
+{
+  "reviewer": "Actual independent agent /root/hm9_dialogue_humor",
+  "reviewed_utc": "2026-10-22T10:09:22.942809+00:00",
+  "stage": "native_language",
+  "candidate_sha256": "138fffc57d1d8e6da7ee41f8e4c98eba680c5cb7b9ca2b01f87d8633abd3670e",
+  "status": "FIX",
+  "scope": "Actual complete read of all34HMComms units/183spoken turns in candidate/HAPPY_MAKERS_COMMS_FINAL_EN.md and final-scenes.json, compared with original/V7/V8 diagnostic and adjacent narrative previously read. English idiom, spoken rhythm, turn response, comic premise/payoff, explanation/padding and Case21 quiet recovery. Not a new whole-book puzzle audit and no native-speaker or professional identity claimed.",
+  "source_scene_file_sha256": "09da911ce9ab9a8c8e4174cfc92d32b68dbffac7abc91628ed4a7f96a6add6d9",
+  "reader_manuscript_sha256": "8d12cbb7c2d6283ef4d8ea0fcc5a042672442ad1f80995c43c888f5223f338eb",
+  "overall": "Substantially improved: the majority now read like actual family exchanges. Restore the strongest tiny caps rather than padding every turn. Seven bounded fixes in six scenes; no need for another wholesale rewrite. Case21 should remain gentle and useful.",
+  "findings": [
+    {
+      "id": "NATIVE-R1-01",
+      "classification": "FIX",
+      "priority": "medium",
+      "scene_id": "CASE14",
+      "turn": 6,
+      "speaker": "LULI",
+      "quote": "Not a crumb. Not one on cooking, either.",
+      "defect": "The previous turn now asks whether any of the three books contained a recipe. \"Not a crumb\" answers an absent question about sharing food, and \"either\" has no useful added contrast. The old V7 cap no longer fits its new setup.",
+      "targeted_fix": "Begin \"Not one on cooking.\" then retain the journey-check and Alio-lunch invitation, or otherwise answer the actual recipe question. Do not add a second explanation of the book/lunch mix-up."
+    },
+    {
+      "id": "NATIVE-R1-02",
+      "classification": "FIX",
+      "priority": "medium",
+      "scene_id": "CASE21",
+      "turn": 2,
+      "speaker": "DILO",
+      "quote": "I was going to reach. I've upgraded to suggesting.",
+      "defect": "\"Going to reach\" is incomplete spoken English here: reach for what? More importantly, the preceding protected narrative already has Dilo reach for and tear the paper. Without \"again\", this sounds as if the first reach never happened. The quiet self-aware repair works once its referent and chronology are clear.",
+      "targeted_fix": "Use e.g. 'I was about to reach for it again. I'll suggest things from here instead.' Retain a gentle self-aware second sentence if useful; no family joke at his expense is needed."
+    },
+    {
+      "id": "NATIVE-R1-03",
+      "classification": "FIX",
+      "priority": "medium",
+      "scene_id": "CASE06",
+      "turn": 4,
+      "speaker": "DILO",
+      "quote": "Slight problem with the Romans. Unless we're about to discover a dragon with a very long commute.",
+      "defect": "The commute punch introduces an unexplained geographical problem. No location for dragons or incompatible starting point has been established, so the reader must invent the missing premise to understand why a Roman dragon cook has a long commute. This is exactly the sort of apparently witty but unearned connection the user objected to.",
+      "targeted_fix": "Give Dilo a clear consequence of the shared imaginary dragon-cook, e.g. 'A dragon cook. Fine. I'm not volunteering to taste the soup.' The Roman spoon fact is already preserved in Luli's previous turn; do not invent a new historical fact or an actual dragon."
+    },
+    {
+      "id": "NATIVE-R1-04",
+      "classification": "FIX",
+      "priority": "medium",
+      "scene_id": "CASE06",
+      "turn": 8,
+      "speaker": "BIBI",
+      "quote": "You check the actual spoon, Detective",
+      "defect": "The reader-facing action sounds like a new inspection activity, whereas the case asks for the person sharing Uma's room. It is a clear sentence but a misleading conversational handoff. This cross-lens issue should be checked by meaning review as well.",
+      "targeted_fix": "Use a delegation to the existing room record/map, e.g. 'You take the room record, Detective; we'll keep the imaginary dragon out of your way.' No new clue or solution."
+    },
+    {
+      "id": "NATIVE-R1-05",
+      "classification": "FIX",
+      "priority": "low",
+      "scene_id": "CASE23",
+      "turn": 2,
+      "speaker": "MIMI",
+      "quote": "It displayed a number. You supplied the personal insult.",
+      "defect": "The second sentence explains the coming \"In a tone\" punch before Dilo gets to say it, and it weakens the clean number-versus-tone handoff from the original. A winning tiny line should not be padded just to match longer surrounding turns.",
+      "targeted_fix": "Keep simply \"It displayed a number.\" The richer opening and later file/scoreboard exchange already supply the fuller scene."
+    },
+    {
+      "id": "NATIVE-R1-06",
+      "classification": "FIX",
+      "priority": "low",
+      "scene_id": "CASE05",
+      "turn": 6,
+      "speaker": "DILO",
+      "quote": "Absolutely not. Conflict of interest. I can't give my own locker a prize. We'd never hear the end of it.",
+      "defect": "The original final cap is immediately explained, then capped a second time. The explanation makes Dilo sound like a narrator clarifying a legal joke, rather than a competitive child snapping back at the imagined badge. The rest of this scene now has ample conversational fullness.",
+      "targeted_fix": "Prefer the original \"Absolutely not. Conflict of interest.\" as the final compact cap; if the idiom needs contextual help, make the competitive motive do the work rather than adding a definition."
+    },
+    {
+      "id": "NATIVE-R1-07",
+      "classification": "FIX",
+      "priority": "low",
+      "scene_id": "CASE08",
+      "turn": 5,
+      "speaker": "DILO",
+      "quote": "Please don't negotiate with any load-bearing walls. Those are the ones holding the building up, and I'd like them to keep doing that.",
+      "defect": "A separate definition of load-bearing interrupts an otherwise lively family exchange and explains away the older punchline. It is useful vocabulary clarification, but it can be integrated into Dilo's personal stake rather than delivered as a mini glossary.",
+      "targeted_fix": "Keep the roof/building reference in a direct comic consequence: e.g. 'Please don't negotiate with the walls holding the roof up. My head is under it too.' Or preserve the original load-bearing cap without a separate explanatory sentence if audience review judges it clear."
+    }
+  ],
+  "nonblocking_polish_options": [
+    {
+      "scene_id": "INTRO07",
+      "turn": 3,
+      "classification": "POLISH_OPTION",
+      "note": "'I can help make it beep' is less idiomatic for locating a phone than 'I can make it ring'. The latter preserves Dilo's tech confidence and missing-phone joke; do not actually find the phone here."
+    },
+    {
+      "scene_id": "CASE25",
+      "turn": 4,
+      "classification": "POLISH_OPTION",
+      "note": "'I haven't completely misunderstood the parcel' anticipates an accusation nobody has made and sounds self-consciously written. 'For the people, before anybody asks' conveys the same defensive family wink more naturally."
+    },
+    {
+      "scene_id": "CASE30",
+      "turn": 3,
+      "classification": "POLISH_OPTION",
+      "note": "The second sentence restates keeping the victory noise in his head. A concrete wish to hear the door itself would add human intention instead of repeating the instruction. Existing turn is intelligible and not a blocker."
+    },
+    {
+      "scene_id": "CASE29",
+      "turn": 1,
+      "classification": "POLISH_OPTION",
+      "note": "The earlier elbow was a paperweight (holding papers down); 'balance anything on the Detective's elbow, I've tried that system' inverts the physical image. A simpler clear-space/retired-paperweight callback would picture more easily. Do not change the protected narrative."
+    },
+    {
+      "scene_id": "ALL",
+      "classification": "POLISH_OPTION",
+      "note": "New Comms mix British 'apologise' and 'Mum' with American 'labeled', 'organized', 'unauthorized'. Protected V8 itself is mixed; do not globally rewrite it. Choose a consistent spelling policy inside this bounded new dialogue if feasible."
+    }
+  ],
+  "coverage": [
+    {
+      "scene_id": "INTRO07",
+      "turns": 3,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASEWALL12",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE01",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE02",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE03",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE04",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE05",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "FIX",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "THREAD34",
+      "turns": 4,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE06",
+      "turns": 8,
+      "read": "COMPLETE",
+      "decision": "FIX",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE07",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE08",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "FIX",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE09",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE10",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE11",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE12",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE13",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE14",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "FIX",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE15",
+      "turns": 4,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE16",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE17",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE18",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE19",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE20",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE21",
+      "turns": 7,
+      "read": "COMPLETE",
+      "decision": "FIX",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE22",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE23",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "FIX",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE24",
+      "turns": 6,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE25",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "THREAD120",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE26",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE27",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE28",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE29",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    },
+    {
+      "scene_id": "CASE30",
+      "turns": 5,
+      "read": "COMPLETE",
+      "decision": "KEEP",
+      "note": "No material native/read-aloud/comedy defect beyond findings and optional polish. Existing short caps may remain short."
+    }
+  ],
+  "counts": {
+    "scenes_read": 34,
+    "turns_read": 183,
+    "FIX_findings": 7,
+    "FIX_scenes": 6,
+    "other_scenes_material_native_review": "KEEP"
+  },
+  "unresolved_findings": [
+    "NATIVE-R1-01",
+    "NATIVE-R1-02",
+    "NATIVE-R1-03",
+    "NATIVE-R1-04",
+    "NATIVE-R1-05",
+    "NATIVE-R1-06",
+    "NATIVE-R1-07"
+  ],
+  "next_review": "Actual bounded closure on edited scene/turns and their immediate exchanges, with exact new candidate hash. Any newly rewritten whole scene must be read in full."
+}

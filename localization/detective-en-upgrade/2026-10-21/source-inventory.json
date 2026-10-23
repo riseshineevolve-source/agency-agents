@@ -1,0 +1,56 @@
+[
+  {
+    "uploaded_name": "DETECTIVE_ACADEMY_EN_20261021_225P.pdf",
+    "path": "upload/DETECTIVE_ACADEMY_EN_20261021_225P.pdf",
+    "sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+    "pages": 225,
+    "text_chars": 101299,
+    "extraction_stem": "detective-225",
+    "library_file_id": "libfile_cfd6cede96588191806f3fac3602a3b9"
+  },
+  {
+    "uploaded_name": "10 STORIES WORLD 01 FINAL paperback(5).pdf",
+    "path": "upload/10 STORIES WORLD 01 FINAL paperback(5).pdf",
+    "sha256": "adf9d384985ec7ad0fb1d7f9f6c3d46189592a171474c38ee93ac35bb808c549",
+    "pages": 108,
+    "text_chars": 63653,
+    "extraction_stem": "world-01",
+    "library_file_id": "libfile_4682178772d48191baacf7fa3516188d"
+  },
+  {
+    "uploaded_name": "Paperback  final fixed print(7).pdf",
+    "path": "upload/Paperback  final fixed print(7).pdf",
+    "sha256": "d1a2cdc8f97589cc909693926963f309c34ffdf3ecfb0b5a8336f8ca7f905f2e",
+    "pages": 244,
+    "text_chars": 65766,
+    "extraction_stem": "happy-me",
+    "library_file_id": "libfile_b31026c79a64819188ca261a348adb8a"
+  },
+  {
+    "uploaded_name": "Gentle_Steps_EN_V2_R3_FINAL_CONTENT_PLUS_FIXES_CORRECT(5).pdf",
+    "path": "upload/Gentle_Steps_EN_V2_R3_FINAL_CONTENT_PLUS_FIXES_CORRECT(5).pdf",
+    "sha256": "d8970cdb921683f5e9aa32165f03163098f169183e55fecf289bd2cbbc10aef1",
+    "pages": 52,
+    "text_chars": 60209,
+    "extraction_stem": "gentle-steps",
+    "library_file_id": "libfile_9b76912ca8848191a3d1abc8dcbf5f8c"
+  },
+  {
+    "uploaded_name": "HMDA_Book1_EN_Premium_V10_FULL_TEXT(2).pdf",
+    "path": "upload/HMDA_Book1_EN_Premium_V10_FULL_TEXT(2).pdf",
+    "sha256": "d174606bbcff1f6fabc7edd8b9364e631b935007ccbc8087563ccadb16be8f0f",
+    "pages": 115,
+    "text_chars": 92858,
+    "extraction_stem": "detective-v10",
+    "library_file_id": "libfile_adb10b409cac8191a69e527ed5dd9ace"
+  },
+  {
+    "uploaded_name": "10 STORIES WORLD 02 FINAL paperback(3).pdf",
+    "path": "upload/10 STORIES WORLD 02 FINAL paperback(3).pdf",
+    "sha256": "3654291483e4dea1a5439bcede20fb6ba9a8a9fffb6642b7a5ad632bdddb1a77",
+    "pages": 104,
+    "text_chars": 73782,
+    "extraction_stem": "world-02",
+    "library_file_id": "libfile_65deab1482848191ab5587d2171be580"
+  }
+]

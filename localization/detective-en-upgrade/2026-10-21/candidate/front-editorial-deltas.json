@@ -1,0 +1,128 @@
+[
+  {
+    "id": "page006.block02",
+    "page": 6,
+    "old": "WHO THEY ARE\nSix detectives.\nSix different ways of looking at the same mess.\nThey compare clues, challenge each other's theories and keep asking questions until the story starts to make sense.",
+    "new": "WHO THEY ARE\nFive field detectives. One archive mentor.\nMimi, her children Luli, Dilo, Alio and Nini, and Grandma Bibi.\nA family with six different ways of looking at the same mess.\nThey compare clues, challenge each other's theories and keep asking questions until the story starts to make sense.",
+    "defect": "Six field detectives contradicts five active roster plus mentor; family relation missing from source introductions."
+  },
+  {
+    "id": "page007.block02",
+    "page": 7,
+    "old": "MIMI\nFIELD DETECTIVE // CASE CAPTAIN\nRuns the case table.\nFinds the tiny clue.\nMay need help finding her own phone.\nSTRENGTH: Turns a muddle into the next useful step.\nFUNNY HABIT: Organizes everything except what she just put down.\nSMALL CLUES. BIG IDEAS.",
+    "new": "MIMI\nFIELD DETECTIVE // CASE CAPTAIN\nRuns the case table.\nCan spot a theory forming on her children's faces.\nFinds the tiny clue.\nMay need their help finding her own phone.\nSTRENGTH: Turns a muddle into the next useful step.\nFUNNY HABIT: Organizes everything except what she just put down.\nSMALL CLUES. BIG IDEAS.",
+    "defect": "Restore Mimi as mother in reciprocal family, preserving phone setup."
+  },
+  {
+    "id": "page007.block03",
+    "page": 7,
+    "old": "LULI\nFIELD DETECTIVE // CLUE ANALYST\nReads the small print.\nQuestions the big claim.\nSpots contradictions.\nShort replies. Long books.\nSTRENGTH: Spots contradictions and tests what evidence proves.\nFUNNY HABIT: Can forget a book is not a substitute for lunch.\nSMALL QUESTIONS. BIG DISCOVERIES.",
+    "new": "LULI\nFIELD DETECTIVE // CLUE ANALYST\nThe older sister who reads the small print.\nQuestions the big claim.\nSpots contradictions.\nShort replies. Long books.\nMay know what Dilo is about to say before he does.\nSTRENGTH: Spots contradictions and tests what evidence proves.\nFUNNY HABIT: Can forget a book is not a substitute for lunch.\nSMALL QUESTIONS. BIG DISCOVERIES.",
+    "defect": "Make Luli an older sister with remembered relationships, seed scoreboard anticipation."
+  },
+  {
+    "id": "page008.block02",
+    "page": 8,
+    "old": "NINI\nFIELD DETECTIVE // PEOPLE & COURAGE\nGives nervous people room to speak.\nNotices feelings and details everyone skipped.\nAsks small, surprisingly good questions.\nSTRENGTH: Looks beyond the obvious.\nFUNNY HABIT: Can become fond of a theory before it earns its place.",
+    "new": "NINI\nFIELD DETECTIVE // PEOPLE & COURAGE\nThe youngest in the family.\nGives nervous people room to speak.\nNotices feelings and details everyone skipped.\nAsks small questions that can change a whole case.\nSTRENGTH: Looks beyond the obvious.\nFUNNY HABIT: Gives names to things nobody else thought needed one.",
+    "defect": "Nini not miniature adult; seed naming affection and remove surprise at her competence."
+  },
+  {
+    "id": "page008.block04",
+    "page": 8,
+    "old": "GRANDMA BIBI\nARCHIVE MENTOR // OLD ACADEMY GUIDE\nKnows old shelves and stranger stories.\nConnects historical records and knows what to verify.\nSays when a memory is incomplete.\nStops nonsense without putting down her team.\nSTRENGTH: Finds context and the missing pieces.\nFUNNY HABIT: Remembers the adventure; the date may need a label.",
+    "new": "GRANDMA BIBI\nARCHIVE MENTOR // OLD ACADEMY GUIDE\nKnows old shelves and stranger stories.\nConnects historical records and knows what to verify.\nSays when a memory is incomplete.\nStops nonsense without putting down her team.\nSTRENGTH: Finds context and the missing pieces.\nFUNNY HABIT: Will defend an excellent old hat against the whole family.",
+    "defect": "Replace age/memory gag with specific hat seed; honest incomplete memory retained elsewhere."
+  },
+  {
+    "id": "page009.block02",
+    "page": 9,
+    "old": "If you are in, this is the moment.\nNo one else can fill this out for you.",
+    "new": "If you are in, this is the moment.\nNo one else can fill this out for you.\nBeside the Case Table stands a small certification rack. Five badges hang on it. Hook 06 is empty.\nMimi slides a pencil over. \"Start with the name you want us to use.\"",
+    "defect": "Restore missing physical sixth-hook seed necessary for finale recall; offer ordinary inclusion without promising earned affection."
+  },
+  {
+    "id": "page012.block03",
+    "page": 12,
+    "old": "DILO: So we just copy stuff to the wall? Easy!\nLULI: Yes! But the right stuff. Wrong clues = confused detectives.\nALIO: The Case Wall helps us see the big picture. Clues make more sense together!\nNINI: It's like a puzzle! The messier it looks at first, the more fun it is to solve.\nBIBI: Details matter! One small clue can change everything.\nMIMI: A detective without key notes in one place is like solving a case with 37 tabs open and 2% battery. Bold, chaotic, doomed.",
+    "new": "DILO: I can fit all my theories on that wall.\nLULI: Try the evidence first.\nALIO: What about a small shelf for promising theories?\nNINI: Mine needs a cushion.\nBIBI: Give it a question mark. We need to know which parts are still guesses.\nMIMI: A detective without key notes in one place is like solving a case with 37 tabs open and 2% battery. Bold, chaotic, doomed.",
+    "defect": "Current instructional comms repeat previous instructions in six generic voices; family wants and turn-taking make practical distinction memorable."
+  },
+  {
+    "id": "page016.block04",
+    "page": 16,
+    "old": "MIMI: Internal stock. Good. We start with what we can prove.\nALIO: Or we investigate my leading theory: a secret tunnel and a mini van delivery. Very efficient. Very suspicious.\nLULI: A tunnel, a minivan, and zero evidence. Impressive start, Alio.\nNINI: Let's park the minivan for a minute and follow the facts first.\nDILO: Agreed. If the tunnel appears later, I'll happily upgrade the theory.",
+    "new": "MIMI: Internal stock. Good. We start with what we can prove.\nALIO: My leading theory has a secret tunnel and a minivan. No evidence yet. I will put a question mark beside it.\nLULI: A good place for the question mark, Alio.\nNINI: A small one. We need room for the facts.\nDILO: If a tunnel turns up later, you can have the whole margin.",
+    "defect": "Early Alio pile-on gives three children same corrective voice; let Alio revise theory himself, seed later decorative-confidence payoff."
+  },
+  {
+    "id": "page137.block05",
+    "page": 137,
+    "old": "The access coordinate brings the squad back to the sealed panel behind the Archive. It\n",
+    "new": "The access coordinate brings the squad back to the sealed panel behind the Archive.\n",
+    "defect": "Restore coherent source reading order while preserving fragment token locks."
+  },
+  {
+    "id": "page137.block06",
+    "page": 137,
+    "old": "lights four empty fields: No new clue. RULE WORD / ACCESS / CODE / CALL SIGN Dilo\nlooks at the panel, then at the Case Wall, then at you. Then it waits. No printer cough. For\nthe first time since the black envelope arrived, the Academy is not asking you to discover\n",
+    "new": "It lights four empty fields:\nRULE WORD / ACCESS / CODE / CALL SIGN\nThen it waits.\nNo printer cough. No hidden drawer. No new clue.\nDilo looks at the panel, then at the Case Wall, then at you.\nFor the first time since the black envelope arrived, the Academy is asking for nothing new.\n",
+    "defect": "Restore coherent source reading order while preserving fragment token locks."
+  },
+  {
+    "id": "page137.block07",
+    "page": 137,
+    "old": "something new. No hidden drawer. It is asking whether you kept enough of what you\n",
+    "new": "It is asking whether you kept what you\n",
+    "defect": "Restore coherent source reading order while preserving fragment token locks."
+  },
+  {
+    "id": "page137.block08",
+    "page": 137,
+    "old": "already proved. HAPPY MAKERS COMMS 1 MIMI 2 DILO No new clue. Use what you\n",
+    "new": "already proved.\n\nHAPPY MAKERS COMMS\n1 MIMI: Use what you earned.\n2 DILO: Victory noise?\n",
+    "defect": "Preserve speaker tokens and counts while repairing reading order."
+  },
+  {
+    "id": "page137.block09",
+    "page": 137,
+    "old": "earned. Victory noise? 3 LULI 4 NINI Pending evidence. Very pending. 5 BIBI Begin.\n",
+    "new": "3 LULI: Pending evidence.\n4 NINI: Very pending.\n5 BIBI: Begin.\n",
+    "defect": "Preserve speaker tokens and counts while repairing reading order."
+  },
+  {
+    "id": "page080.block05",
+    "page": 80,
+    "old": "Her younger handwriting is still there:\n",
+    "new": "Her younger handwriting is still there:\nRULE 0 FIRST\n",
+    "defect": "Source checkpoint promises exact line but drops it; recover already verified line from repeated source/solution, not new clue."
+  },
+  {
+    "id": "page122.block03",
+    "page": 122,
+    "old": "• Use only the fourteen completed spatial cases listed on this page. Case 01 is not part of this extraction set.\n",
+    "new": "• Use only the fourteen completed spatial cases listed on the next page. Case 01 is not part of this extraction set.\n",
+    "defect": "Retain accepted explicit locator to duplicate list on p123; original p122 also contains that list in raster evidence. All14case mechanics retained."
+  },
+  {
+    "id": "page130.block03",
+    "page": 130,
+    "old": "that correctly restores Rule Zero.\n",
+    "new": "that correctly restores Rule Zero.\nAfter you solve it, copy the complete restored rule to MESSAGES / RULES on your Case Wall, page 13.\n",
+    "defect": "Finale retrieves restored Rule Zero from Case Wall, but current source supplies no save instruction after solve; add precise handoff without revealing answer."
+  },
+  {
+    "id": "page207.block05",
+    "page": 207,
+    "old": "ANSWER: A \u0000 B \u0000 C \u0000 D\n",
+    "new": "ANSWER: A - B - C - D\n",
+    "defect": "Replace three visible missing-glyph separators with ASCII hyphens only; exact established order/message retained."
+  },
+  {
+    "id": "page212.block05",
+    "page": 212,
+    "old": "ANSWER: B \u0000 D \u0000 A \u0000 C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.\n",
+    "new": "ANSWER: B - D - A - C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.\n",
+    "defect": "Replace three visible missing-glyph separators with ASCII hyphens only; exact established order/message retained."
+  }
+]

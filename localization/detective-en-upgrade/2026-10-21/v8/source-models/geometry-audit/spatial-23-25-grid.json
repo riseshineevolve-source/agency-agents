@@ -1,0 +1,27 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "method": "Independent visual transcription of original unsolved map at 2x with room boundaries/doorways and square blocker markers. Roster expected fields used only after enumeration.",
+  "case23": {
+    "pages": {"clue":110,"map":111,"solution":215,"solution_map":216},
+    "room_codes": {"M":"Midway","S":"Snack Stand","F":"Funhouse Queue","B":"Balloon Corner","A":"Access Office","P":"Prize Tent"},
+    "room_rows": ["MMMMMMM","SSFFFPM","BSSFFPM","BBSFPPM","ABBBBPM","AAAAPPM","AAAAPPM"],
+    "blocked": ["A2","C2","D2","F2","A4","C4","F4","F7"],
+    "benches": ["A3"],
+    "gondola": "A6",
+    "clues": ["Vivi was 7 grid steps from the gondola.","Cora was north-east of Mae.","Ozzy was south-west of Cora.","Rae was exactly two columns east of Cora.","Mae shared a room with a person who was on a bench. That person was either Ozzy or Pia.","Exactly one of Pia and Vivi was in the Snack Stand.","Jude's final room contained exactly one other person."],
+    "objective": "FIND the person sharing Jude’s area and record their square.",
+    "expected": {"Vivi":"G7","Cora":"D1","Ozzy":"A3","Rae":"F6","Mae":"C5","Pia":"B2","Jude":"E4"}
+  },
+  "case25": {
+    "pages": {"clue":118,"map":119,"solution":218,"solution_map":219},
+    "room_codes": {"P":"Parcel Room","K":"Kitchen","L":"Lobby","S":"Guest Suite","A":"Laundry","T":"Roof Terrace"},
+    "room_rows": ["PPPKKKK","LPPSSKK","LLLSSSK","LLLLSSS","AAALSTT","AAATTTT","AAATTTT"],
+    "blocked": ["A1","D1","F1","A2","A3","B3","G3","C4","G4","D6","A7","E7"],
+    "bar_stools": ["A5","C5","B7"],
+    "clues": ["Gabe was diagonally next to Rio.","Casey was in the Lobby and in column D.","Rio was north-west of Gabe.","Tate was diagonally next to Wynn.","Sol was north-east of Gabe.","Wynn was in the Laundry and on a bar stool.","Nori's final room contained exactly one other person."],
+    "objective": "REBUILD the parcel snapshot. Name Nori’s room companion and their square.",
+    "expected": {"Gabe":"F3","Casey":"D5","Rio":"E2","Tate":"C6","Sol":"G1","Wynn":"B7","Nori":"A4"}
+  }
+}
+

@@ -1,0 +1,164 @@
+{
+  "recorded_utc": "2026-10-21T12:18:25.908583+00:00",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_disposition": "KEEP_BYTE_IDENTICAL_V5",
+  "candidate_or_source_changes": 0,
+  "language_receipt": "FINAL_LANGUAGE_CHECK_V5.json retained; no new prose and no pretend re-review",
+  "geometry_disposition": "AUDIT_COMPLETE_WITH_SOURCE_GATES_AND_EXPLICIT_INTERPRETATION_LIMITS",
+  "all_green_geometry_claim": false,
+  "spatial_maps": 16,
+  "printed_placements": 107,
+  "scope": "All16 source spatial maps; Case12 prior evidence retained, others newly enumerated in this continuation. Expected solutions comparison only. Full illustrated candidate layout remains unverified.",
+  "cases": [
+    {
+      "case": 1,
+      "printed_placements": 4,
+      "status": "UNIQUE_RECORDED_SOURCE_MODEL",
+      "derived_answer": "Knox D2"
+    },
+    {
+      "case": 2,
+      "printed_placements": 6,
+      "status": "ANSWER_ROBUST_FULL_ROSTER_CONVENTION_LIMIT",
+      "derived_answer": "Dax D2"
+    },
+    {
+      "case": 4,
+      "printed_placements": 6,
+      "status": "UNIQUE_COMPLETE_PRINTED_TASK",
+      "derived_answer": "Zuri F4"
+    },
+    {
+      "case": 6,
+      "printed_placements": 6,
+      "status": "UNIQUE_EDGE_AND_EIGHT_NEIGHBOUR",
+      "derived_answer": "Arlo D2"
+    },
+    {
+      "case": 7,
+      "printed_placements": 6,
+      "status": "BLOCK_SOURCE_ANCHOR",
+      "derived_answer": null
+    },
+    {
+      "case": 10,
+      "printed_placements": 7,
+      "status": "SOURCE_ICON_AND_ADJACENCY_LIMIT",
+      "derived_answer": "Ember D5 under stated ordinary models"
+    },
+    {
+      "case": 12,
+      "printed_placements": 7,
+      "status": "PRIOR_UNIQUE_FULL_ASSIGNMENT_RETAINED",
+      "derived_answer": "Nell G2"
+    },
+    {
+      "case": 13,
+      "printed_placements": 7,
+      "status": "UNIQUE_LITERAL_DIRECTIONS",
+      "derived_answer": "Bodhi B7"
+    },
+    {
+      "case": 15,
+      "printed_placements": 7,
+      "status": "UNIQUE_ONLY_UNDER_RECORDED_WALL_AWARE_BESIDE",
+      "derived_answer": "Harper D2 conditional"
+    },
+    {
+      "case": 17,
+      "printed_placements": 7,
+      "status": "UNIQUE_RECORDED_SOURCE_MODEL",
+      "derived_answer": "Axel E3"
+    },
+    {
+      "case": 19,
+      "printed_placements": 7,
+      "status": "UNIQUE_RECORDED_MANHATTAN_COMPASS_CONVENTION",
+      "derived_answer": "Mack A7 conditional"
+    },
+    {
+      "case": 20,
+      "printed_placements": 7,
+      "status": "BLOCK_SOURCE_FIGURE_KEY_CONFLICT",
+      "derived_answer": null
+    },
+    {
+      "case": 22,
+      "printed_placements": 7,
+      "status": "UNIQUE_EDGE_AND_EIGHT_NEIGHBOUR_WITH_MANHATTAN",
+      "derived_answer": "Cody C4"
+    },
+    {
+      "case": 23,
+      "printed_placements": 7,
+      "status": "UNIQUE_RECORDED_MANHATTAN_COMPASS_CONVENTION",
+      "derived_answer": "Rae F6"
+    },
+    {
+      "case": 25,
+      "printed_placements": 7,
+      "status": "UNIQUE_RECORDED_COMPASS_CONVENTION",
+      "derived_answer": "Casey D5"
+    },
+    {
+      "case": 29,
+      "printed_placements": 9,
+      "status": "UNIQUE_EDGE_AND_EIGHT_NEIGHBOUR_WITH_COMPASS_CONVENTION",
+      "derived_answer": "Vega D3"
+    }
+  ],
+  "hard_source_gates": [
+    {
+      "case": 3,
+      "status": "INHERITED_OWNER_GATE_CAPTION_CHRONOLOGY",
+      "detail": "ARCHIVED017/LATER071 versus older071; no invented chronology."
+    },
+    {
+      "case": 7,
+      "status": "BLOCK_SOURCE_ANCHOR",
+      "detail": "stage range marker cannot be independently identified on actualmap43. No guessed anchor.",
+      "handoff": "integration/CASE07_SOURCE_ANCHOR_GATE.md"
+    },
+    {
+      "case": 20,
+      "status": "BLOCK_SOURCE_FIGURE_KEY_CONFLICT",
+      "detail": "Actualmap97 marksE7blocked; printedsolution210 putsSidE7. Strictmarkers yield0solutions. Conditionalunblock is not a repair.",
+      "handoff": "integration/CASE20_SOURCE_SYMBOL_GATE.md"
+    }
+  ],
+  "source_clarity_limits": [
+    {
+      "cases": [
+        2,
+        10,
+        15
+      ],
+      "detail": "No global precise beside/corner/wall definition; Case10pod names lack explicit object-labellegend. Broad models can change full rosters; Case15 changes requested answer too. Retain documented sensitivity, no fabricatedglobalrule."
+    },
+    {
+      "cases": [
+        19,
+        22,
+        23
+      ],
+      "detail": "Manhattan grid-step convention recorded; explicit explanation exists earlier in samebook, not globally defined onp11."
+    },
+    {
+      "cases": [
+        17,
+        19,
+        20,
+        23,
+        25,
+        29
+      ],
+      "detail": "Compassquadrants at arbitrarypositiveoffsets distinguished from explicit touchingdiagonal. Exactpercase constraints documented."
+    }
+  ],
+  "consumer_status": "No actual BookFactoryV5 import/render receipt received; soleproductwriter retains adapter/render responsibility.93ops/3067hashes,8rasterslots,source16to15/source27to26 remain.",
+  "production_renderer_changed": false,
+  "freeze_granted": false,
+  "print_ready": false,
+  "publication": false
+}

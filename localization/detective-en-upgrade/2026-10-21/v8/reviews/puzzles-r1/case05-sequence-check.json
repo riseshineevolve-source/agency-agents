@@ -1,0 +1,14 @@
+{
+  "permutations_tested": 720,
+  "solution_count": 1,
+  "solutions": [
+    [
+      "BALL",
+      "STAR",
+      "BOLT",
+      "HEART",
+      "KEY",
+      "MOON"
+    ]
+  ]
+}

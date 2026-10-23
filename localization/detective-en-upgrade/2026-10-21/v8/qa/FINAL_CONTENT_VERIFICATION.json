@@ -1,0 +1,222 @@
+{
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "reading_pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "segments": 3067,
+  "source_folios": 225,
+  "changed_segments_from_v7": 146,
+  "semantic_edit_groups": 47,
+  "changed_folios": [
+    5,
+    9,
+    11,
+    12,
+    14,
+    27,
+    30,
+    40,
+    52,
+    76,
+    81,
+    94,
+    108,
+    120,
+    122,
+    126,
+    130,
+    141,
+    146,
+    148,
+    167,
+    181,
+    184,
+    185,
+    187,
+    188,
+    190,
+    193,
+    194,
+    197,
+    199,
+    202,
+    205,
+    208,
+    210,
+    213,
+    215,
+    218,
+    220,
+    221,
+    223
+  ],
+  "all27_v6_repairs_byte_identical": true,
+  "all30_answer_headers_byte_identical": true,
+  "all16_witness_board_folios_byte_identical": true,
+  "hint_changes": [
+    "page167.block07"
+  ],
+  "all30_main_comms_reviewed": [
+    {
+      "case": 1,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 2,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 3,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 4,
+      "changed_turn_speakers": [
+        "NINI"
+      ],
+      "status": "CASE04_TASK_REDIRECT_ONLY"
+    },
+    {
+      "case": 5,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 6,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 7,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 8,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 9,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 10,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 11,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 12,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 13,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 14,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 15,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 16,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 17,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 18,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 19,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 20,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 21,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 22,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 23,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 24,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 25,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 26,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 27,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 28,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 29,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    },
+    {
+      "case": 30,
+      "changed_turn_speakers": [],
+      "status": "KEEP"
+    }
+  ],
+  "all16_full_rosters": "Actual independent fresh enumeration: one each; final-spatial-rerun.json",
+  "all14_other_cases": "Actual independent candidate/evidence checks; ALL30_PUZZLE_AUDIT_R1.json and final closure",
+  "all90_hints": "Actually read and checked by puzzle reviewer, not merely counted",
+  "source_truth": "Four0records;14mapset;CHECKTHEOLDMAP;ASSUMPTIONS/D3/sixsymbolcode/readerchosenpriorcallsign",
+  "source_figures": "All31puzzle/evidencefigures and16answerartfolios independentlyrender-bound; native184feedbacktextonly.",
+  "actual_pdf_text_surface_patches": [
+    148,
+    184
+  ],
+  "status": "PASS",
+  "print_ready": false
+}

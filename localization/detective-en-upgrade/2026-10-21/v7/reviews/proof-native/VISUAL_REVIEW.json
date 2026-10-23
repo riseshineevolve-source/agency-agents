@@ -1,0 +1,541 @@
+{
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "pdf_sha256": "9b43919e74ecb0cb6ba6779b110d2cd1ba82b86cfc146bddc0dde279c6277f20",
+  "pdf_path": "detective-v7/proof/DETECTIVE_EN_V7_FULL_READING_PROOF.pdf",
+  "stage": "reading_proof_visual",
+  "status": "PASS",
+  "reviewer": "/root/v6_native_review — independent native-language/audience reviewer, actual visual inspection",
+  "reviewed_at_utc": "2026-10-21T15:53:32.136583+00:00",
+  "scope": {
+    "purpose": "Bounded visual QA of the reading proof: dialogue speaker flow, readability, clipping, footer separation and rendered fonts.",
+    "pdf_total_folios": 225,
+    "contact_sheet_folios_seen": [
+      7,
+      12,
+      13,
+      16,
+      19,
+      20,
+      23,
+      24,
+      25,
+      26,
+      27,
+      30,
+      31,
+      34,
+      35,
+      37,
+      40,
+      41,
+      42,
+      44,
+      45,
+      49,
+      53,
+      54,
+      57,
+      60,
+      61,
+      65,
+      68,
+      69,
+      72,
+      73,
+      74,
+      77,
+      82,
+      83,
+      87,
+      90,
+      91,
+      95,
+      96,
+      97,
+      99,
+      103,
+      104,
+      105,
+      108,
+      109,
+      113,
+      116,
+      117,
+      120,
+      121,
+      125,
+      128,
+      129,
+      133,
+      137,
+      140,
+      141,
+      143,
+      144,
+      145,
+      148,
+      149,
+      154,
+      211,
+      212,
+      225
+    ],
+    "contact_sheet_folio_count": 69,
+    "full_size_folios_seen": [
+      7,
+      12,
+      16,
+      19,
+      23,
+      27,
+      53,
+      65,
+      68,
+      69,
+      99,
+      109,
+      113,
+      120,
+      121,
+      129,
+      133,
+      137,
+      141,
+      143,
+      144,
+      148,
+      149,
+      154,
+      212
+    ],
+    "full_size_folio_count": 25,
+    "all_changed_folios_seen": [
+      7,
+      12,
+      16,
+      19,
+      23,
+      27,
+      30,
+      34,
+      35,
+      37,
+      40,
+      41,
+      44,
+      45,
+      49,
+      53,
+      60,
+      61,
+      65,
+      68,
+      69,
+      72,
+      73,
+      82,
+      87,
+      90,
+      91,
+      95,
+      99,
+      103,
+      104,
+      105,
+      108,
+      109,
+      113,
+      116,
+      117,
+      120,
+      121,
+      128,
+      129,
+      133,
+      137,
+      140,
+      141,
+      143,
+      144,
+      212
+    ],
+    "unchanged_golden_scene_folios_seen": [
+      31,
+      57,
+      77,
+      83,
+      125
+    ],
+    "complex_source_folios_seen_at_contact_scale": [
+      13,
+      24,
+      25,
+      26,
+      97,
+      148,
+      149,
+      211
+    ],
+    "source_index_folios_also_seen_full_size": [
+      148,
+      149
+    ],
+    "not_in_scope": [
+      "Visual inspection of the remaining 156 folios",
+      "New prose or puzzle-solution review",
+      "Comparison PDF (reviewed separately by root)",
+      "Production layout approval",
+      "Print-ready or physical proof approval"
+    ]
+  },
+  "findings": [
+    {
+      "id": "PROOF-137-DIALOGUE",
+      "status": "RESOLVED",
+      "folio": 137,
+      "prior_pdf_sha256": "5fcd8d8e6be489a3582922a10fbc841c0ea55faaef45de50254b129342eca0bf",
+      "issue": "The initial proof alternated five standalone digits with unstyled dialogue and lacked the usual COMMS/speaker hierarchy.",
+      "resolution": "Root fixed the presentation layer. The final full-size render has a bold COMMS heading, five bold speaker labels and separate dialogue turns; portrait-order digits no longer interrupt the reading.",
+      "evidence": "proof/renders/book-137.png; reviews/proof-native/final-book-137.png"
+    },
+    {
+      "id": "DIALOGUE-FLOW",
+      "status": "PASS",
+      "detail": "Observed sampled scenes maintain a clear reading order. Folio120 separates Nini, Dilo, Luli, Bibi and Mimi correctly; folios7/12/16 now use consistent bold dialogue labels; folios99/133/137 retain the reader handoff and unhurried invitation clearly."
+    },
+    {
+      "id": "READABILITY-CLIPPING-FONTS",
+      "status": "PASS",
+      "detail": "No clipped lines, text overlap, broken glyphs or footer collisions are visible in the inspected sample. Full-size prose and dialogue are legible, with sufficient contrast and separation. Some retained source line breaks are uneven but do not prevent reading in this editorial proof."
+    },
+    {
+      "id": "LOCKED-SOURCE-SAMPLE",
+      "status": "PASS",
+      "detail": "Sampled designed leaves retain their own complete borders/footers and are not covered by an editorial-proof footer. PHOTO A / PHOTO B remain the external photo labels. Source indexes148/149 are legible at full size."
+    }
+  ],
+  "images_seen": [
+    {
+      "path": "detective-v7/proof/contact-sheets/book-01.png",
+      "sha256": "9e9c81c5f866bae1c03e97d6eae9b5fe2059a6a50cbcd875baecb5abadf2b129",
+      "view": "contact_sheet",
+      "folios": [
+        7,
+        12,
+        13,
+        16,
+        19,
+        20,
+        23,
+        24,
+        25,
+        26,
+        27,
+        30,
+        31,
+        34,
+        35,
+        37
+      ]
+    },
+    {
+      "path": "detective-v7/proof/contact-sheets/book-02.png",
+      "sha256": "90746eee9c8ab33bac2d6a58c247996dd93f66cc804dda223ea93d0a4d106fc4",
+      "view": "contact_sheet",
+      "folios": [
+        40,
+        41,
+        42,
+        44,
+        45,
+        49,
+        53,
+        54,
+        57,
+        60,
+        61,
+        65,
+        68,
+        69,
+        72,
+        73
+      ]
+    },
+    {
+      "path": "detective-v7/proof/contact-sheets/book-03.png",
+      "sha256": "58063b111034cb92cb78e4833343be5d3818e784ecadc66337bff83bf09711b9",
+      "view": "contact_sheet",
+      "folios": [
+        74,
+        77,
+        82,
+        83,
+        87,
+        90,
+        91,
+        95,
+        96,
+        97,
+        99,
+        103,
+        104,
+        105,
+        108,
+        109
+      ]
+    },
+    {
+      "path": "detective-v7/proof/contact-sheets/book-04.png",
+      "sha256": "725cc7778d63312f1e2f190358454b0c107d0d061a204c7fd40b0adb47909a38",
+      "view": "contact_sheet",
+      "folios": [
+        113,
+        116,
+        117,
+        120,
+        121,
+        125,
+        128,
+        129,
+        133,
+        137,
+        140,
+        141,
+        143,
+        144,
+        145,
+        148
+      ]
+    },
+    {
+      "path": "detective-v7/proof/contact-sheets/book-05.png",
+      "sha256": "715d3da11a670fbd84b62f4e6697a430bb5b829e0fcb33b80efd069feafdb05a",
+      "view": "contact_sheet",
+      "folios": [
+        149,
+        154,
+        211,
+        212,
+        225
+      ]
+    },
+    {
+      "path": "detective-v7/reviews/proof-native/final-book-007.png",
+      "sha256": "7be847c2d6f15960343f407fbfcde4ec7a3ca0c52796010abe09051acc61f797",
+      "view": "full_size",
+      "folios": [
+        7
+      ]
+    },
+    {
+      "path": "detective-v7/reviews/proof-native/final-book-012.png",
+      "sha256": "b2c6f43a362dd0c19e2082c4ba6f5f37363883b7e52c23b1b7a2901d822950e5",
+      "view": "full_size",
+      "folios": [
+        12
+      ]
+    },
+    {
+      "path": "detective-v7/reviews/proof-native/final-book-016.png",
+      "sha256": "b858c53969d3996ff6949c0ce1c6d5e9866271307f67ffe8f56c50516597ee81",
+      "view": "full_size",
+      "folios": [
+        16
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-019.png",
+      "sha256": "8fdeaaa973acdde842ad7ce999f17f8ac495f504fa1cfef56f06354d08abd919",
+      "view": "full_size",
+      "folios": [
+        19
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-023.png",
+      "sha256": "839bccbd13cb218a03c87d4578512d5a3fb657687920530c085c91d8d7d8ff16",
+      "view": "full_size",
+      "folios": [
+        23
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-027.png",
+      "sha256": "98a0b59ac396545b3ade13163a438ba1bf196593c80882584c188d1a92a3b9f7",
+      "view": "full_size",
+      "folios": [
+        27
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-053.png",
+      "sha256": "09eb98095a02aab93328f66ec6b05e261679e3f93ea5afdfb7aa3a258f096fa6",
+      "view": "full_size",
+      "folios": [
+        53
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-065.png",
+      "sha256": "be1974263fc9fdfed04dfda68e0e398dc6a7dd464a6d03238a24a200b2550307",
+      "view": "full_size",
+      "folios": [
+        65
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-068.png",
+      "sha256": "d70a59b443e97c4a5d25c2c7f0995d6d49d39b1dced0602d9fce24de5e4d5bb5",
+      "view": "full_size",
+      "folios": [
+        68
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-069.png",
+      "sha256": "f61e0a9f3348e07a00b3f32acb17c2366e94f02386c2c63680dcdcae673e0e40",
+      "view": "full_size",
+      "folios": [
+        69
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-099.png",
+      "sha256": "e2c5476ba464560786e40b1ed0f6e18ef68c0d0c3436ddf0a60c214e56720737",
+      "view": "full_size",
+      "folios": [
+        99
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-109.png",
+      "sha256": "d0f5eb197c6133a08c113b9801a4c422377692d1b9b88440ffade65f84d7e6bb",
+      "view": "full_size",
+      "folios": [
+        109
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-113.png",
+      "sha256": "3bc72cd468ddde5dfbd4e7e313570f619b0ddec1cda718c48778c462400ac1fe",
+      "view": "full_size",
+      "folios": [
+        113
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-120.png",
+      "sha256": "15acc1fe7948adf72f38125cd868dbb42d037c0c724c15419a487b29ec3fad59",
+      "view": "full_size",
+      "folios": [
+        120
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-121.png",
+      "sha256": "21ca945e456d16d4eef4832d0610646842e19448b9b26c1247e19593ac2c97a8",
+      "view": "full_size",
+      "folios": [
+        121
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-129.png",
+      "sha256": "47ec3e1c39588ab4155d3d1b023b64f2ba807db863d91b839fb77c06684fd56b",
+      "view": "full_size",
+      "folios": [
+        129
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-133.png",
+      "sha256": "b2f49e8c37d240d4a56319df4386ed5612d774f55fa16f7558c0d2415009dd41",
+      "view": "full_size",
+      "folios": [
+        133
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-137.png",
+      "sha256": "892dd9db2e18bcb38fdbb07ed3ff207b597410eea5302c983e7e5e0bc1c968da",
+      "view": "full_size",
+      "folios": [
+        137
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-141.png",
+      "sha256": "84726bc97031235b2d7ba7b2be61dcb1aeb5d3e23836b9e6c54d03f3dda19aa6",
+      "view": "full_size",
+      "folios": [
+        141
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-143.png",
+      "sha256": "5104c39a0c994852bd125cf9343edd80c73d64f07457089fe1a61fee23987ff8",
+      "view": "full_size",
+      "folios": [
+        143
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-144.png",
+      "sha256": "2bbb6a927bf604073ce60a446e615c57d251ee8a1e9b3dcdfc9a4b2512bdfb67",
+      "view": "full_size",
+      "folios": [
+        144
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-148.png",
+      "sha256": "8afaf0b31bfa67f187ad73e3680f75d9469f61ef7525d5d135786c4d3a22aea6",
+      "view": "full_size",
+      "folios": [
+        148
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-149.png",
+      "sha256": "149adf98fbd4a0971f3c1d23f3a49e8b8f7a025ced289b09ea55c10cd911570a",
+      "view": "full_size",
+      "folios": [
+        149
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-154.png",
+      "sha256": "c4e35cfb6ca404026802408bb3730ed5d426ae816f2eb235139b0baad67dffed",
+      "view": "full_size",
+      "folios": [
+        154
+      ]
+    },
+    {
+      "path": "detective-v7/proof/renders/book-212.png",
+      "sha256": "88ca10cd4733725e10b5be59d9e128ecb0dd298e0ee51db9fee7676e93616134",
+      "view": "full_size",
+      "folios": [
+        212
+      ]
+    }
+  ],
+  "evidence": {
+    "coverage_index": "proof/CONTACT_INDEX.json",
+    "changed_folio_list": "qa/FINAL_CONTENT_VERIFICATION.json",
+    "fresh_pixel_binding": "reviews/proof-native/FULLSIZE_PIXEL_BINDING.json",
+    "fresh_pixel_binding_description": "All 22 pre-rendered full-size PNGs inspected by this reviewer were compared to freshly rendered pixels from the final PDF at Matrix(1.3,1.3); all match exactly. Three newly rendered final-PDF folios7/12/16 were then inspected at full size. All five final book contact sheets were re-inspected after the rebuild.",
+    "automatic_checks_read_from_report": {
+      "report": "proof/PROOF_QA.json",
+      "reported_copy_checks": 225,
+      "reported_copy_check_passes": 225,
+      "reported_locked_art_and_designed_source_folios": 52,
+      "reported_offpage_text": "NONE",
+      "note": "These automatic checks supplement the actual visual sample; they are not an assertion that all225 folios were visually inspected."
+    },
+    "candidate_prose_review": "reviews/native-final/native_language.json and reviews/native-final/audience.json (candidate unchanged)"
+  },
+  "production_layout_approval": false,
+  "print_approval": false,
+  "remaining_material_findings": []
+}

@@ -1,0 +1,121 @@
+{
+  "reviewer": "Actual independent agent /root/v8_reader_market",
+  "reviewed_utc": "2026-10-22T07:59:27.626278+00:00",
+  "stage": "saved_pdf_reader_flow_visual",
+  "status": "PASS",
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "pdf_path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/proof/DETECTIVE_EN_V8_FULL_ENGLISH.pdf",
+  "pdf_folios": 225,
+  "actual_full_size_visual_folios": [
+    5,
+    9,
+    14,
+    27,
+    30,
+    40,
+    52,
+    76,
+    79,
+    81,
+    94,
+    108,
+    120,
+    141,
+    145,
+    146,
+    147,
+    148,
+    204
+  ],
+  "scope": "Opening and changed story flow; speaker-label integrity; credential/certification continuity; Case16 hat/photo framing; sequel after Book1 closure; native Case03 index patch; restored wrapped solution title204. All listed folios were inspected at full-size 1.2x raster. Full instruction/solution layout review belongs to the independent audience reviewer.",
+  "render_evidence": "Fresh process reopened the saved PDF. The final 19-page selected raster set was compared with the previously visually inspected 40c set at 1.2x; only 148 changed. The final 148 saved-PDF raster was then inspected again full size. No in-memory authoring render was used to approve the repair.",
+  "render_binding_path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/reviews/reader-market-final/final-visual-render-binding.json",
+  "checks": [
+    {
+      "check": "Opening promise and navigation",
+      "status": "PASS",
+      "folios": [
+        5,
+        9,
+        14
+      ],
+      "evidence": "Room Zero question follows its colon; difficulty promise matches varied challenges; reader name/call-sign choice allows help; Case 01 is correctly described as just ahead."
+    },
+    {
+      "check": "Local setup/closure joins",
+      "status": "PASS",
+      "folios": [
+        27,
+        30,
+        94,
+        108,
+        120
+      ],
+      "evidence": "Case 04 contact promise closes as record correction; Case 23 no longer promises an unsupplied crossing; parcel destination is stated. Revised blocks join grammatically and keep speaker attribution."
+    },
+    {
+      "check": "Trimmed bridges and exact copying",
+      "status": "PASS",
+      "folios": [
+        40,
+        52,
+        81
+      ],
+      "evidence": "Repeated belonging/departure/header beats are removed without losing the open route, remembered form or exact RULE 0 FIRST instruction."
+    },
+    {
+      "check": "Hat and actual photograph",
+      "status": "PASS",
+      "folios": [
+        76,
+        79
+      ],
+      "evidence": "The hat is clearly laid beside the box in the present scene. The six-child evidence photograph remains unchanged and has no hat falsely asserted inside it."
+    },
+    {
+      "check": "Complete first-book ending and sequel",
+      "status": "PASS",
+      "folios": [
+        141,
+        145,
+        146,
+        147
+      ],
+      "evidence": "The route explains its limited function, certification changes five hooks to six, and Book 1 log is filed before the next archive file. Dilo handles the release flap carefully. No stranded speaker labels or missing dialogue."
+    },
+    {
+      "check": "Actual native index patch and border",
+      "status": "PASS",
+      "folios": [
+        148
+      ],
+      "evidence": "FILE 22/23 / PHOTOS 24/25 / RECORD 26 is readable; hints/solution references remain; final knockout lies inside the card and its right border is intact."
+    },
+    {
+      "check": "Full wrapped title204",
+      "status": "PASS",
+      "folios": [
+        204
+      ],
+      "evidence": "GRANDMA BIBI’S VERY OLD, VERY EMBARRASSING PHOTOGRAPH is complete in the saved PDF. The title continuation is not replaced by footer metadata."
+    }
+  ],
+  "closed_visual_findings": [
+    {
+      "id": "RPV01-INDEX-CARD-BORDER",
+      "status": "CLOSED",
+      "prior_pdf_sha256": "40c38884d5732b74f3766aaa4a26938069b82b5eeb497ee0e5a1ea17597d8ce2",
+      "final_pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+      "folio": 148,
+      "evidence": "The previous white knockout crossed the card boundary. Final saved-PDF full-size inspection shows an uninterrupted original right border and unchanged readable new index text."
+    }
+  ],
+  "open_findings": [],
+  "supporting_root_evidence": {
+    "path": "/workspace/scratch/e6eabdc4c3a0/detective-v8/proof/PROOF_BORDER_CLOSURE.json",
+    "claim": "Root reports 225 text-identical folios and 224 render-identical folios after border-only repair. This role independently compared its 19 selected 1.2x rasters; only 148 changed."
+  },
+  "print_ready": false,
+  "limits": "This is the specified editorial reading-flow visual scope, not full production typography, physical-print, freeze or release approval."
+}

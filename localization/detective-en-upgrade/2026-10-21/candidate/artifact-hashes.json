@@ -1,0 +1,12 @@
+{
+  "candidate.json": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "candidate-segments.json": "8e549812d69a2a7ed0855158bdd166b563768940a6067552d23db1b1e73b3f13",
+  "candidate-pages.json": "3617925940fff6055c70350920b9b71760e9d0427e8d6c683f47bf2fbaa24f02",
+  "reader-manuscript.md": "187d5f060be76af9d8d978e089c229c7675df4e25a4c33235809ee0a58c1aaf2",
+  "reader-order.json": "76070c4906329c9bcbbecf20edb3dedaabdab2b92f7be7d8a1ffcfea55cf8761",
+  "change-ledger.json": "bfce6acf336047cd751d60d716ba125ac73a8b1270504b8c029ac1c1a6c6f331",
+  "page-coverage.json": "1e2afd8edd0304ae4f2d0abd5d1bc4c120e676c982db69d357ebf79699ae3cf9",
+  "writer-validation.json": "f45d6f6a1ae7bb6ed470fe32ab2d2d9a63fb8ca5c20690fe86fefba6d69f8170",
+  "reader-export-validation.json": "cf76921305d4540e9f766ac880b5b9d78cb048bd019ca00fb898b259e118d61a",
+  "WRITER_HANDOFF.md": "dd1ac0ad215aed74644987d22ef82b96dc4c5cdffa7278c50c5bf45630a9a412"
+}

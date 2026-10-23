@@ -1,0 +1,20 @@
+{
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "archive_path": "/workspace/scratch/e6eabdc4c3a0/deliverables/RSE_DETECTIVE_EN_V7_EDITORIAL_20261021.zip",
+  "archive_sha256": "70a5c5e6440704be14c1e48873876fc2d334dbb286bbaa37db85e7550f2336df",
+  "archive_bytes": 68555333,
+  "reading_pdf": {
+    "path": "/workspace/scratch/e6eabdc4c3a0/detective-v7/proof/DETECTIVE_EN_V7_FULL_READING_PROOF.pdf",
+    "sha256": "9b43919e74ecb0cb6ba6779b110d2cd1ba82b86cfc146bddc0dde279c6277f20",
+    "bytes": 56604852,
+    "pages": 225
+  },
+  "comparison_pdf": {
+    "path": "/workspace/scratch/e6eabdc4c3a0/detective-v7/proof/HM_COMMS_ORIGINAL_V6_V7_COMPARISON.pdf",
+    "sha256": "4483f5234e563e22215d0d24c0f7e23f28d67e5c09a1cfc0c54bd005c328910a",
+    "bytes": 97610,
+    "pages": 34
+  },
+  "archive_files": 91,
+  "receipt_added_after_archive": "External persistence receipt is deliberately outside the immutable archive."
+}

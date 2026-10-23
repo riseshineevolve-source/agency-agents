@@ -1,0 +1,102 @@
+{
+  "Asa E3": [
+    {
+      "roster": {
+        "Sid": "A7",
+        "Pax": "G5",
+        "Luca": "F2",
+        "Mara": "D4",
+        "Asa": "E3",
+        "Toby": "C6",
+        "Demi": "B1"
+      },
+      "Demi_room": "Main Studio",
+      "companions": [
+        "Mara",
+        "Asa"
+      ]
+    },
+    {
+      "roster": {
+        "Sid": "A7",
+        "Pax": "G6",
+        "Luca": "F2",
+        "Mara": "D4",
+        "Asa": "E3",
+        "Toby": "C5",
+        "Demi": "B1"
+      },
+      "Demi_room": "Main Studio",
+      "companions": [
+        "Mara",
+        "Asa"
+      ]
+    }
+  ],
+  "Mara E4": [
+    {
+      "roster": {
+        "Sid": "F7",
+        "Pax": "G5",
+        "Luca": "A1",
+        "Mara": "E4",
+        "Asa": "B2",
+        "Toby": "C6",
+        "Demi": "D3"
+      },
+      "Demi_room": "Main Studio",
+      "companions": [
+        "Mara",
+        "Asa"
+      ]
+    },
+    {
+      "roster": {
+        "Sid": "F7",
+        "Pax": "G6",
+        "Luca": "A1",
+        "Mara": "E4",
+        "Asa": "B2",
+        "Toby": "C5",
+        "Demi": "D3"
+      },
+      "Demi_room": "Main Studio",
+      "companions": [
+        "Mara",
+        "Asa"
+      ]
+    },
+    {
+      "roster": {
+        "Sid": "G6",
+        "Pax": "F5",
+        "Luca": "A1",
+        "Mara": "E4",
+        "Asa": "B2",
+        "Toby": "C7",
+        "Demi": "D3"
+      },
+      "Demi_room": "Main Studio",
+      "companions": [
+        "Mara",
+        "Asa"
+      ]
+    },
+    {
+      "roster": {
+        "Sid": "G7",
+        "Pax": "F5",
+        "Luca": "A1",
+        "Mara": "E4",
+        "Asa": "B2",
+        "Toby": "C6",
+        "Demi": "D3"
+      },
+      "Demi_room": "Main Studio",
+      "companions": [
+        "Mara",
+        "Asa"
+      ]
+    }
+  ]
+}

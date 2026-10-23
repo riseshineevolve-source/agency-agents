@@ -1,0 +1,23 @@
+{
+  "candidate_sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+  "full_read_baseline_sha256": "9f25b542e0162aa357c8409c3927622ee52ba1508e5bcbe3443d608c14e29fe5",
+  "delta_units": [
+    "page019.block03",
+    "page019.block04",
+    "page068.block04",
+    "page068.block05",
+    "page068.block06",
+    "page099.block21",
+    "page108.block13",
+    "page212.block12"
+  ],
+  "delta_count": 8,
+  "unchanged_from_full_R1_review": 3059,
+  "stable_id_order": "EXACT3067units",
+  "v6_repair_units_exact": 27,
+  "index_hints_solutions_folio148plus_total": 1314,
+  "only_nonmechanic_summary_exception": "page212.block12",
+  "reader_manuscript_sha256": "d16480c205f29ada9b45f1b942e4dc0fc07f7903f5540fb4eed1e5745b3afa50",
+  "reader_export_checks": "Changedfolios19/68/99/108/212 and read-order120/numberedsolutions183 reread; sentence joins, real speaker order and restored listnumbers coherent.",
+  "status": "PASS_IDENTITY_AND_BOUNDED_CLOSURE"
+}

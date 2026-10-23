@@ -1,0 +1,63 @@
+{
+  "reviewer": "actual independent agent /root/v6_puzzle_review",
+  "reviewed_utc": "2026-10-21T14:41:11.523791+00:00",
+  "stage": "actual visible bounded figure-patch review and independent original-vs-new PDF/payload/pixel verification",
+  "candidate_sha256": "d9dcc50eaccea03f693b1ade4ea001d522379d9def9f0467dd2e21ddd7e9fedc",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "corrected_figures_pdf_sha256": "97f93e50551c25f7def860f3142b7010919d67e32b1a4a9995c0aa4a4e0302e9",
+  "reading_proof_pdf_sha256": "b247627072f41b610a6697b6532239981c2a9a31f815c0c5ff0d43ee334963e5",
+  "patch_manifest_sha256": "fd4dc3ee30352759186f99e87e5549d835290afc17ec133da0f07c49a21a4088",
+  "status": "PASS_ACTUAL_AUTHORIZED_FIGURE_PATCHES",
+  "scope": "Four leaves corresponding to source folios24/25/97/211; not whole-book illustrated product layout.",
+  "findings": [
+    {
+      "id": "ART-PHOTO-CAPTIONS",
+      "status": "KEEP",
+      "source_folios": [
+        24,
+        25
+      ],
+      "finding": "Actual final visual captions read only PHOTO A and PHOTO B; near-black caption backgrounds match surrounding bar. No external017/071 or chronology hint. Original photograph raster payloads/bboxes and complete rendered photograph pixels are identical. Internal017/071 remain visibly intact."
+    },
+    {
+      "id": "ART-C20-UNSOLVED",
+      "status": "KEEP",
+      "source_folios": [
+        97
+      ],
+      "finding": "Actual visible E7 and F7 markers are open circles. E5, all other markers, bunks, walls, room labels and geometry remain unchanged. Independent3x render comparison found507changedpixels, zero outside declared two tiny marker rectangles."
+    },
+    {
+      "id": "ART-C20-SOLVED",
+      "status": "KEEP",
+      "source_folios": [
+        211
+      ],
+      "finding": "Actual visible E7 and F7 markers are open circles. Sid01 remains E7; all seven witness labels and coordinates, E5, walls, furniture, printed key and roster preserved. Independent3x render comparison found484changedpixels, zero outside declared two tiny marker rectangles."
+    },
+    {
+      "id": "ART-PROOF-BINDING",
+      "status": "KEEP",
+      "source_folios": [
+        24,
+        25,
+        97,
+        211
+      ],
+      "finding": "All four corrected figure leaves render identically to corresponding leaves in full225readingproof. Supplied PNGs are exact1.5xrenders of corrected finalPDF. All source image payload digests and placements preserved."
+    }
+  ],
+  "open_findings": [],
+  "limitations": [
+    "V6 corrected map-model uniqueness was independently confirmed by separate mechanics receipt. This art receipt validates actual prescribed visible marker changes, not a new all-map solve.",
+    "Original211 contains a second clipped historical image invocation; source image payloads, placements and visible pixels outside the first axes-aligned grid markers are preserved. No claim to remove or repair that inherited hidden invocation.",
+    "This does not establish BookFactory production import, native source update, full illustrated layout fit, physical print or PRINT_READY."
+  ],
+  "render_reproducibility": "MuPDF store cache cleared before each raster operation. Without clearing, a cached downsampled image intermediate produced differences when switching3xto1.5x; cold renders match exactly. No tolerance/approximate-pixel pass used.",
+  "evidence": {
+    "verification": "reviews/figures/verification.json",
+    "script": "reviews/figures/verify-figures.py",
+    "verification_sha256": "357f01e27fde77e55223243b8c2d98e1dd216301585a9e23cb448037613fb645",
+    "script_sha256": "1221267f5508541f51bc786dd6f3d1faf1e4f534fe96408e0640be4dca3129ea"
+  }
+}

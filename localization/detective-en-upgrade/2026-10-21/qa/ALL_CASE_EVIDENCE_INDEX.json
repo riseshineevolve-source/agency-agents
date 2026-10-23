@@ -1,0 +1,665 @@
+{
+  "recorded_utc": "2026-10-21T13:09:55.929442+00:00",
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "candidate_disposition": "KEEP_EXACT_V5",
+  "stage": "All-case evidence coverage and explicit external dependency closure; no repeated puzzle verification",
+  "actual_new_reviews": 2,
+  "new_puzzle_solves_or_renders": 0,
+  "new_missing_semantic_check_identified": false,
+  "production_or_source_gate_closure_claim": false,
+  "all_cases": 30,
+  "spatial_cases": 16,
+  "nonspatial_cases": 14,
+  "cases": [
+    {
+      "case": 1,
+      "board_folio": 17,
+      "puzzle_folio": 18,
+      "solution_folio": 179,
+      "hint_folios": [
+        152,
+        161,
+        170
+      ],
+      "printed_answer_reference_only": "KNOX at D2",
+      "kind": "spatial",
+      "coverage": "UNIQUE_RECORDED_SOURCE_MODEL",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 2,
+      "board_folio": 20,
+      "puzzle_folio": 21,
+      "solution_folio": 181,
+      "hint_folios": [
+        152,
+        161,
+        170
+      ],
+      "printed_answer_reference_only": "Dax at D2",
+      "kind": "spatial",
+      "coverage": "ANSWER_ROBUST_FULL_ROSTER_CONVENTION_LIMIT",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN",
+      "source_convention_clarity_limit": true
+    },
+    {
+      "case": 3,
+      "board_folio": 24,
+      "puzzle_folio": 25,
+      "solution_folio": 183,
+      "hint_folios": [
+        152,
+        161,
+        170
+      ],
+      "printed_answer_reference_only": "ALL 10 DIFFERENCES",
+      "kind": "nonspatial",
+      "coverage": "CURRENT_PHOTO_INVENTORY_INHERITED__CAPTION_OWNER_GATE_RETAINED",
+      "semantic_receipt": "qa/nonspatial-coverage-early.json",
+      "prior_semantic_key": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case03_ten_current_differences"
+      },
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST",
+      "source_gate_open": true
+    },
+    {
+      "case": 4,
+      "board_folio": 28,
+      "puzzle_folio": 29,
+      "solution_folio": 185,
+      "hint_folios": [
+        152,
+        161,
+        170
+      ],
+      "printed_answer_reference_only": "Zuri at F4",
+      "kind": "spatial",
+      "coverage": "UNIQUE_COMPLETE_PRINTED_TASK",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 5,
+      "board_folio": 32,
+      "puzzle_folio": 33,
+      "solution_folio": 187,
+      "hint_folios": [
+        153,
+        162,
+        171
+      ],
+      "printed_answer_reference_only": "BALL -> STAR -> BOLT -> HEART -> KEY -> MOON",
+      "kind": "nonspatial",
+      "coverage": "ACCEPTED_EXHAUSTIVE_SEQUENCE_PROOF_INHERITED",
+      "semantic_receipt": "qa/nonspatial-coverage-early.json",
+      "prior_semantic_key": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case05_exhaustive_permutation_check"
+      },
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 6,
+      "board_folio": 38,
+      "puzzle_folio": 39,
+      "solution_folio": 188,
+      "hint_folios": [
+        153,
+        162,
+        171
+      ],
+      "printed_answer_reference_only": "Arlo at D2",
+      "kind": "spatial",
+      "coverage": "UNIQUE_EDGE_AND_EIGHT_NEIGHBOUR",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 7,
+      "board_folio": 42,
+      "puzzle_folio": 43,
+      "solution_folio": 190,
+      "hint_folios": [
+        153,
+        162,
+        171
+      ],
+      "printed_answer_reference_only": "Zoe at C6",
+      "kind": "spatial",
+      "coverage": "BLOCK_SOURCE_ANCHOR",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN",
+      "source_gate_open": true
+    },
+    {
+      "case": 8,
+      "board_folio": 46,
+      "puzzle_folio": 47,
+      "solution_folio": 192,
+      "hint_folios": [
+        153,
+        162,
+        171
+      ],
+      "printed_answer_reference_only": "C",
+      "kind": "nonspatial",
+      "coverage": "ACCEPTED_ROUTE_ELIMINATION_INHERITED",
+      "semantic_receipt": "qa/nonspatial-coverage-early.json",
+      "prior_semantic_key": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case08"
+      },
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 9,
+      "board_folio": 50,
+      "puzzle_folio": 51,
+      "solution_folio": 193,
+      "hint_folios": [
+        154,
+        163,
+        172
+      ],
+      "printed_answer_reference_only": "THE PLAIN 0 IS A RECURRING ACADEMY MARK.",
+      "kind": "nonspatial",
+      "coverage": "ACCEPTED_MARK_CLASSIFICATION_INHERITED",
+      "semantic_receipt": "qa/nonspatial-coverage-early.json",
+      "prior_semantic_key": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case09"
+      },
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 10,
+      "board_folio": 54,
+      "puzzle_folio": 55,
+      "solution_folio": 194,
+      "hint_folios": [
+        154,
+        163,
+        172
+      ],
+      "printed_answer_reference_only": "Ember at D5",
+      "kind": "spatial",
+      "coverage": "SOURCE_ICON_AND_ADJACENCY_LIMIT",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN",
+      "source_convention_clarity_limit": true
+    },
+    {
+      "case": 11,
+      "board_folio": 58,
+      "puzzle_folio": 59,
+      "solution_folio": 196,
+      "hint_folios": [
+        154,
+        163,
+        172
+      ],
+      "printed_answer_reference_only": "D",
+      "kind": "nonspatial",
+      "coverage": "ACCEPTED_TIMESTAMP_CLASSIFICATION_INHERITED",
+      "semantic_receipt": "qa/nonspatial-coverage-early.json",
+      "prior_semantic_key": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case11"
+      },
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 12,
+      "board_folio": 62,
+      "puzzle_folio": 63,
+      "solution_folio": 197,
+      "hint_folios": [
+        154,
+        163,
+        172
+      ],
+      "printed_answer_reference_only": "Nell at G2",
+      "kind": "spatial",
+      "coverage": "PRIOR_UNIQUE_FULL_ASSIGNMENT_RETAINED",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 13,
+      "board_folio": 66,
+      "puzzle_folio": 67,
+      "solution_folio": 199,
+      "hint_folios": [
+        155,
+        164,
+        173
+      ],
+      "printed_answer_reference_only": "Bodhi at B7",
+      "kind": "spatial",
+      "coverage": "UNIQUE_LITERAL_DIRECTIONS",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 14,
+      "board_folio": 70,
+      "puzzle_folio": 71,
+      "solution_folio": 201,
+      "hint_folios": [
+        155,
+        164,
+        173
+      ],
+      "printed_answer_reference_only": "NOAH",
+      "kind": "nonspatial",
+      "coverage": "ACCEPTED_GRAPH_TIME_DERIVATION_INHERITED",
+      "semantic_receipt": "qa/nonspatial-coverage-early.json",
+      "prior_semantic_key": {
+        "path": "qa/truth-and-mechanics-lock.json",
+        "key": "case14"
+      },
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 15,
+      "board_folio": 74,
+      "puzzle_folio": 75,
+      "solution_folio": 202,
+      "hint_folios": [
+        155,
+        164,
+        173
+      ],
+      "printed_answer_reference_only": "Harper at D2",
+      "kind": "spatial",
+      "coverage": "UNIQUE_ONLY_UNDER_RECORDED_WALL_AWARE_BESIDE",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN",
+      "source_convention_clarity_limit": true
+    },
+    {
+      "case": 16,
+      "board_folio": 78,
+      "puzzle_folio": 79,
+      "solution_folio": 204,
+      "hint_folios": [
+        155,
+        164,
+        173
+      ],
+      "printed_answer_reference_only": "building: OLD ACADEMY ANNEX; year: 2002",
+      "kind": "nonspatial",
+      "coverage": "INHERITED_ACCEPTED_SEMANTIC_COVERAGE",
+      "semantic_receipt": "qa/nonspatial-coverage-late.json",
+      "prior_semantic_references": [
+        "qa/truth-and-mechanics-lock.json: case16, coverage.puzzle_visuals_inspected folio79",
+        "qa/review-truth-mechanics.json: TM-RULE-REPAIRS",
+        "integration/review-figure-dependencies.json: FIG-080-NOTE"
+      ],
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 17,
+      "board_folio": 84,
+      "puzzle_folio": 85,
+      "solution_folio": 205,
+      "hint_folios": [
+        156,
+        165,
+        174
+      ],
+      "printed_answer_reference_only": "Axel at E3",
+      "kind": "spatial",
+      "coverage": "UNIQUE_RECORDED_SOURCE_MODEL",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 18,
+      "board_folio": 88,
+      "puzzle_folio": 89,
+      "solution_folio": 207,
+      "hint_folios": [
+        156,
+        165,
+        174
+      ],
+      "printed_answer_reference_only": "A \u2192 B \u2192 C \u2192 D",
+      "kind": "nonspatial",
+      "coverage": "PRIOR_CLOSED_NOT_RERUN",
+      "semantic_receipt": "qa/nonspatial-coverage-late.json",
+      "prior_semantic_references": [
+        "geometry-audit/special-cases-review.json: CASE18_CLOCK_TRUTH",
+        "geometry-audit/review-separator-truth-logic.json"
+      ],
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 19,
+      "board_folio": 92,
+      "puzzle_folio": 93,
+      "solution_folio": 208,
+      "hint_folios": [
+        156,
+        165,
+        174
+      ],
+      "printed_answer_reference_only": "Mack at A7",
+      "kind": "spatial",
+      "coverage": "UNIQUE_RECORDED_MANHATTAN_COMPASS_CONVENTION",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 20,
+      "board_folio": 96,
+      "puzzle_folio": 97,
+      "solution_folio": 210,
+      "hint_folios": [
+        156,
+        165,
+        174
+      ],
+      "printed_answer_reference_only": "Pax at F5",
+      "kind": "spatial",
+      "coverage": "BLOCK_SOURCE_FIGURE_KEY_CONFLICT",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN",
+      "source_gate_open": true
+    },
+    {
+      "case": 21,
+      "board_folio": 100,
+      "puzzle_folio": 101,
+      "solution_folio": 212,
+      "hint_folios": [
+        157,
+        166,
+        175
+      ],
+      "printed_answer_reference_only": "B \u2192 D \u2192 A \u2192 C; THE ANSWER IS IN WHAT YOU LEAVE EMPTY.",
+      "kind": "nonspatial",
+      "coverage": "PRIOR_CLOSED_NOT_RERUN",
+      "semantic_receipt": "qa/nonspatial-coverage-late.json",
+      "prior_semantic_references": [
+        "geometry-audit/special-cases-review.json: CASE21_TEAR_TRUTH",
+        "geometry-audit/review-separator-truth-logic.json"
+      ],
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 22,
+      "board_folio": 106,
+      "puzzle_folio": 107,
+      "solution_folio": 213,
+      "hint_folios": [
+        157,
+        166,
+        175
+      ],
+      "printed_answer_reference_only": "Cody at C4",
+      "kind": "spatial",
+      "coverage": "UNIQUE_EDGE_AND_EIGHT_NEIGHBOUR_WITH_MANHATTAN",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 23,
+      "board_folio": 110,
+      "puzzle_folio": 111,
+      "solution_folio": 215,
+      "hint_folios": [
+        157,
+        166,
+        175
+      ],
+      "printed_answer_reference_only": "Rae at F6",
+      "kind": "spatial",
+      "coverage": "UNIQUE_RECORDED_MANHATTAN_COMPASS_CONVENTION",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 24,
+      "board_folio": 114,
+      "puzzle_folio": 115,
+      "solution_folio": 217,
+      "hint_folios": [
+        157,
+        166,
+        175
+      ],
+      "printed_answer_reference_only": "EAST PATH -> WEST GATE",
+      "kind": "nonspatial",
+      "coverage": "INHERITED_ACCEPTED_SEMANTIC_COVERAGE",
+      "semantic_receipt": "qa/nonspatial-coverage-late.json",
+      "prior_semantic_references": [
+        "qa/truth-and-mechanics-lock.json: case24, coverage.puzzle_visuals_inspected folio115",
+        "qa/review-truth-mechanics.json: TM-FOOTPRINTS"
+      ],
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 25,
+      "board_folio": 118,
+      "puzzle_folio": 119,
+      "solution_folio": 218,
+      "hint_folios": [
+        158,
+        167,
+        176
+      ],
+      "printed_answer_reference_only": "Casey at D5",
+      "kind": "spatial",
+      "coverage": "UNIQUE_RECORDED_COMPASS_CONVENTION",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 26,
+      "board_folio": 122,
+      "puzzle_folio": 123,
+      "solution_folio": 220,
+      "hint_folios": [
+        158,
+        167,
+        176
+      ],
+      "printed_answer_reference_only": "CHECK THE OLD MAP",
+      "kind": "nonspatial",
+      "coverage": "PRIOR_CLOSED_NOT_RERUN",
+      "semantic_receipt": "qa/nonspatial-coverage-late.json",
+      "prior_semantic_references": [
+        "geometry-audit/case26-extraction-review.json",
+        "geometry-audit/case13-empty-room-crosscheck.json",
+        "qa/SOURCE_PUZZLE_GATE_STATUS.json"
+      ],
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 27,
+      "board_folio": 126,
+      "puzzle_folio": 127,
+      "solution_folio": 221,
+      "hint_folios": [
+        158,
+        167,
+        176
+      ],
+      "printed_answer_reference_only": "SEALED TRAINING ROOM BEHIND THE CURRENT ARCHIVE WALL",
+      "kind": "nonspatial",
+      "coverage": "PRIOR_CLOSED_NOT_RERUN",
+      "semantic_receipt": "qa/nonspatial-coverage-late.json",
+      "prior_semantic_references": [
+        "geometry-audit/special-cases-review.json: CASE27_OVERLAY_TRUTH"
+      ],
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 28,
+      "board_folio": 130,
+      "puzzle_folio": 131,
+      "solution_folio": 222,
+      "hint_folios": [
+        158,
+        167,
+        176
+      ],
+      "printed_answer_reference_only": "ZERO ASSUMPTIONS. NOTICE FIRST. THEORIZE SECOND.",
+      "kind": "nonspatial",
+      "coverage": "INHERITED_ACCEPTED_SEMANTIC_COVERAGE",
+      "semantic_receipt": "qa/nonspatial-coverage-late.json",
+      "prior_semantic_references": [
+        "qa/truth-and-mechanics-lock.json: case28, coverage.puzzle_visuals_inspected folio131",
+        "qa/review-truth-mechanics.json: TM-RULE-REPAIRS",
+        "integration/review-figure-dependencies.json: FIG-130-CASEWALL"
+      ],
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    },
+    {
+      "case": 29,
+      "board_folio": 134,
+      "puzzle_folio": 135,
+      "solution_folio": 223,
+      "hint_folios": [
+        159,
+        168,
+        177
+      ],
+      "printed_answer_reference_only": "Vega at D3",
+      "kind": "spatial",
+      "coverage": "UNIQUE_EDGE_AND_EIGHT_NEIGHBOUR_WITH_COMPASS_CONVENTION",
+      "semantic_receipt": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "assessment": "RETAINED_PRIOR_SPATIAL_AUDIT_NOT_RERUN"
+    },
+    {
+      "case": 30,
+      "board_folio": 138,
+      "puzzle_folio": 139,
+      "solution_folio": 225,
+      "hint_folios": [
+        159,
+        168,
+        177
+      ],
+      "printed_answer_reference_only": "RULE WORD = ASSUMPTIONS / ACCESS = D3 / CODE =\nBALL\u2013STAR\u2013BOLT\u2013HEART\u2013KEY\u2013MOON / CALL SIGN = reader's official call sign",
+      "kind": "nonspatial",
+      "coverage": "INHERITED_ACCEPTED_SEMANTIC_COVERAGE",
+      "semantic_receipt": "qa/nonspatial-coverage-late.json",
+      "prior_semantic_references": [
+        "qa/truth-and-mechanics-lock.json: case30, coverage.puzzle_visuals_inspected folio139",
+        "qa/review-truth-mechanics.json: TM-FINAL-INPUTS, TM-SYSTEM-LIMITS",
+        "integration/review-figure-dependencies.json: FIG-FINALE-SPEAKERS"
+      ],
+      "assessment": "NEW_COVERAGE_ASSESSMENT_ONLY_NO_PUZZLE_RETEST"
+    }
+  ],
+  "existing_receipts_context_commit": "53287a38d42c15a4e945d451871cf331b49e1eb0",
+  "existing_receipts": [
+    {
+      "path": "qa/truth-and-mechanics-lock.json",
+      "sha256": "cb355bd47976abab5bd3850fbfb7d7106ee3682745ff861843dc637bc1223428",
+      "git_commit": "53287a38d42c15a4e945d451871cf331b49e1eb0"
+    },
+    {
+      "path": "qa/review-truth-mechanics.json",
+      "sha256": "91a281502ec114921f481f67372f11f0d40112824aa45f2de1f2834b8cee65e9",
+      "git_commit": "53287a38d42c15a4e945d451871cf331b49e1eb0"
+    },
+    {
+      "path": "qa/SOURCE_PUZZLE_GATE_STATUS.json",
+      "sha256": "4a9d718fd9120fbd4109be02ca5894c4a4993331a3d5e5b32ab02d415b7043ab",
+      "git_commit": "53287a38d42c15a4e945d451871cf331b49e1eb0"
+    },
+    {
+      "path": "geometry-audit/SPATIAL_AUDIT_MANIFEST.json",
+      "sha256": "46a97c6b69f147fc5164908f045db426de0449255ed2d29746eca5b8c774572d",
+      "git_commit": "53287a38d42c15a4e945d451871cf331b49e1eb0"
+    },
+    {
+      "path": "geometry-audit/special-cases-review.json",
+      "sha256": "2287b8e4758213d842f024ba30315e70f5a859af5f56f515313e59f0a8ff273e",
+      "git_commit": "53287a38d42c15a4e945d451871cf331b49e1eb0"
+    },
+    {
+      "path": "geometry-audit/case26-extraction-review.json",
+      "sha256": "930f436507b0a6427c0466bc513a2e30b3a4b25b2455b026c269f3de3c2936d6",
+      "git_commit": "53287a38d42c15a4e945d451871cf331b49e1eb0"
+    },
+    {
+      "path": "integration/review-figure-dependencies.json",
+      "sha256": "dd136d9aed974a00a8b950d29ae6b09780e9d3e36206fb66e338cbd9f4246731",
+      "git_commit": "53287a38d42c15a4e945d451871cf331b49e1eb0"
+    },
+    {
+      "path": "integration/EDITORIAL_IMPORT_PACKET.json",
+      "sha256": "e32b0692fcf588ce390120c872a78ff1e366a37f3f13dd308a0f2272822728e1",
+      "git_commit": "53287a38d42c15a4e945d451871cf331b49e1eb0"
+    }
+  ],
+  "new_coverage_receipts": [
+    {
+      "path": "qa/nonspatial-coverage-early.json",
+      "sha256": "5e1c700eda8bf9f05f5d42fc43a0305e488e379a8a5a962a98aa0de612b7fa9f"
+    },
+    {
+      "path": "qa/nonspatial-coverage-late.json",
+      "sha256": "8d55522bef14fe647b68877e435e9e075c016861bc3cf4825c5721916ca26d0a"
+    }
+  ],
+  "historical_checkpoint_reference_note": "The early coverage receipt hashes the checkpoint as read at commit53287a3. Later checkpoint updates do not alter that historical reviewed context.",
+  "remaining_external_inputs": [
+    {
+      "type": "SOURCE_AUTHORITY",
+      "cases": [
+        3,
+        7,
+        20
+      ],
+      "need": "Authoritative chronology/anchor/object-symbol resolutions, with exact source/art hashes. Do not infer a repair from known answer."
+    },
+    {
+      "type": "SOURCE_CLARITY",
+      "cases": [
+        2,
+        10,
+        15
+      ],
+      "need": "Approved precise corner/beside/wall/icon interpretations before unconditional full-roster correctness claim. No new global rule invented."
+    },
+    {
+      "type": "PRODUCT_WRITER",
+      "need": "Actual exactV5 import,93operations/3067targethashes, per-ID destination text/slot receipts, unchanged protected art, complete illustrated render and fit evidence.",
+      "raster_slot_ids": [
+        "page006.block02",
+        "page007.block02",
+        "page007.block03",
+        "page008.block02",
+        "page008.block04",
+        "page009.block02",
+        "page012.block03",
+        "page016.block04"
+      ],
+      "remap": {
+        "source16": "destination15",
+        "source27narrative": "destination26"
+      }
+    },
+    {
+      "type": "OWNER_AND_PHYSICAL_PROOF",
+      "need": "Owner reading of actual designed proof, print/cut/overlay checks and separate release decisions."
+    }
+  ],
+  "localization_owned_task_state": "No further justified source-content edit or missing puzzle semantic check identified. Await actual new external input; no speculative rewrite/renderer.",
+  "continuation_paused_due_to_external_dependencies": true,
+  "limits": [
+    "All30case evidence coverage is not all225page illustrated semantic/layout acceptance.",
+    "Original-source figure preservation does not prove any migrated product render.",
+    "Inherited whole-bookV4reviews cover3065unchanged texts; separateV5deltareviews cover boundedseparatorrepair. No new all-bookPASS.",
+    "No acknowledgment by consumingchat inferred. No freeze,PRINT_READY,mainmerge orpublication."
+  ]
+}

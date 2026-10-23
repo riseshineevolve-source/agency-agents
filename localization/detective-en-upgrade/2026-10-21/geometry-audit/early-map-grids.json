@@ -1,0 +1,257 @@
+{
+  "source_pdf_sha256": "9db84d4f138cbbde8eb1f4a0f783f4d126c639120a11cabb65fc00711b9f05a0",
+  "candidate_sha256": "9ebae1eabafe2f5ed92c38c2ad7b858a9c85d573b5a7e92c4fb08f1c5810a978",
+  "transcription_method": "Independent visual read of original unsolved pages21/29 and solution pages182/186. Grid square centres classified by actual thick-wall boundaries, not label proximity. Rows north-to-south; columns A–F west-to-east.",
+  "beside_convention": "No explicit definition found on source11 or by full-intake term search. Baseline uses shared grid edge (Manhattan1);8-neighbour and same-room variants tested separately. No result is forced to expected roster.",
+  "cases": [
+    {
+      "case": 2,
+      "clue_page": 20,
+      "map_page": 21,
+      "solution_pages": [
+        181,
+        182
+      ],
+      "hint_pages": [
+        152,
+        161,
+        170
+      ],
+      "columns": "ABCDEF",
+      "room_codes": {
+        "P": "Photo Booth",
+        "D": "Display Room",
+        "C": "Coach's Office",
+        "T": "Trophy Hall",
+        "E": "Equipment Room"
+      },
+      "room_grid": [
+        [
+          "P",
+          "P",
+          "D",
+          "D",
+          "D",
+          "D"
+        ],
+        [
+          "P",
+          "P",
+          "P",
+          "D",
+          "D",
+          "C"
+        ],
+        [
+          "P",
+          "P",
+          "C",
+          "C",
+          "C",
+          "C"
+        ],
+        [
+          "T",
+          "T",
+          "T",
+          "C",
+          "E",
+          "E"
+        ],
+        [
+          "T",
+          "T",
+          "T",
+          "C",
+          "E",
+          "E"
+        ],
+        [
+          "T",
+          "T",
+          "E",
+          "E",
+          "E",
+          "E"
+        ]
+      ],
+      "objects": {
+        "bleacher": [
+          "B1",
+          "A3"
+        ],
+        "desk_chair": [
+          "F1",
+          "C5",
+          "A6"
+        ],
+        "stool": [
+          "F2",
+          "C3",
+          "D3",
+          "E6"
+        ],
+        "teacher_desk": [
+          "C1",
+          "B6",
+          "F6"
+        ],
+        "globe": [
+          "D1"
+        ],
+        "piano": [
+          "A2"
+        ],
+        "lab_bench": [
+          "E5",
+          "F5"
+        ]
+      },
+      "blocked": [
+        "C1",
+        "D1",
+        "A2",
+        "E5",
+        "F5",
+        "B6",
+        "F6"
+      ],
+      "expected_for_comparison_only": {
+        "Nova": "B3",
+        "Dax": "D2",
+        "Rook": "A6",
+        "Atlas": "F4",
+        "Ivy": "C5",
+        "Max": "E1"
+      },
+      "visual_notes": [
+        "DisplayRoom includesC1:F1 andD2:E2; D1blocked byglobe so DaxD2.",
+        "F2/C3:F3/D4:D5 formCoach'sOffice; equipment floor includesC6:F6 andE4:F5.",
+        "RookA6 is beside teacherdeskB6; A6genericdesk chair visibly circle-marked standable."
+      ]
+    },
+    {
+      "case": 4,
+      "clue_page": 28,
+      "map_page": 29,
+      "solution_pages": [
+        185,
+        186
+      ],
+      "hint_pages": [
+        152,
+        161,
+        170
+      ],
+      "columns": "ABCDEF",
+      "room_codes": {
+        "S": "Supply Room",
+        "P": "Packing Room",
+        "T": "Pickup Tent",
+        "K": "Kitchen",
+        "H": "Hospitality Room"
+      },
+      "room_grid": [
+        [
+          "S",
+          "S",
+          "P",
+          "T",
+          "T",
+          "T"
+        ],
+        [
+          "S",
+          "S",
+          "P",
+          "P",
+          "T",
+          "T"
+        ],
+        [
+          "S",
+          "S",
+          "P",
+          "P",
+          "T",
+          "T"
+        ],
+        [
+          "S",
+          "S",
+          "P",
+          "P",
+          "H",
+          "T"
+        ],
+        [
+          "K",
+          "K",
+          "P",
+          "H",
+          "H",
+          "T"
+        ],
+        [
+          "K",
+          "K",
+          "K",
+          "H",
+          "H",
+          "H"
+        ]
+      ],
+      "objects": {
+        "bumper_car": [
+          "B2",
+          "A4"
+        ],
+        "gondola": [
+          "E5"
+        ],
+        "bench": [
+          "B6"
+        ],
+        "strongman_game": [
+          "D1"
+        ],
+        "ring_toss_stand": [
+          "D2"
+        ],
+        "prize_shelf": [
+          "F1",
+          "F3"
+        ],
+        "popcorn_cart": [
+          "A6"
+        ],
+        "cotton_candy_machine": [
+          "C6"
+        ]
+      },
+      "blocked": [
+        "D1",
+        "D2",
+        "F1",
+        "F3",
+        "A6",
+        "C6"
+      ],
+      "expected_for_comparison_only": {
+        "Echo": "A2",
+        "Kai": "B6",
+        "Zuri": "F4",
+        "Briar": "D3",
+        "Clover": "C5",
+        "Pixel": "E1"
+      },
+      "objective_fact": "Printed objective says Pixel's Pickup Tent, independently constraining Pixel's named room toPickupTent when the complete task is consumed.",
+      "visual_notes": [
+        "PickupTent extends down rightmost columnF4/F5; horizontal/vertical walls enclosingE4:E5 do not encloseF4.",
+        "HospitalityRoom isE4,D5/E5,D6/E6/F6; no solved occupant lies there.",
+        "PackingRoom hasC5 as its only row5square; PickupTent hasF4 as its only row4square."
+      ]
+    }
+  ],
+  "corner_convention": "Source Case02 says in a corner, without explicitly saying grid corner. Baseline uses four outer grid corners. Sensitivity also treats a square touching at least one horizontal and one vertical room-boundary edge as a room corner. This broader interpretation is recorded separately, never forced to expected answers."
+}

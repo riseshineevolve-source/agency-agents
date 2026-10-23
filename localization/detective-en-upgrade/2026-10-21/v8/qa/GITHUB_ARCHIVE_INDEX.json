@@ -1,0 +1,73 @@
+{
+  "full_archive_library_file_id": "libfile_da1bed141d108191a32b9d5d4a7a893b",
+  "current_version_number": 3,
+  "archive_sha256": "1ed8fac4b427ad5bca9688db6e7f75a413bb0cecc7c1bec4bd819586e7744e0a",
+  "omitted_duplicate_or_detailed_files": [
+    {
+      "path": "baseline/v8-intake-r2.json",
+      "sha256": "0c69eb25215e0c3c9311b83ece24520407a75c23e1cd1dea4bf5d5363c382271",
+      "bytes": 576616
+    },
+    {
+      "path": "source-models/HISTORICAL_TRUTH_REVIEW.json",
+      "sha256": "a601d3df31b483b7ced22aa5e0cf515b0133a395662b0189baa5e35c13031ef5",
+      "bytes": 56516
+    },
+    {
+      "path": "integration/INHERITED_V7_IMPORT_PACKET.json",
+      "sha256": "42fd82eed6ae2b48953ed1e7fa4e271aad1d00901ee07a19626db6836bf2dadd",
+      "bytes": 466649
+    },
+    {
+      "path": "reviews/story-humor-final/coverage.json",
+      "sha256": "2950c1d7070f43912fcbba993737d58feccff8034b9222fe81ba7faffe392966",
+      "bytes": 181428
+    },
+    {
+      "path": "reviews/story-humor-r1/build_review.py",
+      "sha256": "83d7ed35eaf0df4e001afdf4ab856cb0ea5e4456baad85a08455d73efa831507",
+      "bytes": 39724
+    },
+    {
+      "path": "reviews/story-humor-r1/coverage.json",
+      "sha256": "1595bb8673f2163db7e2bfdf39d4e597c46d4f62e53ec2a6b84cfa35deed48d7",
+      "bytes": 165754
+    },
+    {
+      "path": "reviews/story-humor-r1/findings.json",
+      "sha256": "4cd3d3929cdd0b643d260c7c3666fffe3d986f118da45620ca19703ded1eaaf5",
+      "bytes": 224312
+    },
+    {
+      "path": "reviews/audience-r1/audience-review-v7-diagnostic.json",
+      "sha256": "5ab5976ef2ddbec23e2cf88a0ac8c8f442ba3eabe07c3cc25d85a48e8ec8e12b",
+      "bytes": 228863
+    },
+    {
+      "path": "reviews/audience-final/audience-coverage.json",
+      "sha256": "3792a398b0c8c6c5544074603fcc3b8ded7a6a1a2028693c23b44ed42c48a5b5",
+      "bytes": 209301
+    },
+    {
+      "path": "reviews/reader-market-r1/build_report.py",
+      "sha256": "1c25ebb922cf1ece06d458f295d4cb896c7e3b69f1b2ed32f89385297e23edd2",
+      "bytes": 52548
+    },
+    {
+      "path": "reviews/reader-market-r1/reader-market-review.json",
+      "sha256": "21019765e08d6f2eff9ccb11b649e407bb07809b279293cb19c35d51c52388cf",
+      "bytes": 286677
+    },
+    {
+      "path": "reviews/puzzles-r1/spatial-enumerations.json",
+      "sha256": "c676ef9f05a877bfdfaaf4da593a9bbf759af0c8c9553ef297a64e5e01b277b5",
+      "bytes": 313128
+    },
+    {
+      "path": "reviews/reader-market-final/full_findings.json",
+      "sha256": "50321883e24a0852b5fab65f97463bec2c033ae20f4d42b5c6f9f3e46d97dd29",
+      "bytes": 64710
+    }
+  ],
+  "reason": "Complete140filearchive retains full run/richmetadata and verbose coverage; Git keeps canonical master, actual receipts, diagnostic prose, finalfreshsolver outputs and exact import/QA. Inherited V7packet already versioned under v7/."
+}

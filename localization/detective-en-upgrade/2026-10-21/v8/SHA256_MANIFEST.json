@@ -1,0 +1,703 @@
+{
+  "candidate_sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+  "reading_pdf_sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+  "audit_pdf_sha256": "e0fe8a671016fccc88d50f17ad2724cea4851cafe964c662b2605f0462bd6ece",
+  "files": [
+    {
+      "path": "detective-v8/CHECKPOINT.md",
+      "sha256": "ddcd5ed931673624d03c49a54276efdbbdd52119df5ccb9b59c29e6d9e68445f",
+      "bytes": 2123
+    },
+    {
+      "path": "detective-v8/OWNER_AUTHORITY.json",
+      "sha256": "3feed2ec63613a975a7ceb338deca42bddfd5c0eeabff0d6df05c3053835e37f",
+      "bytes": 1567
+    },
+    {
+      "path": "detective-v8/README.md",
+      "sha256": "3027d38284579a326a1d4e8bee5cf2ad398cadb88eba6ce6c0aac7e020b30228",
+      "bytes": 1096
+    },
+    {
+      "path": "detective-v8/RECOVERY.md",
+      "sha256": "7dd949ba4a1814038ad909a9546a3d72d8b3e897c6675c9856a7ff891dab3f00",
+      "bytes": 1353
+    },
+    {
+      "path": "detective-v8/art/DETECTIVE_EN_V6_CORRECTED_FIGURES.pdf",
+      "sha256": "97f93e50551c25f7def860f3142b7010919d67e32b1a4a9995c0aa4a4e0302e9",
+      "bytes": 9940805
+    },
+    {
+      "path": "detective-v8/art/LOCKED_V6_FIGURE_PATCH_MANIFEST.json",
+      "sha256": "fd4dc3ee30352759186f99e87e5549d835290afc17ec133da0f07c49a21a4088",
+      "bytes": 4227
+    },
+    {
+      "path": "detective-v8/baseline/SOURCE_INVENTORY.json",
+      "sha256": "e1ef73ee6c5b748004d286a948abb5a444cbc0527cb560dfa579e86e1d226269",
+      "bytes": 622
+    },
+    {
+      "path": "detective-v8/baseline/candidate-v7.json",
+      "sha256": "df4b39f8793de32ace25998ae2986dfb708ad08a5bb80b6f0b8c0eecef49eeb1",
+      "bytes": 312647
+    },
+    {
+      "path": "detective-v8/baseline/v8-intake-r2.json",
+      "sha256": "0c69eb25215e0c3c9311b83ece24520407a75c23e1cd1dea4bf5d5363c382271",
+      "bytes": 576616
+    },
+    {
+      "path": "detective-v8/baseline/v8-intake.json",
+      "sha256": "a715cae84891846d98f204baf7b80a8b8961e696cfbbce66279928f54fe3db3b",
+      "bytes": 576615
+    },
+    {
+      "path": "detective-v8/baseline/v8-r1-candidate.json",
+      "sha256": "bc90b44439e6380104a67873383e946923577b86ece0b6f482380b6c9e73c76b",
+      "bytes": 321762
+    },
+    {
+      "path": "detective-v8/baseline/v8-r1-change-ledger.json",
+      "sha256": "27645d4d863cdf5d10b14a5fbb7fb69debbc45a8b39d021f2de82d33ce9197f4",
+      "bytes": 83830
+    },
+    {
+      "path": "detective-v8/baseline/v8-r1-edit-units.json",
+      "sha256": "745208a5b7400336281dd1b5e3f796933fde4d89819a9d3e8e647e0731bf4377",
+      "bytes": 64537
+    },
+    {
+      "path": "detective-v8/baseline/v8-r1-reader-manuscript.md",
+      "sha256": "30312b67e0613d61b100f328a2cf7651e997e19238cde952843d5ec5a2ad2754",
+      "bytes": 121822
+    },
+    {
+      "path": "detective-v8/build_audit_report.py",
+      "sha256": "65a0e2af052bc17773cc22868ac21e8b23a3291cad384ea2e0ec6e9b59d2bd5c",
+      "bytes": 15063
+    },
+    {
+      "path": "detective-v8/build_book.py",
+      "sha256": "19891f353f991b0e032b8191de143f3c6804254495632749788610ead2ecb3dd",
+      "bytes": 11449
+    },
+    {
+      "path": "detective-v8/build_candidate.py",
+      "sha256": "9deade9b91bb4bedd425b305caf6064df78d6ca34f447caa9011d43fd362bb9d",
+      "bytes": 10529
+    },
+    {
+      "path": "detective-v8/candidate/candidate-pages.json",
+      "sha256": "abf6fd5bda1ae6b104e75fb46305c5ad65bb67e855fd22023cbcd486e5b799b8",
+      "bytes": 143823
+    },
+    {
+      "path": "detective-v8/candidate/candidate-segments.json",
+      "sha256": "70a94bd476ca1aa8054d6cdcc40ffa7d4593b3af93728ca1e6b46672e1eac557",
+      "bytes": 2722489
+    },
+    {
+      "path": "detective-v8/candidate/candidate.json",
+      "sha256": "d0faccca46f0023d564154a1fe3f6a559ce37ac31dc53f6d2b4fe7d4f1b9fc1e",
+      "bytes": 321958
+    },
+    {
+      "path": "detective-v8/candidate/change-ledger.json",
+      "sha256": "b9c193aa5d4079921baf2b25bc219c7566ba5c3cfd09ebd87f3ef5488ffba17a",
+      "bytes": 84556
+    },
+    {
+      "path": "detective-v8/candidate/edit-units.json",
+      "sha256": "f459a9417e75bee68accfe96c1b015ff620cd66694fe04daaa2fa96297188d93",
+      "bytes": 65428
+    },
+    {
+      "path": "detective-v8/candidate/reader-manuscript.md",
+      "sha256": "e8cfe4c85d054787b13da94563906c9ef92c715d97716df3e5b71d14060f8282",
+      "bytes": 121995
+    },
+    {
+      "path": "detective-v8/candidate/reader-order.json",
+      "sha256": "bea1650c5bb86909e93dddbf76cb1463a45ea500d1996cf8d31bc028646e3c52",
+      "bytes": 7970
+    },
+    {
+      "path": "detective-v8/edits-base.json",
+      "sha256": "53852b926ea98e941031326d55747f377d7b22c8c10be917b38d3dcd27585352",
+      "bytes": 11858
+    },
+    {
+      "path": "detective-v8/edits-clarity.json",
+      "sha256": "18d1f87895957d4bf59cd6b3837167b0706ba3048631dfbf6f51b95d110c50de",
+      "bytes": 4514
+    },
+    {
+      "path": "detective-v8/edits-solutions.json",
+      "sha256": "e9067b1b9cf8d68e7bcef2cbc8bb6270d0c483937d032bbe03f68cd89f1ece78",
+      "bytes": 17344
+    },
+    {
+      "path": "detective-v8/finalize.py",
+      "sha256": "3065a90ecd21344baedb059ab01af77d08a996e25d70fcbd7205a6e878c1830b",
+      "bytes": 10971
+    },
+    {
+      "path": "detective-v8/integration/EDITORIAL_IMPORT_PACKET_V8.json",
+      "sha256": "ea58b470b9f5e61a23dc1166613276e33ed730a3d253a293df94c0f33f4c108c",
+      "bytes": 367691
+    },
+    {
+      "path": "detective-v8/integration/INHERITED_V7_IMPORT_PACKET.json",
+      "sha256": "42fd82eed6ae2b48953ed1e7fa4e271aad1d00901ee07a19626db6836bf2dadd",
+      "bytes": 466649
+    },
+    {
+      "path": "detective-v8/package.py",
+      "sha256": "f1b3facaa1910b8a146defd0d28c6885de4cd80b8e635a1d89a55a45455fe841",
+      "bytes": 2633
+    },
+    {
+      "path": "detective-v8/proof/AUDIT_REPORT_QA.json",
+      "sha256": "edacc9db02b8096d735e757144730eac239eaafc62b00947e75bbdca4771258d",
+      "bytes": 980
+    },
+    {
+      "path": "detective-v8/proof/DETECTIVE_EN_V8_AUDYT_I_ZMIANY.pdf",
+      "sha256": "e0fe8a671016fccc88d50f17ad2724cea4851cafe964c662b2605f0462bd6ece",
+      "bytes": 98576
+    },
+    {
+      "path": "detective-v8/proof/DETECTIVE_EN_V8_FULL_ENGLISH.pdf",
+      "sha256": "67278523fa587ed18799da5c3b8c0aeb5c4bf77294a5269e8b132fbe138ea230",
+      "bytes": 56960625
+    },
+    {
+      "path": "detective-v8/proof/FIT_CHECK.json",
+      "sha256": "0a070793284bf7facf4f8365886ce1ff17ed2341af5185e2b3d6ec00b4e42311",
+      "bytes": 18912
+    },
+    {
+      "path": "detective-v8/proof/PROOF_BORDER_CLOSURE.json",
+      "sha256": "e5a198c1eaa1f5b444b5e5f0b4ff4c638d863bc331dcb08872c9ebded7812860",
+      "bytes": 521
+    },
+    {
+      "path": "detective-v8/proof/PROOF_QA.json",
+      "sha256": "b5f0c2a5afa17bffbcba9435a960de4ad24489275a2ac197f201bd871993a30f",
+      "bytes": 22524
+    },
+    {
+      "path": "detective-v8/proof/SAVED_PDF_RENDER_BINDING.json",
+      "sha256": "6e286244376f036bb202707bb56231eca0098ae6a820c2d247cf5c7c1df90fea",
+      "bytes": 7223
+    },
+    {
+      "path": "detective-v8/proof/fonts/source-FeedbackRepair.ttf",
+      "sha256": "936069d5e46da383bff37b629a73e0bfb8b8ac7bc54cfb927fb700f6a890e9aa",
+      "bytes": 300664
+    },
+    {
+      "path": "detective-v8/proof/fonts/source-IndexRepair.ttf",
+      "sha256": "7f109b2b6d72e7563522d3c3d2c6c8b79ec5a711bfdf483b93e345eab5b5ef94",
+      "bytes": 303944
+    },
+    {
+      "path": "detective-v8/qa/BOUNDARY_CHECK.json",
+      "sha256": "fe47b084cca33d59311014b53fbcb0ee350076e95ae5f72a1941f53dd3e90c48",
+      "bytes": 1350
+    },
+    {
+      "path": "detective-v8/qa/CLI_CHECK.json",
+      "sha256": "476504d8feb624f207f408f0072b7a9aa248564a01bc92170d2d32a7423f5e2a",
+      "bytes": 3947
+    },
+    {
+      "path": "detective-v8/qa/CONTENT_MAP.json",
+      "sha256": "297d2ea55c66dadb5765172e87620861e4bbe3decd12bd5fd35737a7fde4c439",
+      "bytes": 24254
+    },
+    {
+      "path": "detective-v8/qa/FINAL_CONTENT_VERIFICATION.json",
+      "sha256": "4faecaa6a79a07b8bbc9b10c92c9cf8db3014a531e494016ea92840e01f1e5f7",
+      "bytes": 4252
+    },
+    {
+      "path": "detective-v8/qa/GOLDEN_KEEP.json",
+      "sha256": "da3c77a8b1892291c94756334240ab7408a5f7a57a720a6fd6018fd2a6cfe650",
+      "bytes": 68052
+    },
+    {
+      "path": "detective-v8/reviews/FINAL_REVIEW_BUNDLE.json",
+      "sha256": "ac2bee6743d3b3306d067fb55b83ae4eed9c7ae0a6c6790455b58c35aff25db2",
+      "bytes": 4862
+    },
+    {
+      "path": "detective-v8/reviews/audience-final/audience-coverage.json",
+      "sha256": "3792a398b0c8c6c5544074603fcc3b8ded7a6a1a2028693c23b44ed42c48a5b5",
+      "bytes": 209301
+    },
+    {
+      "path": "detective-v8/reviews/audience-final/audience.json",
+      "sha256": "739c4a3f5b331ad0a287aa83c4d75099e11a0bedd80b895a8291abe9ae72b0ac",
+      "bytes": 7570
+    },
+    {
+      "path": "detective-v8/reviews/audience-final/audience.md",
+      "sha256": "17a68c635d0d661154b24c32eee6971251d02923053105c6cade58f740b85072",
+      "bytes": 14900
+    },
+    {
+      "path": "detective-v8/reviews/audience-final/visual-render-binding-final.json",
+      "sha256": "fb827816b141c88dfaaf7f552b7b0549ddb9259ca212e33ada3a6b0530b0b8dd",
+      "bytes": 18334
+    },
+    {
+      "path": "detective-v8/reviews/audience-final/visual-render-binding-poppler.json",
+      "sha256": "b9d23dd7750ca4d239d2052439192860cca1cb8db501b005c560cf9a7ff88ec6",
+      "bytes": 12443
+    },
+    {
+      "path": "detective-v8/reviews/audience-final/visual-render-binding.json",
+      "sha256": "166302ed5728de50c95a67785103ed525e1b4f14ed755ace602d4dabaa95909d",
+      "bytes": 11999
+    },
+    {
+      "path": "detective-v8/reviews/audience-r1/audience-review-v7-diagnostic.json",
+      "sha256": "5ab5976ef2ddbec23e2cf88a0ac8c8f442ba3eabe07c3cc25d85a48e8ec8e12b",
+      "bytes": 228863
+    },
+    {
+      "path": "detective-v8/reviews/audience-r1/audience-review-v7-diagnostic.md",
+      "sha256": "fa21be7ab77e8488dac8c51f09ba896e47f70105a5b7447b6c3f781d16683fd9",
+      "bytes": 50267
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-final/FINAL_EVIDENCE_RENDER_BINDING.json",
+      "sha256": "0a8a42fbdf7fd15de1f5f6f3b62dc5f9342e99ce98984ef71f33fa2b85eaa810",
+      "bytes": 16228
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-final/FINAL_EVIDENCE_RENDER_BINDING_67278523.json",
+      "sha256": "b62d3557217448666919212ad3baec4faed08464067cadfeb92520fdff1a6dd5",
+      "bytes": 10012
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-final/FINAL_MEANING_LOGIC_CLOSURE.json",
+      "sha256": "5454665dbc99f7ff04a28e5a7f5735b44c6e8f94e6017c933fb02f8d98d63600",
+      "bytes": 30656
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-final/FINAL_REVIEW_SUMMARY.md",
+      "sha256": "fe1f81fa02b2f3eedf9a034ed8b42364e21c23f77f151787626ffa6034859f86",
+      "bytes": 5004
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-final/FIX_R1_bc90b444.json",
+      "sha256": "aa25427b34ad51ad1159da1dc8e1ad584448a29d9122511bbc502235aaa396f5",
+      "bytes": 1432
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-final/FIX_R2_460a0f1d.json",
+      "sha256": "3336e83904a6e95f70968ad3d7234f8990c1f71d4d4bb352b76d0dc8a76ac7e0",
+      "bytes": 839
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-final/case20-rejected-alternatives.json",
+      "sha256": "091b22670758b3c137dfeae55c01ab6cdcce2738c775c8879f2d84abf66bfa9c",
+      "bytes": 1743
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-final/final-spatial-rerun.json",
+      "sha256": "f7e3be03b991410c52b2bfa6e32d57fbace0fa6ce436acdc4f8f69bdaae7370e",
+      "bytes": 313004
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-final/final-text-checks.json",
+      "sha256": "54e25627a9d18a8c74c2930901c322d801cf52f22926900b8ea2c90ec532fd10",
+      "bytes": 702
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-final/new-text-delta.json",
+      "sha256": "d6174138ae72c836ae4140480c453db4477524c3703623a96ebabd5a602d0723",
+      "bytes": 38741
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/ALL30_PUZZLE_AUDIT_R1.json",
+      "sha256": "47f13c83fdc073cf4f31502f9bfffa28fd5d46d630059cf4290c5d3be6499681",
+      "bytes": 25341
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/MAP_DEDUCTION_CHAINS.md",
+      "sha256": "a346f342343b335845f7517c8450fabeff24f3d1563d23c494f1e62d102c2e0d",
+      "bytes": 11422
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/adjacency-sensitivity.json",
+      "sha256": "74da6be6c4a13a9bdbee26e3cd3f6a384daee978428662116f72340921f30858",
+      "bytes": 3017
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/case05-sequence-check.json",
+      "sha256": "99cf08c6dad3c0df4329ada2ae347210b52723b84c762100c2e80fa7839c9bd2",
+      "bytes": 172
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/case21-edge-enumeration.json",
+      "sha256": "f713df0dc36a3967faa672c43c32ea46537aa6dca4a77d515e25f85e4af448dd",
+      "bytes": 488
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/case26-derived-extraction.json",
+      "sha256": "2af1dd7b420b8ccb1f30259d759fc34fb08eb0e7c50606f4cf1712de4bfb8328",
+      "bytes": 3504
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/evidence-text.txt",
+      "sha256": "a5cb7b7e0efdeeb9b26aa9d03e580ad4bed320119a8afb205d38933524df404c",
+      "bytes": 3197
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/independent_solver.py",
+      "sha256": "c7748925e9a888774f62c0f2a5a0222a122b8382fad3ac7edcb64d0aad05067a",
+      "bytes": 15585
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/photo-difference-components.json",
+      "sha256": "8e5fd31bad89ddec939d58ddd992f4d9ffbd505a18a68608f66add34277f3532",
+      "bytes": 19465
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/spatial-enumerations.json",
+      "sha256": "c676ef9f05a877bfdfaaf4da593a9bbf759af0c8c9553ef297a64e5e01b277b5",
+      "bytes": 313128
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/verified-candidate-branches.json",
+      "sha256": "3679f763c7cece3d19c19419fbd49ad223fcccb9ed79b0a36f0f41dc570955dc",
+      "bytes": 18884
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/verify_deduction_branches.py",
+      "sha256": "21cc8aeac1bac48689af351d2cd5694f07bee9d2f24a6053b8932cab090c96bb",
+      "bytes": 2624
+    },
+    {
+      "path": "detective-v8/reviews/puzzles-r1/write_audit_receipt.py",
+      "sha256": "9576094ed3c822c6ade4de151f6df57cc189d55ea25c3a2e4d241b4191683b9b",
+      "bytes": 11349
+    },
+    {
+      "path": "detective-v8/reviews/reader-market-final/final-visual-render-binding.json",
+      "sha256": "94900338acfc6e0d8b061dd5c0f45a463c82ec3a4d3c4ece40d71736a2d2c47f",
+      "bytes": 5036
+    },
+    {
+      "path": "detective-v8/reviews/reader-market-final/full_findings.json",
+      "sha256": "50321883e24a0852b5fab65f97463bec2c033ae20f4d42b5c6f9f3e46d97dd29",
+      "bytes": 64710
+    },
+    {
+      "path": "detective-v8/reviews/reader-market-final/integration-preservation-d0faccca46f0.json",
+      "sha256": "c65465acb055b885cf4cb3c9ca75c4c204c144feb60c2d82e4829b31f3d839e0",
+      "bytes": 5851
+    },
+    {
+      "path": "detective-v8/reviews/reader-market-final/logic.json",
+      "sha256": "50321883e24a0852b5fab65f97463bec2c033ae20f4d42b5c6f9f3e46d97dd29",
+      "bytes": 64710
+    },
+    {
+      "path": "detective-v8/reviews/reader-market-final/review.md",
+      "sha256": "cd774d24aca4964a292fe70d9c3e1b9bee14863acde8fad00718c9c752639ee8",
+      "bytes": 6678
+    },
+    {
+      "path": "detective-v8/reviews/reader-market-final/visual.json",
+      "sha256": "88f011d5c2f65862e4277b91ffe1096000e4eb3e1b41d2303a692ea160f47ed3",
+      "bytes": 4894
+    },
+    {
+      "path": "detective-v8/reviews/reader-market-final/write_final_reader_receipt.py",
+      "sha256": "5500e3d3169f54b36d78afa8aed2a9c0d810986171d954dde1ee43602c8e3744",
+      "bytes": 14336
+    },
+    {
+      "path": "detective-v8/reviews/reader-market-r1/build_report.py",
+      "sha256": "1c25ebb922cf1ece06d458f295d4cb896c7e3b69f1b2ed32f89385297e23edd2",
+      "bytes": 52548
+    },
+    {
+      "path": "detective-v8/reviews/reader-market-r1/reader-market-review.json",
+      "sha256": "21019765e08d6f2eff9ccb11b649e407bb07809b279293cb19c35d51c52388cf",
+      "bytes": 286677
+    },
+    {
+      "path": "detective-v8/reviews/reader-market-r1/reader-market-review.md",
+      "sha256": "1ba60513fe1f41c2b87e2e29bc12537612749a727f1c5941a053c6177719431e",
+      "bytes": 61717
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-final/FINDINGS.md",
+      "sha256": "25c47c5c4760aadcd45914d12abb2b310b559bd03de245b304783988f0aba1ac",
+      "bytes": 8445
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-final/artifact-followup.json",
+      "sha256": "a68af2245a63dbf9cf3977f95302a556a70005ff21c195fb6f860c40bb73fc8f",
+      "bytes": 914
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-final/build_receipts.py",
+      "sha256": "ce8de842a0de19af87eb2b4a6262534cf8427c1e5356ee8db7d961cb2f63532d",
+      "bytes": 17205
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-final/coverage.json",
+      "sha256": "2950c1d7070f43912fcbba993737d58feccff8034b9222fe81ba7faffe392966",
+      "bytes": 181428
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-final/current-proof-binding.json",
+      "sha256": "7e33fcb47748590c7c038f485f56a94939a0c48d886ecdd83bf2b0c5733120ba",
+      "bytes": 1384
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-final/export-verification.json",
+      "sha256": "59d120c89edf14ffb631fcdeedc9230e1cc15e07647eccbdd8e1d21e3403aed3",
+      "bytes": 30975
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-final/native_language.json",
+      "sha256": "6fec8f59897e2307664d161e8ce9427e6c2086d4092aabdaf0c3734fdd78b5f6",
+      "bytes": 23180
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-final/story_closure.json",
+      "sha256": "f16e1ab917d84425ffcc194c0948087bb436ffdbe96ec3fd3f418f8ab28d3911",
+      "bytes": 23132
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-final/verify_exports.py",
+      "sha256": "0a6338c272c975e0d4bea3803a5f67158939f1c237d086ea8b72370b46bd9dc5",
+      "bytes": 3973
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-r1/COVERAGE.md",
+      "sha256": "6900d32184bac1b84f19f6fadfb4c63badd0f447b97d270111e17ac7326afcf9",
+      "bytes": 27464
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-r1/FINDINGS.md",
+      "sha256": "aa446ee4935d62b4b14f824c306daee174bb92ee35042080dfbd541085940961",
+      "bytes": 33862
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-r1/build_review.py",
+      "sha256": "83d7ed35eaf0df4e001afdf4ab856cb0ea5e4456baad85a08455d73efa831507",
+      "bytes": 39724
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-r1/coverage.json",
+      "sha256": "1595bb8673f2163db7e2bfdf39d4e597c46d4f62e53ec2a6b84cfa35deed48d7",
+      "bytes": 165754
+    },
+    {
+      "path": "detective-v8/reviews/story-humor-r1/findings.json",
+      "sha256": "4cd3d3929cdd0b643d260c7c3666fffe3d986f118da45620ca19703ded1eaaf5",
+      "bytes": 224312
+    },
+    {
+      "path": "detective-v8/run-r2/SOURCE_AND_WORKFLOW.md",
+      "sha256": "fcedb84a066d262d7fe6852e872a2498ce88bbaed2be7f75aef0e485ab93a3da",
+      "bytes": 482
+    },
+    {
+      "path": "detective-v8/run-r2/candidate.json",
+      "sha256": "947a5c1d1d658c280a4dc78defa031df02659cc79fba8947842243bdd8d2a7af",
+      "bytes": 312647
+    },
+    {
+      "path": "detective-v8/run-r2/change-scope.json",
+      "sha256": "1ab6fa2d958be8830d22cf5fba68b5fbd07a8bfd3aa3088b337376058f7794e0",
+      "bytes": 70931
+    },
+    {
+      "path": "detective-v8/run-r2/functional-brief.json",
+      "sha256": "8ede03797a7aaa695e8c16954cba30b226888fc65ec760be7f5b8f6182a29275",
+      "bytes": 3605645
+    },
+    {
+      "path": "detective-v8/run-r2/issue-ledger.json",
+      "sha256": "2c608e338cb842263b915a392ebc3adf25008c71d3d715edc5cc20ee469b00d1",
+      "bytes": 26261
+    },
+    {
+      "path": "detective-v8/run-r2/run.json",
+      "sha256": "cde9d5f8240f3f93997f644c55dfdb63440b5ab32afc575d6823feb5e8245808",
+      "bytes": 2386708
+    },
+    {
+      "path": "detective-v8/run-r2/source.json",
+      "sha256": "0c69eb25215e0c3c9311b83ece24520407a75c23e1cd1dea4bf5d5363c382271",
+      "bytes": 576616
+    },
+    {
+      "path": "detective-v8/run-r2/writer-packet.json",
+      "sha256": "070a4ae9a0a5be0cee6ba6610852585ac43fe9c09d4b34568c030d5f5fc6ef2e",
+      "bytes": 132268
+    },
+    {
+      "path": "detective-v8/run/SOURCE_AND_WORKFLOW.md",
+      "sha256": "fcedb84a066d262d7fe6852e872a2498ce88bbaed2be7f75aef0e485ab93a3da",
+      "bytes": 482
+    },
+    {
+      "path": "detective-v8/run/candidate.json",
+      "sha256": "431f2d1e59ad7b2ab9d6416062c816fcbdb95ad7802504cc272869810afc5b82",
+      "bytes": 312647
+    },
+    {
+      "path": "detective-v8/run/change-scope.json",
+      "sha256": "ac8a0598ff2b10c31c40ee9e03e9625bfc40a956cb26dd041055348c15ba1d35",
+      "bytes": 70931
+    },
+    {
+      "path": "detective-v8/run/functional-brief.json",
+      "sha256": "dbaa219687e166f715334b5c77c350d5d56e284df2d74062cba358d87e720afd",
+      "bytes": 3605635
+    },
+    {
+      "path": "detective-v8/run/issue-ledger.json",
+      "sha256": "3040eb762e11f74a45000dbf5991f09abfafbcbac096009e8cdb03a63e54c83f",
+      "bytes": 22196
+    },
+    {
+      "path": "detective-v8/run/run.json",
+      "sha256": "cffe912666835ce541756512c900323c7d7207fadccbf6cb4a6926079a75c5c2",
+      "bytes": 2386702
+    },
+    {
+      "path": "detective-v8/run/source.json",
+      "sha256": "a715cae84891846d98f204baf7b80a8b8961e696cfbbce66279928f54fe3db3b",
+      "bytes": 576615
+    },
+    {
+      "path": "detective-v8/run/writer-packet.json",
+      "sha256": "269ae68af451182ae6190bd1ea3b085b050bdd5c0df50a065cacd909fac9825c",
+      "bytes": 132268
+    },
+    {
+      "path": "detective-v8/source-models/ALL_CASE_EVIDENCE_INDEX.json",
+      "sha256": "fc3a5e2391175af24f59183e7cec24a8359c36fdffccb9489c4ea3ae156b5b08",
+      "bytes": 21423
+    },
+    {
+      "path": "detective-v8/source-models/HISTORICAL_TRUTH_REVIEW.json",
+      "sha256": "a601d3df31b483b7ced22aa5e0cf515b0133a395662b0189baa5e35c13031ef5",
+      "bytes": 56516
+    },
+    {
+      "path": "detective-v8/source-models/V6_CHANGE_LOCKS.json",
+      "sha256": "0039433af37afdff80884bcf649a5c5fe71828f1b92b40484b100a113946b3bd",
+      "bytes": 13710
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/case13-grid.json",
+      "sha256": "478fbfcad4d2fee854979946e3671bd6fe8eba2ae2c7522e397ad5a98d48b6e8",
+      "bytes": 2810
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/early-map-grids.json",
+      "sha256": "ffe9f1c7054078abc25bb69a973626e0349202df2492393496dad6fc2cdcd698",
+      "bytes": 5564
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/late-map-17-19-grid.json",
+      "sha256": "d0fdcc6b3ed8aa59675eaaa02a4400e9228ca92dd6d4599cc7b9dbfcddae8495",
+      "bytes": 2276
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/late-map-17-19-solver.py",
+      "sha256": "7c1b390c16c764a96da141791067847a7b05bd9c6ad129eeaa9dd6a04fe7d9cd",
+      "bytes": 4224
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/mid-map-grids.json",
+      "sha256": "454bbffa86de807d71d93a39c63167b650fe261479dbbbd6efc40967c50efb3b",
+      "bytes": 2922
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/root-map-grids-06-07.json",
+      "sha256": "286b6bd6173f6be227dae46174b482f6ceeeb1c8dc33d4059c30764f6fc872d0",
+      "bytes": 2553
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/solve-early-maps.py",
+      "sha256": "b7349c69dd5b15862328f73a62eaf848c2bab18e24ef8de44068a929c880fcb6",
+      "bytes": 4533
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/solve-mid-maps.py",
+      "sha256": "cef0e8cc85ecc5d4c95db0c842084c3d513439a0645190e4727c4ed13ff441f8",
+      "bytes": 4486
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/solve-root-maps-06-07.py",
+      "sha256": "efe3360e8a78283e73f16186b941d5d9ba5168cb8356fe9157c7c5eaeacfd2b1",
+      "bytes": 3351
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/spatial-20-22-grid.json",
+      "sha256": "b6d2d2296611cab7b1fe3f96db04ad14ea35197d8cca55666631cd0345049725",
+      "bytes": 2210
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/spatial-20-22-solver.py",
+      "sha256": "9875ed208f9ecffab0e9f0617c2e6e03821ef8b7b9a3d70cb3d0865fef9e7d79",
+      "bytes": 4468
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/spatial-23-25-grid.json",
+      "sha256": "1a15296c1176041d3dc5963479a575dd47781766aef1b0dddc98e7136de9993e",
+      "bytes": 2230
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/spatial-23-25-solver.py",
+      "sha256": "f0ec37dc9067c92eb5061d3e9936b922756e9dcfb2c825d6fd31f49cdbe6242c",
+      "bytes": 3524
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/spatial-intro-29-grid.json",
+      "sha256": "046394668040cdb41f754667ad832b3f71d5b0762a97b99c88bc3e81cd0dedce",
+      "bytes": 2087
+    },
+    {
+      "path": "detective-v8/source-models/geometry-audit/spatial-intro-29-solver.py",
+      "sha256": "5a2e1a84a3ff4940cafbd8e78eb2aeb9c15b6b496eeb0e2eb6c83ce856124e2a",
+      "bytes": 4119
+    },
+    {
+      "path": "detective-v8/source-models/v6/qa/FINAL_LANGUAGE_CHECK_V6.json",
+      "sha256": "7b6cff06c3cb9621f90975c7f0857918a2679bb363e3d08e601d1d4124f02685",
+      "bytes": 1211
+    },
+    {
+      "path": "detective-v8/source-models/v6/qa/FINAL_V6_SUMMARY.json",
+      "sha256": "b72e2beb897236046fadb7a048b0d7b4fe89cd9a677542894f62c9d6e739b478",
+      "bytes": 2065
+    },
+    {
+      "path": "engine/scripts/rse-language.py",
+      "sha256": "94e677cd75c36378fd64f9ebf7ec93305554cf2cf4d389f720220d8a22566aa8",
+      "bytes": 32787
+    },
+    {
+      "path": "engine/tools/rse-language/profiles/detective-academy.json",
+      "sha256": "2c5bfadb928b9ee05bc60ed200180129ec60352f6272686da8770b10a7804e3e",
+      "bytes": 1412
+    }
+  ],
+  "manifest_self_hash": "Excluded to avoid a circular hash; delivery receipts created after this immutable archive are saved separately."
+}

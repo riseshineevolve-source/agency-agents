@@ -1,0 +1,25 @@
+{
+  "permutations_tested": 24,
+  "edges_transcribed_from": "visible folio101 upright lettering",
+  "left_shapes": {
+    "A": "double-notch",
+    "B": "flat",
+    "C": "bulge-notch",
+    "D": "point-notch"
+  },
+  "right_shapes": {
+    "A": "bulge",
+    "B": "point",
+    "C": "flat",
+    "D": "double-point"
+  },
+  "solutions": [
+    [
+      "B",
+      "D",
+      "A",
+      "C"
+    ]
+  ],
+  "limitation": "Shape categories hand-transcribed from evidence, not pixel contour recognition."
+}
