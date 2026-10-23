@@ -1,7 +1,7 @@
 lane: marketing_autopilot
 title: RSE Marketing Autopilot
 updated: '2026-10-23'
-status: OPTICAL_ANIMALS_UPGRADED__HALLOWEEN_MARKETING_CANDIDATE_PREPARED
+status: WILD_ILLUSIONS_APLUS_FB_IG_ASSETS_PREPARED__HALLOWEEN_PRESERVED
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   branch: feat/marketing-autopilot-takeover-20261021
@@ -23,9 +23,11 @@ milestone:
   measurement: FRESH_METRICOOL_BRAND_AND_IG_READS__NO_CURRENT_WINNER_PROVEN
   wild_illusions:
     priority: PRIMARY_FIRST_REVENUE_SPRINT
-    packet: FULL_COPY_AND_8_REVIEW_LAYOUTS__OWNER_READ_CANDIDATE
+    packet: FINAL_COVER__5_APLUS__9_AD_EXPORTS__5_CAROUSEL__12S_SILENT_MP4__OWNER_READ_CANDIDATE
     source: OWNER_ATTACHMENT_SHA_D745547D__48PAGES__READ_ONLY
-    visual_qa: THREE_SOURCE_FAITHFUL_ASSETS_VIEWED__OWNER_ACCEPTANCE_PENDING
+    visual_qa: ALL19_STATIC_CREATIVES_VIEWED__SOURCE_HASHES_PRESERVED__12S_VIDEO_DECODE_AND_FRAME_QA_PASS
+    actual_platform_preview: NOT_PERFORMED
+    creative_claw_generation: BLOCKED_BEFORE_START_INSUFFICIENT_CREDITS__NO_CHARGE__SVG_SOURCE_COMPOSITION_COMPLETED
     public_paid: NO_ACTIVATION
     copy_review: 31SEGMENTS__TWO_REVIEWERS_FOUR_STAGES_PASS__LANGUAGE_TOOL_PASS
     tagline: Art to color. A moment of your own.
@@ -61,6 +63,7 @@ dependencies_needed:
   need: preserve existing four October20 bilingual guide candidates and source-mapped teaser decisions; this marketing packet
     does not replace guides or product language locks.
 reusable_outputs:
+- marketing/optical-series/2026-10-23/LAUNCH_ASSET_RECEIPTS.json
 - marketing/optical-series/2026-10-23/KEYWORD_RESEARCH.md
 - marketing/optical-series/2026-10-23/CHECKPOINT.md
 - marketing/WILD_ILLUSIONS_PRODUCT_MARKETING_BRIEF_2026-10-21.md
@@ -73,8 +76,8 @@ reusable_outputs:
 - marketing/gentle-steps/2026-10-21/qa/
 - marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
 - marketing/PERFORMANCE_MEMORY.yml
-next_safe_task: Use owner-expanded seven-field keyword recommendation after comparison with actual final title/subtitle/categories and marketplace results.
-  Old seven superseded. Owner review and existing release gates remain. No publication or paid activation.
+next_safe_task: Owner review of actual final-cover A+ and FB/IG asset packet, then actual platform preview and verified live destination.
+  Seven-field keyword candidate remains. Preserve existing product/public/paid gates and Halloween holds.
 checkpoint_reference: marketing/optical-series/2026-10-23/CHECKPOINT.md
 runtime_policy_ack:
   policy: rse-weekly-usage-2026-10-21-v1

@@ -636,3 +636,37 @@ optical_keyword_research_20261023:
   publication: NONE
   paid_spend: NONE
   evidence: marketing/optical-series/2026-10-23/KEYWORD_RESEARCH.md
+
+optical_final_cover_campaign_20261023:
+  status: PREPARED_NOT_LIVE
+  source: Owner final cover and unchanged fox/zebra/toucan interior art
+  source_cover_sha256: 381d278bc5a9c08a6b9771fedf44012e8a2df0907a4744126148eabe804d6d3f
+  repurpose: Existing approved product art; no measured winner inferred
+  creative_claw: No generation started or charged; insufficient credits; source/SVG
+    composition delivered
+  metricool: RSE7018771 verified read; no writes
+  records:
+  - content_id: WI_FINALCOVER_01
+    concept: optical_discovery
+    reach: null
+    clicks: null
+    orders: null
+    metricool_id: null
+    status: PRIVATE_OWNER_REVIEW
+  - content_id: WI_FINALCOVER_02
+    concept: palette_choice
+    reach: null
+    clicks: null
+    orders: null
+    metricool_id: null
+    status: PRIVATE_OWNER_REVIEW
+  - content_id: WI_FINALCOVER_03
+    concept: slower_look
+    reach: null
+    clicks: null
+    orders: null
+    metricool_id: null
+    status: PRIVATE_OWNER_REVIEW
+  next: After owner release and verifiedliveURL, observe performance before calling
+    a winner
+  evidence: marketing/optical-series/2026-10-23/LAUNCH_ASSET_RECEIPTS.json
