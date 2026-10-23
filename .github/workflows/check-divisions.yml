@@ -1,16 +1,18 @@
 name: Check Divisions Consistency
 
-# Runs on every PR (no path filter on purpose): a new division directory must
-# trip this check even when nobody touched divisions.json or the lint config.
 on:
-  pull_request:
-  push:
-    branches: [main]
+  workflow_dispatch:
+
+# Owner-authorized budget containment: manual gates only; local checks remain required.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   check-divisions:
     name: divisions.json is the single source of truth
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 

@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-23",
+  "owner_lock": "Art to color. A moment of your own.",
+  "animals": {
+    "state": "OWNER_READ_CANDIDATE",
+    "copy_segments": 31,
+    "engine_candidate_sha256": "6bc7a4ff41af58eef9243597d8b63982ec846073dfeb5870f70aed31c23d59b5",
+    "copy_sha256": "89fe3d006a33b45b05fabf8ee8b2107de1ed85664c11dbe201d1937421827079",
+    "source_pdf_sha256": "d745547dc08df36b12c1f4b8ef66987a66d8656d4ab365778c99b4854ad92660",
+    "source_pdf_pages": 48,
+    "assets": 8,
+    "review": "TWO_REAL_REVIEWERS__FOUR_STAGES_PASS__DETERMINISTIC_PASS",
+    "source_note": "Latest owner attachment differs from old mailbox KDP export; marketing does not certify print geometry or rewrite title page."
+  },
+  "halloween": {
+    "state": "PRE_RELEASE_MARKETING_CANDIDATE",
+    "copy_segments": 29,
+    "engine_candidate_sha256": "ea8780900fc255796862e973374adbe4bf0c437aedd6e8bd20688e93f97dc8d3",
+    "copy_sha256": "fa49d065e95ce5365996bb0406a884a69154b019fb0752ca95239c6d0dd865a3",
+    "assets": 8,
+    "review": "TWO_REAL_REVIEWERS__FOUR_STAGES_PASS__DETERMINISTIC_PASS",
+    "unresolved": "Retail title, final roster/count, assembled interior/cover, age, format, metadata, quote and release. No final20 claim. QueenV42 excluded."
+  },
+  "artifacts": [
+    {
+      "filename": "OPTICAL_ANIMALS_MARKETING_REVIEW_20261023.pdf",
+      "sha256": "8d320bde526abaab86b4279dae2779838f3a44e226ed6e160a0a12b5250040b3",
+      "size_bytes": 3577990,
+      "library_file_id": "libfile_346d8f9ed06c8191ba3c0bfb2ec97afa"
+    },
+    {
+      "filename": "OPTICAL_ANIMALS_FULL_PACK_20261023.zip",
+      "sha256": "a72efaa9a7af81b08d904eacf4664e672e65ce72a568cf27773dd91daf5ed729",
+      "size_bytes": 33664637,
+      "library_file_id": "libfile_e48d0f3a84688191b7555b5dde0c985f"
+    },
+    {
+      "filename": "HALLOWEEN_MARKETING_REVIEW_20261023.pdf",
+      "sha256": "d34ac6016f69e27081b5401e2cab5a3c6fe51a6576e1a780cb9bc18c9127128c",
+      "size_bytes": 4987572,
+      "library_file_id": "libfile_418c9b82516c8191ae67119bbf961cfe"
+    },
+    {
+      "filename": "HALLOWEEN_MARKETING_PACK_20261023.zip",
+      "sha256": "8b444dd0ef08a93f1998332817998de7034dd379cd326fb23e7a613e4362a974",
+      "size_bytes": 22587562,
+      "library_file_id": "libfile_9ba9b0c8397081918de81ee784d00fb1"
+    }
+  ],
+  "verification": {
+    "root_visual": "16 final assets viewed; explicit proportional fit, no source regeneration or source color changes",
+    "pdf": "Both5page reader PDFs rendered and viewed; bounds/forbidden-word check PASS",
+    "connectors": "Metricool RSEbrand7018771 readverified; CreativeClaw asset searches returned0; no provider write or paid job",
+    "performance": "UNKNOWN; no live winner proven; draft masters only"
+  },
+  "publication": "NOT_AUTHORIZED"
+}

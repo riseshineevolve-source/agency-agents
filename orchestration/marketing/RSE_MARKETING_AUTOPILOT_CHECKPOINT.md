@@ -96,3 +96,7 @@ Merged durable foundations:
 ## October21 revenue continuation
 
 Primary Wild Illusions draft packet completed: truthful listing, seven keyword candidates, category intents, conditional print-cost worksheet and three source-faithful graphics inspected visually. Exact canonical V4 bytes counted48pages. Owner release/price/visual and producer proof dependencies remain open. Gentle Steps owner-read packet is preserved unchanged. See current lane mailbox and Wild Illusions brief. No product-source or public/paid changes.
+
+## October23 owner upgrade
+
+Animals31segments + Halloween29segments, four actual reviewstages PASS and deterministicPASS;16source-faithful SVG/PNG layouts andtwo5page ownerread PDFs. Exactline Art to color. A moment of your own. Current detail: `marketing/optical-series/2026-10-23/CHECKPOINT.md`. Productrepos unchanged. Halloween retail source gates remain; no publication/paid activation.

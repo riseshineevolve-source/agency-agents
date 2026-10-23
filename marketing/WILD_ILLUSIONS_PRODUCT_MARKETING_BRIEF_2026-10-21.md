@@ -1,4 +1,10 @@
-# Wild Illusions marketing checkpoint, 2026-10-21
+# Wild Illusions marketing checkpoint
+
+## Current owner override, 2026-10-23
+
+Current family: `marketing/optical-series/2026-10-23/CHECKPOINT.md`. Exact approved positioning line: **Art to color. A moment of your own.** Relaxation and creativity are experiential uses, never clinical outcomes. New complete ENcopy, metadata candidates and8review layouts supersede the October21 packet below. Current private packet uses directly attached PDF SHA d745547dc08df36b12c1f4b8ef66987a66d8656d4ab365778c99b4854ad92660,48pages; do not conflate with older export. Age, live category picker, price/quote, print proof and release remain unverified. Product writer owns title-page/cover alignment.
+
+## Historical October21 packet
 
 Status: DRAFT_FOR_OWNER_REVIEW. Primary priority under the October21 revenue sprint.
 

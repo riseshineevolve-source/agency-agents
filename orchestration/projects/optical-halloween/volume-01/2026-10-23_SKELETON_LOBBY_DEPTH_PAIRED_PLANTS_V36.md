@@ -1,0 +1,16 @@
+# Skeleton V36 — lobby depth and paired plants
+
+Owner requests stronger optical depth in top lobby and a second matching lobby plant. Scope top lobby only.
+
+Output: exec-b1973aad-9439-459f-900c-7c1181f733d6.png
+SHA256: 8219517aff2cc8efb96479cbb3630bc530520f48fbccbe87a53c0bfad812bd52
+Source V35 preserved: exec-57614e4f-4a46-490e-ae60-7c13033b1088.png.
+
+Root actual visual QA: top central tunnel now has clearly dimensional white portal returns and black recesses stepping down in size, with curved floor bands running into deep opening. Second matching ribbon-leaf plant in white pot added beside right seating. Existing left plant retained; some right chair occlusion by new plant intentional. Skeleton pose/anatomy, diamond cap, skull reflection, web sole, windows, balcony plants, descending architecture, checkerfloor curl and shaft panels visually consistent. No table returned. Other finals untouched. No exact pixel-identity or print certification claim; owner aesthetics gate.
+
+Exact prompt:
+
+Precise localized edit of ONLY THE TOP LOBBY in this exact black-white optical coloring illustration. Owner likes all current plants but says the lobby needs stronger depth/optics and a second matching plant.
+Top lobby occupies approximately top 15% of image, behind the main curling checker floor. Keep existing modern architecture, lounge chairs, loop lamps, right staircase and current left sculptural ribbon-leaf plant. Strengthen the EXISTING CENTRAL TUNNEL so it reads as real receding architectural SPACE, not concentric flat wall graphics: the nearest portal has broad dimensional white jamb/soffit faces with bold black recessed sides, followed by five successively smaller rectangular-rounded portals offset slightly along a curved vanishing trajectory. Show clear side-wall and ceiling returns between successive portals. Wide white colorable bands and controlled black gaps. The existing short striped floor in front should visibly bend and taper into that SAME deep vanishing opening, creating a refined impossible-perspective spatial draw. Keep this deep tunnel confined to the small top-center background; no new huge hole or whirlpool on foreground checkerfloor, and no table. Increase depth through overlap, scale change and perspective, NOT more dense thin stripes or extra black fill.
+Add a SECOND MATCHING SCULPTURAL OPTICAL PLANT in the upper-right lobby beside the right lounge chair, balancing the existing left plant. SAME plant design: broad pointed white ribbon leaves curling into 3D loops with bold black folded undersides, SAME white tall geometric pot. Coherent same species and approximate scale with perspective; all leaves fit in full page frame. Do not remove existing left plant or chairs.
+LOCK everything BELOW the distant top lobby: skeleton pose/anatomy/five main fingers/skull/diamond cap/costume, both boots and giant web sole, left curved skull mirror, all balcony plants with curled leaf crowns, windows with beveled asymmetric frames and diagonal reflection bands, all descending balcony floors and rails, great curling checker floor/rim, outer shaft stripes and white panels. Preserve full portrait composition/camera. Pure BLACK-WHITE bold coloring ink, no gray/hatching/colors/new characters. Exactly top lobby depth refinement and one added matching plant.

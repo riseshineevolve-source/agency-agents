@@ -1,7 +1,7 @@
 lane: central_control_tower
 title: RSE Central Control Tower
-updated: 2026-10-21
-status: FIRST_REVENUE_EXECUTION_QUEUE__OA_PRIMARY_CANDIDATE__PRODUCER_ACKS_PENDING
+updated: 2026-10-22
+status: OA_FINAL_GRAY15_INTERIOR_DELIVERED__COVER_PROOF_PRICE_PENDING
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   observed_base: 3b4d9e7ab19134849eee2eb2b8619b1129d768d8
@@ -9,20 +9,24 @@ branch_or_repo_state:
   core_chats: 11
   supplemental_streams_and_desks: 5
   chat_liveness: not_established_by_registry_or_mailbox
-  reconciled_evidence_base: 51e76a2556b6116620f5957c83950feff5654cf0
-milestone: 'Reconciled new delivery: Detective225p PDF and Studio complete for owner review; Gentle Steps
-  fresh local native build and phone-test package ready; Halloween five candidates generated. Replaced
-  diffuse priority queue with one OA release candidate, next seasonal book preparation and bounded existing
-  tool defects only. No new product publication or sale is claimed.'
-blocker: Primary candidate OA full-wrap cover, exact final interior acceptance, pricing and actual publication
-  packet remain unverified. Producers must expose exact existing assets or named blockers. GitHub Actions
-  budget block is explicitly recorded in fresh Gentle Steps evidence; no paid fix or retry loop. A repo
-  notice does not wake or acknowledge another chat.
-owner_gate: null
+  reconciled_evidence_base: 10bc83654aaf1405eade7d50630bf7e10344e739
+milestone: >-
+  Verified final producer checkpoint: owner approved whole-book15percent lighter gray;
+  final48page combined RSE KDP interior, Canva PDF and pack delivered with exact hashes
+  and producer digital QA PASS. Closed obsolete tonal/combined-master gate. Matching
+  full-wrap, metadata, actual proof and price requests remain with existing writers.
+blocker: >-
+  Matching approved full-wrap cover filename/hash/paper/ink/binding not supplied.
+  Actual Previewer/physical proof, metadata/account confirmations and price remain
+  unverified. Gentle Steps not proven more complete. Final interior is delivered;
+  no publication or producer acknowledgment inferred.
+owner_gate: >-
+  Required physical paper/ink/gutter proof and consolidated release decision on exact
+  interior/cover/metadata/price.15percent tonal choice is CLOSED and must not reopen.
 dependencies_needed:
 - lane: optical_animals
   priority: P0
-  need: finish_existing_intro_only_preserve_V4_animals_order_and_other_pages_expose_exact_interior_and_current_cover
+  need: interior_DELIVERED_inventory_existing_matching_full_wrap_with_hash_spec_and_metadata_then_actual_proof
   complete_when: release_packet_inputs_exist_or_specific_missing_cover_source_or_quality_defect_is_recorded
 - lane: marketing_autopilot
   priority: P0
@@ -119,3 +123,254 @@ policy_notifications:
   receipt_state: PUBLISHED_IN_REPO__READ_AND_EXECUTION_UNVERIFIED
   ack_request: Record sprint ID, current assignment, exact output or blocker and next action in OWN lane
     mailbox/checkpoint. Do not ask owner to relay tasks or overwrite another lane.
+
+release_readiness:
+  card: orchestration/brain/RSE_FIRST_RELEASE_READINESS_2026-10-21.md
+  evidence_base: 10bc83654aaf1405eade7d50630bf7e10344e739
+  evidence_level: PRODUCER_RECEIPTS_READ__PRIVATE_ARTIFACT_BYTES_NOT_REHASHED
+  new_fact: OWNER_APPROVED_GRAY15_FINAL_COMBINED_INTERIOR_DELIVERED
+  current_interior_sha256: 20442ed44576f27b92d59bde138285d7529e978bfd196948ac1f29a6be16821f
+  current_interior_filename: WILD_ILLUSIONS_RSE_FINAL_GRAY15_KDP.pdf
+  current_interior_library_version: 2
+  final_visual_feedback: TONAL15_APPROVED_NOT_FINAL_PRINT_OR_RELEASE_ACCEPTANCE
+  print_masters_and_full_interior: FINAL_GRAY15_KDP_AND_CANVA_DELIVERED_DIGITAL_PASS
+  full_wrap_receipt: NOT_SUPPLIED
+  fallback_result: NOT_PROVEN_MORE_COMPLETE__MATCHING_BOOK_PAIR_AND_PROOF_PENDING
+  candidate_switched: false
+  consolidated_owner_release_decision_ready: false
+  producer_revenue_acknowledgments: NOT_OBSERVED_EXPLICIT_REQUEST_ID
+release_packet_requests:
+  - id: first-release-oa-files-20261021
+    to: optical_animals
+    priority: P0
+    need: >-
+      Combined FINAL_GRAY15 interior portion FULFILLED by producer final checkpoint.
+      Do not reopen tonal choice or rebuild delivered interior. Expose EXISTING
+      approved full-wrap filename/location/SHA256 plus48page trim/bleed/binding/paper/ink
+      and exact title/subtitle/author/language/ISBN metadata. If no matching cover exists,
+      report missing source explicitly. Preserve actual Previewer and physical proof gates.
+      No new renderer/art program, paid order, upload or publication authorized.
+    fulfillment: COMBINED_INTERIOR_DELIVERED_MATCHING_COVER_METADATA_PROOF_PENDING
+    acknowledgment: PENDING_EXPLICIT_PRODUCER_ENTRY
+  - id: first-release-gs-existing-pair-20261021
+    to: gentle_steps
+    priority: P1_FALLBACK_COMPARISON
+    need: >-
+      Inventory only already-existing EN/PL book interiors and matching full-wrap covers,
+      exact filenames/locations/hashes/page counts/trim/binding/current title/source locks.
+      Historical inventory points to a paperback interior and a hardcover-named cover:
+      establish matching pair rather than assuming compatibility. Supply actual current
+      PL R6 final-template PDF and twelve print-scale views/reviewer proof or exact missing
+      source. Do not create app features, a third product or new renderer.
+    acknowledgment: PENDING_EXPLICIT_PRODUCER_ENTRY
+  - id: first-release-metadata-cost-20261021
+    to: marketing_autopilot
+    priority: P0_AFTER_VERIFIED_PRODUCT_SPEC
+    need: >-
+      Consume verified current product metadata and exact print specification.
+      Return existing listing/copy draft and marketplace/currency/current actual print cost,
+      proposed launch price and royalty arithmetic with source/date.
+      Historical Gentle Steps copy contains legacy labels; preserve later owner locks.
+      No public post, store price update, spend or fabricated listing/ASIN.
+    acknowledgment: PENDING_EXPLICIT_PRODUCER_ENTRY
+model_policy_ack: rse-weekly-usage-2026-10-21-v1
+recommended_profile: coordinator
+runtime_model_observed: UNKNOWN_NO_CLIENT_SETTING_READ
+runtime_reasoning_observed: UNKNOWN_NO_CLIENT_SETTING_READ
+runtime_speed_observed: UNKNOWN_NO_CLIENT_SETTING_READ
+application_status: RECOMMENDATION_ONLY
+
+resource_policy_notice:
+  id: rse-actions-cost-privacy-owner-20261021
+  authority: latest_owner_instruction_in_current_conversation
+  owner_stated_actions_budget_usd: 7
+  current_balance_independently_verified: false
+  recipients: all_registered_lanes
+  directive: >-
+    Actions only extremely sparingly for a named necessary gate. Prefer existing
+    valid receipts and local deterministic checks. No metadata-only workflow runs,
+    redundant matrix rebuilds or cloud reruns or retry loop when budget blocks allocation.
+    The stated ceiling does not authorize billing changes or imply remaining credit.
+    Keep unpublished content and private account data out of public repository writes.
+  delivery_state: PUBLISHED_IN_CENTRAL_MAILBOX__NO_RECIPIENT_ACK_ASSUMED
+  this_reconciliation_cloud_runs_started: 0
+  repo_visibility_changed: false
+  n8n_current_execution_and_subscription_status: TRIAL_OVER_HEALTH_POLLING_OBSERVED_NO_RENEWAL_AUTHORIZED
+
+actions_containment_implementation:
+  date: '2026-10-21'
+  authority: owner_explicit_implement_request
+  workflow_count: 14
+  mode: MANUAL_ONLY_TEMPORARY_BUDGET_CONTAINMENT
+  source_checks: LOCAL_REQUIRED_NO_GREEN_CI_INFERRED
+  cloud_runs_started: 0
+  policy: orchestration/control-plane/RSE_RESOURCE_COST_ROUTING_V1.md
+  recipients: all_registered_lanes
+  acknowledgments: PENDING
+  privacy: PUBLIC_FORK_DETACH_REQUIRED_ADMIN_OPERATION_UNAVAILABLE
+  n8n: SUPERSEDED_BY_AUTHENTICATED_TRIAL_OVER_RECEIPT_3d77905
+
+actions_containment_receipt:
+  checkpoint: orchestration/brain/checkpoints/2026-10-21-actions-cost-containment.md
+  agency_commit: 3e28e295ed825a723c6f9ab3839f65a55911c801
+  website_commit: 89e5e1c8a05f76df95b1b7472cb5e81f9853613f
+  workflows_changed_on_main: 16
+  validation: LOCAL_YAML_PASS_REMOTE_TARGETED_READBACK_PASS
+  branch_sync_required_before_push: true
+  preserve_required_local_and_release_checks: true
+  recipient_ack: PENDING
+  privacy: PUBLIC_FORK_ADMIN_SIGN_IN_REQUIRED
+  n8n: TRIAL_OVER_163_WINDOW_EXECUTIONS_HEALTH_ONLY_NO_NOTIFICATIONS_EXPORT_BLOCKED
+
+historical_intro_receipt_reconciliation:
+  observed_head: 5176142243b1d6abc69a86328ababdae1b0ec6e9
+  producer_mailbox_blob: a9fc79167046c71726fa170862a006b6c0da0011
+  producer_checkpoint_blob: 5314ef96376812cc91dad7793edbfc1ce884ceae
+  current_review_pdf: WILD_ILLUSIONS_DECORATIVE_BIRD_INTRO_ART_REFINEMENT_V2.pdf
+  current_review_version: 5
+  rejected_packaging_version: 4
+  verification: PRODUCER_POST_SAVE_RENDER_RECEIPT_READ_NOT_PRIVATE_BYTES_REHASHED
+  direction: HISTORICAL_V5_SUPERSEDED_BY_OWNER_ATTACHED_TITLE_COLOR_BROAD_FRAME_ENTER
+  latest_owner_assembly_authorization: OBSERVED_IN_CONVERSATION_NOT_DELIVERY_OR_RELEASE_APPROVAL
+  latest_accepted_Publishing_Before_assets: PRODUCER_TO_BIND_TO_EXACT_LATER_OWNER_APPROVAL
+  producer_request_ack: NOT_OBSERVED
+
+full_interior_receipt_reconciliation:
+  historical_superseded_by: premium_interior_receipt_reconciliation
+  observed_head: cd3c51119a4c1aaed6d37002bc44c90f4f415c02
+  producer_mailbox_blob: 7d562791485a6a533b78cdcea105f34ef405f63d
+  producer_checkpoint_blob: 2096643c8e2d284b781d1b23b0fd3db16ec27595
+  checkpoint: orchestration/projects/optical-animals/checkpoints/2026-10-21-full-book-print-interior.md
+  filename: WILD_ILLUSIONS_KDP_INTERIOR_FINAL_48P_PRINT.pdf
+  sha256: 42befffa23a295d0e05c7020fba66f765158c2714000a71af735fab366513516
+  pages: 48
+  media_points: [621, 810]
+  trim_points: [612, 792]
+  delivery: PRODUCER_RECEIPT_READ_NOT_CENTRAL_PRIVATE_BYTES_REHASHED
+  producer_preflight: PASS_STRICT_PARSE_ALL_PAGES_RENDER_STABLE_HASH
+  body_custody: ALL43_CONTENT_IMAGE_STREAMS_AND_RENDER_IDENTICAL
+  intro: FAITHFUL_VECTOR_CONTOURS_OF127PPI_SOURCE_NOT_NATIVE300PPI
+  superseded: SPARSE_ENTER_AND_NOT_INTEGRATED_STATUS
+  owner_followup: BOUNDED_BLANK44_45_CLOSING48_AND_OPTICAL_TITLE_AUDIT_PENDING
+  next_receipt: EXISTING_MATCHING_WRAP_SHA_AND_PAPER_INK_BINDING
+  explicit_request_id_acknowledgment: NOT_OBSERVED
+  release_ready: false
+
+premium_interior_receipt_reconciliation:
+  observed_head: adb2fa30c57a1d45c17aa74b12f7227de821ff60
+  producer_mailbox_blob: b86bebcf61cc47cd778fa0f10c758c1a5abb79db
+  producer_checkpoint_blob: b83711fcf792882ba748128c38ac0dfd2bfce2a0
+  checkpoint: orchestration/projects/optical-animals/checkpoints/2026-10-21-premium-revision-final.md
+  filename: WILD_ILLUSIONS_PREMIUM_FINAL_48P.pdf
+  sha256: bf12439907c4481d91926bc34ef86ed51d7667a17fc712a5e8261fa33963a6ef
+  library_id: libfile_507fe3cae5088191be459397753617d0
+  library_version: 1
+  size_bytes: 104838751
+  pages: 48
+  media_points: [621, 810]
+  trim_points: [612, 792]
+  blank_pages: 19
+  body_custody: ALL22_ENCODED_IMAGES_IDENTICAL_41_RETAINED_PAINT_AND_RENDER_IDENTICAL
+  whole_decoded_body_streams_unchanged: false
+  audit_response: DELIVERED_NOT_OWNER_ACCEPTANCE
+  digital_qa: PRODUCER_PASS_ON_FINAL_HASH_NOT_CENTRAL_BYTES_REHASHED
+  next_receipt: MATCHING_WRAP_SHA_AND_PAPER_INK_BINDING
+  explicit_request_id_acknowledgment: NOT_OBSERVED
+  release_ready: false
+
+grayscale_trial_receipt_reconciliation:
+  observed_head: c0313ca9f43a487f36d501ed2239e342862953cc
+  producer_mailbox_blob: a2f22d28edc2154fa45ab10798702e07dafeb7bd
+  producer_checkpoint_blob: edd805eb2d95b86c9adac5af2a6c7e4d4f4fde23
+  checkpoint: orchestration/projects/optical-animals/checkpoints/2026-10-21-gray-lightening-trial.md
+  layout_checkpoint_blob: d016aa9639bf6004405028d523c9d49cc3b9be0b
+  owner_direction: RETAIN_GRAYSCALE
+  comparison_library_id: libfile_452c81f31b44819182aed386057e1439
+  comparison_sha256: 65a07dcbb6210bdc59540abf5bb0d8b0095dede712bc83250ca0ffc87d62d742
+  lighter10_sha256: c7398cf7a94b153c0a239a775c2575438c9a99107b9ecb271816350068b9edd8
+  lighter15_sha256: 9fe519cfbda4689a9604957bf6c2aa62f97edf2a6e1509fd75be1cc37578fe5a
+  verification: PRODUCER_RECEIPTS_READ_NOT_CENTRAL_PRIVATE_BYTES_REHASHED
+  whole_book_strength: OWNER_CHOICE_PENDING
+  globally_applied: false
+  combined_gray_with_latest_RSE_master: NOT_DELIVERED
+  previous_gray_role: RETAINED_SOURCE_PREDATES_LATEST_TYPE_AND_STORY
+  pure_bw_role: DELIVERED_ALTERNATIVE_NOT_SELECTED
+  explicit_request_id_acknowledgment: NOT_OBSERVED
+  fallback_more_complete_proven: false
+  release_ready: false
+
+final_gray15_receipt_reconciliation:
+  observed_head: 10bc83654aaf1405eade7d50630bf7e10344e739
+  producer_mailbox_blob: f1fcc40c073379f0425369a3c14060e875ffc5e0
+  producer_checkpoint_blob: cede2bf063c2e23e87e416772d14ce6111eb59bf
+  checkpoint: orchestration/projects/optical-animals/checkpoints/2026-10-21-final-gray15-kdp.md
+  supersedes_current_state_in: grayscale_trial_receipt_reconciliation
+  owner_tonal_choice: APPROVED_15PERCENT_WHOLE_BOOK_APPLIED
+  filename: WILD_ILLUSIONS_RSE_FINAL_GRAY15_KDP.pdf
+  sha256: 20442ed44576f27b92d59bde138285d7529e978bfd196948ac1f29a6be16821f
+  library_id: libfile_507fe3cae5088191be459397753617d0
+  library_version: 2
+  size_bytes: 66633025
+  pages: 48
+  media_points: [621, 810]
+  trim_points: [612, 792]
+  canva_sha256: b5853b0f8ce66dadee5d20071e5e9d08a89598ac17c586e87256ec9de225d8e0
+  canva_pack_sha256: ff3bc147ea90757f417a81eb7b8b98812f120fca8b05d239b1ae98a5cd4003db
+  verification: PRODUCER_DIGITAL_PASS_RECEIPT_NOT_CENTRAL_BINARY_REHASH
+  original_art_custody: ORIGINALS_PRESERVED_GRAY15_DERIVATIVES_NATIVE_GEOMETRY
+  full_wrap_receipt: NOT_SUPPLIED
+  actual_previewer_and_physical_proof: NOT_PERFORMED
+  explicit_request_id_acknowledgment: NOT_OBSERVED
+  release_ready: false
+
+n8n_authenticated_receipt_reconciliation:
+  date: '2026-10-21'
+  evidence_commit: 3d77905e590f36bd2dcd58d24f4e33adebd0674b
+  checkpoint: orchestration/n8n/RSE_N8N_TRIAL_ACTIVATION_2026-10-07.md
+  source_level: AUTHENTICATED_PRODUCER_UI_RECEIPT_NOT_THIS_TURN_DIRECT_UI
+  trial: OVER_BANNER_OBSERVED
+  dashboard_window_production_executions: 163
+  dashboard_window_failures: 0
+  health_workflow: PUBLISHED_HOURLY_HISTORY_LATEST_DISPLAYED_352
+  health_function: FETCH_LAST_GITHUB_RUN_CLASSIFY_PASS_PENDING_ATTENTION_NO_NOTIFICATIONS
+  latest_node_output_and_source_freshness: NOT_EXTRACTED
+  lane_checkpoint_publication_and_executions: UNVERIFIED
+  actual_json_exports: NONE_NATIVE_CREDENTIAL_PROTECTION_BLOCKED
+  next_action: NORMAL_PERMITTED_EXPORT_BOTH_WORKFLOWS_TO_PRIVATE_DESTINATION_NO_BYPASS
+  paid_upgrade_or_replacement_host: NOT_AUTHORIZED
+  budget_notice: USD7_TOTAL_CEILING_NOT_ADDITIONAL_CREDIT_BALANCE_UNKNOWN
+  cloud_runs_started_by_this_reconciliation: 0
+
+practical_growth_update:
+  id: rse-practical-growth-20261022
+  authority: owner_explicit_analyse_select_and_implement_external_advice
+  date: '2026-10-22'
+  policy: orchestration/strategy/RSE_PRACTICAL_GROWTH_RULES_2026-10-22.md
+  implemented_surfaces:
+    - orchestration/control-plane/RSE_AUTONOMY_PROTOCOL_V1.md
+    - orchestration/strategy/RSE_GROWTH_OPERATING_SYSTEM_2026_Q4.md
+    - orchestration/RESUME_FROM_ZERO.md
+    - orchestration/brain/RSE_BRAIN_MASTER.md
+  recipients: all_registered_lanes
+  application: read_at_startup_or_next_real_checkpoint_no_restart_or_duplicate_work
+  adoption_state: PUBLISHED_IN_REPO__RECIPIENT_ACK_AND_EXECUTION_UNVERIFIED
+  ack_request: Record policy ID with next real output in OWN checkpoint; no status-only commits.
+  outcome_rules: concrete_deliverable_done_condition_source_version_test_evidence_next_action
+  reporting_rules: separate_PREPARED_VERIFIED_LIVE_observation_time_and_UNKNOWN
+  scheduler_rules: enabled_is_not_running_successful_poll_is_not_current_product_health
+  no_new_installation_subscription_publication_or_spend: true
+  product_or_marketing_writer_transfer: false
+  existing_request_extension:
+    request_id: first-release-metadata-cost-20261021
+    to: marketing_autopilot
+    need: >-
+      Consume latest Optical producer checkpoint and exact current version, preserving
+      coloring-only scope and existing title/art locks. Complete existing listing and
+      three organic draft request using situation/objection/verified proof/one CTA.
+      Add TWO hook variants to ONE existing master and an exploratory48hour test card
+      with platform, cost/time cap, justified exposure threshold and KEEP/ITERATE/
+      INCONCLUSIVE/STOP rule. Use existing Performance Memory after an authorized live
+      test. Prefer already-approved Happy Makers/product assets; no new influencer.
+      Hold for real buy URL, first-family approval and required release permissions.
+      No publication, pricing change, affiliate program or paid media inferred.
+    delivery: DEPENDENCY_NOTICE_ONLY_NOT_MARKETING_PRODUCTION_COMPLETED

@@ -1,20 +1,18 @@
 name: Check Hermes Config Rewrite
 
-# Regression test for the ensure_hermes_plugin_enabled() heredoc bug fixed
-# alongside this workflow. Catches two related symptoms:
-#   1. Wrong indent on insert (collapses plugins.enabled onto one line as a
-#      scalar string under any config whose items use a non-default indent).
-#   2. Non-idempotent re-runs that silently duplicate the new entry.
-# Runs on every PR — small surface area, fast, no deps beyond bash + python3.
 on:
-  pull_request:
-  push:
-    branches: [main]
+  workflow_dispatch:
+
+# Owner-authorized budget containment: manual gates only; local checks remain required.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   check-hermes-config-rewrite:
     name: install.sh hermes config rewrite
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 

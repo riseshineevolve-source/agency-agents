@@ -190,3 +190,14 @@ Track monthly:
 
 Success metric:
 published throughput, not number of agent runs.
+
+
+## Owner-directed containment — 2026-10-21
+
+Owner ceiling: USD 7; remaining balance not independently verified. Do not raise budgets.
+Agency Actions: temporary manual-only mode for all 14 workflows, no schedule/push/PR triggers. Tests remain mandatory locally before merge/release; manual execution only for a named cloud-only release gate with recorded purpose, commit and estimated minutes. Do not infer PASS from absence of CI. Required checks, if configured, must not be bypassed; run the named workflow manually or keep merge blocked.
+Linux only for installer; macOS removed from the default matrix. Jobs capped at 10 minutes; duplicate manual runs cancel prior runs; report retention one day. Cloud run count for this change: zero.
+Website central cost exception: SEO/Lighthouse and production-verification schedules/blanket triggers are to be made manual-only; product source untouched. Other lane workflows are not claimed changed until exact commits are recorded.
+All 16 lanes: acknowledge this policy in your own mailbox at next checkpoint. Do not restore schedules, broad push triggers, costly runner matrices or repeated retries without central review. Repo notices do not wake closed chats.
+Privacy blocker: agency-agents is a public fork of msitarzewski/agency-agents. Detach the fork first, preserving repository/history/issues, then set private and verify existing authenticated writers. No deletion/recreation or new public copy. Administrative tool is not exposed by current GitHub connector. Remote host lacks gh CLI.
+n8n update: authenticated producer inspection is recorded in orchestration/n8n/RSE_N8N_TRIAL_ACTIVATION_2026-10-07.md (2026-10-21 evidence, commit 3d77905). Trial-over banner observed; dashboard reporting window showed 163 production executions and zero failures. Health Check has hourly execution history, but only classifies the latest GitHub run and sends no notifications. Successful polling does not prove fresh product health or launch other chat workers. Lane Checkpoint publication/execution status remains unverified. Native browser credential protection blocked actual JSON export; no export saved and no bypass authorized. Preserve both definitions via normal permitted download to a private destination before any migration. No paid upgrade, renewal, new host, workflow activation or billable Actions substitute is authorized. Earlier failed-panel status is historical.

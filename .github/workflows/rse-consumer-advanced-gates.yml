@@ -1,29 +1,15 @@
 name: RSE Consumer Advanced Gates
 
 on:
-  push:
-    paths:
-      - 'scripts/rse-consumer-supabase-ephemeral-bootstrap.sql'
-      - 'scripts/test-rse-consumer-supabase-ephemeral.sql'
-      - 'scripts/test-rse-consumer-supabase-ephemeral-advanced.sql'
-      - 'scripts/test-rse-consumer-supabase-sql-fixture.py'
-      - 'scripts/test-rse-consumer-supabase-advanced-static.py'
-      - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_rls_ephemeral.sql'
-      - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_sync_boundary_ephemeral.sql'
-      - '.github/workflows/rse-consumer-advanced-gates.yml'
-  pull_request:
-    paths:
-      - 'scripts/rse-consumer-supabase-ephemeral-bootstrap.sql'
-      - 'scripts/test-rse-consumer-supabase-ephemeral.sql'
-      - 'scripts/test-rse-consumer-supabase-ephemeral-advanced.sql'
-      - 'scripts/test-rse-consumer-supabase-sql-fixture.py'
-      - 'scripts/test-rse-consumer-supabase-advanced-static.py'
-      - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_rls_ephemeral.sql'
-      - 'orchestration/architecture/fixtures/consumer-platform-v0/supabase_sync_boundary_ephemeral.sql'
-      - '.github/workflows/rse-consumer-advanced-gates.yml'
+  workflow_dispatch:
 
+# Owner-authorized budget containment: manual gates only; local checks remain required.
 permissions:
   contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   static-guard:

@@ -2,29 +2,19 @@ name: RSE Control Plane v1
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '17 * * * *'
-  push:
-    branches: [main]
-    paths:
-      - 'orchestration/control-plane/**'
-      - 'orchestration/brain/**'
-      - 'scripts/rse-control-plane-status.py'
-      - 'scripts/test-rse-control-plane-status.py'
-      - '.github/workflows/rse-control-plane.yml'
-  pull_request:
-    paths:
-      - 'orchestration/control-plane/**'
-      - 'scripts/rse-control-plane-status.py'
-      - 'scripts/test-rse-control-plane-status.py'
-      - '.github/workflows/rse-control-plane.yml'
 
+# Owner-authorized budget containment: manual gates only; local checks remain required.
 permissions:
   contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   snapshot:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -51,4 +41,4 @@ jobs:
         with:
           name: rse-control-plane-status
           path: build/control-plane/
-          retention-days: 14
+          retention-days: 1

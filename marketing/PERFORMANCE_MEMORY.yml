@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-10-21
+updated: 2026-10-23
 status: active
 rules:
   evidence_over_opinion: true
@@ -552,3 +552,65 @@ live_evidence_snapshot_2026_10_21:
   interpretation: Empty endpoints are not zero sales or a failed-campaign verdict; six Gentle Steps items are repo-only editorial masters, not Metricool drafts.
   changes_to_live_accounts: NONE
   paid_generation_or_spend: NONE
+
+optical_upgrade_2026_10_23:
+  status: PREPARED_NOT_LIVE
+  source: Owner current tagline; directly attached Animals PDF; approved selected Halloween art
+  repurpose: Exact product art reused; no verified performance winner inferred
+  metricool: RSEbrand7018771 readverified today; no draft/schedule/publication write
+  creative_claw: Project asset queries returned0; native SVGsource framing used with original artwork
+  records:
+  - content_id: OA_MASTER_01
+    product: Wild Illusions
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare personal creative-time positioning with animal/pattern proof after release
+  - content_id: OA_MASTER_02
+    product: Wild Illusions
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare personal creative-time positioning with animal/pattern proof after release
+  - content_id: OA_MASTER_03
+    product: Wild Illusions
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare personal creative-time positioning with animal/pattern proof after release
+  - content_id: OH_MASTER_01
+    product: Optical Halloween
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare character curiosity with optical architecture after final product freeze/release
+  - content_id: OH_MASTER_02
+    product: Optical Halloween
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare character curiosity with optical architecture after final product freeze/release
+  - content_id: OH_MASTER_03
+    product: Optical Halloween
+    metricool_id: null
+    publish_date: null
+    reach: null
+    clicks: null
+    sales: null
+    state: PRIVATE_REVIEW_ONLY
+    next_hypothesis: Compare character curiosity with optical architecture after final product freeze/release

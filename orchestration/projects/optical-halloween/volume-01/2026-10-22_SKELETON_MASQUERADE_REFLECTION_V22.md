@@ -1,0 +1,24 @@
+# Optical Halloween — Skeleton masquerade and reflection V22
+
+2026-10-22. Owner explicitly requests better skeleton clothing, additional reflection and more Halloween after V21 final set. Only skeleton changed; other three V21 finals and approved waiter remain untouched.
+Source upload/image(20261022-121045).png inspected directly; Library identity libfile_be785a8f0e408191973ff1ff283dc64a, source not mutated.
+
+Output generated_images/exec-cd318d70-59ad-455d-b676-73fd874f944e.png.
+SHA256 ebc344117b8d4c2afa2037d22a52748c08fe9135a26d64eefc35f2eeb9b5ceaf.
+
+Actual root visual QA: entire original lobby/peeledfloor/shaft/camera/fall retained. Uniform replaced with asymmetric angular jacket, high black collar/white lapels, geometric feather shoulder, crescent cap badge; broad optical trousers/sleeves remain. One narrow bounded curved mirror inset in left S-lip shows same skull/crescentcap/collar/stripeshoulder. Reflection stylized sideview, not physically traced or exact-angle certification. Three-candle candelabrum replaces distant center flowers; remaining furniture/planters unchanged. Main hand five digits, two arms/two boots, complete cap/sole/major framing; no concrete blocker in root actual review. Single targeted generation. No graywash introduced visibly; not binary pixel certification.
+
+All prior files preserved, new image displayed/persisted through ImageGen. No binary GitHub upload, print/release claim or factory/book/token work. This is latest owner-requested skeleton revision, not a reopening of other final scenes.
+
+## Prompt
+Make ONE polished targeted upgrade of this exact owner-selected falling skeleton illustration. LOCK entire camera/pose/composition and source interior: checker lobby peeling into deep vertical hotel shaft, huge white S-shaped lip, original balconies/arches/planters/lanterns, giant foreground sole, reaching hand and asymmetrical legs. Do not redesign architecture, modernize room, add luggage or change falling direction. Exactly two actual arms/two legs/two shoes, FOUR fingers plus thumb on each hand, full cap/hands/sole in page.
+
+1 COSTUME UPGRADE: evolve plain double-breasted hotel uniform into sophisticated HALLOWEEN MASQUERADE ILLUSIONIST attire, sharply designed rather than chef costume or generic striped jumpsuit. A contemporary asymmetrically cut short jacket with a strong raised angular BLACK collar framing bare skull, crisp WHITE-edged pointed lapels, large white colorable front panels separated by broad flowing BLACK optical bands, and ONE simple diagonal closure instead of two rows of round buttons. Bold striped sleeves remain and patterns flow from shoulder into trousers. Add one sculptural layered shoulder panel like 3 broad geometric raven-feather shapes, not tiny feather texture or decorative filigree. Keep slim broad optical-striped trousers and streamlined boots, oversized source sole unchanged. Upgrade existing little striped cap with a clean dark angular rim and ONE white crescent badge, full skull visible. Jacket hem curls UP against fall to reinforce downward motion, no long cape or hood, no ruffles/bowtie/waistcoat. Designer haunted masquerade character, refined and beautiful, skeletal hands and skull clear, no gore.
+
+2 NEW OPTICAL REFLECTION: within a section of the large WHITE S-CURVE RIM on LEFT-MIDDLE add ONE clearly bounded long narrow convex MIRROR INSET following the rim's exact curve, substantial thick black border/white bevel. Inside this single mirrored strip show a PARTIAL warped reflection of the SAME skull with crescent-badge cap and raised angular collar, plus just a short striped shoulder fragment, seen from side and stretched by curved surface. Recognizable matching eye sockets, teeth and cap stripe direction, source same costume. Reflection is smaller, strongly compressed and clipped entirely inside bounded strip. No full duplicate skeleton, no extra actual arm/leg, no unrelated skull decoration or framed portrait. Keep white rim visible around mirror so floor-to-shaft geometry remains readable.
+
+3 SUBTLE HALLOWEEN ATMOSPHERE: ONLY replace the distant upper-lobby flower arrangement on center table with a clean sculptural candelabrum carrying THREE slim candles and restrained curling wax, in same small silhouette footprint. Replace no other furniture/architecture. No pumpkins, sheet ghosts, cute bats, webs or scattering icons. Main Halloween impact comes from styled skeletal illusionist and uncanny distorted reflection.
+
+BOLD BLACK AND WHITE premium optical COLORING art, THICK confident contours, broad decisive BLACK accents, generous enclosed WHITE areas to color. No gray shading, hatching, thin engraving, text or global lightening. Preserve source dynamic fall and spatial drama; changes limited to costume, bounded rim reflection and distant candle arrangement.
+
+Next safe step: owner response to this one skeleton refinement; preserve other finals and waiter lock.

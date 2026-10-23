@@ -16,6 +16,12 @@ Before the legacy Step 1 read order, every fresh RSE execution chat must read:
 5. `orchestration/control-plane/RSE_MODEL_ROUTING_V1.yml` and its own lane profile;
    acknowledge observed runtime settings at the next meaningful checkpoint.
 
+2026-10-22 practical operating update: read
+`orchestration/strategy/RSE_PRACTICAL_GROWTH_RULES_2026-10-22.md` once at
+startup/next meaningful checkpoint. Apply it within the current lane, existing
+revenue queue and owner locks; record adoption with the next real result.
+A repository notice does not start a closed chat or prove execution.
+
 Execution ownership is now one-writer-per-lane. The Central Control Tower is read/sync-only on delegated product/marketing lanes and must not duplicate their source work.
 
 When current Control Plane ownership conflicts with older central/delegated wording in this file or older checkpoints, the Control Plane ownership model wins unless the owner explicitly changes it.

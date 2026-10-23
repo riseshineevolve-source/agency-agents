@@ -1,11 +1,11 @@
 lane: marketing_autopilot
 title: RSE Marketing Autopilot
-updated: 2026-10-21
-status: WILD_ILLUSIONS_PRIMARY_OWNER_REVIEW__GENTLE_STEPS_COPY_PRESERVED
+updated: '2026-10-23'
+status: OPTICAL_ANIMALS_UPGRADED__HALLOWEEN_MARKETING_CANDIDATE_PREPARED
 branch_or_repo_state:
   repository: riseshineevolve-source/agency-agents
   branch: feat/marketing-autopilot-takeover-20261021
-  base_main: 38bb97965e81a490345c5fbfe9843008d3a66756
+  base_main: 46ed107278ccf5e56baa8be18745ebc0ec5563c3
   scope: marketing_surfaces_and_this_mailbox_only
 milestone:
   gentle_steps:
@@ -23,12 +23,21 @@ milestone:
   measurement: FRESH_METRICOOL_BRAND_AND_IG_READS__NO_CURRENT_WINNER_PROVEN
   wild_illusions:
     priority: PRIMARY_FIRST_REVENUE_SPRINT
-    packet: LISTING_KEYWORDS_CATEGORY_INTENTS_CONDITIONAL_PRICING_THREE_ORGANIC_DRAFTS
-    source: V4_48_PAGES_SHA_VERIFIED__READ_ONLY
+    packet: FULL_COPY_AND_8_REVIEW_LAYOUTS__OWNER_READ_CANDIDATE
+    source: OWNER_ATTACHMENT_SHA_D745547D__48PAGES__READ_ONLY
     visual_qa: THREE_SOURCE_FAITHFUL_ASSETS_VIEWED__OWNER_ACCEPTANCE_PENDING
     public_paid: NO_ACTIVATION
+    copy_review: 31SEGMENTS__TWO_REVIEWERS_FOUR_STAGES_PASS__LANGUAGE_TOOL_PASS
+    tagline: Art to color. A moment of your own.
+  optical_halloween:
+    packet: 29SEGMENTS_AND_8_REVIEW_LAYOUTS__PRE_RELEASE_CANDIDATE
+    source: THREE_APPROVED_ORIGINAL_HASHES_VERIFIED__SELECTED15_NOT_FINAL20
+    review: TWO_REVIEWERS_FOUR_STAGES_PASS__LANGUAGE_TOOL_PASS
+    queenV42: EXCLUDED_PENDING_OWNER_APPROVAL
+    metadata: TITLE_ROSTER_COUNT_FORMAT_AUDIENCE_RELEASE_UNFROZEN
 blocker:
-- Wild_Illusions_final_intro_full_wrap_metadata_KDP_settings_and_proof_not_bound
+- Optical_Animals_exact_cover_metadata_KDP_preview_and_proof_not_verified
+- Halloween_final_retail_title_roster_assembled_product_metadata_not_frozen
 - current_exact_approved_Christmas_identity_assets_and_editable_cover_master_not_resolved
 - final_cover_template_QR_destination_and_print_fit_not_verified
 - current_product_card_and_live_destination_links_not_verified
@@ -51,6 +60,7 @@ dependencies_needed:
   need: preserve existing four October20 bilingual guide candidates and source-mapped teaser decisions; this marketing packet
     does not replace guides or product language locks.
 reusable_outputs:
+- marketing/optical-series/2026-10-23/CHECKPOINT.md
 - marketing/WILD_ILLUSIONS_PRODUCT_MARKETING_BRIEF_2026-10-21.md
 - marketing/gentle-steps/2026-10-21/COPY_PACK.md
 - marketing/gentle-steps/2026-10-21/copy.pl.final.json
@@ -61,14 +71,14 @@ reusable_outputs:
 - marketing/gentle-steps/2026-10-21/qa/
 - marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
 - marketing/PERFORMANCE_MEMORY.yml
-next_safe_task: Resume primary Wild Illusions from exact producer release packet and real KDP settings; use prepared owner
-  packet without regenerating art. Gentle Steps reviewed copy remains preserved. Publish only after owner release gate and
-  verified Live link.
-checkpoint_reference: marketing/WILD_ILLUSIONS_PRODUCT_MARKETING_BRIEF_2026-10-21.md
+next_safe_task: Owner review of both prepared marketing families; consume actual release metadata and exact approved source
+  files. Halloween no final20/title/count claims. Preserve Gentle Steps and Detective holds. No publication/paid activation.
+checkpoint_reference: marketing/optical-series/2026-10-23/CHECKPOINT.md
 runtime_policy_ack:
   policy: rse-weekly-usage-2026-10-21-v1
-  model: UNKNOWN
+  model: gpt-6.1-sol-wm__FROM_SESSION_CONTEXT
   reasoning: UNKNOWN
   speed: UNKNOWN
   control: RECOMMENDATION_ONLY
   recommended: Luna Medium adaptations; Sol Medium master judgment
+practical_growth_ack: RSE_PRACTICAL_GROWTH_RULES_2026-10-22__APPLIED_OUTCOME_EVIDENCE_UNKNOWN_METRICS

@@ -1,19 +1,17 @@
 name: RSE portfolio guardrails
 
 on:
-  pull_request:
-    paths:
-      - 'orchestration/**'
-      - '.github/workflows/check-rse-portfolio.yml'
-  push:
-    branches: [main]
-    paths:
-      - 'orchestration/**'
-      - '.github/workflows/check-rse-portfolio.yml'
+  workflow_dispatch:
+
+# Owner-authorized budget containment: manual gates only; local checks remain required.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   validate-portfolio-policy:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4

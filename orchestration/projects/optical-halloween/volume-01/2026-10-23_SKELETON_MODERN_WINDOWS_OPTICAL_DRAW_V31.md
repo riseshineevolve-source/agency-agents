@@ -1,0 +1,15 @@
+# Skeleton V31 — modern windows and optical draw
+
+Owner asks modern windows and replacing lobby table with stronger optical draw into depth. Earlier scratch source V30 was removed by workspace maintenance; used most recent conversation image via imagegen num_last_images_to_include=1, not a new reconstruction.
+
+Output: exec-9791de11-4a0c-4097-88f1-0e000ea2ea61.png
+SHA256: 81bd25e913129160fb95475333e8b36223b2d66f383a206347d9629f045f982b
+
+Actual root QA: modern tall rectangular windows with subtly rounded corners, large white panes and simple mullion now repeat on descending floors. Lobby table and loop pedestal gone; warped broad floor bands lead into nested portals. Modern chairs/loop lamps remain. Character falling pose, five main fingers, outfit/diamond cap, skull reflection, web sole, balcony levels/trees, curled checkerfloor and outer panels remain visually consistent. No other scene reopened. Owner aesthetics only; no objective score or print certification.
+
+Exact prompt:
+
+Use case: precise-object-edit. Edit the most recent complete skeleton illustration in this conversation (modern lobby with interlocking loop table, many descending balconies with potted trees and arched windows, huge web-tread foreground boot). TWO CHANGES ONLY:
+1. On the inner shaft facade replace ALL old arched windows with contemporary tall rectangular windows with subtly rounded corners, slim but confidently bold double black frames and large WHITE glass panes with just one simple mullion. No arches, ornamental molding or many tiny panes. Keep every window at its existing position and scale and conform frames to the same curved wall perspective. Preserve every balcony, railing, potted tree and geometric sconce.
+2. In the upper lobby REMOVE the center oval table AND its loop pedestal completely. In the space it occupied create a compelling optical DRAW INTO DEPTH: the EXISTING central nested black-white portals continue down to meet the floor, and a short sequence of broad warped black-white floor bands recedes seamlessly from the table's former footprint into those offset portals. Elegant impossible perspective, a spatial vacuum drawing the eye inward, with broad white colorable surfaces and bold controlled black gaps. All of this stays within the small distant top lobby area. No new giant whirlpool, no additional hole in main foreground, no table or replacement furniture. Keep lounge chairs, loop lamps, plants and piers in their current positions.
+LOCK ALL OTHER ELEMENTS: exact falling skeleton pose, five-digit main hand, all arms/legs, skull, diamond cap, masquerade clothing, giant web-pattern boot sole, far shoe, left mirror with matching skull reflection, great curling checkerboard foreground floor and white S rim, depth, number and contour of all descending balcony levels, trees, left outer white panels and right black-white shaft bands, full portrait crop. Pure bold black-white coloring ink, no gray/hatching, no candles, moths, new props or characters. Restrained local edits, no overall redesign.

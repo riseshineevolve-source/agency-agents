@@ -1,0 +1,14 @@
+# Skeleton V32 — sculptural optical windows
+
+Owner asks more interesting windows. Targeted window edit from V31.
+
+Output: exec-d616dafd-de43-4641-b377-7ba510333a4d.png
+SHA256: b47010ba3d5235b633fcbd7127dc07d2c274a0043d71d6bc042e57fb0ebac240
+Source V31 preserved: exec-9791de11-4a0c-4097-88f1-0e000ea2ea61.png.
+
+Root actual visual QA: windows now have asymmetric projecting beveled frames, staggered large pane subdivisions and bold diagonal reflection bands. Lower windows repeat simplified family. Small upper-right landing opening also adopted frame style (minor generative spillover, not pixel-identical preservation). Main pose/anatomy, skull reflection, diamond cap, huge web sole, balconies/trees, table-free optical lobby and checker curl retained visually. Other scene finals untouched; no new objects, no print certification. No concrete blocker identified.
+
+Exact prompt:
+
+Precise-object-edit of this exact premium black-white optical coloring page. CHANGE ONLY THE BALCONY WINDOWS on the descending inner facade. Their current plain rectangular two-pane design is too ordinary. Transform them into beautifully designed modern OPTICAL BAY WINDOWS, within the SAME existing footprints and locations. Each window has a sculptural asymmetrically beveled deep frame: thick white folded edges with selective bold black undercuts creating convincing 3D relief; one side projects toward the viewer while the opposite side recedes. Within each frame, use THREE OR FOUR LARGE WHITE GLASS PANES defined by boldly offset geometric mullions: an off-center vertical division and staggered horizontal divisions forming a refined stepped composition. Include one broad diagonal reflected architectural band within a large pane, bounded and clearly outlined; it should evoke the surrounding curved gallery rather than look like a flat decorative sticker. Windows remain recognizable as glazed architectural windows, not doors, nested tunnel portals or screens. Strong simple perspective, sophisticated asymmetry, spacious white colorable polygons, no tiny tessellation, no fine grilles. Repeat the coherent window family on every visible balcony floor, simplifying progressively with distance. Keep the upper-right partially occluded window behind the main hand consistent with this same design. Modern, gallery-level, clean precise thick ink.
+LOCK EVERYTHING ELSE: skeleton anatomy/expression/pose/outfit/diamond cap, both hands with existing digits, huge web sole and far boot, skull reflection in left mirror, every curved balcony slab and rail, all potted trees/sconces, modern top lobby chairs/loop lamps, table-free optical lobby floor tunnel, main curling checkerboard floor and white S rim, outer shaft bands and white left panels. Preserve full portrait composition, scale, camera, balance of black/white. No gray/hatching, new props, furniture, candles, moths, text or extra limbs. Only redesign the existing windows, no global architectural change.

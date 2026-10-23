@@ -1,17 +1,102 @@
 lane: unstoppable
 title: "Unstoppable / Book-First"
-updated: 2026-10-08
-status: OWNER_GATE_CONTENT_FREEZE
-branch_or_repo_state: "riseshineevolve-source/unstoppable-me@codex/unstoppable-book-first-20261008 head 7c02caf"
-milestone: book_source_locked_factory_adapter_ready
+updated: 2026-10-22
+status: OWNER_READ_CANDIDATE_V4_AUDITED_AND_DELIVERED__CONTENT_NOT_FROZEN
+branch_or_repo_state:
+  repository: riseshineevolve-source/unstoppable-me
+  branch: codex/unstoppable-book-first-20261008
+  head: c2bb98012fc3c879736cff0a1cc8556ae51c2b39
+  tree: c52a7591a18f8ae1c6f0caeab9607d2f4aceb425
+  writer_scope: unstoppable_only
+  previous_v2_v3_registry_app_backend_and_main: unchanged
+milestone: >-
+  Completed the owner's explicit22October full English content audit and
+  correction with four independent specialist agents. Each read all201V3
+  pages;37reported findings/proposals were resolved with59targeted substitutions
+  on42pages.159page texts and31original quotes remain exact. Delivered full
+  V4 reader PDF:31days,23129words,201pages,6x10in. New practical emotional/social
+  scripts, clearer checks, lighter planning and stronger reader membership.
 blocker: null
-owner_gate: exact_owner_read_candidate_v2_content_approval_and_freeze
+owner_gate: >-
+  Exact V4 content approval remains NOT_GRANTED. Owner may request specific
+  revisions or approve source SHA256
+  d7af332087d12c39833f46eb25b90d785e4685b4aeda895a5484830b697537de
+  before content freeze and shared Book Factory production. A request for
+  an audit is not freeze or publication approval.
+source:
+  path: book/source/PROJECT_UNSTOPPABLE_EN_OWNER_READ_CANDIDATE_V4.txt
+  git_blob: b914d60ecfa736ca275fdcb81b3fc1679ad965e4
+  sha256: d7af332087d12c39833f46eb25b90d785e4685b4aeda895a5484830b697537de
+  baseline_v3_sha256: c5e2cc7a34f09583f42091ffa5a9cb1c14b63402dd7fe2c75016cbd05b93d95e
+  content_frozen: false
+reader_pdf:
+  filename: PROJECT_UNSTOPPABLE_EN_V4_COMPLETE_TEXT.pdf
+  library_file_id: libfile_8851ad948d048191b6a48eec69290044
+  export_sha256: a255649a1143d275390ffbb32d19b4e54cdb9cb9d0f2bb13dba0efa2991e1ec8
+  retained_container_sha256: 155fe24d6f2090c1da050c85dfad81f478aa45d2fc6f087c22bd07227cde67f1
+  retained_and_export_all_201_page_renders: PIXEL_IDENTICAL_AT_72DPI
+  pages: 201
+  trim_inches: [6, 10]
+verification:
+  full_initial_independent_text_diagnostics: FOUR_ACTUAL_REVIEWERS_EACH_201_PAGES
+  final_exact_source_review_receipts: PASS_WITH_EXPLICIT_CHANGED_NEIGHBOR_DEPENDENCY_SCOPES
+  shared_language_studio: OWNER_READ_CANDIDATE_REAL_REVIEW_RECEIPTS
+  reported_findings_and_proposals_resolved: 37
+  targeted_substitutions: 59
+  changed_pages: 42
+  unchanged_page_texts: 159
+  original_mechanics_assertions: PASS_296
+  v4_prompt_and_key_assertions: PASS_108
+  actual_maze_boundaries: PASS_228
+  source_to_pdf_page_matches: PASS_201_OF_201
+  geometry_footer_reader_margins: PASS_201_OF_201
+  exact_original_figure_pixels: PASS_9_OF_9
+  footer_only_pages: 0
+  visual_contacts: ALL_201_PAGES
+  individual_visual_views: ALL_42_CHANGED_PAGES_9_FIGURES_AND_SELECTED_CONSUMERS_NOT_ALL_201
+  deterministic_book_map: PASS_REGEN_BYTE_EQUAL
+  exact_head_github_actions: NO_RUN_FOUND
+  exact_head_runs_observed: 0
+  exact_head_observed: c2bb98012fc3c879736cff0a1cc8556ae51c2b39
+  production_factory_binding: NOT_RUN_CONTENT_UNFROZEN
+  kdp_previewer_and_physical_proof: NOT_RUN
+production_handoff:
+  renderer: reuse_existing_shared_Book_Factory_exclusive_writer
+  new_renderer_created: false
+  layout_requirement: >-
+    Reader manuscript underscores are not final workbook writing-area acceptance.
+    Provide generous multi-field tool-list areas especiallypp182/185; update
+    references after any approved layout split. Preserve frozen wording later.
+  claims_boundary: >-
+    AI editorial reviews, not licensed clinical assessment, live teen panel,
+    efficacy validation, universal error-free guarantee or KDP readiness.
+model_policy_ack:
+  policy_id: rse-weekly-usage-2026-10-21-v1
+  recommended_profile: production
+  runtime_model_observed: not_exposed_by_tools
+  runtime_reasoning_observed: not_exposed
+  runtime_speed_observed: not_exposed
+  application_status: RECOMMENDATION_ONLY
+  delegation_authority: explicit_current_owner_request_four_scoped_specialists
+revenue_policy_ack:
+  id: rse-first-revenue-2026-10-21
+  scope: explicit_current_owner_bounded_final_audit_completed_no_new_launch_or_feature_work
 dependencies_needed: []
 reusable_outputs:
-  - book/source/PROJECT_UNSTOPPABLE_EN_OWNER_READ_CANDIDATE_V2.txt
-  - book/source/PUZZLE_TRUTH_REGISTRY.json
-  - book/build/source-lock-report.json
-  - book/build/project-unstoppable.en.book-map.json
-  - book/BOOK_FACTORY_INTERFACE.md
-next_safe_task: after_owner_approval_create_content_freeze_manifest_then_bind_shared_book_factory
-checkpoint_reference: "riseshineevolve-source/unstoppable-me:CHECKPOINT.yml"
+  - book/OWNER_READ_CANDIDATE_V4_MANIFEST.json
+  - book/reviews/V4_CONSOLIDATED_AUDIT.md
+  - book/reviews/V4_*_DIAGNOSTIC.md
+  - book/reviews/V4_*_FINAL.md
+  - book/reviews/V4_VISUAL_*.md
+  - book/editorial/v4-audit/V4_EDIT_LEDGER.json
+  - book/editorial/v4-audit/CONTENT_MAP.json
+  - book/editorial/v4-audit/GOLDEN_KEEP.json
+  - book/editorial/v4-audit/LANGUAGE_STUDIO_RECEIPT.json
+  - book/source/PUZZLE_PROMPT_ADDENDUM_V4.json
+  - book/build/project-unstoppable.en.v4.book-map.json
+  - book/BOOK_FACTORY_INTERFACE_V4.md
+next_safe_task: >-
+  Consume owner-specificV4 feedback or exactV4 approval. No automatic source
+  freeze, main merge, app work, KDP packaging/release or publication. No
+  background runtime/automation created.
+checkpoint_reference: "riseshineevolve-source/unstoppable-me@c2bb98012fc3c879736cff0a1cc8556ae51c2b39:CHECKPOINT.yml"

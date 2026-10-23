@@ -1,9 +1,13 @@
 # RSE Marketing Autopilot — Resume From Zero
 
 Status: CANONICAL RECOVERY ENTRYPOINT
-Updated: 2026-10-21
+Updated: 2026-10-23
 Execution owner: dedicated Marketing Autopilot chat
 Central owner: RSE Technical Orchestrator (milestones / blockers / shared dependencies / owner gates only)
+
+## 2026-10-23 Optical owner override
+
+Wild Illusions full family upgraded under exact owner line **Art to color. A moment of your own.** Then Halloween preparation completed. Read `marketing/optical-series/2026-10-23/CHECKPOINT.md` and current product mailboxes. Halloween remains pre-release without finalretailtitle/final20/assembledbook claims. This overlay supersedes older Animals V4/intro-pending marketing state below; source files are not modified. Product/public/paid gates remain separate.
 
 ## 2026-10-21 Revenue sprint continuation
 
