@@ -29,6 +29,7 @@ milestone:
     public_paid: NO_ACTIVATION
     copy_review: 31SEGMENTS__TWO_REVIEWERS_FOUR_STAGES_PASS__LANGUAGE_TOOL_PASS
     tagline: Art to color. A moment of your own.
+    keyword_research: THREE_SPECIALIST_AUDITS__FIVE_RELEVANCE_CANDIDATES__NO_VOLUME_OR_CONVERSION_CLAIM
   optical_halloween:
     packet: 29SEGMENTS_AND_8_REVIEW_LAYOUTS__PRE_RELEASE_CANDIDATE
     source: THREE_APPROVED_ORIGINAL_HASHES_VERIFIED__SELECTED15_NOT_FINAL20
@@ -60,6 +61,7 @@ dependencies_needed:
   need: preserve existing four October20 bilingual guide candidates and source-mapped teaser decisions; this marketing packet
     does not replace guides or product language locks.
 reusable_outputs:
+- marketing/optical-series/2026-10-23/KEYWORD_RESEARCH.md
 - marketing/optical-series/2026-10-23/CHECKPOINT.md
 - marketing/WILD_ILLUSIONS_PRODUCT_MARKETING_BRIEF_2026-10-21.md
 - marketing/gentle-steps/2026-10-21/COPY_PACK.md
@@ -71,8 +73,8 @@ reusable_outputs:
 - marketing/gentle-steps/2026-10-21/qa/
 - marketing/DETECTIVE_FROZEN_GOLD_MARKETING_FAMILY_2026-10-12.md
 - marketing/PERFORMANCE_MEMORY.yml
-next_safe_task: Owner review of both prepared marketing families; consume actual release metadata and exact approved source
-  files. Halloween no final20/title/count claims. Preserve Gentle Steps and Detective holds. No publication/paid activation.
+next_safe_task: Use new five-field keyword recommendation after comparison with actual final title/subtitle/categories and marketplace results.
+  Old seven superseded. Owner review and existing release gates remain. No publication or paid activation.
 checkpoint_reference: marketing/optical-series/2026-10-23/CHECKPOINT.md
 runtime_policy_ack:
   policy: rse-weekly-usage-2026-10-21-v1

@@ -614,3 +614,25 @@ optical_upgrade_2026_10_23:
     sales: null
     state: PRIVATE_REVIEW_ONLY
     next_hypothesis: Compare character curiosity with optical architecture after final product freeze/release
+
+optical_keyword_research_20261023:
+  status: RELEVANCE_RESEARCHED_NOT_DEMAND_VALIDATED
+  source: Current product PDF plus official KDP, Dover and public indexed Amazon offers
+  finding: Prior seven overemphasized mood/artwork. Reflection and monochrome terms
+    risk wrong product intent.
+  recommendation:
+  - optical illusion coloring
+  - intricate animals to color
+  - geometric coloring patterns
+  - detailed wildlife coloring
+  - mindful coloring
+  unused_slots:
+  - 6
+  - 7
+  search_volume: null
+  conversion: null
+  organic_keyword_attribution: null
+  autocomplete: NOT_VERIFIED
+  publication: NONE
+  paid_spend: NONE
+  evidence: marketing/optical-series/2026-10-23/KEYWORD_RESEARCH.md

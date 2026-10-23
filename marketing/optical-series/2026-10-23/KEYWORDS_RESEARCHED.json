@@ -1,0 +1,21 @@
+{
+  "status": "RESEARCHED_RELEVANCE_CANDIDATE__NOT_DEMAND_VALIDATED",
+  "marketplace_assumption": "Amazon.com",
+  "format": "English print",
+  "keywords": [
+    "optical illusion coloring",
+    "intricate animals to color",
+    "geometric coloring patterns",
+    "detailed wildlife coloring",
+    "mindful coloring"
+  ],
+  "unused_slots": [
+    6,
+    7
+  ],
+  "final_metadata_deduplication": "REQUIRED_AT_ENTRY",
+  "search_volume": null,
+  "conversions": null,
+  "autocomplete": "NOT_VERIFIED__PUBLIC_RETRIEVAL_FAILED",
+  "supersedes": "Prior seven candidates in October23 Animals packet; older ZIP and PDF unchanged"
+}
