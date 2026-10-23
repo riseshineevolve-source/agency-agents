@@ -12,9 +12,10 @@ for lang in ['pl','en']:
  bundle={'candidate_sha256':ch,'reviews':reviews,'actual_reviewers':3,'sole_candidate_writer':'root','normalization_only':True};out=R/'reviews'/('FINAL_REVIEW_'+lang.upper()+'.json');dump(out,bundle)
  run=load(R/'run'/lang/'run.json');issues=[]
  for u in load(cand)['segments']:
-  issues.append({'id':'UPGRADE-'+u['id'],'classification':'FIX','status':'RESOLVED','segments':[u['id']],'detail':'Actual diagnostic identified shared sales cadence, abstract/emotional pressure or register defects; upgrade preserves recognised openings and source-backed games.','resolution':'Root candidate and bounded13phrase closure; all actual four-stage final receipts PASS exact candidate. Initial diagnostic/R1FIX preserved.'})
+  issues.append({'id':'UPGRADE-'+u['id'],'classification':'FIX','final_classification':'KEEP','status':'RESOLVED','segment_id':u['id'],'detail':'Actual diagnostic identified shared sales cadence, abstract/emotional pressure or register defects; upgrade preserves recognised openings and source-backed games.','resolution':'Root candidate and bounded13phrase closure; all actual four-stage final receipts PASS exact candidate. Initial diagnostic/R1FIX preserved.'})
  dump(R/'run'/lang/'issue-ledger.json',{'run_sha256':run['manifest_sha256'],'candidate_sha256':ch,'diagnostic':'COMPLETE','issues':issues,'source_ambiguities':[]})
  subprocess.run(['python',str(W/'engine-v10/scripts/rse-language.py'),'check','--run',str(R/'run'/lang),'--candidate',str(cand),'--reviews',str(out),'--output',str(R/'qa'/('CLI_CHECK_'+lang.upper()+'.json'))],check=True,stdout=subprocess.DEVNULL)
+ report=load(R/'qa'/('CLI_CHECK_'+lang.upper()+'.json'));assert report['status']=='OWNER_READ_CANDIDATE' and not report['unresolved_issues'] and report['deterministic_qa']=='PASS'
  for x in load(cand)['segments']:
   # Reader text is already in the exact bound MD; metadata stays out of the Word copies.
   body=re.sub(r'\A---\n.*?\n---\n','',x['text'],flags=re.S)

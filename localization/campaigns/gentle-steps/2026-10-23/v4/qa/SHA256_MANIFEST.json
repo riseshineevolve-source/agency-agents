@@ -186,8 +186,8 @@
     },
     {
       "path": "finalize.py",
-      "sha256": "f34f9a21e370960357eb22f015a4f806eced550218bcda8b47e6038fc5441533",
-      "bytes": 6057
+      "sha256": "0f643bb06bde92499a0fd5adfa5a641ca3a002c2f2d029ac28f087ff15f82b21",
+      "bytes": 6267
     },
     {
       "path": "package.py",
@@ -200,12 +200,27 @@
       "bytes": 5086
     },
     {
+      "path": "prepare_git.py",
+      "sha256": "9ad12c993b3495b9db34bdbd5b4ae5f9d5444f574f845ac13076acb175cf4ef5",
+      "bytes": 3730
+    },
+    {
       "path": "qa/CLI_CHECK_EN.json",
+      "sha256": "c24a5bfab5a48acd2b129bd6daa6bc991909e00e7d28f2b869560dfce655fdc3",
+      "bytes": 613
+    },
+    {
+      "path": "qa/CLI_CHECK_EN_before_ledger_binding.json",
       "sha256": "4ccdd034d2daf289d2eb794b7ea8b50b64be9fea56c6d5a1301bc004b70865bb",
       "bytes": 813
     },
     {
       "path": "qa/CLI_CHECK_PL.json",
+      "sha256": "a66e9b1b6dad97c18ba8e49990316d73daf81ae8a63720a9cd51069c8aeb5349",
+      "bytes": 613
+    },
+    {
+      "path": "qa/CLI_CHECK_PL_before_ledger_binding.json",
       "sha256": "af045b93ab2bf36bfc70d21974c0163443efe5cbc2aa41c856ea8eb306222d28",
       "bytes": 813
     },
@@ -416,8 +431,8 @@
     },
     {
       "path": "run/en/issue-ledger.json",
-      "sha256": "33f58f6dc5ae79e686c4e88021c17d4d5d87e19738ff6bcfc8b4e64f36560ba1",
-      "bytes": 1225
+      "sha256": "5953b7b045f9ce0dc690c03b84666c368920cdbcfb6d9e4876b1e36be6b1c0c1",
+      "bytes": 1269
     },
     {
       "path": "run/en/run.json",
@@ -456,8 +471,8 @@
     },
     {
       "path": "run/pl/issue-ledger.json",
-      "sha256": "3dda64c57111042ddc9f617c28e385c89a4a98b173c6acf8adc9e7f75d49ebe9",
-      "bytes": 1225
+      "sha256": "eaefd78aab65d8c2f49be02ace653e9eedd7adbbcf358d55f8fbdf80ab0f6af8",
+      "bytes": 1269
     },
     {
       "path": "run/pl/run.json",

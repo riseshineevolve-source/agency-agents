@@ -1,20 +1,9 @@
 {
-  "status": "LANGUAGE_REVIEW_REQUIRED",
+  "status": "OWNER_READ_CANDIDATE",
   "diagnostic": "COMPLETE",
-  "unresolved_issues": [
-    {
-      "id": "UPGRADE-PL01",
-      "classification": "FIX",
-      "segment_id": null
-    },
-    {
-      "id": "UPGRADE-PL02",
-      "classification": "FIX",
-      "segment_id": null
-    }
-  ],
+  "unresolved_issues": [],
   "unresolved_source_ambiguities": [],
-  "issue_ledger_sha256": "3dda64c57111042ddc9f617c28e385c89a4a98b173c6acf8adc9e7f75d49ebe9",
+  "issue_ledger_sha256": "eaefd78aab65d8c2f49be02ace653e9eedd7adbbcf358d55f8fbdf80ab0f6af8",
   "deterministic_qa": "PASS",
   "candidate_sha256": "e15d06ba1497fe04e168ec5e60a823b0988f7bd9dc760e9856a70616adf6e6ee",
   "changed_segments": [

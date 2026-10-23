@@ -22,6 +22,7 @@ for p in R.rglob('*'):
  if not p.is_file() or any(x in p.parts for x in ['render','private-helpers','git-stage','__pycache__','engine-snapshot']):continue
  rel=p.relative_to(R)
  if p.suffix not in ['.md','.json','.py','.yml']:continue
+ if p.name.endswith('UPLOAD_REQUEST.json'):continue
  if p.name in ['source-bundle.json','git-payload.json','UPLOAD_REQUEST.json','GITHUB_SAVE.json']:continue
  files.append({'path':prefix+str(rel),'mode':'100644','type':'blob','content':p.read_text()})
 files.extend([{'path':'orchestration/control-plane/mailboxes/polish_localization.yml','mode':'100644','type':'blob','content':(stage/'mailbox.yml').read_text()},{'path':'localization/campaigns/gentle-steps/CURRENT_ARTICLES.json','mode':'100644','type':'blob','content':(stage/'CURRENT_ARTICLES.json').read_text()}])
