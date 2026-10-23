@@ -9,11 +9,11 @@ worlds:
 read_only_reference: "Optical Animals visual DNA; no product/factory mutations."
 excluded_work: "Search tokens, seek-and-find, factory masks, book assembly, pagination and KDP packaging."
 updated: 2026-10-23
-status: WAX_QUEEN_CURVED_MIRROR_CHAMBER_V42_DELIVERED
+status: WAX_QUEEN_IMPOSSIBLE_GOWN_V43_DELIVERED
 branch_or_repo_state: "agency-agents main documentation; selected-15 originals unchanged; new image binaries remain in owner conversation, not GitHub."
-milestone: "Queen V42 delivered: queen at very top, long asymmetric gown forming varied candles, concave rear chamber/convex side mirror/elliptical floor reflection. V41 direction liked but final not approved."
+milestone: "Queen V43 substantial concept upgrade delivered after actual14/dog/jester comparison: giant open gown canopy, exposed underside/thickness, hollow candle and diverse wax forms, cleaned bold floor reflections."
 blocker: null
-owner_gate: "Owner visual response to queen V42. Direction acceptance of V41 is not final-art approval; other scenes remain closed."
+owner_gate: "Owner visual review of V43; fresh jury vetoed V42 finality and found V43 concept materially stronger. No owner final approval inferred."
 dependencies_needed: []
 reusable_outputs:
   - "15/15 supplied approved original PNG hashes match MANIFEST_15.csv; zero mutations."
@@ -21,11 +21,11 @@ reusable_outputs:
   - "Creative board: Visual Storyteller, Brand Guardian, Image Prompt Engineer, Reality Checker, UI/Print Finish-Gate Reviewer."
   - "Corrected hand crop, crown-flame crop and painter extra arm; final five pass visual checks as candidates."
   - "Owner corrected takeover entry point on 2026-10-21; official Halloween bootstrap and three world bibles reconstructed. Five artworks and their pending approval status unchanged."
-next_safe_task: "Preserve queen V42/V41 bank and all other scene finals. Continue only explicit owner corrections/approval or concrete blockers; illustrations only."
-checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_WAX_QUEEN_CURVED_MIRROR_CHAMBER_V42.md"
+next_safe_task: "Preserve V43 and earlier bank. Other scenes/skeleton V37/waiter remain closed. Only explicit owner steering/proven blockers; illustrations only."
+checkpoint_reference: "orchestration/projects/optical-halloween/volume-01/2026-10-23_WAX_QUEEN_IMPOSSIBLE_GOWN_V43.md"
 registration_note: "Dedicated Halloween illustration lane created for owner-requested handoff; central registry registration pending Central reconciliation. No Animals or central-registry edits."
 
-closing_pass_qa: "Actual V42 root and independent Reality/Finish review: five physical gown-candles, five crown flames, coherent hood/hands, bounded surreal reflections, principal flames inside frame. No ray-correct claim."
+closing_pass_qa: "Actual base V43 reviewed by two fresh concept/coloring critics, final by root. Floor gray wash/streaks removed locally. Six visible physical candle forms retained honestly; no exact-five or ray-correct claim."
 
 premium_rebuild_notes:
   - "Approved15 original PNGs remain hash-identical."
@@ -238,3 +238,9 @@ wax_queen_curved_mirror_chamber_v42:
   - "V42 concave rear reflective chamber, convex side mirror and elliptical concave floor reflection; top queen/asymmetric wax cascade retained."
   - "Latest exec-22adb3b6-a9e4-4f81-9c93-700164426551.png SHA256 8bc21cdb4a28372e14adb96892399fb14f11e500d9948765dd6d592474f3cf53."
   - "Reflection inventions explicitly permitted by owner; no physical accuracy or printmaster certification."
+
+wax_queen_impossible_gown_v43:
+  - "Actual contact14 and full dog/jester art re-inspected via Desktop Commander at local art root, read-only. Fresh jury identifies lack of dominant spatial event in V42."
+  - "Queen high above, immense open wax canopy, visible front/back/thickness, cut-through candle and mirror revealing hidden geometry; floor gray/streak cleanup."
+  - "Final exec-ad6dcc30-f1ef-4395-8f94-3fa02c32d9ce.png SHA256 0b5589fdad1c00ce0655e1aa31488fa15fda303952673cabe3291402d3908ce5."
+  - "Output has six visible physical candle forms despite internal five target; latest owner does not impose count. No exact optical/printmaster certification."
